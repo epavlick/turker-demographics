@@ -1,0 +1,10 @@
+
+*.log
+
+writeup/paper.synctex.gz
+
+writeup/paper.log
+
+writeup/paper.bbl
+
+writeup/paper.blg
