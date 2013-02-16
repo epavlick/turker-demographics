@@ -1,0 +1,8 @@
+өңдейтін	operating,
+іргетасын	foundament,
+оқулықтарының	text-books,
+бірқатары	number of,
+секілді	is like,
+ұғымды	understandable,
+дүнгендер	[dun-ghender],
+малға	cattle,
