@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.10)  13 FEB 2013 10:20
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.10)  14 FEB 2013 11:43
 entering extended mode
  %&-line parsing enabled.
 **paper.tex
@@ -223,8 +223,7 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 (/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip56
 \subfig@bottom=\skip57
-)
-No file paper.aux.
+) (./paper.aux)
 \openout1 = `paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
@@ -240,6 +239,7 @@ LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 42.
+
 (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -444,14 +444,6 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
-
-LaTeX Warning: Reference `tranhit' on page 3 undefined on input line 112.
-
-
-LaTeX Warning: Reference `synhit' on page 3 undefined on input line 112.
-
 
 Underfull \hbox (badness 1253) in paragraph at lines 110--115
 \OT1/ptm/m/n/10.95 Turk to cre-ate low cost, high qual-ity bilin-gual
@@ -535,8 +527,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `survey-tab' on page 4 undefined on input line 117.
+Package caption Warning: \label before \caption on input line 139.
+See the caption package documentation for explanation.
 
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
 
 LaTeX Warning: Reference `numlangs-tab' on page 4 undefined on input line 117.
 
@@ -551,7 +546,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--118
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--139
+Overfull \hbox (14.54683pt too wide) in paragraph at lines 121--140
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--140
 
  []
 
@@ -565,15 +565,6 @@ File: figures/assign-turk-scatter.png Graphic file (type png)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-LaTeX Warning: Reference `ass-scatter' on page 4 undefined on input line 152.
-
-
-LaTeX Warning: Reference `lang-pie' on page 4 undefined on input line 152.
-
-
-LaTeX Warning: Reference `langgeo-bar' on page 4 undefined on input line 152.
-
 [4 <./figures/synonyms_hit_mturk.png>]
 <figures/assign-langgeo-sorted.png, id=35, 1180.1691pt x 641.0349pt>
 File: figures/assign-langgeo-sorted.png Graphic file (type png)
@@ -583,37 +574,37 @@ File: figures/assign-langgeo-sorted.png Graphic file (type png)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 164--166
+Underfull \hbox (badness 3281) in paragraph at lines 165--167
 \OT1/ptm/m/n/10.95 The pri-mary chal-lenge of us-ing crowd-sourced
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 164--166
+Underfull \hbox (badness 1112) in paragraph at lines 165--167
 \OT1/ptm/m/n/10.95 lan-guage data is the widely vari-able qual-ity of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--166
+Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 164--166
+Underfull \hbox (badness 1584) in paragraph at lines 165--167
 \OT1/ptm/m/n/10.95 In or-der to ad-dress the qual-ity of the trans-la-
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 164--166
+Underfull \hbox (badness 2735) in paragraph at lines 165--167
 \OT1/ptm/m/n/10.95 tions we re-ceived on the dic-tio-nary task, we
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--166
+Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--166
+Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
 
@@ -628,43 +619,22 @@ File: figures/quality-hitlang.png Graphic file (type png)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `quality-scatter' on page 5 undefined on input line 19
-2.
-
-
-LaTeX Warning: Reference `hitlangqual-bar' on page 5 undefined on input line 19
-2.
-
-
-LaTeX Warning: Reference `ass-scatter' on page 5 undefined on input line 192.
-
-
-Underfull \hbox (badness 1303) in paragraph at lines 192--193
+Underfull \hbox (badness 1303) in paragraph at lines 193--194
 \OT1/ptm/m/n/10.95 coun-tries which pro-duced more trans-la-tions did
  []
 
 
-Underfull \hbox (badness 1946) in paragraph at lines 192--193
+Underfull \hbox (badness 1946) in paragraph at lines 193--194
 \OT1/ptm/m/n/10.95 in-clud-ing Hindi, Tel-ugu, Malay-alam, Marathis,
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 192--193
-\OT1/ptm/m/n/10.95 shown in fig-ure []. The no-table ex-cep-tion is
- []
-
-
-Underfull \hbox (badness 1810) in paragraph at lines 192--193
-\OT1/ptm/m/n/10.95 trans-la-tors, mak-ing qual-ity more sus-cep-ti-ble to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
@@ -676,24 +646,17 @@ File: figures/quality-natlang-sorted.png Graphic file (type png)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `natlangqual-bar' on page 5 undefined on input line 20
-3.
-
-
-LaTeX Warning: Reference `langgeo-bar' on page 5 undefined on input line 203.
-
-
-Underfull \hbox (badness 1024) in paragraph at lines 203--204
+Underfull \hbox (badness 1024) in paragraph at lines 204--205
 \OT1/ptm/m/n/10.95 speak-ers pro-duce sig-nif-i-cantly bet-ter trans-la-tions
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
@@ -707,43 +670,51 @@ File: figures/quality-scatter-avgturkers-country-labeled.png Graphic file (type
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `numlangs-tab' on page 5 undefined on input line 214.
+Package caption Warning: \label before \caption on input line 139.
+See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `mism-tab' on page 5 undefined on input line 214.
+LaTeX Warning: Reference `numlangs-tab' on page 5 undefined on input line 215.
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 214--215
+Package caption Warning: \label before \caption on input line 179.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `mism-tab' on page 5 undefined on input line 215.
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 215--216
 []\OT1/ptm/m/n/10.95 Self-reported coun-try in-for-ma-tion is typ-i-cally
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 214--215
+Underfull \hbox (badness 3250) in paragraph at lines 215--216
 \OT1/ptm/m/n/10.95 their na-tive lan-guage re-ported a sin-gle na-tive
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 214--215
+Underfull \hbox (badness 2538) in paragraph at lines 215--216
 \OT1/ptm/m/n/10.95 with au-to-mat-i-cally re-ported lo-ca-tions, al-though
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 214--215
+Underfull \hbox (badness 1297) in paragraph at lines 215--216
 \OT1/ptm/m/n/10.95 as-sign-ments in which Turk-ers mis-re-ported their
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 217--219
+Underfull \hbox (badness 10000) in paragraph at lines 218--220
 
  []
 
@@ -760,13 +731,10 @@ igures/quality-natlang-sorted.png>]
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 3690 strings out of 495061
- 51438 string characters out of 1182621
+ 3692 strings out of 495061
+ 51458 string characters out of 1182621
  119844 words of memory out of 3000000
  6790 multiletter control sequences out of 15000+50000
  24631 words of font info for 76 fonts, out of 3000000 for 9000
@@ -784,7 +752,7 @@ ublic/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/rsfs/r
 sfs10.pfb></usr/share/texmf-texlive/fonts/type1/urw/courier/ucrr8a.pfb></usr/sh
 are/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fo
 nts/type1/urw/times/utmr8a.pfb>
-Output written on paper.pdf (9 pages, 972089 bytes).
+Output written on paper.pdf (9 pages, 972198 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
