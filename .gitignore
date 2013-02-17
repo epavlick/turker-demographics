@@ -22,3 +22,5 @@ data/country-language-pairings/.DS_Store
 *.log
 
 writeup/paper.synctex.gz
+
+*.log
