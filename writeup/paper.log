@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  17 FEB 2013 11:57
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  17 FEB 2013 14:30
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -245,19 +245,19 @@ LaTeX Warning: Label `mism-tab' multiply defined.
 )
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 34.
  (/usr/local/texlive/2010/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -326,69 +326,65 @@ Package caption Info: End \AtBeginDocument code.
 
 Redefining \end@dblfloat\ for use with subfigure
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
-LaTeX Font Info:    Try loading font information for U+msa on input line 40.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
 (/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 40.
+LaTeX Font Info:    Try loading font information for U+msb on input line 35.
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 40.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 35.
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 40.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 35.
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 40.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-Underfull \hbox (badness 1776) in paragraph at lines 51--54
+Underfull \hbox (badness 1776) in paragraph at lines 46--49
 \OT1/ptm/m/n/10.95 source of data for nat-u-ral lan-guage pro-cess-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--54
+Underfull \hbox (badness 10000) in paragraph at lines 46--49
 
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 51--54
+Underfull \hbox (badness 5231) in paragraph at lines 46--49
 \OT1/ptm/m/n/10.95 We eval-u-ate the lan-guage skills of bilin-gual
  []
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 51--54
+Underfull \hbox (badness 1939) in paragraph at lines 46--49
 \OT1/ptm/m/n/10.95 abil-ity to pro-vide trans-lated data for sta-tis-ti-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--54
+Underfull \hbox (badness 10000) in paragraph at lines 46--49
 
  []
 
 
-Underfull \hbox (badness 4429) in paragraph at lines 51--54
+Underfull \hbox (badness 4429) in paragraph at lines 46--49
 \OT1/ptm/m/n/10.95 bilin-gual dic-tio-nar-ies for over 100 lan-guages,
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 51--54
+Underfull \hbox (badness 1137) in paragraph at lines 46--49
 \OT1/ptm/m/n/10.95 con-tain-ing over 10,000 words each, us-ing only
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 51--54
+Underfull \hbox (badness 1565) in paragraph at lines 46--49
 \OT1/ptm/m/n/10.95 trans-la-tors avail-able on Me-chan-i-cal Turk. We
  []
 
@@ -396,7 +392,7 @@ Underfull \hbox (badness 1565) in paragraph at lines 51--54
 File: figures/natlang-pie.png Graphic file (type png)
 
 <use figures/natlang-pie.png>
-Overfull \hbox (36.13501pt too wide) in paragraph at lines 58--59
+Overfull \hbox (36.13501pt too wide) in paragraph at lines 53--54
  [][] 
  []
 
@@ -404,17 +400,17 @@ Overfull \hbox (36.13501pt too wide) in paragraph at lines 58--59
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 65--68
+Underfull \hbox (badness 1248) in paragraph at lines 60--63
 \OT1/ptm/m/n/10.95 in-tel-li-gence'; it pro-vides a sim-ple in-ter-face for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--68
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--68
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
 
  []
 
@@ -427,69 +423,69 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 70--73
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
 
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 70--73
+Underfull \hbox (badness 1117) in paragraph at lines 65--68
 \OT1/ptm/m/n/10.95 Typically, re-searchers rely on large amounts of
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 70--73
+Underfull \hbox (badness 1122) in paragraph at lines 65--68
 \OT1/ptm/m/n/10.95 la-bels to sub-sti-tute for pro-fes-sional an-no-ta-tions,
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 70--73
+Underfull \hbox (badness 1077) in paragraph at lines 65--68
 \OT1/ptm/m/n/10.95 or bounded nu-meric in-puts. As NLP re-search
  []
 
 
-Underfull \hbox (badness 2057) in paragraph at lines 70--73
+Underfull \hbox (badness 2057) in paragraph at lines 65--68
 \OT1/ptm/m/n/10.95 ad-vances, the level of ex-per-tise re-quired from
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 70--73
+Underfull \hbox (badness 1178) in paragraph at lines 65--68
 \OT1/ptm/m/n/10.95 for Ma-chine Trans-la-tion, a task which re-quires
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--73
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
 
  []
 
 
-Underfull \hbox (badness 2409) in paragraph at lines 70--73
+Underfull \hbox (badness 2409) in paragraph at lines 65--68
 \OT1/ptm/m/n/10.95 As the use of MTurk has grown, re-searchers
  []
 
 
-Underfull \hbox (badness 2556) in paragraph at lines 70--73
+Underfull \hbox (badness 2556) in paragraph at lines 65--68
 \OT1/ptm/m/n/10.95 abil-i-ties, Munro com-piled sur-vey re-sponses of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--73
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--73
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
 
  []
 
 [2 <./figures/natlang-pie.png>]
-<figures/vocabulary_hit_mturk.png, id=15, 1252.68pt x 1135.24126pt>
+<figures/vocabulary_hit_mturk.png, id=14, 1252.68pt x 1135.24126pt>
 File: figures/vocabulary_hit_mturk.png Graphic file (type png)
 
 <use figures/vocabulary_hit_mturk.png>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-<figures/synonyms_hit_mturk.png, id=16, 1252.68pt x 1302.8675pt>
+<figures/synonyms_hit_mturk.png, id=15, 1252.68pt x 1302.8675pt>
 File: figures/synonyms_hit_mturk.png Graphic file (type png)
 
 <use figures/synonyms_hit_mturk.png>
@@ -497,77 +493,77 @@ File: figures/synonyms_hit_mturk.png Graphic file (type png)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 110--115
+Underfull \hbox (badness 1253) in paragraph at lines 105--110
 \OT1/ptm/m/n/10.95 Turk to cre-ate low cost, high qual-ity bilin-gual
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--115
+Underfull \hbox (badness 10000) in paragraph at lines 105--110
 
  []
 
 
-Underfull \hbox (badness 6078) in paragraph at lines 110--115
+Underfull \hbox (badness 6078) in paragraph at lines 105--110
 \OT1/ptm/m/n/10.95 We chose the lan-guages which were highly
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 110--115
+Underfull \hbox (badness 1394) in paragraph at lines 105--110
 \OT1/ptm/m/n/10.95 guages for which there ex-isted at least 10,000
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 110--115
+Underfull \hbox (badness 1264) in paragraph at lines 105--110
 \OT1/ptm/m/n/10.95 ap-prox-i-mately 1,000 avail-able ar-ti-cles, giv-ing a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--115
+Underfull \hbox (badness 10000) in paragraph at lines 105--110
 
  []
 
 
-Underfull \hbox (badness 3623) in paragraph at lines 110--115
+Underfull \hbox (badness 3623) in paragraph at lines 105--110
 \OT1/ptm/m/n/10.95 The dic-tio-nary cre-ation task was bro-ken into
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--115
+Underfull \hbox (badness 10000) in paragraph at lines 105--110
 
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 110--115
+Underfull \hbox (badness 1127) in paragraph at lines 105--110
 \OT1/ptm/m/n/10.95 For the eval-u-a-tion task, Turk-ers were shown a
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 110--115
+Underfull \hbox (badness 1052) in paragraph at lines 105--110
 \OT1/ptm/m/n/10.95 of one of the em-bed-ded qual-ity con-trol words,
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 110--115
+Underfull \hbox (badness 1024) in paragraph at lines 105--110
 \OT1/ptm/m/n/10.95 the eval-u-a-tion pro-cess fur-ther in the Mea-sur-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--115
+Underfull \hbox (badness 10000) in paragraph at lines 105--110
 
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 110--115
+Underfull \hbox (badness 4621) in paragraph at lines 105--110
 \OT1/ptm/m/n/10.95 Quality con-trol for the eva-l-u-ta-tion HIT con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--115
+Underfull \hbox (badness 10000) in paragraph at lines 105--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--115
+Underfull \hbox (badness 10000) in paragraph at lines 105--110
 
  []
 
@@ -576,42 +572,42 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Package caption Warning: \label before \caption on input line 139.
+Package caption Warning: \label before \caption on input line 134.
 See the caption package documentation for explanation.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
 
-LaTeX Warning: Reference `numlangs-tab' on page 4 undefined on input line 117.
+LaTeX Warning: Reference `numlangs-tab' on page 4 undefined on input line 112.
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 117--118
+Underfull \hbox (badness 1675) in paragraph at lines 112--113
 \OT1/ptm/m/n/10.95 At the start of each HIT, Turk-ers were asked
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
 [4]
-Overfull \hbox (14.54683pt too wide) in paragraph at lines 121--140
+Overfull \hbox (14.54683pt too wide) in paragraph at lines 116--135
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--140
+Underfull \hbox (badness 10000) in paragraph at lines 116--135
 
  []
 
-<figures/assign-turk-scatter.png, id=25, 1180.1691pt x 641.0349pt>
+<figures/assign-turk-scatter.png, id=24, 1180.1691pt x 641.0349pt>
 File: figures/assign-turk-scatter.png Graphic file (type png)
 
 <use figures/assign-turk-scatter.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/assign-langgeo-sorted.png, id=26, 1180.1691pt x 641.0349pt>
+<figures/assign-langgeo-sorted.png, id=25, 1180.1691pt x 641.0349pt>
 File: figures/assign-langgeo-sorted.png Graphic file (type png)
 
 <use figures/assign-langgeo-sorted.png>
@@ -619,44 +615,44 @@ File: figures/assign-langgeo-sorted.png Graphic file (type png)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 165--167
+Underfull \hbox (badness 3281) in paragraph at lines 160--162
 \OT1/ptm/m/n/10.95 The pri-mary chal-lenge of us-ing crowd-sourced
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 165--167
+Underfull \hbox (badness 1112) in paragraph at lines 160--162
 \OT1/ptm/m/n/10.95 lan-guage data is the widely vari-able qual-ity of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
 
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 165--167
+Underfull \hbox (badness 1584) in paragraph at lines 160--162
 \OT1/ptm/m/n/10.95 In or-der to ad-dress the qual-ity of the trans-la-
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 165--167
+Underfull \hbox (badness 2735) in paragraph at lines 160--162
 \OT1/ptm/m/n/10.95 tions we re-ceived on the dic-tio-nary task, we
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/quality-hitlang.png, id=27, 1180.1691pt x 641.0349pt>
+<figures/quality-hitlang.png, id=26, 1180.1691pt x 641.0349pt>
 File: figures/quality-hitlang.png Graphic file (type png)
 
 <use figures/quality-hitlang.png>
@@ -664,12 +660,12 @@ File: figures/quality-hitlang.png Graphic file (type png)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (14.69475pt too wide) in paragraph at lines 196--248
+Overfull \hbox (14.69475pt too wide) in paragraph at lines 191--243
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 19.36955pt on input line 248.
+LaTeX Warning: Float too large for page by 19.36955pt on input line 243.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -683,32 +679,32 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ]
 
-LaTeX Warning: Float too large for page by 96.36952pt on input line 309.
+LaTeX Warning: Float too large for page by 96.36952pt on input line 304.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 312--313
+Underfull \hbox (badness 1303) in paragraph at lines 307--308
 \OT1/ptm/m/n/10.95 coun-tries which pro-duced more trans-la-tions did
  []
 
 
-Underfull \hbox (badness 1946) in paragraph at lines 312--313
+Underfull \hbox (badness 1946) in paragraph at lines 307--308
 \OT1/ptm/m/n/10.95 in-clud-ing Hindi, Tel-ugu, Malay-alam, Marathis,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 
  []
 
-<figures/quality-natlang-sorted.png, id=49, 1180.1691pt x 641.0349pt>
+<figures/quality-natlang-sorted.png, id=48, 1180.1691pt x 641.0349pt>
 File: figures/quality-natlang-sorted.png Graphic file (type png)
 
 <use figures/quality-natlang-sorted.png>
@@ -716,22 +712,22 @@ File: figures/quality-natlang-sorted.png Graphic file (type png)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 323--324
+Underfull \hbox (badness 1024) in paragraph at lines 318--319
 \OT1/ptm/m/n/10.95 speak-ers pro-duce sig-nif-i-cantly bet-ter trans-la-tions
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
 
  []
 
 
-<figures/quality-scatter-avgturkers-country-labeled.png, id=50, 1180.1691pt x 6
+<figures/quality-scatter-avgturkers-country-labeled.png, id=49, 1180.1691pt x 6
 41.0349pt>
 File: figures/quality-scatter-avgturkers-country-labeled.png Graphic file (type
  png)
@@ -740,52 +736,52 @@ File: figures/quality-scatter-avgturkers-country-labeled.png Graphic file (type
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Package caption Warning: \label before \caption on input line 139.
+Package caption Warning: \label before \caption on input line 134.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `numlangs-tab' on page 10 undefined on input line 334.
+LaTeX Warning: Reference `numlangs-tab' on page 10 undefined on input line 329.
 
 
 
-Package caption Warning: \label before \caption on input line 307.
+Package caption Warning: \label before \caption on input line 302.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `mism-tab' on page 10 undefined on input line 334.
+LaTeX Warning: Reference `mism-tab' on page 10 undefined on input line 329.
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 334--335
+Underfull \hbox (badness 1789) in paragraph at lines 329--330
 []\OT1/ptm/m/n/10.95 Self-reported coun-try in-for-ma-tion is typ-i-cally
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 334--335
+Underfull \hbox (badness 3250) in paragraph at lines 329--330
 \OT1/ptm/m/n/10.95 their na-tive lan-guage re-ported a sin-gle na-tive
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 334--335
+Underfull \hbox (badness 2538) in paragraph at lines 329--330
 \OT1/ptm/m/n/10.95 with au-to-mat-i-cally re-ported lo-ca-tions, al-though
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 334--335
+Underfull \hbox (badness 1297) in paragraph at lines 329--330
 \OT1/ptm/m/n/10.95 as-sign-ments in which Turk-ers mis-re-ported their
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--339
+Underfull \hbox (badness 10000) in paragraph at lines 332--334
 
  []
 
@@ -804,24 +800,23 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4068 strings out of 493747
- 59285 string characters out of 3143546
- 133473 words of memory out of 3000000
- 7253 multiletter control sequences out of 15000+200000
- 20493 words of font info for 60 fonts, out of 3000000 for 9000
+ 4034 strings out of 493747
+ 58782 string characters out of 3143546
+ 133547 words of memory out of 3000000
+ 7223 multiletter control sequences out of 15000+200000
+ 21056 words of font info for 59 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 38i,10n,38p,1193b,300s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,9n,38p,1193b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
 ive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
-ve/2010/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2010/
-texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2010/texmf-dist
-/fonts/type1/urw/times/utmr8a.pfb>
-Output written on paper.pdf (12 pages, 909780 bytes).
+ve/2010/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2010/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on paper.pdf (12 pages, 899919 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 81 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
