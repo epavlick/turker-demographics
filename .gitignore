@@ -24,3 +24,9 @@ data/country-language-pairings/.DS_Store
 writeup/paper.synctex.gz
 
 *.log
+
+*.aux
+
+*.log
+
+*.aux
