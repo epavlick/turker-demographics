@@ -1,14 +1,24 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.10)  14 FEB 2013 11:43
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  17 FEB 2013 11:53
 entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **paper.tex
 (./paper.tex
 LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
-(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
+, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
+kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
+german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
+ bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
+telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
+ lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
+nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
+ turkmen, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texmf-texlive/tex/latex/base/size11.clo
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,7 +33,7 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \@emptytoks=\toks14
 \symAMSa=\mathgroup4
@@ -31,24 +41,24 @@ Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 )
-(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks15
 \ex@=\dimen103
 ))
-(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen104
 )
-(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count87
@@ -89,7 +99,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-(/usr/share/texmf-texlive/tex/latex/amscls/amsthm.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2004/08/06 v2.20
 \thm@style=\toks20
 \thm@bodyfont=\toks21
@@ -101,69 +111,70 @@ Package: amsthm 2004/08/06 v2.20
 \thm@headsep=\skip48
 \dth@everypar=\toks25
 )
-(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2009/06/22 v3.00
 )
-(/usr/share/texmf-texlive/tex/latex/jknapltx/mathrsfs.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup6
 )
-(/usr/share/texmf-texlive/tex/latex/natbib/natbib.sty
-Package: natbib 2009/07/16 8.31 (PWD, AO)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2009/11/07 8.31a (PWD, AO)
 \bibhang=\skip49
 \bibsep=\skip50
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count99
 )
-(/usr/share/texmf-texlive/tex/latex/ltxmisc/truncate.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/truncate/truncate.sty
 Package: truncate 2001/08/20  ver 3.6
 \@Trunc@RestHyph=\toks26
-) (./acl2012.sty
+)
+(./acl2012.sty
 Conference Style for ACL 2005 -- released Octobe 11, 2004
 \titlebox=\skip51
-) (/usr/share/texmf-texlive/tex/latex/psnfss/times.sty
+) (/usr/local/texlive/2010/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-(/usr/share/texmf-texlive/tex/latex/base/latexsym.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
-(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks27
 )
-(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/etc/texmf/tex/latex/config/graphics.cfg
-File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+(/usr/local/texlive/2010/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
 \Gread@gobject=\count100
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
-Package: caption 2009/10/09 v3.1k Customizing captions (AR)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
 
-(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
-Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
 \captionmargin=\dimen114
 \captionmargin@=\dimen115
 \captionwidth=\dimen116
@@ -171,7 +182,7 @@ Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
 \caption@parindent=\dimen118
 \caption@hangindent=\dimen119
 Package caption Info: Unknown document class (or package),
-(caption)             standard defaults will be used on input line 1068.
+(caption)             standard defaults will be used on input line 1084.
 )
 
 Package caption Warning: Unsupported document class (or package) detected,
@@ -181,13 +192,13 @@ See the caption package documentation for explanation.
 Package caption Info: \@makecaption = \long macro:#1->\@@makecaption {\small #1
 }.
 \c@ContinuedFloat=\count101
-) (/usr/share/texmf-texlive/tex/latex/multirow/multirow.sty
+) (/usr/local/texlive/2010/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen120
 )
-(/usr/share/texmf-texlive/tex/latex/ltxmisc/dblfloatfix.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/dblfloatfix/dblfloatfix.sty
 Package: dblfloatfix 2003/11/18 v1.0 (MH)
 
-(/usr/share/texmf-texlive/tex/latex/base/fixltx2e.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/fixltx2e.sty
 Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
 LaTeX Info: Redefining \em on input line 420.
 LaTeX Info: The control sequence `\[' is already robust on input line 471.
@@ -196,7 +207,7 @@ LaTeX Info: The control sequence `\]' is already robust on input line 472.
 \@dblbotnum=\count102
 \c@dblbotnumber=\count103
 )
-(/usr/share/texmf-texlive/tex/latex/float/float.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count104
 \float@exts=\toks28
@@ -204,7 +215,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks29
 \@floatcapt=\box29
 )
-(/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip52
 \subfigcapskip=\skip53
@@ -220,30 +231,37 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-(/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.cfg)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip56
 \subfig@bottom=\skip57
-) (./paper.aux)
+)
+(./paper.aux
+
+LaTeX Warning: Label `mism-tab' multiply defined.
+
+
+LaTeX Warning: Label `mism-tab' multiply defined.
+
+)
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 42.
-
-(/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 39.
+ (/usr/local/texlive/2010/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count109
 \scratchdimen=\dimen123
@@ -255,7 +273,52 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \MPscratchDim=\dimen124
 \MPnumerator=\count113
 \everyMPtoPDFconversion=\toks31
+) (/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
 )
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 436.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: subfigure package is loaded.
@@ -263,41 +326,33 @@ Package caption Info: End \AtBeginDocument code.
 
 Redefining \end@dblfloat\ for use with subfigure
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
-LaTeX Font Info:    Try loading font information for U+msa on input line 43.
-(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
+LaTeX Font Info:    Try loading font information for U+msa on input line 40.
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 43.
+LaTeX Font Info:    Try loading font information for U+msb on input line 40.
 
-(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 43.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 40.
 
-(/usr/share/texmf-texlive/tex/latex/jknapltx/ursfs.fd
+(/usr/local/texlive/2010/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 43.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 40.
 
-(/usr/share/texmf-texlive/tex/latex/base/ulasy.fd
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 40.
 
-(/usr/share/texmf-texlive/tex/latex/psnfss/ot1pcr.fd
+(/usr/local/texlive/2010/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
-
-
-Package natbib Warning: Citation `cite:0' on page 1 undefined on input line 47.
-
-
-
 Underfull \hbox (badness 1776) in paragraph at lines 51--54
 \OT1/ptm/m/n/10.95 source of data for nat-u-ral lan-guage pro-cess-ing
  []
@@ -363,15 +418,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--68
 
  []
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 70--73
 
  []
@@ -427,20 +482,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--73
  []
 
 [2 <./figures/natlang-pie.png>]
-<figures/vocabulary_hit_mturk.png, id=24, 1252.68pt x 1135.24126pt>
+<figures/vocabulary_hit_mturk.png, id=15, 1252.68pt x 1135.24126pt>
 File: figures/vocabulary_hit_mturk.png Graphic file (type png)
 
 <use figures/vocabulary_hit_mturk.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/synonyms_hit_mturk.png, id=25, 1252.68pt x 1302.8675pt>
+<figures/synonyms_hit_mturk.png, id=16, 1252.68pt x 1302.8675pt>
 File: figures/synonyms_hit_mturk.png Graphic file (type png)
 
 <use figures/synonyms_hit_mturk.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -519,10 +571,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--115
 
  []
 
-
-Underfull \vbox (badness 1521) has occurred while \output is active []
-
- [3 <./figures/vocabulary_hit_mturk.png>]
+[3 <./figures/vocabulary_hit_mturk.png> <./figures/synonyms_hit_mturk.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -545,7 +594,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
-
+[4]
 Overfull \hbox (14.54683pt too wide) in paragraph at lines 121--140
 [][]
  []
@@ -555,18 +604,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--140
 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figures/assign-turk-scatter.png, id=30, 1180.1691pt x 641.0349pt>
+<figures/assign-turk-scatter.png, id=25, 1180.1691pt x 641.0349pt>
 File: figures/assign-turk-scatter.png Graphic file (type png)
 
 <use figures/assign-turk-scatter.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./figures/synonyms_hit_mturk.png>]
-<figures/assign-langgeo-sorted.png, id=35, 1180.1691pt x 641.0349pt>
+<figures/assign-langgeo-sorted.png, id=26, 1180.1691pt x 641.0349pt>
 File: figures/assign-langgeo-sorted.png Graphic file (type png)
 
 <use figures/assign-langgeo-sorted.png>
@@ -611,7 +656,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/quality-hitlang.png, id=36, 1180.1691pt x 641.0349pt>
+<figures/quality-hitlang.png, id=27, 1180.1691pt x 641.0349pt>
 File: figures/quality-hitlang.png Graphic file (type png)
 
 <use figures/quality-hitlang.png>
@@ -619,26 +664,51 @@ File: figures/quality-hitlang.png Graphic file (type png)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 193--194
+Overfull \hbox (14.69475pt too wide) in paragraph at lines 196--248
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 19.36955pt on input line 248.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5] [6 <./figures/assign-turk-scatter.png> <./figures/assign-langgeo-sorted.png
+>] [7
+
+
+] [8 <./figures/quality-hitlang.png>] [9
+
+
+]
+
+LaTeX Warning: Float too large for page by 96.36952pt on input line 309.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 312--313
 \OT1/ptm/m/n/10.95 coun-tries which pro-duced more trans-la-tions did
  []
 
 
-Underfull \hbox (badness 1946) in paragraph at lines 193--194
+Underfull \hbox (badness 1946) in paragraph at lines 312--313
 \OT1/ptm/m/n/10.95 in-clud-ing Hindi, Tel-ugu, Malay-alam, Marathis,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
 
  []
 
-<figures/quality-natlang-sorted.png, id=37, 1180.1691pt x 641.0349pt>
+<figures/quality-natlang-sorted.png, id=49, 1180.1691pt x 641.0349pt>
 File: figures/quality-natlang-sorted.png Graphic file (type png)
 
 <use figures/quality-natlang-sorted.png>
@@ -646,22 +716,22 @@ File: figures/quality-natlang-sorted.png Graphic file (type png)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 204--205
+Underfull \hbox (badness 1024) in paragraph at lines 323--324
 \OT1/ptm/m/n/10.95 speak-ers pro-duce sig-nif-i-cantly bet-ter trans-la-tions
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
 
  []
 
 
-<figures/quality-scatter-avgturkers-country-labeled.png, id=38, 1180.1691pt x 6
+<figures/quality-scatter-avgturkers-country-labeled.png, id=50, 1180.1691pt x 6
 41.0349pt>
 File: figures/quality-scatter-avgturkers-country-labeled.png Graphic file (type
  png)
@@ -674,87 +744,84 @@ Package caption Warning: \label before \caption on input line 139.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `numlangs-tab' on page 5 undefined on input line 215.
+LaTeX Warning: Reference `numlangs-tab' on page 10 undefined on input line 334.
 
 
-Package caption Warning: \label before \caption on input line 179.
+
+Package caption Warning: \label before \caption on input line 307.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `mism-tab' on page 5 undefined on input line 215.
+LaTeX Warning: Reference `mism-tab' on page 10 undefined on input line 334.
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 215--216
+Underfull \hbox (badness 1789) in paragraph at lines 334--335
 []\OT1/ptm/m/n/10.95 Self-reported coun-try in-for-ma-tion is typ-i-cally
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 215--216
+Underfull \hbox (badness 3250) in paragraph at lines 334--335
 \OT1/ptm/m/n/10.95 their na-tive lan-guage re-ported a sin-gle na-tive
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 215--216
+Underfull \hbox (badness 2538) in paragraph at lines 334--335
 \OT1/ptm/m/n/10.95 with au-to-mat-i-cally re-ported lo-ca-tions, al-though
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 215--216
+Underfull \hbox (badness 1297) in paragraph at lines 334--335
 \OT1/ptm/m/n/10.95 as-sign-ments in which Turk-ers mis-re-ported their
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
-
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 218--220
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
 
  []
 
 
-Package natbib Warning: There were undefined citations.
+Underfull \hbox (badness 10000) in paragraph at lines 337--339
 
-[6
+ []
 
- <./figures/assign-turk-scatter.png>] [7
+[10
 
- <./figures/assign-langgeo-sorted.png>] [8 <./figures/quality-hitlang.png> <./f
-igures/quality-natlang-sorted.png>]
-[9 <./figures/quality-scatter-avgturkers-country-labeled.png>] (./paper.aux)
+
+] [11
+
+] [12 <./figures/quality-natlang-sorted.png> <./figures/quality-scatter-avgturk
+ers-country-labeled.png>] (./paper.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 3692 strings out of 495061
- 51458 string characters out of 1182621
- 119844 words of memory out of 3000000
- 6790 multiletter control sequences out of 15000+50000
- 24631 words of font info for 76 fonts, out of 3000000 for 9000
- 28 hyphenation exceptions out of 8191
- 36i,10n,38p,1193b,265s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texli
-ve/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/ty
-pe1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/
-amsfonts/cm/cmmi5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
-cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/tex
-mf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/p
-ublic/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/rsfs/r
-sfs10.pfb></usr/share/texmf-texlive/fonts/type1/urw/courier/ucrr8a.pfb></usr/sh
-are/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fo
-nts/type1/urw/times/utmr8a.pfb>
-Output written on paper.pdf (9 pages, 972198 bytes).
+ 4068 strings out of 493747
+ 59285 string characters out of 3143546
+ 133473 words of memory out of 3000000
+ 7253 multiletter control sequences out of 15000+200000
+ 20493 words of font info for 60 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 38i,10n,38p,1193b,300s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
+xlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
+ive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2010/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2010/
+texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2010/texmf-dist
+/fonts/type1/urw/times/utmr8a.pfb>
+Output written on paper.pdf (12 pages, 909794 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

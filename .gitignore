@@ -16,3 +16,9 @@ writeup/paper.pdf
 data/.DS_Store
 
 data/country-language-pairings/.DS_Store
+
+*.aux
+
+*.log
+
+writeup/paper.synctex.gz
