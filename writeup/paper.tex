@@ -54,7 +54,9 @@ In this paper, we investigate the feasibility of hiring language informants on M
 
 There are several complicating factors when trying to take a census of workers on MTurk.  The workers identities are anonymized, and Amazon provides no information about their countries of origin nor their language abilities.  Posting a simple survey to have workers self-report this information may be inadequate, since (a) many worker may never see the survey, (b) many opt not to do one-off surveys since potential payment is low, and (c) validating the answers of respondents is not straightforward. 
 
-Our study establishes a methodology for determining the language demographics of anonymous crowd workers that is more robust than simple surveying. We ask workers what languages they speak and what country they reside in, and validate their claims by measuring their ability to correctly translate words, and by geolocating them.  To increase the visibility and the desirability of our tasks, we post 1,000 assignments in each of 119 languages.  These tasks each consist of translating 12 foreign words into English.  Two of the 12 words have known translations, allowing us to validate the the workers' translations are accurate, while constructing bilingual dictionaries with up to 10,000 new entries. 
+Our study establishes a methodology for determining the language demographics of anonymous crowd workers that is more robust than simple surveying. We ask workers what languages they speak and in what country they reside, and validate their claims by measuring their ability to correctly translate words and by geolocating them.  To increase the visibility and the desirability of our tasks, we post 1,000 assignments in each of 119 languages.  These tasks each consist of translating 10 foreign words into English.  Two of the 10 words have known translations, allowing us to validate the the workers' translations are accurate, while constructing bilingual dictionaries with up to 10,000 new entries. 
+
+\textbf{***Is this right? I think most of our tasks have 10 words per HIT.***}
 
 Surveying thousands of workers allows us to analyze current speaker populations for more than 100 languages.  The data also allows us to answer questions like: 
 How quickly is work completed in a given language? 
@@ -86,7 +88,7 @@ obtain financial rewards?
 %\section{Mechanical Turk}
 Amazon's Mechanical Turk (MTurk) is an online crowdsourcing marketplace which gives employers and researchers access to a large, low-cost, human workforce. MTurk advertises `artificial artificial intelligence'; it provides a simple interface for accessing human skill, allowing small tasks, which are too difficult for computers, to be completed with the speed and scale of an automated process. When Amazon first introduced MTurk, payment was offered only in Amazon credits. As the service grew, payment switched to US dollars, and more recently has expanded to include foreign currencies, such as the rupee. Currently, MTurk claims over half a million workers from 190 countries, making it a compelling source of data for diverse natural language applications.
 
-Within MTurk, those who need work completed (`requesters') post individual `Human Intelligence Tasks,' or just `HITs'. A typical HIT  requires a few minutes of work and pays a few cents, although there is significant variation across HITs. Once a HIT is posted, MTurk workers (`Turkers') are free to choose to complete the HITs which interest them. Worker identities remain anonymous to requesters, and all payment occurs through Amazon. Requesters are able to accept submitted work or reject work that they do not feel meets their standards, and only pay workers from whom they accepted tasks. 
+Within MTurk, those who need work completed (`requesters') post individual `Human Intelligence Tasks,' or just `HITs'. A typical HIT  requires a few minutes of work and pays a few cents, although there is significant variation across HITs. Once a HIT is posted, MTurk workers (`Turkers') are free to choose to complete the HITs which interest them. Worker identities remain anonymous to requesters, and all payment occurs through Amazon. Requesters are able to accept submitted work or reject work that they do not feel meets their standards, and only pay workers from whom they accept tasks. 
 
 
 
@@ -166,7 +168,7 @@ Multiple languages&2&243	\\
 &9&2\\
 &10&2\\
 &15&1\\
-\hline\\hline
+\hline\hline
 \end{tabular}
 \label{numlangs-tab}
 \caption{Number of native languages reported during demographic survey.}
