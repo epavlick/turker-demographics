@@ -4,7 +4,6 @@
 \usepackage{amsthm}
 \usepackage{amssymb}
 \usepackage{mathrsfs}
-\usepackage[numbers]{natbib}
 \usepackage[fit]{truncate}
 \usepackage{acl2012}
 \usepackage{times}
@@ -18,14 +17,19 @@
 \usepackage{float}
 \usepackage{subfigure}
 \DeclareMathOperator*{\argmax}{arg\,max}
-\setlength\titlebox{6.5cm}    % Expanding the titlebox
+\setlength\titlebox{5.4cm}    % Expanding the titlebox
+
+
+
+\newcommand{\affliationPenn}{\ensuremath{{}^\text{1}}}
+\newcommand{\affliationJHU}{\ensuremath{{}^\text{2}}}
 
 \title{A large scale study of the languages spoken (by bilinguals) on Mechanical Turk}
 \title{The Language Demographics of  Amazon Mechanical Turk}
 
-\author{Ellie Pavlick \ \ \ \ \ \ \ \ \ \ Dmitry Kachaev \ \ \ \ \ \ \ \ \ \  Chris Callison-Burch \\
-Computer and Information Science Department, University of Pennsylvania \\
-Human Language Technology Center of Excellence, Johns Hopkins University \\
+\author{Ellie Pavlick\affliationPenn \ \ \ \ \ \ \ \ \ \ Dmitry Kachaev\affliationJHU \ \ \ \ \ \ \ \ \ \  Chris Callison-Burch\affliationPenn$^{,}$\affliationJHU \\
+\affliationPenn Computer and Information Science Department, University of Pennsylvania \\
+\affliationJHU Human Language Technology Center of Excellence, Johns Hopkins University \\
   }
 
 \date{}
@@ -35,16 +39,30 @@ Human Language Technology Center of Excellence, Johns Hopkins University \\
 
 \begin{abstract}
 We present a large scale study of the languages spoken by bilingual workers on Mechanical Turk (MTurk).  
-We establish a  methodology for determining the language skills of anonymous crowd workers that is more robust than simple surveying.  We validate workers' self-reported language skill claims by measuring their ability to correctly translate words, and by geolocating workers to see if they reside in countries where the languages are likely to be spoken. Rather than posting a one-off survey, we posted paid tasks consisting of 1,000 assignments to translate a total of 10,000 words in each of 100 languages.  Our study ran for weeks, and was highly visible on the MTurk crowdsourcing platform, increasing the chances that bilinguals workers would have seen it.  Our study was useful both to create bilingual dictionaries and to act as census of the bilingual speakers on MTurk.  We use this data to recommend languages with the largest speaker populations as good candidates for other researchers who want to  develop crowdsourced, multilingual technologies.
+We establish a  methodology for determining the language skills of anonymous crowd workers that is more robust than simple surveying.  We validate workers' self-reported language skill claims by measuring their ability to correctly translate words, and by geolocating workers to see if they reside in countries where the languages are likely to be spoken. Rather than posting a one-off survey, we posted paid tasks consisting of 1,000 assignments to translate a total of 10,000 words in each of 119 languages.  Our study ran for weeks, and was highly visible on the MTurk crowdsourcing platform, increasing the chances that bilinguals workers would complete it.  Our study was useful both to create bilingual dictionaries and to act as census of the bilingual speakers on MTurk.  We use this data to recommend languages with the largest speaker populations as good candidates for other researchers who want to  develop crowdsourced, multilingual technologies.
 
 \end{abstract}
 
 \section{Overview}
-Crowdsourcing has become a key mechanism for collecting data for natural language processing research. Access to a fast, cheap, and flexible workforce has changed the way we collect data, and holds promise for enabling future language technologies. Crowdsourced work has proven effective for collecting massive amounts of simple data annotations, such as annotating data for face recognition software and labeling sentiment in twitter data. As the demands and expectations of automated systems progress, and the complexity of the data required for training increases, however, it becomes natural to ask about the strengths and limitations of the crowd as annotators for natural language data.
+Crowdsourcing is a promising new mechanism for collecting data for natural language processing research. Access to a fast, cheap, and flexible workforce allows us to collect new types of data, potentially enabling new language technologies.
+Because crowdsourcing platforms like Amazon Mechanical Turk (MTurk) give researchers access to a worldwide workforce, one obvious application of crowdsourcing is the creation of multilingual technologies. 
+With an increasing number of active crowd workers located outside of the United States, there is even the potential to reach fluent speakers of lower resource languages.
+In this paper, we investigate the feasibility of hiring language informants on MTurk by conducting the first large-scale demographic study of the languages spoken by workers on the platform. 
 
-We evaluate the language skills of bilingual workers on Amazon's Mechanical Turk, and their ability to provide translated data for statistical machine translation. Collecting parallel translated texts has traditionally been assumed to require a higher level of expertise than what is available from non-professional crowd workers. However, with an increasing number of active crowd workers located outside of the United States, the potential to access fluent speakers of lower resource languages makes crowdsourcing an attractive resource for translation.
+%Access to a fast, cheap, and flexible workforce has changed the way we collect data, and holds promise for enabling future language technologies. Crowdsourced work has proven effective for collecting massive amounts of simple data annotations, such as annotating data for face recognition software and labeling sentiment in twitter data. As the demands and expectations of automated systems progress, and the complexity of the data required for training increases, however, it becomes natural to ask about the strengths and limitations of the crowd as annotators for natural language data.
+%We evaluate the language skills of bilingual workers on Amazon's Mechanical Turk, and their ability to provide translated data for statistical machine translation. Collecting parallel translated texts has traditionally been assumed to require a higher level of expertise than what is available from non-professional crowd workers. However, with an increasing number of active crowd workers located outside of the United States, the potential to access fluent speakers of lower resource languages makes crowdsourcing an attractive resource for translation.
 
-We construct a task in which we aim to build bilingual dictionaries for over 100 languages, containing over 10,000 words each, using only translators available on Mechanical Turk. We collect demographic data relevant to the workers' language skills, and evaluate the quality of the translations submitted from workers across varying backgrounds and locations. Based on the data collected, we identify the strengths of Mechanical Turk as a source of multilingual data, and discuss best practices for ensuring high data quality from non-professional translators.
+There are several complicating factors when trying to take a census of workers on MTurk.  The workers identities are anonymized, and Amazon provides no information about their countries of origin nor their language abilities.  Posting a simple survey to have workers self-report this information may be inadequate, since (a) many worker may never see the survey, (b) many opt not to do one-off surveys since potential payment is low, and (c) validating the answers of respondents is not straightforward. 
+
+Our study establishes a methodology for determining the language demographics of anonymous crowd workers that is more robust than simple surveying. We ask workers what languages they speak and what country they reside in, and validate their claims by measuring their ability to correctly translate words, and by geolocating them.  To increase the visibility and the desirability of our tasks, we post 1,000 assignments in each of 119 languages.  These tasks each consist of translating 12 foreign words into English.  Two of the 12 words have known translations, allowing us to validate the the workers' translations are accurate, while constructing bilingual dictionaries with up to 10,000 new entries. 
+
+Surveying thousands of workers allows us to analyze current speaker populations for more than 100 languages.  The data also allows us to answer questions like: 
+How quickly is work completed in a given language? 
+Are crowdsourced translations reliably good? 
+How often do workers misrepresented their language abilities to 
+%falsely
+obtain financial rewards? 
+
 
 %%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
 \begin{figure*}[h]
@@ -64,19 +82,22 @@ We construct a task in which we aim to build bilingual dictionaries for over 100
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Mechanical Turk}
+\section{Background and Related Work}
+%\section{Mechanical Turk}
 Amazon's Mechanical Turk (MTurk) is an online crowdsourcing marketplace which gives employers and researchers access to a large, low-cost, human workforce. MTurk advertises `artificial artificial intelligence'; it provides a simple interface for accessing human skill, allowing small tasks, which are too difficult for computers, to be completed with the speed and scale of an automated process. When Amazon first introduced MTurk, payment was offered only in Amazon credits. As the service grew, payment switched to US dollars, and more recently has expanded to include foreign currencies, such as the rupee. Currently, MTurk claims over half a million workers from 190 countries, making it a compelling source of data for diverse natural language applications.
 
 Within MTurk, those who need work completed (`requesters') post individual `Human Intelligence Tasks,' or just `HITs'. A typical HIT  requires a few minutes of work and pays a few cents, although there is significant variation across HITs. Once a HIT is posted, MTurk workers (`Turkers') are free to choose to complete the HITs which interest them. Worker identities remain anonymous to requesters, and all payment occurs through Amazon. Requesters are able to accept submitted work or reject work that they do not feel meets their standards, and only pay workers from whom they accepted tasks. 
 
+
+
 The convenience and low cost of using MTurk has made it popular among researchers. Because of the lack of oversight and the high potential for spam, however, most of the data collected from MTurk has been limited to simple tasks for which inter-annotator agreement is expected to be high (see Related Work section below). We explore the idea that MTurk's machinery is flexible enough to support more complex tasks requiring more nuanced quality control mechanisms, which could allow it to be a competitive alternative to professional data annotations.
 
 \section{Related Work}
-Crowdsourced data has been used in a variety of machine learning applications, including computer vision (Sorokin et al.), paraphrasing (Nakov et al.) and sentiment analysis (Snow et al.). More recently, in 2010, NAACL hosted a workshop on Creating Speech and Language Data with MTurk, in which MTurk was used to generate data for 24 different natural language tasks (CCB).
+Crowdsourced data has been used in a variety of machine learning applications, including computer vision (Sorokin et al.), paraphrasing (Nakov et al.) and sentiment analysis \cite{Snow2008}. More recently, in 2010, NAACL hosted a workshop on Creating Speech and Language Data with MTurk, in which MTurk was used to generate data for 24 different natural language tasks \cite{callisonburch-dredze:2010:MTURK}.
 
 Typically, researchers rely on large amounts of MTurk data in order to compensate for the high likelihood of low quality labels. Snow et al. describes the success of using redundant non-expert labels to substitute for professional annotations, achieving comparable quality for much lower cost. The tasks from which these conclusions were drawn, however, were kept simple and easily-verifiable, with annotations restricted to either multiple choice or bounded numeric inputs. As NLP research advances, the level of expertise required from annotators advances as well. Callison-Burch et al. report success using MTurk to build parallel corpora for Machine Translation, a task which requires Turkers to speak two languages with a high level of proficiency.
 
-As the use of MTurk has grown, researchers have become interested in who exactly makes up the Turker population. Early demographic studies by Ipeirotis revealed that Turkers are typically younger and more educated than the population as a whole. The study found that while most Turkers cite money as a motivation for working on MTurk, few cite it as their only motivation. A follow-up study by Ross et al. found that the majority of Turkers were located in the US, 30\% of Turkers were located in India, and that Indian Turkers tend to have lower incomes than US-based Turkers. Ross et al. also suggested that the international presence on MTurk has been growing over time. While there has not yet been a thorough investigation of Turkers' language abilities, Munro compiled survey responses of 2,000 Turkers, revealing that four of the six most represented languages come from India (the top six being Hindi, Malayalam, Tamil, Spanish, French, and Telugu). No study has yet been conducted to comprehensively assess the language skills of the growing number of international and bilingual Turkers or to analyze the potential of MTurk to support work in low-resource languages. 
+As the use of MTurk has grown, researchers have become interested in who exactly makes up the Turker population. Early demographic studies by \newcite{ipeirotis:2010:demographics} revealed that Turkers are typically younger and more educated than the population as a whole. The study found that while most Turkers cite money as a motivation for working on MTurk, few cite it as their only motivation. A follow-up study by Ross et al. found that the majority of Turkers were located in the US, 30\% of Turkers were located in India, and that Indian Turkers tend to have lower incomes than US-based Turkers. Ross et al. also suggested that the international presence on MTurk has been growing over time. While there has not yet been a thorough investigation of Turkers' language abilities, \newcite{munro-tily:2011} compiled survey responses of 2,000 Turkers, revealing that four of the six most represented languages come from India (the top six being Hindi, Malayalam, Tamil, Spanish, French, and Telugu). No study has yet been conducted to comprehensively assess the language skills of the growing number of international and bilingual Turkers or to analyze the potential of MTurk to support work in low-resource languages. 
 
 
 %%%%%%%%%%%%%%% HIT UIs %%%%%%%%%%%
@@ -234,16 +255,10 @@ Self-reported country information is typically reliable. Three quarters of Turke
 \section{Discussion}
 MTurk has a strong and diverse presence of bilingual workers, making it a promising resource for researchers and developers of multilingual systems. Although unfiltered data can contain large amounts of noise, crowdsourced pipelines, which contain human oversight as a means of evaluation, offer a feasible way of ensuring high quality data, even on tasks which require more complex labels. While MTurk does offer the ability to restrict workers based on country, embedded per-task controls which are checked either automatically when possible, or manually in a second-pass HIT, are likely to provide higher quality data than naive demographic filters. 
 
-Also, with intelligent quality control techniques, MTurk can prove that $P = NP$, solve the problems in the Middle East, and allow you to eat carbs and still lose weight.
+Although our research targeted bilingual workers on Mechanical Turk, and neglected monolingual workers, we believe our results reliably represent the current speaker populations, since the vast majority of the work available on the crowdsourced platform is currently English-only.  We therefore assume the number of non-English speakers is small.  In the future, it may be desirable to recruit monolingual foreign workers.  In such cases, we recommend other tests to validate their language abilities in place of our translation test.  These could include performing narrative cloze, or listening to audio files containing speech in different language and identifying their language. 
 
-%\begin{thebibliography}{}
 
-%\bibitem[\protect\citename{}yrs]{name}
-%name
-%\newblock year
-%\newblock title
-%\newblock In {\em journal}.
-
-%\end{thebibliography}
+\bibliographystyle{acl2012}
+\bibliography{mturk}
 
 \end{document}
