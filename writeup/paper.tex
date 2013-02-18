@@ -39,17 +39,23 @@ We establish a  methodology for determining the language skills of anonymous cro
 
 \end{abstract}
 
-\section{Introduction}
+\section{Overview}
 Crowdsourcing is a promising new mechanism for collecting data for natural language processing research. Access to a fast, cheap, and flexible workforce allows us to collect new types of data, potentially enabling new language technologies.
-% ccb - todo - combine these sentences:
 Because crowdsourcing platforms like Amazon Mechanical Turk (MTurk) give researchers access to a worldwide workforce, one obvious application of crowdsourcing is the creation of multilingual technologies. 
 With an increasing number of active crowd workers located outside of the United States, there is even the potential to reach fluent speakers of lower resource languages.
-In this paper, we present the first large-scale demographic study of the languages spoken by workers on MTurk. 
+In this paper, we investigate the feasibility of hiring language informants on MTurk by conducting the first large-scale demographic study of the languages spoken by workers on the platform. 
 
 %Access to a fast, cheap, and flexible workforce has changed the way we collect data, and holds promise for enabling future language technologies. Crowdsourced work has proven effective for collecting massive amounts of simple data annotations, such as annotating data for face recognition software and labeling sentiment in twitter data. As the demands and expectations of automated systems progress, and the complexity of the data required for training increases, however, it becomes natural to ask about the strengths and limitations of the crowd as annotators for natural language data.
 %We evaluate the language skills of bilingual workers on Amazon's Mechanical Turk, and their ability to provide translated data for statistical machine translation. Collecting parallel translated texts has traditionally been assumed to require a higher level of expertise than what is available from non-professional crowd workers. However, with an increasing number of active crowd workers located outside of the United States, the potential to access fluent speakers of lower resource languages makes crowdsourcing an attractive resource for translation.
 
-We construct a task in which we aim to build bilingual dictionaries for over 100 languages, containing over 10,000 words each, using only translators available on Mechanical Turk. We collect demographic data relevant to the workers' language skills, and evaluate the quality of the translations submitted from workers across varying backgrounds and locations. Based on the data collected, we identify the strengths of Mechanical Turk as a source of multilingual data, and discuss best practices for ensuring high data quality from non-professional translators.
+There are several complicating factors when trying to take a census of workers on MTurk.  The workers identities are anonymized, and Amazon provides no information about their countries of origin nor their language abilities.  Posting a simple survey to have workers self-report this information may be inadequate, since (a) many worker may never see the survey, (b) many opt not to do one-off surveys since potential payment is low, and (c) validating the answers of respondents is not straightforward. 
+
+Our study establishes a methodology for determining the language demographics of anonymous crowd workers that is more robust than simple surveying. We ask workers what languages they speak and what country they reside in, and validate their claims by measuring their ability to correctly translate words, and by geolocating them.  To increase the visibility and the desirability of our tasks, we post 1,000 assignments in each of 119 languages.  These tasks each consist of translating 12 foreign words into English.  Two of the 12 words have known translations, allowing us to validate the the workers' translations are accurate, while constructing bilingual dictionaries with up to 10,000 new entries. 
+
+%We construct a task in which we aim to build bilingual dictionaries for over 100 languages, containing over 10,000 words each, using only translators available on Mechanical Turk. We collect demographic data relevant to the workers' language skills, and evaluate the quality of the translations submitted from workers across varying backgrounds and locations. Based on the data collected, we identify the strengths of Mechanical Turk as a source of multilingual data, and discuss best practices for ensuring high data quality from non-professional translators.
+
+The demographic data allows us to analyze current speaker populations for more than 100 languages.  Our survey also allows us to report on other information like how quickly translations were completed for each language, how often workers misrepresented their language abilities to try to obtain financial rewards, and what the estimated accuracy is for the bilingual dictionaries that we construct. 
+
 
 %%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
 \begin{figure*}[h]
@@ -69,10 +75,13 @@ We construct a task in which we aim to build bilingual dictionaries for over 100
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Mechanical Turk}
+\section{Background and Related Work}
+%\section{Mechanical Turk}
 Amazon's Mechanical Turk (MTurk) is an online crowdsourcing marketplace which gives employers and researchers access to a large, low-cost, human workforce. MTurk advertises `artificial artificial intelligence'; it provides a simple interface for accessing human skill, allowing small tasks, which are too difficult for computers, to be completed with the speed and scale of an automated process. When Amazon first introduced MTurk, payment was offered only in Amazon credits. As the service grew, payment switched to US dollars, and more recently has expanded to include foreign currencies, such as the rupee. Currently, MTurk claims over half a million workers from 190 countries, making it a compelling source of data for diverse natural language applications.
 
 Within MTurk, those who need work completed (`requesters') post individual `Human Intelligence Tasks,' or just `HITs'. A typical HIT  requires a few minutes of work and pays a few cents, although there is significant variation across HITs. Once a HIT is posted, MTurk workers (`Turkers') are free to choose to complete the HITs which interest them. Worker identities remain anonymous to requesters, and all payment occurs through Amazon. Requesters are able to accept submitted work or reject work that they do not feel meets their standards, and only pay workers from whom they accepted tasks. 
+
+
 
 The convenience and low cost of using MTurk has made it popular among researchers. Because of the lack of oversight and the high potential for spam, however, most of the data collected from MTurk has been limited to simple tasks for which inter-annotator agreement is expected to be high (see Related Work section below). We explore the idea that MTurk's machinery is flexible enough to support more complex tasks requiring more nuanced quality control mechanisms, which could allow it to be a competitive alternative to professional data annotations.
 
