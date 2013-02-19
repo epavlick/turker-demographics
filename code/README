@@ -1,0 +1,18 @@
+To extract data from raw database dump, do the following IN ORDER:
+
+vi compile_data_from_raw.py 
+set 'RAW_DIR' to be the root dir of the database files
+set 'OUTPUT_DIR' to be the directory into which extracted data should be written
+./compile_data_from_raw.py assignments
+./compile_data_from_raw.py turkers
+
+vi qc.py 
+set 'RAW_DIR' to be the root dir of the database files
+set 'OUTPUT_DIR' to be the directory into which extracted data should be written
+./qc.py assignments
+./qc.py turkers
+
+**run assignments first. assignment data has to be extracted and saved in OUTPUT_DIR before turker data can be extracted**
+
+
+
