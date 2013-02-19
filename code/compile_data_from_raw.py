@@ -113,6 +113,11 @@ def assign_langs(path, langs, idlist=None):
 		if('survey_is_native_foreign_speaker' in data): 
 			if(data['survey_is_native_foreign_speaker']=='yes'): 
 				survey_data[assign]['lang'] = numlangmap[langs[hit]] 
+
+		## ** assignments that don't trigger one of the above ifs end up as N/A in the final output. there are 1801 of these. ** #
+		## ** i checked a few, and they are mostly because the question 'is xx your native language' doesn't appear in the ** #
+		## ** data, not because they answer no to both questions. ** #
+
 		if(survey_data[assign]['lang'] == None):
 			survey_data[assign]['lang'] = 'N/A'
 		if('survey_years_speaking_english' in data): 
