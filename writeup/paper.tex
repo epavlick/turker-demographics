@@ -64,21 +64,23 @@ How often do workers misrepresented their language abilities to
 obtain financial rewards? 
 
 
-%%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
-\begin{figure*}[h]
-\centering
-\includegraphics[width=7in]{figures/natlang-pie}
-\caption{Self-reported native language of 3154 bilingual turkers}
-\label{lang-pie}
-\end{figure*}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 %%%%%%%%%%%%%%% MAP OF WORKER LOCATIONS %%%%%%%%%%%
 \begin{figure*}[h]
 \centering
 \includegraphics[width=\linewidth]{figures/turkermap-color-cropped}
-\caption{The number of workers per country.  This map was generated based on geolocating the IP address of the 5,284 workers in our study.  The size of the circles represents the number of worker from each country.  The two largest are India (2,022 workers) and the United States (904).  To calibrate the sizes: the Philippines has 147 workers, Egypt has 25, Russia has 10, and Sri Lanka has 4.}
+\caption{The number of workers per country.  This map was generated based on geolocating the IP address of  5,284 workers in our study.  The size of the circles represents the number of worker from each country.  The two largest are India (2,022 workers) and the United States (904).  To calibrate the sizes: the Philippines has 147 workers, Egypt has 25, Russia has 10, and Sri Lanka has 4.}
 \label{map}
+\end{figure*}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
+\begin{figure*}[h]
+\centering
+\includegraphics[width=7in]{figures/natlang-pie}
+\caption{Self-reported native language of 3,154 bilingual turkers}
+\label{lang-pie}
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -93,25 +95,15 @@ On MTurk, researchers who need work completed are called `Requesters', workers a
 
 Several reports examine Mechanical Turk as an economic market \cite{ipeirotis:2010:marketplace,lehdonvirta-ernkvist:2011}.  When Amazon introduced MTurk, it first offered payment only in Amazon credits, and later offered direct payment in US dollars. More recently has expanded to include one foreign currency, the Indian rupee. Despite its payments being limited to two currencies or Amazon credits, MTurk claims over half a million workers from 190 countries.\footnote{https://requester.mturk.com/tour}  This suggest that its worker population that should represent a diverse set of languages.
 
-%Within MTurk, those who need work completed (`requesters') post individual HITs. A typical HIT  requires a few minutes of work and pays a few cents, although there is significant variation across HITs. Once a HIT is posted, MTurk workers (`Turkers') are free to choose to complete the HITs which interest them. Worker identities remain anonymous to requesters, and all payment occurs through Amazon. Requesters are able to accept submitted work or reject work that they do not feel meets their standards, and only pay workers from whom they accepted tasks. 
-
-%The convenience and low cost of using MTurk has made it popular among researchers. Because of the lack of oversight and the high potential for spam, however, most of the data collected from MTurk has been limited to simple tasks for which inter-annotator agreement is expected to be high (see Related Work section below). We explore the idea that MTurk's machinery is flexible enough to support more complex tasks requiring more nuanced quality control mechanisms, which could allow it to be a competitive alternative to professional data annotations.
-
-%\section{Related Work}
-
-%Typically, researchers rely on large amounts of MTurk data in order to compensate for the high likelihood of low quality labels. Snow et al. describes the success of using redundant non-expert labels to substitute for professional annotations, achieving comparable quality for much lower cost. The tasks from which these conclusions were drawn, however, were kept simple and easily-verifiable, with annotations restricted to either multiple choice or bounded numeric inputs. As NLP research advances, the level of expertise required from annotators advances as well. Callison-Burch et al. report success using MTurk to build parallel corpora for Machine Translation, a task which requires Turkers to speak two languages with a high level of proficiency.
-
 A demographic study by \newcite{ipeirotis:2010:demographics} focused on age, gender, martial status, income levels, motivation for working on MTurk, and whether workers used it as a primary or supplemental form of income.  The study contrasted Indian and US workers. 
 A number of other studies have informally investigated Turkers' language abilities.  \newcite{munro-tily:2011} compiled survey responses of 2,000 Turkers, revealing that four of the six most represented languages come from India (the top six being Hindi, Malayalam, Tamil, Spanish, French, and Telugu).  \newcite{irvine:10} had Turkers evaluate the accuracy of translations that had been automatically inducted from monolingual texts.  They examined translations of 100 words in 42 low-resource languages, reported geolocated countries for their workers (India, the US, Romania, Pakistan, Macedonia, Latvia, Bangladesh and the Philippines).  Irvine and Klementiev discussed the difficulty of quality control and assessing the plausibility of workers' language skills for rare languages, which we address in this paper. 
-
-
-
-%No study has yet been conducted to comprehensively assess the language skills of the growing number of international and bilingual Turkers or to analyze the potential of MTurk to support work in low-resource languages. 
 
 Several researchers have investigated using MTurk to build parallel corpora for machine translation, a task which stands to directly benefit from the availability of large volumes of low-cost translations \cite{Germann2001}.  \newcite{ambati_act} conducted a pilot study by posting 25 sentences to MTurk for Spanish, Chinese Hindi, Telugu, Urdu, and Haitian Creole.  In a study of 2000 Urdu sentences, 
 \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} presented methods for achieving professional-level translation quality from Turkers by soliciting multiple English translations of each foreign sentence. 
 \newcite{Zbib-etal:2012:NAACL} used crowdsourcing to construct a 1.5 million word parallel corpus of dialect Arabic and English, training a statistical machine translation system that produced higher quality translations of dialect Arabic than a system a trained on 100x more Modern Standard Arabic-English parallel data.  \newcite{post-callisonburch-osborne:2012:WMT} used MTurk to build parallel corpora between English and six Indian languages, ranging from .5M to 1.5M words, and use them to demonstrate the efficacy of syntactic approaches to machine translation on verb-final languages.  
 Several researchers have examined cost optimization through using active learning techniques to select which sentences or fragments to translate \cite{ambati_naacl,bloodgood-callisonburch:2010:ACL,AmbatiThesis}.
+
+To contrast our research with previous work, the main contributions of this paper are: (1) a robust methodology for assessing the bilingual  skills of anonymous crowdworkers, (2) the largest-scale census to date of language skills of workers on MTurk, and (3) a detailed analysis of the data gathered in our study, including the quality of the translations and recommendations for  languages that are feasible for near-term creation of multi-lingual technologies. 
 
 
 %%%%%%%%%%%%%%% HIT UIs %%%%%%%%%%%
