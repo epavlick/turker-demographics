@@ -95,17 +95,8 @@ German&66&	Turkish&35&	Others &$\leq$20\\
 \hline\hline
 \end{tabular}
 \normalsize
-\caption{XXX}
+\caption{Self-reported native language of 3,154 bilingual Turkers. Not shown are 54 langs with $\leq$20 speakers  each for a total of 423 remaining speakers.  We omit Turkers did not self-report their native languages (1,801), 243 who reported two native languages, 83 who reported $\geq$3 native languages.}\label{lang-pie}
 \end{figure}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
-\begin{figure*}[h]
-\centering
-\includegraphics[width=7in]{figures/completiontime}
-\caption{Time (in days) to complete all HITs in each language. Red bar shows time until first HIT was started, relative to the time the first HIT in each language was started, relative to the time the first HIT in any language was started (first HIT started across all languages was Urdu). Blue bar shows time until all HITs in each language were completed.}
-\label{completion-time}
-\end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
@@ -136,16 +127,6 @@ Several researchers have examined cost optimization through using active learnin
 
 To contrast our research with previous work, the main contributions of this paper are: (1) a robust methodology for assessing the bilingual  skills of anonymous workers, (2) the largest-scale census to date of language skills of workers on MTurk, and (3) a detailed analysis of the data gathered in our study.
 %, including the quality of the translations and recommendations for  languages that are feasible for near-term creation of multi-lingual technologies. 
-
-
-%%%%%%%%%%%%%%% MAP OF WORKER LOCATIONS %%%%%%%%%%%
-\begin{figure*}[h]
-\centering
-\includegraphics[width=\linewidth]{figures/turkermap-color-cropped}
-\caption{The number of workers per country.  This map was generated based on geolocating the IP address of  5,284 workers in our study.  The size of the circles represents the number of worker from each country.  The two largest are India (2,022 workers) and the United States (904).  To calibrate the sizes: the Philippines has 147 workers, Egypt has 25, Russia has 10, and Sri Lanka has 4.}
-\label{map}
-\end{figure*}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
@@ -185,16 +166,16 @@ Total unique workers& 6,034\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-
-%%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
-\begin{figure}[h]
-\centering
-\includegraphics[width=\linewidth]{figures/natlang-pie}
-\caption{Self-reported native language of 3,154 bilingual Turkers.  Not shown are the languages of 243 Turkers who reported two native languages, 83 who reported $\geq$3 native languages, and 1.801 who failed to answer the language survey component of our translation HITs.}
-\label{lang-pie}
-\end{figure}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+%
+%%%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
+%\begin{figure}[h]
+%\centering
+%\includegraphics[width=\linewidth]{figures/natlang-pie}
+%\caption{Self-reported native language of 3,154 bilingual Turkers.  Not shown are the languages of 243 Turkers who reported two native languages, 83 who reported $\geq$3 native languages, and 1.801 who failed to answer the language survey component of our translation HITs.}
+%\label{lang-pie}
+%\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
 \section{Survey Design}
 The central task in this study was to use Mechanical Turk to create bilingual dictionaries for over 100 languages in order to test Mechanical Turk's bilingual population. 
 
@@ -206,6 +187,18 @@ For the translation task, we asked Turkers to translate individual words, showin
 
 The known translations were harvested from the titles of English and foreign articles that were linked via Wikipedia's inter-language links.
 Keeping only pairs such that (1) the English word is present in the WordNet ontology, (2) the article titles were a single word in both English and the foreign language, (3) the English wikipedia page was not a subcategory of person, and (4) the English and the foreign titles were not identical and were not contained as a substring in the other.
+
+%%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
+\begin{figure}[h]
+\centering
+\includegraphics[height=\linewidth,angle=270]{figures/completiontime}
+\caption{Time (in days) to complete all HITs in each language. Red bar shows time until first HIT was started,
+% relative to the time the first HIT in each language was started, relative to the time the first HIT in any language was started (first HIT started across all languages was Urdu). 
+ blue bar shows time until all HITs in each language were completed.}
+\label{completion-time}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 For the evaluation task, Turkers were shown a pair of words, one which was a Turker's translation of one of the embedded quality control words, and the other which was a known gold-standard translation of the same word. Evaluators were asked whether the two words were synonyms, and chose between three answers: `Yes', `No', or `Related but not synonyms'. The last category was intended for word pairs such as `clouds' and `sky', which may be confusable to a non-native speaker but are not acceptable as dictionary translations. Turkers in the evaluation task could also flag the translated word as misspelled. Each HIT included 10 word pairs to be compared, and paid next to nothing. We describe the evaluation process further in the Measuring Quality section of this paper.
 
