@@ -33,7 +33,7 @@
   }
   
 % Anonymized for submission
-%\author{}
+\author{}
 
 \date{}
 
@@ -83,7 +83,7 @@ Amazon's Mechanical Turk (MTurk) is an online marketplace for work that gives em
 
 \nocite{novotney-callisonburch:2010:NAACLHLT}
 
-On MTurk, researchers who need work completed are called `Requesters', workers are often referred to as `Turkers', and micro-tasks are called `HITs'.  MTurk is a true market, meaning that Turkers are free to choose to complete the HITs which interest them, and Requesters can price their tasks competitively to try to attract workers and have their tasks done quickly \cite{faridani-et-al:2011,singer-mittal:2011}. Turkers' identities remain anonymous to Requesters, and all payment occurs through Amazon. Requesters are able to accept submitted work or reject work that they does not meet their standards.  Turkers are only pay if a Requester accepts their work. 
+On MTurk, researchers who need work completed are called `Requesters', workers are often referred to as `Turkers', and micro-tasks are called `HITs'.  MTurk is a true market, meaning that Turkers are free to choose to complete the HITs which interest them, and Requesters can price their tasks competitively to try to attract workers and have their tasks done quickly \cite{faridani-et-al:2011,singer-mittal:2011}. Turkers' identities remain anonymous to Requesters, and all payment occurs through Amazon. Requesters are able to accept submitted work or reject work that they does not meet their standards.  Turkers are only paid if a Requester accepts their work. 
 
 Several reports examine Mechanical Turk as an economic market \cite{ipeirotis:2010:marketplace,lehdonvirta-ernkvist:2011}.  When Amazon introduced MTurk, it first offered payment only in Amazon credits, and later offered direct payment in US dollars. More recently, it has expanded to include one foreign currency, the Indian rupee. Despite its payments being limited to two currencies or Amazon credits, MTurk claims over half a million workers from 190 countries \cite{AmazonRequesterTour}.  This suggests that its worker population should represent a diverse set of languages.
 
@@ -116,24 +116,25 @@ To contrast our research with previous work, the main contributions of this pape
 %\end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%% SURVEY TABLE %%%%%%%%%%%
-\begin{figure}[h]
-\begin{tabular}{lc}\hline\hline\\
-Is [HIT language/English]&\multirow{2}{*}{3,480}\\
-your native language? &\\
-How many years have you&\multirow{2}{*}{3,767}\\
-spoken [HIT language]?&\\
-How many years have you&\multirow{2}{*}{3,840}\\
-spoken English?&\\
-What country do you live in?&3,890\\
-Geolocation (collected automatically)& 5,054\\
-\hline\\
-Total workers& 5,281\\
-\hline\hline
-\end{tabular}
-\caption{Demographic survey questions and number of Turkers with valid responses for each}
-\label{survey-tab}
-\end{figure}
+%%%%%%%%%%%%%%%% SURVEY TABLE %%%%%%%%%%%
+%\begin{figure}[h]
+%\begin{tabular}{lc}\hline\hline\\
+%Is [HIT language/English]&\multirow{2}{*}{3,480}\\
+%your native language? &\\
+%How many years have you&\multirow{2}{*}{3,767}\\
+%spoken [HIT language]?&\\
+%How many years have you&\multirow{2}{*}{3,840}\\
+%spoken English?&\\
+%What country do you live in?&3,890\\
+%Geolocation (collected automatically)& 5,054\\
+%\hline\\
+%Total workers& 5,281\\
+%\hline\hline
+%\end{tabular}
+%\caption{Demographic survey questions and number of Turkers with valid responses for each}
+%\label{survey-tab}
+%\end{figure}
+
 %\begin{table*}[h]
 %\centering
 %\begin{tabular}{lc}\hline\hline\\
@@ -173,8 +174,10 @@ At the start of each HIT, Turkers were asked to complete a brief survey about th
 \item Is [HIT language] your native language? 
 \item How many years have you spoken [language]? 
 \item Is English your native language? 
-\item How many years have you spoken English?\item What country do you live in?
-\end{itemize}We automatically collected each worker's current location by geolocating their IP address.  A total of 5,281 unique workers completed our HITs.  Among those, 3,890 provided valid responses to our survey questions, and we were able to geolocate 5,054.  Figure \ref{map} plots the location of workers across XXX countries.
+\item How many years have you spoken English?
+\item What country do you live in?
+\end{itemize}
+We automatically collected each worker's current location by geolocating their IP address.  A total of 5,281 unique workers completed our HITs.  Among those, 3,890 provided valid responses to our survey questions, and we were able to geolocate 5,054.  Figure \ref{map} plots the location of workers across 111 countries.
 
 % were not required in order to complete the HIT; survey questions and the number of valid responses received for each are listed in table \ref{survey-tab}. Although it was not required, Turkers who completed multiple HIT assignments could fill out the survey multiple times. This enabled some Turkers to report multiple native languages (see figure \ref{numlangs-tab}). While most results presented are calculated across all Turkers, figures given for distributions across native languages are calculated only from Turkers who reported a single native language.\\
 
@@ -200,7 +203,7 @@ German&66&	Turkish&35&	Others &$\leq$20\\
 \hline\hline
 \end{tabular}
 \normalsize
-\caption{Self-reported native language of 3,154 bilingual Turkers. Not shown are 54 langs with $\leq$20 speakers  each. 
+\caption{Self-reported native language of 3,154 bilingual Turkers. Not shown are 54 languages with $\leq$20 speakers . 
 %(for a total of 423 remaining speakers).  
 We omit 1,801 Turkers did not report their native language, 243 who reported 2 native languages, and 83 who reported $\geq$3 native languages.}\label{lang-pie}
 \end{figure}
@@ -210,7 +213,7 @@ We omit 1,801 Turkers did not report their native language, 243 who reported 2 n
 
 \paragraph{Selection of languages}
 
-We chose the languages which were highly used on Wikipedia, in terms of the number of available articles.\footnote{\url{http://meta.wikimedia.org/wiki/List_of_Wikipedias}} We compiled a list of all languages for which there existed at least 10,000 Wikipedia articles; we also included a small number of low resource languages for which there were approximately 1,000 available articles, giving a total of 119 languages to use in our task. For each of the languages, we chose the 1,000 most popular articles, and from these selected the 10,000 most frequent words. The resulting vocabulariesserved as the source side of our dictionaries.
+We drew our data from the different language versions of Wikipedia.  We selected all of the  in terms of the number of available articles.  We selected the 100 languages with the largest number of articles\footnote{\url{http://meta.wikimedia.org/wiki/List_of_Wikipedias}}, and then selected an additional 19 languages low resource languages with $<$10,000 articles, giving a total of 119 languages (Table \ref{wikipedia-buckets}). For each language, we chose the 1,000 most viewed articles,\footnote{\url{http://dumps.wikimedia.org/other/pagecounts-raw/}} and used these to extract the 10,000 most frequent words. The resulting vocabularies served as the input to our translation HIT.
 
 \begin{table}[h]
 \scriptsize 
@@ -230,25 +233,37 @@ Azerbaijani (az), Afrikaans (af), Albanian (sq), Amharic (am), Aragonese (an), A
 \end{tabular}
 \end{center}
 \normalsize
-\caption{A list of the languages that were used in our study, grouped by the number of Wikipedia articles in the language.  Each language's code is given in parentheses.  These language codes are used in other figures in this paper.}\label{wikipedia-buckets}
+\caption{A list of the languages that were used in our study, grouped by the number of Wikipedia articles in the language.  Each language's code is given in parentheses.  These language codes are used in other figures throughout this paper.}\label{wikipedia-buckets}
 \end{table}%
 
 \paragraph{Translation HIT}
 
 %Our experiments consist of two task types: a translation HIT and an evaluation HIT. 
 %Examples of the interface for each are shown in figures \ref{tranhit} and \ref{synhit}.  
-For the translation task, we asked Turkers to translate individual words, showing each word used in the context of three sentences.  Turkers were allowed to mark that they were unable to translate a word. Each task contained 10 words, 8 of which were words with unknown translations, and the other two of which were quality control words with known translations.   
+For the translation task, we asked Turkers to translate individual words.  We showed each word in the context of three sentences that were drawn from Wikipedia.  Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we rendered the words and sentences as images to reduce the ability of workers to cheat by copying-and-pasting into online MT systems. 
+%
+Turkers were allowed to mark that they were unable to translate a word. Each task contained 10 words, 8 of which were words with unknown translations, and the other two of which were quality control words with known translations.   
+%
+The task paid \$0.15 for the translation of 10 words.  
+% 
+%Assignments which had less than XXX items translated was rejected, as were workers who failed the quality control measures more than XXX\% of the time.
+Each set of 10 words was independently translated by three separate workers.  5,281 workers completed 308,079 translations assignments, totally more than 3 million words, over a period of three and a half months.
 
-The task paid \$0.15 for the translation of 10 words.  Each set of 10 words was independently translated by three separate workers.  In total, 308,079 translation tasks were completed by 5,281 workers over
-a period of three and a half months.
+\paragraph{Gold standard translations} 
+Gold standard translation controls for every language were automatically harvested from Wikipedia. We use Wikipedia's inter-language links to pair titles of English articles with their corresponding foreign articles title.  To get a more translatable set of pairs, we excluded any pairs where: (1) the English word was not present in the WordNet ontology, (2) either article title was longer than a single word, (3) the English wikipedia page was a subcategory of person or place, or (4) the English and the foreign titles were identical or a substring of the other.
 
-\paragraph{Evaluating translation accuracy}
+\paragraph{Manual evaluation of non-identical translations}
+We counted all translations that exactly matched the gold standard translation as correct.  For non-exact matches we created a second-pass quality assurance HIT.  
+For the evaluation task, Turkers were shown a pair of English words, one which was a Turker's translation of the foreign word used for quality control, and the other was the gold-standard translation the foreign word. Evaluators were asked whether the two words had the same meaning, and chose between three answers: `Yes', `No', or `Related but not synonymous'.  Examples of meaning equivalent pairs include: $<${\it petroglyphs, rock paintings}$>$, $<${\it demo, show}$>$ and  $<${\it loam, loam: soil rich in decaying matter}$>$.  Non-meaning equivalents included: $<${\it assorted, minutes}$>$, and $<${\it major,} URL of image$>$.  Related items were things like $<${\it sky, clouds}$>$. Misspellings like $<${\it lactation, lactiation} $>$ were judged to have same meaning, and were marked as misspelled.   
 
+We checked Turkers who were working on this task by embedding pairs which were either known to be synonyms or were known to be unrelated. 
+We drew known synonyms from WordNet, and non-synonyms by pairing random words from a corpus of English (including them after they were determined to be unrelated according to WordNet).
+Automating the evaluation in this way allowed the whole pipeline to be run automatically. 
 
-The known translations were harvested from the titles of English and foreign articles that were linked via Wikipedia's inter-language links.
-Keeping only pairs such that (1) the English word is present in the WordNet ontology, (2) the article titles were a single word in both English and the foreign language, (3) the English wikipedia page was not a subcategory of person, and (4) the English and the foreign titles were not identical and were not contained as a substring in the other.
-20,955 synonym tasks were used to judge the submitted translations, and
-were completed by an additional 1,006 workers.
+We cached the judgments collected in the evaluation HIT, and did not present pairs that were identical.  We ultimately needed only 
+20,955 synonym tasks to judge all of the submitted translations.  These
+were completed by an additional 1,006 workers.  Each of these assignments included 10 word pairs, paid \$0.10, and was completed by 3 separate Turkers to allow majority votes in the cases of difficult judgments. 
+%We describe the evaluation process further in the Measuring Quality section of this paper
 
 %%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
 \begin{figure}[h]
@@ -262,16 +277,6 @@ were completed by an additional 1,006 workers.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-For the evaluation task, Turkers were shown a pair of words, one which was a Turker's translation of one of the embedded quality control words, and the other which was a known gold-standard translation of the same word. Evaluators were asked whether the two words were synonyms, and chose between three answers: `Yes', `No', or `Related but not synonyms'. The last category was intended for word pairs such as `clouds' and `sky', which may be confusable to a non-native speaker but are not acceptable as dictionary translations. Turkers in the evaluation task could also flag the translated word as misspelled. Each HIT included 10 word pairs to be compared, and paid next to nothing. We describe the evaluation process further in the Measuring Quality section of this paper.
-
-Quality control for the evalutation HIT consisted of embedded word pairs which were either known to be synonyms or were known to be unrelated. Whether the evaluators correctly labeled the known word pairs could be assessed automatically, allowing the evaluation HIT to be the final step of the dictionary creation pipeline.
-
-
-That was method for building gold pairs for english-foreign dictionaries for Vocabulary HIT controls.
-
-We used Brown corpus for building synonyms and non-synonyms pairs for Synonyms HIT controls.
-It was built using random words from Brown corpora and if it had any synonyms we added them as pair.
-For non-synonyms we took two random words from Brown and if they were not in each others synonyms lists we added them as non-synonyms pair.
 
 %%%%%%%%%%%%%%% NUM LANGUAGES TABLE %%%%%%%%%%%
 %\begin{figure}[h]
