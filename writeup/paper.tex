@@ -148,7 +148,7 @@ Amazon's Mechanical Turk (MTurk) is an online marketplace for work that gives em
 
 On MTurk, researchers who need work completed are called `Requesters', workers are often referred to as `Turkers', and micro tasks are called `HITs'.  MTurk is a true market, meaning that Turkers are free to choose to complete the HITs which interest them, and Requesters can price their tasks competitively to try to attract workers and complete have their tasks done quickly \cite{faridani-et-al:2011,singer-mittal:2011}. Turkers' identities remain anonymous to Requesters, and all payment occurs through Amazon. Requesters are able to accept submitted work or reject work that they do not feel meets their standards.  Turkers are only pay if a Requester accepts their work. 
 
-Several reports examine Mechanical Turk as an economic market \cite{ipeirotis:2010:marketplace,lehdonvirta-ernkvist:2011}.  When Amazon introduced MTurk, it first offered payment only in Amazon credits, and later offered direct payment in US dollars. More recently has expanded to include one foreign currency, the Indian rupee. Despite its payments being limited to two currencies or Amazon credits, MTurk claims over half a million workers from 190 countries.\footnote{https://requester.mturk.com/tour}  This suggest that its worker population that should represent a diverse set of languages.
+Several reports examine Mechanical Turk as an economic market \cite{ipeirotis:2010:marketplace,lehdonvirta-ernkvist:2011}.  When Amazon introduced MTurk, it first offered payment only in Amazon credits, and later offered direct payment in US dollars. More recently has expanded to include one foreign currency, the Indian rupee. Despite its payments being limited to two currencies or Amazon credits, MTurk claims over half a million workers from 190 countries \cite{AmazonRequesterTour}.  This suggest that its worker population that should represent a diverse set of languages.
 
 A demographic study by \newcite{ipeirotis:2010:demographics} focused on age, gender, martial status, income levels, motivation for working on MTurk, and whether workers used it as a primary or supplemental form of income.  The study contrasted Indian and US workers. 
 A number of other studies have informally investigated Turkers' language abilities.  \newcite{munro-tily:2011} compiled survey responses of 2,000 Turkers, revealing that four of the six most represented languages come from India (the top six being Hindi, Malayalam, Tamil, Spanish, French, and Telugu).  \newcite{irvine:10} had Turkers evaluate the accuracy of translations that had been automatically inducted from monolingual texts.  They examined translations of 100 words in 42 low-resource languages, reported geolocated countries for their workers (India, the US, Romania, Pakistan, Macedonia, Latvia, Bangladesh and the Philippines).  Irvine and Klementiev discussed the difficulty of quality control and assessing the plausibility of workers' language skills for rare languages, which we address in this paper. 
@@ -162,20 +162,31 @@ To contrast our research with previous work, the main contributions of this pape
 %, including the quality of the translations and recommendations for  languages that are feasible for near-term creation of multi-lingual technologies. 
 
 
-%%%%%%%%%%%%%%% HIT UIs %%%%%%%%%%%
-\begin{figure}[h]
+%%%%%%%%%%%%%%% MAP OF WORKER LOCATIONS %%%%%%%%%%%
+\begin{figure*}[h]
 \centering
-\includegraphics[width=3in]{figures/vocabulary_hit_mturk}
-\caption{Translation HIT UI}
-\label{tranhit}
-\end{figure}
+\includegraphics[width=\linewidth]{figures/Turkermap-color-cropped}
+\caption{The number of workers per country.  This map was generated based on geolocating the IP address of  5,284 workers in our study.  The size of the circles represents the number of worker from each country.  The two largest are India (2,022 workers) and the United States (904).  To calibrate the sizes: the Philippines has 147 workers, Egypt has 25, Russia has 10, and Sri Lanka has 4.}
+\label{map}
+\end{figure*}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=3in]{figures/synonyms_hit_mturk}
-\caption{Evaluation HIT UI}
-\label{synhit}
-\end{figure}
+
+
+%%%%%%%%%%%%%%% HIT UIs %%%%%%%%%%%
+%\begin{figure}[h]
+%\centering
+%\includegraphics[width=3in]{figures/vocabulary_hit_mturk}
+%\caption{Translation HIT UI}
+%\label{tranhit}
+%\end{figure}
+%
+%\begin{figure}[h]
+%\centering
+%\includegraphics[width=3in]{figures/synonyms_hit_mturk}
+%\caption{Evaluation HIT UI}
+%\label{synhit}
+%\end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%% SURVEY TABLE %%%%%%%%%%%
@@ -197,60 +208,83 @@ Total unique workers& 6,034\\
 \end{table*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
+
+%%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
+\begin{figure}[h]
+\centering
+\includegraphics[width=\linewidth]{figures/natlang-pie}
+\caption{Self-reported native language of 3,154 bilingual Turkers.  Not shown are the languages of 243 Turkers who reported two native languages, 83 who reported $\geq$3 native languages, and 1.801 who failed to answer the language survey component of our translation HITs.}
+\label{lang-pie}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \section{Survey Design}
-The central task in this study was to use Mechanical Turk to create low cost, high quality bilingual dictionaries for over 100 languages in order to test the reliability and breadth of the knowledge of Mechanical Turk's bilingual population. 
+The central task in this study was to use Mechanical Turk to create bilingual dictionaries for over 100 languages in order to test Mechanical Turk's bilingual population. 
 
 We chose the languages which were highly used on Wikipedia, in terms of the number of available articles. We compiled a list of all languages for which there existed at least 10,000 Wikipedia articles; we also included a small number of low resource languages for which there were approximately 1,000 available articles, giving a total of 119 languages to use in our task. For each of the languages, we chose the 1,000 most popular articles, and from these selected the 10,000 most frequent words. The resulting vocabularies served as the source side of our dictionaries.
 
-The dictionary creation task was broken into two steps: a translation HIT and an evaluation HIT. Examples of the interface for each are shown in figures \ref{tranhit} and \ref{synhit}.  For the translation task, we asked turkers to translate individual words, showing each word used in the context of three sentences.  Turkers were allowed to mark that they were unable to translate a word. Each task contained 10 words, 8 of which were words with unknown translations, and the other two of which were quality control words with known translations.  The known translations were harvested from the titles of English and foreign articles that were linked via Wikipedia's inter-language links.   The task paid one million dollars for the translation of 10 words. 
+The dictionary creation task was broken into two steps: a translation HIT and an evaluation HIT. 
+%Examples of the interface for each are shown in figures \ref{tranhit} and \ref{synhit}.  
+For the translation task, we asked Turkers to translate individual words, showing each word used in the context of three sentences.  Turkers were allowed to mark that they were unable to translate a word. Each task contained 10 words, 8 of which were words with unknown translations, and the other two of which were quality control words with known translations.  .   The task paid \$0.15 for the translation of 10 words.  Each set of 10 words was independently translated by three separate workers.  
+
+The known translations were harvested from the titles of English and foreign articles that were linked via Wikipedia's inter-language links.
+Keeping only pairs such that (1) the English word is present in the WordNet ontology, (2) the article titles were a single word in both English and the foreign language, (3) the English wikipedia page was not a subcategory of person, and (4) the English and the foreign titles were not identical and were not contained as a substring in the other.
 
 For the evaluation task, Turkers were shown a pair of words, one which was a Turker's translation of one of the embedded quality control words, and the other which was a known gold-standard translation of the same word. Evaluators were asked whether the two words were synonyms, and chose between three answers: `Yes', `No', or `Related but not synonyms'. The last category was intended for word pairs such as `clouds' and `sky', which may be confusable to a non-native speaker but are not acceptable as dictionary translations. Turkers in the evaluation task could also flag the translated word as misspelled. Each HIT included 10 word pairs to be compared, and paid next to nothing. We describe the evaluation process further in the Measuring Quality section of this paper.
 
 Quality control for the evalutation HIT consisted of embedded word pairs which were either known to be synonyms or were known to be unrelated. Whether the evaluators correctly labeled the known word pairs could be assessed automatically, allowing the evaluation HIT to be the final step of the dictionary creation pipeline.
 
 
+That was method for building gold pairs for english-foreign dictionaries for Vocabulary HIT controls.
+
+We used Brown corpus for building synonyms and non-synonyms pairs for Synonyms HIT controls.
+It was built using random words from Brown corpora and if it had any synonyms we added them as pair.
+For non-synonyms we took two random words from Brown and if they were not in each others synonyms lists we added them as non-synonyms pair.
+
+
 \section{Turker Demographics}
 At the start of each HIT, Turkers were asked to complete a brief survey about their language abilities. Valid responses to all survey questions were not required in order to complete the HIT; survey questions and the number of valid responses received for each are listed in table \ref{survey-tab}. Although it was not required, Turkers who completed multiple HIT assignments could fill out the survey multiple times. This enabled some Turkers to report multiple native languages (see figure \ref{numlangs-tab}). While most results presented are calculated across all Turkers, figures given for distributions across native languages are calculated only from Turkers who reported a single native language.\\
 
 %%%%%%%%%%%%%%% NUM LANGUAGES TABLE %%%%%%%%%%%
-\begin{figure}[h]
-\begin{tabular}{ccc}\hline\hline
-&\# languages&\# Turkers\\ \hline
-No languages&0&1801\\
-One language&1&3154\\
-Multiple languages&2&243	\\
-&3&49\\
-&4&12\\
-&5&9\\
-&6&5\\
-&7&2\\
-&8&1\\
-&9&2\\
-&10&2\\
-&15&1\\
-\hline\hline
-\end{tabular}
-\label{numlangs-tab}
-\caption{Number of native languages reported during demographic survey.}
-\end{figure}
+%\begin{figure}[h]
+%\begin{tabular}{ccc}\hline\hline
+%&\# languages&\# Turkers\\ \hline
+%No languages&0&1801\\
+%One language&1&3154\\
+%Multiple languages&2&243	\\
+%&3&49\\
+%&4&12\\
+%&5&9\\
+%&6&5\\
+%&7&2\\
+%&8&1\\
+%&9&2\\
+%&10&2\\
+%&15&1\\
+%\hline\hline
+%\end{tabular}
+%\label{numlangs-tab}
+%\caption{Number of native languages reported during demographic survey.}
+%\end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%% ASSIGNMENT SCATTER %%%%%%%%%%%
 \begin{figure*}[h]
 \centering
 \includegraphics[width=6in]{figures/assign-turk-scatter}
-\caption{Number of assignments and number of turkers for each language. Each dot represents a language.}
+\caption{Number of assignments and number of Turkers for each language. Each dot represents a language.}
 \label{ass-scatter}
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Figure \ref{ass-scatter} shows the volume of HITs completed and the number of workers participating for each language. While the bulk (22\%) of bilingual turkers report English as their native language (see figure \ref{lang-pie}), Mechanical Turk's capacity to support the Indian languages is apparent. Hindi, Tamil, and Malayalam are especially well represented in terms of number of active translators, and Urdu, Telugu, and Macedonian are particularly productive in terms of number of assignments completed. As shown in figure \ref{langgeo-bar}, 11 of the top 25 languages, in terms of number of assignments submitted, were Indian languages, and the assignments for 15 of the top 25 were completed mostly or entirely by turkers located in India. 
+Figure \ref{ass-scatter} shows the volume of HITs completed and the number of workers participating for each language. While the bulk (22\%) of bilingual Turkers report English as their native language (see figure \ref{lang-pie}), Mechanical Turk's capacity to support the Indian languages is apparent. Hindi, Tamil, and Malayalam are especially well represented in terms of number of active translators, and Urdu, Telugu, and Macedonian are particularly productive in terms of number of assignments completed. As shown in figure \ref{langgeo-bar}, 11 of the top 25 languages, in terms of number of assignments submitted, were Indian languages, and the assignments for 15 of the top 25 were completed mostly or entirely by Turkers located in India. 
 
 %%%%%%%%%%%%%%% LOCATION BAR %%%%%%%%%%%
 \begin{figure*}[h]
 \centering
 \includegraphics[width=6in]{figures/assign-langgeo-sorted}
-\caption{Geolocation of turkers speaking 40 most represented languages, in terms of number of assignments submitted}
+\caption{Geolocation of Turkers speaking 40 most represented languages, in terms of number of assignments submitted}
 \label{langgeo-bar}
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -305,16 +339,20 @@ Interestingly, native speakers do not consistently outperform non-native speaker
 %%%%%%%%%%%%%%% QUALITY / NUM ASSIGN SCATTER %%%%%%%%%%%
 \begin{figure*}[h]
 \centering
-\includegraphics[width=6in]{figures/quality-scatter-avgturkers-country-labeled}
+\includegraphics[width=6in]{figures/quality-scatter-avgTurkers-country-labeled}
 \caption{Quality of translations by country. Each circle is a country, sized proportional to the number of active Turkers from that country.}
 \label{quality-scatter}
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+<<<<<<< HEAD
 Self-reported country information is typically reliable; about 96\% of self-reported locations agreed with automatically reported locations, 
 Three quarters of Turkers who reported their native language reported a single native language consistantly across all assignments (table \ref{numlangs-tab}), and of those reporting multiple native languages, the majority listed English in addition to the HIT's source language, meaning less than 5\% of Turkers gave unreasonable responses.  
 
 %Across all assignments, 96\% of reported locations agreed with automatically reported locations, although assignments in which Turkers misreported their location averaged 10\% lower in quality than those in which the reported location was accurate, shown in table \ref{mism-tab}.
+=======
+Self-reported country information is typically reliable. Three quarters of Turkers who reported their native language reported a single native language consistently across all assignments, and of those reporting multiple native languages, the majority listed English in addition to the HIT's source language.  Less than 5\% of Turkers gave unreasonable responses with 3 or more native languages. Across all assignments, 96\% of reported locations agreed with automatically reported locations, although assignments in which Turkers misreported their location averaged 10\% lower in quality than those in which the reported location was accurate, shown in table \ref{mism-tab}.
+>>>>>>> 95766c3346b7a35c74c64cac43e18d91099d1277
 
 
 \section{Discussion}
