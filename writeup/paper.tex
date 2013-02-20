@@ -77,41 +77,6 @@ obtain financial rewards?
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-%%%%%%%%%%%%%%% NAT LANG PIE TABLE %%%%%%%%%%%
-\begin{figure}[h]
-\footnotesize
-\begin{tabular}{lrlrlr}\hline\hline
-%Language&\# Turkers\\
-\hline
-English&591&	French&63&	Vietnamese&34\\
-Tamil&253&	Polish&61&	Macedonian&31\\
-Malayalam&219&	Urdu&56&	Cebuano&29\\
-Hindi&149&	Tagalog&54&	Swedish&26\\
-Spanish&131&	Marathi&48&	Bulgarian&25\\
-Telugu&87&	Russian&44&	Hungarian&23\\
-Chinese&86&	Italian&43&	Swahili&23\\
-Romanian&85&	Bengali&41&	Thai&22\\
-Portuguese&82&	Gujarati&39&	Catalan&22\\
-Arabic&74&	Hebrew&38&	Lithuanian&21\\
-Kannada&72&	Dutch&37&	Punjabi&21\\
-German&66&	Turkish&35&	Others &$\leq$20\\
-\hline\hline
-\end{tabular}
-\normalsize
-\caption{Self-reported native language of 3,154 bilingual Turkers. Not shown are 54 langs with $\leq$20 speakers  each. 
-%(for a total of 423 remaining speakers).  
-We omit 1,801 Turkers did not report their native language, 243 who reported 2 native languages, and 83 who reported $\geq$3 native languages.}\label{lang-pie}
-\end{figure}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
-%\begin{figure}[h]
-%\centering
-%\includegraphics[width=\linewidth]{figures/natlang-pie}
-%\caption{Self-reported native language of 3,154 bilingual turkers}
-%\label{lang-pie}
-%\end{figure}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Background and Related Work}
 Amazon's Mechanical Turk (MTurk) is an online marketplace for work that gives employers and researchers access to a large, low-cost, workforce. MTurk provides a simple interface for accessing human skills, allowing employers to provide micro-payments in return for workers completing micro-tasks.  The basic units of work on MTurk are called ``Human Intelligence Tasks'' (HITs),which hints at its origins.  MTurk was designed to accommodate tasks that are difficult for computers, but simple for people. This facilitates research into human computation, where people can be treated as a function call \cite{vonAhnThesis,Little2009,quinn-bederson:2011}.  It has application to research areas like human-computer interaction \cite{bigham-et-al:2010,bernstein-et-al:2010}, computer vision  \cite{sorkin-forsyth:2008,deng-et-al:2010,rashtchian:10}, speech processing \cite{marge:10,lane-EtAl:2010:MTURK,Parent-Eskenazi:2011,Eskenazi:2013:crowdsourcing-speech-book},  and natural language processing \cite{Snow2008,callisonburch-dredze:2010:MTURK,laws-scheible-schutze:2011:EMNLP}. 
@@ -152,21 +117,21 @@ To contrast our research with previous work, the main contributions of this pape
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%% SURVEY TABLE %%%%%%%%%%%
-\begin{table*}[h]
-\centering
-\begin{tabular}{lc}\hline\hline\\
-Is [HIT language/English] your native language? &3,480\\
-How many years have you spoken [HIT language]?&3,767\\
-How many years have you spoken English?&3,840\\
-What country do you live in?&3,890\\
-Current location (collected automatically)& 5,054\\
-\hline\\
-Total unique workers& 5,281\\
-\hline\hline
-\end{tabular}
-\caption{Demographic survey questions and number of Turkers with valid responses for each}
-\label{survey-tab}
-\end{table*}
+%\begin{table*}[h]
+%\centering
+%\begin{tabular}{lc}\hline\hline\\
+%Is [HIT language/English] your native language? &3,480\\
+%How many years have you spoken [HIT language]?&3,767\\
+%How many years have you spoken English?&3,840\\
+%What country do you live in?&3,890\\
+%Current location (collected automatically)& 5,054\\
+%\hline\\
+%Total unique workers& 5,281\\
+%\hline\hline
+%\end{tabular}
+%\caption{Demographic survey questions and number of Turkers with valid responses for each}
+%\label{survey-tab}
+%\end{table*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -181,11 +146,56 @@ Total unique workers& 5,281\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 \section{Survey Design}
-The central task in this study was to use Mechanical Turk to create bilingual dictionaries for over 100 languages in order to test Mechanical Turk's bilingual population. 
+The central task in this study was to study Mechanical Turk's bilingual population.  We accomplished this through self-reported surveys combined with a HIT to translate individual words for over 100 languages.  We evaluate the accuracy of the workers' translations against known translations.  In cases where these were not exact matches, we used a second pass monolingual HIT, which asked English speakers to evaluate if a worker-provided translation was a synonym of the known translation.
+
+
+\paragraph{Demographic Survey}
+
+At the start of each HIT, Turkers were asked to complete a brief survey about their language abilities. The survey asked the following questions:
+\begin{itemize}
+\item Is [HIT language] your native language? 
+\item How many years have you spoken [language]? 
+\item Is English your native language? 
+\item How many years have you spoken English?\item What country do you live in?
+\end{itemize}We automatically collected each worker's current location by geolocating their IP address.  A total of 5,281 unique workers completed our HITs.  Among those, 3,890 provided valid responses to our survey questions, and we were able to geolocate 5,054.  Figure \ref{map} plots the location of workers across XXX countries.
+
+% were not required in order to complete the HIT; survey questions and the number of valid responses received for each are listed in table \ref{survey-tab}. Although it was not required, Turkers who completed multiple HIT assignments could fill out the survey multiple times. This enabled some Turkers to report multiple native languages (see figure \ref{numlangs-tab}). While most results presented are calculated across all Turkers, figures given for distributions across native languages are calculated only from Turkers who reported a single native language.\\
+
+
+%%%%%%%%%%%%%%% NAT LANG PIE TABLE %%%%%%%%%%%
+\begin{figure}[h]
+\footnotesize
+\begin{tabular}{lrlrlr}\hline\hline
+%Language&\# Turkers\\
+\hline
+English&591&	French&63&	Vietnamese&34\\
+Tamil&253&	Polish&61&	Macedonian&31\\
+Malayalam&219&	Urdu&56&	Cebuano&29\\
+Hindi&149&	Tagalog&54&	Swedish&26\\
+Spanish&131&	Marathi&48&	Bulgarian&25\\
+Telugu&87&	Russian&44&	Hungarian&23\\
+Chinese&86&	Italian&43&	Swahili&23\\
+Romanian&85&	Bengali&41&	Thai&22\\
+Portuguese&82&	Gujarati&39&	Catalan&22\\
+Arabic&74&	Hebrew&38&	Lithuanian&21\\
+Kannada&72&	Dutch&37&	Punjabi&21\\
+German&66&	Turkish&35&	Others &$\leq$20\\
+\hline\hline
+\end{tabular}
+\normalsize
+\caption{Self-reported native language of 3,154 bilingual Turkers. Not shown are 54 langs with $\leq$20 speakers  each. 
+%(for a total of 423 remaining speakers).  
+We omit 1,801 Turkers did not report their native language, 243 who reported 2 native languages, and 83 who reported $\geq$3 native languages.}\label{lang-pie}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\paragraph{Selection of languages}
 
 We chose the languages which were highly used on Wikipedia, in terms of the number of available articles.\footnote{\url{http://meta.wikimedia.org/wiki/List_of_Wikipedias}} We compiled a list of all languages for which there existed at least 10,000 Wikipedia articles; we also included a small number of low resource languages for which there were approximately 1,000 available articles, giving a total of 119 languages to use in our task. For each of the languages, we chose the 1,000 most popular articles, and from these selected the 10,000 most frequent words. The resulting vocabulariesserved as the source side of our dictionaries.
 
-\begin{table}[htdp]
+\begin{table}[h]
 \scriptsize 
 \begin{center}
 \begin{tabular}{|p{0.95\linewidth}|}
@@ -206,19 +216,22 @@ Azerbaijani (az), Afrikaans (af), Albanian (sq), Amharic (am), Aragonese (an), A
 \caption{A list of the languages that were used in our study, grouped by the number of Wikipedia articles in the language.  Each language's code is given in parentheses.  These language codes are used in other figures in this paper.}\label{wikipedia-buckets}
 \end{table}%
 
+\paragraph{Translation HIT}
 
-Our experiments consist of two task types: a translation HIT and an evaluation HIT. 
+%Our experiments consist of two task types: a translation HIT and an evaluation HIT. 
 %Examples of the interface for each are shown in figures \ref{tranhit} and \ref{synhit}.  
 For the translation task, we asked Turkers to translate individual words, showing each word used in the context of three sentences.  Turkers were allowed to mark that they were unable to translate a word. Each task contained 10 words, 8 of which were words with unknown translations, and the other two of which were quality control words with known translations.   
 
-The task paid \$0.15 for the translation of 10 words.  Each set of 10 words was independently translated by three separate workers.  In total, 308079 translation tasks were completed by 5281 workers over
+The task paid \$0.15 for the translation of 10 words.  Each set of 10 words was independently translated by three separate workers.  In total, 308,079 translation tasks were completed by 5,281 workers over
 a period of three and a half months.
-20955 synonym tasks were used to judge the submitted translations, and
-were completed by an additional 1006 workers.
+
+\paragraph{Evaluating translation accuracy}
 
 
 The known translations were harvested from the titles of English and foreign articles that were linked via Wikipedia's inter-language links.
 Keeping only pairs such that (1) the English word is present in the WordNet ontology, (2) the article titles were a single word in both English and the foreign language, (3) the English wikipedia page was not a subcategory of person, and (4) the English and the foreign titles were not identical and were not contained as a substring in the other.
+20,955 synonym tasks were used to judge the submitted translations, and
+were completed by an additional 1,006 workers.
 
 %%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
 \begin{figure}[h]
@@ -242,10 +255,6 @@ That was method for building gold pairs for english-foreign dictionaries for Voc
 We used Brown corpus for building synonyms and non-synonyms pairs for Synonyms HIT controls.
 It was built using random words from Brown corpora and if it had any synonyms we added them as pair.
 For non-synonyms we took two random words from Brown and if they were not in each others synonyms lists we added them as non-synonyms pair.
-
-
-\section{Turker Demographics}
-At the start of each HIT, Turkers were asked to complete a brief survey about their language abilities. Valid responses to all survey questions were not required in order to complete the HIT; survey questions and the number of valid responses received for each are listed in table \ref{survey-tab}. Although it was not required, Turkers who completed multiple HIT assignments could fill out the survey multiple times. This enabled some Turkers to report multiple native languages (see figure \ref{numlangs-tab}). While most results presented are calculated across all Turkers, figures given for distributions across native languages are calculated only from Turkers who reported a single native language.\\
 
 %%%%%%%%%%%%%%% NUM LANGUAGES TABLE %%%%%%%%%%%
 %\begin{figure}[h]
