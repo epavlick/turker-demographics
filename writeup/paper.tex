@@ -74,14 +74,59 @@ obtain financial rewards?
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
+%%%%%%%%%%%%%%% NAT LANG PIE TABLE %%%%%%%%%%%
+\begin{figure}[h]
+\begin{tabular}{cc}\hline\hline
+Language&\# Turkers\\
+\hline
+English&591\\
+Tamil&253\\
+Malayalam&219\\
+Hindi&149\\
+Spanish&131\\
+Telugu&87\\
+Chinese&86\\
+Romanian&85\\
+Portuguese&82\\
+Arabic&74\\
+Kannada&72\\
+German&66\\
+French&63\\
+Polish&61\\
+Urdu&56\\
+Tagalog&54\\
+Marathi&48\\
+Russian&44\\
+Italian&43\\
+Bengali&41\\
+Gujarati&39\\
+Hebrew&38\\
+Dutch&37\\
+Turkish&35\\
+Vietnamese&34\\
+Macedonian&31\\
+Cebuano&29\\
+Swedish&26\\
+Bulgarian&25\\
+Hungarian&23\\
+Swahili&23\\
+Thai&22\\
+Catalan&22\\
+Lithuanian&21\\
+Punjabi&21\\
+Other($\leq$ 20 per language)&423\\
+\hline\hline
+\end{tabular}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
-\begin{figure*}[h]
-\centering
-\includegraphics[width=7in]{figures/natlang-pie}
-\caption{Self-reported native language of 3,154 bilingual turkers}
-\label{lang-pie}
-\end{figure*}
+%\begin{figure*}[h]
+%\centering
+%\includegraphics[width=7in]{figures/natlang-pie}
+%\caption{Self-reported native language of 3,154 bilingual turkers}
+%\label{lang-pie}
+%\end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Background and Related Work}
@@ -204,23 +249,23 @@ Figure \ref{ass-scatter} shows the volume of HITs completed and the number of wo
 The primary challenge of using crowdsourced language data is the widely variable quality of the collected annotations. While it is possible to strengthen the signal by collecting redundant labels, this strategy becomes difficult in practice for more complex data annotation. In the case of translation, even professional translations can be expected to vary significantly, and fully automatic comparison of free form text is itself an open research question.
 
  
-In order to address the quality of the translations we received on the dictionary task, we constructed a pipeline in which the output of the translation HIT was reviewed by humans in a second evaluation HIT, described above. We quantified the quality of each translation assignment based on the output of the evaluation HIT. The quality of an assignment was scored as the fraction of known words which were acceptably translated: i.e, the supplied translation was judged to be synonymous with the gold standard translation. Since each assignment had either one or two known words embedded, each assignment was assigned a score of either 0, 0.5, or 1.
+In order to address the quality of the translations we received on the dictionary task, we constructed a pipeline in which the output of the translation HIT was reviewed by humans in a second evaluation HIT, described above. We quantified the quality of each translation assignment based on the output of the evaluation HIT. The quality of an assignment was scored as the fraction of known words which were acceptably translated: i.e, the supplied translation was judged to be synonymous with the gold standard translation. Since most assignments had two known words embedded, most assignments had scores of either 0, 0.5, or 1.
 
 
 %%%%%%%%%%%%%%% MISREPORT TABLE %%%%%%%%%%%
-\begin{figure}[h]
-\centering
-\begin{tabular}{cccc}\hline\hline\\
-&Avg. & 99\%&\\
-&Quality & Conf. Int.&n\\
-Misreport&0.252&(0.244, 0.260)&10,479\\
-Correct&0.282&(0.280, 0.283)&296,911\\
-Overall&0.281&(0.279, 0.282)&307,390\\
-\hline\hline
-\end{tabular}
-\label{mism-tab}
-\caption{Quality of translations recieved from truthful versus misreporting Turkers.}
-\end{figure}
+%\begin{figure}[h]
+%\centering
+%\begin{tabular}{cccc}\hline\hline\\
+%&Avg. & 99\%&\\
+%&Quality & Conf. Int.&n\\
+%Misreport&0.252&(0.244, 0.260)&10,479\\
+%Correct&0.282&(0.280, 0.283)&296,911\\
+%Overall&0.281&(0.279, 0.282)&307,390\\
+%\hline\hline
+%\end{tabular}
+%\label{mism-tab}
+%\caption{Quality of translations recieved from truthful versus misreporting Turkers.}
+%\end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%% HITLANG QUALITY BAR %%%%%%%%%%%
@@ -256,7 +301,10 @@ Interestingly, native speakers do not consistently outperform non-native speaker
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Self-reported country information is typically reliable. Three quarters of Turkers who reported their native language reported a single native language consistantly across all assignments (table \ref{numlangs-tab}), and of those reporting multiple native languages, the majority listed English in addition to the HIT's source language, meaning less than 5\% of Turkers gave unreasonable responses. Across all assignments, 96\% of reported locations agreed with automatically reported locations, although assignments in which Turkers misreported their location averaged 10\% lower in quality than those in which the reported location was accurate, shown in table \ref{mism-tab}.
+Self-reported country information is typically reliable; about 96\% of self-reported locations agreed with automatically reported locations, 
+Three quarters of Turkers who reported their native language reported a single native language consistantly across all assignments (table \ref{numlangs-tab}), and of those reporting multiple native languages, the majority listed English in addition to the HIT's source language, meaning less than 5\% of Turkers gave unreasonable responses.  
+
+%Across all assignments, 96\% of reported locations agreed with automatically reported locations, although assignments in which Turkers misreported their location averaged 10\% lower in quality than those in which the reported location was accurate, shown in table \ref{mism-tab}.
 
 
 \section{Discussion}
