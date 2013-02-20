@@ -250,18 +250,27 @@ The task paid \$0.15 for the translation of 10 words.
 Each set of 10 words was independently translated by three separate workers.  5,281 workers completed 308,079 translations assignments, totaling more than 3 million words, over a period of three and a half months.
 
 \paragraph{Gold standard translations} 
-Gold standard translation controls for every language were automatically harvested from Wikipedia. We use Wikipedia's inter-language links to pair titles of English articles with their corresponding foreign articles title.  To get a more translatable set of pairs, we excluded any pairs where: (1) the English word was not present in the WordNet ontology, (2) either article title was longer than a single word, (3) the English wikipedia page was a subcategory of person or place, or (4) the English and the foreign titles were identical or a substring of the other.
+A set of gold standard translations were automatically harvested from Wikipedia  for every language to use as embedded controls. We used Wikipedia's inter-language links to pair titles of English articles with their corresponding foreign articles title.  To get a more translatable set of pairs, we excluded any pairs where: (1) the English word was not present in the WordNet ontology, (2) either article title was longer than a single word, (3) the English wikipedia page was a subcategory of person or place, or (4) the English and the foreign titles were identical or a substring of the other.
 
 \paragraph{Manual evaluation of non-identical translations}
 We counted all translations that exactly matched the gold standard translation as correct.  For non-exact matches we created a second-pass quality assurance HIT.  
-For the evaluation task, Turkers were shown a pair of English words, one which was a Turker's translation of the foreign word used for quality control, and the other was the gold-standard translation the foreign word. Evaluators were asked whether the two words had the same meaning, and chose between three answers: `Yes', `No', or `Related but not synonymous'.  Examples of meaning equivalent pairs include: $<${\it petroglyphs, rock paintings}$>$, $<${\it demo, show}$>$ and  $<${\it loam, loam: soil rich in decaying matter}$>$.  Non-meaning equivalents included: $<${\it assorted, minutes}$>$, and $<${\it major,} URL of image$>$.  Related items were things like $<${\it sky, clouds}$>$. Misspellings like $<${\it lactation, lactiation} $>$ were judged to have same meaning, and were marked as misspelled.   3 separate Turkers judged each pair, allowing majority votes in the cases of difficult cases. 
+For the evaluation task, Turkers were shown a pair of English words, one which was a Turker's translation of the foreign word used for quality control, and the other was the gold-standard translation the foreign word. Evaluators were asked whether the two words had the same meaning, and chose between three answers: `Yes', `No', or `Related but not synonymous.'  Examples of meaning equivalent pairs include: $<${\it petroglyphs, rock paintings}$>$, $<${\it demo, show}$>$ and  $<${\it loam, loam: soil rich in decaying matter}$>$.  Non-meaning equivalents included: $<${\it assorted, minutes}$>$, and $<${\it major,} URL of image$>$.  Related items were things like $<${\it sky, clouds}$>$. Misspellings like $<${\it lactation, lactiation} $>$ were judged to have same meaning, and were marked as misspelled.   3 separate Turkers judged each pair, allowing majority votes in the cases of difficult cases. 
 
 
 We checked Turkers who were working on this task by embedding pairs word which were either known to be synonyms (drawn from WordNet) or were known to be unrelated (randomly chosen from a corpus). 
 %We drew known synonyms from WordNet, and non-synonyms by pairing random words from a corpus of English (including them after they were determined to be unrelated according to WordNet).
 Automating the evaluation in this way allowed the whole pipeline to be run automatically.  Caching judgments meant that we ultimately needed only 
 20,955 synonym tasks to judge all of the submitted translations (a total of 55,880 unique word pairs).  These were completed by an additional 1,006 workers.  Each of these assignments included 10 word pairs and paid \$0.10.
+
+
 \section{Data Analysis}
+
+We performed an analysis of our data to address the following questions:
+\begin{itemize}
+\item How quickly is work completed in each language? 
+\item What is the quality of crowdsourced translations? 
+\item Do workers accurately represent their language abilities? 
+\end{itemize}
 
 
 %%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
