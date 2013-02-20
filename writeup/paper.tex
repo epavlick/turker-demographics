@@ -31,6 +31,9 @@
 \affliationPenn Computer and Information Science Department, University of Pennsylvania \\
 \affliationJHU Human Language Technology Center of Excellence, Johns Hopkins University \\
   }
+  
+% Anonymized for submission
+\author{}
 
 \date{}
 
@@ -95,17 +98,10 @@ German&66&	Turkish&35&	Others &$\leq$20\\
 \hline\hline
 \end{tabular}
 \normalsize
-\caption{XXX}
+\caption{Self-reported native language of 3,154 bilingual Turkers. Not shown are 54 langs with $\leq$20 speakers  each. 
+%(for a total of 423 remaining speakers).  
+We omit 1,801 Turkers did not report their native language, 243 who reported 2 native languages, and 83 who reported $\geq$3 native languages.}\label{lang-pie}
 \end{figure}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
-\begin{figure*}[h]
-\centering
-\includegraphics[width=7in]{figures/completiontime}
-\caption{Time (in days) to complete all HITs in each language. Red bar shows time until first HIT was started, relative to the time the first HIT in each language was started, relative to the time the first HIT in any language was started (first HIT started across all languages was Urdu). Blue bar shows time until all HITs in each language were completed.}
-\label{completion-time}
-\end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
@@ -118,34 +114,24 @@ German&66&	Turkish&35&	Others &$\leq$20\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Background and Related Work}
-Amazon's Mechanical Turk (MTurk) is an online marketplace for work that gives employers and researchers access to a large, low-cost, workforce. MTurk provides a simple interface for accessing human skills, allowing employers to provide micro-payments in return for workers completing micro-tasks.  The basic units of work on MTurk are called ``Human Intelligence Tasks'' (HITs),which hints at its origins.  MTurk was designed to accommodate tasks that are difficult for computers, but simple for people. This facilitates research into human computation, where people can be treated as a function call \cite{vonAhn2008,Little2009,quinn-bederson:2011}.  It has application to research areas like human-computer interaction \cite{bigham-et-al:2010,bernstein-et-al:2010}, computer vision  \cite{sorkin-forsyth:2008,deng-et-al:2010,rashtchian:10}, speech processing \cite{marge:10,lane-EtAl:2010:MTURK,Parent-Eskenazi:2011,Eskenazi:2013:crowdsourcing-speech-book},  and natural language processing \cite{Snow2008,callisonburch-dredze:2010:MTURK,laws-scheible-schutze:2011:EMNLP}. 
+Amazon's Mechanical Turk (MTurk) is an online marketplace for work that gives employers and researchers access to a large, low-cost, workforce. MTurk provides a simple interface for accessing human skills, allowing employers to provide micro-payments in return for workers completing micro-tasks.  The basic units of work on MTurk are called ``Human Intelligence Tasks'' (HITs),which hints at its origins.  MTurk was designed to accommodate tasks that are difficult for computers, but simple for people. This facilitates research into human computation, where people can be treated as a function call \cite{vonAhnThesis,Little2009,quinn-bederson:2011}.  It has application to research areas like human-computer interaction \cite{bigham-et-al:2010,bernstein-et-al:2010}, computer vision  \cite{sorkin-forsyth:2008,deng-et-al:2010,rashtchian:10}, speech processing \cite{marge:10,lane-EtAl:2010:MTURK,Parent-Eskenazi:2011,Eskenazi:2013:crowdsourcing-speech-book},  and natural language processing \cite{Snow2008,callisonburch-dredze:2010:MTURK,laws-scheible-schutze:2011:EMNLP}. 
 
 \nocite{novotney-callisonburch:2010:NAACLHLT}
 
-On MTurk, researchers who need work completed are called `Requesters', workers are often referred to as `Turkers', and micro tasks are called `HITs'.  MTurk is a true market, meaning that Turkers are free to choose to complete the HITs which interest them, and Requesters can price their tasks competitively to try to attract workers and have their tasks done quickly \cite{faridani-et-al:2011,singer-mittal:2011}. Turkers' identities remain anonymous to Requesters, and all payment occurs through Amazon. Requesters are able to accept submitted work or reject work that they do not feel meets their standards.  Turkers are only pay if a Requester accepts their work. 
+On MTurk, researchers who need work completed are called `Requesters', workers are often referred to as `Turkers', and micro-tasks are called `HITs'.  MTurk is a true market, meaning that Turkers are free to choose to complete the HITs which interest them, and Requesters can price their tasks competitively to try to attract workers and have their tasks done quickly \cite{faridani-et-al:2011,singer-mittal:2011}. Turkers' identities remain anonymous to Requesters, and all payment occurs through Amazon. Requesters are able to accept submitted work or reject work that they does not meet their standards.  Turkers are only pay if a Requester accepts their work. 
 
 Several reports examine Mechanical Turk as an economic market \cite{ipeirotis:2010:marketplace,lehdonvirta-ernkvist:2011}.  When Amazon introduced MTurk, it first offered payment only in Amazon credits, and later offered direct payment in US dollars. More recently, it has expanded to include one foreign currency, the Indian rupee. Despite its payments being limited to two currencies or Amazon credits, MTurk claims over half a million workers from 190 countries \cite{AmazonRequesterTour}.  This suggests that its worker population should represent a diverse set of languages.
 
-A demographic study by \newcite{ipeirotis:2010:demographics} focused on age, gender, martial status, income levels, motivation for working on MTurk, and whether workers used it as a primary or supplemental form of income.  The study contrasted Indian and US workers. 
+A demographic study by \newcite{ipeirotis:2010:demographics} focused on age, gender, martial status, income levels, motivation for working on MTurk, and whether workers used it as a primary or supplemental form of income.  The study contrasted Indian and US workers. \newcite{Ross2010} completed a longitudinal follow-on study. 
 A number of other studies have informally investigated Turkers' language abilities.  \newcite{munro-tily:2011} compiled survey responses of 2,000 Turkers, revealing that four of the six most represented languages come from India (the top six being Hindi, Malayalam, Tamil, Spanish, French, and Telugu).  \newcite{irvine:10} had Turkers evaluate the accuracy of translations that had been automatically inducted from monolingual texts.  They examined translations of 100 words in 42 low-resource languages, reported geolocated countries for their workers (India, the US, Romania, Pakistan, Macedonia, Latvia, Bangladesh and the Philippines).  Irvine and Klementiev discussed the difficulty of quality control and assessing the plausibility of workers' language skills for rare languages, which we address in this paper. 
 
-Several researchers have investigated using MTurk to build parallel corpora for machine translation, a task which stands to directly benefit from the availability of large volumes of low-cost translations \cite{Germann2001}.  \newcite{ambati_act} conducted a pilot study by posting 25 sentences to MTurk for Spanish, Chinese Hindi, Telugu, Urdu, and Haitian Creole.  In a study of 2000 Urdu sentences, 
+Several researchers have investigated using MTurk to build parallel corpora for machine translation, a task which stands to benefit low cost, high volume  translation on demand \cite{Germann2001}.  \newcite{ambati_act} conducted a pilot study by posting 25 sentences to MTurk for Spanish, Chinese Hindi, Telugu, Urdu, and Haitian Creole.  In a study of 2000 Urdu sentences, 
 \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} presented methods for achieving professional-level translation quality from Turkers by soliciting multiple English translations of each foreign sentence. 
-\newcite{Zbib-etal:2012:NAACL} used crowdsourcing to construct a 1.5 million word parallel corpus of dialect Arabic and English, training a statistical machine translation system that produced higher quality translations of dialect Arabic than a system a trained on 100x more Modern Standard Arabic-English parallel data.  \newcite{post-callisonburch-osborne:2012:WMT} used MTurk to build parallel corpora between English and six Indian languages, ranging from .5M to 1.5M words, and use them to demonstrate the efficacy of syntactic approaches to machine translation on verb-final languages.  
-Several researchers have examined cost optimization through using active learning techniques to select which sentences or fragments to translate \cite{ambati_naacl,bloodgood-callisonburch:2010:ACL,AmbatiThesis}.
+\newcite{Zbib-etal:2012:NAACL} used crowdsourcing to construct a 1.5 million word parallel corpus of dialect Arabic and English, training a statistical machine translation system that produced higher quality translations of dialect Arabic than a system a trained on 100 times more Modern Standard Arabic-English parallel data.  \newcite{post-callisonburch-osborne:2012:WMT} used MTurk to build parallel corpora between English and six Indian languages, ranging from .5M to 1.5M words, and use them to demonstrate the efficacy of syntactic machine translation on verb-final languages.  
+Several researchers have examined cost optimization using active learning techniques to select the most useful sentences or fragments to translate \cite{ambati_naacl,bloodgood-callisonburch:2010:ACL,AmbatiThesis}.
 
 To contrast our research with previous work, the main contributions of this paper are: (1) a robust methodology for assessing the bilingual  skills of anonymous workers, (2) the largest-scale census to date of language skills of workers on MTurk, and (3) a detailed analysis of the data gathered in our study.
 %, including the quality of the translations and recommendations for  languages that are feasible for near-term creation of multi-lingual technologies. 
-
-
-%%%%%%%%%%%%%%% MAP OF WORKER LOCATIONS %%%%%%%%%%%
-\begin{figure*}[h]
-\centering
-\includegraphics[width=\linewidth]{figures/turkermap-color-cropped}
-\caption{The number of workers per country.  This map was generated based on geolocating the IP address of  5,284 workers in our study.  The size of the circles represents the number of worker from each country.  The two largest are India (2,022 workers) and the United States (904).  To calibrate the sizes: the Philippines has 147 workers, Egypt has 25, Russia has 10, and Sri Lanka has 4.}
-\label{map}
-\end{figure*}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
@@ -185,27 +171,42 @@ Total unique workers& 5,271\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-
-%%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
-\begin{figure}[h]
-\centering
-\includegraphics[width=\linewidth]{figures/natlang-pie}
-\caption{Self-reported native language of 3,154 bilingual Turkers.  Not shown are the languages of 243 Turkers who reported two native languages, 83 who reported $\geq$3 native languages, and 1.801 who failed to answer the language survey component of our translation HITs.}
-\label{lang-pie}
-\end{figure}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+%
+%%%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
+%\begin{figure}[h]
+%\centering
+%\includegraphics[width=\linewidth]{figures/natlang-pie}
+%\caption{Self-reported native language of 3,154 bilingual Turkers.  Not shown are the languages of 243 Turkers who reported two native languages, 83 who reported $\geq$3 native languages, and 1.801 who failed to answer the language survey component of our translation HITs.}
+%\label{lang-pie}
+%\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
 \section{Survey Design}
 The central task in this study was to use Mechanical Turk to create bilingual dictionaries for over 100 languages in order to test Mechanical Turk's bilingual population. 
 
-We chose the languages which were highly used on Wikipedia, in terms of the number of available articles. We compiled a list of all languages for which there existed at least 10,000 Wikipedia articles; we also included a small number of low resource languages for which there were approximately 1,000 available articles, giving a total of 119 languages to use in our task. For each of the languages, we chose the 1,000 most popular articles, and from these selected the 10,000 most frequent words. The resulting vocabularies served as the source side of our dictionaries.
+We chose the languages which were highly used on Wikipedia, in terms of the number of available articles.\footnote{\url{http://meta.wikimedia.org/wiki/List_of_Wikipedias}} We compiled a list of all languages for which there existed at least 10,000 Wikipedia articles; we also included a small number of low resource languages for which there were approximately 1,000 available articles, giving a total of 119 languages to use in our task. For each of the languages, we chose the 1,000 most popular articles, and from these selected the 10,000 most frequent words. The resulting vocabulariesserved as the source side of our dictionaries.
 
-The dictionary creation task was broken into two steps: a translation HIT and an evaluation HIT. 
+Our experiments consist of two task types: a translation HIT and an evaluation HIT. 
 %Examples of the interface for each are shown in figures \ref{tranhit} and \ref{synhit}.  
-For the translation task, we asked Turkers to translate individual words, showing each word used in the context of three sentences.  Turkers were allowed to mark that they were unable to translate a word. Each task contained 10 words, 8 of which were words with unknown translations, and the other two of which were quality control words with known translations.  .   The task paid \$0.15 for the translation of 10 words.  Each set of 10 words was independently translated by three separate workers.  
+For the translation task, we asked Turkers to translate individual words, showing each word used in the context of three sentences.  Turkers were allowed to mark that they were unable to translate a word. Each task contained 10 words, 8 of which were words with unknown translations, and the other two of which were quality control words with known translations.   
+
+The task paid \$0.15 for the translation of 10 words.  Each set of 10 words was independently translated by three separate workers.  In total, XXXXXX translation tasks were completed by YYYY workers over a period of ZZZ months. 
+
 
 The known translations were harvested from the titles of English and foreign articles that were linked via Wikipedia's inter-language links.
 Keeping only pairs such that (1) the English word is present in the WordNet ontology, (2) the article titles were a single word in both English and the foreign language, (3) the English wikipedia page was not a subcategory of person, and (4) the English and the foreign titles were not identical and were not contained as a substring in the other.
+
+%%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
+\begin{figure}[h]
+\centering
+\includegraphics[height=\linewidth,angle=270]{figures/completiontime}
+\caption{Time (in days) to complete all HITs in each language. Red bars show time until first HIT was started,
+% relative to the time the first HIT in each language was started, relative to the time the first HIT in any language was started (first HIT started across all languages was Urdu). 
+ blue bars show time until all HITs in each language were completed.}
+\label{completion-time}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 For the evaluation task, Turkers were shown a pair of words, one which was a Turker's translation of one of the embedded quality control words, and the other which was a known gold-standard translation of the same word. Evaluators were asked whether the two words were synonyms, and chose between three answers: `Yes', `No', or `Related but not synonyms'. The last category was intended for word pairs such as `clouds' and `sky', which may be confusable to a non-native speaker but are not acceptable as dictionary translations. Turkers in the evaluation task could also flag the translated word as misspelled. Each HIT included 10 word pairs to be compared, and paid next to nothing. We describe the evaluation process further in the Measuring Quality section of this paper.
 
