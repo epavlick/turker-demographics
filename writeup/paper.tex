@@ -167,7 +167,7 @@ To contrast our research with previous work, the main contributions of this pape
 The central task in this study was to study Mechanical Turk's bilingual population.  We accomplished this through self-reported surveys combined with a HIT to translate individual words for over 100 languages.  We evaluate the accuracy of the workers' translations against known translations.  In cases where these were not exact matches, we used a second pass monolingual HIT, which asked English speakers to evaluate if a worker-provided translation was a synonym of the known translation.
 
 
-\paragraph{Demographic Survey}
+\paragraph{Demographic questionnaire}
 
 At the start of each HIT, Turkers were asked to complete a brief survey about their language abilities. The survey asked the following questions:
 \begin{itemize}
@@ -177,13 +177,13 @@ At the start of each HIT, Turkers were asked to complete a brief survey about th
 \item How many years have you spoken English?
 \item What country do you live in?
 \end{itemize}
-We automatically collected each worker's current location by geolocating their IP address.  A total of 5,281 unique workers completed our HITs.  Among those, 3,890 provided valid responses to our survey questions, and we were able to geolocate 5,054.  Figure \ref{map} plots the location of workers across 111 countries.
+We automatically collected each worker's current location by geolocating their IP address.  A total of 5,281 unique workers completed our HITs.  Among those, 3,890 provided valid responses to our survey questions, and we were able to geolocate 5,054.  Figure \ref{map} plots the location of workers across 111 countries.  Table \ref{lang-pie} gives the most common self-reported native languages. 
 
 % were not required in order to complete the HIT; survey questions and the number of valid responses received for each are listed in table \ref{survey-tab}. Although it was not required, Turkers who completed multiple HIT assignments could fill out the survey multiple times. This enabled some Turkers to report multiple native languages (see figure \ref{numlangs-tab}). While most results presented are calculated across all Turkers, figures given for distributions across native languages are calculated only from Turkers who reported a single native language.\\
 
 
 %%%%%%%%%%%%%%% NAT LANG PIE TABLE %%%%%%%%%%%
-\begin{figure}[h]
+\begin{table}[h]
 \footnotesize
 \begin{tabular}{lrlrlr}\hline\hline
 %Language&\# Turkers\\
@@ -206,7 +206,7 @@ German&66&	Turkish&35&	Others &$\leq$20\\
 \caption{Self-reported native language of 3,154 bilingual Turkers. Not shown are 54 languages with $\leq$20 speakers . 
 %(for a total of 423 remaining speakers).  
 We omit 1,801 Turkers did not report their native language, 243 who reported 2 native languages, and 83 who reported $\geq$3 native languages.}\label{lang-pie}
-\end{figure}
+\end{table}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -247,23 +247,31 @@ Turkers were allowed to mark that they were unable to translate a word. Each tas
 The task paid \$0.15 for the translation of 10 words.  
 % 
 %Assignments which had less than XXX items translated was rejected, as were workers who failed the quality control measures more than XXX\% of the time.
-Each set of 10 words was independently translated by three separate workers.  5,281 workers completed 308,079 translations assignments, totally more than 3 million words, over a period of three and a half months.
+Each set of 10 words was independently translated by three separate workers.  5,281 workers completed 308,079 translations assignments, totaling more than 3 million words, over a period of three and a half months.
 
 \paragraph{Gold standard translations} 
-Gold standard translation controls for every language were automatically harvested from Wikipedia. We use Wikipedia's inter-language links to pair titles of English articles with their corresponding foreign articles title.  To get a more translatable set of pairs, we excluded any pairs where: (1) the English word was not present in the WordNet ontology, (2) either article title was longer than a single word, (3) the English wikipedia page was a subcategory of person or place, or (4) the English and the foreign titles were identical or a substring of the other.
+A set of gold standard translations were automatically harvested from Wikipedia  for every language to use as embedded controls. We used Wikipedia's inter-language links to pair titles of English articles with their corresponding foreign articles title.  To get a more translatable set of pairs, we excluded any pairs where: (1) the English word was not present in the WordNet ontology, (2) either article title was longer than a single word, (3) the English wikipedia page was a subcategory of person or place, or (4) the English and the foreign titles were identical or a substring of the other.
 
 \paragraph{Manual evaluation of non-identical translations}
 We counted all translations that exactly matched the gold standard translation as correct.  For non-exact matches we created a second-pass quality assurance HIT.  
-For the evaluation task, Turkers were shown a pair of English words, one which was a Turker's translation of the foreign word used for quality control, and the other was the gold-standard translation the foreign word. Evaluators were asked whether the two words had the same meaning, and chose between three answers: `Yes', `No', or `Related but not synonymous'.  Examples of meaning equivalent pairs include: $<${\it petroglyphs, rock paintings}$>$, $<${\it demo, show}$>$ and  $<${\it loam, loam: soil rich in decaying matter}$>$.  Non-meaning equivalents included: $<${\it assorted, minutes}$>$, and $<${\it major,} URL of image$>$.  Related items were things like $<${\it sky, clouds}$>$. Misspellings like $<${\it lactation, lactiation} $>$ were judged to have same meaning, and were marked as misspelled.   
+For the evaluation task, Turkers were shown a pair of English words, one which was a Turker's translation of the foreign word used for quality control, and the other was the gold-standard translation the foreign word. Evaluators were asked whether the two words had the same meaning, and chose between three answers: `Yes', `No', or `Related but not synonymous.'  Examples of meaning equivalent pairs include: $<${\it petroglyphs, rock paintings}$>$, $<${\it demo, show}$>$ and  $<${\it loam, loam: soil rich in decaying matter}$>$.  Non-meaning equivalents included: $<${\it assorted, minutes}$>$, and $<${\it major,} URL of image$>$.  Related items were things like $<${\it sky, clouds}$>$. Misspellings like $<${\it lactation, lactiation} $>$ were judged to have same meaning, and were marked as misspelled.   3 separate Turkers judged each pair, allowing majority votes in the cases of difficult cases. 
 
-We checked Turkers who were working on this task by embedding pairs which were either known to be synonyms or were known to be unrelated. 
-We drew known synonyms from WordNet, and non-synonyms by pairing random words from a corpus of English (including them after they were determined to be unrelated according to WordNet).
-Automating the evaluation in this way allowed the whole pipeline to be run automatically. 
 
-We cached the judgments collected in the evaluation HIT, and did not present pairs that were identical.  We ultimately needed only 
-20,955 synonym tasks to judge all of the submitted translations.  These
-were completed by an additional 1,006 workers.  Each of these assignments included 10 word pairs, paid \$0.10, and was completed by 3 separate Turkers to allow majority votes in the cases of difficult judgments. 
-%We describe the evaluation process further in the Measuring Quality section of this paper
+We checked Turkers who were working on this task by embedding pairs word which were either known to be synonyms (drawn from WordNet) or were known to be unrelated (randomly chosen from a corpus). 
+%We drew known synonyms from WordNet, and non-synonyms by pairing random words from a corpus of English (including them after they were determined to be unrelated according to WordNet).
+Automating the evaluation in this way allowed the whole pipeline to be run automatically.  Caching judgments meant that we ultimately needed only 
+20,955 synonym tasks to judge all of the submitted translations (a total of 55,880 unique word pairs).  These were completed by an additional 1,006 workers.  Each of these assignments included 10 word pairs and paid \$0.10.
+
+
+\section{Data Analysis}
+
+We performed an analysis of our data to address the following questions:
+\begin{itemize}
+\item How quickly is work completed in each language? 
+\item What is the quality of crowdsourced translations? 
+\item Do workers accurately represent their language abilities? 
+\end{itemize}
+
 
 %%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
 \begin{figure}[h]
@@ -309,6 +317,8 @@ were completed by an additional 1,006 workers.  Each of these assignments includ
 \label{ass-scatter}
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 
 Figure \ref{ass-scatter} shows the volume of HITs completed and the number of workers participating for each language. While the bulk (22\%) of bilingual Turkers report English as their native language (see figure \ref{lang-pie}), Mechanical Turk's capacity to support the Indian languages is apparent. Hindi, Tamil, and Malayalam are especially well represented in terms of number of active translators, and Urdu, Telugu, and Macedonian are particularly productive in terms of number of assignments completed. As shown in figure \ref{langgeo-bar}, 11 of the top 25 languages, in terms of number of assignments submitted, were Indian languages, and the assignments for 15 of the top 25 were completed mostly or entirely by Turkers located in India. 
 
