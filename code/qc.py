@@ -1,17 +1,13 @@
 import sys
 import csv
 import math
-import numpy
-import scipy
 import operator
 import itertools
-from scipy import stats
-from scipy.stats import norm
-import matplotlib.pyplot as plt
 
 RAW_DIR = '../data/dictionary-data-dump-2012-11-13_15:11/'
 OUTPUT_DIR = 'output'
 
+#map of assignment ID to turker ID
 def turker_map():
         tmap = dict()
         for line in open('%s/byassign.workerids.voc'%OUTPUT_DIR).readlines()[1:]:
@@ -19,9 +15,10 @@ def turker_map():
                 tmap[assign.strip()] = worker.strip()
         return tmap
 
+#map of assignment ID to quality score of that assignment, or N/A 
 def qual_map():
         qual_data = {}
-        for line in csv.DictReader(open('%s/byassign.voc.quality'%OUTPUT_DIR), delimiter='\t'):
+        for line in csv.DictReader(open('%s/byassign.voc.quality.related'%OUTPUT_DIR), delimiter='\t'):
                 assign = line['id']
                 qual = line['avg']
                 if(assign not in qual_data):
@@ -36,7 +33,7 @@ def word_map():
 	words = dict()
         for line in csv.DictReader(open('%s/dictionary'%RAW_DIR)):
 		wid = line['id']
-		word = line['translation']
+		word = line['translation'].strip().lower()
 		if wid not in words:
 			words[wid] = word
 	return words
@@ -46,8 +43,8 @@ def pair_map():
 	pairs = dict()
         for line in csv.DictReader(open('%s/syn_hits_data'%RAW_DIR)):
 		pid = line['id']
-		word = line['translation']
-		syn = line['synonym']
+		word = line['translation'].strip().lower()
+		syn = line['synonym'].strip().lower()
 		if pid not in pairs:
 			pairs[pid] = (word,syn)
 	return pairs
@@ -63,19 +60,24 @@ def get_syn_lists():
 	return (syns, nonsyns)
 
 #get a dictionary of word: list of acceptable synonyms. filter list of assignment ids used to restrict list of synonyms to come only from certain assignments
-def read_all_syns(filter_list=None):
+def read_all_syns(filter_list=None, use_related=False):
 	words = word_map()
 	pairs = pair_map()
 	syns = dict()
         for line in csv.DictReader(open('%s/syn_hits_results'%RAW_DIR)):
 		if(not(filter_list == None) and (line['assignment_id'] not in filter_list)):
 			continue
-		if(line['are_synonyms'] == 'yes'):
+		if(use_related):
+			use = (line['are_synonyms'] == 'yes') or (line['are_synonyms'] == 'related')
+		else:
+			use = (line['are_synonyms'] == 'yes')
+		if(use):
 			pair = pairs[line['pair_id']]
-			syn = pair[1]
+			syn = pair[1].strip().lower()
 			if syn not in syns:
 				syns[syn] = set()
-			syns[syn].add(pair[0])
+				syns[syn].add(syn)
+			syns[syn].add(pair[0].strip().lower())
 	return syns
 
 #returns list of syn HIT assignments which passed their controls
@@ -92,6 +94,15 @@ def get_syns_quality_by_assign(path):
 				quals.append(aid) 
 	return quals 
 
+def write_syn_dict(syns, fname):
+	outfile = open(fname, 'w')
+	for w in syns:
+		outfile.write('%s\t'%w)
+		for s in syns[w]:
+			outfile.write('%s\t'%s)
+		outfile.write('\n')
+	outfile.close()
+
 #returns a dictionary of {assignment : # of controls attempted, # of controls correct, average performance on controls}
 def get_quality_by_assign(path):
 	good = get_syns_quality_by_assign('%s/syn_hits_results'%RAW_DIR)
@@ -105,13 +116,17 @@ def get_quality_by_assign(path):
                 if(assign not in data):
                         data[assign] = {'total': 'N/A', 'syns': 'N/A'} 
 		if word_id in words:
-			word = words[word_id]
+			word = words[word_id].strip().lower()
 			if word in syns:
                         	if data[assign]['total'] == 'N/A':
                         		data[assign] = {'total': 0, 'syns': 0} 
 				if translation in syns[word]:
 					data[assign]['syns'] += 1
 				data[assign]['total'] += 1
+			else:
+				print 'Could not find', word, 'in synonym dictionary. Skipping.'
+		else:
+			print 'Could not find', word_id, 'in word dictionary. Skipping'
 	ret = dict()
 	for a in data:
 		if data[a]['total'] == 0:
@@ -153,10 +168,10 @@ def quality_by_turker(fname):
 	out.close()
 
 if __name__ == '__main__':
-	if sys.argv[1] == 'assign': 
+	if sys.argv[1] == 'assignments': 
 		write_avg_quals(get_quality_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.voc.quality'%OUTPUT_DIR)
 	if sys.argv[1] == 'turker':
-		quality_by_turker('%s/byturker.voc.quality'%OUTPUT_DIR)
+		quality_by_turker('%s/byturker.voc.quality.related'%OUTPUT_DIR)
 
 
 

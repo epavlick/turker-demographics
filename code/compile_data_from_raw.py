@@ -72,6 +72,8 @@ def assign_workers(path, langs, idlist=None):
         numlangmap, langmap = lang_map()
         data = {}
         for line in csv.DictReader(open(path)):
+		if line['mturk_status'] == 'Rejected':
+			continue
                 worker = line['worker_id']
                 assign = line['id']
 		if( (not(idlist==None)) and (assign not in idlist) ):
@@ -80,12 +82,14 @@ def assign_workers(path, langs, idlist=None):
 		data[assign]['worker'] = worker
 	return data
 		
-def assign_langs(path, langs, idlist=None):
+def assign_langs(path, langs, idlist=None, skip_rejected=False):
 	countrymap = country_map()
         codemap = code_map()
         numlangmap, langmap = lang_map()
         survey_data = {}
         for line in csv.DictReader(open(path)):
+		if skip_rejected and line['mturk_status'] == 'Rejected':
+			continue
                 worker = line['worker_id']
                 assign = line['id']
 		if( (not(idlist==None)) and (assign not in idlist) ):
@@ -113,11 +117,6 @@ def assign_langs(path, langs, idlist=None):
 		if('survey_is_native_foreign_speaker' in data): 
 			if(data['survey_is_native_foreign_speaker']=='yes'): 
 				survey_data[assign]['lang'] = numlangmap[langs[hit]] 
-
-		## ** assignments that don't trigger one of the above ifs end up as N/A in the final output. there are 1801 of these. ** #
-		## ** i checked a few, and they are mostly because the question 'is xx your native language' doesn't appear in the ** #
-		## ** data, not because they answer no to both questions. ** #
-
 		if(survey_data[assign]['lang'] == None):
 			survey_data[assign]['lang'] = 'N/A'
 		if('survey_years_speaking_english' in data): 
