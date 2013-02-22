@@ -55,16 +55,14 @@ In this paper, we investigate the feasibility of hiring language informants on M
 %Access to a fast, cheap, and flexible workforce has changed the way we collect data, and holds promise for enabling future language technologies. Crowdsourced work has proven effective for collecting massive amounts of simple data annotations, such as annotating data for face recognition software and labeling sentiment in twitter data. As the demands and expectations of automated systems progress, and the complexity of the data required for training increases, however, it becomes natural to ask about the strengths and limitations of the crowd as annotators for natural language data.
 %We evaluate the language skills of bilingual workers on Amazon's Mechanical Turk, and their ability to provide translated data for statistical machine translation. Collecting parallel translated texts has traditionally been assumed to require a higher level of expertise than what is available from non-professional crowd workers. However, with an increasing number of active crowd workers located outside of the United States, the potential to access fluent speakers of lower resource languages makes crowdsourcing an attractive resource for translation.
 
-There are several complicating factors when trying to take a census of workers on MTurk.  The workers identities are anonymized, and Amazon provides no information about their countries of origin nor their language abilities.  Posting a simple survey to have workers self-report this information may be inadequate, since (a) many worker may never see the survey, (b) many opt not to do one-off surveys since potential payment is low, and (c) validating the answers of respondents is not straightforward. 
+There are several complicating factors when trying to take a census of workers on MTurk.  The workers' identities are anonymized, and Amazon provides no information about their countries of origin or their language abilities.  Posting a simple survey to have workers self-report this information may be inadequate, since (a) many worker may never see the survey, (b) many opt not to do one-off surveys since potential payment is low, and (c) validating the answers of respondents is not straightforward. 
 
-Our study establishes a methodology for determining the language demographics of anonymous crowd workers that is more robust than simple surveying. We ask workers what languages they speak and in what country they reside, and validate their claims by measuring their ability to correctly translate words and by geolocating them.  To increase the visibility and the desirability of our tasks, we post 1,000 assignments in each of 119 languages.  These tasks each consist of translating 10 foreign words into English.  Two of the 10 words have known translations, allowing us to validate the the workers' translations are accurate, while constructing bilingual dictionaries with up to 10,000 entries, with the majority of entries being new. 
+Our study establishes a methodology for determining the language demographics of anonymous crowd workers that is more robust than simple surveying. We ask workers what languages they speak and what country they live in, and validate their claims by measuring their ability to correctly translate words and by geolocating them.  To increase the visibility and the desirability of our tasks, we post 1,000 assignments in each of 119 languages.  These tasks each consist of translating 10 foreign words into English.  Two of the 10 words have known translations, allowing us to validate the the workers' translations are accurate.  We construct bilingual dictionaries with up to 10,000 entries, with the majority of entries being new. 
 
 Surveying thousands of workers allows us to analyze current speaker populations for more than 100 languages.  The data also allows us to answer questions like: 
 How quickly is work completed in a given language? 
 Are crowdsourced translations reliably good? 
-How often do workers misrepresented their language abilities to 
-%falsely
-obtain financial rewards? 
+How often do workers misrepresent their language abilities to obtain financial rewards? 
 
 
 %%%%%%%%%%%%%%% MAP OF WORKER LOCATIONS %%%%%%%%%%%
@@ -79,11 +77,11 @@ obtain financial rewards?
 
 
 \section{Background and Related Work}
-Amazon's Mechanical Turk (MTurk) is an online marketplace for work that gives employers and researchers access to a large, low-cost, workforce. MTurk provides a simple interface for accessing human skills, allowing employers to provide micro-payments in return for workers completing micro-tasks.  The basic units of work on MTurk are called ``Human Intelligence Tasks'' (HITs),which hints at its origins.  MTurk was designed to accommodate tasks that are difficult for computers, but simple for people. This facilitates research into human computation, where people can be treated as a function call \cite{vonAhnThesis,Little2009,quinn-bederson:2011}.  It has application to research areas like human-computer interaction \cite{bigham-et-al:2010,bernstein-et-al:2010}, computer vision  \cite{sorkin-forsyth:2008,deng-et-al:2010,rashtchian:10}, speech processing \cite{marge:10,lane-EtAl:2010:MTURK,Parent-Eskenazi:2011,Eskenazi:2013:crowdsourcing-speech-book},  and natural language processing \cite{Snow2008,callisonburch-dredze:2010:MTURK,laws-scheible-schutze:2011:EMNLP}. 
+Amazon's Mechanical Turk (MTurk) is an online marketplace for work that gives employers and researchers access to a large, low-cost, workforce. MTurk allows employers to provide micro-payments in return for workers completing micro-tasks.  The basic units of work on MTurk are called ``Human Intelligence Tasks'' (HITs).  MTurk was designed to accommodate tasks that are difficult for computers, but simple for people. This facilitates research into human computation, where people can be treated as a function call \cite{vonAhnThesis,Little2009,quinn-bederson:2011}.  It has application to research areas like human-computer interaction \cite{bigham-et-al:2010,bernstein-et-al:2010}, computer vision  \cite{sorkin-forsyth:2008,deng-et-al:2010,rashtchian:10}, speech processing \cite{marge:10,lane-EtAl:2010:MTURK,Parent-Eskenazi:2011,Eskenazi:2013:crowdsourcing-speech-book},  and natural language processing \cite{Snow2008,callisonburch-dredze:2010:MTURK,laws-scheible-schutze:2011:EMNLP}. 
 
 \nocite{novotney-callisonburch:2010:NAACLHLT}
 
-On MTurk, researchers who need work completed are called `Requesters', workers are often referred to as `Turkers', and micro-tasks are called `HITs'.  MTurk is a true market, meaning that Turkers are free to choose to complete the HITs which interest them, and Requesters can price their tasks competitively to try to attract workers and have their tasks done quickly \cite{faridani-et-al:2011,singer-mittal:2011}. Turkers' identities remain anonymous to Requesters, and all payment occurs through Amazon. Requesters are able to accept submitted work or reject work that they does not meet their standards.  Turkers are only paid if a Requester accepts their work. 
+On MTurk, researchers who need work completed are called `Requesters', and workers are often referred to as `Turkers'.  MTurk is a true market, meaning that Turkers are free to choose to complete the HITs which interest them, and Requesters can price their tasks competitively to try to attract workers and have their tasks done quickly \cite{faridani-et-al:2011,singer-mittal:2011}. Turkers remain anonymous to Requesters, and all payment occurs through Amazon. Requesters are able to accept submitted work or reject work that they does not meet their standards.  Turkers are only paid if a Requester accepts their work. 
 
 Several reports examine Mechanical Turk as an economic market \cite{ipeirotis:2010:marketplace,lehdonvirta-ernkvist:2011}.  When Amazon introduced MTurk, it first offered payment only in Amazon credits, and later offered direct payment in US dollars. More recently, it has expanded to include one foreign currency, the Indian rupee. Despite its payments being limited to two currencies or Amazon credits, MTurk claims over half a million workers from 190 countries \cite{AmazonRequesterTour}.  This suggests that its worker population should represent a diverse set of languages.
 
@@ -171,13 +169,13 @@ The central task in this study was to study Mechanical Turk's bilingual populati
 
 At the start of each HIT, Turkers were asked to complete a brief survey about their language abilities. The survey asked the following questions:
 \begin{itemize}
-\item Is [HIT language] your native language? 
+\item Is [language] your native language? 
 \item How many years have you spoken [language]? 
 \item Is English your native language? 
 \item How many years have you spoken English?
 \item What country do you live in?
 \end{itemize}
-We automatically collected each worker's current location by geolocating their IP address.  A total of 5,281 unique workers completed our HITs.  Among those, 3,890 provided valid responses to our survey questions, and we were able to geolocate 5,054.  Figure \ref{map} plots the location of workers across 111 countries.  Table \ref{lang-pie} gives the most common self-reported native languages. 
+We automatically collected each worker's current location by geolocating their IP address.  A total of 5,281 unique workers completed our HITs.  Among those, 3,890 provided responses to our survey questions, and we were able to geolocate 5,054.  Figure \ref{map} plots the location of workers across 111 countries.  Table \ref{lang-pie} gives the most common self-reported native languages. 
 
 % were not required in order to complete the HIT; survey questions and the number of valid responses received for each are listed in table \ref{survey-tab}. Although it was not required, Turkers who completed multiple HIT assignments could fill out the survey multiple times. This enabled some Turkers to report multiple native languages (see figure \ref{numlangs-tab}). While most results presented are calculated across all Turkers, figures given for distributions across native languages are calculated only from Turkers who reported a single native language.\\
 
@@ -213,7 +211,7 @@ We omit 1,801 Turkers did not report their native language, 243 who reported 2 n
 
 \paragraph{Selection of languages}
 
-We drew our data from the different language versions of Wikipedia.  We selected all of the  in terms of the number of available articles.  We selected the 100 languages with the largest number of articles\footnote{\url{http://meta.wikimedia.org/wiki/List_of_Wikipedias}}, and then selected an additional 19 languages low resource languages with $<$10,000 articles, giving a total of 119 languages (Table \ref{wikipedia-buckets}). For each language, we chose the 1,000 most viewed articles,\footnote{\url{http://dumps.wikimedia.org/other/pagecounts-raw/}} and used these to extract the 10,000 most frequent words. The resulting vocabularies served as the input to our translation HIT.
+We drew our data from the different language versions of Wikipedia.   We selected the 100 languages with the largest number of articles\footnote{\url{http://meta.wikimedia.org/wiki/List_of_Wikipedias}}, and then selected an additional 19 languages low resource languages with $<$10,000 articles, giving a total of 119 languages (Table \ref{wikipedia-buckets}). For each language, we chose the 1,000 most viewed articles,\footnote{\url{http://dumps.wikimedia.org/other/pagecounts-raw/}} and used these to extract the 10,000 most frequent words. The resulting vocabularies served as the input to our translation HIT.
 
 \begin{table}[h]
 \scriptsize 
@@ -257,7 +255,7 @@ We counted all translations that exactly matched the gold standard translation a
 For the evaluation task, Turkers were shown a pair of English words, one which was a Turker's translation of the foreign word used for quality control, and the other was the gold-standard translation the foreign word. Evaluators were asked whether the two words had the same meaning, and chose between three answers: `Yes', `No', or `Related but not synonymous.'  Examples of meaning equivalent pairs include: $<${\it petroglyphs, rock paintings}$>$, $<${\it demo, show}$>$ and  $<${\it loam, loam: soil rich in decaying matter}$>$.  Non-meaning equivalents included: $<${\it assorted, minutes}$>$, and $<${\it major,} URL of image$>$.  Related items were things like $<${\it sky, clouds}$>$. Misspellings like $<${\it lactation, lactiation} $>$ were judged to have same meaning, and were marked as misspelled.   3 separate Turkers judged each pair, allowing majority votes in the cases of difficult cases. 
 
 
-We checked Turkers who were working on this task by embedding pairs word which were either known to be synonyms (drawn from WordNet) or were known to be unrelated (randomly chosen from a corpus). 
+We checked Turkers who were working on this task by embedding pairs word which were either known to be synonyms (drawn from WordNet \cite{miller1995wordnet}) or were known to be unrelated (randomly chosen from a corpus). 
 %We drew known synonyms from WordNet, and non-synonyms by pairing random words from a corpus of English (including them after they were determined to be unrelated according to WordNet).
 Automating the evaluation in this way allowed the whole pipeline to be run automatically.  Caching judgments meant that we ultimately needed only 
 20,955 synonym tasks to judge all of the submitted translations (a total of 55,880 unique word pairs).  These were completed by an additional 1,006 workers.  Each of these assignments included 10 word pairs and paid \$0.10.
@@ -267,10 +265,20 @@ Automating the evaluation in this way allowed the whole pipeline to be run autom
 
 We performed an analysis of our data to address the following questions:
 \begin{itemize}
-\item How quickly is work completed in each language? 
-\item What is the quality of crowdsourced translations? 
-\item Do workers accurately represent their language abilities? 
+\item How quickly can we expect work to be completed in a particular language? 
+\item What is the quality of crowdsourced translations without quality control versus with it? 
+\item Do workers accurately represent their language abilities?  Should we constrain tasks by region? 
 \end{itemize}
+
+Other questions:
+\begin{itemize}
+\item Are Turkers cheating by using Google translate?  Is there a difference in their use of MT systems for Latin alphabet languages v. languages with scripts that are more difficult to type?
+\item Are there flaws in our gold standard translations?  Are they too easy because they've already been indexed by Google?  Are they too hard for some languages because they are obscure scientific terms?
+\item Can we select good gold standard translations for future studies?  Which translations are we confident in?
+\item How well do the Turker translations match external bilingual dictionaries?  If we ranked Turkers by how well they performed on our controls, would those rankings stay stable if we ranked them based on their performance on external dictionaries? 
+\item How well do Turkers agree with each other on non-control items?  Should we run a synonym HIT on all of the non-identical translations?  Would that help us understand which translations were good and which weren't?  
+\end{itemize}
+
 
 
 %%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
