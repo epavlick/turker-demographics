@@ -13,8 +13,9 @@ from scipy.stats import norm
 import matplotlib.pyplot as plt
 from matplotlib import font_manager as fm
 
-RAW_DIR = '../data/dictionary-data-dump-2012-11-13_15:11'
+QC = ''
 OUTPUT_DIR = 'output'
+RAW_DIR = '../data/dictionary-data-dump-2012-11-13_15:11'
 
 def select_by(data, col, value):
         dicts = dict()
@@ -105,7 +106,7 @@ def avg_score(assign_list, scores):
 def conf_int_by_attr(attr):
 	ret = dict()
 	data = read_table_file('%s/byassign.voc.accepted'%OUTPUT_DIR)
-	scores = all_avg_scores('%s/byassign.voc.quality.related'%OUTPUT_DIR)
+	scores = all_avg_scores('%s/byassign.voc.quality%s'%(OUTPUT_DIR,QC,))
 	langs = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, attr)
 	avg = list()
 	for l in langs:
@@ -127,7 +128,7 @@ def hitlang_qual(cut=3000):
 		if lang not in assigns_by_lang:
 			assigns_by_lang[lang] = list()
 		assigns_by_lang[lang].append(line['id'])
-	for line in csv.DictReader(open('%s/byassign.voc.quality.related'%OUTPUT_DIR), delimiter='\t'):
+	for line in csv.DictReader(open('%s/byassign.voc.quality%s'%(OUTPUT_DIR,QC,)), delimiter='\t'):
 		aid = line['id']
 		q = line['avg']
 		qual_by_assign[aid] = q
@@ -149,7 +150,7 @@ def hitlang_qual(cut=3000):
 def two_way_split(attr1, attr2):
 	ret = dict()
 	data = read_table_file('%s/byassign.voc.accepted'%OUTPUT_DIR)
-	scores = all_avg_scores('%s/byassign.voc.quality.related'%OUTPUT_DIR)
+	scores = all_avg_scores('%s/byassign.voc.quality%s'%(OUTPUT_DIR,QC,))
 	first = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, attr1)
 	second = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, attr2)
 	for k in first:
@@ -282,10 +283,10 @@ def reverse_cntry_map(path):
                         lang_data[code] = country
         return lang_data
 
-def quality_scatter(attr, title='Title', points_to_label=None):
+def quality_scatter(title='Title'):
 	points_to_label = ['VN', 'RO', 'NG', 'AM', 'DZ','RU', 'UK', 'ET', 'PK', 'IN','US','MY','MK','ES', 'ID', '100 turkers']
 	attr = 'country'
-	cmap = reverse_cntry_map('data-files/cleancountrycodemap')
+	cmap = reverse_cntry_map('ref/countrycodemap')
 	cmap['100 turkers'] = '100 turkers'
 	ci = conf_int_by_attr(attr)
 	turker_counts = count_turkers(attr)

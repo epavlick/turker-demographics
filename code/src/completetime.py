@@ -1,4 +1,5 @@
 import re
+import sys
 import csv
 import math
 import json
@@ -12,15 +13,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import compile_data_from_raw as dat
 
-HIT_PATH = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11/hits'
-LANG_PATH = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11/languages'
-RAW_ASSIGN = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11/assignments'
-TIME_PATH = '/home/steven/Documents/Ellie/Research/demographics/code/data-files/turker-tuples/assign-times'
-#ASSIGN_PATH = '/home/steven/Documents/Ellie/Research/demographics/code/data-files/turker-tuples/byassign.voc'
-ASSIGN_PATH = 'output/byassign.voc'
-
-lang_order = ['ur', 'mk', 'te', 'ml', 'es', 'ro', 'tl', 'pl', 'mr', 'pt', 'hi', 'new', 'nl', 'ru', 'kn', 'ta', 'fr', 'ast', 'ar', 'ne', 'sr', 'vi', 'uk', 'gu', 'sh', 'jv', 'id', 'pam', 'it', 'no', 'pa', 'ms', 'hu', 'ceb', 'nn', 'be', 'ja', 'scn', 'bn', 'fi', 'de', 'bpy', 'lb', 'sw', 'el', 'sv', 'hr', 'ca', 'lt', 'war', 'bg', 'tr', 'gl', 'bcl', 'he', 'bs', 'eu', 'is', 'ga', 'da', 'sq', 'zh', 'ilo', 'eo', 'th', 'cs', 'af', 'sk', 'uz', 'ht', 'nap', 'sl', 'lv', 'ko', 'az', 'ka', 'sd', 'hy', 'so', 'su', 'wo', 'ps', 'fa', 'am', 'fy', 'br', 'cy', 'mg', 'bo', 'yo', 'io', 'pms', 'ku', 'nds', 'diq', 'wa']
-
+OUTPUT_DIR = 'output'
+RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11/'
 
 def get_language_dicts(path, filter_list=None):
 	all_dicts = dict()
@@ -43,24 +37,16 @@ def get_language_dicts(path, filter_list=None):
 
 def time_map():
 	tdict = dict()
-	for line in open(TIME_PATH).readlines():
+	for line in open('%s/byassign.times'%OUTPUT_DIR).readlines():
 		aid, start, end = line.split('\t')
 		start_t = datetime.datetime.strptime(start.strip(), "%Y-%m-%d %H:%M:%S")
 		end_t = datetime.datetime.strptime(end.strip(), "%Y-%m-%d %H:%M:%S")
 		tdict[aid] = (start_t, end_t)
 	return tdict
 
-def read_times():
-	for line in open(TIME_PATH).readlines()[:5]:
-		aid, start, end = line.split('\t')
-		print start, end
-		start_t = datetime.datetime.strptime(start.strip(), "%Y-%m-%d %H:%M:%S")
-		end_t = datetime.datetime.strptime(end.strip(), "%Y-%m-%d %H:%M:%S")
-		print min(end_t,start_t)
-
 def write_all_times():
-        out = open('assign-times', 'w')
-        for line in csv.DictReader(open(RAW_ASSIGN)):
+        out = open('%s/byassign.times'%OUTPUT_DIR, 'w')
+        for line in csv.DictReader(open('%s/assignments'%RAW_DIR)):
                 aid = line['id']
                 start = line['accept_time']
                 end = line['submit_time']
@@ -72,46 +58,79 @@ def get_total_time(data):
 		print '%s\t%s'%(lang[0], str(lang[1][1] - lang[1][0]))
 
 def format_for_graph(data):
-	#ret = dict()
 	ret = list()
 	mindate = None
-	for l in lang_order:
+	for l in data: 
 		lang = data[l]	
 		begin = lang[0]
 		if(mindate == None or begin < mindate):
 			mindate = begin
-	for l in lang_order:
+	for l in data:
 		lang = data[l]	
-		complete = str(lang[1] - lang[0]).split()[0]
-		start = str(lang[0] - mindate).split()[0]
-		try:
-			i = int(start)
-		except ValueError:
-			start = 0
-#		ret[l] = (str(lang[1] - lang[0]).split()[0], str(lang[0] - mindate).split()[0])
-		#ret[l] = (int(complete), int(start))
-		ret.append((l,int(complete), int(start), int(complete)+int(start)))
+		complete = lang[1] - lang[0]
+		start = lang[0] - mindate
+		ret.append((l,complete, start, start+complete))
 	return sorted(ret, key=operator.itemgetter(3)) 
 
-def time_graph(data):
+def time_bar(data):
 	num = len(data)
-        ind = np.arange(num) #len(data.keys()))     # the x locations for the groups
-        width = 0.8       # the width of the bars: can also be len(x) sequence
+        ind = np.arange(num) 
+        width = 0.8       
         lbls = [t[0] for t in data][:num]
-	time_to_start = [t[2] for t in data][:num]
-	time_to_complete = [t[1] for t in data][:num]
-        plt.bar(ind, time_to_start, width, color='r') #, color=colors[i%len(colors)], bottom=cumsum)
+	time_to_start = [t[2].days for t in data][:num]
+	time_to_complete = [t[1].days for t in data][:num]
+        plt.bar(ind, time_to_start, width, color='r') 
         plt.bar(ind, time_to_complete, width, bottom=time_to_start)
         plt.yticks(fontsize='16')
         plt.xticks(ind+width/2, tuple(lbls) ,rotation='vertical', fontsize='16')
 	plt.title('Time to complete all HITs')
-	print time_to_start
-	print time_to_complete
         plt.show()
 
+def format_for_time_series(data):
+	hitmap = dictionaries.hit_map()
+	langids, langcodes = dat.lang_map()
+        hitlangs = dat.hits_language()
+	all_times = dict()
+	for aid, complete, start, total in data:	
+		lang = langids[hitlangs[hitmap[aid]]]
+		if lang not in all_times:
+			all_times[lang] = list()
+		all_times[lang].append(total)
+	all_times.pop('en')
+	return all_times
+
+def time_series(data, num=40):
+	SEC_PER_DAY = 86400
+	x = list()
+	y = list()
+	names = list()
+	sort_order = [t[0] for t in sorted(data.iteritems(), key=lambda t : max(t[1]))]
+	for i,lang in enumerate(sort_order[:num]):
+		names.append(lang)
+		x += [t.total_seconds() for t in data[lang]]
+		y += [5+(i*5)]*len(data[lang])
+	plt.scatter(x,y,marker='|')
+	plt.xlim([0,max(x)+5])
+	plt.ylim([0,max(y)+5])
+        plt.yticks(sorted(list(set(y))), tuple(names))
+	xmax = int(math.ceil(max(x)))
+	max_days = int(math.ceil(max(x)/SEC_PER_DAY))
+        plt.xticks(range(0,xmax,5*SEC_PER_DAY), range(0,max_days,5))
+        plt.xlabel('Time in days')
+	plt.show()
+
 if __name__ == '__main__':
-#	write_all_times()
-#	read_times()
-	time_graph(format_for_graph(get_language_dicts(ASSIGN_PATH)))
+	if(len(sys.argv) < 2 or sys.argv[1] == 'help'):
+                print '---USAGE---'
+                print './completetime.py extract: extract start and complete times by assignment and write to OUTPUT_DIR/byassign.times'
+                exit(0)
+
+        do = sys.argv[1]
+        if(do == 'extract'):
+		write_all_times()
+        if(do == 'bar'):
+		time_bar(format_for_graph(get_language_dicts('%s/byassign.voc.accepted'%OUTPUT_DIR)))
+        if(do == 'series'):
+		time_series(format_for_time_series(format_for_graph(time_map())))
 
 
