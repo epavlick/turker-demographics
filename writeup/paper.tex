@@ -88,7 +88,7 @@ Several reports examine Mechanical Turk as an economic market \cite{ipeirotis:20
 A demographic study by \newcite{ipeirotis:2010:demographics} focused on age, gender, martial status, income levels, motivation for working on MTurk, and whether workers used it as a primary or supplemental form of income.  The study contrasted Indian and US workers. \newcite{Ross2010} completed a longitudinal follow-on study. 
 A number of other studies have informally investigated Turkers' language abilities.  \newcite{munro-tily:2011} compiled survey responses of 2,000 Turkers, revealing that four of the six most represented languages come from India (the top six being Hindi, Malayalam, Tamil, Spanish, French, and Telugu).  \newcite{irvine:10} had Turkers evaluate the accuracy of translations that had been automatically inducted from monolingual texts.  They examined translations of 100 words in 42 low-resource languages, reported geolocated countries for their workers (India, the US, Romania, Pakistan, Macedonia, Latvia, Bangladesh and the Philippines).  Irvine and Klementiev discussed the difficulty of quality control and assessing the plausibility of workers' language skills for rare languages, which we address in this paper. 
 
-Several researchers have investigated using MTurk to build parallel corpora for machine translation, a task which stands to benefit low cost, high volume  translation on demand \cite{Germann2001}.  \newcite{ambati_act} conducted a pilot study by posting 25 sentences to MTurk for Spanish, Chinese Hindi, Telugu, Urdu, and Haitian Creole.  In a study of 2000 Urdu sentences, 
+Several researchers have investigated using MTurk to build parallel corpora for machine translation, a task which stands to benefit low cost, high volume  translation on demand \cite{Germann2001}.  \newcite{ambati_act} conducted a pilot study by posting 25 sentences to MTurk for Spanish, Chinese, Hindi, Telugu, Urdu, and Haitian Creole.  In a study of 2000 Urdu sentences, 
 \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} presented methods for achieving professional-level translation quality from Turkers by soliciting multiple English translations of each foreign sentence. 
 \newcite{Zbib-etal:2012:NAACL} used crowdsourcing to construct a 1.5 million word parallel corpus of dialect Arabic and English, training a statistical machine translation system that produced higher quality translations of dialect Arabic than a system a trained on 100 times more Modern Standard Arabic-English parallel data.  \newcite{post-callisonburch-osborne:2012:WMT} used MTurk to build parallel corpora between English and six Indian languages, ranging from .5M to 1.5M words, and use them to demonstrate the efficacy of syntactic machine translation on verb-final languages.  
 Several researchers have examined cost optimization using active learning techniques to select the most useful sentences or fragments to translate \cite{ambati_naacl,bloodgood-callisonburch:2010:ACL,AmbatiThesis}.
@@ -211,7 +211,7 @@ We omit 1,801 Turkers did not report their native language, 243 who reported 2 n
 
 \paragraph{Selection of languages}
 
-We drew our data from the different language versions of Wikipedia.   We selected the 100 languages with the largest number of articles\footnote{\url{http://meta.wikimedia.org/wiki/List_of_Wikipedias}}, and then selected an additional 19 languages low resource languages with $<$10,000 articles, giving a total of 119 languages (Table \ref{wikipedia-buckets}). For each language, we chose the 1,000 most viewed articles,\footnote{\url{http://dumps.wikimedia.org/other/pagecounts-raw/}} and used these to extract the 10,000 most frequent words. The resulting vocabularies served as the input to our translation HIT.
+We drew our data from the different language versions of Wikipedia.   We selected the 100 languages with the largest number of articles,\footnote{\url{http://meta.wikimedia.org/wiki/List_of_Wikipedias}} and then selected an additional 19 languages low resource languages with $<$10,000 articles, giving a total of 119 languages (Table \ref{wikipedia-buckets}). For each language, we chose the 1,000 most viewed articles,\footnote{\url{http://dumps.wikimedia.org/other/pagecounts-raw/}} and used these to extract the 10,000 most frequent words. The resulting vocabularies served as the input to our translation HIT.
 
 \begin{table}[h]
 \scriptsize 
@@ -252,7 +252,7 @@ A set of gold standard translations were automatically harvested from Wikipedia 
 
 \paragraph{Manual evaluation of non-identical translations}
 We counted all translations that exactly matched the gold standard translation as correct.  For non-exact matches we created a second-pass quality assurance HIT.  
-For the evaluation task, Turkers were shown a pair of English words, one which was a Turker's translation of the foreign word used for quality control, and the other was the gold-standard translation the foreign word. Evaluators were asked whether the two words had the same meaning, and chose between three answers: `Yes', `No', or `Related but not synonymous.'  Examples of meaning equivalent pairs include: $<${\it petroglyphs, rock paintings}$>$, $<${\it demo, show}$>$ and  $<${\it loam, loam: soil rich in decaying matter}$>$.  Non-meaning equivalents included: $<${\it assorted, minutes}$>$, and $<${\it major,} URL of image$>$.  Related items were things like $<${\it sky, clouds}$>$. Misspellings like $<${\it lactation, lactiation} $>$ were judged to have same meaning, and were marked as misspelled.   3 separate Turkers judged each pair, allowing majority votes in the cases of difficult cases. 
+For the evaluation task, Turkers were shown a pair of English words, one which was a Turker's translation of the foreign word used for quality control, and the other was the gold-standard translation the foreign word. Evaluators were asked whether the two words had the same meaning, and chose between three answers: `Yes', `No', or `Related but not synonymous.'  Examples of meaning equivalent pairs include: $<${\it petroglyphs, rock paintings}$>$, $<${\it demo, show}$>$ and  $<${\it loam, loam: soil rich in decaying matter}$>$.  Non-meaning equivalents included: $<${\it assorted, minutes}$>$, and $<${\it major,} URL of image$>$.  Related items were things like $<${\it sky, clouds}$>$. Misspellings like $<${\it lactation, lactiation} $>$ were judged to have same meaning, and were marked as misspelled.   3 separate Turkers judged each pair, allowing majority votes for difficult cases. 
 
 
 We checked Turkers who were working on this task by embedding pairs word which were either known to be synonyms (drawn from WordNet \cite{miller1995wordnet}) or were known to be unrelated (randomly chosen from a corpus). 
@@ -284,12 +284,11 @@ Other questions:
 %%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
 \begin{figure}[h]
 \centering
-%\includegraphics[height=\linewidth,angle=270]{figures/completiontime}
-\includegraphics[width=\linewidth]{figures/completiontime.pdf}
+\includegraphics[height=\linewidth,angle=270]{figures/completiontime}
 \caption{Time (in days) to complete all HITs in each language. Red bars show time until first HIT was started,
 % relative to the time the first HIT in each language was started, relative to the time the first HIT in any language was started (first HIT started across all languages was Urdu). 
  blue bars show time until all HITs in each language were completed.}
-\label{completion-time-series}
+\label{completion-time}
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -369,8 +368,8 @@ In order to address the quality of the translations we received on the dictionar
 %%%%%%%%%%%%%%% HITLANG QUALITY BAR %%%%%%%%%%%
 \begin{figure*}[h]
 \centering
-\includegraphics[width=6in]{figures/quality-hitlang-turkers}
-\caption{Average estimated translation quality of by source language. Quality is calculated as the average number of control words which were correct translations of the source word, where "correct" means that the provided translation was judged to be synonymous with the known translation by workers in a second-pass HIT. Error bars show 95\% confidence intervals of the mean quality score across all translators for the language. Quality estimates are only show for languages with at least 50 active turkers. }
+\includegraphics[width=6in]{figures/quality-hitlang-new}
+\caption{Translation quality of by source language}
 \label{hitlangqual-bar}
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -379,12 +378,12 @@ Measured in this way, the average quality score across all HITs was just under 0
 
 
 %%%%%%%%%%%%%%% NATIVE LANGUAGE QUALITY BAR %%%%%%%%%%%
-%\begin{figure*}[h]
-%\centering
-%\includegraphics[width=6in]{figures/quality-natlang-sorted}
-%\caption{Translation quality of native and non-native speakers}
-%\label{natlangqual-bar}
-%\end{figure*}
+\begin{figure*}[h]
+\centering
+\includegraphics[width=6in]{figures/quality-natlang-sorted}
+\caption{Translation quality of native and non-native speakers}
+\label{natlangqual-bar}
+\end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Interestingly, native speakers do not consistently outperform non-native speakers (see figure \ref{natlangqual-bar}). In certain unique cases, such as Vietnam, non-native speakers produce significantly better translations than native speakers, possibly due to a large population of fluent US-based workers (figure \ref{langgeo-bar}). In general, the quality difference between native and non-native speakers is not significant.	
@@ -393,8 +392,8 @@ Interestingly, native speakers do not consistently outperform non-native speaker
 %%%%%%%%%%%%%%% QUALITY / NUM ASSIGN SCATTER %%%%%%%%%%%
 \begin{figure*}[h]
 \centering
-\includegraphics[width=6in]{figures/quality-scatter-avgturkers-country-labeled-turkers}
-\caption{Estimated quality of translations by country. Each circle is a country, sized proportional to the number of active Turkers from that country. Quality is calculated as the average number of control words which were correct translations of the source word, where "correct" means that the provided translation was judged to be synonymous with the known translation by workers in a second-pass HIT. Figure represents data from approx. 281,000 assignments for which geolocation was known.}
+\includegraphics[width=6in]{figures/quality-scatter-avgturkers-country-labeled-new}
+\caption{Quality of translations by country. Each circle is a country, sized proportional to the number of active Turkers from that country.}
 \label{quality-scatter}
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
