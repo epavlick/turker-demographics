@@ -88,6 +88,8 @@ def get_syns_quality_by_assign(path):
 		aid = line['assignment_id']
 		if line['is_control'] == '1':		
 			pair = line['pair_id']
+			#TODO
+			## FIX, EACH HAS 2 CONTROLS
 			if(line['are_synonyms'] == 'yes' and pair in syns):
 				quals.append(aid) 
 			elif(line['are_synonyms'] == 'no' and pair in nonsyns):
