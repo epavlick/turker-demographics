@@ -3,22 +3,28 @@ import csv
 import math
 import operator
 import itertools
+import dictionaries
+import compile_data_from_raw as dat
 
 RAW_DIR = '../data/dictionary-data-dump-2012-11-13_15:11/'
 OUTPUT_DIR = 'output'
 
+goog_langs = ['el', 'eo', 'zh', 'af', 'vi', 'is', 'it', 'kn', 'cs', 'cy', 'ar', 'eu', 'et', 'gl', 'id', 'es', 'ru', 'az', 'nl', 'pt', 'tr', 'lv', 'lt', 'th', 'gu', 'ro', 'ca', 'pl', 'ta', 'fr', 'bg', 'ms', 'hr', 'de', 'da', 'fa', 'fi', 'hy', 'hu', 'ja', 'he', 'te', 'sr', 'sq', 'ko', 'sv', 'ur', 'sk', 'uk', 'sl', 'sw']
+
 #map of assignment ID to turker ID
-def turker_map():
+def turker_map(hittype='voc'):
         tmap = dict()
-        for line in open('%s/byassign.workerids.voc'%OUTPUT_DIR).readlines()[1:]:
+        for line in open('%s/byassign.workerids.%s'%(OUTPUT_DIR,hittype,)).readlines()[1:]:
                 assign, worker = line.split()
                 tmap[assign.strip()] = worker.strip()
         return tmap
 
 #map of assignment ID to quality score of that assignment, or N/A 
-def qual_map():
+def qual_map(path):
         qual_data = {}
-        for line in csv.DictReader(open('%s/byassign.voc.quality.related'%OUTPUT_DIR), delimiter='\t'):
+        #for line in csv.DictReader(open('%s/byassign.voc.quality.exactmatch'%OUTPUT_DIR), delimiter='\t'):
+        #for line in csv.DictReader(open('%s/byassign.googmatch'%OUTPUT_DIR), delimiter='\t'):
+        for line in csv.DictReader(open(path), delimiter='\t'):
                 assign = line['id']
                 qual = line['avg']
                 if(assign not in qual_data):
@@ -59,8 +65,15 @@ def get_syn_lists():
 		nonsyns.append(line['id'])
 	return (syns, nonsyns)
 
+def get_goog_translations():
+	trans = dict()
+	for line in open('goog_trans').readlines():
+		wid, word, tran, lang = line.strip().split('\t')
+		trans[wid.strip()] = tran.strip()		
+	return trans
+
 #get a dictionary of word: list of acceptable synonyms. filter list of assignment ids used to restrict list of synonyms to come only from certain assignments
-def read_all_syns(filter_list=None, use_related=False):
+def read_all_syns(filter_list=None, use_related=True, exact_match_only=False):
 	words = word_map()
 	pairs = pair_map()
 	syns = dict()
@@ -77,24 +90,60 @@ def read_all_syns(filter_list=None, use_related=False):
 			if syn not in syns:
 				syns[syn] = set()
 				syns[syn].add(syn)
-			syns[syn].add(pair[0].strip().lower())
+			if(not(exact_match_only)):
+				syns[syn].add(pair[0].strip().lower())
 	return syns
 
 #returns list of syn HIT assignments which passed their controls
-def get_syns_quality_by_assign(path):
+#is_control=1 - synonyms control - yes, is_control=2 - non-synonyms control - no
+#For control 1 answer must be yes, for control 2 answer should be no.
+def get_syns_quality_by_assign(path, required_ctrl=1):
 	syns, nonsyns = get_syn_lists()
+	grades=dict()
 	quals = list()
         for line in csv.DictReader(open(path)):
 		aid = line['assignment_id']
+		#grade all controls first
 		if line['is_control'] == '1':		
 			pair = line['pair_id']
-			#TODO
-			## FIX, EACH HAS 2 CONTROLS
+			assignment_id=line['assignment_id']
 			if(line['are_synonyms'] == 'yes' and pair in syns):
-				quals.append(aid) 
-			elif(line['are_synonyms'] == 'no' and pair in nonsyns):
-				quals.append(aid) 
+				if assignment_id in grades:
+					grades[assignment_id]=grades[assignment_id]+1
+				else:
+					grades[assignment_id]=1
+		if line['is_control'] == '2':		
+			pair = line['pair_id']
+			if(line['are_synonyms'] == 'no' and pair in nonsyns):
+				if assignment_id in grades:
+					grades[assignment_id]=grades[assignment_id]+1
+				else:
+					grades[assignment_id]=1
+
+	#filter all assignment_id with both correct controls
+	for assignment_id in grades:
+		if grades[assignment_id]>=required_ctrl:
+			quals.append(assignment_id) 
 	return quals 
+
+def get_syns_quality_by_turker(path,alist,qual_cutoff=0.7):
+	grades=dict()
+        tmap = turker_map(hittype='syn')
+        for a in tmap:
+		w = tmap[a]
+		if w not in grades:
+			grades[w] = {"num":0, "denom":0}
+		#if the assignment passed controls, give the turker credit
+		if a in alist:
+			grades[w]["num"] += 1
+		grades[w]["denom"] += 1
+	approved_turkers = list()
+	for w in grades:
+		avg_score = float(grades[w]["num"])/grades[w]["denom"]
+		if(avg_score > qual_cutoff):
+			approved_turkers.append(w)
+	return [a for a in tmap if tmap[a] in approved_turkers]
+#	print sorted([float(grades[w]["num"])/grades[w]["denom"] for w in grades], reverse=True)
 
 def write_syn_dict(syns, fname):
 	outfile = open(fname, 'w')
@@ -107,8 +156,9 @@ def write_syn_dict(syns, fname):
 
 #returns a dictionary of {assignment : # of controls attempted, # of controls correct, average performance on controls}
 def get_quality_by_assign(path):
-	good = get_syns_quality_by_assign('%s/syn_hits_results'%RAW_DIR)
-	syns = read_all_syns(filter_list=good)
+	gooda = get_syns_quality_by_assign('%s/syn_hits_results'%RAW_DIR)
+	good = get_syns_quality_by_turker('%s/syn_hits_results'%RAW_DIR, gooda)
+	syns = read_all_syns(filter_list=good, exact_match_only=True)
 	words = word_map()
         data = {}
         for line in csv.DictReader(open(path)):
@@ -139,6 +189,44 @@ def get_quality_by_assign(path):
 			ret[a] = (data[a]['total'],data[a]['syns'],float(data[a]['syns'])/data[a]['total'])
 	return ret
 
+#returns a dictionary of {assignment : # of controls attempted, # of controls correct, average performance on controls}
+def get_goog_match_by_assign(path):
+        matches = get_goog_translations()
+        words = word_map()
+        data = {}
+	numlangmap, langmap = dat.lang_map()
+	hitlangs = dat.hits_language()
+	hits = dictionaries.hit_map()
+        for line in csv.DictReader(open(path)):
+                assign = line['assignment_id']
+                translation = line['translation']
+                word_id = line['word_id']
+                if(assign not in data):
+                        data[assign] = {'total': 'N/A', 'syns': 'N/A'}
+		assign_lang = numlangmap[hitlangs[hits[assign]]]
+		if(assign_lang not in goog_langs):
+			print "Skipping lang",  assign_lang, "not supported by google"
+			continue
+                if word_id in matches: 
+			if data[assign]['total'] == 'N/A': 
+				data[assign] = {'total': 0, 'syns': 0} 
+			if translation.strip().lower() == matches[word_id].strip().lower(): 
+				data[assign]['syns'] += 1
+                        data[assign]['total'] += 1
+#                else:
+ #                       print 'Could not find', assign, word_id, 'in google dictionary. Skipping'
+        ret = dict()
+        for a in data:
+                if data[a]['total'] == 0:
+                        ret[a] = (data[a]['total'], data[a]['syns'], 0)
+                elif data[a]['total'] == 'N/A':
+			print a, "is N/A"
+                        ret[a] = (data[a]['total'], data[a]['syns'], 'N/A')
+                else:
+                        ret[a] = (data[a]['total'],data[a]['syns'],float(data[a]['syns'])/data[a]['total'])
+        return ret
+
+
 #write quality data to a file
 def write_avg_quals(data, fname):
 	f = open(fname, 'w')
@@ -151,14 +239,37 @@ def write_avg_quals(data, fname):
 	f.close()
 
 #get the average quality per turker and write to a file
-def quality_by_turker(fname):
+def quality_by_turker(fname, path):
 	out = open(fname, 'w')
         all_turkers = dict()
         tmap = turker_map()
-        quals = qual_map()
+        quals = qual_map(path)
         for assign in tmap:
 		worker = tmap[assign]
                 q = quals[assign]
+  		if(assign == '' or assign not in tmap):
+                        continue
+		if q == 'N/A':
+			continue
+		if not(worker in all_turkers):
+                        all_turkers[worker] = {'num':0, 'denom':0}
+                all_turkers[worker]['num'] += float(q)
+                all_turkers[worker]['denom'] += 1
+	for t in all_turkers:
+		out.write('%s\t%.04f\n'%(t, all_turkers[t]['num']/all_turkers[t]['denom'],))
+	out.close()
+
+#get the average quality per turker and write to a file
+def googmatch_by_turker(fname, path):
+	out = open(fname, 'w')
+        all_turkers = dict()
+        tmap = turker_map()
+        quals = qual_map(path)
+        for assign in tmap:
+		worker = tmap[assign]
+                q = quals[assign]
+  		if(assign == '' or assign not in tmap):
+                        continue
 		if q == 'N/A':
 			continue
 		if not(worker in all_turkers):
@@ -171,9 +282,12 @@ def quality_by_turker(fname):
 
 if __name__ == '__main__':
 	if sys.argv[1] == 'assignments': 
-		write_avg_quals(get_quality_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.voc.quality'%OUTPUT_DIR)
+		write_avg_quals(get_quality_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.voc.quality.exactmatch'%OUTPUT_DIR)
 	if sys.argv[1] == 'turker':
-		quality_by_turker('%s/byturker.voc.quality.related'%OUTPUT_DIR)
+		quality_by_turker('%s/byturker.voc.quality.exactmatch'%OUTPUT_DIR, '%s/byassign.voc.quality.exactmatch'%OUTPUT_DIR)
+	if sys.argv[1] == 'goog':
+		write_avg_quals(get_goog_match_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.googmatch'%OUTPUT_DIR)
+		googmatch_by_turker('%s/byturker.googmatch'%OUTPUT_DIR,'%s/byassign.googmatch'%OUTPUT_DIR)
 
 
 

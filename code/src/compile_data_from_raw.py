@@ -38,14 +38,14 @@ def lang_map():
 
 def country_map():
 	ret = dict()
-	for l in open('data-files/countrymap').readlines():
+	for l in open('ref/countrymap').readlines():
 		ll = l.split('\t')
 		ret[ll[0]] = ll[1].strip()
 	return ret
 
 def code_map():
 	ret = dict()
-	for l in open('data-files/countrycodemap').readlines():
+	for l in open('ref/countrycodemap').readlines():
 		ll = l.split('\t')
 		ret[ll[0]] = ll[1].strip()
 	return ret

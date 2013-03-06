@@ -13,7 +13,7 @@ RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-da
 DICT_PATH = '/home/steven/Documents/Ellie/Research/demographics/code.clean/translations.out'
 CLPAIRS = '/home/steven/Documents/Ellie/Research/demographics/data/cl-pairs.csv'
 OUTPUT_DIR = 'output'
-DICT_DIR = 'dictionaries-strict'
+DICT_DIR = 'dictionaries'
 
 def read_valid_clpairs():
 	codes, words = dat.lang_map()
@@ -39,6 +39,18 @@ def read_valid_clpairs():
 				ret[p].append(pp)
 	return ret
 	
+def write_invalid_clpairs():
+	valid = read_valid_clpairs()
+	outfile = open('%s/byassign.voc.invalidclpair'%OUTPUT_DIR, 'w')
+	for line in csv.DictReader(open('%s/byassign.voc.accepted'%OUTPUT_DIR), delimiter='\t'):
+		aid = line['id']
+		if line['country'] == 'N/A':
+			print aid
+			continue
+		if line['country'] not in valid[line['hitlang']]:
+			outfile.write('%s\n'%aid)
+	outfile.close()
+
 def write_valid_clpairs():
 	valid = read_valid_clpairs()
 	outfile = open('%s/byassign.voc.validclpair'%OUTPUT_DIR, 'w')
@@ -416,8 +428,8 @@ def write_dicts(data, file_prefix='dictionaries/dictionary'):
 		dictfile.close()
 
 #write file containing language id followed by list of XX:YYY pairs, where XX is a country and YYY is the number of turkers for the language from country XX				
-def write_turker_lists(tlist):
-	out = open('clpairs.turkerlists', 'w')
+def write_turker_lists(tlist, fname):
+	out = open(fname , 'w')
 	for l in tlist:
 		out.write('%s\t'%l)
 		for c in tlist[l]:
@@ -460,13 +472,16 @@ if __name__ == '__main__':
 	if('by_region' in sys.argv):	
 		if not os.path.exists('%s/byassign.voc.validclpair'%OUTPUT_DIR):
 			write_valid_clpairs()
-		clpairs = [l.strip() for l in open('%s/byassign.voc.validclpair'%OUTPUT_DIR).readlines()]
+		if not os.path.exists('%s/byassign.voc.invalidclpair'%OUTPUT_DIR):
+			write_invalid_clpairs()
 		if('nonmatch' in sys.argv):
 			base='%s/nonclpair'%DICT_DIR
-			mtch = False
+			mtch = True #False
+			clpairs = [l.strip() for l in open('%s/byassign.voc.invalidclpair'%OUTPUT_DIR).readlines()]
 		elif('match' in sys.argv):
 			base='%s/clpair'%DICT_DIR
 			mtch = True
+			clpairs = [l.strip() for l in open('%s/byassign.voc.validclpair'%OUTPUT_DIR).readlines()]
 		if('dictionaries' in sys.argv):
 			print "NOT DEBUGGED"
 			exit(0)
@@ -489,8 +504,9 @@ if __name__ == '__main__':
 			prefix='%s.numturkers'%base
 			tdata = count_turkers(DICT_PATH, qual_cutoff=0, strict=False,  filter_list=clpairs, match=mtch)
 			write_dicts_turkers(tdata, filename=prefix)
+			prefix='%s.turkerlist'%base
 			tdatav = count_turkers_verbose(DICT_PATH, qual_cutoff=0, strict=False,  filter_list=clpairs, match=mtch)
-			write_turker_lists(tdatav)
+			write_turker_lists(tdatav, prefix)
 
 
 #	langlist = yrs_list(5)

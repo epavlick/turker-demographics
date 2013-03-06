@@ -13,7 +13,7 @@ from scipy.stats import norm
 import matplotlib.pyplot as plt
 from matplotlib import font_manager as fm
 
-QC = ''
+QC = '' #'.related'
 OUTPUT_DIR = 'output'
 RAW_DIR = '../data/dictionary-data-dump-2012-11-13_15:11'
 
@@ -82,14 +82,22 @@ def reverse_lang_map(path):
                         lang_data[prefix] = re.sub('_',' ',lang)
         return lang_data
 
-def all_avg_scores(path):
+def all_avg_scores(path, turkers=True):
 	scores = dict()
         for line in open(path).readlines():
 		l = line.split('\t')
-		try:
-			scores[l[0]] = float(l[3].strip())
-		except:
-			continue
+		if(turkers):
+			try:
+				scores[l[0]] = float(l[1].strip())
+			except:
+				print line
+				continue
+		else:
+			try:
+				scores[l[0]] = float(l[3].strip())
+			except:
+				print line
+				continue
 	return scores
 
 def avg_score(assign_list, scores):
@@ -118,6 +126,28 @@ def conf_int_by_attr(attr):
 	ret['avg'] = ci
 	return ret
 
+def conf_int_by_attr_turker(attr):
+        tmap = dictionaries.turker_map()
+	ret = dict()
+	data = read_table_file('%s/byassign.voc.accepted'%OUTPUT_DIR)
+	scores = all_avg_scores('%s/byturker.voc.quality%s'%(OUTPUT_DIR,QC,))
+	langs = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, attr)
+	tot = 0	
+	avg = list()
+	for l in langs:
+		alist = select_by(data, attr, l).keys()
+		num_assign = len(alist)
+		tot += num_assign
+		tlist = list(set([tmap[a] for a in alist]))
+		avg += tlist
+		ci = avg_score(tlist, scores)
+		ret[l] = (ci[0], ci[1], num_assign, ci[3])
+	ci = avg_score(avg, scores)
+	ret['avg'] = ci
+	print "tot", tot
+	print "n/a", ret['N/A'][2]
+	return ret
+
 def hitlang_qual(cut=3000):
 	assigns_by_lang = dict()
 	qual_by_assign = dict()
@@ -133,19 +163,179 @@ def hitlang_qual(cut=3000):
 		q = line['avg']
 		qual_by_assign[aid] = q
 	for l in assigns_by_lang.keys():
+		print l
 		qual = list()
 		for a in assigns_by_lang[l]:
 			q = qual_by_assign[a]
 			if not(q == 'N/A'):
 				qual.append(float(q))
 				avg_qual.append(float(q))
-        		n, (smin, smax), sm, sv, ss, sk = stats.describe(qual)
-        		moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+        	n, (smin, smax), sm, sv, ss, sk = stats.describe(qual)
+        	moe = math.sqrt(sv)/math.sqrt(n) * 2.576
 		qual_by_lang[l] = (sm, (sm - moe, sm + moe), n, moe)
         n, (smin, smax), sm, sv, ss, sk = stats.describe(avg_qual)
         moe = math.sqrt(sv)/math.sqrt(n) * 2.576
 	qual_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
 	conf_int_graphs(sorted([(k,qual_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut)
+
+def hitlang_qual_turker(cut=50):
+        tmap = dictionaries.turker_map()
+	assigns_by_lang = dict()
+	qual_by_assign = dict()
+	qual_by_lang = dict()
+	avg_qual = list()
+	for line in csv.DictReader(open('%s/byassign.voc.accepted'%OUTPUT_DIR), delimiter='\t'):
+		lang = line['hitlang']
+		if lang not in assigns_by_lang:
+			assigns_by_lang[lang] = set()
+		assigns_by_lang[lang].add(tmap[line['id']])
+	for line in csv.DictReader(open('%s/byturker.voc.quality%s'%(OUTPUT_DIR,QC,)), delimiter='\t'):
+		aid = line['id']
+		q = line['avg']
+		qual_by_assign[aid] = q
+	for l in assigns_by_lang.keys():
+		print l
+		qual = list()
+		for a in assigns_by_lang[l]:
+			if a not in qual_by_assign:
+				continue
+			q = qual_by_assign[a]
+			if not(q == 'N/A'):
+				qual.append(float(q))
+				avg_qual.append(float(q))
+        	n, (smin, smax), sm, sv, ss, sk = stats.describe(qual)
+        	moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+		qual_by_lang[l] = (sm, (sm - moe, sm + moe), n, moe)
+        n, (smin, smax), sm, sv, ss, sk = stats.describe(avg_qual)
+        moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+	qual_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
+	conf_int_graphs(sorted([(k,qual_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut)
+
+def exact_match_qual(cut=50):
+        tmap = dictionaries.turker_map()
+	assigns_by_lang = dict()
+	qual_by_assign = dict()
+	match_by_assign = dict()
+	qual_by_lang = dict()
+	match_by_lang = dict()
+	avg_qual = list()
+	avg_match = list()
+	for line in csv.DictReader(open('%s/byassign.voc.accepted'%OUTPUT_DIR), delimiter='\t'):
+		lang = line['hitlang']
+		if lang not in assigns_by_lang:
+			assigns_by_lang[lang] = set()
+		assigns_by_lang[lang].add(tmap[line['id']])
+	for line in csv.DictReader(open('%s/byturker.voc.quality%s'%(OUTPUT_DIR,QC,)), delimiter='\t'):
+		aid = line['id']
+		q = line['avg']
+		qual_by_assign[aid] = q
+	for line in csv.DictReader(open('%s/byturker.voc.quality.exactmatch'%OUTPUT_DIR), delimiter='\t'):
+		aid = line['id']
+		q = line['avg']
+		match_by_assign[aid] = q
+	for l in assigns_by_lang.keys():
+		print l
+		qual = list()
+		match = list()
+		for a in assigns_by_lang[l]:
+			if a not in qual_by_assign or a not in match_by_assign:
+				continue
+			q = qual_by_assign[a]
+			m = match_by_assign[a]
+			if not(q == 'N/A') and not(m=='N/A'):
+				qual.append(float(q))
+				match.append(float(m))
+				avg_qual.append(float(q))
+				avg_match.append(float(m))
+        	n, (smin, smax), sm, sv, ss, sk = stats.describe(qual)
+        	moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+		qual_by_lang[l] = (sm, (sm - moe, sm + moe), n, moe)
+        	n, (smin, smax), sm, sv, ss, sk = stats.describe(match)
+        	moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+		match_by_lang[l] = (sm, (sm - moe, sm + moe), n, moe)
+        n, (smin, smax), sm, sv, ss, sk = stats.describe(avg_qual)
+        moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+	qual_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
+        n, (smin, smax), sm, sv, ss, sk = stats.describe(avg_match)
+        moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+	match_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
+	exact_match_graphs(sorted([(k,qual_by_lang[k],match_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut)
+
+def goog_match_qual(cut=50):
+        tmap = dictionaries.turker_map()
+	assigns_by_lang = dict()
+	qual_by_assign = dict()
+	match_by_assign = dict()
+	goog_by_assign = dict()
+	qual_by_lang = dict()
+	match_by_lang = dict()
+	goog_by_lang = dict()
+	avg_qual = list()
+	avg_match = list()
+	avg_goog = list()
+	for line in csv.DictReader(open('%s/byassign.voc.accepted'%OUTPUT_DIR), delimiter='\t'):
+		lang = line['hitlang']
+		if lang not in assigns_by_lang:
+			assigns_by_lang[lang] = set()
+		assigns_by_lang[lang].add(tmap[line['id']])
+	for line in csv.DictReader(open('%s/byturker.voc.quality%s'%(OUTPUT_DIR,QC,)), delimiter='\t'):
+		aid = line['id']
+		q = line['avg']
+		qual_by_assign[aid] = q
+	for line in csv.DictReader(open('%s/byturker.voc.quality.exactmatch'%OUTPUT_DIR), delimiter='\t'):
+		aid = line['id']
+		q = line['avg']
+		match_by_assign[aid] = q
+	for line in csv.DictReader(open('%s/byturker.googmatch'%OUTPUT_DIR), delimiter='\t'):
+		aid = line['id']
+		q = line['avg']
+		goog_by_assign[aid] = q
+	for l in assigns_by_lang.keys():
+		print l,
+		qual = list()
+		match = list()
+		goog = list()
+		for a in assigns_by_lang[l]:
+			if a not in qual_by_assign or a not in match_by_assign:
+				continue
+			q = qual_by_assign[a]
+			m = match_by_assign[a]
+			if a in goog_by_assign:
+				g = goog_by_assign[a]
+			else:
+				g = None
+			if not(q == 'N/A') and not(m=='N/A'):
+				qual.append(float(q))
+				match.append(float(m))
+				avg_qual.append(float(q))
+				avg_match.append(float(m))
+				if g:
+					goog.append(float(g))
+					avg_goog.append(float(g))
+				else:
+					goog.append(None)
+        	n, (smin, smax), sm, sv, ss, sk = stats.describe(qual)
+        	moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+		qual_by_lang[l] = (sm, (sm - moe, sm + moe), n, moe)
+        	n, (smin, smax), sm, sv, ss, sk = stats.describe(match)
+        	moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+		match_by_lang[l] = (sm, (sm - moe, sm + moe), n, moe)
+		if None in goog:
+			goog_by_lang[l] = None
+		else:
+	        	n, (smin, smax), sm, sv, ss, sk = stats.describe(goog)
+        		moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+			goog_by_lang[l] = (sm, (sm - moe, sm + moe), n, moe)
+        n, (smin, smax), sm, sv, ss, sk = stats.describe(avg_qual)
+        moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+	qual_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
+        n, (smin, smax), sm, sv, ss, sk = stats.describe(avg_match)
+        moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+	match_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
+        n, (smin, smax), sm, sv, ss, sk = stats.describe(avg_goog)
+        moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+	goog_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
+	goog_graphs(sorted([(k,qual_by_lang[k],match_by_lang[k], goog_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut)
 
 def two_way_split(attr1, attr2):
 	ret = dict()
@@ -171,6 +361,61 @@ def clean_ints(data, cutoff=50, sorting=None):
 	ret = sorted(ret, reverse=True) 
 	return [(c[0], c[1]) for c in ret]
 
+def exact_match_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):	
+	ci_dict = [c for c in all_ci_dict if c[1][2] >= cutoff]
+	yax = [c[1][0] for c in ci_dict]
+	yax2 = [c[2][0] for c in ci_dict]
+	err = [c[1][3] for c in ci_dict]
+	err2 = [c[2][3] for c in ci_dict]
+        xax = range(len(ci_dict))
+        names = [c[0] for c in ci_dict]
+        plt.bar(xax, yax, 1, ecolor='black',color='g')
+        plt.bar(xax, yax2, 1, ecolor='black',color='b')
+	if(graph_avg):
+		bidx = names.index('avg')
+		plt.bar(xax[bidx], yax[bidx], 1, color='y') 
+		plt.bar(xax[bidx], yax2[bidx], 1, color='r') 
+        plt.xticks([x + 0.5 for x in xax], [n for n in names], rotation='vertical')
+        plt.ylabel('')
+	plt.ylim([0,max(yax)+.1])
+	plt.xlim([0,len(ci_dict)])
+        plt.show()
+
+def goog_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):	
+	width = .8
+	ci_dict = [c for c in all_ci_dict if (c[1][2] >= cutoff and not(c[3] == None))]
+	yax = [c[1][0] for c in ci_dict]
+	yax2 = [c[2][0] for c in ci_dict]
+	yax3 = [c[3][0] for c in ci_dict]
+	err = [c[1][3] for c in ci_dict]
+	err2 = [c[2][3] for c in ci_dict]
+	err3 = [c[3][3] for c in ci_dict]
+#	yax3 = list()
+#	err3 = list()
+#	for c in ci_dict:
+#		if c[3] == None:
+#			print c
+#			yax3.append(0)
+#			err3.append(0)
+#		else:
+#			yax3.append(c[3][0])
+#			err3.append(c[3][3])
+        xax = range(len(ci_dict))
+        names = [c[0] for c in ci_dict]
+        plt.bar(xax, yax, width/2, ecolor='black',color='g')
+        plt.bar(xax, yax2, width/2, ecolor='black',color='b')
+        plt.bar([x+width/2 for x in xax], yax3, width/2, ecolor='black',color='r')
+#	if(graph_avg):
+#		bidx = names.index('avg')
+#		plt.bar(xax[bidx], yax[bidx], 1, color='y') 
+#		plt.bar(xax[bidx], yax2[bidx], 1, color='r') 
+#		plt.bar(xax[bidx], yax3[bidx], 1, color='m') 
+        plt.xticks([x + 0.5 for x in xax], [n for n in names], rotation='vertical')
+        plt.ylabel('')
+	plt.ylim([0,max(yax)+.1])
+	plt.xlim([0,len(ci_dict)])
+        plt.show()
+
 def conf_int_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):	
 	ci_dict = [c for c in all_ci_dict if c[1][2] >= cutoff]
 	yax = [c[1][0] for c in ci_dict]
@@ -185,7 +430,6 @@ def conf_int_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
         plt.ylabel('')
 	plt.ylim([0,max(yax)+.1])
 	plt.xlim([0,len(ci_dict)])
-        plt.title(title)
         plt.show()
 
 def hit_map():
@@ -286,9 +530,10 @@ def reverse_cntry_map(path):
 def quality_scatter(title='Title'):
 	points_to_label = ['VN', 'RO', 'NG', 'AM', 'DZ','RU', 'UK', 'ET', 'PK', 'IN','US','MY','MK','ES', 'ID', '100 turkers']
 	attr = 'country'
-	cmap = reverse_cntry_map('ref/countrycodemap')
+	cmap = reverse_cntry_map('ref/countrynames')
 	cmap['100 turkers'] = '100 turkers'
-	ci = conf_int_by_attr(attr)
+#	ci = conf_int_by_attr(attr)
+	ci = conf_int_by_attr_turker(attr)
 	turker_counts = count_turkers(attr)
 	names = list()
 	x = list()
@@ -491,10 +736,12 @@ def print_data_for_map():
 if __name__ == '__main__':
 	if(len(sys.argv) < 2 or sys.argv[1] == 'help'):
                 print '---USAGE---'
-                print './figures.py assign_turk_scatter : scatter of # turkers vs. # assignments, points labeled by country'
 		print './figures.py hitlang_qual : bar chart of quality by HIT language'
+		print './figures.py exact_match: bar chart of quality by HIT language, side by side bars of overall quality and % exact matches'
+		print './figures.py goog: bar chart of quality by HIT language, side by side bars of overall quality and % google matches'
                 print './figures.py quality_scatter : scatter of # turkers vs. quality, bubbles sized by # turkers'
-                print './figures.py native_compare : side-by-side bar of native vs. non-native speaker quality'
+               # print './figures.py native_compare : side-by-side bar of native vs. non-native speaker quality'
+                print './figures.py assign_turk_scatter : scatter of # turkers vs. # assignments, points labeled by country'
                 print './figures.py natlang_pie : pie chart'
                 print './figures.py natlang_table : pie chart as table'
                 print './figures.py map: print data for googlecharts map'
@@ -502,7 +749,12 @@ if __name__ == '__main__':
 
 	plot = sys.argv[1]
 	if(plot == 'hitlang_qual'):
-		hitlang_qual()
+	#	hitlang_qual()
+		hitlang_qual_turker()
+	if(plot == 'exact_match'):
+		exact_match_qual()
+	if(plot == 'goog'):
+		goog_match_qual()
 	if(plot == 'quality_scatter'):
 		quality_scatter()
 	if(plot == 'native_compare'):

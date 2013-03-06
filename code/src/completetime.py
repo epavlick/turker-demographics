@@ -123,6 +123,8 @@ if __name__ == '__main__':
 	if(len(sys.argv) < 2 or sys.argv[1] == 'help'):
                 print '---USAGE---'
                 print './completetime.py extract: extract start and complete times by assignment and write to OUTPUT_DIR/byassign.times'
+                print './completetime.py bar: boring bar graph'
+                print './completetime.py series: way more cool series graph'
                 exit(0)
 
         do = sys.argv[1]

@@ -1,3 +1,6 @@
+===================================================================================================================================
+							** DATA **
+===================================================================================================================================
 To extract data from raw database dump, do the following IN ORDER:
 
 vi compile_data_from_raw.py 
@@ -14,5 +17,22 @@ set 'OUTPUT_DIR' to be the directory into which extracted data should be written
 
 **run assignments first. assignment data has to be extracted and saved in OUTPUT_DIR before turker data can be extracted**
 
+===================================================================================================================================
+							** FIGURES **
+===================================================================================================================================
 
+Assuming all data has ben extracted and is in the 'output/' directory
+
+to generate figures:
+python figures.py hitlang_qual : bar chart of quality by HIT language
+python figures.py exact_match: bar chart of quality by HIT language, side by side bars of overall quality and % exact matches
+python figures.py goog: bar chart of quality by HIT language, side by side bars of overall quality and % google matches
+python figures.py quality_scatter : scatter of # turkers vs. quality, bubbles sized by # turkers
+python figures.py assign_turk_scatter : scatter of # turkers vs. # assignments, points labeled by country
+python figures.py natlang_pie : pie chart
+python figures.py natlang_table : pie chart as table
+python figures.py map: print data for googlecharts map
+python summary.py map: tex output for summary table
+python completetime.py bar: boring bar graph
+python completetime.py series: way more cool series graph
 
