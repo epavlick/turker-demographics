@@ -282,14 +282,16 @@ Other questions:
 
 
 %%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
-\begin{figure}[h]
+\begin{figure*}[h]
 \centering
-\includegraphics[height=\linewidth,angle=270]{figures/completiontime}
-\caption{Time (in days) to complete all HITs in each language. Red bars show time until first HIT was started,
+%\includegraphics[height=\linewidth,angle=270]{figures/completiontime-series}
+\includegraphics[width=6in]{figures/completiontime-series}
+\caption{Time (in days) to complete HITS in each language. Tick marks represent the completion of individual HITs. Elapsed time is relative to the first submitted HIT across all languages (Urdu). }
+%\caption{Time (in days) to complete all HITs in each language. Red bars show time until first HIT was started,
 % relative to the time the first HIT in each language was started, relative to the time the first HIT in any language was started (first HIT started across all languages was Urdu). 
- blue bars show time until all HITs in each language were completed.}
+% blue bars show time until all HITs in each language were completed.}
 \label{completion-time}
-\end{figure}
+\end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -320,8 +322,8 @@ Other questions:
 %%%%%%%%%%%%%%% ASSIGNMENT SCATTER %%%%%%%%%%%
 \begin{figure*}[h]
 \centering
-\includegraphics[width=6in]{figures/assign-turk-scatter}
-\caption{Number of assignments and number of Turkers for each language. Each dot represents a language.}
+\includegraphics[width=6in]{figures/assign-turk-scatter-new}
+\caption{Number of assignments and number of Turkers for each language. Each dot represents a language. Figure includes only data from Turkers who reported only one native language consistantly across assignments, representing approx. 3900 turkers across 139,000 assignments.}
 \label{ass-scatter}
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -368,8 +370,9 @@ In order to address the quality of the translations we received on the dictionar
 %%%%%%%%%%%%%%% HITLANG QUALITY BAR %%%%%%%%%%%
 \begin{figure*}[h]
 \centering
-\includegraphics[width=6in]{figures/quality-hitlang-new}
-\caption{Translation quality of by source language}
+\includegraphics[width=6in]{figures/quality-hitlang-goog}
+\caption{Translation quality of by source language. Blue bars show quality estimates by language and green bars show proportion of translations which matched Google Translate. Total quality is calculated as the average number of control words which were correct translations of the source word, where ”correct” means that the provided translation was judged to be synonymous with the known translation by workers in a second-
+pass HIT. Dark blue bars indicate the proportion of translations which exactly matched known translations, and light blue indicate translations which were judged to be correct synonyms. Quality estimates are only show for languages with at least 50 active turkers.}
 \label{hitlangqual-bar}
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -378,12 +381,12 @@ Measured in this way, the average quality score across all HITs was just under 0
 
 
 %%%%%%%%%%%%%%% NATIVE LANGUAGE QUALITY BAR %%%%%%%%%%%
-\begin{figure*}[h]
-\centering
-\includegraphics[width=6in]{figures/quality-natlang-sorted}
-\caption{Translation quality of native and non-native speakers}
-\label{natlangqual-bar}
-\end{figure*}
+%\begin{figure*}[h]
+%\centering
+%\includegraphics[width=6in]{figures/quality-natlang-sorted}
+%\caption{Translation quality of native and non-native speakers}
+%\label{natlangqual-bar}
+%\end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Interestingly, native speakers do not consistently outperform non-native speakers (see figure \ref{natlangqual-bar}). In certain unique cases, such as Vietnam, non-native speakers produce significantly better translations than native speakers, possibly due to a large population of fluent US-based workers (figure \ref{langgeo-bar}). In general, the quality difference between native and non-native speakers is not significant.	
@@ -392,8 +395,8 @@ Interestingly, native speakers do not consistently outperform non-native speaker
 %%%%%%%%%%%%%%% QUALITY / NUM ASSIGN SCATTER %%%%%%%%%%%
 \begin{figure*}[h]
 \centering
-\includegraphics[width=6in]{figures/quality-scatter-avgturkers-country-labeled-new}
-\caption{Quality of translations by country. Each circle is a country, sized proportional to the number of active Turkers from that country.}
+\includegraphics[width=6in]{figures/quality-scatter}
+\caption{Estimated quality of translations by country. Each circle is a country, sized proportional to the number of active Turkers from that country. Quality is calculated as the average number of control words which were correct translations of the source word, where ”correct” means that the provided translation was judged to be synonymous with the known translation by workers in a second-pass HIT. Figure represents data from approx. 281,000 assignments for which geolocation was known.}
 \label{quality-scatter}
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
