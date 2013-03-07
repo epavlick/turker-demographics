@@ -1,0 +1,8 @@
+қойып	to rise,
+өзгерту	forest,
+ашты	green,
+ганьсу	black,
+отбасы	endure,
+өлшемдер	brave man,
+жолаушылар	announcement,
+көпшілігін	ball of wool,
