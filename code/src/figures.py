@@ -1,4 +1,6 @@
 import re
+import os
+import os.path
 import csv
 import sys
 import math
@@ -12,6 +14,7 @@ from scipy import stats
 from scipy.stats import norm
 import matplotlib.pyplot as plt
 from matplotlib import font_manager as fm
+#plt.use('PDF')
 
 QC = '' #'.related'
 OUTPUT_DIR = 'output'
@@ -419,7 +422,7 @@ def exact_match_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
         plt.ylabel('')
 	plt.ylim([0,max(yax)+.1])
 	plt.xlim([0,len(ci_dict)])
-        plt.show()
+	plt.savefig('figures/exact-match-bar.pdf')
 
 #stacked bar graph of proportion of exact matches and proportion of synonymn matches
 #side by side with proportion of google translate matches
@@ -456,7 +459,7 @@ def goog_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
         plt.ylabel('')
 	plt.ylim([0,max(yax)+.1])
 	plt.xlim([0,len(ci_dict)])
-        plt.show()
+	plt.savefig('figures/google-match-bar.pdf')
 
 #bar graph with error bars
 def conf_int_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):	
@@ -473,7 +476,7 @@ def conf_int_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
         plt.ylabel('')
 	plt.ylim([0,max(yax)+.1])
 	plt.xlim([0,len(ci_dict)])
-        plt.show()
+	plt.savefig('figures/hitlang-bar.pdf')
 
 #mapping of assign_id to hit_id
 def hit_map():
@@ -544,7 +547,7 @@ def compare_native_speakers_graph(ci_tups, title='Graph'):
 	plt.ylim([0,1])
 	plt.xlim([0,len(names)])
 	plt.legend(plots, ('native', 'non-native'))
-        plt.show()
+	plt.savefig('native-compare-bar.pdf')
 
 #side by side bar of native/non native speaker quality
 def native_compare():
@@ -625,7 +628,7 @@ def quality_scatter(title='Title'):
 	arrows = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0')
 	for label, x, y in zip(labels, labelx, labely):
         	plt.annotate(label,xy =(x,y),xytext=(20,-20),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=16)
-	plt.show()
+	plt.savefig('quality-scatter.pdf')
 
 #scatter plot of # assignments against # turkers
 def assign_and_turker_plot(tuples):
@@ -652,7 +655,7 @@ def assign_and_turker_plot(tuples):
 	arrows = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0')
         for label, x, y in zip(labels, labelx, labely):
                 plt.annotate(label,xy=(x,y),xytext=(-10,10),textcoords='offset points',ha='right',va='bottom',arrowprops=arrows,fontsize=20)
-        plt.show()
+	plt.savefig('figures/assign-turk-scatter.pdf')
 
 #get dictionary of {hitlang : # assignments} which includes only accepted assignments for which the turker only reported one language
 def one_lang_assigns():
@@ -735,7 +738,7 @@ def natlang_pie(tuples):
         proptease.set_size('medium')
         plt.setp(autotexts, fontproperties=proptease)
         plt.setp(texts, fontproperties=proptease)
-        plt.show()
+	plt.savefig('figures/natlang-pie.pdf')
 
 #return statistics on turkers' native languages as a list of (language, count) tuples
 def natlang_table():
@@ -807,6 +810,7 @@ def print_data_for_map():
 if __name__ == '__main__':
 	if(len(sys.argv) < 2 or sys.argv[1] == 'help'):
                 print '---USAGE---'
+		print './figures.py all: all figures'
 		print './figures.py hitlang_qual : bar chart of quality by HIT language'
 		print './figures.py exact_match: bar chart of quality by HIT language, side by side bars of overall quality and % exact matches'
 		print './figures.py goog: bar chart of quality by HIT language, side by side bars of overall quality and % google matches'
@@ -819,6 +823,26 @@ if __name__ == '__main__':
                 exit(0)
 
 	plot = sys.argv[1]
+	if(plot == 'all'):
+		if not os.path.exists('./figures'): os.mkdir('figures')
+		print 'hitlang bar'
+		hitlang_qual_turker()
+		plt.clf()
+		print 'exact match bar'
+		exact_match_qual()
+		plt.clf()
+		print 'google match bar'
+		goog_match_qual()
+		plt.clf()
+		print 'quality scatter'
+		quality_scatter()
+		plt.clf()
+		print 'assign/turker scatter'
+                assign_and_turker_plot(assign_and_turker_table())
+		plt.clf()
+		print 'pie chart'
+        	natlang_pie(clean_tuples(natlang_table()))
+		plt.clf()
 	if(plot == 'hitlang_qual'):
 	#	hitlang_qual()
 		hitlang_qual_turker()
