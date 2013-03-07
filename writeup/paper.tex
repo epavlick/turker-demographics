@@ -257,12 +257,45 @@ Automating approval/rejections for the second-pass evaluation allowed the whole 
 
 \section{Data Analysis}
 
-We performed an analysis of our data to address the following questions:
+We performed an analysis of our data to address the following questions, among others:
 \begin{itemize}
 \item How quickly can we expect work to be completed in a particular language? 
 \item What is the quality of crowdsourced translations without quality control versus with it? 
 \item Do workers accurately represent their language abilities?  Should we constrain tasks by region? 
 \end{itemize}
+
+
+%%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
+\begin{figure}[h]
+\centering
+%\includegraphics[height=\linewidth,angle=270]{figures/completiontime-series}
+\includegraphics[height=\linewidth,angle=270]{figures/completiontime-series}
+\caption{Days to complete the translation HITs for 40 of the languages. Tick marks represent the completion of individual assignments. }
+\label{completion-time}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\paragraph{Speed of completion}
+
+Figure \ref{completion-time} gives the completion times for 40 languages.  
+Urdu and Russian were the first languages to be launched, followed by the others 2 days later. The 10 languages to finish in the shortest amount of time were: Tamil, Malayalam, Telugu, Hindi, Macedonian, Spanish, Serbian, Romanian, Gujarati, and Marathi. 7 of the 10 fastest languages are from India, which is unsurprising given the geographic distribution of workers.  Some languages follow the pattern of having a smattering of assignments completed early, with the rate picking up later. 
+
+
+\paragraph{Agreement with controls}
+
+\paragraph{Use of machine translation}
+Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we rendered the words and sentences as images to reduce the ability of workers to cheat by copying-and-pasting into online MT systems.  This strategy does not prevent workers from typing the words into a MT system, if they understand the language's script.
+%
+
+%%%%%%%%%%%%%%% TURKER QUAL SUMMARY TABLE %%%%%%%%%%%
+\include{summary}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\paragraph{Performance within region}
+
+We measured the average quality of workers who were in countries that plausibly speak a language, versus workers from countries that did not have large speaker populations of that language.  We used the Ethnologue \cite{ethnologue} to compile the list of countries for each language.  Table \ref{language-regions} reports the average translation quality of Turkers in countries with plausibly large speaker populations of each language, compared to the average quality of Turkers from outside the expected region for that language. 
+
 
 Other questions:
 \begin{itemize}
@@ -272,25 +305,6 @@ Other questions:
 \item How well do the Turker translations match external bilingual dictionaries?  If we ranked Turkers by how well they performed on our controls, would those rankings stay stable if we ranked them based on their performance on external dictionaries? 
 \item How well do Turkers agree with each other on non-control items?  Should we run a synonym HIT on all of the non-identical translations?  Would that help us understand which translations were good and which weren't?  
 \end{itemize}
-
-
-\paragraph{Use of machine translation}
-Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we rendered the words and sentences as images to reduce the ability of workers to cheat by copying-and-pasting into online MT systems.  This strategy does not prevent workers from typing the words into a MT system, if they understand the language's script.
-%
-
-
-%%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
-\begin{figure*}[h]
-\centering
-%\includegraphics[height=\linewidth,angle=270]{figures/completiontime-series}
-\includegraphics[width=6in]{figures/completiontime-series}
-\caption{Time (in days) to complete the translation HITs for 40 of the languages in our study. Tick marks represent the completion of individual assignments. Urdu and Russian were the first languages to be launched, followed by the others 2 days later. The languages which completed in the shortest amount of time were 4 Indian languages and Macedonian.}
-%\caption{Time (in days) to complete all HITs in each language. Red bars show time until first HIT was started,
-% relative to the time the first HIT in each language was started, relative to the time the first HIT in any language was started (first HIT started across all languages was Urdu). 
-% blue bars show time until all HITs in each language were completed.}
-\label{completion-time}
-\end{figure*}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
@@ -339,9 +353,6 @@ Figure \ref{ass-scatter} shows the volume of HITs completed and the number of wo
 %\end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%% TURKER QUAL SUMMARY TABLE %%%%%%%%%%%
-\include{summary}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Measuring Data Quality}
 The primary challenge of using crowdsourced language data is the widely variable quality of the collected annotations. While it is possible to strengthen the signal by collecting redundant labels, this strategy becomes difficult in practice for more complex data annotation. In the case of translation, low quality translations may have a high level of agreement (for example, when many workers use google translate) while high quality, even professional translations, can be expected to vary significantly.
