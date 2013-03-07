@@ -151,37 +151,9 @@ To contrast our research with previous work, the main contributions of this pape
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-%
-%%%%%%%%%%%%%%%% NAT LANG PIE %%%%%%%%%%%
-%\begin{figure}[h]
-%\centering
-%\includegraphics[width=\linewidth]{figures/natlang-pie}
-%\caption{Self-reported native language of 3,154 bilingual Turkers.  Not shown are the languages of 243 Turkers who reported two native languages, 83 who reported $\geq$3 native languages, and 1.801 who failed to answer the language survey component of our translation HITs.}
-%\label{lang-pie}
-%\end{figure}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-\section{Survey Design}
-The central task in this study was to investigate Mechanical Turk's bilingual population.  We accomplished this through self-reported surveys combined with a HIT to translate individual words for over 100 languages.  We evaluate the accuracy of the workers' translations against known translations.  In cases where these were not exact matches, we used a second pass monolingual HIT, which asked English speakers to evaluate if a worker-provided translation was a synonym of the known translation.
-
-
-\paragraph{Demographic questionnaire}
-
-At the start of each HIT, Turkers were asked to complete a brief survey about their language abilities. The survey asked the following questions:
-\begin{itemize}
-\item Is [language] your native language? 
-\item How many years have you spoken [language]? 
-\item Is English your native language? 
-\item How many years have you spoken English?
-\item What country do you live in?
-\end{itemize}
-We automatically collected each worker's current location by geolocating their IP address.  A total of 5,281 unique workers completed our HITs.  Among those, 3,890 provided responses to our survey questions, and we were able to geolocate 5,054.  Figure \ref{map} plots the location of workers across 111 countries.  Table \ref{lang-pie} gives the most common self-reported native languages. 
-
-% were not required in order to complete the HIT; survey questions and the number of valid responses received for each are listed in table \ref{survey-tab}. Although it was not required, Turkers who completed multiple HIT assignments could fill out the survey multiple times. This enabled some Turkers to report multiple native languages (see figure \ref{numlangs-tab}). While most results presented are calculated across all Turkers, figures given for distributions across native languages are calculated only from Turkers who reported a single native language.\\
-
 
 %%%%%%%%%%%%%%% NAT LANG PIE TABLE %%%%%%%%%%%
-\begin{table}[h]
+\begin{table}
 \footnotesize
 \begin{tabular}{lrlrlr}\hline\hline
 %Language&\# Turkers\\
@@ -206,6 +178,26 @@ German&66&	Turkish&35&	Others &$\leq$20\\
 We omit 1,801 Turkers did not report their native language, 243 who reported 2 native languages, and 83 who reported $\geq$3 native languages.}\label{lang-pie}
 \end{table}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\section{Survey Design}
+The central task in this study was to investigate Mechanical Turk's bilingual population.  We accomplished this through self-reported surveys combined with a HIT to translate individual words for over 100 languages.  We evaluate the accuracy of the workers' translations against known translations.  In cases where these were not exact matches, we used a second pass monolingual HIT, which asked English speakers to evaluate if a worker-provided translation was a synonym of the known translation.
+
+
+\paragraph{Demographic questionnaire}
+
+At the start of each HIT, Turkers were asked to complete a brief survey about their language abilities. The survey asked the following questions:
+\begin{itemize}
+\item Is [language] your native language? 
+\item How many years have you spoken [language]? 
+\item Is English your native language? 
+\item How many years have you spoken English?
+\item What country do you live in?
+\end{itemize}
+We automatically collected each worker's current location by geolocating their IP address.  A total of 5,281 unique workers completed our HITs.  Among those, 3,890 provided responses to our survey questions, and we were able to geolocate 5,054.  Figure \ref{map} plots the location of workers across 111 countries.  Table \ref{lang-pie} gives the most common self-reported native languages. 
+
+% were not required in order to complete the HIT; survey questions and the number of valid responses received for each are listed in table \ref{survey-tab}. Although it was not required, Turkers who completed multiple HIT assignments could fill out the survey multiple times. This enabled some Turkers to report multiple native languages (see figure \ref{numlangs-tab}). While most results presented are calculated across all Turkers, figures given for distributions across native languages are calculated only from Turkers who reported a single native language.\\
 
 
 
@@ -292,7 +284,7 @@ Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we rendered the word
 \centering
 %\includegraphics[height=\linewidth,angle=270]{figures/completiontime-series}
 \includegraphics[width=6in]{figures/completiontime-series}
-\caption{Time (in days) to complete HITS in each language. Tick marks represent the completion of individual HITs. Elapsed time is relative to the first submitted HIT across all languages (Urdu). }
+\caption{Time (in days) to complete the translation HITs for 40 of the languages in our study. Tick marks represent the completion of individual assignments. Urdu and Russian were the first languages to be launched, followed by the others 2 days later. The languages which completed in the shortest amount of time were 4 Indian languages and Macedonian.}
 %\caption{Time (in days) to complete all HITs in each language. Red bars show time until first HIT was started,
 % relative to the time the first HIT in each language was started, relative to the time the first HIT in any language was started (first HIT started across all languages was Urdu). 
 % blue bars show time until all HITs in each language were completed.}
