@@ -15,8 +15,10 @@ from matplotlib import font_manager as fm
 
 QC = '' #'.related'
 OUTPUT_DIR = 'output'
-RAW_DIR = '../data/dictionary-data-dump-2012-11-13_15:11'
+RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11' 
 
+#filter data and return only entries which have the specified value in the specified column
+#e.g. only entries for which 'country' is 'IN'
 def select_by(data, col, value):
         dicts = dict()
         for d in data:
@@ -24,6 +26,8 @@ def select_by(data, col, value):
                         dicts[d] = data[d]
         return dicts
 
+#get a list of all possible values of the specified attribute 
+#e.g. if attr = 'country', get a list of all the values that appear in the column 'country'
 def all_keys(path, attr):
         ret = set()
         data = csv.DictReader(open(path),delimiter='\t')
@@ -35,7 +39,7 @@ def all_keys(path, attr):
                 ret.remove('')
         return list(ret)
 
-
+#read in tsv data file at path and return as dictionary of dictionaries, keyed by 'id'
 def read_data(path):
         ret = dict()
         data = csv.DictReader(open(path),delimiter='\t')
@@ -43,6 +47,9 @@ def read_data(path):
                 ret[d['id']] = d
         return ret
 
+#read in tsv data file at path and return as dictionary of dictionaries, keyed by 'id'
+#essentially the same as what is above, but slightly nicer format. mostly just here because
+#I was combining code from multiple files and didn't want to rework little details
 def read_table_file(path):
         ret = dict()
         data = csv.DictReader(open(path),delimiter='\t')
@@ -50,7 +57,9 @@ def read_table_file(path):
                 ret[d['id']] = {'lang':d['lang'],'country':d['country'], 'hitlang': d['hitlang'], 'survey':d['survey']}
         return ret
 
-def count_dicts(data, attr, mapname=False):
+#return a dictionary counting the number of occurances of each value of attr
+#e.g. if attr is 'country', a dictionary of {country : count}
+def count_dicts(data, attr):
         langs = dict()
         for turker in data:
                 ll = data[turker][attr].split(';')
@@ -64,6 +73,8 @@ def count_dicts(data, attr, mapname=False):
                         langs[l] += 1
         return [(l,langs[l]) for l in langs]
 
+#clean up data and return in format {id: {lang country survey}}
+#I seem to have a lot of methods to do this kind of thing...
 def get_dicts(data):
         dicts = dict()
         for d in data:
@@ -73,6 +84,7 @@ def get_dicts(data):
                 dicts[d] = {'lang': langs, 'country': ctry, 'survey':srvy}
         return dicts
 
+#maps language prefix to language name
 def reverse_lang_map(path):
         lang_data = {}
         for line in csv.DictReader(open(path)):
@@ -82,6 +94,8 @@ def reverse_lang_map(path):
                         lang_data[prefix] = re.sub('_',' ',lang)
         return lang_data
 
+#takes path of quality output file (in form id	quality_score) and returns dict of {id : score}
+#if turkers=True, id is a turker id, otherwise its an assignment id
 def all_avg_scores(path, turkers=True):
 	scores = dict()
         for line in open(path).readlines():
@@ -100,6 +114,8 @@ def all_avg_scores(path, turkers=True):
 				continue
 	return scores
 
+#given scores (a dictionary of all scores) and assign_list (a subset of ids), return the average score and 
+#95% CI for the average over the ids in assign_list
 def avg_score(assign_list, scores):
 	dist = list()
 	for a in assign_list:
@@ -111,6 +127,9 @@ def avg_score(assign_list, scores):
 	moe = math.sqrt(sv)/math.sqrt(n) * 2.576
 	return (sm, (sm - moe, sm + moe), n, moe)
 
+#return a dict of {attr: quality estimate}
+#e.g. if attr is 'country', returns something like {IN: quality estimate of IN, RU: quality estimate of RU...}
+#quality estimates are average qualities over assignments
 def conf_int_by_attr(attr):
 	ret = dict()
 	data = read_table_file('%s/byassign.voc.accepted'%OUTPUT_DIR)
@@ -126,6 +145,9 @@ def conf_int_by_attr(attr):
 	ret['avg'] = ci
 	return ret
 
+#return a dict of {attr: quality estimate}
+#e.g. if attr is 'country', returns something like {IN: quality estimate of IN, RU: quality estimate of RU...}
+#quality estimates are average qualities over turkers 
 def conf_int_by_attr_turker(attr):
         tmap = dictionaries.turker_map()
 	ret = dict()
@@ -148,6 +170,9 @@ def conf_int_by_attr_turker(attr):
 	print "n/a", ret['N/A'][2]
 	return ret
 
+#compile quality estimates by hit language, and graph the results
+#quality estimates are averages over assignments, cut is minimum number of assignments needed for a hitlang
+#to be included in the graph
 def hitlang_qual(cut=3000):
 	assigns_by_lang = dict()
 	qual_by_assign = dict()
@@ -178,6 +203,9 @@ def hitlang_qual(cut=3000):
 	qual_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
 	conf_int_graphs(sorted([(k,qual_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut)
 
+#compile quality estimates by hit language, and graph the results
+#quality estimates are averages over turkers, cut is minimum number of turkers needed for a hitlang
+#to be included in the graph
 def hitlang_qual_turker(cut=50):
         tmap = dictionaries.turker_map()
 	assigns_by_lang = dict()
@@ -211,6 +239,9 @@ def hitlang_qual_turker(cut=50):
 	qual_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
 	conf_int_graphs(sorted([(k,qual_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut)
 
+#compile exact match ratios and quality estimates by hit language, and graph the results
+#quality estimates are averages over turkers, cut is minimum number of turkers needed for a hitlang
+#to be included in the graph
 def exact_match_qual(cut=50):
         tmap = dictionaries.turker_map()
 	assigns_by_lang = dict()
@@ -261,6 +292,9 @@ def exact_match_qual(cut=50):
 	match_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
 	exact_match_graphs(sorted([(k,qual_by_lang[k],match_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut)
 
+#compile exact match ratios, google translate ratios,  and quality estimates by hit language, and graph the results
+#quality estimates are averages over turkers, cut is minimum number of turkers needed for a hitlang
+#to be included in the graph
 def goog_match_qual(cut=50):
         tmap = dictionaries.turker_map()
 	assigns_by_lang = dict()
@@ -337,6 +371,9 @@ def goog_match_qual(cut=50):
 	goog_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
 	goog_graphs(sorted([(k,qual_by_lang[k],match_by_lang[k], goog_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut)
 
+#returns a dict of {attr1: {attr2: list of assignments}}
+#e.g. if attr1 = 'country' and attr2 = 'language', returns a dict of scores keyed by assignment_id and a dictionary of form 
+#{IN : {hi: XX, ta:XX, en: XX, ...}, 'RU':{hi: XX, ta: XX, en: XX, ...}}
 def two_way_split(attr1, attr2):
 	ret = dict()
 	data = read_table_file('%s/byassign.voc.accepted'%OUTPUT_DIR)
@@ -352,6 +389,8 @@ def two_way_split(attr1, attr2):
 		ret[k] = miniret
 	return ret, scores
 
+#take the output of two_way_quality and put in form {attr : messy_tuple_of_quality_metrics} and transform into list of tuples
+#of (attr, quality) sorted by n (number of assignments or number of turkers)
 def clean_ints(data, cutoff=50, sorting=None):
 	ret = list()
 	for c in data:
@@ -361,6 +400,7 @@ def clean_ints(data, cutoff=50, sorting=None):
 	ret = sorted(ret, reverse=True) 
 	return [(c[0], c[1]) for c in ret]
 
+#stacked bar graph of proportion of exact matches and proportion of synonymn matches
 def exact_match_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):	
 	ci_dict = [c for c in all_ci_dict if c[1][2] >= cutoff]
 	yax = [c[1][0] for c in ci_dict]
@@ -381,6 +421,8 @@ def exact_match_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
 	plt.xlim([0,len(ci_dict)])
         plt.show()
 
+#stacked bar graph of proportion of exact matches and proportion of synonymn matches
+#side by side with proportion of google translate matches
 def goog_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):	
 	width = .8
 	ci_dict = [c for c in all_ci_dict if (c[1][2] >= cutoff and not(c[3] == None))]
@@ -402,9 +444,9 @@ def goog_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
 #			err3.append(c[3][3])
         xax = range(len(ci_dict))
         names = [c[0] for c in ci_dict]
-        plt.bar(xax, yax, width/2, ecolor='black',color='g')
+        plt.bar(xax, yax, width/2, ecolor='black',color='#60AFFE')
         plt.bar(xax, yax2, width/2, ecolor='black',color='b')
-        plt.bar([x+width/2 for x in xax], yax3, width/2, ecolor='black',color='r')
+        plt.bar([x+width/2 for x in xax], yax3, width/2, ecolor='black',color='g')
 #	if(graph_avg):
 #		bidx = names.index('avg')
 #		plt.bar(xax[bidx], yax[bidx], 1, color='y') 
@@ -416,6 +458,7 @@ def goog_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
 	plt.xlim([0,len(ci_dict)])
         plt.show()
 
+#bar graph with error bars
 def conf_int_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):	
 	ci_dict = [c for c in all_ci_dict if c[1][2] >= cutoff]
 	yax = [c[1][0] for c in ci_dict]
@@ -432,6 +475,7 @@ def conf_int_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
 	plt.xlim([0,len(ci_dict)])
         plt.show()
 
+#mapping of assign_id to hit_id
 def hit_map():
         lang_data = {}
         for line in csv.DictReader(open(ASSIGN_RAW)):
@@ -441,6 +485,9 @@ def hit_map():
                         lang_data[assign] = hit
         return lang_data
 
+#returns a dict of {attr1: {attr2 : quality estimate}}
+#e.g. if attrs are country and language , returns dict of form
+#{IN : {hi: XX, ta:XX, en: XX, ...}, 'RU':{hi: XX, ta: XX, en: XX, ...}}
 def two_way_quality(attr1, attr2):
 	breakdown = dict()
 	tw, scores = two_way_split(attr1, attr2)
@@ -453,6 +500,7 @@ def two_way_quality(attr1, attr2):
 					breakdown[t][tt] = s
 	return breakdown
 
+#sort the native/non native data by total number of turkers
 def sort_data(data):
 	tups = list()
 	for lang in data:
@@ -462,6 +510,7 @@ def sort_data(data):
 			tups.append((ysz+nsz, lang, data[lang]))
 	return [(t[1],t[2]) for t in sorted(tups, reverse=True)]
 
+#return dictionary of {language : {yes : quality estimate of native speakers, no : quality estimate of nonnative speakers}}
 def compare_native_speakers():
 	langs = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, 'hitlang')
 	quals = two_way_quality('hitlang','lang')
@@ -479,6 +528,7 @@ def compare_native_speakers():
 		graph_data_clean[k] = new
 	return sort_data(graph_data_clean)
 
+#side by side bar of native/non native speaker quality
 def compare_native_speakers_graph(ci_tups, title='Graph'):
 	plots = list()
         names = [c[0] for c in ci_tups]
@@ -496,11 +546,15 @@ def compare_native_speakers_graph(ci_tups, title='Graph'):
 	plt.legend(plots, ('native', 'non-native'))
         plt.show()
 
+#side by side bar of native/non native speaker quality
 def native_compare():
 	data = compare_native_speakers()
 	ttl='Translation quality for native vs. non-native speakers'
 	compare_native_speakers_graph(data, title=ttl)
 
+#dictionary of {attr: # turkers}
+#e.g. if attr is lang, dictionary is like {'hi': # hi speakers, 'ta': # ta speakers, ... }
+#recounts turkers who report multiple languages
 def count_turkers(attr):
 	counts = count_dicts(get_dicts(read_data('%s/byturker.voc.onelang'%OUTPUT_DIR)),attr)
 	mcounts = count_dicts(get_dicts(read_data('%s/byturker.voc.multlang'%OUTPUT_DIR)),attr)
@@ -517,6 +571,7 @@ def count_turkers(attr):
 			alllang[c] = onelang[c]
 	return alllang
 
+#map of country code to country name
 def reverse_cntry_map(path):
         lang_data = {}
         for line in open(path).readlines():
@@ -527,6 +582,7 @@ def reverse_cntry_map(path):
                         lang_data[code] = country
         return lang_data
 
+#scatter plot of quality against # assignments, bubbles sized by # turkers
 def quality_scatter(title='Title'):
 	points_to_label = ['VN', 'RO', 'NG', 'AM', 'DZ','RU', 'UK', 'ET', 'PK', 'IN','US','MY','MK','ES', 'ID', '100 turkers']
 	attr = 'country'
@@ -571,6 +627,7 @@ def quality_scatter(title='Title'):
         	plt.annotate(label,xy =(x,y),xytext=(20,-20),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=16)
 	plt.show()
 
+#scatter plot of # assignments against # turkers
 def assign_and_turker_plot(tuples):
         points_to_label=['ur','mk','te','ml','ro','es','pl','tl','mr','pt','hi','nl','new','ar','ru','jv','kn','ta','fr','sr']
         langmap = reverse_lang_map('%s/languages'%RAW_DIR)
@@ -597,6 +654,7 @@ def assign_and_turker_plot(tuples):
                 plt.annotate(label,xy=(x,y),xytext=(-10,10),textcoords='offset points',ha='right',va='bottom',arrowprops=arrows,fontsize=20)
         plt.show()
 
+#get dictionary of {hitlang : # assignments} which includes only accepted assignments for which the turker only reported one language
 def one_lang_assigns():
         onelang_turkers = [l['id'] for l in csv.DictReader(open('%s/byturker.voc.onelang'%OUTPUT_DIR), delimiter='\t')]
         tmap = dictionaries.turker_map()
@@ -609,9 +667,11 @@ def one_lang_assigns():
                         assigns[l] += 1
         return assigns
 
-
+#return a dictionary of {hitlang: (# assignments, # turkers)
 def assign_and_turker_table(onelang=True):
         hitlangs = dict()
+	asum = 0
+	tsum = 0
         if(onelang):
                 assigns = one_lang_assigns()
                 turkers = get_turker_dict()
@@ -620,13 +680,17 @@ def assign_and_turker_table(onelang=True):
                 turkers = get_turker_dict(onelang=False)
         for c in assigns:
                 hitlangs[c] = [assigns[c],0]
+		asum += assigns[c]
         turkers = get_turker_dict()
         for c in turkers:
                 if c not in hitlangs:
                         continue
                 hitlangs[c][1] = turkers[c]
+		tsum += turkers[c]
+	print 'assigns: %d turkers: %d'%(asum, tsum, )
         return sorted(hitlangs.iteritems(), key=operator.itemgetter(1), reverse=True)
 
+#get number of assignments per hit language in dict of {hitlang : assignment count}
 def get_assign_dict():
         assigns = dict()
         for line in csv.DictReader(open('%s/byassign.voc.accepted'%OUTPUT_DIR), delimiter='\t'):
@@ -636,6 +700,8 @@ def get_assign_dict():
                 assigns[l] += 1
         return assigns
 
+#return a dictionary of {hitlang : number of turkers} 
+#if onelang=True, consider only the turkers who self-reported one native language consistantly
 def get_turker_dict(onelang=True):
         turkers = dict()
         if(onelang):
@@ -654,6 +720,7 @@ def get_turker_dict(onelang=True):
                                 turkers[ll] += 1
         return turkers
 
+#pie chart of turkers' native languages
 def natlang_pie(tuples):
         langs = reverse_lang_map('%s/languages'%RAW_DIR)
         langs['other'] = 'Other'
@@ -670,6 +737,7 @@ def natlang_pie(tuples):
         plt.setp(texts, fontproperties=proptease)
         plt.show()
 
+#return statistics on turkers' native languages as a list of (language, count) tuples
 def natlang_table():
         natlangs = dict()
         for line in csv.DictReader(open('%s/byturker.voc.onelang'%OUTPUT_DIR), delimiter='\t'):
@@ -682,6 +750,7 @@ def natlang_table():
                         natlangs[lang] += 1
         return sorted(natlangs.iteritems(), key=operator.itemgetter(1), reverse=True)
 
+#group language counts less than 20 into an 'other' category
 def clean_tuples(tuples):
         clean = list()
         other = 0
@@ -693,6 +762,7 @@ def clean_tuples(tuples):
         clean.append(('other', other))
         return clean
 
+#print by-language statistics as an ugly latex table
 def pie_chart_table(tups):
         tot = 0
         langmap = reverse_lang_map('%s/languages'%RAW_DIR)
@@ -708,6 +778,7 @@ def pie_chart_table(tups):
         print '\\end{tabular}'
         print '\\end{figure}'
 
+#print out country counts in format to be pasted into html file for geomap
 def print_data_for_map():
         COUNTRIES = 'ref/countrycodemap'
         countries = dict()
