@@ -173,7 +173,7 @@ German&66&	Turkish&35&	Others &$\leq$20\\
 \hline\hline
 \end{tabular}
 \normalsize
-\caption{Self-reported native language of 3,154 bilingual Turkers. Not shown are 54 languages with $\leq$20 speakers . 
+\caption{Self-reported native language of 3,154 bilingual Turkers. Not shown are 54 languages with $\leq$20 speakers. 
 %(for a total of 423 remaining speakers).  
 We omit 1,801 Turkers did not report their native language, 243 who reported 2 native languages, and 83 who reported $\geq$3 native languages.}\label{lang-pie}
 \end{table}
@@ -292,10 +292,15 @@ Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we rendered the word
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\paragraph{Performance within region}
+\paragraph{Language skills and location}
 
-We measured the average quality of workers who were in countries that plausibly speak a language, versus workers from countries that did not have large speaker populations of that language.  We used the Ethnologue \cite{ethnologue} to compile the list of countries for each language.  Table \ref{language-regions} reports the average translation quality of Turkers in countries with plausibly large speaker populations of each language, compared to the average quality of Turkers from outside the expected region for that language. 
+We measured the average quality of workers who were in countries that plausibly speak a language, versus workers from countries that did not have large speaker populations of that language.  We used the Ethnologue \cite{ethnologue} to compile the list of countries where each language is spoken.  Table \ref{language-regions} compares the average translation quality of Turkers within the region of each language, and compares it to the quality of Turkers outside that region.  
 
+Todo - overall, outliers, languages which are spoken everywhere. US workers get categorized into YY languages. 
+
+
+\paragraph{Natives v. non-natives}
+Todo - analyze the translation quality of natives v. non-natives.  Ideally we would plot average translation quality versus years speaking English.  Two lines: one line for native speakers of the source language, one line for non-native speakers of the target language.  We could average over all languages, and the points should show std-dev whiskers.
 
 Other questions:
 \begin{itemize}
@@ -358,6 +363,7 @@ Figure \ref{ass-scatter} shows the volume of HITs completed and the number of wo
 The primary challenge of using crowdsourced language data is the widely variable quality of the collected annotations. While it is possible to strengthen the signal by collecting redundant labels, this strategy becomes difficult in practice for more complex data annotation. In the case of translation, low quality translations may have a high level of agreement (for example, when many workers use google translate) while high quality, even professional translations, can be expected to vary significantly.
  
 In order to address the quality of the translations we received on the dictionary task, we constructed a pipeline in which the output of the translation HIT was reviewed by humans in a second evaluation HIT, described above. We quantified the quality of each translation assignment based on the output of the evaluation HIT. The quality of an assignment was scored as the fraction of known words which were acceptably translated: i.e, the supplied translation was judged to be synonymous with the gold standard translation. Since most assignments had two known words embedded, most assignments had scores of either 0, 0.5, or 1.
+
 
 
 %%%%%%%%%%%%%%% MISREPORT TABLE %%%%%%%%%%%
