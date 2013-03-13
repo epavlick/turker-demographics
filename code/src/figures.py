@@ -14,7 +14,6 @@ from scipy import stats
 from scipy.stats import norm
 import matplotlib.pyplot as plt
 from matplotlib import font_manager as fm
-#plt.use('PDF')
 
 QC = '' #'.related'
 OUTPUT_DIR = 'output'
@@ -107,13 +106,11 @@ def all_avg_scores(path, turkers=True):
 			try:
 				scores[l[0]] = float(l[1].strip())
 			except:
-				print line
 				continue
 		else:
 			try:
 				scores[l[0]] = float(l[3].strip())
 			except:
-				print line
 				continue
 	return scores
 
@@ -225,7 +222,6 @@ def hitlang_qual_turker(cut=50):
 		q = line['avg']
 		qual_by_assign[aid] = q
 	for l in assigns_by_lang.keys():
-		print l
 		qual = list()
 		for a in assigns_by_lang[l]:
 			if a not in qual_by_assign:
@@ -268,7 +264,6 @@ def exact_match_qual(cut=50):
 		q = line['avg']
 		match_by_assign[aid] = q
 	for l in assigns_by_lang.keys():
-		print l
 		qual = list()
 		match = list()
 		for a in assigns_by_lang[l]:
@@ -328,7 +323,6 @@ def goog_match_qual(cut=50):
 		q = line['avg']
 		goog_by_assign[aid] = q
 	for l in assigns_by_lang.keys():
-		print l,
 		qual = list()
 		match = list()
 		goog = list()
@@ -494,6 +488,8 @@ def hit_map():
 def two_way_quality(attr1, attr2):
 	breakdown = dict()
 	tw, scores = two_way_split(attr1, attr2)
+	print scores
+	return
 	for t in tw:
 		breakdown[t] = dict()
 		for tt in tw[t]:
@@ -517,11 +513,13 @@ def sort_data(data):
 def compare_native_speakers():
 	langs = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, 'hitlang')
 	quals = two_way_quality('hitlang','lang')
+	return
 	graph_data = dict()	
 	graph_data_clean = dict()	
 	for l in langs:
 		graph_data[l] = clean_ints(quals[l])
 	for k in graph_data:
+		print k, graph_data[k]
 		new = dict()
 		for i in graph_data[k]:
 			if i[0] == k:
@@ -529,6 +527,7 @@ def compare_native_speakers():
 			elif i[0] == 'en':
 				new['no'] = i[1]
 		graph_data_clean[k] = new
+	return
 	return sort_data(graph_data_clean)
 
 #side by side bar of native/non native speaker quality

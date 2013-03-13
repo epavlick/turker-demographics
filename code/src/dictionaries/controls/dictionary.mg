@@ -1,0 +1,12 @@
+aratra	electricity
+varatra	thunder
+vatana	body
+sakafo	food
+hatetika	frequency
+ranomandry	ice
+maratra	injury
+bronchiolite	bronchiolitis
+teny	word
+marary	disease
+mari-piatoana	punctuation
+biby	animal

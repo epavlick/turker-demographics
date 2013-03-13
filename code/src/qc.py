@@ -6,7 +6,7 @@ import itertools
 import dictionaries
 import compile_data_from_raw as dat
 
-RAW_DIR = '../data/dictionary-data-dump-2012-11-13_15:11/'
+RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11'
 OUTPUT_DIR = 'output'
 
 goog_langs = ['el', 'eo', 'zh', 'af', 'vi', 'is', 'it', 'kn', 'cs', 'cy', 'ar', 'eu', 'et', 'gl', 'id', 'es', 'ru', 'az', 'nl', 'pt', 'tr', 'lv', 'lt', 'th', 'gu', 'ro', 'ca', 'pl', 'ta', 'fr', 'bg', 'ms', 'hr', 'de', 'da', 'fa', 'fi', 'hy', 'hu', 'ja', 'he', 'te', 'sr', 'sq', 'ko', 'sv', 'ur', 'sk', 'uk', 'sl', 'sw']
@@ -35,13 +35,18 @@ def qual_map(path):
         return qual_data
 
 #map of word id to word
-def word_map():
+def word_map(lang=False):
 	words = dict()
         for line in csv.DictReader(open('%s/dictionary'%RAW_DIR)):
 		wid = line['id']
+		lang = line['language_id']
 		word = line['translation'].strip().lower()
 		if wid not in words:
-			words[wid] = word
+			if lang:
+				orig = line['word'].strip().lower()
+				words[wid] = (word, orig, lang)
+			else:
+				words[wid] = word
 	return words
 
 #map of pair id to word pair
@@ -93,6 +98,29 @@ def read_all_syns(filter_list=None, use_related=True, exact_match_only=False):
 			if(not(exact_match_only)):
 				syns[syn].add(pair[0].strip().lower())
 	return syns
+
+#get a dictionary of word: list of acceptable synonyms. filter list of assignment ids used to restrict list of synonyms to come only from certain assignments
+def write_all_syns():
+        words = word_map(lang=True)
+        data = {}
+	syns = dict()
+	numlangmap, langmap = dat.lang_map()
+        for word_id in words: 
+		word, orig, lang = words[word_id]
+		lang = numlangmap[lang]
+                if lang not in syns:
+			syns[lang] = list()
+		syns[lang].append((orig,word))
+	write_control_dicts(syns)
+
+def write_control_dicts(data, file_prefix='controls/dictionary'):
+        for lang in data:
+                print lang
+                dictfile = open('%s.%s'%(file_prefix,lang,), 'w')
+                for word, trans in data[lang]:
+                        dictfile.write('%s\t%s\n'%(word,trans,))
+                dictfile.close()
+
 
 #returns list of syn HIT assignments which passed their controls
 #is_control=1 - synonyms control - yes, is_control=2 - non-synonyms control - no
@@ -288,6 +316,8 @@ if __name__ == '__main__':
 	if sys.argv[1] == 'goog':
 		write_avg_quals(get_goog_match_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.googmatch'%OUTPUT_DIR)
 		googmatch_by_turker('%s/byturker.googmatch'%OUTPUT_DIR,'%s/byassign.googmatch'%OUTPUT_DIR)
+	if sys.argv[1] == 'controls':
+		write_all_syns()
 
 
 

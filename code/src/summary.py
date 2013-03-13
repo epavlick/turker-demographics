@@ -8,7 +8,7 @@ from matplotlib import font_manager as fm
 import string
 
 COUNTRIES = 'ref/countrycodemap'
-RAW_DIR = '../data/dictionary-data-dump-2012-11-13_15:11/'
+RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11'
 DICT_DIR = 'dictionaries'
 
 def reverse_lang_map(path):
@@ -94,8 +94,11 @@ def summary_table_condensed():
 		numout = int(d[1])
 		cstring = ''
 		nstring = ''
-		all_countries = [pp for pp in sorted(cbreakdown[lang], key=operator.itemgetter(1), reverse=True)] #if not (pp[0] == 'N/A')]
-		all_noncountries = [pp for pp in sorted(nbreakdown[lang], key=operator.itemgetter(1), reverse=True)] # if not (pp[0] == 'N/A')]
+		try:
+			all_countries = [pp for pp in sorted(cbreakdown[lang], key=operator.itemgetter(1), reverse=True)] #if not (pp[0] == 'N/A')]
+			all_noncountries = [pp for pp in sorted(nbreakdown[lang], key=operator.itemgetter(1), reverse=True)] # if not (pp[0] == 'N/A')]
+		except:
+			continue
 		for p in all_countries[:3]:
 			cstring += '%s (%d) '%(countries[p[0]],p[1],)
 		for p in all_noncountries[:3]:

@@ -7,6 +7,7 @@ import codecs
 import os.path
 import operator
 import itertools
+from scipy import stats
 import compile_data_from_raw as dat
 
 RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11/'
@@ -171,7 +172,7 @@ def avg_score(assign_list, scores):
 
 def turker_qual_map():
         qual_data = {}
-        for line in open('%s/byturker.voc.quality'%OUTPUT_DIR).readlines():
+        for line in open('%s/byturker.voc.quality'%OUTPUT_DIR).readlines()[1:]:
                 assign, qual = line.split()
                 if(assign not in qual_data):
                         qual_data[assign] = float(qual)
@@ -361,25 +362,36 @@ def get_language_dicts_quals(path, qual_cutoff=None, strict=False, filter_list=N
 		all_dicts[alang]['denom'] += 1
 	return all_dicts
 
-def get_language_dicts(path, qual_cutoff=None, strict=False, filter_list=None):
+def get_language_dicts(path, qual_cutoff=None, strict=False, filter_list=None, match=True):
 	all_dicts = dict()
+	tmap = turker_map()
 	hitmap = hit_map()
 	langids, langcodes = dat.lang_map()
         hitlangs = dat.hits_language()
 	quals = qual_map()
-	for assign in open(path).readlines():
+	tquals = turker_qual_map()
+	filtered = 0
+	for cnt, assign in enumerate(open(path).readlines()):
 		comps = assign.strip().split('\t')
 		aid = comps[0]
-		if(aid == ''):
+		if cnt%1000 == 0:
+			print aid
+		if(aid == ''): # or aid not in tmap):
 			continue
-		if aid not in quals:
+		#if match, filter_list is list of assignments to include, otherwise, filter_list is list of assignments to skip
+		if(match):
+			list_pass = not(filter_list == None) and (aid not in filter_list)
+		else:
+			list_pass = not(filter_list == None) and (aid in filter_list)
+		if(list_pass):
+			filtered += 1
 			continue
-		if(not(filter_list == None) and (aid in filter_list)):
-			continue
-		if(not(qual_cutoff == None) and strict and (quals[aid] == 'N/A' or quals[aid] <= qual_cutoff)):
-			print 'below cutoff', aid, quals[aid]
-			continue
-		if(not(qual_cutoff == None) and not(strict) and (quals[aid] == 'N/A' or quals[aid] < qual_cutoff)):
+		#if strict, assignments must be greater than qual_cutoff to pass, otherwise, can be greater or equal to qual_cutoff
+		if(strict):
+			qual_pass = not(qual_cutoff == None) and (quals[aid] == 'N/A' or quals[aid] <= qual_cutoff)
+		else:
+			qual_pass = not(qual_cutoff == None) and (quals[aid] == 'N/A' or quals[aid] < qual_cutoff)
+		if(qual_pass):
 			print 'below cutoff', aid, quals[aid]
 			continue
 		alang =  langids[hitlangs[hitmap[aid]]]
@@ -397,6 +409,7 @@ def get_language_dicts(path, qual_cutoff=None, strict=False, filter_list=None):
 					all_dicts[alang][word] = [trans.strip().lower()]
 				else:
 					all_dicts[alang][word].append(trans.strip().lower())
+	print 'FILTERED %d ASSIGNMENTS'%filtered
 	return all_dicts
 
 def write_dicts_quals(data, filename='quals'):
@@ -443,18 +456,56 @@ def id_list(path):
 		idlist.append(line['id'].strip())
 	return idlist
 
+#clpair.numturkers  clpair.turkerqual  nonclpair.numturkers  nonclpair.turkerqual
+def meta_data():
+	totin = 0
+	totout = 0
+	inqual = 0
+	outqual = 0
+	indist = list()
+	outdist = list()
+	for count, qual in zip(open('%s/clpair.numturkers'%DICT_DIR).readlines(), open('%s/clpair.turkerqual'%DICT_DIR).readlines()):
+		lang, num = count.strip().split('\t')
+		lang, score = qual.strip().split('\t')
+		num = int(float(num.strip()))
+		score = float(score.strip())
+		indist += [score] * num
+		totin += num
+		inqual += (num*score)		
+	for count, qual in zip(open('%s/nonclpair.numturkers'%DICT_DIR).readlines(), open('%s/nonclpair.turkerqual'%DICT_DIR).readlines()):
+		lang, num = count.strip().split('\t')
+		lang, score = qual.strip().split('\t')
+		num = int(float(num.strip()))
+		score = float(score.strip())
+		outdist += [score] * num
+		totout += num
+		outqual += (num*score)		
+	i_n, (i_min, i_max), i_m, i_v, i_s, i_k = stats.describe(indist)
+        i_moe = math.sqrt(i_v)/math.sqrt(i_n) * 2.576
+	o_n, (o_mon, o_max), o_m, o_v, o_s, o_k = stats.describe(outdist)
+        o_moe = math.sqrt(o_v)/math.sqrt(o_n) * 2.576
+        print 'In region: %d Turkers, Avg. score %0.3f (%0.3f, %.03f)'%(i_n, i_m, i_m - i_moe, i_m + i_moe)
+        print 'Out of region: %d Turkers, Avg. score %0.3f (%0.3f, %.03f)'%(o_n, o_m, o_m - o_moe, o_m + o_moe)
+#	print 'Number of Turkers in region: %d' % totin
+#	print 'Number of Turkers out of region: %d' % totout
+#	print 'Avg. score of Turkers in region: %.03f' %(float(inqual) / totin)
+#	print 'Avg. score of Turkers out of region: %.03f' %(float(outqual) / totout)
+
 if __name__ == '__main__':
 	
 	if(len(sys.argv) < 2):
 		print '---USAGE---' 
-		print 'full_data: NOT DEBUGGED' 
-		print 'by_region: compare in-region and out-of-region dictionaries' 
+	#	print 'full_data: NOT DEBUGGED' 
+	#	print 'by_region: compare in-region and out-of-region dictionaries' 
+		print 'choose either (if neither, run for all):' 
 		print '\tmatch: run for in-region (default)' 
 		print '\tnonmatch: run for out-of-region' 
+		print 'choose one of:' 
 		print '\tdictionaries: compile word-to-word dictionaries' 
-		print '\tdict_qual: estimate quality of dictionaries' 
+		#print '\tdict_qual: estimate quality of dictionaries' 
 		print '\tturker_qual: estimate quality of workers' 
 		print '\tturker_counts: get counts of workers' 
+		print '\tmeta_stats: get overall in/out region stats' 
 		exit(0)
 
 	#check if raw translation files have alread been processed. if not, process them	
@@ -469,65 +520,52 @@ if __name__ == '__main__':
 		exit(0)
 	
 	#extract data by cl pairs
-	if('by_region' in sys.argv):	
-		if not os.path.exists('%s/byassign.voc.validclpair'%OUTPUT_DIR):
-			write_valid_clpairs()
-		if not os.path.exists('%s/byassign.voc.invalidclpair'%OUTPUT_DIR):
-			write_invalid_clpairs()
-		if('nonmatch' in sys.argv):
-			base='%s/nonclpair'%DICT_DIR
-			mtch = True #False
-			clpairs = [l.strip() for l in open('%s/byassign.voc.invalidclpair'%OUTPUT_DIR).readlines()]
-		elif('match' in sys.argv):
-			base='%s/clpair'%DICT_DIR
-			mtch = True
-			clpairs = [l.strip() for l in open('%s/byassign.voc.validclpair'%OUTPUT_DIR).readlines()]
-		if('dictionaries' in sys.argv):
-			print "NOT DEBUGGED"
-			exit(0)
-			prefix='%s/dictionary'%base
-			dicts = get_language_dicts(DICT_PATH, qual_cutoff=0, strict=False, filter_list=clpairs)
-			write_dicts(dicts, file_prefix=prefix)
-		if('dict_qual' in sys.argv):
-			print "NOT DEBUGGED"
-			exit(0)
-			prefix='%s.qual'%base
-			dicts = get_language_dicts_quals(DICT_PATH, qual_cutoff=0, strict=False, filter_list=clpairs)
-			write_dicts_quals(dicts, file_prefix=prefix) 
-		if('turker_qual' in sys.argv):
-			print "Estimating turker quality by language"
-			prefix='%s.turkerqual'%base
-			dicts = get_language_dicts_quals_turkers(DICT_PATH, qual_cutoff=0, strict=False,  filter_list=clpairs, match=mtch)
-			write_dicts_quals(dicts, filename=prefix)
-		if('turker_counts' in sys.argv):
-			print "Counting number of turkers per language"
-			prefix='%s.numturkers'%base
-			tdata = count_turkers(DICT_PATH, qual_cutoff=0, strict=False,  filter_list=clpairs, match=mtch)
-			write_dicts_turkers(tdata, filename=prefix)
-			prefix='%s.turkerlist'%base
-			tdatav = count_turkers_verbose(DICT_PATH, qual_cutoff=0, strict=False,  filter_list=clpairs, match=mtch)
-			write_turker_lists(tdatav, prefix)
-
+#	if('by_region' in sys.argv):	
+	if not os.path.exists('%s/byassign.voc.validclpair'%OUTPUT_DIR):
+		write_valid_clpairs()
+	if not os.path.exists('%s/byassign.voc.invalidclpair'%OUTPUT_DIR):
+		write_invalid_clpairs()
+	if('nonmatch' in sys.argv):
+		base='%s/nonclpair'%DICT_DIR
+		mtch = True #False
+		clpairs = [l.strip() for l in open('%s/byassign.voc.invalidclpair'%OUTPUT_DIR).readlines()]
+	elif('match' in sys.argv):
+		base='%s/clpair'%DICT_DIR
+		mtch = True
+		clpairs = [l.strip() for l in open('%s/byassign.voc.validclpair'%OUTPUT_DIR).readlines()]
+	else:
+		base='%s/all'%DICT_DIR
+		mtch = True
+		valid = [l.strip() for l in open('%s/byassign.voc.validclpair'%OUTPUT_DIR).readlines()]
+		invalid = [l.strip() for l in open('%s/byassign.voc.invalidclpair'%OUTPUT_DIR).readlines()]
+		clpairs = valid + invalid
+	if('dictionaries' in sys.argv):
+		prefix='%s/dictionary'%base
+		print 'writing data to %s'%prefix
+		dicts = get_language_dicts(DICT_PATH, qual_cutoff=0, strict=False, filter_list=clpairs)
+		write_dicts(dicts, file_prefix=prefix)
+	if('dict_qual' in sys.argv):
+		print "NOT DEBUGGED"
+		exit(0)
+		prefix='%s.qual'%base
+		dicts = get_language_dicts_quals(DICT_PATH, qual_cutoff=0, strict=False, filter_list=clpairs)
+		write_dicts_quals(dicts, file_prefix=prefix) 
+	if('turker_qual' in sys.argv):
+		print "Estimating turker quality by language"
+		prefix='%s.turkerqual'%base
+		dicts = get_language_dicts_quals_turkers(DICT_PATH, qual_cutoff=0, strict=False,  filter_list=clpairs, match=mtch)
+		write_dicts_quals(dicts, filename=prefix)
+	if('turker_counts' in sys.argv):
+		print "Counting number of turkers per language"
+		prefix='%s.numturkers'%base
+		tdata = count_turkers(DICT_PATH, qual_cutoff=0, strict=False,  filter_list=clpairs, match=mtch)
+		write_dicts_turkers(tdata, filename=prefix)
+		prefix='%s.turkerlist'%base
+		tdatav = count_turkers_verbose(DICT_PATH, qual_cutoff=0, strict=False,  filter_list=clpairs, match=mtch)
+		write_turker_lists(tdatav, prefix)
+	if('meta_stats' in sys.argv):
+		print "Overall statistics for in and out of region turkers"
+		meta_data()
 
 #	langlist = yrs_list(5)
 #	write_dicts(get_language_dicts(DICT_PATH, qual_cutoff=0, strict=False, filter_list=langlist), file_prefix='dictionaries/yrs/dictionary')
-#	write_dicts(get_language_dicts(DICT_PATH, qual_cutoff=0, strict=False), file_prefix='filtered-dicts/all/dictionary')
-#	write_dicts(get_language_dicts(DICT_PATH, qual_cutoff=0, strict=True), file_prefix='filtered-dicts/above0/dictionary')
-#	write_dicts(get_language_dicts(DICT_PATH, qual_cutoff=0.5, strict=True), file_prefix='filtered-dicts/above0.5/dictionary')
-
-
-#	write_dicts_quals(get_language_dicts_quals(DICT_PATH, qual_cutoff=0, strict=False,  filter_list=langlist), filename='dictionaries/yrs.qual')
-
-
-#	write_dicts_quals(get_language_dicts_quals(DICT_PATH, qual_cutoff=0, strict=False), filename='related.qual.all')
-#	write_dicts_quals(get_language_dicts_quals(DICT_PATH, qual_cutoff=0, strict=True), filename='related.qual.above0')
-#	write_dicts_quals(get_language_dicts_quals(DICT_PATH, qual_cutoff=0.5, strict=True), filename='related.qual.above0.5')
-
-#	write_dicts_turkers(count_turkers(DICT_PATH, qual_cutoff=0, strict=False,  filter_list=langlist), filename='dictionaries/yrs.numturkers')
-#	write_dicts_turkers(count_turkers(DICT_PATH, qual_cutoff=0, strict=False), filename='filtered.numturkers.all')
-#	write_dicts_turkers(count_turkers(DICT_PATH, qual_cutoff=0, strict=True), filename='filtered.numturkers.above0')
-#	write_dicts_turkers(count_turkers(DICT_PATH, qual_cutoff=0.5, strict=True), filename='filtered.numturkers.above0.5')
-
-
-
-
