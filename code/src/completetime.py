@@ -36,6 +36,7 @@ def get_language_dicts(path, filter_list=None):
 	return all_dicts
 
 def time_map():
+	print "Reading data"
 	tdict = dict()
 	for line in open('%s/byassign.times'%OUTPUT_DIR).readlines():
 		aid, start, end = line.split('\t')
@@ -58,14 +59,15 @@ def get_total_time(data):
 		print '%s\t%s'%(lang[0], str(lang[1][1] - lang[1][0]))
 
 def format_for_graph(data):
+	print "Formatting data"
 	ret = list()
 	mindate = None
-	for l in data: 
+	for l in data.keys(): 
 		lang = data[l]	
 		begin = lang[0]
 		if(mindate == None or begin < mindate):
 			mindate = begin
-	for l in data:
+	for l in data.keys():
 		lang = data[l]	
 		complete = lang[1] - lang[0]
 		start = lang[0] - mindate
@@ -87,6 +89,7 @@ def time_bar(data):
         plt.show()
 
 def format_for_time_series(data):
+	print "More formatting data"
 	hitmap = dictionaries.hit_map()
 	langids, langcodes = dat.lang_map()
         hitlangs = dat.hits_language()
@@ -96,7 +99,10 @@ def format_for_time_series(data):
 		if lang not in all_times:
 			all_times[lang] = list()
 		all_times[lang].append(total)
-	all_times.pop('en')
+	try:
+		all_times.pop('en')
+	except KeyError:
+		pass
 	return all_times
 
 def time_series(data, num=40):
@@ -119,6 +125,32 @@ def time_series(data, num=40):
         plt.xlabel('Time in days')
 	plt.show()
 
+def fancy_time_series(data, num=40):
+	SEC_PER_DAY = 86400
+	x = list()
+	y = list()
+	names = list()
+	sort_order = [t[0] for t in sorted(data.iteritems(), key=lambda t : max(t[1]))]
+	print sort_order
+	for i,lang in enumerate(sort_order[:num]):
+		names.append(lang)
+		x += [t.total_seconds() for t in data[lang]]
+		y += [5+(i*5)]*len(data[lang])
+	tot = len(y)
+	for i, (xx, yy) in enumerate(zip(x,y)):
+		if i % 1000 == 0: print (float(i)/tot) , xx, yy
+		plt.plot([xx, xx], [yy, yy+1], color = 'b')
+#	plt.scatter(x,y,marker='|')
+	plt.xlim([0,max(x)+5])
+	plt.ylim([0,max(y)+5])
+        plt.yticks(sorted(list(set(y))), tuple(names))
+	xmax = int(math.ceil(max(x)))
+	max_days = int(math.ceil(max(x)/SEC_PER_DAY))
+        plt.xticks(range(0,xmax,5*SEC_PER_DAY), range(0,max_days,5))
+        plt.xlabel('Time in days')
+	plt.savefig('completetime.pdf')
+	#plt.show()
+
 if __name__ == '__main__':
 	if(len(sys.argv) < 2 or sys.argv[1] == 'help'):
                 print '---USAGE---'
@@ -133,6 +165,7 @@ if __name__ == '__main__':
         if(do == 'bar'):
 		time_bar(format_for_graph(get_language_dicts('%s/byassign.voc.accepted'%OUTPUT_DIR)))
         if(do == 'series'):
-		time_series(format_for_time_series(format_for_graph(time_map())))
+		#time_series(format_for_time_series(format_for_graph(time_map())))
+		fancy_time_series(format_for_time_series(format_for_graph(time_map())), num=40)
 
 

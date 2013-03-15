@@ -42,7 +42,7 @@
 
 \begin{abstract}
 We present a large scale study of the languages spoken by bilingual workers on Mechanical Turk (MTurk).  
-We establish a  methodology for determining the language skills of anonymous crowd workers that is more robust than simple surveying.  We validate workers' self-reported language skill claims by measuring their ability to correctly translate words, and by geolocating workers to see if they reside in countries where the languages are likely to be spoken. Rather than posting a one-off survey, we posted paid tasks consisting of 1,000 assignments to translate a total of 10,000 words in each of 119 languages.  Our study ran for weeks, and was highly visible on the MTurk crowdsourcing platform, increasing the chances that bilinguals workers would complete it.  Our study was useful both to create bilingual dictionaries and to act as census of the bilingual speakers on MTurk.  We use this data to recommend languages with the largest speaker populations as good candidates for other researchers who want to  develop crowdsourced, multilingual technologies.
+We establish a  methodology for determining the language skills of anonymous crowd workers that is more robust than simple surveying.  We validate workers' self-reported language skill claims by measuring their ability to correctly translate words, and by geolocating workers to see if they reside in countries where the languages are likely to be spoken. Rather than posting a one-off survey, we posted paid tasks consisting of 1,000 assignments to translate a total of 10,000 words in each of 119 languages.  Our study ran for several weeks, and was highly visible on the MTurk crowdsourcing platform, increasing the chances that bilinguals workers would complete it.  Our study was useful both to create bilingual dictionaries and to act as census of the bilingual speakers on MTurk.  We use this data to recommend languages with the largest speaker populations as good candidates for other researchers who want to  develop crowdsourced, multilingual technologies.
 
 \end{abstract}
 
@@ -69,7 +69,7 @@ How often do workers misrepresent their language abilities to obtain financial r
 \begin{figure*}[h]
 \centering
 \includegraphics[width=\linewidth]{figures/turkermap-color-cropped}
-\caption{The number of workers per country.  This map was generated based on geolocating the IP address of  5,284 workers in our study.  The size of the circles represents the number of worker from each country.  The two largest are India (2,022 workers) and the United States (904).  To calibrate the sizes: the Philippines has 147 workers, Egypt has 25, Russia has 10, and Sri Lanka has 4.}
+\caption{The number of workers per country.  This map was generated based on geolocating the IP address of  5,284 workers in our study.  The size of the circles represents the number of workers from each country.  The two largest are India (2,022 workers) and the United States (904).  To calibrate the sizes: the Philippines has 147 workers, Egypt has 25, Russia has 10, and Sri Lanka has 4.}
 \label{map}
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -86,7 +86,7 @@ On MTurk, researchers who need work completed are called `Requesters', and worke
 Several reports examine Mechanical Turk as an economic market \cite{ipeirotis:2010:marketplace,lehdonvirta-ernkvist:2011}.  When Amazon introduced MTurk, it first offered payment only in Amazon credits, and later offered direct payment in US dollars. More recently, it has expanded to include one foreign currency, the Indian rupee. Despite its payments being limited to two currencies or Amazon credits, MTurk claims over half a million workers from 190 countries \cite{AmazonRequesterTour}.  This suggests that its worker population should represent a diverse set of languages.
 
 A demographic study by \newcite{ipeirotis:2010:demographics} focused on age, gender, martial status, income levels, motivation for working on MTurk, and whether workers used it as a primary or supplemental form of income.  The study contrasted Indian and US workers. \newcite{Ross2010} completed a longitudinal follow-on study. 
-A number of other studies have informally investigated Turkers' language abilities.  \newcite{munro-tily:2011} compiled survey responses of 2,000 Turkers, revealing that four of the six most represented languages come from India (the top six being Hindi, Malayalam, Tamil, Spanish, French, and Telugu).  \newcite{irvine:10} had Turkers evaluate the accuracy of translations that had been automatically inducted from monolingual texts.  They examined translations of 100 words in 42 low-resource languages, reported geolocated countries for their workers (India, the US, Romania, Pakistan, Macedonia, Latvia, Bangladesh and the Philippines).  Irvine and Klementiev discussed the difficulty of quality control and assessing the plausibility of workers' language skills for rare languages, which we address in this paper. 
+A number of other studies have informally investigated Turkers' language abilities.  \newcite{munro-tily:2011} compiled survey responses of 2,000 Turkers, revealing that four of the six most represented languages come from India (the top six being Hindi, Malayalam, Tamil, Spanish, French, and Telugu).  \newcite{irvine:10} had Turkers evaluate the accuracy of translations that had been automatically inducted from monolingual texts.  They examined translations of 100 words in 42 low-resource languages, and reported geolocated countries for their workers (India, the US, Romania, Pakistan, Macedonia, Latvia, Bangladesh and the Philippines).  Irvine and Klementiev discussed the difficulty of quality control and assessing the plausibility of workers' language skills for rare languages, which we address in this paper. 
 
 Several researchers have investigated using MTurk to build parallel corpora for machine translation, a task which stands to benefit low cost, high volume  translation on demand \cite{Germann2001}.  \newcite{ambati_act} conducted a pilot study by posting 25 sentences to MTurk for Spanish, Chinese, Hindi, Telugu, Urdu, and Haitian Creole.  In a study of 2000 Urdu sentences, 
 \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} presented methods for achieving professional-level translation quality from Turkers by soliciting multiple English translations of each foreign sentence. 
@@ -175,7 +175,7 @@ German&66&	Turkish&35&	Others &$\leq$20\\
 \normalsize
 \caption{Self-reported native language of 3,154 bilingual Turkers. Not shown are 54 languages with $\leq$20 speakers. 
 %(for a total of 423 remaining speakers).  
-We omit 1,801 Turkers did not report their native language, 243 who reported 2 native languages, and 83 who reported $\geq$3 native languages.}\label{lang-pie}
+We omit 1,801 Turkers who did not report their native language, 243 who reported 2 native languages, and 83 who reported $\geq$3 native languages.}\label{lang-pie}
 \end{table}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -203,7 +203,7 @@ We automatically collected each worker's current location by geolocating their I
 
 \paragraph{Selection of languages}
 
-We drew our data from the different language versions of Wikipedia.   We selected the 100 languages with the largest number of articles,\footnote{\url{http://meta.wikimedia.org/wiki/List_of_Wikipedias}} and then selected an additional 19 languages low resource languages with $<$10,000 articles, giving a total of 119 languages (Table \ref{wikipedia-buckets}). For each language, we chose the 1,000 most viewed articles over a 1 year period,\footnote{\url{http://dumps.wikimedia.org/other/pagecounts-raw/}} and extracted the 10,000 most frequent words from them. The resulting vocabularies served as the input to our translation HIT.
+We drew our data from the different language versions of Wikipedia.   We selected the 100 languages with the largest number of articles,\footnote{\url{http://meta.wikimedia.org/wiki/List_of_Wikipedias}} and then selected an additional 19 low resource languages with $<$10,000 articles, giving a total of 119 languages (Table \ref{wikipedia-buckets}). For each language, we chose the 1,000 most viewed articles over a 1 year period,\footnote{\url{http://dumps.wikimedia.org/other/pagecounts-raw/}} and extracted the 10,000 most frequent words from each. The resulting vocabularies served as the input to our translation HIT.
 
 % Todo: sort by language code, rebalance the bottom set to have 19 languages in it.
 \begin{table}[h]
@@ -242,11 +242,11 @@ The task paid \$0.15 for the translation of 10 words.
 Each set of 10 words was independently translated by three separate workers.  5,281 workers completed 308,079 translations assignments, totaling more than 3 million words, over a period of three and a half months.
 
 \paragraph{Gold standard translations} 
-A set of gold standard translations were automatically harvested from Wikipedia  for every language to use as embedded controls. We used Wikipedia's inter-language links to pair titles of English articles with their corresponding foreign articles title.  To get a more translatable set of pairs, we excluded any pairs where: (1) the English word was not present in the WordNet ontology  \cite{miller1995wordnet}, (2) either article title was longer than a single word, (3) the English wikipedia page was a subcategory of person or place, or (4) the English and the foreign titles were identical or a substring of the other.
+A set of gold standard translations were automatically harvested from Wikipedia  for every language to use as embedded controls. We used Wikipedia's inter-language links to pair titles of English articles with their corresponding foreign article's title.  To get a more translatable set of pairs, we excluded any pairs where: (1) the English word was not present in the WordNet ontology  \cite{miller1995wordnet}, (2) either article title was longer than a single word, (3) the English wikipedia page was a subcategory of person or place, or (4) the English and the foreign titles were identical or a substring of the other.
 
 \paragraph{Manual evaluation of non-identical translations}
 We counted all translations that exactly matched the gold standard translation as correct.  For non-exact matches we created a second-pass quality assurance HIT.  
-Turkers were shown a pair of English words, one of which was a Turker's translation of the foreign word used for quality control, and the other was the gold-standard translation the foreign word. Evaluators were asked whether the two words had the same meaning, and chose between three answers: `Yes', `No', or `Related but not synonymous.'  Examples of meaning equivalent pairs include: $<${\it petroglyphs, rock paintings}$>$, $<${\it demo, show}$>$ and  $<${\it loam, loam: soil rich in decaying matter}$>$.  Non-meaning equivalents included: $<${\it assorted, minutes}$>$, and $<${\it major,} URL of image$>$.  Related items were things like $<${\it sky, clouds}$>$. Misspellings like $<${\it lactation, lactiation} $>$ were judged to have same meaning, and were marked as misspelled.   3 separate Turkers judged each pair, allowing majority votes for difficult cases. 
+Turkers were shown a pair of English words, one of which was a Turker's translation of the foreign word used for quality control, and the other of which was the gold-standard translation of the foreign word. Evaluators were asked whether the two words had the same meaning, and chose between three answers: `Yes', `No', or `Related but not synonymous.'  Examples of meaning equivalent pairs include: $<${\it petroglyphs, rock paintings}$>$, $<${\it demo, show}$>$ and  $<${\it loam, loam: soil rich in decaying matter}$>$.  Non-meaning equivalents included: $<${\it assorted, minutes}$>$, and $<${\it major,} URL of image$>$.  Related items were things like $<${\it sky, clouds}$>$. Misspellings like $<${\it lactation, lactiation} $>$ were judged to have same meaning, and were marked as misspelled.   3 separate Turkers judged each pair, allowing majority votes for difficult cases. 
 
 
 We checked Turkers who were working on this task by embedding pairs word which were either known to be synonyms (drawn from WordNet) or  unrelated (randomly chosen from a corpus). 
@@ -268,8 +268,8 @@ We performed an analysis of our data to address the following questions, among o
 %%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
 \begin{figure}[h]
 \centering
-%\includegraphics[height=\linewidth,angle=270]{figures/completiontime-series}
-\includegraphics[height=\linewidth,angle=270]{figures/completiontime-series}
+%\includegraphics[height=\linewidth,angle=270]{figures/completiontime}
+\includegraphics[height=\linewidth,angle=270]{figures/completiontime-new}
 \caption{Days to complete the translation HITs for 40 of the languages. Tick marks represent the completion of individual assignments. }
 \label{completion-time}
 \end{figure}
@@ -347,7 +347,7 @@ Other questions:
 
 
 
-Figure \ref{ass-scatter} shows the volume of HITs completed and the number of workers participating for each language. While the bulk (22\%) of bilingual Turkers report English as their native language (see figure \ref{lang-pie}), Mechanical Turk's capacity to support the Indian languages is apparent. Hindi, Tamil, and Malayalam are especially well represented in terms of number of active translators, and Urdu, Telugu, and Macedonian are particularly productive in terms of number of assignments completed. As shown in figure \ref{langgeo-bar}, 11 of the top 25 languages, in terms of number of assignments submitted, were Indian languages, and the assignments for 15 of the top 25 were completed mostly or entirely by Turkers located in India. 
+Figure \ref{ass-scatter} shows the volume of HITs completed and the number of workers participating for each language. While the bulk (22\%) of bilingual Turkers report English as their native language (see figure \ref{lang-pie}), Mechanical Turk's capacity to support the Indian languages is apparent. Hindi, Tamil, and Malayalam are especially well represented in terms of number of active translators, and Urdu, Telugu, and Macedonian are particularly productive in terms of number of assignments completed. %As shown in figure \ref{langgeo-bar}, 11 of the top 25 languages, in terms of number of assignments submitted, were Indian languages, and the assignments for 15 of the top 25 were completed mostly or entirely by Turkers located in India. 
 
 %%%%%%%%%%%%%%% LOCATION BAR %%%%%%%%%%%
 %\begin{figure*}[h]
@@ -362,7 +362,21 @@ Figure \ref{ass-scatter} shows the volume of HITs completed and the number of wo
 \section{Measuring Data Quality}
 The primary challenge of using crowdsourced language data is the widely variable quality of the collected annotations. While it is possible to strengthen the signal by collecting redundant labels, this strategy becomes difficult in practice for more complex data annotation. In the case of translation, low quality translations may have a high level of agreement (for example, when many workers use google translate) while high quality, even professional translations, can be expected to vary significantly.
  
-In order to address the quality of the translations we received on the dictionary task, we constructed a pipeline in which the output of the translation HIT was reviewed by humans in a second evaluation HIT, described above. We quantified the quality of each translation assignment based on the output of the evaluation HIT. The quality of an assignment was scored as the fraction of known words which were acceptably translated: i.e, the supplied translation was judged to be synonymous with the gold standard translation. Since most assignments had two known words embedded, most assignments had scores of either 0, 0.5, or 1.
+In order to address the quality of the translations we received on the dictionary task, we constructed a pipeline in which the output of the translation HIT was reviewed by humans in a second evaluation HIT, described above.  We quantified the quality of each translation assignment based on the output of the evaluation HIT as follows:
+\textit{In English, so people know what we did:}
+\begin{align}	
+	Quality = \frac{\# \text{translations in } Synonyms(\text{answer})}{\# \text{ controls}}
+\end{align}	
+where answer is the known translation and $Synonyms$(answer) is the set of words judged to be synonymous with the gold standard translation in the second pass HIT.
+\textit{Mathified, to give the impression of rigor and intellect:}
+\begin{align}	
+	Quality = \frac{1}{k}\sum\limits_{i=1}^k\mathbf{1}(t_i \in Synonyms(a_i))
+\end{align}	
+where $k$ is the number of controls in the assignment, $t_i$ is the Turker's provided translation of control word $i$, $a_i$ is the gold standard translation of the control word $i$, and $Synonyms(a_i)$ is the set of words judged to be synonymous with the $a_i$ in the second pass HIT and $\mathbf{1}(x)$ is 1 when $x$ is true. 
+
+Since most assignments had two known words embedded, most assignments had scores of either 0, 0.5, or 1. Since by-assignment quality scores are noisy and sensitive to small numbers of highly active Turkers, we report quality scores reported the average per-turker quality in tables and figures, where a Turker's quality is just the average quality of all the assignments that the Turker completed.
+
+
 
 
 

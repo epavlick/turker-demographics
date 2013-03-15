@@ -56,7 +56,7 @@ def read_table_file(path):
         ret = dict()
         data = csv.DictReader(open(path),delimiter='\t')
         for d in data:
-                ret[d['id']] = {'lang':d['lang'],'country':d['country'], 'hitlang': d['hitlang'], 'survey':d['survey']}
+                ret[d['id']] = {'lang':d['lang'],'country':d['country'], 'hitlang': d['hitlang'], 'survey':d['survey'], 'yrseng':d['yrseng'], 'yrssrc':d['yrssrc']}
         return ret
 
 #return a dictionary counting the number of occurances of each value of attr
@@ -370,11 +370,11 @@ def goog_match_qual(cut=50):
 
 #returns a dict of {attr1: {attr2: list of assignments}}
 #e.g. if attr1 = 'country' and attr2 = 'language', returns a dict of scores keyed by assignment_id and a dictionary of form 
-#{IN : {hi: XX, ta:XX, en: XX, ...}, 'RU':{hi: XX, ta: XX, en: XX, ...}}
+#{IN : {hi: [{assign_id : {}], ta:X[], en: [], ...}, 'RU':{hi: [], ta: [], en: [], ...}}
 def two_way_split(attr1, attr2):
 	ret = dict()
 	data = read_table_file('%s/byassign.voc.accepted'%OUTPUT_DIR)
-	scores = all_avg_scores('%s/byassign.voc.quality%s'%(OUTPUT_DIR,QC,))
+	scores = all_avg_scores('%s/byassign.voc.quality%s'%(OUTPUT_DIR,QC,), turkers=False)
 	first = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, attr1)
 	second = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, attr2)
 	for k in first:
@@ -488,8 +488,6 @@ def hit_map():
 def two_way_quality(attr1, attr2):
 	breakdown = dict()
 	tw, scores = two_way_split(attr1, attr2)
-	print scores
-	return
 	for t in tw:
 		breakdown[t] = dict()
 		for tt in tw[t]:
@@ -510,10 +508,10 @@ def sort_data(data):
 	return [(t[1],t[2]) for t in sorted(tups, reverse=True)]
 
 #return dictionary of {language : {yes : quality estimate of native speakers, no : quality estimate of nonnative speakers}}
+#quality estimates by assignments
 def compare_native_speakers():
 	langs = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, 'hitlang')
 	quals = two_way_quality('hitlang','lang')
-	return
 	graph_data = dict()	
 	graph_data_clean = dict()	
 	for l in langs:
@@ -527,8 +525,123 @@ def compare_native_speakers():
 			elif i[0] == 'en':
 				new['no'] = i[1]
 		graph_data_clean[k] = new
-	return
 	return sort_data(graph_data_clean)
+
+def native_compare_bar_graph(quals, cutoff=50):
+	ret = list()
+	all_yes = list()
+	all_no = list()
+        for hl in quals:
+		yes = list()
+        	no = list()
+                for nl in quals[hl]:
+                        if nl == hl:
+                                for tid, yrs, q in quals[hl][nl]:
+                                       	yes.append(q)
+                        else:
+                                for tid, yrs, q in quals[hl][nl]:
+                                        no.append(q)
+		ldict = dict()
+		if(len(yes) > cutoff and len(no) > cutoff):
+			all_yes += yes
+			all_no += no
+#			print 'bargraph\t%s\t%d\t%d'%(hl,len(yes),len(no),), sum(yes) / len(yes), sum(no) / len(no)
+			n, (smin, smax), sm, sv, ss, sk = stats.describe(yes)
+        	       	moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+               		ldict['yes'] = (sm, (sm - moe, sm + moe), n, moe)
+			n, (smin, smax), sm, sv, ss, sk = stats.describe(no)
+               		moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+               		ldict['no'] = (sm, (sm - moe, sm + moe), n, moe)
+			ret.append((hl, ldict))
+		else:
+#			print 'Not enough speakers for %s. Skipping.'%hl
+			continue
+	print 'all yes', sum(all_yes) / len(all_yes)
+	print 'all no', sum(all_no) / len(all_no)
+	compare_native_speakers_graph(ret)	
+
+
+#return dictionary of {language : {yes : quality estimate of native turkers, no : quality estimate of nonnative turkers}}
+def compare_native_turkers(cutoff=10):
+#gu {'gu': {'267409': {'lang': 'gu', 'country': 'IN', 'yrssrc': '18', 'hitlang': 'gu', 'survey': 'IN', 'yrseng': '10'}...
+	langs = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, 'hitlang')
+	lists, throwout = two_way_split('hitlang','lang')
+	scores = all_avg_scores('%s/byturker.voc.quality%s'%(OUTPUT_DIR,QC,))
+	tmap = dictionaries.turker_map()
+	quals = dict()
+	#for each hit lang, for each native lang, get a list of (turkerid, yrs, qual)
+	for hl in lists:
+		quals[hl] = dict()
+		for nl in lists[hl]:
+			quals[hl][nl] = set()
+			for assign in lists[hl][nl]:
+				turker = tmap[assign]
+				yrs = lists[hl][nl][assign]['yrseng']
+				try:
+		                        yrs = float(yrs)
+                		except ValueError:
+				#	print 'Unknown years English for turker %s. Skipping'%turker
+                        		continue
+				try:
+					qual = scores[turker]
+				except KeyError:
+					print 'No quality for turker %s. Skipping'%turker
+					continue
+				quals[hl][nl].add((turker, yrs, qual))
+	
+	native_compare_bar_graph(quals, cutoff=cutoff)
+	#combine across languages to get a aggregate list of ('native': list of tuples, 'nonnative': list of tuples)
+	native = list()
+	non = list()
+	for hl in quals:
+		yes = list()
+		no = list()
+                for nl in quals[hl]:
+			if nl == hl:
+	                	for tup in quals[hl][nl]:
+					yes.append(tup)
+			else:
+	                	for tup in quals[hl][nl]:
+					no.append(tup)
+		if len(yes) > cutoff and len(no) > cutoff:
+			y = sum([t[2] for t in yes])
+			n = sum([t[2] for t in no])
+			#print 'linegraph\t%s\t%d\t%d'%(hl,len(yes),len(no),), y / len(yes), n / len(no)
+			native += yes
+			non += no
+	#get confidence intervals for each bucket
+	native_graph_data = list()
+	nonnative_graph_data = list()
+	all_yes = list()
+	all_no = list()
+	for y, qs in bucket_lists(native):
+		all_yes += qs
+		n, (smin, smax), sm, sv, ss, sk = stats.describe(qs)
+        	moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+		native_graph_data.append((y, (sm, (sm - moe, sm + moe), n, moe)))
+	for y, qs in bucket_lists(non):
+		all_no += qs
+		n, (smin, smax), sm, sv, ss, sk = stats.describe(qs)
+        	moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+		nonnative_graph_data.append((y, (sm, (sm - moe, sm + moe), n, moe)))
+	print 'all yes', sum(all_yes) / len(all_yes)
+	print 'all no', sum(all_no) / len(all_no)
+	native_compare_line_graph(native_graph_data, nonnative_graph_data)
+
+#a method everyone should run before they die. divide list of (turkerid, yrs, qual) tuples into n k-year buckets. throw out N/As for years 
+def bucket_lists(tuple_list, k=5, n=10):
+	buckets = list()
+	for i in range(0,n*k, k):
+		buckets.append(list())
+	buckets.append(list())
+	for tid, yrs, qual in tuple_list:
+		bkt = int(yrs / k)
+		if bkt > n : bkt = n
+		buckets[bkt].append(qual)
+	ret = list()
+	for i, l in enumerate(buckets):
+		ret.append((i*k, l))
+	return ret
 
 #side by side bar of native/non native speaker quality
 def compare_native_speakers_graph(ci_tups, title='Graph'):
@@ -546,7 +659,8 @@ def compare_native_speakers_graph(ci_tups, title='Graph'):
 	plt.ylim([0,1])
 	plt.xlim([0,len(names)])
 	plt.legend(plots, ('native', 'non-native'))
-	plt.savefig('native-compare-bar.pdf')
+	plt.show()
+#	plt.savefig('native-compare-bar.pdf')
 
 #side by side bar of native/non native speaker quality
 def native_compare():
@@ -583,6 +697,31 @@ def reverse_cntry_map(path):
                 if(code not in lang_data):
                         lang_data[code] = country
         return lang_data
+
+def native_compare_line_graph(native, nonnative):
+#(y, (sm, (sm - moe, sm + moe), n, moe))
+	names = [n[0] for n in native]
+	x = range(len(names))
+	y = [n[1][0] for n in native]
+	e = [n[1][3] for n in native]
+	ny = [nn[1][0] for nn in nonnative]
+	ne = [nn[1][3] for nn in nonnative]
+	for z in zip(zip(y, [n[1][2] for n in native]), zip(ny, [nn[1][2] for nn in nonnative])):
+		print z
+	#plt.errorbar(x, y, yerr=e, color='b', linestyle='-', marker='o')
+	#plt.errorbar(x, ny, yerr=ne, color='r', linestyle='-', marker='o')
+	plt.errorbar(x, y, yerr=e, color='b', marker='o')
+	plt.errorbar(x, ny, yerr=ne, color='r', marker='o')
+	plt.xticks(x, names)
+	plt.title('Native vs. nonnative speaker quality by # of years speaking English')
+	plt.show()
+	y = [n[1][2] for n in native]
+	ny = [nn[1][2] for nn in nonnative]
+	plt.plot(x, y, color='b', marker='o')
+	plt.plot(x, ny, color='r', marker='o')
+	plt.xticks(x, names)
+	plt.title('Number of native vs. nonnative turkers by # of years speaking English')
+	plt.show()
 
 #scatter plot of quality against # assignments, bubbles sized by # turkers
 def quality_scatter(title='Title'):
@@ -851,8 +990,10 @@ if __name__ == '__main__':
 		goog_match_qual()
 	if(plot == 'quality_scatter'):
 		quality_scatter()
-	if(plot == 'native_compare'):
+	if(plot == 'native_compare_bar'):
 		native_compare()
+	if(plot == 'native_compare_line'):
+		compare_native_turkers()
         if(plot == 'assign_turk_scatter'):
                 assign_and_turker_plot(assign_and_turker_table())
         if(plot == 'natlang_pie'):
