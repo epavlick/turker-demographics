@@ -382,7 +382,11 @@ Since by-assignment quality scores are noisy and sensitive to small numbers of h
 \end{align}	
 where $Assigns(i)$ is the assignments completed by turker $i$, and $Quality(a)$ is as above.
 	
-
+Quality for a language is then given by
+\begin{align}	
+	Quality(lang_i) = \frac{\sum_{t_j \in Turkers(i)}Quality(t_j)}{\mid Turkers(i) \mid}
+\end{align}	
+where $Turkers(i)$ is the set of turkers who completed assignments for language $i$, and $Quality(t)$ is as above.
 
 
 
