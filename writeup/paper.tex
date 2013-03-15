@@ -205,21 +205,19 @@ We automatically collected each worker's current location by geolocating their I
 
 We drew our data from the different language versions of Wikipedia.   We selected the 100 languages with the largest number of articles,\footnote{\url{http://meta.wikimedia.org/wiki/List_of_Wikipedias}} and then selected an additional 19 low resource languages with $<$10,000 articles, giving a total of 119 languages (Table \ref{wikipedia-buckets}). For each language, we chose the 1,000 most viewed articles over a 1 year period,\footnote{\url{http://dumps.wikimedia.org/other/pagecounts-raw/}} and extracted the 10,000 most frequent words from each. The resulting vocabularies served as the input to our translation HIT.
 
-% Todo: sort by language code, rebalance the bottom set to have 19 languages in it.
 \begin{table}[h]
 \scriptsize 
 \begin{center}
 \begin{tabular}{|p{0.95\linewidth}|}
 \hline
-{\sc 500k+ articles:}
-Dutch (nl), English (en), French (fr), German (de), Italian (it), Japanese (ja), Polish (pl), Portuguese (pt), Russian (ru), Spanish (es)\\
+{\sc 500k+ articles:} German (de), English (en), Spanish (es), French (fr), Italian (it), Japanese (ja), Dutch (nl), Polish (pl), Portuguese (pt), Russian (ru)\\
 \hline
-{\sc 100k-500k articles:} Arabic (ar), Basque (eu), Bulgarian (bg), Catalan (ca), Chinese (zh), Croatian (hr), Czech (cs), Danish (da), Esperanto (eo), Finnish (fi), Hebrew (he), Hindi (hi), Hungarian (hu), Indonesian (id), Kazakh (kk), Korean (ko), Lithuanian (lt), Malay (ms), Norwegian (Bokmal) (no), Persian (fa), Romanian (ro), Serbian (sr), Slovak (sk), Slovenian (sl), Swedish (sv), Turkish (tr), Ukrainian (uk), Vietnamese (vi), Waray-Waray (war)\\
+{\sc 100k-500k articles:} Arabic (ar), Bulgarian (bg), Catalan (ca), Czech (cs), Danish (da), Esperanto (eo), Basque (eu), Persian (fa), Finnish (fi), Hebrew (he), Hindi (hi), Croatian (hr), Hungarian (hu), Indonesian (id), Korean (ko), Lithuanian (lt), Malay (ms), Norwegian (Bokmal) (no), Romanian (ro), Slovak (sk), Slovenian (sl), Serbian (sr), Swedish (sv), Turkish (tr), Ukrainian (uk), Vietnamese (vi), Waray-Waray (war), Chinese (zh)\\
 \hline
-{\sc 10k-100k articles:}
-Azerbaijani (az), Afrikaans (af), Albanian (sq), Amharic (am), Aragonese (an), Armenian (hy), Asturian (ast), Belarusian (be), Bengali (bn), Bishnupriya Manipuri (bpy), Bosnian (bs), Breton (br), Cebuano (ceb), Galician (gl), Georgian (ka), Greek (el), Gujarati (gu), Haitian (ht), Icelandic (is), Ido (io), Irish (ga), Javanese (jv), Kannada (kn), Kurdish (ku), Latvian (lv), Low Saxon (nds), Luxembourgish (lb), Macedonian (mk), Malagasy (mg), Malayalam (ml), Marathi (mr), Neapolitan (nap), Nepali (ne), Newar / Nepal Bhasa (new), Norwegian (Nynorsk) (nn), Piedmontese (pms), Quechua (qu), Serbo-Croatian (sh), Sicilian (scn), Sundanese (su), Swahili (sw), Tagalog (tl), Tamil (ta), Tatar (tt), Telugu (te), Thai (th), Urdu (ur), Walloon (wa), Welsh (cy), West Frisian (fy), Yoruba (yo), Zazaki (diq)\\
+{\sc 17k-100k articles:}
+Afrikaans (af), Azerbaijani (az), Belarusian (be), Bengali (bn), Bishnupriya Manipuri (bpy), Breton (br), Bosnian (bs), Cebuano (ceb), Welsh (cy), Greek (el), West Frisian (fy), Galician (gl), Gujarati (gu), Haitian (ht), Icelandic (is), Javanese (jv), Georgian (ka), Kurdish (ku), Luxembourgish (lb), Latvian (lv), Malagasy (mg), Macedonian (mk), Malayalam (ml), Marathi (mr), Low Saxon (nds), Newar / Nepal Bhasa (new), Norwegian (Nynorsk) (nn), Piedmontese (pms), Sicilian (scn), Serbo-Croatian (sh), Albanian (sq), Swahili (sw), Tamil (ta), Telugu (te), Thai (th), Tagalog (tl), Urdu (ur), Yoruba (yo)\\
 \hline
-{\sc $<$10k articles:} Central Bicolano (bcl), Ilokano (ilo), Kapampangan (pam), Pashto (ps), Punjabi (pa), Sindhi (sd), Somali (so), Tibetan (bo), Uzbek (uz), Wolof (wo)\\
+{\sc $<$17k articles:} Amharic (am), Asturian (ast), Central Bicolano (bcl), Tibetan (bo), Zazaki (diq), Irish (ga), Armenian (hy), Ilokano (ilo), Kannada (kn), Neapolitan (nap), Nepali (ne), Punjabi (pa), Kapampangan (pam), Pashto (ps), Sindhi (sd), Somali (so), Sundanese (su), Uzbek (uz), Wolof (wo)\\
 \hline
 \end{tabular}
 \end{center}
@@ -362,19 +360,28 @@ Figure \ref{ass-scatter} shows the volume of HITs completed and the number of wo
 \section{Measuring Data Quality}
 The primary challenge of using crowdsourced language data is the widely variable quality of the collected annotations. While it is possible to strengthen the signal by collecting redundant labels, this strategy becomes difficult in practice for more complex data annotation. In the case of translation, low quality translations may have a high level of agreement (for example, when many workers use google translate) while high quality, even professional translations, can be expected to vary significantly.
  
-In order to address the quality of the translations we received on the dictionary task, we constructed a pipeline in which the output of the translation HIT was reviewed by humans in a second evaluation HIT, described above.  We quantified the quality of each translation assignment based on the output of the evaluation HIT as follows:
-\textit{In English, so people know what we did:}
+In order to address the quality of the translations we received on the dictionary task, we constructed a pipeline in which the output of the translation HIT was reviewed by humans in a second evaluation HIT, described above.  We quantified the quality of each translation assignment based on the output of the evaluation HIT as follows: \\
+\textbf{In English, so people know what we did:}
 \begin{align}	
-	Quality = \frac{\# \text{translations in } Synonyms(\text{answer})}{\# \text{ controls}}
+	Quality = \frac{\# \text{correct controls}}{\# \text{controls}}
 \end{align}	
-where answer is the known translation and $Synonyms$(answer) is the set of words judged to be synonymous with the gold standard translation in the second pass HIT.
-\textit{Mathified, to give the impression of rigor and intellect:}
+where a control is correct if it matches or is judged to be synonymous with the gold standard translation during the second pass HIT. \\
+\textbf{Mathified, to give the impression of rigor and intellect:}
 \begin{align}	
-	Quality = \frac{1}{k}\sum\limits_{i=1}^k\mathbf{1}(t_i \in Synonyms(a_i))
+	Quality(assign_i) = \frac{1}{k}\sum\limits_{j=1}^{k_i}\mathbf{1}(t_{ij} \in Syns(a_j))
 \end{align}	
-where $k$ is the number of controls in the assignment, $t_i$ is the Turker's provided translation of control word $i$, $a_i$ is the gold standard translation of the control word $i$, and $Synonyms(a_i)$ is the set of words judged to be synonymous with the $a_i$ in the second pass HIT and $\mathbf{1}(x)$ is 1 when $x$ is true. 
+where $k_i$ is the number of controls in the assignment $i$, $t_j$ is the Turker's provided translation of control word $j$ in assignment $i$, $a_j$ is the gold standard translation of control word $j$, $Syns(a_j)$ is the set of words judged to be synonymous with $a_j$ during the second pass HIT, and $\mathbf{1}(x)$ is 1 when $x$ is true. 
 
-Since most assignments had two known words embedded, most assignments had scores of either 0, 0.5, or 1. Since by-assignment quality scores are noisy and sensitive to small numbers of highly active Turkers, we report quality scores reported the average per-turker quality in tables and figures, where a Turker's quality is just the average quality of all the assignments that the Turker completed.
+Most assignments had two known words embedded, so most assignments had scores of either 0, 0.5, or 1. 
+
+Since by-assignment quality scores are noisy and sensitive to small numbers of highly active Turkers, we report quality scores as the average per-turker quality, where a Turker's quality is just the average quality of all the assignments that the Turker completed.
+
+\textbf{Or in otherwords, because $\sum$ in latex is so lovely:}
+\begin{align}	
+	Quality(turker_i) = \frac{\sum_{a_j \in Assigns(i)}Quality(a_j)}{\mid Assigns(i) \mid}
+\end{align}	
+where $Assigns(i)$ is the assignments completed by turker $i$, and $Quality(a)$ is as above.
+	
 
 
 
