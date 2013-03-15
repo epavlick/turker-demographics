@@ -1,6 +1,7 @@
 import sys
 import csv
 import math
+import string
 import operator
 import itertools
 import dictionaries
@@ -218,6 +219,47 @@ def get_quality_by_assign(path):
 	return ret
 
 #returns a dictionary of {assignment : # of controls attempted, # of controls correct, average performance on controls}
+def get_good_and_bad_translations(path):
+	controls = dict()
+	numlangmap, langmap = dat.lang_map()
+	gooda = get_syns_quality_by_assign('%s/syn_hits_results'%RAW_DIR)
+	good = get_syns_quality_by_turker('%s/syn_hits_results'%RAW_DIR, gooda)
+	syns = read_all_syns(filter_list=good, exact_match_only=False)
+	words = word_map(lang=True)
+        data = {}
+        for line in csv.DictReader(open(path)):
+                assign = line['assignment_id']
+		translation = line['translation'].strip().lower()	
+		word_id = line['word_id']	
+                if(assign not in data):
+                        data[assign] = {'total': 'N/A', 'syns': 'N/A'} 
+		if word_id in words:
+			word, orig, lang = words[word_id]
+			word = word.strip().lower()
+                	lang = numlangmap[lang]
+			if word in syns:
+				if lang not in controls:
+					controls[lang] = dict()
+				if orig not in controls[lang]:
+					controls[lang][orig] = {'pos':set(), 'neg':set()}
+				if translation in syns[word]:
+					controls[lang][orig]['pos'].add(translation)
+				else:
+					controls[lang][orig]['neg'].add(translation)
+			else:
+				print 'Could not find', word, 'in synonym dictionary. Skipping.'
+		else:
+			print 'Could not find', word_id, 'in word dictionary. Skipping'
+
+	pos = dict()
+	neg = dict()
+	for lang in controls:
+		pos[lang]=[(orig,string.join(controls[lang][orig]['pos'],',')) for orig in controls[lang] if len(controls[lang][orig]['pos'])>0]
+		neg[lang]=[(orig,string.join(controls[lang][orig]['neg'],',')) for orig in controls[lang] if len(controls[lang][orig]['neg'])>0]
+	write_control_dicts(pos, file_prefix='poscontrols/dictionary')
+	write_control_dicts(neg, file_prefix='negcontrols/dictionary')
+
+#returns a dictionary of {assignment : # of controls attempted, # of controls correct, average performance on controls}
 def get_goog_match_by_assign(path):
         matches = get_goog_translations()
         words = word_map()
@@ -317,7 +359,8 @@ if __name__ == '__main__':
 		write_avg_quals(get_goog_match_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.googmatch'%OUTPUT_DIR)
 		googmatch_by_turker('%s/byturker.googmatch'%OUTPUT_DIR,'%s/byassign.googmatch'%OUTPUT_DIR)
 	if sys.argv[1] == 'controls':
-		write_all_syns()
+#		write_all_syns()
+		get_good_and_bad_translations('%s/voc_hits_results'%RAW_DIR)
 
 
 

@@ -1,0 +1,90 @@
+klinometer	clinometer,kilometer
+laryngoskop	laryngoskop,laryngoscope
+blåbær	blueberries,blueberry,bilberry
+antisyklon	anti-cyclone,antisyclon,anticyclone
+klimatologi	climatoligy,climatology
+skuffelse	disappointment
+garnison	garrison,garnison
+saksedyr	insect,earwig
+sjakkmatt	chess matt,check-mate,check mate,checkmate
+sjakk	chess,schess
+foster	fetus
+ressurs	ressource,resource
+ikke-metall	non-metal
+gastrulasjon	gastrulation
+dvergfotinger	arthropods,symphyla,dwarf animals
+minutt	minute,minutt
+bonde	farmer
+nupereller	tatting
+årevinger	arevinger,hymenoptera
+privilegium	privilege
+fenol	fenol,phenol
+nettvinger	neuroptera,your wings
+etterskjelv	aftershocks,aftershock,etterskyelve
+vinkelner	wine waiter,sommelier
+tranefugler	common crane,trans birds,tran birds,gruiformes
+gane	palate
+ingeniør	engineering,engineer
+dysartri	dysarthria
+baptisme	baptisme,baptist,baptism
+bedreviter	pioneer,know-,know-it-all,know it all,know-all
+bjørnedyr	bears,tardigrade
+fritid	free time,leisure time,leisure,sparetime
+subjekt	subject
+strylav	usnea
+redskap	tool
+megler	broker,broke
+retthvaler	balaenidae,right whales
+rehabilitering	rehabilitation
+ugress	weed
+metionin	methionine
+interpellasjon	interpellation,interpelation
+myggsmetter	gnatcatcher,mosquitoes snaps
+jonisk	lonic,ionic
+arteriepinsett	arterie pincette
+langbue	longbow
+pilleskrukketroll	pill-bug,armadillidiidae,magic pill jar
+sugislekten	sugislekten,cryptomeria
+fusjon	fusion
+burlesk	burlesque
+tørrdis	haze,torrdis
+bakkropp	abdomen
+fåfotinger	pauropoda
+amming	breastfeeding,feeding
+likør	liqueur,liquor,liqour
+jente	girl
+helleristning	petroglyph,rock carving
+frekvens	frequency,frequence
+blomsterplanter	flowers,flowering plants,flowers plants
+legeme	body,dody
+gressløk	chives
+epitaf	epitaph
+partikulare	partikulare,particulare,particular
+zirkon	zirkon,zirconium,zircon
+karavaneserai	traveller,camping place,caravanserai
+fagocytter	fago,phagocytes,phagocyte
+parallellogram	parallelogram
+monografi	monograph,monography
+ørkenrotter	desert rat,gerbillinae,gerbil,desert rats
+kampanile	bell tower,campanile
+geomorfologi	geomorphology
+stikkpiller	suppository,suppositories,supositories
+sypresslekten	cupressus,green tree,cypress,cypresses
+befruktning	to make new ones,fruiting,insemination,fertilization
+øy	island
+kveiter	halibuts,halibut
+drivanker	drogue,anchor,sea anchor
+fuglerede	nest,songbirds
+hekkeløp	hurdles,hurdling
+isfjell	iceberg
+tvangstrøye	straightjacket,straitjacket
+biogeografi	biogeography,biography
+affiks	affixes,affix
+punerne	punic,punics,the punics,the punic
+rekved	type of wood,driftwood
+tilbud	supply,offer
+tussmørke	evening,twilight
+republikaner	republican
+kraiter	bungarus,art
+fottøy	footwear
+kretsløp	circuit,cycle
