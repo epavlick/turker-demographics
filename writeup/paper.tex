@@ -361,12 +361,12 @@ Figure \ref{ass-scatter} shows the volume of HITs completed and the number of wo
 The primary challenge of using crowdsourced language data is the widely variable quality of the collected annotations. While it is possible to strengthen the signal by collecting redundant labels, this strategy becomes difficult in practice for more complex data annotation. In the case of translation, low quality translations may have a high level of agreement (for example, when many workers use google translate) while high quality, even professional translations, can be expected to vary significantly.
  
 In order to address the quality of the translations we received on the dictionary task, we constructed a pipeline in which the output of the translation HIT was reviewed by humans in a second evaluation HIT, described above.  We quantified the quality of each translation assignment based on the output of the evaluation HIT as follows: \\
-\textbf{In English, so people know what we did:}
+\textbf{Version 1: In English, so people know what we did:}
 \begin{align}	
 	Quality = \frac{\# \text{correct controls}}{\# \text{controls}}
 \end{align}	
 where a control is correct if it matches or is judged to be synonymous with the gold standard translation during the second pass HIT. \\
-\textbf{Mathified, to give the impression of rigor and intellect:}
+\textbf{Version 2 : Mathified, to give the impression of rigor and intellect:}
 \begin{align}	
 	Quality(assign_i) = \frac{1}{k}\sum\limits_{j=1}^{k_i}\mathbf{1}(t_{ij} \in Syns(a_j))
 \end{align}	
