@@ -1,0 +1,14 @@
+Each dictionary contains 6 tab separated columns:
+
+1. source language word
+2. target language word
+3. 0/1 indicator: 0=not a control source word, 1=a control source word
+4. 0/1 indicator: 0=target word not known to be correct, 1=target word known to be correct (only control words have known translations; will never see 0-1 in columns 3-4)
+5. 0/1 indicator: 0=not observed in mturk data; 1=observed in mturk data (some correct control translations not observed)
+6. 0/1 indicator: 1=src/trg pair appears in external dictionary; 0=src/trg pair does not appear in external dictionary
+
+To see distribution over combinations of these indicators:
+cut -f 3-6 dict.az | sort | uniq -c | less
+
+
+

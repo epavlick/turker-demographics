@@ -1,0 +1,10 @@
+Each dictionary contains 5 tab separated columns:
+
+1. source language word
+2. target language word
+3. 0/1 indicator: 0 = not a control source word, 1 = a control source word
+4. 0/1 indicator: 0=target word not known to be correct, 1=target word known to be correct (only control words have known translations; will never see 0-0 in columns 3-4)
+5. Translation classification score: more negative=less likely to be a true translation; more positive=more likely to be a true translation
+
+10-fold cross validation on control words (classifier trained on 90% of the control data at a time, and predictions made on remaining 10%), and all control words used to train classifier that scores non-control words.
+
