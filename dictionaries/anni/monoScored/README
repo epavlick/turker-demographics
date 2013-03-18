@@ -8,3 +8,4 @@ Each dictionary contains 5 tab separated columns:
 
 10-fold cross validation on control words (classifier trained on 90% of the control data at a time, and predictions made on remaining 10%), and all control words used to train classifier that scores non-control words.
 
+Note that these dictionaries may be a few lines shorter than those in externalOverlap. Here, blank target translations were filtered out (e.g. see Azeri 'imtahan').

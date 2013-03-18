@@ -1,0 +1,10 @@
+Dictionaries:
+
+A. Translations checked using external dictionaries (David Y's old set of OCR'd dictionaries):
+dictionaries/anni/externalOverlap
+Final column indiates whether translation pair has been observed in external dictionaries or not. See dictionaries/anni/externalOverlap/README for more details
+
+B. Translation pairs scored using monolingual signals, and a classifier trained on 'control' translation pairs:
+dictionaries/anni/monoScored
+Final column gives score: more positive indicates more likely to be a translation pair, more negative indicates less likely to be a translation pair. Control pairs scored using 10-fold cross validation. See dictionaries/anni/monoScored/README  for more details
+
