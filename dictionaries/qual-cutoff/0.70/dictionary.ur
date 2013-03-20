@@ -1,0 +1,5 @@
+ابی	father,
+نوآبادیاں	generations,
+رجوع	inclination,
+بنو	tribe,
+مقامی	local,

@@ -139,7 +139,7 @@ def fancy_time_series(data, num=40):
 	tot = len(y)
 	for i, (xx, yy) in enumerate(zip(x,y)):
 		if i % 1000 == 0: print (float(i)/tot) , xx, yy
-		plt.plot([xx, xx], [yy, yy+1], color = 'b')
+		plt.plot([xx, xx], [yy, yy+1], color = 'b', alpha=0.1)
 #	plt.scatter(x,y,marker='|')
 	plt.xlim([0,max(x)+5])
 	plt.ylim([0,max(y)+5])

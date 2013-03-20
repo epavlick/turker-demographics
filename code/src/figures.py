@@ -566,7 +566,7 @@ def compare_native_turkers(cutoff=10):
 #gu {'gu': {'267409': {'lang': 'gu', 'country': 'IN', 'yrssrc': '18', 'hitlang': 'gu', 'survey': 'IN', 'yrseng': '10'}...
 	langs = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, 'hitlang')
 	lists, throwout = two_way_split('hitlang','lang')
-	scores = all_avg_scores('%s/byturker.voc.quality%s'%(OUTPUT_DIR,QC,))
+	scores = all_avg_scores('%s/byturker.voc.quality.new%s'%(OUTPUT_DIR,QC,))
 	tmap = dictionaries.turker_map()
 	quals = dict()
 	#for each hit lang, for each native lang, get a list of (turkerid, yrs, qual)
@@ -945,6 +945,18 @@ def print_data_for_map():
         for ctry, count in full.iteritems():
                 print "['%s',%d],"%(countries[ctry],count,)
 
+def anova():
+	dist = list()
+	for a in assign_list:
+		if a in scores:
+			dist.append(scores[a])
+		if(len(dist) == 0):
+ 			return None
+	n, (smin, smax), sm, sv, ss, sk = stats.describe(dist)
+	moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+	return (sm, (sm - moe, sm + moe), n, moe)
+
+
 if __name__ == '__main__':
 	if(len(sys.argv) < 2 or sys.argv[1] == 'help'):
                 print '---USAGE---'
@@ -1002,6 +1014,8 @@ if __name__ == '__main__':
 		pie_chart_table(clean_tuples(natlang_table()))
         if(plot == 'map'): 
 	        print_data_for_map()
+	if(plot == 'anova'):
+		anova()
 
 
 

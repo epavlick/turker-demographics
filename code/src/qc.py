@@ -36,14 +36,14 @@ def qual_map(path):
         return qual_data
 
 #map of word id to word
-def word_map(lang=False):
+def word_map(get_lang=False):
 	words = dict()
         for line in csv.DictReader(open('%s/dictionary'%RAW_DIR)):
 		wid = line['id']
 		lang = line['language_id']
 		word = line['translation'].strip().lower()
 		if wid not in words:
-			if lang:
+			if get_lang:
 				orig = line['word'].strip().lower()
 				words[wid] = (word, orig, lang)
 			else:
@@ -102,7 +102,7 @@ def read_all_syns(filter_list=None, use_related=True, exact_match_only=False):
 
 #get a dictionary of word: list of acceptable synonyms. filter list of assignment ids used to restrict list of synonyms to come only from certain assignments
 def write_all_syns():
-        words = word_map(lang=True)
+        words = word_map(get_lang=True)
         data = {}
 	syns = dict()
 	numlangmap, langmap = dat.lang_map()
@@ -187,7 +187,7 @@ def write_syn_dict(syns, fname):
 def get_quality_by_assign(path):
 	gooda = get_syns_quality_by_assign('%s/syn_hits_results'%RAW_DIR)
 	good = get_syns_quality_by_turker('%s/syn_hits_results'%RAW_DIR, gooda)
-	syns = read_all_syns(filter_list=good, exact_match_only=True)
+	syns = read_all_syns(filter_list=good, exact_match_only=False)
 	words = word_map()
         data = {}
         for line in csv.DictReader(open(path)):
@@ -225,7 +225,7 @@ def get_good_and_bad_translations(path):
 	gooda = get_syns_quality_by_assign('%s/syn_hits_results'%RAW_DIR)
 	good = get_syns_quality_by_turker('%s/syn_hits_results'%RAW_DIR, gooda)
 	syns = read_all_syns(filter_list=good, exact_match_only=False)
-	words = word_map(lang=True)
+	words = word_map(get_lang=True)
         data = {}
         for line in csv.DictReader(open(path)):
                 assign = line['assignment_id']
@@ -352,9 +352,9 @@ def googmatch_by_turker(fname, path):
 
 if __name__ == '__main__':
 	if sys.argv[1] == 'assignments': 
-		write_avg_quals(get_quality_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.voc.quality.exactmatch'%OUTPUT_DIR)
+		write_avg_quals(get_quality_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.voc.quality.new'%OUTPUT_DIR)
 	if sys.argv[1] == 'turker':
-		quality_by_turker('%s/byturker.voc.quality.exactmatch'%OUTPUT_DIR, '%s/byassign.voc.quality.exactmatch'%OUTPUT_DIR)
+		quality_by_turker('%s/byturker.voc.quality.new'%OUTPUT_DIR, '%s/byassign.voc.quality.new'%OUTPUT_DIR)
 	if sys.argv[1] == 'goog':
 		write_avg_quals(get_goog_match_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.googmatch'%OUTPUT_DIR)
 		googmatch_by_turker('%s/byturker.googmatch'%OUTPUT_DIR,'%s/byassign.googmatch'%OUTPUT_DIR)

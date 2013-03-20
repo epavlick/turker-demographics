@@ -1,0 +1,8 @@
+разработана	developed,
+художественная	art,
+вред	damage,
+автомобильные	car,
+когда	when,
+иеговы	jehovah's witnesses,
+информационное	news,
+э	e,

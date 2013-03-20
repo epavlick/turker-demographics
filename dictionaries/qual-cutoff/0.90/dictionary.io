@@ -1,0 +1,6 @@
+pleebla	plebian,
+silezia	not to make a noise, silent,
+mohamed	mahometan, mohammedan, musselman;,
+retroiris	to jolt back,
+tertremi	scary, black, dark,
+saavedra	funny shaped head,

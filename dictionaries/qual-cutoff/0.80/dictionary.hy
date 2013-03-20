@@ -1,0 +1,6 @@
+նույնպես	same here,
+վենեսուելան	venezuela,
+հինդի	india,
+նվաճումները	accompishment,
+կատեգորիահարավամերիկյան	category south america,
+հեշտ	easy,
