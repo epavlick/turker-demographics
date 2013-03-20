@@ -8,3 +8,20 @@ B. Translation pairs scored using monolingual signals, and a classifier trained 
 dictionaries/anni/monoScored
 Final column gives score: more positive indicates more likely to be a translation pair, more negative indicates less likely to be a translation pair. Control pairs scored using 10-fold cross validation. See dictionaries/anni/monoScored/README  for more details
 
+C. All translation pairs received from Mturk (approved assignments)
+dictionaries/ellie/all
+
+D. Translation pairs received from Mturk (approved assignments) for which the assignment was submitted from a location deemed 'in region' for the language being translated
+dictionaries/ellie/clpair
+
+E. Translation pairs received from Mturk (approved assignments) for which the assignment was submitted from a location deemed 'out of region' for the language being translated
+dictionaries/ellie/nonclpair
+
+F. Control pairs mined from wikipedia with known translations. 
+dictionaries/ellie/controls/wiki
+
+G. Control pairs mined from wikipedia with known translations. Dictionary contains known true translation and alternative translations received from Mturk, which were judged as valid synonyms in second pass HIT
+dictionaries/ellie/controls/turkers/pos
+
+H. Control pairs mined from wikipedia with known translations. Dictionary contains alternative translations received from Mturk, which were judged to be incorrect translations in second pass HIT
+dictionaries/ellie/controls/turkers/neg
