@@ -12,7 +12,7 @@ EXTERN_OVERLAP = '../../dictionaries/anni/externalOverlap'
 ASSIGNS = 'output/byassign.voc.accepted'
 
 def reg(s):
-	return s.strip().lower()
+	return s.decode('utf-8').lstrip().rstrip().lower()
 
 if len(sys.argv) < 2:
 	print 'USAGE: ./external_compare.py TRANSLATIONS.OUT'
@@ -44,20 +44,26 @@ for line in csv.DictReader(open(ASSIGNS), delimiter='\t'):
 	aid = line['id']
 	if lang in pair_scores:
 		if aid not in assign_pairs:
-			print aid, 'skipped'
 			continue
 		if aid not in assign_scores: assign_scores[aid] = [0.0,0.0,0.0]
 		for pair in assign_pairs[aid]:
-			try : src, trans = pair.strip().split(':')
+			try:
+				colon = pair.index(':')
+				src = pair[:colon]
+				trans = pair[colon+1:]
 			except ValueError: 
-				print pair, 'skipped'
 				continue
-			if not reg(tran) == '':
+			if not reg(trans) == '':
 				try:
-					assign_scores[aid][0] += pair_scores[lang][(reg(src), reg(tran))]
-					assign_scores[aid][1] += 1
-				except KeyError: assign_scores[aid][2] += 1 #word pair not in reference dictionaries
+					for t in trans.split(','):
+				#		print aid, lang, reg(src), reg(t)
+						assign_scores[aid][0] += pair_scores[lang][(reg(src), reg(t))]
+						assign_scores[aid][1] += 1
+				except KeyError: 
+				#	print aid, lang, reg(src), reg(t)
+					assign_scores[aid][2] += 1 #word pair not in reference dictionaries
 
-for lang, (match, tot, skipped) in assign_scores.iteritems():
-	print '%s\t%.03f\t%d\t%d'%(lang, match/tot, tot, skipped)
+for a, (match, tot, skipped) in assign_scores.iteritems():
+	if tot == 0: print '%s\t%.03f\t%d\t%d'%(a, 0, tot, skipped)
+	else: print '%s\t%.03f\t%d\t%d'%(a, match/tot, tot, skipped)
 
