@@ -1,5 +1,5 @@
 sudamérica	southamerica	0	0	1	0
-sudamérica	south america	0	0	1	1
+sudamérica	south america	0	0	1	0
 marxismo	marxism	0	0	1	1
 obispo	bishop	0	0	1	1
 francesco	fracesco	0	0	1	0
@@ -198,7 +198,7 @@ machine	machine	0	0	1	0
 polímero	polymer	0	0	1	1
 mediante	through	0	0	1	1
 mediante	by	0	0	1	0
-mediante	by means of	0	0	1	1
+mediante	by means of	0	0	1	0
 luchó	fought	0	0	1	0
 luchó	struggle	0	0	1	0
 aprendió	learned	0	0	1	0
@@ -532,9 +532,9 @@ darío	dario	0	0	1	0
 best	best	0	0	1	0
 altamente	highly	0	0	1	1
 sueca	swedish	0	0	1	0
-ayuntamiento	city council	0	0	1	1
+ayuntamiento	city council	0	0	1	0
 ayuntamiento	council	0	0	1	0
-ayuntamiento	city hall	0	0	1	1
+ayuntamiento	city hall	0	0	1	0
 manson	manson	0	0	1	0
 sombrero	hat	0	0	1	1
 sueco	swedish	0	0	1	1
@@ -584,7 +584,7 @@ cuadrados	square	0	0	1	0
 exitosa	successful	0	0	1	0
 exitosa	succesful	0	0	1	0
 casarse	marry	0	0	1	1
-casarse	get married	0	0	1	1
+casarse	get married	0	0	1	0
 lanzamiento	release	0	0	1	1
 lanzamiento	launch	0	0	1	1
 felicidad	happines	0	0	1	0
@@ -747,7 +747,7 @@ posee	poses	0	0	1	0
 posee	has	0	0	1	0
 posee	holds	0	0	1	0
 ganadería	livestock	0	0	1	0
-ganadería	cattle raising	0	0	1	1
+ganadería	cattle raising	0	0	1	0
 ecología	ecology	0	0	1	1
 vigilante	watchers	1	1	0	0
 vigilante	the guard	1	0	1	0
@@ -990,7 +990,7 @@ levantamiento	raising	0	0	1	1
 levantamiento	ground lifting	0	0	1	0
 levantamiento	wakefulness	0	0	1	0
 diciembre	december	0	0	1	1
-viceversa	vice versa	0	0	1	1
+viceversa	vice versa	0	0	1	0
 viceversa	viceversa	0	0	1	0
 machu	machu	0	0	1	0
 distinguir	distinguish	0	0	1	1
@@ -1161,7 +1161,7 @@ dramaturgo	playwright	0	0	1	1
 dramaturgo	dramatist	0	0	1	1
 sierra	mountains	0	0	1	0
 sierra	saw	0	0	1	1
-sierra	mountain range	0	0	1	1
+sierra	mountain range	0	0	1	0
 visual	visual	0	0	1	1
 ecológicos	ecological	0	0	1	0
 ecológicos	ecologic	0	0	1	0
@@ -1885,7 +1885,7 @@ favorito	favorite	0	0	1	1
 sobrenombre	subname	0	0	1	0
 sobrenombre	nickname	0	0	1	1
 sobrenombre	pen name	0	0	1	0
-costarricense	costa rican	0	0	1	1
+costarricense	costa rican	0	0	1	0
 luces	lights	0	0	1	1
 luces	enlightenment	0	0	1	0
 pudiendo	may	0	0	1	0
@@ -1999,7 +1999,7 @@ funcionamiento	operation	0	0	1	1
 funcionamiento	working	0	0	1	1
 am	am	0	0	1	0
 al	to	0	0	1	0
-al	to the	0	0	1	1
+al	to the	0	0	1	0
 mundo	world	0	0	1	1
 an	an	0	0	1	0
 as	as	0	0	1	0
@@ -2148,7 +2148,7 @@ hormonas	hormones	0	0	1	0
 árbitros	referees	0	0	1	0
 liderado	led	0	0	1	0
 editorial	edition	0	0	1	0
-editorial	publishing house	0	0	1	1
+editorial	publishing house	0	0	1	0
 editorial	editorial	0	0	1	1
 estatuas	statues	0	0	1	0
 aquello	that	0	0	1	1
@@ -2387,7 +2387,7 @@ marfil	ivory	0	0	1	1
 monarquías	monarchies	0	0	1	0
 eléctrico	electric	0	0	1	1
 eléctrica	electric	0	0	1	0
-dividirse	be divided	0	0	1	1
+dividirse	be divided	0	0	1	0
 dividirse	divide	0	0	1	1
 correspondencia	correspondence	0	0	1	1
 exponente	exponent	0	0	1	1
@@ -2413,7 +2413,7 @@ finalmente	finally	0	0	1	1
 zeppelin	a name	0	0	1	0
 zeppelin	zeppelin	0	0	1	0
 comillas	quotes	0	0	1	1
-comillas	quotation marks	0	0	1	1
+comillas	quotation marks	0	0	1	0
 autopista	highway	0	0	1	1
 obama	obama	0	0	1	0
 vivienda	living	0	0	1	0
@@ -2501,7 +2501,7 @@ crece	grows	0	0	1	0
 crece	grow	0	0	1	0
 indios	indians	0	0	1	0
 ilíada	iliad	0	0	1	0
-regresar	come back	0	0	1	1
+regresar	come back	0	0	1	0
 regresar	to return	0	0	1	0
 regresar	return	0	0	1	1
 columna	column	0	0	1	1
@@ -3127,7 +3127,7 @@ representaciones	representations	0	0	1	0
 agua	water	0	0	1	1
 antiguamente	previously	0	0	1	0
 antiguamente	formerly	0	0	1	1
-contaminante	polluting agent	0	0	1	1
+contaminante	polluting agent	0	0	1	0
 contaminante	polluting	0	0	1	0
 contaminante	contaminated	0	0	1	0
 oficial	official	0	0	1	1
@@ -4492,7 +4492,7 @@ testimonio	will	0	0	1	0
 testimonio	testimony	0	0	1	1
 declarada	declared	0	0	1	0
 ósea	bone	0	0	1	0
-hispanoamericano	spanish american	0	0	1	1
+hispanoamericano	spanish american	0	0	1	0
 hispanoamericano	hispanoamerican	0	0	1	0
 restantes	remaining	0	0	1	0
 restantes	others	0	0	1	0
@@ -4614,7 +4614,7 @@ con	with	0	0	1	1
 habían	had	0	0	1	0
 mercurio	mercury	0	0	1	1
 entenderse	understanded	0	0	1	0
-entenderse	be understood	0	0	1	1
+entenderse	be understood	0	0	1	0
 royal	royal	0	0	1	0
 selectiva	selective	0	0	1	0
 tono	tone	0	0	1	1
@@ -4631,9 +4631,9 @@ análogo	analog	0	0	1	0
 condujeron	conducted	0	0	1	0
 condujeron	led	0	0	1	0
 condujeron	lead	0	0	1	0
-hay	there are	0	0	1	1
+hay	there are	0	0	1	0
 hay	is	0	0	1	0
-hay	there is	0	0	1	1
+hay	there is	0	0	1	0
 plantas	plants	0	0	1	0
 convirtió	became	0	0	1	0
 convirtió	converted	0	0	1	0
@@ -4805,9 +4805,9 @@ sumamente	extremely	0	0	1	1
 honores	honors	0	0	1	1
 taxonomía	taxonomy	0	0	1	0
 salir	rise	0	0	1	1
-salir	go out	0	0	1	1
+salir	go out	0	0	1	0
 humor	humor	0	0	1	1
-huir	run away	0	0	1	1
+huir	run away	0	0	1	0
 huir	escape	0	0	1	1
 romanos	romans	0	0	1	0
 jerarquía	hierarchy	0	0	1	1
@@ -6483,7 +6483,7 @@ láminas	laminae	0	0	1	0
 láminas	laminates	0	0	1	0
 reunirse	reunite	0	0	1	1
 reunirse	join	0	0	1	1
-reunirse	get together	0	0	1	1
+reunirse	get together	0	0	1	0
 convergencia	convergence	0	0	1	1
 tomaron	took	0	0	1	0
 nuestras	our	0	0	1	0
@@ -6819,7 +6819,7 @@ ejecuta	execute	0	0	1	0
 ejecuta	run	0	0	1	0
 religión	religion	0	0	1	1
 bolsa	bag	0	0	1	1
-bolsa	stock market	0	0	1	1
+bolsa	stock market	0	0	1	0
 recinto	house	0	0	1	0
 recinto	enclosure	0	0	1	1
 recinto	ground	0	0	1	0
@@ -7280,7 +7280,7 @@ recomendable	recommended	0	0	1	0
 recomendable	recommendable	0	0	1	1
 claros	clear	0	0	1	0
 sudáfrica	south african	0	0	1	0
-sudáfrica	south africa	0	0	1	1
+sudáfrica	south africa	0	0	1	0
 mcmahon	mcmahon	0	0	1	0
 entertainment	entertainment	0	0	1	0
 duró	tough	0	0	1	0
@@ -7366,7 +7366,7 @@ ocio	definition	1	0	1	0
 ocio	leisure  time	1	1	0	0
 ocio	leasure	1	0	1	0
 ocio	idleness	1	1	0	1
-ocio	leisure time	1	1	1	1
+ocio	leisure time	1	1	1	0
 ocio	leisure	1	1	1	1
 ocio	ocean	1	0	1	0
 ocio	time off	1	1	0	0
@@ -7509,7 +7509,7 @@ placer	pleasure	0	0	1	1
 uniformes	uniforms	0	0	1	0
 uniformes	uniform	0	0	1	0
 ordenado	ordered	0	0	1	1
-ordenado	in order	0	0	1	1
+ordenado	in order	0	0	1	0
 navarro	navarrese	0	0	1	1
 navarro	navarro	0	0	1	0
 navarro	of navarro	0	0	1	0
@@ -7617,7 +7617,7 @@ norteamericana	north american	0	0	1	0
 vinci	vinci	0	0	1	0
 norteamericano	norteamerican	0	0	1	0
 norteamericano	nortamerican	0	0	1	0
-norteamericano	north american	0	0	1	1
+norteamericano	north american	0	0	1	0
 forestal	forestry	0	0	1	0
 forestal	forest	0	0	1	1
 cortas	short	0	0	1	0
@@ -7887,7 +7887,7 @@ diplomático	diplomat	0	0	1	1
 diplomático	diplomatic	0	0	1	1
 ha	has	0	0	1	0
 vigente	current	0	0	1	0
-vigente	in force	0	0	1	1
+vigente	in force	0	0	1	0
 hd	hd	0	0	1	0
 he	he	0	0	1	0
 he	there	0	0	1	0
@@ -7940,7 +7940,7 @@ anuncios	advertisement	0	0	1	0
 star	star	0	0	1	0
 nuevamente	again	0	0	1	1
 nuevamente	newly	0	0	1	1
-subcampeón	runner up	0	0	1	1
+subcampeón	runner up	0	0	1	0
 subcampeón	runner-up	0	0	1	0
 subcampeón	subchampion	0	0	1	0
 comenzaron	started	0	0	1	0
@@ -8000,7 +8000,7 @@ regeneración	regeneration	0	0	1	1
 aislados	aisolated	0	0	1	0
 aislados	isolated	0	0	1	0
 portaaviones	carier	0	0	1	0
-portaaviones	aircraft carrier	0	0	1	1
+portaaviones	aircraft carrier	0	0	1	0
 salón	living	0	0	1	0
 salón	class room	0	0	1	0
 salón	hall	0	0	1	0
@@ -8240,7 +8240,7 @@ propósito	for the purpose of	0	0	1	0
 ernesto	ernest	0	0	1	1
 tomaba	used to take	0	0	1	0
 tomaba	took	0	0	1	0
-mucho	a lot	0	0	1	1
+mucho	a lot	0	0	1	0
 mucho	much	0	0	1	1
 mucho	plenty	0	0	1	1
 crecido	grown	0	0	1	0
@@ -8480,7 +8480,7 @@ fijación	obsession	0	0	1	0
 rebeldes	rebel	0	0	1	0
 rebeldes	rebellious	0	0	1	0
 rebeldes	rebels	0	0	1	0
-etcétera	et cetera	0	0	1	1
+etcétera	et cetera	0	0	1	0
 etcétera	etcetera	0	0	1	0
 carbono	carbon	0	0	1	1
 telecomunicaciones	telecommunications	0	0	1	0
@@ -8619,7 +8619,7 @@ intensidad	intensity	0	0	1	1
 alemana	german	0	0	1	0
 tiroides	thyroid	0	0	1	1
 tiroides	thyroids	0	0	1	0
-guitarrista	guitar player	0	0	1	1
+guitarrista	guitar player	0	0	1	0
 guitarrista	guitarrist	0	0	1	0
 gracias	thanks	0	0	1	1
 ocupó	occuped	0	0	1	0
@@ -9614,7 +9614,7 @@ fernández	fernandez	0	0	1	0
 oceánicas	oceanic	0	0	1	0
 oceánicas	oceanical	0	0	1	0
 burguesía	bourgeoisie	0	0	1	1
-burguesía	middle class	0	0	1	1
+burguesía	middle class	0	0	1	0
 ruido	noise	0	0	1	1
 alcanzan	overtake; achieve	0	0	1	0
 alcanzan	catch up	0	0	1	0
@@ -10153,7 +10153,7 @@ leonard	leonard	0	0	1	0
 incluir	incorporate	0	0	1	1
 incluir	include	0	0	1	1
 incluir	comprise; comprehend	0	0	1	0
-incluir	take in	0	0	1	1
+incluir	take in	0	0	1	0
 celda	cell	0	0	1	1
 ministros	ministries	0	0	1	0
 ministros	ministers	0	0	1	0
@@ -10394,7 +10394,7 @@ desintegración	desintegration	0	0	1	0
 desintegración	disintegration	0	0	1	1
 arriba	up above	0	0	1	0
 arriba	up	0	0	1	1
-recoger	pick up	0	0	1	1
+recoger	pick up	0	0	1	0
 recoger	to pick up	0	0	1	0
 japonesa	japenese	0	0	1	0
 japonesa	japanese	0	0	1	0
@@ -10673,7 +10673,7 @@ gay	gay	0	0	1	1
 surgiendo	emerging	0	0	1	0
 surgiendo	arising	0	0	1	0
 gas	gas	0	0	1	1
-demasiado	too much	0	0	1	1
+demasiado	too much	0	0	1	0
 instalado	installed	0	0	1	0
 ruptura	breakup	0	0	1	1
 ruptura	rupture	0	0	1	1
@@ -10737,7 +10737,7 @@ signos	signs	0	0	1	0
 entra	enters	0	0	1	0
 entra	goes into	0	0	1	0
 entre	between	0	0	1	1
-imprenta	printing house	0	0	1	1
+imprenta	printing house	0	0	1	0
 imprenta	printing	0	0	1	1
 tasa	rate	0	0	1	0
 artículos	artifacts	0	0	1	0
@@ -10925,7 +10925,7 @@ mccartney	mccartney	0	0	1	0
 idénticos	identical	0	0	1	0
 indirectamente	indirectly	0	0	1	1
 poder	able	0	0	1	0
-poder	be able to	0	0	1	1
+poder	be able to	0	0	1	0
 poder	power	0	0	1	1
 secuela	sequel	0	0	1	1
 natalidad	birthrate	0	0	1	1
@@ -11418,7 +11418,7 @@ transportes	transports	0	0	1	0
 transportes	transport	0	0	1	0
 have	have	0	0	1	0
 expresionismo	expressionism	0	0	1	1
-corral	poultry yard	0	0	1	1
+corral	poultry yard	0	0	1	0
 corral	farmyard	0	0	1	1
 corral	corral	0	0	1	1
 propuesta	proposed	0	0	1	0
@@ -12360,7 +12360,7 @@ corteza	layer	0	0	1	0
 corteza	cortex	0	0	1	1
 estrechamente	narrowly	0	0	1	1
 estrechamente	tightly	0	0	1	1
-enamorado	in love	0	0	1	1
+enamorado	in love	0	0	1	0
 conversión	conversion	0	0	1	1
 intentado	attempted	0	0	1	0
 intentado	tried	0	0	1	0
@@ -13408,7 +13408,7 @@ enfrentarse	face	0	0	1	1
 ejemplar	specimen	0	0	1	1
 ejemplar	copy	0	0	1	1
 futbolista	football layer	0	0	1	0
-futbolista	soccer player	0	0	1	1
+futbolista	soccer player	0	0	1	0
 ontología	ontology	0	0	1	1
 utilizarse	be used	0	0	1	0
 utilizarse	use	0	0	1	0
@@ -13548,7 +13548,7 @@ cronológico	chronological	0	0	1	1
 escena	escene	0	0	1	0
 escena	scene	0	0	1	1
 pasión	passion	0	0	1	1
-nadie	no one	0	0	1	1
+nadie	no one	0	0	1	0
 nadie	nobody	0	0	1	1
 desea	wish	0	0	1	0
 desea	wishes	0	0	1	0
@@ -14522,7 +14522,7 @@ amar	to love	0	0	1	0
 amar	love	0	0	1	1
 thumb|left|la	thumb	0	0	1	0
 contratos	contracts	0	0	1	0
-encargado	in charge	0	0	1	1
+encargado	in charge	0	0	1	0
 capturado	caught	0	0	1	0
 capturado	captured	0	0	1	0
 difíciles	difficult	0	0	1	0
@@ -14665,7 +14665,7 @@ reduce	reduces	0	0	1	0
 reduce	reduce	0	0	1	0
 fantástico	fantasy	0	0	1	0
 fantástico	fantastic	0	0	1	1
-óleo	oil painting	0	0	1	1
+óleo	oil painting	0	0	1	0
 óleo	oleo	0	0	1	0
 óleo	oil	0	0	1	1
 legitimidad	legitimacy	0	0	1	1
@@ -15784,7 +15784,7 @@ astros	astros	0	0	1	0
 astros	stars	0	0	1	0
 coche	car	0	0	1	1
 coche	coche	0	0	1	0
-actualmente	at present	0	0	1	1
+actualmente	at present	0	0	1	0
 actualmente	currently	0	0	1	0
 actualmente	nowadays	0	0	1	1
 pérdida	loss	0	0	1	1
@@ -15834,7 +15834,7 @@ gasto	guest	0	0	1	0
 afines	similar	0	0	1	0
 afines	related	0	0	1	0
 pueda	can	0	0	1	0
-cine	movie theater	0	0	1	1
+cine	movie theater	0	0	1	0
 inca	inca	0	0	1	1
 castillo	castle	0	0	1	1
 castillo	castillo	0	0	1	0

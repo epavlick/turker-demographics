@@ -6,7 +6,9 @@ morfologia	morphology	0	0	1	0
 francesco	francesco	0	0	1	0
 grêmio	grêmio	0	0	1	0
 indicação	indication	0	0	1	0
-resultando	resulting	0	0	1	0
+prazo	date	0	0	1	0
+prazo	step	0	0	1	0
+prazo	term	0	0	1	0
 igual	equals	0	0	1	0
 igual	equal	0	0	1	0
 hermann	hermann	0	0	1	0
@@ -38,7 +40,6 @@ particulares	private	0	0	1	0
 particulares	particular	0	0	1	0
 lâmina	razor	0	0	1	0
 lâmina	blade	0	0	1	0
-lâmina	lamina	0	0	1	0
 biomassa	biomass	0	0	1	0
 importantes	important	0	0	1	0
 planejamento	planning	0	0	1	0
@@ -86,14 +87,12 @@ mantevese	maintained	0	0	1	0
 mantevese	was maintained	0	0	1	0
 mantevese	kept	0	0	1	0
 k	k	0	0	1	0
-exigia	demanded	0	0	1	0
+resultando	resulting	0	0	1	0
 medicamentos	drugs	0	0	1	0
 medicamentos	medicine	0	0	1	0
-medicamentos	medicines	0	0	1	0
 controversa	controversial	0	0	1	0
 controverso	controversial	0	0	1	0
 localidade	town	0	0	1	0
-localidade	locality	0	0	1	0
 golden	golden	0	0	1	0
 divide	splits	0	0	1	0
 divide	divides	0	0	1	0
@@ -118,7 +117,6 @@ círculos	circle	0	0	1	0
 rapidamente	fast	0	0	1	0
 rapidamente	quickly	0	0	1	0
 críticas	critics	0	0	1	0
-críticas	criticisms	0	0	1	0
 críticas	critical	0	0	1	0
 funciona	it works	0	0	1	0
 funciona	works	0	0	1	0
@@ -165,7 +163,6 @@ adquirir	acquire	0	0	1	0
 produzem	originate	0	0	1	0
 produzem	produce	0	0	1	0
 fabricantes	producers	0	0	1	0
-fabricantes	maker	0	0	1	0
 fabricantes	manufacturers	0	0	1	0
 coleção	colection	0	0	1	0
 coleção	collection	0	0	1	0
@@ -242,7 +239,6 @@ leituras	readings	0	0	1	0
 liderou	leaded	0	0	1	0
 liderou	led	0	0	1	0
 wales	wales	0	0	1	0
-fio	wire	0	0	1	0
 fio	string	0	0	1	0
 fio	thread	0	0	1	0
 fim	end	0	0	1	0
@@ -288,6 +284,8 @@ realizou	did	0	0	1	0
 realizou	performed	0	0	1	0
 americanas	american	0	0	1	0
 americanas	americans	0	0	1	0
+marcos	landmarks	0	0	1	0
+marcos	mark	0	0	1	0
 financiar	finance	0	0	1	0
 convertidos	converted	0	0	1	0
 estágios	internship	0	0	1	0
@@ -297,7 +295,6 @@ urbano	urban	0	0	1	0
 causou	caused	0	0	1	0
 causou	made	0	0	1	0
 urbana	urban	0	0	1	0
-urbana	civic	0	0	1	0
 mason	mason	0	0	1	0
 mason	freemason	0	0	1	0
 mason	macon	0	0	1	0
@@ -351,7 +348,6 @@ cinquenta	fifty	0	0	1	0
 desportos	sports	0	0	1	0
 imenso	large	0	0	1	0
 imenso	immense	0	0	1	0
-imenso	great	0	0	1	0
 descritiva	descriptive	0	0	1	0
 interpretar	intepretate	0	0	1	0
 interpretar	interpret	0	0	1	0
@@ -374,7 +370,6 @@ nirvana	nirvana	0	0	1	0
 memórias	memories	0	0	1	0
 memórias	memoirs	0	0	1	0
 responsabilidades	responsabilities	0	0	1	0
-responsabilidades	responsibility	0	0	1	0
 bairros	neighborhood	0	0	1	0
 bairros	neighborhoods	0	0	1	0
 investigação	investigation	0	0	1	0
@@ -429,7 +424,7 @@ mantinha	kept	0	0	1	0
 mantinha	(it) kept	0	0	1	0
 surpresa	surprise	0	0	1	0
 victoria	victoria	0	0	1	0
-kelly	great dancer's first name (i'm singing in the rain...)	0	0	1	0
+obediência	obedience	0	0	1	0
 tratou	dealt with	0	0	1	0
 tratou	treated	0	0	1	0
 cúpula	dome	0	0	1	0
@@ -480,7 +475,6 @@ revolucionário	revolutionary	0	0	1	0
 revolucionária	revolutionary	0	0	1	0
 financeiras	finacial	0	0	1	0
 financeiras	financial	0	0	1	0
-financeiras	financier	0	0	1	0
 chileno	chilean	0	0	1	0
 religiosos	religious	0	0	1	0
 rico	rich	0	0	1	0
@@ -547,7 +541,6 @@ expressão	expression	0	0	1	0
 jurisdição	jurisdiction	0	0	1	0
 prótons	protons	0	0	1	0
 prado	prado	0	0	1	0
-prado	meadow	0	0	1	0
 novembro	november	0	0	1	0
 nossas	our	0	0	1	0
 nossas	ours	0	0	1	0
@@ -566,7 +559,6 @@ barça	fathom	0	0	1	0
 criança	child	0	0	1	0
 meridional	southern	0	0	1	0
 meridional	meridional	0	0	1	0
-láctea	lactea	0	0	1	0
 láctea	milky	0	0	1	0
 preço	price	0	0	1	0
 hormônio	hormone	0	0	1	0
@@ -586,7 +578,6 @@ célebres	famous	0	0	1	0
 célebres	celebrated	0	0	1	0
 praticada	praticed	0	0	1	0
 praticada	practiced	0	0	1	0
-doméstica	domestica	0	0	1	0
 doméstica	domestic	0	0	1	0
 localizadas	placed	0	0	1	0
 localizadas	localized	0	0	1	0
@@ -625,8 +616,6 @@ child	criança	0	0	1	0
 child	child	0	0	1	0
 quão	as much	0	0	1	0
 quão	how	0	0	1	0
-quão	how much	0	0	1	0
-chili	chili	0	0	1	0
 caído	fallen	0	0	1	0
 medida	measure	0	0	1	0
 influenciou	influenced	0	0	1	0
@@ -653,13 +642,13 @@ postos	stands	0	0	1	0
 desta	this	0	0	1	0
 formas	forms	0	0	1	0
 formas	shapes	0	0	1	0
-deste	this	0	0	1	0
+barreiras	barriers	0	0	1	0
+barreiras	barrier	0	0	1	0
 ideológica	ideological	0	0	1	0
 efetivamente	effectively	0	0	1	0
 efetivamente	efectively	0	0	1	0
 efetivamente	actually	0	0	1	0
 podese	could	0	0	1	0
-podese	we can start	0	0	1	0
 discurso	discussions	0	0	1	0
 discurso	speech	0	0	1	0
 madonna	madonna	0	0	1	0
@@ -732,8 +721,7 @@ tomam	take	0	0	1	0
 tomam	took	0	0	1	0
 bovinos	cattle	0	0	1	0
 bovinos	bovine	0	0	1	0
-afluentes	fluent	0	0	1	0
-afluentes	tributaries	0	0	1	0
+turquia	turkey	0	0	1	0
 escolhida	chosen	0	0	1	0
 avançados	forward property	0	0	1	0
 avançados	advanced	0	0	1	0
@@ -743,7 +731,6 @@ candidato	candidate	0	0	1	1
 suecos	swedish	0	0	1	0
 exagerado	exaggerated	0	0	1	0
 habitação	home	0	0	1	0
-habitação	habitat	0	0	1	0
 habitação	habitation	0	0	1	0
 relevância	relevance	0	0	1	0
 gado	cattle	0	0	1	0
@@ -771,7 +758,6 @@ esquema	scheme	0	0	1	0
 esquema	schematic	0	0	1	0
 pérsia	persia	0	0	1	0
 pérsia	persian	0	0	1	0
-for	it is	0	0	1	0
 for	para	0	0	1	0
 assinado	murdered	0	0	1	0
 assinado	signed	0	0	1	0
@@ -831,7 +817,7 @@ crescendo	growing	0	0	1	0
 crescendo	increasing	0	0	1	0
 crescendo	grow	0	0	1	0
 maxwell	maxwell	0	0	1	0
-juramento	oath	0	0	1	1
+marshall	marshall	0	0	1	0
 som	sound	0	0	1	0
 som	noise	0	0	1	0
 sol	sun	0	0	1	1
@@ -848,7 +834,6 @@ novo	new	0	0	1	0
 químico	chemical	0	0	1	0
 químico	chemist	0	0	1	0
 levava	took	0	0	1	0
-tuberculose	tb	0	0	1	0
 tuberculose	tuberculosis	0	0	1	0
 panorama	panorama	0	0	1	0
 panorama	outlook	0	0	1	0
@@ -882,7 +867,6 @@ perfeita	perfect	0	0	1	0
 chuvas	rains	0	0	1	0
 chuvas	rain	0	0	1	0
 vencedora	winner	0	0	1	0
-demonstra	demonstrate	0	0	1	0
 demonstra	shows	0	0	1	0
 demonstra	show	0	0	1	0
 peso	weight	0	0	1	0
@@ -899,12 +883,10 @@ liberal	liberal	0	0	1	0
 marxista	marxist	0	0	1	0
 marxista	marxistr	0	0	1	0
 possuíam	possessed	0	0	1	0
-possuíam	possess	0	0	1	0
 cometas	comets	0	0	1	0
 cometas	cometas	0	0	1	0
 abrange	has got	0	0	1	0
 abrange	covers	0	0	1	0
-minas	minas	0	0	1	0
 minas	mines	0	0	1	0
 prover	provide	0	0	1	0
 prover	to provide	0	0	1	0
@@ -932,9 +914,9 @@ ecossistemas	ecosistem	0	0	1	0
 institutos	institute	0	0	1	0
 institutos	institutes	0	0	1	0
 modelo	model	0	0	1	0
+rei	king	0	0	1	0
 miranda	miranda	0	0	1	0
-transportes	transportation	0	0	1	0
-transportes	transport	0	0	1	0
+rolling	rolling	0	0	1	0
 buscava	sought	0	0	1	0
 buscava	tried to	0	0	1	0
 buscava	searched	0	0	1	0
@@ -944,9 +926,8 @@ mídias	media	0	0	1	0
 intervenção	intervention	0	0	1	0
 pior	worst	0	0	1	0
 durou	last	0	0	1	0
-durou	lasted	0	0	1	0
 durou	spends	0	0	1	0
-abstração	abstraction	0	0	1	0
+alegou	claimed	0	0	1	0
 considerado	considered	0	0	1	0
 considerado	cosidered	0	0	1	0
 considerada	considered	0	0	1	0
@@ -973,7 +954,6 @@ saindo	leaving	0	0	1	0
 saindo	exiting	0	0	1	0
 microscópio	microscope	0	0	1	0
 tráfico	trafic	0	0	1	0
-tráfico	traffic	0	0	1	0
 mostram	showed	0	0	1	0
 mostram	show	0	0	1	0
 caos	caos	0	0	1	0
@@ -983,7 +963,6 @@ minuto	perform	1	0	1	0
 minuto	execute	1	0	1	0
 minuto	minute	1	1	0	0
 colapso	colapse	0	0	1	0
-colapso	collapsed	0	0	1	0
 colapso	collapse	0	0	1	0
 moura	moorish	0	0	1	0
 moura	moura	0	0	1	0
@@ -1021,10 +1000,8 @@ proximidades	proximities	0	0	1	0
 prevista	expected	0	0	1	0
 prevista	previewed	0	0	1	0
 aproximar	approach	0	0	1	0
-aproximar	approximate	0	0	1	0
 aproximar	to approximate	0	0	1	0
 previsto	provided	0	0	1	0
-previsto	previewed	0	0	1	0
 previsto	forecasted	0	0	1	0
 sintomas	symptoms	0	0	1	0
 sintomas	symptons	0	0	1	0
@@ -1034,7 +1011,6 @@ melo	melo	0	0	1	0
 galileu	galileu	0	0	1	0
 pintar	paint	0	0	1	0
 pintar	paints	0	0	1	0
-fronteira	boarder	0	0	1	0
 fronteira	border	0	0	1	0
 funeral	funeral	0	0	1	0
 século	century	0	0	1	0
@@ -1062,7 +1038,6 @@ provocado	aggravated	0	0	1	0
 provocado	made by	0	0	1	0
 love	love	0	0	1	0
 diálogos	dialogs	0	0	1	0
-diálogos	dialogues	0	0	1	0
 diálogos	dialog	0	0	1	0
 aprovação	approval	0	0	1	0
 aprovação	aproval	0	0	1	0
@@ -1102,7 +1077,8 @@ visual	visual	0	0	1	0
 ecológicos	ecological	0	0	1	0
 ecológicos	ecology	0	0	1	0
 ecológicos	ecologic	0	0	1	0
-amado	loved	0	0	1	0
+parcial	partial	0	0	1	0
+parcial	parcial	0	0	1	0
 complicações	complications	0	0	1	0
 complicações	compilations	0	0	1	0
 herança	eritage	0	0	1	0
@@ -1152,8 +1128,6 @@ quintafeira	thursday	0	0	1	0
 propagação	propagation	0	0	1	0
 trazem	brought	0	0	1	0
 trazem	bring	0	0	1	0
-trazem	they bring	0	0	1	0
-diminui	diminish	0	0	1	0
 diminui	shortens	0	0	1	0
 diminui	diminishes	0	0	1	0
 significava	meant	0	0	1	0
@@ -1225,7 +1199,6 @@ magos	wizards	0	0	1	0
 frequente	frequently	0	0	1	0
 frequente	frequent	0	0	1	0
 kong	kong	0	0	1	0
-citado	cited	0	0	1	0
 citado	quoted	0	0	1	0
 engenharia	engineering	0	0	1	0
 falado	spoken	0	0	1	0
@@ -1263,7 +1236,6 @@ dinastia	dinasty	0	0	1	0
 feijão	bean	0	0	1	0
 feijão	beans	0	0	1	0
 entraram	entered	0	0	1	0
-entraram	enter	0	0	1	0
 encontrados	found	0	0	1	0
 twilight	crepúsculo	0	0	1	0
 twilight	twilight	0	0	1	0
@@ -1307,7 +1279,6 @@ torá	log	0	0	1	0
 ódio	hate	0	0	1	0
 açores	azores	0	0	1	0
 açores	açores	0	0	1	0
-cavaleiros	gentlemen	0	0	1	0
 cavaleiros	horsemen	0	0	1	0
 cavaleiros	knights	0	0	1	0
 braga	braga	0	0	1	0
@@ -1322,7 +1293,6 @@ irão	will	0	0	1	0
 irão	iran	0	0	1	0
 cultos	cults	0	0	1	0
 variedades	varieties	0	0	1	0
-variedades	variety	0	0	1	0
 poema	poem	0	0	1	0
 queijo	cheese	0	0	1	0
 preferem	would rather	0	0	1	0
@@ -1352,13 +1322,12 @@ primeiroministro	prime-minister	0	0	1	0
 opep	opep	0	0	1	0
 maiores	biggers	0	0	1	0
 maiores	bigger	0	0	1	0
-maiores	largest	0	0	1	0
 ono	ono	0	0	1	0
 misturas	mix	0	0	1	0
 misturas	mixtures	0	0	1	0
 misturas	mixes	0	0	1	0
 potter	potter	0	0	1	0
-one	one	0	0	1	0
+indonésia	indonesia	0	0	1	0
 voto	vote	0	0	1	0
 preparação	preparation	0	0	1	0
 almas	souls	0	0	1	0
@@ -1367,9 +1336,9 @@ nestes	in this	0	0	1	0
 clássicas	calassic	0	0	1	0
 clássicas	classical	0	0	1	0
 clássicas	classic	0	0	1	0
+onu	onu	0	0	1	0
 onu	un	0	0	1	0
 onu	united nations	0	0	1	0
-onu	onu	0	0	1	0
 fixação	fixation	0	0	1	0
 fixação	setting	0	0	1	0
 city	city	0	0	1	0
@@ -1408,7 +1377,6 @@ rival	rival	0	0	1	0
 compostos	composed	0	0	1	0
 compostos	compound	0	0	1	0
 budista	budist	0	0	1	0
-budista	buddist	0	0	1	0
 budista	buddhist	0	0	1	0
 tradução	translation	0	0	1	0
 faziam	did	0	0	1	0
@@ -1459,7 +1427,6 @@ inibidores	inhibitors	0	0	1	0
 evoluíram	evolve	0	0	1	0
 evoluíram	evolved	0	0	1	0
 mudanças	changes	0	0	1	0
-mate	kill	0	0	1	0
 vizinhança	neighborhood	0	0	1	0
 vasto	large	0	0	1	0
 vasto	wide	0	0	1	0
@@ -1523,14 +1490,12 @@ procedimentos	procedures	0	0	1	0
 prima	cousin	0	0	1	0
 helena	helena	0	0	1	0
 helena	helen	0	0	1	0
-pinturas	paints	0	0	1	0
 pinturas	painting	0	0	1	0
 pinturas	paintings	0	0	1	0
 vogais	vowels	0	0	1	0
 bebida	drink	0	0	1	0
 roger	roger	0	0	1	0
 recife	reef	0	0	1	0
-recife	recifa	0	0	1	0
 zahar	zahar	0	0	1	0
 diria	would say	0	0	1	0
 época	age	0	0	1	0
@@ -1548,8 +1513,7 @@ misantropia	ground	1	0	1	0
 misantropia	misantrophy	1	0	1	0
 misantropia	misantropy	1	1	0	0
 misantropia	misanthropy	1	1	0	0
-difundida	widespread	0	0	1	0
-difundida	spread	0	0	1	0
+joinville	joinville	0	0	1	0
 isabel	isabel	0	0	1	0
 isabel	elizabeth	0	0	1	0
 paradigmas	paradigm	0	0	1	0
@@ -1569,14 +1533,14 @@ vendeu	solled	0	0	1	0
 geográfica	geographic	0	0	1	0
 geográfica	geography	0	0	1	0
 escrita	written	0	0	1	0
-escrita	writing	0	0	1	0
 vertical	vertical	0	0	1	0
 permitindo	allowing	0	0	1	0
 permitindo	allowed	0	0	1	0
 continuava	continued	0	0	1	0
 mosquitos	flies	0	0	1	0
 mosquitos	mosquitos	0	0	1	0
-escrito	written	0	0	1	0
+ue	eu	0	0	1	0
+ue	eu european union	0	0	1	0
 enriquecimento	enrichment	0	0	1	0
 awards	awards	0	0	1	0
 filipinas	philippines	0	0	1	0
@@ -1598,8 +1562,8 @@ droga	drugs	0	0	1	0
 droga	drug	0	0	1	0
 droga	drougs	0	0	1	0
 considera	(he) considers	0	0	1	0
-considera	considers	0	0	1	0
 considera	consider	0	0	1	0
+considera	considers	0	0	1	0
 presas	hurry	0	0	1	0
 presas	prey	0	0	1	0
 presas	jailed	0	0	1	0
@@ -1622,7 +1586,6 @@ fagócito	phygocyte	1	1	0	0
 west	west	0	0	1	0
 cavernas	caves	0	0	1	0
 cavernas	cave	0	0	1	0
-afirmando	afirming	0	0	1	0
 afirmando	claiming	0	0	1	0
 afirmando	stating	0	0	1	0
 variáveis	variable	0	0	1	0
@@ -1645,7 +1608,6 @@ dióxido	carbon dioxide	0	0	1	0
 dióxido	dioxide	0	0	1	0
 título	headlines	0	0	1	0
 título	title	0	0	1	0
-limitação	restriction	0	0	1	0
 limitação	limitation	0	0	1	0
 limitação	limit	0	0	1	0
 orientação	side	0	0	1	0
@@ -1741,9 +1703,7 @@ discutido	discussed	0	0	1	0
 discutido	dicussing	0	0	1	0
 escolhas	choices	0	0	1	0
 aborto	abortion	0	0	1	1
-niterói	niterói	0	0	1	0
 niterói	niteroi	0	0	1	0
-científicas	turn into science	0	0	1	0
 científicas	scientific	0	0	1	0
 categoria	category	0	0	1	0
 maomé	maometh	0	0	1	0
@@ -1810,7 +1770,6 @@ econômicos	economic	0	0	1	0
 racial	racial	0	0	1	1
 até	till	0	0	1	0
 até	untill	0	0	1	0
-até	until	0	0	1	0
 cristina	it's a name of a person	0	0	1	0
 cristina	cristina	0	0	1	0
 divina	divine	0	0	1	0
@@ -1875,7 +1834,6 @@ senão	if not	0	0	1	0
 senão	or else	0	0	1	0
 senão	otherwise	0	0	1	0
 extremidade	extremity	0	0	1	0
-extremidade	end	0	0	1	0
 extremidade	border	0	0	1	0
 alemãs	german	0	0	1	0
 alemãs	germans	0	0	1	0
@@ -1968,7 +1926,6 @@ diferentemente	distinctively	0	0	1	0
 diferentemente	differently	0	0	1	0
 indianos	indians	0	0	1	0
 indianos	indian	0	0	1	0
-majoritariamente	majorly	0	0	1	0
 majoritariamente	mostly	0	0	1	0
 majoritariamente	predominantly	0	0	1	0
 página	page	0	0	1	0
@@ -1979,9 +1936,8 @@ potencialmente	potentially	0	0	1	0
 influenza	flu	0	0	1	0
 senna	senna	0	0	1	0
 trigonometria	trigonometry	0	0	1	0
-ferreira	ferreira	0	0	1	0
-ferreira	smithy	0	0	1	0
-ferreira	that's a personal name	0	0	1	0
+conhecemos	know	0	0	1	0
+conhecemos	we know	0	0	1	0
 pintado	painted	0	0	1	0
 dáse	give	0	0	1	0
 dáse	dase	0	0	1	0
@@ -1990,7 +1946,6 @@ bilhões	billion	0	0	1	0
 bilhões	billions	0	0	1	0
 garantido	ensuring	0	0	1	0
 garantido	guaranteed	0	0	1	0
-garantido	prepared	0	0	1	0
 trabalhadores	workers	0	0	1	0
 páginas	pages	0	0	1	0
 rapaz	boy	0	0	1	0
@@ -2056,7 +2011,6 @@ açúcar	sugar	0	0	1	0
 definido	defined	0	0	1	0
 flamengo	flamengo	0	0	1	0
 flamengo	flemish	0	0	1	0
-definida	defined	0	0	1	0
 argumentos	arguments	0	0	1	0
 novidade	news	0	0	1	0
 novidade	novelty	0	0	1	0
@@ -2068,7 +2022,6 @@ vegetais	vegetals	0	0	1	0
 vegetais	vegetables	0	0	1	0
 observadas	observed	0	0	1	0
 conexões	connections	0	0	1	0
-conexões	connection	0	0	1	0
 conexões	conections	0	0	1	0
 pinheiros	pine tree	0	0	1	0
 pinheiros	pine trees	0	0	1	0
@@ -2098,7 +2051,6 @@ social	social	0	0	1	0
 persa	persian	0	0	1	0
 colaboradores	partners	0	0	1	0
 colaboradores	employees	0	0	1	0
-colaboradores	colaborators	0	0	1	0
 via	by away of	0	0	1	0
 via	via	0	0	1	0
 via	way	0	0	1	0
@@ -2107,7 +2059,6 @@ vii	six	0	0	1	0
 nordeste	north-east	0	0	1	0
 nordeste	northeast	0	0	1	0
 vir	come	0	0	1	0
-diariamente	day in day out	0	0	1	0
 diariamente	daily	0	0	1	1
 conquistado	conquered	0	0	1	0
 conquistado	won	0	0	1	0
@@ -2115,7 +2066,6 @@ catarina	catarina	0	0	1	0
 viu	saw	0	0	1	0
 ampliação	ampliation	0	0	1	0
 ampliação	amplification	0	0	1	0
-herdou	hand down	0	0	1	0
 herdou	inherited	0	0	1	0
 reunião	meeting	0	0	1	0
 reunião	reunion	0	0	1	0
@@ -2123,8 +2073,7 @@ corte	cut	0	0	1	0
 corte	court	0	0	1	0
 conquistada	conquered	0	0	1	0
 conquistada	conquer	0	0	1	0
-objetiva	objective	0	0	1	0
-objetiva	objectiv	0	0	1	0
+silva	silva	0	0	1	0
 maçônica	masonic	0	0	1	0
 previamente	previously	0	0	1	0
 primária	primary	0	0	1	0
@@ -2132,8 +2081,6 @@ primário	primary	0	0	1	0
 designação	name	0	0	1	0
 designação	designation	0	0	1	0
 designação	title	0	0	1	0
-rendimento	revenue	0	0	1	0
-rendimento	income	0	0	1	0
 objetivo	objective	0	0	1	0
 objetivo	goal	0	0	1	0
 certamente	certainly	0	0	1	0
@@ -2147,7 +2094,6 @@ biodiversidade	biodiversity	0	0	1	0
 política	policy	0	0	1	0
 mora	lives	0	0	1	0
 teen	teen	0	0	1	0
-testes	test	0	0	1	0
 testes	tests	0	0	1	0
 company	company	0	0	1	0
 visualização	visualization	0	0	1	0
@@ -2211,12 +2157,11 @@ carboidratos	carbohidrates	0	0	1	0
 carboidratos	carbohydrates	0	0	1	0
 disponíveis	available	0	0	1	0
 disponíveis	disponible	0	0	1	0
-noutros	other	0	0	1	0
 noutros	in others	0	0	1	0
-francês	frenchman	0	0	1	0
 francês	french	0	0	1	0
-frases	phrases	0	0	1	0
-frases	sentences	0	0	1	0
+brilhantes	brilliant	0	0	1	0
+brilhantes	bright	0	0	1	0
+brilhantes	shiny	0	0	1	0
 papel	paper	0	0	1	0
 símbolos	simbols	0	0	1	0
 símbolos	symbol	0	0	1	0
@@ -2256,7 +2201,6 @@ comuna	comunist	0	0	1	0
 centrais	central	0	0	1	0
 centrais	contral	0	0	1	0
 fios	wires	0	0	1	0
-fios	threads	0	0	1	0
 bolchevique	bolchevique	0	0	1	0
 bolchevique	bolshevik	0	0	1	0
 consigo	with you	0	0	1	0
@@ -2274,7 +2218,6 @@ formais	formal	0	0	1	0
 subiu	rose	0	0	1	0
 subiu	upped	0	0	1	0
 relacionamentos	relationships	0	0	1	0
-subir	rise	0	0	1	0
 subir	up	0	0	1	0
 subir	raise	0	0	1	0
 céus	heavens	0	0	1	0
@@ -2282,7 +2225,6 @@ céus	heaven	0	0	1	0
 céus	skies	0	0	1	0
 noventa	ninety	0	0	1	0
 noventa	ninty	0	0	1	0
-ácidos	acids	0	0	1	0
 celebridades	celebrities	0	0	1	0
 jornalistas	journalists	0	0	1	0
 coesão	cohesion	0	0	1	0
@@ -2313,7 +2255,6 @@ esculturas	sculptures	0	0	1	0
 visitantes	visitors	0	0	1	0
 votos	vote	0	0	1	0
 votos	votes	0	0	1	0
-localizado	located	0	0	1	0
 localizado	localized	0	0	1	0
 bandeira	flag	0	0	1	0
 vicecampeão	vice champion	0	0	1	0
@@ -2368,7 +2309,7 @@ raça	race	0	0	1	0
 bispo	bishop	0	0	1	0
 zeppelin	zeppelin	0	0	1	0
 indústria	industry	0	0	1	0
-grace	grace	0	0	1	0
+hollywood	hollywood	0	0	1	0
 obama	obama	0	0	1	0
 ficaria	would stay	0	0	1	0
 ficaria	would	0	0	1	0
@@ -2398,7 +2339,6 @@ crescido	grown	0	0	1	0
 crescido	grown up	0	0	1	0
 abertamente	openly	0	0	1	0
 cerebral	cerebral	0	0	1	0
-cerebral	brain	0	0	1	0
 optou	chosen	0	0	1	0
 optou	chose	0	0	1	0
 tiver	would have	0	0	1	0
@@ -2443,12 +2383,11 @@ abriram	opened	0	0	1	0
 microsoft	microsoft	0	0	1	0
 jogada	play	0	0	1	0
 jogada	handoff	0	0	1	0
-jogada	threw	0	0	1	0
 seguiram	followed	0	0	1	0
 seguiram	continued	0	0	1	0
 urss	ussr	0	0	1	0
 urss	urss	0	0	1	0
-gold	first word	0	0	1	0
+defendem	defend	0	0	1	0
 crosta	crust	0	0	1	0
 gols	goals	0	0	1	0
 virtude	virtue	0	0	1	0
@@ -2481,24 +2420,19 @@ corrida	race	0	0	1	0
 destacando	highlighting	0	0	1	0
 assumir	assume	0	0	1	0
 assumir	assumed	0	0	1	0
-assumiu	assume	0	0	1	0
 assumiu	assumed	0	0	1	0
 gastrulação	dastrulation	1	0	1	0
 gastrulação	gastrulacao	1	0	1	0
 gastrulação	gastrolation	1	0	1	0
 gastrulação	gastrulation	1	1	0	0
 gastrulação	possible	1	0	1	0
-receita	revenue	0	0	1	0
-receita	money	0	0	1	0
-receita	receipt	0	0	1	0
-receita	income	0	0	1	0
+progressiva	progressive	0	0	1	0
 superiores	superior	0	0	1	0
 superiores	superiors	0	0	1	0
 rumores	rumors	0	0	1	0
 pertencente	belonging	0	0	1	0
 pertencente	belongs	0	0	1	0
 ocde	oecd	0	0	1	0
-ocde	organization for economic cooperation and development	0	0	1	0
 progressivo	progressive	0	0	1	0
 canadense	canadian	0	0	1	0
 camada	layer	0	0	1	0
@@ -2527,12 +2461,10 @@ ocorreram	occurred	0	0	1	0
 sex	sex	0	0	1	0
 âmbito	sphere	0	0	1	0
 âmbito	scope	0	0	1	0
-âmbito	ambition	0	0	1	0
 individualismo	individualism	0	0	1	0
 individualismo	magnitudes	0	0	1	0
-prazo	date	0	0	1	0
-prazo	step	0	0	1	0
-prazo	term	0	0	1	0
+contava	had	0	0	1	0
+contava	counted	0	0	1	0
 sem	without	0	0	1	0
 pênaltis	penalties	0	0	1	0
 pênaltis	penalty kicks	0	0	1	0
@@ -2566,7 +2498,6 @@ discursos	speeches	0	0	1	0
 samba	samba	0	0	1	1
 domínios	fields	0	0	1	0
 domínios	domain	0	0	1	0
-domínios	dominions	0	0	1	0
 interface	interface	0	0	1	0
 digitais	digitals	0	0	1	0
 digitais	digital	0	0	1	0
@@ -2612,7 +2543,6 @@ conjunto	group	0	0	1	0
 exposta	exposed	0	0	1	0
 planetas	planets	0	0	1	0
 destacaramse	stood out	0	0	1	0
-destacaramse	destacaramse	0	0	1	0
 destacaramse	distinguish themselves	0	0	1	0
 alimentares	food	0	0	1	0
 alimentares	alimentary	0	0	1	0
@@ -2622,13 +2552,11 @@ ligando	calling	0	0	1	1
 imediata	immediate	0	0	1	0
 moradores	dwellers	0	0	1	0
 moradores	resident	0	0	1	0
-fire	fire	0	0	1	0
 imediato	immediate	0	0	1	0
 representativa	representative	0	0	1	0
 aquisição	acquisition	0	0	1	0
 representativo	representative	0	0	1	0
 químicas	chemical	0	0	1	0
-químicas	chemicals	0	0	1	0
 químicas	chemistry	0	0	1	0
 impediu	prevented	0	0	1	0
 impediu	stop	0	0	1	0
@@ -2699,7 +2627,7 @@ materno	moternal	0	0	1	0
 asteca	aztec	0	0	1	0
 produzida	produced	0	0	1	0
 intelecto	intelect	0	0	1	0
-obediência	obedience	0	0	1	0
+kelly	great dancer's first name (i'm singing in the rain...)	0	0	1	0
 prejuízo	prejudice	0	0	1	0
 concreto	concrete	0	0	1	0
 concreto	concret	0	0	1	0
@@ -2718,7 +2646,6 @@ hobbes	hobbes	0	0	1	0
 descobriram	found	0	0	1	0
 sítios	sites	0	0	1	0
 sítios	places	0	0	1	0
-sítios	location	0	0	1	0
 castigo	punishment	0	0	1	0
 ajudam	helped	0	0	1	0
 ajudam	help	0	0	1	0
@@ -2789,8 +2716,7 @@ dramaturgo	playwright	0	0	1	0
 dramaturgo	dramaturg	0	0	1	0
 dramaturgo	gramatist	0	0	1	0
 descrição	description	0	0	1	0
-parcial	partial	0	0	1	0
-parcial	parcial	0	0	1	0
+amado	loved	0	0	1	0
 mario	mario	0	0	1	0
 projetos	project	0	0	1	0
 projetos	projects	0	0	1	0
@@ -2801,16 +2727,15 @@ versalhes	versailles	0	0	1	0
 sobrevivência	survival	0	0	1	0
 anterior	previous	0	0	1	0
 colocou	put	0	0	1	0
-colocou	placed	0	0	1	0
 inspirado	inspired	0	0	1	0
 graças	thanks	0	0	1	0
 inspirada	inspired	0	0	1	0
 inspirada	based	0	0	1	0
 equipamento	equipments	0	0	1	0
 equipamento	equipment	0	0	1	0
-integral	whole	0	0	1	0
-integral	important	0	0	1	0
 integral	integral	0	0	1	0
+integral	important	0	0	1	0
+integral	whole	0	0	1	0
 integram	integrate	0	0	1	0
 integrar	integrate	0	0	1	0
 disputado	disputed	0	0	1	0
@@ -2867,7 +2792,6 @@ line	line	0	0	1	0
 paisagem	landscape	0	0	1	0
 heinrich	heinrich	0	0	1	0
 cia	cia	0	0	1	0
-cia	co	0	0	1	0
 difundido	broadcast	0	0	1	0
 difundido	broadcasted	0	0	1	0
 região	region	0	0	1	0
@@ -2877,7 +2801,8 @@ indicam	bright	0	0	1	0
 indicam	pointed	0	0	1	0
 elétricas	electrical	0	0	1	0
 elétricas	electrics	0	0	1	0
-joinville	joinville	0	0	1	0
+difundida	widespread	0	0	1	0
+difundida	spread	0	0	1	0
 compilação	compilation	0	0	1	0
 um	a	0	0	1	0
 um	one	0	0	1	0
@@ -2888,8 +2813,7 @@ indicar	indicate	0	0	1	0
 testamento	testament	0	0	1	0
 coerente	consistent	0	0	1	0
 coerente	coherent	0	0	1	0
-ue	eu	0	0	1	0
-ue	eu european union	0	0	1	0
+escrito	written	0	0	1	0
 definem	defined	0	0	1	0
 definem	they define	0	0	1	0
 definem	define	0	0	1	0
@@ -2909,7 +2833,6 @@ imprensa	imprense	0	0	1	0
 hidrocarbonetos	hydrocarbons	0	0	1	0
 hidrocarbonetos	hydrocarbonet	0	0	1	0
 amostras	sample	0	0	1	0
-amostras	samples	0	0	1	1
 hepática	hepatic	0	0	1	0
 principado	principality	0	0	1	0
 principado	first state	0	0	1	0
@@ -3027,7 +2950,6 @@ considerase	considered	0	0	1	0
 considerase	consider	0	0	1	0
 considerase	is considered	0	0	1	0
 carbônico	carbonic	0	0	1	0
-border|px	borderpx	0	0	1	0
 border|px	border	0	0	1	0
 video	video	0	0	1	0
 fascistas	fascist	0	0	1	0
@@ -3044,8 +2966,8 @@ turismo	turism	0	0	1	0
 enterrado	burried	0	0	1	0
 enterrado	buried	0	0	1	0
 enterrado	grounded	0	0	1	0
-imaginação	magination	0	0	1	0
 imaginação	imagination	0	0	1	0
+imaginação	magination	0	0	1	0
 difícil	hard	0	0	1	0
 difícil	difficult	0	0	1	0
 transformou	transformed	0	0	1	0
@@ -3077,8 +2999,8 @@ oficial	official	0	0	1	0
 profundo	deep	0	0	1	0
 profunda	deep	0	0	1	0
 profunda	profound	0	0	1	0
-capitania	captainship	0	0	1	0
-capitania	captaincy	0	0	1	0
+positivas	positives	0	0	1	0
+positivas	positive	0	0	1	0
 agência	agency	0	0	1	0
 causar	caused	0	0	1	0
 causar	causing	0	0	1	0
@@ -3094,7 +3016,6 @@ menina	young girl	1	0	1	0
 menina	child	1	0	1	0
 compreende	comprises	0	0	1	0
 compreende	undertstand	0	0	1	0
-compreende	comprehend	0	0	1	0
 tarsila	tarsila	0	0	1	0
 liturgia	liturgy	0	0	1	0
 causam	cause	0	0	1	0
@@ -3114,7 +3035,6 @@ desenvolvimentos	development	0	0	1	0
 desenvolvimentos	developments	0	0	1	0
 enxofre	sulfur	0	0	1	0
 descrições	descriptions	0	0	1	0
-stephenie	stephenie	0	0	1	0
 stephenie	stepenie	0	0	1	0
 baby	baby	0	0	1	0
 detecção	detection	0	0	1	0
@@ -3133,7 +3053,6 @@ cliente	costumer	0	0	1	0
 sabe	known	0	0	1	0
 sabe	knows	0	0	1	0
 sabe	know	0	0	1	0
-bens	gifts	0	0	1	0
 bens	belongings	0	0	1	0
 bens	goods	0	0	1	0
 hóquei	hickey	0	0	1	0
@@ -3185,13 +3104,13 @@ descobrimentos	discoveries	0	0	1	0
 recepção	recepçao	0	0	1	0
 recepção	reception	0	0	1	0
 serrana	serrana	0	0	1	0
-serrana	mountaineer	0	0	1	0
 serrana	mountain	0	0	1	0
 representando	represent	0	0	1	0
 representando	representing	0	0	1	0
 aliados	allieds	0	0	1	0
 aliados	ally	0	0	1	0
-aliados	allied	0	0	1	0
+solitária	solitary	0	0	1	0
+solitária	solitaire	0	0	1	0
 processos	processes	0	0	1	0
 isso	this	0	0	1	0
 isso	that	0	0	1	1
@@ -3208,9 +3127,7 @@ bordo	edge	0	0	1	0
 bordo	border	0	0	1	0
 bordo	board	0	0	1	0
 árbitro	judge	0	0	1	0
-árbitro	referee	0	0	1	0
 árbitro	refree	0	0	1	0
-houston	houston	0	0	1	0
 directa	direct	0	0	1	0
 agnosticismo	agnosticism	0	0	1	0
 agnosticismo	agnostic	0	0	1	0
@@ -3236,7 +3153,6 @@ vulcões	vulcanos	0	0	1	0
 vulcões	volcanoes	0	0	1	0
 desenvolvidos	developed	0	0	1	0
 testar	test	0	0	1	0
-testar	struck on the head	0	0	1	0
 designa	designates	0	0	1	0
 designa	design	0	0	1	0
 designa	means	0	0	1	0
@@ -3255,7 +3171,6 @@ prisioneiros	prisoners	0	0	1	0
 doce	sweet	0	0	1	0
 importante	important	0	0	1	0
 paleolítico	paleolithics	0	0	1	0
-paleolítico	palaeolithic	0	0	1	0
 paleolítico	paleolithic	0	0	1	0
 atingiram	hitted	0	0	1	0
 atingiram	reached	0	0	1	0
@@ -3276,7 +3191,6 @@ tenta	tries	0	0	1	0
 pecuária	livestock	0	0	1	0
 pecuária	cattle	0	0	1	0
 notoriedade	notoriety	0	0	1	0
-notoriedade	notority	0	0	1	0
 agricultura	agriculture	0	0	1	0
 religiosas	religious	0	0	1	0
 motivos	reasons	0	0	1	0
@@ -3318,16 +3232,14 @@ david	david	0	0	1	0
 hindus	hindus	0	0	1	0
 hindus	hindu	0	0	1	0
 sudoeste	south-west	0	0	1	0
-sudoeste	south west	0	0	1	0
 medidas	measures	0	0	1	1
 anita	anita	0	0	1	0
 suportar	support	0	0	1	0
 suportar	suport	0	0	1	0
 contemporânea	contemporary	0	0	1	0
-contemporâneo	contemporary	0	0	1	0
 contemporâneo	contemporanium	0	0	1	0
-analítica	analytical	0	0	1	0
-analítica	analytics	0	0	1	0
+contemporâneo	contemporary	0	0	1	0
+jesus	jesus	0	0	1	0
 potencial	potencial	0	0	1	0
 potencial	potential	0	0	1	0
 potencial	promising	0	0	1	0
@@ -3337,7 +3249,6 @@ aurélio	aurelio	0	0	1	0
 atingem	reach	0	0	1	0
 atingem	hit	0	0	1	0
 legislativa	legislative	0	0	1	0
-start	start	0	0	1	0
 festival	festival	0	0	1	0
 legislativo	legislative	0	0	1	0
 hebraico	hebraic	0	0	1	0
@@ -3425,7 +3336,6 @@ mitos	myths	0	0	1	0
 mitos	miths	0	0	1	0
 sobrenatural	supernatural	0	0	1	0
 familiares	familiar	0	0	1	0
-familiares	relatives	0	0	1	0
 familiares	family	0	0	1	0
 serviço	service	0	0	1	0
 visa	aims to	0	0	1	0
@@ -3434,7 +3344,6 @@ maçã	litter	0	0	1	0
 maçã	apple	0	0	1	0
 amoroso	lovely	0	0	1	0
 amoroso	loving	0	0	1	1
-ficavam	got	0	0	1	0
 ficavam	staied	0	0	1	0
 ficavam	remained	0	0	1	0
 gerenciamento	managing	0	0	1	0
@@ -3444,8 +3353,9 @@ face	face	0	0	1	0
 trás	behind	0	0	1	0
 trás	back	0	0	1	0
 equilíbrio	balance	0	0	1	0
-sorte	fortune	0	0	1	0
-sorte	luck	0	0	1	0
+marcar	scoring	0	0	1	0
+marcar	score	0	0	1	0
+marcar	mark	0	0	1	0
 românticos	romantic	0	0	1	0
 românticos	romantics	0	0	1	0
 desempenhar	play	0	0	1	0
@@ -3505,7 +3415,6 @@ perdido	lost	0	0	1	0
 perdida	lost/failed	0	0	1	0
 perdida	lost	0	0	1	0
 freitas	freitas	0	0	1	0
-freitas	freight	0	0	1	0
 edition	edition	0	0	1	0
 empréstimos	bussiness man	0	0	1	0
 empréstimos	loans	0	0	1	0
@@ -3543,7 +3452,6 @@ viria	would come	0	0	1	0
 ambiental	environment	0	0	1	0
 ambiental	environmental	0	0	1	0
 agreste	agreste	0	0	1	0
-agreste	wild	0	0	1	0
 agreste	harsh	0	0	1	0
 descreve	describes	0	0	1	0
 descreve	describe	0	0	1	0
@@ -3559,20 +3467,14 @@ ramo	way	0	0	1	0
 ramo	branch	0	0	1	0
 poluentes	poluent	0	0	1	0
 poluentes	pollutants	0	0	1	0
-paço	step	0	0	1	0
-paço	paco	0	0	1	0
 paço	palace	0	0	1	0
 marte	mars	0	0	1	0
 confusão	confusion	0	0	1	0
-co	co	0	0	1	0
 indica	indicates	0	0	1	0
 vê	see	0	0	1	0
-vê	sees	0	0	1	0
 teologia	teology	0	0	1	0
 teologia	theology	0	0	1	0
-apontado	pointed	0	0	1	0
-apontado	appointed	0	0	1	0
-apontado	pointing	0	0	1	0
+modelos	models	0	0	1	0
 cd	cd	0	0	1	0
 contém	(it) contains	0	0	1	0
 contém	contains	0	0	1	0
@@ -3590,8 +3492,7 @@ silvio	silvio	0	0	1	0
 mansão	mansion	0	0	1	0
 kahn	kahn	0	0	1	0
 equipa	team	0	0	1	0
-primárias	elementary	0	0	1	0
-primárias	primary	0	0	1	0
+equipe	team	0	0	1	0
 epitélio	epithelium	0	0	1	0
 infecção	infection	0	0	1	0
 hormônios	hormones	0	0	1	0
@@ -3601,7 +3502,9 @@ proibição	prohibition	0	0	1	0
 moreira	moreira	0	0	1	0
 eduardo	eduardo	0	0	1	0
 dirigentes	leaders	0	0	1	0
-sales	sales	0	0	1	0
+verdadeiras	truths	0	0	1	0
+verdadeiras	true	0	0	1	0
+verdadeiras	realistic	0	0	1	0
 bragança	braganca	0	0	1	0
 semestre	semester	0	0	1	0
 maus	bad	0	0	1	0
@@ -3632,7 +3535,6 @@ realizados	made	0	0	1	0
 realizados	performed	0	0	1	0
 vs	versus	0	0	1	0
 vs	vs	0	0	1	0
-acidez	tartness	0	0	1	0
 acidez	acidity	0	0	1	0
 islamismo	islam	0	0	1	0
 discípulo	pupile	0	0	1	0
@@ -3696,20 +3598,15 @@ governar	rule	0	0	1	0
 governar	govern	0	0	1	0
 foram	went	0	0	1	0
 foram	were	0	0	1	0
-esportivos	sporty	0	0	1	0
 esportivos	sports	0	0	1	0
 generalizada	widespread	0	0	1	0
 momento	moment	0	0	1	0
-momento	time	0	0	1	0
 realiza	makes	0	0	1	0
 realiza	realize	0	0	1	0
-realiza	performs	0	0	1	0
 paul	paul	0	0	1	0
 estratégias	strategies	0	0	1	0
 estratégias	strategy	0	0	1	0
-sobretudo	overall	0	0	1	0
-sobretudo	especially	0	0	1	0
-sobretudo	mostly	0	0	1	0
+elementar	elementary	0	0	1	0
 sílabas	syllables	0	0	1	0
 sílabas	sillables	0	0	1	0
 sílabas	silabs	0	0	1	0
@@ -3719,7 +3616,6 @@ nacional	national	0	0	1	0
 combina	combines	0	0	1	0
 combina	(it) matches	0	0	1	0
 centenário	centenary	0	0	1	0
-crack	specialist	0	0	1	0
 crack	crack	0	0	1	0
 gonçalo	gonçalo	0	0	1	0
 gonçalo	goncalo	0	0	1	0
@@ -3744,7 +3640,6 @@ emma	emma	0	0	1	0
 usuário	user	0	0	1	0
 corpos	bodys	0	0	1	0
 corpos	bodies	0	0	1	0
-ramificações	ramification	0	0	1	0
 ramificações	branches	0	0	1	0
 ramificações	ramifications	0	0	1	0
 parasita	parasite	0	0	1	0
@@ -3766,7 +3661,7 @@ desafios	chalanges	0	0	1	0
 clientes	customers	0	0	1	0
 clientes	clients	0	0	1	0
 judiciário	judiciary	0	0	1	0
-proteína	protein	0	0	1	0
+caminhos	ways	0	0	1	0
 shakira	shakira	0	0	1	0
 habitam	live	0	0	1	0
 habitam	inhabit	0	0	1	0
@@ -3787,11 +3682,10 @@ circulatório	circulatory	0	0	1	0
 circulatório	ciuculation	0	0	1	0
 pósgraduação	post degree	0	0	1	0
 pósgraduação	graduate	0	0	1	0
-pósgraduação	postgraduate	0	0	1	0
 manto	blanket	0	0	1	0
 manto	mantle	0	0	1	0
-mísseis	missile	0	0	1	0
 mísseis	missle	0	0	1	0
+mísseis	missile	0	0	1	0
 basicamente	basically	0	0	1	0
 belas	beautiful	0	0	1	0
 belas	beaultiful	0	0	1	0
@@ -3800,7 +3694,6 @@ angeles	angels	0	0	1	0
 iniciando	starting	0	0	1	0
 iniciando	initiating	0	0	1	0
 espiritual	spiritual	0	0	1	0
-espiritual	ghostly	0	0	1	0
 iria	was going	0	0	1	0
 iria	would go	0	0	1	0
 iria	would	0	0	1	0
@@ -3853,8 +3746,6 @@ especiais	special	0	0	1	0
 mente	mind	0	0	1	0
 hidrográficas	hydrographic	0	0	1	0
 hidrográficas	hydrographics	0	0	1	0
-sólidos	solid	0	0	1	0
-sólidos	solids	0	0	1	0
 estreita	close	0	0	1	0
 estreita	narrow	0	0	1	0
 estreito	straight	0	0	1	0
@@ -3865,9 +3756,9 @@ esforços	efforts	0	0	1	0
 influenciaram	influenced	0	0	1	0
 radiação	radiation	0	0	1	0
 fraternidade	fraternity	0	0	1	0
-wifi	wi fi	0	0	1	0
-wifi	wi-fi	0	0	1	0
-wifi	wifi	0	0	1	0
+intervalos	breaks	0	0	1	0
+intervalos	intervals	0	0	1	0
+intervalos	gaps	0	0	1	0
 int	int	0	0	1	0
 colega	colleague	0	0	1	0
 expoentes	exponents	0	0	1	0
@@ -3892,8 +3783,7 @@ sexual	sexul	0	0	1	0
 sexual	sexual	0	0	1	0
 constituída	constituted	0	0	1	0
 constituída	decided	0	0	1	0
-ocorra	occurs	0	0	1	0
-ocorra	occur	0	0	1	0
+casouse	married	0	0	1	0
 seus	their	0	0	1	0
 seus	his	0	0	1	0
 seus	yours	0	0	1	0
@@ -3936,7 +3826,6 @@ chinesa	chinese	0	0	1	0
 vezes	times	0	0	1	0
 suas	their	0	0	1	0
 suas	yours	0	0	1	0
-suas	its	0	0	1	0
 laterais	lateral	0	0	1	0
 laterais	from the side	0	0	1	0
 laterais	sides	0	0	1	0
@@ -3953,9 +3842,6 @@ pedro	peter	0	0	1	0
 manifestações	manifestations	0	0	1	0
 manifestações	demonstration	0	0	1	0
 manifestações	manifestation	0	0	1	0
-deviam	owed	0	0	1	0
-deviam	must	0	0	1	0
-deviam	should	0	0	1	0
 pedra	stone (from stone age)	0	0	1	0
 pedra	stone	0	0	1	0
 pedra	rock	0	0	1	0
@@ -3987,7 +3873,6 @@ exibir	show	0	0	1	0
 infectado	infected	0	0	1	0
 descendência	ancestry	0	0	1	0
 descendência	descendence	0	0	1	0
-descendência	descent	0	0	1	0
 curtas	short	0	0	1	0
 extintos	extinct	0	0	1	0
 foge	foge	0	0	1	0
@@ -4007,7 +3892,6 @@ fisiologia	physiology	0	0	1	0
 fisiologia	phisiology	0	0	1	0
 casais	couples	0	0	1	0
 motivação	motivation	0	0	1	0
-loucura	craziness	0	0	1	0
 loucura	madness	0	0	1	1
 loucura	crazyness	0	0	1	0
 economicamente	economically	0	0	1	0
@@ -4019,7 +3903,6 @@ acompanhado	accompanied	0	0	1	0
 acompanhado	accompained	0	0	1	0
 entanto	therefor	0	0	1	0
 entanto	however	0	0	1	0
-entanto	but	0	0	1	0
 daí	then	0	0	1	0
 daí	there	0	0	1	0
 daí	then on	0	0	1	0
@@ -4065,8 +3948,7 @@ incorpora	incorporates	0	0	1	0
 incorpora	includes	0	0	1	0
 convidado	invited	0	0	1	0
 convidado	guest	0	0	1	0
-barreiras	barriers	0	0	1	0
-barreiras	barrier	0	0	1	0
+deste	this	0	0	1	0
 total	total	0	0	1	0
 sarah	sarah	0	0	1	0
 sarah	its a name	0	0	1	0
@@ -4089,7 +3971,7 @@ giovanni	giovanni	0	0	1	0
 award	award	0	0	1	0
 alfabetização	alfabetization	0	0	1	0
 alfabetização	literacy	0	0	1	0
-escravidão	slavery	0	0	1	0
+canções	songs	0	0	1	0
 continuam	continue	0	0	1	0
 servidores	servers	0	0	1	0
 polêmica	polemic	0	0	1	0
@@ -4128,7 +4010,6 @@ ingredientes	ingredients	0	0	1	0
 atuação	performance	0	0	1	0
 atuação	acting	0	0	1	0
 atuação	act	0	0	1	0
-arco	archway	0	0	1	0
 arco	arc	0	0	1	0
 arco	arch	0	0	1	0
 gravar	record	0	0	1	0
@@ -4173,7 +4054,6 @@ líquidos	liquids	0	0	1	0
 líquidos	liquid	0	0	1	0
 teatro	theater	0	0	1	1
 teatro	theatre	0	0	1	0
-teatro	teatna	0	0	1	0
 perigosos	dangerous	0	0	1	0
 perigosos	hazardous	0	0	1	0
 pascal	pascal	0	0	1	0
@@ -4192,7 +4072,6 @@ fogueira	bonfire	0	0	1	0
 mausoléu	mausoleum	0	0	1	0
 variando	changing	0	0	1	0
 variando	ranging	0	0	1	0
-variando	varying	0	0	1	0
 valor	value	0	0	1	0
 moça	girl	0	0	1	0
 moça	lady	0	0	1	0
@@ -4206,7 +4085,6 @@ consagrados	consecrated	0	0	1	0
 consagrados	enshrined	0	0	1	0
 densidades	densitys	0	0	1	0
 densidades	densities	0	0	1	0
-densidades	density	0	0	1	0
 designada	designated	0	0	1	0
 designada	designed	0	0	1	0
 onça	ounce	0	0	1	0
@@ -4214,7 +4092,8 @@ onça	jaguar	0	0	1	0
 band	band	0	0	1	0
 bang	bang	0	0	1	0
 ×	x	0	0	1	0
-jesus	jesus	0	0	1	0
+reservatório	reservoir	0	0	1	0
+reservatório	reservatory	0	0	1	0
 desconfiança	distrust	0	0	1	0
 perguntas	questions	0	0	1	0
 pontas	tips	0	0	1	0
@@ -4238,7 +4117,6 @@ mancha	spot	0	0	1	0
 juízes	judges	0	0	1	0
 crimes	crimes	0	0	1	0
 moçambique	mozambique	0	0	1	0
-procurar	find out	0	0	1	0
 procurar	search	0	0	1	0
 etnia	ethnicity	0	0	1	0
 aumentando	increasing	0	0	1	0
@@ -4263,7 +4141,6 @@ medicina	medicine	0	0	1	0
 especializados	specialized	0	0	1	0
 assistente	assistant	0	0	1	0
 admite	admits	0	0	1	0
-admite	admit	0	0	1	0
 blocos	blocks	0	0	1	0
 blocos	blocs	0	0	1	0
 usaram	used	0	0	1	0
@@ -4273,7 +4150,6 @@ fixo	fix	0	0	1	0
 fixo	fixed	0	0	1	0
 martinho	martinho	0	0	1	0
 martinho	martin	0	0	1	0
-formulação	formulstion	0	0	1	0
 formulação	formulation	0	0	1	0
 fixa	fixed	0	0	1	0
 pinaça	interests	1	0	1	0
@@ -4297,9 +4173,8 @@ podemos	can	0	0	1	0
 comunicações	communications	0	0	1	0
 comunicações	comunications	0	0	1	0
 benchmarking	benchmarking	0	0	1	0
-rendeu	yielded	0	0	1	0
-rendeu	surrender	0	0	1	0
 rendeu	gave	0	0	1	0
+rendeu	yielded	0	0	1	0
 arcos	arcs	0	0	1	0
 marinheiros	sailors	0	0	1	1
 organiza	organizes	0	0	1	0
@@ -4309,7 +4184,6 @@ deuse	was	0	0	1	0
 deusa	goddess	0	0	1	0
 pratica	practice	0	0	1	0
 batalhas	battles	0	0	1	0
-gaúcha	cowgirl	0	0	1	0
 gaúcha	gaucha	0	0	1	0
 gaúcho	gaucho	0	0	1	0
 esportes	sport	0	0	1	0
@@ -4338,7 +4212,6 @@ folclórico	folkloric	0	0	1	0
 primavera	spring	0	0	1	0
 toronto	toronto	0	0	1	0
 cordilheira	range	0	0	1	0
-cordilheira	cordillera	0	0	1	0
 bartolomeu	bartolomeu	0	0	1	0
 contrastes	contrasts	0	0	1	0
 contrastes	constrast	0	0	1	0
@@ -4401,7 +4274,6 @@ facções	factions	0	0	1	0
 literalmente	literally	0	0	1	0
 grave	serious	0	0	1	0
 calção	short	0	0	1	0
-calção	big pants	0	0	1	0
 calção	shorts	0	0	1	0
 responder	answer	0	0	1	0
 respondeu	replied	0	0	1	0
@@ -4449,7 +4321,6 @@ dj	dj	0	0	1	0
 di	di	0	0	1	0
 de	of	0	0	1	0
 machos	males	0	0	1	0
-machos	male	0	0	1	0
 bibliotecas	libraries	0	0	1	0
 bibliotecas	library	0	0	1	0
 watson	watson	0	0	1	0
@@ -4484,7 +4355,7 @@ tornou	became	0	0	1	0
 frequência	ratio	1	0	1	0
 frequência	frequencies	1	1	0	0
 frequência	against	1	0	1	0
-frequência	frequence	1	1	1	0
+frequência	frequence	1	1	0	0
 frequência	frequency	1	1	1	0
 frequência	relation	1	0	1	0
 frequência	freequency	1	0	1	0
@@ -4506,7 +4377,6 @@ havaí	havai	0	0	1	0
 organização	organization	0	0	1	0
 estiveram	(they) were	0	0	1	0
 estiveram	were	0	0	1	0
-estiveram	stay	0	0	1	0
 emenda	amendment	0	0	1	0
 emenda	correction	0	0	1	0
 atua	acts	0	0	1	0
@@ -4530,9 +4400,9 @@ elaborado	elaborate	0	0	1	0
 elaborado	elaborated	0	0	1	0
 festivais	festivals	0	0	1	0
 termo	term	0	0	1	0
-elaborada	elaborated	0	0	1	0
 elaborada	prepared	0	0	1	0
 elaborada	created	0	0	1	0
+elaborada	elaborated	0	0	1	0
 cor	color	0	0	1	0
 cor	colour	0	0	1	0
 borges	borges	0	0	1	0
@@ -4575,9 +4445,8 @@ saída	exit	0	0	1	0
 saída	departure	0	0	1	0
 castelhano	castilian	0	0	1	0
 aberto	open	0	0	1	0
-noel	claus	0	0	1	0
-noel	santa claus	0	0	1	0
-noel	noel	0	0	1	0
+cosgrove	methionine	0	0	1	0
+cosgrove	cosgrove	0	0	1	0
 estabelecido	established	0	0	1	0
 estabelecido	establishment	0	0	1	0
 aberta	open	0	0	1	0
@@ -4598,14 +4467,12 @@ marítimo	seaside	0	0	1	0
 marítimo	maritime	0	0	1	0
 taxas	rates	0	0	1	0
 taxas	taxes	0	0	1	0
-falso	false	0	0	1	0
 falso	fake	0	0	1	0
 composta	composed	0	0	1	0
 diária	daily	0	0	1	0
 morumbi	morumbi	0	0	1	0
 marítima	maritme	0	0	1	0
 marítima	maritima	0	0	1	0
-parcialmente	partially	0	0	1	0
 parcialmente	parcially	0	0	1	0
 parcialmente	parcialy	0	0	1	0
 enciclopédia	encyclopedia	0	0	1	0
@@ -4620,15 +4487,13 @@ têxteis	textile	0	0	1	0
 têxteis	fabric	0	0	1	0
 têxteis	textiles	0	0	1	0
 textos	texts	0	0	1	0
-textos	text	0	0	1	0
 vaga	spot	0	0	1	0
 vaga	vague	0	0	1	0
-longas	distant	0	0	1	0
 longas	long	0	0	1	0
 orientada	oriented	0	0	1	0
-turquia	turkey	0	0	1	0
+afluentes	fluent	0	0	1	0
+afluentes	tributaries	0	0	1	0
 remo	oar	0	0	1	1
-remo	paddle	0	0	1	0
 remo	remo	0	0	1	0
 napoleão	napoleon	0	0	1	0
 metade	half	0	0	1	1
@@ -4665,8 +4530,7 @@ intimamente	deeply	0	0	1	0
 intimamente	closely	0	0	1	0
 pensou	thought	0	0	1	0
 coroa	crown	0	0	1	0
-empresário	businessman	0	0	1	0
-empresário	entrepreneur	0	0	1	0
+espanha	spain	0	0	1	0
 plântula	relationships	1	0	1	0
 plântula	plant	1	1	0	0
 plântula	seedling	1	1	0	0
@@ -4692,16 +4556,14 @@ fuso	fuso	0	0	1	0
 fuso	spindle	0	0	1	0
 fuso	fuse	0	0	1	0
 raiz	origin	0	0	1	0
-raiz	root	0	0	1	0
 raiz	branch	0	0	1	0
 depois	after	0	0	1	0
-mil	thousand	0	0	1	0
+thumb|px|o	thumb｜px｜o	0	0	1	0
 recurso	resource	0	0	1	0
 campo	field	0	0	1	0
 campo	camp	0	0	1	0
 causando	causing	0	0	1	0
 orgasmo	orgasm	0	0	1	0
-deixa	catchword	0	0	1	0
 deixa	leaves	0	0	1	0
 visíveis	visible	0	0	1	0
 coragem	courage	0	0	1	0
@@ -4739,11 +4601,9 @@ thumb|direita|a	thumb | right | a	0	0	1	0
 thumb|direita|o	thumb right	0	0	1	0
 plasma	plasma	0	0	1	0
 grega	greek	0	0	1	0
-maya	mayan	0	0	1	0
 maya	maya	0	0	1	0
 perigoso	dangerous	0	0	1	0
 perigosa	dangerous	0	0	1	0
-divulgação	promotion	0	0	1	0
 divulgação	divulgation	0	0	1	0
 originou	originated	0	0	1	0
 grego	greek	0	0	1	0
@@ -4810,7 +4670,6 @@ dominado	dominated	0	0	1	0
 queda	snowfall	0	0	1	0
 queda	fall	0	0	1	0
 comparável	comparable	0	0	1	0
-marketing	marketing	0	0	1	0
 combatente	return	1	0	1	0
 combatente	returning	1	0	1	0
 combatente	ruff	1	1	0	0
@@ -4829,7 +4688,6 @@ variedade	variety	0	0	1	0
 ordens	orders	0	0	1	0
 post	post	0	0	1	0
 herpes	herpes	0	0	1	0
-periódica	periodic	0	0	1	0
 periódica	periodically	0	0	1	0
 decisões	decisions	0	0	1	0
 coral	coral	0	0	1	0
@@ -4849,7 +4707,6 @@ decorrente	resulting from	0	0	1	0
 decorrente	ocurring	0	0	1	0
 cosmologia	cosmology	0	0	1	0
 questão	question	0	0	1	0
-questão	issue	0	0	1	0
 baterista	drummer	0	0	1	0
 santuário	sanctuary	0	0	1	0
 tênis	tennis	0	0	1	0
@@ -4859,7 +4716,6 @@ rápida	fast	0	0	1	0
 reforçar	reinforce	0	0	1	0
 rápido	quick	0	0	1	0
 rápido	quickest	0	0	1	0
-rápido	fast	0	0	1	0
 encontrava	found	0	0	1	0
 houver	was	0	0	1	0
 houver	there is	0	0	1	0
@@ -4977,7 +4833,6 @@ classificadas	classified	0	0	1	0
 classificadas	classifed	0	0	1	0
 classificadas	classificades	0	0	1	0
 cantores	singers	0	0	1	0
-cantores	singer	0	0	1	0
 umbanda	umbanda	0	0	1	0
 emergentes	emerging	0	0	1	0
 emergentes	emergent	0	0	1	0
@@ -5046,10 +4901,7 @@ placar	tackle	0	0	1	0
 placar	score	0	0	1	0
 doença	illness	0	0	1	0
 doença	disease	0	0	1	0
-cresceram	it grew	0	0	1	0
-cresceram	grow	0	0	1	0
-cresceram	or they grew	0	0	1	0
-cresceram	(they) grew up	0	0	1	0
+presentes	present	0	0	1	0
 p	p	0	0	1	0
 tordesilhas	tordesillas	0	0	1	0
 tordesilhas	tordesilhas	0	0	1	0
@@ -5060,7 +4912,6 @@ preconceitos	prejudices	0	0	1	0
 funcional	functional	0	0	1	0
 funcionam	function	0	0	1	0
 funcionam	fuction	0	0	1	0
-funcionam	work	0	0	1	0
 participam	participate	0	0	1	0
 participam	particpate	0	0	1	0
 participam	(they) participate	0	0	1	0
@@ -5069,7 +4920,8 @@ alfa	alfa	0	0	1	0
 faculdade	major	0	0	1	0
 faculdade	college	0	0	1	0
 faculdade	faculty	0	0	1	0
-bravo	brave	0	0	1	0
+teatrais	theatrical	0	0	1	0
+teatrais	teatrical	0	0	1	0
 levar	taking	0	0	1	0
 levar	take	0	0	1	0
 ditadura	dictatorship	0	0	1	0
@@ -5081,6 +4933,7 @@ cargo	charge	0	0	1	0
 cargo	post	0	0	1	0
 demográfica	demographic	0	0	1	0
 demográfica	demography	0	0	1	0
+dirigida	directed	0	0	1	0
 lavigne	lavigne	0	0	1	0
 curso	course	0	0	1	0
 demográfico	demographics	0	0	1	0
@@ -5092,7 +4945,6 @@ genes	genes	0	0	1	0
 andina	andina	0	0	1	0
 andina	andean	0	0	1	0
 botes	boats	0	0	1	0
-botes	boat	0	0	1	0
 mudar	change	0	0	1	0
 esperança	hope	0	0	1	0
 vocalista	singer	0	0	1	0
@@ -5128,11 +4980,9 @@ italiano	italian	0	0	1	0
 módulo	module	0	0	1	0
 atriz	actress	0	0	1	0
 metros	meters	0	0	1	0
-metros	metros	0	0	1	0
 escolares	school	0	0	1	0
 escolares	scholars	0	0	1	0
 prova	test	0	0	1	1
-prova	contest	0	0	1	0
 italianos	italians	0	0	1	0
 contemporâneos	contemporary	0	0	1	0
 francesa	french	0	0	1	0
@@ -5149,7 +4999,6 @@ envelope	envelope	0	0	1	0
 dinossauros	dinosaurs	0	0	1	0
 controle	control	0	0	1	0
 pequena	small	0	0	1	0
-remonta	goes back	0	0	1	0
 remonta	remount	0	0	1	0
 remonta	back	0	0	1	0
 escultor	sculptor	0	0	1	0
@@ -5157,12 +5006,11 @@ instituição	institution	0	0	1	0
 palavra	word	0	0	1	1
 historicamente	historically	0	0	1	0
 historicamente	historicaly	0	0	1	0
-incidente	incident	0	0	1	0
+você	you	0	0	1	0
 slogan	slogan	0	0	1	0
 ibm	ibm	0	0	1	0
 muitos	many	0	0	1	0
 muitos	plenty	0	0	1	0
-ficado	staying	0	0	1	0
 ficado	stayed	0	0	1	0
 ficado	remained	0	0	1	0
 peixoto	peixoto	0	0	1	0
@@ -5183,7 +5031,6 @@ efetuar	make	0	0	1	0
 dúvida	doubt	0	0	1	0
 gales	gales	0	0	1	0
 gales	wales	0	0	1	0
-perdem	waste	0	0	1	0
 perdem	lost	0	0	1	0
 perdem	lose	0	0	1	0
 perder	lose	0	0	1	0
@@ -5259,7 +5106,7 @@ veneza	venice	0	0	1	0
 iguais	britain	0	0	1	0
 iguais	equals	0	0	1	0
 iguais	equal	0	0	1	0
-marshall	marshall	0	0	1	0
+juramento	oath	0	0	1	1
 cujos	whose	0	0	1	0
 cujos	witch	0	0	1	0
 cujos	which	0	0	1	0
@@ -5295,14 +5142,12 @@ dezenas	tens	0	0	1	0
 dezenas	dozens	0	0	1	0
 mulher	woman	0	0	1	0
 ex	ex	0	0	1	0
-ex	e.g.	0	0	1	0
 afastado	removed	0	0	1	0
 afastado	distant	0	0	1	0
 eu	i	0	0	1	0
 eu	me	0	0	1	0
 et	extraterrestrial	0	0	1	0
 et	et	0	0	1	0
-kant	kant	0	0	1	0
 ep	ep	0	0	1	0
 goiânia	goiana	0	0	1	0
 goiânia	london	0	0	1	0
@@ -5339,7 +5184,6 @@ secreção	secretion	0	0	1	0
 luzes	lights	0	0	1	0
 castelo	castle	0	0	1	0
 unidades	units	0	0	1	0
-unidades	unit	0	0	1	0
 substituindo	replacing	0	0	1	0
 substituindo	replaced	0	0	1	0
 democráticas	democratic	0	0	1	0
@@ -5377,7 +5221,6 @@ tocantins	tocantins	0	0	1	0
 coletivo	colective	0	0	1	0
 coletivo	collective	0	0	1	0
 metropolitanas	metropolitan	0	0	1	0
-coletiva	conference	0	0	1	0
 coletiva	colective	0	0	1	0
 coletiva	collective	0	0	1	0
 chamavam	called	0	0	1	0
@@ -5385,7 +5228,6 @@ anchieta	anchieta	0	0	1	0
 utilizadas	ultilized	0	0	1	0
 utilizadas	used	0	0	1	0
 elementos	elements	0	0	1	0
-elementos	element	0	0	1	0
 investimento	investiment	0	0	1	0
 investimento	investment	0	0	1	0
 that	that	0	0	1	0
@@ -5401,7 +5243,6 @@ quan	quan	0	0	1	0
 fazer	do	0	0	1	0
 fazer	to do	0	0	1	0
 neerlandês	netherlands	0	0	1	0
-neerlandês	netherlander	0	0	1	0
 neerlandês	neerlandic	0	0	1	0
 conceitos	concept	0	0	1	0
 conceitos	concepts	0	0	1	0
@@ -5410,7 +5251,6 @@ television	television	0	0	1	0
 ingleses	english	0	0	1	0
 ocasião	occasion	0	0	1	0
 xangai	shangai	0	0	1	0
-xangai	shanghai	0	0	1	0
 xangai	name	0	0	1	0
 católica	catholic	0	0	1	0
 clássicos	classics	0	0	1	0
@@ -5510,13 +5350,11 @@ telefone	phone	0	0	1	0
 telefone	telephon	0	0	1	0
 telefone	telephone	0	0	1	0
 thompson	thompson	0	0	1	0
-thompson	tompson	0	0	1	0
 contribuindo	contributing	0	0	1	0
 persas	persian	0	0	1	0
 persas	persians	0	0	1	0
 samuel	samuel	0	0	1	0
 galeria	gallery	0	0	1	0
-iguaçu	iguasu	0	0	1	0
 iguaçu	iguazu	0	0	1	0
 vítima	victim	0	0	1	0
 ressaltar	highlight	0	0	1	0
@@ -5651,7 +5489,6 @@ eficazes	eficient	0	0	1	0
 eficazes	effective	0	0	1	0
 pavilhão	flag	0	0	1	0
 pavilhão	pavilion	0	0	1	0
-patrimônio	patrimony	0	0	1	0
 patrimônio	heritage	0	0	1	0
 utilizar	to use	0	0	1	0
 utilizar	use	0	0	1	0
@@ -5663,8 +5500,8 @@ sérvia	serbia	0	0	1	0
 sérvia	serbis	0	0	1	0
 consequência	consequence	0	0	1	0
 fragmentos	fragments	0	0	1	0
-acreditase	believed	0	0	1	0
 acreditase	beleived	0	0	1	0
+acreditase	believed	0	0	1	0
 acreditase	it is belived	0	0	1	0
 medir	measure	0	0	1	1
 degradação	degradation	0	0	1	0
@@ -5675,8 +5512,7 @@ vídeos	videos	0	0	1	0
 acdc	ac/dc	0	0	1	0
 atividade	activitiy	0	0	1	0
 atividade	activity	0	0	1	0
-públicas	publics	0	0	1	0
-públicas	public	0	0	1	0
+paralelas	parallel	0	0	1	0
 gaspar	gaspar	0	0	1	0
 aprovada	aproved	0	0	1	0
 aprovada	approved	0	0	1	0
@@ -5699,9 +5535,7 @@ fundadores	founders	0	0	1	0
 fornecendo	providing	0	0	1	0
 fornecendo	supplying	0	0	1	0
 taxa	tax	0	0	1	0
-visto	since	0	0	1	0
-visto	viewed	0	0	1	0
-visto	seam	0	0	1	0
+produto	product	0	0	1	0
 tipos	types	0	0	1	0
 rigoroso	rigorous	0	0	1	0
 rigoroso	strict	0	0	1	0
@@ -5711,7 +5545,6 @@ retirada	withdrawal	0	0	1	0
 ventos	winds	0	0	1	0
 ninja	ninja	0	0	1	0
 retirado	taken	0	0	1	0
-retirado	removed	0	0	1	0
 retirado	withdrawn	0	0	1	0
 exceções	exceptions	0	0	1	0
 sofria	suffered	0	0	1	0
@@ -5726,7 +5559,6 @@ acabaram	ended	0	0	1	0
 acabaram	finished	0	0	1	0
 contribuído	contributed	0	0	1	0
 verso	verse	0	0	1	0
-verso	back	0	0	1	0
 encontraram	found	0	0	1	0
 real	real	0	0	1	0
 envia	sends	0	0	1	0
@@ -5781,10 +5613,8 @@ viram	saw	0	0	1	0
 viral	viral	0	0	1	0
 regina	regina	0	0	1	0
 cálculo	calculation	0	0	1	0
-cálculo	calculated	0	0	1	0
 anabolizantes	anabolic	0	0	1	0
 núcleos	cores	0	0	1	0
-núcleos	nucleus	0	0	1	0
 núcleos	core	0	0	1	0
 basquete	basketball	0	0	1	0
 forks	forks	0	0	1	0
@@ -5810,7 +5640,6 @@ central	central	0	0	1	0
 ocupar	occupy	0	0	1	0
 meramente	merely	0	0	1	0
 ferrovias	hailway	0	0	1	0
-ferrovias	railways	0	0	1	0
 ferrovias	railroads	0	0	1	0
 tradicionais	traditional	0	0	1	0
 tradicionais	traditionals	0	0	1	0
@@ -5826,7 +5655,8 @@ cinetoscópio	carry out	1	0	1	0
 cinetoscópio	cinetoscopy	1	1	0	0
 mármore	marble	0	0	1	0
 edições	editions	0	0	1	0
-rolling	rolling	0	0	1	0
+transportes	transportation	0	0	1	0
+transportes	transport	0	0	1	0
 protesto	protest	0	0	1	0
 portador	carrier	0	0	1	0
 portador	bearer	0	0	1	0
@@ -5862,7 +5692,7 @@ pulmonar	pulmonary	0	0	1	0
 envolvem	involve	0	0	1	0
 envolvem	envolve	0	0	1	0
 envolvem	around	0	0	1	0
-equipe	team	0	0	1	0
+decidido	decided	0	0	1	0
 pantanal	swamp	0	0	1	0
 pantanal	pantanal	0	0	1	0
 erroneamente	mistakenly	0	0	1	0
@@ -5875,7 +5705,6 @@ julgar	judging	0	0	1	0
 decidiram	decided	0	0	1	0
 quarenta	forty	0	0	1	0
 relevo	relevant	0	0	1	0
-relevo	terrain	0	0	1	0
 relevo	relief	0	0	1	0
 interpretação	interpretation	0	0	1	0
 stanford	stanford	0	0	1	0
@@ -5889,13 +5718,10 @@ batista	baptist	0	0	1	0
 batista	batist	0	0	1	0
 batista	batista	0	0	1	0
 espanhola	spanish	0	0	1	0
-próximas	upcoming	0	0	1	0
 próximas	next	0	0	1	0
 fugir	escape	0	0	1	0
 pilotos	pilots	0	0	1	0
-verdadeiras	truths	0	0	1	0
-verdadeiras	true	0	0	1	0
-verdadeiras	realistic	0	0	1	0
+sales	sales	0	0	1	0
 levado	taken	0	0	1	0
 indicações	indications	0	0	1	0
 mover	to move	0	0	1	0
@@ -5905,8 +5731,9 @@ parcela	parcel	0	0	1	0
 levada	taken	0	0	1	0
 juiz	judge	0	0	1	0
 missão	mission	0	0	1	0
-elementar	elementary	0	0	1	0
-elementar	element	0	0	1	0
+sobretudo	overall	0	0	1	0
+sobretudo	especially	0	0	1	0
+sobretudo	mostly	0	0	1	0
 categoriaescritores	category: writers	0	0	1	0
 you	you	0	0	1	0
 idéia	idea	0	0	1	0
@@ -5955,7 +5782,6 @@ inteligente	intelligent	0	0	1	0
 reacções	reactions	0	0	1	0
 táticas	tatics	0	0	1	0
 táticas	tactics	0	0	1	0
-táticas	tactical	0	0	1	0
 correr	run	0	0	1	0
 bolívia	bolivia	0	0	1	0
 bolívia	bolívia	0	0	1	0
@@ -5966,7 +5792,7 @@ leito	channel	0	0	1	0
 episódios	episodes	0	0	1	0
 episódios	episode	0	0	1	0
 leite	milk	0	0	1	0
-alegou	claimed	0	0	1	0
+abstração	abstraction	0	0	1	0
 ligações	connections	0	0	1	0
 ligações	links	0	0	1	0
 circulação	circulation	0	0	1	0
@@ -6021,7 +5847,6 @@ roraima	roraima	0	0	1	0
 roraima	it's a name	0	0	1	0
 distância	distance	0	0	1	0
 atmosférica	atmospheric	0	0	1	0
-laços	ties	0	0	1	0
 supremacia	supremacy	0	0	1	0
 usualmente	usually	0	0	1	0
 usualmente	usualy	0	0	1	0
@@ -6043,7 +5868,6 @@ promovida	promoted	0	0	1	0
 promovida	pormoted	0	0	1	0
 promovido	promoted	0	0	1	0
 arena	arena	0	0	1	0
-arena	areba	0	0	1	0
 estabeleceram	established	0	0	1	0
 dezoito	eighteen	0	0	1	0
 empresários	entrepreneurs	0	0	1	0
@@ -6079,7 +5903,6 @@ fundada	founded	0	0	1	0
 cinética	kinetic	0	0	1	0
 cinética	kinetics	0	0	1	0
 cinética	cinetic	0	0	1	0
-teatral	theatrical	0	0	1	0
 teatral	teatral	0	0	1	0
 teatral	teathrical	0	0	1	0
 massas	masses	0	0	1	0
@@ -6108,18 +5931,15 @@ utensílios	utensils	0	0	1	0
 utensílios	tools	0	0	1	0
 fé	faith	0	0	1	0
 impulso	impulse	0	0	1	0
-guerrilha	guerrilla	0	0	1	0
 guerrilha	guerilla	0	0	1	0
 guerrilha	war	0	0	1	0
 invenções	inventions	0	0	1	0
 vem	has been	0	0	1	0
 vem	come	0	0	1	0
 envolve	involve	0	0	1	0
-envolve	involves	0	0	1	0
 envolve	involver	0	0	1	0
 operacionais	operational	0	0	1	0
 situa	is located	0	0	1	0
-situa	situaded	0	0	1	0
 situa	is placed	0	0	1	0
 blastómero	blastomero	1	0	1	0
 blastómero	balstomere	1	1	0	0
@@ -6147,7 +5967,6 @@ pósguerra	postwar	0	0	1	0
 pósguerra	post-war	0	0	1	0
 utiliza	uses	0	0	1	0
 ledger	ledger	0	0	1	0
-embarcações	watercraft	0	0	1	0
 embarcações	vessels	0	0	1	0
 vinicius	vinicius	0	0	1	0
 emissoras	broadcasts	0	0	1	0
@@ -6167,7 +5986,6 @@ tivesse	had	0	0	1	0
 tivesse	was	0	0	1	0
 tivesse	would have	0	0	1	0
 a	to	0	0	1	0
-a	the	0	0	1	0
 registrado	registered	0	0	1	0
 piauí	piauí	0	0	1	0
 piauí	piaui	0	0	1	0
@@ -6223,7 +6041,6 @@ polícia	police	0	0	1	0
 sabedoria	knowledge	0	0	1	0
 sabedoria	wisdom	0	0	1	0
 cobre	copper	0	0	1	0
-cobre	cover	0	0	1	0
 decimal	decimal	0	0	1	0
 adquiriram	acquired	0	0	1	0
 adquiriram	adquired	0	0	1	0
@@ -6233,7 +6050,6 @@ heavy	heavy	0	0	1	0
 entendido	understood	0	0	1	0
 entendido	understanded	0	0	1	0
 revelando	revealing	0	0	1	0
-revelando	manifest	0	0	1	0
 cinetócoro	kinetochore	1	1	0	0
 cinetócoro	set	1	0	1	0
 cinetócoro	kinethocore	1	1	0	0
@@ -6296,7 +6112,6 @@ conversão	change	0	0	1	0
 redentor	redeemer	0	0	1	0
 voos	flightws	0	0	1	0
 voos	flights	0	0	1	0
-suficiente	sufficient	0	0	1	0
 suficiente	enough	0	0	1	0
 american	american	0	0	1	0
 kung	not a portuguese word	0	0	1	0
@@ -6312,7 +6127,6 @@ galáxia	galaxy	0	0	1	0
 prevalência	prevalence	0	0	1	0
 olimpíadas	olympic games	0	0	1	0
 olimpíadas	olympics	0	0	1	0
-olimpíadas	olympiad	0	0	1	0
 utilizados	ultilized	0	0	1	0
 utilizados	utilized	0	0	1	0
 utilizados	used	0	0	1	0
@@ -6340,7 +6154,6 @@ brasília	brasilia	0	0	1	0
 brasília	brasília	0	0	1	0
 verdadeiramente	trully	0	0	1	0
 verdadeiramente	truly	0	0	1	0
-arrondissement	arrondissement	0	0	1	0
 metáfora	mataphore	0	0	1	0
 metáfora	metaphor	0	0	1	0
 norma	rule	0	0	1	0
@@ -6352,7 +6165,6 @@ privadas	private	0	0	1	0
 país	country	0	0	1	0
 boca	mouth	0	0	1	0
 dependendo	depending	0	0	1	0
-usuários	user	0	0	1	0
 usuários	users	0	0	1	0
 fevereiro	february	0	0	1	0
 situado	located	0	0	1	0
@@ -6363,7 +6175,6 @@ desempenhou	desempenhou	0	0	1	0
 desempenhou	played	0	0	1	0
 compositores	composers	0	0	1	0
 compositores	writers	0	0	1	0
-compositores	composer	0	0	1	0
 grey	grey	0	0	1	0
 grey	name	0	0	1	0
 poética	poetic	0	0	1	0
@@ -6381,7 +6192,6 @@ bioética	bioethical	1	1	0	0
 bioética	bioethic	1	1	0	0
 bioética	bioetic	1	0	1	0
 novas	new	0	0	1	0
-terciário	third	0	0	1	0
 terciário	tertiary	0	0	1	0
 adeptos	fans	0	0	1	0
 adeptos	followers	0	0	1	0
@@ -6506,7 +6316,6 @@ pois	so	0	0	1	0
 produtores	producers	0	0	1	0
 oceânico	oceanic	0	0	1	0
 argumentação	argumentation	0	0	1	0
-argumentação	argument	0	0	1	0
 correia	chain	0	0	1	0
 correia	belt	0	0	1	0
 correio	mail	0	0	1	0
@@ -6515,7 +6324,6 @@ promessas	promisses	0	0	1	0
 alexander	alexander	0	0	1	0
 anuais	yearly	0	0	1	0
 anuais	anually	0	0	1	0
-anuais	annual	0	0	1	0
 provavelmente	probably	0	0	1	0
 reinado	kingdom	0	0	1	0
 reinado	reign	0	0	1	0
@@ -6524,7 +6332,6 @@ hipótese	chance	0	0	1	0
 hipótese	hypothesis	0	0	1	0
 gelo	ice	0	0	1	0
 significativos	significants	0	0	1	0
-significativos	significative	0	0	1	0
 significativos	significant	0	0	1	0
 ocupou	occupy	0	0	1	0
 ocupou	occupied	0	0	1	0
@@ -6554,7 +6361,6 @@ genérico	genric	0	0	1	0
 ferrovia	hailway	0	0	1	0
 ferrovia	railroad	0	0	1	0
 ferrovia	railway	0	0	1	0
-conmebol	conmebol	0	0	1	0
 conmebol	conmbol	0	0	1	0
 chefes	bosses	0	0	1	0
 criadores	creators	0	0	1	0
@@ -6569,6 +6375,8 @@ canudos	straws	0	0	1	0
 canudos	pipes	0	0	1	0
 genética	genetic	0	0	1	0
 genética	genetics	0	0	1	0
+mãodeobra	workers	0	0	1	0
+mãodeobra	labor	0	0	1	0
 eleitoral	electoral	0	0	1	0
 parecer	seem	0	0	1	0
 parecer	seems like	0	0	1	0
@@ -6582,7 +6390,6 @@ cratera	hole	0	0	1	0
 cratera	crater	0	0	1	0
 nervos	nerves	0	0	1	0
 experimentar	try	0	0	1	0
-experimentar	experiment	0	0	1	0
 experimentar	experience	0	0	1	0
 league	league	0	0	1	0
 extensões	extensions	0	0	1	0
@@ -6592,8 +6399,6 @@ anos	years	0	0	1	0
 secreto	secret	0	0	1	0
 secreto	undercover	0	0	1	0
 secreta	secret	0	0	1	0
-negócios	business	0	0	1	0
-negócios	negotiations	0	0	1	0
 experimental	experimental	0	0	1	0
 hackers	hackers	0	0	1	0
 aeronave	aircraft	0	0	1	0
@@ -6640,9 +6445,7 @@ demonstrações	demonstrations	0	0	1	0
 demonstrações	demonstations	0	0	1	0
 anarquismo	anarquism	0	0	1	0
 anarquismo	anarchism	0	0	1	0
-defendem	defend	0	0	1	0
-procuraram	sought	0	0	1	0
-procuraram	search	0	0	1	0
+libertadores	libertadores	0	0	1	0
 cantar	sing	0	0	1	0
 reduzir	reduce	0	0	1	0
 governou	governed	0	0	1	0
@@ -6661,7 +6464,6 @@ sombra	shade	0	0	1	0
 áudio	audio	0	0	1	0
 esportivas	sporting	0	0	1	0
 esportivas	sport	0	0	1	0
-filhas	children	0	0	1	0
 filhas	daughters	0	0	1	0
 mandou	ordered	0	0	1	0
 mandou	sent	0	0	1	0
@@ -6761,8 +6563,7 @@ conselheiro	counselor	0	0	1	0
 limitado	limited	0	0	1	0
 trabalha	works	0	0	1	0
 popular	popular	0	0	1	0
-trabalho	work	0	0	1	0
-trabalho	labor	0	0	1	0
+humanistas	humanists	0	0	1	0
 incluem	lnclued	0	0	1	0
 incluem	include	0	0	1	0
 incluem	includes	0	0	1	0
@@ -6792,8 +6593,7 @@ sofre	suffers	0	0	1	0
 sofre	(it) suffers	0	0	1	0
 jamais	never	0	0	1	0
 terem	have	0	0	1	0
-mãodeobra	workers	0	0	1	0
-mãodeobra	labor	0	0	1	0
+ácidos	acids	0	0	1	0
 slash	slash	0	0	1	0
 autoridade	autority	0	0	1	0
 autoridade	authority	0	0	1	0
@@ -6814,7 +6614,7 @@ cristãs	crests	0	0	1	0
 insuficiente	insufficient	0	0	1	0
 insuficiente	insuficient	0	0	1	0
 insuficiente	not enough	0	0	1	0
-ruy	ruy	0	0	1	0
+transmitir	transmit	0	0	1	0
 eixo	axis	0	0	1	0
 secas	dry	0	0	1	0
 secas	drought	0	0	1	0
@@ -6823,8 +6623,6 @@ muitas	many	0	0	1	0
 urbanos	urban	0	0	1	0
 benfica	benfica	0	0	1	0
 califórnia	california	0	0	1	0
-rápidos	quick	0	0	1	0
-rápidos	rapidos	0	0	1	0
 rápidos	fast	0	0	1	0
 análise	analysis	0	0	1	0
 análise	analisis	0	0	1	0
@@ -6868,7 +6666,6 @@ transmitidos	transmitted	0	0	1	0
 primitivos	primitives	0	0	1	0
 primitivos	primitive	0	0	1	0
 preocupação	preocupation	0	0	1	0
-preocupação	worry	0	0	1	0
 preocupação	concern	0	0	1	0
 sinai	singal	0	0	1	0
 sinai	sinai	0	0	1	0
@@ -6887,7 +6684,6 @@ utc	utc	0	0	1	0
 sessões	session	0	0	1	0
 sessões	sessions	0	0	1	0
 formouse	formed	0	0	1	0
-formouse	made	0	0	1	0
 ilustração	illustration	0	0	1	0
 tamanho	size	0	0	1	0
 circuito	circuit	0	0	1	0
@@ -6899,7 +6695,6 @@ similar	similar	0	0	1	0
 depressão	depression	0	0	1	0
 decomposição	decomposition	0	0	1	0
 milênios	milenium	0	0	1	0
-milênios	millenial	0	0	1	0
 milênios	milennium	0	0	1	0
 acumulação	build-up	0	0	1	0
 acumulação	acumulation	0	0	1	0
@@ -6924,7 +6719,6 @@ lembrar	remember	0	0	1	0
 cronologia	chronology	0	0	1	0
 nas	in the	0	0	1	0
 manhattan	manhattan	0	0	1	0
-justamente	justly	0	0	1	0
 justamente	precisely	0	0	1	0
 justamente	just	0	0	1	0
 prémios	awards	0	0	1	0
@@ -6936,7 +6730,6 @@ william	may be translated as guilherme	0	0	1	0
 william	it's a name	0	0	1	0
 funcionando	functioning	0	0	1	0
 funcionando	works	0	0	1	0
-governante	chief	0	0	1	0
 governante	governant	0	0	1	0
 governante	governor	0	0	1	0
 visita	visit	0	0	1	0
@@ -6985,10 +6778,8 @@ wave	wave	0	0	1	0
 expandiu	expanded	0	0	1	0
 cromossomo	chromosome	0	0	1	0
 básicos	basics	0	0	1	0
-básicos	basic	0	0	1	0
 licenças	licenses	0	0	1	0
 suficientemente	sufficiently	0	0	1	0
-cresce	grows	0	0	1	0
 cresce	grow	0	0	1	0
 cresce	grows up	0	0	1	0
 michael	michael	0	0	1	0
@@ -7002,7 +6793,6 @@ européias	european	0	0	1	0
 intitulada	entitled	0	0	1	0
 notáveis	potable	0	0	1	0
 notáveis	notable	0	0	1	0
-latente	underlying	0	0	1	0
 latente	latent	0	0	1	0
 estranhos	weird	0	0	1	0
 estranhos	strange	0	0	1	0
@@ -7029,9 +6819,7 @@ phoebe	phoebe	0	0	1	0
 traços	traces	0	0	1	0
 eminem	eminem	0	0	1	0
 contestado	contested	0	0	1	0
-contestado	disputed	0	0	1	0
 buarque	buarque	0	0	1	0
-consoante	consonant	0	0	1	0
 consoante	according	0	0	1	0
 consoante	depending	0	0	1	0
 acidente	accident	0	0	1	1
@@ -7040,9 +6828,7 @@ sobrevivem	survive	0	0	1	0
 patente	patent	0	0	1	0
 patente	clear	0	0	1	0
 dublagem	dubbing	0	0	1	0
-dublagem	doubling	0	0	1	0
 agricultores	farmers	0	0	1	0
-agricultores	farmer	0	0	1	0
 seleção	selection	0	0	1	0
 céu	sky	0	0	1	0
 enzimas	enzymes	0	0	1	0
@@ -7057,7 +6843,6 @@ posições	positions	0	0	1	0
 estudou	studied	0	0	1	0
 clara	clear	0	0	1	0
 estudos	studies	0	0	1	0
-calções	pants	0	0	1	0
 calções	shorts	0	0	1	0
 fossem	were	0	0	1	0
 crepúsculo	twilight	0	0	1	0
@@ -7076,7 +6861,6 @@ ascendência	descent	0	0	1	0
 ascendência	ascendancy	0	0	1	0
 ascendência	ascendence	0	0	1	0
 expresidente	ex-president	0	0	1	0
-expresidente	expresident	0	0	1	0
 expresidente	ex president	0	0	1	0
 trindade	trindade	0	0	1	0
 trindade	trinity	0	0	1	0
@@ -7101,7 +6885,6 @@ expoente	exponente	0	0	1	0
 expoente	exponent	0	0	1	0
 formado	graduated	0	0	1	0
 formado	formed	0	0	1	0
-formado	created	0	0	1	0
 professores	teachers	0	0	1	1
 ricas	rich	0	0	1	0
 fatores	factors	0	0	1	0
@@ -7127,11 +6910,8 @@ trocas	trades	0	0	1	0
 trocas	swap	0	0	1	0
 trocas	exchanges	0	0	1	0
 trocar	switch	0	0	1	0
-trocar	change	0	0	1	0
 trocar	exchange	0	0	1	0
 hip	hip	0	0	1	0
-histórico	historic	0	0	1	0
-histórico	historical	0	0	1	0
 corpuscular	body	0	0	1	0
 corpuscular	corpuscle	0	0	1	0
 também	also	0	0	1	0
@@ -7141,7 +6921,6 @@ paisagens	landscape	0	0	1	0
 paisagens	views	0	0	1	0
 halloween	halloween	0	0	1	0
 pacotes	packages	0	0	1	1
-kubitschek	kubichek	0	0	1	0
 kubitschek	kubitschek	0	0	1	0
 gosto	taste	0	0	1	0
 casado	married	0	0	1	0
@@ -7150,7 +6929,6 @@ gosta	likes	0	0	1	0
 gosta	like	0	0	1	0
 vestuário	clothing	0	0	1	0
 vestuário	locker room	0	0	1	0
-vestuário	dresser	0	0	1	0
 entretenimento	enterteinment	0	0	1	0
 entretenimento	entertainment	0	0	1	0
 resistência	resistence	0	0	1	0
@@ -7224,7 +7002,6 @@ fundamentalmente	fundamentally	0	0	1	0
 desastre	desaster	0	0	1	0
 desastre	disaster	0	0	1	0
 talentos	talents	0	0	1	0
-talentos	talent	0	0	1	0
 senhor	sir	0	0	1	0
 senhor	mister	0	0	1	0
 setentrional	septentrional	0	0	1	0
@@ -7280,12 +7057,10 @@ claros	clear	0	0	1	0
 sofreram	suffered	0	0	1	0
 florestal	forestry	0	0	1	0
 florestal	forest	0	0	1	0
-entertainment	enterainment	0	0	1	0
 entertainment	entertainment	0	0	1	0
 espalhados	spread	0	0	1	0
 espalhados	scattered	0	0	1	0
 exportações	exportations	0	0	1	0
-exportações	exports	0	0	1	0
 exportações	exportation	0	0	1	0
 may	may	0	0	1	0
 causa	because	0	0	1	0
@@ -7324,7 +7099,6 @@ vanguardas	vanguard	0	0	1	0
 vanguardas	vanguards	0	0	1	0
 vanguardas	scouts	0	0	1	0
 penha	penha	0	0	1	0
-penha	rock	0	0	1	0
 romântica	romantic	0	0	1	0
 tancredo	tancredo	0	0	1	0
 operários	works	0	0	1	0
@@ -7334,10 +7108,8 @@ mostrava	showed	0	0	1	0
 turcos	turks	0	0	1	0
 turcos	turkish	0	0	1	0
 único	unic	0	0	1	0
-único	only	0	0	1	0
 único	single	0	0	1	0
 projeção	projection	0	0	1	0
-projeção	outstanding	0	0	1	0
 acima	above	0	0	1	0
 joaquim	joaquim	0	0	1	0
 africanas	africans	0	0	1	0
@@ -7368,7 +7140,6 @@ sacrifício	sacrifice	0	0	1	0
 polônia	poland	0	0	1	0
 estátua	statue	0	0	1	0
 lista	list	0	0	1	0
-campeã	compea	0	0	1	0
 campeã	champion	0	0	1	0
 rss	rss	0	0	1	0
 potências	powers	0	0	1	0
@@ -7380,7 +7151,6 @@ bem	well	0	0	1	0
 igreja	curch	0	0	1	0
 igreja	church	0	0	1	0
 chipre	cyprus	0	0	1	0
-formados	compact	0	0	1	0
 formados	formed	0	0	1	0
 pressão	pressure	0	0	1	0
 mês	months	0	0	1	0
@@ -7412,7 +7182,6 @@ suspensão	suspension	0	0	1	0
 deixando	lefting	0	0	1	0
 deixando	leaving	0	0	1	0
 pedaço	piece	0	0	1	0
-necessidade	need	0	0	1	0
 necessidade	necessity	0	0	1	0
 intenções	intentions	0	0	1	0
 desenvolvido	developed	0	0	1	0
@@ -7462,10 +7231,8 @@ tornam	become	0	0	1	0
 tornam	make	0	0	1	0
 tornar	become	0	0	1	0
 tornar	make	0	0	1	0
-comitê	i commited	0	0	1	0
 comitê	comite	0	0	1	0
 comitê	committee	0	0	1	0
-indo	go	0	0	1	0
 indo	going	0	0	1	0
 parker	parker	0	0	1	0
 tolkien	tolken	0	0	1	0
@@ -7508,13 +7275,11 @@ estruturas	structures	0	0	1	0
 estrutural	extructural	0	0	1	0
 estrutural	structural	0	0	1	0
 valorização	appreciation	0	0	1	0
-valorização	estimation	0	0	1	0
 valorização	valorization	0	0	1	0
 centros	central	0	0	1	0
 centros	centers	0	0	1	0
 experimento	experiment	0	0	1	0
 populacional	populational	0	0	1	0
-populacional	populationaly	0	0	1	0
 populacional	population	0	0	1	0
 condutor	driver	0	0	1	0
 condutor	conductor	0	0	1	0
@@ -7529,9 +7294,7 @@ ordenado	ordered	0	0	1	0
 felipe	felipe	0	0	1	0
 vegetação	vegetation	0	0	1	0
 esteróides	steroids	0	0	1	0
-esteróides	steroid	0	0	1	0
 esteróides	esteroids	0	0	1	0
-gênero	genre	0	0	1	0
 gênero	kind	0	0	1	0
 gênero	gener	0	0	1	0
 luxemburgo	luxembourg	0	0	1	0
@@ -7552,7 +7315,6 @@ utilizou	used	0	0	1	0
 humana	human	0	0	1	0
 luz	light	0	0	1	0
 colocação	colocation	0	0	1	0
-colocação	placement	0	0	1	0
 parecem	seem	0	0	1	0
 parecem	seem to	0	0	1	0
 parecem	seeam	0	0	1	0
@@ -7575,7 +7337,6 @@ apelo	appeal	0	0	1	0
 apelo	call	0	0	1	0
 trinta	thirty	0	0	1	0
 simbolismo	symbolism	0	0	1	0
-simbolismo	simbolism	0	0	1	0
 alquimia	alchemy	0	0	1	0
 alquimia	alchimy	0	0	1	0
 polares	polar	0	0	1	0
@@ -7601,7 +7362,6 @@ sucuri	sucuri	1	0	1	0
 sucuri	anaconda; big snake	1	0	1	0
 vazio	empty	0	0	1	0
 exercícios	exercises	0	0	1	0
-exercícios	exercise	0	0	1	0
 emoção	emotion	0	0	1	0
 harmonia	harmony	0	0	1	0
 johann	johann	0	0	1	0
@@ -7614,15 +7374,14 @@ quis	wanted	0	0	1	0
 sara	sara	0	0	1	0
 supremo	supreme	0	0	1	0
 cerâmica	pottery	0	0	1	0
-cerâmica	ceramics	0	0	1	0
 cerâmica	potery	0	0	1	0
+cerâmica	ceramics	0	0	1	0
 cena	scene	0	0	1	0
 povo	people	0	0	1	0
 circus	circus	0	0	1	0
 norteamericana	north-american	0	0	1	0
 norteamericana	north american	0	0	1	0
 vinci	vinci	0	0	1	0
-vinci	defeated	0	0	1	0
 norteamericano	north-american	0	0	1	0
 norteamericano	north american	0	0	1	0
 pinheiro	pine tree	0	0	1	0
@@ -7633,7 +7392,7 @@ menores	smaller	0	0	1	0
 menores	minors	0	0	1	0
 saem	leave	0	0	1	0
 aprendizado	learning	0	0	1	0
-decidido	decided	0	0	1	0
+astrônomos	astronomers	0	0	1	0
 gravações	recordings	0	0	1	0
 gravações	tapes	0	0	1	0
 estilos	styles	0	0	1	0
@@ -7668,7 +7427,8 @@ party	party	0	0	1	0
 correspondência	correspondence	0	0	1	0
 correspondência	mail	0	0	1	0
 montes	hills	0	0	1	0
-http	http	0	0	1	0
+homicídios	homicides	0	0	1	0
+homicídios	murders	0	0	1	0
 eleitores	voters	0	0	1	0
 parecia	looks	0	0	1	0
 parecia	looked alike	0	0	1	0
@@ -7687,13 +7447,11 @@ tomada	taken	0	0	1	0
 tomada	take	0	0	1	0
 ashley	ashley	0	0	1	0
 records	records	0	0	1	0
-montagem	gathering	0	0	1	0
 montagem	assembly	0	0	1	0
 coeficiente	coefficient	0	0	1	0
 semelhantes	similar to	0	0	1	0
 semelhantes	similar	0	0	1	0
 ginásio	gym	0	0	1	0
-físico	physicist	0	0	1	0
 físico	physical	0	0	1	0
 vastas	large	0	0	1	0
 vastas	vast	0	0	1	0
@@ -7705,7 +7463,8 @@ onde	where	0	0	1	0
 históricas	historical	0	0	1	0
 dose	potion	0	0	1	0
 dose	dose	0	0	1	0
-racional	rational	0	0	1	0
+associada	associated	0	0	1	0
+associada	associate	0	0	1	0
 sexta	sixth	0	0	1	0
 sexta	friday	0	0	1	0
 sexto	sixth	0	0	1	0
@@ -7792,8 +7551,6 @@ britânicos	british	0	0	1	0
 círculo	circle	0	0	1	0
 bruxas	witches	0	0	1	0
 esporos	spores	0	0	1	0
-esporos	spore	0	0	1	0
-cotidiana	experts	0	0	1	0
 cotidiana	daily	0	0	1	0
 criticada	criticized	0	0	1	0
 criticada	criticised	0	0	1	0
@@ -7841,7 +7598,6 @@ suástica	swastica	0	0	1	0
 suástica	swastika	0	0	1	0
 washington	washington	0	0	1	0
 washington	washigton	0	0	1	0
-túmulos	mound	0	0	1	0
 túmulos	tombs	0	0	1	0
 túmulos	grave	0	0	1	0
 filosófica	philosophic	0	0	1	0
@@ -7901,7 +7657,6 @@ piece	piece	0	0	1	0
 sempre	always	0	0	1	0
 sempre	allways	0	0	1	0
 mercadores	merchants	0	0	1	0
-etapa	part	0	0	1	0
 etapa	stage	0	0	1	0
 links	links	0	0	1	0
 apesar	although	0	0	1	0
@@ -7978,10 +7733,9 @@ acusações	accusations	0	0	1	0
 flávio	flavio	0	0	1	0
 marcou	marked	0	0	1	0
 presente	present	0	0	1	0
-marcos	landmarks	0	0	1	0
-marcos	marcos	0	0	1	0
-marcos	mark	0	0	1	0
-libertadores	libertadores	0	0	1	0
+exigia	demanded	0	0	1	0
+procuraram	sought	0	0	1	0
+procuraram	search	0	0	1	0
 panamá	panama	0	0	1	0
 abre	open	0	0	1	0
 abre	opens	0	0	1	0
@@ -7998,7 +7752,6 @@ reforma	reformation	0	0	1	0
 reforma	retirement	0	0	1	0
 reforma	reform	0	0	1	0
 exames	examinations	0	0	1	0
-exames	tests	0	0	1	0
 exames	exams	0	0	1	0
 utilização	use	0	0	1	0
 utilização	ultilization	0	0	1	0
@@ -8014,7 +7767,6 @@ escrava	slave	0	0	1	0
 marechal	marchal	0	0	1	0
 marechal	marshal	0	0	1	0
 fhc	fhc	0	0	1	0
-herbert	herbert	0	0	1	0
 estreou	debutted	0	0	1	0
 estreou	debut	0	0	1	0
 estreou	premiered	0	0	1	0
@@ -8036,7 +7788,6 @@ usina	factory	0	0	1	0
 usina	usina	0	0	1	0
 andré	andre	0	0	1	0
 andré	andré	0	0	1	0
-geologia	geology	0	0	1	0
 nem	neither	0	0	1	0
 nem	either	0	0	1	0
 nem	not even	0	0	1	0
@@ -8099,6 +7850,8 @@ efetiva	effective	0	0	1	0
 defensor	defender	0	0	1	0
 capitais	capital cities	0	0	1	0
 capitais	capitals	0	0	1	0
+esgoto	sewer	0	0	1	0
+esgoto	sewage	0	0	1	0
 tela	canvas	0	0	1	0
 tela	screen	0	0	1	0
 combustão	combustion	0	0	1	0
@@ -8122,8 +7875,6 @@ fenômeno	phenomenom	0	0	1	0
 pulmão	lung	0	0	1	0
 ocorrido	occured	0	0	1	0
 ocorrido	occurred	0	0	1	0
-pacto	pact	0	0	1	0
-pacto	compact	0	0	1	0
 ciências	science	0	0	1	0
 ciências	ciences	0	0	1	0
 oscar	oscar	0	0	1	0
@@ -8211,9 +7962,6 @@ sérios	serious	0	0	1	0
 estende	spread	0	0	1	0
 estende	extends	0	0	1	0
 estende	extend	0	0	1	0
-sucessos	successes	0	0	1	1
-sucessos	hits	0	0	1	0
-sucessos	success	0	0	1	0
 sucessor	successor	0	0	1	0
 abolição	abolition	0	0	1	0
 cortada	cutted	0	0	1	0
@@ -8246,14 +7994,13 @@ anteriormente	previously	0	0	1	0
 citoplasma	cytoplasm	0	0	1	0
 elenco	cast	0	0	1	0
 barata	cheap	0	0	1	0
-barata	cockroach	0	0	1	0
 políticas	politics	0	0	1	0
 políticas	policies	0	0	1	0
 respectivamente	respectively	0	0	1	0
 propósito	purpose	0	0	1	0
 propósito	propouse	0	0	1	0
 ernesto	ernesto	0	0	1	0
-indonésia	indonesia	0	0	1	0
+one	one	0	0	1	0
 comunidade	community	0	0	1	0
 bons	good	0	0	1	0
 romantismo	romanticism	0	0	1	0
@@ -8279,7 +8026,6 @@ esqueleto	skeleton	0	0	1	0
 milan	milão	0	0	1	0
 milan	milan	0	0	1	0
 abundante	abundant	0	0	1	1
-aids	aids	0	0	1	0
 dawn	dawn	0	0	1	0
 aceleração	acceleration	0	0	1	0
 óssea	bone	0	0	1	0
@@ -8296,8 +8042,8 @@ juristas	lawyers	0	0	1	0
 juristas	legal experts	0	0	1	0
 produtiva	productive	0	0	1	0
 venezuela	venezuela	0	0	1	0
-foto	photo	0	0	1	0
 foto	picture	0	0	1	0
+foto	photo	0	0	1	0
 luanda	luand	0	0	1	0
 tríplice	threefold	0	0	1	0
 tríplice	triple	0	0	1	0
@@ -8347,7 +8093,6 @@ bonita	pretty	0	0	1	0
 girls	girls	0	0	1	0
 inferno	hell	0	0	1	0
 continuamente	continuously	0	0	1	0
-continuamente	continuosly	0	0	1	0
 gravação	recording	0	0	1	0
 gravação	tape	0	0	1	0
 gerar	generate	0	0	1	0
@@ -8359,7 +8104,6 @@ poderá	may	0	0	1	0
 poderá	to ponder	0	0	1	0
 poderá	can	0	0	1	0
 evoluiu	evolved	0	0	1	0
-assumindo	assume	0	0	1	0
 assumindo	assumed	0	0	1	0
 evoluir	evolve	0	0	1	0
 jacob	jacob	0	0	1	0
@@ -8381,7 +8125,6 @@ peculiar	peculiar	0	0	1	0
 abriu	opened	0	0	1	0
 jejum	fasting	0	0	1	0
 categoriamúsicos	category musicians	0	0	1	0
-categoriamúsicos	categoriamusicos	0	0	1	0
 olímpico	olympic	0	0	1	0
 olímpica	olympic	0	0	1	0
 olímpica	olimpic	0	0	1	0
@@ -8392,12 +8135,10 @@ disposições	tendencies	0	0	1	0
 conforme	as	0	0	1	0
 mina	mine	0	0	1	0
 fonseca	fonseca	0	0	1	0
-recorrentes	appellant	0	0	1	0
 recorrentes	recorrents	0	0	1	0
 recorrentes	applicants	0	0	1	0
 repouso	rest	0	0	1	0
 administradores	administrators	0	0	1	0
-administradores	administrator	0	0	1	0
 administradores	admnistrator	0	0	1	0
 soube	knew	0	0	1	0
 surgimento	appearance	0	0	1	0
@@ -8448,8 +8189,8 @@ comunismo	communism	0	0	1	0
 comunismo	comunism	0	0	1	0
 comunismo	consumism	0	0	1	0
 dor	pain	0	0	1	0
-dos	of the	0	0	1	0
 dos	from	0	0	1	0
+dos	of the	0	0	1	0
 datas	dates	0	0	1	0
 datas	data	0	0	1	0
 kristen	kristen	0	0	1	0
@@ -8458,7 +8199,6 @@ federais	federal	0	0	1	0
 semelhança	similarity	0	0	1	0
 semelhança	similiraty	0	0	1	0
 inédita	unpublished	0	0	1	0
-inédita	unedited	0	0	1	0
 inédita	inedited	0	0	1	0
 privilégios	privilege	0	0	1	0
 privilégios	priviledges	0	0	1	0
@@ -8496,11 +8236,9 @@ principalmente	principally	0	0	1	0
 principalmente	primarily	0	0	1	0
 empirismo	empiricism	0	0	1	0
 sozinha	alone	0	0	1	0
-sozinha	all alone	0	0	1	0
 renascentista	renaissance	0	0	1	0
 christopher	christopher	0	0	1	0
 capacidades	capacity	0	0	1	0
-capacidades	capabilities	0	0	1	0
 mobilidade	mobility	0	0	1	0
 incidência	distribution	0	0	1	0
 incidência	incidence	0	0	1	0
@@ -8515,7 +8253,6 @@ ilha	isle	1	1	0	0
 vemos	we	0	0	1	0
 vemos	see	0	0	1	0
 reivindicações	claims	0	0	1	0
-reivindicações	reinvidications	0	0	1	0
 suspeita	suspect	0	0	1	0
 suspeita	suspicion	0	0	1	0
 capacitores	capacitors	0	0	1	0
@@ -8556,22 +8293,21 @@ decidem	decide	0	0	1	0
 destruída	destroyed	0	0	1	0
 elevadas	high	0	0	1	0
 paraná	paraná	0	0	1	0
-duff	duff	0	0	1	0
 direcção	direction	0	0	1	0
 direcção	towards	0	0	1	0
 acreditavam	beleived	0	0	1	0
 acreditavam	believed	0	0	1	0
-marcar	scoring	0	0	1	0
-marcar	score	0	0	1	0
-marcar	mark	0	0	1	0
+sorte	fortune	0	0	1	0
+sorte	luck	0	0	1	0
 marcas	brands	0	0	1	0
 marcas	marks	0	0	1	0
 artificial	artificial	0	0	1	0
-saiu	went	0	0	1	0
 saiu	go out	0	0	1	0
 saiu	left	0	0	1	0
 sais	salts	0	0	1	0
 sair	leave	0	0	1	0
+prato	dish	0	0	1	0
+prato	plate	0	0	1	0
 pesquisador	researcher	0	0	1	0
 pesquisador	research	0	0	1	0
 credo	creed	0	0	1	0
@@ -8628,7 +8364,6 @@ monárquico	monarch	0	0	1	0
 monárquico	monarchical	0	0	1	0
 inclusão	inclusion	0	0	1	0
 cenas	scenes	0	0	1	0
-cenas	scene	0	0	1	0
 coringa	joker	0	0	1	0
 absorção	absorption	0	0	1	0
 absorção	absortion	0	0	1	0
@@ -8638,7 +8373,7 @@ contrato	contract	0	0	1	0
 heróis	heroes	0	0	1	0
 bibliografia	bibliography	0	0	1	0
 bibliografia	references	0	0	1	0
-caminhos	ways	0	0	1	0
+proteína	protein	0	0	1	0
 pintura	painting	0	0	1	0
 veneno	poison	0	0	1	0
 revela	reveal	0	0	1	0
@@ -8657,8 +8392,8 @@ restrito	restrict	0	0	1	0
 restrito	limitado	0	0	1	0
 restrito	limited	0	0	1	0
 usada	used	0	0	1	0
-casouse	caused itself	0	0	1	0
-casouse	married	0	0	1	0
+ocorra	occurs	0	0	1	0
+ocorra	occur	0	0	1	0
 restante	ramaining	0	0	1	0
 restante	remaining	0	0	1	0
 restante	rest	0	0	1	0
@@ -8702,7 +8437,6 @@ ip	ip	0	0	1	0
 is	is	0	0	1	0
 ir	go	0	0	1	0
 it	it	0	0	1	0
-iv	iv	0	0	1	0
 ii	ii	0	0	1	0
 ii	second	0	0	1	0
 poderiam	were able to	0	0	1	0
@@ -8740,7 +8474,6 @@ produziu	produced	0	0	1	0
 aparecer	apear	0	0	1	0
 aparecer	appear	0	0	1	0
 aparecer	show	0	0	1	0
-apareceu	appeared	0	0	1	0
 apareceu	showed up	0	0	1	0
 apareceu	showed	0	0	1	0
 kim	kim	0	0	1	0
@@ -8762,9 +8495,6 @@ latinoamericanos	latin americans	0	0	1	0
 left	left	0	0	1	0
 terminologia	terminology	0	0	1	0
 facto	fact	0	0	1	0
-gama	scale	0	0	1	0
-gama	gamma	0	0	1	0
-gama	gama	0	0	1	0
 just	just	0	0	1	0
 transforma	transforms	0	0	1	0
 transforma	transform	0	0	1	0
@@ -8772,13 +8502,10 @@ sporting	sporting	0	0	1	0
 personagem	character	0	0	1	0
 vendo	sell	0	0	1	0
 vendo	seeing	0	0	1	0
-vendo	looking	0	0	1	0
 condições	conditions	0	0	1	0
-venda	band	0	0	1	0
 venda	sale	0	0	1	1
 nicolas	nicolas	0	0	1	0
 inspiradas	inspired	0	0	1	0
-polos	pole	0	0	1	0
 polos	poles	0	0	1	0
 conflito	conflict	0	0	1	0
 conflito	conflited	0	0	1	0
@@ -8843,7 +8570,6 @@ introduziram	intruduced	0	0	1	0
 monumento	monument	0	0	1	0
 anticorpos	antibodies	0	0	1	0
 anticorpos	anti bodies	0	0	1	0
-anticorpos	antibody	0	0	1	0
 direto	direct	0	0	1	0
 densa	dense	0	0	1	0
 nervoso	nervous	0	0	1	0
@@ -8854,7 +8580,6 @@ denso	desne	0	0	1	0
 denso	dense	0	0	1	0
 shakespeare	shakespeare	0	0	1	0
 apontam	pointed	0	0	1	0
-apontam	point out	0	0	1	0
 apontam	point	0	0	1	0
 carta	letter	0	0	1	0
 procurava	sought	0	0	1	0
@@ -8879,10 +8604,10 @@ subcontinente	subcontinent	0	0	1	0
 super	super	0	0	1	0
 trilogia	triology	0	0	1	0
 trilogia	trilogy	0	0	1	0
-localizamse	localizamse	0	0	1	0
 localizamse	are located	0	0	1	0
 específicas	specific	0	0	1	0
-humanistas	humanists	0	0	1	0
+trabalho	work	0	0	1	0
+trabalho	labor	0	0	1	0
 cazuza	cazuza	0	0	1	0
 magazine	magazine	0	0	1	0
 magazine	revista	0	0	1	0
@@ -8914,7 +8639,6 @@ provisório	temporary	0	0	1	0
 provisório	provisional	0	0	1	0
 editor	editor	0	0	1	0
 baixa	down	0	0	1	0
-baixa	decrease	0	0	1	0
 baixa	low	0	0	1	0
 fora	out or out of	0	0	1	0
 fora	out	0	0	1	0
@@ -8926,7 +8650,6 @@ impressionante	extraordinary	0	0	1	0
 impressionante	impressive	0	0	1	0
 feminina	female	0	0	1	0
 lealdade	loyalty	0	0	1	0
-lealdade	devotion	0	0	1	0
 intensidade	intensity	0	0	1	0
 xadrez	chess	0	0	1	0
 feminino	feminine	0	0	1	0
@@ -8962,8 +8685,9 @@ possuía	owned	0	0	1	0
 possuía	posses	0	0	1	0
 aparece	appears	0	0	1	0
 aparece	show	0	0	1	0
-produto	product	0	0	1	0
-produto	production	0	0	1	0
+visto	since	0	0	1	0
+visto	seam	0	0	1	0
+visto	viewed	0	0	1	0
 curiosidade	curiosity	0	0	1	0
 curiosidade	curiosityq	0	0	1	0
 definitivamente	finally	0	0	1	0
@@ -9007,12 +8731,11 @@ tocando	playing	0	0	1	0
 colónias	colonies	0	0	1	0
 temáticas	thematics	0	0	1	0
 temáticas	theme	0	0	1	0
-temáticas	thematic	0	0	1	0
 autores	authors	0	0	1	0
 encarregado	in charge	0	0	1	0
 encarregado	charged	0	0	1	0
-canções	songs	0	0	1	0
-desempenho	performance	0	0	1	0
+escravidão	slavery	0	0	1	0
+expressões	expressions	0	0	1	0
 oração	praying	0	0	1	0
 oração	oration	0	0	1	0
 oração	prayer	0	0	1	0
@@ -9047,8 +8770,8 @@ marky	marky	0	0	1	0
 editora	publishing house	0	0	1	0
 lançados	launched	0	0	1	0
 torcidas	wick	0	0	1	0
-torcidas	fans	0	0	1	0
 torcidas	supporters	0	0	1	0
+torcidas	fans	0	0	1	0
 rodovias	highways	0	0	1	0
 rodovias	highway	0	0	1	0
 distritos	districts	0	0	1	0
@@ -9080,7 +8803,6 @@ reologia	rheology	1	1	0	0
 cozinha	kitchen	0	0	1	0
 lógico	logic	0	0	1	0
 culturais	cultural	0	0	1	0
-pacientes	patients	0	0	1	0
 pacientes	pacients	0	0	1	0
 pacientes	patient	0	0	1	0
 poderosos	powerful	0	0	1	0
@@ -9131,7 +8853,7 @@ inauguração	inaugration	0	0	1	0
 inauguração	inauguration	0	0	1	0
 boi	ox	0	0	1	0
 boi	bull	0	0	1	0
-transmitir	transmit	0	0	1	0
+ruy	ruy	0	0	1	0
 bom	good	0	0	1	0
 bom	considerable	0	0	1	0
 dispersão	dispersion	0	0	1	0
@@ -9152,7 +8874,6 @@ tocar	play	0	0	1	1
 neutro	neutral	0	0	1	0
 cabala	hoax	0	0	1	0
 cabala	cabal	0	0	1	1
-franco	frank	0	0	1	0
 franco	franco	0	0	1	0
 franca	honourably	0	0	1	0
 franca	franca	0	0	1	0
@@ -9201,7 +8922,6 @@ turísticos	turistic	0	0	1	0
 turísticos	tourist	0	0	1	0
 hospedeiro	hoster	0	0	1	0
 hospedeiro	host	0	0	1	0
-hospedeiro	board	0	0	1	0
 nenhuma	none	0	0	1	0
 nenhuma	no	0	0	1	0
 comunistas	communists	0	0	1	0
@@ -9264,7 +8984,6 @@ sistina	sistine	0	0	1	0
 provável	probably	0	0	1	0
 provável	likely	0	0	1	0
 canadá	canada	0	0	1	0
-restingas	restingas	0	0	1	0
 restingas	sandbank	0	0	1	0
 restingas	sandbanks	0	0	1	0
 group	group	0	0	1	0
@@ -9273,10 +8992,8 @@ mais	more	0	0	1	0
 earthrealm	earthrealm	0	0	1	0
 laguna	lagoon	0	0	1	0
 influenciados	influenced	0	0	1	0
-maia	maia	0	0	1	0
 maia	maya	0	0	1	0
 maio	may	0	0	1	0
-main	main	0	0	1	0
 subsistência	subsistence	0	0	1	0
 texas	texas	0	0	1	0
 significar	meaning	0	0	1	0
@@ -9343,7 +9060,6 @@ fábrica	factory	0	0	1	0
 fábrica	manufactures	0	0	1	0
 fábrica	fabric	0	0	1	0
 chave	key	0	0	1	1
-terão	big plot of land	0	0	1	0
 terão	will have	0	0	1	0
 org	org.	0	0	1	0
 amigos	friends	0	0	1	0
@@ -9352,7 +9068,6 @@ adequadamente	accordingly	0	0	1	0
 adequadamente	acconrdingly	0	0	1	0
 ora	sometimes	0	0	1	0
 ora	so	0	0	1	0
-ora	hour	0	0	1	0
 gravaram	(they) recorded	0	0	1	0
 gravaram	recorded	0	0	1	0
 sabor	taste	0	0	1	0
@@ -9370,7 +9085,6 @@ acabaria	would end	0	0	1	0
 acabaria	would end up	0	0	1	0
 ocupa	occupy	0	0	1	0
 ocupa	occupies	0	0	1	0
-ocupa	holds	0	0	1	0
 americana	american	0	0	1	0
 americano	american	0	0	1	0
 rachel	rachel	0	0	1	0
@@ -9389,7 +9103,6 @@ estanho	tin	0	0	1	0
 estanho	strange	0	0	1	0
 existentes	existent	0	0	1	0
 existentes	existing	0	0	1	0
-nascimento	nativity	0	0	1	0
 nascimento	borning	0	0	1	0
 nascimento	birth	0	0	1	0
 maquiavel	maquiavel	0	0	1	0
@@ -9514,9 +9227,7 @@ entrando	entering	0	0	1	0
 preciso	needed	0	0	1	0
 preciso	accurate	0	0	1	0
 preciso	must	0	0	1	0
-devidamente	duly	0	0	1	0
-devidamente	properly	0	0	1	0
-devidamente	proper way	0	0	1	0
+delta	delta	0	0	1	0
 gira	turns	0	0	1	0
 gira	spin	0	0	1	0
 aventura	adventure	0	0	1	0
@@ -9584,7 +9295,6 @@ alemanha	germany	0	0	1	0
 chuva	rain	0	0	1	0
 paquistão	pakistan	0	0	1	0
 paquistão	paquistan	0	0	1	0
-iniciação	initiation	0	0	1	0
 iniciação	iniciation	0	0	1	0
 economistas	economists	0	0	1	0
 acham	(they) think	0	0	1	0
@@ -9599,7 +9309,6 @@ profundidade	dept	0	0	1	0
 profundidade	depth	0	0	1	0
 distantes	distant	0	0	1	0
 distantes	far away	0	0	1	0
-especialização	sprecialization	0	0	1	0
 especialização	especialization	0	0	1	0
 especialização	specialization	0	0	1	0
 gaga	gaga	0	0	1	0
@@ -9708,7 +9417,6 @@ necessários	necessity	0	0	1	0
 calcário	calcareous	0	0	1	0
 calcário	limestone	0	0	1	0
 coco	coco	0	0	1	0
-coco	poop	0	0	1	0
 coco	coconut	0	0	1	0
 alvo	target	0	0	1	0
 companhias	companies	0	0	1	0
@@ -9726,7 +9434,6 @@ saque	sacking	0	0	1	0
 saque	loot	0	0	1	0
 saque	draw	0	0	1	0
 utilizava	ultilized	0	0	1	0
-utilizava	utilized	0	0	1	0
 utilizava	used	0	0	1	0
 emprego	job	0	0	1	0
 emprego	use	0	0	1	0
@@ -9764,7 +9471,6 @@ reflexão	reflection	0	0	1	0
 reflexão	reflexions	0	0	1	0
 detém	holds	0	0	1	0
 detém	stopped	0	0	1	0
-príncipe	princes	0	0	1	0
 príncipe	prince	0	0	1	0
 famosas	famous	0	0	1	0
 impedindo	preventing	0	0	1	0
@@ -9805,15 +9511,13 @@ fumo	smoke	0	0	1	0
 monet	monet	0	0	1	0
 necessariamente	necessarily	0	0	1	0
 boliviano	bolivian	0	0	1	0
-reservatório	reservoir	0	0	1	0
-reservatório	reservatory	0	0	1	0
 genoma	genoma	0	0	1	0
 genoma	genome	0	0	1	0
 actividades	activities	0	0	1	0
 comediante	commedian	0	0	1	0
 comediante	comedian	0	0	1	0
 espada	sword	0	0	1	1
-lenta	slow	0	0	1	0
+logaritmo	logarithm	0	0	1	0
 goleiros	goalkeepers	0	0	1	0
 parar	stop	0	0	1	0
 parar	to stop	0	0	1	0
@@ -9841,7 +9545,6 @@ seres	be	0	0	1	0
 seres	beings	0	0	1	0
 viver	live	0	0	1	0
 deputados	senator	0	0	1	0
-deputados	representatives	0	0	1	0
 deputados	members	0	0	1	0
 profecia	prophecy	0	0	1	0
 viagens	travels	0	0	1	0
@@ -9859,7 +9562,8 @@ imagem	image	0	0	1	0
 raiva	anger	0	0	1	0
 raiva	angry	0	0	1	0
 nacionalidade	nationality	0	0	1	0
-pobre	poor	0	0	1	0
+cabe	it	0	0	1	0
+cabe	is up to	0	0	1	0
 garoto	boy	0	0	1	0
 garoto	kid	0	0	1	1
 falhas	failures	0	0	1	0
@@ -9867,7 +9571,6 @@ falhas	fails	0	0	1	0
 falhas	flaws	0	0	1	0
 joan	joan	0	0	1	0
 compreender	understand	0	0	1	0
-pirâmides	pyramid	0	0	1	0
 pirâmides	pyramids	0	0	1	0
 manchas	stains	0	0	1	0
 manchas	spots	0	0	1	0
@@ -9893,7 +9596,6 @@ refere	refers	0	0	1	0
 glória	glory	0	0	1	0
 ocupando	occupying	0	0	1	0
 ocupando	occupy	0	0	1	0
-ocupando	occupies	0	0	1	0
 atender	answer	0	0	1	0
 atender	attend	0	0	1	0
 atender	wait	0	0	1	0
@@ -9913,7 +9615,6 @@ pulmões	lungs	0	0	1	0
 acompanha	accompanied	0	0	1	0
 acompanha	accompanies	0	0	1	0
 empresa	company	0	0	1	0
-empresa	business	0	0	1	0
 libertação	freedom	0	0	1	0
 libertação	libertation	0	0	1	0
 liberado	released	0	0	1	0
@@ -9947,7 +9648,6 @@ lópez	lópez	0	0	1	0
 lópez	lopez	0	0	1	0
 erasmo	erasmo	0	0	1	0
 pilares	pillars	0	0	1	0
-pilares	pulverize	0	0	1	0
 notação	notation	0	0	1	0
 decisiva	decisive	0	0	1	0
 decisiva	dcisive	0	0	1	0
@@ -9967,8 +9667,8 @@ pessoa	person	0	0	1	0
 pesquisadores	researchers	0	0	1	0
 dominação	domination	0	0	1	0
 ronaldo	ronaldo	0	0	1	0
-responsabilidade	responsibility	0	0	1	0
 responsabilidade	responsability	0	0	1	0
+responsabilidade	responsibility	0	0	1	0
 séries	series	0	0	1	0
 mary	mary	0	0	1	0
 cão	dog	0	0	1	0
@@ -9997,7 +9697,6 @@ vitoriosa	victorious	0	0	1	0
 filo	made him	0	0	1	0
 filo	phylum	0	0	1	0
 filo	did it	0	0	1	0
-universidade	univeridade	0	0	1	0
 universidade	university	0	0	1	0
 universidade	college	0	0	1	0
 literário	literary	0	0	1	0
@@ -10007,7 +9706,6 @@ escopo	scope	0	0	1	0
 partida	start	0	0	1	0
 partida	half	0	0	1	0
 nível	level	0	0	1	0
-espaciais	spacial	0	0	1	0
 espaciais	spacials	0	0	1	0
 espaciais	spatial	0	0	1	0
 citados	cited	0	0	1	0
@@ -10053,7 +9751,6 @@ arranjos	fixes	0	0	1	0
 arranjos	arrengements	0	0	1	0
 liam	read	0	0	1	0
 garibaldi	garibaldi	0	0	1	0
-garibaldi	garibaladi	0	0	1	0
 divulgada	revealed	0	0	1	0
 divulgada	disclosed	0	0	1	0
 divulgada	published	0	0	1	0
@@ -10080,13 +9777,11 @@ fala	speak	0	0	1	0
 gerados	generated	0	0	1	0
 alma	soul	0	0	1	0
 vitória	victory	0	0	1	0
-clássica	classical	0	0	1	0
 clássica	classic	0	0	1	0
 disto	this	0	0	1	0
 convencional	conventional	0	0	1	0
 encontradas	found	0	0	1	0
 noroeste	north-west	0	0	1	0
-noroeste	north west	0	0	1	0
 noroeste	northwest	0	0	1	0
 supercopa	super cup	0	0	1	0
 supercopa	supercup	0	0	1	0
@@ -10114,7 +9809,6 @@ obrigatório	compulsory	0	0	1	0
 ocasionalmente	ocasionally	0	0	1	0
 ocasionalmente	occasionally	0	0	1	0
 dias	days	0	0	1	0
-dias	day	0	0	1	0
 presos	locked	0	0	1	0
 presos	prisoners	0	0	1	0
 presos	arrested	0	0	1	0
@@ -10181,7 +9875,6 @@ correspondente	equivalent	0	0	1	0
 correspondente	corresponding	0	0	1	0
 dificuldade	difficulties	0	0	1	0
 dificuldade	dificulty	0	0	1	0
-descobertos	uncovered	0	0	1	0
 descobertos	found	0	0	1	0
 condução	conduction	0	0	1	0
 condução	conducting	0	0	1	0
@@ -10208,6 +9901,7 @@ ministros	ministers	0	0	1	0
 seguidores	followers	0	0	1	0
 particular	specific	0	0	1	0
 particular	particular	0	0	1	0
+gold	first word	0	0	1	0
 destacandose	highlighting	0	0	1	0
 destacandose	santanding out	0	0	1	0
 destacandose	being distinguished	0	0	1	0
@@ -10215,7 +9909,8 @@ criatividade	creativity	0	0	1	0
 guarda	guard	0	0	1	0
 guarda	patrolling	0	0	1	0
 guarda	custody	0	0	1	0
-vladimir	vladimir	0	0	1	0
+nona	nineth	0	0	1	0
+nona	ninth	0	0	1	0
 nono	ninth	0	0	1	0
 der	der	0	0	1	0
 des	des	0	0	1	0
@@ -10272,7 +9967,6 @@ indireta	indirect	0	0	1	0
 indireta	inderect	0	0	1	0
 acto	act	0	0	1	0
 indireto	indirect	0	0	1	0
-ocorrendo	ocurring	0	0	1	0
 ocorrendo	occurring	0	0	1	0
 pleno	full	0	0	1	0
 viena	wien	0	0	1	0
@@ -10308,7 +10002,6 @@ aldeias	villages	0	0	1	0
 aldeias	village	0	0	1	0
 entendimento	agreement	0	0	1	0
 entendimento	according	0	0	1	0
-entendimento	understanding	0	0	1	0
 senhora	maddam	0	0	1	0
 senhora	lady	0	0	1	0
 lesões	lesions	0	0	1	0
@@ -10317,7 +10010,6 @@ maré	tide	0	0	1	0
 restauração	restauration	0	0	1	0
 restauração	restoration	0	0	1	0
 especialidades	specialties	0	0	1	0
-especialidades	experts	0	0	1	0
 celular	cellphone	0	0	1	0
 celular	cell phone	0	0	1	0
 celular	celular	0	0	1	0
@@ -10335,7 +10027,6 @@ peste	plague	0	0	1	0
 pena	feather	0	0	1	0
 imagens	images	0	0	1	0
 cândido	candid	0	0	1	0
-cândido	cândido	0	0	1	0
 cândido	candido	0	0	1	0
 dolls	dolls	0	0	1	0
 afastar	move away	0	0	1	0
@@ -10352,7 +10043,6 @@ cantão	cantao	0	0	1	0
 cantão	cantão	0	0	1	0
 cantão	canton	0	0	1	0
 males	evils	0	0	1	0
-respeito	deference	0	0	1	0
 respeito	respect	0	0	1	0
 sucedida	successful	0	0	1	0
 sucedida	succeeded	0	0	1	0
@@ -10402,8 +10092,8 @@ sedimentos	sediments	0	0	1	0
 nomeados	appointed	0	0	1	0
 nomeados	nominated	0	0	1	0
 pretendia	wanted	0	0	1	0
-pretendia	pretended	0	0	1	0
 pretendia	want	0	0	1	0
+pretendia	pretended	0	0	1	0
 prefeito	perfect	0	0	1	0
 prefeito	mayor	0	0	1	0
 intitulado	entitled	0	0	1	0
@@ -10427,8 +10117,8 @@ verdade	true	0	0	1	0
 verdade	truth	0	0	1	0
 tóquio	tokio	0	0	1	0
 tóquio	tokyo	0	0	1	0
-habilidade	hability	0	0	1	0
-habilidade	ability	0	0	1	0
+secretaria	secretary	0	0	1	0
+secretaria	desk	0	0	1	0
 hermes	hermes	0	0	1	0
 tornandose	becoming	0	0	1	0
 etnias	ethnicities	0	0	1	0
@@ -10490,15 +10180,14 @@ representou	respresented	0	0	1	0
 corpus	corpus	0	0	1	0
 substantivo	noun	0	0	1	0
 conheceu	known	0	0	1	0
-conheceu	met	0	0	1	0
 conheceu	knew	0	0	1	0
 b	b	0	0	1	0
 mahal	mahal	0	0	1	0
 conhecer	know	0	0	1	0
 conhecer	to know	0	0	1	0
 ritos	rituals	0	0	1	0
-ritos	rites	0	0	1	0
-monges	monks	0	0	1	0
+rendimento	revenue	0	0	1	0
+rendimento	income	0	0	1	0
 membros	members	0	0	1	0
 pokémon	pokemon	0	0	1	0
 norteamericanos	north american/american	0	0	1	0
@@ -10515,8 +10204,8 @@ difíceis	difficult	0	0	1	0
 negação	denial	0	0	1	0
 negação	negation	0	0	1	0
 agem	act	0	0	1	0
-agem	(they) act	0	0	1	0
 agem	act like	0	0	1	0
+agem	(they) act	0	0	1	0
 emergiu	emerged	0	0	1	0
 necessárias	needed	0	0	1	0
 necessárias	necessary	0	0	1	0
@@ -10553,7 +10242,6 @@ objetos	object	0	0	1	0
 objetos	objects	0	0	1	0
 permaneceu	stayed	0	0	1	0
 permaneceu	remained	0	0	1	0
-orçamento	max budget	0	0	1	0
 orçamento	budget	0	0	1	0
 diversificada	diversificated	0	0	1	0
 diversificada	diversified	0	0	1	0
@@ -10575,14 +10263,13 @@ fugiu	run away	0	0	1	0
 fugiu	fled	0	0	1	0
 fins	proposite	0	0	1	0
 fins	ends	0	0	1	0
-elaborar	elaborate	0	0	1	0
-elaborar	develop	0	0	1	0
 elaborar	make	0	0	1	0
+elaborar	develop	0	0	1	0
+elaborar	elaborate	0	0	1	0
 cauda	tail	0	0	1	0
 carne	meat	0	0	1	1
 possam	could have	0	0	1	0
 possam	can	0	0	1	0
-fina	finish	0	0	1	0
 fina	fine	0	0	1	0
 rendimentos	income	0	0	1	0
 rendimentos	revenue	0	0	1	0
@@ -10633,7 +10320,6 @@ dante	dante	0	0	1	0
 anfíbios	amphibious	0	0	1	0
 anfíbios	amphibian	0	0	1	0
 anfíbios	amphibians	0	0	1	0
-podendo	afford	0	0	1	0
 podendo	could be	0	0	1	0
 podendo	can	0	0	1	0
 variações	variations	0	0	1	0
@@ -10686,7 +10372,6 @@ amizade	friendship	0	0	1	0
 vertente	slope	0	0	1	0
 vertente	side	0	0	1	0
 confederações	confederations	0	0	1	0
-ritmos	rhythms	0	0	1	0
 ritmos	rhythm	0	0	1	0
 pagode	pagoda	0	0	1	0
 pagode	pagode	0	0	1	0
@@ -10731,7 +10416,6 @@ contratos	contracts	0	0	1	0
 islão	islan	0	0	1	0
 islão	islam	0	0	1	0
 tolerância	tolerance	0	0	1	0
-tolerância	tolerancla	0	0	1	0
 reta	straight	0	0	1	0
 pertenciam	belonged	0	0	1	0
 batata	potatoe	0	0	1	0
@@ -10754,11 +10438,9 @@ reformas	reforms	0	0	1	0
 ensinar	teach	0	0	1	1
 edifícios	buildings	0	0	1	0
 gay	gay	0	0	1	0
-quilômetros	guilometros	0	0	1	0
 quilômetros	kilometers	0	0	1	0
 identificação	identification	0	0	1	0
 coreia	korea	0	0	1	0
-coreia	coreia	0	0	1	0
 defendiam	defended	0	0	1	0
 ruptura	rupture	0	0	1	0
 opinião	opinion	0	0	1	0
@@ -10783,7 +10465,6 @@ fui	i	0	0	1	0
 fui	was	0	0	1	0
 minério	ore	0	0	1	0
 escandinávia	scandinavia	0	0	1	0
-escandinávia	scandanavia	0	0	1	0
 portugal	portugal	0	0	1	0
 inimigo	enemy	0	0	1	0
 mútua	mutual	0	0	1	0
@@ -10831,7 +10512,6 @@ carência	shortage	0	0	1	0
 morros	hills	0	0	1	0
 morros	hill	0	0	1	0
 juventus	juventus	0	0	1	0
-criadas	livestock	0	0	1	0
 criadas	created	0	0	1	0
 y	and	0	0	1	0
 usinas	plants	0	0	1	0
@@ -10851,9 +10531,7 @@ alternativo	alternative	0	0	1	0
 darc	d'arc	0	0	1	0
 consciente	consistent	0	0	1	0
 consciente	conscient	0	0	1	0
-consciente	conscious	0	0	1	0
 atentado	attack	0	0	1	0
-expressões	expressions	0	0	1	0
 alternativa	alternative	0	0	1	0
 alpes	alps	0	0	1	0
 alpes	alp	0	0	1	0
@@ -10896,7 +10574,6 @@ complexos	complex	0	0	1	0
 climáticos	climatic	0	0	1	0
 climáticos	climatics	0	0	1	0
 partindo	leavingq	0	0	1	0
-partindo	parting	0	0	1	0
 partindo	departing	0	0	1	0
 honra	honour	0	0	1	0
 honra	honor	0	0	1	0
@@ -10906,10 +10583,8 @@ caracterizase	it is characterized	0	0	1	0
 caracterizase	caracterize	0	0	1	0
 caracterizase	is caracterized	0	0	1	0
 vietnã	vietnam	0	0	1	0
-vietnã	vietnamese	0	0	1	0
 financiamento	financing	0	0	1	0
 limitações	limitations	0	0	1	0
-limitações	limitation	0	0	1	0
 distribuição	distribution	0	0	1	0
 madeiras	wood	0	0	1	0
 madeiras	woods	0	0	1	0
@@ -10969,7 +10644,6 @@ fechada	closed	0	0	1	0
 justa	fair	0	0	1	0
 justa	just	0	0	1	0
 consentimento	consent	0	0	1	0
-morre	die	0	0	1	0
 morre	deis	0	0	1	0
 morre	dies	0	0	1	0
 justo	fair	0	0	1	0
@@ -11024,12 +10698,9 @@ boys	boys	0	0	1	0
 nomeada	named	0	0	1	0
 nomeada	call up to	0	0	1	0
 seria	would be	0	0	1	0
-seria	would	0	0	1	0
 observação	observation	0	0	1	0
 vivas	living	0	0	1	0
 vivas	alive	0	0	1	0
-cabe	it	0	0	1	0
-cabe	is up to	0	0	1	0
 nomeado	named	0	0	1	0
 nomeado	nominee	0	0	1	0
 nomeado	nominated	0	0	1	0
@@ -11046,7 +10717,6 @@ dinheiro	money	0	0	1	0
 experiências	experiences	0	0	1	0
 móvel	mobile	0	0	1	0
 predomínio	predominance	0	0	1	0
-predomínio	predominated	0	0	1	0
 dragão	dragon	0	0	1	0
 cenários	scenarios	0	0	1	0
 cenários	scenary	0	0	1	0
@@ -11072,7 +10742,6 @@ sociais	social	0	0	1	0
 cadeia	chain	0	0	1	0
 voltaire	voltaire	0	0	1	0
 assassinato	killer	0	0	1	0
-assassinato	assassination	0	0	1	0
 assassinato	murder	0	0	1	0
 significativo	significative	0	0	1	0
 significativo	meaning	0	0	1	0
@@ -11102,11 +10771,9 @@ representar	represent	0	0	1	0
 potência	potency	0	0	1	0
 potência	power	0	0	1	0
 aumentado	have grown	0	0	1	0
-aumentado	increased	0	0	1	0
 aumentado	raise	0	0	1	0
 aumentada	raised	0	0	1	0
 aumentada	increased	0	0	1	0
-aumentada	augmented	0	0	1	0
 estadosmembros	member-states	0	0	1	0
 estadosmembros	member states	0	0	1	0
 crônica	tale	0	0	1	0
@@ -11138,11 +10805,10 @@ viajantes	travellers	0	0	1	0
 indispensável	indispensable	0	0	1	0
 graves	serious	0	0	1	0
 graves	severe	0	0	1	0
-capítulos	chapter	0	0	1	0
 capítulos	chapters	0	0	1	0
 chamadas	calls	0	0	1	0
-suave	smooth	0	0	1	0
 suave	soft	0	0	1	0
+suave	smooth	0	0	1	0
 cavalo	horse	0	0	1	0
 juscelino	juscelino	0	0	1	0
 masculina	male	0	0	1	0
@@ -11169,7 +10835,6 @@ anões	dwarves	0	0	1	0
 sexuada	sexuak	0	0	1	0
 sexuada	sexual	0	0	1	0
 sérias	series	0	0	1	0
-sérias	exist	0	0	1	0
 sérias	serious	0	0	1	0
 totalmente	totally	0	0	1	0
 portos	ports	0	0	1	0
@@ -11182,7 +10847,6 @@ categorianaturais	natural category	0	0	1	0
 categorianaturais	category: naturals	0	0	1	0
 leucócitos	leukocytes	0	0	1	0
 votação	voting	0	0	1	0
-votação	ballot	0	0	1	0
 votação	votation	0	0	1	0
 físicos	physical	0	0	1	0
 knight	knight	0	0	1	0
@@ -11284,7 +10948,6 @@ soberano	lord	0	0	1	0
 soberano	sovereign	0	0	1	0
 chamado	called	0	0	1	1
 chamada	call	0	0	1	0
-chamada	called	0	0	1	0
 chamada	calling	0	0	1	0
 contradições	contradictions	0	0	1	0
 representado	represented	0	0	1	0
@@ -11375,7 +11038,6 @@ energético	energetic	0	0	1	0
 nicolau	nicholas	0	0	1	0
 nicolau	nicolau	0	0	1	0
 espectro	spectrum	0	0	1	0
-espectro	specter	0	0	1	0
 factores	factors	0	0	1	0
 verões	summers	0	0	1	0
 da	of	0	0	1	0
@@ -11401,7 +11063,6 @@ proletariado	protelariat	0	0	1	0
 proletariado	proletariat	0	0	1	0
 mandatos	warranty	0	0	1	0
 mandatos	commands	0	0	1	0
-mandatos	mandates	0	0	1	0
 paulista	sao paulo	0	0	1	0
 paulista	paulista	0	0	1	0
 solos	soils	0	0	1	0
@@ -11439,7 +11100,6 @@ muralha	wall	0	0	1	0
 weber	weber	0	0	1	0
 barbosa	barbosa	0	0	1	0
 barbosa	it's a name	0	0	1	0
-relatórios	invoices	0	0	1	0
 relatórios	reports	0	0	1	0
 serra	mountain	0	0	1	0
 serra	hill	0	0	1	0
@@ -11447,14 +11107,14 @@ venceu	won	0	0	1	0
 venceu	winned	0	0	1	0
 maracanã	maracana	0	0	1	0
 vencer	win	0	0	1	0
-flash	flash	0	0	1	0
+sólidos	solid	0	0	1	0
+sólidos	solids	0	0	1	0
 religião	religion	0	0	1	0
 sulamericanos	south american	0	0	1	0
 sulamericanos	south-americans	0	0	1	0
 sulamericanos	south americans	0	0	1	0
 dar	give	0	0	1	0
 das	of	0	0	1	0
-das	of the	0	0	1	0
 evangelhos	gospels	0	0	1	0
 introduzidos	introduced	0	0	1	0
 mandato	mandate	0	0	1	0
@@ -11470,7 +11130,6 @@ warner	warner	0	0	1	0
 demonstrado	showing	0	0	1	0
 demonstrado	stablished	0	0	1	0
 demonstrado	demonstrated	0	0	1	0
-bueno	good	0	0	1	0
 bueno	bueno	0	0	1	0
 contabilidade	accounting	0	0	1	0
 africanos	africans	0	0	1	0
@@ -11496,7 +11155,7 @@ deram	gave	0	0	1	0
 lá	there	0	0	1	0
 jurídica	juridical	0	0	1	0
 riosão	rio-são	0	0	1	0
-rei	king	0	0	1	0
+mate	kill	0	0	1	0
 oriental	east	0	0	1	0
 oriental	oriental	0	0	1	0
 oriental	eastern	0	0	1	0
@@ -11520,15 +11179,13 @@ aguda	acute	0	0	1	0
 magnética	magnetic	0	0	1	0
 olhar	watch	0	0	1	0
 olhar	look	0	0	1	0
-poesias	poem	0	0	1	0
-poesias	poetry	0	0	1	0
 poesias	peoms	0	0	1	0
+poesias	poetry	0	0	1	0
 músculos	muscles	0	0	1	0
 que	that	0	0	1	0
 batismo	baotism	0	0	1	0
 batismo	baptism	0	0	1	1
 compra	purchase	0	0	1	0
-compra	acquisition	0	0	1	0
 compra	buying	0	0	1	0
 estados	states	0	0	1	1
 estados	state	0	0	1	0
@@ -11584,7 +11241,6 @@ teoricamente	teorically	0	0	1	0
 teoricamente	theoretically	0	0	1	0
 próxima	next	0	0	1	0
 vagina	vagina	0	0	1	0
-rocha	rocha	0	0	1	0
 rocha	rock	0	0	1	0
 lapa	lapa	0	0	1	0
 palestina	palestine	0	0	1	0
@@ -11601,7 +11257,6 @@ fórum	forum	0	0	1	0
 goku	goku	0	0	1	0
 petrobras	petrobrás has no translation (brazilian company name)	0	0	1	0
 respeitar	respect	0	0	1	0
-meteoritos	meteorite	0	0	1	0
 meteoritos	meteorites	0	0	1	0
 fungos	fungus	0	0	1	0
 fungos	fungi	0	0	1	0
@@ -11635,9 +11290,8 @@ iluminação	ilumination	0	0	1	0
 iluminação	lighting	0	0	1	0
 holocausto	holocaust	0	0	1	0
 mim	me	0	0	1	0
-thumb|px|o	thumb｜px｜o	0	0	1	0
+mil	thousand	0	0	1	0
 doces	candies	0	0	1	1
-doces	sweets	0	0	1	0
 doces	sweet	0	0	1	0
 palmeiras	palm tress	0	0	1	0
 palmeiras	palm	0	0	1	0
@@ -11699,7 +11353,6 @@ supressão	suppression	0	0	1	0
 supressão	supression	0	0	1	0
 livros	books	0	0	1	0
 demitido	fired	0	0	1	0
-demitido	dismissed	0	0	1	0
 celestes	heavenly	0	0	1	0
 lançamento	release	0	0	1	0
 lançamento	relased	0	0	1	0
@@ -11715,7 +11368,6 @@ dependência	dependency	0	0	1	0
 dependência	dependence	0	0	1	0
 bernard	bernard	0	0	1	0
 controlo	control	0	0	1	0
-controlo	controlled	0	0	1	0
 obteve	obtained	0	0	1	0
 obteve	got	0	0	1	0
 obteve	had	0	0	1	0
@@ -11725,7 +11377,6 @@ normalmente	usualy	0	0	1	0
 normalmente	normally	0	0	1	0
 controla	controlles	0	0	1	0
 controla	controls	0	0	1	0
-inferior	lower	0	0	1	0
 inferior	inferior	0	0	1	0
 inferior	less	0	0	1	0
 obviamente	obvious	0	0	1	0
@@ -11774,7 +11425,6 @@ exista	existed	0	0	1	0
 exista	exist	0	0	1	0
 mecanismos	mechanics	0	0	1	0
 mecanismos	mechanisms	0	0	1	0
-mecanismos	mechanism	0	0	1	0
 coloniais	colonial	0	0	1	0
 islâmica	islamic	0	0	1	0
 islâmica	islamics	0	0	1	0
@@ -11783,11 +11433,9 @@ quadrilha	quadrille	0	0	1	0
 pureza	purity	0	0	1	1
 individuais	individual	0	0	1	0
 paranaense	paranaense (person from paraná)	0	0	1	0
-paranaense	paranaense	0	0	1	0
 fatos	facts	0	0	1	0
 fator	factor	0	0	1	0
 bruno	bruno	0	0	1	0
-distribuídas	distributed	0	0	1	0
 estúdios	studios	0	0	1	0
 estúdios	studio	0	0	1	0
 vermelhos	red	0	0	1	0
@@ -11813,7 +11461,8 @@ conseguir	get	0	0	1	0
 apóstolos	apostles	0	0	1	0
 conseguiu	could	0	0	1	0
 conseguiu	(he) managed	0	0	1	0
-paralelas	parallel	0	0	1	0
+públicas	publics	0	0	1	0
+públicas	public	0	0	1	0
 iniciativas	initiatives	0	0	1	0
 brandão	brandão	0	0	1	0
 substituídos	substituted	0	0	1	0
@@ -11830,7 +11479,6 @@ climática	climate	0	0	1	0
 inibição	inhibition	0	0	1	0
 aprende	learn	0	0	1	0
 rumo	course	0	0	1	0
-rumo	around	0	0	1	0
 interesse	interests	0	0	1	0
 interesse	interest	0	0	1	0
 correspondentes	corresponding	0	0	1	0
@@ -11839,7 +11487,6 @@ gaza	gaza	0	0	1	0
 estava	was	0	0	1	0
 responsáveis	responsible	0	0	1	0
 responsáveis	responsables	0	0	1	0
-comentou	comment	0	0	1	0
 comentou	commented	0	0	1	0
 intermédio	intermediate	0	0	1	0
 intermédio	intermediant	0	0	1	0
@@ -11853,14 +11500,12 @@ rígido	hard	0	0	1	0
 rígido	rigid	0	0	1	0
 rígida	hard	0	0	1	0
 rígida	rigid	0	0	1	0
-álvares	whitish	0	0	1	0
 álvares	alvares	0	0	1	0
 outros	other	0	0	1	0
 outros	others	0	0	1	0
 meus	my	0	0	1	0
 meus	mine	0	0	1	0
 obtendo	obtaining	0	0	1	0
-obtendo	acquiring	0	0	1	0
 mundo	world	0	0	1	0
 configuração	configuration	0	0	1	0
 general	general	0	0	1	0
@@ -11890,8 +11535,8 @@ eficaz	effective	0	0	1	0
 cantoras	singers	0	0	1	0
 estético	aestetic	0	0	1	0
 estético	aesthetic	0	0	1	0
-levados	brought	0	0	1	0
 levados	taken	0	0	1	0
+levados	brought	0	0	1	0
 faixa	track	0	0	1	0
 faixa	tracks	0	0	1	0
 faixa	song	0	0	1	0
@@ -11904,7 +11549,6 @@ prosa	prose	0	0	1	0
 prosa	text	0	0	1	0
 prosa	chat	0	0	1	0
 praga	prague	0	0	1	0
-praga	plague	0	0	1	0
 conclusão	conclusion	0	0	1	0
 impressionismo	impressioninsm	0	0	1	0
 impressionismo	impressionism	0	0	1	0
@@ -11919,7 +11563,6 @@ film	film	0	0	1	0
 auto	auto	0	0	1	0
 auto	self	0	0	1	0
 auto	act	0	0	1	0
-dieta	dieda	0	0	1	0
 dieta	diet	0	0	1	0
 presidenciais	presidential	0	0	1	0
 presidenciais	presidencials	0	0	1	0
@@ -11957,6 +11600,7 @@ usual	usual	0	0	1	0
 executivo	executive	0	0	1	0
 painéis	panels	0	0	1	0
 painéis	pannels	0	0	1	0
+pobre	poor	0	0	1	0
 mitose	mitosis	0	0	1	0
 wagner	wagner	0	0	1	0
 jurídicas	juridical	0	0	1	0
@@ -11966,7 +11610,6 @@ araucárias	araucarias	0	0	1	0
 winchester	winchester	0	0	1	0
 estimulação	stimulation	0	0	1	0
 reunir	reunite	0	0	1	0
-reunir	gather	0	0	1	0
 reunir	put together	0	0	1	0
 argila	clay	0	0	1	0
 reuniu	met	0	0	1	0
@@ -12019,7 +11662,6 @@ paraíso	paradise	0	0	1	0
 rebaixado	stepped down	0	0	1	0
 rebaixado	relegated	0	0	1	0
 psicanálise	psychoanalysis	0	0	1	0
-entradas	entrances	0	0	1	0
 entradas	entries	0	0	1	0
 assinar	sign	0	0	1	0
 ficava	was	0	0	1	0
@@ -12067,7 +11709,6 @@ toma	take	0	0	1	0
 forneceu	provided	0	0	1	0
 commonwealth	commonwealth	0	0	1	0
 versões	versions	0	0	1	0
-unhas	claws	0	0	1	0
 unhas	nails	0	0	1	0
 dores	pain	0	0	1	0
 dores	pains	0	0	1	0
@@ -12078,7 +11719,6 @@ introduziu	introduced	0	0	1	0
 gazeta	newspaper	0	0	1	0
 gazeta	gazette	0	0	1	0
 termina	ends	0	0	1	0
-termina	finishes	0	0	1	0
 divididas	divided	0	0	1	0
 divididas	divinities	0	0	1	0
 conhecidas	known	0	0	1	0
@@ -12109,8 +11749,8 @@ líquido	liquid	0	0	1	0
 troca	change	0	0	1	0
 troca	trade	0	0	1	0
 michelangelo	michelangelo	0	0	1	0
-cosgrove	methionine	0	0	1	0
-cosgrove	cosgrove	0	0	1	0
+noel	claus	0	0	1	0
+noel	santa claus	0	0	1	0
 permanecendo	staying	0	0	1	0
 permanecendo	remaining	0	0	1	0
 locomoção	locomotion	0	0	1	0
@@ -12151,14 +11791,12 @@ invadiu	invades	0	0	1	0
 bacteriana	bacterian	0	0	1	0
 bacteriana	bacterial	0	0	1	0
 bacteriana	bactery	0	0	1	0
-mudouse	changed	0	0	1	0
 mudouse	moved	0	0	1	0
 campus	campus	0	0	1	0
 prosseguiu	proceeded	0	0	1	0
 prosseguiu	continued	0	0	1	0
 fórmula	formula	0	0	1	0
 rococó	rococo	0	0	1	0
-suécia	swiss	0	0	1	0
 suécia	sweeden	0	0	1	0
 suécia	sweden	0	0	1	0
 virtual	virtual	0	0	1	0
@@ -12173,7 +11811,6 @@ tornase	becomes	0	0	1	0
 tornase	would become	0	0	1	0
 tornase	becames	0	0	1	0
 anteriores	previous	0	0	1	0
-editores	bookmaker	0	0	1	0
 editores	editors	0	0	1	0
 observada	observed	0	0	1	0
 contêm	contain	0	0	1	0
@@ -12186,7 +11823,6 @@ esportiva	sport	0	0	1	0
 esportivo	esportive	0	0	1	0
 esportivo	sport	0	0	1	0
 turistas	tourists	0	0	1	0
-alcançado	reached	0	0	1	0
 alcançado	acheived	0	0	1	0
 alcançado	reaching	0	0	1	0
 ausência	absence	0	0	1	0
@@ -12204,7 +11840,6 @@ republicano	republican	0	0	1	0
 tratar	treat	0	0	1	0
 intensamente	intensly	0	0	1	0
 intensamente	intensely	0	0	1	0
-receitas	prescription	0	0	1	0
 receitas	revenue	0	0	1	0
 limites	limits	0	0	1	0
 caracteriza	characterizes	0	0	1	0
@@ -12213,8 +11848,6 @@ caracteriza	characterized	0	0	1	0
 catalunha	catalugna	0	0	1	0
 catalunha	catalonia	0	0	1	0
 escrituras	scriptures	0	0	1	0
-computação	computer	0	0	1	0
-computação	computation	0	0	1	0
 afonso	afonso	0	0	1	0
 geraldo	geraldo	0	0	1	0
 geraldo	person's name	0	0	1	0
@@ -12222,10 +11855,9 @@ observações	observations	0	0	1	0
 paris	paris	0	0	1	0
 crises	crises	0	0	1	0
 crises	crisis	0	0	1	0
-destinados	destined	0	0	1	0
 destinados	for	0	0	1	0
+destinados	destined	0	0	1	0
 participado	participated	0	0	1	0
-respiratório	respiratoril	0	0	1	0
 respiratório	respiratory	0	0	1	0
 representados	represented	0	0	1	0
 casamento	marriage	0	0	1	0
@@ -12256,8 +11888,8 @@ hipóteses	hipotesis	0	0	1	0
 hipóteses	hypothesis	0	0	1	0
 decidiu	decided	0	0	1	0
 gnu	gnu	0	0	1	0
-conhecemos	know	0	0	1	0
-conhecemos	we know	0	0	1	0
+ferreira	smithy	0	0	1	0
+ferreira	that's a personal name	0	0	1	0
 apelidado	dubbed	0	0	1	0
 apelidado	nicknamed	0	0	1	0
 escrevendo	writing	0	0	1	0
@@ -12279,7 +11911,6 @@ umbrella	umbrella	0	0	1	0
 blue	blue	0	0	1	0
 acordo	according	0	0	1	0
 acordo	agreement	0	0	1	0
-coloridas	colored	0	0	1	0
 coloridas	colorful	0	0	1	0
 aparecia	appeared	0	0	1	0
 cristóvão	christopher	0	0	1	0
@@ -12299,8 +11930,8 @@ encontrase	found	0	0	1	0
 encontrase	is	0	0	1	0
 encontrase	ir	0	0	1	0
 prata	silver	0	0	1	0
-prato	dish	0	0	1	0
-prato	plate	0	0	1	0
+separado	seperated	0	0	1	0
+separado	separate	0	0	1	0
 românicas	romans	0	0	1	0
 românicas	roman	0	0	1	0
 flores	flowers	0	0	1	0
@@ -12362,7 +11993,6 @@ pib	pib	0	0	1	0
 pib	bip	0	0	1	0
 observatório	observatory	0	0	1	0
 situamse	placed	0	0	1	0
-óleos	eyes	0	0	1	0
 óleos	oils	0	0	1	0
 fracos	weak	0	0	1	0
 desenhada	drawn	0	0	1	0
@@ -12386,10 +12016,9 @@ desempenha	plays	0	0	1	0
 desempenha	playing	0	0	1	0
 desempenha	(it) performs	0	0	1	0
 algumas	some	0	0	1	0
-algumas	something	0	0	1	0
 resultantes	resulting	0	0	1	0
 significado	meaning	0	0	1	1
-me	me	0	0	1	0
+primárias	primary	0	0	1	0
 mg	mg	0	0	1	0
 gravadas	recorded	0	0	1	0
 gravadas	shot	0	0	1	0
@@ -12419,7 +12048,6 @@ ambos	both	0	0	1	0
 urânio	uranium	0	0	1	0
 urânio	urane	0	0	1	0
 antigas	old	0	0	1	0
-horizonte	horizon	0	0	1	0
 horizonte	horizont	0	0	1	0
 habitada	habited	0	0	1	0
 habitada	inhabited	0	0	1	0
@@ -12432,7 +12060,6 @@ gato	cat	0	0	1	0
 historiadores	historians	0	0	1	0
 materialismo	materialism	0	0	1	0
 dividido	divided	0	0	1	0
-amapá	amapa	0	0	1	0
 amapá	amapá	0	0	1	0
 bolha	bubble	0	0	1	0
 elizabeth	elizabeth	0	0	1	0
@@ -12457,7 +12084,6 @@ largamente	widely	0	0	1	0
 orquestra	orchestra	0	0	1	0
 orquestra	orchestry	0	0	1	0
 edificações	buildings	0	0	1	0
-edificações	edification	0	0	1	0
 convenção	convection	0	0	1	0
 convenção	convention	0	0	1	0
 vapor	steam	0	0	1	0
@@ -12470,12 +12096,10 @@ over	over	0	0	1	0
 cavalos	horses	0	0	1	0
 glândula	glandule	0	0	1	0
 glândula	gland	0	0	1	0
-glândula	glandular	0	0	1	0
 alemão	german	0	0	1	0
 inspirados	inspired	0	0	1	0
 trama	plot	0	0	1	0
 neles	them	0	0	1	0
-neles	in them	0	0	1	0
 genéticos	genetic	0	0	1	0
 rotação	rotation	0	0	1	0
 canto	corner	0	0	1	0
@@ -12495,7 +12119,7 @@ automóveis	automobiles	0	0	1	0
 automóveis	cars	0	0	1	0
 automóveis	automobile	0	0	1	0
 reconhecer	recognize	0	0	1	0
-logaritmo	logarithm	0	0	1	0
+lenta	slow	0	0	1	0
 recessão	recession	0	0	1	0
 alex	alex	0	0	1	0
 agrária	rural	0	0	1	0
@@ -12508,13 +12132,12 @@ chuck	chuck	0	0	1	0
 internazionale	international	0	0	1	0
 internazionale	internazionale	0	0	1	0
 serão	will be	0	0	1	0
-espanha	spain	0	0	1	0
+histórico	historic	0	0	1	0
+histórico	historical	0	0	1	0
 fonte	source	0	0	1	0
 fonte	fountain	0	0	1	0
 mensagens	messages	0	0	1	0
 esperava	expected	0	0	1	0
-esperava	wait	0	0	1	0
-esperava	hoped	0	0	1	0
 extremos	extremes	0	0	1	0
 extremos	extreme	0	0	1	0
 reservas	reservations	0	0	1	0
@@ -12523,7 +12146,6 @@ reservas	proviso	0	0	1	0
 adotou	adopted	0	0	1	0
 itens	items	0	0	1	0
 passeio	walk	0	0	1	0
-conquistas	conquest	0	0	1	0
 conquistas	conquests	0	0	1	0
 fusos	time zones	0	0	1	0
 fusos	zones	0	0	1	0
@@ -12537,7 +12159,6 @@ placamãe	motherboard	0	0	1	0
 útero	utero	0	0	1	0
 útero	uterus	0	0	1	0
 larga	large	0	0	1	0
-larga	broad	0	0	1	0
 larga	drop	0	0	1	0
 certas	certain	0	0	1	0
 certas	some	0	0	1	0
@@ -12546,7 +12167,6 @@ sistemático	sistematic	0	0	1	0
 frei	fray	0	0	1	0
 goulart	goulart	0	0	1	0
 natação	swimming	0	0	1	0
-acontecem	take place	0	0	1	0
 acontecem	happen	0	0	1	0
 acontecem	happened	0	0	1	0
 munique	munich	0	0	1	0
@@ -12599,7 +12219,6 @@ provas	evidence	0	0	1	0
 quinto	fifth	0	0	1	0
 tom	tom (name)	0	0	1	0
 tom	tom	0	0	1	0
-americanos	american	0	0	1	0
 americanos	americans	0	0	1	0
 quinta	farm	0	0	1	0
 quinta	fifth	0	0	1	0
@@ -12679,7 +12298,6 @@ miscigenação	miscegenation	0	0	1	0
 abc	abc	0	0	1	0
 avançada	advanced	0	0	1	0
 avançado	advanced	0	0	1	0
-avançado	technically advanced	0	0	1	0
 sinais	signals	0	0	1	0
 sinais	signs	0	0	1	0
 aldeia	village	0	0	1	0
@@ -12730,8 +12348,8 @@ relatos	reports	0	0	1	0
 relatou	reported	0	0	1	0
 relatou	related	0	0	1	0
 reator	reactor	0	0	1	0
-escritos	written	0	0	1	0
 escritos	writes	0	0	1	0
+escritos	written	0	0	1	0
 escritor	writer	0	0	1	0
 pele	pale	0	0	1	0
 pele	skin	0	0	1	0
@@ -12754,7 +12372,6 @@ guiana	guiana	0	0	1	0
 guiana	guyana	0	0	1	0
 maçonaria	masonry	0	0	1	0
 campbell	campbell	0	0	1	0
-num	a	0	0	1	0
 num	in	0	0	1	0
 parou	stopped	0	0	1	0
 fundação	foundation	0	0	1	0
@@ -12781,7 +12398,6 @@ vivos	living	0	0	1	0
 vivos	alive	0	0	1	0
 sedes	headquarters	0	0	1	0
 classificar	sort	0	0	1	0
-classificar	classify	0	0	1	0
 classificar	classification	0	0	1	0
 esferas	spheres	0	0	1	0
 favorável	favorable	0	0	1	0
@@ -12814,14 +12430,12 @@ epidemia	epidemic	0	0	1	0
 amarela	asian	0	0	1	0
 amarela	yellow	0	0	1	0
 emancipação	emancipation	0	0	1	0
-levante	rise	0	0	1	0
 levante	up	0	0	1	0
 levante	uprise	0	0	1	0
 ele	he	0	0	1	0
 capturar	capture	0	0	1	0
 fronteiras	borders	0	0	1	0
 fronteiras	border	0	0	1	0
-hitler	hitter	0	0	1	0
 hitler	hitler	0	0	1	0
 escocês	scotch	0	0	1	0
 escocês	scottish	0	0	1	0
@@ -12844,7 +12458,8 @@ inglesa	english	0	0	1	0
 monstros	monsters	0	0	1	0
 secretário	secretary	0	0	1	0
 republicana	republican	0	0	1	0
-xxi	xxi	0	0	1	0
+computação	computer	0	0	1	0
+computação	computation	0	0	1	0
 sugeriu	suggested	0	0	1	0
 sugeriu	(he) suggested	0	0	1	0
 cancro	cancer	0	0	1	0
@@ -12932,7 +12547,6 @@ especialmente	especially	0	0	1	0
 especialmente	specially	0	0	1	0
 toque	touch	0	0	1	0
 lutas	fights	0	0	1	0
-lutar	battle	0	0	1	0
 lutar	fight	0	0	1	0
 alexandria	alexandria	0	0	1	0
 alexandria	it's a name	0	0	1	0
@@ -13026,13 +12640,14 @@ mãe	mom	0	0	1	0
 mãe	mother	0	0	1	0
 coro	chorus	0	0	1	0
 coro	coir	0	0	1	0
-silva	silva	0	0	1	0
+objetiva	objective	0	0	1	0
+objetiva	objectiv	0	0	1	0
 dadas	given	0	0	1	0
-regresso	comeback	0	0	1	0
-regresso	return	0	0	1	0
+subjetiva	subjective	0	0	1	0
+subjetiva	ssubjective	0	0	1	0
+subjetiva	subjetive	0	0	1	0
 existiram	existed	0	0	1	0
 meyer	meyer	0	0	1	0
-município	city	0	0	1	0
 município	municipality	0	0	1	0
 município	municipal	0	0	1	0
 produz	produces	0	0	1	0
@@ -13163,7 +12778,6 @@ movimentação	movement	0	0	1	0
 evolutiva	evolutionary	0	0	1	0
 evolutiva	evolutive	0	0	1	0
 phoenix	phoenix	0	0	1	0
-direitos	dues	0	0	1	0
 direitos	rights	0	0	1	0
 fará	will do	0	0	1	0
 fará	fara	0	0	1	0
@@ -13211,11 +12825,10 @@ botânico	botanist	0	0	1	0
 botânico	bothanical	0	0	1	0
 josé	josé	0	0	1	0
 josé	person's name	0	0	1	0
-trazendo	bringing	0	0	1	0
+bizantina	byzantine	0	0	1	0
 latinos	latinos	0	0	1	0
 latinos	latin	0	0	1	0
 subdivisão	subdivision	0	0	1	0
-sejam	go	0	0	1	0
 sejam	be	0	0	1	0
 sejam	are	0	0	1	0
 bizantino	byzantine	0	0	1	0
@@ -13249,12 +12862,9 @@ escritório	escritorio	0	0	1	0
 escritório	office	0	0	1	0
 vestido	dress	0	0	1	0
 cenário	scenario	0	0	1	0
-nona	nineth	0	0	1	0
-nona	ninth	0	0	1	0
+vladimir	vladimir	0	0	1	0
 posto	post	0	0	1	0
 leves	light	0	0	1	0
-existindo	there	0	0	1	0
-existindo	exist	0	0	1	0
 existindo	existing	0	0	1	0
 bahia	bahia	0	0	1	0
 uva	grape	0	0	1	0
@@ -13295,7 +12905,6 @@ compõem	constitute	0	0	1	0
 compõem	make	0	0	1	0
 compõem	compose	0	0	1	0
 recebia	received	0	0	1	0
-premiação	winnings	0	0	1	0
 premiação	premiation	0	0	1	0
 premiação	award	0	0	1	0
 melhor	better	0	0	1	0
@@ -13310,14 +12919,12 @@ trabalhava	worked	0	0	1	0
 concentrado	concentrated	0	0	1	0
 concentrado	concetrated	0	0	1	0
 concentrado	focused	0	0	1	0
-culpa	blame	0	0	1	0
 culpa	fault	0	0	1	0
 culpa	blaim	0	0	1	0
 praça	square	0	0	1	0
 praça	plaza	0	0	1	0
 freqüentemente	frequently	0	0	1	0
 freqüentemente	often	0	0	1	0
-obrigado	thank you	0	0	1	0
 obrigado	forced	0	0	1	0
 despesas	expenditure	0	0	1	0
 despesas	expenses	0	0	1	0
@@ -13335,9 +12942,7 @@ erudita	savant	0	0	1	0
 semana	week	0	0	1	0
 flauta	flute	0	0	1	0
 flauta	flaut	0	0	1	0
-subjetiva	subjective	0	0	1	0
-subjetiva	ssubjective	0	0	1	0
-subjetiva	subjetive	0	0	1	0
+regresso	return	0	0	1	0
 marrocos	marroco	0	0	1	0
 marrocos	morocco	0	0	1	0
 vivia	lived	0	0	1	0
@@ -13347,7 +12952,6 @@ mst	landless worker's movement	0	0	1	0
 mst	landless workers' movement	0	0	1	0
 perdidos	lost	0	0	1	0
 avançadas	advanced	0	0	1	0
-avançadas	proposed	0	0	1	0
 todas	all	0	0	1	0
 manipular	manipulate	0	0	1	0
 braço	arm	0	0	1	0
@@ -13401,7 +13005,6 @@ construiu	built	0	0	1	0
 macaco	monkey	0	0	1	0
 conduzir	conducting	0	0	1	0
 conduzir	drive	0	0	1	0
-conduzir	conduct	0	0	1	0
 andrada	andrada	0	0	1	0
 preços	prices	0	0	1	0
 andrade	andrade	0	0	1	0
@@ -13426,7 +13029,6 @@ incluía	includes	0	0	1	0
 primeira	spring	0	0	1	0
 primeira	first	0	0	1	0
 namorada	girlfriend	0	0	1	0
-câncer	carcinoma	0	0	1	0
 câncer	cancer	0	0	1	0
 leva	leads	0	0	1	0
 leva	takes	0	0	1	0
@@ -13481,7 +13083,6 @@ vertebrados	vertebrate	0	0	1	0
 poesia	poetry	0	0	1	0
 predominância	predominance	0	0	1	0
 predominância	prevalence	0	0	1	0
-vermelhas	reds	0	0	1	0
 vermelhas	red	0	0	1	0
 passar	throw	0	0	1	0
 passar	pass	0	0	1	0
@@ -13489,11 +13090,9 @@ terrível	terrible	0	0	1	0
 expressionismo	expressionism	0	0	1	0
 reflexo	reflex	0	0	1	0
 reflexo	result	0	0	1	0
-pudesse	afford	0	0	1	0
 pudesse	could	0	0	1	0
 pudesse	can	0	0	1	0
 liberdades	freedom	0	0	1	0
-liberdades	liberty	0	0	1	0
 liberdades	freedoms	0	0	1	0
 maior	biggest	0	0	1	0
 maior	larger	0	0	1	0
@@ -13535,7 +13134,6 @@ atribuída	caused	0	0	1	0
 carácter	character	0	0	1	0
 carácter	caracter	0	0	1	0
 étnicas	ethics	0	0	1	0
-étnicas	ethnic	0	0	1	0
 étnicas	ethnis	0	0	1	0
 uniformes	uniforms	0	0	1	0
 uniformes	uniform richie layer tuberculosis einsteinium	0	0	1	0
@@ -13561,7 +13159,6 @@ justificação	justification	0	0	1	0
 acontece	happens	0	0	1	0
 sucessivamente	successively	0	0	1	0
 reservatórios	reservoirs	0	0	1	0
-modelos	models	0	0	1	0
 she	she	0	0	1	0
 piedade	forgiviness	0	0	1	0
 piedade	mercy	0	0	1	0
@@ -13572,7 +13169,6 @@ consta	contains	0	0	1	0
 theory	theory	0	0	1	0
 partiu	parted	0	0	1	0
 partiu	left	0	0	1	0
-europeus	frank	0	0	1	0
 europeus	european	0	0	1	0
 carreira	career	0	0	1	1
 às	to	0	0	1	0
@@ -13638,18 +13234,15 @@ white	white	0	0	1	0
 insulina	insulin	0	0	1	0
 copa	coup	0	0	1	0
 copa	cup	0	0	1	0
-divindades	god	0	0	1	0
 divindades	divinities	0	0	1	0
 divindades	deities	0	0	1	0
 discussão	discussion	0	0	1	0
-discussão	quarell	0	0	1	0
 contribuir	contribution	0	0	1	0
 contribuir	contribute	0	0	1	0
 contribuiu	contributed	0	0	1	0
 aceitas	accepted	0	0	1	0
 alan	alan	0	0	1	0
 chegado	reached	0	0	1	0
-chegado	arrive	0	0	1	0
 mortes	deaths	0	0	1	0
 hábitos	habits	0	0	1	0
 chegada	arrival	0	0	1	0
@@ -13680,7 +13273,6 @@ consumido	most popular food	0	0	1	0
 frota	fleet	0	0	1	0
 diabo	devil	0	0	1	0
 apresentado	introduced	0	0	1	0
-apresentado	presenting	0	0	1	0
 apresentado	presented	0	0	1	0
 apoiar	support	0	0	1	0
 cuidadosamente	carefully	0	0	1	0
@@ -13745,7 +13337,6 @@ ronaldinho	ronaldinho	0	0	1	0
 mesopotâmia	mesopotamia	0	0	1	0
 rotas	routes	0	0	1	0
 rotas	rout	0	0	1	0
-riqueza	riches	0	0	1	0
 riqueza	wealth	0	0	1	0
 riqueza	richness	0	0	1	0
 ensinamentos	teachings	0	0	1	1
@@ -13757,7 +13348,6 @@ irrigação	irrigation	0	0	1	0
 portugueses	portugueses	0	0	1	0
 portugueses	portuguese	0	0	1	0
 conseqüência	consequence	0	0	1	0
-conseqüência	consiquences	0	0	1	0
 japonesas	japanese	0	0	1	0
 destilação	destillation	0	0	1	0
 destilação	distillation	0	0	1	0
@@ -13777,9 +13367,8 @@ divisa	border	0	0	1	0
 terminando	finishing	0	0	1	0
 terminando	ending	0	0	1	0
 sementes	seeds	0	0	1	0
-brilhantes	brilliant	0	0	1	0
-brilhantes	bright	0	0	1	0
-brilhantes	shiny	0	0	1	0
+frases	phrases	0	0	1	0
+frases	sentences	0	0	1	0
 liderança	leadership	0	0	1	0
 liderança	lead	0	0	1	0
 viva	living	0	0	1	0
@@ -13826,7 +13415,7 @@ profissional	professional	0	0	1	0
 profissional	profissional	0	0	1	0
 caracteres	characters	0	0	1	0
 caracteres	caracters	0	0	1	0
-dirigida	directed	0	0	1	0
+laços	ties	0	0	1	0
 índico	indian	0	0	1	0
 índico	i indicate	0	0	1	0
 índico	indian ocean indian ocean indian ocean	0	0	1	0
@@ -13837,6 +13426,8 @@ dirigido	directed	0	0	1	0
 dirigido	realized	0	0	1	0
 dirigido	driven combatant liquor	0	0	1	0
 índice	index	0	0	1	0
+analítica	analytical	0	0	1	0
+analítica	analytics	0	0	1	0
 destaques	highlights	0	0	1	0
 jiraiya	jiraya	0	0	1	0
 jiraiya	jiraiya	0	0	1	0
@@ -13852,7 +13443,6 @@ ideologias	ideology	0	0	1	0
 ideologias	ideologies	0	0	1	0
 vítimas	victims	0	0	1	0
 significante	significant	0	0	1	0
-prêmio	premium	0	0	1	0
 prêmio	award	0	0	1	0
 obtenção	extraction	0	0	1	0
 obtenção	obtention	0	0	1	0
@@ -13883,8 +13473,8 @@ daria	would	0	0	1	0
 mudado	changed	0	0	1	0
 bebidas	beverages	0	0	1	0
 bebidas	drinks	0	0	1	0
-pronto	nevertheless	0	0	1	0
 pronto	ready	0	0	1	0
+pronto	nevertheless	0	0	1	0
 remanescentes	remanescent	0	0	1	0
 remanescentes	remaining	0	0	1	0
 remanescentes	remaning	0	0	1	0
@@ -13908,13 +13498,10 @@ criado	invented	0	0	1	0
 criado	creatq	0	0	1	0
 criado	created	0	0	1	0
 canais	channels	0	0	1	0
-empresarial	employment	0	0	1	0
 empresarial	business	0	0	1	0
-polo	polo	0	0	1	0
 polo	pole	0	0	1	0
 criada	created	0	0	1	0
 nicole	nicole	0	0	1	0
-moore	moore	0	0	1	0
 fornecedores	suppliers	0	0	1	0
 trazida	brought	0	0	1	0
 cansaço	fatigue	0	0	1	0
@@ -13953,7 +13540,6 @@ verdadeiro	real	0	0	1	0
 verdadeiro	true	0	0	1	0
 verdadeiro	truly	0	0	1	0
 casa	house	0	0	1	0
-hollywood	hollywood	0	0	1	0
 popularização	popularization	0	0	1	0
 caso	case	0	0	1	0
 cabelos	hair	0	0	1	0
@@ -13985,7 +13571,6 @@ golpe	coup	0	0	1	0
 frequentes	frequently	0	0	1	0
 frequentes	frequent	0	0	1	0
 alcançou	reached	0	0	1	0
-alcançou	achieve	0	0	1	0
 alcançou	achieved	0	0	1	0
 cerimônias	ceremonies	0	0	1	0
 html	html	0	0	1	0
@@ -14009,7 +13594,6 @@ galerias	galeries	0	0	1	0
 tenho	i'm	0	0	1	0
 tenho	have	0	0	1	0
 componente	component	0	0	1	0
-astrônomos	astronomers	0	0	1	0
 finalmente	finally	0	0	1	0
 demônio	deamon	0	0	1	0
 demônio	demon	0	0	1	0
@@ -14024,7 +13608,6 @@ enfrentou	confronted	0	0	1	0
 harrison	harrison	0	0	1	0
 derrotados	defeated	0	0	1	0
 maría	maría	0	0	1	0
-maría	maria	0	0	1	0
 loja	shop	0	0	1	0
 loja	store	0	0	1	0
 areia	sand	0	0	1	0
@@ -14058,7 +13641,6 @@ tanto	as much	0	0	1	0
 tanto	as	0	0	1	0
 tanto	not only	0	0	1	0
 estrangeiros	foreigns	0	0	1	0
-estrangeiros	foreigners	0	0	1	0
 estrangeiros	foreign	0	0	1	0
 tanta	so much	0	0	1	0
 tanta	much	0	0	1	0
@@ -14104,7 +13686,6 @@ teoria	theory	0	0	1	0
 aristocracia	aristocracy	0	0	1	0
 aumentou	raised	0	0	1	0
 aumentou	increased	0	0	1	0
-aumentou	augmented	0	0	1	0
 transcrição	transcription	0	0	1	0
 transcrição	transaction	0	0	1	0
 autonomia	autonomy	0	0	1	0
@@ -14123,8 +13704,8 @@ primórdios	origins	0	0	1	0
 tradicionalmente	traditionally	0	0	1	0
 trabalhos	work	0	0	1	0
 trabalhos	works	0	0	1	0
-positivas	positive	0	0	1	0
-positivas	positives	0	0	1	0
+capitania	captainship	0	0	1	0
+capitania	captaincy	0	0	1	0
 traduzido	translated	0	0	1	0
 traduzida	translated	0	0	1	0
 científicos	cientifics	0	0	1	0
@@ -14154,7 +13735,6 @@ abandonou	abandoned	0	0	1	0
 abandonou	left	0	0	1	0
 tribo	tribe	0	0	1	0
 eletromagnética	electromagnetic	0	0	1	0
-eletromagnética	eletromagnetic	0	0	1	0
 determina	determines	0	0	1	0
 duarte	duarte	0	0	1	0
 instrumento	instrument	0	0	1	0
@@ -14206,7 +13786,6 @@ monarquia	monarchy	0	0	1	0
 oitava	eight	0	0	1	0
 oitava	eigth	0	0	1	0
 oitava	eighth	0	0	1	0
-taylor	taylor	0	0	1	0
 cbf	cbf	0	0	1	0
 cinema	movie theater	0	0	1	0
 cinema	cinema	0	0	1	0
@@ -14214,7 +13793,8 @@ tornaria	become	0	0	1	0
 tornaria	would become	0	0	1	0
 tornaria	would	0	0	1	0
 feliz	happy	0	0	1	0
-mike	mike	0	0	1	0
+internos	interns	0	0	1	0
+internos	internal	0	0	1	0
 oitavo	eight	0	0	1	0
 oitavo	eighth	0	0	1	0
 umas	some	0	0	1	0
@@ -14230,10 +13810,8 @@ sonoridade	loudness	0	0	1	0
 sonoridade	sonority	0	0	1	0
 isolamento	isolation	0	0	1	0
 balança	balance	0	0	1	0
-balança	swing	0	0	1	0
-eritrócitos	erythrocytes	0	0	1	0
 eritrócitos	erythrocyte	0	0	1	0
-filmagens	films	0	0	1	0
+eritrócitos	erythrocytes	0	0	1	0
 filmagens	filming	0	0	1	0
 balanço	balance	0	0	1	0
 demonstrando	showing	0	0	1	0
@@ -14247,12 +13825,11 @@ largas	wide	0	0	1	0
 curva	curve	0	0	1	0
 transporte	trasnport	0	0	1	0
 transporte	transport	0	0	1	0
-intervalos	breaks	0	0	1	0
-intervalos	intervals	0	0	1	0
-intervalos	gaps	0	0	1	0
+wifi	wi fi	0	0	1	0
+wifi	wi-fi	0	0	1	0
+wifi	wifi	0	0	1	0
 perseguição	persecution	0	0	1	0
 barcelona	barcelona	0	0	1	0
-pensador	speculator	0	0	1	0
 pensador	thinker	0	0	1	0
 equação	equation	0	0	1	0
 primeiras	firsts	0	0	1	0
@@ -14310,10 +13887,9 @@ faixas	tracks	0	0	1	0
 velocidades	speed	0	0	1	0
 velocidades	speeds	0	0	1	0
 quatorze	fourteen	0	0	1	0
-bizantina	byzantine	0	0	1	0
+trazendo	bringing	0	0	1	0
 dirigiu	directed	0	0	1	0
 dirigiu	went	0	0	1	0
-dirigir	dirigio	0	0	1	0
 dirigir	run	0	0	1	0
 dirigir	drive	0	0	1	0
 artemísia	explosion	1	0	1	0
@@ -14328,11 +13904,9 @@ lisa	lisa	0	0	1	0
 lisa	straight	0	0	1	0
 designar	design	0	0	1	0
 designar	designate	0	0	1	0
-thumb|px|mapa	thumb (px) map	0	0	1	0
 determinantes	determinants	0	0	1	0
 civilizações	civilizations	0	0	1	0
 louvre	louvre	0	0	1	0
-bilheteria	wallet	0	0	1	0
 bilheteria	gross profit	0	0	1	0
 bilheteria	ticket counter	0	0	1	0
 famílias	families	0	0	1	0
@@ -14342,7 +13916,6 @@ nbc	nbc	0	0	1	0
 ter	to have	0	0	1	0
 ter	have	0	0	1	0
 chega	arrives	0	0	1	0
-what	what	0	0	1	0
 doutor	doctor	0	0	1	0
 sub	sub	0	0	1	0
 sua	your	0	0	1	0
@@ -14371,7 +13944,6 @@ microrregiões	microregions	0	0	1	0
 férias	vacations	0	0	1	0
 férias	vacation	0	0	1	0
 férias	holidays	0	0	1	0
-dedicado	devoted	0	0	1	0
 dedicado	dedicated	0	0	1	0
 protocolos	protocols	0	0	1	0
 dedicada	devoted	0	0	1	0
@@ -14391,8 +13963,7 @@ designados	designed	0	0	1	0
 designados	designate	0	0	1	0
 alternativas	alternative	0	0	1	0
 alternativas	alternatives	0	0	1	0
-solitária	solitary	0	0	1	0
-solitária	solitaire	0	0	1	0
+flash	flash	0	0	1	0
 emirados	emirates	0	0	1	0
 pedaços	pieces	0	0	1	0
 texto	text	0	0	1	0
@@ -14402,8 +13973,8 @@ trecho	passage	0	0	1	0
 inspiração	inspiration	0	0	1	0
 coloração	coloring	0	0	1	0
 coloração	coloration	0	0	1	0
-secretaria	secretary	0	0	1	0
-secretaria	desk	0	0	1	0
+habilidade	hability	0	0	1	0
+habilidade	ability	0	0	1	0
 crônicas	chronic	0	0	1	0
 crônicas	cronicles	0	0	1	0
 estimativa	estimate	0	0	1	0
@@ -14413,9 +13984,9 @@ vital	vital	0	0	1	0
 programação	programming	0	0	1	0
 transformando	transforming	0	0	1	0
 transformando	making	0	0	1	0
-sobrevive	survives	0	0	1	0
-sobrevive	(he) survives	0	0	1	0
 sobrevive	survive	0	0	1	0
+sobrevive	(he) survives	0	0	1	0
+sobrevive	survives	0	0	1	0
 jornais	newspapers	0	0	1	0
 jornais	journals	0	0	1	0
 provocar	provoke	0	0	1	0
@@ -14425,9 +13996,8 @@ colaterais	colateral	0	0	1	0
 começam	started	0	0	1	0
 começam	begins	0	0	1	0
 começam	begin	0	0	1	0
-começar	beginning	0	0	1	0
 começar	begin	0	0	1	0
-começar	starting	0	0	1	0
+começar	beginning	0	0	1	0
 thumb|a	thumba	0	0	1	0
 provocam	provoked	0	0	1	0
 provocam	proke	0	0	1	0
@@ -14440,6 +14010,7 @@ identidades	identities	0	0	1	0
 consideravelmente	substantially	0	0	1	0
 consideravelmente	considerably	0	0	1	0
 protestos	protests	0	0	1	0
+desempenho	performance	0	0	1	0
 técnicas	tecnics	0	0	1	0
 técnicas	techniques	0	0	1	0
 floyd	floyd	0	0	1	0
@@ -14461,7 +14032,6 @@ salvador	savior	0	0	1	0
 temendo	fearing	0	0	1	0
 plenamente	fully	0	0	1	0
 plenamente	completely	0	0	1	0
-plenamente	full	0	0	1	0
 levam	lead	0	0	1	0
 levam	(they) take	0	0	1	0
 quase	almost	0	0	1	0
@@ -14487,9 +14057,8 @@ estabelecendo	establishing	0	0	1	0
 inicial	initial	0	0	1	0
 inicial	starting	0	0	1	0
 realização	realization	0	0	1	0
-radicais	radicals	0	0	1	0
-radicais	rad	0	0	1	0
 radicais	radical	0	0	1	0
+radicais	rad	0	0	1	0
 cachorro	dog	0	0	1	1
 chaco	chaco	0	0	1	0
 colocado	put	0	0	1	0
@@ -14565,7 +14134,6 @@ ficam	stay	0	0	1	0
 procissão	procision	0	0	1	0
 procissão	march	0	0	1	0
 procissão	procession/cortege	0	0	1	0
-ficar	keep	0	0	1	0
 ficar	receiving	0	0	1	0
 ficar	stay	0	0	1	1
 criador	creator	0	0	1	0
@@ -14592,13 +14160,12 @@ envolveu	involved	0	0	1	0
 envolveu	surrounded	0	0	1	0
 entorno	arroun	0	0	1	0
 entorno	around	0	0	1	0
-entorno	sorroundings	0	0	1	0
 dívidas	debts	0	0	1	0
-homicídios	homicides	0	0	1	0
-homicídios	murders	0	0	1	0
 beyoncé	beyoncé	0	0	1	0
-beyoncé	beyonce	0	0	1	0
-presentes	present	0	0	1	0
+cresceram	it grew	0	0	1	0
+cresceram	grow	0	0	1	0
+cresceram	or they grew	0	0	1	0
+cresceram	(they) grew up	0	0	1	0
 eléctrica	electric	0	0	1	0
 bloquear	block	0	0	1	0
 significa	means	0	0	1	0
@@ -14641,7 +14208,6 @@ vizinho	neighboor	0	0	1	0
 vizinho	neighbor	0	0	1	0
 radical	radical	0	0	1	0
 relata	relates	0	0	1	0
-relata	tells	0	0	1	0
 relata	reports	0	0	1	0
 filipe	phillip	0	0	1	0
 filipe	filip	0	0	1	0
@@ -14657,8 +14223,7 @@ recebida	received	0	0	1	0
 recebido	received	0	0	1	0
 recebido	recived	0	0	1	0
 raciocínio	reasoning	0	0	1	0
-teatrais	theatrical	0	0	1	0
-teatrais	teatrical	0	0	1	0
+bravo	brave	0	0	1	0
 formatos	formats	0	0	1	0
 chapada	chapada	0	0	1	0
 chapada	plateau	0	0	1	0
@@ -14692,11 +14257,9 @@ tisdale	it's a name.names can't be translated	0	0	1	0
 tisdale	tisdale	0	0	1	0
 dano	damage	0	0	1	1
 pioneiros	pioneers	0	0	1	0
-pioneiros	pioneer	0	0	1	0
 surrealismo	surrealism	0	0	1	0
 teve	had	0	0	1	0
 vias	ways	0	0	1	0
-vias	pathways	0	0	1	0
 passadas	past	0	0	1	0
 passadas	passes	0	0	1	0
 passadas	pass	0	0	1	0
@@ -14710,8 +14273,8 @@ marcantes	prominent	0	0	1	0
 marcantes	striking	0	0	1	0
 assistir	watch	0	0	1	0
 assistir	attend	0	0	1	0
-direito	right	0	0	1	0
 direito	law	0	0	1	0
+direito	right	0	0	1	0
 uniforme	uniform	0	0	1	0
 respostas	responses	0	0	1	0
 respostas	answers	0	0	1	0
@@ -14725,11 +14288,9 @@ articulação	articulation	0	0	1	0
 adquirida	obtained	0	0	1	0
 adquirida	acquired	0	0	1	0
 adquirida	adquired	0	0	1	0
-flexão	flex	0	0	1	0
 flexão	flexion	0	0	1	0
 peregrinação	pilgrimage	0	0	1	0
 parece	seams	0	0	1	0
-parece	seems	0	0	1	0
 parece	it seems	0	0	1	0
 duque	duke	0	0	1	0
 extinto	extint	0	0	1	0
@@ -14739,8 +14300,8 @@ atores	players	0	0	1	0
 atores	actors	0	0	1	0
 donos	owners	0	0	1	0
 obrigação	obligation	0	0	1	0
-extinta	extinct	0	0	1	0
 extinta	extint	0	0	1	0
+extinta	extinct	0	0	1	0
 participar	participate	0	0	1	0
 climáticas	climate	0	0	1	0
 climáticas	climatics	0	0	1	0
@@ -14785,10 +14346,8 @@ superar	surpass	0	0	1	0
 criminosos	criminal	0	0	1	0
 criminosos	criminals	0	0	1	0
 publicada	published	0	0	1	0
-história	story	0	0	1	0
 história	history	0	0	1	0
 situados	placed	0	0	1	0
-situados	situated	0	0	1	0
 situados	located	0	0	1	0
 publicado	published	0	0	1	0
 nanotecnologia	nanotechnology	0	0	1	0
@@ -14802,7 +14361,6 @@ derivadas	derived	0	0	1	0
 ocupadas	occupied	0	0	1	0
 maçons	freemasons	0	0	1	0
 níveis	levels	0	0	1	0
-níveis	level	0	0	1	0
 princípios	principles	0	0	1	0
 tratase	is	0	0	1	0
 tratase	treated	0	0	1	0
@@ -14816,7 +14374,6 @@ porque	why	0	0	1	0
 hit	hit	0	0	1	0
 hiv	hiv	0	0	1	0
 atende	metts	0	0	1	0
-atende	meets	0	0	1	0
 atende	supplies	0	0	1	0
 aparelho	device	0	0	1	0
 aparelho	apparatus	0	0	1	0
@@ -14831,9 +14388,7 @@ início	start	0	0	1	0
 início	beginning	0	0	1	0
 nickelodeon	nickelodeon	0	0	1	0
 nickelodeon	nickelodean	0	0	1	0
-associada	associated	0	0	1	0
-associada	associate	0	0	1	0
-costumava	regularly	0	0	1	0
+racional	rational	0	0	1	0
 costumava	used to	0	0	1	0
 costumava	used	0	0	1	0
 bacias	basins	0	0	1	0
@@ -14844,21 +14399,18 @@ constitucionais	constitutional	0	0	1	0
 transferência	tranference	0	0	1	0
 transferência	transfer	0	0	1	0
 lutou	fought	0	0	1	0
-esgoto	sewer	0	0	1	0
-esgoto	sewage	0	0	1	0
+monges	monks	0	0	1	0
 art	art	0	0	1	0
 extensos	extensive	0	0	1	0
 extensos	extenses	0	0	1	0
 extensos	extenssive	0	0	1	0
 ocasiões	occasions	0	0	1	0
 ocasiões	occasion	0	0	1	0
-demonstram	demonstrate	0	0	1	0
 demonstram	show	0	0	1	0
 demonstrar	demonstrate	0	0	1	0
 are	are	0	0	1	0
 duma	a	0	0	1	0
 duma	russian parliament name	0	0	1	0
-duma	duma	0	0	1	0
 freud	freud	0	0	1	0
 deixou	didn't	0	0	1	0
 deixou	left	0	0	1	0
@@ -14883,8 +14435,6 @@ latim	latim	0	0	1	0
 latim	latin	0	0	1	0
 tomás	tomas	0	0	1	0
 tomás	tomás	0	0	1	0
-latin	latino	0	0	1	0
-latin	latin	0	0	1	0
 cirurgia	surgery	0	0	1	0
 cirurgia	cirurgy	0	0	1	0
 existência	existence	0	0	1	0
@@ -14925,7 +14475,6 @@ operacional	operacional	0	0	1	0
 operacional	operational	0	0	1	0
 sweet	sweet	0	0	1	0
 sweet	doce	0	0	1	0
-exemplares	exemplary	0	0	1	0
 exemplares	examples	0	0	1	0
 exemplares	copies	0	0	1	0
 juntas	togheter	0	0	1	0
@@ -14955,10 +14504,9 @@ propriedades	proprety	0	0	1	0
 propriedades	properties	0	0	1	0
 gravitação	gravitation	0	0	1	0
 gravitação	gravity	0	0	1	0
-pe	foot	0	0	1	0
 pe	standing	0	0	1	0
+pe	foot	0	0	1	0
 guitarra	guitar	0	0	1	0
-ph	level of acidity	0	0	1	0
 ph	ph	0	0	1	0
 chandler	chandler	0	0	1	0
 favelas	favelas	0	0	1	0
@@ -14997,6 +14545,8 @@ quais	which	0	0	1	0
 gastronomia	gastronomy	0	0	1	0
 causado	caused	0	0	1	0
 geográficas	geographical	0	0	1	0
+empresário	businessman	0	0	1	0
+empresário	entrepreneur	0	0	1	0
 mostrando	showing	0	0	1	0
 causada	caused	0	0	1	0
 pó	dust	0	0	1	0
@@ -15017,7 +14567,6 @@ pé	foot	0	0	1	0
 pé	feet/bottom	0	0	1	0
 spears	spears	0	0	1	0
 opostas	oposite	0	0	1	0
-opostas	opposite	0	0	1	0
 australianos	australians	0	0	1	0
 australianos	australian	0	0	1	0
 literatura	literature	0	0	1	0
@@ -15049,25 +14598,21 @@ tropas	troops	0	0	1	0
 processamento	processing	0	0	1	0
 virtualmente	virtually	0	0	1	0
 leitor	reader	0	0	1	0
-competitiva	competitive	0	0	1	0
 competitiva	competivity	0	0	1	0
+competitiva	competitive	0	0	1	0
 intervalo	break	0	0	1	0
 intervalo	interval	0	0	1	0
 monarquias	monarchies	0	0	1	0
-precedentes	precedents	0	0	1	0
 precedentes	previous	0	0	1	0
 referencial	frame	0	0	1	0
 referencial	reference	0	0	1	0
 referencial	referencial	0	0	1	0
 técnica	technique	0	0	1	0
-técnica	technics	0	0	1	0
 técnico	technician	0	0	1	0
 técnico	tecnic	0	0	1	0
 técnico	technic	0	0	1	0
-anunciado	announce	0	0	1	0
 anunciado	announced	0	0	1	0
 continentes	continents	0	0	1	0
-continentes	continenees	0	0	1	0
 cadeias	chains	0	0	1	0
 mineiro	mineiro	0	0	1	0
 mineiro	miner	0	0	1	0
@@ -15091,8 +14636,7 @@ teia	web	0	0	1	0
 periferia	suburbs	0	0	1	0
 periferia	perifery	0	0	1	0
 periferia	periphery	0	0	1	0
-separado	seperated	0	0	1	0
-separado	separate	0	0	1	0
+distribuídas	distributed	0	0	1	0
 arthur	arthur	0	0	1	0
 entidade	entity	0	0	1	0
 diferem	differ	0	0	1	0
@@ -15123,7 +14667,6 @@ causadas	caused	0	0	1	0
 creditado	credited	0	0	1	0
 peixes	fishes	0	0	1	0
 peixes	fish	0	0	1	0
-anne	anne	0	0	1	0
 anna	anna	0	0	1	0
 emissão	emission	0	0	1	0
 raiden	raiden	0	0	1	0
@@ -15131,7 +14674,6 @@ raiden	person's name	0	0	1	0
 martin	martin	0	0	1	0
 gás	gas	0	0	1	0
 traição	betrayal	0	0	1	0
-traição	treason	0	0	1	0
 exemplo	exemple	0	0	1	0
 exemplo	example	0	0	1	0
 intenso	intense	0	0	1	0
@@ -15200,14 +14742,15 @@ celulares	cellulars	0	0	1	0
 dados	data	0	0	1	0
 oceanos	oceans	0	0	1	0
 dalí	dalí	0	0	1	0
-dalí	from there	0	0	1	0
 dalí	therefore	0	0	1	0
 retrata	picture	0	0	1	0
 retrata	portrays	0	0	1	0
 retrata	portraits	0	0	1	0
 conquistados	conquered	0	0	1	0
 sobreviventes	survivors	0	0	1	0
-delta	delta	0	0	1	0
+devidamente	duly	0	0	1	0
+devidamente	properly	0	0	1	0
+devidamente	proper way	0	0	1	0
 crane	crane	0	0	1	0
 junior	junior	0	0	1	0
 municipais	municipal	0	0	1	0
@@ -15288,7 +14831,6 @@ steve	steven	0	0	1	0
 jimi	jimi	0	0	1	0
 geográfico	geographic	0	0	1	0
 geográfico	geografic	0	0	1	0
-geográfico	geographical	0	0	1	0
 pequeno	small	0	0	1	0
 desenvolveu	developed	0	0	1	0
 costumam	usually	0	0	1	0
@@ -15305,7 +14847,7 @@ mainstream	maisntream	0	0	1	0
 mainstream	mainstream	0	0	1	0
 expectativa	expectation	0	0	1	0
 expectativa	expectative	0	0	1	0
-você	you	0	0	1	0
+incidente	incident	0	0	1	0
 enviou	sent	0	0	1	0
 dando	giving	0	0	1	0
 cardoso	cardoso	0	0	1	0
@@ -15359,7 +14901,6 @@ distribuída	distributed	0	0	1	0
 londrina	londria	0	0	1	0
 londrina	londrina	0	0	1	0
 construíram	bult	0	0	1	0
-construíram	built	0	0	1	0
 construíram	constructed	0	0	1	0
 pública	public	0	0	1	0
 público	public	0	0	1	0
@@ -15380,14 +14921,10 @@ alegações	alegations	0	0	1	0
 gráficos	grafica	0	0	1	0
 gráficos	graphics	0	0	1	0
 tietê	tietê	0	0	1	0
-tietê	groupie	0	0	1	0
 metro	subway	0	0	1	0
 metro	meter	0	0	1	0
 telas	canvas	0	0	1	0
 mclaren	mclaren	0	0	1	0
-grandes	big	0	0	1	0
-grandes	grand	0	0	1	0
-prestígio	prestige	0	0	1	0
 prestígio	prestig	0	0	1	0
 prestígio	prestigy	0	0	1	0
 invasão	invasion	0	0	1	0
@@ -15453,7 +14990,6 @@ perante	towards	0	0	1	0
 perante	before	0	0	1	0
 hegel	hegel	0	0	1	0
 estudante	student	0	0	1	1
-discípulos	disciple	0	0	1	0
 discípulos	disciples	0	0	1	0
 tampouco	little	0	0	1	0
 tampouco	neighter	0	0	1	0
@@ -15532,10 +15068,8 @@ vestígios	traces	0	0	1	0
 superior	superior	0	0	1	0
 superior	upper	0	0	1	0
 existiam	there	0	0	1	0
-existiam	exist	0	0	1	0
 saíram	went	0	0	1	0
 saíram	got out	0	0	1	0
-saíram	exited	0	0	1	0
 sério	serious	0	0	1	0
 primitivo	primitiv	0	0	1	0
 primitivo	primitive	0	0	1	0
@@ -15543,7 +15077,6 @@ primordial	primordial	0	0	1	0
 cantora	singer	0	0	1	0
 listas	lists	0	0	1	0
 narrativa	narrative	0	0	1	0
-narrativa	narration	0	0	1	0
 observados	observed	0	0	1	0
 observados	looked	0	0	1	0
 observados	observated	0	0	1	0
@@ -15551,7 +15084,10 @@ triângulos	triangles	0	0	1	0
 comédia	comedy	0	0	1	0
 wolfgang	wolfgang	0	0	1	0
 material	material	0	0	1	0
-progressiva	progressive	0	0	1	0
+receita	revenue	0	0	1	0
+receita	money	0	0	1	0
+receita	receipt	0	0	1	0
+receita	income	0	0	1	0
 devem	should	0	0	1	0
 devem	must	0	0	1	0
 dever	duty	0	0	1	0
@@ -15614,12 +15150,10 @@ feriados	holiday	0	0	1	0
 feriados	vacations	0	0	1	0
 feriados	holidays	0	0	1	0
 são	are	0	0	1	0
-são	saint	0	0	1	0
 plural	plural	0	0	1	0
 arranjo	arranjment	0	0	1	0
 arranjo	arrangement	0	0	1	0
 legado	legacy	0	0	1	0
-períodos	period	0	0	1	0
 períodos	periods	0	0	1	0
 dinâmicas	dinamics	0	0	1	0
 dinâmicas	dynamic	0	0	1	0
@@ -15655,16 +15189,13 @@ símbolo	simbol	0	0	1	0
 instalar	settling	0	0	1	0
 instalar	install	0	0	1	0
 infectadas	infected	0	0	1	0
-infectadas	infectious	0	0	1	0
 categoriacantores	category: singers	0	0	1	0
 categoriacantores	theme: singers	0	0	1	0
 categoriacantores	category singers	0	0	1	0
 vaz	vaz	0	0	1	0
 expressionista	expressionist	0	0	1	0
-classificou	qualify	0	0	1	0
 classificou	classified	0	0	1	0
 sucedidos	successful	0	0	1	0
-sucedidos	happening	0	0	1	0
 sucedidos	succeeded	0	0	1	0
 índia	india	0	0	1	0
 havido	had	0	0	1	0
@@ -15674,7 +15205,6 @@ capaz	capable	0	0	1	1
 possuem	have	0	0	1	0
 possuem	posses	0	0	1	0
 medula	marrow	0	0	1	0
-diaadia	day to day	0	0	1	0
 diaadia	daily basis	0	0	1	0
 diaadia	day by day	0	0	1	0
 diminuição	diminuition	0	0	1	0
@@ -15718,10 +15248,8 @@ cohen	cohen	0	0	1	0
 sonho	dream	0	0	1	0
 francesas	frenchwoman	0	0	1	0
 francesas	french	0	0	1	0
-contava	had	0	0	1	0
-contava	counted	0	0	1	0
+geologia	geology	0	0	1	0
 estréia	debut	0	0	1	0
-estréia	premier	0	0	1	0
 europeu	europe	0	0	1	0
 europeu	european	0	0	1	0
 encerramento	closure	0	0	1	0
@@ -15790,7 +15318,6 @@ eficiente	efficient	0	0	1	0
 pensam	think	0	0	1	0
 havendo	there	0	0	1	0
 havendo	happening	0	0	1	0
-havendo	having	0	0	1	0
 competitivas	competitive	0	0	1	0
 teses	theses	0	0	1	0
 teses	ideas	0	0	1	0
@@ -15867,7 +15394,6 @@ adolescentes	teenagers	0	0	1	0
 zelândia	zealand	0	0	1	0
 zelândia	zeland	0	0	1	0
 cintura	waist	0	0	1	0
-cintura	belt	0	0	1	0
 interferir	meddle	0	0	1	0
 interferir	interfere	0	0	1	0
 perfeito	perfect	0	0	1	0
@@ -15886,7 +15412,6 @@ trabalhar	work	0	0	1	0
 agrupados	grouped	0	0	1	0
 agrupados	agrupped	0	0	1	0
 críticos	critics	0	0	1	0
-críticos	critic	0	0	1	0
 críticos	critical	0	0	1	0
 trabalham	worked	0	0	1	0
 trabalham	work	0	0	1	0
@@ -15906,7 +15431,6 @@ quebra	break	0	0	1	0
 quebra	breaks	0	0	1	0
 quebra	breaking	0	0	1	0
 organizacional	organizational	0	0	1	0
-constantino	constantine	0	0	1	0
 constantino	constantino	0	0	1	0
 telescópio	telescope	0	0	1	0
 decretolei	executive order	0	0	1	0
@@ -15945,8 +15469,7 @@ participaram	participated	0	0	1	0
 cuidar	take care	0	0	1	0
 cuidar	care	0	0	1	0
 intercâmbio	exchange	0	0	1	0
-internos	interns	0	0	1	0
-internos	internal	0	0	1	0
+mike	mike	0	0	1	0
 liverpool	liverpool	0	0	1	0
 astros	star	0	0	1	0
 astros	superstars	0	0	1	0
@@ -15961,8 +15484,6 @@ actualmente	actually	0	0	1	0
 personalidades	important people	0	0	1	0
 personalidades	personalities	0	0	1	0
 é	is	0	0	1	0
-é	exist	0	0	1	0
-fortes	severe	0	0	1	0
 fortes	strong	0	0	1	0
 especificamente	specifically	0	0	1	0
 intérprete	interpreter	0	0	1	0
@@ -16006,7 +15527,6 @@ afetados	affected	0	0	1	0
 afetados	afected	0	0	1	0
 ave	bird	0	0	1	0
 ave	birth	0	0	1	0
-comunicação	communication	0	0	1	0
 comunicação	comunication	0	0	1	0
 racionais	rational	0	0	1	0
 gasto	spent	0	0	1	0
@@ -16050,7 +15570,6 @@ manutenção	maintenance	0	0	1	0
 descoberta	descovery	0	0	1	0
 descoberta	discovery	0	0	1	0
 largura	wide	0	0	1	0
-largura	breadth	0	0	1	0
 largura	width	0	0	1	0
 privado	private	0	0	1	0
 privada	private	0	0	1	0
@@ -16094,6 +15613,9 @@ esquerdo	left	0	0	1	0
 anunciou	announcement	0	0	1	0
 anunciou	announced	0	0	1	0
 anunciou	(he) announced	0	0	1	0
+apontado	pointed	0	0	1	0
+apontado	appointed	0	0	1	0
+apontado	pointing	0	0	1	0
 patrocínio	patronage	0	0	1	0
 patrocínio	sponsor	0	0	1	0
 patrocínio	sponsorship	0	0	1	0
@@ -16103,7 +15625,6 @@ receberam	recived	0	0	1	0
 esquerda	left	0	0	1	0
 mandioca	mandioca	0	0	1	0
 mandioca	manioc	0	0	1	0
-mandioca	cassava	0	0	1	0
 georges	person's name	0	0	1	0
 diminuiu	decreased	0	0	1	0
 diminuir	decrease	0	0	1	0
@@ -16117,7 +15638,6 @@ ofereceu	offered	0	0	1	0
 ofereceu	offer	0	0	1	0
 socialista	socialist	0	0	1	0
 amores	loves	0	0	1	0
-chaplin	chaplin	0	0	1	0
 chaplin	that's a personal name	0	0	1	0
 cristã	christian	0	0	1	0
 cristã	cristian	0	0	1	0
@@ -16158,7 +15678,6 @@ mito	myth	0	0	1	0
 baixos	low	0	0	1	0
 baixos	lows	0	0	1	0
 investir	invest	0	0	1	0
-rara	rose	0	0	1	0
 rara	rare	0	0	1	0
 testosterona	testosterone	0	0	1	0
 emendas	stiches	0	0	1	0
@@ -16204,7 +15723,6 @@ significativas	significative	0	0	1	0
 significativas	significant	0	0	1	0
 ocupados	occupied	0	0	1	0
 judicial	judicial	0	0	1	0
-judicial	judiciary	0	0	1	0
 vai	go	0	0	1	0
 vai	will	0	0	1	0
 vai	is going	0	0	1	0
@@ -16224,7 +15742,6 @@ shang	shang	0	0	1	0
 volume	volume	0	0	1	0
 peppers	peppers	0	0	1	0
 destacados	selected	0	0	1	0
-destacados	postings	0	0	1	0
 destacados	posted	0	0	1	0
 fundo	found	0	0	1	0
 fundo	fund	0	0	1	0
@@ -16316,7 +15833,7 @@ perigo	danger	0	0	1	0
 sentado	sitting	0	0	1	0
 relatividade	relativity	0	0	1	0
 volumes	volumes	0	0	1	0
-medições	measurements	0	0	1	0
-medições	meditions	0	0	1	0
 medições	measures	0	0	1	0
+medições	meditions	0	0	1	0
+medições	measurements	0	0	1	0
 imperatriz	empress	0	0	1	0

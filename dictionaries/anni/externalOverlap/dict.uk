@@ -65,7 +65,6 @@
 відповідність	correspondance	0	0	1	0
 спортивних	sports	0	0	1	0
 смт	see	0	0	1	0
-рекомендації	recommendations	0	0	1	0
 спортивний	sports	0	0	1	0
 цілей	goals	0	0	1	0
 засновані	founded	0	0	1	0
@@ -103,9 +102,7 @@ k	k	0	0	1	0
 орди	horde	0	0	1	0
 парламенту	parliament	0	0	1	0
 music	music	0	0	1	0
-h	h.	0	0	1	0
 єпископів	bishops	0	0	1	0
-грошової	money	0	0	1	0
 грошової	monetary	0	0	1	0
 подорож	trip	0	0	1	0
 будовою	building	0	0	1	0
@@ -139,7 +136,6 @@ h	h.	0	0	1	0
 родового	ancestral	0	0	1	0
 носити	bear	0	0	1	0
 лінія	line	0	0	1	0
-лінію	line	0	0	1	0
 чинності	efficiency	0	0	1	0
 статевих	sexual	0	0	1	0
 показником	score	0	0	1	0
@@ -160,11 +156,11 @@ h	h.	0	0	1	0
 статевий	sexual	0	0	1	0
 бізнес	business	0	0	1	0
 карпатська	carpathians	0	0	1	0
-сили	strength	0	0	1	0
 київських	kiev	0	0	1	0
 носить	carry	0	0	1	0
-єдності	unity	0	0	1	0
-кожне	skin	0	0	1	0
+шляхів	roads	0	0	1	0
+шляхів	routes	0	0	1	0
+спостерігати	observe	0	0	1	0
 творчості	creation	0	0	1	0
 містицизм	reasons	1	0	1	0
 містицизм	mysticism	1	1	0	0
@@ -192,12 +188,10 @@ h	h.	0	0	1	0
 грошей	money	0	0	1	0
 входила	entered	0	0	1	0
 киснем	oxygen	0	0	1	0
-кілометрів	kilometres	0	0	1	0
 кілометрів	kilimetres	0	0	1	0
 керування	management	0	0	1	0
 сімей	families	0	0	1	0
 із	of	0	0	1	0
-із	from	0	0	1	0
 полісся	pole	0	0	1	0
 подіями	events	0	0	1	0
 комплекс	complex	0	0	1	0
@@ -255,7 +249,6 @@ xviixviii	xvii-xviii	0	0	1	0
 починається	starts	0	0	1	0
 штучного	piece	0	0	1	0
 штучного	artificial	0	0	1	0
-засідання	meeting	0	0	1	0
 торгівлю	commerce	0	0	1	0
 торгівля	commerce	0	0	1	0
 грибів	mushrooms	0	0	1	0
@@ -287,7 +280,6 @@ xix	xix	0	0	1	0
 крок	step	0	0	1	0
 грошова	monetary	0	0	1	0
 оболонкою	cover	0	0	1	0
-тоді	then	0	0	1	0
 великдень	easter	0	0	1	0
 займала	occupied	0	0	1	0
 поширилися	spreaded	0	0	1	0
@@ -295,7 +287,6 @@ xix	xix	0	0	1	0
 запозичення	borrowing	0	0	1	0
 бібліотек	libraries	0	0	1	0
 рахунок	calculation	0	0	1	0
-рахунок	account	0	0	1	0
 рахунок	counting	0	0	1	0
 набула	acquired	0	0	1	0
 набула	obtained	0	0	1	0
@@ -307,8 +298,8 @@ xix	xix	0	0	1	0
 набули	gained	0	0	1	0
 івана	ivan	0	0	1	0
 кращі	good	0	0	1	0
-суперечить	contradicts	0	0	1	0
 суперечить	contradict	0	0	1	0
+суперечить	contradicts	0	0	1	0
 самостійності	independence	0	0	1	0
 потребує	need	0	0	1	0
 англосакси	house	1	0	1	0
@@ -319,7 +310,6 @@ xix	xix	0	0	1	0
 африці	africa	0	0	1	0
 сполук	combinations	0	0	1	0
 сполук	compound	0	0	1	0
-таблиці	table	0	0	1	0
 друку	printing	0	0	1	0
 буковина	bukovina	0	0	1	0
 представляє	presents	0	0	1	0
@@ -360,7 +350,7 @@ xix	xix	0	0	1	0
 третьої	third	0	0	1	0
 житло	home	0	0	1	0
 житло	domicile	0	0	1	0
-політичній	political	0	0	1	0
+інтересів	interest	0	0	1	0
 значній	considerable	0	0	1	0
 поет	sing	0	0	1	0
 югославії	yugoslavia	0	0	1	0
@@ -384,12 +374,13 @@ xix	xix	0	0	1	0
 економічний	economic	0	0	1	0
 писав	wrote	0	0	1	0
 економічним	economic	0	0	1	0
-хвиль	wave	0	0	1	0
+чисел	numbers	0	0	1	0
 економічних	economic	0	0	1	0
 сон	dream	0	0	1	0
 мене	me	0	0	1	0
 вільний	free	0	0	1	0
 сягає	reaches	0	0	1	0
+приголосний	consonant	0	0	1	0
 тією	that	0	0	1	0
 доволі	enough	0	0	1	0
 гривень	hryvnia	0	0	1	0
@@ -430,9 +421,7 @@ xix	xix	0	0	1	0
 філософської	philosophical	0	0	1	0
 ватикан	vatican	0	0	1	0
 називали	called	0	0	1	0
-спочатку	at first	0	0	1	0
 хроніки	chronicles	0	0	1	0
-розробка	elaboration	0	0	1	0
 заходами	measures	0	0	1	0
 стану	become	0	0	1	0
 хроніка	chronicles	0	0	1	0
@@ -477,11 +466,9 @@ xix	xix	0	0	1	0
 давнину	old times	0	0	1	0
 давнину	antiquity	0	0	1	0
 viii	viii	0	0	1	0
-павличко	pavlichko	0	0	1	0
 відповідальний	responsible	0	0	1	0
 суверенітет	sovereignty	0	0	1	0
-різноманітні	multiform	0	0	1	0
-різноманітні	various	0	0	1	0
+накопичення	accumulation	0	0	1	0
 письменник	written name of a people	1	0	1	0
 письменник	exception	1	0	1	0
 письменник	writer	1	1	1	0
@@ -508,7 +495,6 @@ viii	viii	0	0	1	0
 існував	exist	0	0	1	0
 румунія	romania	0	0	1	0
 елементами	elements	0	0	1	0
-румунії	romania	0	0	1	0
 пішов	went	0	0	1	0
 пішов	wander	0	0	1	0
 радянською	soviet	0	0	1	0
@@ -553,8 +539,7 @@ viii	viii	0	0	1	0
 d	d	0	0	1	0
 носіїв	bearers	0	0	1	0
 можливостей	possibilities	0	0	1	0
-написаний	written	0	0	1	0
-написаний	writed	0	0	1	0
+штату	state	0	0	1	0
 станіслава	stanislav	0	0	1	0
 нічого	nothing	0	0	1	0
 спілкування	intercourse	0	0	1	0
@@ -567,7 +552,6 @@ d	d	0	0	1	0
 подальшому	further	0	0	1	0
 концентрація	concentration	0	0	1	0
 порядок	order	0	0	1	0
-сільськогосподарських	agricultural	0	0	1	0
 сільськогосподарських	agrocultural	0	0	1	0
 голосів	votes	0	0	1	0
 голосів	voices	0	0	1	0
@@ -605,7 +589,6 @@ d	d	0	0	1	0
 істориків	historians	0	0	1	0
 партнерами	partners	0	0	1	0
 свобод	freedoms	0	0	1	0
-свобод	freedom	0	0	1	0
 соціальні	social	0	0	1	0
 розпочалося	began	0	0	1	0
 воєнні	military	0	0	1	0
@@ -622,7 +605,6 @@ o	o	0	0	1	0
 крива	curve	0	0	1	0
 винахід	invention	0	0	1	0
 вітер	wind	0	0	1	0
-поколінь	generations	0	0	1	0
 дніпром	dnipr	0	0	1	0
 дніпром	dnipro	0	0	1	0
 молода	young	0	0	1	0
@@ -699,7 +681,7 @@ o	o	0	0	1	0
 батька	father	0	0	1	0
 інквізиція	inquisition	0	0	1	0
 батьки	father	0	0	1	0
-столиці	capital	0	0	1	0
+софія	sofia	0	0	1	0
 батько	father	0	0	1	0
 організми	organisms	0	0	1	0
 інтерес	interest	0	0	1	0
@@ -737,6 +719,7 @@ o	o	0	0	1	0
 рубежі	border	0	0	1	0
 традиційного	traditional	0	0	1	0
 соціальної	social	0	0	1	0
+полях	fields	0	0	1	0
 четвертого	fourth	0	0	1	0
 економічні	economic	0	0	1	0
 економічні	economical	0	0	1	0
@@ -749,21 +732,18 @@ o	o	0	0	1	0
 економічну	economic	0	0	1	0
 економічну	economical	0	0	1	0
 премію	award	0	0	1	0
-премія	award	0	0	1	0
 наукове	scientific	0	0	1	0
 висоти	height	0	0	1	0
 іванович	ivanovych	0	0	1	0
 наукова	scientific	0	0	1	0
-висота	height	0	0	1	0
 запровадив	established	0	0	1	0
-запровадив	introduced	0	0	1	0
 виговського	vigovskiy	0	0	1	0
 включають	include	0	0	1	0
 замша	described	1	0	1	0
 замша	suede	1	1	0	0
 замша	chamois	1	1	0	0
 премії	award	0	0	1	0
-столицю	capital	0	0	1	0
+софії	sofia	0	0	1	0
 займає	occupies	0	0	1	0
 спадок	inheritance	0	0	1	0
 розумів	understood	0	0	1	0
@@ -774,7 +754,6 @@ o	o	0	0	1	0
 свободи	freedom	0	0	1	0
 християнство	christianity	0	0	1	0
 веде	leads	0	0	1	0
-властивість	property	0	0	1	0
 властивість	properties	0	0	1	0
 веди	vedas	0	0	1	0
 відділи	department	0	0	1	0
@@ -785,7 +764,7 @@ o	o	0	0	1	0
 масові	mass	0	0	1	0
 символів	symbols	0	0	1	0
 незалежності	independence	0	0	1	0
-розміщуються	situated	0	0	1	0
+християнстві	christianity	0	0	1	0
 трансляції	translation	0	0	1	0
 твердість	edition	1	0	1	0
 твердість	hardness	1	1	0	0
@@ -807,14 +786,12 @@ o	o	0	0	1	0
 залізниць	railroads	0	0	1	0
 причому	besides that	0	0	1	0
 зросла	increased	0	0	1	0
-перейшов	passed	0	0	1	0
 досвіду	experience	0	0	1	0
 мольєра	moliere	0	0	1	0
 мязів	muscles	0	0	1	0
 єдність	unity	0	0	1	0
 місцях	locations	0	0	1	0
 місцях	places	0	0	1	0
-наступних	following	0	0	1	0
 активно	active	0	0	1	0
 активно	actively	0	0	1	0
 утворилася	was created	0	0	1	0
@@ -822,7 +799,7 @@ o	o	0	0	1	0
 сліди	footsteps	0	0	1	0
 інтерфейс	interface	0	0	1	0
 майстерні	masterly	0	0	1	0
-фільмі	films	0	0	1	0
+херсонська	herson	0	0	1	0
 написані	wroted	0	0	1	0
 правопис	orthography	0	0	1	0
 називається	called	0	0	1	0
@@ -891,7 +868,6 @@ o	o	0	0	1	0
 високі	high	0	0	1	0
 необхідні	necessary	0	0	1	0
 дід	grandfather	0	0	1	0
-залишки	remains	0	0	1	0
 високу	high	0	0	1	0
 здоровя	health	0	0	1	0
 судити	judge	0	0	1	0
@@ -946,10 +922,9 @@ o	o	0	0	1	0
 незначні	insignificant	0	0	1	0
 призначено	set	0	0	1	0
 призначено	appointed	0	0	1	0
-державу	state	0	0	1	0
+віровчення	religious doctrine	0	0	1	0
 ніж	not	0	0	1	0
 використовувати	use	0	0	1	0
-нім	him	0	0	1	0
 словом	word	0	0	1	0
 лейцин	leucine	1	1	0	0
 лейцин	was	1	0	1	0
@@ -1021,7 +996,6 @@ o	o	0	0	1	0
 німецькими	german	0	0	1	0
 травень	may	0	0	1	0
 повітряний	aerial	0	0	1	0
-споживання	consumption	0	0	1	0
 фотографії	photos	0	0	1	0
 фотографії	photography	0	0	1	0
 коваль	koval	0	0	1	0
@@ -1036,7 +1010,7 @@ o	o	0	0	1	0
 низькі	low	0	0	1	0
 часом	sometimes	0	0	1	0
 називав	called	0	0	1	0
-землею	ground	0	0	1	0
+провідних	leading	0	0	1	0
 жінки	women	0	0	1	0
 нащадків	succession	0	0	1	0
 сила	power	0	0	1	0
@@ -1052,8 +1026,7 @@ o	o	0	0	1	0
 райграси	ryegrass	1	0	1	0
 райграси	rye grass	1	0	1	0
 альбом	album	0	0	1	0
-шляхів	roads	0	0	1	0
-шляхів	routes	0	0	1	0
+єдності	unity	0	0	1	0
 користувалися	used	0	0	1	0
 близькі	near	0	0	1	0
 формами	forms	0	0	1	0
@@ -1066,7 +1039,6 @@ o	o	0	0	1	0
 карла	karl	0	0	1	0
 полтавський	poltava	0	0	1	0
 історик	historian	0	0	1	0
-мешкає	reside	0	0	1	0
 залишилося	remain	0	0	1	0
 залишилося	remained	0	0	1	0
 прізвисько	nickname	0	0	1	0
@@ -1080,7 +1052,6 @@ o	o	0	0	1	0
 лева	lev	0	0	1	0
 статей	articles	0	0	1	0
 сарматів	sarmatians	0	0	1	0
-години	hours	0	0	1	0
 технічний	technical	0	0	1	0
 культурним	cultural	0	0	1	0
 гімну	hymn	0	0	1	0
@@ -1095,15 +1066,13 @@ o	o	0	0	1	0
 сильний	powerful	0	0	1	0
 традиціями	traditions	0	0	1	0
 розташований	placed	0	0	1	0
-розташований	situated	0	0	1	0
 близько	close	0	0	1	0
 кварталі	block	0	0	1	0
 землі	lands	0	0	1	0
-бажанням	wishes	0	0	1	0
+землю	land	0	0	1	0
 земля	earth	0	0	1	0
 народ	nation	0	0	1	0
-народ	people	0	0	1	0
-xml	xml	0	0	1	0
+консерватизм	conservatism	0	0	1	0
 історичну	historical	0	0	1	0
 затвердження	confirmation	0	0	1	0
 маємо	have	0	0	1	0
@@ -1122,7 +1091,6 @@ beatles	beatles	0	0	1	0
 юридичної	juridical	0	0	1	0
 континентального	continental	0	0	1	0
 побуту	mode of life	0	0	1	0
-історична	historical	0	0	1	0
 історичне	historical	0	0	1	0
 божеств	gods	0	0	1	0
 фрагменти	fragments	0	0	1	0
@@ -1186,11 +1154,9 @@ beatles	beatles	0	0	1	0
 бастіон	residence	1	0	1	0
 бастіон	residents	1	0	1	0
 бастіон	bastion	1	1	0	0
-загалом	overall	0	0	1	0
 загалом	generally	0	0	1	0
 івасюк	ivasiuk	0	0	1	0
 субкультури	subculture	0	0	1	0
-російської	russian	0	0	1	0
 мешканці	inhabitants	0	0	1	0
 рідше	rare	0	0	1	0
 російською	russian	0	0	1	0
@@ -1252,7 +1218,6 @@ beatles	beatles	0	0	1	0
 дж	j	0	0	1	0
 дж	dj	0	0	1	0
 вбивства	murder	0	0	1	0
-основне	base	0	0	1	0
 придбати	gain	0	0	1	0
 ситуації	situation	0	0	1	0
 органах	authorities	0	0	1	0
@@ -1304,9 +1269,7 @@ beatles	beatles	0	0	1	0
 кальцинація	wrote	1	0	1	0
 кальцинація	calcination	1	1	0	0
 найбільшими	largest	0	0	1	0
-економіці	economy	0	0	1	0
 інтенсивність	intensity	0	0	1	0
-ланцюг	chains	0	0	1	0
 придбання	acquirement	0	0	1	0
 працювали	worked	0	0	1	0
 залоз	gland	0	0	1	0
@@ -1326,7 +1289,6 @@ beatles	beatles	0	0	1	0
 одному	one	0	0	1	0
 іванофранківський	ivano-frankivsk	0	0	1	0
 будинків	houses	0	0	1	0
-провідною	principal	0	0	1	0
 народними	popular	0	0	1	0
 народними	folk	0	0	1	0
 текст	text	0	0	1	0
@@ -1336,10 +1298,9 @@ beatles	beatles	0	0	1	0
 використовуються	used	0	0	1	0
 журнали	journals	0	0	1	0
 журнали	magazines	0	0	1	0
-підлягає	subordinates	0	0	1	0
+археологічні	archeological	0	0	1	0
 папою	pope	0	0	1	0
 виникали	arised	0	0	1	0
-донецького	donetsk	0	0	1	0
 діяльністю	activity	0	0	1	0
 діяльність	activity	0	0	1	0
 найвідоміший	best known	0	0	1	0
@@ -1366,6 +1327,7 @@ beatles	beatles	0	0	1	0
 величини	dimensions	0	0	1	0
 метро	subway	0	0	1	0
 величина	dimension	0	0	1	0
+будівля	construction	0	0	1	0
 альберт	albert	0	0	1	0
 індустріалізації	industrialization	0	0	1	0
 вінницький	vіnnitsya	0	0	1	0
@@ -1407,7 +1369,7 @@ beatles	beatles	0	0	1	0
 подальша	further	0	0	1	0
 лінгвістика	linguistics	0	0	1	0
 запозичені	borrowed	0	0	1	0
-виконавчу	executive	0	0	1	0
+виходять	appear	0	0	1	0
 комерції	commerce	0	0	1	0
 лінгвістики	linguistics	0	0	1	0
 складала	composed	0	0	1	0
@@ -1423,7 +1385,6 @@ beatles	beatles	0	0	1	0
 азію	asia	0	0	1	0
 посібник	manual	0	0	1	0
 федерації	federation	0	0	1	0
-церкві	church	0	0	1	0
 кіровоградська	kirovograd	0	0	1	0
 конкурс	competition	0	0	1	0
 рештки	fragments	0	0	1	0
@@ -1436,18 +1397,16 @@ beatles	beatles	0	0	1	0
 світового	world	0	0	1	0
 країнах	states	0	0	1	0
 відомим	known	0	0	1	0
-відомим	led	0	0	1	0
 монтескє	montesquieu	0	0	1	0
 монтескє	montesk	0	0	1	0
 відомий	leading	0	0	1	0
 підхід	approach	0	0	1	0
 програмою	programme	0	0	1	0
 фон	background	0	0	1	0
-вільне	free	0	0	1	0
 листопада	november	0	0	1	0
 шкіл	schools	0	0	1	0
 всеукраїнського	all-ukrainian	0	0	1	0
-прикладом	example	0	0	1	0
+архіву	archives	0	0	1	0
 московська	moscow	0	0	1	0
 московське	moscow	0	0	1	0
 засади	basis	0	0	1	0
@@ -1516,7 +1475,7 @@ vii	vii	0	0	1	0
 традиційних	traditional	0	0	1	0
 проводилася	implemented	0	0	1	0
 відновити	renew	0	0	1	0
-педагог	teacher	0	0	1	0
+ефективність	efficiency	0	0	1	0
 іноземні	foreign	0	0	1	0
 ступенем	degree	0	0	1	0
 лев	lev	0	0	1	0
@@ -1578,16 +1537,10 @@ vii	vii	0	0	1	0
 фабрики	factories	0	0	1	0
 абсолютний	absolute	0	0	1	0
 фабрика	factory	0	0	1	0
-бенефіція	beneficiary	1	0	1	0
-бенефіція	necessities	1	0	1	0
-бенефіція	needs	1	0	1	0
-бенефіція	benefice	1	1	0	0
-бенефіція	beneficium	1	1	0	0
 книжок	books	0	0	1	0
 захист	defence	0	0	1	0
 хворих	sick	0	0	1	0
 відповідальність	responsibility	0	0	1	0
-архіву	archives	0	0	1	0
 антициклон	zealand	1	0	1	0
 антициклон	anticyclone	1	1	0	0
 заходи	actions	0	0	1	0
@@ -1633,9 +1586,8 @@ vii	vii	0	0	1	0
 європейськими	european	0	0	1	0
 однієї	the one	0	0	1	0
 однієї	one	0	0	1	0
-подібний	analogous	0	0	1	0
+півострові	peninsula	0	0	1	0
 займенник	pronoun	0	0	1	0
-числі	number	0	0	1	0
 енгельс	engels	0	0	1	0
 трактат	treatise	0	0	1	0
 монета	coin	0	0	1	0
@@ -1656,7 +1608,6 @@ vii	vii	0	0	1	0
 од	from	0	0	1	0
 статистика	statistics	0	0	1	0
 статистики	statistics	0	0	1	0
-воскресіння	resurrection	0	0	1	0
 замок	castle	0	0	1	0
 великобританії	great britain	0	0	1	0
 навантаження	load	0	0	1	0
@@ -1677,7 +1628,6 @@ vii	vii	0	0	1	0
 винниченко	vinnichenko	0	0	1	0
 релігійне	religious	0	0	1	0
 сусідніх	neighboring	0	0	1	0
-сусідніх	adjacent	0	0	1	0
 винниченка	vynnychenko	0	0	1	0
 винниченка	vinnicenka	0	0	1	0
 степовий	steppe	0	0	1	0
@@ -1736,11 +1686,11 @@ vii	vii	0	0	1	0
 разі	times	0	0	1	0
 ізраїлю	israel	0	0	1	0
 ізраїль	israel	0	0	1	0
-культура	culture	0	0	1	0
+земельні	agrarian	0	0	1	0
 разу	time	0	0	1	0
 бібліотеки	library	0	0	1	0
 промисловості	industry	0	0	1	0
-найбільшою	largest	0	0	1	0
+воріт	gate	0	0	1	0
 іменем	with the name	0	0	1	0
 іменем	name	0	0	1	0
 ямб	iambus	1	0	1	0
@@ -1803,7 +1753,6 @@ javascript	javascript	0	0	1	0
 поблизу	close by	0	0	1	0
 зберігся	kept	0	0	1	0
 документом	document	0	0	1	0
-миру	world	0	0	1	0
 демократичний	democratic	0	0	1	0
 мовленні	speech	0	0	1	0
 криму	crimea	0	0	1	0
@@ -1816,7 +1765,7 @@ javascript	javascript	0	0	1	0
 кліматологія	period	1	0	1	0
 кпрс	cpsu	0	0	1	0
 центральною	central	0	0	1	0
-оркестру	orchestra	0	0	1	0
+виклав	described	0	0	1	0
 вежа	tower	0	0	1	0
 промислового	infudtrial	0	0	1	0
 промислового	industrial	0	0	1	0
@@ -1842,14 +1791,14 @@ javascript	javascript	0	0	1	0
 промислової	industrial	0	0	1	0
 військ	troops	0	0	1	0
 дивіться	look	0	0	1	0
-злочини	crimes	0	0	1	0
+виплати	payments	0	0	1	0
 регулюють	regulate	0	0	1	0
 бугу	bug	0	0	1	0
 теми	subjects	0	0	1	0
 теми	those	0	0	1	0
 темп	tempo	0	0	1	0
 впливових	influential	0	0	1	0
-тема	topic	0	0	1	0
+складалися	formed	0	0	1	0
 обсягу	volume	0	0	1	0
 динамо	dynamo	0	0	1	0
 оргазму	orgasm	0	0	1	0
@@ -1873,7 +1822,7 @@ javascript	javascript	0	0	1	0
 гальванопластика	galvanoplastics	1	0	1	0
 гальванопластика	electroplating	1	1	0	0
 терор	terror	0	0	1	0
-будівля	construction	0	0	1	0
+таблиці	table	0	0	1	0
 тему	theme	0	0	1	0
 підтримали	supported	0	0	1	0
 дівчат	girls	0	0	1	0
@@ -1884,11 +1833,11 @@ javascript	javascript	0	0	1	0
 хвиля	wave	0	0	1	0
 монографія	use	1	0	1	0
 монографія	monograph	1	1	0	0
-чисел	numbers	0	0	1	0
+комунізму	communism	0	0	1	0
 виходячи	coming out	0	0	1	0
 виходячи	based	0	0	1	0
 волинська	volyn	0	0	1	0
-приголосний	consonant	0	0	1	0
+вільне	free	0	0	1	0
 хвилі	minutes	0	0	1	0
 вираження	expressions	0	0	1	0
 розум	mind	0	0	1	0
@@ -1976,14 +1925,12 @@ javascript	javascript	0	0	1	0
 агресії	ahresy	0	0	1	0
 агресії	aggression	0	0	1	0
 спільнот	community	0	0	1	0
-голова	head	0	0	1	0
 сприяють	help	0	0	1	0
 доповнення	addition	0	0	1	0
 заклади	mortgages	0	0	1	0
 найкращий	the best	0	0	1	0
 мед	honey	0	0	1	0
 найкращим	best	0	0	1	0
-здійснюють	realize	0	0	1	0
 здійснюють	exercise	0	0	1	0
 сторони	sides	0	0	1	0
 звязку	communication	0	0	1	0
@@ -1994,7 +1941,6 @@ javascript	javascript	0	0	1	0
 органічних	organic	0	0	1	0
 протоки	cannals	0	0	1	0
 худобу	cattle	0	0	1	0
-вважалися	were	0	0	1	0
 обєднань	association	0	0	1	0
 творів	creations	0	0	1	0
 журнал	magazine	0	0	1	0
@@ -2033,7 +1979,6 @@ javascript	javascript	0	0	1	0
 казахстані	kazakhstan	0	0	1	0
 дією	action	0	0	1	0
 моменти	moments	0	0	1	0
-ранні	early	0	0	1	0
 гінзбург	ginsberg	1	1	0	0
 полтавська	poltava	0	0	1	0
 нижчих	lower	0	0	1	0
@@ -2108,7 +2053,7 @@ javascript	javascript	0	0	1	0
 літ	years	0	0	1	0
 ліс	forest	0	0	1	0
 хребетних	vertebral	0	0	1	0
-радикальних	radical	0	0	1	0
+жіночої	female	0	0	1	0
 подібних	similar	0	0	1	0
 встановили	established	0	0	1	0
 використати	use	0	0	1	0
@@ -2137,7 +2082,7 @@ javascript	javascript	0	0	1	0
 доктор	doctor	1	1	1	0
 звязок	feedback	0	0	1	0
 античних	ancient	0	0	1	0
-півострові	peninsula	0	0	1	0
+подібний	analogous	0	0	1	0
 пкс|	pixels	0	0	1	0
 іменники	nouns	0	0	1	0
 намалював	draw	0	0	1	0
@@ -2225,7 +2170,6 @@ javascript	javascript	0	0	1	0
 джерелом	fountain	0	0	1	0
 особливий	special	0	0	1	0
 жодних	none	0	0	1	0
-збереглася	kept	0	0	1	0
 збереглася	remained	0	0	1	0
 руської	russian	0	0	1	0
 носив	wore	0	0	1	0
@@ -2262,7 +2206,6 @@ javascript	javascript	0	0	1	0
 власність	property	0	0	1	0
 власність	ownership	0	0	1	0
 власністю	property	0	0	1	0
-італійський	italian	0	0	1	0
 мур	wall	1	0	1	0
 мур	developed	1	0	1	0
 мур	mure	1	0	1	0
@@ -2288,7 +2231,7 @@ javascript	javascript	0	0	1	0
 сумнів	doubt	0	0	1	0
 сонячна	sunny	0	0	1	0
 пояс	zone	0	0	1	0
-шотландії	scotland	0	0	1	0
+будова	construction	0	0	1	0
 петра	petr	0	0	1	0
 дністер	dniester	0	0	1	0
 територій	territories	0	0	1	0
@@ -2341,7 +2284,6 @@ javascript	javascript	0	0	1	0
 памятники	monuments	0	0	1	0
 повинна	guilty	0	0	1	0
 режими	regimes	0	0	1	0
-отримані	received	0	0	1	0
 сенполія	saintpaulia	1	1	0	0
 предметом	object	0	0	1	0
 предметом	subject	0	0	1	0
@@ -2381,7 +2323,6 @@ javascript	javascript	0	0	1	0
 корпусу	corps	0	0	1	0
 метод	method	0	0	1	0
 англійський	english	0	0	1	0
-ферментів	enzymes	0	0	1	0
 ферментів	ferments	0	0	1	0
 вічного	eternal	0	0	1	0
 дворянства	nobility	0	0	1	0
@@ -2434,7 +2375,6 @@ javascript	javascript	0	0	1	0
 користь	profit	0	0	1	0
 фінансів	finances	0	0	1	0
 негативно	negative	0	0	1	0
-марксизму	marxism	0	0	1	0
 верховною	supreme	0	0	1	0
 існуючого	existing	0	0	1	0
 училища	school	0	0	1	0
@@ -2455,7 +2395,7 @@ javascript	javascript	0	0	1	0
 формується	formed	0	0	1	0
 племенами	tribe	0	0	1	0
 племенами	tribes	0	0	1	0
-лізі	league	0	0	1	0
+проникнення	penetration	0	0	1	0
 біологічних	biologic	0	0	1	0
 повернення	return	0	0	1	0
 ядер	kernels	0	0	1	0
@@ -2473,7 +2413,6 @@ javascript	javascript	0	0	1	0
 попередній	preceding	0	0	1	0
 власний	own	0	0	1	0
 боги	gods	0	0	1	0
-xvi	xvi	0	0	1	0
 останньому	last	0	0	1	0
 галузі	branch	0	0	1	0
 нами	by us	0	0	1	0
@@ -2496,7 +2435,7 @@ xvi	xvi	0	0	1	0
 реактор	reactor	0	0	1	0
 підприємництва	enterprise	0	0	1	0
 жінок	women	0	0	1	0
-другому	second	0	0	1	0
+h	h.	0	0	1	0
 доларів	dollars	0	0	1	0
 князівство	principality	0	0	1	0
 князівства	principality	0	0	1	0
@@ -2535,9 +2474,8 @@ xvi	xvi	0	0	1	0
 висот	heights	0	0	1	0
 домінують	prevail	0	0	1	0
 визначень	determination	0	0	1	0
-імунітет	immunity	0	0	1	0
 інтернеті	internet	0	0	1	0
-визначені	determined	0	0	1	0
+інтернету	internet	0	0	1	0
 co	company	0	0	1	0
 кіно	cinema	0	0	1	0
 творчого	creative	0	0	1	0
@@ -2548,12 +2486,13 @@ co	company	0	0	1	0
 горацій	orifice	1	0	1	0
 горацій	hole	1	0	1	0
 горацій	horace	1	1	0	0
+написаний	written	0	0	1	0
+написаний	writed	0	0	1	0
 врешті	at last	0	0	1	0
 козацьке	cossack's	0	0	1	0
 козацьке	cossacks	0	0	1	0
 козацька	cossack's	0	0	1	0
 козацька	cossacks	0	0	1	0
-більшу	large	0	0	1	0
 сесії	session	0	0	1	0
 баха	bach	0	0	1	0
 залізна	iron	0	0	1	0
@@ -2592,7 +2531,6 @@ vi	in	0	0	1	0
 усю	all	0	0	1	0
 файл	file	0	0	1	0
 придушення	repression	0	0	1	0
-придушення	suppression	0	0	1	0
 категоріянародились	category born	0	0	1	0
 предмет	object	0	0	1	0
 сталіна	slalin	0	0	1	0
@@ -2627,7 +2565,6 @@ xvixviii	xvi-xviii	0	0	1	0
 поїздки	trips	0	0	1	0
 серія	series	0	0	1	0
 серію	series	0	0	1	0
-прозаїк	proseman	0	0	1	0
 естонія	estonia	0	0	1	0
 фінляндія	finland	0	0	1	0
 центром	center	0	0	1	0
@@ -2643,7 +2580,6 @@ xvixviii	xvi-xviii	0	0	1	0
 шаром	stratum	0	0	1	0
 зявлятися	to meet	0	0	1	0
 зявлятися	appear	0	0	1	0
-людям	people	0	0	1	0
 німецького	german	0	0	1	0
 душа	soul	0	0	1	0
 чверть	quarter	0	0	1	0
@@ -2661,7 +2597,7 @@ xvixviii	xvi-xviii	0	0	1	0
 комісію	commission	0	0	1	0
 комісію	group	0	0	1	0
 комісія	committee	0	0	1	0
-схили	slopes	0	0	1	0
+зерна	grain	0	0	1	0
 зникнення	disappearance	0	0	1	0
 головною	principal	0	0	1	0
 впродовж	for	0	0	1	0
@@ -2687,7 +2623,6 @@ xvixviii	xvi-xviii	0	0	1	0
 фрейя	freyja	1	1	0	0
 біографія	biography	0	0	1	0
 пан	pan	0	0	1	0
-сучасних	contemporary	0	0	1	0
 сексу	sex	0	0	1	0
 початкових	primary	0	0	1	0
 народом	people	0	0	1	0
@@ -2723,7 +2658,6 @@ xvixviii	xvi-xviii	0	0	1	0
 сонця	sun	0	0	1	0
 історичним	historical	0	0	1	0
 настільки	so	0	0	1	0
-головним	main	0	0	1	0
 головним	principal	0	0	1	0
 тихого	pacific	0	0	1	0
 зображенням	representations	0	0	1	0
@@ -2756,7 +2690,7 @@ xvixviii	xvi-xviii	0	0	1	0
 часті	frequent	0	0	1	0
 відмінка	case	0	0	1	0
 правом	right	0	0	1	0
-англ	english	0	0	1	0
+ющенко	yushchenko	0	0	1	0
 контролювати	control	0	0	1	0
 великого	great	0	0	1	0
 повіт	district	0	0	1	0
@@ -2766,7 +2700,6 @@ xvixviii	xvi-xviii	0	0	1	0
 сонце	sun	0	0	1	0
 памятника	monument	0	0	1	0
 заснування	establishment	0	0	1	0
-історичних	historical	0	0	1	0
 голокост	holocaust	0	0	1	0
 вказують	indicate	0	0	1	0
 особливу	special	0	0	1	0
@@ -2817,7 +2750,7 @@ xvixviii	xvi-xviii	0	0	1	0
 англійського	english	0	0	1	0
 одній	one	0	0	1	0
 піддається	striked	0	0	1	0
-утворюються	formed	0	0	1	0
+дунай	danube	0	0	1	0
 рнк	rna	0	0	1	0
 список	list	0	0	1	0
 бідності	poverty	0	0	1	0
@@ -2838,10 +2771,8 @@ xvixviii	xvi-xviii	0	0	1	0
 девід	david	0	0	1	0
 марк	mark	0	0	1	0
 токіо	tokyo	0	0	1	0
-центрами	centers	0	0	1	0
 гімназії	high school	0	0	1	0
 вжитку	usage	0	0	1	0
-вжитку	use	0	0	1	0
 гімназія	high school	0	0	1	0
 вірш	verse	0	0	1	0
 певне	definitely	0	0	1	0
@@ -2874,7 +2805,8 @@ xvixviii	xvi-xviii	0	0	1	0
 попереднього	preceding	0	0	1	0
 попереднього	previous	0	0	1	0
 релігійних	religious	0	0	1	0
-накопичення	accumulation	0	0	1	0
+різноманітні	multiform	0	0	1	0
+різноманітні	various	0	0	1	0
 часопис	periodical	0	0	1	0
 зявляються	appear	0	0	1	0
 місцевого	local	0	0	1	0
@@ -2888,7 +2820,7 @@ xvixviii	xvi-xviii	0	0	1	0
 фракції	fraction	0	0	1	0
 українську	ukrainian	0	0	1	0
 донецької	donetsk	0	0	1	0
-світових	world	0	0	1	0
+країна	country	0	0	1	0
 людства	humanity	0	0	1	0
 відбувся	happened	0	0	1	0
 почесний	honourable	0	0	1	0
@@ -2907,7 +2839,6 @@ xvixviii	xvi-xviii	0	0	1	0
 регіони	regions	0	0	1	0
 країні	country	0	0	1	0
 різноманіття	diversity	0	0	1	0
-хокей	hockey	0	0	1	0
 точкою	point	0	0	1	0
 iv	iv	0	0	1	0
 українська	ukrainian	0	0	1	0
@@ -2945,7 +2876,6 @@ iv	iv	0	0	1	0
 разом	together	0	0	1	0
 угруповань	groups	0	0	1	0
 науковій	scientific	0	0	1	0
-військове	army	0	0	1	0
 адинамія	adynamia	1	1	0	0
 угорська	hungarian	0	0	1	0
 вимогу	demand	0	0	1	0
@@ -3017,11 +2947,9 @@ l	l	0	0	1	0
 активним	active	0	0	1	0
 українців	ukrainians	0	0	1	0
 українців	ukrainian	0	0	1	0
-с	village	0	0	1	0
 освіта	education	0	0	1	0
 мозку	brain	0	0	1	0
 візантійський	byzantine	0	0	1	0
-поставити	put	0	0	1	0
 медичного	medical	0	0	1	0
 позбавлений	destituted	0	0	1	0
 лексики	vocabulary	0	0	1	0
@@ -3062,7 +2990,6 @@ l	l	0	0	1	0
 гармонію	harmony	0	0	1	0
 зустріч	meetings	0	0	1	0
 севастополь	sevastopol	0	0	1	0
-появи	appearance	0	0	1	0
 севастополя	sevastopol	0	0	1	0
 грає	plays	0	0	1	0
 вересні	september	0	0	1	0
@@ -3070,7 +2997,6 @@ l	l	0	0	1	0
 зла	evil	0	0	1	0
 поетичні	poetic	0	0	1	0
 керувати	lead	0	0	1	0
-поведінка	behaviour	0	0	1	0
 планети	planet	0	0	1	0
 казимир	kazimir	0	0	1	0
 поведінки	behaviours	0	0	1	0
@@ -3111,7 +3037,6 @@ l	l	0	0	1	0
 додаток	addition	0	0	1	0
 вчення	learning	0	0	1	0
 методом	method	0	0	1	0
-методом	way	0	0	1	0
 роботою	work	0	0	1	0
 києвом	kiev	0	0	1	0
 письменниця	writer	0	0	1	0
@@ -3122,7 +3047,6 @@ l	l	0	0	1	0
 xi	xi	0	0	1	0
 письменниці	writers	0	0	1	0
 воєн	wars	0	0	1	0
-змогли	could	0	0	1	0
 марко	marko	0	0	1	0
 київ	kyiv	0	0	1	0
 київ	kiev	0	0	1	0
@@ -3145,6 +3069,7 @@ xi	xi	0	0	1	0
 композиція	composition	0	0	1	0
 королівства	kingdom	0	0	1	0
 структурні	structural	0	0	1	0
+радикальних	radical	0	0	1	0
 сша	usa	0	0	1	0
 композиції	composition	0	0	1	0
 зоні	zones	0	0	1	0
@@ -3163,11 +3088,9 @@ xi	xi	0	0	1	0
 вона	it	0	0	1	0
 дослідників	investigators	0	0	1	0
 багатьом	rich	0	0	1	0
-пристосування	adoptation	0	0	1	0
 києвопечерської	kyyevopecherskoi	0	0	1	0
 києвопечерської	kyiv pechersk lavra	0	0	1	0
 дерева	wood	0	0	1	0
-присутній	presented	0	0	1	0
 рослинності	vegetation	0	0	1	0
 тобто	that is	0	0	1	0
 іноземної	foreign	0	0	1	0
@@ -3187,14 +3110,12 @@ xi	xi	0	0	1	0
 плесно	metatarsus	1	1	0	0
 плесно	needs	1	0	1	0
 плесно	metatarsal bones	1	1	0	0
-командуванням	headquarters	0	0	1	0
 підрахунками	account	0	0	1	0
 демократична	democratic	0	0	1	0
 причин	reasons	0	0	1	0
 вимогам	demand	0	0	1	0
 зміною	change	0	0	1	0
 зникає	evanesces	0	0	1	0
-оцінками	evaluations	0	0	1	0
 дорослих	adult	0	0	1	0
 дорослих	adults	0	0	1	0
 геракла	hercules	0	0	1	0
@@ -3206,7 +3127,7 @@ xi	xi	0	0	1	0
 низовина	low place	0	0	1	0
 богом	god	0	0	1	0
 розвинута	developed	0	0	1	0
-назавжди	for ever	0	0	1	0
+назвали	named	0	0	1	0
 богдан	bogdan	0	0	1	0
 їхньої	their	0	0	1	0
 етапів	stages	0	0	1	0
@@ -3228,7 +3149,7 @@ xi	xi	0	0	1	0
 центральному	central	0	0	1	0
 суму	sum	0	0	1	0
 головою	head	0	0	1	0
-вважав	considered	0	0	1	0
+враження	sensation	0	0	1	0
 козака	cossack	0	0	1	0
 допомоги	help	0	0	1	0
 задум	project	0	0	1	0
@@ -3263,8 +3184,7 @@ xi	xi	0	0	1	0
 ми	we	0	0	1	0
 згадував	remembered	0	0	1	0
 архітектурних	architectural	0	0	1	0
-самоврядування	self-government	0	0	1	0
-самоврядування	self-management	0	0	1	0
+позитивно	positively	0	0	1	0
 активної	active	0	0	1	0
 належать	belongs	0	0	1	0
 весь	whole	0	0	1	0
@@ -3303,7 +3223,6 @@ xi	xi	0	0	1	0
 цілісності	integrity	0	0	1	0
 взимку	in winter	0	0	1	0
 імпорту	import	0	0	1	0
-імпорту	imports	0	0	1	0
 символом	symbol	0	0	1	0
 спеціального	special	0	0	1	0
 позитивні	positive	0	0	1	0
@@ -3327,10 +3246,9 @@ xi	xi	0	0	1	0
 селяни	peasants	0	0	1	0
 передбачав	provided	0	0	1	0
 доведення	proof	0	0	1	0
-проживає	live	0	0	1	0
+навіть	even	0	0	1	0
 втручання	interference	0	0	1	0
 втручання	intervention	0	0	1	0
-мереж	network	0	0	1	0
 передбачає	foresees	0	0	1	0
 ленін	lenin	0	0	1	0
 гол	goal	0	0	1	0
@@ -3345,7 +3263,8 @@ xi	xi	0	0	1	0
 десятки	tens	0	0	1	0
 комерційних	commercial	0	0	1	0
 морального	moral	0	0	1	0
-штату	state	0	0	1	0
+діяти	act	0	0	1	0
+англ	english	0	0	1	0
 всеукраїнський	all-ukrainian	0	0	1	0
 пост	post	0	0	1	0
 позначають	marked	0	0	1	0
@@ -3408,7 +3327,7 @@ xi	xi	0	0	1	0
 австралія	australia	0	0	1	0
 дмитра	dmitry	0	0	1	0
 складав	put together	0	0	1	0
-виживання	survival	0	0	1	0
+австралії	australia	0	0	1	0
 леонардо	leonardo	0	0	1	0
 перемоги	victory	0	0	1	0
 прізвище	name	0	0	1	0
@@ -3477,6 +3396,7 @@ xiii	xiii	0	0	1	0
 відтоді	thence	0	0	1	0
 старих	old	0	0	1	0
 керівник	leader	0	0	1	0
+походять	like	0	0	1	0
 навчального	study	0	0	1	0
 твердих	hard	0	0	1	0
 межа	boundary	0	0	1	0
@@ -3487,10 +3407,9 @@ xiii	xiii	0	0	1	0
 індійського	indian	0	0	1	0
 рибосоми	ribosome	0	0	1	0
 центрів	centers	0	0	1	0
-обігу	circulation	0	0	1	0
 листі	leaf	0	0	1	0
 межі	boundary	0	0	1	0
-футбольні	football	0	0	1	0
+донецького	donetsk	0	0	1	0
 патенту	patent	0	0	1	0
 аграрний	agrarian	0	0	1	0
 межу	boundary	0	0	1	0
@@ -3502,7 +3421,6 @@ xiii	xiii	0	0	1	0
 класичної	classic	0	0	1	0
 механізм	mechanism	0	0	1	0
 p	p	0	0	1	0
-виконанням	accomplishments	0	0	1	0
 сотень	hundreds	0	0	1	0
 говорив	spoke	0	0	1	0
 хати	small house	0	0	1	0
@@ -3566,7 +3484,7 @@ p	p	0	0	1	0
 форму	form	0	0	1	0
 політичної	political	0	0	1	0
 чернігівської	chernihiv	0	0	1	0
-імперії	empire	0	0	1	0
+світлі	light	0	0	1	0
 втім	however	0	0	1	0
 форми	forms	0	0	1	0
 категорій	categories	0	0	1	0
@@ -3615,7 +3533,6 @@ p	p	0	0	1	0
 зробила	made	0	0	1	0
 район	region	0	0	1	0
 вище	higher	0	0	1	0
-зробили	made	0	0	1	0
 вища	high	0	0	1	0
 данило	danilo	0	0	1	0
 молекули	molecules	0	0	1	0
@@ -3641,7 +3558,6 @@ p	p	0	0	1	0
 розмноження	duplication	0	0	1	0
 республіку	republic	0	0	1	0
 дитини	child	0	0	1	0
-центрального	central	0	0	1	0
 йдуть	go	0	0	1	0
 йдуть	are	0	0	1	0
 недоліки	defects	0	0	1	0
@@ -3652,13 +3568,12 @@ p	p	0	0	1	0
 вирощують	cultivate	0	0	1	0
 міг	could	0	0	1	0
 мій	my	0	0	1	0
-тел	telephone	0	0	1	0
 етапи	stages	0	0	1	0
 володіють	possess	0	0	1	0
 свого	it's	0	0	1	0
-теж	also	0	0	1	0
 корпус	corps	0	0	1	0
 береги	shores	0	0	1	0
+другому	second	0	0	1	0
 кабінету	cabinet	0	0	1	0
 херсонес	chersonese	0	0	1	0
 наступного	following	0	0	1	0
@@ -3680,7 +3595,6 @@ p	p	0	0	1	0
 етапі	stage	0	0	1	0
 опубліковані	published	0	0	1	0
 власних	proper	0	0	1	0
-сталь	steel	0	0	1	0
 середовищем	surroundings	0	0	1	0
 галузями	branches	0	0	1	0
 харкова	kharkov	0	0	1	0
@@ -3730,9 +3644,7 @@ ed	edition	0	0	1	0
 рідної	native	0	0	1	0
 виконавчий	executive	0	0	1	0
 інт	institute	0	0	1	0
-спільнота	community	0	0	1	0
 одесі	odesa	0	0	1	0
-любить	love	0	0	1	0
 чисто	cleanly	0	0	1	0
 чисто	clear	0	0	1	0
 ставилися	placed	0	0	1	0
@@ -3765,7 +3677,6 @@ xx	xx	0	0	1	0
 мономах	monomials	0	0	1	0
 створюють	create	0	0	1	0
 xv	xv	0	0	1	0
-результати	results	0	0	1	0
 асоціація	association	0	0	1	0
 людські	human	0	0	1	0
 простий	simple	0	0	1	0
@@ -3829,7 +3740,6 @@ xv	xv	0	0	1	0
 мембрана	diaphragm	1	1	0	0
 мембрана	rape	1	0	1	0
 мембрана	membrane	1	1	0	0
-єврейська	jewish	0	0	1	0
 договір	convention	0	0	1	0
 мембрани	membrane	0	0	1	0
 внутрішніми	internal	0	0	1	0
@@ -3852,7 +3762,6 @@ xv	xv	0	0	1	0
 автономна	autonoumuos	0	0	1	0
 реформа	reform	0	0	1	0
 вкрита	opened	0	0	1	0
-спеціалізовані	specialized	0	0	1	0
 мозок	brain	0	0	1	0
 звичаї	custom	0	0	1	0
 селян	peasants	0	0	1	0
@@ -3864,7 +3773,7 @@ xv	xv	0	0	1	0
 гаррі	harry	0	0	1	0
 всюди	everywhere	0	0	1	0
 приватних	private	0	0	1	0
-полях	fields	0	0	1	0
+визначається	determined	0	0	1	0
 утворена	formed	0	0	1	0
 палеоліту	paleolith	0	0	1	0
 аби	only	0	0	1	0
@@ -3960,7 +3869,6 @@ xv	xv	0	0	1	0
 подав	gave	0	0	1	0
 бориса	boris	0	0	1	0
 вдома	at home	0	0	1	0
-державами	states	0	0	1	0
 надрах	bowels	0	0	1	0
 унаслідок	in consequence	0	0	1	0
 чорновіл	chornovil	0	0	1	0
@@ -3969,7 +3877,6 @@ xv	xv	0	0	1	0
 орієнтації	orientation	0	0	1	0
 мексики	mexico	0	0	1	0
 вишневецького	vishnevetsky	0	0	1	0
-рокмузика	rock music	0	0	1	0
 тканини	tissue	0	0	1	0
 мексика	mexico	0	0	1	0
 розподілу	distribution	0	0	1	0
@@ -3984,7 +3891,6 @@ xv	xv	0	0	1	0
 горі	mountains	0	0	1	0
 дрібних	small	0	0	1	0
 південній	southern	0	0	1	0
-московського	moscow	0	0	1	0
 швидкий	fast	0	0	1	0
 світової	world	0	0	1	0
 зареєстровано	registered	0	0	1	0
@@ -4018,7 +3924,6 @@ media	media	0	0	1	0
 будівництво	construction	0	0	1	0
 йде	go	0	0	1	0
 суржик	surjik	0	0	1	0
-річчю	years	0	0	1	0
 продукт	product	0	0	1	0
 зусиллям	efforts	0	0	1	0
 парламент	parliament	0	0	1	0
@@ -4037,7 +3942,6 @@ media	media	0	0	1	0
 володар	volodar	0	0	1	0
 розкопки	excavations	0	0	1	0
 найбільшої	largest	0	0	1	0
-підходів	approaches	0	0	1	0
 селі	village	0	0	1	0
 очолює	heads	0	0	1	0
 очолює	headed	0	0	1	0
@@ -4046,7 +3950,8 @@ media	media	0	0	1	0
 укр	ukrainian	0	0	1	0
 папери	pepery	0	0	1	0
 папери	paper	0	0	1	0
-правитель	governors	0	0	1	0
+забезпечує	ensures	0	0	1	0
+забезпечує	provides	0	0	1	0
 стус	stus	0	0	1	0
 iншi	other	0	0	1	0
 божого	god's	0	0	1	0
@@ -4063,12 +3968,10 @@ iншi	other	0	0	1	0
 щоправда	true	0	0	1	0
 невдоволення	dissatisfaction	0	0	1	0
 місті	place	0	0	1	0
-зпоміж	among	0	0	1	0
 розрізняють	distinguish	0	0	1	0
 мазепі	mazepa	0	0	1	0
 поруч	close	0	0	1	0
 компанія	company	0	0	1	0
-незалежна	independent	0	0	1	0
 угодою	bargain	0	0	1	0
 угодою	treaty	0	0	1	0
 описують	describe	0	0	1	0
@@ -4085,10 +3988,10 @@ iншi	other	0	0	1	0
 xviii	xviii	0	0	1	0
 метаболіти	metabolite	1	1	0	0
 притаманна	inherent	0	0	1	0
-тесла	tesla	0	0	1	0
+називатися	called	0	0	1	0
 посада	position	0	0	1	0
 посада	post	0	0	1	0
-значним	important	0	0	1	0
+ст	century	0	0	1	0
 родина	origin	0	0	1	0
 родина	home	0	0	1	0
 посади	position	0	0	1	0
@@ -4104,8 +4007,7 @@ xviii	xviii	0	0	1	0
 дніпропетровська	dnipropetrovsk	0	0	1	0
 гірнича	mining	0	0	1	0
 дані	data	0	0	1	0
-незалежну	independent	0	0	1	0
-віденський	viennese	0	0	1	0
+енциклопедії	encyclopedia	0	0	1	0
 звинувачення	accusation	0	0	1	0
 прогресу	progress	0	0	1	0
 майстрів	foreman	0	0	1	0
@@ -4130,7 +4032,6 @@ xviii	xviii	0	0	1	0
 впливів	influence	0	0	1	0
 відомості	news	0	0	1	0
 відповідними	appropriate	0	0	1	0
-відповідними	corresponding	0	0	1	0
 повинно	obliged	0	0	1	0
 виступали	came forward	0	0	1	0
 фізіології	physiology	0	0	1	0
@@ -4147,15 +4048,14 @@ xviii	xviii	0	0	1	0
 апарат	apparatus	0	0	1	0
 поєднанні	combination	0	0	1	0
 адже	but	0	0	1	0
-деякі	some	0	0	1	0
+писали	wrote	0	0	1	0
 різного	different	0	0	1	0
-островів	islands	0	0	1	0
 магнітне	magnetic	0	0	1	0
 векселя	bills	0	0	1	0
 університету	university	0	0	1	0
 вексель	bill	0	0	1	0
 суміжних	adjacent	0	0	1	0
-проникнення	penetration	0	0	1	0
+лізі	league	0	0	1	0
 дотримуються	keep	0	0	1	0
 заповідник	wildlife area	0	0	1	0
 ряд	line	0	0	1	0
@@ -4171,7 +4071,6 @@ xviii	xviii	0	0	1	0
 відділ	depatment	0	0	1	0
 повинні	guilty	0	0	1	0
 водню	hydrogen	0	0	1	0
-хотіли	wanted	0	0	1	0
 позиція	position	0	0	1	0
 позицію	position	0	0	1	0
 прислівник	required	1	0	1	0
@@ -4181,7 +4080,6 @@ xviii	xviii	0	0	1	0
 позиції	position	0	0	1	0
 водні	water	0	0	1	0
 зберігання	storing	0	0	1	0
-зберігання	preservation	0	0	1	0
 імператорів	emperors	0	0	1	0
 єс	eu	0	0	1	0
 відсутністю	absence	0	0	1	0
@@ -4214,7 +4112,6 @@ xviii	xviii	0	0	1	0
 ступінь	degree	0	0	1	0
 півночі	north	0	0	1	0
 елементом	element	0	0	1	0
-фронті	front	0	0	1	0
 породи	breed	0	0	1	0
 породи	species	0	0	1	0
 окремо	separate	0	0	1	0
@@ -4233,14 +4130,12 @@ xviii	xviii	0	0	1	0
 гамільтон	hamilton	1	1	0	0
 гамільтон	notions	1	0	1	0
 гамільтон	concepts	1	0	1	0
-миколи	mykola	0	0	1	0
 джерел	fountain	0	0	1	0
 словник	dictionary	0	0	1	0
 встановити	sets	0	0	1	0
 засновник	founder	0	0	1	0
 христа	hundred	0	0	1	0
 христа	christ	0	0	1	0
-хронологія	chronology	0	0	1	0
 хронологія	chronicle	0	0	1	0
 суб'єкт	army	1	0	1	0
 суб'єкт	troop	1	0	1	0
@@ -4278,7 +4173,7 @@ xviii	xviii	0	0	1	0
 туру	tour	0	0	1	0
 заповіт	testament	0	0	1	0
 обсягів	amount	0	0	1	0
-землеробство	agriculture	0	0	1	0
+пристосування	adoptation	0	0	1	0
 малі	small	0	0	1	0
 землеробства	agriculture	0	0	1	0
 автономії	autonomy	0	0	1	0
@@ -4338,10 +4233,9 @@ iran	iran	0	0	1	0
 перенесення	transfer	0	0	1	0
 євреїв	jews	0	0	1	0
 розпад	disintegration	0	0	1	0
-внутрішньої	internal	0	0	1	0
+футбольні	football	0	0	1	0
 незалежних	independent	0	0	1	0
 оцінювання	appraisement	0	0	1	0
-оцінювання	estimation	0	0	1	0
 вибір	choice	0	0	1	0
 минулих	pass	0	0	1	0
 періодичні	periodic	0	0	1	0
@@ -4366,7 +4260,6 @@ iran	iran	0	0	1	0
 рядки	lines	0	0	1	0
 акціонерні	joint-stock	0	0	1	0
 зустрічається	meets	0	0	1	0
-олімпійський	olympic	0	0	1	0
 такими	this	0	0	1	0
 такими	such	0	0	1	0
 литовський	lithuanian	0	0	1	0
@@ -4393,7 +4286,6 @@ a	a	0	0	1	0
 коаліції	coalition	0	0	1	0
 вважався	recognized	0	0	1	0
 мовних	linguistic	0	0	1	0
-комунізму	communism	0	0	1	0
 відбувався	happened	0	0	1	0
 соціалістична	socialist	0	0	1	0
 вторгнення	invasion	0	0	1	0
@@ -4435,13 +4327,13 @@ a	a	0	0	1	0
 резедові	ivanov	1	0	1	0
 резедові	resedaceae	1	1	0	0
 резедові	mignonette	1	1	0	0
-називатися	called	0	0	1	0
+тесла	tesla	0	0	1	0
 чемпіонату	championship	0	0	1	0
 юність	youth	0	0	1	0
 кольори	colours	0	0	1	0
 підпорядкування	subordinate	0	0	1	0
 підпорядкування	submission	0	0	1	0
-масонів	freemasons	0	0	1	0
+сагайдачний	quiver	0	0	1	0
 турки	turks	0	0	1	0
 пана	gentlemen	0	0	1	0
 розгляд	examination	0	0	1	0
@@ -4450,7 +4342,8 @@ a	a	0	0	1	0
 цвинтарі	charnels	0	0	1	0
 року	year	0	0	1	0
 політичного	political	0	0	1	0
-старший	older	0	0	1	0
+дорівнює	is equal	0	0	1	0
+дорівнює	equals	0	0	1	0
 скульптор	sculptor	0	0	1	0
 пішла	went	0	0	1	0
 пішли	went	0	0	1	0
@@ -4477,8 +4370,8 @@ a	a	0	0	1	0
 росіян	russians	0	0	1	0
 перетворилася	recreated	0	0	1	0
 заселення	settling	0	0	1	0
-егідою	aegis	0	0	1	0
 егідою	egis	0	0	1	0
+егідою	aegis	0	0	1	0
 амінокислот	amino acids	0	0	1	0
 місяці	months	0	0	1	0
 <i>	paragraph sign	0	0	1	0
@@ -4497,7 +4390,6 @@ a	a	0	0	1	0
 львівська	lvov	0	0	1	0
 морського	marine	0	0	1	0
 гуманізму	humanism	0	0	1	0
-потрапляє	falls	0	0	1	0
 кінетика	kinetics	1	1	0	0
 тонн	tons	0	0	1	0
 клітину	cellule	0	0	1	0
@@ -4509,7 +4401,6 @@ a	a	0	0	1	0
 грузія	georgia	0	0	1	0
 клітині	cell	0	0	1	0
 знав	knew	0	0	1	0
-знав	know	0	0	1	0
 збільшення	increase	0	0	1	0
 класифікація	classification	0	0	1	0
 кандидат	candidate	0	0	1	0
@@ -4525,7 +4416,6 @@ a	a	0	0	1	0
 ініціатором	initiator	0	0	1	0
 абсолютної	absolute	0	0	1	0
 решта	remainder	0	0	1	0
-своєрідною	original	0	0	1	0
 дружини	companion	0	0	1	0
 перепису	inventory	0	0	1	0
 дружина	armed force	0	0	1	0
@@ -4583,11 +4473,9 @@ a	a	0	0	1	0
 майя	maya	0	0	1	0
 експерти	experts	0	0	1	0
 експерти	expert	0	0	1	0
-запровадження	introduction	0	0	1	0
 запровадження	introducing	0	0	1	0
-установи	institution	0	0	1	0
+лісів	forests	0	0	1	0
 стверджував	affirmed	0	0	1	0
-говорили	said	0	0	1	0
 римлян	romans	0	0	1	0
 якостей	quality	0	0	1	0
 вважалося	considered	0	0	1	0
@@ -4597,25 +4485,24 @@ a	a	0	0	1	0
 жоден	any	0	0	1	0
 екватора	equator	0	0	1	0
 ігоревім	igor	0	0	1	0
-історичного	historical	0	0	1	0
+японського	japanese	0	0	1	0
 статуту	regulations	0	0	1	0
 стосуються	pertained	0	0	1	0
 сформулював	formulated	0	0	1	0
 добробут	prosperity	0	0	1	0
 лівий	left	0	0	1	0
 заперечує	raises	0	0	1	0
-категоріягеографія	category geography	0	0	1	0
 решти	the others	0	0	1	0
-решти	others	0	0	1	0
 плазуни	reptiles	0	0	1	0
 x	x	0	0	1	0
 кордонах	frontiers	0	0	1	0
 місяців	months	0	0	1	0
+однакові	identical	0	0	1	0
 легендою	legend	0	0	1	0
 класичний	classical	0	0	1	0
 класичний	classic	0	0	1	0
 старої	old	0	0	1	0
-мову	language	0	0	1	0
+злиття	confluence	0	0	1	0
 загонів	detachments	0	0	1	0
 практичних	practical	0	0	1	0
 побутові	everyday	0	0	1	0
@@ -4624,11 +4511,10 @@ x	x	0	0	1	0
 усієї	all	0	0	1	0
 копалини	minerals	0	0	1	0
 збагачення	enrichment	0	0	1	0
-повстанців	insurgents	0	0	1	0
-повстанців	rebels	0	0	1	0
+встановлює	establishes	0	0	1	0
 керніт	kernite	1	1	0	0
 священики	priests	0	0	1	0
-складалася	was formed	0	0	1	0
+розміщуються	situated	0	0	1	0
 князями	princes	0	0	1	0
 івасюка	ivasyuk	0	0	1	0
 ліквідацію	liquidation	0	0	1	0
@@ -4645,7 +4531,6 @@ x	x	0	0	1	0
 аеропорт	airport	0	0	1	0
 справила	produced	0	0	1	0
 червня	june	0	0	1	0
-оперний	opera	0	0	1	0
 смуга	strip	0	0	1	0
 класичних	classic	0	0	1	0
 загальному	universal	0	0	1	0
@@ -4655,7 +4540,7 @@ x	x	0	0	1	0
 розрахунку	calculation	0	0	1	0
 перейти	pass	0	0	1	0
 скасовано	anulled	0	0	1	0
-червона	red	0	0	1	0
+союз	union	0	0	1	0
 гілки	branches	0	0	1	0
 педагогічний	pedagogical	0	0	1	0
 цент	cent	1	1	0	0
@@ -4665,7 +4550,6 @@ x	x	0	0	1	0
 виконує	performs	0	0	1	0
 перебував	was	0	0	1	0
 перебував	stayed	0	0	1	0
-небесних	heavenly	0	0	1	0
 ядром	kernel	0	0	1	0
 поділена	divided	0	0	1	0
 визнати	recognize	0	0	1	0
@@ -4695,7 +4579,8 @@ x	x	0	0	1	0
 письмі	letter	0	0	1	0
 більшістю	majority	0	0	1	0
 педагогічних	educational	0	0	1	0
-датується	dated	0	0	1	0
+рослинний	vegetal	0	0	1	0
+рослинний	vegetative	0	0	1	0
 єдиної	unitary	0	0	1	0
 аес	nuclear power station	0	0	1	0
 визначають	determined	0	0	1	0
@@ -4743,7 +4628,7 @@ x	x	0	0	1	0
 етнічний	ethnic	0	0	1	0
 господарювання	management	0	0	1	0
 побудована	based	0	0	1	0
-компонентів	components	0	0	1	0
+управлінням	management	0	0	1	0
 побудовано	built	0	0	1	0
 побудовано	constructed	0	0	1	0
 бойові	military	0	0	1	0
@@ -4799,14 +4684,12 @@ x	x	0	0	1	0
 вступу	introduction	0	0	1	0
 працює	works	0	0	1	0
 літературною	literar	0	0	1	0
-черкасах	cherkasy	0	0	1	0
 боротьбі	struggle	0	0	1	0
 етика	ethics	0	0	1	0
 літературної	literar	0	0	1	0
 стверджують	affirm	0	0	1	0
 economic	economic	0	0	1	0
 знов	again	0	0	1	0
-одержання	acceptance	0	0	1	0
 одержання	getting	0	0	1	0
 етики	ethics	0	0	1	0
 андромеда	transportation	1	0	1	0
@@ -4822,11 +4705,11 @@ economic	economic	0	0	1	0
 другу	other	0	0	1	0
 водний	water	0	0	1	0
 гінденбурґ	hindenburg	1	1	0	0
-зерна	grain	0	0	1	0
+схили	slopes	0	0	1	0
 шлях	road	0	0	1	0
 з	with	0	0	1	0
 занадто	too much	0	0	1	0
-херсонська	herson	0	0	1	0
+фільмі	films	0	0	1	0
 обовязків	duties	0	0	1	0
 панас	panas	0	0	1	0
 суспільнополітичні	social and political	0	0	1	0
@@ -4897,7 +4780,7 @@ economic	economic	0	0	1	0
 діалекти	dialects	0	0	1	0
 гоголь	gogol	0	0	1	0
 гоголь	garrot	0	0	1	0
-металургія	metallurgy	0	0	1	0
+відомостей	information	0	0	1	0
 вела	led	0	0	1	0
 публікації	publication	0	0	1	0
 чотири	four	0	0	1	0
@@ -4934,7 +4817,6 @@ economic	economic	0	0	1	0
 іграх	games	0	0	1	0
 англія	england	0	0	1	0
 виконуються	executed	0	0	1	0
-виконуються	performed	0	0	1	0
 програмування	programming	0	0	1	0
 публікацій	publications	0	0	1	0
 англії	england	0	0	1	0
@@ -4967,10 +4849,10 @@ economic	economic	0	0	1	0
 новели	novel	0	0	1	0
 медичної	medical	0	0	1	0
 криза	crisis	0	0	1	0
-обама	barak obama	0	0	1	0
 обама	obama	0	0	1	0
 чернігівська	chernigiv	0	0	1	0
-запасів	stores	0	0	1	0
+великих	large	0	0	1	0
+великих	big	0	0	1	0
 чернігівське	chernihiv	0	0	1	0
 кризи	crises	0	0	1	0
 кризи	crisis	0	0	1	0
@@ -5030,7 +4912,7 @@ economic	economic	0	0	1	0
 безперечно	undoubtedly	0	0	1	0
 температура	temperature	0	0	1	0
 загальну	universal	0	0	1	0
-могутності	strength	0	0	1	0
+висновки	conclusions	0	0	1	0
 частота	character	1	0	1	0
 частота	frequency	1	1	1	0
 частота	hero	1	0	1	0
@@ -5041,7 +4923,7 @@ economic	economic	0	0	1	0
 виходив	went out	0	0	1	0
 буває	is	0	0	1	0
 спільне	common	0	0	1	0
-сінгапур	singapore	0	0	1	0
+установи	institution	0	0	1	0
 что	what	0	0	1	0
 одночасно	at once	0	0	1	0
 одночасно	simultaneously	0	0	1	0
@@ -5065,12 +4947,11 @@ economic	economic	0	0	1	0
 вікторія	causes	1	0	1	0
 вікторія	victoria	1	1	0	0
 спирається	relies	0	0	1	0
-єврейського	jewish	0	0	1	0
+частоти	frequence	0	0	1	0
 звану	called	0	0	1	0
 переважно	mainly	0	0	1	0
 погіршення	worsening	0	0	1	0
 щільно	densely	0	0	1	0
-частоти	frequence	0	0	1	0
 здійснює	realizes	0	0	1	0
 переважна	predominant	0	0	1	0
 привело	caused	0	0	1	0
@@ -5088,7 +4969,6 @@ economic	economic	0	0	1	0
 візантії	byzantine empire	0	0	1	0
 звана	named	0	0	1	0
 діючих	operating	0	0	1	0
-виплати	payments	0	0	1	0
 англійською	english	0	0	1	0
 нідерландів	netherlands	0	0	1	0
 фронт	front	0	0	1	0
@@ -5149,13 +5029,12 @@ economic	economic	0	0	1	0
 міське	local	0	0	1	0
 застосовують	applies	0	0	1	0
 спб	saint petersburg	0	0	1	0
-прагнучи	aiming	0	0	1	0
+історичного	historical	0	0	1	0
 увесь	all	0	0	1	0
 нехай	let	0	0	1	0
 обласних	regional	0	0	1	0
 дають	give	0	0	1	0
 органів	authorities	0	0	1	0
-органів	organs	0	0	1	0
 зовсім	at all	0	0	1	0
 перекладів	translations	0	0	1	0
 начальник	chief	0	0	1	0
@@ -5167,7 +5046,6 @@ economic	economic	0	0	1	0
 типові	type	0	0	1	0
 греки	greeks	0	0	1	0
 націоналістів	nationalists	0	0	1	0
-вченого	scientist	0	0	1	0
 вченого	scientific	0	0	1	0
 етнічними	ethnic	0	0	1	0
 відкритий	opened	0	0	1	0
@@ -5263,6 +5141,8 @@ entertainment	entertainment	0	0	1	0
 вуглеводнів	hydrocarbons	0	0	1	0
 змушені	forced	0	0	1	0
 трикутників	triangles	0	0	1	0
+хіх	xix	0	0	1	0
+хіх	19th	0	0	1	0
 можливе	possible	0	0	1	0
 батьківщину	motherland	0	0	1	0
 батьківщину	inheritance	0	0	1	0
@@ -5341,7 +5221,6 @@ rss	rss	0	0	1	0
 дали	gave	0	0	1	0
 космічних	space	0	0	1	0
 громадської	public	0	0	1	0
-греків	greeks	0	0	1	0
 дало	gave	0	0	1	0
 іст	history	0	0	1	0
 дала	gave	0	0	1	0
@@ -5372,7 +5251,6 @@ rss	rss	0	0	1	0
 театрального	theatrical	0	0	1	0
 одеська	odessa	0	0	1	0
 одеська	odesa	0	0	1	0
-споживачів	consumers	0	0	1	0
 середньовіччі	middle	0	0	1	0
 середньовіччі	middle ages	0	0	1	0
 місцевими	local	0	0	1	0
@@ -5419,10 +5297,8 @@ state	state	0	0	1	0
 батьків	fathers	0	0	1	0
 установах	institutions	0	0	1	0
 різновид	difference	0	0	1	0
-різновид	variety	0	0	1	0
 нариси	essays	0	0	1	0
 прийнято	accepted	0	0	1	0
-паперів	paper	0	0	1	0
 прийнята	adopted	0	0	1	0
 людини	human	0	0	1	0
 дивно	strangely	0	0	1	0
@@ -5431,7 +5307,6 @@ state	state	0	0	1	0
 громадянства	citizenship	0	0	1	0
 памятками	monuments	0	0	1	0
 досягає	reaches	0	0	1	0
-актом	act	0	0	1	0
 громадянство	citizenship	0	0	1	0
 перше	first	0	0	1	0
 молекулярна	molecular	0	0	1	0
@@ -5461,21 +5336,18 @@ state	state	0	0	1	0
 враховувати	take into consideration	0	0	1	0
 постійного	constant	0	0	1	0
 роксолана	roxolana	0	0	1	0
-схилах	slopes	0	0	1	0
-схилах	force	0	0	1	0
 життєдіяльності	life	0	0	1	0
 життєдіяльності	vital activity	0	0	1	0
 структурою	structure	0	0	1	0
 категоріяміста	category places	0	0	1	0
 категоріявипускники	category graduates	0	0	1	0
 регіонах	regions	0	0	1	0
-меж	boundaries	0	0	1	0
 меж	between	0	0	1	0
 трупи	corpses	0	0	1	0
 співак	singer	0	0	1	0
 всій	whole	0	0	1	0
-виробів	production	0	0	1	0
-наступні	future	0	0	1	0
+коефіцієнт	coefficient	0	0	1	0
+відкриваються	opened	0	0	1	0
 вживання	use	0	0	1	0
 колір	color	1	1	0	0
 колір	colour	1	1	1	0
@@ -5551,11 +5423,10 @@ i	and	0	0	1	0
 тілом	body	0	0	1	0
 справжні	real	0	0	1	0
 мовна	linguistic	0	0	1	0
-мовна	language	0	0	1	0
 справжнє	real	0	0	1	0
 атом	atom	0	0	1	0
 дна	bottom	0	0	1	0
-збірна	team	0	0	1	0
+чернігівський	chernihiv	0	0	1	0
 атол	dynamics	1	0	1	0
 атол	atoll	1	1	0	0
 основною	pricipal	0	0	1	0
@@ -5574,7 +5445,7 @@ i	and	0	0	1	0
 коломиї	kolomyia	0	0	1	0
 граматики	grammar	0	0	1	0
 подолання	overcome	0	0	1	0
-неминуче	inevitably	0	0	1	0
+місці	month	0	0	1	0
 воля	will	0	0	1	0
 граматика	grammar	0	0	1	0
 місць	places	0	0	1	0
@@ -5587,7 +5458,6 @@ i	and	0	0	1	0
 коломия	kolomyia	0	0	1	0
 реформ	reforms	0	0	1	0
 отримавши	received	0	0	1	0
-сейм	seym	0	0	1	0
 сейм	diet	0	0	1	0
 одиниць	units	0	0	1	0
 північних	northern	0	0	1	0
@@ -5613,7 +5483,6 @@ i	and	0	0	1	0
 везер	cup	1	0	1	0
 експорту	export	0	0	1	0
 засобами	ways	0	0	1	0
-інтелігенція	intellectuals	0	0	1	0
 базується	based	0	0	1	0
 пєси	play	0	0	1	0
 умов	terms	0	0	1	0
@@ -5629,7 +5498,6 @@ i	and	0	0	1	0
 рентген	roentgen	1	1	0	0
 рентген	x-ray	1	1	0	0
 випадково	accidentally	0	0	1	0
-вікіпедіях	wikipedia	0	0	1	0
 вікіпедіях	wikipedias	0	0	1	0
 тимчасового	temporary	0	0	1	0
 озера	lake	0	0	1	0
@@ -5637,7 +5505,6 @@ i	and	0	0	1	0
 атомів	atoms	0	0	1	0
 правителів	governors	0	0	1	0
 ложа	lodge	0	0	1	0
-похований	buried	0	0	1	0
 старшого	senior	0	0	1	0
 старшого	older	0	0	1	0
 видом	kind	0	0	1	0
@@ -5651,19 +5518,19 @@ i	and	0	0	1	0
 ринкової	market	0	0	1	0
 центрах	centers	0	0	1	0
 п котляревський	p. kotlearevskii	0	0	1	0
-імен	names	0	0	1	0
 платона	platon	0	0	1	0
 виділити	devided	0	0	1	0
 річного	river	0	0	1	0
 річного	year	0	0	1	0
-північнозахідній	northwest	0	0	1	0
+народжуваність	birth rate	0	0	1	0
+народжуваність	natality	0	0	1	0
 проф	professor	0	0	1	0
 проф	prof.	0	0	1	0
 вулиці	street	0	0	1	0
 нижньої	lower	0	0	1	0
 нижньої	inferior	0	0	1	0
 дружиною	wife	0	0	1	0
-католицької	catholic	0	0	1	0
+державу	state	0	0	1	0
 узагальнення	generalization	0	0	1	0
 куничник	calamagrostis	1	1	0	0
 куничник	values	1	0	1	0
@@ -5685,19 +5552,18 @@ i	and	0	0	1	0
 брак	marriage	0	0	1	0
 чоловіка	human	0	0	1	0
 чоловіка	man	0	0	1	0
-шкідливих	harmful	0	0	1	0
 брав	was	0	0	1	0
 чоловіки	men	0	0	1	0
 цезаря	caesar	0	0	1	0
-залишився	remained	0	0	1	0
 частинах	parts	0	0	1	0
-харківської	kharkiv	0	0	1	0
+прийшли	came	0	0	1	0
 драматичний	dramatic	0	0	1	0
 афін	athens	0	0	1	0
 матерія	matter	0	0	1	0
 матерія	substance	0	0	1	0
 матерії	substance	0	0	1	0
 поглядах	looks	0	0	1	0
+прагнучи	aiming	0	0	1	0
 нерідко	often	0	0	1	0
 дозволяє	allows	0	0	1	0
 факультет	faculty	0	0	1	0
@@ -5717,7 +5583,7 @@ i	and	0	0	1	0
 особисте	personally	0	0	1	0
 рамках	limits	0	0	1	0
 папір	paper	0	0	1	0
-настрої	temper	0	0	1	0
+рекомендації	recommendations	0	0	1	0
 оркестр	orchestra	0	0	1	0
 технікум	technical college	0	0	1	0
 технікум	college	0	0	1	0
@@ -5730,7 +5596,6 @@ i	and	0	0	1	0
 проводиться	passed	0	0	1	0
 проводиться	is conducted	0	0	1	0
 парижа	paris	0	0	1	0
-дунай	danube	0	0	1	0
 побережжя	coast	0	0	1	0
 частотою	frequence	0	0	1	0
 захворювання	illness	0	0	1	0
@@ -5746,8 +5611,6 @@ i	and	0	0	1	0
 функцію	function	0	0	1	0
 містом	place	0	0	1	0
 особисту	personal	0	0	1	0
-рослинний	vegetal	0	0	1	0
-рослинний	vegetative	0	0	1	0
 посольства	embassy	0	0	1	0
 корисні	useful	0	0	1	0
 сприймається	perceives	0	0	1	0
@@ -5756,7 +5619,7 @@ i	and	0	0	1	0
 посольство	embassy	0	0	1	0
 зимові	winter	0	0	1	0
 повернути	return	0	0	1	0
-античні	ancient	0	0	1	0
+батьківщині	inheritance	0	0	1	0
 дитинстві	childhood	0	0	1	0
 представника	representative	0	0	1	0
 тичина	tichina	0	0	1	0
@@ -5767,7 +5630,7 @@ i	and	0	0	1	0
 жертвам	victims	0	0	1	0
 персоналії	staff	0	0	1	0
 картин	pictures	0	0	1	0
-інтересів	interest	0	0	1	0
+московського	moscow	0	0	1	0
 зєднання	connection	0	0	1	0
 воззєднання	reunification	0	0	1	0
 протонів	protons	0	0	1	0
@@ -5832,7 +5695,6 @@ i	and	0	0	1	0
 традиційні	traditional	0	0	1	0
 вірша	verses	0	0	1	0
 закінчується	ends	0	0	1	0
-академічний	academical	0	0	1	0
 природний	natural	0	0	1	0
 обмежений	limited	0	0	1	0
 природним	natural	0	0	1	0
@@ -5843,7 +5705,7 @@ i	and	0	0	1	0
 шахтар	shakhtar	0	0	1	0
 сковорода	griddle	0	0	1	0
 риторика	rhetoric	0	0	1	0
-зміцнення	strengthening	0	0	1	0
+розумом	mind	0	0	1	0
 полякам	poles	0	0	1	0
 громадський	social	0	0	1	0
 громадський	civic	0	0	1	0
@@ -5922,10 +5784,9 @@ i	and	0	0	1	0
 здобула	received	0	0	1	0
 морська	marine	0	0	1	0
 морська	sea	0	0	1	0
-виходять	appear	0	0	1	0
+виконавчу	executive	0	0	1	0
 звук	sound	0	0	1	0
 українки	ukrainka	0	0	1	0
-українки	ukrainian	0	0	1	0
 християнського	christian	0	0	1	0
 січі	sich (a name for a section of wild grasslands where cossacks lived)	0	0	1	0
 січі	sici	0	0	1	0
@@ -5989,26 +5850,24 @@ i	and	0	0	1	0
 тепер	now	0	0	1	0
 сексуальної	sexual	0	0	1	0
 культури	culture	0	0	1	0
-земельні	agrarian	0	0	1	0
+культура	culture	0	0	1	0
 відомого	known	0	0	1	0
 тигра	tiger	0	0	1	0
 києва	kiev	0	0	1	0
 обертається	turns	0	0	1	0
 збільшити	increase	0	0	1	0
-управлінням	management	0	0	1	0
 тигри	tigers	0	0	1	0
 орел	eagle	0	0	1	0
 структур	structures	0	0	1	0
 часи	time	0	0	1	0
 суд	court	0	0	1	0
-навесні	in spring	0	0	1	0
+впливом	influence	0	0	1	0
 музика	music	0	0	1	0
 музики	music	0	0	1	0
 оповіді	stories	0	0	1	0
 предмета	object	0	0	1	0
 особливостями	special features	0	0	1	0
 миколая	mikolay	0	0	1	0
-предмети	items	0	0	1	0
 предмети	objects	0	0	1	0
 міському	local	0	0	1	0
 міському	municipal	0	0	1	0
@@ -6076,7 +5935,7 @@ m	m.	0	0	1	0
 опадів	precipitation	0	0	1	0
 польських	polish	0	0	1	0
 польських	poland	0	0	1	0
-будова	construction	0	0	1	0
+шотландії	scotland	0	0	1	0
 рости	grow	0	0	1	0
 володіння	dominion	0	0	1	0
 автономних	autonomous	0	0	1	0
@@ -6095,7 +5954,6 @@ m	m.	0	0	1	0
 людьми	humans	0	0	1	0
 срср	ussr	0	0	1	0
 покриву	covering	0	0	1	0
-провідних	leading	0	0	1	0
 отримував	got	0	0	1	0
 отримував	received	0	0	1	0
 правами	rights	0	0	1	0
@@ -6156,7 +6014,6 @@ und	and	0	0	1	0
 і	and	0	0	1	0
 станів	mills	0	0	1	0
 державної	state	0	0	1	0
-басейн	basin	0	0	1	0
 басейн	pool	0	0	1	0
 добровільно	voluntarily	0	0	1	0
 вімблдон	symbolize	1	0	1	0
@@ -6182,7 +6039,6 @@ ii	two	0	0	1	0
 кінцівки	end	0	0	1	0
 субєктами	subjects	0	0	1	0
 глини	loam	0	0	1	0
-звуку	sound	0	0	1	0
 лікування	treatment	0	0	1	0
 звуки	sounds	0	0	1	0
 побут	mode of life	0	0	1	0
@@ -6205,7 +6061,6 @@ left	left	0	0	1	0
 найвищого	highest	0	0	1	0
 хвороба	disease	0	0	1	0
 гравців	player	0	0	1	0
-казка	tale	0	0	1	0
 хвороби	disease	0	0	1	0
 зброєю	weapon	0	0	1	0
 хтось	someone	0	0	1	0
@@ -6251,7 +6106,6 @@ left	left	0	0	1	0
 громадянського	civil	0	0	1	0
 листя	leaves	0	0	1	0
 греція	greece	0	0	1	0
-інтернету	internet	0	0	1	0
 сказав	said	0	0	1	0
 приходу	coming	0	0	1	0
 греції	greece	0	0	1	0
@@ -6273,7 +6127,6 @@ left	left	0	0	1	0
 балету	ballet	0	0	1	0
 незалежної	independent	0	0	1	0
 пори	time	0	0	1	0
-турецьких	turkish	0	0	1	0
 ростуть	grow	0	0	1	0
 хімія	chemistry	0	0	1	0
 незалежною	independent	0	0	1	0
@@ -6281,6 +6134,7 @@ left	left	0	0	1	0
 поетика	poetry	0	0	1	0
 ставали	became	0	0	1	0
 ставали	were	0	0	1	0
+офіційному	official	0	0	1	0
 японської	japanese	0	0	1	0
 ставала	became	0	0	1	0
 умовно	conditionally	0	0	1	0
@@ -6293,7 +6147,7 @@ left	left	0	0	1	0
 остаточного	final	0	0	1	0
 вимагала	demanded	0	0	1	0
 жанрів	genres	0	0	1	0
-країна	country	0	0	1	0
+світових	world	0	0	1	0
 призвести	result	0	0	1	0
 громадянами	citizens	0	0	1	0
 носили	beared	0	0	1	0
@@ -6302,7 +6156,7 @@ left	left	0	0	1	0
 литовської	lithuanian	0	0	1	0
 може	perhaps	0	0	1	0
 давніх	ancient	0	0	1	0
-визначається	determined	0	0	1	0
+словаччини	slovakia	0	0	1	0
 фрески	fresco	0	0	1	0
 словаччина	slovakia	0	0	1	0
 медична	medical	0	0	1	0
@@ -6313,7 +6167,6 @@ left	left	0	0	1	0
 розслідування	examination	0	0	1	0
 загарбників	invaders	0	0	1	0
 банки	banks	0	0	1	0
-дослідженнями	investigations	0	0	1	0
 вважаються	are	0	0	1	0
 кордоном	frontier	0	0	1	0
 класичного	classic	0	0	1	0
@@ -6333,19 +6186,18 @@ left	left	0	0	1	0
 поляки	polish	0	0	1	0
 поляки	poles	0	0	1	0
 св	st.	0	0	1	0
-здебільшого	mainly	0	0	1	0
 виникає	arises	0	0	1	0
 виникає	arising	0	0	1	0
 незалежно	independently	0	0	1	0
-близька	close	0	0	1	0
+незалежна	independent	0	0	1	0
 значних	considerable	0	0	1	0
 вхід	entrance	0	0	1	0
 індії	india	0	0	1	0
 сс	s.s.	0	0	1	0
-ст	century	0	0	1	0
+значним	important	0	0	1	0
 знали	knew	0	0	1	0
 значний	considerable	0	0	1	0
-енциклопедії	encyclopedia	0	0	1	0
+незалежну	independent	0	0	1	0
 послуг	services	0	0	1	0
 міста	place	0	0	1	0
 енциклопедія	encyclopedia	0	0	1	0
@@ -6355,7 +6207,7 @@ left	left	0	0	1	0
 московський	moscow	0	0	1	0
 місто	place	0	0	1	0
 незалежні	independent	0	0	1	0
-писали	wrote	0	0	1	0
+деякі	some	0	0	1	0
 програма	program	0	0	1	0
 технології	technology	0	0	1	0
 фінансових	financial	0	0	1	0
@@ -6403,10 +6255,9 @@ left	left	0	0	1	0
 координат	coordinates	0	0	1	0
 царства	kingdom	0	0	1	0
 ставав	became	0	0	1	0
-сагайдачний	quiver	0	0	1	0
+масонів	freemasons	0	0	1	0
 судді	judges	0	0	1	0
-дорівнює	is equal	0	0	1	0
-дорівнює	equals	0	0	1	0
+старший	older	0	0	1	0
 обряди	rituals	0	0	1	0
 середньою	middle	0	0	1	0
 мистецтві	art	0	0	1	0
@@ -6414,10 +6265,9 @@ left	left	0	0	1	0
 детально	detailed	0	0	1	0
 інвестиції	investments	0	0	1	0
 вірувань	beliefs	0	0	1	0
-землю	land	0	0	1	0
+бажанням	wishes	0	0	1	0
 студентів	students	0	0	1	0
 демонстрації	demostration	0	0	1	0
-ефективність	efficiency	0	0	1	0
 оригіналу	original	0	0	1	0
 піски	sand	0	0	1	0
 грузини	served	1	0	1	0
@@ -6428,8 +6278,8 @@ left	left	0	0	1	0
 церковнословянської	old church	0	0	1	0
 церковнословянської	church-slavic	0	0	1	0
 церковнословянської	old church slavonic	0	0	1	0
-умовах	conditions	0	0	1	0
 умовах	terms	0	0	1	0
+умовах	conditions	0	0	1	0
 яйця	eggs	0	0	1	0
 підрозділ	subdivision	0	0	1	0
 постановою	decision	0	0	1	0
@@ -6445,16 +6295,16 @@ left	left	0	0	1	0
 мови	language	0	0	1	0
 самі	itselves	0	0	1	0
 червоні	red	0	0	1	0
-консерватизм	conservatism	0	0	1	0
-злиття	confluence	0	0	1	0
+xml	xml	0	0	1	0
+мову	language	0	0	1	0
 влада	power	0	0	1	0
 влади	power	0	0	1	0
 збору	meeting	0	0	1	0
 само	also	0	0	1	0
 спосіб	method	0	0	1	0
-союз	union	0	0	1	0
+червона	red	0	0	1	0
 архіпелаг	archipelago	0	0	1	0
-сама	itself	0	0	1	0
+небесних	heavenly	0	0	1	0
 теперішній	present	0	0	1	0
 саме	exactly	0	0	1	0
 яйце	egg	0	0	1	0
@@ -6464,7 +6314,6 @@ left	left	0	0	1	0
 го	nd	0	0	1	0
 бути	be	0	0	1	0
 га	hectare	0	0	1	0
-га	hectares	0	0	1	0
 віросповідання	religion	0	0	1	0
 змінювати	change	0	0	1	0
 вокзал	station	0	0	1	0
@@ -6500,7 +6349,6 @@ france	french	0	0	1	0
 татар	tatars	0	0	1	0
 все	all	0	0	1	0
 left|px	left	0	0	1	0
-театри	theaters	0	0	1	0
 зможе	will be able	0	0	1	0
 театру	theater	0	0	1	0
 театру	theatre	0	0	1	0
@@ -6510,7 +6358,6 @@ left|px	left	0	0	1	0
 театрі	theater	0	0	1	0
 палива	fuel	0	0	1	0
 місцева	local	0	0	1	0
-текстах	texts	0	0	1	0
 найстаріших	eldest	0	0	1	0
 літній	summer	0	0	1	0
 премєрміністра	premier minister	0	0	1	0
@@ -6528,7 +6375,6 @@ left|px	left	0	0	1	0
 врятувати	save oneself	0	0	1	0
 частково	partially	0	0	1	0
 звернення	address	0	0	1	0
-цінних	valuable	0	0	1	0
 міркування	opinions	0	0	1	0
 прагне	aim	0	0	1	0
 райони	regions	0	0	1	0
@@ -6584,7 +6430,7 @@ left|px	left	0	0	1	0
 жодного	no one	0	0	1	0
 руси	russia	0	0	1	0
 ранніх	early	0	0	1	0
-нікому	nobody	0	0	1	0
+паперів	paper	0	0	1	0
 збройні	armed	0	0	1	0
 боротьбу	struggle	0	0	1	0
 кпу	cpu	0	0	1	0
@@ -6643,7 +6489,7 @@ left|px	left	0	0	1	0
 конкретний	concrete	0	0	1	0
 два	two	0	0	1	0
 опера	opera	0	0	1	0
-батьківщині	inheritance	0	0	1	0
+античні	ancient	0	0	1	0
 вчений	scientific	0	0	1	0
 лат	latin	0	0	1	0
 військові	army	0	0	1	0
@@ -6690,7 +6536,7 @@ shippuuden	shipuuden	0	0	1	0
 популярний	popular	0	0	1	0
 подвиги	great deeds	0	0	1	0
 подвиги	feats	0	0	1	0
-філософський	philosophical	0	0	1	0
+панує	rules	0	0	1	0
 євгена	evgeny	0	0	1	0
 гофман	relative	1	0	1	0
 гофман	hoffman	1	1	0	0
@@ -6756,7 +6602,6 @@ shippuuden	shipuuden	0	0	1	0
 відокремлення	separation	0	0	1	0
 робіт	works	0	0	1	0
 офіційною	official	0	0	1	0
-федір	fedyr	0	0	1	0
 федір	fedir	0	0	1	0
 наближення	approaching	0	0	1	0
 праві	right	0	0	1	0
@@ -6770,7 +6615,6 @@ shippuuden	shipuuden	0	0	1	0
 обсяг	volume	0	0	1	0
 місцем	place	0	0	1	0
 бурі	storms	0	0	1	0
-побудови	construction	0	0	1	0
 побудова	construction	0	0	1	0
 звідси	from here	0	0	1	0
 міхновського	mihnovskiy	0	0	1	0
@@ -6787,10 +6631,7 @@ shippuuden	shipuuden	0	0	1	0
 прийом	reception	0	0	1	0
 революційної	ruvolutionary	0	0	1	0
 революційної	revolutionary	0	0	1	0
-сибіру	siberia	0	0	1	0
 межує	borders	0	0	1	0
-годин	year	0	0	1	0
-вівтар	altar	0	0	1	0
 головними	principal	0	0	1	0
 чурай	churay	0	0	1	0
 чурай	churai	0	0	1	0
@@ -6845,7 +6686,7 @@ shippuuden	shipuuden	0	0	1	0
 знать	aristocracy	0	0	1	0
 симфонія	symphony	0	0	1	0
 явище	phenomenon	0	0	1	0
-відомостей	information	0	0	1	0
+металургія	metallurgy	0	0	1	0
 лише	only	0	0	1	0
 заздалегідь	in advance	0	0	1	0
 духовна	spiritual	0	0	1	0
@@ -6861,7 +6702,6 @@ shippuuden	shipuuden	0	0	1	0
 інтелектуального	intellectual	0	0	1	0
 відіграє	plays	0	0	1	0
 індивідуальні	individual	0	0	1	0
-так	so	0	0	1	0
 питання	question	0	0	1	0
 швеції	sweden	0	0	1	0
 словянські	slavic	0	0	1	0
@@ -6874,12 +6714,12 @@ shippuuden	shipuuden	0	0	1	0
 підходи	approaches	0	0	1	0
 поширилася	extened	0	0	1	0
 відіграв	played	0	0	1	0
+злочини	crimes	0	0	1	0
 графіті	graffiti	0	0	1	0
 теодіцея	theodicy	1	1	0	0
 теодіцея	geographic	1	0	1	0
 теодіцея	geographique	1	0	1	0
 теодіцея	geographical	1	0	1	0
-мовами	languages	0	0	1	0
 мовами	speak	0	0	1	0
 нашого	our	0	0	1	0
 піщанкові	gerbil	1	1	0	0
@@ -6900,8 +6740,8 @@ shippuuden	shipuuden	0	0	1	0
 сюжети	subjects	0	0	1	0
 яків	which	0	0	1	0
 ради	council	0	0	1	0
-знаків	sightseeing	0	0	1	0
 знаків	signs	0	0	1	0
+знаків	sightseeing	0	0	1	0
 дозволив	allowed	0	0	1	0
 рада	council	0	0	1	0
 август	august	0	0	1	0
@@ -6913,7 +6753,6 @@ shippuuden	shipuuden	0	0	1	0
 медичний	medical	0	0	1	0
 діаспори	diaspora	0	0	1	0
 ознака	indication	0	0	1	0
-ознака	sign	0	0	1	0
 мешкали	resided	0	0	1	0
 юпітера	jupiter	0	0	1	0
 діаспора	diaspora	0	0	1	0
@@ -6930,7 +6769,6 @@ shippuuden	shipuuden	0	0	1	0
 союзу	union	0	0	1	0
 австрія	austria	0	0	1	0
 давні	ancient	0	0	1	0
-вольтера	volter	0	0	1	0
 вольтера	volterra	0	0	1	0
 туристичний	touristic	0	0	1	0
 великою	great	0	0	1	0
@@ -6959,7 +6797,6 @@ shippuuden	shipuuden	0	0	1	0
 августа	august	0	0	1	0
 групі	groups	0	0	1	0
 складну	well-built	0	0	1	0
-явища	phenomenon	0	0	1	0
 опір	resistance	0	0	1	0
 складні	well-knit	0	0	1	0
 групу	group	0	0	1	0
@@ -7049,7 +6886,6 @@ shippuuden	shipuuden	0	0	1	0
 семінарії	seminary	0	0	1	0
 матчі	matches	0	0	1	0
 утримання	allowance	0	0	1	0
-підземні	underground	0	0	1	0
 разів	times	0	0	1	0
 жанр	genre	0	0	1	0
 терміну	term	0	0	1	0
@@ -7081,7 +6917,6 @@ shippuuden	shipuuden	0	0	1	0
 стабільності	stability	0	0	1	0
 інтересами	interests	0	0	1	0
 ролі	role	0	0	1	0
-смерті	death	0	0	1	0
 зимородкові	kingfisher	1	1	0	0
 зимородкові	pocta	1	0	1	0
 зимородкові	kingfishers	1	0	1	0
@@ -7099,7 +6934,6 @@ shippuuden	shipuuden	0	0	1	0
 європейський	european	0	0	1	0
 європейським	european	0	0	1	0
 тепла	warm	0	0	1	0
-магдебурзьке	magdeburg	0	0	1	0
 кути	corners	0	0	1	0
 кути	angles	0	0	1	0
 укріплення	reinforcement	0	0	1	0
@@ -7153,7 +6987,7 @@ shippuuden	shipuuden	0	0	1	0
 роком	year	0	0	1	0
 будь	any	0	0	1	0
 олексій	alexey	0	0	1	0
-регбі	rugby	0	0	1	0
+природі	nature	0	0	1	0
 центральних	central	0	0	1	0
 популяції	population	0	0	1	0
 приватного	private	0	0	1	0
@@ -7209,7 +7043,6 @@ shippuuden	shipuuden	0	0	1	0
 тісні	strait	0	0	1	0
 використав	used	0	0	1	0
 анатомії	anatomy	0	0	1	0
-à	of	0	0	1	0
 їхнього	their	0	0	1	0
 узбережжі	shore	0	0	1	0
 закінчення	completion	0	0	1	0
@@ -7225,7 +7058,6 @@ shippuuden	shipuuden	0	0	1	0
 москальчарівник	wizard muscovite	0	0	1	0
 москальчарівник	muscovite-wizard	0	0	1	0
 явищем	phenomenon	0	0	1	0
-проходили	passed	0	0	1	0
 приголосні	consonant	0	0	1	0
 передумови	conditions	0	0	1	0
 своїми	it's	0	0	1	0
@@ -7274,9 +7106,7 @@ shippuuden	shipuuden	0	0	1	0
 циклу	cycle	0	0	1	0
 скажімо	say	0	0	1	0
 васильович	vasilovich	0	0	1	0
-видати	issue	0	0	1	0
 видати	publish	0	0	1	0
-комбінат	industrial complex	0	0	1	0
 дніпропетровський	dnipropetrovsk	0	0	1	0
 художній	of art	0	0	1	0
 чернігові	chernihiv	0	0	1	0
@@ -7286,7 +7116,6 @@ shippuuden	shipuuden	0	0	1	0
 виставки	exposition	0	0	1	0
 залежать	depend	0	0	1	0
 художніх	artistic	0	0	1	0
-художніх	of art	0	0	1	0
 господарських	economic	0	0	1	0
 товариство	society	0	0	1	0
 товариство	company	0	0	1	0
@@ -7308,12 +7137,11 @@ shippuuden	shipuuden	0	0	1	0
 ряді	rows	0	0	1	0
 ряді	row	0	0	1	0
 останні	last	0	0	1	0
-великих	large	0	0	1	0
-великих	big	0	0	1	0
+центрального	central	0	0	1	0
 останнє	last	0	0	1	0
 запропонував	offered	0	0	1	0
 відкрита	opened	0	0	1	0
-щільність	compactness	0	0	1	0
+розташовані	located	0	0	1	0
 відзначити	note	0	0	1	0
 відзначити	differ from	0	0	1	0
 прекрасне	beautiful	0	0	1	0
@@ -7356,7 +7184,7 @@ shippuuden	shipuuden	0	0	1	0
 астенія	appeared	1	0	1	0
 астенія	came out	1	0	1	0
 астенія	asthenia	1	1	0	0
-премєра	premier	0	0	1	0
+міністр	minister	0	0	1	0
 губернії	province	0	0	1	0
 територіальних	territorial	0	0	1	0
 етап	stage	0	0	1	0
@@ -7380,7 +7208,6 @@ shippuuden	shipuuden	0	0	1	0
 колишніх	previous	0	0	1	0
 математика	mathematics	0	0	1	0
 розподіл	allocation	0	0	1	0
-розподіл	distribution	0	0	1	0
 різниця	difference	0	0	1	0
 різницю	difference	0	0	1	0
 недостатньо	insufficiently	0	0	1	0
@@ -7475,7 +7302,7 @@ shippuuden	shipuuden	0	0	1	0
 молодого	young	0	0	1	0
 продовжують	continue	0	0	1	0
 ступеня	degree	0	0	1	0
-побічна	collateral	0	0	1	0
+залежить	depends	0	0	1	0
 методи	methods	0	0	1	0
 кутів	angels	0	0	1	0
 кутів	angles	0	0	1	0
@@ -7513,7 +7340,6 @@ shippuuden	shipuuden	0	0	1	0
 процесах	processes	0	0	1	0
 селянських	rural	0	0	1	0
 селянських	peasant	0	0	1	0
-стані	condition	0	0	1	0
 курс	course	0	0	1	0
 простір	area	0	0	1	0
 простір	space	0	0	1	0
@@ -7586,7 +7412,6 @@ shippuuden	shipuuden	0	0	1	0
 господарства	economy	0	0	1	0
 авторські	author's	0	0	1	0
 власники	owners	0	0	1	0
-планет	planets	0	0	1	0
 власника	owner	0	0	1	0
 коцюбинський	kotsyubinsky	0	0	1	0
 імператором	emperor	0	0	1	0
@@ -7610,7 +7435,6 @@ shippuuden	shipuuden	0	0	1	0
 марія	mary	0	0	1	0
 мовою	language	0	0	1	0
 продуктів	products	0	0	1	0
-рання	early	0	0	1	0
 підтвердження	confirmation	0	0	1	0
 зовнішніх	exterior	0	0	1	0
 загін	detachment	0	0	1	0
@@ -7619,7 +7443,7 @@ shippuuden	shipuuden	0	0	1	0
 голодомор	famishment	0	0	1	0
 сільське	rural	0	0	1	0
 вислів	was known	0	0	1	0
-висновки	conclusions	0	0	1	0
+ранні	early	0	0	1	0
 досліджує	investigates	0	0	1	0
 вплинув	influenced	0	0	1	0
 психологія	psychology	0	0	1	0
@@ -7653,6 +7477,7 @@ shippuuden	shipuuden	0	0	1	0
 значною	considerable	0	0	1	0
 значною	significant	0	0	1	0
 стверджує	affirms	0	0	1	0
+сінгапур	singapore	0	0	1	0
 уєфа	uefa	0	0	1	0
 переходять	go	0	0	1	0
 переходять	pass	0	0	1	0
@@ -7664,7 +7489,6 @@ shippuuden	shipuuden	0	0	1	0
 селищна	settlement	0	0	1	0
 суспільних	social	0	0	1	0
 зростала	grew	0	0	1	0
-матеріал	material	0	0	1	0
 донецьк	donetsk	0	0	1	0
 функцією	function	0	0	1	0
 легко	easy	0	0	1	0
@@ -7679,10 +7503,9 @@ y	in	0	0	1	0
 мільйони	millions	0	0	1	0
 надалі	further	0	0	1	0
 передають	give	0	0	1	0
-риси	features	0	0	1	0
 атмосферу	atmosphere	0	0	1	0
 літопису	chronicle	0	0	1	0
-риса	line	0	0	1	0
+стані	condition	0	0	1	0
 перевага	victory	0	0	1	0
 березень	march	0	0	1	0
 чернігівського	cernihiv	0	0	1	0
@@ -7690,11 +7513,9 @@ y	in	0	0	1	0
 переваги	advantages	0	0	1	0
 літописі	chronicle	0	0	1	0
 сутність	essence	0	0	1	0
-атмосфері	atmosphere	0	0	1	0
 учасник	participant	0	0	1	0
 виконують	do	0	0	1	0
 виконують	accomplish	0	0	1	0
-гегеля	hegel	0	0	1	0
 далекого	faraway	0	0	1	0
 категоріяобласті	category regions	0	0	1	0
 арш	arsh (name)	1	0	1	0
@@ -7736,14 +7557,14 @@ google	google	0	0	1	0
 північної	northern	0	0	1	0
 францією	france	0	0	1	0
 дух	spirit	0	0	1	0
-софія	sofia	0	0	1	0
+столиці	capital	0	0	1	0
 тече	flows	0	0	1	0
 повязані	bounded	0	0	1	0
 суперечностей	contradictions	0	0	1	0
 кнр	china	0	0	1	0
 налічує	counts	0	0	1	0
 столиця	capital	0	0	1	0
-софії	sofia	0	0	1	0
+столицю	capital	0	0	1	0
 христос	christ	0	0	1	0
 ярослав	yaroslav	0	0	1	0
 повязана	bounded	0	0	1	0
@@ -7788,6 +7609,7 @@ google	google	0	0	1	0
 встановлення	establishment	0	0	1	0
 робота	work	0	0	1	0
 половина	half	0	0	1	0
+посідає	occupies	0	0	1	0
 половини	half	0	0	1	0
 вето	veto	0	0	1	0
 писання	writing	0	0	1	0
@@ -7845,7 +7667,7 @@ google	google	0	0	1	0
 азиди	bloom	1	0	1	0
 азиди	azides	1	1	0	0
 азиди	azide	1	1	0	0
-достатньо	enough	0	0	1	0
+церкві	church	0	0	1	0
 вічне	eternal	0	0	1	0
 пшениці	wheat	0	0	1	0
 роботі	work	0	0	1	0
@@ -7885,7 +7707,6 @@ google	google	0	0	1	0
 газет	newspapers	0	0	1	0
 займенники	pronouns	0	0	1	0
 окрім	except	0	0	1	0
-тенденцій	tendency	0	0	1	0
 абсолютна	absolute	0	0	1	0
 руські	russian	0	0	1	0
 прямих	straight	0	0	1	0
@@ -7897,12 +7718,10 @@ google	google	0	0	1	0
 абсолютно	absolute	0	0	1	0
 різноманітність	diversity	0	0	1	0
 різноманітністю	diversity	0	0	1	0
-декілька	a few	0	0	1	0
 декларація	declaration	0	0	1	0
-дуб	oak	0	0	1	0
+створена	created	0	0	1	0
 популярними	popular	0	0	1	0
 рівнях	levels	0	0	1	0
-херсонський	kherson	0	0	1	0
 долина	valley	0	0	1	0
 мислителі	thinker	0	0	1	0
 мислителі	thinkers	0	0	1	0
@@ -7930,7 +7749,7 @@ google	google	0	0	1	0
 руська	rus	0	0	1	0
 сполучених	united	0	0	1	0
 преси	press	0	0	1	0
-складалися	formed	0	0	1	0
+інтелігенція	intellectuals	0	0	1	0
 певними	confident	0	0	1	0
 інтелігенції	intellectuals	0	0	1	0
 постійні	permanent	0	0	1	0
@@ -8000,7 +7819,6 @@ di	di	0	0	1	0
 відділення	departments	0	0	1	0
 василя	vasilya	0	0	1	0
 василь	vasily	0	0	1	0
-прикладів	examples	0	0	1	0
 низовини	lowlands	0	0	1	0
 склався	formed	0	0	1	0
 ними	them	0	0	1	0
@@ -8075,7 +7893,7 @@ di	di	0	0	1	0
 гірська	mountain	0	0	1	0
 увійшов	entered	0	0	1	0
 гейтс	gates	1	1	0	0
-археологічні	archeological	0	0	1	0
+підлягає	subordinates	0	0	1	0
 словарь	vocabulary	0	0	1	0
 приватна	private	0	0	1	0
 категоріяліберальні	category liberal	0	0	1	0
@@ -8091,7 +7909,6 @@ di	di	0	0	1	0
 знаходимо	find	0	0	1	0
 лондоні	london	0	0	1	0
 нарешті	in the end	0	0	1	0
-ідеології	ideology	0	0	1	0
 крові	blood	0	0	1	0
 причорноморя	near black sea	0	0	1	0
 причорноморя	close to black sea	0	0	1	0
@@ -8218,7 +8035,6 @@ di	di	0	0	1	0
 коцюбинського	kotsyubinskogo	0	0	1	0
 визначаються	fixed	0	0	1	0
 водень	hydrogen	0	0	1	0
-душ	shower	0	0	1	0
 шишкар	copper	1	0	1	0
 шишкар	crossbill	1	1	0	0
 відтворення	creation	0	0	1	0
@@ -8229,7 +8045,6 @@ di	di	0	0	1	0
 акредитації	accreditation	0	0	1	0
 гітлера	hitler	0	0	1	0
 центрі	center	0	0	1	0
-їм	them	0	0	1	0
 їм	they	0	0	1	0
 гетьман	hetman	0	0	1	0
 їй	she	0	0	1	0
@@ -8310,9 +8125,9 @@ di	di	0	0	1	0
 дозвіл	permission	0	0	1	0
 відсутність	absence	0	0	1	0
 поширенням	expansions	0	0	1	0
-назвали	named	0	0	1	0
+назавжди	for ever	0	0	1	0
 законодавства	legislation	0	0	1	0
-ділянки	part	0	0	1	0
+підготовки	preparation	0	0	1	0
 рослини	plants	0	0	1	0
 законодавство	legislation	0	0	1	0
 спів	singings	0	0	1	0
@@ -8357,8 +8172,8 @@ di	di	0	0	1	0
 будинку	house	0	0	1	0
 тексти	texts	0	0	1	0
 варіанті	variants	0	0	1	0
-корану	quran	0	0	1	0
 корану	koran	0	0	1	0
+корану	quran	0	0	1	0
 високий	high	0	0	1	0
 має	mother	0	0	1	0
 високим	high	0	0	1	0
@@ -8374,14 +8189,14 @@ di	di	0	0	1	0
 колекція	collection	0	0	1	0
 є	is	0	0	1	0
 скіфських	scythian	0	0	1	0
-прикраси	ornaments	0	0	1	0
 княгині	princess	0	0	1	0
 широке	wide	0	0	1	0
 кольорова	coloured	0	0	1	0
 широка	wide	0	0	1	0
 широко	wide	0	0	1	0
 старина	old man	0	0	1	0
-встановлює	establishes	0	0	1	0
+повстанців	insurgents	0	0	1	0
+повстанців	rebels	0	0	1	0
 дитинство	childhood	0	0	1	0
 інститут	institute	0	0	1	0
 техніку	technics	0	0	1	0
@@ -8441,7 +8256,6 @@ di	di	0	0	1	0
 виконувати	executed	0	0	1	0
 міська	urban	0	0	1	0
 освітлення	lightning	0	0	1	0
-князів	princes	0	0	1	0
 викликати	create	0	0	1	0
 розпочалася	started	0	0	1	0
 проголосили	declared	0	0	1	0
@@ -8464,14 +8278,14 @@ di	di	0	0	1	0
 футболіст	footballer	0	0	1	0
 переробка	alteration	0	0	1	0
 переробки	alteration	0	0	1	0
-враження	sensation	0	0	1	0
+участю	with	0	0	1	0
+участю	participation	0	0	1	0
 участь	part	0	0	1	0
 участь	partnership	0	0	1	0
 давати	give	0	0	1	0
 договором	agreement	0	0	1	0
 договором	treaty	0	0	1	0
 строком	term	0	0	1	0
-двома	two	0	0	1	0
 проводом	leadership	0	0	1	0
 участі	part	0	0	1	0
 участі	participation	0	0	1	0
@@ -8611,7 +8425,6 @@ xvii	17 th	0	0	1	0
 щиті	shield	0	0	1	0
 нар	popular	0	0	1	0
 нас	us	0	0	1	0
-матеріальних	material	0	0	1	0
 приділяв	gived	0	0	1	0
 повідомляє	informes	0	0	1	0
 наш	our	0	0	1	0
@@ -8631,10 +8444,8 @@ xvii	17 th	0	0	1	0
 трикутник	triangle	0	0	1	0
 віднести	carry	0	0	1	0
 першими	first	0	0	1	0
-центральний	central	0	0	1	0
 коран	the koran	0	0	1	0
 новою	new	0	0	1	0
-цю	this	0	0	1	0
 ця	this	0	0	1	0
 водопостачання	water supply	0	0	1	0
 розробив	elaborated	0	0	1	0
@@ -8671,7 +8482,8 @@ xvii	17 th	0	0	1	0
 організація	organization	0	0	1	0
 цк	central committee	0	0	1	0
 сталін	stalin	0	0	1	0
-позитивно	positively	0	0	1	0
+самоврядування	self-government	0	0	1	0
+самоврядування	self-management	0	0	1	0
 організації	organization	0	0	1	0
 stadt	village	0	0	1	0
 життя	life	0	0	1	0
@@ -8712,7 +8524,6 @@ my	my	0	0	1	0
 західна	western	0	0	1	0
 холодний	cold	0	0	1	0
 запорізька	zaporozhye	0	0	1	0
-враховуючи	considering	0	0	1	0
 князем	prince	0	0	1	0
 маланюк	malaniuk	0	0	1	0
 наріччя	dialect	0	0	1	0
@@ -8768,7 +8579,6 @@ over	over	0	0	1	0
 вигляд	appearance	0	0	1	0
 волосся	hair	0	0	1	0
 грудня	december	0	0	1	0
-величезних	tremendous	0	0	1	0
 величезних	huge	0	0	1	0
 громадські	social	0	0	1	0
 світом	world	0	0	1	0
@@ -8796,7 +8606,6 @@ over	over	0	0	1	0
 храмів	temples	0	0	1	0
 цивілізацій	civilizations	0	0	1	0
 місцевим	local	0	0	1	0
-середині	middle	0	0	1	0
 місцевий	local	0	0	1	0
 місцевих	local	0	0	1	0
 цивілізація	civilization	0	0	1	0
@@ -8827,7 +8636,7 @@ over	over	0	0	1	0
 лівобережної	left bank	0	0	1	0
 лівобережної	situated on the left bank	0	0	1	0
 екологічних	ecological	0	0	1	0
-однакові	identical	0	0	1	0
+складалася	was formed	0	0	1	0
 інституцій	institutions	0	0	1	0
 караван-сарай	mary	1	0	1	0
 караван-сарай	caravanserai	1	1	0	0
@@ -8835,9 +8644,7 @@ over	over	0	0	1	0
 трагедії	tragedy	0	0	1	0
 цінах	prices	0	0	1	0
 можливі	possible	0	0	1	0
-мов	as	0	0	1	0
 мов	language	0	0	1	0
-критик	critic	0	0	1	0
 бурмотушки	burmotushky	1	0	1	0
 бурмотушки	genre	1	0	1	0
 бурмотушки	jacamar	1	1	0	0
@@ -8920,7 +8727,6 @@ over	over	0	0	1	0
 кобзар	cobsar	0	0	1	0
 radio	radio	0	0	1	0
 тварини	animal	0	0	1	0
-експерименти	experiments	0	0	1	0
 обличчя	face	0	0	1	0
 суспільстві	society	0	0	1	0
 трамвай	tram	0	0	1	0
@@ -8942,7 +8748,6 @@ radio	radio	0	0	1	0
 суспільство	society	0	0	1	0
 експерименту	experiment	0	0	1	0
 однак	but	0	0	1	0
-шляхом	way	0	0	1	0
 процедури	procedure	0	0	1	0
 свят	hole	0	0	1	0
 зон	zones	0	0	1	0
@@ -8968,7 +8773,6 @@ radio	radio	0	0	1	0
 юрія	yuri	0	0	1	0
 рухаються	set	0	0	1	0
 прози	prose	0	0	1	0
-стрільців	gunners	0	0	1	0
 сполучені	united	0	0	1	0
 юрій	yuri	0	0	1	0
 західною	western	0	0	1	0
@@ -8984,13 +8788,13 @@ radio	radio	0	0	1	0
 виступав	spoke	0	0	1	0
 зазначає	mentions	0	0	1	0
 зазначає	notes	0	0	1	0
+російські	russian	0	0	1	0
 зразком	model	0	0	1	0
 американської	american	0	0	1	0
 включала	included	0	0	1	0
 виявили	showed	0	0	1	0
 поховали	hid	0	0	1	0
 духу	spirit	0	0	1	0
-розумом	mind	0	0	1	0
 сторіч	centuries	0	0	1	0
 картахена	cartagena	1	1	0	0
 речення	phrase	1	0	1	0
@@ -8998,7 +8802,6 @@ radio	radio	0	0	1	0
 речення	exact	1	0	1	0
 речення	of sentence	1	0	1	0
 речення	sentence	1	1	0	0
-характерно	typical	0	0	1	0
 характерно	characteristically	0	0	1	0
 живих	live	0	0	1	0
 біотит	go	1	0	1	0
@@ -9027,10 +8830,8 @@ xxi	xxi	0	0	1	0
 основами	bases	0	0	1	0
 сторін	sides	0	0	1	0
 збігається	runs together	0	0	1	0
-збігається	match	0	0	1	0
 n	n.	0	0	1	0
 зелені	green	0	0	1	0
-духа	spirit	0	0	1	0
 осередків	central	0	0	1	0
 сході	east	0	0	1	0
 олега	oleg	0	0	1	0
@@ -9074,7 +8875,6 @@ n	n.	0	0	1	0
 смертності	mortality	0	0	1	0
 спілки	union	0	0	1	0
 форм	forms	0	0	1	0
-категоріякраїни	category states	0	0	1	0
 полтавщині	poltava	0	0	1	0
 успіху	success	0	0	1	0
 види	kinds	0	0	1	0
@@ -9100,6 +8900,7 @@ n	n.	0	0	1	0
 галицький	galician	0	0	1	0
 фонд	fund	0	0	1	0
 естетичні	aesthetic	0	0	1	0
+прикладом	example	0	0	1	0
 туберкульоз	tuberculosis	0	0	1	0
 відсоток	per cent	0	0	1	0
 обліку	image	0	0	1	0
@@ -9143,7 +8944,6 @@ n	n.	0	0	1	0
 палестра	palaestra	1	1	0	0
 палестра	music	1	0	1	0
 південної	southern	0	0	1	0
-викладання	teaching	0	0	1	0
 діяв	acts	0	0	1	0
 неможливо	impossibly	0	0	1	0
 ставка	stake	0	0	1	0
@@ -9155,7 +8955,7 @@ n	n.	0	0	1	0
 ї	th	0	0	1	0
 епосу	epos	0	0	1	0
 срібло	silver	0	0	1	0
-відігравали	played	0	0	1	0
+давали	give	0	0	1	0
 день	day	0	0	1	0
 доводить	lead	0	0	1	0
 кіровограда	kirovograd	0	0	1	0
@@ -9171,7 +8971,6 @@ n	n.	0	0	1	0
 хоча	just	0	0	1	0
 януковича	yanukovich	0	0	1	0
 сучасними	modern	0	0	1	0
-сучасними	contemporary	0	0	1	0
 хоче	wants	0	0	1	0
 розвинені	developed	0	0	1	0
 критика	criticism	0	0	1	0
@@ -9181,7 +8980,6 @@ n	n.	0	0	1	0
 виявлено	manifested	0	0	1	0
 країною	country	0	0	1	0
 законами	laws	0	0	1	0
-канал	channel	0	0	1	0
 ісуса	jesus	0	0	1	0
 звідки	where from	0	0	1	0
 галич	galich	0	0	1	0
@@ -9194,7 +8992,7 @@ n	n.	0	0	1	0
 споріднені	binded	0	0	1	0
 вмерла	died	0	0	1	0
 популярна	popular	0	0	1	0
-дворі	yards	0	0	1	0
+залишилися	left	0	0	1	0
 іван	ivan	0	0	1	0
 репресії	repressions	0	0	1	0
 їхніх	their	0	0	1	0
@@ -9232,7 +9030,6 @@ na	at	0	0	1	0
 ват	open joint stock company	0	0	1	0
 віршів	poems	0	0	1	0
 віршів	poetry	0	0	1	0
-колишньої	the former	0	0	1	0
 колишньої	previous	0	0	1	0
 поемах	poems	0	0	1	0
 виявлення	discovery	0	0	1	0
@@ -9241,7 +9038,6 @@ na	at	0	0	1	0
 основними	basic	0	0	1	0
 регіонів	regions	0	0	1	0
 казок	tales	0	0	1	0
-японського	japanese	0	0	1	0
 народний	popular	0	0	1	0
 народним	national	0	0	1	0
 народним	people	0	0	1	0
@@ -9249,7 +9045,6 @@ na	at	0	0	1	0
 залучення	attraction	0	0	1	0
 павлович	pavlovich	0	0	1	0
 павлович	pavlovych	0	0	1	0
-білої	white	0	0	1	0
 наполеона	napoleon	0	0	1	0
 вважати	thinks	0	0	1	0
 будинок	house	0	0	1	0
@@ -9307,10 +9102,9 @@ na	at	0	0	1	0
 своєрідні	original	0	0	1	0
 білка	squirrel	0	0	1	0
 запис	recording	0	0	1	0
-посідає	occupies	0	0	1	0
+педагог	teacher	0	0	1	0
 ресурсів	resources	0	0	1	0
 появою	appearance	0	0	1	0
-визначає	determines	0	0	1	0
 революційних	revolutionary	0	0	1	0
 усім	all	0	0	1	0
 переселення	transmigration	0	0	1	0
@@ -9327,14 +9121,12 @@ na	at	0	0	1	0
 рокнролу	rock-and-roll	0	0	1	0
 рокнролу	rock-n-roll	0	0	1	0
 marketing	marketing	0	0	1	1
-сезон	season	0	0	1	0
 державою	state	0	0	1	0
 підтримки	support	0	0	1	0
-луї	louis	0	0	1	0
+казка	tale	0	0	1	0
 казки	tales	0	0	1	0
 світогляду	conception	0	0	1	0
-сучасному	contemporary	0	0	1	0
-багатий	rich	0	0	1	0
+смерті	death	0	0	1	0
 династія	dynasty	0	0	1	0
 іспанської	spanish	0	0	1	0
 призвів	led	0	0	1	0
@@ -9358,25 +9150,21 @@ marketing	marketing	0	0	1	1
 розташовується	placed	0	0	1	0
 певного	confident	0	0	1	0
 функціонування	functioning	0	0	1	0
-першому	first	0	0	1	0
 латинської	latin	0	0	1	0
 латинською	latin	0	0	1	0
 отримало	got	0	0	1	0
 кінцевого	end	0	0	1	0
 кінцевого	final	0	0	1	0
 отримали	got	0	0	1	0
-давали	give	0	0	1	0
 натомість	in place	0	0	1	0
 отримала	received	0	0	1	0
 арістотель	aristotle	0	0	1	0
 базових	base	0	0	1	0
 генерального	general	0	0	1	0
 процесу	process	0	0	1	0
-стародавніх	ancient	0	0	1	0
 височини	height	0	0	1	0
 своїх	his	0	0	1	0
 указом	order	0	0	1	0
-показано	showed	0	0	1	0
 помірно	moderate	0	0	1	0
 залягають	lie down	0	0	1	0
 областями	regions	0	0	1	0
@@ -9392,7 +9180,6 @@ marketing	marketing	0	0	1	1
 затока	inflow	0	0	1	0
 відсутності	absence	0	0	1	0
 затоки	bay	0	0	1	0
-африки	africa	0	0	1	0
 комунальне	communal	0	0	1	0
 африка	africa	0	0	1	0
 будівельні	building	0	0	1	0
@@ -9438,7 +9225,7 @@ marketing	marketing	0	0	1	1
 основ	bases	0	0	1	0
 важливими	important	0	0	1	0
 наказав	ordered	0	0	1	0
-працював	worked	0	0	1	0
+проходили	passed	0	0	1	0
 реальний	real	0	0	1	0
 музичнодраматичний	musical-dramatic	0	0	1	0
 музичнодраматичний	musical-drama	0	0	1	0
@@ -9501,9 +9288,7 @@ marketing	marketing	0	0	1	1
 наступний	following	0	0	1	0
 наступник	successor	0	0	1	0
 наступним	following	0	0	1	0
-усрр	ussr	0	0	1	0
 злочин	crimes	0	0	1	0
-злочин	crime	0	0	1	0
 ий	th	0	0	1	0
 поглядів	looks	0	0	1	0
 обговорення	discussion	0	0	1	0
@@ -9536,7 +9321,7 @@ marketing	marketing	0	0	1	1
 набувають	obtain	0	0	1	0
 их	th	0	0	1	0
 кожна	every	0	0	1	0
-спостерігати	observe	0	0	1	0
+наступних	following	0	0	1	0
 локальних	local	0	0	1	0
 властивостями	properties	0	0	1	0
 директора	director	0	0	1	0
@@ -9547,7 +9332,6 @@ marketing	marketing	0	0	1	1
 динаміки	dynamics	0	0	1	0
 війнах	wars	0	0	1	0
 живопис	painting	0	0	1	0
-ющенко	yushchenko	0	0	1	0
 динаміка	dynamics	0	0	1	0
 представником	representative	0	0	1	0
 тропічних	tropical	0	0	1	0
@@ -9563,7 +9347,6 @@ marketing	marketing	0	0	1	1
 уникнути	avoid	0	0	1	0
 захоплення	rapture	0	0	1	0
 захоплення	capture	0	0	1	0
-реактора	reactor	0	0	1	0
 мовах	language	0	0	1	0
 регіон	region	0	0	1	0
 динаміку	dynamics	0	0	1	0
@@ -9581,7 +9364,7 @@ marketing	marketing	0	0	1	1
 працях	works	0	0	1	0
 воду	water	0	0	1	0
 славиться	famous	0	0	1	0
-залишилися	left	0	0	1	0
+дворі	yards	0	0	1	0
 повним	full	0	0	1	0
 сьогодні	today	0	0	1	0
 статистичні	statistical	0	0	1	0
@@ -9687,7 +9470,7 @@ marketing	marketing	0	0	1	1
 десь	somewhere	0	0	1	0
 продуктивних	productive	0	0	1	0
 почуттів	heard	0	0	1	0
-австралії	australia	0	0	1	0
+виживання	survival	0	0	1	0
 залози	gland	0	0	1	0
 сказано	said	0	0	1	0
 друзів	friends	0	0	1	0
@@ -9696,7 +9479,7 @@ marketing	marketing	0	0	1	1
 зявились	appeared	0	0	1	0
 лаври	laurels	0	0	1	0
 лаври	lavra	0	0	1	0
-розташовані	located	0	0	1	0
+газів	gases	0	0	1	0
 свідомості	consciousness	0	0	1	0
 цивільного	civil	0	0	1	0
 законодавчої	legislative	0	0	1	0
@@ -9744,8 +9527,6 @@ marketing	marketing	0	0	1	1
 небезпеки	dangers	0	0	1	0
 футбол	football	0	0	1	0
 електростанції	electric power station	0	0	1	0
-електростанції	electric power	0	0	1	0
-лісів	forests	0	0	1	0
 майбутній	future	0	0	1	0
 розрив	rupture	0	0	1	0
 років	years	0	0	1	0
@@ -9760,8 +9541,7 @@ marketing	marketing	0	0	1	1
 фонду	fund	0	0	1	0
 загибель	death	0	0	1	0
 куби	cuba	0	0	1	0
-частку	share	0	0	1	0
-російські	russian	0	0	1	0
+розробка	elaboration	0	0	1	0
 конституційний	constitutional	0	0	1	0
 категоріявійни	category of war	0	0	1	0
 категоріявійни	category wars	0	0	1	0
@@ -9769,7 +9549,11 @@ marketing	marketing	0	0	1	1
 одна	one	0	0	1	0
 діалектика	dialectics	0	0	1	0
 російську	russian	0	0	1	0
-одне	one	0	0	1	0
+бенефіція	beneficiary	1	0	1	0
+бенефіція	necessities	1	0	1	0
+бенефіція	needs	1	0	1	0
+бенефіція	benefice	1	1	0	0
+бенефіція	beneficium	1	1	0	0
 призвело	caused	0	0	1	0
 призвело	lead	0	0	1	0
 призводить	results	0	0	1	0
@@ -9812,7 +9596,6 @@ marketing	marketing	0	0	1	1
 роди	genus	0	0	1	0
 дусі	spirit	0	0	1	0
 полків	regiments	0	0	1	0
-гетьмана	hetman	0	0	1	0
 громада	community	0	0	1	0
 громадського	public	0	0	1	0
 встановлено	established	0	0	1	0
@@ -9850,9 +9633,7 @@ marketing	marketing	0	0	1	1
 присвячений	dedicated	0	0	1	0
 усьому	all	0	0	1	0
 соціалістичний	socialist	0	0	1	0
-потреба	necessity	0	0	1	0
 котре	which	0	0	1	0
-газів	gases	0	0	1	0
 шляхами	roads	0	0	1	0
 котра	who	0	0	1	0
 громаду	community	0	0	1	0
@@ -9874,7 +9655,6 @@ marketing	marketing	0	0	1	1
 відображають	reflect	0	0	1	0
 відображають	show	0	0	1	0
 початки	elements	0	0	1	0
-початки	beginnings	0	0	1	0
 погляду	look	0	0	1	0
 зміні	winter	0	0	1	0
 зміні	change	0	0	1	0
@@ -9890,7 +9670,6 @@ marketing	marketing	0	0	1	1
 збірки	collection	0	0	1	0
 зміни	change	0	0	1	0
 збірку	collection	0	0	1	0
-миколаївська	nicholas	0	0	1	0
 забруднення	pollution	0	0	1	0
 зміна	change	0	0	1	0
 займаються	are busy	0	0	1	0
@@ -9902,11 +9681,9 @@ marketing	marketing	0	0	1	1
 початку	beginning	0	0	1	0
 водночас	simultaneously	0	0	1	0
 громадянське	civil	0	0	1	0
-громадянська	civil	0	0	1	0
 представлення	presentation	0	0	1	0
 феодальної	feudal	0	0	1	0
 xvixvii	xvi-xvii	0	0	1	0
-міністр	minister	0	0	1	0
 залізо	iron	0	0	1	0
 літер	letters	0	0	1	0
 обсягом	volume	0	0	1	0
@@ -9963,7 +9740,6 @@ xvixvii	xvi-xvii	0	0	1	0
 епохи	epoch	0	0	1	0
 власні	proper	0	0	1	0
 власні	own	0	0	1	0
-основі	bases	0	0	1	0
 епоха	epoch	0	0	1	0
 антон	anton	0	0	1	0
 дніпрі	dnipro	0	0	1	0
@@ -9978,7 +9754,6 @@ xvixvii	xvi-xvii	0	0	1	0
 основи	bases	0	0	1	0
 характеристика	description	0	0	1	0
 графіка	graphic	0	0	1	0
-графіка	graphics	0	0	1	0
 дніпра	dnepr	0	0	1	0
 дніпро	dnepr	0	0	1	0
 дніпро	dnipro	0	0	1	0
@@ -10050,13 +9825,11 @@ sony	sony	0	0	1	0
 заклали	put	0	0	1	0
 носіями	bearers	0	0	1	0
 рівнів	levels	0	0	1	0
-абетки	alphabet	0	0	1	0
 відмінностей	differences	0	0	1	0
 стратегічних	strategical	0	0	1	0
 абетка	alphabet	0	0	1	0
 микита	mikita	0	0	1	0
 микита	nikita	0	0	1	0
-проведенні	passing	0	0	1	0
 лондон	london	0	0	1	0
 теорій	theories	0	0	1	0
 трьома	three	0	0	1	0
@@ -10078,7 +9851,7 @@ sony	sony	0	0	1	0
 теорія	theory	0	0	1	0
 теорію	theory	0	0	1	0
 повного	full	0	0	1	0
-жіночої	female	0	0	1	0
+так	so	0	0	1	0
 там	there	0	0	1	0
 переміщення	movement	0	0	1	0
 життєвого	life	0	0	1	0
@@ -10096,7 +9869,7 @@ sony	sony	0	0	1	0
 взаємини	interrelation	0	0	1	0
 частині	part	0	0	1	0
 каспійського	caspian	0	0	1	0
-навіть	even	0	0	1	0
+проживає	live	0	0	1	0
 готовий	ready	0	0	1	0
 частину	part	0	0	1	0
 поєднує	combines	0	0	1	0
@@ -10111,7 +9884,6 @@ sony	sony	0	0	1	0
 довгий	long	0	0	1	0
 володимир	volodimyr	0	0	1	0
 передмова	preamble	0	0	1	0
-передмова	preface	0	0	1	0
 даній	this	0	0	1	0
 двоє	two	0	0	1	0
 племя	tribe	0	0	1	0
@@ -10139,15 +9911,13 @@ v	v	0	0	1	0
 категоріяреспубліки	category republics	0	0	1	0
 потік	flow	0	0	1	0
 поліції	police	0	0	1	0
-коефіцієнт	coefficient	0	0	1	0
 деталей	details	0	0	1	0
 грецький	greek	0	0	1	0
-іншими	other	0	0	1	0
 запорізького	zaporozhye	0	0	1	0
 виразно	expressively	0	0	1	0
 граматичні	grammatical	0	0	1	0
 харківський	kharkiv	0	0	1	0
-відкриваються	opened	0	0	1	0
+наступні	future	0	0	1	0
 механіка	mechanics	0	0	1	0
 сином	son	0	0	1	0
 й	and	0	0	1	0
@@ -10197,13 +9967,11 @@ v	v	0	0	1	0
 індонезія	indonesia	0	0	1	0
 європейську	european	0	0	1	0
 окремим	individual	0	0	1	0
-про	of	0	0	1	0
 при	at	0	0	1	0
 окремий	individual	0	0	1	0
 європейські	european	0	0	1	0
 правителя	governor	0	0	1	0
-забезпечує	ensures	0	0	1	0
-забезпечує	provides	0	0	1	0
+правитель	governors	0	0	1	0
 ліва	left	0	0	1	0
 обраний	elected	0	0	1	0
 діяло	operated	0	0	1	0
@@ -10219,7 +9987,6 @@ v	v	0	0	1	0
 ґрунти	soil	0	0	1	0
 режим	regime	0	0	1	0
 квіти	flowers	0	0	1	0
-словаччини	slovakia	0	0	1	0
 компанії	company	0	0	1	0
 конкретні	concrete	0	0	1	0
 культурної	cultural	0	0	1	0
@@ -10240,7 +10007,6 @@ v	v	0	0	1	0
 виділяється	stands out	0	0	1	0
 єдиним	unitary	0	0	1	0
 месопотамії	mesopotamia	0	0	1	0
-назвах	names	0	0	1	0
 тіло	body	0	0	1	0
 клітора	clitoris	0	0	1	0
 друковані	printed	0	0	1	0
@@ -10264,7 +10030,6 @@ v	v	0	0	1	0
 обох	both	0	0	1	0
 текстів	texts	0	0	1	0
 стороною	side	0	0	1	0
-десять	ten	0	0	1	0
 князі	princes	0	0	1	0
 пустелі	desert	0	0	1	0
 собори	cathedral	0	0	1	0
@@ -10289,7 +10054,6 @@ v	v	0	0	1	0
 кулі	globe	0	0	1	0
 галереї	gallery	0	0	1	0
 галерея	gallery	0	0	1	0
-уявлень	concepts	0	0	1	0
 етичні	ethical	0	0	1	0
 періодичних	periodical	0	0	1	0
 уривки	fragments	0	0	1	0
@@ -10321,7 +10085,6 @@ v	v	0	0	1	0
 бактерії	catholic	1	0	1	0
 бактерії	bacteriums	1	0	1	0
 бактерії	bacteria	1	1	1	0
-міського	city	0	0	1	0
 міського	domestic	0	0	1	0
 образ	image	0	0	1	0
 річки	river	0	0	1	0
@@ -10331,7 +10094,6 @@ v	v	0	0	1	0
 фортецю	fortress	0	0	1	0
 аспект	aspect	0	0	1	0
 складний	well-knit	0	0	1	0
-лісостепу	forest and steppe regions	0	0	1	0
 кухні	kitchen	0	0	1	0
 наступна	future	0	0	1	0
 складним	well-knilt	0	0	1	0
@@ -10364,7 +10126,6 @@ v	v	0	0	1	0
 категоріярічки	category rivers	0	0	1	0
 памятки	monuments	0	0	1	0
 гуманітарних	humanitarian	0	0	1	0
-нідерландах	netherlands	0	0	1	0
 самців	stag	0	0	1	0
 монастирів	cloisters	0	0	1	0
 відображення	image	0	0	1	0
@@ -10372,7 +10133,7 @@ v	v	0	0	1	0
 конкретного	concrete	0	0	1	0
 французьких	french	0	0	1	0
 здобуття	obtaining	0	0	1	0
-проживання	residence	0	0	1	0
+народився	born	0	0	1	0
 положення	situation	0	0	1	0
 положення	position	0	0	1	0
 треба	it is necessary	0	0	1	0
@@ -10390,8 +10151,7 @@ v	v	0	0	1	0
 інша	other	0	0	1	0
 аж	till	0	0	1	0
 творчий	creative	0	0	1	0
-хіх	xix	0	0	1	0
-хіх	19th	0	0	1	0
+луї	louis	0	0	1	0
 північного	northern	0	0	1	0
 паралелограм	audience	1	0	1	0
 паралелограм	parallelogram	1	1	0	0
@@ -10427,7 +10187,6 @@ v	v	0	0	1	0
 досягається	reached	0	0	1	0
 самої	his	0	0	1	0
 c	c	0	0	1	0
-c	c.	0	0	1	0
 витоки	sources	0	0	1	0
 журналіст	journalist	0	0	1	0
 червоної	red	0	0	1	0
@@ -10461,7 +10220,6 @@ c	c.	0	0	1	0
 pp	year	0	0	1	0
 java	јava	0	0	1	0
 картоплі	potatoes	0	0	1	0
-поле	field	0	0	1	0
 полк	regiment	0	0	1	0
 px	pixels	0	0	1	0
 відповідний	appropriated	0	0	1	0
@@ -10481,9 +10239,8 @@ px	pixels	0	0	1	0
 характер	character	0	0	1	0
 прийшла	came	0	0	1	0
 полі	field	0	0	1	0
-прийшли	came	0	0	1	0
+харківської	kharkiv	0	0	1	0
 міської	urban	0	0	1	0
-міської	city	0	0	1	0
 відповідних	suitable	0	0	1	0
 найважливішим	the most important	0	0	1	0
 алгоритми	algorithm	0	0	1	0
@@ -10504,7 +10261,6 @@ px	pixels	0	0	1	0
 забезпечення	provision	0	0	1	0
 художня	of art	0	0	1	0
 дні	days	0	0	1	0
-піфагор	pythagoras	0	0	1	0
 березня	march	0	0	1	0
 визнав	found	0	0	1	0
 визнав	recognized	0	0	1	0
@@ -10513,9 +10269,7 @@ px	pixels	0	0	1	0
 проходять	learn	0	0	1	0
 рейчел	rachel	0	0	1	0
 вступає	enters	0	0	1	0
-стінки	walls	0	0	1	0
 солей	salt	0	0	1	0
-віровчення	religious doctrine	0	0	1	0
 захід	west	0	0	1	0
 михайлом	mihailo	0	0	1	0
 внутрішній	internal	0	0	1	0
@@ -10545,15 +10299,13 @@ px	pixels	0	0	1	0
 царів	tsar	0	0	1	0
 німців	germans	0	0	1	0
 внутрішніх	internal	0	0	1	0
-впливом	influence	0	0	1	0
+навесні	in spring	0	0	1	0
 воллес	wallace	1	1	0	0
 характерним	characteristic	0	0	1	0
 ринках	markets	0	0	1	0
-ринках	market	0	0	1	0
 жив	lived	0	0	1	0
 галицька	galician	0	0	1	0
 третього	third	0	0	1	0
-київську	kyiv	0	0	1	0
 провідне	leading	0	0	1	0
 провідна	leading	0	0	1	0
 втратили	lost	0	0	1	0
@@ -10576,7 +10328,6 @@ px	pixels	0	0	1	0
 розроблений	elaborated	0	0	1	0
 гру	game	0	0	1	0
 одним	one	0	0	1	0
-чернігівський	chernihiv	0	0	1	0
 цікаві	interesting	0	0	1	0
 районами	regions	0	0	1	0
 ремесел	trades	0	0	1	0
@@ -10589,7 +10340,6 @@ px	pixels	0	0	1	0
 засновником	founder	0	0	1	0
 статті	articles	0	0	1	0
 київська	kiev	0	0	1	0
-понять	ideas	0	0	1	0
 особливого	special	0	0	1	0
 київське	kiev	0	0	1	0
 матеріальної	material	0	0	1	0
@@ -10653,10 +10403,8 @@ px	pixels	0	0	1	0
 буддизму	buddhism	0	0	1	0
 чисельність	quantity	0	0	1	0
 чисельністю	quantity	0	0	1	0
-панує	rules	0	0	1	0
-торговельні	commercial	0	0	1	0
+філософський	philosophical	0	0	1	0
 торговельні	trade	0	0	1	0
-місці	month	0	0	1	0
 японська	japanese	0	0	1	0
 банк	bank	0	0	1	0
 рима	rome	0	0	1	0
@@ -10668,7 +10416,7 @@ px	pixels	0	0	1	0
 останніх	last	0	0	1	0
 силою	force	0	0	1	0
 якому	which	0	0	1	0
-аміаку	ammonia	0	0	1	0
+вівтар	altar	0	0	1	0
 вінницька	vinnytsia	0	0	1	0
 конфлікту	conflict	0	0	1	0
 римського	roman	0	0	1	0
@@ -10678,7 +10426,6 @@ px	pixels	0	0	1	0
 маренові	influential	1	0	1	0
 маренові	dreams	1	0	1	0
 маренові	rubiaceae	1	1	0	0
-залежить	depends	0	0	1	0
 військо	army	0	0	1	0
 правопису	orthography	0	0	1	0
 волинь	volyn	0	0	1	0
@@ -10690,7 +10437,7 @@ px	pixels	0	0	1	0
 літа	summers	0	0	1	0
 крайньому	extreme	0	0	1	0
 фігур	figures	0	0	1	0
-світлі	light	0	0	1	0
+імперії	empire	0	0	1	0
 волині	volyn	0	0	1	0
 добрі	good	0	0	1	0
 літо	summer	0	0	1	0
@@ -10704,8 +10451,7 @@ px	pixels	0	0	1	0
 зими	winter	0	0	1	0
 коливань	vibrations	0	0	1	0
 склалася	formed	0	0	1	0
-воріт	gate	0	0	1	0
-християнстві	christianity	0	0	1	0
+підземні	underground	0	0	1	0
 проживають	live	0	0	1	0
 особа	person	0	0	1	0
 марсу	mars	0	0	1	0
@@ -10727,7 +10473,7 @@ px	pixels	0	0	1	0
 занять	occupate	0	0	1	0
 складної	well-knilt	0	0	1	0
 квітень	april	0	0	1	0
-природі	nature	0	0	1	0
+регбі	rugby	0	0	1	0
 км	km	0	0	1	0
 кн	volume	0	0	1	0
 кн	book	0	0	1	0
@@ -10739,7 +10485,6 @@ px	pixels	0	0	1	0
 кв	square	0	0	1	0
 сусідніми	neighbouring	0	0	1	0
 прислівники	adverbs	0	0	1	0
-прислівники	adverb	0	0	1	0
 різновидом	type	0	0	1	0
 юлія	yulia	0	0	1	0
 померлих	dead	0	0	1	0
@@ -10765,11 +10510,10 @@ px	pixels	0	0	1	0
 розглядаються	are considered	0	0	1	0
 флоренція	florence	0	0	1	0
 палаці	palace	0	0	1	0
-політичних	political	0	0	1	0
+сталь	steel	0	0	1	0
 континентальний	continental	0	0	1	0
 бульб	bulbar	0	0	1	0
 сталі	steel	0	0	1	0
-електрони	electronic	0	0	1	0
 палацу	palace	0	0	1	0
 мешканців	inhabitants	0	0	1	0
 спорудження	construction	0	0	1	0
@@ -10835,8 +10579,7 @@ px|	pixels	0	0	1	0
 створені	created	0	0	1	0
 технічного	technical	0	0	1	0
 сільському	rural	0	0	1	0
-участю	with	0	0	1	0
-участю	participation	0	0	1	0
+душ	shower	0	0	1	0
 декларації	declaration	0	0	1	0
 ядро	core	0	0	1	0
 тенденція	tendency	0	0	1	0
@@ -10872,8 +10615,8 @@ px|	pixels	0	0	1	0
 досі	dock	0	0	1	0
 досі	till now	0	0	1	0
 земноводні	amphibia	0	0	1	0
-створене	created	0	0	1	0
-створена	created	0	0	1	0
+тенденцій	tendency	0	0	1	0
+дуб	oak	0	0	1	0
 майбутньому	future	0	0	1	0
 практика	practice	0	0	1	0
 концерти	concerts	0	0	1	0
@@ -10917,12 +10660,10 @@ united	об'єднаний	0	0	1	0
 самих	the very	0	0	1	0
 зате	on the other hand	0	0	1	0
 червоних	red	0	0	1	0
-згідно	according to	0	0	1	0
 згідно	according	0	0	1	0
 собою	him	0	0	1	0
 насамперед	first of all	0	0	1	0
 надзвичайних	extraordinary	0	0	1	0
-облігації	bonds	0	0	1	0
 заселені	populated	0	0	1	0
 македонського	macedonian	0	0	1	0
 позначає	designates	0	0	1	0
@@ -10934,7 +10675,7 @@ united	об'єднаний	0	0	1	0
 торговий	commercial	0	0	1	0
 підготовка	preparation	0	0	1	0
 львові	lviv	0	0	1	0
-підготовки	preparation	0	0	1	0
+ділянки	part	0	0	1	0
 сотні	hundred	0	0	1	0
 називає	call	0	0	1	0
 підготовку	preparation	0	0	1	0
@@ -10961,7 +10702,6 @@ united	об'єднаний	0	0	1	0
 впадає	falls	0	0	1	0
 самим	own	0	0	1	0
 самим	himself	0	0	1	0
-вінницької	vinnitsya	0	0	1	0
 похідні	march	0	0	1	0
 посад	settlement	0	0	1	0
 італія	italy	0	0	1	0
@@ -10988,7 +10728,7 @@ united	об'єднаний	0	0	1	0
 християн	christian	0	0	1	0
 християн	christians	0	0	1	0
 християнська	christian	0	0	1	0
-структуру	structure	0	0	1	0
+множина	plural	0	0	1	0
 створенням	creating	0	0	1	0
 можливий	possible	0	0	1	0
 можливим	possible	0	0	1	0
@@ -11000,7 +10740,6 @@ united	об'єднаний	0	0	1	0
 виданні	publicated	0	0	1	0
 науку	science	0	0	1	0
 видання	edition	0	0	1	0
-видання	publication	0	0	1	0
 критський	cretan	0	0	1	0
 для	for	0	0	1	0
 самостійної	independent	0	0	1	0
@@ -11050,14 +10789,12 @@ isbn	isbn	0	0	1	0
 україни	ukraine	0	0	1	0
 ложі	lodge	0	0	1	0
 наруто	naruto	0	0	1	0
-шляху	road	0	0	1	0
 імператор	emperor	0	0	1	0
 розвинених	developed	0	0	1	0
 вилучення	exclusion	0	0	1	0
 ганна	ganna	0	0	1	0
 географічного	geographic	0	0	1	0
 вночі	in the night	0	0	1	0
-досягти	reach	0	0	1	0
 індекс	index	0	0	1	0
 індекс	postal code	0	0	1	0
 розвинений	developed	0	0	1	0
@@ -11087,12 +10824,10 @@ isbn	isbn	0	0	1	0
 річці	river	0	0	1	0
 проблема	problem	0	0	1	0
 обєктів	objects	0	0	1	0
-діяти	act	0	0	1	0
 різко	sharply	0	0	1	0
 художників	artists	0	0	1	0
 використовують	used	0	0	1	0
-народжуваність	birth rate	0	0	1	0
-народжуваність	natality	0	0	1	0
+північнозахідній	northwest	0	0	1	0
 змії	serpents	0	0	1	0
 змії	serpent	0	0	1	0
 канаді	canada	0	0	1	0
@@ -11124,7 +10859,7 @@ isbn	isbn	0	0	1	0
 біотехнологія	biotecnology	0	0	1	0
 проблему	problem	0	0	1	0
 проблему	issue	0	0	1	0
-офіційному	official	0	0	1	0
+фронті	front	0	0	1	0
 запрошення	invitation	0	0	1	0
 повісті	story	0	0	1	0
 матриці	matrix	0	0	1	0
@@ -11178,7 +10913,6 @@ isbn	isbn	0	0	1	0
 православна	orthodox	0	0	1	0
 економічному	economic	0	0	1	0
 могутні	strong	0	0	1	0
-могутні	powerful	0	0	1	0
 же	same	0	0	1	0
 митця	artist	0	0	1	0
 дисциплін	disciplines	0	0	1	0
@@ -11214,7 +10948,7 @@ isbn	isbn	0	0	1	0
 робочих	labours	0	0	1	0
 основного	main	0	0	1	0
 групами	groups	0	0	1	0
-походять	like	0	0	1	0
+лісостепу	forest and steppe regions	0	0	1	0
 сіл	forces	0	0	1	0
 повний	full	0	0	1	0
 академік	academician	0	0	1	0
@@ -11228,12 +10962,9 @@ isbn	isbn	0	0	1	0
 музею	museum	0	0	1	0
 голів	heads	0	0	1	0
 інформаційні	intormational	0	0	1	0
-множина	plural	0	0	1	0
 загального	universal	0	0	1	0
 зберігається	kept	0	0	1	0
 майна	property	0	0	1	0
-північну	northern	0	0	1	0
-музеї	museums	0	0	1	0
 музеї	museum	0	0	1	0
 майно	property	0	0	1	0
 університетах	universities	0	0	1	0
@@ -11241,9 +10972,7 @@ isbn	isbn	0	0	1	0
 якості	quality	0	0	1	0
 їхнє	their	0	0	1	0
 творча	creative	0	0	1	0
-залізної	iron	0	0	1	0
 їхня	their	0	0	1	0
-їхню	their	0	0	1	0
 сумська	sumy	0	0	1	0
 устрій	regime	0	0	1	0
 творчі	creative	0	0	1	0
@@ -11268,7 +10997,7 @@ isbn	isbn	0	0	1	0
 німецькі	german	0	0	1	0
 великому	great	0	0	1	0
 нафтопродуктів	oil products	0	0	1	0
-народився	born	0	0	1	0
+проживання	residence	0	0	1	0
 окремого	separate	0	0	1	0
 носієм	bearer	0	0	1	0
 готи	goths	0	0	1	0
@@ -11332,7 +11061,7 @@ xviiixix	xviii-xix	0	0	1	0
 слава	glory	0	0	1	0
 сербії	serbia	0	0	1	0
 маєтку	estate	0	0	1	0
-виклав	described	0	0	1	0
+оркестру	orchestra	0	0	1	0
 сербія	serbia	0	0	1	0
 зменшується	diminishes	0	0	1	0
 зменшується	decreases	0	0	1	0
@@ -11347,7 +11076,6 @@ xviiixix	xviii-xix	0	0	1	0
 партії	party	0	0	1	0
 діяння	actions	0	0	1	0
 поділу	division	0	0	1	0
-партія	party	0	0	1	0
 літературі	literature	0	0	1	0
 народилася	born	0	0	1	0
 пропаганди	propaganda	0	0	1	0
@@ -11367,13 +11095,11 @@ xviiixix	xviii-xix	0	0	1	0
 робив	made	0	0	1	0
 аніж	than	0	0	1	0
 руїни	ruins	0	0	1	0
-адміністративним	administrative	0	0	1	0
 фазанові	phasianidae	1	1	0	0
 фазанові	pheasant	1	0	1	0
 фазанові	market	1	0	1	0
 фазанові	pheasants	1	1	0	0
 адміністративний	administrative	0	0	1	0
-столицею	capital	0	0	1	0
 елемента	element	0	0	1	0
 професійні	professional	0	0	1	0
 прохання	request	0	0	1	0
@@ -11401,7 +11127,6 @@ xviiixix	xviii-xix	0	0	1	0
 авторське	author	0	0	1	0
 незважаючи	in spite of	0	0	1	0
 сприяння	contribution	0	0	1	0
-сприяння	actions	0	0	1	0
 став	becomes	0	0	1	0
 став	became	0	0	1	0
 кипарисовик	kept	1	0	1	0

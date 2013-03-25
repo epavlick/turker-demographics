@@ -39,7 +39,6 @@ doré	golden	0	0	1	1
 doré	doré	0	0	1	0
 considérable	considerably	0	0	1	0
 considérable	considerable	0	0	1	1
-liaisons	connections	0	0	1	0
 liaisons	affairs	0	0	1	0
 précédé	preceded	0	0	1	0
 précédé	prior to	0	0	1	0
@@ -57,7 +56,7 @@ abondante	abundant	0	0	1	0
 controversé	discussed	0	0	1	0
 controversé	controversial	0	0	1	1
 controversé	controversy	0	0	1	0
-puissant	powerful	0	0	1	1
+bill	bill	0	0	1	0
 aider	help	0	0	1	1
 aider	to help	0	0	1	0
 miller	miller	0	0	1	0
@@ -82,13 +81,11 @@ recyclage	recycling	0	0	1	1
 lorganisme	two words -> the organism	0	0	1	0
 lorganisme	the body	0	0	1	0
 lorganisme	l'organisme = organisation / organism	0	0	1	0
-gabrielle	gabrielle	0	0	1	0
+familles	families	0	0	1	0
 posthumes	posthumous	0	0	1	0
 hero	hero	0	0	1	0
-divertissement	entertainment	0	0	1	1
-divertissement	pastime	0	0	1	1
-divertissement	misappropriation	0	0	1	1
-divertissement	relaxation	0	0	1	0
+sappelle	named	0	0	1	0
+sappelle	is called	0	0	1	0
 formats	formats	0	0	1	0
 locéan	the ocean	0	0	1	0
 here	here	0	0	1	0
@@ -269,12 +266,10 @@ reprises	times	0	0	1	0
 boissons	drink	0	0	1	0
 boissons	drinks	0	0	1	0
 noyaux	kernels	0	0	1	0
-noyaux	pits	0	0	1	0
 noyaux	core	0	0	1	0
 darticles	articles	0	0	1	0
 darticles	of articles	0	0	1	0
 légitime	legitimate	0	0	1	1
-caractère	nature	0	0	1	1
 caractère	character	0	0	1	1
 caractère	specificity	0	0	1	0
 galilée	galileo	0	0	1	0
@@ -288,8 +283,8 @@ fil	over	0	0	1	0
 fil	fil	0	0	1	0
 rythmique	rhythmic	0	0	1	1
 rythmique	rythmical	0	0	1	0
-jourlà	that day	0	0	1	0
 jourlà	lightthe	0	0	1	0
+jourlà	that day	0	0	1	0
 recours	resort	0	0	1	1
 recours	use	0	0	1	0
 recours	recourse	0	0	1	1
@@ -385,12 +380,10 @@ valois	valois	0	0	1	0
 valoir	argued	0	0	1	0
 valoir	value	0	0	1	0
 assurer	ensure	0	0	1	1
-assurer	to assure	0	0	1	0
-fondés	founded	0	0	1	0
-fondés	funded	0	0	1	0
-fondés	based	0	0	1	0
+thèmes	themes	0	0	1	0
 thumb|les	thumbles	0	0	1	0
 environnementales	environmental	0	0	1	0
+quatorze	fourteen	0	0	1	1
 équipés	accoutred with	0	0	1	0
 équipés	equiped	0	0	1	0
 équipés	equipped	0	0	1	0
@@ -425,7 +418,6 @@ xiv	xiv	0	0	1	0
 xiv	14th	0	0	1	0
 xix	nineteen	0	0	1	0
 gilbert	gilbert	0	0	1	0
-gilbert	gilbert  (first name)	0	0	1	0
 visiteurs	visitors	0	0	1	0
 convention	ruling	0	0	1	0
 convention	convention	0	0	1	1
@@ -467,7 +459,6 @@ trouvaient	discover	0	0	1	0
 trouvaient	were	0	0	1	0
 trouvaient	found	0	0	1	0
 trouvaient	find	0	0	1	0
-alive	alive	0	0	1	0
 efficacité	efficiency	0	0	1	1
 efficacité	effectiveness	0	0	1	1
 mécaniques	mechanic	0	0	1	0
@@ -554,7 +545,6 @@ rihanna	rihanna	0	0	1	0
 rihanna	the name	0	0	1	0
 bush	bush	0	0	1	0
 litalien	italian	0	0	1	0
-familles	families	0	0	1	0
 klein	klein	0	0	1	0
 décrits	describes	0	0	1	0
 décrits	described	0	0	1	0
@@ -564,7 +554,6 @@ mention	notice	0	0	1	0
 mention	reference	0	0	1	1
 plats	dish	0	0	1	0
 plats	plates	0	0	1	0
-plats	dishes	0	0	1	0
 danse	danse	0	0	1	0
 danse	dance	0	0	1	1
 nés	born	0	0	1	0
@@ -610,19 +599,13 @@ musicales	music	0	0	1	0
 musicales	musical	0	0	1	0
 récolte	harvest	0	0	1	1
 manson	manson	0	0	1	0
-désigner	point out	0	0	1	1
-désigner	designer	0	0	1	0
-désigner	pick on	0	0	1	1
-désigner	indicate	0	0	1	1
-désigner	design	0	0	1	0
-désigner	pick out	0	0	1	1
-désigner	niminate	0	0	1	0
 désigner	designate	0	0	1	1
 kilomètres	km	0	0	1	0
 kilomètres	kilometers	0	0	1	0
 humoristique	humorous	0	0	1	1
 humoristique	humoristic	0	0	1	0
-xvi	xvi	0	0	1	0
+ringo	ringo	0	0	1	0
+ringo	ringo starr from the beatles	0	0	1	0
 score	score	0	0	1	1
 irm	mri	0	0	1	0
 irm	cat scan	0	0	1	0
@@ -630,8 +613,10 @@ révèlent	reveal	0	0	1	0
 révèlent	prove	0	0	1	0
 ira	will	0	0	1	0
 ira	will go	0	0	1	0
-sappelle	is called	0	0	1	0
-sappelle	named	0	0	1	0
+divertissement	entertainment	0	0	1	1
+divertissement	pastime	0	0	1	1
+divertissement	misappropriation	0	0	1	1
+divertissement	relaxation	0	0	1	0
 alpes	alps	0	0	1	1
 never	never	0	0	1	0
 nature	nature	0	0	1	1
@@ -675,7 +660,6 @@ représentait	describe	0	0	1	0
 basque	basque	0	0	1	1
 présidé	head	0	0	1	0
 présidé	presided	0	0	1	0
-présidé	governed	0	0	1	0
 solaire	solar	0	0	1	1
 martiaux	martial	0	0	1	0
 smackdown	smackdown	0	0	1	0
@@ -848,7 +832,6 @@ pistes	tracks	0	0	1	0
 pyrénées	pyrenees	0	0	1	0
 programmes	programs	0	0	1	0
 possible	possible	0	0	1	1
-utilisées	used	0	0	1	0
 quune	than	0	0	1	0
 appellent	call	0	0	1	0
 hôtel	hotel	0	0	1	1
@@ -908,8 +891,8 @@ linflation	inflation	0	0	1	0
 ump	union for a popular movement	0	0	1	0
 ump	ump	0	0	1	0
 for	for	0	0	1	0
-marques	brands	0	0	1	0
-marques	marking	0	0	1	1
+communications	communications	0	0	1	0
+communications	connexions	0	0	1	0
 lartiste	the artist	0	0	1	0
 lartiste	artist	0	0	1	0
 fox	fox	0	0	1	0
@@ -1042,8 +1025,8 @@ larbitre	larbitre	0	0	1	0
 reggae	reggae	0	0	1	0
 lindustrie	industry	0	0	1	0
 foyers	households	0	0	1	0
-foyers	home	0	0	1	0
 foyers	homes	0	0	1	0
+foyers	home	0	0	1	0
 francophones	french-speaking	0	0	1	0
 francophones	french	0	0	1	0
 longueur	length	0	0	1	1
@@ -1101,7 +1084,6 @@ inachevé	unfinished	0	0	1	1
 choice	choix	0	0	1	0
 choice	choice	0	0	1	0
 jésuschrist	jesus-christ	0	0	1	0
-jésuschrist	jesus christ	0	0	1	0
 jésuschrist	jesus	0	0	1	0
 sonore	sound	0	0	1	1
 exact	faithful	0	0	1	1
@@ -1111,7 +1093,6 @@ exact	proper	0	0	1	1
 exact	exact	0	0	1	1
 exact	correct	0	0	1	0
 minute	minute	0	0	1	1
-morceaux	tracks	0	0	1	0
 morceaux	songs	0	0	1	0
 morceaux	pieces	0	0	1	0
 berbère	berber	0	0	1	1
@@ -1126,8 +1107,8 @@ lourds	lourds	0	0	1	0
 prêts	loans	0	0	1	0
 offrent	offers	0	0	1	0
 offrent	offer	0	0	1	0
-prévoit	provides	0	0	1	0
 prévoit	predicts	0	0	1	0
+prévoit	provides	0	0	1	0
 demifinale	looked	0	0	1	0
 demifinale	semi-finals	0	0	1	0
 demifinale	semifinal	0	0	1	0
@@ -1176,7 +1157,6 @@ sommets	highs	0	0	1	0
 sommets	summit	0	0	1	0
 sommets	peaks	0	0	1	0
 cette	this	0	0	1	1
-désaccord	disaccord	0	0	1	1
 désaccord	disagreement	0	0	1	1
 contemporaines	contemporary	0	0	1	0
 queue	queue	0	0	1	1
@@ -1185,8 +1165,8 @@ colonne	column	0	0	1	1
 poursuivre	prosecute	0	0	1	1
 poursuivre	continue	0	0	1	0
 love	love	0	0	1	0
-saints	saints	0	0	1	0
-saints	holy	0	0	1	0
+contrer	counteract	0	0	1	1
+contrer	counter	0	0	1	0
 reflète	reflect	0	0	1	0
 reflète	reflects	0	0	1	0
 difficilement	with difficulty	0	0	1	1
@@ -1199,13 +1179,12 @@ diminué	diminished	0	0	1	1
 diminué	decreases	0	0	1	0
 allait	was going	0	0	1	0
 allait	will	0	0	1	0
-allait	would have	0	0	1	0
 boxoffice	boxoffice	0	0	1	0
 défendre	defend	0	0	1	1
 climat	climate	0	0	1	1
 positive	positive	0	0	1	0
-alimentaire	food	0	0	1	0
 alimentaire	alimentary	0	0	1	1
+alimentaire	food	0	0	1	0
 archéologique	archeologic	0	0	1	1
 archéologique	archeological	0	0	1	1
 archéologique	archaeological	0	0	1	1
@@ -1293,8 +1272,6 @@ traduit	translate	0	0	1	0
 traduit	translates	0	0	1	0
 stuart	stuart	0	0	1	0
 convaincre	convince	0	0	1	1
-convaincre	persuade	0	0	1	1
-convaincre	take around	0	0	1	0
 applications	applications	0	0	1	0
 décembre	december	0	0	1	1
 spécialement	specially	0	0	1	1
@@ -1311,7 +1288,6 @@ stress	stress	0	0	1	1
 chirurgie	surgery	0	0	1	1
 ss	ss	0	0	1	0
 sr	sr ( sir )	0	0	1	0
-sr	sr.	0	0	1	0
 sq	sq	0	0	1	0
 sq	standard quality	0	0	1	0
 pathogènes	pathogens	0	0	1	0
@@ -1424,7 +1400,6 @@ internet	internet	0	0	1	0
 formule	formula	0	0	1	1
 formule	formule	0	0	1	0
 sionisme	zionism	0	0	1	1
-sionisme	sionism	0	0	1	0
 dhitler	of hitler	0	0	1	0
 dhitler	hitler	0	0	1	0
 bœuf	beef	0	0	1	0
@@ -1528,7 +1503,9 @@ russie	russia - large country	0	0	1	0
 sophie	sophie	0	0	1	0
 contrôlé	controlled	0	0	1	0
 contrôlé	controled	0	0	1	0
-vedette	star	0	0	1	1
+stades	stadiums	0	0	1	0
+stades	arenas	0	0	1	0
+stades	stadium	0	0	1	0
 san	(part of a place name)	0	0	1	0
 san	river following through the carpathian mountains in central europe	0	0	1	0
 san	san	0	0	1	0
@@ -1559,7 +1536,8 @@ finlande	finland	0	0	1	1
 complémentaires	complementary	0	0	1	0
 complémentaires	additional	0	0	1	0
 complémentaires	complementaires	0	0	1	0
-note	note	0	0	1	1
+masse	portion	0	0	1	0
+masse	mass	0	0	1	1
 cité	mentioned	0	0	1	0
 cité	cited	0	0	1	0
 cité	quoted	0	0	1	0
@@ -1619,14 +1597,14 @@ différentes	various	0	0	1	0
 différentes	another	0	0	1	0
 différentes	mixed	0	0	1	0
 différentes	several	0	0	1	0
-presse	press	0	0	1	1
+volumique	volume	0	0	1	0
+volumique	per unit of volume	0	0	1	0
 hockey	hockey	0	0	1	1
 différent	different	0	0	1	1
 robe	robe	0	0	1	0
 robe	dress	0	0	1	1
 robe	descent	0	0	1	0
 caroline	caroline	0	0	1	0
-caroline	carolina	0	0	1	0
 actif	busy	0	0	1	1
 actif	assets	0	0	1	1
 actif	working	0	0	1	1
@@ -1639,6 +1617,7 @@ actif	active	0	0	1	1
 actif	alert	0	0	1	1
 dispute	argument	0	0	1	1
 dispute	quarrel	0	0	1	1
+bridge	bridge	0	0	1	1
 beatles	beatles	0	0	1	0
 retraite	retirement	0	0	1	1
 retraite	retreat	0	0	1	1
@@ -1776,14 +1755,12 @@ observe	http://mturk.jhu.edu/static/images/fr/word/0000310280.png	0	0	1	0
 psychose	psychosis	0	0	1	1
 formes	shapes	0	0	1	0
 formes	forms	0	0	1	0
-former	create	0	0	1	0
-former	to form	0	0	1	0
-former	form	0	0	1	1
+tomes	tomes	0	0	1	0
+tomes	volumes	0	0	1	0
 isabelle	isabelle	0	0	1	0
 dexemple	of example	0	0	1	0
 dexemple	example	0	0	1	0
 voldemort	voldemort	0	0	1	0
-radicaux	drastic	0	0	1	0
 radicaux	radical	0	0	1	0
 policier	policeman	0	0	1	1
 situation	situations	0	0	1	0
@@ -1837,16 +1814,14 @@ urbaines	pertaining to or characteristic of a city	0	0	1	0
 hôtels	hotels	0	0	1	0
 diffusé	broadcast	0	0	1	1
 diffusé	aired	0	0	1	0
-mairie	town hall	0	0	1	1
-mairie	council	0	0	1	0
-mairie	city hall	0	0	1	1
+harris	harris	0	0	1	0
 habsbourg	habsburg	0	0	1	0
 habsbourg	habsbourg	0	0	1	0
 ordres	orders	0	0	1	1
 costa	costa	0	0	1	0
 costa	coast (but costa rica is a place name)	0	0	1	0
-hindoue	hindu	0	0	1	0
-hindoue	hindi	0	0	1	0
+ateliers	workshop	0	0	1	0
+ateliers	workshops	0	0	1	0
 rattachée	attached	0	0	1	0
 concentrer	cencentrate	0	0	1	0
 concentrer	focus	0	0	1	1
@@ -1884,7 +1859,8 @@ présidente	president	0	0	1	0
 présidente	chairwoman	0	0	1	1
 reposant	based	0	0	1	0
 reposant	restful	0	0	1	1
-kirk	kirk	0	0	1	0
+hindous	hindu	0	0	1	0
+hindous	hindus	0	0	1	0
 esprit	mind	0	0	1	1
 esprit	spirit	0	0	1	1
 instrument	instrument	0	0	1	1
@@ -2057,7 +2033,6 @@ sensibilité	sensitivity	0	0	1	1
 sensibilité	sensibility	0	0	1	1
 lapport	the contribution	0	0	1	0
 lapport	intake	0	0	1	0
-lapport	should be "apport"  = contribution	0	0	1	0
 communément	usually	0	0	1	0
 communément	commonly	0	0	1	1
 lexistence	the existence	0	0	1	0
@@ -2071,6 +2046,8 @@ monopole	monopole	0	0	1	0
 monopole	monopoly	0	0	1	1
 présentes	present	0	0	1	0
 présenter	present	0	0	1	1
+formant	forming	0	0	1	0
+formant	making	0	0	1	0
 laire	the area	0	0	1	0
 chaîne	channel	0	0	1	0
 ac	ac	0	0	1	0
@@ -2130,8 +2107,6 @@ composant	compose	0	0	1	0
 composant	composing	0	0	1	0
 composant	writing	0	0	1	0
 provence	provence	0	0	1	0
-volumique	volume	0	0	1	0
-volumique	per unit of volume	0	0	1	0
 consommer	consumer	0	0	1	0
 consommer	eat	0	0	1	0
 natalie	natalie	0	0	1	0
@@ -2175,8 +2150,8 @@ sixième	sixth	0	0	1	1
 pouvoirs	authorities	0	0	1	0
 pouvoirs	powers	0	0	1	1
 pouvoirs	power	0	0	1	0
-diplômes	diplomas	0	0	1	0
 diplômes	diploma	0	0	1	0
+diplômes	diplomas	0	0	1	0
 causes	cause	0	0	1	0
 causes	causes	0	0	1	0
 pornographie	pornography	0	0	1	1
@@ -2198,7 +2173,6 @@ dentrée	entrance	0	0	1	0
 dentrée	opening	0	0	1	0
 découpage	division	0	0	1	0
 découpage	cut	0	0	1	0
-découpage	zoning	0	0	1	0
 th	th	0	0	1	0
 nord	north	0	0	1	1
 tf	tf	0	0	1	0
@@ -2294,7 +2268,6 @@ superficie	surface	0	0	1	1
 superficie	size	0	0	1	1
 backlash	backlash	0	0	1	0
 détruit	destroyed	0	0	1	0
-détruit	destructed	0	0	1	0
 magique	magic	0	0	1	1
 pouvoir	to be able	0	0	1	0
 pouvoir	being able to	0	0	1	0
@@ -2302,9 +2275,7 @@ pouvoir	to be able to	0	0	1	0
 espace	space	0	0	1	1
 social	social	0	0	1	1
 action	action	0	0	1	1
-perse	persia	0	0	1	1
 perse	persian	0	0	1	1
-perse	persian-citizen of persia	0	0	1	0
 étapes	stages	0	0	1	1
 étapes	steps	0	0	1	0
 formules	formulas	0	0	1	0
@@ -2313,7 +2284,6 @@ via	via	0	0	1	1
 via	through	0	0	1	1
 via	by	0	0	1	0
 spéciales	special	0	0	1	0
-spéciales	particular	0	0	1	0
 vie	life	0	0	1	1
 vih	hiv	0	0	1	0
 vii	7th	0	0	1	0
@@ -2329,7 +2299,6 @@ entreprise	firm/company	0	0	1	0
 vit	live	0	0	1	0
 vit	lives	0	0	1	0
 chaud	hot	0	0	1	1
-gratuit	free of charge	0	0	1	0
 gratuit	free	0	0	1	1
 produisent	produce	0	0	1	0
 suggéré	suggested	0	0	1	0
@@ -2351,9 +2320,8 @@ archives	archives	0	0	1	1
 reproduire	reproduce	0	0	1	1
 réponses	responses	0	0	1	0
 réponses	answers	0	0	1	0
-solde	increase	0	0	1	0
-solde	discount	0	0	1	0
-solde	balance	0	0	1	1
+sanitaire	sanitary	0	0	1	1
+sanitaire	health	0	0	1	0
 datant	dating	0	0	1	0
 nuages	clouds	0	0	1	0
 attaché	attached	0	0	1	1
@@ -2404,7 +2372,6 @@ allaient	were going to	0	0	1	0
 allaient	would	0	0	1	0
 allaient	were going	0	0	1	0
 information	information	0	0	1	1
-clint	clint (first name)	0	0	1	0
 clint	clint	0	0	1	0
 hugo	hugo	0	0	1	0
 hugh	hugh	0	0	1	0
@@ -2451,8 +2418,8 @@ volleyball	volleyball	0	0	1	0
 protestation	protest	0	0	1	1
 protestation	demonstration	0	0	1	0
 protestation	protes	0	0	1	0
-lhumanité	humanity	0	0	1	0
 lhumanité	mankind	0	0	1	0
+lhumanité	humanity	0	0	1	0
 stocker	to store	0	0	1	0
 stocker	store	0	0	1	1
 révoltes	revolts	0	0	1	0
@@ -2479,8 +2446,8 @@ grandpère	grand-father	0	0	1	0
 grandpère	grandfather	0	0	1	0
 its	icts	0	0	1	0
 caucase	caucasus	0	0	1	1
-caucase	caucasia	0	0	1	0
 caucase	caucase	0	0	1	0
+caucase	caucasia	0	0	1	0
 mastoïdite	shortened	1	0	1	0
 mastoïdite	mastoid	1	0	1	0
 mastoïdite	mastoditis	1	1	0	0
@@ -2522,8 +2489,8 @@ propose	offer	0	0	1	0
 propose	offers	0	0	1	0
 propose	propose	0	0	1	0
 propose	nominate	0	0	1	0
-industrielles	industrials	0	0	1	0
 industrielles	industrial	0	0	1	0
+industrielles	industrials	0	0	1	0
 industrielles	indusutrial - adjective	0	0	1	0
 personne	none	0	0	1	1
 personne	people	0	0	1	0
@@ -2566,8 +2533,6 @@ soutenue	back up	0	0	1	0
 subit	undergoes	0	0	1	0
 subit	sudden	0	0	1	1
 subit	suffer (for first 2)   / subjected (for maroc)	0	0	1	0
-commencé	started	0	0	1	0
-commencé	begins	0	0	1	0
 pénal	penal	0	0	1	1
 subir	undergo	0	0	1	1
 proclamée	declared	0	0	1	0
@@ -2579,7 +2544,6 @@ courses	race	0	0	1	0
 courses	trips	0	0	1	0
 lalliance	the alliance	0	0	1	0
 lalliance	alliance	0	0	1	0
-lalliance	the coallition	0	0	1	0
 longues	long	0	0	1	0
 esclaves	slaves	0	0	1	0
 fouilles	searches	0	0	1	0
@@ -2587,7 +2551,6 @@ fouilles	excavation	0	0	1	1
 fouilles	digging	0	0	1	0
 parfum	perfume - the perfume's name is hysteria	0	0	1	0
 parfum	perfume	0	0	1	1
-nombres	number	0	0	1	0
 nombres	numbers	0	0	1	1
 signé	signé	0	0	1	0
 signé	signed	0	0	1	0
@@ -2767,8 +2730,8 @@ darts	of arts	0	0	1	0
 darts	of the arts	0	0	1	0
 portugaise	portuguese	0	0	1	1
 daccès	of access	0	0	1	0
-barres	stripe(for new york) crossbars (for the rest)	0	0	1	0
 barres	bars	0	0	1	0
+barres	stripe(for new york) crossbars (for the rest)	0	0	1	0
 seize	sixteen	0	0	1	1
 tarantino	tarantino	0	0	1	0
 décès	death	0	0	1	1
@@ -2830,8 +2793,8 @@ progressive	forward moving	0	0	1	0
 progressive	progressive	0	0	1	0
 cru	grown	0	0	1	0
 cru	believed	0	0	1	0
-assister	witness(1st one) help (2nd) attending (for the german emperor)	0	0	1	0
-assister	assist	0	0	1	1
+sétablit	is established	0	0	1	0
+sétablit	establishes	0	0	1	0
 recherché	wanted	0	0	1	0
 recherché	in gread demand	0	0	1	0
 recherché	seeked	0	0	1	0
@@ -2857,7 +2820,6 @@ porteurs	carriers	0	0	1	0
 beauxarts	fine-arts	0	0	1	0
 beauxarts	fine arts	0	0	1	0
 électorales	electorales	0	0	1	0
-électorales	electroral	0	0	1	0
 peintures	paintings	0	0	1	0
 puissent	may	0	0	1	0
 puissent	be able	0	0	1	0
@@ -2889,7 +2851,8 @@ europe	europe	0	0	1	1
 europe	europa	0	0	1	0
 régulières	regular	0	0	1	0
 génocide	genocide	0	0	1	1
-incident	incident	0	0	1	1
+hachette	(the name of a famous publishing company)	0	0	1	0
+hachette	hachette	0	0	1	0
 racisme	racism	0	0	1	1
 gilles	gilles	0	0	1	0
 interface	interface	0	0	1	1
@@ -3013,16 +2976,15 @@ communs	common	0	0	1	0
 fabrication	making	0	0	1	1
 fabrication	manufacturing	0	0	1	1
 euro	euro	0	0	1	0
-symbolise	symbolise	0	0	1	0
-symbolise	symbolize	0	0	1	0
-symbolise	symbolizes	0	0	1	0
+dite	known	0	0	1	0
+dite	said	0	0	1	0
+dite	called	0	0	1	0
 lorthographe	spelling	0	0	1	0
 lorthographe	spelling of	0	0	1	0
 lorthographe	the spelling	0	0	1	0
 miss	miss	0	0	1	0
 létoile	l'etoile (no change as it is a place in paris)	0	0	1	0
 létoile	star	0	0	1	0
-létoile	the star	0	0	1	0
 cannes	canes	0	0	1	0
 cannes	cannes	0	0	1	0
 kelly	kelly	0	0	1	0
@@ -3098,8 +3060,8 @@ dépôt	deposit	0	0	1	1
 marquer	integrate	0	0	1	0
 marquer	to mark	0	0	1	0
 marquer	mark	0	0	1	1
-communications	communications	0	0	1	0
-communications	connexions	0	0	1	0
+marques	brands	0	0	1	0
+marques	marking	0	0	1	1
 imposer	impose	0	0	1	1
 continue	continues	0	0	1	0
 continue	continue	0	0	1	0
@@ -3118,8 +3080,9 @@ société	company	0	0	1	1
 frère	brother	0	0	1	1
 lallemand	german	0	0	1	0
 lallemand	the german	0	0	1	0
-consomme	consumes	0	0	1	0
-consomme	consume	0	0	1	0
+terrestre	terrestrial	0	0	1	1
+terrestre	earthly	0	0	1	1
+terrestre	worldly	0	0	1	1
 augmentent	increase	0	0	1	0
 augmentent	raise	0	0	1	0
 formées	established	0	0	1	0
@@ -3138,7 +3101,6 @@ pluies	rain	0	0	1	0
 tunisienne	tunisian	0	0	1	0
 flux	stream	0	0	1	0
 parenté	parenthood	0	0	1	0
-parenté	kin	0	0	1	0
 parenté	relationship	0	0	1	1
 religion	religion	0	0	1	1
 département	department	0	0	1	1
@@ -3272,7 +3234,6 @@ cia	cia	0	0	1	0
 éclairé	wise	0	0	1	0
 dom	dom	0	0	1	0
 cio	ioc	0	0	1	0
-cio	cio	0	0	1	0
 cio	chief information officer	0	0	1	0
 us	us	0	0	1	0
 un	a	0	0	1	1
@@ -3299,7 +3260,9 @@ césar	cesar	0	0	1	0
 détecter	detect	0	0	1	1
 occupé	occupies	0	0	1	0
 occupé	occupied	0	0	1	1
-codes	codes	0	0	1	0
+mairie	town hall	0	0	1	1
+mairie	council	0	0	1	0
+mairie	city hall	0	0	1	1
 lhydrogène	hydrogen	0	0	1	0
 lesquelles	including	0	0	1	0
 lesquelles	which	0	0	1	0
@@ -3316,7 +3279,6 @@ oblige	requires	0	0	1	0
 oblige	forces	0	0	1	0
 hiver	winter	0	0	1	1
 robots	robots	0	0	1	0
-agglomération	metropolis	0	0	1	0
 agglomération	surrounding area	0	0	1	0
 agglomération	agglomeration	0	0	1	1
 lactuel	current	0	0	1	0
@@ -3333,8 +3295,8 @@ lîledefrance	l'ile-de-france	0	0	1	0
 lang	lang	0	0	1	0
 maturité	maturity	0	0	1	1
 lane	lane	0	0	1	0
-aliments	food	0	0	1	0
-aliments	foodstuffs	0	0	1	1
+certainement	certainly	0	0	1	0
+certainement	surely	0	0	1	1
 lanc	the anc	0	0	1	0
 lanc	anc	0	0	1	0
 age	age	0	0	1	0
@@ -3360,7 +3322,6 @@ feud	feud	0	0	1	0
 textes	texts	0	0	1	0
 menace	threaten	0	0	1	0
 menace	menace	0	0	1	1
-menace	threat	0	0	1	1
 reconnaissant	recognising	0	0	1	0
 reconnaissant	recognizing	0	0	1	0
 reconnaissant	grateful	0	0	1	1
@@ -3376,7 +3337,6 @@ enseignement	teaching	0	0	1	1
 enseignement	elaboration	0	0	1	1
 essai	essay	0	0	1	1
 essai	try	0	0	1	1
-études	study	0	0	1	1
 études	studies	0	0	1	1
 invités	invited	0	0	1	0
 invités	guests	0	0	1	0
@@ -3407,6 +3367,8 @@ frères	brothers	0	0	1	0
 torture	torture	0	0	1	1
 psychédélique	psychedelic	0	0	1	1
 continuer	continue	0	0	1	1
+voulant	wanting	0	0	1	0
+voulant	that	0	0	1	0
 québec	québec	0	0	1	0
 québec	quebec	0	0	1	0
 reliés	reliés	0	0	1	0
@@ -3422,7 +3384,6 @@ républiques	republics	0	0	1	0
 transmission	transmission	0	0	1	1
 transmission	transmission(for the first 2) transfer (for the last one)	0	0	1	0
 entiers	integers	0	0	1	0
-entiers	complete	0	0	1	0
 entiers	entire	0	0	1	0
 poitrine	chest	0	0	1	1
 déclarant	declaring	0	0	1	0
@@ -3560,13 +3521,9 @@ producteurs	producers	0	0	1	0
 formellement	formely	0	0	1	0
 formellement	formally	0	0	1	0
 jeanlouis	jean louis	0	0	1	0
-jeanlouis	jeanlouis	0	0	1	0
 solidarité	solidarity	0	0	1	1
 stephenie	stephenie	0	0	1	0
 stephenie	stephanie	0	0	1	0
-diffuse	broadcast	0	0	1	0
-diffuse	airs	0	0	1	0
-diffuse	diffuses	0	0	1	0
 intéressant	interesting	0	0	1	1
 devant	in front of	0	0	1	0
 devant	before	0	0	1	1
@@ -3631,7 +3588,6 @@ fiscalité	taxation	0	0	1	0
 caractéristiques	characteristics	0	0	1	0
 caractéristiques	characteristic	0	0	1	1
 assurant	make sure	0	0	1	0
-assurant	assuring	0	0	1	0
 assurant	ensuring	0	0	1	0
 née	born	0	0	1	0
 gregory	gregory	0	0	1	0
@@ -3639,7 +3595,6 @@ linverse	linverse	0	0	1	0
 linverse	conversely	0	0	1	0
 linverse	opposite	0	0	1	0
 pyramide	pyramid	0	0	1	1
-leffigie	effigy	0	0	1	0
 leffigie	representing	0	0	1	0
 leffigie	the effigy	0	0	1	0
 boeing	boeing	0	0	1	0
@@ -3651,7 +3606,6 @@ classe	ranks	0	0	1	0
 classe	class	0	0	1	1
 robot	robot	0	0	1	1
 rassemble	gathered	0	0	1	0
-rassemble	unites	0	0	1	0
 issu	descended/born	0	0	1	0
 issu	from	0	0	1	0
 méxico	mexico	0	0	1	0
@@ -3679,7 +3633,6 @@ nomme	appoints	0	0	1	0
 nomme	name	0	0	1	0
 dispose	has	0	0	1	0
 dispose	dispose	0	0	1	0
-lampleur	the magnitude	0	0	1	0
 lampleur	extent	0	0	1	0
 mangemorts	death-eater	0	0	1	0
 mangemorts	death eaters	0	0	1	0
@@ -3736,8 +3689,8 @@ lautriche	lautriche	0	0	1	0
 lautriche	austria	0	0	1	0
 tente	attempts	0	0	1	0
 tente	tries	0	0	1	0
-rayonnement	influence	0	0	1	1
-rayonnement	radiation	0	0	1	0
+chroniques	reviews	0	0	1	0
+chroniques	chronic	0	0	1	0
 agriculture	farming	0	0	1	1
 agriculture	agriculture	0	0	1	1
 occidentales	western	0	0	1	0
@@ -3809,6 +3762,7 @@ traverse	crosses	0	0	1	0
 multiplication	multiplication	0	0	1	1
 muhammad	muhammad	0	0	1	0
 lol	lol	0	0	1	0
+balzac	balzac	0	0	1	0
 envoyer	upload	0	0	1	0
 envoyer	send	0	0	1	1
 retourne	returns	0	0	1	0
@@ -3849,8 +3803,7 @@ néanmoins	meanwhile	0	0	1	0
 malade	ill	0	0	1	1
 malade	sick	0	0	1	1
 inscriptions	inscriptions	0	0	1	0
-disposer	to have	0	0	1	0
-disposer	dispose	0	0	1	1
+valley	valley	0	0	1	0
 commandant	commanding officer	0	0	1	0
 commandant	commander	0	0	1	1
 halliwell	halliwell	0	0	1	0
@@ -3871,6 +3824,7 @@ progressif	liberal	0	0	1	0
 progressif	advanced	0	0	1	0
 progressif	progressive	0	0	1	1
 unies	united	0	0	1	0
+sky	sky	0	0	1	0
 spéciale	special	0	0	1	0
 documents	documents	0	0	1	0
 adopté	adopted	0	0	1	1
@@ -3937,10 +3891,10 @@ pierres	rocks	0	0	1	0
 noirs	black	0	0	1	0
 rouge	red	0	0	1	1
 principal	main	0	0	1	1
-norvège	norway	0	0	1	1
+xvi	xvi	0	0	1	0
 pause	break	0	0	1	1
 pause	pause	0	0	1	1
-noir	black	0	0	1	1
+plantes	plants	0	0	1	0
 jay	jay	0	0	1	0
 censé	considered	0	0	1	0
 censé	supposedly	0	0	1	0
@@ -3976,7 +3930,6 @@ prêt	ready	0	0	1	1
 féminine	feminine	0	0	1	0
 féminine	of women	0	0	1	0
 féminine	female	0	0	1	0
-sévère	strict	0	0	1	0
 sévère	severe	0	0	1	1
 apporte	brings	0	0	1	0
 apporte	http://mturk.jhu.edu/static/images/fr/word/0000332620.png	0	0	1	0
@@ -4076,7 +4029,6 @@ indice	indication	0	0	1	1
 co	co	0	0	1	0
 clés	keys	0	0	1	0
 cm	cm	0	0	1	0
-gamme	range	0	0	1	1
 ca	ca	0	0	1	0
 descente	coming down	0	0	1	0
 descente	descent	0	0	1	1
@@ -4161,7 +4113,8 @@ vs	vs.	0	0	1	0
 quantique	quantum	0	0	1	0
 quantique	quantic	0	0	1	0
 quantique	quantitate	0	0	1	0
-sherlock	sherlock	0	0	1	0
+vu	seen	0	0	1	0
+vu	see	0	0	1	0
 raison	reason	0	0	1	1
 conserve	preserve	0	0	1	1
 conserve	kept	0	0	1	0
@@ -4184,7 +4137,9 @@ bénéfices	earnings	0	0	1	1
 columbia	columbia	0	0	1	0
 raymond	raymond	0	0	1	0
 bali	bali	0	0	1	0
-samedi	saturday	0	0	1	1
+amours	love affairs	0	0	1	0
+amours	love	0	0	1	0
+amours	love life	0	0	1	0
 lorientation	orientation	0	0	1	0
 ernst	ernst ( name )	0	0	1	0
 lidentification	identification	0	0	1	0
@@ -4214,9 +4169,9 @@ lest	ballast	0	0	1	1
 joués	played	0	0	1	0
 joués	cheeks	0	0	1	0
 moments	moments	0	0	1	0
-pluriel	plurals	0	0	1	0
-pluriel	plural	0	0	1	1
 pluriel	pluriel	0	0	1	0
+pluriel	plural	0	0	1	1
+pluriel	plurals	0	0	1	0
 phénomène	phenomenon	0	0	1	1
 phénomène	phenomenom	0	0	1	0
 phénomène	phénomène	0	0	1	0
@@ -4272,7 +4227,6 @@ descendant	descendant	0	0	1	1
 emma	emma	0	0	1	0
 lanneau	the ring	0	0	1	0
 rétablir	restore	0	0	1	1
-rétablir	recover	0	0	1	0
 parasite	parasite	0	0	1	1
 dentreprise	company	0	0	1	0
 dentreprise	of enterprise	0	0	1	0
@@ -4286,7 +4240,8 @@ autrefois	in the past	0	0	1	1
 autrefois	formerly	0	0	1	1
 autrefois	otherwise	0	0	1	0
 initiative	initiative	0	0	1	1
-emmy	emmy	0	0	1	0
+flotte	fleet	0	0	1	1
+flotte	float	0	0	1	1
 panique	panic	0	0	1	1
 indications	informations	0	0	1	0
 indications	indications	0	0	1	0
@@ -4404,8 +4359,9 @@ places	rank	0	0	1	0
 places	places	0	0	1	0
 placer	place	0	0	1	1
 naturelles	natural	0	0	1	0
-chroniques	reviews	0	0	1	0
-chroniques	chronic	0	0	1	0
+authority	authority	0	0	1	0
+rayonnement	influence	0	0	1	1
+rayonnement	radiation	0	0	1	0
 monument	building	0	0	1	0
 monument	monument	0	0	1	1
 métrages	films	0	0	1	0
@@ -4516,7 +4472,6 @@ médicale	medical	0	0	1	0
 glaces	ice	0	0	1	0
 glaces	mirrors	0	0	1	0
 progression	progress	0	0	1	1
-progression	progression	0	0	1	1
 mauvais	bad	0	0	1	1
 courrier	mail	0	0	1	1
 sacrée	sacred	0	0	1	0
@@ -4529,7 +4484,6 @@ dépendances	dependancies	0	0	1	0
 fédérale	federal	0	0	1	0
 élu	elected	0	0	1	1
 élu	choose	0	0	1	0
-indices	indication	0	0	1	0
 indices	indexes	0	0	1	0
 dixième	tenth	0	0	1	1
 dixième	ten	0	0	1	1
@@ -4552,7 +4506,6 @@ symphyles	symphyles	1	1	0	0
 symphyles	electromagnetic	1	0	1	0
 symphyles	(scientific classification i am unfamiliar with)	1	1	0	0
 chef	chief	0	0	1	1
-chef	leader	0	0	1	1
 cameron	cameron	0	0	1	0
 hors	out of	0	0	1	0
 hors	outside of	0	0	1	0
@@ -4607,7 +4560,6 @@ dernières	last	0	0	1	0
 dernières	latest	0	0	1	0
 appeler	call	0	0	1	1
 mondialement	worldwide	0	0	1	1
-mondialement	all over the world	0	0	1	0
 ix	9th	0	0	1	0
 ix	roman number ix = 9	0	0	1	0
 dépolarisation	http://mturk.jhu.edu/static/images/fr/word/0000004611.png	1	0	1	0
@@ -4617,8 +4569,7 @@ dépolarisation	depolarisation	1	0	1	0
 dépolarisation	depolarization	1	1	0	1
 dépolarisation	depolorization	1	1	0	0
 cléopâtre	cleopatra	0	0	1	0
-qui	who	0	0	1	1
-qui	which	0	0	1	1
+franz	franz	0	0	1	0
 énergie	energy	0	0	1	1
 lhorizon	lhorizon	0	0	1	0
 lhorizon	horizon	0	0	1	0
@@ -4648,8 +4599,7 @@ lunification	the unification	0	0	1	0
 apport	contribution	0	0	1	1
 apport	provision	0	0	1	0
 dessins	drawings	0	0	1	0
-qualités	qualifications	0	0	1	1
-qualités	qualities	0	0	1	0
+actuel	current	0	0	1	1
 provoque	induce	0	0	1	0
 provoque	causes	0	0	1	0
 éolienne	wind turbine	0	0	1	0
@@ -4714,7 +4664,6 @@ sassurer	ensure	0	0	1	0
 interview	interview	0	0	1	1
 nombre	number	0	0	1	1
 beach	beach	0	0	1	0
-lan	the year	0	0	1	0
 lan	lan	0	0	1	0
 médiévale	medieval	0	0	1	0
 mourir	die	0	0	1	1
@@ -4747,7 +4696,6 @@ lhindouisme	lhindouisme	0	0	1	0
 pèlerins	pilgrims	0	0	1	0
 pèlerins	pilgrim	0	0	1	0
 tumeur	tumor	0	0	1	1
-tumeur	growth	0	0	1	1
 fan	fan	0	0	1	1
 déléments	d'éléments = elements	0	0	1	0
 déléments	elements	0	0	1	0
@@ -4922,8 +4870,7 @@ airs	sky	0	0	1	0
 airs	air	0	0	1	0
 observations	observations	0	0	1	0
 observations	comments	0	0	1	0
-autrement	differently	0	0	1	0
-autrement	otherwise	0	0	1	1
+héraclès	heracles	0	0	1	0
 vingtaine	twenty	0	0	1	0
 vingtaine	20	0	0	1	0
 vingtaine	around twenty	0	0	1	0
@@ -4967,7 +4914,6 @@ collines	hills	0	0	1	0
 réalisée	realized	0	0	1	0
 réalisée	conducted	0	0	1	0
 portraits	portraits	0	0	1	0
-portraits	portrait	0	0	1	0
 employée	employee	0	0	1	1
 employée	employed	0	0	1	0
 soccupe	manages	0	0	1	0
@@ -5003,14 +4949,11 @@ basée	based	0	0	1	0
 souffrant	suffering	0	0	1	1
 giec	giec (intergourvenemental expert group on climate)	0	0	1	0
 forces	forces	0	0	1	0
-lencontre	towards	0	0	1	0
-lencontre	against	0	0	1	0
 transmis	transmitted	0	0	1	0
 roumanie	romania	0	0	1	0
 lexil	exile	0	0	1	0
 lexil	http://mturk.jhu.edu/static/images/fr/word/0000367600.png	0	0	1	0
 lexil	the exile	0	0	1	0
-mariages	weddings	0	0	1	0
 mariages	marriages	0	0	1	0
 bruce	bruce	0	0	1	0
 corriger	right	0	0	1	1
@@ -5044,7 +4987,6 @@ renouée	polygonum	1	1	0	0
 renouée	polygonum / knotgrass	1	0	1	0
 renouée	reknotweed	1	0	1	0
 grave	alarming	0	0	1	0
-grave	severe	0	0	1	1
 grave	serious	0	0	1	1
 sudafricain	south-african	0	0	1	0
 sudafricain	south african	0	0	1	0
@@ -5073,13 +5015,11 @@ lancement	travel expenses	0	0	1	0
 lancement	launch	0	0	1	0
 lewis	lewis	0	0	1	0
 lagglomération	the agglomeration	0	0	1	0
-lagglomération	agglomeration	0	0	1	0
 fleming	fleming	0	0	1	0
 religions	religions	0	0	1	0
 religions	religious	0	0	1	0
 religions	religion	0	0	1	0
 facto	facto	0	0	1	0
-éprouve	experiences	0	0	1	0
 éprouve	proven	0	0	1	0
 éprouve	maintaining	0	0	1	0
 dutiliser	to use	0	0	1	0
@@ -5211,8 +5151,8 @@ climats	climates	0	0	1	0
 ils	they	0	0	1	1
 brad	brad	0	0	1	0
 entité	entity	0	0	1	1
-manuscrits	manuscripts	0	0	1	0
-manuscrits	manuscrits	0	0	1	0
+col	col	0	0	1	0
+col	pass	0	0	1	1
 bram	bram	0	0	1	0
 liphone	liphone	0	0	1	0
 liphone	the iphone	0	0	1	0
@@ -5257,7 +5197,6 @@ libres	free	0	0	1	0
 libres	untouched	0	0	1	0
 libres	unrestricted	0	0	1	0
 libres	open	0	0	1	0
-secteur	sector	0	0	1	1
 appui	support	0	0	1	1
 ait	has	0	0	1	0
 ait	have	0	0	1	0
@@ -5274,7 +5213,6 @@ spécial	special	0	0	1	1
 appris	learned	0	0	1	0
 appris	learn	0	0	1	0
 tissus	tissues	0	0	1	0
-tissus	tissue	0	0	1	0
 tissus	fabric	0	0	1	0
 théâtres	theaters	0	0	1	0
 théâtres	theatre	0	0	1	0
@@ -5370,8 +5308,8 @@ guise	as	0	0	1	0
 guise	manner	0	0	1	0
 transformer	convert	0	0	1	0
 transformer	transform	0	0	1	1
-normandie	normandie	0	0	1	0
 normandie	normandy	0	0	1	0
+normandie	normandie	0	0	1	0
 protestantisme	protestantism	0	0	1	1
 wright	wright	0	0	1	0
 occuper	occupy	0	0	1	1
@@ -5379,15 +5317,12 @@ occuper	care	0	0	1	0
 sénateur	senator	0	0	1	1
 plasma	plasma	0	0	1	1
 daristote	from aristotle	0	0	1	0
-daristote	of aristote	0	0	1	0
 daristote	aristotle	0	0	1	0
 maya	maya	0	0	1	1
-amériques	america	0	0	1	0
 amériques	americas	0	0	1	0
 rnb	r&b	0	0	1	0
 rnb	rnb	0	0	1	0
 rnb	nrb	0	0	1	0
-capitaux	capitals	0	0	1	0
 capitaux	capital	0	0	1	1
 fusion	fusion	0	0	1	1
 indiennes	indians	0	0	1	0
@@ -5472,7 +5407,6 @@ coran	koran	0	0	1	1
 soudan	sudan	0	0	1	1
 évoquent	recall	0	0	1	0
 évoquent	tell of	0	0	1	0
-évoquent	show	0	0	1	0
 maximale	maximal	0	0	1	0
 maximale	maximum	0	0	1	0
 accepte	accepts	0	0	1	0
@@ -5562,7 +5496,7 @@ jugés	jugés	0	0	1	0
 impressionné	impressed	0	0	1	0
 sauvé	saved	0	0	1	0
 jugée	judged	0	0	1	0
-xiii	xiii	0	0	1	0
+payé	paid	0	0	1	1
 nétant	not being	0	0	1	0
 nétant	is not	0	0	1	0
 nétant	http://mturk.jhu.edu/static/images/fr/word/0000330840.png	0	0	1	0
@@ -5594,14 +5528,14 @@ lavancée	the break-through	0	0	1	0
 lavancée	advance	0	0	1	0
 test	test	0	0	1	1
 blessures	injuries	0	0	1	0
-dynasties	dynasties	0	0	1	0
+utilisée	used	0	0	1	0
 autonomie	autonomy	0	0	1	1
 brothers	brothers	0	0	1	0
 mérite	merit	0	0	1	1
 concurrent	competitor	0	0	1	1
-supérieur	upper	0	0	1	1
-supérieur	top	0	0	1	1
 supérieur	superior	0	0	1	1
+supérieur	top	0	0	1	1
+supérieur	upper	0	0	1	1
 cède	gives	0	0	1	0
 cède	give up	0	0	1	0
 cède	give in	0	0	1	0
@@ -5688,7 +5622,6 @@ myopathie	muscular dystrophy	1	0	1	0
 routier	road	0	0	1	0
 changé	changed	0	0	1	0
 vegas	vegas	0	0	1	0
-vegas	las vegas	0	0	1	0
 trouble	trouble	0	0	1	1
 trouble	disorder	0	0	1	1
 sujets	topics	0	0	1	0
@@ -5750,9 +5683,8 @@ géographique	geographic	0	0	1	1
 géographique	geographical	0	0	1	1
 ouvrage	work (as the work)	0	0	1	0
 ouvrage	work	0	0	1	1
-lartisanat	crafts	0	0	1	0
 lartisanat	craft	0	0	1	0
-lartisanat	trades	0	0	1	0
+lartisanat	crafts	0	0	1	0
 mondes	worlds	0	0	1	0
 femelle	female	0	0	1	1
 effectif	datteindre	0	0	1	0
@@ -5810,7 +5742,6 @@ suivent	follow	0	0	1	0
 pâques	jewish holiday	0	0	1	0
 pâques	easter	0	0	1	1
 pâques	easter-christian festival	0	0	1	0
-pièce	play	0	0	1	1
 pièce	piece	0	0	1	1
 lavance	the advance	0	0	1	0
 lavance	advance	0	0	1	0
@@ -5824,8 +5755,7 @@ bulgare	bulgarian	0	0	1	1
 bulgare	bulgaria	0	0	1	0
 éducation	education	0	0	1	1
 club	club	0	0	1	1
-donnant	giving	0	0	1	0
-donnant	facing	0	0	1	0
+rénovation	renovation	0	0	1	1
 finir	ends	0	0	1	0
 finir	end	0	0	1	1
 finit	ends	0	0	1	0
@@ -5891,8 +5821,8 @@ réduction	réduction	1	0	1	0
 réduction	allowance	1	0	1	1
 carrefour	crossroad	0	0	1	0
 carrefour	crossroads	0	0	1	1
-infantile	infant	0	0	1	0
 infantile	childish	0	0	1	1
+infantile	infant	0	0	1	0
 dispositions	layout	0	0	1	0
 dispositions	bent	0	0	1	0
 dispositions	provisions	0	0	1	0
@@ -6011,6 +5941,9 @@ forme	form	0	0	1	1
 hervé	hervé	0	0	1	0
 daction	action	0	0	1	0
 daction	of action	0	0	1	0
+fondés	founded	0	0	1	0
+fondés	funded	0	0	1	0
+fondés	based	0	0	1	0
 nom	name	0	0	1	1
 moïse	moses	0	0	1	1
 moïse	yoke	0	0	1	0
@@ -6021,7 +5954,6 @@ lillusion	illusion	0	0	1	0
 not	not	0	0	1	0
 perdu	perdu	0	0	1	0
 perdu	lost	0	0	1	1
-now	now	0	0	1	0
 hall	hall	0	0	1	1
 nos	our	0	0	1	0
 hiérarchie	hierarchy	0	0	1	1
@@ -6054,7 +5986,6 @@ vlad	vlad	0	0	1	0
 ed	edition	0	0	1	0
 ed	ed	0	0	1	0
 kane	kane	0	0	1	0
-hymne	hymn	0	0	1	1
 hymne	anthem	0	0	1	1
 affirmé	declared	0	0	1	0
 affirmé	said	0	0	1	0
@@ -6141,7 +6072,6 @@ variables	variable	0	0	1	0
 variables	variables	0	0	1	0
 variables	unstable	0	0	1	0
 courante	current	0	0	1	0
-xx	twentieth	0	0	1	0
 xx	20th	0	0	1	0
 violences	violences	0	0	1	0
 violences	violence	0	0	1	0
@@ -6189,7 +6119,6 @@ trésor	treasury	0	0	1	1
 television	television	0	0	1	0
 affronter	confront	0	0	1	1
 affronter	face	0	0	1	0
-fruits	benefits	0	0	1	0
 fruits	fruits	0	0	1	1
 paysbas	netherlands	0	0	1	0
 postérité	posterity	0	0	1	1
@@ -6257,8 +6186,8 @@ plaines	plains	0	0	1	0
 étrange	strange	0	0	1	1
 america	america	0	0	1	0
 michelle	michelle	0	0	1	0
-doivent	must	0	0	1	0
 doivent	should	0	0	1	0
+doivent	must	0	0	1	0
 couverture	coating	0	0	1	1
 couverture	blanket	0	0	1	1
 couverture	cover	0	0	1	1
@@ -6316,8 +6245,8 @@ fichier	file	0	0	1	0
 adolf	adolf	0	0	1	0
 proclamation	announcement	0	0	1	0
 proclamation	proclamation	0	0	1	1
-contrer	counteract	0	0	1	1
-contrer	counter	0	0	1	0
+saints	saints	0	0	1	0
+saints	holy	0	0	1	0
 choisi	chosen	0	0	1	1
 inventions	inventions	0	0	1	0
 thompson	thompson	0	0	1	0
@@ -6394,7 +6323,6 @@ sorciers	difficult	0	0	1	0
 justifier	justify	0	0	1	1
 ouvertes	open	0	0	1	0
 ouvertes	opened	0	0	1	0
-morales	ethical	0	0	1	0
 morales	moral	0	0	1	0
 morales	morales	0	0	1	0
 lobligation	the obligation	0	0	1	0
@@ -6515,11 +6443,11 @@ amérique	america	0	0	1	1
 rembrandt	rembrandt	0	0	1	0
 soie	silk	0	0	1	1
 orientation	position	0	0	1	0
-orientation	direction	0	0	1	1
 orientation	guidance	0	0	1	1
-chiffre	code	0	0	1	1
-chiffre	number	0	0	1	1
-chiffre	figure	0	0	1	1
+orientation	direction	0	0	1	1
+solde	increase	0	0	1	0
+solde	discount	0	0	1	0
+solde	balance	0	0	1	1
 soin	soin	0	0	1	0
 soin	care	0	0	1	1
 commandes	commands	0	0	1	0
@@ -6619,14 +6547,13 @@ dessinée	comic	0	0	1	0
 fiable	reliable	0	0	1	1
 érotiques	erotic	0	0	1	0
 pse	pse	0	0	1	0
-dite	known	0	0	1	0
-dite	said	0	0	1	0
-dite	called	0	0	1	0
+symbolise	symbolise	0	0	1	0
+symbolise	symbolize	0	0	1	0
+symbolise	symbolizes	0	0	1	0
 certains	certain	0	0	1	0
 certains	some	0	0	1	1
 gloire	fame	0	0	1	1
 gloire	glory	0	0	1	1
-certifié	certifies	0	0	1	0
 certifié	certified	0	0	1	0
 figurant	in (for wilkepedia) on(for os map) amongst(for the chefs d'oeuvre)	0	0	1	0
 figurant	contained	0	0	1	0
@@ -6636,8 +6563,8 @@ comédienne	comedian	0	0	1	0
 comédienne	comedienne	0	0	1	1
 comédienne	actress	0	0	1	1
 répression	repression	0	0	1	1
-contenant	containing	0	0	1	0
-contenant	comprising	0	0	1	0
+payer	pay	0	0	1	1
+payer	payer	0	0	1	0
 règle	rule	0	0	1	1
 polymères	polymers	0	0	1	0
 collective	collective	0	0	1	0
@@ -6652,7 +6579,6 @@ contrôler	controlling	0	0	1	0
 xviii	xviii	0	0	1	0
 degré	degree	0	0	1	1
 rôle	role	0	0	1	1
-rapports	relationship	0	0	1	1
 rapports	relations	0	0	1	1
 rapports	intercourse	0	0	1	1
 tentent	attempt	0	0	1	0
@@ -6679,7 +6605,6 @@ détenu	owned	0	0	1	0
 passions	passions	0	0	1	1
 artificielle	artificial	0	0	1	0
 différence	difference	0	0	1	1
-différence	in opposition to	0	0	1	0
 différence	unlike	0	0	1	0
 résoudre	resolve	0	0	1	1
 willis	willis	0	0	1	0
@@ -6711,7 +6636,7 @@ apparues	apparent	0	0	1	0
 sri	standford research institute	0	0	1	0
 sri	sri	0	0	1	0
 tentatives	attempts	0	0	1	0
-croyance	belief	0	0	1	1
+infection	infection	0	0	1	1
 vendre	sell	0	0	1	1
 remplir	fulfil	0	0	1	1
 remplir	fill	0	0	1	1
@@ -6748,8 +6673,8 @@ asiatiques	asiatics	0	0	1	0
 asiatiques	asian	0	0	1	0
 adaptée	adapted	0	0	1	0
 témoigne	reveals	0	0	1	0
-témoigne	shows	0	0	1	0
 témoigne	testimony	0	0	1	0
+témoigne	shows	0	0	1	0
 lémergence	emergence	0	0	1	0
 lémergence	the emergence	0	0	1	0
 dalexandrie	of alexandrie	0	0	1	0
@@ -6901,15 +6826,12 @@ candide	candide	0	0	1	0
 candide	here it is the name of a work of literature	0	0	1	0
 atmosphérique	atmospheric	0	0	1	1
 atmosphérique	atmospherical	0	0	1	1
-vu	seen	0	0	1	0
-vu	see	0	0	1	0
 louis	louis	0	0	1	0
 dimpact	impact	0	0	1	0
 soppose	opposes	0	0	1	0
 soppose	oppose	0	0	1	0
 soppose	opposed	0	0	1	0
 alliés	allies	0	0	1	0
-alliés	allies (or allied territories in the last sentence)	0	0	1	0
 circuit	circuit	0	0	1	1
 duquel	of which	0	0	1	0
 duquel	which	0	0	1	0
@@ -6933,7 +6855,6 @@ controverses	controversies	0	0	1	0
 conscience	conscience	0	0	1	1
 conscience	consciousness	0	0	1	1
 existait	existed	0	0	1	0
-existait	were	0	0	1	0
 existait	exist	0	0	1	0
 existait	be	0	0	1	0
 lexemple	the exemple	0	0	1	0
@@ -6957,7 +6878,6 @@ tournés	turnest	0	0	1	0
 violoniste	violinist	0	0	1	1
 violoniste	violoniste	0	0	1	0
 dindépendance	of independence	0	0	1	0
-dindépendance	independance	0	0	1	0
 dindépendance	independence	0	0	1	0
 conviction	belief	0	0	1	1
 conviction	conviction	0	0	1	1
@@ -6991,13 +6911,12 @@ fréquents	frequent	0	0	1	0
 selon	according to	0	0	1	1
 selon	by	0	0	1	1
 critiquée	criticized	0	0	1	0
-fréquente	frequent	0	0	1	0
 fréquente	see frequently	0	0	1	0
+fréquente	frequent	0	0	1	0
 lanalyse	testing	0	0	1	0
 lanalyse	analysis	0	0	1	0
 lanalyse	lanalyse	0	0	1	0
 commencer	start	0	0	1	1
-commencer	begin	0	0	1	1
 commencer	replacement	0	0	1	0
 pilule	pipule	1	0	1	0
 pilule	pilule	1	0	1	0
@@ -7006,7 +6925,7 @@ pilule	location	1	0	1	0
 pilule	pellet	1	1	1	1
 pilule	pill	1	1	1	1
 prestigieux	prestigious	0	0	1	1
-utilisée	used	0	0	1	0
+dion	dion	0	0	1	0
 réalité	reality	0	0	1	1
 monarchie	monarchy	0	0	1	1
 ordinateurs	computers	0	0	1	0
@@ -7018,7 +6937,6 @@ gauche	left	0	0	1	1
 situe	is	0	0	1	0
 situe	situated	0	0	1	0
 coalition	coalition	0	0	1	1
-achève	achieves	0	0	1	0
 achève	completed	0	0	1	0
 achève	completes	0	0	1	0
 dépisodes	episodes	0	0	1	0
@@ -7143,7 +7061,9 @@ absence	absence or lack	0	0	1	0
 lirm	the mri	0	0	1	0
 lirm	mri	0	0	1	0
 lirm	scan	0	0	1	0
-radical	radical	0	0	1	1
+relate	relates	0	0	1	0
+relate	recounts	0	0	1	0
+relate	recount	0	0	1	0
 linconscient	the unconscious	0	0	1	0
 fines	well written	0	0	1	0
 fines	fine	0	0	1	0
@@ -7166,8 +7086,7 @@ stopper	stop	0	0	1	1
 stopper	halt	0	0	1	0
 stopper	to stop	0	0	1	0
 programmation	programming	0	0	1	1
-payer	pay	0	0	1	1
-payer	payer	0	0	1	0
+faire	do	0	0	1	1
 occasions	instances	0	0	1	0
 occasions	opportunities	0	0	1	0
 détaillé	detailed	0	0	1	1
@@ -7303,8 +7222,7 @@ cinéaste	movie maker	0	0	1	0
 station	station	0	0	1	1
 nigeria	nigeria	0	0	1	1
 spécificité	specificity	0	0	1	1
-entretemps	meanwhile	0	0	1	0
-entretemps	in between	0	0	1	0
+joué	played	0	0	1	0
 lécriture	the writing	0	0	1	0
 lécriture	l'écriture = writing	0	0	1	0
 hébreu	hebrew	0	0	1	1
@@ -7331,6 +7249,7 @@ qualifié	qualified	0	0	1	1
 classicisme	classicism	0	0	1	1
 greg	greg	0	0	1	0
 tunis	tunis	0	0	1	0
+codes	codes	0	0	1	0
 grec	greek	0	0	1	1
 fabricants	makers	0	0	1	0
 fabricants	manufacturers	0	0	1	0
@@ -7343,7 +7262,6 @@ charlotte	charlotte	0	0	1	1
 éléments	ingredients	0	0	1	0
 éléments	factors	0	0	1	0
 dhorreur	horror	0	0	1	0
-dhorreur	horreur = horror	0	0	1	0
 organe	body	0	0	1	0
 organe	organ	0	0	1	1
 aussi	also	0	0	1	1
@@ -7401,7 +7319,6 @@ promenade	walk	0	0	1	1
 aires	areas	0	0	1	0
 aires	sense	0	0	1	0
 alpha	alpha	0	0	1	1
-déroulement	unfolding	0	0	1	0
 déroulement	course	0	0	1	0
 déroulement	progress	0	0	1	1
 logique	logic	0	0	1	1
@@ -7540,8 +7457,8 @@ célébrée	celebrated	0	0	1	0
 genre	kind	0	0	1	1
 genre	genus	0	0	1	1
 dharmonie	two words -> of harmony	0	0	1	0
-dharmonie	of harmony	0	0	1	0
 dharmonie	d'harmonie = harmony	0	0	1	0
+dharmonie	of harmony	0	0	1	0
 catalogne	catalonia	0	0	1	0
 league	league	0	0	1	0
 popularité	popularity	0	0	1	1
@@ -7551,7 +7468,6 @@ secrets	secrets	0	0	1	0
 fonctionne	works	0	0	1	0
 fonctionne	run	0	0	1	0
 vastes	large	0	0	1	0
-vastes	extensive	0	0	1	0
 principalement	mainly	0	0	1	1
 jeff	http://mturk.jhu.edu/static/images/fr/word/0000341260.png	0	0	1	0
 jeff	jeff	0	0	1	0
@@ -7666,7 +7582,6 @@ daustralie	of australia	0	0	1	0
 nouméa	noumea	0	0	1	0
 nouméa	capital of new caledonia	0	0	1	0
 dessous	underneath	0	0	1	1
-dessous	beneath	0	0	1	1
 dessous	under	0	0	1	0
 adhésion	adhesion	0	0	1	1
 adhésion	membership	0	0	1	1
@@ -7734,13 +7649,12 @@ fermée	closed	0	0	1	0
 donne	gives	0	0	1	0
 donne	give	0	0	1	0
 donne	gave	0	0	1	0
-donna	gave	0	0	1	0
+génie	genius	0	0	1	1
 parade	parade	0	0	1	1
 universel	universal	0	0	1	1
 préliminaire	preliminary	0	0	1	1
 renouvelable	renewable	0	0	1	1
 autres	other	0	0	1	1
-autres	others	0	0	1	0
 sétendent	extended	0	0	1	0
 sétendent	extend	0	0	1	0
 pierre	pierre	0	0	1	0
@@ -7794,8 +7708,7 @@ blocs	group	0	0	1	0
 régulièrement	regularly	0	0	1	1
 régulièrement	frequently	0	0	1	0
 régulièrement	usually	0	0	1	0
-flotte	fleet	0	0	1	1
-flotte	float	0	0	1	1
+bureaux	offices	0	0	1	0
 faite	put	0	0	1	0
 faite	pace	0	0	1	0
 faite	done	0	0	1	0
@@ -7841,7 +7754,7 @@ monarque	monarch	0	0	1	1
 larry	larry	0	0	1	0
 visité	visited	0	0	1	0
 visité	visit	0	0	1	0
-authority	authority	0	0	1	0
+majeure	major	0	0	1	0
 orientale	oriental	0	0	1	0
 orientale	eastern	0	0	1	0
 injection	injection	0	0	1	1
@@ -7895,7 +7808,6 @@ critiques	criticisms	0	0	1	0
 critiques	critical	0	0	1	0
 kansas	kansas	0	0	1	0
 détermine	specifies	0	0	1	0
-détermine	determines	0	0	1	0
 détermine	determine	0	0	1	0
 william	william	0	0	1	0
 militants	activists	0	0	1	0
@@ -7920,6 +7832,8 @@ judiciaire	judiciary	0	0	1	1
 judiciaire	legal	0	0	1	0
 utiliser	use	0	0	1	1
 gouverneur	governor	0	0	1	1
+chats	cats	0	0	1	0
+chats	cliff	0	0	1	0
 rencontre	rencontre	0	0	1	0
 rencontre	junction	0	0	1	0
 rencontre	meeting	0	0	1	1
@@ -7928,7 +7842,6 @@ reprendre	resume	0	0	1	1
 versets	verses	0	0	1	0
 versets	verse	0	0	1	0
 proposition	proposal	0	0	1	1
-proposition	proposed by	0	0	1	0
 proposition	suggestion	0	0	1	1
 apparemment	apparently	0	0	1	1
 apparemment	seemingly	0	0	1	1
@@ -8020,7 +7933,9 @@ ferroviaires	rail	0	0	1	0
 colonel	colonel	0	0	1	1
 sous	sub	0	0	1	0
 sous	under	0	0	1	1
-colline	hill	0	0	1	1
+rythmes	rythms	0	0	1	0
+rythmes	rhythms	0	0	1	0
+rythmes	rhythm	0	0	1	0
 cell	cell	0	0	1	0
 bénéficie	benefit	0	0	1	0
 bénéficie	benefited	0	0	1	0
@@ -8133,12 +8048,10 @@ promet	promises (verb)	0	0	1	0
 promet	promises	0	0	1	0
 promet	promise	0	0	1	0
 découvertes	discoveries	0	0	1	0
-possession	possession	0	0	1	1
 possession	ownership	0	0	1	1
 dialectique	dialectic	0	0	1	1
 renom	renown	0	0	1	1
 renom	reputation	0	0	1	0
-quarantaine	about forty	0	0	1	1
 quarantaine	quarantine	0	0	1	1
 quarantaine	forties	0	0	1	0
 votre	belong to you	0	0	1	0
@@ -8163,9 +8076,9 @@ provoquent	cause	0	0	1	0
 nommée	named	0	0	1	0
 nommée	nominated	0	0	1	0
 orson	orson	0	0	1	0
-lunesco	unescos	0	0	1	0
-lunesco	the unesco	0	0	1	0
 lunesco	unesco	0	0	1	0
+lunesco	the unesco	0	0	1	0
+lunesco	unescos	0	0	1	0
 extérieur	outside	0	0	1	1
 extérieur	foreign	0	0	1	1
 travaillant	working	0	0	1	0
@@ -8220,8 +8133,6 @@ cités	cited	0	0	1	0
 cités	cities	0	0	1	0
 cités	quoted	0	0	1	0
 masses	masses	0	0	1	1
-masses	group	0	0	1	0
-masses	crowd	0	0	1	0
 causé	caused	0	0	1	0
 causé	cause	0	0	1	0
 venait	just had	0	0	1	0
@@ -8262,7 +8173,6 @@ mosaïque	mosaic	0	0	1	1
 mode	mode	0	0	1	1
 mode	way	0	0	1	0
 expériences	experiments	0	0	1	0
-expériences	experiences	0	0	1	1
 expériences	background	0	0	1	0
 rennes	rennes	0	0	1	0
 avocat	lawyer	0	0	1	1
@@ -8299,7 +8209,6 @@ remise	presentation(for the cremony)call into question (for 1980)	0	0	1	0
 équitable	even handed	0	0	1	0
 catégorieréalisateur	category: director	0	0	1	0
 critics	critics	0	0	1	0
-dathènes	of athena	0	0	1	0
 dathènes	athenes	0	0	1	0
 dathènes	of athene	0	0	1	0
 cause	because	0	0	1	0
@@ -8381,8 +8290,7 @@ juridiction	jurisdiction	0	0	1	1
 savait	knew	0	0	1	0
 đoković	dokovic	0	0	1	0
 banque	bank	0	0	1	1
-plupart	most	0	0	1	0
-plupart	almost all	0	0	1	0
+final	final	0	0	1	1
 amérindiens	american indians	0	0	1	0
 amérindiens	amerindians	0	0	1	0
 amérindiens	natives	0	0	1	0
@@ -8474,7 +8382,6 @@ chasse	chase	0	0	1	1
 évoque	evoque	0	0	1	0
 japonaises	japanese	0	0	1	0
 intentions	intentions	0	0	1	0
-intentions	intention or intent	0	0	1	0
 hiphop	hip hop	0	0	1	0
 hiphop	hip-hop	0	0	1	0
 vengeance	vengeance	0	0	1	1
@@ -8485,8 +8392,6 @@ maintenant	nowadays	0	0	1	0
 comprenant	including	0	0	1	0
 comprenant	understanding	0	0	1	0
 laurent	laurent	0	0	1	0
-âgé	old	0	0	1	1
-âgé	age	0	0	1	0
 âgé	aged	0	0	1	1
 âgé	employment	0	0	1	0
 manga	an artistic style	0	0	1	0
@@ -8508,6 +8413,7 @@ zinedine	zinedine zidane	0	0	1	0
 septième	seventh	0	0	1	1
 doigts	fingers	0	0	1	0
 ottoman	ottoman	0	0	1	1
+successives	successive	0	0	1	0
 boutiques	shops	0	0	1	0
 boutiques	stores	0	0	1	0
 passa	spent	0	0	1	0
@@ -8551,7 +8457,6 @@ joint	joins	0	0	1	0
 trouver	find out	0	0	1	0
 trouver	find	0	0	1	1
 centrales	plant	0	0	1	0
-centrales	central	0	0	1	0
 centrales	power plants	0	0	1	0
 golfe	gulf	0	0	1	1
 gray	gray	0	0	1	0
@@ -8583,14 +8488,13 @@ ouverts	open	0	0	1	0
 daffaires	business	0	0	1	0
 daffaires	of affairs	0	0	1	0
 animée	animated	0	0	1	0
-terrain	basis	0	0	1	0
-terrain	territory	0	0	1	0
 terrain	ground	0	0	1	1
+terrain	territory	0	0	1	0
+terrain	basis	0	0	1	0
 conservent	retain	0	0	1	0
 conservent	maintain	0	0	1	0
 conservent	keep	0	0	1	0
 passé	past	0	0	1	1
-passé	went	0	0	1	0
 passé	passed	0	0	1	0
 entrent	come in	0	0	1	0
 entrent	enter	0	0	1	0
@@ -8602,11 +8506,10 @@ lus	read	0	0	1	0
 lus	us	0	0	1	0
 varié	diversified	0	0	1	0
 varié	varied	0	0	1	1
-preuve	proof	0	0	1	1
 preuve	evidence	0	0	1	1
+preuve	proof	0	0	1	1
 pieds	feet	0	0	1	0
-tiré	shoot	0	0	1	0
-tiré	shot	0	0	1	0
+prennent	take	0	0	1	0
 lévistrauss	lévi-strauss	0	0	1	0
 lévistrauss	levi-strauss	0	0	1	0
 mortalité	death rate	0	0	1	0
@@ -8631,7 +8534,6 @@ lun	one of (as in one of his concert)	0	0	1	0
 géants	giants	0	0	1	0
 ken	ken	0	0	1	0
 comparable	comparable	0	0	1	1
-attention	attention	0	0	1	1
 renforcement	strengthening	0	0	1	1
 renforcement	reinforcement	0	0	1	1
 réactions	reactions	0	0	1	0
@@ -8675,7 +8577,7 @@ jersey	jersey	0	0	1	1
 définie	defined	0	0	1	0
 définie	specified	0	0	1	0
 dominique	dominique	0	0	1	0
-opposition	opposition	0	0	1	1
+rares	rare	0	0	1	0
 colonisation	colonisation	0	0	1	0
 colonisation	colonization	0	0	1	1
 immédiate	immediate	0	0	1	0
@@ -8759,9 +8661,9 @@ assassinat	murder	0	0	1	1
 assassinat	assassination	0	0	1	1
 rituels	rituals	0	0	1	0
 rituels	ritual	0	0	1	1
-fonds	fund	0	0	1	1
-fonds	fonds	0	0	1	0
 fonds	funds	0	0	1	1
+fonds	fonds	0	0	1	0
+fonds	fund	0	0	1	1
 déclenchement	release	0	0	1	1
 déclenchement	begining	0	0	1	0
 déclenchement	trigger	0	0	1	0
@@ -8857,7 +8759,6 @@ proprement	properly	0	0	1	1
 dhistoire	of history	0	0	1	0
 dhistoire	history	0	0	1	0
 travaillé	worked	0	0	1	0
-travaillé	worked on	0	0	1	0
 devises	currency	0	0	1	0
 devises	currencies	0	0	1	0
 période	period	0	0	1	1
@@ -8919,8 +8820,7 @@ relais	relay	0	0	1	1
 expansion	development	0	0	1	0
 expansion	growth	0	0	1	1
 expansion	expansion	0	0	1	1
-dispositif	device	0	0	1	0
-dispositif	plan	0	0	1	0
+traditionnelle	traditional	0	0	1	0
 balkans	balkans	0	0	1	1
 royaumeuni	united kingdom	0	0	1	0
 royaumeuni	royaume-uni = united kingdom	0	0	1	0
@@ -8970,7 +8870,8 @@ repères	reference	0	0	1	0
 géographiques	geographic	0	0	1	0
 géographiques	geographical	0	0	1	0
 espagnoles	spanish	0	0	1	0
-courte	short	0	0	1	0
+offrir	to present	0	0	1	0
+offrir	offer	0	0	1	1
 cricket	cricket	0	0	1	1
 simplement	simply	0	0	1	1
 métiers	trades	0	0	1	0
@@ -9023,6 +8924,8 @@ moyennes	middle	0	0	1	0
 moyennes	medium	0	0	1	0
 moyennes	middle & average	0	0	1	0
 eric	eric	0	0	1	0
+chiffre	code	0	0	1	1
+chiffre	number	0	0	1	1
 courage	courage	0	0	1	1
 diego	diego	0	0	1	0
 folio	folio (in french this is a luxury publisher name)	0	0	1	0
@@ -9082,7 +8985,6 @@ commercialisation	marketing	0	0	1	1
 commercialisation	commercialization	0	0	1	0
 consiste	consists	0	0	1	0
 consiste	consist in	0	0	1	0
-consiste	consist	0	0	1	0
 lutilisation	usage	0	0	1	0
 lutilisation	the use	0	0	1	0
 événements	events	0	0	1	1
@@ -9121,7 +9023,6 @@ voie	way	0	0	1	1
 hommages	respects	0	0	1	1
 hommages	tributes	0	0	1	0
 hommages	homage	0	0	1	0
-lobjectif	goal	0	0	1	0
 lobjectif	the goal	0	0	1	0
 voix	voice	0	0	1	1
 réputation	renown	0	0	1	0
@@ -9132,6 +9033,7 @@ voit	seen	0	0	1	0
 voit	see	0	0	1	0
 voit	consider	0	0	1	0
 voir	see	0	0	1	1
+sherlock	sherlock	0	0	1	0
 basées	based	0	0	1	0
 solution	solution	0	0	1	1
 royales	royal	0	0	1	0
@@ -9158,15 +9060,14 @@ force	forces	0	0	1	0
 histoire	history	0	0	1	1
 mecque	mecca	0	0	1	1
 fabriqué	manufactured	0	0	1	0
-fabriqué	factory	0	0	1	0
 fabriqué	built	0	0	1	0
+fabriqué	factory	0	0	1	0
 fréquemment	frequently	0	0	1	1
 andré	andre	0	0	1	0
 andré	andré	0	0	1	0
 nen	nen	0	0	1	0
 nen	only	0	0	1	0
 dérive	derive	0	0	1	0
-dérive	drift	0	0	1	1
 dérive	derives	0	0	1	0
 nef	nave	0	0	1	1
 asie	asia	0	0	1	1
@@ -9263,6 +9164,9 @@ lembouchure	mouth	0	0	1	0
 lembouchure	estuary	0	0	1	0
 berlin	berlin	0	0	1	1
 minorité	minority	0	0	1	1
+former	create	0	0	1	0
+former	to form	0	0	1	0
+former	form	0	0	1	1
 partagé	shared	0	0	1	0
 semble	seems to	0	0	1	0
 semble	seem	0	0	1	0
@@ -9438,7 +9342,6 @@ aide	aid	0	0	1	1
 aide	help	0	0	1	0
 créer	create	0	0	1	1
 milan	milan	0	0	1	0
-milan	milano	0	0	1	0
 milan	kite	0	0	1	1
 éoliennes	wind mills	0	0	1	0
 éoliennes	wind	0	0	1	0
@@ -9446,7 +9349,6 @@ milan	kite	0	0	1	1
 jours	days	0	0	1	0
 jours	today	0	0	1	0
 permettant	to	0	0	1	0
-permettant	permitting	0	0	1	0
 permettant	allowing	0	0	1	0
 effectivement	effectively	0	0	1	1
 effectivement	really	0	0	1	0
@@ -9479,7 +9381,6 @@ statistique	statistics	0	0	1	1
 statistique	statistical	0	0	1	1
 nietzsche	nietzsche	0	0	1	0
 trouvée	found	0	0	1	0
-américains	american	0	0	1	0
 américains	americans	0	0	1	0
 représentent	constitute	0	0	1	0
 représentent	represent	0	0	1	0
@@ -9511,7 +9412,6 @@ attribuer	assign	0	0	1	1
 attribuer	attributed	0	0	1	0
 massif	massif	0	0	1	1
 massif	massive	0	0	1	1
-payé	paid	0	0	1	1
 réelles	real	0	0	1	0
 réelles	actual	0	0	1	0
 croître	http://mturk.jhu.edu/static/images/fr/word/0000352420.png	0	0	1	0
@@ -9559,7 +9459,6 @@ conforme	conforms	0	0	1	0
 conforme	consistent	0	0	1	0
 conforme	true	0	0	1	1
 mini	mini	0	0	1	0
-usages	usages	0	0	1	0
 usages	uses	0	0	1	0
 pénétration	penetration	0	0	1	1
 pénétration	outreach	0	0	1	0
@@ -9605,9 +9504,8 @@ technologique	technological	0	0	1	0
 fiscales	tax	0	0	1	0
 fiscales	fiscales	0	0	1	0
 ulrich	ulrich	0	0	1	0
-terrestre	terrestrial	0	0	1	1
-terrestre	earthly	0	0	1	1
-terrestre	worldly	0	0	1	1
+consomme	consumes	0	0	1	0
+consomme	consume	0	0	1	0
 afro-asiatique	mikhail	1	0	1	0
 afro-asiatique	afro-american	1	0	1	0
 afro-asiatique	afro-asiatique	1	0	1	0
@@ -9639,8 +9537,8 @@ botanique	botanical	0	0	1	1
 botanique	botany	0	0	1	1
 marie	maried (for presley) mary (for medicis)	0	0	1	0
 marie	mary	0	0	1	1
-obtenus	acquired	0	0	1	0
 obtenus	gained	0	0	1	0
+obtenus	acquired	0	0	1	0
 obtenus	obtain	0	0	1	0
 somme	amount	0	0	1	1
 somme	sum	0	0	1	1
@@ -9660,8 +9558,8 @@ points	points ( points of view )	0	0	1	0
 dor	dor	0	0	1	0
 dor	gold	0	0	1	0
 dos	back	0	0	1	1
-certainement	certainly	0	0	1	0
-certainement	surely	0	0	1	1
+aliments	food	0	0	1	0
+aliments	foodstuffs	0	0	1	1
 +	+	0	0	1	0
 distances	distances	0	0	1	0
 lunivers	the universe	0	0	1	0
@@ -9748,12 +9646,9 @@ héritiers	heirs	0	0	1	0
 héritiers	inheritor	0	0	1	0
 attribue	attribute	0	0	1	0
 attribue	assign	0	0	1	0
-attribue	give	0	0	1	0
 algériens	algerians	0	0	1	0
 algériens	algerian	0	0	1	0
-sépare	separated	0	0	1	0
-sépare	splits	0	0	1	0
-sépare	separates	0	0	1	0
+norvège	norway	0	0	1	1
 future	future	0	0	1	0
 divinité	divinity	0	0	1	1
 exécution	execution	0	0	1	1
@@ -9790,9 +9685,7 @@ une	a	0	0	1	1
 une	one	0	0	1	1
 distinction	distinction	0	0	1	1
 contribution	contribution	0	0	1	1
-stades	stadiums	0	0	1	0
-stades	arenas	0	0	1	0
-stades	stadium	0	0	1	0
+vedette	star	0	0	1	1
 portant	bearing	0	0	1	0
 portant	support	0	0	1	1
 lévrier	levrier	0	0	1	0
@@ -9826,9 +9719,8 @@ commission	committee	0	0	1	1
 recul	decline	0	0	1	0
 recul	retreat	0	0	1	1
 séances	sessions	0	0	1	0
-fréquentation	frequenting	0	0	1	1
-fréquentation	attendance	0	0	1	1
 fréquentation	frequectation	0	0	1	0
+fréquentation	attendance	0	0	1	1
 livré	delivered	0	0	1	0
 piste	track	0	0	1	1
 lavocat	advocate	0	0	1	0
@@ -9851,7 +9743,6 @@ calcul	calculation	0	0	1	1
 calcul	computation	0	0	1	1
 suppose	assume	0	0	1	0
 suppose	suppose	0	0	1	0
-voté	vote	0	0	1	0
 voté	voted	0	0	1	0
 dotée	has(for 1st) with(for tanger) has (for european union)	0	0	1	0
 dotée	with	0	0	1	0
@@ -9916,8 +9807,8 @@ réconciliation	reconciliation	0	0	1	1
 réconciliation	reconciliation (name)	0	0	1	0
 sonde	modul	0	0	1	0
 sonde	probe	0	0	1	1
-interpréter	explain	0	0	1	0
 interpréter	play	0	0	1	1
+interpréter	explain	0	0	1	0
 interpréter	interpret	0	0	1	1
 elle	it (in that context)	0	0	1	0
 elle	it	0	0	1	1
@@ -9947,8 +9838,8 @@ supposé	assumes	0	0	1	0
 catégorienom	category name	0	0	1	0
 autorisée	permitted	0	0	1	0
 autorisée	authorized	0	0	1	0
-transforme	transform	0	0	1	0
 transforme	transforms	0	0	1	0
+transforme	transform	0	0	1	0
 contenir	contain	0	0	1	1
 just	just	0	0	1	0
 augmente	increases	0	0	1	0
@@ -9962,8 +9853,7 @@ lexamen	the exam	0	0	1	0
 lexamen	examination	0	0	1	0
 lexamen	lexamen	0	0	1	0
 nicolas	nicolas	0	0	1	0
-masse	portion	0	0	1	0
-masse	mass	0	0	1	1
+note	note	0	0	1	1
 royal	royal	0	0	1	1
 jules	jules	0	0	1	0
 jules	boyfriend	0	0	1	0
@@ -10056,7 +9946,7 @@ fonctionnant	operate	0	0	1	0
 fonctionnant	functioning	0	0	1	0
 tournées	tours	0	0	1	0
 carte	map	0	0	1	1
-génie	genius	0	0	1	1
+donna	gave	0	0	1	0
 extraordinaire	extraordinary	0	0	1	1
 conseiller	adviser	0	0	1	1
 conseiller	advisor	0	0	1	1
@@ -10107,7 +9997,6 @@ bolivie	bolivia	0	0	1	0
 bolivie	bolivie	0	0	1	0
 syndicats	unions	0	0	1	0
 syndicats	trade unions	0	0	1	0
-syndicats	labor-unions	0	0	1	0
 batman	batman	0	0	1	0
 analyse	analysis	0	0	1	1
 initié	initiated	0	0	1	1
@@ -10191,7 +10080,6 @@ biblique	scriptural	0	0	1	1
 biblique	biblical	0	0	1	1
 forment	form	0	0	1	0
 profite	profit	0	0	1	0
-profite	take advantage	0	0	1	0
 profite	benefits	0	0	1	0
 céder	ceder	0	0	1	0
 céder	transfer	0	0	1	1
@@ -10201,8 +10089,6 @@ lempire	the empire	0	0	1	0
 lempire	empire	0	0	1	0
 fleuves	river (but major ones)	0	0	1	0
 fleuves	rivers	0	0	1	0
-agricole	agricultural	0	0	1	1
-agricole	farming	0	0	1	0
 efficaces	efficient	0	0	1	0
 efficaces	effective	0	0	1	0
 vestiges	remains	0	0	1	1
@@ -10255,7 +10141,6 @@ attendre	expect	0	0	1	1
 attendre	wait	0	0	1	0
 catégoriepersonnalité	category : personality	0	0	1	0
 catégoriepersonnalité	category: personnality	0	0	1	0
-catégoriepersonnalité	category:personality	0	0	1	0
 dir	dir	0	0	1	0
 ville	city	0	0	1	1
 villa	country estate	0	0	1	0
@@ -10266,7 +10151,6 @@ toutefois	however	0	0	1	1
 déclin	decline	0	0	1	1
 déclin	regression	0	0	1	0
 afghanistan	afghanistan	0	0	1	0
-offrant	giving	0	0	1	0
 offrant	offering	0	0	1	0
 indochine	indochina	0	0	1	0
 indochine	indo-china	0	0	1	1
@@ -10278,7 +10162,6 @@ lennon	lennon	0	0	1	0
 international	international	0	0	1	1
 répandu	widespread	0	0	1	1
 répandu	spread	0	0	1	1
-habituellement	usually	0	0	1	1
 germe	germ (in the botanical sense)	1	0	1	0
 germe	a part of a seed	1	0	1	0
 germe	http://mturk.jhu.edu/static/images/fr/word/0000004971.png	1	0	1	0
@@ -10312,7 +10195,6 @@ lextérieur	outisde	0	0	1	0
 lextérieur	exterior	0	0	1	0
 conformément	in conformity	0	0	1	0
 conformément	in accordance	0	0	1	0
-conformément	in accordance with	0	0	1	0
 voiture	car	0	0	1	1
 voiture	vehicule	0	0	1	0
 box	boite	0	0	1	0
@@ -10356,16 +10238,10 @@ larabe	arab	0	0	1	0
 larabe	larabe	0	0	1	0
 larabe	the arab	0	0	1	0
 laxe	the axis	0	0	1	0
-laxe	main line	0	0	1	0
 laxe	axis	0	0	1	0
 franco	franco	0	0	1	0
 romaines	roman	0	0	1	0
-perd	lost	0	0	1	0
-perd	forfeit	0	0	1	0
-perd	drop	0	0	1	0
 perd	loses	0	0	1	0
-perd	cast	0	0	1	0
-perd	waste	0	0	1	0
 croyances	beliefs	0	0	1	0
 croyances	belief	0	0	1	0
 ingénieurs	engineers	0	0	1	0
@@ -10498,7 +10374,6 @@ actionnaires	share holder	0	0	1	0
 actionnaires	stockholder	0	0	1	0
 spécialiste	specialist	0	0	1	1
 spécialiste	expert/specialist	0	0	1	0
-végétaux	vegetable	0	0	1	0
 végétaux	vegetal	0	0	1	0
 végétaux	plant	0	0	1	0
 intérêt	interest	0	0	1	1
@@ -10531,7 +10406,6 @@ demandent	ask for	0	0	1	0
 demandent	ask (for 1st) demand( for 2nd)	0	0	1	0
 sappuie	relies	0	0	1	0
 sappuie	is based	0	0	1	0
-sappuie	relies on	0	0	1	0
 devient	becomes	0	0	1	0
 devient	become	0	0	1	0
 subissent	subisssent	0	0	1	0
@@ -10566,8 +10440,8 @@ perrault	perrault	0	0	1	0
 stabilité	stability	0	0	1	1
 guevara	guevara	0	0	1	0
 zurich	zurich	0	0	1	0
-savent	scholar	0	0	1	0
 savent	know	0	0	1	0
+savent	scholar	0	0	1	0
 continu	continuous	0	0	1	1
 continu	continues	0	0	1	0
 conventions	conventions	0	0	1	0
@@ -10594,6 +10468,9 @@ navale	nautical	0	0	1	0
 monster	monster	0	0	1	0
 dépenses	outgoings	0	0	1	1
 dépenses	expenses	0	0	1	0
+sépare	separated	0	0	1	0
+sépare	splits	0	0	1	0
+sépare	separates	0	0	1	0
 sonny	sonny	0	0	1	0
 romans	novel	0	0	1	0
 romans	novels	0	0	1	0
@@ -10699,6 +10576,9 @@ marchandises	goods	0	0	1	1
 médicaux	medical	0	0	1	0
 canton	township	0	0	1	1
 canton	canton	0	0	1	1
+affirmant	saying	0	0	1	0
+affirmant	declaring	0	0	1	0
+affirmant	asserting	0	0	1	0
 africaines	african	0	0	1	0
 performance	performance	0	0	1	1
 channel	channel	0	0	1	0
@@ -10736,10 +10616,8 @@ facilité	eased	0	0	1	0
 facilité	easyness	0	0	1	0
 baptême	baptism	0	0	1	1
 fermeture	closure	0	0	1	1
-fermeture	closing	0	0	1	1
 certification	certification	0	0	1	0
-muraille	wall	0	0	1	1
-muraille	palissade	0	0	1	0
+delta	delta	0	0	1	1
 exigences	demans	0	0	1	0
 exigences	requirements	0	0	1	0
 exigences	demands	0	0	1	0
@@ -10755,8 +10633,8 @@ posthume	posthumous	0	0	1	1
 dici	till	0	0	1	0
 dici	from here	0	0	1	0
 dici	here	0	0	1	0
-plume	plum	0	0	1	0
 plume	pen	0	0	1	1
+plume	plum	0	0	1	0
 plume	feather but in phrase "nom de plume" means "pen name"	0	0	1	0
 déduit	deduces	0	0	1	0
 déduit	deducted	0	0	1	0
@@ -10844,8 +10722,8 @@ témoignages	testimonies	0	0	1	0
 signaler	point out	0	0	1	1
 signaler	observe	0	0	1	0
 signaler	to note	0	0	1	0
-tue	kill	0	0	1	0
-tue	kills	0	0	1	0
+ja	ja	0	0	1	0
+ja	"origin of the sun"	0	0	1	0
 dates	dates	0	0	1	0
 dates	days	0	0	1	0
 lœuvre	work	0	0	1	0
@@ -10857,15 +10735,7 @@ hérodote	herodotus	0	0	1	0
 possédant	possessing	0	0	1	0
 possédant	with	0	0	1	0
 possédant	owning	0	0	1	0
-tour	revolution	0	0	1	1
-tour	castle	0	0	1	1
-tour	ride	0	0	1	1
-tour	walk	0	0	1	1
-tour	turn	0	0	1	1
 tour	tour	0	0	1	1
-tour	circuit	0	0	1	1
-tour	tower	0	0	1	1
-tour	rotation	0	0	1	1
 tous	all	0	0	1	1
 tous	every	0	0	1	1
 tout	while	0	0	1	0
@@ -10890,8 +10760,7 @@ détude	detude	0	0	1	0
 déposé	registered	0	0	1	0
 déposé	deposited	0	0	1	0
 déposé	filed	0	0	1	0
-terrestres	terrestrial	0	0	1	0
-terrestres	land	0	0	1	0
+sensible	sensitive	0	0	1	1
 arts	arts	0	0	1	0
 arts	art	0	0	1	0
 impérial	imperial	0	0	1	1
@@ -10901,8 +10770,8 @@ capable	capable	0	0	1	1
 barry	barry	0	0	1	0
 lorsque	when	0	0	1	1
 acier	steel	0	0	1	1
-ja	ja	0	0	1	0
-ja	"origin of the sun"	0	0	1	0
+tue	kill	0	0	1	0
+tue	kills	0	0	1	0
 naissances	naissances	0	0	1	0
 naissances	births	0	0	1	0
 thérapeutiques	curative	0	0	1	0
@@ -11116,7 +10985,8 @@ correspondre	within	0	0	1	0
 correspondre	to correspond	0	0	1	0
 méthodes	methods	0	0	1	0
 asynchrone	asynchronous	0	0	1	1
-sensible	sensitive	0	0	1	1
+terrestres	terrestrial	0	0	1	0
+terrestres	land	0	0	1	0
 amateurs	amateurs	0	0	1	0
 amateurs	amateurish	0	0	1	0
 amateurs	amateur	0	0	1	0
@@ -11170,7 +11040,6 @@ libreéchange	free exchange	0	0	1	0
 matisse	matisse	0	0	1	0
 road	road	0	0	1	0
 dalbums	albums	0	0	1	0
-joué	played	0	0	1	0
 originaire	originaire	0	0	1	0
 originaire	from	0	0	1	0
 originaire	native	0	0	1	1
@@ -11180,8 +11049,6 @@ cercle	circle	0	0	1	1
 mari	husband	0	0	1	1
 vainqueurs	winners	0	0	1	0
 wilde	wilde	0	0	1	0
-einstein	family name	0	0	1	0
-einstein	albert einstein- scientist name	0	0	1	0
 einstein	einstein	0	0	1	0
 mark	unit of currency in germany	0	0	1	0
 mark	mark	0	0	1	0
@@ -11213,7 +11080,8 @@ unités	units	0	0	1	0
 unités	unités	0	0	1	0
 rejet	rejection	0	0	1	1
 rejet	reject	0	0	1	1
-diane	diana	0	0	1	1
+lapogée	the peak	0	0	1	0
+lapogée	peak	0	0	1	0
 unitaire	unitary	0	0	1	1
 unitaire	unitaire	0	0	1	0
 séparée	separated	0	0	1	0
@@ -11263,8 +11131,7 @@ film	film	0	0	1	1
 compétence	skill	0	0	1	1
 compétence	competence	0	0	1	1
 compétence	ability	0	0	1	1
-formant	forming	0	0	1	0
-formant	making	0	0	1	0
+agricoles	agricultural	0	0	1	0
 prime	premium	0	0	1	1
 prime	allowance	0	0	1	0
 sièges	seating	0	0	1	1
@@ -11329,8 +11196,7 @@ prolonge	extend	0	0	1	0
 laristocratie	the aristocraty	0	0	1	0
 récent	recent	0	0	1	1
 récent	latest	0	0	1	0
-lappel	the call	0	0	1	0
-lappel	calling	0	0	1	0
+dollar	dollar	0	0	1	1
 périphériques	perimeter	0	0	1	0
 périphériques	surrounding	0	0	1	0
 périphériques	edge	0	0	1	0
@@ -11349,8 +11215,8 @@ forte	strong	0	0	1	0
 honoré	http://mturk.jhu.edu/static/images/fr/word/0000343400.png	0	0	1	0
 honoré	honors	0	0	1	0
 honoré	honoré	0	0	1	0
-tomes	tomes	0	0	1	0
-tomes	volumes	0	0	1	0
+diffuse	broadcast	0	0	1	0
+diffuse	airs	0	0	1	0
 victoire	victorie	0	0	1	0
 victoire	victory	0	0	1	1
 revenir	come back	0	0	1	1
@@ -11373,8 +11239,8 @@ gironde	gironde	0	0	1	0
 bleach	bleach	0	0	1	0
 pavillon	flag	0	0	1	1
 pavillon	pavilion	0	0	1	1
-juridiques	juridical	0	0	1	0
-juridiques	legal	0	0	1	0
+polonaise	polish	0	0	1	0
+polonaise	polish woman	0	0	1	0
 citoyenneté	citizenship	0	0	1	1
 hogan	hogan	0	0	1	0
 desprit	of spirit	0	0	1	0
@@ -11411,7 +11277,6 @@ lensemble	whole	0	0	1	0
 publie	publishes	0	0	1	0
 publie	publish	0	0	1	0
 publie	published	0	0	1	0
-coordination	coordination	0	0	1	1
 menant	leading	0	0	1	0
 publia	published	0	0	1	0
 enregistrement	recording	0	0	1	1
@@ -11439,8 +11304,8 @@ vaincu	beaten	0	0	1	0
 vaincu	overcame	0	0	1	0
 vaincu	defeated	0	0	1	1
 tantôt	some times	0	0	1	0
-tantôt	sometimes	0	0	1	0
 tantôt	earlier	0	0	1	0
+tantôt	sometimes	0	0	1	0
 jackie	female first name (form of jacqueline)	0	0	1	0
 jackie	jackie	0	0	1	0
 englobe	embody	0	0	1	0
@@ -11475,7 +11340,6 @@ feuilles	leafs	0	0	1	0
 célébrations	celebrations	0	0	1	0
 sanction	sanction	0	0	1	1
 combinaison	combination	0	0	1	1
-plantes	plants	0	0	1	0
 eugène	eugene	0	0	1	0
 maroc	morocco	0	0	1	1
 maroc	marocco	0	0	1	0
@@ -11496,7 +11360,6 @@ officiellement	officially	0	0	1	1
 tablier	apron	0	0	1	1
 tablier	overall	0	0	1	1
 leonard	leonard	0	0	1	0
-juif	jewish	0	0	1	1
 juif	jew	0	0	1	1
 lesquels	which	0	0	1	0
 ajoute	add	0	0	1	0
@@ -11523,7 +11386,6 @@ compare	compares	0	0	1	0
 morts	deads	0	0	1	0
 morts	dead	0	0	1	0
 days	days	0	0	1	0
-days	jours	0	0	1	0
 collision	collision	0	0	1	1
 hubert	male first name	0	0	1	0
 hubert	hubert	0	0	1	0
@@ -11549,7 +11411,6 @@ sinspire	inspires	0	0	1	0
 sinspire	inspire	0	0	1	0
 décédé	deceased	0	0	1	1
 décédé	died	0	0	1	0
-linitiative	initiative	0	0	1	0
 linitiative	the initiative	0	0	1	0
 civilisation	civilization	0	0	1	1
 civilisation	civilisation	0	0	1	0
@@ -11608,7 +11469,6 @@ surtout	especially	0	0	1	0
 surtout	mostly	0	0	1	1
 possessions	possessions	0	0	1	1
 émile	emile	0	0	1	0
-émile	Émile	0	0	1	0
 maritimes	maritime	0	0	1	0
 peste	plague	0	0	1	1
 thème	themes	0	0	1	0
@@ -11648,13 +11508,10 @@ comptes	account	0	0	1	0
 comptes	accounts	0	0	1	1
 porto	porto	0	0	1	0
 porto	port	0	0	1	1
-nordest	northeast	0	0	1	0
-nordest	north east	0	0	1	0
-nordest	north-east	0	0	1	0
+accessibles	accessible	0	0	1	0
 porte	is suing	0	0	1	0
 porte	file	0	0	1	0
 rigueur	rigor	0	0	1	1
-rigueur	strictness	0	0	1	1
 président	president	0	0	1	1
 positions	positions	0	0	1	0
 positions	stance	0	0	1	0
@@ -11736,7 +11593,7 @@ fincher	fincher	0	0	1	0
 pilote	driver	0	0	1	0
 pilote	pilote	0	0	1	0
 pilote	pilot	0	0	1	1
-harris	harris	0	0	1	0
+cullen	cullen	0	0	1	0
 rencontrés	conference	0	0	1	0
 rencontrés	appointment	0	0	1	0
 rencontrés	get together	0	0	1	0
@@ -11796,7 +11653,8 @@ envoie	issue	0	0	1	0
 park	park	0	0	1	0
 fidèles	believers	0	0	1	0
 fidèles	faithful	0	0	1	0
-héraclès	heracles	0	0	1	0
+autrement	differently	0	0	1	0
+autrement	otherwise	0	0	1	1
 paru	published	0	0	1	0
 part	part	0	0	1	1
 part	hand	0	0	1	1
@@ -11867,7 +11725,6 @@ laile	wing	0	0	1	0
 paquebot	boat	0	0	1	1
 maladie	illness	0	0	1	1
 maladie	sickness	0	0	1	1
-animales	animals	0	0	1	0
 animales	animal	0	0	1	0
 significatif	significant	0	0	1	1
 dhydrogène	of hydrogen	0	0	1	0
@@ -11890,7 +11747,6 @@ soigner	heal	0	0	1	0
 soigner	to heal	0	0	1	0
 soigner	treat	0	0	1	1
 obligations	obligations	0	0	1	0
-obligations	engagement	0	0	1	1
 commissions	comities	0	0	1	0
 commissions	committees	0	0	1	0
 commissions	committee	0	0	1	0
@@ -11902,9 +11758,7 @@ fini	ended	0	0	1	0
 fini	finished	0	0	1	1
 relation	relation	0	0	1	1
 relation	relationship	0	0	1	0
-rythmes	rythms	0	0	1	0
-rythmes	rhythms	0	0	1	0
-rythmes	rhythm	0	0	1	0
+colline	hill	0	0	1	1
 fine	fine	0	0	1	0
 fine	delicate	0	0	1	1
 témoignage	account	0	0	1	0
@@ -11937,7 +11791,7 @@ express	express	0	0	1	0
 empereurs	emperor	0	0	1	0
 empereurs	emperors	0	0	1	0
 politiquement	politically	0	0	1	1
-nuage	cloud	0	0	1	1
+robespierre	robespierre	0	0	1	0
 salut	safety	0	0	1	0
 salut	hi	0	0	1	0
 salut	salvation	0	0	1	1
@@ -11948,8 +11802,8 @@ spécialisée	specialised	0	0	1	0
 spécialisée	specialized	0	0	1	0
 blason	emblem	0	0	1	0
 blason	coat of arms	0	0	1	1
-extraordinaires	extraordinary	0	0	1	0
 extraordinaires	extraordinaires	0	0	1	0
+extraordinaires	extraordinary	0	0	1	0
 retrouvé	discovered	0	0	1	0
 retrouvé	found	0	0	1	0
 doubles	double	0	0	1	0
@@ -11957,7 +11811,6 @@ doubles	doubles	0	0	1	0
 restaurants	restaurants	0	0	1	0
 daide	aid	0	0	1	0
 daide	help	0	0	1	0
-diriger	directed	0	0	1	0
 diriger	manage	0	0	1	1
 diriger	lead	0	0	1	0
 lurss	the ussr	0	0	1	0
@@ -11972,13 +11825,13 @@ lion	lion	0	0	1	1
 française	french	0	0	1	0
 vins	wines	0	0	1	0
 intérieurs	interior	0	0	1	0
-intérieurs	inside	0	0	1	0
 intérieurs	interiors	0	0	1	0
+intérieurs	inside	0	0	1	0
 chose	thing	0	0	1	1
 chose	something	0	0	1	0
 camarades	in this case	0	0	1	0
-camarades	friends	0	0	1	0
 camarades	comrades	0	0	1	0
+camarades	friends	0	0	1	0
 camarades	schoolmates	0	0	1	0
 expert	expert	0	0	1	1
 législation	legislation	0	0	1	1
@@ -12034,16 +11887,14 @@ sultan	sultan	0	0	1	1
 abrite	shelter	0	0	1	0
 abrite	hosts	0	0	1	0
 abrite	shelters	0	0	1	0
-approche	word not correctly used in first and last sentences	0	0	1	0
 approche	approach	0	0	1	1
-approche	cannot be translated the same way in the different sentences	0	0	1	0
 denfance	childhood	0	0	1	0
 cérémonie	ceremony	0	0	1	1
 globale	global	0	0	1	0
 globale	overall	0	0	1	0
 point	extent	0	0	1	0
 point	point	0	0	1	1
-simple	simple	0	0	1	1
+méditerranéen	mediterranean	0	0	1	1
 compétition	competition	0	0	1	1
 vécu	lived	0	0	1	0
 vécu	experience	0	0	1	0
@@ -12054,8 +11905,7 @@ décisive	decisive	0	0	1	0
 décisive	definitive	0	0	1	0
 outil	qutil	0	0	1	0
 outil	tool	0	0	1	1
-scolarité	school	0	0	1	0
-scolarité	schooling	0	0	1	1
+noir	black	0	0	1	1
 fournisseur	supplier	0	0	1	1
 fournisseur	provider	0	0	1	1
 transformations	changes	0	0	1	0
@@ -12107,7 +11957,7 @@ raw	raw	0	0	1	0
 entré	came in	0	0	1	0
 entré	entered	0	0	1	0
 entré	implemented	0	0	1	0
-bill	bill	0	0	1	0
+puissant	powerful	0	0	1	1
 rejeté	rejected	0	0	1	1
 rejeté	rejeté	0	0	1	0
 consulat	consulate	0	0	1	1
@@ -12134,6 +11984,9 @@ grandes	great	0	0	1	0
 grandes	renown	0	0	1	0
 sociétés	companies	0	0	1	0
 sociétés	sociétés	0	0	1	0
+pochette	jacket	0	0	1	1
+pochette	cover	0	0	1	0
+pochette	disc pocket	0	0	1	0
 debout	standing	0	0	1	1
 monroe	monroe	0	0	1	0
 préoccupations	concerns	0	0	1	0
@@ -12190,7 +12043,6 @@ maîtresse	mistress	0	0	1	1
 enseignements	teachings	0	0	1	0
 enseignements	education	0	0	1	0
 enseignements	education (first 2) learnings (for the last one)	0	0	1	0
-y	there	0	0	1	0
 jbl	(initials of wrestler's name)	0	0	1	0
 jbl	jbl	0	0	1	0
 destructions	destructions	0	0	1	0
@@ -12266,7 +12118,6 @@ partenaire	partner	0	0	1	1
 ça	that (ist sentence) 2nd can not translate as orthograph error should be sa. and 3rd unable to translate the sentence should translate as:all went well.	0	0	1	0
 ça	that	0	0	1	1
 rurale	rural	0	0	1	0
-traditionnelle	traditional	0	0	1	0
 bijoux	jewelry	0	0	1	1
 bijoux	jewels	0	0	1	0
 bibliothèques	libraries	0	0	1	0
@@ -12316,7 +12167,6 @@ pollution	pollution	0	0	1	1
 congrès	meetings	0	0	1	0
 congrès	congress	0	0	1	1
 congrès	conferences	0	0	1	0
-fuir	avoid	0	0	1	1
 fuir	escape	0	0	1	1
 jimmy	jimmy	0	0	1	0
 grammy	grammy	0	0	1	0
@@ -12360,12 +12210,10 @@ auxquels	to which (here: on which)	0	0	1	0
 auxquels	which	0	0	1	0
 immigration	immigration	0	0	1	1
 boyz	boyz	0	0	1	0
-lindice	index	0	0	1	0
 lindice	indicator	0	0	1	0
 lindice	the index	0	0	1	0
 travailler	work	0	0	1	1
 affaires	scandals	0	0	1	0
-affaires	cases	0	0	1	0
 affaires	business	0	0	1	1
 ultérieurement	subsequently	0	0	1	0
 ultérieurement	later	0	0	1	0
@@ -12391,13 +12239,12 @@ dhonneur	dhonneur	0	0	1	0
 dhonneur	of honor	0	0	1	0
 dhonneur	honor	0	0	1	0
 typiques	typical	0	0	1	0
-ateliers	workshop	0	0	1	0
-ateliers	workshops	0	0	1	0
+hindoue	hindu	0	0	1	0
+hindoue	hindi	0	0	1	0
 elles	they	0	0	1	1
 voltaire	voltaire	0	0	1	0
 voltaire	name	0	0	1	0
-hindous	hindu	0	0	1	0
-hindous	hindus	0	0	1	0
+kirk	kirk	0	0	1	0
 priori	priori	0	0	1	0
 priori	seemingly	0	0	1	0
 priori	anticipated	0	0	1	0
@@ -12489,7 +12336,6 @@ passif	indifferent	0	0	1	0
 accuse	accuses	0	0	1	0
 accuse	accuse	0	0	1	0
 préfecture	prefecture	0	0	1	1
-chargés	accountable	0	0	1	0
 chargés	responsible	0	0	1	0
 chargés	charged	0	0	1	0
 plateforme	platform	0	0	1	0
@@ -12498,9 +12344,7 @@ yeux	eyes	0	0	1	1
 dégypte	egypt	0	0	1	0
 dégypte	of egypt	0	0	1	0
 knight	knight	0	0	1	0
-sanctions	punishmentpenalization	0	0	1	0
 sanctions	sanctions	0	0	1	0
-sanctions	sanction	0	0	1	0
 représentation	representation	0	0	1	1
 représentation	performance	0	0	1	1
 joey	joey	0	0	1	0
@@ -12532,13 +12376,12 @@ power	power	0	0	1	0
 chicago	proper noun (city of chicago)	0	0	1	0
 chicago	chicago	0	0	1	1
 composé	composed	0	0	1	0
-composé	compose	0	0	1	0
 composé	compound	0	0	1	1
 lincendie	fire	0	0	1	0
 lincendie	the  fire	0	0	1	0
 lunaire	lunar	0	0	1	1
-sétablit	is established	0	0	1	0
-sétablit	establishes	0	0	1	0
+assister	witness(1st one) help (2nd) attending (for the german emperor)	0	0	1	0
+assister	assist	0	0	1	1
 manœuvre	set off	0	0	1	0
 manœuvre	maneuver	0	0	1	0
 manœuvre	wriggle room	0	0	1	0
@@ -12601,7 +12444,6 @@ métallique	metal	0	0	1	0
 métallique	metallic	0	0	1	1
 composer	compose	0	0	1	1
 composer	consist	0	0	1	0
-composer	put together	0	0	1	1
 ressource	resort	0	0	1	1
 ressource	resource	0	0	1	1
 ressource	resourcefulness	0	0	1	1
@@ -12675,7 +12517,6 @@ proportions	proportions	0	0	1	0
 proportions	percentage	0	0	1	0
 damérique	america	0	0	1	0
 damérique	of america	0	0	1	0
-carnets	notebooks	0	0	1	0
 carnets	notebook	0	0	1	0
 prêtres	priests	0	0	1	0
 paradoxalement	paradoxically	0	0	1	0
@@ -12866,11 +12707,11 @@ matériaux	materials	0	0	1	0
 que	than	0	0	1	1
 que	that	0	0	1	1
 signent	sign	0	0	1	0
-franz	franz	0	0	1	0
+qui	who	0	0	1	1
+qui	which	0	0	1	1
 mexicains	mexicans	0	0	1	0
 mexicains	mexican	0	0	1	0
 tricolore	tricolor	0	0	1	1
-tricolore	three-coloured	0	0	1	0
 parvenir	reach	0	0	1	0
 parvenir	achieve	0	0	1	0
 arménien	armenian	0	0	1	1
@@ -12883,7 +12724,6 @@ qualification	qualification	0	0	1	1
 hetfield	hetfield	0	0	1	0
 hetfield	(name)	0	0	1	0
 entrer	enter	0	0	1	1
-fréquent	frequently	0	0	1	0
 fréquent	frequent	0	0	1	1
 fréquent	most common	0	0	1	0
 écriture	writing	0	0	1	1
@@ -12934,8 +12774,8 @@ véritable	genuine	0	0	1	1
 véritable	true	0	0	1	1
 kubrick	kubrick	0	0	1	0
 fermentation	fermentation	0	0	1	1
-chats	cats	0	0	1	0
-chats	cliff	0	0	1	0
+agricole	agricultural	0	0	1	1
+agricole	farming	0	0	1	0
 lorgasme	orgasm	0	0	1	0
 cyprès	cupressus	1	1	0	0
 cyprès	type of tree	1	0	1	0
@@ -12974,9 +12814,9 @@ dinformation	news report	0	0	1	0
 dinformation	or information	0	0	1	0
 xviiie	18th	0	0	1	0
 xviiie	xviii	0	0	1	0
-xviiie	eighteenth	0	0	1	0
 majeur	major	0	0	1	1
 étudiant	student	0	0	1	1
+gabrielle	gabrielle	0	0	1	0
 concernés	concerned	0	0	1	0
 matérielle	material	0	0	1	0
 napparaît	napparait	0	0	1	0
@@ -13059,7 +12899,8 @@ rejoindre	rejoin	0	0	1	1
 rejoindre	join	0	0	1	0
 rejoindre	to meet up with	0	0	1	0
 confort	comfort	0	0	1	1
-civiques	civic	0	0	1	0
+concernent	regarding	0	0	1	0
+concernent	concern	0	0	1	0
 phases	phases	0	0	1	0
 prouvé	proved	0	0	1	0
 prouvé	proven	0	0	1	0
@@ -13113,7 +12954,6 @@ relevant	under	0	0	1	0
 statues	statues	0	0	1	0
 statues	statue	0	0	1	0
 dorient	eastern	0	0	1	0
-bureaux	offices	0	0	1	0
 vend	sell	0	0	1	0
 vend	sold	0	0	1	0
 vend	sells	0	0	1	0
@@ -13135,7 +12975,6 @@ copies	copies	0	0	1	0
 échoue	fails	0	0	1	0
 élue	elected	0	0	1	0
 attendu	expected	0	0	1	1
-attendu	waited	0	0	1	0
 attendu	awaited	0	0	1	0
 permanent	permanent	0	0	1	1
 productivité	productivity	0	0	1	1
@@ -13270,7 +13109,6 @@ déterminé	prepended	0	0	1	0
 déterminé	determined	0	0	1	1
 monnaie	currency	0	0	1	1
 voile	sail	0	0	1	1
-voile	sailing	0	0	1	0
 propositions	proposals	0	0	1	0
 propositions	propositions	0	0	1	0
 adn	dna	0	0	1	0
@@ -13287,7 +13125,6 @@ ensuite	then	0	0	1	1
 ensuite	afterwards	0	0	1	1
 ensuite	next	0	0	1	1
 familiales	family	0	0	1	0
-familiales	familial	0	0	1	0
 peintres	painters	0	0	1	0
 rhétorique	rhetoric	0	0	1	1
 céréales	cereals	0	0	1	0
@@ -13320,7 +13157,7 @@ métatarse	metatarsel	1	0	1	0
 métatarse	metartasus	1	1	0	0
 métatarse	bone structure of the foot	1	1	0	0
 métatarse	matatarsus	1	0	1	0
-majeure	major	0	0	1	0
+alive	alive	0	0	1	0
 daménagement	development	0	0	1	0
 daménagement	country planning	0	0	1	0
 installées	settled	0	0	1	0
@@ -13495,8 +13332,6 @@ variation	change	0	0	1	1
 variation	variation	0	0	1	1
 membre	member	0	0	1	1
 augmentation	increase	0	0	1	1
-réclame	claims	0	0	1	0
-réclame	demand	0	0	1	0
 divisés	divided	0	0	1	0
 difficultés	difficulty	0	0	1	0
 difficultés	difficulties	0	0	1	0
@@ -13526,6 +13361,7 @@ susceptibles	likely	0	0	1	0
 veut	wants	0	0	1	0
 veut	to want - a second person non-past translation of the verb vouloir	0	0	1	0
 veut	like	0	0	1	0
+naturaliste	naturalist	0	0	1	1
 limites	limits (for first 2) limitations (for the administrative)	0	0	1	0
 limites	limits	0	0	1	0
 logement	housing	0	0	1	1
@@ -13534,7 +13370,6 @@ auront	will	0	0	1	0
 auront	aurot	0	0	1	0
 auront	will have	0	0	1	0
 paris	paris	0	0	1	1
-crises	crises	0	0	1	0
 crises	crisis	0	0	1	0
 coloniales	colonial	0	0	1	0
 lélaboration	development	0	0	1	0
@@ -13551,7 +13386,8 @@ jusquelà	until then	0	0	1	0
 degrés	degrees	0	0	1	0
 rôles	role	0	0	1	0
 rôles	roles	0	0	1	0
-dollar	dollar	0	0	1	1
+lappel	the call	0	0	1	0
+lappel	calling	0	0	1	0
 neuf	nine	0	0	1	1
 intermédiaires	intermediate	0	0	1	0
 intermédiaires	intermediaries	0	0	1	0
@@ -13631,8 +13467,8 @@ consécutive	following	0	0	1	0
 consécutive	consecutive	0	0	1	0
 consécutive	subsequent	0	0	1	0
 chantiers	works	0	0	1	0
-chantiers	building sites (for the 1st) ship yard( for venise)	0	0	1	0
 chantiers	chantiers	0	0	1	0
+chantiers	building sites (for the 1st) ship yard( for venise)	0	0	1	0
 nuit	nuit	0	0	1	0
 nuit	night	0	0	1	1
 studio	studio	0	0	1	1
@@ -13704,6 +13540,8 @@ cliniques	clinical	0	0	1	0
 secondaire	middle school	0	0	1	0
 secondaire	secondary	0	0	1	1
 muse	muse	0	0	1	1
+contenant	containing	0	0	1	0
+contenant	comprising	0	0	1	0
 pouce	inch	0	0	1	1
 pouce	boost	0	0	1	0
 excellent	excellent	0	0	1	1
@@ -13715,13 +13553,11 @@ conquis	conquered	0	0	1	0
 complexité	complexity	0	0	1	1
 complexité	complexité	0	0	1	0
 ma	my	0	0	1	1
-ma	my (in last sentence m'a is a different word)	0	0	1	0
 mc	http://mturk.jhu.edu/static/images/fr/word/0000375810.png	0	0	1	0
 mc	mc	0	0	1	0
 henri	henri	0	0	1	0
 naître	born	0	0	1	0
 naître	be born	0	0	1	1
-naître	birth	0	0	1	0
 mi	my (in spanish)	0	0	1	0
 mi	mid	0	0	1	0
 fondamentales	fundamental	0	0	1	0
@@ -13729,8 +13565,8 @@ joie	joy	0	0	1	1
 gérer	manage	0	0	1	1
 gérer	deal	0	0	1	0
 daft	daft	0	0	1	0
-musulmanes	muslims	0	0	1	0
 musulmanes	muslim	0	0	1	0
+musulmanes	muslims	0	0	1	0
 mp	mp3	0	0	1	0
 henry	henry	0	0	1	0
 ernest	ernest	0	0	1	0
@@ -13762,7 +13598,6 @@ empereur	emperor	0	0	1	1
 accusations	charges	0	0	1	0
 accusations	accusations	0	0	1	0
 devront	will have to	0	0	1	0
-devront	should	0	0	1	0
 reliées	binded	0	0	1	0
 reliées	linked	0	0	1	0
 gate	gate	0	0	1	0
@@ -13864,7 +13699,6 @@ doccupation	occupation	0	0	1	0
 hypothèses	hypotheses	0	0	1	0
 hypothèses	assumptions	0	0	1	0
 alex	alex	0	0	1	0
-alex	alez	0	0	1	0
 musulmane	muslim	0	0	1	0
 tremblement	earthquake	0	0	1	0
 tremblement	trembling	0	0	1	1
@@ -13888,8 +13722,7 @@ islamique	islamic	0	0	1	1
 diana	diana	0	0	1	0
 diminuer	decrease	0	0	1	1
 étendue	extended	0	0	1	0
-lapogée	the peak	0	0	1	0
-lapogée	peak	0	0	1	0
+diane	diana	0	0	1	1
 group	group	0	0	1	0
 autre	other - else - another	0	0	1	0
 autre	other	0	0	1	1
@@ -14011,21 +13844,21 @@ immigrants	immigrants	0	0	1	0
 apportées	brought	0	0	1	0
 apportées	made	0	0	1	0
 apportées	done	0	0	1	0
-final	final	0	0	1	1
+plupart	most	0	0	1	0
+plupart	almost all	0	0	1	0
 juridique	juridical	0	0	1	1
 juridique	legal	0	0	1	1
 classer	dismiss	0	0	1	0
 classer	classify	0	0	1	1
 classes	classes	0	0	1	0
 composante	component	0	0	1	0
-palmarès	record of achievements	0	0	1	0
 palmarès	palmares	0	0	1	0
 palmarès	honours list	0	0	1	0
 reprennent	cover	0	0	1	0
 reprennent	resume	0	0	1	0
 poids	weight/pounds	0	0	1	0
 poids	weight	0	0	1	1
-bridge	bridge	0	0	1	1
+emmy	emmy	0	0	1	0
 enterré	buried	0	0	1	1
 générales	general	0	0	1	0
 dorléans	of orléans	0	0	1	0
@@ -14193,12 +14026,7 @@ sélection	selection	0	0	1	1
 sexuel	sexual	0	0	1	1
 sauvages	wild	0	0	1	0
 sauvages	savages	0	0	1	0
-ruine	undoing	0	0	1	1
-ruine	smash	0	0	1	1
 ruine	ruin	0	0	1	1
-ruine	sink	0	0	1	0
-ruine	perdition	0	0	1	1
-ruine	doom	0	0	1	1
 rhône	rhone	0	0	1	0
 climatique	climate	0	0	1	0
 climatique	climaric	0	0	1	0
@@ -14238,10 +14066,8 @@ accès	access	0	0	1	1
 réception	reception	0	0	1	1
 néerlandaise	dutch	0	0	1	0
 lanatomie	anatomy	0	0	1	0
-montagne	montain	0	0	1	0
 montagne	mountain	0	0	1	1
-concernent	regarding	0	0	1	0
-concernent	concern	0	0	1	0
+civiques	civic	0	0	1	0
 institution	institution	0	0	1	1
 confusion	confusion	0	0	1	1
 metz	metz	0	0	1	0
@@ -14289,7 +14115,7 @@ trophées	trophie	0	0	1	0
 trophées	trophies	0	0	1	0
 lextermination	extermination	0	0	1	0
 lextermination	the extermination	0	0	1	0
-thèmes	themes	0	0	1	0
+réclame	claims	0	0	1	0
 doutremer	overseas	0	0	1	0
 doutremer	oversea	0	0	1	0
 xxe	twentieth century	0	0	1	0
@@ -14354,7 +14180,6 @@ lantigène	antigen	0	0	1	0
 nétait	was only	0	0	1	0
 établi	established	0	0	1	1
 accède	access	0	0	1	0
-accède	skipped	0	0	1	0
 accède	accesses	0	0	1	0
 saintjean	saint-jean	0	0	1	0
 saintjean	saintjean	0	0	1	0
@@ -14362,7 +14187,6 @@ saintjean	saint jean	0	0	1	0
 positives	positive	0	0	1	0
 francophone	french-speaking	0	0	1	0
 francophone	french	0	0	1	0
-francophone	french speaking person	0	0	1	0
 alimentaires	food	0	0	1	0
 alimentaires	alimentary	0	0	1	0
 alimentaires	http://mturk.jhu.edu/static/images/fr/word/0000379460.png	0	0	1	0
@@ -14487,14 +14311,16 @@ affronte	faces	0	0	1	0
 couvent	covent	0	0	1	0
 couvent	convent	0	0	1	1
 évoquant	evoking	0	0	1	0
+manuscrits	manuscripts	0	0	1	0
+manuscrits	manuscrits	0	0	1	0
 animé	animated	0	0	1	1
 animé	anime	0	0	1	0
 cellulaire	cell	0	0	1	0
 cellulaire	cellulaire	0	0	1	0
 cellulaire	cellular	0	0	1	1
-graphiques	graphical	0	0	1	0
-graphiques	graphic	0	0	1	0
-graphiques	graphics	0	0	1	0
+littoral	littoral	0	0	1	1
+littoral	shoreline	0	0	1	1
+littoral	coastline	0	0	1	1
 opération	operation	0	0	1	1
 meyer	meyer	0	0	1	0
 limitation	limitation	0	0	1	1
@@ -14502,7 +14328,8 @@ expliqué	explained	0	0	1	0
 indépendance	independance	0	0	1	0
 indépendance	independence	0	0	1	1
 indépendance	indépendance	0	0	1	0
-carolingienne	carolingian	0	0	1	0
+commencé	started	0	0	1	0
+commencé	begins	0	0	1	0
 pythagore	pythagoras	0	0	1	0
 montana	montana	0	0	1	0
 particulièrement	particularly	0	0	1	1
@@ -14578,8 +14405,6 @@ vive	lively	0	0	1	0
 vive	keen / intense	0	0	1	0
 versions	versions	0	0	1	0
 clubs	clubs	0	0	1	0
-sanitaire	sanitary	0	0	1	1
-sanitaire	health	0	0	1	0
 larchitecture	l'architecture = architecture	0	0	1	0
 larchitecture	architecture	0	0	1	0
 japon	japan	0	0	1	1
@@ -14589,9 +14414,8 @@ japon	japan	0	0	1	1
 n°	n°	0	0	1	0
 n°	number	0	0	1	0
 économistes	economists	0	0	1	0
-arabes	arab	0	0	1	0
-arabes	arabs (armees arabes=arab armies)	0	0	1	0
-arabes	arabs	0	0	1	0
+dhiver	of winter	0	0	1	0
+dhiver	winter	0	0	1	0
 consacre	dedicated	0	0	1	0
 consacre	dedicate	0	0	1	0
 consacre	dedicates	0	0	1	0
@@ -14665,7 +14489,7 @@ médias	media	0	0	1	1
 médias	medias	0	0	1	0
 développée	developed	0	0	1	0
 développée	expanded	0	0	1	0
-actuel	current	0	0	1	1
+secteur	sector	0	0	1	1
 élève	raised	0	0	1	0
 élève	raises	0	0	1	0
 élève	student	0	0	1	1
@@ -14684,9 +14508,8 @@ rob	rob	0	0	1	0
 alternatives	alternative	0	0	1	0
 alternatives	alternatives	0	0	1	0
 alternatives	options	0	0	1	0
-dumas	dumas (surname)	0	0	1	0
 dumas	dumas	0	0	1	0
-roy	roy	0	0	1	0
+sociologique	sociological	0	0	1	0
 consécutifs	consequential	0	0	1	0
 consécutifs	consecutive	0	0	1	0
 marion	marion	0	0	1	0
@@ -14709,12 +14532,10 @@ quasi	alsmot	0	0	1	0
 quasi	nearly	0	0	1	0
 endroits	locations	0	0	1	0
 endroits	places	0	0	1	0
-endroits	areas	0	0	1	0
-dion	dion	0	0	1	0
+utilisées	used	0	0	1	0
 inférieur	lower	0	0	1	1
 inférieur	inferior	0	0	1	1
 durablement	in the long term	0	0	1	0
-durablement	durably	0	0	1	0
 federation	http://mturk.jhu.edu/static/images/fr/word/0000381480.png	0	0	1	0
 federation	federation	0	0	1	0
 mixte	mixed	0	0	1	1
@@ -14804,7 +14625,6 @@ angelina	angelina	0	0	1	0
 produites	produced	0	0	1	0
 produites	manufactured	0	0	1	0
 belge	belgian	0	0	1	1
-baseball	baseball	0	0	1	0
 illustration	illustration	0	0	1	1
 pratiquant	practice	0	0	1	0
 pratiquant	practicing	0	0	1	0
@@ -14831,9 +14651,9 @@ victorienne	victorian	0	0	1	0
 humour	humor	0	0	1	1
 morale	moral	0	0	1	0
 drapeaux	flags	0	0	1	0
-littoral	littoral	0	0	1	1
-littoral	shoreline	0	0	1	1
-littoral	coastline	0	0	1	1
+graphiques	graphical	0	0	1	0
+graphiques	graphic	0	0	1	0
+graphiques	graphics	0	0	1	0
 proportionnelle	proportional	0	0	1	0
 proportionnelle	proportionnelle	0	0	1	0
 russell	russell	0	0	1	0
@@ -14854,7 +14674,6 @@ frédéric	frédéric	0	0	1	0
 frédéric	frederic	0	0	1	0
 pratique	practice	0	0	1	1
 sessions	sessions	0	0	1	0
-flamande	flamand	0	0	1	0
 flamande	flamish	0	0	1	0
 flamande	flemish	0	0	1	0
 garantie	warranty	0	0	1	1
@@ -14895,7 +14714,6 @@ figure	apparait	0	0	1	0
 dargent	money	0	0	1	0
 construit	built	0	0	1	0
 construit	constructed	0	0	1	0
-faire	do	0	0	1	1
 affirmer	assert	0	0	1	1
 affirmer	declare	0	0	1	0
 soleil	sun	0	0	1	1
@@ -14968,7 +14786,6 @@ canard	duck	0	0	1	1
 permettait	allowed	0	0	1	0
 ronde	patrol	0	0	1	1
 ronde	watch	0	0	1	0
-ronde	round	0	0	1	1
 révision	review	0	0	1	0
 révision	revision	0	0	1	1
 wallace	wallace	0	0	1	0
@@ -15004,7 +14821,6 @@ desquels	which	0	0	1	0
 dauschwitz	of auschwitz	0	0	1	0
 navire	ship	0	0	1	1
 dabi	dabi	0	0	1	0
-dabi	dhabi	0	0	1	0
 alternatif	alternative	0	0	1	1
 imposé	imposed	0	0	1	1
 partie	part	0	0	1	1
@@ -15014,9 +14830,9 @@ vitesse	speed	0	0	1	1
 acte	deed	0	0	1	1
 acte	certificate	0	0	1	1
 acte	act	0	0	1	1
+aborde	address	0	0	1	0
 aborde	treats	0	0	1	0
 aborde	addresses	0	0	1	0
-aborde	address	0	0	1	0
 placé	placed	0	0	1	0
 placé	up	0	0	1	0
 changements	alteration	0	0	1	0
@@ -15027,7 +14843,6 @@ changements	changes	0	0	1	0
 changements	change	0	0	1	0
 reconnaissance	recognition	0	0	1	1
 afrique	africa	0	0	1	1
-échappe	avoids	0	0	1	0
 échappe	escape	0	0	1	0
 échappe	escapes	0	0	1	0
 accorder	to give	0	0	1	0
@@ -15043,7 +14858,6 @@ réponse	response	0	0	1	1
 globules	globule	0	0	1	0
 globules	cells	0	0	1	0
 globules	blood	0	0	1	0
-paludisme	malaria	0	0	1	1
 rumeur	rumour	0	0	1	1
 rumeur	rumor	0	0	1	1
 rumeur	http://mturk.jhu.edu/static/images/fr/word/0000383260.png	0	0	1	0
@@ -15074,8 +14888,6 @@ sexplique	explains itself	0	0	1	0
 laffont	laffont	0	0	1	0
 suisses	swiss	0	0	1	0
 oasis	oasis	0	0	1	1
-col	col	0	0	1	0
-col	pass	0	0	1	1
 booba	booba	0	0	1	0
 booba	booba (name)	0	0	1	0
 signaux	signals	0	0	1	0
@@ -15091,6 +14903,8 @@ lefficacité	lefficacité	0	0	1	0
 inventé	invented	0	0	1	0
 turc	turk	0	0	1	1
 turc	turkish	0	0	1	1
+entretemps	in between	0	0	1	0
+entretemps	meanwhile	0	0	1	0
 rené	rené	0	0	1	0
 rené	rein	0	0	1	0
 rené	rene	0	0	1	0
@@ -15103,8 +14917,8 @@ revenus	revenue	0	0	1	0
 pasteur	pastor	0	0	1	1
 pasteur	pasteur	0	0	1	0
 démocratique	democratic	0	0	1	1
-voulant	wanting	0	0	1	0
-voulant	that	0	0	1	0
+qualités	qualifications	0	0	1	1
+qualités	qualities	0	0	1	0
 contemporains	modern	0	0	1	0
 contemporains	contemporary	0	0	1	0
 continent	continent	0	0	1	1
@@ -15120,7 +14934,6 @@ enregistre	records	0	0	1	0
 enregistre	record	0	0	1	0
 provenance	origin	0	0	1	1
 provenance	provenance	0	0	1	1
-cullen	cullen	0	0	1	0
 stimulation	stimulation	0	0	1	1
 limitrophes	neighboring	0	0	1	0
 limitrophes	danciens	0	0	1	0
@@ -15135,8 +14948,8 @@ renonce	renounces	0	0	1	0
 modernisation	modernization	0	0	1	1
 modernisation	modernisation	0	0	1	0
 revue	review	0	0	1	1
-procheorient	near east	0	0	1	0
 procheorient	middle-east	0	0	1	0
+procheorient	near east	0	0	1	0
 procheorient	middle east	0	0	1	0
 nouvellefrance	new-france	0	0	1	0
 nouvellefrance	new france	0	0	1	0
@@ -15214,9 +15027,9 @@ achevé	complete	0	0	1	0
 achevé	achieved	0	0	1	0
 exécuter	to execute	0	0	1	0
 exécuter	execute	0	0	1	1
-caractéristique	characteristic	0	0	1	1
-caractéristique	property	0	0	1	0
 caractéristique	characteristics	0	0	1	0
+caractéristique	property	0	0	1	0
+caractéristique	characteristic	0	0	1	1
 dix	ten	0	0	1	1
 législatives	legislative	0	0	1	0
 rituel	ceremony	0	0	1	0
@@ -15230,7 +15043,8 @@ cortex	cortex	0	0	1	1
 chanteur	singer	0	0	1	1
 labandon	abandonned	0	0	1	0
 labandon	abandonment	0	0	1	0
-prennent	take	0	0	1	0
+tiré	shoot	0	0	1	0
+tiré	shot	0	0	1	0
 masturbation	masturbation	0	0	1	1
 sadapter	sadapter	0	0	1	0
 sadapter	adapt	0	0	1	0
@@ -15290,19 +15104,11 @@ subventions	subventions	0	0	1	0
 subventions	subsidies	0	0	1	0
 toxiques	toxic	0	0	1	0
 toxiques	toxics	0	0	1	0
-atteinte	danger	0	0	1	0
 atteinte	damage	0	0	1	0
 atteinte	harming	0	0	1	0
 hivers	winters	0	0	1	0
 composées	composed	0	0	1	0
 atteints	hit	0	0	1	0
-atteints	reach	0	0	1	0
-atteints	attach	0	0	1	0
-atteints	contact	0	0	1	0
-atteints	attain	0	0	1	0
-atteints	catch	0	0	1	0
-atteints	affect	0	0	1	0
-atteints	arrive	0	0	1	0
 lopéra	the opera	0	0	1	0
 tenu	held	0	0	1	0
 tenu	view	0	0	1	0
@@ -15310,7 +15116,6 @@ lisbonne	lisboa	0	0	1	0
 lisbonne	lisbon	0	0	1	1
 nette	visible	0	0	1	0
 nette	net	0	0	1	0
-nette	clear	0	0	1	1
 beethoven	beethoven	0	0	1	0
 crée	creates	0	0	1	0
 crée	created	0	0	1	0
@@ -15364,8 +15169,9 @@ propagation	proliferation	0	0	1	0
 propagation	circulation	0	0	1	1
 propagation	spread	0	0	1	1
 lheure	time	0	0	1	0
-dhiver	of winter	0	0	1	0
-dhiver	winter	0	0	1	0
+arabes	arab	0	0	1	0
+arabes	arabs (armees arabes=arab armies)	0	0	1	0
+arabes	arabs	0	0	1	0
 bourdieu	bourdieau	0	0	1	0
 bourdieu	bourdieu	0	0	1	0
 hebdomadaire	weekly	0	0	1	1
@@ -15436,8 +15242,7 @@ parfois	sometimes	0	0	1	1
 décriture	of writing	0	0	1	0
 décriture	writing	0	0	1	0
 répétition	repetition	0	0	1	1
-balzac	balzac	0	0	1	0
-viande	meat	0	0	1	1
+xiii	xiii	0	0	1	0
 hercule	heracles	0	0	1	0
 hercule	hercule	0	0	1	0
 dannée	danneel	0	0	1	0
@@ -15452,7 +15257,6 @@ couples	pair	0	0	1	0
 brièvement	briefly	0	0	1	1
 battant	beating	0	0	1	0
 séparation	break-up	0	0	1	1
-séparation	seperation	0	0	1	0
 séparation	separation	0	0	1	1
 tillend	tillend	0	0	1	0
 tillend	till end	0	0	1	0
@@ -15462,7 +15266,6 @@ participant	entry	0	0	1	1
 fondements	foundations	0	0	1	0
 anciennes	ancient	0	0	1	0
 anciennes	old	0	0	1	0
-anciennes	former	0	0	1	0
 alphabet	alphabet	0	0	1	1
 vertébrés	vertebrates	0	0	1	0
 vertébrés	vertebrate	0	0	1	0
@@ -15512,13 +15315,11 @@ relief	relief	0	0	1	1
 relief	feature	0	0	1	0
 clôture	closure	0	0	1	1
 clôture	closing	0	0	1	1
-olivia	olivia	0	0	1	0
 olivia	olivia ( name )	0	0	1	0
 foyer	a home	0	0	1	0
 foyer	home	0	0	1	1
 foyer	household	0	0	1	0
 sopposer	oppose	0	0	1	0
-écho	repetition of a sound produced by the reflection of sound waves from a solid surface	0	0	1	0
 écho	echo	0	0	1	1
 actions	actions	0	0	1	0
 actions	stock	0	0	1	1
@@ -15561,7 +15362,6 @@ compter	take account	0	0	1	0
 virginie	virginia	0	0	1	1
 matrice	matrix	0	0	1	1
 librement	freely	0	0	1	1
-accepter	accept	0	0	1	1
 accepter	agree	0	0	1	1
 accepter	allow	0	0	1	0
 inflation	inflation	0	0	1	1
@@ -15573,7 +15373,9 @@ correspondant	corresponding	0	0	1	1
 correspondant	correspondant	0	0	1	0
 tante	aunt	0	0	1	1
 silverlight	silverlight	0	0	1	0
-accessibles	accessible	0	0	1	0
+nordest	northeast	0	0	1	0
+nordest	north east	0	0	1	0
+nordest	north-east	0	0	1	0
 kennedy	kennedy	0	0	1	0
 cdot	cdot	0	0	1	0
 cdot	c.	0	0	1	0
@@ -15584,6 +15386,7 @@ dépendent	depends	0	0	1	0
 dépendent	depend	0	0	1	0
 culminant	peak	0	0	1	0
 culminant	culminating	0	0	1	0
+dynasties	dynasties	0	0	1	0
 mulhouse	mulhouse	0	0	1	0
 possibles	possible	0	0	1	0
 possibles	possibles	0	0	1	0
@@ -15661,7 +15464,6 @@ gare	station	0	0	1	1
 dangleterre	dangleterre	0	0	1	0
 tribu	tribe	0	0	1	1
 fédérales	federal	0	0	1	0
-fédérales	federalcity's heritage resources	0	0	1	0
 rues	streets	0	0	1	0
 fantastique	fantastic	0	0	1	1
 gary	glass city	0	0	1	0
@@ -15687,7 +15489,8 @@ dispersion	dispersal	0	0	1	1
 strict	strict	0	0	1	1
 house	house	0	0	1	0
 cultures	cultures	0	0	1	0
-valley	valley	0	0	1	0
+disposer	to have	0	0	1	0
+disposer	dispose	0	0	1	1
 morrison	john morrison	0	0	1	0
 morrison	morrison	0	0	1	0
 doute	doubt	0	0	1	1
@@ -15735,9 +15538,7 @@ cbs	cbs	0	0	1	0
 retient	retain	0	0	1	0
 retient	keeps	0	0	1	0
 retient	retains	0	0	1	0
-amours	love affairs	0	0	1	0
-amours	love	0	0	1	0
-amours	love life	0	0	1	0
+samedi	saturday	0	0	1	1
 regroupe	regroups	0	0	1	0
 regroupe	encompasses	0	0	1	0
 regroupe	includes	0	0	1	0
@@ -15758,7 +15559,6 @@ oublier	forgot	0	0	1	0
 discours	speech	0	0	1	1
 océanie	oceania	0	0	1	1
 michelange	michelangelo	0	0	1	0
-michelange	michaelangelo	0	0	1	0
 richesse	riches	0	0	1	1
 richesse	wealth	0	0	1	1
 finale	final	0	0	1	1
@@ -15818,23 +15618,21 @@ dafrique	africa	0	0	1	0
 sony	sony	0	0	1	0
 racines	subculture	0	0	1	0
 racines	roots	0	0	1	0
-quatorze	fourteen	0	0	1	1
+carolingienne	carolingian	0	0	1	0
 intérêts	interests	0	0	1	1
 intérêts	ends	0	0	1	0
 intérêts	advantage	0	0	1	0
 intérêts	benefit	0	0	1	0
 intérêts	interest	0	0	1	0
 intérêts	appeal	0	0	1	0
-sociologique	sociological	0	0	1	0
+roy	roy	0	0	1	0
 lamitié	friendship	0	0	1	0
 lamitié	the friendship	0	0	1	0
-parvient	succeed	0	0	1	0
 parvient	reaches	0	0	1	0
 retour	come back	0	0	1	0
 retour	return	0	0	1	1
 jeudi	thursday	0	0	1	1
 conservant	conservant	0	0	1	0
-conservant	keeping	0	0	1	0
 conservant	maintaining	0	0	1	0
 lisa	lisa	0	0	1	0
 étés	summers	0	0	1	0
@@ -15873,9 +15671,8 @@ hasard	chance	0	0	1	1
 nba	nba	0	0	1	0
 tōkyō	capital city of japan	0	0	1	0
 tōkyō	tokyo	0	0	1	0
-affirmant	saying	0	0	1	0
-affirmant	declaring	0	0	1	0
-affirmant	asserting	0	0	1	0
+lencontre	towards	0	0	1	0
+lencontre	against	0	0	1	0
 what	what	0	0	1	0
 sud	south	0	0	1	1
 préférant	preferring	0	0	1	0
@@ -16006,8 +15803,6 @@ enfant	child	0	0	1	1
 écoles	schools	0	0	1	0
 écoles	school	0	0	1	0
 brown	brown	0	0	1	0
-brown	family name	0	0	1	0
-brown	brown colour	0	0	1	0
 pont	bridge	0	0	1	1
 pont	pont	0	0	1	0
 attirent	draw	0	0	1	0
@@ -16052,7 +15847,6 @@ pertes	losses	0	0	1	1
 tempêtes	storms	0	0	1	0
 larmée	the army	0	0	1	0
 équivalent	equivalent	0	0	1	1
-équivalent	equal to	0	0	1	0
 capture	capture	0	0	1	1
 ballade	ballad	0	0	1	1
 théorème	proposition	0	0	1	0
@@ -16178,9 +15972,7 @@ cahiers	books	0	0	1	0
 cahiers	notebook	0	0	1	0
 quinzaine	about fifteen	0	0	1	0
 quinzaine	fifteen	0	0	1	0
-quinzaine	fifteen or so	0	0	1	0
 socialisme	socialism	0	0	1	1
-intérieur	interior	0	0	1	1
 intérieur	inside	0	0	1	1
 intérieur	domestic	0	0	1	0
 pirates	pirates	0	0	1	0
@@ -16190,6 +15982,8 @@ organiser	organize	0	0	1	1
 communisme	communism	0	0	1	1
 lantisémitisme	antisemitism	0	0	1	0
 lantisémitisme	anti-semitism	0	0	1	0
+dispositif	device	0	0	1	0
+dispositif	plan	0	0	1	0
 finissent	finished	0	0	1	0
 finissent	finish	0	0	1	0
 finissent	end	0	0	1	0
@@ -16241,9 +16035,7 @@ divorce	divorce	0	0	1	1
 informations	information	0	0	1	0
 informations	informations	0	0	1	0
 pancréas	pancreas	0	0	1	1
-relate	relates	0	0	1	0
-relate	recounts	0	0	1	0
-relate	recount	0	0	1	0
+radical	radical	0	0	1	1
 électriques	electrical	0	0	1	0
 électriques	electrics	0	0	1	0
 canots	lifeboats	0	0	1	0
@@ -16364,8 +16156,8 @@ léchange	the exchange	0	0	1	0
 léchange	lechange	0	0	1	0
 léchange	trade	0	0	1	0
 fondateurs	founders	0	0	1	0
-durent	last	0	0	1	0
 durent	go on	0	0	1	0
+durent	last	0	0	1	0
 décède	dies	0	0	1	0
 décède	died	0	0	1	0
 goldman	goldman	0	0	1	0
@@ -16389,6 +16181,7 @@ créativité	creativity	0	0	1	1
 catégoriesérie	category: serie	0	0	1	0
 catégoriesérie	categirieserie	0	0	1	0
 windows	windows	0	0	1	0
+sartre	sartre	0	0	1	0
 métaphysique	metaphysical	0	0	1	1
 métaphysique	metaphysic	0	0	1	0
 aimé	loved	0	0	1	0
@@ -16417,7 +16210,6 @@ fondé	created	0	0	1	0
 lhomme	lhomme	0	0	1	0
 lhomme	mankind	0	0	1	0
 canadiens	canadians	0	0	1	0
-canadiens	canadian	0	0	1	0
 font	make	0	0	1	0
 font	are	0	0	1	0
 reçoivent	receive	0	0	1	0
@@ -16496,8 +16288,7 @@ klux	klux	0	0	1	0
 klux	(part of the name of an american racist organization)	0	0	1	0
 vont	go	0	0	1	0
 vont	will	0	0	1	0
-successives	successive	0	0	1	0
-pauvres	poor	0	0	1	1
+coordination	coordination	0	0	1	1
 préparation	rehearsal	0	0	1	0
 préparation	preparation	0	0	1	1
 femmes	woman	0	0	1	0
@@ -16510,17 +16301,16 @@ latin	latin	0	0	1	1
 ressemblance	resemblence	0	0	1	0
 ressemblance	resemblance	0	0	1	1
 ressemblance	similarity	0	0	1	1
-ringo	ringo	0	0	1	0
-ringo	ringo starr from the beatles	0	0	1	0
+attention	attention	0	0	1	1
 prépare	prepares	0	0	1	0
 prépare	prepare	0	0	1	0
 prépare	prepared	0	0	1	0
 proposées	offered	0	0	1	0
 proposées	proposed	0	0	1	0
-publicité	advertisement	0	0	1	1
-publicité	advertising	0	0	1	1
 publicité	advertisment	0	0	1	0
-rares	rare	0	0	1	0
+publicité	advertising	0	0	1	1
+publicité	advertisement	0	0	1	1
+opposition	opposition	0	0	1	1
 danemark	denmark	0	0	1	1
 nihilisme	nihilism	0	0	1	1
 pérou	peru	0	0	1	1
@@ -16550,7 +16340,7 @@ partage	share	0	0	1	0
 tgv	vhs (very high speed train)	0	0	1	0
 tgv	tgv	0	0	1	0
 construites	built	0	0	1	0
-sky	sky	0	0	1	0
+lavenir	the future	0	0	1	0
 engagés	undertakes's	0	0	1	0
 engagés	engaged	0	0	1	0
 engagés	committed	0	0	1	0
@@ -16579,7 +16369,6 @@ lintégralité	the integrity	0	0	1	0
 préférence	preference	0	0	1	1
 moine	monk	0	0	1	1
 exploités	exploited	0	0	1	0
-exploités	used	0	0	1	0
 dur	hard	0	0	1	1
 pi	pi	0	0	1	1
 pi	symbol for relaxation	0	0	1	0
@@ -16589,8 +16378,8 @@ chandler	shipchandler	0	0	1	0
 chandler	chandler	0	0	1	0
 sondages	surveys	0	0	1	0
 sondages	polls	0	0	1	0
-portée	worn	0	0	1	0
 portée	handed	0	0	1	0
+portée	worn	0	0	1	0
 portée	carried	0	0	1	0
 divinités	divinities	0	0	1	0
 divinités	deities	0	0	1	0
@@ -16616,7 +16405,6 @@ travaille	work	0	0	1	0
 travaille	works	0	0	1	0
 riz	seeds of a grass	0	0	1	0
 riz	rice	0	0	1	1
-quais	banks	0	0	1	0
 quais	docks	0	0	1	0
 quais	quays	0	0	1	0
 grandmère	grandmother	0	0	1	0
@@ -16736,14 +16524,13 @@ associations	union	0	0	1	0
 associations	partnership	0	0	1	0
 associations	organization	0	0	1	0
 associations	association	0	0	1	0
-extrémités	extremities	0	0	1	1
 extrémités	ends	0	0	1	0
+extrémités	extremities	0	0	1	1
 lauteur	lauteur	0	0	1	0
 lauteur	about the author	0	0	1	0
 lauteur	the author	0	0	1	0
-quaprès	après = after    qu'après = only after	0	0	1	0
-quaprès	only after	0	0	1	0
 quaprès	until after	0	0	1	0
+quaprès	only after	0	0	1	0
 grenobloise	from grenoble	0	0	1	0
 grenobloise	grenoble	0	0	1	0
 catalan	catalan	0	0	1	1
@@ -16805,7 +16592,7 @@ diamant	diamond	0	0	1	1
 diamant	diamonds	0	0	1	0
 vaccins	vaccines	0	0	1	0
 vaccins	vaccins	0	0	1	0
-sartre	sartre	0	0	1	0
+habituellement	usually	0	0	1	1
 faute	fault	0	0	1	1
 faute	lack (faute de reserves = given the lack of reserves)	0	0	1	0
 galeries	galleries	0	0	1	0
@@ -16822,7 +16609,7 @@ présenté	present	0	0	1	0
 présenté	presented	0	0	1	0
 rangs	ranks	0	0	1	1
 rangs	troops	0	0	1	0
-naturaliste	naturalist	0	0	1	1
+pauvres	poor	0	0	1	1
 lapprentissage	the learning	0	0	1	0
 lapprentissage	learning	0	0	1	0
 plaza	plaza	0	0	1	0
@@ -16832,7 +16619,7 @@ aiguë	acute	0	0	1	0
 aiguë	severe	0	0	1	0
 aiguë	http://mturk.jhu.edu/static/images/fr/word/0000393210.png	0	0	1	0
 ceci	this	0	0	1	1
-lavenir	the future	0	0	1	0
+gamme	range	0	0	1	1
 lycées	high-school	0	0	1	0
 lycées	high schools	0	0	1	0
 tardivement	late	0	0	1	0
@@ -16872,7 +16659,6 @@ faso	the name	0	0	1	0
 appartenance	adherence	0	0	1	0
 appartenance	membership	0	0	1	1
 vienne	vienne	0	0	1	0
-vienne	vienna	0	0	1	0
 lonu	un	0	0	1	0
 lonu	lonu	0	0	1	0
 lont	have it	0	0	1	0
@@ -16888,7 +16674,8 @@ jéhovah	jehovah	0	0	1	1
 disposant	possessing	0	0	1	0
 disposant	having access	0	0	1	0
 disposant	arrange	0	0	1	0
-delta	delta	0	0	1	1
+muraille	wall	0	0	1	1
+muraille	palissade	0	0	1	0
 présentation	presentation	0	0	1	1
 proches	close	0	0	1	0
 proches	relatives	0	0	1	0
@@ -16935,7 +16722,8 @@ tentative	attempt	0	0	1	1
 nick	nick	0	0	1	0
 grc	rcmp	0	0	1	0
 grc	crm	0	0	1	0
-rénovation	renovation	0	0	1	1
+donnant	giving	0	0	1	0
+donnant	facing	0	0	1	0
 lavoir	to have	0	0	1	0
 lavoir	wash	0	0	1	1
 nice	nice	0	0	1	0
@@ -16973,20 +16761,20 @@ effectués	performed	0	0	1	0
 établissements	establisement	0	0	1	0
 établissements	company	0	0	1	0
 établissements	etablissement	0	0	1	0
-établissements	institutions	0	0	1	0
+établissements	institution	0	0	1	0
 établissements	society	0	0	1	0
 établissements	base	0	0	1	0
 établissements	enterprise	0	0	1	0
 établissements	organization	0	0	1	0
 établissements	settlement	0	0	1	0
-établissements	institution	0	0	1	0
+établissements	institutions	0	0	1	0
 linformatique	linformatique	0	0	1	0
 linformatique	computer science	0	0	1	0
 citons	mention	0	0	1	0
 citons	include	0	0	1	0
 citons	we cite	0	0	1	0
-polonaise	polish	0	0	1	0
-polonaise	polish woman	0	0	1	0
+juridiques	juridical	0	0	1	0
+juridiques	legal	0	0	1	0
 effectuée	effected	0	0	1	0
 effectuée	performed	0	0	1	0
 jimi	jimi	0	0	1	0
@@ -17076,14 +16864,12 @@ nazie	nazy	0	0	1	0
 lukraine	lukraine	0	0	1	0
 lukraine	the ukraine	0	0	1	0
 catégoriefilm	category: movie	0	0	1	0
-catégoriefilm	should be 2 separate words catégorie : film = category : film	0	0	1	0
 tempéré	temperate	0	0	1	1
-échanges	trading	0	0	1	0
 échanges	exchanges	0	0	1	0
 lemploi	employment	0	0	1	0
 lemploi	the use	0	0	1	0
 attire	attracts	0	0	1	0
-robespierre	robespierre	0	0	1	0
+nuage	cloud	0	0	1	1
 nazis	nazis	0	0	1	0
 sexe	gender	0	0	1	1
 sexe	sex	0	0	1	1
@@ -17153,7 +16939,7 @@ lexpansion	the expansion	0	0	1	0
 carroll	carroll	0	0	1	0
 largeur	width	0	0	1	1
 légumes	vegetables	0	0	1	1
-infection	infection	0	0	1	1
+croyance	belief	0	0	1	1
 négatives	negative	0	0	1	0
 journaliste	reporter	0	0	1	1
 journaliste	press man	0	0	1	1
@@ -17193,7 +16979,6 @@ installés	settled	0	0	1	0
 installés	installed	0	0	1	0
 indirectement	indirectly	0	0	1	1
 indirectement	indirectment	0	0	1	0
-laspect	city's heritage resources	0	0	1	0
 laspect	appearance	0	0	1	0
 mineurs	minors	0	0	1	0
 mineurs	http://mturk.jhu.edu/static/images/fr/word/0000395270.png	0	0	1	0
@@ -17219,14 +17004,12 @@ sil	if it is	0	0	1	0
 pornographiques	pornographic	0	0	1	0
 exécutions	perform	0	0	1	0
 exécutions	executions	0	0	1	0
-passés	past	0	0	1	0
 passés	master keys	0	0	1	0
 passés	spent	0	0	1	0
 attend	expected	0	0	1	0
 attend	waits	0	0	1	0
 résultant	as a result off...	0	0	1	0
 résultant	resulting	0	0	1	0
-lhumeur	humor	0	0	1	0
 lhumeur	mood	0	0	1	0
 lirlande	irelands	0	0	1	0
 lirlande	ireland	0	0	1	0
@@ -17255,7 +17038,6 @@ développé	developped	0	0	1	0
 développé	développé	0	0	1	0
 télémaque	télémaque	0	0	1	0
 télémaque	telemachus	0	0	1	0
-récits	narratives	0	0	1	0
 récits	stories	0	0	1	0
 tyler	familyname	0	0	1	0
 tyler	tyler	0	0	1	0
@@ -17273,7 +17055,6 @@ meilleurs	best	0	0	1	0
 entrevue	interview	0	0	1	0
 wolfgang	wolfgang	0	0	1	0
 lautre	the other	0	0	1	0
-lautre	correct word is autre = other (l'autre is the other)	0	0	1	0
 ambition	ambition	0	0	1	1
 satellites	satellites	0	0	1	0
 satellites	satellite	0	0	1	0
@@ -17420,8 +17201,7 @@ sculpture	sculpture	0	0	1	1
 spatiale	space	0	0	1	0
 spatiale	spatial	0	0	1	0
 encore	again	0	0	1	1
-offrir	to present	0	0	1	0
-offrir	offer	0	0	1	1
+courte	short	0	0	1	0
 équilibre	balance	0	0	1	1
 équilibre	equilibrum	0	0	1	0
 équilibre	équlilibre	0	0	1	0
@@ -17455,8 +17235,8 @@ seront	will be	0	0	1	0
 seront	will	0	0	1	0
 seront	serot	0	0	1	0
 souligne	highlights	0	0	1	0
-souligne	underlines	0	0	1	0
 souligne	emphasize	0	0	1	0
+souligne	underlines	0	0	1	0
 =	=	0	0	1	0
 divers	various	0	0	1	1
 sol	soil	0	0	1	1
@@ -17530,7 +17310,6 @@ rideau	curtain	0	0	1	1
 monuments	buildings	0	0	1	0
 monuments	monuments	0	0	1	1
 batteur	drummer	0	0	1	1
-massacre	massacre	0	0	1	1
 massacre	slaughter	0	0	1	1
 secours	help / safety	0	0	1	0
 secours	rescue	0	0	1	1
@@ -17558,10 +17337,10 @@ qu	qu	0	0	1	0
 fondent	founded	0	0	1	0
 fondent	found	0	0	1	0
 fondent	based	0	0	1	0
-agricoles	agricultural	0	0	1	0
+paludisme	malaria	0	0	1	1
 partir	leave	0	0	1	1
-partir	depart	0	0	1	1
 partir	from	0	0	1	0
+partir	depart	0	0	1	1
 partis	parties	0	0	1	0
 limportance	significance	0	0	1	0
 limportance	the importance	0	0	1	0
@@ -17624,11 +17403,8 @@ piece	this is english  - it a name of a show	0	0	1	0
 propriétés	property	0	0	1	0
 propriétés	properties	0	0	1	0
 exemplaires	copies	0	0	1	0
-pochette	jacket	0	0	1	1
-pochette	cover	0	0	1	0
-pochette	disc pocket	0	0	1	0
-hachette	(the name of a famous publishing company)	0	0	1	0
-hachette	hachette	0	0	1	0
+viande	meat	0	0	1	1
+incident	incident	0	0	1	1
 commande	order (of vaccines)/commission (of an opera)	0	0	1	0
 commande	order	0	0	1	1
 laudience	the audience	0	0	1	0
@@ -17707,8 +17483,8 @@ fortes	strong	0	0	1	0
 restaurant	restaurant	0	0	1	1
 modifie	modifies	0	0	1	0
 modifie	changes	0	0	1	0
-will	(also man's name)	0	0	1	0
 will	will	0	0	1	0
+will	(also man's name)	0	0	1	0
 riche	rich	0	0	1	1
 officiels	official	0	0	1	0
 coûteux	costly	0	0	1	0
@@ -17742,7 +17518,6 @@ touchée	hit	0	0	1	0
 touchée	affected	0	0	1	0
 sociales	social	0	0	1	0
 polémique	polemic	0	0	1	1
-polémique	scandal	0	0	1	0
 garçon	boy	0	0	1	1
 pied	foot	0	0	1	1
 orthodoxe	orthodox	0	0	1	1
@@ -17789,11 +17564,9 @@ lever	rise	0	0	1	1
 laffaire	scandal	0	0	1	0
 english	anglais	0	0	1	0
 remonter	ascend	0	0	1	1
-remonter	pick/put up	0	0	1	0
 remonter	track back	0	0	1	0
 appliquées	applied	0	0	1	0
 bandes	bands	0	0	1	1
-bandes	strips	0	0	1	0
 bandes	stripes	0	0	1	0
 fausse	wrong	0	0	1	0
 fausse	false	0	0	1	0
@@ -17806,7 +17579,6 @@ lanimation	animation	0	0	1	0
 géographie	geography	0	0	1	1
 querelle	quarrel	0	0	1	1
 principautés	principalities	0	0	1	0
-principautés	principality	0	0	1	0
 forfait	forfait	0	0	1	0
 forfait	package	0	0	1	0
 forfait	felony	0	0	1	1
@@ -17841,7 +17613,7 @@ janvier	january	0	0	1	1
 reliques	relics	0	0	1	0
 serbe	serb	0	0	1	1
 serbe	serbian	0	0	1	1
-méditerranéen	mediterranean	0	0	1	1
+simple	simple	0	0	1	1
 synthèse	integration	0	0	1	0
 synthèse	synthesis	0	0	1	1
 usage	use	0	0	1	1
@@ -17866,6 +17638,7 @@ lorsquune	when a	0	0	1	0
 spirituel	spiritual	0	0	1	1
 stendhal	stendhal	0	0	1	0
 américain	american	0	0	1	1
+presse	press	0	0	1	1
 socialiste	socialist	0	0	1	1
 dauteurs	author's	0	0	1	0
 dauteurs	authors	0	0	1	0
@@ -17896,6 +17669,8 @@ morceau	piece	0	0	1	1
 morceau	extract	0	0	1	0
 occasionnellement	sometimes	0	0	1	0
 occasionnellement	occasionally	0	0	1	0
+scolarité	school	0	0	1	0
+scolarité	schooling	0	0	1	1
 bretons	bretons	0	0	1	0
 leader	leader	0	0	1	1
 cunnilingus	cunnilingus	0	0	1	0
@@ -17928,7 +17703,6 @@ extension	extension	0	0	1	1
 universe	universe	0	0	1	0
 concerts	concerts	0	0	1	0
 poète	poet	0	0	1	1
-pourtant	though	0	0	1	1
 pourtant	however	0	0	1	1
 pourtant	yet (or nevertheless)	0	0	1	0
 états	states	0	0	1	0

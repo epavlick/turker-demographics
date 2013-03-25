@@ -64,7 +64,8 @@ gunting	cut	0	0	1	0
 dikunjungi	visited	0	0	1	0
 dikunjungi	be visited	0	0	1	0
 kaitan	connection	0	0	1	0
-nanas	pineapple	0	0	1	1
+berkekalan	sustainable	0	0	1	0
+berkekalan	lasting	0	0	1	0
 piala	cup	0	0	1	1
 usenet	usenet	0	0	1	0
 pengadilan	judgement	0	0	1	0
@@ -85,8 +86,6 @@ bateri	battery	0	0	1	0
 biografi	biography	0	0	1	0
 ching	ching is	0	0	1	0
 ching	ching	0	0	1	0
-ching	it's a chinese name	0	0	1	0
-getaran	vibrant	0	0	1	0
 getaran	vibration	0	0	1	0
 tanjakan	upgrade	0	0	1	0
 eropah	europe	0	0	1	1
@@ -175,7 +174,6 @@ hatinya	his heart	0	0	1	0
 smtp	smtp	0	0	1	0
 geber	geber	0	0	1	0
 menggantikan	replace	0	0	1	0
-ditabalkan	cancelled	0	0	1	0
 ditabalkan	crowned	0	0	1	0
 terbentuknya	formation	0	0	1	0
 didiami	habitable	0	0	1	0
@@ -184,6 +182,7 @@ bioteknologi	biotechnology	0	0	1	0
 berbagai	various	0	0	1	0
 hon	horn	0	0	1	0
 berkhasiat	nutritious	0	0	1	0
+wuduk	ablution	0	0	1	0
 machine	machine	0	0	1	0
 how	how	0	0	1	0
 hos	host	0	0	1	0
@@ -212,7 +211,6 @@ tulis	write / writing	0	0	1	0
 berpandangan	opinion	0	0	1	0
 berpandangan	view	0	0	1	0
 gugur	fall	0	0	1	0
-kempenkempen	campaigns	0	0	1	0
 kempenkempen	campaign	0	0	1	0
 wing	wing	0	0	1	0
 soalan	question	0	0	1	0
@@ -260,7 +258,6 @@ panjangnya	in length	0	0	1	0
 bebas	freedom	0	0	1	0
 bebas	free	0	0	1	1
 pertikaian	dispute	0	0	1	0
-bersahabat	freind with	0	0	1	0
 bersahabat	friendship	0	0	1	0
 ditarikan	danced	0	0	1	0
 diubahsuai	modified	0	0	1	0
@@ -273,7 +270,7 @@ musang	weasel	0	0	1	0
 telekom	telecom	0	0	1	0
 integrasi	integration	0	0	1	0
 persenyawaan	fertilization	0	0	1	0
-seperti	such as	0	0	1	1
+seperti	such as	0	0	1	0
 seperti	as	0	0	1	0
 gigabait	means same meaning in both language	1	0	1	0
 gigabait	gigabit	1	1	0	0
@@ -512,15 +509,13 @@ padu	solid	0	0	1	1
 fail	file	0	0	1	0
 perikarditis	pericarditis	1	1	0	0
 best	best	0	0	1	0
-mukah	the mukah	0	0	1	0
-mukah	mukah	0	0	1	0
 alhaytham	al-haytham	0	0	1	0
 oceania	oceania	0	0	1	0
 kemerosotan	decline	0	0	1	0
 kesusilaan	morality	0	0	1	0
 syahadah	admission	0	0	1	0
 syahadah	testimony	0	0	1	0
-firnas	firnas	0	0	1	0
+keadilan	justice	0	0	1	0
 perisik	spy	0	0	1	0
 perisik	intelligence	0	0	1	0
 wikipedia	wikipedia	0	0	1	0
@@ -576,7 +571,6 @@ lemah	lethargic	0	0	1	0
 lemak	fat	0	0	1	1
 fizik	physics	0	0	1	0
 kategoripelancongan	kategoripelancongan	0	0	1	0
-kategoripelancongan	travel category	0	0	1	0
 demokrasi	democracy	0	0	1	0
 lemas	drowning	0	0	1	0
 lemas	drowned	0	0	1	0
@@ -600,8 +594,7 @@ stadium	stadium	0	0	1	0
 rasullullah	prophet	0	0	1	0
 rasullullah	prohet	0	0	1	0
 life	life	0	0	1	0
-arkib	archive	0	0	1	0
-arkib	archives	0	0	1	1
+perangperang	wars	0	0	1	0
 jelata	at large	0	0	1	0
 suam	warm	0	0	1	0
 eastern	eastern	0	0	1	0
@@ -630,7 +623,7 @@ player	player	0	0	1	0
 penjajah	colonialist	0	0	1	0
 keseluruh	the whole	0	0	1	0
 keseluruh	all of	0	0	1	0
-klinik	clinic	0	0	1	0
+memorial	memorial	0	0	1	0
 mentadbir	administer	0	0	1	0
 harmoni	harmony	0	0	1	0
 menyarankan	suggest	0	0	1	0
@@ -641,7 +634,6 @@ pembuat	maker	0	0	1	0
 pembuat	next	0	0	1	0
 galur	linked	0	0	1	0
 galur	channel	0	0	1	0
-galur	furrow	0	0	1	1
 faedah	benefit	0	0	1	1
 pontian	pontian	0	0	1	0
 shisui	shisui	0	0	1	0
@@ -664,13 +656,11 @@ namanama	names	0	0	1	0
 seksaan	torture	0	0	1	1
 muncul	appear	0	0	1	0
 beriklim	climate	0	0	1	0
-beriklim	weather or season	0	0	1	0
 membaling	throwing	0	0	1	0
 syariat	the tenets	0	0	1	0
 syariat	tenets	0	0	1	0
 hai	hai	0	0	1	0
 hai	hi	0	0	1	0
-amat	very	0	0	1	1
 hak	right	0	0	1	1
 hal	case	0	0	1	0
 han	han	0	0	1	0
@@ -713,7 +703,6 @@ isipadu	volume	0	0	1	0
 isipadu	isipadu	0	0	1	0
 people	people	0	0	1	0
 sisasisa	sisasisa	0	0	1	0
-sisasisa	left overs	0	0	1	0
 rimba	jungle	0	0	1	1
 jingga	orange	0	0	1	1
 menyelaras	coordinate	0	0	1	0
@@ -817,7 +806,6 @@ serafim	serfim	1	0	1	0
 serafim	seraphim	1	1	0	0
 serafim	kiev	1	0	1	0
 accounting	accounting	0	0	1	0
-darurat	in the state of emergency	0	0	1	0
 darurat	emergency	0	0	1	1
 elok	good	0	0	1	1
 elok	well	0	0	1	0
@@ -834,8 +822,8 @@ mulanya	first	0	0	1	0
 nyawa	life	0	0	1	1
 republik	rebublic	0	0	1	0
 republik	republic	0	0	1	0
-bertepatan	coincide	0	0	1	0
 bertepatan	consistent	0	0	1	0
+bertepatan	coincide	0	0	1	0
 diserahkan	submitted	0	0	1	0
 bagimu	you	0	0	1	0
 kebuluran	starvation	0	0	1	0
@@ -874,7 +862,7 @@ ingin	want	0	0	1	1
 ditandakan	marked	0	0	1	0
 jurang	gap	0	0	1	1
 disingkirkan	removed	0	0	1	0
-damsyik	damascus	0	0	1	0
+lrt	lrt	0	0	1	0
 lari	run	0	0	1	0
 prasasti	inscription	0	0	1	0
 prasasti	prasasti	0	0	1	0
@@ -940,7 +928,7 @@ oleh	by	0	0	1	1
 sawa	python	0	0	1	0
 studies	studies	0	0	1	0
 dibincangkan	discussed	0	0	1	0
-matrikulasi	matriculation	0	0	1	0
+ipa	ipa	0	0	1	0
 ipg	ipg	0	0	1	0
 musyrik	polytheist	0	0	1	0
 musyrik	pagans	0	0	1	0
@@ -957,7 +945,6 @@ mensasarkan	target	0	0	1	0
 papan	board	0	0	1	0
 tidak	not	0	0	1	1
 teoriteori	theories	0	0	1	0
-teoriteori	and applied	0	0	1	0
 pengebom	bomber	0	0	1	0
 singgahsana	throne	1	1	0	1
 singgahsana	origin	1	0	1	0
@@ -998,7 +985,6 @@ syafie	shafi	0	0	1	0
 tambun	tambun	0	0	1	0
 tambun	fat	0	0	1	0
 menegakkan	uphold	0	0	1	0
-menegakkan	erect	0	0	1	0
 penyebab	cause	0	0	1	0
 penyebab	penyabab	0	0	1	0
 kamil	perfect	0	0	1	0
@@ -1066,12 +1052,10 @@ st	st.	0	0	1	0
 st	st	0	0	1	0
 sk	sk	0	0	1	0
 perbandingan	comparison	0	0	1	0
-kategorinegara	category: country	0	0	1	0
 kategorinegara	category:country	0	0	1	0
 so	so	0	0	1	0
 sm	cm	0	0	1	0
 jenderak	jenderak	0	0	1	0
-jenderak	upgrading	0	0	1	0
 penjelasan	explanation	0	0	1	0
 sa	sa	0	0	1	0
 peredaran	circulation	0	0	1	0
@@ -1182,14 +1166,12 @@ perlesenan	licensing	0	0	1	0
 mengalami	experiencing	0	0	1	0
 mengalami	have	0	0	1	0
 berjemaah	congregationally	0	0	1	0
-berjemaah	congregation	0	0	1	0
 berjemaah	congregational	0	0	1	0
 jurnal	journal	0	0	1	0
 kuat	strong	0	0	1	1
 potter	potter	0	0	1	0
 ong	ong	0	0	1	0
 one	one	0	0	1	0
-nafsunya	desire	0	0	1	0
 nafsunya	lust	0	0	1	0
 nafsunya	desires	0	0	1	0
 kuah	gravy	0	0	1	1
@@ -1286,6 +1268,7 @@ batin	spiritual	0	0	1	0
 batin	inner	0	0	1	0
 berkunjung	visit	0	0	1	0
 chiang	chiang	0	0	1	0
+firnas	firnas	0	0	1	0
 laws	laws	0	0	1	0
 gundik	concubine	0	0	1	1
 lautan	ocean	0	0	1	1
@@ -1364,13 +1347,11 @@ watakwatak	characters	0	0	1	0
 pembangkang	opposition	0	0	1	0
 bermasalah	problematic	0	0	1	0
 bermasalah	problem	0	0	1	0
-bermasalah	with problem	0	0	1	0
 susun	layout	0	0	1	0
 mergong	estate	0	0	1	0
 terjamin	guaranteed	0	0	1	0
 berikat	warehouse	0	0	1	0
 berikat	allied	0	0	1	0
-berikat	belted	0	0	1	0
 ratusan	thousands	0	0	1	0
 ratusan	hundreds	0	0	1	0
 berikan	give	0	0	1	0
@@ -1387,6 +1368,7 @@ tanahair	homeland	0	0	1	0
 aktivitiaktiviti	activities	0	0	1	0
 meja	table	0	0	1	1
 keruntuhan	collapse	0	0	1	0
+bijirin	cereal	0	0	1	1
 ingatan	memory	0	0	1	0
 penaja	sponcers	0	0	1	0
 penaja	sponsor	0	0	1	0
@@ -1404,7 +1386,6 @@ airlines	airlines	0	0	1	0
 susilo	susilo	0	0	1	0
 mencetus	trigger	0	0	1	0
 mencetus	triggered	0	0	1	0
-mencetus	erupts	0	0	1	0
 terestrial	terrestrial	0	0	1	0
 mekong	mekong	0	0	1	0
 berpuasa	fast	0	0	1	0
@@ -1430,7 +1411,6 @@ kundang	kundang	0	0	1	0
 aluminium	aluminium	0	0	1	0
 aluminium	aluminum	0	0	1	0
 anggaran	estimate	0	0	1	0
-anggaran	estimation	0	0	1	0
 memadai	adeqaute	0	0	1	0
 memadai	adequate	0	0	1	0
 paha	pacha	0	0	1	0
@@ -1455,7 +1435,7 @@ penganiayaan	persecution	0	0	1	0
 wilhelm	wilhelm	0	0	1	0
 pengkajian	study	0	0	1	0
 ekologi	ecology	0	0	1	0
-telunjuk	index finger	0	0	1	1
+telunjuk	index finger	0	0	1	0
 penghinaan	contempt	0	0	1	0
 serbuk	powder	0	0	1	1
 komunisme	communism	0	0	1	0
@@ -1490,7 +1470,6 @@ being	being	0	0	1	0
 perlis	a state in malaysia	0	0	1	0
 siti	siti	0	0	1	0
 siti	comments	0	0	1	0
-siti	siti is a name of a person in malay. it's more of a femine name.	0	0	1	0
 setelah	after	0	0	1	0
 menyukai	like	0	0	1	0
 telinga	ear	0	0	1	1
@@ -1541,7 +1520,6 @@ logamlogam	metals	0	0	1	0
 cukup	enough	0	0	1	1
 cukup	http://mturk.jhu.edu/static/images/ms/word/0002910870.png	0	0	1	0
 peparu	lungs	0	0	1	0
-magma	magma	0	0	1	0
 magma	the magma	0	0	1	0
 grup	group	0	0	1	0
 perisikan	intelligence	0	0	1	0
@@ -1556,8 +1534,8 @@ mengawasi	guarding	0	0	1	0
 mengawasi	monitor	0	0	1	0
 radiasi	radiation	0	0	1	0
 kesakitan	pain	0	0	1	0
-tersumbat	tesumbat	0	0	1	0
 tersumbat	clog	0	0	1	0
+tersumbat	tesumbat	0	0	1	0
 berenang	swim	0	0	1	0
 berenang	swimming	0	0	1	0
 ddt	ddt	0	0	1	0
@@ -1617,8 +1595,7 @@ majlismajlis	councils	0	0	1	0
 majlismajlis	majlismajlis	0	0	1	0
 majlismajlis	council	0	0	1	0
 mustahak	important	0	0	1	1
-andaian	assumption	0	0	1	0
-andaian	assumptions	0	0	1	0
+bagus	good	0	0	1	1
 lang	lang	0	0	1	0
 lang	kites	0	0	1	0
 berganti	changing	0	0	1	0
@@ -1635,7 +1612,6 @@ regimen	regimen	0	0	1	0
 raga	basket	0	0	1	1
 raga	body	0	0	1	0
 pendukung	support	0	0	1	0
-pendukung	carrier	0	0	1	0
 nisaa	nissa	0	0	1	0
 kedatangan	arrival	0	0	1	0
 rusa	deer	0	0	1	1
@@ -1678,7 +1654,8 @@ langsung	direct	0	0	1	1
 kesembilan	nineteenth	0	0	1	0
 kesembilan	ninth	0	0	1	0
 terkejut	shocked	0	0	1	0
-jalanraya	road	0	0	1	0
+menuntut	claim	0	0	1	0
+menuntut	studying	0	0	1	0
 indah	beautiful	0	0	1	1
 herba	herb	0	0	1	0
 congress	congress	0	0	1	0
@@ -1711,13 +1688,11 @@ pelayar	browser	0	0	1	0
 persepsi	perception	0	0	1	0
 elektron	electron	0	0	1	0
 petanda	sign	0	0	1	0
-pengaruhnya	the influences	0	0	1	0
 pengaruhnya	influence	0	0	1	0
 pengaruhnya	its influence	0	0	1	0
 monyet	monkey	0	0	1	1
 tiroid	thyroid	0	0	1	0
 ismail	ismail	0	0	1	0
-ismail	ismail ( a malay name )	0	0	1	0
 tuaran	tuaran	0	0	1	0
 keningau	keningau	0	0	1	0
 terkemuka	leading	0	0	1	0
@@ -1727,7 +1702,6 @@ rububiyah	rububiyah	0	0	1	0
 kegemilangannya	glory	0	0	1	0
 mayat	body	0	0	1	0
 mayat	corpse	0	0	1	1
-mayat	dead body	0	0	1	0
 segelintir	a small portion	0	0	1	0
 segelintir	some	0	0	1	0
 rapat	close	0	0	1	1
@@ -1746,7 +1720,6 @@ mufti	http://mturk.jhu.edu/static/images/ms/word/0002912330.png	0	0	1	0
 jamuan	feast	0	0	1	0
 jamuan	reception	0	0	1	0
 jitra	jitra	0	0	1	0
-ghani	ghani	0	0	1	0
 ghani	hotel	0	0	1	0
 pemisahan	division	0	0	1	0
 pemisahan	seperation	0	0	1	0
@@ -1756,14 +1729,13 @@ projek	project	0	0	1	0
 cetakan	print	0	0	1	0
 cetakan	printing	0	0	1	0
 berasaskan	based	0	0	1	0
-berasaskan	based upon	0	0	1	0
 pbt	pbt	0	0	1	0
 pelir	penis	0	0	1	0
 sang	sang	0	0	1	0
 sang	the	0	0	1	0
 anggur	grape	0	0	1	1
 anggur	wine	0	0	1	0
-pencen	pension	0	0	1	0
+pbb	un	0	0	1	0
 small	small	0	0	1	0
 pelik	weird	0	0	1	0
 samoa	samoa	0	0	1	0
@@ -1788,7 +1760,6 @@ tanya	ask	0	0	1	0
 menambah	add	0	0	1	0
 menambah	to add / increase	0	0	1	0
 muafakat	consensus	0	0	1	0
-muafakat	agreement	0	0	1	1
 berlian	daimond	1	0	1	0
 berlian	diamond	1	1	1	1
 berlian	ukrainian	1	0	1	0
@@ -1836,7 +1807,6 @@ pelatih	trainer	0	0	1	0
 more	lebih	0	0	1	0
 more	more	0	0	1	0
 berserta	along	0	0	1	0
-berserta	together with	0	0	1	0
 company	company	0	0	1	0
 tebusan	ransom	0	0	1	1
 tebusan	repayment	0	0	1	0
@@ -1857,7 +1827,6 @@ erat	close	0	0	1	0
 erat	strong relation	0	0	1	0
 erat	tight	0	0	1	1
 mall	mall	0	0	1	0
-tersekat	stuck	0	0	1	0
 tersekat	jammed	0	0	1	0
 tersekat	block	0	0	1	0
 westmoreland	westmoreland	0	0	1	0
@@ -1958,9 +1927,7 @@ siasatan	investigation	0	0	1	1
 semakan	review	0	0	1	0
 lembut	soft	0	0	1	1
 bermutu	quality	0	0	1	0
-bermutu	with quality	0	0	1	0
 kuantiti	quantity	0	0	1	0
-antipengganas	anti terrorist	0	0	1	0
 antipengganas	anti-terrorism	0	0	1	0
 antipengganas	antipengganas	0	0	1	0
 kamus	dictionary	0	0	1	1
@@ -1998,7 +1965,7 @@ terusan	deep	1	0	1	0
 berpandukan	based	0	0	1	0
 research	research	0	0	1	0
 angkuh	arrogant	0	0	1	1
-kerana	because	0	0	1	1
+sulung	eldest	0	0	1	0
 kesilapan	error	0	0	1	0
 aljazari	aljazari	0	0	1	0
 aljazari	al-jazari	0	0	1	0
@@ -2008,7 +1975,8 @@ xia	xia	0	0	1	0
 kepimpinan	leadership	0	0	1	0
 difikirkan	thought	0	0	1	0
 mempersembahkan	present	0	0	1	0
-adakalanya	sometimes	0	0	1	0
+akhbar	newspaper	0	0	1	1
+akhbar	press	0	0	1	0
 berpangkat	rank	0	0	1	0
 diperkenankan	allowed	0	0	1	0
 teknologi	merchant	1	0	1	0
@@ -2022,8 +1990,6 @@ paparan	display	0	0	1	0
 penentangan	resistance	0	0	1	0
 mogok	strike	0	0	1	0
 tersesat	lost	0	0	1	0
-kuantan	kuantan is a state/town in malaysia	0	0	1	0
-pengekalan	definition	0	0	1	0
 pengekalan	retention	0	0	1	0
 major	major	0	0	1	0
 ramlee	ramlee	0	0	1	0
@@ -2046,7 +2012,6 @@ sains	sainsscience	1	0	1	0
 sains	greeks	1	0	1	0
 saint	saint	0	0	1	0
 menggariskan	outlined	0	0	1	0
-menggariskan	outlines/ outlays	0	0	1	0
 menggariskan	outlines	0	0	1	0
 kering	dry	0	0	1	1
 membenarkannya	allow	0	0	1	0
@@ -2055,8 +2020,8 @@ zeus	zeus	0	0	1	0
 perarakan	parade	0	0	1	0
 typhoon	typhoon	0	0	1	0
 typhoon	richoz	0	0	1	0
-kantonis	electronics	0	0	1	0
-kantonis	cantonese	0	0	1	0
+madya	medium	0	0	1	0
+madya	vice/assistant	0	0	1	0
 terbatas	limited	0	0	1	0
 terangsang	inflame	0	0	1	0
 merangka	design	0	0	1	0
@@ -2115,7 +2080,6 @@ jawapan	answer	0	0	1	0
 plag	plug	0	0	1	0
 persetujuan	agreement	0	0	1	0
 menjalani	undergo	0	0	1	0
-kategoriidentiti	catergory: identity	0	0	1	0
 kategoriidentiti	catoegory - identity	0	0	1	0
 kategoriidentiti	kategoriidentiti	0	0	1	0
 puja	obeisance	0	0	1	0
@@ -2160,9 +2124,7 @@ pertuturan	speech	0	0	1	0
 kilang	factory	0	0	1	1
 srivijaya	srivijaya	0	0	1	0
 srivijaya	kite	0	0	1	0
-srivijaya	srivijiaya	0	0	1	0
 ahmed	ahmed	0	0	1	0
-bersidang	conference	0	0	1	0
 bersidang	hold meeting	0	0	1	0
 bersidang	sit	0	0	1	0
 sebelum	before	0	0	1	0
@@ -2178,7 +2140,6 @@ emas	gold	0	0	1	1
 penuntut	student	0	0	1	0
 jadi	become	0	0	1	1
 jadi	agreed	0	0	1	0
-jadi	became	0	0	1	0
 akibatnya	consequently	0	0	1	0
 bungkus	wrap	0	0	1	0
 bungkus	pack	0	0	1	0
@@ -2245,7 +2206,6 @@ fire	fire	0	0	1	0
 penyimpan	depositor	0	0	1	0
 tiga	three	0	0	1	1
 jajahan	colony	0	0	1	0
-memandu	drive	0	0	1	0
 memandu	driving	0	0	1	0
 pengajar	instructor	0	0	1	0
 bercantum	join	0	0	1	0
@@ -2259,8 +2219,7 @@ komputerkomputer	komputerkomputer	0	0	1	0
 nanah	pus	0	0	1	1
 melayan	treat	0	0	1	0
 bersatu	unite	0	0	1	0
-berkekalan	sustainable	0	0	1	0
-berkekalan	lasting	0	0	1	0
+nanas	pineapple	0	0	1	1
 sesama	between	0	0	1	0
 sesama	fellow	0	0	1	0
 diarah	directed	0	0	1	0
@@ -2274,7 +2233,6 @@ menghadkan	to limit	0	0	1	0
 menghadkan	limit	0	0	1	0
 menghadkan	limiting	0	0	1	0
 memeluk	religion	0	0	1	0
-memeluk	embrace	0	0	1	0
 memeluk	hug / join	0	0	1	0
 nampak	see	0	0	1	1
 nampak	look	0	0	1	0
@@ -2285,8 +2243,6 @@ isterinya	its wife	0	0	1	0
 isterinya	wife	0	0	1	0
 monoksida	monoxide	0	0	1	0
 membuktikan	prove	0	0	1	0
-bekerjasama	work	0	0	1	0
-bekerjasama	cooperation	0	0	1	0
 tisutisu	tisutisu	0	0	1	0
 tisutisu	the tissues	0	0	1	0
 kontrovesi	controversy	0	0	1	0
@@ -2305,7 +2261,7 @@ penglihatan	sight	0	0	1	0
 penglihatan	vision	0	0	1	0
 pembayaran	payment	0	0	1	0
 pelaksanaan	implementation	0	0	1	0
-jalan	road	0	0	1	1
+displaystyle	displaystyle	0	0	1	0
 pengundi	voter	0	0	1	0
 pengundi	voters	0	0	1	0
 telahpun	has	0	0	1	0
@@ -2324,7 +2280,7 @@ kemegahan	splendor	0	0	1	0
 unta	camel	0	0	1	1
 liberalisme	liberalism	0	0	1	0
 buka	open	0	0	1	1
-kebenaran	truth	0	0	1	0
+psp	playstation portable	0	0	1	0
 timur	west	0	0	1	0
 timur	http://mturk.jhu.edu/static/images/ms/word/0002916490.png	0	0	1	0
 timur	east	0	0	1	1
@@ -2332,7 +2288,6 @@ mandat	mandates	0	0	1	0
 mandat	mandate	0	0	1	0
 pencipta	creator	0	0	1	0
 saksama	fair	0	0	1	1
-perangperang	wars	0	0	1	0
 dihidupkan	resurrect	0	0	1	0
 dihidupkan	enriched	0	0	1	0
 dihidupkan	swiched on	0	0	1	0
@@ -2343,7 +2298,6 @@ bertentangan	conflict	0	0	1	0
 australia	australia	0	0	1	0
 ahliahli	members	0	0	1	0
 format	format	0	0	1	0
-menganuti	follows	0	0	1	0
 menganuti	embrace	0	0	1	0
 menganuti	embraced	0	0	1	0
 hayat	life	0	0	1	1
@@ -2375,8 +2329,8 @@ talian	online	0	0	1	0
 ditemukan	found	0	0	1	0
 t	t	0	0	1	0
 be	be	0	0	1	0
-matlamat	goals	0	0	1	0
 matlamat	goal	0	0	1	0
+matlamat	goals	0	0	1	0
 ba	http://mturk.jhu.edu/static/images/ms/word/0002916880.png	0	0	1	0
 bn	bn	0	0	1	0
 badawi	badawi	0	0	1	0
@@ -2391,7 +2345,6 @@ diterjemahkan	determined	0	0	1	0
 by	by	0	0	1	0
 saudagar	merchant	0	0	1	1
 menyapu	manyapu	0	0	1	0
-menyapu	sweep	0	0	1	0
 menyapu	swept	0	0	1	0
 diakui	professed as	0	0	1	0
 diakui	recognized	0	0	1	0
@@ -2408,15 +2361,12 @@ inti	fill material	0	0	1	0
 inti	fillings	0	0	1	0
 plumbum	lead	0	0	1	1
 kassim	kassim	0	0	1	0
-syam	syria	0	0	1	0
-syam	sham	0	0	1	0
 muka	face	0	0	1	1
 hukuman	sentence	0	0	1	0
 ilmuwan	academic	0	0	1	0
 ilmuwan	scientists	0	0	1	0
 keracunan	poisoning	0	0	1	0
 kekerasan	violence	0	0	1	0
-kekerasan	tough	0	0	1	0
 leftenan	lieutenant	0	0	1	0
 sosialis	socialist	0	0	1	0
 suis	switch	0	0	1	0
@@ -2515,7 +2465,7 @@ dilengkapkan	completed	0	0	1	0
 dilengkapkan	complete with	0	0	1	0
 produkproduk	products	0	0	1	0
 produkproduk	productsour	0	0	1	0
-hadas	ritual impurity	0	0	1	1
+hadas	ritual impurity	0	0	1	0
 hadas	ritual impurities	0	0	1	0
 kedudukan	position	0	0	1	0
 superintendant	superintendant	0	0	1	0
@@ -2524,7 +2474,6 @@ kesemuanya	all	0	0	1	0
 reaksi	reaction	0	0	1	0
 acaraacara	events	0	0	1	0
 kapilari	capillaries	0	0	1	0
-haruslah	be	0	0	1	0
 haruslah	should	0	0	1	0
 haruslah	must	0	0	1	0
 bacaan	recitation	0	0	1	0
@@ -2563,7 +2512,6 @@ cuaca	weather	0	0	1	1
 pengakhiran	end	0	0	1	0
 pengakhiran	the end	0	0	1	0
 pelepasan	release	0	0	1	0
-pelepasan	emission	0	0	1	0
 tiaptiap	every office	0	0	1	0
 alim	learned	0	0	1	1
 alim	pious	0	0	1	1
@@ -2589,7 +2537,6 @@ berbuka	breaking	0	0	1	0
 mediterranean	mediterranean	0	0	1	0
 penasihat	adviser	0	0	1	0
 video	video	0	0	1	1
-jermanik	german	0	0	1	0
 jermanik	germanic	0	0	1	0
 bainun	bainun	0	0	1	0
 pertengahan	middle	0	0	1	0
@@ -2646,7 +2593,7 @@ survey	survey	0	0	1	0
 insulin	insulin	0	0	1	0
 berbau	smell	0	0	1	0
 cth	eg	0	0	1	0
-displaystyle	displaystyle	0	0	1	0
+jalan	road	0	0	1	1
 belajar	study	0	0	1	0
 gurindam	gurindam	0	0	1	0
 senja	twilight / dusk	0	0	1	0
@@ -2838,7 +2785,6 @@ tanggang	tanggang	0	0	1	0
 dipenuhi	filled	0	0	1	0
 serentak	simultaneously	0	0	1	1
 tok	tok	0	0	1	0
-tok	uncle	0	0	1	0
 tok	village	0	0	1	0
 memupuk	foster	0	0	1	0
 memupuk	encourage	0	0	1	0
@@ -2852,7 +2798,6 @@ david	david	0	0	1	0
 gabenor	governer	0	0	1	0
 gabenor	governor	0	0	1	0
 lalu	past	0	0	1	0
-lalu	and then	0	0	1	0
 lalu	last	0	0	1	0
 hussein	hussein	0	0	1	0
 anita	anita	0	0	1	0
@@ -2882,14 +2827,13 @@ kimpalan	weld	1	1	1	0
 kimpalan	christmas	1	0	1	0
 kimpalan	welding	1	1	1	0
 botol	bottle	0	0	1	0
-dakwahnya	missionary	0	0	1	0
 dakwahnya	preaching	0	0	1	0
+dakwahnya	missionary	0	0	1	0
 peristiwaperistiwa	events to	0	0	1	0
 peristiwaperistiwa	events	0	0	1	0
 menerbitkan	publish	0	0	1	0
 menerbitkan	published	0	0	1	0
-pembalakan	required	0	0	1	0
-pembalakan	logging	0	0	1	0
+bertenaga	vigorous	0	0	1	0
 ditembak	shot	0	0	1	0
 menyokong	supporting	0	0	1	0
 menyokong	support	0	0	1	0
@@ -2932,7 +2876,7 @@ sirius	sirius	0	0	1	0
 reseptor	receptors	0	0	1	0
 penyatuan	union	0	0	1	0
 mitos	myth	0	0	1	0
-membentukkan	form	0	0	1	0
+sutan	teta	0	0	1	0
 ribuan	thousands	0	0	1	0
 kemusnahan	destruction	0	0	1	0
 visi	vision	0	0	1	0
@@ -2953,7 +2897,6 @@ antologi	anthology	0	0	1	0
 paksaan	force	0	0	1	0
 paksaan	http://mturk.jhu.edu/static/images/ms/word/0002921110.png	0	0	1	0
 kejayaannya	the victory	0	0	1	0
-kejayaannya	success	0	0	1	0
 kejayaannya	achievement	0	0	1	0
 berketurunan	descent	0	0	1	0
 peti	box	0	0	1	1
@@ -2987,8 +2930,8 @@ bangkit	rise	0	0	1	0
 terima	received	0	0	1	0
 terima	accept	0	0	1	0
 pasukannya	the team	0	0	1	0
-pasukannya	his / her team	0	0	1	0
 pasukannya	team	0	0	1	0
+pasukannya	his / her team	0	0	1	0
 hutang	debt	0	0	1	1
 ananda	ananda	0	0	1	0
 jadikan	made	0	0	1	0
@@ -3000,7 +2943,7 @@ pengalaman	experience	0	0	1	0
 denmark	denmark	0	0	1	0
 berlayar	sail	0	0	1	0
 berlayar	sailing	0	0	1	0
-rowling	rowling	0	0	1	0
+ekonomi	economy	0	0	1	0
 persoalanpersoalan	of questions	0	0	1	0
 meningkat	increase	0	0	1	0
 meningkat	increasing	0	0	1	0
@@ -3023,8 +2966,7 @@ setem	stamp	0	0	1	0
 merkuri	mercury	0	0	1	0
 berkawan	be friends	0	0	1	0
 edition	edition	0	0	1	0
-artikel	article	0	0	1	0
-artikel	articles	0	0	1	0
+rimau	tiger	0	0	1	0
 mengorbit	orbiting	0	0	1	0
 mengorbit	orbit	0	0	1	0
 lepasan	post	0	0	1	0
@@ -3038,7 +2980,6 @@ sebahagiannya	in part	0	0	1	0
 multinasional	multinational	0	0	1	0
 pistol	pistol	0	0	1	0
 pistol	guns	0	0	1	0
-juruteknik	techinician	0	0	1	0
 juruteknik	technicians	0	0	1	0
 email	email	0	0	1	0
 kotak	box	0	0	1	1
@@ -3082,21 +3023,18 @@ motto	motto	0	0	1	0
 badiyyah	badiyyah	0	0	1	0
 langkawi	langkawi	0	0	1	0
 kalendar	calendar	0	0	1	0
-antah	antah	0	0	1	0
 antah	bran	0	0	1	0
+antah	antah	0	0	1	0
 panggilan	nickname	0	0	1	0
 panggilan	call	0	0	1	0
 faraj	vaginal	0	0	1	0
 menangkap	catch	0	0	1	0
-menangkap	arrest	0	0	1	0
 menangkap	to catch	0	0	1	0
 perkataan	word	0	0	1	0
 kaumnya	his / her community	0	0	1	0
 kaumnya	people	0	0	1	0
 ditujukan	directed	0	0	1	0
 genetik	genetic	0	0	1	0
-genetik	http://mturk.jhu.edu/static/images/ms/word/0002922170.png	0	0	1	0
->	more than / higher than	0	0	1	0
 pelawat	visitors	0	0	1	0
 majapahit	mahapahit	0	0	1	0
 majapahit	majapahit	0	0	1	0
@@ -3118,8 +3056,8 @@ bercetak	print	0	0	1	0
 bercetak	printed	0	0	1	0
 emosi	emotion	0	0	1	0
 emosi	emotional	0	0	1	0
+weber	weber	0	0	1	0
 ledang	ledang	0	0	1	0
-kelahiran	birth of	0	0	1	0
 kelahiran	birth	0	0	1	0
 eur	eur	0	0	1	0
 rekabentuk	design	0	0	1	0
@@ -3133,7 +3071,8 @@ sitc	sitc	0	0	1	0
 pancaran	radiation	0	0	1	0
 pancaran	emission	0	0	1	1
 site	site	0	0	1	0
-dihadiri	attended	0	0	1	0
+kelebihan	advantage	0	0	1	0
+kelebihan	excess	0	0	1	0
 vs	versus	0	0	1	0
 situ	there	0	0	1	1
 lompatan	jump	0	0	1	0
@@ -3145,7 +3084,6 @@ kemoterapi	chemotherapy	0	0	1	0
 kemoterapi	kemo therapy	0	0	1	0
 jual	sell	0	0	1	1
 jual	sale	0	0	1	0
-tahir	tahir	0	0	1	0
 tahir	pure	0	0	1	0
 tupai	squirral	0	0	1	0
 tupai	squirrel	0	0	1	1
@@ -3191,7 +3129,8 @@ nilam	nilam	0	0	1	0
 nilam	sapphire	0	0	1	1
 kerumitan	complexity	0	0	1	0
 nilai	value	0	0	1	1
-bijirin	cereal	0	0	1	1
+arkib	archives	0	0	1	1
+arkib	archive	0	0	1	0
 wei	wei	0	0	1	0
 otak	brain	0	0	1	1
 berkanun	statutory	0	0	1	0
@@ -3215,7 +3154,6 @@ hokkien	hokkien	0	0	1	0
 bersesuaian	appropriate	0	0	1	0
 bersesuaian	suitable	0	0	1	0
 marhalah	arabic unit of measurement	0	0	1	0
-marhalah	marhalah	0	0	1	0
 desa	village	0	0	1	0
 celaka	harm	0	0	1	0
 saadong	saadong	0	0	1	0
@@ -3329,11 +3267,9 @@ penghargaan	appreciation	0	0	1	0
 berendam	dip	0	0	1	0
 merdeka	independent	0	0	1	1
 pangkat	rank	0	0	1	1
-pendam	not reactive	0	0	1	0
 pendam	latent	0	0	1	0
 official	official	0	0	1	0
 memerintah	rule	0	0	1	0
-rashid	rashid	0	0	1	0
 pangkal	base	0	0	1	1
 pangkal	beginning	0	0	1	1
 pemelukan	conversion	0	0	1	0
@@ -3341,8 +3277,8 @@ pemelukan	embrace	0	0	1	0
 pangkah	cross	0	0	1	0
 kejahatannya	badness	0	0	1	0
 kejahatannya	evil	0	0	1	0
-gunaan	applied	0	0	1	0
-gunaan	usage	0	0	1	0
+mendakwa	claim	0	0	1	0
+mendakwa	accused	0	0	1	0
 suluk	suluk	0	0	1	0
 suluk	mysticism	0	0	1	0
 suai	adaptive	0	0	1	0
@@ -3374,7 +3310,7 @@ memotong	chop	0	0	1	0
 memotong	cut	0	0	1	0
 memotong	cutting	0	0	1	0
 memotong	cutting short	0	0	1	0
-memiliki	have	0	0	1	0
+nobita	nobita	0	0	1	0
 selayang	brief	0	0	1	0
 selayang	selayang	0	0	1	0
 zheng	zheng	0	0	1	0
@@ -3410,7 +3346,6 @@ matapelajaran	subject	0	0	1	0
 dituju	destination	0	0	1	0
 magnetik	magnetic	0	0	1	0
 magnetik	magnetik	0	0	1	0
-seolaholah	as though	0	0	1	0
 seolaholah	as if	0	0	1	0
 sfera	sphere	0	0	1	1
 integriti	integrity	0	0	1	0
@@ -3420,7 +3355,6 @@ khalid	khalid	0	0	1	0
 markas	headquarters	0	0	1	1
 rasulnya	god's prophet	0	0	1	0
 rasulnya	truth	0	0	1	0
-mengelak	avoid	0	0	1	0
 yugito	yugito	0	0	1	0
 belanga	pot	0	0	1	0
 edward	edward	0	0	1	0
@@ -3476,7 +3410,7 @@ penipuan	fraud	0	0	1	0
 penonton	spectators	0	0	1	0
 penonton	spectator	0	0	1	0
 +	+	0	0	1	0
-frank	frank	0	0	1	0
+retrieved	retrieved	0	0	1	0
 kalsium	calcium	0	0	1	0
 berkehendak	wants	0	0	1	0
 berkehendak	desire	0	0	1	0
@@ -3500,7 +3434,6 @@ wafat	died	0	0	1	0
 aku	i	0	0	1	1
 aki	battery	0	0	1	0
 aki	aki	0	0	1	0
-reka	create	0	0	1	0
 reka	design	0	0	1	0
 laju	"laju" means fast/speed	0	0	1	0
 laju	fast	0	0	1	1
@@ -3534,7 +3467,6 @@ sarat	loaded	0	0	1	0
 gedung	warehouse	0	0	1	0
 gedung	building	0	0	1	0
 mengusir	mangusir	0	0	1	0
-mengusir	evict	0	0	1	0
 mengusir	banish	0	0	1	0
 padang	field	0	0	1	1
 penggambaran	shooting	0	0	1	0
@@ -3587,16 +3519,14 @@ lam	lam	0	0	1	0
 fever	fever	0	0	1	0
 lah	is	0	0	1	0
 disiapkan	completed	0	0	1	0
-disiapkan	finished	0	0	1	0
 rabung	ridge	0	0	1	0
-memorial	memorial	0	0	1	0
+klinik	clinic	0	0	1	0
 menurutnya	adding	0	0	1	0
 menurutnya	according to	0	0	1	0
 menurutnya	according	0	0	1	0
 arca	sculpture	0	0	1	0
 arca	arch	0	0	1	0
 arca	statue	0	0	1	0
-rebab	rebab (a traditional malay musical instrument)	0	0	1	0
 rebab	fiddle	0	0	1	0
 olimpik	olympic	0	0	1	0
 olimpik	olympics	0	0	1	0
@@ -3665,7 +3595,6 @@ dilindungi	be protected	0	0	1	0
 membelah	chop	0	0	1	0
 membelah	split	0	0	1	0
 ketat	strict	0	0	1	0
-arkitek	architech	0	0	1	0
 arkitek	architect	0	0	1	0
 heteroseksual	party	1	0	1	0
 heteroseksual	heterosexuality	1	1	0	0
@@ -3673,7 +3602,7 @@ heteroseksual	third-party	1	0	1	0
 heteroseksual	heterosexual	1	1	1	0
 ketam	crabs	0	0	1	0
 ketam	crab	0	0	1	1
-logo	logo	0	0	1	0
+baling	vector	0	0	1	0
 diingat	remembered	0	0	1	0
 diingat	remember	0	0	1	0
 menteri	minister	0	0	1	1
@@ -3693,7 +3622,6 @@ paksa	force	0	0	1	0
 menerusi	through	0	0	1	0
 bercirikan	with features	0	0	1	0
 bercirikan	characterized by	0	0	1	0
-bercirikan	with such characteristics	0	0	1	0
 trafik	traffic	0	0	1	0
 sampah	waste	0	0	1	0
 sampah	rubbish	0	0	1	1
@@ -3743,6 +3671,7 @@ bahagian	part	0	0	1	0
 munculnya	emergence	0	0	1	0
 makhluk	being	0	0	1	0
 makhluk	creature	0	0	1	0
+wawasan	insight	0	0	1	0
 cakapnya	his / her words	0	0	1	0
 cakapnya	he said	0	0	1	0
 cakapnya	his words	0	0	1	0
@@ -3755,7 +3684,6 @@ saidi	saidi	0	0	1	0
 disuruh	asked	0	0	1	0
 disuruh	told to	0	0	1	0
 bulanan	monthly	0	0	1	0
-menziarahi	visited	0	0	1	0
 menziarahi	visit	0	0	1	0
 pancutan	ejaculation	0	0	1	0
 kuota	quota	0	0	1	0
@@ -3791,7 +3719,7 @@ disyorkan	recommended	0	0	1	0
 pembersihan	cleaning	0	0	1	0
 kinta	kinta	0	0	1	0
 onani	masturbation	0	0	1	0
-membekalkan	supply	0	0	1	0
+mematahkan	break	0	0	1	0
 memulakan	start	0	0	1	0
 membawanya	brought	0	0	1	0
 membawanya	take	0	0	1	0
@@ -3813,14 +3741,11 @@ gedang	pawpaw	0	0	1	0
 terselamat	survivors	0	0	1	0
 ditawarkan	offered	0	0	1	0
 pengumuman	announcement	0	0	1	0
-dikenakan	imposed	0	0	1	0
 dikenakan	are	0	0	1	0
 membincangkan	discuss	0	0	1	0
-khoo	http://mturk.jhu.edu/static/images/ms/word/0002927440.png	0	0	1	0
 khoo	khoo	0	0	1	0
 pendakwaan	prosecution	0	0	1	0
-tampar	volleyball	0	0	1	0
-tampar	slap	0	0	1	0
+sub	sub	0	0	1	0
 maritim	maritime	0	0	1	0
 penglibatan	involvement	0	0	1	0
 terkuat	strongest	0	0	1	0
@@ -3842,7 +3767,8 @@ itulah	that is	0	0	1	0
 itulah	it is	0	0	1	0
 hindia	indies	0	0	1	0
 hindia	hindi	0	0	1	0
-bertenaga	vigorous	0	0	1	0
+pembalakan	required	0	0	1	0
+pembalakan	logging	0	0	1	0
 toksik	toxic	0	0	1	0
 sultansultan	sultanates	0	0	1	0
 sultansultan	sutansultan	0	0	1	0
@@ -3850,9 +3776,9 @@ eurasia	eurasia	0	0	1	0
 eurasia	eurasian	0	0	1	0
 dorongan	encouragement	0	0	1	0
 gading	ivory	0	0	1	1
-gading	tusk	0	0	1	1
 lewis	lewis	0	0	1	0
-digambarkan	described	0	0	1	0
+keduanya	both	0	0	1	0
+keduanya	second	0	0	1	0
 permasalahan	problematic	0	0	1	0
 permasalahan	problem	0	0	1	0
 permasalahan	problems	0	0	1	0
@@ -3987,16 +3913,15 @@ ain	ain	0	0	1	0
 crespigny	crespigny	0	0	1	0
 samad	samad	0	0	1	0
 kemaraan	progress	0	0	1	0
-meninggal	died	0	0	1	0
-meninggal	pass away	0	0	1	0
 meninggal	passed away	0	0	1	0
+meninggal	died	0	0	1	0
 tentera	military	0	0	1	1
 tentera	army	0	0	1	1
 kategoriperayaan	festival category	0	0	1	0
 kategoriperayaan	kategoriperayaan	0	0	1	0
 indeks	index	0	0	1	0
 straits	straits	0	0	1	0
-cong	cong	0	0	1	0
+benang	thread	0	0	1	1
 ahliahlinya	its members	0	0	1	0
 ahliahlinya	members	0	0	1	0
 merawat	cure	0	0	1	0
@@ -4027,7 +3952,6 @@ tektonik	tectonic	0	0	1	0
 yakin	confident	0	0	1	1
 nasir	nasir	0	0	1	0
 balkan	balkan	0	0	1	0
-balkan	goodness	0	0	1	0
 hang	hang	0	0	1	0
 sdram	sdram	0	0	1	0
 ketumpatan	density	0	0	1	0
@@ -4039,9 +3963,8 @@ nasib	fate	0	0	1	1
 disebut	pronounced	0	0	1	0
 disebut	said	0	0	1	0
 disebut	called	0	0	1	0
-kacang	nut	0	0	1	0
-kacang	beans	0	0	1	0
 kacang	bean	0	0	1	0
+kacang	beans	0	0	1	0
 jaring	net	0	0	1	1
 hanyalah	only	0	0	1	0
 allahyaraham	allahyaraham	0	0	1	0
@@ -4061,11 +3984,14 @@ dihalau	driven	0	0	1	0
 dihalau	expel	0	0	1	0
 kadazan	kadazan	0	0	1	0
 terpelajar	educated	0	0	1	0
-sangat	very	0	0	1	1
+keldai	ass	0	0	1	1
+keldai	donkey	0	0	1	1
 kali	times	0	0	1	1
 kali	time	0	0	1	0
 newton	newton	0	0	1	0
-mig	mig	0	0	1	0
+dalamannya	the internals	0	0	1	0
+dalamannya	internal	0	0	1	0
+dalamannya	internally	0	0	1	0
 kepintaran	intelligence	0	0	1	0
 kepintaran	ingenuity	0	0	1	0
 mohamed	mohamed	0	0	1	0
@@ -4098,7 +4024,8 @@ stpm	stpm	0	0	1	0
 rahmat	mercy	0	0	1	1
 arab	arab	0	0	1	0
 rahman	rahman	0	0	1	0
-semata	only	0	0	1	0
+perbuatan	action	0	0	1	0
+perbuatan	act	0	0	1	0
 kardiak	cardiac	0	0	1	0
 cape	cape	0	0	1	0
 arah	direction	0	0	1	1
@@ -4106,7 +4033,7 @@ lymphoma	limfoma	0	0	1	0
 kenegaraan	nationhood	0	0	1	0
 sinonim	synonym	0	0	1	0
 bersemuka	face to face	0	0	1	0
-ketara	significant	0	0	1	0
+sering	often	0	0	1	1
 buruk	ugly	0	0	1	1
 buruk	bad	0	0	1	1
 xbox	xbox	0	0	1	0
@@ -4118,6 +4045,7 @@ sederhana	moderate	0	0	1	1
 diistilahkan	termed	0	0	1	0
 rawatan	treatment	0	0	1	1
 famili	family	0	0	1	0
+korea	korea	0	0	1	0
 salim	salim	0	0	1	0
 salib	cross	0	0	1	0
 intensif	intensive	0	0	1	0
@@ -4159,7 +4087,6 @@ termosfera	termosphere	1	1	0	0
 termosfera	themosphere	1	0	1	0
 affan	affan	0	0	1	0
 kerajaannya	government	0	0	1	0
-corak	pattern	0	0	1	1
 corak	design	0	0	1	1
 anime	anime	0	0	1	0
 komuniti	community	0	0	1	0
@@ -4212,7 +4139,6 @@ mtv	the mtv	0	0	1	0
 crystal	crystal	0	0	1	0
 revolusioner	revolutionary	0	0	1	0
 revolusioner	revelusioner	0	0	1	0
-cacat	disabled	0	0	1	0
 cacat	defective	0	0	1	1
 inspirasi	inspiration	0	0	1	0
 aorta	aorta	0	0	1	0
@@ -4250,7 +4176,6 @@ gonorrhea	gonorrhea	0	0	1	0
 tigris	tigris	0	0	1	0
 muthalib	underdeveloped	0	0	1	0
 concept	concept	0	0	1	0
-pengembara	traveller of a voyage	0	0	1	0
 pengembara	nomad	0	0	1	0
 kategoripenyanyi	kategoripenyanyi	0	0	1	0
 kategoripenyanyi	singer category	0	0	1	0
@@ -4299,10 +4224,8 @@ gua	cave	0	0	1	1
 berirama	rhythmic	0	0	1	0
 kepadamu	to you	0	0	1	0
 konteks	context	0	0	1	0
-dikaitkan	asociatied	0	0	1	0
-dikaitkan	associated	0	0	1	0
+p	p	0	0	1	0
 gunakan	use	0	0	1	0
-bertaraf	with standard	0	0	1	0
 bertaraf	standard	0	0	1	0
 bertaraf	classed as	0	0	1	0
 guy	guy	0	0	1	0
@@ -4335,7 +4258,7 @@ gaffar	gaffar	0	0	1	0
 basikal	bicycle	0	0	1	0
 mudah	easy	0	0	1	1
 jantina	gender	0	0	1	1
-amali	practical	0	0	1	0
+muslim	muslim	0	0	1	0
 keadaan	condition	0	0	1	0
 keluar	quit	0	0	1	0
 keluar	exit	0	0	1	1
@@ -4361,8 +4284,8 @@ menguatkan	reinforce	0	0	1	0
 bangi	new york	0	0	1	0
 bangi	bangi	0	0	1	0
 bertanggung	responsible	0	0	1	0
-kelabu	gray	0	0	1	0
-kelabu	grey	0	0	1	1
+memilih	choose	0	0	1	0
+memilih	chose	0	0	1	0
 franklin	franklin	0	0	1	0
 usually	usually	0	0	1	0
 churchill	churchill	0	0	1	0
@@ -4379,7 +4302,6 @@ gambus	harp	0	0	1	0
 disusuli	followed by	0	0	1	0
 hiburan	entertainment	0	0	1	0
 selepasnya	after	0	0	1	0
-selepasnya	later on	0	0	1	0
 tingkap	window	0	0	1	1
 mistisisme	of mysticism	1	1	0	0
 mistisisme	mystisism	1	1	0	0
@@ -4450,8 +4372,8 @@ pelengkap	fulfill	0	0	1	0
 pelengkap	complement	0	0	1	0
 riba	lap	0	0	1	0
 emigrasi	emigration	0	0	1	0
-applikasi	applications	0	0	1	0
 applikasi	application	0	0	1	0
+applikasi	applications	0	0	1	0
 abdi	servant	0	0	1	0
 abdi	slave	0	0	1	1
 kehebatan	intensity	0	0	1	0
@@ -4515,7 +4437,6 @@ dijunjung	upheld	0	0	1	0
 dijunjung	carried on the head	0	0	1	0
 dijunjung	held up	0	0	1	0
 organ	organ	0	0	1	0
-january	january	0	0	1	0
 january	month	0	0	1	0
 menghimpunkan	assemble	0	0	1	0
 menghimpunkan	collecting	0	0	1	0
@@ -4559,7 +4480,7 @@ seluruhnya	wholly	0	0	1	0
 barat	west	0	0	1	1
 utamanya	main	0	0	1	0
 utamanya	the main	0	0	1	0
-pengimbas	scanner	0	0	1	0
+wayar	wire	0	0	1	0
 barah	cancer	0	0	1	1
 cari	search	0	0	1	1
 cari	find	0	0	1	0
@@ -4581,7 +4502,6 @@ british	british	0	0	1	0
 sepadan	matching	0	0	1	0
 silika	silica	0	0	1	0
 berkongsi	share	0	0	1	0
-berkongsi	teamed up	0	0	1	0
 diajarkan	be taught	0	0	1	0
 diajarkan	taught	0	0	1	0
 gimnas	gymnast	0	0	1	0
@@ -4750,9 +4670,9 @@ pituitari	pituitary	0	0	1	0
 menyalahkan	blame	0	0	1	0
 terlibat	involved	0	0	1	0
 sedunia	worldwide	0	0	1	0
-abang	elder brother	0	0	1	1
+abang	elder brother	0	0	1	0
 bulgaria	bulgaria	0	0	1	0
-committee	committee	0	0	1	0
+mpaja	mpaja	0	0	1	0
 khalayak	public	0	0	1	0
 khalayak	crowd	0	0	1	0
 mengumpul	collecting	0	0	1	0
@@ -4774,7 +4694,6 @@ gian	gian	0	0	1	0
 between	between	0	0	1	0
 mandarin	mandarin	0	0	1	0
 import	imports	0	0	1	0
-import	import	0	0	1	0
 lukisan	painting	0	0	1	0
 lukisan	drawing	0	0	1	1
 pahat	chisel	0	0	1	1
@@ -4820,8 +4739,7 @@ ditutup	closed	0	0	1	0
 gurunya	his teacher	0	0	1	0
 gurunya	teacher	0	0	1	0
 semula	back	0	0	1	0
-parameswara	parameswaran	0	0	1	0
-parameswara	parameswara	0	0	1	0
+nuklear	nuclear	0	0	1	0
 tuanya	age	0	0	1	0
 tuanya	parents	0	0	1	0
 busuk	stinky	0	0	1	0
@@ -4841,7 +4759,6 @@ yunus	yunus	0	0	1	0
 yunus	jonah	0	0	1	0
 bengkak	swelling	0	0	1	1
 khusus	specific	0	0	1	1
-khusus	specialize	0	0	1	0
 khusus	special	0	0	1	1
 mejar	major (military rank)	0	0	1	0
 mejar	major	0	0	1	0
@@ -4858,7 +4775,6 @@ mengikut	in	0	0	1	0
 tersebar	spread	0	0	1	0
 maryam	maryam	0	0	1	0
 kerajaankerajaan	governments	0	0	1	0
-inflasi	inflation	0	0	1	0
 pedang	oedang	1	0	1	0
 pedang	sword	1	1	1	1
 pedang	height	1	0	1	0
@@ -4876,7 +4792,6 @@ saluran	channel	0	0	1	0
 kenya	kenya	0	0	1	0
 helium	helium	0	0	1	0
 khazanah	treasure	0	0	1	0
-timurnya	the east of	0	0	1	0
 timurnya	eastern	0	0	1	0
 proto	the proto	0	0	1	0
 media	media	0	0	1	0
@@ -4934,7 +4849,6 @@ menjejak	track	0	0	1	0
 menjejak	step	0	0	1	0
 tunku	tunku	0	0	1	0
 tunku	an honorary title given in malaysia	0	0	1	0
-pisifera	sfera	0	0	1	0
 chikungunya	chikungunya	0	0	1	0
 jauh	far	0	0	1	1
 mengembang	expand	0	0	1	0
@@ -4972,7 +4886,7 @@ bekalan	supply	0	0	1	0
 ladu	dumplings	0	0	1	0
 mikro	micro	0	0	1	0
 mikro	micro-	0	0	1	0
-psp	playstation portable	0	0	1	0
+kebenaran	truth	0	0	1	0
 amr	amr	0	0	1	0
 isteri	wife	0	0	1	1
 hidup	life	0	0	1	1
@@ -5040,7 +4954,7 @@ penulisan	write up	0	0	1	0
 penulisan	writing	0	0	1	0
 outlook	outlook	0	0	1	0
 keluasan	wide	1	1	0	0
-keluasan	area	1	1	1	0
+keluasan	area	1	1	0	0
 keluasan	avoid	1	0	1	0
 keluasan	vastness	1	1	1	0
 keluasan	width	1	1	1	0
@@ -5105,7 +5019,6 @@ pemergian	departure	0	0	1	0
 rongga	cavity	0	0	1	1
 sijil	certificate	0	0	1	1
 tutup	close	0	0	1	0
-tutup	closed	0	0	1	0
 tahap	stage	0	0	1	1
 lawan	against	0	0	1	0
 lawan	opponent	0	0	1	1
@@ -5140,7 +5053,6 @@ rekreasi	http://mturk.jhu.edu/static/images/ms/word/0000044851.png	1	0	1	0
 rekreasi	recreational	1	0	1	0
 rekreasi	fa	1	0	1	0
 cempaka	placed	0	0	1	0
-cempaka	cempaka	0	0	1	0
 lengan	arm	0	0	1	1
 lengan	arms	0	0	1	0
 laris	selling	0	0	1	0
@@ -5155,7 +5067,6 @@ pustaka	library	0	0	1	0
 memperlihatkan	show	0	0	1	0
 telekomunikasi	telecommunication	0	0	1	0
 langganan	subscriptions	0	0	1	0
-berahi	passion	0	0	1	0
 niatnya	intention	0	0	1	0
 niatnya	his intention	0	0	1	0
 melayari	navigate	0	0	1	0
@@ -5221,7 +5132,6 @@ eletrik	electric	0	0	1	0
 berkala	periodic	0	0	1	0
 jantung	heart	0	0	1	1
 pawagam	cinema	0	0	1	1
-pawagam	theather	0	0	1	0
 najis	excrement	0	0	1	1
 najis	feces	0	0	1	0
 najis	scat	0	0	1	0
@@ -5279,7 +5189,6 @@ datin	datin	0	0	1	0
 kronologi	chronology	0	0	1	0
 khan	khan	0	0	1	0
 congkak	proud	0	0	1	1
-congkak	congkak is a malay tradisional game	0	0	1	0
 dipergunakan	used	0	0	1	0
 oecd	oecd	0	0	1	0
 khas	typical	0	0	1	0
@@ -5303,10 +5212,8 @@ kembang	bloom	0	0	1	0
 kembang	flower	0	0	1	0
 sejatan	evaporation	0	0	1	0
 prasejarah	prehistoric	0	0	1	0
-sejurus	immediately	0	0	1	0
 sejurus	just	0	0	1	0
-kelebihan	advantage	0	0	1	0
-kelebihan	excess	0	0	1	0
+dihadiri	attended	0	0	1	0
 penggunanya	http://mturk.jhu.edu/static/images/ms/word/0002938360.png	0	0	1	0
 penggunanya	users	0	0	1	0
 hermione	hermione	0	0	1	0
@@ -5336,7 +5243,6 @@ malang	poor	0	0	1	0
 malang	unlucky	0	0	1	1
 abbasid	the abbasid	0	0	1	0
 bulanbulan	bulanbulan	0	0	1	0
-asalusulnya	the origins	0	0	1	0
 asalusulnya	asalusulnya	0	0	1	0
 bengkok	crooked	0	0	1	1
 bengkok	bent	0	0	1	1
@@ -5359,14 +5265,14 @@ kognitif	cognitive	0	0	1	0
 menghalalkan	legalise	0	0	1	0
 menghalalkan	justify	0	0	1	0
 konkrit	concrete	0	0	1	0
-hodgkin	hodgkin	0	0	1	0
+kuno	ancient	0	0	1	1
 qada	qada	0	0	1	0
 qada	missed days	0	0	1	0
 lancar	smooth	0	0	1	1
 joget	dance	0	0	1	0
 reaktif	reactive	0	0	1	0
 keiv	keiv	0	0	1	0
-lrt	lrt	0	0	1	0
+allahyarham	late	0	0	1	0
 dilanjutkan	extended	0	0	1	0
 borang	form	0	0	1	1
 kuasakuasa	powers	0	0	1	0
@@ -5378,9 +5284,9 @@ peleburan	smelting	0	0	1	0
 jagaan	http://mturk.jhu.edu/static/images/ms/word/0002938880.png	0	0	1	0
 jagaan	care	0	0	1	0
 indra	senses	0	0	1	0
-ehsan	courtesy	0	0	1	0
 ehsan	ehsan	0	0	1	0
-mpaja	mpaja	0	0	1	0
+ehsan	courtesy	0	0	1	0
+committee	committee	0	0	1	0
 kelentit	clitoris	0	0	1	1
 seratus	one hundred	0	0	1	0
 perkasa	strong	0	0	1	1
@@ -5393,8 +5299,6 @@ tugasnya	his	0	0	1	0
 tugasnya	task	0	0	1	0
 bercorak	pattern	0	0	1	0
 bercorak	figured	0	0	1	0
-tanjong	tanjong	0	0	1	0
-tanjong	bay	0	0	1	0
 umno	raman	0	0	1	0
 sarang	nest	0	0	1	1
 terdapat	found	0	0	1	0
@@ -5415,9 +5319,9 @@ terhadapnya	against	0	0	1	0
 mengembara	wander	0	0	1	0
 mengembara	adventure	0	0	1	0
 membolehkannya	enable	0	0	1	0
-dia	he or she	0	0	1	1
+dia	he or she	0	0	1	0
 dia	he	0	0	1	0
-perintis	pilot	0	0	1	0
+kelihatan	look	0	0	1	0
 jawi	jawi	0	0	1	0
 jawi	ox	0	0	1	0
 bersaudara	siblings	0	0	1	0
@@ -5474,7 +5378,7 @@ dibebaskan	released	0	0	1	0
 american	american	0	0	1	0
 madara	madara	0	0	1	0
 syria	syria	0	0	1	0
-kuno	ancient	0	0	1	1
+hodgkin	hodgkin	0	0	1	0
 bersikap	be	0	0	1	0
 kapar	flotsam	0	0	1	0
 kapas	cotton	0	0	1	1
@@ -5486,7 +5390,7 @@ dosa	sins	0	0	1	0
 dosa	sin	0	0	1	1
 laluan	route	0	0	1	0
 laluan	way	0	0	1	0
-kelihatan	look	0	0	1	0
+perintis	pilot	0	0	1	0
 membran	membrane	0	0	1	0
 kapal	ship	0	0	1	1
 kapak	ax	0	0	1	0
@@ -5498,7 +5402,6 @@ anakanda	child	0	0	1	0
 dicirikan	characterized	0	0	1	0
 nigeria	nigeria	0	0	1	0
 dayak	dayak	0	0	1	0
-sarjana	bachelor degree	0	0	1	0
 sarjana	master	0	0	1	0
 gibraltar	gibraltar	0	0	1	0
 audit	audit	0	0	1	0
@@ -5587,7 +5490,6 @@ rawa	marsh	0	0	1	0
 jordan	jordan	0	0	1	0
 populariti	popularity	0	0	1	0
 berhubungan	in relation	0	0	1	0
-berhubungan	relationship with	0	0	1	0
 ramarama	butterfly	0	0	1	0
 kononnya	so-called	0	0	1	0
 kononnya	apparently	0	0	1	0
@@ -5602,6 +5504,7 @@ koma-koma	saffron	1	1	0	0
 penyelarasan	coordination	0	0	1	0
 prasarana	infrastructure	0	0	1	0
 northern	northern	0	0	1	0
+amali	practical	0	0	1	0
 upah	wage	0	0	1	1
 sistematik	systematic	0	0	1	0
 dijana	generated	0	0	1	0
@@ -5617,7 +5520,6 @@ udang	prawn	1	1	1	1
 udang	shrimp	1	1	0	0
 circle	circle	0	0	1	0
 masakan	food	0	0	1	0
-masakan	cooking	0	0	1	0
 pucat	pale	0	0	1	1
 keputusan	decision	0	0	1	0
 penjelas	sinking	0	0	1	0
@@ -5677,7 +5579,6 @@ liwat	sodomy	0	0	1	1
 mega	cloud	0	0	1	0
 rancanganrancangan	rancanganarancangan	0	0	1	0
 rancanganrancangan	rancanganrancangan	0	0	1	0
-rancanganrancangan	shows	0	0	1	0
 kenyalang	hornbill	0	0	1	0
 lcct	lcct	0	0	1	0
 penawar	antidote	0	0	1	1
@@ -5707,7 +5608,6 @@ ekoran	as a result	0	0	1	0
 komputer	computer	0	0	1	0
 lahad	'lahad datu" name of a place	0	0	1	0
 lahad	lahad	0	0	1	0
-lahad	grave	0	0	1	0
 imam	imam	0	0	1	0
 imam	priest	0	0	1	0
 milenium	millennium	0	0	1	0
@@ -5762,6 +5662,8 @@ menafikan	denied	0	0	1	0
 used	used	0	0	1	0
 dibalas	rewarded	0	0	1	0
 ditambahkan	added	0	0	1	0
+kagum	impressed	0	0	1	0
+kagum	kagam	0	0	1	0
 pemangsa	predators	0	0	1	0
 diendahkan	ignored	0	0	1	0
 optik	optics	0	0	1	0
@@ -5769,7 +5671,6 @@ optik	optic	0	0	1	0
 kembali	return	0	0	1	1
 kembali	back	0	0	1	0
 keju	cheese	0	0	1	1
-user	user	0	0	1	0
 banten	banten	0	0	1	0
 yuan	yuan	0	0	1	0
 pesuruhjaya	commissioner	0	0	1	1
@@ -5782,7 +5683,8 @@ menjual	sell	0	0	1	0
 lim	lim	0	0	1	0
 kanannya	right side of	0	0	1	0
 kanannya	right	0	0	1	0
-selesa	comfortable	0	0	1	1
+mengalah	give up	0	0	1	0
+mengalah	give in	0	0	1	0
 perperangan	war	0	0	1	0
 diangkut	carried	0	0	1	0
 diangkut	transported	0	0	1	0
@@ -5792,7 +5694,7 @@ penyakitpenyakit	deseases	0	0	1	0
 penyakitpenyakit	disease	0	0	1	0
 penyakitpenyakit	diseases	0	0	1	0
 kolam	pool	0	0	1	0
-ipa	ipa	0	0	1	0
+matrikulasi	matriculation	0	0	1	0
 mangkat	died	0	0	1	0
 kemasyarakatan	social	0	0	1	0
 taiwan	taiwan	0	0	1	0
@@ -5854,8 +5756,10 @@ qatar	qatar	0	0	1	0
 aishah	aisha	0	0	1	0
 aishah	aishah	0	0	1	0
 kad	card	0	0	1	0
-mengendalikan	control	0	0	1	0
-seramik	ceramic	0	0	1	0
+mukah	the mukah	0	0	1	0
+mukah	mukah	0	0	1	0
+civilization	civilization	0	0	1	0
+civilization	biography	0	0	1	0
 tuhanku	from my	0	0	1	0
 tuhanku	my god	0	0	1	0
 delima	pomegranate	0	0	1	1
@@ -5869,7 +5773,6 @@ lohong	volcanic vent	0	0	1	0
 ampun	forgiveness	0	0	1	1
 mukmin	the believers	0	0	1	0
 padam	erase	0	0	1	0
-padam	delete	0	0	1	0
 lewat	late	0	0	1	1
 lewat	by	0	0	1	0
 ketegangan	tension	0	0	1	0
@@ -5882,10 +5785,9 @@ kekasih	lover	0	0	1	0
 menyampaikan	http://mturk.jhu.edu/static/images/ms/word/0002942490.png	0	0	1	0
 menyampaikan	deliver	0	0	1	0
 ditandatangani	ditadatangani	0	0	1	0
-ditandatangani	is sign by	0	0	1	0
 ditandatangani	be signed	0	0	1	0
 tadi	last	0	0	1	0
-tadi	just now	0	0	1	1
+tadi	just now	0	0	1	0
 dalamnya	the insides	0	0	1	0
 dalamnya	inside	0	0	1	0
 dalamnya	it	0	0	1	0
@@ -5914,7 +5816,6 @@ semut	ants	1	1	0	0
 dulu	previously	0	0	1	0
 dulu	first	0	0	1	0
 peru	peru	0	0	1	0
-selat	strait ( the strait of malaya )	0	0	1	0
 selat	strait	0	0	1	0
 barangan	things	0	0	1	0
 barangan	goods	0	0	1	0
@@ -5933,7 +5834,8 @@ melangkah	step	0	0	1	0
 politik	political	0	0	1	0
 hurufhuruf	alphabets	0	0	1	0
 hurufhuruf	hurufhuruf	0	0	1	0
-pemandu	guide	0	0	1	0
+syam	syria	0	0	1	0
+syam	sham	0	0	1	0
 monarki	monarchy	0	0	1	0
 kerohanian	spirituality	0	0	1	0
 bertanam	planting	0	0	1	0
@@ -5998,7 +5900,6 @@ kata	word	0	0	1	1
 ammonia	ammonia	0	0	1	0
 ditugaskan	assigned	0	0	1	0
 mewakili	represent	0	0	1	0
-selular	celular	0	0	1	0
 selular	cellular	0	0	1	0
 mosque	mosque	0	0	1	0
 tabung	tube	0	0	1	1
@@ -6065,7 +5966,6 @@ belah	split	0	0	1	0
 cell	cell	0	0	1	0
 piagam	charter	0	0	1	1
 sapu	broom	0	0	1	0
-sapu	sweep	0	0	1	0
 dipastikan	uncertain	0	0	1	0
 brunei	brunei	0	0	1	0
 pembinaan	construction	0	0	1	0
@@ -6103,7 +6003,7 @@ austria	austria	0	0	1	0
 bangau	egret	0	0	1	0
 bangau	pelican	0	0	1	0
 bangau	crane	0	0	1	0
-dicapai	achieved	0	0	1	0
+menipu	cheat	0	0	1	0
 ekor	tail	0	0	1	1
 berwarna	colored	0	0	1	0
 berwarna	coloured	0	0	1	0
@@ -6119,13 +6019,13 @@ gitar	guitar	0	0	1	0
 menderita	suffering	0	0	1	0
 menderita	suffer	0	0	1	0
 pensterilan	sterilization	0	0	1	0
-sesetengah	some	0	0	1	0
+quraisy	quraisy	0	0	1	0
+quraisy	qura	0	0	1	0
 oktober	october	0	0	1	1
 skudai	skudai	0	0	1	0
 dipisahkan	separated	0	0	1	0
 ditukarkan	converted	0	0	1	0
 ditukarkan	substituted	0	0	1	0
-kain	cloth	0	0	1	1
 saiznya	its size	0	0	1	0
 saiznya	size	0	0	1	0
 dasarnya	essentially	0	0	1	0
@@ -6136,7 +6036,7 @@ ulama	campaign	1	0	1	0
 ulama	scholarsa	1	0	1	0
 ulama	muslim scholars	1	0	1	0
 ulama	ulema	1	1	0	0
-ulama	muslim scholar	1	1	1	1
+ulama	muslim scholar	1	1	1	0
 ulama	shcolars	1	0	1	0
 ulama	religious scholars	1	0	1	0
 ulama	scholars	1	0	1	0
@@ -6149,7 +6049,6 @@ keruh	murky	0	0	1	0
 keruh	cloudy	0	0	1	1
 kategorimenteri	category:minister	0	0	1	0
 kategorimenteri	the minister's category	0	0	1	0
-kategorimenteri	category minister	0	0	1	0
 salad	salad	0	0	1	0
 penugasan	assignment	0	0	1	0
 salah	wrong	0	0	1	1
@@ -6161,7 +6060,8 @@ keatas	on	0	0	1	0
 keatas	to	0	0	1	0
 muat	load	0	0	1	0
 muat	download	0	0	1	0
-beijing	beijing	0	0	1	0
+kolonel	colonel	0	0	1	0
+kolonel	cononel	0	0	1	0
 protin	protein	0	0	1	0
 council	council	0	0	1	0
 penembak	shooter	0	0	1	0
@@ -6170,14 +6070,13 @@ galeri	gallery	0	0	1	0
 sudi	willing	0	0	1	1
 vaskular	vascular	0	0	1	0
 berhujah	argued	0	0	1	0
-berhujah	spoke	0	0	1	0
 acara	events	0	0	1	0
 insyaallah	god willing	0	0	1	0
 insyaallah	praise the lord	0	0	1	0
 kemanusiaan	humanitarian	0	0	1	0
 kemanusiaan	human	0	0	1	0
 kian	growing	0	0	1	0
-belum	not yet	0	0	1	1
+belum	not yet	0	0	1	0
 berikut	following	0	0	1	0
 kecewa	diappointed	0	0	1	0
 kecewa	disappoinment	0	0	1	0
@@ -6307,8 +6206,8 @@ mudik	upstream	0	0	1	0
 hamba	slave	0	0	1	1
 murut	murut	0	0	1	0
 kepekatan	concentration	0	0	1	0
-menggunakannya	use it	0	0	1	0
 menggunakannya	use	0	0	1	0
+menggunakannya	use it	0	0	1	0
 dilupakan	forgotten	0	0	1	0
 keizinan	keizinan	0	0	1	0
 keizinan	permission	0	0	1	0
@@ -6363,7 +6262,6 @@ kubus	cubic	1	0	1	0
 ben	ben	0	0	1	0
 penggantinya	his replacement	0	0	1	0
 penggantinya	successor	0	0	1	0
-memungkinkan	made possible	0	0	1	0
 memungkinkan	enable	0	0	1	0
 memungkinkan	allows	0	0	1	0
 pitas	pitas	0	0	1	0
@@ -6413,7 +6311,7 @@ fikir	think	0	0	1	1
 meletak	placed	0	0	1	0
 meletak	placing	0	0	1	0
 meletak	park	0	0	1	0
-santan	coconut milk	0	0	1	1
+santan	coconut milk	0	0	1	0
 santan	cocunut milk	0	0	1	0
 url	url	0	0	1	0
 kilangkilang	factories	0	0	1	0
@@ -6444,7 +6342,6 @@ ngo	ngos	0	0	1	0
 asasi	staple	0	0	1	0
 asasi	fundamental	0	0	1	1
 ditempa	be incused	0	0	1	0
-ditempa	shaped	0	0	1	0
 perlu	need	0	0	1	0
 berpindah	move	0	0	1	0
 berpindah	berpindah	0	0	1	0
@@ -6461,7 +6358,7 @@ menjanjikan	promise	0	0	1	0
 keberkesanan	effectiveness	0	0	1	0
 hayatnya	life	0	0	1	0
 hayatnya	his life	0	0	1	0
-percuma	free of charge	0	0	1	1
+percuma	free of charge	0	0	1	0
 percuma	free	0	0	1	0
 diduduki	occupied	0	0	1	0
 diduduki	inhabited by	0	0	1	0
@@ -6525,7 +6422,7 @@ entiti	entity	0	0	1	0
 payung	umberlla	0	0	1	0
 payung	umbrella	0	0	1	1
 institusiinstitusi	institutions	0	0	1	0
-ken	ken	0	0	1	0
+rempah	spice	0	0	1	0
 kem	camp	0	0	1	0
 kelab	club	0	0	1	0
 hanafi	hanafi	0	0	1	0
@@ -6542,8 +6439,8 @@ dipertikaikan	questioned	0	0	1	0
 dipertikaikan	dispute	0	0	1	0
 metana	the methane	0	0	1	0
 metana	methane	0	0	1	0
-berapa	how much	0	0	1	1
-berapa	how many	0	0	1	1
+berapa	how much	0	0	1	0
+berapa	how many	0	0	1	0
 berapa	how	0	0	1	0
 mongol	mongols	0	0	1	0
 masihi	http://mturk.jhu.edu/static/images/ms/word/0002947100.png	0	0	1	0
@@ -6565,16 +6462,16 @@ syaitan	devil	0	0	1	0
 kalah	lost	0	0	1	0
 kalah	lose	0	0	1	1
 sari	extract	0	0	1	0
-dihuni	inhabited	0	0	1	0
-dihuni	occupied	0	0	1	0
+syeikh	seyikh	0	0	1	0
+syeikh	sheikhs	0	0	1	0
 kalam	word	0	0	1	0
 manjung	manjung	0	0	1	0
 sara	sustenance	0	0	1	0
 berbeza	different	0	0	1	0
 yap	yap	0	0	1	0
 yam	yam	0	0	1	0
-mendakwa	claim	0	0	1	0
-mendakwa	accused	0	0	1	0
+gunaan	usage	0	0	1	0
+gunaan	applied	0	0	1	0
 yan	yan	0	0	1	0
 yak	yak	0	0	1	0
 kalau	if	0	0	1	1
@@ -6640,7 +6537,6 @@ menonjol	prominent	0	0	1	0
 maksiat	vice	0	0	1	1
 lanjutan	extension	0	0	1	0
 penghantaran	transmission	0	0	1	0
-menghayati	http://mturk.jhu.edu/static/images/ms/word/0002990110.png	0	0	1	0
 menghayati	appreciate	0	0	1	0
 i	i	0	0	1	0
 mecd	mecd	0	0	1	0
@@ -6668,8 +6564,7 @@ likat	viscous	0	0	1	0
 sekalian	all	0	0	1	0
 sekalian	everyone	0	0	1	0
 pencernaan	digestion	0	0	1	0
-penyokongpenyokong	support	0	0	1	0
-penyokongpenyokong	supporters	0	0	1	0
+balai	hall	0	0	1	1
 perhiasan	jewelry	0	0	1	0
 truper	trooper	0	0	1	0
 truper	troops	0	0	1	0
@@ -6690,7 +6585,7 @@ sarjan	sergeant	0	0	1	0
 lincoln	lincoln	0	0	1	0
 teknikteknik	teknikteknik	0	0	1	0
 lost	lost	0	0	1	0
-nobita	nobita	0	0	1	0
+memiliki	have	0	0	1	0
 muridmurid	students	0	0	1	0
 muridmurid	pupils	0	0	1	0
 pagi	morning	0	0	1	1
@@ -6768,6 +6663,8 @@ turuntemurun	hereditary	0	0	1	0
 lalat	fly	0	0	1	0
 melewatkan	delay	0	0	1	0
 melewatkan	skip	0	0	1	0
+dikaitkan	asociatied	0	0	1	0
+dikaitkan	associated	0	0	1	0
 astro	astro	0	0	1	0
 astro	stupid	0	0	1	0
 hk	hk	0	0	1	0
@@ -6806,8 +6703,7 @@ draco	draco	0	0	1	0
 eric	eric	0	0	1	0
 jibril	declare	0	0	1	0
 folik	folic	0	0	1	0
-kejuaraan	championship	0	0	1	0
-kejuaraan	title	0	0	1	0
+kain	cloth	0	0	1	1
 brooke	brooke	0	0	1	0
 sawit	oil palm	0	0	1	0
 anopheles	anopheles	0	0	1	0
@@ -6837,7 +6733,6 @@ mendengar	hear	0	0	1	0
 mendengar	mendergar	0	0	1	0
 mendengar	listen	0	0	1	0
 kolej	college	0	0	1	0
-diagnosis	diagnosis	0	0	1	0
 diagnosis	diagnosys	0	0	1	0
 menyayangi	love	0	0	1	0
 menyayangi	loves	0	0	1	0
@@ -6900,10 +6795,8 @@ dikumpul	collected	0	0	1	0
 mahir	skillful	0	0	1	0
 mahir	proficient	0	0	1	0
 force	force	0	0	1	0
-force	http://mturk.jhu.edu/static/images/ms/word/0002949900.png	0	0	1	0
 meringankan	ease	0	0	1	0
 awalnya	initially	0	0	1	0
-awalnya	earlier	0	0	1	0
 pembuatan	manufacture	0	0	1	0
 pembuatan	manufacturing	0	0	1	0
 tatkala	when	0	0	1	1
@@ -6950,9 +6843,8 @@ mel	mail	0	0	1	0
 seribu	thousand	0	0	1	0
 men	men	0	0	1	0
 mei	may	0	0	1	1
-pantang	taboo	0	0	1	0
-pantang	cannot	0	0	1	0
 pantang	abstinence	0	0	1	1
+pantang	cannot	0	0	1	0
 lenggong	lenggong	0	0	1	0
 otototot	muscles	0	0	1	0
 tindakan	action	0	0	1	1
@@ -6967,7 +6859,6 @@ pengganti	substitute	0	0	1	0
 pelancar	launchers	0	0	1	0
 restu	blessing	0	0	1	1
 termasuknya	included	0	0	1	0
-termasuknya	http://mturk.jhu.edu/static/images/ms/word/0002950310.png	0	0	1	0
 termasuknya	inclusion	0	0	1	0
 omar	omar	0	0	1	0
 permit	permit	0	0	1	0
@@ -6975,7 +6866,6 @@ dinamik	dynamic	0	0	1	0
 disedari	realized	0	0	1	0
 globalisasi	globalization	0	0	1	0
 globalisasi	globalisation	0	0	1	0
-myanmar	myanmar	0	0	1	0
 mulutnya	mouth	0	0	1	0
 memimpin	lead	0	0	1	0
 jujur	honest	0	0	1	1
@@ -7008,7 +6898,6 @@ flora	flora	0	0	1	0
 ledakan	explosion	0	0	1	1
 rights	rights	0	0	1	0
 mengenang	recall	0	0	1	0
-mengenang	remember	0	0	1	0
 disertai	desertai	0	0	1	0
 disertai	be accompanied	0	0	1	0
 disertai	accompanied by	0	0	1	0
@@ -7056,8 +6945,6 @@ akta	act	0	0	1	1
 perempat	quarter	0	0	1	0
 qadar	qadar	0	0	1	0
 qadar	power	0	0	1	0
-qadar	arabic word	0	0	1	0
-keadaankeadaan	http://mturk.jhu.edu/static/images/ms/word/0002950890.png	0	0	1	0
 keadaankeadaan	keadaankeadaan	0	0	1	0
 keadaankeadaan	conditions	0	0	1	0
 minoriti	minority	0	0	1	0
@@ -7088,6 +6975,7 @@ onn	part of the persons name	0	0	1	0
 kadangkadang	sometimes	0	0	1	0
 before	before	0	0	1	0
 benteng	fortress	0	0	1	1
+seperi	such as	0	0	1	0
 mempromosikan	promote	0	0	1	0
 mempromosikan	promoting	0	0	1	0
 digemari	liked	0	0	1	0
@@ -7147,7 +7035,6 @@ antizarah	antizarat	1	1	0	0
 antizarah	choice	1	0	1	0
 samurai	samurai	0	0	1	0
 gulagula	sweets	0	0	1	0
-gulagula	candy	0	0	1	0
 menjana	generate	0	0	1	0
 meresap	absorb	0	0	1	0
 meresap	seep	0	0	1	0
@@ -7186,7 +7073,6 @@ rindu	longing	0	0	1	0
 rindu	miss	0	0	1	0
 mendokong	support	0	0	1	0
 isu	issue	0	0	1	0
-isi	filling	0	0	1	0
 isi	contents	0	0	1	1
 katakataku	my words	0	0	1	0
 mokhtar	mokhtar	0	0	1	0
@@ -7234,7 +7120,7 @@ solomon	solomon	0	0	1	0
 tawau	tawau	0	0	1	0
 sasori	sasori	0	0	1	0
 begini	so	0	0	1	0
-begini	like this	0	0	1	1
+begini	like this	0	0	1	0
 melalui	through	0	0	1	0
 sanfotsi	sanfotsi	0	0	1	0
 kategoripendidikan	categories: education	0	0	1	0
@@ -7273,9 +7159,7 @@ komedi	comedy	0	0	1	0
 keat	keat	0	0	1	0
 maria	maria	0	0	1	0
 zealand	zealand	0	0	1	0
-mengalah	give up	0	0	1	0
-mengalah	resign	0	0	1	0
-mengalah	give in	0	0	1	0
+selesa	comfortable	0	0	1	1
 medical	medical	0	0	1	0
 doa	prayer	0	0	1	1
 m	m	0	0	1	0
@@ -7305,6 +7189,7 @@ tuhanmu	thy	0	0	1	0
 dajjal	dajjal	0	0	1	0
 seksual	sexual	0	0	1	0
 mempercepatkan	accelerate	0	0	1	0
+kilau	scintillation	0	0	1	0
 menjadikannya	makes	0	0	1	0
 menjadikannya	it	0	0	1	0
 makna	meaning	0	0	1	1
@@ -7321,7 +7206,6 @@ bau	smell	0	0	1	1
 bar	bar	0	0	1	0
 khayalan	fantasy	0	0	1	0
 khayalan	hallucination	0	0	1	0
-darinya	from	0	0	1	0
 darinya	it	0	0	1	0
 semporna	of semporna	0	0	1	0
 semporna	semporna	0	0	1	0
@@ -7372,7 +7256,8 @@ dilihat	seen	0	0	1	0
 mengawal	control	0	0	1	0
 saiz	size	0	0	1	0
 mengawan	climb into the sky	0	0	1	0
-rimau	tiger	0	0	1	0
+artikel	article	0	0	1	0
+artikel	articles	0	0	1	0
 merentasi	across	0	0	1	0
 tamatnya	the conclusion	0	0	1	0
 vitamin	vitamin	0	0	1	1
@@ -7417,7 +7302,6 @@ terancang	organised	0	0	1	0
 terancang	planned	0	0	1	0
 beranak	give birth	0	0	1	0
 beranak	birth	0	0	1	0
-beranak	pregnant	0	0	1	0
 tiang	pole	0	0	1	0
 tiang	pillar	0	0	1	1
 elektrik	electricity	0	0	1	0
@@ -7446,7 +7330,6 @@ cdrom	cdrom	0	0	1	0
 buktinya	evidence	0	0	1	0
 kota	town	0	0	1	0
 kota	city	0	0	1	1
-mohammad	mohammad	0	0	1	0
 tani	agriculture	0	0	1	0
 tani	farmer	0	0	1	0
 tang	tang	0	0	1	0
@@ -7509,10 +7392,9 @@ kim	kim	0	0	1	0
 serata	around the	0	0	1	0
 menyekat	block	0	0	1	0
 perpuluhan	decimal	0	0	1	0
-mematahkan	break	0	0	1	0
+membekalkan	supply	0	0	1	0
 letaknya	location	0	0	1	0
 letaknya	stand	0	0	1	0
-kelainan	difference	0	0	1	0
 kelainan	a difference	0	0	1	0
 kelainan	variation	0	0	1	0
 roma	rome	0	0	1	0
@@ -7528,8 +7410,8 @@ protocol	protocol	0	0	1	0
 just	just	0	0	1	0
 lubang	hole	0	0	1	1
 sekerja	colleague	0	0	1	0
-pengukuhan	strengthening	0	0	1	0
-pengukuhan	enhancement	0	0	1	0
+ponteng	absent	0	0	1	0
+ponteng	absenteeism	0	0	1	0
 bersiri	serial	0	0	1	0
 human	the human	0	0	1	0
 penginapan	lodging	0	0	1	0
@@ -7542,12 +7424,10 @@ membantah	disagree	0	0	1	0
 membantah	dispute	0	0	1	0
 royal	royal	0	0	1	0
 royal	flush	0	0	1	0
-kehendak	wants	0	0	1	0
 kehendak	will	0	0	1	0
 friedrich	friedrich	0	0	1	0
 airnya	water	0	0	1	0
 uzumaki	uzumaki	0	0	1	0
-massa	mass (mass media)	0	0	1	0
 massa	mass	0	0	1	0
 rejam	the best	1	0	1	0
 rejam	stone to death	1	0	1	0
@@ -7575,6 +7455,8 @@ melihat	see	0	0	1	0
 hiasan	decoration	0	0	1	0
 jadinya	birthday	0	0	1	0
 manual	manual	0	0	1	0
+parameswara	parameswaran	0	0	1	0
+parameswara	parameswara	0	0	1	0
 protokol	protocol	0	0	1	0
 penerimaan	acceptance	0	0	1	0
 segalanya	everything	0	0	1	0
@@ -7587,13 +7469,11 @@ penamaan	nomination	0	0	1	0
 kekosongan	vacancy	0	0	1	0
 kekosongan	void	0	0	1	0
 kekosongan	emptiness	0	0	1	0
-statistik	statistics	0	0	1	0
 statistik	statistical	0	0	1	0
 sekelompok	a group of	0	0	1	0
 sekelompok	group	0	0	1	0
 subjek	subject	0	0	1	0
 disangka	thought	0	0	1	0
-disangka	predicted	0	0	1	0
 kategorikelahiran	ketegorikelahiran	0	0	1	0
 murid	pupil	0	0	1	1
 dinasihatkan	advised	0	0	1	0
@@ -7607,7 +7487,7 @@ carta	chart	0	0	1	1
 bola	ball	0	0	1	1
 sarah	sarah	0	0	1	0
 hikmah	wisdom	0	0	1	0
-pilihan	choice	0	0	1	1
+sunan	arrangements	0	0	1	0
 gaara	gaara	0	0	1	0
 hikmat	blessings	0	0	1	0
 hikmat	wisdom	0	0	1	1
@@ -7628,7 +7508,8 @@ perosak	pest	0	0	1	0
 diambil	taken	0	0	1	0
 keroh	confusing	0	0	1	0
 tarawih	tarawih	0	0	1	0
-analisa	analysis	0	0	1	0
+pengkebumian	burial	0	0	1	0
+pengkebumian	funeral	0	0	1	0
 luak	badger	0	0	1	0
 grened	grenade	0	0	1	0
 kejayaan	victories	0	0	1	0
@@ -7651,8 +7532,8 @@ berputus	to give up	0	0	1	0
 berputus	given up	0	0	1	0
 berputus	give	0	0	1	0
 konvensyen	convention	0	0	1	0
-pengucapan	speech	0	0	1	0
 pengucapan	expression	0	0	1	0
+pengucapan	speech	0	0	1	0
 bukhari	bukhari	0	0	1	0
 kaligrafi	calligraphy	0	0	1	0
 kaligrafi	kaligrafai	0	0	1	0
@@ -7678,14 +7559,14 @@ bera	swollen	0	0	1	0
 granger	granger	0	0	1	0
 paku	nail	0	0	1	1
 binti	daughter	0	0	1	0
-binti	daughter of	0	0	1	1
+binti	daughter of	0	0	1	0
 beri	give	0	0	1	1
 badr	badr	0	0	1	0
 kematiannya	death	0	0	1	0
 membinasakan	destroy	0	0	1	0
 kilat	flash	0	0	1	0
 mesin	machine	0	0	1	0
-kilau	scintillation	0	0	1	0
+rashid	rashid	0	0	1	0
 beliung	tornado	0	0	1	0
 beliung	hatchet	0	0	1	1
 mesir	egypt	0	0	1	0
@@ -7701,7 +7582,7 @@ undang	law	0	0	1	1
 gejalagejala	gejalagejala	0	0	1	0
 gejalagejala	symptoms	0	0	1	0
 gejalagejala	symptom	0	0	1	0
-setuju	agree	0	0	1	0
+lumba	race	0	0	1	0
 pertelingkahan	dispute	0	0	1	0
 penyerang	attacker	0	0	1	0
 petir	lightening	1	0	1	0
@@ -7746,14 +7627,12 @@ skim	scheme	0	0	1	0
 gembira	happy	0	0	1	1
 menandatangani	sign (signature)	0	0	1	0
 menandatangani	sign	0	0	1	0
-mill	mill	0	0	1	0
 primer	primer	0	0	1	0
 primer	primary	0	0	1	0
 basra	basra	0	0	1	0
 segitiga	triangle	0	0	1	0
 pergunungan	mountains	0	0	1	0
-civilization	civilization	0	0	1	0
-civilization	biography	0	0	1	0
+seramik	ceramic	0	0	1	0
 keempat	fourth	0	0	1	0
 pendeta	minister	0	0	1	0
 pendeta	pastor	0	0	1	0
@@ -7788,15 +7667,12 @@ din	din	0	0	1	0
 bukit	hill	0	0	1	1
 mendalam	"dengan mendalam" more indepth	0	0	1	0
 mendalam	deep	0	0	1	0
-mendalam	indepth	0	0	1	0
 kesultanan	sultanate	0	0	1	0
 magnet	magnetic	0	0	1	0
 item	item	0	0	1	0
 nabinabi	nabinabi	0	0	1	0
 nabinabi	the prophets	0	0	1	0
 kepingan	pieces	0	0	1	0
-memilih	chose	0	0	1	0
-memilih	choose	0	0	1	0
 edaran	distribution	0	0	1	0
 edaran	circulation	0	0	1	0
 simptom	symptoms	0	0	1	0
@@ -7840,7 +7716,6 @@ insan	human being	0	0	1	0
 insan	person	0	0	1	0
 insan	man	0	0	1	0
 berlindung	shelter	0	0	1	0
-berlindung	took cover	0	0	1	0
 canadian	canadian	0	0	1	0
 letupan	explosion	0	0	1	1
 perdamaian	peace	0	0	1	0
@@ -7861,7 +7736,6 @@ kebal	impervious	0	0	1	0
 kebal	insusceptible	0	0	1	0
 modul	module	0	0	1	0
 pemisah	dividing	0	0	1	0
-selaput	layer	0	0	1	0
 selaput	membrane	0	0	1	1
 dipinda	amended	0	0	1	0
 dimuliakan	graced	0	0	1	0
@@ -7889,7 +7763,6 @@ ayu	pretty	0	0	1	1
 melambatkan	delay	0	0	1	0
 melambatkan	slowed	0	0	1	0
 pelajar	student	0	0	1	0
-rencana	story	0	0	1	1
 rencana	plan	0	0	1	0
 persengketaan	controversy	0	0	1	0
 malas	lazy	0	0	1	1
@@ -7984,7 +7857,6 @@ khalifah	caliph	0	0	1	1
 peranakan	hybrid	0	0	1	0
 peranakan	womb	0	0	1	0
 kulat	fungus	0	0	1	1
-kulat	worker	0	0	1	0
 johnson	johnson	0	0	1	0
 pengaliran	conduction	0	0	1	0
 pengaliran	flow	0	0	1	0
@@ -7998,7 +7870,6 @@ hassan	hassan	0	0	1	0
 tali	rope	0	0	1	1
 kulai	kulai	0	0	1	0
 pelanggaran	violation	0	0	1	0
-pelanggaran	collision	0	0	1	0
 negerinegeri	states	0	0	1	0
 negerinegeri	country	0	0	1	0
 negerinegeri	the states	0	0	1	0
@@ -8008,7 +7879,6 @@ machang	machang	0	0	1	0
 benjamin	benjamin	0	0	1	0
 menuai	reap	0	0	1	0
 membebaskan	release	0	0	1	0
-membebaskan	liberate	0	0	1	0
 police	police	0	0	1	0
 monitor	monitor	0	0	1	0
 thani	thani	0	0	1	0
@@ -8043,7 +7913,6 @@ zaid	zaid	0	0	1	0
 hidroelektrik	hydroelectric	0	0	1	0
 selari	parallel	0	0	1	0
 rock	rock	0	0	1	0
-latin	latin	0	0	1	0
 pusingan	rotation	0	0	1	1
 pusingan	round	0	0	1	0
 selangor	selangor	0	0	1	0
@@ -8164,7 +8033,6 @@ kucing	cat	0	0	1	1
 ulung	accomplished	0	0	1	0
 ulung	outstanding	0	0	1	0
 galaksi	galaxy	0	0	1	0
-bavaria	bavarian	0	0	1	0
 bavaria	bavaria	0	0	1	0
 dirakam	recorded	0	0	1	0
 rantau	region	0	0	1	1
@@ -8179,7 +8047,7 @@ khutbah	sermons	0	0	1	0
 rantai	bird	0	0	1	0
 rantai	chain	0	0	1	1
 tinggalan	remains	0	0	1	0
-mengguna	using	0	0	1	0
+politikal	political	0	0	1	0
 channel	channel	0	0	1	0
 pain	pine	0	0	1	0
 norman	norman	0	0	1	0
@@ -8191,7 +8059,6 @@ menyanyi	sing	0	0	1	0
 menyanyi	singing	0	0	1	0
 kebetulan	accident	0	0	1	0
 menganggotai	participates	0	0	1	0
-menganggotai	member of	0	0	1	0
 menganggotai	is a member of	0	0	1	0
 papar	show	0	0	1	0
 beta	beta	0	0	1	0
@@ -8207,7 +8074,7 @@ keuntungan	profit	0	0	1	0
 pertubuhan	organizations	0	0	1	0
 pertubuhan	association	0	0	1	0
 denyut	pulse	0	0	1	0
-lumba	race	0	0	1	0
+setuju	agree	0	0	1	0
 pejalan	walker	0	0	1	0
 pejalan	pedestrian	0	0	1	0
 berlipat	folded	0	0	1	0
@@ -8236,7 +8103,6 @@ over	over	0	0	1	0
 disiplin	discipline	0	0	1	0
 penganut	adherents	0	0	1	0
 get	get	0	0	1	0
-perangai	attitude	0	0	1	0
 perangai	behavior	0	0	1	0
 kanada	canada	0	0	1	0
 penebat	insulation	0	0	1	0
@@ -8296,21 +8162,18 @@ bertiga	three	0	0	1	0
 bertiga	three of them	0	0	1	0
 ja	ja	0	0	1	0
 jb	jb	0	0	1	0
-hidroponik	hydrophonic	0	0	1	0
-hidroponik	hydroponic	0	0	1	0
+berkedudukan	position	0	0	1	0
+berkedudukan	positioning	0	0	1	0
 contoh	example	0	0	1	1
 dibahagikan	divided	0	0	1	0
 hoki	hockey	0	0	1	0
 imf	imf	0	0	1	0
 according	according	0	0	1	0
 berubah	change	0	0	1	0
-sanusi	sanusi	0	0	1	0
-pengkebumian	burial	0	0	1	0
-pengkebumian	funeral	0	0	1	0
+pemandu	guide	0	0	1	0
 memusnahkan	destroyed	0	0	1	0
 memusnahkan	destroy	0	0	1	0
 mengingkari	deny	0	0	1	0
-mengingkari	disobey	0	0	1	0
 risikan	intelligence	0	0	1	0
 dki	dki	0	0	1	0
 pendedahan	exposure	0	0	1	0
@@ -8338,8 +8201,8 @@ maru	maru	0	0	1	0
 zakaria	zakaria	0	0	1	0
 naruto	naruto	0	0	1	0
 disunatkan	is desirable	0	0	1	0
-berkedudukan	position	0	0	1	0
-berkedudukan	positioning	0	0	1	0
+hidroponik	hydrophonic	0	0	1	0
+hidroponik	hydroponic	0	0	1	0
 marx	marx	0	0	1	0
 mary	mary	0	0	1	0
 bandingan	comparison	0	0	1	0
@@ -8368,7 +8231,6 @@ kefahaman	understanding	0	0	1	0
 peralatan	equipment	0	0	1	0
 peralatan	equipments	0	0	1	0
 khaldun	khaldun	0	0	1	0
-allahyarham	late	0	0	1	0
 hijaz	hijaz	0	0	1	0
 berlainan	different	0	0	1	0
 penciptaan	invention	0	0	1	0
@@ -8399,8 +8261,7 @@ pau	pau	0	0	1	0
 friendster	friendster	0	0	1	0
 mana	where	0	0	1	1
 mana	which	0	0	1	0
-cabang	branch  branch	0	0	1	0
-cabang	branch	0	0	1	1
+balik	return	0	0	1	1
 sama	same	0	0	1	1
 lava	lava	0	0	1	0
 sintaksis	syntaxis	0	0	1	0
@@ -8411,7 +8272,8 @@ seminggu	one week	0	0	1	0
 baratnya	west	0	0	1	0
 kandung	venter	0	0	1	0
 kandung	pouch	0	0	1	0
-bagi	for	0	0	1	1
+pak	pak	0	0	1	0
+pak	uncle	0	0	1	1
 pam	pump	0	0	1	0
 pan	pan	0	0	1	0
 baitul	bait	0	0	1	0
@@ -8501,8 +8363,7 @@ siasia	futile	0	0	1	0
 dibawah	below	0	0	1	0
 sudan	sudan	0	0	1	0
 sudah	already	0	0	1	1
-peningkatan	increase	0	0	1	0
-peningkatan	enhancement	0	0	1	0
+kategorisejarah	category	0	0	1	0
 gambargambar	the pictures	0	0	1	0
 rempit	rampit	0	0	1	0
 berasingan	seperate	0	0	1	0
@@ -8517,7 +8378,6 @@ lontaran	throw	0	0	1	0
 luaran	outside	0	0	1	0
 ladangladang	ladangladang	0	0	1	0
 ladangladang	farms	0	0	1	0
-ladangladang	the farm	0	0	1	0
 beku	frozen	0	0	1	1
 gerakan	motion	0	0	1	0
 gerakan	movement	0	0	1	0
@@ -8558,7 +8418,6 @@ mengaitkan	connect	0	0	1	0
 satusatu	a	0	0	1	0
 satusatu	orchard	0	0	1	0
 bermusim	seasonal	0	0	1	0
-bermusim	season	0	0	1	0
 perpecahan	disunity	0	0	1	0
 dayang	lady-in-waiting	0	0	1	0
 dayang	lady in waiting	0	0	1	0
@@ -8591,9 +8450,8 @@ sebatang	a single	0	0	1	0
 orbit	orbit	0	0	1	0
 pendatangpendatang	pendatangpendatang	0	0	1	0
 pendatangpendatang	immigrants	0	0	1	0
-sebarang	not any	0	0	1	0
 sebarang	no	0	0	1	0
-baling	vector	0	0	1	0
+logo	logo	0	0	1	0
 fili	act	0	0	1	0
 tinju	boxing	0	0	1	1
 film	film	0	0	1	0
@@ -8604,7 +8462,6 @@ kenali	know	0	0	1	0
 produktif	productive	0	0	1	0
 istanbul	istanbul	0	0	1	0
 dapati	found	0	0	1	0
-perseorangan	singles	0	0	1	0
 perseorangan	single	0	0	1	0
 perseorangan	individual	0	0	1	0
 field	field	0	0	1	0
@@ -8632,8 +8489,8 @@ liat	tough	0	0	1	0
 liar	wild	0	0	1	1
 lompat	jump	0	0	1	0
 barubaru	recently	0	0	1	0
-lokasinya	its location	0	0	1	0
-lokasinya	location	0	0	1	0
+goa	goa (location)	0	0	1	0
+goa	cave	0	0	1	0
 risda	risda	0	0	1	0
 berpaling	turn away	0	0	1	0
 berpaling	turn	0	0	1	0
@@ -8691,7 +8548,6 @@ tindakantindakan	actions	0	0	1	0
 menakjubkan	spectacular	0	0	1	0
 usia	age	0	0	1	1
 diam	silent	0	0	1	0
-diperhatikan	observed	0	0	1	0
 diperhatikan	observe	0	0	1	0
 diperhatikan	monitored	0	0	1	0
 penyair	poet	0	0	1	0
@@ -8713,7 +8569,6 @@ standard	standard	0	0	1	0
 pengusaha	entrepreneur	0	0	1	0
 pengusaha	makers	0	0	1	0
 pengusaha	entreprenuer	0	0	1	0
-search	search	0	0	1	0
 bible	bible	0	0	1	0
 perkakas	tool	0	0	1	1
 perkakas	appliance	0	0	1	0
@@ -8736,7 +8591,8 @@ enam	six	0	0	1	1
 antarabandar	intercity	0	0	1	0
 rancak	robust	0	0	1	0
 rintangan	resistance	0	0	1	0
-kurikulum	curriculum	0	0	1	0
+menghukum	penalize	0	0	1	0
+menghukum	sentenced	0	0	1	0
 diletak	placed	0	0	1	0
 diseluruh	throughout	0	0	1	0
 two	two	0	0	1	0
@@ -8776,7 +8632,6 @@ penggulingan	overthrow	0	0	1	0
 deb	deb	0	0	1	0
 pujangga	poet	0	0	1	0
 kasut	shoes	0	0	1	0
-kasut	shoe	0	0	1	1
 mendapan	sediment	0	0	1	0
 sawat	exchange	0	0	1	0
 sawat	exchanges	0	0	1	0
@@ -8802,7 +8657,6 @@ luruh	autumn	0	0	1	0
 luruh	drop	0	0	1	0
 luruh	leruh	0	0	1	0
 robinson	robinson	0	0	1	0
-robinson	english word	0	0	1	0
 larangan	prohibition	0	0	1	1
 alquran	al-quran (koran)	0	0	1	0
 alquran	al-quran	0	0	1	0
@@ -8838,7 +8692,7 @@ pukimak	scandium	1	1	0	0
 pukimak	pukimak	1	0	1	0
 pukimak	representing	1	0	1	0
 pukimak	mother fucker	1	1	0	0
-alps	alpine	0	0	1	0
+hidangan	serving	0	0	1	0
 memastikan	ensure	0	0	1	0
 panduan	guidance	0	0	1	1
 panduan	guide	0	0	1	0
@@ -8846,7 +8700,8 @@ digantung	suspended	0	0	1	0
 perjanjian	agreement	0	0	1	0
 indera	indera	0	0	1	0
 dragon	dragon	0	0	1	0
-balik	return	0	0	1	1
+cabang	branch  branch	0	0	1	0
+cabang	branch	0	0	1	1
 dianugerahkan	diaugerahkan	0	0	1	0
 dianugerahkan	awarded	0	0	1	0
 daya	power	0	0	1	1
@@ -8864,7 +8719,6 @@ menetapkan	set	0	0	1	0
 dimainkan	be played	0	0	1	0
 pengubahsuaian	modification	0	0	1	0
 pengubahsuaian	renovation	0	0	1	0
-through	http://mturk.jhu.edu/static/images/ms/word/0002963970.png	0	0	1	0
 through	through	0	0	1	0
 persediaan	preparation	0	0	1	0
 rotan	cane	0	0	1	1
@@ -8894,9 +8748,9 @@ oxford	oxford	0	0	1	0
 digantikan	replaced	0	0	1	0
 keanggotaan	membership	0	0	1	0
 merendah	lows	0	0	1	0
-pak	pak	0	0	1	0
-pak	uncle	0	0	1	1
+bagi	for	0	0	1	1
 tanjung	cape	0	0	1	1
+sanusi	sanusi	0	0	1	0
 kecuali	except	0	0	1	1
 kaca	glass	0	0	1	1
 meninggalkannya	leave	0	0	1	0
@@ -8909,7 +8763,6 @@ disembah	prayed	0	0	1	0
 disembah	worshipped	0	0	1	0
 disembah	worshiped	0	0	1	0
 gimnastik	gymnastics	0	0	1	0
-gimnastik	gymnastic	0	0	1	0
 dikatakan	said	0	0	1	0
 dikatakan	be said	0	0	1	0
 mentah	crude	0	0	1	0
@@ -8934,9 +8787,7 @@ batara	god	0	0	1	0
 batara	male deity	0	0	1	0
 ternyata	it appears	0	0	1	0
 pancasila	pancasila	0	0	1	0
-memperoleh	acquire	0	0	1	0
-memperoleh	gain	0	0	1	0
-memperoleh	get	0	0	1	0
+sharingan	sharingan	0	0	1	0
 sbp	sbp	0	0	1	0
 lawrence	lawrence	0	0	1	0
 sby	sby	0	0	1	0
@@ -8981,7 +8832,6 @@ kod	code	0	0	1	0
 ton	ton	0	0	1	0
 kos	cost	0	0	1	0
 kor	corp	0	0	1	0
-kor	corps	0	0	1	0
 mini	mini	0	0	1	0
 akan	will	0	0	1	1
 akal	mind	0	0	1	0
@@ -9079,11 +8929,10 @@ kecantikan	beauty	0	0	1	0
 kezaliman	tyranny	0	0	1	0
 malignant	malignant	0	0	1	0
 pemindahan	transshipment	1	1	0	0
-pemindahan	transhipment	1	0	1	0
-pemindahan	both	1	0	1	0
 pemindahan	transfer	1	1	1	0
 pemindahan	shifting	1	0	1	0
-pemindahan	transfering	1	0	1	0
+pemindahan	transhipment	1	0	1	0
+pemindahan	both	1	0	1	0
 penyediaan	preparation	0	0	1	0
 penyediaan	readiness	0	0	1	0
 networks	networks	0	0	1	0
@@ -9106,7 +8955,7 @@ kerat	cut	0	0	1	1
 kerat	slice	0	0	1	0
 kasarnya	roughly	0	0	1	0
 kerap	often	0	0	1	0
-ringkasnya	in short	0	0	1	1
+ringkasnya	in short	0	0	1	0
 keras	hard	0	0	1	1
 ngajat	ngajat	0	0	1	0
 express	express	0	0	1	0
@@ -9134,7 +8983,6 @@ kumbang	bug	0	0	1	0
 kumbang	beetle	0	0	1	1
 melihatnya	seen	0	0	1	0
 melihatnya	melihatnya	0	0	1	0
-melihatnya	view	0	0	1	0
 persegi	per square	0	0	1	0
 persegi	square	0	0	1	1
 penyu	turtle	0	0	1	1
@@ -9194,16 +9042,13 @@ sudirman	sudirman	0	0	1	0
 bujur	oval	0	0	1	1
 bujur	oblong	0	0	1	1
 kabinet	cabinet	0	0	1	0
-uiam	iium	0	0	1	0
 uiam	iiam	0	0	1	0
 kemodenan	modernity	0	0	1	0
 kemodenan	kemodanan	0	0	1	0
 tindakbalas	reaction	0	0	1	0
-tindakbalas	the response	0	0	1	0
 gumpalan	clump	0	0	1	0
 gumpalan	lump	0	0	1	0
 pelepah	frond	0	0	1	0
-pelepah	feather	0	0	1	0
 pelepah	fronds	0	0	1	0
 penapisan	filtering	0	0	1	0
 penapisan	filtration	0	0	1	0
@@ -9214,8 +9059,7 @@ eksekutif	executive	0	0	1	0
 takluk	conquered	0	0	1	0
 takluk	subject	0	0	1	0
 menyentuh	touch	0	0	1	0
-pilah	segment	0	0	1	0
-pilah	choose	0	0	1	0
+selanjutnya	further	0	0	1	0
 memasak	cook	0	0	1	0
 memasak	cooking	0	0	1	0
 gay	gay	0	0	1	0
@@ -9237,6 +9081,7 @@ bila	was	0	0	1	0
 bill	bill	0	0	1	0
 mencegah	prevent	0	0	1	0
 membahagikan	divide	0	0	1	0
+rasional	rational	0	0	1	0
 menjelma	appear	0	0	1	0
 menjelma	transform	0	0	1	0
 penggantian	replacement	0	0	1	0
@@ -9255,7 +9100,6 @@ dijual	sold	0	0	1	0
 mentakrifkan	define	0	0	1	0
 mentakrifkan	defines	0	0	1	0
 umatnya	his followers	0	0	1	0
-umatnya	the followers	0	0	1	0
 umatnya	people	0	0	1	0
 baja	fertilizer	0	0	1	1
 itali	italy	0	0	1	0
@@ -9316,7 +9160,6 @@ pemproses	processor	0	0	1	0
 kategorilogam	category:metal	0	0	1	0
 kategorilogam	category: metal	0	0	1	0
 dikhaskan	reserved	0	0	1	0
-dikhaskan	specially	0	0	1	0
 kirinya	to his/her left	0	0	1	0
 kirinya	left	0	0	1	0
 mekanisme	mechanism	0	0	1	0
@@ -9328,7 +9171,6 @@ kubah	dome	0	0	1	1
 kumpulan	group	0	0	1	0
 kumpulan	team	0	0	1	0
 bin	son	0	0	1	0
-mewujudkan	creates	0	0	1	0
 mewujudkan	create	0	0	1	0
 mewujudkan	established / created	0	0	1	0
 bil	bill	0	0	1	0
@@ -9340,7 +9182,6 @@ haluan	direction	0	0	1	1
 diancam	threatened	0	0	1	0
 insuran	insurance	0	0	1	0
 merangkul	embrace	0	0	1	0
-merangkul	embraced	0	0	1	0
 janganlah	not	0	0	1	0
 janganlah	do not	0	0	1	0
 daerah	district	0	0	1	1
@@ -9405,7 +9246,6 @@ meletup	exploded	0	0	1	0
 meletus	erupt	0	0	1	0
 kaamatan	intensity	0	0	1	0
 kaamatan	kaamatan	0	0	1	0
-sebalik	behind	0	0	1	0
 sebalik	despite the	0	0	1	0
 bakat	talent	0	0	1	1
 bakau	mangrove	0	0	1	1
@@ -9413,7 +9253,6 @@ cemerlang	brilliant	0	0	1	0
 cemerlang	stellar	0	0	1	0
 bakar	burn	0	0	1	1
 bakar	roasted	0	0	1	0
-kepalanya	head	0	0	1	0
 kepalanya	his / her head	0	0	1	0
 kepalanya	the head	0	0	1	0
 dikongsi	shared	0	0	1	0
@@ -9456,8 +9295,7 @@ vivax	vivax	0	0	1	0
 vivax	vivaz	0	0	1	0
 satusatunya	the only	0	0	1	0
 keguguran	miscarriage	0	0	1	0
-quraisy	quraisy	0	0	1	0
-quraisy	qura	0	0	1	0
+sesetengah	some	0	0	1	0
 sdn	sdn	0	0	1	0
 sdn	international sdn	0	0	1	0
 pengantin	bride	0	0	1	1
@@ -9496,17 +9334,18 @@ diumumkan	posted	0	0	1	0
 mekanikal	mechanical	0	0	1	0
 kaunuhu	kaunuhu	0	0	1	0
 abidin	abidin	0	0	1	0
-bagus	good	0	0	1	1
+andaian	assumption	0	0	1	0
+andaian	assumptions	0	0	1	0
 berbanding	than	0	0	1	0
 maldives	maldives	0	0	1	0
 ladang	field	0	0	1	0
 soekarno	soekarno	0	0	1	0
-menuntut	claim	0	0	1	0
-menuntut	studying	0	0	1	0
+jalanraya	road	0	0	1	0
 penganutnya	adherent	0	0	1	0
 uterus	uterus	0	0	1	0
 menghilangkan	get rid of	0	0	1	0
-ketika	when	0	0	1	1
+sifatnya	characteristics	0	0	1	0
+sifatnya	nature	0	0	1	0
 perempuan	girl	0	0	1	1
 perempuan	female	0	0	1	1
 sangkar	cage	0	0	1	1
@@ -9517,7 +9356,8 @@ menguruskan	manage	0	0	1	0
 pengkritik	critic	0	0	1	0
 efektif	effective	0	0	1	0
 stres	stress	0	0	1	0
-kategorisejarah	category	0	0	1	0
+peningkatan	increase	0	0	1	0
+peningkatan	enhancement	0	0	1	0
 kecekapan	proficiency	0	0	1	0
 kecekapan	efficiency	0	0	1	0
 cincin	ring	0	0	1	1
@@ -9631,8 +9471,7 @@ dikehendaki	required	0	0	1	0
 dikehendaki	be required be required	0	0	1	0
 malayan	malayan	0	0	1	0
 penjualan	sale	0	0	1	0
-kolonel	colonel	0	0	1	0
-kolonel	cononel	0	0	1	0
+beijing	beijing	0	0	1	0
 sewa	rent	0	0	1	1
 tengku	tengku	0	0	1	0
 allahyarhamah	late	0	0	1	0
@@ -9660,8 +9499,8 @@ sentosa	halcyon	0	0	1	0
 yathrib	yathrib	0	0	1	0
 sempena	together with	0	0	1	0
 sempena	after	0	0	1	0
-peranti	device	0	0	1	0
-peranti	devices	0	0	1	0
+kosa	http://mturk.jhu.edu/static/images/ms/word/0002940400.png	0	0	1	0
+kosa	screening	0	0	1	0
 penghalang	obstacle	0	0	1	0
 penghalang	barrier	0	0	1	0
 tertulis	written	0	0	1	0
@@ -9733,11 +9572,10 @@ bina	build	0	0	1	1
 chief	chief	0	0	1	0
 ditubuhkan	established	0	0	1	0
 ditubuhkan	at	0	0	1	0
-sutan	teta	0	0	1	0
+membentukkan	form	0	0	1	0
 lingua	tongue	0	0	1	0
 lingua	lingua (franca)	0	0	1	0
 lingua	want to know about	0	0	1	0
-hancur	destroyed	0	0	1	0
 hancur	broken	0	0	1	0
 meter	meter	0	0	1	0
 kerdil	dwarf	0	0	1	1
@@ -9761,7 +9599,7 @@ menjamin	secures	0	0	1	0
 menjamin	guarantee	0	0	1	0
 mengamuk	rampage	0	0	1	0
 dipertandingkan	contested	0	0	1	0
-weber	weber	0	0	1	0
+damsyik	damascus	0	0	1	0
 yakni	that is	0	0	1	0
 dikebumikan	buried	0	0	1	0
 disabitkan	convicted	0	0	1	0
@@ -9823,7 +9661,7 @@ mata	eye	0	0	1	1
 deras	swift	0	0	1	1
 bersekutu	associated	0	0	1	0
 mati	death	0	0	1	0
-retrieved	retrieved	0	0	1	0
+frank	frank	0	0	1	0
 dicadangkan	proposed	0	0	1	0
 sebilangan	some	0	0	1	0
 berteraskan	based	0	0	1	0
@@ -9874,6 +9712,7 @@ georgetown	gianyar	0	0	1	0
 gear	gear	0	0	1	0
 denis	denis	0	0	1	0
 denis	person's name	0	0	1	0
+analisa	analysis	0	0	1	0
 uda	younger	0	0	1	0
 menyusun	compile	0	0	1	0
 menyusul	follow	0	0	1	0
@@ -9906,14 +9745,11 @@ have	have	0	0	1	0
 dicabar	challenged	0	0	1	0
 tersusun	organised	0	0	1	0
 tersusun	structured	0	0	1	0
-dalamannya	the internals	0	0	1	0
-dalamannya	internal	0	0	1	0
-dalamannya	internally	0	0	1	0
+mig	mig	0	0	1	0
 hitam	black	0	0	1	1
-perbuatan	action	0	0	1	0
-perbuatan	act	0	0	1	0
+semata	only	0	0	1	0
 mendatar	horizontal	0	0	1	0
-sering	often	0	0	1	1
+ketara	significant	0	0	1	0
 mit	mit	0	0	1	0
 dirujuk	referred to	0	0	1	0
 salle	salle	0	0	1	0
@@ -10066,9 +9902,8 @@ meninggikan	raise	0	0	1	0
 hinggalah	until	0	0	1	0
 hinggalah	up	0	0	1	0
 daratan	land	0	0	1	0
-border|xpx	border|xpx	0	0	1	0
-border|xpx	border	0	0	1	0
 border|xpx	border / xpx	0	0	1	0
+border|xpx	border|xpx	0	0	1	0
 sopan	polite	0	0	1	1
 tersohor	famous	0	0	1	0
 tersohor	renowned	0	0	1	0
@@ -10135,8 +9970,7 @@ prosa	series	1	0	1	0
 prosa	set	1	0	1	0
 prosa	number	1	0	1	0
 prosa	phrase	1	0	1	0
-sungguhpun	in spite of	0	0	1	0
-sungguhpun	although	0	0	1	1
+didirikan	established	0	0	1	0
 mengeratkan	strengthen	0	0	1	0
 tepung	flour	0	0	1	1
 rawak	random	0	0	1	0
@@ -10167,7 +10001,6 @@ penggabungan	merger	0	0	1	0
 penggabungan	incorporation	0	0	1	0
 menceritakan	tell	0	0	1	0
 pergolakan	turbulence	0	0	1	0
-tambahan	addition	0	0	1	1
 tambahan	additional	0	0	1	1
 soviet	soviet	0	0	1	0
 khafre	khafre	0	0	1	0
@@ -10258,10 +10091,8 @@ dwidewan	bicameral	0	0	1	0
 lipis	lipis	0	0	1	0
 lipis	seam	0	0	1	0
 tampil	appear	0	0	1	0
-tampil	show up	0	0	1	0
-menipu	cheat	0	0	1	0
+dicapai	achieved	0	0	1	0
 lockheed	the lockheed	0	0	1	0
-lockheed	lockheed	0	0	1	0
 freemason	freemasons	0	0	1	0
 takdir	fate	0	0	1	1
 menghilang	disappear	0	0	1	0
@@ -10277,7 +10108,6 @@ permukaan	surface	0	0	1	0
 alwalid	alwalid	0	0	1	0
 kapitan	lieutenant	0	0	1	0
 kapitan	captain	0	0	1	0
-kapitan	http://mturk.jhu.edu/static/images/ms/word/0002974130.png	0	0	1	0
 gabenorjeneral	governor general	0	0	1	0
 hishamuddin	helen	0	0	1	0
 ibni	son of	0	0	1	0
@@ -10319,8 +10149,8 @@ keseluruhannya	overall	0	0	1	0
 wujudnya	existence	0	0	1	0
 wujudnya	there	0	0	1	0
 rampasan	plunder	0	0	1	0
-persembahan	performance	0	0	1	0
-persembahan	offering	0	0	1	0
+siang	day	0	0	1	0
+siang	afternoon	0	0	1	0
 upnm	upnm	0	0	1	0
 tegang	tense	0	0	1	1
 tegang	stiff	0	0	1	0
@@ -10353,7 +10183,8 @@ corporation	corporation	0	0	1	0
 virtual	virtual	0	0	1	0
 perkahwinan	marriage	0	0	1	0
 balak	timber	0	0	1	0
-balai	hall	0	0	1	1
+penyokongpenyokong	support	0	0	1	0
+penyokongpenyokong	supporters	0	0	1	0
 mengundurkan	postpone	0	0	1	0
 mengundurkan	pull back	0	0	1	0
 oas	oas	0	0	1	0
@@ -10385,7 +10216,8 @@ kait	related	0	0	1	0
 kait	correlate	0	0	1	1
 berkerja	work	0	0	1	0
 berkerja	working	0	0	1	0
-selanjutnya	further	0	0	1	0
+pilah	segment	0	0	1	0
+pilah	choose	0	0	1	0
 terdekat	the nearest	0	0	1	0
 terdekat	closest	0	0	1	0
 watak	character	0	0	1	1
@@ -10475,7 +10307,6 @@ pentadbiran	administration	0	0	1	0
 dijangkakan	expected	0	0	1	0
 dijangkakan	predicted	0	0	1	0
 mengangkat	raised	0	0	1	0
-mengangkat	carrying	0	0	1	0
 liberty	liberty	0	0	1	0
 children	children	0	0	1	0
 children	children   (kanak-kanak)	0	0	1	0
@@ -10489,7 +10320,6 @@ song	song	0	0	1	0
 catan	painting	0	0	1	0
 tugasan	assignment	0	0	1	1
 tugasan	tasks	0	0	1	0
-tugasan	assignments	0	0	1	0
 kemakmuran	prosperity	0	0	1	0
 kemakmuran	meaning the house of prosperity under a mountain lake	0	0	1	0
 studio	studio	0	0	1	0
@@ -10576,14 +10406,13 @@ tradisitradisi	traditional	0	0	1	0
 tradisitradisi	tradisitradisi	0	0	1	0
 hemoglobin	hemoglobin	0	0	1	0
 jangkitan	infection	0	0	1	0
-benang	thread	0	0	1	1
+cong	cong	0	0	1	0
 kompang	kompang	0	0	1	0
 kepandaian	skill	0	0	1	0
 kepandaian	know-how	0	0	1	0
 berlangsung	take place	0	0	1	0
 berlangsung	takeplace	0	0	1	0
 pesaing	competitors	0	0	1	0
-pesaing	contender	0	0	1	0
 berdaftar	registered	0	0	1	0
 berdaftar	register	0	0	1	0
 diterajui	led	0	0	1	0
@@ -10614,7 +10443,7 @@ ibunda	native	0	0	1	0
 glukagon	glucagon	1	1	0	0
 glukagon	origining	1	0	1	0
 glukagon	creation	1	0	1	0
-politikal	political	0	0	1	0
+mengguna	using	0	0	1	0
 majlis	ceremony	0	0	1	0
 majlis	the	0	0	1	0
 petempatan	settlements	0	0	1	0
@@ -10684,22 +10513,20 @@ gol	gol	0	0	1	0
 gol	goal	0	0	1	0
 goh	hump	0	0	1	0
 bergantung	depend	0	0	1	0
-merangsang	arouse	0	0	1	0
 merangsang	stimulate	0	0	1	0
-goa	goa (location)	0	0	1	0
-goa	cave	0	0	1	0
+lokasinya	its location	0	0	1	0
+lokasinya	location	0	0	1	0
 sukhoi	sukhoi	0	0	1	0
 melancap	masturbation	0	0	1	0
 budaya	culture	0	0	1	1
 dibunuh	killed	0	0	1	0
 suasana	environment	0	0	1	0
-diangkat	lifted	0	0	1	0
 diangkat	raised	0	0	1	0
+diangkat	lifted	0	0	1	0
 terbentang	spread	0	0	1	0
-berniat	intention	0	0	1	0
 berniat	intend	0	0	1	0
 pergigian	dental	0	0	1	0
-pbb	un	0	0	1	0
+pencen	pension	0	0	1	0
 free	free	0	0	1	0
 fred	fred	0	0	1	0
 suhaimi	suhaimi	0	0	1	0
@@ -10707,9 +10534,7 @@ menggaji	hire	0	0	1	0
 kawasankawasan	regions	0	0	1	0
 kawasankawasan	areas	0	0	1	0
 berinteraksi	interact	0	0	1	0
-menghukum	penalize	0	0	1	0
-menghukum	sentenced	0	0	1	0
-menghukum	fish	0	0	1	0
+kurikulum	curriculum	0	0	1	0
 biju	biju	0	0	1	0
 kesemua	all	0	0	1	0
 latar	background	0	0	1	0
@@ -10737,7 +10562,9 @@ disana	there	0	0	1	0
 dibuat	made	0	0	1	0
 perutusan	percentage	0	0	1	0
 perutusan	mission	0	0	1	0
-sharingan	sharingan	0	0	1	0
+memperoleh	acquire	0	0	1	0
+memperoleh	gain	0	0	1	0
+memperoleh	get	0	0	1	0
 berhias	berhias	0	0	1	0
 berhias	float	0	0	1	0
 semenyih	semenyih	0	0	1	0
@@ -10830,8 +10657,7 @@ yang	that	0	0	1	1
 abi	abi	0	0	1	0
 ditabur	sown	0	0	1	0
 sesudah	after	0	0	1	0
-sifatnya	characteristics	0	0	1	0
-sifatnya	nature	0	0	1	0
+ketika	when	0	0	1	1
 pkr	pkr	0	0	1	0
 bait	byte	0	0	1	0
 bait	bytes	0	0	1	0
@@ -10846,8 +10672,7 @@ pkm	cpm	0	0	1	0
 pkm	pkm	0	0	1	0
 suami	husband	0	0	1	1
 bunian	elves	0	0	1	0
-keldai	ass	0	0	1	1
-keldai	donkey	0	0	1	1
+sangat	very	0	0	1	1
 dilepaskan	released	0	0	1	0
 inframerah	infrared	0	0	1	0
 pengunjung	visitor	0	0	1	0
@@ -10929,7 +10754,6 @@ kanan	right	0	0	1	1
 perangsangan	stimulation	0	0	1	0
 berumur	aged	0	0	1	0
 terlebih	firstly	0	0	1	0
-terlebih	exceed	0	0	1	0
 terlebih	first	0	0	1	0
 kluang	centre	0	0	1	0
 kenyataan	statement	0	0	1	0
@@ -10954,7 +10778,6 @@ been	telah	0	0	1	0
 been	been	0	0	1	0
 kuantum	quantum	0	0	1	0
 aminuddin	aminuddin	0	0	1	0
-perpaduan	union	0	0	1	0
 perpaduan	blend	0	0	1	0
 revolusi	revolution	0	0	1	0
 pangeran	prince	0	0	1	0
@@ -11012,13 +10835,12 @@ keengganan	refusal	0	0	1	0
 keengganan	reluctance	0	0	1	0
 jagung	corn	0	0	1	1
 cetak	print	0	0	1	1
-bukti	evidence	0	0	1	1
 bukti	proof	0	0	1	1
+bukti	evidence	0	0	1	1
 pemasaran	marketing	0	0	1	0
 mengalihkan	divert	0	0	1	0
 ahlinya	his/her members	0	0	1	0
 ahlinya	members	0	0	1	0
-ahlinya	the member	0	0	1	0
 bidayuh	bidayuh	0	0	1	0
 kategorisistem	category system	0	0	1	0
 kategorisistem	kategorisistem	0	0	1	0
@@ -11035,7 +10857,6 @@ sombong	arrogant	0	0	1	0
 patani	patani	0	0	1	0
 pekan	week	0	0	1	0
 tempatan	local	0	0	1	1
-meluluskan	pass	0	0	1	0
 meluluskan	passed	0	0	1	0
 meluluskan	allow	0	0	1	0
 meluluskan	permit	0	0	1	0
@@ -11067,9 +10888,7 @@ riddah	riddah	0	0	1	0
 komsas	literature	0	0	1	0
 keli	catfish	0	0	1	0
 bersepadu	integrated	0	0	1	0
-bersepadu	integated	0	0	1	0
 tanglung	lanterns	0	0	1	0
-tanglung	lantern	0	0	1	1
 enak	delicious	0	0	1	1
 barunya	new	0	0	1	0
 serbia	serbia	0	0	1	0
@@ -11325,7 +11144,6 @@ cergas	active	0	0	1	0
 cergas	energetic	0	0	1	1
 amatlah	is	0	0	1	0
 amatlah	extremely	0	0	1	0
-diperintah	commanded	0	0	1	0
 diperintah	ordered	0	0	1	0
 diperintah	governed	0	0	1	0
 hawaii	hawaii	0	0	1	0
@@ -11401,7 +11219,6 @@ menyatakan	state	0	0	1	0
 perbendaharaan	peerbendaharaan	0	0	1	0
 perbendaharaan	treasury	0	0	1	0
 bomoh	shaman	0	0	1	0
-bomoh	witch	0	0	1	0
 kelenturan	flexibility	0	0	1	0
 kelenturan	moudability	0	0	1	0
 pihak	party	0	0	1	1
@@ -11437,6 +11254,7 @@ berjumlah	totaled	0	0	1	0
 dialek	dialect	0	0	1	0
 melebihi	exceed	0	0	1	0
 memasuki	enter	0	0	1	0
+patriotik	patriotic	0	0	1	0
 ishak	isaac	0	0	1	0
 ishak	ishak	0	0	1	0
 lahirlah	born	0	0	1	0
@@ -11526,7 +11344,6 @@ diwartakan	offered	0	0	1	0
 diwartakan	gazetted	0	0	1	0
 dibiarkan	http://mturk.jhu.edu/static/images/ms/word/0002982930.png	0	0	1	0
 dibiarkan	left	0	0	1	0
-terbentuk	formed	0	0	1	0
 terbentuk	form	0	0	1	0
 penyeliaan	supervision	0	0	1	0
 beraksi	action	0	0	1	0
@@ -11542,7 +11359,6 @@ bongsu	youngest child	0	0	1	0
 bongsu	the youngest	0	0	1	0
 sabah	sabah	0	0	1	0
 dimasukkan	included	0	0	1	0
-dimasukkan	entered	0	0	1	0
 dimasukkan	inserted	0	0	1	0
 sabak	sabak	0	0	1	0
 makanan	food	1	1	1	1
@@ -11650,7 +11466,7 @@ hinggap	alight	0	0	1	0
 pkmm	pkmm	0	0	1	0
 mengadakan	hold	0	0	1	0
 hud	hood	0	0	1	0
-hidangan	serving	0	0	1	0
+alps	alpine	0	0	1	0
 mencapai	achieve	0	0	1	0
 mencapai	achieved	0	0	1	0
 garisan	line	0	0	1	0
@@ -11793,7 +11609,7 @@ menjelaskan	explain	0	0	1	0
 belayar	sailing	0	0	1	0
 sirih	betel	0	0	1	0
 filebunga	filebunga	0	0	1	0
-rempah	spice	0	0	1	0
+ken	ken	0	0	1	0
 aini	ani	0	0	1	0
 tangannya	his hand	0	0	1	0
 tangannya	hand	0	0	1	0
@@ -11851,7 +11667,6 @@ tanduk	horn	0	0	1	1
 portugis	portuguese	0	0	1	0
 memerihalkan	describing	0	0	1	0
 kerugian	loss	0	0	1	0
-kerugian	hard	0	0	1	0
 pos	post	0	0	1	0
 pop	pop	0	0	1	0
 duti	duty	0	0	1	0
@@ -11970,7 +11785,6 @@ terkorban	killed	0	0	1	0
 panas	hot	0	0	1	1
 blok	block	0	0	1	0
 kingdom	kingdom	0	0	1	0
-menerangi	light up	0	0	1	0
 menerangi	lit up	0	0	1	0
 menerangi	brighten	0	0	1	0
 berfirman	said	0	0	1	0
@@ -12041,12 +11855,9 @@ keradangan	inflammation	0	0	1	0
 berfikiran	thinking	0	0	1	0
 kesankesan	effects in	0	0	1	0
 kolektif	collective	0	0	1	0
-kolektif	collection	0	0	1	0
 pemecatan	dismissal	0	0	1	0
-pemecatan	the sacking	0	0	1	0
 difahami	understood	0	0	1	0
-syeikh	seyikh	0	0	1	0
-syeikh	sheikhs	0	0	1	0
+dihuni	inhabited	0	0	1	0
 tepu	saturated	0	0	1	0
 on	on	0	0	1	0
 menghubungkan	link	0	0	1	0
@@ -12057,7 +11868,6 @@ oh	oh	0	0	1	0
 of	of	0	0	1	0
 oc	oo	0	0	1	0
 oc	oc	0	0	1	0
-karam	sink	0	0	1	1
 karam	wreck	0	0	1	0
 henti	stopping	0	0	1	0
 henti	stop	0	0	1	1
@@ -12118,13 +11928,12 @@ jun	june	0	0	1	1
 tuntutan	claim	0	0	1	0
 semangat	spirit	0	0	1	1
 jus	juice	0	0	1	0
-nuklear	nuclear	0	0	1	0
 dirancang	http://mturk.jhu.edu/static/images/ms/word/0002987070.png	0	0	1	0
 dirancang	be planned	0	0	1	0
 membayar	pay	0	0	1	0
 mencuci	wash	0	0	1	0
 sekarang	now	0	0	1	1
-ekonomi	economy	0	0	1	0
+rowling	rowling	0	0	1	0
 saloma	saloma	0	0	1	0
 mengendali	handling	0	0	1	0
 mengendali	to handle	0	0	1	0
@@ -12178,29 +11987,26 @@ hurairah	hurayrah	0	0	1	0
 bersamaan	equivalent	0	0	1	0
 bersamaan	corresponding	0	0	1	0
 directory	directory	0	0	1	0
-keadilan	justice	0	0	1	0
 bahru	bahru	0	0	1	0
 bersebelahan	adjacent	0	0	1	0
 berkesan	effective	0	0	1	0
 chinese	chinese	0	0	1	0
 ali	ali	0	0	1	0
 bapa	father	0	0	1	1
-rasul	apostle	0	0	1	0
-rasul	rasul	0	0	1	0
 rasul	prophet	0	0	1	1
+rasul	rasul	0	0	1	0
+rasul	apostle	0	0	1	0
 kesetiaan	loyalty	0	0	1	0
 ala	style	0	0	1	0
 lafaz	proclamation	0	0	1	0
 lafaz	pronounce	0	0	1	0
 lafaz	pronouncement	0	0	1	0
 bayangan	shadow	0	0	1	0
-bayangan	mirror	0	0	1	0
 coach	coach	0	0	1	0
 larut	late	0	0	1	1
 larut	soluble	0	0	1	0
 alu	pestle	0	0	1	0
 informasi	information	0	0	1	0
-rom	rome	0	0	1	0
 rom	rom	0	0	1	0
 siswazah	graduates	0	0	1	0
 siswazah	graduate	0	0	1	0
@@ -12237,7 +12043,7 @@ aplikasi	application	0	0	1	0
 aplikasi	appication	0	0	1	0
 fam	family name	0	0	1	0
 sony	sony	0	0	1	0
-sulung	eldest	0	0	1	0
+kerana	because	0	0	1	1
 menghormati	respecting	0	0	1	0
 menghormati	respect	0	0	1	0
 bunyinya	sound	0	0	1	0
@@ -12274,7 +12080,6 @@ batalion	battalion	0	0	1	0
 rata	flat	0	0	1	1
 pundi	bladder	0	0	1	0
 hasrat	desire	0	0	1	1
-hasrat	intention	0	0	1	0
 tet	tet	0	0	1	0
 perai	peak	0	0	1	0
 perai	empty	0	0	1	0
@@ -12282,15 +12087,14 @@ babylonia	babylonia	0	0	1	0
 what	what	0	0	1	0
 persamaan	equation	0	0	1	0
 persamaan	similarity	0	0	1	0
-sub	sub	0	0	1	0
+tampar	volleyball	0	0	1	0
 alahan	allergy	0	0	1	0
 mengekalkan	keep this	0	0	1	0
 mengekalkan	maintained	0	0	1	0
 mengekalkan	maintain	0	0	1	0
 disalurkan	channelled	0	0	1	0
 disalurkan	channeled	0	0	1	0
-keduanya	both	0	0	1	0
-keduanya	second	0	0	1	0
+digambarkan	described	0	0	1	0
 guna	use	0	0	1	1
 kategoriahli	category of	0	0	1	0
 kategoriahli	category	0	0	1	0
@@ -12326,10 +12130,8 @@ muara	estuary	0	0	1	1
 saintis	scientist	0	0	1	0
 saintis	scientists	0	0	1	0
 antarabangsa	international	0	0	1	1
-akhbar	newspaper	0	0	1	1
-akhbar	press	0	0	1	0
+adakalanya	sometimes	0	0	1	0
 membendung	control	0	0	1	0
-membendung	to prevent	0	0	1	0
 membendung	stem	0	0	1	0
 perjumpaan	meeting	0	0	1	0
 tuatua	elders	0	0	1	0
@@ -12395,7 +12197,7 @@ upacaraupacara	events	0	0	1	0
 w	w	0	0	1	0
 algebra	algebra	0	0	1	0
 tauhid	unity of god	0	0	1	0
-wayar	wire	0	0	1	0
+pengimbas	scanner	0	0	1	0
 semikonduktor	semiconductor	0	0	1	0
 semikonduktor	semi conductor	0	0	1	0
 kurungan	cage	0	0	1	0
@@ -12429,7 +12231,6 @@ wayang	movie	0	0	1	0
 islam	islam	0	0	1	0
 senai	senai	0	0	1	0
 mengetepikan	set aside	0	0	1	0
-inca	inca	0	0	1	0
 bulatan	circle	0	0	1	0
 bulatan	roundabout	0	0	1	0
 lai	lai	0	0	1	0
@@ -12479,7 +12280,7 @@ amanah	trust	0	0	1	1
 ringan	light	0	0	1	1
 pertandingan	competition	0	0	1	0
 gus	thus	0	0	1	0
-p	p	0	0	1	0
+berahi	passion	0	0	1	0
 qamari	lunar	0	0	1	0
 bidangbidang	areas of	0	0	1	0
 bidangbidang	the fields	0	0	1	0
@@ -12528,14 +12329,13 @@ gamelan	orchestra	0	0	1	0
 gamelan	gamelan orchestra	0	0	1	0
 makassar	makassar	0	0	1	0
 berkelakuan	behaving	0	0	1	0
-berkelakuan	with certain actions	0	0	1	0
 berkelakuan	behavior	0	0	1	0
 memakan	consume	0	0	1	0
 dikendalikan	operated	0	0	1	0
 dikendalikan	conducted	0	0	1	0
 sekunder	secondary	0	0	1	0
 berukuran	measuring	0	0	1	0
-rasional	rational	0	0	1	0
+inflasi	inflation	0	0	1	0
 albukhary	albukhary	0	0	1	0
 hotel	hotel	0	0	1	0
 mempersoalkan	question	0	0	1	0
@@ -12601,8 +12401,7 @@ amal	practice	0	0	1	1
 amal	charity	0	0	1	0
 aman	peaceful	0	0	1	1
 gila	crazy	0	0	1	0
-wawasan	insight	0	0	1	0
-wawasan	vision	0	0	1	1
+amat	very	0	0	1	1
 amar	amar	0	0	1	0
 iskandariah	alexandria	0	0	1	0
 mineral	mineral	0	0	1	0
@@ -12614,11 +12413,10 @@ jajaran	row	0	0	1	0
 songket	songket	0	0	1	0
 ciptaan	creation	0	0	1	0
 tersenarai	listed	0	0	1	0
-madya	medium	0	0	1	0
-madya	vice/assistant	0	0	1	0
+kantonis	cantonese	0	0	1	0
 lebihan	surplus	0	0	1	0
 lebihan	more	0	0	1	0
-artikelperkara	article: event	0	0	1	0
+mengelak	avoid	0	0	1	0
 teromba	teromba	0	0	1	0
 diertikan	defined	0	0	1	0
 rtm	rtm	0	0	1	0
@@ -12628,15 +12426,15 @@ penawaran	supply	0	0	1	0
 dibelah	be split	0	0	1	0
 bestari	clever	0	0	1	0
 bestari	smart	0	0	1	0
-berulangulang	over and over	0	0	1	0
 berulangulang	berulangulang	0	0	1	0
+berulangulang	over and over	0	0	1	0
 penalti	penalty	0	0	1	0
 surabaya	surabaya	0	0	1	0
 wasiat	will	0	0	1	0
 julung	first	0	0	1	0
 pemeliharaan	preservation	0	0	1	0
 akar	root	0	0	1	1
-cerpen	short story	0	0	1	1
+cerpen	short story	0	0	1	0
 pertunangan	engagement	0	0	1	0
 merayu	appeal	0	0	1	0
 merayu	http://mturk.jhu.edu/static/images/ms/word/0002990780.png	0	0	1	0
@@ -12659,10 +12457,8 @@ karyanya	his work	0	0	1	0
 hin	hin	0	0	1	0
 hin	bullock	0	0	1	0
 kimia	chemical	0	0	1	0
-kimia	chemistry	0	0	1	1
 kimia	chemist	0	0	1	0
 mengarang	authored	0	0	1	0
-mengarang	wrote	0	0	1	0
 mengarang	author	0	0	1	0
 sihir	black magic	0	0	1	0
 sihir	magic	0	0	1	1
@@ -12711,7 +12507,7 @@ virusvirus	viruses	0	0	1	0
 solo	solo	0	0	1	0
 induk	main	0	0	1	0
 induk	parent	0	0	1	0
-korea	korea	0	0	1	0
+latin	latin	0	0	1	0
 khatan	circumcision	0	0	1	1
 pemerbadanan	incorporation	0	0	1	0
 nihilisme	nihilism	0	0	1	0
@@ -12795,15 +12591,15 @@ rin	resistance	0	0	1	0
 lambat	slow	0	0	1	1
 sejarah	history	0	0	1	1
 ria	happy	0	0	1	0
-patriotik	patriotic	0	0	1	0
+kelabu	gray	0	0	1	0
+kelabu	grey	0	0	1	1
 james	james	0	0	1	0
-demografi	demographic	0	0	1	0
 demografi	demography	0	0	1	0
 penebangan	felling (of trees)	0	0	1	0
 penebangan	felling	0	0	1	0
 penulenan	originality	0	0	1	0
 penulenan	purification	0	0	1	0
-seperi	such as	0	0	1	0
+mengendalikan	control	0	0	1	0
 dinastidinasti	dynasties	0	0	1	0
 dinastidinasti	dinastidinasti	0	0	1	0
 peoples	peoples	0	0	1	0
@@ -12849,16 +12645,14 @@ demikian	thus	0	0	1	1
 tertumpu	concentrated	0	0	1	0
 tertumpu	focused	0	0	1	0
 menekan	press	0	0	1	0
-menekan	pressing	0	0	1	0
 perladangan	plantation	0	0	1	0
 witir	witr	0	0	1	0
 skala	scale	0	0	1	0
 skala	scala	0	0	1	0
 ketuanan	supremacy	0	0	1	0
-candu	copium	0	0	1	0
 candu	opium	0	0	1	1
-ponteng	absent	0	0	1	0
-ponteng	absenteeism	0	0	1	0
+pengukuhan	strengthening	0	0	1	0
+pengukuhan	enhancement	0	0	1	0
 iberia	lberia	0	0	1	0
 moody	moody	0	0	1	0
 dosadosa	dosadosa	0	0	1	0
@@ -12874,7 +12668,7 @@ bersunat	circumcision	0	0	1	0
 penggubah	composer	0	0	1	0
 arthur	arthur	0	0	1	0
 arthur	arthur [ name ]	0	0	1	0
-sunan	arrangements	0	0	1	0
+pilihan	choice	0	0	1	1
 semesta	universe	0	0	1	0
 semesta	universal	0	0	1	0
 payudara	breast	0	0	1	0
@@ -12920,7 +12714,6 @@ ibunya	his mother	0	0	1	0
 ibunya	his / her mother	0	0	1	0
 beberapa	a few	0	0	1	0
 beberapa	some	0	0	1	0
-dahsyat	awful	0	0	1	1
 dahsyat	terrible	0	0	1	1
 masingmasing	respectively	0	0	1	0
 masingmasing	each other	0	0	1	0
@@ -12994,7 +12787,6 @@ psikolinguistik	psycho linguistic	0	0	1	0
 psikolinguistik	psycholinguistics	0	0	1	0
 berjutajuta	berjutajuta	0	0	1	0
 berjutajuta	the millions	0	0	1	0
-berjutajuta	millions	0	0	1	0
 spontan	spontaneous	0	0	1	0
 penyata	statement	0	0	1	0
 bersinar	shine	0	0	1	0
@@ -13010,7 +12802,6 @@ gombak	crest	0	0	1	0
 gombak	gombak	0	0	1	0
 luka	wound	0	0	1	1
 ganjil	odd	0	0	1	1
-club	club	0	0	1	0
 berorientasikan	oriented	0	0	1	0
 berorientasikan	orientated	0	0	1	0
 memburukkan	worsen	0	0	1	0
@@ -13026,7 +12817,6 @@ kamal	kamal	0	0	1	0
 pembalasan	reward	0	0	1	0
 pembalasan	retaliation	0	0	1	0
 jentera	machinery	0	0	1	1
-ditegah	described	0	0	1	0
 ditegah	prohibited	0	0	1	0
 ditegah	discouraged	0	0	1	0
 pedofilia	pedophilia	1	1	0	0
@@ -13151,7 +12941,6 @@ sedemikian	like thus	0	0	1	0
 parasit	parasite	0	0	1	0
 kelihatannya	seem	0	0	1	0
 kelihatannya	looks like	0	0	1	0
-kelihatannya	appear	0	0	1	0
 elektronik	bpemehho	1	0	1	0
 elektronik	electronics	1	1	0	0
 elektronik	electronic	1	1	1	0
@@ -13234,8 +13023,8 @@ zahir	physical	0	0	1	0
 tar	tar	0	0	1	0
 dijanjikan	promised	0	0	1	0
 batubata	bricks	0	0	1	0
-kosa	http://mturk.jhu.edu/static/images/ms/word/0002940400.png	0	0	1	0
-kosa	screening	0	0	1	0
+peranti	device	0	0	1	0
+peranti	devices	0	0	1	0
 pelumba	racer	0	0	1	0
 pelumba	riders	0	0	1	0
 rapi	snares	0	0	1	0
@@ -13307,9 +13096,9 @@ merujuk	reference	0	0	1	0
 memberitahu	notify	0	0	1	0
 berselisih	disagreement	0	0	1	0
 berselisih	disagree	0	0	1	0
-merosakkan	damage	0	0	1	0
-merosakkan	damaging	0	0	1	0
 merosakkan	spoiling	0	0	1	0
+merosakkan	damaging	0	0	1	0
+merosakkan	damage	0	0	1	0
 sepucuk	http://mturk.jhu.edu/static/images/ms/word/0002995430.png	0	0	1	0
 sepucuk	sepucuk	0	0	1	0
 mulamula	at first	0	0	1	0
@@ -13322,7 +13111,8 @@ keretapi	train	0	0	1	0
 terma	thermal	0	0	1	0
 terma	terms	0	0	1	0
 selalu	always	0	0	1	1
-didirikan	established	0	0	1	0
+sungguhpun	in spite of	0	0	1	0
+sungguhpun	although	0	0	1	1
 lanunlanun	lanunlanun	0	0	1	0
 lanunlanun	pirates	0	0	1	0
 material	material	0	0	1	0
@@ -13351,8 +13141,7 @@ menyelaraskan	adjust	0	0	1	0
 penyalaan	ignition	0	0	1	0
 segolongan	some	0	0	1	0
 menulis	write	0	0	1	0
-siang	day	0	0	1	0
-siang	afternoon	0	0	1	0
+persembahan	offering	0	0	1	0
 our	our	0	0	1	0
 sejumlah	a number of	0	0	1	0
 penerokaan	exploration	0	0	1	0
@@ -13373,7 +13162,6 @@ tenang	quiet	0	0	1	1
 sabtu	saturday	0	0	1	1
 lulus	pass	0	0	1	0
 syafaat	intercessor	0	0	1	0
-syafaat	help	0	0	1	0
 ulangalik	alternating	0	0	1	0
 ulangalik	to & fro	0	0	1	0
 york	york	0	0	1	0
@@ -13458,7 +13246,6 @@ mentafsir	interpret	0	0	1	0
 assiddiq	assiddiq	0	0	1	0
 dibakar	burned	0	0	1	0
 dibakar	burnt	0	0	1	0
-mengulas	comment	0	0	1	0
 mengulas	commenting on	0	0	1	0
 mengulas	commenting	0	0	1	0
 sudut	corner	0	0	1	1
@@ -13481,7 +13268,6 @@ keistimewaan	privileges	0	0	1	0
 keistimewaan	speciality	0	0	1	0
 fikirannya	his mind	0	0	1	0
 dilanda	hit	0	0	1	0
-berpanjangan	lengthy	0	0	1	0
 berpanjangan	prolonged	0	0	1	0
 =	=	0	0	1	0
 berangka	numerical	0	0	1	0
@@ -13494,7 +13280,6 @@ who	who	0	0	1	0
 hakikatnya	essentially	0	0	1	0
 hakikatnya	in fact	0	0	1	0
 hakikatnya	fact	0	0	1	0
-dadah	drugs	0	0	1	0
 dadah	drug	0	0	1	1
 burung	peasant	1	0	1	0
 burung	bird	1	1	1	1
@@ -13600,7 +13385,6 @@ dll	etc.	0	0	1	0
 dll	and others	0	0	1	0
 bertahan	survive	0	0	1	0
 bertahan	last	0	0	1	0
-muslim	muslim	0	0	1	0
 kiraan	count	0	0	1	0
 berlalu	passed	0	0	1	0
 berlalu	pass	0	0	1	0
@@ -13670,13 +13454,12 @@ kebaikan	goodness	0	0	1	0
 ghazali	ghazali	0	0	1	0
 ghazali	ghazalt	0	0	1	0
 bbc	bbc	0	0	1	0
-anggerik	orchids	0	0	1	0
 anggerik	orchid	0	0	1	1
+anggerik	orchids	0	0	1	0
 dibicarakan	trialed	0	0	1	0
 dibicarakan	trail	0	0	1	0
 dibicarakan	trial	0	0	1	0
 bawaan	carrying	0	0	1	0
-bawaan	carrier	0	0	1	0
 hindi	hindi	0	0	1	0
 pahlawan	warrior	0	0	1	1
 pahlawan	hero	0	0	1	1
@@ -13717,8 +13500,7 @@ komposisi	composition	0	0	1	0
 cross	cross	0	0	1	0
 cina	chinese	0	0	1	1
 mencukupi	sufficient	0	0	1	0
-kagum	impressed	0	0	1	0
-kagum	kagam	0	0	1	0
+inca	inca	0	0	1	0
 tempatnya	place	0	0	1	0
 menjimatkan	save	0	0	1	0
 menjimatkan	saves	0	0	1	0
@@ -13740,6 +13522,8 @@ idris	idris	0	0	1	0
 kesatuan	unity	0	0	1	0
 umumnya	generally	0	0	1	0
 memelihara	preserve	0	0	1	0
+kejuaraan	championship	0	0	1	0
+kejuaraan	title	0	0	1	0
 tandatanda	sign of	0	0	1	0
 tandatanda	signs	0	0	1	0
 mengutamakan	priority	0	0	1	0
@@ -13806,8 +13590,8 @@ pergaduhan	fight	0	0	1	0
 kuasa	power	0	0	1	1
 tumbuhtumbuhan	vegetation	0	0	1	0
 pagoh	pogoh	0	0	1	0
-wuduk	shop	0	0	1	0
-wuduk	ablution	0	0	1	0
+bekerjasama	work	0	0	1	0
+bekerjasama	cooperation	0	0	1	0
 disiarkan	displayed	0	0	1	0
 disiarkan	published	0	0	1	0
 perhubungan	relationship	0	0	1	0
@@ -13847,12 +13631,11 @@ merealisasikan	realize	0	0	1	0
 tikar	mat	0	0	1	1
 platinum	platinum	0	0	1	0
 pemakanan	nutrition	0	0	1	0
-pemakanan	ingestion	0	0	1	0
 pemakanan	diet	0	0	1	0
 contohnya	for example	0	0	1	0
 bandarayabandaraya	city	0	0	1	0
 bandarayabandaraya	cities	0	0	1	0
-jihad	holy war	0	0	1	1
+jihad	holy war	0	0	1	0
 jihad	jihad	0	0	1	0
 jihad	struggle	0	0	1	0
 pasti	sure	0	0	1	1
@@ -13872,7 +13655,6 @@ sumer	sumer	0	0	1	0
 tukul	hammer	0	0	1	0
 diturunkan	reduced	0	0	1	0
 pemberian	giving	0	0	1	0
-pemberian	administration	0	0	1	0
 situlah	there	0	0	1	0
 situlah	where	0	0	1	0
 biodiesel	biodiesel	0	0	1	0
@@ -13882,7 +13664,6 @@ pengeluar	producers	0	0	1	0
 daripada	from	0	0	1	1
 terdedah	exposed	0	0	1	0
 suharto	suharto	0	0	1	0
-mesolitik	mesolitic	0	0	1	0
 mesolitik	mesolithic	0	0	1	0
 own	own	0	0	1	0
 patah	break	0	0	1	0
@@ -13913,7 +13694,6 @@ keahlian	membership	0	0	1	0
 keahlian	expertise	0	0	1	0
 tamat	end	0	0	1	0
 pencetak	printer	0	0	1	0
-diciptakan	made	0	0	1	0
 diciptakan	created	0	0	1	0
 bangsabangsa	race	0	0	1	0
 bangsabangsa	nations	0	0	1	0
@@ -13950,7 +13730,7 @@ ujian	test	0	0	1	0
 berehat	resting	0	0	1	0
 berehat	rest	0	0	1	0
 menubuhkan	establish	0	0	1	0
-pernyataan	statement	0	0	1	0
+penjanaan	generation	0	0	1	0
 menemukan	find	0	0	1	0
 menemukan	to bring together	0	0	1	0
 sigilpng	spng sigil	0	0	1	0
@@ -13979,7 +13759,7 @@ perigi	well	0	0	1	1
 militer	military	0	0	1	0
 asrama	dormitory	0	0	1	0
 asrama	hostel	0	0	1	1
-penjanaan	generation	0	0	1	0
+pernyataan	statement	0	0	1	0
 bahagia	happy	0	0	1	0
 penyayang	loving	0	0	1	0
 maknanya	means	0	0	1	0

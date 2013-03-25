@@ -74,8 +74,8 @@ delu	part	0	0	1	0
 пораз	defeat	0	0	1	0
 ћерком	dauther	0	0	1	0
 ћерком	daughter	0	0	1	0
-најдуже	longest	0	0	1	0
 најдуже	longer	0	0	1	0
+најдуже	longest	0	0	1	0
 византијске	byzantine	0	0	1	0
 византијска	byzantine	0	0	1	0
 најдужа	the longest	0	0	1	0
@@ -116,7 +116,6 @@ mogu	can	0	0	1	0
 подгорици	podgorica	0	0	1	0
 подгорици	podgorici	0	0	1	0
 сме	can	0	0	1	0
-сме	dare	0	0	1	0
 централној	central	0	0	1	0
 спортских	sport	0	0	1	0
 спортских	sports	0	0	1	0
@@ -149,7 +148,6 @@ koje	which	0	0	1	0
 берлину	berlin	0	0	1	0
 koja	whom	0	0	1	0
 koja	who	0	0	1	0
-koja	which	0	0	1	0
 koji	which	0	0	1	1
 koji	that	0	0	1	1
 koju	which	0	0	1	0
@@ -207,7 +205,6 @@ koju	which	0	0	1	0
 мисија	mision	0	0	1	0
 мисија	mission	0	0	1	0
 мисије	mission	0	0	1	0
-мисије	missions	0	0	1	0
 тадашњој	then	0	0	1	0
 тадашњој	than	0	0	1	0
 тадашњој	former	0	0	1	0
@@ -225,7 +222,6 @@ koju	which	0	0	1	0
 немци	germans	0	0	1	0
 немце	germans	0	0	1	0
 добијао	received	0	0	1	0
-добијао	recieved	0	0	1	0
 диего	diego	0	0	1	0
 диего	name	0	0	1	0
 плановима	plans	0	0	1	0
@@ -240,7 +236,7 @@ koju	which	0	0	1	0
 силе	forces	0	0	1	0
 краљева	kings	0	0	1	0
 прихваћена	accepted	0	0	1	0
-трново	trnovo	0	0	1	0
+краљеви	kings	0	0	1	0
 краљево	kraljevo	0	0	1	0
 надморске	above sea level	0	0	1	0
 надморске	above	0	0	1	0
@@ -306,7 +302,6 @@ xx	xx	0	0	1	0
 представници	representatives	0	0	1	0
 пјер	pier	0	0	1	0
 пјер	pierre	0	0	1	0
-пјер	pjer	0	0	1	0
 целина	complex	0	0	1	0
 целина	whole	0	0	1	0
 завршавају	end up	0	0	1	0
@@ -333,7 +328,8 @@ osim	except	0	0	1	1
 наташа	natasha	0	0	1	0
 строго	strictly	0	0	1	0
 књижевник	writer	0	0	1	0
-rh	rh	0	0	1	0
+тих	these	0	0	1	0
+тих	those	0	0	1	0
 трави	grass	0	0	1	0
 трави	weeds	0	0	1	0
 румунији	romania	0	0	1	0
@@ -352,7 +348,6 @@ rh	rh	0	0	1	0
 харпије	harpy	1	1	0	0
 брзе	fast	0	0	1	0
 правцу	direction	0	0	1	0
-јерусалим	jeursalim	0	0	1	0
 јерусалим	jerusalem	0	0	1	0
 леже	lie	0	0	1	0
 леже	nap	0	0	1	0
@@ -491,7 +486,6 @@ thriller	thriller (music album)	0	0	1	0
 покушала	tried	0	0	1	0
 задржали	held	0	0	1	0
 задржали	kept	0	0	1	0
-задржали	keep	0	0	1	0
 између	between	0	0	1	0
 одбацује	rejects	0	0	1	0
 задржала	preserve	0	0	1	0
@@ -507,8 +501,8 @@ thriller	thriller (music album)	0	0	1	0
 равнице	flats	0	0	1	0
 прошао	went	0	0	1	0
 прошао	passed	0	0	1	0
-затворен	imprisoned	0	0	1	0
 затворен	closed	0	0	1	0
+затворен	imprisoned	0	0	1	0
 шест	sixt	0	0	1	0
 шест	six	0	0	1	0
 махом	mostly	0	0	1	0
@@ -596,7 +590,6 @@ treba	shall	0	0	1	0
 оваквим	these	0	0	1	0
 оваквим	this kind of	0	0	1	0
 јосипа	josip	0	0	1	0
-стане	stane	0	0	1	0
 стане	fit	0	0	1	0
 одговорни	responsible	0	0	1	0
 излазе	came out	0	0	1	0
@@ -668,9 +661,7 @@ pre	before	0	0	1	1
 life	life	0	0	1	0
 теорију	theory	0	0	1	0
 храст	oak	0	0	1	0
-храст	оак	0	0	1	0
 кратка	short	0	0	1	0
-павелића	pavelic	0	0	1	0
 павелића	pavelich	0	0	1	0
 павелића	pavelic (surname)	0	0	1	0
 истраживање	research	0	0	1	0
@@ -749,7 +740,6 @@ k	k	0	0	1	0
 вина	wine	0	0	1	0
 постхумно	posthumously	0	0	1	0
 личност	person	0	0	1	0
-личност	peronality	0	0	1	0
 покушају	attempt	0	0	1	0
 избори	elections	0	0	1	0
 избори	election	0	0	1	0
@@ -762,7 +752,6 @@ vrlo	very	0	0	1	1
 хрватски	croatian	0	0	1	0
 стварно	realy	0	0	1	0
 стварно	really	0	0	1	0
-одлази	go	0	0	1	0
 одлази	leaves for	0	0	1	0
 одлази	goes	0	0	1	0
 париза	paris	0	0	1	0
@@ -776,9 +765,9 @@ vrlo	very	0	0	1	1
 михаиловића	mihailovic	0	0	1	0
 михаиловића	mihailovich	0	0	1	0
 михаиловића	mihajlovic	0	0	1	0
-престала	stop	0	0	1	0
 престала	ceased	0	0	1	0
 престала	stopped	0	0	1	0
+престала	stop	0	0	1	0
 sadrži	contains	0	0	1	0
 sadrži	contain	0	0	1	0
 kroz	through	0	0	1	1
@@ -787,7 +776,6 @@ kroz	through	0	0	1	1
 османлија	ottoman	0	0	1	0
 османлије	ottomans	0	0	1	0
 османлије	vegetation	0	0	1	0
-стефанова	stephan's	0	0	1	0
 стефанова	stefan's	0	0	1	0
 стефанова	stephens	0	0	1	0
 задужен	charge	0	0	1	0
@@ -799,7 +787,6 @@ kroz	through	0	0	1	1
 николића	nikolich	0	0	1	0
 једва	barely	0	0	1	0
 obično	usually	0	0	1	1
-obično	usualy	0	0	1	0
 враћен	returned	0	0	1	0
 битан	important	0	0	1	0
 посетио	visited	0	0	1	0
@@ -823,7 +810,6 @@ obično	usualy	0	0	1	0
 никшић	niksic	0	0	1	0
 значају	importance	0	0	1	0
 значају	meaning	0	0	1	0
-значају	significance	0	0	1	0
 пратио	followed	0	0	1	0
 совјет	soviet	0	0	1	0
 оваквих	these	0	0	1	0
@@ -835,7 +821,6 @@ obično	usualy	0	0	1	0
 правила	rules	0	0	1	0
 правила	policies	0	0	1	0
 тунису	tunisia	0	0	1	0
-for	for	0	0	1	0
 употребом	using	0	0	1	0
 употребом	use	0	0	1	0
 очеве	father's	0	0	1	0
@@ -876,7 +861,6 @@ uz	along with	0	0	1	0
 камен	stone	0	0	1	0
 камен	rock	0	0	1	0
 o	about	0	0	1	0
-o	o	0	0	1	0
 седам	seven	0	0	1	0
 сплит	split	0	0	1	0
 значаја	importance	0	0	1	0
@@ -926,8 +910,8 @@ nove	new	0	0	1	0
 делове	parts	0	0	1	0
 гради	build	0	0	1	0
 делова	parts	0	0	1	0
-забрана	ban	0	0	1	0
 забрана	prohibitions	0	0	1	0
+забрана	ban	0	0	1	0
 забрана	ban on	0	0	1	0
 фази	phase	0	0	1	0
 фази	phases	0	0	1	0
@@ -948,7 +932,6 @@ nove	new	0	0	1	0
 пића	drinks	0	0	1	0
 успоставио	established	0	0	1	0
 успоставио	make	0	0	1	0
-успоставио	establish	0	0	1	0
 поновног	repeated	0	0	1	0
 поновног	newer	0	0	1	0
 поновног	another	0	0	1	0
@@ -964,7 +947,6 @@ nove	new	0	0	1	0
 резерват	reservation	0	0	1	0
 резерват	reserve	0	0	1	0
 британију	britain	0	0	1	0
-британију	british	0	0	1	0
 зрењанину	zrenjanin	0	0	1	0
 још	still	0	0	1	0
 још	yet	0	0	1	0
@@ -997,18 +979,15 @@ nove	new	0	0	1	0
 особе	people	0	0	1	0
 аустрије	austria	0	0	1	0
 аустрији	austria	0	0	1	0
-timeaxis	time axis	0	0	1	0
 љиљана	lillian	0	0	1	0
 љиљана	lily	0	0	1	0
 типа	type	0	0	1	0
-типа	tipes	0	0	1	0
 слажу	getting along	0	0	1	0
 слажу	agree	0	0	1	0
 goriva	fuel	0	0	1	0
 бугарском	bulgaria	0	0	1	0
 бечког	austrian	0	0	1	0
 бечког	bech	0	0	1	0
-бечког	vienesse	0	0	1	0
 бугарског	bulgarian	0	0	1	0
 бугарског	the bulgarian	0	0	1	0
 аустрију	austria	0	0	1	0
@@ -1073,8 +1052,8 @@ time	thereby	0	0	1	1
 сликарства	painting	0	0	1	0
 сликарства	art	0	0	1	0
 војске	army	0	0	1	0
-сликарство	painting	0	0	1	0
 сликарство	art	0	0	1	0
+сликарство	painting	0	0	1	0
 војска	army	0	0	1	0
 сликарству	painting	0	0	1	0
 сликарству	painting art	0	0	1	0
@@ -1086,7 +1065,6 @@ nervnog	nervous	0	0	1	0
 епископ	bishop	0	0	1	0
 најзначајнијих	the most important	0	0	1	0
 најзначајнијих	main	0	0	1	0
-одржала	sustained	0	0	1	0
 одржала	held	0	0	1	0
 додељује	assigned	0	0	1	0
 додељује	awards	0	0	1	0
@@ -1175,8 +1153,8 @@ bi	would	0	0	1	0
 наоружању	weapons	0	0	1	0
 наоружању	weaponry	0	0	1	0
 националној	national	0	0	1	0
-јављају	occur	0	0	1	0
 јављају	appear	0	0	1	0
+јављају	occur	0	0	1	0
 ipv	ipv	0	0	1	0
 романтизма	romanticism	0	0	1	0
 свечаности	ceremony	0	0	1	0
@@ -1184,8 +1162,8 @@ ipv	ipv	0	0	1	0
 целој	whole	0	0	1	0
 правопис	spelling	0	0	1	0
 друштвених	social	0	0	1	0
-миграције	migration	0	0	1	0
 миграције	migrations	0	0	1	0
+миграције	migration	0	0	1	0
 копну	land	0	0	1	0
 копну	mainland	0	0	1	0
 разликује	different	0	0	1	0
@@ -1235,7 +1213,6 @@ već	already	0	0	1	1
 наоружања	armaments	0	0	1	0
 поврати	recover	0	0	1	0
 поврати	get back	0	0	1	0
-земљишта	earth	0	0	1	0
 земљишта	land	0	0	1	0
 земљишта	ground	0	0	1	0
 висока	high	0	0	1	0
@@ -1268,7 +1245,6 @@ već	already	0	0	1	1
 скупа	together	0	0	1	0
 скупа	along with	0	0	1	0
 настоји	seeks to	0	0	1	0
-настоји	trying	0	0	1	0
 плаћања	payment	0	0	1	0
 плаћања	payouts	0	0	1	0
 деловање	action	0	0	1	0
@@ -1363,7 +1339,6 @@ majkl	michael	0	0	1	1
 хуни	huns	0	0	1	0
 хуни	the huns	0	0	1	0
 нижих	lower	0	0	1	0
-хуна	hun	0	0	1	0
 хуна	huns	0	0	1	0
 хуна	huna	0	0	1	0
 могу	can	0	0	1	0
@@ -1376,7 +1351,6 @@ lekovi	drugs	0	0	1	0
 lekovi	medicines	0	0	1	1
 lekovi	medications	0	0	1	0
 врбаса	vrbas	0	0	1	0
-врбаса	vrbasa	0	0	1	0
 наравно	of course	0	0	1	0
 културу	culture	0	0	1	0
 уставу	constitution	0	0	1	0
@@ -1399,7 +1373,6 @@ internet	internet	0	0	1	0
 османлијске	osmanli	0	0	1	0
 османлијске	ottoman	0	0	1	0
 преда	surrender	0	0	1	0
-преда	in fron of	0	0	1	0
 telenovela	telenovela	0	0	1	0
 telenovela	latin american series	0	0	1	0
 telenovela	series	0	0	1	0
@@ -1428,7 +1401,6 @@ opnokrilci	hymenoptera	1	1	0	0
 oni	they	0	0	1	1
 практично	practically	0	0	1	0
 фактори	factors	0	0	1	0
-подразумева	implies	0	0	1	0
 подразумева	means	0	0	1	0
 one	they	0	0	1	0
 стварање	creation	0	0	1	0
@@ -1440,11 +1412,14 @@ one	they	0	0	1	0
 ширење	spreading	0	0	1	0
 ширење	expansion	0	0	1	0
 пробој	breakthrough	0	0	1	0
+камбријум	cambrium	1	0	1	0
+камбријум	cambrian	1	1	0	0
+камбријум	philosopher	1	0	1	0
+камбријум	cambium	1	1	0	0
 biti	be	0	0	1	1
-залив	gulf	0	0	1	0
 залив	bay	0	0	1	0
-углавном	mainly	0	0	1	0
 углавном	generally	0	0	1	0
+углавном	mainly	0	0	1	0
 углавном	mostly	0	0	1	0
 композитор	composer	0	0	1	0
 енглеске	english	0	0	1	0
@@ -1543,7 +1518,8 @@ tako	that	0	0	1	0
 година	year	0	0	1	0
 цариград	constantinople	0	0	1	0
 цариград	csarigrad	0	0	1	0
-краљеви	kings	0	0	1	0
+године	year	0	0	1	0
+године	years	0	0	1	0
 години	year	0	0	1	0
 мировне	peace	0	0	1	0
 карактеристике	characteristics	0	0	1	0
@@ -1562,9 +1538,7 @@ tako	that	0	0	1	0
 светих	saint	0	0	1	0
 канала	channels	0	0	1	0
 биљака	plants	0	0	1	0
-олимпијским	olympic	0	0	1	0
 најстарији	oldest	0	0	1	0
-најстарији	the oldest	0	0	1	0
 најстарији	eldest	0	0	1	0
 заменио	replaced	0	0	1	0
 заменио	has changed	0	0	1	0
@@ -1582,7 +1556,7 @@ ljudi	people	0	0	1	1
 категоријачланови	category:members	0	0	1	0
 категоријачланови	category: members of...	0	0	1	0
 јерменији	armenia	0	0	1	0
-милутиновић	milutinovic	0	0	1	0
+dece	children	0	0	1	0
 аутоматско	automatic	0	0	1	0
 аутоматско	automatically	0	0	1	0
 аутоматски	automatic	0	0	1	0
@@ -1591,7 +1565,6 @@ ljudi	people	0	0	1	1
 sloj	layer	0	0	1	1
 подлога	base	0	0	1	0
 осећај	feeling	0	0	1	0
-ослања	relies	0	0	1	0
 ослања	bases	0	0	1	0
 ослања	leans	0	0	1	0
 орден	medal	0	0	1	0
@@ -1639,7 +1612,6 @@ sloj	layer	0	0	1	1
 непријатеља	enemies	0	0	1	0
 живео	lived	0	0	1	0
 живео	he lived	0	0	1	0
-теореме	theoremas	0	0	1	0
 теореме	theorem	0	0	1	0
 арапских	arab	0	0	1	0
 арапских	arabic	0	0	1	0
@@ -1666,7 +1638,6 @@ sloj	layer	0	0	1	1
 подигли	rase	0	0	1	0
 главног	chief	0	0	1	0
 главног	main	0	0	1	0
-главног	capital	0	0	1	0
 националним	national	0	0	1	0
 упутства	manuals	0	0	1	0
 упутства	instructions	0	0	1	0
@@ -1691,7 +1662,6 @@ s	s	0	0	1	0
 колоне	colonies	0	0	1	0
 колоне	rows	0	0	1	0
 колоне	columns	0	0	1	0
-еволуције	evolutions	0	0	1	0
 еволуције	evolution	0	0	1	0
 радник	worker	0	0	1	0
 учествује	participates	0	0	1	0
@@ -1782,7 +1752,6 @@ njega	him	0	0	1	1
 напора	efforts	0	0	1	0
 напора	effort	0	0	1	0
 значајних	important	0	0	1	0
-значајних	significant	0	0	1	0
 критичар	criticist	1	0	1	0
 критичар	critic	1	1	0	0
 критичар	percepts	1	0	1	0
@@ -1794,7 +1763,6 @@ njega	him	0	0	1	1
 патријаршија	patriarchate	0	0	1	0
 патријаршија	patriarchy	0	0	1	0
 освајача	conquerors	0	0	1	0
-патријаршије	patriarchate	0	0	1	0
 патријаршије	patriarchy	0	0	1	0
 цетиње	cetinje	0	0	1	0
 срђан	srdjan	0	0	1	0
@@ -1814,7 +1782,6 @@ njega	him	0	0	1	1
 велика	big	0	0	1	0
 велико	large	0	0	1	0
 велико	big	0	0	1	0
-велико	substantial	0	0	1	0
 маскарпоне	maskapone	1	0	1	0
 маскарпоне	marriage	1	0	1	0
 маскарпоне	mascarpone	1	1	0	0
@@ -1838,7 +1805,6 @@ gde	where	0	0	1	1
 бази	based on	0	0	1	0
 базе	bases	0	0	1	0
 базе	base	0	0	1	0
-базе	without	0	0	1	0
 база	base	0	0	1	0
 сексуалног	sexual	0	0	1	0
 албанију	albania	0	0	1	0
@@ -1857,8 +1823,8 @@ gde	where	0	0	1	1
 албанији	albania	0	0	1	0
 албанији	to albania	0	0	1	0
 јустинијан	justinian	0	0	1	0
-репа	turnip	0	0	1	0
 репа	beet	0	0	1	0
+репа	turnip	0	0	1	0
 базу	base	0	0	1	0
 проглашен	declared	0	0	1	0
 подједнако	such as	0	0	1	0
@@ -1889,8 +1855,8 @@ gde	where	0	0	1	1
 медитеранска	mediteranian	0	0	1	0
 медитеранска	mediterranean	0	0	1	0
 развој	development	0	0	1	0
-отишао	gone	0	0	1	0
-отишао	went	0	0	1	0
+oblik	shape	0	0	1	1
+oblik	form	0	0	1	1
 системима	systems	0	0	1	0
 хапшење	arrest	0	0	1	0
 медитеранске	mediteranian	0	0	1	0
@@ -2040,8 +2006,8 @@ njih	them	0	0	1	1
 пакета	package	0	0	1	0
 грчким	greek	0	0	1	0
 борбени	military	0	0	1	0
-борбени	fighting	0	0	1	0
 борбени	combat	0	0	1	0
+борбени	fighting	0	0	1	0
 одбија	refuses	0	0	1	0
 одбија	refuse	0	0	1	0
 бивших	former	0	0	1	0
@@ -2108,9 +2074,7 @@ ta	that	0	0	1	0
 заштита	protection	0	0	1	0
 заштита	defence	0	0	1	0
 прошлости	past	0	0	1	0
-прошлости	in the past	0	0	1	0
 бенд	band	0	0	1	0
-бенд	bend	0	0	1	0
 strane	side of	0	0	1	0
 strane	side	0	0	1	0
 strane	by	0	0	1	0
@@ -2118,10 +2082,8 @@ strane	by	0	0	1	0
 полако	easy	0	0	1	0
 фон	fon	0	0	1	0
 фон	von bismarck	0	0	1	0
-тих	these	0	0	1	0
-тих	those	0	0	1	0
+rh	rh	0	0	1	0
 редовима	rows	0	0	1	0
-редовима	lines	0	0	1	0
 редовима	orders	0	0	1	0
 неслагања	disagreement	0	0	1	0
 српским	serbian	0	0	1	0
@@ -2132,7 +2094,6 @@ strane	by	0	0	1	0
 довољан	enough	0	0	1	0
 протестанти	protestants	0	0	1	0
 извршена	is performed	0	0	1	0
-извршена	done	0	0	1	0
 извршена	performed	0	0	1	0
 авноја	avnoj	0	0	1	0
 берлински	berlin	0	0	1	0
@@ -2144,7 +2105,6 @@ strane	by	0	0	1	0
 ратну	war	0	0	1	0
 многи	many	0	0	1	0
 површина	area	0	0	1	0
-заслуге	accomplishments	0	0	1	0
 заслуге	merits	0	0	1	0
 заслуге	merit	0	0	1	0
 заслуга	merits	0	0	1	0
@@ -2163,7 +2123,6 @@ strane	by	0	0	1	0
 посветио	dedicated	0	0	1	0
 поремећаја	disrupt	0	0	1	0
 поремећаја	disorder	0	0	1	0
-ратне	war	0	0	1	0
 ратне	wartime	0	0	1	0
 каранфил	clove	1	1	0	0
 каранфил	dianthus	1	1	0	0
@@ -2177,7 +2136,6 @@ strane	by	0	0	1	0
 слободана	free	0	0	1	0
 једним	partly	0	0	1	0
 једним	one	0	0	1	0
-површину	surface	0	0	1	0
 површину	area	0	0	1	0
 ратно	war	0	0	1	0
 ратно	wartime	0	0	1	0
@@ -2281,7 +2239,6 @@ tardigrada	tardigrade	1	1	0	0
 читавог	whole	0	0	1	0
 najčešće	usually	0	0	1	0
 najčešće	most commonly	0	0	1	0
-najčešće	often	0	0	1	0
 снова	dreams	0	0	1	0
 румунијом	romania	0	0	1	0
 роберта	robert	0	0	1	0
@@ -2314,14 +2271,12 @@ najčešće	often	0	0	1	0
 дијела	part's	0	0	1	0
 дијела	parts	0	0	1	0
 данашњој	present-day	0	0	1	0
-данашњој	todays	0	0	1	0
 данашњој	today	0	0	1	0
 архитектури	architecture	0	0	1	0
 архитектури	architectures	0	0	1	0
 помоћ	assistance	0	0	1	0
 помоћ	help	0	0	1	0
 произвођача	producers	0	0	1	0
-произвођача	manufacturers	0	0	1	0
 дијелу	part	0	0	1	0
 архитектуру	architecture	0	0	1	0
 грешке	mistakes	0	0	1	0
@@ -2366,13 +2321,12 @@ najčešće	often	0	0	1	0
 поделе	dividing	0	0	1	0
 поделе	separate	0	0	1	0
 сталежа	class	0	0	1	0
-сталежа	class backgrounds	0	0	1	0
 сталежа	estate	0	0	1	0
 уско	narrowly	0	0	1	0
 уско	tight	0	0	1	0
-уско	tightly	0	0	1	0
 материјал	material	0	0	1	0
 начела	principles	0	0	1	0
+операција	operation	0	0	1	0
 новости	news	0	0	1	0
 новости	novosti	0	0	1	0
 снимање	recording	0	0	1	0
@@ -2397,8 +2351,6 @@ najčešće	often	0	0	1	0
 случаја	case	0	0	1	0
 крајњи	last	0	0	1	0
 крајњи	final	0	0	1	0
-крајње	extremely	0	0	1	0
-крајње	final	0	0	1	0
 крајње	ultimate	0	0	1	0
 педагогија	pedagogy	1	1	0	0
 педагогија	presidential	1	0	1	0
@@ -2407,7 +2359,6 @@ najčešće	often	0	0	1	0
 оружје	weapons	0	0	1	0
 оружје	weapon	0	0	1	0
 мини|п|подручја	mini/p/areas	0	0	1	0
-мини|п|подручја	mini areas	0	0	1	0
 прозора	windows	0	0	1	0
 насељавају	inhabit	0	0	1	0
 насељавају	settled	0	0	1	0
@@ -2419,7 +2370,6 @@ najčešće	often	0	0	1	0
 потврђује	confirm	0	0	1	0
 завода	institute	0	0	1	0
 завода	bureau	0	0	1	0
-завода	office	0	0	1	0
 припадају	belong	0	0	1	0
 припадају	belong to	0	0	1	0
 сета	sorrow	0	0	1	0
@@ -2429,7 +2379,6 @@ najčešće	often	0	0	1	0
 проучава	study	0	0	1	0
 проучава	studies	0	0	1	0
 радија	radio	0	0	1	0
-чеси	czech	0	0	1	0
 чеси	czechs	0	0	1	0
 ftp	ftp	0	0	1	0
 случајно	accidently	0	0	1	0
@@ -2489,10 +2438,8 @@ srbiji	serbia	0	0	1	0
 јелисавета	elizabeth	0	0	1	0
 повремено	frequently	0	0	1	0
 повремено	occasionally	0	0	1	0
-повремено	periodically	0	0	1	0
 предвиђао	provided	0	0	1	0
 предвиђао	predicted	0	0	1	0
-предвиђао	envisaged	0	0	1	0
 предсједник	president	0	0	1	0
 предлог	proposal	0	0	1	0
 предлог	proposition	0	0	1	0
@@ -2511,7 +2458,6 @@ w	w	0	0	1	0
 појмом	term	0	0	1	0
 појмом	notion	0	0	1	0
 он	he	0	0	1	0
-ог	og	0	0	1	0
 ог	nd	0	0	1	0
 од	of	0	0	1	0
 од	from	0	0	1	0
@@ -2567,8 +2513,8 @@ jer	because	0	0	1	1
 прилике	occasions	0	0	1	0
 прилике	circumstances	0	0	1	0
 прилике	situations	0	0	1	0
-мехмед	mexmed	0	0	1	0
 мехмед	mehmed	0	0	1	0
+мехмед	mexmed	0	0	1	0
 белорусија	belarus	0	0	1	0
 манифестација	manifestation	0	0	1	0
 корен	root	0	0	1	0
@@ -2596,7 +2542,9 @@ freud	freud	0	0	1	0
 ноћу	night	0	0	1	0
 кина	china	0	0	1	0
 радара	radar	0	0	1	0
-морнарице	navy	0	0	1	0
+састоји	comprises	0	0	1	0
+састоји	consists	0	0	1	0
+састоји	contain	0	0	1	0
 кине	china	0	0	1	0
 србима	serbs	0	0	1	0
 парохија	parish	1	1	0	0
@@ -2645,7 +2593,6 @@ sezone	season	0	0	1	0
 драгиша	dragisa	0	0	1	0
 sezona	season	0	0	1	1
 милутину	milutin	0	0	1	0
-узрокује	cause	0	0	1	0
 узрокује	causes	0	0	1	0
 ослобађања	release	0	0	1	0
 ослобађања	liberation	0	0	1	0
@@ -2664,7 +2611,6 @@ sezona	season	0	0	1	1
 kada	when	0	0	1	1
 опрема	equipment	0	0	1	0
 призна	recognize	0	0	1	0
-призна	confess	0	0	1	0
 кренуо	started	0	0	1	0
 кренуо	head for	0	0	1	0
 грчкој	greek	0	0	1	0
@@ -2725,7 +2671,6 @@ prijemnika	receiver	0	0	1	0
 преузео	take over	0	0	1	0
 преузео	adopted	0	0	1	0
 приказана	shown	0	0	1	0
-приказана	show	0	0	1	0
 мира	peace	0	0	1	0
 мира	mira	0	0	1	0
 срца	hearts	0	0	1	0
@@ -2738,9 +2683,8 @@ prijemnika	receiver	0	0	1	0
 прекршај	fault	0	0	1	0
 прекршај	foul	0	0	1	0
 vitamina	vitamin	0	0	1	0
-изабран	chosen	0	0	1	0
-изабран	elected	0	0	1	0
 изабран	choosen	0	0	1	0
+изабран	elected	0	0	1	0
 изабрао	chose	0	0	1	0
 изабрао	picked	0	0	1	0
 идеје	ideas	0	0	1	0
@@ -2749,7 +2693,6 @@ vitamina	vitamin	0	0	1	0
 прилагођавање	adaptation	1	1	0	0
 прилагођавање	human	1	0	1	0
 прилагођавање	people	1	0	1	0
-iako	strong	0	0	1	0
 iako	although	0	0	1	1
 вијенац	wreath	0	0	1	0
 вијенац	mountain range	0	0	1	0
@@ -2796,8 +2739,8 @@ iako	although	0	0	1	1
 освајају	conquer	0	0	1	0
 тржиште	market	0	0	1	0
 конструкција	construction	0	0	1	0
-веже	binds	0	0	1	0
-веже	connects	0	0	1	0
+конструкције	construction	0	0	1	0
+конструкције	constructions	0	0	1	0
 дечани	decani	0	0	1	0
 дечани	dechani	0	0	1	0
 оцу	father	0	0	1	0
@@ -2824,7 +2767,6 @@ nešto	something	0	0	1	1
 честим	frequent	0	0	1	0
 питагорине	pitagoras	0	0	1	0
 питагорине	pythagoras	0	0	1	0
-питагорине	pythagorean	0	0	1	0
 новине	newspaper	0	0	1	0
 новине	newspapers	0	0	1	0
 злочине	crimes	0	0	1	0
@@ -2858,7 +2800,6 @@ motori	engines	0	0	1	0
 извештају	the report	0	0	1	0
 тема	topic	0	0	1	0
 тема	theme	0	0	1	0
-тема	issue	0	0	1	0
 како	how	0	0	1	0
 како	as	0	0	1	0
 југославију	jugoslavia	0	0	1	0
@@ -2912,7 +2853,6 @@ motori	engines	0	0	1	0
 утицају	impact	0	0	1	0
 утицају	influence	0	0	1	0
 популације	population	0	0	1	0
-популације	populations	0	0	1	0
 фузија	fusion	1	1	0	0
 фузија	euphemisms	1	0	1	0
 фузија	euhemism	1	0	1	0
@@ -2988,7 +2928,6 @@ d	d	0	0	1	0
 лета	summer's	0	0	1	0
 димензија	dimension	0	0	1	0
 смањења	changed	0	0	1	0
-смањења	decrease	0	0	1	0
 смањења	reduced	0	0	1	0
 одређивање	assignment	0	0	1	0
 одређивање	determination	0	0	1	0
@@ -3075,7 +3014,7 @@ by	by	0	0	1	0
 погинуло	died	0	0	1	0
 kojih	whose	0	0	1	0
 kojih	which	0	0	1	0
-мадона	madonna	0	0	1	0
+трново	trnovo	0	0	1	0
 формула	formula	0	0	1	0
 паша	pasture	0	0	1	0
 паша	ali pasha	0	0	1	0
@@ -3132,7 +3071,6 @@ un	un	0	0	1	0
 чланак	article	0	0	1	0
 основне	elementary	0	0	1	0
 основне	primary	0	0	1	0
-основне	basic	0	0	1	0
 основна	primary	0	0	1	0
 основна	basic	0	0	1	0
 другом	second	0	0	1	0
@@ -3160,7 +3098,6 @@ un	un	0	0	1	0
 задужбине	endowment	0	0	1	0
 јединствен	unique	0	0	1	0
 капитализма	capitalism	0	0	1	0
-задужбина	foundation	0	0	1	0
 задужбина	endowment	0	0	1	0
 основну	elementary	0	0	1	0
 основну	primary	0	0	1	0
@@ -3200,7 +3137,6 @@ un	un	0	0	1	0
 партије	parties	0	0	1	0
 петербурга	peterburg	0	0	1	0
 петербурга	petersburg	0	0	1	0
-матице	matica	0	0	1	0
 матице	the mainstream	0	0	1	0
 матице	womb	0	0	1	0
 матица	when with српска	0	0	1	0
@@ -3209,7 +3145,6 @@ un	un	0	0	1	0
 ђинђић	gingic	0	0	1	0
 ђинђић	djindjic	0	0	1	0
 стране	strane jezike-foreign languages;sa druge strane-on the other side	0	0	1	0
-стране	sights	0	0	1	0
 стране	foreign	0	0	1	0
 главне	main	0	0	1	0
 главни	major	0	0	1	0
@@ -3218,7 +3153,6 @@ un	un	0	0	1	0
 менингитис	images	1	0	1	0
 менингитис	image	1	0	1	0
 менингитис	meningitis	1	1	0	0
-страни	strange	0	0	1	0
 страни	page	0	0	1	0
 страни	side	0	0	1	0
 раних	early	0	0	1	0
@@ -3231,7 +3165,6 @@ un	un	0	0	1	0
 напао	attack	0	0	1	0
 напао	attacked	0	0	1	0
 хашки	hague	0	0	1	0
-хашки	the hague	0	0	1	0
 ушао	entered	0	0	1	0
 ушао	come in	0	0	1	0
 наставила	continued	0	0	1	0
@@ -3274,12 +3207,10 @@ tri	three	0	0	1	1
 срби	serbs	0	0	1	0
 срби	serbian	0	0	1	0
 грцима	greeks	0	0	1	0
-састоји	comprises	0	0	1	0
-састоји	consists	0	0	1	0
-састоји	contain	0	0	1	0
+морнарице	navy	0	0	1	0
 низија	lowlands	0	0	1	0
-низија	depression	0	0	1	0
 низија	lowland	0	0	1	0
+низија	depression	0	0	1	0
 србе	serbians	0	0	1	0
 србе	serb	0	0	1	0
 србе	serbs	0	0	1	0
@@ -3305,7 +3236,6 @@ tri	three	0	0	1	1
 стрица	uncle	0	0	1	0
 обухватала	included	0	0	1	0
 обухватала	took	0	0	1	0
-обухватала	comprised	0	0	1	0
 палестине	palestine	0	0	1	0
 објавила	announced	0	0	1	0
 објавила	published	0	0	1	0
@@ -3348,7 +3278,6 @@ tri	three	0	0	1	1
 приступ	approach	0	0	1	0
 западни	west	0	0	1	0
 западни	western	0	0	1	0
-шпански	spanish	0	0	1	0
 век	century	0	0	1	0
 богиње	goddess	0	0	1	0
 богиње	godes	0	0	1	0
@@ -3358,12 +3287,11 @@ tri	three	0	0	1	1
 светој	holy	0	0	1	0
 светој	saint	0	0	1	0
 планинама	mountains	0	0	1	0
-склоност	propensity	0	0	1	0
 склоност	affinity	0	0	1	0
 склоност	tendency	0	0	1	0
 веб	web	0	0	1	0
-мирјана	miriana	0	0	1	0
-мирјана	mirjana	0	0	1	0
+поседу	possession	0	0	1	0
+поседу	property	0	0	1	0
 жеља	desire	0	0	1	0
 жеља	wish	0	0	1	0
 америчком	american	0	0	1	0
@@ -3379,7 +3307,6 @@ tri	three	0	0	1	1
 организовано	organized	0	0	1	0
 чачка	chachak	0	0	1	0
 чачка	cacak	0	0	1	0
-организовани	organised	0	0	1	0
 организовани	organized	0	0	1	0
 храну	food	0	0	1	0
 организоване	organised	0	0	1	0
@@ -3431,11 +3358,9 @@ vremena	time	0	0	1	0
 поседе	properties	0	0	1	0
 динара	dinar	0	0	1	0
 динара	dinara	0	0	1	0
-динара	csd	0	0	1	0
 поседа	properties	0	0	1	0
 новим	new	0	0	1	0
 већ	as early as	0	0	1	0
-већ	but	0	0	1	0
 надмоћ	domination	0	0	1	0
 надмоћ	dominance	0	0	1	0
 надмоћ	over power	0	0	1	0
@@ -3500,7 +3425,6 @@ vremena	time	0	0	1	0
 оштро	sharply	0	0	1	0
 москву	moscow	0	0	1	0
 руци	hand	0	0	1	0
-npr	for example	0	0	1	0
 npr	eg	0	0	1	0
 јест	to jest-"in other words" (drugim recima)	0	0	1	0
 јест	is	0	0	1	0
@@ -3514,15 +3438,12 @@ npr	eg	0	0	1	0
 каријеру	career	0	0	1	0
 успеха	success	0	0	1	0
 јединствену	simple	0	0	1	0
-јединствену	single	0	0	1	0
 јединствену	unique	0	0	1	0
 успехе	triumphs	0	0	1	0
 успехе	successes	0	0	1	0
-погледати	see	0	0	1	0
-погледати	take a look at	0	0	1	0
-погледати	view	0	0	1	0
-лаки	light	0	0	1	0
-лаки	easy	0	0	1	0
+флоте	fleet	0	0	1	0
+кругова	circles	0	0	1	0
+кругова	circle	0	0	1	0
 флота	fleet	0	0	1	0
 страдало	was killed	0	0	1	0
 страдало	suffered	0	0	1	0
@@ -3563,7 +3484,6 @@ npr	eg	0	0	1	0
 етничким	ethnical	0	0	1	0
 етничким	ethnic	0	0	1	0
 белгије	belgium	0	0	1	0
-javlja	checks in	0	0	1	0
 javlja	develop	0	0	1	0
 javlja	shows	0	0	1	0
 ипак	however	0	0	1	0
@@ -3637,7 +3557,6 @@ javlja	shows	0	0	1	0
 јуре	chasing	0	0	1	0
 јуре	jurassic	0	0	1	0
 јануара	january	0	0	1	0
-географије	grography	0	0	1	0
 географије	geography	0	0	1	0
 периодима	periods	0	0	1	0
 режиму	mode	0	0	1	0
@@ -3731,7 +3650,6 @@ start	start	0	0	1	1
 бел	bell	0	0	1	0
 бен	ben	0	0	1	0
 тридесетих	thirties	0	0	1	0
-утицајем	the influence	0	0	1	0
 утицајем	influence	0	0	1	0
 тајван	taiwan	0	0	1	0
 тајван	taivan	0	0	1	0
@@ -3803,7 +3721,6 @@ ulogu	role	0	0	1	0
 страница	page	0	0	1	0
 странице	page	0	0	1	0
 странице	pages	0	0	1	0
-страници	strangers	0	0	1	0
 страници	page	0	0	1	0
 јелен	deer	0	0	1	0
 облику	shape	0	0	1	0
@@ -3830,7 +3747,9 @@ ulogu	role	0	0	1	0
 поште	mail	0	0	1	0
 желела	wanted	0	0	1	0
 речних	river	0	0	1	0
-флоте	fleet	0	0	1	0
+погледати	see	0	0	1	0
+погледати	take a look at	0	0	1	0
+погледати	view	0	0	1	0
 пошто	since	0	0	1	0
 пошто	because	0	0	1	0
 писци	writers	0	0	1	0
@@ -3907,7 +3826,6 @@ nisu	aren't	0	0	1	0
 припадности	affiliation	0	0	1	0
 припадности	belonging	0	0	1	0
 плочу	record	0	0	1	0
-плочу	panel	0	0	1	0
 ђурађ	djuradj	0	0	1	0
 мајци	mother	0	0	1	0
 уједињеним	united	0	0	1	0
@@ -3932,9 +3850,9 @@ nisu	aren't	0	0	1	0
 трир	files	1	0	1	0
 трир	trier	1	1	0	0
 трир	trir	1	0	1	0
-лист	leaf	0	0	1	0
-лист	paper	0	0	1	0
 лист	sheet	0	0	1	0
+лист	paper	0	0	1	0
+лист	leaf	0	0	1	0
 инфекције	infections	0	0	1	0
 инфекције	infection	0	0	1	0
 архитектонски	architectural	0	0	1	0
@@ -3970,7 +3888,6 @@ nisu	aren't	0	0	1	0
 бразил	brazil	0	0	1	0
 акције	actions	0	0	1	0
 данашњи	current	0	0	1	0
-данашњи	todays	0	0	1	0
 акција	action	0	0	1	0
 мушкарца	male	0	0	1	0
 мушкарца	man	0	0	1	0
@@ -3983,7 +3900,6 @@ motora	motor	0	0	1	0
 мушкарци	men	0	0	1	0
 мушкарци	male	0	0	1	0
 гроф	count	0	0	1	0
-константин	konstantin	0	0	1	0
 константин	constantine	0	0	1	0
 предмет	subject	0	0	1	0
 пољопривреде	agriculture	0	0	1	0
@@ -4048,7 +3964,6 @@ php	php	0	0	1	0
 заваривање	number	1	0	1	0
 заваривање	welding	1	1	0	0
 науци	science	0	0	1	0
-науци	to the sience	0	0	1	0
 данашњу	current	0	0	1	0
 данашњу	today	0	0	1	0
 промјене	changes	0	0	1	0
@@ -4094,7 +4009,7 @@ php	php	0	0	1	0
 горњег	upper	0	0	1	0
 горњег	top	0	0	1	0
 umesto	instead	0	0	1	1
-umesto	instead of	0	0	1	1
+umesto	instead of	0	0	1	0
 новинарство	speed	1	0	1	0
 новинарство	jornalism	1	0	1	0
 новинарство	journalistic	1	1	0	0
@@ -4117,7 +4032,6 @@ umesto	instead of	0	0	1	1
 категоријасрпски	category: serbian	0	0	1	0
 категоријасрпски	categories of serbian	0	0	1	0
 пао	fell	0	0	1	0
-категоријасрпска	serbian category	0	0	1	0
 категоријасрпска	category: serbian	0	0	1	0
 увод	introduction	0	0	1	0
 увод	intro	0	0	1	0
@@ -4129,7 +4043,6 @@ umesto	instead of	0	0	1	1
 чудно	strangely	0	0	1	0
 чудно	strange	0	0	1	0
 филозофију	philosophy	0	0	1	0
-филозофију	phylosophy	0	0	1	0
 народом	people	0	0	1	0
 прихватила	accepted	0	0	1	0
 инфлација	inflation	0	0	1	0
@@ -4178,7 +4091,6 @@ sistem	system	0	0	1	1
 јевреји	jews	0	0	1	0
 склопио	made	0	0	1	0
 именује	assign	0	0	1	0
-именује	appoints	0	0	1	0
 именује	appointed by	0	0	1	0
 градских	city	0	0	1	0
 француских	french	0	0	1	0
@@ -4230,8 +4142,6 @@ terapija	therapy	0	0	1	1
 градским	city	0	0	1	0
 судије	judge	0	0	1	0
 судије	judges	0	0	1	0
-судије	studies	0	0	1	0
-бомбе	bomb	0	0	1	0
 бомбе	bombs	0	0	1	0
 индустрије	industry	0	0	1	0
 индустрије	inindustry	0	0	1	0
@@ -4242,12 +4152,10 @@ terapija	therapy	0	0	1	1
 насељавања	inhabits	0	0	1	0
 најуспешнији	most successful	0	0	1	0
 теренима	fields	0	0	1	0
-теренима	area	0	0	1	0
 николаја	nikolai	0	0	1	0
 николаја	nikolay	0	0	1	0
 индустрија	industry	0	0	1	0
 трупа	troopv	0	0	1	0
-трупа	troop	0	0	1	0
 трупа	troops	0	0	1	0
 трупе	troops	0	0	1	0
 трупе	troups	0	0	1	0
@@ -4287,7 +4195,6 @@ terapija	therapy	0	0	1	1
 најзначајније	the most important	0	0	1	0
 стога	because	0	0	1	0
 стога	so	0	0	1	0
-стога	therefore	0	0	1	0
 доњем	down	0	0	1	0
 доњем	lower	0	0	1	0
 континенту	continent	0	0	1	0
@@ -4402,13 +4309,11 @@ wikimapia	satelit map	0	0	1	0
 јавити	occur	0	0	1	0
 јавити	appear	0	0	1	0
 покрета	movement	0	0	1	0
-покрета	movements	0	0	1	0
 већој	greater	0	0	1	0
 већој	bigger	0	0	1	0
 већој	more	0	0	1	0
 јаких	strong	0	0	1	0
 уведен	introduced	0	0	1	0
-уведен	introduce	0	0	1	0
 стопа	rate	0	0	1	0
 географија	geography	0	0	1	0
 ako	if	0	0	1	1
@@ -4434,7 +4339,6 @@ ix	ix	0	0	1	0
 споразума	agreement	0	0	1	0
 врхови	vrhovi (suncani vrhovi)	0	0	1	0
 врхови	peaks	0	0	1	0
-врхови	heights	0	0	1	0
 заробљени	caught	0	0	1	0
 заробљени	captured	0	0	1	0
 политичкој	political	0	0	1	0
@@ -4448,7 +4352,6 @@ ix	ix	0	0	1	0
 коридор	corridor	0	0	1	0
 документима	documents	0	0	1	0
 носила	held	0	0	1	0
-носила	stretcher	0	0	1	0
 носила	carried	0	0	1	0
 политичког	political	0	0	1	0
 парламентарна	parliamentary	0	0	1	0
@@ -4506,7 +4409,6 @@ lečenje	treatment	0	0	1	1
 јачи	superior	0	0	1	0
 јачи	stronger	0	0	1	0
 положају	position	0	0	1	0
-јаче	strongly	0	0	1	0
 јаче	more strongly	0	0	1	0
 јаче	stronger	0	0	1	0
 плен	prey	0	0	1	0
@@ -4547,7 +4449,6 @@ marija	maria	0	0	1	1
 стефанове	first name	0	0	1	0
 стефанове	stefan	0	0	1	0
 стефанове	stephen's	0	0	1	0
-стефанове	stefanove	0	0	1	0
 посебно	especially	0	0	1	0
 давно	long ago	0	0	1	0
 давно	long time ago	0	0	1	0
@@ -4565,8 +4466,8 @@ marija	maria	0	0	1	1
 досељеника	immigrants	0	0	1	0
 досељеника	immigrant	0	0	1	0
 досељеника	emigrants	0	0	1	0
-борби	fighting	0	0	1	0
 борби	battles	0	0	1	0
+борби	fighting	0	0	1	0
 борби	fight	0	0	1	0
 пишу	write	0	0	1	0
 °с	celsius	0	0	1	0
@@ -4601,8 +4502,6 @@ l	i	0	0	1	0
 дете	child	0	0	1	0
 нпр	for example	0	0	1	0
 спортске	sport	0	0	1	0
-спортске	sports	0	0	1	0
-гај	grove	0	0	1	0
 гај	gaj	0	0	1	0
 bolesti	diseases	0	0	1	0
 избегли	avoid	0	0	1	0
@@ -4616,7 +4515,6 @@ bolesti	diseases	0	0	1	0
 ланца	chain	0	0	1	0
 ланци	chains	0	0	1	0
 устав	constitution	0	0	1	0
-устав	contitution	0	0	1	0
 данима	days	0	0	1	0
 краћи	shorter	0	0	1	0
 краћи	short	0	0	1	0
@@ -4629,7 +4527,6 @@ bolesti	diseases	0	0	1	0
 апатит	jerusalem	1	0	1	0
 апатит	apatite	1	1	0	0
 већински	majority	0	0	1	0
-већински	major	0	0	1	0
 већинско	majority	0	0	1	0
 шах	togliatti	1	0	1	0
 шах	tolyatti	1	0	1	0
@@ -4643,7 +4540,6 @@ realizam	realism	0	0	1	1
 првобитни	initial	0	0	1	0
 првобитни	original	0	0	1	0
 првобитни	first	0	0	1	0
-температуром	temeperature	0	0	1	0
 температуром	temperature	0	0	1	0
 разлога	reason	0	0	1	0
 разлога	cause	0	0	1	0
@@ -4671,7 +4567,6 @@ realizam	realism	0	0	1	1
 уче	learn	0	0	1	0
 падавине	precipitation	0	0	1	0
 падавине	rainfall's	0	0	1	0
-мане	flaws	0	0	1	0
 мане	defect	0	0	1	0
 мане	imperfections	0	0	1	0
 падавина	rainfall	0	0	1	0
@@ -4721,7 +4616,7 @@ realizam	realism	0	0	1	1
 лиги	league	0	0	1	0
 марко	marko	0	0	1	0
 марко	marco	0	0	1	0
-комбинацији	combination	0	0	1	0
+лиге	league	0	0	1	0
 непријатељства	hostility	0	0	1	0
 roma	rome	0	0	1	0
 лига	league	0	0	1	0
@@ -4740,13 +4635,11 @@ roma	rome	0	0	1	0
 верзија	version	0	0	1	0
 резултате	results	0	0	1	0
 резултати	results	0	0	1	0
-брата	brother	0	0	1	0
 брата	brothers	0	0	1	0
+брата	brother	0	0	1	0
 одбио	refuse	0	0	1	0
 одбио	refused	0	0	1	0
-одбио	reject	0	0	1	0
 зону	zone	0	0	1	0
-доприноси	contributes	0	0	1	0
 доприноси	contributions	0	0	1	0
 последње	last	0	0	1	0
 последња	last	0	0	1	0
@@ -4787,7 +4680,6 @@ da	da doesn't translate	0	0	1	0
 задњих	last	0	0	1	0
 dr	dr	0	0	1	0
 dr	dr.	0	0	1	0
-уследила	followed by	0	0	1	0
 уследила	followed	0	0	1	0
 политиком	policy	0	0	1	0
 политиком	politics	0	0	1	0
@@ -4866,7 +4758,7 @@ ili	or	0	0	1	1
 игру	game	0	0	1	0
 почне	start	0	0	1	0
 почне	begin	0	0	1	0
-освојио	won	0	0	1	0
+ваздушном	air	0	0	1	0
 непрекидно	continuously	0	0	1	0
 непрекидно	endlessly	0	0	1	0
 песме	poems	0	0	1	0
@@ -4895,14 +4787,12 @@ ili	or	0	0	1	1
 ставове	stands	0	0	1	0
 формација	formation	0	0	1	0
 ваздушног	air	0	0	1	0
-формације	formation	0	0	1	0
 формације	formations	0	0	1	0
 scalemajor	proportion	0	0	1	0
 унија	union	0	0	1	0
 раздобљу	period	0	0	1	0
 раздобљу	discord	0	0	1	0
 уније	union	0	0	1	0
-уније	unions	0	0	1	0
 темена	vertex	0	0	1	0
 темена	parietal	0	0	1	0
 темена	the apex	0	0	1	0
@@ -4994,7 +4884,6 @@ scalemajor	proportion	0	0	1	0
 локално	locally	0	0	1	0
 локално	local	0	0	1	0
 локални	local	0	0	1	0
-наших	ours	0	0	1	0
 наших	our	0	0	1	0
 недеље	week	0	0	1	0
 недеље	weeks	0	0	1	0
@@ -5059,7 +4948,6 @@ newton	newton	0	0	1	0
 голи	goli (goli otok - name of a place)	0	0	1	0
 георгија	georgije	0	0	1	0
 георгија	george	0	0	1	0
-племства	aristocrasy	0	0	1	0
 племства	nobility	0	0	1	0
 београдског	belgrade's	0	0	1	0
 београдског	belgrade	0	0	1	0
@@ -5093,7 +4981,6 @@ newton	newton	0	0	1	0
 чешће	more often	0	0	1	0
 чешће	often	0	0	1	0
 потписивања	signing	0	0	1	0
-прелаза	crossing	0	0	1	0
 прелаза	transfer	0	0	1	0
 прелаза	transition	0	0	1	0
 шаљу	send	0	0	1	0
@@ -5129,7 +5016,6 @@ newton	newton	0	0	1	0
 јужноафричка	south african	0	0	1	0
 јужноафричка	south africa	0	0	1	0
 лидера	leader	0	0	1	0
-лидера	liders	0	0	1	0
 вође	fruit	0	0	1	0
 вође	leaders	0	0	1	0
 шаље	sends	0	0	1	0
@@ -5144,7 +5030,8 @@ newton	newton	0	0	1	0
 артиљерију	artillery	0	0	1	0
 победили	win	0	0	1	0
 победили	won	0	0	1	0
-српску	serbian	0	0	1	0
+ниским	lower	0	0	1	0
+ниским	low	0	0	1	0
 миша	misha	0	0	1	0
 миша	misa	0	0	1	0
 миша	first name	0	0	1	0
@@ -5156,9 +5043,8 @@ newton	newton	0	0	1	0
 околином	surrounding	0	0	1	0
 околином	around	0	0	1	0
 чувена	famous	0	0	1	0
-делује	operate	0	0	1	0
-делује	operating	0	0	1	0
 делује	acts	0	0	1	0
+делује	operating	0	0	1	0
 објављено	published	0	0	1	0
 чувени	famous	0	0	1	0
 организује	organize	0	0	1	0
@@ -5191,8 +5077,8 @@ newton	newton	0	0	1	0
 тренутни	moments	0	0	1	0
 ново	new	0	0	1	0
 њихов	their	0	0	1	0
-говору	speach	0	0	1	0
-говору	speech	0	0	1	0
+водећи	leading	0	0	1	0
+водећи	lead	0	0	1	0
 нови	new	0	0	1	0
 нови	novi	0	0	1	0
 tesla	tesla	0	0	1	0
@@ -5218,7 +5104,6 @@ xiii	xiii  (thirteen )	0	0	1	0
 основане	based	0	0	1	0
 горан	goran	0	0	1	0
 филипини	philiphines	0	0	1	0
-филипини	philippines	0	0	1	0
 филипини	the philippines	0	0	1	0
 компоновао	composed	0	0	1	0
 уметника	artist	0	0	1	0
@@ -5232,8 +5117,8 @@ xiii	xiii  (thirteen )	0	0	1	0
 jednog	one	0	0	1	0
 улици	streets	0	0	1	0
 улици	street	0	0	1	0
-овоме	this	0	0	1	0
 овоме	this one	0	0	1	0
+овоме	this	0	0	1	0
 jednom	once	0	0	1	1
 држање	keeping	0	0	1	0
 држање	hold	0	0	1	0
@@ -5250,16 +5135,12 @@ ponovo	again	0	0	1	1
 дуге	long	0	0	1	0
 нову	new	0	0	1	0
 котор	kotor	0	0	1	0
-дуга	(of) debt; (is) long [fem. gender]	0	0	1	0
-дуга	debth	0	0	1	0
-дуга	long	0	0	1	0
+секулић	sekulic	0	0	1	0
 независна	independent	0	0	1	0
 гаросу	garros	0	0	1	0
-гаросу	gaross	0	0	1	0
 југа	south	0	0	1	0
 независне	independent	0	0	1	0
 независни	independent	0	0	1	0
-независни	independed	0	0	1	0
 панчеву	pancevo (city in serbia)	0	0	1	0
 панчеву	pancevo	0	0	1	0
 класичног	clasic	0	0	1	0
@@ -5304,7 +5185,6 @@ ponovo	again	0	0	1	1
 налазимо	find	0	0	1	0
 подржавају	support	0	0	1	0
 старим	old	0	0	1	0
-старим	get old	0	0	1	0
 губици	loss	0	0	1	0
 губици	losses	0	0	1	0
 губици	loses	0	0	1	0
@@ -5316,7 +5196,6 @@ nije	didn't	0	0	1	0
 уписао	enrolled	0	0	1	0
 стоји	is	0	0	1	0
 стоји	stands	0	0	1	0
-стоји	stand	0	0	1	0
 p	p	0	0	1	0
 нацисти	nazis	0	0	1	0
 јагодина	jagodina	0	0	1	0
@@ -5385,7 +5264,6 @@ satelita	satellite	0	0	1	0
 четврт	quarter	0	0	1	0
 четврт	fourth	0	0	1	0
 њега	him	0	0	1	0
-њега	he	0	0	1	0
 претензије	claims	0	0	1	0
 претензије	pretenses	0	0	1	0
 претензије	pretension	0	0	1	0
@@ -5499,7 +5377,6 @@ nema	there aren't	0	0	1	0
 уобичајено	usual	0	0	1	0
 далмације	dalmatia	0	0	1	0
 далмације	dalmacija(region on the eastern coast of the adriatic sea.)	0	0	1	0
-далмације	dalmating	0	0	1	0
 статистички	statistic	0	0	1	0
 многобројни	many	0	0	1	0
 изговара	pronounce	0	0	1	0
@@ -5525,7 +5402,6 @@ nema	there aren't	0	0	1	0
 покрајинама	province	0	0	1	0
 покрајинама	residences	0	0	1	0
 постепено	gradually	0	0	1	0
-јавио	occured	0	0	1	0
 јавио	occurred	0	0	1	0
 јавио	occur	0	0	1	0
 двије	two	0	0	1	0
@@ -5544,7 +5420,6 @@ nema	there aren't	0	0	1	0
 сајта	site	0	0	1	0
 водила	led	0	0	1	0
 водила	lead	0	0	1	0
-водиле	took place	0	0	1	0
 водиле	lead	0	0	1	0
 објављивања	publishements	0	0	1	0
 објављивања	publishing	0	0	1	0
@@ -5553,7 +5428,6 @@ nema	there aren't	0	0	1	0
 објављивање	publishing	0	0	1	0
 рашку	rashka	0	0	1	0
 рашку	raska	0	0	1	0
-окупација	ocupation	0	0	1	0
 окупација	occupation	0	0	1	0
 окупације	ocupation	0	0	1	0
 окупације	occupation	0	0	1	0
@@ -5564,8 +5438,8 @@ nema	there aren't	0	0	1	0
 фиренца	florence	0	0	1	0
 фиренце	florence	0	0	1	0
 кричке	kricke	0	0	1	0
-свога	his	0	0	1	0
 свога	own	0	0	1	0
+свога	his	0	0	1	0
 зорана	zoran	0	0	1	0
 зорана	zorana	0	0	1	0
 фиренци	florence(town in italy)	0	0	1	0
@@ -5575,7 +5449,6 @@ nema	there aren't	0	0	1	0
 поделили	divided	0	0	1	0
 поделили	divaded	0	0	1	0
 новинара	journalists	0	0	1	0
-новинара	journalist	0	0	1	0
 атлантског	atlantic ocean	0	0	1	0
 атлантског	atlantic	0	0	1	0
 састав	composition	0	0	1	0
@@ -5653,7 +5526,6 @@ nema	there aren't	0	0	1	0
 познат	known as	0	0	1	0
 ентитета	entities	0	0	1	0
 ентитета	entity	0	0	1	0
-трупама	with troops	0	0	1	0
 трупама	troops	0	0	1	0
 азији	asia	0	0	1	0
 интересовање	interesting	0	0	1	0
@@ -5677,7 +5549,6 @@ nema	there aren't	0	0	1	0
 сматрајући	thinking	0	0	1	0
 сматрајући	considering	0	0	1	0
 делови	parts	0	0	1	0
-делови	pieces	0	0	1	0
 златним	golden	0	0	1	0
 златним	gold	0	0	1	0
 писаца	writers	0	0	1	0
@@ -5704,7 +5575,6 @@ xi	xi	0	0	1	0
 приповетке	stories	0	0	1	0
 колонија	colony	0	0	1	0
 вечери	evening	0	0	1	0
-вечери	night	0	0	1	0
 довољно	enough	0	0	1	0
 свака	every	0	0	1	0
 свака	each	0	0	1	0
@@ -5723,7 +5593,7 @@ xi	xi	0	0	1	0
 xv	xv	0	0	1	0
 целини	whole	0	0	1	0
 целини	general	0	0	1	0
-категоријаакадемици	categoryacademics	0	0	1	0
+стручњака	experts	0	0	1	0
 мачке	cats	0	0	1	0
 мачке	cat	0	0	1	0
 новац	money	0	0	1	0
@@ -5739,7 +5609,6 @@ xv	xv	0	0	1	0
 направе	devices	0	0	1	0
 направи	make	0	0	1	0
 формално	formally	0	0	1	0
-формално	formal	0	0	1	0
 хамсин	northernly	1	0	1	0
 хамсин	north	1	0	1	0
 хамсин	type of a wind	1	0	1	0
@@ -5814,9 +5683,8 @@ online	online	0	0	1	0
 голом	naked	0	0	1	0
 мембране	membrane	0	0	1	0
 мембране	membranes	0	0	1	0
-издања	publicated	0	0	1	0
 издања	publications	0	0	1	0
-издања	publication	0	0	1	0
+издања	publicated	0	0	1	0
 млади	young	0	0	1	0
 слику	picture	0	0	1	0
 слику	image	0	0	1	0
@@ -5832,7 +5700,6 @@ online	online	0	0	1	0
 протоколи	protocols	0	0	1	0
 очигледно	obviously	0	0	1	0
 активан	active	0	0	1	0
-највеће	bigest	0	0	1	0
 највеће	greatest	0	0	1	0
 највеће	largest	0	0	1	0
 децу	kids	0	0	1	0
@@ -5888,7 +5755,6 @@ nedostatak	leak	0	0	1	0
 себе	self	0	0	1	0
 но	however	0	0	1	0
 но	but	0	0	1	0
-но	so far	0	0	1	0
 ни	neither	0	0	1	0
 нк	fc	0	0	1	0
 нк	nk	0	0	1	0
@@ -5951,7 +5817,6 @@ danas	today	0	0	1	1
 његош	njegos	0	0	1	0
 завршетку	end	0	0	1	0
 завршетку	edn	0	0	1	0
-властела	landowners	0	0	1	0
 властела	nobility	0	0	1	0
 властеле	landowners	0	0	1	0
 властеле	gentry	0	0	1	0
@@ -5966,8 +5831,8 @@ danas	today	0	0	1	1
 босну	bosnia	0	0	1	0
 градског	city	0	0	1	0
 душановог	dusan	0	0	1	0
-душановог	dushans	0	0	1	0
 душановог	dushan	0	0	1	0
+душановог	dushans	0	0	1	0
 завршетка	completion	0	0	1	0
 завршетка	end	0	0	1	0
 завршетка	ending	0	0	1	0
@@ -6018,7 +5883,6 @@ autorskog	copirighted	0	0	1	0
 биотит	analysis	1	0	1	0
 биотит	biotit	1	1	0	0
 мексика	mexico	0	0	1	0
-моравској	moravian	0	0	1	0
 моравској	morava	0	0	1	0
 изражавања	expresions	0	0	1	0
 изражавања	expression	0	0	1	0
@@ -6127,17 +5991,13 @@ maplandia	maplandia	0	0	1	0
 почело	started	0	0	1	0
 почели	started	0	0	1	0
 казахстан	kazakhstan	0	0	1	0
-казахстан	kazahstan	0	0	1	0
 војну	military	0	0	1	0
 војну	war	0	0	1	0
-поседу	possession	0	0	1	0
-поседу	property	0	0	1	0
-изграђене	built	0	0	1	0
 изграђене	build	0	0	1	0
+изграђене	built	0	0	1	0
 гете	goethe	0	0	1	0
 насељености	population	0	0	1	0
 изграђена	built	0	0	1	0
-изграђена	build	0	0	1	0
 грегоријански	gregorian	0	0	1	0
 изграђено	bulit	0	0	1	0
 изграђено	built	0	0	1	0
@@ -6294,7 +6154,6 @@ los	los	0	0	1	0
 ганглион	nerveknot	1	0	1	0
 ганглион	ganglion	1	1	0	0
 отпочела	started	0	0	1	0
-отпочела	launches	0	0	1	0
 отпочела	start	0	0	1	0
 немцима	germans	0	0	1	0
 десне	right	0	0	1	0
@@ -6304,7 +6163,6 @@ los	los	0	0	1	0
 амерички	american	0	0	1	0
 издаје	released	0	0	1	0
 издаје	betrayal	0	0	1	0
-издаје	issues	0	0	1	0
 америчка	american	0	0	1	0
 америчке	american	0	0	1	0
 америчке	america	0	0	1	0
@@ -6341,11 +6199,8 @@ los	los	0	0	1	0
 мишић	misic	0	0	1	0
 мишић	muscle	0	0	1	0
 мишић	mishich	0	0	1	0
-ђинђића	Đinđić	0	0	1	0
-ђинђића	djindjic (last name)	0	0	1	0
 ђинђића	djindjic (surname)	0	0	1	0
 ђинђића	djindjica	0	0	1	0
-покушавају	try	0	0	1	0
 јачање	fortification	0	0	1	0
 јачање	strengthening	0	0	1	0
 састојала	comprising	0	0	1	0
@@ -6360,8 +6215,8 @@ los	los	0	0	1	0
 изабрани	chosen	0	0	1	0
 изабрани	selected	0	0	1	0
 пријатељ	friend	0	0	1	0
-напетости	tension	0	0	1	0
 напетости	tensions	0	0	1	0
+напетости	tension	0	0	1	0
 праксу	practice	0	0	1	0
 праксу	practics	0	0	1	0
 праксу	praxis	0	0	1	0
@@ -6409,7 +6264,6 @@ los	los	0	0	1	0
 богатства	wealth	0	0	1	0
 слуга	servant	0	0	1	0
 противнике	enemies	0	0	1	0
-противнике	opponents to	0	0	1	0
 противнике	opponents	0	0	1	0
 највећом	biggest	0	0	1	0
 највећом	the biggest	0	0	1	0
@@ -6433,7 +6287,6 @@ los	los	0	0	1	0
 потпуности	completeness	0	0	1	0
 индијски	indian	0	0	1	0
 прекида	break	0	0	1	0
-прекида	interruption	0	0	1	0
 важан	important	0	0	1	0
 британских	british	0	0	1	0
 југословени	yugoslavs	0	0	1	0
@@ -6463,7 +6316,6 @@ više	more	0	0	1	1
 лазар	lazar	0	0	1	0
 врши	performes	0	0	1	0
 врши	does	0	0	1	0
-попис	index	0	0	1	0
 попис	census	0	0	1	0
 попис	register	0	0	1	0
 првенство	championship	0	0	1	0
@@ -6490,7 +6342,6 @@ više	more	0	0	1	1
 марке	stamps	0	0	1	0
 марке	mark	0	0	1	0
 покривају	cover	0	0	1	0
-покривају	covering	0	0	1	0
 миле	mile	0	0	1	0
 мушког	male	0	0	1	0
 марка	marko	0	0	1	0
@@ -6527,13 +6378,10 @@ više	more	0	0	1	1
 оптужбе	accusation	0	0	1	0
 оптужбе	accusations	0	0	1	0
 мала	small	0	0	1	0
-мале	small	0	0	1	0
-мале	little	0	0	1	0
-мале	mala	0	0	1	0
+освојио	won	0	0	1	0
 мали	small	0	0	1	0
 мали	litlle	0	0	1	0
 туризма	tourism	0	0	1	0
-марку	marco	0	0	1	0
 марку	marko	0	0	1	0
 марку	mark	0	0	1	0
 радовановић	radovanovic	0	0	1	0
@@ -6578,7 +6426,6 @@ više	more	0	0	1	1
 средњим	midle	0	0	1	0
 средњим	medium	0	0	1	0
 меке	mecca	0	0	1	0
-осваја	wins	0	0	1	0
 осваја	conquer	0	0	1	0
 таквог	such	0	0	1	0
 таквог	that	0	0	1	0
@@ -6787,7 +6634,6 @@ osnovu	basic	0	0	1	0
 владају	ruling	0	0	1	0
 владају	rule	0	0	1	0
 вироид	viroid	1	1	0	0
-појачање	gaining	0	0	1	0
 појачање	maximising	0	0	1	0
 појачање	gain	0	0	1	0
 стигне	arrive	0	0	1	0
@@ -6814,7 +6660,6 @@ osnovu	basic	0	0	1	0
 мада	but	0	0	1	0
 мада	though	0	0	1	0
 потпредседника	vice president	0	0	1	0
-кутијица	litle box	0	0	1	0
 кутијица	small box	0	0	1	0
 атентат	assassination	0	0	1	0
 атентат	assassination attempt	0	0	1	0
@@ -6824,7 +6669,6 @@ osnovu	basic	0	0	1	0
 стараимена	old names	0	0	1	0
 макс	max	0	0	1	0
 затвор	prison	0	0	1	0
-хенри	henri	0	0	1	0
 хенри	henry	0	0	1	0
 узео	took	0	0	1	0
 put	way	0	0	1	1
@@ -6864,9 +6708,7 @@ put	time	0	0	1	1
 заједничке	common	0	0	1	0
 притисак	pressure	0	0	1	0
 притисак	presure	0	0	1	0
-знао	knew	0	0	1	0
 знао	know	0	0	1	0
-знак	mark	0	0	1	0
 знак	sign	0	0	1	0
 брзина	speed	0	0	1	0
 истакнутог	prominent	0	0	1	0
@@ -6876,7 +6718,6 @@ put	time	0	0	1	1
 сељака	villagers	0	0	1	0
 сељака	peasants	0	0	1	0
 пролеће	spring	0	0	1	0
-стручњака	experts	0	0	1	0
 сексуалне	sexual	0	0	1	0
 лепо	nicely	0	0	1	0
 лепо	beautiful	0	0	1	0
@@ -6921,7 +6762,6 @@ put	time	0	0	1	1
 виђење	seeing	0	0	1	0
 виђење	vision	0	0	1	0
 пословима	works	0	0	1	0
-пословима	jobs	0	0	1	0
 пословима	business	0	0	1	0
 потока	rivulets	0	0	1	0
 потока	streams	0	0	1	0
@@ -6951,7 +6791,6 @@ put	time	0	0	1	1
 термин	term	0	0	1	0
 lik	character	0	0	1	1
 композиције	composition	0	0	1	0
-композиције	compositions	0	0	1	0
 оног	one	0	0	1	0
 оног	him	0	0	1	0
 оног	that	0	0	1	0
@@ -7055,7 +6894,6 @@ ljubav	love	0	0	1	1
 годишње	annualy	0	0	1	0
 годишње	year	0	0	1	0
 годишња	annual	0	0	1	0
-годишња	per year	0	0	1	0
 партизанске	partisan	0	0	1	0
 партизанске	partisans	0	0	1	0
 подигнут	raised	0	0	1	0
@@ -7082,7 +6920,6 @@ x	x	0	0	1	0
 метохија	metohija	0	0	1	0
 поново	over again	0	0	1	0
 поново	again	0	0	1	0
-значајну	important	0	0	1	0
 значајну	significant	0	0	1	0
 |гшир=	g width	0	0	1	0
 |гшир=	gsir	0	0	1	0
@@ -7121,7 +6958,6 @@ podataka	data	0	0	1	0
 међувремену	interim	0	0	1	0
 међувремену	meanwhile	0	0	1	0
 покреће	initiates	0	0	1	0
-покреће	moves	0	0	1	0
 покреће	start	0	0	1	0
 даугавпилс	daugavpils (city in latvia)	1	0	1	0
 даугавпилс	channal	1	0	1	0
@@ -7199,7 +7035,6 @@ podataka	data	0	0	1	0
 ушћу	estuary	0	0	1	0
 радичевић	radicevic	0	0	1	0
 радичевић	radichevich	0	0	1	0
-радичевић	radicevik	0	0	1	0
 цигани	gypsy	0	0	1	0
 цигани	gippo	0	0	1	0
 цигани	gypsies	0	0	1	0
@@ -7218,9 +7053,8 @@ podataka	data	0	0	1	0
 новцу	money	0	0	1	0
 прошло	past	0	0	1	0
 прошло	passed	0	0	1	0
-прелазе	crossing	0	0	1	0
-прелазе	cross	0	0	1	0
-прелазе	pass	0	0	1	0
+политичка	politics	0	0	1	0
+политичка	political	0	0	1	0
 повратку	return	0	0	1	0
 гроба	sepulchre	0	0	1	0
 гроба	grave	0	0	1	0
@@ -7229,7 +7063,6 @@ podataka	data	0	0	1	0
 обезбеди	secure	0	0	1	0
 пеницилини	penicillin	0	0	1	0
 пеницилини	penicillins	0	0	1	0
-заступљени	represented	0	0	1	0
 заступљени	there are represented	0	0	1	0
 заступљени	present	0	0	1	0
 бројем	number of	0	0	1	0
@@ -7322,20 +7155,17 @@ podataka	data	0	0	1	0
 мајстори	craftsmen	0	0	1	0
 државном	state	0	0	1	0
 $	dollar	0	0	1	0
-статус	status	0	0	1	0
-статус	satus	0	0	1	0
 шиљак	shijac	0	0	1	0
 шиљак	hand axe	0	0	1	0
 шиљак	spike	0	0	1	0
 пољопривреда	agriculture	0	0	1	0
-први	first	0	0	1	0
+аустријски	austrian	0	0	1	0
 дневне	daily	0	0	1	0
 прво	firstly	0	0	1	0
 прво	first	0	0	1	0
 пољопривреди	agriculture	0	0	1	0
 тачку	spot	0	0	1	0
 тачку	point	0	0	1	0
-предвиђена	provided	0	0	1	0
 предвиђена	predicted	0	0	1	0
 предвиђена	envisaged	0	0	1	0
 прва	first	0	0	1	0
@@ -7359,8 +7189,6 @@ $	dollar	0	0	1	0
 празници	holydays	0	0	1	0
 прву	first	0	0	1	0
 сцене	scene	0	0	1	0
-сцене	scenes	0	0	1	0
-тачка	full stop	0	0	1	0
 тачка	spot	0	0	1	0
 тачка	point	0	0	1	0
 сцена	scenes	0	0	1	0
@@ -7393,7 +7221,6 @@ signal	signal	0	0	1	1
 народима	nations	0	0	1	0
 низа	series	0	0	1	0
 државној	state	0	0	1	0
-државној	national	0	0	1	0
 гласа	vote	0	0	1	0
 гласа	voice	0	0	1	0
 схватања	understandings	0	0	1	0
@@ -7519,7 +7346,7 @@ neki	some	0	0	1	1
 сахрани	funeral	0	0	1	0
 скј	league of communists of yugoslavia	0	0	1	0
 zbog	because	0	0	1	1
-zbog	because of	0	0	1	1
+zbog	because of	0	0	1	0
 покушава	tries	0	0	1	0
 покушава	trying	0	0	1	0
 газа	plot	1	0	1	0
@@ -7573,6 +7400,7 @@ utc	utc	0	0	1	0
 мухамед	muhamed	0	0	1	0
 мухамед	muhammad	0	0	1	0
 мухамед	mohamed	0	0	1	0
+мадона	madonna	0	0	1	0
 ензима	enzymes	0	0	1	0
 ензима	enzyme	0	0	1	0
 борили	fought	0	0	1	0
@@ -7589,7 +7417,6 @@ svi	every	0	0	1	0
 dve	two	0	0	1	0
 dvd	dvd	0	0	1	0
 sve	all	0	0	1	1
-sve	up to	0	0	1	0
 sve	until	0	0	1	0
 dva	two	0	0	1	1
 горњи	upper	0	0	1	0
@@ -7612,7 +7439,6 @@ dva	two	0	0	1	1
 гаструлација	gesticulation	1	0	1	0
 гаструлација	gastrulation	1	1	0	0
 глумице	actres	0	0	1	0
-глумице	of the actress	0	0	1	0
 глумице	actress	0	0	1	0
 горње	high	0	0	1	0
 горње	top	0	0	1	0
@@ -7672,8 +7498,7 @@ ga	him	0	0	1	0
 карлос	carlos	0	0	1	0
 великих	large	0	0	1	0
 великих	great	0	0	1	0
-занимљиво	interesting	0	0	1	0
-занимљиво	interestingly	0	0	1	0
+материце	uterus	0	0	1	0
 краљевства	kingdom	0	0	1	0
 краљевства	kingdoms	0	0	1	0
 транспорт	transport	0	0	1	0
@@ -7709,7 +7534,6 @@ za	for	0	0	1	1
 koristi	use	0	0	1	0
 koristi	used	0	0	1	0
 одвојене	separated	0	0	1	0
-одвојене	separate	0	0	1	0
 карактеристичан	characteristical	0	0	1	0
 карактеристичан	characteristic	0	0	1	0
 ратови	wars	0	0	1	0
@@ -7755,7 +7579,6 @@ njihova	their	0	0	1	0
 модерних	modern	0	0	1	0
 антике	antique	0	0	1	0
 антике	antik	0	0	1	0
-антике	antiquity	0	0	1	0
 лука	luka	0	0	1	0
 лука	port	0	0	1	0
 настанку	origin	0	0	1	0
@@ -7808,7 +7631,6 @@ vreme	time	0	0	1	1
 кћерку	daughter	0	0	1	0
 svaki	every	0	0	1	1
 нашла	found	0	0	1	0
-нашла	find	0	0	1	0
 море	sea	0	0	1	0
 спорова	disputes	0	0	1	0
 спорова	dispute	0	0	1	0
@@ -7869,7 +7691,6 @@ spoljašnje	external	0	0	1	0
 наредне	next	0	0	1	0
 учинити	did	0	0	1	0
 учинити	make	0	0	1	0
-дечанског	decani	0	0	1	0
 дечанског	decanski	0	0	1	0
 дечанског	dechanskoge	0	0	1	0
 ветра	wind	0	0	1	0
@@ -7891,7 +7712,6 @@ zagreb	zagreb	0	0	1	0
 постави	appoint	0	0	1	0
 постави	place	0	0	1	0
 university	university	0	0	1	0
-открије	detected	0	0	1	0
 открије	discover	0	0	1	0
 открије	discovers	0	0	1	0
 спц	soc (serbian orthodox church)	0	0	1	0
@@ -7910,11 +7730,9 @@ university	university	0	0	1	0
 поштовање	respect	0	0	1	0
 десној	the right	0	0	1	0
 десној	right	0	0	1	0
-dobija	obtained	0	0	1	0
 dobija	derived	0	0	1	0
 dobija	get	0	0	1	0
 проблем	problem	0	0	1	0
-зонаопштина	towh shop zone	0	0	1	0
 зонаопштина	zone	0	0	1	0
 зонаопштина	zone municipality	0	0	1	0
 поступак	action	0	0	1	0
@@ -7925,7 +7743,6 @@ dobija	get	0	0	1	0
 југоисточној	south eastern	0	0	1	0
 протиче	flows	0	0	1	0
 целу	whole	0	0	1	0
-највишег	the highest	0	0	1	0
 највишег	highest	0	0	1	0
 музеју	museum	0	0	1	0
 драган	dragan	0	0	1	0
@@ -7952,8 +7769,8 @@ dobija	get	0	0	1	0
 целе	entire	0	0	1	0
 целе	all	0	0	1	0
 целе	whole	0	0	1	0
-арапска	arab	0	0	1	0
-арапска	arabic	0	0	1	0
+сачињавали	cosisted	0	0	1	0
+сачињавали	consisted of	0	0	1	0
 цела	the whole	0	0	1	0
 цела	whole	0	0	1	0
 процес	process	0	0	1	0
@@ -7966,6 +7783,8 @@ dobija	get	0	0	1	0
 карађорђевић	karadordevic	0	0	1	0
 десном	right	0	0	1	0
 светлана	svetlana	0	0	1	0
+говору	speach	0	0	1	0
+говору	speech	0	0	1	0
 следећу	following	0	0	1	0
 следећу	next	0	0	1	0
 али	but	0	0	1	0
@@ -7975,8 +7794,8 @@ dobija	get	0	0	1	0
 одиграла	has taken place	0	0	1	0
 одиграла	was played	0	0	1	0
 деценијама	decades	0	0	1	0
-сергеј	sergey	0	0	1	0
 сергеј	sergei	0	0	1	0
+сергеј	sergey	0	0	1	0
 наиме	namely	0	0	1	0
 тачака	points	0	0	1	0
 тачака	spots	0	0	1	0
@@ -7985,8 +7804,9 @@ dobija	get	0	0	1	0
 историјског	history	0	0	1	0
 поражен	beaten	0	0	1	0
 поражен	defeated	0	0	1	0
-малој	small	0	0	1	0
-малој	little	0	0	1	0
+наводе	quote	0	0	1	0
+наводе	allegations	0	0	1	0
+наводе	allegation's	0	0	1	0
 командант	commander	0	0	1	0
 блогови	blogs	0	0	1	0
 достиже	reach	0	0	1	0
@@ -8017,10 +7837,8 @@ dobija	get	0	0	1	0
 зуби	teeth	1	1	0	0
 протеже	spreads	0	0	1	0
 протеже	extends	0	0	1	0
-протеже	extend	0	0	1	0
 војнике	soldier	0	0	1	0
 војнике	soldiers	0	0	1	0
-надморскависина	altitude	0	0	1	0
 надморскависина	elevation	0	0	1	0
 писано	written	0	0	1	0
 писано	is written	0	0	1	0
@@ -8056,8 +7874,8 @@ bez	without	0	0	1	1
 кућа	house	0	0	1	0
 куће	houses	0	0	1	0
 куће	home	0	0	1	0
-кући	home	0	0	1	0
 кући	house	0	0	1	0
+кући	home	0	0	1	0
 следбеници	followers	0	0	1	0
 животног	living	0	0	1	0
 животног	life	0	0	1	0
@@ -8080,8 +7898,8 @@ bez	without	0	0	1	1
 такође	also	0	0	1	0
 интереса	interests	0	0	1	0
 интереса	interest	0	0	1	0
-влашћу	rule	0	0	1	0
 влашћу	authority	0	0	1	0
+влашћу	rule	0	0	1	0
 помоћник	assistant	0	0	1	0
 помоћник	aide	0	0	1	0
 царем	the csar	0	0	1	0
@@ -8102,7 +7920,6 @@ bez	without	0	0	1	1
 значајан	important	0	0	1	0
 значајан	significant	0	0	1	0
 мигсмт	mig-smt	0	0	1	0
-мигсмт	mig smt	0	0	1	0
 истраживањима	researches	0	0	1	0
 истраживањима	research	0	0	1	0
 одбрану	defense	0	0	1	0
@@ -8150,8 +7967,8 @@ bez	without	0	0	1	1
 дала	gave	0	0	1	0
 вере	religion	0	0	1	0
 вере	faith	0	0	1	0
-вера	religion	0	0	1	0
 вера	faith	0	0	1	0
+вера	religion	0	0	1	0
 аутономије	autonomy	0	0	1	0
 одбрани	defence	0	0	1	0
 свештеник	priest	0	0	1	0
@@ -8166,7 +7983,6 @@ bez	without	0	0	1	1
 побуну	rebellion	0	0	1	0
 октобар	october	0	0	1	0
 раскољников	raskolnikov	0	0	1	0
-раскољников	raskoljnikov	0	0	1	0
 садржаја	content	0	0	1	0
 летњим	summer	0	0	1	0
 пук	regiment	0	0	1	0
@@ -8241,15 +8057,15 @@ bez	without	0	0	1	1
 укључени	included	0	0	1	0
 укључени	involved	0	0	1	0
 јужно	south	0	0	1	0
-данас	nowadays	0	0	1	0
-данас	today	0	0	1	0
+вароши	province	0	0	1	0
+вароши	place	0	0	1	0
 гробу	grave	0	0	1	0
 јужне	southern	0	0	1	0
 јужне	south	0	0	1	0
 сестре	sisters	0	0	1	0
 сестре	sister	0	0	1	0
-боју	color	0	0	1	0
 боју	battle	0	0	1	0
+боју	color	0	0	1	0
 законоправило	rule	0	0	1	0
 законоправило	nomocanon	0	0	1	0
 јужна	south	0	0	1	0
@@ -8290,9 +8106,8 @@ bez	without	0	0	1	1
 боје	color	0	0	1	0
 боје	colours	0	0	1	0
 боје	colour	0	0	1	0
-јужну	southern	0	0	1	0
-јужну	south	0	0	1	0
-митрополије	metropolitans	0	0	1	0
+данак	tribute	0	0	1	0
+данак	tax	0	0	1	0
 митрополије	metropolis	0	0	1	0
 митрополије	archbishopric	0	0	1	0
 изазвао	caused	0	0	1	0
@@ -8348,7 +8163,6 @@ i	i	0	0	1	0
 састанак	meeting	0	0	1	0
 црвеном	red	0	0	1	0
 метроа	subway	0	0	1	0
-метроа	metro	0	0	1	0
 локалним	local	0	0	1	0
 калибра	caliber	0	0	1	0
 калибра	calibre	0	0	1	0
@@ -8372,8 +8186,8 @@ vidi	sees	0	0	1	0
 vidi	look	0	0	1	0
 империја	empire	0	0	1	0
 даје	gives	0	0	1	0
-области	areas	0	0	1	0
 области	area	0	0	1	0
+области	areas	0	0	1	0
 зете	zeta	0	0	1	0
 зете	Зета	0	0	1	0
 стојана	stoyan	0	0	1	0
@@ -8389,7 +8203,6 @@ vidi	look	0	0	1	0
 сопствени	own	0	0	1	0
 турском	turkish	0	0	1	0
 турског	turkish	0	0	1	0
-сопствене	personal	0	0	1	0
 сопствене	own	0	0	1	0
 поражена	defeated	0	0	1	0
 кинематографија	cinematography	0	0	1	0
@@ -8514,7 +8327,6 @@ mišića	muscle	0	0	1	0
 супротно	opposite	0	0	1	0
 нимало	not at all	0	0	1	0
 нимало	not a bit	0	0	1	0
-деспота	despots	0	0	1	0
 деспота	despot	0	0	1	0
 илиџа	ilidza	0	0	1	0
 илиџа	ilidja	0	0	1	0
@@ -8535,9 +8347,7 @@ bolest	disease	0	0	1	1
 донесе	adopt	0	0	1	0
 мања	smaller	0	0	1	0
 мања	less	0	0	1	0
-повлачење	withdrawing	0	0	1	0
 повлачење	retreat	0	0	1	0
-повлачење	withdrawal	0	0	1	0
 заједничког	joint	0	0	1	0
 заједничког	united	0	0	1	0
 заједничког	common	0	0	1	0
@@ -8550,7 +8360,7 @@ bolest	disease	0	0	1	1
 царева	tsar	0	0	1	0
 царева	caesars	0	0	1	0
 царева	emperors	0	0	1	0
-развијена	developed	0	0	1	0
+олимпијским	olympic	0	0	1	0
 земље	earth	0	0	1	0
 земље	countries	0	0	1	0
 земље	country	0	0	1	0
@@ -8561,7 +8371,6 @@ bolest	disease	0	0	1	1
 топла	warm	0	0	1	0
 његова	his	0	0	1	0
 ђ	đ	0	0	1	0
-hn	hn	0	0	1	0
 проф	professor	0	0	1	0
 проф	prof.	0	0	1	0
 падинама	slope	0	0	1	0
@@ -8614,7 +8423,6 @@ hn	hn	0	0	1	0
 празника	holiday	0	0	1	0
 празника	holidays	0	0	1	0
 генерације	generation	0	0	1	0
-генерације	generations	0	0	1	0
 окрузи	districts	0	0	1	0
 окрузи	regions	0	0	1	0
 доласка	arrival	0	0	1	0
@@ -8671,7 +8479,6 @@ nego	but	0	0	1	1
 живели	live	0	0	1	0
 живели	lived	0	0	1	0
 живела	lived	0	0	1	0
-саобраћајница	roads	0	0	1	0
 саобраћајница	traffic artery	0	0	1	0
 саобраћајница	transport	0	0	1	0
 административно	administrative	0	0	1	0
@@ -8861,7 +8668,6 @@ promene	changes	0	0	1	0
 познати	known	0	0	1	0
 истока	east	0	0	1	0
 природним	natural	0	0	1	0
-познато	known	0	0	1	0
 познато	familiar	0	0	1	0
 познато	it is known	0	0	1	0
 позвао	invited	0	0	1	0
@@ -8873,7 +8679,6 @@ promene	changes	0	0	1	0
 нормално	normally	0	0	1	0
 нормално	normal	0	0	1	0
 значајнијих	important	0	0	1	0
-значајнијих	importants	0	0	1	0
 ликер	diseases	1	0	1	0
 ликер	liqueur	1	1	0	0
 ликер	licer	1	0	1	0
@@ -8909,7 +8714,6 @@ promene	changes	0	0	1	0
 штаба	headquarters	0	0	1	0
 штаба	staff	0	0	1	0
 категоријадобитници	category: winners	0	0	1	0
-књижевног	literary	0	0	1	0
 парк	park	0	0	1	0
 ovu	this	0	0	1	0
 подручјима	areas	0	0	1	0
@@ -8943,8 +8747,7 @@ ovo	this	0	0	1	1
 јеврејска	hebrew	0	0	1	0
 густав	gustav	0	0	1	0
 јеврејске	jewish	0	0	1	0
-dece	kids	0	0	1	0
-dece	children	0	0	1	0
+милутиновић	milutinovic	0	0	1	0
 јеврејски	jewish	0	0	1	0
 најстарије	oldest	0	0	1	0
 петроварадинска	petrovaradin	0	0	1	0
@@ -8979,7 +8782,6 @@ veze	links	0	0	1	0
 ona	she	0	0	1	1
 ona	hop	0	0	1	0
 ona	it	0	0	1	1
-остатка	residues	0	0	1	0
 остатка	the rest	0	0	1	0
 остатка	rest of	0	0	1	0
 остатка	rest	0	0	1	0
@@ -9013,8 +8815,8 @@ ona	it	0	0	1	1
 платан	plane tree	1	1	0	0
 платан	executor; performer	1	0	1	0
 платан	platantree	1	1	0	0
-oblik	shape	0	0	1	1
-oblik	form	0	0	1	1
+отишао	gone	0	0	1	0
+отишао	went	0	0	1	0
 истоимене	eponymous	0	0	1	0
 истоимене	the same named	0	0	1	0
 истоимене	homonymous	0	0	1	0
@@ -9081,9 +8883,9 @@ beograd	belgrade	0	0	1	0
 испод	below	0	0	1	0
 испод	under	0	0	1	0
 постојеће	existing	0	0	1	0
-успоставе	establish	0	0	1	0
-успоставе	creation	0	0	1	0
 успоставе	establishment	0	0	1	0
+успоставе	creation	0	0	1	0
+успоставе	establish	0	0	1	0
 карловци	karlovac	0	0	1	0
 карловци	carlovians	0	0	1	0
 карловци	karlovci	0	0	1	0
@@ -9124,7 +8926,6 @@ beograd	belgrade	0	0	1	0
 распореда	schedule	0	0	1	0
 ћира	cira	0	0	1	0
 оснивач	founder	0	0	1	0
-ју	jə	0	0	1	0
 ју	her	0	0	1	0
 марковића	markovic	0	0	1	0
 могућностима	possibilities	0	0	1	0
@@ -9212,8 +9013,8 @@ m	m	0	0	1	0
 унапред	in advance	0	0	1	0
 унапред	forwards	0	0	1	0
 увођењем	introduction	0	0	1	0
-степену	degree	0	0	1	0
 степену	rank	0	0	1	0
+степену	degree	0	0	1	0
 ирана	iran	0	0	1	0
 децембру	december	0	0	1	0
 род	genre	0	0	1	0
@@ -9245,8 +9046,8 @@ regnum	latin word for kingdome	0	0	1	0
 чинило	seemed	0	0	1	0
 чинили	did	0	0	1	0
 чинили	accounted for	0	0	1	0
-кругова	circles	0	0	1	0
-кругова	circle	0	0	1	0
+лаки	light	0	0	1	0
+лаки	easy	0	0	1	0
 чиниле	do	0	0	1	0
 чиниле	seemed	0	0	1	0
 чинила	made	0	0	1	0
@@ -9257,8 +9058,8 @@ regnum	latin word for kingdome	0	0	1	0
 рељефа	relief	0	0	1	0
 рељефа	landscape	0	0	1	0
 правима	rights	0	0	1	0
-бившег	former	0	0	1	0
 бившег	ex	0	0	1	0
+бившег	former	0	0	1	0
 ирану	iran	0	0	1	0
 инцидент	incident	0	0	1	0
 бива	becomes	0	0	1	0
@@ -9294,7 +9095,6 @@ reference	reference	0	0	1	0
 развитка	development	0	0	1	0
 етиопија	ethiopia	0	0	1	0
 одвија	happens	0	0	1	0
-одвија	takes place	0	0	1	0
 одвија	place	0	0	1	0
 почеци	starts	0	0	1	0
 почеци	beginnings	0	0	1	0
@@ -9327,7 +9127,6 @@ pojava	phenomenon	0	0	1	1
 формиране	formed	0	0	1	0
 кричака	kricak	0	0	1	0
 кричака	crichaka	0	0	1	0
-изашао	came out	0	0	1	0
 изашао	step out	0	0	1	0
 изашао	out	0	0	1	0
 медицинска	medical	0	0	1	0
@@ -9335,9 +9134,8 @@ pojava	phenomenon	0	0	1	1
 prenos	transmittal	0	0	1	0
 prenos	transmission	0	0	1	0
 prenos	transfer	0	0	1	1
-целокупно	gross	0	0	1	0
-целокупно	overall	0	0	1	0
 целокупно	whole	0	0	1	0
+целокупно	overall	0	0	1	0
 медицински	medical	0	0	1	0
 телевизију	tv	0	0	1	0
 телевизију	television	0	0	1	0
@@ -9366,9 +9164,7 @@ prenos	transfer	0	0	1	1
 алекса	name	0	0	1	0
 издвајају	stand out stand out stand out	0	0	1	0
 издвајају	stand	0	0	1	0
-издвајају	stand out	0	0	1	0
-извођач	performer	0	0	1	0
-извођач	contractor	0	0	1	0
+први	first	0	0	1	0
 puta	way	0	0	1	0
 свакодневно	everyday	0	0	1	0
 свакодневно	daily	0	0	1	0
@@ -9467,13 +9263,11 @@ if	if	0	0	1	0
 цеца	ceca	0	0	1	0
 цеца	nickname	0	0	1	0
 увек	always	0	0	1	0
-увек	still	0	0	1	0
 кантона	canton	0	0	1	0
 кантона	district	0	0	1	0
 кантона	cantons	0	0	1	0
 украјински	ukraine	0	0	1	0
 украјински	ukranian	0	0	1	0
-украјински	ukrainian	0	0	1	0
 увео	introduced	0	0	1	0
 увео	brought in	0	0	1	0
 имовину	property	0	0	1	0
@@ -9506,8 +9300,7 @@ sastoji	consist	0	0	1	0
 изражава	expresses	0	0	1	0
 илијаде	iliad	0	0	1	0
 литваније	lithuania	0	0	1	0
-ниским	lower	0	0	1	0
-ниским	low	0	0	1	0
+српску	serbian	0	0	1	0
 литванија	litvani	0	0	1	0
 литванија	lithuania	0	0	1	0
 литванија	litvania	0	0	1	0
@@ -9591,8 +9384,6 @@ prva	first	0	0	1	0
 сну	sleep	0	0	1	0
 зајечару	zajecar	0	0	1	0
 градња	construction	0	0	1	0
-године	year	0	0	1	0
-године	years	0	0	1	0
 градње	building	0	0	1	0
 градње	construction	0	0	1	0
 пакао	hell	0	0	1	0
@@ -9603,6 +9394,8 @@ prva	first	0	0	1	0
 ожењен	married	0	0	1	0
 називамо	call	0	0	1	0
 називамо	called	0	0	1	0
+стални	steady	0	0	1	0
+стални	constant	0	0	1	0
 број=	noumber	0	0	1	0
 број=	number=	0	0	1	0
 запад	west	0	0	1	0
@@ -9635,7 +9428,6 @@ prva	first	0	0	1	0
 бактерије	bacteria	0	0	1	0
 бактерија	bactery	0	0	1	0
 бактерија	bacteria	0	0	1	0
-ниједна	none	0	0	1	0
 ниједна	no one	0	0	1	0
 ниједна	no	0	0	1	0
 баве	deal	0	0	1	0
@@ -9647,7 +9439,6 @@ prva	first	0	0	1	0
 бави	deals with	0	0	1	0
 бави	deals (with)	0	0	1	0
 служио	served	0	0	1	0
-ане	ane	0	0	1	0
 ане	ana	0	0	1	0
 ане	anna	0	0	1	0
 болести	illness	0	0	1	0
@@ -9675,7 +9466,6 @@ preko	across	0	0	1	1
 методија	greek origin	0	0	1	0
 методија	metodije	0	0	1	0
 методије	metodije (common name for monks)	0	0	1	0
-методије	methodius	0	0	1	0
 методије	metodije	0	0	1	0
 жестоке	fierce	0	0	1	0
 жестоке	hard	0	0	1	0
@@ -9822,7 +9612,6 @@ primer	example	0	0	1	1
 километара	kilometres	0	0	1	0
 километара	kilometers	0	0	1	0
 гр	gr. (greek)	0	0	1	0
-гр	gr	0	0	1	0
 светским	world	0	0	1	0
 либији	lebanon	0	0	1	0
 либији	libya	0	0	1	0
@@ -9886,8 +9675,7 @@ international	international	0	0	1	0
 стања	conditions	0	0	1	0
 стања	condition	0	0	1	0
 га	him	0	0	1	0
-гд	y	0	0	1	0
-гд	gd	0	0	1	0
+покушавају	try	0	0	1	0
 делфи	delphi (archeological place)	1	1	0	0
 делфи	delphi	1	1	0	0
 делфи	transportation	1	0	1	0
@@ -9954,7 +9742,6 @@ mreže	network	0	0	1	0
 mreža	net	0	0	1	1
 mreža	network	0	0	1	1
 привредно	buisness	0	0	1	0
-привредно	economic	0	0	1	0
 привредно	business	0	0	1	0
 сектора	sector	0	0	1	0
 привредна	economic	0	0	1	0
@@ -10005,7 +9792,6 @@ mreža	network	0	0	1	1
 одговор	response	0	0	1	0
 туристички	travel	0	0	1	0
 туристички	turist	0	0	1	0
-туристички	tourist	0	0	1	0
 раст	growth	0	0	1	0
 доживела	experieced	0	0	1	0
 доживела	experienced	0	0	1	0
@@ -10106,7 +9892,6 @@ q	q	0	0	1	0
 црквеним	church	0	0	1	0
 управља	runs	0	0	1	0
 управља	manage	0	0	1	0
-управља	managed	0	0	1	0
 константно	constant	0	0	1	0
 ренијум	renium	1	0	1	0
 ренијум	black sea	1	0	1	0
@@ -10160,7 +9945,6 @@ q	q	0	0	1	0
 јвуо	yaif (yugoslavian army in fatherland)	0	0	1	0
 градовима	cities	0	0	1	0
 опера	opera	0	0	1	0
-грубо	crude	0	0	1	0
 грубо	roughly	0	0	1	0
 венеције	venice	0	0	1	0
 венеција	venice	0	0	1	0
@@ -10192,8 +9976,8 @@ q	q	0	0	1	0
 теодор	todor	0	0	1	0
 миловановић	milovanovic	0	0	1	0
 наследио	inherited	0	0	1	0
-потврђују	validate	0	0	1	0
 потврђују	confirming	0	0	1	0
+потврђују	validate	0	0	1	0
 потврђују	confirm	0	0	1	0
 откривање	detection	0	0	1	0
 откривање	founding	0	0	1	0
@@ -10258,7 +10042,6 @@ može	can	0	0	1	0
 појави	appears	0	0	1	0
 станице	station	0	0	1	0
 станице	page	0	0	1	0
-станице	stations	0	0	1	0
 иили	and/or	0	0	1	0
 иили	or	0	0	1	0
 јело	dish	0	0	1	0
@@ -10267,7 +10050,6 @@ može	can	0	0	1	0
 представљала	represented	0	0	1	0
 представљала	represent	0	0	1	0
 венац	galrand	0	0	1	0
-венац	wreath	0	0	1	0
 венац	garland	0	0	1	0
 своја	own	0	0	1	0
 своја	his	0	0	1	0
@@ -10300,7 +10082,6 @@ može	can	0	0	1	0
 јединице	unit	0	0	1	0
 право	real	0	0	1	0
 право	right	0	0	1	0
-мрежа	net	0	0	1	0
 мрежа	network	0	0	1	0
 мреже	net	0	0	1	0
 мреже	network	0	0	1	0
@@ -10328,6 +10109,8 @@ nikola	nikola	0	0	1	0
 студеница	studenica	0	0	1	0
 ордена	medal	0	0	1	0
 затим	then	0	0	1	0
+данашњих	today's	0	0	1	0
+данашњих	today	0	0	1	0
 мрежу	net	0	0	1	0
 мрежу	network	0	0	1	0
 војском	army	0	0	1	0
@@ -10352,7 +10135,7 @@ nikola	nikola	0	0	1	0
 википедија	wikipedia	0	0	1	0
 херој	hero	0	0	1	0
 prema	to	0	0	1	1
-prema	according to	0	0	1	1
+prema	according to	0	0	1	0
 prema	after	0	0	1	0
 вршио	made	0	0	1	0
 вршио	performed	0	0	1	0
@@ -10384,7 +10167,6 @@ prema	after	0	0	1	0
 заустави	stop	0	0	1	0
 одражава	held	0	0	1	0
 одражава	maintain	0	0	1	0
-одражава	reflects	0	0	1	0
 дефинише	defined	0	0	1	0
 дефинише	define	0	0	1	0
 држављанство	citizenship	0	0	1	0
@@ -10420,7 +10202,6 @@ prema	after	0	0	1	0
 radi	works	0	0	1	0
 деведесетих	nineties	0	0	1	0
 приликама	conditions	0	0	1	0
-приликама	opportunites	0	0	1	0
 приликама	circumstances	0	0	1	0
 подељене	divided	0	0	1	0
 подељена	divided	0	0	1	0
@@ -10466,7 +10247,6 @@ je	is	0	0	1	0
 партизан	partisan	0	0	1	0
 партизан	partizan	0	0	1	0
 лични	personal	0	0	1	0
-фудбалер	football player	0	0	1	0
 фудбалер	footballer	0	0	1	0
 личне	personal	0	0	1	0
 лична	personal	0	0	1	0
@@ -10494,7 +10274,6 @@ je	is	0	0	1	0
 ja	i	0	0	1	1
 сабору	parliament	0	0	1	0
 сабору	congress	0	0	1	0
-naruta	naruta (name)	0	0	1	0
 naruta	narut	0	0	1	0
 naruta	naruta	0	0	1	0
 naruto	naruto	0	0	1	0
@@ -10532,7 +10311,8 @@ naruto	naruto	0	0	1	0
 малта	malta	0	0	1	0
 седамдесетих	the seventies	0	0	1	0
 седамдесетих	seventies	0	0	1	0
-дистрикт	district	0	0	1	0
+малте	maltha	0	0	1	0
+малте	malta	0	0	1	0
 малти	maltha	0	0	1	0
 малти	malta	0	0	1	0
 навијачи	fans	0	0	1	0
@@ -10540,17 +10320,15 @@ naruto	naruto	0	0	1	0
 великом	great	0	0	1	0
 проглашење	proclamation	0	0	1	0
 проглашење	announcementing	0	0	1	0
-проглашење	declaration	0	0	1	0
 јелене	deers	0	0	1	0
 јелене	jelena	0	0	1	0
-скраћено	abbreviated	0	0	1	0
-скраћено	short	0	0	1	0
+рада	work	0	0	1	0
 август	august	0	0	1	0
 раде	work	0	0	1	0
 великог	great	0	0	1	0
 великог	the great	0	0	1	0
-пилот	sex	0	0	1	0
 пилот	pilot	0	0	1	0
+пилот	sex	0	0	1	0
 samo	only	0	0	1	1
 трајао	lasted	0	0	1	0
 трајао	lasts	0	0	1	0
@@ -10564,7 +10342,6 @@ samo	only	0	0	1	1
 компромис	compromise	1	1	0	0
 међу	between	0	0	1	0
 ознака	designation	0	0	1	0
-ознака	mark	0	0	1	0
 офанзиву	offensive	0	0	1	0
 писању	writing	0	0	1	0
 колонисти	colonists	0	0	1	0
@@ -10736,7 +10513,6 @@ jako	strong	0	0	1	1
 разлике	differences	0	0	1	0
 сунчев	sun	0	0	1	0
 сунчев	sunny	0	0	1	0
-сунчев	sun's	0	0	1	0
 тело	body	0	0	1	0
 некада	sometimes	0	0	1	0
 некада	once	0	0	1	0
@@ -10772,8 +10548,8 @@ jako	strong	0	0	1	1
 увијек	always	0	0	1	0
 увијек	forever	0	0	1	0
 увијек	still	0	0	1	0
-трговачки	commercial	0	0	1	0
 трговачки	trading	0	0	1	0
+трговачки	commercial	0	0	1	0
 карађорђе	karadjordje	0	0	1	0
 биологија	biology	0	0	1	0
 страним	foreign	0	0	1	0
@@ -10814,18 +10590,15 @@ jako	strong	0	0	1	1
 одговорности	responsibility	0	0	1	0
 одговорности	responsibilites	0	0	1	0
 категоријасрби	category serbian's	0	0	1	0
-категоријасрби	serbian categories	0	0	1	0
 насеља	settlements	0	0	1	0
 насеља	population	0	0	1	0
 гледају	watch	0	0	1	0
 басиста	bassist	0	0	1	0
-басиста	bass player	0	0	1	0
 насеље	settlement	0	0	1	0
 насеље	population	0	0	1	0
 реци	river	0	0	1	0
 електронскапошта	electronic mail	0	0	1	0
 електронскапошта	e-mail	0	0	1	0
-електронскапошта	e- mail	0	0	1	0
 католика	catholics	0	0	1	0
 сср	ssr	0	0	1	0
 избио	broke	0	0	1	0
@@ -10860,10 +10633,8 @@ film	film	0	0	1	1
 биоетика	bioethic	1	1	0	0
 изврши	perform	0	0	1	0
 изврши	execute	0	0	1	0
-изврши	conduct	0	0	1	0
-аутономне	autonomous	0	0	1	0
-аутономне	autonomic	0	0	1	0
 аутономне	autonomy	0	0	1	0
+аутономне	autonomic	0	0	1	0
 аутономна	autonomous	0	0	1	0
 аутономна	autonomic	0	0	1	0
 британској	british	0	0	1	0
@@ -10946,7 +10717,6 @@ autorsko	author	0	0	1	0
 успева	succeed	0	0	1	0
 успева	succeeds	0	0	1	0
 објашњења	explanation	0	0	1	0
-објашњења	explanations	0	0	1	0
 овакви	these	0	0	1	0
 овакво	this	0	0	1	0
 овакво	this kind of	0	0	1	0
@@ -10967,9 +10737,9 @@ autorsko	author	0	0	1	0
 цару	csar	0	0	1	0
 цару	czar	0	0	1	0
 цару	emperor	0	0	1	0
-пазара	takings	0	0	1	0
-пазара	pazar	0	0	1	0
 пазара	pazar (town in serbia)	0	0	1	0
+пазара	pazar	0	0	1	0
+пазара	takings	0	0	1	0
 домаћина	host	0	0	1	0
 драгољуб	dragoljub	0	0	1	0
 рођења	birth	0	0	1	0
@@ -10985,7 +10755,6 @@ autorsko	author	0	0	1	0
 унутрашњег	inside	0	0	1	0
 унутрашњег	internal	0	0	1	0
 унутрашњег	domestic	0	0	1	0
-првенствено	championship	0	0	1	0
 првенствено	fist of all	0	0	1	0
 првенствено	primarily	0	0	1	0
 abc	abc	0	0	1	0
@@ -11047,14 +10816,12 @@ abc	abc	0	0	1	0
 успешно	succesful	0	0	1	0
 успешна	successful	0	0	1	0
 јавност	public	0	0	1	0
-малте	maltha	0	0	1	0
-малте	malta	0	0	1	0
+дистрикт	district	0	0	1	0
 открили	discovered	0	0	1	0
 открили	found	0	0	1	0
 вештачки	artificially	0	0	1	0
 вештачки	artificial	0	0	1	0
 признају	confess	0	0	1	0
-признају	recognized	0	0	1	0
 сједињених	united	0	0	1	0
 сједињених	the united	0	0	1	0
 деле	shared	0	0	1	0
@@ -11063,7 +10830,6 @@ abc	abc	0	0	1	0
 дела	acts	0	0	1	0
 дела	works	0	0	1	0
 смисао	meaning	0	0	1	0
-смисао	sense	0	0	1	0
 којим	which	0	0	1	0
 дело	work	0	0	1	0
 дело	act	0	0	1	0
@@ -11078,7 +10844,6 @@ abc	abc	0	0	1	0
 представљање	presentation	0	0	1	0
 делу	part	0	0	1	0
 формирао	formed	0	0	1	0
-формирао	fromed	0	0	1	0
 сједињеним	united	0	0	1	0
 формиран	formed	0	0	1	0
 признаје	admits	0	0	1	0
@@ -11086,9 +10851,7 @@ abc	abc	0	0	1	0
 признаје	admit	0	0	1	0
 високог	high	0	0	1	0
 бригу	care	0	0	1	0
-високом	high	0	0	1	0
-високом	high(degree)	0	0	1	0
-високом	visoko(place)	0	0	1	0
+снег	snow	0	0	1	0
 масу	mass	0	0	1	0
 проглашења	announcement	0	0	1	0
 проглашења	declaration	0	0	1	0
@@ -11111,7 +10874,6 @@ deo	stage	0	0	1	0
 археолошка	archeological	0	0	1	0
 збир	sum	0	0	1	0
 музичара	musician	0	0	1	0
-музичара	musicians	0	0	1	0
 предаје	surrender	0	0	1	0
 предаје	submitted	0	0	1	0
 предаје	gives	0	0	1	0
@@ -11119,9 +10881,10 @@ deo	stage	0	0	1	0
 археолошки	archaeological	0	0	1	0
 археолошки	archelogical	0	0	1	0
 афричких	african	0	0	1	0
-рада	work	0	0	1	0
-симболи	symbols	0	0	1	0
+скраћено	abbreviated	0	0	1	0
+скраћено	short	0	0	1	0
 симболи	simbols	0	0	1	0
+симболи	symbols	0	0	1	0
 јунак	hero	0	0	1	0
 симбола	simbols	0	0	1	0
 симбола	symbols	0	0	1	0
@@ -11164,11 +10927,11 @@ sistema	system	0	0	1	0
 енглези	british	0	0	1	0
 енглези	the english	0	0	1	0
 енглези	english	0	0	1	0
-супругом	wive	0	0	1	0
 супругом	wife	0	0	1	0
+супругом	wive	0	0	1	0
 унутрашња	internal	0	0	1	0
 унутрашња	inner	0	0	1	0
-потер	potter	0	0	1	0
+усвојила	adopted	0	0	1	0
 предају	surrender	0	0	1	0
 крагујевца	kragujevca	0	0	1	0
 крагујевца	kragujevac	0	0	1	0
@@ -11179,12 +10942,13 @@ sistema	system	0	0	1	0
 stvari	things	0	0	1	1
 презиме	last name	0	0	1	0
 презиме	surname	0	0	1	0
-таквих	such	0	0	1	0
+легирајући	alloying	0	0	1	0
 поседују	own	0	0	1	0
 поседују	have	0	0	1	0
 ђердап	djerdap	0	0	1	0
 ђердап	iron gate	0	0	1	0
-знају	know	0	0	1	0
+мирјана	miriana	0	0	1	0
+мирјана	mirjana	0	0	1	0
 човјек	man	0	0	1	0
 самосталност	independence	0	0	1	0
 фелдспат	feldspars	1	0	1	0
@@ -11197,7 +10961,8 @@ stvari	things	0	0	1	1
 источно	eastern	0	0	1	0
 сунца	the sun	0	0	1	0
 сунца	sun	0	0	1	0
-материце	uterus	0	0	1	0
+занимљиво	interesting	0	0	1	0
+занимљиво	interestingly	0	0	1	0
 заштитом	protection	0	0	1	0
 simptoma	symptoms	0	0	1	0
 simptoma	symptom	0	0	1	0
@@ -11237,7 +11002,6 @@ simptomi	symptoms	0	0	1	0
 ахил	achiles	1	1	0	0
 ахил	achillis	1	1	0	0
 ахил	level	1	0	1	0
-поседује	has	0	0	1	0
 поседује	owns	0	0	1	0
 офанзиве	offensive	0	0	1	0
 алберт	albert (personal noun	0	0	1	0
@@ -11266,7 +11030,6 @@ serija	tv show	0	0	1	0
 историјским	historic	0	0	1	0
 историјским	historical	0	0	1	0
 представљао	constituted	0	0	1	0
-представљао	respresented	0	0	1	0
 представљао	presented	0	0	1	0
 чињенице	facts	0	0	1	0
 чињенице	fact	0	0	1	0
@@ -11280,7 +11043,6 @@ seriji	series	0	0	1	0
 њен	its	0	0	1	0
 њен	her	0	0	1	0
 средишње	middle	0	0	1	0
-средишње	central	0	0	1	0
 математика	mathematics	0	0	1	0
 математика	math	0	0	1	0
 чињеница	fact	0	0	1	0
@@ -11371,7 +11133,6 @@ b	b	0	0	1	0
 управљање	control	0	0	1	0
 управљање	management	0	0	1	0
 подржавао	supported	0	0	1	0
-кандидата	candidates	0	0	1	0
 кандидата	candidate	0	0	1	0
 спада	belongs	0	0	1	0
 спада	falls in	0	0	1	0
@@ -11388,7 +11149,6 @@ b	b	0	0	1	0
 извођачи	performers	0	0	1	0
 извођачи	artists	0	0	1	0
 крила	wing	0	0	1	0
-крила	hiding	0	0	1	0
 челика	steel	0	0	1	0
 сасвим	completely	0	0	1	0
 сасвим	quite	0	0	1	0
@@ -11417,7 +11177,6 @@ most	bridge	0	0	1	1
 организовао	organised	0	0	1	0
 организовао	organized	0	0	1	0
 ka	to	0	0	1	1
-ka	ka	0	0	1	0
 ka	toward	0	0	1	1
 km	kilometer	0	0	1	0
 km	km	0	0	1	0
@@ -11445,14 +11204,12 @@ km	km	0	0	1	0
 догодило	happened	0	0	1	0
 сведочи	witnesses	0	0	1	0
 сведочи	testifies	0	0	1	0
-сведочи	testify	0	0	1	0
 нигерија	nigeria	0	0	1	0
 сведоче	testify	0	0	1	0
 догодила	happens	0	0	1	0
 догодила	happened	0	0	1	0
 снимљен	filmed	0	0	1	0
 снимљен	recorded	0	0	1	0
-тешко	severely	0	0	1	0
 тешко	hard	0	0	1	0
 тешко	difficult	0	0	1	0
 сингапур	singapore	0	0	1	0
@@ -11464,7 +11221,6 @@ km	km	0	0	1	0
 последица	consequnce	0	0	1	0
 последица	consicuence	0	0	1	0
 тунис	tunisia	0	0	1	0
-последице	consequence	0	0	1	0
 последице	consequences	0	0	1	0
 autora	authors	0	0	1	0
 autora	author	0	0	1	0
@@ -11483,8 +11239,7 @@ autora	author's	0	0	1	0
 средства	funds	0	0	1	0
 средства	resources	0	0	1	0
 комунистичком	communist	0	0	1	0
-текстови	texts	0	0	1	0
-текстови	lyrics	0	0	1	0
+уништено	destroyed	0	0	1	0
 ислам	islam	0	0	1	0
 уништена	destroyed	0	0	1	0
 антарктика	antartics	0	0	1	0
@@ -11537,14 +11292,10 @@ autora	author's	0	0	1	0
 конго	congo	0	0	1	0
 конго	kongo	0	0	1	0
 функцију	function	0	0	1	0
-категоријаопштина	categorymunicipalities	0	0	1	0
-спајањем	merger	0	0	1	0
 спајањем	joining	0	0	1	0
-признања	recognitions	0	0	1	0
 признања	recognition	0	0	1	0
 признање	recognition	0	0	1	0
 народу	people	0	0	1	0
-народу	public	0	0	1	0
 народу	peoples	0	0	1	0
 сјеверу	north	0	0	1	0
 састанка	meeting	0	0	1	0
@@ -11639,7 +11390,6 @@ bilo	was	0	0	1	0
 олимпијске	olympic	0	0	1	0
 олимпијске	olympics	0	0	1	0
 туниса	tunisia	0	0	1	0
-туниса	tunis	0	0	1	0
 притиском	pressure	0	0	1	0
 због	because	0	0	1	0
 обновљен	renewed	0	0	1	0
@@ -11706,7 +11456,6 @@ bilo	was	0	0	1	0
 знаци	sign's	0	0	1	0
 знаци	signs	0	0	1	0
 y	in	0	0	1	0
-доспео	reached	0	0	1	0
 доспео	due	0	0	1	0
 доспео	get	0	0	1	0
 државно	state	0	0	1	0
@@ -11726,10 +11475,9 @@ y	in	0	0	1	0
 енглеског	english	0	0	1	0
 серија	series	0	0	1	0
 серија	round	0	0	1	0
-пећини	cave	0	0	1	0
 пећини	caves	0	0	1	0
+пећини	cave	0	0	1	0
 серије	series	0	0	1	0
-серије	tv shows	0	0	1	0
 серији	series	0	0	1	0
 свуда	everywhere	0	0	1	0
 оцем	with father	0	0	1	0
@@ -11828,7 +11576,7 @@ server	server	0	0	1	1
 остала	remained	0	0	1	0
 остала	stayed	0	0	1	0
 остала	stay	0	0	1	0
-лиге	league	0	0	1	0
+комбинацији	combination	0	0	1	0
 остало	other	0	0	1	0
 остало	left	0	0	1	0
 остали	the remain	0	0	1	0
@@ -11864,8 +11612,6 @@ pomoć	help	0	0	1	1
 сачувано	saved	0	0	1	0
 osoba	person	0	0	1	1
 сачувани	preserved	0	0	1	0
-водећи	leading	0	0	1	0
-водећи	lead	0	0	1	0
 форум	forum	0	0	1	0
 турци	the turks	0	0	1	0
 турци	turks	0	0	1	0
@@ -11920,7 +11666,6 @@ osoba	person	0	0	1	1
 радња	action	0	0	1	0
 радња	the work	0	0	1	0
 радња	fable	0	0	1	0
-употребљава	use	0	0	1	0
 употребљава	used	0	0	1	0
 употребљава	uses	0	0	1	0
 ношња	gown	0	0	1	0
@@ -12016,7 +11761,6 @@ svoju	his own	0	0	1	0
 наши	ours	0	0	1	0
 наши	our	0	0	1	0
 путем	by way of	0	0	1	0
-путем	over	0	0	1	0
 путем	through	0	0	1	0
 кроз	among	0	0	1	0
 кроз	through	0	0	1	0
@@ -12024,13 +11768,13 @@ svoju	his own	0	0	1	0
 народни	national	0	0	1	0
 народни	folk	0	0	1	0
 народне	national	0	0	1	0
-народне	people	0	0	1	0
 народна	national	0	0	1	0
 народна	peoples	0	0	1	0
 сенат	senate	0	0	1	0
 совјета	soviet	0	0	1	0
 совјета	board	0	0	1	0
 совјета	council	0	0	1	0
+развијена	developed	0	0	1	0
 совјети	soviets	0	0	1	0
 совјети	soviet	0	0	1	0
 штавише	moreover	0	0	1	0
@@ -12098,8 +11842,8 @@ svoju	his own	0	0	1	0
 традицији	tradition	0	0	1	0
 најважнији	most important	0	0	1	0
 најважнији	the most important	0	0	1	0
-традиције	tradition	0	0	1	0
 традиције	traditions	0	0	1	0
+традиције	tradition	0	0	1	0
 слоја	layer	0	0	1	0
 слоја	class	0	0	1	0
 традиција	tradition	0	0	1	0
@@ -12128,8 +11872,8 @@ verzija	version	0	0	1	1
 детињства	childhood	0	0	1	0
 долини	valey	0	0	1	0
 долини	valley	0	0	1	0
-доделио	awarded	0	0	1	0
 доделио	gave	0	0	1	0
+доделио	awarded	0	0	1	0
 преузели	took over	0	0	1	0
 преузели	retrieve	0	0	1	0
 заузима	overtake	0	0	1	0
@@ -12185,7 +11929,6 @@ verzija	version	0	0	1	1
 румуни	romanias	0	0	1	0
 фото	photo	0	0	1	0
 подигао	rise up	0	0	1	0
-подигао	raised	0	0	1	0
 подигао	built	0	0	1	0
 следећим	following	0	0	1	0
 следећим	next	0	0	1	0
@@ -12236,7 +11979,7 @@ iii	or	0	0	1	0
 ислама	islam	0	0	1	0
 заузеле	busy	0	0	1	0
 заузеле	occupied	0	0	1	0
-fefec	fefec	0	0	1	0
+шпански	spanish	0	0	1	0
 немеза	nemesis	1	1	0	0
 исхране	food	0	0	1	0
 исхране	diet	0	0	1	0
@@ -12277,7 +12020,6 @@ uvek	allways	0	0	1	0
 квалитет	quality	0	0	1	0
 академији	academy	0	0	1	0
 особинама	characteristics	0	0	1	0
-особинама	properties	0	0	1	0
 белгија	belgium	0	0	1	0
 чијем	whose	0	0	1	0
 чијем	which	0	0	1	0
@@ -12325,7 +12067,6 @@ uvek	allways	0	0	1	0
 пјесме	poems	0	0	1	0
 пјесме	songs	0	0	1	0
 зевс	zeus	0	0	1	0
-удара	impact	0	0	1	0
 удара	attack	0	0	1	0
 удара	hit	0	0	1	0
 поређењу	comparison	0	0	1	0
@@ -12334,7 +12075,6 @@ uvek	allways	0	0	1	0
 жртава	victims	0	0	1	0
 жртава	victim	0	0	1	0
 хладног	cold	0	0	1	0
-нагло	suddenly	0	0	1	0
 нагло	sudden	0	0	1	0
 нагло	rapidly	0	0	1	0
 присуствовао	attended	0	0	1	0
@@ -12353,7 +12093,6 @@ le	french word	0	0	1	0
 дејвис	davis	0	0	1	0
 <	<	0	0	1	0
 хемијске	chemical	0	0	1	0
-хемијске	pencils	0	0	1	0
 тесла	tesla	0	0	1	0
 зависно	depending on	0	0	1	0
 зависно	depending	0	0	1	0
@@ -12447,7 +12186,6 @@ mosta	bridge	0	0	1	0
 кога	who	0	0	1	0
 демонстрација	protest	0	0	1	0
 демонстрација	demonstration	0	0	1	0
-адреса	adress	0	0	1	0
 адреса	address	0	0	1	0
 представе	performances	0	0	1	0
 представе	performance's	0	0	1	0
@@ -12461,9 +12199,8 @@ mosta	bridge	0	0	1	0
 лоптица	small ball	0	0	1	0
 игре	game	0	0	1	0
 игре	games	0	0	1	0
-представа	performances	0	0	1	0
-представа	play	0	0	1	0
 представа	performance	0	0	1	0
+представа	play	0	0	1	0
 карактеристично	characteristic	0	0	1	0
 карактеристично	characteristically	0	0	1	0
 карактеристична	characteristic	0	0	1	0
@@ -12506,8 +12243,7 @@ mosta	bridge	0	0	1	0
 саду	sad	0	0	1	0
 угао	angle	0	0	1	0
 светозара	svetozar	0	0	1	0
-описзаставе	flag description	0	0	1	0
-описзаставе	description of the flag	0	0	1	0
+мотора	motor	0	0	1	0
 вуковић	vukovic	0	0	1	0
 вуковић	vukovitch	0	0	1	0
 вуковић	vuković	0	0	1	0
@@ -12537,7 +12273,6 @@ skleroze	sclerosis	0	0	1	0
 храму	temple	0	0	1	0
 жан	zan	0	0	1	0
 жан	jean	0	0	1	0
-жан	john	0	0	1	0
 племена	tribes	0	0	1	0
 племена	flame	0	0	1	0
 појас	belt	0	0	1	0
@@ -12550,7 +12285,6 @@ skleroze	sclerosis	0	0	1	0
 константина	constantine	0	0	1	0
 глагољица	glagolitsa	0	0	1	0
 глагољица	glagolitic	0	0	1	0
-глагољица	glagoljica	0	0	1	0
 петра	petra	0	0	1	0
 петра	petar	0	0	1	0
 горива	fuel	0	0	1	0
@@ -12559,7 +12293,6 @@ skleroze	sclerosis	0	0	1	0
 него	but	0	0	1	0
 недеља	week	0	0	1	0
 недеља	weeks	0	0	1	0
-рафала	rafale	0	0	1	0
 рафала	bursts	0	0	1	0
 рафала	burst	0	0	1	0
 омогућује	enables	0	0	1	0
@@ -12574,18 +12307,15 @@ skleroze	sclerosis	0	0	1	0
 словени	slavs	0	0	1	0
 одређеним	certain	0	0	1	0
 одређеним	some	0	0	1	0
-назвати	term	0	0	1	0
 назвати	called	0	0	1	0
 изгубљена	lost	0	0	1	0
 означава	indicate	0	0	1	0
 означава	marks	0	0	1	0
-означава	means	0	0	1	0
 дечански	childish	0	0	1	0
 дечански	decanski	0	0	1	0
 недељу	sunday	0	0	1	0
 референце	references	0	0	1	0
 референце	refenerce	0	0	1	0
-референце	reference	0	0	1	0
 богове	gods	0	0	1	0
 богдановић	bogdanovic	0	0	1	0
 богдановић	last name	0	0	1	0
@@ -12614,8 +12344,6 @@ skleroze	sclerosis	0	0	1	0
 православних	ortodox	0	0	1	0
 православних	orthodox	0	0	1	0
 свештеници	priests	0	0	1	0
-његово	his	0	0	1	0
-његово	its	0	0	1	0
 бомбардовања	bombardment	0	0	1	0
 бомбардовања	bombing	0	0	1	0
 алата	tool	0	0	1	0
@@ -12626,7 +12354,6 @@ skleroze	sclerosis	0	0	1	0
 провео	passes	0	0	1	0
 провео	spent	0	0	1	0
 водени	water	0	0	1	0
-водени	aquatic	0	0	1	0
 крвљу	blood	0	0	1	0
 лика	character	0	0	1	0
 лика	role	0	0	1	0
@@ -12646,7 +12373,6 @@ skleroze	sclerosis	0	0	1	0
 континент	continent	0	0	1	0
 никада	never	0	0	1	0
 намером	intention	0	0	1	0
-намером	order	0	0	1	0
 славонији	slavony	0	0	1	0
 славонији	slavonia	0	0	1	0
 тебе	you	0	0	1	0
@@ -12664,7 +12390,6 @@ serano	serrano	0	0	1	0
 галерија	gallery	0	0	1	0
 лику	lika (part of croatia)	0	0	1	0
 лику	lika	0	0	1	0
-лику	liku	0	0	1	0
 лику	"image"	0	0	1	0
 лику	"Лик(а)" "(lik(a)" also means "character"	0	0	1	0
 дугим	long	0	0	1	0
@@ -12698,7 +12423,6 @@ serano	serrano	0	0	1	0
 таква	like that	0	0	1	0
 прошлог	past	0	0	1	0
 јулије	julius	0	0	1	0
-јулије	julije	0	0	1	0
 такве	such	0	0	1	0
 манасија	name of serbian monastery	0	0	1	0
 манасија	manasija	0	0	1	0
@@ -12752,7 +12476,6 @@ serano	serrano	0	0	1	0
 мосту	bridge	0	0	1	0
 босном	bosnia	0	0	1	0
 такву	such	0	0	1	0
-такву	that kind of	0	0	1	0
 величине	size	0	0	1	0
 смедерево	smederevo	0	0	1	0
 ковачевић	kovacevic	0	0	1	0
@@ -12779,12 +12502,10 @@ serano	serrano	0	0	1	0
 свештенство	clergy	0	0	1	0
 изгледа	seems	0	0	1	0
 изгледа	it seems	0	0	1	0
-изгледа	it looks	0	0	1	0
 оснивање	founding	0	0	1	0
 оснивање	establishment	0	0	1	0
 свештенства	priesthood	0	0	1	0
 свештенства	clergy	0	0	1	0
-оснивања	founding	0	0	1	0
 оснивања	foundation	0	0	1	0
 оснивања	establishment	0	0	1	0
 анда	andes	0	0	1	0
@@ -12800,8 +12521,6 @@ serano	serrano	0	0	1	0
 мери	measure	0	0	1	0
 крајевима	ends	0	0	1	0
 крајевима	places	0	0	1	0
-крајевима	areas	0	0	1	0
-категоријагрчки	greek category	0	0	1	0
 категоријагрчки	category: greek	0	0	1	0
 пољску	polish	0	0	1	0
 пољску	poland	0	0	1	0
@@ -12828,8 +12547,6 @@ serano	serrano	0	0	1	0
 крсташки	crusades	0	0	1	0
 крсташки	crusader	0	0	1	0
 пеницилин	penicillin	0	0	1	0
-конструкције	construction	0	0	1	0
-конструкције	constructions	0	0	1	0
 најпознатији	famous	0	0	1	0
 најпознатији	the most famous	0	0	1	0
 најпознатији	most famous	0	0	1	0
@@ -12936,7 +12653,6 @@ gledaoci	auditory	0	0	1	0
 финска	finland	0	0	1	0
 финске	finland	0	0	1	0
 читаву	whole	0	0	1	0
-фински	finish	0	0	1	0
 фински	finnish	0	0	1	0
 уколико	if	0	0	1	0
 историчар	historian	0	0	1	0
@@ -12966,7 +12682,6 @@ gledaoci	auditory	0	0	1	0
 тему	topic	0	0	1	0
 тему	theme	0	0	1	0
 уговором	contract	0	0	1	0
-уговором	treaty	0	0	1	0
 распоред	schedule	0	0	1	0
 распоред	arrangement	0	0	1	0
 еп	ec (europian chempionship)	0	0	1	0
@@ -13091,7 +12806,6 @@ j	j	0	0	1	0
 |приступница	application form	0	0	1	0
 млађе	younger	0	0	1	0
 млађе	young	0	0	1	0
-закључак	conclution	0	0	1	0
 закључак	conclusion	0	0	1	0
 забрањено	forbidden	0	0	1	0
 забрањено	prohibited	0	0	1	0
@@ -13113,17 +12827,17 @@ j	j	0	0	1	0
 простору	territory	0	0	1	0
 простору	space	0	0	1	0
 важне	important	0	0	1	0
-сукобу	conflict	0	0	1	0
 сукобу	clash	0	0	1	0
+сукобу	conflict	0	0	1	0
 важна	important	0	0	1	0
 важно	important	0	0	1	0
 тенкови	tanks	0	0	1	0
 важни	important	0	0	1	0
 факс	fax	0	0	1	0
-финала	finals	0	0	1	0
 финала	final	0	0	1	0
-финале	final	0	0	1	0
+финала	finals	0	0	1	0
 финале	finals	0	0	1	0
+финале	final	0	0	1	0
 прототип	prototype	0	0	1	0
 инка	inca	0	0	1	0
 изазивају	provoke	0	0	1	0
@@ -13133,7 +12847,6 @@ j	j	0	0	1	0
 износио	amount	0	0	1	0
 износио	was	0	0	1	0
 tokom	during	0	0	1	1
-гласањем	voteing	0	0	1	0
 гласањем	voting	0	0	1	0
 педесет	fifty	0	0	1	0
 препрека	obsticle	0	0	1	0
@@ -13163,7 +12876,6 @@ drugi	second	0	0	1	1
 drugi	other	0	0	1	1
 нивоу	level	0	0	1	0
 рећи	say	0	0	1	0
-рећи	tell	0	0	1	0
 нуклеарног	nuclear	0	0	1	0
 пети	fly	0	0	1	0
 пети	fifth	0	0	1	0
@@ -13272,7 +12984,6 @@ među	between	0	0	1	1
 националисти	nationalists	0	0	1	0
 xvii	xvii	0	0	1	0
 бити	be	0	0	1	0
-бити	to be	0	0	1	0
 покрива	cover	0	0	1	0
 покрива	covers	0	0	1	0
 ставља	placed	0	0	1	0
@@ -13282,7 +12993,6 @@ xvii	xvii	0	0	1	0
 ступио	entered	0	0	1	0
 нас	us	0	0	1	0
 успон	progress	0	0	1	0
-успон	rise	0	0	1	0
 успон	ascent	0	0	1	0
 пута	times	0	0	1	0
 весна	vesna	0	0	1	0
@@ -13303,7 +13013,6 @@ xvii	xvii	0	0	1	0
 ученик	disciple	0	0	1	0
 авиону	airplane	0	0	1	0
 авиону	plane	0	0	1	0
-заштиту	protect	0	0	1	0
 заштиту	protection	0	0	1	0
 конгрес	congress	0	0	1	0
 alveolata	alveolar	1	0	1	0
@@ -13316,7 +13025,6 @@ alveolata	alveola	1	0	1	0
 alveolata	him	1	0	1	0
 стању	state	0	0	1	0
 стању	condition	0	0	1	0
-милорад	miorad	0	0	1	0
 милорад	milorad	0	0	1	0
 сву	all	0	0	1	0
 контроле	control	0	0	1	0
@@ -13336,8 +13044,8 @@ alveolata	him	1	0	1	0
 стално	always	0	0	1	0
 стално	permanently	0	0	1	0
 куге	plague	0	0	1	0
-стални	steady	0	0	1	0
-стални	constant	0	0	1	0
+арапска	arab	0	0	1	0
+арапска	arabic	0	0	1	0
 хришћанско	christian	0	0	1	0
 хришћански	christian	0	0	1	0
 јерусалиму	jerusalem	0	0	1	0
@@ -13416,12 +13124,13 @@ mu	he	0	0	1	0
 метаболизам	metabolism	1	1	0	0
 метаболизам	era	1	0	1	0
 тенисера	tenniser's	0	0	1	0
-тенисера	players	0	0	1	0
 тенисера	tennis player	0	0	1	0
 капацитета	capacity	0	0	1	0
 наставак	extension	0	0	1	0
 наставак	conclusion	0	0	1	0
-хришћанском	christian	0	0	1	0
+осигурао	provided	0	0	1	0
+осигурао	ensure	0	0	1	0
+осигурао	insured	0	0	1	0
 приповедака	story	0	0	1	0
 приповедака	narrators	0	0	1	0
 приповедака	tales	0	0	1	0
@@ -13432,7 +13141,6 @@ mu	he	0	0	1	0
 beograda	belgrade	0	0	1	0
 beograda	belgrad	0	0	1	0
 лобање	skull	0	0	1	0
-рибе	fishes	0	0	1	0
 рибе	fish	0	0	1	0
 beogradu	belgrade	0	0	1	0
 комунизам	communism	0	0	1	0
@@ -13452,13 +13160,10 @@ beogradu	belgrade	0	0	1	0
 вукан	volcano	0	0	1	0
 вукан	vukan	0	0	1	0
 наводи	claims	0	0	1	0
-наводи	alleges	0	0	1	0
 наводи	says	0	0	1	0
 манастир	monastery	0	0	1	0
 манастир	monastire	0	0	1	0
 описује	describes	0	0	1	0
-описује	describe	0	0	1	0
-гласник	messanger	0	0	1	0
 гласник	messenger	0	0	1	0
 молибден	pray	1	0	1	0
 молибден	krasnodarsky	1	0	1	0
@@ -13474,7 +13179,6 @@ london	london	0	0	1	1
 ђурђа	djurdj	0	0	1	0
 турски	turkish	0	0	1	0
 збирку	collection	0	0	1	0
-ima	there are	0	0	1	1
 ima	has	0	0	1	0
 ima	have	0	0	1	0
 ime	name	0	0	1	1
@@ -13502,9 +13206,7 @@ ime	name	0	0	1	1
 рок	rock	0	0	1	0
 унеско	unesco	0	0	1	0
 ф	f	0	0	1	0
-наводе	quote	0	0	1	0
-наводе	allegations	0	0	1	0
-наводе	allegation's	0	0	1	0
+атентата	assassination	0	0	1	0
 пада	fall	0	0	1	0
 историју	history	0	0	1	0
 напали	attacked	0	0	1	0
@@ -13575,7 +13277,7 @@ free	free	0	0	1	0
 египтом	egypt	0	0	1	0
 египтом	with egypt	0	0	1	0
 источни	eastern	0	0	1	0
-легирајући	alloying	0	0	1	0
+таквих	such	0	0	1	0
 међународна	international	0	0	1	0
 међународне	international	0	0	1	0
 микеланђело	michelangelo	0	0	1	0
@@ -13695,8 +13397,6 @@ rad	work	0	0	1	1
 гувернер	governer	0	0	1	0
 гувернер	governor	0	0	1	0
 имао	had	0	0	1	0
-вароши	province	0	0	1	0
-вароши	place	0	0	1	0
 законика	lawful	0	0	1	0
 законика	law book	0	0	1	0
 конгреса	congress	0	0	1	0
@@ -13707,7 +13407,6 @@ rad	work	0	0	1	1
 партнери	partners	0	0	1	0
 пљевља	pljevlja	0	0	1	0
 пљевља	weeds	0	0	1	0
-јаја	egs	0	0	1	0
 јаја	eggs	0	0	1	0
 престола	throne	0	0	1	0
 најбољих	best	0	0	1	0
@@ -13724,8 +13423,6 @@ rad	work	0	0	1	1
 градски	​​city	0	0	1	0
 радикална	radical	0	0	1	0
 атрибута	attribute	0	0	1	0
-атрибута	attributes	0	0	1	0
-colors	colors	0	0	1	0
 radio	radio	0	0	1	1
 стварности	reality	0	0	1	0
 акценат	accent	0	0	1	0
@@ -13767,7 +13464,6 @@ kako	like	0	0	1	0
 записа	scripts	0	0	1	0
 организма	organism	0	0	1	0
 ритам	rhythm	0	0	1	0
-државу	country	0	0	1	0
 државу	state	0	0	1	0
 ње	through it	0	0	1	0
 ње	her	0	0	1	0
@@ -13801,7 +13497,8 @@ godina	year	0	0	1	1
 десетине	tens of	0	0	1	0
 десетине	tenth	0	0	1	0
 десетине	tenths	0	0	1	0
-мотора	motor	0	0	1	0
+описзаставе	flag description	0	0	1	0
+описзаставе	description of the flag	0	0	1	0
 крф	corfu	0	0	1	0
 крф	krf	0	0	1	0
 |поп=	pop	0	0	1	0
@@ -13964,9 +13661,7 @@ n	n	0	0	1	0
 политичара	politicians	0	0	1	0
 политичара	politician	0	0	1	0
 стварност	reality	0	0	1	0
-осигурао	provided	0	0	1	0
-осигурао	ensure	0	0	1	0
-осигурао	insured	0	0	1	0
+хришћанском	christian	0	0	1	0
 нападима	attacks	0	0	1	0
 нападима	atacks	0	0	1	0
 певачи	singers	0	0	1	0
@@ -13982,9 +13677,7 @@ n	n	0	0	1	0
 обухвата	contains	0	0	1	0
 обухвата	covers	0	0	1	0
 обухвата	includes	0	0	1	0
-звечан	zve�&#65533;an	0	0	1	0
 звечан	zvecan	0	0	1	0
-panthera	panthera	0	0	1	0
 посланици	emmisaries	0	0	1	0
 посланици	delegates	0	0	1	0
 посланици	epistle's	0	0	1	0
@@ -14037,7 +13730,6 @@ nagrade	awards	0	0	1	0
 учио	studied	0	0	1	0
 оставила	left	0	0	1	0
 немачког	german	0	0	1	0
-положаја	posicion	0	0	1	0
 положаја	position	0	0	1	0
 положаја	location	0	0	1	0
 постизање	accomplishement	0	0	1	0
@@ -14050,9 +13742,8 @@ nagrade	awards	0	0	1	0
 учења	teaching	0	0	1	0
 учење	studying	0	0	1	0
 учење	learning	0	0	1	0
-категоријаетничке	category: ethnic	0	0	1	0
 категоријаетничке	category:ethnic	0	0	1	0
-категоријаетничке	etnic category	0	0	1	0
+категоријаетничке	category: ethnic	0	0	1	0
 познатих	known	0	0	1	0
 познатих	famous	0	0	1	0
 поглавља	chapter	0	0	1	0
@@ -14090,7 +13781,6 @@ amor	amor	0	0	1	0
 истанбул	istambul	0	0	1	0
 учесници	participants	0	0	1	0
 нерадни	holiday	0	0	1	0
-нерадни	not working	0	0	1	0
 нерадни	day off	0	0	1	0
 узме	take	0	0	1	0
 обављао	did	0	0	1	0
@@ -14115,16 +13805,13 @@ amor	amor	0	0	1	0
 осудио	sentenced	0	0	1	0
 осудио	judge	0	0	1	0
 трајања	duration	0	0	1	0
-трајања	lasting	0	0	1	0
 виду	in mind	0	0	1	0
 виду	form	0	0	1	0
 класа	class	0	0	1	0
-тумачења	interpretations	0	0	1	0
 тумачења	interpretation	0	0	1	0
 тумачења	understanding	0	0	1	0
 класе	classes	0	0	1	0
 класе	class	0	0	1	0
-каже	say	0	0	1	0
 каже	says	0	0	1	0
 тумачење	explanation	0	0	1	0
 тумачење	interpretation	0	0	1	0
@@ -14148,7 +13835,6 @@ amor	amor	0	0	1	0
 нешто	somewhat	0	0	1	0
 критика	criticism	0	0	1	0
 критика	critique	0	0	1	0
-критика	critic	0	0	1	0
 одређене	certain	0	0	1	0
 одређени	certain	0	0	1	0
 одређени	some	0	0	1	0
@@ -14156,8 +13842,6 @@ amor	amor	0	0	1	0
 одређено	specified	0	0	1	0
 двора	yard	0	0	1	0
 двора	court	0	0	1	0
-двора	palace	0	0	1	0
-савезника	leaguer	0	0	1	0
 савезника	allies	0	0	1	0
 савезника	ally	0	0	1	0
 савезнике	allias	0	0	1	0
@@ -14222,7 +13906,6 @@ amor	amor	0	0	1	0
 тумански	tumanski (russian manufacturer of jet engines)	0	0	1	0
 тумански	tumanski	0	0	1	0
 традиционална	traditional	0	0	1	0
-традиционална	tradicional	0	0	1	0
 осам	eight	0	0	1	0
 традиционалне	traditional	0	0	1	0
 традиционалне	traditionally	0	0	1	0
@@ -14314,7 +13997,9 @@ tim	that	0	0	1	0
 хришћанима	christians	0	0	1	0
 утакмица	game	0	0	1	0
 утакмица	match	0	0	1	0
-снег	snow	0	0	1	0
+високом	high	0	0	1	0
+високом	high(degree)	0	0	1	0
+високом	visoko(place)	0	0	1	0
 утакмице	games	0	0	1	0
 вишеград	visegrad	0	0	1	0
 троуглови	triangles	0	0	1	0
@@ -14335,10 +14020,8 @@ tim	that	0	0	1	0
 бока	boca	0	0	1	0
 алпи	alps	0	0	1	0
 алпи	alpes	0	0	1	0
-ш	š	0	0	1	0
 ш	ш	0	0	1	0
-боки	boka	0	0	1	0
-боки	boca	0	0	1	0
+унапређен	promoted	0	0	1	0
 алпа	alps	0	0	1	0
 алпа	alpes	0	0	1	0
 вимблдон	wimbledon	0	0	1	0
@@ -14350,7 +14033,8 @@ tim	that	0	0	1	0
 истраживачи	investigators	0	0	1	0
 саобраћај	traffic	0	0	1	0
 лепоту	beauty	0	0	1	0
-доста	a lot	0	0	1	0
+јабука	apple	0	0	1	0
+јабука	apples	0	0	1	0
 школама	schools	0	0	1	0
 коста	kosta	0	0	1	0
 прагу	prague	0	0	1	0
@@ -14430,8 +14114,8 @@ svih	every	0	0	1	0
 представник	represent	0	0	1	0
 представник	representative	0	0	1	0
 судан	sudan	0	0	1	0
-налазишта	site	0	0	1	0
 налазишта	sites	0	0	1	0
+налазишта	site	0	0	1	0
 veoma	very	0	0	1	1
 латинском	latin	0	0	1	0
 свемир	space	0	0	1	0
@@ -14474,7 +14158,6 @@ veoma	very	0	0	1	1
 кошаркашки	basketball	0	0	1	0
 објављује	announce	0	0	1	0
 објављује	declare	0	0	1	0
-објављује	published	0	0	1	0
 електрона	electron	0	0	1	0
 електрона	electrons	0	0	1	0
 седници	conference	0	0	1	0
@@ -14502,8 +14185,7 @@ veoma	very	0	0	1	1
 првог	first	0	0	1	0
 македонци	macedonians	0	0	1	0
 личних	personal	0	0	1	0
-процеса	process	0	0	1	0
-процеса	processes	0	0	1	0
+канаде	canada	0	0	1	0
 комунисти	communists	0	0	1	0
 плазми	plasma	0	0	1	0
 комуниста	communist	0	0	1	0
@@ -14574,7 +14256,7 @@ epizoda	episode	0	0	1	1
 линији	line	0	0	1	0
 način	way	0	0	1	1
 nekoliko	few	0	0	1	1
-nekoliko	a few	0	0	1	1
+nekoliko	a few	0	0	1	0
 nekoliko	several	0	0	1	1
 предузећа	company	0	0	1	0
 предузећа	companies	0	0	1	0
@@ -14662,9 +14344,7 @@ međutim	but	0	0	1	1
 отворени	open	0	0	1	0
 отворени	opened	0	0	1	0
 укупном	total	0	0	1	0
-укупном	in total	0	0	1	0
 укупног	total	0	0	1	0
-укупног	in total	0	0	1	0
 тренутак	moment	0	0	1	0
 отворене	open	0	0	1	0
 отворене	opened	0	0	1	0
@@ -14730,7 +14410,6 @@ međutim	but	0	0	1	1
 постоји	exists	0	0	1	0
 цеви	tube	0	0	1	0
 цеви	pipes	0	0	1	0
-постоје	there are	0	0	1	0
 постоје	exist	0	0	1	0
 хероји	heroes	0	0	1	0
 хероји	hero	0	0	1	0
@@ -14801,11 +14480,8 @@ pri	at	0	0	1	1
 бог	god	0	0	1	0
 премијер	prime minister	0	0	1	0
 супруга	wife	0	0	1	0
-супруге	wife's	0	0	1	0
 супруге	wife	0	0	1	0
 multipla	multiple	0	0	1	0
-сачињавали	cosisted	0	0	1	0
-сачињавали	consisted of	0	0	1	0
 архиепископа	archbishop	0	0	1	0
 бор	pine	0	0	1	0
 бор	bohr	0	0	1	0
@@ -14817,7 +14493,7 @@ multipla	multiple	0	0	1	0
 воде	come from	0	0	1	0
 воде	water; vode poreklo-originate	0	0	1	0
 воде	lead	0	0	1	0
-усвојила	adopted	0	0	1	0
+потер	potter	0	0	1	0
 северозападу	northwest	0	0	1	0
 бој	battle	0	0	1	0
 ovim	this	0	0	1	0
@@ -14870,7 +14546,6 @@ pored	by	0	0	1	1
 алгоритам	algorithm	0	0	1	0
 хајдук	outlaw	0	0	1	0
 хајдук	hajduk	0	0	1	0
-показују	shown	0	0	1	0
 показују	show	0	0	1	0
 вебстрана	webpage	0	0	1	0
 вебстрана	web page	0	0	1	0
@@ -14902,10 +14577,7 @@ pored	by	0	0	1	1
 променама	changes	0	0	1	0
 онако	as	0	0	1	0
 онако	the way	0	0	1	0
-камбријум	cambrium	1	0	1	0
-камбријум	cambrian	1	1	0	0
-камбријум	philosopher	1	0	1	0
-камбријум	cambium	1	1	0	0
+знају	know	0	0	1	0
 јосип	josip (personal name)	0	0	1	0
 јосип	josip	0	0	1	0
 животу	life	0	0	1	0
@@ -15049,7 +14721,8 @@ koriste	are being used	0	0	1	0
 неуспех	failure	0	0	1	0
 куби	cuba	0	0	1	0
 б	b	0	0	1	0
-операција	operation	0	0	1	0
+извођач	performer	0	0	1	0
+извођач	contractor	0	0	1	0
 html	html	0	0	1	0
 операције	operations	0	0	1	0
 операције	operation	0	0	1	0
@@ -15136,11 +14809,9 @@ oko	about	0	0	1	1
 ролан	roland (name)	0	0	1	0
 ролан	roland	0	0	1	0
 ролан	rolan	0	0	1	0
-вођена	drived	0	0	1	0
 вођена	led	0	0	1	0
 византијом	byzantium	0	0	1	0
 византијом	byzantine	0	0	1	0
-вођене	guided	0	0	1	0
 вођене	led	0	0	1	0
 крагујевцу	kragujevac	0	0	1	0
 потребе	needs	0	0	1	0
@@ -15161,10 +14832,10 @@ oko	about	0	0	1	1
 гугл	google	0	0	1	0
 генерални	general	0	0	1	0
 генерално	generally	0	0	1	0
-етимологија	etimology	0	0	1	0
 етимологија	etymology	0	0	1	0
+етимологија	etimology	0	0	1	0
 онлајн	online	0	0	1	0
-хеб	hebrew	0	0	1	0
+књижевног	literary	0	0	1	0
 просечне	average	0	0	1	0
 заслужних	deserving	0	0	1	0
 заслужних	earned	0	0	1	0
@@ -15275,7 +14946,6 @@ latinica	latinic	0	0	1	0
 кањон	canyon	0	0	1	0
 нису	not	0	0	1	0
 нису	did not	0	0	1	0
-распадом	dissolution	0	0	1	0
 распадом	collapse of	0	0	1	0
 распадом	fall	0	0	1	0
 симфонија	symphony	0	0	1	0
@@ -15287,7 +14957,6 @@ latinica	latinic	0	0	1	0
 кричкама	krichka	0	0	1	0
 кричкама	kricke	0	0	1	0
 јаке	strong	0	0	1	0
-огроман	large	0	0	1	0
 огроман	hughe	0	0	1	0
 огроман	huge	0	0	1	0
 миг	mig	0	0	1	0
@@ -15301,7 +14970,6 @@ latinica	latinic	0	0	1	0
 говоре	speaks	0	0	1	0
 говоре	talk	0	0	1	0
 говоре	speak	0	0	1	0
-онога	whom	0	0	1	0
 онога	that	0	0	1	0
 онога	one	0	0	1	0
 епоха	epochs	0	0	1	0
@@ -15317,20 +14985,17 @@ latinica	latinic	0	0	1	0
 кратког	short	0	0	1	0
 кратког	brief	0	0	1	0
 одлуку	decision	0	0	1	0
-одлуку	desicion	0	0	1	0
 мноштво	many	0	0	1	0
 мноштво	group	0	0	1	0
 мноштво	multitude	0	0	1	0
 нико	nobody	0	0	1	0
 нико	no one	0	0	1	0
-нико	noone	0	0	1	0
 основа	basis	0	0	1	0
 производи	products	0	0	1	0
 производи	generates	0	0	1	0
 производи	being produced	0	0	1	0
 прима	receive	0	0	1	0
 прима	recive	0	0	1	0
-прима	receiving	0	0	1	0
 основе	fundamentals	0	0	1	0
 основе	basis	0	0	1	0
 одлука	decision	0	0	1	0
@@ -15359,17 +15024,16 @@ grupa	group	0	0	1	1
 мит	myth	0	0	1	0
 мир	peace	0	0	1	0
 валута	currency	0	0	1	0
-валута	value	0	0	1	0
 валуте	currency	0	0	1	0
 износи	amounts	0	0	1	0
 износи	is	0	0	1	0
-хрвати	augite	0	0	1	0
 хрвати	croats	0	0	1	0
 баштина	heritage	0	0	1	0
 баштина	inheritance	0	0	1	0
-категоријајезици	language categories	0	0	1	0
 категоријајезици	categories of languages	0	0	1	0
-секулић	sekulic	0	0	1	0
+дуга	(of) debt; (is) long [fem. gender]	0	0	1	0
+дуга	debth	0	0	1	0
+дуга	long	0	0	1	0
 баштине	fortune	0	0	1	0
 баштине	heritage	0	0	1	0
 хрвата	croats	0	0	1	0
@@ -15411,7 +15075,6 @@ ali	but	0	0	1	1
 мотором	engine	0	0	1	0
 мотором	motor	0	0	1	0
 помоћне	helping	0	0	1	0
-помоћне	auxiliary	0	0	1	0
 помоћне	additional	0	0	1	0
 књижевних	literary	0	0	1	0
 књижевних	writer	0	0	1	0
@@ -15447,8 +15110,8 @@ hdi	hdi	0	0	1	0
 веровало	it was believed	0	0	1	0
 афродита	aphrodite	0	0	1	0
 дубровнику	dubrovnik	0	0	1	0
-данак	tribute	0	0	1	0
-данак	tax	0	0	1	0
+јужну	southern	0	0	1	0
+јужну	south	0	0	1	0
 тајм	time	0	0	1	0
 обављају	performed	0	0	1	0
 обављају	are performed	0	0	1	0
@@ -15500,7 +15163,6 @@ hdi	hdi	0	0	1	0
 битке	battle	0	0	1	0
 битке	battles	0	0	1	0
 битка	battle	0	0	1	0
-битка	kingfisher	0	0	1	0
 леон	león (province of spain)	0	0	1	0
 леон	leon	0	0	1	0
 извођења	performance	0	0	1	0
@@ -15546,7 +15208,8 @@ imati	have	0	0	1	1
 изгубила	lost	0	0	1	0
 преводилац	translator	0	0	1	0
 преводилац	interpreter	0	0	1	0
-атентата	assassination	0	0	1	0
+малој	small	0	0	1	0
+малој	little	0	0	1	0
 изгубили	lost	0	0	1	0
 репрезентација	representation	0	0	1	0
 репрезентација	national team	0	0	1	0
@@ -15595,9 +15258,9 @@ v	v	0	0	1	0
 послове	businesses	0	0	1	0
 ostali	other	0	0	1	0
 ostali	others	0	0	1	0
-послови	affairs	0	0	1	0
 послови	jobs	0	0	1	0
 послови	businesses	0	0	1	0
+послови	affairs	0	0	1	0
 повод	reason	0	0	1	0
 повод	cause	0	0	1	0
 усвојио	accepted	0	0	1	0
@@ -15617,7 +15280,8 @@ ostali	others	0	0	1	0
 дубровчани	people from dubrovnik	0	0	1	0
 веку	century	0	0	1	0
 олимпијског	olympic	0	0	1	0
-унапређен	promoted	0	0	1	0
+боки	boka	0	0	1	0
+боки	boca	0	0	1	0
 svet	world	0	0	1	1
 разлог	reason	0	0	1	0
 века	centuries	0	0	1	0
@@ -15667,6 +15331,9 @@ svet	world	0	0	1	1
 четвртфиналу	quarter	0	0	1	0
 технике	technics	0	0	1	0
 технике	techniques	0	0	1	0
+проширење	expanding	0	0	1	0
+проширење	expansion of	0	0	1	0
+проширење	expansion	0	0	1	0
 додељена	assigned	0	0	1	0
 додељена	awarded	0	0	1	0
 će	will	0	0	1	0
@@ -15694,7 +15361,6 @@ svet	world	0	0	1	1
 директоријум	directory	0	0	1	0
 мухамеда	muhammad	0	0	1	0
 бр	number	0	0	1	0
-бр	no	0	0	1	0
 четвртфинале	quarter final	0	0	1	0
 четвртфинале	quarterfinals	0	0	1	0
 четвртфинале	quarter finals	0	0	1	0
@@ -15709,7 +15375,6 @@ svet	world	0	0	1	1
 европски	european	0	0	1	0
 судбина	faith	0	0	1	0
 судбина	fate	0	0	1	0
-снабдевање	supplying	0	0	1	0
 снабдевање	supply	0	0	1	0
 снабдевања	supplying	0	0	1	0
 снабдевања	supply	0	0	1	0
@@ -15723,7 +15388,6 @@ svet	world	0	0	1	1
 јанковић	doesnt translate	0	0	1	0
 дубровника	dubrovnik	0	0	1	0
 подножју	foot	0	0	1	0
-подножју	base	0	0	1	0
 подножју	the base	0	0	1	0
 istorija	history	0	0	1	1
 наступа	performace	0	0	1	0
@@ -15807,7 +15471,6 @@ región	region	0	0	1	0
 поклонио	gave	0	0	1	0
 поклонио	gift	0	0	1	0
 поклонио	presented	0	0	1	0
-куле	towers	0	0	1	0
 куле	tower	0	0	1	0
 женке	female	0	0	1	0
 варијанте	variants	0	0	1	0
@@ -15817,7 +15480,6 @@ región	region	0	0	1	0
 варијанта	variation	0	0	1	0
 топлоте	heat	0	0	1	0
 месец	month	0	0	1	0
-снима	recording	0	0	1	0
 снима	records	0	0	1	0
 снима	record	0	0	1	0
 варијанти	variant	0	0	1	0
@@ -15861,7 +15523,6 @@ gps	gps	0	0	1	0
 независности	independency	0	0	1	0
 независности	independence	0	0	1	0
 истовремено	at the same time	0	0	1	0
-истовремено	simultaneously	0	0	1	0
 прилику	chance	0	0	1	0
 прилику	opportunity	0	0	1	0
 планину	mountain	0	0	1	0
@@ -15884,8 +15545,9 @@ dana	days	0	0	1	0
 вукашин	vukashin	0	0	1	0
 правилима	rules	0	0	1	0
 окружује	surrounds	0	0	1	0
-политичка	politics	0	0	1	0
-политичка	political	0	0	1	0
+прелазе	crossing	0	0	1	0
+прелазе	cross	0	0	1	0
+прелазе	pass	0	0	1	0
 енг	eng	0	0	1	0
 сећања	remembrance	0	0	1	0
 сећања	memories	0	0	1	0
@@ -15908,7 +15570,8 @@ dana	days	0	0	1	0
 три	three	0	0	1	0
 drugih	other	0	0	1	0
 повезаност	connection	0	0	1	0
-аустријски	austrian	0	0	1	0
+статус	status	0	0	1	0
+статус	satus	0	0	1	0
 вечерње	evening	0	0	1	0
 мајами	miami	0	0	1	0
 статуа	statue	0	0	1	0
@@ -15937,14 +15600,12 @@ drugih	other	0	0	1	0
 манифестације	manifestations	0	0	1	0
 манифестације	events	0	0	1	0
 поштује	respect	0	0	1	0
-поштује	respects	0	0	1	0
 тајланд	thailand	0	0	1	0
 тајланд	tailand	0	0	1	0
 тајланд	thiland	0	0	1	0
 сфр	sfr	0	0	1	0
 ваздушне	air	0	0	1	0
 добила	got	0	0	1	0
-добила	given	0	0	1	0
 добила	received	0	0	1	0
 северних	north	0	0	1	0
 северних	northern	0	0	1	0
@@ -15967,10 +15628,8 @@ drugih	other	0	0	1	0
 сестру	sister	0	0	1	0
 посете	visit	0	0	1	0
 посете	visits	0	0	1	0
-посете	visiting	0	0	1	0
 току	process	0	0	1	0
 току	during	0	0	1	0
-кћерке	daughter	0	0	1	0
 кћерке	doughters	0	0	1	0
 кћерке	daughters	0	0	1	0
 кћерка	daughter	0	0	1	0
@@ -15990,14 +15649,12 @@ drugih	other	0	0	1	0
 аустријском	austrian	0	0	1	0
 становништвом	citizens	0	0	1	0
 становништвом	population	0	0	1	0
-борбама	struggles	0	0	1	0
 борбама	battles	0	0	1	0
 борбама	fight	0	0	1	0
 насељене	settlements	0	0	1	0
 насељене	populated	0	0	1	0
 смештен	located	0	0	1	0
 смештен	accommodated	0	0	1	0
-насељена	populated	0	0	1	0
 насељена	settled	0	0	1	0
 насељена	population	0	0	1	0
 насељено	inhabited	0	0	1	0
@@ -16032,7 +15689,6 @@ drugih	other	0	0	1	0
 самог	very	0	0	1	0
 самог	till	0	0	1	0
 самог	itself	0	0	1	0
-самом	the	0	0	1	0
 самом	own	0	0	1	0
 самом	the very	0	0	1	0
 књижевници	writers	0	0	1	0
@@ -16060,7 +15716,6 @@ drugih	other	0	0	1	0
 отворен	opened	0	0	1	0
 принцип	principle	0	0	1	0
 прогона	persecution	0	0	1	0
-носио	was called	0	0	1	0
 носио	carry	0	0	1	0
 носио	carried	0	0	1	0
 вуковару	vukovar	0	0	1	0
@@ -16071,7 +15726,6 @@ drugih	other	0	0	1	0
 мечу	match	0	0	1	0
 количине	quantity	0	0	1	0
 владислава	vladislav	0	0	1	0
-владислава	vladislava	0	0	1	0
 количини	quantities	0	0	1	0
 количини	quantity	0	0	1	0
 претвара	turns	0	0	1	0
@@ -16084,7 +15738,6 @@ drugih	other	0	0	1	0
 кола	car	0	0	1	0
 херцеговини	herzegovina	0	0	1	0
 херцеговини	hercegovina	0	0	1	0
-коло	cicuit	0	0	1	0
 коло	round	0	0	1	0
 c	s (letter)	0	0	1	0
 c	s	0	0	1	0
@@ -16093,7 +15746,6 @@ c	s	0	0	1	0
 самој	within	0	0	1	0
 самој	itself	0	0	1	0
 грађанима	citizens	0	0	1	0
-грађанима	citizen	0	0	1	0
 најгушће	most densely	0	0	1	0
 херцеговине	herzegovina	0	0	1	0
 херцеговине	hercegovina	0	0	1	0
@@ -16137,12 +15789,9 @@ pa	so	0	0	1	1
 изашла	turned out	0	0	1	0
 изашла	came out	0	0	1	0
 изашла	step out	0	0	1	0
-проширење	expanding	0	0	1	0
-проширење	expansion of	0	0	1	0
-проширење	expansion	0	0	1	0
+његово	his	0	0	1	0
 хомо	homo	0	0	1	0
 развијено	developed	0	0	1	0
-развијено	well-built	0	0	1	0
 наставком	suffix	0	0	1	0
 наставком	extension	0	0	1	0
 po	on	0	0	1	1
@@ -16210,7 +15859,6 @@ toga	that	0	0	1	0
 чемпрес	cypress	1	1	0	0
 чемпрес	appeal to	1	0	1	0
 чемпрес	address	1	0	1	0
-једнак	identical	0	0	1	0
 једнак	equal	0	0	1	0
 понудио	offered	0	0	1	0
 понудио	has offered	0	0	1	0
@@ -16320,7 +15968,6 @@ toga	that	0	0	1	0
 кошарке	basketball	0	0	1	0
 одбрамбене	defence	0	0	1	0
 одбрамбене	defensive	0	0	1	0
-објашњава	explain	0	0	1	0
 објашњава	explains	0	0	1	0
 локалних	local	0	0	1	0
 спречи	prevent	0	0	1	0
@@ -16373,11 +16020,10 @@ toga	that	0	0	1	0
 често	often	0	0	1	0
 деспотовине	despotate	0	0	1	0
 деспотовине	despots	0	0	1	0
-чести	common	0	0	1	0
 чести	often	0	0	1	0
+чести	common	0	0	1	0
 пристао	agreed	0	0	1	0
 пристао	accepted	0	0	1	0
-пристао	accept	0	0	1	0
 бранко	branko	0	0	1	0
 сличност	similarity	0	0	1	0
 поводом	motivated by	0	0	1	0
@@ -16411,9 +16057,9 @@ toga	that	0	0	1	0
 кад	when	0	0	1	0
 мађарски	hungarians	0	0	1	0
 мађарски	hungarian	0	0	1	0
-ћопић	copic	0	0	1	0
-ћопић	copic (surname)	0	0	1	0
 ћопић	chopich	0	0	1	0
+ћопић	copic (surname)	0	0	1	0
+ћопић	copic	0	0	1	0
 избеглица	refugee	0	0	1	0
 кључних	main	0	0	1	0
 кључних	key	0	0	1	0
@@ -16452,7 +16098,6 @@ toga	that	0	0	1	0
 јелена	jelena	0	0	1	0
 обнову	reconstruction	0	0	1	0
 обнову	renewal	0	0	1	0
-сматрана	considered	0	0	1	0
 сматрана	concidere	0	0	1	0
 сматрана	consider	0	0	1	0
 вјероватно	probably	0	0	1	0
@@ -16499,7 +16144,6 @@ srpska	serbian	0	0	1	0
 кину	cinema	0	0	1	0
 показали	indicators	0	0	1	0
 показали	showed	0	0	1	0
-показали	show	0	0	1	0
 јавних	public	0	0	1	0
 племића	aristocrat	0	0	1	0
 племића	noble	0	0	1	0
@@ -16530,7 +16174,6 @@ srpska	serbian	0	0	1	0
 ко	who	0	0	1	0
 околина	environment	0	0	1	0
 констанције	constantius	0	0	1	0
-кк	kk	0	0	1	0
 кк	bascetball club	0	0	1	0
 састављена	composed	0	0	1	0
 природу	nature	0	0	1	0
@@ -16538,14 +16181,12 @@ srpska	serbian	0	0	1	0
 сазнања	recognition	0	0	1	0
 сазнања	discovery	0	0	1	0
 околини	environment	0	0	1	0
-околини	enironment	0	0	1	0
 околини	neighbourhood	0	0	1	0
 ка	to	0	0	1	0
 ка	toward	0	0	1	0
 кв	kilovolts	0	0	1	0
 пратити	follows	0	0	1	0
 пратити	follow	0	0	1	0
-железнички	railroad	0	0	1	0
 железнички	railway	0	0	1	0
 повукао	withdrawn	0	0	1	0
 повукао	retreated	0	0	1	0
@@ -16555,7 +16196,6 @@ srpska	serbian	0	0	1	0
 хомосексуалности	homosexual	0	0	1	0
 уклањање	removing	0	0	1	0
 уклањање	remove	0	0	1	0
-масовне	mass	0	0	1	0
 масовне	massive	0	0	1	0
 масовне	massively	0	0	1	0
 албуми	albums	0	0	1	0
@@ -16585,7 +16225,6 @@ srpska	serbian	0	0	1	0
 сида	aids	0	0	1	0
 никакве	no	0	0	1	0
 даље	further	0	0	1	0
-концентрације	concentrations	0	0	1	0
 концентрације	concentration	0	0	1	0
 природа	nature	0	0	1	0
 даљи	further	0	0	1	0
@@ -16598,14 +16237,13 @@ srpska	serbian	0	0	1	0
 догађаје	events	0	0	1	0
 судови	courts	0	0	1	0
 судови	courts of law	0	0	1	0
-догађаја	happenings	0	0	1	0
 догађаја	event	0	0	1	0
+догађаја	happenings	0	0	1	0
 судова	courts	0	0	1	0
 догађаји	events	0	0	1	0
 судове	courts	0	0	1	0
 предвођени	led	0	0	1	0
 предвођени	lead by	0	0	1	0
-врсте	kind	0	0	1	0
 врсте	types	0	0	1	0
 врста	kinds	0	0	1	0
 врста	species	0	0	1	0
@@ -16619,7 +16257,6 @@ srpska	serbian	0	0	1	0
 најмање	least	0	0	1	0
 врсти	type	0	0	1	0
 врсти	species	0	0	1	0
-састава	composition	0	0	1	0
 састава	structure	0	0	1	0
 састава	contents	0	0	1	0
 победника	winner	0	0	1	0
@@ -16644,7 +16281,6 @@ naziv	name	0	0	1	1
 врхунац	top	0	0	1	0
 врхунац	peak	0	0	1	0
 врсту	kind	0	0	1	0
-врсту	type	0	0	1	0
 саставу	composition	0	0	1	0
 саставу	contents	0	0	1	0
 саставу	coposition	0	0	1	0
@@ -16658,15 +16294,13 @@ naziv	name	0	0	1	1
 санкт	saint	0	0	1	0
 концерту	concert	0	0	1	0
 хтео	wanted	0	0	1	0
-хтео	want	0	0	1	0
 рођака	cousin	0	0	1	0
 рођака	relatives	0	0	1	0
 певао	sang	0	0	1	0
 певао	was singing	0	0	1	0
 наредби	command	0	0	1	0
-наредби	order	0	0	1	0
 наредби	orders	0	0	1	0
-−	-	0	0	1	0
+наредби	order	0	0	1	0
 бол	pain	0	0	1	0
 вођен	driven	0	0	1	0
 вођен	conducted	0	0	1	0
@@ -16720,7 +16354,6 @@ naziv	name	0	0	1	1
 дуж	along	0	0	1	0
 вира	vir	0	0	1	0
 вира	vira	0	0	1	0
-враћа	return	0	0	1	0
 враћа	get back	0	0	1	0
 враћа	back	0	0	1	0
 створена	created	0	0	1	0
@@ -16784,7 +16417,6 @@ taj	that	0	0	1	1
 северног	northern	0	0	1	0
 један	one	0	0	1	0
 северном	north	0	0	1	0
-северном	northern	0	0	1	0
 сигнала	signals	0	0	1	0
 сигнала	signal	0	0	1	0
 светац	saint	0	0	1	0
@@ -16802,8 +16434,8 @@ taj	that	0	0	1	1
 једног	one	0	0	1	0
 бици	battle	0	0	1	0
 бици	fight	0	0	1	0
-солунског	salonika	0	0	1	0
 солунског	salonica	0	0	1	0
+солунског	salonika	0	0	1	0
 грчком	greek	0	0	1	0
 грчком	greece	0	0	1	0
 уноси	bring in	0	0	1	0
@@ -16827,7 +16459,6 @@ taj	that	0	0	1	1
 већином	majority	0	0	1	0
 већином	most of	0	0	1	0
 већином	most	0	0	1	0
-њом	it	0	0	1	0
 њом	her	0	0	1	0
 домаћа	domestic	0	0	1	0
 подржава	supports	0	0	1	0
@@ -16835,7 +16466,6 @@ taj	that	0	0	1	1
 прометеј	prometeus	0	0	1	0
 њој	her	0	0	1	0
 немачко	german	0	0	1	0
-пружају	provide	0	0	1	0
 пружају	providing	0	0	1	0
 пружају	give	0	0	1	0
 јединицама	units	0	0	1	0
@@ -16865,7 +16495,6 @@ atmosfere	atmosphere	0	0	1	0
 персијски	persian	0	0	1	0
 науке	science	0	0	1	0
 чији	whose	0	0	1	0
-чији	which	0	0	1	0
 чији	whos	0	0	1	0
 наука	science	0	0	1	0
 значајније	significantly	0	0	1	0
@@ -16879,8 +16508,8 @@ atmosfere	atmosphere	0	0	1	0
 структуре	structures	0	0	1	0
 структуре	structure	0	0	1	0
 исламски	islamic	0	0	1	0
-балкана	balkans	0	0	1	0
 балкана	balkan	0	0	1	0
+балкана	balkans	0	0	1	0
 простиру	spread	0	0	1	0
 простиру	expand	0	0	1	0
 митрополита	metropolitan	0	0	1	0
@@ -16889,7 +16518,8 @@ atmosfere	atmosphere	0	0	1	0
 простире	extends	0	0	1	0
 купу	buy	0	0	1	0
 купу	cup	0	0	1	0
-уништено	destroyed	0	0	1	0
+текстови	texts	0	0	1	0
+текстови	lyrics	0	0	1	0
 балкану	balkans	0	0	1	0
 балкану	the balkan's	0	0	1	0
 балкану	balkan (peninsula)	0	0	1	0
@@ -16916,7 +16546,6 @@ g	g	0	0	1	0
 изведени	taken out	0	0	1	0
 изведено	derived	0	0	1	0
 науку	science	0	0	1	0
-шведске	swedish	0	0	1	0
 шведске	sweden	0	0	1	0
 шведска	sweden	0	0	1	0
 шведски	swedish	0	0	1	0
@@ -17012,7 +16641,6 @@ isbn	isbn	0	0	1	0
 симић	simic	0	0	1	0
 прешла	has crossed	0	0	1	0
 прешла	gone	0	0	1	0
-прешла	passed	0	0	1	0
 срећу	luck	0	0	1	0
 срећу	happy	0	0	1	0
 прешли	crossed	0	0	1	0
@@ -17024,7 +16652,6 @@ isbn	isbn	0	0	1	0
 epizode	episodes	0	0	1	0
 црном	black	0	0	1	0
 црном	negro	0	0	1	0
-војсковођа	army commander	0	0	1	0
 војсковођа	general	0	0	1	0
 војсковођа	military leader	0	0	1	0
 црног	black	0	0	1	0
@@ -17053,8 +16680,7 @@ epizode	episodes	0	0	1	0
 проблема	problems	0	0	1	0
 имати	having	0	0	1	0
 имати	have	0	0	1	0
-јабука	apple	0	0	1	0
-јабука	apples	0	0	1	0
+доста	a lot	0	0	1	0
 сматрало	considered	0	0	1	0
 сматрали	considered	0	0	1	0
 сматрали	concidere	0	0	1	0
@@ -17065,7 +16691,6 @@ epizode	episodes	0	0	1	0
 сматрала	thought	0	0	1	0
 комедије	comedies	0	0	1	0
 религијама	religions	0	0	1	0
-религијама	religion	0	0	1	0
 комедија	comedy	0	0	1	0
 америци	america	0	0	1	0
 троугла	triangle	0	0	1	0
@@ -17089,7 +16714,8 @@ epizode	episodes	0	0	1	0
 градина	fort	0	0	1	0
 румуније	romania	0	0	1	0
 румуније	romany	0	0	1	0
-канаде	canada	0	0	1	0
+процеса	process	0	0	1	0
+процеса	processes	0	0	1	0
 daje	give	0	0	1	0
 daje	gives	0	0	1	0
 канада	canada	0	0	1	0
@@ -17127,7 +16753,6 @@ daje	gives	0	0	1	0
 суштини	essence	0	0	1	0
 суштини	essential	0	0	1	0
 лов	hunt	0	0	1	0
-лов	hunting	0	0	1	0
 опсег	range	0	0	1	0
 опсег	reach	0	0	1	0
 опсег	extent	0	0	1	0
@@ -17141,7 +16766,6 @@ daje	gives	0	0	1	0
 дивља	wild	0	0	1	0
 донело	brought	0	0	1	0
 посматра	observed	0	0	1	0
-посматра	observe	0	0	1	0
 посматра	watching	0	0	1	0
 млечани	venetians	0	0	1	0
 саставни	integral	0	0	1	0
@@ -17156,8 +16780,8 @@ tuja	tuja	1	0	1	0
 tuja	thuja	1	1	0	1
 joj	ouch	0	0	1	0
 joj	her	0	0	1	0
-зна	know	0	0	1	0
 зна	knows	0	0	1	0
+зна	know	0	0	1	0
 илије	eli	0	0	1	0
 илије	ilija	0	0	1	0
 папе	pope	0	0	1	0
@@ -17194,7 +16818,6 @@ joj	her	0	0	1	0
 језгру	core	0	0	1	0
 православна	ortodox	0	0	1	0
 православна	orthodox	0	0	1	0
-православне	ortodox	0	0	1	0
 православне	orthodox	0	0	1	0
 православни	orthodox	0	0	1	0
 хроника	cronicle	0	0	1	0
@@ -17213,12 +16836,10 @@ joj	her	0	0	1	0
 језици	languages	0	0	1	0
 законе	laws	0	0	1	0
 загреб	zagreb	0	0	1	0
-око	about	0	0	1	0
 око	eye	0	0	1	0
 око	around	0	0	1	0
 плодно	fruitfull	0	0	1	0
 плодно	fertile	0	0	1	0
-награде	reward	0	0	1	0
 награде	award	0	0	1	0
 развила	developed	0	0	1	0
 византинци	byzantines	0	0	1	0
@@ -17237,7 +16858,6 @@ joj	her	0	0	1	0
 ахондроплазија	ahondroplasia	1	1	0	0
 ахондроплазија	spain	1	0	1	0
 крајеве	regions	0	0	1	0
-крајеве	parts	0	0	1	0
 лозница	loznitsa	0	0	1	0
 лозница	loznica	0	0	1	0
 крајеви	regions	0	0	1	0
@@ -17297,6 +16917,8 @@ još	still	0	0	1	1
 василија	vasilia	0	0	1	0
 василија	vasilije	0	0	1	0
 василија	vasili	0	0	1	0
+мале	little	0	0	1	0
+мале	mala	0	0	1	0
 посебних	special	0	0	1	0
 василије	basil	0	0	1	0
 василије	vasilije	0	0	1	0
@@ -17317,9 +16939,8 @@ još	still	0	0	1	1
 истог	same	0	0	1	0
 tcp	tcp	0	0	1	0
 изван	out of	0	0	1	0
-изван	outside	0	0	1	0
-изван	beyond	0	0	1	0
 изван	over	0	0	1	0
+изван	beyond	0	0	1	0
 дозвољено	allowed	0	0	1	0
 управу	management	0	0	1	0
 управу	administration	0	0	1	0
@@ -17369,7 +16990,8 @@ tcp	tcp	0	0	1	0
 истој	same	0	0	1	0
 управе	administration	0	0	1	0
 управе	government	0	0	1	0
-ваздушном	air	0	0	1	0
+данас	nowadays	0	0	1	0
+данас	today	0	0	1	0
 управа	management	0	0	1	0
 управа	administration	0	0	1	0
 управа	rule	0	0	1	0
@@ -17467,8 +17089,8 @@ nalazi	situated	0	0	1	0
 заробљен	trapped	0	0	1	0
 заробљен	imprisoned	0	0	1	0
 заробљен	was captured	0	0	1	0
-данашњих	today	0	0	1	0
-данашњих	today's	0	0	1	0
+веже	binds	0	0	1	0
+веже	connects	0	0	1	0
 одлучио	decided	0	0	1	0
 одлучио	decide	0	0	1	0
 тржишта	markets	0	0	1	0
@@ -17479,7 +17101,6 @@ nalazi	situated	0	0	1	0
 грчка	greece	0	0	1	0
 порука	message	0	0	1	0
 van	d. van nostrand company	0	0	1	0
-van	van	0	0	1	0
 поруке	message	0	0	1	0
 поруке	messages	0	0	1	0
 владао	ruled	0	0	1	0
@@ -17493,10 +17114,8 @@ van	van	0	0	1	0
 преноса	transfer	0	0	1	0
 преносе	transmit	0	0	1	0
 преносе	bring	0	0	1	0
-преносе	transmitted	0	0	1	0
 облицима	shapes	0	0	1	0
 облицима	forms	0	0	1	0
-преноси	informing	0	0	1	0
 преноси	transfers	0	0	1	0
 преноси	relays	0	0	1	0
 снагама	forces	0	0	1	0
@@ -17528,11 +17147,9 @@ kojima	which	0	0	1	0
 праг	prague {city}	0	0	1	0
 злочин	crime	0	0	1	0
 посланик	member of parliament	0	0	1	0
-посланик	representative	0	0	1	0
 посланик	legate	0	0	1	0
 заштите	protection	0	0	1	0
 омогућила	provided	0	0	1	0
-омогућила	enabled	0	0	1	0
 омогућила	allow	0	0	1	0
 критичари	critics	0	0	1	0
 шума	noise	0	0	1	0
@@ -17579,7 +17196,6 @@ kojima	which	0	0	1	0
 изградња	building	0	0	1	0
 изградња	construction	0	0	1	0
 андроника	andronikos	0	0	1	0
-андроника	andronicus	0	0	1	0
 андроника	andronik	0	0	1	0
 партија	party	0	0	1	0
 изградње	building	0	0	1	0
@@ -17597,4 +17213,3 @@ kojima	which	0	0	1	0
 отпор	resist	0	0	1	0
 отпор	resistance	0	0	1	0
 доказује	proves	0	0	1	0
-доказује	prove	0	0	1	0

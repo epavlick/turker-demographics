@@ -87,7 +87,6 @@ meedoen	participate	0	0	1	1
 dorp	village	0	0	1	1
 thumb|left|px|de	thumb	0	0	1	0
 tibetaans	tibetan	0	0	1	1
-here	here	0	0	1	0
 china	china - proper noun - country	0	0	1	0
 china	country in eastern asia	0	0	1	0
 china	china	0	0	1	1
@@ -112,7 +111,7 @@ golden	golden	0	0	1	0
 golden	gouden	0	0	1	0
 carl	carl	0	0	1	0
 nogmaals	again	0	0	1	1
-hamas	hamas	0	0	1	0
+unie	union	0	0	1	1
 sterk	strongly	0	0	1	1
 sterk	strong	0	0	1	1
 beginnende	novice	0	0	1	0
@@ -156,19 +155,15 @@ bestemmingen	destinations	0	0	1	0
 hold	hold	0	0	1	0
 stadsrechten	city ​​rights	0	0	1	0
 stadsrechten	city rights	0	0	1	0
-wenen	weep	0	0	1	1
 wenen	vienna	0	0	1	1
 temperaturen	temperatures	0	0	1	0
-zieke		0	0	1	0
-zieke	ill	0	0	1	0
-zieke	sick	0	0	1	0
 informele	informal	0	0	1	0
 onvrede	dissatisfaction	0	0	1	0
 archieven	archieves	0	0	1	0
 archieven	archives	0	0	1	0
 middellandse	mediterranean	0	0	1	0
 kantoren	offices	0	0	1	0
-wand	wall	0	0	1	1
+aantrekken	tighten	0	0	1	1
 voetbalelftal	football team	0	0	1	0
 voetbalelftal	soccer team	0	0	1	0
 gezeten	been	0	0	1	0
@@ -235,8 +230,8 @@ vermoeden	presumption	0	0	1	1
 vermoeden	suspicion	0	0	1	0
 middelbaar	middle	0	0	1	1
 middelbaar	secondary	0	0	1	0
-wint	wins	0	0	1	0
 wint	win	0	0	1	0
+wint	wins	0	0	1	0
 alias	alias	0	0	1	1
 wetenschappen	sciences	0	0	1	0
 wetenschappen	studies	0	0	1	1
@@ -290,7 +285,6 @@ zijnde	being	0	0	1	1
 zijnde	are	0	0	1	0
 ingrid	ingrid	0	0	1	0
 grammatica	grammar	0	0	1	1
-roltong	rolling tongue	0	0	1	0
 roltong	rolling tong	0	0	1	0
 bouwkunst	architecture	0	0	1	0
 zuid	south	0	0	1	1
@@ -298,7 +292,6 @@ series	series	0	0	1	0
 zeeuwse	zeeland	0	0	1	0
 zeeuwse	zeeuwse	0	0	1	0
 afwijkingen	deviation	0	0	1	0
-afwijkingen	derogations	0	0	1	0
 afwijkingen	abnomality	0	0	1	0
 snelweg	highway	0	0	1	0
 toegankelijk	accessible	0	0	1	1
@@ -388,7 +381,6 @@ gewassen	crops	0	0	1	0
 legt	answerable - 2nd sentence	0	0	1	0
 legt	lays	0	0	1	0
 legt	applies - 1st sentence	0	0	1	0
-legt	concentrates	0	0	1	0
 genesis	genesis	0	0	1	1
 mythische	mythical	0	0	1	0
 presentatie	presentation	0	0	1	1
@@ -403,13 +395,10 @@ gemeente	municipal	0	0	1	0
 meende	thought	0	0	1	0
 meende	presumed	0	0	1	0
 trek	popular	0	0	1	0
-trek	migration	0	0	1	1
 insuline	insuline	0	0	1	0
 insuline	insulin	0	0	1	1
-korsakov	surname)	0	0	1	0
-korsakov	korsakoff	0	0	1	0
-korsakov	korsakov	0	0	1	0
-korsakov	korsakov (proper noun	0	0	1	0
+hoeken	corners	0	0	1	0
+hoeken	angles	0	0	1	0
 ontvingen	received	0	0	1	0
 ontvingen	recieved	0	0	1	0
 tree	tree	0	0	1	0
@@ -504,7 +493,6 @@ panama	panama	0	0	1	1
 valleien	valleys	0	0	1	0
 kortere	shorter	0	0	1	0
 minimale	minimum	0	0	1	0
-minimale	minimal	0	0	1	0
 noorwegen	norwegia	0	0	1	0
 noorwegen	norway	0	0	1	1
 twee	two	0	0	1	1
@@ -515,14 +503,12 @@ zusters	sisters	0	0	1	0
 hartslag	heartbeat	0	0	1	1
 ziekenhuizen	hospitals	0	0	1	0
 bedoeling	intention	0	0	1	1
-bedoeling	meaning	0	0	1	1
 bedoeling	intent	0	0	1	0
 omwille	because	0	0	1	0
 orleans	orleans	0	0	1	0
 neurologische	neurological	0	0	1	0
 louise	louise	0	0	1	0
 menu	menu	0	0	1	1
-portugezen	portuguese	0	0	1	0
 mens	human	0	0	1	0
 mens	man	0	0	1	1
 rihanna	rihanna	0	0	1	0
@@ -539,7 +525,8 @@ gemeentelijke	municipal	0	0	1	0
 aardbevingen	earthquake	0	0	1	0
 aardbevingen	earthquakes	0	0	1	0
 heldere	clear	0	0	1	0
-new	new	0	0	1	0
+geloven	believe	0	0	1	1
+geloven	beliefs	0	0	1	0
 gezongen	sang	0	0	1	0
 gezongen	been sung	0	0	1	0
 gezongen	sung	0	0	1	0
@@ -564,8 +551,6 @@ kapitaal	capital	0	0	1	1
 vacuüm	vacuum	0	0	1	1
 gedateerd	date back to	0	0	1	0
 gedateerd	dated back	0	0	1	0
-gedateerd	dated	0	0	1	0
-bluray	blu-ray	0	0	1	0
 hypotheken	mortgages	0	0	1	0
 fair	jaarmarkt/ eerlijk	0	0	1	0
 job	job	0	0	1	0
@@ -593,7 +578,6 @@ belast	charged	0	0	1	0
 gebruikelijke	usual	0	0	1	0
 pirate	pirate	0	0	1	0
 pirate	piraat	0	0	1	0
-rollen	peal	0	0	1	1
 rollen	rolls	0	0	1	0
 rollen	roles	0	0	1	0
 lamas	lamas	0	0	1	0
@@ -627,9 +611,8 @@ suggereert	suggests	0	0	1	0
 scènes	scenes	0	0	1	0
 aandeel	part	0	0	1	1
 aandeel	share	0	0	1	1
-schotse	scottich	0	0	1	0
 schotse	scotswoman	0	0	1	1
-schotse	scottish	0	0	1	0
+schotse	scottich	0	0	1	0
 soort	kind	0	0	1	1
 soort	race	0	0	1	0
 soort	species	0	0	1	0
@@ -672,7 +655,6 @@ zich	self	0	0	1	0
 zich	himself	0	0	1	1
 vloot	fleet	0	0	1	1
 dave	dave	0	0	1	0
-lift	lift	0	0	1	1
 lift	elevator	0	0	1	1
 child	shield	0	0	1	0
 child	child	0	0	1	0
@@ -684,7 +666,6 @@ optische	optic	0	0	1	0
 herhaling	repetition	0	0	1	1
 herhaling	repeat	0	0	1	1
 herhaling	repitition	0	0	1	0
-linkin	linkin	0	0	1	0
 veronderstelling	presumption	0	0	1	1
 veronderstelling	assumption	0	0	1	0
 technieken	techniques	0	0	1	0
@@ -693,7 +674,6 @@ alpen	alps	0	0	1	1
 alpen	mountain range in southern europe stretching from southern germany through austria and switzerland down to italy and southern france	0	0	1	0
 calcium	calcium	0	0	1	1
 tezamen	together	0	0	1	1
-borstkanker	breatcancer	0	0	1	0
 borstkanker	breast cancer	0	0	1	0
 manen	moons	0	0	1	0
 uitvoer	export	0	0	1	1
@@ -703,7 +683,8 @@ bevrucht	fertilize	0	0	1	0
 bevrucht	fertilized	0	0	1	0
 overleefde	survived	0	0	1	0
 player	player	0	0	1	0
-piercings	piercings	0	0	1	0
+commissaris	commissioner	0	0	1	1
+commissaris	commissaris	0	0	1	0
 bibliotheek	library	0	0	1	1
 confederatie	confederation	0	0	1	1
 madonna	madonna	0	0	1	1
@@ -711,7 +692,7 @@ hond	dog	0	0	1	1
 hong	hong	0	0	1	0
 fotos	pictures	0	0	1	0
 fotos	photos	0	0	1	0
-minderheid	minority	0	0	1	1
+thumb|left|de	thumb / left / the	0	0	1	0
 opgevoerd	intensified	0	0	1	0
 opgevoerd	increased	0	0	1	0
 provinciale	provincial	0	0	1	0
@@ -730,7 +711,7 @@ waarover	about	0	0	1	0
 waarover	which	0	0	1	0
 voyager	voyager	0	0	1	0
 inwoners	inhabitants	0	0	1	0
-koning	king	0	0	1	1
+constantijn	constantine	0	0	1	0
 openingen	openings	0	0	1	0
 hoewel	however	0	0	1	0
 hoewel	although	0	0	1	1
@@ -740,8 +721,8 @@ klimaten	climates	0	0	1	0
 verbetering	improvement	0	0	1	1
 hongaars	hongarian	0	0	1	0
 hongaars	hungarian	0	0	1	1
-kaarten	cards	0	0	1	0
-kaarten	maps	0	0	1	0
+geschiedschrijving	historiography	0	0	1	0
+geschiedschrijving	history writing	0	0	1	0
 schildpadden	tortoise	0	0	1	1
 schildpadden	turtles	0	0	1	0
 symboliek	symbolism	0	0	1	1
@@ -793,7 +774,7 @@ schiereiland	peninsula	0	0	1	1
 prison	prison	0	0	1	0
 pyreneeën	pyrenees	0	0	1	1
 pyreneeën	pyreneeen	0	0	1	0
-east	east	0	0	1	0
+has	has	0	0	1	0
 apparatuur	equipment	0	0	1	0
 apparatuur	devices	0	0	1	0
 tekens	characters	0	0	1	0
@@ -804,7 +785,7 @@ snelheden	speeds	0	0	1	0
 parlementen	parliaments	0	0	1	0
 parlementen	parlements	0	0	1	0
 keizerrijk	empire	0	0	1	1
-unie	union	0	0	1	1
+hamas	hamas	0	0	1	0
 verschijning	appearance	0	0	1	1
 vestigde	settled down	0	0	1	0
 vestigde	to set	0	0	1	0
@@ -826,7 +807,6 @@ people	people	0	0	1	0
 gentse	ghent	0	0	1	0
 gentse	from gent	0	0	1	0
 crown	crown	0	0	1	0
-begin	begin	0	0	1	0
 begin	beginning	0	0	1	1
 aangevuld	supplemented	0	0	1	0
 aangevuld	completed	0	0	1	0
@@ -843,7 +823,6 @@ daaropvolgende	subsequent	0	0	1	0
 besproken	discussed	0	0	1	0
 witte	white	0	0	1	0
 uitvoering	implementation	0	0	1	1
-uitvoering	enactment	0	0	1	0
 aanloop	run-up	0	0	1	1
 bezoeken	visit	0	0	1	1
 bezoeken	visits	0	0	1	0
@@ -898,12 +877,10 @@ bedraagt	amounts	0	0	1	0
 bedraagt	is	0	0	1	0
 waffenss	waffenss	0	0	1	0
 waffenss	waffen ss	0	0	1	0
-ontspringen	have their source	0	0	1	0
 ontspringen	originate from	0	0	1	0
 ontspringen	arise	0	0	1	0
 luxemburgse	luxembourg	0	0	1	0
 verwijst	refers	0	0	1	0
-verwijst	referring	0	0	1	0
 verwijst	points to	0	0	1	0
 geleedpotigen	athropods	0	0	1	0
 geleedpotigen	arthropods	0	0	1	0
@@ -914,7 +891,6 @@ homo	gay	0	0	1	0
 jane	jane	0	0	1	0
 music	music	0	0	1	0
 overhand	upper hand	0	0	1	1
-overhand	upperhand	0	0	1	0
 happy	happy	0	0	1	0
 afgenomen	decline	0	0	1	0
 afgenomen	take away	0	0	1	0
@@ -943,7 +919,6 @@ pest	pest	0	0	1	1
 pest	plague	0	0	1	1
 richtte	directed	0	0	1	0
 richtte	set up - 5th sentence	0	0	1	0
-richtte	aimed	0	0	1	0
 richtte	aimed - 1st and 4th sentence	0	0	1	0
 duet	duet	0	0	1	1
 later	later	0	0	1	1
@@ -951,13 +926,13 @@ later	later on	0	0	1	1
 discriminatie	discrimination	0	0	1	1
 discriminatie	discriminate	0	0	1	0
 moderne	modern	0	0	1	0
-situatie	situation	0	0	1	1
+drietal	threesome	0	0	1	1
+drietal	trio	0	0	1	0
 utc	utc	0	0	1	0
 utc	gmt	0	0	1	0
 erfelijk	hereditary	0	0	1	1
 beeldende	visual	0	0	1	0
 beeldende	expressive	0	0	1	0
-alignleft	align left	0	0	1	0
 alignleft	align:left	0	0	1	0
 leer	doctrine	0	0	1	1
 leer	learn	0	0	1	0
@@ -1021,7 +996,6 @@ restauratie	repairs	0	0	1	0
 restauratie	restauration	0	0	1	0
 theaters	theatres	0	0	1	0
 theaters	theaters	0	0	1	0
-coude	coude	0	0	1	0
 geladen	loaded	0	0	1	0
 geladen	charged	0	0	1	0
 traditionele	traditional	0	0	1	0
@@ -1045,16 +1019,12 @@ poort	gate	0	0	1	1
 poort	port	0	0	1	1
 kensei	kensei	0	0	1	0
 |||align=left|the	///lijn uit=links/de	0	0	1	0
-|||align=left|the	| | | align = left | the	0	0	1	0
 nagelaten	left behind	0	0	1	0
 nagelaten	left	0	0	1	0
-staatkundige	political	0	0	1	0
-staatkundige	state officer	0	0	1	0
-staatkundige	constitutional	0	0	1	0
 liggende	lying	0	0	1	0
 aflevering	delivery	0	0	1	1
 aflevering	episode	0	0	1	1
-flora	flora	0	0	1	1
+rook	smoke	0	0	1	1
 stichtte	founded	0	0	1	0
 stichtte	found	0	0	1	0
 ethisch	ethical	0	0	1	1
@@ -1109,8 +1079,8 @@ olifant	elephant	0	0	1	1
 gewrichten	joints	0	0	1	0
 melk	milk	0	0	1	1
 uitstekende	excellent	0	0	1	0
-vijftig	fiftig	0	0	1	0
 vijftig	fifty	0	0	1	1
+vijftig	fiftig	0	0	1	0
 oorzaken	causes	0	0	1	0
 kusten	coasts	0	0	1	0
 waarschuwing	warning	0	0	1	1
@@ -1141,7 +1111,8 @@ melkweg	galaxy	0	0	1	1
 melkweg	milkyway	0	0	1	0
 uitgesloten	excluted	0	0	1	0
 uitgesloten	excluded	0	0	1	0
-taalgrens	language border	0	0	1	0
+anna	anna - proper noun - first name	0	0	1	0
+anna	anna	0	0	1	0
 taalgrens	language barrier	0	0	1	0
 studies	studies	0	0	1	0
 love	love	0	0	1	0
@@ -1166,18 +1137,15 @@ vrijgelaten	let off	0	0	1	0
 vrijgelaten	release	0	0	1	0
 vrijgelaten	let fly	0	0	1	0
 vrijgelaten	liberate	0	0	1	0
-aantrekken	improving	0	0	1	0
-aantrekken	tighten	0	0	1	1
-aantrekken	to appeal	0	0	1	0
+wand	wall	0	0	1	1
 stadstaat	city state	0	0	1	0
 stadstaat	citystate	0	0	1	0
 only	only	0	0	1	0
-gekweekt	cultured	0	0	1	0
-gekweekt	cultivated	0	0	1	0
+basisschool	elementary school	0	0	1	0
+basisschool	primary school	0	0	1	0
 films	films	0	0	1	0
 films	movies	0	0	1	0
 voelen	feel	0	0	1	1
-voelen	to feel	0	0	1	0
 voelen	felt	0	0	1	0
 religies	religions	0	0	1	0
 meneer	mr.	0	0	1	1
@@ -1229,7 +1197,6 @@ dosis	exist	1	0	1	0
 dosis	dosage	1	1	0	1
 dosis	exists	1	0	1	0
 dosis	dose	1	1	1	1
-nicolaas	nicholas	0	0	1	0
 nicolaas	nicolaas	0	0	1	0
 kritisch	critical	0	0	1	1
 kritisch	critically	0	0	1	1
@@ -1245,8 +1212,8 @@ machten	powers	0	0	1	0
 machten	forces	0	0	1	0
 bernini	bernini	0	0	1	0
 korte	short	0	0	1	0
-helder	clear	0	0	1	1
 helder	bright	0	0	1	1
+helder	clear	0	0	1	1
 edinburgh	edinburgh	0	0	1	0
 oorlogen	wars	0	0	1	0
 ondersteunen	support	0	0	1	1
@@ -1272,7 +1239,6 @@ bestaan	remained - 2nd sentence	0	0	1	0
 st	st.	0	0	1	0
 st	saint	0	0	1	0
 st	st	0	0	1	0
-si	si	0	0	1	1
 generaties	generations	0	0	1	0
 so	so	0	0	1	0
 bestaat	consists	0	0	1	0
@@ -1282,7 +1248,6 @@ sc	sc	0	0	1	0
 sc	sports club	0	0	1	0
 sa	sa	0	0	1	0
 afgevoerd	drain off	0	0	1	0
-afgevoerd	drained	0	0	1	0
 afgevoerd	discharged	0	0	1	0
 sd	sd	0	0	1	0
 slakhoorn	slakhoorn	0	0	1	0
@@ -1310,7 +1275,7 @@ onderhoud	ovderhoud	0	0	1	0
 onderhoud	maintenance	0	0	1	1
 jim	jim	0	0	1	0
 jij	you	0	0	1	1
-frankische	frankish	0	0	1	0
+hedendaagse	contemporary	0	0	1	0
 museo	museo	0	0	1	0
 belandde	ended	0	0	1	0
 belandde	ended up	0	0	1	0
@@ -1378,7 +1343,7 @@ duizendknoop	burial	1	0	1	0
 duizendknoop	knotweeds	1	0	1	0
 duizendknoop	polygonum	1	1	0	0
 duizendknoop	knotwheel	1	0	1	0
-soortgelijke	similar	0	0	1	0
+trauma	trauma	0	0	1	1
 internet	internet	0	0	1	0
 instituut	institute	0	0	1	1
 formule	formula	0	0	1	1
@@ -1412,7 +1377,6 @@ punk	punk	0	0	1	0
 misdrijven	crimes	0	0	1	0
 enerzijds	on the one hand	0	0	1	0
 enerzijds	unilaterally	0	0	1	0
-statengeneraal	staten-generaal	0	0	1	0
 statengeneraal	estates general	0	0	1	0
 statengeneraal	states-general	0	0	1	0
 punt	point	0	0	1	1
@@ -1429,7 +1393,6 @@ velde	velde - proper noun - surname	0	0	1	0
 velde	velde	0	0	1	0
 parkinson	parkinson's	0	0	1	0
 parkinson	parkinson	0	0	1	0
-parkinson	parcinson	0	0	1	0
 duitsland	germany	0	0	1	1
 zuidwesten	south west	0	0	1	0
 zuidwesten	southwest	0	0	1	0
@@ -1451,9 +1414,9 @@ schapen	sheep	0	0	1	1
 steunen	support	0	0	1	1
 landschappen	landscapes	0	0	1	0
 williams	williams	0	0	1	0
-spreuk	saying	0	0	1	1
-spreuk	motto	0	0	1	0
 spreuk	proverb	0	0	1	0
+spreuk	motto	0	0	1	0
+spreuk	saying	0	0	1	1
 zwakte	weakness	0	0	1	1
 nadruk	emphasis	0	0	1	1
 nadruk	accent	0	0	1	1
@@ -1487,14 +1450,16 @@ san	san	0	0	1	0
 sam	sam	0	0	1	0
 argument	argument	0	0	1	1
 deutsche	german	0	0	1	0
+wielrenner	cyclist	0	0	1	0
+wielrenner	bicyclist	0	0	1	0
 say	say	0	0	1	0
 allen	all	0	0	1	0
 turner	turner	0	0	1	0
 hoeveel	how many	0	0	1	1
 synagoge	synagogue	0	0	1	1
 synagoge	congregation of jews for the purpose of worship and religious instruction; building for jewish worship and religious instruction	0	0	1	0
-werken	work	0	0	1	1
-werken	to work	0	0	1	0
+voorstellen	propose	0	0	1	1
+voorstellen	imagine	0	0	1	0
 complicaties	complications	0	0	1	0
 verhoogt	hightens	0	0	1	0
 verhoogt	put up	0	0	1	0
@@ -1508,17 +1473,14 @@ jefferson	jefferson	0	0	1	0
 massa	masses	0	0	1	0
 massa	mass	0	0	1	1
 take	take	0	0	1	0
-afgelopen	finished (2nd sentence)	0	0	1	0
-afgelopen	over	0	0	1	1
-afgelopen	past (in all other cases in the text)	0	0	1	0
-afgelopen	finished	0	0	1	1
+amerikaanse	american	0	0	1	1
 verhoogd	increased	0	0	1	0
 jeugdopleiding	youth training	0	0	1	0
 jeugdopleiding	youth program	0	0	1	0
 overwegend	mainly	0	0	1	0
 overwegend	mostly	0	0	1	1
 overwegend	predominantly	0	0	1	1
-piramide	pyramid	0	0	1	1
+geïnfecteerd	infected	0	0	1	0
 maand	month	0	0	1	1
 noordbrabant	north brabant	0	0	1	0
 arabische	arabic	0	0	1	0
@@ -1538,7 +1500,6 @@ vaste	fixed	0	0	1	0
 vaste	permanent	0	0	1	0
 bewondering	admiration	0	0	1	1
 tijdschrift	magazine	0	0	1	1
-wekken	to arouse	0	0	1	0
 wekken	arouse	0	0	1	1
 vervolg	continuation	0	0	1	1
 vervolg	follow-up	0	0	1	0
@@ -1546,21 +1507,17 @@ oerknal	big bang	0	0	1	0
 eén	one	0	0	1	0
 eeuwig	forever	0	0	1	1
 eeuwig	eternal	0	0	1	1
-stadsbestuur	city counsil	0	0	1	0
 stadsbestuur	city government	0	0	1	0
 stadsbestuur	city administration	0	0	1	0
 madison	madison	0	0	1	0
 fysiek	fysical	0	0	1	0
 fysiek	physical	0	0	1	1
-broers	a man or boy in relation to other sons and daughters of his parents	0	0	1	0
 broers	brothers	0	0	1	0
 gorbatsjov	gorbachev	0	0	1	0
 boekdrukkunst	art of printing	0	0	1	0
-boekdrukkunst	printing	0	0	1	1
 boekdrukkunst	printingpress	0	0	1	0
 letteren	linguistics	0	0	1	0
 letteren	arts	0	0	1	0
-letteren	letters	0	0	1	1
 line	line	0	0	1	0
 verklaring	statement	0	0	1	1
 verklaring	declaration	0	0	1	1
@@ -1630,14 +1587,12 @@ bureau	desk	0	0	1	0
 kunstschilder	art-painter	0	0	1	0
 kunstschilder	painter	0	0	1	0
 rijen	rows	0	0	1	0
-verlicht	light	0	0	1	1
 verlicht	enlightened	0	0	1	0
 verlicht	enlighten	0	0	1	0
 tactiek	tactic	0	0	1	1
 awards	awards	0	0	1	0
 snelst	fastest	0	0	1	0
 langste	longest	0	0	1	0
-krijt	arena	0	0	1	1
 krijt	chalk	0	0	1	1
 krijt	cretaceous period	0	0	1	0
 openbare	public	0	0	1	0
@@ -1649,7 +1604,6 @@ paring	pairing	0	0	1	0
 paring	mating	0	0	1	0
 s	s	0	0	1	0
 frequenties	frequencies	0	0	1	0
-frequenties	frequences	0	0	1	0
 orkanen	hurricanes	0	0	1	0
 oostzee	east sea	0	0	1	0
 oostzee	eastsea	0	0	1	0
@@ -1676,7 +1630,6 @@ buren	neighbours	0	0	1	0
 west	west	0	0	1	1
 beoordeeld	condemned	0	0	1	0
 beoordeeld	criticize	0	0	1	0
-beoordeeld	judged	0	0	1	0
 kranten	newspapers	0	0	1	0
 airlines	airlines	0	0	1	0
 gelezen	read	0	0	1	0
@@ -1706,7 +1659,6 @@ gespannen	tensed	0	0	1	0
 gespannen	tense	0	0	1	1
 bondgenoot	ally	0	0	1	1
 aluminium	aluminium	0	0	1	1
-aluminium	aluminum	0	0	1	1
 woont	live	0	0	1	0
 woont	lives	0	0	1	0
 stadions	stadiums	0	0	1	0
@@ -1731,7 +1683,6 @@ otto	otto	0	0	1	0
 oceanen	oceans	0	0	1	0
 ulcerosa	ulcerative	0	0	1	0
 ludwig	ludwig	0	0	1	0
-vrouwelijk	feminine	0	0	1	1
 vrouwelijk	female	0	0	1	1
 successen	successes	0	0	1	0
 ondernam	undertook	0	0	1	0
@@ -1757,7 +1708,6 @@ vervaardigd	made	0	0	1	0
 vervaardigd	fabricated	0	0	1	0
 woonachtig	resident	0	0	1	1
 woonachtig	living	0	0	1	0
-woonachtig	housed	0	0	1	0
 plaatselijk	locally	0	0	1	1
 plaatselijk	local	0	0	1	1
 genie	genius	0	0	1	1
@@ -1789,14 +1739,12 @@ around	around	0	0	1	0
 uitgestrekte	extended	0	0	1	0
 uitgestrekte	outstretched	0	0	1	0
 uitgestrekte	vast	0	0	1	0
-erbij	on top	0	0	1	0
 erbij	with it	0	0	1	0
 erbij	at	0	0	1	0
 dark	dark	0	0	1	0
 regio	region	0	0	1	1
 erachter	behind	0	0	1	0
 erachter	(to) figure	0	0	1	0
-geruime	some	0	0	1	0
 geruime	significant	0	0	1	0
 geruime	long	0	0	1	0
 darm	intestine	0	0	1	1
@@ -1841,10 +1789,7 @@ ongekende	unknown	0	0	1	0
 ongekende	unprecedented	0	0	1	0
 landschildpadden	tortoise	0	0	1	0
 landschildpadden	turtoise	0	0	1	0
-ddr	ddr	0	0	1	0
-ddr	democratic republic of germany	0	0	1	0
-ddr	east germany gdr	0	0	1	0
-patroon	pattern	0	0	1	1
+primaire	primary	0	0	1	0
 patroon	patron	0	0	1	1
 gewonnen	won	0	0	1	1
 gewonnen	reclaimed	0	0	1	0
@@ -1852,7 +1797,6 @@ doorheen	through	0	0	1	1
 cannabis	cannabis	0	0	1	0
 cannabis	hemp	0	0	1	0
 meisje	girl	0	0	1	1
-nicole	nicole	0	0	1	0
 druppel	drop	0	0	1	1
 power	kracht - 3rd sentence	0	0	1	0
 power	power	0	0	1	0
@@ -1873,12 +1817,12 @@ hollands	dutch	0	0	1	1
 stone	stone	0	0	1	0
 stone	stone (proper noun - surname)	0	0	1	0
 eiwit	protein	0	0	1	1
-kroon	crone	0	0	1	0
 kroon	crown	0	0	1	1
 favorite	favoriet	0	0	1	0
 favorite	favorite	0	0	1	0
 side	side	0	0	1	0
-zangeres	singer	0	0	1	1
+verstandig	with sense	0	0	1	0
+verstandig	sensible	0	0	1	1
 feit	fact	0	0	1	1
 mechelen	mechelen	0	0	1	0
 act	act	0	0	1	0
@@ -1907,7 +1851,8 @@ leven	life	0	0	1	1
 het	the	0	0	1	1
 initiatieven	initatives	0	0	1	0
 initiatieven	initiatives	0	0	1	0
-mythe	myth	0	0	1	1
+lokken	lure	0	0	1	1
+lokken	attract	0	0	1	1
 definiëren	to define	0	0	1	0
 definiëren	define	0	0	1	1
 overeenkomt	covenant	0	0	1	0
@@ -1944,7 +1889,6 @@ toerisme	tourism	0	0	1	1
 secundair	secondary	0	0	1	1
 pulp	pulp	0	0	1	1
 rust	resides	0	0	1	0
-rust	rest	0	0	1	1
 regimes	regimes	0	0	1	0
 aa	aa	0	0	1	0
 gone	gone	0	0	1	0
@@ -1956,7 +1900,6 @@ johnny	johnny	0	0	1	0
 af	of	0	0	1	0
 af	decrease	0	0	1	0
 af	af	0	0	1	0
-ah	ah	0	0	1	0
 verleende	granted	0	0	1	0
 verleende	supplied	0	0	1	0
 am	am	0	0	1	0
@@ -1979,6 +1922,7 @@ veldzuring	rumex acetosa (do not know this word in english)	1	1	0	0
 veldzuring	dock	1	0	1	0
 veldzuring	preserved	1	0	1	0
 veldzuring	are preserved	1	0	1	0
+national	national	0	0	1	0
 partijen	parties	0	0	1	0
 ongenoegen	displeasure	0	0	1	0
 ongenoegen	dissatisfaction	0	0	1	0
@@ -1989,8 +1933,8 @@ geschriften	documents	0	0	1	0
 geschriften	script	0	0	1	0
 middelen	medicines	0	0	1	0
 middelen	means	0	0	1	1
-kwaliteit	kwality	0	0	1	0
 kwaliteit	quality	0	0	1	1
+kwaliteit	kwality	0	0	1	0
 italië	italy	0	0	1	1
 italië	italia	0	0	1	0
 fascisten	fascists	0	0	1	0
@@ -2008,7 +1952,6 @@ uitgegaan	assumed	0	0	1	0
 uitgegaan	started - 4th sentence	0	0	1	0
 uitgegaan	ended up	0	0	1	0
 uitgegaan	assumed - 1st and 6th sentence	0	0	1	0
-voetbal	soccer	0	0	1	1
 voetbal	football	0	0	1	1
 verschillende	different	0	0	1	0
 slang	hose	0	0	1	1
@@ -2032,8 +1975,7 @@ bekendst	best known	0	0	1	0
 bekendst	most famous	0	0	1	0
 bekendst	well known	0	0	1	0
 original	original	0	0	1	0
-weekblad	magazine	0	0	1	0
-weekblad	weekly	0	0	1	1
+minister	minister	0	0	1	1
 getallen	figures	0	0	1	0
 getallen	numbers	0	0	1	0
 influenza	influenza	0	0	1	1
@@ -2061,7 +2003,6 @@ tu	tu (latin!) - you	0	0	1	0
 tu	tu	0	0	1	0
 momenteel	currently	0	0	1	0
 momenteel	presently	0	0	1	0
-to	to	0	0	1	0
 tm	up to and including	0	0	1	0
 tm	till ... to ...	0	0	1	0
 onderzoek	investigation	0	0	1	1
@@ -2089,7 +2030,9 @@ mayas	mayas	0	0	1	0
 mayas	mayas - proper noun	0	0	1	0
 uitgewerkt	developed	0	0	1	0
 uitgewerkt	processed	0	0	1	0
-vlinder	butterfly	0	0	1	1
+daalt	drops	0	0	1	0
+daalt	decreases	0	0	1	0
+daalt	goes down	0	0	1	0
 brein	brain	0	0	1	1
 brein	brein	0	0	1	0
 schade	damage	0	0	1	1
@@ -2106,7 +2049,6 @@ venezuela	venezuela (proper noun - country)	0	0	1	0
 venezuela	venezuela	0	0	1	1
 maastricht	maastricht	0	0	1	0
 bracht	brought	0	0	1	0
-large	large	0	0	1	0
 hierboven	above	0	0	1	1
 harry	harry	0	0	1	0
 small	small	0	0	1	0
@@ -2123,6 +2065,7 @@ chinatown	chinatown	0	0	1	0
 stabiliteit	stability	0	0	1	1
 stabiliteit	fixedness	0	0	1	1
 past	past	0	0	1	0
+tanzania	tanzania	0	0	1	0
 gossip	gossip	0	0	1	0
 gerichte	oriented	0	0	1	0
 gerichte	targeted	0	0	1	0
@@ -2228,7 +2171,7 @@ inzicht	insight (everywhere else in text)	0	0	1	0
 inzicht	insight	0	0	1	1
 inzicht	first sentence)	0	0	1	0
 studenten	students	0	0	1	0
-science	science	0	0	1	0
+klm	klm	0	0	1	0
 malt	malt	0	0	1	0
 oproepen	call	0	0	1	1
 oproepen	calls	0	0	1	0
@@ -2249,10 +2192,10 @@ inwoneraantal	number of inhabitants	0	0	1	0
 inwoneraantal	population	0	0	1	0
 grootmeester	maestro	0	0	1	1
 grootmeester	grandmaster	0	0	1	0
-kerstman	offer	0	0	1	0
+kerstman	santaclause	0	0	1	0
 kerstman	santa	0	0	1	0
 kerstman	father christmas	0	0	1	0
-kerstman	santaclause	0	0	1	0
+kerstman	offer	0	0	1	0
 buis	tube	0	0	1	1
 droeg	contribute	0	0	1	0
 droeg	contributed	0	0	1	0
@@ -2277,14 +2220,11 @@ dromen	dreams	0	0	1	0
 dromen	goal; wish	0	0	1	0
 perzië	persia	0	0	1	0
 gehandicapten	handicapped	0	0	1	0
-gehandicapten	disabled	0	0	1	0
 werkzaam	active	0	0	1	1
-werkzaam	employed	0	0	1	0
 werkzaam	working	0	0	1	1
 twaalfde	12th	0	0	1	0
 twaalfde	twelfth	0	0	1	1
 ontslag	dismissal	0	0	1	1
-ontslag	resignation	0	0	1	1
 theodosius	first name)	0	0	1	0
 theodosius	theodosius (proper noun	0	0	1	0
 theodosius	theodosius	0	0	1	0
@@ -2321,12 +2261,10 @@ westen	west	0	0	1	1
 trade	trade	0	0	1	0
 munteenheid	currency	0	0	1	0
 scott	scott	0	0	1	0
-pand	premises	0	0	1	1
 pand	building	0	0	1	0
 pand	premise	0	0	1	0
 its	it's	0	0	1	0
-zelf	self	0	0	1	1
-zelf	himself	0	0	1	0
+devotie	devotion	0	0	1	0
 vertoond	shown	0	0	1	0
 vertoond	displayed	0	0	1	0
 vertoond	showed	0	0	1	0
@@ -2354,7 +2292,6 @@ coprolalie	corprolalia	1	1	0	0
 coprolalie	coprolaly	1	0	1	0
 coprolalie	internal	1	0	1	0
 coprolalie	inner	1	0	1	0
-verschijnselen	appearances	0	0	1	0
 verschijnselen	symptom	0	0	1	0
 verschijnselen	signs	0	0	1	0
 namelijk	for (5th sentence)	0	0	1	0
@@ -2374,8 +2311,6 @@ reactie	reaction	0	0	1	1
 legendarische	legendary	0	0	1	0
 geschilderd	painted	0	0	1	0
 sigaret	cigarette	0	0	1	1
-sigaret	siggaret	0	0	1	0
-sigaret	sigaret	0	0	1	0
 bepaalt	determines	0	0	1	0
 week	week	0	0	1	1
 england	engeland	0	0	1	0
@@ -2393,7 +2328,6 @@ alweer	again	0	0	1	0
 beschreven	written	0	0	1	0
 beschreven	described	0	0	1	0
 stoffen	dust	0	0	1	1
-stoffen	materials	0	0	1	0
 stoffen	substances	0	0	1	0
 uitermate	extremely	0	0	1	1
 uitermate	particular	0	0	1	0
@@ -2401,7 +2335,6 @@ beroemdste	most famous	0	0	1	0
 verscheen	appeared	0	0	1	0
 latijn	latin	0	0	1	1
 missen	miss	0	0	1	1
-tests	tests	0	0	1	0
 uitgezonderd	excepted	0	0	1	0
 uitgezonderd	except	0	0	1	1
 paddenstoelen	mushrooms	0	0	1	0
@@ -2498,7 +2431,6 @@ freud	freud	0	0	1	0
 bataafse	batavian	0	0	1	0
 aap	monkey	0	0	1	1
 aap	ape	0	0	1	1
-hyde	hyde	0	0	1	0
 taxis	taxi services	0	0	1	0
 taxis	taxis	0	0	1	0
 meent	thinks	0	0	1	0
@@ -2537,18 +2469,15 @@ allebei	both	0	0	1	1
 virus	virus	0	0	1	1
 plan	idea	0	0	1	1
 plan	plan	0	0	1	1
-beslissen	to decide	0	0	1	0
 beslissen	decide	0	0	1	1
 populariteit	popularity	0	0	1	0
 verdwenen	disappeared	0	0	1	0
-primair	primair	0	0	1	0
 primair	primairy	0	0	1	0
 primair	primary	0	0	1	1
-raad	court	0	0	1	0
-raad	council	0	0	1	1
+eigendom	property	0	0	1	1
+eigendom	ownership	0	0	1	1
 kanalen	channels	0	0	1	0
 kanalen	canals	0	0	1	0
-live||||||||||	live	0	0	1	0
 slavische	slavic	0	0	1	0
 ruud	ruud	0	0	1	0
 reliëf	relief	0	0	1	1
@@ -2597,10 +2526,10 @@ lieten	allow	0	0	1	0
 lieten	were	0	0	1	0
 leverde	did	0	0	1	0
 leverde	provided	0	0	1	0
-fatale	lethal	0	0	1	0
-fatale	terminal	0	0	1	0
-fatale	fatal	0	0	1	0
-fatale	deadly; destructive	0	0	1	0
+korsakov	surname)	0	0	1	0
+korsakov	korsakoff	0	0	1	0
+korsakov	korsakov	0	0	1	0
+korsakov	korsakov (proper noun	0	0	1	0
 vaticaan	vatican	0	0	1	1
 eruit	out	0	0	1	1
 eruit	outward	0	0	1	1
@@ -2631,7 +2560,6 @@ honderdduizenden	hundred thousands	0	0	1	0
 honderdduizenden	hundreds of thousands of	0	0	1	0
 filips	filips	0	0	1	0
 sex	sex	0	0	1	0
-kleine	small	0	0	1	0
 see	see	0	0	1	0
 sed	sed	0	0	1	0
 toont	shows	0	0	1	0
@@ -2664,9 +2592,7 @@ beleven	experiencing	0	0	1	0
 beleven	to see	0	0	1	0
 beleven	experience	0	0	1	0
 europe	europe	0	0	1	0
-tamelijk	rather	0	0	1	1
-tamelijk	sufficient	0	0	1	1
-tamelijk	quite	0	0	1	0
+invulling	interpretation	0	0	1	0
 europa	europe	0	0	1	1
 luidde	was called	0	0	1	0
 luidde	was	0	0	1	0
@@ -2687,7 +2613,6 @@ bestverkochte	best sold	0	0	1	0
 bestverkochte	best selling	0	0	1	0
 daarbij	besides	0	0	1	1
 daarbij	thereby	0	0	1	1
-chistorisch	historic	0	0	1	0
 last	suffer	0	0	1	0
 last	burdened	0	0	1	0
 controleren	checking	0	0	1	0
@@ -2701,7 +2626,7 @@ financieel	financial	0	0	1	1
 categorieën	categories	0	0	1	0
 bell	bell	0	0	1	0
 psychoanalyse	psychoanalysis	0	0	1	1
-jeruzalem	jerusalem	0	0	1	1
+dialecten	dialects	0	0	1	0
 leon	leon - proper noun - first name	0	0	1	0
 leon	leon	0	0	1	0
 church	church	0	0	1	0
@@ -2717,9 +2642,9 @@ convectie	convection	0	0	1	1
 koeman	koeman	0	0	1	0
 koeman	koemand	0	0	1	0
 belang	importance	0	0	1	1
-belang	interest	0	0	1	1
-scherm	screen	0	0	1	1
-scherm	a condition of being protected	0	0	1	0
+plaatsje	place	0	0	1	0
+plaatsje	small town	0	0	1	0
+plaatsje	village	0	0	1	0
 scherp	sharp	0	0	1	1
 indiaanse	indian	0	0	1	0
 harmonie	harmony	0	0	1	1
@@ -2731,8 +2656,7 @@ verwijzen	address	0	0	1	1
 hawking	hawking	0	0	1	0
 biedt	offers	0	0	1	0
 biedt	provides	0	0	1	0
-opstelling	setup	0	0	1	0
-opstelling	position / attitude	0	0	1	0
+maken	make	0	0	1	1
 nrc	nrc	0	0	1	0
 onrechte	unjustly	0	0	1	0
 onrechte	wrongly	0	0	1	0
@@ -2766,7 +2690,6 @@ casino	casino	0	0	1	1
 voc	voc	0	0	1	0
 vol	full	0	0	1	1
 vol	endure	0	0	1	0
-von	von	0	0	1	0
 owen	first name or surname)	0	0	1	0
 owen	owen (proper noun	0	0	1	0
 owen	owen	0	0	1	0
@@ -2775,7 +2698,6 @@ vos	fox	0	0	1	1
 vos	vos	0	0	1	0
 integratie	integration	0	0	1	0
 madagaskar	madagascar	0	0	1	0
-madagaskar	malagasy	0	0	1	1
 chase	chase	0	0	1	0
 probeert	tries	0	0	1	0
 probeert	tries to	0	0	1	0
@@ -2815,8 +2737,9 @@ zoete	sweet	0	0	1	0
 kelly	kelly	0	0	1	0
 johan	johan	0	0	1	0
 beleg	siege	0	0	1	1
+regionale	regional	0	0	1	0
 sacramenten	sacraments	0	0	1	0
-thumb|links|px|de	thumb links px de	0	0	1	0
+portugezen	portuguese	0	0	1	0
 joden	jews	0	0	1	0
 boer	boer (name)	0	0	1	0
 boer	boer	0	0	1	1
@@ -2825,8 +2748,8 @@ manier	way	0	0	1	1
 manier	that way	0	0	1	0
 leefden	lived	0	0	1	0
 gallia	gallia	0	0	1	0
-gallia	gaul	0	0	1	0
 gallia	gallia - part of proper noun	0	0	1	0
+gallia	gaul	0	0	1	0
 sociaaldemocratische	social democratic	0	0	1	0
 hercules	hercules	0	0	1	1
 boek	book	0	0	1	1
@@ -2842,13 +2765,14 @@ christendom	the collective body of christians through the world and history	0	0	
 christendom	christianity	0	0	1	1
 psv	psv	0	0	1	0
 misbruik	abuse	0	0	1	1
-tante	aunt	0	0	1	1
+tevens	also	0	0	1	1
+tevens	as well as	0	0	1	0
 andorra	andorra	0	0	1	0
 gelovigen	believers	0	0	1	0
 gelovigen	religists	0	0	1	0
 sydney	sydney	0	0	1	0
-kalksteen	limestone	0	0	1	1
-kalksteen	chalkstone	0	0	1	1
+diende	served	0	0	1	0
+diende	was	0	0	1	0
 vijftiende	fifteenth	0	0	1	1
 verhuizen	to move	0	0	1	0
 verhuizen	move	0	0	1	1
@@ -2861,7 +2785,6 @@ heilige	sacred	0	0	1	0
 heilige	holy	0	0	1	0
 werkloosheid	unemployment	0	0	1	1
 plotseling	suddenly	0	0	1	1
-seattle	seattle	0	0	1	0
 kantoor	office	0	0	1	1
 d	d	0	0	1	1
 werelddeel	continent	0	0	1	1
@@ -2880,13 +2803,11 @@ afhankelijkheid	dependence	0	0	1	1
 afhankelijkheid	independence	0	0	1	0
 queens	queens	0	0	1	0
 persoonlijk	personal	0	0	1	1
-zorgden	cared for	0	0	1	0
 zorgden	fascilitate	0	0	1	0
 zorgden	took care of	0	0	1	0
 leraren	teachers	0	0	1	0
 methode	method	0	0	1	1
 residentie	residence	0	0	1	1
-residentie	residention	0	0	1	0
 opname	recording	0	0	1	0
 opname	incorporation	0	0	1	1
 opname	shot	0	0	1	1
@@ -2948,7 +2869,6 @@ zenuwstelsel	nerval system	0	0	1	0
 zenuwstelsel	nervous system	0	0	1	0
 by	door (2nd sentence)	0	0	1	0
 behaalde	obtained	0	0	1	0
-uitgesteld	deferred	0	0	1	1
 uitgesteld	postponed	0	0	1	0
 coureurs	racing driver	0	0	1	0
 coureurs	drivers	0	0	1	0
@@ -2968,6 +2888,7 @@ socialistisch	socialistical	0	0	1	0
 socialistisch	socialist	0	0	1	1
 servers	servers	0	0	1	0
 scoort	scores	0	0	1	0
+dame	lady	0	0	1	1
 plotdata=	plotdata	0	0	1	0
 vaak	often	0	0	1	1
 vaag	vague	0	0	1	1
@@ -2983,7 +2904,6 @@ chr	ad (anno domini)	0	0	1	0
 plotarea	plot area	0	0	1	0
 ontving	recieved	0	0	1	0
 ontving	received	0	0	1	0
-destijds	at that time	0	0	1	0
 destijds	at the time	0	0	1	0
 destijds	time	0	0	1	0
 opent	opens	0	0	1	0
@@ -2998,7 +2918,6 @@ zorgvuldig	careful	0	0	1	1
 zorgvuldig	careful - 2nd sentence	0	0	1	0
 zorgvuldig	with care - 4th sentence	0	0	1	0
 link	link	0	0	1	0
-ministerie	department	0	0	1	0
 ministerie	ministery	0	0	1	0
 ministerie	ministry	0	0	1	1
 herinnert	reminds	0	0	1	0
@@ -3009,7 +2928,6 @@ eventueel	eventual	0	0	1	1
 zeeklimaat	oceanic climate	0	0	1	0
 zeeklimaat	sea climate	0	0	1	0
 heinrich	heinrich	0	0	1	0
-heinrich	hienrich	0	0	1	0
 traumatische	traumatic	0	0	1	0
 cia	cia	0	0	1	0
 tradities	traditions	0	0	1	0
@@ -3042,6 +2960,7 @@ armstrong	armstrong	0	0	1	0
 wél	well	0	0	1	0
 wél	surely are	0	0	1	0
 chan	chan	0	0	1	0
+voorronde	qualifying round	0	0	1	0
 argentijnse	argentinian	0	0	1	0
 argentijnse	argentine	0	0	1	0
 bezichtigen	see	0	0	1	1
@@ -3050,8 +2969,8 @@ bezichtigen	view	0	0	1	1
 diverse	diverse	0	0	1	0
 diverse	several	0	0	1	0
 streken	regions	0	0	1	0
-belasting	taxes	0	0	1	0
 belasting	burden	0	0	1	0
+belasting	taxes	0	0	1	0
 belasting	weight	0	0	1	0
 doe	do	0	0	1	0
 doe	hinde	0	0	1	0
@@ -3087,8 +3006,8 @@ kwestie	question	0	0	1	1
 verhuisde	moved	0	0	1	0
 doorgang	passege	0	0	1	0
 doorgang	passage	0	0	1	1
-wenst	wishes	0	0	1	0
 wenst	grants	0	0	1	0
+wenst	wishes	0	0	1	0
 springsteen	springsteen	0	0	1	0
 lang	long	0	0	1	1
 lane	lane	0	0	1	0
@@ -3118,18 +3037,17 @@ uitgaat	takes as point of departure	0	0	1	0
 uitgaat	based	0	0	1	0
 uitgaat	assumes	0	0	1	0
 evolutie	evolution	0	0	1	1
-sterktes	strength	0	0	1	0
-sterktes	strenghts	0	0	1	0
 sterktes	strengths	0	0	1	0
+sterktes	strenghts	0	0	1	0
+sterktes	strength	0	0	1	0
 opgetrokken	carried	0	0	1	0
 opgetrokken	increased	0	0	1	0
 opgetrokken	erected	0	0	1	0
 feitelijke	objective	0	0	1	0
 feitelijke	factly	0	0	1	0
 feitelijke	actual	0	0	1	0
-ontbreken	lack	0	0	1	1
 ontbreken	absence	0	0	1	0
-ontbreken	to be missing	0	0	1	0
+ontbreken	lack	0	0	1	1
 basale	basal	0	0	1	0
 encycliek	encyclical	0	0	1	0
 encycliek	encyclic	0	0	1	0
@@ -3144,13 +3062,14 @@ eiffeltoren	the eiffel tower	0	0	1	0
 varieert	varies	0	0	1	0
 garden	garden	0	0	1	0
 hertogdom	duchy	0	0	1	1
+mare	mare	0	0	1	0
+mare	sea	0	0	1	0
 québec	québec	0	0	1	0
 componenten	components	0	0	1	0
 vanzelfsprekend	obvious	0	0	1	1
 vanzelfsprekend	naturally	0	0	1	1
 municipio	municipal	0	0	1	0
 municipio	municipio	0	0	1	0
-duinen	dunes	0	0	1	0
 duinen	dune	0	0	1	0
 magic	magic	0	0	1	0
 magic	magische	0	0	1	0
@@ -3180,7 +3099,6 @@ emoties	emotions	0	0	1	0
 video	video	0	0	1	1
 fortuyn	fortuyn	0	0	1	0
 oplopen	increase	0	0	1	0
-oplopen	get as high as	0	0	1	0
 victor	victor	0	0	1	0
 index	index	0	0	1	1
 morse	morse	0	0	1	0
@@ -3196,7 +3114,8 @@ bedreigde	threatend	0	0	1	0
 dieet	diet	0	0	1	1
 led	led	0	0	1	0
 bronnen	sources	0	0	1	0
-invulling	interpretation	0	0	1	0
+lek	leak	0	0	1	1
+lek	leakage	0	0	1	1
 leo	leo	0	0	1	0
 les	lesson	0	0	1	1
 let	loan	0	0	1	0
@@ -3209,7 +3128,8 @@ gereformeerde	calvinist	0	0	1	0
 gereformeerde	reformed	0	0	1	0
 octavo	octavo	0	0	1	1
 poëzie	poetry	0	0	1	1
-maken	make	0	0	1	1
+opstelling	setup	0	0	1	0
+opstelling	position / attitude	0	0	1	0
 great	great	0	0	1	0
 potentiële	potential	0	0	1	0
 tegen	against	0	0	1	1
@@ -3228,7 +3148,6 @@ beperken	limit	0	0	1	1
 beperken	to limit	0	0	1	0
 beperken	restrain	0	0	1	1
 levensduur	lifetime	0	0	1	1
-levensduur	lifespan	0	0	1	0
 levensduur	life expectancy	0	0	1	0
 rivm	rivm	0	0	1	0
 rivm	abbreviation of national institute of public health and environment	0	0	1	0
@@ -3251,11 +3170,9 @@ middag	noon	0	0	1	1
 middag	afternoon	0	0	1	0
 geldt	counts	0	0	1	0
 zit	is	0	0	1	0
-zit	withdrawn	0	0	1	0
 andreas	andreas	0	0	1	0
 ochtend	morning	0	0	1	1
 ministers	ministers	0	0	1	0
-next	next	0	0	1	0
 alvorens	before	0	0	1	1
 versneld	accelerated	0	0	1	1
 versneld	accelerate	0	0	1	0
@@ -3332,7 +3249,6 @@ universitaire	academic	0	0	1	0
 universitaire	university	0	0	1	0
 intelligent	intelligent	0	0	1	1
 ziektes	illnesses	0	0	1	0
-ziektes	diseases	0	0	1	0
 ziektes	sickness	0	0	1	0
 hoger	higher	0	0	1	1
 amerika	america	0	0	1	1
@@ -3450,7 +3366,7 @@ geleerden	scientists	0	0	1	0
 spirituele	spiritual	0	0	1	0
 jagger	jagger	0	0	1	0
 paniek	panic	0	0	1	1
-society	society	0	0	1	0
+alejandro	alejandro	0	0	1	0
 beginnen	begin	0	0	1	1
 beginnen	to begin	0	0	1	0
 bay	bay	0	0	1	0
@@ -3487,7 +3403,7 @@ release	uitkomen van)	0	0	1	0
 precies	exactly	0	0	1	1
 precies	precisely	0	0	1	1
 dubbel	double	0	0	1	1
-penetratie	penetration	0	0	1	0
+gemeenschap	community	0	0	1	1
 kreta	crete	0	0	1	1
 höss	höss	0	0	1	0
 höss	hÖss	0	0	1	0
@@ -3505,7 +3421,6 @@ zomer	summer	0	0	1	1
 lengte	length	0	0	1	1
 tijdelijk	temporarily	0	0	1	1
 tijdelijk	temporary	0	0	1	1
-there	there	0	0	1	0
 opgevolgd	followed	0	0	1	0
 deeltjes	particles	0	0	1	0
 scene	scene	0	0	1	0
@@ -3549,7 +3464,9 @@ arnhem	arnhem	0	0	1	0
 steek	lurch	0	0	1	0
 steek	sting	0	0	1	0
 steek	stitch	0	0	1	1
-symfonie	symphony	0	0	1	1
+beschouwden	considered	0	0	1	0
+beschouwden	perceived	0	0	1	0
+beschouwden	saw / considered	0	0	1	0
 steeg	rose	0	0	1	0
 steeg	ally	0	0	1	0
 steeg	alley	0	0	1	1
@@ -3561,7 +3478,6 @@ jongste	youngest	0	0	1	0
 jongste	yougest	0	0	1	0
 winst	profit	0	0	1	1
 winst	winning	0	0	1	0
-bovenaan	at the top	0	0	1	1
 bovenaan	on top of	0	0	1	0
 bovenaan	above	0	0	1	0
 sneeuw	snow	0	0	1	1
@@ -3579,8 +3495,6 @@ uniek	unique	0	0	1	1
 argentinië	argentina	0	0	1	1
 katholiek	catholic	0	0	1	1
 katholiek	belonging to the roman catholic church	0	0	1	0
-chronologische	chronology	0	0	1	0
-chronologische	chronological	0	0	1	0
 autosnelweg	highway	0	0	1	0
 onderaan	at the bottom	0	0	1	0
 ministeries	ministries	0	0	1	0
@@ -3612,9 +3526,7 @@ matig	frugal	0	0	1	1
 matig	reasonable	0	0	1	1
 matig	moderate	0	0	1	1
 matig	continent	0	0	1	1
-viii	viii	0	0	1	0
 vaart	speed	0	0	1	1
-benaderd	approximated	0	0	1	0
 benaderd	approach	0	0	1	0
 benaderd	approaching	0	0	1	0
 leidende	leading	0	0	1	0
@@ -3692,13 +3604,11 @@ gunste	favor	0	0	1	0
 gunste	in favour of	0	0	1	0
 gunste	favour	0	0	1	0
 btw	v.a.t	0	0	1	0
-btw	btw	0	0	1	0
 btw	vat	0	0	1	0
 reykjavik	reykjavic	0	0	1	0
 reykjavik	reykjavik	0	0	1	0
 commissie	commission	0	0	1	1
 michail	michail	0	0	1	0
-michail	mikhail	0	0	1	0
 stijl	style	0	0	1	1
 geheven	raised	0	0	1	0
 geheven	levied	0	0	1	0
@@ -3727,10 +3637,11 @@ dermate	so	0	0	1	0
 dermate	so (1st sentence)	0	0	1	0
 omroep	broadcast	0	0	1	1
 omroep	broadcasting  network	0	0	1	0
-email	enamel	0	0	1	1
 email	elektronisch postverkeer	0	0	1	0
 buurlanden	neighbouring countries	0	0	1	0
-communisten	communists	0	0	1	0
+zieke		0	0	1	0
+zieke	ill	0	0	1	0
+zieke	sick	0	0	1	0
 finales	finales	0	0	1	0
 finales	finals	0	0	1	0
 ende	and	0	0	1	0
@@ -3784,7 +3695,6 @@ bloedarmoede	anemia	0	0	1	1
 geschikte	adequate	0	0	1	0
 geschikte	suitable	0	0	1	0
 drank	beverage	0	0	1	1
-drank	drink	0	0	1	1
 rockband	rock band	0	0	1	0
 rockband	rockband	0	0	1	0
 gotiek	gothic	0	0	1	0
@@ -3803,7 +3713,6 @@ bauxiet	bauxite	0	0	1	0
 geplande	scheduled	0	0	1	0
 geplande	planned	0	0	1	0
 |thumb|px|de	thumb	0	0	1	0
-zaadcellen	spermcells	0	0	1	0
 zaadcellen	sperm cells	0	0	1	0
 zaadcellen	sperm cell	0	0	1	0
 indonesië	indonesia	0	0	1	1
@@ -3851,7 +3760,6 @@ werkelijkheid	fact	0	0	1	1
 hubbard	hubbard	0	0	1	0
 standbeeld	statue	0	0	1	1
 juan	juan	0	0	1	0
-ontgonnen	mined	0	0	1	0
 ontgonnen	cultivated	0	0	1	0
 ontgonnen	reclaimed	0	0	1	0
 telkens	every time	0	0	1	0
@@ -3874,7 +3782,6 @@ kopen	buy	0	0	1	1
 kopen	to buy	0	0	1	0
 teksten	texts	0	0	1	0
 meting	measurement	0	0	1	0
-alarmschijf	emergency disk	0	0	1	0
 bijna	almost	0	0	1	1
 koper	copper	0	0	1	1
 fabrikant	manufacturer	0	0	1	1
@@ -3890,8 +3797,8 @@ gebouwd	built	0	0	1	0
 paus	pope	0	0	1	1
 statenverkiezingen	state elections	0	0	1	0
 statenverkiezingen	state elecions	0	0	1	0
-erfgoed	heritage	0	0	1	1
-erfgoed	inheritance	0	0	1	0
+das	tie	0	0	1	1
+das	badger	0	0	1	1
 materiaal	material	0	0	1	1
 roze	pink	0	0	1	1
 vormde	mould	0	0	1	0
@@ -3963,7 +3870,6 @@ kijkt	looks	0	0	1	0
 kijkt	consider	0	0	1	0
 symptomen	symptoms	0	0	1	0
 symptomen	symptomes	0	0	1	0
-symptomen	sypmtoms	0	0	1	0
 priem	prime	0	0	1	0
 byzantijnen	byzantins	0	0	1	0
 byzantijnen	byzantines	0	0	1	0
@@ -3982,12 +3888,12 @@ overnemen	incorporate	0	0	1	0
 zalen	halls	0	0	1	0
 veroorzaakte	caused	0	0	1	0
 shakira	shakira	0	0	1	0
-dage	nowadays	0	0	1	0
-dage	day	0	0	1	0
+wisselend	variable	0	0	1	1
+wisselend	changing	0	0	1	0
+wisselend	varying	0	0	1	0
 kolonie	colony	0	0	1	1
 piloot	pilot	0	0	1	1
 weblogs	weblogs	0	0	1	0
-doek	cloth	0	0	1	1
 doek	canvas	0	0	1	1
 doek	screen	0	0	1	0
 doel	goal	0	0	1	1
@@ -4019,7 +3925,6 @@ stage	stage	0	0	1	0
 basis	ground	0	0	1	0
 basis	basis	0	0	1	1
 langer	longer	0	0	1	1
-angeles	angeles	0	0	1	0
 hier	here	0	0	1	1
 warner	warner	0	0	1	0
 software	software	0	0	1	1
@@ -4060,16 +3965,13 @@ beeldhouwwerken	sculptures	0	0	1	0
 kamerverkiezingen	parlimentary elections	0	0	1	0
 kamerverkiezingen	parlementary elections	0	0	1	0
 kamerverkiezingen	parliamentary elections	0	0	1	0
-verwarren	confuse	0	0	1	0
 verwarren	confused	0	0	1	0
 apollo	apollo	0	0	1	1
 inkomen	incomings	0	0	1	0
 inkomen	income	0	0	1	1
 adriatische	adriatic (coast)	0	0	1	0
 adriatische	adriatic	0	0	1	0
-publiekelijk	public	0	0	1	0
 publiekelijk	publicly	0	0	1	0
-alejandro	alejandro	0	0	1	0
 kenmerkende	characteristic	0	0	1	0
 kenmerkende	typical; distinctive	0	0	1	0
 zodanig	needed	0	0	1	0
@@ -4084,7 +3986,6 @@ monument	monument	0	0	1	1
 huwelijken	marriages	0	0	1	0
 geneesmiddelen	medicines	0	0	1	1
 voeren	carry	0	0	1	1
-voeren	voeren	0	0	1	0
 succesvolste	successful	0	0	1	0
 succesvolste	succesfull	0	0	1	0
 succesvolste	most successful	0	0	1	0
@@ -4094,7 +3995,6 @@ jaarlijks	annual	0	0	1	0
 bezetten	occupy	0	0	1	1
 heten	named	0	0	1	0
 heten	called	0	0	1	0
-heten	name	0	0	1	1
 jaartal	date	0	0	1	1
 jaartal	year	0	0	1	0
 veelal	e.g.: the products are often sweets...etc.	0	0	1	0
@@ -4144,7 +4044,6 @@ niveau	level	0	0	1	1
 mineralen	minerals	0	0	1	0
 archeologisch	archeologic	0	0	1	0
 archeologisch	archaeological	0	0	1	0
-schilderen	paint	0	0	1	1
 schilderen	painting	0	0	1	0
 inderdaad	indeed	0	0	1	1
 inderdaad	really	0	0	1	1
@@ -4210,8 +4109,8 @@ jamaica	jamaica	0	0	1	1
 geniet	enjoy	0	0	1	0
 geniet	enjoys	0	0	1	0
 bourgondische	burgundian	0	0	1	0
-verloopt	elapse	0	0	1	0
-verloopt	expires	0	0	1	0
+dienen	serve	0	0	1	1
+dienen	should	0	0	1	1
 chef	chief	0	0	1	1
 chef	boss	0	0	1	1
 cameron	cameron	0	0	1	0
@@ -4239,7 +4138,6 @@ voorgeschiedenis	prehistory	0	0	1	1
 vanouds	of old	0	0	1	0
 vanouds	traditionally	0	0	1	0
 praktijken	practices	0	0	1	0
-praktijken	practics	0	0	1	0
 dezelfde	the same	0	0	1	0
 dezelfde	same	0	0	1	1
 zomertijd	summertime	0	0	1	1
@@ -4266,7 +4164,6 @@ aanzien	look	0	0	1	1
 instanties	authorities	0	0	1	0
 instanties	organizations	0	0	1	0
 gezicht	face	0	0	1	1
-massale	massal	0	0	1	0
 massale	massive	0	0	1	0
 sarah	sarah	0	0	1	0
 plot	plot	0	0	1	1
@@ -4284,7 +4181,6 @@ knieën	knees	0	0	1	0
 indiana	indiana	0	0	1	0
 verschillen	differs	0	0	1	0
 verschillen	differences	0	0	1	0
-verschillen	to differ	0	0	1	0
 domein	domain	0	0	1	1
 domein	field; territory	0	0	1	0
 domein	area	0	0	1	0
@@ -4293,10 +4189,8 @@ symbool	symbol	0	0	1	1
 giovanni	giovanni	0	0	1	0
 giovanni	john	0	0	1	0
 award	award	0	0	1	0
-waarnemingshorizon	event horizon	0	0	1	0
 brugge	brugge	0	0	1	0
 brugge	bruges	0	0	1	0
-mountains	mountains	0	0	1	0
 gebeurd	happened	0	0	1	0
 word	become	0	0	1	0
 word	am	0	0	1	0
@@ -4327,8 +4221,7 @@ schoten	shots	0	0	1	0
 jamal	jamal	0	0	1	0
 springen	jump	0	0	1	1
 springen	jumping	0	0	1	0
-commissaris	commissioner	0	0	1	1
-commissaris	commissaris	0	0	1	0
+piercings	piercings	0	0	1	0
 vraagt	asks	0	0	1	0
 onderweg	on the way	0	0	1	0
 onderweg	on the road	0	0	1	0
@@ -4352,8 +4245,7 @@ concilie	concilie	0	0	1	0
 stichten	found	0	0	1	1
 stichten	to found	0	0	1	0
 opslag	storage	0	0	1	0
-goedkeuren	approval	0	0	1	0
-goedkeuren	approve	0	0	1	1
+verborgen	hidden	0	0	1	1
 ruime	great	0	0	1	0
 ruime	spacious	0	0	1	0
 intellectuele	intellectual	0	0	1	0
@@ -4361,7 +4253,6 @@ dateformat	date format	0	0	1	0
 dateformat	dateformat	0	0	1	0
 westberlijn	west berlin	0	0	1	0
 westberlijn	west-berlin	0	0	1	0
-westberlijn	western berlin	0	0	1	0
 zingt	sings	0	0	1	0
 verhoudingen	relationships	0	0	1	0
 verhoudingen	relations	0	0	1	0
@@ -4369,7 +4260,6 @@ interview	interview	0	0	1	1
 beach	beach (strand)	0	0	1	0
 beach	beach	0	0	1	0
 operatie	operation	0	0	1	1
-streefde	sought	0	0	1	0
 streefde	strived	0	0	1	0
 bebop	bepop	0	0	1	0
 bebop	bebop	0	0	1	1
@@ -4381,7 +4271,9 @@ kampioen	champion	0	0	1	1
 goedkeuring	approval	0	0	1	1
 memorial	memorial	0	0	1	0
 law	law	0	0	1	0
-thumb|left|de	thumb / left / the	0	0	1	0
+las	read	0	0	1	0
+las	the	0	0	1	0
+las	las	0	0	1	0
 orden	factions	0	0	1	0
 orden	order	0	0	1	0
 illustratie	illustration	0	0	1	1
@@ -4417,7 +4309,9 @@ eigen	own	0	0	1	1
 office	kantoor	0	0	1	0
 sovjet	soviet	0	0	1	1
 sovjet	sovjet	0	0	1	0
-verf	paint	0	0	1	1
+aanhoudende	ongoing	0	0	1	0
+aanhoudende	persistent	0	0	1	0
+aanhoudende	onkeeping	0	0	1	0
 ramadan	ramadan	0	0	1	1
 dodelijk	lethal	0	0	1	1
 dodelijk	deadly	0	0	1	1
@@ -4437,8 +4331,7 @@ midden	middle	0	0	1	1
 schonk	gifted	0	0	1	0
 schonk	donated	0	0	1	0
 schonk	gave	0	0	1	0
-middel	through	0	0	1	0
-middel	means	0	0	1	1
+oostelijk	eastern	0	0	1	1
 schone	clean	0	0	1	0
 kritische	critical	0	0	1	0
 buitenaf	outside	0	0	1	0
@@ -4463,9 +4356,7 @@ onverwachte	sudden	0	0	1	0
 ×	x	0	0	1	0
 verkopen	sell	0	0	1	1
 verkopen	sold	0	0	1	0
-verkopen	to sell	0	0	1	0
-verband	connection	0	0	1	1
-verband	relation	0	0	1	1
+vlaktes	plains	0	0	1	0
 omvangrijke	extensive	0	0	1	0
 omvangrijke	sizeable	0	0	1	0
 rocky	rocky	0	0	1	0
@@ -4480,7 +4371,7 @@ carlos	carlos	0	0	1	0
 vochtig	moist	0	0	1	1
 vochtig	humid	0	0	1	1
 berekend	calculated	0	0	1	1
-constantijn	constantine	0	0	1	0
+koning	king	0	0	1	1
 slee	sled	0	0	1	1
 slee	slee	0	0	1	0
 bergketens	mountain ranges	0	0	1	0
@@ -4522,7 +4413,6 @@ kip	chicken	0	0	1	1
 jegens	to	0	0	1	0
 jegens	towards	0	0	1	1
 jegens	against	0	0	1	1
-beleefde	went through	0	0	1	0
 beleefde	experienced	0	0	1	0
 romeins	romans	0	0	1	0
 romeins	roman	0	0	1	1
@@ -4549,8 +4439,8 @@ hiernaast	apart from	0	0	1	0
 hiernaast	next to	0	0	1	0
 hiernaast	next to/ beside this	0	0	1	0
 another	another	0	0	1	0
-geschiedschrijving	historiography	0	0	1	0
-geschiedschrijving	history writing	0	0	1	0
+kaarten	cards	0	0	1	0
+kaarten	maps	0	0	1	0
 legde	put	0	0	1	0
 legde	laid	0	0	1	0
 legde	layed	0	0	1	0
@@ -4558,9 +4448,9 @@ boudewijn	boudewijn - proper noun - first name	0	0	1	0
 boudewijn	boudewijn	0	0	1	0
 zijden	sides	0	0	1	0
 ten	at	0	0	1	0
-meesten	most	0	0	1	0
 meesten	moast	0	0	1	0
 meesten	majority	0	0	1	0
+meesten	most	0	0	1	0
 ondersteunt	supports	0	0	1	0
 brachten	brought	0	0	1	0
 brachten	carried	0	0	1	0
@@ -4594,8 +4484,9 @@ dysforie	dysforie	1	0	1	0
 dysforie	dysforia	1	1	0	0
 digitale	digital	0	0	1	0
 kerstmis	christmas	0	0	1	1
-kerstmis	christmass	0	0	1	0
-youre	youre	0	0	1	0
+ambtenaren	clerks	0	0	1	0
+ambtenaren	officials	0	0	1	0
+ambtenaren	officials / civil servants	0	0	1	0
 ontwikkeling	development	0	0	1	1
 stedelijke	urban	0	0	1	0
 mannen	men	0	0	1	0
@@ -4612,7 +4503,6 @@ ijssel	ijssel	0	0	1	0
 gezegd	said	0	0	1	0
 naoorlogse	postwar	0	0	1	0
 gestegen	rised	0	0	1	0
-gestegen	increased	0	0	1	0
 gestegen	risen	0	0	1	0
 laden	laden (proper noun - surname)	0	0	1	0
 laden	lead	0	0	1	0
@@ -4626,7 +4516,6 @@ waarna	after that	0	0	1	0
 pop	pop	0	0	1	0
 wederzijdse	mutuals	0	0	1	0
 wederzijdse	mutual	0	0	1	0
-luxemburg	luxemburg	0	0	1	0
 luxemburg	luxembourg	0	0	1	0
 bruce	bruce	0	0	1	0
 hoogtepunten	climaxes	0	0	1	0
@@ -4650,7 +4539,6 @@ engelstalige	english spoken	0	0	1	0
 engelstalige	english-language	0	0	1	0
 engelstalige	english	0	0	1	0
 genegeerd	ignored	0	0	1	0
-genegeerd	generated	0	0	1	0
 bleven	remain	0	0	1	0
 bleven	continued	0	0	1	0
 bleven	stayed	0	0	1	0
@@ -4658,7 +4546,6 @@ eilandgebied	island area	0	0	1	0
 eilandgebied	island group	0	0	1	0
 left	left	0	0	1	0
 reserve	reserve	0	0	1	1
-afscheid	farewell	0	0	1	1
 afscheid	parting	0	0	1	1
 afscheid	say goodbye	0	0	1	0
 olieverf	oilpaint	0	0	1	0
@@ -4669,10 +4556,9 @@ vertrek	departure	0	0	1	1
 belangrijk	important	0	0	1	1
 madeira	madeira	0	0	1	1
 slagveld	battlefield	0	0	1	1
-protocol	protocol	0	0	1	1
-australian	australian	0	0	1	0
+facto	facto	0	0	1	0
+facto	(in) fact	0	0	1	0
 restanten	rests	0	0	1	0
-restanten	remains	0	0	1	0
 restanten	remnants	0	0	1	0
 onderworpen	subject	0	0	1	1
 just	just	0	0	1	0
@@ -4693,7 +4579,6 @@ vrijmetselarij	freemasonry	0	0	1	1
 vrijmetselarij	free masonry	0	0	1	0
 do	do	0	0	1	0
 imperium	empire	0	0	1	1
-imperium	imperia	0	0	1	0
 kortweg	shorter	0	0	1	0
 kortweg	shortly	0	0	1	1
 kortweg	in short	0	0	1	0
@@ -4721,22 +4606,18 @@ gedetailleerde	detailed	0	0	1	0
 gauw	soon	0	0	1	1
 emo	emo	0	0	1	0
 guns	guns	0	0	1	0
-beschouwden	considered	0	0	1	0
-beschouwden	perceived	0	0	1	0
-beschouwden	saw / considered	0	0	1	0
+symfonie	symphony	0	0	1	1
 cijfer	cypher	0	0	1	1
 cijfer	number	0	0	1	0
 cijfer	figure	0	0	1	1
-categorieinfectieziekte	category infectious disease	0	0	1	0
-categorieinfectieziekte	category infection disease	0	0	1	0
-categorieinfectieziekte	category of infectious diseases	0	0	1	0
+tegenovergestelde	contradiction	0	0	1	0
+tegenovergestelde	opposite	0	0	1	0
 beschadigd	damaged	0	0	1	0
 libanon	libanon	0	0	1	0
 libanon	lebanon	0	0	1	1
 genève	geneva	0	0	1	1
 wetgevende	legislative	0	0	1	0
-erkenning	recognition	0	0	1	1
-erkenning	acknowledgement	0	0	1	1
+human	human	0	0	1	0
 commandant	commanding officer	0	0	1	0
 commandant	commander	0	0	1	1
 feniks	phenix	0	0	1	0
@@ -4762,7 +4643,6 @@ notredame	notre dame	0	0	1	0
 away	away	0	0	1	0
 bier	beer	0	0	1	1
 gezorgd	resulted	0	0	1	0
-gezorgd	took care	0	0	1	0
 gezorgd	ensured	0	0	1	0
 verschoof	shifted	0	0	1	0
 verschoof	transferred	0	0	1	0
@@ -4781,7 +4661,7 @@ cor	cor	0	0	1	0
 zussen	sisters	0	0	1	0
 stijlen	styles	0	0	1	0
 verdieping	floor	0	0	1	1
-oostelijk	eastern	0	0	1	1
+sterkte	strength	0	0	1	1
 provocatus	provocatus	0	0	1	0
 brad	brad	0	0	1	0
 brak	started	0	0	1	0
@@ -4797,11 +4677,12 @@ doorlopen	passing	0	0	1	0
 doorlopen	go through	0	0	1	0
 doorlopen	to walk through	0	0	1	0
 tong	tongue	0	0	1	1
-verzamelnaam	collective term	0	0	1	0
-verzamelnaam	generic term	0	0	1	0
 verzamelnaam	collectional name	0	0	1	0
-medaillon	medaillon	0	0	1	0
-medaillon	medallion	0	0	1	1
+verzamelnaam	generic term	0	0	1	0
+verzamelnaam	collective term	0	0	1	0
+voorkwam	appeared	0	0	1	0
+voorkwam	prevented	0	0	1	0
+voorkwam	prevent	0	0	1	0
 jayz	jayz	0	0	1	0
 jayz	jay-z (artist)	0	0	1	0
 jayz	jay z	0	0	1	0
@@ -4815,7 +4696,6 @@ onderdelen	components	0	0	1	0
 luchtvaartmaatschappij	airline company	0	0	1	0
 luchtvaartmaatschappij	airline	0	0	1	0
 kinkhoest	whooping cough	0	0	1	0
-kinkhoest	whooping-cough	0	0	1	1
 warmte	heat	0	0	1	1
 warmte	warmth	0	0	1	1
 toen	then	0	0	1	1
@@ -4838,7 +4718,6 @@ categorietelevisieprogramma	category television	0	0	1	0
 overwegingen	considerations	0	0	1	0
 verzorgde	took care for	0	0	1	0
 verzorgde	took care off	0	0	1	0
-verzorgde	took care of	0	0	1	0
 huizen	houses	0	0	1	0
 gecomponeerd	composed	0	0	1	0
 expliciet	explicitly	0	0	1	0
@@ -4846,7 +4725,7 @@ expliciet	clear	0	0	1	0
 expliciet	leaving nothing to the imagination	0	0	1	0
 expliciet	explicit	0	0	1	0
 expliciet	described in detail	0	0	1	0
-has	has	0	0	1	0
+east	east	0	0	1	0
 hitlijsten	charts	0	0	1	0
 opgewekt	cheerful	0	0	1	1
 opgewekt	generated	0	0	1	0
@@ -4857,7 +4736,8 @@ opgedragen	dedicate	0	0	1	0
 air	air	0	0	1	1
 beschermen	protect	0	0	1	1
 beschermen	to protect	0	0	1	0
-anjou	anjou	0	0	1	0
+boekje	booklet	0	0	1	1
+boekje	book	0	0	1	0
 eitjes	little eggs	0	0	1	0
 eitjes	eggs	0	0	1	0
 voet	foot	0	0	1	1
@@ -4869,7 +4749,6 @@ sinterklaasfeest	feast of sinterklaas (st. nicholas)	0	0	1	0
 soedan	sudan	0	0	1	1
 succes	success	0	0	1	1
 gezamenlijk	joint	0	0	1	1
-gezamenlijk	collective	0	0	1	1
 gezamenlijk	common	0	0	1	0
 vogel	bird	0	0	1	1
 vogel	vogel	0	0	1	0
@@ -4903,8 +4782,8 @@ monarch	monarch	0	0	1	1
 begraafplaats	cemetary	0	0	1	0
 begraafplaats	cemetery	0	0	1	1
 begraafplaats	cemetry	0	0	1	0
-verre	far	0	0	1	0
-uitsluiting	exclusion	0	0	1	1
+|align=left|the	/ align = left / the	0	0	1	0
+margaretha	margaretha	0	0	1	0
 ideaal	idealism	0	0	1	0
 ideaal	ideal	0	0	1	1
 opvattingen	ideas	0	0	1	0
@@ -4944,7 +4823,7 @@ agressief	agressive	0	0	1	0
 gods	gods	0	0	1	0
 gods	god's	0	0	1	0
 gebied	area	0	0	1	1
-newton	newton	0	0	1	0
+kalk	lime	0	0	1	1
 montgomery	montgomery	0	0	1	0
 verdwijnt	disappears	0	0	1	0
 jose	jose	0	0	1	0
@@ -4982,7 +4861,9 @@ groep	grade (in a school)	0	0	1	0
 groep	band; section	0	0	1	0
 picasso	picasso	0	0	1	0
 aanpassen	adapt	0	0	1	1
-rondom	around	0	0	1	1
+nauwe	close	0	0	1	0
+nauwe	narrow	0	0	1	0
+nauwe	tight	0	0	1	0
 werelderfgoed	world heritage	0	0	1	0
 xbox	x-box	0	0	1	0
 xbox	xbox	0	0	1	0
@@ -5007,19 +4888,17 @@ suikerziekte	diabetic	0	0	1	1
 suikerziekte	diabetes	0	0	1	1
 staatshoofden	heads of state	0	0	1	0
 staatshoofden	head of state	0	0	1	0
-borg	bail	0	0	1	1
-borg	vouch for; secure	0	0	1	0
-borg	guarantee	0	0	1	1
+zonnestelsel	solar system	0	0	1	0
 nationaalsocialisme	national socialism	0	0	1	0
-humor	humor	0	0	1	1
 humor	humour	0	0	1	1
 bestudeert	study	0	0	1	0
 bestudeert	studies	0	0	1	0
 lagere	lower	0	0	1	0
 josé	jose	0	0	1	0
 sterktezwakteanalyse	strength and weaknesses analysis	0	0	1	0
-sterktezwakteanalyse	strongness/weakness analysis	0	0	1	0
 sterktezwakteanalyse	strengths and weaknesses	0	0	1	0
+eenmaal	simply	0	0	1	0
+eenmaal	once	0	0	1	1
 bestudeerd	studied	0	0	1	1
 terugkeer	return	0	0	1	1
 geacht	expected	0	0	1	0
@@ -5152,20 +5031,19 @@ kiezers	electorate	0	0	1	0
 kiezers	voters	0	0	1	0
 kleding	clothing	0	0	1	1
 scoren	score	0	0	1	0
-geboden	provided	0	0	1	0
 geboden	offered	0	0	1	0
 landbouwproducten	agricultural	0	0	1	0
 landbouwproducten	agricultural products	0	0	1	0
-stuurman	steersman	0	0	1	1
-stuurman	mate	0	0	1	1
 stuurman	first mate	0	0	1	0
+stuurman	mate	0	0	1	1
+stuurman	steersman	0	0	1	1
 middeleeuwse	medieval	0	0	1	0
 registratie	registration	0	0	1	1
 sterrenstelsels	star-system	0	0	1	0
 sterrenstelsels	galaxies	0	0	1	0
 mondriaan	mondriaan	0	0	1	0
-verstrekt	provided	0	0	1	0
-verstrekt	supply	0	0	1	0
+plichten	obligations	0	0	1	0
+plichten	duties	0	0	1	0
 chileense	chilean	0	0	1	0
 chileense	chilean woman	0	0	1	0
 songs	songs	0	0	1	0
@@ -5187,7 +5065,6 @@ global	wereldwijd	0	0	1	0
 datum	date	0	0	1	1
 namens	on behalf to	0	0	1	0
 namens	on behalf of	0	0	1	0
-battle	battle	0	0	1	0
 battle	strijd	0	0	1	0
 toegelaten	allowed	0	0	1	0
 toegelaten	admitted/accepted	0	0	1	0
@@ -5212,8 +5089,7 @@ zuidoosten	south-east	0	0	1	0
 zuidoosten	southeastern	0	0	1	0
 composities	composites	0	0	1	0
 composities	compositions	0	0	1	0
-brown	brown	0	0	1	0
-brown	brown (name)	0	0	1	0
+division	division	0	0	1	0
 kelten	celts	0	0	1	0
 hannah	hannah	0	0	1	0
 literaire	literary	0	0	1	0
@@ -5232,10 +5108,8 @@ stierven	died	0	0	1	0
 indoeuropese	indo-european	0	0	1	0
 guy	guy	0	0	1	0
 guy	guy (proper noun - first name)	0	0	1	0
-verricht	conduct	0	0	1	0
 verricht	done	0	0	1	0
-verricht	out	0	0	1	0
-upper	upper	0	0	1	0
+verricht	conduct	0	0	1	0
 revolution	revolution	0	0	1	0
 gegraven	digged	0	0	1	0
 gegraven	dug	0	0	1	0
@@ -5282,7 +5156,6 @@ geleide	guided	0	0	1	0
 geleide	leadership	0	0	1	0
 kringen	circles	0	0	1	0
 churchill	churchill	0	0	1	0
-extra	additional	0	0	1	1
 extra	extra	0	0	1	1
 schiet	shoot	0	0	1	0
 schiet	shoots	0	0	1	0
@@ -5323,13 +5196,8 @@ ontvanger	receiver	0	0	1	1
 parallelle	parallel	0	0	1	0
 wedstrijden	competitions	0	0	1	0
 wedstrijden	games	0	0	1	0
-specerijen	speceries	0	0	1	0
 specerijen	spices	0	0	1	0
-erkent	acknowledge	0	0	1	0
-erkent	recognizes	0	0	1	0
-erkent	acknowledges	0	0	1	0
-erkent	recognize; allow	0	0	1	0
-erkent	permit	0	0	1	0
+asperger	asperger	0	0	1	0
 servisch	serbian	0	0	1	1
 ibn	ibn	0	0	1	0
 maarten	maarten	0	0	1	0
@@ -5347,8 +5215,6 @@ antwerpen	antwerpen	0	0	1	0
 antwerpen	antwerp	0	0	1	0
 noch	nor	0	0	1	1
 patronen	patterns	0	0	1	0
-denken	think	0	0	1	1
-denken	to think	0	0	1	0
 moskee	mosque	0	0	1	1
 pausen	popes	0	0	1	0
 karakteristieke	characteristic	0	0	1	0
@@ -5392,7 +5258,6 @@ staatsinrichting	polity	0	0	1	1
 staatsinrichting	state authority	0	0	1	0
 staatsinrichting	state penitentiary	0	0	1	0
 blijkt	seems	0	0	1	0
-onderling	amongst each other	0	0	1	0
 onderling	mutually	0	0	1	1
 onderling	mutual	0	0	1	1
 vliegt	flies	0	0	1	0
@@ -5411,7 +5276,6 @@ uitvindingen	investions	0	0	1	0
 uitvindingen	inventions	0	0	1	0
 hierover	about this	0	0	1	0
 aantrekkelijk	appealing	0	0	1	0
-aantrekkelijk	attractive	0	0	1	1
 dateert	dates	0	0	1	0
 dateert	dates back	0	0	1	0
 uitgelegd	explained	0	0	1	0
@@ -5458,8 +5322,7 @@ beroemd	famous	0	0	1	1
 kerk	church	0	0	1	1
 kerkelijke	church	0	0	1	0
 kerkelijke	ecclesiastical	0	0	1	0
-blokkade	blockade	0	0	1	1
-blokkade	blocade	0	0	1	0
+januari	january	0	0	1	1
 grieks	greek	0	0	1	1
 el	el	0	0	1	0
 en	and	0	0	1	1
@@ -5484,7 +5347,7 @@ mocht	could help decide	0	0	1	0
 es	es	0	0	1	0
 er	there	0	0	1	1
 album	album	0	0	1	1
-space	space	0	0	1	0
+biografie	biography	0	0	1	1
 ketterij	heresy	0	0	1	1
 ketterij	hereticism	0	0	1	0
 openen	to open	0	0	1	0
@@ -5520,9 +5383,8 @@ krijgt	gets	0	0	1	0
 british	britisch	0	0	1	0
 period	period	0	0	1	0
 betonnen	concrete	0	0	1	1
-geloof	faith	0	0	1	1
-geloof	belief	0	0	1	1
 geloof	religion	0	0	1	1
+geloof	belief	0	0	1	1
 legden	put	0	0	1	0
 legden	laid	0	0	1	0
 legden	impose	0	0	1	0
@@ -5552,7 +5414,6 @@ fagocyt	phagocyt	1	0	1	0
 fagocyt	fagocyte	1	0	1	0
 fagocyt	fagocyt	1	0	1	0
 fagocyt	manga	1	0	1	0
-nova	nova	0	0	1	0
 evenmin	neither	0	0	1	1
 evenmin	no more than	0	0	1	0
 evenmin	nonetheless	0	0	1	0
@@ -5561,12 +5422,10 @@ zat	was (to be) & had enough of it	0	0	1	0
 zat	was	0	0	1	0
 zat	was (2nd sentence)	0	0	1	0
 aangeraden	recommended	0	0	1	0
-aangeraden	hit	0	0	1	0
 aangeraden	recommend	0	0	1	0
 xv	15	0	0	1	0
 emigratie	emigration	0	0	1	1
 kleuren	colours	0	0	1	0
-kleuren	colors	0	0	1	0
 dolfijnen	dolfins	0	0	1	0
 dolfijnen	dolphins	0	0	1	0
 breed	broad	0	0	1	1
@@ -5598,7 +5457,6 @@ plassen	lakes and pissing	0	0	1	0
 duur	duration	0	0	1	1
 duur	lenght	0	0	1	0
 moeilijke	difficult	0	0	1	0
-kraakbeen	catrilage	0	0	1	0
 kraakbeen	cartilage	0	0	1	1
 thai	thai	0	0	1	1
 than	than	0	0	1	0
@@ -5657,7 +5515,6 @@ abraham	abraham	0	0	1	1
 eigenaar	owner	0	0	1	1
 daarvoor	following	0	0	1	0
 daarvoor	previously	0	0	1	1
-daarvoor	therefore	0	0	1	0
 zware	heavy	0	0	1	0
 bevindt	located	0	0	1	0
 bevindt	is	0	0	1	0
@@ -5736,8 +5593,6 @@ achterschip	stern	0	0	1	1
 ambt	function	0	0	1	1
 ambt	office	0	0	1	1
 ambt	office / worktitle	0	0	1	0
-organisaties	organizations	0	0	1	0
-organisaties	organisations	0	0	1	0
 veroverden	conquered	0	0	1	0
 import	import	0	0	1	1
 islam	islam	0	0	1	1
@@ -5765,9 +5620,9 @@ stukje	piece	0	0	1	1
 mons	mon people	0	0	1	0
 mons	mons - proper noun - a group of people	0	0	1	0
 mons	mons	0	0	1	0
-europacup	europacup	0	0	1	0
-europacup	europe cup	0	0	1	0
 europacup	europe-cup	0	0	1	0
+europacup	europe cup	0	0	1	0
+europacup	europacup	0	0	1	0
 abdij	abbey	0	0	1	1
 langzaam	slowly	0	0	1	1
 pijnlijk	painful	0	0	1	1
@@ -5800,8 +5655,7 @@ wien	whom	0	0	1	0
 wien	wien	0	0	1	0
 overeenkomsten	similarities	0	0	1	0
 overeenkomsten	agreements	0	0	1	0
-drietal	threesome	0	0	1	1
-drietal	trio	0	0	1	0
+situatie	situation	0	0	1	1
 wiet	wiet	0	0	1	0
 wiet	weed	0	0	1	0
 dictator	dictator	0	0	1	1
@@ -5863,7 +5717,6 @@ historicus	historicus	0	0	1	0
 gemalen	ground (to grind)	0	0	1	0
 gemalen	ground	0	0	1	0
 inslag	impact	0	0	1	0
-inslag	hit	0	0	1	0
 vrijmetselaars	freemasons	0	0	1	0
 profiel	profile	0	0	1	1
 verdiende	earned	0	0	1	0
@@ -5875,8 +5728,9 @@ afhankelijk	dependent	0	0	1	1
 enzovoort	et cetera	0	0	1	0
 enzovoort	etcetera	0	0	1	0
 enzovoort	and so on	0	0	1	0
-teheran	tehran	0	0	1	0
 teheran	teheran	0	0	1	0
+teheran	tehran	0	0	1	0
+mythe	myth	0	0	1	1
 zuidholland	south-holland	0	0	1	0
 zuidholland	south holland	0	0	1	0
 zuidholland	holland	0	0	1	0
@@ -5903,10 +5757,9 @@ verdrijven	chase away	0	0	1	0
 verdrijven	drive away	0	0	1	0
 overlevering	tradition	0	0	1	1
 huwde	married	0	0	1	0
-adipocere	adipocere	0	0	1	0
+kostuums	costumes	0	0	1	0
 theater	theater	0	0	1	1
 theater	theatre	0	0	1	1
-voorraad	stock	0	0	1	1
 voorraad	supply	0	0	1	0
 conservatieve	conservative	0	0	1	0
 blokkeren	obstruct	0	0	1	0
@@ -5962,14 +5815,13 @@ hypothese	supposition or hypothesis	0	0	1	0
 hypothese	hypothesis	0	0	1	1
 onbruik	disuse	0	0	1	1
 schilderde	painted	0	0	1	0
-overijssel	overijssel	0	0	1	0
 overijssel	london	0	0	1	0
 sagrada	sagrada	0	0	1	0
 afvoer	drain	0	0	1	0
 afvoer	drained	0	0	1	0
 lady	lady	0	0	1	1
-diende	served	0	0	1	0
-diende	was	0	0	1	0
+kalksteen	limestone	0	0	1	1
+kalksteen	chalkstone	0	0	1	1
 langdurige	long term	0	0	1	0
 langdurige	long-lasting	0	0	1	0
 langdurige	prolonged	0	0	1	0
@@ -5993,7 +5845,7 @@ tweeën	twos	0	0	1	0
 máxima	maxima	0	0	1	0
 máxima	máxima	0	0	1	0
 bellamy	bellamy	0	0	1	0
-zelden	rarely	0	0	1	1
+paleizen	palaces	0	0	1	0
 conclusie	conclusion	0	0	1	1
 conclusie	conlusion	0	0	1	0
 zuster	sister	0	0	1	1
@@ -6015,10 +5867,7 @@ ondersoorten	subspecies	0	0	1	0
 bestempeld	labeled	0	0	1	0
 bestempeld	branded	0	0	1	0
 willie	willie	0	0	1	0
-geslaagd	successful	0	0	1	1
-geslaagd	succeeded	0	0	1	0
 moordenaar	killer	0	0	1	1
-moordenaar	murderer	0	0	1	1
 business	business	0	0	1	0
 jagen	hunt	0	0	1	1
 seine	seine	0	0	1	0
@@ -6032,7 +5881,6 @@ ijskap	polar cap	0	0	1	0
 zoogdier	mammal	0	0	1	1
 francis	francis	0	0	1	0
 vermogen	ability	0	0	1	1
-vermogen	the ability or capacity to do something or act in a particular way	0	0	1	0
 aphrodite	aphrodite	0	0	1	0
 trekken	to pull / excentricities	0	0	1	0
 trekken	to drag	0	0	1	0
@@ -6057,6 +5905,10 @@ rolling	rolling	0	0	1	0
 rolling	rolling - part of proper noun	0	0	1	0
 bisdom	bisdom	0	0	1	0
 bisdom	diocese	0	0	1	1
+fatale	lethal	0	0	1	0
+fatale	terminal	0	0	1	0
+fatale	fatal	0	0	1	0
+fatale	deadly; destructive	0	0	1	0
 grofweg	rudely	0	0	1	0
 grofweg	roughly	0	0	1	0
 your	your	0	0	1	0
@@ -6068,9 +5920,8 @@ eraan	preceded	0	0	1	0
 eraan	on it	0	0	1	0
 lof	honors	0	0	1	0
 lof	praise	0	0	1	1
-filosofische	philosofy	0	0	1	0
-filosofische	philosophic	0	0	1	0
 filosofische	philosophical	0	0	1	0
+filosofische	philosophic	0	0	1	0
 pvda	pvda	0	0	1	0
 pvda	usefully	0	0	1	0
 geleden	suffered	0	0	1	0
@@ -6085,15 +5936,15 @@ valencia	valencia	0	0	1	0
 stadscentrum	center	0	0	1	0
 stadscentrum	citycentre	0	0	1	0
 stadscentrum	city center	0	0	1	0
+vervaardigde	manufactured	0	0	1	0
+vervaardigde	manifactured	0	0	1	0
 imagesize	image size - beeldgrootte	0	0	1	0
 handelaren	traders	0	0	1	0
 handelaren	merchants	0	0	1	0
 oostelijke	eastern	0	0	1	0
-cafeïne	cafeine	0	0	1	0
 cafeïne	caffeine	0	0	1	1
 cafeïne	caffein	0	0	1	0
 verlaten	leave	0	0	1	1
-verlaten	to leave	0	0	1	0
 verlaten	abandoned	0	0	1	1
 daarmee	thus	0	0	1	0
 daarmee	thereby	0	0	1	0
@@ -6109,15 +5960,12 @@ afgevaardigden	delegates	0	0	1	0
 tonen	to show	0	0	1	0
 tonen	show	0	0	1	1
 oranje	orange	0	0	1	1
-oranje	oranje	0	0	1	0
 toeristische	tourist	0	0	1	0
-onduidelijk	obscure	0	0	1	1
 onduidelijk	unclear	0	0	1	0
 miguel	miguel	0	0	1	0
 afsluiting	closure	0	0	1	0
 afsluiting	closing	0	0	1	0
 fundamentele	fundamental	0	0	1	0
->	>	0	0	1	0
 ontvoerd	kidnap	0	0	1	0
 ontvoerd	kidnapped	0	0	1	0
 vlucht	flight	0	0	1	1
@@ -6149,7 +5997,6 @@ optimaal	optimal	0	0	1	0
 optimaal	optimum	0	0	1	0
 daarvan	about that	0	0	1	0
 daarvan	thereof	0	0	1	1
-trekt	pulls	0	0	1	0
 trekt	attracts	0	0	1	0
 trekt	draws	0	0	1	0
 poot	leg	0	0	1	1
@@ -6182,7 +6029,6 @@ giorgio	giorgio	0	0	1	0
 monte	monte	0	0	1	0
 verschillend	different	0	0	1	1
 geneeskunde	medicine	0	0	1	1
-gedaan	done	0	0	1	1
 messi	messi	0	0	1	0
 moeite	labor	0	0	1	1
 moeite	labour	0	0	1	1
@@ -6220,13 +6066,12 @@ minder	less	0	0	1	1
 begon	began	0	0	1	0
 vlaggen	flags	0	0	1	0
 technologische	technological	0	0	1	0
-aanhoudende	ongoing	0	0	1	0
-aanhoudende	persistent	0	0	1	0
-aanhoudende	onkeeping	0	0	1	0
+verf	paint	0	0	1	1
 frederik	frederique	0	0	1	0
 frederik	frederik	0	0	1	0
 productie	production	0	0	1	1
-vlaktes	plains	0	0	1	0
+verband	connection	0	0	1	1
+verband	relation	0	0	1	1
 louis	louis	0	0	1	0
 zwolle	zwolle (proper noun - place name)	0	0	1	0
 zwolle	zwoller	0	0	1	0
@@ -6245,7 +6090,6 @@ overgebleven	left	0	0	1	0
 voortplanting	procreate	0	0	1	0
 voortplanting	propagation	0	0	1	1
 voortplanting	reproduction	0	0	1	0
-jedi	jedi	0	0	1	0
 gewoonte	custom	0	0	1	1
 gewoonte	habit	0	0	1	1
 vchr	b.c.	0	0	1	0
@@ -6395,11 +6239,9 @@ bewoners	inhabitants	0	0	1	0
 bewoners	residents	0	0	1	0
 eeuwige	forever	0	0	1	0
 eeuwige	everlasting	0	0	1	0
-eeuwige	eternal	0	0	1	0
 cambodja	camboida	0	0	1	0
 cambodja	cambodia	0	0	1	1
 enzymen	enzymes	0	0	1	0
-enzymen	enzyms	0	0	1	0
 documentaire	documentary	0	0	1	0
 dream	dream	0	0	1	0
 federaal	federal	0	0	1	1
@@ -6441,6 +6283,9 @@ opgelegd	imposed	0	0	1	0
 beschermt	protects	0	0	1	0
 strategisch	strategical	0	0	1	1
 strategisch	strategic	0	0	1	1
+evolutietheorie	evolution theory	0	0	1	0
+evolutietheorie	evolutiontheory	0	0	1	0
+evolutietheorie	theory of evolution	0	0	1	0
 curtis	curtis	0	0	1	0
 zgn	so called	0	0	1	0
 azië	asia	0	0	1	1
@@ -6449,11 +6294,12 @@ gebogen	bowed	0	0	1	0
 gebogen	bent	0	0	1	1
 cel	cell	0	0	1	1
 cel	cel	0	0	1	0
-kaart	map	0	0	1	1
-kaart	chart	0	0	1	0
 kaart	card	0	0	1	1
 aantrekkingskracht	attraction	0	0	1	1
 aantrekkingskracht	appeal (gravitational pull)	0	0	1	0
+daarop	then	0	0	1	1
+daarop	upon that	0	0	1	0
+daarop	thereon	0	0	1	1
 hooglanden	highlands	0	0	1	0
 verdelen	seperated	0	0	1	0
 verdelen	divided	0	0	1	0
@@ -6461,7 +6307,7 @@ verdelen	share	0	0	1	1
 marokko	morocco	0	0	1	1
 marokko	marocco	0	0	1	0
 toenam	increased	0	0	1	0
-paleizen	palaces	0	0	1	0
+zelden	rarely	0	0	1	1
 syrië	syria	0	0	1	1
 syrië	syrie	0	0	1	0
 uitgegeven	issued	0	0	1	0
@@ -6512,8 +6358,6 @@ merkte	mark	0	0	1	0
 technische	technical	0	0	1	0
 wachten	to wait	0	0	1	0
 wachten	wait	0	0	1	1
-optredens	appearence	0	0	1	0
-optredens	performances	0	0	1	0
 compenseren	compensate	0	0	1	1
 compenseren	to compensate	0	0	1	0
 gemeenschappelijk	communal	0	0	1	1
@@ -6535,7 +6379,6 @@ middenoosten	middle east	0	0	1	0
 genoot	delight	0	0	1	0
 genoot	enjoyed	0	0	1	0
 ioc	international olympic committee	0	0	1	0
-ioc	ioc	0	0	1	0
 grondig	thoroughly	0	0	1	1
 grondig	thorough	0	0	1	1
 eddy	eddy	0	0	1	0
@@ -6591,6 +6434,7 @@ kiezen	choose	0	0	1	1
 caribische	caribic	0	0	1	0
 caribische	caribian	0	0	1	0
 caribische	caribbean	0	0	1	0
+orientationhorizontal	orientation horizontal	0	0	1	0
 duidelijker	more obvious	0	0	1	0
 duidelijker	clearer	0	0	1	0
 duidelijker	more clear	0	0	1	0
@@ -6617,7 +6461,6 @@ carcheologisch	archeologic	0	0	1	0
 carcheologisch	c archaeological	0	0	1	0
 trouwen	marry	0	0	1	1
 gruzielement	horcrux	0	0	1	0
-kai	kai	0	0	1	0
 sets	sets	0	0	1	0
 kan	can	0	0	1	1
 freddie	freddie	0	0	1	0
@@ -6684,7 +6527,6 @@ dominant	dominant	0	0	1	1
 biercultuur	beer culture	0	0	1	0
 ingalls	ingalls	0	0	1	0
 hoeft	need	0	0	1	0
-hoeft	do	0	0	1	0
 hoeft	needs	0	0	1	0
 international	international	0	0	1	0
 overgang	transition	0	0	1	1
@@ -6713,7 +6555,6 @@ georiënteerde	orientated	0	0	1	0
 bedroeg	was	0	0	1	0
 bedroeg	was (amounted)	0	0	1	0
 verloren	lost	0	0	1	1
-moesten	had to	0	0	1	0
 moesten	had	0	0	1	0
 moesten	had to go	0	0	1	0
 gezelschap	company	0	0	1	1
@@ -6776,9 +6617,8 @@ dieper	deep	0	0	1	0
 wel	well	0	0	1	1
 wel	as well	0	0	1	0
 overmatig	excessive	0	0	1	0
-hieruit	from here on out	0	0	1	0
-hieruit	from this follows	0	0	1	0
-hieruit	from this	0	0	1	0
+gerucht	rumour	0	0	1	1
+gerucht	rumor	0	0	1	1
 dames	ladies	0	0	1	0
 jantje	jantje	0	0	1	0
 regelmatige	regularly	0	0	1	0
@@ -6798,16 +6638,14 @@ katten	cats	0	0	1	0
 katten	feline	0	0	1	0
 katten	small furry mammal which is often kept as a pet	0	0	1	0
 katten	cat	0	0	1	0
-gloeidraad	glowwire	0	0	1	0
 gloeidraad	filament	0	0	1	1
 bezette	occupied	0	0	1	0
-dame	lady	0	0	1	1
+walter	walter	0	0	1	0
 sanders	sanders	0	0	1	0
 kunstenaars	artists	0	0	1	0
 boy	boy	0	0	1	0
 bestand	agreement	0	0	1	0
 bestand	file	0	0	1	0
-else	else	0	0	1	0
 anthony	anthony	0	0	1	0
 kunstmatige	artificial	0	0	1	0
 academische	academic	0	0	1	0
@@ -6815,7 +6653,6 @@ folklore	folklore	0	0	1	1
 beheerst	controlled	0	0	1	0
 beheerst	dominated	0	0	1	0
 loon	wage	0	0	1	1
-stoornis	disturbance	0	0	1	1
 stoornis	disorder	0	0	1	0
 look	look - part of proper noun	0	0	1	0
 look	look	0	0	1	0
@@ -6837,8 +6674,7 @@ oostenrijkse	habsburg	0	0	1	0
 bijvoorbeeld	for instance	0	0	1	1
 bijvoorbeeld	by example	0	0	1	0
 tijdgenoten	contemporaries	0	0	1	0
-eenmaal	simply	0	0	1	0
-eenmaal	once	0	0	1	1
+tests	tests	0	0	1	0
 verschilt	differs	0	0	1	0
 ontstane	originated	0	0	1	0
 ontstane	were formed - 3rd and 4th sentence	0	0	1	0
@@ -6848,7 +6684,6 @@ voorjaar	spring	0	0	1	1
 zijne	his	0	0	1	0
 vulkaan	volcano	0	0	1	1
 vulkaan	vulcano	0	0	1	0
-opvoeding	education	0	0	1	1
 opvoeding	upbringing	0	0	1	1
 klansmen	klansmen	0	0	1	0
 klansmen	clanmen	0	0	1	0
@@ -6864,7 +6699,8 @@ aangevoerd	argued	0	0	1	0
 aangevoerd	delivered	0	0	1	0
 aangevoerd	landed	0	0	1	0
 aangevoerd	raised	0	0	1	0
-conflict	conflict	0	0	1	1
+geslaagd	successful	0	0	1	1
+geslaagd	succeeded	0	0	1	0
 optie	option	0	0	1	1
 lagerhuis	bearing	0	0	1	0
 lagerhuis	house of commons	0	0	1	0
@@ -6880,12 +6716,9 @@ zwak	weak	0	0	1	1
 natuurlijke	natural	0	0	1	0
 voorprogramma	for program	0	0	1	0
 voorprogramma	support act	0	0	1	0
-hoeken	corners	0	0	1	0
-hoeken	angles	0	0	1	0
 brussels	brussels	0	0	1	0
 koorts	fever	0	0	1	1
 database	database	0	0	1	0
-behulp	using	0	0	1	0
 behulp	the help	0	0	1	0
 behulp	help	0	0	1	0
 brengt	brings	0	0	1	0
@@ -6914,7 +6747,6 @@ elektriciteit	electricity	0	0	1	1
 geïnteresseerd	interested	0	0	1	1
 geïnteresseerd	interested interested interested	0	0	1	0
 $	dollarsign	0	0	1	0
-$	$	0	0	1	0
 overtuigen	convince	0	0	1	1
 rijke	rich	0	0	1	0
 opleving	revival	0	0	1	0
@@ -6939,8 +6771,7 @@ slaagt	succeed	0	0	1	0
 slaagt	succeeds	0	0	1	0
 dienstverlening	services	0	0	1	0
 dienstverlening	provision ofservices	0	0	1	0
-verheven	exalted	0	0	1	1
-verheven	elevated	0	0	1	1
+districten	districts	0	0	1	0
 eer	honour	0	0	1	1
 eer	before	0	0	1	0
 een	one	0	0	1	1
@@ -6955,9 +6786,9 @@ beeld	view	0	0	1	0
 soms	sometimes	0	0	1	1
 braken	throwing up	0	0	1	0
 braken	vomiting	0	0	1	0
+boulevard	boulevard	0	0	1	1
 dikte	thickness	0	0	1	1
 dikte	girth	0	0	1	0
-nauwelijks	barely	0	0	1	1
 nauwelijks	hardly	0	0	1	1
 betaald	paid	0	0	1	1
 sprong	jump	0	0	1	1
@@ -6990,7 +6821,6 @@ palestijnen	palestins	0	0	1	0
 palestijnen	palestinian	0	0	1	0
 bewijzen	proof	0	0	1	0
 bewijzen	evidence	0	0	1	1
-|align=left|ik	align left i	0	0	1	0
 |align=left|im	align	0	0	1	0
 karavanserai	caravan campsite	1	1	0	0
 karavanserai	karavanserai	1	1	0	0
@@ -7029,9 +6859,6 @@ koreaanse	korean	0	0	1	0
 middeneuropa	central europe	0	0	1	0
 middeneuropa	middle-europe	0	0	1	0
 middeneuropa	middle europe	0	0	1	0
-gedragingen	behaviour	0	0	1	0
-gedragingen	behaviors	0	0	1	0
-gedragingen	behavior	0	0	1	0
 adam	adam (name)	0	0	1	0
 adam	adam	0	0	1	1
 representatieve	representative	0	0	1	0
@@ -7087,7 +6914,10 @@ berlijn	berlin	0	0	1	0
 sekte	cult	0	0	1	0
 sekte	sect	0	0	1	1
 ijzeren	iron	0	0	1	1
-cyclus	cycle	0	0	1	1
+belgisch	belgium	0	0	1	0
+belgisch	belgian	0	0	1	1
+beschrijvingen	descriptions	0	0	1	0
+beschrijvingen	descripions	0	0	1	0
 stamboom	family tree	0	0	1	1
 stamboom	tree	0	0	1	1
 stamboom	genealogy	0	0	1	1
@@ -7099,9 +6929,8 @@ department	department	0	0	1	0
 bereiden	prepare	0	0	1	1
 manhattan	manhattan	0	0	1	1
 vaticaans	vatican	0	0	1	0
-wisselend	variable	0	0	1	1
-wisselend	changing	0	0	1	0
-wisselend	varying	0	0	1	0
+dage	nowadays	0	0	1	0
+dage	day	0	0	1	0
 william	william	0	0	1	0
 staart	tail	0	0	1	1
 ook	also	0	0	1	1
@@ -7113,13 +6942,11 @@ resten	residues	0	0	1	0
 vernieuwing	renewal	0	0	1	1
 verhoogde	increased	0	0	1	0
 verhoogde	highered	0	0	1	0
-e	e	0	0	1	1
 betreden	set foot on	0	0	1	0
 betreden	entering	0	0	1	0
 betreden	enter	0	0	1	1
 dvd	dvd	0	0	1	0
 castilië	castile	0	0	1	0
-castilië	castilia	0	0	1	0
 agressie	aggression	0	0	1	1
 youtube	youtube	0	0	1	0
 romantische	romantic	0	0	1	0
@@ -7203,7 +7030,6 @@ vooruitgang	progress	0	0	1	1
 vooruitgang	evolvement	0	0	1	0
 vluchten	flights	0	0	1	0
 vluchten	fleeing	0	0	1	0
-bevrijd	liberated	0	0	1	1
 bevrijd	freed	0	0	1	0
 vaccin	vaccine	0	0	1	1
 vaccin	solution of weakened or modified pathogen cells which is injected into the body in order to stimulate the production of antibodies to a disease	0	0	1	0
@@ -7270,7 +7096,7 @@ nodige	some	0	0	1	0
 nodige	necessary	0	0	1	0
 ontmoetten	meet	0	0	1	0
 ontmoetten	met	0	0	1	0
-lockheed	lockheed	0	0	1	0
+italiaans	italian	0	0	1	1
 dader	perpetrator	0	0	1	1
 dader	culprit	0	0	1	1
 dader	offender	0	0	1	0
@@ -7299,13 +7125,11 @@ starten	to start	0	0	1	0
 starten	start	0	0	1	1
 magische	magic	0	0	1	0
 magische	magical	0	0	1	0
-moeilijk	difficult	0	0	1	1
+stichting	foundation	0	0	1	1
 lieve	dear	0	0	1	1
 lieve	sweet	0	0	1	0
 gerecht	dish	0	0	1	1
-bepaling	condition / rule (in this context)	0	0	1	0
-bepaling	determination	0	0	1	1
-bepaling	condition	0	0	1	1
+zelfde	same	0	0	1	1
 producten	products	0	0	1	0
 aanwezigheid	presence	0	0	1	1
 plotselinge	sudden	0	0	1	0
@@ -7340,8 +7164,7 @@ verbranding	burn	0	0	1	0
 verbranding	combustion	0	0	1	1
 verbranding	burning	0	0	1	1
 gestart	started	0	0	1	0
-hiv	aids	0	0	1	0
-hiv	hiv	0	0	1	0
+posities	positions	0	0	1	0
 stemmen	vote	0	0	1	1
 andes	andes	0	0	1	0
 georg	georg (sjors)	0	0	1	0
@@ -7356,7 +7179,6 @@ telefoonnummer	telephone number	0	0	1	0
 geestelijke	spiritual	0	0	1	0
 geestelijke	clergyman	0	0	1	1
 geestelijke	clergy	0	0	1	0
-zowel	both	0	0	1	0
 zowel	as well as	0	0	1	0
 hemel	heaven	0	0	1	1
 perzische	persian	0	0	1	0
@@ -7437,13 +7259,12 @@ gebieden	territories	0	0	1	0
 gebieden	areas	0	0	1	0
 bachs	bach's	0	0	1	0
 bachs	bach	0	0	1	0
-university	university	0	0	1	0
+nationale	national	0	0	1	0
 moslim	moslim	0	0	1	0
 moslim	muslim	0	0	1	1
 zulke	such	0	0	1	0
 mode	fashion	0	0	1	1
 pools	polish	0	0	1	1
-exportproducten	exportproducts	0	0	1	0
 exportproducten	export products	0	0	1	0
 pepijn	pepin	0	0	1	0
 getroffen	hit	0	0	1	0
@@ -7487,7 +7308,6 @@ organiseert	organise	0	0	1	0
 organiseert	organises	0	0	1	0
 torres	torres	0	0	1	0
 ondernemingen	companies	0	0	1	0
-ondernemingen	entreprises	0	0	1	0
 ondernemingen	enterprises	0	0	1	0
 oostberlijn	east berlin	0	0	1	0
 oostberlijn	east-berlin	0	0	1	0
@@ -7509,7 +7329,6 @@ koningen	kings	0	0	1	0
 anoniem	anonymous	0	0	1	1
 verplaatsen	move	0	0	1	1
 verplaatsen	replaced	0	0	1	0
-verplaatsen	to place	0	0	1	0
 route	route	0	0	1	1
 zuiden	south	0	0	1	1
 florida	florida	0	0	1	1
@@ -7550,7 +7369,6 @@ draad	thread	0	0	1	1
 congo	congo	0	0	1	1
 warcraft	warcraft	0	0	1	0
 bitch	teef	0	0	1	0
-bitch	bitch	0	0	1	0
 art	art	0	0	1	0
 art	kunst	0	0	1	0
 draak	dragon	0	0	1	1
@@ -7583,7 +7401,6 @@ waarbij	at which	0	0	1	0
 waarbij	whereby	0	0	1	1
 rechtstreeks	directly	0	0	1	1
 bassist	bassist	0	0	1	0
-bassist	a person who plays a double bass or bass guitar	0	0	1	0
 bassist	bass player	0	0	1	0
 bieber	bieber	0	0	1	0
 vissen	fishes	0	0	1	0
@@ -7597,14 +7414,13 @@ precieze	exact	0	0	1	0
 ben	ben	0	0	1	0
 ben	am	0	0	1	0
 bel	bell	0	0	1	1
-academisch	academic	0	0	1	0
-academisch	university	0	0	1	1
+genoemde	mentioned	0	0	1	0
+genoemde	called	0	0	1	0
 monumenten	monuments	0	0	1	0
 bed	bed	0	0	1	1
 feesten	celebrations	0	0	1	0
 blijft	remains	0	0	1	0
 blijft	continues	0	0	1	0
-verslaan	beat	0	0	1	0
 verslaan	defeat	0	0	1	1
 geregisseerd	directed	0	0	1	0
 geregisseerd	directored	0	0	1	0
@@ -7634,7 +7450,6 @@ volksmond	popular speech	0	0	1	0
 dichters	poets	0	0	1	0
 aarde	earth	0	0	1	1
 jorge	jorge	0	0	1	0
-konijn	rabbit	0	0	1	1
 reageert	reacts	0	0	1	0
 reageert	responds	0	0	1	0
 hiphop	hiphop	0	0	1	0
@@ -7645,7 +7460,6 @@ sedert	since	0	0	1	1
 vriendschap	friendship	0	0	1	1
 tweemaal	double	0	0	1	0
 tweemaal	twice	0	0	1	1
-gallery	gallery	0	0	1	0
 gescoord	scored	0	0	1	0
 dramatische	dramatic	0	0	1	0
 intocht	entry	0	0	1	1
@@ -7675,11 +7489,10 @@ verbod	prohibition	0	0	1	1
 verbod	forbidden/ ban	0	0	1	0
 parken	park	0	0	1	0
 parken	parks	0	0	1	0
-bestanden	files	0	0	1	0
-bestanden	files/ truces	0	0	1	0
+bedreven	driven	0	0	1	0
+bedreven	proficient	0	0	1	1
 brabants	brabants	0	0	1	0
 schilders	painters	0	0	1	0
-engel	engel	0	0	1	0
 engel	angel	0	0	1	1
 gronden	grounds	0	0	1	0
 gronden	ground	0	0	1	1
@@ -7689,7 +7502,6 @@ beoordeling	appraisal	0	0	1	0
 winnen	win	0	0	1	1
 winnen	to win	0	0	1	0
 filmfestival	film festival	0	0	1	0
-b	b	0	0	1	0
 westelijke	western	0	0	1	0
 boris	boris	0	0	1	0
 boris	boris (name)	0	0	1	0
@@ -7708,7 +7520,6 @@ spijt	sorrow	0	0	1	0
 spijt	sorry	0	0	1	0
 spijt	regret	0	0	1	1
 gray	gray	0	0	1	0
-besturen	control	0	0	1	1
 besturen	committee	0	0	1	0
 besturen	govern	0	0	1	1
 geliefde	loved	0	0	1	0
@@ -7740,7 +7551,6 @@ uiteen	apart	0	0	1	1
 klopt	fits	0	0	1	0
 klopt	knocks	0	0	1	0
 klopt	beats	0	0	1	0
-nightmare	nightmare	0	0	1	0
 gedachten	thoughts (4th and 5th sentence)	0	0	1	0
 gedachten	mind (3rd sentence)	0	0	1	0
 gedachten	thoughts	0	0	1	0
@@ -7759,7 +7569,6 @@ vertrouwen	trust	0	0	1	1
 snelste	quickest	0	0	1	0
 snelste	fastest	0	0	1	0
 onderscheiden	differentiated	0	0	1	0
-onderscheiden	recognize or treat (someone or something) as different	0	0	1	0
 onderscheiden	distinguished	0	0	1	0
 zagen	to saw	0	0	1	0
 zagen	saw	0	0	1	1
@@ -7789,11 +7598,10 @@ leipzig	leipzig	0	0	1	0
 johann	johann	0	0	1	0
 cruciaal	crucial	0	0	1	0
 opmerkingen	remarks	0	0	1	0
-opmerkingen	remark	0	0	1	0
 opmerkingen	comments	0	0	1	0
 kings	kings	0	0	1	0
 willy	willy	0	0	1	0
-hedendaagse	contemporary	0	0	1	0
+frankische	frankish	0	0	1	0
 volwassenen	adults	0	0	1	0
 liberale	liberal	0	0	1	0
 sara	sara	0	0	1	0
@@ -7818,14 +7626,12 @@ allerlei	all sorts of	0	0	1	0
 allerlei	all kinds of	0	0	1	1
 vinci	vinci	0	0	1	0
 germanen	germans	0	0	1	0
-germanen	teutons	0	0	1	0
 voortgebracht	produced	0	0	1	0
 controller	controller	0	0	1	0
 geregeerd	governed	0	0	1	0
 geregeerd	ruled	0	0	1	0
 opgeblazen	bloated	0	0	1	1
 opgeblazen	inflated	0	0	1	0
-opgeblazen	blown up	0	0	1	0
 hamburg	hamborg	0	0	1	0
 hamburg	hamburg	0	0	1	1
 landelijke	rural	0	0	1	0
@@ -7844,7 +7650,6 @@ bijgestaan	assisted	0	0	1	0
 gestemd	voted	0	0	1	0
 negen	nine	0	0	1	1
 uitkomst	output	0	0	1	1
-uitkomst	outcome	0	0	1	0
 uitkomst	result	0	0	1	1
 enkel	only	0	0	1	1
 enkel	singular	0	0	1	0
@@ -7880,8 +7685,8 @@ agaat	agate	1	1	0	1
 experimenten	experiments	0	0	1	0
 eyck	taken	0	0	1	0
 effect	effect	0	0	1	1
-fiets	bicycle	0	0	1	1
 fiets	bycicle	0	0	1	0
+fiets	bicycle	0	0	1	1
 controleert	examines	0	0	1	0
 controleert	controls	0	0	1	0
 gloria	gloria	0	0	1	0
@@ -7889,8 +7694,6 @@ onderhevig	subject to	0	0	1	0
 onderhevig	subject	0	0	1	0
 onderhevig	submitted to/ subjected to	0	0	1	0
 westelijk	westerly	0	0	1	1
-westelijk	western	0	0	1	1
-tegelijkertijd	similtaneously	0	0	1	0
 tegelijkertijd	at the same time	0	0	1	0
 zestiende	sixteenth	0	0	1	1
 i	i	0	0	1	0
@@ -7915,7 +7718,8 @@ iraanse	iraanse	0	0	1	0
 iraanse	iranian	0	0	1	0
 collectie	collection	0	0	1	1
 himmler	himmler	0	0	1	0
-virtual	virtual	0	0	1	0
+streven	striving	0	0	1	0
+streven	strive	0	0	1	0
 vermelding	mention	0	0	1	1
 gevaren	dangers	0	0	1	0
 gevaren	hazards	0	0	1	0
@@ -7959,8 +7763,6 @@ lager	lower	0	0	1	1
 twitter	twitter	0	0	1	0
 verminderd	decreased	0	0	1	0
 verminderd	diminished	0	0	1	0
-verminderd	reduced	0	0	1	0
-library	library	0	0	1	0
 daaraan	on it; on them	0	0	1	0
 daaraan	it	0	0	1	0
 daaraan	on it	0	0	1	0
@@ -7991,14 +7793,12 @@ apothecium	apothecia	1	0	1	0
 apothecium	ascocarp	1	1	0	0
 apothecium	apothecium	1	0	1	0
 objecten	objects	0	0	1	0
-vrij	releases	0	0	1	0
 vrij	free	0	0	1	1
 alliantie	alliance	0	0	1	0
 karakter	character	0	0	1	1
 dwerg	midget	0	0	1	1
 dwerg	dwarf	0	0	1	1
 beëindigd	ended	0	0	1	0
-beëindigd	discharged	0	0	1	0
 verleden	past	0	0	1	1
 gevoerd	conducted	0	0	1	0
 gevoerd	led	0	0	1	0
@@ -8006,16 +7806,15 @@ uiteenvallen	collapse	0	0	1	1
 jongeren	youth	0	0	1	0
 jongeren	young people	0	0	1	0
 noordafrika	north africa	0	0	1	0
-noordafrika	northern africa	0	0	1	0
-gerucht	rumour	0	0	1	1
-gerucht	rumor	0	0	1	1
+hieruit	from here on out	0	0	1	0
+hieruit	from this follows	0	0	1	0
+hieruit	from this	0	0	1	0
 middelgrote	medium	0	0	1	0
 middelgrote	medium-sized	0	0	1	0
 aanvoerder	captain	0	0	1	1
 aanvoerder	leader	0	0	1	1
 opnemen	absorb	0	0	1	0
 opnemen	take on	0	0	1	0
-opnemen	to measure	0	0	1	0
 verklaren	explain	0	0	1	1
 genade	mercy	0	0	1	1
 genade	grace	0	0	1	1
@@ -8077,9 +7876,7 @@ degelijk	certainly	0	0	1	0
 degelijk	thorough	0	0	1	1
 degelijk	actually	0	0	1	0
 geslachten	sexes	0	0	1	0
-north	north	0	0	1	0
 lezen	read	0	0	1	1
-lezen	readable	0	0	1	0
 echter	however	0	0	1	1
 thumb|rechts|de	thumb \ right \ the	0	0	1	0
 steun	patronage	0	0	1	1
@@ -8128,9 +7925,9 @@ solitair	solitair	1	1	0	0
 arbeiders	workers	0	0	1	0
 arbeiders	labor	0	0	1	1
 universal	universal	0	0	1	0
-haalden	made	0	0	1	0
-haalden	took	0	0	1	0
 haalden	made it to	0	0	1	0
+haalden	took	0	0	1	0
+haalden	made	0	0	1	0
 mechanica	mechanics	0	0	1	1
 definitie	definition	0	0	1	1
 erik	erik	0	0	1	0
@@ -8141,8 +7938,8 @@ westminster	westminster	0	0	1	0
 proxyserver	proxyserver	0	0	1	0
 proxyserver	proxy server	0	0	1	0
 mysterieuze	mysterious	0	0	1	0
-diezelfde	the same	0	0	1	0
-diezelfde	same	0	0	1	0
+marihuana	marihuana	0	0	1	1
+marihuana	marijuana	0	0	1	1
 star	rigid	0	0	1	1
 star	star (ster)	0	0	1	0
 stap	step	0	0	1	1
@@ -8176,8 +7973,6 @@ frankfurt	frankfurt	0	0	1	1
 achterzijde	backside	0	0	1	0
 achterzijde	back	0	0	1	1
 scheiden	divorce	0	0	1	1
-scheiden	humble	0	0	1	0
-scheiden	separate	0	0	1	1
 ademhaling	breathing	0	0	1	1
 ademhaling	breathing / respiration	0	0	1	0
 alcoholisme	alcoholism	0	0	1	1
@@ -8189,20 +7984,18 @@ verwerven	acquire	0	0	1	1
 verwerven	to obtain	0	0	1	0
 gezocht	sought	0	0	1	0
 gezocht	look for	0	0	1	0
-gezocht	searched	0	0	1	0
 uitg	publishing company (short for: "uitgeverij")	0	0	1	0
 vertrekt	leaves	0	0	1	0
 bescherming	protection	0	0	1	1
 verrassend	surprisingly	0	0	1	1
 verrassend	surprising	0	0	1	1
-trauma	trauma	0	0	1	1
+soortgelijke	similar	0	0	1	0
 uiterst	extremely	0	0	1	1
 uiterst	extreme	0	0	1	1
 aanbidden	to worship	0	0	1	0
 aanbidden	worship	0	0	1	1
 zogeheten	so called	0	0	1	0
 zogeheten	so-called	0	0	1	0
-motivatie	motivation	0	0	1	1
 bazel	bazel	0	0	1	0
 bazel	bazel - proper noun	0	0	1	0
 categorieplaats	category	0	0	1	0
@@ -8217,11 +8010,8 @@ bevat	contains	0	0	1	0
 gearresteerd	arrested	0	0	1	0
 veranderen	to change	0	0	1	0
 veranderen	change	0	0	1	1
-levensjaar	year of life	0	0	1	0
-levensjaar	e.g.: third year	0	0	1	0
 cholesterol	cholesterol	0	0	1	0
 geur	smell	0	0	1	1
-geur	odor	0	0	1	1
 geur	scent	0	0	1	1
 kerkhof	cemetery	0	0	1	1
 kerkhof	graveyard	0	0	1	1
@@ -8252,8 +8042,7 @@ snaren	strings	0	0	1	0
 wolkenkrabbers	skyscrapers	0	0	1	0
 opgedeeld	divided	0	0	1	0
 opgedeeld	split up	0	0	1	0
-geloven	believe	0	0	1	1
-geloven	beliefs	0	0	1	0
+new	new	0	0	1	0
 net	just	0	0	1	1
 panden	premises	0	0	1	0
 panden	buildings	0	0	1	0
@@ -8285,7 +8074,8 @@ activa	assets	0	0	1	1
 gasten	guests	0	0	1	0
 kwik	mercury	0	0	1	1
 guus	guus	0	0	1	0
-orientationhorizontal	orientation horizontal	0	0	1	0
+chronologische	chronology	0	0	1	0
+chronologische	chronological	0	0	1	0
 piercing	piercing	0	0	1	0
 vijand	enemy	0	0	1	1
 onderhandelingen	bargain	0	0	1	0
@@ -8299,7 +8089,6 @@ reagan	reagan	0	0	1	0
 bussen	busses	0	0	1	0
 bussen	buses	0	0	1	0
 verblijven	remain	0	0	1	0
-verblijven	stay	0	0	1	1
 verblijven	staying - 1st sentence	0	0	1	0
 verblijven	stay - 3rd and 5th sentence	0	0	1	0
 county	county	0	0	1	0
@@ -8349,7 +8138,7 @@ landbouw	farming	0	0	1	1
 landbouw	agriculture	0	0	1	1
 schreef	wrote	0	0	1	0
 bereikten	reached	0	0	1	0
-rook	smoke	0	0	1	1
+flora	flora	0	0	1	1
 rights	rights	0	0	1	0
 procent	percent	0	0	1	0
 bergketen	mountain chain	0	0	1	0
@@ -8373,10 +8162,9 @@ sovjetunie	sovjet-union	0	0	1	0
 acteurs	actors	0	0	1	0
 recentelijk	recently	0	0	1	0
 noordcyprus	north(ern)-cyprus	0	0	1	0
-noordcyprus	northern cypres	0	0	1	0
 noordcyprus	northern cyprus	0	0	1	0
-meerdere	multiple	0	0	1	0
-meerdere	more	0	0	1	0
+noordcyprus	northern cypres	0	0	1	0
+parodie	parody	0	0	1	1
 vervanging	substitute	0	0	1	0
 vervanging	replacement	0	0	1	1
 promotie	promotion	0	0	1	1
@@ -8385,9 +8173,7 @@ ingenomen	occupied	0	0	1	0
 bonaparte	bonaparte	0	0	1	0
 getest	tested	0	0	1	0
 quod	quod	0	0	1	0
-stille	quiet	0	0	1	0
 stille	pacific	0	0	1	0
-bredere	wider	0	0	1	0
 bredere	broad	0	0	1	0
 bredere	broader	0	0	1	0
 autonome	autonomous	0	0	1	0
@@ -8428,7 +8214,6 @@ helena	helen	0	0	1	1
 natuur	nature	0	0	1	1
 samenleving	society	0	0	1	1
 sanskriet	sanskrit	0	0	1	1
-depressies	depressions	0	0	1	0
 depressies	depression	0	0	1	0
 kwartfinale	quarter final	0	0	1	0
 kwartfinale	quarterfinals	0	0	1	0
@@ -8462,7 +8247,6 @@ one	one	0	0	1	0
 beschouwde	considered	0	0	1	0
 portretten	portraits	0	0	1	0
 portretten	portrets	0	0	1	0
-ontlasting	stool	0	0	1	1
 ontlasting	shit	0	0	1	0
 ontlasting	defecation	0	0	1	1
 bono	good	0	0	1	0
@@ -8487,7 +8271,6 @@ navo	navo - dutch abbreviation of north atlantic treaty organization	0	0	1	0
 navo	nato	0	0	1	1
 navo	navo	0	0	1	0
 ligt	lies	0	0	1	0
-ligt	lays	0	0	1	0
 milan	milan	0	0	1	0
 allochtonen	immigrants	0	0	1	0
 allochtonen	foreigners	0	0	1	0
@@ -8503,8 +8286,7 @@ opzichte	with respect to	0	0	1	0
 gelder	gelder - proper noun - surname	0	0	1	0
 gelder	gelder	0	0	1	0
 acteur	actor	0	0	1	1
-voorronde	qualifying round	0	0	1	0
-voorronde	preliminary round	0	0	1	0
+vlinder	butterfly	0	0	1	1
 vergeleken	compared	0	0	1	0
 locatie	location	0	0	1	0
 vraagstukken	issue	0	0	1	0
@@ -8526,7 +8308,7 @@ normen	standards	0	0	1	0
 deelnemen	to participate	0	0	1	0
 deelnemen	participate	0	0	1	1
 little	little	0	0	1	0
-boulevard	boulevard	0	0	1	1
+etappe	stage	0	0	1	1
 formules	formulas	0	0	1	0
 deelnemer	contestant	0	0	1	0
 deelnemer	participant	0	0	1	1
@@ -8562,7 +8344,7 @@ raakt	pip	0	0	1	0
 raakt	interest	0	0	1	0
 raakt	impinge	0	0	1	0
 raakt	affect	0	0	1	0
-devotie	devotion	0	0	1	0
+zelf	self	0	0	1	1
 antistoffen	antibodies	0	0	1	0
 zeewolven	sea wolves / wolffishes	1	0	1	0
 zeewolven	anarhichas	1	0	1	0
@@ -8619,18 +8401,16 @@ liefst	"liefst": dearest/ best/ most- "maar liefst": no less (then)	0	0	1	0
 formele	formal	0	0	1	0
 jonge	young (at young age)	0	0	1	0
 jonge	young	0	0	1	0
-verbindt	binds	0	0	1	0
 verbindt	connects	0	0	1	0
 verbindt	links	0	0	1	0
 blootstelling	exposure	0	0	1	1
 nederlandse	dutch	0	0	1	0
 steenkool	coal	0	0	1	1
-steenkool	stone coal	0	0	1	1
 knights	knights	0	0	1	0
 belangrijker	more important	0	0	1	0
 drager	carrier	0	0	1	0
 drager	porter	0	0	1	1
-thumb|px|de	thumb px de	0	0	1	0
+jeruzalem	jerusalem	0	0	1	1
 goederen	goods	0	0	1	1
 palace	palace	0	0	1	0
 stadsdelen	districts	0	0	1	0
@@ -8652,7 +8432,6 @@ dragen	abide	0	0	1	0
 idgray	id gray	0	0	1	0
 idgray	id:grijs	0	0	1	0
 ontvangt	receive	0	0	1	0
-ontvangt	recieves	0	0	1	0
 gespecialiseerd	specialised	0	0	1	0
 timberlake	timberlake	0	0	1	0
 uitbrengen	cast	0	0	1	1
@@ -8697,7 +8476,6 @@ zijde	side	0	0	1	1
 m	m	0	0	1	0
 m	meter	0	0	1	0
 dog	dog	0	0	1	0
-afgezet	turned of	0	0	1	0
 afgezet	deposited - 1st sentence	0	0	1	0
 afgezet	compare - 1st word 4th sentence	0	0	1	0
 afgezet	trimmed - 8th word 4th sentence.	0	0	1	0
@@ -8706,8 +8484,6 @@ departementen	departments	0	0	1	0
 points	points	0	0	1	0
 lijkt	seems	0	0	1	0
 lijkt	appears	0	0	1	0
-toenemende	growing	0	0	1	0
-toenemende	increasing	0	0	1	0
 dor	arid	0	0	1	1
 dos	dos	0	0	1	0
 wiskunde	maths	0	0	1	1
@@ -8800,7 +8576,7 @@ ban	ban	0	0	1	0
 kosmische	cosmic	0	0	1	0
 kosmische	comical	0	0	1	0
 bal	ball	0	0	1	1
-gemeenschap	community	0	0	1	1
+penetratie	penetration	0	0	1	0
 massaal	heavy	0	0	1	0
 massaal	massive (2nd sentence)	0	0	1	0
 massaal	massively (5th and 6th sentence)	0	0	1	0
@@ -8866,11 +8642,9 @@ against	against	0	0	1	0
 afgebroken	broken down	0	0	1	0
 afgebroken	demolished	0	0	1	0
 vrouwen	women	0	0	1	1
-pinksteren	ascension	0	0	1	0
 pinksteren	whitsun	0	0	1	0
-pinksteren	pentecost	0	0	1	1
-schilderkunst	art	0	0	1	0
 schilderkunst	painting	0	0	1	1
+schilderkunst	art	0	0	1	0
 schilderkunst	art of painting	0	0	1	0
 ernst	seriousness (ernst - with a capital e is a proper name)	0	0	1	0
 ernst	ernst	0	0	1	0
@@ -8882,9 +8656,8 @@ omschrijving	description	0	0	1	0
 ervaren	experienced	0	0	1	1
 verbeterd	improved	0	0	1	0
 verbeterd	correct	0	0	1	0
-roedel	herd	0	0	1	0
 roedel	a pack (of wolves)	0	0	1	0
-roedel	pack	0	0	1	0
+roedel	herd	0	0	1	0
 aanstelling	appointment	0	0	1	1
 nagels	nails	0	0	1	0
 height	height	0	0	1	0
@@ -8944,7 +8717,6 @@ vandaag	today	0	0	1	1
 vandaan	come ( always in connection with another word: "vandaan komen": come from	0	0	1	0
 vandaan	from	0	0	1	1
 vandaar	from there	0	0	1	0
-vandaar	on that account	0	0	1	0
 vandaar	therefore	0	0	1	0
 verkrijgbaar	available	0	0	1	0
 oproep	call	0	0	1	0
@@ -8971,12 +8743,11 @@ tsjechische	czech	0	0	1	0
 tsjechische	tsjechian	0	0	1	0
 ij	ij	0	0	1	0
 im	in	0	0	1	0
-il	il	0	0	1	0
+ontkomen	to escape	0	0	1	0
+ontkomen	get away from	0	0	1	0
 vertelde	told of	0	0	1	0
 vertelde	told	0	0	1	0
-daarop	then	0	0	1	1
-daarop	upon that	0	0	1	0
-daarop	thereon	0	0	1	1
+seattle	seattle	0	0	1	0
 verpakking	packaging	0	0	1	0
 if	als	0	0	1	0
 if	if	0	0	1	0
@@ -8993,9 +8764,10 @@ mogendheden	powers	0	0	1	0
 bella	bella	0	0	1	0
 coole	cool	0	0	1	0
 roland	roland	0	0	1	0
-voorstellen	propose	0	0	1	1
-voorstellen	imagine	0	0	1	0
-dvds	dvds	0	0	1	0
+werken	work	0	0	1	1
+werken	to work	0	0	1	0
+kast	clost	0	0	1	0
+kast	closet	0	0	1	1
 gekenmerkt	characterised	0	0	1	0
 gekenmerkt	to mark	0	0	1	0
 gekenmerkt	marked	0	0	1	0
@@ -9014,7 +8786,6 @@ kim	horizon	0	0	1	1
 graafschap	county	0	0	1	1
 graafschap	country	0	0	1	0
 kid	kid	0	0	1	0
-servië	servie	0	0	1	0
 servië	serbia	0	0	1	0
 romp	body	0	0	1	1
 romp	shell	0	0	1	1
@@ -9024,9 +8795,7 @@ romp	carcase	0	0	1	1
 romp	trunk	0	0	1	1
 romp	torso	0	0	1	1
 slechte	bad	0	0	1	0
-ambtenaren	clerks	0	0	1	0
-ambtenaren	officials	0	0	1	0
-ambtenaren	officials / civil servants	0	0	1	0
+youre	youre	0	0	1	0
 verwierf	acquired	0	0	1	0
 rome	rome - proper noun	0	0	1	0
 rome	rome	0	0	1	1
@@ -9038,8 +8807,7 @@ ritus	ritus	0	0	1	0
 slechts	merely	0	0	1	1
 slechts	only	0	0	1	1
 andere	other	0	0	1	1
-facto	facto	0	0	1	0
-facto	(in) fact	0	0	1	0
+protocol	protocol	0	0	1	1
 terminologie	terminology	0	0	1	1
 beschikking	available	0	0	1	0
 beschikking	disposal	0	0	1	1
@@ -9052,7 +8820,8 @@ noordoostelijke	northeasterly	0	0	1	0
 noordoostelijke	northeastern	0	0	1	0
 noordoostelijke	north-eastern	0	0	1	0
 personages	characters	0	0	1	0
-human	human	0	0	1	0
+erkenning	recognition	0	0	1	1
+erkenning	acknowledgement	0	0	1	1
 anders	different from	0	0	1	0
 anders	differently	0	0	1	1
 anders	unlike	0	0	1	1
@@ -9074,11 +8843,13 @@ algerije	algeria	0	0	1	1
 opbrengsten	takings	0	0	1	0
 opbrengsten	revenues	0	0	1	0
 juiste	right	0	0	1	0
-juiste	just	0	0	1	0
 zou	would	0	0	1	0
 zou	should	0	0	1	0
 gustav	gustav	0	0	1	0
-amerikaanse	american	0	0	1	1
+afgelopen	finished (2nd sentence)	0	0	1	0
+afgelopen	over	0	0	1	1
+afgelopen	past (in all other cases in the text)	0	0	1	0
+afgelopen	finished	0	0	1	1
 vanessa	vanessa	0	0	1	0
 categoriehoofdstad	category of capital	0	0	1	0
 categoriehoofdstad	category : capital	0	0	1	0
@@ -9102,7 +8873,8 @@ onderdrukt	suppressed	0	0	1	0
 honger	starvation	0	0	1	0
 honger	hunger	0	0	1	1
 archief	archive	0	0	1	1
-districten	districts	0	0	1	0
+verheven	exalted	0	0	1	1
+verheven	elevated	0	0	1	1
 determinator	determinater	1	0	1	0
 determinator	derterminer	1	0	1	0
 determinator	determiner	1	1	0	0
@@ -9149,14 +8921,17 @@ leiden	leed to	0	0	1	0
 extreem	extreme	0	0	1	1
 westduitsland	west germany	0	0	1	0
 verbleef	stayed	0	0	1	0
-etappe	stage	0	0	1	1
 slavernij	slavery	0	0	1	1
 trilogie	trilogy	0	0	1	1
 super	super	0	0	1	0
 zus	sister	0	0	1	1
 oren	ears	0	0	1	0
-asperger	asperger	0	0	1	0
-geïnfecteerd	infected	0	0	1	0
+erkent	acknowledge	0	0	1	0
+erkent	recognizes	0	0	1	0
+erkent	acknowledges	0	0	1	0
+erkent	recognize; allow	0	0	1	0
+erkent	permit	0	0	1	0
+piramide	pyramid	0	0	1	1
 giftanden	poison fangs	0	0	1	0
 giftanden	venomous teeth	0	0	1	0
 giftanden	poison cogs	0	0	1	0
@@ -9165,10 +8940,11 @@ boord	board	0	0	1	1
 introduceerde	introduced	0	0	1	0
 magazine	magazine	0	0	1	0
 wonen	live	0	0	1	1
-wonen	inhabit	0	0	1	1
 erkend	recognised	0	0	1	0
 erkend	acknowledged	0	0	1	0
 erkend	recognized	0	0	1	1
+meerderheid	biiggest part	0	0	1	0
+meerderheid	majority	0	0	1	1
 gemaakte	made	0	0	1	0
 zogenoemde	so called	0	0	1	0
 zogenoemde	so-called	0	0	1	0
@@ -9190,7 +8966,6 @@ lied	song	0	0	1	1
 slurf	proboscis	0	0	1	1
 slurf	trunk	0	0	1	0
 aanvang	started	0	0	1	0
-aanvang	start	0	0	1	1
 aanvang	commencement	0	0	1	1
 georganiseerde	organised	0	0	1	0
 georganiseerde	organized	0	0	1	0
@@ -9220,16 +8995,13 @@ judokas	judokas	0	0	1	0
 judokas	judoka's	0	0	1	0
 bolivia	bolivia	0	0	1	1
 bevestigde	confirmed	0	0	1	0
-begraven	burried	0	0	1	0
 begraven	bury	0	0	1	1
 bezighouden	occupy	0	0	1	1
-uitvoeren	perform	0	0	1	1
 uitvoeren	execute	0	0	1	1
 uitvoeren	conduct	0	0	1	0
 mongolen	mongols	0	0	1	0
 mongolen	moguls	0	0	1	0
 voorgrond	front	0	0	1	0
-voorgrond	foreground	0	0	1	1
 voorgrond	taking centre stage	0	0	1	0
 analyse	analysis	0	0	1	1
 landing	landing	0	0	1	1
@@ -9288,7 +9060,7 @@ takken	branches	0	0	1	0
 aanraking	touch	0	0	1	1
 aanraking	contact	0	0	1	1
 handen	hands	0	0	1	0
-kostuums	costumes	0	0	1	0
+adipocere	adipocere	0	0	1	0
 handel	commerce	0	0	1	1
 handel	trade	0	0	1	1
 toentertijd	in those days	0	0	1	0
@@ -9352,14 +9124,12 @@ manager	manager	0	0	1	0
 vestigen	to establish	0	0	1	0
 vestigen	settle	0	0	1	1
 roken	smoking	0	0	1	0
-aangebracht	applied	0	0	1	0
 aangebracht	attached	0	0	1	0
 aangebracht	installed	0	0	1	0
 progressieve	progressive	0	0	1	0
 markt	maket	0	0	1	0
 markt	market	0	0	1	1
 uitverkocht	used up	0	0	1	0
-uitverkocht	sold out	0	0	1	1
 kofi	kofi	0	0	1	0
 tegenstellingen	differences	0	0	1	0
 tegenstellingen	contradictions	0	0	1	0
@@ -9371,7 +9141,6 @@ petrelli	petrelli	0	0	1	0
 prof	prof	0	0	1	0
 prof	prof.	0	0	1	0
 gelegenheid	opportunity	0	0	1	1
-gelegenheid	event	0	0	1	0
 gelegenheid	possibility	0	0	1	0
 dode	death	0	0	1	0
 dode	dead	0	0	1	0
@@ -9382,8 +9151,7 @@ did	did	0	0	1	0
 roepen	call	0	0	1	1
 roepen	cal	0	0	1	0
 deelname	participation	0	0	1	1
-anna	anna - proper noun - first name	0	0	1	0
-anna	anna	0	0	1	0
+moeilijk	difficult	0	0	1	1
 widthin	widthin	0	0	1	0
 dit	this	0	0	1	1
 betreft	concerns	0	0	1	0
@@ -9430,7 +9198,6 @@ lennon	lennon	0	0	1	0
 heren	gentlemen	0	0	1	0
 heren	lords	0	0	1	0
 franstaligen	french speaking	0	0	1	0
-franstaligen	french speakers	0	0	1	0
 franstaligen	french	0	0	1	0
 inwoner	resident	0	0	1	1
 wijst	indicate	0	0	1	0
@@ -9443,15 +9210,13 @@ huisarts	general practitioner	0	0	1	1
 huisarts	doctor	0	0	1	0
 thumb|rechts|px|het	thumb|right|px|it	0	0	1	0
 thumb|rechts|px|het	thumb / right / px / the	0	0	1	0
-dwars	transverse	0	0	1	1
 dwars	cross	0	0	1	1
 dwars	right across	0	0	1	0
+dwars	transverse	0	0	1	1
 wereldberoemde	world famous	0	0	1	0
 kilometers	kilometres	0	0	1	0
 kilometers	kilometers	0	0	1	0
-lichamelijke	fysical	0	0	1	0
 lichamelijke	physical	0	0	1	0
-stemrecht	suffrage	0	0	1	1
 stemrecht	voting right	0	0	1	0
 eigenlijk	in fact	0	0	1	0
 eigenlijk	actually	0	0	1	0
@@ -9493,7 +9258,6 @@ stedenbanden	city relationships	0	0	1	0
 stedenbanden	twinning	0	0	1	0
 enorme	huge	0	0	1	0
 enorme	enormous	0	0	1	0
-regeren	to rule	0	0	1	0
 regeren	rule	0	0	1	1
 overname	taking over	0	0	1	0
 overname	acquisition	0	0	1	0
@@ -9519,8 +9283,8 @@ visie	vision	0	0	1	1
 velen	many <referring to people>	0	0	1	0
 velen	many	0	0	1	1
 oog	eye	0	0	1	1
-alledaagse	common	0	0	1	0
 alledaagse	everyday	0	0	1	0
+alledaagse	common	0	0	1	0
 oom	uncle	0	0	1	1
 županija	zupanija	0	0	1	0
 tanden	teeth	0	0	1	0
@@ -9561,6 +9325,8 @@ spanning	stress	0	0	1	1
 spanning	voltage	0	0	1	1
 dennis	dennis	0	0	1	0
 pink	pink	0	0	1	1
+conflict	conflict	0	0	1	1
+culturele	cultural	0	0	1	0
 handboek	handbook (1st sentence)	0	0	1	0
 handboek	manual	0	0	1	1
 handboek	reference guide (2nd and 5th sentence)	0	0	1	0
@@ -9568,7 +9334,6 @@ oslo	oslo	0	0	1	0
 till	till	0	0	1	0
 conventie	convention	0	0	1	1
 aandoening	illness	0	0	1	1
-aandoening	ailment	0	0	1	0
 aandoening	infliction	0	0	1	0
 pure	pure	0	0	1	0
 biologisch	biological	0	0	1	1
@@ -9586,7 +9351,8 @@ afwezigheid	absence	0	0	1	1
 bankbiljetten	banknotes	0	0	1	0
 bankbiljetten	bank notes	0	0	1	0
 critici	critics	0	0	1	0
-verborgen	hidden	0	0	1	1
+goedkeuren	approval	0	0	1	0
+goedkeuren	approve	0	0	1	1
 mae	mae	0	0	1	0
 mag	may	0	0	1	0
 mag	allowed	0	0	1	0
@@ -9705,7 +9471,6 @@ geboorte	birth	0	0	1	1
 bereiken	accomplish	0	0	1	1
 bereiken	reach	0	0	1	1
 platenmaatschappij	record company	0	0	1	0
-dutch	dutch	0	0	1	0
 weigerde	refused	0	0	1	0
 haydn	haydn	0	0	1	0
 genootschap	society	0	0	1	1
@@ -9754,7 +9519,6 @@ principe	pricipal	0	0	1	0
 principe	principle	0	0	1	1
 verplaatst	moved	0	0	1	1
 verplaatst	relocated	0	0	1	0
-verzamelalbum	compilation album	0	0	1	0
 verzamelalbum	greatest hits album	0	0	1	0
 coster	coster	0	0	1	0
 think	think	0	0	1	0
@@ -9786,9 +9550,6 @@ zuideuropa	northwest europe	0	0	1	0
 zuideuropa	southern europe	0	0	1	0
 zelfs	even	0	0	1	1
 alfred	alfred	0	0	1	0
-las	read	0	0	1	0
-las	the	0	0	1	0
-las	las	0	0	1	0
 afbraak	demolition	0	0	1	1
 afbraak	decomposition	0	0	1	0
 teruggetrokken	withdrawn	0	0	1	1
@@ -9812,25 +9573,21 @@ getrouwd	married	0	0	1	1
 opereren	operate	0	0	1	1
 bekeken	seen	0	0	1	0
 bekeken	attended	0	0	1	0
-bekeken	viewed	0	0	1	0
 levensloop	life	0	0	1	0
 vrouwtjes	females	0	0	1	0
-werd	were	0	0	1	0
 werd	was	0	0	1	0
-werd	was been	0	0	1	0
+werd	were	0	0	1	0
 were	we are	0	0	1	0
 werk	work	0	0	1	1
 aragon	aragon	0	0	1	0
-middenklasse	middle classes	0	0	1	0
 middenklasse	middleclass	0	0	1	0
 middenklasse	middle class	0	0	1	1
 vijf	five	0	0	1	1
 filmpjes	clips	0	0	1	0
 filmpjes	movies	0	0	1	0
 filmpjes	videos	0	0	1	0
-versnelde	accelerated	0	0	1	0
 versnelde	quickened	0	0	1	0
-versnelde	faster	0	0	1	0
+versnelde	accelerated	0	0	1	0
 geldig	valid	0	0	1	1
 geldig	in effect	0	0	1	0
 voornamelijk	mainly	0	0	1	1
@@ -9849,7 +9606,6 @@ rendement	efficiency	0	0	1	1
 kevin	kevin	0	0	1	0
 nikola	nikola	0	0	1	0
 editie	edition	0	0	1	1
-overeen	similar	0	0	1	0
 overeen	into accord	0	0	1	0
 overeen	same	0	0	1	0
 uitslag	results	0	0	1	0
@@ -9861,7 +9617,6 @@ vooral	especially	0	0	1	1
 performance	performance	0	0	1	0
 volgden	followed	0	0	1	0
 vooraf	beforehand	0	0	1	1
-vooraf	in advance	0	0	1	1
 vooraf	before	0	0	1	1
 channel	channel	0	0	1	0
 norman	norman	0	0	1	0
@@ -9873,9 +9628,8 @@ zender	channel	0	0	1	0
 terugtrekken	withdraw	0	0	1	1
 terugtrekken	stand down	0	0	1	0
 terugtrekken	draw back	0	0	1	0
-evolutietheorie	evolution theory	0	0	1	0
-evolutietheorie	evolutiontheory	0	0	1	0
-evolutietheorie	theory of evolution	0	0	1	0
+breekt	breaks	0	0	1	0
+breekt	broke	0	0	1	0
 zenden	sending	0	0	1	0
 zenden	to broadcast	0	0	1	0
 zenden	send	0	0	1	1
@@ -9926,12 +9680,11 @@ junior	junior	0	0	1	1
 beveren	beveren	0	0	1	0
 lorenzo	lorenzo	0	0	1	0
 kubisme	cubism	0	0	1	1
-kubisme	kubism	0	0	1	0
 zei	said	0	0	1	0
 zei	saids	0	0	1	0
 get	get	0	0	1	0
-merken	brands	0	0	1	0
 merken	to notice	0	0	1	0
+merken	brands	0	0	1	0
 noordpool	northpole	0	0	1	0
 monopolie	monopoly	0	0	1	1
 wereldgezondheidsorganisatie	world health organization	0	0	1	0
@@ -9976,7 +9729,6 @@ onverwacht	unexpected	0	0	1	1
 overgeleverd	delivered	0	0	1	0
 overgeleverd	hand down	0	0	1	0
 overgeleverd	at the mercy of	0	0	1	0
-label	labelled	0	0	1	0
 label	label	0	0	1	1
 tegelijk	at the same time	0	0	1	1
 tegelijk	simultaneously	0	0	1	0
@@ -10014,24 +9766,22 @@ rugby	rugby	0	0	1	1
 bewuste	conscious	0	0	1	0
 engelen	angels	0	0	1	0
 engelen	angles	0	0	1	0
-imf	imf	0	0	1	0
+middel	through	0	0	1	0
+middel	means	0	0	1	1
 verschijnen	come out	0	0	1	1
 verschijnen	appear	0	0	1	1
 schermen	screens	0	0	1	0
-schermen	screen	0	0	1	0
 schermen	scenes	0	0	1	0
 tour	tour	0	0	1	1
 jo	jo	0	0	1	0
 houston	houston	0	0	1	0
 houston	houston (proper noun)	0	0	1	0
 traden	acted	0	0	1	0
-traden	joined	0	0	1	0
 traden	performed	0	0	1	0
 gevolge	result	0	0	1	0
 gevolge	as a result of	0	0	1	0
 gevolgd	followed	0	0	1	0
 verspreiding	diffusion	0	0	1	1
-verspreiding	distribution	0	0	1	1
 verspreiding	spread	0	0	1	1
 populairste	most populair	0	0	1	0
 populairste	most popular	0	0	1	0
@@ -10053,8 +9803,7 @@ hemelse	heavenly	0	0	1	0
 hemelse	divine	0	0	1	0
 hemelse	celestial	0	0	1	0
 territorium	territory	0	0	1	1
-mare	mare	0	0	1	0
-mare	sea	0	0	1	0
+motivatie	motivation	0	0	1	1
 arts	doctor	0	0	1	0
 marc	marc	0	0	1	0
 verkocht	sold	0	0	1	0
@@ -10073,7 +9822,6 @@ meteen	immediately	0	0	1	0
 mary	mary	0	0	1	0
 willemstad	willemstad	0	0	1	0
 zuidkorea	south-korea	0	0	1	0
-zuidkorea	south korea	0	0	1	0
 secretarisgeneraal	secretary-general	0	0	1	0
 secretarisgeneraal	secretary general	0	0	1	0
 cobain	cobain	0	0	1	0
@@ -10120,7 +9868,6 @@ kopje	cup	0	0	1	1
 pad	track	0	0	1	0
 pad	path	0	0	1	1
 betrekking	connection	0	0	1	1
-betrekking	relation	0	0	1	1
 betrekking	refer to	0	0	1	0
 pak	''pak ransel'' - a good thrashing - 2nd sentence	0	0	1	0
 pak	suit - 5th and 6th sentence	0	0	1	0
@@ -10158,16 +9905,13 @@ kaas	cheese	0	0	1	1
 kaap	cape	0	0	1	1
 uiteindelijke	final	0	0	1	0
 uiteindelijke	eventual	0	0	1	0
-aantonen	demonstrate	0	0	1	1
-aantonen	prove	0	0	1	1
-aantonen	show	0	0	1	0
+korps	corps	0	0	1	1
 rijkste	richest	0	0	1	0
 warhols	warhols	0	0	1	0
 warhols	warhol's	0	0	1	0
 deze	this	0	0	1	1
 deze	these	0	0	1	1
-beschrijvingen	descriptions	0	0	1	0
-beschrijvingen	descripions	0	0	1	0
+cyclus	cycle	0	0	1	1
 statistieken	statistics	0	0	1	0
 prooien	prey	0	0	1	0
 prooien	preys	0	0	1	0
@@ -10185,7 +9929,6 @@ bowie	bowie	0	0	1	0
 spoorlijnen	railway lines	0	0	1	0
 spoorlijnen	railway	0	0	1	0
 spoorlijnen	railroads	0	0	1	0
-beschermheilige	archangel	0	0	1	0
 beschermheilige	patron saint	0	0	1	0
 beagle	beagle	0	0	1	0
 droge	dry	0	0	1	0
@@ -10239,7 +9982,6 @@ rechtvaardigheid	justice	0	0	1	0
 rechtvaardigheid	justness	0	0	1	1
 rechtvaardigheid	justiceship	0	0	1	1
 rechtvaardigheid	fairness	0	0	1	1
-nnationaal	national	0	0	1	0
 nnationaal	nnationaal	0	0	1	0
 zeldzaam	rare	0	0	1	1
 ontmoet	meets	0	0	1	0
@@ -10247,7 +9989,6 @@ ontmoet	encounters	0	0	1	0
 overtreding	offence	0	0	1	1
 overtreding	foul	0	0	1	0
 omgekeerd	contrary	0	0	1	0
-omgekeerd	conversely	0	0	1	1
 omgekeerd	vice versa	0	0	1	1
 naam	name	0	0	1	1
 beeldhouwkunst	masonry	0	0	1	0
@@ -10279,8 +10020,7 @@ zomers	summers	0	0	1	0
 |align=left|one	align left one	0	0	1	0
 akon	akon	0	0	1	0
 drums	drums	0	0	1	0
-onderscheid	distinction	0	0	1	1
-onderscheid	difference	0	0	1	1
+verdedigd	defended	0	0	1	0
 grotere	bigger	0	0	1	0
 grotere	more	0	0	1	0
 schrijver	writer	0	0	1	1
@@ -10301,8 +10041,8 @@ rivaliteit	rivalry	0	0	1	1
 schrijven	write	0	0	1	1
 schrijven	attribute	0	0	1	0
 schrijven	writing	0	0	1	0
-doelen	targets	0	0	1	0
 doelen	goals	0	0	1	0
+doelen	targets	0	0	1	0
 road	road - part of proper noun	0	0	1	0
 road	road	0	0	1	0
 ondanks	notwithstanding	0	0	1	1
@@ -10311,7 +10051,7 @@ ondanks	despite	0	0	1	0
 uiting	expression	0	0	1	1
 uiting	expressed	0	0	1	0
 herbert	herbert	0	0	1	0
-kliniek	clinic	0	0	1	1
+versie	version	0	0	1	1
 wilde	wild	0	0	1	0
 wilde	wanted	0	0	1	0
 erelijst	list of honour	0	0	1	0
@@ -10344,14 +10084,11 @@ behoort	is	0	0	1	0
 behoort	belongs	0	0	1	0
 behoort	belonges	0	0	1	0
 remix	remix	0	0	1	0
-gymnasium	grammar school	0	0	1	0
-gymnasium	gymnasium	0	0	1	0
 intern	internal(ly)	0	0	1	0
 intern	intern	0	0	1	1
 intern	internal	0	0	1	1
 winkelstraten	shopping streets	0	0	1	0
 família	familia	0	0	1	0
-dialecten	dialects	0	0	1	0
 woman	woman	0	0	1	0
 mooie	beautiful	0	0	1	0
 mooie	sweet	0	0	1	0
@@ -10431,8 +10168,8 @@ titiaan	titian (name)	0	0	1	0
 titiaan	titiaan	0	0	1	0
 alberts	alberts	0	0	1	0
 samengevoegd	joined together/merged	0	0	1	0
-samengevoegd	conglomerated	0	0	1	0
 samengevoegd	combined	0	0	1	0
+samengevoegd	conglomerated	0	0	1	0
 gespecialiseerde	specialised	0	0	1	0
 gespecialiseerde	specialized	0	0	1	0
 rwanda	rwanda	0	0	1	0
@@ -10454,13 +10191,11 @@ mandela	mandela	0	0	1	0
 sound	sound	0	0	1	0
 bevolkingssamenstelling	demographics	0	0	1	0
 bezoekt	visit	0	0	1	0
-bezoekt	visits	0	0	1	0
 kroatische	croation	0	0	1	0
 kroatische	croatian	0	0	1	0
 partnersteden	partner cities	0	0	1	0
 leiding	direction	0	0	1	1
 leiding	leadership	0	0	1	1
-leiding	lead	0	0	1	1
 voornaam	first name	0	0	1	1
 ramen	windows	0	0	1	0
 ramen	estimate	0	0	1	1
@@ -10492,7 +10227,6 @@ zero	zero	0	0	1	1
 ruilen	exchange	0	0	1	1
 cornelia	cornelia	0	0	1	0
 abc	abc	0	0	1	1
-gigantische	giant	0	0	1	0
 gigantische	gigantic	0	0	1	0
 world||||||||||	world	0	0	1	0
 taalgebruik	use of languages	0	0	1	0
@@ -10508,7 +10242,6 @@ beschrijft	describes	0	0	1	0
 voorwerpen	objects	0	0	1	0
 abu	abu	0	0	1	0
 stijgende	increase	0	0	1	0
-stijgende	rising	0	0	1	0
 categoriebrits	category british	0	0	1	0
 categoriebrits	category plank bed	0	0	1	0
 waaraan	on which	0	0	1	0
@@ -10526,10 +10259,10 @@ voordelen	benefits	0	0	1	0
 ondersoort	subspecie	0	0	1	0
 ondersoort	subspecies	0	0	1	0
 ondersoort	sub species	0	0	1	0
-hoofdkwartier	head quarters	0	0	1	0
-hoofdkwartier	headquarters	0	0	1	1
+malaria	jungle fever	0	0	1	1
+malaria	malaria	0	0	1	1
 component	component	0	0	1	0
-rangen	ranks	0	0	1	0
+leiders	leaders	0	0	1	0
 toegang	access	0	0	1	1
 toegang	admission	0	0	1	1
 toegang	acces	0	0	1	0
@@ -10607,8 +10340,7 @@ houd	hold	0	0	1	0
 houd	keep	0	0	1	0
 dek	deck	0	0	1	1
 del	del	0	0	1	0
-den	the	0	0	1	0
-den	den	0	0	1	0
+diem	diem	0	0	1	0
 oeral	ural	0	0	1	0
 oeral	urals	0	0	1	0
 deb	deb	0	0	1	0
@@ -10620,7 +10352,6 @@ zeewater	seawater	0	0	1	0
 zeewater	marine water	0	0	1	0
 ford	ford	0	0	1	0
 eindigen	end	0	0	1	1
-eindigen	to end	0	0	1	0
 welvaart	prosperity	0	0	1	1
 welvaart	welfare	0	0	1	1
 alexandrië	alexandria	0	0	1	0
@@ -10634,9 +10365,6 @@ stil	still	0	0	1	1
 stil	silent	0	0	1	1
 tieners	teens	0	0	1	0
 tieners	teenagers	0	0	1	0
-ontkomen	escape	0	0	1	1
-ontkomen	to escape	0	0	1	0
-ontkomen	get away from	0	0	1	0
 stig	stig	0	0	1	0
 stig	accordingly	0	0	1	0
 eersten	first	0	0	1	0
@@ -10665,6 +10393,7 @@ luchtwegen	respiratory	0	0	1	0
 luchtwegen	airways	0	0	1	0
 zuurstof	oxygen	0	0	1	1
 zuurstof	oxigen	0	0	1	0
+geïnstalleerd	installed	0	0	1	0
 hongersnood	famine	0	0	1	1
 jonger	younger	0	0	1	0
 ontsnappen	escape	0	0	1	1
@@ -10681,8 +10410,8 @@ materieel	material	0	0	1	1
 rifles	rifles	0	0	1	0
 schoonheid	beauty	0	0	1	1
 gerealiseerd	realised	0	0	1	0
-genoodzaakt	forced	0	0	1	0
 genoodzaakt	obliged	0	0	1	0
+genoodzaakt	forced	0	0	1	0
 friese	frisian	0	0	1	0
 montréal	montréal	0	0	1	0
 montréal	montreal	0	0	1	0
@@ -10725,7 +10454,6 @@ inheemse	indigenous	0	0	1	0
 malen	times	0	0	1	0
 malen	grind	0	0	1	1
 angels	angels	0	0	1	0
-voorgaande	forgoing	0	0	1	0
 voorgaande	earlier	0	0	1	0
 voorgaande	previous	0	0	1	0
 crohn	crohn	0	0	1	0
@@ -10757,6 +10485,7 @@ jeffrey	jeffrey	0	0	1	0
 vangen	catch	0	0	1	1
 vangen	to catch	0	0	1	0
 hart	heart	0	0	1	1
+hugo	hugo	0	0	1	0
 toegediend	administered	0	0	1	0
 bewerken	editing	0	0	1	0
 bewerken	to adjust	0	0	1	0
@@ -10764,8 +10493,6 @@ projecten	projects	0	0	1	0
 dag	day	0	0	1	1
 prins	prince	0	0	1	1
 lawrence	lawrence	0	0	1	0
-noten	notes	0	0	1	0
-noten	nuts	0	0	1	0
 uiteraard	naturally	0	0	1	1
 fysische	fysical	0	0	1	0
 fysische	physic	0	0	1	0
@@ -10791,7 +10518,6 @@ koste	at the cost of	0	0	1	0
 activiteit	activity	0	0	1	1
 wanneer	when	0	0	1	1
 wanneer	if	0	0	1	1
-wapenstilstand	truce	0	0	1	1
 wapenstilstand	ceasefire	0	0	1	0
 wapenstilstand	armistice	0	0	1	1
 noemenswaardige	significant	0	0	1	0
@@ -10811,13 +10537,11 @@ consequenties	outcome; importance	0	0	1	0
 consequenties	result	0	0	1	0
 consequenties	consequences	0	0	1	0
 gunstige	favourable	0	0	1	0
-gunstige	favorable	0	0	1	0
 noordoosten	nort-east	0	0	1	0
 noordoosten	northeast	0	0	1	0
 kok	cook	0	0	1	1
 kok	kok (company name)	0	0	1	0
 kom	come	0	0	1	0
-kom	coming	0	0	1	0
 kon	could	0	0	1	1
 linkse	left wing	0	0	1	0
 linkse	left	0	0	1	0
@@ -10839,7 +10563,6 @@ parc	pac	0	0	1	0
 parc	parc	0	0	1	0
 tol	toll	0	0	1	1
 dal	dal	0	0	1	0
-dal	valley	0	0	1	1
 mercurius	mercury	0	0	1	1
 mercurius	mercurius	0	0	1	0
 park	park	0	0	1	1
@@ -10849,11 +10572,12 @@ oordeel	judgement	0	0	1	1
 oordeel	judgment	0	0	1	1
 bedenken	devise	0	0	1	1
 bedenken	think of	0	0	1	0
-bedenken	think	0	0	1	1
 part	deel	0	0	1	0
 part	part	0	0	1	1
 bijdrage	contribution	0	0	1	1
-afbeeldingen	images	0	0	1	0
+rechtszaak	action	0	0	1	1
+rechtszaak	lawsuit	0	0	1	0
+rechtszaak	hearing	0	0	1	0
 percentage	percentage	0	0	1	1
 percentage	percent	0	0	1	0
 proberen	try	0	0	1	1
@@ -10876,7 +10600,6 @@ voetnoten	footnotes	0	0	1	0
 toe	to	0	0	1	1
 ondergrondse	underground	0	0	1	0
 ondergrondse	subterranean	0	0	1	0
-ontleend	extracted	0	0	1	0
 ontleend	derived	0	0	1	0
 alfabetische	alfabetic	0	0	1	0
 alfabetische	alphabetical	0	0	1	0
@@ -10907,7 +10630,6 @@ armeniërs	armenians	0	0	1	0
 armeniërs	armenian	0	0	1	0
 bijgehouden	kept / maintained	0	0	1	0
 bijgehouden	kept	0	0	1	0
-bijgehouden	retained	0	0	1	0
 reden	reason	0	0	1	1
 kg	kg	0	0	1	0
 kg	kilogram	0	0	1	0
@@ -10924,12 +10646,12 @@ km	km	0	0	1	0
 universiteit	university	0	0	1	1
 voortdurend	continuously	0	0	1	1
 liechtenstein	liechtenstein	0	0	1	0
-kv	ks	0	0	1	0
-kv	kv	0	0	1	0
+aantonen	demonstrate	0	0	1	1
+aantonen	prove	0	0	1	1
+aantonen	show	0	0	1	0
 ku	ku	0	0	1	0
 ku	that	0	0	1	0
 ondervinden	encounter	0	0	1	1
-ondervinden	to go through	0	0	1	0
 ondervinden	experience	0	0	1	1
 dranken	beverages	0	0	1	0
 dranken	drinks	0	0	1	0
@@ -10950,8 +10672,8 @@ elementen	elements	0	0	1	0
 £	pond	0	0	1	0
 £	£	0	0	1	0
 £	pound sign	0	0	1	0
-ruil	exchange	0	0	1	1
 ruil	trade	0	0	1	0
+ruil	exchange	0	0	1	1
 ruim	over	0	0	1	0
 ruim	loosely	0	0	1	0
 ruim	more than	0	0	1	0
@@ -10971,8 +10693,7 @@ rest	remains	0	0	1	0
 rest	rest	0	0	1	1
 cyste	cyst	0	0	1	0
 cyste	cyste	0	0	1	0
-lukt	succeed	0	0	1	0
-lukt	succeeds	0	0	1	0
+wezens	creatures	0	0	1	0
 bevolkt	inhabited	0	0	1	1
 bevolkt	inhabitants/ population	0	0	1	0
 bevolkt	populated	0	0	1	0
@@ -10999,8 +10720,7 @@ stadium	fase	0	0	1	0
 stadium	stadium	0	0	1	0
 stadium	stage	0	0	1	1
 besmettelijk	contagious	0	0	1	1
-duiken	diving	0	0	1	1
-duiken	dive	0	0	1	1
+denters	denters	0	0	1	0
 herstellen	restore	0	0	1	1
 herstellen	recover	0	0	1	1
 bezitten	own	0	0	1	1
@@ -11051,12 +10771,12 @@ mutaties	mutations	0	0	1	0
 leiderschap	leadership	0	0	1	1
 bondgenootschap	alliance	0	0	1	1
 kabinet	cabinet	0	0	1	1
-estse	estonian	0	0	1	0
-estse	estic	0	0	1	0
+lucht	air (6th and 7th sentence)	0	0	1	0
+lucht	ether (1st sentence)	0	0	1	0
+lucht	air	0	0	1	1
 leeftijden	ages	0	0	1	0
 basiliek	basilisk	0	0	1	0
 basiliek	basilica	0	0	1	1
-basiliek	basilic	0	0	1	0
 onjuist	incorrect	0	0	1	1
 onjuist	wrong	0	0	1	1
 arbeid	work	0	0	1	1
@@ -11073,9 +10793,7 @@ slotte	at last	0	0	1	0
 slotte	finally	0	0	1	0
 vertraging	delay	0	0	1	1
 secret	secret	0	0	1	0
-opzet	scheme	0	0	1	0
-opzet	design	0	0	1	1
-opzet	plan	0	0	1	0
+laos	laos	0	0	1	0
 indruk	impression	0	0	1	1
 communicatie	communication	0	0	1	0
 genezing	heal	0	0	1	0
@@ -11098,12 +10816,10 @@ moreel	morale	0	0	1	1
 moreel	ethical	0	0	1	0
 moreel	moral	0	0	1	1
 categoriegemenebest	category commonwealth	0	0	1	0
-omzetbelasting	turnover taxes	0	0	1	0
 omzetbelasting	taxes	0	0	1	0
 omzetbelasting	sales tax	0	0	1	0
 afwijkende	different	0	0	1	0
 afwijkende	deviate	0	0	1	0
-afwijkende	foreign	0	0	1	0
 bill	bill	0	0	1	0
 achteruit	backwards	0	0	1	1
 holocaust	holocaust - proper noun	0	0	1	0
@@ -11113,11 +10829,11 @@ holocaust	holocaust	0	0	1	0
 taxi	taxi	0	0	1	1
 taxi	cab	0	0	1	1
 bijten	biting	0	0	1	0
-bijten	bite	0	0	1	1
 bijten	to bite	0	0	1	0
 humanisme	humanism	0	0	1	1
 portugal	portugal	0	0	1	1
 autistische	autistic	0	0	1	0
+ontmoeten	met	0	0	1	0
 deelde	shared	0	0	1	0
 deelde	separate into parts; share	0	0	1	0
 deelde	partake	0	0	1	0
@@ -11188,7 +10904,6 @@ voorloper	precursor	0	0	1	1
 voorloper	predecessor	0	0	1	0
 voorloper	precessor	0	0	1	0
 belgische	belgian	0	0	1	0
-world	world	0	0	1	0
 world	wereld	0	0	1	0
 termijn	term	0	0	1	1
 joost	joost	0	0	1	0
@@ -11207,8 +10922,8 @@ cup	league	0	0	1	0
 cup	coupe	0	0	1	0
 punten	points	0	0	1	0
 punten	point	0	0	1	1
-meeste	most	0	0	1	0
 meeste	moast	0	0	1	0
+meeste	most	0	0	1	0
 onderpand	backed	0	0	1	0
 onderpand	pledge	0	0	1	1
 tabak	tabaco	0	0	1	0
@@ -11219,10 +10934,9 @@ afwijkend	aberrant	0	0	1	1
 ondersteund	supported	0	0	1	0
 cum	cum	0	0	1	0
 wim	wim	0	0	1	0
-thumb|px|right|de	thumb px right de	0	0	1	0
+boys	jongens	0	0	1	0
 bin	bin	0	0	1	0
 bin	bin (part of name)	0	0	1	0
-verwacht	verwatch	0	0	1	0
 verwacht	expect	0	0	1	0
 verwacht	expects	0	0	1	0
 wil	will	0	0	1	1
@@ -11232,7 +10946,6 @@ bij	with / at / bee	0	0	1	0
 big	big	0	0	1	0
 big	piglet	0	0	1	1
 rijksdag	parliament	0	0	1	0
-rijksdag	diet	0	0	1	1
 dubbele	double	0	0	1	1
 vliegtuigen	aircraft	0	0	1	0
 vliegtuigen	airplanes	0	0	1	0
@@ -11245,9 +10958,8 @@ friezen	friezes	0	0	1	0
 friezen	friezen	0	0	1	0
 ingevoerd	implemented	0	0	1	0
 ingevoerd	inserted	0	0	1	0
-ingevoerd	introduced	0	0	1	0
 veldtocht	campaign	0	0	1	1
-you||||||||||	you	0	0	1	0
+priester	priest	0	0	1	1
 wensen	wish	0	0	1	1
 wensen	wishes	0	0	1	0
 google	google (proper noun)	0	0	1	0
@@ -11277,7 +10989,6 @@ vlaanderen	flanders	0	0	1	1
 per	a	0	0	1	1
 per	by	0	0	1	1
 per	per	0	0	1	1
-ontbinden	terminate	0	0	1	0
 ontbinden	dissolve	0	0	1	1
 pen	pencil	0	0	1	0
 pen	pen	0	0	1	1
@@ -11293,8 +11004,8 @@ lyceum	lyceum	0	0	1	1
 lyceum	high school	0	0	1	0
 omringende	surrounding	0	0	1	0
 efteling	efteling	0	0	1	0
-basisschool	elementary school	0	0	1	0
-basisschool	primary school	0	0	1	0
+gekweekt	cultured	0	0	1	0
+gekweekt	cultivated	0	0	1	0
 boeren	farmers	0	0	1	0
 concertgebouw	concertbuilding	0	0	1	0
 concertgebouw	concert hall	0	0	1	0
@@ -11388,11 +11099,8 @@ titel	title	0	0	1	1
 televisieprogramma	television show	0	0	1	0
 televisieprogramma	televisionprogram	0	0	1	0
 televisieprogramma	television program	0	0	1	0
-hierop	hereon	0	0	1	1
 hierop	upon this	0	0	1	0
-hierop	hereafter	0	0	1	0
 sintpietersbasiliek	saint peters basilica	0	0	1	0
-sintpietersbasiliek	sint peter's basilisk	0	0	1	0
 single	single	0	0	1	1
 geest	goast	0	0	1	0
 geest	spirit	0	0	1	1
@@ -11424,7 +11132,9 @@ voornaamste	key	0	0	1	0
 voornaamste	principal	0	0	1	0
 omgezet	converted	0	0	1	0
 omgezet	change/ translate	0	0	1	0
-regionale	regional	0	0	1	0
+mantel	robe	0	0	1	1
+mantel	coat/ mantle	0	0	1	0
+mantel	mantle	0	0	1	1
 heil	heil	0	0	1	0
 heil	salvation	0	0	1	1
 heil	heel	0	0	1	0
@@ -11436,7 +11146,9 @@ draaide	turned - 4th sentence	0	0	1	0
 socrates	socrates	0	0	1	0
 vieren	to celebrate	0	0	1	0
 vieren	celebrate	0	0	1	1
-primaire	primary	0	0	1	0
+ddr	east germany gdr	0	0	1	0
+ddr	democratic republic of germany	0	0	1	0
+ddr	ddr	0	0	1	0
 delft	delft	0	0	1	1
 vastgehouden	held	0	0	1	0
 inhoudt	reserves	0	0	1	0
@@ -11447,7 +11159,9 @@ eiwitten	egg white	0	0	1	0
 eiwitten	protein	0	0	1	0
 eiwitten	proteins	0	0	1	0
 jason	jason	0	0	1	0
-geïnstalleerd	installed	0	0	1	0
+bepaling	condition / rule (in this context)	0	0	1	0
+bepaling	determination	0	0	1	1
+bepaling	condition	0	0	1	1
 samenhang	cohesion	0	0	1	1
 samenhang	association	0	0	1	0
 gezond	healthy	0	0	1	1
@@ -11479,7 +11193,8 @@ stonehenge	stonehenge	0	0	1	0
 herstelde	recovered	0	0	1	0
 herstelde	recovered/ restored	0	0	1	0
 duidelijke	clear	0	0	1	0
-veranderd	changed	0	0	1	0
+contacten	contact	0	0	1	0
+contacten	contacts	0	0	1	1
 passie	passion	0	0	1	1
 clemens	clemens	0	0	1	0
 tsjechisch	czech	0	0	1	1
@@ -11520,8 +11235,7 @@ tevoren	before	0	0	1	1
 zakenman	businessman	0	0	1	1
 leefbaar	liveable	0	0	1	1
 leefbaar	endurable	0	0	1	0
-airways	airways	0	0	1	0
-denkt	think	0	0	1	0
+konijn	rabbit	0	0	1	1
 denkt	thinks	0	0	1	0
 vergelijken	compare	0	0	1	1
 combinaties	combinations	0	0	1	0
@@ -11549,9 +11263,6 @@ nacht	night	0	0	1	1
 extreme	extreme	0	0	1	0
 design	ontwerp	0	0	1	0
 design	design	0	0	1	0
-lokken	attract	0	0	1	1
-lokken	lure	0	0	1	1
-lokken	to lure	0	0	1	0
 economisch	economic	0	0	1	1
 economisch	economical	0	0	1	1
 ecologische	ecological	0	0	1	0
@@ -11563,7 +11274,6 @@ alois	alois	0	0	1	0
 bijgewerkt	updated	0	0	1	0
 venlo	seattle	0	0	1	0
 venlo	venlo	0	0	1	0
-geschoven	pushed	0	0	1	0
 geschoven	set	0	0	1	0
 geschoven	shove	0	0	1	0
 jacht	hunt	0	0	1	1
@@ -11653,9 +11363,9 @@ sociaaldemocraten	social democrates	0	0	1	0
 sociaaldemocraten	social democrats	0	0	1	0
 reserves	reserves	0	0	1	0
 geïntroduceerd	introduced	0	0	1	0
-mozarts	mozart's	0	0	1	0
 mozarts	mozarts	0	0	1	0
 mozarts	mozart	0	0	1	0
+mozarts	mozart's	0	0	1	0
 dj	dj	0	0	1	0
 schotland	scotland	0	0	1	1
 schotland	scotland (land)	0	0	1	0
@@ -11675,9 +11385,7 @@ wortels	roots / carrots	0	0	1	0
 afc	afc	0	0	1	0
 pornografie	pornography	0	0	1	1
 lamp	lamp	0	0	1	1
-verstandig	with sense	0	0	1	0
-verstandig	sensible	0	0	1	1
-marketingmix	marketing	0	0	1	0
+zangeres	singer	0	0	1	1
 marketingmix	marketing mix	0	0	1	0
 dikke	thick	0	0	1	0
 dikke	fat	0	0	1	0
@@ -11705,9 +11413,8 @@ fictieve	fictive	0	0	1	0
 fictieve	ficticious	0	0	1	0
 bezwaren	objections	0	0	1	0
 bezwaren	disturb	0	0	1	0
-blauwe	blue	0	0	1	0
+uitsluiting	exclusion	0	0	1	1
 primera	primera	0	0	1	0
-chief	chief	0	0	1	0
 gevaarlijk	dangerous	0	0	1	1
 collegas	colleagues	0	0	1	0
 geen	none & not any	0	0	1	0
@@ -11725,14 +11432,12 @@ ywaarde	ywaarde	0	0	1	0
 franstalig	french speaking	0	0	1	0
 franstalig	french	0	0	1	0
 geslagen	smashed	0	0	1	0
-geslagen	stamped	0	0	1	0
 geslagen	defeated	0	0	1	0
 klimatologie	climatoligy	1	1	0	0
 klimatologie	c	1	0	1	0
 klimatologie	climatology	1	1	1	0
 klimatologie	john	1	0	1	0
 klimatologie	climate study	1	0	1	0
-le	le	0	0	1	0
 la	la	0	0	1	1
 praag	prague	0	0	1	1
 etnische	etnic	0	0	1	0
@@ -11746,11 +11451,9 @@ lr	lr	0	0	1	0
 lp	lp	0	0	1	0
 zuiver	clear	0	0	1	1
 zuiver	pure	0	0	1	1
-korps	corps	0	0	1	1
 gunstig	favourable	0	0	1	1
 japanners	japanese	0	0	1	0
 greater	greater	0	0	1	0
-versies	a particular form of something differing in certain respects from an earlier form or other forms of the same type of thing	0	0	1	0
 versies	versions	0	0	1	0
 dam	dam	0	0	1	1
 dan	then	0	0	1	1
@@ -11761,16 +11464,15 @@ dak	roof	0	0	1	1
 dat	that	0	0	1	1
 amsterdammers	amsterdam	0	0	1	0
 amsterdammers	amsterdammers	0	0	1	0
-das	tie	0	0	1	1
-das	badger	0	0	1	1
+erfgoed	inheritance	0	0	1	0
+erfgoed	heritage	0	0	1	1
 rijksmonumenten	national monument	0	0	1	0
 rijksmonumenten	state monuments	0	0	1	0
-rijksmonumenten	national monuments	0	0	1	0
 day	day	0	0	1	0
 oppositie	opposition	0	0	1	1
 eenvoudiger	easier	0	0	1	0
 eenvoudiger	simpler	0	0	1	0
-versie	version	0	0	1	1
+kliniek	clinic	0	0	1	1
 berliner	berliner	0	0	1	0
 berliner	berliner (proper noun)	0	0	1	0
 morris	morris	0	0	1	0
@@ -11781,7 +11483,6 @@ breuk	console	0	0	1	0
 breuk	fracture	0	0	1	1
 gesteente	stones	0	0	1	0
 gesteente	rock	0	0	1	1
-diem	diem	0	0	1	0
 trein	train	0	0	1	1
 winkel	shop	0	0	1	1
 jones	jones	0	0	1	0
@@ -11819,19 +11520,16 @@ evangelische	evangelical	0	0	1	0
 evangelische	evangelic	0	0	1	0
 stuk	considerably	0	0	1	0
 stuk	piece	0	0	1	1
-stuk	a lot	0	0	1	0
 verloor	lost	0	0	1	0
 red	red (part of proper noun - brand name)	0	0	1	0
 red	red	0	0	1	0
-venetië	venice (place)	0	0	1	0
-venetië	venice	0	0	1	1
+categorieinfectieziekte	category infectious disease	0	0	1	0
 harold	harold	0	0	1	0
 harold	harold (proper noun - first name)	0	0	1	0
 vlekken	stains	0	0	1	0
 vlekken	spots	0	0	1	0
 jessica	jessica	0	0	1	0
 inval	invasion	0	0	1	1
-inval	raid	0	0	1	1
 frank	frank	0	0	1	0
 frank	franc	0	0	1	1
 qua	by	0	0	1	0
@@ -11900,7 +11598,6 @@ functioneert	functionary	0	0	1	0
 functioneert	functions	0	0	1	0
 winkelcentra	shoppingcentres	0	0	1	0
 winkelcentra	shopping centres	0	0	1	0
-winkelcentra	shopping mall	0	0	1	0
 leden	suffered (4th word in 3th sentence)	0	0	1	0
 leden	members (in all other cases in the text)	0	0	1	0
 leden	members	0	0	1	0
@@ -11918,9 +11615,6 @@ transfervrij	transferfree	0	0	1	0
 karolingische	carolingian	0	0	1	0
 benaming	name	0	0	1	1
 benaming	designation	0	0	1	1
-toevallig	by accident	0	0	1	1
-toevallig	accidental	0	0	1	1
-toevallig	coincidence	0	0	1	0
 atheïsme	atheism	0	0	1	1
 atheïsme	etheism	0	0	1	0
 geleerd	learned	0	0	1	1
@@ -11952,9 +11646,7 @@ hemiplegie	hemiplegie	1	0	1	0
 hemiplegie	examine	1	0	1	0
 hemiplegie	hemiphlegy	1	0	1	0
 voltooid	finished	0	0	1	1
-voltooid	completed	0	0	1	0
 wereldwijde	worldwide	0	0	1	0
-wereldwijde	world wide	0	0	1	0
 dienst	service	0	0	1	1
 bestanddelen	constituents	0	0	1	0
 bestanddelen	sub parts	0	0	1	0
@@ -11966,9 +11658,7 @@ aristoteles	aristotle	0	0	1	1
 aquino	aquino	0	0	1	0
 breidde	spread	0	0	1	0
 breidde	expanded	0	0	1	0
-opzettelijk	intentional	0	0	1	1
 opzettelijk	deliberately	0	0	1	1
-opzettelijk	purposely	0	0	1	0
 uitgroeien	blossom	0	0	1	0
 uitgroeien	grow out	0	0	1	0
 uitgroeien	grow	0	0	1	0
@@ -12008,8 +11698,8 @@ kijken	look	0	0	1	1
 kijken	to watch	0	0	1	0
 jaap	jaap	0	0	1	0
 jaap	gash	0	0	1	1
-jaar	year	0	0	1	1
 jaar	years	0	0	1	0
+jaar	year	0	0	1	1
 uitgeschakeld	disabled	0	0	1	0
 uitgeschakeld	off	0	0	1	0
 senaat	senate	0	0	1	1
@@ -12082,7 +11772,6 @@ trouwe	faithful	0	0	1	0
 text	text	0	0	1	0
 charles	charles	0	0	1	0
 vrouwtje	females	0	0	1	0
-vrouwtje	female	0	0	1	1
 ploegen	teams	0	0	1	0
 gooien	throwing	0	0	1	0
 gooien	throw	0	0	1	1
@@ -12143,7 +11832,7 @@ zeggen	say	0	0	1	1
 weggelegd	play	0	0	1	0
 weggelegd	place	0	0	1	0
 weggelegd	put away	0	0	1	0
-national	national	0	0	1	0
+gedaan	done	0	0	1	1
 achtereenvolgens	sequentially	0	0	1	0
 achtereenvolgens	consecutive	0	0	1	0
 achtereenvolgens	consecutively	0	0	1	0
@@ -12151,7 +11840,6 @@ achtereenvolgens	in succession	0	0	1	0
 vasthouden	to hold on to	0	0	1	0
 vasthouden	to hold on	0	0	1	0
 vasthouden	hold on	0	0	1	0
-stichting	foundation	0	0	1	1
 bestuurd	controlled	0	0	1	0
 bestuurd	governed	0	0	1	0
 onregelmatige	irregular	0	0	1	0
@@ -12168,8 +11856,8 @@ landelijk	countrywide	0	0	1	0
 landelijk	nationwide	0	0	1	1
 omstreden	controversial	0	0	1	0
 janet	janet	0	0	1	0
-wk	wk	0	0	1	0
-wk	w.c.	0	0	1	0
+organisaties	organizations	0	0	1	0
+organisaties	organisations	0	0	1	0
 categorieprogramma	category: programme	0	0	1	0
 categorieprogramma	program category	0	0	1	0
 brood	bread	0	0	1	1
@@ -12233,7 +11921,6 @@ verwerking	processing	0	0	1	0
 verwerking	ver	0	0	1	0
 eileider	oviduct	0	0	1	1
 eileider	fallopian tube	0	0	1	0
-napoleon	napolean	0	0	1	0
 napoleon	napoleon	0	0	1	1
 gekregen	obtained	0	0	1	0
 gekregen	received	0	0	1	0
@@ -12272,7 +11959,6 @@ huisvesting	accomodation	0	0	1	0
 huisvesting	housing	0	0	1	1
 aandringen	urge	0	0	1	0
 aandringen	insist	0	0	1	1
-sterkte	strength	0	0	1	1
 impressionisme	impressionism	0	0	1	1
 cyrus	cypress	0	0	1	0
 cyrus	cyrus	0	0	1	0
@@ -12295,7 +11981,6 @@ romeinen	romans	0	0	1	0
 kredietcrisis	credit crisis / debt crisis	0	0	1	0
 kredietcrisis	credit crisis	0	0	1	0
 toonde	showed	0	0	1	0
-zelfde	same	0	0	1	1
 center	center	0	0	1	0
 verlieten	left	0	0	1	0
 opvallende	notable	0	0	1	0
@@ -12330,7 +12015,6 @@ aruba	aruba	0	0	1	0
 ontbrak	lacked	0	0	1	0
 ontbrak	missing	0	0	1	0
 akkoorden	agreements	0	0	1	0
-akkoorden	chords	0	0	1	0
 cipres	cupressus	1	1	0	0
 cipres	type of tree	1	0	1	0
 cipres	researches	1	0	1	0
@@ -12342,7 +12026,6 @@ cipres	cypre	1	0	1	0
 cipres	cipres	1	0	1	0
 cipres	researchers	1	0	1	0
 smart	smart	0	0	1	1
-uiterste	maximum	0	0	1	0
 uiterste	extreme	0	0	1	1
 kasteel	castle	0	0	1	1
 trad	stepped	0	0	1	0
@@ -12350,9 +12033,8 @@ trad	to act	0	0	1	0
 trad	performed	0	0	1	0
 verbrand	burned	0	0	1	0
 verbrand	burnt	0	0	1	1
-voorkwam	appeared	0	0	1	0
-voorkwam	prevented	0	0	1	0
-voorkwam	prevent	0	0	1	0
+medaillon	medaillon	0	0	1	0
+medaillon	medallion	0	0	1	1
 klok	clock	0	0	1	1
 gemeentemuseum	municipal museum	0	0	1	0
 gemeentemuseum	gemeentemuseum	0	0	1	0
@@ -12380,7 +12062,6 @@ lezing	lecture	0	0	1	1
 lezing	reading	0	0	1	1
 stappen	go to	0	0	1	0
 stappen	steps	0	0	1	1
-nationale	national	0	0	1	0
 heel	very	0	0	1	1
 heel	whole	0	0	1	1
 weergave	rendering	0	0	1	1
@@ -12407,15 +12088,15 @@ beleving	perception	0	0	1	0
 beleving	experience	0	0	1	0
 ogen	eyes	0	0	1	0
 keus	choice	0	0	1	1
-oosterse	easterly	0	0	1	0
-oosterse	eastern	0	0	1	0
+letterlijk	literally	0	0	1	0
+letterlijk	literal	0	0	1	1
 tientallen	dozens of	0	0	1	0
 tientallen	dozens	0	0	1	0
 bevriend	are friends	0	0	1	0
 bevriend	be friends with	0	0	1	0
 bevriend	friendly	0	0	1	1
 christenen	christians	0	0	1	0
-italiaans	italian	0	0	1	1
+lockheed	lockheed	0	0	1	0
 leopold	leopold	0	0	1	0
 gebouwen	buildings	0	0	1	0
 loena	loena	0	0	1	0
@@ -12429,7 +12110,6 @@ opleidingen	training	0	0	1	0
 opleidingen	educations	0	0	1	0
 voldeed	required	0	0	1	0
 voldeed	satisfied	0	0	1	0
-voldeed	matched	0	0	1	0
 ander	other	0	0	1	1
 jodendom	jewishness	0	0	1	0
 jodendom	judaism	0	0	1	1
@@ -12438,7 +12118,7 @@ aanspraak	pretension; title	0	0	1	0
 tome	tome	0	0	1	0
 basgitaar	bass guitar	0	0	1	0
 basgitaar	bass	0	0	1	0
-ierse	irish	0	0	1	0
+herkomst	origin	0	0	1	1
 voorbeelden	lead	0	0	1	0
 voorbeelden	pattern	0	0	1	0
 voorbeelden	sample	0	0	1	0
@@ -12454,7 +12134,6 @@ vliegen	fly	0	0	1	1
 vliegen	to fly	0	0	1	0
 eenvoudige	simple	0	0	1	0
 eind	end	0	0	1	1
-overleden	died	0	0	1	0
 overleden	passed away	0	0	1	0
 overleden	deceased	0	0	1	0
 female	female	0	0	1	0
@@ -12522,9 +12201,7 @@ relatie	acquaintance	0	0	1	1
 relatie	relation	0	0	1	1
 relatie	relationship	0	0	1	0
 radicaal	radical	0	0	1	1
-streven	strive to	0	0	1	0
-streven	striving	0	0	1	0
-streven	strive	0	0	1	0
+virtual	virtual	0	0	1	0
 drugs	drugs	0	0	1	0
 aangetoond	shown	0	0	1	0
 aangetoond	proven	0	0	1	0
@@ -12588,7 +12265,6 @@ mochten	were allowed to	0	0	1	0
 mochten	allow	0	0	1	0
 volkskrant	volkskrant	0	0	1	0
 volkskrant	popular paper	0	0	1	0
-spaarne	spaarne	0	0	1	0
 chaos	chaos	0	0	1	1
 eerste	first	0	0	1	1
 kaapstad	capetown	0	0	1	0
@@ -12629,9 +12305,9 @@ schoon	notes	0	0	1	0
 schoon	clean	0	0	1	1
 school	school	0	0	1	1
 straat	street	0	0	1	1
-waarvan	whose	0	0	1	1
 waarvan	where of	0	0	1	0
 waarvan	of which	0	0	1	0
+waarvan	whose	0	0	1	1
 nabijgelegen	near	0	0	1	0
 nabijgelegen	nearby	0	0	1	1
 begrippen	ability to comprehend	0	0	1	0
@@ -12677,7 +12353,6 @@ betalen	pay up; pay off	0	0	1	0
 oprichter	founder	0	0	1	1
 paulus	paulus	0	0	1	0
 eindelijk	finally	0	0	1	1
-liberty	libery	0	0	1	0
 corruptie	corruption	0	0	1	1
 kun	can	0	0	1	0
 gemengde	mixed	0	0	1	0
@@ -12710,8 +12385,8 @@ opgetreden	occured	0	0	1	0
 opstand	revolt	0	0	1	1
 opstand	uprise	0	0	1	0
 opstand	rebellion	0	0	1	1
-wielrenner	cyclist	0	0	1	0
-wielrenner	bicyclist	0	0	1	0
+levensjaar	year of life	0	0	1	0
+levensjaar	e.g.: third year	0	0	1	0
 maakt	is	0	0	1	0
 maakt	makes	0	0	1	0
 uitgangspunt	starting point	0	0	1	0
@@ -12756,9 +12431,9 @@ mc	mc	0	0	1	0
 henri	henri	0	0	1	0
 mm	millimeter	0	0	1	0
 mm	mm	0	0	1	0
-mm	milimeter	0	0	1	0
 kamers	chambers	0	0	1	1
 kamers	rooms	0	0	1	0
+communisten	communists	0	0	1	0
 mn	in particular	0	0	1	0
 agglomeratie	agglomeration	0	0	1	0
 stads	urban	0	0	1	0
@@ -12775,19 +12450,17 @@ aanbod	offer/ demand	0	0	1	0
 aanbod	offering	0	0	1	0
 aanbod	supply	0	0	1	0
 indiërs	indians	0	0	1	0
-kees	kees	0	0	1	0
+minderheid	minority	0	0	1	1
 desalniettemin	nevertheless	0	0	1	0
 jeanbaptiste	jean baptiste	0	0	1	0
 jeanbaptiste	jeanbaptiste	0	0	1	0
 niemand	nobody	0	0	1	1
-end	end	0	0	1	0
 ene	one	0	0	1	0
 bekken	pelvis	0	0	1	1
 bekken	basin	0	0	1	1
 drummer	drummer	0	0	1	0
 bijwerkingen	side	0	0	1	0
 bijwerkingen	side effects	0	0	1	0
-gate	gate	0	0	1	0
 enz	etc	0	0	1	0
 enz	etcetera	0	0	1	0
 enz	and so forth	0	0	1	0
@@ -12796,9 +12469,6 @@ rijksuniversiteit	federal university	0	0	1	0
 betrokkenheid	involvement	0	0	1	0
 dialect	dialect	0	0	1	0
 poker	poker	0	0	1	1
-daalt	drops	0	0	1	0
-daalt	decreases	0	0	1	0
-daalt	goes down	0	0	1	0
 elizabeth	elizabeth	0	0	1	0
 bretagne	brittany	0	0	1	1
 schakelen	switch	0	0	1	0
@@ -12822,7 +12492,6 @@ afweersysteem	immune defence	0	0	1	0
 menstruatie	menstruation	0	0	1	1
 menstruatie	period	0	0	1	1
 danny	danny	0	0	1	0
-vervanger	replacer	0	0	1	0
 vervanger	replacement	0	0	1	0
 waarop	on which	0	0	1	0
 waarop	when	0	0	1	1
@@ -12831,7 +12500,6 @@ gids	guide	0	0	1	1
 terreur	terror	0	0	1	1
 enige	only	0	0	1	0
 enige	some	0	0	1	1
-life	life	0	0	1	0
 christus	christ	0	0	1	1
 algoritmen	algorithms	0	0	1	0
 optreedt	exist	0	0	1	0
@@ -12847,19 +12515,16 @@ beïnvloeden	influence	0	0	1	1
 regenten	regents	0	0	1	0
 regenten	governor	0	0	1	0
 gebrouwen	brewed	0	0	1	0
-gebrouwen	brewn	0	0	1	0
 kampen	problems with	0	0	1	0
 kampen	camps	0	0	1	0
 kampen	fight	0	0	1	1
 over	about	0	0	1	1
-over	over	0	0	1	1
 jerry	jerry	0	0	1	0
 london	london	0	0	1	0
 vorsten	monarchs	0	0	1	0
 vorsten	princes	0	0	1	0
 vita	vita	0	0	1	1
 tocht	tour	0	0	1	0
-tocht	journey	0	0	1	1
 tocht	trip	0	0	1	1
 gepresenteerd	presented	0	0	1	0
 weergegeven	described	0	0	1	0
@@ -12913,13 +12578,13 @@ relaties	relations	0	0	1	0
 getracht	attempted	0	0	1	0
 getracht	tried	0	0	1	0
 diana	diana	0	0	1	1
-margaretha	margaretha	0	0	1	0
+gymnasium	grammar school	0	0	1	0
+gymnasium	gymnasium	0	0	1	0
 ptolemaeus	ptolomy	0	0	1	0
 ptolemaeus	a king's name: king ptolemaeus	0	0	1	0
 ptolemaeus	ptolemaeus	0	0	1	0
 finse	finnish	0	0	1	0
 tsjechoslowakije	czechoslovakia	0	0	1	0
-afkomst	origin	0	0	1	1
 afkomst	background	0	0	1	0
 afkomst	heritage	0	0	1	0
 platina	platin	0	0	1	0
@@ -12937,7 +12602,7 @@ stadsdeel	part of the city	0	0	1	0
 stadsdeel	town	0	0	1	0
 stadsdeel	urban areas	0	0	1	0
 mongolië	mongolia	0	0	1	0
-judoka	judoka	0	0	1	0
+legioen	legion	0	0	1	1
 god	god	0	0	1	1
 navolging	imitation	0	0	1	1
 zuidelijk	southerly	0	0	1	1
@@ -12945,7 +12610,6 @@ zuidelijk	southern	0	0	1	1
 millennium	millenium	0	0	1	0
 millennium	millennium	0	0	1	1
 receptoren	receptors	0	0	1	0
-besteden	spend	0	0	1	1
 besteden	to spend	0	0	1	0
 got	got	0	0	1	0
 got	have to	0	0	1	0
@@ -12963,13 +12627,11 @@ zangers	singers	0	0	1	0
 vroeg	early	0	0	1	1
 vroeg	asked	0	0	1	0
 stelde	put	0	0	1	0
-stelde	assumed	0	0	1	0
 stelde	raise	0	0	1	0
 verzwakt	weakened	0	0	1	0
 verzwakt	weakens	0	0	1	0
 fred	fred	0	0	1	0
 talrijke	numerous	0	0	1	0
-herinnering	momory	0	0	1	0
 herinnering	memory	0	0	1	1
 hand	hand	0	0	1	1
 uitbreiding	expansion	0	0	1	1
@@ -12997,8 +12659,8 @@ invallen	invasions	0	0	1	0
 invallen	raids	0	0	1	0
 befaamde	famous	0	0	1	0
 befaamde	famed	0	0	1	0
-werpen	shed	0	0	1	1
-werpen	throw	0	0	1	1
+winkelcentrum	mall	0	0	1	0
+winkelcentrum	shopping mall	0	0	1	0
 effectief	effective	0	0	1	1
 sneijder	sneijder	0	0	1	0
 sneijder	sneijder - proper noun - surname	0	0	1	0
@@ -13012,8 +12674,8 @@ mercury	mercury	0	0	1	0
 bestuurlijk	administrative	0	0	1	1
 splitsing	division	0	0	1	0
 splitsing	split	0	0	1	0
-gevuld	filled	0	0	1	0
 gevuld	stuffed	0	0	1	0
+gevuld	filled	0	0	1	0
 gecombineerd	combined	0	0	1	0
 gecombineerd	combined with	0	0	1	0
 tov	in relation to	0	0	1	0
@@ -13052,7 +12714,6 @@ bombardementen	bombardments	0	0	1	0
 ingewikkelde	complex	0	0	1	0
 ingewikkelde	complicated	0	0	1	0
 korter	shorter	0	0	1	0
-½	one half	0	0	1	0
 ½	and a half	0	0	1	0
 ½	half	0	0	1	0
 benoemd	famous	0	0	1	0
@@ -13061,7 +12722,8 @@ benoemd	appointed	0	0	1	0
 getransporteerd	transported	0	0	1	0
 stuurgroep	steering committee	0	0	1	0
 stuurgroep	steering crew	0	0	1	0
-denters	denters	0	0	1	0
+duiken	diving	0	0	1	1
+duiken	dive	0	0	1	1
 voordoen	occur	0	0	1	0
 voordoen	to apply	0	0	1	0
 beker	cup	0	0	1	1
@@ -13069,9 +12731,7 @@ bridge	bridge	0	0	1	1
 suikers	sugars	0	0	1	0
 suikers	sugar	0	0	1	0
 donker	dark	0	0	1	1
-rat	council  (1st sentence- german word!)	0	0	1	0
-rat	rat	0	0	1	1
-rat	rat (2nd and 4th sentence)	0	0	1	0
+lichtere	lighter	0	0	1	0
 ras	breed	0	0	1	1
 ras	race	0	0	1	1
 rap	quick	0	0	1	0
@@ -13104,8 +12764,7 @@ ssers	ss	0	0	1	0
 opstandige	rebellious	0	0	1	0
 getiteld	titled	0	0	1	1
 persoonlijke	personal	0	0	1	0
-tanzania	tanzania	0	0	1	0
-metal	metal	0	0	1	0
+kleine	small	0	0	1	0
 herhaald	repeated	0	0	1	1
 overige	other	0	0	1	0
 overige	remainder	0	0	1	1
@@ -13123,8 +12782,7 @@ binnenkant	inside	0	0	1	1
 kwesties	issues	0	0	1	0
 saga	saga	0	0	1	0
 queen	queen	0	0	1	0
-contacten	contact	0	0	1	0
-contacten	contacts	0	0	1	1
+veranderd	changed	0	0	1	0
 geïnterpreteerd	interpreted	0	0	1	0
 aangezien	as	0	0	1	1
 aangezien	an	0	0	1	0
@@ -13139,7 +12797,6 @@ bezighoudt	concerned	0	0	1	0
 bezighoudt	concerned about	0	0	1	0
 earth	aarde	0	0	1	0
 opstanden	risings	0	0	1	0
-opstanden	rebellions	0	0	1	0
 opstanden	oprisings	0	0	1	0
 verandert	changes	0	0	1	0
 tsjechië	czechia	0	0	1	0
@@ -13163,9 +12820,9 @@ weliswaar	although	0	0	1	0
 weliswaar	non the less	0	0	1	0
 opinie	opinion	0	0	1	1
 voorlichting	information	0	0	1	0
-voorlichting	education	0	0	1	0
 voorlichting	enlightenment	0	0	1	0
-kalk	lime	0	0	1	1
+voorlichting	education	0	0	1	0
+newton	newton	0	0	1	0
 waals	walloon	0	0	1	1
 guatemala	guatemala	0	0	1	1
 astronoom	astronomer	0	0	1	1
@@ -13197,7 +12854,7 @@ nul	zero	0	0	1	1
 redenen	reasons	0	0	1	0
 verstoring	disturbance	0	0	1	1
 verstoring	interference	0	0	1	0
-lucius	lucius	0	0	1	0
+tommy	tommy	0	0	1	0
 televisiefilm	tv-movie	0	0	1	0
 televisiefilm	telefilm	0	0	1	1
 televisiefilm	television movie	0	0	1	0
@@ -13206,8 +12863,7 @@ optreden	occurrence	0	0	1	0
 optreden	show	0	0	1	0
 tegenstanders	opponents	0	0	1	0
 tegenstanders	enemies	0	0	1	0
-malaria	jungle fever	0	0	1	1
-malaria	malaria	0	0	1	1
+hoofdkwartier	headquarters	0	0	1	1
 burgerij	city state	0	0	1	0
 burgerij	bourgeoisie	0	0	1	1
 burgerij	middle class	0	0	1	0
@@ -13231,7 +12887,7 @@ kortste	shortest	0	0	1	0
 opgenomen	included	0	0	1	0
 opgenomen	hospitalized	0	0	1	0
 groene	green	0	0	1	0
-leiders	leaders	0	0	1	0
+rangen	ranks	0	0	1	0
 ijsberg	iceberg	0	0	1	1
 vergezeld	accompanied	0	0	1	0
 news	news	0	0	1	0
@@ -13251,7 +12907,6 @@ vlamingen	flemings	0	0	1	0
 vlamingen	flemish	0	0	1	0
 verdeling	division	0	0	1	1
 verdeling	distribution	0	0	1	1
-verdeling	dividing	0	0	1	1
 dreiging	threat	0	0	1	1
 koninklijk	kingdom	0	0	1	0
 koninklijk	royal	0	0	1	1
@@ -13317,6 +12972,7 @@ groeide	grew	0	0	1	0
 groeide	goreide	0	0	1	0
 winkelen	to shop	0	0	1	0
 winkelen	shopping	0	0	1	0
+zichtbaar	visible	0	0	1	1
 verschijnt	appears	0	0	1	0
 boodschap	message	0	0	1	1
 gecreëerd	created	0	0	1	0
@@ -13330,8 +12986,6 @@ della	della	0	0	1	0
 veronica	veronica	0	0	1	1
 darwins	darwin's	0	0	1	0
 darwins	darwins	0	0	1	0
-noordwesten	northwestern	0	0	1	0
-noordwesten	nort-western	0	0	1	0
 noordwesten	north western	0	0	1	0
 sindsdien	thereafter	0	0	1	0
 sindsdien	since	0	0	1	1
@@ -13359,7 +13013,7 @@ rna	ribonucleinezuur	0	0	1	0
 gericht	focused	0	0	1	0
 gericht	aimed	0	0	1	0
 moravië	moravia	0	0	1	0
-legioen	legion	0	0	1	1
+judoka	judoka	0	0	1	0
 welsh	<english word> welsh	0	0	1	0
 decennia	decades	0	0	1	0
 leger	army	0	0	1	1
@@ -13415,9 +13069,7 @@ geheimzinnige	mysterious	0	0	1	0
 geheimzinnige	secret	0	0	1	0
 gave	gift	0	0	1	1
 vrije	free	0	0	1	0
-nauwe	close	0	0	1	0
-nauwe	narrow	0	0	1	0
-nauwe	tight	0	0	1	0
+rondom	around	0	0	1	1
 bands	bands	0	0	1	0
 donau	danube	0	0	1	1
 makkelijk	easily	0	0	1	1
@@ -13441,12 +13093,9 @@ vreugde	joy	0	0	1	1
 vreugde	happiness	0	0	1	0
 donald	donald	0	0	1	0
 meters	meteres	0	0	1	0
-meters	meters	0	0	1	0
-meters	metres	0	0	1	0
 godin	goddess	0	0	1	1
 godin	godess	0	0	1	0
 portret	portrait	0	0	1	1
-portret	portret	0	0	1	0
 indirect	indirect	0	0	1	1
 indirect	indirectly	0	0	1	1
 haarlemse	harlem	0	0	1	0
@@ -13454,9 +13103,8 @@ haarlemse	haarlem	0	0	1	0
 haarlemse	from haarlem	0	0	1	0
 saturnus	saturn	0	0	1	1
 cooper	cooper	0	0	1	0
-handelen	bin	0	0	1	0
-handelen	handling	0	0	1	0
-handelen	act	0	0	1	1
+groothertog	groothertog	0	0	1	0
+groothertog	grand duke	0	0	1	1
 ice	ice	0	0	1	0
 vlakte	plain	0	0	1	1
 vlakte	leveled	0	0	1	0
@@ -13517,8 +13165,8 @@ geweld	violence	0	0	1	1
 jennifer	jennifer	0	0	1	0
 bouwen	building	0	0	1	0
 bouwen	build	0	0	1	1
-tekening	drawing	0	0	1	1
 tekening	drawings	0	0	1	0
+tekening	drawing	0	0	1	1
 eventuele	potential	0	0	1	0
 eventuele	any	0	0	1	0
 eventuele	eventual	0	0	1	0
@@ -13533,7 +13181,9 @@ trio	threesome	0	0	1	0
 trio	trio	0	0	1	1
 hijzelf	himself	0	0	1	0
 everest	everest	0	0	1	0
-zonnestelsel	solar system	0	0	1	0
+borg	bail	0	0	1	1
+borg	vouch for; secure	0	0	1	0
+borg	guarantee	0	0	1	1
 angst	fear	0	0	1	1
 minderjarigen	minors	0	0	1	0
 minderjarigen	minor	0	0	1	0
@@ -13554,7 +13204,6 @@ nb	ln	0	0	1	0
 nb	nb	0	0	1	0
 nb	north latitude	0	0	1	0
 when	when	0	0	1	0
-ne	ne	0	0	1	0
 beschikte	have at their disposal	0	0	1	0
 beschikte	ordered	0	0	1	0
 beschikte	had	0	0	1	0
@@ -13580,7 +13229,6 @@ ongeveer	about	0	0	1	1
 ongeveer	approximatily	0	0	1	0
 behoorlijk	reasonably	0	0	1	0
 behoorlijk	properly	0	0	1	1
-behoorlijk	pretty	0	0	1	0
 organiseerde	organized	0	0	1	0
 heden	now	0	0	1	0
 heden	the present	0	0	1	0
@@ -13591,16 +13239,17 @@ natuurgebieden	wildlife parks	0	0	1	0
 maakte	made	0	0	1	0
 vietnam	vietnam	0	0	1	1
 geraakt	hit	0	0	1	0
-groothertog	groothertog	0	0	1	0
-groothertog	grand duke	0	0	1	1
+handelen	bin	0	0	1	0
+handelen	handling	0	0	1	0
+handelen	act	0	0	1	1
 longen	lungs	0	0	1	0
 geografische	geographical	0	0	1	0
 coach	coach	0	0	1	0
 rol	role	0	0	1	1
 ron	ron	0	0	1	0
-verbroken	broken	0	0	1	0
-verbroken	broken down	0	0	1	0
 verbroken	terminated	0	0	1	0
+verbroken	broken down	0	0	1	0
+verbroken	broken	0	0	1	0
 rob	rob	0	0	1	0
 roc	roc - proper noun	0	0	1	0
 roc	roc	0	0	1	0
@@ -13657,7 +13306,6 @@ klaas	klaas	0	0	1	0
 tanks	container	0	0	1	0
 tanks	tank	0	0	1	0
 tanks	tanks	0	0	1	0
-onderwerp	topic	0	0	1	1
 onderwerp	subject	0	0	1	1
 tarief	rate	0	0	1	1
 enof	and or	0	0	1	0
@@ -13669,7 +13317,6 @@ stichtten	founded	0	0	1	0
 stichtten	established	0	0	1	0
 exemplaar	copy	0	0	1	1
 exemplaar	example	0	0	1	0
-klm	klm	0	0	1	0
 aangesteld	appoint	0	0	1	0
 aangesteld	appointed	0	0	1	0
 lever	liver	0	0	1	1
@@ -13712,10 +13359,10 @@ behalen	gain	0	0	1	1
 universeel	universal	0	0	1	1
 vertalingen	translations	0	0	1	0
 fabriek	factory	0	0	1	1
-nieuwste	new	0	0	1	0
-nieuwste	newest	0	0	1	0
-bedreven	driven	0	0	1	0
-bedreven	proficient	0	0	1	1
+den	the	0	0	1	0
+den	den	0	0	1	0
+bestanden	files	0	0	1	0
+bestanden	files/ truces	0	0	1	0
 schetsen	sketches	0	0	1	0
 schetsen	sketch	0	0	1	1
 iets	jets	0	0	1	0
@@ -13746,12 +13393,13 @@ geweest	previous	0	0	1	0
 bedrijf	company	0	0	1	0
 aanmerking	qualify	0	0	1	0
 aanmerking	consider	0	0	1	0
-aanmerking	aspersion	0	0	1	0
 rafael	rafael	0	0	1	0
 voortgezet	resumed	0	0	1	0
 voortgezet	persisted	0	0	1	0
 voortgezet	continued	0	0	1	0
-combineren	combine	0	0	1	1
+hevige	fierce	0	0	1	0
+hevige	violent	0	0	1	0
+hevige	severe	0	0	1	0
 gebeurtenissen	events	0	0	1	0
 berekenen	calculate	0	0	1	1
 berekenen	calculating	0	0	1	0
@@ -13771,7 +13419,6 @@ meegemaakt	participated	0	0	1	0
 meegemaakt	witnessed	0	0	1	0
 demografische	demographic	0	0	1	0
 manieren	ways	0	0	1	0
-manieren	manners	0	0	1	1
 volkeren	people	0	0	1	0
 volkeren	peoples	0	0	1	0
 stuurt	sends	0	0	1	0
@@ -13805,9 +13452,7 @@ voorsprong	advance	0	0	1	0
 voorsprong	lead	0	0	1	1
 lichte	light	0	0	1	0
 lichte	slight	0	0	1	0
-vaders	fathers	0	0	1	0
 vaders	vanders	0	0	1	0
-garantie	warranty	0	0	1	1
 garantie	guarantee	0	0	1	1
 cant	cant	0	0	1	0
 vertegenwoordiging	representation	0	0	1	1
@@ -13815,7 +13460,6 @@ vertegenwoordiging	represent	0	0	1	0
 verfilming	filming	0	0	1	0
 verfilming	film version	0	0	1	0
 toegewezen	assigned	0	0	1	0
-toegewezen	appointed to	0	0	1	0
 toegewezen	appointed	0	0	1	0
 overdracht	transferal	0	0	1	1
 overdracht	transmission	0	0	1	1
@@ -13842,8 +13486,8 @@ openbaar	public	0	0	1	1
 grootste	biggest	0	0	1	0
 grootste	main	0	0	1	1
 volwassen	adults	0	0	1	0
-volwassen	adult	0	0	1	1
 volwassen	fullgrown	0	0	1	0
+volwassen	adult	0	0	1	1
 aangemerkt	regarded	0	0	1	0
 aangemerkt	marked	0	0	1	0
 aangemerkt	reprimand	0	0	1	0
@@ -13860,7 +13504,6 @@ regels	rules	0	0	1	0
 voorstelling	interpretation	0	0	1	0
 voorstelling	presentation	0	0	1	1
 voorstelling	show	0	0	1	0
-gelegenheden	occasions	0	0	1	0
 gelegenheden	opportunities	0	0	1	0
 club	club	0	0	1	1
 antoine	antoine (anton)	0	0	1	0
@@ -13879,13 +13522,12 @@ afgesloten	locked	0	0	1	1
 afgesloten	sealed	0	0	1	0
 afgesloten	closed	0	0	1	0
 grootte	size	0	0	1	1
-demonen	demons	0	0	1	0
+gedeeltelijk	partly	0	0	1	1
+gedeeltelijk	partially	0	0	1	1
 westromeinse	western roman	0	0	1	0
-westromeinse	west-roman	0	0	1	0
 westromeinse	west roman	0	0	1	0
 gevaar	danger	0	0	1	1
 atmosfeer	atmosphere	0	0	1	1
-haarlemmermeer	haarlemmermeer	0	0	1	0
 wegdek	pavement	0	0	1	1
 wegdek	road surface	0	0	1	0
 medewerking	collaboration	0	0	1	1
@@ -13894,7 +13536,8 @@ gerard	gerard	0	0	1	0
 draait	turn	0	0	1	0
 draait	runs	0	0	1	0
 draait	turns	0	0	1	0
-hugo	hugo	0	0	1	0
+denken	think	0	0	1	1
+denken	to think	0	0	1	0
 drempel	drempe	1	0	1	0
 drempel	treshold / speedbump	1	0	1	0
 drempel	sill	1	0	1	1
@@ -13910,7 +13553,6 @@ drempel	curb	1	0	1	0
 drempel	treshold/ gate sill	1	0	1	0
 drempel	doorstep	1	0	1	1
 fases	phases	0	0	1	0
-fases	fases	0	0	1	0
 gehouden	stick to	0	0	1	0
 gehouden	keep	0	0	1	0
 gehouden	held	0	0	1	0
@@ -13943,8 +13585,8 @@ besluiten	conclusions	0	0	1	0
 slachtoffers	victims	0	0	1	0
 apen	apes	0	0	1	0
 apen	monkeys	0	0	1	0
-meerderheid	biiggest part	0	0	1	0
-meerderheid	majority	0	0	1	1
+optredens	appearence	0	0	1	0
+optredens	performances	0	0	1	0
 lonely	eenzame	0	0	1	0
 lonely	lonely	0	0	1	0
 lonely	eenzaam	0	0	1	0
@@ -13987,7 +13629,6 @@ stelt	places	0	0	1	0
 stelt	argues	0	0	1	0
 daaruit	from that	0	0	1	0
 daaruit	from	0	0	1	0
-daaruit	there out	0	0	1	0
 binnenste	core	0	0	1	1
 binnenste	inner	0	0	1	1
 kent	knows	0	0	1	0
@@ -14080,7 +13721,6 @@ gesproken	spoken	0	0	1	0
 gesproken	spoke	0	0	1	0
 vermelden	mention	0	0	1	1
 vermelden	noted	0	0	1	0
-broeders	brethren	0	0	1	1
 broeders	brothers	0	0	1	0
 and	en	0	0	1	0
 behandelt	treats	0	0	1	0
@@ -14187,7 +13827,9 @@ onderste	bottom	0	0	1	1
 cloaca	cloaca	0	0	1	1
 vetten	fats	0	0	1	0
 ronaldinho	ronaldinho	0	0	1	0
-boys	jongens	0	0	1	0
+staatkundige	political	0	0	1	0
+staatkundige	state officer	0	0	1	0
+staatkundige	constitutional	0	0	1	0
 trof	found	0	0	1	0
 trof	make	0	0	1	0
 trof	took	0	0	1	0
@@ -14196,11 +13838,9 @@ netwerken	networks	0	0	1	0
 netwerken	paid	0	0	1	0
 optrad	appeared	0	0	1	0
 optrad	occured	0	0	1	0
-optrad	performed	0	0	1	0
 tros	tros	0	0	1	0
 tros	raceme	0	0	1	1
 zweedse	swedish	0	0	1	1
-ingrijpen	intervene	0	0	1	1
 ingrijpen	interfere	0	0	1	0
 waardoor	whereby	0	0	1	1
 waardoor	through what	0	0	1	0
@@ -14258,8 +13898,7 @@ maximum	maximum	0	0	1	1
 collega	colleague	0	0	1	1
 college	college	0	0	1	1
 stanley	stanley	0	0	1	0
-breekt	breaks	0	0	1	0
-breekt	broke	0	0	1	0
+masturbatie	masturbation	0	0	1	1
 crystal	kristal	0	0	1	0
 crystal	crystal	0	0	1	0
 federal	federal	0	0	1	0
@@ -14300,7 +13939,6 @@ bergachtig	mountainous	0	0	1	1
 bergachtig	rocky	0	0	1	0
 verdween	disappeared	0	0	1	0
 verkeer	traffic	0	0	1	1
-duty	duty	0	0	1	0
 pakistan	pakistan	0	0	1	1
 omgekeerde	possible returned	0	0	1	0
 omgekeerde	contrary	0	0	1	0
@@ -14319,8 +13957,7 @@ grootbrittannië	great-brittain	0	0	1	0
 grootbrittannië	great britain	0	0	1	0
 polo	polo	0	0	1	1
 bijnaam	nickname	0	0	1	1
-vervaardigde	manufactured	0	0	1	0
-vervaardigde	manifactured	0	0	1	0
+nicole	nicole	0	0	1	0
 franse	french	0	0	1	0
 stabiel	steady	0	0	1	0
 stabiel	stable	0	0	1	1
@@ -14348,7 +13985,6 @@ speekselvloed	salivation	1	1	0	0
 speekselvloed	salivary flow	1	1	0	0
 maximaal	maximal	0	0	1	1
 maximaal	maximum	0	0	1	1
-confessions	confessions	0	0	1	0
 protestanten	protestants	0	0	1	0
 variaties	variaties	0	0	1	0
 variaties	variations	0	0	1	0
@@ -14362,7 +13998,7 @@ verouderde	out-of-date	0	0	1	0
 verouderde	obsolete	0	0	1	0
 andrew	andrew	0	0	1	0
 goede	good	0	0	1	0
-minister	minister	0	0	1	1
+weekblad	magazine	0	0	1	0
 stelling	triangle	0	0	1	0
 stelling	premise	0	0	1	0
 stelling	theorem	0	0	1	1
@@ -14389,6 +14025,8 @@ stempel	print	0	0	1	0
 stempel	stamp	0	0	1	0
 stempel	punch	0	0	1	1
 uitstekend	excellent	0	0	1	1
+nieuwste	new	0	0	1	0
+nieuwste	newest	0	0	1	0
 planeet	planet	0	0	1	1
 pippi	pippi	0	0	1	0
 ontdekte	discovered	0	0	1	0
@@ -14403,7 +14041,6 @@ opgesloten	locked	0	0	1	1
 opgesloten	locked up	0	0	1	0
 isla	isla	0	0	1	0
 isla	island	0	0	1	0
-hevig	violently	0	0	1	1
 hevig	violent	0	0	1	1
 hevig	heavily	0	0	1	0
 onzeker	insecure	0	0	1	1
@@ -14414,7 +14051,6 @@ beleid	policy	0	0	1	0
 nest	nest	0	0	1	1
 boven	processing	0	0	1	0
 boven	above	0	0	1	1
-saldo	saldo	0	0	1	0
 saldo	balance	0	0	1	1
 zomaar	just like that	0	0	1	0
 zomaar	just	0	0	1	0
@@ -14499,8 +14135,7 @@ titelsong	titlesong	0	0	1	0
 virginia	virginia	0	0	1	0
 oprichting	establishment	0	0	1	1
 oprichting	founding	0	0	1	0
-tevens	also	0	0	1	1
-tevens	as well as	0	0	1	0
+tante	aunt	0	0	1	1
 acute	acute	0	0	1	0
 acute	direct	0	0	1	0
 icoon	icon	0	0	1	1
@@ -14518,7 +14153,6 @@ hoopte	hoped	0	0	1	0
 tower	tower	0	0	1	0
 tower	toren	0	0	1	0
 vertrekken	leave	0	0	1	1
-vertrekken	leaving	0	0	1	0
 fractie	fraction	0	0	1	1
 fractie	faction	0	0	1	0
 officieel	official	0	0	1	1
@@ -14548,8 +14182,8 @@ mooi	pretty	0	0	1	1
 mooi	nice	0	0	1	1
 stopt	quits	0	0	1	0
 stopt	stops	0	0	1	0
-genoemde	mentioned	0	0	1	0
-genoemde	called	0	0	1	0
+academisch	academic	0	0	1	0
+academisch	university	0	0	1	1
 luxembourg	luxembourg	0	0	1	0
 moon	moon	0	0	1	0
 kamer	chamber	0	0	1	1
@@ -14622,9 +14256,7 @@ culturen	cultures	0	0	1	0
 gulden	guilder	0	0	1	1
 gulden	gulden	0	0	1	1
 vallei	valley	0	0	1	1
-vallen	covered	0	0	1	0
 vallen	fall	0	0	1	1
-vallen	to fall	0	0	1	0
 diefstal	theft	0	0	1	1
 systematisch	systematically	0	0	1	1
 systematisch	systematic	0	0	1	1
@@ -14640,7 +14272,6 @@ toename	increase	0	0	1	1
 toename	rise	0	0	1	0
 kerkelijk	clerical	0	0	1	0
 kerkelijk	religious	0	0	1	0
-waarin	which are	0	0	1	0
 waarin	in which	0	0	1	0
 waarin	wherein	0	0	1	1
 gisting	fermentation	0	0	1	1
@@ -14665,8 +14296,8 @@ gemenebest	commomwealth	0	0	1	0
 blues	blues	0	0	1	1
 russen	russians	0	0	1	0
 alvleesklier	pancreas	0	0	1	1
-plichten	obligations	0	0	1	0
-plichten	duties	0	0	1	0
+verstrekt	provided	0	0	1	0
+verstrekt	supply	0	0	1	0
 goedkoop	cheap	0	0	1	1
 rubber	rubber	0	0	1	1
 bevoegdheden	authorities	0	0	1	0
@@ -14696,7 +14327,6 @@ indeling	sharing	0	0	1	0
 indeling	layout	0	0	1	0
 verdere	further	0	0	1	0
 speelt	plays	0	0	1	0
-all	all	0	0	1	0
 descartes	descartes	0	0	1	0
 aardewerk	pottery	0	0	1	1
 aardewerk	earthenware	0	0	1	1
@@ -14708,8 +14338,8 @@ postuum	posthumously	0	0	1	0
 vroegere	earlier	0	0	1	0
 vroegere	former	0	0	1	0
 wederom	again	0	0	1	0
-dienen	serve	0	0	1	1
-dienen	should	0	0	1	1
+verloopt	elapse	0	0	1	0
+verloopt	expires	0	0	1	0
 research	onderzoek	0	0	1	0
 research	research	0	0	1	0
 als	as	0	0	1	1
@@ -14768,7 +14398,6 @@ haan	cock	0	0	1	1
 haan	rooster	0	0	1	1
 knecht	servant	0	0	1	1
 knecht	knight	0	0	1	0
-knecht	helper	0	0	1	0
 ter	to	0	0	1	1
 ter	as	0	0	1	0
 ter	at	0	0	1	1
@@ -14779,7 +14408,6 @@ carrière	career	0	0	1	1
 sun	sun	0	0	1	0
 brief	letter	0	0	1	1
 ontdekken	discover	0	0	1	1
-bevorderen	to improve	0	0	1	0
 bevorderen	promote	0	0	1	1
 bevorderen	stimulate	0	0	1	0
 vaginale	vaginal	0	0	1	0
@@ -14799,21 +14427,19 @@ bodem	soil	0	0	1	1
 bodem	bottom	0	0	1	1
 boden	offered	0	0	1	0
 slowakije	slovakia	0	0	1	1
-boekje	booklet	0	0	1	1
-boekje	book	0	0	1	0
+anjou	anjou	0	0	1	0
 mac	mac	0	0	1	0
 doorgaan	continue	0	0	1	0
 doorgaan	to go through	0	0	1	0
-|align=left|the	/ align = left / the	0	0	1	0
+verre	far	0	0	1	0
 tentoonstellingen	exhibitions	0	0	1	0
 tentoonstellingen	exhibition	0	0	1	0
 disneyland	disneyland	0	0	1	0
 zinnen	likes	0	0	1	0
 zinnen	sentences	0	0	1	0
 toneel	stage	0	0	1	1
-afgewezen	denied	0	0	1	0
 afgewezen	rejected	0	0	1	0
-afgewezen	refused	0	0	1	0
+afgewezen	denied	0	0	1	0
 vertoonde	showed	0	0	1	0
 wifi	wifi	0	0	1	0
 onbekende	unknown	0	0	1	1
@@ -14869,7 +14495,6 @@ industrialisatie	industralisation	0	0	1	0
 industrialisatie	industrialisation	0	0	1	0
 ontkende	denied	0	0	1	0
 v	v	0	0	1	0
-eredienst	service of honor	0	0	1	0
 eredienst	worship	0	0	1	1
 cheops	cheops	0	0	1	0
 publiceerde	publicised	0	0	1	0
@@ -14877,7 +14502,7 @@ publiceerde	published	0	0	1	0
 pony	pony	0	0	1	1
 vergelijkingen	comparisons	0	0	1	0
 vergelijkingen	equations	0	0	1	0
-division	division	0	0	1	0
+brown	brown (name)	0	0	1	0
 pont	pont	0	0	1	0
 pont	ferry	0	0	1	1
 klooster	monastery	0	0	1	1
@@ -14932,7 +14557,6 @@ susan	sysan	0	0	1	0
 susan	susan	0	0	1	0
 servische	servian	0	0	1	0
 servische	serbian	0	0	1	0
-masturbatie	masturbation	0	0	1	1
 grafische	grafic	0	0	1	0
 grafische	graphic	0	0	1	0
 vegas	vegas	0	0	1	0
@@ -14952,14 +14576,12 @@ laatstgenoemde	latest	0	0	1	0
 laatstgenoemde	lastnamed	0	0	1	0
 laatstgenoemde	last mentioned	0	0	1	0
 benedictus	benedictus (proper noun - first name)	0	0	1	0
-benedictus	benedictus	0	0	1	0
 eet	eat	0	0	1	0
 eet	eats	0	0	1	0
 september	september	0	0	1	1
 september	septembre	0	0	1	0
 inquisitie	inquisition	0	0	1	1
 gesloten	closed	0	0	1	1
-top	top	0	0	1	1
 top	peak	0	0	1	1
 manilla	manilla	0	0	1	0
 manilla	manila	0	0	1	1
@@ -15021,7 +14643,6 @@ tracht	tried to	0	0	1	0
 gezonde	healthy	0	0	1	0
 beieren	bavaria	0	0	1	1
 beieren	beieren	0	0	1	0
-beyoncé	beyonce	0	0	1	0
 mannelijk	male	0	0	1	1
 mannelijk	manly	0	0	1	1
 alcohol	alcohol	0	0	1	1
@@ -15129,6 +14750,7 @@ wilson	wilson	0	0	1	0
 moeders	mothers	0	0	1	0
 besturingssysteem	operating system	0	0	1	1
 besturingssysteem	system	0	0	1	0
+imf	imf	0	0	1	0
 elektrisch	electrical	0	0	1	1
 elektrisch	electric	0	0	1	1
 stierf	died	0	0	1	0
@@ -15141,7 +14763,6 @@ judas	judas	0	0	1	0
 magisch	magic	0	0	1	1
 magisch	magical	0	0	1	1
 foreman	foreman	0	0	1	0
-pddnos	pdd-nos	0	0	1	0
 pddnos	ppd-nos	0	0	1	0
 wereldoorlog	wold war	0	0	1	0
 wereldoorlog	world war	0	0	1	0
@@ -15197,11 +14818,7 @@ psychiatrische	psychiatric	0	0	1	0
 provincie	province	0	0	1	1
 provincie	region	0	0	1	0
 resterende	remaining	0	0	1	0
-tegenovergestelde	contradiction	0	0	1	0
-tegenovergestelde	opposite	0	0	1	0
-rechtszaak	action	0	0	1	1
-rechtszaak	lawsuit	0	0	1	0
-rechtszaak	hearing	0	0	1	0
+afbeeldingen	images	0	0	1	0
 hield	held	0	0	1	0
 hield	kept	0	0	1	0
 volgend	following	0	0	1	1
@@ -15220,7 +14837,8 @@ circulatie	circulation	0	0	1	1
 tuin	garden	0	0	1	1
 his	his	0	0	1	0
 hit	hit	0	0	1	1
-posities	positions	0	0	1	0
+hiv	aids	0	0	1	0
+hiv	hiv	0	0	1	0
 onderzocht	investigated	0	0	1	0
 onderzocht	researched	0	0	1	0
 behoud	preserve	0	0	1	0
@@ -15281,7 +14899,6 @@ laat	late / to allow	0	0	1	0
 arm	poor	0	0	1	1
 arm	arm	0	0	1	1
 klux	klux	0	0	1	0
-klux	military forces	0	0	1	0
 aardolie	crude oil	0	0	1	0
 aardolie	oil	0	0	1	0
 vond	was	0	0	1	0
@@ -15297,9 +14914,8 @@ intelligentie	intelligence	0	0	1	0
 erna	after	0	0	1	0
 erna	after that	0	0	1	0
 uur	hour	0	0	1	1
-omgeving	environment	0	0	1	1
-omgeving	surroundings	0	0	1	1
 omgeving	environment - 3rd sentence	0	0	1	0
+omgeving	surroundings	0	0	1	1
 omgeving	vicinity - 1st sentence	0	0	1	0
 deelnemers	participants	0	0	1	0
 brabant	brabant	0	0	1	0
@@ -15307,11 +14923,9 @@ perkamentus	dumbledore	0	0	1	0
 c	c	0	0	1	1
 weerstaan	resist	0	0	1	0
 weerstaan	to withstand	0	0	1	0
-immers	indeed	0	0	1	1
 immers	surely	0	0	1	1
 roman	novel	0	0	1	1
 gemeenteraadsverkiezingen	municipal elections	0	0	1	0
-gemeenteraadsverkiezingen	municipal	0	0	1	0
 context	cntext	0	0	1	0
 context	context	0	0	1	0
 blazen	blow	0	0	1	1
@@ -15374,15 +14988,16 @@ charleroi	charleroi	0	0	1	0
 daling	decline	0	0	1	0
 daling	decrease	0	0	1	0
 daling	fall	0	0	1	1
-marihuana	marihuana	0	0	1	1
-marihuana	marijuana	0	0	1	1
+diezelfde	the same	0	0	1	0
+diezelfde	same	0	0	1	0
 onderzoeken	investigate	0	0	1	1
 beurs	bourse	0	0	1	0
 beurs	market	0	0	1	0
 beurs	stock exchange	0	0	1	0
 resulteert	results	0	0	1	0
 georgia	georgia	0	0	1	0
-culturele	cultural	0	0	1	0
+toenemende	growing	0	0	1	0
+toenemende	increasing	0	0	1	0
 vloeistof	liquids	0	0	1	0
 vloeistof	fluid	0	0	1	1
 vloeistof	liquid	0	0	1	1
@@ -15404,7 +15019,8 @@ rij	in a row	0	0	1	0
 rij	row	0	0	1	1
 rik	rik	0	0	1	0
 unityear	unit year	0	0	1	0
-parodie	parody	0	0	1	1
+meerdere	multiple	0	0	1	0
+meerdere	more	0	0	1	0
 mauritius	mauritius	0	0	1	0
 santos	santos	0	0	1	0
 atheïsten	atheists	0	0	1	0
@@ -15418,7 +15034,6 @@ synoniemen	to float	0	0	1	0
 fossiele	fossil	0	0	1	0
 federer	federer	0	0	1	0
 spears	spears	0	0	1	0
-braziliaanse	brazillian	0	0	1	0
 braziliaanse	brazilian	0	0	1	0
 voorkeur	predilection	0	0	1	1
 voorkeur	liking	0	0	1	1
@@ -15428,7 +15043,6 @@ voorkeur	preference	0	0	1	1
 voorgangers	clergymen	0	0	1	0
 voorgangers	predecessors	0	0	1	0
 verliezen	losses	0	0	1	1
-begroeiing	flora	0	0	1	0
 begroeiing	vegetation	0	0	1	0
 begroeiing	covering	0	0	1	0
 communiceren	communicate	0	0	1	1
@@ -15460,7 +15074,6 @@ alfabet	alphabet	0	0	1	1
 redelijk	reasonably	0	0	1	1
 redelijk	reasonable	0	0	1	1
 sterker	stronger	0	0	1	0
-sterker	even more	0	0	1	0
 sterker	more	0	0	1	0
 pater	priest	0	0	1	0
 pater	father	0	0	1	1
@@ -15482,15 +15095,13 @@ belangrijkste	most important	0	0	1	0
 hiertoe	this	0	0	1	0
 hiertoe	up to here	0	0	1	0
 hiertoe	for this purpose	0	0	1	0
-gestuurd	sent	0	0	1	0
 gestuurd	send	0	0	1	0
+gestuurd	sent	0	0	1	0
 continenten	continents	0	0	1	0
 zicht	sight	0	0	1	1
 zicht	view	0	0	1	1
 kruistocht	crusade	0	0	1	1
-hevige	fierce	0	0	1	0
-hevige	violent	0	0	1	0
-hevige	severe	0	0	1	0
+combineren	combine	0	0	1	1
 snelheid	speed	0	0	1	1
 plateau	plateau	0	0	1	1
 mogelijke	possible	0	0	1	0
@@ -15499,8 +15110,7 @@ letland	latvia	0	0	1	1
 verwerken	process	0	0	1	0
 verwerken	process(ing)	0	0	1	0
 orgasme	orgasm	0	0	1	1
-kast	clost	0	0	1	0
-kast	closet	0	0	1	1
+dvds	dvds	0	0	1	0
 rusland	russia	0	0	1	1
 brit	briton	0	0	1	1
 brit	brit	0	0	1	0
@@ -15513,7 +15123,6 @@ gedachtegoed	ideas	0	0	1	0
 lost	lost	0	0	1	0
 lost	solves	0	0	1	0
 vertegenwoordigd	represented	0	0	1	0
-beschrijven	to describe	0	0	1	0
 beschrijven	describe	0	0	1	1
 baksteen	brickwork	0	0	1	0
 baksteen	brick	0	0	1	1
@@ -15522,9 +15131,9 @@ campagne	campaign	0	0	1	1
 waarmee	with which	0	0	1	0
 waarmee	which	0	0	1	0
 vertegenwoordigt	represents	0	0	1	0
-ontmoeten	meet	0	0	1	1
-ontmoeten	to meet	0	0	1	0
-ontmoeten	met	0	0	1	0
+gedragingen	behaviour	0	0	1	0
+gedragingen	behaviors	0	0	1	0
+gedragingen	behavior	0	0	1	0
 dikwijls	often	0	0	1	1
 play	on	0	0	1	0
 play	play	0	0	1	0
@@ -15583,7 +15192,6 @@ gevoelige	sensitive	0	0	1	0
 gevoelige	senstive	0	0	1	0
 klans	clans	0	0	1	0
 klans	klans	0	0	1	0
-gelijkwaardig	even	0	0	1	0
 gelijkwaardig	equal	0	0	1	0
 elkaar	eachother	0	0	1	0
 elkaar	each other	0	0	1	1
@@ -15595,25 +15203,21 @@ zanger	singer	0	0	1	1
 situaties	situations	0	0	1	0
 wanna	wanna	0	0	1	0
 wanna	wanna (willen)	0	0	1	0
+kees	kees	0	0	1	0
 fantasie	fantasy	0	0	1	1
 toedoen	action	0	0	1	0
 toedoen	fault	0	0	1	0
-toedoen	assistance	0	0	1	1
 bezet	occupates	0	0	1	0
 bezet	occupied	0	0	1	1
 bestreden	contested	0	0	1	0
 bestreden	combated	0	0	1	0
 bestreden	challenged - 2nd sentence	0	0	1	0
 bestreden	counteracted - 3rd and 4th sentence.	0	0	1	0
-zitten	to sit	0	0	1	0
 zitten	sit	0	0	1	1
-zitten	are located	0	0	1	0
 bourgondië	bourgondie	0	0	1	0
-bourgondië	bourgondia	0	0	1	0
 bourgondië	burgundy	0	0	1	0
 gaven	gifts	0	0	1	0
 gaven	gave	0	0	1	0
-sports	sports	0	0	1	0
 zuidelijke	southern	0	0	1	0
 veranderde	changed	0	0	1	0
 slechter	worse	0	0	1	1
@@ -15631,8 +15235,7 @@ noordelijke	northern	0	0	1	0
 brug	bridge	0	0	1	1
 bibliotheken	libraries	0	0	1	0
 fase	phase	0	0	1	1
-fase	fase	0	0	1	0
-zichtbaar	visible	0	0	1	1
+mountains	mountains	0	0	1	0
 belangstelling	interest	0	0	1	1
 melodie	melody	0	0	1	1
 dylans	dylans	0	0	1	0
@@ -15649,7 +15252,6 @@ gevoed	fed	0	0	1	0
 delta	delta	0	0	1	1
 gevoel	feeling	0	0	1	1
 gevoel	sentiment	0	0	1	1
-verzorgd	cared	0	0	1	0
 verzorgd	provided	0	0	1	0
 verzorgd	taken care of	0	0	1	0
 beaufort	beaufort	0	0	1	0
@@ -15675,7 +15277,8 @@ guyana	guyana	0	0	1	0
 warmer	warmer	0	0	1	1
 z	z	0	0	1	0
 langzamer	slower	0	0	1	0
-cover	cover	0	0	1	0
+raad	court	0	0	1	0
+raad	council	0	0	1	1
 vijftien	fifteen	0	0	1	1
 ongeluk	accident	0	0	1	1
 ongeluk	accidentally	0	0	1	0
@@ -15698,6 +15301,8 @@ uitbreiden	expand	0	0	1	1
 nick	nick	0	0	1	0
 zondag	sunday	0	0	1	1
 ruimte	space	0	0	1	1
+kv	ks	0	0	1	0
+kv	kv	0	0	1	0
 missie	mission	0	0	1	1
 feodale	feudaal	0	0	1	0
 feodale	feudal	0	0	1	0
@@ -15713,7 +15318,8 @@ opgebouwd	build	0	0	1	0
 opgebouwd	created	0	0	1	0
 medina	madina	0	0	1	0
 medina	medina	0	0	1	0
-verdedigd	defended	0	0	1	0
+onderscheid	distinction	0	0	1	1
+onderscheid	difference	0	0	1	1
 insect	insect	0	0	1	0
 regeerde	reigned	0	0	1	0
 regeerde	ruled	0	0	1	0
@@ -15721,8 +15327,8 @@ bossen	forests	0	0	1	0
 je	you	0	0	1	1
 ziet	see	0	0	1	0
 ziet	sees	0	0	1	0
-uitvoerende	performing	0	0	1	0
 uitvoerende	executive	0	0	1	0
+uitvoerende	performing	0	0	1	0
 verhaal	story	0	0	1	1
 martín	martín (name)	0	0	1	0
 martín	martin	0	0	1	0
@@ -15732,7 +15338,6 @@ doormidden	in half	0	0	1	0
 doormidden	by	0	0	1	0
 afleggen	in this context it means: to travel	0	0	1	0
 afleggen	traverse	0	0	1	0
-afleggen	accountable	0	0	1	0
 invloed	influence	0	0	1	1
 nasa	nasa	0	0	1	0
 ziel	soul	0	0	1	1
@@ -15800,8 +15405,8 @@ agressieve	agressive	0	0	1	0
 bestrijding	control	0	0	1	0
 bestrijding	controversey	0	0	1	0
 bestrijding	fighting	0	0	1	0
-belgisch	belgium	0	0	1	0
-belgisch	belgian	0	0	1	1
+noten	notes	0	0	1	0
+noten	nuts	0	0	1	0
 beloop	course	0	0	1	1
 beloop	run	0	0	1	0
 verbonden	connected	0	0	1	0
@@ -15844,6 +15449,7 @@ gehele	whole	0	0	1	0
 metro	subway	0	0	1	1
 tekst	text	0	0	1	1
 cleopatra	cleopatra	0	0	1	1
+blauwe	blue	0	0	1	0
 antilliaanse	antillian	0	0	1	0
 antilliaanse	antellean	0	0	1	0
 olivier	olivier	0	0	1	0
@@ -15861,7 +15467,8 @@ harde	hard	0	0	1	0
 harde	harsh	0	0	1	0
 volk	people	0	0	1	1
 schilderij	painting	0	0	1	1
-priester	priest	0	0	1	1
+wk	wk	0	0	1	0
+wk	w.c.	0	0	1	0
 motor	engine	0	0	1	1
 motor	motor	0	0	1	1
 gestopt	put	0	0	1	0
@@ -15890,7 +15497,6 @@ schijn	appearance	0	0	1	1
 schijn	cosmetic	0	0	1	0
 start	start	0	0	1	0
 categoriestad	category city	0	0	1	0
-categoriestad	city categorie	0	0	1	0
 ruwweg	roughly	0	0	1	0
 ruwweg	rougly	0	0	1	0
 detail	detail	0	0	1	1
@@ -15997,7 +15603,6 @@ voorwaarde	condition	0	0	1	1
 bepalend	determining	0	0	1	0
 bepalend	determing	0	0	1	0
 bepalend	determining / guiding	0	0	1	0
-republiek	rebublic	0	0	1	0
 republiek	republic	0	0	1	1
 veronderstelde	assumed	0	0	1	0
 veronderstelde	supposed	0	0	1	0
@@ -16019,7 +15624,6 @@ gehalte	content	0	0	1	1
 gehalte	amount	0	0	1	0
 gehalte	level	0	0	1	0
 statistiek	statistics	0	0	1	1
-statistiek	statistic	0	0	1	0
 kwaliteiten	kwalities	0	0	1	0
 kwaliteiten	qualities	0	0	1	0
 jolie	jolie	0	0	1	0
@@ -16035,7 +15639,8 @@ rusten	to rest	0	0	1	0
 rusten	rest	0	0	1	1
 vertegenwoordigen	represent	0	0	1	1
 vertegenwoordigen	representing	0	0	1	0
-wezens	creatures	0	0	1	0
+lukt	succeed	0	0	1	0
+lukt	succeeds	0	0	1	0
 synoniem	synonym	0	0	1	1
 synoniem	synomym	0	0	1	0
 vertegenwoordiger	representative	0	0	1	1
@@ -16064,12 +15669,15 @@ orange	orange	0	0	1	0
 orange	orange (oranje)	0	0	1	0
 bouwden	builded	0	0	1	0
 bouwden	built	0	0	1	0
-lichtere	lighter	0	0	1	0
+rat	council  (1st sentence- german word!)	0	0	1	0
+rat	rat	0	0	1	1
+rat	rat (2nd and 4th sentence)	0	0	1	0
 crash	crash	0	0	1	0
 wolfgang	wolfgang	0	0	1	0
 fles	bottle	0	0	1	1
 schadelijke	harmful	0	0	1	0
 schadelijke	dangerous	0	0	1	0
+cover	cover	0	0	1	0
 rupsen	centipedes	0	0	1	0
 rupsen	caterpillars	0	0	1	0
 onderwezen	taught	0	0	1	0
@@ -16091,7 +15699,6 @@ tram	streetcar	0	0	1	1
 zekere	a	0	0	1	0
 zekere	certain	0	0	1	0
 zekere	some	0	0	1	0
-gastrol	guestroll	0	0	1	0
 gastrol	hosting role	0	0	1	0
 gastrol	guest appearance	0	0	1	0
 billy	billy	0	0	1	0
@@ -16101,11 +15708,11 @@ televisieserie	television series	0	0	1	0
 evolutionaire	evolutionary	0	0	1	0
 evolutionaire	eviolutionary	0	0	1	0
 trap	stairs	0	0	1	1
-letterlijk	literally	0	0	1	0
-letterlijk	literal	0	0	1	1
+oosterse	easterly	0	0	1	0
+oosterse	eastern	0	0	1	0
 |align=left|get	/ align = left / get	0	0	1	0
 bijeenkomsten	meetings	0	0	1	0
-herkomst	origin	0	0	1	1
+ierse	irish	0	0	1	0
 studios	studios	0	0	1	0
 cry	cry	0	0	1	0
 bellen	bubbles	0	0	1	0
@@ -16119,7 +15726,6 @@ oud	aboriginal	0	0	1	1
 oud	old-time	0	0	1	1
 oud	olden	0	0	1	1
 aardgas	natural gas	0	0	1	0
-bekende	known	0	0	1	0
 bekende	famous	0	0	1	0
 bekende	well known	0	0	1	0
 randen	edges	0	0	1	0
@@ -16146,7 +15752,6 @@ ingreep	intervention	0	0	1	0
 gemiddelde	average	0	0	1	1
 vlek	stain	0	0	1	1
 vlek	spot	0	0	1	0
-blijken	to appear	0	0	1	0
 blijken	turn out	0	0	1	1
 blijken	seemed	0	0	1	0
 zeeniveau	sea level	0	0	1	0
@@ -16176,8 +15781,7 @@ tennessee	tennessee	0	0	1	0
 tennessee	tennesee	0	0	1	0
 toegenomen	increase	0	0	1	0
 toegenomen	increased	0	0	1	0
-gedeeltelijk	partly	0	0	1	1
-gedeeltelijk	partially	0	0	1	1
+demonen	demons	0	0	1	0
 restaurants	restaurants	0	0	1	0
 rudolf	rudolf	0	0	1	0
 rudolf	rudolf - proper noun - surname	0	0	1	0
@@ -16197,7 +15801,6 @@ grootschalige	on a big scale	0	0	1	0
 grootschalige	large-scale	0	0	1	0
 levenswijze	way of life	0	0	1	0
 telescoop	telescope	0	0	1	1
-walter	walter	0	0	1	0
 set	set	0	0	1	0
 set	movie set	0	0	1	0
 echt	real	0	0	1	1
@@ -16230,17 +15833,17 @@ napels	naples	0	0	1	1
 napels	napels	0	0	1	0
 afnemen	decline	0	0	1	1
 afnemen	decrease	0	0	1	1
-|align=left|als	align left if	0	0	1	0
 riga	riga	0	0	1	0
 accent	accent	0	0	1	1
-winkelcentrum	mall	0	0	1	0
-winkelcentrum	shopping mall	0	0	1	0
+werpen	throw	0	0	1	1
 droog	dry	0	0	1	1
 droom	dream	0	0	1	1
 philips	philips	0	0	1	0
 wageningen	wageningen	0	0	1	0
 juli	july	0	0	1	1
 vind	find	0	0	1	0
+heide	heathland	0	0	1	0
+heide	heath	0	0	1	1
 middelste	middle	0	0	1	0
 middelste	central	0	0	1	1
 holland	holland	0	0	1	1
@@ -16250,7 +15853,7 @@ oostende	oostende (eastend)	0	0	1	0
 oostende	ostend	0	0	1	0
 carnaval	carnival	0	0	1	1
 carnaval	carnaval	0	0	1	0
-tommy	tommy	0	0	1	0
+lucius	lucius	0	0	1	0
 treft	come across	0	0	1	0
 treft	will	0	0	1	0
 treft	hits	0	0	1	0
@@ -16272,9 +15875,7 @@ mannetje	man	0	0	1	0
 imdb	imdb	0	0	1	0
 ringen	ring	0	0	1	1
 ringen	rings	0	0	1	0
-mantel	robe	0	0	1	1
-mantel	coat/ mantle	0	0	1	0
-mantel	mantle	0	0	1	1
+spaarne	spaarne	0	0	1	0
 ottomanen	ottomans	0	0	1	0
 ottomanen	shore	0	0	1	0
 stenen	stones	0	0	1	0
@@ -16299,7 +15900,6 @@ trivia	trivia	0	0	1	0
 divers	diverse	0	0	1	0
 divers	various	0	0	1	1
 divers	divers	0	0	1	0
-centra	centers	0	0	1	0
 centra	centres	0	0	1	0
 werkt	works	0	0	1	0
 werkt	workes	0	0	1	0
@@ -16334,8 +15934,8 @@ grenst	is adjacent to	0	0	1	0
 stijgen	increase	0	0	1	0
 stijgen	rise	0	0	1	1
 stijgen	increasing	0	0	1	0
-graffiti	graffiti	0	0	1	0
 graffiti	grafitti	0	0	1	0
+graffiti	graffiti	0	0	1	0
 geluid	sound	0	0	1	1
 uefa	uefa	0	0	1	0
 dijk	rampart	0	0	1	0
@@ -16348,7 +15948,6 @@ inrichting	institution	0	0	1	0
 rivaal	rival	0	0	1	0
 rivaal	competitor	0	0	1	0
 gewapend	armed	0	0	1	1
-cocaïne	cocaine	0	0	1	1
 cocaïne	cocain	0	0	1	0
 nier	kidney	0	0	1	1
 planning	planning	0	0	1	1
@@ -16357,8 +15956,8 @@ verkiezing	election	0	0	1	1
 debat	debate	0	0	1	1
 taxonomie	taxonomy	0	0	1	0
 operaties	operations	0	0	1	0
-moet	must	0	0	1	1
 moet	should	0	0	1	0
+moet	must	0	0	1	1
 asterix	asterix	0	0	1	0
 justitie	justice	0	0	1	1
 versterkte	strengthened	0	0	1	0
@@ -16379,7 +15978,6 @@ wordt	is	0	0	1	0
 wordt	get	0	0	1	0
 ongebruikelijk	unusual	0	0	1	1
 brusselse	brussels	0	0	1	0
-brusselse	bruges	0	0	1	0
 champions	champions	0	0	1	0
 presley	presley	0	0	1	0
 indirecte	indirect	0	0	1	0
@@ -16409,8 +16007,9 @@ gegaan	gone	0	0	1	0
 gegaan	went	0	0	1	0
 hersenen	brain	0	0	1	1
 zestien	sixteen	0	0	1	1
-lek	leak	0	0	1	1
-lek	leakage	0	0	1	1
+tamelijk	rather	0	0	1	1
+tamelijk	quite	0	0	1	0
+sporters	athletes	0	0	1	0
 geholpen	helped	0	0	1	0
 geholpen	helped by	0	0	1	0
 oorspronkelijke	original	0	0	1	0
@@ -16462,14 +16061,11 @@ luisteren	listen	0	0	1	1
 joe	joe	0	0	1	0
 speciaal	special	0	0	1	1
 barrett	barret	0	0	1	0
-barrett	barrett	0	0	1	0
 naties	nations	0	0	1	0
 hoeveelheid	amount	0	0	1	0
 hoeveelheid	quantity	0	0	1	1
-piece	piece	0	0	1	0
 keizerschap	empirial leadership	0	0	1	0
 keizerschap	reign	0	0	1	0
-keizerschap	emperor	0	0	1	0
 uitgezonden	broadcast	0	0	1	0
 uitgezonden	sent out	0	0	1	0
 uitgezonden	detached	0	0	1	0
@@ -16495,7 +16091,6 @@ bisschop	biship	0	0	1	0
 bisschop	bishop	0	0	1	1
 respect	respect	0	0	1	0
 londense	from london	0	0	1	0
-londense	londen	0	0	1	0
 londense	london	0	0	1	0
 onderverdeling	category	0	0	1	0
 onderverdeling	subdivision	0	0	1	1
@@ -16504,6 +16099,8 @@ onderhouden	maintaining	0	0	1	0
 bbc	bbc	0	0	1	0
 marilyn	marilyn	0	0	1	0
 lichamen	bodies	0	0	1	0
+venetië	venice (place)	0	0	1	0
+venetië	venice	0	0	1	1
 bbp	gdp	0	0	1	0
 dochters	daughters	0	0	1	0
 naarmate	according as	0	0	1	0
@@ -16526,7 +16123,6 @@ ontbreekt	missing	0	0	1	0
 erin	erin	0	0	1	0
 erin	within	0	0	1	0
 erin	it	0	0	1	0
-deden	did	0	0	1	0
 deden	placed	0	0	1	0
 deden	made	0	0	1	0
 werelderfgoedlijst	world inheritance	0	0	1	0
@@ -16553,8 +16149,6 @@ wild	wild	0	0	1	1
 wild	savage	0	0	1	1
 wild	game	0	0	1	1
 verkrachting	rape	0	0	1	1
-sporters	athletes	0	0	1	0
-~	~	0	0	1	0
 nachtleven	night life	0	0	1	0
 nachtleven	nightlife	0	0	1	0
 overgave	surrender	0	0	1	1
@@ -16570,9 +16164,8 @@ talen	languages	0	0	1	0
 oneindig	infinite	0	0	1	1
 oneindig	never ending	0	0	1	0
 oneindig	infinity	0	0	1	0
-afmetingen	measures	0	0	1	0
-afmetingen	dimensions	0	0	1	0
 afmetingen	measurements	0	0	1	0
+afmetingen	dimensions	0	0	1	0
 jehovas	jehovas	0	0	1	0
 jehovas	jehova's - referring to proper noun	0	0	1	0
 jehovas	jehova witnesses	0	0	1	0
@@ -16591,7 +16184,6 @@ sterft	dies	0	0	1	0
 overwinningen	conquers	0	0	1	0
 overwinningen	victories	0	0	1	0
 kopie	copy	0	0	1	1
-flink	solid	0	0	1	1
 flink	substantial	0	0	1	0
 flink	tough	0	0	1	0
 volkstelling	census	0	0	1	1
@@ -16604,7 +16196,6 @@ tibetaanse	tibetan	0	0	1	0
 botsing	collision	0	0	1	1
 botsing	collission	0	0	1	0
 uitgedrukt	expressed	0	0	1	0
-aparte	seperate	0	0	1	0
 aparte	aparte	0	0	1	0
 aparte	separate	0	0	1	0
 gedacht	thought	0	0	1	0
@@ -16656,9 +16247,6 @@ groenland	greenland	0	0	1	1
 verantwoordelijkheid	responsibility	0	0	1	1
 agnost	agnost	0	0	1	0
 agnost	agnostic	0	0	1	0
-eigendom	property	0	0	1	1
-eigendom	ownership	0	0	1	1
-voorganger	predecessor	0	0	1	1
 voorganger	precessor	0	0	1	0
 voorganger	predescessor	0	0	1	0
 roomse	roman	0	0	1	0
@@ -16672,7 +16260,6 @@ vermoedelijk	probable	0	0	1	1
 georges	georges	0	0	1	0
 miami	miami	0	0	1	0
 bewerkstelligen	bring about	0	0	1	0
-bewerkstelligen	to complete	0	0	1	0
 bewerkstelligen	accomplish	0	0	1	0
 sinds	since	0	0	1	1
 nagornokarabach	nogornokarabach	0	0	1	0
@@ -16693,9 +16280,8 @@ elke	each	0	0	1	0
 primitieve	primitive	0	0	1	0
 typische	typical	0	0	1	0
 export	export	0	0	1	1
-lucht	air (6th and 7th sentence)	0	0	1	0
-lucht	ether (1st sentence)	0	0	1	0
-lucht	air	0	0	1	1
+estse	estonian	0	0	1	0
+estse	estic	0	0	1	0
 gelderland	gelderland	0	0	1	0
 empire	empire	0	0	1	0
 meest	most	0	0	1	1
@@ -16703,7 +16289,6 @@ keizers	emperors	0	0	1	0
 jeremy	jeremy	0	0	1	0
 bedekken	cover	0	0	1	1
 bedekken	to cover	0	0	1	0
-björn	bjorn	0	0	1	0
 björn	björn	0	0	1	0
 overheersing	predominance	0	0	1	1
 overheersing	domination	0	0	1	1
@@ -16730,7 +16315,8 @@ mits	provided that	0	0	1	1
 wesley	wesley	0	0	1	0
 opgeven	give up	0	0	1	0
 opgeven	specify	0	0	1	0
-januari	january	0	0	1	1
+blokkade	blockade	0	0	1	1
+blokkade	blocade	0	0	1	0
 aangevallen	attacked	0	0	1	0
 paste	paste	0	0	1	0
 paste	fit	0	0	1	0
@@ -16739,7 +16325,6 @@ vlugt	flight	0	0	1	0
 vlugt	vlugt	0	0	1	0
 voormalig	former	0	0	1	1
 bekijken	examine	0	0	1	0
-bekijken	look at	0	0	1	1
 bekijken	to look at	0	0	1	0
 rare	weird	0	0	1	0
 rare	strange	0	0	1	0
@@ -16751,7 +16336,6 @@ onmiddellijk	immediately	0	0	1	1
 onmiddellijk	immediate	0	0	1	1
 grafiek	grafic	0	0	1	0
 grafiek	chart	0	0	1	0
-grafiek	graphics	0	0	1	1
 vervult	fulfills	0	0	1	0
 vervult	fills	0	0	1	0
 elektronische	electronical	0	0	1	0
@@ -16770,10 +16354,8 @@ ondervindt	experience	0	0	1	0
 lonen	pay	0	0	1	1
 lonen	wages	0	0	1	0
 lonen	rewards	0	0	1	0
-plaatsje	place	0	0	1	0
-plaatsje	small town	0	0	1	0
-plaatsje	village	0	0	1	0
-zorreguieta	zorreguieta	0	0	1	0
+scherm	screen	0	0	1	1
+scherm	a condition of being protected	0	0	1	0
 vak	section	0	0	1	1
 vak	compartment	0	0	1	1
 mondelinge	oral	0	0	1	0
@@ -16799,7 +16381,8 @@ balkenende	balkenende	0	0	1	0
 nederland	the netherlands	0	0	1	0
 aanslagen	attacks	0	0	1	0
 aanslagen	assault	0	0	1	0
-laos	laos	0	0	1	0
+opzet	scheme	0	0	1	0
+opzet	plan	0	0	1	0
 volume	volume	0	0	1	1
 ontwikkelde	developed	0	0	1	0
 nassau	nassau	0	0	1	0
@@ -16826,7 +16409,6 @@ jenny	jenny	0	0	1	0
 formaat	size	0	0	1	1
 formaat	format	0	0	1	1
 eu	eu	0	0	1	0
-heette	named	0	0	1	0
 heette	called	0	0	1	0
 verhouding	ratio	0	0	1	1
 verhouding	in relation to	0	0	1	0
@@ -16840,7 +16422,6 @@ boot	boat	0	0	1	1
 reageerde	reacted	0	0	1	0
 reageerde	responded	0	0	1	0
 kans	chance	0	0	1	1
-fire	fire	0	0	1	0
 book	book	0	0	1	0
 gekend	known	0	0	1	0
 boom	tree	0	0	1	1
@@ -16848,7 +16429,6 @@ boom	boom	0	0	1	1
 gedaald	decreased	0	0	1	0
 gedaald	lowered	0	0	1	0
 aangetast	affected	0	0	1	0
-aangetast	corroded	0	0	1	0
 beperkte	limited	0	0	1	0
 voorafgaande	prior	0	0	1	0
 voorafgaande	previous	0	0	1	0
@@ -16876,7 +16456,6 @@ afkomstig	coming	0	0	1	1
 aldaar	there	0	0	1	1
 grootvader	grandfather	0	0	1	1
 rellen	riots	0	0	1	0
-rellen	strikes	0	0	1	0
 uitgerust	appoint	0	0	1	0
 uitgerust	rest oneself	0	0	1	0
 uitgerust	rig	0	0	1	0
@@ -16902,7 +16481,7 @@ verbeelding	imagination	0	0	1	1
 verbeelding	image	0	0	1	0
 echte	real	0	0	1	0
 fransen	french	0	0	1	0
-resulteerde	resulted	0	0	1	0
+volkomen	completely	0	0	1	1
 verdoving	anesthetic	0	0	1	0
 verdoving	anesthesia	0	0	1	1
 verdoving	anaesthesia	0	0	1	1
@@ -16913,12 +16492,13 @@ voeding	food - 1st sentence	0	0	1	0
 reclame	advert	0	0	1	0
 reclame	commercials	0	0	1	0
 reclame	advertisement	0	0	1	1
-biografie	biography	0	0	1	1
+space	space	0	0	1	0
 verenigen	to unite	0	0	1	0
 verenigen	unite	0	0	1	1
 verdwijnen	disappear	0	0	1	1
-heide	heathland	0	0	1	0
-heide	heath	0	0	1	1
-volkomen	completely	0	0	1	1
+toevallig	by accident	0	0	1	1
+toevallig	accidental	0	0	1	1
+toevallig	coincidence	0	0	1	0
+resulteerde	resulted	0	0	1	0
 thumb|de	thumb/the	0	0	1	0
 identiek	identical	0	0	1	1

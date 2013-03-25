@@ -28,12 +28,10 @@
 நேரமில்லை	time out	0	0	1	0
 செனட்	senate	0	0	1	0
 செனட்	sent	0	0	1	0
-சூழ்நிலைகளில்	surroundings	0	0	1	0
-சூழ்நிலைகளில்	atmosphere	0	0	1	0
 சூழ்நிலைகளில்	position	0	0	1	0
+சூழ்நிலைகளில்	surroundings	0	0	1	0
 நாடக	drama	0	0	1	0
 நாடக	in drama	0	0	1	0
-மிஷன்	assignment	0	0	1	0
 மிஷன்	mission	0	0	1	0
 பெண்ணும்	girl	0	0	1	0
 பெண்ணும்	women	0	0	1	0
@@ -96,7 +94,6 @@
 எந்தவித	no	0	0	1	0
 அம்மானை	ammanai	0	0	1	0
 அம்மானை	a tamil poetry	0	0	1	0
-அம்மானை	songs	0	0	1	0
 ரசிகர்கள்	fans	0	0	1	1
 மின்காந்தவியல்	electrologycal	1	0	1	0
 மின்காந்தவியல்	electro magnetism	1	1	0	0
@@ -115,9 +112,6 @@
 மின்காந்தவியல்	magnitiusm	1	0	1	0
 மின்காந்தவியல்	electromagnetism	1	1	0	0
 பிரிட்டோரியா	pretoria	0	0	1	0
-துறந்து	sacrificing everything	0	0	1	0
-துறந்து	sacrificed	0	0	1	0
-துறந்து	to be left	0	0	1	0
 தலைநகர்	capital	0	0	1	0
 ஆதரவாக	supportive	0	0	1	1
 ஆதரவாக	by the proof of	0	0	1	0
@@ -151,7 +145,6 @@
 கட்சிகள்	parties	0	0	1	0
 அரசாங்கங்கள்	governments (rival governments)	0	0	1	0
 அரசாங்கங்கள்	governments	0	0	1	0
-அரசாங்கங்கள்	government	0	0	1	0
 இதயத்திற்கு	heart	0	0	1	0
 இதயத்திற்கு	to heart	0	0	1	0
 இதயத்திற்கு	for the heart	0	0	1	0
@@ -209,7 +202,6 @@
 ஒன்பது	nine	0	0	1	1
 தொல்பொருளியல்	olden scriptures	0	0	1	0
 தொல்பொருளியல்	archeological	0	0	1	0
-தொல்பொருளியல்	archaeology	0	0	1	0
 குநோம்	continuity	1	0	1	0
 குநோம்	knome	1	0	1	0
 குநோம்	chain of events	1	0	1	0
@@ -223,7 +215,6 @@
 புயல்	storm	0	0	1	1
 குறி	sign	0	0	1	1
 குறி	mark	0	0	1	1
-அரசுக்கும்	for government also	0	0	1	0
 அரசுக்கும்	govenment to	0	0	1	0
 அரசுக்கும்	government	0	0	1	0
 கவனத்தை	attention	0	0	1	0
@@ -234,16 +225,14 @@
 மோட்டார்	motors	0	0	1	0
 மோட்டார்	motor	0	0	1	0
 தமிழகம்	tamilnadu	0	0	1	0
-தமிழகம்	tamil nadu	0	0	1	0
 மூல	main	0	0	1	0
 மூல	base	0	0	1	0
 இளைஞர்	youth	0	0	1	0
 சுரப்பி	thyroid	0	0	1	0
-சுரப்பி	etc;	0	0	1	0
-சுரப்பி	thymus	0	0	1	0
-சுரப்பி	hormon	0	0	1	0
 சுரப்பி	gland	0	0	1	0
 சுரப்பி	adrenal	0	0	1	0
+சுரப்பி	thymus	0	0	1	0
+சுரப்பி	etc;	0	0	1	0
 நெறிமுறை	protocol	0	0	1	0
 மஞ்சள்	termary	0	0	1	0
 மஞ்சள்	yellow	0	0	1	1
@@ -265,7 +254,6 @@
 உன்	yours	0	0	1	0
 ஆஸ்திரியா	austria	0	0	1	0
 ஆண்	male	0	0	1	1
-ஆண்	man	0	0	1	1
 பேஸ்	face	0	0	1	0
 நிகழ்வுகள்	happening	0	0	1	0
 நிகழ்வுகள்	happenings	0	0	1	0
@@ -282,14 +270,12 @@
 தொடங்கினர்	starting	0	0	1	0
 வெப்பமடைதல்	rise in temperature	0	0	1	0
 வெப்பமடைதல்	heating	0	0	1	0
-வெப்பமடைதல்	heated	0	0	1	0
 தினமும்	daily	0	0	1	1
 இம்மன்னன்	this king	0	0	1	0
 தங்களுக்குள்	within them	0	0	1	0
 தங்களுக்குள்	in between them	0	0	1	0
 இறைச்சி	meat	0	0	1	0
 பகுப்புதமிழர்	culture of tamilan	0	0	1	0
-பகுப்புதமிழர்	pakupputhamilar	0	0	1	0
 மேற்கத்திய	westerly	0	0	1	0
 மேற்கத்திய	thirupananthal all protect the tamil grammer books western culture and english language will dominate the tamil language crime naval will be famous in western country	0	0	1	0
 மேற்கத்திய	dosai	0	0	1	0
@@ -332,7 +318,6 @@
 தட்டிகள்	board	0	0	1	0
 பெறுவது	to get	0	0	1	0
 பெறுவது	until	0	0	1	0
-பெறுவது	get	0	0	1	0
 அங்கே	there	0	0	1	1
 பின்பற்றும்	follow	0	0	1	0
 பின்பற்றும்	at the backside	0	0	1	0
@@ -353,7 +338,8 @@
 மிகவும்	very	0	0	1	1
 மிகவும்	very much	0	0	1	0
 மிகவும்	much more	0	0	1	0
-தொடர்வண்டிப்	train	0	0	1	0
+வெளியின்	space	0	0	1	0
+வெளியின்	space's	0	0	1	0
 சுற்றியுள்ள	surrounding	0	0	1	0
 நம்மை	us	0	0	1	0
 ஆங்கிலத்தை	english	0	0	1	0
@@ -388,7 +374,6 @@
 பாதுகாப்புப்	safe	0	0	1	0
 பாதுகாப்புப்	safety	0	0	1	0
 அமராவதி	amaravathy a name in tamil	0	0	1	0
-அமராவதி	amaravathi	0	0	1	0
 அமராவதி	amaravathy	0	0	1	0
 மன்னனாக	by the king	0	0	1	0
 மன்னனாக	as king	0	0	1	0
@@ -452,7 +437,6 @@
 இருந்திருக்கிறது	already	0	0	1	0
 இருந்திருக்கிறது	had been there	0	0	1	0
 செயற்கைத்	artificial	0	0	1	0
-செயற்கைத்	nature	0	0	1	0
 இந்தியாவும்	india also	0	0	1	0
 இந்தியாவும்	india	0	0	1	0
 ஆ	aa	0	0	1	0
@@ -468,8 +452,8 @@
 இவர்களுடைய	belonging to their	0	0	1	0
 இவர்களுடைய	their	0	0	1	0
 இவர்களுடைய	their's	0	0	1	0
-பரிசோதனை	testing	0	0	1	0
 பரிசோதனை	experiment	0	0	1	0
+பரிசோதனை	testing	0	0	1	0
 எடை	weight	0	0	1	1
 எடுத்தல்	taking	0	0	1	0
 எடுத்தல்	take	0	0	1	0
@@ -481,7 +465,6 @@
 ஆய்வாளர்	scientist	0	0	1	0
 ஆய்வாளர்	analyst	0	0	1	0
 எடு	example	0	0	1	0
-எடு	take	0	0	1	1
 விட்டார்	left the contest	0	0	1	0
 விட்டார்	has	0	0	1	0
 விட்டார்	leaved	0	0	1	0
@@ -526,9 +509,8 @@
 பின்னணியில்	in background	0	0	1	0
 பின்னணியில்	having that effect	0	0	1	0
 பின்னணியில்	in light	0	0	1	0
-நிலையத்தில்	stations	0	0	1	0
 நிலையத்தில்	center	0	0	1	0
-நிலையத்தில்	at station	0	0	1	0
+நிலையத்தில்	stations	0	0	1	0
 முகம்	stick	1	0	1	0
 முகம்	face	1	1	1	1
 கனடாவில்	kannada	0	0	1	0
@@ -604,7 +586,6 @@
 வளமான	highly resourceful	0	0	1	0
 இடத்தைப்	position	0	0	1	0
 இடத்தைப்	place	0	0	1	0
-சோதனை	test	0	0	1	0
 சோதனை	experiment	0	0	1	0
 வழங்க	provide	0	0	1	0
 வழங்க	share	0	0	1	0
@@ -684,7 +665,6 @@
 திட்டமிட்டு	planning	0	0	1	0
 திட்டமிட்டு	planned	0	0	1	0
 ரகசியம்	secret	0	0	1	1
-ரகசியம்	seacret	0	0	1	0
 படிவளர்ச்சி	evolutionary	0	0	1	0
 படிவளர்ச்சி	day by day growing	0	0	1	0
 படிவளர்ச்சி	step by step progress	0	0	1	0
@@ -748,7 +728,6 @@
 போலக்	than	0	0	1	0
 தேர்ந்தெடுக்கப்படுகிறார்கள்	elected	0	0	1	0
 ஓபன்	open	0	0	1	0
-அலை	waves	0	0	1	0
 அலை	wave	0	0	1	1
 ஆண்களுக்கு	for male	0	0	1	0
 ஆண்களுக்கு	for mens	0	0	1	0
@@ -762,7 +741,6 @@
 நிரலில்	in program	0	0	1	0
 நிரலில்	a sect	0	0	1	0
 மாநிலங்களும்	states	0	0	1	0
-வழக்கமும்	culture	0	0	1	0
 வழக்கமும்	cultured	0	0	1	0
 வழக்கமும்	regural	0	0	1	0
 உருவம்	image	0	0	1	0
@@ -774,7 +752,6 @@
 குறிப்பிடுகிறார்	notes	0	0	1	0
 குறிப்பிடுகிறார்	particulated	0	0	1	0
 முடிவை	decision	0	0	1	0
-முடிவை	result	0	0	1	0
 முடிவை	towards decision	0	0	1	0
 முலைடீ	annoucement	1	0	1	0
 முலைடீ	mullidae	1	0	1	0
@@ -794,7 +771,6 @@
 அரசியலில்	in politics	0	0	1	0
 அரசியலில்	politics	0	0	1	0
 முடிவு	end	0	0	1	1
-முடிவு	by	0	0	1	0
 முடிவு	conclusion	0	0	1	1
 பொறியியல்	engineering	0	0	1	0
 திருச்சி	thiruchi	0	0	1	0
@@ -818,7 +794,6 @@
 கோழி	cackle	0	0	1	0
 கோழி	chicken	0	0	1	1
 நினைவு	memorial	0	0	1	0
-நினைவு	think	0	0	1	0
 நினைவு	memory	0	0	1	0
 எந்தக்	which	0	0	1	0
 எந்தக்	of any	0	0	1	0
@@ -857,11 +832,10 @@
 ஏற்பட்ட	an	0	0	1	0
 ஏற்பட்ட	created	0	0	1	0
 வருடங்களாக	yearly	0	0	1	0
-வருடங்களாக	for years	0	0	1	0
 வருடங்களாக	on varutankal	0	0	1	0
-சேமிக்கப்படும்	storage	0	0	1	0
-சேமிக்கப்படும்	stored	0	0	1	0
 சேமிக்கப்படும்	to be saved	0	0	1	0
+சேமிக்கப்படும்	stored	0	0	1	0
+சேமிக்கப்படும்	storage	0	0	1	0
 புத்தாண்டு	new year	0	0	1	0
 அயல்	other	0	0	1	0
 அயல்	foreign	0	0	1	0
@@ -880,7 +854,6 @@
 உதிரப்போக்கு	menstruation	0	0	1	0
 உதிரப்போக்கு	bleeding of blood	0	0	1	0
 கேரளா	kerala	0	0	1	1
-ஊ	oo	0	0	1	0
 ஊ	00	0	0	1	0
 ஜேக்	jake	0	0	1	0
 ஜேக்	jack	0	0	1	0
@@ -921,13 +894,11 @@
 மக்களுக்கு	for the people	0	0	1	0
 மக்களுக்கு	people	0	0	1	0
 மதமும்	religion	0	0	1	0
-மதமும்	also religion	0	0	1	0
 இலைகள்	leaves	0	0	1	0
 கல்லூரி	college	0	0	1	1
 காலத்தைக்	period	0	0	1	0
 காலத்தைக்	time	0	0	1	0
 ஒழுங்கற்ற	in desent	0	0	1	0
-ஒழுங்கற்ற	not in order	0	0	1	0
 ஒழுங்கற்ற	not orderly	0	0	1	0
 நேர	timely	0	0	1	0
 நேர	time	0	0	1	0
@@ -971,7 +942,6 @@
 இயங்குதளத்தில்	compiler	0	0	1	0
 இயங்குதளத்தில்	internet	0	0	1	0
 கலைக்	arts	0	0	1	0
-கலைக்	art	0	0	1	0
 சாமுவேல்	samuel	0	0	1	0
 வியர்வை	sweating	1	1	0	0
 வியர்வை	late	1	0	1	0
@@ -990,7 +960,6 @@
 அடங்கியுள்ளன	contain	0	0	1	0
 இவ்வாறான	likethis	0	0	1	0
 இவ்வாறான	like this	0	0	1	0
-விரும்பவில்லை	not liking	0	0	1	0
 விரும்பவில்லை	not desired	0	0	1	0
 விரும்பவில்லை	do not like	0	0	1	0
 இல்லாவிட்டாலும்	if not also	0	0	1	0
@@ -1019,7 +988,6 @@
 இங்கிலாந்தில்	in england	0	0	1	0
 இங்கிலாந்தில்	englandil	0	0	1	0
 மத்தேயு	mathew	0	0	1	0
-சிக்கல்கள்	problems	0	0	1	0
 சிக்கல்கள்	issues	0	0	1	0
 வருடங்கள்	many years	0	0	1	0
 வருடங்கள்	years	0	0	1	0
@@ -1117,7 +1085,6 @@
 கொலை	kill	0	0	1	0
 நெறிகள்	norms	0	0	1	0
 நெறிகள்	ethics	0	0	1	0
-நெறிகள்	guidelines	0	0	1	0
 ஏனென்றால்	because	0	0	1	1
 நடந்து	walk	0	0	1	0
 நடந்து	to walk	0	0	1	0
@@ -1145,7 +1112,6 @@
 சிந்து	sinthu	0	0	1	0
 மின்னஞ்சல்கள்	electronic mail	0	0	1	0
 மின்னஞ்சல்கள்	emails	0	0	1	0
-பெர்ன்	bern city	0	0	1	0
 அதிகரிப்பு	increasing	0	0	1	0
 அதிகரிப்பு	increased	0	0	1	0
 அதிகரிப்பு	gallop	0	0	1	0
@@ -1157,13 +1123,11 @@
 நிறமாலையியல்	spectroscopy	1	1	0	0
 நிறமாலையியல்	spectrometry	1	1	0	0
 நிறமாலையியல்	unit	1	0	1	0
-பிறப்பு	born	0	0	1	0
 பிறப்பு	birth	0	0	1	1
 காவிரி	cauvery	0	0	1	0
 காவிரி	back	0	0	1	0
 காவிரி	river cauvery	0	0	1	0
 ஆட்சிக்	ruling	0	0	1	0
-ஆட்சிக்	rule	0	0	1	0
 ஆட்சிக்	government	0	0	1	0
 தொகுதி	part	0	0	1	0
 தொகுதி	thoguti	0	0	1	0
@@ -1215,9 +1179,8 @@
 யூனிட்	unit	0	0	1	0
 இலங்கையை	a country	0	0	1	0
 இலங்கையை	sri lankan	0	0	1	0
-நடத்தப்பட்டது	was conducted	0	0	1	0
-நடத்தப்பட்டது	conducted	0	0	1	0
-திருக்கோணமலையில்	in casualty	0	0	1	0
+பரப்பு	surfase	0	0	1	0
+பரப்பு	area	0	0	1	1
 திருக்கோணமலையில்	thirukkonamalai	0	0	1	0
 திருக்கோணமலையில்	trikonamalai	0	0	1	0
 சான்	john	0	0	1	0
@@ -1228,7 +1191,6 @@
 திரவம்	liquid	0	0	1	1
 பரப்பை	area wise	0	0	1	0
 பரப்பை	surface	0	0	1	0
-பரப்பை	area	0	0	1	0
 ஆத்மா	soul	0	0	1	1
 சிக்குறும்	small efects	0	0	1	0
 சிக்குறும்	gets trapped	0	0	1	0
@@ -1550,15 +1512,12 @@
 வின்	the	0	0	1	0
 குறைவாக	lesser	0	0	1	0
 குறைவாக	lower	0	0	1	0
-குறைவாக	less than	0	0	1	0
 வினை	reaction	0	0	1	0
 வினை	actions	0	0	1	0
 புலியின்	tiger	0	0	1	0
 புலியின்	earth	0	0	1	0
-புலியின்	tiger's	0	0	1	0
 சிறிதும்	small	0	0	1	0
 சிறிதும்	some	0	0	1	0
-சிறிதும்	little bit	0	0	1	0
 மேயர்	meyar	0	0	1	0
 மேயர்	mayor	0	0	1	0
 பார்க்கவும்	see	0	0	1	0
@@ -1641,16 +1600,14 @@
 துறையினர்	department officers	0	0	1	0
 துறையினர்	departmental	0	0	1	0
 விமர்சனங்கள்	criticism	0	0	1	0
-விமர்சனங்கள்	reviews	0	0	1	0
 விமர்சனங்கள்	critic	0	0	1	0
 அளவீடு	measurement	0	0	1	0
 சுப்ரீம்	supreme	0	0	1	0
 எதிரிகள்	enimies	0	0	1	0
 எதிரிகள்	enemies	0	0	1	0
-வெளிநாட்டுக்	forerun	0	0	1	0
 வெளிநாட்டுக்	foreign	0	0	1	0
-டென்மார்க்	denmark	0	0	1	0
 டென்மார்க்	tenmark	0	0	1	0
+டென்மார்க்	denmark	0	0	1	0
 சமயங்களில்	occassions	0	0	1	0
 சமயங்களில்	suitutation	0	0	1	0
 சமயங்களில்	times	0	0	1	0
@@ -1780,15 +1737,15 @@
 நிறம்	color	1	1	1	1
 இணைந்த	joint	0	0	1	0
 இணைந்த	joined	0	0	1	0
-சிலரும்	some people	0	0	1	0
-சிலரும்	some peoples	0	0	1	0
-படுத்தப்பட்டது	was	0	0	1	0
+படிப்படியாக	step by step	0	0	1	0
+படிப்படியாக	step by  step	0	0	1	0
+படிப்படியாக	step-by-step	0	0	1	0
 படுத்தப்பட்டது	polished	0	0	1	0
+படுத்தப்பட்டது	was	0	0	1	0
 படுத்தப்பட்டது	processed	0	0	1	0
 போருக்கு	wage a war	0	0	1	0
 போருக்கு	war	0	0	1	0
 இந்நோய்	this disease	0	0	1	0
-இந்நோய்	disease	0	0	1	0
 இந்நோய்	this desease	0	0	1	0
 கல்வியிலும்	in the education also	0	0	1	0
 கல்வியிலும்	in education	0	0	1	0
@@ -1803,13 +1760,13 @@
 ஆல்பர்ட்	albert	0	0	1	0
 பொருட்டு	regarding	0	0	1	0
 பொருட்டு	to awoid	0	0	1	0
-பொருட்டு	in order to	0	0	1	1
+பொருட்டு	in order to	0	0	1	0
 குடியேற	immigrate	0	0	1	0
 குடியேற	immigration	0	0	1	0
 குடியேற	here	0	0	1	0
-காலத்தையும்	time	0	0	1	0
-காலத்தையும்	period	0	0	1	0
 காலத்தையும்	days	0	0	1	0
+காலத்தையும்	period	0	0	1	0
+காலத்தையும்	time	0	0	1	0
 டேவிஸ்	davis	0	0	1	0
 காணாமல்	lost	0	0	1	0
 காணாமல்	missing	0	0	1	0
@@ -1835,7 +1792,6 @@
 வளர்ச்சியடைந்து	grown	0	0	1	0
 வளர்ச்சியடைந்து	matured	0	0	1	0
 வளர்ச்சியடைந்து	growth	0	0	1	0
-சர்க்கரை	plasma glucose	0	0	1	0
 சர்க்கரை	sugar	0	0	1	1
 நாணயத்தின்	currency	0	0	1	0
 நாணயத்தின்	coin	0	0	1	0
@@ -1940,9 +1896,9 @@
 வங்கியின்	bank	0	0	1	0
 குறிக்க	mention	0	0	1	0
 குறிக்க	mark	0	0	1	0
-அடிப்படைக்	patai feet	0	0	1	0
-அடிப்படைக்	fundamentally	0	0	1	0
 அடிப்படைக்	basic	0	0	1	0
+அடிப்படைக்	fundamentally	0	0	1	0
+அடிப்படைக்	patai feet	0	0	1	0
 புறநானூறு	purnanooru(ancient tamil book)	0	0	1	0
 புறநானூறு	tamil poem	0	0	1	0
 புறநானூறு	purananuru	0	0	1	0
@@ -2014,7 +1970,6 @@
 சுற்றுக்காலம்	synodic period	0	0	1	0
 சுற்றுக்காலம்	period	0	0	1	0
 கண்மணி	pupil	0	0	1	0
-கண்மணி	eye ball	0	0	1	0
 தருகின்ற	provide	0	0	1	0
 தருகின்ற	furnishes/gives	0	0	1	0
 தருகின்ற	showing / giving	0	0	1	0
@@ -2024,7 +1979,6 @@
 நதிகள்	rivers	0	0	1	0
 இத்தாலிய	italic	0	0	1	0
 இத்தாலிய	italian	0	0	1	0
-மொழிகளுள்	within languages	0	0	1	0
 மொழிகளுள்	languages	0	0	1	0
 மொழிகளுள்	among the languages	0	0	1	0
 முகமாக	the face	0	0	1	0
@@ -2049,18 +2003,17 @@
 சிலரால்	some people	0	0	1	0
 உயர்நிலை	high status	0	0	1	0
 உயர்நிலை	upper grade	0	0	1	0
-உயர்நிலை	higher	0	0	1	0
 பொருந்தும்	fix	0	0	1	0
 பொருந்தும்	matching	0	0	1	0
 பொருந்தும்	for	0	0	1	0
 இந்தச்	this	0	0	1	0
+குரங்கு	monkey	0	0	1	1
 இச்சொல்	word	0	0	1	0
 இச்சொல்	this word	0	0	1	0
 கேள்வி	question	0	0	1	1
 கேள்வி	questions	0	0	1	0
 தூரத்தில்	distance	0	0	1	0
 தூரத்தில்	in distance	0	0	1	0
-தூரத்தில்	long	0	0	1	0
 கொடுக்கப்படும்	given	0	0	1	0
 கொடுக்கப்படும்	to be given	0	0	1	0
 கொடுக்கப்படும்	will be given	0	0	1	0
@@ -2097,8 +2050,7 @@
 மகன்கள்	sons	0	0	1	0
 வீதி	street	0	0	1	1
 தேர்தல்	election	0	0	1	1
-கிடையாது	no problems	0	0	1	0
-கிடையாது	no	0	0	1	0
+நீதிபதிகள்	judges	0	0	1	0
 தேர்தலை	election	0	0	1	0
 பனிப்போர்	cold war	0	0	1	0
 வணிகர்	businessman	0	0	1	0
@@ -2146,7 +2098,6 @@
 பிரதேசம்	pradesh	0	0	1	0
 பிரதேசம்	pradesh or regional	0	0	1	0
 பிரதேசம்	area	0	0	1	0
-மூலமாகவே	through	0	0	1	0
 மூலமாகவே	by	0	0	1	0
 மூலமாகவே	by that	0	0	1	0
 விவிலியத்தில்	cont tell	0	0	1	0
@@ -2209,7 +2160,6 @@
 தமிழ்ச்	of tamil	0	0	1	0
 தமிழ்ச்	tamil	0	0	1	0
 கட்டாயம்	important	0	0	1	0
-கட்டாயம்	cumpulsory	0	0	1	0
 கட்டாயம்	compulsory	0	0	1	1
 புருஷன்	husband	0	0	1	0
 சதவீதம்	percentage	0	0	1	0
@@ -2234,9 +2184,9 @@
 அவர்களிடம்	their	0	0	1	0
 அவர்களிடம்	they	0	0	1	0
 அவர்களிடம்	from the people	0	0	1	0
-மின்னணுவியல்	electromagnetic	0	0	1	0
-மின்னணுவியல்	electronics	0	0	1	0
-மின்னணுவியல்	electrostatics	0	0	1	0
+சிலி	chile - a south american country	0	0	1	0
+சிலி	sily	0	0	1	0
+சிலி	chile	0	0	1	0
 எண்ணிக்கையை	count	0	0	1	0
 எண்ணிக்கையை	counts	0	0	1	0
 எண்ணிக்கையை	countings	0	0	1	0
@@ -2277,7 +2227,6 @@
 மனத்தின்	hearts	0	0	1	0
 மனத்தின்	mind	0	0	1	0
 வேட்பாளர்கள்	candidates	0	0	1	0
-வேட்பாளர்கள்	candidate	0	0	1	0
 நடைபெறுகிறது	doing	0	0	1	0
 நடைபெறுகிறது	going on	0	0	1	0
 நடைபெறுகிறது	happening	0	0	1	0
@@ -2290,8 +2239,8 @@
 விளையாட்டுகள்	plays	0	0	1	0
 விளையாட்டுகள்	games	0	0	1	0
 விளையாட்டுகள்	sports	0	0	1	0
-நடத்த	treated	0	0	1	0
 நடத்த	run	0	0	1	0
+நடத்த	treated	0	0	1	0
 நடத்த	to conduct	0	0	1	0
 வெளியேற	exite	0	0	1	0
 வெளியேற	quit	0	0	1	0
@@ -2319,14 +2268,13 @@
 பேசுவோர்	talk	0	0	1	0
 மண்ணியல்	pedology	0	0	1	0
 மண்ணியல்	geology	0	0	1	0
-பெருகி	growing	0	0	1	0
-பெருகி	to improve	0	0	1	0
+தொழிற்சாலைகள்	industries	0	0	1	0
+தொழிற்சாலைகள்	companies	0	0	1	0
 பிராமண	brahmin	0	0	1	0
 பிராமண	pramins	0	0	1	0
 அழைக்கப்பட்ட	invited	0	0	1	0
 அழைக்கப்பட்ட	called	0	0	1	0
 பிரித்தானியப்	britain's	0	0	1	0
-பிரித்தானியப்	name of the city	0	0	1	0
 பிரித்தானியப்	british	0	0	1	0
 மின்னியல்	electricity	0	0	1	0
 மின்னியல்	electronics	0	0	1	0
@@ -2342,7 +2290,6 @@
 விரைவு	speed	0	0	1	0
 விரைவு	fast	0	0	1	0
 தொகுதியில்	ward	0	0	1	0
-தொகுதியில்	in volume	0	0	1	0
 நேரங்களில்	some times	0	0	1	0
 நேரங்களில்	time	0	0	1	0
 நேரங்களில்	times	0	0	1	0
@@ -2448,7 +2395,6 @@
 அதேபோல	similarly	0	0	1	0
 மதிப்பீடு	rating	0	0	1	0
 மதிப்பீடு	estimation	0	0	1	0
-தங்கிய	staying	0	0	1	0
 தங்கிய	stayed	0	0	1	0
 மீனாட்சியம்மன்	meenakshi amman	0	0	1	0
 மீனாட்சியம்மன்	meenakshi amman a hindu goddess	0	0	1	0
@@ -2489,7 +2435,6 @@
 பேரினம்	big type	0	0	1	0
 நெட்	net	0	0	1	0
 செய்திகளைத்	news	0	0	1	0
-செய்திகளைத்	news'	0	0	1	0
 கிரனாதா	luck	1	0	1	0
 கிரனாதா	fruit	1	0	1	0
 கிரனாதா	destiny	1	0	1	0
@@ -2684,12 +2629,9 @@
 அறிவித்தார்	he announced	0	0	1	0
 அறிவித்தார்	informed	0	0	1	0
 அறிவித்தார்	announced	0	0	1	0
-தீவின்	islands	0	0	1	0
-தீவின்	island's	0	0	1	0
-தீவின்	island	0	0	1	0
-உரையாடல்	talking	0	0	1	0
-உரையாடல்	speech	0	0	1	0
+லீக்	league	0	0	1	0
 உரையாடல்	conversation	0	0	1	0
+உரையாடல்	speech	0	0	1	0
 மகனை	son	0	0	1	0
 மகனை	son's	0	0	1	0
 மகன்	son	0	0	1	1
@@ -2762,13 +2704,12 @@
 சோழரின்	chola's	0	0	1	0
 சோழரின்	the chola	0	0	1	0
 சோழரின்	solar	0	0	1	0
-இயற்கையான	natural	0	0	1	0
-இயற்கையான	nature	0	0	1	0
+வணிக	commercial	0	0	1	0
+வணிக	business	0	0	1	0
 மீதும்	on	0	0	1	0
 மீதும்	upon	0	0	1	0
 அறிவிக்கப்பட்ட	anounced	0	0	1	0
 அறிவிக்கப்பட்ட	announced	0	0	1	0
-அறிவிக்கப்பட்ட	publish	0	0	1	0
 அதிகாரியான	administrator	0	0	1	0
 அதிகாரியான	officer of the	0	0	1	0
 சேகரிக்கும்	collect	0	0	1	0
@@ -2805,14 +2746,12 @@
 புராணக்	mythical	0	0	1	0
 புராணக்	myth	0	0	1	0
 புராணக்	scriptures	0	0	1	0
-இவற்றைக்	this one	0	0	1	0
 இவற்றைக்	these	0	0	1	0
+இவற்றைக்	this one	0	0	1	0
 இவற்றைக்	these are	0	0	1	0
-நெல்	rice seed	0	0	1	0
 நெல்	rice	0	0	1	0
 நெல்	paddy	0	0	1	0
-சுழல்வடிவ	round shape	0	0	1	0
-சுழல்வடிவ	rounded	0	0	1	0
+நெல்	rice seed	0	0	1	0
 சுழல்வடிவ	rotate shape	0	0	1	0
 இறப்பு	death	0	0	1	1
 பயிர்கள்	crops	0	0	1	0
@@ -3035,7 +2974,6 @@
 பாரிஸின்	paris	0	0	1	0
 தமிழரின்	`tamilians	0	0	1	0
 தமிழரின்	tamilians'	0	0	1	0
-தமிழரின்	tamilians	0	0	1	0
 குறிப்பிடுவது	to remark	0	0	1	0
 குறிப்பிடுவது	notes	0	0	1	0
 குறிப்பிடுவது	indicating	0	0	1	0
@@ -3049,7 +2987,6 @@
 படைப்பு	creative	0	0	1	0
 அவ்வாறே	like that	0	0	1	0
 அவ்வாறே	in that way	0	0	1	0
-இராமாயணம்	ramayanam	0	0	1	0
 இராமாயணம்	ramanayam	0	0	1	0
 இராமாயணம்	ramayan a great indian epic	0	0	1	0
 பிறந்தவர்	was born	0	0	1	0
@@ -3088,8 +3025,9 @@
 தட்டாரப்பூச்சி	dragon fly	1	1	0	0
 தட்டாரப்பூச்சி	name of an insect (epipurocta)	1	1	0	0
 தட்டாரப்பூச்சி	goldsmith beetle	1	0	1	0
-வடிவமும்	shape	0	0	1	0
-வடிவமும்	form	0	0	1	0
+வேகமான	fastly	0	0	1	0
+வேகமான	speedy	0	0	1	0
+வேகமான	speed	0	0	1	0
 அழுத்த	pressure	0	0	1	0
 பழக்க	practice	0	0	1	0
 பழக்க	habits	0	0	1	0
@@ -3131,7 +3069,6 @@
 பங்களிப்பை	representation	0	0	1	0
 பங்களிப்பை	sharing	0	0	1	0
 பங்களிப்பை	present	0	0	1	0
-மண்டலத்தை	region	0	0	1	0
 மண்டலத்தை	regional	0	0	1	0
 மண்டலத்தை	of system	0	0	1	0
 பாலைவனம்	desert	0	0	1	1
@@ -3276,7 +3213,6 @@
 க்கான	for that	0	0	1	0
 க்கான	for	0	0	1	0
 தூண்டி	trigger	0	0	1	0
-தூண்டி	bait	0	0	1	0
 தூண்டி	instigate	0	0	1	0
 போலப்	model	0	0	1	0
 போலப்	than	0	0	1	0
@@ -3312,7 +3248,6 @@
 கட்டினார்	constructed by	0	0	1	0
 கட்டினார்	built	0	0	1	0
 மிகையான	more	0	0	1	0
-மிகையான	in excess	0	0	1	0
 மனிதர்	human being	0	0	1	0
 மனிதர்	a person	0	0	1	0
 மனிதர்	human	0	0	1	0
@@ -3322,7 +3257,6 @@
 எளிதாக	easily	0	0	1	0
 எளிதாக	easy	0	0	1	0
 கேலிக்	gaelic	0	0	1	0
-கேலிக்	ironical	0	0	1	0
 கேலிக்	language	0	0	1	0
 படுகின்றன	happening	0	0	1	0
 படுகின்றன	for	0	0	1	0
@@ -3539,7 +3473,6 @@
 மாநகரின்	metro	0	0	1	0
 வாய்ப்புக்கள்	chances	0	0	1	0
 வாய்ப்புக்கள்	oppourtunities	0	0	1	0
-பெரியகுளம்	city	0	0	1	0
 பெரியகுளம்	periyakulam	0	0	1	0
 பெரியகுளம்	place in madurai district	0	0	1	0
 பெரியகுளம்	periyakulama	0	0	1	0
@@ -3607,7 +3540,6 @@
 ரயில்	rail	0	0	1	0
 அமீரகம்	emirates	0	0	1	0
 அமீரகம்	agreement	0	0	1	0
-அமீரகம்	ameer house	0	0	1	0
 கண்டுள்ளது	found	0	0	1	0
 கண்டுள்ளது	search	0	0	1	0
 கண்டுள்ளது	has	0	0	1	0
@@ -3665,8 +3597,8 @@
 ஓமர்	mountain of omar	1	0	1	0
 உருவாக்கும்	creates	0	0	1	0
 உருவாக்கும்	to create	0	0	1	0
-மலைகள்	mountians	0	0	1	0
 மலைகள்	mountains	0	0	1	0
+மலைகள்	mountians	0	0	1	0
 நிகழ்வை	happenings	0	0	1	0
 நிகழ்வை	event	0	0	1	0
 எல்லோரும்	all	0	0	1	1
@@ -3681,7 +3613,6 @@
 பெங்களூரில்	it is a name of bangalore city	0	0	1	0
 தொடர்பும்	connection	0	0	1	0
 தொடர்பும்	continous	0	0	1	0
-படையின்	troop's	0	0	1	0
 படையின்	force	0	0	1	0
 படையின்	forces	0	0	1	0
 சாலை	road	0	0	1	1
@@ -3698,7 +3629,6 @@
 செய்யப்பட்டுள்ளது	done	0	0	1	0
 முரணாக	in contrast	0	0	1	0
 முரணாக	agaiinst	0	0	1	0
-முரணாக	opposite	0	0	1	0
 மாலையில்	evening	0	0	1	0
 மாலையில்	in evening	0	0	1	0
 தென்கிழக்கில்	southeast	0	0	1	0
@@ -3747,8 +3677,8 @@
 சந்தித்த	met	0	0	1	0
 பணவீக்கத்தின்	inflation	0	0	1	0
 பணவீக்கத்தின்	money scarcity	0	0	1	0
-நெஞ்சம்	conscience	0	0	1	0
 நெஞ்சம்	hearted	0	0	1	0
+நெஞ்சம்	conscience	0	0	1	0
 நெஞ்சம்	nengam	0	0	1	0
 இதழ்கள்	serials	0	0	1	0
 இதழ்கள்	journals	0	0	1	0
@@ -3759,11 +3689,9 @@
 அகிலத்தின்	of the world	0	0	1	0
 பெறமுடியும்	receive	0	0	1	0
 பெறமுடியும்	can get	0	0	1	0
-பெறமுடியும்	able to get	0	0	1	0
 சொல்வது	telling	0	0	1	0
 சொல்வது	said by	0	0	1	0
 சொல்வது	told	0	0	1	0
-பகுதிகள்	division	0	0	1	0
 பகுதிகள்	sections	0	0	1	0
 பகுதிகள்	places	0	0	1	0
 கேட்ட	ask	0	0	1	0
@@ -3812,7 +3740,6 @@
 என்போர்	like the people	0	0	1	0
 அரசியலும்	politics	0	0	1	0
 விண்வெளியில்	planet	0	0	1	0
-விண்வெளியில்	space	0	0	1	0
 விண்வெளியில்	in space	0	0	1	0
 துன்பியல்	sorrows	0	0	1	0
 துன்பியல்	tragedies	0	0	1	0
@@ -3924,14 +3851,12 @@
 அமைந்தன	sistuated	0	0	1	0
 அமைந்தன	having that	0	0	1	0
 அமைந்தன	raise	0	0	1	0
-மண்டபங்கள்	buildings	0	0	1	0
 மண்டபங்கள்	halls	0	0	1	0
 நெறிமுறைகள்	protocols	0	0	1	0
 உருவாவதற்கு	development	0	0	1	0
 உருவாவதற்கு	create	0	0	1	0
 உருவாவதற்கு	form	0	0	1	0
 கரும்புலிகள்	liberation tigers	0	0	1	0
-கரும்புலிகள்	black tigers	0	0	1	0
 எண்ணற்ற	many	0	0	1	0
 எண்ணற்ற	numerous	0	0	1	0
 எண்ணற்ற	countless	0	0	1	0
@@ -3942,8 +3867,8 @@
 மிகப்பெரிய	very big	0	0	1	0
 மிகப்பெரிய	mush bigger	0	0	1	0
 கப்பலின்	in the ship	0	0	1	0
-கப்பலின்	ship	0	0	1	0
 கப்பலின்	in ship	0	0	1	0
+கப்பலின்	ship	0	0	1	0
 சுஜாதா	a famous writer	0	0	1	0
 சுஜாதா	sujatha	0	0	1	0
 சுஜாதா	sujatha rangarajan	0	0	1	0
@@ -3977,11 +3902,10 @@
 பதிற்றுப்பத்து	a tamil poetry book	0	0	1	0
 பதிற்றுப்பத்து	an ancient book name	0	0	1	0
 அஞ்சல்	mail	0	0	1	0
-அஞ்சல்	post	0	0	1	0
 அஞ்சல்	postal	0	0	1	0
 தந்தையார்	father	0	0	1	0
-என்பவற்றை	these things	0	0	1	0
-என்பவற்றை	like	0	0	1	0
+ராணுவம்	military	0	0	1	0
+ராணுவம்	army	0	0	1	1
 இவரது	his	0	0	1	0
 சமயத்திலும்	during that time	0	0	1	0
 சமயத்திலும்	period	0	0	1	0
@@ -3989,7 +3913,6 @@
 அலெக்சாண்டர்	alexander	0	0	1	0
 பாதிக்கப்படும்	affecting	0	0	1	0
 பாதிக்கப்படும்	destroy	0	0	1	0
-பாதிக்கப்படும்	effect	0	0	1	0
 காப்பியங்கள்	epic	0	0	1	0
 காப்பியங்கள்	epics	0	0	1	0
 சேகரிப்பு	storage	0	0	1	0
@@ -3998,7 +3921,6 @@
 செலவுகள்	spend	0	0	1	0
 செலவுகள்	costs	0	0	1	0
 நிலையை	status	0	0	1	0
-நிலையை	position	0	0	1	0
 நிலையை	status of	0	0	1	0
 கம்பர்	kamban	0	0	1	0
 கம்பர்	kambar	0	0	1	0
@@ -4015,11 +3937,10 @@
 சாசனம்	document	0	0	1	1
 பார்க்க	see	0	0	1	0
 பார்க்க	to see	0	0	1	0
-என்பார்	call so	0	0	1	0
-என்பார்	called	0	0	1	0
 என்பார்	person	0	0	1	0
+என்பார்	called	0	0	1	0
+என்பார்	call so	0	0	1	0
 காப்பாற்ற	to rescue	0	0	1	0
-காப்பாற்ற	to save	0	0	1	0
 காப்பாற்ற	help	0	0	1	0
 விலங்கியல்	zoology	0	0	1	0
 விலங்கியல்	zoological park	0	0	1	0
@@ -4076,8 +3997,8 @@
 மேலும்	further more	0	0	1	0
 மேலும்	beyond	0	0	1	0
 மேலும்	step up	0	0	1	0
-நடவடிக்கை	action	0	0	1	1
-நடவடிக்கை	actives	0	0	1	0
+வசதி	facility	0	0	1	0
+வசதி	wealthy	0	0	1	0
 ஏறிய	assume	0	0	1	0
 ஏறிய	climbed	0	0	1	0
 ஏறிய	came to power	0	0	1	0
@@ -4085,7 +4006,6 @@
 தெலுங்கு	telugu	0	0	1	0
 கிழக்கிந்தியக்	east india	0	0	1	0
 கிழக்கிந்தியக்	east indian	0	0	1	0
-மரக்கறிகள்	charcoal	0	0	1	0
 மரக்கறிகள்	tree timbers	0	0	1	0
 மரக்கறிகள்	vegitables	0	0	1	0
 நீடித்தது	contiued	0	0	1	0
@@ -4100,9 +4020,8 @@
 அணியின்	team	0	0	1	0
 இட்லி	idly	0	0	1	1
 இட்லி	idli	0	0	1	0
-பழனி	a place famous for temple	0	0	1	0
 பழனி	palani	0	0	1	0
-பழனி	pazhani	0	0	1	0
+பழனி	a place famous for temple	0	0	1	0
 களில்	in	0	0	1	0
 கிடைக்கப்பெறும்	obtained	0	0	1	0
 கிடைக்கப்பெறும்	there are	0	0	1	0
@@ -4121,8 +4040,8 @@
 கட்டுரைத்	book (essay)	0	0	1	0
 காலக்கோடு	line	0	0	1	0
 காலக்கோடு	timescale	0	0	1	0
-அளிக்கலாம்	provide	0	0	1	0
 அளிக்கலாம்	kill it	0	0	1	0
+அளிக்கலாம்	provide	0	0	1	0
 அளிக்கலாம்	can be given	0	0	1	0
 நெப்டியூன்	neptune	0	0	1	0
 வடக்கே	in the north	0	0	1	0
@@ -4171,9 +4090,6 @@
 அரசர்	king	0	0	1	0
 கொண்டனர்	had that	0	0	1	0
 கொண்டனர்	were	0	0	1	0
-வேகமான	fastly	0	0	1	0
-வேகமான	speedy	0	0	1	0
-வேகமான	speed	0	0	1	0
 கன்று	young ones of an elephant are called baby elephant or calf.	0	0	1	0
 கன்று	calf	0	0	1	1
 வேதியியல்	chemistry	0	0	1	0
@@ -4209,8 +4125,8 @@
 பயணித்து	travels	0	0	1	0
 பயணித்து	journey	0	0	1	0
 பயணித்து	to travel	0	0	1	0
-அவருடன்	having relation	0	0	1	0
 அவருடன்	with him	0	0	1	0
+அவருடன்	having relation	0	0	1	0
 இயல்பாக	naturally	0	0	1	0
 பலனின்றி	without benefits	0	0	1	0
 பலனின்றி	palaninri	0	0	1	0
@@ -4237,7 +4153,6 @@
 பிடித்தல்	catching	0	0	1	0
 இடமாக	place the	0	0	1	0
 இடமாக	place	0	0	1	0
-வெளியிணைப்புக்கள்	out side connection	0	0	1	0
 வெளியிணைப்புக்கள்	outside connections	0	0	1	0
 வெளியிணைப்புக்கள்	external links	0	0	1	0
 பேரரசை	empire	0	0	1	0
@@ -4386,8 +4301,6 @@
 ஏழைகள்	poors	0	0	1	0
 ஏழைகள்	poor poeple	0	0	1	0
 ஏழைகள்	poor people	0	0	1	0
-நிர்வாகக்	management	0	0	1	0
-நிர்வாகக்	administration	0	0	1	0
 இதயம்	heart	0	0	1	1
 கணக்கெடுப்பு	accounting	0	0	1	0
 கணக்கெடுப்பு	claculation	0	0	1	0
@@ -4413,7 +4326,6 @@
 கூழைக்கடா	a kind of bird	1	1	0	0
 கூழைக்கடா	bird	1	0	1	0
 பயண	journey	0	0	1	0
-பயண	traveling	0	0	1	0
 தொடர்புள்ள	contact with	0	0	1	0
 தொடர்புள்ள	relation	0	0	1	0
 தொடர்புள்ள	having relation	0	0	1	0
@@ -4462,7 +4374,6 @@
 பாகங்களிலும்	parts	0	0	1	0
 பாகங்களிலும்	peace	0	0	1	0
 தடுப்பூசி	vaccination	0	0	1	0
-தடுப்பூசி	injuction	0	0	1	0
 தடுப்பூசி	vaccine	0	0	1	0
 சுருக்கி	simple	0	0	1	0
 சுருக்கி	shrink	0	0	1	0
@@ -4477,7 +4388,6 @@
 சாதகக்	horoscope	0	0	1	0
 இச்	this	0	0	1	0
 இச்	ichh	0	0	1	0
-முல்லைத்தீவு	mulllaitivu	0	0	1	0
 முல்லைத்தீவு	mulailand	0	0	1	0
 முல்லைத்தீவு	mullai theevu - name of  a place	0	0	1	0
 இசை	music	0	0	1	1
@@ -4496,7 +4406,6 @@
 கஜினி	ghajini	0	0	1	0
 சேவையில்	services	0	0	1	0
 சேவையில்	service	0	0	1	0
-வழக்கும்	to give	0	0	1	0
 வழக்கும்	judicial case	0	0	1	0
 வழக்கும்	a way of life	0	0	1	0
 கொள்வதில்	doing	0	0	1	0
@@ -4518,9 +4427,9 @@
 வெளியிட்ட	published	0	0	1	0
 பாதுகாப்புச்	security	0	0	1	0
 பாதுகாப்புச்	safety	0	0	1	0
+அளித்து	to give	0	0	1	0
 அளித்து	provided	0	0	1	0
 அளித்து	give	0	0	1	0
-அளித்து	to give	0	0	1	0
 யாழ்ப்பாணக்	yazhpanam	0	0	1	0
 யாழ்ப்பாணக்	yalpaanam	0	0	1	0
 வகித்த	held	0	0	1	0
@@ -4577,11 +4486,11 @@
 அன்புள்ள	loving	0	0	1	0
 லண்டன்	london	0	0	1	0
 அகிலத்திரட்டு	a measurement	0	0	1	0
-அகிலத்திரட்டு	world theft	0	0	1	0
 அகிலத்திரட்டு	it is a noun	0	0	1	0
-பொம்மை	dolls	0	0	1	0
+அகிலத்திரட்டு	world theft	0	0	1	0
 பொம்மை	toy	0	0	1	0
 பொம்மை	doll	0	0	1	1
+பொம்மை	dolls	0	0	1	0
 மாற்றி	change	0	0	1	0
 நாகரீகம்	culture	0	0	1	0
 நாகரீகம்	fashion	0	0	1	0
@@ -4593,16 +4502,13 @@
 கமிட்டி	committee	0	0	1	0
 பதிப்புரிமை	copyright	0	0	1	0
 ஆவார்கள்	will become	0	0	1	0
-ஆவார்கள்	both were	0	0	1	0
 ஆவார்கள்	were	0	0	1	0
 அப்படியே	like that	0	0	1	0
 அப்படியே	just like	0	0	1	0
 அப்படியே	likethis	0	0	1	0
 போகர்	poker	0	0	1	0
-போகர்	artist	0	0	1	0
-இரும்பொறை	irumborai	0	0	1	0
-இரும்பொறை	irumporai	0	0	1	0
 இரும்பொறை	name	0	0	1	0
+இரும்பொறை	irumborai	0	0	1	0
 இஸ்லாம்	muslims	0	0	1	0
 இஸ்லாம்	islam	0	0	1	0
 என்கிறார்கள்	is	0	0	1	0
@@ -4623,7 +4529,8 @@
 வாழ்ந்து	living	0	0	1	0
 வாழ்ந்து	live	0	0	1	0
 வாழ்ந்து	lived	0	0	1	0
-நீதிபதிகள்	judges	0	0	1	0
+கிடையாது	no problems	0	0	1	0
+கிடையாது	no	0	0	1	0
 பல்லவர்	pallavas	0	0	1	0
 பல்லவர்	kingdom	0	0	1	0
 பல்லவர்	pallava	0	0	1	0
@@ -4702,7 +4609,6 @@
 விமானப்	aeroplane	0	0	1	0
 மன்னர்	raja	0	0	1	0
 மன்னர்	king	0	0	1	0
-அமைகிறது	become	0	0	1	0
 அமைகிறது	is	0	0	1	0
 அமைகிறது	arrange	0	0	1	0
 வெளிப்படையான	open type	0	0	1	0
@@ -4750,8 +4656,7 @@
 தட்டு	disk	0	0	1	0
 சனத்தொகை	public	0	0	1	0
 சனத்தொகை	population	0	0	1	0
-வணிக	commercial	0	0	1	0
-வணிக	business	0	0	1	0
+இயற்கையான	natural	0	0	1	0
 குழாய்	pipe	0	0	1	0
 குழாய்	tube	0	0	1	0
 குழாய்	tubes	0	0	1	0
@@ -4766,20 +4671,20 @@
 சமயத்தில்	religion (hindu religion)	0	0	1	0
 சமயத்தில்	religion	0	0	1	0
 சமயத்தில்	at the time of	0	0	1	0
-பீ	feces	0	0	1	0
 பீ	b	0	0	1	0
 பூ	flower	0	0	1	1
 பி	b	0	0	1	0
-பி	public	0	0	1	0
 ஆரம்பித்த	started	0	0	1	0
 ஆரம்பித்த	start	0	0	1	0
 பழ	friut	0	0	1	0
 பழ	fruit	0	0	1	0
 பழ	fruits	0	0	1	0
 ஸ்ரீரங்கம்	sreerangam(place)	0	0	1	0
-ஸ்ரீரங்கம்	srirankam	0	0	1	0
 ஸ்ரீரங்கம்	sri rangam	0	0	1	0
 பல	many	0	0	1	1
+முதலாக	first time	0	0	1	0
+முதலாக	in first	0	0	1	0
+முதலாக	for the first time	0	0	1	0
 ஒலிபரப்புக்	broadcasting	0	0	1	0
 ஒலிபரப்புக்	telecast	0	0	1	0
 அல்	al	0	0	1	0
@@ -4890,7 +4795,6 @@
 துல்லியமான	accurate	0	0	1	0
 துல்லியமான	accurately	0	0	1	0
 இனப்பிரச்சினை	inter war	0	0	1	0
-இனப்பிரச்சினை	race problem	0	0	1	0
 இனப்பிரச்சினை	this problem	0	0	1	0
 விக்கிரம	vikrama	0	0	1	0
 விக்கிரம	vikrama chola	0	0	1	0
@@ -4902,7 +4806,6 @@
 சுவையான	interesting	0	0	1	0
 சுவையான	tasteful	0	0	1	0
 ஆப்கானிஸ்தான்	afghanistan	0	0	1	0
-ஆப்கானிஸ்தான்	afhganistan	0	0	1	0
 விமானம்	flight	0	0	1	0
 விமானம்	aeroplane	0	0	1	0
 மலர்களில்	flowers	0	0	1	0
@@ -4911,7 +4814,6 @@
 கம்யூனிச	communism	0	0	1	0
 ஒதுக்கி	seperately	0	0	1	0
 ஒதுக்கி	isolated	0	0	1	0
-ஒதுக்கி	rejuct	0	0	1	0
 யுத்தத்தை	war	0	0	1	0
 தற்காப்புக்	thatkappu	0	0	1	0
 தற்காப்புக்	self defense	0	0	1	0
@@ -5049,8 +4951,8 @@
 அடர்த்தியான	dark	0	0	1	0
 அடர்த்தியான	thick	0	0	1	0
 அடர்த்தியான	densly	0	0	1	0
-நினைத்து	thinking	0	0	1	0
 நினைத்து	thought	0	0	1	0
+நினைத்து	thinking	0	0	1	0
 உதவிகள்	helps	0	0	1	0
 உதவிகள்	help	0	0	1	0
 தொகுப்பை	compilation	0	0	1	0
@@ -5140,7 +5042,6 @@
 வைக்கும்	being	0	0	1	0
 வைக்கும்	to keep	0	0	1	0
 வைக்கும்	keep	0	0	1	0
-கட்டிடக்கலையில்	structuralism	0	0	1	0
 கட்டிடக்கலையில்	architecture	0	0	1	0
 இவர்களது	this peoples	0	0	1	0
 இவர்களது	thier	0	0	1	0
@@ -5213,7 +5114,6 @@
 வகுப்பு	standard	0	0	1	1
 தலைப்பில்	caption	0	0	1	0
 தலைப்பில்	under the topic	0	0	1	0
-தலைப்பில்	heading	0	0	1	0
 ஏற்பாடுகள்	arrangements	0	0	1	1
 ஏற்பாடுகள்	arrangments	0	0	1	0
 மாலிப்டினம்	molybdenum a metal	1	0	1	0
@@ -5243,7 +5143,6 @@
 அவளது	her's (in her memory)	0	0	1	0
 அவளது	her	0	0	1	0
 கலக்கும்	mixed	0	0	1	0
-கலக்கும்	dispose	0	0	1	0
 கலக்கும்	mingle	0	0	1	0
 அருங்காட்சியகம்	museum	0	0	1	0
 திரவ	fluid	0	0	1	0
@@ -5254,7 +5153,6 @@
 கல்கத்தா	calcutta	0	0	1	0
 கல்கத்தா	culcutta	0	0	1	1
 வெளிச்சம்	light	0	0	1	1
-ஏற்பட்டன	happened	0	0	1	0
 ஏற்பட்டன	uploading	0	0	1	0
 ஏற்பட்டன	were	0	0	1	0
 என்பனவும்	likewise	0	0	1	0
@@ -5352,22 +5250,16 @@
 விரிந்த	enlarged	0	0	1	0
 விரிந்த	spread	0	0	1	0
 விரிந்த	expanded	0	0	1	0
-சமன்பாடுகளை	the equations	0	0	1	0
-சமன்பாடுகளை	equation	0	0	1	0
-சமன்பாடுகளை	equations	0	0	1	0
 தாக்கத்தால்	affect	0	0	1	0
 தாக்கத்தால்	effect	0	0	1	0
 தாக்கத்தால்	influnce	0	0	1	0
 மக்களவைத்	parliament	0	0	1	0
 மக்களவைத்	lok sabha election	0	0	1	0
 மக்களவைத்	parliement	0	0	1	0
-இருக்கவில்லை	not	0	0	1	0
 இருக்கவில்லை	not there	0	0	1	0
 பாங்கு	different	0	0	1	0
 பாங்கு	a series	0	0	1	0
-பாங்கு	mode	0	0	1	0
 புறொக்ஸி	proxy	0	0	1	0
-இயங்கும்	directed	0	0	1	0
 இயங்கும்	operating strategy	0	0	1	0
 இயங்கும்	operates	0	0	1	0
 சுழற்சியின்	rotation	0	0	1	0
@@ -5465,7 +5357,6 @@
 மீட்க	rescue	0	0	1	0
 மீட்க	meetka	0	0	1	0
 வெளியேற்றப்படும்	to be released	0	0	1	0
-வெளியேற்றப்படும்	evacuate	0	0	1	0
 வெளியேற்றப்படும்	get out	0	0	1	0
 தொலைவு	distance	0	0	1	1
 தொலைவு	long distance	0	0	1	0
@@ -5491,7 +5382,6 @@
 குவிமாடம்	domes	0	0	1	0
 குவிமாடம்	minaret	0	0	1	0
 வளிமண்டல	atmosphere	0	0	1	0
-வளிமண்டல	space	0	0	1	0
 இடத்தையும்	place	0	0	1	0
 இடத்தையும்	places	0	0	1	0
 வான்	sky	0	0	1	1
@@ -5524,8 +5414,8 @@
 அல்லி	lilly	1	1	0	0
 அல்லி	lily	1	0	1	0
 அல்லி	nymphaeaceae	1	1	0	0
-பேசப்பட்டு	spoken	0	0	1	0
-பேசப்பட்டு	speaking	0	0	1	0
+விளங்கினார்	are the	0	0	1	0
+விளங்கினார்	past tense of be (was)	0	0	1	0
 ரஷ்யப்	russian	0	0	1	0
 ரஷ்யப்	russia	0	0	1	0
 ஓவியம்	picture	0	0	1	1
@@ -5541,7 +5431,6 @@
 சிவகாசி	place	0	0	1	0
 என்பவற்றைக்	like those	0	0	1	0
 என்பவற்றைக்	thus	0	0	1	0
-என்பவற்றைக்	under	0	0	1	0
 பிளைட்	plaid	0	0	1	0
 பிளைட்	flight	0	0	1	0
 கிரந்த	granth	0	0	1	0
@@ -5620,11 +5509,10 @@
 பிராந்தியத்தில்	zonal	0	0	1	0
 பிராந்தியத்தில்	in the region	0	0	1	0
 புறம்	out	0	0	1	0
-புறம்	back	0	0	1	1
 புறம்	side	0	0	1	1
+புறம்	back	0	0	1	1
 நிகழ்முறை	process	0	0	1	0
 நிகழ்முறை	presant happeing	0	0	1	0
-நிகழ்முறை	present way	0	0	1	0
 வரையிலும்	upto	0	0	1	0
 வரையிலும்	upto that	0	0	1	0
 தோல்	skin	0	0	1	1
@@ -5663,7 +5551,6 @@
 தங்கள்	yours	0	0	1	1
 தங்கள்	they	0	0	1	0
 ஏழாவது	seventh	0	0	1	0
-விண்கலம்	space shuttle	0	0	1	0
 விண்கலம்	spacecraft	0	0	1	0
 விண்கலம்	satellite	0	0	1	0
 வர்த்தகம்	business	0	0	1	0
@@ -5729,17 +5616,13 @@
 திசுள்	cell	0	0	1	0
 திசுள்	cells	0	0	1	0
 புவியின்	world	0	0	1	0
-புவியின்	earth's	0	0	1	0
 புவியின்	of earth	0	0	1	0
 இறைவன்	god	0	0	1	1
 ஐரோப்பாவிலும்	europe	0	0	1	0
 ஐரோப்பாவிலும்	in europe	0	0	1	0
 செயல்களில்	action	0	0	1	0
-செயல்களில்	activities	0	0	1	0
-செயல்களில்	actions	0	0	1	0
 நிலைகளும்	stages	0	0	1	0
 நிலைகளும்	levels	0	0	1	0
-சபைகள்	stages	0	0	1	0
 சபைகள்	stage	0	0	1	0
 ==	headings	0	0	1	0
 இப்போரில்	in the war	0	0	1	0
@@ -5771,7 +5654,6 @@
 இணையத்தில்	on the intenet	0	0	1	0
 இணையத்தில்	on the internet	0	0	1	0
 இணையத்தில்	internet	0	0	1	0
-நெறிமுறையானது	rules	0	0	1	0
 நெறிமுறையானது	protocol	0	0	1	0
 நெறிமுறையானது	the protocol	0	0	1	0
 அறுவடை	harvest	0	0	1	1
@@ -5806,24 +5688,20 @@
 தெரிவித்துள்ளனர்	said	0	0	1	0
 தெரிவித்துள்ளனர்	call for	0	0	1	0
 இரதம்	chariot	0	0	1	0
-வகைகள்	verity	0	0	1	0
-வகைகள்	varieties	0	0	1	0
 வகைகள்	varities	0	0	1	0
+வகைகள்	verity	0	0	1	0
 வகைகளை	type	0	0	1	0
 வகைகளை	varieties	0	0	1	0
 மேலான	better	0	0	1	0
 மேலான	significant	0	0	1	0
-மேலான	beyond that	0	0	1	0
 அவள்	she	0	0	1	1
 துணையாக	to be helpful	0	0	1	0
 துணையாக	company	0	0	1	0
 துணையாக	support	0	0	1	0
 வடக்கிலிருந்து	from south	0	0	1	0
 வடக்கிலிருந்து	from north	0	0	1	0
-வடக்கிலிருந்து	north	0	0	1	0
 காவிய	legendry	0	0	1	0
 காவிய	epical literature	0	0	1	0
-காவிய	kaviam	0	0	1	0
 சூழலியல்	situation	0	0	1	0
 சூழலியல்	sourroundings	0	0	1	0
 சூழலியல்	ecology	0	0	1	0
@@ -5851,13 +5729,11 @@
 காலத்திலேயே	time frame	0	0	1	0
 காலத்திலேயே	sessions	0	0	1	0
 காலத்திலேயே	time	0	0	1	0
-மெல்லிய	slim	0	0	1	0
-மெல்லிய	thin	0	0	1	0
+சம்ஹிதை	samhithai	0	0	1	0
 மேற்குத்	west	0	0	1	0
 மேற்குத்	western	0	0	1	0
 கச்சா	crude	0	0	1	1
 கச்சா	raw	0	0	1	0
-பிற்பகுதி	hind part	0	0	1	0
 பிற்பகுதி	thumb	0	0	1	0
 பிற்பகுதி	later part	0	0	1	0
 துவக்கத்தில்	in the beginning	0	0	1	0
@@ -5867,6 +5743,8 @@
 இருக்க	must be	0	0	1	0
 இருக்க	present	0	0	1	0
 இருக்க	here	0	0	1	0
+அமைப்பைக்	constitutor	0	0	1	0
+அமைப்பைக்	organisation	0	0	1	0
 வீட்டுக்கு	home	0	0	1	0
 வீட்டுக்கு	to the home	0	0	1	0
 வீட்டுக்கு	house	0	0	1	0
@@ -5895,9 +5773,8 @@
 தயாரிக்கப்படுகின்றன	manufactering	0	0	1	0
 தயாரிக்கப்படுகின்றன	to be manufactured	0	0	1	0
 தயாரிக்கப்படுகின்றன	being produced	0	0	1	0
-இவையனைத்தும்	this all	0	0	1	0
-இவையனைத்தும்	all the above	0	0	1	0
 இவையனைத்தும்	all these	0	0	1	0
+இவையனைத்தும்	all the above	0	0	1	0
 முயற்சிகளை	efforts	0	0	1	0
 முயற்சிகளை	trying	0	0	1	0
 மாகாணத்தின்	province	0	0	1	0
@@ -6034,8 +5911,8 @@
 வகிக்கின்றன	plays a role	0	0	1	0
 மகரந்தம்	pollen	0	0	1	0
 மகரந்தம்	pollens	0	0	1	0
-நம்பினார்	believed	0	0	1	0
 நம்பினார்	beleived	0	0	1	0
+நம்பினார்	believed	0	0	1	0
 பாண்டிச்சேரி	pondichery	0	0	1	0
 பாண்டிச்சேரி	pondicherry	0	0	1	0
 வேலை	job	0	0	1	1
@@ -6075,14 +5952,14 @@
 நிலை	state	0	0	1	1
 சித்தாந்த	siddantha	0	0	1	0
 தாஜ்மகாலின்	the taj mahal	0	0	1	0
-தாஜ்மகாலின்	tajmahal's	0	0	1	0
 தாஜ்மகாலின்	tajmahal	0	0	1	0
+தாஜ்மகாலின்	tajmahal's	0	0	1	0
 ஏற்கெனவே	already	0	0	1	0
 வழியாக	via	0	0	1	0
 வழியாக	through	0	0	1	0
 வழியாக	way	0	0	1	0
-முதலாவது	firest	0	0	1	0
 முதலாவது	first	0	0	1	0
+முதலாவது	firest	0	0	1	0
 மரபின்	ancestral line	0	0	1	0
 மரபின்	tradition	0	0	1	0
 பெர்முடா	permuda	0	0	1	0
@@ -6096,11 +5973,9 @@
 பெயரை	names	0	0	1	0
 பெயரை	name	0	0	1	0
 முக்கியக்	important	0	0	1	0
-முக்கியக்	importent	0	0	1	0
 பெயர்	name	0	0	1	1
 திரும்ப	again	0	0	1	0
 திரும்ப	to return	0	0	1	0
-திரும்ப	repete	0	0	1	0
 காணும்	seen	0	0	1	0
 காணும்	shown	0	0	1	0
 பெயரே	name	0	0	1	0
@@ -6113,9 +5988,9 @@
 கொள்கைகளின்	policy	0	0	1	0
 கொள்கைகளின்	policies	0	0	1	0
 கொள்கைகளின்	principal	0	0	1	0
-விட்ட	finished	0	0	1	0
-விட்ட	succeeded	0	0	1	0
-விட்ட	left	0	0	1	0
+என்பவற்றுக்கு	them	0	0	1	0
+என்பவற்றுக்கு	all these	0	0	1	0
+என்பவற்றுக்கு	like	0	0	1	0
 பிடிக்கும்	acquring	0	0	1	0
 பிடிக்கும்	like	0	0	1	0
 பிடிக்கும்	having	0	0	1	0
@@ -6136,7 +6011,6 @@
 தொழில்நுட்பங்களின்	technology's	0	0	1	0
 தொழில்நுட்பங்களின்	technologies	0	0	1	0
 தொழில்நுட்பங்களின்	technical knowledge	0	0	1	0
-ஆண்குறியின்	penis	0	0	1	0
 ஆண்குறியின்	male penis	0	0	1	0
 ஆண்குறியின்	of penile	0	0	1	0
 ரீதியில்	by way of	0	0	1	0
@@ -6165,7 +6039,6 @@
 முடிவுக்கு	at the end	0	0	1	0
 முடிவுக்கு	end	0	0	1	0
 அப்படி	like that	0	0	1	0
-அப்படி	so	0	0	1	0
 அப்படி	that way	0	0	1	0
 பெறப்படும்	to get	0	0	1	0
 பெறப்படும்	get	0	0	1	0
@@ -6196,7 +6069,6 @@
 கருத்துகள்	politcal opion	0	0	1	0
 கருத்துகள்	feedback	0	0	1	0
 நடத்தியது	conducted	0	0	1	0
-நடத்தியது	lead	0	0	1	0
 நடத்தியது	happened	0	0	1	0
 வாய்	mouth	0	0	1	1
 கூத்து	drama	0	0	1	0
@@ -6274,11 +6146,10 @@
 நுழைவாயில்	entrance	0	0	1	0
 நுழைவாயில்	gateway	0	0	1	0
 பகுப்புதமிழ்நாடு	parttamilnadu	0	0	1	0
-பகுப்புதமிழ்நாடு	analysis	0	0	1	0
 பகுப்புதமிழ்நாடு	division of tamilnadu	0	0	1	0
-சங்கமம்	integrated	0	0	1	0
-சங்கமம்	association	0	0	1	0
 சங்கமம்	sangamam - a movie name	0	0	1	0
+சங்கமம்	association	0	0	1	0
+சங்கமம்	integrated	0	0	1	0
 செய்யப்படுகின்றன	has been done	0	0	1	0
 செய்யப்படுகின்றன	are	0	0	1	0
 செய்யப்படுகின்றன	is done by	0	0	1	0
@@ -6307,7 +6178,6 @@
 ஆராய்ச்சியாளர்கள்	researchers	0	0	1	0
 கருதிய	telling	0	0	1	0
 கருதிய	thought	0	0	1	0
-கருதிய	rats	0	0	1	0
 காலவெளி	spacetime	0	0	1	0
 காலவெளி	a time gap	0	0	1	0
 அமெரிக்கர்கள்	americans	0	0	1	0
@@ -6318,12 +6188,10 @@
 பயன்படுத்தப்பட்டு	used	0	0	1	0
 என்பது	is	0	0	1	0
 என்பது	name	0	0	1	0
-என்பது	means	0	0	1	0
 சமாதானம்	compermise	0	0	1	0
 சமாதானம்	peace	0	0	1	1
 என்பதை	namely	0	0	1	0
 என்பதை	that	0	0	1	0
-என்பதை	means	0	0	1	0
 சேவைப்	help	0	0	1	0
 சேவைப்	service	0	0	1	0
 பயன்படுத்தலாம்	can use it	0	0	1	0
@@ -6419,7 +6287,6 @@
 சுவாச	breathe	0	0	1	0
 சுவாச	respiratory	0	0	1	0
 சுவாச	respiration	0	0	1	0
-பொருத்து	synonyms	0	0	1	0
 பொருத்து	depending on the	0	0	1	0
 பொருத்து	matching	0	0	1	0
 புற்றுநோய்க்கு	for cancer	0	0	1	0
@@ -6427,7 +6294,6 @@
 கொள்க	to have	0	0	1	0
 கொள்க	to put that	0	0	1	0
 கொள்க	keep	0	0	1	0
-சட்டம்	law	0	0	1	1
 பெய்யும்	rains	0	0	1	0
 பெய்யும்	pouring	0	0	1	0
 பெய்யும்	heavier	0	0	1	0
@@ -6442,7 +6308,6 @@
 சிறுவர்கள்	childrens	0	0	1	0
 தவறான	wrong	0	0	1	0
 தவறான	invalid	0	0	1	0
-தவறாக	wrong	0	0	1	0
 தவறாக	wrongly	0	0	1	0
 தவறாக	misunderstand	0	0	1	0
 லட்சுமி	lakshmi	0	0	1	0
@@ -6504,7 +6369,6 @@
 நிறுவனம்	company	0	0	1	1
 நிறுவனம்	institution	0	0	1	0
 பாருங்கள்	seen	0	0	1	0
-பாருங்கள்	see	0	0	1	0
 பாருங்கள்	look	0	0	1	0
 மலைத்	mountain	0	0	1	0
 முன்னோடியாக	precursor	0	0	1	0
@@ -6548,7 +6412,6 @@
 முனையில்	end	0	0	1	0
 முனையில்	in corner	0	0	1	0
 உரிமம்	licence	0	0	1	0
-உரிமம்	authority	0	0	1	0
 உரிமம்	license	0	0	1	1
 இவைகளின்	these	0	0	1	0
 இவைகளின்	this/that	0	0	1	0
@@ -6624,10 +6487,9 @@
 மாறுதல்	change	0	0	1	0
 செய்யப்பட்ட	produced	0	0	1	0
 செய்யப்பட்ட	made by	0	0	1	0
-செய்யப்பட்ட	made	0	0	1	0
 ஹீலியம்	helium	0	0	1	0
 சத்தியாகிரக	sathyagraha	0	0	1	0
-தொடையெலும்பு	thigh bone	1	0	1	1
+தொடையெலும்பு	thigh bone	1	0	1	0
 தொடையெலும்பு	bone of the thigh	1	0	1	0
 தொடையெலும்பு	femur bone	1	0	1	0
 தொடையெலும்பு	femur	1	1	0	1
@@ -6715,7 +6577,9 @@
 கனவு	dream	0	0	1	0
 அரசியல்வாதிகள்	politics	0	0	1	0
 அரசியல்வாதிகள்	politicians	0	0	1	0
-ஏயூ	astronomical unit	0	0	1	0
+விடுத்தனர்	issued	0	0	1	0
+விடுத்தனர்	have laid down	0	0	1	0
+விடுத்தனர்	act	0	0	1	0
 திறம்பட	efficient	0	0	1	0
 திறம்பட	indeligent	0	0	1	0
 திறம்பட	ably	0	0	1	0
@@ -6732,7 +6596,6 @@
 செல்வாக்குச்	states	0	0	1	0
 செல்வாக்குச்	influence	0	0	1	0
 பிரெஞ்சு	french	0	0	1	0
-டோக்கியோ	city	0	0	1	0
 டோக்கியோ	tokyo in japan	0	0	1	0
 டோக்கியோ	tokyo	0	0	1	0
 தன்மையும்	having the character	0	0	1	0
@@ -6747,14 +6610,12 @@
 மாறுகின்றன	change	0	0	1	0
 காணப்படும்	found	0	0	1	0
 காணப்படும்	as seen	0	0	1	0
-காணப்படும்	seems	0	0	1	0
-மருத்துவமனை	hospital	0	0	1	1
+பாரதி	bharathi	0	0	1	0
 நிகழ்வுகளின்	occurance	0	0	1	0
 நிகழ்வுகளின்	program	0	0	1	0
 நிகழ்வுகளின்	happenings	0	0	1	0
 ஏற்படுத்தும்	started	0	0	1	0
 ஏற்படுத்தும்	causes(verb)	0	0	1	0
-ஏற்படுத்தும்	create	0	0	1	0
 காட்டு	forest	0	0	1	0
 காட்டு	showing the face	0	0	1	0
 படுகின்றது	have been related	0	0	1	0
@@ -6766,7 +6627,6 @@
 போன்றவற்றைக்	are	0	0	1	0
 குறிப்பிட்டு	mentioned	0	0	1	0
 குறிப்பிட்டு	notes	0	0	1	0
-குறிப்பிட்டு	in particular	0	0	1	0
 திருவிளையாடல்	the work of lord siva	0	0	1	0
 திருவிளையாடல்	thiruvilayadal	0	0	1	0
 திருவிளையாடல்	lord siva's leelas	0	0	1	0
@@ -6788,7 +6648,7 @@
 அதைப்	like wise	0	0	1	0
 அதைப்	that	0	0	1	0
 தங்கை	sister	0	0	1	0
-தங்கை	younger sister	0	0	1	1
+தங்கை	younger sister	0	0	1	0
 விளங்கும்	explanation	0	0	1	0
 விளங்கும்	is	0	0	1	0
 விளங்கும்	to understand	0	0	1	0
@@ -6802,7 +6662,6 @@
 எண்ணிக்கையிலான	number of	0	0	1	0
 ராதா	one of the name	0	0	1	0
 ராதா	radha a tamil name	0	0	1	0
-பலர்	many people	0	0	1	0
 பலர்	others	0	0	1	0
 விளையாட்டில்	game	0	0	1	0
 விளையாட்டில்	in game	0	0	1	0
@@ -6868,7 +6727,6 @@
 மதிய	noon	0	0	1	0
 முக்கியமான	important	0	0	1	0
 ஒலிபரப்பு	broadcast	0	0	1	0
-ஒலிபரப்பு	broadcasting	0	0	1	0
 ஒலிபரப்பு	telecast	0	0	1	0
 கட்டும்	building	0	0	1	0
 கட்டும்	constructing	0	0	1	0
@@ -6959,7 +6817,6 @@
 பராசக்தி	big energy	0	0	1	0
 லோபோட்டைடீ	tripletail	1	1	0	0
 வெளியேறி	vacate	0	0	1	0
-வெளியேறி	come out	0	0	1	0
 வெளியேறி	out	0	0	1	0
 கூறுகிறார்	saying	0	0	1	0
 கூறுகிறார்	said	0	0	1	0
@@ -7005,6 +6862,9 @@
 சமீப	in recent	0	0	1	0
 சமீப	latest	0	0	1	0
 சமீப	recent	0	0	1	0
+காவியம்	kaviam	0	0	1	0
+காவியம்	poetry	0	0	1	0
+காவியம்	novel	0	0	1	0
 உதவின	helped	0	0	1	0
 உதவின	helping	0	0	1	0
 டச்சுக்	dutch	0	0	1	0
@@ -7024,7 +6884,6 @@
 ஆகியவற்றுக்கு	and so on	0	0	1	0
 தெரியும்	known	0	0	1	0
 தெரியும்	know	0	0	1	0
-தனித்தனி	different	0	0	1	0
 தனித்தனி	seperate	0	0	1	0
 அறிவியல்	science	1	1	1	1
 அறிவியல்	hidden	1	0	1	0
@@ -7046,7 +6905,6 @@
 பயன்படுத்தின	used	0	0	1	0
 பயன்படுத்தின	used for	0	0	1	0
 பயன்படுத்தின	utilised	0	0	1	0
-நாகேஷ்	nagesh	0	0	1	0
 நாகேஷ்	actor nagesh in tamil films	0	0	1	0
 நாகேஷ்	name of a comedian actor	0	0	1	0
 விடுதலை	freedom	0	0	1	0
@@ -7091,7 +6949,7 @@
 அழுத்தங்கள்	pressure	0	0	1	0
 அழுத்தங்கள்	force	0	0	1	0
 அழுத்தங்கள்	pressure's	0	0	1	0
-எத்தனை	how many	0	0	1	1
+எத்தனை	how many	0	0	1	0
 பாக்ஸ்	box	0	0	1	0
 பாக்ஸ்	fire fox	0	0	1	0
 பாக்ஸ்	fox	0	0	1	0
@@ -7140,7 +6998,6 @@
 பிடித்து	studies	0	0	1	0
 ஆய்வாளர்கள்	research scholars	0	0	1	0
 ஆய்வாளர்கள்	researchers	0	0	1	0
-ஆய்வாளர்கள்	analist	0	0	1	0
 ஜெர்மனியின்	germany	0	0	1	0
 ஜெர்மனியின்	of german	0	0	1	0
 அதிகரிக்க	increase	0	0	1	0
@@ -7197,6 +7054,8 @@
 நிறத்தில்	in colour	0	0	1	0
 நிறத்தில்	colour of	0	0	1	0
 வருகின்றது	coming	0	0	1	0
+பரவ	spread	0	0	1	0
+பரவ	started to spread	0	0	1	0
 காரணமாகிறது	is the reason	0	0	1	0
 காரணமாகிறது	according to that	0	0	1	0
 காரணமாகிறது	reason	0	0	1	0
@@ -7221,7 +7080,6 @@
 பல்லினப்பண்பாடு	multiculturalsim	1	1	0	0
 தூரம்	distance	0	0	1	1
 கேம்ப்ரிட்ஜ்	cambridge university	0	0	1	0
-கேம்ப்ரிட்ஜ்	cambridge	0	0	1	0
 கேம்ப்ரிட்ஜ்	kembridge	0	0	1	0
 அவைகளின்	their (their symbols)	0	0	1	0
 அவைகளின்	having that	0	0	1	0
@@ -7236,7 +7094,6 @@
 ஆங்காங்கே	here and there	0	0	1	0
 அனுபவங்கள்	experiences	0	0	1	0
 அனுபவங்கள்	experience	0	0	1	0
-இருந்த	have	0	0	1	0
 இருந்த	were	0	0	1	0
 உள்ளனர்	there are	0	0	1	0
 உள்ளனர்	residing	0	0	1	0
@@ -7272,7 +7129,6 @@
 பறவை	birds	1	1	0	0
 ஆழ்கடல்	high seas	0	0	1	0
 ஆழ்கடல்	deep sea	0	0	1	0
-வழங்கப்படுகிறது	provide	0	0	1	0
 வழங்கப்படுகிறது	offered	0	0	1	0
 வழங்கப்படுகிறது	providing	0	0	1	0
 இலத்திரனியல்	mutual	1	0	1	0
@@ -7363,7 +7219,6 @@
 பனிக்கட்டி	ice crystals	0	0	1	0
 பனிக்கட்டி	ice sheet	0	0	1	0
 உண்டாகும்	will form by	0	0	1	0
-உண்டாகும்	produse	0	0	1	0
 உண்டாகும்	can	0	0	1	0
 திருவிழா	festival	0	0	1	1
 திருவிழா	fair	0	0	1	0
@@ -7400,7 +7255,6 @@
 திராவிடம்	dravida - a culture	0	0	1	0
 திராவிடம்	pradesh to	0	0	1	0
 பந்தயம்	race	0	0	1	0
-பந்தயம்	bet	0	0	1	0
 கடதாசி	rak'at	1	0	1	0
 கடதாசி	letters	1	1	0	0
 கடதாசி	a letter	1	1	0	0
@@ -7412,7 +7266,6 @@
 தொடங்குகிறது	started	0	0	1	0
 வியாழன்	jupiter	0	0	1	0
 வியாழன்	planet jupiter	0	0	1	0
-கைப்பற்றினர்	capture	0	0	1	0
 கைப்பற்றினர்	caught	0	0	1	0
 கைப்பற்றினர்	captured	0	0	1	0
 படமான	feature film	0	0	1	0
@@ -7434,9 +7287,9 @@
 போன்றது	similar	0	0	1	0
 போன்றது	same	0	0	1	0
 உரிமைகளை	rights	0	0	1	0
-பிரதான	main	0	0	1	0
-பிரதான	important	0	0	1	0
-மனைவிகள்	wifes	0	0	1	0
+பயிர்	plant	0	0	1	0
+பயிர்	seed	0	0	1	0
+பயிர்	paddy	0	0	1	0
 மனைவிகள்	wives	0	0	1	0
 நிழல்	shadow	0	0	1	1
 உரிமைகள்	rights	0	0	1	0
@@ -7451,7 +7304,6 @@
 மாற்றத்தை	change over	0	0	1	0
 மாற்றத்தை	change	0	0	1	0
 குடியிருப்புக்கள்	houses	0	0	1	0
-குடியிருப்புக்கள்	living place	0	0	1	0
 குடியிருப்புக்கள்	quarters	0	0	1	0
 பரிசோதிக்க	test	0	0	1	0
 பரிசோதிக்க	examined	0	0	1	0
@@ -7487,9 +7339,9 @@
 எனும்	is	0	0	1	0
 எனும்	called	0	0	1	0
 எனும்	daily	0	0	1	0
-அனுமதிக்கிறது	permit	0	0	1	0
 அனுமதிக்கிறது	admitted into	0	0	1	0
 அனுமதிக்கிறது	allowing	0	0	1	0
+அனுமதிக்கிறது	permit	0	0	1	0
 வர்க்கம்	people group	0	0	1	0
 வர்க்கம்	community	0	0	1	0
 வர்க்கம்	middle class	0	0	1	0
@@ -7537,7 +7389,6 @@
 இருந்துவருகிறது	from	0	0	1	0
 இருந்துவருகிறது	having that	0	0	1	0
 வலி	pain	0	0	1	1
-மாறுபட்டு	changing	0	0	1	0
 மாறுபட்டு	differentiate	0	0	1	0
 மாறுபட்டு	is different	0	0	1	0
 திரைப்படத்	feature film	0	0	1	0
@@ -7564,7 +7415,6 @@
 வலை	web	0	0	1	0
 டாக்டர்	doctor	0	0	1	1
 சொல்கிறார்	saying	0	0	1	0
-சொல்கிறார்	said	0	0	1	0
 சொல்கிறார்	tells	0	0	1	0
 அண்மையில்	nearer	0	0	1	0
 அண்மையில்	recently	0	0	1	1
@@ -7578,7 +7428,6 @@
 அடுக்கு	layer	0	0	1	0
 பண்பாட்டுக்	culture	0	0	1	0
 பண்பாட்டுக்	cultural	0	0	1	0
-யெல்லோஸ்டோன்	ellowstone	0	0	1	0
 யெல்லோஸ்டோன்	yeltoston	0	0	1	0
 யெல்லோஸ்டோன்	yellowstone	0	0	1	0
 தாக்கோ	thaco a mixture	1	0	1	0
@@ -7713,14 +7562,12 @@
 உயிர்வாழ்க்கை	birth life	1	0	1	0
 கருதப்படுவது	thought	0	0	1	0
 கருதப்படுவது	thought about	0	0	1	0
-கருதப்படுவது	seems	0	0	1	0
 மாறுபடுகின்றன	differs	0	0	1	0
 மாறுபடுகின்றன	they are differenciable	0	0	1	0
 மாறுபடுகின்றன	vary	0	0	1	0
 கைப்பற்றி	conquered	0	0	1	0
 கைப்பற்றி	seized	0	0	1	0
 கைப்பற்றி	capture	0	0	1	0
-வன்னி	vanni tree	0	0	1	0
 வன்னி	vanniyar	0	0	1	0
 பின்லாந்து	pace	0	0	1	0
 பின்லாந்து	finland	0	0	1	0
@@ -7758,9 +7605,8 @@
 கடற்கரையில்	beach	0	0	1	0
 கடற்கரையில்	sea shore	0	0	1	0
 ரக்பி	rugby	0	0	1	0
-காலத்தால்	periodic	0	0	1	0
-காலத்தால்	period	0	0	1	0
-காலத்தால்	anteriority	0	0	1	0
+நடத்தப்பட்டது	was conducted	0	0	1	0
+நடத்தப்பட்டது	conducted	0	0	1	0
 வகிக்கிறது	living	0	0	1	0
 வகிக்கிறது	hold	0	0	1	0
 வகிக்கிறது	having in position	0	0	1	0
@@ -7784,7 +7630,6 @@
 ஹாக்கி	hockey	0	0	1	0
 பகவத்	bagavath gita a holy book	0	0	1	0
 பகவத்	bhagwat	0	0	1	0
-பகவத்	book	0	0	1	0
 நாட்காட்டி	calendar	0	0	1	0
 நாட்காட்டி	calender	0	0	1	0
 தனிநபர்	single	0	0	1	0
@@ -7823,7 +7668,6 @@
 விளம்பரதாரர்கள்	advertisement company	0	0	1	0
 விளம்பரதாரர்கள்	publicity	0	0	1	0
 இக்கோயில்	this temple	0	0	1	0
-ஒன்றுக்கும்	morethan one	0	0	1	0
 ஒன்றுக்கும்	more than one	0	0	1	0
 ஒன்றுக்கும்	one	0	0	1	0
 யாருக்கு	whose	0	0	1	0
@@ -7844,11 +7688,8 @@
 சிறுசிறு	small/minor	0	0	1	0
 சிறுசிறு	smaller	0	0	1	0
 ஆங்கிலேயர்கள்	britishers	0	0	1	0
-ஆங்கிலேயர்கள்	english people	0	0	1	0
 ஆங்கிலேயர்கள்	english	0	0	1	0
 மன்றம்	association	0	0	1	0
-மன்றம்	forum	0	0	1	0
-இயந்திரங்கள்	instruments	0	0	1	0
 இயந்திரங்கள்	machines	0	0	1	0
 பாதிக்கும்	will affect	0	0	1	0
 பாதிக்கும்	affect	0	0	1	0
@@ -7908,14 +7749,13 @@
 அரசனாக	as ruler	0	0	1	0
 அரசனாக	to become a king	0	0	1	0
 அரசனாக	king	0	0	1	0
-நாளும்	day	0	0	1	0
 நாளும்	day by day	0	0	1	0
+நாளும்	day	0	0	1	0
 பரிணாம	evolutionary	0	0	1	0
 பரிணாம	revolution	0	0	1	0
 பரிணாம	genes	0	0	1	0
 வெள்ள	flood	0	0	1	0
 தனித்தன்மை	uniquness	0	0	1	0
-தனித்தன்மை	individuality	0	0	1	0
 தனித்தன்மை	speciality	0	0	1	0
 கிருஷ்ணன்		0	0	1	0
 கிருஷ்ணன்	krishnan	0	0	1	0
@@ -8054,8 +7894,8 @@
 அவுஸ்திரேலியா	australia	0	0	1	0
 குண்டலகேசி	gundalakesy	0	0	1	0
 மலரின்	flowers	0	0	1	0
-மலரின்	of flower	0	0	1	0
 மலரின்	flower	0	0	1	0
+மலரின்	of flower	0	0	1	0
 இதனை	this	0	0	1	0
 இதனை	it	0	0	1	0
 யானைகளின்	elephant's	0	0	1	0
@@ -8104,11 +7944,9 @@
 நடக்கும்	happen	0	0	1	0
 நடக்கும்	prediction	0	0	1	0
 ஆலை	plant	0	0	1	0
-ஆலை	workshop	0	0	1	0
 இருபதாம்	twentieth	0	0	1	0
 இருபதாம்	20th	0	0	1	0
 மூடி	cover/close	0	0	1	0
-மூடி	close	0	0	1	0
 மூடி	to close	0	0	1	0
 கதைகள்	storys	0	0	1	0
 கதைகள்	stories	0	0	1	0
@@ -8123,7 +7961,6 @@
 வட	north	0	0	1	0
 வட	people of south east requested tigers to bycott the election. after that there is no much change in the except for some new states have been formed. in 1953 there was a division in madras that region where people speak telugu is divided as andhra and where people speak tamil is madras.	0	0	1	0
 பண்பாடுகளை	culture	0	0	1	0
-பண்பாடுகளை	cultures	0	0	1	0
 பண்பாடுகளை	customs	0	0	1	0
 அழுத்தத்தை	pressure	0	0	1	0
 அந்தந்த	the respective	0	0	1	0
@@ -8131,7 +7968,6 @@
 அந்தந்த	seperately	0	0	1	0
 கட்டத்தில்	in that coloumn	0	0	1	0
 கட்டத்தில்	at	0	0	1	0
-கட்டத்தில்	at a moment	0	0	1	0
 அமிலம்	acid	0	0	1	0
 நிலையிலும்	status	0	0	1	0
 நிலையிலும்	position	0	0	1	0
@@ -8194,7 +8030,6 @@
 பதினெண்	register number	0	0	1	0
 பதினெண்	eighteen	0	0	1	0
 இலங்கை	sri lanka	0	0	1	0
-இலங்கை	lanka	0	0	1	0
 இலங்கை	sri lankan	0	0	1	0
 பரவும்	spread	0	0	1	0
 கோள்களின்	satellites	0	0	1	0
@@ -8237,8 +8072,8 @@
 அமெரிக்காவும்	america	0	0	1	0
 அமெரிக்காவும்	america's	0	0	1	0
 செல்ல	go	0	0	1	0
-செல்ல	to	0	0	1	0
 செல்ல	take part	0	0	1	0
+செல்ல	to	0	0	1	0
 தரவை	ajax	0	0	1	0
 தரவை	data	0	0	1	0
 தரவை	examples	0	0	1	0
@@ -8260,8 +8095,6 @@
 ஸ்டேட்	state of a country	0	0	1	0
 வாழ்க	live long	0	0	1	0
 வாழ்க	hail	0	0	1	0
-வாழ்க	live well	0	0	1	0
-பயன்படுத்தும்	usage	0	0	1	0
 பயன்படுத்தும்	using	0	0	1	0
 கோளத்தின்	world	0	0	1	0
 கோளத்தின்	satellite	0	0	1	0
@@ -8289,7 +8122,6 @@
 ஒப்பந்தத்தை	deal	0	0	1	0
 கல்வெட்டுகளில்	inscription	0	0	1	0
 கல்வெட்டுகளில்	engraved	0	0	1	0
-கண்டம்	country	0	0	1	0
 கண்டம்	continent	0	0	1	0
 சிலவகை	some of	0	0	1	0
 சிலவகை	very few vsrieties	0	0	1	0
@@ -8300,7 +8132,6 @@
 வாழ்வினச்	in life	0	0	1	0
 வாழ்வினச்	living index	0	0	1	0
 நாடுகளுடனும்	countrys	0	0	1	0
-நாடுகளுடனும்	countries	0	0	1	0
 நாடுகளுடனும்	between countries	0	0	1	0
 தானம்	donating	0	0	1	0
 தானம்	donor	0	0	1	0
@@ -8318,7 +8149,6 @@
 முகில்	sky	1	1	0	0
 முகில்	circle	1	0	1	0
 முகில்	cloud	1	1	0	1
-மணிக்கு	at the	0	0	1	0
 மணிக்கு	per hour	0	0	1	0
 செப்டம்பர்	september	0	0	1	0
 செவ்வாயின்	saturn	0	0	1	0
@@ -8391,9 +8221,7 @@
 மறுத்து	refused	0	0	1	0
 கூட்டு	joint	0	0	1	0
 கூட்டு	join	0	0	1	0
-கூட்டு	combined	0	0	1	0
 படையெடுத்து	war against	0	0	1	0
-படையெடுத்து	army	0	0	1	0
 படையெடுத்து	to wage a war	0	0	1	0
 மற்றவர்கள்	neighbours	0	0	1	0
 மற்றவர்கள்	others	0	0	1	1
@@ -8474,7 +8302,6 @@
 அதைச்	that	0	0	1	0
 அணை	dam	0	0	1	1
 அணை	bridge	0	0	1	1
-மொழியே	the language	0	0	1	0
 மொழியே	language	0	0	1	0
 உணவாகக்	food	0	0	1	0
 உணவாகக்	as food	0	0	1	0
@@ -8515,8 +8342,6 @@
 வெளியாகும்	release	0	0	1	0
 வெளியாகும்	released	0	0	1	0
 வெளியாகும்	publishing	0	0	1	0
-தேசியவாத	national	0	0	1	0
-தேசியவாத	nationalised	0	0	1	0
 தேசியவாத	nationalist	0	0	1	0
 விரைந்து	speed	0	0	1	0
 விரைந்து	rapidly	0	0	1	0
@@ -8611,7 +8436,6 @@
 முறைகளும்	methods	0	0	1	0
 தென்னிந்திய	south indian	0	0	1	0
 தென்னிந்திய	south india	0	0	1	0
-காரணியாக	reason	0	0	1	0
 காரணியாக	factor	0	0	1	0
 பிரதேசங்கள்	pradesh	0	0	1	0
 பிரதேசங்கள்	pradesh or regional	0	0	1	0
@@ -8640,8 +8464,8 @@
 கணிதம்	mathematics	0	0	1	0
 ஜோதி	jyoti	0	0	1	0
 ஜோதி	torch	0	0	1	0
-மென்பொருள்கள்	acient	0	0	1	0
 மென்பொருள்கள்	electronic items	0	0	1	0
+மென்பொருள்கள்	acient	0	0	1	0
 மென்பொருள்கள்	software	0	0	1	0
 அரச	goverment	0	0	1	0
 அரச	kingly	0	0	1	0
@@ -8658,7 +8482,6 @@
 இதில்	in this	0	0	1	0
 மேற்கொள்ள	rule over	0	0	1	0
 மேற்கொள்ள	carry out	0	0	1	0
-மேற்கொள்ள	to do	0	0	1	0
 அவனிடம்	from his	0	0	1	0
 அவனிடம்	to him	0	0	1	0
 யார்க்	york	0	0	1	0
@@ -8683,7 +8506,6 @@
 சோழன்	cholas	0	0	1	0
 பயன்படுத்துவதை	usage	0	0	1	0
 பயன்படுத்துவதை	using	0	0	1	0
-பயன்படுத்துவதை	to use	0	0	1	0
 பதில்	answer	0	0	1	1
 பதில்	answers	0	0	1	0
 மத்தியப்	middle	0	0	1	0
@@ -8696,9 +8518,7 @@
 தொல்	older	0	0	1	0
 கொடுத்த	given	0	0	1	0
 கொடுத்த	gives	0	0	1	0
-தொலை	distance	0	0	1	1
 தொலை	remote	0	0	1	0
-தொலை	telescope	0	0	1	0
 கெரீடீ	do	1	0	1	0
 கெரீடீ	mojarra	1	1	0	0
 கெரீடீ	doing	1	0	1	0
@@ -8718,9 +8538,9 @@
 நீண்ட	lengthy	0	0	1	0
 நீண்ட	longer	0	0	1	0
 நீண்ட	long	0	0	1	1
-சுட்டிகள்	funnys	0	0	1	0
-சுட்டிகள்	mouse	0	0	1	0
 சுட்டிகள்	a links	0	0	1	0
+சுட்டிகள்	mouse	0	0	1	0
+சுட்டிகள்	funnys	0	0	1	0
 நடைமுறைப்	practical	0	0	1	0
 நடைமுறைப்	in action	0	0	1	0
 மட்டுமின்றி	only	0	0	1	0
@@ -8744,9 +8564,7 @@
 உவமைகள்	examples	0	0	1	0
 நா	na	0	0	1	0
 நா	no	0	0	1	0
-முதலாக	first time	0	0	1	0
-முதலாக	in first	0	0	1	0
-முதலாக	for the first time	0	0	1	0
+சட்டம்	law	0	0	1	1
 தனிமுறை	private network	0	0	1	0
 தனிமுறை	separate proceedure	0	0	1	0
 தனிமுறை	seperately	0	0	1	0
@@ -8763,7 +8581,6 @@
 அகஸ்ட்டஸ்	superior ness	1	0	1	0
 கோரிக்கைகளை	petitions	0	0	1	0
 கோரிக்கைகளை	appeals	0	0	1	0
-கோரிக்கைகளை	demands	0	0	1	0
 மதிப்பீடுகள்	rating	0	0	1	0
 மதிப்பீடுகள்	estimates	0	0	1	0
 மதிப்பீடுகள்	valuations	0	0	1	0
@@ -8855,11 +8672,10 @@
 பிரிவுகளும்	seperations	0	0	1	0
 பிரிவுகளும்	divisions	0	0	1	0
 பிரிவுகளும்	parts	0	0	1	0
-நகரான	city	0	0	1	0
 நகரான	like city	0	0	1	0
 குடியியல்	civil	0	0	1	0
-குடியியல்	immigrants	0	0	1	0
 குடியியல்	democratic	0	0	1	0
+குடியியல்	immigrants	0	0	1	0
 சுற்றுச்	surrounding	0	0	1	0
 சுற்றுச்	our outer	0	0	1	0
 சுற்றுச்	round	0	0	1	0
@@ -8973,25 +8789,21 @@
 கார்த்திகை	november	0	0	1	0
 அடங்குகின்றன	included	0	0	1	0
 அடங்குகின்றன	includes	0	0	1	0
-பழங்காலத்தில்	old years	0	0	1	0
 பழங்காலத்தில்	in old period	0	0	1	0
-பழங்காலத்தில்	olden day	0	0	1	0
-கடன்	credit	0	0	1	0
 கடன்	loan	0	0	1	1
 கடன்	credite	0	0	1	0
 சீனாவுக்கு	for china	0	0	1	0
 சீனாவுக்கு	for chinese	0	0	1	0
 சீனாவுக்கு	to china	0	0	1	0
 நேரவரிசை	timelime	0	0	1	0
-நேரவரிசை	order	0	0	1	0
 நேரவரிசை	time table	0	0	1	0
-சிலி	chile - a south american country	0	0	1	0
-சிலி	sily	0	0	1	0
-சிலி	chile	0	0	1	0
+நேரவரிசை	order	0	0	1	0
+மின்னணுவியல்	electromagnetic	0	0	1	0
+மின்னணுவியல்	electronics	0	0	1	0
+மின்னணுவியல்	electrostatics	0	0	1	0
 ச	sa	0	0	1	0
 கரிம	organic	0	0	1	0
 கரிம	coal react	0	0	1	0
-தேவையில்லை	not nesstery	0	0	1	0
 தேவையில்லை	no need of	0	0	1	0
 தேவையில்லை	unnecessary	0	0	1	0
 வரவில்லை	did not come	0	0	1	0
@@ -9024,13 +8836,11 @@
 பசிபிக்	pacific	0	0	1	0
 உருவாக்குகின்றது	formed	0	0	1	0
 உருவாக்குகின்றது	created	0	0	1	0
-மரங்களின்	tree	0	0	1	0
 மரங்களின்	trees	0	0	1	0
 பொறையன்	porayan	0	0	1	0
 பொறையன்	poraiyan	0	0	1	0
 காலமாக	for a long time	0	0	1	0
 காலமாக	time	0	0	1	0
-விந்து	sperm	0	0	1	1
 விந்து	semen	0	0	1	1
 பிரதமரின்	prime ministerial	0	0	1	0
 பிரதமரின்	the prime minister's	0	0	1	0
@@ -9039,7 +8849,6 @@
 கேப்	cape an island	0	0	1	0
 கொல்கத்தா	kolkata	0	0	1	0
 கொல்கத்தா	kolkatta	0	0	1	0
-பகுப்புஇந்துக்	pakuppuintuk	0	0	1	0
 பகுப்புஇந்துக்	hindu gods	0	0	1	0
 பகுப்புஇந்துக்	variety fo hindus	0	0	1	0
 நிலவிய	prevailed	0	0	1	0
@@ -9049,11 +8858,14 @@
 கடினமான	thick layer	0	0	1	0
 கடினமான	hard	0	0	1	1
 கடினமான	difficult	0	0	1	0
+நடுவே	center	0	0	1	0
+நடுவே	in the middle	0	0	1	0
+நடுவே	centre	0	0	1	0
 வழிமுறைகளை	following	0	0	1	0
 வழிமுறைகளை	principles	0	0	1	0
 வழிமுறைகளை	methods	0	0	1	0
-குறிப்பிட்ட	specific	0	0	1	0
 குறிப்பிட்ட	mentioned	0	0	1	0
+குறிப்பிட்ட	specific	0	0	1	0
 குறிப்பிட்ட	particular	0	0	1	0
 ஆகியவற்றைக்	and	0	0	1	0
 சுருக்கம்	abbreviation	0	0	1	1
@@ -9061,7 +8873,6 @@
 சுருக்கம்	summary	0	0	1	0
 அளிக்கப்படுகிறது	is	0	0	1	0
 அளிக்கப்படுகிறது	given	0	0	1	0
-அளிக்கப்படுகிறது	give	0	0	1	0
 இதயத்தில்	in heart	0	0	1	0
 இதயத்தில்	place in the heart	0	0	1	0
 கடினமாக	be difficult	0	0	1	0
@@ -9094,7 +8905,6 @@
 மட்ட	level	0	0	1	0
 மட்ட	measure	0	0	1	0
 சித்தி	sitthi	0	0	1	0
-சித்தி	aunt	0	0	1	0
 சித்தி	wisdom	0	0	1	0
 கால்கள்	legs	0	0	1	0
 முற்காலச்	past period	0	0	1	0
@@ -9106,7 +8916,6 @@
 மீட்டர்கள்	meters	0	0	1	0
 பிற	other	0	0	1	0
 பிற	others	0	0	1	0
-என்கிற	named	0	0	1	0
 என்கிற	that's like	0	0	1	0
 என்கிற	that	0	0	1	0
 வழக்கமாகும்	a customary	0	0	1	0
@@ -9153,9 +8962,9 @@
 ஏற்படும்	happen	0	0	1	0
 ஏற்படும்	the	0	0	1	0
 ஏற்படும்	causes	0	0	1	0
-பிரபாகரனின்	prabhakar's	0	0	1	0
-பிரபாகரனின்	prabhakaran's	0	0	1	0
 பிரபாகரனின்	prabakaran's	0	0	1	0
+பிரபாகரனின்	prabhakaran's	0	0	1	0
+பிரபாகரனின்	prabhakar's	0	0	1	0
 பெற்றார்	got	0	0	1	0
 பெற்றார்	he received	0	0	1	0
 பெற்றார்	having that	0	0	1	0
@@ -9212,7 +9021,6 @@
 மெழுகு	mezhugu	1	0	1	0
 மெழுகு	wax	1	1	0	0
 கார்த்திக்	karthik	0	0	1	0
-கார்த்திக்	karthik /name of the man	0	0	1	0
 கார்த்திக்	karthick	0	0	1	0
 ஜனவரி	january	0	0	1	0
 கல்வெட்டு	sculpture	0	0	1	0
@@ -9228,13 +9036,11 @@
 முதலியவை	every one	0	0	1	0
 முதலியவை	etc.	0	0	1	0
 முதலியவை	including	0	0	1	0
-செம்படை	cembadai	0	0	1	0
 செம்படை	red forse	0	0	1	0
 செம்படை	auburn	0	0	1	0
 ஊருக்கு	town	0	0	1	0
 ஊருக்கு	in the village	0	0	1	0
 ஆடைகள்	dresses	0	0	1	0
-பலவிதமான	many types of or many kinds of	0	0	1	0
 பலவிதமான	different variety	0	0	1	0
 பலவிதமான	all level	0	0	1	0
 இடைவெளியில்	in between gaps	0	0	1	0
@@ -9273,7 +9079,6 @@
 புதன்	wednesday	0	0	1	0
 மீரா	meera	0	0	1	0
 கட்டிடத்தின்	building	0	0	1	0
-கட்டிடத்தின்	in building	0	0	1	0
 தமிழர்களால்	by tamilians	0	0	1	0
 தமிழர்களால்	tamils	0	0	1	0
 கலைகள்	arts	0	0	1	0
@@ -9293,7 +9098,6 @@
 தோன்றுகிறது	appear	0	0	1	0
 எதிர்க்க	attack	0	0	1	0
 எதிர்க்க	oppose	0	0	1	0
-எதிர்க்க	to oppose	0	0	1	0
 தாமஸ்	thamas	0	0	1	0
 தாமஸ்	thomas	0	0	1	0
 எண்	number	0	0	1	1
@@ -9303,7 +9107,6 @@
 மாவியம்	four	1	0	1	0
 மாவியம்	cellulose	1	1	0	0
 மறுபக்கம்	behind	0	0	1	0
-மறுபக்கம்	another face	0	0	1	0
 மறுபக்கம்	other side	0	0	1	0
 இலையுதிர்	autumn	0	0	1	0
 இலையுதிர்	defoliation	0	0	1	0
@@ -9390,7 +9193,6 @@
 உலகளாவிய	global	0	0	1	0
 முக்குலத்தோர்	three comunity	0	0	1	0
 முக்குலத்தோர்	thevar community	0	0	1	0
-முக்குலத்தோர்	mukulator	0	0	1	0
 உறுப்பினராகவும்	member	0	0	1	0
 உறுப்பினராகவும்	member of	0	0	1	0
 உறுப்பினராகவும்	members	0	0	1	0
@@ -9458,12 +9260,10 @@
 ஈழமக்கள்	eelam people	0	0	1	0
 தளங்களில்	sites	0	0	1	0
 தளங்களில்	site	0	0	1	0
-தளங்களில்	in floor	0	0	1	0
 மறுசுழற்சி	recycle	0	0	1	0
 மறுசுழற்சி	ofter birth	0	0	1	0
 மூர்த்தி	mesuem	0	0	1	0
 மூர்த்தி	idol	0	0	1	0
-மூர்த்தி	moorthi	0	0	1	0
 போஸ்ட்	post	0	0	1	0
 கட்டுப்படுத்தவும்	restrict	0	0	1	0
 கட்டுப்படுத்தவும்	to control	0	0	1	0
@@ -9500,12 +9300,11 @@
 குளிர்காலத்தில்	in winter	0	0	1	0
 குளிர்காலத்தில்	winter	0	0	1	0
 குளிர்காலத்தில்	winter season	0	0	1	0
-குட்டி	kutty	0	0	1	0
 குட்டி	small	0	0	1	0
+குட்டி	kutty	0	0	1	0
 குட்டி	a name in tamil parlance	0	0	1	0
 இதற்காக	for this	0	0	1	0
 இதற்காக	for this also	0	0	1	0
-இதற்காக	for	0	0	1	0
 மண்டலங்கள்	regions	0	0	1	0
 மண்டலங்கள்	divisions	0	0	1	0
 மண்டலங்கள்	zones	0	0	1	0
@@ -9516,7 +9315,6 @@
 வாழைப்பழம்	banana	0	0	1	1
 இதற்கான	the	0	0	1	0
 இதற்கான	for this	0	0	1	0
-இதற்கான	for	0	0	1	0
 இராஜேந்திரனின்	rajendiran a chola king	0	0	1	0
 இராஜேந்திரனின்	rajendiran	0	0	1	0
 இராஜேந்திரனின்	rajendra's	0	0	1	0
@@ -9556,7 +9354,6 @@
 பொருண்மை	a theory	0	0	1	0
 பத்ம	padmabushan award	0	0	1	0
 எதிர்த்துப்	opose	0	0	1	0
-எதிர்த்துப்	opposing	0	0	1	0
 எதிர்த்துப்	oppose	0	0	1	0
 தெற்கிலும்	southern	0	0	1	0
 தெற்கிலும்	in south	0	0	1	0
@@ -9569,15 +9366,12 @@
 இருக்கின்ற	existing	0	0	1	0
 அழைக்கின்றனர்	call	0	0	1	0
 அழைக்கின்றனர்	was called by	0	0	1	0
-அறிஞர்கள்	pandit	0	0	1	0
 அறிஞர்கள்	scholars	0	0	1	0
 உண்டானது	explosh	0	0	1	0
 உண்டானது	came into being	0	0	1	0
 உண்டானது	created	0	0	1	0
 தலைமுறை	generation	0	0	1	1
 தலைமுறை	generations	0	0	1	0
-யாழ்ப்பாணப்	yalpanam	0	0	1	0
-யாழ்ப்பாணப்	city name in srilanga	0	0	1	0
 பரப்பி	spread	0	0	1	0
 வந்தவர்கள்	came who came	0	0	1	0
 வந்தவர்கள்	had came	0	0	1	0
@@ -9605,7 +9399,6 @@
 கூம்புகள்	triangle	0	0	1	0
 கூம்புகள்	cones	0	0	1	0
 அளவும்	length	0	0	1	0
-அளவும்	capacity	0	0	1	0
 அளவும்	measure	0	0	1	0
 இதயத்தின்	heart	0	0	1	0
 இதயத்தின்	the heart	0	0	1	0
@@ -9638,11 +9431,9 @@
 ஏற்பட்டது	created	0	0	1	0
 ஏற்பட்டது	happening	0	0	1	0
 ஏற்பட்டது	there was a	0	0	1	0
-பரவ	spread	0	0	1	0
-பரவ	started to spread	0	0	1	0
+யாழ்ப்பாணப்	yalpanam	0	0	1	0
 நாட்டையும்	county	0	0	1	0
 நாட்டையும்	country	0	0	1	0
-நாட்டையும்	also country	0	0	1	0
 பயன்படுத்துவர்	use	0	0	1	0
 பயன்படுத்துவர்	user	0	0	1	0
 பயன்படுத்துவர்	consumers	0	0	1	0
@@ -9653,9 +9444,9 @@
 உள்ளம்	soul	0	0	1	1
 மார்க்சின்	marx's	0	0	1	0
 மார்க்சின்	marksin	0	0	1	0
-சாதனங்களை	items	0	0	1	0
 சாதனங்களை	instruments	0	0	1	0
 சாதனங்களை	equipments	0	0	1	0
+சாதனங்களை	items	0	0	1	0
 பற்றாக்குறை	deficient	0	0	1	0
 பற்றாக்குறை	scarcity	0	0	1	0
 பற்றாக்குறை	demand	0	0	1	0
@@ -9672,7 +9463,6 @@
 பீட்ரூட்	beet root plant	1	1	0	0
 மில்லியன்	million	0	0	1	0
 முதலாளிகள்	landlords	0	0	1	0
-முதலாளிகள்	bosses	0	0	1	0
 முதலாளிகள்	proprietor	0	0	1	0
 கார்ல்	carl	0	0	1	0
 வகிக்கின்றது	take place	0	0	1	0
@@ -9680,7 +9470,6 @@
 வகிக்கின்றது	in	0	0	1	0
 பெறுமதி	values	0	0	1	0
 பெறுமதி	esteem	0	0	1	0
-பெறுமதி	gift	0	0	1	0
 கலைஞர்கள்	artists	0	0	1	0
 கலைஞர்கள்	actors	0	0	1	0
 கலைஞர்கள்	artist	0	0	1	0
@@ -9706,7 +9495,6 @@
 பாரம்பரியம்	parampariyam	0	0	1	0
 பாரம்பரியம்	traditional	0	0	1	0
 பாரம்பரியம்	heritage	0	0	1	0
-பரவலாகப்	full place	0	0	1	0
 பரவலாகப்	spreaded over	0	0	1	0
 பரவலாகப்	widely	0	0	1	0
 சிலருக்கு	few	0	0	1	0
@@ -9756,7 +9544,6 @@
 கடி	bite	0	0	1	0
 சேரமான்	cheran	0	0	1	0
 சேரமான்	seramaan	0	0	1	0
-சேரமான்	cheramaan	0	0	1	0
 சோதிட	astrology	0	0	1	0
 சோதிட	astrological	0	0	1	0
 சோதிட	horoscope	0	0	1	0
@@ -9799,7 +9586,6 @@
 பாலூட்டிகளில்	mammals	0	0	1	0
 இணையதளம்	website	0	0	1	0
 இணையதளம்	internet	0	0	1	0
-காந்தியும்	also gadhi	0	0	1	0
 காந்தியும்	gandhi	0	0	1	0
 கடை	shop	0	0	1	1
 கடை	last	0	0	1	0
@@ -9815,7 +9601,6 @@
 வைகை	a river vaigai	0	0	1	0
 வைகை	vaigai	0	0	1	0
 வைகை	vaigai river	0	0	1	0
-அப்பொருள்	akapporul	0	0	1	0
 அப்பொருள்	that thing	0	0	1	0
 காலம்	period	0	0	1	0
 காலம்	year	0	0	1	0
@@ -9834,7 +9619,6 @@
 தென்கிழக்கு	south-east	0	0	1	0
 தற்போதய	now a days	0	0	1	0
 தற்போதய	current	0	0	1	0
-தற்போதய	nowthistime	0	0	1	0
 எனப்	likewise	0	0	1	0
 எனப்	means	0	0	1	0
 நடித்து	acting	0	0	1	0
@@ -9864,9 +9648,9 @@
 ஆய்வுகள்	experiments	0	0	1	0
 ஆய்வுகள்	experiment	0	0	1	0
 ஆய்வுகள்	research	0	0	1	0
+ஆய்வுகளை	reserch	0	0	1	0
 ஆய்வுகளை	researches	0	0	1	0
 ஆய்வுகளை	research	0	0	1	0
-ஆய்வுகளை	reserch	0	0	1	0
 அழிவு	destroy	0	0	1	0
 அழிவு	destruction	0	0	1	1
 உருவாக்கலாம்	create	0	0	1	0
@@ -9919,7 +9703,6 @@
 துறைகளை	departments	0	0	1	0
 ஜாவாஸ்கிரிப்ட்	java script	0	0	1	0
 ஜாவாஸ்கிரிப்ட்	javascript	0	0	1	0
-சந்திக்கும்	to meet	0	0	1	0
 சந்திக்கும்	meeting	0	0	1	0
 அச்சில்	print	0	0	1	0
 அச்சில்	in axis	0	0	1	0
@@ -9931,7 +9714,6 @@
 ஊரின்	place	0	0	1	0
 ஊரின்	village	0	0	1	0
 வாழ்நாளில்	in life time	0	0	1	0
-வாழ்நாளில்	lifetime	0	0	1	0
 வாழ்நாளில்	life span	0	0	1	0
 உள்ளார்ந்த	internal	0	0	1	0
 உள்ளார்ந்த	educe	0	0	1	0
@@ -9982,7 +9764,6 @@
 சுருக்கமான	in brief	0	0	1	0
 சுருக்கமான	concise	0	0	1	0
 இசையை	the music	0	0	1	0
-இசையை	music	0	0	1	0
 இசையை	musics	0	0	1	0
 மாநிலத்தின்	states	0	0	1	0
 மாநிலத்தின்	state	0	0	1	0
@@ -9994,9 +9775,6 @@
 சரிவர	not at all	0	0	1	0
 சரிவர	regular	0	0	1	0
 சரிவர	correctly	0	0	1	0
-உருளை	cylinderical	0	0	1	0
-உருளை	cylinder	0	0	1	0
-உருளை	cylindrical	0	0	1	0
 மாறுபாடு	changes	0	0	1	0
 பாண்டி	pandi	0	0	1	0
 பாண்டி	pandya	0	0	1	0
@@ -10046,9 +9824,9 @@
 தொன்மையான	very olden	0	0	1	0
 தொன்மையான	ancient	0	0	1	0
 தொன்மையான	old	0	0	1	0
-அரசுரிமை	government rights	0	0	1	0
-அரசுரிமை	dominion	0	0	1	0
 அரசுரிமை	government right	0	0	1	0
+அரசுரிமை	dominion	0	0	1	0
+அரசுரிமை	government rights	0	0	1	0
 கணக்கியல்	mathematical	0	0	1	0
 கணக்கியல்	mathematics	0	0	1	0
 கணக்கியல்	statistics	0	0	1	0
@@ -10065,7 +9843,6 @@
 சரிவு	slopes	0	0	1	0
 சரிவு	fall	0	0	1	0
 நாடான	country	0	0	1	0
-வசதியை	fesility	0	0	1	0
 வசதியை	feature	0	0	1	0
 வசதியை	facility	0	0	1	0
 பொறியாளர்	engineer	0	0	1	0
@@ -10245,7 +10022,6 @@
 நிர்வாகி	manager	0	0	1	1
 பிஎச்பி	php	0	0	1	0
 வாக்குரிமை	vote	0	0	1	0
-வாக்குரிமை	voting right	0	0	1	0
 வாக்குரிமை	voting right or franchise	0	0	1	0
 மதத்தின்	religion	0	0	1	0
 பத்திரிக்கை	news paper	0	0	1	0
@@ -10254,8 +10030,8 @@
 ஜூன்	june	0	0	1	0
 ஜூன்	month june	0	0	1	0
 சேது	sedhu	0	0	1	0
-குழுவை	in group	0	0	1	0
 குழுவை	group	0	0	1	0
+குழுவை	in group	0	0	1	0
 குழுவை	team	0	0	1	0
 நேஷனல்	national	0	0	1	0
 பொத்தான்	buttons	1	1	0	0
@@ -10276,7 +10052,6 @@
 என்பதைக்	to that	0	0	1	0
 என்பதைக்	as	0	0	1	0
 என்பதைக்	that	0	0	1	0
-யூதர்கள்	yuders	0	0	1	0
 யூதர்கள்	jews	0	0	1	0
 நாயகன்	hero	0	0	1	0
 நாயகன்	man	0	0	1	0
@@ -10355,7 +10130,6 @@
 அதிநுண்ணுயிரி	shakeel	1	0	1	0
 அதிநுண்ணுயிரி	protits	1	1	0	0
 பயன்படுத்துதல்	usage	0	0	1	0
-பயன்படுத்துதல்	use	0	0	1	0
 பயன்படுத்துதல்	utilised	0	0	1	0
 குறிப்பில்	notes	0	0	1	0
 குறிப்பில்	in the mentions	0	0	1	0
@@ -10368,8 +10142,9 @@
 சமணம்	jainsm	0	0	1	0
 சமணம்	samanam	0	0	1	0
 பெர்ள்	perl	0	0	1	0
+மெல்லிய	slim	0	0	1	0
+மெல்லிய	thin	0	0	1	0
 சூரியனுக்கு	the sun	0	0	1	0
-சூரியனுக்கு	sun	0	0	1	0
 சூரியனுக்கு	for sun	0	0	1	0
 பிளாக்	lock	0	0	1	0
 பிளாக்	black	0	0	1	0
@@ -10410,7 +10185,6 @@
 பகுதிகளிலிருந்து	from areas	0	0	1	0
 பகுதிகளிலிருந்து	from the parts	0	0	1	0
 பகுதிகளிலிருந்து	apart	0	0	1	0
-நகராட்சி	municipal	0	0	1	0
 நகராட்சி	district	0	0	1	0
 நகராட்சி	muncipal	0	0	1	0
 கைக்	hands	0	0	1	0
@@ -10426,7 +10200,6 @@
 பூங்காக்கள்	park	0	0	1	0
 பூங்காக்கள்	parks	0	0	1	0
 கரையில்	shore	0	0	1	0
-கரையில்	ashore	0	0	1	0
 இருக்கின்றது	it is there	0	0	1	0
 இருக்கின்றது	has	0	0	1	0
 இருக்கின்றது	there is	0	0	1	0
@@ -10450,7 +10223,6 @@
 வானியல்	astronomy	0	0	1	0
 வானியல்	astrology	0	0	1	0
 உருசியா	russia	0	0	1	0
-கலித்தொகை	kalittokai	0	0	1	0
 கலித்தொகை	tamjl poem	0	0	1	0
 சமகால	same period	0	0	1	0
 சமகால	equality	0	0	1	0
@@ -10492,17 +10264,16 @@
 மன்னா	mannu	1	1	0	0
 குருதியின்	through blood	0	0	1	0
 குருதியின்	blood	0	0	1	0
-சாராத	non-	0	0	1	0
 சாராத	non	0	0	1	0
+சாராத	non-	0	0	1	0
 சாராத	its type	0	0	1	0
 பண்டை	olden	0	0	1	0
-பண்டை	old	0	0	1	0
 பண்டை	antiquity	0	0	1	1
 அரசராக	arasaraga	0	0	1	0
 அரசராக	as ruler	0	0	1	0
 அரசராக	king	0	0	1	0
-திருமண	marriage	0	0	1	0
 திருமண	marriage or wedding	0	0	1	0
+திருமண	marriage	0	0	1	0
 திருமண	wedding	0	0	1	0
 உருவாக்குவது	creation	0	0	1	0
 உருவாக்குவது	creating	0	0	1	0
@@ -10582,7 +10353,6 @@
 காரணமாய்	cause	0	0	1	0
 காரணமாய்	as reason	0	0	1	0
 குறித்தும்	about	0	0	1	0
-குறித்தும்	denoting	0	0	1	0
 குறித்தும்	to be noted	0	0	1	0
 அறியப்படுகின்றன	known	0	0	1	0
 அறியப்படுகின்றன	make known	0	0	1	0
@@ -10622,7 +10392,6 @@
 வடக்கிலும்	in west	0	0	1	0
 செலுத்திய	exerted	0	0	1	0
 செலுத்திய	imposed	0	0	1	0
-செலுத்திய	paid	0	0	1	0
 தேவையை	need	0	0	1	0
 பாரிஸ்	paris	0	0	1	0
 மருத்துவர்	doctor	0	0	1	1
@@ -10643,7 +10412,6 @@
 பிரச்சாரம்	propaganda	0	0	1	0
 பிரச்சாரம்	campaign	0	0	1	0
 பாதுகாப்பான	safest	0	0	1	0
-பாதுகாப்பான	safety	0	0	1	0
 பாதுகாப்பான	secure	0	0	1	0
 கட்சியின்	party	0	0	1	0
 டைசர்	promises	1	0	1	0
@@ -10654,7 +10422,6 @@
 டைசர்	dicer	1	1	0	0
 சுற்றி	hammer	0	0	1	0
 சுற்றி	around	0	0	1	0
-சுற்றி	surround	0	0	1	0
 சுயேச்சை	karunethe	0	0	1	0
 சுயேச்சை	independent	0	0	1	0
 கருக்கலைப்பு	abortion	0	0	1	1
@@ -10687,7 +10454,6 @@
 கூட்ட	assemble	0	0	1	0
 கூட்ட	meeting	0	0	1	0
 நிலையத்தின்	station	0	0	1	0
-நிலையத்தின்	stand	0	0	1	0
 நாடுகளுக்கும்	country	0	0	1	0
 நாடுகளுக்கும்	in between countries	0	0	1	0
 நாடுகளுக்கும்	countries	0	0	1	0
@@ -10704,7 +10470,6 @@
 கொண்டுள்ள	that type	0	0	1	0
 கொண்டுள்ள	having with	0	0	1	0
 கொண்டுள்ள	having	0	0	1	0
-மேற்கத்தைய	culture	0	0	1	0
 மேற்கத்தைய	western	0	0	1	0
 ஜீவன்	life	0	0	1	1
 ஜீவன்	living thing	0	0	1	0
@@ -10728,9 +10493,7 @@ $	$	0	0	1	0
 விளைவாக	effect	0	0	1	0
 விளைவாக	effects	0	0	1	0
 விளைவாக	as a result of	0	0	1	0
-வேண்டும்	need	0	0	1	1
-வேண்டும்	to do that	0	0	1	0
-வேண்டும்	wanted	0	0	1	0
+சுற்றிலும்	around	0	0	1	0
 தலைமை	head	0	0	1	0
 தலைமை	leadership	0	0	1	1
 தலைமை	chief	0	0	1	0
@@ -10742,7 +10505,6 @@ $	$	0	0	1	0
 காப்புரிமை	patent right	0	0	1	0
 காப்புரிமை	copyrights	0	0	1	0
 காப்புரிமை	rights	0	0	1	0
-நீலகிரி	ooty	0	0	1	0
 நீலகிரி	nilgiris	0	0	1	0
 நீலகிரி	the nilgiris mountain	0	0	1	0
 பெறலாம்	can be had	0	0	1	0
@@ -10804,15 +10566,12 @@ $	$	0	0	1	0
 இராசேந்திர	rajaraja chola	0	0	1	0
 தேர்ந்த	expertised	0	0	1	0
 தேர்ந்த	selected	0	0	1	0
-தேர்ந்த	expert	0	0	1	0
 அழியாத	non destroyable	0	0	1	0
 அழியாத	does not disappear	0	0	1	0
 அழியாத	destroid	0	0	1	0
 உள்ளடக்கும்	content	0	0	1	0
 உள்ளடக்கும்	including that	0	0	1	0
-உள்ளடக்கும்	include	0	0	1	0
 மையப்பகுதியில்	center region	0	0	1	0
-மையப்பகுதியில்	center	0	0	1	0
 மையப்பகுதியில்	central force	0	0	1	0
 வழங்குதல்	giving	0	0	1	0
 வழங்குதல்	distributed	0	0	1	0
@@ -10854,7 +10613,6 @@ $	$	0	0	1	0
 இவர்களுக்கு	for them	0	0	1	0
 இவர்களுக்கு	the	0	0	1	0
 இவர்களுக்கு	for these peoples	0	0	1	0
-ஆஸ்திரியாஹங்கேரி	contry name.. austhirya and hungary	0	0	1	0
 சுட்டிக்	blame	0	0	1	0
 சுட்டிக்	point out	0	0	1	0
 சுட்டிக்	pointed (pointed at the mistakes)	0	0	1	0
@@ -10877,8 +10635,8 @@ $	$	0	0	1	0
 சீர்திருத்தம்	reformation	0	0	1	0
 சீர்திருத்தம்	recorrection	0	0	1	0
 நாராயணன்	narayanan	0	0	1	0
-வேறுபாடுகளும்	difference	0	0	1	0
 வேறுபாடுகளும்	differences	0	0	1	0
+வேறுபாடுகளும்	difference	0	0	1	0
 சிறிதளவே	slightly more	0	0	1	0
 சிறிதளவே	little	0	0	1	0
 சிறிதளவே	mild	0	0	1	0
@@ -10938,8 +10696,6 @@ $	$	0	0	1	0
 பயனர்களுக்கு	end users	0	0	1	0
 இறுதித்	finally	0	0	1	0
 இறுதித்	final	0	0	1	0
-பரப்பு	surfase	0	0	1	0
-பரப்பு	area	0	0	1	1
 உட்பிரிவுகள்	subdivisions	0	0	1	0
 உட்பிரிவுகள்	sub sections	0	0	1	0
 உட்பிரிவுகள்	sub division	0	0	1	0
@@ -10981,9 +10737,7 @@ $	$	0	0	1	0
 நெருக்கமாக	closely	0	0	1	0
 விளக்கும்	to be understood	0	0	1	0
 விளக்கும்	is	0	0	1	0
-விளக்கும்	describing	0	0	1	0
 காட்டிலும்	in the forest	0	0	1	0
-காட்டிலும்	than	0	0	1	1
 காட்டிலும்	forest	0	0	1	0
 கொடுத்தார்	he given	0	0	1	0
 கொடுத்தார்	he/she gave	0	0	1	0
@@ -11001,12 +10755,10 @@ $	$	0	0	1	0
 மகான்	great	0	0	1	0
 மகான்	legend	0	0	1	0
 மகான்	highly genious people accepted by people in higher concern	0	0	1	0
-வருக்கம்	race	0	0	1	0
 வருக்கம்	letters	0	0	1	0
 கலிபோர்னியா	california	0	0	1	1
 மக்களே	people	0	0	1	0
 சென்னை	chennai	0	0	1	0
-எழுத்துக்களின்	letters	0	0	1	0
 எழுத்துக்களின்	in letters	0	0	1	0
 எழுத்துக்களின்	words	0	0	1	0
 மக்களை	people	0	0	1	0
@@ -11014,7 +10766,6 @@ $	$	0	0	1	0
 ரெட்	tiemark red and stoke red are examples of apple varieties. washington state in america became famous by growing "red delicious" variety apples	0	0	1	0
 மக்கள்	people	0	0	1	1
 துவங்கி	beginning	0	0	1	0
-துவங்கி	begin	0	0	1	0
 துவங்கி	starting	0	0	1	0
 கட்டி	tumor	0	0	1	0
 கட்டி	build	0	0	1	0
@@ -11061,8 +10812,6 @@ $	$	0	0	1	0
 கொள்கைக்கு	resolution	0	0	1	0
 கொள்கைக்கு	principles	0	0	1	0
 கருத்தாகும்	opinion	0	0	1	0
-கருத்தாகும்	concept	0	0	1	0
-கருத்தாகும்	messages	0	0	1	0
 பூரான்	mercy	1	0	1	0
 பூரான்	centiped	1	0	1	0
 பூரான்	compassion	1	0	1	0
@@ -11093,7 +10842,6 @@ $	$	0	0	1	0
 அமைக்கப்பட்டுள்ளன	situated	0	0	1	0
 அமைக்கப்பட்டுள்ளன	up	0	0	1	0
 கூறப்பட்டுள்ளன	according to that	0	0	1	0
-கூறப்பட்டுள்ளன	to said	0	0	1	0
 கூறப்பட்டுள்ளன	cites	0	0	1	0
 நாடாளுமன்ற	parliment	0	0	1	0
 நாடாளுமன்ற	parliament	0	0	1	0
@@ -11136,7 +10884,6 @@ $	$	0	0	1	0
 இயற்றியவர்	who wrote	0	0	1	0
 இயற்றியவர்	was written by	0	0	1	0
 தெற்கு	south	0	0	1	1
-பாதுகாப்பற்ற	insecured	0	0	1	0
 பாதுகாப்பற்ற	unsafe	0	0	1	0
 பாதுகாப்பற்ற	un secure	0	0	1	0
 முறையானது	a method of rule	0	0	1	0
@@ -11185,12 +10932,10 @@ $	$	0	0	1	0
 சிங்	bagath singh	0	0	1	0
 தீர்மானிக்கும்	deciding	0	0	1	0
 தீர்மானிக்கும்	decision	0	0	1	0
-தீர்மானிக்கும்	settlement	0	0	1	0
 கிடக்கின்றன	having that	0	0	1	0
 கிடக்கின்றன	settings	0	0	1	0
 தமிழா	tamila	0	0	1	0
 தமிழா	tamils	0	0	1	0
-செய்வதற்கும்	to	0	0	1	0
 செய்வதற்கும்	to make	0	0	1	0
 செய்வதற்கும்	dying	0	0	1	0
 மரபினர்	race	0	0	1	0
@@ -11231,8 +10976,8 @@ $	$	0	0	1	0
 வளிமங்களின்	air	0	0	1	0
 இவைகளுக்கு	for these	0	0	1	0
 இவைகளுக்கு	for this	0	0	1	0
-கட்டுப்பாட்டின்	under control	0	0	1	0
 கட்டுப்பாட்டின்	control	0	0	1	0
+கட்டுப்பாட்டின்	under control	0	0	1	0
 ஓடி	run	0	0	1	0
 இடத்திலிருந்து	from that place	0	0	1	0
 இடத்திலிருந்து	place	0	0	1	0
@@ -11262,6 +11007,8 @@ $	$	0	0	1	0
 பாறை	rocks	0	0	1	0
 உங்கள்	yours	0	0	1	0
 உங்கள்	your	0	0	1	0
+ஏவுகணைகள்	missiles	0	0	1	0
+ஏவுகணைகள்	missile	0	0	1	0
 ஐரோப்பியக்	europe	0	0	1	0
 ஐரோப்பியக்	during early days only few europeans were living in kanig hill fort and on the river bed. european continent is situated beyond southwest. but this is announced as first step for european collision governments rule	0	0	1	0
 ஐரோப்பியக்	european	0	0	1	0
@@ -11300,7 +11047,6 @@ $	$	0	0	1	0
 தகுதி	status	0	0	1	1
 தகுதி	qualified	0	0	1	0
 தகுதி	qualification	0	0	1	1
-சார்	not know	0	0	1	0
 சார்	sir	0	0	1	0
 நின்றது	stopped	0	0	1	0
 நின்றது	in field	0	0	1	0
@@ -11389,7 +11135,6 @@ $	$	0	0	1	0
 பள்ளி	school	0	0	1	1
 மொழிகளான	languages	0	0	1	0
 மொழிகளான	lanuages	0	0	1	0
-வருடமும்	year	0	0	1	0
 வருடமும்	years	0	0	1	0
 முறையான	proper	0	0	1	0
 முறையான	respective	0	0	1	0
@@ -11424,7 +11169,6 @@ $	$	0	0	1	0
 பொருள்களை	objects	0	0	1	0
 பொருள்களை	products	0	0	1	0
 செயற்கைகோள்களின்	satellites	0	0	1	0
-செயற்கைகோள்களின்	satilite	0	0	1	0
 செயற்கைகோள்களின்	satelite	0	0	1	0
 சொல்லுக்கு	word	0	0	1	0
 சொல்லுக்கு	words	0	0	1	0
@@ -11433,7 +11177,6 @@ $	$	0	0	1	0
 தவிர்க்க	to avoid	0	0	1	0
 தவிர்க்க	exclude	0	0	1	0
 தவிர்க்க	avoid	0	0	1	0
-வரையும்	upto	0	0	1	0
 வரையும்	till	0	0	1	0
 வரையும்	draw	0	0	1	0
 சோழர்கள்	chola	0	0	1	0
@@ -11466,8 +11209,8 @@ $	$	0	0	1	0
 எச்சரிக்கை	warning	0	0	1	1
 எச்சரிக்கை	caution	0	0	1	1
 காலப்	year	0	0	1	0
-காலப்	period	0	0	1	0
 காலப்	periods	0	0	1	0
+காலப்	period	0	0	1	0
 மெய்	consonant	0	0	1	1
 மெய்	true	0	0	1	0
 ஒலிப்பியல்	sound	1	1	0	0
@@ -11507,14 +11250,12 @@ $	$	0	0	1	0
 மாநகராட்சி	corporation	0	0	1	0
 அளவிலான	amount of	0	0	1	0
 ஆல்	all	0	0	1	0
-ஆல்	by	0	0	1	0
 பாடினார்	sang	0	0	1	0
 பாடினார்	sung	0	0	1	0
 பாடினார்	sing	0	0	1	0
 அளவுகளில்	levels of	0	0	1	0
 அளவுகளில்	measures	0	0	1	0
 உருவாக்கினார்	was created	0	0	1	0
-உருவாக்கினார்	creator	0	0	1	0
 உருவாக்கினார்	created	0	0	1	0
 பெரும்பான்மையாக	majority	0	0	1	0
 ஆயிற்று	over	0	0	1	0
@@ -11528,8 +11269,8 @@ $	$	0	0	1	0
 வெள்ளீயம்	silver	1	0	1	0
 வெள்ளீயம்	bronze	1	0	1	0
 கோட்பாட்டை	theme	0	0	1	0
-கோட்பாட்டை	principles	0	0	1	0
 கோட்பாட்டை	principle	0	0	1	0
+கோட்பாட்டை	principles	0	0	1	0
 உண்ணும்	to eat	0	0	1	0
 உண்ணும்	eating	0	0	1	0
 யூத	judas	0	0	1	0
@@ -11628,7 +11369,7 @@ $	$	0	0	1	0
 சிகாகோ	sicaco	0	0	1	0
 சிகாகோ	chicago(country)	0	0	1	0
 சிகாகோ	place	0	0	1	0
-நானூறு	four hundred	0	0	1	1
+நானூறு	four hundred	0	0	1	0
 நியான்	neon a gas	1	1	0	0
 நியான்	nion	1	1	0	0
 நியான்	neon	1	1	0	0
@@ -11647,7 +11388,6 @@ $	$	0	0	1	0
 வேறுபாடுகளைக்	differences/variations	0	0	1	0
 கண்டது	seen	0	0	1	0
 கண்டது	saw	0	0	1	0
-அதிகாரப்பூர்வமாக	orderly	0	0	1	0
 அதிகாரப்பூர்வமாக	officially authorised	0	0	1	0
 அதிகாரப்பூர்வமாக	on atigarapurvam	0	0	1	0
 ஒன்றுக்கு	only one	0	0	1	0
@@ -11674,7 +11414,6 @@ $	$	0	0	1	0
 இருப்பிடம்	living place	0	0	1	0
 இடாய்ச்சு	edaychu	0	0	1	0
 இடாய்ச்சு	idayachu a name	0	0	1	0
-இடாய்ச்சு	itayccu	0	0	1	0
 சாதி	cast	0	0	1	0
 சாதி	caste	0	0	1	0
 அதிகாரப்பூர்வமான	authorised	0	0	1	0
@@ -11700,10 +11439,8 @@ $	$	0	0	1	0
 படிக்கும்	reading	0	0	1	0
 அவர்களது	theirs	0	0	1	0
 அவர்களது	their	0	0	1	0
-பரிசுகள்	gifts	0	0	1	0
 பரிசுகள்	prizes	0	0	1	0
 கார்	car	0	0	1	1
-கார்	car/ english word	0	0	1	0
 வளர்ச்சியில்	growth	0	0	1	0
 வளர்ச்சியில்	growth in	0	0	1	0
 செருமனியில்	in german	0	0	1	0
@@ -11728,7 +11465,6 @@ $	$	0	0	1	0
 அவற்றுடன்	including	0	0	1	0
 அவற்றுடன்	including that	0	0	1	0
 சைவ	vegetarian	0	0	1	0
-சைவ	sanscript word	0	0	1	0
 உள்ளே	inside	0	0	1	1
 உள்ளே	in	0	0	1	0
 உறுப்பினர்களைக்	memners	0	0	1	0
@@ -11788,7 +11524,6 @@ $	$	0	0	1	0
 டைபர்	tiber river in italy	1	0	1	0
 பாஞ்சாலி	panjali	0	0	1	0
 பெறுகிறது	get	0	0	1	0
-பெறுகிறது	gettingplace	0	0	1	0
 பெறுகிறது	getting	0	0	1	0
 நீலம்	blue	0	0	1	1
 சேக்சுபியரின்	sakespeare	0	0	1	0
@@ -11799,7 +11534,7 @@ $	$	0	0	1	0
 தலைவராகவும்	capital	0	0	1	0
 மாரியம்மன்	it's a one of the name of female god in india	0	0	1	0
 மாரியம்மன்	mariamman a goddess	0	0	1	0
-காலையில்	in the morning	0	0	1	1
+காலையில்	in the morning	0	0	1	0
 காலையில்	morning	0	0	1	0
 அலகுகள்	units	0	0	1	0
 எனக்	self	0	0	1	0
@@ -11813,7 +11548,6 @@ $	$	0	0	1	0
 தொழில்துறை	industrialisation	0	0	1	0
 ப	pa a letter in tamil	0	0	1	0
 ப	pa	0	0	1	0
-வில்லை	capsule	0	0	1	0
 வில்லை	not known	0	0	1	0
 வில்லை	no	0	0	1	0
 சங்க	sangam	0	0	1	0
@@ -11822,7 +11556,6 @@ $	$	0	0	1	0
 உடையார்	udayar a community	0	0	1	0
 உடையார்	udayar	0	0	1	0
 உடையார்	udaiyaar	0	0	1	0
-போர்ட்	food and nutrisun	0	0	1	0
 போர்ட்	port	0	0	1	0
 போர்ட்	new port	0	0	1	0
 பாதி	half	0	0	1	1
@@ -11872,7 +11605,6 @@ $	$	0	0	1	0
 மேற்கொண்டது	further planned	0	0	1	0
 தமிழர்	tamilian	0	0	1	0
 தமிழர்	thamizhan	0	0	1	0
-கொண்டிருந்தனர்	they have.	0	0	1	0
 கொண்டிருந்தனர்	they had	0	0	1	0
 கொண்டிருந்தனர்	have them	0	0	1	0
 தமக்கு	self	0	0	1	0
@@ -11894,9 +11626,7 @@ $	$	0	0	1	0
 உதவினர்	they help	0	0	1	0
 உரிமைகளைப்	rights	0	0	1	0
 உதவுகின்றது	help	0	0	1	0
-உதவுகின்றது	helps	0	0	1	0
 உதவுகின்றது	to help	0	0	1	0
-கட்டிடங்களும்	also buildings	0	0	1	0
 கட்டிடங்களும்	buildings	0	0	1	0
 நூலில்	books	0	0	1	0
 நூலில்	in the texts	0	0	1	0
@@ -11916,7 +11646,6 @@ $	$	0	0	1	0
 குதிரை	horse	0	0	1	1
 கர்நாடக	carnatic music	0	0	1	0
 கர்நாடக	karnatic	0	0	1	0
-கர்நாடக	carnatic	0	0	1	0
 நீர்மூழ்கிக்	submarine	0	0	1	0
 நீர்மூழ்கிக்	submerine	0	0	1	0
 நீர்மூழ்கிக்	submermisible	0	0	1	0
@@ -11945,8 +11674,6 @@ $	$	0	0	1	0
 ஒருவன்	one person	0	0	1	0
 ஒருவன்	one man	0	0	1	0
 பண்டைத்	pantait	0	0	1	0
-பண்டைத்	ancient	0	0	1	0
-பண்டைத்	olden grammer	0	0	1	0
 எனப்படுகிறது	called as	0	0	1	0
 எனப்படுகிறது	is called	0	0	1	0
 எனப்படுகிறது	is known as	0	0	1	0
@@ -11999,23 +11726,19 @@ $	$	0	0	1	0
 கோடிக்கணக்கான	in crores	0	0	1	0
 கோடிக்கணக்கான	crores	0	0	1	0
 நியூயார்க்	new york city	0	0	1	0
-நியூயார்க்	new york	0	0	1	1
+நியூயார்க்	new york	0	0	1	0
 சுட்டும்	index	0	0	1	0
 சுட்டும்	indicate	0	0	1	0
 இணைப்புத்	connections	0	0	1	0
-இணைப்புத்	joint	0	0	1	0
 இணைப்புத்	connection	0	0	1	0
 மூலக்கூறு	molecule	0	0	1	0
-மூலக்கூறு	subdivision	0	0	1	0
 மூலக்கூறு	molecules	0	0	1	0
-மூலக்கூறு	atom	0	0	1	0
 மிஷினரீஸ்	machineries	0	0	1	0
 மிஷினரீஸ்	missionaries for charities	0	0	1	0
 மிஷினரீஸ்	missionaries	0	0	1	0
 வாங்கும்	buying	0	0	1	0
 வாங்கும்	purchasing	0	0	1	0
 வாங்கும்	to purchase or to get	0	0	1	0
-வென்று	win	0	0	1	0
 வென்று	won	0	0	1	0
 வென்று	victory	0	0	1	0
 பட்டியலில்	list	0	0	1	0
@@ -12046,7 +11769,6 @@ $	$	0	0	1	0
 வட்டார	taluk	0	0	1	0
 வட்டார	regional	0	0	1	0
 மாவட்டங்களை	districts	0	0	1	0
-கோட்டை	palase	0	0	1	0
 கோட்டை	fort	0	0	1	1
 மீனாட்சி	a tamil god name	0	0	1	0
 மீனாட்சி	meenakshi	0	0	1	0
@@ -12083,7 +11805,9 @@ $	$	0	0	1	0
 வேதிப்	chemical	0	0	1	0
 மாசடைதல்	polluted	0	0	1	0
 மாசடைதல்	pollution	0	0	1	0
-மவுண்ட்	mount	0	0	1	0
+இணையத்தின்	about internet	0	0	1	0
+இணையத்தின்	web	0	0	1	0
+இணையத்தின்	internet	0	0	1	0
 நாட்டு	country	0	0	1	0
 நாட்டு	countries	0	0	1	0
 நாட்டு	nation	0	0	1	0
@@ -12176,7 +11900,6 @@ $	$	0	0	1	0
 தரை	ground	0	0	1	1
 மின்னஞ்சலில்	electronic mail	0	0	1	0
 மின்னஞ்சலில்	e-mail	0	0	1	0
-மின்னஞ்சலில்	in mail	0	0	1	0
 செய்தியின்	news	0	0	1	0
 செய்தியின்	for the news	0	0	1	0
 அண்டங்கள்	world	0	0	1	0
@@ -12232,7 +11955,6 @@ $	$	0	0	1	0
 நாளிதழ்கள்	news paper	0	0	1	0
 நாளிதழ்கள்	newspaper	0	0	1	0
 முழுதும்	all over	0	0	1	0
-முழுதும்	full	0	0	1	0
 அதிகாரம்	authority	0	0	1	1
 அதிகாரம்	power	0	0	1	1
 நாம்	we	0	0	1	1
@@ -12245,7 +11967,6 @@ $	$	0	0	1	0
 இலங்கையின்	sri lanka's	0	0	1	0
 இலங்கையின்	srilanka's	0	0	1	0
 இலங்கையின்	sril lanka's	0	0	1	0
-வளைவு	turning	0	0	1	0
 வளைவு	curve	0	0	1	0
 வளைவு	bend	0	0	1	1
 புள்ளிவிவர	statistics	0	0	1	0
@@ -12261,7 +11982,6 @@ $	$	0	0	1	0
 நிலம்	earth	0	0	1	0
 நிலம்	land	0	0	1	0
 அக்னி	fire	0	0	1	0
-அக்னி	star	0	0	1	0
 மாற்றும்	convert	0	0	1	0
 மாற்றும்	to change	0	0	1	0
 மாற்றும்	will change	0	0	1	0
@@ -12288,14 +12008,13 @@ $	$	0	0	1	0
 வைக்கப்பட்டுள்ள	is kept that	0	0	1	0
 சத்திய	promise	0	0	1	0
 சத்திய	truth	0	0	1	0
-காப்பியங்களில்	epic	0	0	1	0
 காப்பியங்களில்	epics	0	0	1	0
 காப்பியங்களில்	in epic	0	0	1	0
 சாஸ்திரத்தை	rules	0	0	1	0
 சாஸ்திரத்தை	literature	0	0	1	0
 சாஸ்திரத்தை	instructions	0	0	1	0
-குறிப்பிட்டார்	he mentioned	0	0	1	0
 குறிப்பிட்டார்	mentioned	0	0	1	0
+குறிப்பிட்டார்	he mentioned	0	0	1	0
 குறிப்பிட்டார்	noted	0	0	1	0
 ஆக	so	0	0	1	0
 ஆக	including	0	0	1	0
@@ -12346,8 +12065,8 @@ $	$	0	0	1	0
 பசிபிக்கில்	pacific	0	0	1	0
 கழகத்தின்	club	0	0	1	0
 கழகத்தின்	party	0	0	1	0
-தொடங்கப்பட்ட	started	0	0	1	0
 தொடங்கப்பட்ட	originated	0	0	1	0
+தொடங்கப்பட்ட	started	0	0	1	0
 கட்டப்பட்ட	built	0	0	1	0
 கட்டப்பட்ட	build	0	0	1	0
 சுண்ணாம்பு	lime stone	0	0	1	0
@@ -12371,8 +12090,8 @@ $	$	0	0	1	0
 விவரம்	information	0	0	1	0
 விவரம்	detail	0	0	1	0
 யாதெனில்	of that	0	0	1	0
-யாதெனில்	that means	0	0	1	0
 யாதெனில்	whose adherents	0	0	1	0
+யாதெனில்	that means	0	0	1	0
 நுண்ணறிவு	micro genius	0	0	1	0
 நுண்ணறிவு	knowledge	0	0	1	0
 நுண்ணறிவு	intelectual	0	0	1	0
@@ -12406,9 +12125,8 @@ $	$	0	0	1	0
 மூலையில்	in corner	0	0	1	0
 மூலையில்	in the corner	0	0	1	0
 மூலையில்	corner	0	0	1	0
-புனிதமான	divine	0	0	1	0
-புனிதமான	sacred	0	0	1	0
-புனிதமான	holy	0	0	1	0
+காம	kama	0	0	1	0
+காம	sex	0	0	1	0
 கால	period	0	0	1	0
 முடிவுற்றது	ended	0	0	1	0
 முடிவுற்றது	endless	0	0	1	0
@@ -12419,9 +12137,7 @@ $	$	0	0	1	0
 தீபகற்பத்தின்	iland	0	0	1	0
 மாற்றுகிறது	changing	0	0	1	0
 மாற்றுகிறது	to change	0	0	1	0
-கட்டுப்பாடு	control	0	0	1	1
 கட்டுப்பாடு	regulations	0	0	1	0
-கட்டுப்பாடு	strict	0	0	1	0
 விழும்	falling	0	0	1	0
 விழும்	fall	0	0	1	0
 கவனிக்க	observe	0	0	1	0
@@ -12432,9 +12148,9 @@ $	$	0	0	1	0
 தோற்றுவித்த	founded	0	0	1	0
 தோற்றுவித்த	created by	0	0	1	0
 நிலங்கள்	lands	0	0	1	0
-பருவக்காற்று	seasonal monsoon	0	0	1	0
-பருவக்காற்று	airy time	0	0	1	0
 பருவக்காற்று	monsoon wind	0	0	1	0
+பருவக்காற்று	airy time	0	0	1	0
+பருவக்காற்று	seasonal monsoon	0	0	1	0
 சண்டையில்	war	0	0	1	0
 சண்டையில்	in this war	0	0	1	0
 சண்டையில்	fight	0	0	1	0
@@ -12459,11 +12175,9 @@ $	$	0	0	1	0
 எச்.டி.எம்.எல்	h.t.m.l	1	1	0	0
 எச்.டி.எம்.எல்	cultures	1	0	1	0
 தேவர்	deva	0	0	1	0
-தேவர்	devar	0	0	1	0
 தேவர்	daver	0	0	1	0
 ஏதாவதொரு	any one	0	0	1	0
 ஏதாவதொரு	anything	0	0	1	0
-பேரரசுகள்	empires	0	0	1	0
 பேரரசுகள்	empire	0	0	1	0
 பேரரசுகள்	great kingdoms	0	0	1	0
 கூறப்படுகின்றது	telling	0	0	1	0
@@ -12552,7 +12266,7 @@ $	$	0	0	1	0
 அமைக்கும்	sets	0	0	1	0
 நட்புறவு	friendly relations	0	0	1	0
 நட்புறவு	friendship	0	0	1	0
-எவ்வளவு	how much	0	0	1	1
+எவ்வளவு	how much	0	0	1	0
 எவ்வளவு	how many (by how many years back)	0	0	1	0
 மாம்பா	takes	1	0	1	0
 மாம்பா	taking	1	0	1	0
@@ -12564,10 +12278,9 @@ $	$	0	0	1	0
 மாம்பா	mamba	1	1	0	0
 மாம்பா	name of a poisonous snake	1	1	0	0
 மாம்பா	take	1	0	1	0
-முடிந்த	finished	0	0	1	0
-முடிந்த	after	0	0	1	0
 முடிந்த	completed	0	0	1	0
-கரையை	shore's	0	0	1	0
+முடிந்த	after	0	0	1	0
+முடிந்த	finished	0	0	1	0
 கரையை	seashore	0	0	1	0
 கரையை	coast	0	0	1	0
 கூறும்	element	0	0	1	0
@@ -12592,18 +12305,15 @@ $	$	0	0	1	0
 தோற்றத்தில்	looking	0	0	1	0
 தோற்றத்தில்	appear	0	0	1	0
 இராகங்கள்	ragas	0	0	1	0
-இராகங்கள்	rhythm	0	0	1	0
 கோபுரம்	tower	0	0	1	1
 மாற்கு	marg	0	0	1	0
 மாற்கு	marku a name	0	0	1	0
 நிர்வாகத்	administrarte	0	0	1	0
 நிர்வாகத்	official	0	0	1	0
-நிர்வாகத்	administrative	0	0	1	0
 உடலுக்கு	body	0	0	1	0
 உடலுக்கு	for body	0	0	1	0
 உண்டாக்குகிறது	make	0	0	1	0
 உண்டாக்குகிறது	formed	0	0	1	0
-உண்டாக்குகிறது	is creating	0	0	1	0
 கரிகால்	black leg	0	0	1	0
 சுற்றுப்	level of discussions	0	0	1	0
 சுற்றுப்	around of the earth	0	0	1	0
@@ -12615,8 +12325,6 @@ $	$	0	0	1	0
 சிகிச்சை	treatment	0	0	1	1
 யுத்தம்	battle	0	0	1	0
 யுத்தம்	war	0	0	1	1
-பூப்பெய்திய	age attan	0	0	1	0
-பூப்பெய்திய	aged small girl/ start mension	0	0	1	0
 பூப்பெய்திய	puppeytiya	0	0	1	0
 முகம்மது	mohamedian	0	0	1	0
 முகம்மது	mohamad	0	0	1	0
@@ -12628,18 +12336,15 @@ $	$	0	0	1	0
 எழுந்த	with stand	0	0	1	0
 எழுந்த	arisen	0	0	1	0
 ஆஸ்திரேலியாவில்	in australia	0	0	1	0
-பெரும்பகுதி	main	0	0	1	0
 பெரும்பகுதி	most parts of	0	0	1	0
 பெரும்பகுதி	majority of places	0	0	1	0
 வேதகால	vedic period	0	0	1	0
 வேதகால	old histry	0	0	1	0
-வேதகால	vethakala	0	0	1	0
 மேம்படுத்தப்பட்ட	made	0	0	1	0
 மேம்படுத்தப்பட்ட	improved	0	0	1	0
 மேம்படுத்தப்பட்ட	improvement	0	0	1	0
 வருடங்களுக்கு	years	0	0	1	0
 தாமரை	lotus	0	0	1	1
-இடங்களுக்கு	to places	0	0	1	0
 இடங்களுக்கு	for places	0	0	1	0
 இடங்களுக்கு	places	0	0	1	0
 தேவி	devi	0	0	1	0
@@ -12718,7 +12423,6 @@ $	$	0	0	1	0
 கா	kaa	0	0	1	0
 கா	k	0	0	1	0
 கா	ka	0	0	1	0
-சுதந்திரமான	independent	0	0	1	0
 சுதந்திரமான	freedom	0	0	1	0
 சுதந்திரமான	freely	0	0	1	0
 சனி	saturn	0	0	1	0
@@ -12768,7 +12472,6 @@ $	$	0	0	1	0
 சாத்தியமுள்ள	possible	0	0	1	0
 ஏரண	sections	0	0	1	0
 இடையேயான	between	0	0	1	0
-இடையேயான	in between	0	0	1	0
 சுதந்திரமாக	freely	0	0	1	0
 சுதந்திரமாக	independently	0	0	1	0
 சுதந்திரமாக	independence	0	0	1	0
@@ -12786,7 +12489,6 @@ $	$	0	0	1	0
 இயக்கங்கள்	organisations	0	0	1	0
 தொடர்ந்தும்	the	0	0	1	0
 தொடர்ந்தும்	continuous	0	0	1	0
-தொடர்ந்தும்	continued	0	0	1	0
 தற்போதைய	current	0	0	1	0
 தற்போதைய	present	0	0	1	0
 ஜெர்மனியும்	germany	0	0	1	0
@@ -12806,9 +12508,7 @@ $	$	0	0	1	0
 பர்மா	barma	0	0	1	0
 பர்மா	burma a country name	0	0	1	0
 விவரிக்க	explain	0	0	1	0
-விவரிக்க	to explain	0	0	1	0
 சுற்றுலாத்துறை	tourisam	0	0	1	0
-சுற்றுலாத்துறை	tourism	0	0	1	0
 சுற்றுலாத்துறை	tourism department	0	0	1	0
 வடகிழக்குப்	northeast	0	0	1	0
 வடகிழக்குப்	north-east	0	0	1	0
@@ -12889,7 +12589,6 @@ $	$	0	0	1	0
 ஒருவராக	one	0	0	1	0
 பதித்த	register	0	0	1	0
 பதித்த	recorded	0	0	1	0
-பதித்த	indented	0	0	1	0
 ஆசிய	asia	0	0	1	0
 பொறுப்பில்	in charge	0	0	1	0
 பொறுப்பில்	responsibility	0	0	1	0
@@ -12982,7 +12681,6 @@ $	$	0	0	1	0
 மண்டலங்களுக்கு	diocese	0	0	1	0
 உருவாக்கின	produced	0	0	1	0
 உருவாக்கின	creation	0	0	1	0
-உருவாக்கின	created	0	0	1	0
 சக்கரவர்த்தி	emperor	0	0	1	1
 சக்கரவர்த்தி	pattam	0	0	1	0
 சிறந்தது	fine	0	0	1	0
@@ -13001,7 +12699,6 @@ $	$	0	0	1	0
 மொழியியலின்	etomologies	0	0	1	0
 நூல்களிலும்	books	0	0	1	0
 நூல்களிலும்	in the books	0	0	1	0
-நூல்களிலும்	in book	0	0	1	0
 வரிகள்	lines	0	0	1	0
 தீய	bad	0	0	1	0
 ஓடும்	to fall	0	0	1	0
@@ -13224,15 +12921,12 @@ $	$	0	0	1	0
 இணைத்துக்	annex	0	0	1	0
 இணைத்துக்	attached	0	0	1	0
 இணைத்துக்	to joint	0	0	1	0
-அரசியல்சட்ட	politics	0	0	1	0
 அரசியல்சட்ட	political law	0	0	1	0
 அரசியல்சட்ட	as per the political laws	0	0	1	0
-நெருக்கடி	pressure	0	0	1	0
 நெருக்கடி	crisis	0	0	1	1
 பந்தை	ball	0	0	1	0
 மனசு	heart	0	0	1	1
 மனசு	mind	0	0	1	1
-அகராதிகள்	alphabets	0	0	1	0
 அகராதிகள்	dictionaries	0	0	1	0
 அகராதிகள்	dictionary	0	0	1	0
 கவுண்டர்	gownder community	0	0	1	0
@@ -13288,7 +12982,6 @@ $	$	0	0	1	0
 க்னூலினக்ஸ்	gnulinux	0	0	1	0
 சங்கத்தை	union	0	0	1	0
 சங்கத்தை	associaton	0	0	1	0
-சங்கத்தை	association	0	0	1	0
 வித்திட்டது	shows the way	0	0	1	0
 வித்திட்டது	help	0	0	1	0
 வித்திட்டது	is led to	0	0	1	0
@@ -13300,10 +12993,8 @@ $	$	0	0	1	0
 டவுன்	town	0	0	1	0
 டவுன்	city	0	0	1	0
 ஓரினச்சேர்க்கை	homosex	0	0	1	0
-கூடியது	a	0	0	1	0
 கூடியது	can	0	0	1	0
 கூடியது	joined	0	0	1	0
-உடம்பில்	in body	0	0	1	0
 உடம்பில்	in the body	0	0	1	0
 உடம்பில்	bodily	0	0	1	0
 போரிட்டு	battled	0	0	1	0
@@ -13319,7 +13010,6 @@ $	$	0	0	1	0
 உயரும்	grow	0	0	1	0
 வகைகளில்	varieties	0	0	1	0
 சேவைகளின்	services	0	0	1	0
-சேவைகளின்	in services	0	0	1	0
 சேவைகளின்	service	0	0	1	0
 ப்ளூஸ்	blues	0	0	1	0
 ப்ளூஸ்	flute	0	0	1	0
@@ -13331,7 +13021,6 @@ $	$	0	0	1	0
 முக்கியமானது	important	0	0	1	1
 முக்கியமானது	importantly	0	0	1	0
 நியமனம்	appointment	0	0	1	0
-நியமனம்	appointed	0	0	1	0
 வேலைக்கு	for work	0	0	1	0
 வேலைக்கு	to job	0	0	1	0
 வேலைக்கு	to work	0	0	1	0
@@ -13363,7 +13052,6 @@ $	$	0	0	1	0
 வீட்டில்	in the house	0	0	1	0
 வீட்டில்	house	0	0	1	0
 சேவைகளில்	services	0	0	1	0
-சேவைகளில்	in service	0	0	1	0
 அரிஸ்டாட்டில்	aristatil	0	0	1	0
 அரிஸ்டாட்டில்	aristotle	0	0	1	0
 கொல்லி	lethals but here its a name	0	0	1	0
@@ -13371,7 +13059,6 @@ $	$	0	0	1	0
 கொல்லி	kolli	0	0	1	0
 விக்ரம்	vikram	0	0	1	0
 ஆண்பால்	male	0	0	1	0
-ஆண்பால்	masculine	0	0	1	0
 அனைத்தும்	everything	0	0	1	0
 அனைத்தும்	all	0	0	1	0
 அமைப்பின்	organization	0	0	1	0
@@ -13390,7 +13077,6 @@ $	$	0	0	1	0
 செய்கின்றது	doing	0	0	1	0
 செய்கின்றது	making	0	0	1	0
 செய்கின்றது	does	0	0	1	0
-பொதுத்	common	0	0	1	0
 பொதுத்	general	0	0	1	0
 கருத்தியல்	matter	0	0	1	0
 கருத்தியல்	concept	0	0	1	0
@@ -13419,7 +13105,6 @@ $	$	0	0	1	0
 ஏற்பாட்டில்	arranged	0	0	1	0
 ஏற்பாட்டில்	arrangement	0	0	1	0
 நீரை	water	0	0	1	0
-சம்ஹிதை	samhithai	0	0	1	0
 பணியாற்றிய	worked	0	0	1	0
 பணியாற்றிய	serving	0	0	1	0
 முகவரிகளின்	addreses	0	0	1	0
@@ -13624,9 +13309,9 @@ $	$	0	0	1	0
 கொண்டுவந்தது	brought down	0	0	1	0
 கொண்டுவந்தது	ushered in a new era	0	0	1	0
 கொண்டுவந்தது	means	0	0	1	0
-என்பவற்றுக்கு	them	0	0	1	0
-என்பவற்றுக்கு	all these	0	0	1	0
-என்பவற்றுக்கு	like	0	0	1	0
+விட்ட	finished	0	0	1	0
+விட்ட	succeeded	0	0	1	0
+விட்ட	left	0	0	1	0
 கோழிகள்	chicken conspiracy	0	0	1	0
 கோழிகள்	hens	0	0	1	0
 கோழிகள்	chickens	0	0	1	0
@@ -13648,11 +13333,6 @@ $	$	0	0	1	0
 எக்ஸ்பிரஸ்	express	0	0	1	0
 வேலைவாய்ப்பு	oppurtunity	0	0	1	0
 வேலைவாய்ப்பு	employment	0	0	1	0
-அப்போது	then	0	0	1	1
-அப்போது	that day	0	0	1	0
-அப்போது	that time	0	0	1	0
-பவானி	bhavani	0	0	1	0
-பவானி	bavani	0	0	1	0
 பவானி	name	0	0	1	0
 விளையும்	happens	0	0	1	0
 விளையும்	germinate	0	0	1	0
@@ -13677,7 +13357,6 @@ $	$	0	0	1	0
 கொடுக்கப்	to give	0	0	1	0
 கொடுக்கப்	given	0	0	1	0
 இணைப்புக்கள்	connections	0	0	1	0
-இணைப்புக்கள்	adding	0	0	1	0
 செயல்முறை	practical ways	0	0	1	0
 செயல்முறை	mechanism	0	0	1	0
 செயல்முறை	processing method	0	0	1	0
@@ -13705,7 +13384,6 @@ $	$	0	0	1	0
 கவிஞர்கள்	poets	0	0	1	0
 கவிஞர்கள்	poetist	0	0	1	0
 மத்திய	central	0	0	1	0
-மத்திய	center	0	0	1	0
 ஏதேனும்	anything else	0	0	1	0
 ஏதேனும்	any one	0	0	1	0
 ஏதேனும்	any	0	0	1	0
@@ -13713,7 +13391,6 @@ $	$	0	0	1	0
 தொடங்கினார்	begins	0	0	1	0
 தொடங்கினார்	initiated or started	0	0	1	0
 புதிய	new	0	0	1	1
-வாஷிங்டன்	vasington	1	0	1	0
 வாஷிங்டன்	at first	1	0	1	0
 வாஷிங்டன்	sea bird	1	0	1	0
 வாஷிங்டன்	place name	1	0	1	0
@@ -13731,7 +13408,9 @@ $	$	0	0	1	0
 பரப்புதல்	scattered	0	0	1	0
 மண்டை	head	0	0	1	0
 மண்டை	skull	0	0	1	0
-சுற்றிலும்	around	0	0	1	0
+வேண்டும்	need	0	0	1	1
+வேண்டும்	to do that	0	0	1	0
+வேண்டும்	wanted	0	0	1	0
 கிழங்கு	pottato	0	0	1	0
 கிழங்கு	east	0	0	1	0
 கிழங்கு	a sweet potato	0	0	1	0
@@ -13740,9 +13419,7 @@ $	$	0	0	1	0
 வகையில்	in accordance to	0	0	1	0
 வகையில்	manner	0	0	1	0
 வகையில்	class	0	0	1	0
-விடுத்தனர்	issued	0	0	1	0
-விடுத்தனர்	have laid down	0	0	1	0
-விடுத்தனர்	act	0	0	1	0
+ஏயூ	astronomical unit	0	0	1	0
 சாளுக்கியர்	chalukya community	0	0	1	0
 சாளுக்கியர்	calukkiyar	0	0	1	0
 சாளுக்கியர்	socity	0	0	1	0
@@ -13783,7 +13460,6 @@ $	$	0	0	1	0
 மொத்தத்தில்	in total	0	0	1	0
 தலைவி	head	0	0	1	0
 தலைவி	woman	0	0	1	0
-தலைவி	leader	0	0	1	0
 ஆவது	at least	0	0	1	0
 ஆவது	becoming a	0	0	1	0
 ஆவது	becoming	0	0	1	0
@@ -13801,7 +13477,6 @@ $	$	0	0	1	0
 பாசிச	facism	0	0	1	0
 பாசிச	pasis	0	0	1	0
 பாசிச	army	0	0	1	0
-இதழில்	lips	0	0	1	0
 இதழில்	magazine	0	0	1	0
 மாறுதல்கள்	changes	0	0	1	0
 பரிமாற்ற	exchanging	0	0	1	0
@@ -13842,13 +13517,12 @@ $	$	0	0	1	0
 துபாய்	dubai	0	0	1	0
 உலகில்	world	0	0	1	0
 உலகில்	world's	0	0	1	0
-உலகில்	in this world	0	0	1	0
 விகிதத்தில்	ratio	0	0	1	0
 விகிதத்தில்	limit	0	0	1	0
 விகிதத்தில்	ratios	0	0	1	0
 ஆசியாவின்	in asia	0	0	1	0
-ஆசியாவின்	asia's	0	0	1	0
 ஆசியாவின்	asiyavin	0	0	1	0
+ஆசியாவின்	asia's	0	0	1	0
 உருவாக்கியுள்ளது	established	0	0	1	0
 உருவாக்கியுள்ளது	to make	0	0	1	0
 உருவாக்கியுள்ளது	made up	0	0	1	0
@@ -13871,8 +13545,6 @@ $	$	0	0	1	0
 இசுலாமியர்	muslims	0	0	1	0
 இசுலாமியர்	it's a religion people	0	0	1	0
 இசுலாமியர்	islam	0	0	1	0
-வள	resource	0	0	1	0
-வள	fertile	0	0	1	0
 விரிவாக	detailed	0	0	1	0
 விரிவாக	elabrately	0	0	1	0
 விரிவாக	brief	0	0	1	0
@@ -13944,7 +13616,6 @@ $	$	0	0	1	0
 எல்லைகளில்	in the boundaries	0	0	1	0
 நகரும்	to move	0	0	1	0
 நகரும்	moving	0	0	1	0
-படுகிறது	happens	0	0	1	0
 படுகிறது	submit	0	0	1	0
 இம்முறையின்	under this method	0	0	1	0
 இம்முறையின்	in this type of	0	0	1	0
@@ -13983,7 +13654,6 @@ $	$	0	0	1	0
 சூழலை	situation	0	0	1	0
 சூழலை	atmosphere	0	0	1	0
 சூழலை	circumstances	0	0	1	0
-சூழல்	environment	0	0	1	1
 சூழல்	circumstences	0	0	1	0
 போத்துக்கீசர்	porttukiciyar	0	0	1	0
 போத்துக்கீசர்	portugese	0	0	1	0
@@ -14006,10 +13676,8 @@ $	$	0	0	1	0
 தலைமைத்	leadership	0	0	1	0
 தலைமைத்	head	0	0	1	0
 குறிக்கப்படும்	marking	0	0	1	0
-குறிக்கப்படும்	will be noted	0	0	1	0
 குறிக்கப்படும்	indicating	0	0	1	0
 டாலர்	dollar	0	0	1	1
-திசு	cell	0	0	1	0
 திசு	tissue	0	0	1	0
 திசு	germ	0	0	1	0
 விடக்	compare	0	0	1	0
@@ -14104,9 +13772,9 @@ $	$	0	0	1	0
 வீணை	musical instrument	0	0	1	0
 வீணை	lute	0	0	1	0
 வீணை	veena	0	0	1	0
-நடுவே	center	0	0	1	0
-நடுவே	in the middle	0	0	1	0
-நடுவே	centre	0	0	1	0
+காலத்தால்	periodic	0	0	1	0
+காலத்தால்	period	0	0	1	0
+காலத்தால்	anteriority	0	0	1	0
 இன்னொரு	another one	0	0	1	0
 இன்னொரு	other	0	0	1	0
 கதைகளில்	stories	0	0	1	0
@@ -14204,7 +13872,6 @@ $	$	0	0	1	0
 நிலநடுக்கம்	earthquake	1	1	1	1
 போன்றவர்கள்	including that people	0	0	1	0
 போன்றவர்கள்	people like them	0	0	1	0
-போன்றவர்கள்	like them	0	0	1	0
 டார்வின்	darwin	1	1	1	0
 கைப்பற்றியது	acquired	0	0	1	0
 கைப்பற்றியது	caught	0	0	1	0
@@ -14286,7 +13953,6 @@ $	$	0	0	1	0
 கபிலர்	name	0	0	1	0
 வளர்ச்சியை	growing	0	0	1	0
 வளர்ச்சியை	improvements	0	0	1	0
-வளர்ச்சியை	growth	0	0	1	0
 வேதாந்த	vedic	0	0	1	0
 வேதாந்த	phillasopy	0	0	1	0
 வேதாந்த	word	0	0	1	0
@@ -14313,7 +13979,6 @@ $	$	0	0	1	0
 ஜி	generation	0	0	1	0
 ஜி	g	0	0	1	0
 பொங்கல்	pongal	0	0	1	0
-பொங்கல்	festivel	0	0	1	0
 பொங்கல்	pongal celebration in tamil nadu	0	0	1	0
 இடைமுகத்தை	interface	0	0	1	0
 இடைமுகத்தை	interphase	0	0	1	0
@@ -14338,9 +14003,9 @@ $	$	0	0	1	0
 குறிக்கப்	categorised	0	0	1	0
 குறிக்கப்	cross	0	0	1	0
 குறிக்கப்	mark	0	0	1	0
-நாடாளுமன்றத்தில்	lock saba	0	0	1	0
-நாடாளுமன்றத்தில்	parliament	0	0	1	0
 நாடாளுமன்றத்தில்	parliment	0	0	1	0
+நாடாளுமன்றத்தில்	parliament	0	0	1	0
+நாடாளுமன்றத்தில்	lock saba	0	0	1	0
 சிலவேளைகளில்	some times	0	0	1	0
 சிலவேளைகளில்	sometimes	0	0	1	0
 மொசாம்பிக்	mosambic	0	0	1	0
@@ -14393,9 +14058,8 @@ $	$	0	0	1	0
 பற்பல	more	0	0	1	0
 பற்பல	having many	0	0	1	0
 தொடர்பையும்	connection	0	0	1	0
-தொடர்பையும்	contacts	0	0	1	0
 தொடர்பையும்	association	0	0	1	0
-தொடர்பையும்	jaint	0	0	1	0
+தொடர்பையும்	contacts	0	0	1	0
 அம்மையார்	lady	0	0	1	0
 வெடிப்புக்	expolastion	0	0	1	0
 வெடிப்புக்	explosion	0	0	1	0
@@ -14443,7 +14107,6 @@ $	$	0	0	1	0
 படுகொலைகள்	murder	0	0	1	0
 படுகொலைகள்	genocide	0	0	1	0
 தவறுதலாக	allow phonetic typing by mistake	0	0	1	0
-தவறுதலாக	wrong	0	0	1	0
 தவறுதலாக	mistatake	0	0	1	0
 காணவும்	to see	0	0	1	0
 காணவும்	view	0	0	1	0
@@ -14477,8 +14140,6 @@ $	$	0	0	1	0
 அதேபோல்	likewise	0	0	1	0
 அதேபோல்	the	0	0	1	0
 அதேபோல்	that way	0	0	1	0
-வென்றான்	win	0	0	1	0
-வென்றான்	won	0	0	1	0
 வென்றான்	had won	0	0	1	0
 பகுப்புதமிழ்	tamil analysis	0	0	1	0
 பகுப்புதமிழ்	seperate tamil	0	0	1	0
@@ -14491,8 +14152,8 @@ $	$	0	0	1	0
 தட்சிணாமூர்த்தி	dakshinmurthy a tamil name	0	0	1	0
 தட்சிணாமூர்த்தி	one of the name	0	0	1	0
 தட்சிணாமூர்த்தி	dakshinamurthy	0	0	1	0
-சூழ்நிலைகள்	society	0	0	1	0
 சூழ்நிலைகள்	situations	0	0	1	0
+சூழ்நிலைகள்	society	0	0	1	0
 சீன	china	0	0	1	0
 வாம்பைர்	vambayaer	1	0	1	0
 வாம்பைர்	vamphire	1	0	1	0
@@ -14511,12 +14172,10 @@ $	$	0	0	1	0
 நகை	ornament	0	0	1	0
 நகை	jewels	0	0	1	1
 பெருங்கடல்களின்	in the ocean	0	0	1	0
-பெருங்கடல்களின்	big sea	0	0	1	0
 பெருங்கடல்களின்	ocean	0	0	1	0
 நுண்ணுயிர்	micropes	0	0	1	0
 நுண்ணுயிர்	micro organisms	0	0	1	0
 நுண்ணுயிர்	micro creature	0	0	1	0
-சூரியனிலிருந்து	from sun	0	0	1	0
 சூரியனிலிருந்து	from the sun	0	0	1	0
 செலுத்தி	injector	0	0	1	0
 செலுத்தி	to impose	0	0	1	0
@@ -14533,8 +14192,6 @@ $	$	0	0	1	0
 வான்புலிகள்	aircraft	0	0	1	0
 வான்புலிகள்	sky tigers	0	0	1	0
 வந்துள்ளனர்	have come	0	0	1	0
-வந்துள்ளனர்	came	0	0	1	0
-வந்துள்ளனர்	coming in	0	0	1	0
 தனி	alone	0	0	1	1
 தனி	seperate	0	0	1	0
 ஆடம்பரமான	costly	0	0	1	0
@@ -14547,12 +14204,11 @@ $	$	0	0	1	0
 தன்	self	0	0	1	0
 தன்	his	0	0	1	0
 தன்	for me	0	0	1	0
-அறியப்படுகிறது	knowing	0	0	1	0
 அறியப்படுகிறது	came to know	0	0	1	0
 மாற்றங்களை	changes	0	0	1	0
-இணைக்கும்	that connects	0	0	1	0
-இணைக்கும்	connecting	0	0	1	0
 இணைக்கும்	joint	0	0	1	0
+இணைக்கும்	connecting	0	0	1	0
+இணைக்கும்	that connects	0	0	1	0
 பயன்படுகின்றன	usage	0	0	1	0
 பயன்படுகின்றன	useful	0	0	1	0
 ஒரு	only one	0	0	1	0
@@ -14667,14 +14323,12 @@ $	$	0	0	1	0
 பார்க்கலாம்	see	0	0	1	0
 போராட்டங்கள்	fights	0	0	1	0
 போராட்டங்கள்	struggle	0	0	1	0
-போராட்டங்கள்	wars	0	0	1	0
 ராக்கி	rocky mountain	0	0	1	0
 சுயசரிதை	biographies	0	0	1	0
 சுயசரிதை	autobiography	0	0	1	0
 படி	accordingly	0	0	1	0
 படி	according to	0	0	1	0
 படி	according to that	0	0	1	0
-குறைபாடு	deficiency	0	0	1	1
 குறைபாடு	defect	0	0	1	1
 குறைபாடு	disadvantages	0	0	1	0
 சந்திரனும்	lunar	0	0	1	0
@@ -14737,8 +14391,8 @@ $	$	0	0	1	0
 பெரும்பாலானவை	majority	0	0	1	0
 பெரும்பாலானவை	mostly	0	0	1	0
 பெரும்பாலானவை	of majority	0	0	1	0
-மூலங்கள்	source code	0	0	1	0
 மூலங்கள்	sources	0	0	1	0
+மூலங்கள்	source code	0	0	1	0
 மூலங்கள்	source	0	0	1	0
 மூலங்களை	sources	0	0	1	0
 மூலங்களை	source's	0	0	1	0
@@ -14776,7 +14430,6 @@ $	$	0	0	1	0
 கோளின்	sattelite	0	0	1	0
 கோளின்	orbit	0	0	1	0
 ஆனது	a	0	0	1	0
-ஆனது	made of	0	0	1	0
 ஆனது	like	0	0	1	0
 முன்னோடி	precursor	0	0	1	0
 முன்னோடி	pioneer	0	0	1	0
@@ -14805,12 +14458,10 @@ $	$	0	0	1	0
 பொருளின்	thing	0	0	1	0
 பொருளின்	object	0	0	1	0
 பொருளின்	things	0	0	1	0
-உணவகங்களில்	restaurant	0	0	1	0
 உணவகங்களில்	hotel	0	0	1	0
 உணவகங்களில்	hotels	0	0	1	0
 ஒன்றிய	union	0	0	1	0
 ஒன்றிய	joinding	0	0	1	0
-தொண்டை	throat	0	0	1	1
 தொண்டை	thondai	0	0	1	0
 தொண்டை	throughout	0	0	1	0
 இடைமுகம்	interface	0	0	1	0
@@ -14818,7 +14469,6 @@ $	$	0	0	1	0
 இடைமுகம்	in between	0	0	1	0
 தொண்டு	help	0	0	1	0
 தொண்டு	service	0	0	1	0
-தொண்டு	charity	0	0	1	0
 முழுமையாக	fully	0	0	1	0
 முழுமையாக	completely	0	0	1	0
 முழுமையாக	total	0	0	1	0
@@ -14847,7 +14497,6 @@ $	$	0	0	1	0
 வகைகளின்	variety	0	0	1	0
 வரையறுக்கப்பட்ட	defined	0	0	1	0
 வரையறுக்கப்பட்ட	limited	0	0	1	0
-வரையறுக்கப்பட்ட	define	0	0	1	0
 செங்குத்தாக	vertically	0	0	1	0
 செங்குத்தாக	vertical	0	0	1	0
 இசையமைப்பாளர்	music director	0	0	1	0
@@ -14891,7 +14540,6 @@ $	$	0	0	1	0
 பற்றியும்	about that	0	0	1	0
 பற்றியும்	releted	0	0	1	0
 பற்றியும்	about	0	0	1	0
-தற்காலிகமாக	tempra	0	0	1	0
 தற்காலிகமாக	temporary	0	0	1	0
 தற்காலிகமாக	on tarkaliyam	0	0	1	0
 மன்னர்கள்	kings	0	0	1	0
@@ -14943,7 +14591,6 @@ $	$	0	0	1	0
 மின்னழுத்தம்	carnal	1	0	1	0
 மின்னழுத்தம்	electromagnetic force	1	0	1	0
 மின்னழுத்தம்	volgate	1	0	1	0
-ஏற்படுத்தப்பட்ட	buid	0	0	1	0
 ஏற்படுத்தப்பட்ட	established	0	0	1	0
 ஏற்படுத்தப்பட்ட	created	0	0	1	0
 கொடுக்கப்பட்டுள்ளது	given	0	0	1	0
@@ -15030,7 +14677,6 @@ $	$	0	0	1	0
 குடும்பங்கள்	family	0	0	1	0
 அழைத்து	call	0	0	1	0
 அழைத்து	called	0	0	1	0
-என்கின்ற	said	0	0	1	0
 என்கின்ற	a thing	0	0	1	0
 உயிரணுக்களில்	dna cells	0	0	1	0
 உயிரணுக்களில்	cells	0	0	1	0
@@ -15048,7 +14694,7 @@ $	$	0	0	1	0
 சொல்லப்படும்	was told	0	0	1	0
 வில்லியம்	william	0	0	1	0
 வில்லியம்	willium	0	0	1	0
-முழுவதும்	all over	0	0	1	1
+முழுவதும்	all over	0	0	1	0
 முழுவதும்	completely	0	0	1	1
 முழுவதும்	full	0	0	1	0
 உலோகம்	alloy	0	0	1	0
@@ -15066,8 +14712,8 @@ $	$	0	0	1	0
 இயற்றப்பட்டது	composed	0	0	1	0
 இயற்றப்பட்டது	written	0	0	1	0
 இயற்றப்பட்டது	created	0	0	1	0
-நிலத்தடி	underground	0	0	1	0
 நிலத்தடி	uvderground	0	0	1	0
+நிலத்தடி	underground	0	0	1	0
 பாதிப்படைந்த	suffered	0	0	1	0
 பாதிப்படைந்த	affected	0	0	1	0
 பாதிப்படைந்த	is affected by	0	0	1	0
@@ -15076,11 +14722,9 @@ $	$	0	0	1	0
 ஆரோக்கியம்	health	0	0	1	1
 மரபைச்	traditional	0	0	1	0
 மரபைச்	genetic	0	0	1	0
-தகுந்த	qualified	0	0	1	0
-தகுந்த	notable	0	0	1	0
 தகுந்த	suitable	0	0	1	0
+தகுந்த	notable	0	0	1	0
 மொழிச்	language	0	0	1	0
-பொறுத்தது	depend or by	0	0	1	0
 பொறுத்தது	depends	0	0	1	0
 பொறுத்தது	by	0	0	1	0
 திராவிடக்	dravida's	0	0	1	0
@@ -15299,8 +14943,8 @@ $	$	0	0	1	0
 ^	power	0	0	1	0
 பின்வருமாறு	following	0	0	1	0
 பின்வருமாறு	as follows	0	0	1	0
-வெளியின்	space	0	0	1	0
-வெளியின்	space's	0	0	1	0
+நிர்வாகக்	management	0	0	1	0
+நிர்வாகக்	administration	0	0	1	0
 அரியணையில்	throne of	0	0	1	0
 அரியணையில்	throne or in the power	0	0	1	0
 அரியணையில்	seat	0	0	1	0
@@ -15309,7 +14953,6 @@ $	$	0	0	1	0
 பெருந்தலைவர்	big leader	0	0	1	0
 காவிரியுடன்	with cauvery	0	0	1	0
 காவிரியுடன்	cauvery	0	0	1	0
-மிகுதியான	abundance	0	0	1	0
 மிகுதியான	in excess of	0	0	1	0
 மிகுதியான	highly	0	0	1	0
 கொன்ற	murder	0	0	1	0
@@ -15364,8 +15007,8 @@ $	$	0	0	1	0
 சுகாதாரம்	healthcare	0	0	1	0
 கோப்புகளை	files	0	0	1	0
 கோப்புகளை	rules	0	0	1	0
-படிக்க	study	0	0	1	0
 படிக்க	to read	0	0	1	0
+படிக்க	study	0	0	1	0
 அகப்பொருள்	internal meaning	0	0	1	0
 வருடத்திற்கு	per year	0	0	1	0
 வருடத்திற்கு	for an year	0	0	1	0
@@ -15380,15 +15023,14 @@ $	$	0	0	1	0
 கைபேசி	mobile	0	0	1	0
 கைபேசி	cellphone	0	0	1	0
 கைபேசி	cellular phone	0	0	1	0
-ஏதாவது	any	0	0	1	0
-ஏதாவது	anything	0	0	1	0
 ஏதாவது	something	0	0	1	1
+ஏதாவது	anything	0	0	1	0
+ஏதாவது	any	0	0	1	0
 உடையதாக	sustain	0	0	1	0
 உடையதாக	having that	0	0	1	0
 உடையதாக	have	0	0	1	0
 திகதி	date	0	0	1	1
 திகதி	thithi	0	0	1	0
-பகுப்புஇயற்பியல்	divided physics	0	0	1	0
 பகுப்புஇயற்பியல்	part:physics	0	0	1	0
 பகுப்புஇயற்பியல்	divisional physics	0	0	1	0
 சாதாரண	simple	0	0	1	0
@@ -15412,9 +15054,7 @@ $	$	0	0	1	0
 மரத்தின்	tree	0	0	1	0
 மரத்தின்	in the tree	0	0	1	0
 சூழ்	circumstances	0	0	1	0
-சூழ்	risk	0	0	1	0
 சூழ்	circumstance	0	0	1	0
-பயன்படுத்தினார்	use	0	0	1	0
 பயன்படுத்தினார்	used	0	0	1	0
 ×	multiplication	0	0	1	0
 ×	*	0	0	1	0
@@ -15427,7 +15067,6 @@ $	$	0	0	1	0
 கொண்டவையாக	being with	0	0	1	0
 கொண்டவையாக	had	0	0	1	0
 கொண்டவையாக	contain	0	0	1	0
-சொல்லின்	of the term	0	0	1	0
 சொல்லின்	words	0	0	1	0
 சொல்லின்	told	0	0	1	0
 குடி	drink	0	0	1	1
@@ -15448,6 +15087,9 @@ $	$	0	0	1	0
 இயற்றப்பட்ட	established	0	0	1	0
 இயற்றப்பட்ட	written	0	0	1	0
 இயற்றப்பட்ட	made	0	0	1	0
+தாங்கள்	by themselves	0	0	1	0
+தாங்கள்	you	0	0	1	0
+தாங்கள்	mine	0	0	1	0
 பொறித்த	fried	0	0	1	0
 திராவிடர்	dravidas	0	0	1	0
 திராவிடர்	dravidian	0	0	1	0
@@ -15514,7 +15156,6 @@ $	$	0	0	1	0
 படையில்	in the army	0	0	1	0
 படையில்	forces	0	0	1	0
 படையில்	army	0	0	1	0
-கிமீ	kilo meter	0	0	1	0
 கிமீ	km	0	0	1	0
 கிமு	before christ	0	0	1	0
 கிமு	b.c.	0	0	1	0
@@ -15545,7 +15186,6 @@ $	$	0	0	1	0
 மாநிலம்	state	0	0	1	0
 மன்மோகன்	manmohan	0	0	1	0
 ஒத்து	similar	0	0	1	0
-ஒத்து	agree	0	0	1	0
 ஒத்து	same	0	0	1	0
 இயக்கமூட்டல்	animation	0	0	1	0
 இயக்கமூட்டல்	iyakkamuttal	0	0	1	0
@@ -15569,9 +15209,9 @@ $	$	0	0	1	0
 குருந்தம்	ruby	1	0	1	0
 தூத்துக்குடி	tuticorin	0	0	1	0
 தூத்துக்குடி	tuticorin district in tamilnadu	0	0	1	0
-இயங்குகிறது	operate	0	0	1	0
-இயங்குகிறது	functioning	0	0	1	0
 இயங்குகிறது	is operated	0	0	1	0
+இயங்குகிறது	functioning	0	0	1	0
+இயங்குகிறது	operate	0	0	1	0
 மதிப்பு	respect	0	0	1	1
 மதிப்பு	value	0	0	1	0
 இதற்கிடையில்	in-between	0	0	1	0
@@ -15645,13 +15285,11 @@ $	$	0	0	1	0
 எடுக்கப்படும்	take	0	0	1	0
 டை	dye	0	0	1	0
 டை	two	0	0	1	0
-தீவினர்	island people	0	0	1	0
 தீவினர்	islander	0	0	1	0
 கொண்டுள்ளனர்	having	0	0	1	0
 கொண்டுள்ளனர்	take	0	0	1	0
 கொண்டுள்ளனர்	having that	0	0	1	0
 பகுதிகளில்	kind od	0	0	1	0
-பகுதிகளில்	parts	0	0	1	0
 பகுதிகளில்	in regions	0	0	1	0
 உள்ளமைப்பு	embedded	0	0	1	0
 வருமாறு	comeforth	0	0	1	0
@@ -15675,7 +15313,6 @@ $	$	0	0	1	0
 செய்யப்படும்	the	0	0	1	0
 செய்யப்படும்	done here	0	0	1	0
 கலக்கிறது	mixing	0	0	1	0
-கலக்கிறது	mixed	0	0	1	0
 மகனும்	his son also	0	0	1	0
 மகனும்	son	0	0	1	0
 வாய்ப்புகள்	chances	0	0	1	0
@@ -15685,7 +15322,9 @@ $	$	0	0	1	0
 கிறித்தவம்	christianity	0	0	1	0
 நாடுகளிலிருந்து	from countries	0	0	1	0
 நாடுகளிலிருந்து	from the countries	0	0	1	0
-நுண்ணிய	micro	0	0	1	0
+நகரம்	town	0	0	1	1
+நகரம்	city	0	0	1	1
+நகரம்	cities	0	0	1	0
 கூடிய	included	0	0	1	0
 கூடிய	in addition to	0	0	1	0
 கூடிய	including	0	0	1	0
@@ -15694,7 +15333,6 @@ $	$	0	0	1	0
 கருவிகளை	instruments	0	0	1	0
 அதிகாரப்பூர்வ	authorised	0	0	1	0
 அதிகாரப்பூர்வ	authoritical	0	0	1	0
-அதிகாரப்பூர்வ	formally	0	0	1	0
 குடிமக்களின்	citison	0	0	1	0
 குடிமக்களின்	citizens	0	0	1	0
 குடிமக்களின்	citizen	0	0	1	0
@@ -15761,7 +15399,6 @@ $	$	0	0	1	0
 தோன்றியது	origin	0	0	1	0
 தோன்றியது	visible	0	0	1	0
 தோன்றியது	and	0	0	1	0
-விரைவில்	soon	0	0	1	0
 விரைவில்	sooner	0	0	1	0
 விரைவில்	quickly	0	0	1	0
 பயனர்களால்	useful	0	0	1	0
@@ -15771,9 +15408,8 @@ $	$	0	0	1	0
 ஆனாலும்	but	0	0	1	0
 ஆனாலும்	though	0	0	1	0
 உலகப்	world	0	0	1	0
-மிக்க	so	0	0	1	0
-மிக்க	with	0	0	1	0
-மிக்க	highly	0	0	1	0
+கிளர்ச்சி	revolution	0	0	1	0
+கிளர்ச்சி	agitation	0	0	1	1
 நோயின்	disease	0	0	1	0
 நோயின்	sick	0	0	1	0
 நோயின்	in disease	0	0	1	0
@@ -15816,7 +15452,6 @@ $	$	0	0	1	0
 வயதான	aged	0	0	1	0
 வயதான	old	0	0	1	0
 கொள்ளப்படும்	considered	0	0	1	0
-கொள்ளப்படும்	are	0	0	1	0
 எல்லைக்கு	boundry	0	0	1	0
 எல்லைக்கு	boundary	0	0	1	0
 எல்லைக்கு	borderline	0	0	1	0
@@ -15831,11 +15466,9 @@ $	$	0	0	1	0
 சமவெளிகள்	surface land	0	0	1	0
 பறவைகள்	birds	0	0	1	0
 வகையைச்	type	0	0	1	0
-வகையைச்	variety	0	0	1	0
 கான்	khan	0	0	1	0
 கான்	kan	0	0	1	0
 வேண்டுமானாலும்	in need	0	0	1	0
-வேண்டுமானாலும்	if need	0	0	1	0
 வேண்டுமானாலும்	deserved	0	0	1	0
 விரும்புகின்றனர்	they like	0	0	1	0
 விரும்புகின்றனர்	likes	0	0	1	0
@@ -15886,8 +15519,8 @@ $	$	0	0	1	0
 செய்பவர்கள்	doing	0	0	1	0
 செய்பவர்கள்	who	0	0	1	0
 செய்பவர்கள்	doers	0	0	1	0
-பிரிட்டன்	britian	0	0	1	0
 பிரிட்டன்	britain	0	0	1	0
+பிரிட்டன்	britian	0	0	1	0
 ஆசனம்	yoga	0	0	1	0
 ஆசனம்	aasanam	0	0	1	0
 உகந்த	right	0	0	1	0
@@ -15941,11 +15574,9 @@ $	$	0	0	1	0
 கொண்டிருக்கிறது	has it. contains	0	0	1	0
 கொண்டிருக்கிறது	having	0	0	1	0
 பள்ளியில்	in school	0	0	1	0
-பள்ளியில்	school	0	0	1	0
 பள்ளியில்	in the school	0	0	1	0
 மொழிப்	language	0	0	1	0
 பாதுகாக்கிறது	saftey	0	0	1	0
-பாதுகாக்கிறது	safe	0	0	1	0
 பாதுகாக்கிறது	saved	0	0	1	0
 புதுச்சேரி	pudhuchery	0	0	1	0
 புதுச்சேரி	puduchery	0	0	1	0
@@ -16028,7 +15659,6 @@ $	$	0	0	1	0
 மண	relating to marriage	0	0	1	0
 மண	wed	0	0	1	0
 சண்டைகள்	fights	0	0	1	0
-சண்டைகள்	fight	0	0	1	0
 கிழார்	kilar	0	0	1	0
 கிழார்	the name called poet	0	0	1	0
 கிழார்	keezhar	0	0	1	0
@@ -16054,7 +15684,6 @@ $	$	0	0	1	0
 அரிஸ்டாட்டிலின்	aristotlian	0	0	1	0
 முற்றிலும்	fully	0	0	1	0
 முற்றிலும்	completely	0	0	1	0
-முற்றிலும்	totally	0	0	1	0
 திரைப்படத்தில்	film	0	0	1	0
 திரைப்படத்தில்	in the film	0	0	1	0
 திரைப்படத்தில்	in film	0	0	1	0
@@ -16093,6 +15722,7 @@ $	$	0	0	1	0
 சார்பிலாத்	non -relative	0	0	1	0
 சார்பிலாத்	carpilat	0	0	1	0
 சார்பிலாத்	independent	0	0	1	0
+வாழ்வு	life	0	0	1	0
 ஆகவே	so	0	0	1	0
 ஆகவே	because of that	0	0	1	0
 இயேசு	jesus	0	0	1	0
@@ -16100,7 +15730,6 @@ $	$	0	0	1	0
 பலன்	result	0	0	1	0
 கொண்டுள்ளன	including	0	0	1	0
 கொண்டுள்ளன	having	0	0	1	0
-கொண்டுள்ளன	have	0	0	1	0
 தலைமைப்	leading	0	0	1	0
 தலைமைப்	captain	0	0	1	0
 தலைமைப்	leadership	0	0	1	0
@@ -16169,7 +15798,6 @@ $	$	0	0	1	0
 அவையில்	in that	0	0	1	0
 அவையில்	assembly	0	0	1	0
 அவையில்	hall	0	0	1	0
-இருபுறமும்	both side	0	0	1	0
 இருபுறமும்	two ways	0	0	1	0
 இருபுறமும்	both sides	0	0	1	0
 நாடுகளுள்	among the countries	0	0	1	0
@@ -16184,7 +15812,6 @@ $	$	0	0	1	0
 உருவாக்கப்	to produce	0	0	1	0
 ஆப்	of	0	0	1	0
 லவ்	love	0	0	1	0
-மேற்கொள்ளும்	of	0	0	1	0
 மேற்கொள்ளும்	handled	0	0	1	0
 மேற்கொள்ளும்	on ways	0	0	1	0
 மண்டலங்களில்	regions	0	0	1	0
@@ -16197,7 +15824,6 @@ $	$	0	0	1	0
 பாலூட்டி	mammals  species	0	0	1	0
 பாலூட்டி	mammals	0	0	1	0
 பாலூட்டி	mamals	0	0	1	0
-இயங்குதளத்தை	working area	0	0	1	0
 இயங்குதளத்தை	workingsite	0	0	1	0
 இயங்குதளத்தை	operating system	0	0	1	0
 கைப்பந்து	vollyball	0	0	1	0
@@ -16289,7 +15915,6 @@ $	$	0	0	1	0
 வளையம்	circle	0	0	1	1
 வளையம்	rings	0	0	1	0
 வளையம்	loop	0	0	1	0
-ரியோ	rio	0	0	1	0
 தீவுகளின்	island	0	0	1	0
 தீவுகளின்	island's	0	0	1	0
 தீவுகளின்	deep	0	0	1	0
@@ -16299,7 +15924,6 @@ $	$	0	0	1	0
 விவிலியத்தின்	viviliyam	0	0	1	0
 விவிலியத்தின்	bible	0	0	1	0
 திபெத்தின்	of tibet	0	0	1	0
-திபெத்தின்	debut	0	0	1	0
 தற்கொலை	suicide	0	0	1	1
 தற்கொலை	sucide	0	0	1	0
 நெம்புகோல்	bending	1	0	1	0
@@ -16346,8 +15970,8 @@ $	$	0	0	1	0
 சமமாக	equal	0	0	1	0
 சமன்பாடு	equation	0	0	1	0
 சமன்பாடு	equilibrium	0	0	1	0
-கடின	hard	0	0	1	0
 கடின	strong	0	0	1	0
+கடின	hard	0	0	1	0
 குறிப்பது	mention	0	0	1	0
 குறிப்பது	pointout	0	0	1	0
 குறிப்பது	denote	0	0	1	0
@@ -16369,7 +15993,9 @@ $	$	0	0	1	0
 நிர்வாகப்	administration	0	0	1	0
 நிர்வாகப்	administrative	0	0	1	0
 வைரஸ்	virus	0	0	1	0
-லீக்	league	0	0	1	0
+தீவின்	islands	0	0	1	0
+தீவின்	island's	0	0	1	0
+தீவின்	island	0	0	1	0
 தொழிற்சாலை	industries	0	0	1	0
 தொழிற்சாலை	factory	0	0	1	0
 அறிக்கையில்	report	0	0	1	0
@@ -16403,9 +16029,8 @@ $	$	0	0	1	0
 ஆதார	resource	0	0	1	0
 ஆதார	basic	0	0	1	0
 தீவுக்	island	0	0	1	0
-நிகழ்கின்றன	happenings	0	0	1	0
-நிகழ்கின்றன	occur	0	0	1	0
 நிகழ்கின்றன	presently	0	0	1	0
+நிகழ்கின்றன	happenings	0	0	1	0
 மெயில்	mail	0	0	1	0
 மெயில்	email	0	0	1	0
 நானோ	nano	0	0	1	0
@@ -16415,7 +16040,6 @@ $	$	0	0	1	0
 நாற்பது	forty	0	0	1	1
 நாற்பது	fourty	0	0	1	0
 போட்டியை	competition	0	0	1	0
-போட்டியை	contest	0	0	1	0
 கணினி	computer	0	0	1	1
 கண்காட்சியாக	exhibition	0	0	1	0
 பதிப்பை	print	0	0	1	0
@@ -16432,10 +16056,8 @@ $	$	0	0	1	0
 ஈடு	equal	0	0	1	1
 வணங்கி	and worshiping	0	0	1	0
 வணங்கி	to pray	0	0	1	0
-வணங்கி	wish	0	0	1	0
 ரஷ்யாவின்	russian	0	0	1	0
 ரஷ்யாவின்	russia's	0	0	1	0
-மனைவியும்	with wife	0	0	1	0
 மனைவியும்	his wife	0	0	1	0
 மனைவியும்	wife	0	0	1	0
 பகுப்புதிரைப்பட	institute	0	0	1	0
@@ -16510,7 +16132,6 @@ $	$	0	0	1	0
 கிருப்டான்	kryptan a chemical compund	1	1	0	0
 இருந்தது	having that	0	0	1	0
 இருந்தது	it had	0	0	1	0
-விண்ணில்	sky	0	0	1	0
 விண்ணில்	in sky	0	0	1	0
 விண்ணில்	space	0	0	1	1
 படைப்புகள்	creations	0	0	1	0
@@ -16536,15 +16157,14 @@ $	$	0	0	1	0
 மூன்றாவதாக	third	0	0	1	0
 இத்திட்டம்	this plan	0	0	1	0
 அகிலம்	world	0	0	1	0
-அகிலம்	universe	0	0	1	1
 எலிசபெத்	elizabeth	0	0	1	0
 எலிசபெத்	elizabeth (name of a queen)	0	0	1	0
-பரப்பும்	spreading agent	0	0	1	0
-பரப்பும்	spread	0	0	1	0
 பரப்பும்	area	0	0	1	0
+பரப்பும்	spread	0	0	1	0
+பரப்பும்	spreading agent	0	0	1	0
 பகைமை	enmity	0	0	1	1
-பகைமை	opponent thought	0	0	1	0
 பகைமை	enemy	0	0	1	0
+பகைமை	opponent thought	0	0	1	0
 உள்ளடக்குகிறது	containing	0	0	1	0
 உள்ளடக்குகிறது	these include the	0	0	1	0
 ஆரம்பக்	initial	0	0	1	0
@@ -16637,7 +16257,9 @@ $	$	0	0	1	0
 பண்புகளை	charactersistics	0	0	1	0
 பண்புகளை	principle	0	0	1	0
 பண்புகளை	morals	0	0	1	0
-குரங்கு	monkey	0	0	1	1
+துறந்து	sacrificing everything	0	0	1	0
+துறந்து	sacrificed	0	0	1	0
+துறந்து	to be left	0	0	1	0
 வரைபடத்தில்	in map	0	0	1	0
 வரைபடத்தில்	on the map	0	0	1	0
 மிகப்	very	0	0	1	0
@@ -16655,7 +16277,6 @@ $	$	0	0	1	0
 சிறுக	little	0	0	1	0
 ஆவான்	he is	0	0	1	0
 வரி	line	0	0	1	1
-வரி	tax	0	0	1	1
 வரி	taxes	0	0	1	0
 தலித்	scheduled caste	0	0	1	0
 தலித்	dalit	0	0	1	0
@@ -16703,7 +16324,6 @@ $	$	0	0	1	0
 உச்சி	peak	0	0	1	0
 உலகிலுள்ள	world	0	0	1	0
 உலகிலுள்ள	in the world	0	0	1	0
-உலகிலுள்ள	world in	0	0	1	0
 யோகம்	luck	0	0	1	1
 மாதிரிகள்	sample	0	0	1	0
 மாதிரிகள்	models	0	0	1	0
@@ -16726,9 +16346,9 @@ $	$	0	0	1	0
 அரியானா	hariyana	0	0	1	0
 அரியானா	haryana a state in india	0	0	1	0
 அரியானா	haryana	0	0	1	0
-வாயில்கள்	gates or ways	0	0	1	0
-வாயில்கள்	entrance	0	0	1	0
 வாயில்கள்	entrances	0	0	1	0
+வாயில்கள்	entrance	0	0	1	0
+வாயில்கள்	gates or ways	0	0	1	0
 இரண்டாவது	second	0	0	1	1
 உரிம	agreement  of ownership (patent agreement)	0	0	1	0
 உரிம	lisence	0	0	1	0
@@ -16745,7 +16365,6 @@ $	$	0	0	1	0
 வளர்ந்தார்	growing	0	0	1	0
 வளர்ந்தார்	grown up	0	0	1	0
 வளர்ந்தார்	was brought up	0	0	1	0
-உயிர்களின்	spirits'	0	0	1	0
 உயிர்களின்	life	0	0	1	0
 எடுத்துக்காட்டாக	for example	0	0	1	0
 எடுத்துக்காட்டாக	examples	0	0	1	0
@@ -16772,7 +16391,6 @@ $	$	0	0	1	0
 மக்களடர்த்தி	population density	0	0	1	0
 மக்களடர்த்தி	people density	0	0	1	0
 இயற்கணிதம்	algebra	0	0	1	0
-திருமுழுக்கு	for tirumul	0	0	1	0
 திருமுழுக்கு	tirumulukku	0	0	1	0
 திருமுழுக்கு	church	0	0	1	0
 வழங்கப்பட்டது	was given	0	0	1	0
@@ -16897,7 +16515,6 @@ $	$	0	0	1	0
 படையினர்	troops	0	0	1	0
 படையினர்	soldiers	0	0	1	0
 ன்	in	0	0	1	0
-பாறைகள்	stones	0	0	1	0
 பாறைகள்	rocks	0	0	1	0
 நூற்றுக்கணக்கான	hundreds of	0	0	1	0
 சாளுக்கிய	chalukiya	0	0	1	0
@@ -16909,7 +16526,6 @@ $	$	0	0	1	0
 சார்பான	related	0	0	1	0
 பயனர்களின்	of users	0	0	1	0
 பயனர்களின்	users	0	0	1	0
-ஆண்கள்	men	0	0	1	0
 ஆண்கள்	gents	0	0	1	0
 சட்டவிரோதமாக	illegal	0	0	1	0
 சட்டவிரோதமாக	governmernt	0	0	1	0
@@ -16972,7 +16588,6 @@ $	$	0	0	1	0
 தலைமையிடமாக	head quaters	0	0	1	0
 தலைமையிடமாக	headquaters	0	0	1	0
 மொழியாகவும்	language and	0	0	1	0
-மொழியாகவும்	language	0	0	1	0
 நூல்களும்	poem	0	0	1	0
 நூல்களும்	books	0	0	1	0
 போக	go	0	0	1	0
@@ -17040,10 +16655,9 @@ $	$	0	0	1	0
 போய்	go	0	0	1	0
 போய்	went	0	0	1	0
 பாரம்பரியச்	traditional	0	0	1	0
-பாரம்பரியச்	ancestral	0	0	1	0
 பாரம்பரியச்	heritage	0	0	1	0
-தென்னிந்தியாவில்	south india	0	0	1	0
 தென்னிந்தியாவில்	in south india	0	0	1	0
+தென்னிந்தியாவில்	south india	0	0	1	0
 முகலாயக்	moghul	0	0	1	0
 முகலாயக்	mughal	0	0	1	0
 முகலாயக்	muhal's	0	0	1	0
@@ -17055,7 +16669,6 @@ $	$	0	0	1	0
 காலப்போக்கில்	nowadays	0	0	1	0
 மாய	invisible	0	0	1	0
 மாய	magic	0	0	1	0
-மாய	illusion	0	0	1	0
 கூலி	wage	0	0	1	0
 கூலி	maid	0	0	1	0
 கூலி	wages	0	0	1	0
@@ -17066,7 +16679,6 @@ $	$	0	0	1	0
 பகுதிகளுக்கு	areas	0	0	1	0
 உடலின்	in body	0	0	1	0
 உடலின்	of body	0	0	1	0
-உடலின்	physical	0	0	1	0
 மாத	monthly	0	0	1	0
 மாத	month	0	0	1	0
 சேமித்து	save	0	0	1	0
@@ -17143,7 +16755,6 @@ $	$	0	0	1	0
 வாசகர்கள்	readers	0	0	1	0
 அலுவலகங்கள்	offices	0	0	1	0
 அலுவலகங்கள்	office	0	0	1	0
-இன்றுவரை	till today	0	0	1	0
 இன்றுவரை	till date	0	0	1	0
 இன்றுவரை	till now	0	0	1	0
 செயல்திறன்	performance	0	0	1	0
@@ -17184,16 +16795,13 @@ $	$	0	0	1	0
 அறிஞர்	genius	0	0	1	0
 அறிஞர்	scholar	0	0	1	0
 ஈழப்	lankan	0	0	1	0
-ஈழப்	eelam	0	0	1	0
 அம்மன்	female god	0	0	1	0
 அம்மன்	goddess amman	0	0	1	0
 அம்மன்	temple	0	0	1	0
 பாண்டியர்களின்	pandias is a king in olden days	0	0	1	0
-பாண்டியர்களின்	pandian	0	0	1	0
 பாண்டியர்களின்	name of a dynasty	0	0	1	0
-படிப்படியாக	step by step	0	0	1	1
-படிப்படியாக	step by  step	0	0	1	0
-படிப்படியாக	step-by-step	0	0	1	0
+சிலரும்	some people	0	0	1	0
+சிலரும்	some peoples	0	0	1	0
 அரசில்	in government	0	0	1	0
 அரசில்	government	0	0	1	0
 இரத்தம்	blood	0	0	1	1
@@ -17206,8 +16814,8 @@ $	$	0	0	1	0
 நடிகை	in acting of amarkalam he married the salini varalakshimi actress	0	0	1	0
 நடிகை	actress	0	0	1	1
 விலைகள்	prices	0	0	1	0
-விலைகள்	cost	0	0	1	0
 விலைகள்	costs	0	0	1	0
+விலைகள்	cost	0	0	1	0
 ஐன்ஸ்டைன்	einstein	0	0	1	0
 அவைகளில்	their	0	0	1	0
 அவைகளில்	in that	0	0	1	0
@@ -17227,8 +16835,8 @@ $	$	0	0	1	0
 கூறிய	revealed	0	0	1	0
 கூறிய	told	0	0	1	0
 தலைவர்கள்	leaders	0	0	1	0
-பாத்திரங்கள்	characters	0	0	1	0
 பாத்திரங்கள்	vessels	0	0	1	0
+பாத்திரங்கள்	characters	0	0	1	0
 மொழியியல்	linguistics	0	0	1	0
 மொழியியல்	in language	0	0	1	0
 மொழியியல்	natural language	0	0	1	0
@@ -17242,7 +16850,6 @@ $	$	0	0	1	0
 வருவதாலும்	because of coming	0	0	1	0
 வருவதாலும்	coming	0	0	1	0
 எண்களில்	in numbers	0	0	1	0
-எண்களில்	numbers	0	0	1	0
 பழந்	olden	0	0	1	0
 பழந்	old	0	0	1	0
 மாதிரியை	models	0	0	1	0
@@ -17266,16 +16873,15 @@ $	$	0	0	1	0
 கூறப்பட்டுள்ளது	told	0	0	1	0
 தளையறு	important	0	0	1	0
 தளையறு	unfetter	0	0	1	0
-மாநகர்	city	0	0	1	0
-மாநகர்	metro	0	0	1	0
 மாநகர்	big cities	0	0	1	0
-அறிவியலாளர்கள்	seicetist	0	0	1	0
+மாநகர்	metro	0	0	1	0
+மாநகர்	city	0	0	1	0
 அறிவியலாளர்கள்	scientist	0	0	1	0
 நெருங்கிய	close	0	0	1	0
 நெருங்கிய	closed	0	0	1	0
 நெருங்கிய	close (close proximity)	0	0	1	0
-தொழிற்சாலைகள்	industries	0	0	1	0
-தொழிற்சாலைகள்	companies	0	0	1	0
+பெருகி	growing	0	0	1	0
+பெருகி	to improve	0	0	1	0
 வேதியியற்	chemical	0	0	1	0
 வேதியியற்	chemistry	0	0	1	0
 ஒப்புதல்	approval	0	0	1	0
@@ -17374,7 +16980,6 @@ $	$	0	0	1	0
 ஏற்படுத்துகின்றன	doings	0	0	1	0
 ஏற்படுத்துகின்றன	makes	0	0	1	0
 ஏற்படுத்துகின்றன	it creates	0	0	1	0
-இடம்பெற்றது	done it	0	0	1	0
 இடம்பெற்றது	found place	0	0	1	0
 இடம்பெற்றது	taken place	0	0	1	0
 காற்றின்	air	0	0	1	0
@@ -17400,7 +17005,6 @@ $	$	0	0	1	0
 நந்தி	nandhi - a name	0	0	1	0
 நந்தி	cow	0	0	1	0
 மனிதர்களால்	by the human	0	0	1	0
-மனிதர்களால்	humans	0	0	1	0
 மனிதர்களால்	by people	0	0	1	0
 சர்வர்	server	0	0	1	0
 கட்டிய	built	0	0	1	0
@@ -17429,8 +17033,7 @@ $	$	0	0	1	0
 அவரைக்	that person	0	0	1	0
 அவரைக்	his	0	0	1	0
 அவரைக்	him	0	0	1	0
-உண்மையில்	in fact	0	0	1	1
-உண்மையில்	true	0	0	1	0
+உண்மையில்	in fact	0	0	1	0
 உண்மையில்	truly	0	0	1	0
 நைட்	night	0	0	1	0
 கிரேக்க	greek	0	0	1	0
@@ -17438,7 +17041,6 @@ $	$	0	0	1	0
 துவக்கம்	start	0	0	1	0
 துவக்கம்	forming	0	0	1	0
 காட்டுவது	showing	0	0	1	0
-காட்டுவது	show	0	0	1	0
 பட்டியல்கள்	mark a note	0	0	1	0
 பட்டியல்கள்	list	0	0	1	0
 பட்டியல்கள்	lists	0	0	1	0
@@ -17517,10 +17119,8 @@ $	$	0	0	1	0
 புத்தர்	buthar	0	0	1	0
 புத்தர்	god	0	0	1	0
 புத்தர்	buddha	0	0	1	0
-முதன்மையான	primary	0	0	1	0
 முதன்மையான	prime importance	0	0	1	0
 முதன்மையான	first	0	0	1	0
-ஒப்பிடும்போது	compare	0	0	1	0
 ஒப்பிடும்போது	compared	0	0	1	0
 ஒப்பிடும்போது	when compared	0	0	1	0
 சேரும்	sexual contact	0	0	1	0
@@ -17539,7 +17139,6 @@ $	$	0	0	1	0
 புலிகளைக்	tigers	0	0	1	0
 மாறியது	changed	0	0	1	0
 மாறியது	has changed	0	0	1	0
-அகரமுதலி	alphabets	0	0	1	0
 அகரமுதலி	first letter in tamil	0	0	1	0
 அகரமுதலி	agaramuthali	0	0	1	0
 தமிழ்நாட்டு	tamilnadus	0	0	1	0
@@ -17572,8 +17171,8 @@ $	$	0	0	1	0
 தமிழர்கள்	tamil people	0	0	1	0
 தமிழர்கள்	tamilians	0	0	1	0
 தமிழர்கள்	tamilans	0	0	1	0
-மாதிரியாக	as a sample	0	0	1	0
 மாதிரியாக	model	0	0	1	0
+மாதிரியாக	as a sample	0	0	1	0
 மாதிரியாக	alike	0	0	1	0
 புரதம்	protein	0	0	1	0
 புரதம்	old	0	0	1	0
@@ -17613,8 +17212,8 @@ $	$	0	0	1	0
 விபச்சாரம்	prostitution	0	0	1	0
 விபச்சாரம்	sexual business	0	0	1	0
 காலச்	time	0	0	1	0
-காலச்	ancient time or time	0	0	1	0
 காலச்	period	0	0	1	0
+காலச்	ancient time or time	0	0	1	0
 இன	ethnic	0	0	1	0
 இன	community	0	0	1	0
 இன	caste	0	0	1	0
@@ -17623,7 +17222,6 @@ $	$	0	0	1	0
 அனுப்பப்	to send	0	0	1	0
 அனுப்பப்	send	0	0	1	0
 பார்வதி	godess	0	0	1	0
-பார்வதி	parvathi	0	0	1	0
 ஏன்	why	0	0	1	1
 மின்னணு	bright	0	0	1	0
 மின்னணு	electronic	0	0	1	0
@@ -17660,15 +17258,13 @@ $	$	0	0	1	0
 நிறுவனத்தின்	company's	0	0	1	0
 நிறுவனத்தின்	company	0	0	1	0
 இவற்றால்	because of this	0	0	1	0
-இவற்றால்	by these	0	0	1	0
 செருமனி	ceremony	0	0	1	0
 செருமனி	germany	0	0	1	0
 பேருந்துகள்	bus	0	0	1	0
 பேருந்துகள்	buses	0	0	1	0
-முந்திய	previous	0	0	1	0
-முந்திய	earlier	0	0	1	0
 முந்திய	before	0	0	1	0
-பொருந்தி	to fit	0	0	1	0
+முந்திய	earlier	0	0	1	0
+முந்திய	previous	0	0	1	0
 பொருந்தி	fix	0	0	1	0
 பொருந்தி	match with	0	0	1	0
 லீ	lee	0	0	1	0
@@ -17692,7 +17288,6 @@ $	$	0	0	1	0
 கொள்கிறார்கள்	accepted	0	0	1	0
 கொள்கிறார்கள்	having	0	0	1	0
 உருமாற்றம்	physical changes	0	0	1	0
-உருமாற்றம்	shedding	0	0	1	0
 உருமாற்றம்	changes	0	0	1	0
 நிர்ணயம்	conform	0	0	1	0
 நிர்ணயம்	determination	0	0	1	1
@@ -17701,7 +17296,6 @@ $	$	0	0	1	0
 பாரத	india	0	0	1	0
 பாரத	bharatha	0	0	1	0
 பகுதியும்	a section	0	0	1	0
-பகுதியும்	section	0	0	1	0
 பகுதியும்	parts	0	0	1	0
 உலகெங்கும்	worldwide	0	0	1	0
 உலகெங்கும்	all around the world	0	0	1	0
@@ -17726,7 +17320,6 @@ $	$	0	0	1	0
 கைப்பற்றினான்	recaptured	0	0	1	0
 இடை	middle	0	0	1	0
 இடை	gape	0	0	1	0
-இடை	between	0	0	1	0
 வளர்ந்து	grown	0	0	1	0
 வளர்ந்து	growth	0	0	1	0
 பரிமாறிக்	inter change	0	0	1	0
@@ -17737,7 +17330,6 @@ $	$	0	0	1	0
 கூடவே	along with	0	0	1	0
 அமைப்பையும்	organise	0	0	1	0
 அமைப்பையும்	formation	0	0	1	0
-அமைப்பையும்	make up	0	0	1	0
 தருகிறார்	given	0	0	1	0
 தருகிறார்	(a person) giving	0	0	1	0
 தருகிறார்	gives	0	0	1	0
@@ -17776,8 +17368,8 @@ $	$	0	0	1	0
 பூர்வமாக	based	0	0	1	0
 பூனை	cats	0	0	1	0
 பூனை	cat	0	0	1	1
-விளங்கினார்	are the	0	0	1	0
-விளங்கினார்	past tense of be (was)	0	0	1	0
+பேசப்பட்டு	spoken	0	0	1	0
+பேசப்பட்டு	speaking	0	0	1	0
 சமுதாயத்தில்	in socity	0	0	1	0
 சமுதாயத்தில்	in the society	0	0	1	0
 சமுதாயத்தில்	society	0	0	1	0
@@ -17791,7 +17383,6 @@ $	$	0	0	1	0
 கோவை	coimbatore	0	0	1	0
 கோவை	kovai	0	0	1	0
 கோவை	coimbatore a town in tamilnadu	0	0	1	0
-மாதத்தில்	monthly	0	0	1	0
 மாதத்தில்	in the month	0	0	1	0
 மாதத்தில்	month	0	0	1	0
 அலுவலகம்	office	0	0	1	1
@@ -17829,7 +17420,6 @@ $	$	0	0	1	0
 ஒருவருடைய	individual	0	0	1	0
 ஒருவருடைய	one's own	0	0	1	0
 கருத்துக்கள்	opinions	0	0	1	0
-கருத்துக்கள்	suggetions	0	0	1	0
 உடலில்	body	0	0	1	0
 உடலில்	body's	0	0	1	0
 <	lesser than	0	0	1	0
@@ -17839,7 +17429,6 @@ $	$	0	0	1	0
 வல்லுனர்கள்	experts	0	0	1	1
 பாடல்	song	0	0	1	0
 பாடல்	songs	0	0	1	0
-வெகுஜன	mass	0	0	1	0
 வெகுஜன	public	0	0	1	0
 வெகுஜன	more	0	0	1	0
 தொகை	amount	0	0	1	1
@@ -17870,7 +17459,7 @@ $	$	0	0	1	0
 ரயில்வே	railways	0	0	1	0
 ரயில்வே	railway	0	0	1	0
 ரயில்வே	rail	0	0	1	0
-தலைநகரம்	capital city	0	0	1	1
+தலைநகரம்	capital city	0	0	1	0
 தலைநகரம்	headquaters	0	0	1	0
 தலைநகரம்	capital	0	0	1	1
 குழு	group	0	0	1	0
@@ -17935,7 +17524,7 @@ $	$	0	0	1	0
 கொண்டதும்	with	0	0	1	0
 கொண்டதும்	exist with	0	0	1	0
 கொண்டதும்	contain	0	0	1	0
-விட	compared with	0	0	1	1
+விட	compared with	0	0	1	0
 விட	better than	0	0	1	0
 விட	other than	0	0	1	0
 எனது	my	0	0	1	0
@@ -17974,7 +17563,6 @@ $	$	0	0	1	0
 கீழ்	down	0	0	1	1
 கீழ்	below	0	0	1	0
 விரைவான	speedy	0	0	1	0
-விரைவான	fast	0	0	1	0
 விரைவான	quickly	0	0	1	0
 குளம்	pond	0	0	1	1
 கீழே	down	0	0	1	0
@@ -17985,7 +17573,7 @@ $	$	0	0	1	0
 அணிக்கு	teem	0	0	1	0
 அணிக்கு	teams	0	0	1	0
 அணிக்கு	team	0	0	1	0
-பாரதி	bharathi	0	0	1	0
+மருத்துவமனை	hospital	0	0	1	1
 அழிக்கப்பட்ட	destroyed	0	0	1	0
 அழிக்கப்பட்ட	destructed	0	0	1	0
 விரைவாக	fast	0	0	1	0
@@ -18056,7 +17644,6 @@ $	$	0	0	1	0
 குறுந்தொகை	a tamil poetry	0	0	1	0
 இருந்தார்	he was there	0	0	1	0
 இருந்தார்	is there	0	0	1	0
-இருந்தார்	he had live	0	0	1	0
 திருமணத்திற்கு	marriage	0	0	1	0
 வடமொழியில்	north indian language	0	0	1	0
 வடமொழியில்	north language	0	0	1	0
@@ -18071,9 +17658,8 @@ $	$	0	0	1	0
 வேறுபாட்டை	variation	0	0	1	0
 தொடர்புடைய	related	0	0	1	0
 தொடர்புடைய	having relation	0	0	1	0
-பயிர்	plant	0	0	1	0
-பயிர்	seed	0	0	1	0
-பயிர்	paddy	0	0	1	0
+பிரதான	main	0	0	1	0
+பிரதான	important	0	0	1	0
 முதலிடத்தில்	in the first place	0	0	1	0
 முதலிடத்தில்	first place	0	0	1	0
 நம்பிக்கையை	confidence	0	0	1	0
@@ -18156,7 +17742,6 @@ $	$	0	0	1	0
 உள்வாங்கி	adductor	0	0	1	0
 உள்வாங்கி	accept	0	0	1	0
 உள்வாங்கி	interpreted	0	0	1	0
-எச்சம்	not know	0	0	1	0
 எச்சம்	leavings	0	0	1	0
 எச்சம்	grammar	0	0	1	0
 முறை	system	0	0	1	1
@@ -18180,11 +17765,9 @@ $	$	0	0	1	0
 தரவிறக்கம்	download	0	0	1	0
 கர்ம	karma	0	0	1	0
 உயிரினத்தின்	life forms	0	0	1	0
-உயிரினத்தின்	living things	0	0	1	0
 உயிரினத்தின்	of the organism	0	0	1	0
 கலாசார	culture	0	0	1	0
 கலாசார	cultural	0	0	1	0
-கிறிஸ்துமஸ்	cristmes	0	0	1	0
 கிறிஸ்துமஸ்	christmas	0	0	1	0
 போராளிகள்	warriors	0	0	1	0
 போராளிகள்	fighters	0	0	1	0
@@ -18272,7 +17855,6 @@ $	$	0	0	1	0
 சொல்லப்படுகிறது	it is informed	0	0	1	0
 சொல்லப்படுகிறது	explained	0	0	1	0
 சொல்லப்படுகிறது	mention as	0	0	1	0
-ஆதாரங்கள்	proff or resource	0	0	1	0
 ஆதாரங்கள்	proof	0	0	1	0
 முன்னிலை	forward	0	0	1	0
 முன்னிலை	leading	0	0	1	0
@@ -18281,7 +17863,6 @@ $	$	0	0	1	0
 சேவைகளை	services	0	0	1	0
 பகிர்ந்து	shared	0	0	1	0
 பகிர்ந்து	share	0	0	1	0
-பகிர்ந்து	divide	0	0	1	0
 புகைப்படம்	photo	0	0	1	0
 புகைப்படம்	photgraph	0	0	1	0
 புகைப்படம்	photograph	0	0	1	1
@@ -18339,8 +17920,8 @@ $	$	0	0	1	0
 பார்ப்பதற்கு	looks	0	0	1	0
 பற்றி	about	0	0	1	1
 பற்றி	regarding	0	0	1	0
-வெள்ளையின	white people	0	0	1	0
 வெள்ளையின	whites	0	0	1	0
+வெள்ளையின	white people	0	0	1	0
 மீண்டும்	again	0	0	1	0
 மீண்டும்	back	0	0	1	0
 பார்வைகள்	looking	0	0	1	0
@@ -18389,7 +17970,6 @@ $	$	0	0	1	0
 வட்டத்தின்	in circle	0	0	1	0
 தென்னாப்பிரிக்கா	south africa	0	0	1	0
 நற்செய்தியை	gospel	0	0	1	0
-நற்செய்தியை	good news	0	0	1	0
 நற்செய்தியை	god news	0	0	1	0
 கடற்கரை	beach	0	0	1	1
 மகாபாரதம்	mahabharat	0	0	1	0
@@ -18402,14 +17982,12 @@ $	$	0	0	1	0
 இந்திரா	indhra	0	0	1	0
 நிறுவப்பட்டது	found	0	0	1	0
 நிறுவப்பட்டது	made	0	0	1	0
-நிறுவப்பட்டது	constructed	0	0	1	0
 அம்சங்களையும்	features	0	0	1	0
 அம்சங்களையும்	of features	0	0	1	0
 ஆறாம்	sixth	0	0	1	0
 செய்தியை	news	0	0	1	0
 தெரிவித்து	inform	0	0	1	0
 தெரிவித்து	to inform	0	0	1	0
-தெரிவித்து	told	0	0	1	0
 எழுதப்பட்ட	written	0	0	1	0
 பிறப்பின்	in birth	0	0	1	0
 பிறப்பின்	birth	0	0	1	0
@@ -18443,7 +18021,6 @@ $	$	0	0	1	0
 கருதினார்	considered	0	0	1	0
 கருதினார்	thought about	0	0	1	0
 கருதினார்	thought	0	0	1	0
-ஜப்பானின்	japan	0	0	1	0
 ஜப்பானின்	japanese	0	0	1	0
 ஜப்பானின்	of japan	0	0	1	0
 பரத	a dance	0	0	1	0
@@ -18489,7 +18066,7 @@ $	$	0	0	1	0
 வெளியிடுகிறது	releases	0	0	1	0
 ஆறு	six	1	1	1	1
 ஆறு	rivers	1	0	1	0
-ஆறு	river	1	1	1	1
+ஆறு	river	1	1	0	1
 ஆறு	burhan	1	0	1	0
 ஆறு	rivar	1	1	0	0
 பரப்பளவில்	areawise	0	0	1	0
@@ -18510,9 +18087,9 @@ $	$	0	0	1	0
 உள்ளடக்கியிருக்கிறது	embedded	0	0	1	0
 உள்ளடக்கியிருக்கிறது	includes	0	0	1	0
 அதன்	that	0	0	1	0
-புத்த	butha	0	0	1	0
-புத்த	buddhist	0	0	1	0
 புத்த	budha	0	0	1	0
+புத்த	buddhist	0	0	1	0
+புத்த	butha	0	0	1	0
 அதனை	that one	0	0	1	0
 அதனை	that	0	0	1	0
 திருமணங்கள்	marriage	0	0	1	0
@@ -18593,7 +18170,6 @@ $	$	0	0	1	0
 வெண்ணிற	whitesh	0	0	1	0
 போட்டு	to amend	0	0	1	0
 போட்டு	with	0	0	1	0
-போட்டு	build	0	0	1	0
 துருவ	poles	0	0	1	0
 துருவ	rays	0	0	1	0
 துருவ	rava starts	0	0	1	0
@@ -18608,7 +18184,6 @@ $	$	0	0	1	0
 தயாரிக்கப்பட்ட	produced	0	0	1	0
 தயாரிக்கப்பட்ட	having manufactured	0	0	1	0
 தயாரிக்கப்பட்ட	prepare	0	0	1	0
-ஜிம்மி	english name .... jimmy	0	0	1	0
 ஜிம்மி	jimmy	0	0	1	0
 மாறாக	for a change	0	0	1	0
 மாறாக	different	0	0	1	0
@@ -18723,8 +18298,8 @@ $	$	0	0	1	0
 செயல்படுகின்றது	functioning	0	0	1	0
 செயல்படுகின்றது	working	0	0	1	0
 செயல்படுகின்றது	acting upon	0	0	1	0
-ஏவுகணைகள்	missiles	0	0	1	0
-ஏவுகணைகள்	missile	0	0	1	0
+வடிவமும்	shape	0	0	1	0
+வடிவமும்	form	0	0	1	0
 இந்தியன்	indian	0	0	1	0
 பின்னரும்	aftermath	0	0	1	0
 பின்னரும்	after	0	0	1	0
@@ -18763,7 +18338,6 @@ $	$	0	0	1	0
 நாளடைவில்	practically	0	0	1	0
 நாளடைவில்	tomorrow	0	0	1	0
 நாளடைவில்	afterwards	0	0	1	0
-என்பதைப்	with the pupose of	0	0	1	0
 என்பதைப்	on the	0	0	1	0
 என்பதைப்	that	0	0	1	0
 கொண்டிருந்தன	had	0	0	1	0
@@ -18834,13 +18408,13 @@ $	$	0	0	1	0
 காரணமாகவே	reason	0	0	1	0
 காரணமாகவே	because of that reason	0	0	1	0
 கொள்ளப்படுகின்றன	have their prey	0	0	1	0
-கொள்ளப்படுகின்றன	accept	0	0	1	0
 கொள்ளப்படுகின்றன	means	0	0	1	0
 இறைவனால்	by god	0	0	1	0
 இறைவனால்	because of god	0	0	1	0
 சொற்களும்	words	0	0	1	0
-கிளர்ச்சி	revolution	0	0	1	0
-கிளர்ச்சி	agitation	0	0	1	1
+மிக்க	so	0	0	1	0
+மிக்க	with	0	0	1	0
+மிக்க	highly	0	0	1	0
 மற்றைய	other	0	0	1	0
 அமைத்துக்	set up	0	0	1	0
 அமைத்துக்	made	0	0	1	0
@@ -18872,7 +18446,6 @@ $	$	0	0	1	0
 பொதுச்	public	0	0	1	0
 பொதுச்	common	0	0	1	0
 கறுப்பு	black	0	0	1	1
-நாட்டம்	keen	0	0	1	0
 நாட்டம்	like	0	0	1	0
 நாட்டம்	interest	0	0	1	1
 மரியா	mary	0	0	1	0
@@ -18890,7 +18463,6 @@ $	$	0	0	1	0
 பஞ்சாப்	a state in india known as punjab	1	0	1	0
 பஞ்சாப்	punjab a state in india	1	0	1	0
 பஞ்சாப்	semitic	1	0	1	0
-பஞ்சாப்	punjob/ state in india	1	0	1	0
 பஞ்சாப்	equilibrium	1	0	1	0
 அயனாதிக்க	ionospheric	0	0	1	0
 அயனாதிக்க	ionised	0	0	1	0
@@ -18939,7 +18511,6 @@ $	$	0	0	1	0
 பொருளாதாரத்தில்	economics	0	0	1	0
 பொருளாதாரத்தில்	in economics	0	0	1	0
 பொருளாதாரத்தில்	economy	0	0	1	0
-அய்யாவழியில்	ayya's path	0	0	1	0
 கருதும்	understanding	0	0	1	0
 கருதும்	to have that	0	0	1	0
 கருதும்	belives	0	0	1	0
@@ -18966,7 +18537,6 @@ $	$	0	0	1	0
 உருவான	created	0	0	1	0
 தீன்	teen	0	0	1	0
 மட்டில்	only one	0	0	1	0
-மட்டில்	in roll	0	0	1	0
 மட்டில்	wrap in tin	0	0	1	0
 அம்சம்	set	0	0	1	0
 அம்சம்	character	0	0	1	0
@@ -18987,8 +18557,8 @@ $	$	0	0	1	0
 கரிகாலன்	chola king	0	0	1	0
 கரிகாலன்	karikalan	0	0	1	0
 கரிகாலன்	karikalan a chola king	0	0	1	0
-கோரிக்கை	demand	0	0	1	0
 கோரிக்கை	demands	0	0	1	0
+கோரிக்கை	demand	0	0	1	0
 புலவர்	poet	0	0	1	0
 ஊடாக	inbetween	0	0	1	0
 ஊடாக	way	0	0	1	0
@@ -19011,7 +18581,6 @@ $	$	0	0	1	0
 வார்த்தையானது	words	0	0	1	0
 கொண்டவையாகும்	contained	0	0	1	0
 கொண்டவையாகும்	contain	0	0	1	0
-கொண்டவையாகும்	in	0	0	1	0
 வரைந்த	drawn	0	0	1	0
 வரைந்த	draw	0	0	1	0
 வரைந்த	drawed	0	0	1	0
@@ -19041,10 +18610,9 @@ $	$	0	0	1	0
 கலன்	bucket	0	0	1	0
 கலன்	cells	0	0	1	0
 தன்னைப்	a	0	0	1	0
-தன்னைப்	myself	0	0	1	0
 தன்னைப்	himself	0	0	1	0
-தன்னைப்	herself	0	0	1	0
 தன்னைப்	itself	0	0	1	0
+தன்னைப்	herself	0	0	1	0
 போன்ற	likewise	0	0	1	0
 போன்ற	as	0	0	1	0
 போன்ற	like	0	0	1	0
@@ -19095,7 +18663,6 @@ $	$	0	0	1	0
 வேலைவாய்ப்பின்மை	unemployment	0	0	1	0
 பலராலும்	many	0	0	1	0
 பலராலும்	everyone	0	0	1	0
-பலராலும்	many people	0	0	1	0
 பட்சத்தில்	in the case of	0	0	1	0
 பட்சத்தில்	like	0	0	1	0
 மார்பளவு	chest	0	0	1	0
@@ -19109,7 +18676,6 @@ $	$	0	0	1	0
 நான்காவது	fourth	0	0	1	0
 எல்லாவற்றிலும்	all	0	0	1	0
 எல்லாவற்றிலும்	in all	0	0	1	0
-எல்லாவற்றிலும்	full in full	0	0	1	0
 வன்மி	prepare	1	0	1	0
 வன்மி	did	1	0	1	0
 வன்மி	did it	1	0	1	0
@@ -19157,7 +18723,6 @@ $	$	0	0	1	0
 நாமக்கல்	namakkal	0	0	1	0
 நாமக்கல்	namakkal district of tamilnadu	0	0	1	0
 கணிதத்தில்	maths	0	0	1	0
-கணிதத்தில்	in mathematics	0	0	1	0
 ஒன்றோடொன்று	joint	0	0	1	0
 ஒன்றோடொன்று	one to one	0	0	1	0
 ஒன்றோடொன்று	each other	0	0	1	0
@@ -19262,8 +18827,6 @@ $	$	0	0	1	0
 காலகட்டத்தில்	at the time of	0	0	1	0
 காலகட்டத்தில்	stage	0	0	1	0
 எங்கும்	everywhere	0	0	1	1
-எங்கும்	every where	0	0	1	0
-இளைஞர்கள்	youth	0	0	1	0
 இளைஞர்கள்	youths	0	0	1	0
 இளைஞர்கள்	youngsters	0	0	1	0
 சொற்கள்	words	0	0	1	0
@@ -19349,9 +18912,9 @@ $	$	0	0	1	0
 ஆணும்	male	0	0	1	0
 மையக்	centreline	0	0	1	0
 மையக்	centre	0	0	1	0
-இருக்கிறதா	is there	0	0	1	0
 இருக்கிறதா	is it there	0	0	1	0
 இருக்கிறதா	having that	0	0	1	0
+இருக்கிறதா	is there	0	0	1	0
 ஏற்றுமதி	exports	0	0	1	0
 ஏற்றுமதி	export	0	0	1	1
 பகுதியானது	a section	0	0	1	0
@@ -19367,7 +18930,6 @@ $	$	0	0	1	0
 இடம்	place	0	0	1	1
 நெடிய	long	0	0	1	0
 நெடிய	long duration	0	0	1	0
-இத்தாலியன்	people of ithalian	0	0	1	0
 இத்தாலியன்	italy's	0	0	1	0
 இத்தாலியன்	italian	0	0	1	0
 தடுக்க	prevent	0	0	1	0
@@ -19380,8 +18942,8 @@ $	$	0	0	1	0
 மிகச்சிறந்த	extraordinary	0	0	1	0
 மிகச்சிறந்த	morebetter	0	0	1	0
 மிகச்சிறந்த	best	0	0	1	0
-சுல்தான்	sulthan	0	0	1	0
-சுல்தான்	sultan	0	0	1	1
+முடிவடைந்து	finishing	0	0	1	0
+முடிவடைந்து	has ended	0	0	1	0
 இருபால்	multiple sex	0	0	1	0
 இருபால்	allocarpy	0	0	1	0
 இருபால்	heterosexual	0	0	1	0
@@ -19437,8 +18999,8 @@ $	$	0	0	1	0
 ஒப்பந்தத்தின்	agreement	0	0	1	0
 ஒப்பந்தத்தின்	contract	0	0	1	0
 கவரும்	attractor	0	0	1	0
-கவரும்	attracting	0	0	1	0
 கவரும்	attrating	0	0	1	0
+கவரும்	attracting	0	0	1	0
 தமிழின்	tamil's	0	0	1	0
 தமிழின்	tamil	0	0	1	0
 கையால்	hand	0	0	1	0
@@ -19466,7 +19028,6 @@ $	$	0	0	1	0
 எகிப்தின்	of egypt	0	0	1	0
 எகிப்தின்	egypt's	0	0	1	0
 பகுதியிலும்	that part	0	0	1	0
-பகுதியிலும்	section or part	0	0	1	0
 பகுதியிலும்	area	0	0	1	0
 இணைப்பு	connection	0	0	1	1
 இந்நிலையில்	this situation	0	0	1	0
@@ -19478,10 +19039,11 @@ $	$	0	0	1	0
 வழிபாடு	worship	0	0	1	1
 அதிகரித்தல்	increase	0	0	1	0
 அதிகரித்தல்	increased	0	0	1	0
-அதிகரித்தல்	raising	0	0	1	0
+தாயின்	mother	0	0	1	0
+தாயின்	from the mother	0	0	1	0
+தாயின்	mother's	0	0	1	0
 திருமுகம்	thiru mugam	0	0	1	0
 சிறீ	small	0	0	1	0
-சிறீ	ciri	0	0	1	0
 சிறீ	sri	0	0	1	0
 கோயிலுக்கு	to the temple	0	0	1	0
 கோயிலுக்கு	temple	0	0	1	0
@@ -19506,7 +19068,6 @@ $	$	0	0	1	0
 பேஸ்பால்	base ball	0	0	1	0
 அறிவியலில்	science	0	0	1	0
 அறிவியலில்	in science	0	0	1	0
-தாங்கும்	carrying	0	0	1	0
 தாங்கும்	hold	0	0	1	0
 தாங்கும்	bearable	0	0	1	0
 ஏராளமான	in large number	0	0	1	0
@@ -19521,11 +19082,9 @@ $	$	0	0	1	0
 வேறுபடுகிறது	differ	0	0	1	0
 வேறுபடுகிறது	varied	0	0	1	0
 சிந்தனை	thinking	0	0	1	0
-சிந்தனை	think	0	0	1	0
 சிந்தனை	to think	0	0	1	0
-சேர்	to add	0	0	1	0
-சேர்	add	0	0	1	1
 சேர்	join	0	0	1	1
+சேர்	to add	0	0	1	0
 பிரசாத்	prasad	0	0	1	0
 உலகமயமாதல்	globalization	0	0	1	0
 உலகமயமாதல்	world economic liberation	0	0	1	0
@@ -19589,7 +19148,6 @@ $	$	0	0	1	0
 செய்வதற்காக	to work	0	0	1	0
 செய்வதற்காக	to do	0	0	1	0
 கன்னட	kanada	0	0	1	0
-கன்னட	karnataka	0	0	1	0
 கன்னட	of kannada	0	0	1	0
 தொழில்நுட்பக்	technical	0	0	1	0
 தொழில்நுட்பக்	technological	0	0	1	0
@@ -19673,9 +19231,9 @@ $	$	0	0	1	0
 நிறுவனங்களின்	of companies	0	0	1	0
 நிறுவனங்களின்	organisations	0	0	1	0
 பிறந்தது	born	0	0	1	0
-முடியவில்லை	could not	0	0	1	0
 முடியவில்லை	didn't complete	0	0	1	0
 முடியவில்லை	not possible	0	0	1	0
+முடியவில்லை	could not	0	0	1	0
 கிருமி	gems	0	0	1	0
 கிருமி	germs	0	0	1	0
 கிருமி	germ	0	0	1	0
@@ -19795,7 +19353,6 @@ $	$	0	0	1	0
 இரண்டின்	of both	0	0	1	0
 உண்டு	available	0	0	1	0
 உண்டு	there	0	0	1	0
-உண்டு	present	0	0	1	0
 கொடி	flag	0	0	1	1
 நகரில்	city	0	0	1	0
 நகரில்	in the town	0	0	1	0
@@ -19806,7 +19363,6 @@ $	$	0	0	1	0
 குறித்த	terms of reference	0	0	1	0
 குறித்த	about	0	0	1	0
 கொள்வதால்	will	0	0	1	0
-கொள்வதால்	contact	0	0	1	0
 கொள்வதால்	having	0	0	1	0
 உணவுகளும்	foods	0	0	1	0
 விவசாயத்	farm	0	0	1	0
@@ -19874,12 +19430,10 @@ $	$	0	0	1	0
 மாநகரம்	metropolitan city	0	0	1	0
 ஜப்பானிய	japan	0	0	1	0
 ஜப்பானிய	japanies	0	0	1	0
-ஜப்பானிய	japanese	0	0	1	0
 ஆங்கிலத்தில்	in english	0	0	1	0
 ஆங்கிலத்தில்	english	0	0	1	0
 உடன்படிக்கை	covenant	0	0	1	1
 உடன்படிக்கை	agreement	0	0	1	1
-விலகிச்	leave	0	0	1	0
 விலகிச்	away	0	0	1	0
 விலகிச்	leaving	0	0	1	0
 தொன்மவியல்	a study of old things	1	0	1	0
@@ -19974,7 +19528,6 @@ $	$	0	0	1	0
 குறிப்பிடத்தக்கது	notable	0	0	1	0
 குறிப்பிடத்தக்கது	particularly	0	0	1	0
 கூட்டணி	joint alliance	0	0	1	0
-கூட்டணி	alliance	0	0	1	0
 கூட்டணி	collision	0	0	1	0
 இடமாகவும்	left also	0	0	1	0
 இடமாகவும்	as	0	0	1	0
@@ -20025,8 +19578,8 @@ $	$	0	0	1	0
 நோயாளிகளுக்கு	for persons	0	0	1	0
 நோயாளிகளுக்கு	for patients	0	0	1	0
 நோயாளிகளுக்கு	patients	0	0	1	0
-ஆட்சியில்	governance	0	0	1	0
 ஆட்சியில்	rule	0	0	1	0
+ஆட்சியில்	governance	0	0	1	0
 ஆட்சியில்	government	0	0	1	0
 வாக்கிய	sentence	0	0	1	0
 வாக்கிய	words	0	0	1	0
@@ -20035,7 +19588,6 @@ $	$	0	0	1	0
 காலப்பகுதி	betwwen that period	0	0	1	0
 நிறுவிய	founded	0	0	1	0
 நிறுவிய	installation	0	0	1	0
-நிறுவிய	constructed	0	0	1	0
 சுற்றிவரும்	rotation	0	0	1	0
 சுற்றிவரும்	revolution	0	0	1	0
 சுற்றிவரும்	orbit	0	0	1	0
@@ -20044,10 +19596,10 @@ $	$	0	0	1	0
 நாவலர்	author	0	0	1	0
 மாதம்	month of	0	0	1	0
 மாதம்	month	0	0	1	1
-குமுதம்	kumudham	0	0	1	0
 குமுதம்	kumutham	0	0	1	0
+குமுதம்	kumudham	0	0	1	0
 குமுதம்	know	0	0	1	0
-பப்பாளி	carica papaya	1	1	0	1
+பப்பாளி	carica papaya	1	1	0	0
 பப்பாளி	papaya	1	1	0	0
 பப்பாளி	about	1	0	1	0
 பப்பாளி	related	1	0	1	0
@@ -20099,7 +19651,6 @@ $	$	0	0	1	0
 செல்வாக்கை	glory	0	0	1	0
 செல்வாக்கை	power	0	0	1	0
 உருவாக்கவும்	to create	0	0	1	0
-உருவாக்கவும்	create	0	0	1	0
 செல்வாக்கு	majority	0	0	1	0
 செல்வாக்கு	influence	0	0	1	0
 செல்வாக்கு	luxury	0	0	1	0
@@ -20110,7 +19661,6 @@ $	$	0	0	1	0
 கோர்ட்	court	0	0	1	0
 நகரங்களின்	towns	0	0	1	0
 நகரங்களின்	town's	0	0	1	0
-நகரங்களின்	in cities	0	0	1	0
 உயிரித்	bio	0	0	1	0
 உயிரித்	biology	0	0	1	0
 சமுதாயங்கள்	communities	0	0	1	0
@@ -20129,11 +19679,9 @@ $	$	0	0	1	0
 தீவுகளையும்	island	0	0	1	0
 ஆய்வின்	experiment	0	0	1	0
 ஆய்வின்	research	0	0	1	0
-நிர்வாகத்தில்	in administration	0	0	1	0
 நிர்வாகத்தில்	management	0	0	1	0
 நிர்வாகத்தில்	administration	0	0	1	0
 தமிழீழ	tamil eelam	0	0	1	0
-தமிழீழ	tanil ealam	0	0	1	0
 வரிசை	line	0	0	1	1
 வரிசை	order	0	0	1	1
 பேரரசாக	the empire	0	0	1	0
@@ -20276,7 +19824,6 @@ $	$	0	0	1	0
 அரிதாகவே	rarely	0	0	1	0
 கற்கும்	teaching	0	0	1	0
 கற்கும்	to learn	0	0	1	0
-கற்கும்	learn	0	0	1	0
 சந்திரன்கள்	moons	0	0	1	0
 சந்திரன்கள்	moon	0	0	1	0
 அய்யாவழி	sir way	0	0	1	0
@@ -20305,7 +19852,7 @@ $	$	0	0	1	0
 இருந்தபோதிலும்	despite the	0	0	1	0
 இருந்தபோதிலும்	even though	0	0	1	0
 இருந்தபோதிலும்	eventhough	0	0	1	0
-கருத்தடை	birth control	0	0	1	1
+கருத்தடை	birth control	0	0	1	0
 கருத்தடை	abortion	0	0	1	0
 கருத்தடை	contraception	0	0	1	0
 வைஃபை	wi-fi	0	0	1	0
@@ -20358,7 +19905,7 @@ $	$	0	0	1	0
 வெளியீடுகள்	publications	0	0	1	0
 வெளியீடுகள்	publication	0	0	1	0
 கடலூர்	cuddalore	0	0	1	0
-கப்பற்படை	naval force	0	0	1	1
+கப்பற்படை	naval force	0	0	1	0
 கப்பற்படை	navyforce	0	0	1	0
 கப்பற்படை	navy force	0	0	1	0
 ஆறுகளில்	in rivers	0	0	1	0
@@ -20399,7 +19946,6 @@ $	$	0	0	1	0
 காக்கும்	protected	0	0	1	0
 மேரி	mary	0	0	1	0
 நைட்ரஜன்	nitrogen	0	0	1	0
-சச்சின்	sachin/ name in cricket player	0	0	1	0
 சச்சின்	sachin	0	0	1	0
 அழியும்	world most precious living things of 2.95 are in india that type of living things are protected by 1973 year law that  be supervised by american goverment  and american aqua and wild living  things  sector  be protectded by 1973 act rule that will be supervising by american aqua and wild living service	0	0	1	0
 அழியும்	to be destroyed	0	0	1	0
@@ -20423,9 +19969,9 @@ $	$	0	0	1	0
 கன்னியாகுமரி	kanyakumari	0	0	1	0
 திறமை	talent	0	0	1	1
 திறமை	ability	0	0	1	1
-கடலோரத்தில்	near sea	0	0	1	0
-கடலோரத்தில்	coastal	0	0	1	0
 கடலோரத்தில்	sea shore	0	0	1	0
+கடலோரத்தில்	coastal	0	0	1	0
+கடலோரத்தில்	near sea	0	0	1	0
 நச்சுயிரி	virus	0	0	1	0
 வேண்டியதாயிற்று	had to	0	0	1	0
 வேண்டியதாயிற்று	because	0	0	1	0
@@ -20505,9 +20051,8 @@ $	$	0	0	1	0
 காட்டும்	will show	0	0	1	0
 காட்டும்	shows	0	0	1	0
 கும்பகோணத்தில்	in kumbakonam	0	0	1	0
-காவியம்	kaviam	0	0	1	0
-காவியம்	poetry	0	0	1	0
-காவியம்	novel	0	0	1	0
+திருத்தங்கள்	corrections	0	0	1	0
+திருத்தங்கள்	correction	0	0	1	0
 திருத்தங்களை	amendments	0	0	1	0
 திருத்தங்களை	thirutangalai	0	0	1	0
 இயலாத	unable	0	0	1	0
@@ -20567,8 +20112,8 @@ $	$	0	0	1	0
 தொன்று	traditionally	0	0	1	0
 தொன்று	ancient	0	0	1	0
 தொன்று	very old	0	0	1	0
-வறுமையில்	in poverty	0	0	1	0
 வறுமையில்	in poor	0	0	1	0
+வறுமையில்	in poverty	0	0	1	0
 வறுமையில்	poverty	0	0	1	0
 கட்டமைப்பின்	of the structure	0	0	1	0
 கட்டமைப்பின்	structure	0	0	1	0
@@ -20655,7 +20200,6 @@ $	$	0	0	1	0
 அறுதியிடல்	signs	1	0	1	0
 அறுதியிடல்	to take decision	1	1	0	0
 அறுதியிடல்	finally done	1	0	1	0
-அறுதியிடல்	advertise	1	0	1	0
 அறுதியிடல்	milinium	1	0	1	0
 எல்லாவற்றையும்	by all	0	0	1	0
 எல்லாவற்றையும்	everything	0	0	1	0
@@ -20680,8 +20224,8 @@ $	$	0	0	1	0
 மிகை	high	0	0	1	0
 மிகை	over	0	0	1	0
 மிகை	extra	0	0	1	1
-சுதந்திரத்தை	freedom	0	0	1	0
 சுதந்திரத்தை	that freedom	0	0	1	0
+சுதந்திரத்தை	freedom	0	0	1	0
 ஒருங்கிணைந்த	joint	0	0	1	0
 ஒருங்கிணைந்த	integrated	0	0	1	0
 வெடிப்பு	broken	0	0	1	0
@@ -20690,7 +20234,6 @@ $	$	0	0	1	0
 அளவிடப்படுகிறது	demarcated	0	0	1	0
 அளவிடப்படுகிறது	measurement	0	0	1	0
 காலகட்டம்	period	0	0	1	0
-காலகட்டம்	time period	0	0	1	0
 மாநிலமான	city	0	0	1	0
 மாநிலமான	state	0	0	1	0
 கொள்ளப்படுகிறது	allow phonetic typing type text or a website address or translate a document. cancel koḷḷappaṭukiṟatu english spanish arabic is	0	0	1	0
@@ -20755,7 +20298,6 @@ $	$	0	0	1	0
 வலியுறுத்தி	urge	0	0	1	0
 வலியுறுத்தி	compulsary	0	0	1	0
 வீட்டிலேயே	house	0	0	1	0
-வீட்டிலேயே	home	0	0	1	0
 சிறுவன்	boy	0	0	1	0
 சிறுவன்	children	0	0	1	0
 சிறுவன்	small boy	0	0	1	0
@@ -20882,6 +20424,9 @@ $	$	0	0	1	0
 இயற்றி	computer science	1	0	1	0
 எந்த	which	0	0	1	1
 கேபிள்	cable	0	0	1	0
+குறைக்கிறது	lowered	0	0	1	0
+குறைக்கிறது	reducing	0	0	1	0
+குறைக்கிறது	reducing/decreasing	0	0	1	0
 நடப்பு	conference	0	0	1	0
 நடப்பு	current	0	0	1	0
 ஆறும்	river	0	0	1	0
@@ -20889,10 +20434,8 @@ $	$	0	0	1	0
 வைத்தது	done through	0	0	1	0
 இருந்தபோதும்	even then	0	0	1	0
 இருந்தபோதும்	although the	0	0	1	0
-இருந்தபோதும்	and even	0	0	1	0
 அமைகின்றது	is coming	0	0	1	0
 அமைகின்றது	field	0	0	1	0
-அமைகின்றது	happening	0	0	1	0
 அலாஸ்காவின்	in alaska	0	0	1	0
 அலாஸ்காவின்	alaska	0	0	1	0
 சைகை	action	0	0	1	0
@@ -20902,9 +20445,8 @@ $	$	0	0	1	0
 உருவாகி	has been made	0	0	1	0
 உருவாகி	formed	0	0	1	0
 உருவாகி	growth	0	0	1	0
-தலங்களில்	temples	0	0	1	0
-தலங்களில்	temple	0	0	1	0
 தலங்களில்	holy places	0	0	1	0
+தலங்களில்	temples	0	0	1	0
 பாதிப்பை	disturbance	0	0	1	0
 பாதிப்பை	influence	0	0	1	0
 பாதிப்பை	effects	0	0	1	0
@@ -20992,7 +20534,6 @@ $	$	0	0	1	0
 பயணத்தில்	on the move	0	0	1	0
 நேரத்தில்	same time	0	0	1	0
 நேரத்தில்	on time	0	0	1	0
-நேரத்தில்	time	0	0	1	0
 நெருக்கம்	close	0	0	1	0
 நெருக்கம்	curoud	0	0	1	0
 நெருக்கம்	colosure relationship	0	0	1	0
@@ -21015,11 +20556,9 @@ $	$	0	0	1	0
 வேதங்களில்	old scriptures	0	0	1	0
 வேதங்களில்	in the vedas	0	0	1	0
 ஆகியோரது	including that	0	0	1	0
-ஆகியோரது	all those	0	0	1	0
 ஆகியோரது	like people	0	0	1	0
 எங்க	from where	0	0	1	0
 எங்க	where	0	0	1	0
-முயற்சி	try	0	0	1	1
 முயற்சி	trial	0	0	1	0
 செக்	chezh republics	0	0	1	0
 செக்	checkoslovia	0	0	1	0
@@ -21031,7 +20570,6 @@ $	$	0	0	1	0
 அகற்றி	remove	0	0	1	0
 அகற்றி	has taking out	0	0	1	0
 பயிற்சி	training	0	0	1	1
-பயிற்சி	exercise	0	0	1	0
 பதினான்கு	fourteen	0	0	1	1
 உருவாகின்றன	forming	0	0	1	0
 உருவாகின்றன	form	0	0	1	0
@@ -21057,7 +20595,6 @@ $	$	0	0	1	0
 முகருணாநிதி	m.karunanidhi	0	0	1	0
 முகருணாநிதி	m. karunanidhi	0	0	1	0
 ரோமானிய	romanian	0	0	1	0
-ரோமானிய	roman	0	0	1	0
 நிலக்கரி	coal	0	0	1	1
 தென்னை	coconut	0	0	1	0
 தென்னை	coconut tree	0	0	1	0
@@ -21075,13 +20612,11 @@ $	$	0	0	1	0
 இளைய	yonger	0	0	1	0
 மந்திர	manthra	0	0	1	0
 மந்திர	magic	0	0	1	0
-மந்திர	prayer	0	0	1	0
 சூறாவளி	typhoon	0	0	1	0
 சூறாவளி	hurricane	0	0	1	0
 எங்கள்	our	0	0	1	0
 எங்கள்	ours	0	0	1	0
 சுழற்சியை	swirls	0	0	1	0
-சுழற்சியை	totation	0	0	1	0
 சுழற்சியை	rotation	0	0	1	0
 நிலப்பரப்பு	land areas	0	0	1	0
 நிலப்பரப்பு	landspace	0	0	1	0
@@ -21145,19 +20680,16 @@ $	$	0	0	1	0
 அமைக்கப்பட்டன	formed	0	0	1	0
 அமைக்கப்பட்டன	omar	0	0	1	0
 காணப்படவில்லை	not seen	0	0	1	0
-காணப்படவில்லை	dont saw	0	0	1	0
 சிலைகள்	statues	0	0	1	0
 சிலைகள்	sculptures	0	0	1	0
 சிலைகள்	statuts	0	0	1	0
 வண்ணம்	color	0	0	1	0
 வண்ணம்	so	0	0	1	0
 வண்ணம்	according	0	0	1	0
-தவறு	fault	0	0	1	0
 தவறு	wrong	0	0	1	0
 தவறு	mistake	0	0	1	1
 அதிகார	control	0	0	1	0
 அதிகார	administrate	0	0	1	0
-அதிகார	govern	0	0	1	0
 தொடர்பு	communication	0	0	1	0
 தொடர்பு	connection	0	0	1	1
 தொடர்பு	communicate	0	0	1	0
@@ -21177,7 +20709,6 @@ $	$	0	0	1	0
 காரணிகள்	reasons	0	0	1	0
 காரணிகள்	reasonings	0	0	1	0
 காரணிகள்	factors	0	0	1	1
-φ	mesherment	0	0	1	0
 φ	bi	0	0	1	0
 மாநாட்டில்	conference	0	0	1	0
 மாநாட்டில்	in the conference	0	0	1	0
@@ -21194,7 +20725,6 @@ $	$	0	0	1	0
 அதனைத்	that also	0	0	1	0
 அதனைத்	that	0	0	1	0
 சோழன்முதலாம்	chozhan first	0	0	1	0
-சோழன்முதலாம்	first cholan	0	0	1	0
 தீவுகளில்	thivukalil	0	0	1	0
 தீவுகளில்	in islands	0	0	1	0
 கண்கள்	eyes	0	0	1	0
@@ -21203,18 +20733,17 @@ $	$	0	0	1	0
 முத்திரை	seal	0	0	1	1
 நிரூபிக்க	to prove	0	0	1	0
 நிரூபிக்க	prove	0	0	1	0
-சமூகவியல்	social studies	0	0	1	1
+சமூகவியல்	social studies	0	0	1	0
 சமூகவியல்	social sciences	0	0	1	0
 சமூகவியல்	social	0	0	1	0
 இலக்கை	aim	0	0	1	0
 இலக்கை	target	0	0	1	0
-ஊர்களின்	in towns	0	0	1	0
 ஊர்களின்	places	0	0	1	0
 ஊர்களின்	village's	0	0	1	0
 முழுவதிலும்	the whole	0	0	1	0
 முழுவதிலும்	whole	0	0	1	0
 முழுவதிலும்	throughout the	0	0	1	0
-வாழ்வு	life	0	0	1	0
+தொடர்வண்டிப்	train	0	0	1	0
 வருகின்ற	forthcoming	0	0	1	0
 வருகின்ற	upcoming	0	0	1	0
 வருகின்ற	coming	0	0	1	0
@@ -21246,11 +20775,10 @@ $	$	0	0	1	0
 திசையில்	sides	0	0	1	0
 திசையில்	in the direction	0	0	1	0
 நிகழ்ந்தன	happened	0	0	1	0
-நிகழ்ந்தன	were	0	0	1	0
 பிரத்தியேக	popular	0	0	1	0
 பிரத்தியேக	specialised	0	0	1	0
 பிரத்தியேக	exclusive	0	0	1	0
-பெருங்குடல்	large intestine	0	0	1	1
+பெருங்குடல்	large intestine	0	0	1	0
 பிரதமர்	prime minister	0	0	1	0
 கிடைக்கின்றன	available	0	0	1	0
 கிடைக்கின்றன	get / obtain	0	0	1	0
@@ -21393,8 +20921,8 @@ $	$	0	0	1	0
 அண்மைய	recent	0	0	1	0
 சா	this is just single letter of tamil language	0	0	1	0
 சா	sa	0	0	1	0
-சி	s	0	0	1	0
 சி	c	0	0	1	0
+சி	s	0	0	1	0
 விளைவு	effect	0	0	1	0
 விளைவு	result	0	0	1	1
 விளைவை	consequence	0	0	1	0
@@ -21415,7 +20943,6 @@ $	$	0	0	1	0
 உதவ	to help	0	0	1	0
 முக்கியத்துவத்தை	importance	0	0	1	0
 முக்கியத்துவத்தை	significance	0	0	1	0
-மிகச்சிறிய	small	0	0	1	0
 மிகச்சிறிய	smallest	0	0	1	0
 மிகச்சிறிய	very small	0	0	1	0
 அரண்மனை	palace	0	0	1	0
@@ -21439,7 +20966,6 @@ $	$	0	0	1	0
 தற்போதும்	presently	0	0	1	0
 அணுக்கள்	molecule	0	0	1	0
 அணுக்கள்	atoms	0	0	1	0
-மேலை	west	0	0	1	0
 மேலை	western people	0	0	1	0
 மேலை	foreign	0	0	1	0
 மேல்	top	0	0	1	0
@@ -21460,7 +20986,6 @@ $	$	0	0	1	0
 உள்ளாகி	that way	0	0	1	0
 கூறியுள்ளார்	having told	0	0	1	0
 கூறியுள்ளார்	informed by them	0	0	1	0
-கூறியுள்ளார்	told	0	0	1	0
 திரும்பினார்	returned	0	0	1	0
 திரும்பினார்	cameback	0	0	1	0
 சிறுநீரகம்	kidneys	0	0	1	0
@@ -21532,9 +21057,9 @@ $	$	0	0	1	0
 சூடோ	psudo	0	0	1	0
 சூடோ	sudo	0	0	1	0
 சூடோ	judo	0	0	1	0
-கலாச்சாரத்தின்	for culture	0	0	1	0
-கலாச்சாரத்தின்	culture	0	0	1	0
 கலாச்சாரத்தின்	traditional	0	0	1	0
+கலாச்சாரத்தின்	culture	0	0	1	0
+கலாச்சாரத்தின்	for culture	0	0	1	0
 பதிலாக	instead	0	0	1	0
 வித்தியாசத்தில்	difference	0	0	1	0
 வித்தியாசத்தில்	differences	0	0	1	0
@@ -21554,9 +21079,9 @@ $	$	0	0	1	0
 துவங்கியது	initiated	0	0	1	0
 வருவாயில்	in revenue	0	0	1	0
 வருவாயில்	income	0	0	1	0
-தனித்தனியான	several	0	0	1	0
-தனித்தனியான	seperately	0	0	1	0
 தனித்தனியான	separte	0	0	1	0
+தனித்தனியான	seperately	0	0	1	0
+தனித்தனியான	several	0	0	1	0
 ஷா	shajkhan a moghul king	0	0	1	0
 ஷா	sha	0	0	1	0
 ஆட்சியின்	under the ruling	0	0	1	0
@@ -21596,7 +21121,6 @@ $	$	0	0	1	0
 விடப்	better than	0	0	1	0
 விடப்	than	0	0	1	0
 கடுமையாக	difficulty	0	0	1	0
-கடுமையாக	severe	0	0	1	0
 கடுமையாக	strictly	0	0	1	0
 பகுதிகளாகும்	areas	0	0	1	0
 பகுதிகளாகும்	parts	0	0	1	0
@@ -21618,7 +21142,6 @@ $	$	0	0	1	0
 சுரங்கம்	mines	0	0	1	0
 ஆதிக்க	domination	0	0	1	0
 ஆதிக்க	rule	0	0	1	0
-ஆதிக்க	domaint	0	0	1	0
 கட்டிடக்	building	0	0	1	0
 கட்டிடக்	architectural	0	0	1	0
 தமிழில்	tamil	0	0	1	0
@@ -21650,9 +21173,8 @@ $	$	0	0	1	0
 வளை	curve	0	0	1	0
 வளை	bend	0	0	1	0
 வளை	curves	0	0	1	0
-நகரங்களில்	in the towns	0	0	1	0
 நகரங்களில்	cities	0	0	1	0
-நகரங்களில்	in cities	0	0	1	0
+நகரங்களில்	in the towns	0	0	1	0
 மலை	mountains	0	0	1	0
 மலை	mountain	0	0	1	1
 பேசப்படுகிறது	spoken	0	0	1	0
@@ -21665,8 +21187,8 @@ $	$	0	0	1	0
 படைத்துறை	defence force	0	0	1	0
 படைத்துறை	military	0	0	1	0
 படைத்துறை	army	0	0	1	0
-விடயங்களில்	matters	0	0	1	0
 விடயங்களில்	items	0	0	1	0
+விடயங்களில்	matters	0	0	1	0
 மாணவர்	student	0	0	1	1
 இயேசுவின்	jesus's	0	0	1	0
 இயேசுவின்	jesus	0	0	1	0
@@ -21703,7 +21225,6 @@ $	$	0	0	1	0
 கார்சினோமா	cancer	0	0	1	0
 பிரிக்கப்பட்ட	detached	0	0	1	0
 பிரிக்கப்பட்ட	seperate	0	0	1	0
-பிரிக்கப்பட்ட	to seperate	0	0	1	0
 அதிகாரத்தைக்	power	0	0	1	0
 உணவை	food	0	0	1	0
 தாமிரபரணி	thamiraparani is a river in tamil nadu	0	0	1	0
@@ -21823,7 +21344,6 @@ $	$	0	0	1	0
 வழக்கில்	case	0	0	1	0
 செவ்வாயில்	in the mars planet	0	0	1	0
 செவ்வாயில்	saturn	0	0	1	0
-மாரி	temparatures	0	0	1	0
 மாரி	mari or rain	0	0	1	0
 மாரி	rain	0	0	1	1
 ஆகியவற்றையும்	and	0	0	1	0
@@ -21878,9 +21398,8 @@ $	$	0	0	1	0
 முன்னரே	before that	0	0	1	0
 முன்னரே	to develop	0	0	1	0
 முன்னரே	before	0	0	1	0
-நகரத்தின்	in city	0	0	1	0
-நகரத்தின்	in the city	0	0	1	0
 நகரத்தின்	of civilization	0	0	1	0
+நகரத்தின்	in the city	0	0	1	0
 உசாத்துணை	reference books	0	0	1	0
 உசாத்துணை	reference	0	0	1	0
 இணைப்புகள்	connections	0	0	1	0
@@ -21891,24 +21410,21 @@ $	$	0	0	1	0
 நிலத்தை	toward the land	0	0	1	0
 நாடுகளுடன்	with countries	0	0	1	0
 நாடுகளுடன்	with country	0	0	1	0
-நாடுகளுடன்	nations	0	0	1	0
 வீமன்	king	0	0	1	0
 வீமன்	bheeman	0	0	1	0
 மனம்	very much liked	0	0	1	0
 மனம்	mind	0	0	1	1
 திலகம்	a title given to actors in tamil	0	0	1	0
 அதேசமயம்	at the same time	0	0	1	0
-மலைத்தொடர்கள்	mountese	0	0	1	0
 மலைத்தொடர்கள்	ghats	0	0	1	0
-மலைத்தொடர்கள்	hilly range	0	0	1	0
 வேலைகளில்	requried	0	0	1	0
 வேலைகளில்	jobs	0	0	1	0
 வேலைகளில்	in work	0	0	1	0
 பொதுமக்களும்	the public and	0	0	1	0
 பொதுமக்களும்	public	0	0	1	0
-முன்னர்	before	0	0	1	0
-முன்னர்	before that	0	0	1	0
 முன்னர்	previous	0	0	1	0
+முன்னர்	before that	0	0	1	0
+முன்னர்	before	0	0	1	0
 மதத்தை	religion	0	0	1	0
 மதத்தை	region	0	0	1	0
 கோளங்களின்	satellites	0	0	1	0
@@ -21961,7 +21477,6 @@ $	$	0	0	1	0
 உண்மையிலேயே	promise	0	0	1	0
 உண்மையிலேயே	actually	0	0	1	0
 செய்கிறார்கள்	doing	0	0	1	0
-செய்கிறார்கள்	do	0	0	1	0
 பெட்டியில்	compartment	0	0	1	0
 பெட்டியில்	in the box	0	0	1	0
 ஸ்கிரிப்ட்	script	0	0	1	0
@@ -21982,13 +21497,13 @@ $	$	0	0	1	0
 இரையை	prey	0	0	1	0
 துணி	cloth	0	0	1	1
 துணி	clothes	0	0	1	0
-வாரியாக	group wise	0	0	1	0
 வாரியாக	by department wise	0	0	1	0
 வாரியாக	by	0	0	1	0
 நேர்மறை	positive	0	0	1	0
 நேர்மறை	inversely opposite	0	0	1	0
-திருத்தங்கள்	corrections	0	0	1	0
-திருத்தங்கள்	correction	0	0	1	0
+சமன்பாடுகளை	the equations	0	0	1	0
+சமன்பாடுகளை	equation	0	0	1	0
+சமன்பாடுகளை	equations	0	0	1	0
 பணிகளை	services	0	0	1	0
 பணிகளை	job	0	0	1	0
 பணிகளை	duties	0	0	1	0
@@ -22066,7 +21581,6 @@ $	$	0	0	1	0
 அசினின்	asin's	0	0	1	0
 பெரும்பான்மையானோர்	majority	0	0	1	0
 பெரும்பான்மையானோர்	many	0	0	1	0
-பெரும்பான்மையானோர்	majority people	0	0	1	0
 அய்யாவழியின்	the way of the grand father	0	0	1	0
 அய்யாவழியின்	ayya vazhi is a place	0	0	1	0
 மரபகராதி	dna's	1	1	0	0
@@ -22096,7 +21610,6 @@ $	$	0	0	1	0
 காரணமாகவும்	reasoning	0	0	1	0
 காரணமாகவும்	due to	0	0	1	0
 பெண்ணை	girl	0	0	1	0
-பெண்ணை	lady	0	0	1	0
 களங்களின்	kind	0	0	1	0
 களங்களின்	for the fields	0	0	1	0
 களங்களின்	places	0	0	1	0
@@ -22116,7 +21629,6 @@ $	$	0	0	1	0
 ஊர்	village	0	0	1	1
 இஸ்லாமிய	muslims	0	0	1	0
 இஸ்லாமிய	islam	0	0	1	0
-சுப்பிரமணியன்	subramaniyan	0	0	1	0
 சுப்பிரமணியன்	subramanian	0	0	1	0
 விவரிப்பது	explained	0	0	1	0
 விவரிப்பது	describe	0	0	1	0
@@ -22144,7 +21656,6 @@ $	$	0	0	1	0
 தனிமங்கள்	metals	0	0	1	0
 மீள்	retrieve	0	0	1	0
 மீள்	come out	0	0	1	0
-மீள்	overcome	0	0	1	0
 படிவங்கள்	forms	0	0	1	0
 படிவங்கள்	form	0	0	1	0
 மரணம்	death	0	0	1	1
@@ -22164,14 +21675,12 @@ $	$	0	0	1	0
 விளைந்த	harvest	0	0	1	0
 சுவர்களில்	wall	0	0	1	0
 சுவர்களில்	walls	0	0	1	0
-சுவர்களில்	in the wall	0	0	1	0
 தன்மையைக்	character	0	0	1	0
 தன்மையைக்	having the character	0	0	1	0
 தன்மையைக்	tolerance	0	0	1	0
 கருதுகோள்	opinion	0	0	1	0
 கருதுகோள்	assumption	0	0	1	0
 கருதுகோள்	hypothesis	0	0	1	0
-மீத்தேன்	one of the gas.	0	0	1	0
 உசாத்துணைகள்	assistants	0	0	1	0
 உசாத்துணைகள்	ucattunaikal	0	0	1	0
 திட்டத்தில்	project	0	0	1	0
@@ -22229,7 +21738,6 @@ $	$	0	0	1	0
 பொருளாகும்	matter	0	0	1	0
 பொருளாகும்	material	0	0	1	0
 பொருளாகும்	subject	0	0	1	0
-அத்துடன்	with that	0	0	1	0
 அத்துடன்	so	0	0	1	0
 அத்துடன்	additionaly	0	0	1	0
 பதின்மூன்று	theirteen	0	0	1	0
@@ -22241,9 +21749,7 @@ $	$	0	0	1	0
 விளங்குகின்றது	having uderstood that	0	0	1	0
 விளங்குகின்றது	exist	0	0	1	0
 விளங்குகின்றது	is	0	0	1	0
-இணையத்தின்	about internet	0	0	1	0
-இணையத்தின்	web	0	0	1	0
-இணையத்தின்	internet	0	0	1	0
+மவுண்ட்	mount	0	0	1	0
 அமேசான்	amazing	0	0	1	0
 அமேசான்	amazon	0	0	1	0
 சேற்று	muddy	0	0	1	0
@@ -22289,11 +21795,8 @@ $	$	0	0	1	0
 கடலை	groundnut	0	0	1	0
 கடலை	sea	0	0	1	0
 ஆஸ்திரேலியாவின்	in australia	0	0	1	0
-ஆஸ்திரேலியாவின்	of australia	0	0	1	0
 ஆஸ்திரேலியாவின்	austrlia	0	0	1	0
 ஊடகத்தில்	in media	0	0	1	0
-ஊடகத்தில்	medium	0	0	1	0
-ஊடகத்தில்	sceinctist	0	0	1	0
 தெரிய	reveal	0	0	1	0
 தெரிய	to know	0	0	1	0
 தம்	themself	0	0	1	0
@@ -22323,7 +21826,6 @@ $	$	0	0	1	0
 போதே	during that	0	0	1	0
 போதே	on going to study	0	0	1	0
 போதே	when	0	0	1	0
-போதும்	enough	0	0	1	1
 போதும்	'ways	0	0	1	0
 போதும்	have	0	0	1	0
 சித்தர்கள்	sidda's	0	0	1	0
@@ -22347,7 +21849,6 @@ $	$	0	0	1	0
 வேறுபடுகின்றது	differ	0	0	1	0
 வேறுபடுகின்றது	differentiated	0	0	1	0
 மாதவிலக்கு	menstrual	0	0	1	0
-மாதவிலக்கு	mensus	0	0	1	0
 மாதவிலக்கு	mensuration in ladies	0	0	1	0
 எலும்பு	bone	0	0	1	1
 பகுப்புவிடுதலைப்	various sections/divisions	0	0	1	0
@@ -22388,8 +21889,6 @@ $	$	0	0	1	0
 இதழ்	journlsum	0	0	1	0
 யமுனை	yamuna	0	0	1	0
 யமுனை	yamuna river	0	0	1	0
-போராட்டத்தில்	strike	0	0	1	0
-போராட்டத்தில்	struggle	0	0	1	0
 போராட்டத்தில்	in the struggle	0	0	1	0
 மருத்துவமனைகள்	hospitals	0	0	1	0
 பேன்	prayers	1	0	1	0
@@ -22405,7 +21904,6 @@ $	$	0	0	1	0
 ஒப்பந்தம்	treaty	0	0	1	0
 மலையின்	mountain	0	0	1	0
 மலையின்	hill's	0	0	1	0
-திரைப்படத்துறை	film industry	0	0	1	0
 திரைப்படத்துறை	cinema industry	0	0	1	0
 திரைப்படத்துறை	film department	0	0	1	0
 சமூகத்தின்	society	0	0	1	0
@@ -22503,7 +22001,6 @@ $	$	0	0	1	0
 வாகனங்கள்	transports	0	0	1	0
 ஓவியர்	drawer	0	0	1	0
 ஓவியர்	painter	0	0	1	0
-ஓவியர்	artist	0	0	1	0
 சாதனம்	equipment	0	0	1	0
 சாதனம்	tool	0	0	1	0
 எழுதினார்	write	0	0	1	0
@@ -22511,7 +22008,6 @@ $	$	0	0	1	0
 எழுதினார்	wrote	0	0	1	0
 திறன்களை	efficiency	0	0	1	0
 திறன்களை	strength	0	0	1	0
-திறன்களை	talent	0	0	1	0
 ஏழாம்	seventh	0	0	1	0
 நாயனார்	poets	0	0	1	0
 நாயனார்	nayanaar	0	0	1	0
@@ -22522,9 +22018,9 @@ $	$	0	0	1	0
 புராண	mythical	0	0	1	0
 புராண	myth	0	0	1	0
 புராண	scriptures	0	0	1	0
+பார்க்கும்போது	when see	0	0	1	0
 பார்க்கும்போது	to see	0	0	1	0
 பார்க்கும்போது	when seen	0	0	1	0
-பார்க்கும்போது	when see	0	0	1	0
 புகழும்	famous	0	0	1	0
 புகழும்	glory	0	0	1	0
 ஆங்கிலக்	biritish	0	0	1	0
@@ -22606,10 +22102,8 @@ $	$	0	0	1	0
 நாகரிகத்தின்	civilisation	0	0	1	0
 விளம்பரங்களின்	of advertising	0	0	1	0
 விளம்பரங்களின்	advertisements'	0	0	1	0
-பத்துப்பாட்டு	pattupattu	0	0	1	0
 பத்துப்பாட்டு	literature	0	0	1	0
 பத்துப்பாட்டு	ten songs	0	0	1	0
-வழிமுறைகள்	ways	0	0	1	0
 வழிமுறைகள்	rules	0	0	1	0
 வழிமுறைகள்	principles	0	0	1	0
 காஞ்சிபுரம்	kancheepuram	0	0	1	0
@@ -22625,7 +22119,6 @@ $	$	0	0	1	0
 ரௌட்டிங்	routing	0	0	1	0
 மென்பொருளை	sotware	0	0	1	0
 மென்பொருளை	software	0	0	1	0
-அகராதி	plan	0	0	1	0
 அகராதி	dictionary	0	0	1	1
 இக்காலகட்டத்தில்	this era	0	0	1	0
 இக்காலகட்டத்தில்	in this era	0	0	1	0
@@ -22660,8 +22153,8 @@ $	$	0	0	1	0
 பட்டுக்கோட்டை	a place in tamilnadu	0	0	1	0
 பட்டுக்கோட்டை	pattukottai	0	0	1	0
 வசதியான	convenient	0	0	1	0
-வசதியான	comfortable	0	0	1	0
 வசதியான	luxurious	0	0	1	0
+வசதியான	comfortable	0	0	1	0
 காற்றை	wind	0	0	1	0
 காற்றை	air	0	0	1	0
 தெரேசா	mother theresa	0	0	1	0
@@ -22691,9 +22184,8 @@ $	$	0	0	1	0
 மாயன்	astronomy	0	0	1	0
 மாயன்	writing	0	0	1	0
 சகோதரி	sister	0	0	1	1
-தாங்கள்	by themselves	0	0	1	0
-தாங்கள்	you	0	0	1	0
-தாங்கள்	mine	0	0	1	0
+வள	resource	0	0	1	0
+வள	fertile	0	0	1	0
 அமெரிக்கத்	american	0	0	1	0
 அமெரிக்கத்	america	0	0	1	0
 முயற்சிகளில்	efforts	0	0	1	0
@@ -22866,7 +22358,6 @@ $	$	0	0	1	0
 உயிர்	life	0	0	1	1
 உயிர்	soul	0	0	1	1
 உயிரை	soul	0	0	1	0
-சேர்ந்த	associated	0	0	1	0
 சேர்ந்த	from	0	0	1	0
 சேர்ந்த	to joined	0	0	1	0
 மகத்தான	poular	0	0	1	0
@@ -22903,7 +22394,6 @@ $	$	0	0	1	0
 நிலவியது	there was	0	0	1	0
 இதைத்தவிர	apart from	0	0	1	0
 இதைத்தவிர	apart from this	0	0	1	0
-இதைத்தவிர	other than this	0	0	1	0
 போட்டிகளை	matches	0	0	1	0
 போட்டிகளை	competion	0	0	1	0
 போட்டிகளை	race	0	0	1	0
@@ -22954,8 +22444,8 @@ $	$	0	0	1	0
 வயதுக்கு	age	0	0	1	0
 வயதுக்கு	for age	0	0	1	0
 வயதுக்கு	accomplishment of age	0	0	1	0
-உலாவிகள்	sevagar	0	0	1	0
 உலாவிகள்	floater	0	0	1	0
+உலாவிகள்	sevagar	0	0	1	0
 உலாவிகள்	websites	0	0	1	0
 தமிழக	tamil nadu	0	0	1	0
 தமிழக	tamilnadu	0	0	1	0
@@ -22979,13 +22469,12 @@ $	$	0	0	1	0
 தயாரித்து	manufacture	0	0	1	0
 தயாரித்து	prepared	0	0	1	0
 அன்பின்	love's	0	0	1	0
-அன்பின்	love	0	0	1	0
 அன்பின்	in love	0	0	1	0
+அன்பின்	love	0	0	1	0
 மனைவியின்	wife's	0	0	1	0
 சேவர்	saver	0	0	1	0
-சேவர்	server	0	0	1	0
 சேவர்	servers	0	0	1	0
-சீனிவாச	seenivasa	0	0	1	0
+சேவர்	server	0	0	1	0
 சீனிவாச	srinivasa	0	0	1	0
 நாடகத்தில்	drama	0	0	1	0
 நாடகத்தில்	drama's	0	0	1	0
@@ -22994,7 +22483,6 @@ $	$	0	0	1	0
 செய்யக்	to	0	0	1	0
 செய்யக்	perform	0	0	1	0
 பின்வருவனவற்றையும்	followed by	0	0	1	0
-பின்வருவனவற்றையும்	the following	0	0	1	0
 பின்வருவனவற்றையும்	following	0	0	1	0
 கோயில்களில்	in the temples	0	0	1	0
 கோயில்களில்	temple	0	0	1	0
@@ -23060,7 +22548,6 @@ $	$	0	0	1	0
 நபர்கள்	people	0	0	1	0
 ஆட்சிக்காலம்	throne period	0	0	1	0
 ஆட்சிக்காலம்	rein	0	0	1	0
-ஆட்சிக்காலம்	ruling period	0	0	1	0
 காட்ட	to show	0	0	1	0
 காட்ட	show	0	0	1	0
 விடுத்த	issued	0	0	1	0
@@ -23070,7 +22557,7 @@ $	$	0	0	1	0
 நாட்டுக்கு	for country	0	0	1	0
 நாட்டுக்கு	country	0	0	1	0
 நாட்டுக்கு	to nation	0	0	1	0
-பௌர்ணமி	full moon	0	0	1	1
+பௌர்ணமி	full moon	0	0	1	0
 கந்தகம்	coloring	1	0	1	0
 கந்தகம்	colored	1	0	1	0
 கந்தகம்	sulpher	1	1	1	0
@@ -23103,7 +22590,6 @@ $	$	0	0	1	0
 விதிவிலக்காக	exception	0	0	1	0
 விதிவிலக்காக	special case	0	0	1	0
 விதிவிலக்காக	exceptional	0	0	1	0
-வருவது	to get	0	0	1	0
 வருவது	still following  the culture	0	0	1	0
 வருவது	coming	0	0	1	0
 குடியுரிமை	nationality	0	0	1	0
@@ -23128,7 +22614,6 @@ $	$	0	0	1	0
 நடைபெற்ற	happened that	0	0	1	0
 ஆடும்	dance	0	0	1	0
 ஆடும்	dances	0	0	1	0
-ஆடும்	dancing	0	0	1	0
 பாப்பா	baby	0	0	1	0
 பாப்பா	pappa	0	0	1	0
 சிவபெருமான்	lord shiva	0	0	1	0
@@ -23186,7 +22671,6 @@ $	$	0	0	1	0
 கியூபா	cuba	0	0	1	0
 நோக்குடன்	aim	0	0	1	0
 நோக்குடன்	with an aim	0	0	1	0
-நோக்குடன்	with a view	0	0	1	0
 கலைக்களஞ்சியம்	encyclopedia	0	0	1	0
 ஐஇ	i.e	0	0	1	0
 ஐஇ	i.e.	0	0	1	0
@@ -23223,7 +22707,6 @@ $	$	0	0	1	0
 என்பவரை	to that person	0	0	1	0
 பகுப்புகோலங்கள்	seperate designs	0	0	1	0
 பகுப்புகோலங்கள்	division: rangoli	0	0	1	0
-என்பவர்	sankaralingam	0	0	1	0
 என்பவர்	a person	0	0	1	0
 ஒற்றை	odd	0	0	1	0
 ஒற்றை	one	0	0	1	1
@@ -23255,7 +22738,6 @@ $	$	0	0	1	0
 புழுக்கள்	worms	0	0	1	0
 புழுக்கள்	maggots	0	0	1	0
 எடுக்கும்	taking	0	0	1	0
-எடுக்கும்	will take	0	0	1	0
 எடுக்கும்	take	0	0	1	0
 காலக்	life	0	0	1	0
 காலக்	time	0	0	1	0
@@ -23265,7 +22747,6 @@ $	$	0	0	1	0
 வால்மீன்கள்	comets	0	0	1	0
 வால்மீன்கள்	comet	0	0	1	0
 உளவியலாளர்கள்	psychologist	0	0	1	0
-உளவியலாளர்கள்	cycriatist	0	0	1	0
 உளவியலாளர்கள்	physiologicaler	0	0	1	0
 மேற்படி	as above	0	0	1	0
 மேற்படி	said above	0	0	1	0
@@ -23287,7 +22768,6 @@ $	$	0	0	1	0
 ஓசனிச்சிட்டு	compounds	1	0	1	0
 ஓசனிச்சிட்டு	hummingbird	1	1	0	0
 துறைமுகத்தில்	harbour	0	0	1	0
-பண்டிட்	scholer	0	0	1	0
 பண்டிட்	pandit	0	0	1	0
 நரம்பணுவியல்	qatr	1	0	1	0
 நரம்பணுவியல்	neuroscience	1	1	0	0
@@ -23348,7 +22828,6 @@ $	$	0	0	1	0
 களஞ்சியம்	treasure	0	0	1	0
 களஞ்சியம்	repository	0	0	1	1
 வெட்டி	cut	0	0	1	0
-வெட்டி	to cut	0	0	1	0
 தீபாவளி	deepawali	0	0	1	0
 தீபாவளி	deepavali	0	0	1	0
 தீபாவளி	depavali	0	0	1	0
@@ -23430,8 +22909,8 @@ $	$	0	0	1	0
 விசையால்	forces	0	0	1	0
 விசையால்	by force	0	0	1	0
 முறைகளில்	ways	0	0	1	0
-முறைகளில்	two ways	0	0	1	0
 முறைகளில்	types	0	0	1	0
+முறைகளில்	two ways	0	0	1	0
 தாண்டி	outgrow	0	0	1	0
 தாண்டி	beyond	0	0	1	0
 தாண்டி	reched	0	0	1	0
@@ -23457,7 +22936,6 @@ $	$	0	0	1	0
 கட்டுரைகளில்	in essays	0	0	1	0
 கண்டுபிடிப்பு	invention	0	0	1	0
 அனுப்பினார்	from	0	0	1	0
-அனுப்பினார்	sent	0	0	1	0
 அனுப்பினார்	send	0	0	1	0
 பெயரையும்	named as	0	0	1	0
 பெயரையும்	name	0	0	1	0
@@ -23613,11 +23091,10 @@ $	$	0	0	1	0
 தோல்வியில்	failure	0	0	1	0
 தோல்வியில்	lose	0	0	1	0
 தோல்வியில்	defeat	0	0	1	0
-அனுபவம்	experianse	0	0	1	0
 அனுபவம்	experience	0	0	1	1
 வானியற்	meterological	0	0	1	0
-வானியற்	vaniyar	0	0	1	0
 வானியற்	air	0	0	1	0
+வானியற்	vaniyar	0	0	1	0
 இயற்கைத்	nature	0	0	1	0
 இயற்கைத்	natural	0	0	1	0
 இயற்கைத்	naturally	0	0	1	0
@@ -23641,7 +23118,6 @@ $	$	0	0	1	0
 கோடை	summer	0	0	1	0
 அடிப்படையிலான	basics	0	0	1	0
 அடிப்படையிலான	based	0	0	1	0
-அடிப்படையிலான	basic	0	0	1	0
 முதலாளித்துவ	owner's	0	0	1	0
 முதலாளித்துவ	ownership	0	0	1	0
 முதலாளித்துவ	capitalism	0	0	1	0
@@ -23683,7 +23159,6 @@ $	$	0	0	1	0
 குறள்	a song in tamil	0	0	1	0
 குறள்	thirukurral	0	0	1	0
 இயற்கையில்	naturally	0	0	1	0
-இயற்கையில்	in nature	0	0	1	0
 நிறுவியது	established	0	0	1	0
 நிறுவியது	founded by	0	0	1	0
 நிறுவியது	opened	0	0	1	0
@@ -23695,14 +23170,13 @@ $	$	0	0	1	0
 முடித்த	ended	0	0	1	0
 முடித்த	completed	0	0	1	0
 முடித்த	finish	0	0	1	0
-ராணுவம்	military	0	0	1	0
-ராணுவம்	army	0	0	1	1
+என்பவற்றை	these things	0	0	1	0
+என்பவற்றை	like	0	0	1	0
 எடுத்துச்	taken	0	0	1	0
 எடுத்துச்	take	0	0	1	0
-எடுத்துச்	to take	0	0	1	0
-தாயின்	mother	0	0	1	0
-தாயின்	from the mother	0	0	1	0
-தாயின்	mother's	0	0	1	0
+உருளை	cylinderical	0	0	1	0
+உருளை	cylinder	0	0	1	0
+உருளை	cylindrical	0	0	1	0
 மனிதர்களும்	humans also	0	0	1	0
 மனிதர்களும்	human	0	0	1	0
 மனிதர்களும்	people's	0	0	1	0
@@ -23711,9 +23185,8 @@ $	$	0	0	1	0
 ஜிஎம்ஓ	g m i	0	0	1	0
 பேரரசர்	maharaj	0	0	1	0
 பேரரசர்	emperor	0	0	1	0
-பிரிக்க	separate	0	0	1	0
 பிரிக்க	to seperate	0	0	1	0
-பிரிக்க	to divide	0	0	1	0
+பிரிக்க	separate	0	0	1	0
 வெப்பம்	heat	0	0	1	1
 வெப்பம்	warmth	0	0	1	0
 பயந்து	afraid of	0	0	1	0
@@ -23726,9 +23199,7 @@ $	$	0	0	1	0
 தூதர்	brand ambassidar	0	0	1	0
 தூதர்	ambassador	0	0	1	0
 தூதர்	messenger	0	0	1	0
-நகரம்	town	0	0	1	1
-நகரம்	city	0	0	1	1
-நகரம்	cities	0	0	1	0
+நுண்ணிய	micro	0	0	1	0
 அடையாளம்	identification	0	0	1	0
 அடையாளம்	identity	0	0	1	1
 கோடி	crore	0	0	1	1
@@ -23754,9 +23225,8 @@ $	$	0	0	1	0
 வாக்கில்	during the reign	0	0	1	0
 வாக்கில்	period	0	0	1	0
 வாக்கில்	around	0	0	1	0
-வேளைகளில்	some times	0	0	1	0
-வேளைகளில்	sometimes	0	0	1	0
 வேளைகளில்	work	0	0	1	0
+வேளைகளில்	sometimes	0	0	1	0
 ஆவி	vapor	0	0	1	0
 ஆவி	steam	0	0	1	1
 ஆவி	vapour	0	0	1	1
@@ -23874,9 +23344,9 @@ $	$	0	0	1	0
 பேர்	person	0	0	1	1
 பேர்	numbers	0	0	1	0
 பேர்	war	0	0	1	0
-எண்கணித	numerology	0	0	1	0
-எண்கணித	numeric	0	0	1	0
-எண்கணித	arithmetical	0	0	1	0
+புலன்	sensory	0	0	1	0
+புலன்	senses	0	0	1	0
+புலன்	sense	0	0	1	0
 மீயுரை	hypertext	0	0	1	0
 மீயுரை	html	0	0	1	0
 பிராய்டின்	broids	0	0	1	0
@@ -23913,7 +23383,6 @@ $	$	0	0	1	0
 தெளிவாக	properly	0	0	1	0
 தெளிவாக	clearly	0	0	1	1
 விவாதங்கள்	discussion	0	0	1	0
-விவாதங்கள்	arguments	0	0	1	0
 விவாதங்கள்	debates	0	0	1	0
 எண்ணத்தில்	with in the intension	0	0	1	0
 எண்ணத்தில்	with the intention	0	0	1	0
@@ -23956,16 +23425,15 @@ $	$	0	0	1	0
 பெரும்பாலும்	maximum	0	0	1	0
 பெரும்பாலும்	mostly	0	0	1	1
 உண்கின்றன	eating	0	0	1	0
-உண்கின்றன	animals eating	0	0	1	0
 தாழ்	latch	0	0	1	1
 தாழ்	lower	0	0	1	0
 தாழ்	paper	0	0	1	0
 தோறும்	yearly	0	0	1	0
 தோறும்	'ly	0	0	1	0
 தோறும்	every	0	0	1	1
-ஏரியின்	lakes'	0	0	1	0
-ஏரியின்	river bank	0	0	1	0
 ஏரியின்	lake's	0	0	1	0
+ஏரியின்	river bank	0	0	1	0
+ஏரியின்	lakes'	0	0	1	0
 கொள்கையை	for the principle	0	0	1	0
 கொள்கையை	policies	0	0	1	0
 கொள்கையை	principal	0	0	1	0
@@ -24000,7 +23468,6 @@ $	$	0	0	1	0
 கருத்துரு	concept	0	0	1	0
 கருத்துரு	law	0	0	1	0
 போன்றவற்றைப்	such as	0	0	1	0
-போன்றவற்றைப்	therealso	0	0	1	0
 போன்றவற்றைப்	etc.	0	0	1	0
 போன்றவற்றைப்	like	0	0	1	0
 கொண்டதாகவும்	equal to that	0	0	1	0
@@ -24014,8 +23481,8 @@ $	$	0	0	1	0
 வைக்கப்பட்டுள்ளது	kept	0	0	1	0
 மக்களுடன்	with people	0	0	1	0
 மக்களுடன்	people's	0	0	1	0
-கருத	thought	0	0	1	0
 கருத	to decide	0	0	1	0
+கருத	thought	0	0	1	0
 கருத	concept	0	0	1	0
 கொலம்பஸ்	colombus	0	0	1	0
 கொலம்பஸ்	columbus	0	0	1	0
@@ -24035,8 +23502,8 @@ $	$	0	0	1	0
 இன்றியமையாத	important	0	0	1	0
 இன்றியமையாத	essential	0	0	1	0
 எந்தவொரு	anyone	0	0	1	0
-எந்தவொரு	any	0	0	1	0
 எந்தவொரு	any one	0	0	1	0
+எந்தவொரு	any	0	0	1	0
 உணர்வு	feelings	0	0	1	0
 உணர்வு	feeling	0	0	1	0
 உணர்வு	feelings/consciousness	0	0	1	0
@@ -24080,7 +23547,6 @@ $	$	0	0	1	0
 நுண்ணோக்கி	microscope	0	0	1	0
 பாரசீகம்	persia	0	0	1	0
 பாரசீகம்	paaraseegam	0	0	1	0
-பணிபுரியும்	along with worker	0	0	1	0
 பணிபுரியும்	working	0	0	1	0
 பணவீக்கத்தினால்	by inflation	0	0	1	0
 பணவீக்கத்தினால்	inflation	0	0	1	0
@@ -24102,7 +23568,6 @@ $	$	0	0	1	0
 உற்பத்தியில்	manufacturing	0	0	1	0
 சிவந்த	red	0	0	1	0
 சிவந்த	reddish	0	0	1	0
-புற்றுநோயின்	cancer	0	0	1	0
 புற்றுநோயின்	disease	0	0	1	0
 புற்றுநோயின்	in cancer	0	0	1	0
 பதி	topic	0	0	1	0
@@ -24131,7 +23596,6 @@ $	$	0	0	1	0
 கலாச்சாரத்தில்	in the cultures	0	0	1	0
 கலாச்சாரத்தில்	in culture	0	0	1	0
 அமர்ந்த	sit down	0	0	1	0
-அமர்ந்த	seated	0	0	1	0
 அமர்ந்த	in sitting	0	0	1	0
 மொழியாக	languages	0	0	1	0
 மொழியாக	as a language	0	0	1	0
@@ -24170,7 +23634,6 @@ $	$	0	0	1	0
 பாதிப்பு	impact	0	0	1	0
 பாதிப்பு	trouble	0	0	1	0
 பாதிப்பு	effects	0	0	1	0
-கோணங்களில்	angle	0	0	1	0
 கோணங்களில்	angles	0	0	1	0
 பெயரால்	in the name	0	0	1	0
 பெயரால்	in the name of	0	0	1	0
@@ -24182,7 +23645,6 @@ $	$	0	0	1	0
 ரப்பர்	rubber	0	0	1	0
 தவம்	meditation	0	0	1	0
 தவம்	penance	0	0	1	1
-இருக்கும்	available	0	0	1	0
 இருக்கும்	will be	0	0	1	0
 இருக்கும்	the	0	0	1	0
 <நிரை>	full	0	0	1	0
@@ -24195,7 +23657,7 @@ $	$	0	0	1	0
 வாய்ப்பும்	oppertunity	0	0	1	0
 வாய்ப்பும்	opportunity	0	0	1	0
 வாய்ப்பும்	chance	0	0	1	0
-குடிநீர்	drinking water	0	0	1	1
+குடிநீர்	drinking water	0	0	1	0
 குடிநீர்	drinkingwater	0	0	1	0
 படங்களின்	films	0	0	1	0
 படங்களின்	movies	0	0	1	0
@@ -24236,7 +23698,6 @@ $	$	0	0	1	0
 வெள்ளங்கள்	floods	0	0	1	0
 வெள்ளங்கள்	flood	0	0	1	0
 மொழித்	language	0	0	1	0
-மொழித்	molit	0	0	1	0
 பெயர்ச்சொல்	noun	0	0	1	0
 பெயர்ச்சொல்	pronoun	0	0	1	0
 சுதந்திரம்	freedom	0	0	1	1
@@ -24303,7 +23764,6 @@ $	$	0	0	1	0
 அந்தத்	that the	0	0	1	0
 அந்தத்	that	0	0	1	0
 காணப்பட்டது	seen	0	0	1	0
-காணப்பட்டது	see	0	0	1	0
 காணப்பட்டது	was there	0	0	1	0
 ஒருங்கியம்	orunkiyam	1	0	1	0
 ஒருங்கியம்	part of a body	1	1	0	0
@@ -24328,16 +23788,14 @@ $	$	0	0	1	0
 காலப்பகுதியில்	during that period	0	0	1	0
 காலப்பகுதியில்	periods	0	0	1	0
 காலப்பகுதியில்	historical	0	0	1	0
-ஒன்றில்	onlyone	0	0	1	0
 ஒன்றில்	in	0	0	1	0
 ஒன்றில்	once	0	0	1	0
 தேசியக்	national	0	0	1	0
 எதிராகவும்	against	0	0	1	0
 எதிராகவும்	opposition	0	0	1	0
 எதிராகவும்	opposite	0	0	1	0
-வசதி	convenience	0	0	1	1
-வசதி	facility	0	0	1	0
-வசதி	wealthy	0	0	1	0
+நடவடிக்கை	action	0	0	1	1
+நடவடிக்கை	actives	0	0	1	0
 எதை	which one	0	0	1	0
 எதை	which	0	0	1	0
 தனியாள்	personal computer	0	0	1	0
@@ -24367,7 +23825,7 @@ $	$	0	0	1	0
 நாடானது	country	0	0	1	0
 நாடானது	in the country	0	0	1	0
 கடற்படை	poem	1	0	1	0
-கடற்படை	naval force	1	1	0	1
+கடற்படை	naval force	1	1	0	0
 கடற்படை	sea army	1	1	0	0
 கடற்படை	sea force	1	0	1	0
 கடற்படை	note	1	0	1	0
@@ -24378,15 +23836,14 @@ $	$	0	0	1	0
 தலைவர்களும்	heads	0	0	1	0
 தலைவர்களும்	leaders	0	0	1	0
 தலைவர்களும்	leaders also	0	0	1	0
-முடிவடைந்து	finishing	0	0	1	0
-முடிவடைந்து	done	0	0	1	0
-முடிவடைந்து	has ended	0	0	1	0
+சுல்தான்	sulthan	0	0	1	0
+சுல்தான்	sultan	0	0	1	1
 என்பவற்றின்	stat	0	0	1	0
 என்பவற்றின்	that man	0	0	1	0
 செய்வதற்கான	process	0	0	1	0
 செய்வதற்கான	to do	0	0	1	0
-காம	kama	0	0	1	0
-காம	sex	0	0	1	0
+புனிதமான	sacred	0	0	1	0
+புனிதமான	holy	0	0	1	0
 கணக்கில்	maths	0	0	1	0
 கணக்கில்	account	0	0	1	0
 கணக்கில்	into account	0	0	1	0
@@ -24399,7 +23856,6 @@ $	$	0	0	1	0
 தசை	muscles	0	0	1	0
 தசை	muscle	0	0	1	1
 விட்டு	leave	0	0	1	0
-விட்டு	left	0	0	1	0
 விட்டு	escape	0	0	1	0
 கொண்டார்	was	0	0	1	0
 கொண்டார்	have	0	0	1	0
@@ -24407,9 +23863,9 @@ $	$	0	0	1	0
 ஊடுருவி	tunneling	0	0	1	0
 ஊடுருவி	infiltrate	0	0	1	0
 ஊடுருவி	interfere	0	0	1	0
-பண்பாட்டுச்	cultures	0	0	1	0
-பண்பாட்டுச்	cultural	0	0	1	0
 பண்பாட்டுச்	culture	0	0	1	0
+பண்பாட்டுச்	cultural	0	0	1	0
+பண்பாட்டுச்	cultures	0	0	1	0
 விரும்பினார்	is interested	0	0	1	0
 விரும்பினார்	he wanted	0	0	1	0
 விரும்பினார்	wished	0	0	1	0
@@ -24418,9 +23874,8 @@ $	$	0	0	1	0
 கல்லறை	death place	0	0	1	0
 கல்லறை	grave	0	0	1	1
 சத்ய	sathyam	0	0	1	0
-சத்ய	a truth	0	0	1	0
 சத்ய	sathya	0	0	1	0
-சத்ய	truth	0	0	1	0
+சத்ய	a truth	0	0	1	0
 சமூகத்தை	society	0	0	1	0
 சமூகத்தை	in the community	0	0	1	0
 λ	a mathematical symbol	0	0	1	0
@@ -24470,12 +23925,9 @@ $	$	0	0	1	0
 ஒன்றிலிருந்து	among one	0	0	1	0
 ஒன்றிலிருந்து	from one	0	0	1	0
 ஒன்றிலிருந்து	one to	0	0	1	0
-நிலத்திற்கு	in the land	0	0	1	0
-நிலத்திற்கு	for land	0	0	1	0
 குவாண்டம்	quantum	0	0	1	0
 வெளிவந்தது	came out	0	0	1	0
 வெளிவந்தது	comingout	0	0	1	0
-ஐங்குறுநூறு	five small hundred	0	0	1	0
 ஐங்குறுநூறு	a tamil olden literature	0	0	1	0
 இலவசமாக	freely	0	0	1	0
 இலவசமாக	free	0	0	1	0
@@ -24514,7 +23966,6 @@ $	$	0	0	1	0
 ஆயுள்	life	0	0	1	0
 ஆயுள்	age	0	0	1	0
 =	equal	0	0	1	0
-எண்ணிக்கையில்	count	0	0	1	0
 எண்ணிக்கையில்	countable	0	0	1	0
 எண்ணிக்கையில்	counts	0	0	1	0
 கற்பனைக்	imaginary	0	0	1	0
@@ -24635,12 +24086,10 @@ $	$	0	0	1	0
 என்றழைக்கப்பட்ட	called as	0	0	1	0
 அமெரிக்காவுக்கு	america	0	0	1	0
 அமெரிக்காவுக்கு	to america	0	0	1	0
-மக்காச்சோளம்	maize	0	0	1	0
 மக்காச்சோளம்	corn	0	0	1	1
 பொருளியல்	production	0	0	1	0
 பொருளியல்	economics	0	0	1	0
 பெரு	big	0	0	1	0
-பெரு	peru	0	0	1	0
 பெரு	huge	0	0	1	0
 கலைஞர்	kalaignar	0	0	1	0
 கலைஞர்	artist	0	0	1	1
@@ -24679,10 +24128,8 @@ $	$	0	0	1	0
 முரட்டு	rogue	0	0	1	0
 முரட்டு	tough	0	0	1	0
 மூவரும்	all the three	0	0	1	0
-மூவரும்	three of them	0	0	1	0
 மூவரும்	three kings	0	0	1	0
 நுணுக்கமான	complicated	0	0	1	0
-நுணுக்கமான	cells	0	0	1	0
 நுணுக்கமான	very careful	0	0	1	0
 வேறுபட்டு	different	0	0	1	0
 வேறுபட்டு	differences	0	0	1	0
@@ -24754,7 +24201,6 @@ $	$	0	0	1	0
 மனோ	mind	0	0	1	0
 மனோ	mental	0	0	1	0
 மனோ	psychologically	0	0	1	0
-போன்றோர்	like or as	0	0	1	0
 போன்றோர்	who are all	0	0	1	0
 வடிவமைத்த	making	0	0	1	0
 வடிவமைத்த	design	0	0	1	0
@@ -24805,7 +24251,6 @@ $	$	0	0	1	0
 எசுப்பானியா	yesupania	0	0	1	0
 கர்நாடகம்	karnataka	0	0	1	0
 ஒன்றான	one of the	0	0	1	0
-ஒன்றான	one among the	0	0	1	0
 ஒன்றான	same	0	0	1	0
 கண்டமாகும்	goitre	0	0	1	0
 கண்டமாகும்	continent	0	0	1	0
@@ -24852,7 +24297,6 @@ $	$	0	0	1	0
 சூரியனும்	sun	0	0	1	0
 சூரியனும்	sun and	0	0	1	0
 இருக்கக்கூடிய	has	0	0	1	0
-இருக்கக்கூடிய	existing	0	0	1	0
 சேர	chera	0	0	1	0
 சேர	chera king	0	0	1	0
 தாவரங்களை	plants	0	0	1	0
@@ -24909,7 +24353,6 @@ $	$	0	0	1	0
 ஜேர்மனி	germany	0	0	1	0
 அழைக்கப்படும்	called by	0	0	1	0
 அழைக்கப்படும்	called as	0	0	1	0
-அழைக்கப்படும்	called	0	0	1	0
 கோடுகள்	lines	0	0	1	0
 செய்தல்	doing	0	0	1	0
 பகுதியினர்	section of people	0	0	1	0
@@ -24981,7 +24424,6 @@ $	$	0	0	1	0
 சொல்லாகும்	a word	0	0	1	0
 அளவிலேயே	like that measure	0	0	1	0
 அளவிலேயே	stage	0	0	1	0
-அளவிலேயே	measure	0	0	1	0
 சாலையில்	on the road	0	0	1	0
 சாலையில்	in the road	0	0	1	0
 சாலையில்	road	0	0	1	0
@@ -25023,7 +24465,6 @@ $	$	0	0	1	0
 மூன்றாம்	third	0	0	1	0
 ஒவ்வொரு	each one	0	0	1	0
 ஒவ்வொரு	each other	0	0	1	0
-ஒவ்வொரு	each	0	0	1	0
 இராசராச	rajaraja	0	0	1	0
 கம்போடிய	kampodia	0	0	1	0
 கம்போடிய	cambodia's	0	0	1	0
@@ -25064,7 +24505,6 @@ $	$	0	0	1	0
 அஜித்	ajith a name	0	0	1	0
 அஜித்	ajith	0	0	1	0
 பின்னும்	after	0	0	1	0
-பின்னும்	at the back	0	0	1	0
 பின்னும்	back	0	0	1	0
 என்றும்	also	0	0	1	0
 என்றும்	any time	0	0	1	0
@@ -25133,9 +24573,9 @@ $	$	0	0	1	0
 கேடு	detriment	0	0	1	0
 கேடு	problem	0	0	1	0
 கேடு	harm	0	0	1	0
-புலன்	sensory	0	0	1	0
-புலன்	senses	0	0	1	0
-புலன்	sense	0	0	1	0
+எண்கணித	numerology	0	0	1	0
+எண்கணித	numeric	0	0	1	0
+எண்கணித	arithmetical	0	0	1	0
 விளையாட	play	0	0	1	0
 விளையாட	to play	0	0	1	0
 விளையாட	playing	0	0	1	0
@@ -25153,7 +24593,6 @@ $	$	0	0	1	0
 பெருமை	honour	0	0	1	0
 பெருமை	proud	0	0	1	0
 பெருமை	perumai	0	0	1	0
-பாணி	style	0	0	1	1
 பாணி	thier own	0	0	1	0
 பாணி	method	0	0	1	0
 இந்தியாவுக்குள்	inside india	0	0	1	0
@@ -25188,7 +24627,6 @@ $	$	0	0	1	0
 பிராமணர்	brahmin	0	0	1	0
 பிராமணர்	brahmins	0	0	1	0
 பிராமணர்	bramins	0	0	1	0
-ஆகியனவாகும்	all those	0	0	1	0
 ஆகியனவாகும்	belong to	0	0	1	0
 ஆகியனவாகும்	are these	0	0	1	0
 மெக்சிகோ	mexico	0	0	1	0
@@ -25236,25 +24674,21 @@ $	$	0	0	1	0
 தோற்றத்தை	appearance	0	0	1	0
 அதிலும்	even	0	0	1	0
 அதிலும்	in that	0	0	1	0
-அதிலும்	in this	0	0	1	0
 ஆண்டில்	in the year	0	0	1	0
 ஆண்டில்	in	0	0	1	0
 பெற்று	got	0	0	1	0
 பெற்று	getting from	0	0	1	0
 பெற்று	take	0	0	1	0
-சிகிச்சைக்கு	for treatment	0	0	1	0
 சிகிச்சைக்கு	treatment	0	0	1	0
 உள்பட	consists of	0	0	1	0
 உள்பட	including	0	0	1	0
 திரைப்பட	relating to films	0	0	1	0
 திரைப்பட	movie	0	0	1	0
-திரைப்பட	cinema	0	0	1	0
 சோழனால்	by the chola	0	0	1	0
 சோழனால்	by cholan	0	0	1	0
 சோழனால்	cholas	0	0	1	0
-குறைக்கிறது	lowered	0	0	1	0
-குறைக்கிறது	reducing	0	0	1	0
-குறைக்கிறது	reducing/decreasing	0	0	1	0
+அப்போது	that day	0	0	1	0
+அப்போது	that time	0	0	1	0
 சம்பந்தம்	connection	0	0	1	1
 சம்பந்தம்	agreement	0	0	1	1
 செல்லப்	pet	0	0	1	0
@@ -25264,7 +24698,6 @@ $	$	0	0	1	0
 பெற்றன	got	0	0	1	0
 பெற்றன	having that	0	0	1	0
 அளிக்கும்	will	0	0	1	0
-அளிக்கும்	presenting	0	0	1	0
 அளிக்கும்	gives	0	0	1	0
 தொலைபேசி	telephone	0	0	1	1
 வான்புலிகளின்	vanpulikal	0	0	1	0
@@ -25294,12 +24727,12 @@ $	$	0	0	1	0
 பூச்சியுண்ணி	of	1	0	1	0
 பூச்சியுண்ணி	insectivore	1	1	0	0
 பூச்சியுண்ணி	animals that feed on insects	1	1	0	0
-அமைப்பைக்	constitutor	0	0	1	0
-அமைப்பைக்	organisation	0	0	1	0
+நிலத்திற்கு	in the land	0	0	1	0
+நிலத்திற்கு	for land	0	0	1	0
 விருதுநகர்	virudhunagar	0	0	1	0
 விருதுநகர்	vridhunagar	0	0	1	0
-நிகழும்	happening	0	0	1	0
 நிகழும்	occur	0	0	1	0
+நிகழும்	happening	0	0	1	0
 மார்க்ஸ்	marcks	0	0	1	0
 மரபுகள்	culture	0	0	1	0
 மரபுகள்	ethics	0	0	1	0
@@ -25321,7 +24754,6 @@ $	$	0	0	1	0
 ஏற்றுக்கொள்ளும்	to be accepted	0	0	1	0
 ஏற்றுக்கொள்ளும்	accept	0	0	1	0
 அடிமை	slave	0	0	1	1
-அடிமை	adit	0	0	1	0
 அடிமை	slavery	0	0	1	1
 மலேசிய	malaysia	0	0	1	0
 மலேசிய	malasian	0	0	1	0
@@ -25350,8 +24782,6 @@ $	$	0	0	1	0
 தானே	he by himself	0	0	1	0
 தானே	their own	0	0	1	0
 கால்பந்தின்	footbal	0	0	1	0
-கால்பந்தின்	food-ball	0	0	1	0
-கால்பந்தின்	football	0	0	1	0
 திறன்	efficiency	0	0	1	0
 திறன்	strength	0	0	1	0
 திறன்	talent	0	0	1	0

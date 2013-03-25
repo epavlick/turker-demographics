@@ -61,8 +61,6 @@ lopty	balls	0	0	1	0
 elektrickej	electric	0	0	1	0
 elektrickej	power	0	0	1	0
 elektrickej	electrically	0	0	1	0
-jemu	to him	0	0	1	0
-jemu	yen	0	0	1	0
 oblúka	arc	0	0	1	0
 delí	divided	0	0	1	0
 číňania	chinese	0	0	1	0
@@ -74,7 +72,6 @@ vykonáva	performed	0	0	1	0
 vykonáva	performs	0	0	1	0
 juraj	george	0	0	1	0
 juraj	juraj	0	0	1	0
-k	to	0	0	1	1
 k	k	0	0	1	0
 dosiahli	reached	0	0	1	0
 postoj	stance	0	0	1	0
@@ -102,7 +99,6 @@ absolútnu	the absolute	0	0	1	0
 absolútnu	absolute	0	0	1	0
 zaviedol	introduced	0	0	1	0
 dne	of	0	0	1	0
-dne	day	0	0	1	0
 vlajky	flag	0	0	1	0
 veľkosť	size	0	0	1	1
 dna	gout	0	0	1	0
@@ -115,7 +111,7 @@ predstavoval	was	0	0	1	0
 presadil	asserted	0	0	1	0
 mestskej	city	0	0	1	0
 pápežské	papal	0	0	1	0
-musia	have	0	0	1	0
+dns	dns	0	0	1	0
 vlajka	flag	0	0	1	1
 predstavil	introduced	0	0	1	0
 predstavil	presented	0	0	1	0
@@ -123,13 +119,11 @@ transportér	transporter	1	1	0	0
 benedikt	benedict	0	0	1	0
 prebehli	took place	0	0	1	0
 zeme	earth	0	0	1	0
-osifikácia	ossification	0	0	1	0
 osifikácia	ossifications	0	0	1	0
+osifikácia	ossification	0	0	1	0
 zemi	country	0	0	1	0
 pokrok	progress	0	0	1	1
 biblii	bible	0	0	1	0
-vzťahom	relationships	0	0	1	0
-vzťahom	relationship	0	0	1	0
 zvýšil	increased	0	0	1	0
 zvýšil	raise	0	0	1	0
 snažil	tried to	0	0	1	0
@@ -192,7 +186,6 @@ svojho	collection	0	0	1	0
 komunisti	communists	0	0	1	0
 komunisti	comunists	0	0	1	0
 pamätných	commemorative	0	0	1	0
-pamätných	memorial	0	0	1	0
 tuhé	solid	0	0	1	0
 cicavce	mammals	0	0	1	0
 dinosaury	dinosaurs	0	0	1	0
@@ -201,7 +194,7 @@ kôz	goats	0	0	1	0
 postupom	procedure	0	0	1	0
 mohol	could	0	0	1	0
 postupov	procedures	0	0	1	0
-nikto	no one	0	0	1	1
+nikto	no one	0	0	1	0
 vyzerá	looks	0	0	1	0
 techniky	techiques	0	0	1	0
 techniky	techniques	0	0	1	0
@@ -231,7 +224,7 @@ neobsahujú	not contain	0	0	1	0
 neobsahujú	do not	0	0	1	0
 výsady	privileges	0	0	1	0
 ríše	empire	0	0	1	0
-zistiť	find out	0	0	1	1
+zistiť	find out	0	0	1	0
 športová	sport	0	0	1	0
 športová	sports	0	0	1	0
 ríša	empire	0	0	1	1
@@ -247,8 +240,6 @@ vyriešiť	solve	0	0	1	1
 šachmat	checkmate	1	1	0	1
 šachmat	sach-mat	1	0	1	0
 šachmat	sachmat	1	1	0	0
-zastupuje	represents	0	0	1	0
-zastupuje	represents the	0	0	1	0
 pôsobil	worked	0	0	1	0
 pôsobil	he worked	0	0	1	0
 súčasnosti	now	0	0	1	0
@@ -272,7 +263,6 @@ belgicka	belgium	0	0	1	0
 žilinský	zilina	0	0	1	0
 zvukových	audio	0	0	1	0
 normalizácia	normalization	1	1	0	1
-dostupné	available	0	0	1	0
 impéria	empire	0	0	1	0
 politicky	politically	0	0	1	1
 sms	sms	0	0	1	0
@@ -302,24 +292,21 @@ neobsahuje	not contain	0	0	1	0
 straty	loss	0	0	1	0
 metabolizmus	metabolism	0	0	1	1
 stratu	loss	0	0	1	0
-konfliktov	conflicts	0	0	1	0
 konfliktov	conflict	0	0	1	0
 omnoho	much	0	0	1	0
 omnoho	more	0	0	1	0
 definované	defined	0	0	1	0
 definované	a defined	0	0	1	0
 štvrť	quarter	0	0	1	1
-štvrť	quarter of	0	0	1	0
 správu	management	0	0	1	0
 oblúk	arch	0	0	1	1
 oblúk	obluk	0	0	1	0
 manažment	management	0	0	1	0
 atp	etc.	0	0	1	0
 začína	begins	0	0	1	0
-aspoň	at least	0	0	1	1
+aspoň	at least	0	0	1	0
 šošovky	lens	0	0	1	0
 bojov	fights	0	0	1	0
-bojov	fighting	0	0	1	0
 jeruzalema	jeruzalema	0	0	1	0
 jeruzalema	jerusalem	0	0	1	0
 starosti	troubles	0	0	1	0
@@ -331,7 +318,6 @@ zobrazenia	display	0	0	1	0
 zobrazenie	view	0	0	1	0
 service	service	0	0	1	0
 kategórie	category	0	0	1	0
-kategórie	categories	0	0	1	0
 centrálnu	central	0	0	1	0
 kategória	category	0	0	1	1
 odborné	expertly	0	0	1	0
@@ -380,12 +366,10 @@ hebrejci	hebrew	1	1	0	0
 majú	maya	0	0	1	0
 majú	they have	0	0	1	0
 majú	have	0	0	1	0
-okamihu	moment	0	0	1	0
 okamihu	time	0	0	1	0
 biela	white	0	0	1	0
 biele	white	0	0	1	0
 pôsobiť	he worked	0	0	1	0
-pôsobiť	operate	0	0	1	1
 odlíšiť	distinguish	0	0	1	1
 odlíšiť	differentiate	0	0	1	1
 atď	etc.	0	0	1	0
@@ -395,7 +379,6 @@ miestnej	local	0	0	1	0
 púšť	desert	0	0	1	1
 slovanského	slavic	0	0	1	0
 slovanského	slovak	0	0	1	0
-kategórií	category	0	0	1	0
 kategórií	categories	0	0	1	0
 diskov	disc	0	0	1	0
 pozíciu	position	0	0	1	0
@@ -405,6 +388,7 @@ pozícii	holdings	0	0	1	0
 pozícii	position	0	0	1	0
 súkromné	privately	0	0	1	0
 súkromné	private	0	0	1	0
+himmler	himmler	0	0	1	0
 pozície	position	0	0	1	0
 delíme	divided	0	0	1	0
 zobraziť	display	0	0	1	1
@@ -422,11 +406,10 @@ austrálii	australia	0	0	1	0
 y	y	0	0	1	0
 y	in	0	0	1	0
 teriér	terrier	0	0	1	0
-voľby	election	0	0	1	1
 voľby	elections	0	0	1	1
+voľby	election	0	0	1	1
 vidieť	see	0	0	1	1
 vidieť	to see	0	0	1	0
-spojili	combined	0	0	1	0
 spojili	merged	0	0	1	0
 camp	camp	0	0	1	0
 výskume	research	0	0	1	0
@@ -522,7 +505,6 @@ mení	change	0	0	1	0
 rozdelený	divided	0	0	1	1
 tichého	pacific (ocean)	0	0	1	0
 tichého	silent	0	0	1	0
-hmotné	material	0	0	1	0
 hmotné	materially	0	0	1	0
 staršia	older	0	0	1	0
 petržalka	petržalka	0	0	1	0
@@ -555,7 +537,6 @@ country	country	0	0	1	0
 magnetická	magnetic	0	0	1	0
 magnetický	magnetically	0	0	1	0
 magnetický	magneticky	0	0	1	0
-súčtu	sum	0	0	1	0
 súčtu	the sum	0	0	1	0
 and	and	0	0	1	0
 povrchové	surfactants	0	0	1	0
@@ -575,7 +556,6 @@ hviezdy	star	0	0	1	0
 hviezdy	stars	0	0	1	0
 staroveké	ancient	0	0	1	0
 trieda	class	0	0	1	1
-hviezdu	whistle	0	0	1	0
 hviezdu	star	0	0	1	0
 doska	board	0	0	1	1
 doske	board	0	0	1	0
@@ -611,7 +591,6 @@ vplyvu	impact	0	0	1	0
 hokej	hockey	0	0	1	0
 opátstvo	abbey	0	0	1	1
 prestavba	reconstruction	0	0	1	0
-bývalej	the former	0	0	1	0
 bývalej	of the former	0	0	1	0
 bývalej	former	0	0	1	0
 sodík	sodium	0	0	1	1
@@ -691,7 +670,6 @@ príchod	arrival of	0	0	1	0
 chápať	conceived	0	0	1	0
 chápať	understand	0	0	1	1
 josef	joseph	0	0	1	0
-josef	josef	0	0	1	0
 bankovky	bills	0	0	1	0
 bankovky	bank notes	0	0	1	0
 fresku	fresco	0	0	1	0
@@ -707,15 +685,13 @@ príkladmi	examples of	0	0	1	0
 príkladmi	examples	0	0	1	0
 znamená	means	0	0	1	0
 plynné	fluent	0	0	1	0
-plynné	gaseous	0	0	1	0
 súťaž	competition	0	0	1	1
 súťaž	contest	0	0	1	1
-malte	malta	0	0	1	0
+rozsiahly	extensive	0	0	1	1
 absolútna	the absolute	0	0	1	0
 absolútna	absolute	0	0	1	0
 cestovný	cestovny	0	0	1	0
 cestovný	tourism	0	0	1	0
-cestovný	trevel	0	0	1	0
 človeka	man	0	0	1	0
 čiarou	line	0	0	1	0
 cisárstva	empire	0	0	1	0
@@ -725,7 +701,6 @@ vytvorením	creating	0	0	1	0
 lekár	doctor	0	0	1	1
 veľká	large	0	0	1	0
 veľká	big	0	0	1	0
-veľká	great	0	0	1	0
 vodných	water	0	0	1	0
 vodných	aqueous	0	0	1	0
 aktivitou	activity	0	0	1	0
@@ -773,13 +748,10 @@ pripadá	devolved	0	0	1	0
 viacerých	multiple	0	0	1	0
 viacerých	more	0	0	1	0
 right	right	0	0	1	0
-old	old	0	0	1	0
 užívania	use	0	0	1	0
 rozmer	dimension	0	0	1	1
 obchodný	business	0	0	1	0
-disku	disk	0	0	1	0
-disku	drive	0	0	1	0
-obchodná	shopping	0	0	1	0
+urobila	did	0	0	1	0
 obchodná	trading	0	0	1	0
 obchodné	business	0	0	1	0
 obchodné	commercially	0	0	1	0
@@ -804,7 +776,6 @@ dcéru	daughter	0	0	1	0
 povahu	nature	0	0	1	0
 eduard	edward	0	0	1	0
 úprava	induction	0	0	1	0
-úprava	treatment	0	0	1	1
 venuje	deals	0	0	1	0
 zástupcov	representatives	0	0	1	0
 alexandra	alexandra	0	0	1	0
@@ -813,7 +784,6 @@ dcéra	daughter	0	0	1	1
 obsadené	busy	0	0	1	0
 obsadené	occupied	0	0	1	0
 obsadení	cast	0	0	1	0
-obsadení	seizing	0	0	1	0
 obsadení	casting the	0	0	1	0
 naďalej	continue to	0	0	1	0
 naďalej	continue	0	0	1	0
@@ -850,11 +820,9 @@ novo	new	0	0	1	0
 ohľadom	about	0	0	1	1
 spojenectvo	alliance	0	0	1	1
 vesmír	universe	0	0	1	1
-vesmír	space	0	0	1	1
 križovatky	intersection	0	0	1	0
 križovatky	crossroad	0	0	1	0
 palác	palac	0	0	1	0
-palác	thumb	0	0	1	0
 palác	palace	0	0	1	1
 križovatke	intersection	0	0	1	0
 slúžili	served	0	0	1	0
@@ -864,8 +832,7 @@ križovatka	junction	0	0	1	1
 music	music	0	0	1	0
 jana	jana	0	0	1	0
 dieťa	diet	0	0	1	0
-dieťa	child	0	0	1	1
-dns	dns	0	0	1	0
+musia	have	0	0	1	0
 moslimov	muslims	0	0	1	0
 portál	portal	0	0	1	1
 tábory	camps	0	0	1	0
@@ -932,7 +899,6 @@ rolling	rolling	0	0	1	0
 dávida	david	0	0	1	0
 regulácia	regulation	0	0	1	1
 regulácia	regulate/regulation	0	0	1	0
-regulácia	regulation of	0	0	1	0
 arménsko	armenian	0	0	1	0
 arménsko	armenia	0	0	1	0
 klíma	climate	0	0	1	1
@@ -982,7 +948,6 @@ vek	age	0	0	1	1
 okom	eye	0	0	1	0
 naozaj	real	0	0	1	1
 naozaj	really	0	0	1	1
-deriváciu	derivative	0	0	1	0
 deriváciu	derivation	0	0	1	0
 majster	master	0	0	1	1
 súčasný	current	0	0	1	1
@@ -1000,7 +965,7 @@ súčasné	at the same time	0	0	1	0
 súčasné	existing	0	0	1	0
 odbor	department	0	0	1	0
 pomenovania	names	0	0	1	0
-republikou	republic	0	0	1	0
+pomenovanie	name	0	0	1	1
 ostrovoch	islands	0	0	1	0
 dávid	david	0	0	1	0
 plánoval	planned	0	0	1	0
@@ -1012,7 +977,6 @@ vtedajší	then	0	0	1	1
 južného	southern	0	0	1	0
 jasné	clear	0	0	1	0
 jasné	clearly	0	0	1	0
-častým	frequent	0	0	1	0
 takomto	this	0	0	1	0
 takomto	such	0	0	1	0
 demografia	demography	0	0	1	0
@@ -1037,7 +1001,7 @@ annalen	annalen	0	0	1	0
 francúzština	french	0	0	1	0
 každých	every	0	0	1	0
 informatika	informatics	0	0	1	1
-súčasne	at the same time	0	0	1	1
+súčasne	at the same time	0	0	1	0
 súčasne	at a time	0	0	1	0
 galileo	galileo	0	0	1	0
 galilei	galilei	0	0	1	0
@@ -1075,7 +1039,6 @@ absolvovaní	completion	0	0	1	0
 verejnosť	public	0	0	1	1
 okupácie	occupation	0	0	1	0
 filmu	movie	0	0	1	0
-filmu	muvie	0	0	1	0
 filmu	film	0	0	1	0
 fyzikálne	physico	0	0	1	0
 fyzikálne	physical	0	0	1	0
@@ -1106,7 +1069,6 @@ najznámejším	most well known	0	0	1	0
 najznámejším	most famous	0	0	1	0
 sieťach	different networks	0	0	1	0
 sieťach	network	0	0	1	0
-sieťach	networks	0	0	1	0
 konala	held	0	0	1	0
 rozhraní	interface	0	0	1	0
 západnú	west	0	0	1	0
@@ -1118,7 +1080,6 @@ západná	western	0	0	1	0
 široko	widely	0	0	1	0
 západné	west	0	0	1	0
 západné	western	0	0	1	0
-západné	sets	0	0	1	0
 dnešná	current	0	0	1	0
 dnešná	today	0	0	1	0
 dnešná	today's	0	0	1	0
@@ -1173,7 +1134,6 @@ se	with	0	0	1	0
 se	se	0	0	1	0
 sťahovať	download	0	0	1	0
 sťahovať	move	0	0	1	1
-príchode	arrival	0	0	1	0
 kone	horses	0	0	1	0
 manžela	husband	0	0	1	0
 následok	result	0	0	1	1
@@ -1202,7 +1162,6 @@ hodnosti	rank	0	0	1	0
 zmeny	changes	0	0	1	1
 pojem	concept	0	0	1	1
 pojem	notion	0	0	1	1
-štúr	stur	0	0	1	0
 štúr	Štúr	0	0	1	0
 vrstiev	layers	0	0	1	0
 zmenu	change	0	0	1	0
@@ -1255,7 +1214,7 @@ internet	internet	0	0	1	0
 nízko	low	0	0	1	1
 filenz	file nz	0	0	1	0
 mód	mod	0	0	1	0
-dlho	long time	0	0	1	1
+dlho	long time	0	0	1	0
 dlho	long	0	0	1	1
 prírodná	natural	0	0	1	0
 prírodná	nature	0	0	1	0
@@ -1263,13 +1222,12 @@ priateľ	friend	0	0	1	1
 vyššou	more	0	0	1	0
 čsr	csr	0	0	1	0
 plyn	gas	0	0	1	1
-metódou	by	0	0	1	0
 metódou	method	0	0	1	0
+metódou	by	0	0	1	0
 zmení	changes	0	0	1	0
 zmení	change	0	0	1	0
 vybudovanie	building	0	0	1	0
 mimo	outside	0	0	1	1
-mimo	out	0	0	1	1
 ukazujú	show	0	0	1	0
 ukazujú	they show	0	0	1	0
 ukazujú	shows	0	0	1	0
@@ -1287,7 +1245,6 @@ rýchleho	quick	0	0	1	0
 rýchleho	fast	0	0	1	0
 oni	they	0	0	1	1
 ono	it	0	0	1	1
-konkrétne	specifically	0	0	1	1
 konkrétne	concretely	0	0	1	0
 poklesu	decline	0	0	1	0
 hradného	castle	0	0	1	0
@@ -1329,7 +1286,7 @@ hľadať	search	0	0	1	1
 hľadať	seek	0	0	1	1
 hľadať	hungry	0	0	1	0
 písmom	letters	0	0	1	0
-naraz	at once	0	0	1	1
+naraz	at once	0	0	1	0
 medzi	between	0	0	1	1
 porucha	failure	0	0	1	1
 savany	savannah	0	0	1	0
@@ -1344,7 +1301,6 @@ konštrukcie	construction	0	0	1	0
 konštrukcie	constructions	0	0	1	0
 armády	army	0	0	1	0
 naše	our	0	0	1	0
-lúče	beams	0	0	1	0
 lúče	rays	0	0	1	0
 naša	our	0	0	1	0
 japonska	japan	0	0	1	0
@@ -1358,7 +1314,8 @@ paríž	paris	0	0	1	0
 zániku	termination	0	0	1	0
 zániku	extincion	0	0	1	0
 zániku	extinction	0	0	1	0
-stanley	stanley	0	0	1	0
+bieloruska	belorussia	0	0	1	0
+bieloruska	belarus	0	0	1	0
 armáda	army	0	0	1	1
 bazilika	basilica	0	0	1	0
 prospech	benefit	0	0	1	1
@@ -1373,7 +1330,6 @@ podstatné	significantly	0	0	1	0
 podstatné	significant	0	0	1	0
 vrátila	back	0	0	1	0
 vrátila	returned	0	0	1	0
-zoo	the zoo	0	0	1	0
 zoo	zoo	0	0	1	1
 umelé	artificial	0	0	1	0
 pokusov	attempts	0	0	1	0
@@ -1438,8 +1394,7 @@ obce	village	0	0	1	0
 mediciovcov	medici	0	0	1	0
 beatles	beatles	0	0	1	0
 beatles	the beatles	0	0	1	0
-svätého	st.	0	0	1	0
-svätého	holy	0	0	1	0
+prejde	passes	0	0	1	0
 okamžite	immediately	0	0	1	1
 tímy	teams	0	0	1	0
 hruď	becomes evident	1	0	1	0
@@ -1464,11 +1419,9 @@ mincí	coins	0	0	1	0
 mincí	coin	0	0	1	0
 čiech	bohemia	0	0	1	0
 osobám	person	0	0	1	0
-osobám	people	0	0	1	0
 zuzana	zuzana	0	0	1	0
 predstavovali	accounted	0	0	1	0
 predstavovali	accounted for	0	0	1	0
-tankových	panzer	0	0	1	0
 tankových	tank	0	0	1	0
 židovská	jewish	0	0	1	0
 ur	ur	0	0	1	0
@@ -1493,6 +1446,7 @@ planétu	planet	0	0	1	0
 pápežom	pope	0	0	1	0
 subjekt	did	1	0	1	0
 subjekt	subject	1	1	1	1
+predsedníctvo	presidency	0	0	1	0
 dome	house	0	0	1	0
 domy	houses	0	0	1	0
 pápežov	pope	0	0	1	0
@@ -1552,7 +1506,6 @@ možnosti	options	0	0	1	0
 možnosti	opportunities	0	0	1	0
 tatranská	tatranska	0	0	1	0
 tatranská	tatra	0	0	1	0
-ním	them	0	0	1	0
 ním	it	0	0	1	0
 štát	country	0	0	1	0
 štát	state	0	0	1	1
@@ -1591,7 +1544,6 @@ otto	otto	0	0	1	0
 ludwig	ludwig	0	0	1	0
 fotosyntézy	photosynthesis	0	0	1	0
 mons	mons	0	0	1	0
-havárii	breakdown	0	0	1	0
 havárii	crash	0	0	1	0
 strategické	strategic	0	0	1	0
 vodný	aqueous	0	0	1	1
@@ -1629,7 +1581,6 @@ resp	resp	0	0	1	0
 resp	or	0	0	1	0
 pokrytá	covered	0	0	1	0
 kapacity	capacities	0	0	1	0
-kapacity	capacity	0	0	1	0
 úteku	the run	0	0	1	0
 úteku	escape	0	0	1	0
 futbalové	soccer	0	0	1	0
@@ -1638,7 +1589,6 @@ farebných	color	0	0	1	0
 kapacita	climatology	1	0	1	0
 kapacita	capacity	1	1	1	1
 kapacita	contradiction	1	0	1	0
-však	however	0	0	1	1
 však	but	0	0	1	1
 futbalový	football	0	0	1	0
 spoločnosťou	company	0	0	1	0
@@ -1657,8 +1607,7 @@ zložením	composition	0	0	1	0
 suchá	dry	0	0	1	0
 stupne	degrees	0	0	1	0
 chemických	chemical	0	0	1	0
-suché	dry	0	0	1	0
-suché	search	0	0	1	0
+stupni	degree	0	0	1	0
 lipidov	lipid	0	0	1	0
 lipidov	lipids	0	0	1	0
 mláďatá	pups	0	0	1	0
@@ -1672,7 +1621,6 @@ kostoly	churches	0	0	1	0
 smeruje	directed	0	0	1	0
 smeruje	heads	0	0	1	0
 world	world	0	0	1	0
-obežnej	orbital	0	0	1	0
 obežnej	orbit	0	0	1	0
 jazera	lake	0	0	1	0
 jazere	lake	0	0	1	0
@@ -1682,7 +1630,6 @@ dostatok	sufficient	0	0	1	1
 euromince	coins	0	0	1	0
 sudcov	judge	0	0	1	0
 sudcov	judges	0	0	1	0
-šíriť	spread	0	0	1	0
 šíriť	to spread	0	0	1	0
 čistý	net	0	0	1	1
 čistý	clean	0	0	1	1
@@ -1698,11 +1645,11 @@ financií	france	0	0	1	0
 čisté	net	0	0	1	0
 magma	magma	0	0	1	1
 kole	round	0	0	1	0
-silami	forces	0	0	1	0
+kola	wheels	0	0	1	0
+kola	round	0	0	1	0
 jedinú	only	0	0	1	0
 kolo	round	0	0	1	1
 konajú	held	0	0	1	0
-konajú	take place	0	0	1	0
 jediný	only	0	0	1	1
 jediný	the only one	0	0	1	0
 umeleckej	art	0	0	1	0
@@ -1731,7 +1678,6 @@ tvorila	created	0	0	1	0
 ľubovoľné	any	0	0	1	0
 ľubovoľné	arbitrary	0	0	1	0
 kontinenty	continents	0	0	1	0
-tvorili	made	0	0	1	0
 tvorili	were	0	0	1	0
 kontinentu	the continent of europe	0	0	1	0
 kontinentu	continent	0	0	1	0
@@ -1760,7 +1706,6 @@ ukrajinská	ukrainian	0	0	1	0
 trval	took	0	0	1	0
 francúzskeho	french	0	0	1	0
 užitočné	useful	0	0	1	0
-užitočné	usefully	0	0	1	0
 študoval	studied	0	0	1	0
 použitím	using	0	0	1	0
 použitím	using a	0	0	1	0
@@ -1770,7 +1715,6 @@ súbor	file	0	0	1	1
 vzťahy	relations	0	0	1	0
 drahý	expensive	0	0	1	1
 vzťahu	relation	0	0	1	0
-vzťahu	relationship	0	0	1	0
 botto	botto	0	0	1	0
 irán	iran	0	0	1	0
 stupňa	grade	0	0	1	0
@@ -1810,9 +1754,7 @@ ac	ac	0	0	1	0
 ab	ab	0	0	1	0
 ab	b	0	0	1	0
 ad	ad	0	0	1	0
-ag	and g	0	0	1	0
-ag	ag	0	0	1	0
-ag	g	0	0	1	0
+koncentrácia	concentration	0	0	1	1
 šíria	spread	0	0	1	0
 dôsledok	result	0	0	1	1
 ak	if	0	0	1	1
@@ -1881,7 +1823,6 @@ vyrobiť	manufacture	0	0	1	1
 vyrobiť	produce	0	0	1	0
 jazyka	language	0	0	1	0
 jazyky	languages	0	0	1	0
-jazyky	​​languages	0	0	1	0
 jazyky	language	0	0	1	0
 písomná	written	0	0	1	0
 rozprestiera	stretches	0	0	1	0
@@ -1891,14 +1832,14 @@ podpísaná	signed	0	0	1	0
 avšak	but	0	0	1	1
 demokraciou	democracy	0	0	1	0
 ostáva	remains	0	0	1	0
-nemôže	not	0	0	1	0
 nemôže	can not	0	0	1	0
 nemôže	can not go	0	0	1	0
 ty	you	0	0	1	1
 tv	tv	0	0	1	0
 tv	you	0	0	1	0
 tu	here	0	0	1	1
-tr	tr	0	0	1	0
+nedokázali	did not manage to	0	0	1	0
+nedokázali	failed to	0	0	1	0
 dostupný	available	0	0	1	1
 to	it	0	0	1	1
 tj	ie	0	0	1	0
@@ -1916,7 +1857,7 @@ filmový	the cinematic	0	0	1	0
 filmový	film	0	0	1	1
 elektronické	electronic	0	0	1	0
 zďaleka	far	0	0	1	1
-zďaleka	by far	0	0	1	1
+zďaleka	by far	0	0	1	0
 zďaleka	nearly	0	0	1	0
 západných	western	0	0	1	0
 západných	of western	0	0	1	0
@@ -2027,7 +1968,6 @@ rusko	rusko	0	0	1	0
 rusko	russia	0	0	1	1
 adidas	adidas	0	0	1	0
 vie	can	0	0	1	0
-vie	knows	0	0	1	0
 protokoly	protocols	0	0	1	0
 klasických	classical	0	0	1	0
 ruska	russia	0	0	1	0
@@ -2038,8 +1978,8 @@ prenášať	trasmitted	0	0	1	0
 prenášať	transmitted	0	0	1	0
 zubov	teeth	0	0	1	0
 rusky	russian	0	0	1	0
-býval	used to be	0	0	1	0
 býval	lived	0	0	1	0
+býval	used to be	0	0	1	0
 spájajú	associated	0	0	1	0
 pošty	post offices	0	0	1	0
 pošty	post	0	0	1	0
@@ -2067,7 +2007,6 @@ dňa	day	0	0	1	0
 obruči	ring	0	0	1	0
 obruči	rim	0	0	1	0
 obruči	hoops	0	0	1	0
-smrťou	death	0	0	1	0
 smrťou	death of	0	0	1	0
 klesá	drops	0	0	1	0
 klesá	decreases	0	0	1	0
@@ -2128,7 +2067,6 @@ najvyššej	highest	0	0	1	0
 profesionálne	professional	0	0	1	0
 profesionálne	professionally	0	0	1	1
 rozlohou	area	0	0	1	0
-vlnovej	wavelenght	0	0	1	0
 vlnovej	burgundy	0	0	1	0
 vlnovej	wave	0	0	1	0
 metabolizmu	metabolism	0	0	1	0
@@ -2150,7 +2088,6 @@ spodná	lower	0	0	1	0
 účinky	effects	0	0	1	0
 konfliktu	conflict	0	0	1	0
 malý	small	0	0	1	1
-malý	maly	0	0	1	0
 malú	small	0	0	1	0
 sodíka	sodium	0	0	1	0
 vplyvom	influence	0	0	1	0
@@ -2166,10 +2103,8 @@ využívanie	exploitation	0	0	1	0
 využívanie	use	0	0	1	0
 sekúnd	seconds	0	0	1	0
 malé	small	0	0	1	0
-malé	male	0	0	1	0
 kráľovi	king	0	0	1	0
 malá	small	0	0	1	0
-malá	had	0	0	1	0
 univerzity	university	0	0	1	0
 odmietla	refused	0	0	1	0
 zvolil	chosen	0	0	1	0
@@ -2182,7 +2117,7 @@ univerzita	university	0	0	1	1
 strachu	fear	0	0	1	0
 teóriou	theory	0	0	1	0
 teóriou	the theory	0	0	1	0
-its	its	0	0	1	0
+univerzite	university	0	0	1	0
 vojskami	troops	0	0	1	0
 filip	philip	0	0	1	0
 lávy	lavy	0	0	1	0
@@ -2194,8 +2129,6 @@ konektory	connectors	0	0	1	0
 spĺňa	meet	0	0	1	0
 spĺňa	switch	0	0	1	0
 spĺňa	fulfills	0	0	1	0
-etapy	stages	0	0	1	0
-etapy	stage	0	0	1	0
 veci	things	0	0	1	1
 nedajú	not	0	0	1	0
 slovami	words	0	0	1	0
@@ -2225,7 +2158,6 @@ hornom	top	0	0	1	0
 kódovanie	coding	0	0	1	1
 kontext	context	1	1	0	1
 štruktúra	structure	0	0	1	1
-zvýšiť	increase	0	0	1	1
 zvýšiť	raise	0	0	1	1
 štruktúry	structure	0	0	1	0
 blues	blues	0	0	1	0
@@ -2249,8 +2181,7 @@ zákony	laws	0	0	1	0
 sebou	you	0	0	1	0
 pripravoval	prepared	0	0	1	0
 británia	britain	0	0	1	0
-farbou	color	0	0	1	0
-farbou	paint	0	0	1	0
+kráľovské	royal	0	0	1	0
 británie	britain	0	0	1	0
 británii	britain	0	0	1	0
 rieke	river	0	0	1	0
@@ -2282,21 +2213,16 @@ monografia	monography	1	1	0	0
 monografia	eve	1	0	1	0
 nútené	forced	0	0	1	0
 chodil	went	0	0	1	0
-chodil	attended	0	0	1	0
 nútení	forced	0	0	1	0
 w	w.	0	0	1	0
 w	w	0	0	1	0
 nejakú	some	0	0	1	0
 spolupráce	cooperation	0	0	1	0
-spolupráce	co-operation	0	0	1	0
 nejaký	some kind of	0	0	1	0
 nejaký	some	0	0	1	1
 nejaký	any	0	0	1	1
 neskorších	later	0	0	1	0
-chce	wants	0	0	1	0
-chce	wants to	0	0	1	0
 vzniká	emerges	0	0	1	0
-vzniká	arises	0	0	1	0
 vzniká	there is	0	0	1	0
 teoreticky	in theory	0	0	1	0
 teoreticky	theory	0	0	1	0
@@ -2323,6 +2249,8 @@ vlád	government	0	0	1	0
 dôvodov	reasons	0	0	1	0
 reaguje	reacts	0	0	1	0
 značnej	significant	0	0	1	0
+návrhov	of proposals	0	0	1	0
+návrhov	proposals	0	0	1	0
 maďarov	hungarians	0	0	1	0
 andragogika	andragogy	0	0	1	0
 sexuálne	sexually	0	0	1	1
@@ -2336,7 +2264,6 @@ menšia	less	0	0	1	0
 žilina	žilina	0	0	1	0
 žilina	zilina	0	0	1	0
 menšie	smaller	0	0	1	0
-žiline	ziline	0	0	1	0
 žiline	zilina	0	0	1	0
 priniesli	brought	0	0	1	0
 prostriedkami	means	0	0	1	0
@@ -2352,7 +2279,6 @@ vzťahuje	applies	0	0	1	0
 transformácia	transformation	0	0	1	1
 transformácie	transformation	0	0	1	0
 srsti	coat	0	0	1	0
-stránkach	website	0	0	1	0
 stránkach	site	0	0	1	0
 zápase	wrestling	0	0	1	0
 zápase	match	0	0	1	0
@@ -2405,7 +2331,6 @@ microsoft	microsoft	0	0	1	0
 letných	summer	0	0	1	0
 vojtech	vojtech	0	0	1	0
 šírka	width	0	0	1	1
-šírka	match	0	0	1	0
 názor	view	0	0	1	1
 mnohé	many	0	0	1	0
 mnohé	numerous	0	0	1	0
@@ -2491,7 +2416,6 @@ obklopuje	surrounds	0	0	1	0
 opak	opposite	0	0	1	1
 neúspechu	failure	0	0	1	0
 realizuje	implemented	0	0	1	0
-realizuje	realizes	0	0	1	0
 poskytovať	provide	0	0	1	1
 získať	get	0	0	1	1
 tiež	also	0	0	1	1
@@ -2518,8 +2442,6 @@ mierne	little	0	0	1	0
 mierne	slightly	0	0	1	1
 rozdielom	difference	0	0	1	0
 bohatú	richly	0	0	1	0
-bohatú	rich	0	0	1	0
-vojenský	military	0	0	1	1
 vojenský	militarily	0	0	1	0
 vojenskú	military	0	0	1	0
 hľadaní	mrl	0	0	1	0
@@ -2536,8 +2458,6 @@ vojenské	military	0	0	1	0
 zmenou	change	0	0	1	0
 úvahy	account	0	0	1	0
 filozofi	philosophers	0	0	1	0
-spôsobiť	cause	0	0	1	1
-spôsobiť	to cause	0	0	1	0
 great	velky	0	0	1	0
 hlasy	voices	0	0	1	1
 športy	sport	0	0	1	0
@@ -2561,7 +2481,8 @@ motívom	motive	0	0	1	0
 slovák	slovák	0	0	1	0
 slovák	slovak	0	0	1	1
 slovák	slovakia	0	0	1	0
-pevnosti	strength	0	0	1	0
+urobiť	do	0	0	1	1
+urobiť	make	0	0	1	1
 chyby	errors	0	0	1	0
 chyby	the error	0	0	1	0
 divízií	division	0	0	1	0
@@ -2603,7 +2524,6 @@ očakávať	expect	0	0	1	1
 eura	euro	0	0	1	0
 spoločenstva	community	0	0	1	0
 držali	held	0	0	1	0
-držali	hold	0	0	1	0
 liberalizmu	liberalism	0	0	1	0
 vyvinutý	developed	0	0	1	1
 rastlina	plant	0	0	1	1
@@ -2612,18 +2532,17 @@ spoločenstvo	community	0	0	1	1
 čele	the head	0	0	1	0
 cudzích	foreign	0	0	1	0
 poznatkov	knowledge	0	0	1	0
-počatia	after	0	0	1	0
 počatia	conception	0	0	1	0
 pásožiabrovce	elasmobranchii	1	1	0	0
 náhrada	replaces	0	0	1	0
 februára	february	0	0	1	0
-stredovek	middle ages	0	0	1	1
+stredovek	middle ages	0	0	1	0
 takisto	also	0	0	1	1
 hĺbke	depth	0	0	1	0
 ústavný	constitutional	0	0	1	1
 všeobecnej	of generic	0	0	1	0
 všeobecnej	general	0	0	1	0
-samozrejme	of course	0	0	1	1
+samozrejme	of course	0	0	1	0
 samozrejme	naturally	0	0	1	1
 zrušil	canceled	0	0	1	0
 jednotka	unit	0	0	1	1
@@ -2638,7 +2557,6 @@ jednotku	unit	0	0	1	0
 dôležitú	an important	0	0	1	0
 dôležitú	important	0	0	1	0
 definícia	definition	0	0	1	1
-dôležitý		0	0	1	0
 dôležitý	important	0	0	1	1
 štít	shield	0	0	1	1
 prírody	nature	0	0	1	0
@@ -2679,11 +2597,9 @@ oxidačné	oxidant	0	0	1	0
 štádium	stage	0	0	1	1
 vaporizér	vaporizer	1	1	0	0
 maliari	painters	0	0	1	0
-maliari	artist	0	0	1	0
 nemôžeme	we can not	0	0	1	0
 nemôžeme	can not	0	0	1	0
 maliara	painter	0	0	1	0
-väčšiu	more	0	0	1	0
 párč	plot	0	0	1	0
 charakterizuje	characterized	0	0	1	0
 až	and	0	0	1	0
@@ -2694,7 +2610,6 @@ rozličné	various	0	0	1	0
 rozličné	miscellaneous	0	0	1	0
 bd	bd	0	0	1	0
 bd	blu-ray disc (bd)	0	0	1	0
-be	be	0	0	1	0
 vybrať	select	0	0	1	1
 ba	ba	0	0	1	0
 bb	bb	0	0	1	0
@@ -2751,12 +2666,17 @@ priebehu	story	0	0	1	0
 spam	spam	0	0	1	0
 prachu	dust	0	0	1	0
 zrušiť	cancel	0	0	1	1
+ag	and g	0	0	1	0
+ag	ag	0	0	1	0
+ag	g	0	0	1	0
 všeobecných	general	0	0	1	0
+farbou	color	0	0	1	0
+farbou	paint	0	0	1	0
 pevných	solid	0	0	1	0
 pevných	fixed	0	0	1	0
 známej	known	0	0	1	0
-vzrástol	increase	0	0	1	0
 vzrástol	increased	0	0	1	0
+priamym	direct	0	0	1	0
 japonsko	japan	0	0	1	0
 japonsku	japan	0	0	1	0
 základných	primary	0	0	1	0
@@ -2824,7 +2744,6 @@ bývalá	former	0	0	1	0
 stopy	track	0	0	1	0
 stopy	tracks	0	0	1	0
 stopy	traces	0	0	1	0
-stavebný	building	0	0	1	1
 stavebný	construction	0	0	1	1
 stavebný	structural	0	0	1	1
 bývalí	past	0	0	1	0
@@ -2873,7 +2792,6 @@ uvedených	mentioned	0	0	1	0
 uvedených	provided	0	0	1	0
 uvedených	the mentioned	0	0	1	0
 vládol	ruled	0	0	1	0
-vládol	reigned	0	0	1	0
 sezóne	season	0	0	1	0
 sezóny	season	0	0	1	0
 vládou	government	0	0	1	0
@@ -2930,14 +2848,12 @@ výkony	performances	0	0	1	0
 výkonu	performance	0	0	1	0
 anton	anton	0	0	1	0
 osobitné	separately	0	0	1	0
-osobitné	special	0	0	1	0
 firmy	company	0	0	1	0
 diamanty	diamonds	0	0	1	0
 diamantu	diamond	0	0	1	0
 led	ice	0	0	1	0
 ľahšie	easier	0	0	1	0
 nemajú	do not have	0	0	1	0
-nemajú	they have no prime	0	0	1	0
 nemajú	no	0	0	1	0
 paleolitu	paleolithic	0	0	1	0
 len	only	0	0	1	1
@@ -2948,7 +2864,7 @@ let	flight	0	0	1	1
 lev	lion	0	0	1	1
 lev	lev	0	0	1	0
 lev	leo	0	0	1	0
-provincia	province	0	0	1	1
+obyvateľa	capita	0	0	1	0
 problém	problem	0	0	1	1
 väčšou	more	0	0	1	0
 kružnice	circle	0	0	1	0
@@ -2970,7 +2886,6 @@ druhá	second	0	0	1	0
 druhá	mate	0	0	1	0
 ohlas	response	0	0	1	1
 elektrické	electric	0	0	1	0
-elektrické	power	0	0	1	0
 druhú	second	0	0	1	0
 druhú	other	0	0	1	0
 vrcholy	peaks	0	0	1	0
@@ -3062,8 +2977,7 @@ dážď	rain	0	0	1	1
 amerika	america	0	0	1	0
 ľuďoch	people	0	0	1	0
 amerike	america	0	0	1	0
-panny	virgins	0	0	1	0
-panny	panny	0	0	1	0
+prednej	front	0	0	1	0
 japonci	japanese	0	0	1	0
 ameriky	america	0	0	1	0
 ameriky	amerika	0	0	1	0
@@ -3107,7 +3021,8 @@ bežné	normally	0	0	1	0
 bežné	common	0	0	1	0
 jednej	one	0	0	1	0
 spisov	files	0	0	1	0
-spolupracovať	cooperate	0	0	1	0
+budovať	build	0	0	1	1
+budovať	construct	0	0	1	1
 kiss	kiss	0	0	1	0
 bežný	common	0	0	1	1
 daných	these	0	0	1	0
@@ -3150,9 +3065,10 @@ tohoto	this	0	0	1	0
 dodáva	given	0	0	1	0
 dodáva	adds	0	0	1	0
 funkcia	function	0	0	1	1
-kvôli	because of	0	0	1	1
+kvôli	because of	0	0	1	0
 hrob	grave	0	0	1	1
-funkciu	function	0	0	1	0
+zastupuje	represents	0	0	1	0
+zastupuje	represents the	0	0	1	0
 hrom	thunder	1	1	0	1
 hrom	lighting	1	1	0	0
 hrom	golden	1	0	1	0
@@ -3181,7 +3097,7 @@ minerálov	minerals	0	0	1	0
 uskutočnili	place	0	0	1	0
 uskutočnili	were conducted	0	0	1	0
 uskutočnili	were contucted	0	0	1	0
-zhora	from above	0	0	1	1
+zhora	from above	0	0	1	0
 zhora	above	0	0	1	1
 hovoria	say	0	0	1	0
 hovoria	says	0	0	1	0
@@ -3195,7 +3111,6 @@ výrazný	distinct	0	0	1	0
 výrazný	significant	0	0	1	0
 vystúpení	performances	0	0	1	0
 výrazné	markedly	0	0	1	0
-výrazné	significant	0	0	1	0
 popri	in addition	0	0	1	0
 popri	besides	0	0	1	0
 zaberajú	occupy	0	0	1	0
@@ -3210,7 +3125,8 @@ početné	numerically	0	0	1	0
 preklade	translation	0	0	1	0
 viazané	bound	0	0	1	0
 festival	festival	0	0	1	1
-terrier	terrier	0	0	1	0
+múdrosti	wisdom as	0	0	1	0
+múdrosti	wisdom	0	0	1	0
 system	system	0	0	1	0
 taliani	italians	0	0	1	0
 viazaný	bound	0	0	1	1
@@ -3232,7 +3148,6 @@ fotónov	photons	0	0	1	0
 havel	havel	0	0	1	0
 steel	steel	0	0	1	0
 kôra	bark	0	0	1	1
-kôre	korea	0	0	1	0
 kôre	root	0	0	1	0
 ruje	oestrus	0	0	1	0
 vojnou	war	0	0	1	0
@@ -3257,7 +3172,6 @@ suky	females	0	0	1	0
 suky	bitch	0	0	1	0
 skúsenosť	experiences	0	0	1	0
 skúsenosť	experience	0	0	1	1
-pevniny	dry land	0	0	1	0
 pevniny	mainland	0	0	1	0
 prostriedok	means	0	0	1	1
 roľníci	farmers	0	0	1	0
@@ -3324,12 +3238,11 @@ nazývame	is called	0	0	1	0
 nazývame	call	0	0	1	0
 nazývame	called	0	0	1	0
 katka	katka	0	0	1	0
-katka	kate	0	0	1	0
 čísla	facts	0	0	1	0
 čísla	numbers	0	0	1	1
 h	h	0	0	1	0
-číslo	integer	0	0	1	0
-číslo	number	0	0	1	1
+výhodou	benefit	0	0	1	0
+výhodou	advantage	0	0	1	0
 venovať	devote	0	0	1	1
 venovať	give	0	0	1	1
 mená	currency	0	0	1	0
@@ -3371,10 +3284,9 @@ vysťahovalectvo	external	1	0	1	0
 znovu	again	0	0	1	1
 nahrádza	replaces	0	0	1	0
 namiesto	instead	0	0	1	1
-namiesto	instead of	0	0	1	1
+namiesto	instead of	0	0	1	0
 povedané	spoken	0	0	1	0
 povedané	said in	0	0	1	0
-povedané	said	0	0	1	0
 miroslav	miroslav	0	0	1	0
 prejavovať	display	0	0	1	0
 prejavovať	manifest	0	0	1	1
@@ -3393,7 +3305,6 @@ typická	typical	0	0	1	0
 označovaná	called	0	0	1	0
 označovaná	labeling	0	0	1	0
 označovaná	labelled	0	0	1	0
-hsľs	hsĽs	0	0	1	0
 hsľs	hels	0	0	1	0
 hsľs	hsl's	0	0	1	0
 intonácia	intonation	1	1	0	1
@@ -3444,7 +3355,7 @@ magnetické	magnetic	0	0	1	0
 nahrala	recorded	0	0	1	0
 predmet	subject	0	0	1	1
 politickou	political	0	0	1	0
-laser	laser	0	0	1	0
+väčšiu	more	0	0	1	0
 študentov	students	0	0	1	0
 študentov	student	0	0	1	0
 nahrali	recorded	0	0	1	0
@@ -3482,7 +3393,6 @@ slovenska	slovakia	0	0	1	0
 poľské	polish	0	0	1	0
 poľská	polish	0	0	1	0
 poľská	poland	0	0	1	0
-potratu	abortation	0	0	1	0
 potratu	abortion	0	0	1	0
 poľský	polish	0	0	1	1
 paula	paul	0	0	1	0
@@ -3498,8 +3408,8 @@ blanokrídlovce	page	1	0	1	0
 normálny	normal	0	0	1	1
 našli	found	0	0	1	0
 našli	find	0	0	1	0
-phd	dr.	0	0	1	0
 phd	phd	0	0	1	0
+phd	dr.	0	0	1	0
 dvakrát	twice	0	0	1	1
 dvakrát	two	0	0	1	1
 sodného	sodium	0	0	1	0
@@ -3514,11 +3424,9 @@ väzenia	prison	0	0	1	0
 rozšírili	extended	0	0	1	0
 rozšírila	expanded	0	0	1	0
 podobne	similarly	0	0	1	1
-starí	old	0	0	1	0
-starí	age of the	0	0	1	0
-budovať	build	0	0	1	1
-budovať	construct	0	0	1	1
-vôbec	at all	0	0	1	1
+ktorou	which	0	0	1	0
+spolupracovať	cooperate	0	0	1	0
+vôbec	at all	0	0	1	0
 vôbec	all	0	0	1	0
 audio	audio	0	0	1	0
 mobilné	mobile	0	0	1	0
@@ -3531,7 +3439,6 @@ slobodný	free	0	0	1	1
 žijú	livr	0	0	1	0
 mobilná	mobile	0	0	1	0
 zväzu	union	0	0	1	0
-sieťovej	ac	0	0	1	0
 sieťovej	network	0	0	1	0
 lesy	woods	0	0	1	0
 lesy	forests	0	0	1	0
@@ -3687,7 +3594,6 @@ vstupu	input	0	0	1	0
 európania	europeans	0	0	1	0
 považoval	considered	0	0	1	0
 náboženským	religious	0	0	1	0
-náboženským	a religious	0	0	1	0
 špekulácie	speculation	0	0	1	0
 vstupe	input	0	0	1	0
 vstupe	entering	0	0	1	0
@@ -3735,14 +3641,12 @@ katastrálne	catastrophic	0	0	1	0
 dôsledkom	result	0	0	1	0
 zatiaľ	while	0	0	1	0
 zatiaľ	yet	0	0	1	1
-zatiaľ	so far	0	0	1	1
+zatiaľ	so far	0	0	1	0
 navštevoval	visited	0	0	1	0
 navštevoval	attended	0	0	1	0
 rotáciu	rotation	0	0	1	0
-vyjadrenie	expression	0	0	1	1
-vyjadrenie	statement	0	0	1	1
-právom	right	0	0	1	0
 právom	law	0	0	1	0
+právom	right	0	0	1	0
 vpravo	right	0	0	1	1
 illusion	illusion	0	0	1	0
 detaily	details	0	0	1	0
@@ -3803,7 +3707,7 @@ z nich	of them	0	0	1	0
 z nich	from them	0	0	1	0
 rozpore	conflict	0	0	1	0
 krajinách	countries	0	0	1	0
-vlastnou	own	0	0	1	0
+funkciu	function	0	0	1	0
 známym	known	0	0	1	0
 známym	-known	0	0	1	0
 známym	know	0	0	1	0
@@ -3814,7 +3718,6 @@ chemického	chemical	0	0	1	0
 akú	battery	0	0	1	0
 akú	what	0	0	1	0
 významná	with a very important	0	0	1	0
-významná	very important	0	0	1	0
 významná	significant	0	0	1	0
 špeciálnym	special	0	0	1	0
 traja	three	0	0	1	0
@@ -3833,7 +3736,6 @@ významnú	significantly	0	0	1	0
 významnú	prominent	0	0	1	0
 galaxie	galaxy	0	0	1	0
 významný	eminent	0	0	1	1
-významný	significant	0	0	1	1
 hora	mountain	0	0	1	1
 komponenty	component	0	0	1	0
 komponenty	components	0	0	1	0
@@ -3849,7 +3751,6 @@ panda	panda	0	0	1	0
 pásov	passports	0	0	1	0
 pásov	belts	0	0	1	0
 disk	disk	0	0	1	1
-disk	disc	0	0	1	1
 päťdesiatych	the fifties	0	0	1	0
 päťdesiatych	fifties	0	0	1	0
 +	+	0	0	1	0
@@ -3867,7 +3768,6 @@ držať	hold	0	0	1	1
 práve	just	0	0	1	1
 práva	justice	0	0	1	0
 práva	right	0	0	1	0
-práva	rights	0	0	1	0
 úspechy	successes	0	0	1	0
 úspechy	success	0	0	1	0
 mocností	powers	0	0	1	0
@@ -3899,9 +3799,8 @@ represia	scheme	1	0	1	0
 represia	schema	1	0	1	0
 najdôležitejšia	the most important	0	0	1	0
 najdôležitejšia	most importantly	0	0	1	0
-najdôležitejšie	most important	0	0	1	0
-najdôležitejšie	most importantly	0	0	1	0
 najdôležitejšie	most	0	0	1	0
+najdôležitejšie	most importantly	0	0	1	0
 ochrane	protection	0	0	1	0
 ochrana	protection	0	0	1	1
 chované	kept	0	0	1	0
@@ -3916,7 +3815,6 @@ súčasť	part	0	0	1	1
 súčasť	component	0	0	1	1
 mladé	young	0	0	1	1
 najvyšším	the highest	0	0	1	0
-najvyšším	highest	0	0	1	0
 kryštalickej	crystallic	0	0	1	0
 kryštalickej	crystalline	0	0	1	0
 hronom	hronom	0	0	1	0
@@ -3983,7 +3881,6 @@ kmene	tribe	0	0	1	0
 kmene	strain	0	0	1	0
 vlny	waves	0	0	1	0
 odvetvia	industry	0	0	1	0
-odvetvia	subdivisions	0	0	1	0
 kritériá	criteria	0	0	1	0
 horného	upper	0	0	1	0
 horného	top	0	0	1	0
@@ -4006,8 +3903,6 @@ las	las	0	0	1	0
 používania	using	0	0	1	0
 používania	use	0	0	1	0
 používania	used	0	0	1	0
-používanie	your use	0	0	1	0
-používanie	use	0	0	1	1
 iným	other	0	0	1	0
 green	green	0	0	1	0
 cicavcov	mammals	0	0	1	0
@@ -4015,7 +3910,6 @@ zem	earth	0	0	1	1
 zem	ground	0	0	1	1
 schválený	approved	0	0	1	0
 ťaží	benefit	0	0	1	0
-ťaží	tazi	0	0	1	0
 rôznymi	different	0	0	1	0
 rôznymi	take different	0	0	1	0
 sony	sony	0	0	1	0
@@ -4037,8 +3931,8 @@ stratégie	strategy	0	0	1	0
 spracovania	processing	0	0	1	0
 hlavnými	main	0	0	1	0
 velitelia	commanders	0	0	1	0
-schopný	able	0	0	1	1
 schopný	able to	0	0	1	0
+schopný	able	0	0	1	1
 band	band	0	0	1	0
 stratégiu	strategy	0	0	1	0
 schopná	able	0	0	1	0
@@ -4086,7 +3980,6 @@ tónov	tones	0	0	1	0
 network	network	0	0	1	0
 sľúbil	promised	0	0	1	0
 používa	to use	0	0	1	0
-používa	used	0	0	1	0
 používa	uses	0	0	1	0
 bolesti	pain	0	0	1	0
 zmenil	changed	0	0	1	0
@@ -4122,7 +4015,6 @@ súčet	sum	0	0	1	1
 báz	bases	0	0	1	0
 báz	base	0	0	1	0
 dlhom	long	0	0	1	0
-organizácií	organizations	0	0	1	0
 organizácií	organisation	0	0	1	0
 organizácií	organisations	0	0	1	0
 isté	certainly	0	0	1	0
@@ -4179,7 +4071,7 @@ tehotenstva	pregnancy	0	0	1	0
 tehotenstva	pregnanncy	0	0	1	0
 uprostred	middle	0	0	1	0
 uprostred	midst	0	0	1	1
-uprostred	in the middle of	0	0	1	1
+uprostred	in the middle of	0	0	1	0
 uprostred	in the middle	0	0	1	0
 róbert	robert	0	0	1	0
 kto	who	0	0	1	1
@@ -4200,8 +4092,7 @@ bariéry	barriers	0	0	1	0
 frekvenciu	frequency	0	0	1	0
 paralelný	parallel	0	0	1	1
 prijatý	accepted	0	0	1	1
-nitra	inside	0	0	1	0
-nitra	nitra	0	0	1	0
+štátnym	state	0	0	1	0
 interakcie	interaction	0	0	1	0
 maiden	maiden	0	0	1	0
 bráni	prevents	0	0	1	0
@@ -4240,7 +4131,6 @@ hry	games	0	0	1	0
 čeliť	face	0	0	1	1
 života	life	0	0	1	0
 hru	game	0	0	1	0
-uniknúť	leak	0	0	1	0
 uniknúť	escape	0	0	1	1
 vápenatý	calcium	0	0	1	0
 vápenatý	calcic	0	0	1	1
@@ -4274,7 +4164,6 @@ stalingrad	stalingrad	0	0	1	0
 du	du	0	0	1	0
 dr	dr.	0	0	1	0
 zmenila	changed	0	0	1	0
-hrúbka	blunder	0	0	1	0
 hrúbka	thickness	0	0	1	1
 hrúbka	mistake	0	0	1	0
 vlka	wolf	0	0	1	0
@@ -4282,8 +4171,7 @@ mŕtvych	dead	0	0	1	0
 emo	emo	0	0	1	0
 expresionizmus	expressionism	0	0	1	1
 obdobie	period	0	0	1	1
-mladého	a young	0	0	1	0
-mladého	young	0	0	1	0
+reaktor	reactor	0	0	1	1
 obdobia	period	0	0	1	0
 irak	iraq	0	0	1	0
 nádychu	breath	0	0	1	0
@@ -4319,8 +4207,6 @@ gustáv	gustáv	0	0	1	0
 wc	wc	0	0	1	0
 kostné	bone	0	0	1	0
 rozdiel	difference	0	0	1	1
-hôr	choir	0	0	1	0
-hôr	mountains	0	0	1	0
 štandardu	standard	0	0	1	0
 živých	living	0	0	1	0
 svetového	world	0	0	1	0
@@ -4339,7 +4225,6 @@ množstvá	number of	0	0	1	0
 aristoteles	aristotle	0	0	1	0
 značne	significantly	0	0	1	0
 značne	highly	0	0	1	0
-predsedu	president	0	0	1	0
 činnosť	activity	0	0	1	1
 získanie	having an	0	0	1	0
 získanie	acquisition	0	0	1	1
@@ -4399,7 +4284,7 @@ chvost	tail	0	0	1	1
 nemalo	not	0	0	1	0
 srbsko	serbia	0	0	1	1
 patent	patent	0	0	1	1
-časopriestor	spacetime	0	0	1	0
+nemala	not	0	0	1	0
 pluralizmus	pluralism	1	1	0	1
 prídavné	additional	0	0	1	0
 prídavné	additionally	0	0	1	0
@@ -4440,8 +4325,8 @@ tepla	heat	0	0	1	0
 takého	such	0	0	1	0
 takého	like that	0	0	1	0
 koza	goat	0	0	1	1
-brať	brother	0	0	1	0
 brať	take	0	0	1	1
+brať	brother	0	0	1	0
 americký	american	0	0	1	1
 the	the	0	0	1	0
 thc	the thc	0	0	1	0
@@ -4457,7 +4342,8 @@ newton	newton	0	0	1	0
 článkov	articles	0	0	1	0
 prví	first	0	0	1	0
 novou	new	0	0	1	0
-vzduchu	air	0	0	1	0
+najbližšie	nearest	0	0	1	0
+najbližšie	closest	0	0	1	0
 návšteve	visit	0	0	1	0
 rozkladá	decomposes	0	0	1	0
 rozkladá	degrade	0	0	1	0
@@ -4516,7 +4402,6 @@ mäso	meat	0	0	1	1
 zloženie	composition	0	0	1	1
 purple	purple	0	0	1	0
 vytvorí	create	0	0	1	0
-vytvorí	created	0	0	1	0
 mäsa	mass	0	0	1	0
 mäsa	meat	0	0	1	0
 následkom	following	0	0	1	1
@@ -4560,8 +4445,6 @@ pôdy	pods	0	0	1	0
 miestach	locations	0	0	1	0
 anorganických	inorganic	0	0	1	0
 pôdu	soil	0	0	1	0
-pôdu	land	0	0	1	0
-pôdu	ground	0	0	1	0
 vladimír	vladimir	0	0	1	0
 obe	two	0	0	1	0
 opis	description	0	0	1	1
@@ -4584,8 +4467,8 @@ komunita	community	0	0	1	0
 jacques	jacques	0	0	1	0
 otec	father	0	0	1	1
 náboženstvom	religion	0	0	1	0
-tituly	titles	0	0	1	0
-tituly	title	0	0	1	0
+prítoky	tributaries	0	0	1	0
+prítoky	inflows	0	0	1	0
 rýb	fishes	0	0	1	0
 rýb	fish	0	0	1	0
 české	czech	0	0	1	0
@@ -4618,7 +4501,7 @@ algoritmus	algorithm	0	0	1	1
 pôsobnosti	scope	0	0	1	0
 pôsobnosti	of application	0	0	1	0
 biskupom	bishop	0	0	1	0
-strach	fear	0	0	1	1
+hudba	music	0	0	1	1
 dielom	part	0	0	1	0
 dielom	work	0	0	1	0
 spišský	spish	0	0	1	0
@@ -4626,7 +4509,6 @@ spišský	spissky	0	0	1	0
 spišský	spiš	0	0	1	0
 emil	emil	0	0	1	0
 zatmenia	eclipse	0	0	1	0
-hlavnou	head	0	0	1	0
 hlavnou	main	0	0	1	0
 hlavnou	page	0	0	1	0
 mtv	mtv	0	0	1	0
@@ -4643,7 +4525,6 @@ komunistických	communist	0	0	1	0
 jarmok	fair	0	0	1	0
 jarmok	market	0	0	1	1
 riadenie	management	0	0	1	1
-riadenia	control	0	0	1	0
 riadenia	governance (second sentence)	0	0	1	0
 riadenia	management	0	0	1	0
 riadenia	management (first and third sentence)	0	0	1	0
@@ -4656,13 +4537,11 @@ billboard	billboard	0	0	1	0
 útokov	attacks	0	0	1	0
 kanónu	gun	0	0	1	0
 považujú	considered	0	0	1	0
-považujú	i consider	0	0	1	0
 považujú	extend	0	0	1	0
 mladší	younger	0	0	1	1
 pohorí	mountains	0	0	1	0
 pracuje	works	0	0	1	0
 deväťdesiatych	ninety	0	0	1	0
-deväťdesiatych	giving ten	0	0	1	0
 deväťdesiatych	nineties	0	0	1	0
 poslal	sent	0	0	1	0
 tenisové	tennis	0	0	1	0
@@ -4703,7 +4582,6 @@ obľúbené	favourite	0	0	1	0
 obľúbené	favorite	0	0	1	0
 partizánske	partisan	0	0	1	0
 partizánske	partizanske	0	0	1	0
-aalebo	aalebo	0	0	1	0
 aalebo	and / or	0	0	1	0
 gigi	gigi	0	0	1	0
 vlastnej	own	0	0	1	0
@@ -4754,14 +4632,11 @@ dcéry	daughters	0	0	1	0
 brigádny	brigadier	0	0	1	0
 malých	small	0	0	1	0
 svojej	its	0	0	1	0
-skúmania	reconnaissance	0	0	1	0
 skúmania	review	0	0	1	0
 skúmania	research	0	0	1	0
 skúmanie	investigation	0	0	1	1
 skúmanie	exploration	0	0	1	0
-vstupné	entry price	0	0	1	0
-vstupné	admission	0	0	1	1
-vstupné	ticket	0	0	1	0
+teológie	theology	0	0	1	0
 punkerov	punk	0	0	1	0
 punkerov	punks	0	0	1	0
 nového	the new	0	0	1	0
@@ -4775,7 +4650,7 @@ fyzici	physicists	0	0	1	0
 zástupcom	representative	0	0	1	0
 získaných	obtained	0	0	1	0
 básnik	poet	0	0	1	1
-rímskokatolícky	roman catholic	0	0	1	1
+rímskokatolícky	roman catholic	0	0	1	0
 takmer	nearly	0	0	1	1
 zvláštnym	special	0	0	1	0
 tretieho	third	0	0	1	0
@@ -4801,7 +4676,6 @@ rozsah	range	0	0	1	1
 chlapec	boy	0	0	1	1
 kňaz	priest	0	0	1	1
 stačí	enough	0	0	1	0
-stačí	just	0	0	1	0
 metrov	meters	0	0	1	0
 mckenna	mckenna	0	0	1	0
 bitky	battle	0	0	1	0
@@ -4972,8 +4846,8 @@ východných	eastern	0	0	1	0
 svetových	world	0	0	1	0
 svetových	world's	0	0	1	0
 el	el	0	0	1	0
-výhodou	benefit	0	0	1	0
-výhodou	advantage	0	0	1	0
+en	to en	0	0	1	0
+en	en	0	0	1	0
 deliť	divide	0	0	1	1
 hymna	anthem	0	0	1	1
 ed	ed	0	0	1	0
@@ -5046,7 +4920,6 @@ odmieta	refuses to	0	0	1	0
 drevené	wooden	0	0	1	0
 drevené	wood	0	0	1	0
 štádia	selected	0	0	1	0
-štádia	stage	0	0	1	0
 čeľade	family	0	0	1	0
 achát	legislative	1	0	1	0
 achát	included in	1	0	1	0
@@ -5109,7 +4982,7 @@ pochádzali	came	0	0	1	0
 výborne	tasty	0	0	1	0
 pomenovaný	named	0	0	1	1
 stranou	aside	0	0	1	1
-priamym	direct	0	0	1	0
+príchode	arrival	0	0	1	0
 značí	means	0	0	1	0
 značí	purports	0	0	1	0
 značí	mean	0	0	1	0
@@ -5151,7 +5024,6 @@ doktor	d	1	0	1	0
 doktor	doctor	1	1	1	1
 umožnilo	allowed	0	0	1	0
 umožnili	allow	0	0	1	0
-umožnili	allowed	0	0	1	0
 delenie	division	0	0	1	1
 delenia	divisions	0	0	1	0
 delenia	division	0	0	1	0
@@ -5169,13 +5041,12 @@ alela	allelomorph	1	0	1	0
 alela	created	1	0	1	0
 alela	are constructed	1	0	1	0
 alela	are	1	0	1	0
-nástupom	arrival	0	0	1	0
 nástupom	onset	0	0	1	0
+nástupom	arrival	0	0	1	0
 metódy	methods	0	0	1	0
 dobytí	conquest	0	0	1	0
 orava	orava	0	0	1	0
 rastlinných	plant	0	0	1	0
-aktivít	active	0	0	1	0
 aktivít	activities	0	0	1	0
 samuel	samuel	0	0	1	0
 populárna	popular	0	0	1	0
@@ -5214,18 +5085,17 @@ zrušenie	cancellation	0	0	1	1
 sport	sport	0	0	1	0
 protiútok	counterattack	0	0	1	1
 objektom	object	0	0	1	0
-vojny	war	0	0	1	0
 vojny	wars	0	0	1	0
+vojny	war	0	0	1	0
 vojnu	war	0	0	1	0
 hráča	player	0	0	1	0
 väzbou	bond	0	0	1	0
 existovať	be '	0	0	1	0
 existovať	be	0	0	1	1
-existovať	exist	0	0	1	1
 vojne	war	0	0	1	0
 hráči	players	0	0	1	0
-objektov	objects	0	0	1	0
 objektov	object	0	0	1	0
+objektov	objects	0	0	1	0
 vojna	war	0	0	1	1
 filozofických	philosophical	0	0	1	0
 infekčné	infectious	0	0	1	0
@@ -5248,12 +5118,10 @@ medzinárodné	internationally	0	0	1	0
 mona	mona	0	0	1	0
 druhom	second	0	0	1	0
 prúdy	prudy	0	0	1	0
-prúdy	streams	0	0	1	0
 prúdy	currents	0	0	1	0
 povstalecké	rebel	0	0	1	0
 medzinárodná	international	0	0	1	0
 druhov	types	0	0	1	0
-medzinárodný	multinational	0	0	1	0
 medzinárodný	international	0	0	1	1
 druhou	second	0	0	1	0
 druhou	other	0	0	1	0
@@ -5294,6 +5162,7 @@ povstanie	uprising	0	0	1	1
 obrazovke	screen	0	0	1	0
 elvis	elvis	0	0	1	0
 merkúra	mercury	0	0	1	0
+južnom	south	0	0	1	0
 drum	drum	0	0	1	0
 akcií	share	0	0	1	0
 akcií	actions	0	0	1	0
@@ -5334,7 +5203,7 @@ nastávajú	occur	0	0	1	0
 nastávajú	sets	0	0	1	0
 čechy	bohemia	1	1	1	0
 čechy	cecchi	1	0	1	0
-čechy	czech republic	1	1	1	0
+čechy	czech republic	1	1	0	0
 čechy	guilds	1	0	1	0
 čechy	standard	1	0	1	0
 neraz	often	0	0	1	0
@@ -5399,7 +5268,6 @@ zvyknú	get used	0	0	1	0
 cez	through	0	0	1	1
 cez	by	0	0	1	1
 určené	intended	0	0	1	0
-určené	the key applications targeted	0	0	1	0
 určené	for	0	0	1	0
 určená	determined	0	0	1	0
 výpočty	computation	0	0	1	0
@@ -5423,18 +5291,14 @@ pravoslávnej	orthodox	0	0	1	0
 spojiť	link	0	0	1	0
 spojiť	join	0	0	1	1
 sporné	questionable	0	0	1	0
-sporné	contentious	0	0	1	0
 vrchov	hills	0	0	1	0
 štáte	country	0	0	1	0
 štáte	state	0	0	1	0
-štáte	rights	0	0	1	0
-očí	oci	0	0	1	0
 očí	eyes	0	0	1	0
 očí	eye	0	0	1	0
 velil	commanded	0	0	1	0
 velil	commanding	0	0	1	0
 cestách	roads	0	0	1	0
-cestách	routes	0	0	1	0
 štáty	states	0	0	1	0
 t	t	0	0	1	0
 štátu	state	0	0	1	0
@@ -5451,7 +5315,7 @@ posledné	the last	0	0	1	0
 klímy	climate	0	0	1	0
 klímy	change	0	0	1	0
 vzadu	behind	0	0	1	1
-vzadu	at the back	0	0	1	1
+vzadu	at the back	0	0	1	0
 vzadu	back	0	0	1	1
 kubizmus	cubism	0	0	1	1
 zvykne	tends to	0	0	1	0
@@ -5470,8 +5334,6 @@ priestoroch	premises	0	0	1	0
 priestoroch	spaces	0	0	1	0
 sčítania	census	0	0	1	0
 rastú	growth	0	0	1	0
-manželky	wives	0	0	1	0
-manželky	wife	0	0	1	0
 žiadal	asked	0	0	1	0
 žiadal	requesting	0	0	1	0
 vystupujú	acts	0	0	1	0
@@ -5481,7 +5343,6 @@ central	cental	0	0	1	0
 príslušnosť	affiliation	0	0	1	0
 príslušnosť	competence	0	0	1	1
 panne	virgin	0	0	1	0
-panne	panne	0	0	1	0
 panna	virgin	0	0	1	1
 panna	panna	0	0	1	0
 dôkazom	the evidence of	0	0	1	0
@@ -5489,7 +5350,8 @@ dôkazom	evidence	0	0	1	0
 pracovných	work	0	0	1	0
 pracovných	office	0	0	1	0
 chov	breeding	0	0	1	0
-prednej	front	0	0	1	0
+panny	virgins	0	0	1	0
+panny	panny	0	0	1	0
 pieta	piety	0	0	1	0
 nechal	had left	0	0	1	0
 nechal	had	0	0	1	0
@@ -5499,12 +5361,10 @@ filozofie	philosophy	0	0	1	0
 verili	believed	0	0	1	0
 filozofii	philosophy	0	0	1	0
 zodpovednosti	liability	0	0	1	0
-zodpovednosti	responsibility	0	0	1	0
 verziách	version	0	0	1	0
 verziách	versions	0	0	1	0
 vykonávanie	implementation	0	0	1	0
 vykonávanie	execution	0	0	1	0
-vykonávanie	pursuance	0	0	1	0
 filozofiu	philosophy	0	0	1	0
 pedológia	pedology	1	1	0	0
 your	your	0	0	1	0
@@ -5538,7 +5398,6 @@ dejín	history	0	0	1	0
 spojil	combined	0	0	1	0
 manželka	wife	0	0	1	1
 prichádza	comes	0	0	1	0
-prichádza	comes from	0	0	1	0
 napokon	ultimately	0	0	1	1
 kríža	crisis	0	0	1	0
 kríža	cross	0	0	1	0
@@ -5561,7 +5420,8 @@ najznámejší	famous	0	0	1	0
 najznámejší	guns	0	0	1	0
 najznámejší	most famous	0	0	1	0
 približne	approximately	0	0	1	1
-ktorou	which	0	0	1	0
+starí	old	0	0	1	0
+starí	age of the	0	0	1	0
 staré	old	0	0	1	0
 európou	europe	0	0	1	0
 európou	europa	0	0	1	0
@@ -5600,7 +5460,7 @@ myšlienky	thoughts	0	0	1	0
 myšlienku	the idea	0	0	1	0
 myšlienku	idea	0	0	1	0
 letiská	airports	0	0	1	0
-koľko	how much	0	0	1	1
+koľko	how much	0	0	1	0
 koľko	how many	0	0	1	0
 reči	speech	0	0	1	0
 reči	talk	0	0	1	1
@@ -5609,12 +5469,11 @@ myšlienka	idea	0	0	1	1
 patrilo	included	0	0	1	0
 patrilo	belonged	0	0	1	0
 patrilo	belongs	0	0	1	0
-vopred	in advance	0	0	1	1
+vopred	in advance	0	0	1	0
 patrili	belong	0	0	1	0
 patrili	were	0	0	1	0
 patrila	included	0	0	1	0
 terapia	therapy	0	0	1	1
-terapia	theraphy	0	0	1	0
 mystika	mysticism	1	1	0	0
 mystika	coffee	1	0	1	0
 mystika	mystique	1	0	1	0
@@ -5694,6 +5553,7 @@ tlačiť	print	0	0	1	1
 tlačiť	push	0	0	1	1
 gitarista	guitar player	0	0	1	0
 gitarista	guitarist	0	0	1	0
+vzduchu	air	0	0	1	0
 produkty	product	0	0	1	0
 produkty	products	0	0	1	0
 životné	environment	0	0	1	0
@@ -5774,7 +5634,6 @@ výstavbe	construction	0	0	1	0
 základňa	base	0	0	1	1
 american	american	0	0	1	0
 výstavby	construction	0	0	1	0
-výstavby	constraction	0	0	1	0
 rozpade	the break	0	0	1	0
 rozpade	collapse	0	0	1	0
 výstavbu	construction	0	0	1	0
@@ -5784,7 +5643,6 @@ venovala	given	0	0	1	0
 svetovej	world	0	0	1	0
 súčasnú	current	0	0	1	0
 súčasnú	at the same time	0	0	1	0
-súčasnú	at a time	0	0	1	0
 polysacharid	subjects	1	0	1	0
 polysacharid	polysaccharide	1	1	0	0
 polysacharid	objects	1	0	1	0
@@ -5844,7 +5702,7 @@ náklady	costs by	0	0	1	0
 vajíčka	eggs	0	0	1	0
 polícia	police	0	0	1	1
 polície	police	0	0	1	0
-pomenovanie	name	0	0	1	1
+republikou	republic	0	0	1	0
 počesť	honour	0	0	1	0
 počesť	honor	0	0	1	0
 demokratickej	democratic	0	0	1	0
@@ -5971,8 +5829,8 @@ predchádza	preceded by	0	0	1	0
 predchádza	preceeds	0	0	1	0
 dubčeka	dubcek	0	0	1	0
 dubčeka	dubchek	0	0	1	0
-karl	carl	0	0	1	0
 karl	karl	0	0	1	0
+karl	carl	0	0	1	0
 mexiku	mexico	0	0	1	0
 vyjadril	said	0	0	1	0
 vyjadril	expressed	0	0	1	0
@@ -6011,7 +5869,6 @@ pustil	released	0	0	1	0
 pustil	got down to	0	0	1	0
 popularita	popularity	0	0	1	0
 rakúskouhorska	austria uhorska	0	0	1	0
-rakúskouhorska	austria-hungary	0	0	1	0
 popularite	popularity	0	0	1	0
 štvrtá	forth	0	0	1	0
 štvrtá	fourth	0	0	1	0
@@ -6046,9 +5903,7 @@ goniometrických	trigonometric	0	0	1	0
 finále	finale	0	0	1	1
 finále	final	0	0	1	1
 tranzistorov	transistors	0	0	1	0
-tranzistorov	transistor	0	0	1	0
 určite	certainly	0	0	1	1
-objekty	object	0	0	1	0
 objekty	objects	0	0	1	0
 dekrét	decree	0	0	1	1
 žiadna	no	0	0	1	0
@@ -6059,9 +5914,9 @@ nájdeme	we find	0	0	1	0
 px|n	px/n	0	0	1	0
 predsiene	atrium	0	0	1	0
 zélandu	zealand	0	0	1	0
-uvádzajú	show	0	0	1	0
-uvádzajú	are presented	0	0	1	0
 uvádzajú	out	0	0	1	0
+uvádzajú	are presented	0	0	1	0
+uvádzajú	show	0	0	1	0
 x	x	0	0	1	0
 px|s	pxs	0	0	1	0
 px|s	px / s	0	0	1	0
@@ -6087,7 +5942,6 @@ najneskôr	at last	0	0	1	0
 najneskôr	later	0	0	1	0
 určitý	certain	0	0	1	1
 určitý	some	0	0	1	0
-určitý	a certain	0	0	1	0
 dôležitým	important	0	0	1	0
 určitú	some	0	0	1	0
 určitú	cartain	0	0	1	0
@@ -6135,14 +5989,12 @@ rudy	ore	0	0	1	0
 napr	for example	0	0	1	0
 napr	as	0	0	1	0
 nemeckého	german	0	0	1	0
-existenciu	the existence	0	0	1	0
 existenciu	there	0	0	1	0
 počítačov	computers	0	0	1	0
 charakteristickým	characteristic	0	0	1	0
 charakteristickým	the characteristic	0	0	1	0
 počítačom	computer	0	0	1	0
 spoločnej	common	0	0	1	0
-prijala	accepted	0	0	1	0
 prijala	adopted	0	0	1	0
 existencii	existence	0	0	1	0
 existencii	axistencii	0	0	1	0
@@ -6152,7 +6004,6 @@ prijali	accepted	0	0	1	0
 prijali	take	0	0	1	0
 dame	dame cathedral	0	0	1	0
 riešení	solution	0	0	1	0
-latinčiny	latinciny	0	0	1	0
 latinčiny	latin	0	0	1	0
 číslami	part numbers	0	0	1	0
 číslami	numbers	0	0	1	0
@@ -6164,8 +6015,8 @@ ropy	oil	0	0	1	0
 architektúrou	architecture	0	0	1	0
 ropa	oil	0	0	1	1
 kniežatstvo	principality	0	0	1	1
-tradícií	traditions	0	0	1	0
 tradícií	tradition	0	0	1	0
+tradícií	traditions	0	0	1	0
 tlak	pressure	0	0	1	1
 tromi	three	0	0	1	0
 podnik	company	0	0	1	0
@@ -6188,9 +6039,8 @@ grand	grand	0	0	1	0
 úzky	narrow	0	0	1	1
 pochádzal	came	0	0	1	0
 inému	other	0	0	1	0
-nasledujú	followed by	0	0	1	0
-nasledujú	followed	0	0	1	0
-nasledujú	then followed	0	0	1	0
+odtiaľ	from there	0	0	1	0
+odtiaľ	thence	0	0	1	1
 rozloženie	distribution	0	0	1	0
 potrebujú	need	0	0	1	0
 potrebujú	i need	0	0	1	0
@@ -6228,8 +6078,8 @@ vznikali	emerged	0	0	1	0
 vznikali	created	0	0	1	0
 systému	of	0	0	1	0
 systému	system	0	0	1	0
-tvorí	forms	0	0	1	0
-tvorí	form	0	0	1	0
+systémy	system	0	0	1	0
+systémy	systems	0	0	1	0
 estónska	estonian	0	0	1	0
 estónska	estonia	0	0	1	0
 odboja	resistance	0	0	1	0
@@ -6244,7 +6094,7 @@ marci	march	0	0	1	0
 marci	the march	0	0	1	0
 domácnosti	households	0	0	1	0
 domácnosti	home	0	0	1	0
-organizmus	organism	0	0	1	1
+marca	march	0	0	1	0
 existujúce	existing	0	0	1	0
 vírusu	virus	0	0	1	0
 bankoviek	notes	0	0	1	0
@@ -6278,7 +6128,6 @@ múzeí	museums	0	0	1	0
 vážený	weighted	0	0	1	0
 zlomu	break	0	0	1	0
 postupy	procedures	0	0	1	0
-postupy	methods	0	0	1	0
 topenia	melting	0	0	1	0
 týka	relates	0	0	1	0
 týka	the	0	0	1	0
@@ -6318,14 +6167,11 @@ výskytu	occurrence	0	0	1	0
 východného	east	0	0	1	0
 východného	of eastern	0	0	1	0
 zvuku	sound	0	0	1	0
-alexandrov	alexandar	0	0	1	0
-alexandrov	alexandrov	0	0	1	0
 alexandrov	alexander's	0	0	1	0
 nezamestnanosti	unemployment	0	0	1	0
 prejavuje	shows	0	0	1	0
 ovládal	control	0	0	1	0
 ovládal	dominated	0	0	1	0
-ovládal	control pc	0	0	1	0
 vzdialených	remote	0	0	1	0
 vzdialených	distant	0	0	1	0
 tvorené	formed	0	0	1	0
@@ -6387,7 +6233,6 @@ vyvolať	cause	0	0	1	0
 vyvolať	raise	0	0	1	1
 manhattan	manhattan	0	0	1	0
 okolím	environment	0	0	1	0
-okolím	surroundings	0	0	1	0
 okolím	their surroundings	0	0	1	0
 začiatok	inception	0	0	1	0
 začiatok	top	0	0	1	1
@@ -6397,7 +6242,6 @@ pôvod	origin	0	0	1	1
 pôvod	flood	0	0	1	0
 lietadlá	aircraft	0	0	1	0
 formát	format	0	0	1	0
-cievy	blood vessels	0	0	1	0
 cievy	vessels	0	0	1	0
 hustoty	density	0	0	1	0
 william	william	0	0	1	0
@@ -6440,12 +6284,12 @@ gr	gr	0	0	1	0
 zložka	component	0	0	1	1
 operačných	of operating	0	0	1	0
 operačných	operating	0	0	1	0
-žľaza	gland	0	0	1	1
-význame	awarded	0	0	1	0
+najstarších	oldest	0	0	1	0
+najstarších	the oldest	0	0	1	0
 význame	significance	0	0	1	0
+význame	awarded	0	0	1	0
 ga	ga	0	0	1	0
 študijných	study	0	0	1	0
-lineárne	linear	0	0	1	0
 lineárne	linearly	0	0	1	0
 mytológie	mythology	0	0	1	0
 mytológia	mythology	0	0	1	1
@@ -6474,7 +6318,7 @@ celé	all	0	0	1	0
 zosilňovač	amplifier	0	0	1	1
 vonkajšie	its external	0	0	1	0
 vonkajšie	external	0	0	1	0
-mnohokrát	many times	0	0	1	1
+mnohokrát	many times	0	0	1	0
 vladislav	vladislav	0	0	1	0
 stavu	state	0	0	1	0
 celá	cell	0	0	1	0
@@ -6486,7 +6330,6 @@ získavajú	obtain	0	0	1	0
 získavajú	gain	0	0	1	0
 mestského	city	0	0	1	0
 mestského	city's	0	0	1	0
-mestského	urban	0	0	1	0
 ukončiť	close	0	0	1	1
 ukončiť	exit	0	0	1	1
 ukončiť	stop	0	0	1	0
@@ -6521,7 +6364,6 @@ hlavných	main	0	0	1	0
 experiment	experiment	0	0	1	0
 valec	cylinder	0	0	1	1
 rokovaní	talks	0	0	1	0
-rokovaní	negotiations	0	0	1	0
 socializmu	socialism	0	0	1	0
 dióda	diode	0	0	1	1
 záznamu	record	0	0	1	0
@@ -6533,7 +6375,6 @@ rovnováhe	balance	0	0	1	0
 zobrazovanie	imagery	0	0	1	0
 zobrazovanie	display	0	0	1	0
 referencie	references	0	0	1	0
-referencie	reference	0	0	1	0
 technológie	technologies	0	0	1	0
 technológie	technology	0	0	1	0
 taliansko	italy	0	0	1	1
@@ -6556,7 +6397,8 @@ prístroj	unit	0	0	1	1
 taliansky	italian	0	0	1	1
 rovnováhy	balance	0	0	1	0
 rovnováhy	equilibrium	0	0	1	0
-direktórium	directory	0	0	1	0
+ponúka	offers	0	0	1	0
+ponúka	offer	0	0	1	0
 štátneho	state	0	0	1	0
 štátneho	vigorous	0	0	1	0
 výrobe	produced	0	0	1	0
@@ -6565,7 +6407,6 @@ zväčšuje	increases	0	0	1	0
 leopold	leopold	0	0	1	0
 robotníkov	workers	0	0	1	0
 telesná	physical	0	0	1	0
-vlastného	own	0	0	1	0
 príslušné	respectively	0	0	1	0
 príslušné	respective	0	0	1	0
 príslušné	appropriate	0	0	1	0
@@ -6654,14 +6495,12 @@ kazachstan	kazakhstan	0	0	1	0
 kazachstan	kazachstan	0	0	1	0
 pochybnosti	doubt	0	0	1	0
 pochybnosti	doubts	0	0	1	0
-štýl	atrium	0	0	1	0
 štýl	style	0	0	1	1
 tuku	fat	0	0	1	0
 objavovať	discover	0	0	1	0
 objavovať	arise	0	0	1	0
 záliv	gulf	0	0	1	1
 záliv	bay	0	0	1	1
-kategóriapolitici	category: politicians (two words)	0	0	1	0
 kategóriapolitici	category:politicians	0	0	1	0
 kategóriapolitici	category politicians	0	0	1	0
 hral	played	0	0	1	0
@@ -6682,8 +6521,8 @@ odpadu	waste	0	0	1	0
 anglická	england	0	0	1	0
 anglická	english	0	0	1	0
 skutočnosť	fact	0	0	1	1
-fatry	fatra	0	0	1	0
 fatry	fatry	0	0	1	0
+fatry	fatra	0	0	1	0
 dvadsiateho	twentieth	0	0	1	0
 postupným	gradual	0	0	1	0
 postupným	by successive	0	0	1	0
@@ -6795,8 +6634,8 @@ danom	given	0	0	1	0
 danom	that	0	0	1	0
 ½	1/2	0	0	1	0
 hospodárskych	economic	0	0	1	0
-trón	throne	0	0	1	1
-trón	tron	0	0	1	0
+klasický	classically	0	0	1	0
+klasický	classic	0	0	1	1
 listy	leaves	0	0	1	0
 nížina	lowlands	0	0	1	0
 nížina	lowland	0	0	1	1
@@ -6851,7 +6690,6 @@ komunizmu	communism	0	0	1	0
 znázorňuje	shows the	0	0	1	0
 znázorňuje	shows	0	0	1	0
 celým	his whole	0	0	1	0
-celým	all	0	0	1	0
 celým	whole	0	0	1	0
 stavia	to build	0	0	1	0
 stavia	builds	0	0	1	0
@@ -6876,7 +6714,6 @@ klimatických	climate	0	0	1	0
 mesiacom	month	0	0	1	0
 malom	small	0	0	1	0
 rozvoja	development	0	0	1	0
-rozvoja	advancement	0	0	1	0
 husák	husak	0	0	1	0
 navrhnuté	designed	0	0	1	0
 pokúša	tries	0	0	1	0
@@ -6918,7 +6755,7 @@ vlastnosti	properties	0	0	1	0
 centrom	center	0	0	1	0
 využívali	used	0	0	1	0
 vzájomne	reciprocally	0	0	1	0
-vzájomne	each other	0	0	1	1
+vzájomne	each other	0	0	1	0
 navštívil	visited	0	0	1	0
 navštívil	visited the	0	0	1	0
 tunel	tunnel	0	0	1	1
@@ -7022,7 +6859,6 @@ metalových	metal	0	0	1	0
 cene	price	0	0	1	0
 veliteľ	commander	0	0	1	1
 vedecký	scientifically	0	0	1	0
-vedecký	scientific	0	0	1	1
 súradnice	coordinates	0	0	1	1
 vinci	vinci	0	0	1	0
 zameranie	aim	0	0	1	0
@@ -7072,6 +6908,8 @@ keď	when	0	0	1	1
 bratislavského	the bratislava	0	0	1	0
 bratislavského	bratislava	0	0	1	0
 cítiť	feel	0	0	1	1
+nitra	inside	0	0	1	0
+nitra	nitra	0	0	1	0
 zmesou	mixture	0	0	1	0
 divadlo	theater	0	0	1	1
 viedenskom	vienna	0	0	1	0
@@ -7108,7 +6946,8 @@ sofia	sofia	0	0	1	0
 tatry	tatras	0	0	1	0
 tatry	tatry	0	0	1	0
 ktorí	who	0	0	1	0
-himmler	himmler	0	0	1	0
+vyjadrenie	expression	0	0	1	1
+vyjadrenie	statement	0	0	1	1
 mezopotámia	mesopotamia	0	0	1	0
 tatra	the tatra	0	0	1	0
 tatra	tatra	0	0	1	0
@@ -7120,7 +6959,6 @@ ktorú	that	0	0	1	0
 častice	particles	0	0	1	0
 mezopotámii	mesopotamia	0	0	1	0
 zásade	meets	0	0	1	0
-zásade	basically	0	0	1	0
 zásade	in principle	0	0	1	0
 ktorý	who	0	0	1	1
 ktorý	which	0	0	1	1
@@ -7146,9 +6984,7 @@ móde	fashion	0	0	1	0
 móde	mode	0	0	1	0
 vtákov	birds	0	0	1	0
 okraj	edge	0	0	1	1
-móda	moda	0	0	1	0
 móda	style	0	0	1	1
-móda	fashion	0	0	1	1
 ostalo	remained	0	0	1	0
 nemeckých	german	0	0	1	0
 vzdelávania	education	0	0	1	0
@@ -7162,7 +6998,6 @@ módu	fashion	0	0	1	0
 módu	mode	0	0	1	0
 historik	historian	0	0	1	1
 hodnota	value	1	1	1	1
-kyslíkom	oxygene	0	0	1	0
 kyslíkom	oxygen	0	0	1	0
 hodnote	value	0	0	1	0
 eric	eric	0	0	1	0
@@ -7188,7 +7023,7 @@ mestský	urban	0	0	1	1
 mestský	bourgeois	0	0	1	0
 gravitačnom	gravitational	0	0	1	0
 vybavené	equipped	0	0	1	0
-občas	from time to time	0	0	1	1
+občas	from time to time	0	0	1	0
 občas	sometimes	0	0	1	1
 home	home	0	0	1	0
 oblastiach	areas	0	0	1	0
@@ -7279,7 +7114,6 @@ zaviedla	established	0	0	1	0
 zaviedla	introduced	0	0	1	0
 zaviedli	established	0	0	1	0
 zaviedli	introduced	0	0	1	0
-zaviedli	installed	0	0	1	0
 nástup	get	0	0	1	0
 priviesť	bring	0	0	1	1
 ho	him	0	0	1	0
@@ -7309,7 +7143,8 @@ emisií	issue	0	0	1	0
 sovietskej	soviet	0	0	1	0
 tepelne	heat	0	0	1	0
 duchovnej	spiritual	0	0	1	0
-podujatia	events	0	0	1	0
+etapy	stages	0	0	1	0
+etapy	stage	0	0	1	0
 zameriava	focus	0	0	1	0
 zameriava	aimed at	0	0	1	0
 úspešný	successful	0	0	1	1
@@ -7360,7 +7195,7 @@ skutočnosti	indeed	0	0	1	0
 skutočnosti	fact	0	0	1	0
 protest	protest	0	0	1	1
 samica	female	0	0	1	1
-tvorený	formed	0	0	1	0
+podporovali	support	0	0	1	0
 každé	every	0	0	1	0
 každé	each	0	0	1	0
 schopnosť	ability	0	0	1	1
@@ -7405,7 +7240,6 @@ správe	report	0	0	1	0
 správa	management	0	0	1	1
 správa	from the right	0	0	1	0
 konania	proceedings	0	0	1	0
-konania	actions	0	0	1	0
 ďalšiemu	further	0	0	1	0
 ďalšiemu	the next one	0	0	1	0
 ďalšiemu	next	0	0	1	0
@@ -7440,7 +7274,6 @@ príbuzných	relatives	0	0	1	0
 new	new	0	0	1	0
 odlišuje	different	0	0	1	0
 potoka	brook	0	0	1	0
-potoka	creek	0	0	1	0
 kovu	metal	0	0	1	0
 voľného	free	0	0	1	0
 pevný	inch hard	0	0	1	0
@@ -7474,10 +7307,9 @@ jasnosť	clarity	0	0	1	1
 významnými	significant	0	0	1	0
 county	county	0	0	1	0
 logiky	logic	0	0	1	0
-grafická	grafic	0	0	1	0
 grafická	graphic card	0	0	1	0
 grafická	graphiccard	0	0	1	0
-plaváreň	swimming pool	0	0	1	1
+plaváreň	swimming pool	0	0	1	0
 plaváreň	pool	0	0	1	0
 reakcií	reactions	0	0	1	0
 reakcií	response	0	0	1	0
@@ -7506,7 +7338,8 @@ byzantského	byzantine	0	0	1	0
 nepriateľa	enemy	0	0	1	0
 rómov	roms	0	0	1	0
 krízy	crisis	0	0	1	0
-ochorení	diseases	0	0	1	0
+jedno	all the same	0	0	1	0
+jedno	one	0	0	1	0
 ponuku	offer	0	0	1	0
 náboženstva	religions	0	0	1	0
 náboženstva	religion	0	0	1	0
@@ -7540,9 +7373,9 @@ európsky	europsky	0	0	1	0
 európsky	european	0	0	1	0
 hliny	clay	0	0	1	0
 európske	european	0	0	1	0
-karola	karol	0	0	1	0
-karola	charles	0	0	1	0
 karola	carola	0	0	1	0
+karola	charles	0	0	1	0
+karola	karol	0	0	1	0
 európska	european	0	0	1	0
 vnútornú	internal	0	0	1	0
 vnútornú	are inter	0	0	1	0
@@ -7643,7 +7476,6 @@ slávy	fame	0	0	1	0
 národné	national	0	0	1	0
 národné	people	0	0	1	0
 produktom	product	0	0	1	0
-slnečného	sunny	0	0	1	0
 slnečného	solar	0	0	1	0
 kyslík	oxygen	0	0	1	1
 aký	what	0	0	1	1
@@ -7651,14 +7483,12 @@ ekonomického	economic	0	0	1	0
 metán	methane	0	0	1	1
 hospodárskeho	economic	0	0	1	0
 rodičov	parents	0	0	1	0
-prešove	presov	0	0	1	0
 prešove	prešov	0	0	1	0
 vzdialenosť	distance	0	0	1	1
 bond	bond	0	0	1	0
 takéhoto	such	0	0	1	0
 dopravné	congested traffic	0	0	1	0
 dopravné	freight	0	0	1	1
-dopravné	transport	0	0	1	0
 liga	league	0	0	1	1
 liga	keague	0	0	1	0
 utc+	utc	0	0	1	0
@@ -7677,7 +7507,6 @@ profesora	proffesor	0	0	1	0
 zlato	gold	0	0	1	1
 počtom	sum	0	0	1	0
 počtom	number of	0	0	1	0
-operačný	operation	0	0	1	0
 operačný	operating	0	0	1	1
 gradient	gradient	0	0	1	0
 niektorými	some	0	0	1	0
@@ -7688,8 +7517,7 @@ operačné	operating	0	0	1	0
 operačné	operationally	0	0	1	0
 satana	satan	0	0	1	0
 založiť	found	0	0	1	1
-založiť	establish	0	0	1	1
-založiť	set up	0	0	1	1
+založiť	set up	0	0	1	0
 umiestnenie	location	0	0	1	1
 ulíc	street	0	0	1	0
 ulíc	streets	0	0	1	0
@@ -7738,8 +7566,7 @@ ostatnými	other	0	0	1	0
 ostatnými	others	0	0	1	0
 protestantské	protestant	0	0	1	0
 zdanlivo	seemingly	0	0	1	1
-kritika	criticism	0	0	1	1
-kritika	critic	0	0	1	0
+prejavom	expression	0	0	1	0
 odolné	resistant	0	0	1	0
 odolné	hardily	0	0	1	0
 mužského	men's	0	0	1	0
@@ -7841,6 +7668,7 @@ kontinentálne	continental	0	0	1	0
 poslednú	last	0	0	1	0
 poslednú	final	0	0	1	0
 chuť	taste	0	0	1	1
+pevnosti	strength	0	0	1	0
 výrobných	production	0	0	1	0
 výrobných	productive	0	0	1	0
 útok	attack	0	0	1	1
@@ -7866,7 +7694,6 @@ stred	center	0	0	1	1
 išlo	was	0	0	1	0
 úloh	tasks	0	0	1	0
 úloh	task	0	0	1	0
-kategóriaosobnosti	category	0	0	1	0
 kategóriaosobnosti	category: personalities	0	0	1	0
 kategóriaosobnosti	kategoriaosobnosti	0	0	1	0
 preto	so	0	0	1	1
@@ -7891,7 +7718,6 @@ posledným	last	0	0	1	0
 posledným	the latest	0	0	1	0
 oceánu	ocean	0	0	1	0
 cestoval	traveled	0	0	1	0
-plášťa	housing	0	0	1	0
 plášťa	plastic	0	0	1	0
 oceáne	oceane	0	0	1	0
 oceáne	ocean	0	0	1	0
@@ -7912,8 +7738,8 @@ pridávajú	added	0	0	1	0
 pridávajú	adding to	0	0	1	0
 proteíny	protein	0	0	1	0
 proteíny	proteins	0	0	1	0
-systémy	systems	0	0	1	0
-systémy	system	0	0	1	0
+tvorí	forms	0	0	1	0
+tvorí	form	0	0	1	0
 živočíšne	animal	0	0	1	0
 dopravných	transport	0	0	1	0
 povedomia	awareness	0	0	1	0
@@ -7923,7 +7749,6 @@ umiestnený	located	0	0	1	0
 pokrývajú	will cover the	0	0	1	0
 pokrývajú	cover	0	0	1	0
 loptička	ball	0	0	1	1
-systéme	system	0	0	1	0
 systéme	systems	0	0	1	0
 fotografie	photo	0	0	1	0
 umiestnené	placed	0	0	1	0
@@ -7948,7 +7773,6 @@ ix	ix	0	0	1	0
 zachytávajú	capture	0	0	1	0
 členov	members	0	0	1	0
 dobyť	captured	0	0	1	0
-ip	internet protocol	0	0	1	0
 ip	ip	0	0	1	0
 is	je	0	0	1	0
 is	is	0	0	1	0
@@ -7960,7 +7784,6 @@ dokument	document	0	0	1	1
 im	them	0	0	1	1
 im	they	0	0	1	0
 il	il	0	0	1	0
-io	i	0	0	1	0
 io	also	0	0	1	0
 io	io	0	0	1	0
 in	in	0	0	1	0
@@ -7972,7 +7795,6 @@ sever	north	0	0	1	1
 pohľade	looking	0	0	1	0
 radšej	rather	0	0	1	1
 armáde	army	0	0	1	0
-galaxií	galaxies	0	0	1	0
 galaxií	ureter	0	0	1	0
 galaxií	galaxy	0	0	1	0
 ®	r	0	0	1	0
@@ -7994,7 +7816,7 @@ pohľad	view	0	0	1	1
 mladších	younger	0	0	1	0
 najlepší	best	0	0	1	1
 vybudovaný	built	0	0	1	0
-marca	march	0	0	1	0
+organizmus	organism	0	0	1	1
 ovplyvnené	affected	0	0	1	0
 vybudovaná	built	0	0	1	0
 fotografií	photo	0	0	1	0
@@ -8004,7 +7826,7 @@ vybudované	constructed	0	0	1	0
 pápežovi	pope	0	0	1	0
 prehliadač	(web) browser	1	0	1	0
 prehliadač	browsers	1	0	1	0
-prehliadač	browser	1	1	1	0
+prehliadač	browser	1	1	0	0
 programu	the	0	0	1	0
 programu	program	0	0	1	0
 vrátili	returned	0	0	1	0
@@ -8041,12 +7863,10 @@ adresa	address	0	0	1	1
 friedrich	friedrich	0	0	1	0
 friedrich	frederich	0	0	1	0
 vyrobené	manufactured	0	0	1	0
-vyrobené	production	0	0	1	0
 adresy	addresses	0	0	1	0
 adresy	address	0	0	1	0
 adresu	address	0	0	1	0
 ozbrojené	armed	0	0	1	0
-obmedzený	restrictions	0	0	1	0
 obmedzený	limited	0	0	1	1
 pochovaný	buried	0	0	1	1
 situáciu	situation	0	0	1	0
@@ -8069,7 +7889,6 @@ situácii	situation	0	0	1	0
 situácii	situations	0	0	1	0
 teplo	heat	0	0	1	1
 obmedzená	limited	0	0	1	0
-prichádzali	coming	0	0	1	0
 prichádzali	coming in	0	0	1	0
 prísne	strictly	0	0	1	0
 kráľom	king	0	0	1	0
@@ -8077,7 +7896,7 @@ janka	janka	0	0	1	0
 kráľov	kingdom	0	0	1	0
 kráľov	kings	0	0	1	0
 dnešnej	today	0	0	1	0
-janko	janko	0	0	1	0
+protokol	protocol	0	0	1	1
 dostávajú	this reaches	0	0	1	0
 dostávajú	reaches	0	0	1	0
 dostávajú	get	0	0	1	0
@@ -8199,7 +8018,6 @@ obežných	obese	0	0	1	0
 kandidátov	candidates	0	0	1	0
 obetí	casualties	0	0	1	0
 obetí	victims	0	0	1	0
-obetí	victim	0	0	1	0
 pozemského	earth	0	0	1	0
 pozemského	earth's	0	0	1	0
 informáciu	information	0	0	1	0
@@ -8210,7 +8028,6 @@ hlavnú	main	0	0	1	0
 hlavný	main	0	0	1	1
 chorý	ill	0	0	1	1
 vista	vista	0	0	1	0
-hovorí	said	0	0	1	0
 hovorí	says	0	0	1	0
 historici	historians	0	0	1	0
 historici	history	0	0	1	0
@@ -8299,7 +8116,6 @@ operáciu	operation	0	0	1	0
 operáciu	surgery for	0	0	1	0
 spôsobil	caused	0	0	1	0
 spôsobil	causes receiving	0	0	1	0
-spôsobil	causes	0	0	1	0
 španielske	spanish	0	0	1	0
 katolícka	catholic	0	0	1	0
 prievidza	prievidza	0	0	1	0
@@ -8330,11 +8146,12 @@ international	international	0	0	1	0
 horninách	rocks of	0	0	1	0
 horninách	rocks	0	0	1	0
 metafyzika	metaphysics	0	0	1	1
-erb	coat of arms	0	0	1	1
+erb	coat of arms	0	0	1	0
 potrieb	needs	0	0	1	0
 súvisiacich	related	0	0	1	0
-henry	by henry	0	0	1	0
-henry	henry	0	0	1	0
+mr	m.r.	0	0	1	0
+mr	mr.	0	0	1	0
+mr	mr	0	0	1	0
 vonkajších	outer	0	0	1	0
 vonkajších	external	0	0	1	0
 biologických	biological	0	0	1	0
@@ -8394,7 +8211,7 @@ zemskej	earth's	0	0	1	0
 india	india	0	0	1	0
 stranami	parties	0	0	1	0
 prvkami	elements	0	0	1	0
-naposledy	last time	0	0	1	1
+naposledy	last time	0	0	1	0
 naposledy	last	0	0	1	1
 pobyt	stay	0	0	1	1
 otvorene	openly	0	0	1	1
@@ -8413,7 +8230,7 @@ agent	agent	0	0	1	1
 rímskokatolíckej	roman catholic	0	0	1	0
 súdnictvo	jurisdiction	0	0	1	1
 súdnictvo	judiciary	0	0	1	1
-prejde	passes	0	0	1	0
+svätého	holy	0	0	1	0
 pink	pink	0	0	1	0
 špeciálny	special	0	0	1	1
 nevie	can not	0	0	1	0
@@ -8449,7 +8266,6 @@ plyny	gases	0	0	1	0
 prejave	speech	0	0	1	0
 zložiek	components	0	0	1	0
 plynu	gas	0	0	1	0
-otvorené	openly	0	0	1	0
 otvorené	open	0	0	1	0
 q	quarter	0	0	1	0
 prejavy	manifestations	0	0	1	0
@@ -8466,12 +8282,12 @@ estery	esters	0	0	1	0
 obrana	defense	0	0	1	1
 obrana	defence	0	0	1	1
 záhrady	garden	0	0	1	0
-záhrady	gardens	0	0	1	0
 obrane	defense	0	0	1	0
 záhrade	garden	0	0	1	0
 obrany	defense	0	0	1	0
 záhrada	garden	0	0	1	1
-predsedníctvo	presidency	0	0	1	0
+hôr	choir	0	0	1	0
+hôr	mountains	0	0	1	0
 stabilitu	stability	0	0	1	0
 obranu	defense	0	0	1	0
 obranu	defence	0	0	1	0
@@ -8486,7 +8302,6 @@ najlepším	best	0	0	1	0
 zmysle	terms	0	0	1	0
 zmysle	sense	0	0	1	0
 zoznámil	met	0	0	1	0
-zoznámil	got to know	0	0	1	0
 spojenci	allies	0	0	1	0
 mail	mail	0	0	1	0
 zmyslu	sense	0	0	1	0
@@ -8498,11 +8313,11 @@ automobil	car	0	0	1	1
 vrchy	mountains	0	0	1	0
 zvolený	elected	0	0	1	0
 zvolený	selected	0	0	1	0
+silami	forces	0	0	1	0
 právomoci	powers	0	0	1	0
 výšky	up	0	0	1	0
 výšky	height	0	0	1	0
 mestskú	urban	0	0	1	0
-mestskú	municipal	0	0	1	0
 stredovekých	medieval	0	0	1	0
 výšku	height	0	0	1	0
 respektíve	respectively	0	0	1	0
@@ -8519,7 +8334,7 @@ výške	of	0	0	1	0
 výške	height	0	0	1	0
 vodou	water	0	0	1	0
 vodou	by water	0	0	1	0
-elektromotor	electric motor	0	0	1	1
+elektromotor	electric motor	0	0	1	0
 elektromotor	electromotor	0	0	1	0
 nižší	lower	0	0	1	1
 takto	so	0	0	1	1
@@ -8531,7 +8346,7 @@ podporovala	supported	0	0	1	0
 podporovalo	support	0	0	1	0
 podporovalo	supported	0	0	1	0
 čiernych	black	0	0	1	0
-podporovali	support	0	0	1	0
+tvorený	formed	0	0	1	0
 tvorená	formed	0	0	1	0
 rumunska	romania	0	0	1	0
 vlastnosťami	properties	0	0	1	0
@@ -8549,7 +8364,6 @@ levoči	levoca	0	0	1	0
 gott	gott	0	0	1	0
 podzemných	underground	0	0	1	0
 podzemných	groundwater	0	0	1	0
-dňom	day	0	0	1	0
 dňom	bottom	0	0	1	0
 časovom	time	0	0	1	0
 ladislava	ladislav	0	0	1	0
@@ -8575,6 +8389,9 @@ vyvinula	developed	0	0	1	0
 židovský	jewish	0	0	1	1
 ťažby	mining	0	0	1	0
 ťažby	harvesting	0	0	1	0
+vstupné	entry price	0	0	1	0
+vstupné	admission	0	0	1	1
+vstupné	ticket	0	0	1	0
 ťažbu	mining	0	0	1	0
 ťažbu	mining of	0	0	1	0
 spoločnosť	society	0	0	1	1
@@ -8624,8 +8441,8 @@ priateľom	friend	0	0	1	0
 obrovský	vastly	0	0	1	0
 obrovský	great	0	0	1	1
 obrovskú	huge	0	0	1	0
-obrovskú	great	0	0	1	0
 obrovskú	enormous	0	0	1	0
+obrovskú	great	0	0	1	0
 využitím	exploitation	0	0	1	0
 využitím	using of	0	0	1	0
 tri	three	0	0	1	1
@@ -8677,7 +8494,7 @@ susedí	adjacent	0	0	1	0
 lorenzo	lorenzo	0	0	1	0
 jaroslav	jaroslav	0	0	1	0
 čierne	black	0	0	1	0
-polomer	radius	0	0	1	1
+cestami	roads	0	0	1	0
 čierna	black	0	0	1	0
 lipidy	lipids	0	0	1	0
 skončili	ended	0	0	1	0
@@ -8689,8 +8506,6 @@ utc	utc	0	0	1	0
 pomník	memorial	0	0	1	1
 pomník	monument	0	0	1	1
 skončila	ended	0	0	1	0
-snemu	congress	0	0	1	0
-snemu	diet	0	0	1	0
 červené	red	0	0	1	0
 chemickej	chemical	0	0	1	0
 červená	red	0	0	1	0
@@ -8727,7 +8542,7 @@ niekoľko	couple	0	0	1	0
 niekoľko	several	0	0	1	1
 niekoľko	some	0	0	1	1
 inokedy	sometimes	0	0	1	0
-inokedy	another time	0	0	1	1
+inokedy	another time	0	0	1	0
 slávnostne	ceremony	0	0	1	0
 slávnostne	solemnly	0	0	1	0
 opustiť	leave	0	0	1	1
@@ -8745,8 +8560,8 @@ radi	like	0	0	1	0
 prírodnej	natural	0	0	1	0
 radu	series	0	0	1	0
 radu	council	0	0	1	0
-návrhov	of proposals	0	0	1	0
-návrhov	proposals	0	0	1	0
+snemu	congress	0	0	1	0
+snemu	diet	0	0	1	0
 geometria	geometry	0	0	1	1
 sútoku	confluence	0	0	1	0
 sútoku	junction	0	0	1	0
@@ -8770,8 +8585,6 @@ svetový	world	0	0	1	1
 zvýši	increase	0	0	1	0
 zvýši	increases	0	0	1	0
 je	is	0	0	1	0
-vozidlá	vehicles	0	0	1	0
-vozidlá	vehicle	0	0	1	0
 ktorým	which	0	0	1	0
 čajkovskij	tchaikovsky (composer)	0	0	1	0
 čajkovskij	tchaikovsky	0	0	1	0
@@ -8809,8 +8622,6 @@ samé	the same	0	0	1	0
 samé	same	0	0	1	0
 matičnej	motherboard	0	0	1	0
 matičnej	matrix	0	0	1	0
-dolná	lower	0	0	1	0
-dolná	bottom	0	0	1	0
 dolná	dolna	0	0	1	0
 napätia	tensions	0	0	1	0
 napätia	tension	0	0	1	0
@@ -8848,7 +8659,6 @@ dáva	gives	0	0	1	0
 bojové	martial	0	0	1	0
 bojové	combat	0	0	1	0
 trenčín	trencin	0	0	1	0
-spojený	connected	0	0	1	1
 čítanie	reading	0	0	1	1
 takúto	such	0	0	1	0
 takúto	takuto	0	0	1	0
@@ -8885,7 +8695,6 @@ priemyselné	industrially	0	0	1	0
 priemyselné	industrial	0	0	1	0
 meraní	measurements	0	0	1	0
 bielych	white	0	0	1	0
-ročník	vintage	0	0	1	1
 ročník	year	0	0	1	1
 kuby	cuba	0	0	1	0
 vytvorený	created	0	0	1	1
@@ -8975,7 +8784,7 @@ zbraň	weapon	0	0	1	1
 arabských	arab	0	0	1	0
 pioneer	pioneer	0	0	1	0
 apríli	april	0	0	1	0
-dávno	long ago	0	0	1	1
+dávno	long ago	0	0	1	0
 dávno	long	0	0	1	1
 apríla	april	0	0	1	0
 veľkými	large	0	0	1	0
@@ -8985,7 +8794,6 @@ obdobím	period	0	0	1	0
 operačným	operating	0	0	1	0
 akou	such	0	0	1	0
 chlorid	chloride	0	0	1	1
-liptovskom	liptovský	0	0	1	0
 liptovskom	liptov	0	0	1	0
 zlá	poor	0	0	1	0
 zlá	bad	0	0	1	0
@@ -9010,7 +8818,6 @@ spoločenská	social	0	0	1	0
 súkromných	private	0	0	1	0
 osobnej	personal	0	0	1	0
 sviatky	holidays	0	0	1	0
-sviatky	holydays	0	0	1	0
 auschwitz	auschwitz	0	0	1	0
 etnické	ethnic	0	0	1	0
 nebol	was not	0	0	1	0
@@ -9027,11 +8834,10 @@ ovplyvnený	influenced	0	0	1	0
 ovplyvnený	influenced by	0	0	1	0
 dokázal	managed to	0	0	1	0
 dokázal	could	0	0	1	0
-dokázal	managed	0	0	1	0
-toľko	so much	0	0	1	1
+toľko	so much	0	0	1	0
 toľko	much	0	0	1	0
-veľmoci	superpowers	0	0	1	0
 veľmoci	powers	0	0	1	0
+veľmoci	superpowers	0	0	1	0
 veľmoci	great powers	0	0	1	0
 federácia	federation	0	0	1	1
 federácie	federation	0	0	1	0
@@ -9051,16 +8857,15 @@ podať	give	0	0	1	1
 podať	file	0	0	1	1
 podať	hand	0	0	1	1
 zvukové	sound	0	0	1	0
-zvukové	audibly	0	0	1	0
 zvukové	audio	0	0	1	0
 redukcia	reduction	1	1	0	1
 redukcia	dinasty	1	0	1	0
 redukcia	dynasty	1	0	1	0
 seizmické	seismic	0	0	1	0
 aktívnych	active	0	0	1	0
-božie	gods	0	0	1	0
-božie	of god	0	0	1	0
 božie	god	0	0	1	0
+božie	of god	0	0	1	0
+božie	gods	0	0	1	0
 územím	territory	0	0	1	0
 územím	land	0	0	1	0
 bombardovanie	bombardment	0	0	1	1
@@ -9077,7 +8882,6 @@ deep	deep	0	0	1	0
 podobným	similar	0	0	1	0
 logo	logo	0	0	1	0
 bielkovín	protein	0	0	1	0
-bielkovín	proteins	0	0	1	0
 získalo	gained	0	0	1	0
 získalo	received	0	0	1	0
 získalo	was obtained	0	0	1	0
@@ -9105,12 +8909,9 @@ gluón	gluton	1	0	1	0
 európskou	european	0	0	1	0
 domácu	domestic	0	0	1	0
 domácu	homemade	0	0	1	0
-východná	east	0	0	1	0
 východná	vychodna	0	0	1	0
-východná	eastern	0	0	1	0
 štadióna	stadium	0	0	1	0
 biskup	bishop	0	0	1	1
-pól	pole	0	0	1	1
 pól	half	0	0	1	0
 štadióne	stadium	0	0	1	0
 východné	east	0	0	1	0
@@ -9167,11 +8968,9 @@ pieseň	song	0	0	1	1
 striedavo	alternately	0	0	1	1
 mierovej	peace	0	0	1	0
 predpokladá	assume	0	0	1	0
-predpokladá	assumes	0	0	1	0
 prach	dust	0	0	1	1
 deň	day	0	0	1	1
 budeme	we	0	0	1	0
-budeme	we will be	0	0	1	0
 tieňa	shadow	0	0	1	0
 zdrojom	source	0	0	1	0
 spolku	association	0	0	1	0
@@ -9180,8 +8979,7 @@ speváka	singer	0	0	1	0
 manažér	manager	0	0	1	0
 nevedel	did not know	0	0	1	0
 nevedel	did not	0	0	1	0
-najstarších	oldest	0	0	1	0
-najstarších	the oldest	0	0	1	0
+žľaza	gland	0	0	1	1
 kaukazu	caucasus	0	0	1	0
 objavil	discovered	0	0	1	0
 zdrojov	resources	0	0	1	0
@@ -9191,9 +8989,8 @@ elán	elan	0	0	1	0
 struny	strings	0	0	1	0
 každom	each	0	0	1	0
 mimoriadne	extremely	0	0	1	1
-najznámejších	best known	0	0	1	0
-najznámejších	the best known	0	0	1	0
 najznámejších	famous	0	0	1	0
+najznámejších	the best known	0	0	1	0
 spomínaných	mentioned	0	0	1	0
 abc	abc	0	0	1	0
 mikuláš	nicholas	0	0	1	0
@@ -9205,7 +9002,6 @@ potravou	food	0	0	1	0
 prác	work	0	0	1	0
 prác	working	0	0	1	0
 prác	works	0	0	1	0
-gi	of gi	0	0	1	0
 aby	to	0	0	1	0
 aby	that	0	0	1	1
 činu	offense	0	0	1	0
@@ -9293,7 +9089,6 @@ dei	dei	0	0	1	0
 dej	story	0	0	1	1
 decembri	december	0	0	1	0
 del	del	0	0	1	0
-obľúbeným	popular	0	0	1	0
 obľúbeným	favorited	0	0	1	0
 decembra	december	0	0	1	0
 ľudovú	folk	0	0	1	0
@@ -9363,7 +9158,6 @@ kolmo	upright	0	0	1	1
 pamäť	memory aid	0	0	1	0
 pamäť	memory	0	0	1	1
 divadelné	theatrical	0	0	1	0
-divadelné	theatrically	0	0	1	0
 divadelné	theater	0	0	1	0
 letnej	summer	0	0	1	0
 ideí	ideas	0	0	1	0
@@ -9403,7 +9197,6 @@ oko	eye	0	0	1	1
 priemysle	industry	0	0	1	0
 porte	port	0	0	1	0
 žili	lived	0	0	1	0
-znakmi	feature	0	0	1	0
 znakmi	characters	0	0	1	0
 priemyslu	industry	0	0	1	0
 skutočnosťou	fact	0	0	1	0
@@ -9430,7 +9223,6 @@ záujem	interested	0	0	1	0
 záujem	interest	0	0	1	1
 otvory	holes	0	0	1	0
 záver	end	0	0	1	1
-záver	conclusion	0	0	1	1
 princ	prince	0	0	1	1
 uhlia	coal	0	0	1	0
 uhlie	coal	0	0	1	1
@@ -9493,7 +9285,7 @@ vytváranie	formation	0	0	1	0
 dohodu	agreement	0	0	1	0
 odchode	departure	0	0	1	0
 odchode	leaving	0	0	1	0
-podľa	according to	0	0	1	1
+podľa	according to	0	0	1	0
 podľa	by	0	0	1	1
 kosť	bone	0	0	1	1
 kov	metal	0	0	1	1
@@ -9531,7 +9323,6 @@ zemiaky	potato	0	0	1	0
 vodca	leader	0	0	1	1
 koncentráciu	concentration	0	0	1	0
 niekoľkých	few	0	0	1	0
-niekoľkých	a few	0	0	1	0
 niekoľkých	several	0	0	1	0
 opisuje	describes	0	0	1	0
 ozónu	ozone	0	0	1	0
@@ -9675,7 +9466,7 @@ tempom	rate	0	0	1	0
 tempom	tempo	0	0	1	0
 prebiehal	was conducted	0	0	1	0
 prebiehal	ran over	0	0	1	0
-ročne	per annum	0	0	1	1
+ročne	per annum	0	0	1	0
 ročne	annual	0	0	1	0
 zahraničí	abroad	0	0	1	0
 sklony	inclinations	0	0	1	0
@@ -9715,13 +9506,13 @@ raj	heaven	1	1	0	0
 raj	eden	1	1	0	1
 raj	paradise	1	1	0	1
 starých	old	0	0	1	0
-prostredníctvom	through	0	0	1	1
 prostredníctvom	by	0	0	1	1
 talianska	tallinn	0	0	1	0
 talianska	italy (country)	0	0	1	0
 talianska	italian	0	0	1	0
-stupni	degree	0	0	1	0
-navyše	in addition	0	0	1	1
+suché	dry	0	0	1	0
+suché	search	0	0	1	0
+navyše	in addition	0	0	1	0
 navyše	moreover	0	0	1	0
 väzba	conscious	0	0	1	0
 väzba	binding	0	0	1	1
@@ -9740,8 +9531,6 @@ väzbu	link	0	0	1	0
 vládu	government	0	0	1	0
 obnovenie	restoration	0	0	1	1
 menej	less	0	0	1	1
-štátnym	state	0	0	1	0
-štátnym	a hefty	0	0	1	0
 naznačuje	suggests	0	0	1	0
 jednoznačne	unambiguously	0	0	1	0
 jednoznačne	clearly	0	0	1	0
@@ -9759,14 +9548,11 @@ pomalky	pomalky	1	0	1	0
 geológia	geology	0	0	1	1
 súvisiace	related	0	0	1	0
 dark	dark	0	0	1	0
-cirkevná	cirkevna	0	0	1	0
 cirkevná	ecclesiastical	0	0	1	0
 zmeniť	change	0	0	1	1
 cirkevné	ecclesiastically	0	0	1	0
 cirkevné	church	0	0	1	0
 nasledujúceho	following	0	0	1	0
-nízkej	a low	0	0	1	0
-nízkej	low	0	0	1	0
 málo	little	0	0	1	1
 málo	it	0	0	1	0
 málo	a little	0	0	1	0
@@ -9783,8 +9569,6 @@ iniciály	initials	0	0	1	0
 vybrané	selected	0	0	1	0
 vybrané	the selected	0	0	1	0
 gréckom	greek	0	0	1	0
-ponúka	offers	0	0	1	0
-ponúka	offer	0	0	1	0
 tych	-ties	0	0	1	0
 tych	ties	0	0	1	0
 gravitácia	gravitation	0	0	1	1
@@ -9824,7 +9608,6 @@ vzácne	rare	0	0	1	0
 veľké	large	0	0	1	0
 výsledkov	results	0	0	1	0
 fyzikálna	physicality	0	0	1	0
-fyzikálna	fyzikalna	0	0	1	0
 fyzikálna	physical	0	0	1	0
 vojnových	war	0	0	1	0
 jadro	core	0	0	1	1
@@ -9832,7 +9615,8 @@ urobili	did	0	0	1	0
 umelecký	artistic	0	0	1	1
 umelecký	artistically	0	0	1	0
 jadre	core	0	0	1	0
-urobila	did	0	0	1	0
+disku	disk	0	0	1	0
+disku	drive	0	0	1	0
 skutočne	indeed	0	0	1	1
 jadra	kernel	0	0	1	0
 jadra	cores	0	0	1	0
@@ -9853,13 +9637,13 @@ maďarských	of hungarian	0	0	1	0
 maďarských	hungarian	0	0	1	0
 maliarstvo	painting	0	0	1	0
 postaviť	stand on	0	0	1	0
-postaviť	stand	0	0	1	1
 postaviť	construct	0	0	1	1
 hrebeň	ridge	0	0	1	1
 jazero	lake	0	0	1	1
 kráľovských	royal	0	0	1	0
 energiu	energy	0	0	1	0
 energiu	of energy	0	0	1	0
+laser	laser	0	0	1	0
 per	per	0	0	1	0
 pes	dog	0	0	1	1
 vlastné	own	0	0	1	0
@@ -9893,7 +9677,6 @@ osoba	entity	0	0	1	0
 sovietskom	soviet	0	0	1	0
 osobe	person	0	0	1	0
 hlasov	votes	0	0	1	0
-hlasov	voice	0	0	1	0
 výskyt	occurrence	0	0	1	1
 upravený	adapted	0	0	1	1
 upravený	adjusted	0	0	1	0
@@ -9920,7 +9703,6 @@ dostáva	receives	0	0	1	0
 medzitým	meanwhile	0	0	1	1
 predaj	sale	0	0	1	1
 vzťahoch	relations	0	0	1	0
-teológie	theology	0	0	1	0
 zvláštnosťou	peculiarity	0	0	1	0
 zvláštnosťou	particularities	0	0	1	0
 zvláštnosťou	details	0	0	1	0
@@ -9967,8 +9749,6 @@ svoje	their	0	0	1	0
 svoje	its	0	0	1	0
 spojenie	the connection	0	0	1	0
 spojenie	connection	0	0	1	1
-kola	wheels	0	0	1	0
-kola	round	0	0	1	0
 znak	character	0	0	1	0
 donedávna	until recently	0	0	1	0
 donedávna	recently	0	0	1	0
@@ -10003,7 +9783,6 @@ prípadov	cases	0	0	1	0
 prípadov	causes	0	0	1	0
 japonských	japanese	0	0	1	0
 najnovších	the latest	0	0	1	0
-najnovších	newest	0	0	1	0
 najnovších	latest	0	0	1	0
 činidlo	agent	0	0	1	1
 urán	uranium	0	0	1	1
@@ -10045,7 +9824,6 @@ bojovníkov	warriors	0	0	1	0
 bojovníkov	fighters	0	0	1	0
 protokolu	protocol	0	0	1	0
 planétka	asteroid	0	0	1	0
-planétka	planetoid	0	0	1	0
 potvrdil	confirmed	0	0	1	0
 minerálne	in minerals	0	0	1	0
 atlas	atlas	0	0	1	1
@@ -10062,14 +9840,12 @@ intel	intel	0	0	1	0
 objem	volume	0	0	1	1
 zachytáva	captures	0	0	1	0
 telefóny	phones	0	0	1	0
-telefóny	telephones	0	0	1	0
 primárny	primary	0	0	1	0
 spoločnú	common	0	0	1	0
 západnou	western	0	0	1	0
 západnou	fit	0	0	1	0
 spoločný	common	0	0	1	1
 božej	god	0	0	1	0
-božej	divine	0	0	1	0
 západnom	western	0	0	1	0
 primárne	primary	0	0	1	0
 spoločné	common	0	0	1	0
@@ -10107,7 +9883,6 @@ dunajská	danube	0	0	1	0
 dunajská	dunajska	0	0	1	0
 body	body	0	0	1	0
 body	points	0	0	1	0
-šindlerová	sindler	0	0	1	0
 šindlerová	sindlerova	0	0	1	0
 nemeckom	german	0	0	1	0
 materiál	material	0	0	1	1
@@ -10127,10 +9902,9 @@ príkazy	orders	0	0	1	0
 pestuje	grown	0	0	1	0
 pestuje	breeds	0	0	1	0
 sviatok	holiday	0	0	1	1
-sviatok	feast	0	0	1	1
 využívajú	exploits	0	0	1	0
-využívajú	exploit a	0	0	1	0
 využívajú	are used	0	0	1	0
+využívajú	exploit a	0	0	1	0
 múru	wall	0	0	1	0
 múru	mur	0	0	1	0
 češtine	czech	0	0	1	0
@@ -10179,13 +9953,12 @@ odmietol	refused	0	0	1	0
 debussy	debussy	0	0	1	0
 západného	west	0	0	1	0
 západného	western	0	0	1	0
-západného	the west	0	0	1	0
 iii	iii of	0	0	1	0
 iii	iii	0	0	1	0
 ústavou	constitution	0	0	1	0
 ústavou	constitutionally	0	0	1	0
 životnosť	life	0	0	1	1
-životnosť	service life	0	0	1	1
+životnosť	service life	0	0	1	0
 oviec	sheep	0	0	1	0
 niekto	someone	0	0	1	1
 f	f	0	0	1	0
@@ -10210,9 +9983,7 @@ službe	service	0	0	1	0
 mikuláša	nicholas	0	0	1	0
 židovského	jewish	0	0	1	0
 stredných	secondary	0	0	1	0
-stredných	medium	0	0	1	0
 stredných	medium size	0	0	1	0
-príp	prip	0	0	1	0
 príp	ext	0	0	1	0
 služby	services	0	0	1	0
 služby	servicese	0	0	1	0
@@ -10227,7 +9998,6 @@ ostrovy	islands	0	0	1	0
 krok	step	0	0	1	1
 profile	profile	0	0	1	0
 podieľajú	share	0	0	1	0
-podieľajú	participate	0	0	1	0
 dobrých	good	0	0	1	0
 dobrých	option for good	0	0	1	0
 veku	age	0	0	1	0
@@ -10247,14 +10017,12 @@ polohe	position	0	0	1	0
 polohe	location	0	0	1	0
 mozog	brain	0	0	1	1
 potom	then	0	0	1	1
-múdrosti	wisdom as	0	0	1	0
-múdrosti	wisdom	0	0	1	0
+terrier	terrier	0	0	1	0
 napísané	written	0	0	1	0
 veľkým	big	0	0	1	0
 veľkým	huge	0	0	1	0
 fungovanie	operation	0	0	1	1
 mliečnej	milk	0	0	1	0
-mliečnej	lactic	0	0	1	0
 formátu	format	0	0	1	0
 postupnosť	sequence	0	0	1	1
 tvrdenie	claim	0	0	1	1
@@ -10286,7 +10054,6 @@ le	le	0	0	1	0
 la	la	0	0	1	0
 marsu	mars	0	0	1	0
 evolúcie	evolution	0	0	1	0
-evolúcie	of evolution	0	0	1	0
 odišiel	left	0	0	1	0
 lu	lu	0	0	1	0
 marse	mars	0	0	1	0
@@ -10379,7 +10146,8 @@ midi	midi	0	0	1	0
 československé	czechoslovak	0	0	1	0
 župy	county	0	0	1	0
 drahé	expensive	0	0	1	0
-útokoch	attacks	0	0	1	0
+mladého	a young	0	0	1	0
+mladého	young	0	0	1	0
 hráč	player	0	0	1	1
 hélia	helium	0	0	1	0
 ešte	also	0	0	1	0
@@ -10388,8 +10156,6 @@ ešte	more	0	0	1	0
 roztoku	solution	0	0	1	0
 používateľ	username	0	0	1	0
 používateľ	the user	0	0	1	0
-používateľ	user	0	0	1	1
-objaviť	emerge	0	0	1	0
 objaviť	discover	0	0	1	1
 opačnom	opposite	0	0	1	0
 opačnom	otherwise	0	0	1	0
@@ -10449,7 +10215,6 @@ odborníci	specialists	0	0	1	0
 odborníci	experts	0	0	1	0
 inštitúcií	institutional	0	0	1	0
 inštitúcií	institution	0	0	1	0
-inštitúcií	institutions	0	0	1	0
 oblačnosť	clouds	0	0	1	0
 oblačnosť	cloud cover	0	0	1	0
 nájsť	find the	0	0	1	0
@@ -10503,12 +10268,11 @@ porovnanie	comparision	0	0	1	0
 porovnanie	comparison	0	0	1	1
 pevného	solid	0	0	1	0
 pevného	hard	0	0	1	0
-reč	rec	0	0	1	0
 reč	speech	0	0	1	1
 vnútrozemí	inland	0	0	1	0
 hudbe	music	0	0	1	0
 milana	milan	0	0	1	0
-hudba	music	0	0	1	1
+strach	fear	0	0	1	1
 podieľal	involved	0	0	1	0
 podieľal	took place	0	0	1	0
 občanov	citizens	0	0	1	0
@@ -10526,12 +10290,9 @@ charles	charles	0	0	1	0
 charles	by charles	0	0	1	0
 prejavil	express	0	0	1	0
 prejavil	showed	0	0	1	0
-určiť	determine	0	0	1	1
 hamlet	hamlet	0	0	1	0
 domnievajú	believe	0	0	1	0
 depresie	depression	0	0	1	0
-povodia	basins	0	0	1	0
-povodia	basin	0	0	1	0
 súostrovie	archipelago	0	0	1	0
 kategóriaúmrtia	category: deaths (two words)	0	0	1	0
 kategóriaúmrtia	category deaths	0	0	1	0
@@ -10568,7 +10329,6 @@ normálnej	normal	0	0	1	0
 štruktúr	structure	0	0	1	0
 national	national	0	0	1	0
 national	the national	0	0	1	0
-údajov	data sheet	0	0	1	0
 údajov	data	0	0	1	0
 hélium	helium	0	0	1	1
 albánci	albanians	0	0	1	0
@@ -10587,19 +10347,18 @@ vylučuje	excludes	0	0	1	0
 októbra	oct.	0	0	1	0
 októbra	october	0	0	1	0
 listnaté	deciduous	0	0	1	0
-listnaté	broad-leaved	0	0	1	0
 koncept	draft	0	0	1	1
-žánre	genres	0	0	1	0
+železničné	railway	0	0	1	0
+železničné	railways	0	0	1	0
 starého	old	0	0	1	0
 zvýšenej	increased	0	0	1	0
 minerály	minerals	0	0	1	0
 dá	it is possible	0	0	1	0
 dá	can	0	0	1	0
 otroctva	slavery	0	0	1	0
-rovnaký	the same	0	0	1	1
+rovnaký	the same	0	0	1	0
 rovnaký	same	0	0	1	0
 dobe	time	0	0	1	0
-association	association	0	0	1	0
 doba	era	0	0	1	0
 doba	time	0	0	1	1
 celkovej	total	0	0	1	0
@@ -10621,7 +10380,6 @@ riadená	management	0	0	1	0
 riadená	controlled	0	0	1	0
 lunárneho	lunar	0	0	1	0
 doby	time	0	0	1	0
-riadené	guided	0	0	1	0
 riadené	controlled	0	0	1	0
 venoval	devoted	0	0	1	0
 nikde	nowhere	0	0	1	1
@@ -10633,9 +10391,9 @@ nikdy	never	0	0	1	1
 okolo	about	0	0	1	1
 okolo	around	0	0	1	1
 zamestnanie	job	0	0	1	1
-koncentrácia	concentration	0	0	1	1
+manželky	wives	0	0	1	0
+manželky	wife	0	0	1	0
 zamestnania	employment	0	0	1	0
-zamestnania	jobs	0	0	1	0
 rovnaké	exactly the same	0	0	1	0
 rovnaké	the same	0	0	1	0
 manželku	wife	0	0	1	0
@@ -10660,7 +10418,6 @@ pravdu	truth	0	0	1	0
 všetky	all	0	0	1	1
 rovnaká	the same	0	0	1	0
 rovnaká	same	0	0	1	0
-pravdy	pravty	0	0	1	0
 pravdy	truth	0	0	1	0
 zemného	natural	0	0	1	0
 zemného	ground	0	0	1	0
@@ -10682,7 +10439,6 @@ cieľom	to	0	0	1	0
 cieľom	finish	0	0	1	0
 cieľom	goal	0	0	1	0
 východiskom	starting	0	0	1	0
-východiskom	recourse	0	0	1	0
 neďaleko	not far	0	0	1	0
 úrovni	at	0	0	1	0
 úrovni	level	0	0	1	0
@@ -10707,7 +10463,6 @@ imrich	imrich	0	0	1	0
 vás	you	0	0	1	1
 hlasovanie	vote	0	0	1	1
 ľudský	humanely	0	0	1	0
-ľudský	human	0	0	1	1
 ľudskú	human	0	0	1	0
 miestnosti	rooms (first and second sentence)	0	0	1	0
 miestnosti	rooms	0	0	1	0
@@ -10743,6 +10498,10 @@ jednotný	single	0	0	1	1
 wagner	wagner	0	0	1	0
 jupitera	jupiter	0	0	1	0
 nesprávne	wrong	0	0	1	1
+nasledujú	followed by	0	0	1	0
+nasledujú	followed	0	0	1	0
+nasledujú	then followed	0	0	1	0
+janko	janko	0	0	1	0
 nazývali	called it	0	0	1	0
 nazývali	called	0	0	1	0
 črty	features	0	0	1	0
@@ -10785,7 +10544,6 @@ like	like	0	0	1	0
 rímskou	roman	0	0	1	0
 mláďat	pups	0	0	1	0
 mláďat	young adult	0	0	1	0
-mláďat	young	0	0	1	0
 bežného	current	0	0	1	0
 bežného	common	0	0	1	0
 bežného	normal	0	0	1	0
@@ -10808,11 +10566,9 @@ zabezpečujú	provide	0	0	1	0
 zabezpečujú	ensures	0	0	1	0
 nadol	down	0	0	1	0
 nadol	below	0	0	1	0
-kapitálu	capital with	0	0	1	0
 kapitálu	capital	0	0	1	0
 motívy	themes	0	0	1	0
 motívy	patterns	0	0	1	0
-motívy	motives	0	0	1	0
 pravdepodobné	probably	0	0	1	0
 pravdepodobné	likely	0	0	1	0
 pravdepodobné	most likely	0	0	1	0
@@ -10889,14 +10645,12 @@ jednotlivé	individual	0	0	1	0
 →	>	0	0	1	0
 výkonom	performance	0	0	1	0
 akéhokoľvek	any	0	0	1	0
-špecifický	specific	0	0	1	1
 špecifický	specifically	0	0	1	0
 potrebná	required	0	0	1	0
 teórií	theory	0	0	1	0
 stĺp	column	0	0	1	1
 stĺp	splitting	0	0	1	0
 integrované	integrated	0	0	1	0
-žiaden	harmonization	0	0	1	0
 žiaden	no	0	0	1	1
 výchova	to educate	0	0	1	0
 výchova	nurturing	0	0	1	0
@@ -10952,7 +10706,6 @@ boží	divine	0	0	1	1
 boží	gods	0	0	1	0
 poľnohospodárskej	agricultural	0	0	1	0
 nutnosť	need	0	0	1	1
-vyžadujú	requires	0	0	1	0
 vyžadujú	require	0	0	1	0
 vyžadujú	need/require	0	0	1	0
 vyvíjajú	develop	0	0	1	0
@@ -10975,8 +10728,7 @@ ríma	roma	0	0	1	0
 ríme	rime	0	0	1	0
 ríme	rome	0	0	1	0
 jedna	one	0	0	1	0
-jedno	all the same	0	0	1	1
-jedno	one	0	0	1	0
+ochorení	diseases	0	0	1	0
 jednoduchšie	easier	0	0	1	0
 prvého	first	0	0	1	0
 obidvoch	two	0	0	1	0
@@ -11017,7 +10769,8 @@ vzniknúť	incurred but	0	0	1	0
 vzniknúť	uprise	0	0	1	1
 vzniknúť	arise	0	0	1	1
 umeniu	art	0	0	1	0
-prejavom	expression	0	0	1	0
+kritika	criticism	0	0	1	1
+kritika	critic	0	0	1	0
 ladislav	ladislav	0	0	1	0
 kritike	criticism	0	0	1	0
 trvá	takes	0	0	1	0
@@ -11026,7 +10779,6 @@ trvá	take	0	0	1	0
 kritiky	critics	0	0	1	0
 street	street	0	0	1	0
 secesia	art nouveau	0	0	1	0
-secesia	modern style	0	0	1	0
 tvoriace	forming	0	0	1	0
 hviezd	stars	0	0	1	0
 zisk	profit	1	1	1	1
@@ -11037,7 +10789,6 @@ kritiku	criticue	0	0	1	0
 blue	blue	0	0	1	0
 členovia	members	0	0	1	0
 sonda	probe	0	0	1	1
-skončil	ended	0	0	1	0
 skončil	finished	0	0	1	0
 reakcie	reaction	0	0	1	0
 nízkym	threads	0	0	1	0
@@ -11056,7 +10807,6 @@ jazyku	language	0	0	1	0
 prišli	lost	0	0	1	0
 prišli	came	0	0	1	0
 citlivé	sensitive	0	0	1	0
-formátov		0	0	1	0
 formátov	formats	0	0	1	0
 psychózy	psychosis	0	0	1	0
 sondy	probe	0	0	1	0
@@ -11086,18 +10836,15 @@ prichádzajú	come	0	0	1	0
 prichádzajú	they come	0	0	1	0
 stratila	lost	0	0	1	0
 stratilo	lost	0	0	1	0
-nedokázali	did not manage to	0	0	1	0
-nedokázali	failed to	0	0	1	0
+tr	tr	0	0	1	0
 stratili	lost	0	0	1	0
 herečka	actress	0	0	1	1
 cassini	cassini	0	0	1	0
-stredisko	customer care centre	0	0	1	0
 stredisko	center	0	0	1	1
 preniká	penetrates	0	0	1	0
 prípadne	possibly	0	0	1	1
 prípadne	falls	0	0	1	0
 kríž	crisis	0	0	1	0
-kríž	kriz	0	0	1	0
 kríž	cross	0	0	1	1
 opozície	opposition	0	0	1	0
 síl	forces	0	0	1	0
@@ -11125,7 +10872,6 @@ postavení	position	0	0	1	0
 postavení	constructed	0	0	1	0
 me	me	0	0	1	0
 ma	i	0	0	1	0
-ma	has	0	0	1	0
 kráľa	king	0	0	1	0
 známeho	known	0	0	1	0
 známeho	famous	0	0	1	0
@@ -11140,9 +10886,8 @@ jaskyňa	cave	0	0	1	1
 lincoln	lincoln	0	0	1	0
 ms	wc	0	0	1	0
 ms	ms	0	0	1	0
-mr	m.r.	0	0	1	0
-mr	mr.	0	0	1	0
-mr	mr	0	0	1	0
+henry	by henry	0	0	1	0
+henry	henry	0	0	1	0
 ernest	ernest	0	0	1	0
 my	we	0	0	1	1
 rozšírené	widespread	0	0	1	0
@@ -11167,7 +10912,6 @@ cestou	path	0	0	1	0
 cestou	way	0	0	1	0
 jánom	jan	0	0	1	0
 jánom	john	0	0	1	0
-prebieha	progress	0	0	1	0
 prebieha	in progress	0	0	1	0
 tónu	tonne	0	0	1	0
 reťazec	string	0	0	1	0
@@ -11179,7 +10923,7 @@ vôli	will	0	0	1	0
 vôli	optional	0	0	1	0
 vôle	will	0	0	1	0
 vôle	crop	0	0	1	0
-nemala	not	0	0	1	0
+časopriestor	spacetime	0	0	1	0
 diera	hole	0	0	1	1
 london	london	0	0	1	0
 diery	holes	0	0	1	0
@@ -11193,9 +10937,8 @@ desať	ten	0	0	1	1
 kláštor	monastery	0	0	1	1
 výpočet	calculation	0	0	1	1
 výpočet	calculate	0	0	1	0
-aparátu	appliances	0	0	1	0
-aparátu	apparatus	0	0	1	0
 aparátu	system	0	0	1	0
+aparátu	apparatus	0	0	1	0
 objavila	appeared	0	0	1	0
 odporcov	opponents	0	0	1	0
 dokonalý	perfect	0	0	1	1
@@ -11225,7 +10968,6 @@ letecká	air	0	0	1	0
 bodov	points	0	0	1	0
 vývoja	development	0	0	1	0
 letecké	aviation	0	0	1	0
-letecké	on aviation	0	0	1	0
 letecké	air	0	0	1	0
 vývoji	development	0	0	1	0
 vývoji	progress	0	0	1	0
@@ -11251,7 +10993,6 @@ inou	other	0	0	1	0
 dávali	they have given	0	0	1	0
 dávali	give	0	0	1	0
 rozbočovač	hub	1	1	0	0
-skupinám	group	0	0	1	0
 skupinám	groups	0	0	1	0
 víťazstvom	victory	0	0	1	0
 podporujú	support	0	0	1	0
@@ -11332,7 +11073,6 @@ kontaktu	contakt	0	0	1	0
 zobrazený	shown	0	0	1	0
 fázy	phase to	0	0	1	0
 v tej	in the	0	0	1	0
-v tej	in	0	0	1	0
 fázu	phase	0	0	1	0
 fázu	beans	0	0	1	0
 sieťová	other network	0	0	1	0
@@ -11345,9 +11085,8 @@ rad	series	0	0	1	1
 rozlišujeme	distinguish	0	0	1	0
 rozlišujeme	we distinwuish	0	0	1	0
 krvné	blood	0	0	1	0
-klasický	classically	0	0	1	0
-klasický	classic	0	0	1	1
-kráľovské	royal	0	0	1	0
+trón	throne	0	0	1	1
+trón	tron	0	0	1	0
 rotora	rotor	0	0	1	0
 rané	wound	0	0	1	0
 poveril	commissioned	0	0	1	0
@@ -11355,7 +11094,6 @@ centrá	center	0	0	1	0
 centrá	centers	0	0	1	0
 vozidla	vehicle	0	0	1	0
 raz	time	0	0	1	1
-raz	once	0	0	1	1
 ray	ray	0	0	1	0
 biskupa	bishop	0	0	1	0
 budove	building	0	0	1	0
@@ -11384,16 +11122,18 @@ služba	service	0	0	1	0
 zemiakov	potatoes	0	0	1	0
 nepriateľom	enemy	0	0	1	0
 nazývaný	called	0	0	1	1
-platby	payments	0	0	1	0
 platby	payment	0	0	1	0
+platby	payments	0	0	1	0
 zložité	complex	0	0	1	0
 zložité	difficult	0	0	1	0
 osobných	personal	0	0	1	0
 osobných	private	0	0	1	0
-našom	our	0	0	1	0
 našom	our own	0	0	1	0
+našom	our	0	0	1	0
 schopností	ability	0	0	1	0
 queen	queen	0	0	1	0
+použití	use	0	0	1	0
+použití	used	0	0	1	0
 niečo	anything	0	0	1	1
 phdr	dr.	0	0	1	0
 zirkón	correspondence	1	0	1	0
@@ -11425,7 +11165,6 @@ zastaví	stop	0	0	1	0
 využitie	usage	0	0	1	0
 využitie	exploitation	0	0	1	1
 železnice	railway	0	0	1	0
-železnice	railroad	0	0	1	0
 menšina	minority	0	0	1	1
 využitia	use	0	0	1	0
 využitia	use made	0	0	1	0
@@ -11445,7 +11184,6 @@ prístupové	access	0	0	1	0
 dochádza	comes about	0	0	1	0
 dochádza	arrive	0	0	1	0
 hlási	system reports	0	0	1	0
-hlási	commits to	0	0	1	0
 hlási	reports	0	0	1	0
 všetkých	all	0	0	1	0
 všetkých	of all	0	0	1	0
@@ -11470,8 +11208,8 @@ tvrdí	says	0	0	1	0
 poľského	polish	0	0	1	0
 tvrdé	hard	0	0	1	0
 gruzínsko	georgia	0	0	1	0
-najbližšie	nearest	0	0	1	0
-najbližšie	closest	0	0	1	0
+povodia	basins	0	0	1	0
+povodia	basin	0	0	1	0
 chorváti	croats	0	0	1	0
 chorváti	croatians	0	0	1	0
 severozápadnej	northwestern	0	0	1	0
@@ -11482,21 +11220,18 @@ jedla	food	0	0	1	0
 jedla	meal	0	0	1	0
 oceánov	oceans	0	0	1	0
 železničná	railway	0	0	1	0
-železničné	railway	0	0	1	0
-železničné	railways	0	0	1	0
+žánre	genres	0	0	1	0
 pozorovateľný	vantage	0	0	1	0
 pozorovateľný	noticable	0	0	1	0
 pozorovateľný	observable	0	0	1	1
 nijako	nothing	0	0	1	1
 sedem	seven	0	0	1	1
 news	news	0	0	1	0
-pozorovateľné	observable	0	0	1	0
 pozorovateľné	observer	0	0	1	0
 vybavenie	equipment	0	0	1	1
 žánru	genre	0	0	1	0
 tcpip	tcp ip	0	0	1	0
 prstence	ring	0	0	1	0
-prstence	rings	0	0	1	0
 dlhší	long period	0	0	1	0
 dlhší	longer	0	0	1	1
 ukrajina	ukraine	0	0	1	0
@@ -11532,14 +11267,12 @@ spojenom	united	0	0	1	0
 írska	irish	0	0	1	0
 írska	ireland	0	0	1	0
 používateľov	reviews	0	0	1	0
-používateľov	users	0	0	1	0
 vystavené	consist	0	0	1	0
 vystavené	exposed	0	0	1	0
 uliciach	streets	0	0	1	0
 používateľom	users	0	0	1	0
 používateľom	user to	0	0	1	0
 hudobného	music	0	0	1	0
-hudobného	value	0	0	1	0
 natrvalo	permanently	0	0	1	0
 vyčerpanie	depletion	0	0	1	1
 poznáme	sweat	0	0	1	0
@@ -11585,17 +11318,15 @@ uhorsku	uhorsko	0	0	1	0
 vystúpili	made	0	0	1	0
 vyšetrenie	examination	0	0	1	1
 afganistane	afghanistan	0	0	1	0
-etanolu	ethanol	0	0	1	0
 muž	man	0	0	1	1
-benedikta	benedict	0	0	1	0
 benedikta	benedikt	0	0	1	0
+benedikta	benedict	0	0	1	0
 vysokej	high	0	0	1	0
 násilne	forcibly	0	0	1	0
 afganistanu	afghanistan	0	0	1	0
 masív	solid	0	0	1	0
 ísť	go	0	0	1	1
 ísť	be	0	0	1	0
-ísť	surely	0	0	1	0
 pravé	right	0	0	1	0
 pravé	just	0	0	1	1
 náročné	demanding	0	0	1	0
@@ -11630,7 +11361,6 @@ najväčšie	hardest	0	0	1	0
 najväčšie	greatest	0	0	1	0
 januári	january	0	0	1	0
 jean	jean	0	0	1	0
-snímka	picture	0	0	1	0
 snímka	image	0	0	1	0
 snímka	tape	0	0	1	0
 boľševici	bolsheviks	0	0	1	0
@@ -11644,9 +11374,8 @@ takzvaný	called	0	0	1	0
 možných	possible	0	0	1	0
 prehliadačov	browsers	0	0	1	0
 prehliadačov	browsears	0	0	1	0
-stredom	through the middle	0	0	1	0
 stredom	center	0	0	1	0
-stredom	centre	0	0	1	0
+stredom	through the middle	0	0	1	0
 menia	change	0	0	1	0
 takzvané	so-called	0	0	1	0
 tradičného	traditional	0	0	1	0
@@ -11705,7 +11434,8 @@ vektora	vector	0	0	1	0
 vymenoval	appoint	0	0	1	0
 vymenoval	appointed	0	0	1	0
 potvrdené	confirmed	0	0	1	0
-obyvateľa	capita	0	0	1	0
+bezpečnosť	security	0	0	1	1
+bezpečnosť	safety	0	0	1	1
 platón	plato	0	0	1	0
 symbolov	symbols	0	0	1	0
 ich	their	0	0	1	1
@@ -11717,8 +11447,8 @@ baroka	baroque	0	0	1	0
 systémami	systems	0	0	1	0
 videoklip	video clip	0	0	1	0
 ktorých	which	0	0	1	0
-icq	icq	0	0	1	0
 icq	post	0	0	1	0
+icq	icq	0	0	1	0
 súborom	file	0	0	1	0
 koncové	end	0	0	1	0
 nemusia	not	0	0	1	0
@@ -11737,7 +11467,6 @@ látky	sticks	0	0	1	0
 látky	substances	0	0	1	0
 vyjadrujú	expresses	0	0	1	0
 vyjadrujú	express	0	0	1	0
-uplatňuje	applied	0	0	1	0
 uplatňuje	employs the	0	0	1	0
 uplatňuje	employs	0	0	1	0
 zriedkavo	rarely	0	0	1	0
@@ -11774,7 +11503,6 @@ hlbšie	hibs	0	0	1	0
 hlbšie	deeper	0	0	1	0
 onedlho	soon	0	0	1	0
 onedlho	before	0	0	1	0
-úplnej	full	0	0	1	0
 úplnej	complete	0	0	1	0
 kvet	flower	0	0	1	1
 prvými	first	0	0	1	0
@@ -11791,6 +11519,7 @@ kozmickej	cosmic	0	0	1	0
 kozmickej	space	0	0	1	0
 voľne	free	0	0	1	0
 zlepšenie	improvement	0	0	1	1
+direktórium	directory	0	0	1	0
 macedónska	macedonian	0	0	1	0
 úradný	official	0	0	1	1
 nazývaných	called	0	0	1	0
@@ -11799,8 +11528,6 @@ pramení	source	0	0	1	0
 pramení	stems	0	0	1	0
 partizánmi	partisans	0	0	1	0
 pôvode	origin	0	0	1	0
-pôvode	flood	0	0	1	0
-zakladá	founding	0	0	1	0
 zakladá	based	0	0	1	0
 množstvom	lots of	0	0	1	0
 množstvom	many	0	0	1	0
@@ -11818,7 +11545,6 @@ webu	web	0	0	1	0
 webu	site	0	0	1	0
 založené	found	0	0	1	0
 založené	based	0	0	1	0
-založené	to found	0	0	1	0
 priemyselnej	industry	0	0	1	0
 priemyselnej	industrial	0	0	1	0
 lietadiel	aircraft	0	0	1	0
@@ -11849,7 +11575,6 @@ teroristické	terrorist	0	0	1	0
 voľný	leisure	0	0	1	1
 voľný	free	0	0	1	1
 head	head	0	0	1	0
-ostatní	other	0	0	1	0
 ostatní	others	0	0	1	0
 pozorovateľov	observers	0	0	1	0
 ležia	lies	0	0	1	0
@@ -11885,7 +11610,7 @@ skôr	rather	0	0	1	1
 skôr	more	0	0	1	1
 scéne	scene	0	0	1	0
 dostať	get	0	0	1	1
-radnica	town hall	0	0	1	1
+radnica	town hall	0	0	1	0
 radnica	city hall	0	0	1	0
 minerálnych	of mineral	0	0	1	0
 minerálnych	mineral	0	0	1	0
@@ -11908,7 +11633,7 @@ roviny	plane	0	0	1	0
 ihrisku	course	0	0	1	0
 kňazi	priest	0	0	1	0
 kňazi	priests	0	0	1	0
-suroviny	raw materials	0	0	1	1
+suroviny	raw materials	0	0	1	0
 kráľ	king	0	0	1	1
 sídliská	sidliska	0	0	1	0
 sídliská	suburb of bratislava	0	0	1	0
@@ -11950,7 +11675,6 @@ sovietsky	soviet	0	0	1	1
 draselný	potassium	0	0	1	0
 draselný	potassic	0	0	1	0
 správou	control	0	0	1	0
-správou	management	0	0	1	0
 správou	administration	0	0	1	0
 rozlíšenie	resolution	0	0	1	1
 rozlíšenie	differentiate	0	0	1	0
@@ -12064,9 +11788,7 @@ občania	people	0	0	1	1
 rástla	grew	0	0	1	0
 rástla	increased	0	0	1	0
 rástla	rasta	0	0	1	0
-švajčiarsku	switzerland	0	0	1	0
 švajčiarsku	swiss	0	0	1	0
-stredoveku	ages	0	0	1	0
 stredoveku	medieval	0	0	1	0
 komunity	communities	0	0	1	0
 komunity	community	0	0	1	0
@@ -12100,6 +11822,7 @@ eurozóny	eurozone	0	0	1	0
 obrázkov	images	0	0	1	0
 oba	both	0	0	1	1
 oba	two	0	0	1	1
+dnes	today	0	0	1	1
 t j	that is	0	0	1	0
 t j	i.e.	0	0	1	0
 najdôležitejšími	most important	0	0	1	0
@@ -12133,8 +11856,7 @@ rúd	ore	0	0	1	0
 rúd	metals	0	0	1	0
 štruktúrou	structure	0	0	1	0
 nemecká	germany	0	0	1	0
-niekedy	sometines	0	0	1	0
-niekedy	sometimes	0	0	1	1
+rúk	hands	0	0	1	0
 zaznamenal	recorded	0	0	1	0
 zaznamenal	noted	0	0	1	0
 nemeckú	german	0	0	1	0
@@ -12192,7 +11914,6 @@ významným	eminent	0	0	1	0
 národnosť	nationality	0	0	1	1
 vyrábať	produced	0	0	1	0
 vyrábať	produced by a	0	0	1	0
-vyrábať	produce	0	0	1	1
 muži	men	0	0	1	1
 horniny	rocks	0	0	1	0
 muža	man	0	0	1	0
@@ -12211,7 +11932,6 @@ desiatich	ten	0	0	1	0
 efekt	effect	0	0	1	1
 loptu	ball	0	0	1	0
 pričom	and	0	0	1	0
-pričom	while	0	0	1	0
 pričom	which	0	0	1	0
 ivan	ivan	0	0	1	0
 zariadení	equipment	0	0	1	0
@@ -12225,7 +11945,6 @@ devín	devin	0	0	1	0
 rimania	romans	0	0	1	0
 rimania	the romans	0	0	1	0
 autonómne	autonomously	0	0	1	0
-autonómne	autonomous	0	0	1	0
 kvety	flowers	0	0	1	0
 tetovania	tattoos	0	0	1	0
 tetovanie	tattoo	0	0	1	1
@@ -12246,7 +11965,6 @@ založili	established	0	0	1	0
 potrava	food	0	0	1	1
 potravy	food	0	0	1	0
 kolíše	varies	0	0	1	0
-pravidiel	rules	0	0	1	0
 george	george	0	0	1	0
 zúčastňuje	involved	0	0	1	0
 zúčastňuje	participates	0	0	1	0
@@ -12277,7 +11995,7 @@ starovek	odessa	1	0	1	0
 wide	widescreen	0	0	1	0
 čas	time	0	0	1	1
 kontrola	control	0	0	1	1
-ručne	by hand	0	0	1	1
+ručne	by hand	0	0	1	0
 ručne	manually	0	0	1	1
 kontrolu	control	0	0	1	0
 r	r	0	0	1	0
@@ -12309,7 +12027,7 @@ letná	summer	0	0	1	0
 letná	letna	0	0	1	0
 rozsiahlu	extensive	0	0	1	0
 rozsiahlu	vast	0	0	1	0
-rozsiahly	extensive	0	0	1	1
+malte	malta	0	0	1	0
 letné	summer	0	0	1	0
 malta	malta	0	0	1	0
 tisíc	thousand	0	0	1	1
@@ -12323,7 +12041,6 @@ príslušnosti	affiliation	0	0	1	0
 príslušnosti	membership	0	0	1	0
 malty	mortar	0	0	1	0
 malty	malta	0	0	1	0
-kategóriaokres	category: district	0	0	1	0
 kategóriaokres	district category	0	0	1	0
 nvidia	nvidia	0	0	1	0
 čiernej	black	0	0	1	0
@@ -12354,10 +12071,8 @@ nedokáže	unable	0	0	1	0
 nedokáže	unable to	0	0	1	0
 gule	ball	0	0	1	0
 jedinec	individual	0	0	1	1
-duchovné	spiritual	0	0	1	0
 duchovné	spiritually	0	0	1	0
 duchovný	spiritual	0	0	1	1
-duchovný	duchovny	0	0	1	0
 tretím	third	0	0	1	0
 tretím	the third	0	0	1	0
 predložil	submitted	0	0	1	0
@@ -12378,7 +12093,7 @@ republiku	republic	0	0	1	0
 francúzske	french	0	0	1	0
 francúzska	franc	0	0	1	0
 francúzska	french	0	0	1	0
-akoby	as if	0	0	1	1
+akoby	as if	0	0	1	0
 akoby	like	0	0	1	1
 francúzsko	french	0	0	1	0
 francúzsko	france	0	0	1	0
@@ -12406,19 +12121,17 @@ horšie	worse	0	0	1	1
 nižších	lower	0	0	1	0
 súdu	barrel	0	0	1	0
 bielorusko	belarus	0	0	1	0
-bieloruska	belorussia	0	0	1	0
-bieloruska	belarus	0	0	1	0
+stanley	stanley	0	0	1	0
 problémami	problems	0	0	1	0
 obežné	current	0	0	1	0
 vírusov	viruses	0	0	1	0
 veliteľom	commander	0	0	1	0
 leteckej	air	0	0	1	0
 hlavnom	main	0	0	1	0
-univerzite	university	0	0	1	0
+its	its	0	0	1	0
 veliteľov	commanders	0	0	1	0
 veliteľov	commander	0	0	1	0
 kategóriahráči	players category	0	0	1	0
-kategóriahráči	category: players (two words)	0	0	1	0
 oslobodenia	to set free	0	0	1	0
 oslobodenia	liberation	0	0	1	0
 ľadový	icy	0	0	1	1
@@ -12429,12 +12142,10 @@ stabilné	stable	0	0	1	0
 zostáva	remains	0	0	1	0
 ľudskej	of human	0	0	1	0
 ľudskej	human	0	0	1	0
-týkajú	touch upon	0	0	1	0
 týkajú	relate	0	0	1	0
 týkajú	concern	0	0	1	0
 nielen	not only	0	0	1	0
-nielen	not just	0	0	1	0
-najmenej	at least	0	0	1	1
+najmenej	at least	0	0	1	0
 odbory	domains	0	0	1	0
 odbory	unions	0	0	1	0
 bunke	cell	0	0	1	0
@@ -12465,8 +12176,8 @@ pod	under	0	0	1	1
 poli	field	0	0	1	0
 dunaj	danube	0	0	1	0
 označujú	indicates	0	0	1	0
-označujú	mark	0	0	1	0
 označujú	indicate	0	0	1	0
+označujú	mark	0	0	1	0
 prisťahovalci	immigrants	0	0	1	0
 pozorovať	watch	0	0	1	1
 pozorovať	to look	0	0	1	0
@@ -12573,7 +12284,6 @@ prevažná	preponderant	0	0	1	0
 nebudú	not	0	0	1	0
 nebudú	will	0	0	1	0
 nebudú	will not be	0	0	1	0
-viedeň	taking	0	0	1	0
 viedeň	vienna	0	0	1	0
 reality	reality	0	0	1	0
 ukázala	showed	0	0	1	0
@@ -12585,13 +12295,12 @@ rose	rose	0	0	1	0
 leto	summer	0	0	1	1
 sústavy	system	0	0	1	0
 sústave	system	0	0	1	0
-dnes	today	0	0	1	1
+association	association	0	0	1	0
 sústava	system	0	0	1	1
 používaná	being used by	0	0	1	0
 používaná	used	0	0	1	0
 blok	block	0	0	1	1
 vyvoláva	raises a	0	0	1	0
-vyvoláva	evokes	0	0	1	0
 vyvoláva	induce	0	0	1	0
 meste	city	0	0	1	0
 poznatky	knowledge	0	0	1	0
@@ -12602,10 +12311,8 @@ uhlík	carbon	0	0	1	1
 ťažiska	gravity	0	0	1	0
 vzhľadu	appearance	0	0	1	0
 mestu	city	0	0	1	0
-opäť	again	0	0	1	1
 opäť	abbot	0	0	1	0
 vytesal	carved	0	0	1	0
-vytesal	carved out	0	0	1	0
 okolité	surrounding	0	0	1	0
 právomoc	power	0	0	1	0
 právomoc	competence	0	0	1	1
@@ -12615,7 +12322,6 @@ návrh	proposal	0	0	1	1
 pravidlá	rules	0	0	1	0
 bohužiaľ	unfortunately	0	0	1	1
 stanú	become	0	0	1	0
-stanú	tent	0	0	1	0
 samostatnosti	independence	0	0	1	0
 prítomnosti	presence	0	0	1	0
 tower	tower	0	0	1	0
@@ -12783,15 +12489,12 @@ mincovne	mint	0	0	1	0
 kráľovná	queen	0	0	1	1
 objavený	discovered	0	0	1	0
 objavený	the real	0	0	1	0
-objavený	appear	0	0	1	0
-wifi	wifi	0	0	1	0
 wifi	wi-fi	0	0	1	0
 barcelona	barcelona	0	0	1	0
 vychádzajú	based	0	0	1	0
 vychádzajú	be published	0	0	1	0
 zákone	testament	0	0	1	0
 zákone	law	0	0	1	0
-zákone	act	0	0	1	0
 pohyb	movement	0	0	1	1
 barcelony	barcelona	0	0	1	0
 objavené	discovered	0	0	1	0
@@ -12842,11 +12545,9 @@ obeťou	victim	0	0	1	0
 voľba	choice	0	0	1	1
 vážnej	serious	0	0	1	0
 vážnej	classical	0	0	1	0
-vážnej	classic	0	0	1	0
 nároky	claims	0	0	1	0
 nároky	demands	0	0	1	0
 hrdinov	heroes	0	0	1	0
-list	paper	0	0	1	1
 list	sheet	0	0	1	1
 list	letter	0	0	1	1
 staršieho	older	0	0	1	0
@@ -12890,12 +12591,11 @@ prácou	work	0	0	1	0
 teplotami	temperatures	0	0	1	0
 náboženstiev	religions	0	0	1	0
 stanovené	on the designated	0	0	1	0
-stanovené	given	0	0	1	0
 stanovené	designated	0	0	1	0
 liberalizmus	liberalism	0	0	1	0
 synagógy	synagogues	0	0	1	0
-vlastnosťou	properties	0	0	1	0
 vlastnosťou	feature	0	0	1	0
+vlastnosťou	properties	0	0	1	0
 odchýlky	deviations	0	0	1	0
 kráľovský	royal	0	0	1	1
 kráľovský	kingly	0	0	1	1
@@ -12909,6 +12609,7 @@ zmluva	contract	0	0	1	1
 elektrickým	electrocuted	0	0	1	0
 elektrickým	electric	0	0	1	0
 textu	text	0	0	1	0
+skratka	abbreviation	0	0	1	1
 texty	texts	0	0	1	0
 rozvíjať	develop	0	0	1	1
 bojoval	fought	0	0	1	0
@@ -12917,14 +12618,14 @@ učiteľ	teacher	0	0	1	1
 český	czech	0	0	1	1
 nepodarilo	not	0	0	1	0
 nepodarilo	failed to	0	0	1	0
-prítoky	tributaries	0	0	1	0
-prítoky	inflows	0	0	1	0
+tituly	titles	0	0	1	0
 zrak	sight	0	0	1	1
 reakcia	reaction	0	0	1	1
 pôvodu	origin	0	0	1	0
 nádor	tumor	0	0	1	1
 nádor	tumour	0	0	1	1
 uhličitého	dioxide	0	0	1	0
+vlastnou	own	0	0	1	0
 skrátene	short	0	0	1	0
 pomere	ratio	0	0	1	0
 máriou	maria	0	0	1	0
@@ -12934,7 +12635,6 @@ pomeru	ratio	0	0	1	0
 pomeru	radio	0	0	1	0
 tvorivého	creative	0	0	1	0
 pomery	ratios	0	0	1	0
-pomery	circumstances	0	0	1	0
 spotrebu	consumption	0	0	1	0
 nadväzuje	follow-up	0	0	1	0
 predmetom	subject	0	0	1	0
@@ -12983,10 +12683,8 @@ tanku	tank	0	0	1	0
 celkového	total	0	0	1	0
 adries	addresses	0	0	1	0
 odlišných	different	0	0	1	0
-odlišných	diferent	0	0	1	0
 spolupráca	cooperation	0	0	1	0
-odtiaľ	from there	0	0	1	0
-odtiaľ	thence	0	0	1	1
+produkciu	production	0	0	1	0
 vojaci	military	0	0	1	1
 pochádzala	came	0	0	1	0
 cieľ	goal	0	0	1	1
@@ -13012,7 +12710,7 @@ snaha	effort	0	0	1	1
 ložiská	bearings	0	0	1	0
 hladiny	levels	0	0	1	0
 odkiaľ	whence	0	0	1	1
-odkiaľ	from where	0	0	1	1
+odkiaľ	from where	0	0	1	0
 stretol	met	0	0	1	0
 spieva	sings	0	0	1	0
 psychológia	psychology	0	0	1	1
@@ -13065,7 +12763,6 @@ speváčka	singer	0	0	1	1
 šírenie	spread	0	0	1	1
 pomoci	help	0	0	1	0
 dielami	works	0	0	1	0
-dielami	pieces	0	0	1	0
 egyptské	egyptian	0	0	1	0
 kol	col.	0	0	1	0
 kol	wheel	0	0	1	0
@@ -13094,7 +12791,6 @@ nezávisí	independent	0	0	1	0
 spišskej	spis	0	0	1	0
 spišskej	spisska	0	0	1	0
 vyvinúť	developed	0	0	1	0
-vyvinúť	develop	0	0	1	1
 blanc	blanc	0	0	1	0
 dosiaľ	to date	0	0	1	0
 dosiaľ	yet been	0	0	1	0
@@ -13108,10 +12804,9 @@ väčšinou	mostly	0	0	1	1
 umiestnil	placed	0	0	1	0
 výhradne	exclusively	0	0	1	1
 výhradne	special	0	0	1	0
-žien	see	0	0	1	0
 žien	women	0	0	1	0
 rozpadla	split	0	0	1	0
-priemerne	on average	0	0	1	1
+priemerne	on average	0	0	1	0
 priemerne	average	0	0	1	0
 obrázok	picture	0	0	1	0
 obrázok	figure	0	0	1	1
@@ -13136,7 +12831,6 @@ metoda	method	0	0	1	0
 ruskom	russian	0	0	1	0
 klubu	club	0	0	1	0
 stalo	become	0	0	1	0
-stalo	became	0	0	1	0
 bohu	god	0	0	1	0
 stali	become	0	0	1	0
 stali	stood	0	0	1	0
@@ -13149,7 +12843,6 @@ väzení	dear	0	0	1	0
 väzení	prison	0	0	1	0
 ukladanie	store	0	0	1	0
 igor	igor	0	0	1	0
-babylonu	babel	0	0	1	0
 babylonu	babylon	0	0	1	0
 hráčov	players	0	0	1	0
 hráčov	the players	0	0	1	0
@@ -13157,7 +12850,6 @@ iniciatívy	initiatives	0	0	1	0
 sovietske	soviet	0	0	1	0
 hráčom	players	0	0	1	0
 hráčom	playing	0	0	1	0
-hráčom	player	0	0	1	0
 dobytka	cattle	0	0	1	0
 markíza	markiza	0	0	1	0
 markíza	marquise	0	0	1	1
@@ -13220,8 +12912,7 @@ histórii	history	0	0	1	0
 provincie	province	0	0	1	0
 provincie	provinces	0	0	1	0
 južný	south	0	0	1	1
-urobiť	do	0	0	1	1
-urobiť	make	0	0	1	1
+provincia	province	0	0	1	1
 južnú	south	0	0	1	0
 výroba	production	0	0	1	1
 provincii	province	0	0	1	0
@@ -13235,7 +12926,6 @@ južné	south	0	0	1	0
 osídlenia	settlement	0	0	1	0
 osídlenia	settlements	0	0	1	0
 ktoré	which	0	0	1	0
-ktoré	that	0	0	1	0
 výrobu	production	0	0	1	0
 výrobu	manufacturing	0	0	1	0
 karcinóm	carcinoma	0	0	1	1
@@ -13283,7 +12973,6 @@ mandát	the mandate of the	0	0	1	0
 mandát	mandate	0	0	1	1
 konečnom	final	0	0	1	0
 román	roman	0	0	1	0
-román	novel	0	0	1	1
 nórska	norway	0	0	1	0
 klub	club	0	0	1	1
 patril	was one	0	0	1	0
@@ -13340,7 +13029,6 @@ dub	oak	0	0	1	1
 zaľudnenia	congestion	0	0	1	0
 vojsko	army	0	0	1	1
 vysokým	high	0	0	1	0
-vysokým	higher	0	0	1	0
 kultúry	culture	0	0	1	0
 vápence	calcite	0	0	1	0
 vápence	limestone	0	0	1	0
@@ -13396,8 +13084,6 @@ poľskej	polish	0	0	1	0
 poľskej	poland's	0	0	1	0
 dopamínu	dopamine	0	0	1	0
 začnú	start	0	0	1	0
-začnú	begin	0	0	1	0
-začnú	i start	0	0	1	0
 kríza	crisis	0	0	1	1
 komerčný	commercial	0	0	1	1
 etnických	ethnic	0	0	1	0
@@ -13428,7 +13114,6 @@ osobná	personal	0	0	1	0
 rozumu	reason	0	0	1	0
 rozumu	sense	0	0	1	0
 osobný	personal	0	0	1	1
-osobný	separate	0	0	1	1
 tkanív	tissue	0	0	1	0
 tomáš	tomas	0	0	1	0
 tomáš	tomash	0	0	1	0
@@ -13448,7 +13133,6 @@ slovenčiny	slovak language	0	0	1	0
 slovenčina	slovencina	0	0	1	0
 slovenčina	slovak	0	0	1	1
 slovenčine	slovak	0	0	1	0
-orgánom	authorities	0	0	1	0
 orgánom	organ	0	0	1	0
 duchovných	spiritual	0	0	1	0
 vytvoril	created	0	0	1	0
@@ -13489,7 +13173,7 @@ skratky	abbreviations	0	0	1	0
 skladbe	song	0	0	1	0
 skladba	composition	0	0	1	1
 skladba	song	0	0	1	0
-skratka	abbreviation	0	0	1	1
+predsedu	president	0	0	1	0
 skladby	track	0	0	1	0
 skladby	tracks	0	0	1	0
 skladbu	composition	0	0	1	0
@@ -13534,7 +13218,6 @@ polovica	half	0	0	1	1
 diamant	diamond	0	0	1	1
 polovice	half	0	0	1	0
 riasy	kelp	0	0	1	0
-riasy	cirruses	0	0	1	0
 polovici	half	0	0	1	0
 hrubá	gross	0	0	1	0
 hrubá	thick	0	0	1	0
@@ -13594,7 +13277,6 @@ dalí	dalí	0	0	1	0
 dalí	dali	0	0	1	0
 dalí	give	0	0	1	0
 kategóriadejiny	history category	0	0	1	0
-kategóriadejiny	category: history	0	0	1	0
 prežil	survived	0	0	1	0
 pohlavia	sex	0	0	1	0
 spontánne	spontaneously	0	0	1	1
@@ -13603,7 +13285,7 @@ delta	delta	0	0	1	1
 tenzor	tensor	0	0	1	0
 tuky	fats	0	0	1	0
 magnetickom	magnetic	0	0	1	0
-cestami	roads	0	0	1	0
+polomer	radius	0	0	1	1
 jadrové	nuclear	0	0	1	0
 jadrové	nucleus	0	0	1	0
 poskytujú	provide	0	0	1	0
@@ -13611,7 +13293,6 @@ poskytujú	provide so	0	0	1	0
 légie	legion	0	0	1	0
 légie	legions	0	0	1	0
 plánov	plans	0	0	1	0
-nasledovné	following	0	0	1	0
 nasledovné	as follows	0	0	1	0
 jadrová	nuclear	0	0	1	0
 pechota	infantry	0	0	1	1
@@ -13623,7 +13304,6 @@ schémy	schematic	0	0	1	0
 pechoty	corps	0	0	1	0
 schéma	scheme	0	0	1	1
 schéma	shem	0	0	1	0
-z	of	0	0	1	1
 z	z	0	0	1	0
 úplná	completely	0	0	1	0
 úplná	complete	0	0	1	0
@@ -13643,12 +13323,12 @@ jedenásť	eleven	0	0	1	1
 zaoberajú	deal	0	0	1	0
 moskve	moscow	0	0	1	0
 spodnej	lower	0	0	1	0
-spodnej	low	0	0	1	0
 križiackych	crusader	0	0	1	0
 nich	them	0	0	1	1
 ekonómia	economics	0	0	1	1
 ekonómia	economy	0	0	1	1
-protokol	protocol	0	0	1	1
+spôsobiť	cause	0	0	1	1
+spôsobiť	to cause	0	0	1	0
 vládcovia	rulers	0	0	1	0
 pápež	pope	0	0	1	1
 moci	can	0	0	1	0
@@ -13658,10 +13338,10 @@ dala	she	0	0	1	0
 dala	gave	0	0	1	0
 zástupcovia	representatives	0	0	1	0
 zástupcovia	representatives from	0	0	1	0
-južnom	south	0	0	1	0
+vzťahom	relationships	0	0	1	0
+vzťahom	relationship	0	0	1	0
 dalo	could	0	0	1	0
 dali	were able to	0	0	1	0
-dali	could be	0	0	1	0
 dali	give	0	0	1	0
 pomocou	with the help of	0	0	1	0
 pomocou	by	0	0	1	1
@@ -13711,7 +13391,6 @@ geografické	geographical	0	0	1	0
 stredná	middle	0	0	1	0
 stredná	central	0	0	1	0
 palivá	fuel	0	0	1	0
-palivá	fuels	0	0	1	0
 latinčine	latin	0	0	1	0
 priestore	space	0	0	1	0
 latinčina	latin	0	0	1	0
@@ -13774,8 +13453,8 @@ vplyv	impact	0	0	1	1
 prostriedkov	resources	0	0	1	0
 firmou	by company	0	0	1	0
 firmou	by	0	0	1	0
-zákon	law	0	0	1	1
 zákon	bill	0	0	1	0
+zákon	law	0	0	1	1
 malého	small	0	0	1	0
 malého	a small	0	0	1	0
 jadrovej	nuclear	0	0	1	0
@@ -13816,7 +13495,7 @@ cirkvi	church	0	0	1	0
 ochorenie	disease	0	0	1	0
 uss	uss	0	0	1	0
 december	december	0	0	1	1
-navzájom	each other	0	0	1	1
+navzájom	each other	0	0	1	0
 polovodiče	semiconductors	0	0	1	0
 diskusie	discussion	0	0	1	0
 sledovanie	monitoring	0	0	1	1
@@ -13848,6 +13527,8 @@ motivácia	motivation	0	0	1	1
 predchádzajúcich	previous	0	0	1	0
 hĺbka	depth	0	0	1	1
 telesnej	physical	0	0	1	0
+číslo	integer	0	0	1	0
+číslo	number	0	0	1	1
 dobré	good	0	0	1	0
 dobré	well	0	0	1	0
 rádovo	in the order	0	0	1	0
@@ -13903,6 +13584,7 @@ sin	son	0	0	1	0
 poznámky	notes	0	0	1	1
 zdravotnícka	health	0	0	1	0
 vírus	virus	0	0	1	1
+útokoch	attacks	0	0	1	0
 poznámka	note	0	0	1	1
 bohatých	bonati	0	0	1	0
 bohatých	rich	0	0	1	0
@@ -13959,7 +13641,7 @@ zostať	remain	0	0	1	1
 zostať	stay	0	0	1	1
 podporovať	support	0	0	1	1
 wolfgang	wolfgang	0	0	1	0
-gymnázium	high school	0	0	1	1
+gymnázium	high school	0	0	1	0
 šošoviek	lens	0	0	1	0
 šošoviek	lenses	0	0	1	0
 vzhľad	appearence	0	0	1	0
@@ -13988,11 +13670,9 @@ elektrónov	electron	0	0	1	0
 službách	services	0	0	1	0
 súd	barrel	0	0	1	0
 súd	court	0	0	1	1
-gróf	earl	0	0	1	1
 gróf	count	0	0	1	1
 gróf	grof	0	0	1	0
 čeľaď	celad	0	0	1	0
-čeľaď	family	0	0	1	1
 dialógy	dialogues	0	0	1	0
 vyznačujú	characterized by	0	0	1	0
 vyznačujú	characterized	0	0	1	0
@@ -14018,7 +13698,6 @@ rakety	missiles	0	0	1	0
 rakety	rockets	0	0	1	0
 populárnej	popular	0	0	1	0
 populárnej	the popular	0	0	1	0
-populárnej	papularnej	0	0	1	0
 osobnosti	personality	0	0	1	0
 holandsku	netherlands	0	0	1	0
 prechádza	passes	0	0	1	0
@@ -14045,7 +13724,6 @@ g	g	0	0	1	0
 šét	seth	1	1	0	0
 šét	boss	1	0	1	0
 šét	existence	1	0	1	0
-reaktor	reactor	0	0	1	1
 menším	lower	0	0	1	0
 menším	smaller	0	0	1	0
 menšín	minorities	0	0	1	0
@@ -14104,12 +13782,10 @@ vôľa	will	0	0	1	1
 vôľa	call	0	0	1	0
 vôľa	ox	0	0	1	0
 ťažké	hard	0	0	1	0
-ťažké	difficult	0	0	1	0
 nemeckí	german	0	0	1	0
 tommy	tommy	0	0	1	0
 vraždy	murder	0	0	1	0
 blízkej	close	0	0	1	0
-blízkej	near	0	0	1	0
 vraždu	murder	0	0	1	0
 komunikovať	communicate	0	0	1	1
 ťažký	heavy	0	0	1	1
@@ -14118,7 +13794,8 @@ komunikovať	communicate	0	0	1	1
 technickej	technical	0	0	1	0
 podieľa	involved	0	0	1	0
 podieľa	participates	0	0	1	0
-rúk	hands	0	0	1	0
+nízkej	a low	0	0	1	0
+nízkej	low	0	0	1	0
 hnedý	brown	0	0	1	1
 predkovia	ancestors	0	0	1	0
 zločiny	crimes	0	0	1	0
@@ -14142,8 +13819,8 @@ jednotlivca	individual	0	0	1	0
 =	=	0	0	1	0
 centra	center	0	0	1	0
 centra	centre	0	0	1	0
-bezpečnosť	security	0	0	1	1
-bezpečnosť	safety	0	0	1	1
+vozidlá	vehicles	0	0	1	0
+vozidlá	vehicle	0	0	1	0
 centre	downtown	0	0	1	0
 centre	center	0	0	1	0
 natočený	recorded	0	0	1	1
@@ -14206,7 +13883,7 @@ piesní	song	0	0	1	0
 prirodzene	naturally	0	0	1	1
 nepriateľovi	enemy	0	0	1	0
 nepriateľovi	enemies	0	0	1	0
-kladie	places	0	0	1	0
+karta	card	0	0	1	1
 zriadenia	establishment	0	0	1	0
 častica	particle	0	0	1	1
 zriadenie	betrayed	0	0	1	0
@@ -14219,7 +13896,6 @@ generálov	generals	0	0	1	0
 špecifikácie	specifications	0	0	1	0
 maximálne	themselves	0	0	1	0
 maximálne	maximum	0	0	1	0
-maximálne	outside	0	0	1	1
 naproti	opposite	0	0	1	1
 koncentračných	concentration	0	0	1	0
 koncentračných	work camp	0	0	1	0
@@ -14248,7 +13924,6 @@ celky	units	0	0	1	0
 celky	sets	0	0	1	0
 stáva	becomes	0	0	1	0
 stáva	happen	0	0	1	0
-stáva	the constitution	0	0	1	0
 novozámocký	nové zámky	0	0	1	0
 novozámocký	novozámocká	0	0	1	0
 nutné	be	0	0	1	0
@@ -14276,7 +13951,7 @@ jon	jon	0	0	1	0
 krátkej	short	0	0	1	0
 rímsky	rimsky	0	0	1	0
 rímsky	roman	0	0	1	1
-napríklad	for example	0	0	1	1
+napríklad	for example	0	0	1	0
 rímski	roman	0	0	1	0
 rímske	roman	0	0	1	0
 zabezpečuje	ensures	0	0	1	0
@@ -14301,7 +13976,6 @@ strieborné	silver	0	0	1	0
 panovníka	ruler	0	0	1	0
 berlíne	berlin	0	0	1	0
 splniť	satisfy	0	0	1	1
-splniť	meet	0	0	1	1
 splniť	met	0	0	1	0
 berlína	berlin	0	0	1	0
 krku	neck	0	0	1	0
@@ -14310,7 +13984,6 @@ bbc	bbc	0	0	1	0
 bbc	the bbc	0	0	1	0
 ľudského	lucskeho	0	0	1	0
 ľudského	of the human	0	0	1	0
-ľudského	human	0	0	1	0
 novinách	newspaper	0	0	1	0
 predstaviteľ	representative	0	0	1	1
 otvorenie	opening	0	0	1	1
@@ -14373,8 +14046,7 @@ generálmajor	major general	0	0	1	0
 generálmajor	general	0	0	1	0
 ktorého	kotor	0	0	1	0
 ktorého	whose	0	0	1	1
-ktorého	which	0	0	1	0
-produkciu	production	0	0	1	0
+podujatia	events	0	0	1	0
 koncu	end	0	0	1	0
 momentálne	moment	0	0	1	0
 momentálne	currently	0	0	1	0
@@ -14437,7 +14109,6 @@ jari	spring	0	0	1	0
 oveľa	much	0	0	1	1
 vypukla	broke	0	0	1	0
 otázku	question	0	0	1	0
-skr	skr.	0	0	1	0
 skr	skr	0	0	1	0
 mnohým	many	0	0	1	0
 mnohým	numerous	0	0	1	0
@@ -14456,8 +14127,7 @@ použité	used	0	0	1	0
 platné	plates	0	0	1	0
 platné	valid	0	0	1	0
 nevyhnutná	necessary	0	0	1	0
-použití	use	0	0	1	0
-použití	used	0	0	1	0
+určiť	determine	0	0	1	1
 platní	plates	0	0	1	0
 platní	plate	0	0	1	0
 harmónie	harmonies	0	0	1	0
@@ -14493,7 +14163,7 @@ obchody	trade	0	0	1	1
 došlo	was	0	0	1	0
 došlo	occurred	0	0	1	0
 šťastie	lucky	0	0	1	0
-šťastie	good luck	0	0	1	1
+šťastie	good luck	0	0	1	0
 kde	where	0	0	1	1
 obchodu	trade	0	0	1	0
 vzhľadom	relative	0	0	1	0
@@ -14528,7 +14198,6 @@ tvárou	face	0	0	1	0
 stredné	middle	0	0	1	0
 stredné	medium	0	0	1	0
 vetra	wind	0	0	1	0
-nedá	not	0	0	1	0
 nedá	neda	0	0	1	0
 nedá	can not	0	0	1	0
 obec	community	0	0	1	1
@@ -14551,12 +14220,9 @@ krídla	wing	0	0	1	0
 dotyk	touch	0	0	1	1
 paláce	palace	0	0	1	0
 séria	series	0	0	1	0
-séria	set	0	0	1	1
 séria	serie	0	0	1	0
 paláci	palace	0	0	1	0
 série	series	0	0	1	0
-en	to en	0	0	1	0
-en	en	0	0	1	0
 obeť	victims	0	0	1	0
 obeť	victim	0	0	1	1
 narodení	birth of	0	0	1	0
@@ -14589,7 +14255,7 @@ usporiadaných	sorted	0	0	1	0
 usporiadaných	arranged	0	0	1	0
 vonkajšieho	external dimension	0	0	1	0
 vonkajšieho	external	0	0	1	0
-karta	card	0	0	1	1
+kladie	places	0	0	1	0
 molekúl	molecule	0	0	1	0
 molekúl	molecules	0	0	1	0
 sarkofág	rules	1	0	1	0
@@ -14617,7 +14283,6 @@ konci	end	0	0	1	0
 reaktora	reactor	0	0	1	0
 konca	end	0	0	1	0
 najvýznamnejším	the most important	0	0	1	0
-najvýznamnejším	most well-known	0	0	1	0
 konce	ends	0	0	1	0
 konce	end	0	0	1	0
 majetok	property	0	0	1	1

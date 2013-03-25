@@ -37,8 +37,8 @@ britanii	britain	0	0	1	0
 britanii	britains	0	0	1	0
 regional	regional	0	0	1	1
 bratislava	bratislava	0	0	1	0
-lumii	worlds	0	0	1	0
 lumii	world	0	0	1	0
+lumii	worlds	0	0	1	0
 protestante	protestant	0	0	1	0
 medicament	medicine	0	0	1	1
 medicament	drug	0	0	1	1
@@ -48,7 +48,6 @@ oceane	oceans	0	0	1	0
 șiau	they kept (si-au)	0	0	1	0
 șiau	have	0	0	1	0
 călători	passenger	0	0	1	0
-călători	travel	0	0	1	1
 călători	travelers	0	0	1	0
 producerii	production	0	0	1	0
 producerii	producing	0	0	1	0
@@ -56,18 +55,13 @@ categorieactori	category actors	0	0	1	0
 crescând	increasing	0	0	1	1
 crescând	rising	0	0	1	1
 probabil	probably	0	0	1	1
-cădere	falling	0	0	1	0
 cădere	fall	0	0	1	1
-trecută	listed	0	0	1	0
-trecută	passed	0	0	1	0
-trecută	last week	0	0	1	0
 orientate	oriented	0	0	1	0
 orientate	orientated	0	0	1	0
 miller	miller	0	0	1	0
 miller	miller (last name)	0	0	1	0
 holocaust	holocaust	0	0	1	1
 momentele	moments	0	0	1	0
-momentele	the moments	0	0	1	0
 fenomenului	the phenomenom	0	0	1	0
 fenomenului	phenomenon	0	0	1	0
 geografie	geography	0	0	1	1
@@ -94,7 +88,6 @@ avere	wealth	0	0	1	1
 sentimentele	sentiments	0	0	1	0
 sentimentele	feelings	0	0	1	0
 cozia	cozia	0	0	1	0
-cult	cult	0	0	1	1
 cult	religion	0	0	1	1
 cult	worship	0	0	1	1
 sexul	the sex (gender)	0	0	1	0
@@ -147,11 +140,9 @@ demografică	demographic	0	0	1	0
 titluri	championships	0	0	1	0
 titluri	titles	0	0	1	0
 puterii	power	0	0	1	0
-coduri	rules	0	0	1	0
-coduri	codes	0	0	1	0
+pozitive	positive	0	0	1	0
 yahoo	yahoo	0	0	1	0
 populare	popular	0	0	1	0
-populare	populars	0	0	1	0
 importanță	importance	0	0	1	0
 importanță	important	0	0	1	0
 biblia	bible	0	0	1	1
@@ -206,7 +197,8 @@ hot	hot	0	0	1	0
 parcurs	during	0	0	1	0
 parcurs	route	0	0	1	1
 relația	relationship	0	0	1	0
-curge	flows	0	0	1	0
+centura	ring road	0	0	1	0
+centura	belt	0	0	1	0
 relație	relation	0	0	1	0
 relație	relationship	0	0	1	0
 societățile	the business	0	0	1	0
@@ -231,7 +223,6 @@ traduceri	translate	0	0	1	0
 traduceri	translations	0	0	1	0
 siberia	siberia	0	0	1	0
 echipamentul	equipment	0	0	1	0
-echipamentul	the equipment	0	0	1	0
 horea	horea	0	0	1	0
 orientată	oriented	0	0	1	0
 orientată	oriental	0	0	1	0
@@ -242,17 +233,14 @@ redenumit	renamed	0	0	1	0
 redenumit	remaned	0	0	1	0
 învățați	learned	0	0	1	0
 învățați	scholars	0	0	1	0
-învățați	learn	0	0	1	0
 cinstea	honor	0	0	1	0
 cinstea	the onour	0	0	1	0
 vara	summer	0	0	1	0
 continentale	continental	0	0	1	0
-practicarea	practice	0	0	1	0
-practicarea	practicing	0	0	1	0
+examen	exam	0	0	1	0
 fir	wireless	0	0	1	0
 fir	wire	0	0	1	1
 adevăruri	truths	0	0	1	0
-adevăruri	truth	0	0	1	0
 parlamentare	parliamentary	0	0	1	0
 parlamentare	parlament	0	0	1	0
 crezut	belived	0	0	1	0
@@ -266,8 +254,6 @@ uriaș	enormous	0	0	1	0
 personajul	character	0	0	1	0
 unire	union	0	0	1	1
 unire	unification	0	0	1	0
-vast	wide	0	0	1	1
-vast	extensive	0	0	1	1
 vast	vast	0	0	1	1
 fie	be	0	0	1	0
 premiului	prize	0	0	1	0
@@ -302,7 +288,6 @@ termice	thermal	0	0	1	0
 termice	thermic	0	0	1	0
 semnificația	meaning	0	0	1	0
 elibera	release	0	0	1	1
-elibera	deliberated	0	0	1	0
 elibera	free	0	0	1	1
 fizică	physics	0	0	1	1
 fizică	physical	0	0	1	0
@@ -335,7 +320,6 @@ ciclului	cycle	0	0	1	0
 unitar	unitary	0	0	1	1
 îmbină	binds	0	0	1	0
 îmbină	combines	0	0	1	0
-îmbină	geminates	0	0	1	0
 rh	rh	0	0	1	0
 străinătate	abroad	0	0	1	0
 verzi	green	0	0	1	0
@@ -344,9 +328,8 @@ dracula	dracula	0	0	1	0
 dracula	name	0	0	1	0
 cimitir	cemetery	0	0	1	1
 județelor	counties	0	0	1	0
-depozitele	deposit	0	0	1	0
-depozitele	the deposits	0	0	1	0
 depozitele	deposits	0	0	1	0
+depozitele	the deposits	0	0	1	0
 constructoare	building	0	0	1	0
 constructoare	construction	0	0	1	0
 cunoscută	known	0	0	1	0
@@ -361,8 +344,8 @@ acelea	those	0	0	1	1
 aflate	being	0	0	1	0
 aflate	you heard about	0	0	1	0
 aflate	under	0	0	1	0
-informațiile	informations	0	0	1	0
 informațiile	information	0	0	1	0
+informațiile	informations	0	0	1	0
 acelei	that	0	0	1	0
 moment	moment	0	0	1	1
 până	untill	0	0	1	0
@@ -389,15 +372,14 @@ feldspat	feldspar	1	1	0	1
 feldspat	felspati	1	0	1	0
 termică	thermical	0	0	1	0
 termică	thermal	0	0	1	0
-termică	thermic	0	0	1	0
-interpretat	interpreted	0	0	1	0
 interpretat	played	0	0	1	0
+interpretat	interpreted	0	0	1	0
 circulației	flow	0	0	1	0
 circulației	circulation	0	0	1	0
 aderare	adhesion	0	0	1	0
 aderare	accession	0	0	1	0
-aderare	adhere	0	0	1	0
 für	for	0	0	1	0
+obiectele	objects	0	0	1	0
 oceanice	oceanic	0	0	1	0
 oceanice	oceans	0	0	1	0
 legi	laws	0	0	1	0
@@ -418,19 +400,18 @@ xiv	14	0	0	1	0
 xiv	fourteenth	0	0	1	0
 xix	xix	0	0	1	0
 urmă	eventually	0	0	1	0
-recent	recently	0	0	1	1
 recent	recent	0	0	1	1
 ceremonia	ceremony	0	0	1	0
 parlamentară	parliamentary	0	0	1	0
 geneva	geneva	0	0	1	0
 ceremonii	ceremony	0	0	1	0
-ceremonii	ceremonials	0	0	1	0
 strânse	collected	0	0	1	0
 strânse	close	0	0	1	0
 strânse	gathered	0	0	1	0
 importanței	the importance	0	0	1	0
 nirvana	nirvana	0	0	1	1
-trei	three	0	0	1	1
+lirice	lyric	0	0	1	0
+lirice	lyrical	0	0	1	0
 instrucțiuni	instructions	0	0	1	0
 tren	train	0	0	1	1
 propus	proposed	0	0	1	0
@@ -463,7 +444,6 @@ spectrul	the spectrum	0	0	1	0
 bogat	rich	0	0	1	1
 bogat	wealthy	0	0	1	1
 însoțit	accompanied	0	0	1	0
-însoțit	joined	0	0	1	0
 determina	determins	0	0	1	0
 determina	to determine	0	0	1	0
 determina	determine	0	0	1	1
@@ -508,7 +488,6 @@ vârful	peak	0	0	1	0
 prin	through	0	0	1	1
 iarnă	winter	0	0	1	1
 biserici	churches	0	0	1	0
-deschisă	open	0	0	1	0
 deschisă	opened	0	0	1	0
 deschisă	closed	0	0	1	0
 adhoc	ad-hoc	0	0	1	0
@@ -521,7 +500,6 @@ insecte	insects	0	0	1	0
 orleans	orleans	0	0	1	0
 atestă	attest	0	0	1	0
 atestă	certify	0	0	1	0
-atestă	verify	0	0	1	0
 doilea	second	0	0	1	1
 sferturi	quarters	0	0	1	0
 vigoare	strength or vigor	0	0	1	0
@@ -548,7 +526,6 @@ grație	grace	0	0	1	0
 roluri	parts	0	0	1	0
 roluri	roles	0	0	1	0
 grădinița	kindergarten	0	0	1	0
-grădinița	kindergarden	0	0	1	0
 înscris	enrolled	0	0	1	0
 susținerea	support	0	0	1	0
 susținerea	sustinerea	0	0	1	0
@@ -577,7 +554,6 @@ predomină	prevail	0	0	1	0
 henric	henric	0	0	1	0
 conduse	led	0	0	1	0
 jocuri	games	0	0	1	0
-fost	has been	0	0	1	0
 fost	was	0	0	1	0
 fost	former	0	0	1	1
 uscată	dry	0	0	1	0
@@ -598,8 +574,9 @@ televiziune	television	0	0	1	1
 prada	prey	0	0	1	0
 prada	spoils	0	0	1	0
 prada	spoil	0	0	1	0
-televiziuni	tv	0	0	1	0
-televiziuni	televisions	0	0	1	0
+formarea	forming	0	0	1	0
+formarea	the forming	0	0	1	0
+formarea	the formation	0	0	1	0
 resursele	resources	0	0	1	0
 orientului	east	0	0	1	0
 orientului	orient	0	0	1	0
@@ -607,7 +584,6 @@ festivalului	festival	0	0	1	0
 natura	nature	0	0	1	0
 fiii	sons	0	0	1	0
 păcate	unfortunatelly	0	0	1	0
-păcate	sins	0	0	1	0
 păcate	unfortunately	0	0	1	0
 principală	main	0	0	1	0
 principală	principal	0	0	1	0
@@ -618,7 +594,7 @@ carbon	carbon	0	0	1	1
 accident	accident	0	0	1	1
 genul	genre	0	0	1	0
 genul	tipe	0	0	1	0
-asachi	asachi	0	0	1	0
+sparta	sparta	0	0	1	0
 macedonia	macedonia	0	0	1	0
 putem	we can	0	0	1	0
 putem	can	0	0	1	0
@@ -627,7 +603,6 @@ crimeea	crimea	0	0	1	0
 crimeea	crimea (place)	0	0	1	0
 crimeea	crimeea	0	0	1	0
 putea	could	0	0	1	0
-putea	to can	0	0	1	0
 putea	can	0	0	1	1
 china	china	0	0	1	0
 forțe	forte	0	0	1	0
@@ -665,15 +640,12 @@ zice	says. in context	0	0	1	0
 zice	'zice' would be 'it is said'	0	0	1	0
 aprovizionarea	supply	0	0	1	0
 aprovizionarea	supplyment	0	0	1	0
-arheologice	archaeological	0	0	1	0
-arheologice	archaeologist	0	0	1	0
-arheologice	archeological	0	0	1	0
 afirmarea	the confirmation	0	0	1	0
 afirmarea	afirmation	0	0	1	0
 afirmarea	statement	0	0	1	0
 obțină	find or obtain	0	0	1	0
-obțină	obtain	0	0	1	0
 obțină	gain	0	0	1	0
+obțină	obtain	0	0	1	0
 dreaptă	right	0	0	1	0
 athos	athos	0	0	1	0
 dave	dave	0	0	1	0
@@ -685,7 +657,6 @@ propriuzisă	properly	0	0	1	0
 propriuzisă	actual	0	0	1	0
 alege	chose	0	0	1	0
 alege	select	0	0	1	1
-alege	choose	0	0	1	1
 călinescu	calinescu	0	0	1	0
 șincai	sincai	0	0	1	0
 șincai	name	0	0	1	0
@@ -698,7 +669,6 @@ geomorfologie	commission	1	0	1	0
 geomorfologie	geomorphology	1	1	0	0
 slobozia	slobozia	0	0	1	0
 dumnezeul	god	0	0	1	0
-dumnezeul	the god	0	0	1	0
 iarna	winter	0	0	1	0
 discuțiile	discussions	0	0	1	0
 discuțiile	discutions	0	0	1	0
@@ -723,7 +693,6 @@ localități	cities	0	0	1	0
 câmpii	plains	0	0	1	0
 câmpii	camps	0	0	1	0
 celor	the	0	0	1	0
-celor	of the	0	0	1	0
 celor	those	0	0	1	0
 australia	australia	0	0	1	0
 cantacuzino	name	0	0	1	0
@@ -740,7 +709,6 @@ câmpie	plain	0	0	1	1
 câmpie	hill	0	0	1	0
 introduse	introduced	0	0	1	0
 deosebi	distinguish	0	0	1	1
-deosebi	especially	0	0	1	0
 principali	main	0	0	1	0
 memorial	memorial	0	0	1	1
 climatice	climate	0	0	1	0
@@ -763,7 +731,6 @@ memoria	the memory	0	0	1	0
 memoria	in memory of	0	0	1	0
 memoria	memory	0	0	1	0
 permit	allows	0	0	1	0
-permit	allow	0	0	1	0
 josef	josef	0	0	1	0
 memorii	memories	0	0	1	1
 memorii	memoirs	0	0	1	0
@@ -780,8 +747,6 @@ fără	without	0	0	1	1
 provenind	coming from	0	0	1	0
 provenind	from	0	0	1	0
 produse	products	0	0	1	0
-semnificație	meaning	0	0	1	0
-semnificație	semnification	0	0	1	0
 semnificație	significance	0	0	1	0
 victime	victims	0	0	1	0
 condusă	driven	0	0	1	0
@@ -813,13 +778,12 @@ iordănescu	iordanescu	0	0	1	0
 mesajului	post	0	0	1	0
 mesajului	appeal	0	0	1	0
 mesajului	message	0	0	1	0
-malta	malta	0	0	1	0
+gustave	gustave	0	0	1	0
 animalelor	animals	0	0	1	0
 disting	distinguish	0	0	1	0
 disting	distinguished	0	0	1	0
 transnistria	transnistria	0	0	1	0
 iubit	loved	0	0	1	1
-iubit	lover	0	0	1	1
 muntoase	mountain	0	0	1	0
 muntoase	mountainous	0	0	1	0
 han	inn	0	0	1	1
@@ -831,8 +795,6 @@ depozite	deposits	0	0	1	0
 ficțiune	fiction	0	0	1	0
 east	east	0	0	1	0
 arată	show	0	0	1	0
-arată	is like	0	0	1	0
-arată	shows	0	0	1	0
 focșani	focsani	0	0	1	0
 municipal	municipal	0	0	1	1
 osman	osman	0	0	1	0
@@ -852,7 +814,7 @@ obligația	obligation	0	0	1	0
 romanilor	romans	0	0	1	0
 romanilor	romanian	0	0	1	0
 romanilor	roumanians	0	0	1	0
-individuale	individual	0	0	1	0
+d	short for domnul (mr.)	0	0	1	0
 specia	species	0	0	1	0
 căsătorește	married	0	0	1	0
 căsătorește	marries	0	0	1	0
@@ -888,9 +850,7 @@ bazată	based	0	0	1	0
 billboard	billboard	0	0	1	0
 mesajul	the message	0	0	1	0
 teritoriilor	teritories	0	0	1	0
-teritoriilor	territories	0	0	1	0
 conexiuni	connections	0	0	1	0
-conexiuni	conections	0	0	1	0
 marmură	marble	0	0	1	1
 for	for	0	0	1	0
 moduri	ways	0	0	1	0
@@ -917,7 +877,6 @@ odinioară	once	0	0	1	1
 post	post	0	0	1	1
 post	station	0	0	1	1
 emite	release	0	0	1	1
-emite	issue	0	0	1	1
 emite	emits	0	0	1	0
 eduard	eduard	0	0	1	0
 articolele	articles	0	0	1	0
@@ -931,7 +890,6 @@ actualul	present	0	0	1	0
 modernă	modern	0	0	1	0
 sensibil	sensitive	0	0	1	1
 filipine	philippines	0	0	1	0
-filipine	philippine	0	0	1	0
 o	a	0	0	1	1
 o	an	0	0	1	1
 cunoscuți	known	0	0	1	0
@@ -975,15 +933,14 @@ dacilor	dacian`s	0	0	1	0
 crescut	grown	0	0	1	1
 crescut	raised	0	0	1	0
 crescut	increased	0	0	1	0
-verde	green	0	0	1	1
 verde	lush	0	0	1	0
+verde	green	0	0	1	1
 națiunilor	nations	0	0	1	0
 națiunilor	nation	0	0	1	0
 asociației	asciation	0	0	1	0
 asociației	association	0	0	1	0
 asociației	the association	0	0	1	0
 azi	today	0	0	1	1
-cuvintele	the words	0	0	1	0
 cuvintele	words	0	0	1	0
 sfinții	saints	0	0	1	0
 tinerii	youth	0	0	1	0
@@ -1023,7 +980,6 @@ sunetului	sound	0	0	1	0
 sunetului	the sounds	0	0	1	0
 sunetului	tone	0	0	1	0
 islamul	islam	0	0	1	0
-codreanu	codreanu	0	0	1	0
 codreanu	this one is the name of a person	0	0	1	0
 eventual	eventually	0	0	1	1
 eventual	possible	0	0	1	1
@@ -1033,7 +989,8 @@ actor	performer	0	0	1	1
 actor	actor	0	0	1	1
 realizări	achievements	0	0	1	0
 pictori	painters	0	0	1	0
-pozitive	positive	0	0	1	0
+reîntors	came back	0	0	1	0
+reîntors	returned	0	0	1	0
 unele	some	0	0	1	1
 vizibil	visible	0	0	1	1
 tricolorul	tricolour	0	0	1	0
@@ -1063,7 +1020,6 @@ time	time	0	0	1	0
 închis	close	0	0	1	1
 închis	closed	0	0	1	0
 naziste	nazi	0	0	1	0
-naziste	a regional power	0	0	1	0
 modificări	changes	0	0	1	0
 plecare	departure	0	0	1	1
 plecare	leaving	0	0	1	0
@@ -1103,8 +1059,8 @@ dolari	dolars	0	0	1	0
 spațiile	the spaces	0	0	1	0
 spațiile	spaces	0	0	1	0
 austroungariei	austro-hungary	0	0	1	0
-austroungariei	austria-hungary	0	0	1	0
 austroungariei	austro hungary`s	0	0	1	0
+austroungariei	austria-hungary	0	0	1	0
 ferată	railway	0	0	1	0
 primministru	prime minister	0	0	1	0
 primministru	prime-minister	0	0	1	0
@@ -1191,7 +1147,6 @@ proveni	comes from	0	0	1	0
 învecinează	next to	0	0	1	0
 învecinează	adjoins	0	0	1	0
 porți	gate - gates	0	0	1	0
-porți	gates	0	0	1	0
 albanezi	albanian	0	0	1	0
 albanezi	albanians	0	0	1	0
 localizat	located	0	0	1	0
@@ -1221,8 +1176,8 @@ aminti	recall	0	0	1	1
 aminti	remind	0	0	1	1
 filme	movies	0	0	1	0
 filme	movie	0	0	1	0
-arătând	the point of	0	0	1	0
 arătând	showing	0	0	1	0
+arătând	the point of	0	0	1	0
 punctul	point	0	0	1	0
 ovidiu	ovidiu	0	0	1	0
 râurilor	rivers'	0	0	1	0
@@ -1232,7 +1187,7 @@ sonoră	soundtrack	0	0	1	0
 cântăreț	singer	0	0	1	0
 țării	country	0	0	1	0
 țării	to the country	0	0	1	0
-altceva	something else	0	0	1	1
+altceva	something else	0	0	1	0
 titlu	titles	0	0	1	0
 titlu	title	0	0	1	1
 israel	the country of	0	0	1	0
@@ -1272,6 +1227,8 @@ stabilească	to move on	0	0	1	0
 întemeierea	foundation	0	0	1	0
 apărare	defence	0	0	1	1
 apărare	defense	0	0	1	0
+hotărât	decided	0	0	1	1
+hotărât	plump	0	0	1	0
 feluri	ways	0	0	1	0
 părea	seems	0	0	1	0
 părea	seemed	0	0	1	0
@@ -1306,7 +1263,6 @@ administrativ	administrative	0	0	1	1
 administrativ	administratively	0	0	1	0
 bacteriilor	bacteria	0	0	1	0
 natural	natural	0	0	1	1
-ocuparea	the ocupation	0	0	1	0
 ocuparea	occupancy	0	0	1	0
 ocuparea	occupation	0	0	1	0
 ss	ss	0	0	1	0
@@ -1372,7 +1328,6 @@ modificată	adapted	0	0	1	0
 modificată	modified	0	0	1	0
 întreaga	the whole	0	0	1	0
 întreaga	whole	0	0	1	0
-întreaga	entire	0	0	1	0
 singure	single	0	0	1	0
 singure	sure	0	0	1	0
 singure	one	0	0	1	0
@@ -1412,7 +1367,6 @@ atmosferei	of the atmosphere	0	0	1	0
 porțiune	portion	0	0	1	0
 porțiune	part	0	0	1	0
 porțiune	a portion	0	0	1	0
-moldoveni	molovians	0	0	1	0
 moldoveni	moldavians	0	0	1	0
 moldoveni	moldovan	0	0	1	0
 navele	the ships	0	0	1	0
@@ -1439,7 +1393,6 @@ expediția	the expedition	0	0	1	0
 expediția	expedition	0	0	1	0
 sudice	southern	0	0	1	0
 sudice	south	0	0	1	0
-expediție	trip	0	0	1	0
 expediție	expedition	0	0	1	0
 notă	note	0	0	1	1
 notă	mark	0	0	1	1
@@ -1449,13 +1402,10 @@ obținut	got	0	0	1	0
 obținut	achieved	0	0	1	0
 chimiei	chemistry	0	0	1	0
 chimiei	to chemistry	0	0	1	0
-chimiei	chemestry	0	0	1	0
 tătarilor	tatars	0	0	1	0
 pune	put	0	0	1	1
 pune	set up	0	0	1	0
-pune	(to) put	0	0	1	0
 grupul	the group	0	0	1	0
-grupul	group	0	0	1	0
 pentru	for	0	0	1	1
 mușchi	muscle	0	0	1	0
 punk	punk	0	0	1	0
@@ -1512,7 +1462,6 @@ antic	antique	0	0	1	1
 antic	ancient	0	0	1	1
 antim	antim	0	0	1	0
 schimbul	the change	0	0	1	0
-schimbul	change	0	0	1	0
 schimbul	exchange	0	0	1	0
 poemul	poem	0	0	1	0
 reprezintă	represents	0	0	1	0
@@ -1558,7 +1507,6 @@ sat	village	0	0	1	1
 bucureștii	bucharest	0	0	1	0
 bucureștii	bucharest people	0	0	1	0
 câștigă	win	0	0	1	0
-câștigă	earn	0	0	1	0
 popoare	folks	0	0	1	0
 popoare	nations	0	0	1	0
 popoare	peoples	0	0	1	0
@@ -1578,7 +1526,6 @@ molecule	molecules	0	0	1	0
 întocmit	just so	0	0	1	0
 întocmit	written down	0	0	1	0
 întocmit	prepared	0	0	1	0
-piramide	pyramid	0	0	1	0
 piramide	pyramids	0	0	1	0
 abur	vapor	0	0	1	1
 abur	steam	0	0	1	1
@@ -1628,8 +1575,6 @@ categorielaureați	category winners	0	0	1	0
 prietenului	mate	0	0	1	0
 prietenului	friend	0	0	1	0
 întâmplare	story	0	0	1	0
-întâmplare	event	0	0	1	1
-întâmplare	happening	0	0	1	1
 imaginea	image	0	0	1	0
 imaginea	the image	0	0	1	0
 mincu	mincu	0	0	1	0
@@ -1642,16 +1587,13 @@ timpuriu	early	0	0	1	1
 timpuriu	untimely	0	0	1	1
 activ	active	0	0	1	1
 biblioteca	library	0	0	1	0
-necesitatea	require	0	0	1	0
 necesitatea	the necessity	0	0	1	0
-necesitatea	necessity	0	0	1	0
 focuri	fires	0	0	1	0
 observă	observe	0	0	1	0
 observă	observ	0	0	1	0
 observă	observes	0	0	1	0
 timpurie	early	0	0	1	0
 român	romanian	0	0	1	1
-dispute	dispiuts	0	0	1	0
 dispute	dispute	0	0	1	0
 grafice	graphic	0	0	1	0
 grafice	grafics	0	0	1	0
@@ -1691,7 +1633,6 @@ minimă	minimum	0	0	1	0
 minimă	minimal	0	0	1	0
 prima	the first	0	0	1	0
 prima	first	0	0	1	0
-afluenți	tributaries	0	0	1	0
 afluenți	affluents	0	0	1	0
 afluenți	affluent	0	0	1	0
 artist	artist	0	0	1	1
@@ -1726,7 +1667,6 @@ tronsonul	section	0	0	1	0
 tronsonul	the section	0	0	1	0
 câți	how	0	0	1	0
 câți	(how) many	0	0	1	0
-câți	the word does not have any meaning on its own. only together with "erau" meaning "wich were"	0	0	1	0
 mărește	mareste	0	0	1	0
 mărește	grows	0	0	1	0
 mărește	increses	0	0	1	0
@@ -1735,7 +1675,6 @@ proiectul	project	0	0	1	0
 us	us	0	0	1	0
 înfățișarea	appearance	0	0	1	0
 înfățișarea	looks	0	0	1	0
-înfățișarea	look	0	0	1	0
 domnitori	ruler	0	0	1	0
 domnitori	sovereigns	0	0	1	0
 domnitori	rulers	0	0	1	0
@@ -1744,7 +1683,6 @@ legale	legal	0	0	1	0
 interpretare	performance	0	0	1	1
 interpretare	interpretation	0	0	1	1
 datorată	due	0	0	1	0
-datorată	the first letter of a word	0	0	1	0
 restrânsă	small	0	0	1	0
 restrânsă	restricted	0	0	1	0
 vezi	see	0	0	1	0
@@ -1768,8 +1706,6 @@ prezentate	presented	0	0	1	0
 fiu	son	0	0	1	1
 deosebite	special	0	0	1	0
 s	south	0	0	1	0
-cetatea	city	0	0	1	0
-cetatea	fortress	0	0	1	0
 cetatea	the citadel	0	0	1	0
 adunarea	the meeting	0	0	1	0
 adunarea	assembly	0	0	1	0
@@ -1824,7 +1760,6 @@ observa	observ	0	0	1	0
 dispută	dispute	0	0	1	1
 mihail	mihail	0	0	1	0
 obligatorie	mandatory	0	0	1	0
-mangan	a resource	0	0	1	0
 mangan	manganese	0	0	1	1
 dinte	teeth or tooth	1	0	1	0
 dinte	tooth ot teeth	1	0	1	0
@@ -1838,20 +1773,17 @@ legile	laws	0	0	1	0
 voldemort	voldemort	0	0	1	0
 coboară	down	0	0	1	0
 coboară	descending	0	0	1	0
-coboară	descend	0	0	1	0
 gheorghiu	gheorghiu	0	0	1	0
 gheorghiu	name	0	0	1	0
 traficului	traffic	0	0	1	0
 traficului	the traffic	0	0	1	0
 prezentată	presented	0	0	1	0
 iva	4 (number in roman numerals)	0	0	1	0
-iva	fourth	0	0	1	0
 exclusiv	exclusive	0	0	1	1
 exclusiv	only	0	0	1	1
 deosebită	great	0	0	1	0
 deosebită	special	0	0	1	0
 ciobanu	ciobanu (family name)	0	0	1	0
-ciobanu	shepherd	0	0	1	0
 ciobanu	ciobanu	0	0	1	0
 controversată	controversial	0	0	1	0
 blaj	blaj	0	0	1	0
@@ -1869,20 +1801,18 @@ aldehidă	aledhida	1	1	0	0
 aldehidă	formaldehyde	1	0	1	0
 aldehidă	aldehyde	1	1	0	1
 îndoială	doubt	0	0	1	1
-ochilor	eye's	0	0	1	0
-ochilor	eyes	0	0	1	0
+sicilia	sicilia	0	0	1	0
+sicilia	sicily	0	0	1	0
+sicilia	italy	0	0	1	0
 comerțului	commerce	0	0	1	0
-comerțului	marketing	0	0	1	0
 ultimul	last	0	0	1	1
-ultimul	the last	0	0	1	1
-spune	say	0	0	1	1
+ultimul	the last	0	0	1	0
 spune	says	0	0	1	0
 wilhelm	willhelm	0	0	1	0
 wilhelm	wilhelm	0	0	1	0
 concentrată	concentrated	0	0	1	0
 otto	otto	0	0	1	0
 împiedicat	prevented	0	0	1	0
-împiedicat	hindered	0	0	1	0
 împiedicat	stopped	0	0	1	0
 putin	less	0	0	1	0
 putin	the least	0	0	1	0
@@ -1897,8 +1827,7 @@ milioane	millions	0	0	1	0
 proclamarea	proclamation	0	0	1	0
 cullen	cullen	0	0	1	0
 golescu	golescu	0	0	1	0
-cafea	coffee	0	0	1	1
-cafea	coffe	0	0	1	0
+senator	senator	0	0	1	1
 extern	external	0	0	1	1
 restrânse	small	0	0	1	0
 restrânse	shrunk	0	0	1	0
@@ -1912,7 +1841,8 @@ materie	domain	0	0	1	1
 materie	material	0	0	1	1
 materie	object	0	0	1	0
 geniu	genius	0	0	1	1
-drapele	flags	0	0	1	0
+diviziuni	regions	0	0	1	0
+diviziuni	divisions	0	0	1	0
 zăpadă	snow	0	0	1	1
 arhitectural	architectural	0	0	1	1
 pacient	patient	0	0	1	1
@@ -1936,8 +1866,7 @@ hades	hades	0	0	1	0
 începuse	began	0	0	1	0
 începuse	was starting	0	0	1	0
 împrumutate	borrowed	0	0	1	0
-tare	very	0	0	1	0
-tare	hard	0	0	1	1
+actori	actors	0	0	1	0
 legiunii	legion	0	0	1	0
 legiunii	legions	0	0	1	0
 bazinului	basin	0	0	1	0
@@ -1976,8 +1905,8 @@ imensă	large	0	0	1	0
 imensă	huge	0	0	1	0
 imensă	immense	0	0	1	0
 regii	kings	0	0	1	0
-regii	directors	0	0	1	0
-world	earth	0	0	1	0
+catolicismul	the catholicism	0	0	1	0
+catolicismul	catholicism	0	0	1	0
 spectacol	show	0	0	1	1
 regia	administration	0	0	1	0
 suma	sum	0	0	1	0
@@ -2008,7 +1937,6 @@ chemat	changed	0	0	1	0
 chemat	called	0	0	1	0
 unsprezece	eleven	0	0	1	1
 tvr	romanian tv	0	0	1	0
-tvr	romanian television	0	0	1	0
 tvr	tvr	0	0	1	0
 săracă	poor	0	0	1	0
 legăturile	ties	0	0	1	0
@@ -2070,7 +1998,6 @@ asiatică	asian	0	0	1	0
 radiație	radiation	0	0	1	0
 inventarea	invention	0	0	1	0
 stone	stone	0	0	1	0
-origine	origin	0	0	1	1
 origine	originally	0	0	1	0
 act	act	0	0	1	1
 origini	origins	0	0	1	0
@@ -2097,7 +2024,6 @@ interbelic	interwar period	0	0	1	0
 nave	ships	0	0	1	0
 luterană	lutheran	0	0	1	0
 diversele	diverse	0	0	1	0
-diversele	the various	0	0	1	0
 diversele	the diverse	0	0	1	0
 fizic	physical	0	0	1	1
 arderea	incinerating	0	0	1	0
@@ -2106,7 +2032,8 @@ elementelor	mixture	0	0	1	0
 elementelor	elements	0	0	1	0
 proză	prose	0	0	1	1
 her	ei	0	0	1	0
-vehicul	vehicle	0	0	1	1
+legătura	connection	0	0	1	0
+legătura	link	0	0	1	0
 cuantică	quantum	0	0	1	0
 hunedoara	hunedoara	0	0	1	0
 construcții	construction	0	0	1	0
@@ -2159,18 +2086,15 @@ ruse	rusians	0	0	1	0
 afrodita	afrodita	0	0	1	0
 afrodita	aphrodite	0	0	1	0
 mozaic	mosaic	0	0	1	1
-orientul	east	0	0	1	0
-orientul	orient	0	0	1	0
 stelele	the states	0	0	1	0
 stelele	stars	0	0	1	0
 stelele	the stars	0	0	1	0
-totalitate	all	0	0	1	0
-totalitate	totally	0	0	1	0
 totalitate	entirely	0	0	1	0
+totalitate	totally	0	0	1	0
 atacuri	attacks	0	0	1	0
 atacuri	sheatfish	0	0	1	0
 atacuri	atacks	0	0	1	0
-începutul	beginning	0	0	1	0
+gone	gone	0	0	1	0
 ac	ac	0	0	1	0
 ac	needle	0	0	1	1
 ab	ab (coordinates)	0	0	1	0
@@ -2178,7 +2102,6 @@ ad	ad	0	0	1	0
 creat	made	0	0	1	1
 creat	created	0	0	1	0
 ai	of	0	0	1	0
-ai	of the	0	0	1	0
 înregistrate	which was registered	0	0	1	0
 înregistrate	registered	0	0	1	0
 înregistrate	recorded	0	0	1	0
@@ -2201,9 +2124,7 @@ federale	federal	0	0	1	0
 bistrița	bistrița	0	0	1	0
 bistrița	bistrita	0	0	1	0
 categoriedecese	category deaths	0	0	1	0
-inițiată	started	0	0	1	0
 inițiată	initiated	0	0	1	0
-pericolul	the risk	0	0	1	0
 pericolul	danger	0	0	1	0
 uninominale	uninominal	0	0	1	0
 produși	produced	0	0	1	0
@@ -2251,7 +2172,6 @@ respectarea	compliance	0	0	1	0
 mass	mass	0	0	1	0
 adam	name	0	0	1	0
 adam	adam	0	0	1	0
-obținute	gained	0	0	1	0
 obținute	obtained	0	0	1	0
 dinainte	beforehand	0	0	1	1
 dinainte	before	0	0	1	0
@@ -2324,6 +2244,7 @@ revoluționari	protestants	0	0	1	0
 revoluționari	revolutionaries	0	0	1	0
 revoluționare	revolutionary	0	0	1	0
 largi	wide	0	0	1	0
+ora	hour	0	0	1	0
 îmbunătățit	improved	0	0	1	0
 îmbunătățit	got better	0	0	1	0
 văd	see	0	0	1	0
@@ -2358,10 +2279,8 @@ spaniola	spanish	0	0	1	0
 spaniole	spanish	0	0	1	0
 contrast	contrast	0	0	1	1
 înlocuit	changed	0	0	1	0
-înlocuit	replaced	0	0	1	0
 respectivă	that	0	0	1	0
 răsărit	east	0	0	1	1
-răsărit	rises	0	0	1	0
 arhiepiscop	archbishop	0	0	1	1
 privat	private	0	0	1	1
 apără	defends	0	0	1	0
@@ -2369,10 +2288,8 @@ apără	protect	0	0	1	0
 apără	appear	0	0	1	0
 turul	tour	0	0	1	0
 turul	round	0	0	1	0
-precipitațiile	precipitation	0	0	1	0
 precipitațiile	precipitations	0	0	1	0
 influența	influence	0	0	1	0
-influențe	influential	0	0	1	0
 influențe	influence	0	0	1	0
 influențe	influences	0	0	1	0
 răspândire	spreading	0	0	1	1
@@ -2383,8 +2300,8 @@ dispare	dissapear	0	0	1	0
 dispare	disappear	0	0	1	0
 periodic	periodic	0	0	1	1
 periodic	periodically	0	0	1	1
-social	social	0	0	1	1
-raza	range	0	0	1	0
+monumentelor	monuments	0	0	1	0
+cristea	cristea	0	0	1	0
 raze	rays	0	0	1	0
 rânduri	lines	0	0	1	0
 rânduri	times	0	0	1	0
@@ -2433,7 +2350,6 @@ triunghiul	the triangle	0	0	1	0
 videoclip	video	0	0	1	0
 afle	be	0	0	1	0
 afle	hear	0	0	1	0
-afle	to find out	0	0	1	0
 nobilimii	nobility	0	0	1	0
 fundalul	the background	0	0	1	0
 fundalul	background	0	0	1	0
@@ -2459,7 +2375,6 @@ influență	influence	0	0	1	0
 pornește	starts	0	0	1	0
 pornește	start	0	0	1	0
 răspândirea	spreading	0	0	1	0
-răspândirea	spread	0	0	1	0
 limitate	limited	0	0	1	0
 uzina	plant	0	0	1	0
 uzina	factory	0	0	1	0
@@ -2468,7 +2383,6 @@ masculii	male	0	0	1	0
 masculii	the males	0	0	1	0
 masculin	male	0	0	1	1
 masculin	masculin	0	0	1	0
-rază	range	0	0	1	0
 rază	radius	0	0	1	1
 nordvest	northwest	0	0	1	0
 pământului	earth	0	0	1	0
@@ -2513,7 +2427,6 @@ amestec	mixture	0	0	1	1
 amestec	blend	0	0	1	1
 școlar	school	0	0	1	0
 școlar	student	0	0	1	0
-școlar	school inspector	0	0	1	0
 astfel	so	0	0	1	1
 astfel	thereby	0	0	1	1
 descrierea	description	0	0	1	0
@@ -2533,7 +2446,6 @@ băieții	boys	0	0	1	0
 pann	pann	0	0	1	0
 termen	term	0	0	1	1
 filip	filip (person's name)	0	0	1	0
-filip	filip	0	0	1	0
 pânză	linen	0	0	1	1
 pânză	canvas	0	0	1	0
 trăiește	lives	0	0	1	0
@@ -2544,8 +2456,6 @@ isaac	isaac	0	0	1	0
 învinge	win	0	0	1	1
 învinge	defeat	0	0	1	1
 comune	communities	0	0	1	0
-comune	communes	0	0	1	0
-comune	common	0	0	1	0
 comuna	village	0	0	1	0
 imperiu	empire	0	0	1	1
 tată	dad	0	0	1	0
@@ -2557,7 +2467,6 @@ urmate	followed	0	0	1	0
 urmate	next	0	0	1	0
 epoca	age	0	0	1	0
 epoca	era	0	0	1	0
-epoca	time	0	0	1	0
 numeau	named	0	0	1	0
 cugetarea	thinking	0	0	1	0
 temă	theme	0	0	1	1
@@ -2599,7 +2508,6 @@ urmașii	descendants	0	0	1	0
 constituită	constitute	0	0	1	0
 constituită	established	0	0	1	0
 constituită	constitution	0	0	1	0
-înaintea	preceding	0	0	1	0
 înaintea	before	0	0	1	0
 întregul	the whole	0	0	1	0
 întregul	all	0	0	1	0
@@ -2608,7 +2516,6 @@ scrisoare	letter	0	0	1	1
 imagine	image	0	0	1	1
 pierdute	lost	0	0	1	0
 științe	sciences	0	0	1	0
-științe	science	0	0	1	0
 imagini	images	0	0	1	0
 acord	grants	0	0	1	0
 acord	agreement	0	0	1	1
@@ -2622,9 +2529,9 @@ monografia	monograph	0	0	1	0
 monografie	monograph	0	0	1	1
 monografie	large volume of writing	0	0	1	0
 diaspora	diaspora	0	0	1	0
-vremii	times	0	0	1	0
-vremii	weather`s	0	0	1	0
 vremii	time	0	0	1	0
+vremii	weather`s	0	0	1	0
+vremii	times	0	0	1	0
 xii	twelve	0	0	1	0
 testament	testament	0	0	1	1
 cetățean	citizen	0	0	1	0
@@ -2683,7 +2590,6 @@ grigorescu	grigorescu (person's name)	0	0	1	0
 urmată	followed	0	0	1	0
 organele	organs	0	0	1	0
 ocupând	occupying	0	0	1	0
-ocupând	ocupying	0	0	1	0
 conducători	rulers	0	0	1	0
 lipsesc	missing	0	0	1	0
 zeus	zeus	0	0	1	0
@@ -2696,7 +2602,6 @@ parlamentar	congressman	0	0	1	1
 învăța	learn	0	0	1	0
 zeul	god	0	0	1	0
 obama	obama	0	0	1	0
-vacanța	the vacation	0	0	1	0
 vacanța	the holiday	0	0	1	0
 sezon	season	0	0	1	1
 spirituală	spiritual	0	0	1	0
@@ -2713,7 +2618,6 @@ făcută	made	0	0	1	0
 făcută	done	0	0	1	0
 actului	document	0	0	1	0
 actului	act	0	0	1	0
-compus	composed of	0	0	1	0
 compus	formed	0	0	1	0
 compus	made	0	0	1	0
 cercetători	researchers	0	0	1	0
@@ -2750,7 +2654,6 @@ astronomia	astronomy	0	0	1	0
 astronomic	astronomical	0	0	1	1
 astronomic	astronomic	0	0	1	1
 iubirea	love	0	0	1	0
-iubirea	beloved	0	0	1	0
 geschichte	history	0	0	1	0
 știință	science	0	0	1	0
 pierdută	lost	0	0	1	0
@@ -2776,8 +2679,9 @@ companiile	companies	0	0	1	0
 companiile	campaign	0	0	1	0
 rădăcinile	the roots	0	0	1	0
 rădăcinile	roots	0	0	1	0
-slabe	weak	0	0	1	0
-cealaltă	the other	0	0	1	1
+firma	firm	0	0	1	0
+firma	company	0	0	1	0
+cealaltă	the other	0	0	1	0
 cealaltă	other	0	0	1	1
 artistic	artistic	0	0	1	1
 anton	anton	0	0	1	0
@@ -2789,7 +2693,6 @@ artei	art	0	0	1	0
 artei	the art	0	0	1	0
 microsoft	microsoft	0	0	1	0
 diamante	diamonds	0	0	1	0
-formată	consists	0	0	1	0
 formată	formed	0	0	1	0
 generație	generation	0	0	1	0
 piciorul	foot	0	0	1	0
@@ -2824,8 +2727,7 @@ poziției	position	0	0	1	0
 grecii	greeks	0	0	1	0
 grecii	the greeks	0	0	1	0
 grecii	greek	0	0	1	0
-lirice	lyric	0	0	1	0
-lirice	lyrical	0	0	1	0
+trei	three	0	0	1	1
 mercur	mercury	0	0	1	1
 parțial	partial	0	0	1	0
 parțial	partly	0	0	1	0
@@ -2848,16 +2750,14 @@ simț	feel	0	0	1	0
 simț	the sense of	0	0	1	0
 bellei	bellei	0	0	1	0
 bellei	bella	0	0	1	0
-incapacitatea	inability	0	0	1	0
-incapacitatea	incapacity	0	0	1	0
+treimi	thirds	0	0	1	0
+treimi	third	0	0	1	0
 violent	violent	0	0	1	1
 prezență	present	0	0	1	0
 prezență	presence	0	0	1	0
 acum	now	0	0	1	1
-tătarii	mongols	0	0	1	0
 tătarii	tatars	0	0	1	0
 naziști	nazi	0	0	1	0
-naziști	nazzis	0	0	1	0
 naziști	nazis	0	0	1	0
 otomană	ottoman	0	0	1	0
 otomană	turkish	0	0	1	0
@@ -2872,7 +2772,6 @@ creator	creator	0	0	1	1
 creator	artist	0	0	1	0
 datele	dates	0	0	1	0
 datele	the data	0	0	1	0
-datele	data	0	0	1	0
 primite	recieved	0	0	1	0
 primite	received	0	0	1	0
 sarcină	task	0	0	1	1
@@ -2888,21 +2787,18 @@ femeia	women	0	0	1	0
 religiilor	religions	0	0	1	0
 ritm	rhythm	0	0	1	1
 particulelor	particles	0	0	1	0
-legendele	stories	0	0	1	0
 legendele	legends	0	0	1	0
 alcool	alcohol	0	0	1	1
 râului	of the river	0	0	1	0
 râului	river	0	0	1	0
 râului	the river	0	0	1	0
 europe	europe	0	0	1	0
-elementul	item	0	0	1	0
 elementul	the element	0	0	1	0
 elementul	element	0	0	1	0
 europa	europe	0	0	1	0
 poduri	bridges	0	0	1	0
 conceptul	concept	0	0	1	0
 conceptul	the concept	0	0	1	0
-valabil	available	0	0	1	1
 valabil	valid	0	0	1	1
 incident	incident	0	0	1	1
 death	moarte	0	0	1	0
@@ -2912,7 +2808,6 @@ practicile	the practices	0	0	1	0
 practicile	practices	0	0	1	0
 caractere	characters	0	0	1	0
 pdl	pd-l	0	0	1	0
-pdl	short for "democrat liberal party"	0	0	1	0
 polul	pole	0	0	1	0
 polul	pole (north	0	0	1	0
 polul	the pole	0	0	1	0
@@ -2927,9 +2822,7 @@ atacă	atack	0	0	1	0
 atacă	offensive	0	0	1	0
 episod	episode	0	0	1	1
 celebre	famous	0	0	1	0
-celebre	faimos	0	0	1	0
 aflată	situated	0	0	1	0
-manieră	a way	0	0	1	0
 manieră	manner	0	0	1	1
 celebri	famous	0	0	1	0
 alcooli	alcohols	0	0	1	0
@@ -2941,7 +2834,6 @@ leon	leon	0	0	1	0
 etnografie	ethnographic	0	0	1	0
 etnografie	ethnography	0	0	1	1
 celebru	famous	0	0	1	1
-prezența	presence of	0	0	1	0
 prezența	presence	0	0	1	0
 otomane	ottoman	0	0	1	0
 otomane	otomans	0	0	1	0
@@ -2968,15 +2860,14 @@ penisul	the penis	0	0	1	0
 fund	ass	0	0	1	0
 fund	but	0	0	1	0
 fund	bottom	0	0	1	1
-imperiale	empirial	0	0	1	0
 imperiale	imperial	0	0	1	0
+imperiale	empirial	0	0	1	0
 ionesco	ionesco	0	0	1	0
 ionesco	name	0	0	1	0
 ionesco	ioneco	0	0	1	0
 formate	formed	0	0	1	0
 formate	consisting	0	0	1	0
 canalul	canal	0	0	1	0
-canalul	channel	0	0	1	0
 durat	duration	0	0	1	0
 durat	took	0	0	1	0
 stadiu	stage	0	0	1	1
@@ -3013,7 +2904,6 @@ descrieri	descriptions	0	0	1	0
 descrieri	description	0	0	1	0
 descriere	description	0	0	1	1
 continuare	continuation	0	0	1	1
-continuare	on	0	0	1	0
 consumatori	consumers	0	0	1	0
 doar	only	0	0	1	1
 problemelor	problems	0	0	1	0
@@ -3021,7 +2911,6 @@ euro	euro	0	0	1	0
 normale	normal	0	0	1	0
 iilea	the second	0	0	1	0
 iilea	second	0	0	1	0
-iilea	iilea	0	0	1	0
 părinții	parents	0	0	1	0
 primită	received	0	0	1	0
 concrete	specific	0	0	1	0
@@ -3085,7 +2974,7 @@ implicați	involved	0	0	1	0
 granițele	boundaries	0	0	1	0
 granițele	borders	0	0	1	0
 preoții	priests	0	0	1	0
-malul	shore	0	0	1	0
+decizie	decision	0	0	1	1
 textele	texts	0	0	1	0
 textele	text	0	0	1	0
 formal	formaly	0	0	1	0
@@ -3094,11 +2983,10 @@ pregătit	prepared	0	0	1	1
 documentul	document	0	0	1	0
 continuu	continuously	0	0	1	1
 continuu	continous	0	0	1	0
-d	short for domnul (mr.)	0	0	1	0
+individuale	individual	0	0	1	0
 estimată	estimate	0	0	1	0
 estimată	estimated	0	0	1	0
 cânte	sing	0	0	1	0
-cânte	to sing	0	0	1	0
 alexandru	alexander	0	0	1	0
 cânta	sang	0	0	1	0
 cânta	song	0	0	1	0
@@ -3139,7 +3027,6 @@ aparate	machines	0	0	1	0
 soții	husbands	0	0	1	0
 soții	couple	0	0	1	0
 liceu	lyceum	0	0	1	1
-liceu	highschool	0	0	1	0
 liceu	grammar school	0	0	1	0
 religios	religious	0	0	1	1
 templu	temple	0	0	1	1
@@ -3159,8 +3046,6 @@ onoruri	honor	0	0	1	1
 onoruri	honors	0	0	1	0
 filmografie	filmography	0	0	1	0
 conformitate	compliance	0	0	1	1
-conformitate	conformity	0	0	1	1
-conformitate	agreement	0	0	1	1
 santa	saint	0	0	1	0
 santa	santa	0	0	1	0
 pedeapsă	punishment	0	0	1	1
@@ -3197,7 +3082,6 @@ piatra	piatra	0	0	1	0
 piatra	rock	0	0	1	0
 portului	harbor	0	0	1	0
 portului	port	0	0	1	0
-portului	harbour	0	0	1	0
 integral	whole	0	0	1	1
 integral	integral	0	0	1	1
 cântă	sing	0	0	1	0
@@ -3229,7 +3113,6 @@ dublu	double	0	0	1	1
 începerea	begining	0	0	1	0
 începerea	start	0	0	1	0
 portrete	portraits	0	0	1	0
-votat	vote	0	0	1	0
 votat	voted	0	0	1	0
 atras	attracted	0	0	1	0
 burghezia	bourgeoisie	0	0	1	0
@@ -3265,10 +3148,8 @@ un	a	0	0	1	1
 un	an	0	0	1	1
 exploatarea	exploitation	0	0	1	0
 exploatarea	exploit	0	0	1	0
-exploatarea	exploration	0	0	1	0
 drapelul	flag	0	0	1	0
 ue	eu	0	0	1	0
-ue	european union	0	0	1	0
 ue	eu (european union) (ue - uniunea europeana)	0	0	1	0
 sfântul	saint	0	0	1	1
 obligatoriu	mandatory	0	0	1	1
@@ -3301,7 +3182,8 @@ walkirie	walkirie	1	0	1	0
 walkirie	creation	1	0	1	0
 walkirie	walkiria	1	0	1	0
 walkirie	walkyrie	1	1	0	0
-actori	actors	0	0	1	0
+tare	very	0	0	1	0
+tare	hard	0	0	1	1
 pedeapsa	penalty	0	0	1	0
 pedeapsa	punishment	0	0	1	0
 expuse	exhibited	0	0	1	0
@@ -3349,7 +3231,6 @@ stație	station	0	0	1	0
 stații	stations	0	0	1	0
 actuală	current	0	0	1	0
 actuală	actual	0	0	1	0
-misiunea	the mission	0	0	1	0
 misiunea	mission	0	0	1	0
 young	young	0	0	1	0
 sens	meaning	0	0	1	1
@@ -3367,17 +3248,15 @@ acuzația	accusation	0	0	1	0
 acuzația	charge	0	0	1	0
 acuzația	threat	0	0	1	0
 secundar	secondary	0	0	1	1
-secretar	secretery	0	0	1	0
 secretar	secretary	0	0	1	1
-acuzații	charges	0	0	1	0
 acuzații	accusation	0	0	1	0
+acuzații	charges	0	0	1	0
 sateliți	satellites	0	0	1	0
 sateliți	satellite	0	0	1	0
 sateliți	satelites	0	0	1	0
 municipii	municipalities	0	0	1	0
 municipii	countys	0	0	1	0
 municipii	counties	0	0	1	0
-îți	i	0	0	1	0
 îți	i swear/ it took you/ only what	0	0	1	0
 îți	you	0	0	1	0
 sclavilor	the sclave's	0	0	1	0
@@ -3386,7 +3265,6 @@ avusese	they`re having	0	0	1	0
 avusese	had	0	0	1	0
 reședință	residence	0	0	1	0
 magic	magic	0	0	1	1
-magic	magical	0	0	1	1
 tipică	is typical	0	0	1	0
 tipică	typical	0	0	1	0
 eva	eva	0	0	1	0
@@ -3421,8 +3299,7 @@ victor	victor	0	0	1	0
 conține	contains	0	0	1	0
 conține	includes	0	0	1	0
 morse	morse	0	0	1	0
-firma	firm	0	0	1	0
-firma	company	0	0	1	0
+slabe	weak	0	0	1	0
 referinduse	reffering to	0	0	1	0
 referinduse	referring to	0	0	1	0
 referinduse	referring	0	0	1	0
@@ -3483,7 +3360,6 @@ căsătorit	married	0	0	1	1
 contabilitatea	the accountant	0	0	1	0
 contabilitatea	accountancy	0	0	1	0
 armele	the weapons	0	0	1	0
-londrei	london's	0	0	1	0
 londrei	london	0	0	1	0
 puțină	little	0	0	1	0
 puțină	some	0	0	1	0
@@ -3538,13 +3414,11 @@ poetul	poet	0	0	1	0
 poetul	the poet	0	0	1	0
 lemn	wood	0	0	1	1
 pregătirea	training	0	0	1	0
-pregătirea	preparing	0	0	1	0
 pregătirea	the training	0	0	1	0
 creeze	to create	0	0	1	0
 creeze	create	0	0	1	0
 creeze	obscure new slang	0	0	1	0
 regulile	rules	0	0	1	0
-procese	process	0	0	1	0
 procese	processes	0	0	1	0
 profundă	deep	0	0	1	0
 profundă	profound	0	0	1	0
@@ -3579,9 +3453,9 @@ sursa	source	0	0	1	0
 descendenți	descendents	0	0	1	0
 descendenți	descendants	0	0	1	0
 prevenirea	prevention	0	0	1	0
-tratamentului	treatment's	0	0	1	0
-tratamentului	handling	0	0	1	0
-tratamentului	treatment	0	0	1	0
+tipurile	the type of	0	0	1	0
+tipurile	tipes	0	0	1	0
+tipurile	types	0	0	1	0
 element	element	0	0	1	1
 făcute	made	0	0	1	0
 făcute	done	0	0	1	0
@@ -3612,8 +3486,8 @@ cărora	which	0	0	1	0
 zoologică	zoo	0	0	1	0
 filozofie	philosophy	0	0	1	1
 național	national	0	0	1	0
-decat	than	0	0	1	0
-decat	just	0	0	1	0
+ziare	newspaper	0	0	1	0
+ziare	newspapers	0	0	1	0
 intelectuală	intellectual	0	0	1	0
 extinderea	expansion	0	0	1	0
 extinderea	the extension	0	0	1	0
@@ -3632,8 +3506,6 @@ deschide	opens	0	0	1	0
 uciderea	murder	0	0	1	0
 uciderea	killing	0	0	1	0
 adoptă	adopts	0	0	1	0
-adoptă	to adopt	0	0	1	0
-adoptă	legitimize	0	0	1	0
 bolilor	deseases	0	0	1	0
 bolilor	diseases	0	0	1	0
 adunat	collected	0	0	1	1
@@ -3652,7 +3524,6 @@ finanțe	financial	0	0	1	0
 finanțe	finance	0	0	1	0
 merge	go	0	0	1	1
 merge	goes	0	0	1	0
-prezentare	displaying	0	0	1	0
 prezentare	presentation	0	0	1	1
 persia	persia	0	0	1	0
 deosebire	difference	0	0	1	1
@@ -3685,7 +3556,6 @@ stare	emotion	0	0	1	0
 stare	state	0	0	1	1
 păstreze	keep	0	0	1	0
 poliana	poliana	0	0	1	0
-poliana	a place	0	0	1	0
 fereastra	window	0	0	1	0
 eficiența	efficiency	0	0	1	0
 eficiența	the efficiency	0	0	1	0
@@ -3710,11 +3580,9 @@ alegerilor	of the elections	0	0	1	0
 cronice	chronic	0	0	1	0
 cronice	cronically	0	0	1	0
 scara	ladder	0	0	1	0
-scara	scale	0	0	1	0
 scara	the scale	0	0	1	0
 rezultatul	the result	0	0	1	0
 rezultatul	result	0	0	1	0
-internetul	the internet	0	0	1	0
 internetul	internet	0	0	1	0
 părinți	parents	0	0	1	0
 importantă	important	0	0	1	0
@@ -3737,7 +3605,6 @@ festival	festival	0	0	1	1
 terrier	terrier	0	0	1	0
 distribuția	distribution	0	0	1	0
 masivul	the massive	0	0	1	0
-masivul	mountain	0	0	1	0
 masivul	massive	0	0	1	0
 distribuție	distribution	0	0	1	0
 oamenii	humans	0	0	1	0
@@ -3763,9 +3630,7 @@ voievod	voivode	0	0	1	0
 mută	move	0	0	1	0
 mută	moves	0	0	1	0
 mută	mute	0	0	1	0
-tipurile	the type of	0	0	1	0
-tipurile	types	0	0	1	0
-tipurile	tipes	0	0	1	0
+directă	direct	0	0	1	0
 poată	maybe	0	0	1	0
 poată	to can	0	0	1	0
 poată	can	0	0	1	0
@@ -3783,8 +3648,8 @@ celulă	cell	0	0	1	1
 scară	scale	0	0	1	1
 scară	set	0	0	1	0
 personaje	characters	0	0	1	0
-domnului	gentleman	0	0	1	0
 domnului	mister	0	0	1	0
+domnului	gentleman	0	0	1	0
 criticată	criticized	0	0	1	0
 criticată	criticize	0	0	1	0
 lojă	lodge	0	0	1	1
@@ -3841,7 +3706,6 @@ face	makes	0	0	1	0
 face	face	0	0	1	0
 liceului	high school	0	0	1	0
 liceului	highway	0	0	1	0
-coastele	coasts	0	0	1	0
 coastele	coast	0	0	1	0
 manuscrisul	manuscript	0	0	1	0
 templul	temple	0	0	1	0
@@ -3872,7 +3736,6 @@ vânzări	sales	0	0	1	0
 vechea	old	0	0	1	0
 ziarul	newspaper	0	0	1	0
 principal	main	0	0	1	1
-principal	primary	0	0	1	0
 criteriul	criterion	0	0	1	0
 criteriul	criterions	0	0	1	0
 terminat	over	0	0	1	0
@@ -3892,26 +3755,23 @@ grupului	group	0	0	1	0
 organizațiile	organizations	0	0	1	0
 organizațiile	organisation	0	0	1	0
 organizațiile	organisations	0	0	1	0
-pădure	wood	0	0	1	1
-pădure	forest	0	0	1	1
+corpurilor	bodied	0	0	1	0
+corpurilor	objects	0	0	1	0
+corpurilor	bodies	0	0	1	0
 periculoase	dangerous	0	0	1	0
 noii	new	0	0	1	0
 noii	us	0	0	1	0
 individului	individual	0	0	1	0
 individului	subject	0	0	1	0
 bărbați	men	0	0	1	0
-bărbați	mens	0	0	1	0
 alții	others	0	0	1	0
 autor	author	0	0	1	1
 acces	access	0	0	1	1
-acces	acces	0	0	1	0
 expres	express	0	0	1	1
 satisface	satisfy	0	0	1	1
 satisface	meet	0	0	1	1
 satisface	satisfaction	0	0	1	0
-formarea	forming	0	0	1	0
-formarea	the forming	0	0	1	0
-formarea	the formation	0	0	1	0
+televiziuni	televisions	0	0	1	0
 aer	air	0	0	1	1
 indică	indicates	0	0	1	0
 indică	shows	0	0	1	0
@@ -3927,7 +3787,6 @@ pârâul	stream	0	0	1	0
 legislației	legislation	0	0	1	0
 obiectivele	the objectives	0	0	1	0
 obiectivele	objectives	0	0	1	0
-obiectivele	goals	0	0	1	0
 soldați	soilders	0	0	1	0
 soldați	soldiers	0	0	1	0
 caracterizate	characterized	0	0	1	0
@@ -3939,7 +3798,6 @@ datorat	due to	0	0	1	0
 țări	countries	0	0	1	0
 identificat	identified	0	0	1	0
 reprezentări	representations	0	0	1	0
-reprezentări	depictions	0	0	1	0
 nuclear	nuclear	0	0	1	1
 urmat	followed	0	0	1	0
 urmau	were	0	0	1	0
@@ -4000,11 +3858,9 @@ schimbe	change	0	0	1	0
 ci	but	0	0	1	1
 micul	small	0	0	1	0
 micul	little	0	0	1	0
-micul	litle	0	0	1	0
 schimba	change	0	0	1	1
 indica	indicate	0	0	1	1
 indica	show	0	0	1	1
-cl	cl	0	0	1	0
 cc	cc	0	0	1	0
 ca	as	0	0	1	1
 ca	like	0	0	1	1
@@ -4039,7 +3895,6 @@ munți	mountains	0	0	1	0
 hawking	hawking	0	0	1	0
 relatări	reports	0	0	1	0
 etajul	floor	0	0	1	0
-etajul	level	0	0	1	0
 plasat	put	0	0	1	0
 plasat	placed	0	0	1	1
 silviu	silviu	0	0	1	0
@@ -4054,7 +3909,6 @@ vizită	visit	0	0	1	1
 vizită	meeting	0	0	1	0
 vechiul	old	0	0	1	1
 oțel	steel	0	0	1	0
-arabi	arabs	0	0	1	0
 arabi	arabic	0	0	1	0
 arabi	arabians	0	0	1	0
 naturală	natural	0	0	1	0
@@ -4066,10 +3920,8 @@ efectul	effect	0	0	1	0
 terminată	ended	0	0	1	0
 terminată	completed	0	0	1	0
 suport	support	0	0	1	1
-suport	assistance	0	0	1	0
 greci	greeks	0	0	1	0
 greci	greece	0	0	1	0
-cererea	the request	0	0	1	0
 cererea	request	0	0	1	0
 va	will	0	0	1	0
 vi	the sixth	0	0	1	0
@@ -4099,14 +3951,13 @@ verne	verne	0	0	1	0
 contractul	the contract	0	0	1	0
 contractul	contract	0	0	1	0
 etiopia	ethiopia	0	0	1	0
-poemele	poems	0	0	1	0
+und	und	0	0	1	0
 sodiu	sodium	0	0	1	1
 norvegia	norwey	0	0	1	0
 norvegia	norway	0	0	1	0
 columbia	columbia	0	0	1	0
-arestarea	aresting	0	0	1	0
-arestarea	the arrest	0	0	1	0
 arestarea	arrest	0	0	1	0
+arestarea	the arrest	0	0	1	0
 introdusă	included	0	0	1	0
 introdusă	introduced	0	0	1	0
 tocmai	indead	0	0	1	0
@@ -4117,7 +3968,6 @@ masivă	massive	0	0	1	0
 canonul	canon	0	0	1	0
 canonul	the canon	0	0	1	0
 avantajul	advantage	0	0	1	0
-avantajul	the advantage	0	0	1	0
 caracterizată	characterized	0	0	1	0
 caracterizată	characterization	0	0	1	0
 cheltuielilor	spendings	0	0	1	0
@@ -4132,7 +3982,6 @@ meciul	game	0	0	1	0
 meciul	match	0	0	1	0
 meciul	the match	0	0	1	0
 aruncă	cast	0	0	1	0
-aruncă	throw	0	0	1	0
 aruncă	throws	0	0	1	0
 aheii	achaeans	0	0	1	0
 sfârșit	end	0	0	1	0
@@ -4159,7 +4008,6 @@ propusă	proposed	0	0	1	0
 ținea	wanted	0	0	1	0
 numească	rename	0	0	1	0
 numească	named	0	0	1	0
-numească	name	0	0	1	0
 capabilă	capable	0	0	1	0
 țărilor	of coutries	0	0	1	0
 țărilor	countries	0	0	1	0
@@ -4204,12 +4052,12 @@ primăria	city hall	0	0	1	0
 fiicei	daughter	0	0	1	0
 mandatul	madate	0	0	1	0
 mandatul	mandate	0	0	1	0
-dovedi	prove	0	0	1	1
+primele	the first	0	0	1	0
+primele	first	0	0	1	0
 distruge	destroy	0	0	1	1
 distruge	destroys	0	0	1	0
 depășit	overcomed	0	0	1	0
 depășit	exceeded	0	0	1	0
-junimii	junimii	0	0	1	0
 junimii	junim	0	0	1	0
 junimii	junimea	0	0	1	0
 rusesc	russian	0	0	1	1
@@ -4317,9 +4165,7 @@ stadionul	stadium	0	0	1	0
 monument	monument	0	0	1	1
 imigranți	imigrants	0	0	1	0
 imigranți	immigrants	0	0	1	0
-imigranți	immigrant	0	0	1	0
 majorității	majority	0	0	1	0
-țepeș	vlad tepes	0	0	1	0
 țepeș	tepes	0	0	1	0
 documentară	documentary	0	0	1	0
 tulburări	disorder	0	0	1	0
@@ -4390,14 +4236,12 @@ renunțe	give	0	0	1	0
 conifere	coniferous	0	0	1	0
 conifere	conifer	0	0	1	0
 edward	edward	0	0	1	0
-edward	name	0	0	1	0
 informațiilor	informations	0	0	1	0
 informațiilor	information	0	0	1	0
 regal	royal	0	0	1	1
 inelelor	rings	0	0	1	0
 inelelor	of the rings	0	0	1	0
 aducerea	bringing	0	0	1	0
-aducerea	the bringing back	0	0	1	0
 aducerea	the bringing	0	0	1	0
 ușor	slightly	0	0	1	0
 ușor	easy	0	0	1	0
@@ -4405,8 +4249,7 @@ poeților	poet	0	0	1	0
 poeților	poets	0	0	1	0
 maniu	maniu	0	0	1	0
 aurora	aurora	0	0	1	0
-noilor	news	0	0	1	0
-noilor	new	0	0	1	0
+negativă	negative	0	0	1	0
 exactă	exact	0	0	1	0
 filozofică	philosophical	0	0	1	0
 filozofică	philosophic	0	0	1	0
@@ -4416,7 +4259,6 @@ insulă	insula	1	0	1	0
 insulă	the island	1	0	1	0
 indiană	indian	0	0	1	0
 moștenire	inheritance	0	0	1	0
-moștenire	heritage	0	0	1	0
 dramaturg	dramatist	0	0	1	1
 dramaturg	playwrighter	0	0	1	0
 menționată	mentioned	0	0	1	0
@@ -4496,7 +4338,7 @@ radioficare	wire broadcast	1	1	0	0
 radioficare	radiofication	1	0	1	0
 radioficare	rediffusion	1	1	0	0
 triumf	triumph	0	0	1	1
-qui	qui	0	0	1	0
+eroare	error	0	0	1	1
 slatina	slatina	0	0	1	0
 vestice	west	0	0	1	0
 vestice	western	0	0	1	0
@@ -4512,15 +4354,13 @@ exacte	precise	0	0	1	0
 exacte	fix	0	0	1	0
 exacte	exact	0	0	1	0
 negative	negative	0	0	1	0
-bazinul	basin	0	0	1	0
-bazinul	reservoire	0	0	1	0
-bazinul	pool	0	0	1	0
+intervalul	the interval	0	0	1	0
+intervalul	range	0	0	1	0
 filozofice	philosophical	0	0	1	0
 expoziție	exhibition	0	0	1	0
 proceselor	process	0	0	1	0
 proceselor	processes	0	0	1	0
 morile	mills	0	0	1	0
-expoziții	expositions	0	0	1	0
 expoziții	exposition	0	0	1	0
 expoziții	exhibitions	0	0	1	0
 insula	island	0	0	1	0
@@ -4544,8 +4384,8 @@ asociază	associated	0	0	1	0
 asociază	associate	0	0	1	0
 unică	unique	0	0	1	0
 prevăzut	provided	0	0	1	1
-prevăzut	equipped	0	0	1	0
 prevăzut	foreseen	0	0	1	0
+prevăzut	equipped	0	0	1	0
 sferă	sphere	0	0	1	1
 sferă	phere	0	0	1	0
 pierd	loose	0	0	1	0
@@ -4565,8 +4405,6 @@ aplicate	applied	0	0	1	0
 gloria	glory	0	0	1	0
 gloria	gloria	0	0	1	0
 februarie	february	0	0	1	1
-haine	cloths	0	0	1	0
-haine	clothes	0	0	1	1
 indiei	india	0	0	1	0
 tramvaie	tram	0	0	1	0
 tramvaie	trams	0	0	1	0
@@ -4610,14 +4448,12 @@ olimpic	olympic	0	0	1	1
 olimpic	olympical	0	0	1	0
 retragă	withdraw	0	0	1	0
 retragă	retreat	0	0	1	0
-neamului	nation`s	0	0	1	0
 neamului	family	0	0	1	0
 neamului	nation	0	0	1	0
 lat	short for "latin"	0	0	1	0
 lat	wide	0	0	1	1
 lat	latin	0	0	1	0
 lau	have	0	0	1	0
-valurile	the waves	0	0	1	0
 valurile	waves	0	0	1	0
 cronici	reviews	0	0	1	0
 cronici	cronics	0	0	1	0
@@ -4626,13 +4462,11 @@ lar	again	0	0	1	0
 las	leave	0	0	1	0
 las	let	0	0	1	0
 las	las	0	0	1	0
-atomului	atom's	0	0	1	0
 atomului	of the atom	0	0	1	0
-atomului	atom	0	0	1	0
+atomului	atom's	0	0	1	0
 motoarelor	engine	0	0	1	0
 motoarelor	engines	0	0	1	0
 adânci	deep	0	0	1	0
-adânci	to deepen	0	0	1	0
 dând	giving	0	0	1	0
 поттер	``````````````not romanian ````````````````	0	0	1	0
 lucrările	work	0	0	1	0
@@ -4645,7 +4479,6 @@ mediterană	mediterranean	0	0	1	0
 mediterană	mediteranean	0	0	1	0
 ființe	beeings	0	0	1	0
 ființe	persons	0	0	1	0
-ființe	beings	0	0	1	0
 colonizarea	colonisation	0	0	1	0
 colonizarea	colonization	0	0	1	0
 criticul	critic	0	0	1	0
@@ -4684,9 +4517,9 @@ hemeralopie	hemeralopie hemeralopie hemeralopie hemeralopie	1	0	1	0
 hemeralopie	hemeralopy	1	0	1	0
 hemeralopie	hemeralophy	1	1	0	0
 hemeralopie	hemeralpia	1	1	0	0
-trebui	must	0	0	1	1
-trebui	has to	0	0	1	0
 trebui	should	0	0	1	0
+trebui	has to	0	0	1	0
+trebui	must	0	0	1	1
 vaselor	ships	0	0	1	0
 produselor	of products	0	0	1	0
 produselor	products	0	0	1	0
@@ -4699,7 +4532,6 @@ fragment	piece	0	0	1	1
 armată	army	0	0	1	1
 porumb	corn	0	0	1	1
 scene	scenes	0	0	1	0
-bang	bang	0	0	1	0
 oricum	anyhow	0	0	1	0
 oricum	anyway	0	0	1	1
 familiile	families	0	0	1	0
@@ -4716,7 +4548,6 @@ patru	four	0	0	1	1
 germanii	germans	0	0	1	0
 germanii	the germans	0	0	1	0
 trepte	stairs	0	0	1	0
-trepte	steps	0	0	1	0
 olimp	olimp	0	0	1	0
 olimp	olimpus	0	0	1	0
 suprafețe	surfaces	0	0	1	0
@@ -4725,7 +4556,6 @@ patra	fourth	0	0	1	0
 fața	face	0	0	1	0
 poetului	poetului	0	0	1	0
 poetului	writer	0	0	1	0
-poetului	of the poet	0	0	1	0
 minorități	minority	0	0	1	0
 minorități	minorities	0	0	1	0
 urmări	follow	0	0	1	1
@@ -4838,7 +4668,6 @@ normală	normal	0	0	1	0
 evenimentele	the events	0	0	1	0
 evenimentele	events	0	0	1	0
 marketingul	marketing	0	0	1	0
-fixă	fixed	0	0	1	0
 având	with	0	0	1	0
 având	having	0	0	1	0
 maghiarilor	hungarians	0	0	1	0
@@ -4878,10 +4707,11 @@ filosofiei	philosophy	0	0	1	0
 ducat	dukedom	0	0	1	1
 ducat	ducat	0	0	1	1
 ducat	duchy	0	0	1	1
-left	left	0	0	1	0
+romi	romani	0	0	1	0
+romi	romi	0	0	1	0
+romi	gypsies	0	0	1	0
 înconjurătoare	surrounding	0	0	1	0
 înconjurătoare	encouraging	0	0	1	0
-pielea	the skin	0	0	1	0
 pielea	the skin of	0	0	1	0
 pielea	skin	0	0	1	0
 kogălniceanu	kogalniceanu	0	0	1	0
@@ -4932,7 +4762,6 @@ du	du	0	0	1	0
 du	on the	0	0	1	0
 dr	doctor	0	0	1	0
 dr	phd	0	0	1	0
-directă	direct	0	0	1	0
 eliberată	released	0	0	1	0
 eliberată	was released	0	0	1	0
 eliberată	freed	0	0	1	0
@@ -4984,7 +4813,6 @@ stelei	steaua	0	0	1	0
 impus	imposed	0	0	1	0
 sistemelor	systems	0	0	1	0
 sistemelor	the system of	0	0	1	0
-nordestul	north-east	0	0	1	0
 nordestul	northeast	0	0	1	0
 număr	number	0	0	1	1
 clădiri	buildings	0	0	1	0
@@ -5007,7 +4835,6 @@ albumul	album	0	0	1	0
 albumul	the album	0	0	1	0
 aproximativ	almost	0	0	1	0
 aproximativ	approximate	0	0	1	1
-aproximativ	approximately	0	0	1	1
 încă	still	0	0	1	1
 încă	yet	0	0	1	1
 munților	mountains	0	0	1	0
@@ -5016,7 +4843,6 @@ cod	code	0	0	1	1
 brad	fir	0	0	1	1
 brad	tree	0	0	1	0
 brad	pinetree	0	0	1	0
-nordice	north	0	0	1	0
 nordice	nordic	0	0	1	0
 nordice	northern	0	0	1	0
 utilizează	use	0	0	1	0
@@ -5066,7 +4892,6 @@ deșert	dessert	0	0	1	0
 deșert	desert	0	0	1	0
 tradițională	traditional	0	0	1	0
 orasul	city	0	0	1	0
-orasul	the city	0	0	1	0
 corespunde	meet	0	0	1	1
 corespunde	correspond	0	0	1	0
 air	air	0	0	1	0
@@ -5097,7 +4922,6 @@ tânărului	young	0	0	1	0
 anual	yearly	0	0	1	1
 anual	annually	0	0	1	1
 anual	anual	0	0	1	0
-preponderent	mainly	0	0	1	0
 preponderent	predominant	0	0	1	1
 sakura	sakura	0	0	1	0
 plin	full	0	0	1	1
@@ -5109,6 +4933,8 @@ prusia	name	0	0	1	0
 vasilescu	vasilescu	0	0	1	0
 horus	horus	0	0	1	0
 afganistan	afghanistan	0	0	1	0
+tratamentului	treatment's	0	0	1	0
+tratamentului	treatment	0	0	1	0
 emisfera	hemisphere	0	0	1	0
 câștigat	won	0	0	1	0
 început	begin	0	0	1	0
@@ -5124,8 +4950,6 @@ obligații	ogligations	0	0	1	0
 î	i	0	0	1	0
 aplicare	application	0	0	1	1
 aplicare	deadline	0	0	1	0
-aplicare	apply	0	0	1	0
-apus	west	0	0	1	1
 apus	sunset	0	0	1	1
 monaco	monaco	0	0	1	0
 scenariu	scenario	0	0	1	1
@@ -5177,7 +5001,6 @@ exteriorul	exterior	0	0	1	0
 exteriorul	out	0	0	1	0
 armatelor	attacks	0	0	1	0
 armatelor	armies	0	0	1	0
-armatelor	the armies	0	0	1	0
 circulă	circulate	0	0	1	0
 circulă	pass	0	0	1	0
 plasma	plasma	0	0	1	0
@@ -5198,7 +5021,6 @@ picasso	picasso pablo	0	0	1	0
 poloneză	polish	0	0	1	0
 încetat	seased	0	0	1	0
 încetat	finished	0	0	1	0
-încetat	stopped	0	0	1	0
 grădinii	of the garden	0	0	1	0
 grădinii	garden	0	0	1	0
 regatul	kingdom	0	0	1	0
@@ -5284,28 +5106,25 @@ anime	anime	0	0	1	0
 compusă	composed	0	0	1	0
 spaniol	spanish	0	0	1	1
 accepte	accepts	0	0	1	0
-accepte	accept	0	0	1	0
 romanocatolică	roman catholic	0	0	1	0
 romanocatolică	roman-catholic	0	0	1	0
 accepta	accept	0	0	1	1
 jacques	jacques	0	0	1	0
 înregistrările	records	0	0	1	0
-înregistrările	recordings	0	0	1	0
 schimbările	changes	0	0	1	0
 cântăreața	singer	0	0	1	0
-domnitorul	king	0	0	1	0
 domnitorul	voivode	0	0	1	0
 domnitorul	domnitor	0	0	1	0
 afecta	affect	0	0	1	1
 afecta	affects	0	0	1	0
 înțeles	understood	0	0	1	0
-puncte	points	0	0	1	0
+profesioniști	professional	0	0	1	0
+profesioniști	professionals	0	0	1	0
 deschiderea	the oppening	0	0	1	0
 deschiderea	opening	0	0	1	0
 mișcării	movement	0	0	1	0
 leagă	bind	0	0	1	0
 leagă	ties	0	0	1	0
-leagă	binds	0	0	1	0
 noastră	our	0	0	1	1
 noastră	ours	0	0	1	0
 polonezi	polish	0	0	1	0
@@ -5333,8 +5152,8 @@ japonez	japanese	0	0	1	1
 trup	body	0	0	1	1
 porumbescu	porumbescu	0	0	1	0
 priam	priam	0	0	1	0
-uscat	dry	0	0	1	1
-uscat	land	0	0	1	1
+maxim	maximum	0	0	1	1
+maxim	height	0	0	1	0
 înțelegerea	underatanding	0	0	1	0
 înțelegerea	understanding	0	0	1	0
 curenții	currents	0	0	1	0
@@ -5350,7 +5169,6 @@ emil	emil	0	0	1	0
 emil	emil (first name)	0	0	1	0
 potaissa	potaissa	0	0	1	0
 mtv	mtv	0	0	1	0
-învețe	to teach	0	0	1	0
 învețe	teach	0	0	1	0
 învețe	learn	0	0	1	0
 maximus	maximus	0	0	1	0
@@ -5377,7 +5195,9 @@ xiii	13th	0	0	1	0
 xiii	thirteenth	0	0	1	0
 xiii	roman numeral	0	0	1	0
 xiii	xiii	0	0	1	0
-asigurări	insurance	0	0	1	0
+romanocatolici	roman chatolic	0	0	1	0
+romanocatolici	romano-catholics	0	0	1	0
+romanocatolici	roman catholic	0	0	1	0
 extindere	extending	0	0	1	0
 extindere	extention	0	0	1	0
 extindere	extent	0	0	1	1
@@ -5392,7 +5212,6 @@ datând	dating	0	0	1	0
 datând	from	0	0	1	0
 daci	dacians	0	0	1	0
 daci	daci	0	0	1	0
-ecaterina	catherine	0	0	1	0
 ecaterina	ecaterina	0	0	1	0
 daca	if	0	0	1	0
 bodhisattva	bodhisattva	0	0	1	0
@@ -5419,19 +5238,16 @@ mulțime	lot	0	0	1	0
 actriță	actrita	0	0	1	0
 actriță	actress	0	0	1	0
 cerbul	deer	0	0	1	0
-intensificat	intensified	0	0	1	0
 intensificat	intensify	0	0	1	0
 intensificat	increased	0	0	1	0
 convenția	the convention	0	0	1	0
 convenția	convention	0	0	1	0
-existentă	being	0	0	1	0
 existentă	existing	0	0	1	0
 tendințele	trends	0	0	1	0
 stradă	street	0	0	1	1
 dispărut	disappeared	0	0	1	0
 dulce	sweet	0	0	1	1
 asigură	assure	0	0	1	0
-asigură	ensures	0	0	1	0
 asigură	ensure	0	0	1	0
 faze	phases	0	0	1	0
 faze	stages	0	0	1	0
@@ -5453,14 +5269,12 @@ imaginii	image	0	0	1	0
 imaginii	the image	0	0	1	0
 pacea	peace	0	0	1	0
 capitolul	chapter	0	0	1	0
-precedent	precedent	0	0	1	1
 precedent	previous	0	0	1	1
 istoriei	stories	0	0	1	0
 istoriei	history	0	0	1	0
 concept	concept	0	0	1	1
 stăpânirea	possession	0	0	1	0
 stăpânirea	domination	0	0	1	0
-stăpânirea	rule	0	0	1	0
 dance	dance	0	0	1	0
 consul	consul	0	0	1	1
 global	world	0	0	1	0
@@ -5476,7 +5290,6 @@ ași	aces	0	0	1	0
 ași	to	0	0	1	0
 tigrii	tigers	0	0	1	0
 combinate	combined	0	0	1	0
-zona	zone	0	0	1	0
 zona	area	0	0	1	0
 sărată	salt	0	0	1	0
 sărată	salty	0	0	1	0
@@ -5510,7 +5323,6 @@ moleculele	the molecule	0	0	1	0
 descendenții	descendants	0	0	1	0
 bulgară	bulgarian	0	0	1	0
 numeroși	many	0	0	1	0
-numeroși	numerous	0	0	1	0
 italiană	italian	0	0	1	1
 scandinavia	scandinavia	0	0	1	0
 rezervațiilor	reserves	0	0	1	0
@@ -5543,7 +5355,6 @@ comparație	comparison	0	0	1	0
 participat	participated	0	0	1	0
 revista	magazine	0	0	1	0
 faptele	facts	0	0	1	0
-curse	flights	0	0	1	0
 curse	race	0	0	1	0
 curse	flight	0	0	1	0
 proprietățile	properties	0	0	1	0
@@ -5557,11 +5368,10 @@ cadrul	frame	0	0	1	0
 cadrul	limits	0	0	1	0
 încercând	trying	0	0	1	0
 stefan	stefan	0	0	1	0
-wrestler	wrestler	0	0	1	0
+protoni	protons	0	0	1	0
 botez	baptism	0	0	1	1
 electrice	electrical	0	0	1	0
 electrice	electrics	0	0	1	0
-electrice	electric	0	0	1	0
 instalarea	installation	0	0	1	0
 instalarea	installing	0	0	1	0
 recentă	recent	0	0	1	0
@@ -5643,7 +5453,6 @@ teatrului	theatre	0	0	1	0
 bucegi	name	0	0	1	0
 bucegi	bucegi	0	0	1	0
 caz	case	0	0	1	1
-ibn	ibn	0	0	1	0
 suprarealismul	surrealism	0	0	1	0
 cap	head	0	0	1	1
 semnarea	signing	0	0	1	0
@@ -5651,7 +5460,6 @@ semnarea	mark	0	0	1	0
 cat	how	0	0	1	0
 cat	as	0	0	1	0
 cai	horses	0	0	1	0
-border|xpx|flag	flag	0	0	1	0
 can	poate	0	0	1	0
 cam	about	0	0	1	1
 cam	nearly	0	0	1	0
@@ -5715,7 +5523,6 @@ politicii	politics	0	0	1	0
 cultelor	culture	0	0	1	0
 cultelor	cults	0	0	1	0
 cultelor	the cult's	0	0	1	0
-științifice	scientifics	0	0	1	0
 științifice	scientific	0	0	1	0
 kafka	kafka	0	0	1	0
 porțiunea	portion	0	0	1	0
@@ -5724,7 +5531,6 @@ porțiunea	part	0	0	1	0
 șerban	serban	0	0	1	0
 maghiară	hungarian	0	0	1	0
 voievodului	voivode	0	0	1	0
-voievodului	prince	0	0	1	0
 forma	shape	0	0	1	0
 forma	type	0	0	1	0
 forma	form	0	0	1	0
@@ -5798,11 +5604,10 @@ citat	quoted	0	0	1	0
 ed	ed	0	0	1	0
 ed	ed.	0	0	1	0
 ea	being	0	0	1	0
-ea	it	0	0	1	1
 ea	she	0	0	1	1
+ea	it	0	0	1	1
 ex	example	0	0	1	0
-amsterdam	amsterdam	0	0	1	0
-eu	me	0	0	1	0
+year	year	0	0	1	0
 eu	i	0	0	1	1
 căreia	which	0	0	1	0
 kant	kant	0	0	1	0
@@ -5880,7 +5685,6 @@ aluminiu	aluminium	0	0	1	1
 aluminiu	aluminum	0	0	1	1
 clasică	classical	0	0	1	0
 genului	genre	0	0	1	0
-genului	of the genre	0	0	1	0
 madonnei	madonna	0	0	1	0
 madonnei	madonna's	0	0	1	0
 iubită	girlfriend	0	0	1	0
@@ -5945,8 +5749,8 @@ cilindri	cylinders	0	0	1	0
 împăraților	the kings	0	0	1	0
 împăraților	emperor	0	0	1	0
 împăraților	emperors	0	0	1	0
-amurg	twilight	0	0	1	1
 amurg	sunset	0	0	1	1
+amurg	twilight	0	0	1	1
 cilindru	cylinder	0	0	1	1
 efectuate	made	0	0	1	0
 transportul	transport	0	0	1	0
@@ -5968,7 +5772,6 @@ spațiul	space	0	0	1	0
 psihice	psychic	0	0	1	0
 psihice	mental	0	0	1	0
 america	america	0	0	1	1
-america	united states of america	0	0	1	0
 brutus	brutus	0	0	1	0
 numai	only	0	0	1	1
 substrat	substrate	0	0	1	0
@@ -6015,7 +5818,6 @@ vienei	vienna	0	0	1	0
 leul	lion	0	0	1	0
 c++	c++	0	0	1	0
 turismul	tourism	0	0	1	0
-turismul	turism	0	0	1	0
 turismul	touring	0	0	1	0
 dealul	hill	0	0	1	0
 bulgaria	bulgaria	0	0	1	0
@@ -6029,19 +5831,19 @@ israelului	israel's	0	0	1	0
 concert	concert	0	0	1	1
 migratoare	migration	0	0	1	0
 migratoare	migratory	0	0	1	0
+zeilor	gods	0	0	1	0
 multor	many	0	0	1	0
 multor	most of	0	0	1	0
 afara	out of	0	0	1	0
 afara	outside of	0	0	1	0
 afara	outside	0	0	1	0
-parcurge	go through	0	0	1	1
+parcurge	go through	0	0	1	0
 parcurge	goes trough	0	0	1	0
 parcurge	walk	0	0	1	1
 instituții	institutions	0	0	1	0
 școlare	school	0	0	1	0
 renunțat	renounced	0	0	1	0
 renunțat	waived	0	0	1	0
-renunțat	gave up	0	0	1	0
 sport	sport	0	0	1	0
 mureșului	muresului	0	0	1	0
 semnul	sign	0	0	1	0
@@ -6079,7 +5881,6 @@ disponibile	available	0	0	1	0
 localizarea	the location	0	0	1	0
 localizarea	location	0	0	1	0
 localizarea	localization	0	0	1	0
-px|ungaria	html	0	0	1	0
 scrise	written	0	0	1	0
 scrise	wrote	0	0	1	0
 ducea	went up into	0	0	1	0
@@ -6091,7 +5892,6 @@ răului	evil	0	0	1	0
 aflânduse	being	0	0	1	0
 aflânduse	finding	0	0	1	0
 râurile	rivers	0	0	1	0
-raportul	report	0	0	1	0
 raportul	the report	0	0	1	0
 raportul	rapport	0	0	1	0
 universități	universities	0	0	1	0
@@ -6104,8 +5904,7 @@ runceanu	runceanu	0	0	1	0
 invers	inverse	0	0	1	1
 invers	reverse	0	0	1	1
 invers	opposite	0	0	1	1
-legătura	connection	0	0	1	0
-legătura	link	0	0	1	0
+vehicul	vehicle	0	0	1	1
 dictator	dictator	0	0	1	1
 menționează	mentions	0	0	1	0
 carel	who	0	0	1	0
@@ -6120,7 +5919,6 @@ steme	emblems	0	0	1	0
 steme	coat of arms	0	0	1	0
 stema	emblem	0	0	1	0
 populațiilor	populations	0	0	1	0
-mileniu	millenium	0	0	1	1
 mileniu	millennium	0	0	1	0
 inspirată	inspired	0	0	1	0
 alelă	pope	1	0	1	0
@@ -6159,6 +5957,7 @@ muntos	mountainous	0	0	1	1
 muntos	montainous	0	0	1	0
 utile	useful	0	0	1	0
 utile	usefull	0	0	1	0
+începutul	beginning	0	0	1	0
 medii	environment	0	0	1	0
 medii	middle	0	0	1	0
 medii	environments	0	0	1	0
@@ -6203,16 +6002,13 @@ afară	except	0	0	1	0
 afară	besides	0	0	1	0
 europeană	european	0	0	1	0
 ucide	murder	0	0	1	1
-ucide	kill	0	0	1	1
 ucide	kills	0	0	1	0
 cca	cca	0	0	1	0
-cca	approximately	0	0	1	0
 taxi	taxi	0	0	1	1
 mendelssohn	mendelssohn	0	0	1	0
 mendelssohn	name	0	0	1	0
 taxe	taxes	0	0	1	0
 ducând	leading	0	0	1	0
-ducând	leading to	0	0	1	0
 întoarcă	return	0	0	1	0
 întoarcă	go back	0	0	1	0
 întoarcă	turn around	0	0	1	0
@@ -6231,7 +6027,6 @@ printro	through	0	0	1	0
 sportiv	athletic	0	0	1	0
 sportiv	sportif	0	0	1	0
 sportiv	sports	0	0	1	1
-printre	among	0	0	1	1
 printre	through	0	0	1	1
 printre	between	0	0	1	1
 profesorul	professor	0	0	1	0
@@ -6250,7 +6045,6 @@ concentrează	concentrate	0	0	1	0
 concentrează	focus	0	0	1	0
 xvilea	16th century	0	0	1	0
 xvilea	xv-lea	0	0	1	0
-psd	social democratic party	0	0	1	0
 psd	short for "social democrat party"	0	0	1	0
 troieni	trojans	0	0	1	0
 esențială	essential	0	0	1	0
@@ -6265,16 +6059,12 @@ cd	cd	0	0	1	0
 cercului	circle	0	0	1	0
 cercului	of the circle	0	0	1	0
 manele	manele	0	0	1	0
-decizia	the decision	0	0	1	0
 decizia	decision	0	0	1	0
 organică	organic	0	0	1	0
-decizie	decision	0	0	1	1
+malul	shore	0	0	1	0
 rădăcini	roots	0	0	1	0
 decizii	decisions	0	0	1	0
 rădăcina	root	0	0	1	0
-reîntors	came back	0	0	1	0
-reîntors	go back	0	0	1	0
-reîntors	returned	0	0	1	0
 țarului	russian emperor	0	0	1	0
 țarului	tsar	0	0	1	0
 țarului	tar	0	0	1	0
@@ -6290,9 +6080,8 @@ xviii	eighteen	0	0	1	0
 xviii	xviii	0	0	1	0
 fecioara	virgin	0	0	1	0
 fecioara	daughter	0	0	1	0
-atât	so much	0	0	1	1
-atât	so	0	0	1	0
 atât	only	0	0	1	0
+atât	so	0	0	1	0
 spiritul	spirit	0	0	1	0
 umede	moist	0	0	1	0
 umede	humid	0	0	1	0
@@ -6317,7 +6106,6 @@ paștelui	easter's	0	0	1	0
 paștelui	easter	0	0	1	0
 acționa	acting	0	0	1	0
 acționa	act	0	0	1	0
-abia	only	0	0	1	1
 abia	just	0	0	1	1
 abia	not until	0	0	1	0
 anume	namely	0	0	1	1
@@ -6328,7 +6116,7 @@ brațe	arms	0	0	1	0
 istoricul	the history of	0	0	1	0
 istoricul	historic	0	0	1	0
 istoricul	history	0	0	1	0
-noroc	good luck	0	0	1	1
+noroc	good luck	0	0	1	0
 tabere	camps	0	0	1	0
 tabere	sides	0	0	1	0
 rusești	russian	0	0	1	0
@@ -6336,15 +6124,12 @@ francis	francis	0	0	1	0
 orașele	cities	0	0	1	0
 aeriene	arial	0	0	1	0
 aeriene	airships	0	0	1	0
-aeriene	air	0	0	1	0
 ocupat	busy	0	0	1	1
 ocupau	occupy	0	0	1	0
 ocupau	occupied	0	0	1	0
 tulcea	tulcea	0	0	1	0
 central	central	0	0	1	1
-unesco	unesco	0	0	1	0
 reținut	remembered	0	0	1	0
-reținut	remebered	0	0	1	0
 sri	sri	0	0	1	0
 atracție	attraction	0	0	1	0
 atracție	atraction	0	0	1	0
@@ -6384,8 +6169,6 @@ transformat	transformed	0	0	1	0
 transformat	turned	0	0	1	0
 vânătoare	hunting	0	0	1	1
 timpuri	times	0	0	1	0
-primare	elementary	0	0	1	0
-primare	primary	0	0	1	0
 your	your	0	0	1	0
 impresionante	impressive	0	0	1	0
 premii	rewards	0	0	1	0
@@ -6434,9 +6217,8 @@ metalic	metallic	0	0	1	1
 păduri	forest	0	0	1	0
 păduri	forests	0	0	1	0
 ierusalimului	jerusalem	0	0	1	0
-corpurilor	bodied	0	0	1	0
-corpurilor	objects	0	0	1	0
-corpurilor	bodies	0	0	1	0
+pădure	wood	0	0	1	1
+pădure	forest	0	0	1	1
 și	and	0	0	1	0
 poștale	postal	0	0	1	0
 șa	etc.	0	0	1	0
@@ -6480,8 +6262,7 @@ numără	include	0	0	1	0
 nimeni	nobody	0	0	1	1
 mănăstirii	monastery	0	0	1	0
 mănăstirii	church	0	0	1	0
-hotărât	decided	0	0	1	1
-hotărât	plump	0	0	1	0
+mișcare	movement	0	0	1	0
 scădere	decrease	0	0	1	1
 vadim	vadim	0	0	1	0
 îndepărtarea	removal	0	0	1	0
@@ -6500,7 +6281,6 @@ tectonice	tectonic	0	0	1	0
 ideilor	ideas	0	0	1	0
 ideilor	beliefs	0	0	1	0
 ideilor	the idea about	0	0	1	0
-inedită	now	0	0	1	0
 inedită	unique	0	0	1	0
 inedită	inedit	0	0	1	0
 brătianu	bratianu	0	0	1	0
@@ -6600,7 +6380,6 @@ irak	iraq	0	0	1	0
 iran	iran	0	0	1	0
 tăiat	cut	0	0	1	1
 machu	machu	0	0	1	0
-machu	a turisctic place	0	0	1	0
 frumoasă	beautiful	0	0	1	0
 frumoasă	beauty	0	0	1	0
 compușii	compund	0	0	1	0
@@ -6628,7 +6407,6 @@ diferă	differs	0	0	1	0
 diferă	varies	0	0	1	0
 diferă	different	0	0	1	0
 cetățenilor	citizens	0	0	1	0
-cetățenilor	citizen's	0	0	1	0
 aparținut	belonged	0	0	1	0
 inelul	ring	0	0	1	0
 inelul	the ring	0	0	1	0
@@ -6647,7 +6425,6 @@ dezvoltă	develope	0	0	1	0
 adăugarea	adding	0	0	1	0
 pus	put	0	0	1	0
 pus	didn't think	0	0	1	0
-congresul	the congress	0	0	1	0
 congresul	congress	0	0	1	0
 zori	dawn	0	0	1	0
 zori	daybreak	0	0	1	1
@@ -6659,6 +6436,8 @@ română	romainian	0	0	1	0
 întors	turned	0	0	1	0
 întors	back	0	0	1	0
 vecini	neighbours	0	0	1	0
+ceea	which	0	0	1	0
+ceea	that	0	0	1	0
 dion	dion	0	0	1	0
 vecine	neighbour	0	0	1	0
 vecine	neighbours	0	0	1	0
@@ -6674,8 +6453,6 @@ iulian	julian	0	0	1	0
 curții	court	0	0	1	0
 curții	court`s	0	0	1	0
 gruparea	group	0	0	1	0
-gruparea	bloc	0	0	1	0
-gruparea	grouping	0	0	1	0
 situl	site	0	0	1	0
 situl	the site	0	0	1	0
 inedite	uncorrected	0	0	1	0
@@ -6695,6 +6472,7 @@ alba	white	0	0	1	0
 albe	white	0	0	1	0
 reprezentanți	representatives	0	0	1	0
 ioni	ions	0	0	1	0
+raza	range	0	0	1	0
 universitare	academical	0	0	1	0
 universitare	university	0	0	1	0
 sinagoga	sinagogue	0	0	1	0
@@ -6703,12 +6481,10 @@ frumoase	beautiful	0	0	1	0
 frumoasa	beautiful	0	0	1	0
 vorbea	was talking	0	0	1	0
 vorbea	talked	0	0	1	0
-vorbea	talked about	0	0	1	0
 fr	fr	0	0	1	0
 fu	was	0	0	1	0
 administrației	administration	0	0	1	0
 fa	fa	0	0	1	1
-fa	f	0	0	1	1
 fc	short for "football club"	0	0	1	0
 fc	fc	0	0	1	0
 fc	football club	0	0	1	0
@@ -6743,7 +6519,6 @@ cleopatrei	cleopatra	0	0	1	0
 cleopatrei	cleopatra`s	0	0	1	0
 erou	hero	0	0	1	1
 erou	herro	0	0	1	0
-oastea	sinan	0	0	1	0
 oastea	army	0	0	1	0
 cuprinse	included	0	0	1	0
 cuprinse	contained	0	0	1	0
@@ -6755,19 +6530,17 @@ obiectivul	objective	0	0	1	0
 obiectivul	the objective	0	0	1	0
 cea	most	0	0	1	0
 cea	the	0	0	1	1
-creștere	growing	0	0	1	0
 creștere	growth	0	0	1	0
 regimentul	the regime	0	0	1	0
 regimentul	regiment	0	0	1	0
 cel	of the	0	0	1	0
-cel	the one	0	0	1	1
+cel	the one	0	0	1	0
 cel	that	0	0	1	0
 cei	of	0	0	1	0
 cei	them	0	0	1	0
 cei	those	0	0	1	0
 recunoaște	admit	0	0	1	0
 recunoaște	recognition	0	0	1	0
-recunoaște	acknowledge	0	0	1	0
 cer	sky	0	0	1	1
 ninja	ninja	0	0	1	0
 cetăți	citadels	0	0	1	0
@@ -6784,7 +6557,6 @@ susținute	supported	0	0	1	0
 efectele	efects	0	0	1	0
 efectele	consequences	0	0	1	0
 societăților	companies	0	0	1	0
-societăților	societies	0	0	1	0
 regilor	kings	0	0	1	0
 apărând	emerging	0	0	1	0
 apărând	appearing	0	0	1	0
@@ -6807,9 +6579,7 @@ corpuri	bodies	0	0	1	0
 așezări	landings	0	0	1	0
 așezări	settlements	0	0	1	0
 educațional	educational	0	0	1	0
-întâmpinat	welcomed	0	0	1	0
 întâmpinat	encountered	0	0	1	0
-întâmpinat	greeted	0	0	1	0
 robert	robert	0	0	1	0
 realizeze	realize	0	0	1	0
 râuri	rivers	0	0	1	0
@@ -6836,7 +6606,6 @@ luceafărul	evening star (morning star)	0	0	1	0
 începe	start	0	0	1	1
 istoricii	historical	0	0	1	0
 istoricii	historians	0	0	1	0
-istoricii	the historians	0	0	1	0
 pur	just	0	0	1	0
 pur	pure	0	0	1	1
 vorbind	talking	0	0	1	0
@@ -6849,7 +6618,6 @@ prezentă	present	0	0	1	0
 izbucnirea	outbreak	0	0	1	0
 izbucnirea	start	0	0	1	0
 facilități	facilities	0	0	1	0
-suficiente	sufficiently	0	0	1	0
 suficiente	sufficient	0	0	1	0
 american	american	0	0	1	1
 american	u.s.	0	0	1	0
@@ -6933,7 +6701,6 @@ suficientă	sufficient	0	0	1	0
 karl	karl	0	0	1	0
 pierdut	lost	0	0	1	1
 umbra	shadow	0	0	1	0
-rămas	lost	0	0	1	0
 rămas	left	0	0	1	0
 ultimele	last	0	0	1	0
 întregi	whole	0	0	1	0
@@ -6945,7 +6712,6 @@ românești	romanian	0	0	1	0
 determinarea	the determination	0	0	1	0
 determinarea	determination	0	0	1	0
 evreiesc	jewish	0	0	1	1
-evreiesc	hebrew	0	0	1	1
 freddie	freddie	0	0	1	0
 norme	norms	0	0	1	0
 norme	rules	0	0	1	0
@@ -6954,7 +6720,6 @@ atestată	certified	0	0	1	0
 alpha	alpha	0	0	1	0
 identificarea	identify	0	0	1	0
 identificarea	identification	0	0	1	0
-susținută	sustained	0	0	1	0
 susținută	supported	0	0	1	0
 mobile	mobile	0	0	1	0
 intitulată	named	0	0	1	0
@@ -6998,7 +6763,6 @@ hidrogenul	hidrogen	0	0	1	0
 aripi	wings	0	0	1	0
 precipitații	rainfall	0	0	1	0
 precipitații	precipitation	0	0	1	0
-precipitații	rain	0	0	1	0
 aripa	wing	0	0	1	0
 alexander	alexander	0	0	1	0
 volei	voley	0	0	1	0
@@ -7012,9 +6776,11 @@ x	ten	0	0	1	0
 următorul	next	0	0	1	1
 dur	rough	0	0	1	1
 dur	tough	0	0	1	0
-dur	bad	0	0	1	0
-pragul	threshold	0	0	1	0
-pragul	the treshold	0	0	1	0
+devreme	early	0	0	1	1
+devreme	soon	0	0	1	1
+bucovinei	bucovina's	0	0	1	0
+bucovinei	bucovina	0	0	1	0
+bucovinei	bukovina	0	0	1	0
 locali	local	0	0	1	0
 locali	locals	0	0	1	0
 maurice	maurice	0	0	1	0
@@ -7033,9 +6799,7 @@ particule	particles	0	0	1	0
 zeița	goddess	0	0	1	0
 zeița	godess	0	0	1	0
 unirea	union	0	0	1	0
-unirea	merging	0	0	1	0
 ierarhia	hierarchy	0	0	1	0
-dramatice	drama	0	0	1	0
 dramatice	dramatic	0	0	1	0
 temporară	temporary	0	0	1	0
 sovietici	soviets	0	0	1	0
@@ -7067,7 +6831,6 @@ patrocle	patrocles	0	0	1	0
 contrar	contrary	0	0	1	1
 contrar	opposite	0	0	1	1
 corectă	correct	0	0	1	0
-corectă	to correct	0	0	1	0
 factorul	factor	0	0	1	0
 linux	linux	0	0	1	0
 adresată	addressed	0	0	1	0
@@ -7175,7 +6938,6 @@ răspuns	reply	0	0	1	1
 răspuns	response	0	0	1	1
 rodie	pomegranate	0	0	1	1
 cruz	cruz	0	0	1	0
-cruz	name	0	0	1	0
 locală	local	0	0	1	0
 florian	florian	0	0	1	0
 existența	existence	0	0	1	0
@@ -7192,7 +6954,6 @@ comportă	behave	0	0	1	0
 comportă	act	0	0	1	0
 viteză	speed	0	0	1	1
 lacul	lake	0	0	1	0
-lacul	the lake	0	0	1	0
 schopenhauer	schopenhauer	0	0	1	0
 ștefănescu	stefanescu (name)	0	0	1	0
 ștefănescu	stefanescu	0	0	1	0
@@ -7218,7 +6979,6 @@ municipiul	municipality	0	0	1	0
 marco	marco	0	0	1	0
 marco	marco (person's name)	0	0	1	0
 albine	bees	0	0	1	0
-clujului	cluj	0	0	1	0
 dezvoltate	developed	0	0	1	0
 dezvoltate	evolved	0	0	1	0
 marca	mark	0	0	1	1
@@ -7236,7 +6996,6 @@ amara	amara	0	0	1	0
 versiunea	version	0	0	1	0
 dificil	hard	0	0	1	1
 dificil	difficult	0	0	1	1
-convertit	changed	0	0	1	0
 convertit	converted	0	0	1	0
 popular	popular	0	0	1	1
 popular	folkloric	0	0	1	0
@@ -7263,7 +7022,6 @@ alianța	aliance	0	0	1	0
 alianța	alliance	0	0	1	0
 psihologie	psychology	0	0	1	1
 mănăstirilor	of the churches	0	0	1	0
-mănăstirilor	abbeys'	0	0	1	0
 mănăstirilor	monasteries	0	0	1	0
 polonezii	polish people	0	0	1	0
 polonezii	poles	0	0	1	0
@@ -7331,7 +7089,6 @@ gamă	range	0	0	1	1
 statistice	statistics	0	0	1	0
 statistice	the statistics	0	0	1	0
 occident	west	0	0	1	1
-nuanțe	nuances	0	0	1	0
 nuanțe	shades	0	0	1	0
 personajului	the character	0	0	1	0
 personajului	the character's	0	0	1	0
@@ -7353,12 +7110,12 @@ lipsei	lack	0	0	1	0
 lipsei	tha lack	0	0	1	0
 haret	haret	0	0	1	0
 azot	nitrogen	0	0	1	1
-utc	universal coordonated time	0	0	1	0
 utc	utc	0	0	1	0
 proporțională	proportional	0	0	1	0
 straturile	layers	0	0	1	0
 straturile	the layers	0	0	1	0
-politic	political	0	0	1	1
+xvlea	xv - 15th (roman numbers)	0	0	1	0
+xvlea	15th century	0	0	1	0
 varșovia	warsaw	0	0	1	0
 viteza	speed	0	0	1	0
 similar	similar	0	0	1	0
@@ -7375,7 +7132,6 @@ comportament	behavior	0	0	1	1
 necesita	require	0	0	1	1
 necesita	required	0	0	1	0
 necesita	requires	0	0	1	0
-transformate	converted	0	0	1	0
 transformate	transformed	0	0	1	0
 metale	metal	0	0	1	0
 metale	metals	0	0	1	0
@@ -7390,8 +7146,8 @@ cronologie	chronology	0	0	1	1
 cronologie	cronology	0	0	1	0
 cronologic	chronological	0	0	1	1
 cronologic	chronologically	0	0	1	1
-oficială	the official	0	0	1	0
 oficială	oficial	0	0	1	0
+oficială	the official	0	0	1	0
 oficială	official	0	0	1	0
 cronologia	chronology	0	0	1	0
 cronologia	cronology	0	0	1	0
@@ -7434,8 +7190,7 @@ timpul	the time	0	0	1	0
 timpul	time	0	0	1	0
 atitudini	attitudes	0	0	1	0
 atitudini	relationship	0	0	1	0
-primele	the first	0	0	1	0
-primele	first	0	0	1	0
+dovedi	prove	0	0	1	1
 localizare	positioning	0	0	1	0
 localizare	location	0	0	1	1
 bustul	bust	0	0	1	0
@@ -7456,7 +7211,6 @@ vânzările	the sellers of	0	0	1	0
 vânzările	sales	0	0	1	0
 vladislav	vladislav	0	0	1	0
 femeilor	women	0	0	1	0
-pușkin	pushkin	0	0	1	0
 pușkin	pușkin	0	0	1	0
 heliade	heliade	0	0	1	0
 bătrâni	elders	0	0	1	0
@@ -7486,7 +7240,6 @@ violentă	violent	0	0	1	0
 violentă	violence	0	0	1	0
 corpului	body	0	0	1	0
 corpului	body's	0	0	1	0
-corpului	corps	0	0	1	0
 estimat	estimated	0	0	1	0
 estimat	around	0	0	1	0
 zi	day	0	0	1	1
@@ -7538,7 +7291,6 @@ radicali	radicals	0	0	1	0
 canale	channels	0	0	1	0
 eminem	eminem	0	0	1	0
 investiții	investments	0	0	1	0
-investiții	investment	0	0	1	0
 constatat	observed	0	0	1	0
 constatat	found	0	0	1	0
 constatat	noted	0	0	1	0
@@ -7553,7 +7305,6 @@ luptă	battle	0	0	1	1
 luptă	stuggle	0	0	1	0
 luptă	struggle	0	0	1	1
 direcții	directions	0	0	1	0
-îmbunătățirea	improving	0	0	1	0
 îmbunătățirea	the improvement	0	0	1	0
 atacurilor	attacks	0	0	1	0
 atacurilor	atacks	0	0	1	0
@@ -7577,10 +7328,8 @@ herțegovina	hertegovina	0	0	1	0
 herțegovina	herzegovina	0	0	1	0
 reflecta	reflect	0	0	1	1
 reflecta	reflects	0	0	1	0
-reflecta	show	0	0	1	0
 orbitor	blinding	0	0	1	0
 veacul	the century	0	0	1	0
-veacul	period	0	0	1	0
 veacul	century	0	0	1	0
 camera	room	0	0	1	0
 criteriile	criteria	0	0	1	0
@@ -7620,11 +7369,9 @@ evidentă	obvious	0	0	1	0
 valorilor	values	0	0	1	0
 fundației	foundation	0	0	1	0
 fundației	fundation	0	0	1	0
-fundației	foundations's	0	0	1	0
 circulația	circulation	0	0	1	0
 tensiunii	pressure	0	0	1	0
 tensiunii	tension	0	0	1	0
-băncii	banks	0	0	1	0
 băncii	banks'	0	0	1	0
 băncii	of the bank	0	0	1	0
 institutul	institute	0	0	1	0
@@ -7634,7 +7381,7 @@ circulație	movement	0	0	1	0
 competiția	competitio	0	0	1	0
 competiția	competition	0	0	1	0
 competiție	competition	0	0	1	0
-control	control	0	0	1	1
+citirea	reading	0	0	1	0
 calculatoare	computers	0	0	1	0
 calculatoare	computer	0	0	1	0
 gărzii	guard	0	0	1	0
@@ -7706,6 +7453,7 @@ izvor	spring	0	0	1	1
 izvor	source	0	0	1	1
 străine	foreign	0	0	1	0
 soțului	husband	0	0	1	0
+religia	religion	0	0	1	0
 inspirat	inspired	0	0	1	1
 cotidian	newspaper	0	0	1	0
 cotidian	daily	0	0	1	1
@@ -7754,7 +7502,6 @@ listă	list	0	0	1	1
 unuia	one	0	0	1	0
 auto	dmv	0	0	1	0
 auto	driving	0	0	1	0
-totalitatea	all	0	0	1	0
 totalitatea	total	0	0	1	0
 totalitatea	totallity	0	0	1	0
 constantinopol	constantinople	0	0	1	0
@@ -7764,7 +7511,6 @@ front	line	0	0	1	1
 divină	divine	0	0	1	0
 mănăstirile	the monasteries	0	0	1	0
 mănăstirile	monasteries	0	0	1	0
-guvernarea	government	0	0	1	0
 guvernarea	the governing	0	0	1	0
 națiunile	nations	0	0	1	0
 convenției	convention	0	0	1	0
@@ -7812,14 +7558,12 @@ brăilei	brailei	0	0	1	0
 brăilei	braila	0	0	1	0
 ținând	taking	0	0	1	0
 ținând	keeping	0	0	1	0
-wrestlemania	wrestlemania	0	0	1	0
 recunosc	recognize	0	0	1	0
 recunosc	admit	0	0	1	0
 florida	florida	0	0	1	0
 mac	mac	0	0	1	0
 mac	macintosh	0	0	1	0
 times	times	0	0	1	0
-oricare	witchever	0	0	1	0
 oricare	anyone	0	0	1	1
 oricare	any	0	0	1	1
 cercul	circle	0	0	1	0
@@ -7834,7 +7578,6 @@ traduse	translated	0	0	1	0
 mișcărilor	movements	0	0	1	0
 aici	here	0	0	1	1
 parcursul	during	0	0	1	0
-parcursul	all	0	0	1	0
 parcursul	over	0	0	1	0
 creația	creation	0	0	1	0
 stângă	left	0	0	1	0
@@ -7869,10 +7612,8 @@ fratelui	brother	0	0	1	0
 liste	lists	0	0	1	0
 injecție	injection	0	0	1	0
 similare	similar	0	0	1	0
-rss	rss	0	0	1	0
 ben	ben	0	0	1	0
 ben	name	0	0	1	0
-asiei	of asia	0	0	1	0
 asiei	asia	0	0	1	0
 folosiți	being used	0	0	1	0
 folosiți	used	0	0	1	0
@@ -7891,7 +7632,6 @@ fabricarea	fabrication	0	0	1	0
 semifinală	had	0	0	1	0
 semifinală	semifinal	0	0	1	0
 restricții	restrictions	0	0	1	0
-restricții	interdictions	0	0	1	0
 sacru	sacred	0	0	1	1
 realizării	achievements	0	0	1	0
 realizării	realized by	0	0	1	0
@@ -7908,7 +7648,6 @@ tale	yours	0	0	1	0
 urmeze	follows	0	0	1	0
 urmeze	to follow	0	0	1	0
 urmeze	follow	0	0	1	0
-diferitele	different	0	0	1	0
 diferitele	the different	0	0	1	0
 scutul	shield	0	0	1	0
 laterale	sideways	0	0	1	0
@@ -7933,20 +7672,17 @@ moldovenească	moldavian	0	0	1	0
 montana	montana	0	0	1	0
 explicat	explain	0	0	1	0
 explicat	explained	0	0	1	0
-montane	mountain	0	0	1	0
 montane	mountans	0	0	1	0
 rege	king	0	0	1	1
 textul	text	0	0	1	0
 textul	work	0	0	1	0
 sa	his	0	0	1	0
-sa	his/her	0	0	1	0
 anului	year	0	0	1	0
 observate	observed	0	0	1	0
 observate	seen	0	0	1	0
 ura	hate	0	0	1	0
 rodica	rodica	0	0	1	0
 rețele	the recipes	0	0	1	0
-rețele	grid	0	0	1	0
 rețele	networks	0	0	1	0
 manga	manga	0	0	1	0
 schimb	in exchange	0	0	1	0
@@ -7961,15 +7697,13 @@ tolkien	tolkien	0	0	1	0
 principii	principles	0	0	1	0
 transformare	transformation	0	0	1	1
 platou	plateau	0	0	1	1
-rase	rase	0	0	1	0
 rase	races	0	0	1	0
+rase	rase	0	0	1	0
 rase	race	0	0	1	0
 curentului	current	0	0	1	0
 curentului	curent	0	0	1	0
-curentului	steam	0	0	1	0
 mediteranei	mediterranean	0	0	1	0
 mediteranei	mediterans	0	0	1	0
-hector	a name	0	0	1	0
 hector	hector	0	0	1	0
 încercat	tried	0	0	1	1
 întâlnesc	meet	0	0	1	0
@@ -8009,7 +7743,6 @@ locomotivele	locomotive	0	0	1	0
 locomotivele	locomotives	0	0	1	0
 imnul	anthem	0	0	1	0
 grad	grade	0	0	1	0
-grad	order	0	0	1	0
 grad	rank	0	0	1	1
 avansate	advanced	0	0	1	0
 sași	saxon	0	0	1	0
@@ -8020,8 +7753,7 @@ militarii	the military	0	0	1	0
 solo	solo	0	0	1	1
 cucerit	conquered	0	0	1	0
 cucerit	conquer	0	0	1	0
-harghita	harghita	0	0	1	0
-harghita	name	0	0	1	0
+venind	coming	0	0	1	0
 computer	computer	0	0	1	0
 succesului	success	0	0	1	0
 lup	wolf puppy	0	0	1	0
@@ -8037,15 +7769,12 @@ lua	to take or sieze	0	0	1	0
 lua	take	0	0	1	1
 debutat	started	0	0	1	0
 debutat	debuted	0	0	1	0
-debutat	made his debut	0	0	1	0
 lui	his	0	0	1	1
 lui	him	0	0	1	1
 lui	by	0	0	1	0
 căci	because	0	0	1	1
 propriuzis	proper	0	0	1	0
-propriuzis	as it is	0	0	1	0
 propriuzis	actual	0	0	1	0
-aron	aron	0	0	1	0
 apele	waters	0	0	1	0
 teoretice	theoretical	0	0	1	0
 criticii	critics	0	0	1	0
@@ -8061,7 +7790,6 @@ limita	limit	0	0	1	1
 xxlea	twentieth	0	0	1	0
 xxlea	20th	0	0	1	0
 încredere	confidence	0	0	1	1
-încredere	trust	0	0	1	1
 totul	everything	0	0	1	0
 arhitectura	architecture	0	0	1	0
 totuși	however	0	0	1	0
@@ -8156,7 +7884,6 @@ lăpușneanu	name	0	0	1	0
 parte	part	0	0	1	1
 parte	side	0	0	1	1
 generic	generic	0	0	1	1
-generic	generically	0	0	1	0
 trăsături	traits	0	0	1	0
 trăsături	feature	0	0	1	0
 teoretică	teoretic	0	0	1	0
@@ -8173,7 +7900,6 @@ supuși	commitment	0	0	1	0
 supuși	subject	0	0	1	0
 analiză	analyze	0	0	1	0
 analiză	analysis	0	0	1	1
-mavrocordat	macrocordat	0	0	1	0
 mavrocordat	mavrocordat	0	0	1	0
 formală	formal	0	0	1	0
 single	single	0	0	1	0
@@ -8187,7 +7913,6 @@ i	i.	0	0	1	0
 căldurii	heat	0	0	1	0
 deși	altough	0	0	1	0
 deși	so	0	0	1	0
-deși	although	0	0	1	0
 revizuire	review	0	0	1	1
 revizuire	revises	0	0	1	0
 bohr	name	0	0	1	0
@@ -8209,7 +7934,6 @@ comentarii	comments	0	0	1	0
 turciei	turkey	0	0	1	0
 turciei	turkey's	0	0	1	0
 poeții	poets	0	0	1	0
-poeții	slam poets	0	0	1	0
 persoanelor	persons	0	0	1	0
 reducere	reduction	0	0	1	1
 templierilor	templar	0	0	1	0
@@ -8269,8 +7993,8 @@ neamț	german	0	0	1	0
 neamț	neamț	0	0	1	0
 artistă	actress	0	0	1	0
 artistă	artist	0	0	1	0
-paginile	the pages	0	0	1	0
-paginile	pages	0	0	1	0
+românească	romanian	0	0	1	0
+românească	the romanian	0	0	1	0
 nevoile	needs	0	0	1	0
 accelerat	accelerated	0	0	1	1
 martie	march	0	0	1	1
@@ -8289,17 +8013,13 @@ motive	causes	0	0	1	0
 aceluiași	the same	0	0	1	0
 aceluiași	same	0	0	1	0
 homo	homo	0	0	1	0
-homo	latin for "man"	0	0	1	0
 păcii	peace	0	0	1	0
 peter	peter	0	0	1	0
 omenești	human	0	0	1	0
 semnificativ	significantly	0	0	1	1
 semnificativ	significant	0	0	1	1
 realității	realities	0	0	1	0
-realității	reality	0	0	1	0
-pieselor	plays'	0	0	1	0
 pieselor	plays	0	0	1	0
-pieselor	pieces	0	0	1	0
 sărbătoarea	celebration	0	0	1	0
 iese	comes up	0	0	1	0
 iese	was	0	0	1	0
@@ -8313,7 +8033,6 @@ estic	eastern	0	0	1	1
 medieval	medieval	0	0	1	1
 adăugat	added	0	0	1	1
 journal	journal	0	0	1	0
-rock	a kind of music	0	0	1	0
 rock	rock	0	0	1	0
 monetare	monetary	0	0	1	0
 turda	turda	0	0	1	0
@@ -8379,7 +8098,7 @@ utilizarea	use	0	0	1	0
 asupra	on	0	0	1	1
 asupra	over	0	0	1	0
 ultima	last	0	0	1	0
-ultima	the last	0	0	1	1
+ultima	the last	0	0	1	0
 hi	hi	0	0	1	0
 perete	wall	0	0	1	1
 influențează	influencing	0	0	1	0
@@ -8412,23 +8131,20 @@ etape	steps	0	0	1	0
 bakuganul	bakugan	0	0	1	0
 organizarea	organization	0	0	1	0
 organizarea	organisation	0	0	1	0
-reciproc	viceversa	0	0	1	0
 reciproc	common	0	0	1	0
-reciproc	each other	0	0	1	1
+reciproc	viceversa	0	0	1	0
 etapa	stage	0	0	1	0
 definitiv	final	0	0	1	1
-definitiv	definitive	0	0	1	1
 caracteristici	characteristics	0	0	1	0
 caracteristici	features	0	0	1	0
 ultimelor	last	0	0	1	0
-ultimelor	the lasts	0	0	1	0
 eminescu	eminescu	0	0	1	0
 întregii	all	0	0	1	0
 întregii	whole	0	0	1	0
 deșertului	desert`s	0	0	1	0
 deșertului	desert	0	0	1	0
-grijă	care	0	0	1	1
 grijă	concern	0	0	1	0
+grijă	care	0	0	1	1
 eric	eric	0	0	1	0
 prilej	occasion	0	0	1	1
 prilej	opportunity	0	0	1	0
@@ -8446,7 +8162,6 @@ integrarea	integration	0	0	1	0
 westminster	westminster	0	0	1	0
 vulturul	the hawk	0	0	1	0
 vulturul	the eagle	0	0	1	0
-vulturul	eagle	0	0	1	0
 oxigenului	oxygen`s	0	0	1	0
 oxigenului	oxigen	0	0	1	0
 oxigenului	oxygen	0	0	1	0
@@ -8455,7 +8170,8 @@ eforturi	eforts	0	0	1	0
 stat	state	0	0	1	1
 stau	stay	0	0	1	0
 limitele	limits	0	0	1	0
-moldovean	moldavian	0	0	1	0
+orientul	east	0	0	1	0
+orientul	orient	0	0	1	0
 nintendo	nintendo	0	0	1	0
 stan	stan	0	0	1	0
 stan	name	0	0	1	0
@@ -8478,12 +8194,10 @@ rămân	remain	0	0	1	0
 rămân	stay	0	0	1	0
 poziție	position	0	0	1	0
 timpurilor	times	0	0	1	0
-timpurilor	time	0	0	1	0
 naționaliste	nationalist	0	0	1	0
 divizată	divided	0	0	1	0
 municipiului	county	0	0	1	0
 municipiului	municipality	0	0	1	0
-municipiului	municipality (city)	0	0	1	0
 începuturi	from beginning	0	0	1	0
 începuturi	beginning	0	0	1	0
 începuturi	beginnings	0	0	1	0
@@ -8492,6 +8206,7 @@ auf	din	0	0	1	0
 auf	auf	0	0	1	0
 elisabeta	elizabeth	0	0	1	0
 elisabeta	elisabeta	0	0	1	0
+ciuc	ciuc	0	0	1	0
 executați	executed	0	0	1	0
 executați	killed	0	0	1	0
 aur	gold	0	0	1	1
@@ -8501,7 +8216,6 @@ stănculescu	stanculescu	0	0	1	0
 segmente	segments	0	0	1	0
 magnetic	magnetic	0	0	1	1
 convorbiri	conversation	0	0	1	0
-convorbiri	literary talk	0	0	1	0
 convorbiri	conversations	0	0	1	0
 reforme	reforms	0	0	1	0
 reforme	reform	0	0	1	0
@@ -8519,7 +8233,8 @@ voia	will	0	0	1	0
 voia	wanted	0	0	1	0
 georgia	georgia	0	0	1	0
 bazei	base	0	0	1	0
-examen	exam	0	0	1	0
+practicarea	practice	0	0	1	0
+practicarea	practicing	0	0	1	0
 contactul	contact	0	0	1	0
 contactul	the contact	0	0	1	0
 alpine	alpine	0	0	1	0
@@ -8535,8 +8250,6 @@ companiei	campaign	0	0	1	0
 palestina	palestine	0	0	1	0
 preluat	taken	0	0	1	0
 preluat	took over	0	0	1	0
-preluat	took	0	0	1	0
-regent	regent	0	0	1	1
 force	force	0	0	1	0
 uneia	ones	0	0	1	0
 uneia	of one	0	0	1	0
@@ -8551,7 +8264,6 @@ andré	andre	0	0	1	0
 biserica	the church	0	0	1	0
 biserica	church	0	0	1	0
 panama	panama	0	0	1	0
-orchestra	orchestry	0	0	1	0
 orchestra	orchestra	0	0	1	0
 asia	asia	0	0	1	0
 americii	u.s.	0	0	1	0
@@ -8574,7 +8286,6 @@ istoria	history	0	0	1	0
 vândut	sold	0	0	1	1
 meu	my	0	0	1	1
 meu	mine	0	0	1	1
-meu	of my	0	0	1	0
 jumătatea	half	0	0	1	0
 activi	active	0	0	1	0
 autonomă	independent	0	0	1	0
@@ -8664,7 +8375,6 @@ suedia	sweden	0	0	1	0
 vecinătatea	neighborhood	0	0	1	0
 vecinătatea	vicinity	0	0	1	0
 clasamentul	ranking	0	0	1	0
-clasamentul	top	0	0	1	0
 clasamentul	classment	0	0	1	0
 creatorul	creator	0	0	1	0
 absența	the lack of	0	0	1	0
@@ -8678,11 +8388,9 @@ cehi	czechs	0	0	1	0
 originară	originary	0	0	1	0
 originară	alliance	0	0	1	0
 originară	original	0	0	1	0
-știu	i know	0	0	1	0
 știu	know	0	0	1	0
 includerea	including	0	0	1	0
 includerea	inclusion	0	0	1	0
-înlăturarea	removing	0	0	1	0
 înlăturarea	the spreading out	0	0	1	0
 înlăturarea	by removing	0	0	1	0
 ardere	burned	0	0	1	0
@@ -8716,8 +8424,8 @@ găzduiește	hosts	0	0	1	0
 găzduiește	hosting	0	0	1	0
 autonome	autonomous	0	0	1	0
 autonome	authonomy	0	0	1	0
-negativă	unfavorable	0	0	1	0
-negativă	negative	0	0	1	0
+noilor	news	0	0	1	0
+noilor	new	0	0	1	0
 biserică	church	0	0	1	1
 înainte	before	0	0	1	1
 orchestră	orchestra	0	0	1	1
@@ -8735,7 +8443,6 @@ bisericilor	the church of	0	0	1	0
 societate	society	0	0	1	1
 ipoteze	ipothetics	0	0	1	0
 ipoteze	assumptions	0	0	1	0
-ipoteze	hypothesis	0	0	1	0
 fifa	fifa	0	0	1	0
 plecat	gone	0	0	1	1
 obișnuite	common	0	0	1	0
@@ -8788,7 +8495,6 @@ personaj	personage	0	0	1	1
 oltenia	romanian zone	0	0	1	0
 oltenia	oltenia	0	0	1	0
 lingvistice	linguistic	0	0	1	0
-lingvistice	heritage language	0	0	1	0
 lingvistice	linguist	0	0	1	0
 lansată	released	0	0	1	0
 lansată	launched	0	0	1	0
@@ -8824,7 +8530,6 @@ luxemburg	luxemburg	0	0	1	0
 luxemburg	luxembourg	0	0	1	0
 sida	aids	0	0	1	0
 sida	hiv	0	0	1	0
-pînă	till	0	0	1	0
 pînă	until	0	0	1	1
 concertul	concert	0	0	1	0
 nava	the ship	0	0	1	0
@@ -8838,7 +8543,6 @@ lansare	launch	0	0	1	0
 enorm	huge	0	0	1	1
 domenii	fields	0	0	1	0
 domenii	areas	0	0	1	0
-domeniu	field	0	0	1	1
 domeniu	domain	0	0	1	1
 doua	for the second time	0	0	1	0
 doua	second	0	0	1	0
@@ -8904,7 +8608,6 @@ academică	academic	0	0	1	0
 strasbourg	strasbourg	0	0	1	0
 blaga	blaga	0	0	1	0
 girls	girls	0	0	1	0
-girls	women	0	0	1	0
 desfășoară	takes place	0	0	1	0
 desfășoară	deploy	0	0	1	0
 vagoane	wagons	0	0	1	0
@@ -9001,12 +8704,9 @@ categoriecapitale	category capital	0	0	1	0
 categoriecapitale	cathegory: capitals	0	0	1	0
 medical	medical	0	0	1	1
 cehoslovacia	czechoslovakia	0	0	1	0
-cehoslovacia	a country	0	0	1	0
-m	the first letter of mihai	0	0	1	0
 m	short for "mihai"	0	0	1	0
 m	meters	0	0	1	0
 alimente	food	0	0	1	1
-alimente	nourishment	0	0	1	0
 alimente	groceries	0	0	1	0
 datată	dated	0	0	1	0
 datată	time	0	0	1	0
@@ -9038,7 +8738,8 @@ integrate	integrated	0	0	1	0
 navelor	ships	0	0	1	0
 asasinarea	assassination	0	0	1	0
 asasinarea	murder	0	0	1	0
-asasinarea	assassination of	0	0	1	0
+prelucrarea	process	0	0	1	0
+prelucrarea	processing	0	0	1	0
 monica	monica	0	0	1	0
 spațială	space	0	0	1	0
 spațială	spatial	0	0	1	0
@@ -9058,13 +8759,11 @@ decebal	decebal	0	0	1	0
 brâncuși	brancusi	0	0	1	0
 bar	bar	0	0	1	1
 bas	bass	0	0	1	1
-ascuns	secretly	0	0	1	0
 ascuns	hidden	0	0	1	1
 ascuns	hiden	0	0	1	0
 caldă	hot	0	0	1	0
 caldă	warm	0	0	1	0
 bad	bad	0	0	1	0
-realizare	achievement	0	0	1	1
 oferi	give	0	0	1	1
 oferi	to offer	0	0	1	0
 oferi	offer	0	0	1	1
@@ -9099,7 +8798,6 @@ adună	summs up	0	0	1	0
 adună	gather	0	0	1	0
 oferta	offer	0	0	1	0
 artificial	artificial	0	0	1	1
-locația	place	0	0	1	0
 locația	location	0	0	1	0
 manole	manole	0	0	1	0
 strămoși	ancesters	0	0	1	0
@@ -9123,10 +8821,9 @@ umanității	humanity	0	0	1	0
 una	one	0	0	1	1
 trimite	sends	0	0	1	0
 trimite	send	0	0	1	1
-und	und	0	0	1	0
+poemele	poems	0	0	1	0
 extins	spreaded	0	0	1	0
 extins	extended	0	0	1	0
-extins	expanded	0	0	1	0
 inspirație	insipation	0	0	1	0
 inspirație	inspiration	0	0	1	0
 avionul	airplane	0	0	1	0
@@ -9172,7 +8869,6 @@ delavrancea	delavrancea	0	0	1	0
 delavrancea	proper last name	0	0	1	0
 website	website	0	0	1	0
 steaua	the star	0	0	1	0
-steaua	star	0	0	1	0
 steaua	steaua	0	0	1	0
 argument	argument	0	0	1	1
 fotografie	photo	0	0	1	1
@@ -9186,8 +8882,8 @@ predare	teaching	0	0	1	0
 științific	scientific	0	0	1	0
 neam	kind	0	0	1	1
 neam	ancestry	0	0	1	1
-calcul	account	0	0	1	1
 calcul	rate	0	0	1	1
+calcul	account	0	0	1	1
 rolurile	roles	0	0	1	0
 rolurile	the roles	0	0	1	0
 economiei	of economy	0	0	1	0
@@ -9239,8 +8935,8 @@ tropicale	tropicals	0	0	1	0
 ținutul	the land	0	0	1	0
 ținutul	land	0	0	1	0
 naționalități	nationality	0	0	1	0
-naționalități	nationalities	0	0	1	0
 naționalități	nations	0	0	1	0
+naționalități	nationalities	0	0	1	0
 vrancea	vrancea	0	0	1	0
 casele	houses	0	0	1	0
 casele	the houses	0	0	1	0
@@ -9248,12 +8944,9 @@ casele	label	0	0	1	0
 schimbarea	the change	0	0	1	0
 schimbarea	change	0	0	1	0
 inițială	initial	0	0	1	0
-inițială	the first	0	0	1	0
-materiale	material	0	0	1	0
 materiale	materials	0	0	1	0
 membrii	members	0	0	1	0
 greșeli	mistakes	0	0	1	0
-greșeli	errors	0	0	1	0
 beneficiază	benefits	0	0	1	0
 programe	programs	0	0	1	0
 organizare	organization	0	0	1	1
@@ -9263,9 +8956,7 @@ congres	conmgress	0	0	1	0
 congres	congress	0	0	1	1
 poveste	story	0	0	1	1
 luarea	taking	0	0	1	0
-romi	romani	0	0	1	0
-romi	gypsies	0	0	1	0
-romi	romi	0	0	1	0
+left	left	0	0	1	0
 difuzat	broadcast	0	0	1	0
 difuzat	spreaded	0	0	1	0
 difuzat	diffused	0	0	1	0
@@ -9279,7 +8970,6 @@ transforma	transform	0	0	1	1
 uriașă	huge	0	0	1	0
 metropolitană	metropolitan	0	0	1	0
 mutarea	moving	0	0	1	0
-mutarea	movement	0	0	1	0
 vederea	the view	0	0	1	0
 vederea	sight	0	0	1	0
 substanțelor	substance	0	0	1	0
@@ -9288,7 +8978,6 @@ propagandă	propaganda	0	0	1	1
 nicolas	nicolas	0	0	1	0
 prințul	prince	0	0	1	0
 puterilor	powers	0	0	1	0
-funcții	function	0	0	1	0
 funcții	funtions	0	0	1	0
 funcții	functions	0	0	1	0
 funcție	function	0	0	1	0
@@ -9307,7 +8996,6 @@ tratatelor	treaties	0	0	1	0
 tratatelor	treaties'	0	0	1	0
 tratatelor	treaty	0	0	1	0
 operațiuni	operations	0	0	1	0
-operațiuni	method	0	0	1	0
 sava	sava	0	0	1	0
 opt	eight	0	0	1	1
 dezbateri	debates	0	0	1	0
@@ -9350,8 +9038,8 @@ supremația	supremacy	0	0	1	0
 făceau	they do	0	0	1	0
 făceau	made	0	0	1	0
 făceau	were	0	0	1	0
-maxim	maximum	0	0	1	1
-maxim	height	0	0	1	0
+uscat	dry	0	0	1	1
+uscat	land	0	0	1	1
 wwe	wwe	0	0	1	0
 intern	inside	0	0	1	0
 intern	internal	0	0	1	1
@@ -9372,10 +9060,8 @@ vede	sees	0	0	1	0
 shakespeare	shakespeare	0	0	1	0
 contabilă	accountant	0	0	1	0
 carte	book	0	0	1	1
-încadrează	integrates	0	0	1	0
 încadrează	borders	0	0	1	0
 încadrează	fit	0	0	1	0
-bogați	richs	0	0	1	0
 bogați	rich	0	0	1	0
 boli	diseases	0	0	1	0
 boli	disease	0	0	1	0
@@ -9406,29 +9092,24 @@ dominantă	dominant	0	0	1	0
 magazine	shops	0	0	1	0
 tinerețea	youth	0	0	1	0
 implicat	involved	0	0	1	1
-edificii	patterns	0	0	1	0
-edificii	buildings	0	0	1	0
-edificii	edifices	0	0	1	0
 vândute	sold	0	0	1	0
-versuri	poetry	0	0	1	0
 versuri	lyrics	0	0	1	0
-aceleași	the same	0	0	1	0
-aceleași	those	0	0	1	0
 aceleași	same	0	0	1	0
+aceleași	those	0	0	1	0
+aceleași	the same	0	0	1	0
 romulus	romulus	0	0	1	0
 down	down	0	0	1	0
 sergiu	sergiu	0	0	1	0
 doctrina	doctrine	0	0	1	0
-dreptate	justice	0	0	1	1
-dreptate	right	0	0	1	1
+amsterdam	amsterdam	0	0	1	0
 unitățile	units	0	0	1	0
 unghiuri	angles	0	0	1	0
-muzicală	music	0	0	1	0
 muzicală	musical	0	0	1	0
 contele	count	0	0	1	0
 contele	contele	0	0	1	0
-intervalul	the interval	0	0	1	0
-intervalul	range	0	0	1	0
+bazinul	basin	0	0	1	0
+bazinul	reservoire	0	0	1	0
+bazinul	pool	0	0	1	0
 antisemitismul	anti-semetic	0	0	1	0
 antisemitismul	antisemitism	0	0	1	0
 peninsulei	peninsula	0	0	1	0
@@ -9457,7 +9138,6 @@ transformă	transform	0	0	1	0
 transformă	transforms	0	0	1	0
 afectat	affected	0	0	1	1
 praga	prague	0	0	1	0
-praga	praga	0	0	1	0
 metropolitane	metropolitan	0	0	1	0
 varietate	variety	0	0	1	1
 floare	flower	0	0	1	1
@@ -9523,7 +9203,6 @@ laura	laura	0	0	1	0
 geologice	geological	0	0	1	0
 științelor	science	0	0	1	0
 științelor	science's	0	0	1	0
-științelor	political science	0	0	1	0
 distinge	distinguish	0	0	1	1
 distinge	distinguishes	0	0	1	0
 producând	produced	0	0	1	0
@@ -9561,7 +9240,6 @@ speciale	special	0	0	1	0
 die	die	0	0	1	0
 die	the	0	0	1	0
 părintele	the parent	0	0	1	0
-părintele	father	0	0	1	0
 părintele	parent	0	0	1	0
 democrat	democratic	0	0	1	1
 democrat	democrat	0	0	1	1
@@ -9578,7 +9256,6 @@ salonul	show room	0	0	1	0
 materialul	material	0	0	1	0
 pajiști	meadows	0	0	1	0
 îndeplini	meet	0	0	1	0
-îndeplini	fulfill	0	0	1	0
 conțin	contain	0	0	1	0
 aceleiași	the same	0	0	1	0
 aceleiași	of the same	0	0	1	0
@@ -9600,7 +9277,6 @@ international	international	0	0	1	0
 întreținerea	maintenance	0	0	1	0
 tibet	tibet	0	0	1	0
 french	french	0	0	1	0
-french	a language	0	0	1	0
 pură	pure	0	0	1	0
 videoclipurile	the video clips	0	0	1	0
 videoclipurile	music video	0	0	1	0
@@ -9626,15 +9302,12 @@ stabilesc	determine	0	0	1	0
 stabilesc	establishing	0	0	1	0
 asumat	assumed	0	0	1	1
 pretins	claimed	0	0	1	0
-pretins	wished	0	0	1	0
 pretins	pretended	0	0	1	0
 my	my	0	0	1	0
 alte	other	0	0	1	1
 alte	others	0	0	1	1
 bibliei	bible's	0	0	1	0
 bibliei	bible	0	0	1	0
-alta	another one	0	0	1	0
-alta	other	0	0	1	0
 alta	another	0	0	1	1
 obținere	obtaining	0	0	1	0
 obținere	get	0	0	1	0
@@ -9732,12 +9405,11 @@ ieșire	output	0	0	1	0
 ieșire	way out	0	0	1	0
 ieșire	withdrawal	0	0	1	0
 înregistrare	recording	0	0	1	1
-înregistrare	record	0	0	1	0
 devenind	becoming	0	0	1	0
 devenind	became	0	0	1	0
 devenind	becomed	0	0	1	0
-închide	close	0	0	1	1
 închide	closes	0	0	1	0
+închide	close	0	0	1	1
 maestru	master	0	0	1	1
 iordania	jordan	0	0	1	0
 iordania	name	0	0	1	0
@@ -9764,17 +9436,16 @@ centrul	center	0	0	1	0
 gros	compact	0	0	1	1
 gros	bulky	0	0	1	1
 gros	big	0	0	1	1
-critica	critique	0	0	1	0
 critica	criticism	0	0	1	0
+critica	critique	0	0	1	0
 critica	criticizes	0	0	1	0
 adunare	gathering	0	0	1	1
 adunare	meeting	0	0	1	1
 mam	i	0	0	1	0
 mam	i've	0	0	1	0
-teoretic	theoretical	0	0	1	1
 teoretic	theroretically	0	0	1	0
+teoretic	theoretical	0	0	1	1
 critice	critical	0	0	1	0
-man	man	0	0	1	0
 poseidon	poseidon	0	0	1	0
 poseidon	name	0	0	1	0
 străzi	streets	0	0	1	0
@@ -9800,7 +9471,7 @@ cucerire	conquer	0	0	1	0
 comportamentul	behaviour	0	0	1	0
 comportamentul	behavior	0	0	1	0
 orgă	org	0	0	1	0
-orgă	pipe organ	0	0	1	1
+orgă	pipe organ	0	0	1	0
 orgă	organ	0	0	1	1
 inscripție	inscription	0	0	1	0
 comunistă	communist	0	0	1	0
@@ -9816,7 +9487,6 @@ cinematografice	cinema	0	0	1	0
 eșecul	failure	0	0	1	0
 eșecul	esecul	0	0	1	0
 ciobănesc	shepherd	0	0	1	0
-ciobănesc	sheep dog	0	0	1	0
 întotdeauna	always	0	0	1	0
 main	main	0	0	1	0
 douăzeci	twenty	0	0	1	1
@@ -9858,16 +9528,13 @@ pădurilor	wood or forest	0	0	1	0
 verbul	verb	0	0	1	0
 caragiale	caragiale	0	0	1	0
 guevara	guevara	0	0	1	0
-poiana	poiana brasov	0	0	1	0
 poiana	poiana	0	0	1	0
 funcțiune	function	0	0	1	0
 funcțiune	operation	0	0	1	0
 girl	girl	0	0	1	0
-vestul	west	0	0	1	0
 vestul	the west	0	0	1	0
 canada	canada	0	0	1	1
 scaun	chair	0	0	1	1
-jackson	name of a singer	0	0	1	0
 jackson	jackson	0	0	1	0
 jackson	name	0	0	1	0
 distincție	distinction	0	0	1	0
@@ -9915,7 +9582,9 @@ evaluarea	the evaluation	0	0	1	0
 înfrățite	twin	0	0	1	0
 dinamic	dynamic	0	0	1	1
 dinamic	dinamic	0	0	1	0
-ora	hour	0	0	1	0
+trecută	listed	0	0	1	0
+trecută	passed	0	0	1	0
+trecută	last week	0	0	1	0
 rândurile	rows	0	0	1	0
 rândurile	lines	0	0	1	0
 rândurile	from among	0	0	1	0
@@ -9941,12 +9610,11 @@ tinde	tends (as in tends toward)	0	0	1	0
 tinde	tends	0	0	1	0
 ocupe	do	0	0	1	0
 ocupe	occupy	0	0	1	0
+războaiele	wars	0	0	1	0
 americani	americans	0	0	1	0
 cântăreței	singer	0	0	1	0
 cântăreței	performer	0	0	1	0
-cântăreței	singer's	0	0	1	0
 mamifere	mammals	0	0	1	0
-crearea	inception	0	0	1	0
 crearea	creation	0	0	1	0
 însă	but	0	0	1	1
 proteină	protein	0	0	1	1
@@ -9980,8 +9648,6 @@ frontul	front	0	0	1	0
 frontul	the front	0	0	1	0
 manifestări	manifestations	0	0	1	0
 manifestări	events	0	0	1	0
-centura	ring road	0	0	1	0
-centura	belt	0	0	1	0
 statistici	statistics	0	0	1	0
 anul	year	0	0	1	0
 stabilită	established	0	0	1	0
@@ -9989,7 +9655,6 @@ stabilită	settled	0	0	1	0
 stabilită	establish	0	0	1	0
 acestor	these	0	0	1	0
 acestor	their	0	0	1	0
-acestor	of those	0	0	1	0
 unelte	tools	0	0	1	0
 infern	hell	0	0	1	1
 zile	days	0	0	1	0
@@ -10011,7 +9676,6 @@ taliu	thalium	1	1	0	0
 căzut	fell down	0	0	1	0
 căzut	agreed	0	0	1	0
 căzut	fell	0	0	1	0
-romană	romanian	0	0	1	0
 romană	roman	0	0	1	0
 bavaria	bavaria	0	0	1	0
 navală	marine	0	0	1	0
@@ -10060,9 +9724,9 @@ liceul	high school	0	0	1	0
 liceul	highscool	0	0	1	0
 zonelor	zones	0	0	1	0
 zonelor	areas	0	0	1	0
-voievodul	ruler	0	0	1	0
-voievodul	voivode	0	0	1	0
 voievodul	lord	0	0	1	0
+voievodul	voivode	0	0	1	0
+voievodul	ruler	0	0	1	0
 iasă	exit	0	0	1	0
 iasă	come out	0	0	1	0
 privind	on	0	0	1	0
@@ -10075,7 +9739,6 @@ redactor	publisher	0	0	1	0
 redactor	redactor	0	0	1	1
 utilizatori	users	0	0	1	0
 show	show	0	0	1	0
-canadei	canada	0	0	1	0
 canadei	canada's	0	0	1	0
 cutremure	earthquakes	0	0	1	0
 trimiși	sent	0	0	1	0
@@ -10114,7 +9777,6 @@ botezătorul	baptizer	0	0	1	0
 botezătorul	babtiser	0	0	1	0
 sondaj	survey	0	0	1	0
 artă	art	0	0	1	1
-remarcat	remarked	0	0	1	0
 remarcat	distinguished	0	0	1	0
 remarcat	noted	0	0	1	0
 consens	consensus	0	0	1	1
@@ -10167,9 +9829,9 @@ domn	sir	0	0	1	1
 domn	gentleman	0	0	1	1
 domn	lord	0	0	1	1
 muncă	work	0	0	1	1
+primind	recieving	0	0	1	0
 primind	receiving	0	0	1	0
 primind	reciving	0	0	1	0
-primind	recieving	0	0	1	0
 intermediară	intermediate	0	0	1	0
 intermediară	intermediata	0	0	1	0
 ruteniu	chemical substance	1	1	0	0
@@ -10187,7 +9849,6 @@ radu	radu	0	0	1	0
 gaga	gaga	0	0	1	0
 câte	how	0	0	1	0
 câte	every	0	0	1	0
-câte	how many	0	0	1	0
 ptolemeu	ptolomeu	0	0	1	0
 ptolemeu	claudius ptolemy	0	0	1	0
 ptolemeu	ptolemy	0	0	1	0
@@ -10205,7 +9866,6 @@ islamului	islams	0	0	1	0
 islamului	islam	0	0	1	0
 infrastructura	infrastructure	0	0	1	0
 infrastructura	the infrastructure	0	0	1	0
-lăsat	let	0	0	1	0
 lăsat	left	0	0	1	0
 tur	tour	0	0	1	1
 tur	ballot	0	0	1	0
@@ -10237,11 +9897,7 @@ minuni	wonder	0	0	1	0
 variațiile	differences	0	0	1	0
 variațiile	variations	0	0	1	0
 variațiile	the variations	0	0	1	0
-bucovinei	bucovina's	0	0	1	0
-bucovinei	bucovina	0	0	1	0
-bucovinei	bukovina	0	0	1	0
-fizicii	physics	0	0	1	0
-fizicii	physical	0	0	1	0
+cancer	cancer	0	0	1	1
 severin	severin	0	0	1	0
 picioare	standing	0	0	1	0
 picioare	legs	0	0	1	0
@@ -10262,7 +9918,6 @@ tabel	table	0	0	1	1
 tabel	tabel	0	0	1	0
 mari	big	0	0	1	0
 mari	increased	0	0	1	0
-boieri	boyars	0	0	1	0
 boieri	noblemans	0	0	1	0
 boieri	landowners	0	0	1	0
 mark	mark	0	0	1	0
@@ -10295,11 +9950,9 @@ univers	universe	0	0	1	1
 fenomenele	phenomenons	0	0	1	0
 fenomenele	phenomens	0	0	1	0
 fenomenele	phenomenon	0	0	1	0
-înfățișează	portray	0	0	1	0
 înfățișează	depicts	0	0	1	0
 înfățișează	depict	0	0	1	0
 precisă	precise	0	0	1	0
-precisă	clear amount	0	0	1	0
 preocupat	concerned	0	0	1	0
 preocupat	preoccupied	0	0	1	1
 restrâns	small	0	0	1	0
@@ -10317,7 +9970,6 @@ marcel	marcel	0	0	1	0
 antichității	antiques	0	0	1	0
 antichității	antiquity	0	0	1	0
 sahara	sahara	0	0	1	0
-sahara	name	0	0	1	0
 construirea	the construction	0	0	1	0
 construirea	construction	0	0	1	0
 ramură	branch	0	0	1	1
@@ -10372,7 +10024,7 @@ substantive	nouns	0	0	1	0
 provizoriu	temporary	0	0	1	1
 provizoriu	provisionally	0	0	1	1
 relativă	relative	0	0	1	0
-ciuc	ciuc	0	0	1	0
+haine	cloths	0	0	1	0
 școlile	schools	0	0	1	0
 școlile	the schools	0	0	1	0
 cetățile	stronghold	0	0	1	0
@@ -10380,7 +10032,6 @@ cetățile	citadels	0	0	1	0
 suedezi	swedish	0	0	1	0
 suedezi	sweedish	0	0	1	0
 unesc	binding	0	0	1	0
-unesc	connect	0	0	1	0
 unesc	unite	0	0	1	0
 aspect	aspect	0	0	1	1
 campaniile	campaigns	0	0	1	0
@@ -10389,7 +10040,8 @@ campaniile	capaign	0	0	1	0
 surprinzător	surprisingly	0	0	1	0
 surprinzător	surprising	0	0	1	1
 surprinzător	suprising	0	0	1	0
-cancer	cancer	0	0	1	1
+fizicii	physics	0	0	1	0
+fizicii	physical	0	0	1	0
 găsim	find	0	0	1	0
 găsim	we find	0	0	1	0
 întâlnirea	the meeting	0	0	1	0
@@ -10425,17 +10077,14 @@ câmpiile	the hills	0	0	1	0
 fenomenul	fenomenon	0	0	1	0
 fenomenul	the phenomenon	0	0	1	0
 fenomenul	phenomenon	0	0	1	0
-anemia	an illness	0	0	1	0
-anemia	anaemia	0	0	1	0
 anemia	anemia	0	0	1	0
 deopotrivă	both	0	0	1	0
 deopotrivă	against	0	0	1	0
 deopotrivă	also	0	0	1	0
-veneția	venice	0	0	1	0
+proprie	own	0	0	1	0
 memorială	memorial	0	0	1	0
 memorială	momerial	0	0	1	0
 km²	square kilometer	0	0	1	0
-km²	km2	0	0	1	0
 anumite	certain	0	0	1	0
 anumite	some	0	0	1	0
 proprii	own	0	0	1	0
@@ -10477,12 +10126,12 @@ actele	documents	0	0	1	0
 actele	the documents	0	0	1	0
 actele	papers	0	0	1	0
 moderate	moderate	0	0	1	0
+coduri	rules	0	0	1	0
+coduri	codes	0	0	1	0
 tracțiune	traction	0	0	1	0
-armistițiu	truce	0	0	1	0
 armistițiu	armistice	0	0	1	0
 primară	primary	0	0	1	0
 adâncime	depth	0	0	1	1
-traficul	trafic	0	0	1	0
 traficul	traffic	0	0	1	0
 traficul	the traffic	0	0	1	0
 planetă	planet	0	0	1	1
@@ -10493,9 +10142,8 @@ marc	marc	0	0	1	0
 privesc	provide	0	0	1	0
 privesc	watch	0	0	1	0
 privesc	watching	0	0	1	0
-situează	found	0	0	1	0
-situează	lies	0	0	1	0
 situează	placed	0	0	1	0
+situează	lies	0	0	1	0
 alfabet	alphabet	0	0	1	1
 alfabet	the alphabet	0	0	1	0
 biroul	bureau	0	0	1	0
@@ -10517,7 +10165,6 @@ opune	opposes	0	0	1	0
 opune	oppose	0	0	1	1
 opune	opposse	0	0	1	0
 cursuri	courses	0	0	1	0
-subțire	fine	0	0	1	0
 subțire	thin	0	0	1	0
 mulți	many	0	0	1	0
 implicată	implicated	0	0	1	0
@@ -10551,7 +10198,6 @@ palate	castles	0	0	1	0
 palate	palaces	0	0	1	0
 planeta	planet	0	0	1	0
 trupelor	troops	0	0	1	0
-trupelor	troups	0	0	1	0
 general	general	0	0	1	1
 identificate	identified	0	0	1	0
 file	pages	0	0	1	0
@@ -10581,7 +10227,6 @@ egalitatea	the equality	0	0	1	0
 egalitatea	equality	0	0	1	0
 cercetare	investigation	0	0	1	1
 cercetare	research	0	0	1	1
-extinde	extends	0	0	1	0
 extinde	expands	0	0	1	0
 extinde	expand	0	0	1	1
 intelectual	intelectual	0	0	1	0
@@ -10601,11 +10246,10 @@ palat	palace	0	0	1	1
 feroviare	railway	0	0	1	0
 orar	time zone	0	0	1	0
 orar	schedule	0	0	1	1
-compuși	compound	0	0	1	0
 compuși	consist	0	0	1	0
-compuși	compounds	0	0	1	0
-denumiri	names	0	0	1	0
+compuși	compound	0	0	1	0
 denumiri	name	0	0	1	0
+denumiri	names	0	0	1	0
 vulcanic	volcanic	0	0	1	1
 denumire	name	0	0	1	1
 u	u	0	0	1	0
@@ -10645,7 +10289,6 @@ publicate	published	0	0	1	0
 locuire	habit	0	0	1	0
 locuire	habitation	0	0	1	1
 piața	market	0	0	1	0
-revenit	rallied	0	0	1	0
 revenit	came back	0	0	1	0
 revenit	returned	0	0	1	0
 cetățeni	citizens	0	0	1	0
@@ -10668,12 +10311,12 @@ moștenitorul	heir	0	0	1	0
 moștenitorul	inherit	0	0	1	0
 moștenitorul	inheritor	0	0	1	0
 filozoful	philosopher	0	0	1	0
+alzheimer	alzheimer	0	0	1	0
 domnitor	ruler	0	0	1	1
 domnitor	prince	0	0	1	1
 preot	priest	0	0	1	1
-reliefului	the relief's	0	0	1	0
-reliefului	landscape	0	0	1	0
 reliefului	relief	0	0	1	0
+reliefului	the relief's	0	0	1	0
 alegerile	elections	0	0	1	0
 comisie	commision	0	0	1	0
 comisie	board	0	0	1	1
@@ -10689,7 +10332,7 @@ dintrun	from a	0	0	1	0
 domnilor	gentlemen	0	0	1	0
 domnilor	rulers	0	0	1	0
 domnilor	of the lords	0	0	1	0
-crassus	crassus	0	0	1	0
+zidurilor	walls	0	0	1	0
 erori	mistakes	0	0	1	0
 erori	errors	0	0	1	0
 abc	abc	0	0	1	0
@@ -10727,8 +10370,8 @@ ajuns	came to	0	0	1	0
 ajuns	arrived	0	0	1	0
 fred	fred	0	0	1	0
 talentul	talent	0	0	1	0
-treapta	step	0	0	1	0
-treapta	stage	0	0	1	0
+mult	a lot	0	0	1	0
+mult	much	0	0	1	1
 basarab	basarab	0	0	1	0
 depind	depend	0	0	1	0
 necesară	nencessary	0	0	1	0
@@ -10753,9 +10396,9 @@ declin	downfall	0	0	1	0
 primelor	the first'	0	0	1	0
 primelor	first of	0	0	1	0
 primelor	first	0	0	1	0
-primit	received	0	0	1	1
-primit	left (past tense from to leave)	0	0	1	0
 primit	recieved	0	0	1	0
+primit	left (past tense from to leave)	0	0	1	0
+primit	received	0	0	1	1
 turcească	turkish	0	0	1	0
 africa	africa	0	0	1	0
 cantități	amounts	0	0	1	0
@@ -10778,9 +10421,7 @@ maroc	morocco	0	0	1	0
 maroc	marocco	0	0	1	0
 principatul	the principality	0	0	1	0
 principatul	principality	0	0	1	0
-consilieri	consultants	0	0	1	0
 consilieri	counselors	0	0	1	0
-rareș	rares	0	0	1	0
 luate	taken	0	0	1	0
 luate	took	0	0	1	0
 ialomița	ialomita	0	0	1	0
@@ -10852,7 +10493,6 @@ teritoriului	teritory	0	0	1	0
 încercare	try	0	0	1	1
 încercare	attempt	0	0	1	1
 spermei	sperm	0	0	1	0
-spermei	sperm's	0	0	1	0
 stil	style	0	0	1	1
 stil	manner	0	0	1	1
 teritoriale	territorial	0	0	1	0
@@ -10881,7 +10521,6 @@ suferă	suffers	0	0	1	0
 muntele	mountain	0	0	1	0
 vestigii	remains	0	0	1	0
 interpretează	read	0	0	1	0
-interpretează	plays	0	0	1	0
 interpretează	interpret	0	0	1	0
 precizat	mentioned	0	0	1	0
 precizat	said	0	0	1	0
@@ -10923,7 +10562,6 @@ pcr	pcr	0	0	1	0
 pcr	short for "romanian communist party"	0	0	1	0
 patul	bed	0	0	1	0
 peste	over	0	0	1	1
-orizontal	horizontally	0	0	1	1
 orizontal	horizontal	0	0	1	0
 energiei	energy	0	0	1	0
 energiei	energetics	0	0	1	0
@@ -10943,11 +10581,9 @@ picioarele	feet	0	0	1	0
 picioarele	foots	0	0	1	0
 discuții	discussions	0	0	1	0
 discuții	talks	0	0	1	0
-discuții	discussion	0	0	1	0
 dispozitiv	device	0	0	1	1
 apropiați	close	0	0	1	0
 oxford	oxford	0	0	1	0
-către	to	0	0	1	1
 către	toward	0	0	1	1
 către	by	0	0	1	1
 mamă	mum	0	0	1	0
@@ -10986,8 +10622,8 @@ hard	hard	0	0	1	0
 clasamentele	rankings	0	0	1	0
 clasamentele	charts	0	0	1	0
 recordul	record	0	0	1	0
-cipru	ciprus	0	0	1	0
-cipru	cyprus	0	0	1	0
+decat	than	0	0	1	0
+decat	just	0	0	1	0
 solist	soloist	0	0	1	0
 solist	singer	0	0	1	0
 orient	east	0	0	1	1
@@ -11024,8 +10660,8 @@ purtate	worn	0	0	1	0
 confirmă	confirmed	0	0	1	0
 confirmă	confirms	0	0	1	0
 confirmă	confirm	0	0	1	0
-româniei	romania	0	0	1	0
 româniei	romania's	0	0	1	0
+româniei	romania	0	0	1	0
 comanda	command	0	0	1	1
 comanda	order	0	0	1	1
 ducă	carry	0	0	1	0
@@ -11085,7 +10721,6 @@ tonul	tone	0	0	1	0
 tonul	the tone	0	0	1	0
 civilă	civil	0	0	1	0
 civilă	civilians	0	0	1	0
-civilă	civilian	0	0	1	0
 b	b	0	0	1	1
 fondator	founder	0	0	1	1
 energetică	energy	0	0	1	0
@@ -11140,16 +10775,13 @@ terenuri	fields	0	0	1	0
 terenuri	trains	0	0	1	0
 buget	budget	0	0	1	1
 curajul	courage	0	0	1	0
-diviziuni	regions	0	0	1	0
-diviziuni	divisions	0	0	1	0
+drapele	flags	0	0	1	0
 larg	large	0	0	1	1
 larg	wide	0	0	1	1
 larg	general	0	0	1	0
 cereau	ask	0	0	1	0
 cereau	asking	0	0	1	0
-cereau	asked	0	0	1	0
 apreciază	appreciates	0	0	1	0
-apreciază	appreciate	0	0	1	0
 prizonierii	prisoners	0	0	1	0
 principiilor	principles	0	0	1	0
 principiilor	princes	0	0	1	0
@@ -11222,7 +10854,6 @@ comunelor	commons	0	0	1	0
 creată	born	0	0	1	0
 creată	created	0	0	1	0
 autori	authors	0	0	1	0
-aștepta	waiting	0	0	1	0
 aștepta	expecting	0	0	1	0
 aștepta	waits	0	0	1	0
 menelaus	menalus	0	0	1	0
@@ -11233,7 +10864,6 @@ rest	rest	0	0	1	1
 rest	otherwise	0	0	1	0
 revolta	shock	0	0	1	1
 revolta	revolt	0	0	1	0
-revolta	riot	0	0	1	0
 unul	one	0	0	1	1
 tensiunea	tension	0	0	1	0
 nominalizare	nomination	0	0	1	0
@@ -11309,12 +10939,11 @@ centură	ring	0	0	1	0
 centură	strap	0	0	1	0
 noul	the new	0	0	1	0
 noul	new	0	0	1	0
-rezolva	fix	0	0	1	0
 rezolva	solve	0	0	1	1
+pragul	the treshold	0	0	1	0
 globale	global	0	0	1	0
 globale	globals	0	0	1	0
 denumită	named	0	0	1	0
-denumită	called	0	0	1	0
 simple	simple	0	0	1	0
 rezistat	resisted	0	0	1	0
 rezistat	lasted	0	0	1	0
@@ -11361,7 +10990,6 @@ morți	deads	0	0	1	0
 morți	the dead	0	0	1	0
 morți	dead	0	0	1	0
 sorin	sorin	0	0	1	0
-sorin	name	0	0	1	0
 solid	solid	0	0	1	1
 vreau	want	0	0	1	0
 vreau	i want	0	0	1	0
@@ -11407,9 +11035,7 @@ mitul	mith	0	0	1	0
 mitul	mit	0	0	1	0
 monroe	name	0	0	1	0
 monroe	monroe	0	0	1	0
-cucerească	conquer	0	0	1	0
-cucerească	to conquer	0	0	1	0
-gone	gone	0	0	1	0
+curge	flows	0	0	1	0
 nistru	nistru	0	0	1	0
 totdeauna	always	0	0	1	1
 totdeauna	forever	0	0	1	0
@@ -11421,7 +11047,6 @@ textile	textils	0	0	1	0
 limbaj	language	0	0	1	1
 rute	routes	0	0	1	0
 rute	route	0	0	1	0
-relațiile	relationships	0	0	1	0
 relațiile	relations	0	0	1	0
 barometru	deviations	1	0	1	0
 barometru	barometer	1	1	0	1
@@ -11433,7 +11058,6 @@ barometru	the barometer	1	0	1	0
 organismele	institutions	0	0	1	0
 organismele	organisms	0	0	1	0
 puii	puppies	0	0	1	0
-puii	young	0	0	1	0
 puii	kitten	0	0	1	0
 absolvirea	graduation	0	0	1	0
 locuită	inlocuite = replaced	0	0	1	0
@@ -11455,7 +11079,7 @@ tigrul	the tigre	0	0	1	0
 albaniei	albania	0	0	1	0
 ridica	lift	0	0	1	1
 ridica	rize	0	0	1	0
-ridica	pick up	0	0	1	1
+ridica	pick up	0	0	1	0
 metru	meter	0	0	1	0
 vină	fault	0	0	1	1
 vină	guilt	0	0	1	1
@@ -11480,8 +11104,7 @@ compoziție	composition	0	0	1	0
 originală	original	0	0	1	0
 tastaturii	of the keyboard	0	0	1	0
 tastaturii	keyboard	0	0	1	0
-catolicismul	the catholicism	0	0	1	0
-catolicismul	catholicism	0	0	1	0
+unesco	unesco	0	0	1	0
 etnică	ethinc	0	0	1	0
 etnică	ethnic	0	0	1	0
 alternative	alternative	0	0	1	0
@@ -11490,10 +11113,9 @@ dublat	doubled	0	0	1	0
 atomii	atoms	0	0	1	0
 discipline	discipline	0	0	1	0
 discipline	objects	0	0	1	0
-discipline	disciplines	0	0	1	0
 implicate	involved	0	0	1	0
 implicate	implicate	0	0	1	0
-sparta	sparta	0	0	1	0
+asachi	asachi	0	0	1	0
 stabilit	established	0	0	1	1
 stabilit	set	0	0	1	1
 pădurea	forest	0	0	1	0
@@ -11586,7 +11208,6 @@ răspunde	answer	0	0	1	1
 răspunde	respond	0	0	1	1
 răspunde	answers	0	0	1	0
 dăruit	given	0	0	1	0
-dăruit	gift	0	0	1	0
 violență	violence	0	0	1	0
 britannica	britannica	0	0	1	0
 drama	drama	0	0	1	0
@@ -11595,13 +11216,11 @@ amenințare	threat	0	0	1	0
 fiul	the son	0	0	1	0
 fiul	son	0	0	1	0
 grammy	grammy	0	0	1	0
-aheilor	achaean	0	0	1	0
 aheilor	achaens	0	0	1	0
 aheilor	achaeans	0	0	1	0
 căutând	looking for	0	0	1	0
 căutând	sherching	0	0	1	0
 căutând	searching	0	0	1	0
-carașseverin	caras severin	0	0	1	0
 povești	stories	0	0	1	0
 adulți	adults	0	0	1	0
 masă	mass	0	0	1	1
@@ -11613,9 +11232,7 @@ termeni	terms	0	0	1	0
 includ	include	0	0	1	0
 acolo	there	0	0	1	1
 interpretării	performing	0	0	1	0
-interpretării	understanding	0	0	1	0
 interpretării	the interpretation's	0	0	1	0
-budismul	budism	0	0	1	0
 budismul	buddhism	0	0	1	0
 budismul	budhism	0	0	1	0
 ulise	ulise	0	0	1	0
@@ -11628,7 +11245,6 @@ seria	series	0	0	1	0
 ridicate	high	0	0	1	0
 ridicate	highest	0	0	1	0
 civilizația	civilization	0	0	1	0
-civilizația	the civilization	0	0	1	0
 administrativă	administrative	0	0	1	0
 jumătate	half	0	0	1	1
 austriece	austrian	0	0	1	0
@@ -11644,7 +11260,6 @@ eforturile	the efforts	0	0	1	0
 alternativă	alternative	0	0	1	1
 etnice	etnic	0	0	1	0
 etnice	ethnic	0	0	1	0
-ministerul	the minister	0	0	1	0
 ministerul	ministry	0	0	1	0
 constant	constant	0	0	1	1
 constant	steady	0	0	1	1
@@ -11679,7 +11294,6 @@ obținută	achieved	0	0	1	0
 humanitas	humanitas	0	0	1	0
 semnifică	meaning	0	0	1	0
 semnifică	signifies	0	0	1	0
-semnifică	means	0	0	1	0
 ținute	held	0	0	1	0
 ținute	keeped	0	0	1	0
 unitatea	unity	0	0	1	0
@@ -11715,7 +11329,6 @@ rurală	rural	0	0	1	0
 soldaților	soldiers	0	0	1	0
 publică	public	0	0	1	0
 categoriepoeți	category poets	0	0	1	0
-categoriepoeți	category: poets	0	0	1	0
 arbori	trees	0	0	1	0
 durează	continues	0	0	1	0
 durează	last	0	0	1	0
@@ -11734,14 +11347,12 @@ minore	minor	0	0	1	0
 minore	insignificant	0	0	1	0
 rămâne	remains	0	0	1	0
 sigmund	sigmund	0	0	1	0
-județean	county	0	0	1	0
 județean	county's	0	0	1	0
 literari	literary	0	0	1	0
 napoca	napoca	0	0	1	0
 ateneul	athenaeum	0	0	1	0
 armeană	armenian	0	0	1	0
 literare	literary	0	0	1	0
-soarelui	the sun	0	0	1	0
 soarelui	sun	0	0	1	0
 memoriei	memory	0	0	1	0
 sălbatice	wild	0	0	1	0
@@ -11810,12 +11421,11 @@ democratliberal	liberal-democrat	0	0	1	0
 democratliberal	liberal democrat	0	0	1	0
 democratliberal	liberal democratic	0	0	1	0
 laturi	sides	0	0	1	0
-impuls	momentum	0	0	1	1
 impuls	impulse	0	0	1	1
+impuls	momentum	0	0	1	1
 latura	direction	0	0	1	0
 latura	side	0	0	1	0
 ciclu	cycle	0	0	1	1
-expus	exhibited	0	0	1	0
 expus	exposed	0	0	1	0
 cazuri	cases	0	0	1	0
 pictată	painted	0	0	1	0
@@ -11842,7 +11452,9 @@ cert	sure	0	0	1	1
 existent	existing	0	0	1	1
 clima	climate	0	0	1	0
 lanț	chain	0	0	1	0
-citirea	reading	0	0	1	0
+așteptat	expected	0	0	1	0
+așteptat	waited	0	0	1	0
+așteptat	espected	0	0	1	0
 denumit	named	0	0	1	0
 denumit	called	0	0	1	1
 aparține	belongs	0	0	1	0
@@ -11852,7 +11464,6 @@ optică	optics	0	0	1	0
 optică	optic	0	0	1	0
 private	private	0	0	1	0
 activitățile	activities	0	0	1	0
-activitățile	actions	0	0	1	0
 leucemie	leucemy	0	0	1	0
 leucemie	leukemia	0	0	1	0
 măsurile	measures	0	0	1	0
@@ -11866,7 +11477,6 @@ sudvestul	southwest	0	0	1	0
 sudvestul	south-west	0	0	1	0
 sudvestul	southwestern	0	0	1	0
 che	che (tʃe)	0	0	1	0
-xixlea	a period	0	0	1	0
 recunoscut	is recognized	0	0	1	0
 recunoscut	reconized	0	0	1	0
 recunoscut	acknowledged	0	0	1	1
@@ -11877,10 +11487,7 @@ posibilitate	option	0	0	1	0
 ridicat	promoted	0	0	1	0
 ridicat	high	0	0	1	1
 apropierea	close	0	0	1	0
-apropierea	vicinity	0	0	1	0
 altitudine	altitude	0	0	1	1
-asasinat	assassination	0	0	1	1
-asasinat	murder	0	0	1	1
 controversat	controversial	0	0	1	1
 literară	literary	0	0	1	0
 literară	literature	0	0	1	0
@@ -11904,7 +11511,6 @@ rămână	to stay	0	0	1	0
 rămână	stay	0	0	1	0
 mesaj	message	0	0	1	1
 mesopotamia	mesopotamia	0	0	1	0
-institute	institute	0	0	1	0
 institute	institutes	0	0	1	0
 institute	instiutes	0	0	1	0
 urmele	tracks	0	0	1	0
@@ -11946,7 +11552,6 @@ pictate	painted	0	0	1	0
 pictate	painting	0	0	1	0
 episcopia	ward	0	0	1	0
 episcopia	bishop	0	0	1	0
-episcopia	diocese	0	0	1	0
 extremă	extreme	0	0	1	1
 sperma	sperm	0	0	1	0
 sperma	seed	0	0	1	0
@@ -11954,12 +11559,10 @@ rousseau	name	0	0	1	0
 rousseau	rousseau	0	0	1	0
 retragere	retired	0	0	1	0
 retragere	retreat	0	0	1	1
-ziare	newspaper	0	0	1	0
-ziare	newspapers	0	0	1	0
 frac	tails	0	0	1	1
 frac	dress suit	0	0	1	0
+malta	malta	0	0	1	0
 rapidă	quick	0	0	1	0
-rapidă	fast	0	0	1	0
 inducție	induction	0	0	1	0
 internațională	international	0	0	1	0
 internațională	intenational	0	0	1	0
@@ -11986,7 +11589,6 @@ carpaților	carpathian	0	0	1	0
 carpaților	carpatians	0	0	1	0
 carpaților	carpathians	0	0	1	0
 timișoara	timisoara	0	0	1	0
-condus	guided	0	0	1	0
 condus	led	0	0	1	0
 târzii	late	0	0	1	0
 continuitatea	continuity	0	0	1	0
@@ -12023,8 +11625,6 @@ la	to	0	0	1	1
 istoricilor	historians	0	0	1	0
 li	them	0	0	1	1
 negustorii	merchants	0	0	1	0
-subiecte	themes	0	0	1	0
-subiecte	topics	0	0	1	0
 subiecte	subjects	0	0	1	0
 industriei	industry	0	0	1	0
 industriei	industry`s	0	0	1	0
@@ -12040,7 +11640,6 @@ estice	eastern	0	0	1	0
 atestare	attestation	0	0	1	1
 dat	given	0	0	1	1
 dat	gave	0	0	1	0
-dat	give	0	0	1	0
 dau	give	0	0	1	0
 europeni	europeans	0	0	1	0
 dar	but	0	0	1	1
@@ -12064,7 +11663,7 @@ contactului	contract	0	0	1	0
 traducere	translation	0	0	1	1
 traducere	translate	0	0	1	0
 diferit	different	0	0	1	1
-potrivit	according to	0	0	1	1
+potrivit	according to	0	0	1	0
 potrivit	according	0	0	1	1
 vizibilă	visible	0	0	1	0
 vizibilă	apparent	0	0	1	0
@@ -12075,7 +11674,6 @@ socec	socec	0	0	1	0
 căror	whose	0	0	1	0
 căror	which	0	0	1	0
 sexual	sexual	0	0	1	1
-marius	marius	0	0	1	0
 matt	matt	0	0	1	0
 înfrânt	defeated	0	0	1	0
 electronice	electronics	0	0	1	0
@@ -12176,7 +11774,7 @@ originii	origin	0	0	1	0
 universul	world	0	0	1	0
 universul	univers	0	0	1	0
 universul	universe	0	0	1	0
-light	light	0	0	1	0
+interes	interest	0	0	1	1
 respinse	rejected	0	0	1	0
 respinse	denied	0	0	1	0
 salvării	salvation	0	0	1	0
@@ -12207,7 +11805,6 @@ marele	big	0	0	1	0
 marele	great	0	0	1	0
 construiască	build	0	0	1	0
 făcuse	has done	0	0	1	0
-făcuse	has had	0	0	1	0
 făcuse	made	0	0	1	0
 mir	chrism	0	0	1	1
 mit	with (this is german)	0	0	1	0
@@ -12219,7 +11816,6 @@ credea	think	0	0	1	0
 exporturile	exports	0	0	1	0
 exporturile	the exports	0	0	1	0
 romanului	novel	0	0	1	0
-romanului	novel's	0	0	1	0
 romanului	roman (city)	0	0	1	0
 müller	muller	0	0	1	0
 mulțumită	happy	0	0	1	0
@@ -12231,12 +11827,10 @@ pregătire	training	0	0	1	1
 pregătire	qualification for	0	0	1	0
 pregătire	preparing	0	0	1	0
 handbal	handball	0	0	1	0
-plantele	plants	0	0	1	0
 plantele	the plants	0	0	1	0
 altor	other's	0	0	1	0
 altor	others	0	0	1	0
 sare	salt	0	0	1	1
-lectură	lecture	0	0	1	0
 lectură	reading	0	0	1	1
 domeniul	field	0	0	1	0
 domeniul	domain	0	0	1	0
@@ -12299,7 +11893,6 @@ mamiferelor	mammals	0	0	1	0
 capului	head	0	0	1	0
 prințului	prince	0	0	1	0
 constantă	constant	0	0	1	0
-categoriefotbaliști	category football players	0	0	1	0
 categoriefotbaliști	category football	0	0	1	0
 categoriefotbaliști	two words. 'categorie' and 'fotbalisti'. category and football players	0	0	1	0
 constituției	constitution	0	0	1	0
@@ -12421,7 +12014,6 @@ ar	could	0	0	1	0
 ar	would	0	0	1	0
 plasată	placed	0	0	1	0
 plasată	situated	0	0	1	0
-aeroportul	airport	0	0	1	0
 aeroportul	airports	0	0	1	0
 aeroportul	the airport	0	0	1	0
 externe	extern	0	0	1	0
@@ -12440,7 +12032,6 @@ arabia	name	0	0	1	0
 localitate	locality	0	0	1	1
 localitate	village	0	0	1	0
 programul	program	0	0	1	0
-mișcare	movement	0	0	1	0
 constituționale	constitutional	0	0	1	0
 vladimirescu	vladimirescu	0	0	1	0
 schimbat	changed	0	0	1	0
@@ -12449,9 +12040,8 @@ schimbat	changed	0	0	1	0
 întregime	whole	0	0	1	0
 antică	antique	0	0	1	0
 antică	ancient	0	0	1	0
-practice	practical	0	0	1	0
-practice	useful	0	0	1	0
-practice	practic	0	0	1	0
+material	material	0	0	1	1
+material	materially	0	0	1	0
 heinrich	heinrich	0	0	1	0
 indonezia	indonesia	0	0	1	0
 indonezia	indonezia	0	0	1	0
@@ -12467,7 +12057,6 @@ contextul	the context	0	0	1	0
 contextul	context	0	0	1	0
 identificare	identification	0	0	1	1
 center	center	0	0	1	0
-constituit	represented	0	0	1	0
 constituit	constituted	0	0	1	0
 constituit	has been	0	0	1	0
 nucleare	nuclear	0	0	1	0
@@ -12524,9 +12113,7 @@ odiseea	oddysey	0	0	1	0
 adn	deoxyribonucleic acid	0	0	1	0
 adn	dna	0	0	1	0
 belgrad	belgrad (town name)	0	0	1	0
-belgrad	belgrad	0	0	1	0
 existau	existed	0	0	1	0
-existau	there	0	0	1	0
 existau	were	0	0	1	0
 culorile	colors	0	0	1	0
 așteaptă	waiting	0	0	1	0
@@ -12559,13 +12146,11 @@ legionară	legionnaire	0	0	1	0
 termină	finish	0	0	1	0
 termină	complete	0	0	1	0
 distinctă	distinct	0	0	1	0
-distinctă	distinctive	0	0	1	0
 distinctă	independent	0	0	1	0
 poetice	poetic	0	0	1	0
 italian	italian	0	0	1	1
-peșterii	cave`s	0	0	1	0
-peșterii	cave	0	0	1	0
 peșterii	cave's	0	0	1	0
+peșterii	cave	0	0	1	0
 soluția	solution	0	0	1	0
 puternică	powerfull	0	0	1	0
 puternică	strong	0	0	1	0
@@ -12612,8 +12197,7 @@ toma	tom	0	0	1	0
 strategice	strategical	0	0	1	0
 strategice	strategic	0	0	1	0
 sinteză	synthesis	0	0	1	1
-valoroase	valuables	0	0	1	0
-valoroase	valuable	0	0	1	0
+purtau	wore	0	0	1	0
 winamp	winap	0	0	1	0
 winamp	winamp	0	0	1	0
 divinitate	divine	0	0	1	0
@@ -12641,7 +12225,6 @@ legende	legends	0	0	1	0
 trăi	live	0	0	1	1
 legenda	the legend	0	0	1	0
 legenda	legend	0	0	1	0
-legenda	myth	0	0	1	0
 paralelă	parallel	0	0	1	1
 virtutea	virtue	0	0	1	0
 virtutea	under	0	0	1	0
@@ -12693,8 +12276,8 @@ petrece	happens	0	0	1	0
 petrece	happen	0	0	1	1
 muzică	music	0	0	1	1
 virtual	virtual	0	0	1	1
-urmărește	follows	0	0	1	0
 urmărește	follow	0	0	1	0
+urmărește	follows	0	0	1	0
 lupta	fight	0	0	1	0
 lupte	fights	0	0	1	0
 lupte	battles	0	0	1	0
@@ -12732,9 +12315,7 @@ mă	ma	0	0	1	0
 tratat	concord	0	0	1	0
 tratat	treaty	0	0	1	1
 medicală	medical	0	0	1	0
-află	find out	0	0	1	0
 află	find	0	0	1	0
-află	found out	0	0	1	0
 diferență	difference	0	0	1	0
 diferență	the difference	0	0	1	0
 adevărată	genuine	0	0	1	0
@@ -12774,7 +12355,6 @@ organizează	organized	0	0	1	0
 organizează	organises	0	0	1	0
 publica	publishes	0	0	1	0
 publica	publishing	0	0	1	0
-publica	present	0	0	1	0
 simptomele	symptoms	0	0	1	0
 simptomele	the symptoms of	0	0	1	0
 simptomele	simptoms	0	0	1	0
@@ -12797,7 +12377,6 @@ bunica	grandmother	0	0	1	0
 bunica	grandma	0	0	1	0
 călugării	monks	0	0	1	0
 fotbalului	soccer	0	0	1	0
-fotbalului	football's	0	0	1	0
 fotbalului	football	0	0	1	0
 rușilor	russian	0	0	1	0
 rușilor	russians	0	0	1	0
@@ -12818,13 +12397,10 @@ acorda	give	0	0	1	1
 organisme	organizations	0	0	1	0
 organisme	organisms	0	0	1	0
 organisme	bodies	0	0	1	0
-xvii	xvii	0	0	1	0
 xvii	17th century	0	0	1	0
 lunii	mid-october	0	0	1	0
 lunii	month	0	0	1	0
-sudic	a direction	0	0	1	0
 sudic	southern	0	0	1	1
-disney	disney	0	0	1	0
 florea	florea	0	0	1	0
 florea	florea (person's name)	0	0	1	0
 convingerea	opinion	0	0	1	0
@@ -12832,9 +12408,6 @@ convingerea	belief	0	0	1	0
 convingerea	conviction	0	0	1	0
 starea	state	0	0	1	0
 starea	the case	0	0	1	0
-așteptat	expected	0	0	1	0
-așteptat	waited	0	0	1	0
-așteptat	espected	0	0	1	0
 ulterior	after	0	0	1	1
 studiu	study	0	0	1	1
 studii	studies	0	0	1	0
@@ -12851,7 +12424,6 @@ ucraina	ucraina	0	0	1	0
 așanumita	so called	0	0	1	0
 așanumita	so-called	0	0	1	0
 așanumita	the so called	0	0	1	0
-categoriețări	countries category	0	0	1	0
 mărculeț	marculet	0	0	1	0
 forum	forum	0	0	1	0
 reluat	resumed	0	0	1	0
@@ -12861,10 +12433,10 @@ precis	accurately	0	0	1	1
 generale	elementary	0	0	1	0
 generale	general	0	0	1	0
 generali	generals	0	0	1	0
-generali	general	0	0	1	0
 heracles	heracles	0	0	1	0
 întrunul	inside	0	0	1	0
 întrunul	in one	0	0	1	0
+politic	political	0	0	1	1
 vremurile	the times	0	0	1	0
 vremurile	times	0	0	1	0
 julie	julie	0	0	1	0
@@ -12962,7 +12534,6 @@ conducă	lead	0	0	1	0
 dialect	dialect	0	0	1	1
 dialect	accent	0	0	1	0
 poker	poker	0	0	1	0
-gustave	gustave	0	0	1	0
 edificiu	edifice	0	0	1	1
 edificiu	structure	0	0	1	1
 tradiții	traditions	0	0	1	0
@@ -12976,7 +12547,9 @@ acordă	offers	0	0	1	0
 acordă	is giving	0	0	1	0
 religie	religion	0	0	1	1
 sînt	are	0	0	1	0
-religia	religion	0	0	1	0
+edificii	patterns	0	0	1	0
+edificii	edifices	0	0	1	0
+edificii	buildings	0	0	1	0
 sfatul	advice	0	0	1	0
 sfatul	the advice	0	0	1	0
 sfatul	council	0	0	1	0
@@ -13022,7 +12595,6 @@ superioară	upper	0	0	1	0
 vite	cows	0	0	1	0
 vite	cattle	0	0	1	1
 balcanice	balcanic	0	0	1	0
-balcanice	balkans	0	0	1	0
 balcanice	balkan	0	0	1	0
 borcea	borcea	0	0	1	0
 drapelului	flag	0	0	1	0
@@ -13104,7 +12676,7 @@ domnul	prince	0	0	1	0
 domnul	king	0	0	1	0
 corect	properly	0	0	1	0
 corect	correct	0	0	1	1
-zidurilor	walls	0	0	1	0
+crassus	crassus	0	0	1	0
 modalități	ways	0	0	1	0
 epocii	the time	0	0	1	0
 epocii	time	0	0	1	0
@@ -13133,7 +12705,6 @@ chiar	really	0	0	1	0
 ritual	rite	0	0	1	1
 ritual	ritual	0	0	1	1
 încep	start	0	0	1	0
-încep	beginning	0	0	1	0
 shakur	shakur	0	0	1	0
 shakur	name	0	0	1	0
 creații	works of art	0	0	1	0
@@ -13145,8 +12716,8 @@ veniturilor	income	0	0	1	0
 veniturilor	incomes	0	0	1	0
 industrial	industrially	0	0	1	1
 industrial	industrial	0	0	1	1
-obiectele	things	0	0	1	0
-obiectele	objects	0	0	1	0
+primare	elementary	0	0	1	0
+primare	primary	0	0	1	0
 corneliu	cornelius	0	0	1	0
 corneliu	corneliu	0	0	1	0
 afaceri	bussinies	0	0	1	0
@@ -13165,6 +12736,8 @@ top	top	0	0	1	0
 piese	parts	0	0	1	0
 piese	plays	0	0	1	0
 piese	pieces	0	0	1	0
+dreptate	justice	0	0	1	1
+dreptate	right	0	0	1	1
 tot	also	0	0	1	1
 tot	still	0	0	1	0
 piesa	track	0	0	1	0
@@ -13192,8 +12765,6 @@ recunoscute	recognize	0	0	1	0
 recunoscute	reconized	0	0	1	0
 recunoscute	recognized	0	0	1	0
 păstrată	maintained	0	0	1	0
-păstrată	kept	0	0	1	0
-păstrată	keeped	0	0	1	0
 valorile	values	0	0	1	0
 prefectura	prefecture	0	0	1	0
 trăiesc	live	0	0	1	0
@@ -13205,7 +12776,6 @@ răscoala	riot	0	0	1	0
 balcanică	balcanic	0	0	1	0
 balcanică	balkan	0	0	1	0
 superioare	superior	0	0	1	0
-superioare	higher	0	0	1	0
 dezvoltat	advanced or developed	0	0	1	0
 dezvoltat	developed	0	0	1	1
 folosit	used	0	0	1	1
@@ -13230,7 +12800,6 @@ comunitatea	comunity	0	0	1	0
 împărțire	share	0	0	1	0
 fosta	ex	0	0	1	0
 fosta	former	0	0	1	0
-jetix	jetix	0	0	1	0
 specialiștii	specialists	0	0	1	0
 specialiștii	speialists	0	0	1	0
 aurelian	aurelian	0	0	1	0
@@ -13267,6 +12836,9 @@ metan	methane	0	0	1	1
 revoluționar	revolutionary	0	0	1	0
 revoluționar	relvolutionary	0	0	1	0
 lucrul	work	0	0	1	0
+concepție	concept	0	0	1	0
+concepție	conception	0	0	1	0
+concepție	notion	0	0	1	0
 ceilalți	other	0	0	1	0
 ceilalți	others	0	0	1	0
 castelul	castle	0	0	1	0
@@ -13276,7 +12848,6 @@ provocate	caused	0	0	1	0
 provocate	to fill with	0	0	1	0
 popa	popa	0	0	1	0
 țara	country	0	0	1	0
-țara	name of a place	0	0	1	0
 domiciliu	home	0	0	1	1
 domiciliu	house	0	0	1	1
 dimensiuni	dimensions	0	0	1	0
@@ -13319,7 +12890,6 @@ opinia	opinion	0	0	1	0
 opinie	oppinion	0	0	1	0
 opinie	opinion	0	0	1	1
 oct	october	0	0	1	0
-oct	oct	0	0	1	0
 universală	universal	0	0	1	0
 palatului	palace	0	0	1	0
 fabrici	factories	0	0	1	0
@@ -13338,7 +12908,6 @@ considerate	considered	0	0	1	0
 goga	goga	0	0	1	0
 preluarea	taking over	0	0	1	0
 preluarea	taking	0	0	1	0
-preluarea	takeover	0	0	1	0
 uniunea	union	0	0	1	0
 castrul	camp	0	0	1	0
 poarte	behave	0	0	1	0
@@ -13348,13 +12917,12 @@ poarte	gate or doorway	0	0	1	0
 legionare	guard	0	0	1	0
 legionare	legions	0	0	1	0
 legionare	legionnaire	0	0	1	0
-legionari	legionnaires	0	0	1	0
 legionari	legionaires	0	0	1	0
 legionari	legionary	0	0	1	0
 dragomir	name	0	0	1	0
 dragomir	dragomir	0	0	1	0
 bucureștilor	bucharest's	0	0	1	0
-războaiele	wars	0	0	1	0
+clujului	cluj	0	0	1	0
 slovacia	slovakia	0	0	1	0
 slovacia	slovacia	0	0	1	0
 țin	take place	0	0	1	0
@@ -13363,13 +12931,11 @@ evul	avverage	0	0	1	0
 evul	age	0	0	1	0
 evul	ages	0	0	1	0
 evul	in the sentence should me middle ages.	0	0	1	0
-nui	not	0	0	1	0
 esența	essence	0	0	1	0
 esența	esence	0	0	1	0
 holocaustului	holocaust	0	0	1	0
 presupune	assume	0	0	1	1
 presupune	suppose	0	0	1	1
-presupune	expect	0	0	1	1
 responsabilă	responsible	0	0	1	0
 atlanticului	of the atlantic (ocean)	0	0	1	0
 atlanticului	atlantic	0	0	1	0
@@ -13408,7 +12974,6 @@ identitatea	identy	0	0	1	0
 identitatea	identity	0	0	1	0
 catedrala	cathedral	0	0	1	0
 capturat	captured	0	0	1	0
-ele	them	0	0	1	0
 ele	they	0	0	1	1
 aurului	the gold's	0	0	1	0
 aurului	of gold	0	0	1	0
@@ -13421,14 +12986,14 @@ diversitatea	diversity	0	0	1	0
 dracul	dracul	0	0	1	0
 dracul	the devil	0	0	1	0
 dracul	dracul ( devil)	0	0	1	0
-universale	worldwide	0	0	1	0
 universale	universal	0	0	1	0
 colaborează	works together	0	0	1	0
 colaborează	contribute	0	0	1	0
 colaborează	collaborates	0	0	1	0
 purtat	held	0	0	1	0
 purtat	worn	0	0	1	1
-purtau	wore	0	0	1	0
+valoroase	valuables	0	0	1	0
+valoroase	valuable	0	0	1	0
 fabrică	manufacture	0	0	1	0
 fabrică	factory	0	0	1	1
 construcțiile	ending with construction	0	0	1	0
@@ -13437,8 +13002,8 @@ construcțiile	constructions	0	0	1	0
 feminin	female	0	0	1	1
 daciei	dacia	0	0	1	0
 daciei	campaign	0	0	1	0
-mult	a lot	0	0	1	0
-mult	much	0	0	1	1
+treapta	step	0	0	1	0
+treapta	stage	0	0	1	0
 desființat	destroyed	0	0	1	0
 desființat	dissolved	0	0	1	0
 scrisoarea	letter	0	0	1	0
@@ -13448,7 +13013,6 @@ părăsește	leaving	0	0	1	0
 conte	count	0	0	1	1
 animeul	animeul	0	0	1	0
 animeul	anime	0	0	1	0
-considerând	speculating	0	0	1	0
 considerând	considering	0	0	1	0
 înscrise	inscribed	0	0	1	0
 înscrise	registered	0	0	1	0
@@ -13461,8 +13025,6 @@ majoritar	mainly	0	0	1	0
 majoritar	of a majority	0	0	1	0
 majoritar	mostly	0	0	1	0
 xxi	xxi	0	0	1	0
-xxi	roman numeral	0	0	1	0
-xxi	21st	0	0	1	0
 xxi	twenty first	0	0	1	0
 privește	regarding	0	0	1	0
 privește	regards	0	0	1	0
@@ -13485,7 +13047,6 @@ după	after	0	0	1	1
 procedura	the procedure	0	0	1	0
 procedura	procedure	0	0	1	0
 plăci	plates	0	0	1	0
-plăci	boards	0	0	1	0
 della	della	0	0	1	0
 veronica	veronica	0	0	1	0
 veronica	name	0	0	1	0
@@ -13507,8 +13068,6 @@ exterior	exterior	0	0	1	1
 exterior	out	0	0	1	1
 evanghelică	evangelical	0	0	1	0
 evanghelică	evangelistic	0	0	1	0
-românească	romanian	0	0	1	0
-românească	the romanian	0	0	1	0
 porțile	gates	0	0	1	0
 porțile	the gates	0	0	1	0
 categoriescriitori	two words- category: writer	0	0	1	0
@@ -13518,7 +13077,6 @@ armatele	armies	0	0	1	0
 armatele	troops	0	0	1	0
 armatele	the armies	0	0	1	0
 compuse	composed	0	0	1	0
-compuse	written	0	0	1	0
 cartierele	neighborhoods	0	0	1	0
 cartierele	the neighborhoods	0	0	1	0
 complex	complex	0	0	1	1
@@ -13526,11 +13084,10 @@ chilia	chilia	0	0	1	0
 complet	complete	0	0	1	1
 complet	complet	0	0	1	0
 esență	essence	0	0	1	0
-esență	esention	0	0	1	0
 poluarea	polution	0	0	1	0
 poluarea	pollution	0	0	1	0
 negativ	negative	0	0	1	1
-monumentelor	monuments	0	0	1	0
+social	social	0	0	1	1
 învățăturile	learnings	0	0	1	0
 învățăturile	teachings	0	0	1	0
 învățăturile	the teachings	0	0	1	0
@@ -13543,7 +13100,6 @@ ieșit	came out	0	0	1	0
 ieșit	endet	0	0	1	0
 portal	portal	0	0	1	1
 vodă	king	0	0	1	0
-vodă	vodă	0	0	1	0
 lingviști	linguists	0	0	1	0
 legea	the law	0	0	1	0
 legea	law	0	0	1	0
@@ -13551,7 +13107,6 @@ cavalerilor	knight	0	0	1	0
 cavalerilor	knights	0	0	1	0
 satului	the village's	0	0	1	0
 satului	village	0	0	1	0
-inteligent	intelligent	0	0	1	1
 inteligent	inteligen	0	0	1	0
 inteligent	smart	0	0	1	1
 formației	formation's	0	0	1	0
@@ -13605,13 +13160,11 @@ particularități	particularity	0	0	1	0
 particularități	particulars	0	0	1	0
 budismului	buddhism	0	0	1	0
 budismului	budhism	0	0	1	0
-apare	shows up	0	0	1	0
 apare	appears	0	0	1	0
 baba	old woman	0	0	1	0
 cultural	cultural	0	0	1	1
 demolată	demolished	0	0	1	0
 groenlanda	greenland	0	0	1	0
-groenlanda	groenland	0	0	1	0
 necesar	necessary	0	0	1	1
 iranului	iran	0	0	1	0
 înălțime	height	0	0	1	0
@@ -13619,7 +13172,7 @@ iranului	iran	0	0	1	0
 înălțimi	heights	0	0	1	0
 frații	brothers	0	0	1	0
 scumpe	expensive	0	0	1	0
-specific	specific	0	0	1	1
+realitatea	reality	0	0	1	0
 înălțarea	the ascension	0	0	1	0
 înălțarea	rising	0	0	1	0
 înălțarea	resurrection	0	0	1	0
@@ -13635,7 +13188,6 @@ superlative	superlative	0	0	1	0
 felul	kind	0	0	1	0
 felul	mode	0	0	1	0
 cât	how	0	0	1	0
-cât	as	0	0	1	0
 viață	life	0	0	1	0
 lichid	liquid	0	0	1	1
 contemporană	nowadays	0	0	1	0
@@ -13651,8 +13203,7 @@ suediei	sweden	0	0	1	0
 suediei	sweden's	0	0	1	0
 numite	named	0	0	1	0
 numite	called	0	0	1	0
-numite	named after	0	0	1	0
-realitatea	reality	0	0	1	0
+specific	specific	0	0	1	1
 pământurile	lands	0	0	1	0
 omenirii	human kind	0	0	1	0
 omenirii	mankind	0	0	1	0
@@ -13710,8 +13261,8 @@ toate	all	0	0	1	1
 asta	this	0	0	1	0
 asta	that	0	0	1	1
 programele	programs	0	0	1	0
-mexic	mexico	0	0	1	0
 mexic	mexic	0	0	1	0
+mexic	mexico	0	0	1	0
 produc	produce	0	0	1	0
 produc	produces	0	0	1	0
 reacționează	react	0	0	1	0
@@ -13853,7 +13404,6 @@ pictură	painting	0	0	1	1
 navei	ship	0	0	1	0
 navei	the ship's	0	0	1	0
 deltei	delta	0	0	1	0
-secolului	period	0	0	1	0
 secolului	century	0	0	1	0
 guvernator	governor	0	0	1	1
 vietnam	vietnam	0	0	1	0
@@ -13869,7 +13419,6 @@ rol	role	0	0	1	1
 rom	short for "romanian"	0	0	1	0
 rom	rum	0	0	1	1
 ron	ron (the name)	0	0	1	0
-unitate	unity	0	0	1	1
 unitate	unit	0	0	1	1
 dumas	dumas	0	0	1	0
 pește	fish	0	0	1	0
@@ -13926,9 +13475,7 @@ hawaii	hawaii	0	0	1	0
 traseul	route	0	0	1	0
 traseul	the street	0	0	1	0
 văii	valley	0	0	1	0
-persoanele	persons	0	0	1	0
-persoanele	the persons	0	0	1	0
-persoanele	people	0	0	1	0
+oricine	anybody	0	0	1	1
 confesiune	confession	0	0	1	1
 morală	moral	0	0	1	1
 standarde	standards	0	0	1	0
@@ -13972,7 +13519,6 @@ teritoriul	area	0	0	1	0
 gramatica	grammar	0	0	1	0
 oradiei	oradea	0	0	1	0
 oradiei	oradea's	0	0	1	0
-oradiei	of oradea	0	0	1	0
 den	if the	0	0	1	0
 tehnică	technique	0	0	1	1
 tehnică	technics	0	0	1	1
@@ -13987,7 +13533,6 @@ valoare	value	0	0	1	1
 refuză	refuses	0	0	1	0
 refuză	refuse	0	0	1	0
 veniți	who came	0	0	1	0
-veniți	arrived	0	0	1	0
 veniți	came	0	0	1	0
 figură	figure	0	0	1	1
 dacică	dacian	0	0	1	0
@@ -14016,8 +13561,6 @@ succesiune	succesion	0	0	1	0
 succesiune	sequence	0	0	1	1
 morale	moral	0	0	1	0
 standardele	standars	0	0	1	0
-standardele	the standards	0	0	1	0
-standardele	standards	0	0	1	0
 măsoară	measures	0	0	1	0
 măsoară	measure	0	0	1	0
 observații	observations	0	0	1	0
@@ -14031,7 +13574,6 @@ prea	too much	0	0	1	0
 australian	australian	0	0	1	1
 criterii	the criteria	0	0	1	0
 criterii	criterions	0	0	1	0
-criterii	criteria	0	0	1	0
 casei	house	0	0	1	0
 stabilește	establish	0	0	1	0
 stabilește	sets	0	0	1	0
@@ -14048,11 +13590,9 @@ constata	see	0	0	1	1
 constata	constant	0	0	1	0
 ministerului	minister	0	0	1	0
 ministerului	minster's	0	0	1	0
-ceea	which	0	0	1	0
-ceea	that	0	0	1	0
+districte	districts	0	0	1	0
 bizantină	byzantine	0	0	1	0
 motivul	motive	0	0	1	0
-motivul	reason	0	0	1	0
 motivul	the reason	0	0	1	0
 fauna	fauna	0	0	1	0
 fauna	faun	0	0	1	0
@@ -14090,7 +13630,6 @@ sferică	spherical	0	0	1	0
 sferică	ball	0	0	1	0
 reiese	deduce	0	0	1	0
 reiese	results	0	0	1	0
-reiese	shows	0	0	1	0
 populația	the population	0	0	1	0
 populația	population	0	0	1	0
 populație	population	0	0	1	0
@@ -14224,8 +13763,9 @@ regimul	regime	0	0	1	0
 câmpul	field	0	0	1	0
 culorii	color	0	0	1	0
 culorii	colour`s	0	0	1	0
-profesioniști	professional	0	0	1	0
-profesioniști	professionals	0	0	1	0
+arheologice	archaeological	0	0	1	0
+arheologice	archaeologist	0	0	1	0
+arheologice	archeological	0	0	1	0
 factori	factors	0	0	1	0
 stele	stars	0	0	1	0
 mintea	mind	0	0	1	0
@@ -14246,7 +13786,6 @@ promova	promotes	0	0	1	0
 căpătat	gained	0	0	1	0
 căpătat	acquired	0	0	1	0
 studenți	students	0	0	1	0
-apariția	aparition	0	0	1	0
 apariția	appearance	0	0	1	0
 apariția	the apparition	0	0	1	0
 apariție	appearence	0	0	1	0
@@ -14275,7 +13814,6 @@ operă	operate	0	0	1	0
 fondatorul	founder	0	0	1	0
 albania	albania	0	0	1	0
 operei	literary work	0	0	1	0
-operei	publication	0	0	1	0
 operei	of the work	0	0	1	0
 sângelui	blood	0	0	1	0
 sângelui	of blood	0	0	1	0
@@ -14303,7 +13841,6 @@ sigismund	sigismund (family name	0	0	1	0
 muncii	work	0	0	1	0
 muncii	labour	0	0	1	0
 muncii	labor	0	0	1	0
-iau	had	0	0	1	0
 iau	have	0	0	1	0
 iau	arise	0	0	1	0
 white	whie	0	0	1	0
@@ -14313,8 +13850,8 @@ hadrian	hadrian	0	0	1	0
 iar	and	0	0	1	1
 iar	again	0	0	1	1
 realitate	reality	0	0	1	1
-bucurie	pleasure	0	0	1	1
 bucurie	joy	0	0	1	1
+bucurie	pleasure	0	0	1	1
 sexuală	sexual	0	0	1	0
 sony	sony	0	0	1	0
 niște	some	0	0	1	0
@@ -14330,7 +13867,8 @@ contribuie	contributes	0	0	1	0
 marinei	navy`s	0	0	1	0
 marinei	marines	0	0	1	0
 marinei	of the marine	0	0	1	0
-venind	coming	0	0	1	0
+harghita	harghita	0	0	1	0
+harghita	name	0	0	1	0
 pătruns	entered	0	0	1	0
 rezistenței	resistance	0	0	1	0
 rezistenței	reistence	0	0	1	0
@@ -14362,7 +13900,6 @@ sârbi	serbian	0	0	1	0
 placă	board	0	0	1	0
 placă	plaque	0	0	1	1
 ernest	ernest	0	0	1	0
-everest	the name of a mountain	0	0	1	0
 everest	everest	0	0	1	0
 comuniști	communists	0	0	1	0
 catolică	catholic	0	0	1	0
@@ -14377,7 +13914,6 @@ oglindă	mirror	0	0	1	1
 albastră	blue	0	0	1	0
 stăpânului	master	0	0	1	0
 cronicile	reviews	0	0	1	0
-cronicile	chronicles	0	0	1	0
 cronicile	the cronics	0	0	1	0
 părinților	parents	0	0	1	0
 multiple	many	0	0	1	0
@@ -14389,11 +13925,11 @@ urcat	grown	0	0	1	0
 urcat	rised	0	0	1	0
 urcat	up	0	0	1	0
 peninsula	peninsula	0	0	1	0
-boala	illness	0	0	1	0
 boala	disease	0	0	1	0
 atinge	touch	0	0	1	1
 atinge	rise	0	0	1	0
 atinge	reach	0	0	1	1
+puncte	points	0	0	1	0
 deviza	motto	0	0	1	0
 adusă	brought	0	0	1	0
 adusă	to	0	0	1	0
@@ -14410,7 +13946,6 @@ partidul	the party	0	0	1	0
 partidul	party	0	0	1	0
 găsită	found	0	0	1	0
 găsită	we find	0	0	1	0
-eroare	error	0	0	1	1
 state	states	0	0	1	0
 state	member	0	0	1	0
 natalității	birthrate	0	0	1	0
@@ -14429,7 +13964,6 @@ modificarea	change	0	0	1	0
 fratele	brother	0	0	1	0
 jazz	jazz	0	0	1	0
 granițe	borders	0	0	1	0
-granițe	converted	0	0	1	0
 granița	the border	0	0	1	0
 granița	border	0	0	1	0
 spirituale	spirituality	0	0	1	0
@@ -14478,7 +14012,6 @@ roșie	red	0	0	1	0
 extremitatea	extremity	0	0	1	0
 extremitatea	end	0	0	1	0
 vecinii	neighbors	0	0	1	0
-vecinii	neighbours	0	0	1	0
 federal	federal	0	0	1	1
 aduce	bring	0	0	1	1
 constituite	formed	0	0	1	0
@@ -14500,9 +14033,8 @@ pantelimon	pantelimon	0	0	1	0
 cancerului	cancer	0	0	1	0
 cancerului	the cancer of his	0	0	1	0
 contract	contract	0	0	1	1
-sicilia	sicilia	0	0	1	0
-sicilia	sicily	0	0	1	0
-sicilia	italy	0	0	1	0
+ochilor	eye's	0	0	1	0
+ochilor	eyes	0	0	1	0
 salveze	save	0	0	1	0
 agriculturii	agriculture	0	0	1	0
 primul	the first	0	0	1	0
@@ -14510,7 +14042,8 @@ primul	first	0	0	1	1
 comedii	the comedy	0	0	1	0
 comedii	comedy	0	0	1	0
 comedii	comedies	0	0	1	0
-senator	senator	0	0	1	1
+cafea	coffee	0	0	1	1
+cafea	coffe	0	0	1	0
 pakistan	pakistan	0	0	1	0
 color	color	0	0	1	0
 color	colour	0	0	1	0
@@ -14541,7 +14074,6 @@ laturile	sides	0	0	1	0
 laturile	side	0	0	1	0
 graniță	frontier or border	0	0	1	0
 graniță	border	0	0	1	0
-cartiere	neighbourhoods	0	0	1	0
 cartiere	neighborhoods	0	0	1	0
 conservatoare	conservatory	0	0	1	0
 conservatoare	conservators	0	0	1	0
@@ -14572,13 +14104,11 @@ andrea	needle	0	0	1	1
 spirit	spirit	0	0	1	1
 spirit	intellect	0	0	1	1
 case	houses	0	0	1	0
-case	house	0	0	1	0
 casa	home	0	0	1	0
 casa	house	0	0	1	0
-înălțimea	height	0	0	1	0
 înălțimea	heights	0	0	1	0
+înălțimea	height	0	0	1	0
 deplină	full	0	0	1	0
-deplină	wholly	0	0	1	0
 deplină	absolute	0	0	1	0
 testul	test	0	0	1	0
 testul	the test	0	0	1	0
@@ -14591,9 +14121,7 @@ adevăr	truth	0	0	1	1
 deplasează	move	0	0	1	0
 deplasează	movind	0	0	1	0
 vest	west	0	0	1	1
-romanocatolici	roman chatolic	0	0	1	0
-romanocatolici	romano-catholics	0	0	1	0
-romanocatolici	roman catholic	0	0	1	0
+asigurări	insurance	0	0	1	0
 autorului	the author's	0	0	1	0
 autorului	author`s	0	0	1	0
 autorului	author	0	0	1	0
@@ -14620,7 +14148,6 @@ transporturile	transports	0	0	1	0
 transporturile	the transport	0	0	1	0
 sezonul	season	0	0	1	0
 secetoase	dry	0	0	1	0
-secetoase	arid	0	0	1	0
 sediu	headquarters	0	0	1	1
 sediu	headquarter	0	0	1	0
 sudului	south	0	0	1	0
@@ -14642,8 +14169,8 @@ director	director	0	0	1	1
 director	manager	0	0	1	1
 director	headmaster	0	0	1	1
 aproape	almost	0	0	1	1
-aproape	about	0	0	1	1
 aproape	near	0	0	1	1
+aproape	about	0	0	1	1
 aminoacizii	aminoacids	0	0	1	0
 aminoacizii	amino	0	0	1	0
 margareta	margareta	0	0	1	0
@@ -14667,7 +14194,6 @@ atomică	atomic	0	0	1	0
 denumirea	name	0	0	1	0
 denumirea	the name	0	0	1	0
 muzee	museums	0	0	1	0
-mihaela	michelle	0	0	1	0
 mihaela	mihaela	0	0	1	0
 muzeu	museum	0	0	1	1
 conservarea	conservation	0	0	1	0
@@ -14684,8 +14210,7 @@ sistemul	system	0	0	1	0
 apropiere	closing	0	0	1	0
 apropiere	near	0	0	1	0
 apropiere	nearby	0	0	1	0
-devreme	early	0	0	1	1
-devreme	soon	0	0	1	1
+regent	regent	0	0	1	1
 înregistrarea	recording	0	0	1	0
 înregistrarea	the recording	0	0	1	0
 înregistrarea	registration	0	0	1	0
@@ -14696,8 +14221,8 @@ bloc	block	0	0	1	1
 bloc	unit	0	0	1	1
 litera	letter	0	0	1	0
 fundamentală	fundamentals	0	0	1	0
-fundamentală	fundamental	0	0	1	0
 fundamentală	foundamental	0	0	1	0
+fundamentală	fundamental	0	0	1	0
 capacitatea	capacity	0	0	1	0
 specialiștilor	specialists	0	0	1	0
 specialiștilor	experts	0	0	1	0
@@ -14765,7 +14290,6 @@ teoria	theory	0	0	1	0
 cunoască	know	0	0	1	0
 separată	separated	0	0	1	0
 separată	separate	0	0	1	0
-transformarea	transforming	0	0	1	0
 transformarea	transformation	0	0	1	0
 transformarea	the transformation	0	0	1	0
 servicii	services	0	0	1	0
@@ -14800,7 +14324,6 @@ cartier	ghetto	0	0	1	0
 ou	egg	0	0	1	1
 ou	la	0	0	1	0
 os	os	0	0	1	0
-op	will	0	0	1	0
 op	o	0	0	1	0
 iuliu	iuliu	0	0	1	0
 iuliu	name	0	0	1	0
@@ -14825,7 +14348,6 @@ valuri	waves	0	0	1	0
 instrumente	instruments	0	0	1	0
 celui	of	0	0	1	0
 celui	the	0	0	1	0
-agrement	pleasure	0	0	1	1
 agrement	agreement	0	0	1	1
 strict	strictly	0	0	1	1
 buda	city of buda in old budapest	0	0	1	0
@@ -14834,7 +14356,6 @@ situații	situations	0	0	1	0
 idee	idea	0	0	1	1
 educației	education	0	0	1	0
 emisiuni	shows	0	0	1	0
-vestea	news	0	0	1	0
 vestea	the news	0	0	1	0
 federația	federation	0	0	1	0
 serbiei	serbia's	0	0	1	0
@@ -14872,6 +14393,8 @@ târgul	market	0	0	1	0
 târgul	the fair	0	0	1	0
 guvernamentală	governmental	0	0	1	0
 guvernamentală	governamental	0	0	1	0
+tratate	treaties	0	0	1	0
+tratate	treaty	0	0	1	0
 coroana	crown	0	0	1	0
 locuiește	living	0	0	1	0
 locuiește	live	0	0	1	0
@@ -14881,6 +14404,8 @@ rănit	wounded	0	0	1	0
 rănit	hurt	0	0	1	0
 acei	those	0	0	1	1
 taylor	taylor	0	0	1	0
+cipru	ciprus	0	0	1	0
+cipru	cyprus	0	0	1	0
 cinema	cinema	0	0	1	1
 taste	keys	0	0	1	0
 danemarcei	denmark	0	0	1	0
@@ -14965,12 +14490,10 @@ istoricului	historian	0	0	1	0
 terestră	terrestial	0	0	1	0
 terestră	land	0	0	1	0
 terestră	pedestrian	0	0	1	0
-separat	separately	0	0	1	1
 separat	separate	0	0	1	0
 ale	of	0	0	1	1
 ale	ale	0	0	1	0
 alb	white	0	0	1	1
-alb	whiet	0	0	1	0
 omorât	killed	0	0	1	0
 disc	disc	0	0	1	1
 disc	disk	0	0	1	1
@@ -14987,7 +14510,6 @@ permanentă	permanent	0	0	1	0
 permanentă	permanently	0	0	1	0
 cresc	increase	0	0	1	0
 cresc	rize	0	0	1	0
-cresc	raise	0	0	1	0
 japonezii	japanese	0	0	1	0
 marginea	edge	0	0	1	0
 program	program	0	0	1	1
@@ -15004,7 +14526,6 @@ succesiv	succesively	0	0	1	0
 textului	of the text	0	0	1	0
 textului	text	0	0	1	0
 fan	fan	0	0	1	0
-proprie	own	0	0	1	0
 fac	do	0	0	1	0
 fac	make	0	0	1	0
 băile	bath	0	0	1	0
@@ -15019,7 +14540,7 @@ tranziție	transition	0	0	1	0
 roz	pink	0	0	1	1
 budism	buddhism	0	0	1	1
 opoziției	opposition	0	0	1	0
-celălalt	the other	0	0	1	1
+celălalt	the other	0	0	1	0
 celălalt	other	0	0	1	1
 aceste	this	0	0	1	0
 aceste	these	0	0	1	1
@@ -15094,7 +14615,6 @@ piatră	rock	0	0	1	0
 frate	brother	0	0	1	1
 onești	onesti	0	0	1	0
 onești	honest	0	0	1	0
-provocat	provoked	0	0	1	0
 provocat	caused	0	0	1	0
 statale	state	0	0	1	0
 statale	the states	0	0	1	0
@@ -15112,7 +14632,6 @@ nucleul	nucleus	0	0	1	0
 nucleul	core	0	0	1	0
 flag	flag	0	0	1	0
 cercetărilor	searches	0	0	1	0
-cercetărilor	researchers	0	0	1	0
 cercetărilor	research	0	0	1	0
 vânătoarea	the hunt	0	0	1	0
 vânătoarea	hunting	0	0	1	0
@@ -15128,7 +14647,7 @@ terestru	terestrial	0	0	1	0
 terestru	terrestrial	0	0	1	1
 reprezentarea	representation	0	0	1	0
 reprezentarea	the representation	0	0	1	0
-protoni	protons	0	0	1	0
+wrestler	wrestler	0	0	1	0
 fenomene	fenomen	0	0	1	0
 fenomene	phenomenon	0	0	1	0
 fenomene	fenomens	0	0	1	0
@@ -15158,7 +14677,6 @@ weimar	weimar	0	0	1	0
 weimar	vienna	0	0	1	0
 micle	name	0	0	1	0
 micle	micle	0	0	1	0
-evocă	evokes	0	0	1	0
 evocă	evoke	0	0	1	0
 divin	divine	0	0	1	1
 topirea	melting	0	0	1	0
@@ -15168,9 +14686,8 @@ intenția	intention	0	0	1	0
 intenția	the intent	0	0	1	0
 specialiști	specialists	0	0	1	0
 solară	solar	0	0	1	0
-vlad	first name	0	0	1	0
-vlad	name	0	0	1	0
 vlad	vlad	0	0	1	0
+vlad	name	0	0	1	0
 turistic	tourism	0	0	1	0
 turistic	touristic	0	0	1	0
 mijloace	means	0	0	1	1
@@ -15210,8 +14727,8 @@ regelui	king	0	0	1	0
 regelui	king's	0	0	1	0
 născut	born	0	0	1	1
 dont	dont	0	0	1	0
-publicitatea	advertising	0	0	1	0
 publicitatea	the publicity	0	0	1	0
+publicitatea	advertising	0	0	1	0
 rezultat	result	0	0	1	1
 condițiile	conditions	0	0	1	0
 condițiile	under	0	0	1	0
@@ -15229,13 +14746,12 @@ abilități	the abilities	0	0	1	0
 acidului	acid	0	0	1	0
 senat	senate	0	0	1	1
 senat	senat	0	0	1	0
-responsabilitatea	responsability	0	0	1	0
 responsabilitatea	responsibility	0	0	1	0
+responsabilitatea	responsability	0	0	1	0
 responsabilitatea	the responsability	0	0	1	0
 temperatură	temperature	0	0	1	1
 regiunii	region	0	0	1	0
 găsesc	are found	0	0	1	0
-găsesc	find	0	0	1	0
 găsesc	are situated	0	0	1	0
 atributul	the atribute	0	0	1	0
 atributul	the attribute	0	0	1	0
@@ -15274,8 +14790,9 @@ nepal	nepal	0	0	1	0
 pacientul	the pacient	0	0	1	0
 pacientul	pacient	0	0	1	0
 invenții	inventions	0	0	1	0
-oricine	anyone	0	0	1	1
-oricine	anybody	0	0	1	1
+persoanele	persons	0	0	1	0
+persoanele	the persons	0	0	1	0
+persoanele	people	0	0	1	0
 etaj	step or stage	0	0	1	0
 etaj	floor	0	0	1	1
 organismului	body	0	0	1	0
@@ -15294,12 +14811,11 @@ rezultă	results	0	0	1	0
 refuzul	the refuse	0	0	1	0
 refuzul	the refusal	0	0	1	0
 refuzul	refusal	0	0	1	0
-alzheimer	alzheimer	0	0	1	0
+realizare	achievement	0	0	1	1
 galați	galati	0	0	1	0
 romeo	romeo	0	0	1	0
 generate	generated	0	0	1	0
 promovare	promotion	0	0	1	0
-promovare	promoting	0	0	1	0
 jocului	game	0	0	1	0
 proprietatea	property	0	0	1	0
 proprietatea	the propriety	0	0	1	0
@@ -15317,7 +14833,6 @@ nilului	nile's	0	0	1	0
 triunghi	tirangle	0	0	1	0
 triunghi	triangle	0	0	1	1
 fonduri	fund	0	0	1	1
-fonduri	funds	0	0	1	0
 moarte	death	0	0	1	1
 suprafață	surface	0	0	1	0
 acoperă	cover	0	0	1	0
@@ -15348,7 +14863,6 @@ porturile	ports	0	0	1	0
 porturile	harbors	0	0	1	0
 bihor	bihor	0	0	1	0
 ernst	ernst	0	0	1	0
-inspirate	inspierd	0	0	1	0
 inspirate	inspired	0	0	1	0
 colorate	painted	0	0	1	0
 colorate	colored	0	0	1	0
@@ -15395,7 +14909,6 @@ iiilea	the third	0	0	1	0
 moise	moses	0	0	1	0
 wilson	wilson	0	0	1	0
 amintesc	remind	0	0	1	0
-amintesc	remember	0	0	1	0
 majoritate	majority	0	0	1	1
 majoritate	mainly	0	0	1	0
 depăși	surpass	0	0	1	0
@@ -15430,7 +14943,7 @@ turcești	turkish	0	0	1	0
 regate	kingdoms	0	0	1	0
 copie	copy	0	0	1	1
 numărului	number	0	0	1	0
-numărului	the number	0	0	1	0
+veneția	venice	0	0	1	0
 brăila	name	0	0	1	0
 brăila	braila	0	0	1	0
 poți	able to	0	0	1	0
@@ -15461,9 +14974,9 @@ rezonanţă	rezonance	1	1	0	0
 rezonanţă	rezonanta	1	0	1	0
 cincea	fifth	0	0	1	0
 miron	miron	0	0	1	0
-învierea	the ressurection	0	0	1	0
-învierea	resurection	0	0	1	0
 învierea	resurrection	0	0	1	0
+învierea	resurection	0	0	1	0
+învierea	the ressurection	0	0	1	0
 kosovo	kosovo	0	0	1	0
 fond	fund	0	0	1	1
 fond	background	0	0	1	1
@@ -15506,7 +15019,6 @@ habacuc	foolish	1	0	1	0
 parcul	park	0	0	1	0
 său	his	0	0	1	1
 artistică	artistic	0	0	1	0
-reiki	reiki	0	0	1	0
 muntean	highlander	0	0	1	1
 hit	hit	0	0	1	0
 hiv	aids	0	0	1	0
@@ -15543,8 +15055,8 @@ curte	garden	0	0	1	0
 lovitură	hit	0	0	1	1
 lovitură	coup d' etat	0	0	1	0
 hidroxil	hydroxyl	0	0	1	0
-atâtea	many	0	0	1	0
-atâtea	so many	0	0	1	0
+înființate	established	0	0	1	0
+înființate	set up	0	0	1	0
 exprimat	expressed	0	0	1	0
 solidă	solid	0	0	1	0
 ideea	ideea	0	0	1	0
@@ -15612,8 +15124,6 @@ trupei	band	0	0	1	0
 trupei	bands	0	0	1	0
 unitară	unity	0	0	1	0
 unitară	unitary	0	0	1	0
-xvlea	xv - 15th (roman numbers)	0	0	1	0
-xvlea	15th century	0	0	1	0
 vieții	life	0	0	1	0
 promoveze	promote	0	0	1	0
 camil	camil	0	0	1	0
@@ -15673,8 +15183,8 @@ iasnaia	iasnaia	0	0	1	0
 coloana	spine	0	0	1	0
 coloana	column	0	0	1	0
 încheierea	signing	0	0	1	0
-încheierea	finish	0	0	1	0
 încheierea	the closing	0	0	1	0
+încheierea	finish	0	0	1	0
 titlul	title	0	0	1	0
 substanță	substance	0	0	1	0
 coloane	columns	0	0	1	0
@@ -15757,10 +15267,8 @@ componența	component	0	0	1	0
 invazia	invasion	0	0	1	0
 invazia	the invasion	0	0	1	0
 împărat	king	0	0	1	0
-împărat	emperor	0	0	1	1
 continent	continent	0	0	1	1
 posedă	has	0	0	1	0
-posedă	have	0	0	1	0
 posedă	owns	0	0	1	0
 suferință	suffering	0	0	1	0
 suferință	pain	0	0	1	0
@@ -15772,8 +15280,8 @@ scăpat	escaped	0	0	1	0
 scăpat	got away	0	0	1	0
 serviciu	job	0	0	1	1
 serviciu	service	0	0	1	1
-decursul	during	0	0	1	0
 decursul	course	0	0	1	0
+decursul	during	0	0	1	0
 invitați	invited	0	0	1	0
 invitați	guests	0	0	1	0
 lincoln	lincoln	0	0	1	0
@@ -15786,10 +15294,8 @@ cheile	keys	0	0	1	0
 cheile	gorge	0	0	1	0
 cheile	the gap	0	0	1	0
 lovit	hit	0	0	1	0
-lovit	came across	0	0	1	0
 respinge	rejects	0	0	1	0
 respinge	reject	0	0	1	1
-metalelor	metal	0	0	1	0
 metalelor	metals	0	0	1	0
 înșiși	themselves	0	0	1	0
 distruse	destroyed	0	0	1	0
@@ -15838,7 +15344,6 @@ intervenția	intervention	0	0	1	0
 naștere	born	0	0	1	0
 naștere	birth	0	0	1	0
 luminoase	bright	0	0	1	0
-luminoase	luminous	0	0	1	0
 analize	reviews	0	0	1	0
 analize	analysis	0	0	1	0
 fragmente	fragments	0	0	1	0
@@ -15851,12 +15356,11 @@ prof	prof	0	0	1	0
 prof	professor	0	0	1	0
 prof	prof.	0	0	1	0
 anne	anne	0	0	1	0
-problemă	problem	0	0	1	1
+rareș	rares	0	0	1	0
 istoriografia	historiography	0	0	1	0
 istoriografia	history	0	0	1	0
 anna	name	0	0	1	0
 anna	anna	0	0	1	0
-anna	second name	0	0	1	0
 cruciada	crusade	0	0	1	0
 cruciada	cruciade	0	0	1	0
 tentativă	attempt	0	0	1	0
@@ -15873,7 +15377,6 @@ independentă	independant	0	0	1	0
 independentă	free	0	0	1	0
 cuvânt	word	0	0	1	1
 muntii	mountains	0	0	1	0
-exemple	exemples	0	0	1	0
 exemple	examples	0	0	1	0
 lipsită	without	0	0	1	0
 lipsită	no basis	0	0	1	0
@@ -15895,7 +15398,6 @@ paralel	same time	0	0	1	0
 paralel	parallel	0	0	1	1
 tehnologia	technology	0	0	1	0
 județene	county	0	0	1	0
-județene	county councils	0	0	1	0
 județene	district	0	0	1	0
 tehnologic	technological	0	0	1	1
 tehnologic	tehnological	0	0	1	0
@@ -15949,8 +15451,6 @@ bulgari	bulgarian	0	0	1	0
 scrisul	writing	0	0	1	0
 melodia	melody	0	0	1	0
 melodie	song	0	0	1	1
-dalí	dalí	0	0	1	0
-dalí	a name of a person	0	0	1	0
 dalí	dali	0	0	1	0
 melodii	melodies	0	0	1	0
 melodii	songs	0	0	1	0
@@ -16003,9 +15503,9 @@ informatică	computer	0	0	1	0
 constantinopolului	constantinople	0	0	1	0
 navigație	navigation	0	0	1	0
 nicu	nicu	0	0	1	0
-medicului	doctor	0	0	1	0
-medicului	the doctor's	0	0	1	0
 medicului	doctor's	0	0	1	0
+medicului	the doctor's	0	0	1	0
+medicului	doctor	0	0	1	0
 nici	not	0	0	1	1
 nici	neither	0	0	1	1
 nici	no	0	0	1	0
@@ -16016,7 +15516,6 @@ intensă	intens	0	0	1	0
 intensă	intense	0	0	1	0
 lipsite	lack	0	0	1	0
 lipsite	lacking	0	0	1	0
-lipsite	without	0	0	1	0
 atitudinea	attitude	0	0	1	0
 luminoasă	luminous	0	0	1	0
 luminoasă	nver	0	0	1	0
@@ -16041,8 +15540,6 @@ cetățenia	citizenship	0	0	1	0
 problema	problem	0	0	1	0
 menținut	maintained	0	0	1	0
 menținut	mentained	0	0	1	0
-scărișoara	name of a cave	0	0	1	0
-scărișoara	little ladder	0	0	1	0
 scărișoara	scarisoara	0	0	1	0
 departe	far	0	0	1	1
 departe	further	0	0	1	0
@@ -16071,7 +15568,6 @@ naționale	national	0	0	1	0
 naționale	nations	0	0	1	0
 simon	simon	0	0	1	0
 iernile	winters	0	0	1	0
-nevoit	forced	0	0	1	0
 nevoit	constrained	0	0	1	1
 culturii	culture	0	0	1	0
 piele	skin	0	0	1	1
@@ -16108,13 +15604,13 @@ prăbușit	collapsed	0	0	1	0
 prăbușit	crash down	0	0	1	0
 melodiei	melody	0	0	1	0
 melodiei	song	0	0	1	0
-districte	districts	0	0	1	0
+asasinat	assassination	0	0	1	1
+asasinat	murder	0	0	1	1
 universității	university	0	0	1	0
 universității	of the university	0	0	1	0
 frumusețea	beauty	0	0	1	0
 redă	reproduce	0	0	1	0
 redă	restore	0	0	1	0
-redă	reproduces	0	0	1	0
 câmpulung	campulung	0	0	1	0
 zeii	gods	0	0	1	0
 zeii	the gods	0	0	1	0
@@ -16143,7 +15639,6 @@ sclavi	slaves	0	0	1	0
 știut	known	0	0	1	0
 privire	on	0	0	1	0
 privire	regarding	0	0	1	0
-privire	for	0	0	1	0
 fostul	former	0	0	1	0
 capital	essential	0	0	1	1
 capital	capital	0	0	1	1
@@ -16254,7 +15749,6 @@ comunitățile	communities	0	0	1	0
 comunitățile	comunity	0	0	1	0
 oltului	olt river	0	0	1	0
 oltului	olt	0	0	1	0
-oltului	to the olt	0	0	1	0
 provenit	came from	0	0	1	0
 provenit	came	0	0	1	0
 provenit	coming	0	0	1	0
@@ -16278,10 +15772,8 @@ arătat	shown	0	0	1	0
 arătat	showed	0	0	1	0
 biografice	biographical	0	0	1	0
 biografice	biographics	0	0	1	0
-biografice	biography	0	0	1	0
 lungimi	lenghts	0	0	1	0
 lungimi	length	0	0	1	0
-cristea	cristea	0	0	1	0
 caută	search	0	0	1	0
 caută	to look for	0	0	1	0
 sir	sir	0	0	1	0
@@ -16290,8 +15782,8 @@ oară	time	0	0	1	1
 studiilor	studies	0	0	1	0
 sit	site	0	0	1	0
 sit	would	0	0	1	0
-călugări	monks	0	0	1	0
 călugări	monk	0	0	1	0
+călugări	monks	0	0	1	0
 sic	sic	0	0	1	1
 gura	mouth	0	0	1	0
 inaugurat	inaugurated	0	0	1	0
@@ -16322,7 +15814,7 @@ fiecare	each other	0	0	1	0
 entități	entities	0	0	1	0
 entități	entites	0	0	1	0
 entități	entitees	0	0	1	0
-interes	interest	0	0	1	1
+light	light	0	0	1	0
 stăpâni	lords	0	0	1	0
 stăpâni	masters	0	0	1	0
 obiectului	object	0	0	1	0
@@ -16350,7 +15842,6 @@ bazine	basins	0	0	1	0
 bazine	reservoirs	0	0	1	0
 ocazii	occasions	0	0	1	0
 ocazii	ocasions	0	0	1	0
-ocazii	times	0	0	1	0
 inima	heart	0	0	1	0
 inima	the heart	0	0	1	0
 ocazie	occasion	0	0	1	1
@@ -16366,22 +15857,19 @@ scăzut	low	0	0	1	1
 oradea	oradea	0	0	1	0
 oradea	city	0	0	1	0
 unui	a	0	0	1	0
-unui	of one	0	0	1	0
 metroul	subway	0	0	1	0
 metroul	metro	0	0	1	1
 păsări	birds	0	0	1	0
-enciclopedia	a book	0	0	1	0
 enciclopedia	enciclopedia	0	0	1	0
 enciclopedia	encyclopaedia	0	0	1	0
 umanismul	humanism	0	0	1	0
-enciclopedic	enciclopedic	0	0	1	0
 enciclopedic	encyclopedic	0	0	1	1
 practici	practice	0	0	1	0
 practici	initiate practices	0	0	1	0
 practici	practices	0	0	1	0
 wolfgang	wolfgang	0	0	1	0
-material	material	0	0	1	1
-material	materially	0	0	1	0
+practice	practical	0	0	1	0
+practice	practic	0	0	1	0
 consecințe	consequences	0	0	1	0
 practica	the practice	0	0	1	0
 practica	practice	0	0	1	0
@@ -16401,7 +15889,6 @@ geneza	genesis	0	0	1	0
 atmosfera	atmosphere	0	0	1	0
 trap	trap	0	0	1	0
 tras	pulled	0	0	1	0
-tras	to shot	0	0	1	0
 lacrimi	tears	0	0	1	0
 mondială	modial	0	0	1	0
 mondială	world	0	0	1	0
@@ -16409,8 +15896,8 @@ mondială	the world	0	0	1	0
 propunerea	proposal	0	0	1	0
 propunerea	proposition	0	0	1	0
 propunerea	the proposal	0	0	1	0
-treimi	thirds	0	0	1	0
-treimi	third	0	0	1	0
+incapacitatea	inability	0	0	1	0
+incapacitatea	incapacity	0	0	1	0
 văzut	watched	0	0	1	0
 văzut	seen	0	0	1	1
 dante	dante (the author)	0	0	1	0
@@ -16442,6 +15929,7 @@ transmiterea	transmission	0	0	1	0
 transmiterea	sharing	0	0	1	0
 inelele	rings	0	0	1	0
 conflicte	conflicts	0	0	1	0
+control	control	0	0	1	1
 york	york	0	0	1	0
 viitoare	future	0	0	1	0
 viitoare	next	0	0	1	0
@@ -16455,7 +15943,6 @@ diferitelor	for different	0	0	1	0
 culorilor	colours	0	0	1	0
 culorilor	colors	0	0	1	0
 presă	press	0	0	1	1
-adrian	name of a footballer	0	0	1	0
 adrian	adrian	0	0	1	0
 tradiție	tradition	0	0	1	0
 rudolf	rudolph	0	0	1	0
@@ -16490,6 +15977,8 @@ accent	accent	0	0	1	1
 practică	practice	0	0	1	1
 practică	to practice	0	0	1	0
 practică	practic	0	0	1	0
+paginile	the pages	0	0	1	0
+paginile	pages	0	0	1	0
 infecții	infections	0	0	1	0
 spania	spain	0	0	1	0
 fizician	physicist	0	0	1	1
@@ -16503,9 +15992,8 @@ vine	comes	0	0	1	0
 inimă	heart	0	0	1	1
 concepția	conception	0	0	1	0
 puțini	few	0	0	1	0
-concepție	concept	0	0	1	0
-concepție	conception	0	0	1	0
-concepție	notion	0	0	1	0
+cucerească	conquer	0	0	1	0
+cucerească	to conquer	0	0	1	0
 ludovic	ludovic	0	0	1	0
 regiunea	region	0	0	1	0
 roata	wheel	0	0	1	0
@@ -16518,7 +16006,6 @@ remarcă	distinguished	0	0	1	0
 algeriei	algeria	0	0	1	0
 lucius	lucius	0	0	1	0
 sculpturi	sculptures	0	0	1	0
-declarație	statement	0	0	1	0
 declarație	declaration	0	0	1	0
 revoluției	revolution	0	0	1	0
 declarația	the declaration	0	0	1	0
@@ -16535,7 +16022,6 @@ declarații	declarations	0	0	1	0
 declarații	statements	0	0	1	0
 lucrărilor	work	0	0	1	0
 lucrărilor	constructions	0	0	1	0
-lucrărilor	works	0	0	1	0
 mărturie	testimony	0	0	1	1
 amintirea	recollection	0	0	1	0
 amintirea	reminiscence	0	0	1	0
@@ -16544,7 +16030,6 @@ execuție	execution	0	0	1	0
 explicit	precise	0	0	1	1
 explicit	explicit	0	0	1	1
 ialomiței	ialomiței	0	0	1	0
-ialomiței	ialomita	0	0	1	0
 ialomiței	ialomiţa	0	0	1	0
 mărturii	confession	0	0	1	0
 mărturii	testimonies	0	0	1	0
@@ -16605,7 +16090,6 @@ românesc	romanian	0	0	1	1
 arhitecturii	architecture	0	0	1	0
 arhitecturii	architectures	0	0	1	0
 dens	dense	0	0	1	1
-fier	steel	0	0	1	1
 fier	iron	0	0	1	1
 deținut	held	0	0	1	0
 deținut	detained	0	0	1	0
@@ -16617,7 +16101,6 @@ proveniență	proving	0	0	1	0
 proveniență	from	0	0	1	0
 proveniență	source	0	0	1	0
 joacă	play	0	0	1	1
-joacă	plays	0	0	1	0
 șeful	head	0	0	1	0
 șeful	chief	0	0	1	0
 șeful	boss	0	0	1	0
@@ -16731,14 +16214,11 @@ sonda	the probe	0	0	1	0
 unită	united	0	0	1	0
 renumit	famous	0	0	1	1
 renumit	renamed	0	0	1	0
-instituțiile	the institutions	0	0	1	0
 instituțiile	institutions	0	0	1	0
 atingerea	touch	0	0	1	0
-atingerea	reaching	0	0	1	0
 joc	game	0	0	1	1
 albumului	album	0	0	1	0
 intersecția	intersection	0	0	1	0
-aflați	being	0	0	1	0
 aflați	found	0	0	1	0
 aflați	find	0	0	1	0
 minereu	ore	0	0	1	1
@@ -16750,14 +16230,11 @@ susținând	supporting	0	0	1	0
 susținând	sustaining	0	0	1	0
 urmașul	follower	0	0	1	0
 urmașul	successor	0	0	1	0
-urmașul	descendant	0	0	1	0
 influențate	influenced	0	0	1	0
-turația	rotation	0	0	1	0
 turația	speed	0	0	1	0
 tunisia	tunisia	0	0	1	0
 ocna	ocna	0	0	1	0
 ocna	mine	0	0	1	0
-aerului	air's	0	0	1	0
 aerului	air	0	0	1	0
 ecuatorială	equatorial	0	0	1	0
 ecuatorială	ecuator	0	0	1	0
@@ -16771,12 +16248,11 @@ sporturi	sports	0	0	1	0
 muhammad	muhammad	0	0	1	0
 muhammad	mohamed ?	0	0	1	0
 bbc	bbc	0	0	1	0
-zeilor	gods	0	0	1	0
+problemă	problem	0	0	1	1
 prizonier	prisoner	0	0	1	1
 universal	universal	0	0	1	1
 universal	common	0	0	1	1
 prevederile	assignments	0	0	1	0
-prevederile	provision	0	0	1	0
 prevederile	provisions	0	0	1	0
 tehnica	technique	0	0	1	0
 tehnica	technic	0	0	1	0
@@ -16814,7 +16290,7 @@ droguri	drugs	0	0	1	0
 față	to	0	0	1	0
 față	to the	0	0	1	0
 față	from	0	0	1	0
-categoriemembri	category members	0	0	1	0
+problemei	problem	0	0	1	0
 intercity	intercity	0	0	1	0
 întro	in a	0	0	1	0
 selecție	section	0	0	1	0
@@ -16839,8 +16315,8 @@ vânt	wind	0	0	1	1
 slave	slavonian	0	0	1	0
 slave	slavic	0	0	1	0
 slave	slave	0	0	1	0
-amplasat	placed	0	0	1	0
 amplasat	located	0	0	1	0
+amplasat	placed	0	0	1	0
 slavi	slavs	0	0	1	0
 slavi	praised	0	0	1	0
 romei	rome	0	0	1	0
@@ -16854,7 +16330,6 @@ premiera	awards	0	0	1	0
 publicitate	news	0	0	1	0
 publicitate	publicity	0	0	1	1
 student	student	0	0	1	1
-îngropat	burries	0	0	1	0
 îngropat	buried	0	0	1	0
 suspendat	suspended	0	0	1	0
 culturale	cultural	0	0	1	0
@@ -16882,7 +16357,6 @@ mitologice	mitology	0	0	1	0
 ardelene	ardelene	0	0	1	0
 ardelene	transylvanian	0	0	1	0
 presiunea	pressure	0	0	1	0
-bethlen	name of a person	0	0	1	0
 bethlen	bethlen	0	0	1	0
 celebra	famous	0	0	1	0
 celebra	the famous	0	0	1	0
@@ -16894,8 +16368,8 @@ proprietate	property	0	0	1	1
 patria	home	0	0	1	0
 patria	patriotism	0	0	1	0
 patria	the homeland	0	0	1	0
-înființate	established	0	0	1	0
-înființate	set up	0	0	1	0
+atâtea	many	0	0	1	0
+atâtea	so many	0	0	1	0
 coordonate	coordinated	0	0	1	0
 coordonate	coordonates	0	0	1	0
 coordonate	coordinates	0	0	1	0
@@ -16910,11 +16384,9 @@ rapid	quick	0	0	1	1
 rapid	fast	0	0	1	1
 musulman	muslam	0	0	1	0
 musulman	moslem	0	0	1	1
-musulman	muslim	0	0	1	0
 copenhaga	copenhagen	0	0	1	0
 smith	smith	0	0	1	0
-prelucrarea	process	0	0	1	0
-prelucrarea	processing	0	0	1	0
+reiki	reiki	0	0	1	0
 numerelor	numbers	0	0	1	0
 efectelor	the effects	0	0	1	0
 efectelor	effects'	0	0	1	0
@@ -16925,7 +16397,6 @@ angajați	the employees	0	0	1	0
 producției	production	0	0	1	0
 producției	production`s	0	0	1	0
 jucat	played	0	0	1	0
-interpretată	performer	0	0	1	0
 interpretată	played	0	0	1	0
 interpretată	interpreted	0	0	1	0
 varianta	version	0	0	1	0
@@ -16969,8 +16440,8 @@ unora	someones	0	0	1	0
 dragostei	love	0	0	1	0
 dragostea	love	0	0	1	0
 dragostea	the love	0	0	1	0
-romantismului	the romantic movement	0	0	1	0
 romantismului	romance	0	0	1	0
+romantismului	the romantic movement	0	0	1	0
 romantismului	romanticism	0	0	1	0
 platforma	platform	0	0	1	0
 platforma	the platform	0	0	1	0
@@ -16992,7 +16463,6 @@ preferată	favourite	0	0	1	0
 preferată	favorite	0	0	1	0
 export	export	0	0	1	1
 remarcabilă	remarkable	0	0	1	0
-remarcabilă	remarcable	0	0	1	0
 prezintă	presents	0	0	1	0
 prezintă	present	0	0	1	0
 vatra	vatra	0	0	1	0
@@ -17002,16 +16472,13 @@ susținut	sustained	0	0	1	0
 susținut	supported	0	0	1	0
 lear	lear	0	0	1	0
 lear	lear (name)	0	0	1	0
-tratate	treaties	0	0	1	0
-tratate	treated	0	0	1	0
-tratate	treaty	0	0	1	0
+moldovean	moldavian	0	0	1	0
 dialectele	dialect	0	0	1	0
 dialectele	the dialects	0	0	1	0
 dialectele	dialects	0	0	1	0
 fizica	physics	0	0	1	0
 fizica	physical	0	0	1	0
 eseist	essayist	0	0	1	1
-eseist	author	0	0	1	0
 substantiv	noun	0	0	1	1
 rare	rare	0	0	1	0
 caracteristic	characteristic	0	0	1	1
@@ -17039,7 +16506,6 @@ acuzat	accused	0	0	1	1
 școlii	the school's	0	0	1	0
 școlii	school	0	0	1	0
 brusc	suddenly	0	0	1	1
-brusc	abrupt	0	0	1	1
 interpretate	interpreted	0	0	1	0
 van	van	0	0	1	0
 dispozitive	devices	0	0	1	0
@@ -17047,7 +16513,6 @@ val	val	0	0	1	0
 val	wave	0	0	1	1
 flăcări	fire	0	0	1	1
 flăcări	flames	0	0	1	0
-proiectele	the projects	0	0	1	0
 proiectele	projects	0	0	1	0
 transfer	transfer	0	0	1	1
 variantă	version	0	0	1	1
@@ -17069,7 +16534,6 @@ explica	explain	0	0	1	1
 explica	explains	0	0	1	0
 cheltuielile	costs	0	0	1	0
 cheltuielile	expenses	0	0	1	0
-comandant	comander	0	0	1	0
 comandant	commander	0	0	1	1
 concentrare	concentration	0	0	1	1
 concentrare	focus	0	0	1	0
@@ -17090,7 +16554,6 @@ rezervor	tank	0	0	1	1
 rezervor	reservoir	0	0	1	1
 record	record	0	0	1	1
 teme	themes	0	0	1	0
-mariei	marie	0	0	1	0
 mariei	mary	0	0	1	0
 tema	theme	0	0	1	0
 tema	the theme	0	0	1	0
@@ -17104,7 +16567,6 @@ granițelor	borders	0	0	1	0
 secretarul	secretary	0	0	1	0
 studierea	studying	0	0	1	0
 studierea	study	0	0	1	0
-year	year	0	0	1	0
 viilea	vii century	0	0	1	0
 viilea	seventh	0	0	1	0
 imediata	right( nearby )	0	0	1	0
@@ -17112,7 +16574,7 @@ imediata	immediate	0	0	1	0
 planuri	plans	0	0	1	0
 englezi	english	0	0	1	0
 râul	river	0	0	1	0
-problemei	problem	0	0	1	0
+categoriemembri	category members	0	0	1	0
 varietăți	varities	0	0	1	0
 varietăți	variety	0	0	1	0
 engleza	the english language	0	0	1	0
@@ -17160,5 +16622,5 @@ auxiliare	auxiliary	0	0	1	0
 auxiliare	auxiliar	0	0	1	0
 turneul	tour	0	0	1	0
 turneul	tournament	0	0	1	0
-remarcabile	remarkable	0	0	1	0
 remarcabile	remarcable	0	0	1	0
+remarcabile	remarkable	0	0	1	0

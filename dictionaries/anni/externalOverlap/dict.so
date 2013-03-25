@@ -12,7 +12,7 @@ yimid	he came	0	0	1	0
 maalinba	day	0	0	1	0
 sadexaad	third	0	0	1	0
 kacaanka	the revolution	0	0	1	0
-jamhuriyada	jamhuriyada	0	0	1	0
+shaqayn	work	0	0	1	0
 filan	enough	0	0	1	0
 filan	somali female name	0	0	1	0
 moodey	moodey	0	0	1	0
@@ -68,7 +68,7 @@ xidho	put on clothes	0	0	1	0
 shirkadaha	the companies	0	0	1	0
 shirkadaha	companies	0	0	1	0
 xilkeeda	incapacity which makes it impossible for him	0	0	1	0
-shaqayn	work	0	0	1	0
+jamhuriyada	jamhuriyada	0	0	1	0
 qiyaasay	estimated about	0	0	1	0
 militari	come under grip	0	0	1	0
 k	k	0	0	1	0
@@ -80,7 +80,6 @@ karin	cannot	0	0	1	0
 yeero	call	0	0	1	0
 cidhifyada	cidhifyada	0	0	1	0
 yeera	yeera	0	0	1	0
-yeera	yeeera	0	0	1	0
 qiyaasaa	estimated	0	0	1	0
 qiyaasaa	probability	0	0	1	0
 siyaasadii	policy	0	0	1	0
@@ -108,7 +107,7 @@ dunidalaakiin	dunidalaakiin	0	0	1	0
 ahada	ahada	0	0	1	0
 sameeyo	do	0	0	1	0
 علمي	i dont know	0	0	1	0
-albakr	albakr	0	0	1	0
+biblia	biblia	0	0	1	0
 waxyaabo	things	0	0	1	0
 sameeya	do	0	0	1	0
 hadayn	hadayn	0	0	1	0
@@ -161,6 +160,7 @@ ahmiyad	concern	0	0	1	0
 baabii	baabii	0	0	1	0
 afgaranwaa	afgaranwaa	0	0	1	0
 duminayaa	duminayaa	0	0	1	0
+booliska	the police	0	0	1	0
 bisiqa	the large tree	0	0	1	0
 diyaarintii	preparation	0	0	1	0
 diyaarintii	-economy	0	0	1	0
@@ -204,7 +204,6 @@ bebad	bebad	0	0	1	0
 itaaliya	italiya	0	0	1	0
 itaaliya	italy	0	0	1	0
 xaal	affair	0	0	1	0
-xaal	converse	0	0	1	0
 weyddiiyey	ask	0	0	1	0
 weyddiiyey	weddiiyey	0	0	1	0
 weyddiiyey	he inquired about	0	0	1	0
@@ -232,12 +231,12 @@ dabiici	nature	0	0	1	0
 dhoobo	clay	0	0	1	0
 talada	the decisions	0	0	1	0
 daacadda	the sincerity	0	0	1	0
-syc	syc	0	0	1	0
+development	development	0	0	1	0
+development	development " it is not somali word it is english"	0	0	1	0
 allaa	fellow	0	0	1	0
 awdigil	awdigil	0	0	1	0
 weligayo	"we have never been	0	0	1	0
 diidey	refused	0	0	1	0
-allah	god	0	0	1	0
 allah	allah	0	0	1	0
 dalagyo	dalagyo	0	0	1	0
 fogeyn	far	0	0	1	0
@@ -248,7 +247,6 @@ akhriyaan	read	0	0	1	0
 xigay	he was next	0	0	1	0
 ogalaa	ogalaa	0	0	1	0
 ogalaa	out of season	0	0	1	0
-ogalaa	out of reason	0	0	1	0
 jirtowax	jirtowax	0	0	1	0
 sheegaan	tell	0	0	1	0
 kabaxay	he grew out of	0	0	1	0
@@ -278,7 +276,6 @@ mangooliyakadib	mangooliyakadib	0	0	1	0
 mualif	mualif	0	0	1	0
 daadagine	daadagine	0	0	1	0
 malaheyn	malaheyn	0	0	1	0
-xamar	chestnut horse	0	0	1	0
 xamar	hamar	0	0	1	0
 xooga	with harshness	0	0	1	0
 elmi	elmi	0	0	1	0
@@ -291,14 +288,13 @@ channels	channels	0	0	1	0
 sameysa	you she	0	0	1	0
 sameysa	she does	0	0	1	0
 الشيخ	what	0	0	1	0
-sameyso	do	0	0	1	0
+niger	niger	0	0	1	0
 service	service	0	0	1	0
 sheegnay	we	0	0	1	0
 xil	responsibility	0	0	1	0
 saxaafada	media	0	0	1	0
 شيخ	what?	0	0	1	0
 xir	close	0	0	1	0
-xir	forest	0	0	1	0
 reera	with	0	0	1	0
 reero	families	0	0	1	0
 koonfur	south	0	0	1	0
@@ -320,7 +316,6 @@ laaanta	lack	0	0	1	0
 nations	nations	0	0	1	0
 madaxweeynaha	led by	0	0	1	0
 naxariis	mercy	0	0	1	0
-naxariis	kindness	0	0	1	0
 naxariis	mercy mercy mercy	0	0	1	0
 layidhaahdaa	layidhaahdaa	0	0	1	0
 hayd	otherhands	0	0	1	0
@@ -336,7 +331,7 @@ tiirsan	leaned on	0	0	1	0
 kuyihiin	kuyihiin	0	0	1	0
 bogan	would satisfy	0	0	1	0
 waxanaa	waxanaa	0	0	1	0
-karayn	respite	0	0	1	0
+reebka	kick out games	0	0	1	0
 darsado	butter	0	0	1	0
 dooro	choose	0	0	1	0
 warshadaha	factories	0	0	1	0
@@ -379,7 +374,7 @@ shaqsiyaad	individuals	0	0	1	0
 bedelaan	would move	0	0	1	0
 bedelaan	change	0	0	1	0
 dhabeeyaan	people should express their	0	0	1	0
-badan	many	0	0	1	0
+qaatey	he took	0	0	1	0
 badal	changed	0	0	1	0
 dhulaka	dhulaka	0	0	1	0
 dhib	drob	0	0	1	0
@@ -413,7 +408,8 @@ dadaashaane	you never to better for them	0	0	1	0
 dadaashaane	you never do better for them	0	0	1	0
 cirro	gray hair	0	0	1	0
 markooda	be solved on their turn	0	0	1	0
-laakiin	but	0	0	1	0
+tunisiya	tunisia	0	0	1	0
+tunisiya	tunisiya	0	0	1	0
 duuliye	pilot	0	0	1	0
 tuwaaxid	tuwaaxid	0	0	1	0
 radius	radius	0	0	1	0
@@ -483,8 +479,8 @@ intaa	also	0	0	1	0
 barnaamijkan	this program	0	0	1	0
 barnaamijkan	questions	0	0	1	0
 barnaamijkan	the program	0	0	1	0
-dhacana	eyes	0	0	1	0
-burburintii	in	0	0	1	0
+taxane	serial story	0	0	1	0
+muusig	music	0	0	1	0
 yeeshee	but	0	0	1	0
 intay	until	0	0	1	0
 imaamkii	the imam	0	0	1	0
@@ -536,9 +532,9 @@ jaamacadu	university	0	0	1	0
 jaamacadu	jaamacadu	0	0	1	0
 generalka	generalka	0	0	1	0
 jaamacado	african universities have	0	0	1	0
+dain	dain	0	0	1	0
 jaamacada	the osaka	0	0	1	0
-dareemi	feel	0	0	1	0
-dareemi	felt	0	0	1	0
+ansaxa	the validity	0	0	1	0
 sheekooyinkii	the stories	0	0	1	0
 sheekooyinkii	sheekooyinkii	0	0	1	0
 dhisaayeen	dhisaayaeen	0	0	1	0
@@ -547,7 +543,7 @@ waagaas	at that time	0	0	1	0
 birmingham	birmingham	0	0	1	0
 toogasho	shot dead	0	0	1	0
 xaafadood	neighborhoods occupied by western employees	0	0	1	0
-hayay	against	0	0	1	0
+hadana	yet	0	0	1	0
 baadicadde	badiadde community.	0	0	1	0
 hordhaca	the introduction	0	0	1	0
 shiiq	shrink	0	0	1	0
@@ -574,8 +570,8 @@ har	shade	0	0	1	0
 has	has	0	0	1	0
 has	scare	0	0	1	0
 haw	what	0	0	1	0
-shiday	he set fire to	0	0	1	0
 shiday	started	0	0	1	0
+shiday	he set fire to	0	0	1	0
 digirta	the beans	0	0	1	0
 soomalimaad	soomalimaad	0	0	1	0
 osman	osman	0	0	1	0
@@ -594,10 +590,9 @@ gado	buy	0	0	1	0
 gado	buying	0	0	1	0
 abiidhaalib	abiidhaalib	0	0	1	0
 culumada	the clerics	0	0	1	0
-claahi	both sides living	0	0	1	0
+taariikhdii	history	0	0	1	0
 geesiyaashii	administered with roughness had the	0	0	1	0
 kugu	you	0	0	1	0
-kugu	have you had an accident?	0	0	1	0
 islaamiya	struggling	0	0	1	0
 katurjumayaa	katurjumayaa	0	0	1	0
 soomaaliyeed	somali	0	0	1	0
@@ -639,7 +634,6 @@ garoonkaan	garoonkaan	0	0	1	0
 aden	aden	0	0	1	0
 canfartu	canfartu	0	0	1	0
 sooyaalka	veteran's payments	0	0	1	0
-mutaystay	deserve	0	0	1	0
 mutaystay	has brought	0	0	1	0
 runta	truth	0	0	1	0
 runta	runta	0	0	1	0
@@ -680,7 +674,7 @@ devices	devices	0	0	1	0
 labadaa	these two	0	0	1	0
 labadaa	two	0	0	1	0
 dhaqaalihiisa	dhaqaalihiisa	0	0	1	0
-maamulkii	the administration	0	0	1	0
+dhinaca	hand	0	0	1	0
 maxamadow	maxamadow	0	0	1	0
 maxamadow	poem is open for	0	0	1	0
 casriyeesan	casriyeesan	0	0	1	0
@@ -701,7 +695,6 @@ madaxdii	madaxadii	0	0	1	0
 fariistay	he sat down	0	0	1	0
 islaam	islam	0	0	1	0
 islaan	woman	0	0	1	0
-islaan	muslim	0	0	1	0
 aljeeriya	algeria	0	0	1	0
 aldalanj	aldalanj	0	0	1	0
 republic	republic	0	0	1	0
@@ -717,6 +710,7 @@ saylada	saylada	0	0	1	0
 ninkan	the man	0	0	1	0
 ninkan	man	0	0	1	0
 isgaarsiinta	the communication	0	0	1	0
+nov	nov	0	0	1	0
 sonkorta	the sugar	0	0	1	0
 koobantahy	koobantahy	0	0	1	0
 typically	typically	0	0	1	0
@@ -732,13 +726,14 @@ ragga	the men	0	0	1	0
 cusubi	new	0	0	1	0
 wanaagyaalku	wanaagyaaalku	0	0	1	0
 wanaagyaalku	wanaagyaalku	0	0	1	0
-biblia	biblia	0	0	1	0
+albakr	albakr	0	0	1	0
 baaqan	this declaration	0	0	1	0
 saacadaha	the hours	0	0	1	0
 colenel	colonel	0	0	1	0
 colenel	colenel	0	0	1	0
 wasaq	wasaq	0	0	1	0
-jilaamasrax	jilaamasrax	0	0	1	0
+gumaystayaasha	unify	0	0	1	0
+gumaystayaasha	gumaystayaas	0	0	1	0
 jarmal	germany	0	0	1	0
 taaban	touch	0	0	1	0
 sideedaad	eighth	0	0	1	0
@@ -761,7 +756,7 @@ doonayeen	he was badly mistreated	0	0	1	0
 fahamka	understanding	0	0	1	0
 magalo	capital	0	0	1	0
 sharciyeed	legal	0	0	1	0
-buuq	noise	0	0	1	0
+jilib	knee	0	0	1	1
 buur	mountain	0	0	1	0
 shacabku	detach themselves	0	0	1	0
 muuse	muse	0	0	1	0
@@ -818,7 +813,6 @@ shaqooyinka	jobs	0	0	1	0
 dhawre	keeper	0	0	1	0
 nuuraaya	nuuraaya	0	0	1	0
 naguma	foremost	0	0	1	0
-kililka	kilika	0	0	1	0
 kililka	zone	0	0	1	0
 fircoon	firon	0	0	1	0
 fircoon	pharaoh	0	0	1	0
@@ -838,7 +832,8 @@ dagaalku	the war	0	0	1	0
 maamula	run	0	0	1	0
 zaylac	zaylac	0	0	1	0
 luuliyo	july	0	0	1	0
-dhaxeysa	between	0	0	1	0
+dhibkii	dhikii	0	0	1	0
+dhibkii	calls on	0	0	1	0
 maamuli	manage	0	0	1	0
 reerka	the family	0	0	1	0
 maamulo	managed	0	0	1	0
@@ -1016,6 +1011,8 @@ oogista	oogista	0	0	1	0
 magaalawga	magaalawga	0	0	1	0
 abtirisiinyihiisu	abtirishiinyihiisu	0	0	1	0
 abtirisiinyihiisu	abtirisiinyihiisu	0	0	1	0
+yurubiyaanka	yurubiyaanka	0	0	1	0
+yurubiyaanka	europeans	0	0	1	0
 dhacdo	event	0	0	1	0
 future	future	0	0	1	0
 ialahayna	ialahayna	0	0	1	0
@@ -1060,7 +1057,6 @@ administartion	administration	0	0	1	0
 lahelo	be located	0	0	1	0
 dhulalka	the lands	0	0	1	0
 aysanna	almost his people are	0	0	1	0
-dhaqan	culture	0	0	1	0
 dhaqan	walls	0	0	1	0
 dhaqan	tradition	0	0	1	0
 iimaan	faith	0	0	1	0
@@ -1102,7 +1098,7 @@ jidle	jidle	0	0	1	0
 jidle	jidle "name'	0	0	1	0
 xalin	solve	0	0	1	0
 darayey	darayey	0	0	1	0
-laguna	and	0	0	1	0
+lugta	the leg	0	0	1	0
 middelburg	middelburg	0	0	1	0
 israaiil	which	0	0	1	0
 buuloburde	buuloburde	0	0	1	0
@@ -1118,7 +1114,6 @@ where	where	0	0	1	0
 alalbaani	alalbaani	0	0	1	0
 alalbaani	al-albani	0	0	1	0
 asna	also	0	0	1	0
-rumeeyo	faith	0	0	1	0
 rumeeyo	believe	0	0	1	0
 qurba	by polish people in	0	0	1	0
 yaaqshiid	yaqshid district	0	0	1	0
@@ -1130,7 +1125,8 @@ beeniyana	and rejects	0	0	1	0
 gaadhsiinlahayd	gaadhsiinlahayd	0	0	1	0
 hoostaga	say	0	0	1	0
 aalacimraan	aalacimraan	0	0	1	0
-ul	stick	0	0	1	0
+cir	weather	0	0	1	0
+cir	sky	0	0	1	0
 allaah	god	0	0	1	0
 dhoofiyaa	dhoofiyaa	0	0	1	0
 gabdhaha	girls	0	0	1	0
@@ -1143,7 +1139,6 @@ macno	meaning	0	0	1	0
 macno	macnno	0	0	1	0
 caan	well-known	0	0	1	0
 haare	haare	0	0	1	0
-caag	abstain	0	0	1	0
 caag	caagg caagg caagg	0	0	1	0
 caag	plastic	0	0	1	0
 shabaabka	the young person	0	0	1	0
@@ -1170,7 +1165,7 @@ mana	and	0	0	1	0
 s	s	0	0	1	0
 baariis	paris	0	0	1	0
 baariis	barriis	0	0	1	0
-salaanka	salaanka	0	0	1	0
+dhigaye	they put it	0	0	1	0
 buuxinaya	not a word	0	0	1	0
 buuxinaya	completing from	0	0	1	0
 siin	give	0	0	1	0
@@ -1221,8 +1216,7 @@ haween	haween	0	0	1	0
 haween	women	0	0	1	0
 majaajiliiste	comedy	0	0	1	0
 majaajiliiste	majaajiliiste	0	0	1	0
-engineering	). although	0	0	1	0
-engineering	although	0	0	1	0
+ruushka	russia	0	0	1	0
 aybakar	aybakar	0	0	1	0
 shanta	the five	0	0	1	0
 odayaasha	the elders	0	0	1	0
@@ -1247,6 +1241,7 @@ jirtey	used to	0	0	1	0
 taagi	rise up	0	0	1	0
 aqoontiisa	made	0	0	1	0
 jeedaan	as	0	0	1	0
+degmo	district	0	0	1	0
 eebbaa	it is god who	0	0	1	0
 aduunyada	anywhere	0	0	1	0
 aduunyada	1970s	0	0	1	0
@@ -1335,7 +1330,7 @@ ogaado	know	0	0	1	0
 ayagoo	they are	0	0	1	0
 dhamaan	all	0	0	1	0
 dhamaan	dhamaan	0	0	1	0
-daawo	medicine	0	0	1	0
+fileyn	when she doesn't call	0	0	1	0
 kaliyata	kaliyata	0	0	1	0
 nooc	type	0	0	1	0
 nool	living	0	0	1	0
@@ -1370,11 +1365,9 @@ saxaraha	desert	0	0	1	0
 weecdaa	weecdaa	0	0	1	0
 nasahnaa	nashanaa	0	0	1	0
 nasahnaa	nasahnaa	0	0	1	0
-yurubiyaanka	yurubiyaanka	0	0	1	0
-yurubiyaanka	europeans	0	0	1	0
+koobkii	cup	0	0	1	0
 meela	places	0	0	1	0
 surinam	surinam	0	0	1	0
-meele	places	0	0	1	0
 meele	meele	0	0	1	0
 dhashaa	new	0	0	1	0
 khayr	good	0	0	1	0
@@ -1517,7 +1510,6 @@ sheegaas	sheegaas	0	0	1	0
 cafimaad	nutrition programs	0	0	1	0
 daalo	dallo airline agency	0	0	1	0
 muuqday	seen	0	0	1	0
-dibadda	outside	0	0	1	0
 dibadda	foreign	0	0	1	0
 martida	the guests	0	0	1	0
 horeeyay	first	0	0	1	0
@@ -1712,8 +1704,6 @@ unugyo	unugyo	0	0	1	0
 haystee	haystee	0	0	1	0
 raisulwasare	raisulwasare	0	0	1	0
 qarisay	hiding	0	0	1	0
-bisinka	the bismillahi	0	0	1	0
-bisinka	bismillah "in the name of god"	0	0	1	0
 gabanka	the young	0	0	1	0
 walaalahooda	their brothers	0	0	1	0
 hogaamiyihii	leader	0	0	1	0
@@ -1745,7 +1735,7 @@ arimood	other tools	0	0	1	0
 arimood	ways which	0	0	1	0
 aqoonyahano	professionals	0	0	1	0
 gartada	gartada	0	0	1	0
-niger	niger	0	0	1	0
+sameyso	do	0	0	1	0
 jiilkii	new generation	0	0	1	0
 taangiyada	tanks	0	0	1	0
 taangiyada	the tanks	0	0	1	0
@@ -1813,7 +1803,6 @@ ordayey	as he was running	0	0	1	0
 qisadan	story	0	0	1	0
 helayo	get	0	0	1	0
 siidaynta	releasing	0	0	1	0
-siidaynta	broadcasting	0	0	1	0
 aas	bury	0	0	1	0
 aar	revenge	0	0	1	0
 helaye	have discovered	0	0	1	0
@@ -1829,6 +1818,8 @@ also	also	0	0	1	0
 also	waxa kale	0	0	1	0
 labaad	second	0	0	1	0
 wadamada	countries	0	0	1	0
+dhashay	he was born	0	0	1	0
+dhashay	cub	0	0	1	0
 nasab	noble	0	0	1	0
 nasab	legitimate	0	0	1	0
 inqilaabeen	inqilaabeen	0	0	1	0
@@ -1861,7 +1852,6 @@ marxuum	the late	0	0	1	0
 faragelin	intervention	0	0	1	0
 shariif	sharif	0	0	1	0
 tukan	praying	0	0	1	0
-tukan	when he prays?	0	0	1	0
 tukan	direction for muslim praying	0	0	1	0
 degenaa	resided	0	0	1	0
 ximyar	ximyar	0	0	1	0
@@ -1896,7 +1886,6 @@ qoonedhangaloowbeydaaniyo	qoonedhangaloowbeydaaniyo	0	0	1	0
 jaceyl	love	0	0	1	0
 sep	september	0	0	1	0
 sep	sept.	0	0	1	0
-sep	sep	0	0	1	0
 muuqaalka	scene	0	0	1	0
 hawshaas	the	0	0	1	0
 cilmiga	the knowledge	0	0	1	0
@@ -1910,8 +1899,7 @@ awmuuse	awmuuse	0	0	1	0
 baryi	call	0	0	1	0
 haya	that	0	0	1	0
 koleyga	basketball	0	0	1	0
-nirig	young camel	0	0	1	0
-nirig	nirig	0	0	1	0
+nadarkana	nadarkana	0	0	1	0
 agteeda	near	0	0	1	0
 ahoo	sinner	0	0	1	0
 interface	interface	0	0	1	0
@@ -1953,14 +1941,13 @@ kobash	kobash	0	0	1	0
 kalandar	kalander	0	0	1	0
 kalandar	kalandar	0	0	1	0
 xaq	the right	0	0	1	0
-colaad	hostility	0	0	1	0
+bogaan	go right ahead	0	0	1	0
 sawirmaan	sawirmaan	0	0	1	0
 sawirmaan	to be remembered by history	0	0	1	0
 xal	solution	0	0	1	0
 xan	gossip	0	0	1	0
 shaqo	work	0	0	1	0
 xad	limit	0	0	1	0
-xad	steal	0	0	1	0
 xingalool	xingalool	0	0	1	0
 gowraco	lambs were sacrificed	0	0	1	0
 gowraco	ambs were sacrificed	0	0	1	0
@@ -1998,7 +1985,7 @@ hoggaaminaayo	hoggaaminaayo	0	0	1	0
 xusaysaa	history would tell	0	0	1	0
 fiican	perfect	0	0	1	0
 fiican	good	0	0	1	0
-reebka	kick out games	0	0	1	0
+karayn	respite	0	0	1	0
 malaysiya	kaulalambur	0	0	1	0
 malaysiya	malaysiya	0	0	1	0
 masiixiga	the christian man	0	0	1	0
@@ -2025,7 +2012,6 @@ caawa	tonight	0	0	1	0
 dhawaaqaan	dwellers	0	0	1	0
 loogu	for	0	0	1	0
 loogu	for  for	0	0	1	0
-guddiga	the complete	0	0	1	0
 guddiga	committee	0	0	1	0
 leone	leone	0	0	1	0
 maantana	today	0	0	1	0
@@ -2066,7 +2052,7 @@ madaxwaynayaasha	states that was held	0	0	1	0
 australia	australia	0	0	1	0
 ogaayeen	they knew	0	0	1	0
 dhulkii	land	0	0	1	0
-masiixiyiintu	masiixiyiintu	0	0	1	0
+hayay	against	0	0	1	0
 gurigii	home	0	0	1	0
 hadane	hadane	0	0	1	0
 d	d	0	0	1	0
@@ -2153,7 +2139,6 @@ doh	marsh	0	0	1	0
 kulana	and	0	0	1	0
 horyaal	champion	0	0	1	0
 link	link	0	0	1	0
-bannaan	clearing	0	0	1	0
 bannaan	plain	0	0	1	0
 bannaan	independent	0	0	1	0
 atom	atom	0	0	1	0
@@ -2164,15 +2149,13 @@ arkaa	sees	0	0	1	0
 dabeecaddiisa	nevertheless	0	0	1	0
 faah	for details	0	0	1	0
 cid	no one	0	0	1	0
-cid	community	0	0	1	0
 jiraa	is there	0	0	1	0
 kaalo	charity	0	0	1	0
 aqliyad	aqliyad	0	0	1	0
 us	us	0	0	1	0
 ur	smell	0	0	1	0
 jiray	he was	0	0	1	0
-cir	weather	0	0	1	0
-cir	sky	0	0	1	0
+ul	stick	0	0	1	0
 un	only	0	0	1	0
 intii	while	0	0	1	0
 abtiyaashiis	abtiyaashiis	0	0	1	0
@@ -2186,7 +2169,6 @@ dhaar	oath	0	0	1	0
 m	m	0	0	1	0
 afgoye	town near capital mogadishu	0	0	1	0
 afgoye	afgoye	0	0	1	0
-koobkii	cup	0	0	1	0
 wadankii	native country	0	0	1	0
 dhaaf	pass	0	0	1	0
 xarardheere	harardheere	0	0	1	0
@@ -2216,7 +2198,7 @@ barwaaqo	prosperity	0	0	1	0
 gabdhihii	women	0	0	1	0
 elements	elements	0	0	1	0
 elements	element	0	0	1	0
-fileyn	when she doesn't call	0	0	1	0
+daawo	medicine	0	0	1	0
 qurayshtu	durayshtu	0	0	1	0
 qurayshtu	qurayshtu	0	0	1	0
 sidee	how	0	0	1	0
@@ -2225,8 +2207,6 @@ sidey	how	0	0	1	0
 sidey	how is she	0	0	1	0
 wexey	there was	0	0	1	0
 haadku	haadku	0	0	1	0
-qadarkaas	qadarkaas  qadarkaas	0	0	1	0
-qadarkaas	qadarkaas	0	0	1	0
 hadad	practitioner immediately for any of	0	0	1	0
 dhaafsado	dhaafsado	0	0	1	0
 danbena	late	0	0	1	0
@@ -2274,7 +2254,7 @@ ardayda	students	0	0	1	0
 muqdisho	moqadishu	0	0	1	0
 muqdisho	mogadishu	0	0	1	0
 nasoo	to us	0	0	1	0
-horreeya	the first	0	0	1	0
+macallin	teacher	0	0	1	1
 daneysa	daneysa	0	0	1	0
 magaaladda	communities domiciling in	0	0	1	0
 soomaliya	somalia	0	0	1	0
@@ -2310,19 +2290,20 @@ barisoomaaliya	barisoomaaliya	0	0	1	0
 borwa	borwa	0	0	1	0
 snmlooma	snmlooma	0	0	1	0
 caruur	children	0	0	1	0
-caruur	child	0	0	1	0
 hadaladii	words	0	0	1	0
 bullaxaar	bullahar	0	0	1	0
 qadaafi	qaddafi	0	0	1	0
 jsiirada	jsiirada	0	0	1	0
 siyaadna	siyaadna	0	0	1	0
 karale	karale	0	0	1	0
+qorituurkii	qorituurkii	0	0	1	0
 walow	even though	0	0	1	0
 xisaabaadka	the accounting	0	0	1	0
 dalagyada	dalagyada	0	0	1	0
 laisku	laisku	0	0	1	0
 ladaawdo	ladaawdo	0	0	1	0
 darajo	rank	0	0	1	0
+ayaanu	we	0	0	1	0
 kagsoo	kagsoo	0	0	1	0
 ragaadisay	ragaadisay	0	0	1	0
 ragaadisay	regaadisay	0	0	1	0
@@ -2330,7 +2311,8 @@ ayuuna	and he	0	0	1	0
 boqorad	queen	0	0	1	0
 leh	own	0	0	1	0
 leh	with	0	0	1	0
-nadarkana	nadarkana	0	0	1	0
+nirig	young camel	0	0	1	0
+nirig	nirig	0	0	1	0
 yahuuda	which is connected	0	0	1	0
 ibin	ibin	0	0	1	0
 faahfaahsan	explained in detail	0	0	1	0
@@ -2347,7 +2329,6 @@ xusid	its worth mentioning	0	0	1	0
 dhawaado	unwillingness	0	0	1	0
 qaaradood	continents had changed	0	0	1	0
 guurtida	elders	0	0	1	0
-qeyb	strips that make a body cloth	0	0	1	0
 qeyb	part	0	0	1	0
 sakariye	sakariye	0	0	1	0
 sakariye	men sakariye	0	0	1	0
@@ -2364,7 +2345,6 @@ xamardaye	xamardaye	0	0	1	0
 bilaabaan	start	0	0	1	0
 shaqaalaha	staff	0	0	1	0
 dhulalkii	spread themselves	0	0	1	0
-dhulalkii	dhulakii	0	0	1	0
 bush	bush	0	0	1	0
 ahaydkadib	ahaydkadip	0	0	1	0
 ahaydkadib	ahaydkadib	0	0	1	0
@@ -2394,7 +2374,7 @@ qarni	direct	0	0	1	0
 qarni	century	0	0	1	0
 dhawr	several	0	0	1	0
 noqday	he became	0	0	1	0
-qorituurkii	qorituurkii	0	0	1	0
+badan	many	0	0	1	0
 shabakad	somalis network	0	0	1	0
 noqdaa	1.	0	0	1	0
 saba	saba'	0	0	1	0
@@ -2439,7 +2419,7 @@ shaqaale	laborer	0	0	1	0
 shaqaale	shaqaale	0	0	1	0
 hawo	air	0	0	1	1
 isse	isse	0	0	1	0
-degmo	district	0	0	1	0
+qisooyin	true explanation	0	0	1	0
 shiniile	shiniile	0	0	1	0
 qalbigiisa	heart	0	0	1	0
 qalbigiisa	qalbigiisa	0	0	1	0
@@ -2540,7 +2520,7 @@ marayso	point	0	0	1	0
 tirakoob	census	0	0	1	0
 cunto	food	0	0	1	1
 timaadada	timaadada	0	0	1	0
-dambidhaafe	forgiving	0	0	1	0
+doonyaha	boats	0	0	1	0
 togagga	the ravines	0	0	1	0
 could	could	0	0	1	0
 abii	abii	0	0	1	0
@@ -2573,6 +2553,7 @@ asxaabtii	broadcasting hereby offer their	0	0	1	0
 barnaamijka	program	0	0	1	0
 barnaamijka	talk show	0	0	1	0
 legislative	-dejinta d/hoose	0	0	1	0
+masiixiyiintu	masiixiyiintu	0	0	1	0
 hawl	work	0	0	1	0
 hawl	hawl	0	0	1	0
 arimahaas	these issues	0	0	1	0
@@ -2582,7 +2563,7 @@ socdeyna	socdeyna	0	0	1	0
 lahaayeen	they had	0	0	1	0
 booqdo	visit	0	0	1	0
 suways	canal	0	0	1	0
-qisooyin	true explanation	0	0	1	0
+fahmeen	understood their special	0	0	1	0
 isxaaq	isaac	0	0	1	0
 xukuumadihii	from	0	0	1	0
 nololeed	life	0	0	1	0
@@ -2619,14 +2600,13 @@ liiska	list	0	0	1	0
 saambiya	zambia	0	0	1	0
 tijaaradii	tijaaradii	0	0	1	0
 biir	beer	0	0	1	0
-nooluhu	nooluhu	0	0	1	0
+lagaga	which	0	0	1	0
 afsoomaaligu	afsoomaaligu	0	0	1	0
 afsoomaaligu	the somali language	0	0	1	0
 fiicanna	good	0	0	1	0
 yabar	yabar	0	0	1	0
 burburinta	he was ravaging	0	0	1	0
 burburinta	metabolism	0	0	1	0
-geesinimo	his	0	0	1	0
 geesinimo	courage	0	0	1	0
 gaarayaan	receive	0	0	1	0
 faca	the age-group	0	0	1	0
@@ -2706,7 +2686,6 @@ bilay	he promoted	0	0	1	0
 fariisto	where decisions are made	0	0	1	0
 eegayo	look for	0	0	1	0
 qoraaladii	written indications	0	0	1	0
-qoraaladii	wriiten indications	0	0	1	0
 gumeysi	colonialism	0	0	1	0
 bandhigeen	have displayed	0	0	1	0
 yiraah	are called	0	0	1	0
@@ -2744,17 +2723,14 @@ baybalku	baybalku	0	0	1	0
 somalilanad	somalilanad	0	0	1	0
 shingaani	for shingaani district	0	0	1	0
 shingaani	for shingani district	0	0	1	0
-adoo	father	0	0	1	0
 adoo	by	0	0	1	0
 xishoon	ashamed	0	0	1	0
 qalab	equipment	0	0	1	0
 qalab	afternoon	0	0	1	0
-shibilka	shibilka	0	0	1	0
 qalad	wrong	0	0	1	0
 ogaadaan	know	0	0	1	0
 socda	the following	0	0	1	0
 baybalka	baybalka	0	0	1	0
-zoppe	zoppe "nickname"	0	0	1	0
 zoppe	zoppe	0	0	1	0
 inoogu	us	0	0	1	0
 socdo	the following	0	0	1	0
@@ -2782,7 +2758,6 @@ aragnimo	state of being experienced	0	0	1	0
 congresska	congresska	0	0	1	0
 congresska	congress	0	0	1	0
 falal	acts	0	0	1	0
-xaradh	sculpture	0	0	1	0
 samaynaya	doing	0	0	1	0
 samaynaya	to make	0	0	1	0
 innoogu	farm	0	0	1	0
@@ -2829,7 +2804,7 @@ wehel	company	0	0	1	0
 beesha	clan	0	0	1	0
 taqaan	know	0	0	1	0
 samir	patience	0	0	1	0
-rooma	rome	0	0	1	0
+gaashaanle	major	0	0	1	0
 taariikhiga	this historical	0	0	1	0
 xaayow	hayow	0	0	1	0
 kulmeen	he met	0	0	1	0
@@ -2858,7 +2833,6 @@ shiikh	sheikh	0	0	1	0
 wareejiyey	he transferred	0	0	1	0
 dareenka	the feeling	0	0	1	0
 rumeysan	believe	0	0	1	0
-ogaal	knowledge	0	0	1	0
 ogaal	reliable sources said	0	0	1	0
 iqtiyaar	iqtiyaar	0	0	1	0
 diide	diide	0	0	1	0
@@ -2873,7 +2847,6 @@ haajirtay	haajirtay	0	0	1	0
 degoo	it lives	0	0	1	0
 korkeeda	on top of	0	0	1	0
 jiilaal	dry season	0	0	1	0
-jiilaal	winter	0	0	1	1
 hanoolaato	long live	0	0	1	0
 aasiyamaanta	assiyamaanta	0	0	1	0
 aasiyamaanta	aasiyamaanta	0	0	1	0
@@ -2983,6 +2956,7 @@ daboolida	daboolida	0	0	1	0
 lafweyn	lafweyn hotel	0	0	1	0
 lafweyn	lafweyn	0	0	1	0
 degmada	district	0	0	1	0
+goobtan	inaccessible	0	0	1	0
 caaid	caaid	0	0	1	0
 rasuululaah	rasuululaah	0	0	1	0
 kamidyahay	kamidyahay	0	0	1	0
@@ -3031,8 +3005,8 @@ shaybah	abii shaybah	0	0	1	0
 naxaawiga	naxaawiga	0	0	1	0
 eriga	eriga	0	0	1	0
 eriga	playing card game	0	0	1	0
-danbana	unable	0	0	1	0
 danbana	after	0	0	1	0
+danbana	unable	0	0	1	0
 laascaanood	laascaanood	0	0	1	0
 laascaanood	las�anod	0	0	1	0
 eersadaye	eersadaye	0	0	1	0
@@ -3068,7 +3042,6 @@ xukun	sentence	0	0	1	0
 +	father	0	0	1	0
 islaama	deviators so	0	0	1	0
 islaama	deviators; so	0	0	1	0
-raaxo	pleasure	0	0	1	0
 raaxo	comfortable	0	0	1	0
 taliyaanu	italy	0	0	1	0
 taliyaanu	taliyaanu	0	0	1	0
@@ -3081,7 +3054,6 @@ siday	how	0	0	1	0
 waalba	waalba	0	0	1	0
 sidaa	so	0	0	1	0
 cagaaran	green	0	0	1	0
-codecs	it is english not somali word	0	0	1	0
 codecs	codecs	0	0	1	0
 bulshadii	people	0	0	1	0
 laheyd	of	0	0	1	0
@@ -3100,8 +3072,6 @@ shabeelaha	middle shebelle	0	0	1	0
 maxammed	maxammed	0	0	1	0
 maxamuud	mohamud	0	0	1	0
 goobtani	goobtani	0	0	1	0
-maxamedow	hay mohammed	0	0	1	0
-maxamedow	hey mohammed	0	0	1	0
 qeyliye	qeyliye	0	0	1	0
 qeyliye	geyliye	0	0	1	0
 taariikhdadhaqanka	history/culture	0	0	1	0
@@ -3126,7 +3096,6 @@ fahmeynaa	the bread	0	0	1	0
 fahmeynaa	fahmeynaa	0	0	1	0
 isssssssslam	isssssssslam	0	0	1	0
 isssssssslam	islam	0	0	1	0
-fahmeen	understood their special	0	0	1	0
 socodka	the journey	0	0	1	0
 kumanaan	thousands	0	0	1	0
 yuusuf	yusuf	0	0	1	0
@@ -3136,7 +3105,7 @@ taasoo	which	0	0	1	0
 jimcaale	friday	0	0	1	0
 qoor	neck	0	0	1	0
 degto	settle	0	0	1	0
-doonyaha	boats	0	0	1	0
+dambidhaafe	forgiving	0	0	1	0
 faatikanaka	faatikanaka	0	0	1	0
 saliid	oil	0	0	1	1
 jamac	jama	0	0	1	0
@@ -3162,7 +3131,6 @@ taariiqyahanka	taariiqyahanka	0	0	1	0
 suubanaa	suubanaa	0	0	1	0
 taliyaha	commander	0	0	1	0
 tusaale	for example	0	0	1	0
-tusaale	example	0	0	1	0
 dhimasho	death	0	0	1	0
 darane	darene	0	0	1	0
 darane	in requiting	0	0	1	0
@@ -3240,7 +3208,6 @@ fadhida	sitting	0	0	1	0
 cabdi	abdi	0	0	1	0
 ihi	i am not	0	0	1	0
 waqtigaa	at that time	0	0	1	0
-laasgeel	laasgeel	0	0	1	0
 taariikheed	historical	0	0	1	0
 kaniisaddii	the russian church showing the highest honor	0	0	1	0
 waqtigan	current	0	0	1	0
@@ -3332,7 +3299,7 @@ buuloburte	buuloburte	0	0	1	0
 doorashadaas	elected	0	0	1	0
 shimbiruhu	he shall be crucified	0	0	1	0
 shimbiruhu	birds	0	0	1	0
-afartaas	four	0	0	1	0
+xornimadooda	infighting as each	0	0	1	0
 geesteen	geesteen	0	0	1	0
 ilmohooda	ilmohooda	0	0	1	0
 gaaraa	reach	0	0	1	0
@@ -3382,7 +3349,7 @@ carif	carif	0	0	1	0
 yabarow	yabarow	0	0	1	0
 carabtu	arabian	0	0	1	0
 misna	coached	0	0	1	0
-malaha	perhaps	0	0	1	0
+muxumud	muxumud	0	0	1	0
 badankooda	most	0	0	1	0
 badankooda	most of them	0	0	1	0
 xanbaarsan	carry	0	0	1	0
@@ -3404,7 +3371,8 @@ de	stope miner	0	0	1	0
 da	age	0	0	1	0
 dhexaysa	between	0	0	1	0
 du	onto	0	0	1	0
-sarreeye	general	0	0	1	0
+dr	dr	0	0	1	0
+dr	doctor	0	0	1	0
 juqraafiga	the geography	0	0	1	0
 kalluunka	fish	0	0	1	0
 xamarka	the tamarind	0	0	1	0
@@ -3429,7 +3397,7 @@ lagusiidaayo	afglagusiidaayo	0	0	1	0
 ayaamo	days	0	0	1	0
 ayaamo	ayyaamo	0	0	1	0
 arrintaan	this matter	0	0	1	0
-inna	we all	0	0	1	0
+caansan	famous	0	0	1	0
 lihi	i don't have	0	0	1	0
 guuriyaha	guuriyaha	0	0	1	0
 guuriyaha	burburinta	0	0	1	0
@@ -3502,7 +3470,6 @@ jaban	cheap	0	0	1	0
 ganacsan	traded	0	0	1	0
 hospitaller	hospitaller	0	0	1	0
 sababay	caused	0	0	1	0
-wiilkii	he didn't find his son	0	0	1	0
 wiilkii	wiikii	0	0	1	0
 wiilkii	the boy	0	0	1	0
 telcom	telecom	0	0	1	0
@@ -3558,7 +3525,7 @@ masaafada	terrain	0	0	1	0
 bolkaniskaee	bolkaniskaee	0	0	1	0
 tihiin	you are	0	0	1	0
 baxaan	leave	0	0	1	0
-guurey	did anyone move out	0	0	1	0
+hayaan	have	0	0	1	0
 dhamaadaa	present in	0	0	1	0
 saddax	saddax	0	0	1	0
 aasaasaha	aasaasaha	0	0	1	0
@@ -3605,13 +3572,13 @@ daaqad	window	0	0	1	0
 boqorka	the king	0	0	1	0
 madaxweeynihii	madaxweeynihii	0	0	1	0
 qaranku	the nation	0	0	1	0
+dhimanayey	dhimanayey	0	0	1	0
 dulmiga	the outrage	0	0	1	0
 bariise	bariise	0	0	1	0
 dhaarsho	dhaarsho	0	0	1	0
 qaranka	national	0	0	1	0
 qaranka	nation	0	0	1	0
 dayactir	repair	0	0	1	0
-dayactir	maintenance	0	0	1	0
 tukanaya	saying their prayers.	0	0	1	0
 tukanaya	saying their prayers	0	0	1	0
 security	security	0	0	1	0
@@ -3620,7 +3587,7 @@ geliyeen	him	0	0	1	0
 geliyeen	geliyeen	0	0	1	0
 webi	river	0	0	1	1
 ontorodeegaan	ontorodeegaan	0	0	1	0
-lagaga	which	0	0	1	0
+nooluhu	nooluhu	0	0	1	0
 almadkhali	almadkhali	0	0	1	0
 daganaayeen	daganaayeen	0	0	1	0
 rasuulkii	an apostle	0	0	1	0
@@ -3644,7 +3611,7 @@ dayey	he looked at	0	0	1	0
 haysan	hayasan	0	0	1	0
 haysan	have	0	0	1	0
 dhaqmo	to fair treatment	0	0	1	0
-addoonkii	servant	0	0	1	0
+naarta	fire	0	0	1	0
 qoomiyado	qoomiyado	0	0	1	0
 dhaqma	live	0	0	1	0
 caanka	the famous	0	0	1	0
@@ -3674,18 +3641,15 @@ balila	balila	0	0	1	0
 aheed	horeeyay	0	0	1	0
 aheed	aheed	0	0	1	0
 wan	ram	0	0	1	0
-wal	each	0	0	1	0
+qaamuuskan	qaamuuskan	0	0	1	0
 khasab	force	0	0	1	0
 khasab	khasab	0	0	1	0
 akhriyay	read	0	0	1	0
 qorshahan	plan	0	0	1	0
-dagaan	environment	0	0	1	0
-dagaan	surroundings	0	0	1	0
-dagaan	settlement	0	0	1	0
+waa	it is	0	0	1	0
 miskiga	miskiga	0	0	1	0
 timaaddo	come	0	0	1	0
 waceys	waceys	0	0	1	0
-wax	substance	0	0	1	0
 wax	something	0	0	1	0
 wax	wax	0	0	1	0
 waw	even	0	0	1	0
@@ -3699,7 +3663,6 @@ wareejiyay	to	0	0	1	0
 koontaroolla	koontaroolla	0	0	1	0
 kalasaaridda	kalasaaridda	0	0	1	0
 guuraan	move into	0	0	1	0
-maqal	listen to	0	0	1	0
 maqal	hear	0	0	1	0
 maqan	absent	0	0	1	0
 maqan	the unseen	0	0	1	0
@@ -3796,7 +3759,7 @@ guureen	have moved	0	0	1	0
 ragii	men	0	0	1	0
 gud	pay back	0	0	1	0
 mudaharaadka	mudaharaadka	0	0	1	0
-badweynta	the ocean	0	0	1	0
+qaadeen	have attacked	0	0	1	0
 dhignaa	it was written	0	0	1	0
 dhignaa	destiny	0	0	1	0
 adeerkiis	uncle	0	0	1	0
@@ -3910,6 +3873,7 @@ dhakhso	be quick	0	0	1	0
 dhakhso	soon	0	0	1	0
 softwareku	the software	0	0	1	0
 softwareku	softwareku	0	0	1	0
+dilaan	kill	0	0	1	0
 hayeyguddoomiyaha	hayeyguddoomiyaha	0	0	1	0
 hayeyguddoomiyaha	the chairman of the	0	0	1	0
 algorithm	algorithm	0	0	1	0
@@ -3917,8 +3881,8 @@ qubrista	qubrista	0	0	1	0
 calool	stomach	0	0	1	1
 jubadda	jubba region	0	0	1	0
 daliil	evidence	0	0	1	0
-looyaqaan	hall	0	0	1	0
 looyaqaan	(qaatul - sadaaqa) hall.	0	0	1	0
+looyaqaan	hall	0	0	1	0
 tiirsada	whenever trouble comes your way	0	0	1	0
 tiirsada	somalis wake up all these	0	0	1	0
 economy	economy	0	0	1	0
@@ -3944,11 +3908,10 @@ sheegnayba	sheegnayba	0	0	1	0
 katay	katay	0	0	1	0
 wakhtigaas	at that time	0	0	1	0
 qalabka	equipment	0	0	1	0
-maydh	maydh	0	0	1	0
 dhoofin	exporting	0	0	1	0
 ingiriisku	britain	0	0	1	0
-رحمه	no	0	0	1	0
 رحمه	what ?	0	0	1	0
+رحمه	no	0	0	1	0
 gaysay	high	0	0	1	0
 macaanaaye	macaanaaye	0	0	1	0
 ciyaaro	play	0	0	1	0
@@ -4108,8 +4071,7 @@ duub	fold	0	0	1	0
 duub	wrap up	0	0	1	0
 weeraradaas	from	0	0	1	0
 isleegta	isleegta	0	0	1	0
-tunisiya	tunisia	0	0	1	0
-tunisiya	tunisiya	0	0	1	0
+laakiin	but	0	0	1	0
 ahluxaddiiska	ahluxaddiiska	0	0	1	0
 kuusoow	kuusoow	0	0	1	0
 inbadan	of many or alot	0	0	1	0
@@ -4147,16 +4109,14 @@ xigmadda	wisdom	0	0	1	0
 daalin	dalin	0	0	1	0
 daalin	escape	0	0	1	0
 qoro	write	0	0	1	0
-qoro	write down for oneself	0	0	1	0
 kabtay	he recovered	0	0	1	0
 america	america	0	0	1	0
 nabiyullaahi	talking about	0	0	1	0
 ayada	her	0	0	1	0
 hadeer	may fill out	0	0	1	0
 dhaqdhaqaaqyadii	diplomatic	0	0	1	0
-isku	i embraced falsehood	0	0	1	0
 isku	same	0	0	1	0
-dhinaca	hand	0	0	1	0
+maamulkii	the administration	0	0	1	0
 galiyaan	right	0	0	1	0
 dabada	anus	0	0	1	0
 alqaacida	alqaacida	0	0	1	0
@@ -4203,7 +4163,6 @@ waddo	street	0	0	1	1
 waddo	road	0	0	1	1
 maysara	maysara	0	0	1	0
 maysara	mayasara	0	0	1	0
-bilaabeen	started	0	0	1	0
 bilaabeen	began	0	0	1	0
 maraykanku	america	0	0	1	0
 jibiyay	by negotiating	0	0	1	0
@@ -4286,7 +4245,6 @@ shaqeeyaan	work	0	0	1	0
 tijaareeyo	tijaareeyo	0	0	1	0
 tijaareeyo	timeshare	0	0	1	0
 shirqool	plot	0	0	1	0
-shirqool	conspire	0	0	1	0
 qeybiyo	itself	0	0	1	0
 qeybiyo	geybiyo	0	0	1	0
 external	external	0	0	1	0
@@ -4366,7 +4324,7 @@ dalkjirka	dalkjirka	0	0	1	0
 cagaarka	gagaarka	0	0	1	0
 cagaarka	the green grass	0	0	1	0
 parts	parts	0	0	1	0
-bogaan	go right ahead	0	0	1	0
+colaad	hostility	0	0	1	0
 olole	campaign	0	0	1	0
 wanaagsana	it is not good	0	0	1	0
 cabsida	the fear	0	0	1	0
@@ -4489,12 +4447,10 @@ dadkoo	all	0	0	1	0
 dadkoo	dadko	0	0	1	0
 tuluddiiye	tuluddiiye	0	0	1	0
 tuluddiiye	tuludiiye	0	0	1	0
-wuxuuo	wuxuuo	0	0	1	0
 daalye	daalye	0	0	1	0
 xukumada	regime	0	0	1	0
 tahay	it is	0	0	1	0
 الرحيم	what?	0	0	1	0
-romanku	romanku	0	0	1	0
 romanku	romanuku	0	0	1	0
 iswiisarland	iswiisarland	0	0	1	0
 dhammanteen	dhammanteen	0	0	1	0
@@ -4506,7 +4462,6 @@ saalax	somali male name	0	0	1	0
 horeeyso	first	0	0	1	0
 shekh	shekh	0	0	1	0
 gaalkacyo	galka�io	0	0	1	0
-gaalkacyo	name of a town in somalia	0	0	1	0
 xoosh	light-colored hair	0	0	1	0
 time	time	0	0	1	0
 beentana	beentana	0	0	1	0
@@ -4576,7 +4531,7 @@ abtirsada	between	0	0	1	0
 hilibku	the meat is	0	0	1	0
 gobanimo	freedom	0	0	1	0
 hooyadiis	his mother	0	0	1	0
-bilsho	bilsho	0	0	1	0
+faraana	faraana	0	0	1	0
 gaarane	gaarane	0	0	1	0
 culusoow	culusoow	0	0	1	0
 sinaanta	sinaanta	0	0	1	0
@@ -4608,8 +4563,7 @@ waxaad	you	0	0	1	0
 waxaad	also or for that reason	0	0	1	0
 asc	asc	0	0	1	0
 khadiija	khadija	0	0	1	0
-gumaystayaasha	unify	0	0	1	0
-gumaystayaasha	gumaystayaas	0	0	1	0
+jilaamasrax	jilaamasrax	0	0	1	0
 waxaan	i	0	0	1	0
 khadiijo	kadijo	0	0	1	0
 sokow	except	0	0	1	0
@@ -4627,7 +4581,7 @@ xaqiiqda	the reality	0	0	1	0
 jaamac	jama	0	0	1	0
 diri	send	0	0	1	0
 maalmo	days	0	0	1	0
-naarta	fire	0	0	1	0
+addoonkii	servant	0	0	1	0
 innooga	innooga	0	0	1	0
 kolonbiya	columbia	0	0	1	0
 kolonbiya	kolonbiya	0	0	1	0
@@ -4706,7 +4660,6 @@ kuhadlaan	kuhadlaan	0	0	1	0
 caruurtii	the children	0	0	1	0
 maray	he passed	0	0	1	0
 a	a	0	0	1	0
-ujeeddo	purpose	0	0	1	0
 ugaandha	uganda	0	0	1	0
 lihiba	lihiba	0	0	1	0
 milyan	million	0	0	1	0
@@ -4799,8 +4752,8 @@ dix	dry streambed	0	0	1	0
 cigaal	egal	0	0	1	0
 dejintii	dejintii	0	0	1	0
 daaci	burp	0	0	1	0
-faraana	faraana	0	0	1	0
-duni	world	0	0	1	0
+bilsho	bilsho	0	0	1	0
+laba	two	0	0	1	0
 noolaan	live	0	0	1	0
 bilaawday	was begun in 1955	0	0	1	0
 gaadhsiiyey	he promoted	0	0	1	0
@@ -4879,7 +4832,7 @@ galin	entered	0	0	1	0
 galin	enter	0	0	1	0
 mideysan	united	0	0	1	0
 cabdisalaan	abdisalam	0	0	1	0
-jilib	knee	0	0	1	1
+buuq	noise	0	0	1	0
 dhowr	few	0	0	1	0
 lagusoo	indeed all our previous	0	0	1	0
 tunis	tunis	0	0	1	0
@@ -4945,7 +4898,7 @@ xagaa	summer	0	0	1	1
 wakhtiga	time	0	0	1	0
 goobweyn	goobweyn	0	0	1	0
 imaadeen	imaadeen	0	0	1	0
-fiidshe	fiidshe	0	0	1	0
+waabarei	waabarei	0	0	1	0
 dekadiiba	dekadiiba	0	0	1	0
 mobile	mobile	0	0	1	0
 mobile	taleefanka gacanta	0	0	1	0
@@ -4969,7 +4922,7 @@ casho	dinner	0	0	1	0
 markaasna	then	0	0	1	0
 kalee	like other	0	0	1	0
 kalee	other	0	0	1	0
-gaashaanle	major	0	0	1	0
+rooma	rome	0	0	1	0
 colba	colba	0	0	1	0
 dartey	dartey	0	0	1	0
 laabteen	they returned	0	0	1	0
@@ -5007,10 +4960,8 @@ tilmaamayo	set out in	0	0	1	0
 tilmaamayo	described	0	0	1	0
 yarixunkaas	yarixunkaas	0	0	1	0
 gaareen	reached	0	0	1	0
-arinta	issue	0	0	1	0
 caddaalad	justice	0	0	1	0
 yimiday	yimiday	0	0	1	0
-yimiday	came	0	0	1	0
 rideen	rest	0	0	1	0
 aannaan	we	0	0	1	0
 sogüt	sogüt	0	0	1	0
@@ -5051,7 +5002,6 @@ hababka	colonize	0	0	1	0
 hababka	the methods	0	0	1	0
 tuurayn	tuurayn	0	0	1	0
 aanay	not	0	0	1	0
-lahaa	to have	0	0	1	0
 lahaa	would	0	0	1	0
 istiraajiyada	istiraajiyada	0	0	1	0
 shantaasi	shantaasi	0	0	1	0
@@ -5113,11 +5063,10 @@ cadeeyay	smiled	0	0	1	0
 dhegaha	ear	0	0	1	0
 dhegaha	ears	0	0	1	0
 noqotayna	noqotayna	0	0	1	0
-uses	uses	0	0	1	0
+xarafluhuna	xarafluhuna	0	0	1	0
 user	user	0	0	1	0
 dabayloobey	dabayloobey	0	0	1	0
-crisaaq	crisaaq	0	0	1	0
-crisaaq	c/risaaq	0	0	1	0
+roobab	heavy rains	0	0	1	0
 daahir	dahir	0	0	1	0
 ethopiakenya	ethopiakenya	0	0	1	0
 luulyokii	luulyokii	0	0	1	0
@@ -5156,8 +5105,7 @@ danjire	danjire	0	0	1	0
 carab	arab	0	0	1	0
 march	march	0	0	1	0
 gaadhayaan	reach	0	0	1	0
-kayaro	at least	0	0	1	0
-kayaro	kayaro	0	0	1	0
+shaqeesa	shaqeesa	0	0	1	0
 madigan	madigan	0	0	1	0
 sidatan	as follows	0	0	1	0
 muuqatay	it was	0	0	1	0
@@ -5175,8 +5123,6 @@ yimaadaan	come to	0	0	1	0
 een	they did	0	0	1	0
 qabo	catch	0	0	1	0
 eed	blame	0	0	1	0
-eeg	now	0	0	1	0
-eeg	egg	0	0	1	0
 eeg	look	0	0	1	0
 cadoo	cadoo	0	0	1	0
 sheegta	must tell	0	0	1	0
@@ -5272,15 +5218,18 @@ fakerayey	fakerayey	0	0	1	0
 baryayaa	please	0	0	1	0
 naa	he was mistaken	0	0	1	0
 naa	he was wrong	0	0	1	0
-gadaal	back	0	0	1	0
+naf	nef	0	0	1	0
+naf	breath	0	0	1	0
+naf	life	0	0	1	0
+naf	soul	0	0	1	0
 axaaddiista	tradition	0	0	1	0
 wareegay	he went around	0	0	1	0
 application	application	0	0	1	0
 wakiilada	house of representatives	0	0	1	0
+tuurayaan	tuurayaan	0	0	1	0
 warbixintii	warbixintii	0	0	1	0
 hurdadii	woke up	0	0	1	0
 madow	black	0	0	1	0
-kore	small monkey	0	0	1	0
 kore	above	0	0	1	0
 ismacil	by our brother ismael	0	0	1	0
 guude	guude	0	0	1	0
@@ -5336,6 +5285,7 @@ caado	habit	0	0	1	0
 maal	property	0	0	1	0
 maan	i	0	0	1	0
 cellular	cellular	0	0	1	0
+duni	world	0	0	1	0
 sarfiga	sarfiga	0	0	1	0
 hirka	the wave	0	0	1	0
 goobihii	points where	0	0	1	0
@@ -5367,13 +5317,12 @@ maayo	i am not	0	0	1	0
 cell	cell	0	0	1	0
 dawliskii	dawliskii	0	0	1	0
 celi	repeat	0	0	1	0
-celi	stop	0	0	1	0
 dawladnimo	nationhood	0	0	1	0
 dawladnimo	governance	0	0	1	0
 qoraha	writer	0	0	1	0
 wxaa	also includes failure to ensure	0	0	1	0
 xulufo	allies	0	0	1	0
-weerta	the pithy phrase	0	0	1	0
+qaarad	continent	0	0	1	1
 sifiican	sifiican	0	0	1	0
 jaaliyadaha	communities	0	0	1	0
 waxannu	waxannu	0	0	1	0
@@ -5407,8 +5356,7 @@ qoraalkaan	the letter	0	0	1	0
 tilmaamay	he indicated	0	0	1	0
 dhalashadiisu	dhalassadiisu	0	0	1	0
 dhalashadiisu	national who was accused	0	0	1	0
-dhibkii	dhikii	0	0	1	0
-dhibkii	calls on	0	0	1	0
+dhaxeysa	between	0	0	1	0
 idiin	you	0	0	1	0
 oktober	oktober	0	0	1	0
 oktober	october	0	0	1	0
@@ -5424,7 +5372,7 @@ xisaabta	xisaabta	0	0	1	0
 taliyeen	capital say	0	0	1	0
 rido	take for oneself	0	0	1	0
 meel	place	0	0	1	0
-salad	basket	0	0	1	0
+geliyaan	tried to	0	0	1	0
 dhalinyaradii	also	0	0	1	0
 dhamaadaan	last	0	0	1	0
 salal	bottoms	0	0	1	0
@@ -5457,7 +5405,6 @@ waayeel	old	0	0	1	0
 fara	fingers	0	0	1	0
 wasiirka	the minister	0	0	1	0
 faro	digits	0	0	1	0
-faro	toes	0	0	1	0
 magaaloyinka	magaaloyinka	0	0	1	0
 weligeed	never	0	0	1	0
 fadhiisto	sit	0	0	1	0
@@ -5475,7 +5422,7 @@ ashhadu	ashhadu	0	0	1	0
 ahaan	as	0	0	1	0
 teedsan	moqadisho	0	0	1	0
 teedsan	next to	0	0	1	0
-tartankii	the tournament	0	0	1	0
+geedaha	the trees	0	0	1	0
 beelaha	clans	0	0	1	0
 including	iyadoo si	0	0	1	0
 including	including	0	0	1	0
@@ -5487,9 +5434,8 @@ dalkooda	their country	0	0	1	0
 joogga	the act of waiting	0	0	1	0
 ahaay	saul	0	0	1	0
 internetka	internet	0	0	1	0
-anigaa	i	0	0	1	0
+dhufteen	beat him on	0	0	1	0
 xaggaaga	you	0	0	1	0
-xaggaaga	by you	0	0	1	0
 xanuunsan	sick	0	0	1	0
 haystaan	have	0	0	1	0
 orodada	especially running	0	0	1	0
@@ -5512,7 +5458,8 @@ hargaysa	hargeisa	0	0	1	0
 |	l	0	0	1	0
 ogaadey	how did he find out	0	0	1	0
 xukuumad	government	0	0	1	0
-serbia	serbia	0	0	1	0
+bisinka	the bismillahi	0	0	1	0
+bisinka	bismillah "in the name of god"	0	0	1	0
 julywaxaa	julywaxaa	0	0	1	0
 alnour	alnour	0	0	1	0
 boqortooyadii	kingdom	0	0	1	0
@@ -5674,7 +5621,7 @@ garabsocday	garabsocday	0	0	1	0
 erega	erega	0	0	1	0
 dhamaadka	at the end of	0	0	1	0
 darbi	prepare	0	0	1	0
-ayey	they	0	0	1	0
+jidka	the way	0	0	1	0
 falalka	the actions	0	0	1	0
 wacays	blessing	0	0	1	0
 nsojesu	nsojesu	0	0	1	0
@@ -5746,8 +5693,6 @@ madaxbannaanidii	madaxbannaanidii	0	0	1	0
 saaxiil	saaxiil	0	0	1	0
 ciidamo	forces	0	0	1	0
 korneel	korneel	0	0	1	0
-dimuqraadiyadda	dimuqraadiyaadiyadda	0	0	1	0
-dimuqraadiyadda	.	0	0	1	0
 xaqiiqada	facts	0	0	1	0
 xaqiiqada	the truth	0	0	1	0
 wajib	must be understood by prospective adoptive	0	0	1	0
@@ -5775,7 +5720,6 @@ jeclaan	like	0	0	1	0
 lasoo	the	0	0	1	0
 lasoo	lasoo	0	0	1	0
 jiidasho	attraction	0	0	1	0
-carqaladaynkaro	carqaladanka	0	0	1	0
 carqaladaynkaro	carqaladaynkaro	0	0	1	0
 diinsoor	dinsor	0	0	1	0
 anbaqaaday	he was taken from a place	0	0	1	0
@@ -5826,7 +5770,6 @@ wels	wels	0	0	1	0
 dalxiiskeeda	anbieterdalxiiskeeda	0	0	1	0
 dalxiiskeeda	dalxiiskeeda	0	0	1	0
 gudbo	that pass through	0	0	1	0
-gudbo	protect	0	0	1	0
 degtaa	swift	0	0	1	0
 heeso	songs	0	0	1	0
 heesa	heesa	0	0	1	0
@@ -5858,7 +5801,6 @@ gumaystaha	colonialist	0	0	1	0
 fasirtada	fasirtada	0	0	1	0
 raskambooni	rasasseyr	0	0	1	0
 xanuun	pain	0	0	1	0
-xanuun	hepatitis	0	0	1	0
 kuliyada	wherein	0	0	1	0
 cadoow	cadoow	0	0	1	0
 library	library	0	0	1	0
@@ -5991,13 +5933,13 @@ hoyga	the shelter	0	0	1	0
 aargoosi	revenge	0	0	1	0
 لا	?	0	0	1	0
 qaarkoodna	some	0	0	1	0
-صفة	i dont know	0	0	1	0
 garasho	understanding	0	0	1	0
 qarsoodiya	americans	0	0	1	0
 talisa	that rules over	0	0	1	0
 jabuuti	djibouti	0	0	1	0
 heshay	he received	0	0	1	0
 saddexaad	third	0	0	1	0
+anigaa	i	0	0	1	0
 casimada	casimada	0	0	1	0
 liibaan	achievement	0	0	1	0
 xasuustaa	remember one	0	0	1	0
@@ -6084,7 +6026,7 @@ taqasusay	taqasusay	0	0	1	0
 doollo	and doollo	0	0	1	0
 hobyo	obbia	0	0	1	0
 aasan	get buried	0	0	1	0
-taariikhdii	history	0	0	1	0
+claahi	both sides living	0	0	1	0
 org	org	0	0	1	0
 kalayihiin	kalayihiin	0	0	1	0
 boqortooyo	kingdom	0	0	1	0
@@ -6122,6 +6064,7 @@ baaxad	size	0	0	1	0
 somalilandna	somalilandna	0	0	1	0
 ubax	flower	0	0	1	1
 uddaayey	uddaayey	0	0	1	0
+qoraxey	qoraxey	0	0	1	0
 wasaarihiisa	wasaarihiisa	0	0	1	0
 wabiyaal	beneath	0	0	1	0
 wabiyaal	rivers	0	0	1	0
@@ -6177,8 +6120,8 @@ lacagtii	the money	0	0	1	0
 iiga	me	0	0	1	0
 gaareeso	gaareeso	0	0	1	0
 gaareeso	the route	0	0	1	0
-qaraar	bitter	0	0	1	0
 qaraar	faulting	0	0	1	0
+qaraar	bitter	0	0	1	0
 caabudaa	worship him must worship	0	0	1	0
 shaciga	shaciga	0	0	1	0
 rususha	rususha	0	0	1	0
@@ -6237,17 +6180,17 @@ ogsoonoow	to be known	0	0	1	0
 ogsoonoow	be aware of	0	0	1	0
 isi	".	0	0	1	0
 aheyn	was not	0	0	1	0
-xarafluhuna	xarafluhuna	0	0	1	0
+uses	uses	0	0	1	0
 isa	he	0	0	1	0
 joogsanmaanta	joogsanmaanta	0	0	1	0
 xogo	xogo	0	0	1	0
 aheyd	was	0	0	1	0
 aheyd	ahead	0	0	1	0
 aheyd	it was	0	0	1	0
+kitaabka	book	0	0	1	0
 hooy	shelter	0	0	1	0
 iyagoon	while they	0	0	1	0
 hoos	under	0	0	1	0
-dhalin	causing	0	0	1	0
 dhalin	young	0	0	1	0
 hargaha	animal hides	0	0	1	0
 waxeey	may	0	0	1	0
@@ -6261,7 +6204,7 @@ garre	ocean fish	0	0	1	0
 bedeli	change	0	0	1	0
 nabad	peace	0	0	1	1
 raaxeestaan	raaxeestaan	0	0	1	0
-dadkani	these people	0	0	1	0
+curiya	potassium	0	0	1	0
 daawado	watch	0	0	1	0
 tukuhu	tukuhu	0	0	1	0
 waaba	it	0	0	1	0
@@ -6317,7 +6260,7 @@ yeeshaan	take	0	0	1	0
 xukumayay	xukumayay	0	0	1	0
 jiho	direction	0	0	1	0
 furay	he opened	0	0	1	0
-kadhacay	second phase was for	0	0	1	0
+kujiray	kujiray	0	0	1	0
 keliya	only	0	0	1	0
 kaalmo	help	0	0	1	0
 wayday	could not	0	0	1	0
@@ -6335,7 +6278,7 @@ musha	muddolod clan could not unite	0	0	1	0
 xasar	xasar	0	0	1	0
 dhowrsada	guard	0	0	1	0
 hurumarka	hurumarka	0	0	1	0
-macallin	teacher	0	0	1	1
+horreeya	the first	0	0	1	0
 innagaa	innagaa	0	0	1	0
 innagaa	it is we who	0	0	1	0
 iskuulo	iskuulo	0	0	1	0
@@ -6381,7 +6324,6 @@ bad	sea	0	0	1	0
 shabahdaa	shabahdaa	0	0	1	0
 sidaas	so	0	0	1	0
 bal	"	0	0	1	0
-bah	siblings	0	0	1	0
 bah	family	0	0	1	0
 dilaye	killed her	0	0	1	0
 dilaye	killed her.	0	0	1	0
@@ -6495,7 +6437,8 @@ ictiraafsanyahay	ictiraafsanyahay	0	0	1	0
 ictiraafsanyahay	recognized	0	0	1	0
 khaalida	khaalida	0	0	1	0
 kordhiyey	he increased	0	0	1	0
-shaqeesa	shaqeesa	0	0	1	0
+kayaro	at least	0	0	1	0
+kayaro	kayaro	0	0	1	0
 kii	the one	0	0	1	0
 kii	that	0	0	1	0
 loola	means	0	0	1	0
@@ -6684,7 +6627,7 @@ wiil	boy	0	0	1	1
 cudurka	the disease	0	0	1	0
 cudurka	disease	0	0	1	0
 siyaasi	a politician	0	0	1	0
-shabakada	aborigine	0	0	1	0
+xidh	tie	0	0	1	0
 indhabuur	indabur	0	0	1	0
 muxumed	muxumed	0	0	1	0
 qabatimay	qabatimay	0	0	1	0
@@ -6696,7 +6639,6 @@ dhaqmaan	follow	0	0	1	0
 saaxil	coast	0	0	1	0
 saaxil	saaxii	0	0	1	0
 laeego	laeego	0	0	1	0
-father	father	0	0	1	0
 father	more	0	0	1	0
 marki	when	0	0	1	0
 wegenxile	somali nickname	0	0	1	0
@@ -6740,7 +6682,7 @@ yimaadeen	they came	0	0	1	0
 leenahay	we are saying	0	0	1	0
 magaciisaawaxa	magaciisaawaxa	0	0	1	0
 baahday	he was in need	0	0	1	0
-waabarei	waabarei	0	0	1	0
+badbaadinta	protection	0	0	1	0
 lajira	lajira	0	0	1	0
 gyastayn	gyastayn	0	0	1	0
 herer	herer	0	0	1	0
@@ -6832,19 +6774,16 @@ gumaystay	when he enslaved	0	0	1	0
 suhra	suhra	0	0	1	0
 uruguay	uruguway	0	0	1	0
 uruguay	uruguay	0	0	1	0
-tacliinta	the education	0	0	1	0
 françois	fracois	0	0	1	0
 françois	francois	0	0	1	0
 diidayaana	diidayaana	0	0	1	0
 sannadku	year	0	0	1	0
 lordi	lordi	0	0	1	0
-booqan	visit	0	0	1	0
+gaalada	unbelievers	0	0	1	0
 sunday	sunday	0	0	1	0
 idil	all	0	0	1	0
 idil	whole	0	0	1	0
 idin	you	0	0	1	0
-xadiiskan	xadiiskan	0	0	1	0
-xadiiskan	xadiiskan xadiiskan xadiiskan	0	0	1	0
 xusi	remember	0	0	1	0
 mar	time	0	0	1	0
 tebiyey	he conveyed	0	0	1	0
@@ -6853,7 +6792,6 @@ may	may	0	0	1	0
 snm	snm	0	0	1	0
 maa	?	0	0	1	0
 magaciisa	his name	0	0	1	0
-mad	stone	0	0	1	0
 mad	lengthen	0	0	1	0
 weerar	attack	0	0	1	0
 isuma	not each other	0	0	1	0
@@ -6887,7 +6825,7 @@ qabaailkii	in somalia	0	0	1	0
 anaadoolee	anaadoolee	0	0	1	0
 duruufihii	duruufihii	0	0	1	0
 duruufihii	durufihii	0	0	1	0
-lugta	the leg	0	0	1	0
+laguna	and	0	0	1	0
 haynin	don't have	0	0	1	0
 haynin	no	0	0	1	0
 qaybiyaa	overpowers him	0	0	1	0
@@ -6896,7 +6834,6 @@ geeyo	bring	0	0	1	0
 secondary	waxbarashada dugsiga sare	0	0	1	0
 secondary	secondary	0	0	1	0
 dadweynaha	public	0	0	1	0
-dadweynaha	the public	0	0	1	0
 conoco	conoco	0	0	1	0
 daaweeyey	he fixed	0	0	1	0
 caqligu	would	0	0	1	0
@@ -6974,7 +6911,6 @@ inaan	to	0	0	1	0
 dego	down	0	0	1	0
 dego	go down	0	0	1	0
 haddaba	so	0	0	1	0
-kumeelgaarka	whether	0	0	1	0
 amarkiis	amarkiis	0	0	1	0
 shanfarood	shanfarood	0	0	1	0
 amaan	praise	0	0	1	0
@@ -7053,7 +6989,6 @@ buulo	village	0	0	1	0
 deelqaaf	confusion	0	0	1	0
 qaxay	who fled	0	0	1	0
 sannadahan	last few years e-mail s have become	0	0	1	0
-sannadahan	last few years emails have become	0	0	1	0
 dimishiq	1273	0	0	1	0
 dimishiq	dimishiq	0	0	1	0
 qaadataan	you take	0	0	1	0
@@ -7120,8 +7055,8 @@ saksonku	salsonku	0	0	1	0
 dareemay	he felt	0	0	1	0
 innoo	we	0	0	1	0
 innoo	innoo	0	0	1	0
-caruurtiisa	his children	0	0	1	0
 caruurtiisa	caruurtiis	0	0	1	0
+caruurtiisa	his children	0	0	1	0
 kaalin	role	0	0	1	0
 kaalin	kaalin	0	0	1	0
 august	august	0	0	1	0
@@ -7210,7 +7145,6 @@ faanoole	somali nickname	0	0	1	0
 different	different	0	0	1	0
 runtii	i assure	0	0	1	0
 samo	sky	0	0	1	0
-samo	goodness	0	0	1	0
 layli	layil	0	0	1	0
 layli	exercise	0	0	1	0
 olombikada	olombikada	0	0	1	0
@@ -7233,11 +7167,8 @@ fadhiso	fadhiso	0	0	1	0
 seynab	zeinab	0	0	1	0
 kiiba	she does	0	0	1	0
 kiiba	month	0	0	1	0
-naf	nef	0	0	1	0
-naf	breath	0	0	1	0
-naf	life	0	0	1	0
-naf	soul	0	0	1	0
-badnaydna	camps	0	0	1	0
+gadaal	back	0	0	1	0
+abaabul	coordination	0	0	1	0
 qadiimka	old tradition	0	0	1	0
 burburay	burburay	0	0	1	0
 burburay	it was crushed	0	0	1	0
@@ -7248,10 +7179,10 @@ cabdulle	abdulle	0	0	1	0
 aqoonsanayn	recognized internationally	0	0	1	0
 awoodeedu	awoodeedu	0	0	1	0
 kaas	that	0	0	1	0
-kaar	feel a sudden pain	0	0	1	0
 kaar	card	0	0	1	0
 iskuulada	schools	0	0	1	0
-jiraye	at least left some	0	0	1	0
+badalin	any change is made	0	0	1	0
+badalin	transformed	0	0	1	0
 habeenkii	at night	0	0	1	0
 gates	gates	0	0	1	0
 cidina	no one	0	0	1	0
@@ -7271,7 +7202,6 @@ daganyihiin	daganyihiin	0	0	1	0
 daganyihiin	they live	0	0	1	0
 baallacad	baallacad	0	0	1	0
 intaasi	added that	0	0	1	0
-intaasi	that	0	0	1	0
 feysal	feysal	0	0	1	0
 abtigiis	abtigiis	0	0	1	0
 abtigiis	�s clan	0	0	1	0
@@ -7287,6 +7217,7 @@ cabdimanaaf	weather	0	0	1	0
 cabdimanaaf	cabdimanaaf	0	0	1	0
 dhalashooyin	dhalashooyin	0	0	1	0
 barashadiisa	no association	0	0	1	0
+ridey	it had been thrown into	0	0	1	0
 naad	th verse	0	0	1	0
 nsosekriste	nsosekriste	0	0	1	0
 afroaasiya	afroaasiya	0	0	1	0
@@ -7308,6 +7239,7 @@ kmg	tng	0	0	1	0
 dalool	hole	0	0	1	0
 sudan	sudan	0	0	1	0
 sharciyada	rules	0	0	1	0
+ahaaday	it	0	0	1	0
 airways	airways	0	0	1	0
 diiran	warm	0	0	1	0
 gobolladii	provinces	0	0	1	0
@@ -7339,7 +7271,6 @@ geeriyoodey	offered	0	0	1	0
 degenyihiin	some counties where many refugees live	0	0	1	0
 ameerika	america	0	0	1	0
 lagahayn	lagahayn	0	0	1	0
-hadana	yet	0	0	1	0
 faraskii	touched	0	0	1	0
 adeegsan	used	0	0	1	0
 moodaaye	moodaaye	0	0	1	0
@@ -7420,7 +7351,6 @@ resolution	resolution	0	0	1	0
 casuura	casuura	0	0	1	0
 oran	to stay	0	0	1	0
 oran	say	0	0	1	0
-oran	to say	0	0	1	0
 hadaba		0	0	1	0
 hadaba	therefore	0	0	1	0
 xeerarka	the laws	0	0	1	0
@@ -7478,7 +7408,7 @@ kuwaaa	kuwaaa	0	0	1	0
 sucuudiga	saudi	0	0	1	0
 usii	productive	0	0	1	0
 degenaan	degenaan	0	0	1	0
-garto	understand	0	0	1	0
+badbaadiyo	save	0	0	1	0
 qoremaxamed	by mohamed	0	0	1	0
 qoremaxamed	qoremaxamed	0	0	1	0
 luuqada	the language	0	0	1	0
@@ -7538,7 +7468,8 @@ yaanyada	yaanyada	0	0	1	0
 magaaladan	this town	0	0	1	0
 gaal	infidel	0	0	1	0
 mozilla	mozilla	0	0	1	0
-seegaaya	seegaaya	0	0	1	0
+celin	return	0	0	1	0
+celin	back	0	0	1	0
 dirkii	dirkii	0	0	1	0
 ertariya	ertariya	0	0	1	0
 town	town	0	0	1	0
@@ -7565,7 +7496,7 @@ suudaanitoobiya	ethiopia	0	0	1	0
 suudaanitoobiya	suudaanitoobiya	0	0	1	0
 hablood	sisters	0	0	1	0
 hablood	done in nasa hablod	0	0	1	0
-dhameestirnociidanka	dhameestirnociidanka	0	0	1	0
+baqaa	to	0	0	1	0
 maansoolayaashii	maansoolayaashii	0	0	1	0
 ballaariyeen	extended	0	0	1	0
 wadanmada	wadanmada	0	0	1	0
@@ -7629,7 +7560,6 @@ noocan	this	0	0	1	0
 darbiga	wall	0	0	1	0
 khayrkiisa	khayrkiisa	0	0	1	0
 baal	page	0	0	1	0
-baal	wing	0	0	1	0
 baan	i	0	0	1	0
 release	release	0	0	1	0
 حروف	what	0	0	1	0
@@ -7659,7 +7589,6 @@ haile	mangistu haile mariam "name of former president in ethiopia"	0	0	1	0
 indonesia	indonesia	0	0	1	0
 subsystem	subsystem	0	0	1	0
 yaqaannay	yaqaannay	0	0	1	0
-qaatey	he took	0	0	1	0
 ganey	ganey	0	0	1	0
 xaasuubka	xaasuubka	0	0	1	0
 gabdhahooda		0	0	1	0
@@ -7672,7 +7601,7 @@ koobmaa	koobmaa	0	0	1	0
 kamid	one of	0	0	1	0
 saartay	on	0	0	1	0
 caana	milk	0	0	1	0
-dhimanayey	dhimanayey	0	0	1	0
+ujeeddo	purpose	0	0	1	0
 baaqaysay	baaqaysay	0	0	1	0
 kuman	were thousands	0	0	1	0
 liibiya	libya	0	0	1	0
@@ -7691,7 +7620,6 @@ maktabada	your local	0	0	1	0
 noqo	return	0	0	1	0
 kuleh	speakers who are	0	0	1	0
 beeray	he planted	0	0	1	0
-salaancarrabey	salaancarrabey	0	0	1	0
 top	top	0	0	1	0
 adeegyadii	operational	0	0	1	0
 lixdankii	lixdankii	0	0	1	0
@@ -7700,9 +7628,8 @@ kahor	before	0	0	1	0
 smaller	smaller	0	0	1	0
 cade	clear	0	0	1	0
 cadi	cadi	0	0	1	0
-buuxin	act of filling	0	0	1	0
 buuxin	fill	0	0	1	0
-abaabul	coordination	0	0	1	0
+badnaydna	camps	0	0	1	0
 kol	time	0	0	1	0
 dagaalamey	dagaalamey	0	0	1	0
 alshabab	alshabab	0	0	1	0
@@ -7711,7 +7638,7 @@ kow	one	0	0	1	0
 khuseyma	khuseyma	0	0	1	0
 lehe	agree	0	0	1	0
 aragtay	saw	0	0	1	0
-dagaalada	the fighting	0	0	1	0
+turkigawaxa	turkigawaxa	0	0	1	0
 deegaannada	in different locations	0	0	1	0
 deegaannada	structure (and composition)	0	0	1	0
 deegaannada	structure (and composition	0	0	1	0
@@ -7770,8 +7697,7 @@ sabriye	sabriye	0	0	1	0
 gumeystaha	he	0	0	1	0
 hiyiga	the center of emotion	0	0	1	0
 ka	from	0	0	1	0
-badalin	any change is made	0	0	1	0
-badalin	transformed	0	0	1	0
+jiraye	at least left some	0	0	1	0
 ki	them takes away thirst altogether	0	0	1	0
 immam	immam	0	0	1	0
 km	km	0	0	1	0
@@ -7858,7 +7784,7 @@ heshiis	agreement	0	0	1	0
 sultan	sultan	0	0	1	0
 afaf	languages	0	0	1	0
 dalalka	the countries	0	0	1	0
-dar	add	0	0	1	0
+ameerikada	conducted a research that took	0	0	1	0
 shirkii	the meeting	0	0	1	0
 jaamaca	the place of worship	0	0	1	0
 heerka	the level	0	0	1	0
@@ -7931,8 +7857,7 @@ iikeeneen	iikeeneen	0	0	1	0
 labad	second time	0	0	1	0
 yidhaahdaa	he says	0	0	1	0
 maskax	brain	0	0	1	0
-development	development	0	0	1	0
-development	development " it is not somali word it is english"	0	0	1	0
+syc	syc	0	0	1	0
 dayniile	deynile	0	0	1	0
 wuxuuna	he	0	0	1	0
 syl	syl	0	0	1	0
@@ -7981,14 +7906,14 @@ xanaaqay	he lost his temper	0	0	1	0
 midoobidii	midoobidii	0	0	1	0
 cun	eat	0	0	1	0
 durdur	stream	0	0	1	0
-taxane	serial story	0	0	1	0
+dhacana	eyes	0	0	1	0
 bin	bin	0	0	1	0
 bil	month	0	0	1	0
 taariiqyahano	taariiqyahano	0	0	1	0
 bik	bik	0	0	1	0
 asagana	wounded solider	0	0	1	0
 heesaan	themselves	0	0	1	0
-ahaaday	it	0	0	1	0
+maydh	maydh	0	0	1	0
 bir	iron	0	0	1	0
 ogolaaday	confess	0	0	1	0
 maromacawis	somali male traditional dress	0	0	1	0
@@ -8069,6 +7994,7 @@ shaahii	shaahii	0	0	1	0
 jago	post	0	0	1	0
 jago	direction	0	0	1	0
 deexda	the coastal trip	0	0	1	0
+yeedhay	he called	0	0	1	0
 baahida	the need	0	0	1	0
 markaasay	they	0	0	1	0
 tilmaamo	tips	0	0	1	0
@@ -8082,7 +8008,8 @@ xorayneed	xorayneed	0	0	1	0
 arrimaha	affairs	0	0	1	0
 arrimaha	matters	0	0	1	0
 koobnaan	contain	0	0	1	0
-ruushka	russia	0	0	1	0
+engineering	). although	0	0	1	0
+engineering	although	0	0	1	0
 sokeeyay	close family or relative	0	0	1	0
 sokeeyay	sokeeyay	0	0	1	0
 waddada	the road	0	0	1	0
@@ -8140,7 +8067,7 @@ maroidjeex	marodijeh "state"	0	0	1	0
 gaadhsiisanayd	gaadhsiisanayd	0	0	1	0
 ahaataye	ahaataye	0	0	1	0
 gaalkaan	gaalkaan	0	0	1	0
-geliyaan	tried to	0	0	1	0
+salad	basket	0	0	1	0
 taalaa	is located in	0	0	1	0
 xitaa	even	0	0	1	0
 wuxu	the thing	0	0	1	0
@@ -8194,7 +8121,7 @@ hannaan	style	0	0	1	0
 leeyihiin	have	0	0	1	0
 qaadday	he took	0	0	1	0
 meesha	where	0	0	1	0
-muxumud	muxumud	0	0	1	0
+malaha	perhaps	0	0	1	0
 cabdixaaji	cabdixaaji	0	0	1	0
 private	private	0	0	1	0
 badbaaday	he was safe	0	0	1	0
@@ -8245,8 +8172,7 @@ varies	varies	0	0	1	0
 qaanuunka	law	0	0	1	0
 weyneyd	the big	0	0	1	0
 weyneyd	great	0	0	1	0
-waxaanan	waxaanan	0	0	1	0
-waxaanan	and i	0	0	1	0
+aanu	not	0	0	1	0
 cufanka	cufanka	0	0	1	0
 lamy	lamy	0	0	1	0
 weyneyn	magnification	0	0	1	0
@@ -8282,8 +8208,6 @@ xaafad	quarter	0	0	1	0
 geel	camel	0	0	1	1
 jiro	there is no	0	0	1	0
 jamhuriyadda	the republic of	0	0	1	0
-jamhuriyadda	republic of somalia	0	0	1	0
-jamhuriyadda	the ruplic of	0	0	1	0
 xumaanta	the evil	0	0	1	0
 markiiba	immediately	0	0	1	0
 meelo	places	0	0	1	0
@@ -8291,14 +8215,12 @@ qolo	group	0	0	1	0
 afgambigii	afgambigii	0	0	1	0
 la	with	0	0	1	0
 weydiisanayaa	requires	0	0	1	0
-dr	dr	0	0	1	0
-dr	doctor	0	0	1	0
+sarreeye	general	0	0	1	0
 muslimiin	muslims	0	0	1	0
 barlamaankiyo	barlamaankiyo	0	0	1	0
 madhabta	madhabta	0	0	1	0
 bilowday	started	0	0	1	0
-dhashay	he was born	0	0	1	0
-dhashay	cub	0	0	1	0
+shibilka	shibilka	0	0	1	0
 dhigin	hang up	0	0	1	0
 rabo	want	0	0	1	0
 dad	people	0	0	1	0
@@ -8307,11 +8229,10 @@ dab	fire	0	0	1	0
 gudo	inside	0	0	1	0
 dal	country	0	0	1	0
 guda	they proceeded	0	0	1	0
-dan	desire	0	0	1	0
 dan	interest	0	0	1	0
 kowaad	first	0	0	1	0
 bakistaan	pakistan	0	0	1	0
-yeedhay	he called	0	0	1	0
+dar	add	0	0	1	0
 kaatooliga	kaatooliga	0	0	1	0
 dhaxalka	the inheritance	0	0	1	0
 dhaxalka	inheritance	0	0	1	0
@@ -8377,7 +8298,7 @@ odoyaashii	odoyaashii	0	0	1	0
 biirtay	did you join	0	0	1	0
 cabir	size	0	0	1	0
 soogalistii	soogalistii	0	0	1	0
-xornimadooda	infighting as each	0	0	1	0
+afartaas	four	0	0	1	0
 burburka	the destruction	0	0	1	0
 maarmayo	person shows caution on	0	0	1	0
 doorteen	they chose	0	0	1	0
@@ -8393,7 +8314,7 @@ agasimihii	agasimishii	0	0	1	0
 dhowrsana	dhowrsana	0	0	1	0
 kudhaqan	kudhaqan	0	0	1	0
 kadhashay	kadhashay	0	0	1	0
-qoraxey	qoraxey	0	0	1	0
+tacliinta	the education	0	0	1	0
 kaga	in	0	0	1	0
 jaale	yellow	0	0	1	0
 sweden	sweden	0	0	1	0
@@ -8401,7 +8322,7 @@ shabele	shabele	0	0	1	0
 india	india	0	0	1	0
 garaadka	the understanding	0	0	1	0
 galaydh	galaydh	0	0	1	0
-caansan	famous	0	0	1	0
+inna	we all	0	0	1	0
 galayda	corn	0	0	1	0
 galayda	/corn	0	0	1	0
 nalagu	us	0	0	1	0
@@ -8418,7 +8339,8 @@ jinka	the parity	0	0	1	0
 handsets	handsets	0	0	1	0
 dadaal	efforts	0	0	1	0
 nabadgelyada	security	0	0	1	0
-hayaan	have	0	0	1	0
+degno	's get off	0	0	1	0
+degno	get off	0	0	1	0
 shareecada	shari	0	0	1	0
 min	predecessor	0	0	1	0
 min	each	0	0	1	0
@@ -8477,7 +8399,7 @@ guddoonsaday	he accepted	0	0	1	0
 guddoonsaday	held or accepted	0	0	1	0
 raga	men	0	0	1	0
 xds	xds	0	0	1	0
-geedaha	the trees	0	0	1	0
+tartankii	the tournament	0	0	1	0
 waaweyn	major	0	0	1	0
 samroon	samroon	0	0	1	0
 areas	areas	0	0	1	0
@@ -8518,6 +8440,7 @@ doorkii	doorkii	0	0	1	0
 iyada	her	0	0	1	0
 waceysle	tribe	0	0	1	0
 waceysle	by waisle	0	0	1	0
+danbeeyo	mrs.	0	0	1	0
 xagaas	xagaas	0	0	1	0
 fududeeyay	bared witness	0	0	1	0
 madar	gathering	0	0	1	0
@@ -8582,7 +8505,7 @@ koraysaaye	karaysaaye	0	0	1	0
 koraysaaye	koraysaaye	0	0	1	0
 muddo	for a period	0	0	1	0
 muddo	muddo	0	0	1	0
-dhufteen	beat him on	0	0	1	0
+wuxuuo	wuxuuo	0	0	1	0
 badiba	almost every	0	0	1	0
 roobka	the rain	0	0	1	0
 diidday	she refused	0	0	1	0
@@ -8627,7 +8550,6 @@ badanna	many	0	0	1	0
 dibnahayga	dibnahayga	0	0	1	0
 fadhiyay	setting	0	0	1	0
 guursadaye	guursadaye	0	0	1	0
-badbaadinta	protection	0	0	1	0
 massare	massare	0	0	1	0
 massare	a tribe in somalia	0	0	1	0
 qabiilo	tribe	0	0	1	0
@@ -8695,7 +8617,6 @@ mahathir	mahathir	0	0	1	0
 macneheedu	does this mean	0	0	1	0
 maansooyinka	maansooyinka	0	0	1	0
 heer	level	0	0	1	0
-heer	stage	0	0	1	0
 hees	song	0	0	1	1
 dubai	dubai	0	0	1	0
 olol	flame	0	0	1	0
@@ -8733,7 +8654,7 @@ khalaf	khalaf	0	0	1	0
 jeneral	winning	0	0	1	0
 jeneral	general	0	0	1	0
 dalxiisi	dalxiisi	0	0	1	0
-qaarad	continent	0	0	1	1
+weerta	the pithy phrase	0	0	1	0
 kaxaystay	he took along	0	0	1	0
 xirta	that connects	0	0	1	0
 style=fontsize	style	0	0	1	0
@@ -8745,7 +8666,6 @@ kiristaan	cristian	0	0	1	0
 xeeb	coast	0	0	1	0
 mirro	each other by	0	0	1	0
 militariga	military	0	0	1	0
-ciidankiisii	courage	0	0	1	0
 ciidankiisii	men	0	0	1	0
 qabaailada	qabaailada	0	0	1	0
 masuuliyaddii	masuuliyaddii	0	0	1	0
@@ -8846,7 +8766,6 @@ inaynu	we	0	0	1	0
 inaynu	for that reason	0	0	1	0
 watay	he carried	0	0	1	0
 cabirka	optometrist	0	0	1	0
-nuur	light	0	0	1	0
 nuur	nur	0	0	1	0
 aakhiraba	hereafter	0	0	1	0
 amxaari	amxaari	0	0	1	0
@@ -8903,7 +8822,6 @@ abdulrahman	abdul rahman	0	0	1	0
 abdulrahman	abdulrahman	0	0	1	0
 ahaayeen	were	0	0	1	0
 wareegeen	taken	0	0	1	0
-tababare	trainer	0	0	1	0
 tababare	the coach	0	0	1	0
 rukuucda	the prostration	0	0	1	0
 waraabin	irrigation	0	0	1	0
@@ -8972,8 +8890,8 @@ nisaar	nisaar	0	0	1	0
 danbeyay	danbeyay	0	0	1	0
 koofil	kofil	0	0	1	0
 wenlake	wenlake	0	0	1	0
-kacay	abbas	0	0	1	0
-kacay	he got up	0	0	1	0
+maxamedow	hay mohammed	0	0	1	0
+maxamedow	hey mohammed	0	0	1	0
 adoomada	not the servants of	0	0	1	0
 dhexdooda	among them	0	0	1	0
 muse	muse	0	0	1	0
@@ -8981,8 +8899,7 @@ qiimayn	value	0	0	1	0
 phone	phone	0	0	1	0
 jeelle	jelle	0	0	1	0
 jeelle	jeelle	0	0	1	0
-xidh	tie	0	0	1	0
-xidh	close	0	0	1	0
+shabakada	aborigine	0	0	1	0
 kacab	kacab	0	0	1	0
 md	mr.	0	0	1	0
 md	mr	0	0	1	0
@@ -9003,7 +8920,7 @@ raascaseyr	raascaseyr	0	0	1	0
 botha	botha	0	0	1	0
 botha	treatened	0	0	1	0
 siyasadeed	political beliefs	0	0	1	0
-gaalada	unbelievers	0	0	1	0
+booqan	visit	0	0	1	0
 times	times	0	0	1	0
 bortaqiiska	greek	0	0	1	0
 bortaqiiska	bortaqiiska	0	0	1	0
@@ -9045,7 +8962,6 @@ zenawi	zanawi	0	0	1	0
 taajir	rich	0	0	1	0
 shimbir	bird	0	0	1	0
 alazhar	alazhar	0	0	1	0
-aduu	he you	0	0	1	0
 aduu	he ... you	0	0	1	0
 aduu	he	0	0	1	0
 biritishka	its pronunciation	0	0	1	0
@@ -9102,7 +9018,8 @@ hawiyaha	hawiye	0	0	1	0
 riyadoodii	riyadoodi	0	0	1	0
 riyadoodii	riyadoodii	0	0	1	0
 cadale	adale	0	0	1	0
-tuurayaan	tuurayaan	0	0	1	0
+dimuqraadiyadda	dimuqraadiyaadiyadda	0	0	1	0
+dimuqraadiyadda	.	0	0	1	0
 akhrinta	reading	0	0	1	0
 waxyaalaha	things	0	0	1	0
 goo	cut	0	0	1	0
@@ -9133,7 +9050,6 @@ sano	years	0	0	1	0
 inoo	us	0	0	1	0
 taxaabaan	taxaabaan	0	0	1	0
 kuxigeenka	vice-	0	0	1	0
-kuxigeenka	vice	0	0	1	0
 gaadhsiiya	triumphal procession	0	0	1	0
 carruur	children	0	0	1	0
 katahay	katahay	0	0	1	0
@@ -9153,6 +9069,7 @@ gumeesiga	qumeesiga	0	0	1	0
 gumeesiga	gumeesiga	0	0	1	0
 labka	the male	0	0	1	0
 saartaa	stress on	0	0	1	0
+jebiyey	he broke	0	0	1	0
 ayna	and	0	0	1	0
 dininig	dining	0	0	1	0
 dininig	dininig	0	0	1	0
@@ -9162,6 +9079,7 @@ taasna	and that	0	0	1	0
 taasna	that	0	0	1	0
 aynu	we	0	0	1	0
 dheeraad	more	0	0	1	0
+guurey	did anyone move out	0	0	1	0
 esperanto	esperanto	0	0	1	0
 cuneen	they would not have eaten	0	0	1	0
 jawaabo	answers to	0	0	1	0
@@ -9217,7 +9135,7 @@ botswana	botswana	0	0	1	0
 jeeday	he intended	0	0	1	0
 howlaha	the activities	0	0	1	0
 niman	men	0	0	1	0
-ridey	it had been thrown into	0	0	1	0
+laasgeel	laasgeel	0	0	1	0
 qaatay	he took	0	0	1	0
 cadaalda	cadaalda	0	0	1	0
 jeedaa	mean	0	0	1	0
@@ -9248,7 +9166,6 @@ wikipediaha	wikipediaha	0	0	1	0
 wasaarayaashii	wasaarayaashii	0	0	1	0
 milkiilaha	mikiilaha	0	0	1	0
 goboladan	goboladan	0	0	1	0
-harag	leather	0	0	1	0
 maltisku	maltisku	0	0	1	0
 radio	radio	0	0	1	0
 nacay	hated	0	0	1	0
@@ -9256,7 +9173,7 @@ nacay	he rejected	0	0	1	0
 qubo	spill	0	0	1	0
 doonayo	wants	0	0	1	0
 maskaxda	brain	0	0	1	0
-badbaadiyo	save	0	0	1	0
+garto	understand	0	0	1	0
 shaqeeyeen	it was they working there	0	0	1	0
 dhalanteede	dhalanteede	0	0	1	0
 suurto	possible	0	0	1	0
@@ -9265,7 +9182,8 @@ indho	eyes	0	0	1	0
 warshado	raise	0	0	1	0
 dhixine	dhixine	0	0	1	0
 gees	horn	0	0	1	0
-aanu	not	0	0	1	0
+waxaanan	waxaanan	0	0	1	0
+waxaanan	and i	0	0	1	0
 daahfurayay	daahfurayay	0	0	1	0
 gooni	separate	0	0	1	0
 wayga	wayga	0	0	1	0
@@ -9317,7 +9235,7 @@ mug	capacity	0	0	1	0
 afarta	the four	0	0	1	0
 isha	the eye	0	0	1	0
 iskudar	confluence	0	0	1	0
-dawladi	dawladi	0	0	1	0
+arrimahaas	these	0	0	1	0
 tinta	and spreads her hair	0	0	1	0
 aadey	out where	0	0	1	0
 ogaden	ogaden	0	0	1	0
@@ -9378,7 +9296,6 @@ yusuf	yusuf	0	0	1	0
 cadaanka	white	0	0	1	0
 korkiisa	on top	0	0	1	0
 yiraaho	yiraaho	0	0	1	0
-ameerikada	conducted a research that took	0	0	1	0
 marmarka	sometimes	0	0	1	0
 dabeecada	behavior	0	0	1	0
 jimce	friday	0	0	1	0
@@ -9392,6 +9309,7 @@ garab	shoulder	0	0	1	0
 rusushii	so he punished them with a vehement punishment	0	0	1	0
 garan	don't know	0	0	1	0
 kuyaal	kuyaal	0	0	1	0
+musveni	musveni	0	0	1	0
 asagoo	he	0	0	1	0
 haboon	appropriate	0	0	1	0
 kartaa	can	0	0	1	0
@@ -9450,7 +9368,7 @@ marayo	through	0	0	1	0
 qodaal	plantation	0	0	1	0
 qodaal		0	0	1	0
 magacdaray	he gave	0	0	1	0
-arrimahaas	these	0	0	1	0
+dawladi	dawladi	0	0	1	0
 alifay	invented by	0	0	1	0
 alifay	authored	0	0	1	0
 saadka	supply base	0	0	1	0
@@ -9465,7 +9383,7 @@ nnkh	rip	0	0	1	0
 madaxwaynanimada	madaxwaynanimada	0	0	1	0
 igad	igad	0	0	1	0
 dhaqaaqyo	dhaqaaqyo	0	0	1	0
-musveni	musveni	0	0	1	0
+serbia	serbia	0	0	1	0
 halyeey	halyeey	0	0	1	0
 gureey	gureey	0	0	1	0
 wardhiigleey	wardhiigleey	0	0	1	0
@@ -9479,9 +9397,9 @@ nebal	nebal	0	0	1	0
 laheed	laheed	0	0	1	0
 dheheen	said:	0	0	1	0
 dheheen	said	0	0	1	0
-cadceedu	--getting its rays	0	0	1	0
-cadceedu	rays	0	0	1	0
 cadceedu	getting its rays	0	0	1	0
+cadceedu	rays	0	0	1	0
+cadceedu	--getting its rays	0	0	1	0
 wadaadka	elder	0	0	1	0
 wadaadka	the man of religion	0	0	1	0
 wadaadka	wadaadka	0	0	1	0
@@ -9492,13 +9410,12 @@ reebaana	reebaana	0	0	1	0
 malaysia	malaysia	0	0	1	0
 meters	meters	0	0	1	0
 hadhay	besides	0	0	1	0
-casuumay	dignitaries	0	0	1	0
 casuumay	invited	0	0	1	0
+casuumay	dignitaries	0	0	1	0
 joogeen	while they were there	0	0	1	0
 xarfahan	which defined	0	0	1	0
 xarfahan	xarfahan	0	0	1	0
 tutorial	tutorial	0	0	1	0
-libaax	lion	0	0	1	0
 libaax	a lion	0	0	1	0
 dadkeeda	people	0	0	1	0
 mahadnaq	thank	0	0	1	0
@@ -9537,7 +9454,6 @@ qorshe	plan	0	0	1	0
 aha	it is not	0	0	1	0
 jaciir	embarrassment	0	0	1	0
 على	what	0	0	1	0
-على	it is arabic word not somali	0	0	1	0
 civil	civil	0	0	1	0
 qabsashada	to take control of	0	0	1	0
 ahi	a	0	0	1	0
@@ -9566,7 +9482,7 @@ hamdan	hamdan	0	0	1	0
 cida	the cry	0	0	1	0
 midowgaasi	midowgaasi	0	0	1	0
 xajka	the pilgrimage to mecca	0	0	1	0
-ayaanu	we	0	0	1	0
+salaancarrabey	salaancarrabey	0	0	1	0
 wireless	wireless	0	0	1	0
 gaashaan	shield	0	0	1	0
 ayaana	and	0	0	1	0
@@ -9633,7 +9549,6 @@ furaha	key	0	0	1	0
 nimca	nimca	0	0	1	0
 adduunkan	this world	0	0	1	0
 adduunkan	issues	0	0	1	0
-bariire	barire	0	0	1	0
 bariire	bariie	0	0	1	0
 bariire	greeting	0	0	1	0
 xukunto	-ordered	0	0	1	0
@@ -9676,7 +9591,7 @@ utaaganaha	utaaganaha	0	0	1	0
 haysata	problem	0	0	1	0
 sirdoonka	intelligence	0	0	1	0
 kolkuu	when he	0	0	1	0
-kaaraan	karan district	0	0	1	0
+bakr	bakr	0	0	1	0
 baki	zayla b	0	0	1	0
 kaleba	other	0	0	1	0
 suugaanyahankii	suugaanyahankii	0	0	1	0
@@ -9766,7 +9681,7 @@ dhirtu	plants	0	0	1	0
 nabadoon	chief	0	0	1	0
 ceeb	shame	0	0	1	0
 boga	page	0	0	1	0
-jidka	the way	0	0	1	0
+ayey	they	0	0	1	0
 ceel	well	0	0	1	0
 khaliif	khalif	0	0	1	0
 madigaan	madigan	0	0	1	0
@@ -9791,19 +9706,18 @@ timide	timide	0	0	1	0
 yaryahay	less	0	0	1	0
 aqal	house	0	0	1	0
 ص	what	0	0	1	0
-qaali	expensiveness	0	0	1	0
 qaali	expensive	0	0	1	0
 abaal	reward	0	0	1	0
 baasifik	baasifik	0	0	1	0
 dadlka	dadlka	0	0	1	0
 qaadye	qaadye	0	0	1	0
-gargaaray	he helped	0	0	1	0
+xaradh	sculpture	0	0	1	0
 islamic	islamic	0	0	1	0
 dhaweeyay	welcomed	0	0	1	0
 dhibta	trouble	0	0	1	0
 dhibta	construct	0	0	1	0
 dhibta	the trouble	0	0	1	0
-goobtan	inaccessible	0	0	1	0
+guddoomiyaha	the chairman of the	0	0	1	0
 xukumo	judge	0	0	1	0
 xukumi	judge	0	0	1	0
 kbps	kbps	0	0	1	0
@@ -9882,7 +9796,7 @@ danbe	later	0	0	1	0
 joogno	at	0	0	1	0
 anagu	we	0	0	1	0
 deganaa	territory	0	0	1	0
-qaamuuskan	qaamuuskan	0	0	1	0
+wal	each	0	0	1	0
 wanaaga	good	0	0	1	0
 horyimid	rejected	0	0	1	0
 xarafka	the letter	0	0	1	0
@@ -9910,7 +9824,8 @@ bartan	center	0	0	1	0
 bartan	centre	0	0	1	0
 lacago	money	0	0	1	0
 badbaadid	helps protect	0	0	1	0
-waa	it is	0	0	1	0
+dagaan	environment	0	0	1	0
+dagaan	settlement	0	0	1	0
 goan	which has now increased	0	0	1	0
 idaacada	radio	0	0	1	0
 calasow	calasow	0	0	1	0
@@ -9966,7 +9881,7 @@ midnimadii	unity	0	0	1	0
 faarisiyiinta	faarisiyiinta	0	0	1	0
 odhane	odhane	0	0	1	0
 gaarsiinta	communications	0	0	1	0
-muusig	music	0	0	1	0
+burburintii	in	0	0	1	0
 كتاباً	hjh	0	0	1	0
 waalid	parent	0	0	1	1
 sababtoo	because	0	0	1	0
@@ -9978,7 +9893,8 @@ hoggaanka	the leadership	0	0	1	0
 masaafo	distance	0	0	1	0
 howlwadaag	howlwadaag	0	0	1	0
 howlwadaag	demonstration	0	0	1	0
-ansaxa	the validity	0	0	1	0
+dareemi	feel	0	0	1	0
+dareemi	felt	0	0	1	0
 sannadkaasna	every year	0	0	1	0
 malta	malta	0	0	1	0
 faransiis	french	0	0	1	0
@@ -9994,7 +9910,6 @@ salaaddu	most surely	0	0	1	0
 salaaddu	prayer	0	0	1	0
 sinaan	equal access	0	0	1	0
 abokor	abokor	0	0	1	0
-laaaneede	landmine	0	0	1	0
 laaaneede	laaaneede	0	0	1	0
 faano	boast	0	0	1	0
 inka	the cheater	0	0	1	0
@@ -10022,11 +9937,8 @@ soomaaliyakiinya	somalia kenya	0	0	1	0
 soomaaliyakiinya	somaliakenya	0	0	1	0
 dhigay	he made	0	0	1	0
 asaxaabtu	asaxaabtu	0	0	1	0
-degno	's get off	0	0	1	0
-degno	get off	0	0	1	0
 ciidan	forces	0	0	1	0
 kacaan	revolution	0	0	1	0
-dhaho	it is said to them:	0	0	1	0
 dhaho	it is said to them	0	0	1	0
 dirsaday	he sent away for	0	0	1	0
 diiro	peel	0	0	1	0
@@ -10082,7 +9994,7 @@ dadkaba	people as an example	0	0	1	0
 xusnay	these categories	0	0	1	0
 qawmiyada	qawmiyada	0	0	1	0
 dhigaya	makes	0	0	1	0
-dhigaye	they put it	0	0	1	0
+salaanka	salaanka	0	0	1	0
 shaqeysata	working	0	0	1	0
 kalinimada	; so	0	0	1	0
 muxamedna	muxamedna	0	0	1	0
@@ -10386,7 +10298,7 @@ ururada	the civil	0	0	1	0
 cilmiyeedka	cilmiyeedka	0	0	1	0
 gololeey	gololeey	0	0	1	0
 iyadii	she	0	0	1	0
-danbeeyo	mrs.	0	0	1	0
+arinta	issue	0	0	1	0
 waranka	the lance	0	0	1	0
 dhebi	trees	0	0	1	0
 qabtaa	go	0	0	1	0
@@ -10415,7 +10327,6 @@ sobixitankiireercusmaan	sobixitankiireercusmaan	0	0	1	0
 soommani	soommani	0	0	1	0
 cadan	aden	0	0	1	0
 toosoo	oh somali wake up	0	0	1	0
-toosoo	wake up	0	0	1	0
 iskusoo	iskusoo	0	0	1	0
 direy	sent to	0	0	1	0
 direy	sent	0	0	1	0
@@ -10448,7 +10359,6 @@ kaliya	only	0	0	1	0
 ahayn	not	0	0	1	0
 christian	christain	0	0	1	0
 gabar	girl	0	0	1	1
-gabar	daugther	0	0	1	0
 doodday	doodday	0	0	1	0
 ahayd	it was	0	0	1	0
 xaggeeda	it	0	0	1	0
@@ -10488,7 +10398,7 @@ sixadeeda	sixadeeda	0	0	1	0
 haweenaydii	wife	0	0	1	0
 dhaalib	-dalib	0	0	1	0
 dhaalib	dalib	0	0	1	0
-avv	advocate	0	0	1	0
+masuuliyad	responsibility	0	0	1	0
 nsoethiopia	nsoethiopia	0	0	1	0
 israel	supports israel	0	0	1	0
 glay	glay	0	0	1	0
@@ -10600,7 +10510,7 @@ masalle	prayer mat	0	0	1	0
 noqoshadii	noqoshadii	0	0	1	0
 generation	generation	0	0	1	0
 generation	generation is growing up	0	0	1	0
-qaadeen	have attacked	0	0	1	0
+badweynta	the ocean	0	0	1	0
 used	used	0	0	1	0
 used	kale	0	0	1	0
 buugga	the book	0	0	1	0
@@ -10665,7 +10575,7 @@ xulafaddii	xulafaddi	0	0	1	0
 xulafaddii	xulafaddii	0	0	1	0
 waasuge	wasuge.	0	0	1	0
 waasuge	waasuge	0	0	1	0
-bakr	bakr	0	0	1	0
+kaaraan	karan district	0	0	1	0
 gaarkiisa	gaarkiisa	0	0	1	0
 iska	just	0	0	1	0
 arrintii	the	0	0	1	0
@@ -10700,7 +10610,7 @@ wasiirkii	minister	0	0	1	0
 fuuli	put on top of	0	0	1	0
 curatay	established	0	0	1	0
 kabaxsanida	kabaxsanida	0	0	1	0
-turkigawaxa	turkigawaxa	0	0	1	0
+dagaalada	the fighting	0	0	1	0
 gala	enter	0	0	1	0
 amase	of	0	0	1	0
 amase	or	0	0	1	0
@@ -10712,7 +10622,8 @@ galo	enter	0	0	1	0
 darayaaye	darayaaye	0	0	1	0
 bashiir	bashir	0	0	1	0
 xadhig	rope	0	0	1	0
-roobab	heavy rains	0	0	1	0
+crisaaq	crisaaq	0	0	1	0
+crisaaq	c/risaaq	0	0	1	0
 siman	equal	0	0	1	0
 degaan	the slope	0	0	1	0
 inaadan	not	0	0	1	0
@@ -10749,7 +10660,7 @@ iyana	they also	0	0	1	0
 arabsiyo	arabsiyo where	0	0	1	0
 soomaal	somalia	0	0	1	0
 weynaadeen	they	0	0	1	0
-dain	dain	0	0	1	0
+harag	leather	0	0	1	0
 maareeye	administrator	0	0	1	0
 howlo	work	0	0	1	0
 heestii	song.	0	0	1	0
@@ -10799,7 +10710,6 @@ are	ay	0	0	1	0
 diiraabay	diiraabay	0	0	1	0
 bari	east	0	0	1	0
 ari	sheep and goats	0	0	1	0
-ari	goat	0	0	1	0
 laas	well	0	0	1	0
 baro	learn	0	0	1	0
 huseen	hussein	0	0	1	0
@@ -10808,7 +10718,6 @@ danbaysay	income	0	0	1	0
 leedihiyo	leedihiyo	0	0	1	0
 nadar	whatever alms you give or whatever vow you vow	0	0	1	0
 muslin	muslims	0	0	1	0
-muslin	become a muslim	0	0	1	0
 qaadashada	taking	0	0	1	0
 femmes	femmes	0	0	1	0
 iyadoo	while	0	0	1	0
@@ -10828,7 +10737,6 @@ c	c	0	0	1	0
 farxeen	were delighted	0	0	1	0
 agrario	agrario	0	0	1	0
 aay	hey you	0	0	1	0
-xafiiska	the office	0	0	1	0
 ingriiska	ingriiska	0	0	1	0
 ingriiska	england	0	0	1	0
 nahay	we are	0	0	1	0
@@ -10854,7 +10762,6 @@ duwanyahay	most surely various	0	0	1	0
 duwanyahay	different	0	0	1	0
 isticmaasho	use	0	0	1	0
 friesland	friesland	0	0	1	0
-political	politica	0	0	1	0
 political	political	0	0	1	0
 raahibka	raahibka	0	0	1	0
 mandeela	mandeela	0	0	1	0
@@ -10874,9 +10781,7 @@ sanadkii	year	0	0	1	0
 mideeyay	malaysias	0	0	1	0
 faqiiq	faqiiq	0	0	1	0
 faqiiq	expert	0	0	1	0
-صلى	i dont know	0	0	1	0
 sannadkaas	year	0	0	1	0
-asxaabtiisa	consult his followers	0	0	1	0
 asxaabtiisa	consult his followers.	0	0	1	0
 ahaa	was	0	0	1	0
 ahan	it is not	0	0	1	0
@@ -10909,13 +10814,13 @@ awoodaha	awoodaha	0	0	1	0
 awoodaha	powers	0	0	1	0
 ilkaha	dental	0	0	1	0
 noolaashaha	no security or functioning infrastructure	0	0	1	0
-curiya	potassium	0	0	1	0
+dadkani	these people	0	0	1	0
 lower	lower	0	0	1	0
 xuquuqdii	rights	0	0	1	0
 qubrus	hunting for pearls	0	0	1	0
 foolmaroodi	elephant's trunk	0	0	1	0
 samayn	do	0	0	1	0
-kujiray	kujiray	0	0	1	0
+kadhacay	second phase was for	0	0	1	0
 mooska	banana	0	0	1	0
 diirsado	will never be relieved	0	0	1	0
 qeybood	parts	0	0	1	0
@@ -10953,6 +10858,7 @@ wadaniyeed	wadaniyeed	0	0	1	0
 raqiis	cheap	0	0	1	0
 xaasuubkiisa	xaasuubkiisa	0	0	1	0
 caws	grass	0	0	1	0
+fiidshe	fiidshe	0	0	1	0
 nairobi	nairobi	0	0	1	0
 saldanadda	kingdom	0	0	1	0
 saldanadda	sultanate	0	0	1	0
@@ -10965,7 +10871,6 @@ haysteen	riot	0	0	1	0
 siyaasadeed	political	0	0	1	0
 asaga	he	0	0	1	0
 absame	tribe	0	0	1	0
-absame	absame	0	0	1	0
 midoobaywaxa	the united nations	0	0	1	0
 midoobaywaxa	midoobaywaxa	0	0	1	0
 guryo	houses	0	0	1	0
@@ -11086,9 +10991,8 @@ adaan	you	0	0	1	0
 dawladood	improves	0	0	1	0
 dhaxeysay	between	0	0	1	0
 kulahayd	kulahayd	0	0	1	0
-celin	return	0	0	1	0
-celin	back	0	0	1	0
-baqaa	to	0	0	1	0
+seegaaya	seegaaya	0	0	1	0
+dhameestirnociidanka	dhameestirnociidanka	0	0	1	0
 dawgalaye	dawgalaye	0	0	1	0
 guulside	guulside	0	0	1	0
 luqeedaka	luqeedaka	0	0	1	0
@@ -11172,12 +11076,13 @@ madawi	madawi	0	0	1	0
 jireenwaxee	jireenwaxee	0	0	1	0
 maanta	today	0	0	1	0
 qaadtay	beev rubbed	0	0	1	0
-qaadtay	been rubbed	0	0	1	0
 qaadtay	take part	0	0	1	0
+qaadtay	been rubbed	0	0	1	0
 somaliwayn	somaliwayn	0	0	1	0
 maqcad	what is	0	0	1	0
 maqcad	maqcad	0	0	1	0
 baayasiid	baayasiid	0	0	1	0
+katalin	katalin	0	0	1	0
 ismaciil	ismail	0	0	1	0
 ismaciil	ismael "name"	0	0	1	0
 borama	awdal borama	0	0	1	0
@@ -11308,10 +11213,10 @@ maamusho	manage	0	0	1	0
 maamusho	under the control of	0	0	1	0
 dhiirri	encourage	0	0	1	0
 dhiirri	courage	0	0	1	0
-jebiyey	he broke	0	0	1	0
+kumeelgaarka	whether	0	0	1	0
 maqnaa	he was absent	0	0	1	0
 rayaale	rayaale	0	0	1	0
-kitaabka	book	0	0	1	0
+gargaaray	he helped	0	0	1	0
 kaaha	the first glimmer of light	0	0	1	0
 kaaha	kaha "women's name"	0	0	1	0
 g	g	0	0	1	0
@@ -11327,7 +11232,7 @@ dumin	tear	0	0	1	0
 woxoo	woods	0	0	1	0
 woxoo	woxoo	0	0	1	0
 wasarada	wasarada	0	0	1	0
-booliska	the police	0	0	1	0
+xafiiska	the office	0	0	1	0
 manger	manger	0	0	1	0
 mushaar	pay	0	0	1	0
 xumi	bad	0	0	1	0
@@ -11347,12 +11252,11 @@ siad	.	0	0	1	0
 barbaraawi	barbaraawi	0	0	1	0
 dhulbeereedka	of agricultural lands	0	0	1	0
 sanadahan	sanadahan	0	0	1	0
-guddoomiyaha	the chairman of the	0	0	1	0
 beeyay	beeyay	0	0	1	0
 dhaqaalohiisa	dhaqaalohiisa	0	0	1	0
 shardiga	the condition	0	0	1	0
-dilaan	killer	0	0	1	0
-dilaan	kill	0	0	1	0
+xadiiskan	xadiiskan	0	0	1	0
+xadiiskan	xadiiskan xadiiskan xadiiskan	0	0	1	0
 buurta	the mountain	0	0	1	0
 markale	again	0	0	1	0
 gobolkan	this region	0	0	1	0
@@ -11443,7 +11347,6 @@ janaayo	january	0	0	1	0
 laasqorey	laasqorey	0	0	1	0
 maaliyada	is funded through ma	0	0	1	0
 baahintaasi	baahintaasi	0	0	1	0
-laba	two	0	0	1	0
 barkaan	barkaan	0	0	1	0
 baraako	barako	0	0	1	0
 gaareysa	10.000	0	0	1	0
@@ -11455,7 +11358,6 @@ xaruunta	center	0	0	1	0
 tawraad	verifying that which is before me	0	0	1	0
 abuuray	plant	0	0	1	0
 abuuray	he created	0	0	1	0
-abuuray	the created	0	0	1	0
 qiritaanku	qiritaanku	0	0	1	0
 alislaax	islamic fighting faction/group	0	0	1	0
 alislaax	al-islaax	0	0	1	0
@@ -11558,7 +11460,7 @@ jaamacadaha	universities	0	0	1	0
 goaansaday	decided	0	0	1	0
 goaansaday	design	0	0	1	0
 qurbajoogga	qurbajoogga	0	0	1	0
-masuuliyad	responsibility	0	0	1	0
+avv	advocate	0	0	1	0
 kalasaaraha	kalasaaraha	0	0	1	0
 dhaqaaq	move	0	0	1	0
 dhaqaaq	go away	0	0	1	0
@@ -11606,11 +11508,11 @@ jareen	sliced	0	0	1	0
 jareen	shiver	0	0	1	0
 gacanta	the hand	0	0	1	0
 shayga	the item	0	0	1	0
-nov	nov	0	0	1	0
+qadarkaas	qadarkaas  qadarkaas	0	0	1	0
+qadarkaas	qadarkaas	0	0	1	0
 taad	your word	0	0	1	0
 jaro	cut	0	0	1	0
-casmara	casmara	0	0	1	0
-casmara	asmara "is the capital city  of eritrea"	0	0	1	0
+ilaalin	protection	0	0	1	0
 taan	you do not	0	0	1	0
 dhallinyaro	dhallinyyaro	0	0	1	0
 dhallinyaro	young	0	0	1	0
@@ -11677,7 +11579,8 @@ tilmaamaan	describe	0	0	1	0
 hibada	prophecies spoken	0	0	1	0
 المكتبة	i dont know	0	0	1	0
 cosoble	osoble	0	0	1	0
-katalin	katalin	0	0	1	0
+kacay	abbas	0	0	1	0
+kacay	he got up	0	0	1	0
 ogyahay	he knows	0	0	1	0
 macneyn	macneyn	0	0	1	0
 oohinta	the cry	0	0	1	0
@@ -11750,8 +11653,8 @@ subax	morning	0	0	1	0
 sharafta	the dignity	0	0	1	0
 cinwaanka	the address	0	0	1	0
 lixaadlehna	lixaadlehna	0	0	1	0
-subag	butter	0	0	1	0
 subag	colestrol	0	0	1	0
+subag	butter	0	0	1	0
 subac	koran	0	0	1	0
 haajiray	migrated	0	0	1	0
 haajiray	he emigrated	0	0	1	0
@@ -11761,7 +11664,8 @@ iskama	but	0	0	1	0
 jiilasha	jiilasha	0	0	1	0
 shariifka	the respectable person	0	0	1	0
 axad	sunday	0	0	1	0
-ilaalin	protection	0	0	1	0
+casmara	casmara	0	0	1	0
+casmara	asmara "is the capital city  of eritrea"	0	0	1	0
 nidaam	system	0	0	1	0
 other	other	0	0	1	0
 boon	boon	0	0	1	0

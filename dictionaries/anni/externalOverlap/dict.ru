@@ -91,9 +91,7 @@
 чили	chili	0	0	1	0
 чили	chile	0	0	1	0
 южного	southern	0	0	1	0
-южного	south	0	0	1	0
 избран	elected	0	0	1	0
-понимание	interpretation	0	0	1	0
 понимание	understanding	0	0	1	0
 клинических	clinical	0	0	1	0
 правилам	rules	0	0	1	0
@@ -161,8 +159,6 @@
 берлине	berlin	0	0	1	0
 войны	wars	0	0	1	0
 войны	war	0	0	1	0
-судьба		0	0	1	0
-судьба	�&#65533; не знаю	0	0	1	0
 судьба	fate	0	0	1	0
 берлина	berlin	0	0	1	0
 павла	paul	0	0	1	0
@@ -175,7 +171,6 @@
 национального	national	0	0	1	0
 мозг	brain	0	0	1	0
 шутку	joke	0	0	1	0
-шутку	as a joke	0	0	1	0
 студентов	students	0	0	1	0
 лосанджелес	los angeles	0	0	1	0
 киев	kiev	0	0	1	0
@@ -187,7 +182,6 @@
 назначается	is assigned	0	0	1	0
 назначается	appointed	0	0	1	0
 разгром	defeat	0	0	1	0
-классицизма	classical	0	0	1	0
 классицизма	classicism	0	0	1	0
 венеции	venice	0	0	1	0
 территориальные	territorial	0	0	1	0
@@ -258,7 +252,6 @@
 изпод	from	0	0	1	0
 механика	mechanics	0	0	1	0
 механика	mechanic	0	0	1	0
-запрещено	forbidden	0	0	1	0
 запрещено	prohibited	0	0	1	0
 останки	remains	0	0	1	0
 останки	copses	0	0	1	0
@@ -279,7 +272,6 @@
 прорыв	breathrough	0	0	1	0
 египта	egypt	0	0	1	0
 городских	urban	0	0	1	0
-интересах	interests	0	0	1	0
 интересах	for the benefit	0	0	1	0
 рейтинге	rating	0	0	1	0
 устанавливается	established	0	0	1	0
@@ -348,8 +340,8 @@
 достоевский	dostoyevsky	0	0	1	0
 достоевский	dostoevsky	0	0	1	0
 переходит	transfers	0	0	1	0
-переходит	passes	0	0	1	0
 переходит	turns	0	0	1	0
+переходит	passes	0	0	1	0
 мужской	male	0	0	1	0
 популярность	popularity	0	0	1	0
 распространении	distribution	0	0	1	0
@@ -424,7 +416,6 @@
 третьего	third	0	0	1	0
 направлению	direction	0	0	1	0
 направления	directions	0	0	1	0
-направления	trends	0	0	1	0
 учеников	students	0	0	1	0
 учеников	pupils	0	0	1	0
 построено	built	0	0	1	0
@@ -466,7 +457,6 @@
 развивается	is developed	0	0	1	0
 развивается	developes	0	0	1	0
 движении	movement	0	0	1	0
-детали	part	0	0	1	0
 детали	details	0	0	1	0
 ночью	night	0	0	1	0
 ночью	at night	0	0	1	0
@@ -485,8 +475,6 @@
 содержит	contains	0	0	1	0
 чей	whose	0	0	1	0
 чей	which	0	0	1	0
-обвинения		0	0	1	0
-обвинения	�&#65533; не знаю	0	0	1	0
 обвинения	accusations	0	0	1	0
 чем	than	0	0	1	0
 никогда	never	0	0	1	0
@@ -542,8 +530,6 @@
 пальцев	fingers	0	0	1	0
 семье	family	0	0	1	0
 толщина	thickness	0	0	1	0
-допускает	admits	0	0	1	0
-допускает	accept	0	0	1	0
 хаус	house	0	0	1	0
 джона	john	0	0	1	0
 отряда	squad	0	0	1	0
@@ -597,7 +583,6 @@
 время	time	0	0	1	0
 знака	mark	0	0	1	0
 знаки	signs	0	0	1	0
-знаки	sign	0	0	1	0
 сторонами	sides	0	0	1	0
 обращение	announce	0	0	1	0
 обращение	appeal	0	0	1	0
@@ -689,8 +674,8 @@
 происхождение	origin	0	0	1	0
 документальный	documentary	0	0	1	0
 документальный	documental	0	0	1	0
-мышления	thinking	0	0	1	0
 мышления	thought	0	0	1	0
+мышления	thinking	0	0	1	0
 происхождении	origin	0	0	1	0
 оказался	turned out	0	0	1	0
 оказался	was	0	0	1	0
@@ -700,7 +685,6 @@
 переменных	variables	0	0	1	0
 аутизма	autism	0	0	1	0
 написание	spelling	0	0	1	0
-написание	way of writing	0	0	1	0
 написание	writing	0	0	1	0
 детям	children	0	0	1	0
 штаты	states	0	0	1	0
@@ -770,7 +754,6 @@
 эвфемизм	euphemism	0	0	1	0
 эвфемизм	eupheism	0	0	1	0
 пытались	attempted	0	0	1	0
-пытались	trying	0	0	1	0
 пытались	tried	0	0	1	0
 собственных	proper	0	0	1	0
 собственных	own	0	0	1	0
@@ -817,7 +800,7 @@
 стремясь	seeking after	0	0	1	0
 медицинского	medicinal	0	0	1	0
 медицинского	medical	0	0	1	0
-учёных	scientists	0	0	1	0
+института	institute	0	0	1	0
 таблице	table	0	0	1	0
 таблице	list	0	0	1	0
 юг	south	0	0	1	0
@@ -872,7 +855,6 @@
 искусственных	artificial	0	0	1	0
 живые	living	0	0	1	0
 живые	live	0	0	1	0
-живые	alive	0	0	1	0
 аутсорсинг	outsourcing	0	0	1	0
 узбекистан	uzbekistan	0	0	1	0
 отошли	passed	0	0	1	0
@@ -894,7 +876,6 @@
 навыки	skills	0	0	1	0
 навыки	skill	0	0	1	0
 летие	anniversary	0	0	1	0
-летие	years	0	0	1	0
 код	code	0	0	1	0
 англией	england	0	0	1	0
 воспоминаний	memories	0	0	1	0
@@ -922,7 +903,6 @@
 подвергается	subjected	0	0	1	0
 подвергается	exposed	0	0	1	0
 слоёв	layers	0	0	1	0
-слоёв	layer	0	0	1	0
 рубеже	boundary	0	0	1	0
 рубеже	border	0	0	1	0
 токио	tokyo	0	0	1	0
@@ -936,7 +916,6 @@
 владение	ownership	0	0	1	0
 наркотика	drug	0	0	1	0
 наркотика	narcotics	0	0	1	0
-занимали	occupied	0	0	1	0
 занимали	kept	0	0	1	0
 занимали	took	0	0	1	0
 воинов	warriors	0	0	1	0
@@ -974,8 +953,6 @@
 образования	education	0	0	1	0
 евангелие	gospel	0	0	1	0
 хана	khan	0	0	1	0
-научная	sciense	0	0	1	0
-научная	scientific	0	0	1	0
 научная	research	0	0	1	0
 разнообразные	variety of	0	0	1	0
 разнообразные	various	0	0	1	0
@@ -987,7 +964,6 @@
 разнообразных	various	0	0	1	0
 образовании	education	0	0	1	0
 образований	education	0	0	1	0
-образований	formations	0	0	1	0
 океане	ocean	0	0	1	0
 доска	board	0	0	1	0
 сыновей	sons	0	0	1	0
@@ -998,18 +974,18 @@
 уефа	uefa	0	0	1	0
 войну	war	0	0	1	0
 лсд	lsd	0	0	1	0
-лсд	lcd	0	0	1	0
 свободы	freedom	0	0	1	0
 считался	considered	0	0	1	0
 содержатся	contained	0	0	1	0
-содержатся	contain	0	0	1	0
 имя	name	0	0	1	0
 язык	language	0	0	1	0
-интерес	interest	0	0	1	0
+преступность	criminality	0	0	1	0
+преступность	crime	0	0	1	0
 положительно	positive	0	0	1	0
 положительно	positively	0	0	1	0
 считается	considered	0	0	1	0
-современности	modernity	0	0	1	0
+московской	moscow	0	0	1	0
+московской	moscow's	0	0	1	0
 активно	active	0	0	1	0
 активно	actively	0	0	1	0
 используемый	used	0	0	1	0
@@ -1085,17 +1061,13 @@
 используемых	used	0	0	1	0
 председателем	president	0	0	1	0
 председателем	chairperson	0	0	1	0
-председателем	chairman	0	0	1	0
 судить	judge	0	0	1	0
 судить	to judge	0	0	1	0
 членом	member	0	0	1	0
-крупнейшая	the largest	0	0	1	0
 крупнейшая	largest	0	0	1	0
 получивший	received	0	0	1	0
 собственность	property	0	0	1	0
-собственность	privacy	0	0	1	0
 правах	rights	0	0	1	0
-имея	with	0	0	1	0
 имея	having	0	0	1	0
 имея	have	0	0	1	0
 молдавии	modavia	0	0	1	0
@@ -1113,7 +1085,6 @@
 отцом	father	0	0	1	0
 биографии	biography	0	0	1	0
 ввести	introduce	0	0	1	0
-ввести	enter	0	0	1	0
 отцов	fathers	0	0	1	0
 единственное	single	0	0	1	0
 единственное	only	0	0	1	0
@@ -1130,14 +1101,12 @@
 какимлибо	which either	0	0	1	0
 юпитера	jupiter	0	0	1	0
 суть	essence	0	0	1	0
-суть	main point	0	0	1	0
 деятельностью	operation	0	0	1	0
 деятельностью	activity	0	0	1	0
 хиноны	quinone	1	1	0	0
 хиноны	quinones	1	1	0	0
 хиноны	result	1	0	1	0
 хиноны	xinons	1	0	1	0
-результатам	the results of	0	0	1	0
 результатам	results	0	0	1	0
 начиная	beginning	0	0	1	0
 начиная	from	0	0	1	0
@@ -1182,8 +1151,8 @@
 герба	coat of arms	0	0	1	0
 герба	arms	0	0	1	0
 спортсмены	athletes	0	0	1	0
-гербе	coat of arms	0	0	1	0
 гербе	arms	0	0	1	0
+гербе	coat of arms	0	0	1	0
 кипарис	cupressus	1	1	0	0
 кипарис	scientific and research	1	0	1	0
 кипарис	scientific	1	0	1	0
@@ -1209,9 +1178,9 @@
 могу	able	0	0	1	0
 могу	can	0	0	1	0
 исследователи	researchers	0	0	1	0
+наравне	equally	0	0	1	0
 наравне	on a level	0	0	1	0
 наравне	as well as	0	0	1	0
-наравне	equally	0	0	1	0
 начало	begining	0	0	1	0
 начало	beginning	0	0	1	0
 продвижение	advancement	0	0	1	0
@@ -1219,15 +1188,12 @@
 державы	country	0	0	1	0
 державы	state	0	0	1	0
 державы	power	0	0	1	0
-длительного	long-term	0	0	1	0
-длительного	lengthy	0	0	1	0
-длительного	prolonged	0	0	1	0
+врага	enemy	0	0	1	0
 сокращение	reduction	0	0	1	0
 исследованиям	researches	0	0	1	0
 исследованиям	study	0	0	1	0
 исследованиям	research	0	0	1	0
 использоваться	to use	0	0	1	0
-использоваться	used by	0	0	1	0
 использоваться	used	0	0	1	0
 чемпионатов	championships	0	0	1	0
 иммунной	immune	0	0	1	0
@@ -1253,12 +1219,10 @@
 ньюйорка	new york	0	0	1	0
 ньюйорка	of new york	0	0	1	0
 фильм	film	0	0	1	0
-марихуаны	marihuana	0	0	1	0
 марихуаны	marijuana	0	0	1	0
 исследованиях	researches	0	0	1	0
 исследованиях	study	0	0	1	0
 исследованиях	invstigation	0	0	1	0
-полагают	say	0	0	1	0
 полагают	believe	0	0	1	0
 продвижения	progress	0	0	1	0
 продвижения	forwarding	0	0	1	0
@@ -1281,10 +1245,8 @@
 походов	campaigns	0	0	1	0
 походов	expeditions	0	0	1	0
 мотивации	motivation	0	0	1	0
-медленно	slow	0	0	1	0
 медленно	slowly	0	0	1	0
 точного	precise	0	0	1	0
-точного	definite	0	0	1	0
 суды	courts	0	0	1	0
 рокмузыки	rock music	0	0	1	0
 христианских	christian	0	0	1	0
@@ -1325,21 +1287,16 @@
 свастика	swastika	0	0	1	0
 определения	definitions	0	0	1	0
 определения	determine the	0	0	1	0
-оставалась	stay by	0	0	1	0
 оставалась	remained	0	0	1	0
 свастики	swastika	0	0	1	0
 свастики	svastica	0	0	1	0
 усиление	enhancement	0	0	1	0
-усиление	gain	0	0	1	0
 согласно	according to	0	0	1	0
-суда	court	0	0	1	0
 суда	courts	0	0	1	0
 альтернативного	alternative	0	0	1	0
 альтернативного	alternate	0	0	1	0
 часов	hours	0	0	1	0
-часов	watches	0	0	1	0
 возможности	capabilities	0	0	1	0
-возможности	ability	0	0	1	0
 возможности	possibility	0	0	1	0
 суде	court	0	0	1	0
 эдуард	edward	0	0	1	0
@@ -1458,7 +1415,6 @@
 ото	gr	0	0	1	0
 подростков	adolescents	0	0	1	0
 подростков	teenagers	0	0	1	0
-земли	lands	0	0	1	0
 земли	land	0	0	1	0
 танк	tank	0	0	1	0
 дата	date	0	0	1	0
@@ -1480,7 +1436,6 @@
 преобразования	transformation	0	0	1	0
 лучшая	the best	0	0	1	0
 лучшая	best	0	0	1	0
-предотвратить	prevent	0	0	1	0
 предотвратить	avert	0	0	1	0
 восприятия	perception	0	0	1	0
 продюсеры	producers	0	0	1	0
@@ -1501,7 +1456,6 @@
 оказать	render	0	0	1	0
 масонство	freemasonry	0	0	1	0
 масонство	masonry	0	0	1	0
-назначение	appointment	0	0	1	0
 назначение	purpose	0	0	1	0
 назначение	designation	0	0	1	0
 цензуры	censorship	0	0	1	0
@@ -1537,7 +1491,6 @@
 преступления	crime	0	0	1	0
 изобретения	invention	0	0	1	0
 простых	simple	0	0	1	0
-вагоны	vagons	0	0	1	0
 вагоны	waggonage	0	0	1	0
 независимость	independence	0	0	1	0
 екатеринбурге	yekaterinburg	0	0	1	0
@@ -1785,8 +1738,8 @@
 одному	one	0	0	1	0
 альтернативных	alternative	0	0	1	0
 будущем	future	0	0	1	0
-сделано	made	0	0	1	0
-сделано	done	0	0	1	0
+видел	seen	0	0	1	0
+видел	saw	0	0	1	0
 любовь	love	0	0	1	0
 текст	text	0	0	1	0
 версии	version	0	0	1	0
@@ -1859,13 +1812,11 @@
 творчества	art	0	0	1	0
 творчества	crativity	0	0	1	0
 творчество	creativity	0	0	1	0
-творчество	art	0	0	1	0
 творчество	crativity	0	0	1	0
 производство	production	0	0	1	0
 производство	manufacturing	0	0	1	0
 семейства	series	0	0	1	0
 семейства	family	0	0	1	0
-начальных	initial	0	0	1	0
 начальных	primary	0	0	1	0
 пакеты	packages	0	0	1	0
 пакеты	pack	0	0	1	0
@@ -1885,8 +1836,8 @@
 учитель	teacher	0	0	1	0
 реализации	realization	0	0	1	0
 библиотеки	library	0	0	1	0
-сообществ	communities	0	0	1	0
 сообществ	associations	0	0	1	0
+сообществ	communities	0	0	1	0
 хвост	tail	0	0	1	0
 цен	prices	0	0	1	0
 цен	price	0	0	1	0
@@ -1913,7 +1864,6 @@
 роза	rose	0	0	1	0
 сотни	hundreds	0	0	1	0
 компаниями	companies	0	0	1	0
-компаниями	companys	0	0	1	0
 попала	got	0	0	1	0
 попала	got into	0	0	1	0
 попала	found itself	0	0	1	0
@@ -1997,8 +1947,6 @@
 интерфейса	interface	0	0	1	0
 невозможным	impossible	0	0	1	0
 великобританией	great britain	0	0	1	0
-признаков	signs of	0	0	1	0
-признаков	criterions	0	0	1	0
 признаков	signs	0	0	1	0
 лет	years	0	0	1	0
 лес	forest	0	0	1	0
@@ -2009,13 +1957,11 @@
 троцкий	trozkyi	0	0	1	0
 троцкий	trotsky	0	0	1	0
 уровней	levels	0	0	1	0
-вызывает	invites	0	0	1	0
 вызывает	provokes	0	0	1	0
 веков	centuries	0	0	1	0
 веков	century	0	0	1	0
 клубов	clubs	0	0	1	0
 клубом	club	0	0	1	0
-веком	age	0	0	1	0
 веком	century	0	0	1	0
 путешествия	journey	0	0	1	0
 путешествия	trip	0	0	1	0
@@ -2035,15 +1981,12 @@
 хотя	although	0	0	1	0
 хотя	though	0	0	1	0
 путешествие	journey	0	0	1	0
-путешествие	cruise	0	0	1	0
 локальных	local	0	0	1	0
 занимал	engage	0	0	1	0
 занимал	occupied	0	0	1	0
 вечером	evening	0	0	1	0
 успешных	successful	0	0	1	0
 кори	measles	0	0	1	0
-сергеевич	it cant be translated	0	0	1	0
-сергеевич	it is a patronymic name	0	0	1	0
 сергеевич	sergeevich	0	0	1	0
 которому	which	0	0	1	0
 четвёртого	fourth	0	0	1	0
@@ -2060,7 +2003,6 @@
 различные	different	0	0	1	0
 различные	various	0	0	1	0
 следующее	following	0	0	1	0
-следующее	the followin	0	0	1	0
 всемирный	worldwide	0	0	1	0
 всемирный	world	0	0	1	0
 следующей	following	0	0	1	0
@@ -2117,7 +2059,6 @@
 груди	chest	0	0	1	0
 груди	breast	0	0	1	0
 производных	direvative	0	0	1	0
-производных	derivatives	0	0	1	0
 разное	different	0	0	1	0
 народного	popular	0	0	1	0
 народного	people's	0	0	1	0
@@ -2144,7 +2085,6 @@
 петербурге	saint petersburg	0	0	1	0
 петербурге	petersberg	0	0	1	0
 феминизма	feminism	0	0	1	0
-имущества	property	0	0	1	0
 имущества	assets	0	0	1	0
 одна	one	0	0	1	0
 сторонников	supporters	0	0	1	0
@@ -2181,6 +2121,7 @@
 помощью	help	0	0	1	0
 обладать	own	0	0	1	0
 обладать	possess	0	0	1	0
+фауна	fauna	0	0	1	0
 ход	course	0	0	1	0
 ход	move	0	0	1	0
 вцик	central executive committee	0	0	1	0
@@ -2188,7 +2129,6 @@
 холодного	coldest	0	0	1	0
 каждом	every	0	0	1	0
 каждом	each	0	0	1	0
-исполнения	performance	0	0	1	0
 исполнения	execution	0	0	1	0
 каждой	each	0	0	1	0
 эфир	ether	0	0	1	0
@@ -2231,21 +2171,18 @@
 еврейского	jewish	0	0	1	0
 съезда	congress	0	0	1	0
 таджикистана	tajikistan	0	0	1	0
-планируется	plans	0	0	1	0
 планируется	planned	0	0	1	0
-планируется	projected	0	0	1	0
 представители	representatives	0	0	1	0
 представители	representative	0	0	1	0
 известными	known	0	0	1	0
 известными	famous	0	0	1	0
 подавления	suppress	0	0	1	0
 подавления	suppression	0	0	1	0
-рекордов	record	0	0	1	0
 рекордов	records	0	0	1	0
 духовенства	priesthood	0	0	1	0
 духовенства	clergy	0	0	1	0
-тюмени	tiumen	0	0	1	0
 тюмени	tyumen	0	0	1	0
+тюмени	tiumen	0	0	1	0
 соответствующий	acoording	0	0	1	0
 соответствующий	corresponding	0	0	1	0
 тыс	thousand	0	0	1	0
@@ -2253,10 +2190,8 @@
 тыс	th	0	0	1	0
 культурой	culture	0	0	1	0
 потеряла	lost	0	0	1	0
-сеть	web	0	0	1	0
 сеть	network	0	0	1	0
 сложной	complex	0	0	1	0
-сложной	hard	0	0	1	0
 эволюция	evolution	0	0	1	0
 потеряли	lost	0	0	1	0
 заводы	factories	0	0	1	0
@@ -2291,7 +2226,6 @@
 использовании	using	0	0	1	0
 созданная	founded	0	0	1	0
 созданная	creation	0	0	1	0
-созданная	created	0	0	1	0
 статистики	statistics	0	0	1	0
 замок	lock	0	0	1	0
 замок	castle	0	0	1	0
@@ -2306,7 +2240,6 @@
 используют	use	0	0	1	0
 свыше	over	0	0	1	0
 сталину	stalin	0	0	1	0
-способствовал	further	0	0	1	0
 способствовал	assisted	0	0	1	0
 способствовал	contributed	0	0	1	0
 цвет	color	0	0	1	0
@@ -2320,7 +2253,8 @@
 размер	size	0	0	1	0
 ярко	bright	0	0	1	0
 ярко	cepoba	0	0	1	0
-случайных	random	0	0	1	0
+фирма	firm	0	0	1	0
+фирма	entity	0	0	1	0
 замены	replacement	0	0	1	0
 замены	exchange	0	0	1	0
 леонид	leon	0	0	1	0
@@ -2360,7 +2294,6 @@
 состава	composition	0	0	1	0
 состава	structure	0	0	1	0
 составе	part	0	0	1	0
-составе	russian federation consists of	0	0	1	0
 составе	structure	0	0	1	0
 выступлений	performances	0	0	1	0
 выступлений	actions	0	0	1	0
@@ -2386,6 +2319,9 @@
 публике	public	0	0	1	0
 челябинска	chelyabinsk	0	0	1	0
 чувств	feelings	0	0	1	0
+крепостного	serf	0	0	1	0
+крепостного	serfdom-based	0	0	1	0
+крепостного	serfdom	0	0	1	0
 высшего	supreme	0	0	1	0
 высшего	higher	0	0	1	0
 базовых	base	0	0	1	0
@@ -2399,7 +2335,6 @@
 занять	occupy	0	0	1	0
 занять	take up	0	0	1	0
 маршала	marshal	0	0	1	0
-музыкальная	не	0	0	1	0
 музыкальная	musical	0	0	1	0
 заняты	occupied	0	0	1	0
 бывает	take place	0	0	1	0
@@ -2438,7 +2373,6 @@
 экономических	economic	0	0	1	0
 учебных	training	0	0	1	0
 рассмотрения	observance	0	0	1	0
-рассмотрения	review	0	0	1	0
 рассмотрения	examination	0	0	1	0
 участок	section	0	0	1	0
 участок	part	0	0	1	0
@@ -2458,9 +2392,7 @@
 руб	roubles	0	0	1	0
 руд	ore	0	0	1	0
 руд	minerals	0	0	1	0
-продукты	product	0	0	1	0
 продукты	products	0	0	1	0
-продукты	provisions	0	0	1	0
 помнить	remember	0	0	1	0
 всём	all	0	0	1	0
 всём	whole	0	0	1	0
@@ -2624,6 +2556,7 @@
 сделать	do	0	0	1	0
 сделать	to make	0	0	1	0
 душе	soul	0	0	1	0
+улучшение	improvement	0	0	1	0
 внешность	appearance	0	0	1	0
 внешность	look	0	0	1	0
 рек	river	0	0	1	0
@@ -2661,7 +2594,6 @@
 метала	metal	0	0	1	0
 экспертов	experts	0	0	1	0
 находящиеся	situated	0	0	1	0
-находящиеся	are	0	0	1	0
 содержат	have	0	0	1	0
 содержат	contain	0	0	1	0
 опираясь	supported	0	0	1	0
@@ -2671,7 +2603,6 @@
 очереди	queue	0	0	1	0
 очереди	line	0	0	1	0
 очереди	row	0	0	1	0
-спортивные	sport	0	0	1	0
 спортивные	sports	0	0	1	0
 аниме	anime	0	0	1	0
 вызвано	brought	0	0	1	0
@@ -2723,7 +2654,6 @@
 спортивной	sports	0	0	1	0
 смертью	death	0	0	1	0
 северный	northern	0	0	1	0
-константина	konstantin	0	0	1	0
 константина	constantine	0	0	1	0
 северным	north of the	0	0	1	0
 северным	northern	0	0	1	0
@@ -2765,12 +2695,10 @@
 городом	town	0	0	1	0
 городом	city	0	0	1	0
 современников	contemporary	0	0	1	0
-современников	contemporaries	0	0	1	0
 сервиса	service	0	0	1	0
 лермонтов	lermontov	0	0	1	0
 журнал	magazine	0	0	1	0
 моменты	moments	0	0	1	0
-вовсе	does not	0	0	1	0
 вовсе	at all	0	0	1	0
 моменту	moment	0	0	1	0
 добиться	reach	0	0	1	0
@@ -2842,8 +2770,8 @@
 управлять	manage	0	0	1	0
 работа	work	0	0	1	0
 работе	work	0	0	1	0
-видел	seen	0	0	1	0
-видел	saw	0	0	1	0
+сделано	made	0	0	1	0
+сделано	done	0	0	1	0
 видео	video	0	0	1	0
 устройством	organization	0	0	1	0
 устройством	structure	0	0	1	0
@@ -2880,7 +2808,6 @@
 выиграл	won	0	0	1	0
 дипломатические	diplomatic	0	0	1	0
 политбюро	politburo	0	0	1	0
-политбюро	political bureau	0	0	1	0
 стране	country	0	0	1	0
 чтения	reading	0	0	1	0
 важнейшие	most important	0	0	1	0
@@ -2909,7 +2836,7 @@
 чтение	reading	0	0	1	0
 страны	country	0	0	1	0
 страны	countries	0	0	1	0
-симпсонов	simpsons	0	0	1	0
+комбинация	combination	0	0	1	0
 роналду	ronald	0	0	1	0
 роналду	ronaldo	0	0	1	0
 возникло	appeared	0	0	1	0
@@ -2944,12 +2871,10 @@
 обычной	common	0	0	1	0
 обычной	usual	0	0	1	0
 судебная	judicial	0	0	1	0
-фирма	firm	0	0	1	0
-фирма	entity	0	0	1	0
+случайных	random	0	0	1	0
 вызывают	cause	0	0	1	0
 вызывают	causes	0	0	1	0
 вызывают	arise	0	0	1	0
-прямые	streigh	0	0	1	0
 прямые	direct	0	0	1	0
 языков	languages	0	0	1	0
 языком	language	0	0	1	0
@@ -2959,12 +2884,9 @@
 прямым	direct	0	0	1	0
 генрих	henrik	0	0	1	0
 генрих	henry	0	0	1	0
-сознании	in the minds	0	0	1	0
 сознании	consciousness	0	0	1	0
 набор	set	0	0	1	0
 львовский	lvov	0	0	1	0
-львовский	lvosky	0	0	1	0
-львовский	lviv	0	0	1	0
 данном	this	0	0	1	0
 данном	given	0	0	1	0
 политическими	political	0	0	1	0
@@ -2975,7 +2897,6 @@
 командир	commander	0	0	1	0
 некоторый	some	0	0	1	0
 транспортная	transport	0	0	1	0
-прямых	straight	0	0	1	0
 прямых	direct	0	0	1	0
 нижняя	lower	0	0	1	0
 нижняя	low	0	0	1	0
@@ -3133,8 +3054,6 @@
 оценки	evaluation	0	0	1	0
 оценки	marks	0	0	1	0
 областей	regions	0	0	1	0
-областей	province	0	0	1	0
-областей	region	0	0	1	0
 фагоцит	phagocyte	1	1	0	0
 фагоцит	phagocytosis	1	0	1	0
 фагоцит	interpretation	1	0	1	0
@@ -3267,7 +3186,6 @@
 ноябрь	november	0	0	1	0
 соответствие	correspondence	0	0	1	0
 соответствие	correspondance	0	0	1	0
-попытке	attempt to	0	0	1	0
 попытке	attempt	0	0	1	0
 попытка	trial	0	0	1	0
 попытка	attempt	0	0	1	0
@@ -3319,7 +3237,6 @@
 расширения	expansion	0	0	1	0
 расширения	extension	0	0	1	0
 династия	dynasty	0	0	1	0
-опасность	risk	0	0	1	0
 опасность	danger	0	0	1	0
 щит	shield	0	0	1	0
 высокими	high	0	0	1	0
@@ -3339,8 +3256,8 @@
 возрождения	revival	0	0	1	0
 летнего	summer	0	0	1	0
 неизвестно	unknown	0	0	1	0
-придерживаются	conduct	0	0	1	0
 придерживаются	keep	0	0	1	0
+придерживаются	conduct	0	0	1	0
 неизвестна	unknown	0	0	1	0
 командой	team	0	0	1	0
 появляться	appear	0	0	1	0
@@ -3373,7 +3290,6 @@
 япония	japan	0	0	1	0
 распространённых	spreaded	0	0	1	0
 распространённых	common	0	0	1	0
-присутствии	the presence of	0	0	1	0
 присутствии	presence	0	0	1	0
 богу	god	0	0	1	0
 находилось	situated	0	0	1	0
@@ -3390,8 +3306,8 @@
 возрождение	revival	0	0	1	0
 задолго	long time	0	0	1	0
 задолго	long before	0	0	1	0
-страницы	pages	0	0	1	0
 страницы	page	0	0	1	0
+страницы	pages	0	0	1	0
 церковной	church	0	0	1	0
 оборот	amount	0	0	1	0
 оборот	circulation	0	0	1	0
@@ -3497,7 +3413,6 @@
 оппозиция	opposition	0	0	1	0
 нечто	something	0	0	1	0
 нем	german	0	0	1	0
-нем	ger	0	0	1	0
 противоречит	contradicts	0	0	1	0
 противоречит	against	0	0	1	0
 ней	it	0	0	1	0
@@ -3509,8 +3424,8 @@
 требования	requests	0	0	1	0
 требования	requirements	0	0	1	0
 требования	demands	0	0	1	0
-одесский	odessa	0	0	1	0
 одесский	odesa	0	0	1	0
+одесский	odessa	0	0	1	0
 файл	file	0	0	1	0
 противоречий	contradictions	0	0	1	0
 сооружения	building	0	0	1	0
@@ -3554,7 +3469,6 @@
 свою	own	0	0	1	0
 свою	its	0	0	1	0
 учёного	scientist	0	0	1	0
-пройти	to pass	0	0	1	0
 пройти	pass	0	0	1	0
 гвардия	guard	0	0	1	0
 веках	ages	0	0	1	0
@@ -3565,10 +3479,8 @@
 сооружений	assemblies	0	0	1	0
 сооружений	constructions	0	0	1	0
 вступает	enters	0	0	1	0
-вступает	join	0	0	1	0
 назывался	was called	0	0	1	0
 назывался	named	0	0	1	0
-назывался	called	0	0	1	0
 углерода	carbon	0	0	1	0
 кодекс	code	0	0	1	0
 требование	requirement	0	0	1	0
@@ -3596,8 +3508,6 @@
 философии	phylosophy	0	0	1	0
 братья	brothers	0	0	1	0
 братья	he	0	0	1	0
-сетевых	net	0	0	1	0
-сетевых	network	0	0	1	0
 помимо	besides	0	0	1	0
 западных	west	0	0	1	0
 западных	western	0	0	1	0
@@ -3621,7 +3531,6 @@
 людям	humans	0	0	1	0
 людям	people	0	0	1	0
 рангах	ranks	0	0	1	0
-рангах	rank	0	0	1	0
 разные	different	0	0	1	0
 разные	various	0	0	1	0
 душа	soul	0	0	1	0
@@ -3716,7 +3625,6 @@
 пассажирских	passenger	0	0	1	0
 посетителей	visitors	0	0	1	0
 упоминание	mention	0	0	1	0
-упоминание	reference	0	0	1	0
 внутренним	intern	0	0	1	0
 внутренним	internal	0	0	1	0
 внутренний	intern	0	0	1	0
@@ -3752,9 +3660,9 @@
 лицам	individuals	0	0	1	0
 часть	part	0	0	1	0
 часть	parts of	0	0	1	0
-одежды	clothes	0	0	1	0
-одежды	odezhay	0	0	1	0
 одежды	clothe	0	0	1	0
+одежды	odezhay	0	0	1	0
+одежды	clothes	0	0	1	0
 одежду	cloth	0	0	1	0
 одежду	clothing	0	0	1	0
 одежду	clothes	0	0	1	0
@@ -3814,13 +3722,11 @@
 функции	functions	0	0	1	0
 раунд	round	0	0	1	0
 препарат	medicine	0	0	1	0
-препарат	medication	0	0	1	0
 препарат	drug	0	0	1	0
 переводе	transfer	0	0	1	0
 переводе	translation	0	0	1	0
 рукой	arm	0	0	1	0
 рукой	hand	0	0	1	0
-перевода	translated	0	0	1	0
 перевода	translation	0	0	1	0
 перевода	translate	0	0	1	0
 список	list	0	0	1	0
@@ -3849,7 +3755,6 @@
 кафедральный	cathedral	0	0	1	0
 комиссаров	commissar	0	0	1	0
 комиссаров	commissars	0	0	1	0
-руководства	не	0	0	1	0
 марк	marx	0	0	1	0
 марк	marc	0	0	1	0
 руководство	management	0	0	1	0
@@ -3874,7 +3779,6 @@
 положению	situation	0	0	1	0
 положению	position	0	0	1	0
 структур	structures	0	0	1	0
-структур	structure	0	0	1	0
 мирное	peaceful	0	0	1	0
 юрия	yuri	0	0	1	0
 дмитрия	dmitriy	0	0	1	0
@@ -3901,9 +3805,8 @@
 обряд	rite	0	0	1	0
 входят	enter	0	0	1	0
 объясняет	explains	0	0	1	0
-жилые	living	0	0	1	0
-жилые	habitable	0	0	1	0
 жилые	residential	0	0	1	0
+жилые	habitable	0	0	1	0
 вождя	leader	0	0	1	0
 технических	technical	0	0	1	0
 единство	unity	0	0	1	0
@@ -3912,7 +3815,6 @@
 исполнять	fulfil	0	0	1	0
 исполнять	execute	0	0	1	0
 исполнять	carry out	0	0	1	0
-участков	land	0	0	1	0
 участков	sites	0	0	1	0
 участков	areas	0	0	1	0
 мне	me	0	0	1	0
@@ -3932,7 +3834,6 @@
 открытие	opening	0	0	1	0
 политику	politics	0	0	1	0
 открытий	discoveries	0	0	1	0
-тайны	secrets	0	0	1	0
 тайны	secret	0	0	1	0
 тайны	mysteries	0	0	1	0
 кавказ	caucasus	0	0	1	0
@@ -3952,7 +3853,6 @@
 присутствует	presented	0	0	1	0
 носили	beared	0	0	1	0
 носили	carrying	0	0	1	0
-носили	were	0	0	1	0
 указания	directions	0	0	1	0
 указания	instructions	0	0	1	0
 румыния	rumania	0	0	1	0
@@ -3971,7 +3871,6 @@
 категориярусские	category russians	0	0	1	0
 располагается	boctoky	0	0	1	0
 располагается	set	0	0	1	0
-располагается	situated	0	0	1	0
 единая	single	0	0	1	0
 единая	unique	0	0	1	0
 коллекция	collection	0	0	1	0
@@ -4005,7 +3904,6 @@
 настоящее	present	0	0	1	0
 империя	empire	0	0	1	0
 империю	empire	0	0	1	0
-империю	imperium	0	0	1	0
 кожа	skin	0	0	1	0
 большое	large	0	0	1	0
 большое	big	0	0	1	0
@@ -4073,12 +3971,10 @@
 сочетание	combination	0	0	1	0
 управление	management	0	0	1	0
 управление	administration	0	0	1	0
-управление	governing	0	0	1	0
 отношению	relation	0	0	1	0
 отношению	ratio	0	0	1	0
 отношению	against	0	0	1	0
 видом	kind	0	0	1	0
-видом	view	0	0	1	0
 словно	as if	0	0	1	0
 пришли	came	0	0	1	0
 пришло	has come	0	0	1	0
@@ -4124,9 +4020,9 @@
 установил	established	0	0	1	0
 установил	set	0	0	1	0
 дети	children	0	0	1	0
-состоялась	took place	0	0	1	0
-состоялась	was organized	0	0	1	0
 состоялась	take place	0	0	1	0
+состоялась	was organized	0	0	1	0
+состоялась	took place	0	0	1	0
 изменяется	is changing	0	0	1	0
 изменяется	changes	0	0	1	0
 изменяется	change	0	0	1	0
@@ -4154,8 +4050,8 @@
 разработку	development	0	0	1	0
 вооружений	defense	0	0	1	0
 вооружений	arms	0	0	1	0
-вооружении	arming	0	0	1	0
 вооружении	armed	0	0	1	0
+вооружении	arming	0	0	1	0
 вооружении	arsenal	0	0	1	0
 вооружение	armament	0	0	1	0
 вооружение	arming	0	0	1	0
@@ -4179,7 +4075,6 @@
 каталог	catalog	0	0	1	0
 поставить	diagnose	0	0	1	0
 поставить	set	0	0	1	0
-составит	would be	0	0	1	0
 составит	compound	0	0	1	0
 пытался	tried to	0	0	1	0
 пытался	tried	0	0	1	0
@@ -4189,7 +4084,6 @@
 подобный	similar	0	0	1	0
 подобные	similar	0	0	1	0
 гэс	hydroelectric power station	0	0	1	0
-гэс	gas	0	0	1	0
 схеме	scheme	0	0	1	0
 схеме	schema	0	0	1	0
 дании	denmark	0	0	1	0
@@ -4210,7 +4104,7 @@
 схема	diagram	1	0	1	0
 схема	kiev	1	0	1	0
 схема	schematic	1	0	1	0
-схема	scheme	1	1	1	0
+схема	scheme	1	1	0	0
 схема	schema	1	1	1	0
 севастополь	sevastopol	0	0	1	0
 блоги	blogs	0	0	1	0
@@ -4260,7 +4154,6 @@
 восстановление	recovery	0	0	1	0
 восстановление	reconstruction	0	0	1	0
 приказу	order	0	0	1	0
-приказу	orders	0	0	1	0
 брать	take	0	0	1	0
 бассейна	basin	0	0	1	0
 урана	uranium	0	0	1	0
@@ -4289,7 +4182,6 @@
 раньше	before	0	0	1	0
 лиге	league	0	0	1	0
 лига	league	0	0	1	0
-лига	liague	0	0	1	0
 небольшим	small	0	0	1	0
 тиффани	tries	1	0	1	0
 тиффани	tiffani	1	0	1	0
@@ -4427,8 +4319,8 @@
 хиппи	hippy	0	0	1	0
 игру	game	0	0	1	0
 оказывают	cause	0	0	1	0
-оказывают	render	0	0	1	0
 оказывают	have	0	0	1	0
+оказывают	render	0	0	1	0
 игры	game	0	0	1	0
 игры	games	0	0	1	0
 весны	spring	0	0	1	0
@@ -4462,7 +4354,6 @@
 и т д	and so on	0	0	1	0
 сара	sarah	0	0	1	0
 наименование	denomination	0	0	1	0
-наименование	title	0	0	1	0
 головой	head	0	0	1	0
 тщательно	carefully	0	0	1	0
 нептуна	neptune	0	0	1	0
@@ -4475,7 +4366,6 @@
 отдал	gave	0	0	1	0
 венеры	venus	0	0	1	0
 михаила	mihail	0	0	1	0
-михаила	mihayl	0	0	1	0
 лицу	person	0	0	1	0
 лицу	topry	0	0	1	0
 категориямузыкальные	category musical	0	0	1	0
@@ -4499,7 +4389,6 @@
 частным	particular	0	0	1	0
 ми	th	0	0	1	0
 поражений	defeats	0	0	1	0
-поражений	defeat	0	0	1	0
 последовательно	in series	0	0	1	0
 последовательно	sequential	0	0	1	0
 илья	ilya	0	0	1	0
@@ -4515,7 +4404,6 @@
 подразумевается	supposed	0	0	1	0
 подразумевается	means	0	0	1	0
 проводились	took place	0	0	1	0
-проводились	carry out	0	0	1	0
 борьбу	battle	0	0	1	0
 борьбу	fight	0	0	1	0
 греция	greece	0	0	1	0
@@ -4633,7 +4521,6 @@
 есть	has	0	0	1	0
 есть	exists	0	0	1	0
 расстройства	disorder	0	0	1	0
-расстройства	disordes	0	0	1	0
 категориялауреаты	category laureate	0	0	1	0
 категориялауреаты	category: winners	0	0	1	0
 категориялауреаты	kategoriyalaureaty	0	0	1	0
@@ -4668,7 +4555,6 @@
 участник	member	0	0	1	0
 участник	participant	0	0	1	0
 четырёх	four	0	0	1	0
-состоялись	рудв	0	0	1	0
 состоялись	took place	0	0	1	0
 состоялись	were held	0	0	1	0
 направлениях	directions	0	0	1	0
@@ -4735,7 +4621,6 @@
 сиринга	protein	1	0	1	0
 сиринга	pan pipe	1	1	0	0
 близости	intimacy	0	0	1	0
-близости	proximity	0	0	1	0
 пластинки	plates	0	0	1	0
 пластинки	vinyl records	0	0	1	0
 многим	many	0	0	1	0
@@ -4750,7 +4635,6 @@
 американским	us	0	0	1	0
 простого	simple	0	0	1	0
 оболочки	shell	0	0	1	0
-говоря	speaking	0	0	1	0
 говоря	let alone	0	0	1	0
 ставший	become	0	0	1	0
 ставший	becoming	0	0	1	0
@@ -4986,8 +4870,6 @@
 красный	red	0	0	1	0
 музыкальный	music	0	0	1	0
 музыкальный	musical	0	0	1	0
-обязательств	obligations	0	0	1	0
-обязательств	commitments	0	0	1	0
 большим	big	0	0	1	0
 большим	largest	0	0	1	0
 формы	forms	0	0	1	0
@@ -5013,7 +4895,6 @@
 форма	form	0	0	1	0
 писания	writings	0	0	1	0
 писания	scripture	0	0	1	0
-писания	scriptures	0	0	1	0
 красных	red	0	0	1	0
 отказывается	denies	0	0	1	0
 отказывается	refuse	0	0	1	0
@@ -5094,7 +4975,6 @@
 либеральной	liberal	0	0	1	0
 миллионов	million	0	0	1	0
 миллионов	millions	0	0	1	0
-массе	the bulk of	0	0	1	0
 массе	mass	0	0	1	0
 винчи	vinci	0	0	1	0
 масса	mass	0	0	1	0
@@ -5128,7 +5008,6 @@
 ткани	tissue	0	0	1	0
 другому	other	0	0	1	0
 другому	another	0	0	1	0
-гермиона	hermiona	0	0	1	0
 гермиона	hermione	0	0	1	0
 сравнения	comparison	0	0	1	0
 сравнению	comparison	0	0	1	0
@@ -5186,7 +5065,6 @@
 принципом	principle	0	0	1	0
 эмоций	emotions	0	0	1	0
 выполнять	perform	0	0	1	0
-выполнять	do	0	0	1	0
 принципов	policy	0	0	1	0
 принципов	ee	0	0	1	0
 принципов	principles	0	0	1	0
@@ -5215,9 +5093,7 @@
 сингл	single	0	0	1	0
 социальная	social	0	0	1	0
 армения	armenia	0	0	1	0
-белоруссии	belorussia	0	0	1	0
-белоруссии	belarus	0	0	1	0
-белоруссии	belarusssia	0	0	1	0
+наземных	ground	0	0	1	0
 повидимому	apparently	0	0	1	0
 затворной	slide	0	0	1	0
 затворной	bolt	0	0	1	0
@@ -5235,8 +5111,6 @@
 внесли	contributed	0	0	1	0
 дополнительной	additional	0	0	1	0
 направо	to the right	0	0	1	0
-записи	record	0	0	1	0
-записи	account	0	0	1	0
 хамсин	khamsin	1	1	1	0
 хамсин	khamseen	1	0	1	0
 хамсин	chamsin	1	0	1	0
@@ -5362,7 +5236,6 @@
 не	not	0	0	1	0
 анализе	analysis	0	0	1	0
 анализа	analysis	0	0	1	0
-на	in (practice)	0	0	1	0
 на	in	0	0	1	0
 себе	self	0	0	1	0
 себе	himself	0	0	1	0
@@ -5457,6 +5330,7 @@
 морские	marine	0	0	1	0
 морские	sea	0	0	1	0
 морские	maritime	0	0	1	0
+законов	laws	0	0	1	0
 создана	created	0	0	1	0
 браки	marriage	0	0	1	0
 браки	marriages	0	0	1	0
@@ -5487,11 +5361,11 @@
 смогли	could	0	0	1	0
 поздние	late	0	0	1	0
 поздние	later	0	0	1	0
-образом	mode	0	0	1	0
-образом	way	0	0	1	0
+проведение	carrying out	0	0	1	0
+проведение	execution	0	0	1	0
+проведение	provision	0	0	1	0
 подготовка	preparation	0	0	1	0
 образов	images	0	0	1	0
-образов	image	0	0	1	0
 проведении	implementation	0	0	1	0
 проведении	execution	0	0	1	0
 проведении	conduct	0	0	1	0
@@ -5525,7 +5399,6 @@
 населённых	populated	0	0	1	0
 полномочий	powers	0	0	1	0
 полномочий	authority	0	0	1	0
-открытой	naked	0	0	1	0
 открытой	open	0	0	1	0
 лизинга	leasing	0	0	1	0
 лизинга	lease	0	0	1	0
@@ -5719,8 +5592,6 @@
 деловой	business	0	0	1	0
 уровне	level	0	0	1	0
 дано	given	0	0	1	0
-указывает	indicates	0	0	1	0
-указывает	points to	0	0	1	0
 сифилиса	syphilis	0	0	1	0
 телефон	phone	0	0	1	0
 телефон	telephone	0	0	1	0
@@ -5740,11 +5611,8 @@
 оказал	was	0	0	1	0
 оказал	showed	0	0	1	0
 надежды	hopes	0	0	1	0
-надежды	hope	0	0	1	0
 боевиков	gunmen	0	0	1	0
-боевиков	militants	0	0	1	0
-существа	beings	0	0	1	0
-существа	creature	0	0	1	0
+ширина	width	0	0	1	0
 преданию	legend	0	0	1	0
 преданию	tradition	0	0	1	0
 эпоха	epoch	0	0	1	0
@@ -5810,12 +5678,11 @@
 этом	this	0	0	1	0
 этом	in this	0	0	1	0
 этом	that	0	0	1	0
-располагались	situated	0	0	1	0
 располагались	were located	0	0	1	0
+располагались	situated	0	0	1	0
 этой	this	0	0	1	0
 известная	known	0	0	1	0
 известная	famous	0	0	1	0
-ближнего	the middle (east)	0	0	1	0
 ближнего	near	0	0	1	0
 ближнего	nearby	0	0	1	0
 внесены	put	0	0	1	0
@@ -5835,8 +5702,7 @@
 крупнейшее	the largest	0	0	1	0
 крупнейшее	large-scale	0	0	1	0
 собак	dogs	0	0	1	0
-написан	written	0	0	1	0
-написан	wrote	0	0	1	0
+зеландия	zealand	0	0	1	0
 чтото	something	0	0	1	0
 волчанка	lupus	1	1	0	0
 прав	rights	0	0	1	0
@@ -5851,8 +5717,8 @@
 глоссарий	wikipidia	1	0	1	0
 глоссарий	force	1	0	1	0
 глоссарий	forced	1	0	1	0
-велась	led	0	0	1	0
 велась	was	0	0	1	0
+велась	led	0	0	1	0
 велась	was conducted	0	0	1	0
 этот	this	0	0	1	0
 фифа	fifa	0	0	1	0
@@ -5892,7 +5758,6 @@
 месяца	months	0	0	1	0
 месяца	month	0	0	1	0
 латвия	latvia	0	0	1	0
-плен	surrender	0	0	1	0
 плен	captivity	0	0	1	0
 волны	wave	0	0	1	0
 значением	meaning	0	0	1	0
@@ -5900,7 +5765,8 @@
 населением	population	0	0	1	0
 христа	christ	0	0	1	0
 совершать	perform	0	0	1	0
-нсдап	nsdap	0	0	1	0
+преимущественно	mainly	0	0	1	0
+преимущественно	mostly	0	0	1	0
 критиков	critics	0	0	1	0
 естественных	natural	0	0	1	0
 естественных	obvious	0	0	1	0
@@ -5948,7 +5814,6 @@
 немецкой	german	0	0	1	0
 немецком	german	0	0	1	0
 огромные	huge	0	0	1	0
-огромные	bigger	0	0	1	0
 уверен	sure	0	0	1	0
 уверен	cetain	0	0	1	0
 правителей	governors	0	0	1	0
@@ -5969,8 +5834,8 @@
 мало	little	0	0	1	0
 мало	not enough	0	0	1	0
 русская	russian	0	0	1	0
-никому	nobody	0	0	1	0
 никому	no one	0	0	1	0
+никому	nobody	0	0	1	0
 вывода	conclusion	0	0	1	0
 фирм	firms	0	0	1	0
 фирм	фирмс	0	0	1	0
@@ -6058,9 +5923,9 @@
 тяжёлых	hard	0	0	1	0
 жуков	beetles	0	0	1	0
 жуков	zhukov	0	0	1	0
-герой	character	0	0	1	0
-герой	protagonist	0	0	1	0
 герой	hero	0	0	1	0
+герой	protagonist	0	0	1	0
+герой	character	0	0	1	0
 герои	heroes	0	0	1	0
 диаметром	diameter	0	0	1	0
 возникает	arises	0	0	1	0
@@ -6185,7 +6050,8 @@
 утверждая	claiming	0	0	1	0
 утверждая	affirming	0	0	1	0
 пользоваться	use	0	0	1	0
-зеландия	zealand	0	0	1	0
+приносит	brings	0	0	1	0
+приносит	gives	0	0	1	0
 работают	work	0	0	1	0
 химии	chemistry	0	0	1	0
 написал	wrote	0	0	1	0
@@ -6228,7 +6094,6 @@
 тамплиеров	templars	0	0	1	0
 дальнем	far	0	0	1	0
 дальнем	distant	0	0	1	0
-союзники	allies	0	0	1	0
 отмечается	noticed	0	0	1	0
 отмечается	is measured	0	0	1	0
 необходимых	necessary	0	0	1	0
@@ -6271,7 +6136,6 @@
 динамика	dynamic	0	0	1	0
 юпитер	jupiter	0	0	1	0
 показателей	indicators	0	0	1	0
-показателей	rate	0	0	1	0
 показателей	results	0	0	1	0
 тёмных	dark	0	0	1	0
 аэропорта	aaponopta	0	0	1	0
@@ -6313,7 +6177,6 @@
 симпсоны	simpsons	0	0	1	0
 ссылке	link	0	0	1	0
 песней	song	0	0	1	0
-песней	songs	0	0	1	0
 вооружённые	military	0	0	1	0
 вооружённые	armed	0	0	1	0
 плутон	pluto	0	0	1	0
@@ -6335,7 +6198,6 @@
 которого	that	0	0	1	0
 исключение	exception	0	0	1	0
 жанры	genre	0	0	1	0
-жанры	geners	0	0	1	0
 жанры	genres	0	0	1	0
 ким	kim	0	0	1	0
 причина	reason	0	0	1	0
@@ -6356,7 +6218,6 @@
 говорили	talked	0	0	1	0
 говорили	told	0	0	1	0
 редакции	edition	0	0	1	0
-редакции	version	0	0	1	0
 пандемониум	pandemonium	1	1	0	0
 где	where	0	0	1	0
 жидкости	liquid	0	0	1	0
@@ -6367,7 +6228,6 @@
 открыт	be inaugurated	0	0	1	0
 жидкость	liquid	0	0	1	0
 многом	much	0	0	1	0
-многом	largely	0	0	1	0
 открыл	discovered	0	0	1	0
 открыл	found	0	0	1	0
 нацистской	nazi	0	0	1	0
@@ -6395,7 +6255,6 @@
 шесть	six	0	0	1	0
 древнего	the ancient	0	0	1	0
 древнего	ancient	0	0	1	0
-необходимым	required	0	0	1	0
 необходимым	necessary	0	0	1	0
 танка	tanka	0	0	1	0
 танка	tank	0	0	1	0
@@ -6410,7 +6269,6 @@
 сей	this	0	0	1	0
 меди	copper	0	0	1	0
 удалось	managed	0	0	1	0
-удалось	was	0	0	1	0
 удалось	succeeded	0	0	1	0
 материка	mainland	0	0	1	0
 материка	continent	0	0	1	0
@@ -6429,7 +6287,6 @@
 газов	gas	0	0	1	0
 газов	gases	0	0	1	0
 дома	home	0	0	1	0
-дома	buildings	0	0	1	0
 целый	whole	0	0	1	0
 нужна	need	0	0	1	0
 нужна	needed	0	0	1	0
@@ -6449,7 +6306,6 @@
 даугавпилс	daytavpils	1	0	1	0
 даугавпилс	daugavpils	1	1	0	0
 депутатов	deputies	0	0	1	0
-депутатов	deputats	0	0	1	0
 кругах	circles	0	0	1	0
 географические	geographic	0	0	1	0
 географические	geographique	0	0	1	0
@@ -6527,7 +6383,6 @@
 жанре	genre	0	0	1	0
 растут	grow	0	0	1	0
 отклонения	deviations	0	0	1	0
-отклонения	devitations	0	0	1	0
 поезд	train	0	0	1	0
 совершения	doing	0	0	1	0
 совершения	commission	0	0	1	0
@@ -6563,8 +6418,7 @@
 основателем	founder	0	0	1	0
 германской	german	0	0	1	0
 основателей	founders	0	0	1	0
-преступность	criminality	0	0	1	0
-преступность	crime	0	0	1	0
+интерес	interest	0	0	1	0
 религиозная	religious	0	0	1	0
 создания	creation	0	0	1	0
 созданию	construction	0	0	1	0
@@ -6579,7 +6433,6 @@
 открывается	opens	0	0	1	0
 медицинская	medicine	0	0	1	0
 медицинская	medical	0	0	1	0
-запрет	prohibbited	0	0	1	0
 запрет	prohibition	0	0	1	0
 выборы	elections	0	0	1	0
 оказали	provided	0	0	1	0
@@ -6636,7 +6489,6 @@
 денис	denis	0	0	1	0
 исследования	researches	0	0	1	0
 исследования	study	0	0	1	0
-исследования	research	0	0	1	0
 исследованию	investigation	0	0	1	0
 исследованию	research	0	0	1	0
 сьерра	sierra	1	1	0	0
@@ -6696,7 +6548,6 @@
 модификаций	modification	0	0	1	0
 модификаций	modifications	0	0	1	0
 модификации	modification	0	0	1	0
-модификации	modifications	0	0	1	0
 вышла	released	0	0	1	0
 вышла	exited	0	0	1	0
 вышла	went out	0	0	1	0
@@ -6734,8 +6585,6 @@
 модификация	modification	0	0	1	0
 приключения	adventures	0	0	1	0
 непосредственной	close	0	0	1	0
-непосредственной	direct	0	0	1	0
-прозвище	nick name	0	0	1	0
 прозвище	nickname	0	0	1	0
 песню	song	0	0	1	0
 непосредственное	direct	0	0	1	0
@@ -6783,9 +6632,7 @@
 югославии	yugoslavia	0	0	1	0
 татар	tatar	0	0	1	0
 доступ	access	0	0	1	0
-доступ	admission	0	0	1	0
 расцвета	blossom	0	0	1	0
-расцвета	heyday	0	0	1	0
 расцвета	flourishing	0	0	1	0
 вероятно	probably	0	0	1	0
 вероятно	most likely	0	0	1	0
@@ -6847,7 +6694,6 @@
 говорится	said	0	0	1	0
 говорится	told	0	0	1	0
 сильно	strongly	0	0	1	0
-сильно	heavily	0	0	1	0
 австрии	austria	0	0	1	0
 временной	temporal	0	0	1	0
 древняя	ancient	0	0	1	0
@@ -6955,7 +6801,6 @@
 христиане	christian	0	0	1	0
 христиане	christians	0	0	1	0
 следующих	following	0	0	1	0
-следующих	next	0	0	1	0
 температуры	temperature	0	0	1	0
 режиме	mode	0	0	1	0
 черты	features	0	0	1	0
@@ -6993,14 +6838,12 @@
 обзор	review	0	0	1	0
 заключил	concluded	0	0	1	0
 заключил	completed	0	0	1	0
-захватили	took over	0	0	1	0
 захватили	camoa	0	0	1	0
 захватили	ocuppied	0	0	1	0
 что	which	0	0	1	0
 что	that	0	0	1	0
 европейской	european	0	0	1	0
 начать	start	0	0	1	0
-европейском	europian	0	0	1	0
 европейском	european	0	0	1	0
 решить	solve	0	0	1	0
 сериал	series	0	0	1	0
@@ -7048,7 +6891,6 @@
 останется	remain	0	0	1	0
 сохранение	preservation	0	0	1	0
 высокую	high	0	0	1	0
-отдельную	seperate	0	0	1	0
 отдельную	separate	0	0	1	0
 объединённых	united	0	0	1	0
 красноярска	krasnoyarsk	0	0	1	0
@@ -7066,14 +6908,13 @@
 гдр	german democratic republic	0	0	1	0
 восточный	east	0	0	1	0
 восточный	eastern	0	0	1	0
-проституция	prostitution	0	0	1	0
+самара	samara	0	0	1	0
 самаре	samara	0	0	1	0
 создавать	create	0	0	1	0
 море	sea	0	0	1	0
 пребывания	being	0	0	1	0
 пребывания	term	0	0	1	0
 сторонних	party	0	0	1	0
-сторонних	third-party	0	0	1	0
 косвенно	indirectly	0	0	1	0
 александр	alexandr	0	0	1	0
 александр	alexander	0	0	1	0
@@ -7094,7 +6935,6 @@
 моря	sea	0	0	1	0
 главнокомандующим	boopy	0	0	1	0
 главнокомандующим	chief	0	0	1	0
-главнокомандующим	commander in chief	0	0	1	0
 проституции	prostitution	0	0	1	0
 украинского	ukrainian	0	0	1	0
 самары	samara	0	0	1	0
@@ -7132,8 +6972,8 @@
 ведёт	brings	0	0	1	0
 сервер	server	0	0	1	0
 тбилиси	tbilisi	0	0	1	0
-начальник	chief	0	0	1	0
 начальник	head	0	0	1	0
+начальник	chief	0	0	1	0
 ветра	wind	0	0	1	0
 кампания	campaign	0	0	1	0
 старая	old	0	0	1	0
@@ -7236,13 +7076,12 @@
 ставится	establish	0	0	1	0
 ставится	is being placed	0	0	1	0
 центральные	central	0	0	1	0
-напряжения	voltge	0	0	1	0
 напряжения	voltage	0	0	1	0
 сектор	sector	0	0	1	0
 издание	edition	0	0	1	0
 отношения	relations	0	0	1	0
-изданий	editions	0	0	1	0
 изданий	edition	0	0	1	0
+изданий	editions	0	0	1	0
 издании	edition	0	0	1	0
 отношении	attitude	0	0	1	0
 отношении	relations	0	0	1	0
@@ -7283,7 +7122,6 @@
 играют	play	0	0	1	0
 клиент	client	0	0	1	0
 упадок	decline	0	0	1	0
-упадок	fall	0	0	1	0
 упадок	decay	0	0	1	0
 идеями	ideas	0	0	1	0
 возможного	possible	0	0	1	0
@@ -7336,8 +7174,8 @@
 очков	glasses	0	0	1	0
 окраине	part	0	0	1	0
 окраине	outskirts	0	0	1	0
-товар	merchandise	0	0	1	0
 товар	commodity	0	0	1	0
+товар	merchandise	0	0	1	0
 европейская	european	0	0	1	0
 очерки	essay	0	0	1	0
 очерки	essays	0	0	1	0
@@ -7447,7 +7285,6 @@
 стэн	stan	0	0	1	0
 америки	america	0	0	1	0
 америки	of america	0	0	1	0
-размещение	allocation	0	0	1	0
 размещение	placement	0	0	1	0
 размещение	location	0	0	1	0
 препарата	preparation	0	0	1	0
@@ -7510,9 +7347,7 @@
 рта	mouth	0	0	1	0
 категорияписатели	category writers	0	0	1	0
 категорияписатели	category: writers	0	0	1	0
-крепостного	serf	0	0	1	0
-крепостного	serfdom-based	0	0	1	0
-крепостного	serfdom	0	0	1	0
+старой	old	0	0	1	0
 немецких	german	0	0	1	0
 позволяет	lets	0	0	1	0
 позволяет	allows	0	0	1	0
@@ -7533,7 +7368,6 @@
 сражение	battle	0	0	1	0
 чёрное	black	0	0	1	0
 сражении	battle	0	0	1	0
-сражении	struggle	0	0	1	0
 презервативы	condoms	0	0	1	0
 твой	your	0	0	1	0
 разработчики	developers	0	0	1	0
@@ -7564,7 +7398,6 @@
 начал	started	0	0	1	0
 начал	began	0	0	1	0
 игровой	gaming	0	0	1	0
-игровой	game	0	0	1	0
 игровой	playing	0	0	1	0
 важно	important	0	0	1	0
 первая	first	0	0	1	0
@@ -7599,7 +7432,6 @@
 музыкант	musician	0	0	1	0
 области	regions	0	0	1	0
 области	area	0	0	1	0
-отображение	mapping	0	0	1	0
 отображение	display	0	0	1	0
 воздушный	aerial	0	0	1	0
 воздушный	air	0	0	1	0
@@ -7607,7 +7439,6 @@
 воздушные	air	0	0	1	0
 вампиров	vampires	0	0	1	0
 рынке	market	0	0	1	0
-похож	looks like	0	0	1	0
 похож	similar	0	0	1	0
 линией	line	0	0	1	0
 линией	lines	0	0	1	0
@@ -7630,8 +7461,6 @@
 чемпионате	championship	0	0	1	0
 племён	tribes	0	0	1	0
 сохраняют	preserve	0	0	1	0
-сохраняют	retain	0	0	1	0
-сохраняют	save	0	0	1	0
 снижению	reduction	0	0	1	0
 снижению	reducing	0	0	1	0
 снижения	reduction	0	0	1	0
@@ -7719,8 +7548,8 @@
 родным	native	0	0	1	0
 выделения	discharge	0	0	1	0
 выделения	selection	0	0	1	0
-происходит	comes from	0	0	1	0
 происходит	originates	0	0	1	0
+происходит	comes from	0	0	1	0
 находится	is	0	0	1	0
 находится	situated	0	0	1	0
 озеро	lake	0	0	1	0
@@ -7749,8 +7578,9 @@
 колец	rings	0	0	1	0
 системах	systems	0	0	1	0
 совместимость	compatibility	0	0	1	0
-отличался	differ	0	0	1	0
-отличался	differed	0	0	1	0
+осуществление	implementation	0	0	1	0
+осуществление	implement	0	0	1	0
+осуществление	performing	0	0	1	0
 ситуациях	situations	0	0	1	0
 сообщает	informs	0	0	1	0
 сообщает	says	0	0	1	0
@@ -7769,7 +7599,6 @@
 гарантирует	guarantees	0	0	1	0
 гарантирует	guaratees	0	0	1	0
 происходил	origined	0	0	1	0
-происходил	descended	0	0	1	0
 украины	ukraine	0	0	1	0
 рсфср	rsfsr	0	0	1	0
 больной	patient	0	0	1	0
@@ -7782,9 +7611,7 @@
 описать	describe	0	0	1	0
 меньшинств	minority	0	0	1	0
 меньшинств	minorities	0	0	1	0
-единой	unified	0	0	1	0
 единой	single	0	0	1	0
-единой	united	0	0	1	0
 круга	range	0	0	1	0
 круга	circle	0	0	1	0
 шестой	sixth	0	0	1	0
@@ -7804,6 +7631,7 @@
 брат	brother	0	0	1	0
 элементарных	elementary	0	0	1	0
 элементарных	elemntary	0	0	1	0
+казанского	kazan	0	0	1	0
 поглощения	absorption	0	0	1	0
 поглощения	absorbtion	0	0	1	0
 стал	was	0	0	1	0
@@ -7832,9 +7660,7 @@
 заставить	make	0	0	1	0
 заставить	force	0	0	1	0
 концепцию	concept	0	0	1	0
-концепцию	conception	0	0	1	0
 концепция	concept	0	0	1	0
-концепция	conception	0	0	1	0
 концепция	notion	0	0	1	0
 фильмы	films	0	0	1	0
 фильмы	movies	0	0	1	0
@@ -7843,7 +7669,6 @@
 путина	putin	0	0	1	0
 путина	putin (of putin)	0	0	1	0
 №	#	0	0	1	0
-№	# 5	0	0	1	0
 №	number	0	0	1	0
 №	no	0	0	1	0
 нашей	our	0	0	1	0
@@ -7876,7 +7701,6 @@
 сильнее	stronger	0	0	1	0
 соглашения	agreement	0	0	1	0
 гитара	guitar	0	0	1	0
-гитара	не	0	0	1	0
 гитара	patant	0	0	1	0
 недостатком	inadequate	0	0	1	0
 недостатком	lack	0	0	1	0
@@ -7891,7 +7715,6 @@
 концепции	conception	0	0	1	0
 посольства	embassies	0	0	1	0
 посольства	embassy	0	0	1	0
-фильма	movie	0	0	1	0
 фильма	film	0	0	1	0
 единицы	units	0	0	1	0
 фильме	film	0	0	1	0
@@ -7934,8 +7757,8 @@
 французского	french	0	0	1	0
 среда	environment	0	0	1	0
 среда	wednesday	0	0	1	0
-людей	cboemy	0	0	1	0
 людей	people	0	0	1	0
+людей	cboemy	0	0	1	0
 сценария	scenario	0	0	1	0
 среди	among	0	0	1	0
 среди	between	0	0	1	0
@@ -7948,7 +7771,6 @@
 отнести	moved	0	0	1	0
 отнести	refer	0	0	1	0
 капитана	captain	0	0	1	0
-капитана	captan	0	0	1	0
 пруссии	prussia	0	0	1	0
 международным	worldwide	0	0	1	0
 международным	international	0	0	1	0
@@ -7957,7 +7779,6 @@
 ельцин	yeltsin	0	0	1	0
 международный	international	0	0	1	0
 министр	minister	0	0	1	0
-министр	secretary	0	0	1	0
 существенные	substantial	0	0	1	0
 существенные	considerable	0	0	1	0
 существенные	substancial	0	0	1	0
@@ -7975,11 +7796,9 @@
 именем	name	0	0	1	0
 преобладают	prevail	0	0	1	0
 рекламе	publicity	0	0	1	0
-рекламе	advertising	0	0	1	0
 рекламе	advertisement	0	0	1	0
 округ	district	0	0	1	0
 обществом	society	0	0	1	0
-обществом	community	0	0	1	0
 темпы	rate	0	0	1	0
 темпы	speed	0	0	1	0
 ньюйорке	new york	0	0	1	0
@@ -8039,6 +7858,9 @@
 состоящий	consisting of	0	0	1	0
 состоящий	including	0	0	1	0
 состоящий	consisting	0	0	1	0
+занимается	deals	0	0	1	0
+занимается	deals with	0	0	1	0
+занимается	busy oneself with	0	0	1	0
 конкретные	real	0	0	1	0
 конкретные	concrete	0	0	1	0
 конкретные	specific	0	0	1	0
@@ -8097,7 +7919,6 @@
 отрицательно	negatively	0	0	1	0
 важных	important	0	0	1	0
 начала	start	0	0	1	0
-начала	begining	0	0	1	0
 женский	female	0	0	1	0
 общему	general	0	0	1	0
 общему	common	0	0	1	0
@@ -8152,7 +7973,6 @@
 остатки	remains	0	0	1	0
 ведущим	leading	0	0	1	0
 превосходит	excels	0	0	1	0
-превосходит	greater than	0	0	1	0
 телеграмма	telegram	0	0	1	0
 дума	thought	0	0	1	0
 дума	duma	0	0	1	0
@@ -8200,7 +8020,6 @@
 деятелей	leaders	0	0	1	0
 приблизительно	approximately	0	0	1	0
 создаёт	creates	0	0	1	0
-создаёт	create	0	0	1	0
 колеса	wheels	0	0	1	0
 сетей	networks	0	0	1	0
 ломоносова	lomonosov	0	0	1	0
@@ -8294,18 +8113,12 @@
 поведение	behavior	0	0	1	0
 моды	fashion	0	0	1	0
 таблицы	tables	0	0	1	0
-таблицы	list	0	0	1	0
 таблицы	lists	0	0	1	0
-таблицы	table	0	0	1	0
 факторами	factors	0	0	1	0
-осуществление	implementation	0	0	1	0
-осуществление	implement	0	0	1	0
-осуществление	performing	0	0	1	0
 мужчин	men	0	0	1	0
 жертвами	victims	0	0	1	0
 оказаться	be	0	0	1	0
 оказаться	find oneself	0	0	1	0
-азербайджана	aserbaijan	0	0	1	0
 азербайджана	azerbaijan	0	0	1	0
 мода	fashion	0	0	1	0
 мода	more	0	0	1	0
@@ -8327,7 +8140,6 @@
 дивизион	division	0	0	1	0
 дивизион	mope	0	0	1	0
 предметы	objects	0	0	1	0
-старой	old	0	0	1	0
 чёрного	black	0	0	1	0
 директоров	directors	0	0	1	0
 гипотез	hypotheses	0	0	1	0
@@ -8355,8 +8167,7 @@
 степень	degree	0	0	1	0
 росту	increase	0	0	1	0
 росту	growth	0	0	1	0
-ведётся	taking place a discution	0	0	1	0
-ведётся	is underway	0	0	1	0
+расстояния	distance	0	0	1	0
 торговлю	trade	0	0	1	0
 торговля	commerce	0	0	1	0
 торговля	trade	0	0	1	0
@@ -8461,11 +8272,9 @@ $	$	0	0	1	0
 основанием	basement	0	0	1	0
 возможных	possible	0	0	1	0
 ось	axis	0	0	1	0
-чья	translating	0	0	1	0
 чья	whose	0	0	1	0
 поэтов	poets	0	0	1	0
 центров	centers	0	0	1	0
-центров	center	0	0	1	0
 масштабах	scales	0	0	1	0
 нас	us	0	0	1	0
 быстрее	faster	0	0	1	0
@@ -8503,15 +8312,14 @@ $	$	0	0	1	0
 найти	find	0	0	1	0
 чьи	whose	0	0	1	0
 чьи	which	0	0	1	0
-мультсериала	animated series	0	0	1	0
 мультсериала	animated cartoon	0	0	1	0
 мультсериала	cartoon series	0	0	1	0
 восточного	eastern	0	0	1	0
 клитор	clitoris	0	0	1	0
 конфликт	conflict	0	0	1	0
 наукой	science	0	0	1	0
-наблюдений	observations	0	0	1	0
-наблюдений	supervision	0	0	1	0
+построенный	built	0	0	1	0
+построенный	constructed	0	0	1	0
 всему	entire	0	0	1	0
 всему	all	0	0	1	0
 нападение	attack	0	0	1	0
@@ -8529,7 +8337,6 @@ $	$	0	0	1	0
 французским	french	0	0	1	0
 волге	volga	0	0	1	0
 феномен	phenomenon	0	0	1	0
-соседних	neighboring	0	0	1	0
 соседних	neighbouring	0	0	1	0
 соседних	neighbor	0	0	1	0
 находятся	located	0	0	1	0
@@ -8586,15 +8393,14 @@ $	$	0	0	1	0
 характера	nature	0	0	1	0
 французских	french	0	0	1	0
 волгу	volga	0	0	1	0
-золото	gold	0	0	1	0
+размерам	dimensions	0	0	1	0
+размерам	size	0	0	1	0
 ростовнадону	rostov-on-don	0	0	1	0
 всеми	all	0	0	1	0
-всеми	all of	0	0	1	0
 нападения	attack	0	0	1	0
 русскими	russian	0	0	1	0
 решил	decided	0	0	1	0
 решил	decided to	0	0	1	0
-решил	desided to	0	0	1	0
 федеральные	federal	0	0	1	0
 виталий	vitaly	0	0	1	0
 виталий	vitali	0	0	1	0
@@ -8604,10 +8410,9 @@ $	$	0	0	1	0
 ворот	gates	0	0	1	0
 ворот	gate	0	0	1	0
 китае	china	0	0	1	0
-китае	chinese	0	0	1	0
 императором	emperor	0	0	1	0
-переведены	perevedenp	0	0	1	0
 переведены	transfered	0	0	1	0
+переведены	perevedenp	0	0	1	0
 переведены	transferred	0	0	1	0
 таким	such	0	0	1	0
 таким	thus	0	0	1	0
@@ -8637,10 +8442,9 @@ $	$	0	0	1	0
 решение	decision	0	0	1	0
 решение	solution	0	0	1	0
 таких	such	0	0	1	0
-китая	from china	0	0	1	0
 китая	china	0	0	1	0
 руна	rune	0	0	1	0
-комбинация	combination	0	0	1	0
+симпсонов	simpsons	0	0	1	0
 феминизм	feminism	0	0	1	0
 снк	board of folk commisars	0	0	1	0
 снк	snk	0	0	1	0
@@ -8667,7 +8471,6 @@ $	$	0	0	1	0
 сказал	said	0	0	1	0
 цвета	color	0	0	1	0
 цвета	colour	0	0	1	0
-прихода	(after) coming	0	0	1	0
 прихода	coming	0	0	1	0
 сохранилось	kept	0	0	1	0
 сохранилось	preserved	0	0	1	0
@@ -8697,8 +8500,6 @@ $	$	0	0	1	0
 частей	troops	0	0	1	0
 частей	departments	0	0	1	0
 будучи	being	0	0	1	0
-будучи	in future	0	0	1	0
-будучи	as a	0	0	1	0
 первоначально	originally	0	0	1	0
 фанатов	fans	0	0	1	0
 служит	serve	0	0	1	0
@@ -8714,7 +8515,6 @@ $	$	0	0	1	0
 владеет	has	0	0	1	0
 владеет	owns	0	0	1	0
 концертах	concerts	0	0	1	0
-строить	�&#65533; не знаю	0	0	1	0
 строить	build	0	0	1	0
 обычно	usually	0	0	1	0
 действиям	actions	0	0	1	0
@@ -8759,7 +8559,6 @@ $	$	0	0	1	0
 вечно	perpetually	0	0	1	0
 вечно	for ever	0	0	1	0
 ранга	rank	0	0	1	0
-ранга	ranga	0	0	1	0
 поляки	polish	0	0	1	0
 поляки	poles	0	0	1	0
 игорь	igor	0	0	1	0
@@ -8769,6 +8568,7 @@ $	$	0	0	1	0
 клиентов	clients	0	0	1	0
 сл	cl	0	0	1	0
 второй	second	0	0	1	0
+диагноз	diagnosis	0	0	1	0
 см	see	0	0	1	0
 см	centimeter	0	0	1	0
 см	cm	0	0	1	0
@@ -8825,7 +8625,6 @@ $	$	0	0	1	0
 надо	should	0	0	1	0
 собственное	proper	0	0	1	0
 собственное	own	0	0	1	0
-обряды	rituals	0	0	1	0
 обряды	rites	0	0	1	0
 молекул	molecule	0	0	1	0
 молекул	molecules	0	0	1	0
@@ -8862,7 +8661,6 @@ $	$	0	0	1	0
 хронология	chronology	0	0	1	0
 хронология	mnobon	0	0	1	0
 наблюдается	observed	0	0	1	0
-наблюдается	obserwed	0	0	1	0
 координат	coordinate	0	0	1	0
 координат	coordinates	0	0	1	0
 царства	kingdom	0	0	1	0
@@ -8988,7 +8786,6 @@ $	$	0	0	1	0
 губернатора	governor	0	0	1	0
 губернатора	governor's	0	0	1	0
 команды	team	0	0	1	0
-команды	crew	0	0	1	0
 развивался	developed	0	0	1	0
 театр	theater	0	0	1	0
 театр	theatre	0	0	1	0
@@ -9046,7 +8843,7 @@ $	$	0	0	1	0
 подобное	similar	0	0	1	0
 подобное	like	0	0	1	0
 подобное	same	0	0	1	0
-большой	large	0	0	1	0
+ликвидации	elimination	0	0	1	0
 районы	regions	0	0	1	0
 районы	region	0	0	1	0
 районы	district	0	0	1	0
@@ -9055,7 +8852,6 @@ $	$	0	0	1	0
 проводил	spent	0	0	1	0
 уменьшается	reduces	0	0	1	0
 уменьшается	diminishes	0	0	1	0
-уменьшается	decreases	0	0	1	0
 счет	for account of	0	0	1	0
 счет	account	0	0	1	0
 древности	antiquity	0	0	1	0
@@ -9065,10 +8861,8 @@ $	$	0	0	1	0
 сахара	sugar	0	0	1	0
 сахара	sugar/desert sahara	0	0	1	0
 дорога	road	0	0	1	0
-дорога	way	0	0	1	0
 убийство	murder	0	0	1	0
 рассказывает	narrates	0	0	1	0
-рассказывает	tells	0	0	1	0
 рассказывает	tolds	0	0	1	0
 дороге	road	0	0	1	0
 авиация	aviation	0	0	1	0
@@ -9094,6 +8888,8 @@ $	$	0	0	1	0
 руси	rus	0	0	1	0
 руси	russia	0	0	1	0
 пользователи	users	0	0	1	0
+действовать	action	0	0	1	0
+действовать	act	0	0	1	0
 иностранные	foreign	0	0	1	0
 д	d.	0	0	1	0
 д	dr.	0	0	1	0
@@ -9109,7 +8905,9 @@ $	$	0	0	1	0
 пользователя	user	0	0	1	0
 пользователя	users	0	0	1	0
 пользователю	user	0	0	1	0
-господа	god	0	0	1	0
+машин	cars	0	0	1	0
+машин	vehicles	0	0	1	0
+машин	machines	0	0	1	0
 иностранных	foreign	0	0	1	0
 сайты	sites	0	0	1	0
 рукописи	manuscripts	0	0	1	0
@@ -9187,7 +8985,6 @@ $	$	0	0	1	0
 излучения	radiation	0	0	1	0
 определённым	certain	0	0	1	0
 определённым	some	0	0	1	0
-отказаться	abandon	0	0	1	0
 отказаться	deny	0	0	1	0
 определённый	certain	0	0	1	0
 пер	translation	0	0	1	0
@@ -9204,7 +9001,6 @@ $	$	0	0	1	0
 закону	law	0	0	1	0
 закону	legislation	0	0	1	0
 образца	sample	0	0	1	0
-образца	type	0	0	1	0
 энциклопедия	encyclopedia	0	0	1	0
 образцу	sample	0	0	1	0
 образцу	model	0	0	1	0
@@ -9234,7 +9030,8 @@ $	$	0	0	1	0
 трафика	of traffic	0	0	1	0
 трафика	traffic	0	0	1	0
 глаголов	verbs	0	0	1	0
-расстояния	distance	0	0	1	0
+ведётся	taking place a discution	0	0	1	0
+ведётся	is underway	0	0	1	0
 иили	and or	0	0	1	0
 иили	and/or	0	0	1	0
 заняли	occupied	0	0	1	0
@@ -9318,14 +9115,13 @@ $	$	0	0	1	0
 дистрибутив	software	0	0	1	0
 поиск	search	0	0	1	0
 штатах	states	0	0	1	0
-казанского	kazan	0	0	1	0
+сельскохозяйственной	agricultural	0	0	1	0
 после	after	0	0	1	0
 господь	lord	0	0	1	0
 господь	god	0	0	1	0
 испытания	trials	0	0	1	0
 испытания	testing	0	0	1	0
 лучшую	best	0	0	1	0
-пределах	within	0	0	1	0
 пределах	limits	0	0	1	0
 воинские	military	0	0	1	0
 крепость	fortress	0	0	1	0
@@ -9350,11 +9146,9 @@ $	$	0	0	1	0
 предшественник	predecessor	0	0	1	0
 предшественник	precursor	0	0	1	0
 крепости	fortress	0	0	1	0
-действовать	action	0	0	1	0
-действовать	act	0	0	1	0
-машин	cars	0	0	1	0
-машин	vehicles	0	0	1	0
-машин	machines	0	0	1	0
+допускает	admits	0	0	1	0
+допускает	accept	0	0	1	0
+господа	god	0	0	1	0
 топливо	fuel	0	0	1	0
 бург	burg	1	1	0	0
 испытаний	test	0	0	1	0
@@ -9369,7 +9163,6 @@ $	$	0	0	1	0
 основал	founded the	0	0	1	0
 казни	execution	0	0	1	0
 сербия	serbia	0	0	1	0
-сербия	serbya	0	0	1	0
 основан	founded	0	0	1	0
 основан	based	0	0	1	0
 особенности	specifics	0	0	1	0
@@ -9378,7 +9171,8 @@ $	$	0	0	1	0
 ископаемых	fossils	0	0	1	0
 ископаемых	resources	0	0	1	0
 знати	aristocracy	0	0	1	0
-улучшение	improvement	0	0	1	0
+сетевых	net	0	0	1	0
+сетевых	network	0	0	1	0
 давал	gave	0	0	1	0
 генезис	classic	1	0	1	0
 генезис	genesis	1	1	0	0
@@ -9431,8 +9225,8 @@ $	$	0	0	1	0
 словах	words	0	0	1	0
 давно	long	0	0	1	0
 давно	long since	0	0	1	0
-она	it	0	0	1	0
 она	she	0	0	1	0
+она	it	0	0	1	0
 оно	it	0	0	1	0
 саудовской	saudi	0	0	1	0
 бластомер		1	0	1	0
@@ -9487,14 +9281,14 @@ $	$	0	0	1	0
 человеческого	human	0	0	1	0
 фонтан	fountain	0	0	1	0
 произносится	pronounced	0	0	1	0
-всемирного	world	0	0	1	0
+категорияфильмы	category films	0	0	1	0
+категорияфильмы	category of films	0	0	1	0
 названия	titles	0	0	1	0
 названия	name	0	0	1	0
 временные	temporary	0	0	1	0
 научные	scientific	0	0	1	0
 материалы	materials	0	0	1	0
 женская	female	0	0	1	0
-женская	women	0	0	1	0
 живёт	lives	0	0	1	0
 научный	science	0	0	1	0
 научный	scientific	0	0	1	0
@@ -9511,7 +9305,6 @@ $	$	0	0	1	0
 поколений	generation	0	0	1	0
 поколений	generations	0	0	1	0
 районов	regions	0	0	1	0
-районов	districts	0	0	1	0
 чёрных	black	0	0	1	0
 чёрных	ferrous	0	0	1	0
 сюжета	plot	0	0	1	0
@@ -9553,7 +9346,6 @@ $	$	0	0	1	0
 экономики	economics	0	0	1	0
 экономики	economy	0	0	1	0
 объявлен	declared	0	0	1	0
-границу	border	0	0	1	0
 границу	frontier	0	0	1	0
 наступает	becomes	0	0	1	0
 наступает	approaches	0	0	1	0
@@ -9574,7 +9366,6 @@ $	$	0	0	1	0
 занимались	busy	0	0	1	0
 занимались	do	0	0	1	0
 составили	put up	0	0	1	0
-составили	were	0	0	1	0
 чёрные	black	0	0	1	0
 составило	formed	0	0	1	0
 составило	was	0	0	1	0
@@ -9590,7 +9381,6 @@ $	$	0	0	1	0
 чёрный	black	0	0	1	0
 тц	tv center	0	0	1	0
 ×	x	0	0	1	0
-утверждается	confirmed	0	0	1	0
 утверждается	affirms	0	0	1	0
 способами	ways	0	0	1	0
 ты	you	0	0	1	0
@@ -9620,6 +9410,7 @@ $	$	0	0	1	0
 осуществляют	execute	0	0	1	0
 осуществляют	exercise	0	0	1	0
 женской	female	0	0	1	0
+большой	large	0	0	1	0
 групп	groups	0	0	1	0
 бронзовый	bronze	0	0	1	0
 магнитное	magnetic	0	0	1	0
@@ -9640,7 +9431,6 @@ $	$	0	0	1	0
 тд	etc.	0	0	1	0
 те	those	0	0	1	0
 екатеринбурга	yekaterinburg	0	0	1	0
-та	same	0	0	1	0
 та	that	0	0	1	0
 тв	tv	0	0	1	0
 сведениям	information	0	0	1	0
@@ -9701,13 +9491,12 @@ $	$	0	0	1	0
 самым	the most	0	0	1	0
 самым	the very	0	0	1	0
 теле	body	0	0	1	0
-теле	tv	0	0	1	0
 самые	most	0	0	1	0
 моделирования	modeling	0	0	1	0
 саентологии	scientology	0	0	1	0
 обстоятельств	circumstances	0	0	1	0
 недавнего	recent	0	0	1	0
-показать	show	0	0	1	0
+члена	member	0	0	1	0
 реакцию	reaction	0	0	1	0
 реакция	reaction	0	0	1	0
 франк	frank	0	0	1	0
@@ -9734,7 +9523,6 @@ $	$	0	0	1	0
 продолжала	continued	0	0	1	0
 продолжала	remained	0	0	1	0
 вторжения	invasion	0	0	1	0
-равны	is	0	0	1	0
 равны	equal	0	0	1	0
 равны	equals	0	0	1	0
 предполагает	means well	0	0	1	0
@@ -9756,8 +9544,8 @@ $	$	0	0	1	0
 русской	russian	0	0	1	0
 матчи	matches	0	0	1	0
 русском	russian	0	0	1	0
-организации	organization	0	0	1	0
 организации	organizations	0	0	1	0
+организации	organization	0	0	1	0
 обозначают	indicate	0	0	1	0
 обозначают	mean	0	0	1	0
 белые	white	0	0	1	0
@@ -9767,7 +9555,6 @@ $	$	0	0	1	0
 белым	white	0	0	1	0
 информационный	informational	0	0	1	0
 белый	white	0	0	1	0
-сетью	web	0	0	1	0
 сетью	network	0	0	1	0
 ещё	still	0	0	1	0
 ещё	more	0	0	1	0
@@ -9777,7 +9564,6 @@ $	$	0	0	1	0
 начальной	initial	0	0	1	0
 начальной	starting	0	0	1	0
 временное	temporary	0	0	1	0
-временное	provisional	0	0	1	0
 чиновников	officials	0	0	1	0
 жена	wife	0	0	1	0
 одними	some	0	0	1	0
@@ -9827,10 +9613,9 @@ $	$	0	0	1	0
 наблюдать	observe	0	0	1	0
 наблюдать	supervise	0	0	1	0
 играх	games	0	0	1	0
-категорияфильмы	category films	0	0	1	0
-категорияфильмы	category of films	0	0	1	0
-традиции	tradition	0	0	1	0
+всемирного	world	0	0	1	0
 традиции	traditions	0	0	1	0
+традиции	tradition	0	0	1	0
 ухода	care	0	0	1	0
 ухода	departure	0	0	1	0
 ухода	withdrawal	0	0	1	0
@@ -9892,8 +9677,8 @@ $	$	0	0	1	0
 царю	king	0	0	1	0
 царю	tsar	0	0	1	0
 царю	czar	0	0	1	0
-царя	tsar	0	0	1	0
-царя	tzar	0	0	1	0
+написан	written	0	0	1	0
+написан	wrote	0	0	1	0
 царь	tsar	0	0	1	0
 рыбы	fishes	0	0	1	0
 рыбы	fish	0	0	1	0
@@ -9916,8 +9701,8 @@ $	$	0	0	1	0
 принадлежность	belonging	0	0	1	0
 принадлежность	background	0	0	1	0
 характерны	characteristic	0	0	1	0
-характерны	characteristic of	0	0	1	0
 характерны	typical	0	0	1	0
+характерны	characteristic of	0	0	1	0
 миллиона	million	0	0	1	0
 подобно	like	0	0	1	0
 перечень	list	0	0	1	0
@@ -9925,7 +9710,6 @@ $	$	0	0	1	0
 ельцина	yeltzin	0	0	1	0
 ельцина	yeltsin	0	0	1	0
 крупнейшей	great	0	0	1	0
-крупнейшей	the largest	0	0	1	0
 крупнейшей	largest	0	0	1	0
 желанию	wish	0	0	1	0
 желания	wish	0	0	1	0
@@ -10013,7 +9797,6 @@ $	$	0	0	1	0
 ленинградской	leningrad (adj)	0	0	1	0
 польская	polish	0	0	1	0
 воинской	military	0	0	1	0
-имела	has	0	0	1	0
 имела	had	0	0	1	0
 производит	produces	0	0	1	0
 имело	had	0	0	1	0
@@ -10036,7 +9819,6 @@ $	$	0	0	1	0
 крымской	crimean	0	0	1	0
 военные	military	0	0	1	0
 разделы	partition	0	0	1	0
-разделы	parts	0	0	1	0
 разделы	categories	0	0	1	0
 военный	military	0	0	1	0
 военным	military	0	0	1	0
@@ -10070,7 +9852,6 @@ $	$	0	0	1	0
 мышцы	muscle	0	0	1	0
 этика	ethics	0	0	1	0
 постановлением	resolution	0	0	1	0
-ряду	line	0	0	1	0
 ряду	row	0	0	1	0
 пифагора	pythagoras	0	0	1	0
 кпсс	kpsu	0	0	1	0
@@ -10088,8 +9869,8 @@ $	$	0	0	1	0
 лаборатории	laboratory	0	0	1	0
 законодательная	legislative	0	0	1	0
 обновления	update	0	0	1	0
-железнодорожные	railway	0	0	1	0
 железнодорожные	railroad	0	0	1	0
+железнодорожные	railway	0	0	1	0
 заменить	replace	0	0	1	0
 железнодорожный	railway	0	0	1	0
 железнодорожный	railroad	0	0	1	0
@@ -10113,7 +9894,6 @@ $	$	0	0	1	0
 изображены	shown	0	0	1	0
 изображены	pictured	0	0	1	0
 республика	republic	0	0	1	0
-республика	reublic	0	0	1	0
 республике	republic	0	0	1	0
 бедности	poverty	0	0	1	0
 отрицает	denies	0	0	1	0
@@ -10151,7 +9931,6 @@ $	$	0	0	1	0
 произошли	occurred	0	0	1	0
 половой	sexual	0	0	1	0
 жителей	residents	0	0	1	0
-жителей	esident	0	0	1	0
 севастополя	sevastopol	0	0	1	0
 произошла	took place	0	0	1	0
 произошла	happened	0	0	1	0
@@ -10226,9 +10005,7 @@ $	$	0	0	1	0
 сфере	area	0	0	1	0
 планете	planet	0	0	1	0
 сфера	sphere	0	0	1	0
-внутренняя	inland	0	0	1	0
 внутренняя	internal	0	0	1	0
-внутренняя	domestic	0	0	1	0
 ночь	night	0	0	1	0
 опыта	experience	0	0	1	0
 задачи	assignments	0	0	1	0
@@ -10253,7 +10030,6 @@ $	$	0	0	1	0
 заслуженный	merited	0	0	1	0
 союзом	union	0	0	1	0
 скандал	scandal	0	0	1	0
-изучением	study	0	0	1	0
 изучением	research	0	0	1	0
 планеты	planet	0	0	1	0
 толстого	tolstoy	0	0	1	0
@@ -10268,9 +10044,8 @@ $	$	0	0	1	0
 сюжету	plot	0	0	1	0
 сюжету	subject	0	0	1	0
 могла	could	0	0	1	0
-проведение	carrying out	0	0	1	0
-проведение	execution	0	0	1	0
-проведение	provision	0	0	1	0
+образом	mode	0	0	1	0
+образом	way	0	0	1	0
 николаем	nicolay or nicolas	0	0	1	0
 николаем	nicolai	0	0	1	0
 побережье	coast	0	0	1	0
@@ -10293,7 +10068,6 @@ $	$	0	0	1	0
 читать	to read	0	0	1	0
 метода	method	0	0	1	0
 квартира	apartment	0	0	1	0
-квартира	appartment	0	0	1	0
 квартире	apartment	0	0	1	0
 широких	wide	0	0	1	0
 когда	when	0	0	1	0
@@ -10379,7 +10153,6 @@ $	$	0	0	1	0
 изменилась	changed	0	0	1	0
 изменилась	was changed	0	0	1	0
 возможностей	opportunities	0	0	1	0
-возможностей	capabilities	0	0	1	0
 представлены	represented	0	0	1	0
 представлены	are	0	0	1	0
 корабля	ship	0	0	1	0
@@ -10428,7 +10201,6 @@ $	$	0	0	1	0
 народы	nation	0	0	1	0
 народы	nations	0	0	1	0
 статьи	article	0	0	1	0
-расходы	expenditures	0	0	1	0
 расходы	costs	0	0	1	0
 государственный	state	0	0	1	0
 рабочей	work	0	0	1	0
@@ -10516,7 +10288,6 @@ $	$	0	0	1	0
 заключается	consists	0	0	1	0
 заключается	is	0	0	1	0
 западная	western	0	0	1	0
-ударные	impact	0	0	1	0
 ударные	attack	0	0	1	0
 ударные	percussive	0	0	1	0
 суммы	amounts	0	0	1	0
@@ -10532,7 +10303,8 @@ $	$	0	0	1	0
 азию	asia	0	0	1	0
 искусству	art	0	0	1	0
 редактор	editor	0	0	1	0
-фауна	fauna	0	0	1	0
+указывает	indicates	0	0	1	0
+указывает	points to	0	0	1	0
 прибыл	come	0	0	1	0
 прибыл	beat up	0	0	1	0
 искусства	art	0	0	1	0
@@ -10542,8 +10314,6 @@ $	$	0	0	1	0
 распространение	spreading	0	0	1	0
 государственное	state	0	0	1	0
 оба	both	0	0	1	0
-сериала	tv series	0	0	1	0
-сериала	series	0	0	1	0
 сериала	serial	0	0	1	0
 комиссар	commissar	0	0	1	0
 обе	both	0	0	1	0
@@ -10553,8 +10323,8 @@ $	$	0	0	1	0
 мачта	mast	1	1	0	0
 государственной	state	0	0	1	0
 государственного	state	0	0	1	0
-сумме	sum	0	0	1	0
 сумме	amount	0	0	1	0
+сумме	sum	0	0	1	0
 сумма	amount	0	0	1	0
 сумма	sum	0	0	1	0
 легко	easy	0	0	1	0
@@ -10584,8 +10354,6 @@ $	$	0	0	1	0
 изменение	change	0	0	1	0
 подразделений	units	0	0	1	0
 подразделений	divisions	0	0	1	0
-подразделений	subdivision	0	0	1	0
-подразделений	sub-unit	0	0	1	0
 елизавета	elizabeth	0	0	1	0
 сетчатокрылые	lacewings	1	0	1	0
 сетчатокрылые	normal	1	0	1	0
@@ -10604,7 +10372,6 @@ $	$	0	0	1	0
 другими	other	0	0	1	0
 православных	orthodox	0	0	1	0
 подобная	similar	0	0	1	0
-подобная	like	0	0	1	0
 мировом	world	0	0	1	0
 веществ	substances	0	0	1	0
 государствах	states	0	0	1	0
@@ -10615,8 +10382,8 @@ $	$	0	0	1	0
 лечение	treatment	0	0	1	0
 работать	work	0	0	1	0
 выступают	perform	0	0	1	0
-выступают	stand for	0	0	1	0
 выступают	come	0	0	1	0
+выступают	stand for	0	0	1	0
 лечении	treatment	0	0	1	0
 попадает	thrown	0	0	1	0
 попадает	gets	0	0	1	0
@@ -10650,7 +10417,7 @@ $	$	0	0	1	0
 изображением	by an  image	0	0	1	0
 институте	institute	0	0	1	0
 институте	university	0	0	1	0
-института	institute	0	0	1	0
+учёных	scientists	0	0	1	0
 парки	parks	0	0	1	0
 знаменитых	well-known	0	0	1	0
 знаменитых	famous	0	0	1	0
@@ -10659,8 +10426,6 @@ $	$	0	0	1	0
 парка	park	0	0	1	0
 парке	park	0	0	1	0
 резкий	sharp	0	0	1	0
-резкий	sudden	0	0	1	0
-резкий	steep	0	0	1	0
 ресурсов	resources	0	0	1	0
 значительной	significant	0	0	1	0
 писатели	writers	0	0	1	0
@@ -10705,8 +10470,6 @@ $	$	0	0	1	0
 институты	institutes	0	0	1	0
 боевых	militant	0	0	1	0
 боевых	combat	0	0	1	0
-преимущественно	mainly	0	0	1	0
-преимущественно	mostly	0	0	1	0
 форум	forum	0	0	1	0
 учился	learned	0	0	1	0
 учился	studied	0	0	1	0
@@ -10715,7 +10478,9 @@ $	$	0	0	1	0
 теоремы	theorem	0	0	1	0
 теоремы	theories	0	0	1	0
 христианской	christian	0	0	1	0
-врага	enemy	0	0	1	0
+длительного	long-term	0	0	1	0
+длительного	lengthy	0	0	1	0
+длительного	prolonged	0	0	1	0
 половину	half	0	0	1	0
 калифорния	california	0	0	1	0
 половины	half of	0	0	1	0
@@ -10723,10 +10488,11 @@ $	$	0	0	1	0
 партнера	partner	0	0	1	0
 средневековье	middle ages	0	0	1	0
 наркотиков	drugs	0	0	1	0
-наркотиков	drug	0	0	1	0
 наркотиков	narcotics	0	0	1	0
 подписал	has signed	0	0	1	0
 подписал	signed	0	0	1	0
+гражданское	civil	0	0	1	0
+гражданское	civilian	0	0	1	0
 хотели	wanted	0	0	1	0
 средневековья	the middle ages	0	0	1	0
 средневековья	middle ages	0	0	1	0
@@ -10745,9 +10511,7 @@ $	$	0	0	1	0
 возрастает	grows	0	0	1	0
 калифорнии	california	0	0	1	0
 прямого	dicrect	0	0	1	0
-прямого	direct	0	0	1	0
 струн	strings	0	0	1	0
-струн	string	0	0	1	0
 саентология	scientology	0	0	1	0
 правильно	correct	0	0	1	0
 правильно	correctly	0	0	1	0
@@ -10795,7 +10559,6 @@ $	$	0	0	1	0
 да	hey	0	0	1	0
 постоянная	permanent	0	0	1	0
 постоянная	constant	0	0	1	0
-постоянная	regular	0	0	1	0
 ведения	carrying	0	0	1	0
 ведения	conduct	0	0	1	0
 даосизма	daosism	0	0	1	0
@@ -10825,6 +10588,7 @@ $	$	0	0	1	0
 солнце	sun	0	0	1	0
 устройства	device	0	0	1	0
 устройства	arrangement	0	0	1	0
+показать	show	0	0	1	0
 отличить	distinguish	0	0	1	0
 отличить	differ	0	0	1	0
 настоящему	present	0	0	1	0
@@ -10839,9 +10603,7 @@ $	$	0	0	1	0
 новый	new	0	0	1	0
 путем	way	0	0	1	0
 принятие	taking	0	0	1	0
-принятие	acceptance	0	0	1	0
 принятие	adoption	0	0	1	0
-делали	did	0	0	1	0
 делали	made	0	0	1	0
 сенат	senate	0	0	1	0
 сенат	sente	0	0	1	0
@@ -10907,7 +10669,6 @@ $	$	0	0	1	0
 чему	to what	0	0	1	0
 чему	that	0	0	1	0
 записей	records	0	0	1	0
-записей	notes	0	0	1	0
 имущество	property	0	0	1	0
 имущество	wealth	0	0	1	0
 имущество	assets	0	0	1	0
@@ -10954,7 +10715,6 @@ $	$	0	0	1	0
 поражением	defeat	0	0	1	0
 абсолютно	absolutely	0	0	1	0
 дальнейшей	further	0	0	1	0
-профсоюзов	trade union	0	0	1	0
 профсоюзов	trade unions	0	0	1	0
 создатели	creators	0	0	1	0
 существенно	substantially	0	0	1	0
@@ -10983,7 +10743,6 @@ $	$	0	0	1	0
 практически	practically	0	0	1	0
 открыта	have been opened	0	0	1	0
 открыта	opened	0	0	1	0
-позволяющий	allowing	0	0	1	0
 позволяющий	permissive	0	0	1	0
 относят	refer	0	0	1	0
 относят	place	0	0	1	0
@@ -11093,17 +10852,15 @@ $	$	0	0	1	0
 началось	began	0	0	1	0
 распределение	distribution	0	0	1	0
 гражданской	civil	0	0	1	0
-члена	member	0	0	1	0
 перестал	ceased	0	0	1	0
 перестал	stopped	0	0	1	0
-самара	samara	0	0	1	0
+проституция	prostitution	0	0	1	0
 звезды	star	0	0	1	0
 звезды	stars	0	0	1	0
 распределения	distribution	0	0	1	0
 состоянию	situation	0	0	1	0
 состоянию	state	0	0	1	0
 ними	them	0	0	1	0
-ними	it	0	0	1	0
 чемпионов	champions	0	0	1	0
 чемпионов	cahmpions	0	0	1	0
 роголистник	hornwort	1	0	1	0
@@ -11114,8 +10871,6 @@ $	$	0	0	1	0
 роголистник	hornworts	1	1	0	0
 роголистник	ceratophyllum demersum	1	0	1	0
 говорить	say	0	0	1	0
-говорить	talk	0	0	1	0
-говорить	speak	0	0	1	0
 обеспечения	provision	0	0	1	0
 компьютере	computer	0	0	1	0
 широкой	wide	0	0	1	0
@@ -11257,8 +11012,8 @@ $	$	0	0	1	0
 ошибочно	mistakenly	0	0	1	0
 хода	thrust	0	0	1	0
 хода	move	0	0	1	0
-ходе	course	0	0	1	0
 ходе	during	0	0	1	0
+ходе	course	0	0	1	0
 сложный	complex	0	0	1	0
 сложный	complicated	0	0	1	0
 сложный	sophisticated	0	0	1	0
@@ -11290,7 +11045,6 @@ $	$	0	0	1	0
 вошли	entered	0	0	1	0
 кубка	cup	0	0	1	0
 олимпийский	olympic	0	0	1	0
-олимпийский	olympian	0	0	1	0
 адреса	addresses	0	0	1	0
 кровь	blood	0	0	1	0
 мужскую	male	0	0	1	0
@@ -11482,7 +11236,6 @@ $	$	0	0	1	0
 вход	entrance	0	0	1	0
 центры	centers	0	0	1	0
 последней	last	0	0	1	0
-внешне	appearance	0	0	1	0
 внешне	external	0	0	1	0
 внешне	exterior	0	0	1	0
 нефти	oil	0	0	1	0
@@ -11556,7 +11309,8 @@ $	$	0	0	1	0
 исключает	excludes	0	0	1	0
 существо	being	0	0	1	0
 существо	creature	0	0	1	0
-ширина	width	0	0	1	0
+существа	beings	0	0	1	0
+существа	creature	0	0	1	0
 митрополит	metropolitan	0	0	1	0
 термины	terms	0	0	1	0
 древних	the ancient	0	0	1	0
@@ -11709,7 +11463,6 @@ $	$	0	0	1	0
 относился	fell under	0	0	1	0
 относился	attributed	0	0	1	0
 относился	related	0	0	1	0
-памятников	memorial	0	0	1	0
 памятников	monuments	0	0	1	0
 составляла	made up	0	0	1	0
 составляла	was	0	0	1	0
@@ -11777,7 +11530,7 @@ $	$	0	0	1	0
 математической	mathematical	0	0	1	0
 знает	knows	0	0	1	0
 знает	know	0	0	1	0
-собой	itself	0	0	1	0
+питания	food	0	0	1	0
 убитых	killed	0	0	1	0
 верит	trusts	0	0	1	0
 верит	believes	0	0	1	0
@@ -11794,7 +11547,6 @@ $	$	0	0	1	0
 изданиях	editions	0	0	1	0
 изданиях	publishings	0	0	1	0
 изданиях	publications	0	0	1	0
-единства	union	0	0	1	0
 единства	unity	0	0	1	0
 новыми	new	0	0	1	0
 железных	railway	0	0	1	0
@@ -11812,8 +11564,8 @@ $	$	0	0	1	0
 итальянский	italian	0	0	1	0
 зелёный	green	0	0	1	0
 раздел	section	0	0	1	0
-мтс	mts	0	0	1	0
 мтс	mtc	0	0	1	0
+мтс	mts	0	0	1	0
 актриса	actress	0	0	1	0
 официального	official	0	0	1	0
 даже	even	0	0	1	0
@@ -11907,7 +11659,6 @@ $	$	0	0	1	0
 талант	talant	0	0	1	0
 талант	talent	0	0	1	0
 сумерки	twilight	0	0	1	0
-высоту	height of	0	0	1	0
 высоту	height	0	0	1	0
 регистрации	registration	0	0	1	0
 жить	live	0	0	1	0
@@ -11920,7 +11671,6 @@ $	$	0	0	1	0
 личность	personality	0	0	1	0
 гармонии	harmony	0	0	1	0
 физике	physics	0	0	1	0
-физике	physic	0	0	1	0
 промышленные	industrial	0	0	1	0
 описывает	describes	0	0	1	0
 описывает	describe	0	0	1	0
@@ -11930,7 +11680,6 @@ $	$	0	0	1	0
 небольшую	minor	0	0	1	0
 физики	physics	0	0	1	0
 физики	physicist	0	0	1	0
-распространяются	propagated	0	0	1	0
 распространяются	spreaded	0	0	1	0
 распространяются	transmitted	0	0	1	0
 неба	sky	0	0	1	0
@@ -11961,7 +11710,6 @@ $	$	0	0	1	0
 потребность	requirement	0	0	1	0
 танцы	dances	0	0	1	0
 завершения	completion	0	0	1	0
-завершения	the ending	0	0	1	0
 материальных	material	0	0	1	0
 сырья	raw material	0	0	1	0
 греческого	greek	0	0	1	0
@@ -12002,7 +11750,6 @@ $	$	0	0	1	0
 двум	two	0	0	1	0
 струны	string	0	0	1	0
 струны	strings	0	0	1	0
-сельскохозяйственной	agricultural	0	0	1	0
 аристократии	aristocracy	0	0	1	0
 нам	we	0	0	1	0
 нам	to us	0	0	1	0
@@ -12010,7 +11757,6 @@ $	$	0	0	1	0
 актёров	actors	0	0	1	0
 компьютерных	computer	0	0	1	0
 щита	shield	0	0	1	0
-щита	shields	0	0	1	0
 закрыт	closed	0	0	1	0
 образован	formed	0	0	1	0
 югозападной	south-west	0	0	1	0
@@ -12033,7 +11779,6 @@ $	$	0	0	1	0
 двух	two	0	0	1	0
 наш	our	0	0	1	0
 компьютерные	computer	0	0	1	0
-компьютерные	computers	0	0	1	0
 происходить	happen	0	0	1	0
 происходить	occur	0	0	1	0
 оказываются	find themselves	0	0	1	0
@@ -12057,8 +11802,7 @@ $	$	0	0	1	0
 ученик	student	0	0	1	0
 ленин	lenin	0	0	1	0
 учение	teaching	0	0	1	0
-размерам	dimensions	0	0	1	0
-размерам	size	0	0	1	0
+золото	gold	0	0	1	0
 мёртвых	dead	0	0	1	0
 обмотки	winding	0	0	1	0
 обмотки	contour	0	0	1	0
@@ -12067,7 +11811,6 @@ $	$	0	0	1	0
 уфа	ufa	0	0	1	0
 социального	social	0	0	1	0
 владимир	vladimir	0	0	1	0
-владимир	vladimyr	0	0	1	0
 частиц	particles	0	0	1	0
 мама	mom	0	0	1	0
 мама	mother	0	0	1	0
@@ -12078,10 +11821,8 @@ $	$	0	0	1	0
 несмотря	despite	0	0	1	0
 кем	whom	0	0	1	0
 кем	what is	0	0	1	0
-целые	entire	0	0	1	0
-целые	intact	0	0	1	0
-целые	whole	0	0	1	0
 целые	full	0	0	1	0
+целые	whole	0	0	1	0
 боёв	fights	0	0	1	0
 боёв	battles	0	0	1	0
 сильных	strong	0	0	1	0
@@ -12092,7 +11833,6 @@ $	$	0	0	1	0
 профессиональных	professional	0	0	1	0
 сильным	strong	0	0	1	0
 сильным	vigorous	0	0	1	0
-выбор	selection	0	0	1	0
 выбор	choice	0	0	1	0
 момент	moment	0	0	1	0
 четверти	quarter	0	0	1	0
@@ -12116,7 +11856,6 @@ $	$	0	0	1	0
 пространство	space	0	0	1	0
 контроль	control	0	0	1	0
 цк	c.c.	0	0	1	0
-цк	cc	0	0	1	0
 цк	central committee	0	0	1	0
 низкая	lowest	0	0	1	0
 низкая	low	0	0	1	0
@@ -12128,7 +11867,6 @@ $	$	0	0	1	0
 московского	moscow	0	0	1	0
 колледж	college	0	0	1	0
 советскими	soviet	0	0	1	0
-францией	french	0	0	1	0
 францией	france	0	0	1	0
 долгое	long	0	0	1	0
 сезоне	season	0	0	1	0
@@ -12136,7 +11874,6 @@ $	$	0	0	1	0
 китаем	china	0	0	1	0
 церквей	churches	0	0	1	0
 сможет	will can	0	0	1	0
-сможет	could	0	0	1	0
 правами	rights	0	0	1	0
 джонни	johny	0	0	1	0
 джонни	johnny	0	0	1	0
@@ -12156,9 +11893,7 @@ $	$	0	0	1	0
 гравитационное	gravitational	0	0	1	0
 мощностью	facilities	0	0	1	0
 мощностью	capacity	0	0	1	0
-мощностью	power	0	0	1	0
 родителями	parents	0	0	1	0
-ликвидации	elimination	0	0	1	0
 слова	word	0	0	1	0
 героина	heroin	0	0	1	0
 активный	active	0	0	1	0
@@ -12199,7 +11934,6 @@ $	$	0	0	1	0
 пирамид	pyramid	0	0	1	0
 пирамид	pyramids	0	0	1	0
 разрыва	break	0	0	1	0
-разрыва	rupture	0	0	1	0
 низкие	low	0	0	1	0
 западу	west	0	0	1	0
 болельщиков	fans	0	0	1	0
@@ -12239,7 +11973,6 @@ $	$	0	0	1	0
 лодки	submarines	0	0	1	0
 низких	low	0	0	1	0
 центральная	central	0	0	1	0
-европой	europe	0	0	1	0
 европой	europa	0	0	1	0
 возглавил	headed	0	0	1	0
 терапия	therapy	0	0	1	0
@@ -12258,7 +11991,6 @@ $	$	0	0	1	0
 ставка	bet	0	0	1	0
 вдоль	along	0	0	1	0
 вокзал	station	0	0	1	0
-вокзал	railway station	0	0	1	0
 люблю	love	0	0	1	0
 люблю	like	0	0	1	0
 сцен	scenes	0	0	1	0
@@ -12281,7 +12013,6 @@ $	$	0	0	1	0
 местными	local	0	0	1	0
 завет	testament	0	0	1	0
 сотрудники	employee	0	0	1	0
-сотрудники	employees	0	0	1	0
 ассоциация	association	0	0	1	0
 голосование	vote	0	0	1	0
 голосование	voting	0	0	1	0
@@ -12295,6 +12026,8 @@ $	$	0	0	1	0
 этнические	ethnic	0	0	1	0
 временем	time	0	0	1	0
 сэм	sam	0	0	1	0
+царя	tsar	0	0	1	0
+царя	tzar	0	0	1	0
 середина	middle	0	0	1	0
 середина	center	0	0	1	0
 неоднократно	repeatedly	0	0	1	0
@@ -12360,7 +12093,6 @@ $	$	0	0	1	0
 взгляд	view	0	0	1	0
 правительством	government	0	0	1	0
 византийской	byzantine	0	0	1	0
-византийской	visantian	0	0	1	0
 сложность	complexity	0	0	1	0
 величества	majesty	0	0	1	0
 метафизика	metaphysics	0	0	1	0
@@ -12388,7 +12120,6 @@ $	$	0	0	1	0
 эйнштейна	einstein	0	0	1	0
 андреевича	andreevich	0	0	1	0
 ярославль	yaroslavl	0	0	1	0
-смертность	mortality rate	0	0	1	0
 смертность	mortality	0	0	1	0
 бульвар	boulevard	0	0	1	0
 участия	involvement	0	0	1	0
@@ -12426,7 +12157,6 @@ $	$	0	0	1	0
 воспользоваться	use	0	0	1	0
 воспользоваться	take advantage	0	0	1	0
 разделить	divide	0	0	1	0
-компоненты	componets	0	0	1	0
 компоненты	components	0	0	1	0
 детских	childish	0	0	1	0
 детских	children	0	0	1	0
@@ -12489,12 +12219,11 @@ $	$	0	0	1	0
 прийти	to come	0	0	1	0
 прийти	come	0	0	1	0
 прийти	coming	0	0	1	0
-гражданское	civil	0	0	1	0
-гражданское	civilian	0	0	1	0
+записи	record	0	0	1	0
+записи	account	0	0	1	0
 памятник	memorial	0	0	1	0
 памятник	monument	0	0	1	0
 шон	sean	0	0	1	0
-шон	shon	0	0	1	0
 масштаба	scale	0	0	1	0
 понедельник	monday	0	0	1	0
 прибыли	profit	0	0	1	0
@@ -12507,7 +12236,6 @@ $	$	0	0	1	0
 территория	area	0	0	1	0
 севера	north	0	0	1	0
 шаги	steps	0	0	1	0
-севере	(on the) notrth	0	0	1	0
 севере	south	0	0	1	0
 генералмайор	major general	0	0	1	0
 генералмайор	generalmayor	0	0	1	0
@@ -12516,7 +12244,6 @@ $	$	0	0	1	0
 имеющий	having	0	0	1	0
 имеющий	wealthy	0	0	1	0
 фракции	fraction	0	0	1	0
-отметил	noted	0	0	1	0
 отметил	noticed	0	0	1	0
 имеющим	possessing	0	0	1	0
 имеющим	which have	0	0	1	0
@@ -12645,9 +12372,7 @@ $	$	0	0	1	0
 средним	average	0	0	1	0
 олега	oleg	0	0	1	0
 крыма	crimea	0	0	1	0
-крыма	krymia	0	0	1	0
 также	also	0	0	1	0
-смертности	death rate	0	0	1	0
 смертности	mortality	0	0	1	0
 низкой	low	0	0	1	0
 шириной	width	0	0	1	0
@@ -12715,12 +12440,9 @@ $	$	0	0	1	0
 карта	map	0	0	1	0
 карта	cart	0	0	1	0
 карте	map	0	0	1	0
-открывает	open	0	0	1	0
 открывает	discovers	0	0	1	0
-открывает	discover	0	0	1	0
 формат	format	0	0	1	0
 формах	forms	0	0	1	0
-ввиду	because of	0	0	1	0
 ввиду	in view	0	0	1	0
 исполнители	singers	0	0	1	0
 исполнители	performers	0	0	1	0
@@ -12756,7 +12478,6 @@ $	$	0	0	1	0
 посвящённая	dedicated	0	0	1	0
 среднее	average	0	0	1	0
 виды	kinds	0	0	1	0
-виды	kinds of	0	0	1	0
 виды	species	0	0	1	0
 средней	average	0	0	1	0
 средней	central	0	0	1	0
@@ -12961,7 +12682,6 @@ $	$	0	0	1	0
 стратегических	strategical	0	0	1	0
 стратегических	strategic	0	0	1	0
 электроники	electronics	0	0	1	0
-электроники	electronic	0	0	1	0
 практической	practical	0	0	1	0
 буфер	buffer	1	1	0	0
 буфер	course	1	0	1	0
@@ -13005,7 +12725,6 @@ $	$	0	0	1	0
 общим	general	0	0	1	0
 изучения	study	0	0	1	0
 изучения	research	0	0	1	0
-изучению	studied	0	0	1	0
 изучению	research	0	0	1	0
 порта	port	0	0	1	0
 родилась	was born	0	0	1	0
@@ -13113,7 +12832,6 @@ $	$	0	0	1	0
 полномочиями	authority	0	0	1	0
 полномочиями	mandate	0	0	1	0
 показаны	showed	0	0	1	0
-показаны	presented	0	0	1	0
 показатель	characteristic	0	0	1	0
 показатель	indicator	0	0	1	0
 христианства	christianity	0	0	1	0
@@ -13178,7 +12896,6 @@ $	$	0	0	1	0
 способы	ways	0	0	1	0
 способы	methodologies	0	0	1	0
 способы	methods	0	0	1	0
-одном	standing	0	0	1	0
 одном	one	0	0	1	0
 премий	awards	0	0	1	0
 недавно	recently	0	0	1	0
@@ -13249,10 +12966,7 @@ $	$	0	0	1	0
 король	king	0	0	1	0
 короля	king	0	0	1	0
 королю	king	0	0	1	0
-отправился	go	0	0	1	0
-отправился	leave for	0	0	1	0
 отправился	went	0	0	1	0
-отправился	depart	0	0	1	0
 отправился	left	0	0	1	0
 каком	what	0	0	1	0
 каком	which	0	0	1	0
@@ -13265,7 +12979,6 @@ $	$	0	0	1	0
 какое	which	0	0	1	0
 единого	unified	0	0	1	0
 единого	single	0	0	1	0
-единого	united	0	0	1	0
 выпущен	released	0	0	1	0
 заново	again	0	0	1	0
 заново	anew	0	0	1	0
@@ -13386,7 +13099,6 @@ $	$	0	0	1	0
 лодок	submarines	0	0	1	0
 популярная	popular	0	0	1	0
 тираж	edition	0	0	1	0
-тираж	circulation	0	0	1	0
 был	was	0	0	1	0
 губы	lips	0	0	1	0
 стремится	tries	0	0	1	0
@@ -13453,15 +13165,13 @@ $	$	0	0	1	0
 купол	chile	1	0	1	0
 иерусалим	jerusalem	0	0	1	0
 землетрясения	earthquake	0	0	1	0
-землетрясения	earthquakes	0	0	1	0
 ричард	richard	0	0	1	0
 фильмов	films	0	0	1	0
 фильмов	movies	0	0	1	0
 книгах	books	0	0	1	0
 океана	ocean	0	0	1	0
 московское	moscow	0	0	1	0
-московской	moscow	0	0	1	0
-московской	moscow's	0	0	1	0
+современности	modernity	0	0	1	0
 московском	moscow	0	0	1	0
 финансовых	financial	0	0	1	0
 тэйлор	taylor	0	0	1	0
@@ -13517,7 +13227,6 @@ $	$	0	0	1	0
 словом	mectax	0	0	1	0
 съёмок	filming	0	0	1	0
 съёмок	shooting	0	0	1	0
-съёмок	survey	0	0	1	0
 частицы	particles	0	0	1	0
 экономическое	economic	0	0	1	0
 экономическое	economical	0	0	1	0
@@ -13591,7 +13300,6 @@ $	$	0	0	1	0
 угля	coal	0	0	1	0
 пациент	patient	0	0	1	0
 углу	corner	0	0	1	0
-достичь	achive	0	0	1	0
 достичь	reach	0	0	1	0
 карьера	career	0	0	1	0
 волков	wolves	0	0	1	0
@@ -13621,7 +13329,6 @@ $	$	0	0	1	0
 футбол	football	0	0	1	0
 литвы	lithuania	0	0	1	0
 георгия	george	0	0	1	0
-георгия	georg	0	0	1	0
 возле	near	0	0	1	0
 достигло	reached	0	0	1	0
 достигли	reached	0	0	1	0
@@ -13679,7 +13386,6 @@ $	$	0	0	1	0
 спартака	spartacus	0	0	1	0
 спартака	spartak	0	0	1	0
 ничего	nothing	0	0	1	0
-ничего	do not need	0	0	1	0
 интеллект	intelligence	0	0	1	0
 вести	lead	0	0	1	0
 вести	conduct	0	0	1	0
@@ -13845,7 +13551,6 @@ $	$	0	0	1	0
 глаз	eye	0	0	1	0
 глав	head	0	0	1	0
 глав	heads	0	0	1	0
-учреждения	agencies	0	0	1	0
 учреждения	institution	0	0	1	0
 ряда	set	0	0	1	0
 ряда	number	0	0	1	0
@@ -13853,7 +13558,6 @@ $	$	0	0	1	0
 дыр	holes	0	0	1	0
 скопления	clusters	0	0	1	0
 скопления	accumulations	0	0	1	0
-скопления	congestion	0	0	1	0
 фрейда	freud	0	0	1	0
 степан	stepan	0	0	1	0
 уилмингтон	uilminpon	1	0	1	0
@@ -13882,7 +13586,6 @@ $	$	0	0	1	0
 ноябре	november	0	0	1	0
 реабилитации	rehabilitation	0	0	1	0
 числа	number	0	0	1	0
-числа	numbers	0	0	1	0
 семейство	family	0	0	1	0
 немецким	german	0	0	1	0
 просмотр	watching	0	0	1	0
@@ -13953,7 +13656,6 @@ $	$	0	0	1	0
 наполеона	napoleon's	0	0	1	0
 наполеона	napoleon	0	0	1	0
 характеристика	characteristics	0	0	1	0
-характеристика	�&#65533; не знаю	0	0	1	0
 николаевича	nikolaevich	0	0	1	0
 причем	and	0	0	1	0
 финансирования	financing	0	0	1	0
@@ -13985,7 +13687,6 @@ $	$	0	0	1	0
 гонконге	hong kong	0	0	1	0
 гонконга	hong kong	0	0	1	0
 воспоминаниям	memories	0	0	1	0
-воспоминаниям	memory	0	0	1	0
 служащих	employees	0	0	1	0
 обращаются	manage	0	0	1	0
 обращаются	apply	0	0	1	0
@@ -14089,8 +13790,8 @@ $	$	0	0	1	0
 леон	leone	1	0	1	0
 леон	leon	1	1	0	0
 леон	strata	1	0	1	0
-городская	city	0	0	1	0
 городская	urban	0	0	1	0
+городская	city	0	0	1	0
 доказательства	evidences	0	0	1	0
 социальными	social	0	0	1	0
 дисфория	dysphoria	1	1	0	0
@@ -14205,12 +13906,13 @@ $	$	0	0	1	0
 поездки	travel	0	0	1	0
 поездки	journey	0	0	1	0
 поездки	trip	0	0	1	0
-наземных	ground	0	0	1	0
+белоруссии	belorussia	0	0	1	0
+белоруссии	belarus	0	0	1	0
+белоруссии	belarusssia	0	0	1	0
 республик	republic	0	0	1	0
 республик	republics	0	0	1	0
 разговор	conversation	0	0	1	0
 разговор	discussion	0	0	1	0
-разговор	speech	0	0	1	0
 московских	moscow	0	0	1	0
 московских	moscovite	0	0	1	0
 приведены	brought	0	0	1	0
@@ -14231,7 +13933,6 @@ $	$	0	0	1	0
 защищает	gurds	0	0	1	0
 защищает	protects	0	0	1	0
 скоро	soon	0	0	1	0
-застройка	development	0	0	1	0
 застройка	building	0	0	1	0
 классов	classes	0	0	1	0
 саратовский	saratov	0	0	1	0
@@ -14268,7 +13969,6 @@ $	$	0	0	1	0
 почты	mail	0	0	1	0
 волгоград	volgograd	0	0	1	0
 вид	look	0	0	1	0
-вид	view	0	0	1	0
 попасть	hit	0	0	1	0
 попасть	get	0	0	1	0
 почти	almost	0	0	1	0
@@ -14287,7 +13987,6 @@ $	$	0	0	1	0
 небольшая	small	0	0	1	0
 численности	number	0	0	1	0
 численности	quantity	0	0	1	0
-увеличивает	increase	0	0	1	0
 увеличивает	increases	0	0	1	0
 правителя	leader	0	0	1	0
 правителя	governor	0	0	1	0
@@ -14306,7 +14005,6 @@ $	$	0	0	1	0
 режим	program	0	0	1	0
 режим	regime	0	0	1	0
 представляет	represents	0	0	1	0
-представляет	is	0	0	1	0
 представляет	to be	0	0	1	0
 представляет	present	0	0	1	0
 представляет	represent	0	0	1	0
@@ -14337,7 +14035,6 @@ $	$	0	0	1	0
 предназначенный	designed for	0	0	1	0
 предназначенный	designed	0	0	1	0
 доставки	bring	0	0	1	0
-доставки	(for) delivery	0	0	1	0
 мозга	brain	0	0	1	0
 гашиш	hashish	0	0	1	0
 богатства	riches	0	0	1	0
@@ -14383,7 +14080,6 @@ $	$	0	0	1	0
 месторождение	reservoir	0	0	1	0
 месторождений	field	0	0	1	0
 месторождений	deposits	0	0	1	0
-месторождений	fields	0	0	1	0
 испытывают	have	0	0	1	0
 испытывают	experience	0	0	1	0
 отличает	cebepa	0	0	1	0
@@ -14502,11 +14198,11 @@ $	$	0	0	1	0
 признаки	features	0	0	1	0
 признаки	signs	0	0	1	0
 исполнительная	executive	0	0	1	0
-законов	laws	0	0	1	0
+союзники	allies	0	0	1	0
 функционирует	function	0	0	1	0
 функционирует	functions	0	0	1	0
-кухня	ctpah	0	0	1	0
 кухня	cuisine	0	0	1	0
+кухня	ctpah	0	0	1	0
 выяснилось	found	0	0	1	0
 выяснилось	cleared	0	0	1	0
 основание	foundation	0	0	1	0
@@ -14550,7 +14246,6 @@ $	$	0	0	1	0
 считалась	considered	0	0	1	0
 качество	quality	0	0	1	0
 армянского	armenian	0	0	1	0
-делом	thing	0	0	1	0
 делом	business	0	0	1	0
 князя	prince	0	0	1	0
 больницы	hospital	0	0	1	0
@@ -14575,8 +14270,6 @@ $	$	0	0	1	0
 озёр	lakes	0	0	1	0
 качества	quality	0	0	1	0
 глубокие	deep	0	0	1	0
-приносит	brings	0	0	1	0
-приносит	gives	0	0	1	0
 ранних	early	0	0	1	0
 атомов	atoms	0	0	1	0
 самое	very	0	0	1	0
@@ -14591,7 +14284,6 @@ $	$	0	0	1	0
 повреждения	ahyca	0	0	1	0
 повреждения	damage	0	0	1	0
 трети	one third	0	0	1	0
-трети	third	0	0	1	0
 гепатита	hepatitis	0	0	1	0
 способностью	ability	0	0	1	0
 захаров	zacharov	0	0	1	0
@@ -14601,7 +14293,6 @@ $	$	0	0	1	0
 участниками	participants	0	0	1	0
 называемых	so-called	0	0	1	0
 называемых	named	0	0	1	0
-называемых	called	0	0	1	0
 связей	relations	0	0	1	0
 снять	release	0	0	1	0
 снять	take off	0	0	1	0
@@ -14733,9 +14424,8 @@ $	$	0	0	1	0
 родной	native	0	0	1	0
 князья	dukes	0	0	1	0
 князья	princes	0	0	1	0
-занимается	deals	0	0	1	0
-занимается	deals with	0	0	1	0
-занимается	busy oneself with	0	0	1	0
+обязательств	obligations	0	0	1	0
+обязательств	commitments	0	0	1	0
 услуги	services	0	0	1	0
 механизмов	mechanisms	0	0	1	0
 механизмов	mechanism	0	0	1	0
@@ -14809,7 +14499,6 @@ $	$	0	0	1	0
 выше	higher	0	0	1	0
 перешли	moved	0	0	1	0
 перешли	crossed over	0	0	1	0
-обсуждения	discussions	0	0	1	0
 обсуждения	discussion	0	0	1	0
 эксперты	experts	0	0	1	0
 наблюдения	observation	0	0	1	0
@@ -14819,15 +14508,14 @@ $	$	0	0	1	0
 метрополитена	thumb	0	0	1	0
 вариант	variant	0	0	1	0
 омывается	washed	0	0	1	0
-построенный	built	0	0	1	0
-построенный	constructed	0	0	1	0
+наблюдений	observations	0	0	1	0
+наблюдений	supervision	0	0	1	0
 специально	specially	0	0	1	0
 армейцы	servicemen	0	0	1	0
 армейцы	armenians	0	0	1	0
 обсуждение	discussion	0	0	1	0
 смит	smith	1	1	1	0
 наблюдение	monitoring	0	0	1	0
-наблюдение	watching	0	0	1	0
 одним	one	0	0	1	0
 альтернативной	alternative	0	0	1	0
 билайн	beeline	0	0	1	0
@@ -15027,8 +14715,7 @@ $	$	0	0	1	0
 начинают	begin	0	0	1	0
 басгитара	bass-buitar	0	0	1	0
 басгитара	bass guitar	0	0	1	0
-правительству	to government	0	0	1	0
-правительству	government	0	0	1	0
+академический	academic	0	0	1	0
 жизни	life	0	0	1	0
 сорта	sort	0	0	1	0
 сорта	sorts of	0	0	1	0
@@ -15066,9 +14753,7 @@ $	$	0	0	1	0
 жанров	genres	0	0	1	0
 выпускаются	produced	0	0	1	0
 выпускаются	released	0	0	1	0
-выпускаются	produce	0	0	1	0
 джо	joe	0	0	1	0
-нашли	found	0	0	1	0
 нашли	became	0	0	1	0
 комплексы	complexes	0	0	1	0
 комплексы	center	0	0	1	0
@@ -15105,7 +14790,6 @@ $	$	0	0	1	0
 листерия	national	1	0	1	0
 листерия	listeria	1	1	0	0
 лежат	lie	0	0	1	0
-лежат	lay down	0	0	1	0
 звучание	sound	0	0	1	0
 звучание	sounding	0	0	1	0
 природа	nature	0	0	1	0
@@ -15150,10 +14834,8 @@ $	$	0	0	1	0
 прототипом	prototype	0	0	1	0
 областях	regions	0	0	1	0
 областях	areas	0	0	1	0
-составляет	contains	0	0	1	0
 составляет	formes	0	0	1	0
 удаление	removal	0	0	1	0
-строения	building	0	0	1	0
 строения	buildings	0	0	1	0
 строения	structure	0	0	1	0
 кабеля	cable	0	0	1	0
@@ -15207,7 +14889,6 @@ $	$	0	0	1	0
 половые	sexual	0	0	1	0
 булгакова	bulgakova	0	0	1	0
 булгакова	bulgakov	0	0	1	0
-объединяет	combines	0	0	1	0
 объединяет	unites	0	0	1	0
 детстве	childhood	0	0	1	0
 детства	childhood	0	0	1	0
@@ -15257,7 +14938,6 @@ $	$	0	0	1	0
 аппаратов	organs	0	0	1	0
 аппаратов	apparatus	0	0	1	0
 письменности	scripts	0	0	1	0
-письменности	writing	0	0	1	0
 систем	system	0	0	1	0
 систем	systems	0	0	1	0
 европы	europe	0	0	1	0
@@ -15319,7 +14999,6 @@ $	$	0	0	1	0
 власть	power	0	0	1	0
 собор	cathedral	0	0	1	0
 питание	nutrition	0	0	1	0
-питание	power	0	0	1	0
 питание	supply	0	0	1	0
 самих	themselves	0	0	1	0
 самих	them	0	0	1	0
@@ -15358,10 +15037,8 @@ $	$	0	0	1	0
 чёрная	black	0	0	1	0
 конституция	constitution	0	0	1	0
 бывший	former	0	0	1	0
-бывший	ex	0	0	1	0
 пошёл	go	0	0	1	0
 пошёл	went	0	0	1	0
-пошёл	went to	0	0	1	0
 велосипеды	bicycles	0	0	1	0
 стенах	walls	0	0	1	0
 суток	day	0	0	1	0
@@ -15394,7 +15071,7 @@ $	$	0	0	1	0
 власти	power	0	0	1	0
 власти	regime	0	0	1	0
 коммунистической	communist	0	0	1	0
-питания	food	0	0	1	0
+собой	itself	0	0	1	0
 девочки	girls	0	0	1	0
 способа	way	0	0	1	0
 самим	himself	0	0	1	0
@@ -15443,8 +15120,6 @@ $	$	0	0	1	0
 структуру	structure	0	0	1	0
 палаты	chamber	0	0	1	0
 часовой	hourly	0	0	1	0
-часовой	the time zone	0	0	1	0
-часовой	watch	0	0	1	0
 часовой	time	0	0	1	0
 показа	shown	0	0	1	0
 показа	sowing	0	0	1	0
@@ -15519,7 +15194,8 @@ $	$	0	0	1	0
 атлантического	atlantic	0	0	1	0
 уменьшения	reduction	0	0	1	0
 уменьшения	decreasing	0	0	1	0
-диагноз	diagnosis	0	0	1	0
+отличался	differ	0	0	1	0
+отличался	differed	0	0	1	0
 регулярные	regular	0	0	1	0
 ужасов	horrors	0	0	1	0
 ужасов	horror	0	0	1	0
@@ -15563,7 +15239,6 @@ $	$	0	0	1	0
 миссия	mission	0	0	1	0
 адаптации	adaptation	0	0	1	0
 базой	base	0	0	1	0
-дворец	castle	0	0	1	0
 дворец	palace	0	0	1	0
 львов	lvov	0	0	1	0
 львов	lviv	0	0	1	0
@@ -15620,7 +15295,6 @@ $	$	0	0	1	0
 канаде	canada	0	0	1	0
 округов	regions	0	0	1	0
 округов	districts	0	0	1	0
-канада	canada	0	0	1	0
 политологии	politology	0	0	1	0
 политологии	political science	0	0	1	0
 установлены	defined	0	0	1	0
@@ -15640,7 +15314,6 @@ $	$	0	0	1	0
 разного	different	0	0	1	0
 проблему	problem	0	0	1	0
 обрезания	circumcision	0	0	1	0
-употребление	using	0	0	1	0
 употребление	use	0	0	1	0
 употребление	consumption	0	0	1	0
 ориентация	orientation	0	0	1	0
@@ -15670,20 +15343,18 @@ $	$	0	0	1	0
 ускорение	acceleration	0	0	1	0
 делится	divided	0	0	1	0
 делится	is divided	0	0	1	0
-янковского	yankovskiy	0	0	1	0
 янковского	yankovsky	0	0	1	0
+янковского	yankovskiy	0	0	1	0
 снимался	was filmed	0	0	1	0
 снимался	was being filmed	0	0	1	0
 временно	temporarily	0	0	1	0
 арабских	arab	0	0	1	0
 арабских	arabic	0	0	1	0
 организациями	organisations	0	0	1	0
-организациями	organization's	0	0	1	0
 маргарита	margaret	0	0	1	0
 маргарита	margareth	0	0	1	0
 маргарита	margarita	0	0	1	0
 фронте	front	0	0	1	0
-соответствующего	appropriate	0	0	1	0
 соответствующего	corresponding	0	0	1	0
 двойной	double	0	0	1	0
 двойной	dual	0	0	1	0
@@ -15692,7 +15363,6 @@ $	$	0	0	1	0
 употребления	usage	0	0	1	0
 употребления	use	0	0	1	0
 включая	including	0	0	1	0
-договор	contract	0	0	1	0
 договор	treaty	0	0	1	0
 сущность	essence	0	0	1	0
 несут	bearing	0	0	1	0
@@ -15791,7 +15461,6 @@ $	$	0	0	1	0
 порядке	order	0	0	1	0
 порядке	procedure	0	0	1	0
 музыкальное	musical	0	0	1	0
-воздействие	impact	0	0	1	0
 воздействие	effect	0	0	1	0
 музыкальной	music	0	0	1	0
 музыкальной	musical	0	0	1	0
@@ -15880,7 +15549,6 @@ $	$	0	0	1	0
 получение	obtaining	0	0	1	0
 получение	getting	0	0	1	0
 значительно	considerably	0	0	1	0
-значительно	much	0	0	1	0
 значительно	considerable	0	0	1	0
 выхода	realease	0	0	1	0
 выхода	exit	0	0	1	0
@@ -15943,7 +15611,7 @@ $	$	0	0	1	0
 выделяются	marked out	0	0	1	0
 выделяются	are noted	0	0	1	0
 среднего	average	0	0	1	0
-академический	academic	0	0	1	0
+правительству	government	0	0	1	0
 пьеса	play	0	0	1	0
 английском	english	0	0	1	0
 эффективность	efficiency	0	0	1	0
@@ -15988,12 +15656,10 @@ $	$	0	0	1	0
 городу	city	0	0	1	0
 обслуживания	service	0	0	1	0
 петром	peter	0	0	1	0
-петром	petr	0	0	1	0
 матрица	the matrix	0	0	1	0
 матрица	matrix	0	0	1	0
 особую	special	0	0	1	0
 повести	story	0	0	1	0
-повести	novel	0	0	1	0
 долго	long time	0	0	1	0
 долго	long	0	0	1	0
 долга	debt	0	0	1	0
@@ -16045,7 +15711,6 @@ $	$	0	0	1	0
 пропаганды	propaganda	0	0	1	0
 предпочитают	prefer	0	0	1	0
 некоторых	some	0	0	1	0
-ии	ai	0	0	1	0
 матрицы	matrix	0	0	1	0
 гостей	guests	0	0	1	0
 ханства	khanate	0	0	1	0
@@ -16058,7 +15723,6 @@ $	$	0	0	1	0
 обслуживание	handling	0	0	1	0
 обслуживание	service	0	0	1	0
 новосибирске	novosibirsk	0	0	1	0
-новосибирске	novosybirsk	0	0	1	0
 численностью	population	0	0	1	0
 серьёзные	serious	0	0	1	0
 серьёзные	considerable	0	0	1	0

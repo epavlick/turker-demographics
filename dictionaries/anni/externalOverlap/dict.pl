@@ -15,13 +15,10 @@ piosenki	songs	0	0	1	0
 usunięcia	unseat	0	0	1	0
 usunięcia	removal	0	0	1	0
 postępowanie	proceeding	0	0	1	1
-postępowanie	treatment	0	0	1	0
-postępowanie	procedure	0	0	1	1
 zachowanie	behaviour	0	0	1	1
 zachowanie	acting (3rd)	0	0	1	0
 zachowanie	preservation	0	0	1	0
 zachowanie	preservation (1st and 2nd sntc)	0	0	1	0
-słoniowej	ivory	0	0	1	0
 słoniowej	ivory (here coast)	0	0	1	0
 słoniowej	elephant	0	0	1	0
 albumem	album	0	0	1	0
@@ -38,7 +35,6 @@ choćby	even	0	0	1	0
 choćby	at least	0	0	1	0
 wykorzystuje	avail	0	0	1	0
 wykorzystuje	uses	0	0	1	0
-otoczenia	environment	0	0	1	0
 otoczenia	surrounding	0	0	1	0
 otoczenia	surroundings	0	0	1	0
 otoczenie	environment	0	0	1	1
@@ -70,7 +66,6 @@ unię	union	0	0	1	0
 środki	media	0	0	1	0
 wiosny	spring	0	0	1	0
 niskich	low	0	0	1	0
-stosują	administer	0	0	1	0
 stosują	use	0	0	1	0
 stosują	administering	0	0	1	0
 terytorialny	territorial	0	0	1	1
@@ -81,9 +76,8 @@ najczęściej	mostly	0	0	1	0
 najczęściej	most often	0	0	1	0
 oparte	based	0	0	1	0
 odpowiedzi	answer	0	0	1	0
-odpowiedzi	in reply	0	0	1	0
-oparty	based on	0	0	1	0
 oparty	based	0	0	1	0
+oparty	based on	0	0	1	0
 targi	fairs	0	0	1	0
 targi	fair	0	0	1	1
 terytorialne	territorial	0	0	1	0
@@ -109,10 +103,9 @@ najstarszą	the oldest	0	0	1	0
 wyłącznie	only	0	0	1	1
 wyłącznie	solely	0	0	1	1
 obiektem	obiect	0	0	1	0
-obiektem	object	0	0	1	0
 obiektem	objects	0	0	1	0
 powinni	should	0	0	1	0
-atomy	atoms	0	0	1	0
+powinno	should	0	0	1	0
 kodeks	codex	0	0	1	1
 kodeks	code	0	0	1	1
 herb	coat	0	0	1	0
@@ -168,7 +161,6 @@ wykorzystują	using	0	0	1	0
 wykorzystują	use	0	0	1	0
 wykorzystują	utilising	0	0	1	0
 węgla	coal	0	0	1	0
-dna	dna	0	0	1	0
 dni	days	0	0	1	1
 technicznych	technical	0	0	1	0
 ładunku	load	0	0	1	0
@@ -212,22 +204,19 @@ sztabu	headquarters	0	0	1	0
 sztabu	staff	0	0	1	0
 fryderyk	frédéric	0	0	1	0
 fryderyk	frederic	0	0	1	0
-głównym	major	0	0	1	0
-głównym	main	0	0	1	0
+niczym	nothing	0	0	1	0
 podobnym	similiar	0	0	1	0
 podobnym	similar	0	0	1	0
 august	august	0	0	1	0
 czy	or	0	0	1	1
-słowian	slavic people	0	0	1	0
 słowian	slavs	0	0	1	0
 paweł	paul	0	0	1	0
 zbawienia	salvation	0	0	1	0
 kategoriamiasta	category of cities	0	0	1	0
-kategoriamiasta	displays as a word "kategoria:miasta" it should be "kategoria:miasta"="category:cities"	0	0	1	0
 ochrona	security	0	0	1	0
 ochrona	protection	0	0	1	1
-krzysztofa	of krzysztof	0	0	1	0
-krzysztofa	krzysztof	0	0	1	0
+nominacji	nominations	0	0	1	0
+nominacji	nominee	0	0	1	0
 ciele	body	0	0	1	0
 żywności	food	0	0	1	0
 hot	hot	0	0	1	0
@@ -257,7 +246,6 @@ przeprowadza	is executed	0	0	1	0
 przeprowadza	execute	0	0	1	0
 przeprowadza	conduct	0	0	1	0
 bydgoszcz	bydgoszcz (city)	0	0	1	0
-bydgoszcz	bydgoszcz	0	0	1	0
 przyszłych	future	0	0	1	0
 bogactwa	riches	0	0	1	1
 bogactwa	wealth	0	0	1	0
@@ -273,7 +261,6 @@ wysokiej	quality	0	0	1	0
 przemysłowe	industry	0	0	1	0
 przemysłowe	industrial	0	0	1	0
 zakonnych	religious	0	0	1	0
-zakonnych	of teutonic order	0	0	1	0
 ministrów	ministers	0	0	1	0
 dotychczasowe	previous	0	0	1	0
 dotychczasowe	hitherto	0	0	1	0
@@ -310,8 +297,8 @@ potrzebne	essential	0	0	1	0
 studentów	students	0	0	1	0
 największymi	the biggest	0	0	1	0
 największymi	largest	0	0	1	0
-izba	chamber	0	0	1	1
 izba	house	0	0	1	1
+izba	chamber	0	0	1	1
 planetoid	planetoids	0	0	1	0
 planetoid	planetoid	0	0	1	0
 lambert	lambert	0	0	1	0
@@ -325,7 +312,7 @@ seksualnego	sexual	0	0	1	0
 nawet	even	0	0	1	1
 nawet	up to	0	0	1	0
 tyle	as much	0	0	1	0
-tyle	so many	0	0	1	1
+tyle	so many	0	0	1	0
 tyle	in that context - that many people	0	0	1	0
 królem	king	0	0	1	0
 otrzymała	received	0	0	1	0
@@ -344,7 +331,6 @@ różnicy	difference	0	0	1	0
 różnicy	subtraction	0	0	1	0
 różnicy	result	0	0	1	0
 różnej	different designs	0	0	1	0
-różnej	varied	0	0	1	0
 różnej	varying	0	0	1	0
 drugiej	second	0	0	1	0
 pełnego	full	0	0	1	0
@@ -385,7 +371,7 @@ wrodzone	innate	0	0	1	0
 wrodzone	inborn	0	0	1	0
 aktywnych	active	0	0	1	0
 więc	so	0	0	1	1
-dzieło	work	0	0	1	1
+ian	ian	0	0	1	0
 bezpośrednie	direct	0	0	1	0
 straty	losses	0	0	1	0
 moralność	morality	0	0	1	1
@@ -401,22 +387,18 @@ działających	being active	0	0	1	0
 działających	acting	0	0	1	0
 działających	operating	0	0	1	0
 środka	mean	0	0	1	0
-środka	agent	0	0	1	0
 środka	means	0	0	1	0
 stosując	using	0	0	1	0
-ogólnokształcące	various subjects	0	0	1	0
 ogólnokształcące	general education	0	0	1	0
 ogólnokształcące	of general education	0	0	1	0
 czynnikami	factors	0	0	1	0
 aktorzy	actors	0	0	1	0
 lwów	iwow	0	0	1	0
 lwów	lwów (city)	0	0	1	0
-lwów	lviv	0	0	1	0
 dzieła	works	0	0	1	0
 królowa	queen	0	0	1	1
 słów	words	0	0	1	0
 barwę	color	0	0	1	0
-barwę	colour	0	0	1	0
 przestał	stopped	0	0	1	0
 przestał	ceased to	0	0	1	0
 service	service	0	0	1	0
@@ -455,12 +437,11 @@ nadano	was given	0	0	1	0
 nadano	given	0	0	1	0
 literaturze	literature	0	0	1	0
 zadań	tasks	0	0	1	0
-kościelnej	church	0	0	1	0
+palenie	smoking	0	0	1	1
 dawna	for long	0	0	1	0
 dawna	former	0	0	1	0
 iommi	iommi	0	0	1	0
-teledysk	music video	0	0	1	0
-teledysk	video clip	0	0	1	0
+muzułmanów	muslims	0	0	1	0
 energetyczny	energy	0	0	1	0
 energetyczny	energetic	0	0	1	1
 sposób	method	0	0	1	1
@@ -493,8 +474,9 @@ jeńców	prisoners	0	0	1	0
 jeńców	jencow	0	0	1	0
 rosyjskich	russian	0	0	1	0
 silnym	strong	0	0	1	0
-kwasy	acids	0	0	1	0
-kwasy	acid	0	0	1	0
+jakuba	jacob	0	0	1	0
+jakuba	james	0	0	1	0
+jakuba	jacobs	0	0	1	0
 metodami	methods	0	0	1	0
 producenci	producers	0	0	1	0
 producenci	producents	0	0	1	0
@@ -526,7 +508,6 @@ kręgu	circle	0	0	1	0
 teresa	teresa	0	0	1	0
 teresa	theresa	0	0	1	0
 prix	grand prix - foruma 1 thing	0	0	1	0
-prix	prix	0	0	1	0
 teresy	teresa	0	0	1	0
 teresy	theresa	0	0	1	0
 strzykwy		1	0	1	0
@@ -545,7 +526,8 @@ strzykwy	technically known as the holothuroidea	1	0	1	0
 strzykwy	sea cucumbers	1	1	1	0
 zaprojektował	it has designed	0	0	1	0
 zaprojektował	designed	0	0	1	0
-statki	ships	0	0	1	0
+związku	union	0	0	1	0
+związku	relation	0	0	1	0
 grypy	flu	0	0	1	0
 likwidacji	liquidation	0	0	1	0
 specjalnym	special	0	0	1	0
@@ -584,14 +566,13 @@ mając	having	0	0	1	0
 dodając	adding	0	0	1	0
 samorząd	local goverment	0	0	1	0
 samorząd	government	0	0	1	0
-związki	union	0	0	1	0
 związki	groups	0	0	1	0
 związki	relations	0	0	1	0
 upadku	collapse	0	0	1	0
 upadku	fall	0	0	1	0
 długiej	long	0	0	1	0
-best	najlepsza	0	0	1	0
-powinno	should	0	0	1	0
+krajem	country	0	0	1	0
+atomy	atoms	0	0	1	0
 oceania	oceania	0	0	1	0
 wikipedii	wikipedia	0	0	1	0
 administracyjne	administrative	0	0	1	0
@@ -608,7 +589,6 @@ xvi	16th	0	0	1	0
 udał	went	0	0	1	0
 atomu	an atom	0	0	1	0
 atomu	atoms	0	0	1	0
-atomu	atom	0	0	1	0
 administracyjny	administrative	0	0	1	1
 europie	europe	0	0	1	0
 którego	which	0	0	1	0
@@ -631,7 +611,6 @@ feminizmu	feminism	0	0	1	0
 owoce	fruit	0	0	1	0
 owoce	fruits	0	0	1	1
 słowacja	slovakia	0	0	1	0
-żyje	live	0	0	1	0
 żyje	lives	0	0	1	0
 słowacji	in slovakia	0	0	1	0
 słowacji	slovakia	0	0	1	0
@@ -647,16 +626,15 @@ badań	studies	0	0	1	0
 galicji	galicia	0	0	1	0
 niezależność	independence independence independence	0	0	1	0
 niezależność	independence	0	0	1	1
-codziennie	every day	0	0	1	1
+codziennie	every day	0	0	1	0
 codziennie	everyday	0	0	1	0
 codziennie	daily	0	0	1	1
 grupach	groups	0	0	1	0
 zatem	then	0	0	1	1
 zatem	so that	0	0	1	0
 zatem	therefore	0	0	1	1
-wystąpili	took part	0	0	1	0
-wystąpili	objected	0	0	1	0
-wystąpili	performed	0	0	1	0
+kibiców	fans	0	0	1	0
+kibiców	supporter	0	0	1	0
 kazachstanu	kazakhstan	0	0	1	0
 stadium	stage	0	0	1	1
 dodatek	addition	0	0	1	1
@@ -667,7 +645,6 @@ life	not polish	0	0	1	0
 wrzesień	september	0	0	1	1
 przodu	front	0	0	1	0
 przodu	forwards	0	0	1	0
-tymczasowe	temorary	0	0	1	0
 tymczasowe	temporary	0	0	1	0
 wulkany	volcanos	0	0	1	0
 wulkany	volkanoes	0	0	1	0
@@ -680,7 +657,6 @@ sudety	sudety	0	0	1	0
 ewentualnie	eventually	0	0	1	0
 ewentualnie	eventual	0	0	1	0
 ewentualnie	alternatively	0	0	1	0
-child	child	0	0	1	0
 znaczących	meaningful	0	0	1	0
 znaczących	significant	0	0	1	0
 czymś	something	0	0	1	0
@@ -710,14 +686,11 @@ otworzył	opened	0	0	1	0
 madonny	madonna	0	0	1	0
 madonny	of madonna	0	0	1	0
 udar	stroke	0	0	1	0
-laboratorium	laboratory	0	0	1	1
-laboratorium	lab	0	0	1	1
 posiadać	own	0	0	1	1
 posiadać	possess	0	0	1	1
 jedynie	only	0	0	1	1
 madonna	madonna	0	0	1	1
 zagrożone	threatened	0	0	1	0
-zagrożone	engangered	0	0	1	0
 tzn	which means	0	0	1	0
 tzn	ie.	0	0	1	0
 padł	fell	0	0	1	0
@@ -741,7 +714,6 @@ nagranie	record	0	0	1	0
 trylogia	trilogy	0	0	1	1
 zmierzchu	dawn	0	0	1	0
 zmierzchu	twilight	0	0	1	0
-zmierzchu	dusk	0	0	1	0
 scaleminor	minor scale	0	0	1	0
 posiadał	had	0	0	1	0
 posiadał	owned	0	0	1	0
@@ -760,7 +732,6 @@ polską	poland	0	0	1	0
 stawów	pond	0	0	1	0
 stawów	ponds	0	0	1	0
 odpowiedzialności	responsibility	0	0	1	0
-waha	differs	0	0	1	0
 waha	varies	0	0	1	0
 waha	vary	0	0	1	0
 znanymi	well-known	0	0	1	0
@@ -801,7 +772,6 @@ stanisława	stanislaw	0	0	1	0
 stanisława	stanisław	0	0	1	0
 odcinków	episodes	0	0	1	0
 sebastian	sebastian	0	0	1	0
-rzeka	a river	0	0	1	0
 rzeka	river	0	0	1	1
 odcinka	episode	0	0	1	0
 położony	located	0	0	1	0
@@ -841,7 +811,6 @@ uroczystości	ceremonies	0	0	1	0
 raport	report	0	0	1	1
 ciałem	body	0	0	1	0
 gruźlicę	tuberculosis	0	0	1	0
-odnośnie	refererring to	0	0	1	0
 odnośnie	regarding	0	0	1	1
 odnośnie	according	0	0	1	0
 konsekwencją	consequence	0	0	1	0
@@ -871,7 +840,6 @@ obszary	areas	0	0	1	0
 son	son	0	0	1	0
 zabronione	forbidden	0	0	1	0
 wraz	along	0	0	1	0
-wraz	together with	0	0	1	0
 wraz	with	0	0	1	0
 ogromnej	huge	0	0	1	0
 ogromnej	gigantic	0	0	1	0
@@ -921,8 +889,8 @@ bazy	database	0	0	1	0
 bazy	bases	0	0	1	0
 bazy	basis	0	0	1	0
 niebieski	blue	0	0	1	1
-pozbawiona	devoid of	0	0	1	0
-pozbawiona	deprived of	0	0	1	0
+duet	duet	0	0	1	1
+duet	duo	0	0	1	1
 azs	its a shortcut	0	0	1	0
 azs	a name of a polytechnic school in warsaw	0	0	1	0
 azs	azs	0	0	1	0
@@ -945,7 +913,6 @@ koncertach	concerts	0	0	1	0
 odkrył	discovered	0	0	1	0
 republik	republics	0	0	1	0
 wprowadził	introduced	0	0	1	0
-reggae	reggae	0	0	1	0
 gruźlica	tuberculosis	0	0	1	1
 tradycyjnej	traditional	0	0	1	0
 teatr	theater	0	0	1	1
@@ -957,9 +924,7 @@ zobacz	check out	0	0	1	0
 zobacz	look	0	0	1	0
 naukowych	scientific	0	0	1	0
 gruźlicy	tuberculosis	0	0	1	0
-sokratesa	socrates'	0	0	1	0
-sokratesa	of socrates	0	0	1	0
-sokratesa	socrates	0	0	1	0
+modele	models	0	0	1	0
 oficjalnym	official	0	0	1	0
 prowadzi	leads	0	0	1	0
 prowadzi	conduct	0	0	1	0
@@ -998,7 +963,6 @@ choroba	disease	0	0	1	1
 słowem	word	0	0	1	0
 względem	respect	0	0	1	0
 względem	respect to	0	0	1	0
-względem	in terms of	0	0	1	0
 choroby	diseases	0	0	1	0
 czarny	black	0	0	1	1
 trzustki	pancreas	0	0	1	0
@@ -1034,13 +998,11 @@ wyruszył	went	0	0	1	0
 specjalnych	special	0	0	1	0
 tradycja	tradition	0	0	1	1
 serwisie	portal	0	0	1	0
-serwisie	site	0	0	1	0
 negatywnie	negatively	0	0	1	0
 tradycje	traditions	0	0	1	0
 tradycje	tradition	0	0	1	0
 białych	white	0	0	1	0
 tradycji	tradition	0	0	1	0
-koła	wheel	0	0	1	0
 koła	circle	0	0	1	0
 francuzów	the french	0	0	1	0
 francuzów	french people	0	0	1	0
@@ -1081,7 +1043,6 @@ korzystał	used	0	0	1	0
 kokainy	cocaine	0	0	1	0
 wyrazu	word	0	0	1	0
 chrystus	christ	0	0	1	1
-kliniczne	clinic	0	0	1	0
 kliniczne	clinical	0	0	1	0
 flory	flora	0	0	1	0
 polny	field	0	0	1	1
@@ -1119,9 +1080,7 @@ zniszczenie	damage	0	0	1	0
 zniszczenie	destruction	0	0	1	1
 tradycją	tradition	0	0	1	0
 obecna	current	0	0	1	0
-obecna	rights	0	0	1	0
 obejmowała	included	0	0	1	0
-obejmowała	embraced	0	0	1	0
 obejmowała	was including	0	0	1	0
 duchowe	spiritual	0	0	1	0
 obecne	current	0	0	1	0
@@ -1138,9 +1097,7 @@ mieszkał	lived	0	0	1	0
 klasyfikacja	classification	0	0	1	1
 bezskutecznie	unsuccessfully	0	0	1	1
 bezskutecznie	ineffectively	0	0	1	0
-bezskutecznie	in vain	0	0	1	0
 litewski	lithuanian	0	0	1	1
-filmy	films	0	0	1	0
 filmy	movies	0	0	1	0
 białą	white	0	0	1	0
 własnych	own	0	0	1	0
@@ -1162,10 +1119,8 @@ karola	karol's	0	0	1	0
 karola	karol	0	0	1	0
 dowody	proofs	0	0	1	0
 dowody	evidence	0	0	1	0
-dowody	evidences	0	0	1	0
 samochody	cars	0	0	1	0
 lutra	luther	0	0	1	0
-lutra	by luther	0	0	1	0
 hemoglobiny	hemoglobin	0	0	1	0
 hemoglobiny	haemoglobin	0	0	1	0
 józef	jozef	0	0	1	0
@@ -1174,7 +1129,7 @@ początkiem	beginning	0	0	1	0
 samochodu	car	0	0	1	0
 szczęście	luckily	0	0	1	0
 szczęście	happiness	0	0	1	1
-szczęście	good luck	0	0	1	1
+szczęście	good luck	0	0	1	0
 kamil	kamil	0	0	1	0
 kamil	kamil (name)	0	0	1	0
 białym	white	0	0	1	0
@@ -1188,7 +1143,6 @@ potomków	descendant	0	0	1	0
 prawnego	legal	0	0	1	0
 eska	eska	0	0	1	0
 szczęścia	happiness	0	0	1	0
-szczęścia	luck	0	0	1	0
 uzyskała	gained	0	0	1	0
 uzyskała	got	0	0	1	0
 uzyskała	achieved	0	0	1	0
@@ -1210,6 +1164,9 @@ daty	date	0	0	1	0
 pełni	perform	0	0	1	0
 pełni	fulfills	0	0	1	0
 pełni	fulfils	0	0	1	0
+przypisuje	attribute	0	0	1	0
+przypisuje	assigns	0	0	1	0
+przypisuje	he is taken as a creator of	0	0	1	0
 nowego	new	0	0	1	0
 pełne	entire	0	0	1	0
 pełne	full	0	0	1	0
@@ -1240,6 +1197,8 @@ sa	corporation	0	0	1	0
 sa	jsc	0	0	1	0
 przeciągu	course	0	0	1	0
 przeciągu	during	0	0	1	0
+bezrobocie	unemployment	0	0	1	1
+bezrobocie	unemplyment	0	0	1	0
 koni	horses	0	0	1	0
 koni	horse	0	0	1	0
 rozpoczęciem	start	0	0	1	0
@@ -1273,8 +1232,6 @@ własnego	his own	0	0	1	0
 records	records	0	0	1	0
 swojej	his	0	0	1	0
 swojej	its	0	0	1	0
-istoty	being	0	0	1	0
-istoty	beings	0	0	1	0
 istoty	creatures	0	0	1	0
 wirusem	virus	0	0	1	0
 psychiczne	mental	0	0	1	0
@@ -1327,11 +1284,10 @@ rezultacie	result	0	0	1	0
 dowód	evidence	0	0	1	1
 dowód	proof	0	0	1	1
 móc	could	0	0	1	0
-móc	be able	0	0	1	1
+móc	be able	0	0	1	0
 móc	can	0	0	1	1
 zamieszkania	living	0	0	1	0
 zamieszkania	occupation	0	0	1	0
-zamieszkania	residence	0	0	1	0
 księga	book	0	0	1	1
 zapalenia	inflammation	0	0	1	0
 bytu	being	0	0	1	0
@@ -1387,7 +1343,6 @@ poznański	poznań	0	0	1	0
 poznański	poznański	0	0	1	0
 poznański	poznanian	0	0	1	0
 zachowań	behaviour	0	0	1	0
-zachowań	behaviours	0	0	1	0
 zachowań	behavior	0	0	1	0
 głównymi	major	0	0	1	0
 głównymi	main	0	0	1	0
@@ -1421,7 +1376,8 @@ gimnazjum	junior high school	0	0	1	0
 gimnazjum	secondary school	0	0	1	0
 pewną	a	0	0	1	0
 pewną	certain	0	0	1	0
-kontynentu	continent	0	0	1	0
+wolnej	free	0	0	1	0
+wolnej	fre	0	0	1	0
 językiem	language	0	0	1	0
 pogląd	opinion	0	0	1	1
 pogląd	belief	0	0	1	0
@@ -1449,17 +1405,14 @@ zawierać	include	0	0	1	1
 zawierać	conclude	0	0	1	0
 świadków	witnesses	0	0	1	0
 działać	operate	0	0	1	1
-działać	"działać na dwa fronty" = "has two irons in the fire"	0	0	1	0
 działać	act	0	0	1	1
 san	san	0	0	1	0
 sam	alone	0	0	1	1
 sam	he himself	0	0	1	0
 wilsona	wilson	0	0	1	0
 guza	tumor	0	0	1	0
-guza	tumour	0	0	1	0
 argument	argument	0	0	1	1
 książąt	duke	0	0	1	0
-książąt	princes	0	0	1	0
 książąt	dukes	0	0	1	0
 poglądy	views about	0	0	1	0
 poglądy	beliefs	0	0	1	0
@@ -1506,7 +1459,6 @@ wałęsy	walesa	0	0	1	0
 wałęsy	a polish surname	0	0	1	0
 wałęsy	to wałęsa	0	0	1	0
 rozmieszczenie	distribution	0	0	1	0
-rozmieszczenie	deployment ("załoga nanosiła na mapę rozmieszczenie okopów wroga" = "crew mapped trench lines"	0	0	1	0
 rozmieszczenie	location	0	0	1	1
 kolejne	another	0	0	1	0
 kolejne	next	0	0	1	0
@@ -1548,8 +1500,7 @@ zarys	overview	0	0	1	0
 zarys	synopsis	0	0	1	0
 zarys	outline	0	0	1	1
 wszech	all	0	0	1	0
-wszech	all ("wszech czasów" = "all time")	0	0	1	0
-chociażby	even if	0	0	1	1
+chociażby	even if	0	0	1	0
 chociażby	although	0	0	1	0
 rozgrywki	competitions	0	0	1	0
 rozgrywki	rozgrywki	0	0	1	0
@@ -1581,7 +1532,6 @@ zachować	keep	0	0	1	1
 zachować	behave	0	0	1	0
 zachować	maintain	0	0	1	1
 ułatwia	facilitates	0	0	1	0
-ułatwia	eases	0	0	1	0
 ułatwia	helps	0	0	1	0
 naczyń	vessels	0	0	1	0
 definicję	definition	0	0	1	0
@@ -1602,7 +1552,6 @@ przyjęta	taken	0	0	1	0
 przyjęta	received	0	0	1	0
 przyjęta	admitted	0	0	1	0
 przyjęte	received	0	0	1	0
-przyjęte	accepted	0	0	1	0
 przyjęte	adopted	0	0	1	0
 wiekiem	age	0	0	1	0
 zelandii	zealand	0	0	1	0
@@ -1635,9 +1584,8 @@ gwiazd	stars	0	0	1	0
 odgrywa	plays part	0	0	1	0
 odgrywa	plays	0	0	1	0
 takiej	such	0	0	1	0
-takiej	the	0	0	1	0
-domu	house	0	0	1	0
 domu	home	0	0	1	0
+domu	house	0	0	1	0
 powiedzieć	say	0	0	1	1
 powiedzieć	powiedziec	0	0	1	0
 rytmu	rythm	0	0	1	0
@@ -1658,12 +1606,12 @@ karnego	karnego	0	0	1	0
 karnego	criminal	0	0	1	0
 karnego	penal	0	0	1	0
 sławy	fame	0	0	1	0
-droga	way	0	0	1	1
 droga	road	0	0	1	1
+droga	way	0	0	1	1
 prus	prussia	0	0	1	0
 końcem	end of	0	0	1	0
 końcem	end	0	0	1	0
-krótki	short	0	0	1	1
+iranu	iran	0	0	1	0
 niektóre	several	0	0	1	0
 niektóre	some	0	0	1	0
 kilometrów	kilometres	0	0	1	0
@@ -1682,7 +1630,7 @@ przyroda	nature	0	0	1	1
 ciśnienia	pressure	0	0	1	0
 zajmował	ranked	0	0	1	0
 zajmował	occupied	0	0	1	0
-chrześcijańskich	christian	0	0	1	0
+śmiertelność	mortality	0	0	1	1
 zajmując	occupying	0	0	1	0
 zajmując	occupy	0	0	1	0
 zajmując	taking	0	0	1	0
@@ -1705,7 +1653,6 @@ sferze	zone	0	0	1	0
 galerii	galleries	0	0	1	0
 identyczne	identical	0	0	1	0
 identyczne	same	0	0	1	0
-kolejną	following	0	0	1	0
 kolejną	next	0	0	1	0
 ambasador	ambassador	0	0	1	1
 zarządu	executive	0	0	1	0
@@ -1717,7 +1664,6 @@ potrafił	was able to	0	0	1	0
 starym	old	0	0	1	0
 internetu	intenet	0	0	1	0
 internetu	internet	0	0	1	0
-aluminium	aluminium	0	0	1	1
 aluminium	aluminum	0	0	1	1
 aluminium	alluminium	0	0	1	0
 pomorza	pomerania	0	0	1	0
@@ -1749,8 +1695,7 @@ osób	persons	0	0	1	0
 osób	people	0	0	1	0
 niskiej	low	0	0	1	0
 zagraniczny	foreign	0	0	1	1
-świadczyć	bear witness	0	0	1	1
-świadczyć	proven by	0	0	1	0
+świadczyć	bear witness	0	0	1	0
 świadczyć	give evidence	0	0	1	0
 wywołują	couse	0	0	1	0
 wywołują	cause	0	0	1	0
@@ -1758,7 +1703,7 @@ wywołują	evoke	0	0	1	0
 alianci	the allies the allies the allies	0	0	1	0
 alianci	allies	0	0	1	0
 zagraniczna	foreign	0	0	1	0
-cullen	cullen	0	0	1	0
+harris	harris	0	0	1	0
 wypadku	case	0	0	1	0
 wypadku	accident	0	0	1	0
 zagraniczne	foreign	0	0	1	0
@@ -1778,7 +1723,6 @@ materii	matter	0	0	1	0
 iraku	iraq	0	0	1	0
 tłumaczenie	translation	0	0	1	1
 angielskim	english	0	0	1	0
-tłumaczenia	translation	0	0	1	0
 tłumaczenia	translations	0	0	1	0
 gdy	while	0	0	1	0
 gdy	when	0	0	1	1
@@ -1818,7 +1762,6 @@ pisane	writting	0	0	1	0
 klasie	class	0	0	1	0
 suma	sum	0	0	1	1
 suma	total	0	0	1	0
-praktyka	internship	0	0	1	0
 praktyka	practice	0	0	1	1
 umożliwiające	enabling	0	0	1	0
 umożliwiające	allowing	0	0	1	0
@@ -1991,7 +1934,6 @@ różnorodnych	many	0	0	1	0
 różnorodnych	diverse	0	0	1	0
 różnorodnych	various	0	0	1	0
 mistrzem	master	0	0	1	0
-mistrzem	champion	0	0	1	0
 żołnierzy	soldiers	0	0	1	0
 zielonoświątkowcy	pentecostalists	0	0	1	0
 zielonoświątkowcy	pentecostals	0	0	1	0
@@ -2022,14 +1964,12 @@ masa	weight	0	0	1	0
 kategoriawydarzenia	category: events	0	0	1	0
 izraelu	israel	0	0	1	0
 wyróżniki	differentiators	0	0	1	0
-wyróżniki	discriminants	0	0	1	0
 wyróżniki	distinguishers	0	0	1	0
 urodzony	born	0	0	1	1
 rembrandta	rembrandt's	0	0	1	0
 rembrandta	rembrandt	0	0	1	0
 adam	adam	0	0	1	0
 izraela	israel	0	0	1	0
-izraela	izrael	0	0	1	0
 masy	masses	0	0	1	0
 masy	weight	0	0	1	0
 jaja	egg	0	0	1	0
@@ -2107,10 +2047,9 @@ masonów	freemasons	0	0	1	0
 zdolności	abilities	0	0	1	0
 zdolności	ability	0	0	1	0
 poniatowskiego	of poniatowski	0	0	1	0
-poniatowskiego	poniatowski's	0	0	1	0
 poniatowskiego	poniatowski	0	0	1	0
-pasy	lanes	0	0	1	0
 pasy	lines	0	0	1	0
+pasy	lanes	0	0	1	0
 starożytny	ancient	0	0	1	1
 bliżej	closer	0	0	1	0
 bliżej	closely	0	0	1	0
@@ -2134,7 +2073,6 @@ urządzenie	device	0	0	1	1
 urządzenie	appliance	0	0	1	1
 urządzenie	unit	0	0	1	0
 innego	other	0	0	1	0
-biologiczne	biological	0	0	1	0
 składniki	components	0	0	1	0
 składniki	ingredients	0	0	1	0
 jaruzelski	jaruzelski	0	0	1	0
@@ -2157,7 +2095,6 @@ stworzyć	create	0	0	1	1
 stworzyć	stworzyc	0	0	1	0
 węzłem	node	0	0	1	0
 węzłem	road junction	0	0	1	0
-węzłem	junction	0	0	1	0
 europejskiego	european	0	0	1	0
 bioetyka	d	1	0	1	0
 bioetyka	category cavalier	1	0	1	0
@@ -2172,7 +2109,7 @@ dużych	large	0	0	1	0
 dużych	big	0	0	1	0
 atomowej	nuclear	0	0	1	0
 atomowej	atomic	0	0	1	0
-young	young	0	0	1	0
+bilans	balance	0	0	1	1
 wynosiła	costed	0	0	1	0
 wynosiła	was	0	0	1	0
 wyspiański	wyspianski	0	0	1	0
@@ -2182,7 +2119,6 @@ zachodnią	west	0	0	1	0
 zachodnią	western	0	0	1	0
 społeczna	social	0	0	1	0
 obecnej	current	0	0	1	0
-obecnej	present	0	0	1	0
 społeczne	social	0	0	1	0
 książek	books	0	0	1	0
 rodzajów	kinds of	0	0	1	0
@@ -2226,11 +2162,9 @@ oceny	oceny	0	0	1	0
 oceny	marks	0	0	1	0
 córka	daughter	0	0	1	1
 ustala	established	0	0	1	0
-ustala	establish	0	0	1	0
 ustala	sets	0	0	1	0
 tą	this	0	0	1	0
-tą	that	0	0	1	0
-według	according to	0	0	1	1
+według	according to	0	0	1	0
 według	according	0	0	1	0
 wypowiedzi	statements	0	0	1	0
 wypowiedzi	words	0	0	1	0
@@ -2270,7 +2204,6 @@ boga	god	0	0	1	0
 rozpocząć	start	0	0	1	1
 rozpocząć	begin	0	0	1	1
 sportowe	sport	0	0	1	0
-sportowe	sports	0	0	1	0
 ludy	people	0	0	1	0
 ludy	folk	0	0	1	0
 ludy	peoples	0	0	1	0
@@ -2280,7 +2213,6 @@ dwóch	two	0	0	1	0
 hugo	hugo	0	0	1	0
 rozpoczęcia	beginning	0	0	1	0
 rozpoczęcia	initiation	0	0	1	0
-rozpoczęcia	start of	0	0	1	0
 rozpoczęcie	beginning	0	0	1	1
 rozpoczęcie	initiation	0	0	1	0
 naftowa	oil	0	0	1	0
@@ -2295,7 +2227,6 @@ spełniają	satisfies	0	0	1	0
 francuskiej	french	0	0	1	0
 krajobrazowy	scenic	0	0	1	0
 krajobrazowy	landscape	0	0	1	1
-krajobrazowy	nature	0	0	1	0
 rozpoczął	started	0	0	1	0
 rozpoczął	begun	0	0	1	0
 konflikty	conflicts	0	0	1	0
@@ -2337,7 +2268,6 @@ została	was	0	0	1	0
 itd	etc	0	0	1	0
 itd	etc.	0	0	1	0
 zwraca	turns	0	0	1	0
-zwraca	addressed	0	0	1	0
 zwraca	turn to	0	0	1	0
 zostały	were	0	0	1	0
 zostały	had been	0	0	1	0
@@ -2357,8 +2287,7 @@ nowotworów	neoplasms	0	0	1	0
 filip	filip	0	0	1	0
 komputera	computer	0	0	1	0
 komputera	of computer	0	0	1	0
-największą	biggest	0	0	1	0
-największą	the biggest	0	0	1	0
+ojcu	father	0	0	1	0
 budową	construction	0	0	1	0
 budową	structure	0	0	1	0
 singiel	single	0	0	1	0
@@ -2377,7 +2306,6 @@ narządy	organs	0	0	1	0
 narządy	organ	0	0	1	0
 wytwarzania	generation	0	0	1	0
 wytwarzania	generating	0	0	1	0
-wytwarzania	producing	0	0	1	0
 chcą	want to	0	0	1	0
 chcą	want	0	0	1	0
 umieralność	umieralnosc	0	0	1	0
@@ -2399,7 +2327,6 @@ chcę	i	0	0	1	0
 chcę	want	0	0	1	0
 chcę	i want	0	0	1	0
 spółki	company	0	0	1	0
-spółki	partnership	0	0	1	0
 spółki	companies	0	0	1	0
 status	status	0	0	1	1
 duchowego	spiritual	0	0	1	0
@@ -2482,7 +2409,6 @@ międzynarodowym	international	0	0	1	0
 terminem	phrase	0	0	1	0
 terminem	term	0	0	1	0
 szczecina	it's a city in poland	0	0	1	0
-szczecina	szczecin	0	0	1	0
 szczecina	of szczecin	0	0	1	0
 wprost	wprost	0	0	1	0
 wprost	express	0	0	1	0
@@ -2519,7 +2445,6 @@ bożej	god	0	0	1	0
 udziale	part	0	0	1	0
 udziale	participation	0	0	1	0
 sezon	season	0	0	1	1
-zróżnicowany	differentiated	0	0	1	0
 zróżnicowany	diverse	0	0	1	0
 paradoks	paradox	0	0	1	1
 carla	carl's	0	0	1	0
@@ -2549,11 +2474,12 @@ zawodach	contests	0	0	1	0
 ostatecznym	final	0	0	1	0
 ostatecznym	definitive	0	0	1	0
 odc	sect.	0	0	1	0
-odc	episodes	0	0	1	0
 odc	episode	0	0	1	0
 astronomii	atronomy	0	0	1	0
 astronomii	astronomy	0	0	1	0
-braci	brothers	0	0	1	0
+istot	being	0	0	1	0
+istot	beings	0	0	1	0
+istot	creatures	0	0	1	0
 administracja	administration	0	0	1	1
 administracja	admnistration	0	0	1	0
 olimpijskie	olympic	0	0	1	0
@@ -2590,9 +2516,9 @@ prosty	simple	0	0	1	1
 prosty	straight	0	0	1	1
 model	model	0	0	1	1
 ostatniej	last	0	0	1	0
-charakteryzuje	is characterized by	0	0	1	0
-charakteryzuje	characterized	0	0	1	0
 charakteryzuje	characterize	0	0	1	0
+charakteryzuje	characterized	0	0	1	0
+charakteryzuje	is characterized by	0	0	1	0
 uprawia	grown	0	0	1	0
 uprawia	cultivate	0	0	1	0
 uprawia	practiced	0	0	1	0
@@ -2613,8 +2539,7 @@ wiktorii	victoria	0	0	1	0
 gole	goals	0	0	1	0
 prawdziwą	real	0	0	1	0
 prawdziwą	true	0	0	1	0
-wartością	worth	0	0	1	0
-wartością	value	0	0	1	0
+sezonu	season	0	0	1	0
 robić	doing	0	0	1	0
 robić	do	0	0	1	1
 samolotów	jets	0	0	1	0
@@ -2632,12 +2557,10 @@ jedyna	the only	0	0	1	0
 budownictwo	building	0	0	1	0
 budownictwo	architecture	0	0	1	1
 jedyne	the only	0	0	1	0
-jedyne	only	0	0	1	0
 jedyne	sole	0	0	1	0
 dwiema	the two	0	0	1	0
 dwiema	two	0	0	1	0
 ridgea	ridge's	0	0	1	0
-ridgea	ridge	0	0	1	0
 ustawa	law	0	0	1	1
 ustawa	act	0	0	1	1
 ustawy	acts	0	0	1	0
@@ -2684,7 +2607,7 @@ terenu	area	0	0	1	0
 nieznana	unknown	0	0	1	0
 nieznane	unknown	0	0	1	0
 amerykańskie	american	0	0	1	0
-palenie	smoking	0	0	1	1
+kościelnej	church	0	0	1	0
 letniego	summer	0	0	1	0
 letniego	year-old	0	0	1	0
 letniego	year	0	0	1	0
@@ -2727,10 +2650,8 @@ dając	giving	0	0	1	0
 rytm	rhythm	0	0	1	1
 rytm	rythme	0	0	1	0
 dążył	strived	0	0	1	0
-dążył	strove after	0	0	1	0
 dążył	was going to	0	0	1	0
 przede	above	0	0	1	0
-przede	first	0	0	1	0
 wystąpienia	occurence	0	0	1	0
 wystąpienia	appearance	0	0	1	0
 wystąpienia	of	0	0	1	0
@@ -2762,18 +2683,15 @@ czynność	action	0	0	1	1
 czynność	activities	0	0	1	0
 czynność	activity	0	0	1	1
 tymczasem	meanwhile	0	0	1	1
-firm	firms	0	0	1	0
 firm	companies	0	0	1	0
 mistrza	master	0	0	1	0
 mistrza	champion	0	0	1	0
 zawierających	featuring	0	0	1	0
-zawierających	including	0	0	1	0
 zawierających	containig	0	0	1	0
 straciła	lost	0	0	1	0
 great	great	0	0	1	0
 nrd	gdr	0	0	1	0
 nrd	east germany	0	0	1	0
-jedyną	the only	0	0	1	0
 jedyną	only	0	0	1	0
 przeplot	intertwined	1	0	1	0
 przeplot	interleave	1	1	0	0
@@ -2792,6 +2710,7 @@ projekt	project	0	0	1	1
 projekt	bill	0	0	1	0
 mln	million	0	0	1	0
 mln	millions	0	0	1	0
+brązowy	brown	0	0	1	1
 chińskiej	chinese	0	0	1	0
 chyba	at least	0	0	1	0
 chyba	probably	0	0	1	0
@@ -2808,8 +2727,8 @@ wszedł	entered	0	0	1	0
 wszedł	came	0	0	1	0
 planowane	planned	0	0	1	0
 oczy	eyes	0	0	1	1
-tygrysa	tiger	0	0	1	0
-tygrysa	tiger's	0	0	1	0
+głównym	major	0	0	1	0
+głównym	main	0	0	1	0
 zdobyli	conquered	0	0	1	0
 zdobyli	captured	0	0	1	0
 artykułów	articles	0	0	1	0
@@ -2875,15 +2794,13 @@ kotów	cat	0	0	1	0
 międzywojennym	interwar	0	0	1	0
 międzywojennym	between the world wars	0	0	1	0
 agentki	agents	0	0	1	0
-agentki	spies	0	0	1	0
 kelly	kelly	0	0	1	0
 utworów	records	0	0	1	0
 utworów	works	0	0	1	0
 utworów	songs	0	0	1	0
 leona	leon	0	0	1	0
 sims	sims	0	0	1	0
-związku	union	0	0	1	0
-związku	relation	0	0	1	0
+statki	ships	0	0	1	0
 porażki	failures	0	0	1	0
 porażki	fails	0	0	1	0
 porażki	defeat	0	0	1	0
@@ -2905,7 +2822,6 @@ kuchnia	kitchen	0	0	1	1
 rangers	rangers	0	0	1	0
 sydney	sydney	0	0	1	0
 ogromna	huge	0	0	1	0
-ogromna	extensive	0	0	1	0
 ogromna	great	0	0	1	0
 ogromne	huge	0	0	1	0
 australia	australia	0	0	1	0
@@ -2920,11 +2836,9 @@ zajęcia	taking over	0	0	1	0
 zajęcia	capturing	0	0	1	0
 zajęcia	occupation	0	0	1	0
 zajęcie	taking over	0	0	1	0
-zajęcie	overtook	0	0	1	0
 zajęcie	occupation	0	0	1	1
 zaliczany	included	0	0	1	0
 zaliczany	classified	0	0	1	0
-zaliczany	classifield	0	0	1	0
 narodziny	born	0	0	1	0
 narodziny	birth	0	0	1	1
 istniał	existed	0	0	1	0
@@ -2955,9 +2869,7 @@ fuzji	fusion	0	0	1	0
 wypowiedział	said	0	0	1	0
 wypowiedział	declare	0	0	1	0
 wypowiedział	stated	0	0	1	0
-pełnienia	duty	0	0	1	0
-pełnienia	being on duty	0	0	1	0
-pełnienia	doing	0	0	1	0
+pisząc	writing	0	0	1	0
 kwestię	quest	0	0	1	0
 kwestię	issue	0	0	1	0
 kwestią	matter	0	0	1	0
@@ -2967,9 +2879,7 @@ warszawą	warsaw	0	0	1	0
 bałtyckiego	baltic	0	0	1	0
 bałtyckiego	baltic('s)	0	0	1	0
 igrzyska	games	0	0	1	0
-igrzyska	olympics	0	0	1	0
 czasami	sometimes	0	0	1	1
-be	być	0	0	1	0
 wywołuje	caused	0	0	1	0
 wywołuje	causes	0	0	1	0
 pograniczu	borderline	0	0	1	0
@@ -2996,9 +2906,8 @@ następujące	succeeding	0	0	1	0
 wydarzeniach	events	0	0	1	0
 potencjał	potential	0	0	1	1
 głębokości	depth	0	0	1	0
-jakuba	jacob	0	0	1	0
-jakuba	james	0	0	1	0
-jakuba	jacobs	0	0	1	0
+kwasy	acid	0	0	1	0
+kwasy	acids	0	0	1	0
 żydowskie	jewish	0	0	1	0
 popytu	demand	0	0	1	0
 wykonuje	craft	0	0	1	0
@@ -3017,7 +2926,8 @@ henryka	henryk	0	0	1	0
 henryka	henry	0	0	1	0
 ludność	the people	0	0	1	0
 ludność	population	0	0	1	1
-brązowy	brown	0	0	1	1
+nazywana	named	0	0	1	0
+nazywana	called	0	0	1	0
 rozwinął	developed	0	0	1	0
 zostaną	will be	0	0	1	0
 zostaną	remain	0	0	1	0
@@ -3036,9 +2946,9 @@ kwasu	acid	0	0	1	0
 morską	naval	0	0	1	0
 morską	sea	0	0	1	0
 tys	thousand (abbr.)	0	0	1	0
-tys	thousand	0	0	1	0
-tys	thousands	0	0	1	0
 tys	k	0	0	1	0
+tys	thousands	0	0	1	0
+tys	thousand	0	0	1	0
 anioła	angel	0	0	1	0
 anioła	angel's	0	0	1	0
 zginął	died	0	0	1	0
@@ -3054,7 +2964,6 @@ miopatie	myopathys	1	1	0	0
 miopatie	habitable	1	0	1	0
 miopatie	myopathy	1	1	0	0
 miopatie	miopathies	1	1	0	0
-atom	an atom	0	0	1	0
 atom	atom	0	0	1	1
 niczego	nothing	0	0	1	0
 heinrich	heinrich	0	0	1	0
@@ -3074,7 +2983,6 @@ stronnictwa	fraction	0	0	1	0
 ul	st.	0	0	1	0
 ul	street	0	0	1	0
 uk	uk	0	0	1	0
-ue	eu	0	0	1	0
 ue	european union	0	0	1	0
 kościoły	churches	0	0	1	0
 kościoły	church	0	0	1	0
@@ -3111,7 +3019,6 @@ kwestie	quest	0	0	1	0
 kwestie	issues	0	0	1	0
 kwestia	matter	0	0	1	1
 kwestia	problem	0	0	1	1
-kwestii	matter	0	0	1	0
 kwestii	problem	0	0	1	0
 kwestii	issue	0	0	1	0
 metabolizm	metabolism	0	0	1	1
@@ -3121,7 +3028,6 @@ zamieszkujących	inhabiting	0	0	1	0
 rosją	russia	0	0	1	0
 produkt	product	0	0	1	1
 produkt	products	0	0	1	0
-światła	lights	0	0	1	0
 światła	light	0	0	1	0
 sekcje	section	0	0	1	0
 sekcje	sections	0	0	1	0
@@ -3145,7 +3051,6 @@ odpowiednich	proper	0	0	1	0
 odpowiednich	initials	0	0	1	0
 duży	large	0	0	1	1
 duży	huge	0	0	1	0
-duży	a big	0	0	1	0
 zbiorach	compilations	0	0	1	0
 zbiorach	miscellaneous	0	0	1	0
 zbiorach	sets	0	0	1	0
@@ -3160,8 +3065,7 @@ uderzenia	impact	0	0	1	0
 uderzenia	strike	0	0	1	0
 uderzenia	attack	0	0	1	0
 rzeczywistości	reality	0	0	1	0
-zapach	fragrancy	0	0	1	1
-zapach	smell	0	0	1	1
+young	young	0	0	1	0
 służą	serve	0	0	1	0
 służą	are used to	0	0	1	0
 córki	daughter	0	0	1	0
@@ -3189,15 +3093,12 @@ planował	planned	0	0	1	0
 twierdzenie	theorem	0	0	1	1
 rysunku	drawimg	0	0	1	0
 rysunku	drawing	0	0	1	0
-rysunku	figure	0	0	1	0
 aborcji	abortion	0	0	1	0
 twierdzenia	theroem	0	0	1	0
-twierdzenia	the law of	0	0	1	0
 twierdzenia	laws	0	0	1	0
 aborcja	abortion	0	0	1	0
 dorosłych	adults	0	0	1	0
 magic	magic	0	0	1	0
-britney	britney	0	0	1	0
 ostatnich	oststnich	0	0	1	0
 ostatnich	the last	0	0	1	0
 ostatnich	previous	0	0	1	0
@@ -3297,16 +3198,14 @@ zasadniczo	basically	0	0	1	0
 liturgii	liturgion	0	0	1	0
 liturgii	liturgy	0	0	1	0
 liturgii	litthurgy	0	0	1	0
-zgody	consent	0	0	1	0
-zgody	permission	0	0	1	0
 zgody	approval	0	0	1	0
+zgody	permission	0	0	1	0
 starożytności	ancient history	0	0	1	0
 starożytności	ancient times	0	0	1	0
 starożytności	antiquity	0	0	1	0
 zasadnicze	main	0	0	1	0
 zasadnicze	essential	0	0	1	0
 zasadnicze	fundamental	0	0	1	0
-małopolska	małopolska	0	0	1	0
 małopolska	lesser poland	0	0	1	0
 toteż	also	0	0	1	0
 toteż	so	0	0	1	0
@@ -3348,7 +3247,6 @@ błąd	mistake	0	0	1	1
 projektem	project	0	0	1	0
 córką	daughter	0	0	1	0
 społeczeństwa	society	0	0	1	0
-leżące	locaed	0	0	1	0
 leżące	situated	0	0	1	0
 leżące	lying	0	0	1	0
 dużą	high	0	0	1	0
@@ -3365,13 +3263,11 @@ postanowienia	directives	0	0	1	0
 wizerunku	image	0	0	1	0
 procesy	processess	0	0	1	0
 procesy	processes	0	0	1	0
-procesy	procedures	0	0	1	0
 billboardu	billboard	0	0	1	0
 procesu	process	0	0	1	0
 procesu	trial	0	0	1	0
 high	high	0	0	1	0
 także	also	0	0	1	1
-obiekty	obiects	0	0	1	0
 obiekty	objects	0	0	1	0
 przełomu	breakthrough	0	0	1	0
 przełomu	turn	0	0	1	0
@@ -3404,7 +3300,6 @@ gitara	guitar	0	0	1	1
 obiektu	obiect	0	0	1	0
 obiektu	object	0	0	1	0
 statków	ships	0	0	1	0
-statków	vessels	0	0	1	0
 dyspozycji	use	0	0	1	0
 dyspozycji	at disposal	0	0	1	0
 dyspozycji	disposition	0	0	1	0
@@ -3413,7 +3308,6 @@ npm	amsl	0	0	1	0
 npm	above sea level	0	0	1	0
 npm	over sea level	0	0	1	0
 określonych	defined	0	0	1	0
-określonych	specific	0	0	1	0
 określonych	determined	0	0	1	0
 firmę	company	0	0	1	0
 obchodów	excrement	0	0	1	0
@@ -3449,7 +3343,6 @@ umożliwiło	made possible	0	0	1	0
 umożliwiło	enabled	0	0	1	0
 cambridge	cambridge	0	0	1	0
 prądu	electricity	0	0	1	0
-zasobów	resources	0	0	1	0
 prądy	schisms	0	0	1	0
 prądy	currents	0	0	1	0
 ziemnego	earth	0	0	1	0
@@ -3463,7 +3356,6 @@ utworzenie	creation	0	0	1	1
 utworzenie	creating	0	0	1	0
 deputowanych	deputies	0	0	1	0
 deputowanych	deputees	0	0	1	0
-deputowanych	of representatives	0	0	1	0
 ekspresowych	express	0	0	1	0
 odległości	distance	0	0	1	0
 rzadkich	rare	0	0	1	0
@@ -3472,7 +3364,7 @@ relatywnie	relatively	0	0	1	0
 konkurs	konkurs	0	0	1	0
 konkurs	competition	0	0	1	1
 konkurs	contest	0	0	1	1
-regionu	region	0	0	1	0
+stosunki	relations	0	0	1	0
 umowę	agreement	0	0	1	0
 umowę	a contract	0	0	1	0
 motywów	themes	0	0	1	0
@@ -3576,7 +3468,6 @@ naukowe	scientific	0	0	1	0
 naukowa	scientific	0	0	1	0
 właśnie	at the moment	0	0	1	0
 właśnie	just	0	0	1	1
-przeciwników	opponent	0	0	1	0
 przeciwników	opponents	0	0	1	0
 stałą	constant	0	0	1	0
 stąd	hence	0	0	1	1
@@ -3601,7 +3492,6 @@ gwiazdę	star	0	0	1	0
 strefę	zone	0	0	1	0
 scena	scene	0	0	1	1
 żądania	task	0	0	1	0
-żądania	demsnds	0	0	1	0
 żądania	demands	0	0	1	0
 kontraktu	contract	0	0	1	0
 łączność	communication	0	0	1	1
@@ -3643,7 +3533,6 @@ basista	bassist	0	0	1	0
 basista	bass player	0	0	1	0
 przestrzeni	course	0	0	1	0
 przestrzeni	throughout	0	0	1	0
-przestrzeni	over the	0	0	1	0
 kompetencji	capacity	0	0	1	0
 kompetencji	competences	0	0	1	0
 chorągiew	flag	0	0	1	0
@@ -3683,7 +3572,6 @@ stanowiły	were	0	0	1	0
 stanowiła	accounted	0	0	1	0
 stanowiła	was	0	0	1	0
 akwinu	aquino	0	0	1	0
-akwinu	aquinas	0	0	1	0
 wspólnie	together with	0	0	1	0
 wspólnie	together	0	0	1	1
 stanowiło	determined	0	0	1	0
@@ -3772,7 +3660,6 @@ biała	white	0	0	1	0
 czeski	czech	0	0	1	1
 ówczesnych	of that time	0	0	1	0
 ówczesnych	then	0	0	1	0
-ówczesnych	previous	0	0	1	0
 czeska	czech	0	0	1	0
 nazywał	named	0	0	1	0
 nazywał	called	0	0	1	0
@@ -3846,7 +3733,6 @@ artystka	artist	0	0	1	0
 artystki	artist	0	0	1	0
 artystki	artist's	0	0	1	0
 historycznego	historical	0	0	1	0
-etc	et cetera	0	0	1	0
 etc	etc.	0	0	1	0
 etc	ltd.	0	0	1	0
 czechach	czech	0	0	1	0
@@ -3883,7 +3769,6 @@ elucja	cover	1	0	1	0
 elucja	elution	1	1	0	0
 elucja	covering	1	0	1	0
 utraty	loss	0	0	1	0
-utraty	loss of	0	0	1	0
 społecznej	social	0	0	1	0
 mizantropia	mizathropy	1	0	1	0
 mizantropia	m	1	0	1	0
@@ -3916,20 +3801,17 @@ chrześcijański	christian	0	0	1	1
 hodowla	breeding	0	0	1	1
 hodowla	farming	0	0	1	0
 szkołach	schools	0	0	1	0
-widać	can be seen	0	0	1	1
+widać	can be seen	0	0	1	0
 widać	see	0	0	1	0
 laser	laser	0	0	1	1
 wyraził	express	0	0	1	0
-wyraził	expressed	0	0	1	0
-wyraził	stated	0	0	1	0
 łuku	arc	0	0	1	0
 łuku	bow	0	0	1	0
 wykonywać	perform	0	0	1	1
 wykonywać	executing	0	0	1	0
 wykonywać	accomplished	0	0	1	0
-zespół	set	0	0	1	1
 zespół	team	0	0	1	1
-rzymskokatolicki	roman catholic	0	0	1	1
+rzymskokatolicki	roman catholic	0	0	1	0
 różnorodności	diversity	0	0	1	0
 gamma	gamma	0	0	1	0
 przyjął	assumed	0	0	1	0
@@ -3961,8 +3843,8 @@ zawierał	contained the	0	0	1	0
 zawierał	contain	0	0	1	0
 ball	ball	0	0	1	0
 zrozumienia	understanding	0	0	1	0
-olimpijskich	olimpic	0	0	1	0
 olimpijskich	olympic	0	0	1	0
+olimpijskich	olimpic	0	0	1	0
 najlepszych	the best	0	0	1	0
 najlepszych	top	0	0	1	0
 mieć	has	0	0	1	0
@@ -3990,7 +3872,6 @@ będącego	is	0	0	1	0
 spotkać	meet	0	0	1	1
 spotkać	find	0	0	1	1
 spotkać	come a cross	0	0	1	0
-podobny	similiar	0	0	1	0
 podobny	similar	0	0	1	1
 zaginięcie	loss	0	0	1	0
 zaginięcie	the missing	0	0	1	0
@@ -4111,8 +3992,9 @@ zwanym	called	0	0	1	0
 traktują	take	0	0	1	0
 traktują	treat	0	0	1	0
 traktują	treatment	0	0	1	0
-kibiców	fans	0	0	1	0
-kibiców	supporter	0	0	1	0
+wystąpili	took part	0	0	1	0
+wystąpili	objected	0	0	1	0
+wystąpili	performed	0	0	1	0
 opłaty	charges	0	0	1	0
 opłaty	fees	0	0	1	0
 ekipy	team	0	0	1	0
@@ -4151,7 +4033,8 @@ najlepiej	best	0	0	1	1
 realizację	implementation	0	0	1	0
 realizację	realization	0	0	1	0
 polak	pole	0	0	1	1
-rodzina	family	0	0	1	1
+wodza	chief	0	0	1	0
+wodza	leader	0	0	1	0
 płomień	flame	0	0	1	1
 płomień	plomien	0	0	1	0
 czci	commemorate	0	0	1	0
@@ -4167,13 +4050,12 @@ publicznych	public	0	0	1	0
 majów	mayan	0	0	1	0
 majów	maya	0	0	1	0
 majów	mayans	0	0	1	0
+krótki	short	0	0	1	1
 zostaje	is	0	0	1	0
 zostaje	was	0	0	1	0
 wzgórzu	hill	0	0	1	0
 zagłady	extermination	0	0	1	0
 zagłady	destruction	0	0	1	0
-ulubiona	favourite	0	0	1	0
-ulubiona	favorite	0	0	1	0
 wzgórza	hills	0	0	1	0
 wzgórza	hill	0	0	1	0
 apollo	apollo	0	0	1	1
@@ -4205,7 +4087,6 @@ dochodów	income	0	0	1	0
 rynku	market	0	0	1	0
 wrześniu	september	0	0	1	0
 wrześniu	semptember	0	0	1	0
-powrócić	come back	0	0	1	1
 powrócić	return	0	0	1	1
 ekonomicznych	economic	0	0	1	0
 dowolnej	any	0	0	1	0
@@ -4249,13 +4130,14 @@ szacowana	estimated	0	0	1	0
 niebezpieczeństwo	danger	0	0	1	1
 bydgoszczy	bydgoszcz	0	0	1	0
 chile	chile	0	0	1	0
+tygrysa	tiger	0	0	1	0
+tygrysa	tiger's	0	0	1	0
 sfery	sphere	0	0	1	0
 sfery	domain	0	0	1	0
 sfery	of sphere	0	0	1	0
 niemczech	germany	0	0	1	0
 ośrodkiem	center	0	0	1	0
 ośrodkiem	a centre	0	0	1	0
-zwanego	also known as	0	0	1	0
 zwanego	named	0	0	1	0
 zwanego	called	0	0	1	0
 praktyce	practice	0	0	1	0
@@ -4362,7 +4244,6 @@ działalności	activity	0	0	1	0
 wieki	ages	0	0	1	0
 wieki	years	0	0	1	0
 państwowe	state	0	0	1	0
-państwowe	national	0	0	1	0
 japonii	japan	0	0	1	0
 japonii	japan's	0	0	1	0
 wewnątrz	inside	0	0	1	1
@@ -4388,7 +4269,8 @@ pałacu	palace	0	0	1	0
 równy	equal	0	0	1	1
 równe	equal	0	0	1	0
 legionów	legions	0	0	1	0
-jadwiga	jadwiga	0	0	1	0
+równa	equal	0	0	1	0
+równa	equals	0	0	1	0
 dodatkowo	additional	0	0	1	0
 dodatkowo	additionally	0	0	1	1
 pyłu	dust	0	0	1	0
@@ -4443,9 +4325,8 @@ law	prawo	0	0	1	0
 las	wood	0	0	1	1
 las	las	0	0	1	0
 trzy	three	0	0	1	1
-mocy	under	0	0	1	0
 mocy	force	0	0	1	0
-mocy	under an	0	0	1	0
+mocy	under	0	0	1	0
 wewnętrzną	internal	0	0	1	0
 zagadnienia	issues	0	0	1	0
 azydek	lead azide	1	0	1	0
@@ -4477,10 +4358,8 @@ torunia	torun	0	0	1	0
 masyw	massif	0	0	1	0
 hemp	hemp	0	0	1	0
 szefa	head	0	0	1	0
-szefa	prime minister	0	0	1	0
-zamieszkują	reside	0	0	1	0
 zamieszkują	live	0	0	1	0
-przynajmniej	at least	0	0	1	1
+przynajmniej	at least	0	0	1	0
 obojga	both	0	0	1	0
 obojga	polish–lithuanian commonwealth	0	0	1	0
 utrzymanie	maintaining	0	0	1	0
@@ -4581,8 +4460,9 @@ zmianę	change	0	0	1	0
 naturalną	natural	0	0	1	0
 wojsko	army	0	0	1	1
 stwardnienie	sclerosis	0	0	1	0
-dziedzictwo	childhood	0	0	1	0
-dziedzictwo	heritage	0	0	1	1
+wrażenie	impression	0	0	1	1
+wrażenie	feeling	0	0	1	1
+wrażenie	impression of	0	0	1	0
 miłości	love	0	0	1	0
 wrocław	wroclaw	0	0	1	0
 dziedzictwa	legacy	0	0	1	0
@@ -4595,8 +4475,6 @@ lubelskie	lublin voivodeship	0	0	1	0
 lubelskie	lublin	0	0	1	0
 kompozytorów	composers	0	0	1	0
 kompozytorów	composer	0	0	1	0
-siedzibę	headquarters	0	0	1	0
-siedzibę	headquarter	0	0	1	0
 bakterii	bacteria	0	0	1	0
 bakterii	bacterium	0	0	1	0
 pikornawirusy	picornnaviruses	1	1	0	0
@@ -4622,14 +4500,13 @@ nagraniach	recordings	0	0	1	0
 historycznych	historic	0	0	1	0
 historycznych	historical	0	0	1	0
 kobiety	women	0	0	1	1
-składu	personnel	0	0	1	0
 składu	composition	0	0	1	0
 składu	team	0	0	1	0
 john	john	0	0	1	0
 otoczone	surrounded	0	0	1	0
 otoczone	surrounded by	0	0	1	0
-składa	consists of	0	0	1	0
 składa	comprises	0	0	1	0
+składa	consists of	0	0	1	0
 składa	consist of	0	0	1	0
 korpus	corps	0	0	1	1
 programu	program	0	0	1	0
@@ -4716,8 +4593,8 @@ zmiany	changes	0	0	1	0
 krzywoustego	krzywoustego	0	0	1	0
 krzywoustego	wrymouth	0	0	1	0
 krzywoustego	krzywousty	0	0	1	0
-katastrofie	crash	0	0	1	0
-katastrofie	disaster	0	0	1	0
+realu	rl	0	0	1	0
+realu	real	0	0	1	0
 liczebność	the number of	0	0	1	0
 liczebność	number	0	0	1	0
 umarł	died	0	0	1	0
@@ -4747,7 +4624,6 @@ budynki	buildings	0	0	1	0
 tablic	arrays	0	0	1	0
 tablic	plates	0	0	1	0
 tablic	board	0	0	1	0
-gatunku	genre	0	0	1	0
 gatunku	type	0	0	1	0
 gatunku	species	0	0	1	0
 liczba	number	0	0	1	1
@@ -4763,7 +4639,6 @@ ogólnie	ogolnie	0	0	1	0
 ogólnie	in general	0	0	1	0
 ogólnie	generally	0	0	1	1
 typowych	typical	0	0	1	0
-wypadek	case	0	0	1	1
 wypadek	accident	0	0	1	1
 posiadające	equipped with	0	0	1	0
 posiadające	possessing	0	0	1	0
@@ -4780,12 +4655,12 @@ siebie	his	0	0	1	0
 oznaczenie	tag	0	0	1	0
 oznaczenie	description	0	0	1	0
 oznaczenie	designation	0	0	1	1
-oznaczenia	designations	0	0	1	0
 oznaczenia	symbols	0	0	1	0
+oznaczenia	designations	0	0	1	0
 oznaczenia	tags	0	0	1	0
 do	to	0	0	1	1
 imperium	empire	0	0	1	1
-stalina	stalin's	0	0	1	0
+ponownie	again	0	0	1	1
 dj	dj	0	0	1	0
 di	di	0	0	1	0
 da	da	0	0	1	0
@@ -4824,7 +4699,6 @@ doświadczenie	experience	0	0	1	1
 koszykówka	basketball	0	0	1	0
 zakażenia	infection	0	0	1	0
 zakażenie	infection	0	0	1	1
-zakażenie	contagion	0	0	1	1
 odnalezienie	finding	0	0	1	0
 odnalezienie	find	0	0	1	0
 inny	other	0	0	1	1
@@ -4897,7 +4771,7 @@ aparat	system	0	0	1	0
 aparat	apparatus	0	0	1	1
 czerwca	june	0	0	1	0
 ile	how	0	0	1	0
-ile	how many	0	0	1	1
+ile	how many	0	0	1	0
 raportu	report	0	0	1	0
 raportu	repor	0	0	1	0
 zbiorowa	collective	0	0	1	0
@@ -4935,7 +4809,6 @@ krytyka	criticizing	0	0	1	0
 zdecydowano	it was decided	0	0	1	0
 zdecydowano	decided	0	0	1	0
 zawierają	include	0	0	1	0
-zawierają	contains	0	0	1	0
 poznańskiego	poznan	0	0	1	0
 poznańskiego	poznań	0	0	1	0
 ignacy	ignacy	0	0	1	0
@@ -4955,8 +4828,8 @@ odnoszą	are	0	0	1	0
 odnoszą	achieve	0	0	1	0
 dół	down	0	0	1	0
 dół	bottom	0	0	1	1
-zauważa	is noted	0	0	1	0
 zauważa	notices	0	0	1	0
+zauważa	is noted	0	0	1	0
 zauważa	notice	0	0	1	0
 cesarz	emperor	0	0	1	1
 członkiem	member	0	0	1	0
@@ -4968,7 +4841,6 @@ strona	page	0	0	1	1
 biologicznych	biological	0	0	1	0
 wielkich	great	0	0	1	0
 zwyczajny	ordinary	0	0	1	1
-zwyczajny	grass	0	0	1	0
 holmenkollbakken	holmemkollbakken	0	0	1	0
 holmenkollbakken	holmenkollbakken	0	0	1	0
 ewolucji	evolution	0	0	1	0
@@ -5007,8 +4879,7 @@ braku	lack	0	0	1	0
 znakiem	sign	0	0	1	0
 twardy	hard	0	0	1	1
 twardy	tough	0	0	1	1
-krajowa	national	0	0	1	0
-krajowa	state	0	0	1	0
+gustav	gustav	0	0	1	0
 brać	take	0	0	1	1
 psychologii	psychology	0	0	1	0
 przyjęcie	adapting	0	0	1	0
@@ -5034,7 +4905,6 @@ coś	something	0	0	1	1
 dobrym	good	0	0	1	0
 stosowana	used	0	0	1	0
 szybkości	speed	0	0	1	0
-nie	does not	0	0	1	0
 nie	doesn't	0	0	1	0
 nie	no	0	0	1	1
 jesteśmy	we are	0	0	1	0
@@ -5059,13 +4929,14 @@ inną	other	0	0	1	0
 inną	another	0	0	1	0
 mąż	husband	0	0	1	1
 the	the	0	0	1	0
-etniczne	ethnic	0	0	1	0
+medycyna	medicine	0	0	1	1
+medycyna	medecine	0	0	1	0
 musical	musical	0	0	1	0
 przewód	duct	0	0	1	1
 przewód	pipe	0	0	1	1
 przewód	wire	0	0	1	1
 arcybiskup	archbishop	0	0	1	1
-muzycy	musicians	0	0	1	0
+petersburgu	petersburg	0	0	1	0
 opanować	master the	0	0	1	0
 opanować	got under control	0	0	1	0
 opanować	conquer	0	0	1	1
@@ -5095,7 +4966,6 @@ myśl	thought	0	0	1	1
 myśl	idea	0	0	1	1
 arab	arabic	0	0	1	0
 pracach	work	0	0	1	0
-pracach	works	0	0	1	0
 prowadzone	carried out	0	0	1	0
 prowadzone	led	0	0	1	0
 prowadzone	run	0	0	1	0
@@ -5143,7 +5013,6 @@ oralny	oral	0	0	1	0
 odbył	took place	0	0	1	0
 fazę	phase	0	0	1	0
 przyrost	birthrate	0	0	1	0
-przyrost	increase	0	0	1	1
 przyrost	growth	0	0	1	1
 uprawy	cultivation	0	0	1	0
 uprawy	cultivations	0	0	1	0
@@ -5177,7 +5046,6 @@ naukowego	scientific	0	0	1	0
 tłuszcze	fats	0	0	1	0
 tłuszcze	fat	0	0	1	0
 chłopców	boys	0	0	1	0
-chłopców	boys'	0	0	1	0
 zaburzenia	disoorders	0	0	1	0
 zaburzenia	disorders	0	0	1	0
 post	post	0	0	1	0
@@ -5260,7 +5128,7 @@ rozkwit	blooming	0	0	1	0
 wskutek	in effect	0	0	1	0
 wskutek	result	0	0	1	0
 wskutek	becouse of	0	0	1	0
-strach	fear	0	0	1	1
+enigma	enigma	0	0	1	1
 zwierząt	animals	0	0	1	0
 zwierząt	animal	0	0	1	0
 małych	small	0	0	1	0
@@ -5269,6 +5137,7 @@ wersalskiego	versaille	0	0	1	0
 wersalskiego	versailles	0	0	1	0
 potwierdził	confirmed	0	0	1	0
 potwierdził	confirm	0	0	1	0
+korei	korea	0	0	1	0
 stanowili	constituted	0	0	1	0
 juliusza	julius	0	0	1	0
 juliusza	of juliusz	0	0	1	0
@@ -5309,12 +5178,11 @@ stroje	outfits	0	0	1	0
 autonomii	autonomy	0	0	1	0
 przymierza	alliance	0	0	1	0
 przymierza	the covenant	0	0	1	0
-osobiście	in person	0	0	1	1
+osobiście	in person	0	0	1	0
 osobiście	personally	0	0	1	1
 wielkopolski	greater poland	0	0	1	0
 wielkopolski	one of the poland's counties	0	0	1	0
 gogha	gogh's	0	0	1	0
-gogha	goghs	0	0	1	0
 gogha	gogh	0	0	1	0
 świecie	world	0	0	1	0
 świecie	candles	0	0	1	0
@@ -5360,7 +5228,7 @@ może	it can	0	0	1	0
 śródstopie	structure	1	0	1	0
 wzrostu	increase	0	0	1	0
 wzrostu	growth	0	0	1	0
-nowymi	new	0	0	1	0
+działalnością	activity	0	0	1	0
 okupowanych	occupied	0	0	1	0
 serwerów	servers	0	0	1	0
 serwerów	server	0	0	1	0
@@ -5373,7 +5241,6 @@ formie	form	0	0	1	0
 finlandia	finland	0	0	1	0
 wykonywana	executed	0	0	1	0
 wykonywana	done	0	0	1	0
-wykonywane	carried out	0	0	1	0
 wykonywane	executed	0	0	1	0
 wykonywane	crafted	0	0	1	0
 warszawskie	warsaw	0	0	1	0
@@ -5408,7 +5275,6 @@ p	p	0	0	1	0
 mariusz	marius	0	0	1	0
 budynek	building	0	0	1	1
 guz	tumor	0	0	1	1
-guz	tumour	0	0	1	1
 narodowego	national	0	0	1	0
 alfa	alpha	0	0	1	1
 zwyczaj	custom	0	0	1	1
@@ -5446,15 +5312,12 @@ rodzaje	types	0	0	1	0
 zaawansowane	advanced	0	0	1	0
 zależności	depending on	0	0	1	0
 zależności	depends	0	0	1	0
-zależności	dependence	0	0	1	0
 zdobyć	gain	0	0	1	1
-zdobyć	achieve	0	0	1	1
 francuska	french	0	0	1	0
 zielony	green	0	0	1	1
 wstęp	introduction	0	0	1	1
 wstęp	admission	0	0	1	1
 zygmunt	sigmunt	0	0	1	0
-zygmunt	siegmund	0	0	1	0
 zygmunt	zygmunt	0	0	1	0
 francuski	french	0	0	1	1
 zespołem	band	0	0	1	0
@@ -5477,7 +5340,7 @@ wyjścia	leaving	0	0	1	0
 zielone	green	0	0	1	0
 nocą	by night	0	0	1	0
 nocą	night	0	0	1	0
-systemów	systems	0	0	1	0
+zasobów	resources	0	0	1	0
 archipelag	archipelago	0	0	1	1
 archipelag	archipelego	0	0	1	0
 wspólną	common	0	0	1	0
@@ -5505,7 +5368,6 @@ obszarze	area	0	0	1	0
 sztukę	art	0	0	1	0
 archipelagu	archipelago	0	0	1	0
 religijny	religious	0	0	1	1
-club	club	0	0	1	0
 pokonał	beat	0	0	1	0
 pokonał	defeated	0	0	1	0
 religijna	religious	0	0	1	0
@@ -5566,9 +5428,7 @@ operacyjny	operational	0	0	1	1
 operacyjny	operating	0	0	1	1
 operacyjny	operiational	0	0	1	0
 codziennym	everyday	0	0	1	0
-codziennym	daily	0	0	1	0
 ssaki	mammals	0	0	1	0
-ssaki	a type of dinosaur	0	0	1	0
 pochodził	came	0	0	1	0
 pochodził	comes from	0	0	1	0
 operacyjne	operation	0	0	1	0
@@ -5587,8 +5447,8 @@ zakres	range	0	0	1	1
 kurs	policy	0	0	1	0
 kurs	course	0	0	1	1
 michel	michel	0	0	1	0
-rzutu	throw	0	0	1	0
 rzutu	projection	0	0	1	0
+rzutu	throw	0	0	1	0
 żywych	living	0	0	1	0
 żywych	alive	0	0	1	0
 strumień	stream	0	0	1	1
@@ -5631,7 +5491,6 @@ narodzin	birth	0	0	1	0
 noc	night	0	0	1	1
 hala	hall	0	0	1	1
 zarówno	both	0	0	1	1
-zarówno	either	0	0	1	0
 opublikował	opublikowal	0	0	1	0
 opublikował	published	0	0	1	0
 not	nie	0	0	1	0
@@ -5697,7 +5556,6 @@ cesarstwo	empire	0	0	1	1
 cesarstwo	impire	0	0	1	0
 pomysł	idea	0	0	1	1
 oddziaływania	impact	0	0	1	0
-oddziaływania	interaction	0	0	1	0
 oddziaływania	influence	0	0	1	0
 setki	hundreds	0	0	1	0
 british	british	0	0	1	0
@@ -5732,7 +5590,6 @@ wszelką	any	0	0	1	0
 niemieckie	german	0	0	1	0
 styczeń	january	0	0	1	1
 lotniczy	air	0	0	1	1
-lotniczy	flight	0	0	1	0
 lotniczy	airway	0	0	1	0
 dziełem	work of	0	0	1	0
 dziełem	work	0	0	1	0
@@ -5786,7 +5643,7 @@ regionach	regions	0	0	1	0
 kardynała	cardinal	0	0	1	0
 zimnej	cold	0	0	1	0
 zimnej	older	0	0	1	0
-premier	prime minister	0	0	1	1
+premier	prime minister	0	0	1	0
 układu	pact	0	0	1	0
 prasy	press	0	0	1	0
 przedstawicielami	representatives	0	0	1	0
@@ -5821,7 +5678,7 @@ bufor	this buffer	1	0	1	0
 bufor	unity	1	0	1	0
 bufor	buffor	1	0	1	0
 dotąd	till now	0	0	1	0
-dotąd	so far	0	0	1	1
+dotąd	so far	0	0	1	0
 kampania	campaign	0	0	1	1
 wkrótce	soon	0	0	1	1
 dzisiejszych	current	0	0	1	0
@@ -5900,14 +5757,11 @@ sporo	many	0	0	1	0
 sporo	a lot of	0	0	1	0
 uważana	concidered	0	0	1	0
 uważana	considered	0	0	1	0
-uważana	regarded	0	0	1	0
 pełnej	full	0	0	1	0
 warstwa	layer	0	0	1	1
 prowadzących	leading	0	0	1	0
 prowadzących	conducting	0	0	1	0
-prowadzących	carrying	0	0	1	0
-wolnej	fre	0	0	1	0
-wolnej	free	0	0	1	0
+kontynentu	continent	0	0	1	0
 uległy	underwent	0	0	1	0
 uległy	became	0	0	1	0
 uległy	got	0	0	1	0
@@ -5926,7 +5780,6 @@ skrócie	short	0	0	1	0
 skrócie	brief	0	0	1	0
 zespoły	bands	0	0	1	0
 zespoły	groups	0	0	1	0
-zespoły	teams	0	0	1	0
 przepisy	regulations	0	0	1	0
 przepisy	rules	0	0	1	0
 kolumny	column	0	0	1	0
@@ -5962,14 +5815,13 @@ znalazły	landed	0	0	1	0
 znalazły	became	0	0	1	0
 znalazły	were placed	0	0	1	0
 ścisłej	close	0	0	1	0
-ścisłej	top	0	0	1	0
 ścisłej	strict	0	0	1	0
 nilu	of nile	0	0	1	0
 nilu	nile	0	0	1	0
 prezydent	president	0	0	1	1
 doświadczeń	experiences	0	0	1	0
 zaraz	after	0	0	1	0
-zaraz	right away	0	0	1	1
+zaraz	right away	0	0	1	0
 zaraz	soon	0	0	1	1
 zaraz	just	0	0	1	0
 czynniki	factors	0	0	1	0
@@ -5981,7 +5833,6 @@ dłużej	longer	0	0	1	0
 marszałek	speaker	0	0	1	1
 marszałek	marshal	0	0	1	1
 niziny	lowlands	0	0	1	0
-wiem	i know	0	0	1	0
 wiem	know	0	0	1	0
 wiek	age	0	0	1	1
 wiek	wiek	0	0	1	0
@@ -5991,6 +5842,7 @@ tworzyć	form	0	0	1	1
 wzajemne	mutual	0	0	1	0
 czerwonego	red	0	0	1	0
 nizina	lowland	0	0	1	1
+nominowany	nominated	0	0	1	0
 samolotu	airplane	0	0	1	0
 samolotu	plane	0	0	1	0
 sytuacji	situation	0	0	1	0
@@ -6009,8 +5861,7 @@ wojtyła	wojtyla	0	0	1	0
 tworzył	was active	0	0	1	0
 tworzył	creating	0	0	1	0
 tworzył	created	0	0	1	0
-wodny	water	0	0	1	1
-wodny	aquatic	0	0	1	1
+senat	senat	0	0	1	0
 bielskabiałej	bielsko-biała (city)	0	0	1	0
 bielskabiałej	of bielsko-biała	0	0	1	0
 izrael	israel	0	0	1	1
@@ -6057,10 +5908,8 @@ całości	whole	0	0	1	0
 płci	gender	0	0	1	0
 płci	sex	0	0	1	0
 ustrój	political system	0	0	1	0
-ustrój	system	0	0	1	1
 ustrój	mood	0	0	1	0
 tętnic	artery	0	0	1	0
-tętnic	arteries	0	0	1	0
 dyrektor	director	0	0	1	1
 muzyk	musician	0	0	1	1
 odkryty	discovered	0	0	1	1
@@ -6107,23 +5956,19 @@ real	real	0	0	1	1
 real	real madryt - football club	0	0	1	0
 litewskiego	lithuanian	0	0	1	0
 wydawnictwo	press	0	0	1	0
-wydawnictwo	publishing house	0	0	1	1
-wydawnictwo	label	0	0	1	0
+wydawnictwo	publishing house	0	0	1	0
 umocnienia	fortifications	0	0	1	0
 umocnienia	strengthening	0	0	1	0
 wydawnictwa	album	0	0	1	0
 wydawnictwa	publisher	0	0	1	0
 wydawnictwa	publishing house	0	0	1	0
 zawierała	featured	0	0	1	0
-zawierała	contained	0	0	1	0
 zawierała	includes	0	0	1	0
 miesięcy	months	0	0	1	0
 psy	dogs	0	0	1	0
 odrzucił	rejected	0	0	1	0
 brukseli	brussels	0	0	1	0
-tegoż	this	0	0	1	0
 tegoż	that	0	0	1	0
-odczytu	read	0	0	1	0
 odczytu	reading	0	0	1	0
 odczytu	readout	0	0	1	0
 artykuły	articles	0	0	1	0
@@ -6171,7 +6016,6 @@ byłych	former	0	0	1	0
 tylne	back	0	0	1	0
 tylne	rear	0	0	1	0
 ziemiach	the lands	0	0	1	0
-ziemiach	lands	0	0	1	0
 ziemiach	grounds	0	0	1	0
 arabów	arabs	0	0	1	0
 szerokim	wide	0	0	1	0
@@ -6192,17 +6036,13 @@ władza	authority	0	0	1	1
 władza	power	0	0	1	1
 gałęzią	branch	0	0	1	0
 władze	authorities	0	0	1	1
-władze	government	0	0	1	1
 forks	forks	0	0	1	0
 zmniejsza	decreasing	0	0	1	0
 zmniejsza	decrease	0	0	1	0
 zmniejsza	gets smaller	0	0	1	0
 border|px	a border	0	0	1	0
 border|px	same as in english	0	0	1	0
-nmp	blessed virgin mary	0	0	1	0
-nmp	blessed holy mary	0	0	1	0
-nmp	virgin mary	0	0	1	0
-zwolennicy	followers	0	0	1	0
+business	business	0	0	1	0
 zwolennicy	supporters	0	0	1	0
 argumentów	arguments	0	0	1	0
 ekonomiczne	economic	0	0	1	0
@@ -6212,7 +6052,6 @@ uprawnienia	permissions	0	0	1	0
 nsdap	nsdap	0	0	1	0
 gazu	gas	0	0	1	0
 zaopatrzenia	supplies	0	0	1	0
-zaopatrzenia	supply	0	0	1	0
 szybciej	faster	0	0	1	0
 arabskie	arabic	0	0	1	0
 uwaga	attention	0	0	1	1
@@ -6243,10 +6082,8 @@ filozofii	philosophy	0	0	1	0
 protesty	protests	0	0	1	0
 zakład	institute	0	0	1	1
 zakład	deal	0	0	1	0
-starszych	elderly	0	0	1	0
-starszych	older	0	0	1	0
+operator	operator	0	0	1	1
 członkowie	members	0	0	1	0
-obrazów	images	0	0	1	0
 obrazów	pictures	0	0	1	0
 obrazów	paintings	0	0	1	0
 zakładów	plants	0	0	1	0
@@ -6271,7 +6108,6 @@ katolicki	catholic	0	0	1	1
 obrazu	image	0	0	1	0
 obrazu	outlook	0	0	1	0
 stary	old	0	0	1	1
-stary	"zygmunt i stary" = "sigismund i of poland"	0	0	1	0
 kinetoskop	cathode ray tube	1	0	1	0
 kinetoskop	cinetoscope	1	0	1	0
 kinetoskop	crt	1	0	1	0
@@ -6401,7 +6237,6 @@ innymi	other	0	0	1	0
 przywrócenia	restoration	0	0	1	0
 przywrócenia	returning	0	0	1	0
 północnego	north	0	0	1	0
-północnego	northern	0	0	1	0
 wojnach	wars	0	0	1	0
 magdalena	magdalena	0	0	1	0
 najwyższego	highest	0	0	1	0
@@ -6412,13 +6247,9 @@ sepsy	septic shock	0	0	1	0
 miastami	towns	0	0	1	0
 miastami	cities	0	0	1	0
 właścicielem	owner	0	0	1	0
-objawia	display symptoms	0	0	1	0
-objawia	manifests itself	0	0	1	0
-objawia	shows	0	0	1	0
 zmienił	changed	0	0	1	0
 przyznała	granted	0	0	1	0
 przyznała	admitted	0	0	1	0
-przyznała	gave	0	0	1	0
 litewskie	lithuanian	0	0	1	0
 różną	different	0	0	1	0
 różną	bbq	0	0	1	0
@@ -6445,7 +6276,6 @@ dolnych	lower	0	0	1	0
 powstaniu	making	0	0	1	0
 powstaniu	rise	0	0	1	0
 powstaniu	creating	0	0	1	0
-okolice	region	0	0	1	0
 okolice	around	0	0	1	0
 okolice	area	0	0	1	0
 powstania	uprisings	0	0	1	0
@@ -6480,11 +6310,9 @@ określony	defined	0	0	1	0
 określony	determined	0	0	1	0
 określony	particular	0	0	1	1
 głównej	main	0	0	1	0
-głównej	mainly	0	0	1	0
 powstawały	developed	0	0	1	0
 powstawały	were formed	0	0	1	0
 powstawały	were written	0	0	1	0
-określone	defined	0	0	1	0
 określone	determined	0	0	1	0
 określone	definite	0	0	1	0
 monarchii	monarchii	0	0	1	0
@@ -6498,8 +6326,8 @@ monarchii	monarchy	0	0	1	0
 ślinotok	salivation	1	1	0	1
 ślinotok	(anterior) drooling	1	0	1	0
 ślinotok	slobber	1	0	1	0
-odwrót	draw back	0	0	1	0
 odwrót	retreat	0	0	1	1
+odwrót	draw back	0	0	1	0
 przełomie	break	0	0	1	0
 przełomie	turn	0	0	1	0
 owym	at that	0	0	1	0
@@ -6575,8 +6403,6 @@ wpływu	influence	0	0	1	0
 wpływy	influence	0	0	1	0
 wpływy	influences	0	0	1	0
 belgii	belgium	0	0	1	0
-stworzenia	creation	0	0	1	0
-stworzenia	creating	0	0	1	0
 człowiek	human	0	0	1	1
 człowiek	man	0	0	1	1
 kontrowersje	controversies	0	0	1	0
@@ -6585,7 +6411,6 @@ wpływa	influences	0	0	1	0
 wpływa	comes	0	0	1	0
 austrowęgry	austro-hungarian_empire	0	0	1	0
 austrowęgry	austria-hungary	0	0	1	0
-mk	mk	0	0	1	0
 wolności	freedom	0	0	1	0
 ustalić	establish	0	0	1	1
 ustalić	figure out	0	0	1	0
@@ -6621,14 +6446,13 @@ naturalnego	naural	0	0	1	0
 naturalnego	natural	0	0	1	0
 ssaków	mammals	0	0	1	0
 cen	prices	0	0	1	0
-cel	aim	0	0	1	1
-cel	aiming	0	0	1	1
-cel	goal	0	0	1	1
+siły	forces	0	0	1	0
 środkową	middle	0	0	1	0
 środkową	central	0	0	1	0
 pojawia	appears	0	0	1	0
-malarstwo	painting	0	0	1	1
-malarstwo	fine art	0	0	1	0
+przyjmuje	assume	0	0	1	0
+przyjmuje	assumed	0	0	1	0
+przyjmuje	takes	0	0	1	0
 siła	force	0	0	1	1
 siła	power	0	0	1	1
 krzysztof	krzysztof	0	0	1	0
@@ -6703,7 +6527,6 @@ karę	punishment	0	0	1	0
 karę	sentence	0	0	1	0
 powietrzu	air	0	0	1	0
 syrii	syria	0	0	1	0
-american	american	0	0	1	0
 american	amerykański	0	0	1	0
 belgia	belgium	0	0	1	0
 powietrza	air	0	0	1	0
@@ -6738,7 +6561,6 @@ siłę	power	0	0	1	0
 przez	by	0	0	1	1
 zachodzić	occur	0	0	1	0
 zachodzić	overlap	0	0	1	1
-zachodzić	conduct	0	0	1	0
 składnikiem	compnent	0	0	1	0
 składnikiem	constituent	0	0	1	0
 składnikiem	element	0	0	1	0
@@ -6766,7 +6588,6 @@ przynależność	membership	0	0	1	1
 norma	norm	0	0	1	1
 norma	standard	0	0	1	1
 jamie	cavity	0	0	1	0
-utworzono	was made	0	0	1	0
 utworzono	created	0	0	1	0
 lupus	lupus	0	0	1	0
 zachowane	behaviour	0	0	1	0
@@ -6801,7 +6622,6 @@ radiowych	radio	0	0	1	0
 użyciu	usage	0	0	1	0
 użyciu	use	0	0	1	0
 zbiorników	basins	0	0	1	0
-zbiorników	containers	0	0	1	0
 zbiorników	tanks	0	0	1	0
 kart	leaves	0	0	1	0
 kart	pages	0	0	1	0
@@ -6868,7 +6688,7 @@ prywatne	private	0	0	1	0
 dziesięciu	10	0	0	1	0
 dziesięciu	ten	0	0	1	0
 kręgowców	vertebrates	0	0	1	0
-niejednokrotnie	more than once	0	0	1	1
+niejednokrotnie	more than once	0	0	1	0
 niejednokrotnie	not once	0	0	1	0
 niejednokrotnie	often	0	0	1	0
 pisarze	writers	0	0	1	0
@@ -6877,8 +6697,7 @@ osiągając	reaching	0	0	1	0
 pisarza	writer	0	0	1	0
 stefan	stefan	0	0	1	0
 srebrny	silver	0	0	1	1
-piłkarza	football player	0	0	1	0
-piłkarza	soccer player	0	0	1	0
+filozofów	philosophers	0	0	1	0
 kategoriahasła	kategoriahasla	0	0	1	0
 ramię	arm	0	0	1	1
 aglomeracja	metropole	0	0	1	0
@@ -6921,10 +6740,8 @@ pisarz	writer	0	0	1	1
 poświęcony	dedicated	0	0	1	0
 poświęcony	blessed	0	0	1	0
 poświęcone	dedicated	0	0	1	0
-poświęcone	dedicated to	0	0	1	0
 początku	begining	0	0	1	0
 początku	beginning	0	0	1	0
-poświęcona	devoted	0	0	1	0
 poświęcona	consecrated	0	0	1	0
 poświęcona	dedicated to	0	0	1	0
 konieczność	obligation	0	0	1	0
@@ -6967,9 +6784,7 @@ lubelski	lublin	0	0	1	0
 lubelski	pertaining to lubel	0	0	1	0
 produktem	product	0	0	1	0
 katedry	cathedral	0	0	1	0
-katedry	catedra	0	0	1	0
 jeden	one	0	0	1	1
-walczących	fights	0	0	1	0
 walczących	fighting	0	0	1	0
 numer	number	0	0	1	1
 lubelska	lublin	0	0	1	0
@@ -6980,7 +6795,9 @@ wędrówki	migration	0	0	1	0
 przeżył	expierenced	0	0	1	0
 przeżył	survived	0	0	1	0
 katedra	cathedral	0	0	1	1
-równiku	equator	0	0	1	0
+spraw	interests	0	0	1	0
+spraw	case	0	0	1	0
+spraw	issues	0	0	1	0
 stale	constantly	0	0	1	1
 stale	pernamently	0	0	1	0
 współczesnego	nowadays	0	0	1	0
@@ -6990,8 +6807,9 @@ stanowisko	position	0	0	1	1
 stanowisko	stanowisko	0	0	1	0
 stanowisko	stand	0	0	1	1
 efekcie	effect	0	0	1	0
-demokratycznych	democratic	0	0	1	0
-demokratycznych	democtratic	0	0	1	0
+stanowiska	position	0	0	1	0
+stanowiska	posts	0	0	1	0
+stanowiska	positions	0	0	1	0
 okupacji	occupation	0	0	1	0
 tangens	tangent	0	0	1	1
 podmiotów	entities	0	0	1	0
@@ -6999,7 +6817,6 @@ podmiotów	subjects	0	0	1	0
 podmiotów	subject	0	0	1	0
 elektrony	electrons	0	0	1	0
 stanowisku	position	0	0	1	0
-stanowisku	post	0	0	1	0
 przekonać	convince	0	0	1	1
 zawodnika	player	0	0	1	0
 zawodnika	competitor	0	0	1	0
@@ -7019,18 +6836,16 @@ kazimierz	casimir	0	0	1	0
 zwana	called	0	0	1	0
 chciała	wanted	0	0	1	0
 chciała	wished	0	0	1	0
-chciała	wanted to	0	0	1	0
 karla	karl	0	0	1	0
 oskrzeli	bronchi	0	0	1	0
 oskrzeli	bronchus	0	0	1	0
 oskrzeli	bronchitis	0	0	1	0
 siarki	sulfur	0	0	1	0
-siarki	sulphur	0	0	1	0
-komputer	computer	0	0	1	1
+roczne	yearly	0	0	1	0
+roczne	annual	0	0	1	0
 siarka	sulfur	0	0	1	1
 siarka	sulphur	0	0	1	1
 telewizji	tv	0	0	1	0
-telewizji	television	0	0	1	0
 śmierci	death	0	0	1	0
 śmierci	deaths	0	0	1	0
 telewizja	tv	0	0	1	0
@@ -7096,7 +6911,8 @@ produkcją	production	0	0	1	0
 produkcją	historykow	0	0	1	0
 morsea	of morse	0	0	1	0
 morsea	morse	0	0	1	0
-komputerów	computers	0	0	1	0
+działaniach	activities	0	0	1	0
+działaniach	actions	0	0	1	0
 pierwsi	the first	0	0	1	0
 pierwsi	first	0	0	1	0
 krzepnięcia	curd	0	0	1	0
@@ -7164,7 +6980,6 @@ foreman	foreman	0	0	1	0
 wraca	returns	0	0	1	0
 wraca	cames back	0	0	1	0
 wraca	get back	0	0	1	0
-wyznacza	created	0	0	1	0
 wyznacza	delimits	0	0	1	0
 wyznacza	marks	0	0	1	0
 bowiem	because	0	0	1	1
@@ -7187,7 +7002,7 @@ decyzji	decision	0	0	1	0
 decyzji	decisions	0	0	1	0
 konstanty	konstanty	0	0	1	0
 wtedy	then	0	0	1	1
-wtedy	in those days	0	0	1	1
+wtedy	in those days	0	0	1	0
 przysługuje	are entitled	0	0	1	0
 przysługuje	are entitled to	0	0	1	0
 przysługuje	entitled	0	0	1	0
@@ -7198,7 +7013,6 @@ skupiska	cluster	0	0	1	0
 skupiska	center	0	0	1	0
 kosowa	kosovo	0	0	1	0
 uczy	learns	0	0	1	0
-uczy	teaches	0	0	1	0
 uczy	uczy	0	0	1	0
 kosowo	kosovo	0	0	1	0
 vincenta	vincent	0	0	1	0
@@ -7212,7 +7026,6 @@ przybyciu	arrival	0	0	1	0
 przybyciu	coming	0	0	1	0
 ożenił	married	0	0	1	0
 emmy	emma	0	0	1	0
-emmy	emmy	0	0	1	0
 mająca	had	0	0	1	0
 mająca	having	0	0	1	0
 mająca	month	0	0	1	0
@@ -7240,7 +7053,6 @@ sposoby	characters	0	0	1	0
 utrzymywanie	keeping	0	0	1	0
 utrzymywanie	maintainance	0	0	1	0
 utrzymywanie	maintaining	0	0	1	0
-klasa	class	0	0	1	1
 sposobu	way	0	0	1	0
 sposobu	manner	0	0	1	0
 sposobu	way of	0	0	1	0
@@ -7252,7 +7064,6 @@ zbudowane	built	0	0	1	0
 wyrazem	accolade	0	0	1	0
 wyrazem	expression	0	0	1	0
 wyrazem	tribute	0	0	1	0
-zbudowany	completed	0	0	1	0
 zbudowany	built	0	0	1	0
 zrobić	do	0	0	1	1
 zrobić	make	0	0	1	1
@@ -7284,7 +7095,7 @@ produkcji	production	0	0	1	0
 umiejętność	ability	0	0	1	0
 dotychczas	dotychuzas	0	0	1	0
 dotychczas	hitherto	0	0	1	1
-dotychczas	so far	0	0	1	1
+dotychczas	so far	0	0	1	0
 naturalnej	natural	0	0	1	0
 odchylenia	deviation	0	0	1	0
 odchylenia	abberations	0	0	1	0
@@ -7357,7 +7168,6 @@ dvd	dvd	0	0	1	0
 dvd	same as in english	0	0	1	0
 zawody	championships	0	0	1	0
 zawody	truth	0	0	1	0
-zawody	competition	0	0	1	0
 ruś	ruthenia	0	0	1	0
 ruś	ruś	0	0	1	0
 ruś	russia	0	0	1	0
@@ -7375,7 +7185,7 @@ tadeusz	tadeusz	0	0	1	0
 dobrego	good	0	0	1	0
 ogólnym	general meaning	0	0	1	0
 ogólnym	general	0	0	1	0
-odtąd	from now on	0	0	1	1
+odtąd	from now on	0	0	1	0
 odtąd	since	0	0	1	0
 go	it	0	0	1	0
 politykę	politics	0	0	1	0
@@ -7399,7 +7209,6 @@ rządu	government	0	0	1	0
 uznając	respecting	0	0	1	0
 uznając	considering	0	0	1	0
 uznając	regarding	0	0	1	0
-rządy	governments	0	0	1	0
 rządy	rule	0	0	1	0
 rządy	regime	0	0	1	1
 chmur	clouds	0	0	1	0
@@ -7410,7 +7219,7 @@ judaizm	judaism	0	0	1	1
 kwietnia	april	0	0	1	0
 veyron	veyron	0	0	1	0
 daleko	far	0	0	1	1
-daleko	far away	0	0	1	1
+daleko	far away	0	0	1	0
 izabela	isabella	0	0	1	0
 izabela	izabela	0	0	1	0
 poważnych	serious	0	0	1	0
@@ -7423,7 +7232,6 @@ państwem	state	0	0	1	0
 klęski	failure	0	0	1	0
 klęski	disasters	0	0	1	0
 austrią	austria	0	0	1	0
-barbara	barbara	0	0	1	0
 zm	died	0	0	1	0
 sekretarz	secretary	0	0	1	1
 carter	carter	0	0	1	0
@@ -7446,7 +7254,6 @@ białymstoku	białystok	0	0	1	0
 białymstoku	bialystok	0	0	1	0
 pokonując	beating	0	0	1	0
 pokonując	moving	0	0	1	0
-pokonując	defeating	0	0	1	0
 ofensywa	offensive	0	0	1	1
 ofensywa	agression	0	0	1	0
 celu	aim	0	0	1	0
@@ -7478,7 +7285,7 @@ błędów	errors	0	0	1	0
 żelaza	iron	0	0	1	0
 eminem	eminem	0	0	1	0
 skąd	where from	0	0	1	0
-skąd	from where	0	0	1	1
+skąd	from where	0	0	1	0
 traktatem	treatise	0	0	1	0
 traktatem	treaty	0	0	1	0
 wynikają	are derived	0	0	1	0
@@ -7557,7 +7364,6 @@ najważniejszymi	the most important	0	0	1	0
 najważniejszymi	main	0	0	1	0
 kwadratu	square	0	0	1	0
 halloween	halloween	0	0	1	0
-świadomości	conscience	0	0	1	0
 świadomości	consciousness	0	0	1	0
 świadomości	awareness	0	0	1	0
 lepiej	better	0	0	1	1
@@ -7615,12 +7421,12 @@ prowincji	province	0	0	1	0
 ocznej	ocular	0	0	1	0
 ocznej	eyeball	0	0	1	0
 ocznej	eye	0	0	1	0
-słoneczny	sun	0	0	1	1
 słoneczny	katastroficzne	0	0	1	0
 słoneczny	solar	0	0	1	1
 prowincje	provinces	0	0	1	0
 dóbr	goods	0	0	1	0
-złotej	golden	0	0	1	0
+zapach	fragrancy	0	0	1	1
+zapach	smell	0	0	1	1
 prowincja	province	0	0	1	1
 solidarność	solidarity	0	0	1	1
 finał	finally	0	0	1	0
@@ -7661,13 +7467,13 @@ charakter	character	0	0	1	1
 charakter	nature	0	0	1	1
 stężenie	concentration	0	0	1	1
 kanały	channels	0	0	1	0
-front	front	0	0	1	1
+kompozytora	composer	0	0	1	0
+ogłosiła	announced	0	0	1	0
 kanału	canal	0	0	1	0
 kanału	channel	0	0	1	0
 dekoracji	decoration	0	0	1	0
 dekoracji	decorations	0	0	1	0
 fotosyntezy	photosynthesis	0	0	1	0
-fotosyntezy	fotosynthesis	0	0	1	0
 opieka	care	0	0	1	1
 mody	fashion	0	0	1	0
 mody	fashions	0	0	1	0
@@ -7682,10 +7488,9 @@ moda	fashion	0	0	1	1
 sukcesem	success	0	0	1	0
 bacha	bach (last name)	0	0	1	0
 bacha	bach's	0	0	1	0
-bacha	bach	0	0	1	0
 projekty	projects	0	0	1	0
-wolno	must	0	0	1	0
 wolno	allowed	0	0	1	0
+wolno	must	0	0	1	0
 wchodzi	comes in	0	0	1	0
 wchodzi	enters	0	0	1	0
 wchodzi	are	0	0	1	0
@@ -7707,14 +7512,12 @@ serbia	serbia	0	0	1	0
 wzrost	incrementation (growth)	0	0	1	0
 wzrost	growth	0	0	1	1
 bluetooth	bluetooth	0	0	1	0
-wodza	chief	0	0	1	0
-wodza	leader	0	0	1	0
+rodzina	family	0	0	1	1
 gadów	reptiles	0	0	1	0
 wolny	free	0	0	1	1
 globu	world	0	0	1	0
 globu	globe	0	0	1	0
 tarcza	disc	0	0	1	0
-tarcza	a shield	0	0	1	0
 tarcza	shield	0	0	1	1
 prywatnego	private	0	0	1	0
 nasza	our	0	0	1	0
@@ -7727,7 +7530,6 @@ entertainment	entertainment	0	0	1	0
 fizycznego	physical	0	0	1	0
 konstytucyjny	constitutional	0	0	1	1
 indywid	individual	0	0	1	0
-wykorzystaniem	usage	0	0	1	0
 wykorzystaniem	using	0	0	1	0
 kalendarium	calendar	0	0	1	0
 późniejszego	later produced	0	0	1	0
@@ -7750,7 +7552,6 @@ mercuryego	mercury's	0	0	1	0
 zachodnich	west	0	0	1	0
 zachodnich	western	0	0	1	0
 szansę	chance	0	0	1	0
-szansę	opportunity	0	0	1	0
 samych	alone	0	0	1	0
 samych	only	0	0	1	0
 samych	same	0	0	1	0
@@ -7776,7 +7577,7 @@ podziałem	divide	0	0	1	0
 opiekę	care	0	0	1	0
 maj	may	0	0	1	1
 zakresu	range	0	0	1	0
-spod	from under	0	0	1	1
+spod	from under	0	0	1	0
 spod	under	0	0	1	0
 państwu	empire	0	0	1	0
 państwu	state	0	0	1	0
@@ -7830,7 +7631,6 @@ spośród	among	0	0	1	0
 zyskał	gained	0	0	1	0
 badaniach	researches	0	0	1	0
 badaniach	studies	0	0	1	0
-bez	without	0	0	1	1
 bez	no	0	0	1	1
 uznawał	regarded	0	0	1	0
 uznawał	find	0	0	1	0
@@ -7848,7 +7648,6 @@ czterokrotnie	four times	0	0	1	0
 szanse	chances	0	0	1	0
 rolne	agricultural	0	0	1	0
 rolne	rural	0	0	1	0
-wielkimi	thomas	0	0	1	0
 wielkimi	great	0	0	1	0
 kwestiach	issue	0	0	1	0
 kwestiach	issues	0	0	1	0
@@ -7890,8 +7689,9 @@ kolekcja	collection	0	0	1	1
 baroku	baroque	0	0	1	0
 baroku	barocco	0	0	1	0
 rzym	rome	0	0	1	0
-tygodnia	week	0	0	1	0
-tygodnia	weekend	0	0	1	0
+trochę	some	0	0	1	1
+trochę	little	0	0	1	1
+trochę	a liitle	0	0	1	0
 tygodnie	weeks	0	0	1	0
 tygodnik	weekly magazine	0	0	1	0
 tygodnik	weekly	0	0	1	1
@@ -7904,7 +7704,6 @@ drożdże	yeast	0	0	1	1
 tygodniu	week	0	0	1	0
 czarnych	black	0	0	1	0
 czarnych	blacks	0	0	1	0
-platon	platon	0	0	1	0
 platon	plato	0	0	1	0
 sukcesy	successes	0	0	1	0
 sukcesu	success	0	0	1	0
@@ -7920,7 +7719,6 @@ nowak	nowak	0	0	1	0
 rozwiązanie	solution	0	0	1	1
 słowenia	slovenia	0	0	1	0
 rozwiązania	solve	0	0	1	0
-rozwiązania	solutions	0	0	1	0
 rozwiązania	solution	0	0	1	0
 założył	founded	0	0	1	0
 założył	established	0	0	1	0
@@ -7948,7 +7746,6 @@ podpisanie	signing	0	0	1	0
 podpisanie	to sign	0	0	1	0
 motyle	butterflies	0	0	1	0
 pięć	five	0	0	1	1
-pięć	5	0	0	1	0
 czechami	czech republic	0	0	1	0
 motyli	butterflies	0	0	1	0
 czynności	activities	0	0	1	0
@@ -7966,7 +7763,6 @@ czarnogóra	montenegro	0	0	1	0
 filozofowie	philosophers	0	0	1	0
 albania	albania	0	0	1	0
 linie	lines	0	0	1	0
-linie	linie	0	0	1	0
 albanii	albania	0	0	1	0
 albanii	of albania	0	0	1	0
 generalnie	in general	0	0	1	0
@@ -7977,7 +7773,6 @@ piłka	ball	0	0	1	1
 świadczą	attest	0	0	1	0
 świadczą	shows	0	0	1	0
 świadczą	give evidence	0	0	1	0
-piłki	soccer	0	0	1	0
 piłki	ball	0	0	1	0
 niemiecka	german	0	0	1	0
 greckiej	greek	0	0	1	0
@@ -7989,7 +7784,7 @@ lud	people	0	0	1	1
 wyraźnie	clearly	0	0	1	1
 opozycji	opposition	0	0	1	0
 opozycji	oposition	0	0	1	0
-warstwach	layers	0	0	1	0
+sole	salts	0	0	1	0
 niemieckiego	german	0	0	1	0
 opozycja	opposition	0	0	1	1
 opozycja	oposition	0	0	1	0
@@ -8047,9 +7842,7 @@ ceny	prices	0	0	1	0
 ceny	price	0	0	1	0
 rewolucja	revolution	0	0	1	1
 opierają	base	0	0	1	0
-spraw	interests	0	0	1	0
-spraw	case	0	0	1	0
-spraw	issues	0	0	1	0
+równiku	equator	0	0	1	0
 sara	sara	0	0	1	0
 rewolucji	revolution	0	0	1	0
 int	int	0	0	1	0
@@ -8098,7 +7891,8 @@ okazało	appears	0	0	1	0
 okazała	turned out	0	0	1	0
 okazała	turns out	0	0	1	0
 okazała	turn out	0	0	1	0
-demo	demo	0	0	1	0
+demokratycznych	democratic	0	0	1	0
+demokratycznych	democtratic	0	0	1	0
 natychmiast	union	0	0	1	0
 natychmiast	immediately	0	0	1	1
 natychmiast	right away	0	0	1	0
@@ -8152,8 +7946,8 @@ rzeczypospolitej	republic	0	0	1	0
 rzeczypospolitej	"republic"	0	0	1	0
 rzeczypospolitej	republic of poland	0	0	1	0
 ashley	ashley	0	0	1	0
-widzów	fans	0	0	1	0
 widzów	audience	0	0	1	0
+widzów	fans	0	0	1	0
 widzów	viewers	0	0	1	0
 i	and	0	0	1	1
 obrębie	within	0	0	1	0
@@ -8169,7 +7963,6 @@ osobowe	personal	0	0	1	0
 oglądać	watch	0	0	1	0
 przykłady	examples	0	0	1	0
 zastosowań	applications	0	0	1	0
-zastosowań	uses	0	0	1	0
 zastosowań	implementations	0	0	1	0
 tatry	tatry	0	0	1	0
 tatry	tatras	0	0	1	0
@@ -8289,7 +8082,6 @@ czołówce	the lead	0	0	1	0
 czołówce	top	0	0	1	0
 stosowaniu	using	0	0	1	0
 stosowaniu	use	0	0	1	0
-stosowaniu	scenario	0	0	1	0
 płuca	pluca	0	0	1	0
 płuca	lung	0	0	1	0
 płuca	lungs	0	0	1	0
@@ -8309,16 +8101,14 @@ dodatkowego	an additional	0	0	1	0
 dodatkowego	additional	0	0	1	0
 tadeusza	tadeusz's	0	0	1	0
 tadeusza	tadeusz	0	0	1	0
-autorytet	influence	0	0	1	1
 autorytet	role model	0	0	1	0
 autorytet	authority	0	0	1	1
 wyborów	e;ections	0	0	1	0
 wyborów	election	0	0	1	0
 wyborów	elections	0	0	1	0
-autostrada	motorway	0	0	1	0
 autostrada	highway	0	0	1	0
-najmniej	least	0	0	1	1
-odpowiedział	replied	0	0	1	0
+wszystko	everything	0	0	1	1
+wszystko	all	0	0	1	1
 odpowiedział	answered	0	0	1	0
 odpowiedział	it has answered	0	0	1	0
 kończyny	limbs	0	0	1	0
@@ -8335,6 +8125,8 @@ istniejących	existing	0	0	1	0
 kryteria	criteria	0	0	1	0
 ludności	people	0	0	1	0
 ludności	population	0	0	1	0
+władcą	ruler	0	0	1	0
+władcą	emperor	0	0	1	0
 wszelkich	all	0	0	1	0
 wszelkich	any	0	0	1	0
 wszelkich	all the	0	0	1	0
@@ -8351,7 +8143,6 @@ kolejnej	next	0	0	1	0
 danych	figures	0	0	1	0
 danych	data	0	0	1	0
 uczniowie	students	0	0	1	0
-dwutlenek	carbon dioxide	0	0	1	0
 dwutlenek	dwutlenek	0	0	1	0
 dwutlenek	dioxide	0	0	1	1
 prawach	laws	0	0	1	0
@@ -8362,8 +8153,7 @@ ha	hectars	0	0	1	0
 hd	hd	0	0	1	0
 motywy	themes	0	0	1	0
 motywy	motives	0	0	1	0
-roczne	yearly	0	0	1	0
-roczne	annual	0	0	1	0
+komputer	computer	0	0	1	1
 możliwości	abilites	0	0	1	0
 możliwości	abilities	0	0	1	0
 możliwości	possibility	0	0	1	0
@@ -8371,8 +8161,7 @@ słynne	well-known	0	0	1	0
 słynne	famous	0	0	1	0
 linię	line	0	0	1	0
 radiowe	radio	0	0	1	0
-po	after	0	0	1	0
-po	at	0	0	1	1
+chandler	chandler	0	0	1	0
 katolickich	catholic	0	0	1	0
 katolickich	katolickich	0	0	1	0
 linią	line	0	0	1	0
@@ -8381,20 +8170,19 @@ zebrane	colected	0	0	1	0
 zebrane	gathered	0	0	1	0
 niewielką	little	0	0	1	0
 niewielką	slight	0	0	1	0
-roczna	annual	0	0	1	0
+walter	walter	0	0	1	0
 zaczynają	begins	0	0	1	0
 zaczynają	start	0	0	1	0
 zaczynają	begin	0	0	1	0
 beata	beata	0	0	1	0
-liści	leaves	0	0	1	0
 liści	leaf	0	0	1	0
 liści	leafs	0	0	1	0
 universal	universal	0	0	1	0
 wynik	result	0	0	1	1
 epoka	era	0	0	1	1
+ocena	rating	0	0	1	1
 ocena	evaluation	0	0	1	1
 ocena	valuation	0	0	1	1
-ocena	rating	0	0	1	1
 pospolity	acanthium	0	0	1	0
 pospolity	common	0	0	1	1
 epoki	age	0	0	1	0
@@ -8457,8 +8245,8 @@ bezpieczeństwa	security	0	0	1	0
 bezpieczeństwa	safety	0	0	1	0
 alkohol	alcohol	0	0	1	1
 klasy	class	0	0	1	0
-sprawia	makes	0	0	1	0
 sprawia	cause	0	0	1	0
+sprawia	makes	0	0	1	0
 można	may	0	0	1	0
 można	can	0	0	1	0
 sprawie	case	0	0	1	0
@@ -8606,10 +8394,8 @@ wymienić	mention	0	0	1	1
 dre	dre	0	0	1	0
 przyszłość	future	0	0	1	1
 zasadami	rules	0	0	1	0
-zasadami	principles	0	0	1	0
 ciągu	course	0	0	1	0
 ciągu	the	0	0	1	0
-ciągu	during	0	0	1	0
 miejskiej	city	0	0	1	0
 operacyjnego	operation	0	0	1	0
 operacyjnego	operacyjnego	0	0	1	0
@@ -8627,11 +8413,9 @@ lwa	lew	0	0	1	0
 tygrysów	tigers	0	0	1	0
 awarii	breakdown	0	0	1	0
 awarii	failure	0	0	1	0
-rozbiorów	partition	0	0	1	0
 rozbiorów	partitions	0	0	1	0
 nauka	science	0	0	1	1
 dzielą	are devided	0	0	1	0
-dzielą	accomplishments	0	0	1	0
 dzielą	are divided	0	0	1	0
 klasyczne	classical	0	0	1	0
 klasyczne	classic	0	0	1	0
@@ -8658,8 +8442,6 @@ przeszedł	converted	0	0	1	0
 procent	percentage	0	0	1	1
 procent	percent	0	0	1	1
 styl	style	0	0	1	1
-wyższej	greater in worth	0	0	1	0
-wyższej	value	0	0	1	0
 wyższej	higher	0	0	1	0
 zagrożeniem	threat	0	0	1	0
 zagrożeniem	danger	0	0	1	0
@@ -8746,7 +8528,7 @@ panthera	panthera	0	0	1	0
 helena	helena	0	0	1	0
 helena	helen	0	0	1	0
 kadencja	term	0	0	1	0
-kadencja	term of office	0	0	1	1
+kadencja	term of office	0	0	1	0
 opowieści	story	0	0	1	0
 opowieści	stories	0	0	1	0
 opowieści	tales	0	0	1	0
@@ -8837,13 +8619,11 @@ warunki	conditions	0	0	1	1
 bogów	gods	0	0	1	0
 nasilenie	increase	0	0	1	1
 nasilenie	intensity	0	0	1	1
-nasilenie	growth	0	0	1	1
 chrześcijańskiego	chrzescijanskiego	0	0	1	0
 chrześcijańskiego	christian	0	0	1	0
 wykazały	proved	0	0	1	0
 wykazały	showed	0	0	1	0
 stanowi	constitute	0	0	1	0
-stanowi	is	0	0	1	0
 korpusu	corp	0	0	1	0
 korpusu	corps	0	0	1	0
 kościołach	churches	0	0	1	0
@@ -8881,7 +8661,6 @@ baptyzm	babtizm	1	0	1	0
 baptyzm	baptistic	1	0	1	0
 baptyzm	baptism	1	1	0	0
 znacznej	considerably	0	0	1	0
-znacznej	substantial	0	0	1	0
 znacznej	significant	0	0	1	0
 wyspach	islands	0	0	1	0
 zdradnicowate	elapidae	1	1	0	0
@@ -8899,7 +8678,6 @@ chwilą	time	0	0	1	0
 leży	lies	0	0	1	0
 leży	is located	0	0	1	0
 leży	is placed	0	0	1	0
-kamienica	tenement house	0	0	1	0
 kamienica	kamienica	0	0	1	0
 kamienica	apartment	0	0	1	0
 kamienice	apartment house	0	0	1	0
@@ -8907,8 +8685,8 @@ kamienice	kamienice	0	0	1	0
 kamienice	kamienicas	0	0	1	0
 szeroki	wide	0	0	1	1
 girls	girls	0	0	1	0
-powstał	was founded	0	0	1	0
 powstał	formed	0	0	1	0
+powstał	was founded	0	0	1	0
 powstał	emerged	0	0	1	0
 traktowana	treated	0	0	1	0
 trzecia	third	0	0	1	0
@@ -8939,7 +8717,6 @@ ameryce	america	0	0	1	0
 igrzysk	olympic games	0	0	1	0
 igrzysk	games	0	0	1	0
 powstać	founded	0	0	1	0
-powstać	rise	0	0	1	1
 powstać	be founded	0	0	1	0
 kadencję	term	0	0	1	0
 hipotezy	hypotheses	0	0	1	0
@@ -8977,7 +8754,6 @@ wszelkie	every	0	0	1	0
 wszelkie	any	0	0	1	0
 kolejowe	train	0	0	1	0
 kolejowe	railroads	0	0	1	0
-kolejowe	kolejowe	0	0	1	0
 oceanów	oceans	0	0	1	0
 niech	may	0	0	1	0
 niech	let	0	0	1	1
@@ -8999,9 +8775,7 @@ przejęcia	overtaking	0	0	1	0
 glosariusz	glossary	1	1	0	1
 glosariusz	croatia	1	0	1	0
 przejęcie	taking over	0	0	1	0
-przejęcie	overtaking	0	0	1	1
 powołanie	appointment	0	0	1	1
-powołanie	calling	0	0	1	1
 obozie	camp	0	0	1	0
 marii	marie	0	0	1	0
 marii	maria	0	0	1	0
@@ -9026,7 +8800,6 @@ m	city	0	0	1	0
 m	meters	0	0	1	0
 m	meter	0	0	1	0
 dog	pies	0	0	1	0
-ojczyzny	mother country	0	0	1	0
 ojczyzny	father land	0	0	1	0
 ojczyzny	homeland	0	0	1	0
 całe	entire	0	0	1	0
@@ -9048,6 +8821,7 @@ morze	​​sea	0	0	1	0
 morze	sea	0	0	1	1
 festiwal	festival	0	0	1	1
 służba	service	0	0	1	1
+komputerów	computers	0	0	1	0
 wirników	rotor	0	0	1	0
 wirników	rotors	0	0	1	0
 morzu	sea	0	0	1	0
@@ -9064,6 +8838,7 @@ luksemburg	luksemburg	0	0	1	0
 wyprawa	campaign	0	0	1	0
 wyprawa	expedition	0	0	1	1
 politycznej	political	0	0	1	0
+najmniej	least	0	0	1	1
 rozdzielczości	resolution	0	0	1	0
 monica	monica	0	0	1	0
 powrotem	return	0	0	1	0
@@ -9127,13 +8902,10 @@ wprawdzie	indeed	0	0	1	1
 wprawdzie	admittedly	0	0	1	1
 jorku	york	0	0	1	0
 będąc	being	0	0	1	0
-wspomniany	mentioned	0	0	1	0
 wspomniany	said	0	0	1	0
 wspomniany	aforementioned	0	0	1	0
 klasztor	monastery	0	0	1	1
-und	(part of german proper name)	0	0	1	0
 stolicą	capital city	0	0	1	0
-stolicą	a capital	0	0	1	0
 stolicą	capital	0	0	1	0
 wyglądu	appearance	0	0	1	0
 kulturowych	cultural	0	0	1	0
@@ -9153,17 +8925,14 @@ nurty	streams	0	0	1	0
 nurty	trends	0	0	1	0
 referendum	referendum	0	0	1	1
 cyrus	cyrus	0	0	1	0
-kosmiczne	rays	0	0	1	0
 kosmiczne	cosmic	0	0	1	0
 kosmiczne	space	0	0	1	0
 dostęp	access	0	0	1	1
 lodu	ice	0	0	1	0
-interesy	interests	0	0	1	0
 interesy	dealings	0	0	1	1
 kwiatów	flowers	0	0	1	0
 urodzin	birthday	0	0	1	0
 urodzin	birth	0	0	1	0
-politechnika	technical university	0	0	1	0
 politechnika	university of technology	0	0	1	0
 politechnika	politechnic	0	0	1	0
 koty	cats	0	0	1	0
@@ -9209,13 +8978,11 @@ odpowiadają	correspond	0	0	1	0
 substancje	substances	0	0	1	0
 ix	ix	0	0	1	0
 ix	ix ( 10th)	0	0	1	0
-ix	9th	0	0	1	0
 wawelu	wawel	0	0	1	0
 substancja	substance	0	0	1	1
 substancja	substence	0	0	1	0
 ip	ip	0	0	1	0
 is	is	0	0	1	0
-łańcuch	a chain	0	0	1	0
 łańcuch	chain	0	0	1	1
 substancji	substance	0	0	1	0
 substancji	substances	0	0	1	0
@@ -9232,8 +8999,6 @@ io	olympic games	0	0	1	0
 io	io	0	0	1	0
 in	other (abbr.)	0	0	1	0
 in	others	0	0	1	0
-seattle	settle	0	0	1	0
-seattle	seattle	0	0	1	0
 if	if	0	0	1	0
 belli	war	0	0	1	0
 bella	bell	0	0	1	0
@@ -9306,7 +9071,8 @@ pięknych	fine	0	0	1	0
 protestanckich	protestant	0	0	1	0
 pierwszy	the first	0	0	1	0
 pierwszy	first	0	0	1	1
-gustav	gustav	0	0	1	0
+krajowa	national	0	0	1	0
+krajowa	state	0	0	1	0
 gustaw	gustaw	0	0	1	0
 krajowe	country	0	0	1	0
 krajowe	national	0	0	1	0
@@ -9319,7 +9085,6 @@ stałym	constant	0	0	1	0
 nazwie	named	0	0	1	0
 nazwie	name	0	0	1	0
 stanie	state	0	0	1	0
-stanie	able  ("był w stanie" = "was able to")	0	0	1	0
 urodzeń	births	0	0	1	0
 urodzeń	birth	0	0	1	0
 dopiero	only	0	0	1	1
@@ -9328,7 +9093,6 @@ wojciech	wojciech	0	0	1	0
 pierwsza	first	0	0	1	0
 krajowy	country	0	0	1	0
 krajowy	national	0	0	1	1
-imię	first name	0	0	1	1
 imię	name	0	0	1	1
 pierwsze	first	0	0	1	0
 ograniczony	limited	0	0	1	1
@@ -9402,7 +9166,6 @@ panowania	reign	0	0	1	0
 panowania	rule	0	0	1	0
 witolda	witold	0	0	1	0
 witolda	witolda	0	0	1	0
-wybrzeże	coastline	0	0	1	0
 wybrzeże	coast	0	0	1	1
 wybrzeża	coastline	0	0	1	0
 wybrzeża	coast	0	0	1	0
@@ -9429,7 +9192,7 @@ irlandii	ireland	0	0	1	0
 oznaczało	meant	0	0	1	0
 oznaczało	means	0	0	1	0
 pierwszą	first	0	0	1	0
-wrócić	come back	0	0	1	1
+wrócić	come back	0	0	1	0
 wrócić	return	0	0	1	1
 form	forms	0	0	1	0
 metrów	meters	0	0	1	0
@@ -9472,8 +9235,6 @@ częściej	more frequently	0	0	1	0
 umiarkowanego	continental	0	0	1	0
 umiarkowanego	temperate	0	0	1	0
 umiarkowanego	mild	0	0	1	0
-nazywana	named	0	0	1	0
-nazywana	called	0	0	1	0
 mianem	as	0	0	1	0
 mianem	name	0	0	1	0
 roślinności	flora	0	0	1	0
@@ -9494,16 +9255,16 @@ oddał	showed	0	0	1	0
 oddał	gave	0	0	1	0
 temperaturze	temperature	0	0	1	0
 wczesnych	early	0	0	1	0
-trochę	some	0	0	1	1
-trochę	little	0	0	1	1
-trochę	a liitle	0	0	1	0
+testamencie	will	0	0	1	0
+testamencie	testament	0	0	1	0
+testamencie	last will	0	0	1	0
 sprawą	case	0	0	1	0
 sprawą	issue	0	0	1	0
 sprawą	help	0	0	1	0
 sprawę	case	0	0	1	0
 sprawę	matter	0	0	1	0
 sprawę	aware	0	0	1	0
-award	award	0	0	1	0
+orgazm	orgasm	0	0	1	1
 ekspresowa	express	0	0	1	0
 ekspresowa	expressway	0	0	1	0
 leszek	leszek	0	0	1	0
@@ -9515,7 +9276,6 @@ autorem	author	0	0	1	0
 ludzkiego	human	0	0	1	0
 prezydentem	president	0	0	1	0
 obraz	picture	0	0	1	1
-obraz	view	0	0	1	1
 kierunek	direction	0	0	1	1
 silne	strong	0	0	1	0
 zawodnicy	contestants	0	0	1	0
@@ -9528,14 +9288,11 @@ narzędzia	tools	0	0	1	0
 zdrowotnej	health	0	0	1	0
 przerwy	interruptions	0	0	1	0
 przerwy	breaks	0	0	1	0
-przerwy	preserves	0	0	1	0
 gleby	soils	0	0	1	0
 gleby	soil	0	0	1	0
-równa	equal	0	0	1	0
-równa	equals	0	0	1	0
+jadwiga	jadwiga	0	0	1	0
 kolejno	respectively	0	0	1	1
 kolejno	in order	0	0	1	0
-niczym	nothing	0	0	1	0
 koncern	corporation	0	0	1	0
 koncern	concern	0	0	1	0
 telefon	telephone	0	0	1	1
@@ -9622,7 +9379,6 @@ możylinek	możylinek	1	0	1	0
 możylinek	discovery	1	0	1	0
 pojazdów	vehicles	0	0	1	0
 napój	drink	0	0	1	1
-napój	beverage	0	0	1	1
 charakterystyczną	characteristic	0	0	1	0
 reologia	mythology	1	0	1	0
 reologia	;l['p	1	0	1	0
@@ -9679,11 +9435,7 @@ października	october	0	0	1	0
 artystami	artists	0	0	1	0
 ginie	dies	0	0	1	0
 wybrany	chosen	0	0	1	1
-wybrany	elected	0	0	1	1
 bob	bob	0	0	1	0
-mecze	matches	0	0	1	0
-mecze	games	0	0	1	0
-używali	use	0	0	1	0
 używali	used	0	0	1	0
 używali	were using	0	0	1	0
 quercus	oak	0	0	1	0
@@ -9700,7 +9452,6 @@ terytoriów	territories	0	0	1	0
 terytoriów	lands	0	0	1	0
 zachorowań	illnesses	0	0	1	0
 zachorowań	ilnesses	0	0	1	0
-zachorowań	sickness	0	0	1	0
 france	france	0	0	1	0
 indie	india	0	0	1	1
 celów	purposes	0	0	1	0
@@ -9752,7 +9503,6 @@ uznaniem	popularity	0	0	1	0
 uznaniem	recognition	0	0	1	0
 uważając	thinking	0	0	1	0
 uważając	regarding	0	0	1	0
-uważając	believing	0	0	1	0
 układ	figures	0	0	1	0
 układ	system	0	0	1	1
 układ	agreement	0	0	1	1
@@ -9797,7 +9547,6 @@ zaburzeń	disorder	0	0	1	0
 zaburzeń	disorders	0	0	1	0
 max	max	0	0	1	0
 mac	mac	0	0	1	0
-snu	dream	0	0	1	0
 snu	sleep	0	0	1	0
 snu	of a dream	0	0	1	0
 okresie	period	0	0	1	0
@@ -9806,7 +9555,6 @@ muzycznego	music	0	0	1	0
 muzycznego	musical	0	0	1	0
 uczucie	feeling	0	0	1	1
 uczucie	feelings	0	0	1	0
-mam	got	0	0	1	0
 mam	have	0	0	1	0
 uczucia	feeling	0	0	1	0
 uczucia	feelings	0	0	1	0
@@ -9824,7 +9572,6 @@ charakterystyczne	typical	0	0	1	0
 przy	at	0	0	1	1
 przy	nearby	0	0	1	0
 istniejące	existing	0	0	1	0
-anna	anna	0	0	1	0
 maksymalna	maximum	0	0	1	0
 księdza	priest	0	0	1	0
 lahti	lahti	0	0	1	0
@@ -9910,7 +9657,6 @@ mieszane	mixed	0	0	1	0
 rozumieniu	within the meaning	0	0	1	0
 rozumieniu	understanding	0	0	1	0
 romans	romance	0	0	1	1
-romans	love affair	0	0	1	1
 chrobrego	chrobry's	0	0	1	0
 chrobrego	chrobrego	0	0	1	0
 chrobrego	chrobry	0	0	1	0
@@ -9927,19 +9673,16 @@ powstaje	appears	0	0	1	0
 powstaje	is coined	0	0	1	0
 muzycznych	music	0	0	1	0
 karpaty	carpathian mountains	0	0	1	0
-karpaty	carpathians	0	0	1	0
 ateistów	atheists	0	0	1	0
 tekst	text	0	0	1	1
 tekst	lyric	0	0	1	0
-tekst	lyrics	0	0	1	0
 ministra	minister	0	0	1	0
 trwać	last	0	0	1	1
 bronisław	bronisław	0	0	1	0
 skra	skra	0	0	1	0
 rachel	rachel	0	0	1	0
 wykonawców	performers	0	0	1	0
-lat	decade	0	0	1	0
-lat	years	0	0	1	0
+roczna	annual	0	0	1	0
 infekcje	infections	0	0	1	0
 punktu	point of	0	0	1	0
 punktu	point	0	0	1	0
@@ -9964,10 +9707,8 @@ twórcę	creator	0	0	1	0
 żydowska	jewish	0	0	1	0
 alfred	alfred	0	0	1	0
 założyli	founded	0	0	1	0
-założyli	founded the	0	0	1	0
 żydowski	jewish	0	0	1	1
 rosyjska	russian	0	0	1	0
-trwał	had	0	0	1	0
 trwał	lasted	0	0	1	0
 głąb	deep inside	0	0	1	0
 głąb	into	0	0	1	0
@@ -9980,7 +9721,6 @@ dwie	two	0	0	1	0
 aktem	activity	0	0	1	0
 aktem	act	0	0	1	0
 korony	crown's	0	0	1	0
-korony	crown	0	0	1	0
 pałac	palace	0	0	1	1
 obowiązki	responsibilities	0	0	1	0
 obowiązki	duties	0	0	1	0
@@ -10006,8 +9746,6 @@ analizie	analysis	0	0	1	0
 mechanizm	mechanism	0	0	1	1
 wapnia	calcium	0	0	1	0
 charakterystycznym	characteristic	0	0	1	0
-teoretyczne	theoritical	0	0	1	0
-teoretyczne	theoretical	0	0	1	0
 teoretyczne	theoretically	0	0	1	0
 kevin	kevin	0	0	1	0
 warsaw	warsaw	0	0	1	0
@@ -10026,13 +9764,12 @@ zawodów	prefessions	0	0	1	0
 zawodów	professions	0	0	1	0
 zawodów	competition	0	0	1	0
 dolnym	lower	0	0	1	0
-traci	loses	0	0	1	0
 traci	lose	0	0	1	0
+traci	loses	0	0	1	0
 kanadzie	canada	0	0	1	0
 beta	beta	0	0	1	0
 książka	book	0	0	1	1
 trakcie	course	0	0	1	0
-trakcie	during	0	0	1	0
 dąb	oak	0	0	1	1
 królewskiej	royal	0	0	1	0
 świetle	by the law	0	0	1	0
@@ -10070,7 +9807,6 @@ takim	such	0	0	1	0
 takim	that	0	0	1	0
 dowódcy	commandor	0	0	1	0
 dowódcy	commanders	0	0	1	0
-dowódcy	commander	0	0	1	0
 najwyższej	the highest	0	0	1	0
 najwyższej	highest	0	0	1	0
 thriller	thtiller	0	0	1	0
@@ -10082,6 +9818,7 @@ kiedy	when	0	0	1	1
 włochy	italy	0	0	1	1
 black	black	0	0	1	0
 dowódca	commander	0	0	1	1
+teledysk	music video	0	0	1	0
 odszedł	gone	0	0	1	0
 odszedł	left	0	0	1	0
 zagranicznych	foreign	0	0	1	0
@@ -10152,7 +9889,7 @@ warszawski	warsaw	0	0	1	0
 katolickiej	catholic	0	0	1	0
 katastrofa	disaster	0	0	1	1
 było	was	0	0	1	0
-zamiast	instead of	0	0	1	1
+zamiast	instead of	0	0	1	0
 rozkaz	order	0	0	1	1
 warszawska	warsaw	0	0	1	0
 dostępny	available	0	0	1	1
@@ -10176,7 +9913,6 @@ wydarzenia	events	0	0	1	0
 ówczesnego	of the time	0	0	1	0
 ówczesnego	of that time	0	0	1	0
 wydają	deliver (1st sntc)	0	0	1	0
-wydają	delivers	0	0	1	0
 wydają	spend (2nd stnc)	0	0	1	0
 wydają	give	0	0	1	0
 językowych	pertaining to languages	0	0	1	0
@@ -10259,13 +9995,10 @@ otrzymuje	receive	0	0	1	0
 otrzymuje	receives	0	0	1	0
 px|oberstdorf	obersdorf	0	0	1	0
 wydaje	seems	0	0	1	0
-wydaje	spend	0	0	1	0
 dochody	incomes	0	0	1	0
-dochody	profits	0	0	1	0
 dochody	income	0	0	1	0
 sahary	sahara	0	0	1	0
 sahary	of sahara	0	0	1	0
-petersburgu	petersburg	0	0	1	0
 cewki	coil	0	0	1	0
 cewki	urethra	0	0	1	0
 cewki	urethrea	0	0	1	0
@@ -10276,8 +10009,6 @@ pas	belt	0	0	1	1
 samo	alone	0	0	1	0
 samo	nothing but	0	0	1	0
 samo	it itself	0	0	1	0
-miary	measurings	0	0	1	0
-miary	degrees	0	0	1	0
 miary	measurement	0	0	1	0
 hiszpańska	spanish	0	0	1	0
 dolna	lower	0	0	1	0
@@ -10289,7 +10020,6 @@ dzieje	this is	0	0	1	0
 dzieje	it happens	0	0	1	0
 dzieje	history	0	0	1	1
 zmniejszają	diminishes	0	0	1	0
-zmniejszają	decrease	0	0	1	0
 zmniejszają	decreasing	0	0	1	0
 ją	it	0	0	1	0
 ją	her	0	0	1	1
@@ -10302,7 +10032,6 @@ argumenty	arguments	0	0	1	0
 instytucji	institutions	0	0	1	0
 instytucji	institution	0	0	1	0
 tuż	almost	0	0	1	0
-tuż	just	0	0	1	0
 tuż	before	0	0	1	0
 trudno	hard	0	0	1	0
 trudno	difficult	0	0	1	0
@@ -10318,29 +10047,23 @@ kuba	cuba	0	0	1	0
 powód	reason	0	0	1	1
 ostre	sharp	0	0	1	0
 wyższych	higher	0	0	1	0
-prawdopodobne	probably	0	0	1	0
+dziadka	grandfather	0	0	1	0
 ostry	frosty	0	0	1	0
-ostry	emergency	0	0	1	0
-szkielet	base	0	0	1	0
 szkielet	skeleton	0	0	1	1
 szkielet	frame of	0	0	1	0
-podejmuje	taken	0	0	1	0
 podejmuje	do	0	0	1	0
 podejmuje	takes on (2nd)	0	0	1	0
 podejmuje	takes steps on (1st)	0	0	1	0
 rzymski	roman	0	0	1	1
-limfocyty	lymphocytes	0	0	1	0
 limfocyty	lymphocyte	0	0	1	0
 gates	gates	0	0	1	0
 gates	gates (name)	0	0	1	0
 filmowy	movie	0	0	1	1
-filmowy	film	0	0	1	1
 monet	coins	0	0	1	0
 ukazał	was published	0	0	1	0
 ukazał	was released	0	0	1	0
 ukazał	showed	0	0	1	0
 późniejszej	older baby	0	0	1	0
-późniejszej	later	0	0	1	0
 numerem	number	0	0	1	0
 niezależnych	independent	0	0	1	0
 kierunkiem	direction	0	0	1	0
@@ -10370,7 +10093,6 @@ chorwacji	croatia	0	0	1	0
 określić	determine	0	0	1	0
 określić	specify	0	0	1	0
 prawej	right	0	0	1	0
-wyszedł	leaved	0	0	1	0
 wyszedł	came	0	0	1	0
 wyszedł	left	0	0	1	0
 porozumienia	agreement	0	0	1	0
@@ -10385,7 +10107,6 @@ jaka	what	0	0	1	0
 jaka	which	0	0	1	0
 jako	as	0	0	1	1
 początkowej	initial	0	0	1	0
-początkowej	at the beginning	0	0	1	0
 pozostawał	remain	0	0	1	0
 pozostawał	remained	0	0	1	0
 wykonany	made of	0	0	1	0
@@ -10412,7 +10133,6 @@ nosa	nose	0	0	1	0
 km²	km^2	0	0	1	0
 km²	square kilometre	0	0	1	0
 km²	square kilometers	0	0	1	0
-km²	square meters	0	0	1	0
 adama	adam's	0	0	1	0
 adama	adam	0	0	1	0
 nosi	bears	0	0	1	0
@@ -10426,7 +10146,6 @@ letnich	summer	0	0	1	0
 komórkach	cells	0	0	1	0
 komórkach	cells of	0	0	1	0
 doszło	took place	0	0	1	0
-doszło	arrived	0	0	1	0
 doszło	there has been	0	0	1	0
 gałęzi	branches	0	0	1	0
 gałęzi	branch	0	0	1	0
@@ -10443,9 +10162,9 @@ bazyliki	basilica	0	0	1	0
 ważnym	important	0	0	1	0
 mineralnych	mineral	0	0	1	0
 amerykańskiego	american	0	0	1	0
-bywają	happen to be	0	0	1	0
-bywają	are	0	0	1	0
 bywają	happen to	0	0	1	0
+bywają	are	0	0	1	0
+bywają	happen to be	0	0	1	0
 rodów	houses	0	0	1	0
 rodów	families	0	0	1	0
 rodów	tribes	0	0	1	0
@@ -10482,7 +10201,6 @@ masowych	mass	0	0	1	0
 złota	golden	0	0	1	0
 złota	gold	0	0	1	0
 planetę	planet	0	0	1	0
-road	road	0	0	1	0
 wydajność	efficiency	0	0	1	1
 wydajność	performance	0	0	1	1
 newtona	newton's	0	0	1	0
@@ -10511,8 +10229,6 @@ bohater	character	0	0	1	0
 klimacie	climate	0	0	1	0
 przejściu	crossing	0	0	1	0
 przejściu	cross	0	0	1	0
-przejścia	to move	0	0	1	0
-przejścia	crossings	0	0	1	0
 przejścia	going	0	0	1	0
 występuje	is	0	0	1	0
 występuje	occurs	0	0	1	0
@@ -10544,7 +10260,6 @@ koncepcję	conception	0	0	1	0
 koncepcję	concepts	0	0	1	0
 największego	the biggest	0	0	1	0
 największego	the greatest	0	0	1	0
-piłce	soccer	0	0	1	0
 piłce	ball	0	0	1	0
 wynikających	resulting	0	0	1	0
 ronaldo	ronaldo	0	0	1	0
@@ -10581,8 +10296,8 @@ południowym	south	0	0	1	0
 zajmuje	is	0	0	1	0
 zajmuje	many meanings possible; depends on context	0	0	1	0
 zajmuje	rank	0	0	1	0
-swobodnie	freely	0	0	1	1
 swobodnie	swobodnie	0	0	1	0
+swobodnie	freely	0	0	1	1
 planety	planets	0	0	1	0
 film	movie	0	0	1	1
 film	film	0	0	1	1
@@ -10601,7 +10316,6 @@ pucharów	cups	0	0	1	0
 uzależnienia	addiction	0	0	1	0
 uzależnienia	dependence	0	0	1	0
 wiecznie	eternal	0	0	1	0
-wiecznie	eternally	0	0	1	1
 opracowania	deveopment	0	0	1	0
 opracowania	develop	0	0	1	0
 opracowania	developing	0	0	1	0
@@ -10648,7 +10362,6 @@ wschodniej	east	0	0	1	0
 wschodniej	eastern	0	0	1	0
 bmw	bmw	0	0	1	0
 reżyserii	directed	0	0	1	0
-reżyserii	directed by	0	0	1	0
 reżyserii	directing	0	0	1	0
 depresja	depression	0	0	1	1
 przewagą	majority	0	0	1	0
@@ -10676,7 +10389,6 @@ alberta	albert's	0	0	1	0
 alberta	albert	0	0	1	0
 prośbę	wish	0	0	1	0
 prośbę	request	0	0	1	0
-wycofania	draw	0	0	1	0
 wycofania	retreat	0	0	1	0
 wycofania	withdraw	0	0	1	0
 mogli	they can	0	0	1	0
@@ -10685,6 +10397,9 @@ mogli	could	0	0	1	0
 prace	works	0	0	1	0
 prace	works of	0	0	1	0
 praca	work	0	0	1	1
+sokratesa	socrates'	0	0	1	0
+sokratesa	of socrates	0	0	1	0
+sokratesa	socrates	0	0	1	0
 śródmieście	downtown	0	0	1	0
 śródmieście	inner city	0	0	1	0
 kościelnych	church's	0	0	1	0
@@ -10741,8 +10456,7 @@ podatek	tax	0	0	1	1
 abu	abu	0	0	1	0
 sędziowie	judges	0	0	1	0
 aby	for	0	0	1	1
-aby	in order to	0	0	1	1
-naczelnika	chief	0	0	1	0
+aby	in order to	0	0	1	0
 naczelnika	leader	0	0	1	0
 naczelnika	governor	0	0	1	0
 początek	begining	0	0	1	0
@@ -10765,7 +10479,7 @@ ogromnych	large	0	0	1	0
 ogromnych	huge	0	0	1	0
 ogromnych	the biggest	0	0	1	0
 wieczorem	evening	0	0	1	0
-wieczorem	in the evening	0	0	1	1
+wieczorem	in the evening	0	0	1	0
 dział	department	0	0	1	1
 dział	cannon	0	0	1	0
 dział	cannons	0	0	1	0
@@ -10774,12 +10488,11 @@ informatyki	it	0	0	1	0
 informatyki	computer science	0	0	1	0
 zmarły	diseased	0	0	1	0
 zmarły	dead	0	0	1	1
-zmarły	deceased	0	0	1	1
 px|sapporo	px sapporo	0	0	1	0
 litwa	lithuania	0	0	1	1
 żółty	yellow	0	0	1	1
 stuleci	centuries	0	0	1	0
-żółte	yellow	0	0	1	0
+zmarła	died	0	0	1	0
 ruchem	movement	0	0	1	0
 litwy	lithuania	0	0	1	0
 amerykańską	american	0	0	1	0
@@ -10830,11 +10543,9 @@ leonard	leonard	0	0	1	0
 dołu	below	0	0	1	0
 dołu	dolu	0	0	1	0
 dołu	bottom	0	0	1	0
-wrażenie	impression	0	0	1	1
-wrażenie	feeling	0	0	1	1
-wrażenie	impression of	0	0	1	0
+dziedzictwo	childhood	0	0	1	0
+dziedzictwo	heritage	0	0	1	1
 ślady	tracks	0	0	1	0
-ślady	traces	0	0	1	0
 ślady	signs	0	0	1	0
 agaricus	agaricus	0	0	1	0
 zginęło	killed	0	0	1	0
@@ -10850,9 +10561,7 @@ poszukiwanie	searching	0	0	1	0
 poszukiwanie	researching	0	0	1	0
 poszukiwania	search	0	0	1	0
 minimum	minimum	0	0	1	1
-wyniosła	reached	0	0	1	0
 wyniosła	costed	0	0	1	0
-wyniosła	amounted to	0	0	1	0
 poszukiwaniu	search	0	0	1	0
 poszukiwaniu	search for	0	0	1	0
 poszukiwaniu	searching	0	0	1	0
@@ -10993,8 +10702,8 @@ dolny	bottom	0	0	1	1
 dźwięku	sound	0	0	1	0
 służbie	service of	0	0	1	0
 służbie	service	0	0	1	0
-idei	ideas	0	0	1	0
 idei	idea	0	0	1	0
+idei	ideas	0	0	1	0
 artystycznym	artistic in 2nd sntc	0	0	1	0
 artystycznym	art (centre) in 1st	0	0	1	0
 artystycznym	artistic	0	0	1	0
@@ -11008,7 +10717,6 @@ widoczna	visible	0	0	1	0
 widoczna	noticeable	0	0	1	0
 bliskie	close	0	0	1	0
 widoczne	visible	0	0	1	0
-szeregu	number of	0	0	1	0
 szeregu	set	0	0	1	0
 szeregu	series of	0	0	1	0
 bliskim	middle	0	0	1	0
@@ -11028,7 +10736,6 @@ elżbiety	elisabeth	0	0	1	0
 głosów	votes	0	0	1	0
 głosów	voices	0	0	1	0
 zarząd	board	0	0	1	0
-zarząd	council	0	0	1	0
 aktywny	active	0	0	1	1
 rozwijających	developing	0	0	1	0
 tamtego	since then	0	0	1	0
@@ -11066,8 +10773,7 @@ widząc	see	0	0	1	0
 sześciu	luck	0	0	1	0
 sześciu	of six	0	0	1	0
 sześciu	sex	0	0	1	0
-harris	harris	0	0	1	0
-nieopodal	did not cover	0	0	1	0
+cullen	cullen	0	0	1	0
 nieopodal	near	0	0	1	0
 nieopodal	nearby	0	0	1	0
 będące	being	0	0	1	0
@@ -11086,7 +10792,6 @@ jakiś	some	0	0	1	1
 chemiczny	chemical	0	0	1	1
 wschodnie	east	0	0	1	0
 wschodnie	eastern	0	0	1	0
-wschodnia	east	0	0	1	0
 wschodnia	eastern	0	0	1	0
 wschodnim	east	0	0	1	0
 wschodnim	eastern	0	0	1	0
@@ -11149,8 +10854,6 @@ ogłosił	announced	0	0	1	0
 osobowości	personality	0	0	1	0
 dowodził	commanded	0	0	1	0
 dowodził	led	0	0	1	0
-sole	salts	0	0	1	0
-śmiertelność	mortality	0	0	1	1
 nagrodą	reward	0	0	1	0
 nagrodą	award	0	0	1	0
 zrealizowany	attained	0	0	1	0
@@ -11181,7 +10884,6 @@ wnętrzu	inside	0	0	1	0
 zresztą	anyway	0	0	1	1
 zresztą	besides	0	0	1	1
 prywatnych	private	0	0	1	0
-wnętrze	interior	0	0	1	1
 wnętrze	inside	0	0	1	1
 ofiar	casualties	0	0	1	0
 ofiar	of the victims	0	0	1	0
@@ -11238,8 +10940,8 @@ kluczowe	key	0	0	1	0
 eksperymentów	experiments	0	0	1	0
 wyborach	elections	0	0	1	0
 lutym	february	0	0	1	0
-miejska	urban	0	0	1	0
 miejska	city	0	0	1	0
+miejska	urban	0	0	1	0
 powietrzne	air	0	0	1	0
 zbiorów	set	0	0	1	0
 zbiorów	collections	0	0	1	0
@@ -11282,7 +10984,6 @@ sile	force	0	0	1	0
 ponownego	new	0	0	1	0
 ponownego	another	0	0	1	0
 ponownego	again	0	0	1	0
-autora	authors	0	0	1	0
 autora	author	0	0	1	0
 geograficzne	geographic	0	0	1	0
 geograficzne	geographical	0	0	1	0
@@ -11319,6 +11020,7 @@ węgierskiego	hungarian	0	0	1	0
 uzyskuje	gain	0	0	1	0
 uzyskuje	achieve	0	0	1	0
 uzyskuje	get	0	0	1	0
+nerek	kidneys	0	0	1	0
 istnienia	existence	0	0	1	0
 istnienia	existing	0	0	1	0
 którą	which	0	0	1	0
@@ -11366,21 +11068,16 @@ marzanka	woodroof	1	0	1	0
 mistrzostwa	championships	0	0	1	0
 mistrzostwa	championship	0	0	1	0
 rejonach	regions	0	0	1	0
-rejonach	in regions	0	0	1	0
-nastąpić	take place	0	0	1	1
 nastąpić	happen	0	0	1	0
-nastąpić	occur	0	0	1	1
 pokazują	show	0	0	1	0
 pokazują	shows	0	0	1	0
 najważniejszą	most important	0	0	1	0
 najważniejszą	the most important	0	0	1	0
 mistrzostwo	championship	0	0	1	1
 kolejnego	the next	0	0	1	0
-kolejnego	another	0	0	1	0
 kolejnego	next	0	0	1	0
 rozpoczyna	begins	0	0	1	0
 rozpoczyna	starts	0	0	1	0
-rozpoczyna	opens with	0	0	1	0
 sieć	network	0	0	1	1
 sieć	chain	0	0	1	0
 zadaniem	assignment	0	0	1	0
@@ -11392,8 +11089,8 @@ dopóki	until	0	0	1	1
 godzin	hours	0	0	1	0
 genów	genes	0	0	1	0
 genów	gens	0	0	1	0
-komunistyczne	comunist	0	0	1	0
 komunistyczne	communist	0	0	1	0
+komunistyczne	comunist	0	0	1	0
 pętli	loop	0	0	1	0
 pm	pm	0	0	1	0
 zwykłych	ordinary	0	0	1	0
@@ -11428,7 +11125,7 @@ aleksander	aleksander	0	0	1	0
 aleksander	alexander	0	0	1	0
 festiwali	festivals	0	0	1	0
 festiwalu	festival	0	0	1	0
-szukać	look for	0	0	1	1
+szukać	look for	0	0	1	0
 szukać	seek	0	0	1	1
 środkowa	middle	0	0	1	0
 kolejowa	railway	0	0	1	0
@@ -11439,12 +11136,10 @@ zapowiedział	announced	0	0	1	0
 doktryny	doctrines	0	0	1	0
 doktryny	doctrine	0	0	1	0
 centralnym	central	0	0	1	0
-antoniego	antoni's	0	0	1	0
 antoniego	antoni	0	0	1	0
 antoniego	antoniego	0	0	1	0
 miejską	urban	0	0	1	0
 miejską	municipal	0	0	1	0
-miejską	city	0	0	1	0
 głębokie	deep	0	0	1	0
 bill	bill	0	0	1	0
 uznanie	appreciation	0	0	1	1
@@ -11487,9 +11182,8 @@ która	which	0	0	1	0
 pokonali	defeated	0	0	1	0
 syn	son	0	0	1	1
 dziejach	history	0	0	1	0
-należą	belongs	0	0	1	0
-należą	are	0	0	1	0
 należą	belong	0	0	1	0
+należą	are	0	0	1	0
 skuteczność	efficiency	0	0	1	1
 skuteczność	effectiveness	0	0	1	1
 moment	moment	0	0	1	1
@@ -11508,7 +11202,6 @@ uczelni	universities	0	0	1	0
 uczelni	university	0	0	1	0
 uczelni	colleges	0	0	1	0
 flagi	flag	0	0	1	0
-flagi	flags	0	0	1	0
 flagi	of the flag	0	0	1	0
 zapasów	reserves	0	0	1	0
 y	y	0	0	1	0
@@ -11561,9 +11254,11 @@ występowanie	presence of	0	0	1	0
 występowanie	occurrence	0	0	1	1
 występowania	occurence	0	0	1	0
 występowania	occurrence	0	0	1	0
-siły	forces	0	0	1	0
-realu	real	0	0	1	0
-realu	rl	0	0	1	0
+cel	aim	0	0	1	1
+cel	aiming	0	0	1	1
+cel	goal	0	0	1	1
+katastrofie	crash	0	0	1	0
+katastrofie	disaster	0	0	1	0
 wroga	enemy	0	0	1	0
 gorące	hot	0	0	1	0
 cieszy	enjoy	0	0	1	0
@@ -11590,7 +11285,7 @@ wydane	published	0	0	1	0
 wydano	released	0	0	1	0
 koncertowy	live	0	0	1	0
 koncertowy	concert	0	0	1	0
-faktycznie	in fact	0	0	1	1
+faktycznie	in fact	0	0	1	0
 faktycznie	actually	0	0	1	1
 kompozycje	compostions	0	0	1	0
 kompozycje	compositions	0	0	1	0
@@ -11602,7 +11297,6 @@ poza	besides	0	0	1	1
 energia	energy	0	0	1	1
 ciepło	warm	0	0	1	0
 ciepło	warmth	0	0	1	1
-zachodni	west	0	0	1	1
 zachodni	western	0	0	1	1
 energii	energy	0	0	1	0
 pokój	room	0	0	1	1
@@ -11619,7 +11313,6 @@ filozoficzne	philosophical	0	0	1	0
 niemcy	germany	0	0	1	1
 publicznego	public	0	0	1	0
 święci	saints	0	0	1	0
-święci	saint	0	0	1	0
 niezależnie	independent	0	0	1	0
 niezależnie	independently	0	0	1	1
 krytyków	critics	0	0	1	0
@@ -11646,7 +11339,6 @@ członków	members	0	0	1	0
 jimmy	jimmy	0	0	1	0
 racji	reason	0	0	1	0
 racji	because	0	0	1	0
-racji	cause	0	0	1	0
 grammy	grammy	0	0	1	0
 wieloma	many	0	0	1	0
 łacińskiej	latin	0	0	1	0
@@ -11709,8 +11401,6 @@ odrodzenie	recovery	0	0	1	0
 odrodzenie	renaissance	0	0	1	0
 homoseksualistów	homosexuals	0	0	1	0
 odrodzenia	renaissance	0	0	1	0
-odrodzenia	revival	0	0	1	0
-planet	planet	0	0	1	0
 planet	planets	0	0	1	0
 uniknąć	avoid	0	0	1	1
 płaszcz	coat	0	0	1	1
@@ -11762,7 +11452,6 @@ podstawowej	basic	0	0	1	0
 nagle	suddenly	0	0	1	1
 pomoc	help	0	0	1	1
 razie	case	0	0	1	0
-razie	in case	0	0	1	0
 radosław	radoslaw	0	0	1	0
 radosław	radosław (name)	0	0	1	0
 wydarzeń	goings-on	0	0	1	0
@@ -11789,7 +11478,6 @@ portugalia	portugal	0	0	1	0
 koncertową	tour	0	0	1	0
 koncertową	concert	0	0	1	0
 siostrę	sister	0	0	1	0
-produkuje	is producing	0	0	1	0
 produkuje	productions	0	0	1	0
 produkuje	produces	0	0	1	0
 portugalii	portugal	0	0	1	0
@@ -11819,7 +11507,7 @@ poczucia	feeling	0	0	1	0
 poczucia	sense	0	0	1	0
 ratusz	city council	0	0	1	0
 ratusz	hall	0	0	1	0
-ratusz	city hall	0	0	1	1
+ratusz	city hall	0	0	1	0
 piątek	friday	0	0	1	1
 związanych	connected	0	0	1	0
 związanych	related	0	0	1	0
@@ -11835,12 +11523,11 @@ józefa	joseph	0	0	1	0
 atlas	atlas	0	0	1	1
 sensie	sense	0	0	1	0
 instytut	institute	0	0	1	1
-wcale	at all	0	0	1	1
+wcale	at all	0	0	1	0
 wcale	not at all	0	0	1	0
 wyjątkiem	exception	0	0	1	0
 całkiem	fairly	0	0	1	1
 całkiem	entirely	0	0	1	0
-całkiem	quite	0	0	1	1
 sukcesji	succession	0	0	1	0
 żyć	live	0	0	1	1
 wskazania	directions	0	0	1	0
@@ -11855,12 +11542,11 @@ cezara	ceasar	0	0	1	0
 cezara	caesar	0	0	1	0
 cezara	cezar	0	0	1	0
 autorzy	authors	0	0	1	0
+musicalu	musiacal	0	0	1	0
+musicalu	musical	0	0	1	0
 obwód	circumference	0	0	1	1
 obwód	region	0	0	1	0
 obwód	oblast	0	0	1	0
-stanowiska	position	0	0	1	0
-stanowiska	posts	0	0	1	0
-stanowiska	positions	0	0	1	0
 warszawa	warsaw	0	0	1	0
 czarnym	black	0	0	1	0
 głosi	states	0	0	1	0
@@ -11868,7 +11554,6 @@ głosi	says	0	0	1	0
 zajęły	took over	0	0	1	0
 zajęły	occupy	0	0	1	0
 zajęły	seized	0	0	1	0
-agresji	aggressive	0	0	1	0
 agresji	agression	0	0	1	0
 francuzi	french	0	0	1	0
 zajęła	took	0	0	1	0
@@ -11902,7 +11587,6 @@ tańce	dances	0	0	1	0
 waldemar	waldemar	0	0	1	0
 internetowej	internet	0	0	1	0
 mnie	me	0	0	1	1
-luis	luis	0	0	1	0
 obszarach	regions	0	0	1	0
 obszarach	areas	0	0	1	0
 funkcja	function	0	0	1	1
@@ -11911,7 +11595,6 @@ mogłoby	could	0	0	1	0
 głosy	votes	0	0	1	0
 talent	talent	0	0	1	1
 funkcje	functions	0	0	1	0
-funkcje	funstions	0	0	1	0
 funkcji	function	0	0	1	0
 funkcji	funtion	0	0	1	0
 nazywa	called	0	0	1	0
@@ -11920,7 +11603,6 @@ terenach	territories	0	0	1	0
 terenach	lands	0	0	1	0
 terenach	areas	0	0	1	0
 czaszki	skull	0	0	1	0
-rozkazu	command	0	0	1	0
 rozkazu	order	0	0	1	0
 pośrednictwem	the help of	0	0	1	0
 pośrednictwem	via	0	0	1	0
@@ -11929,7 +11611,9 @@ miguel	miguel	0	0	1	0
 warszawę	warsaw	0	0	1	0
 elektrycznej	electric	0	0	1	0
 materialne	material	0	0	1	0
-pisząc	writing	0	0	1	0
+pełnienia	duty	0	0	1	0
+pełnienia	being on duty	0	0	1	0
+pełnienia	doing	0	0	1	0
 maszyn	machine	0	0	1	0
 maszyn	machines	0	0	1	0
 recenzje	reviews	0	0	1	0
@@ -11946,7 +11630,6 @@ zdobywając	gaining	0	0	1	0
 zdobywając	reaching	0	0	1	0
 butler	butler	0	0	1	0
 muzykę	music	0	0	1	0
-kalkuty	kolkata	0	0	1	0
 kalkuty	calcutta	0	0	1	0
 zaczęła	starts	0	0	1	0
 zaczęła	started to	0	0	1	0
@@ -11982,9 +11665,8 @@ utworzyli	formed	0	0	1	0
 utworzyli	created	0	0	1	0
 eksport	export	0	0	1	1
 język	language	0	0	1	1
-ponownie	again	0	0	1	1
+stalina	stalin's	0	0	1	0
 brzusznej	ventral	0	0	1	0
-brzusznej	stomach	0	0	1	0
 funkcję	function	0	0	1	0
 koniec	end	0	0	1	1
 koniec	the end	0	0	1	0
@@ -11994,12 +11676,12 @@ mistrzostw	championship	0	0	1	0
 seksualnym	sexual	0	0	1	0
 stosunku	relation	0	0	1	0
 godzinach	hours	0	0	1	0
-godzinach	times	0	0	1	0
 godzinach	time	0	0	1	0
+godzinach	times	0	0	1	0
 dawnej	old	0	0	1	0
 dawnej	former	0	0	1	0
 pornografia	pornography	0	0	1	1
-stosunki	relations	0	0	1	0
+regionu	region	0	0	1	0
 zaczyna	begins	0	0	1	0
 zaczyna	begin	0	0	1	0
 regiony	regions	0	0	1	0
@@ -12018,7 +11700,6 @@ klas	class	0	0	1	0
 klas	categories	0	0	1	0
 mężczyzna	male	0	0	1	1
 mężczyzna	man	0	0	1	1
-prawdziwa	real	0	0	1	0
 prawdziwa	true	0	0	1	0
 twarz	face	0	0	1	1
 przeboje	hits	0	0	1	0
@@ -12028,7 +11709,6 @@ sierpień	august	0	0	1	1
 prawdziwy	real	0	0	1	1
 prawdziwy	true	0	0	1	1
 ruchu	movement	0	0	1	0
-terrier	terrier	0	0	1	0
 ruchy	moves	0	0	1	0
 nowym	new	0	0	1	0
 graczy	players	0	0	1	0
@@ -12079,7 +11759,6 @@ marsa	mars	0	0	1	0
 przywódców	leaders	0	0	1	0
 spektrum	spectrum	0	0	1	0
 dan	dan	0	0	1	0
-operator	operator	0	0	1	1
 naszej	our	0	0	1	0
 naszej	ours	0	0	1	0
 ogromnym	huge	0	0	1	0
@@ -12100,7 +11779,7 @@ narodowe	ethnic	0	0	1	0
 zamach	assassination	0	0	1	1
 zamach	assassination attempt	0	0	1	0
 zamach	zamach	0	0	1	0
-zachód	west	0	0	1	1
+pełen	full	0	0	1	1
 narodowy	national	0	0	1	1
 letnią	summer	0	0	1	0
 letnią	years	0	0	1	0
@@ -12108,7 +11787,6 @@ lecia	anniversary	0	0	1	0
 lecia	year	0	0	1	0
 warner	warner	0	0	1	0
 socjalizmu	socialism	0	0	1	0
-zmieniają	changing	0	0	1	0
 zmieniają	change	0	0	1	0
 niepowodzeniem	failure	0	0	1	0
 fizyczny	laborer	0	0	1	0
@@ -12117,10 +11795,8 @@ fizyczny	physical	0	0	1	1
 średniowiecznych	middle ages	0	0	1	0
 fizyczne	phisical	0	0	1	0
 fizyczne	physical	0	0	1	0
-fizyczna	physic	0	0	1	0
 fizyczna	physical	0	0	1	0
 kończyn	limbs	0	0	1	0
-kończyn	lombs	0	0	1	0
 wszyscy	all	0	0	1	1
 marley	marley	0	0	1	0
 rywalizacji	rivarly	0	0	1	0
@@ -12163,7 +11839,6 @@ włókna	fibres	0	0	1	0
 włókna	fiber	0	0	1	0
 włókna	fibers	0	0	1	0
 wyposażenie	equipment	0	0	1	1
-wyposażenie	gear	0	0	1	0
 zachodzących	conducted	0	0	1	0
 zachodzących	drop in	0	0	1	0
 zachodzących	ongoing	0	0	1	0
@@ -12195,8 +11870,8 @@ osiemdziesiątych	the 80s	0	0	1	0
 pewnego	certain	0	0	1	0
 dać	give	0	0	1	1
 kwasów	acids	0	0	1	0
-dominującym	dominant	0	0	1	0
 dominującym	dominating	0	0	1	0
+dominującym	dominant	0	0	1	0
 podstawy	basics	0	0	1	0
 peja	peja	0	0	1	0
 kalifornii	california	0	0	1	0
@@ -12231,7 +11906,6 @@ podłoże	base	0	0	1	1
 podłoże	ground	0	0	1	0
 samodzielne	independent	0	0	1	0
 samodzielne	separate	0	0	1	0
-samodzielne	intependent	0	0	1	0
 podłoża	the substrate	0	0	1	0
 podłoża	ground	0	0	1	0
 świata	world	0	0	1	0
@@ -12255,9 +11929,7 @@ skomponował	composed	0	0	1	0
 skomponował	compose	0	0	1	0
 życiorys	biography	0	0	1	0
 życiorys	cv	0	0	1	0
-życiorys	curriculum vitae	0	0	1	1
-iranu	iran	0	0	1	0
-wytwórni	record label	0	0	1	0
+życiorys	curriculum vitae	0	0	1	0
 wytwórni	works	0	0	1	0
 wytwórni	label	0	0	1	0
 mit	myth	0	0	1	1
@@ -12274,8 +11946,7 @@ rozkład	shedule	0	0	1	0
 rozkład	schedule	0	0	1	1
 jehowy	jehova	0	0	1	0
 jehowy	jehova's	0	0	1	0
-jehowy	jehowa's	0	0	1	0
-nerek	kidneys	0	0	1	0
+strach	fear	0	0	1	1
 stanowiących	making up	0	0	1	0
 stanowiących	constituting	0	0	1	0
 dzieł	division	0	0	1	0
@@ -12284,7 +11955,6 @@ dzieł	share	0	0	1	0
 dzień	day	0	0	1	1
 stopniowo	gradually	0	0	1	1
 capita	capita	0	0	1	0
-capita	"per capita" - latin expression	0	0	1	0
 corocznie	annually	0	0	1	1
 corocznie	annual	0	0	1	0
 właściwej	real	0	0	1	0
@@ -12292,14 +11962,12 @@ właściwej	proper	0	0	1	0
 właściwej	appropriate	0	0	1	0
 wszechświecie	universe	0	0	1	0
 wszechświecie	the universe	0	0	1	0
-wywołane	caused	0	0	1	0
 wywołane	induced	0	0	1	0
 text	text	0	0	1	0
 charles	charles	0	0	1	0
 wzrosła	rose	0	0	1	0
 wzrosła	grew	0	0	1	0
 wzrosła	increased	0	0	1	0
-muzułmanów	muslims	0	0	1	0
 nią	it	0	0	1	0
 możliwych	of possible	0	0	1	0
 możliwych	possible	0	0	1	0
@@ -12315,7 +11983,6 @@ bernard	bernard	0	0	1	0
 wielkości	largest (co do wielkości)	0	0	1	0
 wielkości	quantity	0	0	1	0
 wielkości	size	0	0	1	0
-wierzą	they believe	0	0	1	0
 wierzą	believe	0	0	1	0
 brytyjskiej	british	0	0	1	0
 pokarmowego	gastrointestinal	0	0	1	0
@@ -12326,7 +11993,6 @@ wysłał	sent	0	0	1	0
 richarda	richard	0	0	1	0
 obrazie	picture	0	0	1	0
 obrazie	painting	0	0	1	0
-ludzki	human	0	0	1	1
 przeciwnika	antagonist	0	0	1	0
 przeciwnika	opponent	0	0	1	0
 układów	treaties	0	0	1	0
@@ -12357,11 +12023,9 @@ stwierdzenie	reasonable to say	0	0	1	0
 źródłach	sources	0	0	1	0
 źródłach	(in) sources	0	0	1	0
 okolicznościach	circumstances	0	0	1	0
-stwierdzenia	affirmation	0	0	1	0
 stwierdzenia	ascertaining	0	0	1	0
 stwierdzenia	ascertain	0	0	1	0
-joanna	joanna	0	0	1	0
-joanna	name	0	0	1	0
+niebieskich	blue	0	0	1	0
 podobnie	similiar	0	0	1	0
 podobnie	similar	0	0	1	0
 podobnie	similarly	0	0	1	1
@@ -12369,14 +12033,11 @@ krzywousty	wrymouth	0	0	1	0
 licznie	many	0	0	1	1
 licznie	numerous	0	0	1	0
 niespełna	almost	0	0	1	0
-niespełna	only	0	0	1	0
 niespełna	just	0	0	1	0
 wiedział	knew	0	0	1	0
-filozofów	philosophers	0	0	1	0
 niewielkich	small	0	0	1	0
 niewielkich	niewielkich	0	0	1	0
 niewielkich	not big	0	0	1	0
-mniejszym	lesser	0	0	1	0
 mniejszym	lower	0	0	1	0
 mniejszym	smaller	0	0	1	0
 malarz	painter	0	0	1	1
@@ -12392,6 +12053,7 @@ legii	legia	0	0	1	0
 skrzydeł	wings	0	0	1	0
 mowa	speach	0	0	1	0
 mowa	speech	0	0	1	1
+debiutancki	debutant	0	0	1	0
 właściwie	appropriate	0	0	1	0
 właściwie	actually	0	0	1	0
 mowy	discussion	0	0	1	0
@@ -12474,6 +12136,7 @@ wywołać	call up	0	0	1	0
 wywołać	provoke	0	0	1	0
 wywołać	cause	0	0	1	0
 produkty	products	0	0	1	0
+chrześcijańskich	christian	0	0	1	0
 ataki	attacks	0	0	1	0
 ataki	atacks	0	0	1	0
 yaitanes	yaitanes	0	0	1	0
@@ -12487,7 +12150,6 @@ czasopisma	magazines	0	0	1	0
 czasopisma	magazine	0	0	1	0
 procesora	of processor	0	0	1	0
 procesora	processor	0	0	1	0
-obywatelskich	civil	0	0	1	0
 obywatelskich	civic	0	0	1	0
 obywatelskich	citizen	0	0	1	0
 przenosi	move	0	0	1	0
@@ -12535,7 +12197,6 @@ wzorce	models	0	0	1	0
 wzorce	norms	0	0	1	0
 wzorce	influences	0	0	1	0
 szybki	fast	0	0	1	1
-pieśń	chant	0	0	1	0
 pieśń	song	0	0	1	1
 gridcolorlinegrey	grid line color gray	0	0	1	0
 witaminy	vitamins	0	0	1	0
@@ -12557,14 +12218,13 @@ wyd	published	0	0	1	0
 własność	property	0	0	1	1
 własność	ownership	0	0	1	1
 miecz	sword	0	0	1	1
-pełen	full	0	0	1	1
 wym	dim	0	0	1	0
 wym	pronunciation	0	0	1	0
 wym	alternatively	0	0	1	0
 udziałem	taking part	0	0	1	0
 udziałem	participation	0	0	1	0
-władcą	ruler	0	0	1	0
-władcą	emperor	0	0	1	0
+piłkarza	football player	0	0	1	0
+piłkarza	soccer player	0	0	1	0
 piłkarze	footballers	0	0	1	0
 piłkarze	soccer players	0	0	1	0
 odmian	species	0	0	1	0
@@ -12572,7 +12232,9 @@ odmian	varieties	0	0	1	0
 wagner	wagner	0	0	1	0
 początki	beginings	0	0	1	0
 początki	beginnings	0	0	1	0
-kompozytora	composer	0	0	1	0
+zależność	relation	0	0	1	0
+zależność	dependence	0	0	1	1
+zależność	reliance	0	0	1	0
 przedsiębiorstwo	company	0	0	1	0
 przedsiębiorstwo	enterprise	0	0	1	1
 rodowicz	manilow	0	0	1	0
@@ -12583,7 +12245,7 @@ przedsiębiorstwa	companies	0	0	1	0
 przedsiębiorstwa	enterprises	0	0	1	0
 meksyku	mexico	0	0	1	0
 prowadzonych	conducted	0	0	1	0
-nawzajem	one another	0	0	1	1
+nawzajem	one another	0	0	1	0
 nawzajem	each other	0	0	1	0
 saturna	of saturn	0	0	1	0
 saturna	saturn	0	0	1	0
@@ -12597,7 +12259,6 @@ zatoce	a gulf	0	0	1	0
 zatoce	bay	0	0	1	0
 został	was	0	0	1	0
 został	was (crowned)	0	0	1	0
-kilkaset	few hundred	0	0	1	0
 kilkaset	a few hundred	0	0	1	0
 kilkaset	several hundred	0	0	1	0
 polityków	piliticians	0	0	1	0
@@ -12620,7 +12281,6 @@ postępy	progress	0	0	1	1
 gospodarkę	economy	0	0	1	0
 dolarów	dollars	0	0	1	0
 promień	radius	0	0	1	1
-brian	brian	0	0	1	0
 biskup	bishop	0	0	1	1
 gospodarką	economy	0	0	1	0
 częstochowy	częstochowa	0	0	1	0
@@ -12630,7 +12290,6 @@ występów	appearances	0	0	1	0
 zawarty	concluded	0	0	1	0
 zawarty	contained	0	0	1	0
 zawarty	comprised	0	0	1	0
-używa	use	0	0	1	0
 używa	uses	0	0	1	0
 opracowanie	study	0	0	1	0
 opracowanie	work	0	0	1	0
@@ -12658,7 +12317,6 @@ wagony	rail cars	0	0	1	0
 wagony	waggons	0	0	1	0
 zapewne	probably	0	0	1	0
 zapewne	certainly	0	0	1	0
-zapewne	propably	0	0	1	0
 zdecydowała	decided	0	0	1	0
 arabii	arabia	0	0	1	0
 arabii	arabian	0	0	1	0
@@ -12671,7 +12329,6 @@ wśród	among	0	0	1	1
 klasztoru	monastery	0	0	1	0
 wyższą	higher	0	0	1	0
 pozycji	position	0	0	1	0
-pozycji	situation	0	0	1	0
 przeciwnikiem	opponent	0	0	1	0
 pozycja	position	0	0	1	1
 kapitan	captain	0	0	1	1
@@ -12706,11 +12363,11 @@ legendy	legends	0	0	1	0
 skóra	skin	0	0	1	1
 cechą	the characteristic	0	0	1	0
 cechą	feature	0	0	1	0
+złotej	golden	0	0	1	0
 ataków	attacks	0	0	1	0
 wolna	slowly	0	0	1	0
 wolna	free	0	0	1	0
 uniemożliwia	prevents	0	0	1	0
-uniemożliwia	prevents from	0	0	1	0
 platforma	platform	0	0	1	1
 platforma	platforma	0	0	1	0
 kulturalnym	cultural	0	0	1	0
@@ -12728,7 +12385,6 @@ niemiec	germany	0	0	1	0
 władcy	ruler	0	0	1	0
 władcy	rulers	0	0	1	0
 pih	pih	0	0	1	0
-wejścia	introduction	0	0	1	0
 wejścia	input	0	0	1	0
 wejścia	coming	0	0	1	0
 pozycję	position	0	0	1	0
@@ -12755,6 +12411,9 @@ fryderyka	fryderyk	0	0	1	0
 pis	pis	0	0	1	0
 pis	law and justice	0	0	1	0
 pis	it's a polish political party	0	0	1	0
+nmp	blessed virgin mary	0	0	1	0
+nmp	blessed holy mary	0	0	1	0
+nmp	virgin mary	0	0	1	0
 piw	beers	0	0	1	0
 typowym	top of the range	0	0	1	0
 typowym	typical	0	0	1	0
@@ -12763,7 +12422,6 @@ zbyt	too	0	0	1	1
 konkurencji	competiton	0	0	1	0
 konkurencji	competition	0	0	1	0
 rozwijała	developed	0	0	1	0
-rozwijała	evolved	0	0	1	0
 finału	final games	0	0	1	0
 finału	final	0	0	1	0
 finału	finals	0	0	1	0
@@ -12799,7 +12457,6 @@ fakty	facts	0	0	1	0
 schengen	schengen	0	0	1	0
 odpornościowego	immune	0	0	1	0
 odpornościowego	resistance	0	0	1	0
-oznaczać	to mean	0	0	1	0
 oznaczać	mean	0	0	1	1
 istniało	existed	0	0	1	0
 czeskiej	czech	0	0	1	0
@@ -12871,7 +12528,6 @@ wyborczej	wyborcza	0	0	1	0
 wyborczej	election	0	0	1	0
 zabity	was killed	0	0	1	0
 zabity	killed	0	0	1	1
-wystąpił	made an appearance	0	0	1	0
 wystąpił	performed	0	0	1	0
 wystąpił	wystapil	0	0	1	0
 nkwd	nkvd	0	0	1	0
@@ -12900,7 +12556,6 @@ zack	zack	0	0	1	0
 filharmonia	filharmony	0	0	1	0
 filharmonia	philharmonic orchestra	0	0	1	0
 filharmonia	philharmonic	0	0	1	1
-krakowskiej	cracow	0	0	1	0
 krakowskiej	cracov	0	0	1	0
 krakowskiej	cracow's	0	0	1	0
 siedzibą	headquarters	0	0	1	0
@@ -12928,7 +12583,6 @@ wybory	wybory	0	0	1	0
 wybory	elections	0	0	1	1
 wybory	election	0	0	1	0
 błędu	error	0	0	1	0
-błędu	mistake	0	0	1	0
 tu	here	0	0	1	1
 asyżu	assisi	0	0	1	0
 indyjski	indian	0	0	1	1
@@ -12943,11 +12597,9 @@ dniem	day	0	0	1	0
 podpisano	was signed	0	0	1	0
 podpisano	signed	0	0	1	0
 obowiązujące	obligatory	0	0	1	0
-obowiązujące	binding	0	0	1	0
 obowiązujące	being in power	0	0	1	0
 zagubieni	lost	0	0	1	0
 to	it	0	0	1	1
-to	that	0	0	1	1
 przetrwała	survived	0	0	1	0
 podejście	attitude	0	0	1	0
 podejście	approach	0	0	1	1
@@ -12988,7 +12640,6 @@ mm	mm	0	0	1	0
 mm	milimeters	0	0	1	0
 smoka	grafon	0	0	1	0
 smoka	of a dragon	0	0	1	0
-smoka	dragon	0	0	1	0
 mi	me	0	0	1	1
 mi	to me	0	0	1	0
 drużyn	teams	0	0	1	0
@@ -13000,7 +12651,8 @@ henry	henry	0	0	1	0
 ernest	ernest	0	0	1	0
 my	my( english word)	0	0	1	0
 my	we	0	0	1	1
-mz	masovian	0	0	1	0
+mecze	matches	0	0	1	0
+mecze	games	0	0	1	0
 potrzebuje	it needs	0	0	1	0
 potrzebuje	need	0	0	1	0
 potrzebuje	needs	0	0	1	0
@@ -13045,7 +12697,6 @@ stałego	pernament	0	0	1	0
 stałego	lasting	0	0	1	0
 elizabeth	elizabeth	0	0	1	0
 zmniejszenia	decrease	0	0	1	0
-zmniejszenia	reduction	0	0	1	0
 zmniejszenia	reduce	0	0	1	0
 zmniejszenie	reduction	0	0	1	1
 zmniejszenie	decrease	0	0	1	0
@@ -13079,7 +12730,6 @@ fabuły	fiction	0	0	1	0
 konstytucja	constitution	0	0	1	1
 podatków	taxes	0	0	1	0
 klubie	club	0	0	1	0
-konstytucji	of constitution	0	0	1	0
 konstytucji	constitution	0	0	1	0
 opieką	care	0	0	1	0
 over	over	0	0	1	0
@@ -13095,8 +12745,6 @@ platformy	platforms	0	0	1	0
 platformy	platform	0	0	1	0
 cierpienia	suffering	0	0	1	0
 cierpienia	sufferning	0	0	1	0
-froncie	front	0	0	1	0
-froncie	frontier	0	0	1	0
 bolesław	boleslaw	0	0	1	0
 wykazują	show	0	0	1	0
 wykazują	point out	0	0	1	0
@@ -13104,7 +12752,6 @@ wykazują	points	0	0	1	0
 fale	wave	0	0	1	0
 fale	waves	0	0	1	0
 matematyki	mathematics	0	0	1	0
-matematyki	of mathematics	0	0	1	0
 muszą	have to	0	0	1	0
 muszą	must	0	0	1	0
 ptaka	bird's-eye view	0	0	1	0
@@ -13119,11 +12766,10 @@ bratem	brother	0	0	1	0
 najnowszych	newest	0	0	1	0
 najnowszych	the latest	0	0	1	0
 najnowszych	the newest	0	0	1	0
-dziadka	grandfather	0	0	1	0
+prawdopodobne	probably	0	0	1	0
 napis	inscription	0	0	1	1
 napis	sign	0	0	1	0
 ograniczenie	limitation	0	0	1	1
-ograniczenie	restricition	0	0	1	0
 ograniczenia	limitations	0	0	1	0
 ograniczenia	organiczenia	0	0	1	0
 ograniczenia	limitation	0	0	1	0
@@ -13141,7 +12787,6 @@ członkowskie	membership	0	0	1	0
 pobytu	residence	0	0	1	0
 pobytu	stay	0	0	1	0
 drobnych	small	0	0	1	0
-drobnych	drobnych	0	0	1	0
 drobnych	slight	0	0	1	0
 przepisów	regulations	0	0	1	0
 przepisów	laws	0	0	1	0
@@ -13152,7 +12797,6 @@ interwencji	interevention	0	0	1	0
 interwencji	intervention	0	0	1	0
 pozwalające	enabling to	0	0	1	0
 pozwalające	allowing	0	0	1	0
-twierdzi	states	0	0	1	0
 twierdzi	claims	0	0	1	0
 afganistan	afghanistan	0	0	1	0
 stosował	used	0	0	1	0
@@ -13182,13 +12826,10 @@ wybitnych	outstanding	0	0	1	0
 przeprowadzenia	conducting	0	0	1	0
 przeprowadzenia	carry out	0	0	1	0
 przeprowadzenia	lead	0	0	1	0
-najwyższa	top	0	0	1	0
 najwyższa	highest	0	0	1	0
-przeprowadzenie	perform	0	0	1	0
 przeprowadzenie	carrying out	0	0	1	0
 przeprowadzenie	conduct	0	0	1	0
 najwyższe	highest	0	0	1	0
-działania	action	0	0	1	0
 działania	activities	0	0	1	0
 działania	actions	0	0	1	0
 sodu	sodium	0	0	1	0
@@ -13198,7 +12839,7 @@ działanie	activity	0	0	1	1
 istotną	important	0	0	1	0
 istotną	essential	0	0	1	0
 istotną	significant	0	0	1	0
-maksymalnie	at most	0	0	1	1
+maksymalnie	at most	0	0	1	0
 maksymalnie	maximally	0	0	1	0
 maksymalnie	at maximum of	0	0	1	0
 filmowej	movie	0	0	1	0
@@ -13265,9 +12906,8 @@ kanta	kant	0	0	1	0
 wprowadzenia	introduction	0	0	1	0
 wprowadzenia	implementation	0	0	1	0
 wprowadzenie	indroduction	0	0	1	0
-wprowadzenie	introduction	0	0	1	1
 wprowadzenie	preface / introduction	0	0	1	0
-przejąć	take over	0	0	1	1
+przejąć	take over	0	0	1	0
 przejąć	take	0	0	1	0
 ilości	amount	0	0	1	0
 ilości	quantity	0	0	1	0
@@ -13304,7 +12944,6 @@ koalicji	coallition	0	0	1	0
 koalicji	coalition	0	0	1	0
 tętnicy	artery	0	0	1	0
 ras	races	0	0	1	0
-ras	breed	0	0	1	0
 rap	rap	0	0	1	0
 społeczności	communities	0	0	1	0
 społeczności	society	0	0	1	0
@@ -13343,8 +12982,7 @@ dawniej	formerly	0	0	1	1
 rozwojem	development	0	0	1	0
 richard	richard	0	0	1	0
 wreszcie	finally	0	0	1	1
-medycyna	medicine	0	0	1	1
-medycyna	medecine	0	0	1	0
+etniczne	ethnic	0	0	1	0
 tanzania	tanzania	0	0	1	0
 metal	metal	0	0	1	1
 curie	curie	0	0	1	1
@@ -13356,15 +12994,13 @@ chorego	sick	0	0	1	0
 pkp	polish state railways	0	0	1	0
 pkp	pkp	0	0	1	0
 pkp	it's a shortcut from polish train company's name	0	0	1	0
-środowisk	circles	0	0	1	0
 środowisk	environments	0	0	1	0
 środowisk	milieus	0	0	1	0
 queen	queen	0	0	1	0
 radiu	radio	0	0	1	0
 pkb	gdp	0	0	1	0
 colors	colors	0	0	1	0
-musicalu	musiacal	0	0	1	0
-musicalu	musical	0	0	1	0
+muzycy	musicians	0	0	1	0
 radio	radio	0	0	1	1
 popu	pop	0	0	1	0
 zwiększone	increased	0	0	1	0
@@ -13383,10 +13019,8 @@ miłością	love	0	0	1	0
 miesiąca	month	0	0	1	0
 opinii	opinion	0	0	1	0
 łuk	arch	0	0	1	1
-łuk	"pojawił się łuk" refers to "bow". "tworzących łuk" refers to "arc"	0	0	1	0
 łuk	bow	0	0	1	1
 studium	study	0	0	1	1
-studium	stadium	0	0	1	0
 opinia	opinion	0	0	1	1
 opinie	opinions	0	0	1	0
 własną	own	0	0	1	0
@@ -13417,8 +13051,6 @@ towarzyszył	was accompanied	0	0	1	0
 przeprowadzono	run	0	0	1	0
 przeprowadzono	impelented	0	0	1	0
 przeprowadzono	were	0	0	1	0
-naprawdę	trully	0	0	1	0
-naprawdę	truly	0	0	1	1
 naprawdę	really	0	0	1	1
 podkreśla	highlight	0	0	1	0
 podkreśla	emphasizes	0	0	1	0
@@ -13429,7 +13061,6 @@ stają	become	0	0	1	0
 stają	are	0	0	1	0
 występujące	occuring	0	0	1	0
 występujące	present	0	0	1	0
-występujące	occurring	0	0	1	0
 przemysław	przemyslaw	0	0	1	0
 arabskich	arab	0	0	1	0
 arabskich	arabic	0	0	1	0
@@ -13466,9 +13097,8 @@ konkursie	contest	0	0	1	0
 elektronów	electrons	0	0	1	0
 sprzeciw	objection	0	0	1	1
 sprzeciw	opposition	0	0	1	1
-czym	however	0	0	1	0
-czym	approximately	0	0	1	0
 czym	which	0	0	1	0
+czym	approximately	0	0	1	0
 trzema	with three	0	0	1	0
 trzema	three	0	0	1	0
 pomnik	sculpture	0	0	1	0
@@ -13503,7 +13133,6 @@ koncertów	concerts	0	0	1	0
 zyskały	gained	0	0	1	0
 zyskały	achieved	0	0	1	0
 opinię	opinion	0	0	1	0
-walter	walter	0	0	1	0
 słabe	weak	0	0	1	0
 drugi	second	0	0	1	1
 druga	second	0	0	1	0
@@ -13515,8 +13144,6 @@ kopernik	copernicus	0	0	1	0
 żoną	wife	0	0	1	0
 okresy	periods	0	0	1	0
 komunikacja	communication	0	0	1	1
-n	n	0	0	1	0
-nowotwory	tumours	0	0	1	0
 nowotwory	cancers	0	0	1	0
 nowotwory	cancer	0	0	1	0
 korczak	korczak	0	0	1	0
@@ -13548,9 +13175,9 @@ fizycznej	physical	0	0	1	0
 odpowiedni	proper	0	0	1	1
 odpowiedni	appropriate	0	0	1	0
 myślą	thought	0	0	1	0
-zmarła	died	0	0	1	0
+żółte	yellow	0	0	1	0
 nikt	nobody	0	0	1	1
-nikt	no one	0	0	1	1
+nikt	no one	0	0	1	0
 zabiegów	procedures	0	0	1	0
 zabiegów	treatment	0	0	1	0
 zabiegów	procedure	0	0	1	0
@@ -13585,7 +13212,7 @@ odmówił	refused	0	0	1	0
 występujący	occurring	0	0	1	0
 występujący	performing	0	0	1	0
 występujący	existing	0	0	1	0
-bilans	balance	0	0	1	1
+biologiczne	biological	0	0	1	0
 spoczywa	rests	0	0	1	0
 spoczywa	rest	0	0	1	0
 skutecznie	effectively	0	0	1	0
@@ -13608,7 +13235,7 @@ osobiste	personal	0	0	1	0
 wskaźniki	indicators	0	0	1	0
 wskaźniki	pointer	0	0	1	0
 rzeczywiście	indeed	0	0	1	1
-rzeczywiście	in fact	0	0	1	1
+rzeczywiście	in fact	0	0	1	0
 rzeczywiście	actually	0	0	1	1
 słaby	weak	0	0	1	1
 słaby	low	0	0	1	1
@@ -13618,7 +13245,6 @@ posługuje	use	0	0	1	0
 posługuje	uses	0	0	1	0
 posługuje	employs	0	0	1	0
 maszynowy	machine	0	0	1	1
-maszynowy	machine(gun)	0	0	1	0
 słabo	poor	0	0	1	0
 słabo	slightly	0	0	1	0
 słabo	poorly	0	0	1	1
@@ -13644,7 +13270,6 @@ zmianami	changes	0	0	1	0
 zasady	rules	0	0	1	0
 zasady	principle	0	0	1	0
 dłuższy	longer	0	0	1	0
-londynu	london's	0	0	1	0
 londynu	london	0	0	1	0
 pokonała	defeated	0	0	1	0
 rybołówstwo	fishery	0	0	1	1
@@ -13654,7 +13279,6 @@ podjęcia	undertaking	0	0	1	0
 podjęcia	taking	0	0	1	0
 podjęcia	undertake	0	0	1	0
 aktualnie	currently	0	0	1	0
-aktualnie	actually	0	0	1	0
 zasada	rule	0	0	1	1
 portret	portrait	0	0	1	1
 wybranych	choosen	0	0	1	0
@@ -13686,7 +13310,6 @@ pochodzący	originates	0	0	1	0
 pochodzący	from	0	0	1	0
 pochodzący	coming	0	0	1	0
 meyer	meyer	0	0	1	0
-zwalczania	control	0	0	1	0
 zwalczania	eradication	0	0	1	0
 zwalczania	fighting	0	0	1	0
 kulturą	culture	0	0	1	0
@@ -13742,6 +13365,8 @@ posiadłości	estates	0	0	1	0
 posiadłości	estate	0	0	1	0
 różnorodne	diverse	0	0	1	0
 różnorodne	variety	0	0	1	0
+tygodnia	week	0	0	1	0
+tygodnia	weekend	0	0	1	0
 żona	wife	0	0	1	1
 ostatni	last	0	0	1	1
 parametry	specification	0	0	1	0
@@ -13802,7 +13427,6 @@ moczu	urine	0	0	1	0
 pokojowe	peace	0	0	1	0
 pokojowe	peacekeeping	0	0	1	0
 obrony	defend	0	0	1	0
-obrony	defence	0	0	1	0
 obrony	defense	0	0	1	0
 np	e.g.	0	0	1	0
 np	for example (abbr.)	0	0	1	0
@@ -13838,7 +13462,6 @@ zasadą	rule	0	0	1	0
 społecznymi	social	0	0	1	0
 zginęła	die	0	0	1	0
 zginęła	succumbed	0	0	1	0
-zginęła	died	0	0	1	0
 zawdzięcza	zawdziecza	0	0	1	0
 zawdzięcza	owes	0	0	1	0
 zawdzięcza	owns	0	0	1	0
@@ -13853,10 +13476,8 @@ zarażenia	infections	0	0	1	0
 zarażenia	contagion	0	0	1	0
 reszta	the rest	0	0	1	0
 reszta	other	0	0	1	0
-reszta	rest	0	0	1	1
 począwszy	from	0	0	1	0
 począwszy	starting	0	0	1	0
-grobu	tomb	0	0	1	0
 grobu	grave	0	0	1	0
 przygotowania	preparation	0	0	1	0
 przygotowania	preparations	0	0	1	0
@@ -13868,7 +13489,6 @@ naczynia	vessels	0	0	1	0
 ślad	track of	0	0	1	0
 ślad	following	0	0	1	0
 najwyższych	the highest	0	0	1	0
-najwyższych	highest	0	0	1	0
 wątki	plots	0	0	1	0
 wątki	threads	0	0	1	0
 warstw	layers	0	0	1	0
@@ -13930,11 +13550,9 @@ czasowe	time	0	0	1	0
 zatrzymał	stopped	0	0	1	0
 zatrzymał	stayed	0	0	1	0
 pewnością	surely	0	0	1	0
-pewnością	sure	0	0	1	0
 pewnością	certainity	0	0	1	0
 czasowo	temporarily	0	0	1	0
 czasowo	temporary	0	0	1	0
-business	business	0	0	1	0
 adwentystów	adventists	0	0	1	0
 zjednoczonymi	united	0	0	1	0
 zbrodni	crimes	0	0	1	0
@@ -13956,7 +13574,6 @@ narządów	organs	0	0	1	0
 białystok	bialystok	0	0	1	0
 hiszp	in spanish	0	0	1	0
 hiszp	abravation of spanish (like span.)	0	0	1	0
-hiszp	spanish	0	0	1	0
 otwarte	open	0	0	1	0
 otwarte	opened	0	0	1	0
 jork	york	0	0	1	0
@@ -13976,7 +13593,7 @@ dziadek	gradfather	0	0	1	0
 dziadek	dzeiadek	0	0	1	0
 dziadek	grandfather	0	0	1	1
 żeby	to	0	0	1	0
-żeby	in order to	0	0	1	1
+żeby	in order to	0	0	1	0
 zdaniem	according to	0	0	1	0
 zdaniem	in (someone's) opinion	0	0	1	0
 usług	services	0	0	1	0
@@ -13989,12 +13606,12 @@ trójkąta	traingle	0	0	1	0
 trójkąta	of a triangle	0	0	1	0
 trójkąta	triangle	0	0	1	0
 przemyśle	industry	0	0	1	0
-tendencje	trends	0	0	1	0
 tendencje	tendencies	0	0	1	0
 mozambik	mozambique	0	0	1	0
 sportu	sport	0	0	1	0
-emigracji	emigration	0	0	1	0
-emigracji	emigracji	0	0	1	0
+wykazano	demonstrated	0	0	1	0
+wykazano	showed	0	0	1	0
+wykazano	indicated	0	0	1	0
 dźwiękowej	soundrtack	0	0	1	0
 dźwiękowej	sound	0	0	1	0
 płyta	the album	0	0	1	0
@@ -14003,7 +13620,6 @@ płyta	record	0	0	1	1
 wspomina	mentions	0	0	1	0
 wspomina	remembers	0	0	1	0
 wspomina	recalls	0	0	1	0
-płyty	records	0	0	1	0
 płyty	albums	0	0	1	0
 płyty	discs	0	0	1	0
 stanisław	shelters slaw	0	0	1	0
@@ -14017,7 +13633,6 @@ nazwane	called	0	0	1	0
 właściwa	proper	0	0	1	0
 właściwa	exact	0	0	1	0
 właściwa	correct	0	0	1	0
-nazwano	named	0	0	1	0
 nazwano	has been called	0	0	1	0
 nazwano	called	0	0	1	0
 właściwe	proper	0	0	1	0
@@ -14053,10 +13668,9 @@ napisany	written	0	0	1	0
 przyjaźni	friendship	0	0	1	0
 pozytywnie	positive	0	0	1	0
 pozytywnie	positively	0	0	1	1
-pompejusza	pompey	0	0	1	0
 pompejusza	pompeyus	0	0	1	0
 pompejusza	pompeius	0	0	1	0
-trzykrotnie	three times	0	0	1	1
+trzykrotnie	three times	0	0	1	0
 trzykrotnie	thrice	0	0	1	1
 trzykrotnie	triple	0	0	1	0
 opis	description	0	0	1	1
@@ -14091,6 +13705,8 @@ publicznie	public	0	0	1	0
 publicznie	publicly	0	0	1	1
 przywódca	leader	0	0	1	1
 epizody	episodes	0	0	1	0
+mahometa	mohammed	0	0	1	0
+mahometa	mahomet	0	0	1	0
 rzymianie	romans	0	0	1	0
 rzymianie	rayme	0	0	1	0
 rzymianie	romes	0	0	1	0
@@ -14098,7 +13714,7 @@ skutkiem	the result	0	0	1	0
 skutkiem	effect	0	0	1	0
 odporności	resistance	0	0	1	0
 odporności	immunity	0	0	1	0
-bardziej	more	0	0	1	1
+zakopane	zakopane	0	0	1	0
 przywódcy	leader	0	0	1	0
 przywódcy	leaders	0	0	1	0
 milion	million	0	0	1	1
@@ -14179,7 +13795,6 @@ rokowanie	conversation	0	0	1	0
 lóż	lodge	0	0	1	0
 lóż	lodges	0	0	1	0
 kanon	canon	0	0	1	1
-ponad	over	0	0	1	0
 ponad	above	0	0	1	1
 skazany	sentenced	0	0	1	0
 skazany	convict	0	0	1	0
@@ -14211,8 +13826,8 @@ zapewnić	secure	0	0	1	1
 wiarę	faith	0	0	1	0
 wiarę	belief	0	0	1	0
 sarafian	sarafian	0	0	1	0
-nominacji	nominations	0	0	1	0
-nominacji	nominee	0	0	1	0
+krzysztofa	of krzysztof	0	0	1	0
+krzysztofa	krzysztof	0	0	1	0
 place	miejsce	0	0	1	0
 place	squares	0	0	1	0
 mogło	could have	0	0	1	0
@@ -14221,16 +13836,16 @@ mogła	could have	0	0	1	0
 mogła	could	0	0	1	0
 nominacje	nominations	0	0	1	0
 nominacje	nomination	0	0	1	0
-nominowany	nominated	0	0	1	0
+laboratorium	laboratory	0	0	1	1
+laboratorium	lab	0	0	1	1
 religijnego	religious	0	0	1	0
-walkach	fights	0	0	1	0
 walkach	battles	0	0	1	0
 walkach	fight	0	0	1	0
 tygodni	weeks	0	0	1	0
 złem	evil	0	0	1	0
 george	george	0	0	1	0
 zdarzeń	events	0	0	1	0
-ian	ian	0	0	1	0
+dzieło	work	0	0	1	1
 insuliny	insuline	0	0	1	0
 insuliny	insulin	0	0	1	0
 węgrami	hungary	0	0	1	0
@@ -14243,7 +13858,6 @@ wehrmachtu	wehrmacht	0	0	1	0
 wehrmachtu	wehrmacht's	0	0	1	0
 średnica	diameter	0	0	1	1
 ustalenia	set	0	0	1	0
-ustalenia	establish	0	0	1	0
 ustalenia	determine	0	0	1	0
 sławomir	slawomir	0	0	1	0
 sławomir	sławomir	0	0	1	0
@@ -14263,11 +13877,12 @@ państwie	country	0	0	1	0
 państwie	state	0	0	1	0
 średniowiecze	middle age	0	0	1	0
 średniowiecze	medieval ages	0	0	1	0
-średniowiecze	middle ages	0	0	1	1
+średniowiecze	middle ages	0	0	1	0
 restauracji	restaurant	0	0	1	0
 średniowiecza	medieval ages	0	0	1	0
 średniowiecza	middle ages	0	0	1	0
-enigma	enigma	0	0	1	1
+ulubiona	favourite	0	0	1	0
+ulubiona	favorite	0	0	1	0
 kontrola	control	0	0	1	0
 kontrola	controll	0	0	1	0
 was	you	0	0	1	0
@@ -14331,8 +13946,8 @@ dziesiątki	dozens	0	0	1	0
 nawiązał	established	0	0	1	0
 nawiązał	referred	0	0	1	0
 dysku	disc	0	0	1	0
-koran	quran	0	0	1	0
 koran	koran	0	0	1	1
+koran	quran	0	0	1	0
 poszczególne	indivual	0	0	1	0
 poszczególne	individual	0	0	1	0
 poszczególne	several	0	0	1	0
@@ -14412,7 +14027,6 @@ przyjaciół	friends	0	0	1	0
 szymon	szymon	0	0	1	0
 szymon	simon	0	0	1	0
 podczas	during	0	0	1	1
-tomasza	tomasz	0	0	1	0
 tomasza	thomas	0	0	1	0
 tomasza	tomasz's	0	0	1	0
 pokarmu	food	0	0	1	0
@@ -14422,7 +14036,6 @@ połowę	field	0	0	1	0
 połowę	half	0	0	1	0
 jasnej	clear	0	0	1	0
 jasnej	jasnej	0	0	1	0
-organizacją	organization	0	0	1	0
 organizacją	organisation	0	0	1	0
 największy	biggest	0	0	1	0
 największy	the biggest	0	0	1	0
@@ -14459,10 +14072,8 @@ wyjeździe	coming	0	0	1	0
 artysta	artist	0	0	1	1
 pakistan	pakistan	0	0	1	0
 polu	field	0	0	1	0
-polu	legnickie pole is a proper name of village	0	0	1	0
 wierzył	believed	0	0	1	0
 wierzył	belived	0	0	1	0
-krakowskiego	cracow's	0	0	1	0
 krakowskiego	cracow	0	0	1	0
 krakowskiego	cracovian	0	0	1	0
 nadania	giving	0	0	1	0
@@ -14493,7 +14104,6 @@ wiciowce	amobeoid	1	0	1	0
 wiciowce	wiciowce	1	0	1	0
 sprzed	from before	0	0	1	0
 sprzed	before	0	0	1	0
-dnia	of the day	0	0	1	0
 dnia	day	0	0	1	0
 całość	the sum	0	0	1	0
 całość	whole	0	0	1	1
@@ -14508,8 +14118,8 @@ opola	opole	0	0	1	0
 wczesnej	early	0	0	1	0
 opole	opole	0	0	1	0
 andrew	andrew	0	0	1	0
-karierę	careere	0	0	1	0
 karierę	career	0	0	1	0
+karierę	careere	0	0	1	0
 istota	essence	0	0	1	1
 istota	creature	0	0	1	1
 istota	core	0	0	1	0
@@ -14572,7 +14182,8 @@ organizacje	organizations	0	0	1	0
 organizacje	organisations	0	0	1	0
 nazewnictwo	naming	0	0	1	0
 nazewnictwo	nomenclature	0	0	1	0
-ojcu	father	0	0	1	0
+największą	biggest	0	0	1	0
+największą	the biggest	0	0	1	0
 charakterystyka	characteristic	0	0	1	1
 charakterystyka	description	0	0	1	0
 płodu	embryo	0	0	1	0
@@ -14593,7 +14204,6 @@ obwodnica	ring-road	0	0	1	0
 obwodnica	circumference	0	0	1	0
 obwodnica	ring road	0	0	1	0
 moralności	morality	0	0	1	0
-wykorzystanie	usage	0	0	1	0
 wykorzystanie	use	0	0	1	0
 wykorzystanie	harassment	0	0	1	0
 iloczyn	product	0	0	1	1
@@ -14619,7 +14229,6 @@ muzea	museums	0	0	1	0
 mózgu	brain	0	0	1	0
 postacią	persona	0	0	1	0
 postacią	character	0	0	1	0
-wydał	released	0	0	1	0
 wydał	issue	0	0	1	0
 wydał	published	0	0	1	0
 łodzią	boat	0	0	1	0
@@ -14628,7 +14237,6 @@ ludowe	people	0	0	1	0
 zakazu	ban	0	0	1	0
 obrona	defend	0	0	1	0
 obrona	defense	0	0	1	1
-obrona	defence	0	0	1	1
 ludowa	folk	0	0	1	0
 ludowa	people's	0	0	1	0
 elektrycznego	electrical	0	0	1	0
@@ -14672,14 +14280,12 @@ częstotliwość	crest	1	1	0	0
 starożytnym	ancient	0	0	1	0
 już	already	0	0	1	1
 już	now	0	0	1	1
-wampirów	vampire's	0	0	1	0
 wampirów	vampires	0	0	1	0
 cdot	cdot	0	0	1	0
 tworzenia	formation	0	0	1	0
 tworzenia	creating	0	0	1	0
 akceptacji	acceptance	0	0	1	0
 akceptacji	acceptation	0	0	1	0
-krajem	country	0	0	1	0
 stronach	sides	0	0	1	0
 tworzeniu	forming	0	0	1	0
 tworzeniu	creation	0	0	1	0
@@ -14693,7 +14299,6 @@ województwie	voivodeship	0	0	1	0
 skłodowskacurie	sklodowska-curie	0	0	1	0
 skłodowskacurie	skłodowska-curie	0	0	1	0
 właściciel	owner	0	0	1	1
-pokarmowy	gastric	0	0	1	0
 pokarmowy	digestive	0	0	1	0
 plotdata=	plotdata	0	0	1	0
 nastąpiła	took place	0	0	1	0
@@ -14701,8 +14306,8 @@ nastąpiła	occured	0	0	1	0
 nastąpiła	occurs	0	0	1	0
 wytwarza	generate	0	0	1	0
 wytwarza	generates	0	0	1	0
-nastąpiło	came up	0	0	1	0
 nastąpiło	took place	0	0	1	0
+nastąpiło	came up	0	0	1	0
 nastąpiło	happened	0	0	1	0
 większa	larger	0	0	1	0
 większa	bigger	0	0	1	0
@@ -14720,7 +14325,6 @@ sen	dream	0	0	1	1
 marzec	march	0	0	1	1
 teorie	theories	0	0	1	0
 nastąpiły	toom place	0	0	1	0
-nastąpiły	have happend	0	0	1	0
 nastąpiły	occurs	0	0	1	0
 japońskim	japanese	0	0	1	0
 teoria	theory	0	0	1	1
@@ -14730,9 +14334,7 @@ jakub	jacob	0	0	1	0
 jakub	james	0	0	1	0
 stopy	foot	0	0	1	0
 stopy	feets	0	0	1	0
-testamencie	will	0	0	1	0
-testamencie	testament	0	0	1	0
-testamencie	last will	0	0	1	0
+phoenix	phoenix	0	0	1	0
 największej	biggest	0	0	1	0
 największej	the biggest	0	0	1	0
 grupę	group	0	0	1	0
@@ -14797,7 +14399,6 @@ rozmiary	size	0	0	1	0
 rozmiary	sizes	0	0	1	0
 instrumenty	instruments	0	0	1	0
 instrumenty	instrument	0	0	1	0
-główny	the main	0	0	1	0
 główny	main	0	0	1	1
 główny	central	0	0	1	1
 secesji	secession	0	0	1	0
@@ -14827,7 +14428,6 @@ wyrok	judgment	0	0	1	1
 wyrok	sentence	0	0	1	1
 obowiązuje	exists	0	0	1	0
 obowiązuje	effective	0	0	1	0
-obowiązuje	is in force	0	0	1	0
 działa	are active	0	0	1	0
 działa	working	0	0	1	0
 działa	is active	0	0	1	0
@@ -14867,7 +14467,6 @@ osobowość	personality	0	0	1	1
 rzeczpospolita	republic	0	0	1	1
 postacie	characters	0	0	1	0
 cnoty	virtues	0	0	1	0
-cnoty	virtue	0	0	1	0
 dostępnych	available	0	0	1	0
 dostępnych	accesable	0	0	1	0
 myślenia	thinking	0	0	1	0
@@ -14899,7 +14498,6 @@ północnym	north	0	0	1	0
 północnym	northern	0	0	1	0
 popyt	demand	0	0	1	1
 przyjętej	assumed	0	0	1	0
-przyjętej	approved	0	0	1	0
 przyjętej	adopted	0	0	1	0
 trasa	tour	0	0	1	0
 organizmu	organism	0	0	1	0
@@ -14970,11 +14568,11 @@ cmentarz	cemetery	0	0	1	1
 ośrodek	center	0	0	1	1
 ośrodek	hub	0	0	1	1
 śluzowej	mucous	0	0	1	0
-śluzowej	mucosal	0	0	1	0
 virtuti	virtuti	0	0	1	0
 odcinek	section	0	0	1	1
 odcinek	part	0	0	1	0
 odcinek	episode	0	0	1	0
+zachód	west	0	0	1	1
 elżbieta	elizabeth	0	0	1	0
 elżbieta	elisabeth	0	0	1	0
 funkcjonowanie	functioning	0	0	1	0
@@ -15029,17 +14627,17 @@ autorstwa	by	0	0	1	0
 autorstwa	autorship	0	0	1	0
 zły	bad	0	0	1	1
 zły	evil	0	0	1	1
-działalnością	activity	0	0	1	0
+siedzibę	headquarters	0	0	1	0
+siedzibę	headquarter	0	0	1	0
 tej	this	0	0	1	0
 ten	this	0	0	1	1
 ten	one	0	0	1	0
 półkula	hemisphere	0	0	1	1
 romantyzm	romantic period	0	0	1	0
 romantyzm	the romanticism	0	0	1	0
-romantyzm	romanticism	0	0	1	1
 wojennego	martial	0	0	1	0
-duet	duet	0	0	1	1
-duet	duo	0	0	1	1
+pozbawiona	deprived of	0	0	1	0
+pozbawiona	devoid of	0	0	1	0
 połączeń	connections	0	0	1	0
 połączeń	transportation	0	0	1	0
 spowodował	caused	0	0	1	0
@@ -15052,7 +14650,6 @@ francji	france	0	0	1	0
 tronie	throne	0	0	1	0
 centralny	central	0	0	1	1
 orbitę	orbit	0	0	1	0
-przeznaczenia	allocation	0	0	1	0
 przeznaczenia	destiny	0	0	1	0
 przeznaczenia	fate	0	0	1	0
 grze	game	0	0	1	0
@@ -15122,13 +14719,12 @@ podjąć	take up	0	0	1	0
 podjąć	undertake	0	0	1	1
 podjąć	undertook	0	0	1	0
 hołd	tribute	0	0	1	1
+demo	demo	0	0	1	0
 opór	resistance	0	0	1	1
 wielu	many	0	0	1	0
 meksykańskiej	mexican	0	0	1	0
 użytku	use	0	0	1	0
-obok	beside	0	0	1	1
 obok	obok next	0	0	1	0
-obok	"obok grand hotelu" = "by/near grand hotel"; "obok starokatolików" = "apart from old catholics"	0	0	1	0
 zbioru	set	0	0	1	0
 zbioru	collection	0	0	1	0
 floyd	floyd	0	0	1	0
@@ -15154,26 +14750,23 @@ zwłaszcza	especially	0	0	1	1
 matką	mother	0	0	1	0
 porównania	comparisons	0	0	1	0
 porównania	comparison	0	0	1	0
-porównanie	comparision	0	0	1	0
 porównanie	comparison	0	0	1	1
-warszawskim	warsaw	0	0	1	0
-warszawskim	warsaw's	0	0	1	0
+porównanie	comparision	0	0	1	0
+objawia	display symptoms	0	0	1	0
+objawia	manifests itself	0	0	1	0
+objawia	shows	0	0	1	0
 podjął	has	0	0	1	0
-podjął	took up	0	0	1	0
 podjął	undertook	0	0	1	0
 matkę	mother	0	0	1	0
 utwory	poem	0	0	1	0
-utwory	works	0	0	1	0
 utwory	written works	0	0	1	0
 drzewo	tree	0	0	1	1
 lesie	forrest	0	0	1	0
 lesie	forest	0	0	1	0
 duszy	soul	0	0	1	0
-duszy	souls	0	0	1	0
 utworu	track	0	0	1	0
 utworu	song	0	0	1	0
 podstawę	the basis	0	0	1	0
-podstawę	base	0	0	1	0
 podstawę	basis	0	0	1	0
 wokalista	singers	0	0	1	0
 wokalista	singer	0	0	1	0
@@ -15184,9 +14777,7 @@ dusza	soul	0	0	1	1
 też	also	0	0	1	1
 wokalisty	singer	0	0	1	0
 wokalisty	vocalist	0	0	1	0
-zależność	relation	0	0	1	0
-zależność	dependence	0	0	1	1
-zależność	reliance	0	0	1	0
+nowymi	new	0	0	1	0
 zawartość	content	0	0	1	1
 wskaźnik	indices	0	0	1	0
 wskaźnik	index	0	0	1	1
@@ -15262,7 +14853,6 @@ paryża	to paris	0	0	1	0
 stylu	style	0	0	1	0
 każdej	every	0	0	1	0
 każdej	each	0	0	1	0
-orgazm	orgasm	0	0	1	1
 najlepszą	the best	0	0	1	0
 najlepszą	najilepsza	0	0	1	0
 przyczyną	cause	0	0	1	0
@@ -15271,8 +14861,8 @@ własnym	own	0	0	1	0
 znajdujące	located	0	0	1	0
 znajdujące	are	0	0	1	0
 znajdujące	placed	0	0	1	0
-senat	senate	0	0	1	1
-senat	senat	0	0	1	0
+wodny	water	0	0	1	1
+wodny	aquatic	0	0	1	1
 decyduje	decides	0	0	1	0
 decyduje	decide	0	0	1	0
 partnerów	partners	0	0	1	0
@@ -15294,7 +14884,6 @@ dojść	lead to	0	0	1	0
 dojść	come	0	0	1	1
 dojść	lead	0	0	1	0
 postanowili	resolved	0	0	1	0
-postanowili	decided	0	0	1	0
 postanowili	decided to	0	0	1	0
 poprzez	through	0	0	1	1
 poprzez	by	0	0	1	0
@@ -15347,15 +14936,13 @@ batory	bathory	0	0	1	0
 turnieju	tournament	0	0	1	0
 turnieju	competition	0	0	1	0
 wywiad	interview	0	0	1	1
-wywiad	intelligence	0	0	1	1
-wywiad	secret service	0	0	1	1
+wywiad	secret service	0	0	1	0
 malarstwa	painting	0	0	1	0
 utwór	work	0	0	1	1
 utwór	composition	0	0	1	0
 utwór	song	0	0	1	0
-przyjmuje	assume	0	0	1	0
-przyjmuje	assumed	0	0	1	0
-przyjmuje	takes	0	0	1	0
+malarstwo	painting	0	0	1	1
+malarstwo	fine art	0	0	1	0
 historycznym	historcal	0	0	1	0
 historycznym	historic	0	0	1	0
 widział	had seen	0	0	1	0
@@ -15382,7 +14969,6 @@ najlepsza	the best	0	0	1	0
 najlepsza	best	0	0	1	0
 filmie	movie	0	0	1	0
 filmie	film	0	0	1	0
-najlepsze	the best	0	0	1	0
 najlepsze	najilepsze	0	0	1	0
 najlepsze	best	0	0	1	0
 świadczy	indicates	0	0	1	0
@@ -15395,14 +14981,12 @@ karol	carol	0	0	1	0
 chrześcijańskie	christian	0	0	1	0
 dany	certain	0	0	1	0
 dany	given	0	0	1	1
-dany	particular	0	0	1	0
 kina	cinema	0	0	1	0
 kino	cinema	0	0	1	1
 metoda	method	0	0	1	1
 klubu	club	0	0	1	0
 kot	cat	0	0	1	1
 kategorii	category	0	0	1	0
-kategorii	categories	0	0	1	0
 metody	method	0	0	1	0
 metody	methods	0	0	1	0
 podbój	conquest	0	0	1	1
@@ -15412,7 +14996,6 @@ dane	data	0	0	1	1
 kategorie	categories	0	0	1	0
 dana	by dan	0	0	1	0
 dana	given	0	0	1	0
-dana	dan	0	0	1	0
 jakoby	as if	0	0	1	0
 jakoby	supposedly	0	0	1	0
 tabela	table	0	0	1	1
@@ -15436,7 +15019,6 @@ północnowschodniej	north east	0	0	1	0
 północnowschodniej	northeastern	0	0	1	0
 północnowschodniej	north-eastern	0	0	1	0
 czasie	during	0	0	1	0
-czasie	time	0	0	1	0
 każdy	anyone	0	0	1	1
 każdy	everyone	0	0	1	1
 każdy	every	0	0	1	1
@@ -15456,11 +15038,9 @@ humanizm	humanism	0	0	1	1
 wyróżnić	distinguish	0	0	1	0
 wyróżnić	to distinguishe	0	0	1	0
 wyróżnić	identify	0	0	1	0
-sojusz	pact	0	0	1	0
 sojusz	sojusz	0	0	1	0
 sojusz	alliance	0	0	1	0
 doskonale	excellently	0	0	1	0
-doskonale	perfect	0	0	1	0
 doskonale	perfectly	0	0	1	1
 park	park	0	0	1	1
 posłów	members of parliament	0	0	1	0
@@ -15511,7 +15091,7 @@ czynnik	factor	0	0	1	1
 mechaniczne	mechanical	0	0	1	0
 liczb	numbers	0	0	1	0
 krwi	blood	0	0	1	0
-istotą	being	0	0	1	0
+front	front	0	0	1	1
 istotą	a being (1st)	0	0	1	0
 istotą	an essence (2nd)	0	0	1	0
 istotą	creature	0	0	1	0
@@ -15526,7 +15106,6 @@ wierszy	poem	0	0	1	0
 akcje	actions	0	0	1	0
 jazz	jazz	0	0	1	1
 kobietę	woman	0	0	1	0
-kobietę	a woman	0	0	1	0
 leasingu	leasing	0	0	1	0
 akcja	action	0	0	1	1
 mediana	median	0	0	1	1
@@ -15544,11 +15123,9 @@ przykładu	example	0	0	1	0
 hit	hit	0	0	1	0
 hiv	hiv	0	0	1	0
 gwardia	guards	0	0	1	1
-gwardia	gwardia	0	0	1	0
 pacjenci	patients	0	0	1	0
 swą	swa	0	0	1	0
 swą	their	0	0	1	0
-swą	own	0	0	1	0
 rękę	hand	0	0	1	0
 proces	process	0	0	1	1
 ręką	hand	0	0	1	0
@@ -15559,7 +15136,8 @@ brakuje	missing	0	0	1	0
 zdolne	able	0	0	1	0
 zdolne	capable	0	0	1	0
 członkostwa	membership	0	0	1	0
-ogłosiła	announced	0	0	1	0
+lat	decade	0	0	1	0
+lat	years	0	0	1	0
 zewnętrzna	external	0	0	1	0
 zewnętrzna	surface	0	0	1	0
 podanie	application	0	0	1	1
@@ -15599,7 +15177,6 @@ zbrojnych	army	0	0	1	0
 adamek	adamek	0	0	1	0
 wojskowy	military	0	0	1	1
 polscy	polish	0	0	1	0
-wyraźne	clear	0	0	1	0
 wyraźne	clearly	0	0	1	0
 freud	freud	0	0	1	0
 święta	saint	0	0	1	0
@@ -15629,7 +15206,7 @@ solo	a solo (like guitar solo)	0	0	1	0
 korea	korea	0	0	1	0
 możliwością	possibility	0	0	1	0
 soli	salt	0	0	1	0
-korei	korea	0	0	1	0
+warstwach	layers	0	0	1	0
 trener	trainer	0	0	1	1
 trener	coach	0	0	1	1
 twierdził	claimed	0	0	1	0
@@ -15644,7 +15221,6 @@ roman	roman	0	0	1	0
 określa	determines	0	0	1	0
 określa	determine	0	0	1	0
 określa	defines	0	0	1	0
-witch	witch	0	0	1	0
 pozostałymi	the other	0	0	1	0
 pozostałymi	other	0	0	1	0
 pozostałymi	remaining	0	0	1	0
@@ -15662,7 +15238,6 @@ duchownych	priests	0	0	1	0
 duchownych	clergy	0	0	1	0
 rodzeństwa	siblings	0	0	1	0
 graniczy	borders	0	0	1	0
-graniczy	neighbours	0	0	1	0
 dały	initiated	0	0	1	0
 dały	gave	0	0	1	0
 freuda	freud's	0	0	1	0
@@ -15675,7 +15250,6 @@ pr	pr	0	0	1	0
 ps	p.s.	0	0	1	0
 pw	abravation - (church) of/ (church) dedicated	0	0	1	0
 pt	entitled	0	0	1	0
-połączonych	joint	0	0	1	0
 połączonych	connected	0	0	1	0
 połączonych	combined	0	0	1	0
 px	px	0	0	1	0
@@ -15690,7 +15264,8 @@ pk	pk	0	0	1	0
 pk	colonel	0	0	1	0
 ph	ph	0	0	1	0
 pi	pi	0	0	1	0
-chandler	chandler	0	0	1	0
+po	after	0	0	1	0
+po	at	0	0	1	1
 pl	poland	0	0	1	0
 pl	pl	0	0	1	0
 ręki	well	0	0	1	0
@@ -15701,7 +15276,6 @@ powikłań	complications	0	0	1	0
 osobne	seperate	0	0	1	0
 osobne	separate	0	0	1	0
 będącym	being	0	0	1	0
-będącym	which is	0	0	1	0
 akcję	action	0	0	1	0
 akcję	campaign	0	0	1	0
 akcję	share (action)	0	0	1	0
@@ -15724,8 +15298,8 @@ prezesa	president	0	0	1	0
 prezesa	prime minister	0	0	1	0
 prezesa	chairman	0	0	1	0
 górnego	upper	0	0	1	0
+systemów	systems	0	0	1	0
 uznawany	considered	0	0	1	0
-uznawany	regarded	0	0	1	0
 kościuszki	kosciuszko's	0	0	1	0
 kościuszki	kosciuszki	0	0	1	0
 kościuszki	kościuszko's	0	0	1	0
@@ -15799,9 +15373,7 @@ szlak	trail	0	0	1	1
 szlak	route	0	0	1	1
 press	press	0	0	1	0
 idcobar	idcobar	0	0	1	0
-istot	being	0	0	1	0
-istot	beings	0	0	1	0
-istot	creatures	0	0	1	0
+braci	brothers	0	0	1	0
 mieczysław	mieczysław	0	0	1	0
 światową	world	0	0	1	0
 psychicznych	mental	0	0	1	0
@@ -15827,7 +15399,6 @@ cywilnych	civil	0	0	1	0
 sądy	court	0	0	1	0
 sądy	courts	0	0	1	0
 wojskowym	military	0	0	1	0
-oświecenia	renaissance	0	0	1	0
 oświecenia	enlightenment	0	0	1	0
 oświecenia	age of enlightenment	0	0	1	0
 odniesienia	references	0	0	1	0
@@ -15874,15 +15445,13 @@ małe	small	0	0	1	0
 państw	states	0	0	1	0
 państw	countries	0	0	1	0
 mała	small	0	0	1	0
-mała	little	0	0	1	0
 analizy	analysis	0	0	1	0
 prof	professor	0	0	1	0
 prof	prof.	0	0	1	0
 bezrobocia	unemployment	0	0	1	0
 mało	few	0	0	1	1
 mało	little	0	0	1	1
-bezrobocie	unemployment	0	0	1	1
-bezrobocie	unemplyment	0	0	1	0
+anna	anna	0	0	1	0
 tlen	oxygen	0	0	1	1
 producent	producer	0	0	1	1
 producent	manufacturer	0	0	1	1
@@ -15899,7 +15468,6 @@ mniejszości	minorities	0	0	1	0
 licencji	licence	0	0	1	0
 licencji	license	0	0	1	0
 oświecenie	renaissance	0	0	1	0
-oświecenie	enlightenment	0	0	1	1
 oświecenie	enlightment	0	0	1	0
 licznymi	numerous	0	0	1	0
 licznymi	alicznymi	0	0	1	0
@@ -15911,9 +15479,8 @@ cech	features	0	0	1	0
 cech	qualities	0	0	1	0
 fabryki	factories	0	0	1	0
 fabryki	factory	0	0	1	0
-wykazano	indicated	0	0	1	0
-wykazano	showed	0	0	1	0
-wykazano	demonstrated	0	0	1	0
+emigracji	emigration	0	0	1	0
+emigracji	emigracji	0	0	1	0
 rangi	rank	0	0	1	0
 rangi	level	0	0	1	0
 obszarów	areas	0	0	1	0
@@ -15944,8 +15511,8 @@ obniżenie	reducing	0	0	1	0
 johna	john	0	0	1	0
 johna	john's	0	0	1	0
 typowy	typical	0	0	1	1
-musiał	had to	0	0	1	0
 musiał	he had	0	0	1	0
+musiał	had to	0	0	1	0
 wytworzenie	generating	0	0	1	0
 wytworzenie	creating	0	0	1	0
 wytworzenie	productioin	0	0	1	0
@@ -15971,7 +15538,6 @@ wystarczy	enough	0	0	1	0
 skalę	the rock	0	0	1	0
 skalę	scale	0	0	1	0
 dalí	they gave	0	0	1	0
-dalí	dali	0	0	1	0
 światowy	worldwide	0	0	1	0
 światowy	worlds	0	0	1	0
 światowy	world	0	0	1	0
@@ -16001,6 +15567,8 @@ studyjne	study	0	0	1	0
 studyjne	studio	0	0	1	0
 psów	dogs	0	0	1	0
 miłosz	milosz	0	0	1	0
+warszawskim	warsaw	0	0	1	0
+warszawskim	warsaw's	0	0	1	0
 v	5th	0	0	1	0
 v	v	0	0	1	0
 przyjacielem	friend	0	0	1	0
@@ -16012,7 +15580,6 @@ maksimum	maximum	0	0	1	1
 monako	monaco	0	0	1	0
 odległość	distance	0	0	1	0
 stadion	stadium	0	0	1	1
-aleksandra	aleksandra	0	0	1	0
 aleksandra	aleksander	0	0	1	0
 męskiej	male	0	0	1	0
 cyfry	digits	0	0	1	0
@@ -16050,7 +15617,6 @@ kieruje	directs	0	0	1	0
 małą	small	0	0	1	0
 zdobycia	gaining	0	0	1	0
 zdobycia	achieving	0	0	1	0
-zdobycie	conquering of	0	0	1	0
 zdobycie	seizure	0	0	1	1
 zdobycie	conquering	0	0	1	0
 najbliższym	nearest	0	0	1	0
@@ -16083,7 +15649,6 @@ aktorki	actress	0	0	1	0
 ziem	lands	0	0	1	0
 opowieść	tale	0	0	1	1
 opowieść	story	0	0	1	1
-ziemia	land	0	0	1	1
 ziemia	ground	0	0	1	1
 niski	low	0	0	1	1
 reprezentują	represent	0	0	1	0
@@ -16140,7 +15705,8 @@ pzpr	polish united workers' party (abbr.)	0	0	1	0
 pzpr	polish united workers' party	0	0	1	0
 szyi	of neck	0	0	1	0
 szyi	neck	0	0	1	0
-sezonu	season	0	0	1	0
+wartością	worth	0	0	1	0
+wartością	value	0	0	1	0
 ludzkich	human	0	0	1	0
 porządku	order	0	0	1	0
 dzielimy	sharing	0	0	1	0
@@ -16149,9 +15715,7 @@ arabskiego	arab	0	0	1	0
 arabskiego	arabic	0	0	1	0
 arabskiego	arabian	0	0	1	0
 lekcja	lesson	0	0	1	1
-phoenix	phoenix	0	0	1	0
 rodzeństwo	siblings	0	0	1	1
-skutek	a result	0	0	1	0
 skutek	result	0	0	1	1
 skutek	effect	0	0	1	1
 genetyczne	genetic	0	0	1	0
@@ -16177,7 +15741,6 @@ spowodować	cause	0	0	1	1
 eksploatacji	exploitation	0	0	1	0
 eksploatacji	operation	0	0	1	0
 dalszą	further	0	0	1	0
-dalszą	future	0	0	1	0
 krzyżem	cross	0	0	1	0
 krzyżem	crucifix	0	0	1	0
 wolność	freedom	0	0	1	1
@@ -16191,7 +15754,7 @@ mechanizmu	mechanism	0	0	1	0
 mechanizmy	mechanisms	0	0	1	0
 zmienna	variable	0	0	1	1
 zmienna	unstable	0	0	1	0
-uczestniczyć	take part	0	0	1	1
+uczestniczyć	take part	0	0	1	0
 uczestniczyć	participate	0	0	1	1
 zmienne	changeable	0	0	1	0
 zmienne	variables	0	0	1	0
@@ -16233,8 +15796,8 @@ ukrainy	ukraine	0	0	1	0
 zachodniej	west	0	0	1	0
 zachodniej	western	0	0	1	0
 przeciwnej	opposite	0	0	1	0
-współpraca	cooperation	0	0	1	0
 współpraca	co-operation	0	0	1	1
+współpraca	cooperation	0	0	1	0
 ziemie	lands	0	0	1	0
 kilkadziesiąt	tens of	0	0	1	0
 kilkadziesiąt	tens	0	0	1	1
@@ -16243,14 +15806,13 @@ przedstawiciel	representative	0	0	1	1
 duch	spirit	0	0	1	1
 kanadyjska	canadian	0	0	1	0
 odkryte	discovered	0	0	1	0
-współpracy	cooperation	0	0	1	0
 współpracy	co-operation	0	0	1	0
+współpracy	cooperation	0	0	1	0
 strukturze	structure	0	0	1	0
 pozostawił	left	0	0	1	0
 usb	usb	0	0	1	0
 usa	usa	0	0	1	0
 przyjaciele	friends	0	0	1	0
-witwicki	witwicki is a surname	0	0	1	0
 witwicki	witwicki	0	0	1	0
 przyjaciela	friend	0	0	1	0
 zainteresowań	interests	0	0	1	0
@@ -16317,7 +15879,6 @@ spadku	inheritance	0	0	1	0
 międzynarodowy	international	0	0	1	1
 międzynarodowe	international	0	0	1	0
 swego	their	0	0	1	0
-swego	own	0	0	1	0
 swego	its	0	0	1	0
 międzynarodowa	international	0	0	1	0
 dżem	dżem	0	0	1	0
@@ -16329,7 +15890,6 @@ długie	long	0	0	1	0
 arles	arles	0	0	1	0
 tak	so - multiple meanings	0	0	1	0
 tak	yes	0	0	1	0
-tak	in this way	0	0	1	0
 tak	that	0	0	1	0
 sir	sir	0	0	1	0
 united	united	0	0	1	0
@@ -16338,8 +15898,7 @@ emisję	emission	0	0	1	0
 łączy	combines	0	0	1	0
 łączy	it connects	0	0	1	0
 łączy	laczy	0	0	1	0
-debiutancki	debutant	0	0	1	0
-debiutancki	debut	0	0	1	0
+brian	brian	0	0	1	0
 egipt	egypt	0	0	1	1
 dwa	two	0	0	1	1
 jednostka	unit	0	0	1	1
@@ -16377,13 +15936,12 @@ ograniczona	restricted	0	0	1	0
 ograniczona	limited	0	0	1	0
 ludzka	human	0	0	1	0
 wygrali	won	0	0	1	0
-wszystko	everything	0	0	1	1
-wszystko	all	0	0	1	1
+ludzki	human	0	0	1	1
 pojawiać	appearing	0	0	1	0
 pojawiać	appear	0	0	1	0
 pojawiać	to occur	0	0	1	0
-niebieskich	blue	0	0	1	0
-niebieskich	celestial	0	0	1	0
+joanna	joanna	0	0	1	0
+joanna	name	0	0	1	0
 zostać	become	0	0	1	1
 zostać	stay	0	0	1	1
 byt	being	0	0	1	1
@@ -16403,9 +15961,11 @@ pustyni	desert	0	0	1	0
 przemiany	changes	0	0	1	0
 przemiany	transformations	0	0	1	0
 najpierw	firstly	0	0	1	0
-najpierw	at first	0	0	1	1
+najpierw	at first	0	0	1	0
 stopnia	degree	0	0	1	0
 wolfgang	wolfgang	0	0	1	0
+starszych	elderly	0	0	1	0
+starszych	older	0	0	1	0
 dotarła	reached	0	0	1	0
 dotarła	reach	0	0	1	0
 dotarła	came	0	0	1	0
@@ -16416,7 +15976,6 @@ pomorskie	pomeranian	0	0	1	0
 pomorskie	pomerania	0	0	1	0
 nadaje	it transmits	0	0	1	0
 nadaje	is made	0	0	1	0
-nadaje	broadcasts	0	0	1	0
 poważne	serious	0	0	1	0
 obronnych	defense	0	0	1	0
 wykazuje	demonstrates	0	0	1	0
@@ -16447,7 +16006,6 @@ stacji	stations	0	0	1	0
 pozostałością	remains	0	0	1	0
 pozostałością	remanence	0	0	1	0
 gród	city	0	0	1	1
-gród	castle	0	0	1	1
 gród	gord	0	0	1	0
 wodnej	water	0	0	1	0
 grób	tomb	0	0	1	1
@@ -16484,22 +16042,19 @@ komunikację	communication	0	0	1	0
 promieniowania	radiation	0	0	1	0
 brytania	britain	0	0	1	0
 wisła	vistula	0	0	1	0
-wisła	wisla	0	0	1	0
 prawie	almost	0	0	1	1
 prawie	law	0	0	1	0
 marsie	marsh	0	0	1	0
 marsie	mars	0	0	1	0
 brytanii	britain	0	0	1	0
 rudolf	rudolph	0	0	1	0
-rudolf	rudolf	0	0	1	0
 grażyna	grażyna	0	0	1	0
 grażyna	grażyna (name)	0	0	1	0
 nadają	broadcast	0	0	1	0
 nadają	give	0	0	1	0
 isbn	isbn	0	0	1	0
-przypisuje	attribute	0	0	1	0
-przypisuje	assigns	0	0	1	0
-przypisuje	he is taken as a creator of	0	0	1	0
+froncie	front	0	0	1	0
+froncie	frontier	0	0	1	0
 dostarcza	provides	0	0	1	0
 atmosferę	atmosphere	0	0	1	0
 herbaty	tea	0	0	1	0
@@ -16532,7 +16087,6 @@ złożony	folded	0	0	1	0
 złożony	complex	0	0	1	1
 złożony	complicated	0	0	1	1
 władysława	władysław	0	0	1	0
-władysława	wladyslaw's	0	0	1	0
 władysława	wladyslaw	0	0	1	0
 księstwa	duchy	0	0	1	0
 atlantyku	atlantic	0	0	1	0
@@ -16597,7 +16151,6 @@ rozkładu	decomposition	0	0	1	0
 rozkładu	dissolution	0	0	1	0
 katolickie	catholic	0	0	1	0
 gmina	gmina	0	0	1	0
-gmina	municipality	0	0	1	0
 gmina	borough	0	0	1	0
 brał	took	0	0	1	0
 who	who	0	0	1	0
@@ -16610,7 +16163,7 @@ kurt	kurt (name)	0	0	1	0
 istnienie	the existence of	0	0	1	0
 istnienie	existence	0	0	1	1
 istnienie	existance	0	0	1	0
-zakopane	zakopane	0	0	1	0
+bardziej	more	0	0	1	1
 techniczny	technical	0	0	1	1
 komputerowej	computer	0	0	1	0
 komory	chamber	0	0	1	0
@@ -16638,11 +16191,9 @@ trafiła	ended up	0	0	1	0
 trafiła	reached	0	0	1	0
 rozmowy	talks	0	0	1	0
 rozmowy	discussions	0	0	1	0
-protestantyzm	protestant church	0	0	1	0
 protestantyzm	protestantism	0	0	1	1
+protestantyzm	protestant church	0	0	1	0
 filmem	movie	0	0	1	0
-filmem	video	0	0	1	0
-filmem	film/movie	0	0	1	0
 rockowej	rock	0	0	1	0
 he	helium	0	0	1	0
 istnieniu	existence	0	0	1	0
@@ -16682,10 +16233,11 @@ zasadach	rules	0	0	1	0
 zasadach	principles	0	0	1	0
 zasadach	basis	0	0	1	0
 bezpośrednich	direct	0	0	1	0
-każdego	everyone	0	0	1	0
 każdego	every	0	0	1	0
 następnym	following	0	0	1	0
 następnym	next	0	0	1	0
+ostrej	acute	0	0	1	0
+ostrej	strong	0	0	1	0
 zabudowa	building	0	0	1	1
 zabudowa	buildings	0	0	1	0
 ogranicza	limits	0	0	1	0
@@ -16697,7 +16249,6 @@ zabudowy	building sites	0	0	1	0
 surowce	raw materials	0	0	1	0
 surowce	materials	0	0	1	0
 surowce	resources	0	0	1	0
-trasie	line	0	0	1	0
 trasie	road	0	0	1	0
 trasie	way	0	0	1	0
 ponieważ	because	0	0	1	1
@@ -16706,12 +16257,11 @@ dotyczą	concern	0	0	1	0
 dotyczą	relate to	0	0	1	0
 dla	for	0	0	1	1
 agnieszka	agnieszka	0	0	1	0
-modele	models	0	0	1	0
 wyroku	ruling	0	0	1	0
 wyroku	sentence	0	0	1	0
-poznać	to know	0	0	1	0
+poznać	get to know	0	0	1	0
 poznać	know	0	0	1	0
-poznać	get to know	0	0	1	1
+poznać	to know	0	0	1	0
 chemii	chemistry	0	0	1	0
 premierę	premiere	0	0	1	0
 uplasował	ranked	0	0	1	0
@@ -16749,9 +16299,7 @@ niedoboru	deficiency	0	0	1	0
 katowic	katowice	0	0	1	0
 katowic	katowic	0	0	1	0
 klimatyczne	climatic	0	0	1	0
-klimatyczne	climate	0	0	1	0
 uznano	was considered	0	0	1	0
-uznano	acknowledged	0	0	1	0
 uznano	consider	0	0	1	0
 poznań	poznan	0	0	1	0
 poznał	get known	0	0	1	0
@@ -16780,8 +16328,8 @@ rpa	south africa	0	0	1	0
 koreańskiej	korean	0	0	1	0
 partię	party	0	0	1	0
 partię	parties	0	0	1	0
-mahometa	mohammed	0	0	1	0
-mahometa	mahomet	0	0	1	0
+stworzenia	creation	0	0	1	0
+stworzenia	creating	0	0	1	0
 zniszczeń	ruins	0	0	1	0
 zniszczeń	damages	0	0	1	0
 stworzenie	creation	0	0	1	1
@@ -16806,7 +16354,6 @@ firmie	firm	0	0	1	0
 firmie	company	0	0	1	0
 nieliczne	few	0	0	1	0
 nieliczne	sparse	0	0	1	0
-nieliczne	not numerous	0	0	1	0
 wodoru	hydrogen	0	0	1	0
 imion	names	0	0	1	0
 ubóstwa	poverty	0	0	1	0
@@ -16825,14 +16372,12 @@ wilk	wolf	0	0	1	1
 ściśle	close	0	0	1	1
 ściśle	strictly	0	0	1	0
 ściśle	precisely	0	0	1	1
-powstawać	uprising	0	0	1	0
 powstawać	rise	0	0	1	1
 powstawać	be founded	0	0	1	0
 cząsteczek	particles	0	0	1	0
 cząsteczek	molecules	0	0	1	0
 postanowiła	decided	0	0	1	0
 postanowiła	decided to	0	0	1	0
-~	c.	0	0	1	0
 władysław	władysław	0	0	1	0
 władysław	wladyslaw	0	0	1	0
 pogrzeb	funeral	0	0	1	1
@@ -16841,7 +16386,6 @@ zawał	myocardial	0	0	1	0
 zawał	stroke	0	0	1	0
 świadomość	conscience	0	0	1	0
 świadomość	awareness	0	0	1	1
-świadomość	consciousness	0	0	1	1
 przeważnie	usually	0	0	1	0
 przeważnie	mainly	0	0	1	0
 przeważnie	mostly	0	0	1	1
@@ -16862,7 +16406,6 @@ znajdowała	was	0	0	1	0
 znajdowało	was placed	0	0	1	0
 znajdowało	was	0	0	1	0
 premiera	premiere	0	0	1	1
-społeczność	society	0	0	1	0
 społeczność	community	0	0	1	1
 magazynu	magazine	0	0	1	0
 producentów	producers	0	0	1	0
@@ -16882,7 +16425,6 @@ ekspresowej	expres	0	0	1	0
 joł	jol	0	0	1	0
 joł	yo	0	0	1	0
 arabska	arab	0	0	1	0
-arabska	arabic	0	0	1	0
 arabska	arabian	0	0	1	0
 okręg	county of	0	0	1	0
 okręg	district	0	0	1	1
@@ -16901,8 +16443,6 @@ wiednia	vienna	0	0	1	0
 schizofrenia	schizophrenia	0	0	1	1
 schizofrenia	schizofrenia	0	0	1	0
 schizofrenii	schizophrenia	0	0	1	0
-utworze	piosence	0	0	1	0
-utworze	song	0	0	1	0
 wzdłuż	along	0	0	1	1
 wzdłuż	across	0	0	1	0
 zdanie	mind	0	0	1	1
@@ -16927,8 +16467,6 @@ rozegrała	took place	0	0	1	0
 rozegrała	happened	0	0	1	0
 rozegrała	played	0	0	1	0
 wywodzi	derived	0	0	1	0
-wywodzi	comes	0	0	1	0
-wywodzi	originates	0	0	1	0
 chińska	chinatown	0	0	1	0
 chińska	chinese	0	0	1	0
 sprzeczne	conflicting	0	0	1	0
@@ -16968,7 +16506,6 @@ obchody	celebration	0	0	1	0
 powierzchni	surface	0	0	1	0
 powierzchni	area	0	0	1	0
 wygrana	win	0	0	1	1
-wygrana	won	0	0	1	0
 supernowa	supernova	0	0	1	0
 historycy	historians	0	0	1	0
 przeniósł	moved	0	0	1	0
@@ -17011,7 +16548,6 @@ poeta	poet	0	0	1	1
 granicach	borders	0	0	1	0
 dywizji	divisions	0	0	1	0
 dywizji	division	0	0	1	0
-czuł	feels	0	0	1	0
 czuł	feeling	0	0	1	0
 czuł	felt	0	0	1	0
 przeprowadzić	conduct	0	0	1	0
@@ -17020,7 +16556,6 @@ mocarstwa	empire	0	0	1	0
 mocarstwa	superpower	0	0	1	0
 imienia	name	0	0	1	0
 znajdował	was	0	0	1	0
-znajdował	was located	0	0	1	0
 spełnia	fulfill	0	0	1	0
 spełnia	fulfills	0	0	1	0
 znaku	mark	0	0	1	0
@@ -17058,10 +16593,9 @@ nadał	granted	0	0	1	0
 nadał	still	0	0	1	0
 nadał	gave	0	0	1	0
 złóż	geological layers	0	0	1	0
-złóż	deposit	0	0	1	0
 złóż	deposits	0	0	1	0
-przekonania	beliefs	0	0	1	0
 przekonania	belief	0	0	1	0
+przekonania	beliefs	0	0	1	0
 przekonanie	belief	0	0	1	1
 przekonanie	assurance	0	0	1	0
 przekonanie	convincement	0	0	1	0
@@ -17088,9 +16622,7 @@ odcinkach	episodes	0	0	1	0
 odcinkach	sections	0	0	1	0
 pojęciem	term	0	0	1	0
 pojęciem	idea	0	0	1	0
-ostrej	severely	0	0	1	0
-ostrej	strong	0	0	1	0
-ostrej	acute	0	0	1	0
+klasa	class	0	0	1	1
 ciekawostki	curiosities	0	0	1	0
 ciekawostki	interesting facts	0	0	1	0
 ciekawostki	trivia	0	0	1	0
@@ -17104,8 +16636,8 @@ sztuczne	artificial	0	0	1	0
 przyniosła	brought	0	0	1	0
 szczególną	special	0	0	1	0
 szczególną	particular	0	0	1	0
-reaktora	reactor	0	0	1	0
 reaktora	reaktor	0	0	1	0
+reaktora	reactor	0	0	1	0
 piersiowej	chest	0	0	1	0
 demokratycznej	democratic	0	0	1	0
 watykan	vatican	0	0	1	1
@@ -17120,8 +16652,8 @@ hymnu	anthem	0	0	1	0
 greckiego	greek	0	0	1	0
 jakieś	some	0	0	1	0
 jakieś	somewhat	0	0	1	0
-działaniach	activities	0	0	1	0
-działaniach	actions	0	0	1	0
+utworze	piosence	0	0	1	0
+utworze	song	0	0	1	0
 srebra	silver	0	0	1	0
 rzekomo	supposedly	0	0	1	1
 rzekomo	allegedly	0	0	1	1
@@ -17130,7 +16662,6 @@ zielonej	green	0	0	1	0
 komórkowe	cell	0	0	1	0
 komórkowe	mobile	0	0	1	0
 komórkowa	cell	0	0	1	0
-komórkowa	of the cell	0	0	1	0
 komórkowa	cellular	0	0	1	0
 działające	functioning	0	0	1	0
 działające	operating	0	0	1	0

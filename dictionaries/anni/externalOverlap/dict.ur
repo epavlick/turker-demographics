@@ -185,7 +185,6 @@
 زیب	zaib	0	0	1	0
 روشنیروز	daylight	0	0	1	0
 وطنیت	native home	0	0	1	0
-زمرہحیوانات	zmrbhyuanas	0	0	1	0
 زمرہحیوانات	category: aliens	0	0	1	0
 زیتون	olive	0	0	1	0
 عطا	grant	0	0	1	0
@@ -229,7 +228,6 @@
 سوزوکی	suzuki	0	0	1	0
 باغات	gardens	0	0	1	0
 باغات	garden	0	0	1	0
-پامیر	mountain series of pamir	0	0	1	0
 پامیر	pameer	0	0	1	0
 مرکبات	mixture	0	0	1	0
 مرکبات	compounds	0	0	1	0
@@ -264,7 +262,6 @@
 شان	dignity	0	0	1	0
 شاه	king	0	0	1	0
 شاه	shah	0	0	1	0
-شال	an ancient city	0	0	1	0
 شال	blanket	0	0	1	0
 شال	shawl	0	0	1	0
 شام	syria	0	0	1	0
@@ -415,7 +412,6 @@
 ملکر	together	0	0	1	0
 اعلانِ	annoucement	0	0	1	0
 اعلانِ	address	0	0	1	0
-نکالا	took out	0	0	1	0
 نکالا	comes	0	0	1	0
 نکالا	out	0	0	1	0
 سليمان	solomon	0	0	1	0
@@ -465,7 +461,9 @@
 مرکزی	social	0	0	1	0
 رکعت	rak'at	0	0	1	0
 رکعت	rakat	0	0	1	0
-میرین	marine	0	0	1	0
+چندے	charity fund	0	0	1	0
+چندے	donations	0	0	1	0
+چندے	donatios	0	0	1	0
 دستاویز	owls	1	0	1	0
 دستاویز	documents	1	1	1	0
 دستاویز	contemporary	1	0	1	0
@@ -505,8 +503,8 @@
 اولاد	having childrens	1	1	0	0
 لادین	atheist	0	0	1	0
 لادین	secular	0	0	1	0
-زمرہگروہ	gropus	0	0	1	0
 زمرہگروہ	category:guru	0	0	1	0
+زمرہگروہ	gropus	0	0	1	0
 سازشوں	conspiracy	0	0	1	0
 سازشوں	conspiracies	0	0	1	0
 قسمت	destiny	0	0	1	0
@@ -588,7 +586,6 @@
 یزداں	yazda	0	0	1	0
 قطر	qatar	0	0	1	0
 قطز	qatr	0	0	1	0
-قطز	qatz (cast)	0	0	1	0
 جاؤل	scale	1	0	1	0
 جاؤل	political	1	0	1	0
 جاؤل	jaoule	1	0	1	0
@@ -598,8 +595,8 @@
 جاؤل	rice	1	0	1	0
 سربلندی	strengthen	0	0	1	0
 سربلندی	progress	0	0	1	0
-قطع	cut	0	0	1	0
 قطع	part	0	0	1	0
+قطع	cut	0	0	1	0
 یونیکوڈ	unicaodo	0	0	1	0
 وعدے	promises	0	0	1	0
 وعدے	promise	0	0	1	0
@@ -679,7 +676,8 @@
 موصول	receives	0	0	1	0
 موصوف	attributer	0	0	1	0
 موصوف	related	0	0	1	0
-ویڈیو	video	0	0	1	0
+ڈیڑھ	1.5	0	0	1	0
+ڈیڑھ	one and a half	0	0	1	0
 المبارک	greeting	0	0	1	0
 محبت	love	0	0	1	0
 اسپتال	hospital	0	0	1	0
@@ -700,7 +698,6 @@
 ظہور	show	0	0	1	0
 تکریم	respect	0	0	1	0
 تکریم	honour	0	0	1	0
-کۓ	did	0	0	1	0
 کۓ	of	0	0	1	0
 کۓ	did or done	0	0	1	0
 ہستیاں	celebrity	0	0	1	0
@@ -738,9 +735,6 @@
 تھیسیس	theisis	1	0	1	0
 تھیسیس	theisees	1	0	1	0
 تھیسیس	character of greek stories	1	0	1	0
-خوب	great	0	0	1	0
-خوب	much	0	0	1	0
-خوب	nice	0	0	1	0
 تنظیم	organization	0	0	1	0
 سامی	listener	0	0	1	0
 سامی	semitic	0	0	1	0
@@ -759,7 +753,6 @@
 اپنانے	own	0	0	1	0
 اپنانے	adopt	0	0	1	0
 دونوں	both	0	0	1	0
-اصل	real	0	0	1	0
 اصل	asal	0	0	1	0
 اصل	actual	0	0	1	0
 اسکندریہ	askanderya	0	0	1	0
@@ -799,7 +792,6 @@
 زمرہمغلیہ	mughals	0	0	1	0
 امور	affairs	0	0	1	0
 امور	works	0	0	1	0
-امور	rule	0	0	1	0
 ترویج	progress	0	0	1	0
 ترویج	promotion	0	0	1	0
 ترویج	research	0	0	1	0
@@ -845,7 +837,6 @@
 مہیا	provide	0	0	1	0
 بازاروں	markets	0	0	1	0
 بازاروں	shopping centres	0	0	1	0
-نزدیکی	near	0	0	1	0
 نزدیکی	nearby	0	0	1	0
 المنصور	almansoor	0	0	1	0
 المنصور	name of a character	0	0	1	0
@@ -954,8 +945,8 @@
 سوا	except	0	0	1	0
 سوا	but	0	0	1	0
 سوا	apart	0	0	1	0
-یسوع	jesus	0	0	1	0
 یسوع	chirst	0	0	1	0
+یسوع	jesus	0	0	1	0
 بھیڑ	sheep	0	0	1	0
 بھیڑ	croud	0	0	1	0
 سود	money	0	0	1	0
@@ -1007,8 +998,8 @@
 اجتماع	gathering	0	0	1	0
 اجتماع	convention	0	0	1	0
 دیاکہ	did	0	0	1	0
-دیاکہ	give	0	0	1	0
 دیاکہ	gave	0	0	1	0
+دیاکہ	give	0	0	1	0
 ترجمے	translatations	0	0	1	0
 ترجمے	translation	0	0	1	0
 ترجمے	translations	0	0	1	0
@@ -1086,8 +1077,8 @@
 ورم	tumor	1	1	0	0
 ورم	inflation	1	0	1	0
 ورم	vram	1	0	1	0
-درس	teach	0	0	1	0
 درس	lesson	0	0	1	0
+درس	teach	0	0	1	0
 درس	class	0	0	1	0
 اکبری	akbari	0	0	1	0
 اکبری	akbari name of women	0	0	1	0
@@ -1100,9 +1091,8 @@
 درج	following	0	0	1	0
 درج	register	0	0	1	0
 درج	listed	0	0	1	0
-خوبیاں	qualities	0	0	1	0
-خوبیاں	habitat	0	0	1	0
 خوبیاں	features	0	0	1	0
+خوبیاں	qualities	0	0	1	0
 دروازہ	door	0	0	1	0
 لہٰذا	so	0	0	1	0
 لہٰذا	therefore	0	0	1	0
@@ -1138,7 +1128,6 @@
 ایوان	chamber	0	0	1	0
 ایوان	house	0	0	1	0
 پیری	peeri	0	0	1	0
-عدم	collective	0	0	1	0
 عدم	non	0	0	1	0
 عدم	unavailable	0	0	1	0
 زمرہنفسیات	category: phycology	0	0	1	0
@@ -1302,7 +1291,6 @@
 جریدے	island	0	0	1	0
 جریدے	magazine	0	0	1	0
 جریدے	journal or magzines	0	0	1	0
-اڑسٹھ	68	0	0	1	0
 اڑسٹھ	sixty eight	0	0	1	0
 اڑسٹھ	sixtyeight	0	0	1	0
 کیپ	cape	0	0	1	0
@@ -1372,8 +1360,8 @@
 قسم	type	0	0	1	0
 قسم	kinds	0	0	1	0
 قسم	types	0	0	1	0
-مشاہدے	observation	0	0	1	0
 مشاہدے	observations	0	0	1	0
+مشاہدے	observation	0	0	1	0
 سستے	sastey	0	0	1	0
 سستے	cheap	0	0	1	0
 لئے	lafse	0	0	1	0
@@ -1418,7 +1406,6 @@
 اعتراضات	objections	0	0	1	0
 اعتراضات	controversies	0	0	1	0
 برج	star	0	0	1	0
-برج	measure	0	0	1	0
 دشوار	difficulty	0	0	1	0
 دشوار	difficult	0	0	1	0
 لیتی	take it	0	0	1	0
@@ -1456,8 +1443,8 @@
 دیرینہ	later	0	0	1	0
 دیرینہ	old	0	0	1	0
 شخصی	member	0	0	1	0
-شخصی	personal	0	0	1	0
 شخصی	monarchist	0	0	1	0
+شخصی	personal	0	0	1	0
 زمرہنباتیات	category: plants	0	0	1	0
 زمرہنباتیات	zmrhnbatyat	0	0	1	0
 جذعی	cell	0	0	1	0
@@ -1524,7 +1511,7 @@
 درحقیقت	in fact	0	0	1	0
 درحقیقت	in reality	0	0	1	0
 درحقیقت	infact	0	0	1	0
-مئی	mini	0	0	1	0
+احوال	conditions	0	0	1	0
 وسائل	resources	0	0	1	0
 صحافی	journalist	0	0	1	0
 صحافی	reporter	0	0	1	0
@@ -1540,7 +1527,6 @@
 برے	bad	0	0	1	0
 پاؤنڈ	pound	0	0	1	0
 بری	release	0	0	1	0
-بری	released	0	0	1	0
 بری	land	0	0	1	0
 آموز	get	0	0	1	0
 جنسی	sexual	0	0	1	0
@@ -1555,7 +1541,6 @@
 والی	use	0	0	1	0
 ادھر	here / there	0	0	1	0
 ادھر	here	0	0	1	0
-بیتی	self story	0	0	1	0
 بیتی	occur	0	0	1	0
 تیاری	preparation	0	0	1	0
 گونگ	gong	0	0	1	0
@@ -1632,8 +1617,8 @@
 خالص	pure	0	0	1	0
 خالی	dear	0	0	1	0
 خالی	empty	0	0	1	0
-زمرہجغرافیہ	division: geography	0	0	1	0
 زمرہجغرافیہ	category geography	0	0	1	0
+زمرہجغرافیہ	division: geography	0	0	1	0
 آسٹريليا	australia	0	0	1	0
 ملتان	multan	0	0	1	0
 زمرہقرآن	category: quran	0	0	1	0
@@ -1662,7 +1647,6 @@
 چھوڑا	wide	0	0	1	0
 چھوڑا	left	0	0	1	0
 نمٹنے	handling	0	0	1	0
-نمٹنے	deal	0	0	1	0
 نمٹنے	remove	0	0	1	0
 تھےاور	were and	0	0	1	0
 تھےاور	was and	0	0	1	0
@@ -1675,7 +1659,6 @@
 پرتگالی	portuguese	0	0	1	0
 پرتگالی	portugal	0	0	1	0
 اخبار	news paper	0	0	1	0
-معدومیت	finishing	0	0	1	0
 معدومیت	extinction	0	0	1	0
 چھوڑو	leave	0	0	1	0
 چھوڑو	quit	0	0	1	0
@@ -1770,7 +1753,6 @@
 حاضرہ	present	0	0	1	0
 حاضرہ	presence	0	0	1	0
 جنازے	funeral	0	0	1	0
-جنازے	corps	0	0	1	0
 اے	ay	0	0	1	0
 اے	a	0	0	1	0
 گرانے	fell	0	0	1	0
@@ -1862,8 +1844,8 @@
 پارلیمنٹ	parliment	0	0	1	0
 پارلیمنٹ	parliament	0	0	1	0
 ان	his	0	0	1	0
-ان	who	0	0	1	0
 ان	they	0	0	1	0
+ان	who	0	0	1	0
 ام	mom	0	0	1	0
 ام	mother	0	0	1	0
 ال	al	0	0	1	0
@@ -1871,7 +1853,6 @@
 رضوان	rizwan	0	0	1	0
 گیندیں	balls	0	0	1	0
 پیکر	packet	0	0	1	0
-پیکر	bunch	0	0	1	0
 الرائے	opinion	0	0	1	0
 پنڈی	pindi	0	0	1	0
 صنعتی	industrial	0	0	1	0
@@ -1958,8 +1939,8 @@
 خاں	khan	0	0	1	0
 خال	shape	0	0	1	0
 خال	features	0	0	1	0
-خام	raw	0	0	1	0
 خام	kanam	0	0	1	0
+خام	raw	0	0	1	0
 خان	khan	0	0	1	0
 ضرورت	need	0	0	1	0
 دیانت	integrity	0	0	1	0
@@ -1971,9 +1952,9 @@
 امکانات	possibilities	0	0	1	0
 امکانات	prospects	0	0	1	0
 مـجـبـر	obligatory	0	0	1	0
-فعلیاتی	physiology	0	0	1	0
-فعلیاتی	working	0	0	1	0
 فعلیاتی	actional	0	0	1	0
+فعلیاتی	working	0	0	1	0
+فعلیاتی	physiology	0	0	1	0
 پہنچانا	reached	0	0	1	0
 پہنچانا	carried	0	0	1	0
 رجحانات	trend	0	0	1	0
@@ -2012,8 +1993,9 @@
 مراکشی	moroccan	0	0	1	0
 کشو	kishu	0	0	1	0
 کشو	hard worker	0	0	1	0
-سلجوقی	sljuki	0	0	1	0
-سلجوقی	saljoki	0	0	1	0
+خاص	proper	0	0	1	0
+خاص	important	0	0	1	0
+خاص	special	0	0	1	0
 تعمیراتی	constructive	0	0	1	0
 تعمیراتی	architectural	0	0	1	0
 تعمیراتی	structural	0	0	1	0
@@ -2045,12 +2027,10 @@
 لامعرفت	difficult	1	0	1	0
 مشاہدہ	preview	0	0	1	0
 مشاہدہ	observation	0	0	1	0
-اٹھنے	stood	0	0	1	0
 اٹھنے	rise	0	0	1	0
-اٹھنے	rise (born)	0	0	1	0
+اٹھنے	stood	0	0	1	0
 خدمت	serve	0	0	1	0
 خدمت	service	0	0	1	0
-رویہ	rupee	0	0	1	0
 رویہ	behoviou	0	0	1	0
 رویہ	behavior	0	0	1	0
 مرئی	matter	0	0	1	0
@@ -2196,6 +2176,7 @@
 چنا	selected	0	0	1	0
 چنا	choose	0	0	1	0
 چنا	select	0	0	1	0
+فیصلہ	decision	0	0	1	0
 ساحلوں	shores	0	0	1	0
 ساحلوں	shore	0	0	1	0
 ساحلوں	corner of the river	0	0	1	0
@@ -2214,7 +2195,6 @@
 بیداری	awake	0	0	1	0
 بیداری	awareness	0	0	1	0
 ہیروشیما	hiroshima	0	0	1	0
-محکمے	organisation	0	0	1	0
 محکمے	offices	0	0	1	0
 محکمے	institution	0	0	1	0
 اندازہ	estimate	0	0	1	0
@@ -2231,9 +2211,9 @@
 کاروائی	conduct	0	0	1	0
 محکمہ	insituite	0	0	1	0
 محکمہ	office	0	0	1	0
-اندازی	observance	0	0	1	0
-اندازی	assaulted	0	0	1	0
 اندازی	type	0	0	1	0
+اندازی	assaulted	0	0	1	0
+اندازی	observance	0	0	1	0
 بٹ	bat	0	0	1	0
 بٹ	butt	0	0	1	0
 نظریا	audiology	0	0	1	0
@@ -2316,7 +2296,6 @@
 بت	idle	0	0	1	0
 بت	idol	0	0	1	0
 جنھیں	those who	0	0	1	0
-جنھیں	them	0	0	1	0
 جنھیں	those	0	0	1	0
 وحشیانہ	barbaric / wild	0	0	1	0
 وحشیانہ	inhumane	0	0	1	0
@@ -2330,8 +2309,8 @@
 عقدوں	akhdo'n	0	0	1	0
 اسقدر	such extent	0	0	1	0
 اسقدر	this much	0	0	1	0
-الدنیا	earth	0	0	1	0
 الدنیا	world	0	0	1	0
+الدنیا	earth	0	0	1	0
 دجلہ	dajla	0	0	1	0
 ائمہ	imams	0	0	1	0
 میخائل	incomplete word	0	0	1	0
@@ -2345,7 +2324,6 @@
 رحمتہ	rehmat	0	0	1	0
 تکلم	speak	0	0	1	0
 قد	body	0	0	1	0
-قد	hight	0	0	1	0
 قد	height	0	0	1	0
 شیعوں	shia's	0	0	1	0
 شیعوں	shia	0	0	1	0
@@ -2360,7 +2338,6 @@
 تور	example	0	0	1	0
 کلاسيکی	classical	0	0	1	0
 کلاسيکی	clascical	0	0	1	0
-کلاسيکی	classic	0	0	1	0
 سرد	cold	0	0	1	0
 سرخ	red	0	0	1	0
 سرج	search	0	0	1	0
@@ -2369,7 +2346,6 @@
 اختر	akhtar	0	0	1	0
 اختر	akhter	0	0	1	0
 قرطبہ	qurtaba	0	0	1	0
-قرطبہ	left	0	0	1	0
 وسیلوں	sources	0	0	1	0
 وسیلوں	supports	0	0	1	0
 بیماریوں	diseases	0	0	1	0
@@ -2421,7 +2397,6 @@
 کھولا	open	0	0	1	0
 کھولا	opened	0	0	1	0
 کھولا	khwala	0	0	1	0
-بک	sold	0	0	1	0
 بگ	big	0	0	1	0
 الدولہ	dolla	0	0	1	0
 الدولہ	aldola	0	0	1	0
@@ -2511,7 +2486,6 @@
 شمارندی	computer	0	0	1	0
 دید	lokk	0	0	1	0
 دید	site	0	0	1	0
-دید	view	0	0	1	0
 آواز	sound	1	1	1	0
 آواز	april	1	0	1	0
 آواز	voice	1	1	0	0
@@ -2545,7 +2519,6 @@
 مادری	maternal	0	0	1	0
 مادری	mother	0	0	1	0
 پتھریلا	stone	0	0	1	0
-پتھریلا	stoney	0	0	1	0
 پتھریلا	rocky	0	0	1	0
 ساسانی	saska	0	0	1	0
 ساسانی	sassanid	0	0	1	0
@@ -2562,7 +2535,6 @@
 تو	then	0	0	1	0
 تو	so	0	0	1	0
 سوئٹزرلینڈ	switzerland	0	0	1	0
-سوئٹزرلینڈ	language	0	0	1	0
 تل	tull	0	0	1	0
 تم	you	0	0	1	0
 تن	body	0	0	1	0
@@ -2609,8 +2581,8 @@
 بمبئی	bombai	0	0	1	0
 بمبئی	mumbai  - name of a city in india	0	0	1	0
 دیں	provide	0	0	1	0
-دیں	give	0	0	1	0
 دیں	gave	0	0	1	0
+دیں	give	0	0	1	0
 سجائے	set	0	0	1	0
 سجائے	design	0	0	1	0
 سجائے	decorate	0	0	1	0
@@ -2706,7 +2678,6 @@
 حسب	painting	0	0	1	0
 حسب	under	0	0	1	0
 سطر	line	0	0	1	0
-سطر	address bar	0	0	1	0
 چناب	chanab	0	0	1	0
 فروری	february	0	0	1	0
 فروری	feburary	0	0	1	0
@@ -2732,9 +2703,7 @@
 طرزیاتی	like this	0	0	1	0
 طرزیاتی	technological	0	0	1	0
 ابراہم	ibrahim	0	0	1	0
-ابراہم	(noun) abraham lincoln	0	0	1	0
 ابراہم	ibraheem	0	0	1	0
-ابراہم	the 16th president of the united states	0	0	1	0
 کیئے	be	0	0	1	0
 کیئے	done	0	0	1	0
 مایا	maya	0	0	1	0
@@ -2742,9 +2711,8 @@
 مقام	place	0	0	1	0
 واللہ	possessor	0	0	1	0
 واللہ	for allah	0	0	1	0
-نمایاں	feature	0	0	1	0
-نمایاں	significant	0	0	1	0
-نمایاں	prominent	0	0	1	0
+نا	not	0	0	1	0
+نا	no	0	0	1	0
 گئی	count	0	0	1	0
 گئی	whent	0	0	1	0
 گئی	were	0	0	1	0
@@ -2844,15 +2812,14 @@
 نظریاتی	idealistic	0	0	1	0
 چشتی	sants	0	0	1	0
 چشتی	chisti	0	0	1	0
-ادیم	middrem	0	0	1	0
 ادیم	ectoderm	0	0	1	0
-جہل	obscurantism	0	0	1	0
-جہل	jahl	0	0	1	0
+ادیم	middrem	0	0	1	0
+کریں	to	0	0	1	0
+کریں	do	0	0	1	0
 زیراہتمام	under	0	0	1	0
 زیراہتمام	supervision	0	0	1	0
 زیراہتمام	sponsorship	0	0	1	0
 بروئے	using	0	0	1	0
-بروئے	put in use	0	0	1	0
 بروئے	under	0	0	1	0
 زنبیل	zanbeel	0	0	1	0
 زنبیل	jail	0	0	1	0
@@ -2894,9 +2861,7 @@
 برقیہ	atomic	1	0	1	0
 برقیہ	atom	1	0	1	0
 برقیہ	electronics	1	1	1	0
-چندے	charity fund	0	0	1	0
-چندے	donations	0	0	1	0
-چندے	donatios	0	0	1	0
+میرین	marine	0	0	1	0
 نمائندے	representatives	0	0	1	0
 نمائندے	representative	0	0	1	0
 ازسرنو	re	0	0	1	0
@@ -2955,7 +2920,6 @@
 تاج	crown	0	0	1	0
 تاج	taj	0	0	1	0
 اردو	urdu	0	0	1	0
-یمن	yemen	0	0	1	0
 یمن	yaman	0	0	1	0
 یمن	yamen	0	0	1	0
 ضیائی	zia	0	0	1	0
@@ -2983,8 +2947,9 @@
 بونا	short	0	0	1	0
 بونا	sow	0	0	1	0
 تفصیلی	detailed	0	0	1	0
-اورکزئی	aurahzai	0	0	1	0
-اورکزئی	orukzai	0	0	1	0
+بعید	far	0	0	1	0
+بعید	distant	0	0	1	0
+بعید	ba'eed	0	0	1	0
 لشکر	army	0	0	1	0
 کھڑا	stood	0	0	1	0
 کھڑا	stand	0	0	1	0
@@ -3118,7 +3083,6 @@
 دورانِ	during	0	0	1	0
 عالی	great	0	0	1	0
 عالی	superb	0	0	1	0
-عالی	height	0	0	1	0
 خلق	world	0	0	1	0
 خلق	created	0	0	1	0
 خلق	creature	0	0	1	0
@@ -3191,9 +3155,8 @@
 الجبرا	algebra	0	0	1	0
 بیٹھا	sit	0	0	1	0
 بیٹھا	sitting	0	0	1	0
-برعکس	oppositely	0	0	1	0
-برعکس	against	0	0	1	0
-برعکس	opposite	0	0	1	0
+جام	jam	0	0	1	0
+جام	block	0	0	1	0
 كئے	have been	0	0	1	0
 كئے	kinsey	0	0	1	0
 كئے	for	0	0	1	0
@@ -3317,8 +3280,8 @@
 تبصرہ	discussion	0	0	1	0
 تبصرہ	analysis	0	0	1	0
 اکائی	unit	0	0	1	0
-نکولس	nikolas	0	0	1	0
 نکولس	nicolas	0	0	1	0
+نکولس	nikolas	0	0	1	0
 نکولس	nicol	0	0	1	0
 بلوم	baloom	0	0	1	0
 بلوم	bloom	0	0	1	0
@@ -3395,8 +3358,8 @@
 تعاون	cooperation	0	0	1	0
 شہری	citizen	0	0	1	0
 بلوچوں	balochi	0	0	1	0
-بلوچوں	baluch	0	0	1	0
 بلوچوں	bloch	0	0	1	0
+بلوچوں	baluch	0	0	1	0
 ثاقب	saqib	0	0	1	0
 بدعنوانی	corruption	0	0	1	0
 ملال	shame	0	0	1	0
@@ -3427,7 +3390,6 @@
 قرض	loan	0	0	1	0
 قرض	debt	0	0	1	0
 زمرہماوراء	transcend category	0	0	1	0
-زمرہماوراء	zamdbavara-e	0	0	1	0
 قرص	local disc	0	0	1	0
 قرص	loan	0	0	1	0
 قرص	desk	0	0	1	0
@@ -3439,7 +3401,6 @@
 بیڑہ	ship	0	0	1	0
 سنگاپور	singapur	0	0	1	0
 سنگاپور	singapore	0	0	1	0
-زیمبیا	zymbia	0	0	1	0
 زیمبیا	zembia	0	0	1	0
 سلیمان	suleman	0	0	1	0
 مذکور	mentioned	0	0	1	0
@@ -3583,7 +3544,6 @@
 غذا	diet	1	1	1	0
 غذا	reference	1	0	1	0
 غذا	circulation	1	0	1	0
-منانے	perform	0	0	1	0
 منانے	celebrating	0	0	1	0
 منانے	celebrate	0	0	1	0
 ذبح	cut	0	0	1	0
@@ -3632,7 +3592,8 @@
 افتخار	iftikhar	0	0	1	0
 سیارچہ	planet	0	0	1	0
 سیارچہ	asteroid	0	0	1	0
-انٹیلیجنس	intelligence	0	0	1	0
+مطمئن	satisfy	0	0	1	0
+مطمئن	satisfied	0	0	1	0
 سرکش	disobedient	0	0	1	0
 سرکش	sarkash	0	0	1	0
 سرکش	rebellious	0	0	1	0
@@ -3661,7 +3622,6 @@
 حکمراں	ruling	0	0	1	0
 زمرہعلم	category: knowledge	0	0	1	0
 زمرہعلم	category:knowledge	0	0	1	0
-زمرہعلم	educational portion	0	0	1	0
 قیمتی	precious	0	0	1	0
 قیمتی	price	0	0	1	0
 قیمتی	expensive	0	0	1	0
@@ -3731,7 +3691,7 @@
 سونا	gold	0	0	1	0
 استدلالی	inductive	0	0	1	0
 کلائی	wrist	0	0	1	0
-احوال	conditions	0	0	1	0
+مئی	mini	0	0	1	0
 بورقیبہ	borgia	0	0	1	0
 بورقیبہ	bor kheeba	0	0	1	0
 زمرہعلی	category: ali	0	0	1	0
@@ -3781,7 +3741,6 @@
 ابلاغیات	communications	0	0	1	0
 عمر	age	0	0	1	0
 عمر	umar	0	0	1	0
-کھدائی	mines	0	0	1	0
 کھدائی	digging	0	0	1	0
 صنعتیں	industries	0	0	1	0
 صنعتیں	industry	0	0	1	0
@@ -3947,7 +3906,9 @@
 پڑھتا	study	0	0	1	0
 پڑھتا	reads	0	0	1	0
 امراء	rich	0	0	1	0
-آرتھوڈوکس	orthodontics	0	0	1	0
+ممنوع	atheism	0	0	1	0
+ممنوع	forbidden	0	0	1	0
+ممنوع	prohibited	0	0	1	0
 عمدہ	nice	0	0	1	0
 عمدہ	exellent	0	0	1	0
 اسکو	he s	0	0	1	0
@@ -3959,7 +3920,6 @@
 چاہیئے	wants	0	0	1	0
 چاہیئے	want	0	0	1	0
 نچلے	lower	0	0	1	0
-نچلے	under	0	0	1	0
 امراض	illnesses	0	0	1	0
 امراض	diseases	0	0	1	0
 امراض	disease	0	0	1	0
@@ -4055,7 +4015,6 @@
 نقصانات	dangerous	0	0	1	0
 نقصانات	damages	0	0	1	0
 نقصانات	disadvantages	0	0	1	0
-خریدا	purchase	0	0	1	0
 خریدا	buyed	0	0	1	0
 خریدا	bought	0	0	1	0
 ریاضی	maths	0	0	1	0
@@ -4125,8 +4084,7 @@
 نگاہوں	eyes	0	0	1	0
 نگاہوں	sight	0	0	1	0
 نگاہوں	vision	0	0	1	0
-ڈیڑھ	1.5	0	0	1	0
-ڈیڑھ	one and a half	0	0	1	0
+ویڈیو	video	0	0	1	0
 عصمت	respect	0	0	1	0
 عصمت	asmat	0	0	1	0
 عصمت	noun	0	0	1	0
@@ -4147,7 +4105,6 @@
 تقریر	alocution	0	0	1	0
 تقریر	speech	0	0	1	0
 قبرص	cyprus	0	0	1	0
-قبرص	kabras	0	0	1	0
 قبرص	qabris	0	0	1	0
 کررہا	doing	0	0	1	0
 کررہا	do	0	0	1	0
@@ -4200,7 +4157,6 @@
 فار	far	0	0	1	0
 فار	distance	0	0	1	0
 فار	for	0	0	1	0
-سالمات	issues	0	0	1	0
 ریاضت	mathematics	0	0	1	0
 فیل	fail	0	0	1	0
 فیل	fossil	0	0	1	0
@@ -4260,7 +4216,6 @@
 الفطر	fitar	0	0	1	0
 الفطر	eid	0	0	1	0
 لگے	doing	0	0	1	0
-لگے	involve	0	0	1	0
 لگے	it	0	0	1	0
 راکھ	ashes	0	0	1	0
 راکھ	ash	0	0	1	0
@@ -4279,7 +4234,6 @@
 لومڑ	fox	0	0	1	0
 لومڑ	dani	0	0	1	0
 چن	pick up	0	0	1	0
-چن	select	0	0	1	0
 چن	choose	0	0	1	0
 چو	chun	0	0	1	0
 چو	as	0	0	1	0
@@ -4492,10 +4446,8 @@
 پردے	screen	0	0	1	0
 سارا	all	0	0	1	0
 سارا	compleat	0	0	1	0
-سارا	complete	0	0	1	0
 جولائى	july	0	0	1	0
 جولائى	julani	0	0	1	0
-معيشت	western	0	0	1	0
 معيشت	economy	0	0	1	0
 اعدادوشمار	count	0	0	1	0
 اعدادوشمار	data	0	0	1	0
@@ -4506,9 +4458,6 @@
 مانتا	accept	0	0	1	0
 اندرون	internal	0	0	1	0
 اندرون	inner	0	0	1	0
-امرا	leaders	0	0	1	0
-امرا	rich	0	0	1	0
-امرا	rich person	0	0	1	0
 سکیم	scheme	0	0	1	0
 سکیم	thumb	0	0	1	0
 مسلمین	muslims	0	0	1	0
@@ -4684,7 +4633,6 @@
 قسمتی	good luck	0	0	1	0
 قسمتی	lucky	0	0	1	0
 قسمتی	luck	0	0	1	0
-مقبوضات	regions	0	0	1	0
 مقبوضات	occupied	0	0	1	0
 مقبوضات	dominated	0	0	1	0
 میمی	third	1	0	1	0
@@ -4725,7 +4673,6 @@
 قبرستان	graveyard	0	0	1	0
 افزائی	rating	0	0	1	0
 افزائی	encourage	0	0	1	0
-افزائی	praise	0	0	1	0
 ابتداء	begining	0	0	1	0
 ابتداء	beginning	0	0	1	0
 مقننہ	legislature	0	0	1	0
@@ -4793,7 +4740,6 @@
 انتظامات	arrangements	0	0	1	0
 پیٹ	bat	0	0	1	0
 پیٹ	abdominal	0	0	1	0
-پیٹ	belly	0	0	1	0
 خیبر	khaibar	0	0	1	0
 خیبر	khaybar	0	0	1	0
 خیبر	khyber	0	0	1	0
@@ -4857,7 +4803,6 @@
 الحاد	atheism	0	0	1	0
 الحاد	al-haad	0	0	1	0
 الحاج	al haj	0	0	1	0
-الحاج	al-haaj	0	0	1	0
 الحاج	pilgrime	0	0	1	0
 دانی	right	0	0	1	0
 دانی	womb	0	0	1	0
@@ -4903,7 +4848,6 @@
 رہی	grammar	0	0	1	0
 اگر	if	0	0	1	0
 العرب	arabi	0	0	1	0
-العرب	arab	0	0	1	0
 العرب	alarab	0	0	1	0
 طریق	way of doing	0	0	1	0
 طریق	method	0	0	1	0
@@ -4922,17 +4866,15 @@
 ٹیلی	tali	0	0	1	0
 انصار	ansar	0	0	1	0
 ر	r	0	0	1	0
-دوسے	second	0	0	1	0
 دوسے	for one another	0	0	1	0
 دوسے	for both	0	0	1	0
-دوسے	others	0	0	1	0
 ملائیشیا	malaysia	0	0	1	0
 رقوم	amounts	0	0	1	0
 رقوم	money	0	0	1	0
 رقوم	wealth	0	0	1	0
 کثیف	hard	0	0	1	0
-کثیف	drive	0	0	1	0
 کثیف	hard drive	0	0	1	0
+کثیف	drive	0	0	1	0
 جسے	whose	0	0	1	0
 جسے	him	0	0	1	0
 جسے	which	0	0	1	0
@@ -5016,8 +4958,8 @@
 بعدازاں	after it	0	0	1	0
 بعدازاں	after	0	0	1	0
 بعدازاں	after that	0	0	1	0
-قبائلی	villagers	0	0	1	0
 قبائلی	qbaili	0	0	1	0
+قبائلی	villagers	0	0	1	0
 قبائلی	tribes	0	0	1	0
 شعور	knowledge	1	0	1	0
 شعور	consciousness	1	1	1	0
@@ -5045,7 +4987,6 @@
 زیبا	suit	0	0	1	0
 پیتے	drink	0	0	1	0
 پیتے	drinks	0	0	1	0
-شماری	logistics	0	0	1	0
 شماری	counting	0	0	1	0
 دوست	friend	0	0	1	0
 باشندے	residents	0	0	1	0
@@ -5059,6 +5000,9 @@
 لہذا	therefore	0	0	1	0
 داستانیں	stories	0	0	1	0
 داستانیں	myth	0	0	1	0
+بعث	discussion	0	0	1	0
+بعث	baath	0	0	1	0
+بعث	due to	0	0	1	0
 انفرادی	individually	0	0	1	0
 انفرادی	individual	0	0	1	0
 زخم	phase	1	0	1	0
@@ -5115,7 +5059,6 @@
 محاصری	widespread	1	0	1	0
 اوکاڑہ	okada	0	0	1	0
 اوکاڑہ	okara	0	0	1	0
-اوکاڑہ	a place name	0	0	1	0
 چوں	diglossia	0	0	1	0
 چوں	as	0	0	1	0
 نویں	ninth	0	0	1	0
@@ -5147,7 +5090,6 @@
 مآب	respected	0	0	1	0
 مآب	ma-ab	0	0	1	0
 مآب	highness	0	0	1	0
-جھکا	bend	0	0	1	0
 جھکا	bow	0	0	1	0
 زیادہ	more	0	0	1	0
 ہمنوا	cooperators	0	0	1	0
@@ -5214,7 +5156,6 @@
 امان	order	0	0	1	0
 کےقریب	near	0	0	1	0
 گراف	graph	0	0	1	0
-گراف	graf	0	0	1	0
 لگنا	feel	0	0	1	0
 لگنا	hit	0	0	1	0
 لگنا	look	0	0	1	0
@@ -5224,9 +5165,8 @@
 بزرگوار	old people	0	0	1	0
 بزرگوار	saint	0	0	1	0
 ہلبرگ	helburg	0	0	1	0
-مجالس	meetings	0	0	1	0
-مجالس	asemmblies	0	0	1	0
 مجالس	gathering	0	0	1	0
+مجالس	asemmblies	0	0	1	0
 بینظیر	benazir	0	0	1	0
 بینظیر	name	0	0	1	0
 بینظیر	be-nazir (personality)	0	0	1	0
@@ -5275,7 +5215,6 @@
 کشتہ	mixture	0	0	1	0
 میں‌	me	0	0	1	0
 میں‌	framepx/thumb/left	0	0	1	0
-میں‌	in	0	0	1	0
 پیچھا	follow	0	0	1	0
 پیچھا	after	0	0	1	0
 کوہ	mountain	0	0	1	0
@@ -5350,7 +5289,6 @@
 شاخوں	roots	0	0	1	0
 ریفرینڈم	referendum (voting)	0	0	1	0
 ریفرینڈم	referendum	0	0	1	0
-قربانیوں	sacrifices	0	0	1	0
 قربانیوں	sacrafices	0	0	1	0
 قربانیوں	sacrifice	0	0	1	0
 اکھٹا	collect	0	0	1	0
@@ -5367,7 +5305,6 @@
 کولون	colon	0	0	1	0
 کوم	com	0	0	1	0
 کوٹ	coat	0	0	1	0
-لپیٹ	cover	0	0	1	0
 لپیٹ	surround	0	0	1	0
 غزنی	gazni	0	0	1	0
 غزنی	ghazni	0	0	1	0
@@ -5472,6 +5409,7 @@
 ایکواڈور	ecuador	0	0	1	0
 کوشش	trying	0	0	1	0
 کوشش	koshish	0	0	1	0
+سرکوبی	conquer	0	0	1	0
 مؤنث	feminine	0	0	1	0
 مؤنث	woman	0	0	1	0
 مؤنث	female	0	0	1	0
@@ -5481,13 +5419,11 @@
 وظیفہ	salary	0	0	1	0
 وظیفہ	benefit	0	0	1	0
 وظیفہ	scholorship	0	0	1	0
-کندہ	shoulder	0	0	1	0
 کندہ	from	0	0	1	0
 کندہ	engrave	0	0	1	0
 گوریلا	gorilla	0	0	1	0
 گوریلا	guerrilla	0	0	1	0
 یلدرم	yaldaram	0	0	1	0
-یلدرم	family name	0	0	1	0
 معیشتوں	economics	0	0	1	0
 معیشتوں	economic	0	0	1	0
 معیشتوں	ecnomics	0	0	1	0
@@ -5529,7 +5465,6 @@
 غربت	poorty	0	0	1	0
 بقول	said by	0	0	1	0
 بقول	according	0	0	1	0
-پرولتاریہ	place name	0	0	1	0
 پرولتاریہ	prolitariya	0	0	1	0
 چنیوٹ	chanyot	0	0	1	0
 چنیوٹ	chiniot	0	0	1	0
@@ -5629,8 +5564,8 @@
 خیل	khail	0	0	1	0
 پودوں	plants	0	0	1	0
 توقع	feeling	0	0	1	0
-توقع	expectation	0	0	1	0
 توقع	expect	0	0	1	0
+توقع	expectation	0	0	1	0
 جیسا	as	0	0	1	0
 جیسا	like	0	0	1	0
 جنوبا	north	0	0	1	0
@@ -5683,7 +5618,6 @@
 گیندوں	balls	0	0	1	0
 ہندسیات	engineering	0	0	1	0
 ہندسیات	numbers	0	0	1	0
-جہادی	freedom fighter	0	0	1	0
 جہادی	fighter	0	0	1	0
 جہادی	jahadi	0	0	1	0
 تجھے	you	0	0	1	0
@@ -5749,8 +5683,8 @@
 آمیزش	amazash	0	0	1	0
 سلاسل	bars	0	0	1	0
 سلاسل	continuous	0	0	1	0
-جھاڑو	broom / cleaner	0	0	1	0
 جھاڑو	cleaner	0	0	1	0
+جھاڑو	broom / cleaner	0	0	1	0
 روحانیت	spirituality	0	0	1	0
 روحانیت	spiritual	0	0	1	0
 جرافہ	jaraafe	1	0	1	0
@@ -5776,7 +5710,6 @@
 آمیزہ	made	1	0	1	0
 اچانک	suddenly	0	0	1	0
 اچانک	sudden	0	0	1	0
-شریفین	mosques	0	0	1	0
 شریفین	sharifs	0	0	1	0
 پیروی	follow	0	0	1	0
 ایوب	ayub	0	0	1	0
@@ -5784,8 +5717,8 @@
 دکان	shop	0	0	1	0
 وقوع	location	0	0	1	0
 وقوع	present	0	0	1	0
-ہورہا	being	0	0	1	0
 ہورہا	being held	0	0	1	0
+ہورہا	being	0	0	1	0
 دسترس	access	0	0	1	0
 دسترس	approach	0	0	1	0
 دسترس	accesss	0	0	1	0
@@ -5804,7 +5737,6 @@
 مواصلات	information	0	0	1	0
 مواصلات	satellite	0	0	1	0
 مواصلات	telecommunications	0	0	1	0
-انداز	style	0	0	1	0
 انداز	method	0	0	1	0
 انداز	look	0	0	1	0
 شہریت	famous	0	0	1	0
@@ -5839,10 +5771,7 @@
 نوائے	nawai	0	0	1	0
 نوائے	nwai	0	0	1	0
 زہن	thoughts in mind	0	0	1	0
-زہن	memory	0	0	1	0
-زہن	mind	0	0	1	0
 زہن	mindset	0	0	1	0
-بکثرت	mobile	0	0	1	0
 بکثرت	frequent	0	0	1	0
 بکثرت	baksart	0	0	1	0
 جارجیا	georgia	0	0	1	0
@@ -5878,9 +5807,9 @@
 کيا	did	0	0	1	0
 کيا	what	0	0	1	0
 کيا	done	0	0	1	0
-پیشوا	trade	0	0	1	0
 پیشوا	guide	0	0	1	0
 پیشوا	leader	0	0	1	0
+پیشوا	trade	0	0	1	0
 المطلب	meaning	0	0	1	0
 المطلب	al-mutallib	0	0	1	0
 المطلب	without meaning	0	0	1	0
@@ -5903,7 +5832,6 @@
 نسر	nasr	0	0	1	0
 الفاظ	keywords	0	0	1	0
 الفاظ	words	0	0	1	0
-جوامع	pakistani people	0	0	1	0
 بنانے	make	0	0	1	0
 بنانے	made	0	0	1	0
 نظاموں	systems	0	0	1	0
@@ -6007,8 +5935,8 @@
 زوال	downfall	0	0	1	0
 زوال	fall	0	0	1	0
 طبقے	society	0	0	1	0
-طبقے	sects	0	0	1	0
 طبقے	class	0	0	1	0
+طبقے	sects	0	0	1	0
 شاگردوں	students	0	0	1	0
 شاگردوں	pupils	0	0	1	0
 چوڑا	wide	0	0	1	0
@@ -6049,10 +5977,7 @@
 امداد	plantagenet	0	0	1	0
 گیروں	fishermen	0	0	1	0
 گیروں	of	0	0	1	0
-اکانومسٹ	aconomist	0	0	1	0
 اکانومسٹ	economist	0	0	1	0
-باخبر	informed	0	0	1	0
-باخبر	know	0	0	1	0
 باخبر	aware	0	0	1	0
 گویا	hence	0	0	1	0
 گویا	so	0	0	1	0
@@ -6112,8 +6037,8 @@
 تھامس	thamis	0	0	1	0
 تھامس	thomas	0	0	1	0
 اضافی	extra	0	0	1	0
-اضافی	hostile	0	0	1	0
 اضافی	additional	0	0	1	0
+اضافی	hostile	0	0	1	0
 بالائی	upper	0	0	1	0
 متمدن	culture	0	0	1	0
 متمدن	civilized	0	0	1	0
@@ -6160,7 +6085,6 @@
 کبھی	rare	0	0	1	0
 واجب	necessary	0	0	1	0
 واجب	due	0	0	1	0
-واجب	must do	0	0	1	0
 ورک	work	0	0	1	0
 برمودا	bermuda	0	0	1	0
 برمودا	barmuda	0	0	1	0
@@ -6195,14 +6119,14 @@
 ڈھیر	heap	0	0	1	0
 زمرہجرمن	category: german	0	0	1	0
 زمرہجرمن	category:german	0	0	1	0
-تیرا	yours	0	0	1	0
 تیرا	your	0	0	1	0
+تیرا	yours	0	0	1	0
 طبقاتی	class	0	0	1	0
 طبقاتی	social	0	0	1	0
 شانہ	shoulder	0	0	1	0
-کھیلے	play	0	0	1	0
-کھیلے	will play	0	0	1	0
-کھیلے	plays	0	0	1	0
+زمرہمتنازعہ	category: controversial	0	0	1	0
+زمرہمتنازعہ	prohibited	0	0	1	0
+زمرہمتنازعہ	category controversial	0	0	1	0
 کبھار	whenever	0	0	1	0
 کبھار	sometimes	0	0	1	0
 ایریا	area	0	0	1	0
@@ -6214,8 +6138,8 @@
 زمرہامریکی	category: american	0	0	1	0
 مُراد	meaning	0	0	1	0
 مُراد	means	0	0	1	0
-ھذا	this	0	0	1	0
 ھذا	current	0	0	1	0
+ھذا	this	0	0	1	0
 حرکات	motions	0	0	1	0
 حرکات	movements	0	0	1	0
 سیکنڈ	seconds	0	0	1	0
@@ -6292,8 +6216,8 @@
 ایکس	x	0	0	1	0
 خامرے	enzymes	0	0	1	0
 خامرے	khaamre	0	0	1	0
-صحراؤں	desert	0	0	1	0
 صحراؤں	deserts	0	0	1	0
+صحراؤں	desert	0	0	1	0
 بعثتی	adventism	1	1	0	0
 مواقع	chances	0	0	1	0
 مواقع	instances	0	0	1	0
@@ -6319,7 +6243,6 @@
 مسالک	groups	0	0	1	0
 اکائیاں	units	0	0	1	0
 اکائیاں	identities	0	0	1	0
-اکائیاں	astronomical unite	0	0	1	0
 تیرے	your	0	0	1	0
 لشکروں	gatherings	0	0	1	0
 لشکروں	teams	0	0	1	0
@@ -6363,7 +6286,6 @@
 سرپرستی	leadership	0	0	1	0
 اعوان	house	0	0	1	0
 اعوان	awan	0	0	1	0
-علوی	website	0	0	1	0
 علوی	alvi	0	0	1	0
 فیلڈر	fielder	0	0	1	0
 اندرونی	androoni	0	0	1	0
@@ -6462,11 +6384,9 @@
 عیسائی	christianity	1	1	0	0
 عیسائی	christan	1	0	1	0
 عیسائی	disintegration	1	0	1	0
-عیسائی	humanity	1	0	1	0
 عیسائی	christians	1	1	0	0
 مستقبل	future	0	0	1	0
 کاش	i wish	0	0	1	0
-کاش	wish	0	0	1	0
 کاش	kaash	0	0	1	0
 کار	car	0	0	1	0
 کار	at	0	0	1	0
@@ -6496,7 +6416,6 @@
 تقریباًً	about	0	0	1	0
 تقریباًً	approximately	0	0	1	0
 مذہبی	religiouse	0	0	1	0
-مذہبی	religiously	0	0	1	0
 مذہبی	sects	0	0	1	0
 وساطت	through	0	0	1	0
 وساطت	cooperation	0	0	1	0
@@ -6600,7 +6519,6 @@
 انگلیوں	fingers	0	0	1	0
 خطِ	letter	0	0	1	0
 کارخانے	industry	0	0	1	0
-کارخانے	factories	0	0	1	0
 کارخانے	factory	0	0	1	0
 پڑھو	read	0	0	1	0
 حوصلے	courage	0	0	1	0
@@ -6689,7 +6607,6 @@
 مریضوں	patient	0	0	1	0
 مریضوں	ill	0	0	1	0
 جگ	jug	0	0	1	0
-نالیاں	pipes	0	0	1	0
 نالیاں	drains	0	0	1	0
 ابوظہبی	abu dhabi	0	0	1	0
 ابوظہبی	abu zahbi	0	0	1	0
@@ -6700,9 +6617,6 @@
 اسماکیات	fisheries	1	0	1	0
 اسماکیات	fishes	1	0	1	0
 اسماکیات	asmakiyat	1	0	1	0
-بلوری	crystal	0	0	1	0
-بلوری	bralvi	0	0	1	0
-بلوری	liquid	0	0	1	0
 انقلابِ	revolution	0	0	1	0
 انقلابِ	rebellion	0	0	1	0
 زمرہمہینے	category: moth	0	0	1	0
@@ -6763,9 +6677,6 @@
 اہداف	target	0	0	1	0
 اہداف	aims	0	0	1	0
 اہداف	goals	0	0	1	0
-ممنوع	atheism	0	0	1	0
-ممنوع	forbidden	0	0	1	0
-ممنوع	prohibited	0	0	1	0
 توہین	disrespectful	0	0	1	0
 توہین	insult	0	0	1	0
 کاشت	cultivate	0	0	1	0
@@ -6883,7 +6794,6 @@
 پرت	choroid	0	0	1	0
 پرت	layer	0	0	1	0
 ہاربر	harbor	0	0	1	0
-ہاربر	repeatedly	0	0	1	0
 ہاربر	harbour	0	0	1	0
 جل	burn	0	0	1	0
 تہذیبیں	culture	0	0	1	0
@@ -6923,8 +6833,8 @@
 تفرقہ	division	0	0	1	0
 تفرقہ	difference	0	0	1	0
 مہروں	stamps	0	0	1	0
-مہروں	stemps	0	0	1	0
 مہروں	bone joints	0	0	1	0
+مہروں	stemps	0	0	1	0
 اعظمی	great	0	0	1	0
 اعظمی	supreme	0	0	1	0
 ویسے	like that	0	0	1	0
@@ -7191,7 +7101,6 @@
 محتاج	dependent	0	0	1	0
 زمرہثقافت	category: culture	0	0	1	0
 زمرہثقافت	category : culture	0	0	1	0
-اڈے	airport	0	0	1	0
 اڈے	port	0	0	1	0
 ایتھنز	athens	0	0	1	0
 فاؤنٹین	fountain	0	0	1	0
@@ -7236,7 +7145,6 @@
 رسل	communication	0	0	1	0
 رسل	movement	0	0	1	0
 مرتکز	centered	0	0	1	0
-مرتکز	gathering	0	0	1	0
 پارکوں	parks	0	0	1	0
 بحق	right	0	0	1	0
 ایثار	selflessness	0	0	1	0
@@ -7244,8 +7152,8 @@
 گیارہویں	eleventh	0	0	1	0
 کمانڈر	commander	0	0	1	0
 حفرہ	alfraganus	0	0	1	0
-حفرہ	fossilize	0	0	1	0
 حفرہ	crater	0	0	1	0
+حفرہ	fossilize	0	0	1	0
 بدنام	infamous	0	0	1	0
 جرسی	jersey	0	0	1	0
 کابینہ	cabinet	0	0	1	0
@@ -7265,7 +7173,8 @@
 رفت	going	0	0	1	0
 رفت	pathetic	0	0	1	0
 ورلڈ	world	0	0	1	0
-بانیَ	founder	0	0	1	0
+گلوکوز	gulucose	0	0	1	0
+گلوکوز	glucose	0	0	1	0
 فنا	destroy	0	0	1	0
 فنا	distroy	0	0	1	0
 فنا	dead	0	0	1	0
@@ -7283,17 +7192,19 @@
 تھانوی	thanwi	0	0	1	0
 تھانوی	name of a person(thanwi)	0	0	1	0
 پراسرار	mysterious	0	0	1	0
-جیمز	james	0	0	1	0
+شوقین	amateur	0	0	1	0
+شوقین	fond	0	0	1	0
+شوقین	fonds	0	0	1	0
 ہمالیہ	himalaya	0	0	1	0
 ہمالیہ	himalayas	0	0	1	0
 ہمالیہ	amalia	0	0	1	0
 اڈا	base	0	0	1	0
 اڈا	port	0	0	1	0
 اڈا	plateform	0	0	1	0
-عبید	ubaid	0	0	1	0
-عبید	obeid	0	0	1	0
-قرطاج	qartaj	0	0	1	0
+مہلت	chance	0	0	1	0
+مہلت	time	0	0	1	0
 قرطاج	carthage	0	0	1	0
+قرطاج	qartaj	0	0	1	0
 فنِ	art	0	0	1	0
 مہلب	mohlab	0	0	1	0
 مہلب	muhlab	0	0	1	0
@@ -7392,7 +7303,6 @@
 بازنطینیوں	bazintenu	0	0	1	0
 حطین	hutain	0	0	1	0
 دو	two	0	0	1	0
-دن	body	0	0	1	0
 دن	day	0	0	1	0
 دم	tail	0	0	1	0
 دم	courage	0	0	1	0
@@ -7414,9 +7324,9 @@
 اقرار	accepts	0	0	1	0
 اقرار	accept	0	0	1	0
 المصباح	misbah	0	0	1	0
-تغیر	changing	0	0	1	0
-تغیر	change	0	0	1	0
 تغیر	variance	0	0	1	0
+تغیر	change	0	0	1	0
+تغیر	changing	0	0	1	0
 اسٹاف	staff	0	0	1	0
 عقیدے	dogma	0	0	1	0
 عقیدے	believe	0	0	1	0
@@ -7435,8 +7345,8 @@
 شروع	begin	0	0	1	0
 بھیجتا	nephew	0	0	1	0
 بھیجتا	sent	0	0	1	0
-صحافتی	press / related to press / media	0	0	1	0
 صحافتی	journalism	0	0	1	0
+صحافتی	press / related to press / media	0	0	1	0
 صحافتی	reporter's	0	0	1	0
 کرتےہیں	do	0	0	1	0
 کرتےہیں	do it	0	0	1	0
@@ -7467,8 +7377,8 @@
 پیدائش	birth	0	0	1	0
 حاجت	need	0	0	1	0
 حاجت	needs	0	0	1	0
-کسی	somebody	0	0	1	0
 کسی	some	0	0	1	0
+کسی	somebody	0	0	1	0
 رومال	hand kerchief	0	0	1	0
 رومال	handkerchief	0	0	1	0
 چڑھانے	transfer	0	0	1	0
@@ -7688,8 +7598,8 @@
 دانت	daant	1	1	0	0
 دانت	teeth	1	1	0	0
 ن	n	0	0	1	0
-کرگئے	did	0	0	1	0
 کرگئے	has done	0	0	1	0
+کرگئے	did	0	0	1	0
 کرگئے	has been	0	0	1	0
 وشنو	visnu	0	0	1	0
 وشنو	name of an organisation	0	0	1	0
@@ -7794,7 +7704,6 @@
 حوا	hawa	0	0	1	0
 حوا	eve	0	0	1	0
 تمدنی	culture	0	0	1	0
-تمدنی	civilization	0	0	1	0
 نیزے	javelins	0	0	1	0
 نیزے	spear	0	0	1	0
 ارضیات	geology	0	0	1	0
@@ -7822,9 +7731,9 @@
 عشری	era	0	0	1	0
 عشری	ten	0	0	1	0
 سافٹویئر	software	0	0	1	0
-عشرے	ten	0	0	1	0
 عشرے	ten / decade	0	0	1	0
 عشرے	era	0	0	1	0
+عشرے	ten	0	0	1	0
 معمولی	common	0	0	1	0
 معمولی	minor	0	0	1	0
 معمولی	normal	0	0	1	0
@@ -7929,8 +7838,8 @@
 موجد	renewer	0	0	1	0
 موجد	founder	0	0	1	0
 موجد	inventor	0	0	1	0
-روز	day	0	0	1	0
-روز	daily	0	0	1	0
+قمری	lunar	0	0	1	0
+قمری	moon	0	0	1	0
 کارناموں	activities	0	0	1	0
 کارناموں	feats	0	0	1	0
 لیاری	liyari	0	0	1	0
@@ -8068,7 +7977,6 @@
 قطرہ	drop	0	0	1	0
 درگاہ	shrine	0	0	1	0
 معرکے	battle	0	0	1	0
-معرکے	fights	0	0	1	0
 معرکے	war	0	0	1	0
 افشار	afshar	0	0	1	0
 معرکہ	battle	0	0	1	0
@@ -8272,12 +8180,10 @@
 کرکٹر	crickter	0	0	1	0
 کرکٹر	cricketer	0	0	1	0
 دخول	entrance	0	0	1	0
-دخول	interferes	0	0	1	0
 بنتے	make	0	0	1	0
 بنتے	made	0	0	1	0
 لہريں	waves	0	0	1	0
 لہريں	ruction	0	0	1	0
-آنحضرت	prophert mohammed(saw)	0	0	1	0
 آنحضرت	hazrat(pbuh)	0	0	1	0
 وسیلے	sources	0	0	1	0
 وسیلے	path	0	0	1	0
@@ -8351,8 +8257,8 @@
 فشانی	fireworks	0	0	1	0
 ٹھنڈا	cold	0	0	1	0
 ٹھنڈا	cool	0	0	1	0
-برسر	ruling	0	0	1	0
 برسر	leader	0	0	1	0
+برسر	ruling	0	0	1	0
 آبنائے	made	0	0	1	0
 تمدن	culture	0	0	1	0
 تمدن	heritage	0	0	1	0
@@ -8383,7 +8289,6 @@
 ذاتِ	personality	0	0	1	0
 قندوزی	qhandozi	0	0	1	0
 قندوزی	qandozi	0	0	1	0
-فوجیں	militaries	0	0	1	0
 فوجیں	army	0	0	1	0
 دھواں	somke	0	0	1	0
 دھواں	smoke	0	0	1	0
@@ -8545,7 +8450,6 @@
 حیوان	animal	0	0	1	0
 سنٹر	center	0	0	1	0
 سنٹر	centre	0	0	1	0
-ایس	s	0	0	1	0
 آبادیوں	population	0	0	1	0
 آبادیوں	populations	0	0	1	0
 خارجی	external	0	0	1	0
@@ -8591,7 +8495,6 @@
 مدرسوں	schools	0	0	1	0
 نہيں	not	0	0	1	0
 نہيں	no	0	0	1	0
-حرمین	two holy	0	0	1	0
 حرمین	the two as sanctuaries of mecca  and medina	0	0	1	0
 حرمین	hurmain	0	0	1	0
 ایف	f	0	0	1	0
@@ -8605,7 +8508,6 @@
 وان	wan	0	0	1	0
 وان	vaughan	0	0	1	0
 وال	wall	0	0	1	0
-قرارداد	impact	0	0	1	0
 قرارداد	resolution	0	0	1	0
 بادشاہ	king	0	0	1	0
 ہمیشہ	always	0	0	1	0
@@ -8664,7 +8566,6 @@
 نواں	nine	0	0	1	0
 نواں	ninth	0	0	1	0
 فساد	consequence	0	0	1	0
-فساد	roits	0	0	1	0
 فساد	consequences	0	0	1	0
 موسیٰ	moses	0	0	1	0
 موسیٰ	musa(as)	0	0	1	0
@@ -8698,7 +8599,6 @@
 فوارے	fuarhs	0	0	1	0
 فوارے	fountains	0	0	1	0
 مضطرب	nervous	0	0	1	0
-مضطرب	tense	0	0	1	0
 چوکور	square	0	0	1	0
 چوکور	rectangle	0	0	1	0
 ہوئ	occur	0	0	1	0
@@ -8725,8 +8625,8 @@
 پوش	cover	0	0	1	0
 پوش	posh	0	0	1	0
 پور	pur	0	0	1	0
-کیلی	cali	0	0	1	0
 کیلی	kali	0	0	1	0
+کیلی	cali	0	0	1	0
 تصویریں	pictures	0	0	1	0
 تصویریں	snaps	0	0	1	0
 مستعفی	resigned	0	0	1	0
@@ -8752,11 +8652,9 @@
 نیویا	neva	0	0	1	0
 نیویا	scandinavian	0	0	1	0
 كرتے	do	0	0	1	0
-كرتے	to do	0	0	1	0
 پول	paul	0	0	1	0
 پول	pool	0	0	1	0
 شیراز	name of a king	0	0	1	0
-شیراز	sehraz	0	0	1	0
 شیراز	sheraz	0	0	1	0
 ہول	hole	0	0	1	0
 ہوم	home	0	0	1	0
@@ -8788,7 +8686,6 @@
 آبائی	ancestral	0	0	1	0
 آبائی	parental	0	0	1	0
 قصاص	stories	0	0	1	0
-قصاص	reference	0	0	1	0
 رجز	anthem	0	0	1	0
 رجز	rhyming sentences	0	0	1	0
 رجز	rjz	0	0	1	0
@@ -8807,8 +8704,8 @@
 تیمور	taimuri	0	0	1	0
 تیمور	taimoor	0	0	1	0
 کےدور	in era	0	0	1	0
-زمرہجالبینی	category:jalini	0	0	1	0
 زمرہجالبینی	category: networking	0	0	1	0
+زمرہجالبینی	category:jalini	0	0	1	0
 کتابیں	books	0	0	1	0
 گھیتو	ghetto	0	0	1	0
 معراج	mirage	0	0	1	0
@@ -8829,7 +8726,6 @@
 باربروسا	name of a person	0	0	1	0
 باربروسا	barbarosa	0	0	1	0
 مستقیم	path	0	0	1	0
-مستقیم	standing with right	0	0	1	0
 مستقیم	straight way	0	0	1	0
 عامل	processor	0	0	1	0
 کمائی	earn	0	0	1	0
@@ -8864,8 +8760,8 @@
 عمان	oman	0	0	1	0
 عمان	aman	0	0	1	0
 متوازی	average	0	0	1	0
-متوازی	equal	0	0	1	0
 متوازی	parallel	0	0	1	0
+متوازی	equal	0	0	1	0
 عمال	work	0	0	1	0
 عمال	deeds	0	0	1	0
 جسارت	dare	0	0	1	0
@@ -8905,9 +8801,9 @@
 پھرے	turn	0	0	1	0
 پھرے	went	0	0	1	0
 پھرے	move	0	0	1	0
-منزل	goal	0	0	1	0
-منزل	wining place/floor	0	0	1	0
 منزل	destiny	0	0	1	0
+منزل	wining place/floor	0	0	1	0
+منزل	goal	0	0	1	0
 متنازعہ	controvversial	0	0	1	0
 متنازعہ	controversial	0	0	1	0
 بنوایا	making	0	0	1	0
@@ -9015,7 +8911,6 @@
 محترمہ	ms.	0	0	1	0
 خیمے	taint	0	0	1	0
 خیمے	tents	0	0	1	0
-ورژن	version	0	0	1	0
 ورژن	vision	0	0	1	0
 تفکرات	divisions	0	0	1	0
 تفکرات	differences	0	0	1	0
@@ -9075,7 +8970,6 @@
 ٹریڈ	trade	0	0	1	0
 بینکوں	banks	0	0	1	0
 فارہ	mouse	0	0	1	0
-مطب	clinic	0	0	1	0
 مطب	medical	0	0	1	0
 مطب	matab	0	0	1	0
 اعتبار	trust	0	0	1	0
@@ -9159,7 +9053,6 @@
 گھونسلہ	nestle	1	1	0	0
 گھونسلہ	dicer	1	0	1	0
 گھونسلہ	nust	1	0	1	0
-غلبہ	attack	0	0	1	0
 غلبہ	dominance	0	0	1	0
 غلبہ	occupation	0	0	1	0
 ہائے	hays	0	0	1	0
@@ -9271,7 +9164,6 @@
 گھڑا	pot	0	0	1	0
 گھڑا	well	0	0	1	0
 طلوع	rises	0	0	1	0
-طلوع	sole	0	0	1	0
 طلوع	taloo'a	0	0	1	0
 معارف	introductory	0	0	1	0
 معارف	encyclopedia	0	0	1	0
@@ -9414,9 +9306,9 @@
 حُکم	order	0	0	1	0
 الوجود	al-wajood	0	0	1	0
 الوجود	presence	0	0	1	0
-تکبیر	takbeer	0	0	1	0
-تکبیر	saying allah ho akbar	0	0	1	0
-تکبیر	takbir	0	0	1	0
+القاسم	al qasim	0	0	1	0
+القاسم	qasim	0	0	1	0
+القاسم	al-qasim	0	0	1	0
 تحریکوں	movements	0	0	1	0
 بروکلن	brokelin	0	0	1	0
 براعظم	continent	0	0	1	0
@@ -9454,6 +9346,8 @@
 جنبشیات	kinematics	1	1	0	0
 جنبشیات	the study of kinematics is often referred to as the geometry of motion	1	1	0	0
 جنبشیات	popularity	1	0	1	0
+اینساٹزگروپین	"ansatis groupean"	0	0	1	0
+اینساٹزگروپین	german's special task force	0	0	1	0
 افسانوی	fictious	0	0	1	0
 افسانوی	fiction	0	0	1	0
 بیمار	ill	0	0	1	0
@@ -9469,8 +9363,8 @@
 شمال	west	0	0	1	0
 شمال	north	0	0	1	0
 شمال	south	0	0	1	0
-کمرے	rooms	0	0	1	0
 کمرے	room	0	0	1	0
+کمرے	rooms	0	0	1	0
 بحرالکاہل	atlantic ocean	0	0	1	0
 بحرالکاہل	pacific ocean	0	0	1	0
 زاویہ	angle	0	0	1	0
@@ -9488,7 +9382,6 @@
 تہذیب	culture	0	0	1	0
 سائٹس	sites	0	0	1	0
 کامل	perfect	0	0	1	0
-کامل	excellence	0	0	1	0
 کامل	complete	0	0	1	0
 جولائ	july	0	0	1	0
 دریائے	river	0	0	1	0
@@ -9515,7 +9408,6 @@
 ریفرنڈم	referendum	0	0	1	0
 ریفرنڈم	rafrendom	0	0	1	0
 بنیں	become part of	0	0	1	0
-بنیں	became	0	0	1	0
 حنيفة	hanifa	0	0	1	0
 شتم	sixth	0	0	1	0
 شتم	shatam	0	0	1	0
@@ -9780,7 +9672,6 @@
 فعال	type	0	0	1	0
 فعال	actions	0	0	1	0
 ہڈیاں	bones	0	0	1	0
-ہڈیاں	girls	0	0	1	0
 کرامت	concept	0	0	1	0
 وائس	vice	0	0	1	0
 گھنٹہ	hour	0	0	1	0
@@ -9802,9 +9693,9 @@
 پیمانوں	scales	0	0	1	0
 تخلیق	creation	0	0	1	0
 گھنٹے	hours	0	0	1	0
-وحدت	unity	0	0	1	0
-وحدت	onely	0	0	1	0
 وحدت	only	0	0	1	0
+وحدت	onely	0	0	1	0
+وحدت	unity	0	0	1	0
 حکام	governer	0	0	1	0
 حکام	officials	0	0	1	0
 حکام	officers	0	0	1	0
@@ -9850,8 +9741,8 @@
 ترکیہ	turkiye	0	0	1	0
 ترکیہ	turkish	0	0	1	0
 وفادار	loyal	0	0	1	0
-دساتیر	stories	0	0	1	0
 دساتیر	legislation	0	0	1	0
+دساتیر	stories	0	0	1	0
 دساتیر	constitution	0	0	1	0
 ایڈمن	admin	0	0	1	0
 آسکی	came	0	0	1	0
@@ -10093,7 +9984,6 @@
 گزارنے	spent	0	0	1	0
 گزارنے	to spend	0	0	1	0
 فول	fool	0	0	1	0
-عتیق	atiq	0	0	1	0
 عتیق	atteq	0	0	1	0
 دینا	gave	0	0	1	0
 دینا	give	0	0	1	0
@@ -10115,8 +10005,8 @@
 ساحل	shore	0	0	1	0
 ساحل	coast	0	0	1	0
 ساحل	sea shore	0	0	1	0
-نیدرلینڈز	netherlands	0	0	1	0
 نیدرلینڈز	netherland	0	0	1	0
+نیدرلینڈز	netherlands	0	0	1	0
 گلے	throat	0	0	1	0
 گلے	neck	0	0	1	0
 گلے	accept	0	0	1	0
@@ -10180,8 +10070,6 @@
 جانشینوں	successor	0	0	1	0
 لی	take	0	0	1	0
 لی	took	0	0	1	0
-امت	community	0	0	1	0
-امت	nation	0	0	1	0
 آئن	name of the scientist	0	0	1	0
 آئن	ein	0	0	1	0
 آئل	oil	0	0	1	0
@@ -10252,7 +10140,7 @@
 آئیر	"ireland"	0	0	1	0
 حالانکہ	either	0	0	1	0
 حالانکہ	though	0	0	1	0
-پسلیاں	ribs	0	0	1	0
+چھوٹے	small	0	0	1	0
 العین	al-aein	0	0	1	0
 العین	alain	0	0	1	0
 حنفیہ	hanfia	0	0	1	0
@@ -10298,9 +10186,8 @@
 بیٹھ	sit	0	0	1	0
 بیٹھ	sat	0	0	1	0
 بیٹھ	st	0	0	1	0
-صیہونیت	max planck	0	0	1	0
 صیہونیت	judaism	0	0	1	0
-صیہونیت	comforts	0	0	1	0
+صیہونیت	max planck	0	0	1	0
 میٹرہارن	mattrthorn	1	0	1	0
 میٹرہارن	meter horn	1	0	1	0
 میٹرہارن	ethnic	1	0	1	0
@@ -10349,7 +10236,6 @@
 صفا	saffa	0	0	1	0
 صفا	safa	0	0	1	0
 نیازی	niazi	0	0	1	0
-جمود	plural	0	0	1	0
 جمود	still	0	0	1	0
 جمود	freezing	0	0	1	0
 حکمرانوں	governors	0	0	1	0
@@ -10365,7 +10251,8 @@
 نعتیہ	natia	0	0	1	0
 رسالے	magazines	0	0	1	0
 رسالے	magzine	0	0	1	0
-کوکا	coca	0	0	1	0
+گلستان	gulistan	0	0	1	0
+گلستان	garden	0	0	1	0
 ڈھونڈ	search	0	0	1	0
 ڈھونڈ	dhondh	0	0	1	0
 رسالہ	digest	0	0	1	0
@@ -10380,7 +10267,6 @@
 مرحلہ	step	0	0	1	0
 مرحلہ	stage	0	0	1	0
 مرحلہ	time	0	0	1	0
-حتی	even	0	0	1	0
 حتی	at last	0	0	1	0
 مرحلے	levels	0	0	1	0
 مرحلے	steps	0	0	1	0
@@ -10391,7 +10277,6 @@
 تخلیقی	creator	0	0	1	0
 پرانا	old	0	0	1	0
 القیروان	alqairwan	0	0	1	0
-القیروان	al-qeron	0	0	1	0
 ہتک	offensive	0	0	1	0
 ہتک	insulting	0	0	1	0
 ہتک	degradation	0	0	1	0
@@ -10403,8 +10288,8 @@
 تانیث	feminine	0	0	1	0
 قدرت	power	0	0	1	0
 قدرت	nature	0	0	1	0
-سرما	winters	0	0	1	0
 سرما	winter	0	0	1	0
+سرما	winters	0	0	1	0
 میدان	field	0	0	1	0
 میدان	ground	0	0	1	0
 اندازوں	guess	0	0	1	0
@@ -10550,8 +10435,8 @@
 بائبل	baibal	0	0	1	0
 بائبل	bible	0	0	1	0
 تجھ	you	0	0	1	0
-تجزیاتی	analysis	0	0	1	0
 تجزیاتی	experimental	0	0	1	0
+تجزیاتی	analysis	0	0	1	0
 طریقت	ways	0	0	1	0
 طریقت	way	0	0	1	0
 نواسے	grand son	0	0	1	0
@@ -10620,7 +10505,6 @@
 خاصی	significant	0	0	1	0
 خاصی	more	0	0	1	0
 طریقے	ways	0	0	1	0
-طریقے	manners	0	0	1	0
 برداشت	taking it	0	0	1	0
 برداشت	tolerate	0	0	1	0
 برداشت	bear	0	0	1	0
@@ -10742,10 +10626,8 @@
 ایڈولف	adolf	0	0	1	0
 ایڈولف	part of the name of nazi dectator adolf hitler	0	0	1	0
 ٹالِن	talin	0	0	1	0
-ٹالِن	talin (name of a place)	0	0	1	0
 کارگذاری	work done	0	0	1	0
 کارگذاری	deeds	0	0	1	0
-کارگذاری	forgave	0	0	1	0
 بریدہ	bareda	0	0	1	0
 قی	qi	0	0	1	0
 اکٹھا	collecting	0	0	1	0
@@ -10819,9 +10701,8 @@
 زمرہکائنات	division universe	0	0	1	0
 حکومتیں	governments	0	0	1	0
 مکان	house	0	0	1	0
-بعید	far	0	0	1	0
-بعید	distant	0	0	1	0
-بعید	ba'eed	0	0	1	0
+اورکزئی	aurahzai	0	0	1	0
+اورکزئی	orukzai	0	0	1	0
 یافتہ	one who achieves something	0	0	1	0
 ‏ساحلی	shore	0	0	1	0
 ‏ساحلی	coastal	0	0	1	0
@@ -10844,7 +10725,6 @@
 کلمہ	kalma	0	0	1	0
 خلوی	cellulosic	0	0	1	0
 خلوی	cellular	0	0	1	0
-خلوی	ultra violet	0	0	1	0
 برسوں	years	0	0	1	0
 امتیاز	distinction	0	0	1	0
 امتیاز	specialty	0	0	1	0
@@ -10855,9 +10735,9 @@
 ہماری	our	0	0	1	0
 قومی	country	0	0	1	0
 قومی	national	0	0	1	0
-جرات	courage	0	0	1	0
-جرات	tureen	0	0	1	0
-جرات	coourage	0	0	1	0
+بلوری	crystal	0	0	1	0
+بلوری	bralvi	0	0	1	0
+بلوری	liquid	0	0	1	0
 کوئٹہ	konte	0	0	1	0
 کوئٹہ	quetta	0	0	1	0
 استعمال	usage	0	0	1	0
@@ -10920,8 +10800,8 @@
 کافر	unbeliever	0	0	1	0
 کافر	non-believer	0	0	1	0
 کافر	unbeliever/godless	0	0	1	0
-لیں	took	0	0	1	0
 لیں	take	0	0	1	0
+لیں	took	0	0	1	0
 جلسے	conference	0	0	1	0
 جلسے	rally	0	0	1	0
 جلسے	gathering	0	0	1	0
@@ -10933,7 +10813,6 @@
 خلوص	by heart	0	0	1	0
 جلسہ	gathering	0	0	1	0
 جلسہ	gatering	0	0	1	0
-جلسہ	celeberation	0	0	1	0
 جیٹ	jet	0	0	1	0
 شریانوں	veins	0	0	1	0
 شریانوں	artery	0	0	1	0
@@ -11148,7 +11027,6 @@
 گوھرشاہی	regal of pearl gem	0	0	1	0
 گوھرشاہی	guhr shahi	0	0	1	0
 پھیلتا	spreding	0	0	1	0
-پھیلتا	expands	0	0	1	0
 پھیلتا	hiv	0	0	1	0
 صبر	patience	0	0	1	0
 صبر	patient	0	0	1	0
@@ -11250,7 +11128,6 @@
 پڑھائی	teach	0	0	1	0
 پڑھائی	education	0	0	1	0
 پڑھائی	studies	0	0	1	0
-جنہوں	who	0	0	1	0
 جنہوں	those	0	0	1	0
 جنہوں	which	0	0	1	0
 فلاحی	micoreconomics	0	0	1	0
@@ -11344,7 +11221,6 @@
 پرستی	read	0	0	1	0
 پرستی	worship	0	0	1	0
 یونیسکو	unesco	0	0	1	0
-محل	castle	0	0	1	0
 محل	palace	0	0	1	0
 تھااب	was now	0	0	1	0
 گیاتھا	gone	0	0	1	0
@@ -11430,7 +11306,6 @@
 غائب	absent	0	0	1	0
 غائب	not present	0	0	1	0
 غائب	disappear	0	0	1	0
-آفت	problem	0	0	1	0
 آفت	calamity	0	0	1	0
 آفت	disaster	0	0	1	0
 باپ	dad	0	0	1	0
@@ -11505,7 +11380,6 @@
 شاہجہان	shawjahan	0	0	1	0
 باز	avoid	0	0	1	0
 باز	stop	0	0	1	0
-بار	turn	0	0	1	0
 بار	bar	0	0	1	0
 بار	time	0	0	1	0
 انسانوں	humanes	0	0	1	0
@@ -11543,7 +11417,6 @@
 زمیں	land	0	0	1	0
 مشاہد	observe	0	0	1	0
 مشاہد	observations	0	0	1	0
-مشاہد	mushahid	0	0	1	0
 زبردستی	forcefully	0	0	1	0
 بیش	provide	0	0	1	0
 بیش	many	0	0	1	0
@@ -11603,11 +11476,9 @@
 شائستگی	politely	0	0	1	0
 مکی	mecci	0	0	1	0
 مکی	makki	0	0	1	0
-مکی	of mecca (sura of quran came into existence in mecca)	0	0	1	0
 جزیرہ	island	1	1	1	0
 جزیرہ	short	1	0	1	0
 فراہم	provide	0	0	1	0
-فراہم	work	0	0	1	0
 نوم	nome	0	0	1	0
 مرثالثہ	nucleotide  "a chemical present in dna"	1	0	1	0
 مرثالثہ	nucleatide	1	0	1	0
@@ -11619,18 +11490,13 @@
 بیچ	central	0	0	1	0
 بیچ	sold	0	0	1	0
 بیچ	beach	0	0	1	0
-برنزوک	brunswick	0	0	1	0
 برنزوک	name of  a person(baranzoke)	0	0	1	0
-مقالے	maqalay	0	0	1	0
-مقالے	post	0	0	1	0
-مقالے	quote	0	0	1	0
 اصولی	regulatory	0	0	1	0
 اصولی	rule	0	0	1	0
 لوئیس	lewis	0	0	1	0
 لڑنے	fighting	0	0	1	0
 لڑنے	fight	0	0	1	0
 ستون	pillar	0	0	1	0
-جمانے	control(hold)	0	0	1	0
 جمانے	stand	0	0	1	0
 جمانے	freeze	0	0	1	0
 وفات	death	0	0	1	0
@@ -11698,8 +11564,8 @@
 ﺍﺳﺘﻌﻤﺎﻝ	usage	0	0	1	0
 ﺍﺳﺘﻌﻤﺎﻝ	use	0	0	1	0
 پروٹین	protein	0	0	1	0
-قمری	lunar	0	0	1	0
-قمری	moon	0	0	1	0
+روز	day	0	0	1	0
+روز	daily	0	0	1	0
 روس	germany	0	0	1	0
 روس	russia	0	0	1	0
 ابطن	cache	0	0	1	0
@@ -11735,7 +11601,6 @@
 وولٹیج	volatage	1	1	0	0
 قبول	accept	0	0	1	0
 سیال	respectable	0	0	1	0
-سیال	sial	0	0	1	0
 بھرا	full	0	0	1	0
 بھرا	filled	0	0	1	0
 ہندوئوں	hindus	0	0	1	0
@@ -11743,8 +11608,8 @@
 ورید	venous	0	0	1	0
 ورید	arch	0	0	1	0
 آجانے	come	0	0	1	0
-آجانے	came	0	0	1	0
 آجانے	comes	0	0	1	0
+آجانے	came	0	0	1	0
 زمرہفقہ	division: fiqqa	0	0	1	0
 چھاپ	print	0	0	1	0
 چھاپ	press	0	0	1	0
@@ -11789,7 +11654,6 @@
 اخوان	brotherhood	0	0	1	0
 پلس	plus	0	0	1	0
 ونڈوز	windows	0	0	1	0
-چنانچہ	so	0	0	1	0
 چنانچہ	than	0	0	1	0
 چنانچہ	although	0	0	1	0
 وراثتی	inherited	0	0	1	0
@@ -11897,7 +11761,6 @@
 سیرین	name of spacial character	0	0	1	0
 کوئے	corner	0	0	1	0
 کوئے	edge	0	0	1	0
-کوئی	anyone	0	0	1	0
 کوئی	any	0	0	1	0
 ميں	in	0	0	1	0
 چھڑی	stick	0	0	1	0
@@ -11964,6 +11827,7 @@
 چاہیں	want	0	0	1	0
 کاغذ	paper	0	0	1	0
 کاغذ	kaghaz (paper)	0	0	1	0
+آرتھوڈوکس	orthodontics	0	0	1	0
 لینے	to	0	0	1	0
 لینے	takes	0	0	1	0
 لینے	take	0	0	1	0
@@ -12081,8 +11945,8 @@
 ہٹنے	step back	0	0	1	0
 ہٹنے	left	0	0	1	0
 وفا	faith	0	0	1	0
-وفا	loyalty	0	0	1	0
 وفا	honesty	0	0	1	0
+وفا	loyalty	0	0	1	0
 مصنوعی	artificial / unnatural	1	0	1	0
 مصنوعی	urban	1	0	1	0
 مصنوعی	made by human	1	1	0	0
@@ -12113,7 +11977,9 @@
 تقویم	strong	0	0	1	0
 تقویم	progress	0	0	1	0
 ڈپٹی	deputy	0	0	1	0
-سرکوبی	conquer	0	0	1	0
+امرا	leaders	0	0	1	0
+امرا	rich	0	0	1	0
+امرا	rich person	0	0	1	0
 استوا	equator	0	0	1	0
 استوا	line	0	0	1	0
 استوا	border	0	0	1	0
@@ -12123,9 +11989,8 @@
 سوچتے	think	0	0	1	0
 ڈ	d	0	0	1	0
 انفیکشن	infection	0	0	1	0
-الاکبر	alakbr	0	0	1	0
-الاکبر	al akbar	0	0	1	0
 الاکبر	big	0	0	1	0
+الاکبر	al akbar	0	0	1	0
 یوحنا	name of man	0	0	1	0
 یوحنا	john	0	0	1	0
 یوحنا	youhana	0	0	1	0
@@ -12147,11 +12012,7 @@
 وقتاً	time by time	0	0	1	0
 وقتاً	time	0	0	1	0
 لبنان	lebanon	0	0	1	0
-گلستان	gulistan	0	0	1	0
-گلستان	garden	0	0	1	0
-القاسم	al qasim	0	0	1	0
-القاسم	qasim	0	0	1	0
-القاسم	al-qasim	0	0	1	0
+کوکا	coca	0	0	1	0
 فریقین	fareeqeen	0	0	1	0
 فریقین	parties	0	0	1	0
 کوریا	korea	0	0	1	0
@@ -12195,6 +12056,8 @@
 مثلاً	example	0	0	1	0
 لُغات	dictionaries	0	0	1	0
 لُغات	dictionary	0	0	1	0
+نیٹ	net	0	0	1	0
+نیٹ	neat	0	0	1	0
 حامل	holder	0	0	1	0
 حامل	bearer	0	0	1	0
 مجاز	personal	0	0	1	0
@@ -12209,7 +12072,6 @@
 نالے	watercourse	0	0	1	0
 کوہاٹ	kohat	0	0	1	0
 ننانوے	99	0	0	1	0
-ننانوے	nintynine	0	0	1	0
 پی	p	0	0	1	0
 پی	drink	0	0	1	0
 پی	pea	0	0	1	0
@@ -12286,7 +12148,6 @@
 قديم	ancient	0	0	1	0
 اسمبلی	assembly	0	0	1	0
 پرتشدد	violent	0	0	1	0
-پرتشدد	severe	0	0	1	0
 پرتشدد	violance	0	0	1	0
 عشق	love	0	0	1	0
 ایڈم	atom	0	0	1	0
@@ -12337,7 +12198,6 @@
 مسلح	armed	0	0	1	0
 مسلح	combined	0	0	1	0
 راولپنڈی	raavalpindi	0	0	1	0
-راولپنڈی	place name	0	0	1	0
 پر	on	0	0	1	0
 مار	beat	0	0	1	0
 مار	kill	0	0	1	0
@@ -12457,9 +12317,9 @@
 زمرہہندوستانی	category: indian	0	0	1	0
 پلازہ	plaza	0	0	1	0
 حفصہ	hafsa	0	0	1	0
+ظہبی	dhabi	0	0	1	0
 ظہبی	zahbi	0	0	1	0
 ظہبی	dehbi	0	0	1	0
-ظہبی	dhabi	0	0	1	0
 اتھارٹی	authority	0	0	1	0
 حالاتِ	conditions	0	0	1	0
 آبادیات	population	0	0	1	0
@@ -12471,10 +12331,8 @@
 گر	if	0	0	1	0
 وبائی	viral	0	0	1	0
 وبائی	pandemic	0	0	1	0
-مخلوقات	living things	0	0	1	0
 مخلوقات	creatures	0	0	1	0
 گی	did	0	0	1	0
-گی	go	0	0	1	0
 گی	happen	0	0	1	0
 کاظم	kazim	0	0	1	0
 طالبان	taliban	0	0	1	0
@@ -12498,7 +12356,6 @@
 یاسر	yasir	0	0	1	0
 پذیری	fall	0	0	1	0
 گے	went	0	0	1	0
-گے	will be called	0	0	1	0
 تعظیم	discipline	0	0	1	0
 تعظیم	respect	0	0	1	0
 تعظیم	appreciate	0	0	1	0
@@ -12520,9 +12377,8 @@
 جنگلی	jungle based	0	0	1	0
 صنعت	industry	0	0	1	0
 صنعت	economy	0	0	1	0
-سےحضرت	to hazrat	0	0	1	0
-سےحضرت	the prophet	0	0	1	0
 سےحضرت	from people	0	0	1	0
+سےحضرت	the prophet	0	0	1	0
 وہابیہ	wahabi	0	0	1	0
 وہابیہ	wahabia	0	0	1	0
 قلم	pencil	0	0	1	0
@@ -12642,8 +12498,6 @@
 سنانے	told	0	0	1	0
 بوئے	little	0	0	1	0
 بوئے	sow	0	0	1	0
-جام	jam	0	0	1	0
-جام	block	0	0	1	0
 شعروشاعری	poetry	0	0	1	0
 اعظم	great	0	0	1	0
 اعظم	azam	0	0	1	0
@@ -12658,9 +12512,8 @@
 اناجیلِ	evangelical	0	0	1	0
 اناجیلِ	gospel	0	0	1	0
 اناجیلِ	angel	0	0	1	0
-خاص	proper	0	0	1	0
-خاص	important	0	0	1	0
-خاص	special	0	0	1	0
+سلجوقی	sljuki	0	0	1	0
+سلجوقی	saljoki	0	0	1	0
 نشاندہی	indicate	0	0	1	0
 نشاندہی	pointed	0	0	1	0
 نشاندہی	identify	0	0	1	0
@@ -12710,7 +12563,6 @@
 تذکرہ	talk	0	0	1	0
 موسوم	designated	0	0	1	0
 موسوم	mousam	0	0	1	0
-کنندہ	kunda	0	0	1	0
 کنندہ	counted	0	0	1	0
 کنندہ	user	0	0	1	0
 شمع	candle	0	0	1	0
@@ -12765,7 +12617,6 @@
 پڑھانے	padhane	0	0	1	0
 برہم	angry	0	0	1	0
 برہم	frustrated	0	0	1	0
-برہم	twelvth	0	0	1	0
 احادیث	hadiths	0	0	1	0
 احادیث	ahadees	0	0	1	0
 معاملے	matter	0	0	1	0
@@ -12776,8 +12627,8 @@
 قدموں	feet	0	0	1	0
 قدموں	feets	0	0	1	0
 قدموں	steps	0	0	1	0
-مہتمم	controller	0	0	1	0
 مہتمم	manager	0	0	1	0
+مہتمم	controller	0	0	1	0
 سروں	heads	0	0	1	0
 سروں	music	0	0	1	0
 دوبئی	dubai	0	0	1	0
@@ -12887,11 +12738,10 @@
 دارومدار	depend	0	0	1	0
 دارومدار	depended	0	0	1	0
 البانیہ	albania	0	0	1	0
-حقيقت	in real	0	0	1	0
 حقيقت	facts	0	0	1	0
+حقيقت	in real	0	0	1	0
 حقيقت	reality	0	0	1	0
 فی	per	0	0	1	0
-لڑائی	war	0	0	1	0
 لڑائی	fighting	0	0	1	0
 لڑائی	fight	0	0	1	0
 کتاب	book	0	0	1	0
@@ -12900,9 +12750,7 @@
 جشن	festival	0	0	1	0
 جشن	celebrations	0	0	1	0
 جشن	celebration	0	0	1	0
-خواہش	desire	0	0	1	0
-خواہش	wish	0	0	1	0
-خواہش	will	0	0	1	0
+اولیاءاللہ	saints	0	0	1	0
 اونٹوں	camels	0	0	1	0
 راجدھانی	capital / kingdom	0	0	1	0
 راجدھانی	government	0	0	1	0
@@ -12938,7 +12786,6 @@
 نوعمر	under age	0	0	1	0
 غیروں	strangers	0	0	1	0
 غیروں	others	0	0	1	0
-غیروں	non relatives	0	0	1	0
 چوسٹس	chosiste	0	0	1	0
 خلافت	duration	0	0	1	0
 خلافت	khalif	0	0	1	0
@@ -12982,9 +12829,9 @@
 فن	fun	0	0	1	0
 فن	art	0	0	1	0
 رس	juice	0	0	1	0
-ہےتاہم	but	0	0	1	0
 ہےتاہم	although	0	0	1	0
 ہےتاہم	is still	0	0	1	0
+ہےتاہم	but	0	0	1	0
 في	fi	0	0	1	0
 في	every	0	0	1	0
 بہار	spring	0	0	1	0
@@ -12993,7 +12840,6 @@
 گھرانہ	family	0	0	1	0
 کیسا	how	0	0	1	0
 کیسا	what	0	0	1	0
-کیسا	what type of	0	0	1	0
 گھٹ	reduced	0	0	1	0
 گھٹ	collection	0	0	1	0
 گھٹ	less	0	0	1	0
@@ -13063,8 +12909,6 @@
 گزارتے	spend	0	0	1	0
 رکھا	placed	0	0	1	0
 رکھا	kept	0	0	1	0
-رکھا	to keep	0	0	1	0
-نقوش	imprint	0	0	1	0
 نقوش	impression	0	0	1	0
 نقوش	signs	0	0	1	0
 ذی	owns	0	0	1	0
@@ -13139,8 +12983,8 @@
 استِتباب	cellular	0	0	1	0
 خلاصہ	khulaase	0	0	1	0
 خلاصہ	summary	0	0	1	0
-پیرزادہ	peer zadaa	0	0	1	0
 پیرزادہ	per zada	0	0	1	0
+پیرزادہ	peer zadaa	0	0	1	0
 رکھی	put	0	0	1	0
 رکھی	kept	0	0	1	0
 رکھی	place	0	0	1	0
@@ -13192,7 +13036,6 @@
 پچھلی	previous	0	0	1	0
 مارنا	beat	0	0	1	0
 مارنا	kill	0	0	1	0
-فعلی	related to fali	0	0	1	0
 فعلی	verbal	0	0	1	0
 شماریات	demographic	0	0	1	0
 شماریات	demography	0	0	1	0
@@ -13247,7 +13090,6 @@
 سٹیل	steel	0	0	1	0
 کیلیئے	for	0	0	1	0
 دوسرے	other	0	0	1	0
-دوسرے	place name	0	0	1	0
 دوسرے	others	0	0	1	0
 صیہون	sehoon (place)	0	0	1	0
 صیہون	sehoon	0	0	1	0
@@ -13435,19 +13277,17 @@
 موم	thumb	1	0	1	0
 موم	paraffin / candle	1	1	0	0
 موم	wax	1	1	0	0
-آخرت	the day of judgement	0	0	1	0
 آخرت	end	0	0	1	0
 آخرت	hereafter	0	0	1	0
 کلیہ	kidney	0	0	1	0
 افراز	sweden	1	0	1	0
 افراز	afraaz	1	0	1	0
 افراز	secrete	1	0	1	0
-افراز	secretion	1	1	1	0
+افراز	secretion	1	1	0	0
 مردوں	men	0	0	1	0
 مردوں	adult male	0	0	1	0
 نبوی	nabvi	0	0	1	0
 نبوی	holy prophet	0	0	1	0
-نبوی	nabwi	0	0	1	0
 حیدر	haider	0	0	1	0
 کاشتکاری	cultivation	0	0	1	0
 کاشتکاری	farming	0	0	1	0
@@ -13483,8 +13323,8 @@
 موافقہ	optimal	0	0	1	0
 کاایک	and one	0	0	1	0
 کاایک	one	0	0	1	0
-فہد	fahad	0	0	1	0
 فہد	fahid	0	0	1	0
+فہد	fahad	0	0	1	0
 پاك	pak	0	0	1	0
 پاك	clean	0	0	1	0
 پاك	pure	0	0	1	0
@@ -13537,7 +13377,6 @@
 پار	cross	0	0	1	0
 پاس	near	0	0	1	0
 پاس	pass	0	0	1	0
-اصولوں	rules and regulations	0	0	1	0
 اصولوں	principles	0	0	1	0
 اصولوں	the principles	0	0	1	0
 بوتل	bottle	0	0	1	0
@@ -13584,7 +13423,6 @@
 موہن	mohan	0	0	1	0
 موہن	mohin	0	0	1	0
 داستان	tale	0	0	1	0
-داستان	story	0	0	1	0
 داستان	stories	0	0	1	0
 طبیعات	biology	0	0	1	0
 طبیعات	physics	0	0	1	0
@@ -13619,8 +13457,8 @@
 فارم	farm	0	0	1	0
 فارم	form	0	0	1	0
 رومانیوں	romans	0	0	1	0
-رومانیوں	romanian	0	0	1	0
 رومانیوں	romanians	0	0	1	0
+رومانیوں	romanian	0	0	1	0
 نسبت	comparison	0	0	1	0
 نسبت	according	0	0	1	0
 نسبت	than	0	0	1	0
@@ -13789,16 +13627,15 @@
 تفریق	minus	0	0	1	0
 لوئسویل	lunsuwail	0	0	1	0
 ریکیاوک	rikawik	0	0	1	0
-النبی	nabi	0	0	1	0
-النبی	al nabi	0	0	1	0
 النبی	messenger	0	0	1	0
+النبی	al nabi	0	0	1	0
+النبی	nabi	0	0	1	0
 ثالث	moderator	0	0	1	0
 ثالث	second	0	0	1	0
 ثالث	iii	0	0	1	0
 تفریح	entertaining	0	0	1	0
 تفریح	recreation	0	0	1	0
 نکلی	drived	0	0	1	0
-نکلی	out	0	0	1	0
 مودودی	moudodi	0	0	1	0
 سر	sir	1	1	0	0
 سر	head	1	1	1	0
@@ -14065,7 +13902,6 @@
 شیلڈ	shield	0	0	1	0
 اترنے	land	0	0	1	0
 اترنے	come down	0	0	1	0
-اترنے	left	0	0	1	0
 آرڈر	order	0	0	1	0
 ڈھالا	control	0	0	1	0
 ڈھالا	change	0	0	1	0
@@ -14201,7 +14037,6 @@
 قوسین	two	0	0	1	0
 اِسی	this is	0	0	1	0
 اِسی	him	0	0	1	0
-مثال	exemlpe	0	0	1	0
 مثال	example	0	0	1	0
 بچنے	survive	0	0	1	0
 بچنے	remaining	0	0	1	0
@@ -14292,8 +14127,8 @@
 شمارندے	counters	0	0	1	0
 زمرہاطلاعاتی	division: informative	0	0	1	0
 جاری	continue	0	0	1	0
-جاری	going on	0	0	1	0
 جاری	printed	0	0	1	0
+جاری	going on	0	0	1	0
 فورس	force	0	0	1	0
 معاہدہ	agreement	0	0	1	0
 معاہدہ	treaty	0	0	1	0
@@ -14334,7 +14169,6 @@
 ہاشم	hashim	0	0	1	0
 فورٹ	fort	0	0	1	0
 چھن	chan	0	0	1	0
-چھن	lost	0	0	1	0
 چھن	snatch	0	0	1	0
 میڈیا	media	0	0	1	0
 تیل	oil	0	0	1	0
@@ -14385,6 +14219,8 @@
 خداوندی	god	0	0	1	0
 خداوندی	allah	0	0	1	0
 خداوندی	allah the almight	0	0	1	0
+پروٹسٹنٹ	protestants	0	0	1	0
+پروٹسٹنٹ	protest	0	0	1	0
 مسافروں	passengers	0	0	1	0
 مسافروں	passengeres	0	0	1	0
 مسافروں	traveler	0	0	1	0
@@ -14647,7 +14483,6 @@
 بچار	thinking	0	0	1	0
 بچار	thought	0	0	1	0
 دنیا	world	0	0	1	0
-زمرہفلسفی	zhumra philosophy	0	0	1	0
 زمرہفلسفی	division: philosophy	0	0	1	0
 زمرہفلسفی	philosphy	0	0	1	0
 زمرہفلسفہ	category: philosophy	0	0	1	0
@@ -14832,7 +14667,6 @@
 کرپشن	corruption	0	0	1	0
 رے	name of a person(ray)	0	0	1	0
 رے	ray	0	0	1	0
-حوالہ	refernce	0	0	1	0
 حوالہ	reference	0	0	1	0
 ملک	country	0	0	1	0
 گردانتے	perform	0	0	1	0
@@ -14870,9 +14704,9 @@
 چرچ	church	0	0	1	0
 کھیلی	play	0	0	1	0
 کھیلی	played	0	0	1	0
-زمرہمتنازعہ	category: controversial	0	0	1	0
-زمرہمتنازعہ	prohibited	0	0	1	0
-زمرہمتنازعہ	category controversial	0	0	1	0
+کھیلے	play	0	0	1	0
+کھیلے	will play	0	0	1	0
+کھیلے	plays	0	0	1	0
 یانگزے	yangzhoi	0	0	1	0
 یانگزے	young	0	0	1	0
 بیجنگ	beijing	0	0	1	0
@@ -14933,7 +14767,9 @@
 ملازمت	job	0	0	1	0
 ملازمت	service	0	0	1	0
 جالبینی	internet	0	0	1	0
-اولیاءاللہ	saints	0	0	1	0
+خواہش	desire	0	0	1	0
+خواہش	wish	0	0	1	0
+خواہش	will	0	0	1	0
 طاہرالقادری	tahir-ul-qadri	0	0	1	0
 انسداد	action	0	0	1	0
 انسداد	counter	0	0	1	0
@@ -14970,7 +14806,6 @@
 تولیف	destroy	1	0	1	0
 تولیف	many	1	0	1	0
 اوسط	average	0	0	1	0
-اوسط	measure	0	0	1	0
 کلچر	culture	0	0	1	0
 اجمیر	ajmeer	0	0	1	0
 اجمیر	ajmir	0	0	1	0
@@ -14986,7 +14821,6 @@
 تولید	grow up	0	0	1	0
 لہر	wave	0	0	1	0
 قاتل	killer	0	0	1	0
-قاتل	murder	0	0	1	0
 قاتل	agree	0	0	1	0
 شامل	include	0	0	1	0
 شامل	join	0	0	1	0
@@ -15014,6 +14848,9 @@
 دلی	hearted	0	0	1	0
 دلی	delhi	0	0	1	0
 اسناد	certificates	0	0	1	0
+تکبیر	takbeer	0	0	1	0
+تکبیر	saying allah ho akbar	0	0	1	0
+تکبیر	takbir	0	0	1	0
 سوڈان	sudan	0	0	1	0
 سوڈان	sodan	0	0	1	0
 اتارنے	taken	0	0	1	0
@@ -15027,7 +14864,6 @@
 آجاتے	come	0	0	1	0
 آجاتے	came	0	0	1	0
 پیغمبر	prophet	0	0	1	0
-پیغمبر	messenger	0	0	1	0
 پیغمبر	old testament	0	0	1	0
 جوتی	foot	0	0	1	0
 جوتی	shoe	0	0	1	0
@@ -15135,8 +14971,8 @@
 دیۓ	gives	0	0	1	0
 کھیلنے	play	0	0	1	0
 کھیلنے	played	0	0	1	0
-سادگی	simplicity	0	0	1	0
 سادگی	simpleness	0	0	1	0
+سادگی	simplicity	0	0	1	0
 حاصل	get	0	0	1	0
 اشتراک	collaboration	0	0	1	0
 اشتراک	sharing	0	0	1	0
@@ -15204,7 +15040,6 @@
 مصور	artist	0	0	1	0
 ہنگو	hangu	0	0	1	0
 مدرسے	universities	0	0	1	0
-مدرسے	school	0	0	1	0
 مدرسے	institute / school	0	0	1	0
 دار	of	0	0	1	0
 دار	dar	0	0	1	0
@@ -15267,7 +15102,6 @@
 اسکورر	score	0	0	1	0
 اسکورر	scorer	0	0	1	0
 منہ	mun'h	0	0	1	0
-منہ	mouth	0	0	1	0
 جہنم	hell	0	0	1	0
 بہائی	torrent	0	0	1	0
 بہائی	bahai	0	0	1	0
@@ -15294,9 +15128,7 @@
 ایسآئی	si	0	0	1	0
 ایسآئی	base	0	0	1	0
 ایسآئی	i basic	0	0	1	0
-روایتوں	refrences	0	0	1	0
 روایتوں	traditions	0	0	1	0
-انور	lightful	0	0	1	0
 داں	skilled	0	0	1	0
 زمرہانگریزی	category english	0	0	1	0
 زمرہانگریزی	english category	0	0	1	0
@@ -15382,8 +15214,8 @@
 سكھ	sikh	0	0	1	0
 ادرنہ	jordan "country"	0	0	1	0
 زمرہفقہی	category: say	0	0	1	0
-زمرہفقہی	category:jurisprudential	0	0	1	0
 زمرہفقہی	category: fiqqa	0	0	1	0
+زمرہفقہی	category:jurisprudential	0	0	1	0
 محقق	researcher	0	0	1	0
 محقق	right	0	0	1	0
 محقق	researchers	0	0	1	0
@@ -15429,13 +15261,13 @@
 الگرگانی	al-gargani	0	0	1	0
 ہوتا	is	0	0	1	0
 ہوتا	going	0	0	1	0
+تفاوت	variance	0	0	1	0
+تفاوت	bias	0	0	1	0
 ہمتا	peer	0	0	1	0
 منتقزاحم	modulation	0	0	1	0
 منتقزاحم	transistor	0	0	1	0
-منتقزاحم	transresistance	0	0	1	0
 دولت	money	0	0	1	0
 دولت	wealth	0	0	1	0
-سردار	lord	0	0	1	0
 سردار	chief	0	0	1	0
 سردار	captain	0	0	1	0
 اوسطا	average	0	0	1	0
@@ -15580,6 +15412,9 @@
 بلکہ	but	0	0	1	0
 محاصل	taxation	0	0	1	0
 محاصل	get	0	0	1	0
+جرات	courage	0	0	1	0
+جرات	tureen	0	0	1	0
+جرات	coourage	0	0	1	0
 آزا	independent	0	0	1	0
 آزا	parts	0	0	1	0
 فزکس	physics	0	0	1	0
@@ -15696,12 +15531,10 @@
 پیراڈائز	paradise	0	0	1	0
 بدامنی	unrest	0	0	1	0
 پارٹ	part	0	0	1	0
-باری	turn (means bombardment in this sentence)	0	0	1	0
 باری	turn	0	0	1	0
 بارے	regarding	0	0	1	0
 بارے	according	0	0	1	0
 اکرم	akram	0	0	1	0
-اکرم	name	0	0	1	0
 اہم	important	0	0	1	0
 اہل	descendents	0	0	1	0
 اہل	eligible	0	0	1	0
@@ -15802,7 +15635,7 @@
 روبالات	welding	0	0	1	0
 انگیزے	hormone	0	0	1	0
 انگیزے	mixture	0	0	1	0
-چھوٹے	small	0	0	1	0
+پسلیاں	ribs	0	0	1	0
 مسیح	christian	0	0	1	0
 مسیح	messiah	0	0	1	0
 مسیح	christ	0	0	1	0
@@ -15848,7 +15681,6 @@
 بارش	baarish	0	0	1	0
 بارش	rain	0	0	1	0
 جڑواں	twin	0	0	1	0
-جڑواں	combined	0	0	1	0
 جڑواں	adjacent	0	0	1	0
 فائیو	five	0	0	1	0
 نمونوں	examples	0	0	1	0
@@ -15922,7 +15754,6 @@
 علامات	signs	0	0	1	0
 تبلیغ	spread	0	0	1	0
 تبلیغ	preaching	0	0	1	0
-الکریم	al-kareem	0	0	1	0
 الکریم	alkareem	0	0	1	0
 الشق	shq	0	0	1	0
 شکلوں	shapes	0	0	1	0
@@ -15944,7 +15775,6 @@
 نذر	handover	0	0	1	0
 نذر	several	0	0	1	0
 علاج	treatment	0	0	1	0
-اعلانیہ	announce	0	0	1	0
 اعلانیہ	open	0	0	1	0
 اعلانیہ	anoucement	0	0	1	0
 ژ	pronounced as "scche"	0	0	1	0
@@ -15994,11 +15824,9 @@
 کامرس	commerce	0	0	1	0
 فلکی	astronomical	0	0	1	0
 فلکی	astrology	0	0	1	0
-فِننش	a batalion	0	0	1	0
 فِننش	fanfish	0	0	1	0
-بعث	discussion	0	0	1	0
-بعث	baath	0	0	1	0
-بعث	due to	0	0	1	0
+آوازوں	sounds	0	0	1	0
+آوازوں	voices	0	0	1	0
 سنو	hear	0	0	1	0
 سنو	listen	0	0	1	0
 قبریں	graves	0	0	1	0
@@ -16064,7 +15892,6 @@
 مہاراشٹر	maharashtra	0	0	1	0
 لکھنائ	writting	0	0	1	0
 گھنے	thick	0	0	1	0
-گھنے	dense	0	0	1	0
 سکرین	screen	0	0	1	0
 خلیوں	cells	0	0	1	0
 خلیوں	eukaryotes	0	0	1	0
@@ -16149,7 +15976,6 @@
 یونانی	greece	0	0	1	0
 مبادلہ	interchange	0	0	1	0
 مبادلہ	changed	0	0	1	0
-مبادلہ	exchange	0	0	1	0
 قوم	nation	0	0	1	0
 قول	saying	0	0	1	0
 قول	quote	0	0	1	0
@@ -16185,12 +16011,12 @@
 قربان	sacrifice	0	0	1	0
 قربان	sacrifies	0	0	1	0
 قربان	sacrificed	0	0	1	0
-زیرجوہری	jewler	0	0	1	0
 زیرجوہری	nuclear	0	0	1	0
+زیرجوہری	jewler	0	0	1	0
 یادگاری	memorable	0	0	1	0
 یادگاری	memorial	0	0	1	0
-جبڑے	jaws	0	0	1	0
 جبڑے	jaw	0	0	1	0
+جبڑے	jaws	0	0	1	0
 ظاہر	clear	0	0	1	0
 ظاہر	display	0	0	1	0
 ظاہر	show	0	0	1	0
@@ -16203,7 +16029,6 @@
 مارخور	similar to goat	1	1	0	0
 مارخور	dall sheep	1	1	0	0
 مارخور	dead eater	1	0	1	0
-مارخور	mar-khor (large species of wild goat)	1	0	1	0
 مارخور	died	1	0	1	0
 جبڑہ	mandible	1	1	0	0
 جبڑہ	jaw	1	1	0	0
@@ -16273,7 +16098,6 @@
 فصیل	huge	0	0	1	0
 فصیل	bulwark	0	0	1	0
 نازی	nazi	0	0	1	0
-نازی	luftwaffe	0	0	1	0
 جماعت	group	0	0	1	0
 جماعت	class	0	0	1	0
 جماعت	team	0	0	1	0
@@ -16316,7 +16140,6 @@
 غنیمت	remaings	0	0	1	0
 غنیمت	opportunity	0	0	1	0
 نازک	weak	0	0	1	0
-نازک	hard	0	0	1	0
 نازک	soft	0	0	1	0
 دہی	vote	0	0	1	0
 عائد	implement	0	0	1	0
@@ -16387,7 +16210,6 @@
 ﮐﻼﺷﻨﮑﻮﻑ	klashankoff	0	0	1	0
 ﮐﻼﺷﻨﮑﻮﻑ	gun	0	0	1	0
 سرگودھا	sargodha	0	0	1	0
-کلہوڑا	kalhoora	0	0	1	0
 جانے	go	0	0	1	0
 جانے	went	0	0	1	0
 آمریکی	american	0	0	1	0
@@ -16406,9 +16228,9 @@
 باطن	hidden	0	0	1	0
 باطن	esoteric	0	0	1	0
 باطن	inner	0	0	1	0
-باطل	invalidate	0	0	1	0
-باطل	vanished	0	0	1	0
 باطل	lie	0	0	1	0
+باطل	vanished	0	0	1	0
+باطل	invalidate	0	0	1	0
 اجزاء	parts	0	0	1	0
 اجزاء	ingredent	0	0	1	0
 اجزاء	ingredients	0	0	1	0
@@ -16477,8 +16299,8 @@
 کثرت	https	0	0	1	0
 کثرت	excess	0	0	1	0
 درمیان	during	0	0	1	0
-درمیان	between	0	0	1	0
 درمیان	centre	0	0	1	0
+درمیان	between	0	0	1	0
 انکشافات	cleared	0	0	1	0
 انکشافات	revealed	0	0	1	0
 انکشافات	discoveries	0	0	1	0
@@ -16526,7 +16348,6 @@
 تحریریں	writings	0	0	1	0
 مزہ	taste	0	0	1	0
 مزہ	pleasure	0	0	1	0
-مزہ	entertainment	0	0	1	0
 پروردگار	parvardigaar	0	0	1	0
 پروردگار	lord	0	0	1	0
 پروردگار	feeder	0	0	1	0
@@ -16576,7 +16397,6 @@
 عجوبہ	wonder	0	0	1	0
 بخشنے	bless	0	0	1	0
 بخشنے	source	0	0	1	0
-بخشنے	forgive	0	0	1	0
 راول	raul	0	0	1	0
 راول	rawal	0	0	1	0
 گھیرے	control	0	0	1	0
@@ -16603,13 +16423,10 @@
 نھیں	no	0	0	1	0
 چڑھائی	laid	0	0	1	0
 چڑھائی	height	0	0	1	0
-اجزاۓ	ingrediants	0	0	1	0
 اجزاۓ	parts	0	0	1	0
 اجزاۓ	ingredients	0	0	1	0
 پوجا	worshipped	0	0	1	0
 پوجا	worship	0	0	1	0
-مطمئن	satisfy	0	0	1	0
-مطمئن	satisfied	0	0	1	0
 عادات	habits	0	0	1	0
 عادات	aadat	0	0	1	0
 عادات	hobbies	0	0	1	0
@@ -16619,7 +16436,6 @@
 علاقے	areas	0	0	1	0
 جنکی	war	0	0	1	0
 جنکی	which	0	0	1	0
-جنکی	whome	0	0	1	0
 آزما	test	0	0	1	0
 آزما	experiment	0	0	1	0
 فرغانہ	fagana	0	0	1	0
@@ -16772,7 +16588,8 @@
 تفاسیر	explanations	0	0	1	0
 ڈویژن	division	0	0	1	0
 بنگالی	bangali	0	0	1	0
-الٰہی	god	0	0	1	0
+جہل	obscurantism	0	0	1	0
+جہل	jahl	0	0	1	0
 بگڑی	destroyed	0	0	1	0
 بگڑی	bad	0	0	1	0
 بگڑی	going wrong	0	0	1	0
@@ -17024,8 +16841,8 @@
 ہنگامہ	thrill	0	0	1	0
 فلمی	filmi	0	0	1	0
 فلمی	filmatic	0	0	1	0
-ہنگامی	accidental	0	0	1	0
 ہنگامی	emergency	0	0	1	0
+ہنگامی	accidental	0	0	1	0
 گانے	sang	0	0	1	0
 گانے	song	0	0	1	0
 گانے	songs	0	0	1	0
@@ -17121,9 +16938,9 @@
 اہلسنت	ahl sunat	0	0	1	0
 گیااس	when it	0	0	1	0
 گیااس	give	0	0	1	0
-تاجدار	crowned	0	0	1	0
-تاجدار	tajdar	0	0	1	0
 تاجدار	king	0	0	1	0
+تاجدار	tajdar	0	0	1	0
+تاجدار	crowned	0	0	1	0
 کبیرہ	huge	0	0	1	0
 کبیرہ	major	0	0	1	0
 کبیرہ	capital	0	0	1	0
@@ -17451,7 +17268,6 @@
 یونائٹڈ	united	0	0	1	0
 علیحدہ	seperate	0	0	1	0
 علیحدہ	seprate	0	0	1	0
-علیحدہ	separate	0	0	1	0
 توجیہی	attractions	0	0	1	0
 توجیہی	explanation	0	0	1	0
 عکس	reflaction	0	0	1	0
@@ -17588,9 +17404,9 @@
 حلقے	regions	0	0	1	0
 حلقے	situation	0	0	1	0
 حلقے	groups	0	0	1	0
-مرثیہ	elegy	0	0	1	0
-مرثیہ	marsiya	0	0	1	0
 مرثیہ	poetry	0	0	1	0
+مرثیہ	marsiya	0	0	1	0
+مرثیہ	elegy	0	0	1	0
 مائیکروسافٹ	microsoft	0	0	1	0
 جاگیردار	land lord	0	0	1	0
 جاگیردار	landlord	0	0	1	0
@@ -17691,7 +17507,6 @@
 سیب	apple	1	1	0	0
 ابوطالب	abu talib	0	0	1	0
 ابوطالب	abu-talib	0	0	1	0
-دستاویزی	documentry	0	0	1	0
 دستاویزی	documents	0	0	1	0
 دستاویزی	documentary	0	0	1	0
 آں	this	0	0	1	0
@@ -17707,7 +17522,6 @@
 ریڈار	redar	0	0	1	0
 جاہ	place	0	0	1	0
 جاہ	glory	0	0	1	0
-ارجنٹائن	argentanian	0	0	1	0
 ارجنٹائن	argentine	0	0	1	0
 ارجنٹائن	argentena	0	0	1	0
 الحکومت	capital	0	0	1	0
@@ -17717,8 +17531,9 @@
 صفحے	pages	0	0	1	0
 اوکیناوا	okinawa	0	0	1	0
 نئ	new	0	0	1	0
-نا	not	0	0	1	0
-نا	no	0	0	1	0
+نمایاں	feature	0	0	1	0
+نمایاں	significant	0	0	1	0
+نمایاں	prominent	0	0	1	0
 جاۓ	go	0	0	1	0
 جاۓ	be	0	0	1	0
 جاۓ	went	0	0	1	0
@@ -17747,10 +17562,10 @@
 انگیزہ	hormone	0	0	1	0
 قریباً	almost	0	0	1	0
 قریباً	about	0	0	1	0
-قریباً	near	0	0	1	0
 آپ	you	0	0	1	0
-اینساٹزگروپین	"ansatis groupean"	0	0	1	0
-اینساٹزگروپین	german's special task force	0	0	1	0
+مقالے	maqalay	0	0	1	0
+مقالے	post	0	0	1	0
+مقالے	quote	0	0	1	0
 نظریں	eyes	0	0	1	0
 نظریں	sight	0	0	1	0
 اتفاق	agree	0	0	1	0
@@ -17848,9 +17663,7 @@
 صورتوں	forms	0	0	1	0
 صورتوں	shapes	0	0	1	0
 صورتوں	conditions	0	0	1	0
-تلفظ	acent	0	0	1	0
-تلفظ	accent	0	0	1	0
-تلفظ	pronunciation	0	0	1	0
+الٰہی	god	0	0	1	0
 دورانیے	duration	0	0	1	0
 دورانیے	period	0	0	1	0
 دورانیے	period of time	0	0	1	0
@@ -17884,7 +17697,7 @@
 بچا	save	0	0	1	0
 اسکالر	scholors	0	0	1	0
 اسکالر	scholar	0	0	1	0
-فیصلہ	decision	0	0	1	0
+انٹیلیجنس	intelligence	0	0	1	0
 آجکل	now a days	0	0	1	0
 آجکل	now days	0	0	1	0
 افرادی	human	0	0	1	0
@@ -17931,11 +17744,9 @@
 تنظیمات	societies	0	0	1	0
 کھیڑا	khirah	0	0	1	0
 کھیڑا	khera	0	0	1	0
-امتحانات	examinations	0	0	1	0
 امتحانات	examination	0	0	1	0
 امتحانات	results	0	0	1	0
 سلسلے	series	0	0	1	0
-سلسلے	serial	0	0	1	0
 سلسلے	regard	0	0	1	0
 سلسلی	serial	0	0	1	0
 مكانات	houses	0	0	1	0
@@ -17991,9 +17802,8 @@
 امیتابھ	amitabh	0	0	1	0
 وسعت	wide	0	0	1	0
 وسعت	wast	0	0	1	0
-وسعت	expand	0	0	1	0
-گراں	grand	0	0	1	0
 گراں	difficult	0	0	1	0
+گراں	grand	0	0	1	0
 طلب	will	0	0	1	0
 طلب	ask	0	0	1	0
 طلب	demand	0	0	1	0
@@ -18041,7 +17851,6 @@
 لیپانٹو	lepanto	0	0	1	0
 لیپانٹو	lepano	0	0	1	0
 نعرہ	slogan	0	0	1	0
-یر	festival	0	0	1	0
 یر	but	0	0	1	0
 بھوت	ghost	0	0	1	0
 زوروں	strength	0	0	1	0
@@ -18276,8 +18085,8 @@
 حادثے	accident	0	0	1	0
 حادثے	accidents	0	0	1	0
 اپنایا	adopt	0	0	1	0
-اپنایا	owned	0	0	1	0
 اپنایا	adopted	0	0	1	0
+اپنایا	owned	0	0	1	0
 سلیکیٹ	select	0	0	1	0
 حادثہ	accident	0	0	1	0
 فرمائش	desire	0	0	1	0
@@ -18357,7 +18166,6 @@
 معاونین	helper	0	0	1	0
 مصرع	phrase	0	0	1	0
 مصرع	stanza	0	0	1	0
-مصرع	hemistich	0	0	1	0
 ٹنڈو	tandu	0	0	1	0
 بھرےلہجےمیں	full of	0	0	1	0
 بھرےلہجےمیں	accent full of	0	0	1	0
@@ -18406,6 +18214,9 @@
 دارالکتب	library	0	0	1	0
 صحت	health	0	0	1	0
 کمار	kumar	0	0	1	0
+تلفظ	acent	0	0	1	0
+تلفظ	accent	0	0	1	0
+تلفظ	pronunciation	0	0	1	0
 کیلنڈر	calender	0	0	1	0
 انھوں	they	0	0	1	0
 انھوں	he	0	0	1	0
@@ -18419,14 +18230,11 @@
 البخاری	al bukhari	0	0	1	0
 البخاری	al-bukhari	0	0	1	0
 ہاتھوں	hands	0	0	1	0
-گلوکوز	gulucose	0	0	1	0
-گلوکوز	glucose	0	0	1	0
-شوقین	amateur	0	0	1	0
-شوقین	fond	0	0	1	0
-شوقین	fonds	0	0	1	0
+بانیَ	founder	0	0	1	0
+جیمز	james	0	0	1	0
 سکاٹس	scotish	0	0	1	0
-مہلت	chance	0	0	1	0
-مہلت	time	0	0	1	0
+عبید	ubaid	0	0	1	0
+عبید	obeid	0	0	1	0
 سکاٹش	scotish	0	0	1	0
 سسلی	name of an island	0	0	1	0
 سسلی	sisly	0	0	1	0
@@ -18518,7 +18326,6 @@
 امیریکہ	america	0	0	1	0
 دانشوروں	intellectuals	0	0	1	0
 دانشوروں	intellectual	0	0	1	0
-خونی	assassin	0	0	1	0
 خونی	bloody	0	0	1	0
 لوقا	locus	0	0	1	0
 محاذوں	front	0	0	1	0
@@ -18545,8 +18352,6 @@
 برقیات	responsibility	1	0	1	0
 برقیات	elecrtonics	1	0	1	0
 آنکھیں	eyes	0	0	1	0
-کریں	to	0	0	1	0
-کریں	do	0	0	1	0
 بدن	body	0	0	1	0
 بایزید	bayazid	0	0	1	0
 بایزید	byzad	0	0	1	0
@@ -18557,10 +18362,8 @@
 استان	astan	0	0	1	0
 والجماعت	wal jamaat	0	0	1	0
 والجماعت	aljamat	0	0	1	0
-وصال	death	0	0	1	0
 سرنگوں	come down	0	0	1	0
 سرنگوں	tunnels	0	0	1	0
-شدہ	matter	0	0	1	0
 شدہ	archive	0	0	1	0
 خوشی	happiness	0	0	1	0
 رضي	happy	0	0	1	0
@@ -18716,7 +18519,6 @@
 اکنامک	economic	0	0	1	0
 اکنامک	economics	0	0	1	0
 بندوبست	manage	0	0	1	0
-بندوبست	solution	0	0	1	0
 بندوبست	arrangement	0	0	1	0
 ڈھوک	dhok	0	0	1	0
 پاتا	could	0	0	1	0
@@ -18729,9 +18531,9 @@
 پندرھویں	fifteenth	0	0	1	0
 روکنے	ban	0	0	1	0
 روکنے	stop	0	0	1	0
-تعمیری	constructive	0	0	1	0
-تعمیری	constructing	0	0	1	0
 تعمیری	creative	0	0	1	0
+تعمیری	constructing	0	0	1	0
+تعمیری	constructive	0	0	1	0
 وسیلی	resource	0	0	1	0
 وسیلی	uniform	0	0	1	0
 ماضی	past	0	0	1	0
@@ -18773,7 +18575,6 @@
 ھیں	was	0	0	1	0
 ھیں	are	0	0	1	0
 پہنچتے	reach	0	0	1	0
-ولید	name of aperson	0	0	1	0
 ولید	waleed	0	0	1	0
 زمرہخاندان	respectable family	0	0	1	0
 زمرہخاندان	category: family	0	0	1	0
@@ -18825,7 +18626,6 @@
 پہنچتا	reach	0	0	1	0
 سلیماں	solomon	0	0	1	0
 سلیماں	suleman	0	0	1	0
-صدور	presidents	0	0	1	0
 راحت	peace	0	0	1	0
 راحت	relief	0	0	1	0
 خزیمہ	khuzima	0	0	1	0
@@ -18866,14 +18666,12 @@
 لمس	miss	0	0	1	0
 سڑکوں	roads	0	0	1	0
 سڑکوں	road	0	0	1	0
-تفاوت	variance	0	0	1	0
-تفاوت	bias	0	0	1	0
+صدور	presidents	0	0	1	0
 سركاری	goverment	0	0	1	0
 سركاری	government	0	0	1	0
 اکثریتی	majority	0	0	1	0
 اکثریتی	maximise	0	0	1	0
 ایسی	this	0	0	1	0
-ایسی	a caste	0	0	1	0
 ایسی	like	0	0	1	0
 قاہرہ	cairo	0	0	1	0
 قاہرہ	kahira	0	0	1	0
@@ -18992,6 +18790,9 @@
 پستی	downfall	0	0	1	0
 صدی	century	0	0	1	0
 الفریڈ	alfred	0	0	1	0
+برعکس	oppositely	0	0	1	0
+برعکس	against	0	0	1	0
+برعکس	opposite	0	0	1	0
 معتدل	moderate	0	0	1	0
 مقتل	alter	0	0	1	0
 مقتل	killed	0	0	1	0
@@ -19054,7 +18855,6 @@
 ہوچکا	done	0	0	1	0
 ہوچکا	occur	0	0	1	0
 بورڈنگ	boarding	0	0	1	0
-بورڈنگ	playing board	0	0	1	0
 ہتھیار	weapons	0	0	1	0
 ہتھیار	weapon	0	0	1	0
 ہتھیار	wepon	0	0	1	0
@@ -19192,7 +18992,6 @@
 خلیہ	multicellular	0	0	1	0
 احساس	feeling	0	0	1	0
 احساس	realize	0	0	1	0
-احساس	felt	0	0	1	0
 بناتی	make	0	0	1	0
 بناتی	made	0	0	1	0
 یوم	day	0	0	1	0
@@ -19237,8 +19036,8 @@
 مقابلہ	competition	0	0	1	0
 سوئم	sonum	0	0	1	0
 سوئم	sonem	0	0	1	0
-ءء	c-c	0	0	1	0
 ءء	ad = anno domini	0	0	1	0
+ءء	c-c	0	0	1	0
 کلام	to talk with someone	0	0	1	0
 کلام	word	0	0	1	0
 کلام	scripture	0	0	1	0
@@ -19247,9 +19046,7 @@
 حیثیت	importance	0	0	1	0
 حیثیت	position	0	0	1	0
 حیثیت	status	0	0	1	0
-مواصلاتی	matters	0	0	1	0
 مواصلاتی	telecommunication	0	0	1	0
-مواصلاتی	communication	0	0	1	0
 گرمیاں	summer	0	0	1	0
 گرمیاں	summers	0	0	1	0
 بہتا	flow	0	0	1	0
@@ -19376,13 +19173,12 @@
 حقدار	entitled	0	0	1	0
 زمرہبراعظم	category: continent	0	0	1	0
 زمرہبراعظم	important classification	0	0	1	0
-جفت	even	0	0	1	0
 جفت	pair	0	0	1	0
+جفت	even	0	0	1	0
 جفت	plural	0	0	1	0
 مقدونویوں	maqdones	0	0	1	0
 مقدونویوں	maqdonwi	0	0	1	0
 کیوبیک	quebec	0	0	1	0
-کیوبیک	cubic	0	0	1	0
 جنت	heaven	0	0	1	0
 جنت	paradise	0	0	1	0
 شہزاد	shahzad	0	0	1	0
@@ -19442,7 +19238,6 @@
 اساسی	basic	0	0	1	0
 سرکلر	circler	0	0	1	0
 سرکلر	circular	0	0	1	0
-ہلاکت	death	0	0	1	0
 ہلاکت	dead	0	0	1	0
 ہلاکت	deaths	0	0	1	0
 ملوث	involve	0	0	1	0
@@ -19495,7 +19290,6 @@
 احمدی	ahmadi	0	0	1	0
 قبروں	graves	0	0	1	0
 نکا	nikaa	0	0	1	0
-نکا	fixed	0	0	1	0
 نکا	out	0	0	1	0
 افروز	fulfilling	0	0	1	0
 افروز	think	0	0	1	0
@@ -19508,7 +19302,6 @@
 مٹی	sand	0	0	1	0
 کاغذات	documents	0	0	1	0
 کاغذات	pages	0	0	1	0
-مصفاہ	filter	0	0	1	0
 خدائی	godly	0	0	1	0
 خدائی	divine	0	0	1	0
 خدائی	be in a pitiable state	0	0	1	0
@@ -19543,7 +19336,6 @@
 قراقرم	quraqarm	0	0	1	0
 قراقرم	karakam	0	0	1	0
 قراقرم	karakoram	0	0	1	0
-جانشین	lovely	0	0	1	0
 جانشین	successor	0	0	1	0
 نکل	out	0	0	1	0
 پارہ	fragment	0	0	1	0
@@ -19581,15 +19373,13 @@
 معدہ	stomach	1	1	1	0
 معدہ	bella	1	0	1	0
 ہیںان	hnan	0	0	1	0
-ہیںان	seclusion	0	0	1	0
-بظاہر	seems	0	0	1	0
 بظاہر	apparently	0	0	1	0
+بظاہر	seems	0	0	1	0
 بظاہر	therefore	0	0	1	0
 اسنے	him	0	0	1	0
 اسنے	he	0	0	1	0
 ت	t	0	0	1	0
 دارالعلوم	head institution	0	0	1	0
-دارالعلوم	darulaloom	0	0	1	0
 معدے	internal system	0	0	1	0
 معدے	stomach	0	0	1	0
 اگیا	came	0	0	1	0
@@ -19665,11 +19455,10 @@
 کروا	done	0	0	1	0
 اخذ	collect	0	0	1	0
 اخذ	derived	0	0	1	0
-اخذ	refer	0	0	1	0
 معدن	mineral	0	0	1	0
-بندے	man	0	0	1	0
-بندے	people / mans	0	0	1	0
 بندے	people	0	0	1	0
+بندے	people / mans	0	0	1	0
+بندے	man	0	0	1	0
 بھارتی	indian	0	0	1	0
 اقدام	action	0	0	1	0
 اقدام	steps	0	0	1	0
@@ -19731,8 +19520,8 @@
 ضابطہ	order	0	0	1	0
 ضابطہ	rule	0	0	1	0
 تبارک	giver	0	0	1	0
-آوازوں	sounds	0	0	1	0
-آوازوں	voices	0	0	1	0
+امت	community	0	0	1	0
+امت	nation	0	0	1	0
 امريکی	american	0	0	1	0
 امريکی	americans	0	0	1	0
 میلاد	meelad	0	0	1	0
@@ -19773,7 +19562,6 @@
 نوعیت	quality or particular nature	0	0	1	0
 برما	burma	0	0	1	0
 برما	berma	0	0	1	0
-برما	place name	0	0	1	0
 ترجیحات	preferrences	0	0	1	0
 ترجیحات	preferences	0	0	1	0
 ترجیحات	priorities	0	0	1	0
@@ -19801,7 +19589,6 @@
 فیتہ	ribbon	0	0	1	0
 فیتہ	strip	0	0	1	0
 میلان	gradient	0	0	1	0
-میلان	milan	0	0	1	0
 میلان	melan	0	0	1	0
 مارہروی	marhori	0	0	1	0
 مارہروی	marharwi	0	0	1	0
@@ -19855,9 +19642,7 @@
 شمولیت	joining	0	0	1	0
 آئینی	consituation	0	0	1	0
 آئینی	constitutional	0	0	1	0
-فونیقی	foneeq	0	0	1	0
 فونیقی	phoenicia	0	0	1	0
-فونیقی	fast	0	0	1	0
 مقناطیسی	magnetic	0	0	1	0
 ازسر	again	0	0	1	0
 ازسر	azsr	0	0	1	0
@@ -20001,7 +19786,6 @@
 پولینڈ	poland	0	0	1	0
 افسوس	sorrow	0	0	1	0
 افسوس	sorry	0	0	1	0
-افسوس	sad	0	0	1	0
 زمرہخلیفہ	category: khalif	0	0	1	0
 زمرہخلیفہ	caliph	0	0	1	0
 زمرہخلیفہ	steward leader	0	0	1	0
@@ -20094,8 +19878,9 @@
 نیو	new	0	0	1	0
 کبیر	big	0	0	1	0
 کبیر	great	0	0	1	0
-پروٹسٹنٹ	protestants	0	0	1	0
-پروٹسٹنٹ	protest	0	0	1	0
+خوب	great	0	0	1	0
+خوب	much	0	0	1	0
+خوب	nice	0	0	1	0
 خوش	happy	0	0	1	0
 فلسطینیوں	palestines	0	0	1	0
 فلسطینیوں	palestanians	0	0	1	0
@@ -20146,8 +19931,7 @@
 صحافت	journalism	0	0	1	0
 حمزہ	hamza	0	0	1	0
 باغیچہ	garden	0	0	1	0
-نیٹ	net	0	0	1	0
-نیٹ	neat	0	0	1	0
+وصال	death	0	0	1	0
 جغرافیائی	geographically	0	0	1	0
 جغرافیائی	geographic	0	0	1	0
 ف	f	0	0	1	0
@@ -20254,7 +20038,6 @@
 نمو	growth	0	0	1	0
 نمو	increment	0	0	1	0
 پاروں	paras	0	0	1	0
-پاروں	lessons	0	0	1	0
 پاروں	parts	0	0	1	0
 ٹکڑے	part	0	0	1	0
 ٹکڑے	parts	0	0	1	0
@@ -20325,8 +20108,8 @@
 زمرے	categories	0	0	1	0
 لفظ	word	0	0	1	0
 ناگوار	in appropriate	0	0	1	0
-ناگوار	unpleasant / offensive	0	0	1	0
 ناگوار	aggressive	0	0	1	0
+ناگوار	unpleasant / offensive	0	0	1	0
 نصیر	naseer	0	0	1	0
 گردش	circle	0	0	1	0
 گردش	rotate	0	0	1	0
@@ -20359,8 +20142,8 @@
 گامزن	send / direct towards	0	0	1	0
 روکا	stop	0	0	1	0
 بخشیش	baksheesh	0	0	1	0
-بخشیش	forgiveness	0	0	1	0
 بخشیش	bakhshah	0	0	1	0
+بخشیش	forgiveness	0	0	1	0
 کانفر	conference	0	0	1	0
 کانفر	confer	0	0	1	0
 بلڈ	blood	0	0	1	0
@@ -20454,13 +20237,12 @@
 نیز	and	0	0	1	0
 نیز	so	0	0	1	0
 نیز	e.g	0	0	1	0
-معاشر	environment	0	0	1	0
 معاشر	society	0	0	1	0
 معاشر	societies	0	0	1	0
 کائناتی	universal	0	0	1	0
-میرٹھ	miruth	0	0	1	0
 میرٹھ	meerath	0	0	1	0
 میرٹھ	merith	0	0	1	0
+میرٹھ	miruth	0	0	1	0
 خدا	god	0	0	1	0
 خدا	allah	0	0	1	0
 پچاس	fifty	0	0	1	0
@@ -20495,7 +20277,6 @@
 سیلیکان	silicon	0	0	1	0
 سیلیکان	chemical	0	0	1	0
 مدّت	duration	0	0	1	0
-مدّت	time duration	0	0	1	0
 توازن	balance	0	0	1	0
 توازن	equal	0	0	1	0
 مناسب	sufficient	0	0	1	0
@@ -20530,7 +20311,6 @@
 افریقی-امریکی	african - american	1	1	0	0
 افریقی-امریکی	african-american	1	1	0	0
 افریقی-امریکی	african american	1	1	0	0
-مادیت	valuation	0	0	1	0
 مادیت	materiality	0	0	1	0
 مادیت	materialism	0	0	1	0
 گداز	song	0	0	1	0
@@ -20568,7 +20348,6 @@
 طے	fixed	0	0	1	0
 طے	done	0	0	1	0
 کرا	did	0	0	1	0
-کرا	do	0	0	1	0
 وقفے	break	0	0	1	0
 وقفے	period	0	0	1	0
 تعجب	amazed	0	0	1	0
@@ -20615,7 +20394,6 @@
 تقریباً	approximately	0	0	1	0
 سکے	do	0	0	1	0
 سکے	could	0	0	1	0
-اطالوی	information	0	0	1	0
 اطالوی	italian	0	0	1	0
 معین	moin	0	0	1	0
 معین	mu'ein	0	0	1	0

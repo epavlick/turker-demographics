@@ -1,5 +1,4 @@
 vanligast	most	0	0	1	0
-vanligast	most common	0	0	1	0
 vanligast	most usual	0	0	1	0
 nordisk	norse	0	0	1	0
 nordisk	nordic	0	0	1	0
@@ -17,7 +16,6 @@ jihad	johad	0	0	1	0
 jihad	jihad	0	0	1	0
 elva	eleven	0	0	1	1
 invandrare	immigrants	0	0	1	0
-invandrare	immigrant	0	0	1	1
 luleå	luleå	0	0	1	0
 albumet	album	0	0	1	0
 besättningen	crew	0	0	1	0
@@ -115,7 +113,6 @@ brottslighet	criminality	0	0	1	1
 brottslighet	crime	0	0	1	1
 miljarder	billion	0	0	1	0
 miljarder	billions	0	0	1	0
-karin	karin	0	0	1	0
 systematiska	systematic	0	0	1	0
 systematiska	systematical	0	0	1	0
 unik	unique	0	0	1	1
@@ -136,7 +133,6 @@ dna	dna	0	0	1	0
 sjukdomen	disease	0	0	1	0
 strikt	strict	0	0	1	0
 hårdast	the most	0	0	1	0
-hårdast	the hardest	0	0	1	0
 hårdast	hardest	0	0	1	0
 fuktiga	damp	0	0	1	0
 fuktiga	futiga	0	0	1	0
@@ -157,9 +153,8 @@ holm	holm	0	0	1	0
 jordbävningar	earthquakes	0	0	1	0
 politiker	politicians	0	0	1	0
 politiker	politician	0	0	1	1
-slutligen	back end	0	0	1	0
-slutligen	at last	0	0	1	1
 slutligen	finally	0	0	1	1
+slutligen	back end	0	0	1	0
 bulgariska	bulgarian	0	0	1	0
 temperaturen	temperature	0	0	1	0
 kalksten	limestone	0	0	1	1
@@ -186,9 +181,8 @@ befolkningsutveckling	population growth	0	0	1	0
 stommen	body	0	0	1	0
 stommen	frame	0	0	1	0
 stommen	the foundation	0	0	1	0
-gjordes	made	0	0	1	0
-gjordes	was	0	0	1	0
-gjordes	was made	0	0	1	0
+passagerare	passengers	0	0	1	0
+passagerare	passenger	0	0	1	1
 kapitalismen	capitalism	0	0	1	0
 want	want	0	0	1	0
 absoluta	absolute	0	0	1	0
@@ -208,7 +202,6 @@ hos	of	0	0	1	0
 folkmusik	folk music	0	0	1	1
 könsorganen	sex organs	0	0	1	0
 könsorganen	the reproductive organs	0	0	1	0
-könsorganen	the genitals	0	0	1	0
 koncentrationsläger	concentration	0	0	1	0
 koncentrationsläger	concentration camp	0	0	1	1
 koncentrationsläger	concentration camps; kz-camps	0	0	1	0
@@ -232,7 +225,9 @@ arbeten	works	0	0	1	0
 deutsche	deutsche	0	0	1	0
 köper	making	0	0	1	0
 köper	buys	0	0	1	0
-wind	wind	0	0	1	0
+månens	the moon's	0	0	1	0
+månens	the moons	0	0	1	0
+månens	moon	0	0	1	0
 promemoria	short essay	1	0	1	0
 promemoria		1	0	1	0
 promemoria	memo	1	1	0	0
@@ -284,7 +279,6 @@ wales	wales	0	0	1	1
 små	small	0	0	1	1
 små	little	0	0	1	0
 assyriska	assyrian	0	0	1	0
-fil	master of	0	0	1	0
 fil	file	0	0	1	1
 hemlighet	secretly	0	0	1	0
 hemlighet	darkness	0	0	1	1
@@ -306,7 +300,6 @@ debut	debut	0	0	1	1
 utveckling	development	0	0	1	1
 utvecklad	developed	0	0	1	0
 påven	the pope	0	0	1	0
-påven	paven	0	0	1	0
 påven	pope	0	0	1	0
 köpenhamn	copenhagen	0	0	1	1
 ingrid	ingrid	0	0	1	0
@@ -388,7 +381,8 @@ tyckte	thought	0	0	1	0
 tyckte	found	0	0	1	0
 tyckte	find	0	0	1	0
 tree	tree	0	0	1	0
-gator	streets	0	0	1	0
+upplysningstiden	enlightenment	0	0	1	0
+upplysningstiden	age of enlightenment	0	0	1	0
 nations	nations	0	0	1	0
 nations	nation	0	0	1	0
 trey	trey	0	0	1	0
@@ -401,7 +395,6 @@ tretton	thirteen	0	0	1	1
 obligatorisk	obligatory	0	0	1	1
 obligatorisk	mandatory	0	0	1	1
 järnväg	railroad	0	0	1	1
-järnväg	rail	0	0	1	1
 järnväg	railway	0	0	1	1
 assistent	assistant	0	0	1	1
 kriterierna	criteria	0	0	1	0
@@ -425,11 +418,9 @@ kroatien	croatia	0	0	1	1
 händerna	the hands	0	0	1	0
 händerna	hands	0	0	1	0
 konstnärlig	art	0	0	1	0
-konstnärlig	artistic	0	0	1	1
 krigsmakt	military power	0	0	1	0
 krigsmakt	armed forces	0	0	1	0
 fastän	although	0	0	1	1
-skaffa	obtain	0	0	1	1
 skaffa	gain	0	0	1	0
 skaffa	get	0	0	1	1
 spelningar	tour	0	0	1	0
@@ -446,7 +437,6 @@ konserthus	concert hall	0	0	1	0
 konserthus	concert	0	0	1	0
 victoria	victoria	0	0	1	0
 gallagher	gallagher	0	0	1	0
-medlemsstaterna	member	0	0	1	0
 medlemsstaterna	member states	0	0	1	0
 anteckningar	notes	0	0	1	0
 bedriva	carry	0	0	1	0
@@ -466,7 +456,6 @@ camp	camp	0	0	1	0
 nederbörden	precipitation	0	0	1	0
 nederbörden	the precipitation	0	0	1	0
 mängd	volume	0	0	1	0
-mängd	amount	0	0	1	1
 mängd	laden	0	0	1	0
 grovt	heavy	0	0	1	0
 grovt	rough	0	0	1	0
@@ -520,7 +509,6 @@ lyssna	listen	0	0	1	1
 begravning	funeral	0	0	1	1
 stödde	supported	0	0	1	0
 medfört	resulted	0	0	1	0
-medfört	led to	0	0	1	0
 hantverk	crafting	0	0	1	0
 hantverk	crafts	0	0	1	1
 kallt	cold	0	0	1	0
@@ -584,7 +572,6 @@ rollen	the role	0	0	1	0
 henrik	henrik	0	0	1	0
 tropisk	tropical	0	0	1	1
 lanserades	launched	0	0	1	0
-lanserades	was launched	0	0	1	0
 bestämma	determining	0	0	1	0
 bestämma	decide	0	0	1	1
 tilldelades	awarded	0	0	1	0
@@ -623,7 +610,6 @@ anordnas	provided	0	0	1	0
 anordnas	arranged	0	0	1	0
 anordnas	organised	0	0	1	0
 nordiskt	nordic	0	0	1	0
-genus	gender	0	0	1	1
 genus	genus	0	0	1	0
 logik	logic	0	0	1	1
 summan	sum	0	0	1	0
@@ -653,10 +639,8 @@ socialistiskt	socialist	0	0	1	0
 fru	madam	0	0	1	0
 fru	mrs.	0	0	1	1
 fru	wife	0	0	1	1
-verktyg	tool	0	0	1	1
 verktyg	tools	0	0	1	0
-socialistiska	socialistic	0	0	1	0
-socialistiska	socialist	0	0	1	0
+barndom	childhood	0	0	1	1
 life	life	0	0	1	0
 snittet	average	0	0	1	0
 snittet	the intersection	0	0	1	0
@@ -676,8 +660,8 @@ intag	intake	0	0	1	1
 slutliga	evenutal	0	0	1	0
 slutliga	final	0	0	1	0
 slutliga	ultimate	0	0	1	0
-frankrikes	france's	0	0	1	0
 frankrikes	frances	0	0	1	0
+frankrikes	france's	0	0	1	0
 önskemål	desire	0	0	1	1
 önskemål	requests	0	0	1	0
 önskemål	demands	0	0	1	0
@@ -704,7 +688,7 @@ kurderna	kurds	0	0	1	0
 player	player	0	0	1	0
 fascismen	the fascism	0	0	1	0
 fascismen	fascism	0	0	1	0
-bristen	lack of	0	0	1	0
+emo	emo	0	0	1	0
 bristen	lack	0	0	1	0
 folkmängd	population size	0	0	1	0
 folkmängd	population	0	0	1	1
@@ -719,9 +703,7 @@ azidgrupp	azite group	1	0	1	0
 azidgrupp	azid group	1	1	0	0
 azidgrupp	azide group	1	1	0	0
 azidgrupp	azidgrupp	1	0	1	0
-memorial	memorial	0	0	1	0
 serbisk	serbian	0	0	1	1
-vrida	twist	0	0	1	1
 vrida	turn	0	0	1	1
 vrida	turning	0	0	1	0
 foton	images	0	0	1	0
@@ -801,7 +783,6 @@ hav	seas	0	0	1	0
 hav	sea	0	0	1	1
 hav	ocean	0	0	1	1
 kön	gender	0	0	1	1
-kön	sex	0	0	1	1
 underliggande	underlying	0	0	1	1
 svensson	svensson	0	0	1	0
 svensson	smith	0	0	1	0
@@ -811,17 +792,17 @@ livsstil	life style	0	0	1	0
 livsstil	lifestyle	0	0	1	0
 älskar	loves	0	0	1	0
 kör	run	0	0	1	0
-melodifestivalen	eurovision song contest	0	0	1	0
 melodifestivalen	music festival	0	0	1	0
+melodifestivalen	eurovision song contest	0	0	1	0
 köp	purchase	0	0	1	1
-county	county	0	0	1	0
+inleddes	started	0	0	1	0
+inleddes	initiated	0	0	1	0
 bobby	bobby	0	0	1	0
 tågen	train	0	0	1	0
 tågen	the trains	0	0	1	0
 sedlar	bills	0	0	1	0
 alice	alice	0	0	1	0
-kust	coastal	0	0	1	0
-kust	coast	0	0	1	1
+konsert	concert	0	0	1	1
 residensstad	city of residence	0	0	1	0
 residensstad	county seat	0	0	1	0
 tåget	train	0	0	1	0
@@ -851,12 +832,10 @@ föga	little	0	0	1	1
 föga	hardly; little	0	0	1	0
 for	for	0	0	1	0
 varierande	variable	0	0	1	1
-varierande	varied	0	0	1	1
 varierande	varying	0	0	1	1
 fox	fox	0	0	1	0
 utser	chooses	0	0	1	0
 utser	appoints	0	0	1	0
-utses	is appointed	0	0	1	0
 utses	designated	0	0	1	0
 utses	appointed	0	0	1	0
 akademi	academy	0	0	1	1
@@ -947,7 +926,6 @@ syften	purpose	0	0	1	0
 pest	plague	0	0	1	1
 syftet	purpose	0	0	1	0
 tänderna	tandem	0	0	1	0
-tänderna	teeh	0	0	1	0
 tänderna	teeth	0	0	1	0
 mörka	dark	0	0	1	0
 mörka	morka	0	0	1	0
@@ -962,11 +940,11 @@ modernt	modern	0	0	1	0
 länder	states	0	0	1	0
 länder	countries	0	0	1	0
 ericsson	ericsson	0	0	1	0
-nämnts	mentioned	0	0	1	0
-nämnts	above	0	0	1	0
+avskaffade	abolished	0	0	1	0
+avskaffade	absolished	0	0	1	0
 nordväst	north west	0	0	1	0
 nordväst	northwest	0	0	1	0
-elektromagnetisk	electromagnetic	0	0	1	0
+astronomiska	astronomical	0	0	1	0
 huvudperson	main person; main character	0	0	1	0
 huvudperson	protagonist	0	0	1	1
 huvudperson	main character	0	0	1	0
@@ -1060,8 +1038,7 @@ hörde	heard	0	0	1	0
 inhemska	native	0	0	1	0
 smålands	smaland's	0	0	1	0
 smålands	småland	0	0	1	0
-energin	the energy	0	0	1	0
-energin	energy	0	0	1	0
+saab	saab	0	0	1	0
 oppositionen	opposition	0	0	1	0
 modersmål	native language	0	0	1	1
 modersmål	mother tongue	0	0	1	1
@@ -1131,8 +1108,7 @@ resande	travelling	0	0	1	1
 love	love	0	0	1	0
 beläget	located	0	0	1	0
 beläget	base	0	0	1	0
-tidskriften	the magazine	0	0	1	0
-tidskriften	magazine	0	0	1	0
+publicera	publish	0	0	1	1
 kommit	to be	0	0	1	0
 kommit	come	0	0	1	0
 rocksångare	rock singers	0	0	1	0
@@ -1162,12 +1138,11 @@ neologi	neologi	1	0	1	0
 neologi	planned	1	0	1	0
 neologi	a new logical	1	1	0	0
 neologi	girl	1	0	1	0
-judarna	the jews	0	0	1	0
-judarna	jews	0	0	1	0
-judarna	therefore	0	0	1	0
+spridd	wide spread	0	0	1	0
+spridd	widespread	0	0	1	0
+spridd	spread	0	0	1	0
 positivt	positive	0	0	1	0
 samlag	intercourse	0	0	1	0
-stärktes	was strengthened	0	0	1	0
 stärktes	strengthened	0	0	1	0
 stärktes	was strenghten	0	0	1	0
 ökade	increased	0	0	1	0
@@ -1405,8 +1380,8 @@ byta	change	0	0	1	1
 byta	trade	0	0	1	1
 sedd	seen	0	0	1	0
 pund	pound	0	0	1	1
-artister	artists	0	0	1	0
 artister	performers	0	0	1	0
+artister	artists	0	0	1	0
 punk	punk rock	0	0	1	0
 punk	punk	0	0	1	0
 punk	para	0	0	1	0
@@ -1434,7 +1409,8 @@ open	open	0	0	1	1
 ont	bad	0	0	1	0
 urin	urine	0	0	1	1
 city	city	0	0	1	0
-tekniska	technical	0	0	1	0
+kraftigare	greater	0	0	1	0
+kraftigare	more powerfully	0	0	1	0
 uppnådde	met	0	0	1	0
 uppnådde	achieved	0	0	1	0
 flytande	floating	0	0	1	1
@@ -1471,7 +1447,6 @@ fiskar	fish	0	0	1	0
 uppenbarelser	revelations	0	0	1	0
 berlinmuren	berlin wall	0	0	1	0
 berlinmuren	the berlin wall	0	0	1	0
-föreslagit	suggested	0	0	1	0
 föreslagit	proposed	0	0	1	0
 uppfördes	was constructed	0	0	1	0
 uppfördes	built	0	0	1	0
@@ -1486,11 +1461,10 @@ san	san	0	0	1	0
 sam	co	0	0	1	0
 generation	generation	0	0	1	0
 konsekvenser	consequences	0	0	1	0
-argument	argument	0	0	1	1
 argument	arguments	0	0	1	0
+argument	argument	0	0	1	1
 överhuvudtaget	in general	0	0	1	0
 överhuvudtaget	generally	0	0	1	0
-överhuvudtaget	on the whole	0	0	1	1
 burundi	burundi	0	0	1	0
 allen	allen	0	0	1	0
 turner	tournament	0	0	1	0
@@ -1499,7 +1473,6 @@ staden	the city	0	0	1	0
 priserna	prices	0	0	1	0
 priserna	the prices	0	0	1	0
 indelad	divided	0	0	1	0
-skickades	was sent	0	0	1	0
 skickades	sent	0	0	1	0
 takt	rate	0	0	1	1
 zon	zone	0	0	1	1
@@ -1549,17 +1522,16 @@ driva	operate	0	0	1	1
 driva	run	0	0	1	0
 phil	phil	0	0	1	0
 inledningen	introduction	0	0	1	0
-inledningen	the beginning	0	0	1	0
-inledningen	the introduction	0	0	1	0
 ursprung	origin	0	0	1	1
 ursprung	root	0	0	1	1
 fredspriset	nobel peace prize	0	0	1	0
-fredspriset	peace price	0	0	1	0
 fredspriset	peace prize	0	0	1	0
 rykte	reputation	0	0	1	1
 sades	said	0	0	1	0
 sades	was said	0	0	1	0
-katekes	catechism	0	0	1	1
+drivs	driven	0	0	1	0
+drivs	run	0	0	1	0
+drivs	powered	0	0	1	0
 engagemang	commitment	0	0	1	1
 olagligt	illegal	0	0	1	0
 axl	axl	0	0	1	0
@@ -1576,16 +1548,17 @@ börje	borje	0	0	1	0
 börje	börje	0	0	1	0
 antalet	number	0	0	1	0
 antalet	the number	0	0	1	0
-föreningen	the association	0	0	1	0
-föreningen	association	0	0	1	0
 föreningen	compound	0	0	1	0
+föreningen	association	0	0	1	0
+föreningen	the association	0	0	1	0
 slog	hit	0	0	1	0
 hockey	ice hockey	0	0	1	1
 hockey	hockey	0	0	1	1
 caroline	caroline	0	0	1	0
 carolina	carolina	0	0	1	0
 beatles	beatles	0	0	1	0
-kategorimusik	category music	0	0	1	0
+asteroidbältet	asteroid belt	0	0	1	0
+asteroidbältet	the asteroid belt	0	0	1	0
 fader	father	0	0	1	1
 populär	popular	0	0	1	1
 berör	affecting	0	0	1	0
@@ -1649,7 +1622,6 @@ amerikanske	the american	0	0	1	0
 awards	awards	0	0	1	0
 jobb	job	0	0	1	1
 jobb	work	0	0	1	1
-amerikanska	u.s.	0	0	1	0
 amerikanska	american	0	0	1	0
 mariette	mariette	0	0	1	0
 basisten	basist	0	0	1	0
@@ -1659,9 +1631,7 @@ skär	will	0	0	1	0
 skär	cut	0	0	1	0
 skär	skerry	0	0	1	1
 mans	man's	0	0	1	0
-föras	be	0	0	1	0
-föras	be brought	0	0	1	0
-föras	taken to	0	0	1	0
+nationell	national	0	0	1	1
 rädsla	fear	0	0	1	1
 s	s	0	0	1	0
 hälsa	health	0	0	1	1
@@ -1680,8 +1650,8 @@ klimat	climate	0	0	1	1
 hamnade	landed	0	0	1	0
 hamnade	ended up	0	0	1	0
 anta	assume	0	0	1	0
-anta	adopting	0	0	1	0
 anta	assume; adopt	0	0	1	0
+anta	adopting	0	0	1	0
 samtal	call	0	0	1	1
 samtal	conersation	0	0	1	0
 drogs	was pulled	0	0	1	0
@@ -1732,18 +1702,15 @@ aluminium	aluminum	0	0	1	1
 förlorat	lost	0	0	1	0
 startar	begins	0	0	1	0
 startar	start	0	0	1	0
-startar	starts	0	0	1	0
 bror	brother	0	0	1	1
 bron	bridge	0	0	1	0
 bron	the bridge	0	0	1	0
 jenny	jenny	0	0	1	0
 bestämmelser	regulations	0	0	1	0
-bestämmelser	measures	0	0	1	0
 bestämmelser	conditions	0	0	1	0
 sammanfaller	coinciding	0	0	1	0
 sammanfaller	coincides	0	0	1	0
-omnämns	mentioned	0	0	1	0
-omnämns	is mentioned	0	0	1	0
+medlemmar	members	0	0	1	0
 hästens	horses	0	0	1	0
 hästens	horse's	0	0	1	0
 hästens	horse	0	0	1	0
@@ -1800,7 +1767,6 @@ rest	residual	0	0	1	1
 rest	rest	0	0	1	1
 tätorten	conurbation	0	0	1	0
 tätorten	agglomeration	0	0	1	0
-bergman	bergman	0	0	1	0
 koncentration	concentration	0	0	1	1
 utnyttja	use	0	0	1	1
 psykologisk	psychological	0	0	1	1
@@ -1846,13 +1812,12 @@ huvudvärk	headache	0	0	1	1
 återkom	feedback	0	0	1	0
 vinkel	angle	0	0	1	1
 dark	dark	0	0	1	0
-regim	regimen	0	0	1	1
-regim	regime	0	0	1	1
+jorderosion	earth erosion	0	0	1	0
+jorderosion	soil erosion	0	0	1	0
 unesco	unesco	0	0	1	0
 skadade	wounded	0	0	1	0
 skadade	damaged	0	0	1	0
 stammar	strains	0	0	1	0
-stammar	stutters	0	0	1	0
 stammar	tribes	0	0	1	0
 statsreligion	state religion	0	0	1	0
 bekräftar	confirmed	0	0	1	0
@@ -1861,7 +1826,6 @@ bekräftar	confirming	0	0	1	0
 framsteg	progress	0	0	1	1
 bekräftat	confirmed	0	0	1	0
 träda	esterified	0	0	1	0
-träda	emerge	0	0	1	0
 träda	fallow	0	0	1	1
 tvserie	tv serial	0	0	1	0
 tsunami	tsunami	0	0	1	0
@@ -1870,11 +1834,9 @@ stupade	fallen	0	0	1	0
 stupade	killed	0	0	1	0
 fossila	fossilized	0	0	1	0
 fossila	fossil	0	0	1	0
-inter	inter	0	0	1	0
 intet	nothing	0	0	1	1
 intet	no	0	0	1	0
 magnetfält	magnetic	0	0	1	0
-magnetfält	magnetic field	0	0	1	1
 brita	brita	0	0	1	0
 domkyrkan	cathedral	0	0	1	0
 domkyrkan	the cathedral	0	0	1	0
@@ -1937,7 +1899,6 @@ upplevelser	experiences	0	0	1	0
 ronden	round	0	0	1	0
 bryts	breaks	0	0	1	0
 nationalencyklopedin	national encyclopedia	0	0	1	0
-nationalencyklopedin	the national encyclopedia	0	0	1	0
 image	image	0	0	1	1
 partiet	the party	0	0	1	0
 partiet	portion	0	0	1	0
@@ -1950,7 +1911,6 @@ bergen	mountains	0	0	1	0
 het	hot	0	0	1	1
 het	up to date	0	0	1	0
 utövade	exerted	0	0	1	0
-utövade	exercised	0	0	1	0
 kategorifödda	category born	0	0	1	0
 kategorifödda	category: born	0	0	1	0
 kallats	was called	0	0	1	0
@@ -1962,7 +1922,6 @@ förmåga	abilities	0	0	1	0
 förmåga	ability	0	0	1	1
 hel	full	0	0	1	1
 hel	(whole) lot (of)	0	0	1	0
-hem	home	0	0	1	1
 hem	dobladillo	0	0	1	0
 hem	back	0	0	1	0
 hamnen	harbour	0	0	1	0
@@ -2044,18 +2003,16 @@ kvarstod	remained	0	0	1	0
 öland	öland	0	0	1	0
 terra	terra	0	0	1	1
 medverkat	participated	0	0	1	0
-medverkar	contribute	0	0	1	0
 medverkar	contributes	0	0	1	0
+medverkar	contribute	0	0	1	0
 förälskad	in love	0	0	1	1
 terry	terry	0	0	1	0
 ekonomi	economic	0	0	1	0
 ekonomi	economy	0	0	1	1
 dokumentär	documentary	0	0	1	1
-forntida	pristine	0	0	1	1
 forntida	ancient	0	0	1	1
 forntida	prehistoric	0	0	1	0
 kommunen	municipality	0	0	1	0
-kommuner	municipalities	0	0	1	0
 kommuner	local	0	0	1	0
 kommuner	counties	0	0	1	0
 beteckning	indication	0	0	1	1
@@ -2067,7 +2024,6 @@ omgivningen	ambient	0	0	1	0
 hjälp	using	0	0	1	0
 hjälp	help	0	0	1	1
 original	original	0	0	1	1
-original	orignal	0	0	1	0
 islamiska	islamic	0	0	1	0
 resor	travels	0	0	1	0
 resor	travel	0	0	1	0
@@ -2097,7 +2053,7 @@ mildare	milder	0	0	1	0
 mildare	mild	0	0	1	0
 romaner	novels	0	0	1	0
 th	th	0	0	1	0
-nord	north	0	0	1	1
+förändringar	changes	0	0	1	0
 gör	does	0	0	1	0
 gör	makes	0	0	1	0
 te	tea	0	0	1	1
@@ -2122,7 +2078,6 @@ djurarter	species of animals	0	0	1	0
 djurarter	animal species	0	0	1	0
 djurarter	species	0	0	1	0
 borrelia	borrelia	0	0	1	0
-borrelia	borreliosis	0	0	1	0
 venezuela	venezuela	0	0	1	0
 utvisning	penalty	0	0	1	0
 utvisning	expulsion	0	0	1	0
@@ -2138,7 +2093,6 @@ sann	true	0	0	1	1
 samoa	samoa	0	0	1	0
 rapporter	reports	0	0	1	0
 synd	sin	0	0	1	1
-rörde	had something to do with	0	0	1	0
 rörde	touched	0	0	1	0
 rörde	was about	0	0	1	0
 skede	period	0	0	1	1
@@ -2168,7 +2122,6 @@ gjorts	done	0	0	1	0
 full	full	0	0	1	1
 gruppen	the group	0	0	1	0
 gruppen	group	0	0	1	0
-människors	humans	0	0	1	0
 människors	human	0	0	1	0
 människors	people's	0	0	1	1
 arkeologiska	archaeological	0	0	1	0
@@ -2213,7 +2166,6 @@ hamnat	ended up	0	0	1	0
 hamnat	got in to	0	0	1	0
 juridiskt	legally	0	0	1	0
 juridiskt	juridical	0	0	1	0
-juridiskt	judicial	0	0	1	0
 vis	vis	0	0	1	0
 vis	wise	0	0	1	1
 vis	way	0	0	1	1
@@ -2253,19 +2205,16 @@ ragnar	ragnar	0	0	1	0
 uppskattad	estimated	0	0	1	0
 uppskattad	appreciated	0	0	1	0
 ögonen	eyes	0	0	1	0
-ögonen	the eyes	0	0	1	0
 uppskattas	is appreciated	0	0	1	0
 uppskattas	estimated	0	0	1	0
 uppskattas	appreciated	0	0	1	0
-uppskattar	estimated	0	0	1	0
-uppskattar	estimates	0	0	1	0
+protokoll	protocol	0	0	1	1
 schweiz	switzerland	0	0	1	1
 socialt	socially	0	0	1	0
 socialt	social	0	0	1	0
 medelklassen	middle class	0	0	1	0
 science	science	0	0	1	0
 försvarsmakt	armed forces	0	0	1	0
-faser	phase	0	0	1	0
 faser	phases	0	0	1	0
 dancehall	dance hall	0	0	1	0
 dancehall	dancehall	0	0	1	0
@@ -2342,7 +2291,8 @@ tål	stand	0	0	1	0
 tål	is resistant to	0	0	1	0
 nationerna	the nations	0	0	1	0
 nationerna	nations	0	0	1	0
-blommor	flowers	0	0	1	0
+aktiviteten	the level of activity	0	0	1	0
+aktiviteten	activity	0	0	1	0
 resurs	resusrs	1	0	1	0
 resurs	resurs	1	0	1	0
 resurs	resource	1	1	0	1
@@ -2358,10 +2308,8 @@ aktiviteter	activity	0	0	1	0
 årig	minor	0	0	1	0
 radion	the radio	0	0	1	0
 radion	radio	0	0	1	0
-vietnamkriget	the vietnam war	0	0	1	0
 vietnamkriget	vietnam war	0	0	1	0
 läses	read	0	0	1	0
-läses	is read	0	0	1	0
 läser	read	0	0	1	0
 läser	are reading	0	0	1	0
 behålla	container	0	0	1	0
@@ -2402,7 +2350,6 @@ introducerade	introduced	0	0	1	0
 producerade	produced	0	0	1	0
 olycka	incident	0	0	1	0
 olycka	accident	0	0	1	1
-olycka	disaster	0	0	1	1
 tro	believing	0	0	1	0
 tro	think	0	0	1	1
 budskap	message	0	0	1	1
@@ -2414,7 +2361,6 @@ denne	his	0	0	1	0
 denne	that he	0	0	1	0
 denne	he	0	0	1	1
 denna	that	0	0	1	0
-uppehåll	residence	0	0	1	0
 uppehåll	pause	0	0	1	1
 uppehåll	hiatus	0	0	1	0
 några	few	0	0	1	0
@@ -2633,7 +2579,6 @@ uppförande	behavior	0	0	1	1
 detalj	detail	0	0	1	1
 praktiken	effectively	0	0	1	0
 praktiken	practice	0	0	1	0
-praktiken	practically	0	0	1	0
 berömt	famous	0	0	1	0
 berömt	praised	0	0	1	0
 falskt	false	0	0	1	0
@@ -2719,7 +2664,6 @@ uppkomsten	origin	0	0	1	0
 sen	then	0	0	1	1
 sen	since	0	0	1	1
 sorters	kinds	0	0	1	0
-sorters	kinds of	0	0	1	0
 institutet	institute	0	0	1	0
 institutet	the institution	0	0	1	0
 project	project	0	0	1	0
@@ -2746,7 +2690,6 @@ medveten	conscious	0	0	1	1
 avvikelser	abnormalities	0	0	1	0
 avvikelser	deviations	0	0	1	0
 avvikelser	derivations	0	0	1	0
-medvetet	consciously	0	0	1	1
 medvetet	conscious	0	0	1	0
 näringslivet	economic life	0	0	1	0
 näringslivet	industrial life	0	0	1	0
@@ -2757,9 +2700,8 @@ fame	fame	0	0	1	0
 stadsdel	city district	0	0	1	0
 stadsdel	neighborhood	0	0	1	0
 stadsdel	district	0	0	1	1
-utkom	issued	0	0	1	0
-utkom	published	0	0	1	0
-utkom	(was) issued	0	0	1	0
+demografiska	demographic	0	0	1	0
+demografiska	demographical	0	0	1	0
 kategorimän	category: men	0	0	1	0
 kategorimän	category men	0	0	1	0
 släpptes	released	0	0	1	0
@@ -2801,7 +2743,8 @@ fått	was given	0	0	1	0
 fått	with	0	0	1	0
 sommaren	summer	0	0	1	0
 sommaren	the summer	0	0	1	0
-koalition	coalition	0	0	1	1
+pressfrihetsindex	press freedom index	0	0	1	0
+pressfrihetsindex	pressfrihetsindex	0	0	1	0
 potentiellt	potential	0	0	1	0
 kyrilliska	cyrillic	0	0	1	0
 blod	blood	0	0	1	1
@@ -2865,9 +2808,7 @@ kritiker	critiques	0	0	1	0
 objekt	objects	0	0	1	1
 objekt	object	0	0	1	1
 närmade	approached	0	0	1	0
-tecken	signs	0	0	1	0
-tecken	characters	0	0	1	0
-tecken	sign	0	0	1	1
+drömmar	dreams	0	0	1	0
 barnet	child	0	0	1	0
 omvandlar	converts	0	0	1	0
 omvandlar	transmuted	0	0	1	0
@@ -2994,12 +2935,11 @@ utvecklades	developed	0	0	1	0
 utvecklades	(was) developed	0	0	1	0
 påstådda	said	0	0	1	0
 påstådda	alleged	0	0	1	0
-avskaffade	abolished	0	0	1	0
-avskaffade	absolished	0	0	1	0
+nämnts	mentioned	0	0	1	0
+nämnts	above	0	0	1	0
 wallenstein	wallenstein	0	0	1	0
 köra	run	0	0	1	0
 köra	drive	0	0	1	1
-genomfördes	completed	0	0	1	0
 genomfördes	was	0	0	1	0
 genomfördes	was carried out	0	0	1	0
 brasilianska	brasilian	0	0	1	0
@@ -3007,7 +2947,6 @@ brasilianska	brazilian	0	0	1	0
 största	biggest	0	0	1	0
 största	maximum	0	0	1	0
 största	largest	0	0	1	0
-trafiken	traffic	0	0	1	0
 trafiken	the traffic	0	0	1	0
 turnerade	toured	0	0	1	0
 religion	religion	0	0	1	1
@@ -3061,7 +3000,6 @@ aggressiv	aggressive	0	0	1	1
 umgänge	company	0	0	1	1
 umgänge	intercourse	0	0	1	1
 stuart	stuart	0	0	1	0
-fungerande	functioning	0	0	1	0
 fungerande	working	0	0	1	0
 fungerande	effective	0	0	1	0
 papper	paper	0	0	1	1
@@ -3101,8 +3039,8 @@ knuten	bound	0	0	1	0
 knuten	knot	0	0	1	0
 fattigdom	poverty	0	0	1	1
 fattigdom	fattidom	0	0	1	0
-poster	positions	0	0	1	0
 poster	post offices	0	0	1	0
+poster	positions	0	0	1	0
 rött	cane	0	0	1	0
 rött	red	0	0	1	1
 betyda	mean	0	0	1	1
@@ -3116,7 +3054,8 @@ atom	atom	0	0	1	1
 kritisk	critical	0	0	1	1
 line	line	0	0	1	0
 lovade	promised	0	0	1	0
-heinrich	heinrich	0	0	1	0
+lina	line	0	0	1	1
+lina	lina	0	0	1	0
 röster	votes	0	0	1	0
 katoliker	catholics	0	0	1	0
 cia	cia	0	0	1	0
@@ -3192,7 +3131,6 @@ symtom	symptoms	0	0	1	0
 symtom	symptom	0	0	1	0
 produkt	product	0	0	1	1
 texten	text	0	0	1	0
-texten	the text	0	0	1	0
 sawyer	sawyer	0	0	1	0
 texter	texts	0	0	1	0
 båtar	boats	0	0	1	0
@@ -3207,7 +3145,6 @@ utökat	extended	0	0	1	0
 utökat	expanded	0	0	1	0
 anorektiker	anorectics	0	0	1	0
 anorektiker	anorexic	0	0	1	0
-anorektiker	anorectic	0	0	1	0
 turkisk	turkish	0	0	1	1
 dyraste	most expensive	0	0	1	0
 sena	late	0	0	1	0
@@ -3303,7 +3240,6 @@ lyckades	managed	0	0	1	0
 lyckades	succeeded	0	0	1	0
 leo	leo	0	0	1	0
 les	les	0	0	1	0
-let	cleanly	0	0	1	0
 lev	live	0	0	1	0
 lev	lev	0	0	1	0
 talang	talent	0	0	1	1
@@ -3335,7 +3271,6 @@ emot	against	0	0	1	1
 oxenstierna	the oxenstierna	0	0	1	0
 oxenstierna	oxenstierna	0	0	1	0
 mening	meaning	0	0	1	1
-mening	meanings	0	0	1	0
 mening	sentence	0	0	1	1
 fotosyntesen	photosynthesis	0	0	1	0
 anatolien	anatolia	0	0	1	0
@@ -3371,8 +3306,8 @@ tillkännagav	announced	0	0	1	0
 föredrog	prefered	0	0	1	0
 föredrog	preferred	0	0	1	0
 projektet	project	0	0	1	0
-träffas	meet	0	0	1	1
 träffas	reached	0	0	1	0
+träffas	meet	0	0	1	1
 herbert	herbert	0	0	1	0
 siffror	figures	0	0	1	0
 siffror	numbers	0	0	1	0
@@ -3388,7 +3323,6 @@ lokalt	local	0	0	1	0
 bidraget	contribution	0	0	1	0
 bidraget	grant	0	0	1	0
 benämns	designated	0	0	1	0
-benämns	is mentioned	0	0	1	0
 advokat	bar	0	0	1	0
 advokat	lawyer	0	0	1	1
 ortodoxa	orthodox	0	0	1	0
@@ -3411,7 +3345,6 @@ process	process	0	0	1	1
 artiklar	items	0	0	1	0
 etta	number one	0	0	1	0
 etta	one	0	0	1	1
-etta	first	0	0	1	0
 tryckta	printed	0	0	1	0
 high	high	0	0	1	0
 översätts	translated	0	0	1	0
@@ -3485,6 +3418,8 @@ bedöms	evaluated	0	0	1	0
 hunnit	reached	0	0	1	0
 hunnit	had	0	0	1	0
 hunnit	had time to	0	0	1	0
+byttes	changed	0	0	1	0
+byttes	was exchanged	0	0	1	0
 universitetet	the university	0	0	1	0
 universitetet	university	0	0	1	0
 bedöma	judge; decide	0	0	1	0
@@ -3499,7 +3434,6 @@ möjligen	possibly	0	0	1	1
 möjligen	it may have	0	0	1	0
 tecknet	the sign	0	0	1	0
 tecknet	sign	0	0	1	0
-uppdelad	divided	0	0	1	0
 uppdelad	split	0	0	1	0
 puerto	puerto	0	0	1	0
 puerto	port	0	0	1	0
@@ -3507,7 +3441,6 @@ utifrån	from the outside	0	0	1	1
 utifrån	from	0	0	1	0
 ovanlig	unusual	0	0	1	1
 ovanlig	rare	0	0	1	1
-ovanlig	uncommon	0	0	1	1
 konkurs	bankrupcy	0	0	1	0
 konkurs	bankruptcy	0	0	1	1
 bekant	known	0	0	1	1
@@ -3530,8 +3463,8 @@ kiss	kiss	0	0	1	0
 kiss	view	0	0	1	0
 indikerar	indicates	0	0	1	0
 rotation	rotation	0	0	1	1
-ställt	put	0	0	1	0
 ställt	taken	0	0	1	0
+ställt	put	0	0	1	0
 ställt	set	0	0	1	0
 ställs	is	0	0	1	0
 ställs	stalls	0	0	1	0
@@ -3560,7 +3493,6 @@ fjärdedel	quarter	0	0	1	1
 fjärdedel	fourth	0	0	1	1
 intresset	interests	0	0	1	0
 intresset	the interest	0	0	1	0
-intresset	interest	0	0	1	0
 frac	fraction	0	0	1	0
 konsubstantiation	no idea what it means	1	0	1	0
 konsubstantiation	konsubstantiaion	1	0	1	0
@@ -3594,7 +3526,6 @@ release	release	0	0	1	0
 underverk	wonder	0	0	1	1
 underverk	wonders	0	0	1	0
 uppe	(on) top	0	0	1	0
-uppe	top	0	0	1	0
 uppe	up	0	0	1	1
 uppe	above	0	0	1	0
 lundin	lundin	0	0	1	0
@@ -3616,8 +3547,7 @@ krets	circuit	0	0	1	1
 helst	rather	0	0	1	0
 helst	anyone	0	0	1	0
 helst	any time	0	0	1	0
-förstärka	strengthen	0	0	1	1
-förstärka	enhance	0	0	1	0
+davis	davis	0	0	1	0
 förnuftet	reason	0	0	1	0
 förnuftet	the common sense	0	0	1	0
 hussein	hussein	0	0	1	0
@@ -3636,8 +3566,7 @@ sköttes	operated	0	0	1	0
 sköttes	handled	0	0	1	0
 nordkoreanska	north korean	0	0	1	0
 studerade	studied	0	0	1	0
-nationalistiska	nationalist	0	0	1	0
-nationalistiska	nationalistic	0	0	1	0
+sedermera	subsequently	0	0	1	0
 förkortas	shortened	0	0	1	0
 förkortas	abbreviated	0	0	1	0
 förkortas	reduced	0	0	1	0
@@ -3671,8 +3600,9 @@ hampa	hemp	0	0	1	1
 samverkar	co-operating	0	0	1	0
 samverkar	co	0	0	1	0
 samverkar	co-operates	0	0	1	0
+demens	dementia	0	0	1	1
 roberto	roberto	0	0	1	0
-grundarna	founders	0	0	1	0
+stewie	stewie	0	0	1	0
 aktörer	players	0	0	1	0
 aktörer	actors	0	0	1	0
 roberts	roberts	0	0	1	0
@@ -3694,7 +3624,6 @@ talrika	numerous	0	0	1	0
 mänskligheten	humanity	0	0	1	1
 mänskligheten	manskligheten	0	0	1	0
 flygplats	airport	0	0	1	1
-nordöstra	nordeastern	0	0	1	0
 nordöstra	northeast	0	0	1	0
 kritiskt	critical	0	0	1	0
 ansökte	applied	0	0	1	0
@@ -3775,7 +3704,6 @@ samisk	samian	0	0	1	0
 samisk	sami	0	0	1	0
 samisk	lapp	0	0	1	1
 jan	jan	0	0	1	0
-jan	january	0	0	1	0
 utmärkelsen	award	0	0	1	0
 utmärkelsen	the award	0	0	1	0
 religionens	religion	0	0	1	0
@@ -3860,8 +3788,8 @@ undergång	destruction	0	0	1	1
 striden	battle	0	0	1	0
 striden	fight	0	0	1	0
 finalen	final	0	0	1	0
-bolivias	bolivia	0	0	1	0
 bolivias	bolivia's	0	0	1	0
+bolivias	bolivia	0	0	1	0
 enda	only	0	0	1	1
 enda	single	0	0	1	1
 bilar	car	0	0	1	0
@@ -3885,7 +3813,7 @@ norge	norway	0	0	1	1
 etc	etc.	0	0	1	0
 harvard	harvard	0	0	1	0
 marknader	markets	0	0	1	0
-ogillade	disliked	0	0	1	0
+figurer	figures	0	0	1	0
 ekvatorn	equator	0	0	1	0
 ekvatorn	the equator	0	0	1	0
 arbetat	worked	0	0	1	0
@@ -3913,7 +3841,6 @@ antal	number of	0	0	1	0
 antal	number	0	0	1	1
 jussi	jussi	0	0	1	0
 keltiska	celtic	0	0	1	1
-moraliskt	morally	0	0	1	1
 moraliskt	moralist	0	0	1	0
 moraliskt	moral	0	0	1	0
 högskolor	colleges	0	0	1	0
@@ -3941,7 +3868,6 @@ upplösningen	disbandment	0	0	1	0
 lämpligt	suitable	0	0	1	0
 lämpligt	fitness	0	0	1	0
 berättelse	tale	0	0	1	1
-berättelse	story	0	0	1	1
 berättelse	's re	0	0	1	0
 lämpliga	suitable	0	0	1	0
 råolja	crude oil	0	0	1	1
@@ -3970,7 +3896,6 @@ vi	we	0	0	1	1
 ryssland	russia	0	0	1	1
 site	site	0	0	1	0
 längst	farthest	0	0	1	1
-längst	longest	0	0	1	0
 längst	at	0	0	1	0
 lust	desire	0	0	1	1
 lust	loss	0	0	1	0
@@ -4018,7 +3943,8 @@ knäppupp	knäppup	0	0	1	0
 knäppupp	knäppupp	0	0	1	0
 diabetes	diabetes	0	0	1	1
 isländska	icelandic	0	0	1	0
-lupus	lupus	0	0	1	1
+representera	represents	0	0	1	0
+representera	represent	0	0	1	1
 off	off	0	0	1	0
 ledde	resulted	0	0	1	0
 ledde	led	0	0	1	0
@@ -4032,7 +3958,6 @@ gatan	the street	0	0	1	0
 kontakt	plug	0	0	1	0
 kontakt	contact	0	0	1	1
 paus	pause	0	0	1	1
-paus	paus	0	0	1	0
 aktuell	current	0	0	1	1
 kvast	broom	1	1	0	1
 kvast	factories	1	0	1	0
@@ -4078,8 +4003,8 @@ emma	emma	0	0	1	0
 aktiebolag	companies	0	0	1	0
 aktiebolag	stock company	0	0	1	0
 aktiebolag	limited company; joint-stock company	0	0	1	0
-vallhund	herder	0	0	1	0
 vallhund	herding dog	0	0	1	0
+vallhund	herder	0	0	1	0
 stadsbild	cityscape	0	0	1	1
 amazonas	the amazon rainforest	0	0	1	0
 amazonas	amazon	0	0	1	0
@@ -4118,7 +4043,6 @@ atomkärnor	nuclear particles	0	0	1	0
 atomkärnor	atomic cores	0	0	1	0
 påvisa	detection	0	0	1	0
 påvisa	prove	0	0	1	1
-påvisa	show	0	0	1	1
 februari	february	0	0	1	1
 februari	februari	0	0	1	0
 kolonin	colony	0	0	1	0
@@ -4159,6 +4083,8 @@ angeles	angeles	0	0	1	0
 försvann	disappeared	0	0	1	0
 kontinenter	continents	0	0	1	0
 warner	warner	0	0	1	0
+begrepp	term	0	0	1	0
+begrepp	concept	0	0	1	1
 absint	absinthe	0	0	1	0
 hittills	date	0	0	1	0
 hittills	so far	0	0	1	0
@@ -4177,11 +4103,14 @@ gräslök	chive	1	0	1	1
 gräslök	culture	1	0	1	0
 gräslök	chives	1	1	0	0
 gräslök	raslok	1	0	1	0
-varma	hot	0	0	1	0
-varma	warm	0	0	1	0
+lycka	happiness	0	0	1	1
+lycka	good luck	0	0	1	0
 päls	fur	0	0	1	1
 nåd	mercy	0	0	1	0
 nåd	grace	0	0	1	1
+anlades	founded	0	0	1	0
+anlades	were built	0	0	1	0
+anlades	was built	0	0	1	0
 peters	peters	0	0	1	0
 skola	school	0	0	1	1
 missnöjet	discontent	0	0	1	0
@@ -4194,6 +4123,8 @@ når	reaches	0	0	1	0
 nås	nas	0	0	1	0
 nås	is reached	0	0	1	0
 nås	reached	0	0	1	0
+varma	hot	0	0	1	0
+varma	warm	0	0	1	0
 tina	defrost	0	0	1	0
 tina	thaw	0	0	1	1
 tina	tina	0	0	1	0
@@ -4203,7 +4134,8 @@ samlingar	collection	0	0	1	0
 uppvisade	showed	0	0	1	0
 indonesien	indonesia	0	0	1	1
 apollo	apollo	0	0	1	0
-radioaktivt	radioactive	0	0	1	0
+socialistiska	socialistic	0	0	1	0
+socialistiska	socialist	0	0	1	0
 öppnades	were opened	0	0	1	0
 öppnades	was opened	0	0	1	0
 öppnades	opened	0	0	1	0
@@ -4211,9 +4143,7 @@ lättare	light	0	0	1	0
 lättare	easier	0	0	1	0
 official	official	0	0	1	0
 volvo	volvo	0	0	1	0
-ruset	ruset	0	0	1	0
-ruset	the fuddle	0	0	1	0
-ruset	intoxication	0	0	1	0
+förkortningar	abbreviations	0	0	1	0
 stormakt	great power	0	0	1	1
 stormakt	major power	0	0	1	0
 monument	monuments	0	0	1	0
@@ -4314,7 +4244,8 @@ brushane	rushane	1	0	1	0
 brushane	bird	1	1	0	0
 brushane	brushane (bird)	1	0	1	0
 brushane	ruff	1	1	0	1
-ale	ale	0	0	1	0
+konsekvens	impact	0	0	1	0
+konsekvens	consequence	0	0	1	1
 längd	length	0	0	1	1
 parterna	parties	0	0	1	0
 golvet	the floor	0	0	1	0
@@ -4347,7 +4278,7 @@ vänstern	western	0	0	1	0
 galax	galaxy	0	0	1	1
 horn	horn	0	0	1	1
 horn	horns	0	0	1	0
-chef	head	0	0	1	1
+colorblack	color black	0	0	1	0
 alltsedan	even since	0	0	1	0
 alltsedan	since	0	0	1	1
 eurovision	eurovision	0	0	1	0
@@ -4403,8 +4334,6 @@ lön	wage; salary	0	0	1	0
 melankoli	melancholy	0	0	1	1
 kongressen	congress	0	0	1	0
 faktiskt	in fact; actually; indeed	0	0	1	0
-faktiskt	actually	0	0	1	1
-faktiskt	really	0	0	1	1
 bro	bridge	0	0	1	1
 tillsammans	together	0	0	1	1
 föreställer	picture	0	0	1	0
@@ -4448,7 +4377,6 @@ synsätt	effects	0	0	1	0
 synsätt	viewpoint	0	0	1	0
 synsätt	effect	0	0	1	0
 alces	alces	0	0	1	0
-bemärkelse	meaning	0	0	1	0
 bemärkelse	sense	0	0	1	1
 springer	running	0	0	1	0
 springer	springer	0	0	1	0
@@ -4518,14 +4446,15 @@ mötet	meeting	0	0	1	0
 biografer	movie theaters	0	0	1	0
 biografer	movie theaters; cinemas	0	0	1	0
 biografer	cinemas	0	0	1	0
-möter	meet	0	0	1	0
 möter	meets	0	0	1	0
+möter	meet	0	0	1	0
 kategorieuropas	category europe	0	0	1	0
 lag	law	0	0	1	1
 lag	act	0	0	1	1
 koreakriget	korean war	0	0	1	0
 koreakriget	the korean war	0	0	1	0
-davis	davis	0	0	1	0
+förstärka	strengthen	0	0	1	1
+förstärka	enhance	0	0	1	0
 visste	did	0	0	1	0
 lat	methacrylate	0	0	1	0
 höjdpunkt	highlight	0	0	1	0
@@ -4555,7 +4484,7 @@ alltför	exessive	0	0	1	0
 alltför	way too	0	0	1	0
 exempel	example	0	0	1	1
 exempel	for example; for instance; sample(-s)	0	0	1	0
-ramadan	ramadan	0	0	1	0
+inspelningarna	recordings	0	0	1	0
 blandning	mix	0	0	1	1
 blandning	mixture	0	0	1	1
 japan	japan	0	0	1	1
@@ -4565,7 +4494,6 @@ världen	the world	0	0	1	0
 lösas	solved	0	0	1	0
 straff	penalty	0	0	1	1
 straff	punishment	0	0	1	1
-straff	punishments	0	0	1	0
 lagets	the team's	0	0	1	0
 lagets	substrate	0	0	1	0
 frågor	questions	0	0	1	0
@@ -4611,7 +4539,6 @@ diskuteras	is discucssed	0	0	1	0
 knutpunkt	hub	0	0	1	0
 tendens	tendency	0	0	1	1
 föreslogs	suggested	0	0	1	0
-föreslogs	was suggested	0	0	1	0
 föreslogs	proposed	0	0	1	0
 carlos	carlos	0	0	1	0
 tillgängligt	available	0	0	1	0
@@ -4649,8 +4576,8 @@ klimatet	the climate	0	0	1	0
 öknen	desert	0	0	1	0
 veta	know	0	0	1	1
 veta	out	0	0	1	0
-sedermera	subsequently	0	0	1	0
-sedermera	since	0	0	1	1
+nationalistiska	nationalist	0	0	1	0
+nationalistiska	nationalistic	0	0	1	0
 veto	veto	0	0	1	1
 veto	vetoe	0	0	1	0
 standard	standard	0	0	1	1
@@ -4669,7 +4596,6 @@ professionell	professional	0	0	1	1
 fåtal	few	0	0	1	0
 fåtal	a few	0	0	1	0
 sändas	broadcast	0	0	1	0
-sändas	be transmitted	0	0	1	0
 sändas	sent	0	0	1	0
 personerna	people; persons	0	0	1	0
 personerna	subjects	0	0	1	0
@@ -4729,7 +4655,6 @@ binds	bound	0	0	1	0
 binds	(is) bound	0	0	1	0
 tjänsten	the service	0	0	1	0
 tjänsten	service	0	0	1	0
-iron	iron	0	0	1	1
 byggts	built	0	0	1	0
 minut	minute	0	0	1	1
 pelle	pellet	0	0	1	0
@@ -4744,7 +4669,6 @@ mannen	the man	0	0	1	0
 onani	masturbation	0	0	1	1
 münchen	munchen	0	0	1	0
 münchen	munich	0	0	1	0
-åke	åke	0	0	1	0
 göring	goring	0	0	1	0
 göring	cleaning	0	0	1	0
 omvandling	transformation	0	0	1	1
@@ -4796,7 +4720,6 @@ evigt	eternal	0	0	1	0
 åskådare	spectators	0	0	1	0
 åskådare	audience; viewer	0	0	1	0
 gräns	border	0	0	1	1
-gräns	limit	0	0	1	1
 effekten	the effect	0	0	1	0
 effekten	effect	0	0	1	0
 män	males	0	0	1	0
@@ -4840,10 +4763,8 @@ imperium	empire	0	0	1	1
 dj	dj	0	0	1	0
 di	di	0	0	1	0
 motstånd	resistance	0	0	1	1
-motstånd	opposition	0	0	1	1
 de	the	0	0	1	1
 de	they	0	0	1	1
-dc	d.c.	0	0	1	0
 da	da	0	0	1	0
 stalins	stalins	0	0	1	0
 stalins	stalin	0	0	1	0
@@ -4862,7 +4783,7 @@ offret	the victim	0	0	1	0
 offret	offering	0	0	1	0
 runt	around	0	0	1	1
 runt	between	0	0	1	0
-emo	emo	0	0	1	0
+åke	åke	0	0	1	0
 humanism	humanistic	0	0	1	0
 humanism	humanism	0	0	1	1
 lärda	literate	0	0	1	0
@@ -4880,20 +4801,17 @@ offren	victims	0	0	1	0
 tyngre	heavy	0	0	1	0
 tyngre	heavier	0	0	1	0
 långhårig	rough	0	0	1	0
-långhårig	long haired	0	0	1	0
 långhårig	long-haired	0	0	1	1
 utrotning	extinction	0	0	1	0
 utrotning	extermination	0	0	1	1
 libanon	lebanon	0	0	1	1
 lärde	learned	0	0	1	0
 kurdiska	kurdish	0	0	1	0
-vanlig	ordinary	0	0	1	1
 vanlig	common	0	0	1	1
 vanlig	normal	0	0	1	0
 treenigheten	tinity	0	0	1	0
-treenigheten	the trinity	0	0	1	0
 treenigheten	trinity	0	0	1	0
-stewie	stewie	0	0	1	0
+grundarna	founders	0	0	1	0
 inne	inside	0	0	1	1
 inne	in	0	0	1	1
 avbryta	cancel	0	0	1	0
@@ -4916,7 +4834,6 @@ osmanska	osmanian	0	0	1	0
 osmanska	ottoman; osmanli	0	0	1	0
 komplikationer	complications	0	0	1	0
 we	we	0	0	1	0
-intog	occupied	0	0	1	0
 intog	seized	0	0	1	0
 intog	took	0	0	1	0
 dä	the elder	0	0	1	0
@@ -4932,7 +4849,6 @@ garanterar	ensures	0	0	1	0
 garanterar	guarantees	0	0	1	0
 muhammed	muhammed	0	0	1	0
 cox	cox	0	0	1	1
-gösta	gösta	0	0	1	0
 gösta	gosta	0	0	1	0
 medverkade	participated; contributed	0	0	1	0
 medverkade	participated	0	0	1	0
@@ -4956,7 +4872,6 @@ samverkan	cooperation	0	0	1	1
 graviditeten	the pregnacy	0	0	1	0
 graviditeten	the pregnancy	0	0	1	0
 väl	selecting	0	0	1	0
-väl	good	0	0	1	0
 vän	van	0	0	1	0
 vän	friend	0	0	1	1
 framgångsrikt	successful	0	0	1	0
@@ -5012,7 +4927,6 @@ bulgariens	bulgaria	0	0	1	0
 bulgariens	bulgaria's	0	0	1	0
 fromstart	starting from	0	0	1	0
 vagn	wagon	0	0	1	1
-vagn	carrige	0	0	1	0
 johansson	johansson	0	0	1	0
 någonsin	ever	0	0	1	1
 kupp	kupp	0	0	1	0
@@ -5087,7 +5001,6 @@ kyla	cold	0	0	1	1
 kyla	cooling	0	0	1	0
 riksdag	parliament; diet	0	0	1	0
 riksdag	parliament	0	0	1	1
-riksdag	the parliament	0	0	1	0
 somliga	some people	0	0	1	0
 somliga	some	0	0	1	1
 styrkorna	forces	0	0	1	0
@@ -5115,7 +5028,6 @@ swahili	swahilli	0	0	1	0
 anställda	employed	0	0	1	0
 distributioner	distributions	0	0	1	0
 wright	wright	0	0	1	0
-havets	the seas	0	0	1	0
 havets	sea	0	0	1	0
 skick	state	0	0	1	1
 skick	condition	0	0	1	1
@@ -5233,8 +5145,8 @@ samer	sami	0	0	1	0
 istället	instead	0	0	1	0
 istället	instead of	0	0	1	0
 lois	lois	0	0	1	0
-sedan	then	0	0	1	1
-sedan	since	0	0	1	1
+epicentrum	epicentre	0	0	1	1
+epicentrum	epicenter	0	0	1	1
 uppenbarelse	apparition	0	0	1	1
 uppenbarelse	revelation	0	0	1	1
 föddes	was born	0	0	1	0
@@ -5286,8 +5198,8 @@ närliggande	nearby	0	0	1	1
 jämlikhet	equality	0	0	1	1
 tvåa	second	0	0	1	1
 väsen	being	0	0	1	1
-väsen	vase	0	0	1	0
 väsen	entity	0	0	1	1
+väsen	vase	0	0	1	0
 engagerade	dedicated	0	0	1	0
 engagerade	engaged	0	0	1	0
 engagerade	committed	0	0	1	0
@@ -5330,7 +5242,6 @@ reglerar	regulates	0	0	1	0
 reglerar	controls	0	0	1	0
 regleras	regulated	0	0	1	0
 regleras	controlled	0	0	1	0
-regleras	is regulated	0	0	1	0
 definiera	defining	0	0	1	0
 definiera	define	0	0	1	1
 hemma	home	0	0	1	1
@@ -5343,7 +5254,6 @@ solens	solar	0	0	1	0
 bergmans	bergman's	0	0	1	0
 bergmans	bergmans	0	0	1	0
 dance	dance	0	0	1	0
-uppfanns	was invented	0	0	1	0
 uppfanns	invented	0	0	1	0
 tenderar	tend	0	0	1	0
 datum	date	0	0	1	1
@@ -5401,7 +5311,6 @@ alfa	alpha	0	0	1	1
 cosa	cosa	0	0	1	0
 engagerad	dedicated	0	0	1	1
 engagerad	engaged	0	0	1	1
-invandrade	immigrated	0	0	1	0
 invandrade	immigrant	0	0	1	0
 väst	west	0	0	1	1
 väst	the west	0	0	1	0
@@ -5456,8 +5365,6 @@ kemi	chemistry	0	0	1	1
 turné	tour	0	0	1	0
 franklin	franklin	0	0	1	0
 ponny	pony	0	0	1	1
-fronten	front	0	0	1	0
-fronten	the front	0	0	1	0
 vinnare	win	0	0	1	0
 vinnare	winner	0	0	1	1
 ekr	ekr	0	0	1	0
@@ -5475,7 +5382,6 @@ ukrainas	ukraine's	0	0	1	0
 ukrainas	ukrainian	0	0	1	0
 innebära	mean	0	0	1	0
 vapnen	weapons	0	0	1	0
-vapnen	the weapons	0	0	1	0
 krigare	warriors	0	0	1	0
 krigare	warrior	0	0	1	1
 fbi	fbi	0	0	1	0
@@ -5500,7 +5406,6 @@ rivalitet	rivalry	0	0	1	1
 snabbt	fast	0	0	1	1
 snabbt	quickly	0	0	1	1
 gärning	deed	0	0	1	1
-gärning	enmeshing	0	0	1	0
 motståndet	the resistance	0	0	1	0
 motståndet	the resistence	0	0	1	0
 parallella	parallel	0	0	1	0
@@ -5569,7 +5474,6 @@ michel	michel	0	0	1	0
 ukrainska	ukrainian	0	0	1	0
 rekordet	record	0	0	1	0
 rekordet	the record	0	0	1	0
-maktens	the powers	0	0	1	0
 maktens	forces	0	0	1	0
 maktens	the power's	0	0	1	0
 ingripa	act	0	0	1	0
@@ -5584,13 +5488,11 @@ respektive	respective	0	0	1	1
 mäter	measuring	0	0	1	0
 mäter	measure	0	0	1	0
 uppåt	raised	0	0	1	0
-uppåt	up	0	0	1	1
 uppåt	upwards	0	0	1	1
 skabb	mites	0	0	1	0
 skabb	scab	0	0	1	1
 skabb	scabies	0	0	1	1
 målningar	paintings	0	0	1	0
-levde	lived	0	0	1	0
 levde	survived	0	0	1	0
 bergskedjan	mountain range	0	0	1	0
 bergskedjan	the mountain group	0	0	1	0
@@ -5653,7 +5555,6 @@ tillämpar	practice	0	0	1	0
 tillämpar	administers	0	0	1	0
 tillämpas	applied	0	0	1	0
 er	you	0	0	1	1
-er	your	0	0	1	1
 album	album	0	0	1	1
 teorier	theories	0	0	1	0
 kortare	shorter	0	0	1	0
@@ -5718,7 +5619,6 @@ vattenkraft	hydro	0	0	1	0
 vattenkraft	hydroelectric power	0	0	1	0
 fascisterna	the fascists	0	0	1	0
 fascisterna	the facists	0	0	1	0
-fascisterna	fascists	0	0	1	0
 than	than	0	0	1	0
 television	television	0	0	1	1
 europeisk	european	0	0	1	1
@@ -5877,7 +5777,6 @@ facupen	fa-cup	0	0	1	0
 älgen	alga	0	0	1	0
 wembley	wembley	0	0	1	0
 bushadministrationen	the bushadministration	0	0	1	0
-bushadministrationen	the bush administration	0	0	1	0
 bushadministrationen	bush administration	0	0	1	0
 öresund	the sound	0	0	1	0
 öresund	Øresund	0	0	1	0
@@ -5888,7 +5787,6 @@ lämnades	was	0	0	1	0
 lämnades	was lefted	0	0	1	0
 väntan	awaiting	0	0	1	0
 väntan	waiting	0	0	1	1
-väntan	wait	0	0	1	1
 stjärnor	stars	0	0	1	0
 väntat	expected	0	0	1	0
 väntas	expected	0	0	1	0
@@ -5911,7 +5809,6 @@ populäraste	most popular	0	0	1	0
 dödligt	lethal	0	0	1	0
 dödligt	deadly	0	0	1	1
 ladin	ladin	0	0	1	0
-depressioner	recessions	0	0	1	0
 depressioner	depressions	0	0	1	0
 depressioner	depression	0	0	1	0
 israels	israels	0	0	1	0
@@ -5927,7 +5824,6 @@ katastrofen	disaster	0	0	1	0
 döttrar	daughters	0	0	1	0
 yta	surface	0	0	1	1
 dominerande	dominant	0	0	1	1
-dominerande	dominating	0	0	1	1
 dominerande	dominerande	0	0	1	0
 ronja	ronja	0	0	1	0
 personlighet	character	0	0	1	1
@@ -5949,7 +5845,6 @@ utgavs	published	0	0	1	0
 comeback	comeback	0	0	1	1
 folkräkning	census	0	0	1	1
 folkräkning	head count	0	0	1	0
-folkräkning	public shaving	0	0	1	0
 förhållandevis	relatively	0	0	1	0
 monicas	monica	0	0	1	0
 monicas	monica's	0	0	1	0
@@ -5979,13 +5874,13 @@ järnvägar	rail	0	0	1	0
 avskaffande	elimination	0	0	1	0
 avskaffande	abolition	0	0	1	1
 avskaffande	abolishment	0	0	1	1
-regeringens	government	0	0	1	0
 regeringens	government's	0	0	1	0
+regeringens	government	0	0	1	0
 bomull	cotton	0	0	1	1
 handlande	action	0	0	1	0
 allmänt	generally	0	0	1	1
-allmänt	generally; public	0	0	1	0
 allmänt	commonly	0	0	1	1
+allmänt	generally; public	0	0	1	0
 oliver	olives	0	0	1	0
 lyssnade	listened	0	0	1	0
 karlstads	karlstad's	0	0	1	0
@@ -6009,16 +5904,13 @@ elvis	elvis	0	0	1	0
 funnits	found	0	0	1	0
 funnits	been	0	0	1	0
 lösningsmedel	solvent	0	0	1	1
-empathy	empathy	0	0	1	0
-förbud	ban	0	0	1	1
+konservativa	conservative	0	0	1	0
 förbud	prohibiting	0	0	1	0
 förbud	prohibition	0	0	1	1
 ytan	the area	0	0	1	0
 ytan	surface	0	0	1	0
-ytan	area	0	0	1	0
 uefacupen	the uefa champions league	0	0	1	0
 uefacupen	uefa europa league	0	0	1	0
-uefacupen	uefacupen	0	0	1	0
 ändringar	edit	0	0	1	0
 ändringar	starts to process	0	0	1	0
 ändringar	changes	0	0	1	0
@@ -6029,7 +5921,6 @@ rapporten	the report	0	0	1	0
 polens	polands	0	0	1	0
 polens	pole	0	0	1	0
 ordningen	the order	0	0	1	0
-ordningen	order	0	0	1	0
 ordningen	procedure	0	0	1	0
 motorvägarna	highways	0	0	1	0
 motorvägarna	the highways	0	0	1	0
@@ -6053,7 +5944,6 @@ utförd	completed	0	0	1	0
 utförd	performed	0	0	1	0
 utföra	perform	0	0	1	1
 utföra	out	0	0	1	0
-kvarter	quarter	0	0	1	1
 kvarter	neighborhoods	0	0	1	0
 kvarter	block	0	0	1	1
 kenya	kenya	0	0	1	1
@@ -6086,7 +5976,7 @@ lite	little	0	0	1	0
 lite	a little	0	0	1	0
 utför	perform	0	0	1	0
 utför	out	0	0	1	0
-figurer	figures	0	0	1	0
+ogillade	disliked	0	0	1	0
 speciella	special	0	0	1	0
 offensiven	offensive	0	0	1	0
 offensiven	the offensive	0	0	1	0
@@ -6110,13 +6000,10 @@ tradition	tradition	0	0	1	1
 undersökning	study	0	0	1	0
 undersökning	survey	0	0	1	1
 fredspris	peace prize	0	0	1	1
-överhöghet	supremacy	0	0	1	1
-överhöghet	suzeranity	0	0	1	0
-överhöghet	sovereignty	0	0	1	0
+aktuella	current	0	0	1	0
 in	in the context: recorded = spela (in)	0	0	1	0
 in	in	0	0	1	1
 stämmer	(if it's) true	0	0	1	0
-stämmer	correct	0	0	1	0
 stämmer	is true	0	0	1	0
 användandet	usage	0	0	1	0
 användandet	use	0	0	1	0
@@ -6144,7 +6031,6 @@ lagerkvist	lagerkvist	0	0	1	0
 nazismen	nazism	0	0	1	0
 euron	the euro	0	0	1	0
 euron	euro	0	0	1	0
-ca	cirka	0	0	1	0
 ca	approximately	0	0	1	0
 lade	laid	0	0	1	0
 lade	added	0	0	1	0
@@ -6157,7 +6043,6 @@ arbeta	working	0	0	1	0
 härifrån	from here	0	0	1	0
 härifrån	here	0	0	1	0
 stund	while	0	0	1	1
-stund	momentum	0	0	1	0
 selma	selma	0	0	1	0
 amy	amy	0	0	1	0
 medförde	resulted	0	0	1	0
@@ -6178,7 +6063,6 @@ varandra	each other	0	0	1	1
 nationellt	national	0	0	1	0
 nationellt	nationally	0	0	1	0
 t	t	0	0	1	0
-t	e.g.	0	0	1	0
 löner	wages and salaries	0	0	1	0
 löner	salaries	0	0	1	0
 astronomer	astronomers	0	0	1	0
@@ -6296,7 +6180,6 @@ självstyrande	self-governance	0	0	1	0
 fortsätter	continues	0	0	1	0
 fortsätter	continue	0	0	1	0
 upphovsman	author	0	0	1	1
-upphovsman	creator	0	0	1	1
 you	you	0	0	1	0
 mörker	dark	0	0	1	1
 mörker	darkness	0	0	1	1
@@ -6326,7 +6209,6 @@ kläder	clothes	0	0	1	1
 föremål	object	0	0	1	1
 föremål	subject	0	0	1	1
 skådespelerska	actress	0	0	1	1
-export	export	0	0	1	1
 olympiastadion	olympa stadium	0	0	1	0
 olympiastadion	olympic stadium	0	0	1	0
 monte	assembly	0	0	1	0
@@ -6341,7 +6223,6 @@ atlanta	atlanta	0	0	1	0
 antoinette	antoinette	0	0	1	0
 hävda	claim	0	0	1	1
 hävda	asserting	0	0	1	0
-där	where	0	0	1	1
 där	in which	0	0	1	0
 där	were	0	0	1	0
 foster	embryo	1	1	0	0
@@ -6368,9 +6249,6 @@ kvinna	woman	0	0	1	1
 verk	work	0	0	1	1
 verk	works	0	0	1	0
 osv	etc.	0	0	1	0
-uppfattar	sees	0	0	1	0
-uppfattar	percieves	0	0	1	0
-uppfattar	interpret	0	0	1	0
 tredje	third	0	0	1	1
 heaven	heaven	0	0	1	0
 sverige	sweden	0	0	1	1
@@ -6430,6 +6308,7 @@ kronor	crowns	0	0	1	0
 observeras	observed	0	0	1	0
 observeras	is noticed	0	0	1	0
 observeras	is observed	0	0	1	0
+ontario	ontario	0	0	1	0
 uttalat	pronounced	0	0	1	0
 uttalat	outspoken	0	0	1	0
 uttalat	expressed	0	0	1	0
@@ -6444,7 +6323,6 @@ tillsätts	appoints	0	0	1	0
 signifikant	significant	0	0	1	1
 krigen	the wars	0	0	1	0
 krigen	wars	0	0	1	0
-dyker	dives	0	0	1	0
 dyker	shows	0	0	1	0
 renässansen	the renaissance	0	0	1	0
 renässansen	renaissance	0	0	1	0
@@ -6505,7 +6383,6 @@ bolagets	company	0	0	1	0
 representeras	represented	0	0	1	0
 representerar	represents	0	0	1	0
 förvaras	stored	0	0	1	0
-förvaras	is stored	0	0	1	0
 förvaras	material is kept	0	0	1	0
 teatrar	theaters	0	0	1	0
 massan	mass	0	0	1	0
@@ -6541,7 +6418,8 @@ gazaremsan	gaza strip	0	0	1	0
 gazaremsan	the gaza strip	0	0	1	0
 ombord	onboard	0	0	1	1
 ombord	board	0	0	1	0
-history	history	0	0	1	0
+fronten	front	0	0	1	0
+fronten	the front	0	0	1	0
 rapporterade	reported	0	0	1	0
 feministiska	feminist	0	0	1	0
 partner	partner	0	0	1	1
@@ -6616,7 +6494,6 @@ gångna	past	0	0	1	0
 gångna	past; gone	0	0	1	0
 helgdagar	holidays	0	0	1	0
 tornen	towers	0	0	1	0
-tornen	the tower	0	0	1	0
 hela	entire	0	0	1	0
 hela	full	0	0	1	0
 maffian	mafia	0	0	1	0
@@ -6633,7 +6510,6 @@ systems	systems	0	0	1	0
 systems	system	0	0	1	0
 mahatma	mahatma	0	0	1	0
 musikalisk	musical	0	0	1	1
-bytte	changed	0	0	1	0
 bytte	changed it's	0	0	1	0
 bytte	swapped	0	0	1	0
 trycket	pressure	0	0	1	0
@@ -6657,7 +6533,7 @@ fulla	complete	0	0	1	0
 förbättra	improve	0	0	1	1
 skrivit	written	0	0	1	0
 skrivit	wrote	0	0	1	0
-die	die	0	0	1	0
+apartheid	apartheid	0	0	1	1
 kontinentens	the continents	0	0	1	0
 kontinentens	continent	0	0	1	0
 frånträde	relinquishment	0	0	1	0
@@ -6714,8 +6590,6 @@ skilja	seperate	0	0	1	0
 skilja	differ; differentiate	0	0	1	0
 skilja	separate	0	0	1	1
 höjdes	increased	0	0	1	0
-höjdes	was raised	0	0	1	0
-höjder	altitudes	0	0	1	0
 höjder	heights	0	0	1	0
 american	american	0	0	1	0
 höjden	hojde	0	0	1	0
@@ -6751,7 +6625,6 @@ taggar	tags	0	0	1	0
 ödleblad	Ödleblad	1	0	1	0
 ödleblad	ödleblad	1	0	1	0
 ödleblad	chameleon plant	1	1	0	0
-synes	seems to	0	0	1	0
 synes	apparently	0	0	1	0
 synes	appears	0	0	1	0
 miss	miss	0	0	1	1
@@ -6761,7 +6634,6 @@ rygg	back	0	0	1	1
 deltagare	contestant	0	0	1	0
 deltagare	participants	0	0	1	0
 deltagare	participiant	0	0	1	0
-nederbörd	rainfall	0	0	1	1
 nederbörd	precipitation	0	0	1	0
 personlighetsstörning	personality disorder	0	0	1	0
 kanada	canada	0	0	1	1
@@ -6786,8 +6658,6 @@ brittiske	british	0	0	1	0
 förebyggande	preventing	0	0	1	1
 förebyggande	preventive	0	0	1	1
 förebyggande	prevention	0	0	1	1
-representera	represents	0	0	1	0
-representera	represent	0	0	1	1
 öppna	open	0	0	1	1
 brittiskt	brittish	0	0	1	0
 brittiskt	british	0	0	1	0
@@ -6797,7 +6667,8 @@ tvungen	forced (to)	0	0	1	0
 bildande	forming	0	0	1	0
 bildande	founding	0	0	1	0
 bildande	formation	0	0	1	1
-brasiliens	brazil's	0	0	1	0
+stora	large	0	0	1	0
+stora	big	0	0	1	0
 läggs	is	0	0	1	0
 läggs	put before; submitted; put	0	0	1	0
 läggs	lay	0	0	1	0
@@ -6806,7 +6677,6 @@ aristokratin	aristocracy	0	0	1	0
 andersson	andersson	0	0	1	0
 sämsta	worst	0	0	1	0
 haddock	haddock	0	0	1	0
-lägga	put	0	0	1	1
 lägga	add	0	0	1	0
 lägga	lay	0	0	1	1
 stiftelsen	foundation	0	0	1	0
@@ -6885,8 +6755,7 @@ loggbok	logbook	1	1	0	0
 loggbok	log	1	0	1	1
 muslimsk	muslim	0	0	1	1
 muslimsk	muslim; muslem	0	0	1	0
-svenskans	the swedish language	0	0	1	0
-svenskans	swedish language	0	0	1	0
+integritet	integrity	0	0	1	1
 justice	justice	0	0	1	0
 dröm	dream	0	0	1	1
 dröm	syndrome	0	0	1	0
@@ -6986,10 +6855,8 @@ boende	resident	0	0	1	1
 boende	housing	0	0	1	0
 boende	accommodation	0	0	1	0
 viljan	will	0	0	1	0
-viljan	te will	0	0	1	0
 slavar	slaves	0	0	1	0
 kyrkliga	religious	0	0	1	0
-kyrkliga	from the church	0	0	1	0
 kyrkliga	church	0	0	1	0
 bott	lived	0	0	1	0
 bott	lived in	0	0	1	0
@@ -7001,7 +6868,6 @@ sägs	said (to be)	0	0	1	0
 sägs	said	0	0	1	0
 betydde	meant	0	0	1	0
 betydde	ment	0	0	1	0
-scientologikyrkan	the church of scientology	0	0	1	0
 scientologikyrkan	church of scientology	0	0	1	0
 säga	say	0	0	1	1
 linux	linux	0	0	1	0
@@ -7099,7 +6965,6 @@ flygplan	airplane	0	0	1	1
 nutid	present day	0	0	1	0
 nutid	present	0	0	1	0
 diagnosen	diagnosis	0	0	1	0
-diagnosen	the diagnose	0	0	1	0
 innersta	innermost	0	0	1	0
 innersta	inner	0	0	1	0
 tillverkning	production	0	0	1	1
@@ -7122,7 +6987,6 @@ schack	execution	1	0	1	0
 schack	check	1	0	1	1
 uppfinnare	inventor	0	0	1	1
 kallblod	cold blood	0	0	1	0
-kallblod	cold blooded	0	0	1	0
 kallblod	draught horse	0	0	1	0
 väckt	brought	0	0	1	0
 väckt	awaken	0	0	1	0
@@ -7174,7 +7038,8 @@ criss	criss	0	0	1	0
 gandhis	gandhi's	0	0	1	0
 gandhis	gandhi	0	0	1	0
 terminologi	terminology	0	0	1	1
-judar	jews	0	0	1	0
+unge	young	0	0	1	1
+unge	kid	0	0	1	1
 asiatiska	asiatic	0	0	1	0
 asiatiska	asian	0	0	1	0
 donna	donna	0	0	1	0
@@ -7202,7 +7067,6 @@ skapat	created	0	0	1	0
 regissör	director	0	0	1	1
 förväntas	expected	0	0	1	0
 hellström	hellström	0	0	1	0
-hellström	hellstrom	0	0	1	0
 vilda	wild	0	0	1	0
 skapar	creates	0	0	1	0
 skapas	creates	0	0	1	0
@@ -7241,7 +7105,6 @@ fördrevs	was banished	0	0	1	0
 fördrevs	ford described	0	0	1	0
 fördrevs	driven away	0	0	1	0
 offside	offside	0	0	1	1
-benfica	benfica	0	0	1	0
 järnvägen	railroad	0	0	1	0
 järnvägen	rail	0	0	1	0
 myndighet	authoroty	0	0	1	0
@@ -7287,9 +7150,9 @@ visas	shown	0	0	1	0
 visat	found	0	0	1	0
 visat	shown	0	0	1	0
 heritage	heritage	0	0	1	0
-spridd	wide spread	0	0	1	0
-spridd	widespread	0	0	1	0
-spridd	spread	0	0	1	0
+judarna	the jews	0	0	1	0
+judarna	jews	0	0	1	0
+judarna	therefore	0	0	1	0
 jonsson	jonsson	0	0	1	0
 ledamot	member	0	0	1	1
 ledamot	representative	0	0	1	0
@@ -7362,7 +7225,6 @@ sköts	handled	0	0	1	0
 uppmärksammad	attention	0	0	1	0
 uppmärksammad	come to attention	0	0	1	0
 uppmärksammad	noted	0	0	1	0
-uppmärksammad	noticed	0	0	1	0
 william	william	0	0	1	0
 drag	trait; characteristic; feature	0	0	1	0
 drag	move	0	0	1	1
@@ -7370,9 +7232,8 @@ drag	characteristic	0	0	1	0
 nödvändig	necessary	0	0	1	1
 nödvändig	essential	0	0	1	0
 kort	short	0	0	1	1
-månens	the moon's	0	0	1	0
-månens	the moons	0	0	1	0
-månens	moon	0	0	1	0
+resten	the rest	0	0	1	0
+resten	rest	0	0	1	0
 jagar	hunts	0	0	1	0
 jagar	hunting	0	0	1	0
 börjar	starts	0	0	1	0
@@ -7428,8 +7289,6 @@ kräver	requires	0	0	1	0
 skildras	is depicted	0	0	1	0
 skildras	depicted	0	0	1	0
 wave	wave	0	0	1	0
-gärna	i'd love to	0	0	1	0
-gärna	readily	0	0	1	1
 rinner	running	0	0	1	0
 rinner	flow	0	0	1	0
 rinner	flows	0	0	1	0
@@ -7446,15 +7305,14 @@ utbredning	distrubution	0	0	1	0
 tidszoner	time zones	0	0	1	0
 stift	pin	0	0	1	1
 stift	diocese	0	0	1	1
-akut	acute	0	0	1	1
 akut	urgent	0	0	1	0
+akut	acute	0	0	1	1
 lämna	leave	0	0	1	1
 lämna	supply	0	0	1	0
 socialdemokratiska	socialists	0	0	1	0
 socialdemokratiska	social democratic	0	0	1	0
 ordspråk	saying	0	0	1	0
 ordspråk	proverbs	0	0	1	0
-ordspråk	proverb	0	0	1	1
 zh	zh	0	0	1	0
 derivator	derivative	0	0	1	0
 derivator	derivatives	0	0	1	0
@@ -7517,7 +7375,7 @@ ryska	russian	0	0	1	1
 orsaken	reason	0	0	1	0
 orsaken	cause	0	0	1	0
 innebandy	floorball	0	0	1	0
-integritet	integrity	0	0	1	1
+svenskans	swedish language	0	0	1	0
 känslor	music	0	0	1	0
 känslor	feelings	0	0	1	0
 utövar	exercises	0	0	1	0
@@ -7538,7 +7396,6 @@ dopamin	dopamine	0	0	1	0
 uppfinningar	inventions	0	0	1	0
 crazy	crazy	0	0	1	0
 innebörden	meaning	0	0	1	0
-innebörden	the significance	0	0	1	0
 avsedda	aimed	0	0	1	0
 avsedda	for	0	0	1	0
 avsedda	intended	0	0	1	0
@@ -7559,7 +7416,6 @@ genetiskt	genetic	0	0	1	0
 coldplay	coldplay	0	0	1	0
 kunde	could	0	0	1	1
 personer	person	0	0	1	0
-personer	people	0	0	1	1
 personer	persons	0	0	1	0
 oktober	october	0	0	1	1
 intäkter	revenues	0	0	1	0
@@ -7590,9 +7446,9 @@ turkiets	turkey's	0	0	1	0
 turkiets	turkeys	0	0	1	0
 debutalbum	debut album	0	0	1	0
 präst	priest	0	0	1	1
-godkännas	approved	0	0	1	0
-godkännas	pass on	0	0	1	0
 godkännas	be approved	0	0	1	0
+godkännas	pass on	0	0	1	0
+godkännas	approved	0	0	1	0
 mottagaren	the receiver	0	0	1	0
 mottagaren	the recipient	0	0	1	0
 mottagaren	receiver	0	0	1	0
@@ -7622,13 +7478,12 @@ förstod	understood	0	0	1	0
 talat	spoken	0	0	1	0
 talat	spoke	0	0	1	0
 talas	spoken	0	0	1	0
-talas	is spoken	0	0	1	0
 talar	speaks	0	0	1	0
 talar	talk	0	0	1	0
 talar	speak	0	0	1	0
 romantikens	the romanticism	0	0	1	0
-romantikens	romanticism	0	0	1	0
 romantikens	romantick	0	0	1	0
+romantikens	romanticism	0	0	1	0
 bönder	farmers	0	0	1	0
 georg	georgian	0	0	1	0
 georg	georg	0	0	1	0
@@ -7687,7 +7542,6 @@ verklighet	true	0	0	1	0
 verklighet	reality	0	0	1	1
 belopp	amounts	0	0	1	0
 belopp	amount	0	0	1	1
-belopp	sum	0	0	1	1
 begick	commited	0	0	1	0
 begick	committed	0	0	1	0
 kyrkor	churche	0	0	1	0
@@ -7735,13 +7589,14 @@ stadsparken	stadsparken	0	0	1	0
 stadsparken	city ​​park	0	0	1	0
 skog	wood	0	0	1	1
 skog	forest	0	0	1	1
-globe	globe	0	0	1	0
+flyg	flight	0	0	1	0
+flyg	airforce	0	0	1	0
+flyg	air	0	0	1	0
 åtskilda	separated	0	0	1	0
 åtskilda	segregated	0	0	1	0
 åtskilda	separate	0	0	1	0
 stiger	rises	0	0	1	0
 stiger	rising	0	0	1	0
-osmanerna	ottoman turks	0	0	1	0
 osmanerna	ottomans	0	0	1	0
 osmanerna	osmanerna	0	0	1	0
 skov	forestry	0	0	1	0
@@ -7757,7 +7612,6 @@ kärnkraftverk	nuclear powerplant	0	0	1	0
 entertainment	entertainment	0	0	1	0
 huvudstad	capital city	0	0	1	0
 huvudstad	capital	0	0	1	1
-samarbetar	cooperates	0	0	1	0
 samarbetar	collaborates	0	0	1	0
 samarbetar	cooperate	0	0	1	0
 samarbetat	collaborated	0	0	1	0
@@ -7774,8 +7628,6 @@ torres	torres	0	0	1	0
 kropp	body	0	0	1	1
 bilder	images	0	0	1	0
 bilder	pictures	0	0	1	1
-lycka	happiness	0	0	1	1
-lycka	good luck	0	0	1	0
 lida	sheath	0	0	1	0
 lida	suffer	0	0	1	1
 fastställdes	confirmed	0	0	1	0
@@ -7880,7 +7732,6 @@ attackerna	attack	0	0	1	0
 runorna	the runes	0	0	1	0
 runorna	runes	0	0	1	0
 jorge	jorge	0	0	1	0
-beslöt	resolved	0	0	1	0
 beslöt	decided	0	0	1	0
 regn	rain	0	0	1	1
 sats	statements	1	1	0	0
@@ -7898,8 +7749,8 @@ sats	sets	1	0	1	0
 sats	proof	1	0	1	0
 sats	theorem; sets	1	1	0	0
 montana	montana	0	0	1	0
-genomslag	breakthrough	0	0	1	0
 genomslag	impact	0	0	1	0
+genomslag	breakthrough	0	0	1	0
 regi	direction	0	0	1	0
 ministerrådet	minister counsellor	0	0	1	0
 ministerrådet	ministers	0	0	1	0
@@ -7915,8 +7766,8 @@ platon	platon	0	0	1	0
 platon	platonic	0	0	1	0
 parker	parker	0	0	1	0
 parker	parks	0	0	1	0
-fiktiv	fictitious	0	0	1	1
 fiktiv	fictive	0	0	1	0
+fiktiv	fictitious	0	0	1	1
 tolkien	tolkien	0	0	1	0
 fynden	finds; findings	0	0	1	0
 fynden	findings	0	0	1	0
@@ -7933,6 +7784,7 @@ hade	was	0	0	1	0
 basen	became	0	0	1	0
 basen	the base	0	0	1	0
 basen	base	0	0	1	0
+radioaktivt	radioactive	0	0	1	0
 baser	bases	0	0	1	0
 gemensam	joint	0	0	1	1
 gemensam	common	0	0	1	1
@@ -7995,7 +7847,9 @@ immunförsvar	immune	0	0	1	0
 immunförsvar	immune defense	0	0	1	0
 däribland	among them	0	0	1	0
 däribland	including	0	0	1	0
-förkortningar	abbreviations	0	0	1	0
+ruset	ruset	0	0	1	0
+ruset	the fuddle	0	0	1	0
+ruset	intoxication	0	0	1	0
 stats	state's	0	0	1	0
 stats	state	0	0	1	0
 tenn	tin	0	0	1	1
@@ -8048,8 +7902,6 @@ synvinkel	perspective	0	0	1	0
 vulkaner	volcanos	0	0	1	0
 vulkaner	volcanoes	0	0	1	0
 nyare	newer	0	0	1	1
-stödet	support	0	0	1	0
-stödet	the support	0	0	1	0
 varierade	varied	0	0	1	0
 stratton	stratton	0	0	1	0
 partiklar	particles	0	0	1	0
@@ -8058,7 +7910,6 @@ helsingfors	helsingfors	0	0	1	0
 helsingfors	helsinki	0	0	1	0
 jim	jim	0	0	1	0
 opposition	opposition	0	0	1	1
-ände	of	0	0	1	0
 ände	end	0	0	1	1
 kategoribrittiska	category: british	0	0	1	0
 kategoribrittiska	category uk	0	0	1	0
@@ -8073,7 +7924,6 @@ johann	johann	0	0	1	0
 johann	john	0	0	1	0
 kings	kings	0	0	1	0
 kings	king's	0	0	1	0
-kings	king	0	0	1	0
 sammanhang	connection	0	0	1	1
 sammanhang	context	0	0	1	1
 christer	chris	0	0	1	0
@@ -8236,11 +8086,9 @@ definitivt	definitely	0	0	1	1
 historik	history	0	0	1	1
 klassificering	classification	0	0	1	1
 loss	off	0	0	1	0
-loss	unstuck	0	0	1	1
 lincoln	lincoln	0	0	1	0
 lost	lost	0	0	1	0
 norges	norway's	0	0	1	0
-bakåt	backwards	0	0	1	1
 bakåt	reverse	0	0	1	0
 fernando	fernando	0	0	1	0
 församlingar	parishs	0	0	1	0
@@ -8264,7 +8112,7 @@ pojkarna	boys	0	0	1	0
 pojkarna	the boys	0	0	1	0
 library	library	0	0	1	0
 vardagligt	everyday	0	0	1	0
-skorpan	crust	0	0	1	0
+home	home	0	0	1	0
 peter	peter	0	0	1	0
 lagen	the law	0	0	1	0
 lagen	law	0	0	1	0
@@ -8398,7 +8246,6 @@ vulkaniska	volcanic	0	0	1	0
 stat	state	0	0	1	1
 hittade	found	0	0	1	0
 liter	liters	0	0	1	0
-dateras	dates	0	0	1	0
 dateras	dated	0	0	1	0
 musikvideor	music videos	0	0	1	0
 framträdande	apperance	0	0	1	0
@@ -8451,17 +8298,16 @@ kulturell	cultural	0	0	1	1
 bli	be	0	0	1	1
 bli	become	0	0	1	1
 kommersiella	commercial	0	0	1	0
-passagerare	passengers	0	0	1	0
-passagerare	passenger	0	0	1	1
+gjordes	made	0	0	1	0
+gjordes	was	0	0	1	0
+gjordes	was made	0	0	1	0
 kristendom	christianity	0	0	1	1
 vasa	vasa	0	0	1	0
 stormaktstiden	great power period	0	0	1	0
 stormaktstiden	greatness	0	0	1	0
-hemlandet	the home country	0	0	1	0
 hemlandet	the homeland	0	0	1	0
 examen	exam	0	0	1	1
 examen	degree	0	0	1	1
-disneys	disneys	0	0	1	0
 disneys	disney's	0	0	1	0
 disneys	disney	0	0	1	0
 främst	foremost; primarily; chiefly	0	0	1	0
@@ -8492,8 +8338,7 @@ rollfigurer	characters	0	0	1	0
 force	force	0	0	1	0
 berlins	berlin's	0	0	1	0
 berlins	berlin	0	0	1	0
-upplysningstiden	enlightenment	0	0	1	0
-upplysningstiden	age of enlightenment	0	0	1	0
+gator	streets	0	0	1	0
 dennes	his	0	0	1	0
 erövringar	conquests	0	0	1	0
 avfall	waste	0	0	1	1
@@ -8519,9 +8364,9 @@ fördomar	bias	0	0	1	0
 fördomar	prejudice	0	0	1	0
 fördomar	prejudices	0	0	1	0
 ner	bottom	0	0	1	0
-romani	romani	0	0	1	0
-romani	romany	0	0	1	1
-romani	roma	0	0	1	0
+ort	place	0	0	1	1
+ort	neighborhood	0	0	1	0
+ort	location	0	0	1	0
 med	with	0	0	1	1
 bröts	was fractured	0	0	1	0
 bröts	broke	0	0	1	0
@@ -8572,17 +8417,14 @@ individerna	subjects	0	0	1	0
 individerna	the individuals	0	0	1	0
 atlanten	atlantic	0	0	1	1
 atlanten	the atlantic ocean	0	0	1	1
-inleddes	started	0	0	1	0
-inleddes	began	0	0	1	0
-inleddes	initiated	0	0	1	0
+county	county	0	0	1	0
 soldat	soldier	0	0	1	1
 kategorisommarvärdar	category summer hosts	0	0	1	0
 prokaryoter	prokaryote	0	0	1	0
 lennart	lennart	0	0	1	0
 provisoriska	provisional	0	0	1	0
-därmed	consequently	0	0	1	1
 därmed	thus	0	0	1	0
-därmed	therefore	0	0	1	0
+därmed	consequently	0	0	1	1
 oscar	oscar	0	0	1	0
 ljus	light	0	0	1	1
 nervsystemet	nervous system	0	0	1	0
@@ -8607,7 +8449,8 @@ kapitalistiska	capitalistic	0	0	1	0
 kapitalistiska	capitalist	0	0	1	0
 sundsvall	sundsvall	0	0	1	0
 kanadas	canada's	0	0	1	0
-publicera	publish	0	0	1	1
+tidskriften	the magazine	0	0	1	0
+tidskriften	magazine	0	0	1	0
 abstrakta	abstract	0	0	1	0
 talets	the speechs	0	0	1	0
 talets	adding an s to the year.	0	0	1	0
@@ -8631,8 +8474,8 @@ vintrar	winters	0	0	1	0
 höra	hear	0	0	1	1
 höra	know	0	0	1	0
 höra	whore	0	0	1	0
-begrepp	term	0	0	1	0
-begrepp	concept	0	0	1	1
+stödet	support	0	0	1	0
+stödet	the support	0	0	1	0
 stöder	supporting	0	0	1	0
 stöder	supports	0	0	1	0
 armé	poor	0	0	1	0
@@ -8648,7 +8491,6 @@ tycktes	tycktes	0	0	1	0
 tycktes	seemed	0	0	1	0
 hörs	heard	0	0	1	0
 dödades	killed	0	0	1	0
-dödades	were killed	0	0	1	0
 värme	heat	0	0	1	1
 värme	thermal	0	0	1	0
 orsakar	causes	0	0	1	0
@@ -8694,7 +8536,8 @@ buddhister	budhists	0	0	1	0
 buddhister	buddhists	0	0	1	0
 arbetsgivaren	employer	0	0	1	0
 besök	visit	0	0	1	1
-nationell	national	0	0	1	1
+föras	be	0	0	1	0
+föras	taken to	0	0	1	0
 personal	personal	0	0	1	0
 personal	employed	0	0	1	0
 personal	staff	0	0	1	1
@@ -8708,17 +8551,15 @@ federationen	federation	0	0	1	0
 federationen	the federation	0	0	1	0
 gått	gone	0	0	1	0
 gått	passed	0	0	1	0
-friska	healthy	0	0	1	0
 friska	fresh	0	0	1	0
 friska	healty	0	0	1	0
 aborter	abortions	0	0	1	0
 infektioner	infections	0	0	1	0
 infektioner	infection	0	0	1	0
-aston	undra	0	0	1	0
 aston	aston	0	0	1	0
-aston	överraska	0	0	1	0
 startat	started	0	0	1	0
-medlemmar	members	0	0	1	0
+omnämns	mentioned	0	0	1	0
+omnämns	is mentioned	0	0	1	0
 förstörelse	destruction	0	0	1	1
 downs	down	0	0	1	0
 stimulerar	stimulates	0	0	1	0
@@ -8733,10 +8574,8 @@ myntades	coined	0	0	1	0
 myntades	was coined	0	0	1	0
 spåret	spparet	0	0	1	0
 spåret	groove	0	0	1	0
-spåret	track is	0	0	1	0
-exakta	exact	0	0	1	0
-huvudrollen	the main role	0	0	1	0
 huvudrollen	leading part	0	0	1	0
+huvudrollen	the main role	0	0	1	0
 listor	lists	0	0	1	0
 luxemburg	luxemburg	0	0	1	0
 luxemburg	luxembourg	0	0	1	1
@@ -8767,7 +8606,6 @@ medier	media	0	0	1	0
 medier	medias	0	0	1	0
 väpnade	armed	0	0	1	0
 milan	milan	0	0	1	0
-anhängare	followers	0	0	1	0
 anhängare	supporters	0	0	1	0
 aids	aids	0	0	1	1
 fängslades	imprisoned; jailed	0	0	1	0
@@ -8786,9 +8624,7 @@ linköpings	linköping's	0	0	1	0
 ihop	up	0	0	1	0
 ihop	together	0	0	1	1
 talen	rate	0	0	1	0
-talen	years	0	0	1	0
 sluta	stop	0	0	1	1
-sluta	end	0	0	1	1
 ordförande	chairman	0	0	1	1
 lämnade	did	0	0	1	0
 lämnade	left	0	0	1	0
@@ -8841,11 +8677,9 @@ objekten	items	0	0	1	0
 objekten	objects	0	0	1	0
 objekten	the objects	0	0	1	0
 hollywood	hollywood	0	0	1	0
-markerar	selects	0	0	1	0
 markerar	marks	0	0	1	0
 göras	made	0	0	1	0
 göras	be made	0	0	1	0
-göras	be made through	0	0	1	0
 medeltiden	middle ages	0	0	1	0
 besegrades	defeated	0	0	1	0
 skaffade	acquired	0	0	1	0
@@ -8875,9 +8709,10 @@ stadsdelen	district	0	0	1	0
 mina	my	0	0	1	0
 mina	mine	0	0	1	1
 modern	modern	0	0	1	1
-mind	mind	0	0	1	0
 triangel	triangle	0	0	1	1
-drömmar	dreams	0	0	1	0
+tecken	signs	0	0	1	0
+tecken	characters	0	0	1	0
+tecken	sign	0	0	1	1
 kolväten	hydrocarbons	0	0	1	0
 kolväten	the hydrocarbon	0	0	1	0
 skildringar	scenes	0	0	1	0
@@ -8909,7 +8744,6 @@ godkänt	pass	0	0	1	0
 påsken	easter	0	0	1	0
 mario	mario	0	0	1	0
 efterträdare	successor	0	0	1	1
-luthers	luthers	0	0	1	0
 luthers	luther's	0	0	1	0
 luthers	luther	0	0	1	0
 marie	marie	0	0	1	0
@@ -8988,6 +8822,7 @@ strategiska	strategical	0	0	1	0
 strategiska	strategic	0	0	1	0
 christopher	christopher	0	0	1	0
 stod	stood	0	0	1	0
+sandy	sandy	0	0	1	0
 earl	earl	0	0	1	0
 bar	bar	0	0	1	1
 bas	base	0	0	1	1
@@ -8998,9 +8833,7 @@ inlett	started	0	0	1	0
 inlett	ushered in	0	0	1	0
 inlett	initiated	0	0	1	0
 existerat	existed	0	0	1	0
-anlades	founded	0	0	1	0
-anlades	were built	0	0	1	0
-anlades	was built	0	0	1	0
+bay	bay	0	0	1	0
 bad	bath	0	0	1	1
 fokus	focus	0	0	1	1
 liggande	placed	0	0	1	0
@@ -9033,7 +8866,6 @@ avgörs	decided	0	0	1	0
 skrevs	written	0	0	1	0
 skrevs	was	0	0	1	0
 hergé	herge	0	0	1	0
-hergé	hergé	0	0	1	0
 naturligtvis	course	0	0	1	0
 naturligtvis	off course	0	0	1	0
 naturligtvis	naturally	0	0	1	1
@@ -9042,7 +8874,6 @@ skrift	book	0	0	1	0
 skrift	writing	0	0	1	1
 oförmåga	inability	0	0	1	1
 oförmåga	failure	0	0	1	0
-oförmåga	incapacity	0	0	1	1
 sorts	variety	0	0	1	0
 omkringliggande	surrounding	0	0	1	0
 omkringliggande	neighbouring	0	0	1	0
@@ -9063,7 +8894,6 @@ innehåll	contents	0	0	1	1
 motto	motto	0	0	1	1
 behöver	need	0	0	1	0
 förhöjd	elevated	0	0	1	0
-förhöjd	enhanced	0	0	1	0
 regelbundet	regularly	0	0	1	1
 regelbundet	regularily	0	0	1	0
 isotoper	isotopes	0	0	1	0
@@ -9096,8 +8926,7 @@ sommartid	during summer	0	0	1	0
 mördades	murdered	0	0	1	0
 mördades	was murdered	0	0	1	0
 mördades	murder was	0	0	1	0
-studerar	study	0	0	1	0
-studerar	studies	0	0	1	0
+interna	internal	0	0	1	0
 omstritt	controversial	0	0	1	0
 varmt	hot	0	0	1	0
 varmt	warm	0	0	1	0
@@ -9106,8 +8935,8 @@ studerat	studied	0	0	1	0
 blodkroppar	blood cells	0	0	1	0
 blodkroppar	corpuscle	0	0	1	0
 cyrus	cyrus	0	0	1	0
-ting	things	0	0	1	0
 ting	matters	0	0	1	0
+ting	things	0	0	1	0
 ting	thing	0	0	1	1
 frisk	healthy	0	0	1	1
 frisk	fresh	0	0	1	1
@@ -9123,10 +8952,8 @@ provinsen	province	0	0	1	0
 provinsen	rovisen	0	0	1	0
 provinsen	the province	0	0	1	0
 utseende	appearance	0	0	1	1
-förhållanden	relationships	0	0	1	0
 förhållanden	conditions	0	0	1	0
 förhållanden	n/a	0	0	1	0
-mindre	smaller	0	0	1	1
 mindre	less	0	0	1	1
 hårt	hard	0	0	1	1
 hårt	resin	0	0	1	0
@@ -9146,7 +8973,6 @@ tillhörighet	belonging; affiliation	0	0	1	0
 ära	glory	0	0	1	1
 ära	honor	0	0	1	1
 pornografi	pornography	0	0	1	1
-paradiset	the paradise	0	0	1	0
 paradiset	paradise	0	0	1	0
 ix	4	0	0	1	0
 ix	the ninth	0	0	1	0
@@ -9180,7 +9006,6 @@ make	husband	0	0	1	1
 redaktör	editor	0	0	1	1
 bella	bella	0	0	1	0
 kommunistpartiets	communist party	0	0	1	0
-kommunistpartiets	the communist partys	0	0	1	0
 kommunistpartiets	the communist party	0	0	1	0
 roland	roland	0	0	1	0
 industriell	industrial	0	0	1	1
@@ -9206,9 +9031,9 @@ akademiska	academical	0	0	1	0
 akademiska	academic	0	0	1	0
 protesterna	protests	0	0	1	0
 protesterna	the protests	0	0	1	0
-roms	rome's	0	0	1	0
-roms	roms	0	0	1	0
 roms	romes	0	0	1	0
+roms	roms	0	0	1	0
+roms	rome's	0	0	1	0
 vetenskaplig	learn scientific	0	0	1	0
 vetenskaplig	scientific	0	0	1	1
 sydamerika	south america	0	0	1	1
@@ -9270,7 +9095,6 @@ trafikeras	served	0	0	1	0
 trafikeras	trafficked	0	0	1	0
 trafikerar	traffic	0	0	1	0
 trafikerar	frequent	0	0	1	0
-västerbottens	västerbottens	0	0	1	0
 västerbottens	west bothnia	0	0	1	0
 västerbottens	västerbotten's	0	0	1	0
 medborgarskap	citizenship	0	0	1	1
@@ -9381,7 +9205,6 @@ präglad	characterized	0	0	1	0
 präglad	marked	0	0	1	0
 norrlands	northern sweden's	0	0	1	0
 norrlands	lapland's	0	0	1	0
-norrlands	norrland	0	0	1	0
 batman	batman	0	0	1	0
 ford	ford	0	0	1	0
 präglas	characterised	0	0	1	0
@@ -9389,7 +9212,6 @@ präglas	characterized	0	0	1	0
 återstår	remains	0	0	1	0
 återstår	remain	0	0	1	0
 berätta	tell	0	0	1	1
-bero	depend	0	0	1	1
 bero	due	0	0	1	0
 byggde	was	0	0	1	0
 byggde	founded (on)	0	0	1	0
@@ -9425,8 +9247,8 @@ välkända	well known	0	0	1	0
 socialdemokrater	social democrats	0	0	1	0
 uttryckligen	explicitly	0	0	1	0
 uttryckligen	specifically	0	0	1	0
-spänningen	exitement	0	0	1	0
 spänningen	voltage	0	0	1	0
+rasen	the race	0	0	1	0
 handelspartner	trading partner	0	0	1	0
 tosh	tosh	0	0	1	0
 kanske	may	0	0	1	0
@@ -9445,7 +9267,6 @@ handen	the hand	0	0	1	0
 handen	hand	0	0	1	0
 handel	commercial	0	0	1	0
 handel	trade	0	0	1	1
-kunnat	could	0	0	1	0
 kunnat	could have been	0	0	1	0
 kunnat	been	0	0	1	0
 betala	pay	0	0	1	1
@@ -9465,9 +9286,7 @@ frodo	frodo	0	0	1	0
 exporten	exports	0	0	1	0
 exporten	the export	0	0	1	0
 jones	jones	0	0	1	0
-drivs	driven	0	0	1	0
-drivs	run	0	0	1	0
-drivs	powered	0	0	1	0
+katekes	catechism	0	0	1	1
 accepterade	accepted	0	0	1	0
 salt	salt	0	0	1	1
 riktad	directed	0	0	1	0
@@ -9512,7 +9331,6 @@ människas	human's; man's	0	0	1	0
 människas	human	0	0	1	0
 byggnadsverk	building	0	0	1	0
 byggnadsverk	construction	0	0	1	0
-byggnadsverk	edifice	0	0	1	0
 me	me	0	0	1	0
 farlig	dangerous	0	0	1	1
 farlig	hazardous	0	0	1	1
@@ -9525,7 +9343,7 @@ hösten	the fall	0	0	1	0
 hösten	fall	0	0	1	0
 din	yours	0	0	1	1
 din	your	0	0	1	1
-apartheid	apartheid	0	0	1	1
+die	die	0	0	1	0
 dig	up	0	0	1	0
 trenden	trend	0	0	1	0
 trenden	the trend	0	0	1	0
@@ -9570,7 +9388,6 @@ vanligen	typically	0	0	1	0
 afghanistan	afghanisthan	0	0	1	0
 afghanistan	afghanistan	0	0	1	1
 varpå	thereafter	0	0	1	0
-varpå	whereupon	0	0	1	1
 varpå	after which	0	0	1	0
 viktig	major	0	0	1	0
 viktig	important	0	0	1	1
@@ -9588,8 +9405,7 @@ avsluta	finish	0	0	1	1
 avsluta	exit	0	0	1	0
 nationalismen	nationalism	0	0	1	0
 tibet	tibet	0	0	1	0
-mr	herr	0	0	1	0
-mr	mr	0	0	1	0
+henry	henry	0	0	1	1
 utlänningar	foreigners	0	0	1	0
 avsaknad	absence	0	0	1	0
 specialiserade	specialized	0	0	1	0
@@ -9695,11 +9511,10 @@ erövringen	conquest	0	0	1	0
 winston	winston	0	0	1	0
 agent	agent	0	0	1	1
 norrmän	norwegians	0	0	1	0
-skadades	damaged	0	0	1	0
 skadades	was wounded	0	0	1	0
+skadades	damaged	0	0	1	0
 council	council	0	0	1	0
-asteroidbältet	asteroid belt	0	0	1	0
-asteroidbältet	the asteroid belt	0	0	1	0
+kategorimusik	category music	0	0	1	0
 dennis	dennis	0	0	1	0
 kunglig	royal	0	0	1	1
 pink	pink	0	0	1	0
@@ -9743,6 +9558,7 @@ man	is	0	0	1	0
 man	one	0	0	1	1
 asien	asia	0	0	1	1
 johnson	johnson	0	0	1	0
+chef	head	0	0	1	1
 förekommit	occured	0	0	1	0
 förekommit	occurred	0	0	1	0
 q	q	0	0	1	0
@@ -9779,8 +9595,8 @@ dagbladet	dagbladet	0	0	1	0
 sekter	sects	0	0	1	0
 inkomster	income	0	0	1	1
 inkomster	revenue	0	0	1	0
-rasen	breed	0	0	1	0
-rasen	the race	0	0	1	0
+nazisterna	the nazis	0	0	1	0
+nazisterna	nazis	0	0	1	0
 policy	policy	0	0	1	0
 main	main	0	0	1	0
 texas	texas	0	0	1	0
@@ -9846,9 +9662,9 @@ rådande	prevalent	0	0	1	0
 ansiktet	face	0	0	1	0
 monster	monster	0	0	1	1
 monster	monsters	0	0	1	0
-ort	place	0	0	1	1
-ort	neighborhood	0	0	1	0
-ort	location	0	0	1	0
+romani	romani	0	0	1	0
+romani	romany	0	0	1	1
+romani	roma	0	0	1	0
 chiles	chiles	0	0	1	0
 chiles	chile's	0	0	1	0
 valrörelsen	election campaign	0	0	1	0
@@ -9901,7 +9717,6 @@ rachel	rachel	0	0	1	0
 folklig	popular	0	0	1	1
 folklig	folk	0	0	1	0
 biografen	the cinema	0	0	1	0
-biografen	movie theater	0	0	1	0
 biografen	cinema	0	0	1	0
 centralt	central	0	0	1	0
 centralt	centrally	0	0	1	0
@@ -10009,7 +9824,6 @@ lojalitet	loyalty	0	0	1	1
 påsk	easter	0	0	1	1
 ämbetsmän	officers	0	0	1	0
 ämbetsmän	bailies	0	0	1	0
-ämbetsmän	officer	0	0	1	0
 drottning	queen	0	0	1	1
 allmänna	general	0	0	1	0
 grammatik	grammar	0	0	1	1
@@ -10037,7 +9851,6 @@ tidigast	the earliest	0	0	1	0
 führer	fuhrer	0	0	1	0
 führer	fuehrer	0	0	1	0
 generalsekreterare	the secretary-general	0	0	1	0
-generalsekreterare	secretary general	0	0	1	1
 samlingsalbum	compilation album	0	0	1	0
 samlingsalbum	compilations	0	0	1	0
 släktskap	relationship	0	0	1	1
@@ -10074,7 +9887,7 @@ konsolen	bracket	0	0	1	0
 motsvarande	corresponding to	0	0	1	0
 motsvarande	corresponding	0	0	1	1
 källa	source	0	0	1	1
-inspelningarna	recordings	0	0	1	0
+ramadan	ramadan	0	0	1	0
 kulturella	cultural	0	0	1	0
 sällan	seldom	0	0	1	1
 sällan	rare	0	0	1	0
@@ -10110,8 +9923,6 @@ relativt	relative	0	0	1	0
 relativt	relatively	0	0	1	1
 fokuserar	focuses	0	0	1	0
 fokuserar	focus	0	0	1	0
-nazisterna	the nazis	0	0	1	0
-nazisterna	nazis	0	0	1	0
 toppade	topped	0	0	1	0
 teoretisk	theoretical	0	0	1	1
 relativa	relative	0	0	1	0
@@ -10156,7 +9967,6 @@ motsättningar	contradictions	0	0	1	0
 motsättningar	frictions; clashes	0	0	1	0
 timme	hour	0	0	1	1
 långfilm	feature film	0	0	1	0
-långfilm	feature movie	0	0	1	0
 tum	inch	0	0	1	1
 tum	inches	0	0	1	0
 signaler	signals	0	0	1	0
@@ -10192,7 +10002,6 @@ statschefen	head of state	0	0	1	0
 syntes	synthesis	0	0	1	1
 ägnar	spend time	0	0	1	0
 ägnar	dedicated	0	0	1	0
-ägnar	spends time	0	0	1	0
 grundare	founder	0	0	1	1
 miljöproblem	environmental problem	0	0	1	0
 miljöproblem	environmental problems	0	0	1	0
@@ -10213,6 +10022,8 @@ måla	grinding	0	0	1	0
 marx	marx	0	0	1	0
 mary	mary	0	0	1	0
 kultur	culture	0	0	1	1
+handels	commercial	0	0	1	0
+handels	trade	0	0	1	0
 flaggan	the flag	0	0	1	0
 flaggan	flag	0	0	1	0
 cobain	cobain	0	0	1	0
@@ -10243,7 +10054,6 @@ uppstod	developed	0	0	1	0
 uppstod	was	0	0	1	0
 gånger	times	0	0	1	0
 konstnär	artist	0	0	1	1
-lät	made	0	0	1	0
 lät	had	0	0	1	0
 lät	sounded	0	0	1	0
 sjöss	sea	0	0	1	0
@@ -10265,7 +10075,8 @@ upplagor	editions	0	0	1	0
 upplagor	the edition	0	0	1	0
 upplagor	issues	0	0	1	0
 paz	paz	0	0	1	0
-lava	lava	0	0	1	1
+same	lapp	0	0	1	1
+same	sami	0	0	1	0
 infödda	native	0	0	1	0
 infödda	natives	0	0	1	1
 pan	pan	0	0	1	0
@@ -10316,7 +10127,6 @@ ideologiskt	ideological	0	0	1	0
 bowie	bowie	0	0	1	0
 livstid	lifetime	0	0	1	1
 livstid	life span	0	0	1	0
-åter	again	0	0	1	1
 åter	undertake	0	0	1	0
 åter	ater	0	0	1	0
 programledare	host	0	0	1	0
@@ -10366,7 +10176,6 @@ rikskansler	chancellor	0	0	1	0
 kategorisveriges	category sweden	0	0	1	0
 hör	include	0	0	1	0
 hör	belong	0	0	1	0
-hör	hears	0	0	1	0
 joan	joan	0	0	1	0
 konspirationsteorier	conspiracy theories	0	0	1	0
 jordbruket	agriculture	0	0	1	0
@@ -10404,7 +10213,6 @@ ifrågasatts	questioned	0	0	1	0
 ryggen	the back	0	0	1	0
 ryggen	back	0	0	1	0
 ändrades	changed	0	0	1	0
-ändrades	was	0	0	1	0
 tongivande	influential	0	0	1	0
 marissa	marissa	0	0	1	0
 tillverka	producing	0	0	1	0
@@ -10434,8 +10242,7 @@ newtons	newton	0	0	1	0
 newtons	newton's	0	0	1	0
 wilde	wilde	0	0	1	0
 beskrivas	described	0	0	1	0
-beskrivas	be described	0	0	1	0
-einstein	einstein	0	0	1	0
+tillgången	access	0	0	1	0
 mark	soil	0	0	1	1
 mark	territory	0	0	1	1
 mark	ground	0	0	1	1
@@ -10449,7 +10256,6 @@ motivet	the motive	0	0	1	0
 motivet	subject	0	0	1	0
 behandling	treatment	0	0	1	1
 varelse	creature	0	0	1	1
-förhållande	in relation	0	0	1	0
 förhållande	ratio	0	0	1	1
 förhållande	(in) comparison (to)	0	0	1	0
 anfalla	attack	0	0	1	1
@@ -10469,7 +10275,6 @@ själva	actual	0	0	1	0
 birger	birger	0	0	1	0
 e	e	0	0	1	1
 egen	own	0	0	1	1
-arméns	the army's	0	0	1	0
 arméns	arm	0	0	1	0
 arméns	army's	0	0	1	0
 woman	woman	0	0	1	0
@@ -10479,7 +10284,6 @@ omröstning	vote	0	0	1	1
 ronaldo	ronaldo	0	0	1	0
 vhs	vhs	0	0	1	0
 exemplar	copies	0	0	1	0
-exemplar	example	0	0	1	1
 bibliografi	bibliography	0	0	1	1
 manuel	manuel	0	0	1	0
 manuel	manual	0	0	1	0
@@ -10502,8 +10306,8 @@ populärt	popular	0	0	1	0
 populärt	popularly	0	0	1	1
 erbjöd	offered	0	0	1	0
 hästen	the horse	0	0	1	0
-videon	the video	0	0	1	0
-videon	video	0	0	1	0
+goebbels	goebbels	0	0	1	0
+goebbels	geobbels	0	0	1	0
 film	film	0	0	1	1
 again	again	0	0	1	0
 genrer	genres	0	0	1	0
@@ -10546,7 +10350,6 @@ uppfostran	upbringing	0	0	1	1
 u	u	0	0	1	0
 dvs	(det vill säga) namely that	0	0	1	0
 dvs	d.v.s.	0	0	1	0
-dvs	i.e.	0	0	1	0
 försörja	support	0	0	1	1
 kuwait	kuwait	0	0	1	1
 snabbaste	rapid	0	0	1	0
@@ -10615,7 +10418,6 @@ ansvarig	charge	0	0	1	0
 långvariga	long-standing	0	0	1	0
 långvariga	long	0	0	1	0
 långvarigt	long-running	0	0	1	0
-långvarigt	prolonged	0	0	1	0
 långvarigt	long-standing	0	0	1	0
 snuset	snuff	0	0	1	0
 snuset	the snuff	0	0	1	0
@@ -10631,9 +10433,9 @@ uppnås	is achieved	0	0	1	0
 ockuperades	occupied	0	0	1	0
 cornelis	cornelis	0	0	1	0
 lärare	teacher	0	0	1	1
-sjönk	decreased	0	0	1	0
-sjönk	sank	0	0	1	0
 sjönk	sunk	0	0	1	0
+sjönk	sank	0	0	1	0
+sjönk	decreased	0	0	1	0
 massor	lots	0	0	1	0
 massor	(in) masses	0	0	1	0
 massor	tons	0	0	1	0
@@ -10665,7 +10467,7 @@ bebott	an inhabitated	0	0	1	0
 vald	elected	0	0	1	0
 vald	selected	0	0	1	1
 jonas	jonas	0	0	1	0
-kandidat	candidate	0	0	1	1
+free	free	0	0	1	0
 benen	legs	0	0	1	0
 inställning	attitude	0	0	1	1
 inställning	setting	0	0	1	0
@@ -10683,7 +10485,6 @@ division	division	0	0	1	1
 historiker	historians	0	0	1	0
 jackie	jackie	0	0	1	0
 airport	airport	0	0	1	0
-förutsättningar	prerequisites	0	0	1	0
 förutsättningar	(pre-)conditions	0	0	1	0
 förutsättningar	condition	0	0	1	0
 uppslagsverk	encyclopedia	0	0	1	0
@@ -10767,7 +10568,7 @@ makten	power	0	0	1	0
 makten	the power	0	0	1	0
 stil	type	0	0	1	0
 psykotiska	psychotic	0	0	1	0
-varierat	varied	0	0	1	0
+georgien	georgia	0	0	1	1
 vänskap	friendship	0	0	1	1
 stig	stig	0	0	1	0
 stig	path	0	0	1	1
@@ -10783,14 +10584,11 @@ vikten	importance	0	0	1	0
 vikten	weight	0	0	1	0
 vikten	vikte	0	0	1	0
 förekomst	presence	0	0	1	1
-beteckna	denote the	0	0	1	0
 beteckna	denote	0	0	1	1
 makter	powers	0	0	1	0
 sekulär	secular	0	0	1	1
 rastafari	rastafari	0	0	1	0
 rastafari	rastafarian	0	0	1	0
-lina	line	0	0	1	1
-lina	lina	0	0	1	0
 engelske	the english	0	0	1	0
 engelske	british	0	0	1	0
 engelske	english	0	0	1	0
@@ -10808,8 +10606,8 @@ påbörjas	begin	0	0	1	0
 påbörjas	starts	0	0	1	0
 vatten	water	0	0	1	1
 rastafarianer	the rastafarian	0	0	1	0
-rastafarianer	rastafarians	0	0	1	0
 rastafarianer	rastafarian	0	0	1	0
+rastafarianer	rastafarians	0	0	1	0
 rockgrupper	rock groups	0	0	1	0
 rockgrupper	rock group	0	0	1	0
 rockgrupper	rock bands	0	0	1	0
@@ -10823,8 +10621,7 @@ officiella	official	0	0	1	0
 latinamerika	latin america	0	0	1	1
 gradvis	gradually	0	0	1	1
 gradvis	progressively	0	0	1	0
-same	lapp	0	0	1	1
-same	sami	0	0	1	0
+lava	lava	0	0	1	1
 sällsynta	rare	0	0	1	0
 sydvästra	southwestern	0	0	1	0
 sydvästra	southwest	0	0	1	0
@@ -10858,6 +10655,8 @@ utöver	addition	0	0	1	0
 porto	postage	0	0	1	1
 robbie	bobbie	0	0	1	0
 robbie	robbie	0	0	1	0
+självständiga	independent	0	0	1	0
+självständiga	sjalvstandiga	0	0	1	0
 kungarna	the kings	0	0	1	0
 kungarna	kings	0	0	1	0
 namibia	namibia	0	0	1	0
@@ -10902,11 +10701,9 @@ lawrence	lawrence	0	0	1	0
 eventuella	any	0	0	1	0
 eventuella	eventual	0	0	1	0
 blekinge	blekinge	0	0	1	0
-uralbergen	the ural mountains	0	0	1	0
-uralbergen	urals	0	0	1	0
-uralbergen	ralbergen	0	0	1	0
-eventuellt	possibly	0	0	1	1
+toy	toy	0	0	1	0
 eventuellt	eventually	0	0	1	0
+eventuellt	possibly	0	0	1	1
 viken	gulf	0	0	1	0
 vägrade	refused	0	0	1	0
 oklart	clear	0	0	1	0
@@ -10943,7 +10740,6 @@ kom	came	0	0	1	0
 kol	charcoal	0	0	1	0
 kol	coal; charcoal	0	0	1	0
 kon	group	0	0	1	0
-bay	bay	0	0	1	0
 noga	carefully	0	0	1	0
 observationer	observations	0	0	1	0
 världens	the world's	0	0	1	0
@@ -11052,7 +10848,6 @@ km	kilometers	0	0	1	0
 kl	hr	0	0	1	0
 kl	at	0	0	1	0
 kl	o'clock	0	0	1	0
-kr	kronas	0	0	1	0
 liechtenstein	liechtenstein	0	0	1	0
 hända	may	0	0	1	0
 hända	provide	0	0	1	0
@@ -11065,13 +10860,11 @@ kvalitet	kvalilet	0	0	1	0
 kvalitet	quality	0	0	1	1
 tillhör	belongs	0	0	1	0
 tillhör	belonging to	0	0	1	0
-byttes	changed	0	0	1	0
-byttes	was exchanged	0	0	1	0
+bergman	bergman	0	0	1	0
 relation	ratio	0	0	1	0
 relation	relation	0	0	1	1
 utveckla	develop	0	0	1	1
 utveckla	developing	0	0	1	0
-fina	beautiful	0	0	1	0
 fina	fine	0	0	1	0
 valet	selection	0	0	1	0
 valet	the election	0	0	1	0
@@ -11168,13 +10961,10 @@ bildandet	setting-up	0	0	1	0
 bildandet	establishment	0	0	1	0
 bildandet	formation	0	0	1	0
 professionella	professional	0	0	1	0
-förklarades	was explained	0	0	1	0
 förklarades	explained	0	0	1	0
 kritiserades	critisized	0	0	1	0
-kritiserades	critizised	0	0	1	0
 skivorna	the records	0	0	1	0
 skivorna	records	0	0	1	0
-skivorna	plates	0	0	1	0
 marilyn	marilyn	0	0	1	0
 framställning	preparation	0	0	1	0
 framställning	production	0	0	1	1
@@ -11243,7 +11033,6 @@ villkoren	conditions	0	0	1	0
 religiösa	religious	0	0	1	0
 portugal	portugal	0	0	1	1
 arenan	arena	0	0	1	0
-arenan	the arena	0	0	1	0
 elektronik	electronics	0	0	1	1
 släppas	released	0	0	1	0
 släppas	be released	0	0	1	0
@@ -11268,7 +11057,6 @@ förklara	explain	0	0	1	1
 förklara	declaring	0	0	1	0
 sittande	fitting	0	0	1	0
 sittande	appointed	0	0	1	0
-sittande	sitting	0	0	1	1
 development	development	0	0	1	0
 utmed	along	0	0	1	1
 avrättade	executed	0	0	1	0
@@ -11297,12 +11085,11 @@ engelsmännen	english people	0	0	1	0
 noll	zero	0	0	1	1
 kapitel	chapter	0	0	1	1
 albanien	albania	0	0	1	1
-jorderosion	earth erosion	0	0	1	0
-jorderosion	soil erosion	0	0	1	0
+regim	regimen	0	0	1	1
+regim	regime	0	0	1	1
 åttonde	eighth	0	0	1	1
 åttonde	the eighth	0	0	1	0
 förståelse	understanding	0	0	1	1
-colorblack	color black	0	0	1	0
 skott	bulkheads	0	0	1	0
 skott	round	0	0	1	0
 skott	shots	0	0	1	0
@@ -11329,7 +11116,6 @@ alternativt	alternative	0	0	1	0
 självständigheten	independance	0	0	1	0
 självständigheten	independence	0	0	1	0
 östtimor	east timor	0	0	1	0
-world	world	0	0	1	0
 hennes	her	0	0	1	1
 analytiska	analytical	0	0	1	0
 alternativa	alternative	0	0	1	0
@@ -11359,7 +11145,6 @@ teknik	technic	0	0	1	0
 big	big	0	0	1	0
 kejsaren	emperor	0	0	1	0
 kejsaren	the emperor	0	0	1	0
-avlidna	diseased	0	0	1	0
 avlidna	deceased	0	0	1	0
 avlidna	the perished	0	0	1	0
 af	of	0	0	1	0
@@ -11397,6 +11182,8 @@ tolkningar	interpretation	0	0	1	0
 back	reverse	0	0	1	1
 historisk	historic	0	0	1	1
 historisk	historical	0	0	1	1
+studerar	study	0	0	1	0
+studerar	studies	0	0	1	0
 cocacola	coca cola	0	0	1	0
 cocacola	coca-cola	0	0	1	0
 lars	lars	0	0	1	0
@@ -11410,7 +11197,8 @@ pratar	talks	0	0	1	0
 pratar	talking	0	0	1	0
 pratar	talk	0	0	1	0
 diplomatiska	diplomatic	0	0	1	0
-saab	saab	0	0	1	0
+energin	the energy	0	0	1	0
+energin	energy	0	0	1	0
 enklare	easier	0	0	1	0
 enklare	simpler	0	0	1	0
 utgöra	compose	0	0	1	1
@@ -11426,7 +11214,6 @@ välkänd	known	0	0	1	0
 välkänd	well-known	0	0	1	1
 välkänd	well known	0	0	1	0
 ockuperade	occupied	0	0	1	1
-nödvändigt	neccessary	0	0	1	0
 nödvändigt	necessary	0	0	1	0
 britannica	britannica	0	0	1	0
 korta	short	0	0	1	0
@@ -11453,7 +11240,8 @@ ordnar	decorations	0	0	1	0
 ordnar	arrange	0	0	1	0
 författarskap	the writer	0	0	1	0
 författarskap	authorship	0	0	1	1
-ontario	ontario	0	0	1	0
+gärna	i'd love to	0	0	1	0
+gärna	readily	0	0	1	1
 förödande	devastating	0	0	1	1
 ansvar	responsibilities	0	0	1	0
 ansvar	responsibility	0	0	1	1
@@ -11476,7 +11264,6 @@ jaga	hunt	0	0	1	1
 jaga	chase	0	0	1	1
 serie	comic; row; succession; serial	0	0	1	0
 serie	cartoon	0	0	1	0
-serie	series	0	0	1	1
 konsul	consulting	0	0	1	0
 konsul	consul	0	0	1	1
 utlösning	release	0	0	1	1
@@ -11484,7 +11271,6 @@ utlösning	ejaculation	0	0	1	0
 utlösning	trigger	0	0	1	0
 motståndare	opponent	0	0	1	1
 motståndare	opponents	0	0	1	1
-köpmän	traders	0	0	1	0
 köpmän	merchants	0	0	1	0
 torsten	torsten	0	0	1	0
 jonathan	jonathan	0	0	1	0
@@ -11516,7 +11302,6 @@ kommittén	the committee	0	0	1	0
 kommittén	committee	0	0	1	0
 tropiskt	tropical	0	0	1	0
 utförda	formed	0	0	1	0
-utförda	performed	0	0	1	0
 utförda	made	0	0	1	0
 tropiska	tropical	0	0	1	0
 tropiska	tropic	0	0	1	0
@@ -11571,7 +11356,6 @@ sambandet	the connection	0	0	1	0
 sambandet	connection	0	0	1	0
 sambandet	relation	0	0	1	0
 dramatiker	playwright	0	0	1	0
-dramatiker	dramatist	0	0	1	1
 dramatiker	dramatists	0	0	1	0
 judisk	jewish	0	0	1	1
 judisk	jew	0	0	1	1
@@ -11611,7 +11395,6 @@ sahlin	sahlin	0	0	1	0
 intensiva	intensive	0	0	1	0
 intensiva	intense	0	0	1	0
 kärnan	core	0	0	1	0
-kärnan	the core	0	0	1	0
 kollaps	collapse	0	0	1	1
 atlas	atlas	0	0	1	1
 graven	the grave	0	0	1	0
@@ -11678,7 +11461,6 @@ edison	edison	0	0	1	0
 litteraturen	literature	0	0	1	0
 mozarts	mozart	0	0	1	0
 mozarts	mozart's	0	0	1	0
-tillkomst	origin	0	0	1	1
 tillkomst	established	0	0	1	0
 tillkomst	advent	0	0	1	0
 öppnade	opened	0	0	1	0
@@ -11720,7 +11502,6 @@ uranus	uranus	0	0	1	1
 honor	ära	0	0	1	0
 honor	female	0	0	1	0
 existens	existence	0	0	1	1
-protokoll	protocol	0	0	1	1
 talare	speakers	0	0	1	0
 talare	speaker	0	0	1	1
 talare	spoke	0	0	1	0
@@ -11746,8 +11527,6 @@ gruppspelet	group stage	0	0	1	0
 gruppspelet	groupplay	0	0	1	0
 gruppspelet	group play	0	0	1	0
 nobel	nobel	0	0	1	0
-resten	the rest	0	0	1	0
-resten	rest	0	0	1	0
 planerade	planeade	0	0	1	0
 planerade	planned	0	0	1	0
 nytta	useful	0	0	1	0
@@ -11776,7 +11555,6 @@ avsikten	intention	0	0	1	0
 avsikten	purpose	0	0	1	0
 iii	iii	0	0	1	0
 platsen	the place	0	0	1	0
-platsen	place	0	0	1	0
 platsen	site	0	0	1	0
 ansvaret	responsibility	0	0	1	0
 ansvaret	the responsiblity	0	0	1	0
@@ -11803,7 +11581,6 @@ kyrkan	church	0	0	1	0
 indianerna	the indians	0	0	1	0
 indianerna	indians	0	0	1	0
 titlar	titles	0	0	1	0
-do	do	0	0	1	1
 hänvisning	reference	0	0	1	1
 allians	alliance	0	0	1	1
 konstnärliga	artistic	0	0	1	0
@@ -11819,7 +11596,6 @@ internationellt	internationally	0	0	1	1
 tränaren	coach	0	0	1	0
 tränaren	the coach	0	0	1	0
 tränaren	trans breaker	0	0	1	0
-räknade	calculated	0	0	1	0
 räknade	counted	0	0	1	0
 lanserade	introduced	0	0	1	0
 lanserade	launched	0	0	1	0
@@ -11846,7 +11622,6 @@ schweiziska	swiss	0	0	1	0
 jämnt	even	0	0	1	0
 jämnt	evenly	0	0	1	0
 gammal	old	0	0	1	1
-terrier	terriers	0	0	1	0
 terrier	terrier	0	0	1	1
 körberg	körberg	0	0	1	0
 framträder	stand out	0	0	1	0
@@ -11934,7 +11709,6 @@ juridisk	legal	0	0	1	1
 författarna	the authors	0	0	1	0
 författarna	writers	0	0	1	0
 emi	emi	0	0	1	0
-tillgången	access	0	0	1	0
 pitts	pitts	0	0	1	0
 kristiansson	kristiansen	0	0	1	0
 kristiansson	ristiansson	0	0	1	0
@@ -11947,7 +11721,6 @@ segern	the victory	0	0	1	0
 segern	victory	0	0	1	0
 marley	marley	0	0	1	0
 marley	bob marley = singer	0	0	1	0
-arbetskraft	workforce	0	0	1	0
 arbetskraft	labor	0	0	1	1
 fattigdomen	poverty	0	0	1	0
 matt	matt	0	0	1	0
@@ -12006,7 +11779,6 @@ veckan	weeks	0	0	1	0
 veckan	the week	0	0	1	0
 leder	leads	0	0	1	0
 leder	leading (to)	0	0	1	0
-leder	lead	0	0	1	0
 fördrag	agreement	0	0	1	0
 fördrag	treaty	0	0	1	1
 utlopp	outflow	0	0	1	1
@@ -12042,7 +11814,6 @@ matematisk	mathematical	0	0	1	1
 matematisk	mathematic	0	0	1	0
 uteslutande	exclusivly	0	0	1	0
 uteslutande	only	0	0	1	0
-uteslutande	exclusively	0	0	1	1
 bröt	brot	0	0	1	0
 bröt	broke	0	0	1	0
 sweden	sweden	0	0	1	0
@@ -12100,8 +11871,8 @@ befälet	the command	0	0	1	0
 befälet	command	0	0	1	0
 resultaten	the results	0	0	1	0
 resultaten	results	0	0	1	0
-epicentrum	epicentre	0	0	1	1
-epicentrum	epicenter	0	0	1	1
+sedan	then	0	0	1	1
+sedan	since	0	0	1	1
 sist		0	0	1	0
 sist	finally	0	0	1	0
 sist	last	0	0	1	1
@@ -12120,7 +11891,6 @@ republikanska	republican	0	0	1	0
 nämns	mentioned	0	0	1	0
 upptäckt	discovered	0	0	1	1
 upptäckt	found	0	0	1	0
-upptäckt	discovery	0	0	1	1
 milano	milano	0	0	1	0
 upptäcks	discoverd	0	0	1	0
 upptäcks	detected	0	0	1	0
@@ -12172,7 +11942,6 @@ buddhismen	buddhismen	0	0	1	0
 regimen	regime	0	0	1	0
 studenterna	students	0	0	1	0
 studenterna	the students	0	0	1	0
-richards	richards	0	0	1	0
 högskola	college	0	0	1	0
 vinsten	the win	0	0	1	0
 vinsten	gain	0	0	1	0
@@ -12215,8 +11984,9 @@ reform	reform	0	0	1	1
 offentligt	public	0	0	1	0
 offentligt	publicly	0	0	1	0
 konverterade	converted	0	0	1	0
-ordnade	arranged	0	0	1	0
-ordnade	parent	0	0	1	0
+seder	seder	0	0	1	0
+seder	subsequently	0	0	1	0
+seder	custom	0	0	1	0
 bruno	bruno	0	0	1	0
 carlsson	carlsson	0	0	1	0
 avslutades	ended; concluded	0	0	1	0
@@ -12230,25 +12000,24 @@ förekommer	preferred is	0	0	1	0
 koncept	concept	0	0	1	0
 industrialisering	industrialization	0	0	1	1
 tobias	tobias	0	0	1	0
-uppskattade	estimated	0	0	1	0
 uppskattade	appreciated	0	0	1	0
 listan	the list	0	0	1	0
 viktigare	important	0	0	1	0
 viktigare	more important	0	0	1	0
 buddhas	buddha's	0	0	1	0
-buddhas	buddhas	0	0	1	0
-konservativa	conservative	0	0	1	0
+empathy	empathy	0	0	1	0
 övrigt	other	0	0	1	0
 miniatyr|karta	thumbnail map	0	0	1	0
 miniatyr|karta	miniature|map	0	0	1	0
 litteratur	literature	0	0	1	1
 litteratur	litterature	0	0	1	0
 aktuellt	current	0	0	1	0
-aktuellt	relevant	0	0	1	0
 kommunicerar	communicates	0	0	1	0
 regimer	regimens	0	0	1	0
 regimer	regimes	0	0	1	0
-aktuella	current	0	0	1	0
+överhöghet	supremacy	0	0	1	1
+överhöghet	suzeranity	0	0	1	0
+överhöghet	sovereignty	0	0	1	0
 sachsen	saxony	0	0	1	1
 sachsen	sachsen	0	0	1	0
 fester	celebrations	0	0	1	0
@@ -12306,7 +12075,6 @@ bruket	the use	0	0	1	0
 stalin	stalin	0	0	1	0
 ar	is	0	0	1	0
 klassificera	classifying	0	0	1	0
-klassificera	classify	0	0	1	1
 betraktade	considered	0	0	1	0
 betraktade	watched	0	0	1	0
 när	when	0	0	1	1
@@ -12325,10 +12093,9 @@ vistelse	visit	0	0	1	1
 vistelse	stay	0	0	1	1
 nått	reached	0	0	1	0
 prosa	prose	0	0	1	1
-goebbels	goebbels	0	0	1	0
-goebbels	geobbels	0	0	1	0
+videon	the video	0	0	1	0
+videon	video	0	0	1	0
 låg	low	0	0	1	1
-administration	administration	0	0	1	1
 födda	born	0	0	1	0
 fördes	sea were entered	0	0	1	0
 fördes	out	0	0	1	0
@@ -12337,13 +12104,12 @@ förhindrar	prevent	0	0	1	0
 födde	gave birth too	0	0	1	0
 födde	born	0	0	1	0
 wolfgang	wolfgang	0	0	1	0
-blodtrycket	the blood pressure	0	0	1	0
 blodtrycket	blood pressure	0	0	1	0
 fler	more	0	0	1	0
+heinrich	heinrich	0	0	1	0
 hinduismen	hinduism	0	0	1	0
 hinduismen	up	0	0	1	0
 kallad	known as the	0	0	1	0
-kallad	know as	0	0	1	0
 kallad	called	0	0	1	1
 kontrollera	control	0	0	1	1
 kontrollera	controlling	0	0	1	0
@@ -12453,7 +12219,6 @@ joachim	joachim	0	0	1	0
 påminde	reminded	0	0	1	0
 skildrar	describes	0	0	1	0
 skildrar	depicts	0	0	1	0
-skildrar	portrays	0	0	1	0
 kategorifiktiva	category fictitious	0	0	1	0
 gisslan	hostage	0	0	1	1
 gisslan	hostages	0	0	1	0
@@ -12490,11 +12255,10 @@ potatis	potato	0	0	1	1
 växter	plants	0	0	1	0
 mått	measurements	0	0	1	0
 mått	measure	0	0	1	1
-mått	measurement	0	0	1	1
 monarken	the monarch	0	0	1	0
 monarken	monarch	0	0	1	0
 chris	chris	0	0	1	0
-rösta	vote	0	0	1	1
+australiska	australian	0	0	1	0
 nordsjön	north sea	0	0	1	1
 ljusare	brighter	0	0	1	0
 ljusare	lighter	0	0	1	0
@@ -12518,9 +12282,7 @@ kuben	the cube	0	0	1	0
 tronföljare	heir	0	0	1	0
 tronföljare	heir apparent	0	0	1	0
 tronföljare	successor	0	0	1	0
-flyg	flight	0	0	1	0
-flyg	airforce	0	0	1	0
-flyg	air	0	0	1	0
+globe	globe	0	0	1	0
 klockan	o'clock	0	0	1	1
 klockan	clock	0	0	1	0
 civilbefolkningen	civilian population	0	0	1	0
@@ -12573,10 +12335,12 @@ manlig	manly	0	0	1	1
 identitet	identity	0	0	1	1
 besläktade	related	0	0	1	0
 proteiner	proteins	0	0	1	0
-einsteins	einstein	0	0	1	0
-einsteins	once a	0	0	1	0
 einsteins	einsteins	0	0	1	0
-sandy	sandy	0	0	1	0
+einsteins	once a	0	0	1	0
+einsteins	einstein	0	0	1	0
+uppfattar	sees	0	0	1	0
+uppfattar	percieves	0	0	1	0
+uppfattar	interpret	0	0	1	0
 gränserna	borders	0	0	1	0
 gränserna	the borders	0	0	1	0
 gränserna	limits	0	0	1	0
@@ -12594,6 +12358,7 @@ variation	diversity	0	0	1	0
 variation	variety	0	0	1	1
 akademisk	academical	0	0	1	1
 akademisk	academic	0	0	1	1
+wind	wind	0	0	1	0
 cirkel	circular	0	0	1	0
 föräldrarna	the parents	0	0	1	0
 föräldrarna	parents	0	0	1	0
@@ -12613,7 +12378,6 @@ fönster	windows	0	0	1	0
 fönster	window	0	0	1	1
 återställa	reset	0	0	1	1
 återställa	restore	0	0	1	1
-återställa	resett	0	0	1	0
 stämma	stutter	0	0	1	0
 stämma	sue	0	0	1	1
 stämma	meeting	0	0	1	1
@@ -12626,7 +12390,6 @@ förespråkare	proponent	0	0	1	0
 slogs	fought	0	0	1	0
 slogs	was	0	0	1	0
 kännetecknas	characterized (by)	0	0	1	0
-kännetecknas	is characterized	0	0	1	0
 kännetecknas	characterized	0	0	1	0
 arkitekt	architect	0	0	1	1
 antisemitiska	antisemetic	0	0	1	0
@@ -12653,7 +12416,6 @@ nordost	the northeast	0	0	1	0
 pommern	pommern	0	0	1	0
 pommern	pomerania	0	0	1	0
 tillåtna	allowed	0	0	1	0
-tjänar	earns	0	0	1	0
 tjänar	serves	0	0	1	0
 förstås	course	0	0	1	0
 förstås	mean:	0	0	1	0
@@ -12724,7 +12486,6 @@ beck	beck	0	0	1	0
 beck	pitch	0	0	1	1
 parlamentariska	parliamentary	0	0	1	0
 parlamentariska	the parliamentary	0	0	1	0
-preparat	substance	0	0	1	0
 preparat	preparations	0	0	1	0
 preparat	compound	0	0	1	0
 studio	studio	0	0	1	1
@@ -12790,7 +12551,7 @@ samhälle	society	0	0	1	1
 södra	southern	0	0	1	0
 södra	south	0	0	1	0
 inför	before	0	0	1	1
-förändringar	changes	0	0	1	0
+nord	north	0	0	1	1
 erhöll	obtained	0	0	1	0
 erhöll	recieved	0	0	1	0
 erhöll	acquire	0	0	1	0
@@ -12807,7 +12568,6 @@ avsätta	unseat	0	0	1	1
 avsätta	depositing	0	0	1	0
 belgiens	belgium	0	0	1	0
 belgiens	belgium's	0	0	1	0
-igelkottens	the hedgehog's	0	0	1	0
 igelkottens	hedgehog	0	0	1	0
 ämne	substance	0	0	1	1
 ämne	subject	0	0	1	1
@@ -12820,7 +12580,8 @@ lukas	lukas	0	0	1	0
 antiken	the ancient world	0	0	1	0
 antiken	antiquity	0	0	1	0
 ms	motor ship	0	0	1	0
-henry	henry	0	0	1	1
+mr	herr	0	0	1	0
+mr	mr	0	0	1	0
 johanssons	johanssons	0	0	1	0
 johanssons	johansson	0	0	1	0
 ernest	ernest	0	0	1	0
@@ -12923,7 +12684,6 @@ blott	mere	0	0	1	1
 historiens	historys	0	0	1	0
 historiens	history's	0	0	1	0
 dem	those	0	0	1	1
-senast	last (time)	0	0	1	0
 senast	last	0	0	1	1
 mål	case	0	0	1	1
 mål	goal	0	0	1	1
@@ -12951,7 +12711,6 @@ storlek	size	0	0	1	1
 ursprungligen	initially	0	0	1	0
 ursprungligen	originally	0	0	1	1
 gälla	valid	0	0	1	0
-gälla	be valid	0	0	1	1
 äventyr	adventure	0	0	1	1
 äventyr	adventures	0	0	1	0
 gymnasium	high school	0	0	1	0
@@ -12992,7 +12751,7 @@ benämnas	named	0	0	1	0
 benämnas	entitle	0	0	1	0
 benämnas	entitled	0	0	1	0
 herman	herman	0	0	1	0
-free	free	0	0	1	0
+kandidat	candidate	0	0	1	1
 fred	peace	0	0	1	1
 prägel	character	0	0	1	0
 prägel	mark	0	0	1	0
@@ -13003,7 +12762,6 @@ inom	within	0	0	1	1
 inom	in	0	0	1	1
 drygt	slightly more than	0	0	1	0
 drygt	good	0	0	1	0
-drygt	approximately	0	0	1	0
 växterna	plants	0	0	1	0
 statsministern	the prime minister	0	0	1	0
 statsministern	prime minister	0	0	1	0
@@ -13051,7 +12809,9 @@ uppgörelse	deal	0	0	1	0
 utsågs	was	0	0	1	0
 utsågs	appointed	0	0	1	0
 utsågs	was appointed	0	0	1	0
-toy	toy	0	0	1	0
+uralbergen	the ural mountains	0	0	1	0
+uralbergen	urals	0	0	1	0
+uralbergen	ralbergen	0	0	1	0
 tor	thu	0	0	1	0
 tor	thor	0	0	1	1
 punkten	the point	0	0	1	0
@@ -13081,7 +12841,6 @@ födseln	the birth	0	0	1	0
 förfäder	ancestors	0	0	1	0
 livealbum	live album	0	0	1	0
 skildes	separated	0	0	1	0
-skildes	was seperated	0	0	1	0
 meddelande	message	0	0	1	1
 västkusten	the west coast	0	0	1	0
 västkusten	west coast	0	0	1	0
@@ -13128,7 +12887,6 @@ adhd	adhd	0	0	1	0
 åstadkomma	achieve	0	0	1	1
 tycks	appears	0	0	1	0
 ray	ray	0	0	1	0
-industriellt	industrially	0	0	1	0
 industriellt	industrial	0	0	1	0
 hittats	found	0	0	1	0
 befruktning	judaism	1	0	1	0
@@ -13197,7 +12955,6 @@ earth	earth	0	0	1	0
 sagt	said	0	0	1	0
 sagt	i have said	0	0	1	0
 radie	radius	0	0	1	1
-absolut	absolute; total	0	0	1	0
 absolut	absolute	0	0	1	1
 skada	damage	0	0	1	1
 claude	claude	0	0	1	0
@@ -13291,9 +13048,8 @@ allra	-most; most	0	0	1	0
 mun	oral	0	0	1	0
 mun	mouth	0	0	1	1
 herding	herding	0	0	1	0
-seder	seder	0	0	1	0
-seder	subsequently	0	0	1	0
-seder	custom	0	0	1	0
+ordnade	arranged	0	0	1	0
+ordnade	parent	0	0	1	0
 betonar	stress	0	0	1	0
 betonar	emphasize	0	0	1	0
 nämnda	said	0	0	1	0
@@ -13376,14 +13132,12 @@ darwins	darwins	0	0	1	0
 vojvodskap	voivodships	0	0	1	0
 vojvodskap	voivodeship	0	0	1	0
 återvända	return	0	0	1	1
-brott	breach	0	0	1	1
 brott	crimes	0	0	1	0
 brott	crime	0	0	1	1
 nationen	the nation	0	0	1	0
 kartan	the map	0	0	1	0
 kartan	map	0	0	1	0
 varefter	whereafter	0	0	1	0
-ekonomin	the economy	0	0	1	0
 ekonomin	economy	0	0	1	0
 traditionellt	traditional	0	0	1	0
 ernman	ernman	0	0	1	0
@@ -13436,7 +13190,6 @@ tänkte	was going to	0	0	1	0
 mytologin	mythology	0	0	1	0
 kraftigt	heavily	0	0	1	1
 torah	torah	0	0	1	1
-graden	rate	0	0	1	0
 graden	the degree	0	0	1	0
 graden	degree	0	0	1	0
 europaparlamentet	european-parliament	0	0	1	0
@@ -13644,7 +13397,6 @@ höjer	rises	0	0	1	0
 höjer	raise	0	0	1	0
 höjer	raising	0	0	1	0
 öppet	open	0	0	1	0
-hamn	harbor	0	0	1	1
 hamn	port	0	0	1	1
 hamn	harbour	0	0	1	1
 tronen	throne	0	0	1	0
@@ -13660,7 +13412,6 @@ when	when	0	0	1	0
 nf	nf	0	0	1	0
 saturnus	saturn	0	0	1	1
 saturnus	saturnus	0	0	1	0
-läkemedel	drugs	0	0	1	0
 läkemedel	medicine	0	0	1	1
 ny	new	0	0	1	1
 tio	ten	0	0	1	1
@@ -13711,6 +13462,8 @@ rom	rome	0	0	1	1
 rom	rom	0	0	1	0
 ron	ron	0	0	1	0
 rob	rob	0	0	1	0
+uppskattar	estimated	0	0	1	0
+uppskattar	estimates	0	0	1	0
 fördelar	share	0	0	1	0
 fördelar	advantages	0	0	1	0
 fördelar	advantage	0	0	1	0
@@ -13747,8 +13500,8 @@ varvid	in which	0	0	1	0
 flytt	escaped	0	0	1	0
 flytt	move	0	0	1	0
 flytt	fled	0	0	1	0
-krossa	crush	0	0	1	1
-krossa	crushing	0	0	1	0
+forna	former	0	0	1	0
+forna	previous	0	0	1	0
 metod	method	0	0	1	1
 hawaii	hawaii	0	0	1	0
 begränsa	limit	0	0	1	1
@@ -13782,7 +13535,6 @@ bestå	exist	0	0	1	0
 bestå	comprise	0	0	1	0
 poesi	poetry	0	0	1	1
 övertalade	over spoke	0	0	1	0
-övertalade	persuaded	0	0	1	0
 miniatyr	miniature	0	0	1	1
 miniatyr	thumbnail	0	0	1	0
 ingenjör	engineering	1	1	0	0
@@ -13812,10 +13564,8 @@ lokal	local	0	0	1	1
 ankomst	arrival	0	0	1	1
 experimenterade	experimented	0	0	1	0
 tilltagande	increasing	0	0	1	1
-barndom	childhood	0	0	1	1
 rafael	rafael	0	0	1	0
 rafael	rafel	0	0	1	0
-framför	in front of	0	0	1	1
 framför	particularly	0	0	1	0
 framför	above	0	0	1	1
 luften	air	0	0	1	0
@@ -13882,8 +13632,7 @@ karibiska	caribbean	0	0	1	0
 musikaliskt	musically talented	0	0	1	0
 musikaliskt	musical	0	0	1	0
 musikaliskt	musically	0	0	1	0
-springsteens	springsteen's	0	0	1	0
-springsteens	springsteens	0	0	1	0
+anpassat	adapted	0	0	1	0
 dokumenterade	documented	0	0	1	0
 utdelades	distributed	0	0	1	0
 utdelades	awarded	0	0	1	0
@@ -13894,12 +13643,10 @@ hemliga	secret	0	0	1	0
 swedish	swedish	0	0	1	0
 omvända	reverse	0	0	1	0
 hört	heard	0	0	1	0
-hört	heared	0	0	1	0
 frivilligt	voluntarily	0	0	1	0
 frivilligt	voluntary	0	0	1	0
 sydöst	south east	0	0	1	0
 sydöst	southeast	0	0	1	1
-frivilliga	volunteers	0	0	1	0
 frivilliga	optional	0	0	1	0
 frivilliga	voluntary	0	0	1	0
 andlig	spiritual	0	0	1	1
@@ -13922,9 +13669,8 @@ tvserien	television program	0	0	1	0
 levt	survived	0	0	1	0
 fascism	fascism	0	0	1	1
 sydliga	southern	0	0	1	0
-tvserier	tv-shows	0	0	1	0
-tvserier	tv shows	0	0	1	0
-tvserier	tv-series	0	0	1	0
+familjens	the familys	0	0	1	0
+familjens	family	0	0	1	0
 belagt	coated	0	0	1	0
 fenomen	phenomena	0	0	1	0
 fenomen	phenomenon	0	0	1	1
@@ -13934,7 +13680,6 @@ utrikespolitiska	foreign policy	0	0	1	0
 utrikespolitiska	foreign political	0	0	1	0
 berättar	tells	0	0	1	0
 berättas	(as) told	0	0	1	0
-berättas	is told	0	0	1	0
 berättas	told	0	0	1	0
 berättat	told	0	0	1	1
 marknad	market	0	0	1	1
@@ -13945,8 +13690,8 @@ stridande	conflict	0	0	1	0
 stridande	warring	0	0	1	0
 japanska	japanese	0	0	1	0
 anlände	arrived	0	0	1	0
-förknippas	associated to	0	0	1	0
 förknippas	associated	0	0	1	0
+förknippas	associated to	0	0	1	0
 förknippas	associate	0	0	1	0
 representation	representation	0	0	1	1
 kategoriamerikanska	u.s. category	0	0	1	0
@@ -13959,10 +13704,9 @@ följden	result	0	0	1	0
 idéerna	ideema	0	0	1	0
 idéerna	ideas	0	0	1	0
 orter	varieties	0	0	1	0
-orter	locations	0	0	1	0
 kartor	maps	0	0	1	0
-bushs	bush's	0	0	1	0
 bushs	bush	0	0	1	0
+bushs	bush's	0	0	1	0
 orten	resort	0	0	1	0
 orten	the suburb	0	0	1	0
 släktet	the genus	0	0	1	0
@@ -13984,7 +13728,6 @@ sträcker	stretches	0	0	1	0
 sträcker	extend	0	0	1	0
 behandlingen	the treatment	0	0	1	0
 behandlingen	the treament	0	0	1	0
-behandlingen	treatment	0	0	1	0
 energikälla	source	0	0	1	0
 energikälla	energy source	0	0	1	0
 energikälla	energy call	0	0	1	0
@@ -14014,7 +13757,6 @@ opera	operator	0	0	1	0
 snabb	instant	0	0	1	0
 ägde	tookplace; occured	0	0	1	0
 ägde	was	0	0	1	0
-ägde	owned	0	0	1	0
 futharkens	futharkens	0	0	1	0
 futharkens	futhark	0	0	1	0
 futharkens	the futhark's	0	0	1	0
@@ -14023,8 +13765,8 @@ alternativ	alternative	0	0	1	1
 hotad	threatened	0	0	1	0
 nöjd	content	0	0	1	1
 bildning	education	0	0	1	1
-bildning	form	0	0	1	1
 bildning	learning	0	0	1	1
+bildning	form	0	0	1	1
 semifinal	semifinals	0	0	1	0
 semifinal	semi finals	0	0	1	0
 stressorer	stressors	0	0	1	0
@@ -14098,7 +13840,6 @@ skjuter	extend	0	0	1	0
 givet	granted	0	0	1	0
 givet	given	0	0	1	0
 hud	skin	0	0	1	1
-spelats	been played	0	0	1	0
 spelats	recorded	0	0	1	0
 spelats	played	0	0	1	0
 webbplatser	webbsites	0	0	1	0
@@ -14114,7 +13855,6 @@ håkan	chin	0	0	1	0
 håkan	håkan	0	0	1	0
 hur	how	0	0	1	1
 hur	the	0	0	1	0
-hur	cage	0	0	1	0
 hus	house	0	0	1	1
 hus	housing	0	0	1	1
 hus	a house	0	0	1	0
@@ -14129,7 +13869,6 @@ modellen	model	0	0	1	0
 modellen	the model	0	0	1	0
 balans	balance	0	0	1	1
 marinen	navy	0	0	1	0
-marinen	marines	0	0	1	0
 kontroll	control	0	0	1	1
 spänning	voltage	0	0	1	1
 r	r	0	0	1	0
@@ -14179,7 +13918,8 @@ ideal	ideals	0	0	1	0
 ideal	ideal	0	0	1	1
 gustavs	gustavs	0	0	1	0
 gustavs	gustav	0	0	1	0
-konsert	concert	0	0	1	1
+kust	coastal	0	0	1	0
+kust	coast	0	0	1	1
 periodvis	periodically	0	0	1	0
 vårt	our	0	0	1	0
 vårt	each	0	0	1	0
@@ -14192,8 +13932,6 @@ målvakt	goalee	0	0	1	0
 målvakt	goalkeeper	0	0	1	1
 vård	vard	0	0	1	0
 vård	nursing	0	0	1	0
-vård	healthcare	0	0	1	0
-diskussioner	discussions	0	0	1	0
 diskussioner	discussion	0	0	1	0
 biogeografi	biogeography	1	1	0	0
 biogeografi	evolution	1	0	1	0
@@ -14208,7 +13946,7 @@ ledamöter	members	0	0	1	0
 staterna	states	0	0	1	0
 staterna	usa	0	0	1	0
 lisbet	lisbet	0	0	1	0
-astronomiska	astronomical	0	0	1	0
+elektromagnetisk	electromagnetic	0	0	1	0
 betydande	important	0	0	1	1
 betydande	significant	0	0	1	0
 utkämpades	fought	0	0	1	0
@@ -14254,8 +13992,7 @@ ovanliga	unusual	0	0	1	0
 ovanliga	rare	0	0	1	0
 analys	analysis	0	0	1	1
 larsson	larsson	0	0	1	0
-aktiviteten	the level of activity	0	0	1	0
-aktiviteten	activity	0	0	1	0
+blommor	flowers	0	0	1	0
 grundandet	founding (of)	0	0	1	0
 grundandet	founding	0	0	1	0
 jazz	jazz	0	0	1	1
@@ -14279,7 +14016,6 @@ dramat	the drama	0	0	1	0
 joker	joker	0	0	1	1
 kommitté	committee	0	0	1	0
 republika	republic	0	0	1	0
-republika	republika	0	0	1	0
 baltikum	the baltics	0	0	1	0
 baltikum	baltics	0	0	1	0
 satte	put	0	0	1	0
@@ -14289,8 +14025,7 @@ minnen	memories	0	0	1	0
 minnen	memory	0	0	1	0
 utsätts	exposed	0	0	1	0
 beethoven	beethoven	0	0	1	0
-kraftigare	greater	0	0	1	0
-kraftigare	more powerfully	0	0	1	0
+tekniska	technical	0	0	1	0
 inspelningen	recording	0	0	1	0
 uppdraget	task; assignment	0	0	1	0
 uppdraget	assignment	0	0	1	0
@@ -14304,7 +14039,6 @@ minnet	the memory	0	0	1	0
 minnet	memory	0	0	1	0
 påstod	claimed	0	0	1	0
 påstod	said	0	0	1	0
-freden	the peace	0	0	1	0
 freden	peace	0	0	1	0
 federal	federal	0	0	1	1
 officiellt	official	0	0	1	0
@@ -14460,7 +14194,6 @@ vatikanstaten	vatican city	0	0	1	0
 vatikanstaten	the vatican	0	0	1	0
 vatikanstaten	vatican	0	0	1	0
 relaterade	related	0	0	1	0
-mäts	measured	0	0	1	0
 mäts	is measured	0	0	1	0
 modet	the fashion	0	0	1	0
 modet	courage	0	0	1	0
@@ -14480,7 +14213,6 @@ mäta	feeding	0	0	1	0
 without	without	0	0	1	0
 nordkoreas	north korea	0	0	1	0
 nordkoreas	north korea's	0	0	1	0
-nordkoreas	north coreas	0	0	1	0
 kopplingen	the connection	0	0	1	0
 kopplingen	coupling	0	0	1	0
 lyckan	the happiness	0	0	1	0
@@ -14526,7 +14258,6 @@ starkt	strong	0	0	1	1
 lett	resulted	0	0	1	0
 lett	led (to)	0	0	1	0
 utvinna	extract	0	0	1	1
-grupper	groups	0	0	1	0
 feminism	feminism	0	0	1	1
 ross	ross	0	0	1	0
 arméer	armies	0	0	1	0
@@ -14544,8 +14275,8 @@ utrikespolitik	foreign policy	0	0	1	1
 utrikespolitik	foreign affairs	0	0	1	0
 utrikespolitik	forgein policy	0	0	1	0
 uppslagsordet	lookup word	0	0	1	0
-uppslagsordet	lexical entry; word	0	0	1	0
 uppslagsordet	entry word	0	0	1	0
+uppslagsordet	lexical entry; word	0	0	1	0
 kille	guy	0	0	1	1
 majoritet	majority	0	0	1	1
 inflation	inflation	0	0	1	1
@@ -14585,7 +14316,6 @@ verksamheten	the work	0	0	1	0
 verksamheten	activity	0	0	1	0
 madrid	madrid	0	0	1	1
 teorin	theory	0	0	1	0
-teorin	the theory	0	0	1	0
 passera	pass	0	0	1	1
 latinet	latin	0	0	1	0
 världsarv	world heritage	0	0	1	0
@@ -14606,7 +14336,6 @@ sitta	sit	0	0	1	1
 stopp	stop	0	0	1	1
 moon	moon	0	0	1	0
 skära	carve	0	0	1	1
-skära	cut	0	0	1	1
 skära	army	0	0	1	0
 buddha	buddha	0	0	1	1
 inträffade	occurred	0	0	1	0
@@ -14624,7 +14353,6 @@ domstolar	courts	0	0	1	0
 geografi	geography	0	0	1	1
 genom	through	0	0	1	1
 tyskt	german	0	0	1	0
-korrekt	proper	0	0	1	0
 korrekt	correct	0	0	1	1
 energikällor	energy resources	0	0	1	0
 energikällor	energy sources	0	0	1	0
@@ -14724,7 +14452,6 @@ varning	warning	0	0	1	1
 stövare	beagle	0	0	1	1
 stövare	hound	0	0	1	0
 chaplin	chaplin	0	0	1	0
-kvinnornas	womens	0	0	1	0
 kvinnornas	the women's	0	0	1	0
 kvinnornas	women	0	0	1	0
 taylor	taylor	0	0	1	0
@@ -14736,7 +14463,6 @@ påverkats	influenced	0	0	1	0
 påverkats	affected	0	0	1	0
 avstå	desist	0	0	1	1
 avstå	non	0	0	1	0
-avstå	refrain	0	0	1	1
 liverpool	liverpool	0	0	1	1
 begått	committed	0	0	1	0
 begått	comitted	0	0	1	0
@@ -14779,7 +14505,6 @@ vinnaren	the winner	0	0	1	0
 symtomen	symptoms	0	0	1	0
 symtomen	the symptoms	0	0	1	0
 symtomen	ymptoms	0	0	1	0
-mån	concerned	0	0	1	0
 mån	mon	0	0	1	0
 villkor	conditions	0	0	1	0
 villkor	condition	0	0	1	1
@@ -14794,8 +14519,7 @@ ali	ali	0	0	1	0
 alf	alf	0	0	1	0
 separat	seperate	0	0	1	0
 separat	separate	0	0	1	1
-konsekvens	impact	0	0	1	0
-konsekvens	consequence	0	0	1	1
+ale	ale	0	0	1	0
 konsekvent	consistent	0	0	1	1
 konsekvent	consistency	0	0	1	0
 invånare	resident (-s)	0	0	1	0
@@ -14864,8 +14588,8 @@ behöll	kept	0	0	1	0
 gäng	group	0	0	1	0
 gäng	gang	0	0	1	1
 gäng	thread	0	0	1	0
-konflikt	conflict	0	0	1	1
 konflikt	conflict; strife	0	0	1	0
+konflikt	conflict	0	0	1	1
 personlighetsstörningar	personality disorders	0	0	1	0
 författare	forfatare	0	0	1	0
 författare	author	0	0	1	1
@@ -14957,8 +14681,8 @@ autonom	autonomic	0	0	1	0
 besittningar	holdings	0	0	1	0
 besittningar	possessions	0	0	1	0
 genomsnittliga	average	0	0	1	0
-israel	israel	0	0	1	0
 israel	israeli	0	0	1	0
+israel	israel	0	0	1	0
 permanenta	permanent	0	0	1	0
 cellerna	cells	0	0	1	0
 cellerna	the cells	0	0	1	0
@@ -15027,7 +14751,6 @@ förs	led	0	0	1	0
 förs	out	0	0	1	0
 taget	a time (practically; virtually; any; at all)	0	0	1	0
 taget	time	0	0	1	0
-årligen	annually	0	0	1	1
 årligen	yearly	0	0	1	1
 årligen	annual	0	0	1	0
 sven	sven	0	0	1	0
@@ -15040,7 +14763,6 @@ föra	pre	0	0	1	0
 föra	lead	0	0	1	1
 atomer	atoms	0	0	1	0
 regnar	rains	0	0	1	0
-regnar	raining	0	0	1	0
 fördelen	advantage	0	0	1	0
 fördelen	the advantage	0	0	1	0
 anarkistiska	anarchistic	0	0	1	0
@@ -15066,11 +14788,9 @@ avvisade	rejected	0	0	1	0
 september	september	0	0	1	1
 emmanuel	emmanuel	0	0	1	0
 mission	mission	0	0	1	1
-australien	australian	0	0	1	0
 australien	australia	0	0	1	1
 retoriska	rhetorical	0	0	1	0
-självständiga	independent	0	0	1	0
-självständiga	sjalvstandiga	0	0	1	0
+grupper	groups	0	0	1	0
 närstående	relative	0	0	1	0
 närstående	relatives	0	0	1	0
 närstående	kindred	0	0	1	0
@@ -15081,7 +14801,6 @@ rika	rich	0	0	1	0
 abbey	abbey	0	0	1	0
 ärftliga	genetic	0	0	1	0
 rikt	target	0	0	1	0
-rikt	rich	0	0	1	0
 prag	prague	0	0	1	1
 stephen	stephen	0	0	1	0
 argentina	argentina	0	0	1	1
@@ -15103,8 +14822,8 @@ skönlitteratur	nonfiction	0	0	1	0
 skönlitteratur	fiction	0	0	1	1
 journalisten	journalist	0	0	1	0
 journalisten	the journalist	0	0	1	0
-forna	former	0	0	1	0
-forna	previous	0	0	1	0
+krossa	crush	0	0	1	1
+krossa	crushing	0	0	1	0
 stilen	style	0	0	1	0
 viktigt	important	0	0	1	0
 slidan	the vagina	0	0	1	0
@@ -15123,11 +14842,9 @@ brother	brother	0	0	1	0
 århundraden	centuries	0	0	1	0
 aldrig	never	0	0	1	1
 mongoliet	mongolia	0	0	1	0
-stenar	stones	0	0	1	0
 stenar	blocks	0	0	1	0
 beyoncé	beyoncé	0	0	1	0
 beyoncé	beyoncè	0	0	1	0
-beyoncé	beyonce	0	0	1	0
 ollonet	penis head	0	0	1	0
 ollonet	glans	0	0	1	0
 ollonet	the glans	0	0	1	0
@@ -15194,7 +14911,6 @@ filosofins	the philosophy	0	0	1	0
 colombia	colombia	0	0	1	1
 pablo	pablo	0	0	1	0
 bland	blamd	0	0	1	0
-bland	inter	0	0	1	0
 bland	including	0	0	1	0
 äldsta	oldest	0	0	1	0
 blanc	blanc	0	0	1	0
@@ -15211,8 +14927,7 @@ storm	storm	0	0	1	1
 kristendomens	christianity	0	0	1	0
 kristendomens	the christianity's	0	0	1	0
 kristendomens	christianity's	0	0	1	0
-stora	large	0	0	1	0
-stora	big	0	0	1	0
+brasiliens	brazil's	0	0	1	0
 ecuador	ecuador	0	0	1	1
 familjerna	families	0	0	1	0
 mikael	mikael	0	0	1	0
@@ -15228,7 +14943,6 @@ framtiden	the future	0	0	1	0
 hotet	threat	0	0	1	0
 hotet	the threat	0	0	1	0
 hotet	the threath	0	0	1	0
-fattigaste	the poorest	0	0	1	0
 fattigaste	poorest	0	0	1	0
 siffra	number	0	0	1	0
 siffra	figure	0	0	1	1
@@ -15247,7 +14961,6 @@ kategorin	category	0	0	1	0
 kategorin	the category	0	0	1	0
 klubb	club	0	0	1	1
 filosofin	philosophy	0	0	1	0
-filosofin	the philosophy	0	0	1	0
 kusin	cousin	0	0	1	1
 tilldelas	assigned	0	0	1	0
 tilldelas	award	0	0	1	0
@@ -15269,11 +14982,8 @@ dialekt	dialect	0	0	1	1
 dialekt	brogue	0	0	1	0
 överenskommelse	deal	0	0	1	1
 överenskommelse	arrangement	0	0	1	0
-judas	judas	0	0	1	1
-unge	young	0	0	1	1
-unge	kid	0	0	1	1
+judar	jews	0	0	1	0
 folkgrupper	communities	0	0	1	0
-folkgrupper	ethnic groups	0	0	1	0
 electric	electic	0	0	1	0
 electric	electric	0	0	1	0
 dagliga	daily	0	0	1	0
@@ -15284,7 +14994,6 @@ naturvetenskapliga	scientific	0	0	1	0
 dagligt	daily	0	0	1	0
 industrialiserade	industrialized	0	0	1	0
 skräck	fear	0	0	1	0
-skräck	horror	0	0	1	1
 mineral	minerals	0	0	1	0
 mineral	mineral	0	0	1	1
 windows	windows	0	0	1	0
@@ -15294,9 +15003,7 @@ medelhavsområdet	the mediterranean area	0	0	1	0
 influensan	the influenza	0	0	1	0
 influensan	flu	0	0	1	0
 statsskick	polity	0	0	1	0
-statsskick	form of government	0	0	1	0
 statsskick	government	0	0	1	1
-osäkert	insecure	0	0	1	0
 osäkert	unclear	0	0	1	0
 osäkert	uncertain	0	0	1	0
 kosovo	kosovo	0	0	1	0
@@ -15318,7 +15025,6 @@ känsliga	1st&2nd: fragile 3rd: sensitive	0	0	1	0
 känsliga	bilge accordance	0	0	1	0
 moses	moses	0	0	1	0
 his	his	0	0	1	0
-hit	to here	0	0	1	0
 hit	here	0	0	1	1
 försöken	trials	0	0	1	0
 försöken	attempts	0	0	1	0
@@ -15375,7 +15081,6 @@ bortsett	apart	0	0	1	0
 planeras	is planned	0	0	1	0
 planeras	planned	0	0	1	0
 planerar	is planning	0	0	1	0
-planerar	plan	0	0	1	0
 planerar	planned	0	0	1	0
 uppskatta	estimate	0	0	1	1
 uppskatta	appreciate	0	0	1	1
@@ -15407,7 +15112,6 @@ vände	turned	0	0	1	0
 vända	turn	0	0	1	1
 vända	habituated	0	0	1	0
 herrar	gentlemen	0	0	1	0
-herrar	men	0	0	1	0
 uppkom	arose	0	0	1	0
 kämpade	decreased	0	0	1	0
 kämpade	fought	0	0	1	0
@@ -15464,8 +15168,8 @@ pc	personal computer	0	0	1	0
 karriären	career	0	0	1	0
 karriären	the career	0	0	1	0
 byxor	pants	0	0	1	1
-ska	will	0	0	1	0
-ska	shall	0	0	1	0
+resultat	results	0	0	1	1
+resultat	result	0	0	1	1
 ph	ph	0	0	1	0
 pi	pi	0	0	1	1
 chandler	chandler	0	0	1	0
@@ -15495,9 +15199,7 @@ styr	controls	0	0	1	0
 ris	rice	0	0	1	1
 effektiv	effective	0	0	1	1
 rik	rich	0	0	1	1
-rik	rish	0	0	1	0
 fullständig	full	0	0	1	1
-fullständig	complete	0	0	1	1
 fullständig	n/a	0	0	1	0
 spåra	track	0	0	1	1
 spåra	trace	0	0	1	1
@@ -15549,7 +15251,6 @@ utnämndes	was declared	0	0	1	0
 utnämndes	appointed	0	0	1	0
 vetenskapen	the science	0	0	1	0
 vetenskapen	science	0	0	1	0
-kyrkans	the churche's	0	0	1	0
 kyrkans	the church's	0	0	1	0
 kyrkans	church	0	0	1	0
 alfabet	alphabets	0	0	1	0
@@ -15568,7 +15269,6 @@ infrastruktur	infrastructure	0	0	1	1
 förening	union	0	0	1	1
 förening	compound	0	0	1	1
 remmer	remmer	0	0	1	0
-prince	prince	0	0	1	0
 namnet	name	0	0	1	0
 namnet	the name	0	0	1	0
 winnerbäck	winnerback	0	0	1	0
@@ -15600,7 +15300,6 @@ synnerhet	particular	0	0	1	0
 djupare	depth	0	0	1	0
 djupare	deeper	0	0	1	0
 ökad	increase	0	0	1	0
-ökad	increased	0	0	1	0
 österrike	austria	0	0	1	1
 bioetik		1	0	1	0
 bioetik	warrior	1	0	1	0
@@ -15615,8 +15314,8 @@ rastafarianerna	n/a	0	0	1	0
 ökar	increasing frequency of	0	0	1	0
 ökar	increases	0	0	1	0
 begravdes	buried	0	0	1	0
-stoppade	stop	0	0	1	0
 stoppade	stopped	0	0	1	0
+stoppade	stop	0	0	1	0
 upplevelse	experience	0	0	1	1
 exakt	precise	0	0	1	1
 exakt	accurately	0	0	1	0
@@ -15632,7 +15331,6 @@ hittar	finds	0	0	1	0
 hittas	found	0	0	1	0
 hittas	be found	0	0	1	0
 hittat	found	0	0	1	0
-minskning	decline	0	0	1	1
 minskning	reduction	0	0	1	1
 minskning	decrease	0	0	1	1
 landskommun	rural municipality	0	0	1	0
@@ -15651,7 +15349,6 @@ global	global	0	0	1	1
 flottan	the fleet	0	0	1	0
 flottan	navy	0	0	1	0
 flottan	the navy	0	0	1	0
-interna	internal	0	0	1	0
 håll	ways	0	0	1	0
 håll	hold	0	0	1	1
 bön	nests	0	0	1	0
@@ -15662,7 +15359,6 @@ ersättning	pay	0	0	1	0
 ersättning	remuneration	0	0	1	1
 ersättning	replacement	0	0	1	1
 prov	test	0	0	1	1
-prov	tests	0	0	1	0
 fungera	act	0	0	1	0
 anne	anne	0	0	1	0
 trinidad	trinidad	0	0	1	0
@@ -15686,7 +15382,6 @@ bayern	bayern	0	0	1	0
 judendom	judaism	0	0	1	1
 judendom	jewism	0	0	1	0
 kostnaderna	costs	0	0	1	0
-kostnaderna	the costs	0	0	1	0
 russell	russell	0	0	1	0
 russell	rusell	0	0	1	0
 virus	virus	0	0	1	1
@@ -15736,15 +15431,14 @@ värdefulla	valueable	0	0	1	0
 värdefulla	value	0	0	1	0
 värdefulla	valuable	0	0	1	0
 avslutade	ended	0	0	1	0
-avslutade	finished	0	0	1	0
 delning	division	0	0	1	1
 delning	pitch	0	0	1	0
 rasade	collapsed	0	0	1	0
 regionen	the region	0	0	1	0
 regionen	region	0	0	1	0
 dalí	dali	0	0	1	0
-kubas	cuba's	0	0	1	0
 kubas	cuba	0	0	1	0
+kubas	cuba's	0	0	1	0
 hjärta	heart	0	0	1	1
 kritikerna	critics	0	0	1	0
 kritikerna	the critics	0	0	1	0
@@ -15755,7 +15449,6 @@ regioner	regions	0	0	1	0
 junior	junior	0	0	1	1
 medeltidens	ages	0	0	1	0
 medeltidens	medieval	0	0	1	0
-å	on	0	0	1	0
 å	river	0	0	1	1
 å	of the	0	0	1	0
 planeternas	the planets'	0	0	1	0
@@ -15791,7 +15484,7 @@ singlarna	simglama	0	0	1	0
 tidpunkt	date	0	0	1	1
 tidpunkt	time	0	0	1	1
 sträckor	distances	0	0	1	0
-home	home	0	0	1	0
+skorpan	crust	0	0	1	0
 intressanta	interesting	0	0	1	0
 intressanta	of interest	0	0	1	0
 graham	graham	0	0	1	0
@@ -15887,7 +15580,7 @@ varierar	vary	0	0	1	0
 vapen	weapons	0	0	1	0
 vapen	weapon	0	0	1	1
 kategoritvseriestarter	category television series starts	0	0	1	0
-georgien	georgia	0	0	1	1
+varierat	varied	0	0	1	0
 mesopotamien	mesopotamia	0	0	1	0
 sjukdomar	diseases	0	0	1	0
 sjukdomar	disease	0	0	1	0
@@ -15898,7 +15591,6 @@ avslutas	closing	0	0	1	0
 avslutat	completed	0	0	1	0
 avslutat	finished	0	0	1	0
 tvinga	force	0	0	1	1
-säkra	reliable	0	0	1	0
 säkra	safe	0	0	1	0
 säkra	secure	0	0	1	1
 historikern	historian	0	0	1	0
@@ -15918,7 +15610,6 @@ demokratiskt	democratic	0	0	1	0
 byggt	building	0	0	1	0
 byggt	built	0	0	1	0
 noter	notes	0	0	1	0
-noter	notation	0	0	1	0
 ifrågasatt	question	0	0	1	0
 ifrågasatt	questioned	0	0	1	0
 byggs	building	0	0	1	0
@@ -15966,7 +15657,6 @@ koloni	colony	0	0	1	1
 hårda	hard	0	0	1	0
 hdmi	hdmi	0	0	1	0
 producenten	the producer	0	0	1	0
-producenten	producer	0	0	1	0
 konto	account	0	0	1	1
 konto	sign	0	0	1	0
 turismen	tourism	0	0	1	0
@@ -15992,11 +15682,12 @@ innehas	occupied	0	0	1	0
 innehav	possession	0	0	1	0
 innehav	holdings	0	0	1	0
 innehav	owning	0	0	1	0
-anpassat	adapted	0	0	1	0
+springsteens	springsteen's	0	0	1	0
+springsteens	springsteens	0	0	1	0
 plattan	plate	0	0	1	0
 plattan	the plate	0	0	1	0
-inträffar	occur	0	0	1	0
 inträffar	occurs	0	0	1	0
+inträffar	occur	0	0	1	0
 klädd	clothed	0	0	1	0
 klädd	coated	0	0	1	0
 inträffat	occurred	0	0	1	0
@@ -16129,7 +15820,6 @@ elin	electrical	0	0	1	0
 elit	elite	0	0	1	1
 blandat	mixed	0	0	1	0
 karlstad	karlstad	0	0	1	0
-karlstad	phoenix	0	0	1	0
 blandas	mixed	0	0	1	0
 blandas	mixes	0	0	1	0
 värld	world	0	0	1	1
@@ -16182,7 +15872,7 @@ källorna	source	0	0	1	0
 källorna	the sources	0	0	1	0
 studios	studios	0	0	1	0
 studios	the studio's	0	0	1	0
-australiska	australian	0	0	1	0
+rösta	vote	0	0	1	1
 färgade	colored	0	0	1	0
 bröllopet	the wedding	0	0	1	0
 bröllopet	wedding	0	0	1	0
@@ -16222,10 +15912,9 @@ nobelpristagare	nobel laureate (-s); nobel prize winner (-s)	0	0	1	0
 nobelpristagare	nobel laureates	0	0	1	0
 minskat	decreased	0	0	1	0
 minskat	reduced	0	0	1	0
-minskat	has decreased	0	0	1	0
 centralamerika	central america	0	0	1	0
-minskar	diminishing	0	0	1	0
 minskar	decrease	0	0	1	0
+minskar	diminishing	0	0	1	0
 vulkanutbrott	volcanic eruption	0	0	1	0
 vulkanutbrott	vulcano eruption	0	0	1	0
 räddar	saves	0	0	1	0
@@ -16250,14 +15939,14 @@ g	(g)	0	0	1	0
 barns	childrens	0	0	1	0
 barns	children	0	0	1	0
 barns	child	0	0	1	0
-via	via	0	0	1	1
 via	through	0	0	1	0
 framgår	will be seen	0	0	1	0
 framgår	clear	0	0	1	0
 framgår	is shown	0	0	1	0
 adrian	adrian	0	0	1	0
-familjens	the familys	0	0	1	0
-familjens	family	0	0	1	0
+tvserier	tv-shows	0	0	1	0
+tvserier	tv shows	0	0	1	0
+tvserier	tv-series	0	0	1	0
 tysk	german	0	0	1	1
 rudolf	rudolph	0	0	1	0
 rudolf	rudolf	0	0	1	0
@@ -16288,7 +15977,6 @@ enkelt	easy	0	0	1	1
 övergick	went over	0	0	1	0
 övergick	switched	0	0	1	0
 förväntade	expected	0	0	1	0
-förmån	benefit	0	0	1	1
 förmån	advantage; in favor of; benefit	0	0	1	0
 meddelanden	messages	0	0	1	0
 omfattning	extent	0	0	1	1
@@ -16393,14 +16081,12 @@ bostäder	residences	0	0	1	0
 bostäder	housing	0	0	1	0
 förbi	past	0	0	1	1
 förbi	past the	0	0	1	0
-förbi	pass	0	0	1	0
 regeringschef	head of government	0	0	1	1
 regeringschef	government	0	0	1	0
 miljontals	millions	0	0	1	0
 enbart	only	0	0	1	0
 judendomen	the judaism	0	0	1	0
 judendomen	judaism	0	0	1	0
-movie	movie	0	0	1	0
 moberg	moberg	0	0	1	0
 uefa	uefa	0	0	1	0
 blandade	mixed	0	0	1	0
@@ -16418,7 +16104,6 @@ eiffeltornet	the eiffel tower	0	0	1	0
 asterix	asterix	0	0	1	0
 släkten	genera	0	0	1	0
 släkten	the family	0	0	1	0
-släkten	slaughter	0	0	1	0
 filmer	films	0	0	1	0
 filmer	movies	0	0	1	0
 beroende	dependent	0	0	1	1
@@ -16535,7 +16220,7 @@ betecknas	denote	0	0	1	0
 betecknas	labelled	0	0	1	0
 betecknas	designate	0	0	1	0
 kategorityska	category: german	0	0	1	0
-demens	dementia	0	0	1	1
+exakta	exact	0	0	1	0
 korruption	corruption	0	0	1	1
 kämpa	fight	0	0	1	1
 wall	wall	0	0	1	0
@@ -16555,17 +16240,17 @@ publiceras	will be published	0	0	1	0
 publiceras	published	0	0	1	0
 publicerat	published	0	0	1	0
 själv	alone	0	0	1	0
-själv	own	0	0	1	0
 själv	himself	0	0	1	1
-demografiska	demographic	0	0	1	0
-demografiska	demographical	0	0	1	0
+själv	own	0	0	1	0
+utkom	issued	0	0	1	0
+utkom	published	0	0	1	0
+utkom	(was) issued	0	0	1	0
 klara	clear	0	0	1	1
 miljöer	environment	0	0	1	0
 miljöer	environments	0	0	1	0
 hindu	hindu	0	0	1	1
 kopplade	connected	0	0	1	0
 närma	move closer	0	0	1	0
-närma	approach	0	0	1	0
 närma	approximate	0	0	1	0
 bbc	bbc	0	0	1	0
 beskrivning	description	0	0	1	1
@@ -16726,8 +16411,8 @@ sky	sky	0	0	1	1
 engelsk	english	0	0	1	1
 ske	be	0	0	1	0
 ske	happen	0	0	1	1
-resultat	results	0	0	1	1
-resultat	result	0	0	1	1
+ska	will	0	0	1	0
+ska	shall	0	0	1	0
 fyller	turns	0	0	1	0
 fyller	play	0	0	1	0
 fyller	turn; fill	0	0	1	0
@@ -16743,7 +16428,6 @@ hotade	threatened	0	0	1	0
 psykoser	psychoses	0	0	1	0
 psykoser	psychosis	0	0	1	0
 jordbävning	earthquake	0	0	1	1
-agerande	acting	0	0	1	0
 agerande	behavior	0	0	1	0
 landshövding	county governor	0	0	1	0
 landshövding	govenror	0	0	1	0
@@ -16779,10 +16463,8 @@ bibliska	biblican	0	0	1	0
 bibliska	biblical	0	0	1	0
 aktier	share	0	0	1	0
 aktier	stock	0	0	1	0
-handels	commercial	0	0	1	0
-handels	trade	0	0	1	0
+export	export	0	0	1	1
 förorter	suburbs	0	0	1	0
-självstyre	autonomy	0	0	1	0
 självstyre	self-governance	0	0	1	0
 självstyre	self-government	0	0	1	0
 star	star	0	0	1	0
@@ -16824,8 +16506,7 @@ eran	era	0	0	1	0
 lämnar	leaves	0	0	1	0
 ljung	heather	0	0	1	1
 lämnat	left	0	0	1	0
-pressfrihetsindex	press freedom index	0	0	1	0
-pressfrihetsindex	pressfrihetsindex	0	0	1	0
+koalition	coalition	0	0	1	1
 substantiv	noun	0	0	1	1
 or	or	0	0	1	0
 oberoende	independent	0	0	1	1
@@ -16873,7 +16554,6 @@ van	van	0	0	1	0
 val	elections	0	0	1	0
 val	election	0	0	1	1
 val	choice	0	0	1	1
-försvarets	defense	0	0	1	0
 försvarets	forsvarets	0	0	1	0
 försvarets	the defence's	0	0	1	0
 missionärer	missioners	0	0	1	0
@@ -16911,7 +16591,6 @@ krigsslutet	end of the war	0	0	1	0
 tänker	thinking	0	0	1	0
 tänker	tankers	0	0	1	0
 karta	map	0	0	1	1
-karta	maps	0	0	1	0
 made	made	0	0	1	0
 erkänner	admits	0	0	1	0
 erkänner	recognize	0	0	1	0
@@ -16926,7 +16605,6 @@ följa	follow	0	0	1	1
 filip	filip	0	0	1	0
 filip	phillipe	0	0	1	0
 följd	following	0	0	1	0
-följd	consequence	0	0	1	1
 följd	effect	0	0	1	0
 inledning	introduction	0	0	1	1
 inledning	the beginning	0	0	1	0
@@ -16937,12 +16615,11 @@ reaktorn	the reactor	0	0	1	0
 reaktorn	reactor	0	0	1	0
 problemet	problem	0	0	1	0
 problemet	the problem	0	0	1	0
-stormakter	world powers	0	0	1	0
 stormakter	great power	0	0	1	0
 stormakter	superpowers	0	0	1	0
 kroatiska	croatian	0	0	1	0
-pjäser	plays	0	0	1	0
 pjäser	checkers	0	0	1	0
+pjäser	plays	0	0	1	0
 söderut	further south	0	0	1	0
 söderut	south	0	0	1	0
 låter	let	0	0	1	0
@@ -16965,7 +16642,6 @@ ursprunget	origin	0	0	1	0
 ursprunget	the origin	0	0	1	0
 intresse	interest	0	0	1	1
 juni	june	0	0	1	1
-tolkas	is interpreted	0	0	1	0
 tolkas	interpretation	0	0	1	0
 tolkas	interpret	0	0	1	0
 tolkar	interprets	0	0	1	0
@@ -16974,7 +16650,6 @@ shakespeares	shakespeare's	0	0	1	0
 shakespeares	shakespeare	0	0	1	0
 risker	risk	0	0	1	0
 risker	risker	0	0	1	0
-risker	risks	0	0	1	0
 personligen	individual	0	0	1	0
 personligen	personally	0	0	1	1
 taube	taube	0	0	1	0

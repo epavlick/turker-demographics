@@ -76,7 +76,6 @@
 земната	earth	0	0	1	0
 илиада	ilyad	0	0	1	0
 илиада	iliad	0	0	1	0
-илиада	illiad	0	0	1	0
 затворена	closed	0	0	1	0
 каквото	what	0	0	1	0
 либералната	liberal	0	0	1	0
@@ -87,7 +86,6 @@
 робърт	robert	0	0	1	0
 чили	chili	0	0	1	0
 чили	chile	0	0	1	0
-сме	we	0	0	1	0
 сме	are	0	0	1	0
 фондация	foundation	0	0	1	0
 фондация	fondation	0	0	1	0
@@ -109,7 +107,6 @@
 четата	detachment	0	0	1	0
 четата	army	0	0	1	0
 интерпретации	interpretations	0	0	1	0
-нуждае	need	0	0	1	0
 нуждае	needs	0	0	1	0
 латинските	latin	0	0	1	0
 замяна	trade	0	0	1	0
@@ -174,7 +171,6 @@
 държи	holds	0	0	1	0
 паметта	memory	0	0	1	0
 проникване	penetration	0	0	1	0
-темпове	pace	0	0	1	0
 темпове	rate	0	0	1	0
 палата	chamber	0	0	1	0
 палата	palace	0	0	1	0
@@ -183,7 +179,6 @@
 ума	mind	0	0	1	0
 религиозното	religious	0	0	1	0
 режисьор	director	0	0	1	0
-половите	genitals	0	0	1	0
 половите	sex	0	0	1	0
 миналото	past	0	0	1	0
 миналото	the past	0	0	1	0
@@ -226,14 +221,11 @@
 характерните	characteristic	0	0	1	0
 характерните	typical	0	0	1	0
 говорени	spoken	0	0	1	0
-обратното	inverse	0	0	1	0
-обратното	opposite	0	0	1	0
+уинстън	winston	0	0	1	0
 клетки	cells	0	0	1	0
 същото	same	0	0	1	0
 засилват	strengthen	0	0	1	0
 засилват	intensify	0	0	1	0
-масата	table	0	0	1	0
-масата	crowds	0	0	1	0
 клетка	cell	0	0	1	0
 избиран	chosen	0	0	1	0
 избиран	elected	0	0	1	0
@@ -249,16 +241,12 @@
 моцарела	mozzarella	1	1	0	0
 моцарела	mozzarela	1	0	1	0
 моцарела	activity	1	0	1	0
-подписва	sign	0	0	1	0
 подписва	signs	0	0	1	0
 знаме	flag	0	0	1	0
 скулптор	sculptor	0	0	1	0
 славейков	slaveikov (name)	0	0	1	0
-славейков	slaveykov	0	0	1	0
 славейков	slaveikov	0	0	1	0
-приемане	admission	0	0	1	0
 приемане	acceptance	0	0	1	0
-приемане	reception	0	0	1	0
 застава	takes	0	0	1	0
 застава	stands	0	0	1	0
 костите	bones	0	0	1	0
@@ -283,7 +271,6 @@
 омир	homer	0	0	1	0
 омир	omir	0	0	1	0
 механика	mechanics	0	0	1	0
-външен	outside	0	0	1	0
 външен	outer	0	0	1	0
 външен	external	0	0	1	0
 футболни	football	0	0	1	0
@@ -314,12 +301,10 @@
 протисти	much	1	0	1	0
 сопот	sopot	0	0	1	0
 врачански	from vratsa	0	0	1	0
-врачански	vrachanski	0	0	1	0
 започват	begin	0	0	1	0
 същността	nature	0	0	1	0
 врачанска	vrachan	0	0	1	0
 врачанска	vrachanska	0	0	1	0
-максималната	the maximal	0	0	1	0
 максималната	maximum	0	0	1	0
 желанието	desire	0	0	1	0
 желанието	the desire	0	0	1	0
@@ -377,7 +362,6 @@
 лежи	lying	0	0	1	0
 заема	occupy	0	0	1	0
 заема	loan	0	0	1	0
-заема	takes	0	0	1	0
 заеме	take	0	0	1	0
 испанското	spanish	0	0	1	0
 заеми	loans	0	0	1	0
@@ -390,8 +374,8 @@
 договора	agreement	0	0	1	0
 договора	contract	0	0	1	0
 ефективно	effective	0	0	1	0
-бела	bela	0	0	1	0
-бела	bella	0	0	1	0
+масло	butter	0	0	1	0
+масло	oil	0	0	1	0
 парижката	paris	0	0	1	0
 погребани	buried	0	0	1	0
 считани	considered	0	0	1	0
@@ -438,7 +422,6 @@
 земеделска	agricultural	0	0	1	0
 изпълнена	filled	0	0	1	0
 езерото	lake	0	0	1	0
-езерото	the lake	0	0	1	0
 английски	english	0	0	1	0
 процесорът	processor	0	0	1	0
 джуджета	dwarf	0	0	1	0
@@ -457,7 +440,6 @@
 ляв	left	0	0	1	0
 получават	make	0	0	1	0
 получават	have	0	0	1	0
-получават	get	0	0	1	0
 паркове	parks	0	0	1	0
 анхиало	anhialo	0	0	1	0
 железопътни	rail	0	0	1	0
@@ -468,7 +450,6 @@
 емануил	emanuel	0	0	1	0
 емануил	emmanuel	0	0	1	0
 татари	tatars	0	0	1	0
-кабинета	the cabinet	0	0	1	0
 кабинета	cabinet	0	0	1	0
 революцията	revolution	0	0	1	0
 петък	friday	0	0	1	0
@@ -534,12 +515,10 @@
 обуславя	determined	0	0	1	0
 соу	high school	0	0	1	0
 соу	secondary school	0	0	1	0
-среда	environment	0	0	1	0
-среда	sphere	0	0	1	0
+огромни	huge	0	0	1	0
 същество	being	0	0	1	0
 същество	essentially	0	0	1	0
 същество	creature	0	0	1	0
-румен	rumen	0	0	1	0
 израз	expression	0	0	1	0
 игрище	playground	0	0	1	0
 същества	beings	0	0	1	0
@@ -551,7 +530,6 @@
 руския	russian	0	0	1	0
 руския	russians	0	0	1	0
 живописни	scenic	0	0	1	0
-живописни	pictorials	0	0	1	0
 февуари	february	0	0	1	0
 затворени	closed	0	0	1	0
 обвинения	charges	0	0	1	0
@@ -622,7 +600,6 @@
 събира	gather	0	0	1	0
 септември	september	0	0	1	0
 въздействие	impact	0	0	1	0
-джони	johny	0	0	1	0
 джони	johnny	0	0	1	0
 отряди	squads	0	0	1	0
 възможно	possibly	0	0	1	0
@@ -638,7 +615,6 @@
 самоков	samokov	0	0	1	0
 възможна	possible	0	0	1	0
 плячката	prey	0	0	1	0
-плячката	the pray	0	0	1	0
 проведени	conducted	0	0	1	0
 предния	front	0	0	1	0
 генетичен	genetic	0	0	1	0
@@ -646,7 +622,6 @@
 лен	flax	0	0	1	0
 проведено	conducted	0	0	1	0
 чърк	chirk	1	1	0	0
-остатъците	remains	0	0	1	0
 остатъците	remainders	0	0	1	0
 остатъците	residues	0	0	1	0
 продължат	continue	0	0	1	0
@@ -682,8 +657,8 @@
 вида	type	0	0	1	0
 вида	species	0	0	1	0
 въздействия	impact	0	0	1	0
-въздействия	influences	0	0	1	0
 въздействия	impacts	0	0	1	0
+въздействия	influences	0	0	1	0
 тракийско	thracian	0	0	1	0
 хомеопатичните	homeopathic	0	0	1	0
 хомеопатичните	homeopatic	0	0	1	0
@@ -705,7 +680,6 @@
 приготвя	is made	0	0	1	0
 приготвя	cooked	0	0	1	0
 приготвя	was prepared	0	0	1	0
-знаят	known	0	0	1	0
 знаят	know	0	0	1	0
 привлича	attract	0	0	1	0
 произведени	produced	0	0	1	0
@@ -765,7 +739,6 @@
 унгарския	hungarian	0	0	1	0
 очертава	outlines	0	0	1	0
 оон	oon	0	0	1	0
-оон	un	0	0	1	0
 филмите	films	0	0	1	0
 еврейската	jewish	0	0	1	0
 еврейската	the jewish	0	0	1	0
@@ -787,7 +760,6 @@
 черна	black	0	0	1	0
 черна	montenegro	0	0	1	0
 санджак	sanjak	0	0	1	0
-санджак	sandjak	0	0	1	0
 черни	black	0	0	1	0
 черно	black	0	0	1	0
 войвода	chieftain	0	0	1	0
@@ -845,7 +817,6 @@
 частите	parts	0	0	1	0
 балканска	balkan	0	0	1	0
 напуснат	leave	0	0	1	0
-напуснат	to leave	0	0	1	0
 добив	production	0	0	1	0
 добив	yield / output	0	0	1	0
 добив	yield	0	0	1	0
@@ -1021,7 +992,7 @@
 владение	possession	0	0	1	0
 владение	occupancy	0	0	1	0
 владение	occupation	0	0	1	0
-абридж	abridge	1	1	0	0
+дебютира	debut	0	0	1	0
 предметите	objects	0	0	1	0
 радва	gain interest	0	0	1	0
 радва	enjoys	0	0	1	0
@@ -1039,7 +1010,8 @@
 има	there is	0	0	1	0
 пабло	pablo (name)	0	0	1	0
 пабло	pablo	0	0	1	0
-крайбрежието	coast	0	0	1	0
+отгоре	on top	0	0	1	0
+отгоре	above	0	0	1	0
 свобода	freedom	0	0	1	0
 свобода	liberty	0	0	1	0
 кервансарай	karvansaray	1	0	1	0
@@ -1074,7 +1046,6 @@
 горки	gorky	1	1	0	0
 масово	mass	0	0	1	0
 масово	massively	0	0	1	0
-фродо	frodo	0	0	1	0
 фродо	froddo	0	0	1	0
 другите	other	0	0	1	0
 руснаците	russians	0	0	1	0
@@ -1149,7 +1120,6 @@
 отбора	teams	0	0	1	0
 джоузеф	joseph	0	0	1	0
 смолян	smolyan	0	0	1	0
-смолян	smolyan (city)	0	0	1	0
 обитавали	inhabited	0	0	1	0
 катедралата	cathedral	0	0	1	0
 царевец	tsarevets	0	0	1	0
@@ -1163,8 +1133,8 @@
 изтъква	points	0	0	1	0
 изтъква	points out	0	0	1	0
 черните	black	0	0	1	0
-сферата	sphere	0	0	1	0
 сферата	field	0	0	1	0
+сферата	sphere	0	0	1	0
 намерени	found	0	0	1	0
 естествена	natural	0	0	1	0
 кръгове	circles	0	0	1	0
@@ -1181,14 +1151,10 @@
 гнездо	do	1	0	1	0
 гнездо	nest	1	1	0	0
 гнездо	to be busy	1	0	1	0
-предградията	suburb	0	0	1	0
-предградията	outscirts	0	0	1	0
 заразяване	infection	0	0	1	0
 заразяване	contamination	0	0	1	0
-търпи	undergoes	0	0	1	0
 търпи	suffer	0	0	1	0
 търпи	tolerate	0	0	1	0
-търпи	suffers	0	0	1	0
 преместване	transfer	0	0	1	0
 преместване	moving	0	0	1	0
 ниагара	niagara	0	0	1	0
@@ -1267,13 +1233,12 @@
 историческа	historical	0	0	1	0
 информационен	informative	0	0	1	0
 информационен	information	0	0	1	0
+изобразително	painting	0	0	1	0
 изобразително	art	0	0	1	0
 изобразително	fine	0	0	1	0
-изобразително	painting	0	0	1	0
 марихуана	marijuana	0	0	1	0
 административно	administrative	0	0	1	0
 диомед	diomedes	0	0	1	0
-диомед	diomed	0	0	1	0
 диомед	diomedius	0	0	1	0
 квебек	kvebek	0	0	1	0
 квебек	quebec	0	0	1	0
@@ -1314,7 +1279,6 @@
 фактори	factors	0	0	1	0
 дясна	right	0	0	1	0
 късния	late	0	0	1	0
-късния	the late	0	0	1	0
 околии	districts	0	0	1	0
 околии	dostrics	0	0	1	0
 сиера	sierra	0	0	1	0
@@ -1323,7 +1287,6 @@
 достига	reach	0	0	1	0
 достига	reaches	0	0	1	0
 федералното	federal	0	0	1	0
-федералното	the federal	0	0	1	0
 залив	bay	0	0	1	0
 определение	definition	0	0	1	0
 определение	determined	0	0	1	0
@@ -1339,13 +1302,11 @@
 другия	the other one	0	0	1	0
 напрежението	tension	0	0	1	0
 музикалното	music	0	0	1	0
-музикалното	musical	0	0	1	0
 отвор	hole	0	0	1	0
 отвор	opening	0	0	1	0
 определения	definitions	0	0	1	0
 работната	work	0	0	1	0
 енциклопедия	encyclopedia	0	0	1	0
-дядо	grandpa	0	0	1	0
 дядо	grandfather	0	0	1	0
 върха	top	0	0	1	0
 върха	the top	0	0	1	0
@@ -1361,13 +1322,12 @@
 равнинна	lowland	0	0	1	0
 околия	district	0	0	1	0
 околия	area	0	0	1	0
-развил	developed	0	0	1	0
+отстрани	remove	0	0	1	0
 закрит	covered	0	0	1	0
 закрит	indoor	0	0	1	0
 функционира	function	0	0	1	0
 функционира	functions	0	0	1	0
 функционира	works	0	0	1	0
-султан	suchtan	0	0	1	0
 султан	sultan	0	0	1	0
 емил	emil	0	0	1	0
 априлов	aprilov	0	0	1	0
@@ -1390,7 +1350,6 @@
 карло	carlo	0	0	1	0
 задържа	retain	0	0	1	0
 задържа	hold	0	0	1	0
-задържа	last	0	0	1	0
 легло	bed	0	0	1	0
 яков	jacob	0	0	1	0
 психофармакология	psycho-pharmacology	1	0	1	0
@@ -1416,8 +1375,6 @@
 цариград	istanbul	0	0	1	0
 бедствия	disasters	0	0	1	0
 години	years	0	0	1	0
-вега	vega	1	1	0	0
-вега	nations	1	0	1	0
 комуникация	communication	0	0	1	0
 периодичната	periodic	0	0	1	0
 спечелил	won	0	0	1	0
@@ -1439,9 +1396,8 @@
 чува	store	0	0	1	0
 чува	hears	0	0	1	0
 малкия	small	0	0	1	0
-просветление	enlightenment	0	0	1	0
+безспорно	undoubtedly	0	0	1	0
 внасят	import	0	0	1	0
-внасят	puting	0	0	1	0
 внасят	imported	0	0	1	0
 норма	rate	0	0	1	0
 норма	norm	0	0	1	0
@@ -1481,7 +1437,6 @@
 долни	lower	0	0	1	0
 долно	down	0	0	1	0
 долно	dolno	0	0	1	0
-долно	lower	0	0	1	0
 перник	pernik	0	0	1	0
 долна	lower	0	0	1	0
 долна	niedersachsen	0	0	1	0
@@ -1523,7 +1478,6 @@
 лавразия	laurasia	1	1	0	0
 лавразия	title	1	0	1	0
 българската	bulgarian	0	0	1	0
-българската	the bulgarian	0	0	1	0
 предизвиква	causes	0	0	1	0
 световната	world	0	0	1	0
 световната	global	0	0	1	0
@@ -1531,8 +1485,6 @@
 стенописи	murals	0	0	1	0
 подобри	better	0	0	1	0
 подобри	improve	0	0	1	0
-практиката	the practice	0	0	1	0
-практиката	continues	0	0	1	0
 практиката	practice	0	0	1	0
 подобре	better	0	0	1	0
 подобре	improve	0	0	1	0
@@ -1558,7 +1510,6 @@
 отделно	separate	0	0	1	0
 едрата	heavy	0	0	1	0
 едрата	big	0	0	1	0
-едрата	great	0	0	1	0
 отделна	separate	0	0	1	0
 централните	central	0	0	1	0
 крайния	final	0	0	1	0
@@ -1571,7 +1522,6 @@
 мустафа	mustapha	0	0	1	0
 мустафа	mustafa	0	0	1	0
 чингис	chingise	0	0	1	0
-чингис	genghis	0	0	1	0
 химическата	chemical	0	0	1	0
 змиите	snakes	0	0	1	0
 позиции	position	0	0	1	0
@@ -1585,7 +1535,6 @@
 птолемей	ptolemy	0	0	1	0
 минути	minutes	0	0	1	0
 велбъжд	velbujd	0	0	1	0
-водачите	drivers	0	0	1	0
 водачите	leaders	0	0	1	0
 протести	protests	0	0	1	0
 минута	minut	1	0	1	0
@@ -1595,8 +1544,7 @@
 минута	a minute	1	0	1	0
 предаване	transmission	0	0	1	0
 веднага	immediately	0	0	1	0
-слаб	weak	0	0	1	0
-слаб	low	0	0	1	0
+дейци	makers	0	0	1	0
 найважното	most important	0	0	1	0
 мечка	bear	0	0	1	0
 капацитет	capacity	0	0	1	0
@@ -1628,14 +1576,11 @@
 храносмилателната	digestive	0	0	1	0
 продължение	continuation	0	0	1	0
 продължение	for	0	0	1	0
-киселини	acids	0	0	1	0
 йони	ions	0	0	1	0
 лагера	camp	0	0	1	0
 лагера	legera	0	0	1	0
-сто	hundred	0	0	1	0
-сто	wto	0	0	1	0
 сто	one hundred	0	0	1	0
-македонските	macedonian	0	0	1	0
+сто	wto	0	0	1	0
 македонските	the macedonian	0	0	1	0
 основно	primary	0	0	1	0
 основно	principal	0	0	1	0
@@ -1643,8 +1588,6 @@
 инвестициите	investment	0	0	1	0
 инвестициите	investments	0	0	1	0
 адекватно	adequate	0	0	1	0
-главен	chief3	0	0	1	0
-главен	chief	0	0	1	0
 главен	capital	0	0	1	0
 флората	flora	0	0	1	0
 нашествието	invasion	0	0	1	0
@@ -1714,7 +1657,6 @@
 сидеров	siderov	0	0	1	0
 ят	-rd	0	0	1	0
 ят	th	0	0	1	0
-подчинява	subjected	0	0	1	0
 подчинява	vanquish	0	0	1	0
 подчинява	subject	0	0	1	0
 класическия	classical	0	0	1	0
@@ -1770,7 +1712,6 @@
 свободните	free	0	0	1	0
 техните	their	0	0	1	0
 индивиди	individuals	0	0	1	0
-електрически	electic	0	0	1	0
 електрически	electric	0	0	1	0
 митология	mythology	0	0	1	0
 справи	deal	0	0	1	0
@@ -1778,7 +1719,6 @@
 мнения	opinions	0	0	1	0
 мнения	posts	0	0	1	0
 идеи	ideas	0	0	1	0
-запазва	maintained	0	0	1	0
 запазва	reserve	0	0	1	0
 запазва	keeps	0	0	1	0
 боевете	the fights	0	0	1	0
@@ -1898,7 +1838,6 @@
 милев	geo milev (name	0	0	1	0
 милев	milev	0	0	1	0
 свещената	sacred	0	0	1	0
-прояви	activities	0	0	1	0
 прояви	events	0	0	1	0
 тяхно	their	0	0	1	0
 проява	display	0	0	1	0
@@ -1924,7 +1863,6 @@
 привлечени	atracktes	0	0	1	0
 изчезва	disapear	0	0	1	0
 изчезва	disappears	0	0	1	0
-изчезва	disapears	0	0	1	0
 розо	roseau	1	1	0	0
 розо	single	1	0	1	0
 модел	model	0	0	1	0
@@ -2021,7 +1959,6 @@
 станало	happened	0	0	1	0
 покривка	cover	0	0	1	0
 райх	reich	0	0	1	0
-южната	the south	0	0	1	0
 южната	southern	0	0	1	0
 открояват	stand	0	0	1	0
 открояват	stand out	0	0	1	0
@@ -2046,8 +1983,8 @@
 елин	elin	0	0	1	0
 елин	hellene	0	0	1	0
 мита	duty	0	0	1	0
-мита	mith	0	0	1	0
 мита	duties	0	0	1	0
+мита	mith	0	0	1	0
 умерено	temperate	0	0	1	0
 умерено	mild	0	0	1	0
 помогне	help	0	0	1	0
@@ -2071,14 +2008,12 @@
 класификация	classification	0	0	1	0
 религии	religions	0	0	1	0
 топла	hot	0	0	1	0
-андерсен	andersen	0	0	1	0
+пеят	sing	0	0	1	0
 индустриални	industrial	0	0	1	0
 редовно	regularly	0	0	1	0
 индустриална	industrial	0	0	1	0
-картата	the map	0	0	1	0
-картата	map	0	0	1	0
 грим	makeup	0	0	1	0
-счетоводни	accounting	0	0	1	0
+грип	flu	0	0	1	0
 кора	cortex	0	0	1	0
 някакво	some	0	0	1	0
 конфедерация	confederation	0	0	1	0
@@ -2105,7 +2040,6 @@
 разнообразен	varied	0	0	1	0
 обработката	processing	0	0	1	0
 обработката	tanning	0	0	1	0
-надморската	above sea-level	0	0	1	0
 надморската	altitude	0	0	1	0
 надморската	above the sea	0	0	1	0
 пътуване	travel	0	0	1	0
@@ -2145,7 +2079,6 @@
 желязна	iron	0	0	1	0
 сицилия	sicily	0	0	1	0
 люксембург	luxembourg	0	0	1	0
-люксембург	luxemburg	0	0	1	0
 минава	passes	0	0	1	0
 минава	go past/by	0	0	1	0
 минава	passed	0	0	1	0
@@ -2154,7 +2087,6 @@
 тамплиерите	the knights templar	0	0	1	0
 отвори	open	0	0	1	0
 историческо	historical	0	0	1	0
-погрешно	wrong	0	0	1	0
 погрешно	wrongly	0	0	1	0
 социалистическия	socialist	0	0	1	0
 преобладава	prevails	0	0	1	0
@@ -2217,7 +2149,6 @@
 гаврил	gavril	0	0	1	0
 дроб	liver	0	0	1	0
 дроб	fraction	0	0	1	0
-съоръжения	facilities	0	0	1	0
 пренесени	transferred	0	0	1	0
 плевенска	pleven (region)	0	0	1	0
 плевенска	plevenska	0	0	1	0
@@ -2238,7 +2169,6 @@
 славянския	slavonic	0	0	1	0
 призната	recognized	0	0	1	0
 мехур	bladder	0	0	1	0
-момичетата	boys	0	0	1	0
 момичетата	girls	0	0	1	0
 ситуации	situations	0	0	1	0
 дует	duet	0	0	1	0
@@ -2266,7 +2196,6 @@
 владетелите	rulers	0	0	1	0
 ветрове	winds	0	0	1	0
 апарата	apparatus	0	0	1	0
-найголемия	biggest	0	0	1	0
 найголемия	most	0	0	1	0
 найголемия	largest	0	0	1	0
 социалните	social	0	0	1	0
@@ -2274,7 +2203,6 @@
 психологически	psychological	0	0	1	0
 братята	brothers	0	0	1	0
 експедиции	expeditions	0	0	1	0
-глаголица	glagolitic alphabet	0	0	1	0
 глаголица	glagolitic	0	0	1	0
 хетфийлд	hetfield	0	0	1	0
 хипопотамови	hypopotamus	1	0	1	0
@@ -2290,7 +2218,6 @@
 задържане	retention	0	0	1	0
 отровата	poison	0	0	1	0
 развлечения	entertaiments	0	0	1	0
-развлечения	entertainment	0	0	1	0
 северните	north	0	0	1	0
 северните	the northern	0	0	1	0
 арабска	arab	0	0	1	0
@@ -2298,7 +2225,6 @@
 маршрути	routes	0	0	1	0
 маршрути	route	0	0	1	0
 третото	third	0	0	1	0
-третото	the third	0	0	1	0
 четвъртък	thursday	0	0	1	0
 ок	about	0	0	1	0
 ок	around	0	0	1	0
@@ -2318,9 +2244,10 @@
 наред	along	0	0	1	0
 наред	in order	0	0	1	0
 геоложки	geological	0	0	1	0
-филмова	films	0	0	1	0
 филмова	film	0	0	1	0
 еволюция	evolution	0	0	1	0
+китайски	kataiski	0	0	1	0
+китайски	chinese	0	0	1	0
 корея	korea	0	0	1	0
 филмови	movies	0	0	1	0
 иванова	ivanova	0	0	1	0
@@ -2340,7 +2267,6 @@
 строителни	construction	0	0	1	0
 кани	invites	0	0	1	0
 мандарин	mandarin	0	0	1	0
-изследователи	of researchers	0	0	1	0
 изследователи	explorers	0	0	1	0
 изследователи	researchers	0	0	1	0
 размер	size	0	0	1	0
@@ -2370,7 +2296,6 @@
 тютюн	tobacco	0	0	1	0
 ос	axis	0	0	1	0
 от	of	0	0	1	0
-от	from	0	0	1	0
 от	by	0	0	1	0
 оу	primary school	0	0	1	0
 безработицата	unemployment	0	0	1	0
@@ -2386,7 +2311,6 @@
 президент	bodies	1	0	1	0
 македонския	macedonian	0	0	1	0
 предложения	proposal	0	0	1	0
-предложения	proposals	0	0	1	0
 бунта	rebellion	0	0	1	0
 транскрипция	transcription	0	0	1	0
 дракула	dracula	0	0	1	0
@@ -2412,7 +2336,6 @@
 дружество	company	0	0	1	0
 повърхност	surface	0	0	1	0
 черната	the black	0	0	1	0
-черната	black	0	0	1	0
 намерят	find	0	0	1	0
 владее	rules	0	0	1	0
 владее	command	0	0	1	0
@@ -2443,7 +2366,6 @@
 изглежда	seems	0	0	1	0
 били	were	0	0	1	0
 било	was	0	0	1	0
-било	was/were	0	0	1	0
 гръцката	greek	0	0	1	0
 била	was	0	0	1	0
 представата	the notion	0	0	1	0
@@ -2461,8 +2383,6 @@
 парчета	pieces	0	0	1	0
 момина	momina	0	0	1	0
 момина	lily	0	0	1	0
-редуцира	reduces	0	0	1	0
-редуцира	reduced	0	0	1	0
 ямб	week	1	0	1	0
 ямб	iambus	1	0	1	0
 ямб	iamb	1	1	0	0
@@ -2477,7 +2397,6 @@
 речните	river	0	0	1	0
 махала	mahala	0	0	1	0
 махала	neighbourhood	0	0	1	0
-младежи	youth	0	0	1	0
 младежи	young	0	0	1	0
 младежи	young people	0	0	1	0
 световните	world	0	0	1	0
@@ -2492,8 +2411,8 @@
 селата	villages	0	0	1	0
 вековете	centuries	0	0	1	0
 френска	french	0	0	1	0
-панорама	panoramic	0	0	1	0
-панорама	view	0	0	1	0
+спадат	include	0	0	1	0
+спадат	fall	0	0	1	0
 различията	differences	0	0	1	0
 френски	french	0	0	1	0
 късно	late	0	0	1	0
@@ -2531,10 +2450,8 @@
 радиото	the radio	0	0	1	0
 радиото	radio	0	0	1	0
 сближава	closer	0	0	1	0
-сближава	becomes closer	0	0	1	0
 ябълка	apple	0	0	1	0
 народите	peoples	0	0	1	0
-народите	the nations	0	0	1	0
 народите	nations	0	0	1	0
 византийска	byzantine	0	0	1	0
 машиностроене	engineering	0	0	1	0
@@ -2546,7 +2463,6 @@
 левскиспартак	levski spartak	0	0	1	0
 левскиспартак	levski - spartak	0	0	1	0
 обединява	together	0	0	1	0
-специфична	specific	0	0	1	0
 попаднал	failed	0	0	1	0
 попаднал	fell	0	0	1	0
 офицери	officers	0	0	1	0
@@ -2560,11 +2476,9 @@
 ж	residents	0	0	1	0
 осем	eight	0	0	1	0
 успение	assumption	0	0	1	0
-искра	spark	0	0	1	0
 искра	iskra	0	0	1	0
 върховен	supreme	0	0	1	0
 негова	his	0	0	1	0
-негова	its	0	0	1	0
 стандартния	the standard	0	0	1	0
 стандартния	standard	0	0	1	0
 негово	his	0	0	1	0
@@ -2581,6 +2495,8 @@
 съвременна	contemporary	0	0	1	0
 провал	failure	0	0	1	0
 новини	news	0	0	1	0
+работите	things	0	0	1	0
+работите	works	0	0	1	0
 успяват	fail	0	0	1	0
 успяват	succeed	0	0	1	0
 съпротива	resistance	0	0	1	0
@@ -2592,7 +2508,6 @@
 дуло	chase	0	0	1	0
 премиера	premiere	0	0	1	0
 клетъчните	cell	0	0	1	0
-клетъчните	cellular	0	0	1	0
 вериги	chains	0	0	1	0
 ланка	lanka	0	0	1	0
 обслужване	service	0	0	1	0
@@ -2619,7 +2534,6 @@
 трир	trier	1	1	0	0
 събирането	collecting	0	0	1	0
 събирането	gathering	0	0	1	0
-събирането	collection	0	0	1	0
 завършен	finished	0	0	1	0
 завършен	completed	0	0	1	0
 колона	column	0	0	1	0
@@ -2633,7 +2547,6 @@
 излизат	out	0	0	1	0
 излизат	left	0	0	1	0
 отчитане	reading	0	0	1	0
-отчитане	in terms of	0	0	1	0
 възнесение	ascension	0	0	1	0
 израел	israel	0	0	1	0
 орбита	orbit	0	0	1	0
@@ -2649,8 +2562,8 @@
 козина	coat	0	0	1	0
 заповядва	commands	0	0	1	0
 заповядва	order	0	0	1	0
-траяна	trayana	0	0	1	0
 траяна	traiana	0	0	1	0
+траяна	trayana	0	0	1	0
 ред	order	0	0	1	0
 стивън	steven	0	0	1	0
 ивайло	ivaylo	0	0	1	0
@@ -2783,7 +2696,6 @@
 светилище	sanctuary	0	0	1	0
 светилище	temple	0	0	1	0
 гръбначния	spinal	0	0	1	0
-гръбначния	the spinal	0	0	1	0
 тангари	missiles	1	0	1	0
 тангари	thraupidae	1	1	0	0
 тангари	tanagers	1	0	1	0
@@ -2798,7 +2710,6 @@
 народната	public	0	0	1	0
 народната	people	0	0	1	0
 спиране	stop	0	0	1	0
-спиране	stoping	0	0	1	0
 получаване	obtaining	0	0	1	0
 установена	estabilished	0	0	1	0
 установена	established	0	0	1	0
@@ -2808,8 +2719,6 @@
 въпросите	issues	0	0	1	0
 установени	there are	0	0	1	0
 установени	out	0	0	1	0
-установени	established	0	0	1	0
-надежда	hope	0	0	1	0
 комунистическата	communistic	0	0	1	0
 комунистическата	communist	0	0	1	0
 комунистическата	the communist	0	0	1	0
@@ -2821,14 +2730,13 @@
 дийп	deep	0	0	1	0
 вълците	wolves	0	0	1	0
 италианската	italian	0	0	1	0
-обкръжение	surroundings	0	0	1	0
 обкръжение	surrounding	0	0	1	0
+обкръжение	surroundings	0	0	1	0
 достигайки	reaching	0	0	1	0
 достигайки	get	0	0	1	0
 създаването	creation	0	0	1	0
 изцяло	all	0	0	1	0
 изцяло	wholly	0	0	1	0
-локомотив	locomotive	0	0	1	0
 локомотив	locomotiv	0	0	1	0
 жизнен	vital	0	0	1	0
 жизнен	lively	0	0	1	0
@@ -2878,7 +2786,6 @@
 страна	page	0	0	1	0
 страна	side	0	0	1	0
 датиращи	dating	0	0	1	0
-датиращи	dated	0	0	1	0
 разпадането	disintegration	0	0	1	0
 разпадането	collapse	0	0	1	0
 филиал	filial	0	0	1	0
@@ -2896,7 +2803,6 @@
 понеже	because	0	0	1	0
 относителна	relative	0	0	1	0
 държат	hold	0	0	1	0
-крайбрежие	shore	0	0	1	0
 крайбрежие	coast	0	0	1	0
 повишаване	increase	0	0	1	0
 повишаване	increasing	0	0	1	0
@@ -2951,7 +2857,6 @@
 годишната	year	0	0	1	0
 туризъм	tourism	0	0	1	0
 чистота	cleanliness	0	0	1	0
-чистота	cleanness	0	0	1	0
 чистота	purity	0	0	1	0
 могъл	could	0	0	1	0
 могъл	can	0	0	1	0
@@ -2965,7 +2870,6 @@
 мбабане	mbambane	1	1	0	0
 мбабане	mbabane	1	1	0	0
 мбабане	coast	1	0	1	0
-изиграва	plays	0	0	1	0
 изиграва	played	0	0	1	0
 централната	central	0	0	1	0
 първоначалното	initial	0	0	1	0
@@ -2980,7 +2884,6 @@
 западни	western	0	0	1	0
 век	century	0	0	1	0
 комбинации	combinations	0	0	1	0
-заплахата	invasion	0	0	1	0
 заплахата	threat	0	0	1	0
 офицер	officer	0	0	1	0
 властта	power	0	0	1	0
@@ -3017,7 +2920,6 @@
 разделени	divided	0	0	1	0
 красота	beauty	0	0	1	0
 очевидно	apparently	0	0	1	0
-очевидно	obviously	0	0	1	0
 министерския	council of ministers	0	0	1	0
 министерския	ministers	0	0	1	0
 министерския	ministry	0	0	1	0
@@ -3044,7 +2946,7 @@
 москва	moscow	0	0	1	0
 преходноконтинентален	transitional continental	0	0	1	0
 преходноконтинентален	transient	0	0	1	0
-изпълнение	execution	0	0	1	0
+откриването	opening	0	0	1	0
 ирак	iraq	0	0	1	0
 такъв	such	0	0	1	0
 такъв	that	0	0	1	0
@@ -3083,7 +2985,7 @@
 обиколка	round	0	0	1	0
 индекс	index	0	0	1	0
 счетоводството	accounting	0	0	1	0
-откриването	opening	0	0	1	0
+изпълнение	execution	0	0	1	0
 шестте	six	0	0	1	0
 мур	ufa	1	0	1	0
 мур	mur (name)	1	0	1	0
@@ -3168,7 +3070,6 @@
 богатството	riches	0	0	1	0
 богатството	wealth	0	0	1	0
 богатството	the wealth	0	0	1	0
-екосистема	ecosystem	0	0	1	0
 трите	three	0	0	1	0
 йозеф	joseph	0	0	1	0
 сродни	related	0	0	1	0
@@ -3269,7 +3170,8 @@
 катастрофа	crash	0	0	1	0
 катастрофа	disaster	0	0	1	0
 електронна	electronic	0	0	1	0
-определи	determine	0	0	1	0
+членка	member	0	0	1	0
+членка	state	0	0	1	0
 неговото	his	0	0	1	0
 неговото	its	0	0	1	0
 освобождаването	release	0	0	1	0
@@ -3354,7 +3256,6 @@
 търговски	commercial	0	0	1	0
 извори	springs	0	0	1	0
 извори	sources	0	0	1	0
-интересува	take interest	0	0	1	0
 интересува	care	0	0	1	0
 григор	grigor	0	0	1	0
 градовете	cities	0	0	1	0
@@ -3370,7 +3271,6 @@
 възстановяване	recovery	0	0	1	0
 главната	main	0	0	1	0
 плътно	canvas	0	0	1	0
-плътно	tightly	0	0	1	0
 неизвестни	unknown	0	0	1	0
 зевс	zeus	0	0	1	0
 бъдещата	future	0	0	1	0
@@ -3480,7 +3380,7 @@
 метъл	iron	0	0	1	0
 богато	richly	0	0	1	0
 несъмнено	undoubtedly	0	0	1	0
-богати	rich	0	0	1	0
+камари	chambers	0	0	1	0
 първенството	championship	0	0	1	0
 пръстени	rings	0	0	1	0
 пръстена	ring	0	0	1	0
@@ -3520,7 +3420,6 @@
 зависимост	dependence	0	0	1	0
 зависимост	depending	0	0	1	0
 публиката	audience	0	0	1	0
-лист	sheet	0	0	1	0
 лист	leaf	0	0	1	0
 загубва	loose	0	0	1	0
 загубва	loses	0	0	1	0
@@ -3580,12 +3479,10 @@
 художествена	art	0	0	1	0
 клип	clip	0	0	1	0
 свое	own	0	0	1	0
-свое	its	0	0	1	0
 свой	their	0	0	1	0
 свой	its own	0	0	1	0
 свои	their	0	0	1	0
 свои	own	0	0	1	0
-свои	one's own	0	0	1	0
 рали	rally	0	0	1	0
 попфолк	pop-folk	0	0	1	0
 попфолк	pop folk	0	0	1	0
@@ -3613,16 +3510,14 @@
 фетус	distinction	1	0	1	0
 фетус	the difference	1	0	1	0
 фетус	fetus	1	1	0	0
-епоха	age	0	0	1	0
-епоха	epoch	0	0	1	0
+противопоставя	opposed	0	0	1	0
+противопоставя	opposition	0	0	1	0
 кодекс	code	0	0	1	0
-кодекс	kodeks	0	0	1	0
 възможните	possible	0	0	1	0
 ким	kim	0	0	1	0
 водещ	leading	0	0	1	0
 водещ	leader	0	0	1	0
 какъв	what	0	0	1	0
-албанци	albanian	0	0	1	0
 албанци	albanians	0	0	1	0
 мишелови	buzzer	1	0	1	0
 мишелови	limited	1	0	1	0
@@ -3652,11 +3547,9 @@
 ловеч	lovech	0	0	1	0
 разположен	located	0	0	1	0
 разположен	situated	0	0	1	0
-разположен	mood	0	0	1	0
 полюсите	poles	0	0	1	0
 полюсите	the poles	0	0	1	0
 препис	copy	0	0	1	0
-препис	transcript	0	0	1	0
 предпазва	protects	0	0	1	0
 души	souls	0	0	1	0
 души	people	0	0	1	0
@@ -3680,11 +3573,9 @@
 легендата	legend	0	0	1	0
 ретината	retina	0	0	1	0
 философия	philosophy	0	0	1	0
-сблъскват	conflict	0	0	1	0
 сблъскват	face	0	0	1	0
 обществените	public	0	0	1	0
 разходите	costs	0	0	1	0
-разходите	the costs	0	0	1	0
 литературни	literary	0	0	1	0
 литературни	literature	0	0	1	0
 рататуй	ratatuiy	1	0	1	0
@@ -3737,10 +3628,9 @@
 симптоми	symptoms	0	0	1	0
 симптоми	symptomes	0	0	1	0
 симптоми	symptomps	0	0	1	0
-вкуса	taste	0	0	1	0
 роджър	roger	0	0	1	0
-цветни	color	0	0	1	0
 цветни	floral	0	0	1	0
+цветни	color	0	0	1	0
 часовниковата	clock's	0	0	1	0
 часовниковата	clock	0	0	1	0
 пас	pass	0	0	1	0
@@ -3764,7 +3654,8 @@
 търсят	seek	0	0	1	0
 градския	city	0	0	1	0
 части	parts	0	0	1	0
-защитник	defender	0	0	1	0
+влиза	enters	0	0	1	0
+влиза	enter	0	0	1	0
 суша	drought	0	0	1	0
 никел	nickel	0	0	1	0
 икономика	economy	0	0	1	0
@@ -3783,7 +3674,6 @@
 вените	veins	0	0	1	0
 подобие	analogy	0	0	1	0
 подобие	similarity	0	0	1	0
-напитката	drink	0	0	1	0
 напитката	the drink	0	0	1	0
 снежната	snow	0	0	1	0
 снежната	snowy	0	0	1	0
@@ -3792,8 +3682,8 @@
 англ	english	0	0	1	0
 туристите	tourists	0	0	1	0
 мир	peace	0	0	1	0
-обозначава	denote	0	0	1	0
 обозначава	marks	0	0	1	0
+обозначава	denote	0	0	1	0
 направена	made	0	0	1	0
 наричана	called	0	0	1	0
 френското	french	0	0	1	0
@@ -3904,7 +3794,6 @@
 административната	the administrative	0	0	1	0
 административната	administrative	0	0	1	0
 окото	eye	0	0	1	0
-окото	the eye	0	0	1	0
 марк	marcus	0	0	1	0
 марк	mark	0	0	1	0
 включва	includes	0	0	1	0
@@ -3914,8 +3803,7 @@
 районите	areas	0	0	1	0
 обединена	united	0	0	1	0
 условията	conditions	0	0	1	0
-условията	the conditions	0	0	1	0
-пловдивски	plovdiv	0	0	1	0
+стефан	stefan	0	0	1	0
 включително	including	0	0	1	0
 янтра	yantra river	0	0	1	0
 янтра	yantra	0	0	1	0
@@ -3927,7 +3815,6 @@
 бягство	escape	0	0	1	0
 определено	definitely	0	0	1	0
 определени	certain	0	0	1	0
-определени	particular	0	0	1	0
 христофор	christopher	0	0	1	0
 христофор	christophor	0	0	1	0
 хранителновкусова	food	0	0	1	0
@@ -3956,7 +3843,6 @@
 изказване	statement	0	0	1	0
 приема	entry	0	0	1	0
 приема	adopt	0	0	1	0
-живописта	the art of painting	0	0	1	0
 живописта	painting	0	0	1	0
 живописта	biography	0	0	1	0
 федерация	federation	0	0	1	0
@@ -3966,11 +3852,11 @@
 положение	position	0	0	1	0
 положение	distress	0	0	1	0
 дейност	activity	0	0	1	0
+червения	red	0	0	1	0
 кавказ	caucasus	0	0	1	0
 файлове	files	0	0	1	0
-сумата	amount	0	0	1	0
-сумата	the sum	0	0	1	0
 сумата	sum	0	0	1	0
+сумата	the sum	0	0	1	0
 внезапно	suddenly	0	0	1	0
 театъра	theater	0	0	1	0
 боливия	bolivia	0	0	1	0
@@ -4010,8 +3896,8 @@
 мускулатурата	musculature	0	0	1	0
 мускулатурата	muscles	0	0	1	0
 мускулатурата	muscle	0	0	1	0
-тайно	secretly	0	0	1	0
 тайно	secrelty	0	0	1	0
+тайно	secretly	0	0	1	0
 сред	among	0	0	1	0
 арбалети	crossbows	0	0	1	0
 погребан	buried	0	0	1	0
@@ -4071,7 +3957,6 @@
 платформа	creation	1	0	1	0
 уик	wick	1	1	0	0
 зоната	area	0	0	1	0
-фланг	flag	0	0	1	0
 фланг	flank	0	0	1	0
 олово	lead	0	0	1	0
 нощта	night	0	0	1	0
@@ -4109,7 +3994,6 @@
 светът	world	0	0	1	0
 станев	stanev	0	0	1	0
 континентите	the continents	0	0	1	0
-континентите	continents	0	0	1	0
 своето	its	0	0	1	0
 образуват	form	0	0	1	0
 ромул	romul	0	0	1	0
@@ -4137,9 +4021,10 @@
 свива	shrinks	0	0	1	0
 подготвя	prepare	0	0	1	0
 изяви	events	0	0	1	0
+троянския	trojan	0	0	1	0
+троянския	tojans	0	0	1	0
 замърсяване	freezing	0	0	1	0
 замърсяване	pollution	0	0	1	0
-днешни	today's	0	0	1	0
 днешни	today	0	0	1	0
 федеративна	federal	0	0	1	0
 федеративна	federative	0	0	1	0
@@ -4227,7 +4112,6 @@
 отделяне	separation	0	0	1	0
 пирати	pirates	0	0	1	0
 око	eye	0	0	1	0
-потушаване	surpression	0	0	1	0
 потушаване	suppression	0	0	1	0
 спортове	sports	0	0	1	0
 камарата	chamber	0	0	1	0
@@ -4236,7 +4120,7 @@
 подкрепят	support	0	0	1	0
 завладян	conquered	0	0	1	0
 ­	-	0	0	1	0
-епархия	eparchy	0	0	1	0
+стомана	steel	0	0	1	0
 граф	count	0	0	1	0
 граф	graf	0	0	1	0
 разстояние	distance	0	0	1	0
@@ -4261,8 +4145,8 @@
 барселона	barcelona	0	0	1	0
 югоизточна	southeast	0	0	1	0
 югоизточна	southeastern	0	0	1	0
-учи	study	0	0	1	0
 учи	lesson	0	0	1	0
+учи	study	0	0	1	0
 разнообразни	various	0	0	1	0
 съветските	soviet	0	0	1	0
 разнообразна	diverse	0	0	1	0
@@ -4275,7 +4159,6 @@
 сингапур	singapure	0	0	1	0
 сингапур	singapore	0	0	1	0
 снабдява	supplies	0	0	1	0
-снабдява	supply	0	0	1	0
 равнище	level	0	0	1	0
 сомалия	somalia	0	0	1	0
 военния	military	0	0	1	0
@@ -4286,7 +4169,6 @@
 взел	taken	0	0	1	0
 братя	brothers	0	0	1	0
 теории	theories	0	0	1	0
-наличието	the presence	0	0	1	0
 наличието	presence	0	0	1	0
 открита	discovered	0	0	1	0
 открита	open	0	0	1	0
@@ -4299,14 +4181,12 @@
 изригвания	eruptions	0	0	1	0
 храброст	bravery	0	0	1	0
 магазин	shop	0	0	1	0
-магазин	magazine	0	0	1	0
 решава	decided	0	0	1	0
 решава	solve	0	0	1	0
 срещне	meet	0	0	1	0
 есен	autumn	0	0	1	0
 есен	essen	0	0	1	0
 тодор	todor	0	0	1	0
-корабът	life boat	0	0	1	0
 електрон	electron	0	0	1	0
 π	pi	0	0	1	0
 командването	command	0	0	1	0
@@ -4339,8 +4219,6 @@
 чудотворец	miracle maker	0	0	1	0
 чудотворец	miracle worker	0	0	1	0
 съпротивление	resistance	0	0	1	0
-членка	member	0	0	1	0
-членка	state	0	0	1	0
 разказват	tell	0	0	1	0
 категорияобекти	category of objects	0	0	1	0
 категорияобекти	category: objects	0	0	1	0
@@ -4397,7 +4275,6 @@
 големият	the big	0	0	1	0
 големият	great	0	0	1	0
 големият	largest	0	0	1	0
-следи	following	0	0	1	0
 следи	monitor	0	0	1	0
 кеймбридж	cambridge	0	0	1	0
 демократична	democratic	0	0	1	0
@@ -4425,7 +4302,6 @@
 стандарти	standarts	0	0	1	0
 получил	received	0	0	1	0
 хора	people	0	0	1	0
-нарежда	ranks	0	0	1	0
 нарежда	orders	0	0	1	0
 видински	vidin	0	0	1	0
 ефектът	efect	0	0	1	0
@@ -4465,7 +4341,6 @@
 актриса	actress	0	0	1	0
 едни	some	0	0	1	0
 достигат	reach	0	0	1	0
-достигат	achieve	0	0	1	0
 подробности	details	0	0	1	0
 подробности	particulars	0	0	1	0
 актриси	actresses	0	0	1	0
@@ -4474,7 +4349,7 @@
 наименования	names	0	0	1	0
 сара	sarah	0	0	1	0
 сума	amount	0	0	1	0
-дневници	diaries	0	0	1	0
+наименование	name	0	0	1	0
 поражение	defeat	0	0	1	0
 суми	amounts	0	0	1	0
 пази	protect	0	0	1	0
@@ -4504,8 +4379,7 @@
 византия	bysanthia	0	0	1	0
 византия	byzantium	0	0	1	0
 византия	byzantine	0	0	1	0
-атила	attila	0	0	1	0
-мм	mm	0	0	1	0
+ма	-th	0	0	1	0
 мн	plural	0	0	1	0
 интелектуализация	intellectualization	1	1	0	0
 интелектуализация	intelectualization	1	0	1	0
@@ -4538,13 +4412,11 @@
 желязната	iron	0	0	1	0
 намерението	intention	0	0	1	0
 зъби	teeth	0	0	1	0
-държавата	state	0	0	1	0
-държавата	the country	0	0	1	0
 държавата	the state	0	0	1	0
 локално	locally	0	0	1	0
 локално	local	0	0	1	0
-локални	local	0	0	1	0
 локални	lokal	0	0	1	0
+локални	local	0	0	1	0
 нефтът	the oil	0	0	1	0
 нефтът	oil	0	0	1	0
 френската	the french	0	0	1	0
@@ -4569,8 +4441,9 @@
 мс	ms	0	0	1	0
 въоръжените	the armed	0	0	1	0
 въоръжените	armed	0	0	1	0
+арена	arena	0	0	1	0
+арена	field	0	0	1	0
 импулса	impuls	0	0	1	0
-импулса	impulse	0	0	1	0
 последното	last	0	0	1	0
 последното	the last	0	0	1	0
 примера	examples	0	0	1	0
@@ -4619,10 +4492,8 @@
 поставят	set	0	0	1	0
 поставят	establish	0	0	1	0
 голо	naked	0	0	1	0
-голо	bare	0	0	1	0
 голо	golo	0	0	1	0
 индийските	indian	0	0	1	0
-инмарсат	inmasrsat	0	0	1	0
 инмарсат	inmarsat	0	0	1	0
 денудация	other	1	0	1	0
 денудация	denudation / erosion	1	0	1	0
@@ -4717,14 +4588,10 @@
 скулптурата	sculpture	0	0	1	0
 йерусалим	jerusalem	0	0	1	0
 исак	iasc	0	0	1	0
-исак	isaac	0	0	1	0
 исак	isac	0	0	1	0
 батенберг	battenberg	0	0	1	0
 батенберг	batenberg	0	0	1	0
 познанието	knowledge	0	0	1	0
-подложени	subjected	0	0	1	0
-подложени	subject	0	0	1	0
-подложени	exposed	0	0	1	0
 араби	arabs	0	0	1	0
 славата	fame	0	0	1	0
 славата	the fame	0	0	1	0
@@ -4773,10 +4640,8 @@
 натрупване	accumulation	0	0	1	0
 аминокиселините	amino acids	0	0	1	0
 напускат	leave	0	0	1	0
-троянския	trojan	0	0	1	0
-троянския	tojans	0	0	1	0
+царското	royal	0	0	1	0
 хит	hit	0	0	1	0
-хит	bestselar	0	0	1	0
 основано	founded	0	0	1	0
 основано	based	0	0	1	0
 златното	golden	0	0	1	0
@@ -4794,8 +4659,7 @@
 бри	bree	0	0	1	0
 бри	bry	0	0	1	0
 бри	brie (name)	0	0	1	0
-дебелина	thinkness	0	0	1	0
-дебелина	thickness	0	0	1	0
+киселини	acids	0	0	1	0
 сега	now	1	1	1	0
 гибелта	ruin	0	0	1	0
 гибелта	death	0	0	1	0
@@ -4810,7 +4674,6 @@
 култа	cult	0	0	1	0
 култа	the cult	0	0	1	0
 улици	streets	0	0	1	0
-хил	thousands	0	0	1	0
 хил	hill	0	0	1	0
 произведение	work	0	0	1	0
 кучета	dogs	0	0	1	0
@@ -4856,7 +4719,6 @@
 празнува	celebrated	0	0	1	0
 празнува	celebrate	0	0	1	0
 трябва	must	0	0	1	0
-трябва	should	0	0	1	0
 поети	poets	0	0	1	0
 неделя	sunday	0	0	1	0
 неделя	nedelja	0	0	1	0
@@ -4926,8 +4788,8 @@
 размяна	exchange	0	0	1	0
 възход	rise	0	0	1	0
 възход	ascent	0	0	1	0
-господ	god	0	0	1	0
 господ	lord	0	0	1	0
+господ	god	0	0	1	0
 зала	hall	0	0	1	0
 римският	roman	0	0	1	0
 службата	the service	0	0	1	0
@@ -4951,7 +4813,6 @@
 архипелаг	archipelago	0	0	1	0
 пръст	finger	0	0	1	0
 построен	built	0	0	1	0
-построен	build	0	0	1	0
 индустрията	industry	0	0	1	0
 котка	cat	0	0	1	0
 възникнал	occurred	0	0	1	0
@@ -4964,8 +4825,6 @@
 пътуват	travel	0	0	1	0
 везувий	vesuvius	0	0	1	0
 нация	nation	0	0	1	0
-запази	preserve	0	0	1	0
-запази	protect	0	0	1	0
 запази	keep	0	0	1	0
 главата	head	0	0	1	0
 блян	blanc	1	0	1	0
@@ -4989,12 +4848,11 @@
 испаньола	hispaniola	0	0	1	0
 шлем	helm	0	0	1	0
 шлем	helmet	0	0	1	0
-титаник	titanik	0	0	1	0
 титаник	titanic	0	0	1	0
+титаник	titanik	0	0	1	0
 петербург	petersburg	0	0	1	0
 подвижни	mobile	0	0	1	0
 подвижни	movable	0	0	1	0
-виното	the wine	0	0	1	0
 виното	wine	0	0	1	0
 съвременният	modern	0	0	1	0
 налице	there is/are	0	0	1	0
@@ -5035,7 +4893,8 @@
 старозагорска	stara zagora	0	0	1	0
 старозагорска	starozagorian (region)	0	0	1	0
 приказки	stories	0	0	1	0
-тебе	you	0	0	1	0
+район	region	0	0	1	0
+район	area	0	0	1	0
 официалната	the official	0	0	1	0
 официалната	official	0	0	1	0
 блата	swamp	0	0	1	0
@@ -5061,13 +4920,11 @@
 захар	sugar	0	0	1	0
 прочита	read	0	0	1	0
 прочита	reads	0	0	1	0
-оттенък	touch	0	0	1	0
 оттенък	hue	0	0	1	0
 съответния	respecting	0	0	1	0
 съответния	relevant	0	0	1	0
 френският	french	0	0	1	0
 лятото	summer	0	0	1	0
-лятото	the summer	0	0	1	0
 майкрософт	microsoft	0	0	1	0
 първоначално	initially	0	0	1	0
 пътешествие	travel	0	0	1	0
@@ -5115,8 +4972,6 @@
 жълто	yellow	0	0	1	0
 бившите	former	0	0	1	0
 тец	cgh	0	0	1	0
-тец	thermal power plant	0	0	1	0
-тец	tpp	0	0	1	0
 ресурси	resources	0	0	1	0
 народност	nationality	0	0	1	0
 лава	lava	0	0	1	0
@@ -5128,7 +4983,7 @@
 хамилтън	g.	1	0	1	0
 хамилтън	nailta	1	0	1	0
 кариера	career	0	0	1	0
-теодосий	theodosius	0	0	1	0
+спартак	spartacus	0	0	1	0
 мъжкият	male	0	0	1	0
 мъжкият	the male	0	0	1	0
 велинград	velingrad	0	0	1	0
@@ -5216,15 +5071,14 @@
 входа	entrance	0	0	1	0
 убил	killed	0	0	1	0
 наименованието	name	0	0	1	0
-последно	recently	0	0	1	0
 последно	last	0	0	1	0
+последно	recently	0	0	1	0
 оказва	happens	0	0	1	0
 оказва	has	0	0	1	0
 архангел	archangel	0	0	1	0
 последна	last	0	0	1	0
 атина	athens	0	0	1	0
 атина	athena	0	0	1	0
-западен	west	0	0	1	0
 западен	zapaden	0	0	1	0
 западен	western	0	0	1	0
 посетителите	visitors	0	0	1	0
@@ -5285,7 +5139,6 @@
 маракаси	english	1	0	1	0
 маракаси	marakas	1	0	1	0
 наема	hire	0	0	1	0
-наема	hires	0	0	1	0
 наема	rent	0	0	1	0
 атомите	the atoms	0	0	1	0
 атомите	atoms	0	0	1	0
@@ -5304,7 +5157,6 @@
 млада	young	0	0	1	0
 изписва	written	0	0	1	0
 ислямската	islamic	0	0	1	0
-ислямската	the islamic	0	0	1	0
 протокола	protocol	0	0	1	0
 автономна	autonomous	0	0	1	0
 бета	beta	0	0	1	0
@@ -5335,7 +5187,6 @@
 дарения	grants	0	0	1	0
 захари	zachary (name)	0	0	1	0
 захари	sugars	0	0	1	0
-захари	zahari	0	0	1	0
 лимфни	lymph	0	0	1	0
 спътници	satellites	0	0	1	0
 специалната	the special	0	0	1	0
@@ -5365,7 +5216,6 @@
 обяснява	explains	0	0	1	0
 осъзнава	realize	0	0	1	0
 осъзнава	aware	0	0	1	0
-мисии	mision	0	0	1	0
 мисии	missions	0	0	1	0
 жива	live	0	0	1	0
 радиоактивност	radioactivity	0	0	1	0
@@ -5374,7 +5224,6 @@
 подкрепа	support	0	0	1	0
 модерната	modern	0	0	1	0
 успели	succeed	0	0	1	0
-успели	succeeded	0	0	1	0
 защитена	protected	0	0	1	0
 сюжет	skojet	0	0	1	0
 сюжет	plot	0	0	1	0
@@ -5412,7 +5261,6 @@
 водопадът	waterfall	0	0	1	0
 изучават	study	0	0	1	0
 общности	communities	0	0	1	0
-общности	community	0	0	1	0
 общата	total	0	0	1	0
 общата	general	0	0	1	0
 реколта	vintage	0	0	1	0
@@ -5424,7 +5272,6 @@
 включващи	include	0	0	1	0
 включващи	including	0	0	1	0
 найвисокия	high	0	0	1	0
-найвисокия	the highest	0	0	1	0
 найвисокия	highest	0	0	1	0
 включваща	including	0	0	1	0
 лъвовете	lyavovete	0	0	1	0
@@ -5460,13 +5307,11 @@
 мексико	mexico	0	0	1	0
 ролята	role	0	0	1	0
 дъф	duff	0	0	1	0
-ц	c	0	0	1	0
 ц	ц	0	0	1	0
 подготовка	preparation	0	0	1	0
 подготовка	training	0	0	1	0
 подготовка	prepare	0	0	1	0
 черво	intestine	0	0	1	0
-правомощия	terms of refrence	0	0	1	0
 правомощия	powers	0	0	1	0
 рекорди	records	0	0	1	0
 рекорди	scores	0	0	1	0
@@ -5504,7 +5349,7 @@
 найниска	at low	0	0	1	0
 урал	ural	0	0	1	0
 старият	old	0	0	1	0
-камари	chambers	0	0	1	0
+богати	rich	0	0	1	0
 войска	army	0	0	1	0
 произношение	pronunciation	0	0	1	0
 етническите	ethnic	0	0	1	0
@@ -5520,11 +5365,8 @@
 конник	knight	0	0	1	0
 конник	horse rider	0	0	1	0
 конник	horseman	0	0	1	0
-болка	grief	0	0	1	0
 болка	pain	0	0	1	0
 тясно	tight	0	0	1	0
-тясно	closely	0	0	1	0
-зелените	the green	0	0	1	0
 зелените	green	0	0	1	0
 романа	novel	0	0	1	0
 развива	develops	0	0	1	0
@@ -5542,12 +5384,10 @@
 празник	holyday	0	0	1	0
 целта	finish	0	0	1	0
 целта	target	0	0	1	0
-целта	the goal	0	0	1	0
 класическата	classical	0	0	1	0
 класическата	augustan age	0	0	1	0
 гори	woods	0	0	1	0
 гори	forests	0	0	1	0
-славяни	slavics	0	0	1	0
 славяни	slavs	0	0	1	0
 плячка	loot	0	0	1	0
 гора	forest	0	0	1	0
@@ -5574,9 +5414,6 @@
 благоприятни	favorable	0	0	1	0
 обработва	process	0	0	1	0
 танзания	tanzania	0	0	1	0
-следващият	next	0	0	1	0
-следващият	the next	0	0	1	0
-следващият	successive	0	0	1	0
 евреи	jews	0	0	1	0
 тринидад	trinidad	0	0	1	0
 гандалф	gandalf	0	0	1	0
@@ -5595,7 +5432,6 @@
 цдна	cdna (football club)	0	0	1	0
 златни	gold	0	0	1	0
 силите	forces	0	0	1	0
-гага	eider	0	0	1	0
 гага	gaga	0	0	1	0
 калина	pomegranate	1	0	1	0
 калина	guelder-rose	1	0	1	0
@@ -5608,7 +5444,6 @@
 приятелски	friendly	0	0	1	0
 магазини	stores	0	0	1	0
 актьори	actors	0	0	1	0
-плътен	thick	0	0	1	0
 плътен	dense	0	0	1	0
 ефекти	efects	0	0	1	0
 ефекти	effects	0	0	1	0
@@ -5621,9 +5456,7 @@
 временното	temporary	0	0	1	0
 надежди	hopes	0	0	1	0
 тесла	tesla	0	0	1	0
-насочени	oriented to	0	0	1	0
-насочени	directed	0	0	1	0
-насочени	towards	0	0	1	0
+надежда	hope	0	0	1	0
 кефирните	kefir	0	0	1	0
 родина	motherland	0	0	1	0
 родина	country	0	0	1	0
@@ -5675,7 +5508,6 @@
 родителите	parents	0	0	1	0
 набира	gaining	0	0	1	0
 набира	gathers	0	0	1	0
-набира	gather	0	0	1	0
 шишман	shishman	0	0	1	0
 зрение	eyesight	0	0	1	0
 зрение	vision	0	0	1	0
@@ -5688,7 +5520,6 @@
 избегне	avoid	0	0	1	0
 чиновници	clerks	0	0	1	0
 чиновници	officials	0	0	1	0
-чиновници	officiald	0	0	1	0
 пролетта	spring	0	0	1	0
 еквадор	equador	0	0	1	0
 еквадор	ecuador	0	0	1	0
@@ -5715,13 +5546,11 @@
 митовете	myths	0	0	1	0
 митовете	the myths	0	0	1	0
 средни	middle	0	0	1	0
-средни	medium	0	0	1	0
 участва	involved	0	0	1	0
 участва	participate	0	0	1	0
 средно	average	0	0	1	0
 футбола	football	0	0	1	0
 заселването	the settlement	0	0	1	0
-заселването	colonization	0	0	1	0
 калвин	calvin	0	0	1	0
 айсберг	creaters	1	0	1	0
 айсберг	creators	1	0	1	0
@@ -5731,7 +5560,6 @@
 испания	spain	0	0	1	0
 будапеща	budapest	0	0	1	0
 владичество	rule	0	0	1	0
-избухва	broke	0	0	1	0
 избухва	broke out	0	0	1	0
 общуване	communication	0	0	1	0
 средното	avarage	0	0	1	0
@@ -5811,7 +5639,7 @@
 граничи	border	0	0	1	0
 териториално	territorial	0	0	1	0
 кубинската	cuban	0	0	1	0
-червения	red	0	0	1	0
+специфична	specific	0	0	1	0
 териториални	territorial	0	0	1	0
 териториални	teritorial	0	0	1	0
 териториални	terрitorial	0	0	1	0
@@ -5845,7 +5673,6 @@
 египетската	egyptian	0	0	1	0
 мурад	murad	0	0	1	0
 спре	stop	0	0	1	0
-налагат	require	0	0	1	0
 налагат	impose	0	0	1	0
 пространството	the space	0	0	1	0
 пространството	space	0	0	1	0
@@ -5864,8 +5691,8 @@
 болестта	illness	0	0	1	0
 изменението	climate	0	0	1	0
 доколкото	as far as	0	0	1	0
-седалището	headquarters	0	0	1	0
 седалището	headquarter	0	0	1	0
+седалището	headquarters	0	0	1	0
 икономическата	economic	0	0	1	0
 мили	dear	0	0	1	0
 задълженията	obligations	0	0	1	0
@@ -5878,7 +5705,6 @@
 казват	said	0	0	1	0
 казват	they say	0	0	1	0
 съкращението	shortening	0	0	1	0
-съкращението	abreviation	0	0	1	0
 душата	soul	0	0	1	0
 страната	country	0	0	1	0
 необичайно	unusual	0	0	1	0
@@ -5893,7 +5719,6 @@
 пропуска	misses	0	0	1	0
 плоча	plate	0	0	1	0
 музикантите	musicians	0	0	1	0
-музикантите	the musicians	0	0	1	0
 съдържащи	containing	0	0	1	0
 оставят	leave	0	0	1	0
 оставят	remain	0	0	1	0
@@ -5919,10 +5744,8 @@
 меко	soft	0	0	1	0
 предупреждава	warns	0	0	1	0
 предупреждава	warn/warns	0	0	1	0
-меки	mild	0	0	1	0
 меки	soft	0	0	1	0
 игрите	games	0	0	1	0
-мека	mecca	0	0	1	0
 мека	soft	0	0	1	0
 приети	accepted	0	0	1	0
 приети	adopted	0	0	1	0
@@ -5933,7 +5756,6 @@
 анастилоза	anastylosis	1	1	0	0
 благоевград	blagoevgrad	0	0	1	0
 африканските	african	0	0	1	0
-точността	the accuracy	0	0	1	0
 точността	accuracy	0	0	1	0
 източника	source	0	0	1	0
 сърце	heart	0	0	1	0
@@ -5963,8 +5785,8 @@
 различни	different	0	0	1	0
 различни	various	0	0	1	0
 кръвообращението	blood circulation	0	0	1	0
-кръвообращението	circulation	0	0	1	0
 кръвообращението	the bloodstream	0	0	1	0
+кръвообращението	circulation	0	0	1	0
 различно	different	0	0	1	0
 различно	differently	0	0	1	0
 полски	polish	0	0	1	0
@@ -5974,8 +5796,7 @@
 кората	crust	0	0	1	0
 кората	cortex	0	0	1	0
 преодолее	overcome	0	0	1	0
-надясно	right	0	0	1	0
-надясно	to the right	0	0	1	0
+доказателства	evidence	0	0	1	0
 мотиви	motives	0	0	1	0
 мотиви	prayer	0	0	1	0
 златния	golden	0	0	1	0
@@ -5993,20 +5814,17 @@
 ваджраяна	vajrayana	0	0	1	0
 кацане	landing	0	0	1	0
 хан	khan	0	0	1	0
-хан	chan	0	0	1	0
 кръг	range	0	0	1	0
 берлин	berlin	0	0	1	0
 природните	natural	0	0	1	0
 президентът	president	0	0	1	0
-президентът	the president	0	0	1	0
 хаос	chaos	0	0	1	0
 турския	turkish	0	0	1	0
 изкуството	art	0	0	1	0
 изкуството	experience	0	0	1	0
 костадинов	kostadinov	0	0	1	0
-напомня	mention	0	0	1	0
-напомня	recalled	0	0	1	0
 напомня	reminds	0	0	1	0
+напомня	recalled	0	0	1	0
 художествени	art	0	0	1	0
 скоростта	speed	0	0	1	0
 водещи	leading	0	0	1	0
@@ -6014,7 +5832,6 @@
 токио	tokyo	0	0	1	0
 молекулите	cells	0	0	1	0
 молекулите	molecules	0	0	1	0
-молекулите	the molecules	0	0	1	0
 основния	elementary	0	0	1	0
 основния	main	0	0	1	0
 основния	the main	0	0	1	0
@@ -6072,8 +5889,7 @@
 играят	dance	0	0	1	0
 играят	play	0	0	1	0
 спорт	sport	0	0	1	0
-започваща	starts	0	0	1	0
-започваща	begin	0	0	1	0
+абридж	abridge	1	1	0	0
 лаерт	laertes	1	1	0	0
 лаерт	laert	1	0	1	0
 лаерт	links	1	0	1	0
@@ -6085,16 +5901,15 @@
 разпространено	spread	0	0	1	0
 насочена	directed	0	0	1	0
 насочена	aimed	0	0	1	0
-езикът	the language	0	0	1	0
 езикът	tongue	0	0	1	0
 езикът	language	0	0	1	0
 понятие	concept	0	0	1	0
 понятие	idea	0	0	1	0
 разпространена	spread	0	0	1	0
 свързан	connected	0	0	1	0
-свързан	related	0	0	1	0
-златна	golden	0	0	1	0
-златна	gold	0	0	1	0
+насочени	directed	0	0	1	0
+насочени	oriented to	0	0	1	0
+насочени	towards	0	0	1	0
 сериали	serials	0	0	1	0
 сериали	series	0	0	1	0
 трифонов	trifonov	0	0	1	0
@@ -6123,11 +5938,9 @@
 разказа	the story	0	0	1	0
 паша	pasha	0	0	1	0
 паша	pasha (name)	0	0	1	0
-паша	grazing	0	0	1	0
 намирал	found	0	0	1	0
 веселин	veselin	0	0	1	0
 видим	visible	0	0	1	0
-степента	classification	0	0	1	0
 намират	are	0	0	1	0
 писанието	scripture	0	0	1	0
 писанието	writing	0	0	1	0
@@ -6152,12 +5965,11 @@
 организмът	body	0	0	1	0
 организмът	organism	0	0	1	0
 берое	beroe	0	0	1	0
-доказателства	evidence	0	0	1	0
+надясно	to the right	0	0	1	0
 менингит	meningitis	1	1	0	0
 менингит	additional	1	0	1	0
 следващото	next	0	0	1	0
 участъка	section	0	0	1	0
-завод	plant	0	0	1	0
 завод	factory	0	0	1	0
 треньор	trainer	0	0	1	0
 треньор	coach	0	0	1	0
@@ -6225,8 +6037,7 @@
 схващания	concidere	0	0	1	0
 схващания	conception	0	0	1	0
 схващания	understandings	0	0	1	0
-отгоре	on top	0	0	1	0
-отгоре	above	0	0	1	0
+крайбрежието	coast	0	0	1	0
 пиано	piano	0	0	1	0
 найвисоко	highest	0	0	1	0
 найвисоко	at high	0	0	1	0
@@ -6294,7 +6105,6 @@
 черният	the black	0	0	1	0
 черният	black	0	0	1	0
 химични	chemical	0	0	1	0
-химични	chemicals	0	0	1	0
 мейн	maine	0	0	1	0
 работниците	workers	0	0	1	0
 шести	sixth	0	0	1	0
@@ -6304,10 +6114,8 @@
 покаже	show	0	0	1	0
 експерти	experts	0	0	1	0
 вътрешни	home	0	0	1	0
-вътрешни	inside	0	0	1	0
 вътрешно	iner	0	0	1	0
 вътрешно	internal	0	0	1	0
-вътрешно	internally	0	0	1	0
 дипломация	diplomacy	0	0	1	0
 налага	have	0	0	1	0
 майстор	master	0	0	1	0
@@ -6321,7 +6129,6 @@
 завладяват	conquer	0	0	1	0
 марин	marin	0	0	1	0
 важността	importance	0	0	1	0
-важността	the importance	0	0	1	0
 синдром	syndrome	0	0	1	0
 народности	nationalities	0	0	1	0
 полета	fields	0	0	1	0
@@ -6365,7 +6172,6 @@
 найзначимите	most significant	0	0	1	0
 найзначимите	most important	0	0	1	0
 дейности	activities	0	0	1	0
-светски	secular	0	0	1	0
 светски	social	0	0	1	0
 древногръцката	ancient greek	0	0	1	0
 княгиня	queen	0	0	1	0
@@ -6378,7 +6184,6 @@
 нужно	needed	0	0	1	0
 нужно	necessary	0	0	1	0
 нужно	have	0	0	1	0
-безработица	unemployement	0	0	1	0
 безработица	unemployment	0	0	1	0
 нужни	needed	0	0	1	0
 нужни	needful	0	0	1	0
@@ -6422,7 +6227,6 @@
 хранене	feeding	0	0	1	0
 районът	region	0	0	1	0
 районът	area	0	0	1	0
-библията	the bible	0	0	1	0
 библията	bible	0	0	1	0
 номиниран	nominate	0	0	1	0
 номиниран	nominated	0	0	1	0
@@ -6452,8 +6256,7 @@
 средновековни	medieval	0	0	1	0
 образование	education	0	0	1	0
 шоуто	show	0	0	1	0
-отрицателно	negatively	0	0	1	0
-отрицателно	negative	0	0	1	0
+свален	dethroned	0	0	1	0
 отрицателни	negative	0	0	1	0
 лизи	lizzie	0	0	1	0
 лизи	lissy	0	0	1	0
@@ -6474,7 +6277,7 @@
 външната	foreign	0	0	1	0
 тръба	tube	0	0	1	0
 усеща	felt	0	0	1	0
-цени	prices	0	0	1	0
+гръцкият	greek	0	0	1	0
 същинската	actual	0	0	1	0
 заселват	settled	0	0	1	0
 трудове	writings	0	0	1	0
@@ -6499,7 +6302,6 @@
 разпределени	distributed	0	0	1	0
 разстройство	disorder	0	0	1	0
 разстройство	upset	0	0	1	0
-френския	the french	0	0	1	0
 френския	french	0	0	1	0
 архиепископ	archbishop	0	0	1	0
 архиепископ	archibishop	0	0	1	0
@@ -6534,7 +6336,6 @@
 последствията	consequences	0	0	1	0
 нацистите	the nazis	0	0	1	0
 нацистите	nazi	0	0	1	0
-свързва	relate	0	0	1	0
 свързва	associated	0	0	1	0
 свързва	connect	0	0	1	0
 претория	pretoria	0	0	1	0
@@ -6565,7 +6366,6 @@ $	$	0	0	1	0
 последователите	followers	0	0	1	0
 статут	status	0	0	1	0
 статут	statute	0	0	1	0
-дължат	owe	0	0	1	0
 дължат	due	0	0	1	0
 болният	patients	0	0	1	0
 болният	patient	0	0	1	0
@@ -6610,7 +6410,6 @@ $	$	0	0	1	0
 съображения	considerations	0	0	1	0
 гласи	states	0	0	1	0
 гласа	votes	0	0	1	0
-гласа	voice	0	0	1	0
 гласа	the voice	0	0	1	0
 стремежът	pursuit	0	0	1	0
 лунните	moon	0	0	1	0
@@ -6674,7 +6473,6 @@ $	$	0	0	1	0
 шахмата	the chess	0	0	1	0
 шахмата	chess	0	0	1	0
 равнина	flat	0	0	1	0
-равнина	valley	0	0	1	0
 равнина	plane	0	0	1	0
 филми	films	0	0	1	0
 филми	movies	0	0	1	0
@@ -6707,7 +6505,8 @@ $	$	0	0	1	0
 газа	gaza	1	1	0	0
 джак	jack	0	0	1	0
 дон	don	0	0	1	0
-дом	home	0	0	1	0
+после	then	0	0	1	0
+после	after; then; later	0	0	1	0
 наблюденията	observation	0	0	1	0
 наблюденията	observations	0	0	1	0
 основателите	founders	0	0	1	0
@@ -6724,15 +6523,11 @@ $	$	0	0	1	0
 възли	nodes	0	0	1	0
 възли	junctions	0	0	1	0
 великото	grand	0	0	1	0
-великото	the great	0	0	1	0
 извършено	made	0	0	1	0
 извършено	done	0	0	1	0
 извършено	committed	0	0	1	0
-първото	the first	0	0	1	0
-първото	first	0	0	1	0
 висшите	high rank	0	0	1	0
 висшите	higher	0	0	1	0
-извършени	took place	0	0	1	0
 извършени	commited	0	0	1	0
 извършени	out	0	0	1	0
 преход	transition	0	0	1	0
@@ -6833,13 +6628,11 @@ $	$	0	0	1	0
 съперник	rival	0	0	1	0
 актове	acts	0	0	1	0
 излиза	is released	0	0	1	0
-излиза	be printed	0	0	1	0
-излиза	out	0	0	1	0
 великия	great	0	0	1	0
 крайбрежните	cost	0	0	1	0
 крайбрежните	coastal	0	0	1	0
-отбори	teams	0	0	1	0
 отбори	team	0	0	1	0
+отбори	teams	0	0	1	0
 криза	crisis	0	0	1	0
 обама	obama	0	0	1	0
 пейо	peyo	0	0	1	0
@@ -6863,7 +6656,6 @@ $	$	0	0	1	0
 всички	all	0	0	1	0
 строежът	construction	0	0	1	0
 всичко	all	0	0	1	0
-английската	the english	0	0	1	0
 английската	english	0	0	1	0
 завърне	return	0	0	1	0
 завърне	back	0	0	1	0
@@ -6889,7 +6681,6 @@ $	$	0	0	1	0
 посрещането	the welcoming	0	0	1	0
 придава	attach	0	0	1	0
 придава	adds	0	0	1	0
-придава	gives	0	0	1	0
 поморие	pomorie	0	0	1	0
 хранителновкусовата	food	0	0	1	0
 хранителновкусовата	food processing	0	0	1	0
@@ -6912,8 +6703,6 @@ $	$	0	0	1	0
 активността	activity	0	0	1	0
 температура	temperature	0	0	1	0
 селското	rural	0	0	1	0
-селското	agriculture	0	0	1	0
-селското	application	0	0	1	0
 галерия	gallery	0	0	1	0
 температури	temperatures	0	0	1	0
 марий	mari	0	0	1	0
@@ -6929,7 +6718,6 @@ $	$	0	0	1	0
 божествена	divine	0	0	1	0
 всеки	each	0	0	1	0
 слага	put	0	0	1	0
-слага	puts	0	0	1	0
 късмет	luck	0	0	1	0
 походи	hike	0	0	1	0
 походи	quests	0	0	1	0
@@ -6953,7 +6741,6 @@ $	$	0	0	1	0
 бият	to fight; strike	0	0	1	0
 бият	tolls	0	0	1	0
 променлив	variable	0	0	1	0
-лука	luca	0	0	1	0
 лука	lucca	0	0	1	0
 промените	changes	0	0	1	0
 цветът	color	0	0	1	0
@@ -6967,7 +6754,6 @@ $	$	0	0	1	0
 съюзниците	allies	0	0	1	0
 ернст	ernest	0	0	1	0
 ернст	ernst (name)	0	0	1	0
-ернст	ernst	0	0	1	0
 демокрация	democracy	0	0	1	0
 поражението	the defeat	0	0	1	0
 поражението	defeat	0	0	1	0
@@ -7005,8 +6791,7 @@ $	$	0	0	1	0
 море	sea	0	0	1	0
 истини	real	0	0	1	0
 истини	truths	0	0	1	0
-действат	function	0	0	1	0
-действат	operate	0	0	1	0
+диалози	dialogues	0	0	1	0
 истина	trully	0	0	1	0
 истина	truth	0	0	1	0
 банско	bansko	0	0	1	0
@@ -7114,8 +6899,7 @@ $	$	0	0	1	0
 риба	fish	0	0	1	0
 островите	the islands	0	0	1	0
 островите	islands	0	0	1	0
-влиза	enters	0	0	1	0
-влиза	enter	0	0	1	0
+защитник	defender	0	0	1	0
 регионалните	regional	0	0	1	0
 протежение	lenght	0	0	1	0
 протежение	length	0	0	1	0
@@ -7123,8 +6907,8 @@ $	$	0	0	1	0
 народните	people	0	0	1	0
 македонската	macedonian	0	0	1	0
 македонската	the macedonian	0	0	1	0
-гърци	greeks	0	0	1	0
 гърци	greek	0	0	1	0
+гърци	greeks	0	0	1	0
 псевдонима	the nickname	0	0	1	0
 псевдонима	pseudonym	0	0	1	0
 умерен	temperate	0	0	1	0
@@ -7141,7 +6925,6 @@ $	$	0	0	1	0
 ранен	early	0	0	1	0
 ранен	wounded	0	0	1	0
 странитечленки	member countries	0	0	1	0
-странитечленки	members	0	0	1	0
 софийско	around sofia	0	0	1	0
 софийско	sophia	0	0	1	0
 софийско	sofiysko	0	0	1	0
@@ -7183,6 +6966,7 @@ $	$	0	0	1	0
 сергей	sergey (name)	0	0	1	0
 сергей	sergey	0	0	1	0
 писани	written	0	0	1	0
+цени	prices	0	0	1	0
 писане	wrote	0	0	1	0
 писане	writing	0	0	1	0
 румъния	romania	0	0	1	0
@@ -7213,9 +6997,7 @@ $	$	0	0	1	0
 звание	rank	0	0	1	0
 звание	title	0	0	1	0
 реагират	react	0	0	1	0
-реагират	respond	0	0	1	0
 наследство	heritage	0	0	1	0
-предприятие	company	0	0	1	0
 предприятие	enterprise	0	0	1	0
 посещение	visit	0	0	1	0
 предприятия	company	0	0	1	0
@@ -7232,18 +7014,16 @@ $	$	0	0	1	0
 висша	higher	0	0	1	0
 интересен	interesting	0	0	1	0
 средногодишната	average	0	0	1	0
-работите	things	0	0	1	0
-работите	works	0	0	1	0
+авиация	aviation	0	0	1	0
+авиация	air	0	0	1	0
 керамика	ceramics	0	0	1	0
 техният	their	0	0	1	0
 стопанства	farms	0	0	1	0
-стопанства	co-operative	0	0	1	0
 кюстендил	kyustendil	0	0	1	0
 кюстендил	kustendil	0	0	1	0
 бразилското	brazilian	0	0	1	0
 хуните	huns	0	0	1	0
 учен	scientist	0	0	1	0
-учен	scholar	0	0	1	0
 средния	middle	0	0	1	0
 интереси	interests	0	0	1	0
 висш	high	0	0	1	0
@@ -7269,7 +7049,6 @@ $	$	0	0	1	0
 зелени	green	0	0	1	0
 доведе	lead	0	0	1	0
 вени	veins	0	0	1	0
-отбелязани	registered	0	0	1	0
 отбелязани	marked	0	0	1	0
 авторски	author's	0	0	1	0
 поетите	poets	0	0	1	0
@@ -7278,13 +7057,11 @@ $	$	0	0	1	0
 водата	water	0	0	1	0
 водата	waters	0	0	1	0
 обширни	extensive	0	0	1	0
-немското	german	0	0	1	0
 немското	the german	0	0	1	0
 вливат	flow	0	0	1	0
 вливат	pour	0	0	1	0
 младите	young	0	0	1	0
 премиер	prime	0	0	1	0
-премиер	prime minister	0	0	1	0
 жената	woman	0	0	1	0
 жената	women	0	0	1	0
 собствения	own	0	0	1	0
@@ -7302,7 +7079,6 @@ $	$	0	0	1	0
 германик	germanicus	0	0	1	0
 германик	germanik	0	0	1	0
 дали	if	0	0	1	0
-изказвания	uttered	0	0	1	0
 изказвания	statements	0	0	1	0
 невен	calendula	1	1	0	0
 невен	or	1	0	1	0
@@ -7314,7 +7090,8 @@ $	$	0	0	1	0
 дала	given	0	0	1	0
 германия	germany	0	0	1	0
 талев	talev	0	0	1	0
-ангелов	angelov	0	0	1	0
+подложени	subjected	0	0	1	0
+подложени	subject	0	0	1	0
 собственик	owner	0	0	1	0
 групите	the groups	0	0	1	0
 групите	groups	0	0	1	0
@@ -7375,16 +7152,13 @@ $	$	0	0	1	0
 статията	study	0	0	1	0
 наричано	called	0	0	1	0
 централно	central	0	0	1	0
-устието	mouth	0	0	1	0
 направено	made	0	0	1	0
-направено	done	0	0	1	0
 преобладаващата	predominant	0	0	1	0
 списание	magazine	0	0	1	0
 списание	magasine	0	0	1	0
 приложението	application	0	0	1	0
 клуба	club	0	0	1	0
 екземпляри	specimens	0	0	1	0
-екземпляри	copies	0	0	1	0
 обозначаване	marking	0	0	1	0
 обозначаване	designation	0	0	1	0
 трахеит	tracheitis	1	1	0	0
@@ -7395,7 +7169,6 @@ $	$	0	0	1	0
 черноморец	chernomorets	0	0	1	0
 дървесина	ancient	0	0	1	0
 дървесина	wood	0	0	1	0
-филма	the movie	0	0	1	0
 филма	movie	0	0	1	0
 известната	the famous	0	0	1	0
 класове	classes	0	0	1	0
@@ -7420,7 +7193,6 @@ $	$	0	0	1	0
 демократичните	democratic	0	0	1	0
 разпада	decays	0	0	1	0
 водород	hydrogen	0	0	1	0
-още	more	0	0	1	0
 протестантски	protestant	0	0	1	0
 западната	western	0	0	1	0
 западната	the west	0	0	1	0
@@ -7447,7 +7219,6 @@ $	$	0	0	1	0
 хайтов	haitov	0	0	1	0
 хайтов	haytov	0	0	1	0
 човека	human	0	0	1	0
-масонството	freemasonry	0	0	1	0
 масонството	masonry	0	0	1	0
 реализира	realized	0	0	1	0
 реализира	implemented	0	0	1	0
@@ -7491,7 +7262,6 @@ $	$	0	0	1	0
 собствени	their own	0	0	1	0
 собствено	own	0	0	1	0
 стоте	hundred	0	0	1	0
-стоте	the hundred	0	0	1	0
 къщи	houses	0	0	1	0
 къщи	cauchy	0	0	1	0
 отдалечени	remote	0	0	1	0
@@ -7509,7 +7279,6 @@ $	$	0	0	1	0
 лещата	lens	0	0	1	0
 лещата	lentil	0	0	1	0
 лещата	bream	0	0	1	0
-пряко	direct	0	0	1	0
 пряко	directly	0	0	1	0
 шампиони	champions	0	0	1	0
 шотландски	scottish	0	0	1	0
@@ -7568,7 +7337,6 @@ $	$	0	0	1	0
 рачо	racho (name)	0	0	1	0
 конференцията	conference	0	0	1	0
 откритите	open	0	0	1	0
-откритите	discovery	0	0	1	0
 кайро	cairo	0	0	1	0
 органели	organelles	0	0	1	0
 лента	tape	0	0	1	0
@@ -7636,14 +7404,12 @@ $	$	0	0	1	0
 полк	polk	0	0	1	0
 българска	bulgarian	0	0	1	0
 каменна	stone	0	0	1	0
-каменна	rock	0	0	1	0
 българско	bulgarian	0	0	1	0
 български	bulgarian	0	0	1	0
 поста	position	0	0	1	0
 поста	post	0	0	1	0
 алеко	aleko	0	0	1	0
 религиозен	religious	0	0	1	0
-скулптура	sclupture	0	0	1	0
 скулптура	sculpture	0	0	1	0
 обсерватория	observatory	0	0	1	0
 участвал	involved	0	0	1	0
@@ -7661,8 +7427,8 @@ $	$	0	0	1	0
 свободни	free	0	0	1	0
 науката	science	0	0	1	0
 положителен	positive	0	0	1	0
-свален	dethroned	0	0	1	0
-свален	deposed	0	0	1	0
+отрицателно	negatively	0	0	1	0
+отрицателно	negative	0	0	1	0
 забраната	ban	0	0	1	0
 забраната	prohibition	0	0	1	0
 целите	goals	0	0	1	0
@@ -7679,10 +7445,8 @@ $	$	0	0	1	0
 диктатор	dictrator	0	0	1	0
 горите	forestry	0	0	1	0
 горите	mountains	0	0	1	0
-горите	woods	0	0	1	0
 играчът	player	0	0	1	0
 чин	rank	0	0	1	0
-чин	title	0	0	1	0
 оплождане	forever	1	0	1	0
 оплождане	impregnated	1	0	1	0
 оплождане	fertilization	1	1	0	0
@@ -7729,11 +7493,10 @@ $	$	0	0	1	0
 липсва	no	0	0	1	0
 липсва	missing	0	0	1	0
 брад	brad	0	0	1	0
-съответно	respectively	0	0	1	0
 съответно	appropriate	0	0	1	0
-малък	small	0	0	1	0
+пети	fifth	0	0	1	0
+пети	the fifth	0	0	1	0
 златната	golden	0	0	1	0
-златната	the golden	0	0	1	0
 публикуването	publication	0	0	1	0
 найразпространените	the most common	0	0	1	0
 найразпространените	most common	0	0	1	0
@@ -7808,7 +7571,6 @@ $	$	0	0	1	0
 отглеждането	growing	0	0	1	0
 отглеждането	rearing	0	0	1	0
 отглеждането	cultivation	0	0	1	0
-годишно	annually	0	0	1	0
 годишно	yearly	0	0	1	0
 годишно	year	0	0	1	0
 сакскобургготски	saxe	0	0	1	0
@@ -7817,7 +7579,8 @@ $	$	0	0	1	0
 албумът	album	0	0	1	0
 отнема	takes away	0	0	1	0
 отнема	takes	0	0	1	0
-уинстън	winston	0	0	1	0
+обратното	inverse	0	0	1	0
+обратното	opposite	0	0	1	0
 секвоя	sequoia	1	1	0	0
 секвоя	conflicts	1	0	1	0
 секвоя	redwood	1	0	1	0
@@ -7830,7 +7593,6 @@ $	$	0	0	1	0
 боянската	boyans	0	0	1	0
 боянската	boyana	0	0	1	0
 свещена	holy	0	0	1	0
-свещена	sacred	0	0	1	0
 ватикана	vatican	0	0	1	0
 свещено	sacred	0	0	1	0
 труман	truman	0	0	1	0
@@ -7841,7 +7603,6 @@ $	$	0	0	1	0
 улеснява	facilitates	0	0	1	0
 улеснява	make easy	0	0	1	0
 разкопките	excavation	0	0	1	0
-разкопките	excavations	0	0	1	0
 считат	considered	0	0	1	0
 държавен	state	0	0	1	0
 войните	wars	0	0	1	0
@@ -7867,16 +7628,15 @@ $	$	0	0	1	0
 поставено	placed	0	0	1	0
 поставени	placed	0	0	1	0
 поставени	set	0	0	1	0
-поставени	located	0	0	1	0
 знание	knowledge	0	0	1	0
 съотношение	ratio	0	0	1	0
 съотношение	proportion	0	0	1	0
 огромно	huge	0	0	1	0
 огромно	great	0	0	1	0
-огромни	huge	0	0	1	0
+среда	environment	0	0	1	0
+среда	sphere	0	0	1	0
 опитът	ask	0	0	1	0
 опитът	experiance	0	0	1	0
-опитът	experience	0	0	1	0
 максимално	maximum	0	0	1	0
 среди	world	0	0	1	0
 живеещи	living	0	0	1	0
@@ -7889,11 +7649,10 @@ $	$	0	0	1	0
 сомелиер	weeks	1	0	1	0
 сомелиер	sommelier	1	1	0	0
 книга	book	0	0	1	0
+златна	golden	0	0	1	0
 потребителят	user	0	0	1	0
-балканите	the balkan	0	0	1	0
 балканите	balkans	0	0	1	0
 масивна	massive	0	0	1	0
-масивни	solid	0	0	1	0
 масивни	massive	0	0	1	0
 вътрешния	inside	0	0	1	0
 вътрешния	internal	0	0	1	0
@@ -7934,7 +7693,6 @@ $	$	0	0	1	0
 астрономите	astronomers	0	0	1	0
 творбата	work	0	0	1	0
 комитети	committees	0	0	1	0
-комитети	committee	0	0	1	0
 айрес	aires	0	0	1	0
 льо	le	0	0	1	0
 орбитата	orbit	0	0	1	0
@@ -7943,7 +7701,6 @@ $	$	0	0	1	0
 разкриват	reveal	0	0	1	0
 вулкани	volcanoes	0	0	1	0
 боян	bojan	0	0	1	0
-боян	boyan	0	0	1	0
 нидерландски	netherlands	0	0	1	0
 стойността	value	0	0	1	0
 позната	known	0	0	1	0
@@ -7977,15 +7734,12 @@ $	$	0	0	1	0
 плаване	navigation	0	0	1	0
 плаване	sailing	0	0	1	0
 побеждава	wins	0	0	1	0
-побеждава	won	0	0	1	0
-побеждава	defeated	0	0	1	0
 мислене	thinking	0	0	1	0
 мислене	opinion	0	0	1	0
 начало	start	0	0	1	0
 начало	beginning	0	0	1	0
 бягат	flee	0	0	1	0
 вземе	take	0	0	1	0
-същите	all	0	0	1	0
 същите	the same	0	0	1	0
 същите	same	0	0	1	0
 религиозната	religious	0	0	1	0
@@ -8002,12 +7756,11 @@ $	$	0	0	1	0
 хюстън	houston	0	0	1	0
 хюстън	huston	0	0	1	0
 свето	holy	0	0	1	0
-свети	st.	0	0	1	0
 свети	saint	0	0	1	0
 разчитат	rely	0	0	1	0
 разделителна	resolution	0	0	1	0
-следното	following	0	0	1	0
-следното	the next	0	0	1	0
+вега	vega	1	1	0	0
+вега	nations	1	0	1	0
 пясъци	sands	0	0	1	0
 вдясно	right	0	0	1	0
 снимки	photos	0	0	1	0
@@ -8025,7 +7778,6 @@ $	$	0	0	1	0
 фройд	freud	0	0	1	0
 съимператор	saimperator	0	0	1	0
 съимператор	co-emperor	0	0	1	0
-съединения	units	0	0	1	0
 съединения	compounds	0	0	1	0
 министерството	ministry	0	0	1	0
 горно	upper	0	0	1	0
@@ -8060,11 +7812,10 @@ $	$	0	0	1	0
 дълга	long	0	0	1	0
 събиране	collect	0	0	1	0
 събиране	collection	0	0	1	0
-олимпийските	olympic	0	0	1	0
+крис	chris	0	0	1	0
+крис	kris	0	0	1	0
 найвече	most	0	0	1	0
-найвече	mostly	0	0	1	0
 византийското	byzantine	0	0	1	0
-предавания	shows	0	0	1	0
 монархия	monarchy	0	0	1	0
 маргарита	margarita	0	0	1	0
 нато	nato	0	0	1	0
@@ -8078,7 +7829,6 @@ $	$	0	0	1	0
 издигнат	elevated	0	0	1	0
 сатурн	saturn	0	0	1	0
 сатурн	saturne	0	0	1	0
-пресичат	cross	0	0	1	0
 пресичат	intersect	0	0	1	0
 рая	heaven	0	0	1	0
 рая	paradise	0	0	1	0
@@ -8099,13 +7849,11 @@ $	$	0	0	1	0
 гравитацията	the gravity	0	0	1	0
 гравитацията	gravity	0	0	1	0
 хр	chr.	0	0	1	0
-запазена	known	0	0	1	0
 запазена	reserved	0	0	1	0
 ракия	brandy	0	0	1	0
 ракия	rakia	0	0	1	0
 предвидени	provided	0	0	1	0
 предвидени	projected	0	0	1	0
-големината	dimension	0	0	1	0
 големината	size	0	0	1	0
 рак	cancer	0	0	1	0
 рай	save	1	0	1	0
@@ -8118,6 +7866,8 @@ $	$	0	0	1	0
 хера	hera	0	0	1	0
 реши	decide	0	0	1	0
 рискове	risks	0	0	1	0
+съдържание	content	0	0	1	0
+съдържание	ingredients	0	0	1	0
 алеманда	alemanda	1	0	1	0
 алеманда	allemande	1	1	0	0
 алеманда	allemand	1	0	1	0
@@ -8143,7 +7893,6 @@ $	$	0	0	1	0
 сходни	similar	0	0	1	0
 прераства	develop	0	0	1	0
 прераства	grows	0	0	1	0
-документ	document	0	0	1	0
 финансовата	financial	0	0	1	0
 найшироко	vastest	0	0	1	0
 обединението	union	0	0	1	0
@@ -8222,6 +7971,9 @@ $	$	0	0	1	0
 рудолф	rudolph	0	0	1	0
 рудолф	rudolf	0	0	1	0
 преминават	pass	0	0	1	0
+обърнат	turn	0	0	1	0
+обърнат	turned over	0	0	1	0
+обърнат	inverted	0	0	1	0
 бозайници	mammals	0	0	1	0
 днешните	today	0	0	1	0
 имоти	property	0	0	1	0
@@ -8295,13 +8047,12 @@ $	$	0	0	1	0
 годишния	year	0	0	1	0
 поведението	behaviour	0	0	1	0
 поведението	behavior	0	0	1	0
-брцк	brck	0	0	1	0
 брцк	brcc	0	0	1	0
+брцк	brck	0	0	1	0
 полизахарид	polihazard	1	0	1	0
 полизахарид	polysaccharides	1	1	0	0
 полизахарид	concerts	1	0	1	0
 полизахарид	polysaccharide	1	1	0	0
-продължителността	duration	0	0	1	0
 продължителността	span	0	0	1	0
 атомен	atomic	0	0	1	0
 противниците	opponents	0	0	1	0
@@ -8316,17 +8067,15 @@ $	$	0	0	1	0
 пазарджик	pazardzik	0	0	1	0
 лък	easy	0	0	1	0
 лък	bow	0	0	1	0
-подлежат	subject to	0	0	1	0
 подлежат	be	0	0	1	0
 подлежат	subject	0	0	1	0
 херман	herman	0	0	1	0
 пясък	sand	0	0	1	0
 георги	george	0	0	1	0
-отстрани	remove	0	0	1	0
+развил	developed	0	0	1	0
 формирани	formed	0	0	1	0
 описват	describe	0	0	1	0
 луций	lucius	0	0	1	0
-луций	lucii	0	0	1	0
 цар	king	0	0	1	0
 цар	tsar	0	0	1	0
 цар	tzar	0	0	1	0
@@ -8358,7 +8107,6 @@ $	$	0	0	1	0
 природно	nature	0	0	1	0
 формация	formation	0	0	1	0
 природна	nature's	0	0	1	0
-природна	natural	0	0	1	0
 природна	nature	0	0	1	0
 японците	japanese	0	0	1	0
 нобелова	nobel	0	0	1	0
@@ -8369,7 +8117,6 @@ $	$	0	0	1	0
 довежда	lead	0	0	1	0
 симон	simon	0	0	1	0
 симон	simon (name)	0	0	1	0
-цифри	digits	0	0	1	0
 цифри	figures	0	0	1	0
 управлението	managing	0	0	1	0
 управлението	management	0	0	1	0
@@ -8425,7 +8172,7 @@ $	$	0	0	1	0
 овце	ship	0	0	1	0
 корени	roots	0	0	1	0
 срещата	meeting	0	0	1	0
-дейността	activity	0	0	1	0
+плодородието	fertility	0	0	1	0
 разделение	division	0	0	1	0
 митологията	mythology	0	0	1	0
 законите	laws	0	0	1	0
@@ -8440,7 +8187,6 @@ $	$	0	0	1	0
 людмила	lyudmila	0	0	1	0
 производител	maker	0	0	1	0
 производител	producer	0	0	1	0
-бивши	ex	0	0	1	0
 бивши	former	0	0	1	0
 продължил	continued	0	0	1	0
 дванадесетте	twelve	0	0	1	0
@@ -8454,12 +8200,10 @@ $	$	0	0	1	0
 пионер	pioneer	1	1	1	0
 пионер	trailblazer	1	1	0	0
 едър	large	0	0	1	0
-едър	larger (cattle in this case)	0	0	1	0
 цеца	ceca	0	0	1	0
 небето	sky	0	0	1	0
 буталото	ratio	0	0	1	0
 буталото	the piston	0	0	1	0
-адрианопол	adrianople	0	0	1	0
 адрианопол	adrianopolis	0	0	1	0
 адрианопол	adrianopol	0	0	1	0
 продава	sell	0	0	1	0
@@ -8472,7 +8216,6 @@ $	$	0	0	1	0
 волейбол	volleyball	0	0	1	0
 волейбол	voleyball	0	0	1	0
 планините	mountains	0	0	1	0
-планините	the planets	0	0	1	0
 решил	decided	0	0	1	0
 глуон	gluons (phisics)	1	0	1	0
 глуон	a bit	1	0	1	0
@@ -8503,7 +8246,6 @@ $	$	0	0	1	0
 унищожават	destroy	0	0	1	0
 преживявания	survivors	0	0	1	0
 преживявания	experiances	0	0	1	0
-преживявания	experiences	0	0	1	0
 жертви	victims	0	0	1	0
 жертви	casualties	0	0	1	0
 живков	zhivkov	0	0	1	0
@@ -8525,7 +8267,6 @@ $	$	0	0	1	0
 контролира	control	0	0	1	0
 контролира	controls	0	0	1	0
 централният	the central	0	0	1	0
-централният	central	0	0	1	0
 химичен	chemical	0	0	1	0
 прекратява	terminated	0	0	1	0
 прекратява	terminates	0	0	1	0
@@ -8588,12 +8329,10 @@ $	$	0	0	1	0
 начална	main	0	0	1	0
 някои	some	0	0	1	0
 намалява	low	0	0	1	0
-намалява	reduced	0	0	1	0
 намалява	number	0	0	1	0
 ордена	the order	0	0	1	0
 ордена	medal	0	0	1	0
 ордена	order	0	0	1	0
-изменя	changes	0	0	1	0
 изменя	amended	0	0	1	0
 изменя	change	0	0	1	0
 германското	german	0	0	1	0
@@ -8644,7 +8383,6 @@ $	$	0	0	1	0
 банка	bank	0	0	1	0
 католически	catholic	0	0	1	0
 търсенето	search	0	0	1	0
-търсенето	the search	0	0	1	0
 банки	banks	0	0	1	0
 потвърждава	confirmed	0	0	1	0
 потвърждава	cofirmed	0	0	1	0
@@ -8655,9 +8393,8 @@ $	$	0	0	1	0
 свине	swine	1	0	1	0
 свине	svine	1	0	1	0
 болести	diseases	0	0	1	0
-ана	ana	0	0	1	0
-ана	analysis	0	0	1	0
 ана	anna	0	0	1	0
+ана	analysis	0	0	1	0
 яйцата	the eggs	0	0	1	0
 яйцата	eggs	0	0	1	0
 правителствата	governments	0	0	1	0
@@ -8676,7 +8413,6 @@ $	$	0	0	1	0
 адрес	address	0	0	1	0
 корупцията	corruption	0	0	1	0
 корупцията	the corruption	0	0	1	0
-възможностите	the possibilities	0	0	1	0
 възможностите	opportunities	0	0	1	0
 жестоко	cruel	0	0	1	0
 са	with	0	0	1	0
@@ -8698,7 +8434,6 @@ $	$	0	0	1	0
 мирно	peace	0	0	1	0
 мирно	peaceful	0	0	1	0
 продават	sell	0	0	1	0
-продават	sale	0	0	1	0
 вътрешното	domestic	0	0	1	0
 вътрешното	inner	0	0	1	0
 сериозен	serious	0	0	1	0
@@ -8721,7 +8456,6 @@ $	$	0	0	1	0
 завинаги	forever	0	0	1	0
 намери	found	0	0	1	0
 намери	find	0	0	1	0
-сярна	sulphuric	0	0	1	0
 сярна	sulfuric	0	0	1	0
 юли	july	0	0	1	0
 освобождаване	liberation	0	0	1	0
@@ -8778,7 +8512,6 @@ $	$	0	0	1	0
 случаи	cases	0	0	1	0
 случай	case	0	0	1	0
 случай	cases	0	0	1	0
-гр	town of	0	0	1	0
 гр	city	0	0	1	0
 древните	ancient	0	0	1	0
 сидни	sidney	0	0	1	0
@@ -8826,7 +8559,7 @@ $	$	0	0	1	0
 оформя	formed	0	0	1	0
 базата	base	0	0	1	0
 базата	based	0	0	1	0
-безспорно	undoubtedly	0	0	1	0
+просветление	enlightenment	0	0	1	0
 албания	albania	0	0	1	0
 курорт	resort	0	0	1	0
 траян	trajan	0	0	1	0
@@ -8887,8 +8620,8 @@ $	$	0	0	1	0
 волята	the will	0	0	1	0
 североизточна	northeast	0	0	1	0
 кръвното	blood	0	0	1	0
-отстъпват	retreat	0	0	1	0
 отстъпват	yield	0	0	1	0
+отстъпват	retreat	0	0	1	0
 посещения	visits	0	0	1	0
 въртенето	the spinning	0	0	1	0
 въртенето	rotation	0	0	1	0
@@ -8900,7 +8633,6 @@ $	$	0	0	1	0
 пирамида	pyramid	0	0	1	0
 римско	roman	0	0	1	0
 района	regions	0	0	1	0
-района	region	0	0	1	0
 района	area	0	0	1	0
 поизвестен	better known	0	0	1	0
 биогеография	biogeography	1	1	0	0
@@ -8929,7 +8661,6 @@ $	$	0	0	1	0
 стил	style	0	0	1	0
 приеме	accept	0	0	1	0
 привърженици	supporters	0	0	1	0
-насърчава	encourage	0	0	1	0
 насърчава	promote	0	0	1	0
 този	this	0	0	1	0
 джамия	dzhamie	0	0	1	0
@@ -8951,16 +8682,15 @@ $	$	0	0	1	0
 кралството	kingdom	0	0	1	0
 долната	lower	0	0	1	0
 купа	cup	0	0	1	0
-сайта	website	0	0	1	0
 сайта	site	0	0	1	0
 париж	paris	0	0	1	0
 водната	water	0	0	1	0
+кръговрат	circle	0	0	1	0
 седем	seven	0	0	1	0
 руси	rusi	0	0	1	0
 руси	russians	0	0	1	0
 вароша	verosh	0	0	1	0
 вароша	varosha	0	0	1	0
-дължина	length	0	0	1	0
 дължина	lenght	0	0	1	0
 русе	ruse	0	0	1	0
 вълнения	unrest	0	0	1	0
@@ -8977,7 +8707,6 @@ $	$	0	0	1	0
 годишнината	anniversary	0	0	1	0
 годишнината	year	0	0	1	0
 критикува	criticized	0	0	1	0
-критикува	criticize	0	0	1	0
 щял	would	0	0	1	0
 превърнат	become	0	0	1	0
 превърнат	converted	0	0	1	0
@@ -9000,7 +8729,6 @@ $	$	0	0	1	0
 квартали	neighborhoods	0	0	1	0
 квартали	quarters	0	0	1	0
 установяване	establishment	0	0	1	0
-произвежда	produce	0	0	1	0
 произвежда	produces	0	0	1	0
 османски	ottoman	0	0	1	0
 османско	ottoman	0	0	1	0
@@ -9030,10 +8758,8 @@ $	$	0	0	1	0
 клитора	clitoris	0	0	1	0
 аспарух	asparuh	0	0	1	0
 запазят	preserve	0	0	1	0
-запазят	keep	0	0	1	0
 антични	antique	0	0	1	0
 антични	ancient	0	0	1	0
-насоченост	focus	0	0	1	0
 насоченост	orientation	0	0	1	0
 счетоводство	following	1	0	1	0
 счетоводство	the following	1	0	1	0
@@ -9078,18 +8804,15 @@ $	$	0	0	1	0
 руската	the russian	0	0	1	0
 стефано	stefano	0	0	1	0
 секция	section	0	0	1	0
-измества	shifts	0	0	1	0
 измества	moves	0	0	1	0
 измества	dislocate	0	0	1	0
 мъжката	male	0	0	1	0
 треска	fever	0	0	1	0
-мирното	peace	0	0	1	0
 мирното	peaceful	0	0	1	0
 разкопки	excavation	0	0	1	0
 разкопки	excavations	0	0	1	0
 крит	crete	0	0	1	0
-крис	chris	0	0	1	0
-крис	kris	0	0	1	0
+олимпийските	olympic	0	0	1	0
 молекулна	molecular	0	0	1	0
 преведени	translated	0	0	1	0
 пет	five	0	0	1	0
@@ -9108,10 +8831,9 @@ $	$	0	0	1	0
 рожден	birthday	0	0	1	0
 рожден	birth	0	0	1	0
 образци	models	0	0	1	0
-образци	samples	0	0	1	0
 образци	branch	0	0	1	0
+образци	samples	0	0	1	0
 отборът	board	0	0	1	0
-отборът	team	0	0	1	0
 обявени	declared	0	0	1	0
 обявени	announced	0	0	1	0
 обявени	published	0	0	1	0
@@ -9141,12 +8863,11 @@ $	$	0	0	1	0
 крие	hides	0	0	1	0
 наско	nasko	0	0	1	0
 родината	motherland	0	0	1	0
-пее	sings	0	0	1	0
 пее	sing	0	0	1	0
+пее	sings	0	0	1	0
 забележителности	sights	0	0	1	0
 законодателен	legislative	0	0	1	0
 живак	mercury	0	0	1	0
-живак	quicksilver	0	0	1	0
 самолета	the plane	0	0	1	0
 самолета	plane	0	0	1	0
 самолета	planes	0	0	1	0
@@ -9186,7 +8907,6 @@ $	$	0	0	1	0
 филипините	philippines	0	0	1	0
 колумбия	columbia	0	0	1	0
 колумбия	colombia	0	0	1	0
-получат	receive	0	0	1	0
 получат	get	0	0	1	0
 склероза	sclerosis	0	0	1	0
 подножие	foot	0	0	1	0
@@ -9202,9 +8922,7 @@ $	$	0	0	1	0
 артемизия	artemisia	1	1	0	0
 реставрацията	restoration	0	0	1	0
 налагането	imposition	0	0	1	0
-плода	the offspring	0	0	1	0
 плода	fruit	0	0	1	0
-плода	fetus	0	0	1	0
 асеновград	asenovgrad	0	0	1	0
 метални	metal	0	0	1	0
 митове	myths	0	0	1	0
@@ -9220,11 +8938,9 @@ $	$	0	0	1	0
 гръцкото	greek	0	0	1	0
 гръцкото	the greek	0	0	1	0
 случва	happens	0	0	1	0
-случва	going	0	0	1	0
-после	then	0	0	1	0
-после	after; then; later	0	0	1	0
+дом	home	0	0	1	0
 буря	storm	0	0	1	0
-отбелязан	marked	0	0	1	0
+започваща	begin	0	0	1	0
 централи	plants	0	0	1	0
 свързани	related	0	0	1	0
 свързани	conected	0	0	1	0
@@ -9298,7 +9014,6 @@ $	$	0	0	1	0
 задачата	task	0	0	1	0
 медали	medals	0	0	1	0
 светец	saint	0	0	1	0
-медикаменти	medicine	0	0	1	0
 медикаменти	medicines	0	0	1	0
 настилка	base	0	0	1	0
 настилка	floor	0	0	1	0
@@ -9330,7 +9045,6 @@ $	$	0	0	1	0
 африканската	african	0	0	1	0
 лично	personally	0	0	1	0
 пайнер	payner	0	0	1	0
-паралел	degree of latitude	0	0	1	0
 паралел	parallel	0	0	1	0
 македонски	macedonian (alexander of macedon)	0	0	1	0
 македонски	macedonian	0	0	1	0
@@ -9379,7 +9093,6 @@ $	$	0	0	1	0
 октомврийската	the october	0	0	1	0
 октомврийската	october	0	0	1	0
 усилия	efforts	0	0	1	0
-движи	move	0	0	1	0
 движи	moves	0	0	1	0
 поколение	generation	0	0	1	0
 поколение	offspring	0	0	1	0
@@ -9388,7 +9101,6 @@ $	$	0	0	1	0
 започва	begins	0	0	1	0
 годините	years	0	0	1	0
 възвишения	hills	0	0	1	0
-възвишения	elevations	0	0	1	0
 възвишения	heights	0	0	1	0
 примирието	truce	0	0	1	0
 примирието	peace	0	0	1	0
@@ -9407,7 +9119,7 @@ $	$	0	0	1	0
 седалище	residence	0	0	1	0
 седалище	operating place	0	0	1	0
 седалище	based	0	0	1	0
-географската	geographical	0	0	1	0
+никарагуа	nicaragua	0	0	1	0
 дават	give	0	0	1	0
 андора	andorra	0	0	1	0
 андора	andora	0	0	1	0
@@ -9442,10 +9154,8 @@ $	$	0	0	1	0
 отделена	separate	0	0	1	0
 типично	typical	0	0	1	0
 подаване	handing over	0	0	1	0
-подаване	passing	0	0	1	0
 подаване	submission	0	0	1	0
 подаване	supplying	0	0	1	0
-типични	tipical	0	0	1	0
 типични	typical	0	0	1	0
 сървър	server	0	0	1	0
 държавният	state	0	0	1	0
@@ -9459,14 +9169,11 @@ $	$	0	0	1	0
 турнета	tour	0	0	1	0
 турнета	tours	0	0	1	0
 ту	now	0	0	1	0
-ту	tu - technical university // at times	0	0	1	0
 орел	eagle	0	0	1	0
 тя	she	0	0	1	0
 място	place	0	0	1	0
 проведените	conducted	0	0	1	0
-проведените	the held	0	0	1	0
 животинския	animal	0	0	1	0
-найголемите	biggest	0	0	1	0
 найголемите	the largest	0	0	1	0
 легенди	legends	0	0	1	0
 европейския	european	0	0	1	0
@@ -9503,8 +9210,6 @@ $	$	0	0	1	0
 найсилните	the strongest	0	0	1	0
 здрави	healthy	0	0	1	0
 здраве	health	0	0	1	0
-отлично	perfect	0	0	1	0
-отлично	perfectly	0	0	1	0
 отлично	excellent	0	0	1	0
 отлични	excellent	0	0	1	0
 намерените	found	0	0	1	0
@@ -9521,7 +9226,6 @@ $	$	0	0	1	0
 ти	you	0	0	1	0
 монтана	montana	0	0	1	0
 делене	division	0	0	1	0
-делене	separation	0	0	1	0
 пазарна	market	0	0	1	0
 представяне	representation	0	0	1	0
 представяне	presentation	0	0	1	0
@@ -9534,7 +9238,6 @@ $	$	0	0	1	0
 дъждове	rains	0	0	1	0
 дъждове	rain	0	0	1	0
 химичните	chemical	0	0	1	0
-химичните	hemichnite	0	0	1	0
 конница	cavalry	0	0	1	0
 представлява	represents	0	0	1	0
 представлява	is	0	0	1	0
@@ -9603,7 +9306,6 @@ $	$	0	0	1	0
 франк	franc	0	0	1	0
 франк	hans	0	0	1	0
 запетая	comma	0	0	1	0
-възприемат	perceive	0	0	1	0
 възприемат	accept	0	0	1	0
 следващата	following	0	0	1	0
 следващата	next	0	0	1	0
@@ -9660,10 +9362,9 @@ $	$	0	0	1	0
 чак	right	0	0	1	0
 геометрия	geometry	0	0	1	0
 геометрия	geomethry	0	0	1	0
-византийският	the byzantine	0	0	1	0
 византийският	byzantine	0	0	1	0
-означават	designate	0	0	1	0
 означават	mean	0	0	1	0
+означават	designate	0	0	1	0
 вземат	into	0	0	1	0
 вземат	take	0	0	1	0
 жена	woman	0	0	1	0
@@ -9718,8 +9419,9 @@ $	$	0	0	1	0
 бозайниците	mammals	0	0	1	0
 влошава	worsen	0	0	1	0
 влошава	worsens	0	0	1	0
-масло	butter	0	0	1	0
-масло	oil	0	0	1	0
+следващият	next	0	0	1	0
+следващият	the next	0	0	1	0
+следващият	successive	0	0	1	0
 превзета	taken	0	0	1	0
 превзета	take	0	0	1	0
 превзета	captured	0	0	1	0
@@ -9740,7 +9442,6 @@ $	$	0	0	1	0
 германския	german	0	0	1	0
 буда	buddha	0	0	1	0
 и	and	0	0	1	0
-раждаемост	birthrate	0	0	1	0
 раждаемост	natality	0	0	1	0
 транзистори	transistors	0	0	1	0
 литературата	literary	0	0	1	0
@@ -9750,7 +9451,6 @@ $	$	0	0	1	0
 ил	el	0	0	1	0
 ил	ile (ile-de-france)	0	0	1	0
 бвп	gdp	0	0	1	0
-димитровден	dimitri's day	0	0	1	0
 димитровден	dimitri	0	0	1	0
 димитровден	dimitars day	0	0	1	0
 наложени	imposed	0	0	1	0
@@ -9779,6 +9479,7 @@ $	$	0	0	1	0
 пряк	direct	0	0	1	0
 византийци	byzantines	0	0	1	0
 водопада	waterfall	0	0	1	0
+всичките	all	0	0	1	0
 правни	legal	0	0	1	0
 косово	kosovo	0	0	1	0
 неравномерно	uneven	0	0	1	0
@@ -9820,7 +9521,8 @@ $	$	0	0	1	0
 избира	chooses	0	0	1	0
 второто	second	0	0	1	0
 ниоба	niobe	1	1	0	0
-дейци	makers	0	0	1	0
+слаб	weak	0	0	1	0
+слаб	low	0	0	1	0
 заглавието	the title	0	0	1	0
 заглавието	title	0	0	1	0
 камерите	cameras	0	0	1	0
@@ -9829,14 +9531,12 @@ $	$	0	0	1	0
 бавно	slowly	0	0	1	0
 определянето	determination	0	0	1	0
 подходящо	appropriately	0	0	1	0
-подходящо	appropriate	0	0	1	0
 кама	kama	0	0	1	0
 кама	dagger	0	0	1	0
 строителство	construction	0	0	1	0
 строителство	manonry/construction	0	0	1	0
 твърдят	claim	0	0	1	0
 успешни	successful	0	0	1	0
-изисква	required	0	0	1	0
 изисква	requires	0	0	1	0
 техниката	technique	0	0	1	0
 техниката	technics	0	0	1	0
@@ -9870,7 +9570,6 @@ $	$	0	0	1	0
 въпросът	question	0	0	1	0
 повишена	increased	0	0	1	0
 дела	cases	0	0	1	0
-дела	works	0	0	1	0
 дела	acts	0	0	1	0
 съпругата	wife	0	0	1	0
 културното	cultural	0	0	1	0
@@ -9904,7 +9603,6 @@ $	$	0	0	1	0
 контрол	control	0	0	1	0
 гражданско	civil	0	0	1	0
 граждански	civil	0	0	1	0
-граждански	civilian	0	0	1	0
 запис	note	0	0	1	0
 запис	recording	0	0	1	0
 гражданска	civil	0	0	1	0
@@ -9918,7 +9616,6 @@ $	$	0	0	1	0
 собствените	own	0	0	1	0
 функционирането	operation	0	0	1	0
 изобразен	depicted	0	0	1	0
-изобразен	pictured	0	0	1	0
 вечен	eternal	0	0	1	0
 туристи	tourists	0	0	1	0
 реки	rivers	0	0	1	0
@@ -9927,14 +9624,12 @@ $	$	0	0	1	0
 многобройните	multiple	0	0	1	0
 многобройните	numerous	0	0	1	0
 отглежда	grown	0	0	1	0
-отглежда	breed	0	0	1	0
 раздели	sections	0	0	1	0
 раздели	divide	0	0	1	0
 раздели	devided	0	0	1	0
 протичане	process	0	0	1	0
 протичане	flow	0	0	1	0
 помпей	pompeii	0	0	1	0
-разделя	section	0	0	1	0
 разделя	split	0	0	1	0
 къклица	corncockle	1	0	1	0
 къклица	chinese	1	0	1	0
@@ -9950,7 +9645,7 @@ $	$	0	0	1	0
 крайни	end	0	0	1	0
 крайни	final	0	0	1	0
 цикли	cycles	0	0	1	0
-никарагуа	nicaragua	0	0	1	0
+географската	geographical	0	0	1	0
 крайна	region	0	0	1	0
 крайна	end	0	0	1	0
 крайна	final	0	0	1	0
@@ -9966,7 +9661,6 @@ $	$	0	0	1	0
 вечер	evening	0	0	1	0
 вечер	night	0	0	1	0
 цялостната	overall	0	0	1	0
-европейците	the europeans	0	0	1	0
 европейците	europeans	0	0	1	0
 значителна	significant	0	0	1	0
 идва	arrives	0	0	1	0
@@ -9998,7 +9692,6 @@ $	$	0	0	1	0
 нейни	her	0	0	1	0
 диана	diana	0	0	1	0
 леденика	ledenika	0	0	1	0
-кихот	quihote	0	0	1	0
 кихот	quixote	0	0	1	0
 кристали	crystals	0	0	1	0
 последва	follow	0	0	1	0
@@ -10011,7 +9704,7 @@ $	$	0	0	1	0
 държавно	state	0	0	1	0
 държавна	state	0	0	1	0
 квартал	quarter	0	0	1	0
-царското	royal	0	0	1	0
+супер	super	0	0	1	0
 рода	race	0	0	1	0
 рода	family	0	0	1	0
 троица	trine	0	0	1	0
@@ -10031,7 +9724,6 @@ $	$	0	0	1	0
 ядрени	nuclear	0	0	1	0
 забранена	forbidden	0	0	1	0
 забранена	prohibited	0	0	1	0
-произхождат	originating	0	0	1	0
 произхождат	originate	0	0	1	0
 сулфонамид	sulfonamide	1	1	0	0
 сулфонамид	sulphonamide	1	1	0	0
@@ -10042,7 +9734,6 @@ $	$	0	0	1	0
 възрожденска	revival	0	0	1	0
 етап	stage	0	0	1	0
 географското	geographic	0	0	1	0
-географското	the geographical	0	0	1	0
 географското	geographical	0	0	1	0
 никакво	none	0	0	1	0
 никакво	no	0	0	1	0
@@ -10078,7 +9769,6 @@ $	$	0	0	1	0
 кърджали	kardjali	0	0	1	0
 кърджали	kardzhali	0	0	1	0
 я	a	0	0	1	0
-я	it	0	0	1	0
 именно	namely	0	0	1	0
 именно	precisely	0	0	1	0
 действието	action	0	0	1	0
@@ -10100,7 +9790,6 @@ $	$	0	0	1	0
 зле	bad	0	0	1	0
 зле	poorly	0	0	1	0
 рака	cancer	0	0	1	0
-рака	hand	0	0	1	0
 транспозон	transposon	1	1	0	0
 транспозон	constitutional	1	0	1	0
 транспозон	transposons	1	0	1	0
@@ -10164,14 +9853,12 @@ $	$	0	0	1	0
 хинаяна	hinayana	1	1	0	0
 хинаяна	hanayana	1	0	1	0
 хинаяна	hinata	1	0	1	0
-мащабни	large	0	0	1	0
 мащабни	scale	0	0	1	0
 мащабни	measure	0	0	1	0
 около	about	0	0	1	0
 около	around	0	0	1	0
 орален	oral	0	0	1	0
 милан	milan	0	0	1	0
-навън	outside	0	0	1	0
 навън	out	0	0	1	0
 град	city	0	0	1	0
 ресторанти	reastaurants	0	0	1	0
@@ -10220,15 +9907,14 @@ $	$	0	0	1	0
 дефиниция	definition	0	0	1	0
 историческото	historical	0	0	1	0
 напоследък	recently	0	0	1	0
-стомана	steel	0	0	1	0
 новата	new	0	0	1	0
 математически	mathematical	0	0	1	0
 гватемала	guatemala	0	0	1	0
 математическа	mathematics	0	0	1	0
 математическа	math	0	0	1	0
 действие	action	0	0	1	0
-действие	effect	0	0	1	0
 женен	married	0	0	1	0
+отбелязан	marked	0	0	1	0
 балчик	balchik	0	0	1	0
 дизайн	design	0	0	1	0
 османците	ottomans	0	0	1	0
@@ -10251,7 +9937,8 @@ $	$	0	0	1	0
 средства	means	0	0	1	0
 военноморски	marine	0	0	1	0
 военноморски	naval	0	0	1	0
-месия	messiah	0	0	1	0
+неофит	neofit	0	0	1	0
+неофит	neophyte	0	0	1	0
 към	to	0	0	1	0
 към	in	0	0	1	0
 компютъра	computers	0	0	1	0
@@ -10274,7 +9961,6 @@ $	$	0	0	1	0
 бряг	shore	0	0	1	0
 бряг	coast	0	0	1	0
 народи	people	0	0	1	0
-народи	nations	0	0	1	0
 остатъци	remains	0	0	1	0
 остатъци	debris	0	0	1	0
 електронната	electronic	0	0	1	0
@@ -10294,7 +9980,6 @@ $	$	0	0	1	0
 ан	en	0	0	1	0
 ан	an	0	0	1	0
 изпратени	sent	0	0	1	0
-става	becomes	0	0	1	0
 става	became	0	0	1	0
 става	places	0	0	1	0
 старши	senior	0	0	1	0
@@ -10339,7 +10024,6 @@ $	$	0	0	1	0
 затваря	closes	0	0	1	0
 политици	politicians	0	0	1	0
 стойности	values	0	0	1	0
-белтъците	whites	0	0	1	0
 белтъците	protein	0	0	1	0
 белтъците	proteins	0	0	1	0
 базиликата	basilica	0	0	1	0
@@ -10418,7 +10102,6 @@ $	$	0	0	1	0
 виетнам	vietnam	0	0	1	0
 коста	costa	0	0	1	0
 кости	bones	0	0	1	0
-кости	kosti	0	0	1	0
 съвет	board	0	0	1	0
 съвет	council	0	0	1	0
 сгъстяване	compression	0	0	1	0
@@ -10456,7 +10139,6 @@ $	$	0	0	1	0
 посреща	/	0	0	1	0
 посреща	greeted	0	0	1	0
 пренасят	transfer	0	0	1	0
-пренасят	transport	0	0	1	0
 проучване	study	0	0	1	0
 вяра	vera	0	0	1	0
 вяра	faith	0	0	1	0
@@ -10475,7 +10157,6 @@ $	$	0	0	1	0
 отразява	reflects	0	0	1	0
 далмация	dalmatia	0	0	1	0
 земеделски	agricultural	0	0	1	0
-увеличава	increase	0	0	1	0
 увеличава	increases	0	0	1	0
 магелан	magellan	0	0	1	0
 стига	arrives	0	0	1	0
@@ -10610,15 +10291,12 @@ $	$	0	0	1	0
 молитва	prayer	0	0	1	0
 каква	what	0	0	1	0
 стопанско	economic	0	0	1	0
-стопанско	business	0	0	1	0
 стопанска	economic	0	0	1	0
 стопанска	business	0	0	1	0
 какви	what	0	0	1	0
 какво	what	0	0	1	0
 командване	command	0	0	1	0
-обърнат	turn	0	0	1	0
-обърнат	turned over	0	0	1	0
-обърнат	inverted	0	0	1	0
+още	more	0	0	1	0
 тиберий	tiberius	0	0	1	0
 сватбата	wedding	0	0	1	0
 помалък	lower	0	0	1	0
@@ -10657,7 +10335,6 @@ $	$	0	0	1	0
 леонардо	leonardo	0	0	1	0
 предоставят	provide	0	0	1	0
 предоставят	offer	0	0	1	0
-предоставят	give	0	0	1	0
 масите	masses	0	0	1	0
 регионите	regions	0	0	1	0
 острова	island	0	0	1	0
@@ -10685,7 +10362,6 @@ $	$	0	0	1	0
 амоняк	ammonia	0	0	1	0
 мечки	bears	0	0	1	0
 до	to	0	0	1	0
-дн	modern day	0	0	1	0
 дн	today's	0	0	1	0
 ди	di	0	0	1	0
 еврото	the euro	0	0	1	0
@@ -10834,7 +10510,6 @@ $	$	0	0	1	0
 откриване	detection	0	0	1	0
 откриване	opening	0	0	1	0
 психология	psychology	0	0	1	0
-съвпада	coincide	0	0	1	0
 съвпада	match	0	0	1	0
 следствие	consequence	0	0	1	0
 следствие	result	0	0	1	0
@@ -10860,7 +10535,6 @@ $	$	0	0	1	0
 линиите	lines	0	0	1	0
 толерантност	tolerance	0	0	1	0
 студиото	studio	0	0	1	0
-тела	body	0	0	1	0
 тела	bodies	0	0	1	0
 поголеми	larger	0	0	1	0
 поголеми	bigger	0	0	1	0
@@ -10872,11 +10546,9 @@ $	$	0	0	1	0
 пластове	layers	0	0	1	0
 вестници	newspapers	0	0	1	0
 съществена	essential	0	0	1	0
-категорияносители	category: carriers	0	0	1	0
 категорияносители	category: winners	0	0	1	0
 категорияносители	category winners	0	0	1	0
 часовници	watch	0	0	1	0
-съществени	essential	0	0	1	0
 съществени	significant	0	0	1	0
 съществено	substantially	0	0	1	0
 съществено	essential	0	0	1	0
@@ -10918,7 +10590,6 @@ $	$	0	0	1	0
 автомобили	automobiles	0	0	1	0
 концепцията	concept	0	0	1	0
 концепцията	conception	0	0	1	0
-действително	indeed	0	0	1	0
 действително	actually	0	0	1	0
 физическата	the physical	0	0	1	0
 физическата	fizical	0	0	1	0
@@ -10929,7 +10600,6 @@ $	$	0	0	1	0
 диета	diet	0	0	1	0
 придобиват	acquire	0	0	1	0
 пеене	singing	0	0	1	0
-пеене	song	0	0	1	0
 колела	wheels	0	0	1	0
 предсърдия	atria	0	0	1	0
 сочат	point	0	0	1	0
@@ -10967,8 +10637,6 @@ $	$	0	0	1	0
 движенията	movements	0	0	1	0
 движенията	movement	0	0	1	0
 лявото	left	0	0	1	0
-стигат	go	0	0	1	0
-стигат	reach	0	0	1	0
 местните	local	0	0	1	0
 материята	matter	0	0	1	0
 материята	the matter	0	0	1	0
@@ -10980,8 +10648,6 @@ $	$	0	0	1	0
 подем	upswing	0	0	1	0
 неговият	his	0	0	1	0
 неговият	its	0	0	1	0
-удари	hits	0	0	1	0
-удари	hit	0	0	1	0
 българското	bulgarian	0	0	1	0
 малцинство	minority	0	0	1	0
 следната	following	0	0	1	0
@@ -10992,7 +10658,6 @@ $	$	0	0	1	0
 лицето	the face	0	0	1	0
 лицето	face	0	0	1	0
 възрастните	adults	0	0	1	0
-възрастните	adult	0	0	1	0
 представителите	representatives	0	0	1	0
 антоний	anthony	0	0	1	0
 антоний	antony	0	0	1	0
@@ -11000,7 +10665,6 @@ $	$	0	0	1	0
 лечението	treatment	0	0	1	0
 помаци	pomaks	0	0	1	0
 въз	on	0	0	1	0
-въз	based on	0	0	1	0
 вж	see	0	0	1	0
 ва	st	0	0	1	0
 във	in	0	0	1	0
@@ -11046,20 +10710,18 @@ $	$	0	0	1	0
 полова	sexual	0	0	1	0
 етажи	floors	0	0	1	0
 равномерно	uniformly	0	0	1	0
-равномерно	evenly	0	0	1	0
 размера	size	0	0	1	0
 фашистката	fascist	0	0	1	0
 мачове	matches	0	0	1	0
 моряци	sailors	0	0	1	0
 предаден	surrendered	0	0	1	0
-предаден	submitted	0	0	1	0
 предаден	surrended	0	0	1	0
+предаден	submitted	0	0	1	0
 хосе	jose	0	0	1	0
 патагония	petagoniya	0	0	1	0
 патагония	patagonia	0	0	1	0
 официалният	oficial	0	0	1	0
 официалният	official	0	0	1	0
-ма	-th	0	0	1	0
 мостове	bridges	0	0	1	0
 разделянето	separation	0	0	1	0
 университет	university	0	0	1	0
@@ -11070,7 +10732,7 @@ $	$	0	0	1	0
 смит	smith	1	1	1	0
 тенис	tennis	0	0	1	0
 конна	horse	0	0	1	0
-стефан	stefan	0	0	1	0
+пловдивски	plovdiv	0	0	1	0
 наречен	called	0	0	1	0
 хода	go	0	0	1	0
 хода	course	0	0	1	0
@@ -11090,7 +10752,6 @@ $	$	0	0	1	0
 жанр	genre	0	0	1	0
 жанр	literary expression	0	0	1	0
 найчесто	most	0	0	1	0
-найчесто	most often	0	0	1	0
 съседните	neighboring	0	0	1	0
 съседните	the neighboring	0	0	1	0
 комплексът	the complex	0	0	1	0
@@ -11107,7 +10768,6 @@ $	$	0	0	1	0
 кога	when	0	0	1	0
 проявяват	exhibit	0	0	1	0
 проявяват	appearance	0	0	1	0
-проявяват	show	0	0	1	0
 подава	podava	0	0	1	0
 подава	give	0	0	1	0
 сула	sulla	0	0	1	0
@@ -11127,8 +10787,8 @@ $	$	0	0	1	0
 хореография	choreography	1	1	0	0
 търговската	commercial	0	0	1	0
 търговската	trade	0	0	1	0
-школи	skhools	0	0	1	0
 школи	schools	0	0	1	0
+школи	skhools	0	0	1	0
 двадесет	twenty	0	0	1	0
 гости	guests	0	0	1	0
 игра	game	0	0	1	0
@@ -11146,9 +10806,7 @@ $	$	0	0	1	0
 императори	emperors	0	0	1	0
 октавиан	octavian	0	0	1	0
 гробът	grave	0	0	1	0
-настроения	spirits	0	0	1	0
 настроения	sentiment	0	0	1	0
-преден	front	0	0	1	0
 преден	foreground	0	0	1	0
 преден	leading	0	0	1	0
 изследването	study	0	0	1	0
@@ -11164,7 +10822,6 @@ $	$	0	0	1	0
 благородни	precious	0	0	1	0
 благородни	generous	0	0	1	0
 благородни	grateful	0	0	1	0
-любослав	luboslav	0	0	1	0
 любослав	lyuboslav	0	0	1	0
 любослав	liuboslav	0	0	1	0
 стъкло	glass	0	0	1	0
@@ -11274,8 +10931,7 @@ $	$	0	0	1	0
 арабските	the arabic	0	0	1	0
 бъдеще	future	0	0	1	0
 ирина	irina	0	0	1	0
-каквато	as	0	0	1	0
-каквато	any	0	0	1	0
+тебе	you	0	0	1	0
 бъдещо	future	0	0	1	0
 бъдещи	future	0	0	1	0
 артериите	arteries	0	0	1	0
@@ -11284,7 +10940,6 @@ $	$	0	0	1	0
 котел	boiler	0	0	1	0
 костадин	kostadin	0	0	1	0
 костадин	kostdin	0	0	1	0
-бургаско	burgasko	0	0	1	0
 бургаско	bulgarian	0	0	1	0
 бургаско	burgas (name of area / city)	0	0	1	0
 бургаски	bulgarian	0	0	1	0
@@ -11300,7 +10955,6 @@ $	$	0	0	1	0
 допълнителен	further	0	0	1	0
 допълнителен	additional	0	0	1	0
 утвърждава	strengthen	0	0	1	0
-утвърждава	established	0	0	1	0
 горещ	hot	0	0	1	0
 максимум	maximum	0	0	1	0
 фестивали	festivals	0	0	1	0
@@ -11357,7 +11011,6 @@ $	$	0	0	1	0
 живи	live	0	0	1	0
 живи	alive	0	0	1	0
 персийски	persian	0	0	1	0
-допълнение	addition	0	0	1	0
 допълнение	adverb	0	0	1	0
 факта	fact	0	0	1	0
 изграждането	construction	0	0	1	0
@@ -11384,7 +11037,6 @@ $	$	0	0	1	0
 завоевания	conquest	0	0	1	0
 наймалкият	smallest	0	0	1	0
 наймалкият	the smallest	0	0	1	0
-споменаване	mentioning	0	0	1	0
 споменаване	reference	0	0	1	0
 дефекти	defects	0	0	1	0
 височината	height	0	0	1	0
@@ -11396,7 +11048,6 @@ $	$	0	0	1	0
 извършва	is done	0	0	1	0
 признат	accepted	0	0	1	0
 признат	recognized	0	0	1	0
-наказание	penalty	0	0	1	0
 наказание	punishment	0	0	1	0
 южния	southern	0	0	1	0
 южния	south	0	0	1	0
@@ -11419,7 +11070,6 @@ $	$	0	0	1	0
 раждаемостта	birth	0	0	1	0
 определяне	determination	0	0	1	0
 определяне	designation	0	0	1	0
-определяне	define	0	0	1	0
 ширина	latitude	0	0	1	0
 ширина	width	0	0	1	0
 ширина	n	0	0	1	0
@@ -11437,11 +11087,9 @@ $	$	0	0	1	0
 идентичност	identity	0	0	1	0
 термини	terms	0	0	1	0
 полезна	useful	0	0	1	0
-полезна	helpful	0	0	1	0
 стимулира	stimulates	0	0	1	0
 стимулира	stimulate	0	0	1	0
 чужди	foreign	0	0	1	0
-термина	the term	0	0	1	0
 термина	term	0	0	1	0
 полезни	useful	0	0	1	0
 полезни	helpful	0	0	1	0
@@ -11457,7 +11105,6 @@ $	$	0	0	1	0
 забавяне	slow	0	0	1	0
 забавяне	slowdown	0	0	1	0
 обяснение	explanation	0	0	1	0
-избити	killed	0	0	1	0
 приток	tributary	0	0	1	0
 семейство	family	0	0	1	0
 елемент	element	0	0	1	0
@@ -11492,7 +11139,6 @@ $	$	0	0	1	0
 загубата	loss	0	0	1	0
 загубата	the loss	0	0	1	0
 кораба	ship	0	0	1	0
-кораба	ships	0	0	1	0
 корана	quran	0	0	1	0
 майката	mother	0	0	1	0
 богомилите	bogomils	0	0	1	0
@@ -11509,7 +11155,6 @@ $	$	0	0	1	0
 търси	search	0	0	1	0
 специализирани	specialized	0	0	1	0
 специализирани	special	0	0	1	0
-бул	boulevard	0	0	1	0
 бул	bull	0	0	1	0
 мая	Маја	0	0	1	0
 мая	maya	0	0	1	0
@@ -11591,7 +11236,6 @@ $	$	0	0	1	0
 изучаването	study	0	0	1	0
 залез	sunset	0	0	1	0
 срок	term	0	0	1	0
-срок	time	0	0	1	0
 древната	ancient	0	0	1	0
 намираща	located	0	0	1	0
 испанският	spanish	0	0	1	0
@@ -11666,7 +11310,6 @@ $	$	0	0	1	0
 коментари	comments	0	0	1	0
 горене	combustion	0	0	1	0
 горене	burning	0	0	1	0
-цялото	entire	0	0	1	0
 цялото	all	0	0	1	0
 цялото	whole	0	0	1	0
 давид	david	0	0	1	0
@@ -11694,7 +11337,6 @@ $	$	0	0	1	0
 лекуване	healing	0	0	1	0
 желязото	iron	0	0	1	0
 даже	even	0	0	1	0
-министерски	minsterial	0	0	1	0
 министерски	ministerial	0	0	1	0
 владетелят	ruler	0	0	1	0
 владетелят	the prince	0	0	1	0
@@ -11703,21 +11345,18 @@ $	$	0	0	1	0
 чиято	which	0	0	1	0
 впечатление	impression	0	0	1	0
 софийска	the sofia	0	0	1	0
-софийска	sofia	0	0	1	0
 ниските	low	0	0	1	0
 икономиката	economy	0	0	1	0
 назначава	assigned	0	0	1	0
 назначава	appoints	0	0	1	0
 уилямс	williams	0	0	1	0
 единствен	the only	0	0	1	0
-единствен	only one	0	0	1	0
 единствен	the only one	0	0	1	0
 провъзгласен	proclaimed	0	0	1	0
 уникална	unique	0	0	1	0
 възкачването	ascension	0	0	1	0
 възкачването	ascent	0	0	1	0
 ерекцията	the erection	0	0	1	0
-ерекцията	erection	0	0	1	0
 уникални	unique	0	0	1	0
 лира	lira	0	0	1	0
 лира	pound	0	0	1	0
@@ -11739,9 +11378,7 @@ $	$	0	0	1	0
 настояще	sought	1	0	1	0
 настояще	present	1	1	0	0
 облеклото	clothing	0	0	1	0
-забележителни	notable	0	0	1	0
-забележителни	remarkable	0	0	1	0
-личности	figures	0	0	1	0
+дневници	diaries	0	0	1	0
 личности	people	0	0	1	0
 маркес	marquez	0	0	1	0
 маркес	markes (name)	0	0	1	0
@@ -11752,8 +11389,8 @@ $	$	0	0	1	0
 бюджета	the budget	0	0	1	0
 бюджета	the budjet	0	0	1	0
 стръмни	steep	0	0	1	0
-подробно	in detail	0	0	1	0
 подробно	details	0	0	1	0
+подробно	in detail	0	0	1	0
 важна	important	0	0	1	0
 важно	important	0	0	1	0
 официалното	official	0	0	1	0
@@ -11787,8 +11424,7 @@ $	$	0	0	1	0
 гну	gnu	1	1	0	0
 комети	comets	0	0	1	0
 наречените	called	0	0	1	0
-пети	fifth	0	0	1	0
-пети	the fifth	0	0	1	0
+малък	small	0	0	1	0
 пето	fifth	0	0	1	0
 побързо	faster	0	0	1	0
 пета	fifth	0	0	1	0
@@ -11855,7 +11491,6 @@ $	$	0	0	1	0
 отбелязват	note	0	0	1	0
 отбелязват	celebrate	0	0	1	0
 зимбабве	zimbabwe	0	0	1	0
-поддържа	sustains	0	0	1	0
 поддържа	supports	0	0	1	0
 учения	teachings	0	0	1	0
 въздушните	air	0	0	1	0
@@ -11887,12 +11522,9 @@ $	$	0	0	1	0
 поставен	placed	0	0	1	0
 поставен	put in	0	0	1	0
 щита	shield	0	0	1	0
-покрива	cover	0	0	1	0
 покрива	covers	0	0	1	0
 левски	levski	0	0	1	0
 засилване	strengthening	0	0	1	0
-бита	life	0	0	1	0
-бита	style of living	0	0	1	0
 бита	way of living	0	0	1	0
 случаите	cases	0	0	1	0
 източници	sources	0	0	1	0
@@ -11960,7 +11592,7 @@ $	$	0	0	1	0
 швейцария	switzerland	0	0	1	0
 червени	red	0	0	1	0
 аристотел	aristotle	0	0	1	0
-червено	red	0	0	1	0
+атила	attila	0	0	1	0
 оказват	have/has	0	0	1	0
 оказват	render	0	0	1	0
 оказват	have	0	0	1	0
@@ -11981,7 +11613,6 @@ $	$	0	0	1	0
 идвали	came	0	0	1	0
 гимназии	gimnasium	0	0	1	0
 гимназии	high schools	0	0	1	0
-витамини	vitamines	0	0	1	0
 витамини	vitamins	0	0	1	0
 буквите	letters	0	0	1	0
 съюзник	ally	0	0	1	0
@@ -11992,8 +11623,8 @@ $	$	0	0	1	0
 кеш	cash	0	0	1	0
 порт	port	0	0	1	0
 минало	past	0	0	1	0
-починали	dead	0	0	1	0
 починали	died	0	0	1	0
+починали	dead	0	0	1	0
 цк	ck	0	0	1	0
 цк	central committee	0	0	1	0
 църковната	church	0	0	1	0
@@ -12111,7 +11742,6 @@ $	$	0	0	1	0
 способен	capable	0	0	1	0
 рок	rock	0	0	1	0
 заобиколен	surrounded	0	0	1	0
-бкп	bulgarian communist party	0	0	1	0
 бкп	bkp	0	0	1	0
 роб	slave	0	0	1	0
 рог	horn	0	0	1	0
@@ -12181,8 +11811,8 @@ $	$	0	0	1	0
 клона	branches	0	0	1	0
 клона	branch	0	0	1	0
 подножието	foot	0	0	1	0
-арена	arena	0	0	1	0
-арена	field	0	0	1	0
+масата	table	0	0	1	0
+масата	crowds	0	0	1	0
 йоан	john	0	0	1	0
 временен	temporary	0	0	1	0
 царя	king	0	0	1	0
@@ -12198,7 +11828,6 @@ $	$	0	0	1	0
 моцарт	mozart	0	0	1	0
 съставна	component	0	0	1	0
 трудно	dificult	0	0	1	0
-трудно	hard	0	0	1	0
 трудно	hardly	0	0	1	0
 влакна	fibres	0	0	1	0
 влакна	fiber	0	0	1	0
@@ -12247,6 +11876,7 @@ $	$	0	0	1	0
 меконг	mekong	1	1	0	0
 меконг	mass	1	0	1	0
 меконг	mecong	1	0	1	0
+каквато	as	0	0	1	0
 площад	square	0	0	1	0
 белтък	protein	0	0	1	0
 успешен	successful	0	0	1	0
@@ -12260,7 +11890,6 @@ $	$	0	0	1	0
 лъчи	rays	0	0	1	0
 лъчи	radiation	0	0	1	0
 възлиза	amounts	0	0	1	0
-възлиза	estimated	0	0	1	0
 имал	had	0	0	1	0
 компоненти	components	0	0	1	0
 майчина	maternal	0	0	1	0
@@ -12285,15 +11914,13 @@ $	$	0	0	1	0
 вътрешните	home	0	0	1	0
 вътрешните	internal	0	0	1	0
 престола	throne	0	0	1	0
-престола	the throne	0	0	1	0
 септ	sept	0	0	1	0
 кози	caprine	0	0	1	0
 кози	goats	0	0	1	0
 след	after	0	0	1	0
 съединените	united	0	0	1	0
 илюминатите	illuminati	0	0	1	0
-подходящ	appropriate	0	0	1	0
-подходящ	suitable	0	0	1	0
+техния	their	0	0	1	0
 откритията	revelations	0	0	1	0
 откритията	discoveries	0	0	1	0
 откритията	findings	0	0	1	0
@@ -12308,6 +11935,8 @@ $	$	0	0	1	0
 възпаление	inflammation	0	0	1	0
 записите	records	0	0	1	0
 бан	ban	0	0	1	0
+бела	bela	0	0	1	0
+бела	bella	0	0	1	0
 остане	remain	0	0	1	0
 остане	stay	0	0	1	0
 експерименти	experiments	0	0	1	0
@@ -12330,7 +11959,6 @@ $	$	0	0	1	0
 р	river	0	0	1	0
 записи	records	0	0	1	0
 записи	manuscripts	0	0	1	0
-потребителите	consumer	0	0	1	0
 потребителите	users	0	0	1	0
 организма	body	0	0	1	0
 организма	organism	0	0	1	0
@@ -12354,7 +11982,6 @@ $	$	0	0	1	0
 бюро	office	0	0	1	0
 майчин	maternal	0	0	1	0
 майчин	native	0	0	1	0
-настояване	insisting	0	0	1	0
 настояване	insistence	0	0	1	0
 няма	no	0	0	1	0
 фиде	vermicelli	0	0	1	0
@@ -12382,10 +12009,8 @@ $	$	0	0	1	0
 бангладеш	bangladesh	0	0	1	0
 валутен	monetary	0	0	1	0
 пауло	paulo	0	0	1	0
-северна	north	0	0	1	0
 северна	northern	0	0	1	0
 лигавицата	mucosal	0	0	1	0
-лигавицата	mucosa	0	0	1	0
 литературната	literary	0	0	1	0
 литературната	literature	0	0	1	0
 северни	northern	0	0	1	0
@@ -12415,7 +12040,6 @@ $	$	0	0	1	0
 съседите	neighbors	0	0	1	0
 съседите	the neighbours	0	0	1	0
 студентски	students	0	0	1	0
-студентски	student	0	0	1	0
 студентски	student's	0	0	1	0
 обявяване	declaration	0	0	1	0
 нейните	its	0	0	1	0
@@ -12424,7 +12048,6 @@ $	$	0	0	1	0
 гореща	hot	0	0	1	0
 списъкът	list	0	0	1	0
 лион	lyon	0	0	1	0
-лион	lion	0	0	1	0
 откритието	the discovery	0	0	1	0
 откритието	discovery	0	0	1	0
 тива	tiva	0	0	1	0
@@ -12446,6 +12069,8 @@ $	$	0	0	1	0
 поддържането	support	0	0	1	0
 поддържането	maintenance	0	0	1	0
 заменен	replaced	0	0	1	0
+площ	area	0	0	1	0
+площ	acreage	0	0	1	0
 църковните	spiritual	0	0	1	0
 църковните	church	0	0	1	0
 огромните	huge	0	0	1	0
@@ -12485,9 +12110,7 @@ $	$	0	0	1	0
 мускул	muscle	0	0	1	0
 наречения	called	0	0	1	0
 хомеопатията	homeopathy	0	0	1	0
-хомеопатията	homophobia	0	0	1	0
 форт	fort	0	0	1	0
-постигнат	reached	0	0	1	0
 постигнат	reach	0	0	1	0
 постигнат	achieve	0	0	1	0
 товарни	freight	0	0	1	0
@@ -12531,13 +12154,11 @@ $	$	0	0	1	0
 гейтс	gates	0	0	1	0
 фолклорен	folklore	0	0	1	0
 европейци	europeans	0	0	1	0
-европейци	european	0	0	1	0
 панама	panama	0	0	1	0
 посланици	ambassadors	0	0	1	0
 пубертета	puberty	0	0	1	0
 симптомите	symptoms	0	0	1	0
 снежна	snow	0	0	1	0
-снежна	snowy	0	0	1	0
 хомеопатични	homeopathic	0	0	1	0
 държавното	state	0	0	1	0
 европий	europe	1	0	1	0
@@ -12546,7 +12167,8 @@ $	$	0	0	1	0
 европий	europium	1	1	0	0
 европий	evropiy	1	0	1	0
 европий	record	1	0	1	0
-техния	their	0	0	1	0
+подходящ	appropriate	0	0	1	0
+подходящ	suitable	0	0	1	0
 дял	given	0	0	1	0
 дял	share	0	0	1	0
 манчестър	manchester	0	0	1	0
@@ -12559,7 +12181,6 @@ $	$	0	0	1	0
 свойствата	the properties	0	0	1	0
 главното	main	0	0	1	0
 паси	feed	0	0	1	0
-паси	pasi	0	0	1	0
 карта	map	0	0	1	0
 нептун	neptune	0	0	1	0
 мача	match	0	0	1	0
@@ -12568,6 +12189,7 @@ $	$	0	0	1	0
 карти	maps	0	0	1	0
 формат	format	0	0	1	0
 установен	established	0	0	1	0
+теодосий	theodosius	0	0	1	0
 сяр	serres	0	0	1	0
 сяр	siar	0	0	1	0
 творчеството	work	0	0	1	0
@@ -12575,7 +12197,6 @@ $	$	0	0	1	0
 нататък	forward	0	0	1	0
 нататък	from then on	0	0	1	0
 портата	gate	0	0	1	0
-портата	the gate	0	0	1	0
 фонд	fund	0	0	1	0
 уравнение	equation	0	0	1	0
 мастодон	liberal	1	0	1	0
@@ -12583,7 +12204,6 @@ $	$	0	0	1	0
 фона	background	0	0	1	0
 протестантите	protestants	0	0	1	0
 организиран	organized	0	0	1	0
-ръката	the hand	0	0	1	0
 ръката	hand	0	0	1	0
 предизвикват	cause	0	0	1	0
 кислород	oxygen	0	0	1	0
@@ -12643,12 +12263,10 @@ $	$	0	0	1	0
 агент	agent	0	0	1	0
 китайска	chinese	0	0	1	0
 метрото	metro	0	0	1	0
-наименование	name	0	0	1	0
 тълкувание	interpretation	0	0	1	0
 активност	activities	0	0	1	0
 активност	activity	0	0	1	0
 надява	hopes	0	0	1	0
-надява	hope	0	0	1	0
 рафаел	raphael	0	0	1	0
 рафаел	rafael	0	0	1	0
 шуменска	shumen	0	0	1	0
@@ -12663,7 +12281,6 @@ $	$	0	0	1	0
 абдикира	abdicate	0	0	1	0
 мнозина	many	0	0	1	0
 класа	range	0	0	1	0
-класа	group	0	0	1	0
 класа	class	0	0	1	0
 разпространяват	spread	0	0	1	0
 каже	say	0	0	1	0
@@ -12706,7 +12323,6 @@ $	$	0	0	1	0
 популярна	popular	0	0	1	0
 германци	germans	0	0	1	0
 славянските	slavic	0	0	1	0
-славянските	slovenian	0	0	1	0
 цвят	color	0	0	1	0
 средиземноморски	mediterranean	0	0	1	0
 поддръжката	maintenance	0	0	1	0
@@ -12715,9 +12331,7 @@ $	$	0	0	1	0
 първите	first	0	0	1	0
 четирима	four	0	0	1	0
 къщите	houses	0	0	1	0
-гръцкият	greek	0	0	1	0
 председателят	president	0	0	1	0
-председателят	the president	0	0	1	0
 председателят	chairman	0	0	1	0
 реда	order	0	0	1	0
 вишну	vishnu	0	0	1	0
@@ -12732,11 +12346,8 @@ $	$	0	0	1	0
 понеделник	monday	0	0	1	0
 образователна	education	0	0	1	0
 образователна	educations	0	0	1	0
-пеят	sing	0	0	1	0
 отражение	reflection	0	0	1	0
 народния	national	0	0	1	0
-народния	people's	0	0	1	0
-диалози	dialogues	0	0	1	0
 насочва	directs	0	0	1	0
 западния	west	0	0	1	0
 западния	western	0	0	1	0
@@ -12786,29 +12397,25 @@ $	$	0	0	1	0
 павлович	pavlovich	0	0	1	0
 местния	local	0	0	1	0
 декларация	declaration	0	0	1	0
-дебютира	debut	0	0	1	0
 станислав	stanislav	0	0	1	0
 общия	total	0	0	1	0
 изобразени	depicted	0	0	1	0
 агенцията	the agency	0	0	1	0
-агенцията	agency	0	0	1	0
 отрасли	sectors	0	0	1	0
 обширна	extensive	0	0	1	0
 че	that	0	0	1	0
 малкият	small	0	0	1	0
 натрупването	accumulation	0	0	1	0
 успоредно	alongside	0	0	1	0
-успоредно	parallel	0	0	1	0
 чл	article	0	0	1	0
 настоящия	this	0	0	1	0
 настоящия	next	0	0	1	0
 огромна	great	0	0	1	0
 анелия	anelia	0	0	1	0
-анелия	aneliya	0	0	1	0
 поширок	wider	0	0	1	0
 калория	calorie	1	1	0	0
 калория	entrance	1	0	1	0
-лугачкови	dipsacaceae	1	1	0	0
+счетоводни	accounting	0	0	1	0
 бъдещите	future	0	0	1	0
 бъдещите	the future	0	0	1	0
 радост	joy	0	0	1	0
@@ -12823,7 +12430,6 @@ $	$	0	0	1	0
 вулканите	volcanoes	0	0	1	0
 найдобра	best	0	0	1	0
 точни	accurate	0	0	1	0
-найдобре	the best	0	0	1	0
 найдобре	most well	0	0	1	0
 найдобре	best	0	0	1	0
 ноември	november	0	0	1	0
@@ -12831,11 +12437,9 @@ $	$	0	0	1	0
 остро	sharply	0	0	1	0
 реал	real	0	0	1	0
 поглъща	absorbs	0	0	1	0
-остри	acute	0	0	1	0
 остри	sharp	0	0	1	0
 съгласно	according to	0	0	1	0
 съгласно	under	0	0	1	0
-планетата	planet	0	0	1	0
 планетата	world	0	0	1	0
 планетата	the planet	0	0	1	0
 остра	acute	0	0	1	0
@@ -12848,7 +12452,6 @@ $	$	0	0	1	0
 найголемият	largest	0	0	1	0
 придвижване	transportation	0	0	1	0
 придвижване	moving	0	0	1	0
-придвижване	movement	0	0	1	0
 бронзови	bronze	0	0	1	0
 склоновете	slopes	0	0	1	0
 искат	want	0	0	1	0
@@ -12857,11 +12460,9 @@ $	$	0	0	1	0
 подложен	subjected	0	0	1	0
 подложен	subject	0	0	1	0
 последни	last	0	0	1	0
-страх	fear	0	0	1	0
 страх	afraid	0	0	1	0
 републиката	the republic	0	0	1	0
 републиката	republic	0	0	1	0
-републиката	republick	0	0	1	0
 данъчен	tax	0	0	1	0
 качество	quality	0	0	1	0
 айнщайн	einstein	0	0	1	0
@@ -12880,8 +12481,7 @@ $	$	0	0	1	0
 тракийската	thracian	0	0	1	0
 тракийската	trakian	0	0	1	0
 кратери	craters	0	0	1	0
-китайски	kataiski	0	0	1	0
-китайски	chinese	0	0	1	0
+вкуса	taste	0	0	1	0
 монах	monk	0	0	1	0
 болшевишката	bolshevik	0	0	1	0
 полуострова	peninsula	0	0	1	0
@@ -12896,7 +12496,6 @@ $	$	0	0	1	0
 произведен	produced	0	0	1	0
 произведен	made	0	0	1	0
 искал	wanted	0	0	1	0
-искал	like	0	0	1	0
 съединението	unification	0	0	1	0
 съединението	compound	0	0	1	0
 станал	become	0	0	1	0
@@ -12953,8 +12552,6 @@ $	$	0	0	1	0
 електрона	electrons	0	0	1	0
 найголямото	biggest	0	0	1	0
 найголямото	the biggest	0	0	1	0
-авиация	aviation	0	0	1	0
-авиация	air	0	0	1	0
 електрони	electrons	0	0	1	0
 африка	africa	0	0	1	0
 поддържат	support	0	0	1	0
@@ -12966,8 +12563,6 @@ $	$	0	0	1	0
 образувани	formed	0	0	1	0
 издигане	elevation	0	0	1	0
 македонци	macedonians	0	0	1	0
-македонци	macedonian	0	0	1	0
-образуване	educatation	0	0	1	0
 образуване	formation	0	0	1	0
 тежките	heavy	0	0	1	0
 образувана	formed	0	0	1	0
@@ -12978,7 +12573,6 @@ $	$	0	0	1	0
 плазма	plasma	0	0	1	0
 пехота	infrantry	0	0	1	0
 пехота	infantry	0	0	1	0
-пехота	marine	0	0	1	0
 военно	military	0	0	1	0
 царската	king	0	0	1	0
 царската	royal	0	0	1	0
@@ -12998,11 +12592,11 @@ $	$	0	0	1	0
 стадионът	stadium	0	0	1	0
 трябвало	had	0	0	1	0
 трябвало	should	0	0	1	0
-всичките	all	0	0	1	0
+картата	the map	0	0	1	0
+картата	map	0	0	1	0
 разпадане	disintegration	0	0	1	0
 важност	importance	0	0	1	0
-съдържание	content	0	0	1	0
-съдържание	ingredients	0	0	1	0
+ангелов	angelov	0	0	1	0
 делфини	dolphines	0	0	1	0
 делфини	dolphins	0	0	1	0
 бъдат	be	0	0	1	0
@@ -13015,8 +12609,8 @@ $	$	0	0	1	0
 прясно	fresh	0	0	1	0
 областите	areas	0	0	1	0
 трудни	difficult	0	0	1	0
-власт	rule	0	0	1	0
 власт	power	0	0	1	0
+власт	rule	0	0	1	0
 разпад	decay	0	0	1	0
 мощи	relics	0	0	1	0
 ген	gene	0	0	1	0
@@ -13031,7 +12625,6 @@ $	$	0	0	1	0
 разделят	divided	0	0	1	0
 грей	grey	0	0	1	0
 грей	grei	0	0	1	0
-грип	flu	0	0	1	0
 лом	lom	0	0	1	0
 изделие	product	0	0	1	0
 купи	buy	0	0	1	0
@@ -13079,7 +12672,6 @@ $	$	0	0	1	0
 географско	geography	0	0	1	0
 лот	lot	0	0	1	0
 лос	los	0	0	1	0
-лос	moose	0	0	1	0
 лос	loos	0	0	1	0
 близък	close	0	0	1	0
 разрушаване	destruction	0	0	1	0
@@ -13111,7 +12703,6 @@ $	$	0	0	1	0
 региона	regions	0	0	1	0
 региона	region	0	0	1	0
 отворено	open	0	0	1	0
-отворено	opened	0	0	1	0
 агрипина	agrippina	0	0	1	0
 регион	region	0	0	1	0
 отворени	open	0	0	1	0
@@ -13132,7 +12723,6 @@ $	$	0	0	1	0
 промени	changes	0	0	1	0
 служба	service	0	0	1	0
 комунизма	communism	0	0	1	0
-комунизма	comunism	0	0	1	0
 делчев	delchev	0	0	1	0
 противник	enemy	0	0	1	0
 противник	opponent	0	0	1	0
@@ -13150,7 +12740,6 @@ $	$	0	0	1	0
 телата	bodies	0	0	1	0
 секретар	secretary	0	0	1	0
 епизод	episode	0	0	1	0
-онова	that	0	0	1	0
 картината	picture	0	0	1	0
 картината	the picture	0	0	1	0
 губи	lost	0	0	1	0
@@ -13192,7 +12781,6 @@ $	$	0	0	1	0
 бойни	martial	0	0	1	0
 бойни	war	0	0	1	0
 тираж	edition	0	0	1	0
-тираж	circulation	0	0	1	0
 извън	outside	0	0	1	0
 извън	out	0	0	1	0
 почва	soil	0	0	1	0
@@ -13260,7 +12848,6 @@ $	$	0	0	1	0
 одрин	odrin	0	0	1	0
 класации	ranking	0	0	1	0
 класации	charts	0	0	1	0
-флот	navy	0	0	1	0
 флот	fleet	0	0	1	0
 води	water	0	0	1	0
 подземен	underground	0	0	1	0
@@ -13273,11 +12860,9 @@ $	$	0	0	1	0
 общност	community	0	0	1	0
 режимът	mode	0	0	1	0
 режимът	regime	0	0	1	0
-напуска	leave	0	0	1	0
 напуска	leaves	0	0	1	0
 купол	dome	0	0	1	0
 изпълнители	performers	0	0	1	0
-изпълнители	contractors	0	0	1	0
 изпълнители	artists	0	0	1	0
 уреди	appliances	0	0	1	0
 уреди	devices	0	0	1	0
@@ -13343,7 +12928,6 @@ $	$	0	0	1	0
 научава	learns	0	0	1	0
 техен	their	0	0	1	0
 кислородът	oxygen	0	0	1	0
-път	path	0	0	1	0
 път	time	0	0	1	0
 екзархия	exarchate	0	0	1	0
 екзархия	exarchte	0	0	1	0
@@ -13368,7 +12952,6 @@ $	$	0	0	1	0
 пък	again	0	0	1	0
 пък	park	0	0	1	0
 живота	life	0	0	1	0
-живота	live	0	0	1	0
 нямат	do not have	0	0	1	0
 нямат	don't have	0	0	1	0
 нямат	no	0	0	1	0
@@ -13409,7 +12992,6 @@ $	$	0	0	1	0
 кралското	royal	0	0	1	0
 устни	spoken	0	0	1	0
 устни	orally	0	0	1	0
-устни	verbal	0	0	1	0
 трафик	traffic	0	0	1	0
 пристанище	harbor	0	0	1	0
 пристанище	port	0	0	1	0
@@ -13442,22 +13024,17 @@ $	$	0	0	1	0
 автономия	autonomy	0	0	1	0
 автономия	authonomy	0	0	1	0
 нос	cape	0	0	1	0
-нос	nous	0	0	1	0
-футбол	soccer	0	0	1	0
 футбол	football	0	0	1	0
 фронта	front	0	0	1	0
 съгласие	agreement	0	0	1	0
 национална	national	0	0	1	0
 национални	national	0	0	1	0
-национални	nationals	0	0	1	0
 свидетелстват	testify	0	0	1	0
 библиотеката	library	0	0	1	0
-библиотеката	the library	0	0	1	0
 скандий	scandium	1	1	0	0
 скандий	group	1	0	1	0
 кьопен	köpi	0	0	1	0
 кьопен	koppen	0	0	1	0
-испанците	spaniards	0	0	1	0
 испанците	spanish	0	0	1	0
 първата	the first	0	0	1	0
 първата	first	0	0	1	0
@@ -13479,12 +13056,11 @@ $	$	0	0	1	0
 летен	summer	0	0	1	0
 толкин	tolkien	0	0	1	0
 ѝ	its	0	0	1	0
-ѝ	her	0	0	1	0
 тропическите	tropical	0	0	1	0
 американските	american	0	0	1	0
 американските	the american	0	0	1	0
 б	b	0	0	1	0
-образованието	education	0	0	1	0
+неправилна	incorrect	0	0	1	0
 сирни	sirni	0	0	1	0
 сирни	maslenitsa	0	0	1	0
 авторитет	authority	0	0	1	0
@@ -13502,7 +13078,6 @@ $	$	0	0	1	0
 нарастване	increase	0	0	1	0
 нарастване	increasing	0	0	1	0
 нарастване	growth	0	0	1	0
-арабски	arabic	0	0	1	0
 арабски	arabian	0	0	1	0
 нахлуването	invasion	0	0	1	0
 нахлуването	the invasion	0	0	1	0
@@ -13518,7 +13093,6 @@ $	$	0	0	1	0
 сан	dignity	0	0	1	0
 сан	title	0	0	1	0
 икономическите	economic	0	0	1	0
-икономическите	the economic	0	0	1	0
 изхвърля	discharged	0	0	1	0
 изхвърля	thrown away	0	0	1	0
 подаръци	presents	0	0	1	0
@@ -13536,9 +13110,7 @@ $	$	0	0	1	0
 япет	iapetus	1	1	0	0
 бърз	fast	0	0	1	0
 краища	ends	0	0	1	0
-краища	parts	0	0	1	0
 вас	you	0	0	1	0
-супер	super	0	0	1	0
 договорите	agreements	0	0	1	0
 договорите	the agreements	0	0	1	0
 количество	quantity	0	0	1	0
@@ -13579,12 +13151,12 @@ $	$	0	0	1	0
 издаде	surrender	0	0	1	0
 издаде	issue	0	0	1	0
 издаде	publish	0	0	1	0
-оформят	shape	0	0	1	0
-оформят	grouned	0	0	1	0
 оформят	form	0	0	1	0
 изпада	falls	0	0	1	0
 изпада	left	0	0	1	0
 православни	orthodox	0	0	1	0
+дебелина	thinkness	0	0	1	0
+дебелина	thickness	0	0	1	0
 гиганти	giants	0	0	1	0
 забранено	forbidden	0	0	1	0
 забранено	prohibited	0	0	1	0
@@ -13599,9 +13171,9 @@ $	$	0	0	1	0
 ядрена	nuclear	0	0	1	0
 научна	science	0	0	1	0
 научна	scientific	0	0	1	0
-загиват	dies	0	0	1	0
-загиват	killed	0	0	1	0
 загиват	die	0	0	1	0
+загиват	killed	0	0	1	0
+загиват	dies	0	0	1	0
 увеличаване	increase	0	0	1	0
 образи	images	0	0	1	0
 образи	types	0	0	1	0
@@ -13609,8 +13181,6 @@ $	$	0	0	1	0
 ръба	edge	0	0	1	0
 туристическите	tourist	0	0	1	0
 втората	second	0	0	1	0
-втората	two	0	0	1	0
-образа	dishonorable	0	0	1	0
 образа	image	0	0	1	0
 влажен	wet	0	0	1	0
 материали	materials	0	0	1	0
@@ -13632,7 +13202,6 @@ $	$	0	0	1	0
 концентрира	concentrate	0	0	1	0
 редом	along	0	0	1	0
 редом	next	0	0	1	0
-любопитен	curious	0	0	1	0
 число	number	0	0	1	0
 сутрин	morning	0	0	1	0
 чието	whose	0	0	1	0
@@ -13644,7 +13213,8 @@ $	$	0	0	1	0
 възрожденски	renaissance	0	0	1	0
 отношението	attitude	0	0	1	0
 отношението	relationship	0	0	1	0
-кръговрат	circle	0	0	1	0
+стигат	go	0	0	1	0
+стигат	reach	0	0	1	0
 рязко	sharply	0	0	1	0
 бие	beat	0	0	1	0
 бил	was	0	0	1	0
@@ -13665,7 +13235,6 @@ $	$	0	0	1	0
 областта	field	0	0	1	0
 областта	municipality	0	0	1	0
 областта	area	0	0	1	0
-през	in the	0	0	1	0
 през	in	0	0	1	0
 пред	before	0	0	1	0
 религиите	religions	0	0	1	0
@@ -13700,8 +13269,8 @@ $	$	0	0	1	0
 моята	my	0	0	1	0
 моята	mine	0	0	1	0
 ражда	born	0	0	1	0
-противопоставя	opposed	0	0	1	0
-противопоставя	opposition	0	0	1	0
+епоха	age	0	0	1	0
+епоха	epoch	0	0	1	0
 антон	anton	0	0	1	0
 градската	urban	0	0	1	0
 градската	city	0	0	1	0
@@ -13723,7 +13292,6 @@ $	$	0	0	1	0
 представляват	are	0	0	1	0
 авторът	author	0	0	1	0
 бенковски	benkovski	0	0	1	0
-полов	genital	0	0	1	0
 полов	sexual	0	0	1	0
 мит	myth	0	0	1	0
 износа	exports	0	0	1	0
@@ -13784,7 +13352,6 @@ $	$	0	0	1	0
 робството	slavery	0	0	1	0
 находища	deposits	0	0	1	0
 обект	object	0	0	1	0
-обект	subject	0	0	1	0
 съставки	ingredients	0	0	1	0
 социалното	social	0	0	1	0
 афродита	aphrodite	0	0	1	0
@@ -13818,14 +13385,12 @@ $	$	0	0	1	0
 липсата	the lack	0	0	1	0
 липсата	lack	0	0	1	0
 повишава	increases	0	0	1	0
-делфините	dolphin	0	0	1	0
 делфините	the dolphins	0	0	1	0
 делфините	dolphins	0	0	1	0
 тома	volumes	0	0	1	0
 росток	rostock	1	1	0	0
 сключването	cotract	0	0	1	0
 сключването	conclusion	0	0	1	0
-сключването	contraction	0	0	1	0
 стефани	stephenie	0	0	1	0
 стефани	stephanie	0	0	1	0
 стефани	stephany (name)	0	0	1	0
@@ -13864,14 +13429,12 @@ $	$	0	0	1	0
 окръжен	county	0	0	1	0
 индустриалната	industrial	0	0	1	0
 волфганг	wolfgang	0	0	1	0
-волфганг	wolvgang	0	0	1	0
 старите	old	0	0	1	0
-условие	prerequisite	0	0	1	0
-условие	condition	0	0	1	0
 условие	demise	0	0	1	0
+условие	condition	0	0	1	0
+условие	prerequisite	0	0	1	0
 завземат	conquer	0	0	1	0
 завземат	invade	0	0	1	0
-завземат	retaking	0	0	1	0
 патриарх	patriarch	0	0	1	0
 племе	tribe	0	0	1	0
 коня	horse	0	0	1	0
@@ -13954,7 +13517,6 @@ $	$	0	0	1	0
 неметал	nonmetal	1	1	0	0
 изчисления	calculations	0	0	1	0
 поне	at least	0	0	1	0
-поне	not so	0	0	1	0
 четири	four	0	0	1	0
 вещества	substances	0	0	1	0
 й	hers	0	0	1	0
@@ -13975,29 +13537,26 @@ $	$	0	0	1	0
 века	centuries	0	0	1	0
 своите	their	0	0	1	0
 своите	its	0	0	1	0
+лугачкови	dipsacaceae	1	1	0	0
 сплави	alloys	0	0	1	0
 разговор	conversation	0	0	1	0
 портите	gates	0	0	1	0
-съставят	compile	0	0	1	0
 съставят	draw	0	0	1	0
 съставят	compose	0	0	1	0
 дъга	tribine	0	0	1	0
 дъга	curve	0	0	1	0
-статистически	statistic	0	0	1	0
 дпс	dps	0	0	1	0
 завръщането	return	0	0	1	0
 рус	rus	0	0	1	0
 рус	blonde	0	0	1	0
 лъвове	lions	0	0	1	0
 автора	author	0	0	1	0
-държавите	states	0	0	1	0
 държавите	countries	0	0	1	0
 отначало	beginning	0	0	1	0
 отначало	from the beginning	0	0	1	0
 отначало	all over again	0	0	1	0
 скоро	soon	0	0	1	0
 прилича	looks like	0	0	1	0
-прилича	similar	0	0	1	0
 прилича	resembles	0	0	1	0
 император	emperor	0	0	1	0
 конкретни	specific	0	0	1	0
@@ -14005,13 +13564,11 @@ $	$	0	0	1	0
 конкретни	exact	0	0	1	0
 романът	the novel	0	0	1	0
 романът	novel	0	0	1	0
-площта	area	0	0	1	0
 унищожен	destroyed	0	0	1	0
 португалия	portugal	0	0	1	0
 търговец	merchant	0	0	1	0
 техники	technics	0	0	1	0
 техники	techniques	0	0	1	0
-пътувания	travels	0	0	1	0
 пътувания	trips	0	0	1	0
 техника	technology	0	0	1	0
 безплатно	free	0	0	1	0
@@ -14059,7 +13616,6 @@ $	$	0	0	1	0
 холандски	dutch	0	0	1	0
 бедна	poor	0	0	1	0
 отказват	refuse	0	0	1	0
-отказват	denied	0	0	1	0
 родния	home	0	0	1	0
 родния	birth	0	0	1	0
 родния	native	0	0	1	0
@@ -14067,7 +13623,6 @@ $	$	0	0	1	0
 точно	exactly	0	0	1	0
 точно	just	0	0	1	0
 тропични	tropical	0	0	1	0
-тропични	tropics	0	0	1	0
 появяват	appear	0	0	1	0
 смъртни	death	0	0	1	0
 смъртни	mortal	0	0	1	0
@@ -14077,7 +13632,6 @@ $	$	0	0	1	0
 нил	nil	0	0	1	0
 ние	we	0	0	1	0
 считан	read	0	0	1	0
-считан	considered	0	0	1	0
 долен	lower	0	0	1	0
 стамболийски	stamboliiski (name)	0	0	1	0
 стамболийски	stambolijski	0	0	1	0
@@ -14163,7 +13717,6 @@ $	$	0	0	1	0
 писма	letters	0	0	1	0
 замърсяването	pollution	0	0	1	0
 писмо	letter	0	0	1	0
-днешния	today's	0	0	1	0
 днешния	today	0	0	1	0
 сексуални	sexual	0	0	1	0
 въздух	air	0	0	1	0
@@ -14229,7 +13782,6 @@ $	$	0	0	1	0
 скопие	skopje	0	0	1	0
 скопие	city of skopje	0	0	1	0
 изнася	exports	0	0	1	0
-изнася	is	0	0	1	0
 венецуела	venezuela	0	0	1	0
 оръжието	weapon	0	0	1	0
 богата	rich	0	0	1	0
@@ -14254,7 +13806,6 @@ $	$	0	0	1	0
 сложен	complicated	0	0	1	0
 съща	same	0	0	1	0
 клипа	video	0	0	1	0
-юстиниан	justinian	0	0	1	0
 юстиниан	iustian	0	0	1	0
 статуи	statues	0	0	1	0
 строителна	construction	0	0	1	0
@@ -14286,8 +13837,7 @@ $	$	0	0	1	0
 основание	ground	0	0	1	0
 творба	work	0	0	1	0
 творба	creation	0	0	1	0
-стремят	seek	0	0	1	0
-стремят	strive	0	0	1	0
+съдържащ	containing	0	0	1	0
 постигат	achieve	0	0	1	0
 черен	black	0	0	1	0
 луи	louis	0	0	1	0
@@ -14340,7 +13890,6 @@ $	$	0	0	1	0
 забелязва	notices	0	0	1	0
 забелязва	notice	0	0	1	0
 воини	soldiers	0	0	1	0
-воини	warriors	0	0	1	0
 хасково	haskovo	0	0	1	0
 авторитета	authority	0	0	1	0
 лудвиг	ludvig	0	0	1	0
@@ -14369,7 +13918,6 @@ $	$	0	0	1	0
 стопанство	agriculture	0	0	1	0
 стопанство	economy	0	0	1	0
 лъв	lion	0	0	1	0
-лъв	leo	0	0	1	0
 северозападните	northwest	0	0	1	0
 основното	main	0	0	1	0
 основното	primary	0	0	1	0
@@ -14382,8 +13930,6 @@ $	$	0	0	1	0
 монетите	the coins	0	0	1	0
 монетите	coins	0	0	1	0
 въобще	at all	0	0	1	0
-въобще	in general	0	0	1	0
-брега	shore	0	0	1	0
 брега	coast	0	0	1	0
 изборът	choice	0	0	1	0
 омъжена	married	0	0	1	0
@@ -14393,6 +13939,8 @@ $	$	0	0	1	0
 музикален	music	0	0	1	0
 музикален	musical	0	0	1	0
 пърпъл	purple	0	0	1	0
+забележителни	notable	0	0	1	0
+забележителни	remarkable	0	0	1	0
 кола	car	0	0	1	0
 кола	cola	0	0	1	0
 опълчение	army of volunteers	0	0	1	0
@@ -14414,8 +13962,9 @@ $	$	0	0	1	0
 свойства	properties	0	0	1	0
 атлетика	athletics	0	0	1	0
 найважната	most mportant	0	0	1	0
-справят	manage	0	0	1	0
 справят	deal	0	0	1	0
+действат	function	0	0	1	0
+действат	operate	0	0	1	0
 творбите	work	0	0	1	0
 творбите	works	0	0	1	0
 отрова	poison	0	0	1	0
@@ -14462,7 +14011,6 @@ $	$	0	0	1	0
 гъсто	gastaut	0	0	1	0
 гъсто	dense	0	0	1	0
 шотландия	scotland	0	0	1	0
-отделя	separated	0	0	1	0
 отделя	allocate	0	0	1	0
 отделя	separate	0	0	1	0
 тази	this	0	0	1	0
@@ -14497,7 +14045,6 @@ $	$	0	0	1	0
 планинската	mountain	0	0	1	0
 планинската	mountainous	0	0	1	0
 уики	wiki	0	0	1	0
-престол	throne	0	0	1	0
 престол	see	0	0	1	0
 престой	stay	0	0	1	0
 валкирии	adults	1	0	1	0
@@ -14510,7 +14057,6 @@ $	$	0	0	1	0
 квалификациите	qualifications	0	0	1	0
 квалификациите	the qualifications	0	0	1	0
 следните	following	0	0	1	0
-следните	the following	0	0	1	0
 следните	next	0	0	1	0
 скален	rock	0	0	1	0
 оцелелите	survivors	0	0	1	0
@@ -14562,7 +14108,7 @@ $	$	0	0	1	0
 допринасят	contribute	0	0	1	0
 василевс	basileus	1	1	0	0
 изход	exit	0	0	1	0
-плодородието	fertility	0	0	1	0
+дейността	activity	0	0	1	0
 наблюдение	monitoring	0	0	1	0
 наблюдение	observation	0	0	1	0
 малката	small	0	0	1	0
@@ -14577,7 +14123,6 @@ $	$	0	0	1	0
 белоградчик	belogradchik	0	0	1	0
 крило	wing	0	0	1	0
 вторият	second	0	0	1	0
-евреите	the jews	0	0	1	0
 евреите	jews	0	0	1	0
 настоящ	urged	0	0	1	0
 настоящ	present	0	0	1	0
@@ -14604,7 +14149,6 @@ $	$	0	0	1	0
 осъм	osam river	0	0	1	0
 готика	gothic	0	0	1	0
 сокол	falcon	0	0	1	0
-сокол	hawk	0	0	1	0
 алексей	alexei	0	0	1	0
 елисавета	elizabeth	1	1	0	0
 паралелно	in parallel	0	0	1	0
@@ -14642,7 +14186,6 @@ $	$	0	0	1	0
 участниците	participants	0	0	1	0
 участниците	participant	0	0	1	0
 глагол	verb	0	0	1	0
-глагол	glagol	0	0	1	0
 осман	ottoman	0	0	1	0
 електрическите	electrical	0	0	1	0
 електрическите	electric	0	0	1	0
@@ -14688,7 +14231,6 @@ $	$	0	0	1	0
 трева	grass	0	0	1	0
 християнска	christian	0	0	1	0
 хартия	paper	0	0	1	0
-оръжия	weapons	0	0	1	0
 оръжия	weaponry	0	0	1	0
 християни	christians	0	0	1	0
 уста	mouth	0	0	1	0
@@ -14727,10 +14269,8 @@ $	$	0	0	1	0
 никой	no	0	0	1	0
 разрешение	resolution	0	0	1	0
 разрешение	permission	0	0	1	0
-малкото	the few	0	0	1	0
 малкото	few	0	0	1	0
 малкото	little	0	0	1	0
-малкото	the small	0	0	1	0
 външни	external	0	0	1	0
 тълпа	criwd	1	0	1	0
 тълпа	principle	1	0	1	0
@@ -14738,7 +14278,6 @@ $	$	0	0	1	0
 тълпа	tylpa	1	0	1	0
 външно	foreign	0	0	1	0
 хиляда	thousand	0	0	1	0
-съгласява	agree	0	0	1	0
 съгласява	agrees	0	0	1	0
 йовков	yovkov	0	0	1	0
 добавят	add	0	0	1	0
@@ -14759,9 +14298,8 @@ $	$	0	0	1	0
 младост	youth	0	0	1	0
 младост	adolescence	0	0	1	0
 медна	copper	0	0	1	0
-добре	good	0	0	1	0
-добре	well	0	0	1	0
 добре	welcome	0	0	1	0
+добре	well	0	0	1	0
 традиции	traditions	0	0	1	0
 преводи	translation	0	0	1	0
 преводи	translations	0	0	1	0
@@ -14802,7 +14340,6 @@ $	$	0	0	1	0
 никаква	none	0	0	1	0
 никаква	any	0	0	1	0
 никаква	no	0	0	1	0
-отделят	department	0	0	1	0
 отделят	seperate	0	0	1	0
 отделят	spend	0	0	1	0
 никакви	no	0	0	1	0
@@ -14846,7 +14383,6 @@ $	$	0	0	1	0
 създаване	creation	0	0	1	0
 перперикон	perperikon	0	0	1	0
 баба	grandmother	0	0	1	0
-баба	grandma	0	0	1	0
 еукариотите	eukaryotes	0	0	1	0
 еукариотите	eucariotes	0	0	1	0
 веществата	substances	0	0	1	0
@@ -14899,7 +14435,6 @@ $	$	0	0	1	0
 предпазване	protection	0	0	1	0
 могили	mounds	0	0	1	0
 изключение	exception	0	0	1	0
-изключение	left	0	0	1	0
 азбуката	alphabet	0	0	1	0
 арменската	armenian	0	0	1	0
 врати	doors	0	0	1	0
@@ -14915,9 +14450,6 @@ $	$	0	0	1	0
 имигранти	imigrants	0	0	1	0
 титларожденопри	title at birth	0	0	1	0
 титларожденопри	surname	0	0	1	0
-разбира	considered	0	0	1	0
-разбира	understood	0	0	1	0
-разбира	understand	0	0	1	0
 изключения	exceptions	0	0	1	0
 ръка	hand	0	0	1	0
 димчо	dimcho	0	0	1	0
@@ -14930,7 +14462,6 @@ $	$	0	0	1	0
 сграда	building	0	0	1	0
 детство	childhood	0	0	1	0
 постоянна	permanent	0	0	1	0
-постоянна	constant	0	0	1	0
 прне	b.c.	0	0	1	0
 прне	laundry	0	0	1	0
 концерта	concert	0	0	1	0
@@ -14968,7 +14499,6 @@ $	$	0	0	1	0
 съдба	fate	0	0	1	0
 клетъчната	cellular	0	0	1	0
 земни	earth	0	0	1	0
-земни	earth's	0	0	1	0
 предистория	prehistory	0	0	1	0
 джейсън	jason	0	0	1	0
 навсякъде	everywhere	0	0	1	0
@@ -14982,7 +14512,6 @@ $	$	0	0	1	0
 сигнали	signals	0	0	1	0
 цената	price	0	0	1	0
 сдобива	gains	0	0	1	0
-бизнеса	the business	0	0	1	0
 бизнеса	business	0	0	1	0
 читалища	community centers	0	0	1	0
 читалища	reading places	0	0	1	0
@@ -15033,8 +14562,6 @@ $	$	0	0	1	0
 покъсно	later	0	0	1	0
 малайзия	malaysia	0	0	1	0
 малайзия	asia minor	0	0	1	0
-район	region	0	0	1	0
-район	area	0	0	1	0
 момчетата	boys	0	0	1	0
 момчетата	the boys	0	0	1	0
 обратна	opposite	0	0	1	0
@@ -15073,11 +14600,9 @@ $	$	0	0	1	0
 язовир	dam	0	0	1	0
 наука	science	0	0	1	0
 структури	structures	0	0	1	0
-неофит	neofit	0	0	1	0
-неофит	neophyte	0	0	1	0
+месия	messiah	0	0	1	0
 интернет	internet	0	0	1	0
 бразда	groove	0	0	1	0
-бразда	furrow	0	0	1	0
 горното	above	0	0	1	0
 структура	structure	0	0	1	0
 вторични	second	0	0	1	0
@@ -15137,7 +14662,6 @@ $	$	0	0	1	0
 разтворими	soluble	0	0	1	0
 простират	stretch	0	0	1	0
 огъня	fire	0	0	1	0
-огъня	the fire	0	0	1	0
 аспарухов	asparuhov	0	0	1	0
 регионът	region	0	0	1	0
 правото	the right	0	0	1	0
@@ -15167,8 +14691,6 @@ $	$	0	0	1	0
 необходимостта	necessity	0	0	1	0
 настъпва	occurs	0	0	1	0
 наса	nasa	0	0	1	0
-спадат	include	0	0	1	0
-спадат	fall	0	0	1	0
 индианците	indians	0	0	1	0
 затова	therefore	0	0	1	0
 тоше	tose	0	0	1	0
@@ -15176,8 +14698,6 @@ $	$	0	0	1	0
 нанси	music	1	0	1	0
 нанси	nancy	1	1	0	0
 влизане	entry	0	0	1	0
-влизане	entrance	0	0	1	0
-служи	serve	0	0	1	0
 служи	serves	0	0	1	0
 наблюдател	observer	0	0	1	0
 машини	machines	0	0	1	0
@@ -15202,8 +14722,7 @@ $	$	0	0	1	0
 трагедията	tragedy	0	0	1	0
 трагедията	tradegy	0	0	1	0
 население	population	0	0	1	0
-площ	area	0	0	1	0
-площ	acreage	0	0	1	0
+онова	that	0	0	1	0
 военен	military	0	0	1	0
 бургас	burgas	0	0	1	0
 ерик	eric	0	0	1	0
@@ -15251,7 +14770,6 @@ $	$	0	0	1	0
 османската	ottoman	0	0	1	0
 успее	succeed	0	0	1	0
 плод	product	0	0	1	0
-плод	fruit	0	0	1	0
 обикаля	walk round	0	0	1	0
 обикаля	around	0	0	1	0
 египет	egypt	0	0	1	0
@@ -15273,6 +14791,7 @@ $	$	0	0	1	0
 бях	been	0	0	1	0
 сблъсък	collision	0	0	1	0
 андреев	andreev	0	0	1	0
+епархия	eparchy	0	0	1	0
 пореден	serial	0	0	1	0
 пореден	in row	0	0	1	0
 еминем	eminem	0	0	1	0
@@ -15320,7 +14839,6 @@ $	$	0	0	1	0
 бял	white	0	0	1	0
 взаимоотношения	relationships	0	0	1	0
 взаимоотношения	relations	0	0	1	0
-взаимоотношения	relationship	0	0	1	0
 сключват	forge	0	0	1	0
 сключват	conclude	0	0	1	0
 топлината	heat	0	0	1	0
@@ -15342,7 +14860,6 @@ $	$	0	0	1	0
 останат	remain	0	0	1	0
 революционни	revolutionary	0	0	1	0
 генераллейтенант	lieutenant general	0	0	1	0
-генераллейтенант	lieutenant-general	0	0	1	0
 лов	hunt	0	0	1	0
 лов	hunting	0	0	1	0
 сочи	sochi	0	0	1	0
@@ -15359,7 +14876,6 @@ $	$	0	0	1	0
 ламбда	contribution	1	0	1	0
 ламбда	lambada	1	0	1	0
 ламбда	lambda	1	1	0	0
-найстарото	oldest	0	0	1	0
 найстарото	the oldest	0	0	1	0
 временни	temporary	0	0	1	0
 временни	time	0	0	1	0
@@ -15371,7 +14887,6 @@ $	$	0	0	1	0
 временно	temporary	0	0	1	0
 арабския	arab	0	0	1	0
 арабския	arabic	0	0	1	0
-арабския	the arabian	0	0	1	0
 обмяната	exchange	0	0	1	0
 нещо	something	0	0	1	0
 неща	things	0	0	1	0
@@ -15386,7 +14901,7 @@ $	$	0	0	1	0
 депутати	members of parliament	0	0	1	0
 депутати	deputies	0	0	1	0
 депутати	mps	0	0	1	0
-неправилна	incorrect	0	0	1	0
+образованието	education	0	0	1	0
 войници	soldiers	0	0	1	0
 неправилно	incorrectly	0	0	1	0
 договор	agreement	0	0	1	0
@@ -15397,7 +14912,6 @@ $	$	0	0	1	0
 тъканите	the tissues	0	0	1	0
 православна	ortodox	0	0	1	0
 учебни	school	0	0	1	0
-учебни	scholar	0	0	1	0
 учебни	educational	0	0	1	0
 бали	bales	0	0	1	0
 бали	bali	0	0	1	0
@@ -15405,7 +14919,6 @@ $	$	0	0	1	0
 заговор	suspicion	0	0	1	0
 жк	jk	0	0	1	0
 персийският	persian	0	0	1	0
-притежава	own	0	0	1	0
 притежава	has	0	0	1	0
 притежава	includes	0	0	1	0
 жп	railway	0	0	1	0
@@ -15419,7 +14932,6 @@ $	$	0	0	1	0
 научни	science	0	0	1	0
 научни	scientific	0	0	1	0
 научни	research	0	0	1	0
-буквата	the letter	0	0	1	0
 буквата	letter	0	0	1	0
 научно	science	0	0	1	0
 научно	scientific	0	0	1	0
@@ -15515,7 +15027,8 @@ $	$	0	0	1	0
 музеи	museums	0	0	1	0
 музей	museum	0	0	1	0
 зависят	depend	0	0	1	0
-съдържащ	containing	0	0	1	0
+стремят	seek	0	0	1	0
+стремят	strive	0	0	1	0
 шива	said	1	0	1	0
 шива	shiva	1	1	0	0
 шива	spoke	1	0	1	0
@@ -15530,7 +15043,6 @@ $	$	0	0	1	0
 издават	are issued	0	0	1	0
 издават	issue	0	0	1	0
 свързване	connection	0	0	1	0
-излъчването	broadcasting	0	0	1	0
 излъчването	radiation	0	0	1	0
 излъчването	emission	0	0	1	0
 възрастни	adults	0	0	1	0
@@ -15558,8 +15070,8 @@ $	$	0	0	1	0
 саркофаг	sarcophagus	1	1	0	0
 саркофаг	sarcofagus	1	1	0	0
 саркофаг	was increased	1	0	1	0
-чист	pure	0	0	1	0
 чист	clean	0	0	1	0
+чист	pure	0	0	1	0
 станала	become	0	0	1	0
 художествената	art	0	0	1	0
 художествената	fiction	0	0	1	0
@@ -15623,12 +15135,12 @@ $	$	0	0	1	0
 разрастване	development	0	0	1	0
 човешкото	human	0	0	1	0
 идват	come	0	0	1	0
-състезатели	racing	0	0	1	0
 състезатели	athletes	0	0	1	0
+състезатели	racing	0	0	1	0
 бригада	brigade	0	0	1	0
 тракия		1	0	1	0
 тракия	trakia	1	0	1	0
-тракия	thrace	1	1	1	0
+тракия	thrace	1	1	0	0
 тракия	trace	1	1	0	0
 тракия	this	1	0	1	0
 тракия	given	1	0	1	0
@@ -15643,8 +15155,8 @@ $	$	0	0	1	0
 котловини	valleys	0	0	1	0
 заговора	plot	0	0	1	0
 заговора	conspiracy	0	0	1	0
-заговора	the conspiracy	0	0	1	0
-спартак	spartacus	0	0	1	0
+разбира	understood	0	0	1	0
+разбира	understand	0	0	1	0
 парче	piece	0	0	1	0
 парче	piece of	0	0	1	0
 префектура	prefecture	0	0	1	0
@@ -15666,7 +15178,6 @@ $	$	0	0	1	0
 свищов	svishtov	0	0	1	0
 петров	petrov	0	0	1	0
 международната	international	0	0	1	0
-международната	the international	0	0	1	0
 международната	iinternational	0	0	1	0
 матрица	matrix	1	1	0	0
 матрица	resources	1	0	1	0
@@ -15700,14 +15211,12 @@ $	$	0	0	1	0
 наличие	existence	0	0	1	0
 наличие	presence	0	0	1	0
 елемента	elements	0	0	1	0
-елемента	element	0	0	1	0
 източни	east	0	0	1	0
 източни	eastern	0	0	1	0
 предварително	pre-	0	0	1	0
 предварително	pre-nagotations	0	0	1	0
 предварително	preliminary	0	0	1	0
 останалото	rest	0	0	1	0
-останалото	the rest of	0	0	1	0
 търговията	the trade	0	0	1	0
 търговията	trade	0	0	1	0
 лезии	lesions	0	0	1	0
@@ -15757,7 +15266,6 @@ $	$	0	0	1	0
 отдолу	underneath	0	0	1	0
 отдолу	below	0	0	1	0
 син	son	0	0	1	0
-сътрудничеството	collaboration	0	0	1	0
 сътрудничеството	cooperation	0	0	1	0
 диоклециан	diocletian	0	0	1	0
 тримата	three	0	0	1	0

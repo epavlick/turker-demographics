@@ -5,7 +5,6 @@ siguradong	for sure	0	0	1	0
 siguradong	surely	0	0	1	0
 kahusayan	skills	0	0	1	0
 kahusayan	good	0	0	1	0
-kahusayan	talent	0	0	1	0
 pagbabago	changes	0	0	1	0
 buwang	months	0	0	1	0
 buwang	month	0	0	1	0
@@ -54,6 +53,8 @@ karapatdapat	deserve	0	0	1	0
 karapatdapat	deserving	0	0	1	1
 karapatdapat	rightful	0	0	1	0
 protestante	protestant	0	0	1	1
+komisyoner	commissioner	0	0	1	0
+komisyoner	comissioner	0	0	1	0
 mamangka	sail	0	0	1	0
 mamangka	set sail	0	0	1	0
 suliraning	problem	0	0	1	0
@@ -91,7 +92,6 @@ romanong	roma	0	0	1	0
 sinasaktan	hurting	0	0	1	0
 sinasaktan	hurt	0	0	1	0
 kublai	name of a person	0	0	1	0
-kublai	kublai	0	0	1	0
 holocaust	holocaust	0	0	1	0
 teritoryo	territory	0	0	1	0
 pagkit	beeswax	1	0	1	1
@@ -102,11 +102,8 @@ isotopo	isotop	1	0	1	0
 isotopo	cities	1	0	1	0
 isotopo	isotope	1	1	0	0
 bariasyon	variation	0	0	1	0
-magandang	beautiful	0	0	1	0
-magandang	good	0	0	1	0
 posisyong	position	0	0	1	0
 hanap	search	0	0	1	1
-hanap	looking for	0	0	1	0
 hanap	find	0	0	1	0
 madali	fast	0	0	1	1
 madali	easy	0	0	1	1
@@ -185,7 +182,6 @@ hamak	humble	0	0	1	1
 hamak	mere	0	0	1	0
 gobernadorheneral	governor-general	0	0	1	0
 magkahalong	mixed	0	0	1	0
-magkahalong	mix	0	0	1	0
 magkahalong	combined	0	0	1	0
 hiwalay	separated	0	0	1	0
 hiwalay	separate	0	0	1	1
@@ -207,7 +203,6 @@ makipagusap	talk	0	0	1	0
 von	von	0	0	1	0
 pinagsama	mix or combine	0	0	1	0
 pinagsama	joined	0	0	1	0
-pinagsama	combined	0	0	1	0
 segmento	segment	0	0	1	0
 yahoo	yahoo!	0	0	1	0
 pagsunog	burn	0	0	1	0
@@ -281,15 +276,13 @@ makasama	to be	0	0	1	0
 makasama	accompany	0	0	1	0
 makasama	to be able to go with	0	0	1	0
 seda	silk	0	0	1	1
-labas	outside	0	0	1	1
-matutuhan	amused	0	0	1	0
+italy	italy	0	0	1	0
 matutuhan	to learn	0	0	1	0
 matutuhan	learn	0	0	1	1
 pampulitika	political	0	0	1	0
 siberia	siberia	0	0	1	0
 kusang	voluntarily	0	0	1	0
 kusang	initiated	0	0	1	0
-pagmamalabis	abusive	0	0	1	0
 pagmamalabis	abuse	0	0	1	1
 pagmamalabis	exaggeration	0	0	1	1
 isinunod	after	0	0	1	0
@@ -304,7 +297,6 @@ darating	this coming	0	0	1	0
 darating	coming	0	0	1	1
 democratic	democratic	0	0	1	0
 prusisyon	procession	0	0	1	1
-wind	wind	0	0	1	0
 pagbangon	arousal	0	0	1	0
 pagbangon	rise	0	0	1	0
 pagbangon	recover	0	0	1	0
@@ -353,15 +345,14 @@ napapunta	go	0	0	1	0
 napapunta	went to	0	0	1	0
 napapunta	goes	0	0	1	0
 bauan	bauan	0	0	1	0
-off	off	0	0	1	0
 butuan	butuan province	0	0	1	0
 butuan	butuan	0	0	1	0
 pakiramdam	feeling	0	0	1	1
 panandaliang	temporary	0	0	1	0
 panandaliang	temporarily	0	0	1	0
 panandaliang	abrupt	0	0	1	0
-nagtala	listed	0	0	1	0
-nagtala	posted	0	0	1	0
+sumusuri	analyze	0	0	1	0
+sumusuri	examines	0	0	1	0
 tibucio	tibucio	0	0	1	0
 balkonahe	balcony	0	0	1	1
 kasikatan	fame	0	0	1	0
@@ -374,16 +365,12 @@ allan	allan	0	0	1	0
 isyu	issue	0	0	1	1
 kamalian	wrong	0	0	1	1
 kamalian	error	0	0	1	1
-kamalian	mistake	0	0	1	1
-kabanalan	divine	0	0	1	0
 kabanalan	holiness	0	0	1	0
-lumipas	came pass	0	0	1	0
 lumipas	pass by	0	0	1	0
 lumipas	pass	0	0	1	0
 truman	truman	0	0	1	0
 lumipat	transfered	0	0	1	0
 lumipat	transferred	0	0	1	0
-lumipat	exchanged place	0	0	1	0
 malusog	healthy	0	0	1	1
 birheng	virgin	0	0	1	0
 taon	year	0	0	1	1
@@ -422,7 +409,6 @@ salaysay	speech	1	1	0	0
 salaysay	statement	1	1	0	0
 salaysay	narration	1	0	1	1
 salaysay	prose	1	0	1	0
-ata	maybe	0	0	1	0
 ata	might	0	0	1	0
 ata	aeta	0	0	1	0
 ato	(correct word: at/o) and/or	0	0	1	0
@@ -473,7 +459,6 @@ makikitang	see	0	0	1	0
 makikitang	shown to be	0	0	1	0
 makikitang	will see	0	0	1	0
 tagaraw	summer	0	0	1	0
-tagaraw	sunny day	0	0	1	0
 inampon	adopted	0	0	1	0
 kabutihang	good	0	0	1	0
 kabutihang	goodness	0	0	1	0
@@ -508,10 +493,8 @@ maiikling	short	0	0	1	0
 hentai	hentai	0	0	1	0
 kayo	you	0	0	1	1
 cesar	cesar	0	0	1	0
-tauhan	personnel	0	0	1	1
 tauhan	cast	0	0	1	0
-tauhan	character	0	0	1	1
-tauhan	men serving	0	0	1	0
+tauhan	personnel	0	0	1	1
 ibinase	based	0	0	1	0
 hukbong	platoon	0	0	1	0
 hukbong	army	0	0	1	0
@@ -565,7 +548,6 @@ dituwirang	indirectly	0	0	1	0
 dituwirang	not directing	0	0	1	0
 lalunglalo	most especially	0	0	1	0
 lalunglalo	especially	0	0	1	0
-lalunglalo	more	0	0	1	0
 camp	camp	0	0	1	0
 tekstong	text	0	0	1	0
 rabaw	surface	0	0	1	0
@@ -579,7 +561,6 @@ natamasa	got or recieved	0	0	1	0
 natamasa	experience	0	0	1	0
 natamasa	achieve	0	0	1	0
 natamasa	reaped	0	0	1	0
-makata	ingenious	0	0	1	0
 makata	poet	0	0	1	1
 kaunaunahang	first	0	0	1	0
 kaunaunahang	very first	0	0	1	0
@@ -636,13 +617,12 @@ nakatakdang	set to	0	0	1	0
 partidong	party	0	0	1	0
 pangkasalukuyan	currently	0	0	1	0
 pangkasalukuyan	present	0	0	1	1
-nagtago	hid	0	0	1	1
 nagtago	hide	0	0	1	0
+nagtago	hid	0	0	1	1
 paghihintay	to wait	0	0	1	0
 paghihintay	waiting	0	0	1	0
 paghihintay	wait	0	0	1	0
 kasawian	loss	0	0	1	0
-kasawian	fatality	0	0	1	0
 kasawian	failure	0	0	1	0
 nakakakilala	known	0	0	1	0
 nakakakilala	know	0	0	1	0
@@ -702,7 +682,6 @@ magkakaibigan	friendship	0	0	1	0
 laman	inside	0	0	1	0
 laman	filled	0	0	1	0
 kumita	earn	0	0	1	1
-kumita	to profit	0	0	1	0
 kumita	earned	0	0	1	0
 daungan	port	0	0	1	1
 edgar	edgar	0	0	1	0
@@ -730,7 +709,6 @@ panahon	climate	0	0	1	1
 panahon	weather	0	0	1	1
 niyo	you	0	0	1	0
 niyo	your	0	0	1	0
-niyo	yours	0	0	1	0
 ana	ana	0	0	1	0
 sinisi	blame	0	0	1	0
 sinisi	blamed	0	0	1	0
@@ -785,7 +763,7 @@ nabuwal	fell	0	0	1	0
 sigarilyo	cigarette	0	0	1	1
 oman	oman	0	0	1	0
 ternate	ternate	0	0	1	0
-nagdarasal	praying	0	0	1	0
+milagros	milagros	0	0	1	0
 pakikipagkalakalan	commerce	0	0	1	0
 pakikipagkalakalan	trading	0	0	1	0
 pakikipagkalakalan	trade	0	0	1	0
@@ -851,7 +829,6 @@ hitsura	look	0	0	1	1
 hitsura	face	0	0	1	0
 dinagdagan	added	0	0	1	0
 dinagdagan	increased	0	0	1	0
-beses	how many times	0	0	1	0
 beses	number of times; frequency	0	0	1	0
 beses	times	0	0	1	1
 pildoras	pills	0	0	1	0
@@ -862,7 +839,6 @@ nangangamba	fearful	0	0	1	0
 nangangamba	worry	0	0	1	0
 nangangamba	worried	0	0	1	0
 trono	throne	0	0	1	1
-trono	trone	0	0	1	0
 larangang	career	0	0	1	0
 larangang	science	0	0	1	0
 larangang	specialization	0	0	1	0
@@ -991,7 +967,6 @@ ahedres	accepted	1	0	1	0
 ahedres	chess	1	1	0	0
 ahedres	recognition	1	0	1	0
 pagsasaayos	sorted	0	0	1	0
-pagsasaayos	to fix	0	0	1	0
 pagsasaayos	arrangement	0	0	1	1
 marshall	marshall	0	0	1	0
 umano	supposedly	0	0	1	0
@@ -1052,8 +1027,8 @@ nagpapawis	sweating	0	0	1	0
 nagpapawis	sweat	0	0	1	0
 mayoriya	majority	0	0	1	0
 mayoriya	mainly	0	0	1	0
-nagmamahalan	loving each other	0	0	1	0
-nagmamahalan	loving	0	0	1	0
+ginang	misis	0	0	1	0
+ginang	mrs.	0	0	1	0
 layo	far	0	0	1	1
 layo	distance	0	0	1	1
 maliwanag	clear	0	0	1	1
@@ -1103,10 +1078,8 @@ ikinatuwa	to be happy	0	0	1	0
 ikinatuwa	delighted	0	0	1	0
 ikinatuwa	happy	0	0	1	0
 magsilbing	serve as	0	0	1	0
-magsilbing	to serve	0	0	1	0
 palma	palma	0	0	1	0
 miranda	miranda	0	0	1	0
-nakipagusap	talked	0	0	1	0
 nakipagusap	spoke	0	0	1	0
 pamumunong	leadership	0	0	1	0
 domingo	sunday	0	0	1	0
@@ -1116,7 +1089,6 @@ magsasalita	will speak	0	0	1	0
 magsasalita	speak	0	0	1	0
 pusa	cat	0	0	1	1
 magisa	alone	0	0	1	0
-timogkanluran	north-west	0	0	1	0
 timogkanluran	south west	0	0	1	0
 timogkanluran	southwest	0	0	1	0
 nanumbalik	recover	0	0	1	0
@@ -1148,9 +1120,9 @@ mapayapa	peaceful	0	0	1	1
 piyesta	festival	0	0	1	1
 piyesta	fiesta	0	0	1	1
 davao	davao	0	0	1	0
-sustansyang	nutrients	0	0	1	0
-sustansyang	substance	0	0	1	0
 sustansyang	nutrient	0	0	1	0
+sustansyang	substance	0	0	1	0
+sustansyang	nutrients	0	0	1	0
 sumisimbolo	symbolized	0	0	1	0
 sumisimbolo	symbolizes	0	0	1	0
 nagtatanong	asking	0	0	1	0
@@ -1179,7 +1151,6 @@ pasigan	boundary	0	0	1	0
 pasigan	coastal	0	0	1	0
 kumbento	convent	0	0	1	1
 tanging	only	0	0	1	0
-mawawala	vanish	0	0	1	0
 mawawala	disappear	0	0	1	0
 groto	altar	1	0	1	0
 groto	shrine	1	0	1	0
@@ -1205,7 +1176,6 @@ tiyo	personal	1	0	1	0
 tiyo	uncle	1	1	1	1
 tiyo	private	1	0	1	0
 kapamilya	in the family	0	0	1	0
-kapamilya	family member	0	0	1	0
 kapamilya	family	0	0	1	0
 paginit	warming	0	0	1	0
 paginit	global warming	0	0	1	0
@@ -1232,18 +1202,16 @@ pagkakawala	loss	0	0	1	0
 pagkakawala	missing	0	0	1	0
 kalupitan	cruelty	0	0	1	1
 kalupitan	rudeness	0	0	1	0
-hapon	japanese or japan	0	0	1	0
-hapon	japanese	0	0	1	1
 hapon	japan	0	0	1	0
+hapon	japanese	0	0	1	1
+hapon	japanese or japan	0	0	1	0
 pampanguluhan	presidency	0	0	1	0
 pampanguluhan	presidential	0	0	1	1
 panggasinan	panggasinan	0	0	1	0
 sapinsaping	piled up	0	0	1	0
 sapinsaping	various	0	0	1	0
-radyo	radio	0	0	1	1
+gabing	night	0	0	1	0
 intrapersonal	interpersonal	0	0	1	0
-kakilala	acquaintance	0	0	1	1
-kakilala	know	0	0	1	0
 binigyan	donated	0	0	1	0
 binigyan	gave	0	0	1	0
 binitiwan	let go	0	0	1	0
@@ -1279,15 +1247,12 @@ nakadugtong	connected	0	0	1	0
 nakadugtong	joined	0	0	1	0
 studies	studies	0	0	1	0
 mangyayari	happen	0	0	1	0
-mangyayari	event that will happen	0	0	1	0
 araneta	araneta	0	0	1	0
 keithley	keithley	0	0	1	0
 santa	saint	0	0	1	1
 bigas	rice	0	0	1	1
 bigat	heavy	0	0	1	0
 bigat	weight	0	0	1	1
-hinda	not	0	0	1	0
-hinda	right word is "hindi"	0	0	1	0
 akademya	academy	0	0	1	1
 akademya	academic	0	0	1	0
 kimika	chemistry	0	0	1	1
@@ -1335,9 +1300,8 @@ iwasan	skip	0	0	1	0
 iwasan	avoid	0	0	1	1
 katutubong	ethnic group	0	0	1	0
 katutubong	native	0	0	1	0
-naniningil	collecting	0	0	1	0
 naniningil	collect	0	0	1	0
-naniningil	charging	0	0	1	0
+mabili	buy	0	0	1	0
 katimugang	southern	0	0	1	0
 katimugang	south	0	0	1	0
 katimugang	south or southern	0	0	1	0
@@ -1397,9 +1361,7 @@ sa	to	0	0	1	1
 sa	at	0	0	1	1
 sa	in	0	0	1	1
 manga	comics	0	0	1	0
-madalas	frequently	0	0	1	1
-madalas	often	0	0	1	1
-madalas	commonly	0	0	1	0
+se	tagalog phoenetics	0	0	1	0
 nilibing	burried	0	0	1	0
 nilibing	buried	0	0	1	0
 kathangisip	made up	0	0	1	0
@@ -1412,13 +1374,12 @@ isinakdal	judge	0	0	1	0
 isinakdal	accused	0	0	1	0
 jimmy	jimmy	0	0	1	0
 tinitiyak	ensure	0	0	1	0
-kanya	his	0	0	1	1
 kanya	her/his	0	0	1	0
 kanya	his/hers	0	0	1	0
 magagawang	do	0	0	1	0
 magagawang	accomplish	0	0	1	0
 magagawang	could be done	0	0	1	0
-caucasus	name of a place	0	0	1	0
+tula	poem	0	0	1	1
 bisperas	eve	0	0	1	1
 alalahanin	remember	0	0	1	1
 pagliligtas	saving	0	0	1	0
@@ -1452,7 +1413,6 @@ kamakailang	recently	0	0	1	0
 kamakailang	awhile back	0	0	1	0
 estudyanteng	student	0	0	1	0
 ipinagpapalit	traded for	0	0	1	0
-ipinagpapalit	to replace	0	0	1	0
 ipinagpapalit	replace	0	0	1	0
 greiser	greiser	0	0	1	0
 fabian	fabian	0	0	1	0
@@ -1482,7 +1442,6 @@ nagsilbing	served	0	0	1	0
 nagsilbing	serve as	0	0	1	0
 matamlay	weak	0	0	1	0
 matamlay	dull	0	0	1	0
-matamlay	unhappy	0	0	1	0
 kalimitang	minimum	0	0	1	0
 kalimitang	mostly	0	0	1	0
 kalimitang	usual	0	0	1	0
@@ -1587,7 +1546,6 @@ inilalapat	apply	0	0	1	0
 magulang	parents	0	0	1	1
 magulang	parent	0	0	1	1
 watawat	flag	0	0	1	1
-pinakamatagumpay	most sucessful	0	0	1	0
 pinakamatagumpay	most successful	0	0	1	0
 nakatulong	helped	0	0	1	0
 dumarami	increasing	0	0	1	0
@@ -1599,9 +1557,6 @@ budista	buddhist	0	0	1	0
 budista	budish	0	0	1	0
 propesyon	prefession	0	0	1	0
 propesyon	profession	0	0	1	1
-poder	mastery	0	0	1	0
-poder	right	0	0	1	0
-poder	custody	0	0	1	0
 kumatawan	represented	0	0	1	0
 kumatawan	represent	0	0	1	1
 lucena	lucena	0	0	1	0
@@ -1617,14 +1572,15 @@ sam	sam	0	0	1	0
 sam	sam (name)	0	0	1	0
 pinanggagalingan	source	0	0	1	1
 pinanggagalingan	come	0	0	1	0
-pinanggagalingan	the oirgin	0	0	1	0
 sandata	weapon	0	0	1	1
 kababaihan	female	0	0	1	1
 kababaihan	women	0	0	1	1
 allen	allen	0	0	1	0
 allen	allen (first name)	0	0	1	0
 sap	not a tagalog word	0	0	1	0
-myembro	member	0	0	1	0
+bayan	country	0	0	1	1
+bayan	nation	0	0	1	1
+bayan	city	0	0	1	1
 bulok	rotten	0	0	1	1
 bulok	decayed	0	0	1	1
 magiging	will become	0	0	1	0
@@ -1701,9 +1657,7 @@ mangaawit	singer	0	0	1	0
 laws	laws	0	0	1	0
 nagpuyos	burning	0	0	1	0
 leibniz	leibniz	0	0	1	0
-nagpagalagala	wandered	0	0	1	0
-nagpagalagala	stroll	0	0	1	0
-nagpagalagala	stray	0	0	1	0
+buhangin	sand	0	0	1	1
 pamilyang	family	0	0	1	0
 iyon	that	0	0	1	1
 pagtungo	going to	0	0	1	0
@@ -1739,14 +1693,12 @@ pamamahala	administration	0	0	1	0
 pamamahala	governance	0	0	1	0
 paglabas	protrusion	0	0	1	0
 paglabas	coming out	0	0	1	0
-paglaban	to fight	0	0	1	0
 paglaban	fighting	0	0	1	1
 paglaban	fight	0	0	1	0
-elektrikal	electrical	0	0	1	0
+roger	roger	0	0	1	0
 kolonyalismong	colonialism	0	0	1	0
 kapangyarihan	power	0	0	1	1
 paglabag	transgression	0	0	1	0
-paglabag	violate	0	0	1	0
 paglabag	breaking the law	0	0	1	0
 where	saan	0	0	1	0
 magastos	costly	0	0	1	1
@@ -1765,14 +1717,12 @@ pagdidiriwang	celebrate	0	0	1	0
 pagdidiriwang	celebration	0	0	1	0
 mecca	mecca	0	0	1	0
 askenasi	ashkenazi	0	0	1	0
-panrehiyon	region	0	0	1	0
-panrehiyon	regional	0	0	1	0
+morocco	morocco	0	0	1	0
 kongresista	congressman	0	0	1	1
 munting	small	0	0	1	0
 munting	little	0	0	1	0
-tuwirang	diretly	0	0	1	0
-tuwirang	explicitly	0	0	1	0
-tuwirang	directly	0	0	1	0
+un	un - united nations	0	0	1	0
+un	united nations	0	0	1	0
 televia	televia	0	0	1	0
 komplementaryong	complimentary	0	0	1	0
 komplementaryong	compliment	0	0	1	0
@@ -1799,9 +1749,9 @@ bersyon	version	0	0	1	0
 lumahok	joined	0	0	1	0
 lumahok	participate	0	0	1	1
 arkidiyosesis	archdiocese	0	0	1	0
-kabaliwan	insane	0	0	1	0
-kabaliwan	insanity	0	0	1	1
-kabaliwan	craziness	0	0	1	1
+hawak	held	0	0	1	1
+hawak	hold	0	0	1	1
+hawak	possess	0	0	1	0
 many	many	0	0	1	0
 pahinang	page	0	0	1	0
 binigyang	emphasized	0	0	1	0
@@ -1816,8 +1766,8 @@ magagawa	do	0	0	1	0
 magagawa	workable	0	0	1	0
 magagawa	to do	0	0	1	0
 mang	ever	0	0	1	0
-mang	mister	0	0	1	0
 mang	old man	0	0	1	0
+mang	mister	0	0	1	0
 bakante	vacant	0	0	1	1
 balanopostitis	balanitis	1	1	0	0
 balanopostitis	bass-buitar	1	0	1	0
@@ -1862,7 +1812,6 @@ paginom	drinking	0	0	1	0
 paginom	drink	0	0	1	0
 hinango	derived from	0	0	1	0
 hinango	derived	0	0	1	0
-hinango	based	0	0	1	0
 pagkapangulo	for president	0	0	1	0
 pagkapangulo	presidency	0	0	1	1
 pagkapangulo	presidential	0	0	1	0
@@ -1883,7 +1832,7 @@ pagyaman	rich	0	0	1	0
 pagyaman	richness	0	0	1	0
 mekong	name of a river	0	0	1	0
 narito	here	0	0	1	0
-mayakda	author	0	0	1	0
+estilo	style	0	0	1	1
 belyadona	belladonna	1	1	0	0
 layuning	objective	0	0	1	0
 layuning	aim	0	0	1	0
@@ -1954,8 +1903,9 @@ tagukan	vocal cord	1	0	1	0
 tagukan	glotis	1	1	0	0
 tagukan	marks	1	0	1	0
 tagukan	trachea	1	0	1	0
-papaalis	going	0	0	1	0
-papaalis	leaving	0	0	1	0
+ipinatapon	thrown	0	0	1	0
+ipinatapon	cast	0	0	1	0
+ipinatapon	exiled	0	0	1	0
 kaagaw	rival	0	0	1	1
 kaagaw	competitor	0	0	1	1
 kaagaw	snatch	0	0	1	0
@@ -2018,14 +1968,14 @@ silid	room	0	0	1	1
 kumplikadong	complidated	0	0	1	0
 kumplikadong	complicated	0	0	1	0
 maghahandog	offer	0	0	1	0
-maghahandog	to offer	0	0	1	0
 maghahandog	sacrificing	0	0	1	0
+maghahandog	to offer	0	0	1	0
 colegio	college	0	0	1	0
 eksternalidad	externality	0	0	1	0
 eksternalidad	externalization	0	0	1	0
 libo	thousand	0	0	1	1
-maituring	treat as	0	0	1	0
 maituring	considering	0	0	1	0
+maituring	treat as	0	0	1	0
 maituring	consider	0	0	1	0
 pagpipigil	control	0	0	1	1
 pagpipigil	restraints	0	0	1	0
@@ -2068,8 +2018,8 @@ espirituwal	espiritual	0	0	1	0
 tubo	sugarcane	0	0	1	1
 tubo	cane	0	0	1	0
 tubo	earnings	0	0	1	0
-kukunin	conquer	0	0	1	0
 kukunin	acquiring	0	0	1	0
+kukunin	conquer	0	0	1	0
 kukunin	get	0	0	1	0
 magkaibigan	friends	0	0	1	1
 magkaibigan	friend	0	0	1	0
@@ -2091,28 +2041,23 @@ nooy	before	0	0	1	0
 pinaniniwalaang	believed	0	0	1	0
 pinaniniwalaang	was believed to	0	0	1	0
 ganyan	like that	0	0	1	1
-ganyan	that	0	0	1	0
 ganyan	such	0	0	1	1
-makabuo	compose	0	0	1	0
-makabuo	to form	0	0	1	0
-makabuo	form	0	0	1	0
+ganyan	that	0	0	1	0
+kontinente	continent	0	0	1	1
 tinaguriang	regarded as	0	0	1	0
 tinaguriang	named	0	0	1	0
 tinaguriang	called	0	0	1	0
-binibigyan	giving	0	0	1	0
-binibigyan	being given	0	0	1	0
+durungawan	window	0	0	1	1
 halagang	amount	0	0	1	0
-sumusuri	inspector	0	0	1	0
-sumusuri	analyze	0	0	1	0
-sumusuri	examines	0	0	1	0
+nagtala	listed	0	0	1	0
+nagtala	posted	0	0	1	0
 thailand	thailand	0	0	1	0
 josie	josie	0	0	1	0
 notoc	notoc	0	0	1	0
 tarak	stab	0	0	1	1
 tarak	knife	0	0	1	0
 tarak	embedded	0	0	1	0
-pinigilan	stopped	0	0	1	0
-pinigilan	restrained	0	0	1	0
+mababasa	read	0	0	1	0
 eleksiyon	election	0	0	1	1
 hinati	divided	0	0	1	0
 hinati	sharing	0	0	1	0
@@ -2144,7 +2089,8 @@ natikman	tasted	0	0	1	0
 nyang	hers	0	0	1	0
 nyang	his	0	0	1	0
 sakramento	sacrament	0	0	1	1
-purong	pure	0	0	1	0
+limbang	limbang	0	0	1	0
+limbang	part	0	0	1	0
 italia	italy	0	0	1	0
 makasaysayang	historical	0	0	1	0
 hen	hen.- gen. general	0	0	1	0
@@ -2164,14 +2110,13 @@ paglamig	winter	0	0	1	0
 paglamig	cool	0	0	1	0
 with	with	0	0	1	0
 magtatagumpay	successful	0	0	1	0
-magtatagumpay	will win	0	0	1	0
 magtatagumpay	to suceed	0	0	1	0
 kanonisasyon	canonization	1	1	0	0
 pulo	island	1	1	1	1
-pulo	island or isle	1	0	1	0
+pulo	isles	1	0	1	0
 pulo	construction	1	0	1	0
 pulo	islet	1	1	0	0
-pulo	isles	1	0	1	0
+pulo	island or isle	1	0	1	0
 pulo	structure	1	0	1	0
 magkakapatid	siblings	0	0	1	0
 ruso	russian	0	0	1	1
@@ -2200,10 +2145,8 @@ as	bilang	0	0	1	0
 pagbubuo	founding	0	0	1	0
 pagbubuo	composing	0	0	1	0
 pagbubuo	formation	0	0	1	0
-au	au (chemical symbol for gold)	0	0	1	0
 at	and	0	0	1	1
 ay	is	0	0	1	1
-ay	its	0	0	1	0
 kakayanang	ability	0	0	1	0
 tinuruan	teach	0	0	1	0
 tinuruan	taught	0	0	1	0
@@ -2228,9 +2171,8 @@ transmutasyon	constantly	1	0	1	0
 transmutasyon	permanently	1	0	1	0
 transmutasyon	mutation	1	1	0	0
 transmutasyon	transmutation	1	1	1	0
-nakitang	seen	0	0	1	0
-nakitang	see	0	0	1	0
 nakitang	found	0	0	1	0
+nakitang	see	0	0	1	0
 hangganan	end	0	0	1	1
 hangganan	border	0	0	1	1
 hangganan	limit	0	0	1	1
@@ -2273,7 +2215,6 @@ tagbanwa	an ethnic group	0	0	1	0
 tagbanwa	tagbanua	0	0	1	0
 kinagabihan	last night	0	0	1	0
 kinagabihan	following night	0	0	1	0
-kinagabihan	at night	0	0	1	0
 lumayo	leave	0	0	1	0
 lumayo	distant	0	0	1	0
 lumayo	went away	0	0	1	0
@@ -2382,22 +2323,20 @@ ramon	name of a person	0	0	1	0
 ramon	ramon	0	0	1	0
 tumindig	stood up	0	0	1	0
 tumindig	stood	0	0	1	0
-tumindig	to stand	0	0	1	1
 november	november	0	0	1	0
 nilisan	left	0	0	1	0
 nilisan	cleaned	0	0	1	0
 kabuuang	total	0	0	1	0
 kabuuang	whole	0	0	1	0
 dipormal	informal	0	0	1	0
-salita	undoubtedly	1	0	1	0
 salita	udoubtedly	1	0	1	0
 salita	word	1	1	1	1
-salita	language	1	0	1	1
+salita	undoubtedly	1	0	1	0
 salita	words	1	0	1	0
 social	social	0	0	1	0
-sobrang	over	0	0	1	0
-sobrang	too much	0	0	1	0
-sobrang	too	0	0	1	0
+nahati	divided	0	0	1	0
+nahati	divide	0	0	1	0
+nahati	halved	0	0	1	0
 vii	seven	0	0	1	0
 vii	vii	0	0	1	0
 korporasyong	corporation	0	0	1	0
@@ -2448,15 +2387,11 @@ learn	learn	0	0	1	0
 makapaniwala	believe	0	0	1	0
 makapaniwala	believing	0	0	1	0
 makapaniwala	notion	0	0	1	0
-taliwas	contrary	0	0	1	0
-taliwas	reverse	0	0	1	0
-taliwas	against	0	0	1	0
+beautiful	beautiful	0	0	1	0
 direksiyon	direction	0	0	1	1
-puhunan	capital (investment)	0	0	1	0
 puhunan	investment	0	0	1	1
 puhunan	capital	0	0	1	1
 naliwanagan	enlightened	0	0	1	0
-naliwanagan	enlighten	0	0	1	0
 mabisa	effective	0	0	1	1
 lesotho	lesotho	0	0	1	0
 ikinabit	connected	0	0	1	0
@@ -2469,7 +2404,6 @@ patungkol	towards	0	0	1	0
 lumalaking	growing	0	0	1	0
 lumalaking	grow to become	0	0	1	0
 lumalaking	getting bigger	0	0	1	0
-heograpiko	geographic	0	0	1	0
 heograpiko	geography	0	0	1	0
 ipinangalan	named	0	0	1	0
 ipinangalan	named after	0	0	1	0
@@ -2538,8 +2472,8 @@ ita	black people	0	0	1	0
 ita	an ethnic group	0	0	1	0
 ita	aetas	0	0	1	0
 pana	bow	0	0	1	1
-pinid	smear	0	0	1	0
-pinid	closed	0	0	1	1
+itinalaga	assigned	0	0	1	0
+itinalaga	instituted	0	0	1	0
 pang	more	0	0	1	0
 nauuna	leading	0	0	1	0
 nauuna	comes first	0	0	1	0
@@ -2551,8 +2485,7 @@ akustik	personal	1	0	1	0
 akustik	acoustic	1	1	0	0
 akustik	/$$	1	0	1	0
 akustik	acoustics	1	0	1	0
-komisyoner	commissioner	0	0	1	0
-komisyoner	comissioner	0	0	1	0
+parirala	phrase	0	0	1	1
 bilyong	billion	0	0	1	0
 luntiang	green	0	0	1	0
 gerald	name of a person	0	0	1	0
@@ -2576,7 +2509,6 @@ asikasuhin	take care of	0	0	1	0
 agrikultural	agricultural	0	0	1	1
 naghahanda	preparing	0	0	1	0
 balabal	covered	0	0	1	0
-balabal	shawl	0	0	1	1
 balabal	cloak	0	0	1	1
 pinapayagang	allowed to	0	0	1	0
 pinapayagang	allowing	0	0	1	0
@@ -2654,9 +2586,6 @@ makatanggap	received	0	0	1	0
 makatanggap	recipient	0	0	1	0
 joey	name of a person	0	0	1	0
 joey	joey	0	0	1	0
-panulukan	corner	0	0	1	1
-panulukan	end	0	0	1	0
-panulukan	way	0	0	1	0
 magasawa	married couple	0	0	1	0
 guam	guam	0	0	1	0
 isinilid	hid	0	0	1	0
@@ -2733,16 +2662,13 @@ destinasyon	destination	0	0	1	0
 binuhusan	pouring	0	0	1	0
 binuhusan	spilled	0	0	1	0
 binuhusan	showered	0	0	1	0
-mapagpipilian	choice	0	0	1	1
-mapagpipilian	choices	0	0	1	0
+luzon	luzon	0	0	1	0
 konserbasyon	conservation	0	0	1	0
 patulang	poetic	0	0	1	0
 panulat	write	0	0	1	0
 panulat	write-up	0	0	1	0
 panulat	writing	0	0	1	0
-paraang	process	0	0	1	0
-paraang	manner	0	0	1	0
-paraang	way	0	0	1	0
+also	din	0	0	1	0
 salitangugat	rootword	0	0	1	0
 salitangugat	root word	0	0	1	0
 pattani	pattani	0	0	1	0
@@ -2755,15 +2681,13 @@ nakumpleto	completed	0	0	1	0
 sumpa	curse	0	0	1	1
 pagpapaating	to spread	0	0	1	0
 pagpapaating	prove	0	0	1	0
-dokumento	document	0	0	1	1
+pader	wall	0	0	1	0
 duwag	coward	0	0	1	1
 pangalang	named	0	0	1	0
 pangalang	name	0	0	1	0
 pangangaral	teaching	0	0	1	0
 pangangaral	sermon	0	0	1	0
-pangangaral	preaching	0	0	1	0
 artes	arts	0	0	1	0
-artes	artist	0	0	1	0
 asul	blue	0	0	1	1
 makaharap	faced	0	0	1	0
 makaharap	confront	0	0	1	0
@@ -2857,7 +2781,6 @@ naitalang	recorded	0	0	1	0
 naitalang	listed	0	0	1	0
 sipi	copied	0	0	1	0
 sipi	copy	0	0	1	1
-sipi	excerpt	0	0	1	0
 sex	sex	0	0	1	0
 see	tignan	0	0	1	0
 see	see	0	0	1	0
@@ -2876,7 +2799,6 @@ sinira	destroyed	0	0	1	0
 guinea	guinea	0	0	1	0
 tauhang	subordinates	0	0	1	0
 tauhang	follower	0	0	1	0
-tauhang	followers	0	0	1	0
 rito	here	0	0	1	1
 pagkakasakit	illness	0	0	1	1
 pagkakasakit	sickness	0	0	1	1
@@ -2900,13 +2822,12 @@ candon	candon city	0	0	1	0
 candon	candon	0	0	1	0
 legislature	legislation	0	0	1	0
 kilusan	movement	0	0	1	1
-sino	who	0	0	1	1
+proyekto	project	0	0	1	1
 natalo	defeated	0	0	1	0
 natalo	lost	0	0	1	1
 kaibahan	difference	0	0	1	1
-umahon	go up	0	0	1	0
-umahon	to come up	0	0	1	0
-umahon	emerged	0	0	1	0
+thom	thom	0	0	1	0
+thom	great	0	0	1	0
 lasa	taste	0	0	1	1
 connection	connection	0	0	1	0
 pagbabagong	changes	0	0	1	0
@@ -2937,8 +2858,7 @@ mungkahi	suggestion	0	0	1	1
 makitid	narrow	0	0	1	1
 champion	champion	0	0	1	0
 champion	champion/ winner	0	0	1	0
-ivatan	name of a place	0	0	1	0
-ivatan	ivatan tribe	0	0	1	0
+mayorya	majority	0	0	1	1
 palagiang	always	0	0	1	0
 palagiang	constant	0	0	1	0
 tigp	each	0	0	1	0
@@ -2963,7 +2883,6 @@ puwede	can	0	0	1	1
 puwede	possible	0	0	1	1
 habsburgo	habsburg	0	0	1	0
 nukleyar	nuclear	0	0	1	0
-tumatalakay	tackle	0	0	1	0
 tumatalakay	discussing	0	0	1	0
 tumatalakay	discuss	0	0	1	0
 homo	same	0	0	1	0
@@ -2981,7 +2900,6 @@ naantala	postponed	0	0	1	0
 naantala	got sidetracked	0	0	1	0
 naantala	was delayed	0	0	1	0
 halong	mix	0	0	1	0
-halong	combinination	0	0	1	0
 halong	descent	0	0	1	0
 delhi	delhi	0	0	1	0
 kongresyonal	congressional	0	0	1	0
@@ -3046,7 +2964,6 @@ paunang	first	0	0	1	0
 sydney	sydney	0	0	1	0
 nalagutan	deprived	0	0	1	0
 nalagutan	given up	0	0	1	0
-nalagutan	died	0	0	1	0
 nagpapatupad	implement	0	0	1	0
 nagpapatupad	implementor	0	0	1	0
 nagpapatupad	implemented	0	0	1	0
@@ -3068,7 +2985,6 @@ demanda	demand	0	0	1	1
 estasyon	station	0	0	1	0
 pangako	promise	0	0	1	1
 salusalo	gathering	0	0	1	0
-salusalo	fest	0	0	1	0
 salusalo	get together	0	0	1	0
 d	d	0	0	1	0
 itinaas	raised	0	0	1	0
@@ -3136,7 +3052,6 @@ malabo	unclear	0	0	1	0
 malabo	not clear	0	0	1	1
 ituring	treat	0	0	1	1
 ituring	consider	0	0	1	1
-nagdadala	brings	0	0	1	0
 nagdadala	carrier	0	0	1	0
 nagdadala	bringing	0	0	1	0
 kunin	get	0	0	1	1
@@ -3181,11 +3096,6 @@ sawimpalad	unfortunate	0	0	1	0
 hukuman	justice	0	0	1	0
 hukuman	court	0	0	1	1
 patawarin	forgive	0	0	1	1
-minsang	sometimes	0	0	1	0
-minsang	once	0	0	1	0
-naturang	such	0	0	1	0
-naturang	said	0	0	1	0
-naturang	particular	0	0	1	0
 bunganga	mouth	0	0	1	1
 umanong	supposedly	0	0	1	0
 bibig	mouth	0	0	1	1
@@ -3195,7 +3105,6 @@ pangkalakal	for exchange of goods	0	0	1	0
 pangkalakal	for business	0	0	1	0
 pinakiusapan	pleaded	0	0	1	0
 pinakiusapan	persuaded	0	0	1	0
-pinakiusapan	asked	0	0	1	0
 pangit	ugly	0	0	1	1
 personalidad	personality	0	0	1	0
 byzantine	byzantine	0	0	1	0
@@ -3237,9 +3146,11 @@ ur	rome	1	0	1	0
 ur	en	1	1	0	0
 ur	not a tagalog word	1	1	0	0
 ur	ur	1	0	1	0
-morocco	morocco	0	0	1	0
-un	un - united nations	0	0	1	0
-un	united nations	0	0	1	0
+panrehiyon	region	0	0	1	0
+panrehiyon	regional	0	0	1	0
+tuwirang	diretly	0	0	1	0
+tuwirang	explicitly	0	0	1	0
+tuwirang	directly	0	0	1	0
 uk	uk	0	0	1	0
 ue	europian union	0	0	1	0
 ue	not a tagalog word	0	0	1	0
@@ -3254,7 +3165,9 @@ kategoryakristiyanismo	category christianism	0	0	1	0
 inilalabas	taking out	0	0	1	0
 inilalabas	produce	0	0	1	0
 inilalabas	bringing out	0	0	1	0
-estilo	style	0	0	1	1
+naturang	such	0	0	1	0
+naturang	said	0	0	1	0
+naturang	particular	0	0	1	0
 inilunsad	launched	0	0	1	0
 inilunsad	launch	0	0	1	0
 inangkin	claimed	0	0	1	0
@@ -3299,7 +3212,6 @@ apostol	apostle	0	0	1	0
 kanaryo	canary	1	1	0	1
 tinitingnan	looking	0	0	1	0
 tinitingnan	not seeing	0	0	1	0
-tinitingnan	looking at	0	0	1	0
 saklolo	help	0	0	1	1
 panunungkulan	term	0	0	1	0
 panunungkulan	service	0	0	1	0
@@ -3315,7 +3227,6 @@ tubig	water	0	0	1	1
 malaytao	conciousness	0	0	1	0
 malaytao	without body	0	0	1	0
 malaytao	consciousness	0	0	1	0
-bihasa	skilled	0	0	1	1
 bihasa	expert	0	0	1	1
 pederasyong	fedeartion	0	0	1	0
 pederasyong	federation	0	0	1	0
@@ -3440,7 +3351,6 @@ ipinalalagay	assuming	0	0	1	0
 residente	resident	0	0	1	0
 tumanggi	refuse	0	0	1	1
 tumanggi	denied	0	0	1	0
-survey	survey	0	0	1	0
 pangestado	states	0	0	1	0
 pangestado	state	0	0	1	0
 mayari	owner	0	0	1	1
@@ -3453,7 +3363,6 @@ binubuo	whole	0	0	1	0
 binubuo	conposed	0	0	1	0
 panrelihiyon	religious	0	0	1	0
 panrelihiyon	for religion	0	0	1	0
-pansariling	personal	0	0	1	0
 pansariling	self	0	0	1	0
 pansariling	individual	0	0	1	0
 mangga	mango	0	0	1	1
@@ -3535,11 +3444,9 @@ budismong	budism	0	0	1	0
 budismong	buddhism	0	0	1	0
 animal	animal	0	0	1	0
 kagagawan	doing	0	0	1	0
-kagagawan	done by	0	0	1	0
 kagagawan	deed	0	0	1	0
 tiago	tiago	0	0	1	0
 makakain	may eat	0	0	1	0
-makakain	esculent	0	0	1	0
 makakain	eat	0	0	1	0
 cristal	name of a person	0	0	1	0
 cristal	crystal	0	0	1	0
@@ -3596,7 +3503,6 @@ nagbayad	pay	0	0	1	0
 nagbayad	paid	0	0	1	0
 yaong	the one	0	0	1	0
 yaong	that	0	0	1	0
-kahawig	look a like	0	0	1	0
 kahawig	similar	0	0	1	1
 ninanais	(mas ninanais) - preferred	0	0	1	0
 ninanais	want	0	0	1	0
@@ -3624,15 +3530,14 @@ pandama	sense	0	0	1	1
 baguhan	newly	0	0	1	0
 baguhan	newcomer	0	0	1	1
 komang	crooked	0	0	1	0
-hinayaang	regret	0	0	1	0
 hinayaang	abandoned	0	0	1	0
 hinayaang	left	0	0	1	0
 ratan	name of a plant	1	0	1	0
 ratan	rattan	1	1	0	1
 ratan	ratan	1	0	1	0
 ratan	market	1	0	1	0
-pagtutok	to concentrate	0	0	1	0
 pagtutok	focus	0	0	1	0
+pagtutok	to concentrate	0	0	1	0
 pakainin	feed	0	0	1	1
 pakainin	to feed	0	0	1	1
 pagtutol	objection	0	0	1	1
@@ -3648,7 +3553,6 @@ persia	persia	0	0	1	0
 persia	name of a place	0	0	1	0
 minorya	minority	0	0	1	0
 solusyon	solution	0	0	1	1
-banas	banas	0	0	1	0
 banas	pissed	0	0	1	0
 banas	agitated	0	0	1	0
 piniling	chosen	0	0	1	0
@@ -3726,7 +3630,6 @@ heswita	jesuit	0	0	1	1
 teorema	theorem	0	0	1	0
 kolum	column	0	0	1	0
 maglagay	put	0	0	1	1
-maglagay	place	0	0	1	1
 purgatoryo	purgatory	0	0	1	1
 nagkasala	sinned	0	0	1	0
 nagkasala	guilty	0	0	1	0
@@ -3794,7 +3697,6 @@ niyakap	hug	0	0	1	0
 niyakap	embraced	0	0	1	0
 tanakh	tanakh	0	0	1	0
 kinakatawan	imbodiment	0	0	1	0
-kinakatawan	representative	0	0	1	0
 kinakatawan	embodies	0	0	1	0
 ekonomiks	economics	0	0	1	0
 nahinto	stopped	0	0	1	0
@@ -3811,7 +3713,6 @@ pagsalakay	invasion	0	0	1	1
 pagsalakay	attacking	0	0	1	1
 kolokyal	colloquial	0	0	1	1
 hininga	breath	0	0	1	1
-hininga	breathing	0	0	1	0
 pwersa	force	0	0	1	0
 pagbabasa	read	0	0	1	0
 pagbabasa	reading	0	0	1	0
@@ -3858,11 +3759,9 @@ likurang	back	0	0	1	0
 likurang	rear	0	0	1	0
 nagaangkin	own	0	0	1	0
 nagaangkin	owning	0	0	1	0
-nagaangkin	to claim	0	0	1	0
 nabubulok	rotting	0	0	1	0
 nabubulok	rotten	0	0	1	0
 lalo	especially	0	0	1	1
-lalo	more	0	0	1	1
 inutusan	ordered	0	0	1	0
 inutusan	command	0	0	1	0
 malaganap	broad	0	0	1	0
@@ -3870,7 +3769,6 @@ malaganap	widespread	0	0	1	0
 malaganap	wide	0	0	1	0
 flavivs	flavivs	0	0	1	0
 lalu	much	0	0	1	0
-lalu	especially	0	0	1	0
 lalu	more	0	0	1	1
 asetabulum	acetabulum	1	1	0	0
 asetabulum	gather	1	0	1	0
@@ -3922,14 +3820,12 @@ biglang	sudden	0	0	1	0
 tumitingin	looking	0	0	1	0
 padala	given	0	0	1	0
 padala	sent	0	0	1	0
-padala	send	0	0	1	1
 brocka	brocka	0	0	1	0
 pumukaw	inspired	0	0	1	0
 pumukaw	aroused	0	0	1	0
 pumukaw	made aware	0	0	1	0
 paglilimbag	printing	0	0	1	0
 paglilimbag	publishing	0	0	1	0
-paglilimbag	to print	0	0	1	0
 komunistang	communist	0	0	1	0
 nagtatalaga	appoint	0	0	1	0
 nagtatalaga	assigning	0	0	1	0
@@ -3951,7 +3847,6 @@ nakatakas	escaped	0	0	1	0
 binoykot	boycotted	0	0	1	0
 binoykot	boycott	0	0	1	0
 ipinagtibay	strengthened	0	0	1	0
-ipinagtibay	approve	0	0	1	0
 salinlahi	generation	0	0	1	1
 inayos	fixed	0	0	1	0
 inayos	arranged	0	0	1	0
@@ -3964,8 +3859,8 @@ paggawa	work	0	0	1	1
 paggawa	to work on	0	0	1	0
 balete	balete (name of tree)	0	0	1	0
 suwero	serum	0	0	1	1
-sulatan	to write	0	0	1	0
 sulatan	write a letter	0	0	1	1
+sulatan	to write	0	0	1	0
 sulatan	write a letter to	0	0	1	0
 konpusyanismo	confusianism	0	0	1	0
 konpusyanismo	confucianism	0	0	1	0
@@ -3975,9 +3870,7 @@ antas	level	0	0	1	1
 tagapagpatupad	implementor	0	0	1	0
 tagapagpatupad	enforcer	0	0	1	0
 tagapagpatupad	to fulfill	0	0	1	0
-kasali	included	0	0	1	1
 kasali	including	0	0	1	0
-chlamydia	chlamydia	0	0	1	0
 ibon	fowl	1	0	1	1
 ibon	schizophrenia	1	0	1	0
 ibon	bird	1	1	1	1
@@ -3987,15 +3880,17 @@ eduardo	edward	0	0	1	0
 panauhin	visitors	0	0	1	0
 panauhin	vistors	0	0	1	0
 panauhin	visitor	0	0	1	1
-teknikal	technical	0	0	1	0
+paunlarin	prosper	0	0	1	0
+paunlarin	develop	0	0	1	0
+paunlarin	improve	0	0	1	0
 spain	spain	0	0	1	0
 kinahapunan	evening	0	0	1	0
 kinahapunan	afternoon	0	0	1	0
 kinahapunan	afteroon	0	0	1	0
+marinduque	marinduque	0	0	1	0
 genghis	genghis	0	0	1	0
 genghis	genghis (name)	0	0	1	0
 partikulo	particle	0	0	1	0
-partikulo	particular	0	0	1	0
 kolombiya	columbia	0	0	1	0
 kolombiya	colombia	0	0	1	0
 umar	umar	0	0	1	0
@@ -4048,8 +3943,7 @@ nagpapakitang	showing	0	0	1	0
 nagpapakitang	shows	0	0	1	0
 kilalang	known	0	0	1	0
 kilalang	famous	0	0	1	0
-kilalang	known as	0	0	1	0
-marinduque	marinduque	0	0	1	0
+hinarangan	blocked	0	0	1	0
 pambobomba	bombing	0	0	1	0
 balo	widow	0	0	1	1
 bilugang	rounded	0	0	1	0
@@ -4064,7 +3958,6 @@ php	philippine peso	0	0	1	0
 pinansin	noticed	0	0	1	0
 pinansin	acknowledge	0	0	1	0
 paniniwala	belief	0	0	1	1
-diabetes	diabetes	0	0	1	0
 karang	awning	1	0	1	1
 karang	financial	1	0	1	0
 karang	atoll	1	1	0	0
@@ -4076,8 +3969,8 @@ isipin	think	0	0	1	1
 isipin	to think	0	0	1	0
 indonesia	indonesia	0	0	1	0
 biyetnam	vietnam	0	0	1	0
-daw	allegedly	0	0	1	0
-daw	they say	0	0	1	0
+pwersang	force	0	0	1	0
+pwersang	troops	0	0	1	0
 gamutin	heal	0	0	1	1
 gamutin	to heal	0	0	1	0
 gamutin	treat	0	0	1	1
@@ -4085,7 +3978,6 @@ audio	audio	0	0	1	0
 lilitaw	will appear	0	0	1	0
 lilitaw	will come out or show it self	0	0	1	0
 lilitaw	appear	0	0	1	0
-tanso	copper	0	0	1	1
 tanso	brass	0	0	1	1
 tanso	bronze	0	0	1	0
 sabong	cockfight	0	0	1	1
@@ -4132,7 +4024,6 @@ magkahiwalay	separated	0	0	1	0
 henerasyon	generation	0	0	1	1
 larawan	picture	0	0	1	1
 pamumuhay	living	0	0	1	1
-pamumuhay	life	0	0	1	1
 pamumuhay	lifestyle	0	0	1	0
 kaurianheograpiya	kind geography	0	0	1	0
 amerikano	american	0	0	1	1
@@ -4155,17 +4046,15 @@ remulla	remulla	0	0	1	0
 sistemang	system	0	0	1	0
 biology	biology	0	0	1	0
 batangas	batangas	0	0	1	0
-singil	collect	0	0	1	0
 singil	toll	0	0	1	0
 singil	ask for payment	0	0	1	0
 pressure	pressure	0	0	1	0
 daanang	way	0	0	1	0
 daanang	road	0	0	1	0
 daanang	highway	0	0	1	0
-ibinalik	return	0	0	1	0
 ibinalik	returned	0	0	1	0
 inisip	thought	0	0	1	0
-includes	includes	0	0	1	0
+wikain	dialect	0	0	1	1
 samahang	organization	0	0	1	0
 samahang	group	0	0	1	0
 samahang	association	0	0	1	0
@@ -4212,10 +4101,7 @@ nilalarawan	showing	0	0	1	0
 nilalarawan	described	0	0	1	0
 nagtangka	commited	0	0	1	0
 nagtangka	tried	0	0	1	0
-magkakahiwalay	separately	0	0	1	0
-magkakahiwalay	apart	0	0	1	0
 magkakahiwalay	separate	0	0	1	0
-huag	(thou) shall not	0	0	1	0
 huag	don't	0	0	1	0
 serbisyo	service	0	0	1	1
 manggagapang	creeper	1	1	0	0
@@ -4249,9 +4135,9 @@ hinihirang	heralded	0	0	1	0
 hinihirang	appointing	0	0	1	0
 hinihirang	appointed	0	0	1	0
 ayaw	don't want	0	0	1	0
-ayaw	do not want	0	0	1	0
 ayaw	refused	0	0	1	0
 nasulat	written	0	0	1	0
+nalathala	published	0	0	1	0
 sinubukan	try	0	0	1	0
 sinubukan	tried	0	0	1	0
 balikat	shoulder	0	0	1	1
@@ -4306,7 +4192,6 @@ kasalan	wedding	0	0	1	1
 nagugat	rooted	0	0	1	0
 nagugat	rooted from	0	0	1	0
 kanluran	west	0	0	1	1
-kanluran	south	0	0	1	0
 kanonikal	canonical	0	0	1	0
 publikasyon	publication	0	0	1	1
 totoong	real	0	0	1	0
@@ -4345,13 +4230,11 @@ pagkatatag	established	0	0	1	0
 pagkatatag	establishment	0	0	1	0
 nabalisa	depressed	0	0	1	0
 nabalisa	daydreaming	0	0	1	0
-nabalisa	restless	0	0	1	0
 edward	edward	0	0	1	0
 pagboto	vote	0	0	1	0
 pagboto	voting	0	0	1	0
 pagboto	to vote	0	0	1	0
 kapintasan	fault	0	0	1	1
-kapintasan	defect	0	0	1	1
 nalimot	forgot	0	0	1	0
 nalimot	forgotten	0	0	1	1
 kinuha	take up	0	0	1	0
@@ -4402,7 +4285,6 @@ sapitin	caused	0	0	1	0
 sapitin	suffer	0	0	1	0
 sapitin	result	0	0	1	0
 komisyong	commission	0	0	1	0
-komisyong	comission	0	0	1	0
 griego	greek	0	0	1	0
 pinatibay	strengthen	0	0	1	0
 pinatibay	determined	0	0	1	0
@@ -4427,7 +4309,6 @@ apatnaput	fourty	0	0	1	0
 inimbento	invented	0	0	1	0
 agoncillo	name of a person	0	0	1	0
 kalagimlagim	dreadful	0	0	1	0
-kalagimlagim	dreary	0	0	1	0
 kalagimlagim	terroristic	0	0	1	0
 sukarno	sukarno	0	0	1	0
 sukarno	sukarno (name)	0	0	1	0
@@ -4457,10 +4338,9 @@ kawil	bayan	0	0	1	0
 kuwaho	rennet	0	0	1	0
 ako	me	0	0	1	1
 ako	i am	0	0	1	0
-milagros	milagros	0	0	1	0
+nagdarasal	praying	0	0	1	0
 sikh	sikh	0	0	1	0
-nabanas	annoyed or irritated	0	0	1	0
-nabanas	irritated	0	0	1	0
+kurosaki	name of a person	0	0	1	0
 pansin	notice	0	0	1	1
 pansin	attention	0	0	1	1
 pansin	focus	0	0	1	0
@@ -4493,7 +4373,6 @@ mandaluyong	mandaluyong	0	0	1	0
 program	program	0	0	1	0
 bumabalot	covered	0	0	1	0
 bumabalot	surrounded	0	0	1	0
-pagtatag	to create	0	0	1	0
 pagtatag	establishment	0	0	1	0
 pagtatag	establishing	0	0	1	0
 kapiling	i am with	0	0	1	0
@@ -4501,9 +4380,7 @@ kapiling	with	0	0	1	0
 kapiling	together	0	0	1	0
 pamayanan	community	0	0	1	0
 award	award	0	0	1	0
-desiderata	desiderata	0	0	1	0
-desiderata	not a tagalog word	0	0	1	0
-desiderata	desires	0	0	1	0
+aspeto	aspect	0	0	1	0
 kapatid	sibling	0	0	1	1
 bedelyo	name of  a plant bdellium	1	0	1	0
 bedelyo	bidellium	1	0	1	0
@@ -4534,10 +4411,11 @@ pagpapakalat	spreading	0	0	1	0
 pagpapakalat	spread	0	0	1	0
 imbentor	inventor	0	0	1	1
 india	india	0	0	1	0
-tansong	brass	0	0	1	0
-tansong	iron	0	0	1	0
-tansong	bronze	0	0	1	0
-distribusyon	distribution	0	0	1	0
+pagpupuring	praises	0	0	1	0
+pagpupuring	compliment	0	0	1	0
+pagpupuring	to give honour	0	0	1	0
+magpalabas	to show	0	0	1	0
+magpalabas	show	0	0	1	0
 pinanggalingan	origin	0	0	1	0
 pinanggalingan	source	0	0	1	1
 pagtutuos	core	1	0	1	0
@@ -4703,7 +4581,6 @@ angat	raised	0	0	1	0
 matugunan	answer	0	0	1	0
 matugunan	meet	0	0	1	0
 makabayan	patriotic	0	0	1	1
-makabayan	patrioic	0	0	1	0
 makabayan	nationalist	0	0	1	0
 babilonyano	babylon	0	0	1	0
 babilonyano	babylonian	0	0	1	0
@@ -4711,9 +4588,6 @@ palau	palau	0	0	1	0
 network	network	0	0	1	0
 palay	rice	0	0	1	1
 palay	grain	0	0	1	0
-nahati	divided	0	0	1	0
-nahati	divide	0	0	1	0
-nahati	halved	0	0	1	0
 kasagsagan	prosperity	0	0	1	0
 kasagsagan	at the height of	0	0	1	0
 kasagsagan	height	0	0	1	0
@@ -4747,7 +4621,7 @@ pagbisita	visit	0	0	1	0
 paghahambing	comparison	0	0	1	1
 tukudlangit	skyscraper	0	0	1	0
 molave	molave	0	0	1	0
-autonomiya	autonomy	0	0	1	0
+elric	elric	0	0	1	0
 tanghalan	theater	1	1	1	1
 tanghalan	theatre	1	1	0	0
 tanghalan	exhibition	1	0	1	1
@@ -4759,10 +4633,8 @@ bumababa	going down	0	0	1	0
 bumababa	lowered	0	0	1	0
 bumababa	descending	0	0	1	0
 malubhang	severe	0	0	1	0
-malubhang	worse	0	0	1	0
 malubhang	grave	0	0	1	0
 diyalekto	dialect	0	0	1	1
-diyalekto	language	0	0	1	0
 responsable	responsible	0	0	1	1
 badjao	badjao	0	0	1	0
 iginigiit	forced	0	0	1	0
@@ -4921,7 +4793,6 @@ iskultor	sculptor	0	0	1	1
 tuloytuloy	continuous	0	0	1	1
 tuloytuloy	continous	0	0	1	0
 inihanda	ready	0	0	1	0
-inihanda	readied	0	0	1	0
 inihanda	prepared	0	0	1	0
 mnlf	(abbreviation of moro national liberation front)	0	0	1	0
 mnlf	mnlf	0	0	1	0
@@ -4956,6 +4827,7 @@ pagkakataong	chance to	0	0	1	0
 pinamahalaan	governed	0	0	1	0
 bisitahin	to visit	0	0	1	1
 bisitahin	visit	0	0	1	1
+christian	christian	0	0	1	0
 imperyalismo	imperialism	1	1	1	0
 imperyalismo	souls	1	0	1	0
 tydingsmcduffie	tydings-mcduffie	0	0	1	0
@@ -4991,7 +4863,6 @@ tagpuan	meeting place	0	0	1	1
 tagpuan	rendezvous	0	0	1	1
 higpit	tight	0	0	1	0
 higpit	tightness	0	0	1	0
-climate	climate	0	0	1	0
 pinal	final	0	0	1	1
 pangunguna	leadership	0	0	1	0
 pangunguna	lead	0	0	1	0
@@ -5001,7 +4872,6 @@ paguuri	classifying	0	0	1	0
 paguuri	classification	0	0	1	0
 paguuri	identifying	0	0	1	0
 pinag	made to	0	0	1	0
-pinag	to order to	0	0	1	0
 utusan	servant	0	0	1	1
 utusan	assistant	0	0	1	0
 utusan	maid	0	0	1	0
@@ -5052,7 +4922,6 @@ palabasin	let out	0	0	1	0
 palabasin	showed	0	0	1	0
 opiser	official	0	0	1	0
 opiser	officer	0	0	1	0
-pagaalala	remembering	0	0	1	0
 pagaalala	worry	0	0	1	0
 sabtang	sabtang	0	0	1	0
 mahika	magic	0	0	1	0
@@ -5068,8 +4937,8 @@ nagasawa	got married	0	0	1	0
 magtataguyod	to push through	0	0	1	0
 magtataguyod	uphold	0	0	1	0
 magtataguyod	will establish	0	0	1	0
-kataastaasang	supreme	0	0	1	0
-kataastaasang	highest	0	0	1	0
+kakilala	acquaintance	0	0	1	1
+kakilala	know	0	0	1	0
 oligarkiya	oligarchy	0	0	1	0
 applied	applied	0	0	1	0
 matitinding	urge	0	0	1	0
@@ -5083,13 +4952,11 @@ gnu	gnu	0	0	1	0
 bibliyograpiya	bibliography	0	0	1	0
 katabi	beside	0	0	1	1
 katabi	close	0	0	1	0
-gng	misis	0	0	1	0
 gng	mrs	0	0	1	0
 lahi	race	0	0	1	1
 lahi	ethnicity	0	0	1	0
 nagtutulak	pushing	0	0	1	0
 nagtutulak	driving	0	0	1	0
-papalapit	near	0	0	1	0
 papalapit	nearing	0	0	1	0
 pagbabawas	minimze or lessen	0	0	1	0
 pagbabawas	declining	0	0	1	0
@@ -5101,10 +4968,9 @@ enerhiyang	energy	0	0	1	0
 bakulaw	beast	0	0	1	0
 bakulaw	fiend	0	0	1	0
 bakulaw	gorrila or big monkey	0	0	1	0
-dinaranas	experienced	0	0	1	0
-dinaranas	experience	0	0	1	0
+antipolo	name of a place	0	0	1	0
+antipolo	antipolo	0	0	1	0
 sekwensiyang	sequence	0	0	1	0
-ring	also	0	0	1	0
 nakiusap	requested	0	0	1	0
 nakiusap	pleaded	0	0	1	0
 nakiusap	begged	0	0	1	0
@@ -5175,7 +5041,6 @@ pagkabalisa	anxious	0	0	1	0
 pagkabalisa	confusion	0	0	1	0
 pagkabalisa	anxiety	0	0	1	1
 indigo	indigo (name of plant)	0	0	1	0
-indigo	indigo	0	0	1	0
 sangay	branch	0	0	1	1
 tuwa	joy	0	0	1	1
 tuwa	happiness	0	0	1	0
@@ -5231,7 +5096,6 @@ nakasuot	wearing	0	0	1	0
 nangungumpisal	confessing	0	0	1	0
 arab	arab	0	0	1	0
 aral	study	0	0	1	1
-aral	lesson	0	0	1	1
 aral	learn	0	0	1	0
 kontribusyon	contribution	0	0	1	1
 isinalaysay	recounted	0	0	1	0
@@ -5247,7 +5111,6 @@ lasak	anger	0	0	1	0
 lasak	wrath	0	0	1	0
 lasak	rooster	0	0	1	0
 kilatis	scrutinize	0	0	1	0
-kilatis	investigate	0	0	1	0
 gandhi	gandhi	0	0	1	0
 night	night	0	0	1	0
 nangyaring	event	0	0	1	0
@@ -5264,7 +5127,6 @@ salin	translation	0	0	1	0
 salin	version	0	0	1	1
 korea	korea	0	0	1	0
 tenka	name of a person	0	0	1	0
-pagkonsumo	consuming	0	0	1	0
 pagkonsumo	consume	0	0	1	0
 pagkonsumo	consumption	0	0	1	0
 pangkatawan	personal	0	0	1	0
@@ -5286,7 +5148,6 @@ nagsabing	says	0	0	1	0
 puting	white	0	0	1	0
 sinasamba	worship	0	0	1	0
 sinasamba	to believe in	0	0	1	0
-luhaang	teary	0	0	1	0
 luhaang	teary-eyed	0	0	1	0
 luhaang	tearfully	0	0	1	0
 pagkabigla	shock	0	0	1	1
@@ -5297,8 +5158,8 @@ magkaharap	facing each other	0	0	1	0
 magkaharap	face to face	0	0	1	1
 itinatalaga	assigned	0	0	1	0
 itinatalaga	appointed	0	0	1	0
-pagusad	move on	0	0	1	0
 pagusad	to move	0	0	1	0
+pagusad	move on	0	0	1	0
 marketing	marketing	0	0	1	0
 pagkamartir	to be a martyr	0	0	1	0
 pagkamartir	martyrdom	0	0	1	0
@@ -5320,8 +5181,8 @@ monoteismo	monotheism	0	0	1	0
 monoteismo	oneism	0	0	1	0
 aguilar	aguilar (surname)	0	0	1	0
 pangkulturang	cultural	0	0	1	0
-anime	not a tagalog word	0	0	1	0
 anime	animation	0	0	1	0
+anime	not a tagalog word	0	0	1	0
 eksaktong	exact	0	0	1	0
 mayayamang	rich	0	0	1	0
 mayayamang	prosperous	0	0	1	0
@@ -5407,7 +5268,7 @@ prayer	prayer	0	0	1	0
 nagkakaroon	having	0	0	1	0
 pangkasaysayan	historic	0	0	1	1
 pangkasaysayan	historical	0	0	1	1
-samantalang	meanwhile	0	0	1	0
+idinaos	held	0	0	1	0
 reality	katotohanan	0	0	1	0
 holding	holding	0	0	1	0
 test	test	0	0	1	0
@@ -5425,7 +5286,6 @@ agham	master	1	0	1	0
 agham	concert	1	0	1	0
 kumakanta	singing	0	0	1	0
 langaw	fly	0	0	1	1
-langaw	flies	0	0	1	0
 langaw	housefly	0	0	1	1
 tagilo	pyramid	1	1	0	0
 tagilo	concert	1	0	1	0
@@ -5465,13 +5325,11 @@ pagsesermon	preaching	0	0	1	0
 nagpupugay	honoring	0	0	1	0
 nagpupugay	salute	0	0	1	0
 nagsimulang	started	0	0	1	0
-nagsimulang	it start	0	0	1	0
 tanong	question	0	0	1	1
 pintor	painter	0	0	1	1
 kagalingan	talent	0	0	1	0
 kagalingan	virtue	0	0	1	0
 kagalingan	knowledge	0	0	1	0
-patakarang	regulations	0	0	1	0
 patakarang	policy	0	0	1	0
 patakarang	law	0	0	1	0
 tumukoy	pertaining	0	0	1	0
@@ -5491,7 +5349,6 @@ charles	name of a person	0	0	1	0
 komiks	comics	0	0	1	1
 pagpapahayag	statement	0	0	1	0
 pagpapahayag	expressing	0	0	1	0
-pagpapahayag	proclaim	0	0	1	0
 palatandaan	marker	0	0	1	0
 palatandaan	clue	0	0	1	1
 palatandaan	signs	0	0	1	0
@@ -5510,9 +5367,7 @@ pagtugtog	playing	0	0	1	0
 pagtugtog	played	0	0	1	0
 upper	upper	0	0	1	0
 pinaka	most	0	0	1	1
-naibalita	news	0	0	1	0
-naibalita	announced	0	0	1	0
-naibalita	reported	0	0	1	0
+ehrmann	ehrmann	0	0	1	0
 tumpak	precisely	0	0	1	0
 tumpak	correct	0	0	1	1
 pinakamalaki	biggest	0	0	1	0
@@ -5541,8 +5396,7 @@ kasunduan	contract	0	0	1	1
 kasunduan	treaty	0	0	1	1
 mamili	shop	0	0	1	1
 mamili	choose	0	0	1	1
-aling	older lady	0	0	1	0
-aling	which	0	0	1	0
+paanyaya	invitation	0	0	1	1
 silangang	east	0	0	1	0
 silangang	eastern	0	0	1	0
 pagkakita	found	0	0	1	0
@@ -5567,7 +5421,6 @@ trias	trias	0	0	1	0
 islamiko	islamic	0	0	1	0
 islamiko	islam	0	0	1	0
 maputi	fair skinned	0	0	1	0
-maputi	fair complexion	0	0	1	0
 maputi	white	0	0	1	1
 nakita	seen	0	0	1	0
 nakita	saw	0	0	1	0
@@ -5598,9 +5451,9 @@ tagalathala	publisher	0	0	1	0
 tagalathala	to announce	0	0	1	0
 naglaro	played	0	0	1	0
 enrile	enrile	0	0	1	0
-isinaayos	organized	0	0	1	0
-isinaayos	organize	0	0	1	0
 isinaayos	arranged	0	0	1	0
+isinaayos	organize	0	0	1	0
+isinaayos	organized	0	0	1	0
 turuan	teach	0	0	1	1
 turuan	apprentice	0	0	1	0
 angela	angela (first name)	0	0	1	0
@@ -5621,14 +5474,13 @@ punungkatawan	torso	1	1	0	0
 punungkatawan	trunk of the body	1	0	1	0
 punungkatawan	man	1	0	1	0
 pinagtatalunan	argue	0	0	1	0
-pinagtatalunan	quarrel over with	0	0	1	0
 pinagtatalunan	argued over	0	0	1	0
+pinagtatalunan	quarrel over with	0	0	1	0
 commissioner	commisioner	0	0	1	0
 sanang	hopefully	0	0	1	0
 club	club	0	0	1	0
 pakikilahok	joined	0	0	1	0
 pakikilahok	meddling	0	0	1	0
-pakikilahok	joining	0	0	1	0
 pinakabatang	youngest	0	0	1	0
 alternatibo	alternative	0	0	1	1
 rebelde	rebel	0	0	1	1
@@ -5652,9 +5504,7 @@ administratibo	administrative	0	0	1	0
 dinamarka	denmark	0	0	1	0
 heart	heart	0	0	1	0
 chiu	chiu	0	0	1	0
-tinamaan	hit	0	0	1	0
-tinamaan	got hit	0	0	1	0
-tinamaan	was hit	0	0	1	0
+paghahanda	preparation	0	0	1	1
 nalalabi	remaining	0	0	1	1
 gastos	expense	0	0	1	1
 gastos	expenditure	0	0	1	1
@@ -5664,7 +5514,6 @@ pagsamba	worship	0	0	1	1
 pagsamba	praise	0	0	1	0
 ildefonso	ildefonso	0	0	1	0
 transisyon	transition	0	0	1	0
-transisyon	tranciation	0	0	1	0
 ipinasiya	decided	0	0	1	0
 magazine	magazine	0	0	1	0
 weimar	weimar	0	0	1	0
@@ -5696,9 +5545,8 @@ habag	mercy	0	0	1	1
 habag	kind hearted	0	0	1	0
 kura	curate	0	0	1	0
 kura	minister	0	0	1	0
-sumuporta	to support	0	0	1	0
-sumuporta	support	0	0	1	0
-sumuporta	who supported	0	0	1	0
+katao	individuals	0	0	1	0
+katao	people	0	0	1	0
 ulan	rain	0	0	1	1
 tableta	tablet	0	0	1	1
 pasko	christmas	0	0	1	1
@@ -5738,7 +5586,6 @@ umaayon	agree	0	0	1	0
 nol	nol	0	0	1	0
 hustong	right at the site	0	0	1	0
 hustong	adequate	0	0	1	0
-hustong	exact	0	0	1	0
 noo	forehead	1	1	1	1
 noo	jewish	1	0	1	0
 lumaganap	spread	0	0	1	0
@@ -5778,7 +5625,6 @@ tumiwalag	resigned	0	0	1	0
 tumiwalag	to back-out	0	0	1	0
 ed	ed	0	0	1	0
 pagbibitiw	resigning	0	0	1	0
-pagbibitiw	to resign	0	0	1	0
 pagbibitiw	or for this case resignation	0	0	1	0
 pagbibitiw	letting go	0	0	1	0
 ilocano	native of ilocos	0	0	1	0
@@ -5802,7 +5648,6 @@ space	space	0	0	1	0
 mamuno	leadership	0	0	1	0
 mamuno	lead	0	0	1	1
 tanggap	accepted	0	0	1	0
-tanggap	accept	0	0	1	0
 paayap	cowpea	1	1	0	1
 marahas	violent	0	0	1	1
 marahas	harsh	0	0	1	0
@@ -5826,13 +5671,11 @@ hirap	hardness	0	0	1	0
 carl	carl	0	0	1	0
 eksperimental	experiment	0	0	1	0
 eksperimental	experimental	0	0	1	0
-radyus	radius	0	0	1	0
-radyus	raduis	0	0	1	0
+naghirap	endured hardship	0	0	1	0
+naghirap	poverty	0	0	1	0
 marine	marine	0	0	1	0
 care	care	0	0	1	0
-pagdidiin	explained	0	0	1	0
-pagdidiin	emphasizing	0	0	1	0
-pagdidiin	stressed	0	0	1	0
+molekula	molecule	0	0	1	0
 babarilin	shoot	0	0	1	0
 babarilin	shot	0	0	1	0
 impluwensya	influence	0	0	1	0
@@ -5867,7 +5710,6 @@ dalawamput	twenty	0	0	1	0
 flerida	flerida (name)	0	0	1	0
 rumanya	romania	0	0	1	0
 organisasyon	organization	0	0	1	1
-magbalik	to return	0	0	1	1
 magbalik	return	0	0	1	1
 nanghinayang	regretted	0	0	1	0
 nanghinayang	regret	0	0	1	0
@@ -5907,7 +5749,6 @@ nadagdag	additional	0	0	1	0
 inilahad	presented	0	0	1	0
 inilahad	stated	0	0	1	0
 magingat	careful	0	0	1	0
-magingat	to be careful	0	0	1	0
 magingat	be safe	0	0	1	0
 nauukol	pertaining	0	0	1	0
 nauukol	intended	0	0	1	0
@@ -5916,7 +5757,6 @@ kumupkop	give shelter	0	0	1	0
 kumupkop	adopt	0	0	1	0
 nagdurusa	suffering	0	0	1	0
 santiago	santiago	0	0	1	0
-nagpapahayag	to proclaim	0	0	1	0
 nagpapahayag	conveys	0	0	1	0
 nagpapahayag	indicating	0	0	1	0
 kaparehong	similar	0	0	1	0
@@ -5989,16 +5829,13 @@ wangis	copy	0	0	1	0
 wangis	likeness	0	0	1	0
 wangis	semblance	0	0	1	1
 almusal	breakfast	0	0	1	1
-radyal	name of a place	0	0	1	0
 radyal	radial	0	0	1	0
 lapulapu	lapu-lapu	0	0	1	0
 lapulapu	lapu-lapu (name)	0	0	1	0
 muling	again	0	0	1	0
 kiko	kiko	0	0	1	0
 kiko	kiko (name)	0	0	1	0
-luzon	luzon	0	0	1	0
 ipinaghanda	prepared	0	0	1	0
-ipinaghanda	to be prepared	0	0	1	0
 linggwistika	liguist	0	0	1	0
 linggwistika	linguistics	0	0	1	0
 linggwistika	linguistic	0	0	1	0
@@ -6009,7 +5846,6 @@ pakikipagtalastasan	interaction	0	0	1	0
 unidos	united	0	0	1	0
 matutunan	to learn; will learn	0	0	1	0
 matutunan	learn	0	0	1	0
-laya	freedom	0	0	1	1
 laya	free	0	0	1	1
 pangkultura	for culture	0	0	1	0
 pangkultura	cultural	0	0	1	0
@@ -6028,10 +5864,8 @@ bulgaria	name of a place	0	0	1	0
 bulgaria	bulgaria	0	0	1	0
 paghubog	to mold	0	0	1	0
 paghubog	mold	0	0	1	0
-paghubog	shaping	0	0	1	0
 nailigtas	saved	0	0	1	0
 nangako	promised	0	0	1	0
-nangako	had promise	0	0	1	0
 naunawaan	understood	0	0	1	0
 karagdagang	additional	0	0	1	0
 eskwelahan	school	0	0	1	1
@@ -6056,7 +5890,6 @@ matanda	elder	0	0	1	1
 matanda	adult	0	0	1	1
 matanda	elderly	0	0	1	0
 between	pagitan	0	0	1	0
-between	between	0	0	1	0
 ipinahayag	reported	0	0	1	0
 ipinahayag	declared	0	0	1	0
 ipinahayag	stated	0	0	1	0
@@ -6075,9 +5908,9 @@ dulaang	theater play	0	0	1	0
 mapagmamasdang	observed	0	0	1	0
 mapagmamasdang	seen	0	0	1	0
 mapagmamasdang	view	0	0	1	0
-hawak	held	0	0	1	1
-hawak	hold	0	0	1	1
-hawak	possess	0	0	1	0
+kabaliwan	insane	0	0	1	0
+kabaliwan	insanity	0	0	1	1
+kabaliwan	craziness	0	0	1	1
 proteksiyon	protection	0	0	1	0
 paham	wise man	0	0	1	1
 paham	doctor	0	0	1	0
@@ -6151,7 +5984,6 @@ atakihin	attack	0	0	1	1
 kinansela	cancelled	0	0	1	0
 kinansela	canceled	0	0	1	0
 sulatin	writings	0	0	1	0
-sulatin	writing	0	0	1	0
 kenya	kenya	0	0	1	0
 nasusulat	written	0	0	1	0
 magellan	magellan	0	0	1	0
@@ -6165,15 +5997,12 @@ pagkakaganap	happening	0	0	1	0
 pinakamataas	highest	0	0	1	1
 natanggap	received	0	0	1	0
 natanggap	recieving	0	0	1	0
-nilarawan	describe	0	0	1	0
 nilarawan	described	0	0	1	0
-nilarawan	picture out	0	0	1	0
 lito	lito	0	0	1	0
 lito	confused	0	0	1	0
 kasagutan	answer	0	0	1	0
 kalakaran	ways	0	0	1	0
 kalakaran	trend	0	0	1	0
-kalakaran	trade	0	0	1	0
 buwis	tax	0	0	1	1
 kalookan	caloocan	0	0	1	0
 palanca	name of a person	0	0	1	0
@@ -6210,7 +6039,7 @@ eto	this	0	0	1	0
 eto	here	0	0	1	1
 kauriananime	not a tagalog word	0	0	1	0
 severe	severe	0	0	1	0
-pader	wall	0	0	1	0
+dokumento	document	0	0	1	1
 duplo	poem	0	0	1	0
 duplo	debate	0	0	1	0
 natatangi	different	0	0	1	0
@@ -6240,7 +6069,6 @@ pangkura	for clergy	0	0	1	0
 pangkura	priesthood	0	0	1	0
 lumagda	to sign	0	0	1	0
 lumagda	signed	0	0	1	0
-halaman	plants	0	0	1	0
 halaman	plant	0	0	1	1
 real	real (place)	0	0	1	0
 real	tunay	0	0	1	0
@@ -6256,14 +6084,13 @@ ruler	ruler	0	0	1	0
 nakasentro	centered	0	0	1	0
 manobo	manobo	0	0	1	0
 sagrado	sacred	0	0	1	1
-pahirap	torture	0	0	1	1
 pahirap	burden	0	0	1	1
+pahirap	torture	0	0	1	1
 pambatas	legislative	0	0	1	1
 pambatas	by law	0	0	1	0
 pambatas	law	0	0	1	0
 ehipsiyo	egyptian	0	0	1	0
 harap	front	0	0	1	1
-harap	in-front	0	0	1	0
 demograpiya	demographics	0	0	1	0
 demograpiya	demography	0	0	1	0
 moreno	brown	0	0	1	1
@@ -6354,15 +6181,14 @@ kalangitan	sky	0	0	1	0
 kalangitan	skies	0	0	1	0
 modelo	model	0	0	1	1
 bautismo	baptism	0	0	1	1
+arabic	arabic	0	0	1	0
 nailapat	applied	0	0	1	0
 nailapat	adjust	0	0	1	0
-tinubuang	birth place	0	0	1	0
 tinubuang	birth	0	0	1	0
 tinubuang	native	0	0	1	0
 paroko	parish priest	0	0	1	0
 paroko	priest	0	0	1	0
 takangtaka	surprised	0	0	1	0
-takangtaka	wondering	0	0	1	0
 takangtaka	wonder	0	0	1	0
 patakbong	manner of running	0	0	1	0
 patakbong	run	0	0	1	0
@@ -6373,13 +6199,9 @@ itinaboy	drive away	0	0	1	0
 itinaboy	cast out	0	0	1	0
 protesta	protest	0	0	1	1
 crisostomo	crisostomo	0	0	1	0
-sinasakyan	ridden	0	0	1	0
-sinasakyan	riding	0	0	1	0
-sinasakyan	vehicle	0	0	1	0
 datirati	past	0	0	1	0
 datirati	before	0	0	1	0
 kasamang	company	0	0	1	0
-kasamang	companion	0	0	1	0
 pinuno	leader	0	0	1	1
 pamamaalam	farewell	0	0	1	1
 los	los	0	0	1	0
@@ -6388,7 +6210,6 @@ amain	stepfather or uncle	0	0	1	0
 amain	uncle	0	0	1	1
 amain	father	0	0	1	0
 low	low	0	0	1	0
-manganganak	about to give birth	0	0	1	0
 manganganak	deliver	0	0	1	0
 manganganak	on labor	0	0	1	0
 valencia	valencia	0	0	1	0
@@ -6432,7 +6253,7 @@ homosexual	homosexual	0	0	1	0
 lawak	wide	1	1	1	0
 lawak	government	1	0	1	0
 lawak	space	1	1	0	0
-lawak	area	1	1	1	1
+lawak	area	1	1	0	1
 lawak	expanse	1	0	1	1
 lawak	width	1	1	0	0
 lawak	depth	1	0	1	0
@@ -6447,7 +6268,6 @@ panloob	inside	0	0	1	1
 panloob	internal	0	0	1	0
 panloob	inner	0	0	1	1
 arabe	arab	0	0	1	0
-gamiting	to use	0	0	1	0
 gamiting	used	0	0	1	0
 pagulan	raining	0	0	1	0
 pagulan	rain	0	0	1	0
@@ -6486,10 +6306,7 @@ maigting	the heat of the story	0	0	1	0
 tabing	visor	0	0	1	0
 tabing	side	0	0	1	0
 tabing	stage	0	0	1	0
-paunlarin	prosper	0	0	1	0
-paunlarin	develop	0	0	1	0
-paunlarin	improve	0	0	1	0
-isipan	thought	0	0	1	0
+teknikal	technical	0	0	1	0
 isipan	mind	0	0	1	1
 paglalathala	publishing	0	0	1	0
 paglalathala	published	0	0	1	0
@@ -6498,7 +6315,6 @@ nayon	town	0	0	1	0
 nayon	countryside	0	0	1	0
 nayon	village	0	0	1	1
 protinang	protein	0	0	1	0
-matipunong	solid	0	0	1	0
 matipunong	muscular	0	0	1	0
 matipunong	handsome	0	0	1	0
 monte	monte	0	0	1	0
@@ -6507,7 +6323,6 @@ inaasahan	expecting	0	0	1	0
 inaasahan	expect	0	0	1	0
 tuwid	straight	0	0	1	1
 nagpasimula	started	0	0	1	0
-nagpasimula	to cause	0	0	1	0
 dinaluhan	attended	0	0	1	0
 nakulong	jailed	0	0	1	0
 nakulong	imprisoned	0	0	1	0
@@ -6524,7 +6339,8 @@ armas	munition	0	0	1	0
 kinilalang	known	0	0	1	0
 kinilalang	recognized	0	0	1	0
 elias	alias	0	0	1	0
-aspeto	aspect	0	0	1	0
+kanlurang	west	0	0	1	0
+kanlurang	western	0	0	1	1
 pabalik	come back	0	0	1	0
 pabalik	backwards	0	0	1	0
 pabalik	return	0	0	1	0
@@ -6568,9 +6384,6 @@ magdalena	magdalene	0	0	1	0
 paghawak	hold	0	0	1	0
 paghawak	handle	0	0	1	0
 paghawak	toting	0	0	1	0
-naririnig	hear	0	0	1	0
-naririnig	can hear	0	0	1	0
-naririnig	hearing	0	0	1	0
 lohikal	logical	0	0	1	0
 napasailalim	underwent	0	0	1	0
 napasailalim	went under	0	0	1	0
@@ -6588,12 +6401,11 @@ makalimutan	forget	0	0	1	1
 makalimutan	to forget	0	0	1	0
 magsisilbing	serve as	0	0	1	0
 magsisilbing	serve	0	0	1	0
-magsisilbing	to serve as	0	0	1	0
 tabako	tobacco	0	0	1	1
 polines	polines	0	0	1	0
 polines	polynesian	0	0	1	0
 polines	polynesia	0	0	1	0
-atake	attack	0	0	1	1
+kumbensyon	convention	0	0	1	0
 pangangailangang	need	0	0	1	0
 pangangailangang	needs	0	0	1	0
 kastilang	spanish	0	0	1	0
@@ -6609,7 +6421,6 @@ kimi	shy	0	0	1	1
 kimi	modest	0	0	1	0
 sunudsunod	consecutive	0	0	1	0
 sunudsunod	continuous	0	0	1	0
-sunudsunod	one after another	0	0	1	0
 iraq	iraq	0	0	1	0
 makabagong	modern	0	0	1	0
 makabagong	newest	0	0	1	0
@@ -6697,10 +6508,9 @@ nagtataguyod	retaining	0	0	1	0
 nagtataguyod	supporting	0	0	1	0
 nagtataguyod	promotes	0	0	1	0
 konseho	council	0	0	1	1
-nina	both	0	0	1	0
 nina	of	0	0	1	0
+nina	both	0	0	1	0
 sapilitang	forced	0	0	1	0
-sapilitang	to force	0	0	1	0
 pandiwa	verb	0	0	1	1
 yemen	yemen	0	0	1	0
 talababa	footnote	0	0	1	0
@@ -6733,23 +6543,25 @@ nalalaman	awareness	0	0	1	0
 kababayan	countryman	0	0	1	1
 kababayan	compatriot	0	0	1	1
 kababayan	countrymen	0	0	1	0
-itinago	hide	0	0	1	0
-itinago	hidden	0	0	1	0
 itinago	hid	0	0	1	0
+itinago	hidden	0	0	1	0
+itinago	hide	0	0	1	0
 tinitingala	admired	0	0	1	0
 tinitingala	revered	0	0	1	0
 tinitingala	praised	0	0	1	0
 nakatagpo	met	0	0	1	0
 nakatagpo	meet	0	0	1	0
 interaksyon	interaction	0	0	1	0
-molekula	molecule	0	0	1	0
+long	long	0	0	1	0
+pagdidiin	explained	0	0	1	0
+pagdidiin	emphasizing	0	0	1	0
+pagdidiin	stressed	0	0	1	0
 fe	fe	0	0	1	0
 gagamba	state	1	0	1	0
 gagamba	spider	1	1	0	1
 choice	choice	0	0	1	0
 masasangkot	involve	0	0	1	0
 masasangkot	involved	0	0	1	0
-masasangkot	going to be involved with	0	0	1	0
 dialektong	dialect	0	0	1	0
 dadalaw	to visit	0	0	1	0
 dadalaw	visit	0	0	1	0
@@ -6784,7 +6596,6 @@ bahay-bata	womb	1	1	0	0
 nakatindig	standing	0	0	1	1
 nakatindig	standing upright	0	0	1	0
 menoridad	minority	0	0	1	0
-kadalasan	oftentimes	0	0	1	0
 kadalasan	frequently	0	0	1	1
 kadalasan	always	0	0	1	0
 nakipagnegosasyon	negotiation	0	0	1	0
@@ -6795,7 +6606,6 @@ kadalasay	always	0	0	1	0
 kadalasay	usual	0	0	1	0
 yi	yi	0	0	1	0
 palanan	palanan	0	0	1	0
-yo	you	0	0	1	0
 food	food	0	0	1	0
 tagapagpaganap	respresentative	1	0	1	0
 tagapagpaganap	anecdotes	1	0	1	0
@@ -6805,9 +6615,7 @@ tagapagpaganap	anecdote	1	0	1	0
 tagapagpaganap	implementing	1	0	1	0
 tagapagpaganap	representative	1	1	0	0
 tagapagpaganap	executor	1	1	0	0
-hinarangan	blocked	0	0	1	0
 yg	yg	0	0	1	0
-tugma	match	0	0	1	0
 tugma	matched	0	0	1	0
 sotakon	sotakon	0	0	1	0
 modipikasyon	modification	0	0	1	0
@@ -6827,8 +6635,8 @@ kontinenteng	continent	0	0	1	0
 koleksiyon	collection	0	0	1	0
 institusyon	institution	0	0	1	1
 pakundangan	disrespectfully; inconsiderately	0	0	1	0
-pakundangan	mercy	0	0	1	0
 pakundangan	respect	0	0	1	1
+pakundangan	mercy	0	0	1	0
 islamikong	islamic	0	0	1	0
 islamikong	islam (adjective form)	0	0	1	0
 islamikong	islam	0	0	1	0
@@ -6920,7 +6728,6 @@ malubha	terminal	0	0	1	0
 malubha	severe	0	0	1	0
 malubha	critical	0	0	1	1
 misa	mass	0	0	1	1
-kapag	if it happens	0	0	1	0
 kapag	if	0	0	1	1
 river	river	0	0	1	0
 kapal	thick	0	0	1	0
@@ -6965,7 +6772,7 @@ umaga	morning	0	0	1	1
 sta	santa	0	0	1	0
 sta	saint	0	0	1	0
 sto	saint (sto is abbreviation of santo)	0	0	1	0
-kapanganakan	birth	0	0	1	1
+pagkakamali	mistake	0	0	1	1
 sti	sexually transmitted disease	0	0	1	0
 pipiliin	will choose	0	0	1	0
 pipiliin	choose	0	0	1	0
@@ -6986,7 +6793,6 @@ abasto	provoked	1	0	1	0
 abasto	abastos	1	0	1	0
 nagpakasal	married	0	0	1	0
 nagpakasal	married to	0	0	1	0
-mayroong	has	0	0	1	0
 mayroong	have	0	0	1	0
 mayroong	there is	0	0	1	0
 kard	last	1	0	1	0
@@ -7018,9 +6824,7 @@ nangangailangan	in need	0	0	1	0
 nangangailangan	require	0	0	1	0
 nangangailangan	needing	0	0	1	0
 ponemang	phoneme	0	0	1	0
-relikya	remains	0	0	1	0
 relikya	relic	0	0	1	1
-kag	and	0	0	1	0
 pagtatayo	building	0	0	1	0
 pagtatayo	to start up something	0	0	1	0
 pagtatayo	construction	0	0	1	1
@@ -7055,7 +6859,6 @@ kabataan	childhood days	0	0	1	0
 repormang	reform	0	0	1	0
 naglalagay	placing	0	0	1	0
 naglalagay	applying	0	0	1	0
-physics	physics	0	0	1	0
 sinubok	tried	0	0	1	0
 kategoryaagham	science category	0	0	1	0
 kategoryaagham	category:science	0	0	1	0
@@ -7083,7 +6886,6 @@ nasaan	where	0	0	1	0
 northern	northern	0	0	1	0
 hanggat	until	0	0	1	0
 katamtamang	average	0	0	1	0
-katamtamang	just about right	0	0	1	0
 katamtamang	right about	0	0	1	0
 salamin	mirror	0	0	1	1
 ikot	turn	0	0	1	1
@@ -7147,7 +6949,7 @@ kabesang	mister	0	0	1	0
 hydroheno	hydrogen	0	0	1	0
 pamantayan	rules	0	0	1	0
 pamantayan	guidelines	0	0	1	0
-pagkakamali	mistake	0	0	1	1
+kapanganakan	birth	0	0	1	1
 mesopotamya	mesopotamia	0	0	1	0
 hinahawakan	holding	0	0	1	0
 pangkasarian	gender	0	0	1	0
@@ -7157,7 +6959,7 @@ kilos	action	0	0	1	1
 kilos	move	0	0	1	1
 kilos	act	0	0	1	1
 crame	crame	0	0	1	0
-gabing	night	0	0	1	0
+radyo	radio	0	0	1	1
 makatagpo	meet	0	0	1	0
 pinggan	plate	0	0	1	1
 uubusin	to consume	0	0	1	0
@@ -7183,7 +6985,6 @@ talatang	paragraph	0	0	1	0
 talatang	stanza	0	0	1	0
 sagradong	sacred	0	0	1	0
 panggagamot	medicine	0	0	1	0
-panggagamot	healing	0	0	1	0
 kahihinatnan	result	0	0	1	0
 kahihinatnan	ending	0	0	1	0
 gumuhit	draw	0	0	1	1
@@ -7201,8 +7002,8 @@ lalabas	come out	0	0	1	0
 anoa	not a tagalog word	0	0	1	0
 catanduanes	name of a place	0	0	1	0
 catanduanes	catanduanes	0	0	1	0
-maykapansanan	disabled	0	0	1	0
-maykapansanan	diabled	0	0	1	0
+kasarinlan	freedom	0	0	1	1
+kasarinlan	independence	0	0	1	1
 buhat	carry	0	0	1	1
 buhat	since	0	0	1	1
 buhat	ever since	0	0	1	0
@@ -7240,7 +7041,6 @@ dami	number	0	0	1	0
 damo	grass	0	0	1	1
 ¹	one	0	0	1	0
 inuulit	repeated	0	0	1	0
-inuulit	repeat	0	0	1	0
 inuulit	to repeat	0	0	1	0
 imam	not a tagalog word	0	0	1	0
 lokasyon	vessel	1	0	1	0
@@ -7310,9 +7110,8 @@ binansagan	dubbed	0	0	1	0
 binansagan	gave alias	0	0	1	0
 binansagan	termed	0	0	1	0
 lim	lim	0	0	1	0
-itakda	appoint	0	0	1	1
-itakda	set up	0	0	1	0
 itakda	assigned	0	0	1	0
+itakda	set up	0	0	1	0
 imperyo	hell	1	0	1	0
 imperyo	imperium	1	1	0	0
 imperyo	observations	1	0	1	0
@@ -7371,7 +7170,6 @@ isagani	name of a person	0	0	1	0
 isagani	isagani	0	0	1	0
 albino	albino	0	0	1	0
 game	game	0	0	1	0
-kayat	consequently	0	0	1	0
 kayat	therefore	0	0	1	0
 kayat	though	0	0	1	0
 manlalakbay	traveler	0	0	1	0
@@ -7384,7 +7182,6 @@ pamahiin	superstition	1	1	0	1
 pamahiin	superstitious beliefs	1	0	1	0
 pamahiin	superstitious belief	1	1	0	0
 pamahiin	follklore	1	0	1	0
-bukal	spring	0	0	1	1
 bukal	hot spring	0	0	1	0
 bukal	well	0	0	1	0
 kaugaliang	custom	0	0	1	0
@@ -7411,7 +7208,6 @@ katunggali	opponent	1	1	1	0
 pilosopong	philosopher	0	0	1	0
 pondo	fund	0	0	1	1
 mathematical	mathematical	0	0	1	0
-caspian	caspian (caspian sea)	0	0	1	0
 caspian	caspian sea	0	0	1	0
 lipi	tribe	0	0	1	1
 lipi	race	0	0	1	1
@@ -7473,7 +7269,6 @@ lumilipad	flying	0	0	1	0
 pero	but	0	0	1	1
 impormasyong	information	0	0	1	0
 magkasamang	together	0	0	1	0
-nakagawian	used to	0	0	1	0
 nakagawian	got used to	0	0	1	0
 nakagawian	usual	0	0	1	0
 sakit	few	1	0	1	0
@@ -7550,7 +7345,9 @@ pambungad	introduction	0	0	1	1
 pambungad	intention	0	0	1	0
 pambungad	beginning	0	0	1	1
 sinuplay	supplied	0	0	1	0
-proper	proper	0	0	1	0
+ipinalimbag	to have written	0	0	1	0
+ipinalimbag	doctrined	0	0	1	0
+ipinalimbag	published	0	0	1	0
 sekta	sect	0	0	1	1
 kuskus	couscous	1	1	0	0
 nag	does	0	0	1	0
@@ -7582,7 +7379,6 @@ isaisa	one by one	0	0	1	0
 kumopya	copied	0	0	1	0
 kumopya	copy	0	0	1	1
 metapisika	metaphysics	0	0	1	0
-metapisika	metaphysic	0	0	1	0
 napalitan	changed; evolved	0	0	1	0
 napalitan	changed	0	0	1	0
 napalitan	replaced	0	0	1	0
@@ -7643,7 +7439,6 @@ kakanin	rice cake	1	0	1	0
 kakanin	cake	1	1	0	0
 kakanin	defend	1	0	1	0
 kakanin	eat	1	0	1	0
-nakakabit	to inheret	0	0	1	0
 nakakabit	attached	0	0	1	0
 pagganap	performance	0	0	1	1
 pagganap	starred	0	0	1	0
@@ -7693,7 +7488,6 @@ makatang	poet	0	0	1	0
 cagayan	cagayan (place)	0	0	1	0
 nagbukas	opened	0	0	1	0
 nagpundar	established	0	0	1	0
-nagpundar	invested	0	0	1	0
 napanatili	maintained	0	0	1	0
 napanatili	maintain	0	0	1	0
 napanatili	kept	0	0	1	0
@@ -7704,6 +7498,7 @@ dumayo	visited	0	0	1	0
 dumayo	emigrate	0	0	1	1
 dumayo	traveled	0	0	1	0
 pera	money	0	0	1	1
+tokyo	tokyo	0	0	1	0
 michael	michael	0	0	1	0
 ryan	ryan	0	0	1	0
 barbaro	barbaric	0	0	1	0
@@ -7749,8 +7544,8 @@ malimit	rare	0	0	1	0
 malimit	uncommon	0	0	1	0
 sapa	river	0	0	1	0
 sapa	creek	0	0	1	1
-masakop	occupy	0	0	1	0
-masakop	conquer	0	0	1	0
+pinagpatuloy	continue	0	0	1	0
+pinagpatuloy	continued	0	0	1	0
 olanda	holland	0	0	1	1
 nicholas	nicholas	0	0	1	0
 oricon	oricon	0	0	1	0
@@ -7762,9 +7557,9 @@ laringhitis	mars	1	0	1	0
 lalawigang	province	0	0	1	0
 lalawigang	city	0	0	1	0
 pebrero	february	0	0	1	1
-pagmamasid	watching	0	0	1	0
-pagmamasid	observance	0	0	1	0
 pagmamasid	supervise	0	0	1	0
+pagmamasid	observance	0	0	1	0
+pagmamasid	watching	0	0	1	0
 kakaunti	few	0	0	1	0
 kariton	wagon	0	0	1	1
 kariton	cart	0	0	1	1
@@ -7795,9 +7590,8 @@ pangatlong	third	0	0	1	0
 clara	clara	0	0	1	0
 caligula	caligula	0	0	1	0
 caligula	name of a person	0	0	1	0
-barrios	name of a person	0	0	1	0
-barrios	barrios	0	0	1	0
-barrios	village	0	0	1	0
+ikalabindalawang	twelve	0	0	1	0
+ikalabindalawang	twelfth	0	0	1	0
 dominyo	domain	0	0	1	0
 dominyo	dominion	0	0	1	1
 pinarangalan	honored	0	0	1	0
@@ -7821,25 +7615,22 @@ pagsulong	move forward	0	0	1	0
 pagsulong	forward	0	0	1	0
 pagsulong	growth	0	0	1	0
 fiba	fiba	0	0	1	0
-malawi	malawi	0	0	1	0
+maagang	early	0	0	1	0
 sanggol	baby	0	0	1	1
 lumaki	grow	0	0	1	1
 lumaki	increased	0	0	1	0
-gambalain	disturb	0	0	1	1
-gambalain	distract	0	0	1	0
+palatuntunan	program	0	0	1	1
 sangkatauhan	human race	0	0	1	0
 sangkatauhan	mankind	0	0	1	1
 sangkatauhan	people	0	0	1	0
 bendita	holy water	0	0	1	0
 bendita	holy	0	0	1	0
-bendita	blessed	0	0	1	1
 pangyayaring	instance	0	0	1	0
 pangyayaring	incident	0	0	1	0
 pangyayaring	event	0	0	1	0
 pangasinense	pangasinense	0	0	1	0
 nagkakaisa	united	0	0	1	0
 nagkakaisa	unanimous	0	0	1	0
-nagkakaisa	unite	0	0	1	0
 isay	one	0	0	1	0
 lehitimo	legitimate	0	0	1	1
 isat	one and	0	0	1	0
@@ -7866,7 +7657,7 @@ napuntahan	been to	0	0	1	0
 napuntahan	been there	0	0	1	0
 acapulco	acapulco	0	0	1	0
 acapulco	mexico	0	0	1	0
-kooperatiba	cooperative	0	0	1	1
+links	links	0	0	1	0
 organismong	organism	0	0	1	0
 pangrehiyon	regional	0	0	1	0
 pangrehiyon	for region	0	0	1	0
@@ -7957,7 +7748,6 @@ madre	mother	0	0	1	0
 nanonood	watching	0	0	1	0
 bugbog	beating	0	0	1	0
 bugbog	bruise	0	0	1	1
-salitaan	topic	0	0	1	0
 salitaan	heresy or words or gossip	0	0	1	0
 salitaan	rumor	0	0	1	0
 gumagana	working	0	0	1	0
@@ -7967,7 +7757,6 @@ handa	prepared	0	0	1	1
 pansarili	personal	0	0	1	1
 pansarili	self	0	0	1	0
 pansarili	for self	0	0	1	0
-sumahimpapawid	fly	0	0	1	0
 sumahimpapawid	airing	0	0	1	0
 sumahimpapawid	aired	0	0	1	0
 maestro	master	0	0	1	1
@@ -7996,7 +7785,6 @@ moda	mode	0	0	1	1
 mangyari	happen	0	0	1	1
 mangyari	happened	0	0	1	0
 kinatakutan	afraid	0	0	1	0
-kinatakutan	feared	0	0	1	0
 sumangguni	to consult	0	0	1	0
 sumangguni	consult	0	0	1	1
 lulan	load	0	0	1	1
@@ -8022,6 +7810,8 @@ bubuwit	small	1	1	0	0
 bubuwit	mouse	1	1	0	1
 bubuwit	baby mouse	1	0	1	0
 special	special	0	0	1	0
+pangkalayaan	for freedom	0	0	1	0
+pangkalayaan	for liberation	0	0	1	0
 entertainment	entertainment	0	0	1	0
 naghahandog	presenting	0	0	1	0
 naghahandog	offering	0	0	1	0
@@ -8030,10 +7820,8 @@ tagapakinig	listener	0	0	1	0
 tagapakinig	listeners	0	0	1	0
 tagapakinig	audience	0	0	1	0
 palagi	always	0	0	1	1
-magayuno	to fast	0	0	1	0
-magayuno	praise	0	0	1	0
+max	max	0	0	1	0
 iminungkahi	proposed	0	0	1	0
-iminungkahi	to suggest	0	0	1	0
 princesa	princesa (name)	0	0	1	0
 princesa	princess	0	0	1	0
 klima	climate	0	0	1	1
@@ -8080,7 +7868,6 @@ pinipintuho	adored	0	0	1	0
 pinipintuho	object of affection	0	0	1	0
 ipaghiganti	revenge	0	0	1	0
 ipaghiganti	avenge	0	0	1	1
-ipaghiganti	to take revenge	0	0	1	0
 congo	congo	0	0	1	0
 magsasaka	farmer	0	0	1	1
 naninirahan	dwelling	0	0	1	0
@@ -8114,7 +7901,6 @@ kinakailangang	need	0	0	1	0
 kinakailangang	requiring	0	0	1	0
 kinakailangang	required	0	0	1	0
 pagpapantig	syllable	0	0	1	0
-pagpapantig	syllables	0	0	1	0
 pagpapantig	syllabicate	0	0	1	0
 tumigil	stop	0	0	1	1
 tumigil	stopped	0	0	1	0
@@ -8151,7 +7937,6 @@ mahimbing	sound	0	0	1	0
 mahimbing	deep	0	0	1	1
 mahimbing	silently	0	0	1	0
 mamahala	running	0	0	1	0
-mamahala	manage	0	0	1	1
 mamahala	handling	0	0	1	0
 mamahala	governed	0	0	1	0
 payak	simple	0	0	1	1
@@ -8169,7 +7954,6 @@ karamdaman	illness or disease	1	1	0	0
 karamdaman	to be considered	1	0	1	0
 karamdaman	sick	1	0	1	0
 karamdaman	condition	1	0	1	0
-iginawad	award	0	0	1	0
 iginawad	awarded	0	0	1	0
 pakikitungo	dealing	0	0	1	1
 pakikitungo	to mingle	0	0	1	0
@@ -8200,7 +7984,6 @@ lumubog	fall	0	0	1	0
 kinalaban	challenge	0	0	1	0
 kinalaban	fought	0	0	1	0
 datapuwat	but	0	0	1	0
-datapuwat	despite	0	0	1	0
 katinig	consonant	0	0	1	1
 katinig	vowel	0	0	1	0
 pinamunuan	led	0	0	1	0
@@ -8216,7 +7999,6 @@ kakalasan	descending	0	0	1	0
 talambuhay	biography	0	0	1	1
 talambuhay	bioragraphy	0	0	1	0
 akalaing	expected	0	0	1	0
-akalaing	thought	0	0	1	0
 posibilidad	possibility	0	0	1	1
 kurus	cross	0	0	1	1
 jorge	jorge	0	0	1	0
@@ -8227,7 +8009,6 @@ kriminal	criminal	0	0	1	1
 lansangan	street	0	0	1	1
 lansangan	road	0	0	1	1
 kalagitnaan	in the mid	0	0	1	0
-kalagitnaan	middle	0	0	1	1
 kalagitnaan	in the middle	0	0	1	0
 ipinatawag	called	0	0	1	0
 ipinatawag	summoned	0	0	1	0
@@ -8240,7 +8021,9 @@ alikabok	dust	0	0	1	1
 uri	kind	0	0	1	1
 sf	science fiction	0	0	1	0
 molekular	molecular	0	0	1	0
-se	tagalog phoenetics	0	0	1	0
+madalas	frequently	0	0	1	1
+madalas	often	0	0	1	1
+madalas	commonly	0	0	1	0
 kaganapan	happening	0	0	1	0
 kaganapan	event	0	0	1	0
 buo	whole	0	0	1	1
@@ -8250,7 +8033,6 @@ pinalawak	expanded	0	0	1	0
 pinalawak	to make it bigger	0	0	1	0
 kabuuan	entirety	0	0	1	0
 kabuuan	whole	0	0	1	1
-kabuuan	totality	0	0	1	0
 ipakasal	be married	0	0	1	0
 ipakasal	marry	0	0	1	0
 ipakasal	betrothed	0	0	1	0
@@ -8334,7 +8116,6 @@ austrones	australians	0	0	1	0
 karugtong	continuation	0	0	1	1
 karugtong	sequel	0	0	1	1
 bayaning	hero	0	0	1	0
-pamayanang	town	0	0	1	0
 pamayanang	community	0	0	1	0
 unawain	understand	0	0	1	1
 nagdaos	held	0	0	1	0
@@ -8359,10 +8140,8 @@ nagpahiwatig	hinted	0	0	1	0
 joya	name of a person	0	0	1	0
 joya	joya	0	0	1	0
 baril	gun	0	0	1	1
-pagkalat	diffusion	0	0	1	0
 pagkalat	spread	0	0	1	0
 magkakaroon	will have	0	0	1	0
-tula	poem	0	0	1	1
 inilipat	moved	0	0	1	0
 inilipat	transferred	0	0	1	0
 saging	banana	0	0	1	1
@@ -8396,10 +8175,7 @@ maynila	maynila	0	0	1	0
 maynila	manila	0	0	1	1
 katuruan	teachings	0	0	1	0
 katuruan	teaching	0	0	1	0
-karong	funeral car	0	0	1	0
-karong	carriage	0	0	1	0
-karong	chariot	0	0	1	0
-mawalan	to lose	0	0	1	0
+napansin	noticed	0	0	1	0
 mawalan	lost	0	0	1	0
 mawalan	lose	0	0	1	1
 administrasyon	administration	0	0	1	1
@@ -8410,10 +8186,6 @@ kumpara	compared	0	0	1	0
 gumagamit	using	0	0	1	0
 bakuran	backyard	0	0	1	1
 bakuran	yard	0	0	1	1
-kaseguruhan	assureness	0	0	1	0
-kaseguruhan	sureness	0	0	1	0
-kaseguruhan	assurance	0	0	1	0
-sari	genus	0	0	1	0
 sari	varieties	0	0	1	0
 sari	variety	0	0	1	0
 pangkompyuter	computer	0	0	1	0
@@ -8444,9 +8216,8 @@ kabisayaan	visayan	0	0	1	0
 selebes	celebes	0	0	1	0
 yantok	rattan	0	0	1	1
 yantok	baton	0	0	1	0
-kompositor	compositor or author	0	0	1	0
 kompositor	composer	0	0	1	1
-kompositor	song writer	0	0	1	0
+kompositor	compositor or author	0	0	1	0
 pinatigil	stopped	0	0	1	0
 pinatigil	to stop	0	0	1	0
 sosyalismo	socialism	0	0	1	1
@@ -8507,7 +8278,6 @@ napakaraming	many	0	0	1	0
 napakaraming	lot	0	0	1	0
 napakaraming	a lot	0	0	1	0
 malayo	far	0	0	1	1
-thumb|right|ang	the	0	0	1	0
 calabarzon	calabarzon	0	0	1	0
 natuwa	became happy	0	0	1	0
 natuwa	glad	0	0	1	1
@@ -8521,7 +8291,8 @@ ekwador	equador	0	0	1	0
 effect	effect	0	0	1	0
 bakas	trace	0	0	1	1
 bakas	mark	0	0	1	1
-itbayat	itbayat	0	0	1	0
+sanggunian	references	0	0	1	0
+sanggunian	reference	0	0	1	0
 sumibol	sprout	0	0	1	1
 sumibol	originate	0	0	1	0
 sumibol	risen	0	0	1	0
@@ -8531,7 +8302,6 @@ bantayan	watch	0	0	1	1
 bantayan	watchtower	0	0	1	1
 thalia	thalia	0	0	1	0
 estado	state	0	0	1	1
-makarating	reached	0	0	1	0
 makarating	arrived	0	0	1	0
 industriyalisasyon	industriatization	0	0	1	0
 industriyalisasyon	industrilization	0	0	1	0
@@ -8580,8 +8350,8 @@ balak	plan	0	0	1	1
 pagsunod	follow	0	0	1	0
 pagsunod	compliance	0	0	1	0
 pagsunod	abide	0	0	1	0
-kasarinlan	freedom	0	0	1	1
-kasarinlan	independence	0	0	1	1
+maykapansanan	diabled	0	0	1	0
+maykapansanan	disabled	0	0	1	0
 vida	vida	0	0	1	0
 limutin	forget	0	0	1	1
 obispong	bishop	0	0	1	0
@@ -8623,11 +8393,10 @@ kasiyasiya	fun	0	0	1	0
 kasiyasiya	pleasing	0	0	1	0
 kasiyasiya	happy	0	0	1	0
 tinuturing	regarded	0	0	1	0
-tinuturing	treated	0	0	1	0
 tinuturing	treat	0	0	1	0
 teofisto	teofisto	0	0	1	0
 lost	lost	0	0	1	0
-mabili	buy	0	0	1	0
+ring	also	0	0	1	0
 martir	martyr	0	0	1	1
 ganitong	this	0	0	1	0
 ganitong	like	0	0	1	0
@@ -8725,7 +8494,9 @@ lamanng	only	0	0	1	0
 sinasabayan	go with/ at the same time	0	0	1	0
 sinasabayan	accompany	0	0	1	0
 sinasabayan	keeping up with	0	0	1	0
-butas	hole	0	0	1	1
+napabayaan	forlorn	0	0	1	1
+napabayaan	exploited	0	0	1	0
+napabayaan	abandoned	0	0	1	0
 yumao	die	0	0	1	1
 yumao	departed	0	0	1	0
 yumao	died	0	0	1	0
@@ -8739,11 +8510,8 @@ afrika	aftica	0	0	1	0
 natuloy	continue	0	0	1	0
 natuloy	proceed	0	0	1	0
 natuloy	push through	0	0	1	0
-banawe	banaue	0	0	1	0
 banawe	banaue (name of place)	0	0	1	0
-umugong	getting known	0	0	1	0
 umugong	heard	0	0	1	0
-umugong	sounded	0	0	1	0
 umugong	became louder	0	0	1	0
 nagbubunga	resulted	0	0	1	0
 nagbubunga	fructifying	0	0	1	0
@@ -8768,11 +8536,9 @@ eat	eat	0	0	1	0
 kusina	kitchen	0	0	1	1
 sabihing	say	0	0	1	0
 sabihing	said	0	0	1	0
-sabihing	to say	0	0	1	0
 itim	black	0	0	1	1
 nakasanayan	acquainted	0	0	1	0
 nakasanayan	being used to	0	0	1	0
-nakasanayan	routine	0	0	1	0
 sapagkat	because	0	0	1	1
 sapagkat	for	0	0	1	0
 kapantay	even	0	0	1	0
@@ -8781,11 +8547,9 @@ kapantay	level	0	0	1	0
 nilalang	a being	1	1	0	0
 nilalang	being	1	1	1	1
 nilalang	price	1	0	1	0
-nilalang	creation	1	0	1	1
 nilalang	entity	1	0	1	0
 nilalang	cost	1	0	1	0
 nilalang	creature	1	1	0	1
-paisaisang	individually	0	0	1	0
 paisaisang	one by one	0	0	1	0
 paisaisang	one	0	0	1	0
 pagsasakatuparan	implementation	0	0	1	1
@@ -8814,8 +8578,9 @@ dayuhang	foreigner	0	0	1	0
 dayuhang	foreign	0	0	1	0
 tayutay	figure of speech	0	0	1	0
 lakad	walk	0	0	1	1
-abenidang	avenida	0	0	1	0
-abenidang	avenue	0	0	1	0
+silong	shelter	0	0	1	0
+silong	shed	0	0	1	0
+silong	basement	0	0	1	1
 alternatibong	alternative	0	0	1	0
 alternatibong	alternate	0	0	1	0
 diktador	dictator	0	0	1	1
@@ -8917,17 +8682,13 @@ dalawahan	compound	0	0	1	0
 gobyerno	government	0	0	1	1
 pasyon	reading	0	0	1	0
 pasyon	passion	0	0	1	0
-kaguluhan	disturbance	0	0	1	1
-kaguluhan	chaos	0	0	1	0
-kaguluhan	havoc	0	0	1	0
+dutch	dutch	0	0	1	0
 pangatlo	third	0	0	1	1
 nakalabas	got out	0	0	1	0
-nakalabas	out	0	0	1	0
 ginanap	held	0	0	1	0
 ginanap	performed	0	0	1	0
 nakalaban	fought	0	0	1	0
 sumama	came with	0	0	1	0
-sumama	join	0	0	1	1
 sumama	go with	0	0	1	1
 pilipinas	philippines	0	0	1	1
 nakuha	acquired	0	0	1	0
@@ -8975,7 +8736,6 @@ masagisag	symbolic	0	0	1	1
 kanser	cancer	0	0	1	1
 nananalig	faith	0	0	1	0
 nananalig	trusting	0	0	1	0
-nananalig	belief	0	0	1	0
 men	men	0	0	1	0
 alpabetong	alphabet	0	0	1	0
 katanungan	question	0	0	1	0
@@ -8986,7 +8746,6 @@ batanggas	batangas	0	0	1	0
 tamaraw	tamaraw	0	0	1	0
 tamaraw	bull	0	0	1	0
 palang	only	0	0	1	0
-palang	the first	0	0	1	0
 nagtuloy	entered	0	0	1	0
 nagtuloy	continue	0	0	1	0
 nagtuloy	went to	0	0	1	0
@@ -9014,10 +8773,8 @@ myanmar	myanmar	0	0	1	0
 nagaalala	worrying	0	0	1	0
 nagaalala	worried	0	0	1	0
 nanganak	give birth	0	0	1	0
-nanganak	bore	0	0	1	0
 nanganak	birthed	0	0	1	0
 reagan	reagan	0	0	1	0
-bulwagang	courtroom	0	0	1	0
 bulwagang	hall	0	0	1	0
 bumabagabag	disturbing	0	0	1	0
 bumabagabag	confuse	0	0	1	0
@@ -9031,8 +8788,7 @@ nakaitim	black	0	0	1	0
 nakaitim	in black	0	0	1	0
 nakaitim	wearing black	0	0	1	0
 welch	welch (name)	0	0	1	0
-pinangalanan	named	0	0	1	0
-pinangalanan	name	0	0	1	0
+sibyla	sibyla	0	0	1	0
 aralin	assignment	0	0	1	0
 aralin	lesson	0	0	1	1
 naglakad	walked	0	0	1	0
@@ -9041,7 +8797,6 @@ army	army	0	0	1	0
 umasim	imbitter	0	0	1	0
 umasim	sour	0	0	1	0
 nangingibabaw	over	0	0	1	0
-nangingibabaw	to prevail	0	0	1	0
 nangingibabaw	prevailing	0	0	1	0
 tarsilio	tarsilio (name)	0	0	1	0
 tarsilio	tarsilio	0	0	1	0
@@ -9086,7 +8841,6 @@ kaisipan	ideas	0	0	1	0
 sumalakay	attack; raid	0	0	1	0
 sumalakay	invade	0	0	1	1
 sumalakay	attacked	0	0	1	0
-pamamgitan	through	0	0	1	0
 pamamgitan	means	0	0	1	0
 gubat	forest	0	0	1	1
 language	language	0	0	1	0
@@ -9127,9 +8881,7 @@ bulubunduking	mountain range	0	0	1	0
 autonomy	autonomy	0	0	1	0
 sangkot	involve	0	0	1	0
 sangkot	involved	0	0	1	0
-sangkot	envolve	0	0	1	0
 kamangmangan	idiot	0	0	1	0
-kamangmangan	stupidity	0	0	1	0
 kamangmangan	innocence	0	0	1	0
 reperendum	referendum	0	0	1	0
 espadaña	not a tagalog word	0	0	1	0
@@ -9240,7 +8992,6 @@ lumaon	past	0	0	1	0
 lumaon	eventually	0	0	1	0
 lumaon	later on	0	0	1	0
 hernando	hernando	0	0	1	0
-metaetika	ethical	0	0	1	0
 metaetika	meta-ethics	0	0	1	0
 ernesto	ernesto	0	0	1	0
 dibuhong	devoted	0	0	1	0
@@ -9262,9 +9013,9 @@ banta	threat	0	0	1	1
 kalayaang	freedom	0	0	1	0
 baylon	baylon	0	0	1	0
 sasuke	sasuke	0	0	1	0
-durungawan	window	0	0	1	1
+binibigyan	giving	0	0	1	0
+binibigyan	being given	0	0	1	0
 pagsasabing	saying	0	0	1	0
-pagsasabing	said	0	0	1	0
 tumutol	disapproved	0	0	1	0
 tumutol	disagree	0	0	1	1
 tumutol	objected	0	0	1	0
@@ -9280,7 +9031,6 @@ thoukydidis	thoukydidis	0	0	1	0
 pagpapahiwatig	signal	0	0	1	0
 pagpapahiwatig	indication	0	0	1	0
 pagpapahiwatig	convey	0	0	1	0
-kolonya	colon	0	0	1	0
 kolonya	colony	0	0	1	1
 milan	milan	0	0	1	0
 titvs	titvs	0	0	1	0
@@ -9294,7 +9044,6 @@ paglalayag	sailing	0	0	1	0
 paglalayag	setting sail	0	0	1	0
 umimik	ignore	0	0	1	0
 umimik	respond	0	0	1	0
-umimik	to talk	0	0	1	1
 literatura	literature	0	0	1	1
 limampung	50	0	0	1	0
 limampung	fifty	0	0	1	0
@@ -9306,7 +9055,6 @@ pagsasaalangalang	to consider	0	0	1	0
 pagsasaalangalang	dedicated to	0	0	1	0
 dinisenyo	style	0	0	1	0
 dinisenyo	designed	0	0	1	0
-babagsak	fall down	0	0	1	0
 babagsak	fall	0	0	1	1
 lilisanin	leaving	0	0	1	0
 ramos	ramos	0	0	1	0
@@ -9331,8 +9079,7 @@ sigaw	shout	0	0	1	1
 sigaw	yell	0	0	1	0
 grado	grade	0	0	1	1
 grado	rank	0	0	1	1
-itinalaga	assigned	0	0	1	0
-itinalaga	instituted	0	0	1	0
+bisyo	vice	0	0	1	1
 galaw	movement	0	0	1	1
 thereof	there of	0	0	1	0
 opisinang	office	0	0	1	0
@@ -9382,8 +9129,8 @@ matter	matterial	0	0	1	0
 solomon	solomon	0	0	1	0
 knights	knights	0	0	1	0
 humiwalay	separated	0	0	1	0
-humiwalay	severed	0	0	1	0
 humiwalay	apart	0	0	1	0
+humiwalay	severed	0	0	1	0
 minh	minh	0	0	1	0
 minh	not a tagalog word	0	0	1	0
 sanhi	cause	0	0	1	1
@@ -9439,15 +9186,13 @@ don	aristocrat or very rich man	0	0	1	0
 don	name of a person	0	0	1	0
 don	don	0	0	1	0
 pamahalaan	government	0	0	1	1
-pamahalaan	govenrment	0	0	1	0
 inglaterra	england	0	0	1	0
 plotang	plot	0	0	1	0
 pilosopo	philosophy	0	0	1	0
 pilosopo	philosopher	0	0	1	1
 dos	two	0	0	1	1
-nagpatayo	erected	0	0	1	0
 nagpatayo	built	0	0	1	0
-nagpatayo	build	0	0	1	0
+nagpatayo	erected	0	0	1	0
 pananaig	supremacy	0	0	1	1
 pananaig	triumph	0	0	1	0
 pananaig	prevalence	0	0	1	0
@@ -9487,6 +9232,8 @@ bahrain	bahrain	0	0	1	0
 rehas	reigns	0	0	1	0
 rehas	bar	0	0	1	0
 rehas	rails	0	0	1	0
+gawa	made	0	0	1	0
+gawa	crated by	0	0	1	0
 naiwan	left or left behind	0	0	1	0
 naiwan	left	0	0	1	1
 otoridad	authority	0	0	1	0
@@ -9497,7 +9244,6 @@ lawakkm²	width	0	0	1	0
 nakatirang	living	0	0	1	0
 nakatirang	live	0	0	1	0
 nakatirang	living with	0	0	1	0
-parirala	phrase	0	0	1	1
 posisyon	position	0	0	1	1
 bar	bar	0	0	1	0
 istasyong	station	0	0	1	0
@@ -9534,7 +9280,6 @@ ipinahiwatig	indicated	0	0	1	0
 ipinahiwatig	expressed	0	0	1	0
 namamahala	manage	0	0	1	0
 namamahala	facilitator	0	0	1	0
-namamahala	governing	0	0	1	1
 natupad	fulfilled	0	0	1	0
 natupad	granted	0	0	1	0
 nahahati	divided	0	0	1	0
@@ -9556,7 +9301,6 @@ budhismo	buddhism	0	0	1	0
 koalisyon	coalition	0	0	1	0
 una	first	0	0	1	1
 ernst	ernst	0	0	1	0
-pagkilala	to acknowledge	0	0	1	0
 pagkilala	recognition	0	0	1	1
 pagkilala	recognized	0	0	1	0
 pandaigdigang	world	0	0	1	0
@@ -9596,7 +9340,6 @@ paktor	factor	0	0	1	0
 maikling	short	0	0	1	0
 nagipon	collected	0	0	1	0
 nagipon	gathered	0	0	1	0
-nagipon	saved	0	0	1	0
 nabanggit	mentioned	0	0	1	0
 nabanggit	said	0	0	1	0
 pagkakaibang	difference	0	0	1	0
@@ -9628,7 +9371,6 @@ is	is	0	0	1	0
 pagsangayon	approval	0	0	1	0
 pagsangayon	approve	0	0	1	0
 unlaping	prefix	0	0	1	0
-iv	not a tagalog word	0	0	1	0
 im	im	0	0	1	0
 biyuda	widow	0	0	1	1
 ie	example	0	0	1	0
@@ -9660,7 +9402,6 @@ ipapadala	to be sent	0	0	1	0
 ipapadala	will send	0	0	1	0
 pagitan	in between	0	0	1	0
 pagitan	between	0	0	1	1
-bantayog	memorial	0	0	1	1
 bantayog	shrine	0	0	1	0
 bantayog	monument	0	0	1	1
 asendero	landlord	0	0	1	0
@@ -9683,7 +9424,8 @@ pagtatanong	questioning	0	0	1	0
 kaisipang	philosophy	0	0	1	0
 kaisipang	mentality	0	0	1	0
 kaisipang	idea	0	0	1	0
-kurosaki	name of a person	0	0	1	0
+nabanas	irritated	0	0	1	0
+nabanas	annoyed or irritated	0	0	1	0
 rome	rome	0	0	1	0
 programa	program	0	0	1	1
 kaparaanang	manner	0	0	1	0
@@ -9703,7 +9445,6 @@ excommunicado	excommunicator	0	0	1	0
 excommunicado	excommunicated	0	0	1	0
 umiiral	rule	0	0	1	0
 umiiral	operative	0	0	1	0
-umiiral	prevalent	0	0	1	0
 gumaganap	acting	0	0	1	0
 gumaganap	plays	0	0	1	0
 gumaganap	actor	0	0	1	0
@@ -9725,8 +9466,8 @@ allele	allele	0	0	1	0
 bulong	whisper	0	0	1	1
 nagtatapos	finished	0	0	1	0
 nagtatapos	ending	0	0	1	0
-antipolo	name of a place	0	0	1	0
-antipolo	antipolo	0	0	1	0
+dinaranas	experienced	0	0	1	0
+dinaranas	experience	0	0	1	0
 pangkonsumo	consumable	0	0	1	0
 pangkonsumo	consumer	0	0	1	0
 pangkonsumo	consumption	0	0	1	0
@@ -9740,13 +9481,12 @@ kagalit	enemy	0	0	1	1
 kagalit	angry at	0	0	1	0
 mataas	high	0	0	1	1
 ganang	will to eat	0	0	1	0
-ganang	appetite	0	0	1	0
 kaligtasan	safety	0	0	1	1
 anasarka	anasarca	1	1	0	0
 manual	manual	0	0	1	0
 napaunlad	developed	0	0	1	0
 napaunlad	develop	0	0	1	0
-channel	channel	0	0	1	0
+kuwento	story	0	0	1	1
 palayok	pot	0	0	1	1
 palayok	ceramic vase	0	0	1	0
 palayok	clay pot	0	0	1	0
@@ -9794,7 +9534,6 @@ nakatuon	focused	0	0	1	0
 makaganti	revenge	0	0	1	0
 makaganti	get revenge	0	0	1	0
 makaganti	to revenge	0	0	1	0
-paglaho	vanish	0	0	1	0
 paglaho	disappear	0	0	1	0
 paglaho	disappearance	0	0	1	0
 siyay	siya'y (right format) he or she	0	0	1	0
@@ -9814,13 +9553,12 @@ sergio	sergio	0	0	1	0
 humantong	end up	0	0	1	0
 humantong	reached	0	0	1	0
 humantong	to end	0	0	1	0
-saloobin	reaction	0	0	1	0
 saloobin	feelings	0	0	1	0
 pagtatangkang	try	0	0	1	0
 pagtatangkang	attempt	0	0	1	0
 taginit	summer	0	0	1	1
-naghirap	endured hardship	0	0	1	0
-naghirap	poverty	0	0	1	0
+radyus	radius	0	0	1	0
+radyus	raduis	0	0	1	0
 hidwaan	misunderstanding	0	0	1	0
 hidwaan	conflict	0	0	1	0
 hidwaan	fight	0	0	1	0
@@ -9882,7 +9620,6 @@ karera	race	0	0	1	1
 dominante	dominant	0	0	1	1
 naglalakbay	travelling	0	0	1	0
 naglalakbay	traveling	0	0	1	0
-nagalmusal	breakfast	0	0	1	0
 nagalmusal	had breakfast	0	0	1	0
 nagalmusal	ate breakfast	0	0	1	0
 inilibing	burried	0	0	1	0
@@ -9989,7 +9726,9 @@ pagkakalayo	distance	0	0	1	0
 pagkakalayo	to be distant	0	0	1	0
 pababa	down	0	0	1	1
 pababa	downward	0	0	1	0
-buhangin	sand	0	0	1	1
+nagpagalagala	wandered	0	0	1	0
+nagpagalagala	stroll	0	0	1	0
+nagpagalagala	stray	0	0	1	0
 mapayapang	peaceful	0	0	1	0
 pareho	similar	0	0	1	1
 pareho	the same	0	0	1	1
@@ -10008,17 +9747,14 @@ nagkakahalaga	valued at	0	0	1	0
 nagkakahalaga	price	0	0	1	0
 nagkakahalaga	worth	0	0	1	0
 timor	timor	0	0	1	0
-pagtataguyod	to support	0	0	1	0
 pagtataguyod	supporting	0	0	1	0
 pagtataguyod	establishment	0	0	1	0
 din	also	0	0	1	1
 kordero	lamb	1	1	0	1
 aktibidad	activity	0	0	1	1
 nakakuha	acquired	0	0	1	0
-nakakuha	gotten	0	0	1	0
 nakakuha	gained	0	0	1	0
 magsalita	to speak	0	0	1	1
-magsalita	to talk	0	0	1	1
 magsalita	speak	0	0	1	1
 duguan	bleeding	0	0	1	0
 duguan	bloodied	0	0	1	0
@@ -10037,7 +9773,6 @@ ibibigay	give	0	0	1	0
 nabalian	broken	0	0	1	0
 nabalian	priestess	0	0	1	0
 pagpapalit	changing	0	0	1	1
-pagpapalit	change	0	0	1	1
 bakod	wall	0	0	1	0
 bakod	fence	0	0	1	1
 afghanistan	afghanistan (country)	0	0	1	0
@@ -10092,7 +9827,6 @@ alta	northern	0	0	1	0
 pinagtalunan	argued	0	0	1	0
 pinagtalunan	debate	0	0	1	0
 pinagtalunan	conflict	0	0	1	0
-napapaloob	content	0	0	1	0
 napapaloob	included	0	0	1	0
 napapaloob	within	0	0	1	0
 pamagat	title	0	0	1	1
@@ -10174,7 +9908,9 @@ sosyalista	socialist	0	0	1	1
 sosyalista	socialistal	0	0	1	0
 kamaynilaan	metro manila	0	0	1	0
 kamaynilaan	manila	0	0	1	0
-tokyo	tokyo	0	0	1	0
+tansong	brass	0	0	1	0
+tansong	iron	0	0	1	0
+tansong	bronze	0	0	1	0
 pagpapatayo	building	0	0	1	0
 pagpapatayo	erection	0	0	1	0
 isatisa	everyone	0	0	1	0
@@ -10193,7 +9929,6 @@ ulo	informational	1	0	1	0
 ulo	news	1	0	1	0
 makalumang	traditional	0	0	1	0
 makalumang	old-fashioned	0	0	1	0
-makalumang	olden	0	0	1	0
 paalisin	cast	0	0	1	0
 paalisin	shoo away	0	0	1	0
 paalisin	expel	0	0	1	0
@@ -10244,12 +9979,10 @@ ipinaglalaban	fighting	0	0	1	0
 ipinaglalaban	fight	0	0	1	0
 puri	purity	0	0	1	0
 puri	praise	0	0	1	1
-nya	he/she	0	0	1	0
 nya	that person	0	0	1	0
 nya	he	0	0	1	0
-puro	purely	0	0	1	0
-puro	all	0	0	1	0
 puro	always	0	0	1	0
+puro	all	0	0	1	0
 ibinibilang	considered	0	0	1	0
 ibinibilang	counting	0	0	1	0
 ibinibilang	counted	0	0	1	0
@@ -10262,7 +9995,8 @@ mar	mar	0	0	1	0
 may	to	0	0	1	0
 may	has	0	0	1	1
 may	at	0	0	1	0
-max	max	0	0	1	0
+magayuno	to fast	0	0	1	0
+magayuno	praise	0	0	1	0
 mac	mac	0	0	1	0
 masisipag	industrious	0	0	1	0
 masisipag	hardworking	0	0	1	0
@@ -10278,7 +10012,6 @@ pulangpaglipat	red shift	0	0	1	0
 pulangpaglipat	redshift	0	0	1	0
 mayo	may	0	0	1	1
 kinaumagahan	early	0	0	1	0
-kinaumagahan	in the morning	0	0	1	0
 kinaumagahan	the next morning	0	0	1	0
 tapat	loyal	0	0	1	1
 tapat	honest	0	0	1	1
@@ -10307,7 +10040,6 @@ agwat	gap	0	0	1	0
 agwat	difference	0	0	1	0
 agwat	interval	0	0	1	1
 tatawaging	will be called	0	0	1	0
-tatawaging	called	0	0	1	0
 tatawaging	to be called	0	0	1	0
 josephine	name of a person	0	0	1	0
 josephine	josephine (name)	0	0	1	0
@@ -10324,7 +10056,6 @@ panlapi	currency	1	1	0	0
 panlapi	prefix	1	0	1	0
 panlapi	affixes	1	1	0	0
 panlapi	canals	1	0	1	0
-irene	name of a person	0	0	1	0
 irene	irene	0	0	1	0
 mapalad	lucky	0	0	1	1
 balaraw	dagger	0	0	1	1
@@ -10344,12 +10075,11 @@ doktrina	doctrine	0	0	1	1
 tinubuan	contracted	0	0	1	0
 tinubuan	grew	0	0	1	0
 tinubuan	grow	0	0	1	0
-tignan	look at	0	0	1	0
 tignan	look	0	0	1	0
 magsugal	gamble	0	0	1	1
 nanghihinayang	felt sorry	0	0	1	0
-nanghihinayang	regret	0	0	1	0
 nanghihinayang	regretful	0	0	1	0
+nanghihinayang	regret	0	0	1	0
 ipinagpaliban	deferred	0	0	1	0
 ipinagpaliban	postponed	0	0	1	0
 ipinagpaliban	to postpone	0	0	1	0
@@ -10378,7 +10108,6 @@ papanaog	going up	0	0	1	0
 papulasyon	population	0	0	1	0
 talampas	waterfall	0	0	1	0
 talampas	plateau	0	0	1	1
-talampas	plane	0	0	1	0
 tanda	symbol	0	0	1	1
 tanda	sign	0	0	1	1
 tanda	mark	0	0	1	1
@@ -10388,24 +10117,20 @@ tagulan	rainy season	0	0	1	0
 tagulan	rainy	0	0	1	0
 bolshevik	bolshevik	0	0	1	0
 bumasa	read	0	0	1	1
-bumasa	to read	0	0	1	1
 kapanipaniwalang	believable	0	0	1	0
 kapanipaniwalang	convincing	0	0	1	0
 profiling	profiling	0	0	1	0
 pagkakilala	knowing	0	0	1	0
-pagkakilala	known	0	0	1	0
 pagkakilala	known as	0	0	1	0
 aksidenteng	accident	0	0	1	0
-pandaraya	cheat	0	0	1	0
 pandaraya	cheating	0	0	1	0
 pandaraya	cheating or fraud	0	0	1	0
 ipinagmamalaki	proud	0	0	1	0
 ipinagmamalaki	to be proud	0	0	1	0
 ipinagmamalaki	boasted	0	0	1	0
 girl	girl	0	0	1	0
-silong	shelter	0	0	1	0
-silong	shed	0	0	1	0
-silong	basement	0	0	1	1
+abenidang	avenida	0	0	1	0
+abenidang	avenue	0	0	1	0
 pinaglingkuran	served	0	0	1	0
 pinaglingkuran	to serve	0	0	1	0
 canada	canada	0	0	1	0
@@ -10420,11 +10145,13 @@ batalan	lavatory	0	0	1	0
 kasayahan	fun	0	0	1	1
 kasayahan	merrymaking	0	0	1	0
 kasayahan	celebration	0	0	1	0
-dutch	dutch	0	0	1	0
+kaguluhan	disturbance	0	0	1	1
+kaguluhan	chaos	0	0	1	0
+kaguluhan	havoc	0	0	1	0
 nasakop	covered	0	0	1	0
 nasakop	occupied	0	0	1	0
 nasakop	captured	0	0	1	0
-roger	roger	0	0	1	0
+elektrikal	electrical	0	0	1	0
 minana	inherited	0	0	1	0
 romana	roman	0	0	1	0
 quran	quran	0	0	1	0
@@ -10468,8 +10195,8 @@ batayang	reference	0	0	1	0
 batayang	ground	0	0	1	0
 sampung	ten	0	0	1	0
 malakihan	large	0	0	1	0
-kabundukan	mountains	0	0	1	0
 kabundukan	mountain	0	0	1	0
+kabundukan	mountains	0	0	1	0
 elektromagnetismo	electromagnetism	0	0	1	0
 grabidad	gravity	0	0	1	1
 lipunan	society	0	0	1	1
@@ -10477,7 +10204,6 @@ paanong	how	0	0	1	0
 sinadya	intended	0	0	1	0
 sinadya	went to	0	0	1	0
 paghihimagsik	revolution	0	0	1	0
-paghihimagsik	rebel	0	0	1	0
 paghihimagsik	rebellion	0	0	1	0
 timbiriche	timbiriche	0	0	1	0
 kabuohang	entire	0	0	1	0
@@ -10553,10 +10279,12 @@ dumadaan	passes	0	0	1	0
 dumadaan	passing	0	0	1	0
 dumadaan	passing by	0	0	1	0
 interior	interior	0	0	1	0
-kuwento	story	0	0	1	1
+channel	channel	0	0	1	0
 normal	normal	0	0	1	1
 pitong	seven	0	0	1	0
-piraso	piece	0	0	1	1
+naririnig	hear	0	0	1	0
+naririnig	can hear	0	0	1	0
+naririnig	hearing	0	0	1	0
 katolika	catholic	0	0	1	0
 tinguian	an ethnic group	0	0	1	0
 kaniyang	his or her	0	0	1	0
@@ -10589,7 +10317,6 @@ pumapalibot	sorrounded	0	0	1	0
 pumapalibot	around	0	0	1	0
 pumapalibot	surrounding	0	0	1	0
 kadahilanang	cause	0	0	1	0
-kadahilanang	the reason	0	0	1	0
 kadahilanang	because of	0	0	1	0
 office	office	0	0	1	0
 bumalik	return	0	0	1	1
@@ -10660,7 +10387,6 @@ tinatanong	asking	0	0	1	0
 tinatanong	questioned	0	0	1	0
 kristal	crystal	0	0	1	1
 parlamentaryo	parliamentary	0	0	1	1
-parlamentaryo	parliamnet	0	0	1	0
 gago	fool	1	0	1	1
 gago	idiot	1	1	0	0
 gago	fool (male)	1	0	1	0
@@ -10685,8 +10411,8 @@ jr	jr.	0	0	1	0
 jr	junior	0	0	1	0
 pusod	navels	0	0	1	0
 pusod	navel	0	0	1	1
-habas	without hesitation	0	0	1	0
 habas	satiety	0	0	1	1
+habas	without hesitation	0	0	1	0
 magna	magna	0	0	1	0
 je	j.e.	0	0	1	0
 puson	lower abdomen	1	0	1	1
@@ -10725,7 +10451,6 @@ makauwi	go home	0	0	1	0
 makauwi	return	0	0	1	0
 nakatayo	standing	0	0	1	1
 pinaniwalaang	believed	0	0	1	0
-pinaniwalaang	believe	0	0	1	0
 dahas	forced	0	0	1	0
 dahas	force	0	0	1	1
 dahas	power	0	0	1	0
@@ -10751,7 +10476,6 @@ mari	mari (name)	0	0	1	0
 mari	maria	0	0	1	0
 mark	mark	0	0	1	0
 inuunawa	understand	0	0	1	0
-inuunawa	to understand	0	0	1	0
 inuunawa	understanding	0	0	1	0
 arte	arts	0	0	1	0
 arte	art	0	0	1	1
@@ -10795,9 +10519,9 @@ napahinuhod	persuaded	0	0	1	0
 bahagyang	slightly	0	0	1	0
 bahagyang	barely	0	0	1	0
 bahagyang	partial	0	0	1	0
-pagupo	sitting	0	0	1	0
 pagupo	sit	0	0	1	0
 pagupo	seat	0	0	1	0
+pagupo	sitting	0	0	1	0
 tuwangtuwa	very happy	0	0	1	0
 nagawang	did	0	0	1	0
 nagawang	able to	0	0	1	0
@@ -10831,7 +10555,6 @@ pag	when	0	0	1	1
 pag	the process of doing	0	0	1	0
 pag	if	0	0	1	1
 kinapapalooban	encompasses	0	0	1	0
-kinapapalooban	including	0	0	1	0
 kinapapalooban	contain	0	0	1	0
 bago	new	0	0	1	1
 bago	before	0	0	1	1
@@ -10947,8 +10670,7 @@ magsalaysay	to recount	0	0	1	0
 magsalaysay	narrate	0	0	1	0
 kategorya	category	0	0	1	0
 ingatyaman	treasurer	0	0	1	1
-pangkalayaan	for freedom	0	0	1	0
-pangkalayaan	for liberation	0	0	1	0
+pugad	nest	0	0	1	1
 kabilang	included	0	0	1	0
 kabilang	belong	0	0	1	0
 kabilang	including	0	0	1	1
@@ -10986,7 +10708,6 @@ makapagsilbi	to serve	0	0	1	0
 nakatuklas	discovered	0	0	1	0
 nalimbag	printed	0	0	1	0
 pasasalamat	gratitude	0	0	1	1
-pasasalamat	thanksgiving	0	0	1	1
 kyoto	kyoto	0	0	1	0
 masasama	bad	0	0	1	0
 gagamitin	usage	0	0	1	0
@@ -11001,7 +10722,6 @@ natigil	halted	0	0	1	0
 natigil	stopped	0	0	1	0
 island	island	0	0	1	0
 islang	island	0	0	1	0
-tumira	live with/in	0	0	1	0
 tumira	shot	0	0	1	0
 tumira	live in	0	0	1	0
 kapitana	captain	0	0	1	0
@@ -11049,8 +10769,7 @@ pagpapatupad	to fulfilled	0	0	1	0
 pagpapatupad	instruction	0	0	1	0
 pagpapatupad	implemetation	0	0	1	0
 vhs	vhs kind of player	0	0	1	0
-nabuong	formed	0	0	1	0
-nabuong	created	0	0	1	0
+mary	mary	0	0	1	0
 kabutihan	interest	0	0	1	0
 kabutihan	good	0	0	1	1
 kabutihan	service	0	0	1	1
@@ -11078,6 +10797,8 @@ planeta	planet	0	0	1	1
 kondisyon	condition	0	0	1	0
 pangukol	preposition	0	0	1	0
 binabasa	reading	0	0	1	0
+nagmamahalan	loving each other	0	0	1	0
+nagmamahalan	loving	0	0	1	0
 natuon	trasferred to	0	0	1	0
 natuon	drawn	0	0	1	0
 natuon	fixated	0	0	1	0
@@ -11091,7 +10812,7 @@ kauriankatipunan	category: assemblage	0	0	1	0
 lahing	nationality	0	0	1	0
 lahing	race	0	0	1	0
 field	field	0	0	1	0
-vanuatu	vanuatu	0	0	1	0
+mayakda	author	0	0	1	0
 hibla	fiber	0	0	1	0
 hibla	strand	0	0	1	0
 hibla	thread	0	0	1	1
@@ -11132,8 +10853,6 @@ pagtatapon	wasting	0	0	1	0
 pinangalanang	given the name	0	0	1	0
 pinangalanang	named	0	0	1	0
 eleksyon	election	0	0	1	0
-kanlurang	west	0	0	1	0
-kanlurang	western	0	0	1	1
 pampananalapi	financial	0	0	1	1
 etnikong	ethnic	0	0	1	0
 paghahabi	weaving	0	0	1	0
@@ -11148,7 +10867,6 @@ gusaling	building	0	0	1	0
 kapirasong	piece	0	0	1	0
 bigkasin	recite	0	0	1	0
 bigkasin	say	0	0	1	1
-bigkasin	to pronounce	0	0	1	1
 rwanda	rwanda	0	0	1	0
 alberto	albert	0	0	1	0
 alberto	alberto	0	0	1	0
@@ -11158,7 +10876,6 @@ pilosopiyang	pilosophy	0	0	1	0
 pilosopiyang	philosophy	0	0	1	0
 pilosopiyang	philisophy	0	0	1	0
 nagbitiw	resigned	0	0	1	0
-nagbitiw	resign	0	0	1	0
 proseso	process	0	0	1	0
 elementaryong	elementary	0	0	1	0
 elementaryong	basic	0	0	1	0
@@ -11168,7 +10885,6 @@ kawikaan	idiom	0	0	1	1
 kawikaan	saying	0	0	1	0
 kaiba	differ	0	0	1	0
 kaiba	different	0	0	1	1
-kaiba	another	0	0	1	0
 fall	fall	0	0	1	0
 nagsalita	talked	0	0	1	0
 nagsalita	speak	0	0	1	0
@@ -11198,7 +10914,6 @@ taling	tie	0	0	1	0
 taling	tied	0	0	1	0
 kamaganak	relative	0	0	1	1
 kamaganak	relatives	0	0	1	0
-talino	intelligence	0	0	1	1
 talino	intelligent	0	0	1	1
 talino	knowledge	0	0	1	0
 geronimo	geronimo	0	0	1	0
@@ -11215,13 +10930,12 @@ pasalubong	gift	0	0	1	0
 pagsikat	popularity	0	0	1	0
 pagsikat	rising	0	0	1	1
 pagsikat	fame	0	0	1	0
-pagsuko	surrender	0	0	1	1
+aba	humble	0	0	1	1
 inutos	commanded	0	0	1	0
 inutos	ordered	0	0	1	0
 inutos	appointed	0	0	1	0
 walang	none	0	0	1	0
 walang	without	0	0	1	0
-walang	no	0	0	1	0
 opinyon	opinion	0	0	1	1
 abo	ash	0	0	1	1
 naglilingkod	of service	0	0	1	0
@@ -11247,7 +10961,6 @@ pinagsanib	join	0	0	1	0
 pinagsanib	combined	0	0	1	0
 patakaran	policy	0	0	1	1
 patakaran	rules	0	0	1	0
-umaabot	reach	0	0	1	0
 umaabot	reaching	0	0	1	0
 kabataang	youth	0	0	1	0
 kabataang	childhood	0	0	1	0
@@ -11296,7 +11009,8 @@ puki	gender	1	1	0	0
 puki	vagina	1	1	0	1
 puki	sounding	1	0	1	0
 puki	pronunciation	1	0	1	0
-industriya	industry	0	0	1	1
+papatayin	will be killed	0	0	1	0
+papatayin	to kill	0	0	1	0
 dalangin	prayer	0	0	1	1
 puke	vagina	0	0	1	0
 relatibidad	realtivity	1	0	1	0
@@ -11454,7 +11168,6 @@ ipininta	painted	0	0	1	0
 ordinaryong	ordinary	0	0	1	0
 mangangailangan	need	0	0	1	0
 mangangailangan	will need	0	0	1	0
-mangangailangan	be needing	0	0	1	0
 pal	pal	0	0	1	0
 tigil	stop	0	0	1	1
 drake	drake	0	0	1	0
@@ -11486,7 +11199,6 @@ diwang	essence	0	0	1	0
 diwang	meaning	0	0	1	0
 diwang	spirit	0	0	1	0
 pupunta	going	0	0	1	0
-pupunta	will come	0	0	1	0
 kaugnayang	connection	0	0	1	0
 kaugnayang	relationship	0	0	1	0
 bidyo	video	0	0	1	1
@@ -11501,9 +11213,8 @@ artilyero	artillery	0	0	1	0
 palaboy	vagabond	0	0	1	1
 palaboy	loitering	0	0	1	0
 palaboy	homeless	0	0	1	0
-ipinatapon	thrown	0	0	1	0
-ipinatapon	cast	0	0	1	0
-ipinatapon	exiled	0	0	1	0
+papaalis	going	0	0	1	0
+papaalis	leaving	0	0	1	0
 pinakamagaling	best	0	0	1	1
 pinakamagaling	outstanding	0	0	1	0
 piloto	pilot	0	0	1	1
@@ -11512,13 +11223,11 @@ telepono	telelphone	0	0	1	0
 telepono	telephone	0	0	1	1
 pagtatanim	planting	0	0	1	0
 pagtatanim	farming	0	0	1	0
-binalangkas	tackle	0	0	1	0
 binalangkas	outlined	0	0	1	0
 binalangkas	summarized	0	0	1	0
 klasikal	classical	0	0	1	0
 tatay	father	0	0	1	1
 dont	don't	0	0	1	0
-pagsasama	union	0	0	1	1
 pagsasama	combination	0	0	1	1
 pagsasama	together	0	0	1	0
 pahayag	news	0	0	1	0
@@ -11622,9 +11331,7 @@ mithiin	wish	0	0	1	0
 mithiin	mission	0	0	1	0
 ipahiwatig	meaning	0	0	1	0
 ipahiwatig	convey	0	0	1	0
-bayan	country	0	0	1	1
-bayan	nation	0	0	1	1
-bayan	city	0	0	1	1
+myembro	member	0	0	1	0
 albert	albert	0	0	1	0
 bayad	payment	0	0	1	1
 independyente	independent	0	0	1	0
@@ -11652,7 +11359,6 @@ km	not a tagalog word	0	0	1	0
 km	km	0	0	1	0
 makabangon	recover	0	0	1	0
 makabangon	get up	0	0	1	0
-makabangon	to rise	0	0	1	0
 tadtad	chopped	0	0	1	0
 tadtad	chop	0	0	1	0
 tadtad	full	0	0	1	0
@@ -11672,19 +11378,18 @@ ikakasal	betrothed	0	0	1	0
 thomas	thomas	0	0	1	0
 thomas	thomas (name)	0	0	1	0
 ibang	other	0	0	1	0
-pinagpatuloy	continue	0	0	1	0
-pinagpatuloy	continued	0	0	1	0
+masakop	occupy	0	0	1	0
+masakop	conquer	0	0	1	0
 epektong	effect	0	0	1	0
 ipinagtaka	curiousity	0	0	1	0
 ipinagtaka	wondered	0	0	1	0
 kanyan	property	0	0	1	0
-kanyan	his	0	0	1	0
 tumingin	stare	0	0	1	0
 tumingin	look	0	0	1	1
 tumingin	look upon	0	0	1	0
+palitan	replace	0	0	1	1
 palitan	changed	0	0	1	0
 palitan	exchange	0	0	1	1
-palitan	replace	0	0	1	1
 pagkukumpleto	completion	0	0	1	0
 pagkukumpleto	to complete	0	0	1	0
 lantad	to expose	1	1	0	0
@@ -11744,7 +11449,6 @@ pagtatanggol	defended	0	0	1	0
 sedisyon	betray	0	0	1	0
 sedisyon	sedition	0	0	1	0
 severino	severino	0	0	1	0
-bisyo	vice	0	0	1	1
 simulain	beginning	0	0	1	0
 simulain	fundamental	0	0	1	1
 medisinang	medicine	0	0	1	0
@@ -11772,7 +11476,6 @@ tandang	old man	0	0	1	0
 nagpahamak	betrayers	0	0	1	0
 nagpahamak	endangered	0	0	1	0
 nagpahamak	debauch	0	0	1	0
-magkasintahan	sweetheart	0	0	1	0
 magkasintahan	lovers	0	0	1	0
 magkasintahan	someone you in a relationship with	0	0	1	0
 pagpasa	transfer	0	0	1	0
@@ -11812,7 +11515,6 @@ pluido	fluid	0	0	1	0
 powers	powers	0	0	1	0
 alon	wave	0	0	1	1
 katorse	fourteen	0	0	1	1
-piging	fest	0	0	1	0
 piging	feast	0	0	1	1
 simple	simple	0	0	1	1
 pagaalaga	taking care of	0	0	1	0
@@ -11848,7 +11550,6 @@ pagdarausan	venue	0	0	1	0
 katha	essay	0	0	1	0
 katha	literary work	0	0	1	1
 katha	fabrication	0	0	1	0
-nawawala	gone	0	0	1	0
 nawawala	disappeared	0	0	1	0
 nawawala	missing	0	0	1	1
 suha	sunkist	1	0	1	0
@@ -11898,7 +11599,7 @@ saling	translate	0	0	1	0
 pangangatawan	body	0	0	1	1
 pangangatawan	built	0	0	1	0
 pangangatawan	body structure	0	0	1	0
-italy	italy	0	0	1	0
+labas	outside	0	0	1	1
 pagaalinlangan	doubt	0	0	1	0
 pagaalinlangan	hesitation	0	0	1	0
 sinapit	caused	0	0	1	0
@@ -11909,10 +11610,8 @@ librong	book	0	0	1	0
 diosdado	diosdado	0	0	1	0
 ilalagay	put	0	0	1	0
 ilalagay	to put	0	0	1	0
-laban	fight against	0	0	1	0
 laban	against	0	0	1	1
 malalagay	placed	0	0	1	0
-malalagay	placing	0	0	1	0
 malalagay	put into	0	0	1	0
 tagapamalakad	officer-in-charge	0	0	1	0
 tagapamalakad	in charge	0	0	1	0
@@ -11933,7 +11632,6 @@ mahinang	weak	0	0	1	0
 sosyal	social	0	0	1	1
 tali	rope	0	0	1	0
 tali	leash	0	0	1	1
-katutubo	native	0	0	1	1
 sanga	branch	0	0	1	1
 noli	not a tagalog word	0	0	1	0
 noli	noli	0	0	1	0
@@ -11959,15 +11657,11 @@ nuestra	our	0	0	1	0
 nuestra	nuestra	0	0	1	0
 sunod	follow	0	0	1	0
 sunod	next	0	0	1	0
-numerikal	numerical	0	0	1	0
-numerikal	numeric	0	0	1	0
 world	world	0	0	1	0
 respeto	respect	0	0	1	1
-mekanismo	mechanics	0	0	1	0
 mekanismo	mechanism	0	0	1	1
 tabas	shape	0	0	1	1
 tabas	cut	0	0	1	1
-tabas	contour	0	0	1	1
 source	source	0	0	1	0
 tabak	ax	1	1	0	0
 tabak	akm	1	0	1	0
@@ -11990,14 +11684,11 @@ mapagkukunan	resource	0	0	1	1
 bit	bit	0	0	1	0
 qurān	quran	0	0	1	0
 qurān	qur'an	0	0	1	0
-ginang	misis	0	0	1	0
-ginang	madam	0	0	1	1
-ginang	mrs.	0	0	1	0
-pinapaligiran	sorrounded	0	0	1	0
+magandang	beautiful	0	0	1	0
+magandang	good	0	0	1	0
 pinapaligiran	surrounded	0	0	1	0
 pinapaligiran	being surrounded	0	0	1	0
 alamat	legend	0	0	1	1
-alamat	fable	0	0	1	0
 bahay	house	0	0	1	1
 pinakamakapangyarihang	most powerful	0	0	1	0
 masipag	industrious	0	0	1	1
@@ -12011,6 +11702,8 @@ pumunta	went	0	0	1	0
 pumunta	to go	0	0	1	0
 malalayang	free	0	0	1	0
 nicaragua	nicaragua	0	0	1	0
+makakuha	to get	0	0	1	0
+makakuha	achieve	0	0	1	0
 natamo	reaped	0	0	1	0
 natamo	achieved	0	0	1	0
 tsunami	tsunami	0	0	1	0
@@ -12044,10 +11737,12 @@ cariñosa	affectionate	0	0	1	0
 makroekonomika	macroeconomics	0	0	1	0
 hagdanhagdang	terraced	0	0	1	0
 hagdanhagdang	terraces	0	0	1	0
+barrios	name of a person	0	0	1	0
+barrios	barrios	0	0	1	0
+barrios	village	0	0	1	0
 shinobi	ninja	0	0	1	0
 shinobi	shinobi	0	0	1	0
 inanyayahan	invited	0	0	1	0
-inanyayahan	invitation	0	0	1	0
 namulat	become aware	0	0	1	0
 namulat	opened	0	0	1	0
 pulungan	meeting place	0	0	1	0
@@ -12083,13 +11778,14 @@ kazunari	kazunari	0	0	1	0
 mactan	mactan	0	0	1	0
 pagbebenta	to sell	0	0	1	0
 pagbebenta	selling	0	0	1	0
-pugad	nest	0	0	1	1
+poder	mastery	0	0	1	0
+poder	custody	0	0	1	0
 batong	stone	0	0	1	0
+ilokano	ilocano	0	0	1	0
 ipinakiusap	ask to talk to	0	0	1	0
 ipinakiusap	pleaded	0	0	1	0
 ipinakiusap	requested	0	0	1	0
 nakakalimutan	forgetting	0	0	1	0
-nakakalimutan	forgot	0	0	1	0
 tipikal	typical	0	0	1	0
 tensai	tensai	0	0	1	0
 boys	boys	0	0	1	0
@@ -12107,7 +11803,7 @@ direktor	mountainous	1	0	1	0
 sambayanang	townspeople	0	0	1	0
 sambayanang	nation	0	0	1	0
 ikaapat	fourth	0	0	1	1
-maagang	early	0	0	1	0
+malawi	malawi	0	0	1	0
 inuuri	classifying	0	0	1	0
 inuuri	categorizes	0	0	1	0
 autonomous	autonomous	0	0	1	0
@@ -12123,11 +11819,8 @@ diktatoryal	dictatorial	0	0	1	0
 diktatoryal	dictatorship	0	0	1	0
 tinatanaw	perceived	0	0	1	0
 tinatanaw	looking at	0	0	1	0
-palatuntunan	program	0	0	1	1
-palatuntunan	laws	0	0	1	0
 positibong	positive	0	0	1	0
 positibong	positively	0	0	1	0
-sambayanan	national	0	0	1	0
 sambayanan	public	0	0	1	0
 sambayanan	people	0	0	1	0
 pagkapanalo	won	0	0	1	0
@@ -12205,7 +11898,6 @@ nangangahulugang	meaning	0	0	1	0
 nangangahulugang	means	0	0	1	0
 boracay	boracay	0	0	1	0
 pinakamalaking	biggest	0	0	1	0
-pinakamalaking	the biggest	0	0	1	0
 nakadama	felt	0	0	1	0
 pagbabawal	restriction	0	0	1	0
 pagbabawal	prohibited	0	0	1	0
@@ -12242,6 +11934,8 @@ gerilyang	guerilla	0	0	1	0
 sinusuportahan	supporting	0	0	1	0
 sinusuportahan	supported	0	0	1	0
 carla	carla	0	0	1	0
+agua	water	0	0	1	0
+agua	aqua	0	0	1	0
 rivera	rivera	0	0	1	0
 epekto	effect	0	0	1	1
 edison	edison	0	0	1	0
@@ -12255,19 +11949,19 @@ cordillera	mountain area	0	0	1	0
 cordillera	cordillera	0	0	1	0
 ilagay	put	0	0	1	1
 ilagay	placed	0	0	1	0
-kontinente	continent	0	0	1	1
+makabuo	compose	0	0	1	0
+makabuo	to form	0	0	1	0
+makabuo	form	0	0	1	0
 pinapanatili	maintained	0	0	1	0
 pinapanatili	maintain	0	0	1	0
 pinapanatili	maintaining	0	0	1	0
 kagaya	similar	0	0	1	1
 kagaya	like	0	0	1	1
-proyekto	project	0	0	1	1
+sino	who	0	0	1	1
 lapad	wideness	0	0	1	0
-lapad	width	0	0	1	1
 lapad	thickness	0	0	1	0
 luis	luis	0	0	1	0
 kahalagahan	importance	0	0	1	1
-sina	they	0	0	1	0
 sina	were	0	0	1	0
 matagumpay	successful	0	0	1	1
 matagumpay	victorious	0	0	1	0
@@ -12279,7 +11973,6 @@ tumaas	rising	0	0	1	0
 tumaas	increased	0	0	1	0
 katotohanang	truth	0	0	1	0
 alois	alois	0	0	1	0
-alois	name of person	0	0	1	0
 nahuli	capture	0	0	1	0
 nahuli	arrested	0	0	1	0
 nahuli	nabbed	0	0	1	0
@@ -12306,7 +11999,7 @@ punong	tree	0	0	1	0
 punong	chief	0	0	1	0
 adhikain	desire	0	0	1	0
 adhikain	goal	0	0	1	0
-links	links	0	0	1	0
+kooperatiba	cooperative	0	0	1	1
 pulisya	police	0	0	1	1
 chi	chi	0	0	1	0
 kagawarang	department	0	0	1	0
@@ -12320,7 +12013,6 @@ pinagtataguan	hiding	0	0	1	0
 binawi	renounced	0	0	1	0
 binawi	withdraw	0	0	1	0
 binawi	reclaim	0	0	1	0
-nabili	acqiure	0	0	1	0
 nabili	purchased	0	0	1	0
 nabili	bought	0	0	1	0
 kalahating	half	0	0	1	0
@@ -12333,7 +12025,6 @@ hinihipan	blowing	0	0	1	0
 mitolohiyang	mythology	0	0	1	0
 mitolohiyang	mythology of	0	0	1	0
 iii	iii	0	0	1	0
-kapisanan	an organization	0	0	1	0
 kapisanan	alliance	0	0	1	0
 kapisanan	association	0	0	1	1
 diskarte	approach	0	0	1	0
@@ -12342,7 +12033,8 @@ diskarte	strategy	0	0	1	0
 nakahanda	ready	0	0	1	1
 nakahanda	prepared	0	0	1	0
 serbisyong	service	0	0	1	0
-mababasa	read	0	0	1	0
+pinigilan	stopped	0	0	1	0
+pinigilan	restrained	0	0	1	0
 alin	which	0	0	1	1
 gabriel	gabriel	0	0	1	0
 itinanim	planted	0	0	1	0
@@ -12370,9 +12062,9 @@ kalakhang	metro	0	0	1	0
 chakra	chakra	0	0	1	0
 nagbabala	warned	0	0	1	0
 nagbabala	warning	0	0	1	0
-natapos	ceased	0	0	1	0
-natapos	done	0	0	1	0
 natapos	ended	0	0	1	0
+natapos	done	0	0	1	0
+natapos	ceased	0	0	1	0
 alinman	where ever	0	0	1	0
 alinman	whichever	0	0	1	0
 alinman	whatever	0	0	1	0
@@ -12402,7 +12094,6 @@ ngitngit	dark	0	0	1	0
 ngitngit	indignation	0	0	1	0
 ipinagbawal	forbade	0	0	1	0
 ipinagbawal	prohibit	0	0	1	0
-ipinagbawal	prohibited	0	0	1	0
 pagkaunawa	understanding	0	0	1	0
 halimaw	monster	0	0	1	1
 patula	poetic	0	0	1	0
@@ -12413,13 +12104,12 @@ pantukoy	article	0	0	1	1
 pantukoy	determiner	0	0	1	0
 iminumungkahi	suggesting	0	0	1	0
 iminumungkahi	proposed	0	0	1	0
-felisa	name of a person	0	0	1	0
 aprika	africa	0	0	1	0
 liban	except	0	0	1	1
-liban	other than	0	0	1	0
 lingua	language	0	0	1	0
 mapanatili	maintain	0	0	1	0
 mapanatili	to make it stay as it is	0	0	1	0
+wedding	wedding	0	0	1	0
 pamamahalang	governance	0	0	1	0
 pamamahalang	governing	0	0	1	0
 pamamahalang	how to govern	0	0	1	0
@@ -12451,13 +12141,12 @@ landas	road	0	0	1	1
 idyoma	idiom	0	0	1	0
 fiesta	festival	0	0	1	0
 fiesta	feast	0	0	1	0
-pwersang	force	0	0	1	0
-pwersang	troops	0	0	1	0
+daw	allegedly	0	0	1	0
+daw	they say	0	0	1	0
 kahabaghabag	pitiful	0	0	1	0
 asawang	spouse	0	0	1	0
 asawang	wife	0	0	1	1
 mandato	mandate	0	0	1	1
-ipakikita	to show	0	0	1	0
 ipakikita	will show	0	0	1	0
 ipakikita	show	0	0	1	0
 kasuotan	wearing	0	0	1	0
@@ -12466,7 +12155,6 @@ kasuotan	outfit	0	0	1	0
 katuturan	relevance	0	0	1	0
 katuturan	meaning	0	0	1	0
 katuturan	sense	0	0	1	0
-sin	sin	0	0	1	0
 naimbento	invented	0	0	1	0
 pagdadalangtao	pregnancy	0	0	1	0
 pagdadalangtao	pregnant	0	0	1	0
@@ -12495,7 +12183,6 @@ pagsugpo	prevent	0	0	1	0
 pagsugpo	defeat	0	0	1	0
 bintana	window	0	0	1	1
 bintang	accusation	0	0	1	1
-bintang	to blame	0	0	1	0
 pagtataas	increase	0	0	1	0
 pagtataas	prices go up	0	0	1	0
 talampakan	foot	0	0	1	0
@@ -12512,7 +12199,6 @@ natitiyak	sure	0	0	1	0
 natitiyak	confirm	0	0	1	0
 masaya	happy	0	0	1	1
 gagawin	will do	0	0	1	0
-gagawin	to do	0	0	1	0
 biyenan	mother-in law	1	0	1	0
 biyenan	mother-in-law-	1	0	1	0
 biyenan	setting	1	0	1	0
@@ -12561,7 +12247,6 @@ budhi	conscience	0	0	1	1
 budhi	personality	0	0	1	0
 calderon	name of a person	0	0	1	0
 tinugon	replied	0	0	1	0
-tinugon	answered	0	0	1	0
 tinugon	respond	0	0	1	0
 katiwalian	anomaly	0	0	1	0
 katiwalian	corruption	0	0	1	1
@@ -12573,16 +12258,15 @@ hamunin	urge	0	0	1	0
 hamunin	challenge	0	0	1	1
 hamunin	dare	0	0	1	1
 alas ng	time	0	0	1	0
-sinakmal	bite	0	0	1	0
-sinakmal	seized	0	0	1	0
+lumabas	came out	0	0	1	0
+lumabas	got out	0	0	1	0
+lumabas	out	0	0	1	0
 basilan	basilan	0	0	1	0
-elric	elric	0	0	1	0
-limbang	limbang	0	0	1	0
-limbang	part	0	0	1	0
+autonomiya	autonomy	0	0	1	0
+purong	pure	0	0	1	0
 nagsaad	tell	0	0	1	0
 nagsaad	stated	0	0	1	0
 ihahambing	compare	0	0	1	0
-ihahambing	to compare	0	0	1	0
 hinihintay	waiting	0	0	1	0
 hinihintay	waited	0	0	1	0
 bukirin	field	0	0	1	0
@@ -12603,7 +12287,6 @@ diborsyo	divorse	0	0	1	0
 hapunang	dinner	0	0	1	0
 hispano	hispanic	0	0	1	0
 hispano	spanish	0	0	1	0
-naglaho	gone	0	0	1	0
 naglaho	vanished	0	0	1	0
 naglaho	dissapeared	0	0	1	0
 treatise	treatise	0	0	1	0
@@ -12717,7 +12400,9 @@ aurista	ear surgeon	1	0	1	0
 aurista	otologist	1	0	1	0
 palihim	secretly	0	0	1	1
 palihim	secret	0	0	1	0
-ehrmann	ehrmann	0	0	1	0
+naibalita	news	0	0	1	0
+naibalita	announced	0	0	1	0
+naibalita	reported	0	0	1	0
 naga	naga	0	0	1	0
 nagkokodigo	records	0	0	1	0
 nagkokodigo	coded	0	0	1	0
@@ -12791,13 +12476,11 @@ katipan	lover/partner	0	0	1	0
 katipan	sweetheart	0	0	1	1
 katipan	boyfriend	0	0	1	0
 reform	reform	0	0	1	0
-hinambing	compare	0	0	1	0
 hinambing	compared	0	0	1	0
 hinawakan	held	0	0	1	1
 hinawakan	hold	0	0	1	1
 bruno	name of a person	0	0	1	0
 bruno	bruno	0	0	1	0
-turko	turk or turco	0	0	1	0
 turko	turk	0	0	1	0
 edisyon	edition	0	0	1	0
 yuji	yuji	0	0	1	0
@@ -12823,9 +12506,6 @@ tinagurian	called as	0	0	1	0
 tinagurian	known as	0	0	1	0
 kasunod	will follow	0	0	1	0
 kasunod	next	0	0	1	1
-nahaharap	face with	0	0	1	0
-nahaharap	facing	0	0	1	0
-nahaharap	faced	0	0	1	0
 pulang	red	0	0	1	0
 meiji	meiji	0	0	1	0
 hammurabi	hammurabi	0	0	1	0
@@ -12848,10 +12528,8 @@ kinokontrol	controlling	0	0	1	0
 pampanitikan	literature	0	0	1	0
 pampanitikan	grammar	0	0	1	0
 naglaban	fought	0	0	1	0
-iligan	name of a person	0	0	1	0
 iligan	iligan - name of a province	0	0	1	0
 naglabas	released	0	0	1	0
-naglabas	put in	0	0	1	0
 gaza	gaza	0	0	1	0
 pagaari	own	0	0	1	0
 pagaari	property of	0	0	1	0
@@ -12896,7 +12574,7 @@ multa	fine	0	0	1	1
 katambal	partner	0	0	1	0
 katambal	partnered with	0	0	1	0
 silangan	east	0	0	1	1
-kumbensyon	convention	0	0	1	0
+atake	attack	0	0	1	1
 pantig	syllable	0	0	1	1
 pantig	syllables	0	0	1	0
 libutan	promenade	0	0	1	0
@@ -12910,7 +12588,6 @@ pamantasang	university	0	0	1	0
 uboat	u-boat	0	0	1	0
 talata	poem	0	0	1	0
 talata	paragraph	0	0	1	1
-mabundok	mountain	0	0	1	0
 mabundok	mountainous	0	0	1	1
 pananalig	faith	0	0	1	1
 pananalig	belief	0	0	1	1
@@ -12921,7 +12598,9 @@ makapiling	to be with	0	0	1	0
 indonesyan	indonesian	0	0	1	0
 potograpiya	photography	0	0	1	1
 arabia	arabia	0	0	1	0
-arabic	arabic	0	0	1	0
+panulukan	corner	0	0	1	1
+panulukan	end	0	0	1	0
+panulukan	way	0	0	1	0
 ortodoxong	orthodoxy	0	0	1	0
 ortodoxong	orthodox	0	0	1	0
 halimbawang	example	0	0	1	0
@@ -12932,7 +12611,6 @@ kolonyalisasyon	colinization	0	0	1	0
 kolonyalisasyon	colonization	0	0	1	0
 administration	administration	0	0	1	0
 hurisdiksyon	jurisdiction	0	0	1	0
-panggugulo	president	0	0	1	0
 panggugulo	trouble	0	0	1	0
 panggugulo	violence	0	0	1	0
 abcdefghijklmnñngopqrstuvwxyz	the alphabet	0	0	1	0
@@ -12986,7 +12664,6 @@ katumbas	equal to	0	0	1	0
 katumbas	equal	0	0	1	1
 pinakakilala	introducing	0	0	1	0
 pinakakilala	most famous	0	0	1	0
-kanluranin	west	0	0	1	0
 kanluranin	western	0	0	1	0
 lathala	print	0	0	1	0
 lathala	publication	0	0	1	0
@@ -13015,6 +12692,7 @@ henetika	genetics	0	0	1	0
 himagsikang	revolution	0	0	1	0
 himagsikang	rebellion	0	0	1	0
 lvcivs	lvcivs	0	0	1	0
+vanuatu	vanuatu	0	0	1	0
 bukaneg	bukaneg	0	0	1	0
 dalawin	visit	0	0	1	1
 nagiisang	alone	0	0	1	0
@@ -13052,9 +12730,7 @@ binabago	changing	0	0	1	0
 binabago	changes	0	0	1	0
 binabago	change	0	0	1	0
 hapagkainan	dining table	0	0	1	0
-ipinalimbag	to have written	0	0	1	0
-ipinalimbag	doctrined	0	0	1	0
-ipinalimbag	published	0	0	1	0
+proper	proper	0	0	1	0
 lihis	against	0	0	1	0
 lihis	stray	0	0	1	0
 lihis	missed	0	0	1	0
@@ -13132,7 +12808,6 @@ kapital	capital	0	0	1	1
 commonwealth	commonwealth	0	0	1	0
 kasama	with	0	0	1	1
 kasama	together	0	0	1	0
-kasama	companion	0	0	1	1
 oposisyong	opposition	0	0	1	0
 kalooban	inside	0	0	1	1
 kalooban	values	0	0	1	0
@@ -13222,7 +12897,6 @@ hinabol	chased	0	0	1	0
 hinabol	run after	0	0	1	0
 tanauan	tanauan	0	0	1	0
 tanauan	name of a place	0	0	1	0
-rehimen	regimen	0	0	1	0
 rehimen	regime	0	0	1	0
 ingles	english	0	0	1	0
 balat	skin	0	0	1	1
@@ -13239,12 +12913,10 @@ isinagawa	undertaken	0	0	1	0
 rebeldeng	rebel	0	0	1	0
 tamod	semen	0	0	1	0
 arabyang	arabia	0	0	1	0
-arabyang	arabic	0	0	1	0
 adan	name of a person	0	0	1	0
 adan	adam	0	0	1	0
 ipagbili	sell	0	0	1	1
 ipagbili	to sell	0	0	1	0
-ipagbili	buy	0	0	1	0
 ligaya	joy	0	0	1	0
 ligaya	happiness	0	0	1	1
 bayaran	pay	0	0	1	1
@@ -13266,10 +12938,11 @@ pilay	lame	0	0	1	1
 mapadaan	passes	0	0	1	0
 mapadaan	passed by	0	0	1	0
 sihamoni	sihamoni	0	0	1	0
+kataastaasang	supreme	0	0	1	0
+kataastaasang	highest	0	0	1	0
 magbukas	to open	0	0	1	0
 magbukas	open	0	0	1	1
 pilas	tatters	0	0	1	0
-pilas	rend	0	0	1	1
 pilas	a rip or whole on a shirt	0	0	1	0
 pilar	pilar	0	0	1	0
 pilat	scar	0	0	1	1
@@ -13301,7 +12974,6 @@ pilmograpiya	filmography	0	0	1	0
 bubong	political	1	0	1	0
 bubong	roof	1	1	0	1
 lintik	damn	0	0	1	0
-lintik	curse word	0	0	1	0
 lintik	lightning	0	0	1	1
 pisiko	physicist	0	0	1	0
 inaama	father like	0	0	1	0
@@ -13356,11 +13028,9 @@ napatalsik	dethrone	0	0	1	0
 kritiko	critic	0	0	1	1
 tugtugin	music	0	0	1	1
 bienvenido	bienvenido	0	0	1	0
-construed	construed	0	0	1	0
 nasasakupang	territorry	0	0	1	0
 nasasakupang	covered	0	0	1	0
 nasasakupang	territory	0	0	1	0
-nais	like	0	0	1	0
 nais	want	0	0	1	1
 humahawak	is holding	0	0	1	0
 humahawak	holds	0	0	1	0
@@ -13381,7 +13051,6 @@ tagapangasiwa	manager	0	0	1	1
 tagapangasiwa	overseer	0	0	1	0
 pinigil	stopped	0	0	1	0
 pinigil	blocked	0	0	1	0
-baybayin	shore	0	0	1	1
 baybayin	bay	0	0	1	0
 baybayin	coast	0	0	1	1
 masyadong	much	0	0	1	0
@@ -13412,7 +13081,6 @@ arroyo	name of a person	0	0	1	0
 arroyo	arroyo	0	0	1	0
 forum	forum	0	0	1	0
 asin	salt	0	0	1	1
-iliad	iliad	0	0	1	0
 nominasyon	nomination	0	0	1	0
 niyang	his	0	0	1	0
 niyang	her	0	0	1	0
@@ -13422,7 +13090,6 @@ julio	julio (name)	0	0	1	0
 julio	julio (first name)	0	0	1	0
 julie	julie	0	0	1	0
 julie	julie (name)	0	0	1	0
-yori	name of a person	0	0	1	0
 planong	plan	0	0	1	0
 balagtas	balagtas	0	0	1	0
 elektrisidad	electricity	0	0	1	1
@@ -13444,7 +13111,6 @@ panggatong	firewood	0	0	1	1
 magkano	how much	0	0	1	1
 kaugalian	characteristic	0	0	1	0
 kaugalian	attitude	0	0	1	0
-kaugalian	custom	0	0	1	1
 bibliograpiya	bibliography	0	0	1	0
 inamin	confessed	0	0	1	0
 inamin	admitted	0	0	1	0
@@ -13500,14 +13166,12 @@ pipit	concerts	1	0	1	0
 pipit	sparrow	1	1	0	0
 pangalagaan	take care	0	0	1	0
 pangalagaan	protect	0	0	1	1
-paanyaya	invitation	0	0	1	1
 kaanib	member	0	0	1	1
 kaanib	members	0	0	1	0
 kaanib	ally	0	0	1	1
 indyan	indian	0	0	1	0
 end	end	0	0	1	0
-santang	saint (female)	0	0	1	0
-santang	saint	0	0	1	0
+kosmolohiya	cosmology	0	0	1	0
 kaisangdibdib	husband/wife	0	0	1	0
 kaisangdibdib	husband and wife	0	0	1	0
 kaisangdibdib	one at heart	0	0	1	0
@@ -13571,7 +13235,6 @@ maliit	small	0	0	1	1
 borneo	brunei	0	0	1	0
 borneo	name of a place	0	0	1	0
 organisasyong	organization	0	0	1	0
-elementong	elememt	0	0	1	0
 elementong	element	0	0	1	0
 mongolia	mongolia	0	0	1	0
 naipagbibili	for sale	0	0	1	0
@@ -13602,21 +13265,17 @@ kumain	to eat	0	0	1	1
 kumain	eat	0	0	1	1
 kumain	ate	0	0	1	0
 pasig	pasig	0	0	1	0
-tourism	tourism	0	0	1	0
 tourism	tourist	0	0	1	0
 paghahangad	desire	0	0	1	0
 paghahangad	longing for	0	0	1	0
-paghahangad	too much desire	0	0	1	0
 marinig	heard	0	0	1	0
 marinig	hear	0	0	1	1
 netherlands	name of a place	0	0	1	0
 netherlands	netherlands	0	0	1	0
-nahatulan	sentenced	0	0	1	0
 nahatulan	convicted	0	0	1	0
-mamimili	to buy	0	0	1	0
+nahatulan	sentenced	0	0	1	0
 mamimili	shopper	0	0	1	0
 mamimili	seller	0	0	1	0
-bulwagan	court	0	0	1	0
 bulwagan	hall	0	0	1	1
 gaivs	gaius	0	0	1	0
 ikalawa	second	0	0	1	1
@@ -13646,7 +13305,6 @@ humalik	kissed	0	0	1	0
 pannonia	south of danube	0	0	1	0
 pannonia	pannonia	0	0	1	0
 god	god	0	0	1	0
-kakayahan	capability	0	0	1	0
 kakayahan	capacity	0	0	1	1
 kakayahan	ability	0	0	1	1
 gutierrez	guttierez	0	0	1	0
@@ -13695,8 +13353,7 @@ latian	swampland	0	0	1	0
 pundamental	fundamental	0	0	1	0
 uuwi	go home	0	0	1	0
 uuwi	going home	0	0	1	0
-hagdanan	ladder	0	0	1	1
-hagdanan	stairs	0	0	1	0
+portal	portal	0	0	1	1
 pulpito	pulpit	0	0	1	1
 rehabilitasyon	rehabilitation	0	0	1	0
 masturbasyon	masturbation	0	0	1	0
@@ -13726,7 +13383,6 @@ magkalayo	apart	0	0	1	0
 kanta	sing	0	0	1	1
 kanta	song	0	0	1	1
 palakadlakad	walking	0	0	1	0
-palakadlakad	walking erratic	0	0	1	0
 urban	urban	0	0	1	0
 paso	ewer	0	0	1	0
 paso	name of a place	0	0	1	0
@@ -13734,7 +13390,6 @@ paso	plant base made in stone brick	0	0	1	0
 paso	color brown	0	0	1	0
 estrada	estrada	0	0	1	0
 naiisip	thinking	0	0	1	0
-naiisip	think	0	0	1	0
 pangakademya	academic	0	0	1	0
 pangakademya	for academics	0	0	1	0
 tampok	of	0	0	1	0
@@ -13780,8 +13435,7 @@ estudyante	student	0	0	1	1
 manggagamot	healer	0	0	1	0
 manggagamot	physician	0	0	1	1
 manggagamot	doctor	0	0	1	1
-aba	humble	0	0	1	1
-aba	hapless	0	0	1	0
+pagsuko	surrender	0	0	1	1
 tutuusin	account	0	0	1	0
 tutuusin	if going to think of it	0	0	1	0
 bsp	bsp	0	0	1	0
@@ -13791,7 +13445,6 @@ gayunman	eventough	0	0	1	0
 gayunman	however	0	0	1	1
 gayunman	even though	0	0	1	0
 pinahahalagahan	importance	0	0	1	0
-pinahahalagahan	to treasure	0	0	1	0
 pinahahalagahan	to value	0	0	1	0
 inatake	attack	0	0	1	0
 inatake	attacked	0	0	1	0
@@ -13800,7 +13453,6 @@ ortigas	ortigas (name of place)	0	0	1	0
 espiritwal	spiritual	0	0	1	0
 espiritwal	espiritual	0	0	1	0
 nagising	woke up	0	0	1	0
-nagising	awaken	0	0	1	0
 nagising	awoke	0	0	1	0
 molukas	moluccas	0	0	1	0
 paliparang	airport	0	0	1	0
@@ -13833,6 +13485,7 @@ gulonggulo	bewildered	0	0	1	0
 gulonggulo	confused	0	0	1	0
 solheim	name of a person	0	0	1	0
 solheim	solheim	0	0	1	0
+universal	universal	0	0	1	0
 nagpapalit	changing	0	0	1	0
 binhing	seed	0	0	1	0
 binhing	seeds	0	0	1	0
@@ -13852,8 +13505,8 @@ cecilia	cecilia	0	0	1	0
 dignidad	dignity	0	0	1	1
 sabi	said	0	0	1	0
 sabi	tell	0	0	1	0
-impit	very high pitch	0	0	1	0
 impit	curbed	0	0	1	1
+impit	very high pitch	0	0	1	0
 gobernador	governor	0	0	1	1
 pistang	festival	0	0	1	0
 pistang	fiesta	0	0	1	0
@@ -13861,7 +13514,7 @@ pistang	feast	0	0	1	0
 kundiman	traditional love song	0	0	1	0
 kundiman	love song	0	0	1	1
 kundiman	song	0	0	1	0
-wedding	wedding	0	0	1	0
+katutubo	native	0	0	1	1
 report	report	0	0	1	0
 pagtaas	rise	0	0	1	1
 pagtaas	rises	0	0	1	0
@@ -13884,17 +13537,12 @@ pambayan	city	0	0	1	0
 pambayan	national	0	0	1	0
 pambayan	public	0	0	1	1
 inapo	grandchildren	0	0	1	0
-iglesia	name of a group	0	0	1	0
 iglesia	church	0	0	1	1
 anumang	any	0	0	1	0
 anumang	whatever	0	0	1	0
 lucius	lucius	0	0	1	0
 sakbibi	carrying	0	0	1	0
 sakbibi	laden	0	0	1	0
-kawilihan	enjoyment	0	0	1	0
-kawilihan	excitement	0	0	1	0
-kawilihan	enjoyed	0	0	1	0
-tagagamit	using	0	0	1	0
 tagagamit	user	0	0	1	0
 inyong	your	0	0	1	1
 humahantong	end in	0	0	1	0
@@ -13903,7 +13551,6 @@ humahantong	lead	0	0	1	0
 masbate	name of a place	0	0	1	0
 ekolohiyang	ecology (that)	0	0	1	0
 ekolohiyang	ecology	0	0	1	0
-mayorya	majority	0	0	1	1
 ekskresyon	erection	1	0	1	0
 ekskresyon	excertion	1	1	0	0
 ekskresyon	powerful	1	0	1	0
@@ -13917,7 +13564,7 @@ sarawak	sarawak	0	0	1	0
 karapatan	right	0	0	1	1
 karapatan	rights	0	0	1	0
 inumin	drinks	0	0	1	0
-lupa	soil	1	1	1	1
+lupa	soil	1	1	0	1
 lupa	earth	1	0	1	1
 lupa	land	1	1	1	1
 lupa	main	1	0	1	0
@@ -13955,7 +13602,6 @@ kutang	fort	0	0	1	0
 bagong	new	0	0	1	0
 lupaing	land	0	0	1	0
 naka	wearing	0	0	1	0
-naka	equipped with	0	0	1	0
 naka	have	0	0	1	0
 paglipol	vanish	0	0	1	0
 paglipol	eradication	0	0	1	0
@@ -13965,7 +13611,6 @@ gulod	ridge	0	0	1	0
 nito	this	0	0	1	0
 nito	its	0	0	1	1
 tahanan	house	0	0	1	1
-tahanan	home	0	0	1	1
 bingi	deaf	0	0	1	1
 impormasyon	information	0	0	1	1
 katayuan	status	0	0	1	0
@@ -13986,7 +13631,6 @@ makikilala	to introduce	0	0	1	0
 makikilala	to know	0	0	1	0
 parusahan	penalize	0	0	1	0
 parusahan	punish	0	0	1	1
-parusahan	to punish	0	0	1	1
 nakayanan	afford	0	0	1	0
 nakayanan	was able to	0	0	1	0
 nakayanan	deal with	0	0	1	0
@@ -14067,7 +13711,8 @@ visayas	visayas	0	0	1	0
 aksis	axis	0	0	1	1
 pustiso	false teeth	0	0	1	1
 pustiso	dentures	0	0	1	0
-portal	portal	0	0	1	1
+hagdanan	ladder	0	0	1	1
+hagdanan	stairs	0	0	1	0
 panlalawigan	provincial	0	0	1	1
 panlalawigan	provinces	0	0	1	0
 visayan	of the visayas	0	0	1	0
@@ -14089,7 +13734,9 @@ jean	john	0	0	1	0
 jean	jean (name)	0	0	1	0
 prodyuser	producer	0	0	1	0
 dumagat	falcon	0	0	1	0
-severvs	not a tagalog word	0	0	1	0
+sobrang	over	0	0	1	0
+sobrang	too much	0	0	1	0
+sobrang	too	0	0	1	0
 ambag	translation	0	0	1	0
 ambag	share	0	0	1	0
 ambag	contribution	0	0	1	1
@@ -14106,7 +13753,6 @@ gnulinux	gnu/linux	0	0	1	0
 anyo	kind	0	0	1	0
 anyo	age	0	0	1	0
 anyo	form	0	0	1	1
-ely	head	0	0	1	0
 ely	ely	0	0	1	0
 ely	ely (name of a person)	0	0	1	0
 kalmado	calm	0	0	1	0
@@ -14165,14 +13811,13 @@ amor	amor	0	0	1	0
 amor	amor propio	0	0	1	0
 atletiks	athletics	1	1	0	1
 elektronikong	electronic	0	0	1	0
-elektronikong	electrical	0	0	1	0
 spongebob	spongebob	0	0	1	0
 nagsusuot	wearing	0	0	1	0
 nagsusuot	wears	0	0	1	0
 napocor	napocor	0	0	1	0
 pinagaaralan	being studied	0	0	1	0
-pinagaaralan	study	0	0	1	0
 pinagaaralan	researching	0	0	1	0
+pinagaaralan	study	0	0	1	0
 huwag	not to	0	0	1	0
 huwag	don't	0	0	1	1
 tiwala	trust	0	0	1	1
@@ -14180,7 +13825,6 @@ election	election	0	0	1	0
 emisyon	emission	0	0	1	0
 pagsisinungaling	lie	0	0	1	0
 pagsisinungaling	lying	0	0	1	1
-pagsisinungaling	to lie	0	0	1	0
 pagano	pagan	0	0	1	1
 rhine	rhine	0	0	1	0
 °c	°c	0	0	1	0
@@ -14220,8 +13864,7 @@ chapter	chapter	0	0	1	0
 malaki	huge	0	0	1	1
 malaki	great	0	0	1	1
 malaki	big	0	0	1	1
-papatayin	will be killed	0	0	1	0
-papatayin	to kill	0	0	1	0
+industriya	industry	0	0	1	1
 gineya	guinea	0	0	1	0
 griyegong	greek	0	0	1	0
 mikrobyo	microbe	0	0	1	1
@@ -14231,10 +13874,10 @@ mismo	indeed	0	0	1	0
 mismo	precisely	0	0	1	0
 mismo	itself	0	0	1	0
 baños	banos	0	0	1	0
+nabuong	formed	0	0	1	0
+nabuong	created	0	0	1	0
 paliguan	bathroom	0	0	1	1
-pagsagwan	padelling	0	0	1	0
-pagsagwan	rowing	0	0	1	0
-pagsagwan	row	0	0	1	0
+lacson	lacson	0	0	1	0
 bata	children	0	0	1	0
 isinasaad	stating	0	0	1	0
 isinasaad	stated	0	0	1	0
@@ -14244,7 +13887,6 @@ diwa	spirit	0	0	1	1
 diwa	idea	0	0	1	1
 nagpapalipatlipat	moving	0	0	1	0
 nagpapalipatlipat	wandering	0	0	1	0
-nagpapalipatlipat	moved from one place to another	0	0	1	0
 interaksiyon	interaction	0	0	1	0
 ussr	ussr	0	0	1	0
 karamihang	majority	0	0	1	0
@@ -14311,7 +13953,6 @@ pinakamalawak	widest	0	0	1	0
 pinakamalawak	widely	0	0	1	0
 pinakamalawak	largest	0	0	1	0
 bida	protagonist	0	0	1	1
-bida	main character	0	0	1	0
 raha	raja	0	0	1	0
 raha	rajah	0	0	1	1
 raha	chief	0	0	1	0
@@ -14328,7 +13969,6 @@ matutuling	fast	0	0	1	0
 perez	perez	0	0	1	0
 labis	very	0	0	1	1
 labis	over	0	0	1	1
-labis	excess	0	0	1	1
 nagbigay	provided	0	0	1	0
 nagbigay	gave	0	0	1	0
 ni	of	0	0	1	1
@@ -14391,7 +14031,6 @@ kasulatang	writing	0	0	1	0
 balarila	grammar	0	0	1	1
 pakikibaka	plight	0	0	1	0
 pakikibaka	alliance	0	0	1	0
-pakikibaka	struggle	0	0	1	1
 uranyo	bolsheviks	1	0	1	0
 uranyo	uranium	1	1	0	1
 pagmamana	inheretance	0	0	1	0
@@ -14497,7 +14136,6 @@ manghihimagsik	revolutionary	0	0	1	1
 manghihimagsik	to revolt	0	0	1	0
 manghihimagsik	revolutionist	0	0	1	1
 kimikang	chemical	0	0	1	0
-lumiwas	gone	0	0	1	0
 lumiwas	depart	0	0	1	0
 lumiwas	detour	0	0	1	0
 saya	skirt	0	0	1	1
@@ -14532,7 +14170,6 @@ pentateuch	not a tagalog word	0	0	1	0
 pentateuch	pentateuch	0	0	1	0
 water	water	0	0	1	0
 tumugon	respond	0	0	1	0
-tumugon	to give	0	0	1	0
 tumugon	replied to	0	0	1	0
 semilya	sperm	0	0	1	0
 semilya	semen	0	0	1	0
@@ -14544,25 +14181,23 @@ panlipunan	for the community	0	0	1	0
 panlipunan	societal	0	0	1	0
 panlipunan	social	0	0	1	1
 nga	yes	0	0	1	0
-nga	though	0	0	1	0
 arc	arc	0	0	1	0
 talumpating	speech	0	0	1	0
-talumpating	declamation	0	0	1	0
 samantala	while	0	0	1	1
 samantala	meanwhile	0	0	1	1
 magbigay	to give	0	0	1	0
 lokal	local	0	0	1	1
 darussalam	darussalam	0	0	1	0
-lacson	lacson	0	0	1	0
 pagbalik	return	0	0	1	1
 mediteraneo	medditerenean	0	0	1	0
 mediteraneo	mediterranean	0	0	1	0
 makahulugang	relevant	0	0	1	0
 makahulugang	meaningful	0	0	1	0
-beautiful	beautiful	0	0	1	0
+taliwas	contrary	0	0	1	0
+taliwas	reverse	0	0	1	0
+taliwas	against	0	0	1	0
 parma	parma	0	0	1	0
 binabanggit	mentioned	0	0	1	0
-patriae	this is a latin word not tagalog	0	0	1	0
 patriae	latin word	0	0	1	0
 naghain	serve	0	0	1	0
 naghain	proposed	0	0	1	0
@@ -14619,7 +14254,6 @@ nilalarawang	illustrated	0	0	1	0
 nilalarawang	describe	0	0	1	0
 nilalarawang	describing	0	0	1	0
 masasayang	happy	0	0	1	0
-silay	they	0	0	1	0
 nakahimpil	station	0	0	1	0
 nakahimpil	stationed	0	0	1	0
 anyos	age	0	0	1	0
@@ -14636,11 +14270,11 @@ mananalaysay	speaker	0	0	1	0
 mananalaysay	narrator	0	0	1	0
 mananalaysay	storyteller	0	0	1	0
 inalis	removed	0	0	1	0
-inalis	took away	0	0	1	0
 misyong	missionaries	0	0	1	0
 misyong	mission	0	0	1	0
-nananakit	hurting	0	0	1	0
-nananakit	inflicting pain	0	0	1	0
+sinasakyan	ridden	0	0	1	0
+sinasakyan	riding	0	0	1	0
+sinasakyan	vehicle	0	0	1	0
 tagiliran	side	0	0	1	1
 magasin	magazine	0	0	1	1
 magasin	magasine	0	0	1	0
@@ -14663,7 +14297,6 @@ pangkalikol	probe	1	1	0	1
 pangkalikol	return	1	0	1	0
 kapalaran	fortune	0	0	1	1
 kapalaran	destiny	0	0	1	1
-kapalaran	fate	0	0	1	1
 dumadaloy	flowing	0	0	1	0
 pagaalsa	revolt	0	0	1	0
 pagaalsa	rebellion	0	0	1	0
@@ -14682,7 +14315,6 @@ nakikitang	noticeable	0	0	1	0
 palasyo	palace	0	0	1	1
 sumikat	known	0	0	1	0
 sumikat	famous	0	0	1	0
-sumikat	fame	0	0	1	0
 sebwano	cebuano	0	0	1	0
 kasabihan	adage	0	0	1	0
 kasabihan	saying	0	0	1	1
@@ -14774,7 +14406,6 @@ komunismo	communism	0	0	1	1
 namamayaning	dominant	0	0	1	0
 namamayaning	domimating	0	0	1	0
 namamayaning	most common	0	0	1	0
-kosmolohiya	cosmology	0	0	1	0
 menandro	menandro	0	0	1	0
 menandro	menandro (name)	0	0	1	0
 nagbuhat	originated	0	0	1	0
@@ -14812,7 +14443,6 @@ nakaligtas	unnoticed	0	0	1	0
 alipin	servant	0	0	1	1
 alipin	slave	0	0	1	1
 sanchez	sanchez	0	0	1	0
-relyenong	stuffed chicken	0	0	1	0
 relyenong	relyenong (kind of food menu)	0	0	1	0
 pangkagawaran	department	0	0	1	0
 pangkagawaran	departamental	0	0	1	0
@@ -14828,7 +14458,6 @@ bumoto	to vote	0	0	1	1
 bumoto	act of voting	0	0	1	0
 con	with	0	0	1	0
 singapura	singapore	0	0	1	0
-nakhon	name of a person	0	0	1	0
 pokemon	pokemon	0	0	1	0
 george	george	0	0	1	0
 ian	ian (name)	0	0	1	0
@@ -14851,11 +14480,10 @@ alak	liquor	0	0	1	1
 alak	alcoholic drink	0	0	1	1
 montenegro	montenegro	0	0	1	0
 alam	know	0	0	1	1
-tinagubilinan	advice	0	0	1	0
 tinagubilinan	requesting	0	0	1	0
 tinagubilinan	instructed	0	0	1	0
-silang	they	0	0	1	0
 silang	birth	0	0	1	0
+silang	they	0	0	1	0
 alas	de las alas (surname)	0	0	1	0
 alas	alas	0	0	1	0
 nabigo	failed	0	0	1	0
@@ -14888,8 +14516,8 @@ kuting	mods	1	0	1	0
 kuting	cat	1	1	0	0
 balana	someone	0	0	1	0
 balana	common	0	0	1	0
-ipaglaban	fight for	0	0	1	0
 ipaglaban	defend	0	0	1	1
+ipaglaban	fight for	0	0	1	0
 napilitan	forced	0	0	1	0
 sumailalim	undergo	0	0	1	0
 sumailalim	under	0	0	1	0
@@ -14899,11 +14527,9 @@ antropolohiyang	anthropoligical	0	0	1	0
 nilulukob	mixed	0	0	1	0
 nilulukob	conquer	0	0	1	0
 nabuhay	lived	0	0	1	0
-nabuhay	to live	0	0	1	0
 ang	the	0	0	1	1
 ang	is	0	0	1	0
 pagsukat	measurement	0	0	1	1
-pagsukat	measure	0	0	1	0
 itinatago	hiding	0	0	1	0
 itinatago	being hidden	0	0	1	0
 ann	ann	0	0	1	0
@@ -14952,9 +14578,9 @@ maagap	early	0	0	1	0
 maagap	prompt	0	0	1	1
 ipaalam	inform	0	0	1	0
 ipaalam	tell	0	0	1	0
-pinakauna	the very first	0	0	1	0
-pinakauna	very first	0	0	1	0
 pinakauna	first	0	0	1	0
+pinakauna	very first	0	0	1	0
+pinakauna	the very first	0	0	1	0
 testamentum	testament	0	0	1	0
 rosaryo	rosary	0	0	1	1
 cojuangco	cojuangco	0	0	1	0
@@ -14972,7 +14598,6 @@ prutas	fruits	0	0	1	0
 jakarta	jakarta	0	0	1	0
 makabuluhang	important	0	0	1	0
 makabuluhang	meaningful	0	0	1	0
-koran	muslim bible	0	0	1	0
 sikiyatriya	psychiatry	0	0	1	0
 makasal	wedding	0	0	1	0
 makasal	get married	0	0	1	0
@@ -15011,7 +14636,6 @@ ugali	personality	1	0	1	0
 mercado	mercado	0	0	1	0
 binata	teen	0	0	1	0
 binata	young man	0	0	1	1
-binata	adult	0	0	1	0
 replikasyon	replication	0	0	1	0
 tiya	auntie	1	1	0	0
 tiya	need	1	0	1	0
@@ -15041,6 +14665,8 @@ kulta	cult	0	0	1	0
 kulta	curd	0	0	1	0
 kulta	coagulation	0	0	1	0
 papel	paper	0	0	1	1
+mapagpipilian	choice	0	0	1	1
+mapagpipilian	choices	0	0	1	0
 institusyong	institution	0	0	1	0
 kaligayahan	happiness	0	0	1	1
 pagkalap	collect	0	0	1	0
@@ -15051,6 +14677,8 @@ pimentel	pimentel	0	0	1	0
 magyuko	bow down	0	0	1	0
 magyuko	to bow	0	0	1	0
 magyuko	bow	0	0	1	0
+pinid	smear	0	0	1	0
+pinid	closed	0	0	1	1
 kauriananatomiya	anatomical	0	0	1	0
 shinigami	shinigami	0	0	1	0
 hanapbuhay	work	0	0	1	1
@@ -15060,7 +14688,6 @@ huminto	stopped	0	0	1	0
 huminto	stop	0	0	1	1
 sibilyan	civilian	0	0	1	1
 nagmano	showed respect	0	0	1	0
-nagmano	to give courtsy or respect ( this is courtsy by children to give respect to their elders at most time family youngers grabs your hand and bow as they touch the back of the hand to their forehead)	0	0	1	0
 nagmana	inherited	0	0	1	0
 puntos	score	0	0	1	1
 puntos	points	0	0	1	0
@@ -15102,7 +14729,6 @@ malubos	absolute	0	0	1	0
 malubos	imagine	0	0	1	0
 sinama	brought	0	0	1	0
 sinama	included	0	0	1	0
-sinama	joined	0	0	1	0
 napanalunan	won	0	0	1	0
 napanalunan	prize	0	0	1	0
 losyon	shells	1	0	1	0
@@ -15201,15 +14827,12 @@ pagkalipas	after	0	0	1	1
 patayin	kill	0	0	1	1
 patayin	to kill	0	0	1	1
 bathala	kings	0	0	1	0
-bathala	god	0	0	1	1
 bathala	lord	0	0	1	0
 misyon	mission	0	0	1	0
-prinsipyo	priciple	0	0	1	0
 prinsipyo	principle	0	0	1	1
 golpo	gulf	0	0	1	1
 pigilin	stop	0	0	1	1
 pigilin	to stop	0	0	1	0
-paglilingkod	serve	0	0	1	0
 paglilingkod	in service	0	0	1	0
 paglilingkod	service	0	0	1	1
 manila	manila	0	0	1	0
@@ -15243,7 +14866,7 @@ nagayos	prepare	0	0	1	0
 model	model	0	0	1	0
 binalak	planed	0	0	1	0
 binalak	planned	0	0	1	0
-idinaos	held	0	0	1	0
+samantalang	meanwhile	0	0	1	0
 gamit	belongings	0	0	1	0
 gamit	thing	0	0	1	0
 gamit	use	0	0	1	1
@@ -15294,7 +14917,9 @@ seksyon	section	0	0	1	0
 nangangasiwa	manager	0	0	1	0
 nangangasiwa	manage	0	0	1	0
 nangangasiwa	in-charge	0	0	1	0
-napansin	noticed	0	0	1	0
+karong	funeral car	0	0	1	0
+karong	carriage	0	0	1	0
+karong	chariot	0	0	1	0
 komposisyon	composition	0	0	1	1
 palibhasay	because	0	0	1	0
 palibhasay	due to	0	0	1	0
@@ -15321,13 +14946,14 @@ iniiwasan	stay away	0	0	1	0
 pacific	pacific	0	0	1	0
 pornograpiya	pornography	0	0	1	1
 respect	respect	0	0	1	0
-kalawakang	horizon	0	0	1	0
 kalawakang	space	0	0	1	0
 brothers	brothers	0	0	1	0
 naapektuhan	affected	0	0	1	0
 moog	tower	0	0	1	1
 moog	name of a place	0	0	1	0
 moog	fortress	0	0	1	0
+ipaabot	notify	0	0	1	0
+ipaabot	send	0	0	1	0
 iginagalang	respected	0	0	1	0
 iginagalang	respect	0	0	1	0
 luxembourg	luxembourg	0	0	1	0
@@ -15377,18 +15003,16 @@ instrumento	instrument	0	0	1	1
 gary	gary (name)	0	0	1	0
 hudyong	jewish	0	0	1	0
 paninindigan	stand for	0	0	1	0
-paninindigan	belief	0	0	1	0
 paninindigan	stand by	0	0	1	0
+nananakit	inflicting pain	0	0	1	0
 pangngalang	noun	0	0	1	0
 pangngalang	name	0	0	1	0
 hari	king	0	0	1	1
 nagbigaydaan	led to	0	0	1	0
 nagbigaydaan	give-way	0	0	1	0
-nagbigaydaan	give way	0	0	1	0
 nagpatibay	strengthen	0	0	1	0
 nagpatibay	strengthened	0	0	1	0
 nagpatibay	approved	0	0	1	0
-ponce	name of a person	0	0	1	0
 ponce	ponce	0	0	1	0
 tiyago	name of a person	0	0	1	0
 masaklap	devastating; bitter	0	0	1	0
@@ -15410,7 +15034,6 @@ namang	seems	0	0	1	0
 namang	might	0	0	1	0
 tupa	sheep	0	0	1	1
 tupa	lamb or sheep	0	0	1	0
-pakikipagtalik	sex (verb)	0	0	1	0
 pakikipagtalik	sex	0	0	1	0
 jun	jun	0	0	1	0
 jun	jun (name)	0	0	1	0
@@ -15420,7 +15043,6 @@ panganib	danger	0	0	1	1
 makatulog	fall asleep	0	0	1	1
 makatulog	to sleep	0	0	1	0
 makatulog	sleep	0	0	1	0
-nanirahan	to live in a place	0	0	1	0
 nanirahan	lived	0	0	1	0
 dumagsa	swamp	0	0	1	0
 dumagsa	flocked	0	0	1	0
@@ -15462,7 +15084,6 @@ pinapalo	beat	0	0	1	0
 binangonan	binagonan	0	0	1	0
 binangonan	binangonan	0	0	1	0
 kayumangging	brown	0	0	1	0
-kayumangging	fair complexion	0	0	1	0
 nagtrabaho	worked	0	0	1	0
 nagtrabaho	working	0	0	1	0
 nagdudulot	causing	0	0	1	0
@@ -15472,7 +15093,6 @@ isinabatas	regulate	0	0	1	0
 isinabatas	passed into law	0	0	1	0
 braso	arm	0	0	1	1
 bihirang	rarely	0	0	1	0
-bihirang	not often	0	0	1	0
 pamamalakad	regulation	0	0	1	0
 pamamalakad	management	0	0	1	1
 binigyangdiin	emphasized	0	0	1	0
@@ -15480,7 +15100,7 @@ binigyangdiin	to give emphasis	0	0	1	0
 kasalukuyang	current	0	0	1	0
 kasalukuyang	this time	0	0	1	0
 kasalukuyang	present	0	0	1	0
-wikain	dialect	0	0	1	1
+includes	includes	0	0	1	0
 maligaya	happy	0	0	1	1
 remedios	remedios	0	0	1	0
 grupo	group	0	0	1	1
@@ -15534,7 +15154,9 @@ nitong	of the same	0	0	1	0
 kumausap	talked to	0	0	1	0
 kumausap	to talked to	0	0	1	0
 ibatibang	different	0	0	1	0
-ilokano	ilocano	0	0	1	0
+nahaharap	face with	0	0	1	0
+nahaharap	facing	0	0	1	0
+nahaharap	faced	0	0	1	0
 tagala	tagala	0	0	1	0
 tagala	tagalog	0	0	1	0
 pakinggan	hear	0	0	1	1
@@ -15552,7 +15174,6 @@ baklad	fish corrals	0	0	1	0
 makatanggi	ignore	0	0	1	0
 makatanggi	refuse	0	0	1	0
 makatanggi	resent	0	0	1	0
-elektroniko	electronics	0	0	1	0
 elektroniko	electronic	0	0	1	0
 nakaugnay	in relation with	0	0	1	0
 nakaugnay	inter-related	0	0	1	0
@@ -15582,7 +15203,6 @@ nagbalik	return	0	0	1	0
 nagbalik	returned	0	0	1	0
 panyong	panyong	0	0	1	0
 anang	according to	0	0	1	0
-anang	says	0	0	1	0
 anang	anang	0	0	1	0
 sakop	covered	0	0	1	0
 sakop	gaza	0	0	1	0
@@ -15620,7 +15240,7 @@ makitang	saw	0	0	1	0
 makitang	to see	0	0	1	0
 escalante	escalante	0	0	1	0
 maluku	maluku	0	0	1	0
-christian	christian	0	0	1	0
+distribusyon	distribution	0	0	1	0
 kabanata	chapter	0	0	1	1
 subanen	subanen	0	0	1	0
 tradisyong	tradition	0	0	1	0
@@ -15655,7 +15275,6 @@ lumihis	turned back	0	0	1	0
 lumihis	deviate	0	0	1	1
 lumihis	they went into other way	0	0	1	0
 nabuo	formed	0	0	1	0
-nabuo	to make whole	0	0	1	0
 kalansay	bones	1	0	1	0
 kalansay	endoskeleton	1	0	1	0
 kalansay	galaxies	1	0	1	0
@@ -15697,7 +15316,6 @@ matagal	a while	0	0	1	0
 kawing	few	0	0	1	0
 kawing	chain	0	0	1	0
 kawing	bond	0	0	1	0
-pinapakita	shown	0	0	1	0
 pinapakita	showed	0	0	1	0
 pinapakita	shows	0	0	1	0
 lehislasyon	legislation	0	0	1	0
@@ -15715,7 +15333,6 @@ portugues	portuguese	0	0	1	0
 portugues	portugese	0	0	1	0
 matabang	fat	0	0	1	0
 v	v	0	0	1	0
-sentro	certre	0	0	1	0
 sentro	center	0	0	1	1
 karangalan	excellence	0	0	1	0
 karangalan	honor	0	0	1	1
@@ -15779,7 +15396,6 @@ pinakamataong	most crowded	0	0	1	0
 karibal	rival	0	0	1	0
 karibal	competitor	0	0	1	0
 islas	islands	0	0	1	0
-islas	isles	0	0	1	0
 islas	islas	0	0	1	0
 teritoryong	teritory	0	0	1	0
 teritoryong	territory	0	0	1	0
@@ -15830,14 +15446,12 @@ man	whatever	0	0	1	1
 pakinabang	benefit	0	0	1	1
 pakinabang	use	0	0	1	1
 pakinabang	value	0	0	1	0
-mamamayan	citizen	0	0	1	1
 mamamayan	citizens	0	0	1	0
-mamamayan	people	0	0	1	0
+mamamayan	citizen	0	0	1	1
 nakapasa	passed	0	0	1	0
 monopolyo	monopoly	0	0	1	1
-ibinatay	referred	0	0	1	0
-ibinatay	patterned from	0	0	1	0
 ibinatay	based upon	0	0	1	0
+ibinatay	referred	0	0	1	0
 katauhan	identity	0	0	1	0
 katauhan	personality	0	0	1	1
 leyte	leyte	0	0	1	0
@@ -15879,13 +15493,11 @@ inaatupag	doing	0	0	1	0
 inaatupag	prioritize	0	0	1	0
 inaatupag	did	0	0	1	0
 imbakan	storage	0	0	1	1
-sanggunian	references	0	0	1	0
-sanggunian	reference	0	0	1	0
+itbayat	itbayat	0	0	1	0
 nagorganisa	organizer	0	0	1	0
 nagorganisa	organized	0	0	1	0
 pampangulo	for president	0	0	1	0
 pampangulo	presidential	0	0	1	0
-palayain	release	0	0	1	1
 palayain	released	0	0	1	0
 palayain	freed	0	0	1	0
 sampaloc	tamarind	0	0	1	0
@@ -15901,7 +15513,6 @@ utara	utara	0	0	1	0
 utara	name of a place	0	0	1	0
 kristiyanismo	christianism	0	0	1	1
 kristiyanismo	christianity	0	0	1	0
-colombia	colombia	0	0	1	0
 pablo	peter	0	0	1	0
 pablo	pablo	0	0	1	0
 binawian	taken	0	0	1	0
@@ -15951,7 +15562,6 @@ diplomatikong	diplomatic	0	0	1	0
 kaurianpilosopiyang	classification philosophy	0	0	1	0
 kaurianpilosopiyang	type: philosophy	0	0	1	0
 kaurianpilosopiyang	philosophy	0	0	1	0
-tinataguriang	being called	0	0	1	0
 tinataguriang	called	0	0	1	0
 tinataguriang	proclaim	0	0	1	0
 pandinig	hear	0	0	1	0
@@ -15999,7 +15609,6 @@ dinagdag	added	0	0	1	0
 kalye	street	0	0	1	1
 guniguni	imagination	0	0	1	1
 lumbera	lumbera	0	0	1	0
-nagagawa	it can be done	0	0	1	0
 nagagawa	done	0	0	1	0
 miyembro	member	0	0	1	1
 midya	media	0	0	1	0
@@ -16044,8 +15653,7 @@ itinatakda	assigned	0	0	1	0
 itinatakda	set	0	0	1	0
 itinatakda	appointed	0	0	1	0
 humina	weaken	0	0	1	0
-pagsuporta	support	0	0	1	0
-pagsuporta	in support of	0	0	1	0
+piraso	piece	0	0	1	1
 intelligence	intelligence	0	0	1	0
 audiencia	audience	0	0	1	0
 esmeralda	emerald	0	0	1	1
@@ -16056,8 +15664,8 @@ defense	defense	0	0	1	0
 are	are	0	0	1	0
 likas	natural	0	0	1	1
 likas	nature	0	0	1	1
-gawa	made	0	0	1	0
-gawa	crated by	0	0	1	0
+aling	older lady	0	0	1	0
+aling	which	0	0	1	0
 baro	dress	0	0	1	1
 baro	shirt	0	0	1	1
 benepisyo	benefits	0	0	1	0
@@ -16111,18 +15719,18 @@ republika	republic	0	0	1	1
 sakay	ride	0	0	1	1
 dakila	great	0	0	1	1
 dakila	the great	0	0	1	0
+smith	smith	0	0	1	0
+smith	adam smith	0	0	1	0
 alyadong	allied	0	0	1	0
 alyadong	ally	0	0	1	0
 nagsasama	joining or joined together	0	0	1	0
 nagsasama	together	0	0	1	0
 guzman	guzman	0	0	1	0
 nagdesisyon	decided	0	0	1	0
-kipot	norrow	0	0	1	0
 kipot	narrow	0	0	1	1
 kipot	gulf	0	0	1	0
 lumalayo	getting far	0	0	1	0
 lumalayo	going far	0	0	1	0
-village	village	0	0	1	0
 kagandahang	beautiful	0	0	1	0
 kagandahang	beauty	0	0	1	0
 bataan	bataan	0	0	1	0
@@ -16142,7 +15750,6 @@ paghina	weakening	0	0	1	0
 paghina	weaken	0	0	1	0
 paghahanap	search	0	0	1	1
 paghahanap	quest	0	0	1	0
-paghahanap	searching	0	0	1	0
 pi	pi	0	0	1	0
 po	yes	0	0	1	0
 po	(a word to show respect for someone older or in authority)	0	0	1	0
@@ -16182,7 +15789,8 @@ temperatura	temperature	1	1	1	1
 temperatura	structure	1	0	1	0
 maramihang	multiple	0	0	1	0
 maramihang	massive	0	0	1	0
-sibyla	sibyla	0	0	1	0
+pinangalanan	named	0	0	1	0
+pinangalanan	name	0	0	1	0
 pinakamatanda	oldest	0	0	1	1
 persya	persia	0	0	1	0
 teoriyang	theory	0	0	1	0
@@ -16194,7 +15802,6 @@ rio	rio ( first name)	0	0	1	0
 lambat	net	0	0	1	1
 lambat	fish net	0	0	1	0
 biolohiya	biology	0	0	1	0
-pagsakop	colonize	0	0	1	0
 pagsakop	conquest	0	0	1	1
 pagsakop	conquer	0	0	1	0
 ignacio	ignacio	0	0	1	0
@@ -16209,8 +15816,6 @@ santol	santol	0	0	1	1
 franklin	franklin	0	0	1	0
 relatibong	relative	0	0	1	0
 epifanio	epiphany	0	0	1	0
-epifanio	epifanio	0	0	1	0
-seryosong	serious	0	0	1	0
 seryosong	seriously	0	0	1	0
 linggong	week of	0	0	1	0
 linggong	in a week	0	0	1	0
@@ -16228,9 +15833,9 @@ rafael	name of a person	0	0	1	0
 rafael	rafael	0	0	1	0
 kalihimministro	secretary minister	0	0	1	0
 kalihimministro	minister	0	0	1	0
-ipaabot	reach	0	0	1	0
-ipaabot	notify	0	0	1	0
-ipaabot	send	0	0	1	0
+kawilihan	enjoyment	0	0	1	0
+kawilihan	excitement	0	0	1	0
+kawilihan	enjoyed	0	0	1	0
 himig	hymn	0	0	1	0
 himig	tune	0	0	1	1
 kasabayan	together with	0	0	1	0
@@ -16245,7 +15850,9 @@ malayong	far away	0	0	1	0
 pagkaraang	after	0	0	1	0
 sarili	self	0	0	1	1
 sarili	own	0	0	1	1
-also	din	0	0	1	0
+paraang	process	0	0	1	0
+paraang	manner	0	0	1	0
+paraang	way	0	0	1	0
 konstitusyong	constitution	0	0	1	0
 bandila	flag	0	0	1	1
 makroekonomiya	macroeconomics	1	1	1	0
@@ -16263,8 +15870,10 @@ akademiya	academic	0	0	1	0
 alitang	anger	0	0	1	0
 alitang	misunderstanding	0	0	1	0
 alitang	conflict	0	0	1	0
-imperyal	empire	0	0	1	0
 imperyal	imperial	0	0	1	0
+desiderata	desiderata	0	0	1	0
+desiderata	not a tagalog word	0	0	1	0
+desiderata	desires	0	0	1	0
 pagkatalo	losing	0	0	1	0
 pagkatalo	lose	0	0	1	0
 pagkatalo	defeat	0	0	1	1
@@ -16275,7 +15884,6 @@ lincoln	lincoln	0	0	1	0
 convection	convection	0	0	1	0
 manggagawa	worker	0	0	1	1
 kaso	case	0	0	1	1
-kasi	beacause	0	0	1	0
 kasi	because	0	0	1	1
 nuon	that time	0	0	1	0
 nuon	at that time	0	0	1	0
@@ -16333,7 +15941,6 @@ namumutla	pale	0	0	1	1
 pinasok	entered	0	0	1	0
 pinasok	raid	0	0	1	0
 makataong	humanly	0	0	1	0
-makataong	humane	0	0	1	0
 pangkapayapaan	negotiation	0	0	1	0
 pangkapayapaan	peace	0	0	1	0
 pangkapayapaan	for peace	0	0	1	0
@@ -16347,7 +15954,6 @@ kinakailangan	needed	0	0	1	0
 anne	anne	0	0	1	0
 trinidad	trinity	0	0	1	0
 nakakatulong	helping	0	0	1	0
-nakakatulong	help	0	0	1	0
 anna	anna	0	0	1	0
 anna	anna (proper noun)	0	0	1	0
 nakatapos	finished	0	0	1	0
@@ -16355,16 +15961,12 @@ nakatapos	completed	0	0	1	0
 bibitayin	executed	0	0	1	0
 bibitayin	death penalty	0	0	1	0
 bibitayin	killing by hanging	0	0	1	0
-pagpupuring	praises	0	0	1	0
-pagpupuring	compliment	0	0	1	0
-pagpupuring	to give honour	0	0	1	0
 muntik	almost	0	0	1	0
 muntik	quite a sudden change	0	0	1	0
 nueva	new	0	0	1	0
 pagaayos	fixing	0	0	1	0
 pagaayos	establishing	0	0	1	0
 pagaayos	arrange	0	0	1	0
-qing	name of a person	0	0	1	0
 qing	qing	0	0	1	0
 sumulat	writer	0	0	1	0
 sumulat	wrote	0	0	1	0
@@ -16389,7 +15991,6 @@ konseptong	concept	0	0	1	0
 pagpapakilala	introduction	0	0	1	1
 pagpapakilala	introduce	0	0	1	0
 ganito	this	0	0	1	0
-ganito	"like this" or "this"	0	0	1	0
 pagdaragdag	his	1	0	1	0
 pagdaragdag	additional	1	0	1	0
 pagdaragdag	addition	1	1	0	1
@@ -16406,14 +16007,15 @@ pinalaya	released	0	0	1	0
 pinalaya	set free	0	0	1	0
 nasugbu	nasugbu	0	0	1	0
 pagasa	hope	0	0	1	1
-long	long	0	0	1	0
+minsang	sometimes	0	0	1	0
+minsang	once	0	0	1	0
 pumayag	agreed	0	0	1	0
 kalawakan	space	0	0	1	1
 kalawakan	area	0	0	1	0
 indones	indonesian	0	0	1	0
 indones	indones	0	0	1	0
-rosas	rose	0	0	1	1
 rosas	roses	0	0	1	1
+rosas	rose	0	0	1	1
 delta	delta	0	0	1	1
 junior	junior	0	0	1	0
 mantsa	stain	1	1	0	1
@@ -16449,7 +16051,6 @@ kalayuan	not far from	0	0	1	0
 kalayuan	afar	0	0	1	0
 dila	tongue	0	0	1	1
 nagpapatunay	proves	0	0	1	0
-nagpapatunay	proving	0	0	1	0
 nagpapatunay	proof or evidence	0	0	1	0
 heometriya	geometry	0	0	1	1
 kahulugan	definition	0	0	1	0
@@ -16492,7 +16093,6 @@ angkin	owned	0	0	1	0
 sibil	civil	0	0	1	0
 tagapagsalita	spokesperson	0	0	1	0
 tagapagsalita	spokesman	0	0	1	0
-tagapagsalita	spoke person	0	0	1	0
 nagpunta	went	0	0	1	0
 nagpunta	went to	0	0	1	0
 prayle	friar	0	0	1	1
@@ -16513,13 +16113,11 @@ nasa	from	0	0	1	0
 nasa	in	0	0	1	1
 karma	karma	0	0	1	1
 mambabatas	lawmaker	0	0	1	1
-mambabatas	judge	0	0	1	0
 mambabatas	legislator	0	0	1	1
 matapat	trustworthy	0	0	1	0
 matapat	loyal	0	0	1	1
 matapat	honest	0	0	1	1
 once	eleven	0	0	1	0
-sadyang	meant	0	0	1	0
 sadyang	intentionally	0	0	1	0
 kanal	canal	0	0	1	1
 kanal	channel	0	0	1	1
@@ -16543,8 +16141,8 @@ amfipoli	not a tagalog word	0	0	1	0
 reglamento	rules	0	0	1	0
 reglamento	regulation	0	0	1	1
 binubuksan	opening	0	0	1	0
-pagaralan	review	0	0	1	0
 pagaralan	study	0	0	1	0
+pagaralan	review	0	0	1	0
 simon	name of a person	0	0	1	0
 simon	simon	0	0	1	0
 thumb|px|isang	thumb[px]one	0	0	1	0
@@ -16569,8 +16167,7 @@ kasal	wedding	0	0	1	1
 pagkakalipat	transfer	0	0	1	0
 pagkakalipat	migration/transfer from one place to another	0	0	1	0
 pagkakalipat	shift	0	0	1	0
-agua	water	0	0	1	0
-agua	aqua	0	0	1	0
+iliad	iliad	0	0	1	0
 pamatlig	demonstrative	0	0	1	1
 pamatlig	pronoun	0	0	1	0
 serbiya	serbia	0	0	1	0
@@ -16582,9 +16179,7 @@ kinalaman	knowledge	0	0	1	0
 kinalaman	aware	0	0	1	0
 bryant	bryant	0	0	1	0
 idineklarang	declared	0	0	1	0
-idineklarang	to declare	0	0	1	0
 notes	notes	0	0	1	0
-ipinasundo	to be fetched	0	0	1	0
 ipinasundo	fetched	0	0	1	0
 ipinasundo	pick up	0	0	1	0
 sundalong	soldier	0	0	1	0
@@ -16605,7 +16200,6 @@ kausap	the person conversed	0	0	1	0
 kausap	talked to	0	0	1	0
 kausap	to talk with	0	0	1	1
 pampasigla	boost	0	0	1	0
-pampasigla	energizer	0	0	1	0
 pampasigla	to get healthy	0	0	1	0
 paksang	chapter	0	0	1	0
 paksang	topic	0	0	1	0
@@ -16634,13 +16228,11 @@ degree	class	0	0	1	0
 negrito	negroes	0	0	1	0
 negrito	negrito	0	0	1	0
 negrito	negrito or indigenous	0	0	1	0
-lalaki	male	0	0	1	1
 lalaki	man	0	0	1	1
 lalake	male	0	0	1	1
 lalake	man	0	0	1	1
 ukraine	ukraine	0	0	1	0
 metro	meter	0	0	1	1
-cleopatra	cleopatra	0	0	1	0
 cleopatra	cleopatra (name)	0	0	1	0
 paksyon	faction	0	0	1	0
 grandes	grandes	0	0	1	0
@@ -16651,13 +16243,12 @@ patanghal	performance	0	0	1	0
 patanghal	theatre	0	0	1	0
 patanghal	show	0	0	1	0
 ininsulto	insulted	0	0	1	0
-ininsulto	insult	0	0	1	0
 dinaluhong	attacked	0	0	1	0
 dinaluhong	charged	0	0	1	0
 pamamahayag	disclosure	0	0	1	0
 pamamahayag	broadcasting	0	0	1	0
 pamamahayag	speech	0	0	1	0
-nalathala	published	0	0	1	0
+numerikal	numerical	0	0	1	0
 apple	apple	0	0	1	0
 egypt	egypt	0	0	1	0
 koleksyon	collection	0	0	1	0
@@ -16726,7 +16317,9 @@ relasyong	relationship	0	0	1	0
 ginawaran	was granted	0	0	1	0
 ginawaran	awarded	0	0	1	0
 sitwasyong	situation	0	0	1	0
-paghahanda	preparation	0	0	1	1
+tinamaan	hit	0	0	1	0
+tinamaan	got hit	0	0	1	0
+tinamaan	was hit	0	0	1	0
 manipis	thin	0	0	1	1
 demokrasiya	democracy	0	0	1	0
 crick	crick	0	0	1	0
@@ -16740,7 +16333,6 @@ tao	man	0	0	1	1
 responsibilidad	responsibility	0	0	1	1
 imperyong	empire	0	0	1	0
 sir	sir	0	0	1	0
-independiyente	independent	0	0	1	0
 independiyente	independence	0	0	1	0
 obando	obando (name of place)	0	0	1	0
 paborito	favorite	0	0	1	1
@@ -16750,7 +16342,6 @@ bertebrado	vertebrate	1	1	0	0
 bertebrado	vertebrated	1	1	0	0
 bertebrado	crew	1	0	1	0
 pinili	chosen	0	0	1	0
-pinili	choose	0	0	1	0
 pinili	chose	0	0	1	0
 panig	side	0	0	1	1
 panig	ally	0	0	1	0
@@ -16770,6 +16361,8 @@ kataasan	highly	0	0	1	0
 nakikipaglaban	fighting or battling	0	0	1	0
 nakikipaglaban	fighting	0	0	1	0
 nakikipaglaban	fight	0	0	1	0
+gambalain	disturb	0	0	1	1
+gambalain	distract	0	0	1	0
 hinahalal	elected	0	0	1	0
 hinahalal	electing	0	0	1	0
 maski	even	0	0	1	1
@@ -16779,9 +16372,8 @@ sulayman	solomon	0	0	1	0
 sulayman	sulayman	0	0	1	0
 sulayman	sulayman. a man's name	0	0	1	0
 naghihintay	waiting	0	0	1	0
-lumabas	came out	0	0	1	0
-lumabas	got out	0	0	1	0
-lumabas	out	0	0	1	0
+sinakmal	bite	0	0	1	0
+sinakmal	seized	0	0	1	0
 estrella	name of a person	0	0	1	0
 hiniling	requested	0	0	1	0
 hiniling	wished	0	0	1	0
@@ -16824,7 +16416,6 @@ primitivo	primitive	0	0	1	0
 nilalaman	content	0	0	1	1
 nilalaman	contents	0	0	1	0
 subalit	but	0	0	1	1
-pambihirang	amazing	0	0	1	0
 pambihirang	astounding	0	0	1	0
 pambihirang	exceptional	0	0	1	0
 mapag-isa	alexey	1	0	1	0
@@ -16861,7 +16452,6 @@ pakay	aim	0	0	1	1
 pakay	intention	0	0	1	1
 liwasang	name of a place	0	0	1	0
 liwasang	park	0	0	1	0
-liwasang	plaza	0	0	1	0
 magkakasanib	joined forces	0	0	1	0
 magkakasanib	allies	0	0	1	0
 magkakasanib	combined	0	0	1	0
@@ -16873,8 +16463,8 @@ inilabas	outside	0	0	1	0
 palwa	boat	0	0	1	0
 tinatawag	known	0	0	1	0
 tinatawag	called	0	0	1	0
-tinatawag	calling	0	0	1	0
 studios	studios	0	0	1	0
+santang	saint	0	0	1	0
 pagbabalik	return	0	0	1	1
 pagbabalik	returning	0	0	1	0
 labandera	laundress	0	0	1	1
@@ -16883,8 +16473,9 @@ our	our	0	0	1	0
 upang	in order to	0	0	1	1
 upang	in order	0	0	1	0
 upang	that	0	0	1	1
-magpalabas	to show	0	0	1	0
-magpalabas	show	0	0	1	0
+manatili	remain	0	0	1	1
+manatili	to stay as it is	0	0	1	0
+manatili	stay	0	0	1	1
 out	out	0	0	1	0
 agrikultura	agriculture	0	0	1	1
 henetikong	genetic	0	0	1	0
@@ -16895,13 +16486,11 @@ nasumpungan	wanted	0	0	1	0
 nasirang	destroyed	0	0	1	0
 nasirang	broken down	0	0	1	0
 lumitaw	appeared	0	0	1	0
-lumitaw	appear	0	0	1	1
 lumitaw	showed	0	0	1	0
 bahala	come what may	0	0	1	0
 bahala	dont minding	0	0	1	0
 bahala	in no matter of way	0	0	1	0
 saring	different	0	0	1	0
-saring	variety	0	0	1	0
 taruc	taruc	0	0	1	0
 taruc	name of a person	0	0	1	0
 pampanga	pampanga	0	0	1	0
@@ -16928,9 +16517,7 @@ karunungan	wisdom	0	0	1	1
 tutungo	will go	0	0	1	0
 tutungo	going	0	0	1	0
 tutungo	going to	0	0	1	0
-napabayaan	forlorn	0	0	1	1
-napabayaan	exploited	0	0	1	0
-napabayaan	abandoned	0	0	1	0
+butas	hole	0	0	1	1
 pamaypay	fan	0	0	1	1
 limitasyon	limitation	0	0	1	0
 misyonaryong	missionary	0	0	1	0
@@ -16966,10 +16553,8 @@ akomodasyon	accomodation	0	0	1	0
 akomodasyon	accommodation	0	0	1	0
 bansa	country	0	0	1	1
 asal	trait	0	0	1	0
-asal	attitude	0	0	1	0
 asal	values	0	0	1	0
 nagsabi	said	0	0	1	0
-nagsabi	told	0	0	1	0
 tatayo	standing up	0	0	1	0
 tatayo	stand	0	0	1	0
 tatayo	stand up	0	0	1	0
@@ -16997,7 +16582,6 @@ korales	corals	0	0	1	0
 korales	corral	0	0	1	0
 estadistikal	statistics	0	0	1	0
 estadistikal	statistical	0	0	1	0
-bagumbayan	name of a person	0	0	1	0
 bagumbayan	bagumbayan - name of a historical place	0	0	1	0
 academy	academy	0	0	1	0
 juli	juli	0	0	1	0
@@ -17014,15 +16598,12 @@ ginawa	did	0	0	1	0
 ginawa	done	0	0	1	0
 nabagabag	disturb	0	0	1	0
 nabagabag	disturbed	0	0	1	0
-nabagabag	worry	0	0	1	0
 pagsasara	closure	0	0	1	0
 pagsasara	closing	0	0	1	0
 gumamit	use	0	0	1	1
 gumamit	used	0	0	1	0
 sariwang	fresh	0	0	1	0
 moto	motto	0	0	1	1
-pvblivs	this is a latin word	0	0	1	0
-pvblivs	not tagalog	0	0	1	0
 nasabi	mentioned	0	0	1	0
 nasabi	said	0	0	1	0
 nasabi	has said	0	0	1	0
@@ -17074,17 +16655,15 @@ lugar	place	0	0	1	1
 kapaligiran	environment	0	0	1	0
 kapaligiran	surrounding	0	0	1	1
 kapaligiran	surroundings	0	0	1	0
-tugtog	sound	0	0	1	0
-tugtog	music	0	0	1	1
+shana	shana	0	0	1	0
 who	who	0	0	1	0
 nakaimik	utter	0	0	1	0
 nakaimik	silent	0	0	1	0
 nakaimik	speak	0	0	1	0
 amuki	superior	0	0	1	0
 amuki	temptation	0	0	1	0
-nabanaagan	glimmered	0	0	1	0
-nabanaagan	shadowed	0	0	1	0
 nabanaagan	noticed	0	0	1	0
+nabanaagan	shadowed	0	0	1	0
 ginagawang	doing	0	0	1	0
 ginagawang	making	0	0	1	0
 soberenya	sovereign	0	0	1	0
@@ -17100,8 +16679,9 @@ hinangaan	admire	0	0	1	0
 hinangaan	admired	0	0	1	0
 hinangaan	amaze	0	0	1	0
 kahirapan	poverty	0	0	1	1
-katao	individuals	0	0	1	0
-katao	people	0	0	1	0
+sumuporta	to support	0	0	1	0
+sumuporta	support	0	0	1	0
+sumuporta	who supported	0	0	1	0
 kinilala	known	0	0	1	0
 kinilala	distinguished	0	0	1	0
 kaisaisang	only	0	0	1	0
@@ -17115,8 +16695,6 @@ merkuryo	bicycle	1	0	1	0
 pipi	deaf	0	0	1	0
 pipi	mute	0	0	1	1
 inang	mother	0	0	1	1
-ikalabindalawang	twelve	0	0	1	0
-ikalabindalawang	twelfth	0	0	1	0
 hinala	assumption	0	0	1	0
 hinala	suspicion	0	0	1	1
 palugit	margin	0	0	1	1
@@ -17139,13 +16717,11 @@ epikong	epic	0	0	1	0
 pagtatanghal	perform	0	0	1	0
 pagtatanghal	stage acting	0	0	1	0
 pagtatanghal	theatre	0	0	1	0
-sugalan	casino	0	0	1	0
-sugalan	gambling area	0	0	1	0
+straktura	structure	0	0	1	0
 unyong	union	0	0	1	0
 piano	piano	0	0	1	0
 hinagkan	kissed	0	0	1	0
-makakuha	to get	0	0	1	0
-makakuha	achieve	0	0	1	0
+silay	they	0	0	1	0
 cuba	cuba as the country	0	0	1	0
 cuba	cuba	0	0	1	0
 pangdistrito	district	0	0	1	0
@@ -17176,7 +16752,6 @@ itinapon	discarded	0	0	1	0
 itinapon	threw	0	0	1	0
 bilihin	goods	0	0	1	1
 binabatak	pulls	0	0	1	0
-binabatak	pulling	0	0	1	0
 binabatak	pulling out	0	0	1	0
 denominasyon	denominator	0	0	1	0
 denominasyon	denomination	0	0	1	0
@@ -17187,7 +16762,6 @@ malamang	maybe	0	0	1	1
 malamang	probable	0	0	1	0
 tuloy	continue	0	0	1	0
 tuloy	in effect	0	0	1	0
-inatasan	directed	0	0	1	0
 inatasan	commanded	0	0	1	0
 inatasan	appointed	0	0	1	0
 siyentipiko	scientist	0	0	1	1
@@ -17200,6 +16774,9 @@ tulog	sleep	0	0	1	1
 tulog	asleep	0	0	1	1
 cold	cold	0	0	1	0
 mexicana	mexican	0	0	1	0
+pagsagwan	padelling	0	0	1	0
+pagsagwan	rowing	0	0	1	0
+pagsagwan	row	0	0	1	0
 bilanggo	prisoner	0	0	1	1
 xray	x-ray	0	0	1	0
 napuna	observed	0	0	1	0
@@ -17270,7 +16847,6 @@ pagkasilang	right after being born	0	0	1	0
 pagkasilang	after birth	0	0	1	0
 pagkasilang	birth	0	0	1	0
 pakikipagusap	talking	0	0	1	0
-pakikipagusap	communication	0	0	1	0
 maaga	early	0	0	1	1
 matanggap	accept	0	0	1	0
 napipintong	expected	0	0	1	0
@@ -17286,7 +16862,6 @@ galing	from	0	0	1	1
 galing	talent	0	0	1	1
 hinggil	about	0	0	1	1
 taong	year	0	0	1	0
-taong	human	0	0	1	0
 taong	people	0	0	1	0
 pangungumpisal	confess	0	0	1	0
 pangungumpisal	confession	0	0	1	0
@@ -17319,7 +16894,8 @@ pagdalo	attendance	0	0	1	1
 pagdalo	attend	0	0	1	0
 kasabihang	proverb	0	0	1	0
 kasabihang	saying	0	0	1	0
-universal	universal	0	0	1	0
+hinda	not	0	0	1	0
+hinda	right word is "hindi"	0	0	1	0
 morpema	morpheme	0	0	1	0
 paboritong	favorite	0	0	1	0
 teolohiya	theology	0	0	1	1
@@ -17353,7 +16929,6 @@ hakbang	measure	0	0	1	0
 administrasyong	administration	0	0	1	0
 antigua	antigua	0	0	1	0
 sosyalistang	socialist	0	0	1	0
-sosyalistang	socialite	0	0	1	0
 lubao	lubao	0	0	1	0
 pagpapahalaga	give importance	0	0	1	0
 pagpapahalaga	importance	0	0	1	1
@@ -17368,8 +16943,8 @@ kuko	nails	0	0	1	0
 ideya	idea	0	0	1	0
 yumukod	bowed	0	0	1	0
 yumukod	stooped	0	0	1	0
-thom	thom	0	0	1	0
-thom	great	0	0	1	0
+umahon	go up	0	0	1	0
+umahon	emerged	0	0	1	0
 papaano	how	0	0	1	1
 radiation	radiation	0	0	1	0
 ibinibigay	giving	0	0	1	0
@@ -17378,13 +16953,9 @@ lalaking	male	0	0	1	0
 murang	low price	0	0	1	0
 murang	cheap	0	0	1	0
 bachiller	bachelor	0	0	1	0
-manatili	remain	0	0	1	1
-manatili	to stay as it is	0	0	1	0
-manatili	stay	0	0	1	1
 pinakamalapit	nearest	0	0	1	0
 inspirasyon	inspiration	0	0	1	1
 diego	diego	0	0	1	0
-kauri	kind	0	0	1	0
 kauri	same group	0	0	1	0
 kauri	the same	0	0	1	0
 inplasyon	inflation	0	0	1	0
@@ -17400,15 +16971,15 @@ riau	riau	0	0	1	0
 pagkatunaw	melting	0	0	1	1
 pagkatunaw	melt	0	0	1	0
 napapangkat	grouped	0	0	1	0
-napapangkat	to group	0	0	1	0
 siksik	compact	0	0	1	0
 siksik	packed	0	0	1	0
 siksik	to cram	0	0	1	0
 english	english	0	0	1	0
 kaduwagan	cowardice	0	0	1	0
 kaduwagan	cowardness	0	0	1	0
-pinilit	forced	0	0	1	1
-pinilit	convinced	0	0	1	0
+tugatog	climax/peak	0	0	1	0
+tugatog	top	0	0	1	1
+tugatog	stage	0	0	1	0
 pinarusahan	punished	0	0	1	0
 pinarusahan	sentence	0	0	1	0
 bakterya	discussion	1	0	1	0
@@ -17433,8 +17004,9 @@ pangangasiwa	management	0	0	1	1
 pangangasiwa	administration	0	0	1	0
 taal	used to	0	0	1	0
 taal	taal	0	0	1	0
-smith	smith	0	0	1	0
-smith	adam smith	0	0	1	0
+kaseguruhan	assureness	0	0	1	0
+kaseguruhan	sureness	0	0	1	0
+kaseguruhan	assurance	0	0	1	0
 micronesia	micronesia	0	0	1	0
 kaaway	enemy	0	0	1	1
 kaaway	adversity	0	0	1	0
@@ -17457,13 +17029,11 @@ bilhin	buy	0	0	1	1
 ibabayad	payment	0	0	1	0
 ibabayad	to pay	0	0	1	0
 press	kalayaan	0	0	1	0
-mary	mary	0	0	1	0
 babaeng	girl	0	0	1	0
 babaeng	woman	0	0	1	0
 babaeng	lady/woman	0	0	1	0
 ugnayang	connection	0	0	1	0
 ugnayang	relation	0	0	1	0
-ugnayang	relationship	0	0	1	0
 ensiklopedya	encyclopedia	0	0	1	1
 veritas	truth	0	0	1	0
 pagod	tired	0	0	1	1
@@ -17555,21 +17125,20 @@ kang	to	0	0	1	0
 kang	are	0	0	1	0
 magpakamatay	to suicide	0	0	1	0
 magpakamatay	suicide or commit suicide	0	0	1	0
-magpakamatay	to take suicide	0	0	1	0
 kalusugan	health	0	0	1	1
 ipinanganak	was born	0	0	1	0
 ipinanganak	born	0	0	1	1
 pinatapon	thrown	0	0	1	0
 pinatapon	exile	0	0	1	0
 pinatapon	to throw	0	0	1	0
-hilaw	unripe	0	0	1	1
 hilaw	raw	0	0	1	1
 kasamaan	evil	0	0	1	1
-shana	shana	0	0	1	0
+tugtog	sound	0	0	1	0
 pagkatuto	learned	0	0	1	0
 pagkatuto	learning	0	0	1	0
 pagdiriwang	celebration	0	0	1	1
-straktura	structure	0	0	1	0
+sugalan	casino	0	0	1	0
+sugalan	gambling area	0	0	1	0
 nadagdagan	added	0	0	1	0
 nadagdagan	increased	0	0	1	0
 karta	charter	0	0	1	0
@@ -17589,7 +17158,6 @@ nagtatagal	lasting	0	0	1	0
 lalagyan	holder	0	0	1	0
 lalagyan	container	0	0	1	1
 excommunion	excommunion	0	0	1	0
-excommunion	excommunication	0	0	1	0
 paglawak	broadening	0	0	1	0
 paglawak	spread	0	0	1	0
 paglawak	expansion	0	0	1	0
@@ -17602,6 +17170,8 @@ lumala	became more severe	0	0	1	0
 isda	fish	0	0	1	1
 regalado	regalado	0	0	1	0
 templong	temple	0	0	1	0
+pagsuporta	support	0	0	1	0
+pagsuporta	in support of	0	0	1	0
 indiyo	indio	0	0	1	0
 ibalik	return	0	0	1	1
 ibalik	returned	0	0	1	0
@@ -17611,9 +17181,8 @@ lumawig	expand	0	0	1	0
 papunta	on the way	0	0	1	0
 papunta	going	0	0	1	0
 papunta	toward	0	0	1	0
-tugatog	climax/peak	0	0	1	0
-tugatog	top	0	0	1	1
-tugatog	stage	0	0	1	0
+pinilit	forced	0	0	1	1
+pinilit	convinced	0	0	1	0
 illinois	illinois	0	0	1	0
 book	book	0	0	1	0
 ampibyan	amphibian	1	1	0	0
@@ -17626,7 +17195,6 @@ masalimuot	in a bad condition	0	0	1	0
 masalimuot	intricate	0	0	1	0
 masalimuot	challenging	0	0	1	0
 ninunong	ancestors	0	0	1	0
-ninunong	ancestor	0	0	1	0
 ninunong	ancestry	0	0	1	0
 tinalikuran	turned back on	0	0	1	0
 tinalikuran	abandoned	0	0	1	0
@@ -17646,13 +17214,14 @@ katimugan	southern	0	0	1	0
 katimugan	south	0	0	1	0
 bahagdan	percentage	0	0	1	1
 bahagdan	percent	0	0	1	1
+ivatan	name of a place	0	0	1	0
+ivatan	ivatan tribe	0	0	1	0
 sandatang	weapon	0	0	1	0
 sandatang	soldier soldier	0	0	1	0
 nakaraang	past	0	0	1	0
 nakaraang	previous	0	0	1	0
 tungkod	cain	0	0	1	0
 tungkod	cane	0	0	1	1
-tungkod	staff	0	0	1	1
 primarya	primary	0	0	1	0
 tungkol	about	0	0	1	1
 tungkol	regarding	0	0	1	1

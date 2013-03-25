@@ -107,7 +107,6 @@ nôd	goal	0	0	1	0
 mamaliaid	mammals	0	0	1	0
 dyngarol	humanitarian	0	0	1	0
 cymrun	cymrun	0	0	1	0
-leddfu	mining	0	0	1	0
 leddfu	ease	0	0	1	0
 enedigol	born	0	0	1	0
 cymrur	cymrur	0	0	1	0
@@ -166,7 +165,7 @@ fis	month	0	0	1	0
 iwerddon	ireland	0	0	1	1
 fit	fit	0	0	1	0
 diddymwyd	abolished	0	0	1	0
-dwyreiniol	eastern	0	0	1	1
+pilipinas	philippines	0	0	1	0
 gwythïen	vein	0	0	1	0
 wales	wales	0	0	1	0
 gronynnau	particles	0	0	1	0
@@ -206,7 +205,7 @@ tewdwr	tewdwr	0	0	1	0
 fflatiau	flats	0	0	1	0
 angola	angola	0	0	1	0
 trosedd	crime	0	0	1	1
-caer	fort	0	0	1	0
+organeb	organism	0	0	1	0
 portreadir	portrayed	0	0	1	0
 allah	allah	0	0	1	0
 allan	out	0	0	1	1
@@ -230,7 +229,7 @@ drysau	doors	0	0	1	0
 gwersylloedd	camps	0	0	1	0
 foundation	foundation	0	0	1	0
 gristionogol	christian	0	0	1	0
-awdures	author	0	0	1	0
+canolog	central	0	0	1	1
 given	given	0	0	1	0
 buffay	buffay	0	0	1	0
 gothig	gothic	0	0	1	0
@@ -240,20 +239,18 @@ llanfihangel	llanfihangel	0	0	1	0
 district	district	0	0	1	0
 ato	it	0	0	1	0
 moment	moment	0	0	1	1
-ati	ect.	0	0	1	0
 ati	etc.	0	0	1	0
-bwrw	cast	0	0	1	1
+silicon	silicon	0	0	1	0
 ddilynol	subsequent	0	0	1	0
 ddelio	deal	0	0	1	0
 ffrwythlon	fertile	0	0	1	1
 dawns	dance	0	0	1	1
 thracia	thrace	0	0	1	0
 gwaith	work	0	0	1	1
-aggregate	aggregate	0	0	1	0
 aggregate	aggregrate	0	0	1	0
 lyfrau	books	0	0	1	0
 diffeithwch	wilderness	0	0	1	1
-gwyddoniaduron	encyclopaedias	0	0	1	0
+niger	niger	0	0	1	0
 wasg	press	0	0	1	0
 ffederasiwn	federation	0	0	1	0
 gellid	could	0	0	1	0
@@ -270,7 +267,6 @@ disodlwyd	replaced	0	0	1	0
 listed	listed	0	0	1	0
 categorigweriniaethau	categorigweriniaethau	0	0	1	0
 gellir	can	0	0	1	0
-gellir	can be	0	0	1	0
 trosi	conversion	0	0	1	0
 ardaloedd	areas	0	0	1	0
 gilbert	gilbert	0	0	1	0
@@ -283,8 +279,8 @@ llewod	lions	0	0	1	0
 llwyfandir	plateau	0	0	1	0
 sulawesi	sulawesi	0	0	1	0
 ahmed	ahmed	0	0	1	0
-bwysig	important	0	0	1	0
 bwysig	pound	0	0	1	0
+bwysig	important	0	0	1	0
 tree	tree	0	0	1	0
 tref	town	0	0	1	1
 project	project	0	0	1	0
@@ -324,11 +320,9 @@ ffrwydro	explode	0	0	1	1
 gorchfygur	gorchfygur	0	0	1	0
 wiwer	squirrel	0	0	1	0
 heintiadau	infections	0	0	1	0
-heintiadau	infection	0	0	1	0
 pleser	pleasure	0	0	1	1
 wella	improve	0	0	1	0
 catharus	catharus	0	0	1	0
-thriller	thriller	0	0	1	0
 sarhaus	offensive	0	0	1	0
 singer	singer	0	0	1	0
 siaradwyr	speakers	0	0	1	0
@@ -355,7 +349,6 @@ gwenithfaen	date	1	0	1	0
 gwenithfaen	granite	1	1	1	1
 gwenithfaen	dates	1	0	1	0
 categoritirffurfiau	categoritirffurfiau	0	0	1	0
-categoritirffurfiau	category landforms	0	0	1	0
 ddwyreinol	east	0	0	1	0
 cynnes	warm	0	0	1	1
 aelodaeth	membership	0	0	1	1
@@ -382,9 +375,8 @@ new	new	0	0	1	0
 caribi	caribbean	0	0	1	0
 croesir	crossed	0	0	1	0
 cytunodd	agreed	0	0	1	0
-chymreig	chymreig	0	0	1	0
+gallia	gallia	0	0	1	0
 raddol	gradually	0	0	1	0
-caernarfon	caernarfon	0	0	1	0
 seremonïol	ceremonial	0	0	1	0
 rhyddhawyd	released	0	0	1	0
 gaer	fort	0	0	1	0
@@ -412,7 +404,7 @@ dyfnder	depth	0	0	1	1
 acropolis	acropolis	0	0	1	0
 glasgow	glasgow	0	0	1	0
 preserve	preserve	0	0	1	0
-henrik	henrik	0	0	1	0
+never	never	0	0	1	0
 nature	nature	0	0	1	0
 chodi	raising	0	0	1	0
 ddisgrifior	describes	0	0	1	0
@@ -440,8 +432,7 @@ ffin	boundary	0	0	1	1
 basque	basque	0	0	1	0
 blonde	blonde	0	0	1	0
 enwebwyd	nominated	0	0	1	0
-saesnegcymraeg	english-welsh	0	0	1	0
-saesnegcymraeg	saesnegcymraeg	0	0	1	0
+difa	destruction	0	0	1	0
 lân	up	0	0	1	0
 lân	clean	0	0	1	0
 peldroed	football	0	0	1	1
@@ -465,10 +456,10 @@ amgueddfa	museum	0	0	1	1
 chile	chile	0	0	1	0
 awst	august	0	0	1	1
 chill	chill	0	0	1	0
-ant	ant	0	0	1	0
+nghaerfyrddin	nghaerfyrddin	0	0	1	0
+nghaerfyrddin	carmarthen	0	0	1	0
 mywyd	life	0	0	1	0
 castro	castro	0	0	1	0
-viii	eight	0	0	1	0
 viii	viii	0	0	1	0
 oman	oman	0	0	1	0
 siapaneg	japanese	0	0	1	0
@@ -477,7 +468,7 @@ ddadl	debate	0	0	1	0
 gwareiddiad	civilization	0	0	1	1
 folcanig	volcanic	0	0	1	0
 llundain	london	0	0	1	1
-rhyddhaodd	released	0	0	1	0
+nofel	novel	0	0	1	1
 chwys	perspiration	1	1	0	1
 chwys	all	1	0	1	0
 chwys	sara	1	0	1	0
@@ -495,7 +486,7 @@ heddiwn	today	0	0	1	0
 heddiwn	heddiwn	0	0	1	0
 dringodd	climbed	0	0	1	0
 ymosodiadau	attacks	0	0	1	0
-marathon	marathon	0	0	1	0
+dewiniaeth	witchcraft	0	0	1	1
 big	beak	0	0	1	0
 european	european	0	0	1	0
 voyager	voyager	0	0	1	0
@@ -523,7 +514,7 @@ dechreuodd	began	0	0	1	0
 mantell	mantle	0	0	1	1
 distribute	distribute	0	0	1	0
 moonwalk	moonwalk	0	0	1	0
-fynegi	express	0	0	1	0
+djibouti	djibouti	0	0	1	0
 malta	malta	0	0	1	0
 cyfartalog	average	0	0	1	0
 nifer	number	0	0	1	0
@@ -568,7 +559,6 @@ luniau	pictures	0	0	1	0
 old	old	0	0	1	0
 newyddiadurwyr	journalists	0	0	1	0
 people	people	0	0	1	0
-diweddar	recent	0	0	1	1
 categorigenedigaethau	categorigenedigaethau	0	0	1	0
 categorigenedigaethau	category:births	0	0	1	0
 dedications	dedication	0	0	1	0
@@ -639,11 +629,9 @@ presenoldeb	presenoldrb	0	0	1	0
 presenoldeb	presence	0	0	1	1
 rhywbryd	sometime	0	0	1	1
 gyfraith	law	0	0	1	0
-cwrdeg	kurdish	0	0	1	0
-categoriactorion	category: actors	0	0	1	0
+maes	field	0	0	1	1
 categoriactorion	categoriactorion	0	0	1	0
 joseph	joseph	0	0	1	0
-homo	homo	0	0	1	0
 tsiecoslofacia	czechoslovakia	0	0	1	0
 obaith	hope	0	0	1	0
 obaith	obiath	0	0	1	0
@@ -659,6 +647,7 @@ ymchwil	research	0	0	1	1
 ddaeargryn	earthquake	0	0	1	0
 gynigiwyd	proposed	0	0	1	0
 swdan	sudan	0	0	1	0
+filwr	soldier	0	0	1	0
 crëyr	heron	0	0	1	0
 trenau	trains	0	0	1	0
 ddod	come	0	0	1	0
@@ -711,16 +700,14 @@ detholiad	selection	0	0	1	1
 ballet	ballet	0	0	1	0
 rhostio	roasted	0	0	1	0
 cyfalafol	capital	0	0	1	0
-categoriarian	category:funding	0	0	1	0
-categoriarian	categoriarian	0	0	1	0
+anghydffurfiol	conformist	0	0	1	0
 jarman	jarman	0	0	1	0
 brân	bran	0	0	1	0
 dienyddiwyd	executed	0	0	1	0
 rhag	from	0	0	1	1
 goffi	coffee	0	0	1	0
 agoriad	opening	0	0	1	1
-epil	epil	0	0	1	0
-epil	offspring	0	0	1	1
+fenywaidd	female	0	0	1	0
 rhan	part	0	0	1	1
 rhai	some	0	0	1	1
 goffa	memorial	0	0	1	0
@@ -763,7 +750,7 @@ ydy	is	0	0	1	0
 jure	jure	0	0	1	0
 ydw	i	0	0	1	0
 ydw	ywd	0	0	1	0
-chanol	center	0	0	1	0
+llanelli	llanelli	0	0	1	0
 jura	jura	0	0	1	0
 unedig	unified	0	0	1	0
 neville	neville	0	0	1	0
@@ -801,8 +788,6 @@ angry	angry	0	0	1	0
 cadfan	cadfan	0	0	1	0
 hethol	elected	0	0	1	0
 scops	scops	0	0	1	0
-wood	wood	0	0	1	0
-wood	wood  (in welsh  "pren")	0	0	1	0
 ddrama	drama	0	0	1	0
 categorihanes	categorihanes	0	0	1	0
 categorihanes	history category	0	0	1	0
@@ -835,7 +820,6 @@ cwrs	course	0	0	1	1
 noswaith	evening	0	0	1	0
 eisioes	already	0	0	1	0
 chymdeithasau	associations	0	0	1	0
-pedwerydd	pedwerydd	0	0	1	0
 pedwerydd	fourth	0	0	1	1
 charadrius	charadrius	0	0	1	0
 drama	drama	0	0	1	0
@@ -843,7 +827,6 @@ ymadroddion	phrases	0	0	1	0
 deuocsid	dioxide	0	0	1	0
 ddefnyddior	use	0	0	1	0
 ddefnyddior	use the	0	0	1	0
-diffwys	diffwys	0	0	1	0
 llinos	finch	0	0	1	0
 aderyn	many	1	0	1	0
 aderyn	all	1	0	1	0
@@ -857,13 +840,13 @@ arfog	forces	0	0	1	0
 such	such	0	0	1	0
 arfon	arfon	0	0	1	0
 data	data	0	0	1	0
-sy	which	0	0	1	0
+frenhinol	royal	0	0	1	0
 ss	ss	0	0	1	0
 abertawe	swansea	0	0	1	1
 st	st	0	0	1	0
 si	sure	0	0	1	0
 sh	sh	0	0	1	0
-cofrestru	registration	0	0	1	0
+so	so	0	0	1	0
 sn	noise	0	0	1	0
 sl	sl	0	0	1	0
 sc	sc	0	0	1	0
@@ -909,7 +892,7 @@ beetle	beetle	0	0	1	0
 ganddi	has	0	0	1	0
 rhannodd	shared	0	0	1	0
 ganddo	he	0	0	1	0
-sylwer	note	0	0	1	0
+chymdeithas	society	0	0	1	0
 gyfreithlon	lawful	0	0	1	0
 alwn	we call	0	0	1	0
 gweddi	prayer	0	0	1	1
@@ -936,11 +919,10 @@ plinius	pliny	0	0	1	0
 siawns	chance	0	0	1	1
 enfys	rainbow	0	0	1	1
 amrywiadau	variations	0	0	1	0
-ymweliad	visit	0	0	1	1
+gafr	goat	0	0	1	1
 categoridefnyddiau	categoridefynyddiau	0	0	1	0
 oni	unless	0	0	1	1
 frwd	actively	0	0	1	0
-claddwyd	burial	0	0	1	0
 claddwyd	buried	0	0	1	0
 categoritywysogaethau	categotitywysogaethau	0	0	1	0
 spoken	spoken	0	0	1	0
@@ -952,7 +934,7 @@ mytholeg	tribal	1	0	1	0
 mytholeg	mythology	1	1	1	0
 opec	opec	0	0	1	0
 hybu	promote	0	0	1	0
-beethoven	beethoven	0	0	1	0
+cywir	right	0	0	1	0
 berfol	verb	0	0	1	0
 cloddfeydd	mine	0	0	1	0
 siwan	siwan	0	0	1	0
@@ -961,6 +943,7 @@ city	city	0	0	1	0
 urien	urien	0	0	1	0
 gyfyngu	limit	0	0	1	0
 troellwr	dj	0	0	1	0
+iach	healthy	0	0	1	1
 brwydrau	battles	0	0	1	0
 siberia	siberia	0	0	1	0
 williams	williams	0	0	1	0
@@ -973,7 +956,6 @@ conswl	consul	0	0	1	0
 cervus	cervus	0	0	1	0
 wythnos	week	0	0	1	1
 cenedlaethol	national	0	0	1	1
-barddol	poetic	0	0	1	1
 ddarganfyddiadau	discoveries	0	0	1	0
 ddarganfyddiadau	findings	0	0	1	0
 romaunsch	romaunsch	0	0	1	0
@@ -992,7 +974,6 @@ say	say	0	0	1	0
 trosglwyddiant	conveyance	0	0	1	0
 cusan	kiss	0	0	1	1
 wilsons	wilsons	0	0	1	0
-wilsons	wilson's	0	0	1	0
 allen	allen	0	0	1	0
 allen	could	0	0	1	0
 turner	turner	0	0	1	0
@@ -1015,7 +996,7 @@ fywyd	life	0	0	1	0
 printed	printed	0	0	1	0
 ddinasyddion	citizens	0	0	1	0
 ddinasyddion	citizen	0	0	1	0
-boblogaeth	population	0	0	1	0
+jebel	jebel	0	0	1	0
 românia	romania	0	0	1	0
 lawn	full	0	0	1	0
 phil	phil	0	0	1	0
@@ -1040,7 +1021,6 @@ ddaw	comes	0	0	1	0
 ddau	two	0	0	1	0
 esiampl	example	0	0	1	1
 lefant	cry	0	0	1	0
-lafar	oral	0	0	1	0
 wedii	wedii	0	0	1	0
 khoisan	khoisan	0	0	1	0
 franz	franz	0	0	1	0
@@ -1064,7 +1044,6 @@ monde	monde	0	0	1	0
 peiriannau	machinery	0	0	1	0
 andwyol	adverse	0	0	1	0
 shorttoed	shorttoed	0	0	1	0
-shorttoed	short-delay	0	0	1	0
 dinistrio	destroyed	0	0	1	0
 dinistrio	dinistrio	0	0	1	0
 artist	artist	0	0	1	1
@@ -1103,7 +1082,6 @@ fyny	up	0	0	1	0
 clogwyni	cliffs	0	0	1	0
 cambriaidd	cambrian	0	0	1	0
 ffilmio	filming	0	0	1	0
-ffilmio	fliming	0	0	1	0
 mendeleev	mendeleev	0	0	1	0
 coligny	coligny	0	0	1	0
 saethwyr	seathwyr	0	0	1	0
@@ -1111,7 +1089,6 @@ saethwyr	shooters	0	0	1	0
 hibernica	hibernica	0	0	1	0
 organau	organs	0	0	1	0
 democrataidd	democratic	0	0	1	0
-s	s	0	0	1	0
 saethwyd	shot	0	0	1	0
 rheolwr	manager	0	0	1	0
 mang	lang	0	0	1	0
@@ -1156,8 +1133,8 @@ gwm	gum	0	0	1	0
 ewropead	europeans	0	0	1	0
 wrthryfeloedd	uprisings	0	0	1	0
 pobl	people	0	0	1	1
-traethau	beaches	0	0	1	0
 traethau	treathau	0	0	1	0
+traethau	beaches	0	0	1	0
 ive	ive	0	0	1	0
 ive	i've	0	0	1	0
 canlyniad	outcome	0	0	1	0
@@ -1167,7 +1144,6 @@ beddargraff	epitaph	1	1	0	1
 lladd	killed	0	0	1	0
 blas	taste	0	0	1	1
 blat	plate	0	0	1	0
-bros	brothers	0	0	1	0
 bros	bros	0	0	1	0
 ddarganfyddodd	discovered	0	0	1	0
 menywod	of women	0	0	1	0
@@ -1209,7 +1185,6 @@ grefyddol	religious	0	0	1	0
 gdp	gdp	0	0	1	0
 edwards	edwards	0	0	1	0
 gorffen	finish	0	0	1	1
-being	being	0	0	1	0
 chwaer	sister	0	0	1	1
 poblogrwydd	popularity	0	0	1	1
 pwysicaf	most important	0	0	1	0
@@ -1227,7 +1202,6 @@ wahaniaethu	discrimination	0	0	1	0
 ddefnyddiau	materials	0	0	1	0
 henwau	names	0	0	1	0
 penfro	pembroke	0	0	1	1
-penfro	penfro	0	0	1	0
 machynlleth	machynlleth	0	0	1	0
 clorin	chlorine	0	0	1	0
 geltiaid	celts	0	0	1	0
@@ -1266,8 +1240,8 @@ yeats	yeats	0	0	1	0
 caniatau	allows	0	0	1	0
 brith	flycatcher	0	0	1	0
 sylwr	sylwr	0	0	1	0
-barwn	baron	0	0	1	1
 barwn	barwn	0	0	1	0
+barwn	baron	0	0	1	1
 magma	magma	0	0	1	0
 sylwi	notice	0	0	1	1
 grus	trus	0	0	1	0
@@ -1299,7 +1273,6 @@ senedd	parliament	0	0	1	1
 jacksons	jacksons	0	0	1	0
 anaml	rarely	0	0	1	1
 bronnaun	bronnaun	0	0	1	0
-bronnaun	breasts	0	0	1	0
 notoc	notoc	0	0	1	0
 gyffro	excitement	0	0	1	0
 stone	stone	0	0	1	0
@@ -1333,7 +1306,7 @@ her	challenge	0	0	1	1
 fywiog	active	0	0	1	0
 philadelphia	philadelphia	0	0	1	0
 ieir	chickens	0	0	1	0
-llwyth	load	0	0	1	1
+heb	without	0	0	1	1
 lleihau	reduce	0	0	1	0
 hel	gathering	0	0	1	0
 ngwleidyddiaeth	politics	0	0	1	0
@@ -1398,7 +1371,7 @@ categoricyfraith	categoricyfraith	0	0	1	0
 categoriarlywyddion	categoriarlywyddion	0	0	1	0
 milvius	milvius	0	0	1	0
 sanctaidd	holy	0	0	1	1
-titwod	tits	0	0	1	0
+gwahanol	different	0	0	1	1
 aerodynameg	jillani	1	0	1	0
 aerodynameg	aerodynamics	1	1	0	0
 tŵr	tower	0	0	1	0
@@ -1424,7 +1397,6 @@ degau	tens	0	0	1	0
 della	della	0	0	1	0
 ffyrdd	ways	0	0	1	0
 deheubarth	southern	0	0	1	0
-tv	tv	0	0	1	0
 nentydd	streams	0	0	1	0
 tt	tt	0	0	1	0
 tt	pp.	0	0	1	0
@@ -1444,8 +1416,7 @@ datblygu	development	0	0	1	0
 hudol	magical	0	0	1	0
 bwynt	point	0	0	1	0
 sant	saint	0	0	1	1
-harri	henry	0	0	1	1
-harri	harri	0	0	1	0
+gyfnod	period	0	0	1	0
 drigolion	residents	0	0	1	0
 ypres	ypres	0	0	1	0
 large	large	0	0	1	0
@@ -1456,7 +1427,7 @@ flynedd	years	0	0	1	0
 gwobr	award	0	0	1	0
 pyllau	ponds	0	0	1	0
 adeiladwyd	built	0	0	1	0
-pasg	easter	0	0	1	1
+ffrwythlondeb	fertility	0	0	1	1
 samoa	samoa	0	0	1	0
 pwyl	poland	0	0	1	1
 dulyn	dublin	0	0	1	1
@@ -1466,7 +1437,7 @@ mhrifysgol	university	0	0	1	0
 section	section	0	0	1	0
 celts	celts	0	0	1	0
 lein	online	0	0	1	0
-canolog	central	0	0	1	1
+awdures	author	0	0	1	0
 ymgyrchu	campaign	0	0	1	0
 full	full	0	0	1	0
 genhedloedd	nations	0	0	1	0
@@ -1505,7 +1476,7 @@ more	more	0	0	1	0
 mewnol	internal	0	0	1	1
 gwestai	hotels	0	0	1	0
 asgwrn	bone	0	0	1	1
-blaned	planet	0	0	1	0
+fynyddoedd	mountains	0	0	1	0
 rhifau	numbers	0	0	1	0
 cyfundrefnau	systems	0	0	1	0
 grefyddau	religions	0	0	1	0
@@ -1524,13 +1495,12 @@ llenyddol	literary	0	0	1	1
 galatiaid	galatians	0	0	1	0
 fynwy	monmouth	0	0	1	0
 leoli	located	0	0	1	0
-tiberius	tiberius	0	0	1	0
+nulyn	dublin	0	0	1	0
 morgan	morgan	0	0	1	0
 mali	mali	0	0	1	0
 abrahamig	abrahamic	0	0	1	0
 gwynfryn	gwynfryn	0	0	1	0
 rygbir	rygbir	0	0	1	0
-rygbir	rugby	0	0	1	0
 ryfel	war	0	0	1	0
 stated	stated	0	0	1	0
 staten	staten	0	0	1	0
@@ -1541,7 +1511,7 @@ lesotho	lesotho	0	0	1	0
 diwyllianol	cultural	0	0	1	0
 bethania	bethania	0	0	1	0
 eurben	goldcrest	0	0	1	0
-silicon	silicon	0	0	1	0
+bwrw	cast	0	0	1	1
 cyfansoddwr	composer	0	0	1	1
 eifionydd	eifionydd	0	0	1	0
 hugh	hugh	0	0	1	0
@@ -1601,7 +1571,6 @@ fangor	bangor	0	0	1	0
 fangor	wattle	0	0	1	0
 allu	can	0	0	1	0
 allt	hill	0	0	1	1
-alshifa	al-shifa	0	0	1	0
 alshifa	alshifa	0	0	1	0
 isaac	isaac	0	0	1	0
 ddraig	dragon	0	0	1	0
@@ -1624,11 +1593,12 @@ symudwyd	moved	0	0	1	0
 england	england	0	0	1	0
 gwrtheyrn	gwrtheyrn	0	0	1	0
 osaka	osaka	0	0	1	0
-eve	eve	0	0	1	0
+ddisgyn	fall	0	0	1	0
+eto	again	0	0	1	1
 cannoedd	hundreds	0	0	1	0
 blues	blues	0	0	1	0
 wrtho	him	0	0	1	0
-niger	niger	0	0	1	0
+wrthi	her	0	0	1	0
 really	really	0	0	1	0
 cynhaliwyd	a	0	0	1	0
 adeiledd	structure	0	0	1	0
@@ -1693,7 +1663,6 @@ garnedd	cairn	0	0	1	0
 geirfa	vocabulary	0	0	1	1
 wrachod	witches	0	0	1	0
 rhaglen	program	0	0	1	1
-wrthwynebiad	objection	0	0	1	0
 wrthwynebiad	wthwynebiad	0	0	1	0
 wrthwynebiad	objection land	0	0	1	0
 caewyd	closed	0	0	1	0
@@ -1714,7 +1683,6 @@ dodiad	andtradition	1	0	1	0
 weithior	weithior	0	0	1	0
 nicaea	nicaea	0	0	1	0
 also	also	0	0	1	0
-also	hefyd	0	0	1	0
 gwerthodd	sold	0	0	1	0
 estynedig	extended	0	0	1	0
 orfodi	enforce	0	0	1	0
@@ -1725,7 +1693,7 @@ plas	mansion	0	0	1	1
 edison	edison	0	0	1	0
 arferiad	practice	0	0	1	1
 arferiad	custom	0	0	1	1
-ysgol	school	0	0	1	1
+plat	plate	0	0	1	0
 gymdeithaswyr	socialisers	0	0	1	0
 dosbarthiad	distribution	0	0	1	1
 dysgeidiaeth	teachings	0	0	1	0
@@ -1733,7 +1701,6 @@ ryfeloedd	wars	0	0	1	0
 rwystro	prevent	0	0	1	0
 coblyn	leprechaun	0	0	1	0
 henson	henson	0	0	1	0
-terminoleg	terminology	0	0	1	0
 trefedigaeth	colony	0	0	1	1
 â	a	0	0	1	0
 â	and	0	0	1	0
@@ -1749,9 +1716,8 @@ seismoleg	seismology	0	0	1	0
 gabe	gabe	0	0	1	0
 microsoft	microsoft	0	0	1	0
 grefft	craft	0	0	1	0
-galicia	galicia	0	0	1	0
-galicia	gallicia	0	0	1	0
-gynradd	primary	0	0	1	0
+cymar	mate	0	0	1	0
+goresgyn	overcome	0	0	1	0
 archoffeiriades	archoffeiriades	0	0	1	0
 roddodd	who	0	0	1	0
 goll	missing	0	0	1	0
@@ -1762,7 +1728,6 @@ daearyddwyr	geographers	0	0	1	0
 nain	grandmother	0	0	1	1
 symffoni	symphony	0	0	1	0
 carpathia	carpathia	0	0	1	0
-carpathia	carpathiya	0	0	1	0
 diwylliant	culture	0	0	1	1
 porwr	browser	0	0	1	0
 bernstein	bernstein	0	0	1	0
@@ -1789,7 +1754,7 @@ gweithio	work	0	0	1	1
 ymfudodd	emigrated	0	0	1	0
 river	river	0	0	1	0
 symptomau	symptoms	0	0	1	0
-symudiadaur	movements	0	0	1	0
+set	set	0	0	1	1
 jade	jade	0	0	1	0
 enaid	soul	0	0	1	1
 isgoch	infra red	0	0	1	0
@@ -1822,7 +1787,6 @@ llydandroed	llydandroed	0	0	1	0
 siglen	swamp	0	0	1	1
 canran	percentage	0	0	1	0
 adnabyddus	known	0	0	1	0
-f	f	0	0	1	0
 last	last	0	0	1	0
 tybiedig	perceived	0	0	1	0
 dyffrynoedd	valleys	0	0	1	0
@@ -1835,6 +1799,7 @@ bysantiaid	bysantiaid	0	0	1	0
 whole	whole	0	0	1	0
 beli	balls	0	0	1	0
 amdano	about	0	0	1	0
+argae	dam	0	0	1	1
 dysprosiwm	dysprosium	1	1	0	0
 dysprosiwm	first	1	0	1	0
 dysprosiwm	dysprosiwm	1	1	0	0
@@ -1852,7 +1817,6 @@ hollol	completely	0	0	1	0
 church	church	0	0	1	0
 mwynol	gaseous	0	0	1	0
 mwynol	mineral	0	0	1	0
-mwynol	mywnol	0	0	1	0
 datganiad	statement	0	0	1	0
 rhoddodd	he	0	0	1	0
 rhoddodd	gave	0	0	1	0
@@ -1902,12 +1866,11 @@ hwyaden	duck	0	0	1	0
 aml	often	0	0	1	1
 siciaeth	sikhism	0	0	1	0
 gallodd	was able	0	0	1	0
-fedal	medal	0	0	1	0
 bethesda	bethesda	0	0	1	0
 isranbarth	sub-region	0	0	1	0
 ddiffiniadau	definitions	0	0	1	0
 caeedig	closed	0	0	1	0
-organeb	organism	0	0	1	0
+caer	fort	0	0	1	0
 cyfarthrebu	communication	0	0	1	0
 wahanol	different	0	0	1	0
 wahanol	translate from: indonesian different	0	0	1	0
@@ -1933,7 +1896,7 @@ banerir	banerir	0	0	1	0
 leone	leone	0	0	1	0
 olynwyr	successors	0	0	1	0
 salve	salve	0	0	1	0
-gallia	gallia	0	0	1	0
+chymreig	chymreig	0	0	1	0
 benderfynol	determined	0	0	1	0
 targedau	targets	0	0	1	0
 olynwyd	succeeded	0	0	1	0
@@ -2004,7 +1967,7 @@ tène	gene	0	0	1	0
 tène	tène	0	0	1	0
 gyngres	congress	0	0	1	0
 be	what	0	0	1	0
-bellter	distance	0	0	1	0
+rhain	these	0	0	1	1
 wledydd	countries	0	0	1	0
 ba	what	0	0	1	0
 bb	bb	0	0	1	0
@@ -2012,7 +1975,7 @@ rhaid	have	0	0	1	0
 bo	as	0	0	1	0
 bi	bi	0	0	1	0
 gwneir	is	0	0	1	0
-llanelli	llanelli	0	0	1	0
+chanol	center	0	0	1	0
 bt	bt	0	0	1	0
 arferai	used	0	0	1	0
 ffynnu	thrive	0	0	1	1
@@ -2105,12 +2068,11 @@ slofenia	slovenia	0	0	1	0
 land	land	0	0	1	0
 frest	chest	0	0	1	0
 gwnaed	was	0	0	1	0
-teulu	family	0	0	1	1
+parcio	parking	0	0	1	0
 cwta	just	0	0	1	0
 hadau	seeds	0	0	1	0
 diplomyddol	diplomatic	0	0	1	0
-ffrwythlondeb	fertility	0	0	1	1
-gydnabod	recognition	0	0	1	0
+cymhlyg	complex	0	0	1	0
 gwagolyn	vacuole	0	0	1	0
 copaon	peaks	0	0	1	0
 copaon	peak	0	0	1	0
@@ -2147,8 +2109,8 @@ tro	time	0	0	1	1
 taith	trip	0	0	1	0
 tra	while	0	0	1	1
 eva	eva	0	0	1	0
-adeiladau	buildings	0	0	1	0
-ddisgyn	fall	0	0	1	0
+f	f	0	0	1	0
+eve	eve	0	0	1	0
 drwm	heavy	1	0	1	0
 drwm		1	0	1	0
 drwm	drum	1	1	0	0
@@ -2157,7 +2119,7 @@ drwm	offer	1	0	1	0
 drwm	round	1	1	0	0
 ieithyddion	linguists	0	0	1	0
 drws	door	0	0	1	1
-parotiaid	parrots	0	0	1	0
+this	this	0	0	1	0
 ddarlledu	broadcasting	0	0	1	0
 categorigweithredwyr	categorigweithredwyr	0	0	1	0
 drwy	by	0	0	1	0
@@ -2166,7 +2128,7 @@ mahler	mahler	0	0	1	0
 caergybi	holyhead	0	0	1	1
 dirwyn	winding	0	0	1	0
 ulster	ulster	0	0	1	0
-gantores	singer	0	0	1	0
+cocteau	cocteau	0	0	1	0
 natur	nature	0	0	1	1
 rhesymau	reasons	0	0	1	0
 anhrefn	disorder	0	0	1	1
@@ -2208,7 +2170,6 @@ mawr	large	0	0	1	1
 herodotus	herodotus	0	0	1	0
 halbwm	album	0	0	1	0
 thats	thats	0	0	1	0
-thats	that's	0	0	1	0
 phocaena	phocaena	0	0	1	0
 firefox	firefox	0	0	1	0
 rhuddlan	rhuddlan	0	0	1	0
@@ -2229,7 +2190,7 @@ bryderon	concerns	0	0	1	0
 hoywon	gays	0	0	1	0
 high	high	0	0	1	0
 hynafiaethwyr	antiquarians	0	0	1	0
-this	this	0	0	1	0
+parotiaid	parrots	0	0	1	0
 thir	land	0	0	1	0
 challenge	challenge	0	0	1	0
 torchog	coiled	0	0	1	1
@@ -2289,7 +2250,6 @@ siocled	chocolate	0	0	1	0
 dorrir	cut	0	0	1	0
 houston	houston	0	0	1	0
 cyfan	all	0	0	1	1
-awyrennau	aircraft	0	0	1	0
 ragor	more	0	0	1	0
 luosog	multiple	0	0	1	0
 terfyn	limit	0	0	1	0
@@ -2312,7 +2272,6 @@ transparent	transparent	0	0	1	0
 liberia	liberia	0	0	1	0
 themâu	themes	0	0	1	0
 ffilmiau	films	0	0	1	0
-kpa	kpa	0	0	1	0
 ymosodwyd	attacked	0	0	1	0
 persia	persia	0	0	1	0
 leihau	reduce	0	0	1	0
@@ -2326,7 +2285,6 @@ siop	shop	0	0	1	1
 lloeren	satellite	0	0	1	0
 gysylltir	associated	0	0	1	0
 fedyddio	baptized	0	0	1	0
-palaiologos	palailologos	0	0	1	0
 palaiologos	palaiologos	0	0	1	0
 sioe	show	0	0	1	1
 shannon	shannon	0	0	1	0
@@ -2337,7 +2295,7 @@ fwyaf	most	0	0	1	0
 gwanhau	diluted	0	0	1	0
 liwiau	colors	0	0	1	0
 wyntyll	fan	0	0	1	0
-bae	bay	0	0	1	1
+oceanodroma	oceanodroma	0	0	1	0
 burke	burke	0	0	1	0
 unochrog	unilateral	0	0	1	0
 rectwm	rectum	0	0	1	0
@@ -2380,11 +2338,12 @@ eidal	italy	0	0	1	0
 annibynol	independent	0	0	1	0
 meddiannodd	possessed	0	0	1	0
 system	system	0	0	1	0
+clo	lock	0	0	1	1
 osododd	set	0	0	1	0
 feicio	cycling	0	0	1	0
 arlunwyr	artists	0	0	1	0
-alldafliad	ejection	0	0	1	0
 alldafliad	ejuction	0	0	1	0
+alldafliad	ejection	0	0	1	0
 dymhereddau	temperatures	0	0	1	0
 cyfoethocaf	the richest	0	0	1	0
 undduwiaeth	monotheism	0	0	1	0
@@ -2472,7 +2431,6 @@ denmarc	denmark	0	0	1	0
 siâp	shape	0	0	1	0
 aer	air	0	0	1	1
 reis	rice	0	0	1	1
-h	h	0	0	1	0
 mynnodd	insisted	0	0	1	0
 bledren	bladder	0	0	1	0
 gwleidydd	politician	0	0	1	1
@@ -2491,7 +2449,7 @@ ddethol	selection	0	0	1	0
 alessandro	alessandro	0	0	1	0
 bwysicaf	most	0	0	1	0
 lyon	lyon	0	0	1	0
-destiny	destiny	0	0	1	0
+cefnogwyr	supporters	0	0	1	0
 cymeriad	character	0	0	1	1
 broblem	problem	0	0	1	0
 hysgrifennu	written	0	0	1	0
@@ -2510,7 +2468,7 @@ fygythiad	threat	0	0	1	0
 adloniant	entertainment	0	0	1	1
 anhebyg	unlikely	0	0	1	0
 proffesiynol	professional	0	0	1	1
-eto	again	0	0	1	1
+rama	rama	0	0	1	0
 ailgipio	retaken	0	0	1	0
 chaplin	chaplin	0	0	1	0
 ci	dog	0	0	1	1
@@ -2538,7 +2496,6 @@ genetig	genetic	0	0	1	0
 honiadau	allegations	0	0	1	0
 >	>	0	0	1	0
 fferm	farm	0	0	1	0
-protestiadau	protests	0	0	1	0
 nghwm	valley	0	0	1	0
 fferi	ferry	0	0	1	0
 gwella	improve	0	0	1	1
@@ -2562,7 +2519,7 @@ fflworin	fluorine	0	0	1	0
 goroni	crowned	0	0	1	0
 macedonia	macedonia	0	0	1	0
 categorigwyliau	holiday category	0	0	1	0
-cyflymder	speed	0	0	1	1
+almaenaidd	german	0	0	1	1
 juan	juan	0	0	1	0
 eithafol	extreme	0	0	1	1
 gyflwr	condition	0	0	1	0
@@ -2575,7 +2532,6 @@ gloddio	mining	0	0	1	0
 ystadegaeth	statistics	0	0	1	0
 ystadegaeth	ststistics	0	0	1	0
 ball	default	0	0	1	0
-columbia	colubia	0	0	1	0
 columbia	columbia	0	0	1	0
 raymond	raymond	0	0	1	0
 bali	bali	0	0	1	0
@@ -2623,7 +2579,7 @@ foddi	drowning	0	0	1	0
 methan	methane	0	0	1	0
 paul	paul	0	0	1	0
 mwslemiaid	muslims	0	0	1	0
-web	web	0	0	1	0
+ngwaith	work	0	0	1	0
 trafod	discuss	0	0	1	1
 wen	white	0	0	1	0
 deyrnasiad	reign	0	0	1	0
@@ -2652,7 +2608,6 @@ daflu	throw	0	0	1	0
 tehuelches	tehuelches	0	0	1	0
 concwest	conquest	0	0	1	1
 godwyd	raised	0	0	1	0
-lhuyd	lhuyd	0	0	1	0
 ledled	throughout	0	0	1	0
 cogau	cuckoos	0	0	1	0
 peiriant	machine	0	0	1	1
@@ -2664,7 +2619,8 @@ gothiaid	goths	0	0	1	0
 ddiwygiad	amendment	0	0	1	0
 derfynol	final	0	0	1	0
 does	there	0	0	1	0
-difa	destruction	0	0	1	0
+saesnegcymraeg	english-welsh	0	0	1	0
+saesnegcymraeg	saesnegcymraeg	0	0	1	0
 hylifol	liquid	0	0	1	0
 chytunodd	agreed	0	0	1	0
 diwinyddiaeth	theology	0	0	1	1
@@ -2688,7 +2644,6 @@ difrod	damage	0	0	1	1
 software	software	0	0	1	0
 kemal	kemal	0	0	1	0
 nwylor	nwylor	0	0	1	0
-nwylor	hands	0	0	1	0
 mers	mers	0	0	1	0
 catherine	catherine	0	0	1	0
 commitment	drs	0	0	1	0
@@ -2702,7 +2657,6 @@ rhyfelwr	warrior	0	0	1	1
 gogleddddwyrain	gogleddddwyrain	0	0	1	0
 gogleddddwyrain	north east	0	0	1	0
 ddylanwad	influence	0	0	1	0
-×	x	0	0	1	0
 osodwyd	set	0	0	1	0
 diffiniwyd	defined	0	0	1	0
 datblygodd	developed	0	0	1	0
@@ -2718,7 +2672,6 @@ corea	korea	0	0	1	0
 gofalu	care	0	0	1	1
 canwr	singer	0	0	1	1
 lynnoedd	lakes	0	0	1	0
-anafiadau	injuries	0	0	1	0
 ffosilau	fossils	0	0	1	0
 barcelona	barcelona	0	0	1	0
 aristotle	aristotle	0	0	1	0
@@ -2747,13 +2700,12 @@ garamantes	garmantes	0	0	1	0
 wragedd	women	0	0	1	0
 hanmer	hanmer	0	0	1	0
 ranbarth	region	0	0	1	0
-wyrdd	green	0	0	1	0
+morvan	morvan	0	0	1	0
 torrir	cut	0	0	1	0
 hebraeg	hebrew	0	0	1	1
 mozart	mozart	0	0	1	0
 dymor	term	0	0	1	0
 kanji	kanji	0	0	1	0
-kanji	starch	0	0	1	0
 eos	nightingale	0	0	1	1
 mudiad	organization	0	0	1	0
 torrin	breaking	0	0	1	0
@@ -2796,15 +2748,14 @@ seilio	based	0	0	1	0
 seilio	silo	0	0	1	0
 faes	area	0	0	1	0
 crake	crake	0	0	1	0
-glicio	click	0	0	1	0
 cmc	gdp	0	0	1	0
-red	red	0	0	1	0
+fwyar	berries	0	0	1	0
 dioddef	suffering	0	0	1	1
 wedyn	then	0	0	1	1
 sylfaenol	basic	0	0	1	0
 seilir	based	0	0	1	0
 cantref	hundred	0	0	1	1
-merganser	merganser	0	0	1	0
+jamaica	jamaica	0	0	1	0
 amcan	objective	0	0	1	0
 deutsch	deutsch	0	0	1	0
 ifan	ifan	0	0	1	0
@@ -2813,7 +2764,7 @@ horn	horn	0	0	1	0
 nodwedd	feature	0	0	1	1
 eurovision	eurovision	0	0	1	0
 codir	charged	0	0	1	0
-alw	call	0	0	1	0
+lafar	oral	0	0	1	0
 galan	galan	0	0	1	0
 anghyffredin	unusual	0	0	1	0
 ehangodd	expanded	0	0	1	0
@@ -2851,7 +2802,7 @@ ffurf	form	0	0	1	1
 cholli	loss	0	0	1	0
 gynt	earlier	0	0	1	0
 bri	prestige	0	0	1	0
-comiwnyddol	communist	0	0	1	1
+yfed	drinking	0	0	1	0
 spongiosum	spongiosum	0	0	1	0
 categoricerbydau	categoricerbydau	0	0	1	0
 categoricerbydau	category vehicles	0	0	1	0
@@ -2871,11 +2822,9 @@ word	word	0	0	1	0
 word	worg	0	0	1	0
 ers	since	0	0	1	1
 chyflawni	delivery	0	0	1	0
-work	work	0	0	1	0
 work	gwaith	0	0	1	0
 mwyaf	more	0	0	1	0
-nofel	novel	0	0	1	1
-nofel	exaggeration	0	0	1	0
+rhyddhaodd	released	0	0	1	0
 era	for several	0	0	1	0
 ddisgen	disc	0	0	1	0
 moelona	moelona	0	0	1	0
@@ -2946,9 +2895,8 @@ gweddillion	residues	0	0	1	0
 ffiniaur	boundaries	0	0	1	0
 ffiniaur	ffiniaur	0	0	1	0
 tsieina	china	0	0	1	0
-they	byddant	0	0	1	0
-they	they	0	0	1	0
-ymhob	all	0	0	1	0
+banc	bank	0	0	1	1
+byddin	army	0	0	1	1
 diddorol	interesting	0	0	1	1
 germania	germania	0	0	1	0
 germanig	germanig	0	0	1	0
@@ -2959,11 +2907,9 @@ dolen	link	0	0	1	1
 mrna	mrna	0	0	1	0
 ormod	too	0	0	1	0
 carlos	carlos	0	0	1	0
-hywel	hywel	0	0	1	0
 tafodieitheg	dialectology	1	1	0	0
 eirian	eirian	0	0	1	0
 llawer	many	0	0	1	0
-heuldror	solstice	0	0	1	0
 heuldror	heuldror	0	0	1	0
 sgerbwd	skeleton	1	1	1	0
 sgerbwd	pick up	1	0	1	0
@@ -2988,11 +2934,10 @@ palas	palace	0	0	1	1
 palau	palau	0	0	1	0
 dîm	no	0	0	1	0
 allheulol	allheulol	0	0	1	0
-ynghylch	about	0	0	1	1
+anad	above	0	0	1	0
 daniel	daniel	0	0	1	0
 werdd	green	0	0	1	0
 ildio	surrender	0	0	1	0
-+x	+x	0	0	1	0
 +x	+ refers to adddition and xrefers to times	0	0	1	0
 judith	judith	0	0	1	0
 hysbysebu	advertising	0	0	1	0
@@ -3071,8 +3016,6 @@ amsugno	absorption	0	0	1	0
 amsugno	amsungo	0	0	1	0
 cyflawni	cyfawni	0	0	1	0
 cyflawni	cyflwni	0	0	1	0
-cyflawni	achieve	0	0	1	1
-leuad	leuad	0	0	1	0
 leuad	moon	0	0	1	0
 baner	flag	0	0	1	1
 welodd	saw	0	0	1	0
@@ -3091,7 +3034,6 @@ anatomi	anatomy	0	0	1	0
 feirionnydd	merioneth	0	0	1	0
 ceton	ketone	1	1	0	0
 ceton	muslims	1	0	1	0
-bruce	bruce	0	0	1	0
 endif	endive	1	1	0	0
 anatomy	anatomy	0	0	1	0
 acknowledgements	acknowledgements	0	0	1	0
@@ -3114,7 +3056,7 @@ rywbeth	something	0	0	1	0
 cystadleuol	competitive	0	0	1	1
 fleming	fleming	0	0	1	0
 nodedig	notable	0	0	1	0
-twrcaidd	turkish	0	0	1	0
+madeira	madeira	0	0	1	0
 ffermio	farming	0	0	1	0
 iaşi	iasi	0	0	1	0
 eider	eider	0	0	1	0
@@ -3146,7 +3088,7 @@ blwch	box	0	0	1	1
 wynne	wynne	0	0	1	0
 athronwyr	philosophers	0	0	1	0
 mwyngloddio	mining	0	0	1	0
-djibouti	djibouti	0	0	1	0
+fynegi	express	0	0	1	0
 asturias	asturias	0	0	1	0
 niwtral	neutral	0	0	1	0
 haearn	iron	0	0	1	1
@@ -3167,6 +3109,7 @@ draws	across	0	0	1	0
 chychod	boats	0	0	1	0
 shakti	shakti	0	0	1	0
 baban	baby	0	0	1	0
+symudiadaur	movements	0	0	1	0
 chysylltu	link	0	0	1	0
 sgwâr	square	0	0	1	0
 moleciwlau	molecules	0	0	1	0
@@ -3185,7 +3128,7 @@ wj	wj	0	0	1	0
 clwb	club	0	0	1	1
 gyrff	bodies	0	0	1	0
 ww	ww	0	0	1	0
-safleoedd	sites	0	0	1	0
+anoddaf	the hardest	0	0	1	0
 sefydlu	establish	0	0	1	1
 gorchuddio	covered	0	0	1	0
 caledonia	caledonia	0	0	1	0
@@ -3199,7 +3142,6 @@ fagu	gain	0	0	1	0
 aberthu	sacrifice	0	0	1	1
 cyfoes	contemporary	0	0	1	1
 cod	code	0	0	1	0
-cog	ce	0	0	1	0
 cog	cog	0	0	1	0
 brad	betrayal	0	0	1	1
 branning	branning	0	0	1	0
@@ -3270,7 +3212,7 @@ sydyn	sudden	0	0	1	1
 caffi	cafe	0	0	1	0
 gymharu	compared	0	0	1	0
 cyrch	raid	0	0	1	0
-raid	have	0	0	1	0
+nin	nin	0	0	1	0
 ffanffer	fanfare	1	1	0	0
 gwyach	grebe	0	0	1	0
 nid	not	0	0	1	1
@@ -3290,19 +3232,16 @@ ffigurau	figures	0	0	1	0
 the	the	0	0	1	0
 gyfnodau	periods	0	0	1	0
 musical	musical	0	0	1	0
-cyffelyb	cyffeyb	0	0	1	0
 cyffelyb	similar	0	0	1	1
 trydedd	trudedd	0	0	1	0
 trydedd	third	0	0	1	0
 basiwyd	passed	0	0	1	0
 indigo	indigo	0	0	1	0
 olygydd	editor	0	0	1	0
-wybod	but	0	0	1	0
-wybod	out	0	0	1	0
+ofalus	carefully	0	0	1	0
 jabaliya	jabaliya	0	0	1	0
-kali	kali	0	0	1	0
 gallair	might the	0	0	1	0
-llywodraethol	governing	0	0	1	1
+godi	raise	0	0	1	0
 goptaidd	coptic	0	0	1	0
 goptaidd	goptaidd	0	0	1	0
 gynderfynol	finals	0	0	1	0
@@ -3350,7 +3289,7 @@ tlodi	poverty	0	0	1	1
 purple	purple	0	0	1	0
 arlywyddion	presidents	0	0	1	0
 romanos	romanos	0	0	1	0
-iach	healthy	0	0	1	1
+protestiadau	protests	0	0	1	0
 josé	jose	0	0	1	0
 mulfrain	cormorants	0	0	1	0
 dysgur	teach the	0	0	1	0
@@ -3386,7 +3325,7 @@ wan	weak	0	0	1	0
 erchyll	horrible	0	0	1	1
 rhisiart	richard	0	0	1	1
 fframwaith	framework	0	0	1	1
-wag	empty	0	0	1	0
+fflamadwy	flammable	0	0	1	0
 dewi	shut up	0	0	1	0
 wastadeddau	plains	0	0	1	0
 nodau	goals	0	0	1	0
@@ -3408,7 +3347,6 @@ dead	dead	0	0	1	0
 categoricanrifoedd	centuries category	0	0	1	0
 categoricanrifoedd	categoricanrifoedd	0	0	1	0
 cynorthwyo	help	0	0	1	1
-gorchuddior	coverings	0	0	1	0
 tiriogaethau	territories	0	0	1	0
 tiriogaethau	element	0	0	1	0
 elyrch	elyrch	0	0	1	0
@@ -3440,7 +3378,7 @@ lluosog	multiple	0	0	1	0
 heintiau	infections	0	0	1	0
 crested	crested	0	0	1	0
 crested	wearing a protector(helmet)	0	0	1	0
-oesoedd	ages	0	0	1	0
+henwi	named	0	0	1	0
 heintiad	infection	0	0	1	0
 ymreolaeth	autonomy	0	0	1	1
 ganiatâd	ganilatad	0	0	1	0
@@ -3561,7 +3499,7 @@ gwain	shealth	0	0	1	0
 tywydd	weather	0	0	1	1
 club	clubs	0	0	1	0
 oeddynt	they	0	0	1	0
-bugail	shepherd	0	0	1	1
+oren	orange	0	0	1	1
 ffeil	files	0	0	1	0
 prifddinas	capital	0	0	1	1
 gwynn	gwynn	0	0	1	0
@@ -3601,7 +3539,7 @@ werthodd	sold	0	0	1	0
 chroesi	cross	0	0	1	0
 economi	economic	0	0	1	0
 economi	economy	0	0	1	0
-beat	beat	0	0	1	0
+gwanwyn	spring	0	0	1	1
 trawyd	struck	0	0	1	0
 afonydd	rivers	0	0	1	0
 cadair	chair	0	0	1	1
@@ -3640,7 +3578,7 @@ frawd	brother	0	0	1	0
 cola	cola	0	0	1	0
 rheolaeth	management	0	0	1	1
 awgrymwyd	suggested	0	0	1	0
-anturiaethau	adventures	0	0	1	0
+anfodlon	dissatisfied	0	0	1	0
 ôl	after	0	0	1	0
 gynghrair	alliance	0	0	1	0
 ganwr	singer	0	0	1	0
@@ -3653,9 +3591,9 @@ herwfilwrol	guerrilla	0	0	1	0
 trafodaethau	discussions	0	0	1	0
 moelfre	moelfre	0	0	1	0
 nod	goal	0	0	1	0
-argae	dam	0	0	1	1
+gwneuthurwyr	manufacturers	0	0	1	0
 not	not	0	0	1	0
-son	mention	0	0	1	0
+now	now	0	0	1	0
 hall	hall	0	0	1	0
 mathau	fostering	0	0	1	0
 mathau	types	0	0	1	0
@@ -3684,7 +3622,7 @@ ef	he	0	0	1	0
 ec	ec	0	0	1	0
 eb	eb	0	0	1	0
 goose	goose	0	0	1	0
-year	month	0	0	1	0
+ez	ez	0	0	1	0
 eu	their	0	0	1	0
 croenddu	black	0	0	1	0
 comiwnyddion	communists	0	0	1	0
@@ -3799,7 +3737,6 @@ rhannau	parts	0	0	1	0
 credinwyr	believers	0	0	1	0
 santiago	santiago	0	0	1	0
 karakoram	karakoram	0	0	1	0
-categorianifeiliaid	category animals	0	0	1	0
 categorianifeiliaid	category: animals	0	0	1	0
 price	price	0	0	1	0
 lledaeniad	spread	0	0	1	0
@@ -3808,7 +3745,7 @@ lanius	lanius	0	0	1	0
 llewyrchus	prosperous	0	0	1	1
 america	america	0	0	1	0
 rheswm	reason	0	0	1	1
-cefnogwyr	supporters	0	0	1	0
+destiny	destiny	0	0	1	0
 bennill	verse	0	0	1	0
 bennill	winning	0	0	1	0
 mrs	mrs	0	0	1	0
@@ -3849,12 +3786,11 @@ bedyddwyr	baptist	0	0	1	0
 dyngedfennol	critical	0	0	1	0
 wranws	uranus	0	0	1	0
 defnyddiau	materials	0	0	1	0
-defnyddiau	defnuddiau	0	0	1	0
 helyntion	adventures	0	0	1	0
 llwythau	tribes	0	0	1	0
 llon	cheerful	0	0	1	0
 sylwedd	substance	0	0	1	1
-asesu	assess	0	0	1	1
+hela	hunting	0	0	1	0
 ansicrwydd	uncertainty	0	0	1	1
 ddienyddio	executed	0	0	1	0
 sychach	drier	0	0	1	0
@@ -3891,7 +3827,8 @@ seremoniau	ceremonies	0	0	1	0
 lethraur	lethraur	0	0	1	0
 shearwater	shearwater	0	0	1	0
 gwe	web	0	0	1	1
-parhaol	permanent	0	0	1	0
+adeiladau	buildings	0	0	1	0
+amrywiad	variation	0	0	1	1
 rhydd	free	0	0	1	1
 abergwaun	fishguard	0	0	1	1
 abergwaun	sequence	0	0	1	0
@@ -3941,8 +3878,7 @@ dreulio	spend	0	0	1	0
 canolfan	center	0	0	1	1
 canolfan	centre	0	0	1	0
 ein	our	0	0	1	1
-yi	yi	0	0	1	0
-yi	it	0	0	1	0
+aberteifi	cardigan	0	0	1	1
 economeg	economics	0	0	1	1
 gyferbyn	opposite	0	0	1	1
 latifa	latifa	0	0	1	0
@@ -4027,7 +3963,6 @@ bydd	will	0	0	1	0
 achosion	cases	0	0	1	0
 dydyr	dydyr	0	0	1	0
 eddie	eddie	0	0	1	0
-chynhyrchu	production	0	0	1	0
 ganiatáu	allow	0	0	1	0
 kaiser	kaiser	0	0	1	0
 ethol	elect	0	0	1	1
@@ -4037,7 +3972,7 @@ foltedd	in the light of	1	0	1	0
 foltedd	by	1	0	1	0
 foltedd	according	1	0	1	0
 bwyntiau	points	0	0	1	0
-bwer	power	0	0	1	0
+shanklin	shanklin	0	0	1	0
 dechraur	the beginning	0	0	1	0
 ganur	but sing out	0	0	1	0
 cynnydd	progress	0	0	1	1
@@ -4055,7 +3990,7 @@ central	central	0	0	1	0
 unesco	unesco	0	0	1	0
 sri	sri	0	0	1	0
 henaint	age	0	0	1	0
-henaint	old age	0	0	1	1
+henaint	old age	0	0	1	0
 wolf	wolf	0	0	1	0
 ofnadwy	terrible	0	0	1	1
 brezhoneg	brezhoneg	0	0	1	0
@@ -4098,7 +4033,7 @@ categorimetelau	categories metals	0	0	1	0
 categorimetelau	category metals	0	0	1	0
 diwylliannol	cultural	0	0	1	0
 raglenni	programs	0	0	1	0
-almaenaidd	german	0	0	1	1
+cyflymder	speed	0	0	1	1
 mrwsel	brussels	0	0	1	0
 chwysu	sweating	0	0	1	0
 rybuddio	warn	0	0	1	0
@@ -4150,7 +4085,7 @@ darlledur	darlledur	0	0	1	0
 gwyddonwyr	scientists	0	0	1	0
 threfn	order	0	0	1	0
 threfi	towns	0	0	1	0
-berthnasol	relevant	0	0	1	0
+byddinoedd	armies	0	0	1	0
 addaswyd	modified	0	0	1	0
 región	region	0	0	1	0
 arbenigo	specialized	0	0	1	0
@@ -4170,7 +4105,7 @@ efor	with	0	0	1	0
 nodwyddau	needles	0	0	1	0
 chwith	left	0	0	1	1
 rhyngweithiol	interactive	0	0	1	0
-anad	above	0	0	1	0
+ynghylch	about	0	0	1	1
 golfanod	sparrows	0	0	1	0
 cwpan	cup	0	0	1	1
 heniaith	old language	0	0	1	0
@@ -4213,7 +4148,8 @@ llan	lan	0	0	1	0
 átha	thought	0	0	1	0
 átha	latha	0	0	1	0
 pibydd	piper	0	0	1	1
-anghydffurfiol	conformist	0	0	1	0
+categoriarian	category:funding	0	0	1	0
+categoriarian	categoriarian	0	0	1	0
 llai	less	0	0	1	1
 disclaimers	disclaimers	0	0	1	0
 categorimamaliaid	categorimamaliaid	0	0	1	0
@@ -4250,7 +4186,6 @@ tsiec	czech	0	0	1	0
 diod	drink	0	0	1	1
 ehangiad	expansion	0	0	1	0
 gwledig	rural	0	0	1	1
-latfia	latvia	0	0	1	0
 eryri	snowdonia	0	0	1	1
 gweinidog	little	1	0	1	0
 gweinidog	just	1	0	1	0
@@ -4267,7 +4202,6 @@ himalaya	himalaya	0	0	1	0
 symudiad	movement	0	0	1	1
 sâl	ill	0	0	1	0
 gaerdydd	cardiff	0	0	1	0
-gaerdydd	gaerdydd	0	0	1	0
 cyfog	tower	1	0	1	0
 cyfog	k	1	0	1	0
 cyfog	nausea	1	1	0	0
@@ -4298,7 +4232,6 @@ isrywogaethau	subspecies	0	0	1	0
 chyhoeddodd	published	0	0	1	0
 mamwlad	homeland	0	0	1	0
 clarke	clarke	0	0	1	0
-categorisystem	catogories: system	0	0	1	0
 categorisystem	categorisystem	0	0	1	0
 cyfieithu	translation	0	0	1	0
 categoricemeg	categoricemeg	0	0	1	0
@@ -4349,7 +4282,7 @@ helmand	helmand	0	0	1	0
 rhedwyr	runners	0	0	1	0
 japaneg	apanese	0	0	1	0
 weriniaethwyr	republicans	0	0	1	0
-aberteifi	cardigan	0	0	1	1
+yi	yi	0	0	1	0
 sacrwm	disasters	1	0	1	0
 sacrwm	scrwm	1	1	0	0
 sacrwm	hardship or disaster	1	0	1	0
@@ -4397,7 +4330,7 @@ since	since a	0	0	1	0
 since	since	0	0	1	0
 wleidyddiaeth	politics	0	0	1	0
 publish	publish	0	0	1	0
-byddinoedd	armies	0	0	1	0
+berthnasol	relevant	0	0	1	0
 pum	five	0	0	1	0
 rhondda	rhondda	0	0	1	0
 maint	size	0	0	1	1
@@ -4434,7 +4367,6 @@ ymgarthion	feces	1	1	0	0
 ymgarthion	faeces	1	1	0	0
 ymgarthion	istvan	1	0	1	0
 categorigwyddorau	categorigwyddorau	0	0	1	0
-categorigwyddorau	sciences category	0	0	1	0
 dulliau	methods	0	0	1	0
 niwedd	end	0	0	1	0
 methu	failure	0	0	1	0
@@ -4487,7 +4419,7 @@ fesur	measure	0	0	1	0
 liw	color	0	0	1	0
 gerllaw	nearby	0	0	1	0
 llenor	writer	0	0	1	0
-gwylog	guillemot	0	0	1	0
+ewros	euros	0	0	1	0
 rhy	too	0	0	1	0
 cyffredinol	general	0	0	1	1
 byrddau	boards	0	0	1	0
@@ -4534,7 +4466,7 @@ mewnfudiad	immigration	0	0	1	0
 during	during	0	0	1	0
 lywodraeth	government	0	0	1	0
 raddfa	scale	0	0	1	0
-alexander	alexander	0	0	1	0
+legibly	legibly	0	0	1	0
 ffatrïoedd	factories	0	0	1	0
 ieuenctid	youth	0	0	1	1
 uchder	height	0	0	1	1
@@ -4571,7 +4503,7 @@ conditions	conditions	0	0	1	0
 eidaleg	italian	0	0	1	0
 nodweddir	characterized	0	0	1	0
 isod	below	0	0	1	1
-ngwaith	work	0	0	1	0
+web	web	0	0	1	0
 mytholegol	mythological	0	0	1	0
 cyfeiriadau	references	0	0	1	0
 cyfeiriadau	reference	0	0	1	0
@@ -4638,7 +4570,7 @@ used	used	0	0	1	0
 dime	dime	0	0	1	0
 tuvalu	tuvalu	0	0	1	0
 blair	blair	0	0	1	0
-fedi	harvested	0	0	1	0
+elwir	called	0	0	1	0
 farddoniaeth	farddomiaeth	0	0	1	0
 farddoniaeth	poetry	0	0	1	0
 ymdeimlad	sense	0	0	1	1
@@ -4648,7 +4580,6 @@ ddechrau	start	0	0	1	0
 blaid	party	0	0	1	0
 cytunwyd	agreed	0	0	1	0
 phedwar	four	0	0	1	0
-saeson		0	0	1	0
 saeson	england	0	0	1	0
 lancastriaid	lancastrian	0	0	1	0
 ddogfennau	documents	0	0	1	0
@@ -4753,7 +4684,6 @@ diwan	diwan	0	0	1	0
 bangladesh	bangladesh	0	0	1	0
 gwrthwynebwyr	opponents	0	0	1	0
 wyliau	holiday	0	0	1	0
-éire	eire	0	0	1	0
 gwrthwynebwyd	opposed	0	0	1	0
 heritage	heritage	0	0	1	0
 ffliw	flu	0	0	1	0
@@ -4815,7 +4745,7 @@ bawd|y	thumb|the	0	0	1	0
 evan	evan	0	0	1	0
 drymiau	drums	0	0	1	0
 masnach	trade	0	0	1	1
-turkmenistan	turkmenistan	0	0	1	0
+nodweddion	features	0	0	1	0
 lloegr	england	0	0	1	1
 e	e	0	0	1	0
 cynyddodd	increased	0	0	1	0
@@ -4876,7 +4806,6 @@ degfed	tenth	0	0	1	0
 sianel	channel	0	0	1	1
 mauritania	mauritania	0	0	1	0
 chyngheiriaid	chyngheiriaid	0	0	1	0
-olaf	olaf	0	0	1	0
 olaf	last	0	0	1	1
 sych	dry	0	0	1	1
 cotwm	cotton	0	0	1	1
@@ -4894,12 +4823,12 @@ barbara	barbara	0	0	1	0
 yntau	he	0	0	1	0
 gelfyddyd	art	0	0	1	0
 carter	carter	0	0	1	0
+ddynodi	designate	0	0	1	0
 cnau	nuts	0	0	1	0
 atgenhedlu	reproductive	0	0	1	0
 gyrhaeddodd	reached	0	0	1	0
 gyrhaeddodd	gyhaeddodd	0	0	1	0
 chafodd	was	0	0	1	0
-mussolini	mussolini	0	0	1	0
 blith	from	0	0	1	0
 teyrnas	kingdom	0	0	1	1
 padrig	patrick	0	0	1	1
@@ -4916,7 +4845,7 @@ wylit	wylit	0	0	1	0
 ych	ox	0	0	1	1
 mwsogl	moss	1	1	0	1
 mwsogl	history	1	0	1	0
-cymanwlad	commonwealth	0	0	1	1
+asgellwr	winger	0	0	1	1
 collins	collins	0	0	1	0
 celf	motown	0	0	1	0
 celf	art	0	0	1	1
@@ -4939,7 +4868,7 @@ vaduz	vaduz	0	0	1	0
 enbyd	pressing	0	0	1	0
 ddull	a	0	0	1	0
 geni	birth	0	0	1	0
-wib	sprint	0	0	1	0
+rhywun	a	0	0	1	0
 llosgir	burning	0	0	1	0
 win	win	0	0	1	0
 win	wine	0	0	1	0
@@ -4961,10 +4890,9 @@ hudson	hudson	0	0	1	0
 ffordd	way	0	0	1	1
 orbitol	orbital	0	0	1	0
 nodir	identified	0	0	1	0
-ymyrraeth	intervention	0	0	1	0
 clefyd	world	1	0	1	0
 clefyd	said	1	0	1	0
-clefyd	disease	1	1	1	1
+clefyd	disease	1	1	0	1
 clefyd	talk	1	0	1	0
 clefyd	speak	1	0	1	0
 camera	camera	0	0	1	0
@@ -5039,7 +4967,6 @@ elyn	enemy	0	0	1	0
 foment	moment	0	0	1	0
 foment	forment	0	0	1	0
 lles	welfare	0	0	1	0
-ller	ller	0	0	1	0
 ller	where	0	0	1	0
 uwchradd	secondary	0	0	1	0
 trelew	trelew	0	0	1	0
@@ -5052,7 +4979,7 @@ modrwy	ring	0	0	1	1
 gwadodd	denied	0	0	1	0
 encyclopedia	encyclopedia	0	0	1	0
 lled	width	0	0	1	1
-llen	curtain	0	0	1	1
+ugeinfed	twentieth	0	0	1	1
 gainc	branch	0	0	1	0
 disgrifir	described	0	0	1	0
 bawd|lleoliad	thumb | location	0	0	1	0
@@ -5069,10 +4996,9 @@ lithuania	lituania	0	0	1	0
 refferendwm	referendum	0	0	1	0
 guadeloupehidalgo	guadeloupehidalgo	0	0	1	0
 guadeloupehidalgo	guadelope-hidalgo	0	0	1	0
-legibly	legibly	0	0	1	0
+alexander	alexander	0	0	1	0
 ddefnyddiol	useful	0	0	1	0
 ychwaith	either	0	0	1	1
-helar	hunting	0	0	1	0
 helar	helar	0	0	1	0
 nokia	nokia	0	0	1	0
 gwyneth	gwyneth	0	0	1	0
@@ -5142,8 +5068,9 @@ chymraeg	chymraeg	0	0	1	0
 congo	congo	0	0	1	0
 ffrwyth	fruit	0	0	1	1
 categoritywysogion	categoritywysogion	0	0	1	0
-categoritywysogion	category princes	0	0	1	0
 dove	dove	0	0	1	0
+they	byddant	0	0	1	0
+they	they	0	0	1	0
 sumatra	sumatra	0	0	1	0
 belize	belize	0	0	1	0
 felly	so	0	0	1	1
@@ -5154,7 +5081,7 @@ cyhuddiadau	charges	0	0	1	0
 deithiau	trips	0	0	1	0
 rowlands	rowlands	0	0	1	0
 teifi	teifi	0	0	1	0
-frenhinol	royal	0	0	1	0
+sy	which	0	0	1	0
 dyfodol	future	0	0	1	1
 feini	criteria	0	0	1	0
 masjid	masjid	0	0	1	0
@@ -5183,7 +5110,6 @@ gweinyddiaeth	administration	0	0	1	1
 gweinyddiaeth	dministration	0	0	1	0
 julian	julian	0	0	1	0
 stallman	stallman	0	0	1	0
-maswedd	look out	0	0	1	0
 maswedd	maswedd	0	0	1	0
 bryniau	hills	0	0	1	0
 cynhyrchiol	productive	0	0	1	1
@@ -5194,8 +5120,9 @@ nghilmeri	cilmeri	0	0	1	0
 llinell	line	0	0	1	1
 dylanwad	influence	0	0	1	1
 cwrdd	meet	0	0	1	1
-bus	bus	0	0	1	0
-so	so	0	0	1	0
+geisiadau	applications	0	0	1	0
+geisiadau	application	0	0	1	0
+cofrestru	registration	0	0	1	0
 weladwy	visible	0	0	1	0
 categoricymdeithas	category association	0	0	1	0
 categoricymdeithas	categoricymdeithas	0	0	1	0
@@ -5246,7 +5173,6 @@ golff	golf	0	0	1	0
 cyflenwadau	supplies	0	0	1	0
 maximinus	maximinus	0	0	1	0
 ˚c	c	0	0	1	0
-˚c	celcious	0	0	1	0
 wiced	wickets	0	0	1	0
 she	she	0	0	1	0
 gran	gran	0	0	1	0
@@ -5328,6 +5254,7 @@ fasnachol	commercial	0	0	1	0
 gwybod	know	0	0	1	1
 galwn	we call	0	0	1	0
 anrhegion	gifts	0	0	1	0
+loxia	loxia	0	0	1	0
 gwyddoniaethau	sciences	0	0	1	0
 gwyddoniaethau	gywddoniaethau	0	0	1	0
 trydannol	electrical	0	0	1	0
@@ -5365,15 +5292,12 @@ weld	see	0	0	1	0
 cwtiadwennol	cwtiadwennol	0	0	1	0
 records	records	0	0	1	0
 i	i	0	0	1	0
-i	to	0	0	1	1
 gâl	gal	0	0	1	0
 well	better	0	0	1	0
 taflu	throw	0	0	1	1
 ruthun	ruthin	0	0	1	0
-hela	hunting	0	0	1	0
 ffafrio	favored	0	0	1	0
-amonia	amonia	0	0	1	0
-amonia	ammonia	0	0	1	0
+wely	bed	0	0	1	0
 prydeinig	british	0	0	1	1
 grawnfwyd	cereal	0	0	1	0
 wladwriaeth	state	0	0	1	0
@@ -5431,7 +5355,7 @@ gillian	gillian	0	0	1	0
 anhysbys	unknown	0	0	1	1
 twitter	twitter	0	0	1	0
 gwahardd	excluded	0	0	1	0
-etholaethau	constituencies	0	0	1	0
+homo	homo	0	0	1	0
 deyrngarwch	deymgarwch	0	0	1	0
 deyrngarwch	loyalty	0	0	1	0
 ieitheg	philology	1	1	0	1
@@ -5444,7 +5368,7 @@ blaen	so	0	0	1	0
 snowdonia	snowdonia	0	0	1	0
 frontcover	frontcover	0	0	1	0
 nihon	nihon	0	0	1	0
-foleciwlaidd	molecular	0	0	1	0
+gyngherddau	concerts	0	0	1	0
 dealltwriaeth	understanding	0	0	1	1
 tchad	chad	0	0	1	0
 ryddfrydol	liberal	0	0	1	0
@@ -5462,7 +5386,6 @@ cyfanswm	total	0	0	1	1
 durrës	durres	0	0	1	0
 cocos	cockles	0	0	1	0
 anrhydeddus	honorable	0	0	1	1
-glenn	glenn	0	0	1	0
 washington	washington	0	0	1	0
 terence	terence	0	0	1	0
 nerfol	nervous	0	0	1	0
@@ -5473,7 +5396,7 @@ fiolegwyr	biologists	0	0	1	0
 plentyn	child	0	0	1	1
 wrthdaro	conflict	0	0	1	0
 categoricelfyddydau	categoricelfyddydau	0	0	1	0
-plygu	folding	0	0	1	0
+johannes	johannes	0	0	1	0
 mississippi	mississippi	0	0	1	0
 deddf	law	0	0	1	1
 museum	museum	0	0	1	0
@@ -5488,7 +5411,6 @@ north	north	0	0	1	0
 gais	application	0	0	1	0
 cronfeydd	funds	0	0	1	0
 hu	hu	0	0	1	0
-glareola	glareola	0	0	1	0
 hi	she	0	0	1	1
 valerian	valerian	0	0	1	0
 ho	hydrogen & oxygen	0	0	1	0
@@ -5526,11 +5448,11 @@ finch	finch	0	0	1	0
 soniwyd	mentioned	0	0	1	0
 aberconwy	aberconwy	0	0	1	0
 meddal	soft	0	0	1	1
-chymdeithas	society	0	0	1	0
+canada	canada	0	0	1	0
 ynghlwm	attached	0	0	1	0
 star	star	0	0	1	0
 proffwydi	prophets	0	0	1	0
-gorynys	peninsula	0	0	1	1
+stad	estate	0	0	1	0
 hivaids	hivaids	0	0	1	0
 hivaids	hiv/aids	0	0	1	0
 dyli	dyli	0	0	1	0
@@ -5574,7 +5496,7 @@ elisabeth	elizabeth	0	0	1	0
 gyfandir	continents	0	0	1	0
 gyfandir	continent	0	0	1	0
 noson	night	0	0	1	1
-pilipinas	philippines	0	0	1	0
+dwyreiniol	eastern	0	0	1	1
 operetta	operetta	0	0	1	0
 gyfochrog	parallel	0	0	1	0
 waldo	waldo	0	0	1	0
@@ -5606,7 +5528,6 @@ quran	quran	0	0	1	0
 ynganiad	pronunciation	0	0	1	0
 morwrol	maritime	0	0	1	0
 enillodd	won	0	0	1	0
-net	net	0	0	1	0
 neu	or	0	0	1	1
 ner	ner	0	0	1	0
 nes	until	0	0	1	1
@@ -5615,7 +5536,7 @@ cyfredol	recently	0	0	1	0
 sefydlodd	established	0	0	1	0
 mamau	mothers	0	0	1	0
 dafad	sheep	0	0	1	1
-men	men	0	0	1	0
+henrik	henrik	0	0	1	0
 feddwl	think	0	0	1	0
 atalyddion	inhibitors	0	0	1	0
 wrdw	wrdw	0	0	1	0
@@ -5651,7 +5572,7 @@ term	term	0	0	1	1
 mudiadau	organizations	0	0	1	0
 maen	they	0	0	1	0
 busnesau	businesses	0	0	1	0
-maes	field	0	0	1	1
+cwrdeg	kurdish	0	0	1	0
 maer	mayor	0	0	1	1
 ehangach	wider	0	0	1	0
 suriname	suriname	0	0	1	0
@@ -5709,7 +5630,7 @@ affrig	africa	0	0	1	0
 braidd	somewhat	0	0	1	1
 manuals	manuals	0	0	1	0
 ffynonellau	sources	0	0	1	0
-gafr	goat	0	0	1	1
+ymweliad	visit	0	0	1	1
 amcanion	objectives	0	0	1	0
 duwies	goddess	0	0	1	1
 wydr	glass	0	0	1	0
@@ -5729,13 +5650,11 @@ dargludiad	conduction	1	0	1	0
 dargludiad		1	0	1	0
 dargludiad	issues	1	0	1	0
 dargludiad	conductor	1	1	0	0
-sefydlur	sefydlur	0	0	1	0
 murray	murray	0	0	1	0
 helena	helena	0	0	1	0
 cadarnhawyd	confirmed	0	0	1	0
 gyflafan	massacre	0	0	1	0
 heblaw	other than	0	0	1	0
-before	and before the	0	0	1	0
 before	before	0	0	1	0
 bregus	fergus	0	0	1	0
 bregus	vulnerable	0	0	1	0
@@ -5811,8 +5730,7 @@ stewart	stewart	0	0	1	0
 pipit	pipit	0	0	1	0
 cerddorion	musicians	0	0	1	0
 olygu	mean	0	0	1	0
-px|bawd|rhan	px thumb part	0	0	1	0
-px|bawd|rhan	px / thumb / part	0	0	1	0
+merganser	merganser	0	0	1	0
 gradd	degree	0	0	1	1
 massif	massif	0	0	1	0
 ffair	fair	0	0	1	1
@@ -5920,7 +5838,7 @@ amlach	more	0	0	1	0
 monica	monica	0	0	1	0
 benthyg	loan	0	0	1	1
 adeiladwaith	construction	0	0	1	0
-gwaelod	bottom	0	0	1	1
+gopaon	peaks	0	0	1	0
 christopher	christopher	0	0	1	0
 borthladd	port	0	0	1	0
 lluoedd	troopsarmellog	0	0	1	0
@@ -5933,12 +5851,13 @@ bar	bar	0	0	1	1
 bas	shallow	0	0	1	1
 bay	bay	0	0	1	0
 bad	boat	0	0	1	1
-oceanodroma	oceanodroma	0	0	1	0
+bae	bay	0	0	1	1
 amgylchedd	environment	0	0	1	1
 ban	corners	0	0	1	0
+pobol	people	0	0	1	0
 anterth	peak	0	0	1	0
 lithwania	lithuania	0	0	1	0
-newyddiaduraeth	journalism	0	0	1	0
+bai	it	0	0	1	0
 reference	reference	0	0	1	0
 diddymiad	dissolution	0	0	1	0
 diddymiad	dissolutions	0	0	1	0
@@ -6024,7 +5943,6 @@ categoridiwylliant	categoridiwylliant	0	0	1	0
 theatr	theater	0	0	1	0
 ir	to the	0	0	1	0
 it	it	0	0	1	0
-iw	to	0	0	1	0
 iw	iw	0	0	1	0
 iv	iv	0	0	1	0
 ii	ii	0	0	1	0
@@ -6034,7 +5952,6 @@ canu	singing	0	0	1	0
 canu	singingd	0	0	1	0
 im	im	0	0	1	0
 il	nd	0	0	1	0
-il	2nd	0	0	1	0
 io	i	0	0	1	0
 in	in	0	0	1	0
 ia	ice	0	0	1	1
@@ -6058,7 +5975,6 @@ pwnig	slopes	0	0	1	0
 pwnig	pwing	0	0	1	0
 dudalen	page	0	0	1	0
 entitled	entitled	0	0	1	0
-anoddaf	the hardest	0	0	1	0
 hydrocarbonau	hydrocarbons	0	0	1	0
 hydrocarbonau	hdrocarbons	0	0	1	0
 ddirgel	secret	0	0	1	0
@@ -6099,16 +6015,15 @@ save	save	0	0	1	0
 garcharorion	prisoners	0	0	1	0
 gustav	gustav	0	0	1	0
 nightjar	nightjar	0	0	1	0
-drafodaeth	discussion	0	0	1	0
+coron	crown	0	0	1	1
 cryfhaur	strengthen	0	0	1	0
 cryfhaur	srengthen the	0	0	1	0
-cryfhaur	strength of the	0	0	1	0
 bŵer	power	0	0	1	0
 hardal	area	0	0	1	0
 natal	natal	0	0	1	0
 rheolaidd	regular	0	0	1	1
 aberffraw	aberffraw	0	0	1	0
-cynhanesyddol	prehistoric	0	0	1	0
+offa	dyke	0	0	1	0
 gwlff	gulf	0	0	1	0
 flwyddyn	year	0	0	1	0
 ymostyngiad	submission	0	0	1	1
@@ -6122,7 +6037,7 @@ ffalopaidd	recanalisation	0	0	1	0
 chwarrennau	glands	0	0	1	0
 gysylltiedig	associated	0	0	1	0
 tanwyddau	fuels	0	0	1	0
-ogwr	ogmore	0	0	1	0
+gorchuddior	coverings	0	0	1	0
 phriodi	married	0	0	1	0
 réard	beard	0	0	1	0
 wiciadur	wiktionary	0	0	1	0
@@ -6154,8 +6069,8 @@ chreu	create	0	0	1	0
 uniongred	orthodox	0	0	1	0
 super	super	0	0	1	0
 zur	zur	0	0	1	0
-oren	orange	0	0	1	1
-yfed	drinking	0	0	1	0
+bugail	shepherd	0	0	1	1
+comiwnyddol	communist	0	0	1	1
 modelau	models	0	0	1	0
 olddodiad	suffix	0	0	1	1
 atgenhedlun	reproduce	0	0	1	0
@@ -6164,7 +6079,7 @@ ewrasia	eurasia	0	0	1	0
 cilgwyn	cilgwyn	0	0	1	0
 dyblu	doubled	0	0	1	0
 orsaf	station	0	0	1	0
-anfodlon	dissatisfied	0	0	1	0
+anturiaethau	adventures	0	0	1	0
 sergio	sergio	0	0	1	0
 romulus	romulus	0	0	1	0
 reykjavík	reykjavik	0	0	1	0
@@ -6179,12 +6094,11 @@ iː	to	0	0	1	0
 nsoamerika	nsoamerika	0	0	1	0
 cytunir	agreed	0	0	1	0
 archwilio	audit	0	0	1	1
-jebel	jebel	0	0	1	0
+boblogaeth	population	0	0	1	0
 tramor	foreign	0	0	1	1
 bolivia	bolivia	0	0	1	0
 perygl	risk	0	0	1	1
 awdur	author	0	0	1	1
-llosgfynydd	volcano	0	0	1	1
 dyfnaint	devon	0	0	1	1
 fore	morning	0	0	1	0
 ford	table	0	0	1	0
@@ -6193,9 +6107,7 @@ cyflymaf	fastest	0	0	1	0
 beri	cause	0	0	1	0
 marchnad	market	0	0	1	1
 glawdd	bank	0	0	1	0
-gopaon	peaks	0	0	1	0
 colera	cholera	0	0	1	0
-dafadennog	warty	0	0	1	1
 positif	positive	0	0	1	0
 gwrthapartheid	gwrthapartheid	0	0	1	0
 ddyffryn	valley	0	0	1	0
@@ -6257,12 +6169,10 @@ gael	available	0	0	1	0
 yunis	yunis	0	0	1	0
 cornel	corner	0	0	1	1
 achos	case	0	0	1	0
-achos	archos	0	0	1	0
 unrhywbeth	anything	0	0	1	1
 taleban	taleban	0	0	1	0
 natsiaid	nastiaid	0	0	1	0
 natsiaid	nazis	0	0	1	0
-blwyddyn	year	0	0	1	1
 bentref	village	0	0	1	0
 llewellyn	llewellyn	0	0	1	0
 ryddhau	release	0	0	1	0
@@ -6325,7 +6235,6 @@ bop	pop	0	0	1	0
 amrywia	vary	0	0	1	0
 bor	bor	0	0	1	0
 bos	boss	0	0	1	0
-cyrhaeddodd	reached	0	0	1	0
 môn	mon	0	0	1	0
 harlech	harlech	0	0	1	0
 meistrir	meistrir	0	0	1	0
@@ -6354,6 +6263,7 @@ crefydd	religion	0	0	1	1
 vous	vous	0	0	1	0
 caledwedd	hardware	0	0	1	0
 amlder	frequency	0	0	1	0
+dyfod	coming	0	0	1	0
 imperialaeth	falling	1	0	1	0
 imperialaeth	imperialism	1	1	0	0
 imperialaeth	fell	1	0	1	0
@@ -6435,6 +6345,8 @@ argraffiad	edition	0	0	1	1
 algâu	algae	0	0	1	0
 gee	gee	0	0	1	0
 persiaid	persians	0	0	1	0
+galicia	galicia	0	0	1	0
+galicia	gallicia	0	0	1	0
 basg	basque	0	0	1	0
 irene	irene	0	0	1	0
 differu		1	0	1	0
@@ -6451,6 +6363,7 @@ moesoldeb	morality	0	0	1	1
 weinidogion	ministers	0	0	1	0
 amcangyfrifol	estimated	0	0	1	0
 amcangyfrifon	estimates	0	0	1	0
+queens	queens	0	0	1	0
 categoricalendr	calender category	0	0	1	0
 categoricalendr	categoricalendr	0	0	1	0
 main	main	0	0	1	0
@@ -6486,7 +6399,7 @@ morwenoliaid	tern	0	0	1	0
 ymsefydlodd	settled	0	0	1	0
 rannu	share	0	0	1	0
 lai	less	0	0	1	0
-canada	canada	0	0	1	0
+olwen	olwen	0	0	1	0
 living	living	0	0	1	0
 guangdong	guangdong	0	0	1	0
 jackson	jackson	0	0	1	0
@@ -6504,7 +6417,7 @@ gallois	cymraeg	0	0	1	0
 phum	five	0	0	1	0
 ddosbarthiadau	classes	0	0	1	0
 romana	romana	0	0	1	0
-rama	rama	0	0	1	0
+px|bawd|baner	px|thumb|flag	0	0	1	0
 geiriaduron	dictionaries	0	0	1	0
 dylunio	design	0	0	1	0
 duwiau	gods	0	0	1	0
@@ -6534,7 +6447,8 @@ crib	ridge	0	0	1	1
 peirianneg	engineering	0	0	1	1
 arrhenius	arrhenius	0	0	1	0
 gosododd	set	0	0	1	0
-gwledydd	countries	0	0	1	0
+long	ship	0	0	1	0
+long	hir	0	0	1	0
 ddegfed	tenth	0	0	1	0
 ystyried	consider	0	0	1	1
 criw	crew	0	0	1	1
@@ -6591,7 +6505,6 @@ charadriiformes	charadriiformes	0	0	1	0
 gristnogaeth	christianity	0	0	1	0
 briodi	marry	0	0	1	0
 grŵp	group	1	1	1	0
-rhain	these	0	0	1	1
 werthu	sale	0	0	1	0
 albedo	albedo	0	0	1	0
 kevin	kevin	0	0	1	0
@@ -6625,8 +6538,8 @@ triphlyg	triple	0	0	1	0
 morwennol	terns	0	0	1	0
 blaengroen	foreskin	0	0	1	0
 gydai	with his	0	0	1	0
-cyflenwad	supply	0	0	1	1
-queens	queens	0	0	1	0
+thwristiaeth	tourism	0	0	1	0
+lhuyd	lhuyd	0	0	1	0
 chipio	capture	0	0	1	0
 sutton	sutton	0	0	1	0
 ffeniciaid	ffeniciaid	0	0	1	0
@@ -6653,7 +6566,7 @@ mamiaith	mother tongue	0	0	1	0
 español	espanol	0	0	1	0
 cyflym	fast	0	0	1	1
 black	black	0	0	1	0
-cytundebau	agreements	0	0	1	0
+ymadael	exit	0	0	1	0
 ger	near	0	0	1	1
 rhydychen	oxford	0	0	1	1
 bittern	bittern	0	0	1	0
@@ -6667,7 +6580,7 @@ cwsg	sleep	0	0	1	1
 siaredir	spoken	0	0	1	0
 cynnwys	includes	0	0	1	0
 secondary	secondary	0	0	1	0
-reading	reading	0	0	1	0
+achau	genealogy	0	0	1	0
 golwg	view	0	0	1	0
 rwmania	romania	0	0	1	0
 kaishek	kaishek	0	0	1	0
@@ -6696,8 +6609,9 @@ milfeddyg	vietnam	1	0	1	0
 dywyll	dark	0	0	1	0
 label	label	0	0	1	1
 pump	five	0	0	1	1
+guyane	guiana	0	0	1	0
 confoederatio	confoederatio	0	0	1	0
-achau	genealogy	0	0	1	0
+reading	reading	0	0	1	0
 categoriteledu	category: tv	0	0	1	0
 categoriteledu	categoriteledu	0	0	1	0
 august	august	0	0	1	0
@@ -6713,6 +6627,7 @@ tawe	abertawe	0	0	1	0
 rugby	rugby	0	0	1	0
 fformat	format	0	0	1	1
 tribbiani	tribbiani	0	0	1	0
+math	type	0	0	1	1
 jo	jo	0	0	1	0
 siachmat	siachmat	0	0	1	0
 pedryn	petrel	0	0	1	0
@@ -6781,7 +6696,7 @@ edwin	edwin	0	0	1	0
 duedd	trend	0	0	1	0
 same	same	0	0	1	0
 dringo	climbing	0	0	1	0
-fwslim	muslim	0	0	1	0
+cyfieithwyd	translated	0	0	1	0
 pab	pope	0	0	1	1
 pac	pac	0	0	1	0
 pedwaredd	fourth	0	0	1	0
@@ -6805,7 +6720,7 @@ bomiau	bombs	0	0	1	0
 boblogrwydd	popularity	0	0	1	0
 niwclear	nuclear	1	1	1	0
 drais	violence	0	0	1	0
-banc	bank	0	0	1	1
+×	x	0	0	1	0
 among	among	0	0	1	0
 swlffwrig	swlffwrig	0	0	1	0
 cyd	joint	0	0	1	1
@@ -6816,10 +6731,10 @@ barbados	barbados	0	0	1	0
 cynydd	increase	0	0	1	0
 nick	nick	0	0	1	0
 ganolbarth	mid	0	0	1	0
-thwristiaeth	tourism	0	0	1	0
 preachers	preachers	0	0	1	0
 treftadaeth	the heritage	0	0	1	0
 treftadaeth	heritage	0	0	1	0
+waed	blood	0	0	1	0
 naw	nine	0	0	1	1
 chyn	before	0	0	1	0
 diogelu	protection	0	0	1	0
@@ -6837,7 +6752,7 @@ breision	breision	0	0	1	0
 breision	capitals	0	0	1	0
 deuluoedd	families	0	0	1	0
 adams	adams	0	0	1	0
-km²	km2	0	0	1	0
+either	either	0	0	1	0
 anrheithio	decimate	0	0	1	0
 newyddiadurwr	journalist	0	0	1	1
 hapus	happy	0	0	1	1
@@ -6872,12 +6787,13 @@ gwladfaoedd	gwladfaoedd	0	0	1	0
 unwyd	merged	0	0	1	0
 pwysleisio	emphasizes	0	0	1	0
 otho	otho	0	0	1	0
+cylchol	circular	0	0	1	0
 island	island	0	0	1	0
 tryweryn	tryweryn	0	0	1	0
 deheuol	southern	0	0	1	1
 ddigon	enough	0	0	1	0
 bwlgariaid	bulgarians	0	0	1	0
-filwr	soldier	0	0	1	0
+dafadennog	warty	0	0	1	1
 joplin	joplin	0	0	1	0
 marn	farm	0	0	1	0
 marn	view	0	0	1	0
@@ -6889,7 +6805,8 @@ glyndŵr	glyndwr	0	0	1	0
 glyndŵr	gravity	0	0	1	0
 herbert	herbert	0	0	1	0
 klerk	klerk	0	0	1	0
-gomer	gomer	0	0	1	0
+weithiaun	weithianu	0	0	1	0
+weithiaun	weithiaun	0	0	1	0
 einstein	einstein	0	0	1	0
 nhwn	this	0	0	1	0
 phwy	who	0	0	1	0
@@ -6978,7 +6895,6 @@ mynegodd	expressed	0	0	1	0
 pheasant	pheasant	0	0	1	0
 corwen	corwen	0	0	1	0
 €	Є	0	0	1	0
-€	euro	0	0	1	0
 bwrdd	board	0	0	1	1
 meddu	have	0	0	1	0
 children	childrens	0	0	1	0
@@ -6994,7 +6910,7 @@ mandela	mandela	0	0	1	0
 cylch	cycle	0	0	1	0
 rhith	virtual	0	0	1	0
 chreigiau	rocks	0	0	1	0
-loxia	loxia	0	0	1	0
+traed	feet	0	0	1	0
 billie	billie	0	0	1	0
 fali	valley	0	0	1	0
 fall	belial	0	0	1	0
@@ -7011,7 +6927,6 @@ canoloesol	medieval	0	0	1	0
 delyn	harp	0	0	1	0
 ddwyieithog	bilingual	0	0	1	0
 onychoprion	onychoprion	0	0	1	0
-cymhlyg	complex	0	0	1	0
 constantius	constantius	0	0	1	0
 titles	titles	0	0	1	0
 nivalis	nivalis	0	0	1	0
@@ -7025,12 +6940,10 @@ destament	testament	0	0	1	0
 lleiafrifoedd	minority	0	0	1	0
 gatalaneg	catalan	0	0	1	0
 ddigonol	adequate	0	0	1	0
-public	public	0	0	1	0
 public	cyhoedd	0	0	1	0
 dorchog	coiled	0	0	1	0
 brønsted	bronsted	0	0	1	0
 categorigrwpiau	categorigrwpiau	0	0	1	0
-categorigrwpiau	category: groups	0	0	1	0
 categorigrwpiau	category groups	0	0	1	0
 darogan	predict	0	0	1	1
 compilation	compilation	0	0	1	0
@@ -7060,7 +6973,6 @@ botwm	button	0	0	1	1
 africa	africa	0	0	1	0
 rhyngweithio	interaction	0	0	1	0
 ddringwyr	climbers	0	0	1	0
-olwen	olwen	0	0	1	0
 capeli	chapels	0	0	1	0
 categoridiodydd	categoridiodydd	0	0	1	0
 twf	growth	0	0	1	0
@@ -7108,6 +7020,7 @@ alltudio	deportation	0	0	1	0
 gravell	gravell	0	0	1	0
 protein	protein	0	0	1	0
 arnynt	they	0	0	1	0
+wyrdd	green	0	0	1	0
 byrion	short	0	0	1	0
 rym	force	0	0	1	0
 heriau	challenges	0	0	1	0
@@ -7127,12 +7040,12 @@ teils	tile	0	0	1	0
 wyth	eight	0	0	1	1
 tywysog	prince	0	0	1	1
 âi	or	0	0	1	0
-perthnasol	relevant	0	0	1	0
+dogfennau	documents	0	0	1	0
 wael	poor	0	0	1	0
 cyfundrefn	system	0	0	1	1
 glogwyn	cliff	0	0	1	0
 cyfansoddiad	composition	0	0	1	1
-waed	blood	0	0	1	0
+glicio	click	0	0	1	0
 melyn	yellow	0	0	1	1
 seiont	seiont	0	0	1	0
 wiciaid	wiccans	0	0	1	0
@@ -7219,7 +7132,7 @@ amrywion	varieties	0	0	1	1
 lawrence	lawrence	0	0	1	0
 dafis	dafis	0	0	1	0
 lechweddau	slopes	0	0	1	0
-bidyn	penis	0	0	1	0
+ddiddordeb	interest	0	0	1	0
 mikhail	mikhail	0	0	1	0
 cryfaf	strongest	0	0	1	0
 nghanolfan	center	0	0	1	0
@@ -7250,8 +7163,7 @@ bicini	bikini	0	0	1	0
 donn	donn	0	0	1	0
 teyrngarwch	loyalty	0	0	1	0
 teyrngarwch	terngarwch	0	0	1	0
-crossbill	nose	0	0	1	0
-crossbill	crossbill	0	0	1	0
+least	least	0	0	1	0
 hafana	havana	0	0	1	0
 llwybrau	routes	0	0	1	0
 llwybrau	glasses	0	0	1	0
@@ -7279,6 +7191,7 @@ markup	markup	0	0	1	0
 emlyn	emlyn	0	0	1	0
 bedair	four	0	0	1	0
 ager	steam	0	0	1	1
+safleoedd	sites	0	0	1	0
 adran	section	0	0	1	1
 tactegau	tactics	0	0	1	0
 mountain	mountain	0	0	1	0
@@ -7287,12 +7200,11 @@ israelaidd	israeli	0	0	1	0
 cloddir	extracted	0	0	1	0
 gorbachev	gorbachev	0	0	1	0
 daearyddiaeth	geography	0	0	1	1
-drwydded	license	0	0	1	0
 drwydded	licence	0	0	1	0
+drwydded	license	0	0	1	0
 caesar	caesar	0	0	1	0
 briodolir	attributes	0	0	1	0
 briodolir	attributable	0	0	1	0
-briodolir	attributed	0	0	1	0
 province	province	0	0	1	0
 mosg	mosque	0	0	1	0
 effaith	impact	0	0	1	0
@@ -7304,6 +7216,7 @@ gwrthydd	resistor	0	0	1	0
 motacilla	motacilla	0	0	1	0
 llandudno	llandudno	0	0	1	0
 mwynwyr	miners	0	0	1	0
+fedi	harvested	0	0	1	0
 ystyria	considers	0	0	1	0
 aderyndrycin	manx	0	0	1	0
 aderyndrycin	aderyndrycin	0	0	1	0
@@ -7334,7 +7247,7 @@ cerrig	stone	0	0	1	0
 perchen	owner	0	0	1	1
 pratchett	pratchett	0	0	1	0
 hwyluso	facilitate	0	0	1	1
-disgrifiodd	described	0	0	1	0
+germanaidd	germanic	0	0	1	0
 daduno	dissociates	0	0	1	0
 ceidwadol	conservation	0	0	1	0
 ceidwadol	conservative	0	0	1	1
@@ -7343,7 +7256,7 @@ permission	permission	0	0	1	0
 celyn	holly	0	0	1	0
 cofnod	record	0	0	1	0
 meic	mike	0	0	1	0
-asgellwr	winger	0	0	1	1
+cymanwlad	commonwealth	0	0	1	1
 graffeg	graphics	0	0	1	0
 blaenwyr	forwards	0	0	1	0
 perthynol	related	0	0	1	0
@@ -7364,7 +7277,7 @@ lisbon	lisbon	0	0	1	0
 cânt	percent	0	0	1	0
 tringa	tringa	0	0	1	0
 pennod	chapter	0	0	1	1
-please	please	0	0	1	0
+perfformiadau	performances	0	0	1	0
 darparu	provide	0	0	1	1
 glynne	glynne	0	0	1	0
 mecanyddol	mechanical	0	0	1	0
@@ -7388,9 +7301,8 @@ cyferbyniaeth	contrast	0	0	1	0
 cyfatebol	equivalent	0	0	1	0
 sefydlwyd	established	0	0	1	0
 cymhedrol	moderate	0	0	1	0
-elwir	called	0	0	1	0
+heddwch	peace	0	0	1	1
 simple	simple	0	0	1	0
-bai	it	0	0	1	0
 storio	storage	0	0	1	0
 cadarn	sound	0	0	1	0
 cadarn	madam	0	0	1	0
@@ -7430,7 +7342,6 @@ gal	gal	0	0	1	0
 gae	field	0	0	1	0
 gad	game	0	0	1	0
 lleihawyd	reduced	0	0	1	0
-deuoliaethol	deuoliaethol	0	0	1	0
 fur	wall	0	0	1	0
 metro	metro	0	0	1	0
 atatürk	ataturk	0	0	1	0
@@ -7492,7 +7403,6 @@ animeiddiedig	animated	0	0	1	0
 rywogaeth	species	0	0	1	0
 y	the	0	0	1	0
 gwningen	rabbit	0	0	1	0
-categorimisoedd	category months	0	0	1	0
 categorimisoedd	categorimisoedd	0	0	1	0
 hastings	hastings	0	0	1	0
 ymddiswyddiad	resignation	0	0	1	0
@@ -7501,7 +7411,7 @@ atomig	atomic	0	0	1	1
 world	world	0	0	1	0
 meddwl	think	0	0	1	1
 matterhorn	matterhorn	0	0	1	0
-rhywun	a	0	0	1	0
+wib	sprint	0	0	1	0
 sparta	sparta	0	0	1	0
 biwmares	beaumaris	0	0	1	0
 teigrod	tigers	0	0	1	0
@@ -7540,7 +7450,8 @@ bwys	major	0	0	1	0
 bwys	power	0	0	1	0
 pell	remote	0	0	1	1
 pen	head	0	0	1	1
-fenywaidd	female	0	0	1	0
+epil	epil	0	0	1	0
+epil	offspring	0	0	1	1
 lark	lark	0	0	1	0
 amgylchiadau	circumstances	0	0	1	0
 bwyd	food	1	1	1	1
@@ -7548,7 +7459,7 @@ bwyd	food``	1	0	1	0
 bwyd	wtd	1	0	1	0
 bwyd	bywd	1	0	1	0
 bwyd	change	1	0	1	0
-either	either	0	0	1	0
+km²	km2	0	0	1	0
 oes	no	0	0	1	0
 oer	cold	0	0	1	1
 use	not use	0	0	1	0
@@ -7575,13 +7486,11 @@ nso	nso	0	0	1	0
 gancr	cancer	0	0	1	0
 llinach	lineage	0	0	1	1
 diwali	diwali	0	0	1	0
-categorihamdden	category: leisure	0	0	1	0
 categorihamdden	categorihamdden	0	0	1	0
 anfetelau	non-metals	0	0	1	0
 bachgen	boy	0	0	1	1
 steven	steven	0	0	1	0
-sancti	sancti	0	0	1	0
-fei	light	0	0	1	0
+anghydfod	dispute	0	0	1	0
 rhywogaeth	species	0	0	1	1
 neorllewin	south west	0	0	1	0
 pris	price	0	0	1	1
@@ -7610,6 +7519,7 @@ aruthrol	tremendous	0	0	1	0
 newyddion	news	0	0	1	0
 tipyn	some	0	0	1	0
 rhwydweithiau	networks	0	0	1	0
+portiwgaleg	portuguese	0	0	1	0
 gefnogaeth	support	0	0	1	0
 lys	court	0	0	1	0
 herzegovina	herzegovina	0	0	1	0
@@ -7644,12 +7554,12 @@ fisher	fisher	0	0	1	0
 song	song	0	0	1	0
 ellir	can	0	0	1	0
 maldives	maldives	0	0	1	0
+ofni	fear	0	0	1	1
 drychinebus	disastrous	0	0	1	0
 cawcasws	caucasus	0	0	1	0
 argrafflenni	broadsheet	0	0	1	0
 hydref	autumn	0	0	1	1
 socrates	socrates	0	0	1	0
-grëwyd	created	0	0	1	0
 cadarnhaodd	confirmed	0	0	1	0
 wicaid	wicaid	0	0	1	0
 cyflwyno	submitted	0	0	1	0
@@ -7666,7 +7576,7 @@ penddu	blackcaps	0	0	1	0
 penddu	blackcap	0	0	1	0
 helpu	help	0	0	1	1
 cerddoriaeth	music	0	0	1	1
-fynyddoedd	mountains	0	0	1	0
+blaned	planet	0	0	1	0
 atlas	atlas	0	0	1	1
 atlas	tlas	0	0	1	0
 aflonyddwch	disturbance	0	0	1	1
@@ -7690,7 +7600,7 @@ gyfoes	contemporary	0	0	1	0
 perdix	perdix	0	0	1	0
 tynnodd	drew	0	0	1	0
 ysgolion	schools	0	0	1	0
-madeira	madeira	0	0	1	0
+twrcaidd	turkish	0	0	1	0
 warszawa	warszawa	0	0	1	0
 caiff	a	0	0	1	0
 caiff	caiff	0	0	1	0
@@ -7756,7 +7666,7 @@ dinistriwyd	destroyed	0	0	1	0
 frawddeg	sentence	0	0	1	0
 basalt	basalt	0	0	1	0
 trais	violence	0	0	1	1
-parcio	parking	0	0	1	0
+teulu	family	0	0	1	1
 iii	iii	0	0	1	0
 had	seed	0	0	1	1
 awstralasia	australasia	0	0	1	0
@@ -7857,14 +7767,13 @@ teledur	television	0	0	1	0
 dau	two	0	0	1	0
 daw	comes	0	0	1	0
 sonata	sonata	0	0	1	0
-das	the	0	0	1	0
 das	rick	0	0	1	1
 das	das	0	0	1	0
 archaeoleg	archeology	0	0	1	0
 day	day	0	0	1	0
 iwerydd	atlantic	0	0	1	1
-categorielfennau	category elements	0	0	1	0
 categorielfennau	categorielfennau	0	0	1	0
+categorielfennau	category elements	0	0	1	0
 categoricyrff	category: bodies	0	0	1	0
 categoricyrff	categoricyrff	0	0	1	0
 mewnlifiad	influx	0	0	1	0
@@ -7890,7 +7799,7 @@ cwympodd	fell	0	0	1	0
 cwm	valley	0	0	1	1
 grebe	grebe	0	0	1	0
 ynghyd	and	0	0	1	0
-math	type	0	0	1	1
+red	red	0	0	1	0
 tylluanod	owls	0	0	1	0
 gefeilldrefi	twin	0	0	1	0
 harold	harold	0	0	1	0
@@ -7900,7 +7809,6 @@ bwy	who	0	0	1	0
 ysbrydoli	inspire	0	0	1	1
 drycin	manx	0	0	1	0
 bwa	bow	0	0	1	1
-cyflwynor	introduction	0	0	1	0
 cyflwynor	cyflwynor	0	0	1	0
 ddefnyddwyr	users	0	0	1	0
 annibynwyr	independents	0	0	1	0
@@ -7940,7 +7848,7 @@ ragfyr	december	0	0	1	0
 ronynnau	particles	0	0	1	0
 plwton	pluto	0	0	1	0
 bomio	bombing	0	0	1	0
-heb	without	0	0	1	1
+llwyth	load	0	0	1	1
 gymharol	relatively	0	0	1	0
 enghreifftiau	examples	0	0	1	0
 negro	negro	0	0	1	0
@@ -7950,7 +7858,6 @@ efengyl	gospel	0	0	1	1
 udd	benefit	0	0	1	0
 weithgareddau	activities	0	0	1	0
 pericles	pericles	0	0	1	0
-categoriieithoedd	category: languages	0	0	1	0
 categoriieithoedd	categoriieithoedd	0	0	1	0
 anghyfarwydd	unfamiliar	0	0	1	1
 britanniae	britanniae	0	0	1	0
@@ -7978,7 +7885,6 @@ seineg	soviet	1	0	1	0
 rywbryd	sometime	0	0	1	0
 niferus	numerous	0	0	1	0
 have	have	0	0	1	0
-cmcpen	capita gdp	0	0	1	0
 ibiza	ibiza	0	0	1	0
 hyddgen	hyddgen	0	0	1	0
 manylion	details	0	0	1	1
@@ -8005,7 +7911,7 @@ llais	voice	0	0	1	1
 ewyllys	will	0	0	1	1
 unyes	unyes	0	0	1	0
 nicholson	nicholson	0	0	1	0
-ugeinfed	twentieth	0	0	1	1
+llen	curtain	0	0	1	1
 tseina	china	0	0	1	0
 categoriarlunwyr	categoriarlunwyr	0	0	1	0
 eitemau	items	0	0	1	0
@@ -8032,7 +7938,7 @@ eritrea	eritrea	0	0	1	0
 affrica	africa	0	0	1	0
 wynebu	face	0	0	1	1
 leiafrifoedd	minorities	0	0	1	0
-gwanwyn	spring	0	0	1	1
+beat	beat	0	0	1	0
 tyfodd	grew	0	0	1	0
 gemau	games	0	0	1	0
 gymunedol	community	0	0	1	0
@@ -8050,7 +7956,7 @@ symudiadau	movements	0	0	1	0
 gwili	gwili	0	0	1	0
 iseldireg	dutch	0	0	1	0
 brewys	brewis	0	0	1	0
-archoffeiriad	high priest	0	0	1	1
+archoffeiriad	high priest	0	0	1	0
 llŷr	llyr	0	0	1	0
 gollwng	drop	0	0	1	1
 lwcsembwrg	luxembourg	0	0	1	0
@@ -8073,7 +7979,7 @@ gyfrwng	medium	0	0	1	0
 islamaidd	islamic	0	0	1	0
 berwyn	berwyn	0	0	1	0
 swallow	swallow	0	0	1	0
-wobrau	awards	0	0	1	0
+llym	strict	0	0	1	0
 deddfau	laws	0	0	1	0
 adrannau	sections	0	0	1	0
 fryn	hill	0	0	1	0
@@ -8150,11 +8056,9 @@ ydoedd	was	0	0	1	0
 neolithig	neolithic	0	0	1	0
 cof	memory	0	0	1	1
 cyfnewidfa	interchange	0	0	1	0
-omeara	o' meara	0	0	1	0
 omeara	omeara	0	0	1	0
 tâl	tall	0	0	1	0
 tâl	charge	0	0	1	0
-never	never	0	0	1	0
 tân	fire	0	0	1	0
 tân	to	0	0	1	0
 lakshmi	lakshmi	0	0	1	0
@@ -8167,7 +8071,7 @@ prynu	buy	0	0	1	1
 mhencampwriaethau	championships	0	0	1	0
 cudyll	merlin	0	0	1	0
 cafodd	was	0	0	1	0
-ewros	euros	0	0	1	0
+gwylog	guillemot	0	0	1	0
 ewrop	europe	0	0	1	1
 wyn	white	0	0	1	0
 abad	abbot	0	0	1	1
@@ -8235,12 +8139,13 @@ gregoraidd	gregorian	0	0	1	0
 hail	second	0	0	1	0
 datguddiad	exposure	0	0	1	0
 geraint	geraint	0	0	1	0
-gwahanol	different	0	0	1	1
+newidwyd	changed	0	0	1	0
+titwod	tits	0	0	1	0
 est	ext	0	0	1	0
 gwent	gwent	0	0	1	0
 gwent	chepstow	0	0	1	0
-nodweddion	features	0	0	1	0
-enwi	name	0	0	1	1
+turkmenistan	turkmenistan	0	0	1	0
+billy	billy	0	0	1	0
 cenedlaetholwyr	nationalists	0	0	1	0
 hitler	hitler	0	0	1	0
 alexius	alexius	0	0	1	0
@@ -8281,8 +8186,7 @@ dalglish	dalglish	0	0	1	0
 michelangelo	michelangelo	0	0	1	0
 noel	noel	0	0	1	0
 bur	pure	0	0	1	0
-geisiadau	application	0	0	1	0
-geisiadau	applications	0	0	1	0
+bus	bus	0	0	1	0
 gyfaddawd	compromise	0	0	1	0
 but	but	0	0	1	0
 orllewinol	western	0	0	1	0
@@ -8308,7 +8212,6 @@ ddefnyddiwyd	used	0	0	1	0
 albaniaid	albanians	0	0	1	0
 ffisegwyr	physicists	0	0	1	0
 canoldir	mediterranean	0	0	1	0
-cpd	cpd	0	0	1	0
 cpd	c.p.d.	0	0	1	0
 marmot	marmot	0	0	1	0
 circus	circus	0	0	1	0
@@ -8339,6 +8242,7 @@ bwlgareg	bulgarian	0	0	1	0
 gyfrannu	contribute	0	0	1	0
 achosir	caused	0	0	1	0
 chaneuon	songs	0	0	1	0
+bencampwriaeth	championship	0	0	1	0
 prifysgolion	universities	0	0	1	0
 ymladdwyd	fought	0	0	1	0
 gwlyb	wet	0	0	1	1
@@ -8448,16 +8352,16 @@ powys	powys	0	0	1	0
 julie	julie	0	0	1	0
 safoni	standardization	0	0	1	0
 julia	julia	0	0	1	0
-offa	dyke	0	0	1	0
+cynhanesyddol	prehistoric	0	0	1	0
 hawdd	easy	0	0	1	1
 cassini	cassini	0	0	1	0
 pnawn	afternoon	0	0	1	0
-mynachlog	monastery	0	0	1	1
 ewythr	uncle	0	0	1	1
 barhaodd	continued	0	0	1	0
 would	would	0	0	1	0
 categoriynysoedd	categoriynysoedd	0	0	1	0
 categoriynysoedd	categories:island	0	0	1	0
+gwyddoniaduron	encyclopaedias	0	0	1	0
 gweill	pipeline	0	0	1	0
 cyfateb	equivalent	0	0	1	0
 phont	bridge	0	0	1	0
@@ -8502,7 +8406,6 @@ henoed	elderly	0	0	1	0
 tresglen	dresglen	0	0	1	0
 tresglen	tresglen	0	0	1	0
 gyfunrywioldeb	homosexuality	0	0	1	0
-end	end	0	0	1	0
 end	end  (in welsh  "diwedd"	0	0	1	0
 bawd|dde|px|y	thumb / right / px / the	0	0	1	0
 bawd|dde|px|y	thumb|right|px|the	0	0	1	0
@@ -8511,7 +8414,6 @@ calendr	calendar	0	0	1	1
 tystion	witnesses	0	0	1	0
 enw	name	0	0	1	1
 gate	gate	0	0	1	0
-categorimytholeg	categorimytholeg	0	0	1	0
 pedair	four	0	0	1	0
 hiliau	races	0	0	1	0
 elizabeth	elizabeth	0	0	1	0
@@ -8522,7 +8424,7 @@ pelfis	western	1	0	1	0
 pelfis	economy	1	0	1	0
 ltd	ltd	0	0	1	0
 amgylchynur	amgylchynur	0	0	1	0
-traed	feet	0	0	1	0
+anafiadau	injuries	0	0	1	0
 fudiadau	organizations	0	0	1	0
 dileu	delete	0	0	1	1
 salsa	salsa	0	0	1	0
@@ -8545,7 +8447,7 @@ london	london	0	0	1	0
 garcharor	prisoner	0	0	1	0
 vita	vita	0	0	1	0
 olygfa	view	0	0	1	0
-clo	lock	0	0	1	1
+blwyddyn	year	0	0	1	1
 borneo	borneo	0	0	1	0
 christoph	christoph	0	0	1	0
 amgylch	around	0	0	1	0
@@ -8556,7 +8458,7 @@ chwerw	bitter	0	0	1	1
 eugene	eugene	0	0	1	0
 hamgylchynu	surrounded	0	0	1	0
 dem	dem	0	0	1	0
-cyfieithwyd	translated	0	0	1	0
+fwslim	muslim	0	0	1	0
 trydydd	third	0	0	1	1
 natsïaidd	nazi	0	0	1	0
 benywaidd	female	0	0	1	0
@@ -8569,8 +8471,8 @@ blentyndod	childhood	0	0	1	0
 ddyddiau	days	0	0	1	0
 alex	alex	0	0	1	0
 bosnia	bosnia	0	0	1	0
-gyfnod	period	0	0	1	0
-coron	crown	0	0	1	1
+harri	henry	0	0	1	1
+harri	harri	0	0	1	0
 chuck	chuck	0	0	1	0
 detroit	detroit	0	0	1	0
 rhufeiniaid	romans	0	0	1	0
@@ -8600,12 +8502,11 @@ gadair	chair	0	0	1	0
 bonan	conan	0	0	1	0
 ranbarthau	regions	0	0	1	0
 salwch	illness	0	0	1	1
-nin	nin	0	0	1	0
+raid	have	0	0	1	0
 gwybodaeth	information	0	0	1	0
 hangen	required	0	0	1	0
 gol	ed	0	0	1	0
 lais	voice	0	0	1	0
-lais	vioce	0	0	1	0
 kuwait	kuwait	0	0	1	0
 siapau	shapes	0	0	1	0
 siapan	japan	0	0	1	0
@@ -8630,6 +8531,7 @@ ddydd	on	0	0	1	0
 athro	teacher	0	0	1	1
 key	key	0	0	1	0
 nhw	they	0	0	1	1
+pasg	easter	0	0	1	1
 bersonol	personal	0	0	1	0
 beirniadu	judging	0	0	1	0
 grymoedd	forces	0	0	1	0
@@ -8724,12 +8626,12 @@ fraich	arm	0	0	1	0
 de|ewin	de | cloves	0	0	1	0
 pkm	pkm	0	0	1	0
 categorianthropoleg	categorianthropoleg	0	0	1	0
-ofalus	carefully	0	0	1	0
+wybod	but	0	0	1	0
+wybod	out	0	0	1	0
 disgrifiad	description	0	0	1	1
 claude	claude	0	0	1	0
 dechreuasant	they began	0	0	1	0
 rhywogaethau	species	0	0	1	0
-germanaidd	germanic	0	0	1	0
 wyddonol	scientific	0	0	1	0
 rss	china	0	0	1	0
 rss	rss	0	0	1	0
@@ -8747,15 +8649,15 @@ fyddair	fyddair	0	0	1	0
 ymddygiad	behavior	0	0	1	1
 gyflawnir	achieved	0	0	1	0
 fyddain	it would	0	0	1	0
-godi	raise	0	0	1	0
+llywodraethol	governing	0	0	1	1
 cwtiad	plover	0	0	1	0
 ymchwiliad	an investigation	0	0	1	0
-ymchwiliad	investigation	0	0	1	1
 mrasil	brazil	0	0	1	0
 hendre	hendre	0	0	1	0
 rheol	rule	0	0	1	1
 px|bawd|lleoliad	px | thumb | location	0	0	1	0
 px|bawd|lleoliad	pixel|thumb|location	0	0	1	0
+gydnabod	recognition	0	0	1	0
 cyfamod	covenant	0	0	1	1
 thrwy	by	0	0	1	0
 drwyr	drwyr	0	0	1	0
@@ -8847,7 +8749,7 @@ faner	flag	0	0	1	0
 ddatblygiad	development	0	0	1	0
 eiliad	seconds	0	0	1	0
 pharc	park	0	0	1	0
-morvan	morvan	0	0	1	0
+categorimytholeg	categorimytholeg	0	0	1	0
 gadeiriol	cathedral	0	0	1	0
 damweiniau	accidents	0	0	1	0
 beiriant	machine	0	0	1	0
@@ -8917,7 +8819,7 @@ gorsedd	crime	0	0	1	0
 gyflyrau	conditions	0	0	1	0
 indoewropeaidd	indoewropeaidd	0	0	1	0
 codi	up	0	0	1	0
-bencampwriaeth	championship	0	0	1	0
+terminoleg	terminology	0	0	1	0
 fathau	types	0	0	1	0
 tebot	teapot	0	0	1	1
 malaysia	malaysia	0	0	1	0
@@ -8958,7 +8860,6 @@ thermodynameg	themodynameg	1	1	0	0
 thermodynameg	thermodynamics	1	1	0	0
 thermodynameg	racing	1	0	1	0
 thermodynameg	aerodynamics	1	0	1	0
-britannia	britannia	0	0	1	0
 meddiannau	possessions	0	0	1	0
 hiphop	hiphop	0	0	1	0
 olynydd	successor	0	0	1	1
@@ -8974,7 +8875,6 @@ chymuned	community	0	0	1	0
 ppp	ppp	0	0	1	0
 dysgir	taught	0	0	1	0
 gyson	consistent	0	0	1	0
-fwyar	berries	0	0	1	0
 croeso	welcome	0	0	1	1
 palesteiniaid	palestinians	0	0	1	0
 croesi	crossing	0	0	1	0
@@ -8989,10 +8889,9 @@ draddodiadol	traditional	0	0	1	0
 head	head	0	0	1	0
 medium	medium	0	0	1	0
 prynhawn	afternoon	0	0	1	1
-sbectrwm	spectrum	0	0	1	0
+hirach	longer	0	0	1	0
 heal	heal	0	0	1	0
 categoridiwydiant	industry category	0	0	1	0
-hidl	filter	0	0	1	0
 hidl	hidi	0	0	1	0
 solar	solar	0	0	1	0
 mwyalchen	blackbird	0	0	1	0
@@ -9005,7 +8904,7 @@ versions	versions	0	0	1	0
 sylweddol	significant	0	0	1	0
 arabeg	arabic	0	0	1	0
 chadwraethau	observances	0	0	1	0
-theledu	tv	0	0	1	0
+helvetii	helvetii	0	0	1	0
 moelwyn	moelwyn	0	0	1	0
 smotiau	spots	0	0	1	0
 blogio	blogging	0	0	1	0
@@ -9039,6 +8938,7 @@ ogam	zag	0	0	1	0
 incwm	income	0	0	1	1
 ŷd	orn	0	0	1	0
 ŷd	corn	0	0	1	0
+gwaelod	bottom	0	0	1	1
 ebyst	emails	0	0	1	0
 nodi	note	0	0	1	1
 tawdd	molten	0	0	1	1
@@ -9112,7 +9012,6 @@ bakr	bakr	0	0	1	0
 droseddol	criminal	0	0	1	0
 colin	colin	0	0	1	0
 colin	holine	0	0	1	0
-colin	choline	0	0	1	0
 cyfranc	cyfranc	0	0	1	0
 peidio	not	0	0	1	0
 chwiliedydd	probe	0	0	1	0
@@ -9129,7 +9028,7 @@ chofadeiladau	monuments	0	0	1	0
 collwyd	lost	0	0	1	0
 goes	leg	0	0	1	0
 cyngres	congress	0	0	1	1
-nulyn	dublin	0	0	1	0
+tiberius	tiberius	0	0	1	0
 fetel	metal	0	0	1	0
 ddigwydd	occur	0	0	1	0
 nen	sky	0	0	1	0
@@ -9160,7 +9059,6 @@ sefydlogrwydd	stability	0	0	1	1
 arbrofion	experiments	0	0	1	0
 pren	wood	0	0	1	1
 adenydd	wings	0	0	1	0
-russell	russel	0	0	1	0
 russell	russell	0	0	1	0
 gyddfgoch	badgers	0	0	1	0
 kemmyn	kemmyn	0	0	1	0
@@ -9182,7 +9080,6 @@ chyfres	series	0	0	1	0
 autónoma	autonoma	0	0	1	0
 biden	biden	0	0	1	0
 deiniol	deiniol	0	0	1	0
-modified	modified	0	0	1	0
 deyrnged	tribute	0	0	1	0
 poblogaethau	populations	0	0	1	0
 ddangos	show	0	0	1	0
@@ -9190,7 +9087,6 @@ egluro	explain	0	0	1	1
 beddgelert	beddgelert	0	0	1	0
 fwynau	minerals	0	0	1	0
 °c	c	0	0	1	0
-°c	celsius	0	0	1	0
 gwreiddiol	original	0	0	1	1
 gwreiddiol	qwreiddiol	0	0	1	0
 benthyciad	loan	0	0	1	0
@@ -9210,8 +9106,6 @@ cardinal	cardinal	0	0	1	0
 llechwedd	slope	0	0	1	1
 ddeunaw	eighteen	0	0	1	0
 alcoholaidd	alcoholic	0	0	1	0
-weithiaun	weithianu	0	0	1	0
-weithiaun	weithiaun	0	0	1	0
 wythfed	eighth	0	0	1	1
 nerthol	powerful	0	0	1	1
 grugiar	grouse	0	0	1	1
@@ -9238,7 +9132,7 @@ wallace	wallace	0	0	1	0
 byddwch	you	0	0	1	0
 ferf	verb	0	0	1	0
 llysiau	vegetables	0	0	1	0
-gobaith	hope	0	0	1	1
+suez	suez	0	0	1	0
 sylweddolodd	realized	0	0	1	0
 redstart	redstart	0	0	1	0
 sgwrs	conversation	0	0	1	1
@@ -9250,7 +9144,7 @@ beili	bailey	0	0	1	0
 lonely	lonely	0	0	1	0
 baneri	banners	0	0	1	0
 dinbych	denbigh	0	0	1	0
-و	wo	0	0	1	0
+isdeitlau	subtitles	0	0	1	0
 ysgrifennodd	wrote	0	0	1	0
 dacia	dacia	0	0	1	0
 cyfrifiad	calculation	0	0	1	0
@@ -9280,11 +9174,11 @@ categorigwrthdaro	categorigwthdaro	0	0	1	0
 barbuda	barbuda	0	0	1	0
 llenwi	complete	0	0	1	0
 hallstatt	hallstatt	0	0	1	0
+ogwr	ogmore	0	0	1	0
 dengys	shows	0	0	1	0
 benito	benito	0	0	1	0
 absenoldeb	absence	0	0	1	1
 peirianeg	engineering	0	0	1	0
-peirianeg	engineernig	0	0	1	0
 haul	sun	0	0	1	1
 die	die	0	0	1	0
 cyfoeth	wealth	0	0	1	1
@@ -9303,12 +9197,11 @@ goresgyniad	goresgynaid	0	0	1	0
 theori	theory	0	0	1	0
 gapten	captain	0	0	1	0
 dilyn	following	0	0	1	0
-dilyn	folloving	0	0	1	0
 addas	suitable	0	0	1	1
 bwyllgor	committee	0	0	1	0
 pandemig	pandemic	0	0	1	0
-dogfennau	documents	0	0	1	0
-fflamadwy	flammable	0	0	1	0
+perthnasol	relevant	0	0	1	0
+wag	empty	0	0	1	0
 butterflies	butterflies	0	0	1	0
 betws	at large	0	0	1	0
 ychen	ox	0	0	1	0
@@ -9378,7 +9271,6 @@ meirion	meirion	0	0	1	0
 gŵr	husband	0	0	1	0
 r	the	0	0	1	0
 drydedd	third	0	0	1	0
-miles	miles	0	0	1	0
 ddinistrio	destroyed	0	0	1	0
 mariner	mariner	0	0	1	0
 and	and	0	0	1	0
@@ -9387,15 +9279,12 @@ ana	ana	0	0	1	0
 anc	econciliation	0	0	1	0
 ann	ann	0	0	1	0
 buwch	cow	0	0	1	1
-nghaerfyrddin	nghaerfyrddin	0	0	1	0
-nghaerfyrddin	carmarthen	0	0	1	0
+ant	ant	0	0	1	0
 mater	issue	0	0	1	0
-any	unrhyw	0	0	1	0
 any	any	0	0	1	0
-dewiniaeth	witchcraft	0	0	1	1
+marathon	marathon	0	0	1	0
 llyncu	swallowing	0	0	1	0
 kush	kush	0	0	1	0
-falconiformes	falconiformes	0	0	1	0
 adlewyrchu	reflect	0	0	1	1
 mindanao	mindanao	0	0	1	0
 gustave	gustave	0	0	1	0
@@ -9420,8 +9309,6 @@ clywed	hear	0	0	1	1
 galés	gales	0	0	1	0
 vulgaris	vulgaris	0	0	1	0
 tyddewi	davids	0	0	1	0
-sianeli	channels	0	0	1	0
-sianeli	completely	0	0	1	0
 hwngariaid	hungarians	0	0	1	0
 troi	turn	0	0	1	1
 trol	cart	0	0	1	1
@@ -9438,7 +9325,7 @@ afiach	unhealthy	0	0	1	1
 dosbarth	class	1	1	1	1
 alexios	alexios	0	0	1	0
 gull	gull	0	0	1	0
-cylchol	circular	0	0	1	0
+wood	wood  (in welsh  "pren")	0	0	1	0
 cuddio	hide	0	0	1	1
 unrhyw	no	0	0	1	0
 llechweddau	slopes	0	0	1	0
@@ -9470,13 +9357,13 @@ trefnu	arranged	0	0	1	0
 brin	rare	0	0	1	0
 ynghau	closed	0	0	1	0
 rms	rms	0	0	1	0
-cywir	right	0	0	1	0
+beethoven	beethoven	0	0	1	0
 publishers	publisher	0	0	1	0
 publishers	publishers	0	0	1	0
 mtv	mtv	0	0	1	0
 gweler	see	0	0	1	0
 college	college	0	0	1	0
-ddarganfod	found	0	0	1	0
+theledu	tv	0	0	1	0
 stanley	stanley	0	0	1	0
 cyflogi	employed	0	0	1	0
 hirdymor	long-term	0	0	1	0
@@ -9488,7 +9375,6 @@ brif	main	0	0	1	0
 woolf	woolf	0	0	1	0
 nauru	nauru	0	0	1	0
 ffliwr	ffliwr	0	0	1	0
-ffliwr	flu	0	0	1	0
 gwynant	gwynant	0	0	1	0
 cynhyrchodd	produced	0	0	1	0
 ffliwt	flute	0	0	1	0
@@ -9564,7 +9450,6 @@ dymuniad	desire	0	0	1	1
 penodol	specific	0	0	1	1
 groegwyr	greeks	0	0	1	0
 athrawon	teachers	0	0	1	0
-helvetii	helvetii	0	0	1	0
 bêl	ball	0	0	1	0
 enillwyr	winners	0	0	1	0
 rhestr	list	0	0	1	1
@@ -9623,9 +9508,11 @@ rheolir	management	0	0	1	0
 pwll	pool	0	0	1	1
 gymdeithasol	social	0	0	1	0
 bryn	hill	0	0	1	1
-redthroated	red croated	0	0	1	0
 redthroated	redthroated	0	0	1	0
 tim	team	0	0	1	0
+px|bawd|rhan	px thumb part	0	0	1	0
+px|bawd|rhan	px / thumb / part	0	0	1	0
+cyflenwad	supply	0	0	1	1
 bryd	time	0	0	1	0
 blog	blog	0	0	1	0
 wall	wall	0	0	1	0
@@ -9636,7 +9523,7 @@ ross	ross	0	0	1	0
 llinellau	lines	0	0	1	0
 delhi	delhi	0	0	1	0
 virginia	virginia	0	0	1	0
-henwi	named	0	0	1	0
+oesoedd	ages	0	0	1	0
 cyfansoddi	composition	0	0	1	0
 cyfarfu	met	0	0	1	0
 natblygiad	development	0	0	1	0
@@ -9645,7 +9532,9 @@ iduna	iduna	0	0	1	0
 kennedy	kennedy	0	0	1	0
 llythrennol	literally	0	0	1	0
 patrick	patrick	0	0	1	0
+drafodaeth	discussion	0	0	1	0
 nhwrci	turkey	0	0	1	0
+alw	call	0	0	1	0
 rhyd	ford	0	0	1	1
 gwasanaethydd	server	0	0	1	0
 gwsg	sleep	0	0	1	0
@@ -9653,7 +9542,6 @@ thoracs	thorax	0	0	1	0
 deddfwriaeth	legislation	0	0	1	1
 são	são	0	0	1	0
 são	sao	0	0	1	0
-alaqsa	al-aqsa	0	0	1	0
 carfil	auk	0	0	1	0
 alltudiwyd	exiled	0	0	1	0
 pacific	pacific	0	0	1	0
@@ -9662,7 +9550,6 @@ gyflawni	achieve	0	0	1	0
 etholedig	elected	0	0	1	0
 adweithia	adweithia	0	0	1	0
 adweithio	reaction	0	0	1	0
-adweithio	adeweithio	0	0	1	0
 diffiniadau	definitions	0	0	1	0
 ysgolheictod	scholarship	0	0	1	1
 rwseg	russian	0	0	1	0
@@ -9675,7 +9562,8 @@ llwyddo	successful	0	0	1	0
 dudley	dudley	0	0	1	0
 legal	legal	0	0	1	0
 ychwanegiadau	additions	0	0	1	0
-cocteau	cocteau	0	0	1	0
+gomer	gomer	0	0	1	0
+gantores	singer	0	0	1	0
 cofnodi	record	0	0	1	1
 cyfrannu	contribute	0	0	1	1
 ddefnyddid	used	0	0	1	0
@@ -9687,7 +9575,6 @@ hormon	hormone	0	0	1	0
 ngorffennaf	july	0	0	1	0
 naill	one	0	0	1	0
 dylanwadun	dylanwadun	0	0	1	0
-dylanwadun	influence	0	0	1	0
 afrikaans	afrikaans	0	0	1	0
 afrikaans	africans	0	0	1	0
 on	on	0	0	1	0
@@ -9777,7 +9664,6 @@ bertolt	bertolt	0	0	1	0
 hafren	severn	0	0	1	1
 bedr	bedr	0	0	1	0
 agosaf	nearest	0	0	1	0
-wrthi	her	0	0	1	0
 glaniodd	landed	0	0	1	0
 divali	divali	0	0	1	0
 modron	modron	0	0	1	0
@@ -9798,8 +9684,6 @@ rhagenwau	pronouns	0	0	1	0
 oriel	gallery	0	0	1	1
 llechir	slate	0	0	1	0
 llechir	llechir	0	0	1	0
-px|bawd|hen	px bawd old	0	0	1	0
-px|bawd|hen	py thumb old	0	0	1	0
 ryfelwyr	warriors	0	0	1	0
 oddi	from	0	0	1	1
 lwyfan	platform	0	0	1	0
@@ -9842,7 +9726,7 @@ fab	son	0	0	1	0
 sony	sony	0	0	1	0
 fae	bay	0	0	1	0
 deithio	travel	0	0	1	0
-byddin	army	0	0	1	1
+ymhob	all	0	0	1	0
 roy	roy	0	0	1	0
 list	list	0	0	1	0
 gefn	back	0	0	1	0
@@ -9885,7 +9769,7 @@ christian	christian	0	0	1	0
 gaffein	caffeine	0	0	1	0
 cynharach	earlier	0	0	1	0
 crowley	crowley	0	0	1	0
-ddiddordeb	interest	0	0	1	0
+bidyn	penis	0	0	1	0
 leeds	leeds	0	0	1	0
 enwodd	named	0	0	1	0
 croesgadau	crusades	0	0	1	0
@@ -9896,7 +9780,6 @@ longau	ships	0	0	1	0
 dibynnol	dependent	0	0	1	1
 gwlân	wool	0	0	1	0
 heibio	past	0	0	1	1
-procellariiformes	oppression	0	0	1	0
 procellariiformes	procellariiformes	0	0	1	0
 ynni	energy	0	0	1	1
 ceisiodd	sought	0	0	1	0
@@ -9916,9 +9799,7 @@ llenyddiaeth	literature	0	0	1	1
 cyfarfod	meeting	0	0	1	1
 dduw	god	0	0	1	0
 cynghreiriaid	allies	0	0	1	0
-cynghreiriaid	ally	0	0	1	0
 minor	minur	0	0	1	0
-minor	minor	0	0	1	0
 fôn	fon	0	0	1	0
 israel	israel	0	0	1	0
 rydw	i	0	0	1	0
@@ -9987,7 +9868,7 @@ cymraeg	welsh	0	0	1	0
 goruchel	supreme	0	0	1	1
 islam	islam	0	0	1	0
 style	style	0	0	1	0
-amrywiad	variation	0	0	1	1
+parhaol	permanent	0	0	1	0
 edmwnd	edmund	0	0	1	0
 edmwnd	edmwnd	0	0	1	0
 fairbanks	fairbanks	0	0	1	0
@@ -10001,8 +9882,8 @@ argentina	argentina	0	0	1	0
 wareiddiad	civilization	0	0	1	0
 ddeurywiol	bisexual	0	0	1	0
 oroesodd	survived	0	0	1	0
+sylwer	note	0	0	1	0
 bawd|px|baner	thumb! px! flag	0	0	1	0
-bawd|px|baner	thump|px|flag	0	0	1	0
 aconcagua	aconcagua	0	0	1	0
 lawysgrifau	manuscripts	0	0	1	0
 bollywood	bollywood	0	0	1	0
@@ -10020,7 +9901,7 @@ erlid	chase	0	0	1	0
 elusennau	charities	0	0	1	0
 yna	there	0	0	1	1
 nghaliffornia	california	0	0	1	0
-shanklin	shanklin	0	0	1	0
+bwer	power	0	0	1	0
 gwerinwyr	peasants	0	0	1	0
 sillafiad	spelling	0	0	1	1
 celtiaid	celts	0	0	1	0
@@ -10075,9 +9956,10 @@ coleg	college	0	0	1	1
 coleg	collegue	0	0	1	0
 diflannodd	disappeared	0	0	1	0
 gormod	too	0	0	1	0
-portiwgaleg	portuguese	0	0	1	0
+ymyrraeth	intervention	0	0	1	0
 dywediadau	sayings	0	0	1	0
-least	least	0	0	1	0
+crossbill	nose	0	0	1	0
+crossbill	crossbill	0	0	1	0
 colombia	colombia	0	0	1	0
 flycatcher	flycatcher	0	0	1	0
 bwriadu	plan	0	0	1	0
@@ -10099,7 +9981,6 @@ verdun	verdun	0	0	1	0
 ecuador	ecuador	0	0	1	0
 broses	process	0	0	1	0
 llanfaethlu	llanfaethlu	0	0	1	0
-gofio	given the	0	0	1	0
 mynediad	access	0	0	1	1
 llewelyn	llewelyn	0	0	1	0
 fflorens	florence	0	0	1	0
@@ -10125,7 +10006,6 @@ shrike	shrike	0	0	1	0
 categoriunedau	categoriunedau	0	0	1	0
 galw	demand	0	0	1	0
 treialon	trials	0	0	1	0
-treialon	trails	0	0	1	0
 wahaniaethau	differences	0	0	1	0
 etifeddol	hereditary	0	0	1	1
 chipiodd	captured	0	0	1	0
@@ -10154,15 +10034,15 @@ stiwdios	studios	0	0	1	0
 gorffennaf	july	0	0	1	1
 berwbwyntiau	boiling points	0	0	1	0
 lanthanidau	lanthanidau	0	0	1	0
-wely	bed	0	0	1	0
+amonia	amonia	0	0	1	0
+amonia	ammonia	0	0	1	0
 nothing	nothing	0	0	1	0
 lechfaen	slate	0	0	1	0
 dewisodd	chose	0	0	1	0
 sibh	sibh	0	0	1	0
-ofni	fear	0	0	1	1
+sianeli	channels	0	0	1	0
 amldduwiaeth	polytheism	0	0	1	1
 madog	madog	0	0	1	0
-isdeitlau	subtitles	0	0	1	0
 windows	windows	0	0	1	0
 chwarae	play	0	0	1	1
 oedd	was	0	0	1	0
@@ -10215,9 +10095,8 @@ gyhoeddi	published	0	0	1	0
 ynddynt	in	0	0	1	0
 tywyn	warren	0	0	1	0
 vincent	vincent	0	0	1	0
-pobol	people	0	0	1	0
+diffwys	diffwys	0	0	1	0
 art	art	0	0	1	0
-cynyddol	increasing	0	0	1	1
 bara	bread	0	0	1	1
 barc	barque	1	1	0	0
 arc	arc	0	0	1	1
@@ -10227,7 +10106,6 @@ gristnogion	christians	0	0	1	0
 barn	views	0	0	1	0
 swisdir	switzerland	0	0	1	0
 lleithder	moisture	0	0	1	1
-lleithder	mositure	0	0	1	0
 baines	baines	0	0	1	0
 hwngari	hungary	0	0	1	0
 armellog	uncle	1	0	1	0
@@ -10270,7 +10148,7 @@ dua	approximately	0	0	1	0
 px	px	0	0	1	0
 buzzard	buzzard	0	0	1	0
 dug	duke	0	0	1	1
-johannes	johannes	0	0	1	0
+plygu	folding	0	0	1	0
 pc	pc	0	0	1	0
 deich	your	0	0	1	0
 pa	what	0	0	1	0
@@ -10304,7 +10182,6 @@ waun	heath	0	0	1	0
 prydeinwyr	britons	0	0	1	0
 prydeinwyr	prydeinwyr	0	0	1	0
 rix	rix	0	0	1	0
-gwyddoniadur	encyclopedia	0	0	1	1
 gwyddoniadur	encylopedia	0	0	1	0
 rio	rio	0	0	1	0
 miloedd	thousands	0	0	1	0
@@ -10400,7 +10277,7 @@ dderbyn	receive	0	0	1	0
 pasiwyd	passed	0	0	1	0
 ddillad	clothing	0	0	1	0
 gwrogaeth	homage	0	0	1	1
-plat	plate	0	0	1	0
+ysgol	school	0	0	1	1
 gyhoeddwyd	published	0	0	1	0
 fersiynau	versions	0	0	1	0
 dro	time	0	0	1	0
@@ -10427,11 +10304,10 @@ ydym	we	0	0	1	0
 ydyn	are	0	0	1	0
 gyhoeddus	public	0	0	1	0
 amlgellog	multicellular	0	0	1	0
-px|bawd|baner	px|thumb|flag	0	0	1	0
+cyrhaeddodd	reached	0	0	1	0
 madagascar	madagascar	0	0	1	0
 dringwr	climber	0	0	1	1
-long	ship	0	0	1	0
-long	hir	0	0	1	0
+gwledydd	countries	0	0	1	0
 warchod	protect	0	0	1	0
 xpx	xpx	0	0	1	0
 faso	faso	0	0	1	0
@@ -10446,13 +10322,13 @@ gefnogwyd	supported	0	0	1	0
 delta	delta	0	0	1	0
 gefnogwyr	supporters	0	0	1	0
 crane	crane	0	0	1	0
-ymadael	exit	0	0	1	0
+cytundebau	agreements	0	0	1	0
 nuremberg	nuremberg	0	0	1	0
 hagia	hagia	0	0	1	0
 verrocchio	verrocchio	0	0	1	0
 dychwelyd	return	0	0	1	1
 braster	fat	0	0	1	1
-guyane	guiana	0	0	1	0
+etholaethau	constituencies	0	0	1	0
 today	today	0	0	1	0
 guyana	guyana	0	0	1	0
 z	z	0	0	1	0
@@ -10494,7 +10370,7 @@ gwenallt	gwenallt	0	0	1	0
 dall	blind	0	0	1	1
 gosodwyd	set	0	0	1	0
 athen	athens	0	0	1	1
-porthaethwy	menai bridge	0	0	1	1
+porthaethwy	menai bridge	0	0	1	0
 dalu	pay	0	0	1	0
 wylwyr	viewers	0	0	1	0
 gytundebau	agreements	0	0	1	0
@@ -10519,7 +10395,7 @@ ganu	singing	0	0	1	0
 reolaeth	control	0	0	1	0
 pysgodyn	fish	0	0	1	1
 rhuban	ribbon	0	0	1	0
-dyfod	coming	0	0	1	0
+gynradd	primary	0	0	1	0
 gewch	you	0	0	1	0
 steve	steve	0	0	1	0
 jimi	jimi	0	0	1	0
@@ -10545,11 +10421,10 @@ hinsoddaur	hinsoddaur	0	0	1	0
 stormpetrel	stormpetrel	0	0	1	0
 stormpetrel	stormpetral	0	0	1	0
 gini	guinea	0	0	1	0
-gyngherddau	concerts	0	0	1	0
+foleciwlaidd	molecular	0	0	1	0
 ging	ging	0	0	1	0
 coraciiformes	coraciiformes	0	0	1	0
 llwyddiannau	successes	0	0	1	0
-llwyddiannau	sucessess	0	0	1	0
 âr	on	0	0	1	0
 seryddiaeth	astronomy	0	0	1	1
 prokofiev	prokofiev	0	0	1	0
@@ -10567,7 +10442,6 @@ julius	jjulius	0	0	1	0
 cap	cap	0	0	1	1
 fodoli	exist	0	0	1	0
 wersi	lessons	0	0	1	0
-wersi	jiang	0	0	1	0
 ymatebodd	responded	0	0	1	0
 ciconiaid	ciconiaid	0	0	1	0
 categorigwybodaeth	category: information	0	0	1	0
@@ -10582,8 +10456,8 @@ ganolfannau	centers	0	0	1	0
 theodore	theodore	0	0	1	0
 goddrych	subject	0	0	1	1
 carthago	carthage	0	0	1	0
-ganolog	analogue	0	0	1	0
 ganolog	central	0	0	1	0
+disgrifiodd	described	0	0	1	0
 ymhellach	further	0	0	1	1
 ystyrir	considered	0	0	1	0
 mwslemaidd	muslim	0	0	1	0
@@ -10620,8 +10494,8 @@ gyfansoddiad	composition	0	0	1	0
 chyhoeddwyd	published	0	0	1	0
 apple	apple	0	0	1	0
 px|	px |	0	0	1	0
-px|	px	0	0	1	0
 masnachu	trading	0	0	1	0
+newyddiaduraeth	journalism	0	0	1	0
 hardd	beautiful	0	0	1	1
 timor	timor	0	0	1	0
 ohonynt	them	0	0	1	0
@@ -10633,7 +10507,7 @@ from	from	0	0	1	0
 gilydd	time	0	0	1	0
 fel	as	0	0	1	0
 cill	bill	0	0	1	0
-anghydfod	dispute	0	0	1	0
+fei	light	0	0	1	0
 creol	creol	0	0	1	0
 phosibl	possible	0	0	1	0
 feu	feu	0	0	1	0
@@ -10722,8 +10596,7 @@ achlysurol	casual	0	0	1	0
 looks	books	0	0	1	0
 elis	elis	0	0	1	0
 byw	live	0	0	1	1
-llym	strict	0	0	1	0
-llym	ilym	0	0	1	0
+wobrau	awards	0	0	1	0
 sydd	which	0	0	1	0
 antonius	antonius	0	0	1	0
 llyw	helm	0	0	1	1
@@ -10753,7 +10626,7 @@ vepamerikan	vepamerikan	0	0	1	0
 vepamerikan	vepimerikan	0	0	1	0
 enwr	name will	0	0	1	0
 tran	tran	0	0	1	0
-billy	billy	0	0	1	0
+enwi	name	0	0	1	1
 hebog	falcon	0	0	1	1
 trar	rar	0	0	1	0
 dyfodd	grew	0	0	1	0
@@ -10817,7 +10690,6 @@ isbn	isbn	0	0	1	0
 cwmni	company	0	0	1	1
 aelwyd	household	0	0	1	0
 fehefin	june	0	0	1	0
-set	set	0	0	1	1
 alcanau	alkanes	0	0	1	0
 cyfnodau	periods	0	0	1	0
 niferoedd	numbers	0	0	1	0
@@ -10841,7 +10713,6 @@ cyfyngu	limit	0	0	1	1
 defodau	rituals	0	0	1	0
 holland	holland	0	0	1	0
 sef	a	0	0	1	0
-sef	the	0	0	1	0
 trefn	order	0	0	1	1
 trefi	towns	0	0	1	0
 hirgrwn	oval	0	0	1	0
@@ -10858,6 +10729,7 @@ pwerau	powers	0	0	1	0
 canolbwynt	focus	0	0	1	0
 teleffon	telephone	0	0	1	0
 hy	ie	0	0	1	0
+bellter	distance	0	0	1	0
 chwaraeir	played	0	0	1	0
 gorkys	gorkys	0	0	1	0
 malwr	crusher	0	0	1	0
@@ -10875,12 +10747,11 @@ bibracte	bibracte	0	0	1	0
 petrol	petrol	0	0	1	0
 who	sy'n	0	0	1	0
 planhigion	plants	0	0	1	0
-newidwyd	changed	0	0	1	0
+mynachlog	monastery	0	0	1	1
 gwrthododd	he refused	0	0	1	0
 gwasanaeth	service	0	0	1	1
-llythrennau	llyrennau	0	0	1	0
 llythrennau	letters	0	0	1	0
-hirach	longer	0	0	1	0
+sbectrwm	spectrum	0	0	1	0
 ddarparu	provide	0	0	1	0
 gynhenid	inherent	0	0	1	0
 fiet	vietnam	0	0	1	0
@@ -10890,10 +10761,11 @@ michel	michel	0	0	1	0
 movie	movie	0	0	1	0
 hn	older	0	0	1	0
 deng	ten	0	0	1	1
+son	mention	0	0	1	0
 feysydd	areas	0	0	1	0
 adroddiadau	reports	0	0	1	0
 siôn	sion	0	0	1	0
-perfformiadau	performances	0	0	1	0
+please	please	0	0	1	0
 darlun	picture	0	0	1	1
 sylwadau	comments	0	0	1	0
 hiaith	language	0	0	1	0
@@ -10916,7 +10788,7 @@ berfformio	perform	0	0	1	0
 rhengoedd	ranks	0	0	1	0
 adeiladu	construction	0	0	1	0
 presley	presley	0	0	1	0
-suez	suez	0	0	1	0
+gobaith	hope	0	0	1	1
 fyddyn	army	0	0	1	0
 geltaidd	celtic	0	0	1	0
 ymdrin	deal	0	0	1	0
@@ -10954,7 +10826,7 @@ ymddangosiad	appearance	0	0	1	0
 straeon	stories	0	0	1	0
 efaill	twin	0	0	1	0
 efaill	pony	0	0	1	0
-lefelau	levels	0	0	1	0
+mapiau	maps	0	0	1	0
 cyfansoddion	compounds	0	0	1	0
 cysyniadau	conceptualisation	0	0	1	0
 cysyniadau	concepts	0	0	1	0
@@ -10964,7 +10836,6 @@ arlywyddol	presidential	0	0	1	0
 swift	swift	0	0	1	0
 arni	it	0	0	1	0
 jon	jon	0	0	1	0
-goresgyn	overcome	0	0	1	0
 dineilltuol	dineilltuol	0	0	1	0
 dillad	clothing	0	0	1	1
 sgoteg	scots	0	0	1	0
@@ -11027,7 +10898,7 @@ planhigyn	plant	0	0	1	1
 thua	about	0	0	1	0
 berfau	verbs	0	0	1	0
 pwmpior	pwmpior	0	0	1	0
-anghenion	needs	0	0	1	0
+ysgrifenedig	written	0	0	1	1
 unita	unita	0	0	1	0
 cyhoeddiadau	publications	0	0	1	0
 amheuaeth	doubt	0	0	1	1
@@ -11035,7 +10906,6 @@ heddychlon	peaceful	0	0	1	1
 heddychlon	paeceful	0	0	1	0
 daith	tour	0	0	1	0
 gets	gets	0	0	1	0
-gwneuthurwyr	manufacturers	0	0	1	0
 diego	diego	0	0	1	0
 allforio	export	0	0	1	1
 addurno	decorating	0	0	1	0
@@ -11059,14 +10929,13 @@ camel	camel	0	0	1	1
 anferth	massive	0	0	1	0
 sefydlogi	stabilize	0	0	1	0
 amdani	it	0	0	1	0
-cymar	mate	0	0	1	0
+cynyddol	increasing	0	0	1	1
 wres	heat	0	0	1	0
 categorihindŵaeth	category hinduism	0	0	1	0
 categorihindŵaeth	categorihindwaeth	0	0	1	0
-now	now	0	0	1	0
 categoriwicipedia	category:wikipedia	0	0	1	0
 categoriwicipedia	categoriwicipedia	0	0	1	0
-heddwch	peace	0	0	1	1
+ddarganfod	found	0	0	1	0
 galiaid	gauls	0	0	1	0
 phentrefi	villages	0	0	1	0
 bell	distance	0	0	1	0
@@ -11089,7 +10958,6 @@ adlewyrchur	adlewyrchur	0	0	1	0
 cyfandirol	continental	0	0	1	1
 press	press	0	0	1	0
 bontydd	bridges	0	0	1	0
-chwedlau	myths	0	0	1	0
 chwedlau	legends	0	0	1	0
 awstria	austria	0	0	1	1
 defnyddiol	useful	0	0	1	1
@@ -11133,13 +11001,12 @@ categoriy	categoriy	0	0	1	0
 catrin	catrin	0	0	1	0
 werth	value	0	0	1	0
 gwthio	push	0	0	1	1
-jamaica	jamaica	0	0	1	0
 strategaeth	strategy	0	0	1	0
 poeth	hot	0	0	1	1
 ddringo	climb	0	0	1	0
 pencadlys	headquarters	0	0	1	1
 cheir	there	0	0	1	0
-stad	estate	0	0	1	0
+gorynys	peninsula	0	0	1	1
 lefydd	places	0	0	1	0
 fear	fear	0	0	1	0
 fwriad	intent	0	0	1	0
@@ -11156,9 +11023,7 @@ egni	energy	0	0	1	1
 gynllunio	planning	0	0	1	0
 newydddinas	newydddinas	0	0	1	0
 newydddinas	newcity	0	0	1	0
-newydddinas	new city	0	0	1	0
 van	van	0	0	1	0
-val	val	0	0	1	0
 cristnogaeth	christianity	0	0	1	1
 dwythell	duct	0	0	1	0
 fynydd	mountain	0	0	1	0
@@ -11173,13 +11038,13 @@ testunau	texts	0	0	1	0
 bawd|px|map	thumb | px | map	0	0	1	0
 bawd|px|map	map thumb	0	0	1	0
 diwethaf	last	0	0	1	1
-ddynodi	designate	0	0	1	0
+llosgfynydd	volcano	0	0	1	1
 bradley	bradley	0	0	1	0
 made	made	0	0	1	0
 record	record	0	0	1	1
 below	canlynol	0	0	1	0
 ddaeth	came	0	0	1	0
-mapiau	maps	0	0	1	0
+lefelau	levels	0	0	1	0
 teml	temple	0	0	1	1
 arno	it	0	0	1	0
 iddo	it	0	0	1	0
@@ -11187,12 +11052,12 @@ enedigaeth	birth	0	0	1	0
 pyreneau	pyrenees	0	0	1	0
 ailagorodd	reopened	0	0	1	0
 dyfnaf	deepest	0	0	1	0
-ez	ez	0	0	1	0
+year	month	0	0	1	0
 nodyn	note	0	0	1	1
 hydrocsid	hydroxide	0	0	1	0
-et	et	0	0	1	0
+gofio	given the	0	0	1	0
 rhyddhau	release	0	0	1	1
-ysgrifenedig	written	0	0	1	1
+anghenion	needs	0	0	1	0
 myd	world	0	0	1	0
 squirrel	squirrel	0	0	1	0
 parhaus	continuous	0	0	1	0
@@ -11212,14 +11077,13 @@ categoribeirdd	category: poets	0	0	1	0
 categoribeirdd	published	0	0	1	0
 wicilyfrau	wicilyfrau	0	0	1	0
 margaret	margaret	0	0	1	0
-gwlt	twit	0	0	1	0
 gwlt	cult	0	0	1	0
+gwlt	twit	0	0	1	0
 fyddai	would	0	0	1	0
 tan	to	0	0	1	1
 cliff	cliff	0	0	1	0
 colofn	column	0	0	1	1
 cadeirydd	chair	0	0	1	0
-cadeirydd	ethane	0	0	1	0
 bolifia	bolivia	0	0	1	0
 tomos	tomos	0	0	1	0
 categorieconomeg	categorieconomeg	0	0	1	0

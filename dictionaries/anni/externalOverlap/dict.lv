@@ -76,7 +76,6 @@ tilpuma	volumetric	0	0	1	1
 brīvi	free to	0	0	1	0
 brīvi	brtvi	0	0	1	0
 brīva	free-	0	0	1	0
-brīva	free	0	0	1	0
 bumbiere	pear-tree	0	0	1	1
 bumbiere	bumbiere	0	0	1	0
 spalvas	feathers	0	0	1	0
@@ -89,8 +88,7 @@ atomi	atoms	0	0	1	0
 sugu	species	0	0	1	0
 atoma	atomic	0	0	1	1
 salnas	frost	0	0	1	0
-pārsniegt	exceed	0	0	1	1
-pārsniegt	exceed the	0	0	1	0
+izplešanās	expansion	0	0	1	1
 normām	norms	0	0	1	0
 normām	standards	0	0	1	0
 centienus	efforts	0	0	1	0
@@ -111,13 +109,11 @@ hiperoni	hiperoni	1	0	1	0
 hiperoni	hyperion	1	0	1	0
 hiperoni	hyperon	1	1	0	0
 neatšķiras	different	0	0	1	0
-ķēdi	kedi	0	0	1	0
 ķēdi	chain	0	0	1	0
 wikimedia	wikimedia	0	0	1	0
 kurienes	where	0	0	1	0
 islandiešu	icelandic	0	0	1	1
 islandiešu	the icelandic	0	0	1	0
-unix	unix	0	0	1	0
 kolonijas	colonies	0	0	1	0
 sabiedrībā	society	0	0	1	0
 sabiedrībā	corporations	0	0	1	0
@@ -172,8 +168,6 @@ meklējot	search	0	0	1	0
 meklējot	search of	0	0	1	0
 saistīja	bound	0	0	1	0
 pozīcijās	positions	0	0	1	0
-pozīcijās	position	0	0	1	0
-centrālā	a central	0	0	1	0
 centrālā	central	0	0	1	0
 ķēdē	in chain	0	0	1	0
 ķēdē	chain	0	0	1	0
@@ -183,7 +177,7 @@ kanāda	canada	0	0	1	0
 sekojošās	following	0	0	1	0
 sekojošās	the following	0	0	1	0
 smtp	smtp	0	0	1	0
-transformatorus	transformers	0	0	1	0
+politika	policy	0	0	1	1
 asiņu	blood	0	0	1	0
 aizņēma	took	0	0	1	0
 aizņēma	takes a	0	0	1	0
@@ -206,7 +200,6 @@ hot	hot	0	0	1	0
 hot	caliente	0	0	1	0
 sabiedrībai	society	0	0	1	0
 sabiedrībai	public	0	0	1	0
-dažādiem	different	0	0	1	0
 dažādiem	a few of	0	0	1	0
 piemērotu	a suitable	0	0	1	0
 parādīšanās	appearance	0	0	1	1
@@ -243,7 +236,6 @@ kandela	candela	1	1	0	0
 atklāt	discover	0	0	1	1
 izredzes	odds	0	0	1	1
 saeimas	parliamentary	0	0	1	0
-depresija	despression	0	0	1	0
 depresija	deprisija	0	0	1	0
 depresija	depression	0	0	1	1
 atklāj	reveals	0	0	1	0
@@ -259,7 +251,6 @@ cilvēkam	people	0	0	1	0
 augļu	fruit	0	0	1	0
 augļu	the fruit of the	0	0	1	0
 pieprasīt	be claimed	0	0	1	0
-izpratnes	understanding	0	0	1	0
 vara	power	0	0	1	1
 restaurācijas	restoration	0	0	1	0
 janvāra	january	0	0	1	0
@@ -299,7 +290,7 @@ dzeju	poetry	0	0	1	0
 matiss	matisse	0	0	1	0
 vielmaiņas	metabolic	0	0	1	0
 dzeja	poetry	0	0	1	1
-uzbūve	structure	0	0	1	1
+antarktīda	antarctica	0	0	1	0
 guva	scored	0	0	1	0
 sabiedrību	society	0	0	1	0
 sabiedrību	community	0	0	1	0
@@ -343,12 +334,11 @@ slavenākie	famous	0	0	1	0
 sēdē	session	0	0	1	0
 deputātus	member	0	0	1	0
 deputātus	deputies	0	0	1	0
-deputātus	members of	0	0	1	0
 pirmskara	before war	0	0	1	0
 pirmskara	prewar	0	0	1	0
 tālaika	lalaika	0	0	1	0
 tālaika	that time	0	0	1	0
-vieta	place	0	0	1	1
+nauda	money	0	0	1	1
 varš	vars	0	0	1	0
 naudu	money	0	0	1	0
 dzejā	poetry	0	0	1	0
@@ -372,6 +362,9 @@ xix	xix	0	0	1	0
 pusēm	sides	0	0	1	0
 pusēm	parties	0	0	1	0
 grādos	degrees	0	0	1	0
+prezidents	president	1	1	1	1
+prezidents	hormone	1	0	1	0
+prezidents	harmon	1	0	1	0
 sekmēja	contributed	0	0	1	0
 tādā	tada	0	0	1	0
 tādā	in	0	0	1	0
@@ -384,7 +377,6 @@ apvienojās	merge	0	0	1	0
 apvienojās	merged	0	0	1	0
 zviedru	swedish	0	0	1	1
 māsa	sister	0	0	1	1
-māsa	mass	0	0	1	0
 litosfēra	lithosphere	1	1	0	0
 litosfēra	zolo	1	0	1	0
 saistība	connection	0	0	1	1
@@ -393,8 +385,8 @@ nākamajā	the next	0	0	1	0
 nākamajā	next	0	0	1	0
 deklarāciju	declaration	0	0	1	0
 šveicē	switzerland	0	0	1	0
-saistību	commitment	0	0	1	0
 saistību	liabilities is	0	0	1	0
+saistību	commitment	0	0	1	0
 zviedri	swedes	0	0	1	0
 astronomijā	astronomy	0	0	1	0
 pārdošanas	largest selling	0	0	1	0
@@ -408,7 +400,6 @@ sasniegt	reached	0	0	1	0
 sasniegt	achieve	0	0	1	1
 iestādes	authorities	0	0	1	0
 iestādes	institutions	0	0	1	0
-iestādes	establishments	0	0	1	0
 magnētiskās	magnetic	0	0	1	0
 neatbilst	not	0	0	1	0
 priežu	pine	0	0	1	0
@@ -432,7 +423,6 @@ dibināts	founded in	0	0	1	0
 aļaskas	alaska	0	0	1	0
 vadīja	led by	0	0	1	0
 vadīja	managed	0	0	1	0
-lpp	p	0	0	1	0
 lpp	ipp	0	0	1	0
 dibināta	founded in	0	0	1	0
 ierašanās	arrival	0	0	1	1
@@ -467,7 +457,7 @@ atklāšanas	atklasanas	0	0	1	0
 atklāšanas	discovery	0	0	1	0
 spektrs	spectrum	0	0	1	0
 termiskās	thermal	0	0	1	0
-plato	plateau	0	0	1	1
+piekrastē	coast	0	0	1	0
 metodes	methods	0	0	1	0
 melnajiem	black	0	0	1	0
 bijušas	has had	0	0	1	0
@@ -483,10 +473,10 @@ bruņurupuči	turtle	0	0	1	0
 prefektūra	prefecture	0	0	1	1
 gribēja	wanted	0	0	1	0
 gribēja	gripeja	0	0	1	0
+arheoloģiskie	archaeological	0	0	1	0
 sauc	is called	0	0	1	0
 sauc	called	0	0	1	0
 nacionālajā	national	0	0	1	0
-nacionālajā	at national	0	0	1	0
 variācijas	variations	0	0	1	0
 proletariāts	cut	1	0	1	0
 proletariāts	clipping	1	0	1	0
@@ -522,7 +512,6 @@ starus	rays	0	0	1	0
 xvi	xvi	0	0	1	0
 izbeigt	end	0	0	1	1
 pieņemot	pienemot	0	0	1	0
-pieņemot	assuming	0	0	1	0
 iznāca	came out	0	0	1	0
 iznāca	reaching	0	0	1	0
 olbaltumvielas	protein	0	0	1	0
@@ -534,8 +523,7 @@ pamatiedzīvotāji	indigenous	0	0	1	0
 sniedza	provided	0	0	1	0
 sniedza	offered	0	0	1	0
 novembra	november	0	0	1	0
-statujas	statues	0	0	1	0
-statujas	statue	0	0	1	0
+augstsprieguma	high	0	0	1	0
 lietotie	lietotie	0	0	1	0
 lietotie	used in	0	0	1	0
 lietotie	used	0	0	1	0
@@ -546,14 +534,12 @@ vēlāk	later	0	0	1	1
 krievijā	russia	0	0	1	0
 tādas	a	0	0	1	0
 tādas	tadas	0	0	1	0
-līcis	led the	0	0	1	0
 līcis	bay	0	0	1	1
 stāsta	story	0	0	1	0
 stāsta	tells	0	0	1	0
 nosūtīt	to send	0	0	1	0
 nosūtīt	send	0	0	1	1
 nenozīmē	not	0	0	1	0
-nenozīmē	not to	0	0	1	0
 nenozīmē	does not mean	0	0	1	0
 tuksnesī	tuksnesi	0	0	1	0
 tuksnesī	desert	0	0	1	0
@@ -562,8 +548,8 @@ stāsts	story	0	0	1	1
 amatniecības	artisanal	0	0	1	0
 amatniecības	crafts	0	0	1	0
 stāstu	story	0	0	1	0
-ēras	eras	0	0	1	0
 ēras	era	0	0	1	0
+ēras	eras	0	0	1	0
 kristieši	christian	0	0	1	0
 kristieši	christians	0	0	1	0
 hokaido	hokkaido	0	0	1	0
@@ -618,7 +604,6 @@ piekraste	veil or abash	1	0	1	0
 piekraste	coast	1	1	1	1
 kandinskis	kandinsky	0	0	1	0
 dots	given	0	0	1	0
-aizvēsture	prehistroy	0	0	1	0
 aizvēsture	prehistory	0	0	1	0
 life	life	0	0	1	0
 dotu	would	0	0	1	0
@@ -672,7 +657,6 @@ saglabāt	maintain	0	0	1	1
 saistītās	related	0	0	1	0
 saistītās	-related	0	0	1	0
 būvētas	built	0	0	1	0
-atbildīgs	responsible	0	0	1	1
 atbildīgs	liable	0	0	1	1
 krieviju	russia	0	0	1	0
 milzīgas	huge	0	0	1	0
@@ -764,7 +748,6 @@ for	for	0	0	1	0
 mēnesi	month	0	0	1	0
 meņģeles	mengele	0	0	1	0
 vēlreiz	again	0	0	1	1
-vairākos	in several	0	0	1	0
 vairākos	more	0	0	1	0
 partijas	party	0	0	1	0
 absolūtais	the absolute	0	0	1	0
@@ -798,7 +781,6 @@ annas	anna	0	0	1	0
 definēt	define members	0	0	1	0
 definēt	define	0	0	1	1
 modernā	modern	0	0	1	0
-pievēršas	adresses	0	0	1	0
 pievēršas	tackled by	0	0	1	0
 pievēršas	address	0	0	1	0
 o	o	0	0	1	0
@@ -807,7 +789,6 @@ plešas	stretches	0	0	1	0
 atkal	again	0	0	1	1
 ieguvusi	acquired	0	0	1	0
 pāreju	transition	0	0	1	0
-pāreju	a shift	0	0	1	0
 vispārējā	vispareja	0	0	1	0
 vispārējā	general	0	0	1	0
 dienvidaustrumos	southeast	0	0	1	0
@@ -823,7 +804,6 @@ komanda	command	0	0	1	1
 komanda	team	0	0	1	1
 kategorijas	categories	0	0	1	0
 lielvarām	powers	0	0	1	0
-šāda	this	0	0	1	0
 šāda	section	0	0	1	0
 norādot	by country of origin	0	0	1	0
 norādot	indicating	0	0	1	0
@@ -841,7 +821,6 @@ reģions	regiones	1	0	1	0
 reģions	regions	1	0	1	0
 reģions	region	1	1	0	0
 reģions	write	1	0	1	0
-šādu	the	0	0	1	0
 šādu	sadu	0	0	1	0
 galaktikām	but there are also dwarf. spiraveida normal galaxies (s)	0	0	1	0
 galaktikām	this galaxy spiral arms are formed   from centran but barred spiral galaxies (sb)	0	0	1	0
@@ -1007,7 +986,6 @@ jūrascūciņas	by jurascucin	1	0	1	0
 vairākiem	of numerous	0	0	1	0
 vairākiem	more	0	0	1	0
 izraēlas	israel	0	0	1	0
-izraēlas	israeli	0	0	1	0
 simti	hundred and	0	0	1	0
 filozofiskā	philosophical	0	0	1	0
 zaudējumi	loss	0	0	1	0
@@ -1031,7 +1009,6 @@ kāda	at some	0	0	1	0
 īpašības	properties	0	0	1	0
 apritē	movement	0	0	1	0
 sakņojas	rooted in	0	0	1	0
-address	address	0	0	1	0
 galileo	galileo	0	0	1	0
 esošo	the	0	0	1	0
 esošo	exist	0	0	1	0
@@ -1081,7 +1058,6 @@ filma	film	0	0	1	1
 nomainīja	changed	0	0	1	0
 viesuļvētras	hurricane	0	0	1	0
 tuksneši	desert	0	0	1	0
-tuksneši	deserts	0	0	1	0
 sadalīt	split	0	0	1	0
 paveids	type	0	0	1	0
 paveids	type of	0	0	1	0
@@ -1091,7 +1067,7 @@ aldehīdi	aldehidi	1	0	1	0
 aldehīdi	considering	1	0	1	0
 aldehīdi	mad	1	0	1	0
 aldehīdi	aldehyde	1	1	0	0
-saviem	their	0	0	1	0
+viceprezidents	vice president	0	0	1	0
 filmu	ml | a	0	0	1	0
 filmu	film	0	0	1	0
 iznīcināta	destroyed	0	0	1	0
@@ -1110,7 +1086,7 @@ pievienojot	by adding	0	0	1	0
 pretoties	resist	0	0	1	1
 turaidas	turaida	0	0	1	0
 laikā	time	0	0	1	0
-politika	policy	0	0	1	1
+transformatorus	transformers	0	0	1	0
 atkarība	dependence	0	0	1	1
 atkarība	depending	0	0	1	0
 zemniekiem	farmers	0	0	1	0
@@ -1119,7 +1095,6 @@ absolūtā	the absolute	0	0	1	0
 absolūtā	absolute	0	0	1	0
 reģioniem	regions	0	0	1	0
 ziņām	news	0	0	1	0
-ziņām	know	0	0	1	0
 ivanovs	ivanov	0	0	1	0
 īstenoja	implemented	0	0	1	0
 vēstule	letter	0	0	1	1
@@ -1131,7 +1106,6 @@ zaudē	zuade	0	0	1	0
 zaudē	lose	0	0	1	0
 kalnā	mount	0	0	1	0
 kalnā	hill	0	0	1	0
-orgāni	organization	0	0	1	0
 orgāni	organs	0	0	1	0
 izdalās	excreted	0	0	1	0
 izdalās	izadalas	0	0	1	0
@@ -1140,6 +1114,7 @@ savos	their	0	0	1	0
 savos	own	0	0	1	0
 arhitektūra	important growth	0	0	1	0
 arhitektūra	architecture	0	0	1	1
+kopiena	community	0	0	1	1
 konstatēts	found	0	0	1	0
 kandidāts	candidate for	0	0	1	0
 kandidāts	candidate	0	0	1	1
@@ -1217,9 +1192,8 @@ galotnes	galotnes	0	0	1	0
 lūgšanas	prayer	0	0	1	0
 attēlu	picture	0	0	1	0
 uzlabotu	improve	0	0	1	0
-absorbē	absorb the	0	0	1	0
-absorbē	absorbed	0	0	1	0
 absorbē	absorb	0	0	1	0
+absorbē	absorbed	0	0	1	0
 prizmas	prismatic	0	0	1	1
 republiku	republic	0	0	1	0
 itālijas	in italy	0	0	1	0
@@ -1301,8 +1275,7 @@ galvenais	main	0	0	1	1
 hipotēze	hypothesis	0	0	1	1
 darbībai	operation	0	0	1	0
 darbības	activity	0	0	1	0
-saņēma	recieved	0	0	1	0
-saņēma	received the	0	0	1	0
+maksāja	paid	0	0	1	0
 kategorijagrieķu	category	0	0	1	0
 kategorijagrieķu	kategorijagrieku	0	0	1	0
 sociālo	social	0	0	1	0
@@ -1313,13 +1286,10 @@ iliāda	iliad	0	0	1	0
 lībieši	liv	0	0	1	0
 uzstājās	perform	0	0	1	0
 uzstājās	who spoke	0	0	1	0
-prezidents	president	1	1	1	1
-prezidents	hormone	1	0	1	0
-prezidents	harmon	1	0	1	0
+palikusi	remained	0	0	1	0
 prezidentu	president	0	0	1	0
 elektriskās	electrical	0	0	1	0
 organismam	the body	0	0	1	0
-organismam	bodies	0	0	1	0
 jebkādu	any	0	0	1	0
 prezidenti	president	0	0	1	0
 prezidenti	presidents	0	0	1	0
@@ -1328,9 +1298,9 @@ prezidenta	presidential	0	0	1	1
 prezidente	president	0	0	1	0
 prezidente	unfit [a	0	0	1	0
 izdota	issued	0	0	1	0
-vajadzētu	vazadzetu	0	0	1	0
-vajadzētu	there should	0	0	1	0
 vajadzētu	should	0	0	1	0
+vajadzētu	there should	0	0	1	0
+vajadzētu	vazadzetu	0	0	1	0
 starptautiskie	international	0	0	1	0
 pastāvēja	there	0	0	1	0
 pastāvēja	there was	0	0	1	0
@@ -1383,10 +1353,8 @@ daļiņām	particulate matter be	0	0	1	0
 daļiņām	dajinam	0	0	1	0
 apkārtnes	the surrounding	0	0	1	0
 apkārtnes	neighborhood	0	0	1	0
-krasi	sharp	0	0	1	1
 norvēģijas	norwegian	0	0	1	0
 paredzētas	for	0	0	1	0
-paredzētas	include measures	0	0	1	0
 burtiem	letters	0	0	1	0
 pauda	said	0	0	1	0
 warriors	warriors	0	0	1	0
@@ -1418,11 +1386,9 @@ pārstāvjiem	government officials	0	0	1	0
 abus	two	0	0	1	0
 pirmo	pirmo	0	0	1	0
 pirmo	first	0	0	1	0
-failu	failu	0	0	1	0
-failu	file	0	0	1	0
+mekas	mecca	0	0	1	0
 atļaujas	aljaujas	0	0	1	0
 atļaujas	permit	0	0	1	0
-zīda	silk	0	0	1	1
 zīda	nylon	0	0	1	0
 fosilijas	care	1	0	1	0
 fosilijas	fossils	1	1	0	0
@@ -1483,7 +1449,6 @@ federālās	federal	0	0	1	0
 federālās	federalias	0	0	1	0
 standarts	standard	0	0	1	1
 trīsdesmit	thirty	0	0	1	1
-koledžu	college	0	0	1	0
 sēžu	meetings	0	0	1	0
 izgatavoja	made	0	0	1	0
 karaliste	kingdom	0	0	1	1
@@ -1523,7 +1488,7 @@ savienojuma	saviennojuma	0	0	1	0
 savienojuma	connection	0	0	1	0
 reģionus	regions	0	0	1	0
 mjanmas	myanmar	0	0	1	0
-dalībvalsts	member	0	0	1	0
+ģeoloģijas	geology	0	0	1	0
 poļu	polish	0	0	1	0
 poļu	pole	0	0	1	0
 bāzes	base	0	0	1	0
@@ -1535,7 +1500,6 @@ fonētika	units	1	0	1	0
 fonētika	phonetics	1	1	0	1
 fonētika	identities	1	0	1	0
 fonētika	astronomical unite	1	0	1	0
-anglijā	anguilla	0	0	1	0
 anglijā	england	0	0	1	0
 nekādu	not	0	0	1	0
 nekādu	never	0	0	1	0
@@ -1550,8 +1514,8 @@ maķedoniešu	macedonian	0	0	1	0
 domu	the idea	0	0	1	0
 nebūtu	would not	0	0	1	0
 mans	my	0	0	1	1
-sadarbību	cooperation	0	0	1	0
 sadarbību	co-operation	0	0	1	0
+sadarbību	cooperation	0	0	1	0
 pilsētām	cities	0	0	1	0
 politiskais	political	0	0	1	0
 mana	my	0	0	1	0
@@ -1569,7 +1533,6 @@ prēmijas	bonuses	0	0	1	0
 henrijs	henrijs	0	0	1	0
 henrijs	henry	0	0	1	0
 veidiem	types of	0	0	1	0
-veidiem	type	0	0	1	0
 veidiem	types	0	0	1	0
 karoga	flag	0	0	1	0
 literatūras	literature	0	0	1	0
@@ -1586,7 +1549,6 @@ pazīme	sign	0	0	1	1
 atrasta	found	0	0	1	0
 atrasta	atrasta	0	0	1	0
 reducētājs	reduction	0	0	1	0
-reducētājs	reducetajs	0	0	1	0
 irāna	iran	0	0	1	0
 ieraksti	records	0	0	1	0
 gāja	went	0	0	1	0
@@ -1615,7 +1577,6 @@ trešās	third	0	0	1	0
 kazas	caprine	0	0	1	1
 kazas	goat	0	0	1	0
 aviācijas	aviation	0	0	1	0
-aviācijas	air	0	0	1	1
 gājiena	walking	0	0	1	0
 pasauli	world	0	0	1	0
 saknes	root	0	0	1	0
@@ -1637,7 +1598,7 @@ domā	thought	0	0	1	0
 domā	think	0	0	1	0
 einšteina	einstein	0	0	1	0
 vidusskola	vidussk0la	0	0	1	0
-vidusskola	high school	0	0	1	1
+vidusskola	high school	0	0	1	0
 jaunzēlande	new zealand	0	0	1	0
 dimantam	diamond	0	0	1	0
 wilhelm	wilhelm	0	0	1	0
@@ -1655,7 +1616,6 @@ komunismu	communism	0	0	1	0
 izvietot	place	0	0	1	1
 izvietot	location	0	0	1	0
 ņūtons	newton	0	0	1	0
-plūst	flow	0	0	1	1
 plūst	flowing	0	0	1	0
 skaņdarbus	pieces	0	0	1	0
 īstenībā	in reality	0	0	1	0
@@ -1726,7 +1686,6 @@ ietekas	ietekas	0	0	1	0
 ietekas	estuary	0	0	1	0
 dark	dark	0	0	1	0
 novērojumiem	observations of	0	0	1	0
-novērojumiem	observation	0	0	1	0
 pārējiem	other	0	0	1	0
 pārējiem	others	0	0	1	0
 world	world	0	0	1	0
@@ -1742,8 +1701,8 @@ jaunība	youth	0	0	1	1
 tradīciju	tradition	0	0	1	0
 brīvie	free to	0	0	1	0
 brīvie	free	0	0	1	0
-valmiera	valmiera	0	0	1	0
 valmiera	valmiera: a name	0	0	1	0
+valmiera	valmiera	0	0	1	0
 struktūra	structure	0	0	1	1
 tradīcija	tradition	0	0	1	1
 sausums	dry	1	1	0	1
@@ -1803,7 +1762,6 @@ romantisms	romanticism	0	0	1	1
 dēvī	devi	0	0	1	0
 dēvī	nine	0	0	1	0
 kontinenta	continental	0	0	1	1
-kontinenta	kontinenta	0	0	1	0
 kontinentu	continent	0	0	1	0
 kontinents	continent	0	0	1	1
 pašiem	the same	0	0	1	0
@@ -1818,14 +1776,12 @@ mūzikai	music	0	0	1	0
 kurai	which	0	0	1	0
 acs	eye	0	0	1	1
 mūzikas	music	0	0	1	0
-acu	eye	0	0	1	0
+dēvē	call	0	0	1	0
+dēvē	deve	0	0	1	0
 kuras	which	0	0	1	0
 apgaismojums	lighting	0	0	1	1
-telpās	indoors	0	0	1	1
 telpās	area	0	0	1	0
-rokām	hands	0	0	1	0
-rokām	rock	0	0	1	0
-dalībvalstis	member states	0	0	1	0
+cīņām	year attributable	0	0	1	0
 dalībvalstis	dalibvalstis	0	0	1	0
 politiskie	political	0	0	1	0
 image	imaje	0	0	1	0
@@ -1837,7 +1793,6 @@ patērē	consume	0	0	1	0
 vispirms	first	0	0	1	1
 būvniecība	construction	0	0	1	0
 būvniecība	in construction	0	0	1	0
-būvniecība	in building industry	0	0	1	0
 ceturtdaļas	quarters	0	0	1	0
 tradīcijā	tradition	0	0	1	0
 sholastika	nehru	1	0	1	0
@@ -1856,7 +1811,6 @@ hes	hpp - hydroelectric power plant	0	0	1	0
 hes	hes	0	0	1	0
 starptautiskās	international	0	0	1	0
 starptautiskās	starptautiskas	0	0	1	0
-ceļa	the road	0	0	1	0
 ceļa	road	0	0	1	0
 ceļa	ce | a	0	0	1	0
 firmas	firm	0	0	1	0
@@ -1893,7 +1847,6 @@ haizivīm	shark	0	0	1	0
 tālākai	further	0	0	1	0
 tālākai	further development of	0	0	1	0
 cauruma	hole	0	0	1	0
-indiešu	indians	0	0	1	0
 indiešu	indian	0	0	1	0
 režīmā	rezima	0	0	1	0
 režīmā	mode	0	0	1	0
@@ -1920,11 +1873,9 @@ sešu	of six	0	0	1	0
 an	an	0	0	1	0
 ap	about	0	0	1	1
 as	as	0	0	1	0
-as	s	0	0	1	0
 ar	with	0	0	1	1
 at	at	0	0	1	0
 piesaistīja	attracted	0	0	1	0
-piesaistīja	involved	0	0	1	0
 palielināja	increased the	0	0	1	0
 modeļi	models	0	0	1	0
 modeļi	model	0	0	1	0
@@ -1971,7 +1922,6 @@ džoisa	joyce	0	0	1	0
 kustību	motion	0	0	1	0
 kustību	movement	0	0	1	0
 neparasti	unusual	0	0	1	0
-neparasti	abnormally	0	0	1	0
 malā	edge	0	0	1	0
 malā	aside	0	0	1	1
 merķelis	merkel	0	0	1	0
@@ -2026,10 +1976,8 @@ savienotās	connected	0	0	1	0
 savienotās	connection...	0	0	1	0
 padomi	advice	0	0	1	0
 padomi	board	0	0	1	0
-dzīlēs	depths	0	0	1	0
 dzīlēs	depth	0	0	1	0
 padome	council	0	0	1	1
-tādās	such	0	0	1	0
 tādās	tadas	0	0	1	0
 okeāna	ocean	0	0	1	0
 samoa	samoa	0	0	1	0
@@ -2042,7 +1990,6 @@ okeāns	ocean	0	0	1	1
 zīmju	mark	0	0	1	0
 okeānu	ocean	0	0	1	0
 uzsāka	started	0	0	1	0
-uzsāka	started work	0	0	1	0
 aizvada	removed	0	0	1	0
 aizvada	holds	0	0	1	0
 aizvada	is removed	0	0	1	0
@@ -2066,6 +2013,8 @@ adaptācija	meanings	1	0	1	0
 adaptācija	adaptation	1	1	0	1
 attīsta	develops	0	0	1	0
 uzskatāmi	considered	0	0	1	0
+ievērojams	hold considerable	0	0	1	0
+ievērojams	significant	0	0	1	1
 uzskatāms	regarded	0	0	1	0
 beļģija	belgium	0	0	1	0
 transkripcija	transcription	0	0	1	1
@@ -2093,7 +2042,7 @@ rietumiem	west	0	0	1	0
 vii	vii	0	0	1	0
 padomē	council	0	0	1	0
 juridiski	legally	0	0	1	0
-protams	of course	0	0	1	1
+protams	of course	0	0	1	0
 maģijas	magic	0	0	1	0
 ministrijas	ministry	0	0	1	0
 ķermeni	body	0	0	1	0
@@ -2108,7 +2057,6 @@ aprakstīts	described	0	0	1	0
 budistu	buddhist	0	0	1	0
 kluso	quiet	0	0	1	0
 ražošanu	razosanu	0	0	1	0
-ražošanu	production	0	0	1	0
 nīderlandiešu	netherlands	0	0	1	0
 nīderlandiešu	niderlandiesu	0	0	1	0
 nīderlandiešu	dutch	0	0	1	0
@@ -2149,8 +2097,8 @@ pienākumu	responsibilities	0	0	1	0
 pienākumu	pienakumu	0	0	1	0
 lielajām	large	0	0	1	0
 hugo	hugo	0	0	1	0
-beļģijā	belgium	0	0	1	0
 beļģijā	in belgium	0	0	1	0
+beļģijā	belgium	0	0	1	0
 lielajās	large	0	0	1	0
 nedrīkst	should not be	0	0	1	0
 kategorijaeiropas	categories	0	0	1	0
@@ -2166,7 +2114,7 @@ konflikts	given	1	0	1	0
 konflikts	fixed	1	0	1	0
 konflikts	conflict	1	1	1	1
 konflikts	konflict	1	1	0	0
-mērvienību	units	0	0	1	0
+konfliktu	conflict	0	0	1	0
 finanšu	financial	0	0	1	0
 kārlis	karlis	0	0	1	0
 kārlis	karl	0	0	1	0
@@ -2194,6 +2142,7 @@ aktivitātēm	activities	0	0	1	0
 aktivitātēm	activities for	0	0	1	0
 pieslēdz	connected	0	0	1	0
 jelgavas	jelgava	0	0	1	0
+html	html	0	0	1	0
 sešiem	six	0	0	1	0
 sauca	called	0	0	1	0
 sauca	cried	0	0	1	0
@@ -2277,7 +2226,6 @@ jozefs	joseph	0	0	1	0
 izmēra	sized	0	0	1	0
 ō	o: symbol of omega	0	0	1	0
 ō	o	0	0	1	0
-jaunāko	most recent	0	0	1	0
 jaunāko	's most recent	0	0	1	0
 jaunāko	latest	0	0	1	0
 papildu	additional	0	0	1	1
@@ -2302,7 +2250,7 @@ xii	xii	0	0	1	0
 vēsturei	history	0	0	1	0
 uzvedību	behaviors	0	0	1	0
 uzvedību	conduct of	0	0	1	0
-uzreiz	at once	0	0	1	1
+uzreiz	at once	0	0	1	0
 strādāt	to work	0	0	1	0
 mēnešus	in days	0	0	1	0
 slimnīcā	hospital	0	0	1	0
@@ -2329,7 +2277,6 @@ teritorijās	areas	0	0	1	0
 teritorijās	area	0	0	1	0
 atrodoties	atrodoties	0	0	1	0
 atrodoties	when	0	0	1	0
-šajā	this	0	0	1	0
 šajā	during this	0	0	1	0
 pieauguma	growth	0	0	1	0
 ekomercijas	e-commerce	0	0	1	0
@@ -2340,7 +2287,6 @@ nodeva	toll	0	0	1	1
 gadalaiki	seasons	0	0	1	0
 parlamentam	parliament	0	0	1	0
 ūdensceļš	waterway	0	0	1	0
-ūdensceļš	cidenscs	0	0	1	0
 igauņu	igaunu	0	0	1	0
 igauņu	estonian	0	0	1	0
 obama	obama	0	0	1	0
@@ -2357,11 +2303,10 @@ vienādas	the same	0	0	1	0
 vienādas	all of the	0	0	1	0
 mūzika	music	0	0	1	1
 paātrinājums	acceleration	1	1	1	1
-paātrinājums	lemumuspaatrinajums	1	0	1	0
-paātrinājums	bachelorette	1	0	1	0
 paātrinājums	virgin	1	0	1	0
 paātrinājums	bachelor	1	0	1	0
-paātrinājums	accelerometers	1	0	1	0
+paātrinājums	bachelorette	1	0	1	0
+paātrinājums	lemumuspaatrinajums	1	0	1	0
 ligzdošanas	nesting	0	0	1	0
 telpas	area	0	0	1	0
 molibdēns	entry	1	0	1	0
@@ -2380,8 +2325,8 @@ atšķirīgas	different	0	0	1	0
 atšķirīgas	differentiation is	0	0	1	0
 sargi	guards	0	0	1	0
 līga	league	0	0	1	1
-iecirknis	district	0	0	1	1
 iecirknis	circuit	0	0	1	1
+iecirknis	district	0	0	1	1
 matērija	matter	0	0	1	1
 matērija	materia	0	0	1	0
 nogalināti	killed	0	0	1	0
@@ -2397,6 +2342,7 @@ microsoft	microsoft	0	0	1	0
 katedrāles	cathedral	0	0	1	0
 katedrāles	katedrales	0	0	1	0
 tālu	far	0	0	1	1
+kājas	feet	0	0	1	0
 sezona	season	0	0	1	1
 atkāpties	atkapties	0	0	1	0
 atkāpties	retreat	0	0	1	1
@@ -2414,7 +2360,6 @@ aizsarggrāvis	moat	1	1	0	0
 aizsarggrāvis	court	1	0	1	0
 aizsarggrāvis	airsaggravis	1	0	1	0
 ziemeļudienvidu	ziemeludienvidu	0	0	1	0
-ziemeļudienvidu	north-south	0	0	1	0
 vakuumā	a vacuum	0	0	1	0
 vakuumā	vacuum	0	0	1	0
 ezerā	lake	0	0	1	0
@@ -2484,7 +2429,7 @@ attiecīgās	appropriate	0	0	1	0
 novērots	observed	0	0	1	0
 pirmos	primus	0	0	1	0
 pirmos	first	0	0	1	0
-dienvidus	south	0	0	1	0
+rietumi	west	0	0	1	1
 paņēmienus	techniques	0	0	1	0
 rakstīja	wrote	0	0	1	0
 gūstot	gaining	0	0	1	0
@@ -2496,8 +2441,8 @@ mutes	oral	0	0	1	1
 nogalē	weekends	0	0	1	0
 novērošanas	noverosanas	0	0	1	0
 novērošanas	by noverosan	0	0	1	0
-cieņu	sincerely	0	0	1	0
 cieņu	respect	0	0	1	0
+cieņu	sincerely	0	0	1	0
 būt	to be	0	0	1	0
 būt	but	0	0	1	0
 labklājības	well-being	0	0	1	0
@@ -2520,7 +2465,6 @@ laikiem	unnecessary	0	0	1	0
 laikiem	times	0	0	1	0
 nebūs	not	0	0	1	0
 nebūs	will not be	0	0	1	0
-nebūs	will not	0	0	1	0
 ādams	adam	1	1	0	0
 ādams	good	1	0	1	0
 ādams	adams	1	0	1	0
@@ -2585,7 +2529,6 @@ marmora	marble	0	0	1	0
 svarīgāko	most significant	0	0	1	0
 svarīgāko	the most important	0	0	1	0
 projektiem	projects	0	0	1	0
-vidēji	average of	0	0	1	0
 von	von	0	0	1	0
 viņai	her a	0	0	1	0
 viņai	her	0	0	1	1
@@ -2628,7 +2571,6 @@ izskatu	appearance	0	0	1	0
 mitoloģija	mythologist	0	0	1	0
 mitoloģija	mythology	0	0	1	1
 senajos	in ancient	0	0	1	0
-kristietībā	in christianity	0	0	1	0
 kristietībā	christianity	0	0	1	0
 dzimšanas	birthday	0	0	1	0
 augstāk	above	0	0	1	0
@@ -2676,7 +2618,6 @@ atšķirīga	different	0	0	1	0
 atšķirīga	differentiation is	0	0	1	0
 netiks	not	0	0	1	0
 aiziešanas	aizesanas	0	0	1	0
-aiziešanas	leaving	0	0	1	0
 izpaužas	manifested	0	0	1	0
 populārākajiem	the most popular	0	0	1	0
 populārākajiem	most popular	0	0	1	0
@@ -2695,18 +2636,15 @@ ienaidnieku	enemy	0	0	1	0
 novērstu	prevent	0	0	1	0
 novērstu	dismantlement of	0	0	1	0
 būtnes	being	0	0	1	0
-būtnes	beings	0	0	1	0
 virzieniem	directions	0	0	1	0
 atgriezies	back	0	0	1	0
 acinonyx	acinonyx	0	0	1	0
-garā	along	0	0	1	0
 garā	long	0	0	1	0
 kukaiņiem	insects	0	0	1	0
 kukaiņiem	insect	0	0	1	0
 zinātniekiem	scientists	0	0	1	0
 kategorijaitāliešu	kategorijaitaliesu	0	0	1	0
 hinduisms	hinduism	0	0	1	0
-hinduisms	hiduisms	0	0	1	0
 pavisam	total	0	0	1	0
 pavisam	quite	0	0	1	1
 lietotas	used	0	0	1	0
@@ -2731,7 +2669,6 @@ telpa	category: incomplete	1	0	1	0
 telpa	based videos full	1	0	1	0
 telpa	space	1	1	1	1
 robežām	boundaries	0	0	1	0
-robežām	borders	0	0	1	0
 grāmatas	books	0	0	1	0
 bk	bk	0	0	1	0
 iestāšanos	membership	0	0	1	0
@@ -2807,7 +2744,6 @@ mikēnas	mykonos	0	0	1	0
 uz	to	0	0	1	1
 cik	how	0	0	1	1
 ieroču	weapons	0	0	1	0
-ieroču	arms	0	0	1	0
 up	up	0	0	1	0
 pārstāja	stopped	0	0	1	0
 piedalīties	partcipate	0	0	1	0
@@ -2839,7 +2775,6 @@ sēklas	shallow	0	0	1	0
 sēklas	seeds	0	0	1	0
 pieņēma	passed	0	0	1	0
 lielākajām	's largest	0	0	1	0
-lielākajām	largest	0	0	1	0
 hordaiņi	qari	1	0	1	0
 hordaiņi	chord	1	0	1	0
 hordaiņi	hordaini	1	0	1	0
@@ -2855,7 +2790,6 @@ nīderlandes	niderlandes	0	0	1	0
 pasuga	a variety of	0	0	1	0
 patskani	vowel	0	0	1	0
 aktivitātes	activities in	0	0	1	0
-apzīmē	stands for	0	0	1	0
 apzīmē	obligatiory	0	0	1	0
 postmodernisma	postmodernism	0	0	1	0
 θ	θ	0	0	1	0
@@ -2900,7 +2834,6 @@ sānu	lateral	0	0	1	1
 debesīs	sky	0	0	1	0
 konservatīvisms	conservatism	0	0	1	1
 čempionāta	championships	0	0	1	0
-čempionāta	championship	0	0	1	0
 vārtu	gate	0	0	1	0
 vārtu	vartu	0	0	1	0
 karaspēkam	troops	0	0	1	0
@@ -2912,8 +2845,8 @@ sirēnas	aside	1	0	1	0
 nodokļus	duty shall	0	0	1	0
 seno	the ancient	0	0	1	0
 seno	ancient	0	0	1	0
-sociāldemokrātu	social democratic	0	0	1	0
 sociāldemokrātu	social	0	0	1	0
+sociāldemokrātu	social democratic	0	0	1	0
 puslode	hemisphere	1	1	0	1
 sena	an ancient	0	0	1	0
 nepastāvēja	did not exist	0	0	1	0
@@ -2963,7 +2896,6 @@ lauksaimniecībā	agriculture	0	0	1	0
 efektīvi	effectively	0	0	1	0
 efektīvi	effectiveness	0	0	1	0
 koncentrējās	focuses	0	0	1	0
-koncentrējās	focused	0	0	1	0
 vides	environment	0	0	1	0
 īrija	ireland	0	0	1	0
 daudzu	many	0	0	1	0
@@ -2972,18 +2904,16 @@ video	video	0	0	1	0
 uzņēmumos	in enterprises	0	0	1	0
 arābijā	arabia	0	0	1	0
 arābijā	arabija	0	0	1	0
-slaveno	famous	0	0	1	0
+teritorija	territory	0	0	1	1
 laivu	boat	0	0	1	0
 nabadzību	poverty	0	0	1	0
 priekšmetiem	items	0	0	1	0
-priekšmetiem	priektmetiem	0	0	1	0
 varenību	power of	0	0	1	0
 amerikā	america	0	0	1	0
 septembrī	september	0	0	1	0
 veidotas	created	0	0	1	0
 pilda	perform	0	0	1	0
 pilda	aprĕkinats	0	0	1	0
-uzņēmumiem	businesses	0	0	1	0
 uzņēmumiem	companies	0	0	1	0
 uzņēmumiem	office	0	0	1	0
 sūtīja	sent	0	0	1	0
@@ -3009,7 +2939,6 @@ draugiem	friends	0	0	1	0
 dažreiz	sometimes	0	0	1	1
 teikt	say	0	0	1	1
 teikt	striving	0	0	1	0
-paaudžu	generation	0	0	1	0
 paaudžu	generations	0	0	1	0
 procesā	process	0	0	1	0
 makjavelli	machiavelli	0	0	1	0
@@ -3028,8 +2957,6 @@ tējas	tee	0	0	1	0
 piešķir	grant	0	0	1	0
 piešķir	gives	0	0	1	0
 sugai	species	0	0	1	0
-vārds	nickname	0	0	1	0
-vārds	power	0	0	1	0
 konfliktus	conflicts	0	0	1	0
 šaha	sucrose	0	0	1	0
 matemātiķi	mathematician	0	0	1	0
@@ -3083,9 +3010,7 @@ amerika	america	0	0	1	0
 ezeru	lakes	0	0	1	0
 jaunības	youth	0	0	1	0
 thumb|px|right|	thumb	0	0	1	0
-thumb|px|right|	thumb | px | right |	0	0	1	0
 thumb|px|right|	thumb! pixels! right	0	0	1	0
-izveidošanas	up	0	0	1	0
 izveidošanas	setting up of	0	0	1	0
 ezera	lake	0	0	1	0
 izveidošanai	he establishment	0	0	1	0
@@ -3130,7 +3055,7 @@ feodālisms	part of the name of hutton gibson	1	0	1	0
 feodālisms	hutton	1	0	1	0
 feodālisms	eudalism	1	1	0	0
 feodālisms	feudalism	1	1	0	1
-vācijā	germany	0	0	1	0
+visaugstākais	superlative	0	0	1	1
 piedzīvoja	experienced	0	0	1	0
 tehniskais	technical	0	0	1	0
 feodālisma	feudalism	0	0	1	0
@@ -3145,7 +3070,6 @@ zinātnieks	scientist	0	0	1	1
 pilsoņu	citizens	0	0	1	0
 kakla	cervical	0	0	1	1
 zinātnieku	scientists	0	0	1	0
-izmantoti	used a	0	0	1	0
 izmantoti	used	0	0	1	0
 modernās	modern	0	0	1	0
 japānas	japan	0	0	1	0
@@ -3154,6 +3078,7 @@ dažus	dazus	0	0	1	0
 dažus	some	0	0	1	0
 darīt	do	0	0	1	1
 darīt	to do	0	0	1	0
+apgabali	areas	0	0	1	0
 kakls	neck	0	0	1	1
 kakls	cat	0	0	1	0
 izmantots	used	0	0	1	0
@@ -3187,7 +3112,6 @@ vi	vi	0	0	1	0
 vi	chemical formula	0	0	1	0
 gammas	gamma	0	0	1	0
 atsauces	references	0	0	1	0
-atsauces	reference	0	0	1	0
 ugunsgrēks	fire	0	0	1	1
 džons	john	0	0	1	0
 slāni	layer	0	0	1	0
@@ -3232,7 +3156,6 @@ melnās	black	0	0	1	0
 konstrukciju	construction	0	0	1	0
 parādības	occurrence	0	0	1	0
 parādības	phenomenon	0	0	1	0
-koalīcija	by koalicji	0	0	1	0
 koalīcija	coalition	0	0	1	1
 ihl	ihl	0	0	1	0
 diskogrāfija	discography	0	0	1	0
@@ -3242,7 +3165,6 @@ lībiju	libya	0	0	1	0
 monarhu	monarch	0	0	1	0
 monarhu	monarchs	0	0	1	0
 vilhelms	wilhelm	0	0	1	0
-vilhelms	vilhems	0	0	1	0
 pierakstīt	record	0	0	1	1
 realizē	exercise	0	0	1	0
 kalifornijas	california	0	0	1	0
@@ -3266,7 +3188,6 @@ raksturīgās	the characteristically	0	0	1	0
 pēkšņi	suddenly	0	0	1	1
 elite	elite	0	0	1	1
 saņemot	for receiving	0	0	1	0
-saņemot	receiving	0	0	1	0
 atklāta	restricted	0	0	1	0
 atklāta	open	0	0	1	0
 kurzemes	kurzeme	0	0	1	0
@@ -3314,8 +3235,6 @@ visu	all	0	0	1	0
 sadarbības	cooperation	0	0	1	0
 ekonomika	economics	0	0	1	1
 lauksaimniecību	agriculture	0	0	1	0
-jāizvēlas	choose	0	0	1	0
-jāizvēlas	jaizvelas	0	0	1	0
 visa	all	0	0	1	0
 visa	whole	0	0	1	0
 kategorijalatviešu	kategorijalatviesu	0	0	1	0
@@ -3337,10 +3256,9 @@ valdošie	prevailing	0	0	1	0
 ciklu	cycle	0	0	1	0
 saimes	family	0	0	1	0
 individuāli	individually	0	0	1	0
-desmiti	tens of	0	0	1	0
 desmiti	tens	0	0	1	0
+desmiti	tens of	0	0	1	0
 ivans	ivan	0	0	1	0
-naktī	at night	0	0	1	0
 naktī	night	0	0	1	0
 dāvids	davids	0	0	1	0
 dāvids	david	0	0	1	0
@@ -3353,7 +3271,7 @@ sastāvēja	consisted	0	0	1	0
 jah	yah	0	0	1	0
 starojumu	radiation	0	0	1	0
 starojums	radiation	0	0	1	0
-nejauši	by accident	0	0	1	1
+nejauši	by accident	0	0	1	0
 iedalīti	divided into	0	0	1	0
 iedalīta	divided into	0	0	1	0
 šekspīrs	shakespeare	0	0	1	0
@@ -3381,9 +3299,7 @@ septiņu	seotinu	0	0	1	0
 šim	sim	0	0	1	0
 ideju	the idea	0	0	1	0
 ideju	the idea of	0	0	1	0
-šie	these	0	0	1	1
 šie	the	0	0	1	0
-stāvokli	position	0	0	1	0
 stāvokli	condition	0	0	1	0
 merkura	mercury	0	0	1	0
 pārziņā	charge	0	0	1	0
@@ -3412,7 +3328,6 @@ datoram	computer	0	0	1	0
 fizikas	physics	0	0	1	0
 fizikas	pilda	0	0	1	0
 drošību	security	0	0	1	0
-drošību	safety issues	0	0	1	0
 fiziķi	physics	0	0	1	0
 fiziķi	physicists	0	0	1	0
 zīdītāji	mammals	0	0	1	0
@@ -3446,7 +3361,6 @@ marts	march	0	0	1	1
 iemesls	reason	0	0	1	1
 iemeslu	reasons	0	0	1	0
 iemesli	reasons	0	0	1	0
-iemesli	causes	0	0	1	0
 dezoksiribonukleīnskābe	dna	1	1	0	0
 dezoksiribonukleīnskābe	deoxyribonucleic acid	1	1	0	0
 dezoksiribonukleīnskābe	fielder	1	0	1	0
@@ -3454,7 +3368,7 @@ redzes	visual	0	0	1	1
 ironiju	irony	0	0	1	0
 marta	march	0	0	1	0
 iemesla	reason	0	0	1	0
-visaugstākais	superlative	0	0	1	1
+vācijā	germany	0	0	1	0
 dēlu	son	0	0	1	0
 šķērso	crossing	0	0	1	0
 šķērso	crosses	0	0	1	0
@@ -3491,7 +3405,8 @@ saistītie	related	0	0	1	0
 prātu	mind	0	0	1	0
 baktērijas	bacteria	0	0	1	0
 nākamā	next	0	0	1	0
-basketbolu	basketball	0	0	1	0
+lr	is	0	0	1	0
+lr	lr	0	0	1	0
 četros	four	0	0	1	0
 baleta	ballet	0	0	1	0
 hronika	chronicle	0	0	1	1
@@ -3517,13 +3432,11 @@ uzbrukumi	attacks	0	0	1	0
 individuālā	individual	0	0	1	0
 nozīmīgākajiem	most important	0	0	1	0
 nozīmīgākajiem	the most important	0	0	1	0
-retāk	sometimes	0	0	1	0
 retāk	less	0	0	1	0
 lietuvas	lithuanian	0	0	1	0
 lapsas	lao	0	0	1	0
 lapsas	fox	0	0	1	0
 atgūšanas	renewed independence	0	0	1	0
-atgūšanas	recovery	0	0	1	0
 daiļrades	creative work	0	0	1	0
 daiļrades	dahrades	0	0	1	0
 daiļrades	creative	0	0	1	0
@@ -3547,12 +3460,9 @@ pauls	paul	0	0	1	0
 apvērsumu	coup	0	0	1	0
 apvērsumu	revolution	0	0	1	0
 semjuels	samuel	0	0	1	0
-īpaši	ultra-	0	0	1	0
-īpaši	ultra	0	0	1	0
 apvērsuma	coup	0	0	1	0
 apvērsuma	revolution	0	0	1	0
 īstenot	realizing a	0	0	1	0
-īstenot	implement	0	0	1	0
 kleopatra	cleopatra	0	0	1	0
 iegūst	mined	0	0	1	0
 karadarbības	hostilities	0	0	1	0
@@ -3650,7 +3560,6 @@ tuvākā	close to	0	0	1	0
 ieviešot	introducing	0	0	1	0
 ieviešot	the introduction of	0	0	1	0
 vsk	secondary school	0	0	1	0
-vsk	wax	0	0	1	0
 kritikas	criticism	0	0	1	0
 kritikas	krilikas	0	0	1	0
 literatūru	literature	0	0	1	0
@@ -3665,7 +3574,6 @@ topogrāfiskā	topografiska	0	0	1	0
 aktīvā	active	0	0	1	0
 redzams	visible	0	0	1	1
 nemaz	not	0	0	1	0
-iesākumā	initially	0	0	1	0
 iesākumā	the beginning	0	0	1	0
 atmoda	revival	0	0	1	1
 piemīt	piemit	0	0	1	0
@@ -3707,7 +3615,6 @@ nolūku	view	0	0	1	0
 kalpo	serve	0	0	1	0
 attīstīja	developed	0	0	1	0
 muzejā	museum	0	0	1	0
-izplatīšanos	dissemination of	0	0	1	0
 izplatīšanos	spread	0	0	1	0
 izplatīšanos	the distribution of	0	0	1	0
 laušanas	breaking	0	0	1	0
@@ -3742,7 +3649,6 @@ valdībai	government	0	0	1	0
 valdībai	el gobierno	0	0	1	0
 inc	inc.	0	0	1	0
 vairākkārt	repeatedly	0	0	1	1
-attiecināt	initially apply	0	0	1	0
 attiecināt	extended	0	0	1	0
 attiecināt	you apply	0	0	1	0
 prometijs	promethium	1	1	0	0
@@ -3760,8 +3666,8 @@ vecie	old	0	0	1	0
 vecie	older	0	0	1	0
 aktīvu	active	0	0	1	0
 aktīvu	assets	0	0	1	0
-aktīvs	active	0	0	1	1
-aktīvs	asset	0	0	1	1
+darbībā	action	0	0	1	0
+darbībā	in action	0	0	1	0
 krievu	russian	0	0	1	1
 cēzijs	cesium	1	1	0	0
 cēzijs	radius	1	0	1	0
@@ -3769,7 +3675,6 @@ cēzijs	production	1	0	1	0
 cēzijs	caesium	1	1	0	1
 veic	the	0	0	1	0
 krievi	russian	0	0	1	0
-krievi	russians	0	0	1	0
 piespiedu	compulsory	0	0	1	1
 aktīva	active	0	0	1	0
 aktīvo	active	0	0	1	0
@@ -3797,7 +3702,6 @@ esošajiem	existing	0	0	1	0
 esošajiem	in	0	0	1	0
 pūš	blowin	0	0	1	0
 pūš	half	0	0	1	0
-šķiru	skir	0	0	1	0
 šķiru	class	0	0	1	0
 noslēgts	concluded	0	0	1	0
 kopīga	common	0	0	1	0
@@ -3809,7 +3713,6 @@ alēle	alleles	1	0	1	0
 nozīmīga	significant	0	0	1	0
 nozīmīga	important contributors to the	0	0	1	0
 attiecīgo	of respective	0	0	1	0
-attiecīgo	the	0	0	1	0
 biogrāfija	biography	0	0	1	1
 iekšienē	inside	0	0	1	0
 apjoma	volume	0	0	1	0
@@ -3820,9 +3723,7 @@ nozīmīgu	important contributions to the	0	0	1	0
 nozīmīgu	significant	0	0	1	0
 nozīmīgu	important contributors to the	0	0	1	0
 ziemā	winter	0	0	1	0
-ziemā	in winter	0	0	1	0
 nozīmīgs	important contributors	0	0	1	0
-nozīmīgs	significant	0	0	1	1
 nozīmīgs	important contributors to the	0	0	1	0
 izvirzīja	raised	0	0	1	0
 apjoms	extent	0	0	1	1
@@ -3863,7 +3764,6 @@ iedalījumu	breakdown	0	0	1	0
 ā	a	0	0	1	0
 veidojuši	made	0	0	1	0
 veidojuši	created	0	0	1	0
-iegūtās	legutas	0	0	1	0
 iegūtās	obtained	0	0	1	0
 globalizācijas	globalization	0	0	1	0
 globalizācijas	globalisation	0	0	1	0
@@ -3880,14 +3780,12 @@ piederēja	owned	0	0	1	0
 pneimonija	pneumonia	1	1	0	1
 pneimonija	qadir	1	0	1	0
 pneimonija	pnemonia	1	1	0	0
-tūkstošu	thousands of	0	0	1	0
 tūkstošu	thousand	0	0	1	0
 tūkstošu	thousands	0	0	1	0
 laikrakstā	newspaper	0	0	1	0
 lauksaimniecībai	agriculture	0	0	1	0
 viii	viii	0	0	1	0
 atrisināt	atrisinat	0	0	1	0
-atrisināt	solve	0	0	1	1
 drīzāk	rather	0	0	1	1
 drīzāk	rather a	0	0	1	0
 antropoloģija	anthropology	0	0	1	0
@@ -3910,9 +3808,9 @@ apzīmējums	designation	0	0	1	1
 apzīmējums	denomination	0	0	1	1
 apzīmējumu	designation	0	0	1	0
 apendikulārijas	larvacea	1	1	0	0
+jaroslavļa	yaroslavi	0	0	1	0
 jaroslavļa	yaroslavl	0	0	1	0
 jaroslavļa	yaroslavl: a name	0	0	1	0
-jaroslavļa	yaroslavi	0	0	1	0
 aka	aka	1	0	1	0
 aka	namaa	1	0	1	0
 aka	well	1	1	0	1
@@ -3928,7 +3826,7 @@ politiskas	political	0	0	1	0
 vēsturisko	historical	0	0	1	0
 vēsturisko	history	0	0	1	0
 vēsturiski	historically	0	0	1	0
-faktiski	in fact	0	0	1	1
+faktiski	in fact	0	0	1	0
 vēsturisku	historical	0	0	1	0
 ziemeļrietumu	northwestern	0	0	1	0
 ziemeļrietumu	north-west	0	0	1	1
@@ -3938,8 +3836,8 @@ turpmākajos	the next	0	0	1	0
 turpmākajos	next	0	0	1	0
 valdību	the governments'	0	0	1	0
 loģistika	logistics	0	0	1	0
-inovācijām	innovations	0	0	1	0
 inovācijām	innovation	0	0	1	0
+inovācijām	innovations	0	0	1	0
 pašreizējais	current	0	0	1	1
 pašreizējais	the existing level of	0	0	1	0
 brīvībailnnk	brivibailnnk	0	0	1	0
@@ -3975,7 +3873,8 @@ pārvaldības	management	0	0	1	0
 laikos	times	0	0	1	0
 izveidots	upper	0	0	1	0
 izveidots	up	0	0	1	0
-kodu	code	0	0	1	0
+izstrādāja	developed a	0	0	1	0
+izstrādāja	by	0	0	1	0
 izveidotu	a	0	0	1	0
 kods	code	0	0	1	1
 izdoti	issued	0	0	1	0
@@ -3990,7 +3889,6 @@ imperatora	imperial	0	0	1	1
 atmiņas	memories	0	0	1	0
 atmiņas	memory	0	0	1	0
 signāls	signal	0	0	1	1
-signāls	sinhala	0	0	1	0
 ekonomisko	economic	0	0	1	0
 ekonomiski	economically	0	0	1	0
 signālu	signal	0	0	1	0
@@ -4003,8 +3901,8 @@ mācīja	taught	0	0	1	0
 kontinentiem	continents	0	0	1	0
 sīriju	syria	0	0	1	0
 ī	s	0	0	1	0
-ieguldījumi	investments	0	0	1	0
 ieguldījumi	investment	0	0	1	0
+ieguldījumi	investments	0	0	1	0
 ieguldījums	contribute accordingly	0	0	1	0
 apvienība	association	0	0	1	1
 ieguldījumu	investment	0	0	1	0
@@ -4038,7 +3936,6 @@ nevajadzētu	not	0	0	1	0
 nevajadzētu	should not	0	0	1	0
 nozīmes	interestsa	0	0	1	0
 nozīmes	inetrest	0	0	1	0
-nozīmes	interest	0	0	1	0
 primārajā	primary	0	0	1	0
 formām	forman	0	0	1	0
 īpašām	special	0	0	1	0
@@ -4057,10 +3954,6 @@ koalīciju	coalition	0	0	1	0
 svārstās	fluctuates	0	0	1	0
 literārā	literary	0	0	1	0
 būtiskas	significant	0	0	1	0
-visaugstāk	uppermost	0	0	1	0
-visaugstāk	most	0	0	1	0
-visaugstāk	top	0	0	1	0
-aizliegts	prohibited	0	0	1	0
 morāli	moral	0	0	1	0
 morāli	morals	0	0	1	0
 morāli	morality	0	0	1	0
@@ -4081,7 +3974,7 @@ krustpils	krustpils	0	0	1	0
 ziemeļiem	north	0	0	1	0
 lielos	large	0	0	1	0
 kukaiņus	insect	0	0	1	0
-purvītis	purvitis	0	0	1	0
+interpretāciju	interpretation	0	0	1	0
 aviokompānijas	airline	0	0	1	0
 daļiņas	particles	0	0	1	0
 daļiņas	particulate matter be	0	0	1	0
@@ -4096,7 +3989,7 @@ logu	window	0	0	1	0
 arheoloģija	archeology	0	0	1	0
 arheoloģija	archeologico	0	0	1	0
 netālu	near	0	0	1	1
-netālu	not far	0	0	1	1
+netālu	not far	0	0	1	0
 platums	width	0	0	1	1
 veselu	healthy	0	0	1	0
 veselu	whole	0	0	1	0
@@ -4115,13 +4008,12 @@ pagastā	parish	0	0	1	0
 pagastā	rural municipality	0	0	1	0
 dāņu	danish	0	0	1	0
 pastiprināti	increased	0	0	1	0
-pastiprināti	pastiprinati	0	0	1	0
 savām	their	0	0	1	0
 savām	his	0	0	1	0
 pastiprināta	increased	0	0	1	0
 pastiprināta	intensive culture	0	0	1	0
 atteikšanās	denial of	0	0	1	0
-sudrabs	silver	0	0	1	1
+turpināja	continued	0	0	1	0
 viedokļi	views	0	0	1	0
 viedokļi	view	0	0	1	0
 sudrabu	silver	0	0	1	0
@@ -4136,7 +4028,7 @@ ukraiņi	ukrainians	0	0	1	0
 mītne	headquarters	0	0	1	0
 dārgumu	treasure	0	0	1	0
 klimta	klimt	0	0	1	0
-rūpēties	take care	0	0	1	1
+rūpēties	take care	0	0	1	0
 garais	long	0	0	1	0
 kandidatūru	nomination	0	0	1	0
 klimts	klimt	0	0	1	0
@@ -4155,7 +4047,6 @@ raksti	post	0	0	1	0
 raksti	posts	0	0	1	0
 sakot	saying	0	0	1	0
 četriem	four	0	0	1	0
-četriem	cetriem	0	0	1	0
 maija	may	0	0	1	0
 tipisks	typical	0	0	1	1
 studijas	studies	0	0	1	1
@@ -4245,7 +4136,6 @@ vairākas	more	0	0	1	0
 pagasts	parish	0	0	1	1
 provincēm	hallmark ncem	0	0	1	0
 provincēm	provinces	0	0	1	0
-troņa	throne	0	0	1	0
 troņa	throw	0	0	1	0
 troņa	trona	0	0	1	0
 stāv	stav	0	0	1	0
@@ -4305,7 +4195,6 @@ dz	up	0	0	1	0
 arhimēda	archimedes	0	0	1	0
 arhimēda	arhimĕda	0	0	1	0
 du	du	0	0	1	0
-dr	dr.	0	0	1	0
 globāla	global	0	0	1	0
 runu	speech	0	0	1	0
 ūdeņradis	following	1	0	1	0
@@ -4320,7 +4209,6 @@ runa	speech	0	0	1	1
 līmeņu	levels	0	0	1	0
 līmeņu	level	0	0	1	0
 dienvidaustrumu	southeast	0	0	1	0
-secretary	secretary	0	0	1	0
 turpinājās	continued	0	0	1	0
 turpinājās	lasted	0	0	1	0
 atbalstu	support	0	0	1	0
@@ -4332,7 +4220,6 @@ mafija	mafia	1	1	0	0
 mafija	cuba	1	0	1	0
 daudzos	many	0	0	1	0
 spirālveida	helical	0	0	1	0
-spirālveida	spiral	0	0	1	0
 atbalsta	support	0	0	1	0
 kālija	potassium	0	0	1	0
 deniss	dennis	0	0	1	0
@@ -4397,20 +4284,17 @@ spriedumu	judgement	0	0	1	0
 spriedumu	judgment	0	0	1	0
 augstais	high	0	0	1	0
 atklājumu	discovery	0	0	1	0
-tautsaimniecība	tautsaimnieciba	0	0	1	0
 tautsaimniecība	economy	0	0	1	0
 savi	their	0	0	1	0
 savi	savi	0	0	1	0
 dž	up	0	0	1	0
 tuvojas	approaching	0	0	1	0
-okeāniskā	oceanic	0	0	1	0
-okeāniskā	okeaniska	0	0	1	0
+atklājumi	discoveries	0	0	1	0
 kustībām	motion	0	0	1	0
 saimnieciskajā	economics	0	0	1	0
 saimnieciskajā	economic	0	0	1	0
 glezniecību	painting	0	0	1	0
-aiz	after	0	0	1	1
-aiz	beyond	0	0	1	1
+gnu	gnu	0	0	1	0
 sešus	six	0	0	1	0
 attālumu	distance	0	0	1	0
 attālums	distance	0	0	1	1
@@ -4425,7 +4309,6 @@ pastāvēt	to exist	0	0	1	0
 starptautisko	international	0	0	1	0
 eritrocītu	erythrocyte	0	0	1	0
 starptautiski	international	0	0	1	0
-starptautiski	internationally	0	0	1	0
 stingra	strong	0	0	1	0
 paceļot	show	0	0	1	0
 turpretī	turpreti	0	0	1	0
@@ -4454,12 +4337,15 @@ ierīcēm	iericem	0	0	1	0
 piederošo	owned	0	0	1	0
 austrālija	australia	0	0	1	0
 radīti	created in	0	0	1	0
-radīto	generated	0	0	1	0
 radīto	generated an	0	0	1	0
 godu	good	0	0	1	0
 godu	honor	0	0	1	0
 radīts	created	0	0	1	0
-kodola	nuclear	0	0	1	1
+simfilas	greek	1	0	1	0
+simfilas	symphyla	1	1	0	0
+simfilas	unani	1	0	1	0
+simfilas	simfilas	1	0	1	0
+simfilas	greece	1	0	1	0
 radītu	create	0	0	1	0
 radītu	create the	0	0	1	0
 goda	honorary	0	0	1	1
@@ -4469,7 +4355,6 @@ katrīna	katrina	0	0	1	0
 katrīna	catherine	0	0	1	0
 visvairāk	most	0	0	1	1
 visvairāk	viscairak	0	0	1	0
-visvairāk	visvairak	0	0	1	0
 bioētika	biotic	1	0	1	0
 bioētika		1	0	1	0
 bioētika	bioethicks	1	0	1	0
@@ -4494,7 +4379,6 @@ lcd	led	0	0	1	0
 aspektiem	aspects of	0	0	1	0
 aspektiem	aspect	0	0	1	0
 rns	rna	0	0	1	0
-rns	ms	0	0	1	0
 meksika	mexico	0	0	1	0
 mazāki	smaller	0	0	1	0
 nacionālā	at national	0	0	1	0
@@ -4523,9 +4407,8 @@ augus	plant	0	0	1	0
 mežiem	forests	0	0	1	0
 melno	black	0	0	1	0
 cirrus	cirrus	0	0	1	0
-vadība	management	0	0	1	1
-vadība	vadlba	0	0	1	0
 vadība	leadership	0	0	1	1
+vadība	vadlba	0	0	1	0
 produkciju	output	0	0	1	0
 izdošanu	extradition	0	0	1	0
 trapeces	trapeze	0	0	1	0
@@ -4566,7 +4449,6 @@ krājumu	reserve	0	0	1	0
 darbinieku	employees	0	0	1	0
 kolaiders	collider	1	1	0	0
 krājumi	stocks	0	0	1	0
-veikts	made	0	0	1	0
 darbinieks	employee	0	0	1	0
 pētot	pesot	0	0	1	0
 pētot	exploring	0	0	1	0
@@ -4627,7 +4509,6 @@ vīriešiem	men	0	0	1	0
 atgriezties	to return to the	0	0	1	0
 atgriezties	return	0	0	1	1
 locekle	member	0	0	1	0
-locekle	member of	0	0	1	0
 pārmaiņām	embrace change	0	0	1	0
 pārmaiņām	change	0	0	1	0
 četri	four	0	0	1	1
@@ -4678,6 +4559,8 @@ spriegums	strain	1	0	1	1
 vērojams	is seen	0	0	1	0
 vērojams	there	0	0	1	0
 ētika	ethics	0	0	1	0
+nīčes	name	0	0	1	0
+nīčes	nice	0	0	1	0
 brīvību	freedom	0	0	1	0
 ēriks	eric	0	0	1	0
 ētiku	vinegars	0	0	1	0
@@ -4702,7 +4585,7 @@ nākas	have	0	0	1	0
 piesārņojuma	pollution	0	0	1	0
 datus	data	0	0	1	0
 sandis	sandis	0	0	1	0
-konferences	conference	0	0	1	0
+katrā	each	0	0	1	0
 gleznoja	painted	0	0	1	0
 saistāma	articulated	0	0	1	0
 zvejniecību	zvejiniecibu	0	0	1	0
@@ -4710,7 +4593,6 @@ zvejniecību	fishing	0	0	1	0
 viktors	victor	0	0	1	0
 zona	zone	0	0	1	1
 zona	area	0	0	1	1
-pāriet	go	0	0	1	1
 pāriet	passes	0	0	1	0
 pāriet	switch	0	0	1	0
 resursiem	resources	0	0	1	0
@@ -4759,9 +4641,9 @@ siltums	category: american	1	0	1	0
 siltumu	heat	0	0	1	0
 stabilitāti	stability	0	0	1	0
 nikolajs	nicholas	0	0	1	0
-traģēdijas	tragedy	0	0	1	0
-traģēdijas	;-	0	0	1	0
 traģēdijas	tradĕdijas	0	0	1	0
+traģēdijas	;-	0	0	1	0
+traģēdijas	tragedy	0	0	1	0
 siltuma	thermal	0	0	1	1
 p	p	0	0	1	0
 māca	teach	0	0	1	0
@@ -4801,7 +4683,6 @@ klientam	klientam	0	0	1	0
 sievu	these	0	0	1	0
 sievu	wife	0	0	1	0
 pilsētai	city	0	0	1	0
-pilsētai	the city	0	0	1	0
 eiropā	europe	0	0	1	0
 sistēmu	system	0	0	1	0
 pilsētas	city	0	0	1	0
@@ -4860,17 +4741,11 @@ milzīgā	enormous	0	0	1	0
 ietekme	effect	0	0	1	1
 zonā	area	0	0	1	0
 grieķijā	greece	0	0	1	0
-simfilas	greek	1	0	1	0
-simfilas	symphyla	1	1	0	0
-simfilas	unani	1	0	1	0
-simfilas	simfilas	1	0	1	0
-simfilas	greece	1	0	1	0
 spēku	speku	0	0	1	0
 spēku	forces	0	0	1	0
 izveidojies	formed	0	0	1	0
 nostiprinājās	strengthened	0	0	1	0
 spēks	speks	0	0	1	0
-spēks	power	0	0	1	1
 spēki	forces	0	0	1	0
 spēki	speki	0	0	1	0
 jumpravas	jumpravas; a name	0	0	1	0
@@ -4901,7 +4776,6 @@ jelgavā	jelgava	0	0	1	0
 vecumu	age	0	0	1	0
 lielākie	major	0	0	1	0
 glabāšanas	storage	0	0	1	0
-glabāšanas	rescue	0	0	1	0
 pakistāna	pakistan	0	0	1	0
 pozīciju	position	0	0	1	0
 pozīciju	position in	0	0	1	0
@@ -4928,7 +4802,6 @@ samaksu	samaksu	0	0	1	0
 samaksu	payment	0	0	1	0
 divi	two	0	0	1	1
 doties	go	0	0	1	0
-doties	subsidizes	0	0	1	0
 sēnes	mushrooms	0	0	1	0
 mugurējā	posterior	0	0	1	0
 mugurējā	back	0	0	1	0
@@ -4953,8 +4826,8 @@ stils	style	0	0	1	1
 maskavu	moscow	0	0	1	0
 pabeigts	completed	0	0	1	0
 pabeigts	finished	0	0	1	1
-pūlis	pulis	0	0	1	0
 pūlis	crowd	0	0	1	1
+pūlis	pulis	0	0	1	0
 maskava	moscow	0	0	1	0
 reliģijām	religion	0	0	1	0
 stila	style	0	0	1	0
@@ -4977,8 +4850,8 @@ reģionālās	hokejaregionalas	0	0	1	0
 α	infinitive	0	0	1	0
 α	alfa	0	0	1	0
 formu	form	0	0	1	0
-turnīru	tournament	0	0	1	0
 turnīru	tournaments	0	0	1	0
+turnīru	tournament	0	0	1	0
 sadzīvē	everyday life	0	0	1	0
 sadzīvē	household	0	0	1	0
 igaunijas	igaunijas	0	0	1	0
@@ -4988,10 +4861,8 @@ turnīrs	tournament	0	0	1	1
 ieviesti	introduced	0	0	1	0
 nom	nom	0	0	1	0
 robežojas	border	0	0	1	0
-varas	varas	0	0	1	0
 varas	power	0	0	1	0
 kultūras	culture	0	0	1	0
-kultūras	cultural	0	0	1	1
 ieviesta	introduced	0	0	1	0
 secināt	conclude	0	0	1	1
 pūķiem	adult dragons	0	0	1	0
@@ -5014,19 +4885,17 @@ antarktīdā	antarctica	0	0	1	0
 versija	version	0	0	1	1
 citas	other	0	0	1	0
 sarkanie	red	0	0	1	0
-en	en	0	0	1	0
 ed	ed	0	0	1	0
 ed	ed.	0	0	1	0
 sektora	sector	0	0	1	0
 mašīnas	slide	0	0	1	0
 mašīnas	machinery	0	0	1	1
 iekļāva	included	0	0	1	0
-noskaidrot	find out	0	0	1	1
+noskaidrot	find out	0	0	1	0
 noskaidrot	noskaidrot	0	0	1	0
 šis	this	0	0	1	1
-šis	sis	0	0	1	0
 et	et	0	0	1	0
-atēnas	athens	0	0	1	0
+lielā	large	0	0	1	0
 pušu	parties	0	0	1	0
 es	i	0	0	1	1
 novieto	put	0	0	1	0
@@ -5039,7 +4908,6 @@ nodokli	taxes	0	0	1	0
 modernizācija	modernization	0	0	1	0
 modernizācija	modernising	0	0	1	0
 sākta	started	0	0	1	0
-sākta	ouch	0	0	1	0
 pastāvīga	continuous	0	0	1	0
 pastāvīga	in continuous and	0	0	1	0
 pastāvīgo	permanent	0	0	1	0
@@ -5057,14 +4925,12 @@ maijā	may	0	0	1	0
 saglabājies	preserved	0	0	1	0
 saglabājies	remained	0	0	1	0
 kārļa	karya	0	0	1	0
-kārļa	karla	0	0	1	0
 līdzīgā	much like	0	0	1	0
 līdzīgā	like	0	0	1	0
 novgorodas	novgorod	0	0	1	0
 nacionālas	national	0	0	1	0
 nacionālas	at the national	0	0	1	0
 iesāka	began	0	0	1	0
-iesāka	recommend	0	0	1	0
 domes	city council	0	0	1	0
 domes	town hall	0	0	1	0
 sprukts	sprukts	0	0	1	0
@@ -5076,15 +4942,14 @@ skaitā	including	0	0	1	0
 lokā	circle	0	0	1	0
 lokā	loka	0	0	1	0
 antarktīdu	antarctica	0	0	1	0
-xi	xi	0	0	1	0
 reģionālā	regionala	0	0	1	0
 reģionālā	regional	0	0	1	0
 reģionālā	at regional	0	0	1	0
-konkursā	competition	0	0	1	0
 konkursā	competitive	0	0	1	0
+konkursā	competition	0	0	1	0
 ieguvēji	winners	0	0	1	0
 xx	xx	0	0	1	0
-antarktīda	antarctica	0	0	1	0
+uzbūve	structure	0	0	1	1
 uzbūvi	structure	0	0	1	0
 xp	xp	0	0	1	0
 xv	xv	0	0	1	0
@@ -5103,7 +4968,6 @@ peles	wish	1	0	1	0
 peles	mouse	1	1	0	0
 peles	kaash	1	0	1	0
 peles	mouses	1	0	1	0
-herberts	herberts	0	0	1	0
 herberts	herbert	0	0	1	0
 that	that	0	0	1	0
 policija	police	0	0	1	1
@@ -5125,7 +4989,6 @@ haidna	haydn	0	0	1	0
 kalendāru	calendar	0	0	1	0
 kalendāru	calender	0	0	1	0
 kalendārs	calendar	0	0	1	1
-kalendārs	calendar of approximation	0	0	1	0
 keramikas	ceramic	0	0	1	1
 salās	islands	0	0	1	0
 salās	island	0	0	1	0
@@ -5167,7 +5030,6 @@ līdzīgs	lidzigs	0	0	1	0
 līdzīgs	like	0	0	1	1
 līdzīgu	much like	0	0	1	0
 līdzīgu	like	0	0	1	0
-vladimirs	vladimir	0	0	1	0
 vladimirs	vladimir: a name	0	0	1	0
 līdzīgi	much like	0	0	1	0
 aptver	cover	0	0	1	0
@@ -5204,7 +5066,6 @@ spāniju	spain	0	0	1	0
 vienkārši	simply	0	0	1	1
 izdalīta	isolated	0	0	1	0
 brazīlijas	brazil	0	0	1	0
-brazīlijas	barzilijas	0	0	1	0
 brazīlijas	brazilian	0	0	1	0
 vergiem	slaves	0	0	1	0
 meklēja	sought	0	0	1	0
@@ -5240,7 +5101,6 @@ izplatīties	spread	0	0	1	1
 elpošanas	respiratory	0	0	1	1
 plašu	a wide	0	0	1	0
 plašu	wide range	0	0	1	0
-plašu	a wide range of	0	0	1	0
 plašs	wide range	0	0	1	0
 plašs	an ambitious	0	0	1	0
 encyclopedia	encyclopedia	0	0	1	0
@@ -5268,7 +5128,6 @@ sasniedzot	reaching	0	0	1	0
 fiziski	physically	0	0	1	0
 panāca	reached	0	0	1	0
 īpašnieku	owner	0	0	1	0
-īpašnieku	owners of	0	0	1	0
 šiīti	shiite	0	0	1	0
 šiīti	silti	0	0	1	0
 īpašnieks	holder	0	0	1	1
@@ -5289,7 +5148,7 @@ griba	will	0	0	1	1
 pārējo	other	0	0	1	0
 pārējo	switching	0	0	1	0
 zaudēja	lost	0	0	1	0
-vismaz	at least	0	0	1	1
+vismaz	at least	0	0	1	0
 depeche	depeche	0	0	1	0
 titāniks	titanic	0	0	1	0
 urbanizācijas	urbanization	0	0	1	0
@@ -5307,7 +5166,8 @@ plašā	wide	0	0	1	0
 plašā	broad	0	0	1	0
 arhitektūrā	architecture	0	0	1	0
 vecāki	parents	0	0	1	1
-cīņām	year attributable	0	0	1	0
+rokām	hands	0	0	1	0
+rokām	rock	0	0	1	0
 pamati	pamati	0	0	1	0
 pamati	basics	0	0	1	0
 kuģus	ships	0	0	1	0
@@ -5326,18 +5186,19 @@ plaknes	plane	0	0	1	0
 pārtapa	turned into	0	0	1	0
 celta	built in	0	0	1	0
 celta	built	0	0	1	0
-malās	edge	0	0	1	0
 malās	edges	0	0	1	0
+malās	edge	0	0	1	0
 iznāk	published	0	0	1	0
 diskusiju	discussion	0	0	1	0
 vispārējo	general	0	0	1	0
-priekšā	in front	0	0	1	1
 priekšā	front	0	0	1	0
 vecākais	senior	0	0	1	1
 spānijā	spainish	0	0	1	0
 spānijā	spain	0	0	1	0
 varavīksnes	rainbow	0	0	1	0
 malām	edges	0	0	1	0
+zināma	some	0	0	1	0
+zināma	reductive	0	0	1	0
 sadalījums	division	0	0	1	0
 sadalījums	distribution	0	0	1	0
 sadalījumu	distribution	0	0	1	0
@@ -5355,9 +5216,7 @@ atzīta	recognized	0	0	1	0
 plaušas	lungs	0	0	1	0
 proti	namely	0	0	1	1
 plātņu	platinum	0	0	1	0
-vadošajiem	s leading	0	0	1	0
 vadošajiem	leading	0	0	1	0
-vadošajiem	vadosajiem	0	0	1	0
 izstrādāts	elaborate	0	0	1	0
 izstrādāts	izstradats	0	0	1	0
 savstarpējie	interconnects	0	0	1	0
@@ -5419,14 +5278,12 @@ kases	kases	0	0	1	0
 kases	treasury	0	0	1	0
 mūsdienās	nowadays	0	0	1	0
 kursa	rate	0	0	1	0
-mūsdienām	nowadays	0	0	1	0
 mūsdienām	today	0	0	1	0
 tiesības	right	0	0	1	1
 uzņēmējdarbības	entrepreneurial	0	0	1	0
 uzņēmējdarbības	business	0	0	1	0
 psr	psr	0	0	1	0
 psr	soviet	0	0	1	0
-psr	ssr	0	0	1	0
 tradicionālo	traditional	0	0	1	0
 tradicionālo	traticionalo	0	0	1	0
 kursu	rate	0	0	1	0
@@ -5617,7 +5474,6 @@ bulgāru	bulgarian	0	0	1	0
 laikmetu	age	0	0	1	0
 laikmetu	era	0	0	1	0
 spiedienam	pressure	0	0	1	0
-spiedienam	spiedinam	0	0	1	0
 austrijā	austria	0	0	1	0
 redzamo	see	0	0	1	0
 redzamo	look	0	0	1	0
@@ -5641,7 +5497,6 @@ sarunās	talks	0	0	1	0
 sarunās	discourse	0	0	1	0
 citās	other	0	0	1	0
 meistars	master	0	0	1	1
-meistars	maystadt	0	0	1	0
 visizplatītākie	the most common	0	0	1	0
 orgāniem	organs	0	0	1	0
 tiecās	seeks to	0	0	1	0
@@ -5692,7 +5547,7 @@ rudā	chestnut	0	0	1	0
 uzsvēra	stress	0	0	1	0
 uzsvēra	points	0	0	1	0
 uzsvēra	stressed	0	0	1	0
-asu	sharp	0	0	1	0
+aspekti	aspects	0	0	1	0
 arhimēds	archimedes	0	0	1	0
 aramzeme	arable	0	0	1	1
 absolūta	absoiuta	0	0	1	0
@@ -5716,7 +5571,6 @@ vēja	wind	0	0	1	0
 citviet	elsewhere	0	0	1	0
 septiņus	seven	0	0	1	0
 apskates	points	0	0	1	0
-vēju	veju	0	0	1	0
 vēju	wind	0	0	1	0
 š	arbitration	0	0	1	0
 loma	loma	0	0	1	0
@@ -5747,11 +5601,10 @@ konkurētspēja	rabia	1	0	1	0
 konkurētspēja	konkuretspeja	1	0	1	0
 konkurētspēja	compititive	1	1	0	0
 konkurētspēja	competitiveness	1	1	0	0
-rezultātā	as a result	0	0	1	1
+rezultātā	as a result	0	0	1	0
 rezultātā	result	0	0	1	0
 līgas	league	0	0	1	0
 virszemes	surface	0	0	1	0
-oecd	oecd	0	0	1	0
 attīstību	development	0	0	1	0
 pētījumos	petijumos	0	0	1	0
 pētījumos	studies	0	0	1	0
@@ -5769,7 +5622,6 @@ impulsu	pulse	0	0	1	0
 zemie	low	0	0	1	0
 mākslai	art	0	0	1	0
 notiek	is	0	0	1	0
-notiek	occurs	0	0	1	0
 brīvības	freedom	0	0	1	0
 brīvības	bnvlbas	0	0	1	0
 uzsāk	launches	0	0	1	0
@@ -5785,7 +5637,6 @@ frontes	front	0	0	1	0
 frontes	frontline	0	0	1	0
 virsmu	surface	0	0	1	0
 divus	two	0	0	1	0
-nevajag	not	0	0	1	0
 nevajag	doesn't need	0	0	1	0
 zvērestu	oath	0	0	1	0
 plānus	olanus	0	0	1	0
@@ -5830,8 +5681,8 @@ a	a	0	0	1	0
 ciparu	digital	0	0	1	0
 melnas	black	0	0	1	0
 banka	bank	0	0	1	1
-šādām	following	0	0	1	0
-šādām	sadam	0	0	1	0
+nosaukumus	name	0	0	1	0
+nosaukumus	names	0	0	1	0
 banku	banks	0	0	1	0
 banku	banco	0	0	1	0
 infrastruktūra	infrastructure	0	0	1	0
@@ -5846,7 +5697,6 @@ pārtiek	live	0	0	1	0
 nākošajā	the next	0	0	1	0
 nākošajā	next	0	0	1	0
 lēnām	slow	0	0	1	0
-lēnām	slowly	0	0	1	1
 latvietis	latvian	0	0	1	1
 zemūdenes	submarines	0	0	1	0
 negaiss	thunderstorm	1	1	1	1
@@ -5887,7 +5737,6 @@ atļauts	al | allowed	0	0	1	0
 atļauts	permitted	0	0	1	0
 atļauts	allowed	0	0	1	0
 maksas	charge	0	0	1	0
-uzņem	fro	0	0	1	0
 uzņem	host	0	0	1	0
 uzņem	hosts	0	0	1	0
 varoni	hero	0	0	1	0
@@ -5927,11 +5776,9 @@ ass	axis	0	0	1	1
 small|x=|y=|scale=|text=	small = | x = | y = | scale = | text =	0	0	1	0
 small|x=|y=|scale=|text=	small | x = | y = | scale = | text =	0	0	1	0
 laba	good	0	0	1	0
-laba	lab	0	0	1	0
 vācieša	german's	0	0	1	0
 vācieša	germans	0	0	1	0
-aspekti	aspects of	0	0	1	0
-aspekti	aspects	0	0	1	0
+asu	sharp	0	0	1	0
 sacīkšu	race	0	0	1	0
 sacīkšu	racing	0	0	1	0
 labi	well	0	0	1	1
@@ -5964,10 +5811,8 @@ drupas	ruins	0	0	1	1
 skuju	coniferous	0	0	1	1
 populāri	popularity	0	0	1	0
 jāievēro	follow	0	0	1	0
-jāievēro	should abide by	0	0	1	0
 augsni	soil	0	0	1	0
 daudzām	many	0	0	1	0
-daudzām	the many	0	0	1	0
 ierīkoja	installed	0	0	1	0
 augsne	nonogom in geometry - 9 side	1	0	1	0
 augsne	soil	1	1	1	1
@@ -5997,7 +5842,6 @@ multikulturālisms	religiously	1	0	1	0
 multikulturālisms	multiculturalisms	1	0	1	0
 multikulturālisms	sects	1	0	1	0
 sakne	root	0	0	1	1
-albums	album	0	0	1	1
 albumu	album	0	0	1	0
 apstrādāt	process	0	0	1	1
 normu	norm	0	0	1	0
@@ -6034,14 +5878,13 @@ klasifikācija	classification	0	0	1	1
 zinot	knowing	0	0	1	0
 mācību	learning	0	0	1	0
 mācība	lesson	0	0	1	1
-mācība	learning	0	0	1	0
 valdīja	govern	0	0	1	0
 valdīja	there was	0	0	1	0
 valdīja	there was a	0	0	1	0
-ievēlēja	elected	0	0	1	0
+ārkārtīgi	extremely	0	0	1	1
 nedaudz	nedaudz	0	0	1	0
 nedaudz	la ittle	0	0	1	0
-nedaudz	a little	0	0	1	1
+nedaudz	a little	0	0	1	0
 tīkla	network	0	0	1	0
 tīkla	system	0	0	1	0
 kad	when	0	0	1	1
@@ -6074,11 +5917,10 @@ klīstošā	flying	0	0	1	0
 klīstošā	errant	0	0	1	0
 izplešas	expands	0	0	1	0
 madonnas	matonnas	0	0	1	0
-madonnas	modonnas	0	0	1	0
 madonnas	madonna	0	0	1	0
 zemāko	lower	0	0	1	0
-zemāko	rock bottom	0	0	1	0
 zemāko	the lowest	0	0	1	0
+zemāko	rock bottom	0	0	1	0
 nozīmē	means	0	0	1	0
 dāniju	the danish'	0	0	1	0
 dāniju	denmark	0	0	1	0
@@ -6087,7 +5929,6 @@ zemāka	zemaka	0	0	1	0
 pamet	drop out	0	0	1	0
 folklorā	folklore	0	0	1	0
 latgaliešu	latgalian	0	0	1	0
-anglijas	anjlijas	0	0	1	0
 anglijas	english	0	0	1	0
 šķirne	breed	1	1	0	1
 objekti	objects	0	0	1	0
@@ -6114,7 +5955,6 @@ niedras	niedras	0	0	1	0
 vienkāršs	vienkars	0	0	1	0
 vienkāršs	simply	0	0	1	0
 sakarā	do	0	0	1	0
-sakarā	due	0	0	1	0
 pārsvars	predominance	0	0	1	1
 grenlandes	greenland	0	0	1	0
 pārsvaru	lead	0	0	1	0
@@ -6135,7 +5975,6 @@ attēloti	painted on	0	0	1	0
 attēloti	shown in	0	0	1	0
 attēloti	show in	0	0	1	0
 iepriekšējo	career	0	0	1	0
-iepriekšējo	of previous	0	0	1	0
 iepriekšējo	previous	0	0	1	0
 pastiprināja	reinforced	0	0	1	0
 celtniecībā	building	0	0	1	0
@@ -6149,18 +5988,14 @@ jūs	just	0	0	1	0
 karogu	flag	0	0	1	0
 tendences	trends	0	0	1	0
 tēvs	father	0	0	1	1
-kategorijakari	star wars	0	0	1	0
+elektroni	electrons	0	0	1	0
 noritēja	proceeded	0	0	1	0
 koncentrējas	focuses	0	0	1	0
 sfērā	sphere	0	0	1	0
-sfērā	sfera	0	0	1	0
-sfērā	domain	0	0	1	0
-izpratnē	within the meaning of	0	0	1	0
 izpratnē	within	0	0	1	0
 izpratnē	understanding	0	0	1	0
 akmeni	stone	0	0	1	0
 attēloja	featured	0	0	1	0
-attēloja	depicted	0	0	1	0
 attēloja	image	0	0	1	0
 akmens	stone	0	0	1	1
 elektronu	electronics	0	0	1	0
@@ -6175,7 +6010,6 @@ izrādījās	turned out	0	0	1	0
 muzejs	museum	0	0	1	1
 linux	linux	0	0	1	0
 pierādīts	to prove	0	0	1	0
-pierādīts	proven	0	0	1	1
 gallijas	gallijas	0	0	1	0
 gallijas	gaul	0	0	1	0
 samazinot	reducing	0	0	1	0
@@ -6192,13 +6026,12 @@ cunami	tsunami	0	0	1	0
 revolucionāru	revolutionary	0	0	1	0
 tapēc	therefore	0	0	1	0
 koeficients	coefficient	0	0	1	1
-koeficients	coefficients	0	0	1	0
 koeficients	factor	0	0	1	1
 nepieciešamība	need	0	0	1	0
 nepieciešamība	the need	0	0	1	0
 nepieciešamība	necessity	0	0	1	1
 nopietni	seriously	0	0	1	1
-muzeji	museums	0	0	1	0
+berzes	friction	0	0	1	0
 novads	district	0	0	1	1
 novadu	districts	0	0	1	0
 novadu	country	0	0	1	0
@@ -6257,7 +6090,6 @@ izpratne	understanding	0	0	1	0
 augstuma	altitude	0	0	1	0
 augstuma	height	0	0	1	0
 vēlēšanas	recently voted	0	0	1	0
-vēlēšanas	election	0	0	1	1
 celtniecība	building	0	0	1	1
 celtniecība	construction	0	0	1	1
 kolumbs	columbus	0	0	1	0
@@ -6316,13 +6148,13 @@ arka	arch	0	0	1	1
 starpība	difference	0	0	1	1
 starpība	starplba	0	0	1	0
 zinātnes	science	0	0	1	0
-ipa	ipa	0	0	1	0
-skat	see	0	0	1	0
+skar	touches	0	0	1	0
+skar	concerns	0	0	1	0
+indonēziju	indonesia	0	0	1	0
 lēca	lens	0	0	1	1
 lēca	jumping	0	0	1	0
 federāla	federal	0	0	1	0
 federāla	federala	0	0	1	0
-$	$	0	0	1	0
 komēdija	comedy	0	0	1	1
 etniskais	ethnic	0	0	1	0
 muiža	muiza	0	0	1	0
@@ -6334,8 +6166,8 @@ muižu	estates	0	0	1	0
 muižu	estate	0	0	1	0
 džeksons	jackson	0	0	1	0
 kreisi	the left	0	0	1	0
-kreiso	kreis	0	0	1	0
-kreiso	left	0	0	1	0
+labklājība	well-being	0	0	1	1
+labklājība	well being	0	0	1	0
 mūra	mura	0	0	1	0
 prasību	requirements	0	0	1	0
 veicinot	promoting	0	0	1	0
@@ -6360,7 +6192,6 @@ nekā	then	0	0	1	0
 nekā	than	0	0	1	1
 temperatūrai	temperature in	0	0	1	0
 temperatūrai	temperature	0	0	1	0
-radusies	radusise	0	0	1	0
 radusies	occured	0	0	1	0
 radusies	occurred	0	0	1	0
 pusei	party	0	0	1	0
@@ -6387,6 +6218,7 @@ sabiedrisko	public	0	0	1	0
 somu	finish	0	0	1	0
 somu	finnish	0	0	1	1
 vergi	slaves	0	0	1	0
+vieta	place	0	0	1	1
 austrumos	east	0	0	1	0
 sākot	saying	0	0	1	0
 faktoru	factors	0	0	1	0
@@ -6399,6 +6231,7 @@ dekarts	descartes	0	0	1	0
 neizdevās	did not manage to	0	0	1	0
 neizdevās	failed	0	0	1	0
 faktori	factors	0	0	1	0
+burts	letter	0	0	1	1
 ebreju	jewish	0	0	1	1
 ebreju	ebreju	0	0	1	0
 dabas	natural	0	0	1	1
@@ -6445,11 +6278,9 @@ atdala	separated	0	0	1	0
 atdala	seperated	0	0	1	0
 neko	no	0	0	1	0
 pēteris	peter	0	0	1	0
-pēteris	peteris	0	0	1	0
 valodu	language	0	0	1	0
 jauda	power	0	0	1	1
 neļāva	did not allow	0	0	1	0
-neļāva	did not	0	0	1	0
 visai	rather	0	0	1	1
 funkcijām	functions	0	0	1	0
 funkcijām	funkcijam	0	0	1	0
@@ -6463,7 +6294,6 @@ etiopija	ethiopia	0	0	1	0
 izmanto	used	0	0	1	0
 labākie	best	0	0	1	0
 mūziķi	musicians	0	0	1	0
-zīme	a sign	0	0	1	0
 zīme	sign	0	0	1	1
 mūziķe	musician	0	0	1	0
 mūziķe	music	0	0	1	0
@@ -6512,6 +6342,7 @@ pretinieku	oretinieku	0	0	1	0
 pretinieku	opponent	0	0	1	0
 vieniem	for some	0	0	1	0
 nav	not	0	0	1	1
+ticējumi	beliefs	0	0	1	0
 pretinieks	opponent	0	0	1	1
 guberņas	province	0	0	1	0
 himna	anthem	0	0	1	1
@@ -6530,11 +6361,9 @@ koru	choir	0	0	1	0
 ostu	port	0	0	1	0
 sarkano	stats	0	0	1	0
 sarkano	red	0	0	1	0
-plakankalnes	plateaus	0	0	1	0
 sarkana	red	0	0	1	0
 zemienes	lowland	0	0	1	0
 attiecībām	relations	0	0	1	0
-visticamāk	likely	0	0	1	0
 visticamāk	most likely	0	0	1	0
 samazinoties	decrease in	0	0	1	0
 ņemot	taking a	0	0	1	0
@@ -6584,7 +6413,6 @@ nacionālos	national	0	0	1	0
 apakšējā	lower	0	0	1	0
 roka	hand	0	0	1	1
 barbaru	barbarian	0	0	1	1
-barbaru	translate from: czech  tamilenglishspanish    barbarian	0	0	1	0
 aizmugures	back	0	0	1	0
 olas	eggs	0	0	1	0
 cieta	solid	0	0	1	0
@@ -6622,18 +6450,15 @@ histidīns	hisdins	1	0	1	0
 raksturot	characterize	0	0	1	1
 butānā	butana	0	0	1	0
 palielinātu	increase linate	0	0	1	0
-palielinātu	increased	0	0	1	0
 konstitūciju	constitution	0	0	1	0
 fretkas	ferrets	0	0	1	0
 pameta	accused	0	0	1	0
 pameta	left	0	0	1	0
 precīzi	precisely	0	0	1	1
-precīzi	accurately	0	0	1	1
 imantā	imants	0	0	1	0
 skaņdarbi	pieces	0	0	1	0
 četrtaktu	stroke	0	0	1	0
 portugāles	portuguese	0	0	1	0
-portugāles	portugal	0	0	1	0
 locekļiem	members	0	0	1	0
 precīzs	states	0	0	1	0
 ekonomiskas	economic	0	0	1	0
@@ -6716,7 +6541,6 @@ apzīmēt	indicate	0	0	1	1
 apzīmēt	mark	0	0	1	1
 sakņu	root	0	0	1	0
 konstitūcijā	constitution	0	0	1	0
-pārsniedz	exceeds	0	0	1	0
 pārsniedz	than	0	0	1	0
 butānu	butane	0	0	1	0
 populārās	popularas	0	0	1	0
@@ -6734,8 +6558,8 @@ rūpniecība	industry	0	0	1	1
 rūpniecība	in industry	0	0	1	0
 ietekmes	impact	0	0	1	0
 mācīt	teach	0	0	1	1
-rūpniecību	industry-	0	0	1	0
 rūpniecību	industry	0	0	1	0
+rūpniecību	industry-	0	0	1	0
 kristietības	christianity	0	0	1	0
 azoru	azores	0	0	1	0
 pēdējo	over the last	0	0	1	0
@@ -6755,7 +6579,6 @@ vāgneram	wagner	0	0	1	0
 aplūkot	see	0	0	1	1
 šūnu	dog	0	0	1	0
 šūnu	cellular	0	0	1	1
-izstrādā	out a	0	0	1	0
 izstrādā	develops	0	0	1	0
 izstrādā	developing	0	0	1	0
 draudi	threats	0	0	1	0
@@ -6770,9 +6593,7 @@ frekvence	frekvence	1	0	1	0
 atņem	minused	0	0	1	0
 atņem	subtracted	0	0	1	0
 dzīvojošo	living	0	0	1	0
-nāvessods	capital punishment	0	0	1	1
-iedalīja	iedaltja	0	0	1	0
-iedalīja	divided	0	0	1	0
+nāvessods	capital punishment	0	0	1	0
 frekvenci	frequency	0	0	1	0
 pirmskaitļu	prime	0	0	1	0
 pirmskaitļu	by primskaitl	0	0	1	0
@@ -6824,14 +6645,12 @@ amatu	post	0	0	1	0
 mezopotāmijā	mesopotamia	0	0	1	0
 daudzviet	many	0	0	1	0
 amata	post	0	0	1	0
-integrācija	of disability in	0	0	1	0
 integrācija	0f disability in	0	0	1	0
 integrācija	integration	0	0	1	1
 piemiņas	memorial	0	0	1	1
 apakšā	below	0	0	1	1
 apakšā	bottom	0	0	1	0
 jogas	yoga	0	0	1	0
-sasniegšanai	to achieve	0	0	1	0
 sasniegšanai	attaining	0	0	1	0
 saeimu	saeima	0	0	1	0
 florida	florida	0	0	1	0
@@ -6856,7 +6675,7 @@ iepriekš	previously	0	0	1	1
 iepriekš	ieprieks	0	0	1	0
 iepriekš	above	0	0	1	1
 soso	soso	0	0	1	0
-mazs	small	0	0	1	1
+minerāla	mineral	0	0	1	0
 ievēlēts	elected	0	0	1	0
 pētīt	petit	0	0	1	0
 pētīt	investigate	0	0	1	1
@@ -6901,11 +6720,10 @@ darbos	works	0	0	1	0
 deivids	david	0	0	1	0
 māris	maris	0	0	1	0
 māris	maris: a name	0	0	1	0
-saeimā	saeima	0	0	1	0
 saeimā	parliament	0	0	1	0
 iedalās	section	0	0	1	0
 iedalās	divided into	0	0	1	0
-lielvārdē	lielvarde	0	0	1	0
+pikču	picchu	0	0	1	0
 tāpēc	therefore	0	0	1	1
 sadraudzības	commonwealth	0	0	1	0
 luiss	lewis	0	0	1	0
@@ -6932,9 +6750,8 @@ attiecību	relation	0	0	1	0
 attiecību	relations	0	0	1	0
 dioksīdu	dioxide	0	0	1	0
 baroks	baroque	0	0	1	1
-kopiena	community	0	0	1	1
+galaktika	galaxy	0	0	1	1
 pazīstama	known for	0	0	1	0
-url	url	0	0	1	0
 sveces	candles	0	0	1	0
 uzkrājas	accumulate	0	0	1	0
 uzkrājas	accumulation of	0	0	1	0
@@ -6951,8 +6768,9 @@ vēlajā	late	0	0	1	0
 tādejādi	thus	0	0	1	0
 apģērba	apqerba	0	0	1	0
 apģērba	dress	0	0	1	0
-panorāma	panorama	0	0	1	1
-panorāma	panorama: a name	0	0	1	0
+paredzēti	for	0	0	1	0
+datoros	computers	0	0	1	0
+datoros	dotoros	0	0	1	0
 zemēm	lands	0	0	1	0
 svētā	sveta	0	0	1	0
 svētā	sveta: a name	0	0	1	0
@@ -6988,7 +6806,7 @@ partneri	partner	0	0	1	0
 fizika	physics	0	0	1	1
 edvarts	edvarts	0	0	1	0
 iekļūt	we have access to	0	0	1	0
-iekļūt	get in	0	0	1	1
+iekļūt	get in	0	0	1	0
 čaikovska	tchaikovsky	0	0	1	0
 vairuma	most	0	0	1	0
 vairuma	más	0	0	1	0
@@ -7004,7 +6822,6 @@ vairumu	most	0	0	1	0
 kompetencē	competence	0	0	1	0
 golfa	golf	0	0	1	0
 izmaiņas	changes	0	0	1	0
-lēmums	decision	0	0	1	1
 lēmums	decision of the	0	0	1	0
 lēmumu	decision	0	0	1	0
 iedzīvotājus	residents	0	0	1	0
@@ -7012,22 +6829,18 @@ iedzīvotājus	have citizens	0	0	1	0
 ķīnas	china's	0	0	1	0
 ķīnas	kinas	0	0	1	0
 galma	court	0	0	1	0
-galma	palace	0	0	1	0
 jūrai	sea	0	0	1	0
-šūnas	cells	0	0	1	0
 šūnas	moss	0	0	1	0
 apģērbu	clothing	0	0	1	0
 gadsimtos	centuries	0	0	1	0
 gadsimtos	century	0	0	1	0
 paplašināja	expanded	0	0	1	0
 kontinentālā	continental	0	0	1	0
-kontinentālā	konttnentala	0	0	1	0
 vācijai	germany	0	0	1	0
 bruņinieki	knights	0	0	1	0
 bruņinieku	bruninieku	0	0	1	0
 bruņinieku	knights	0	0	1	0
 ķīmiskais	chemical	0	0	1	0
-ķīmiskais	the chemical	0	0	1	0
 computer	computer	0	0	1	0
 mineraloģija	flood	1	0	1	0
 mineraloģija	minerato ^ ija	1	0	1	0
@@ -7051,7 +6864,7 @@ tātad	then	0	0	1	1
 tātad	so	0	0	1	1
 suverenitāti	sovereignty	0	0	1	0
 čīles	chile	0	0	1	0
-reiniks	reiniks	0	0	1	0
+amatnieku	craftsmen	0	0	1	0
 simbolisma	symbolism	0	0	1	0
 kreisā	left-wing	0	0	1	0
 kreisā	left	0	0	1	0
@@ -7080,8 +6893,7 @@ augšup	upwards	0	0	1	1
 floti	fleet	0	0	1	0
 vārdu	word	0	0	1	0
 latvijai	latvia	0	0	1	0
-vārdi	names	0	0	1	0
-vārdi	words	0	0	1	0
+aizliegts	prohibited	0	0	1	0
 baltkrievijā	belarus	0	0	1	0
 vārda	on behalf of	0	0	1	0
 definīcija	definition	0	0	1	1
@@ -7107,9 +6919,7 @@ galmā	court	0	0	1	0
 izvietota	located	0	0	1	0
 kings	kings	0	0	1	0
 nacionālistu	nationalist	0	0	1	0
-pārtiku	food	0	0	1	0
-etiķskābe	acetic acid	0	0	1	1
-etiķskābe	acetic	0	0	1	0
+etiķskābe	acetic acid	0	0	1	0
 strauju	rapid	0	0	1	0
 vairumā	most	0	0	1	0
 kopā	kopa	0	0	1	0
@@ -7145,14 +6955,13 @@ septiņiem	total of seven	0	0	1	0
 vēlākos	in later	0	0	1	0
 vilnis	wave	0	0	1	1
 novērst	remove	0	0	1	1
-novērst	prevent cross	0	0	1	0
-elektroni	electrons	0	0	1	0
 dzelzs	iron	0	0	1	1
 platona	plato	0	0	1	0
 noved	leads	0	0	1	0
 tehnikas	technical	0	0	1	1
 mēģina	attempts to	0	0	1	0
-mazais	small	0	0	1	0
+iedalīja	iedaltja	0	0	1	0
+iedalīja	divided	0	0	1	0
 pieteica	declared	0	0	1	0
 pieteica	filed	0	0	1	0
 dabasgāzes	natural gas	0	0	1	0
@@ -7162,7 +6971,6 @@ priekšmetus	items	0	0	1	0
 priekšmetus	items shall	0	0	1	0
 dzelzi	dzelzi	0	0	1	0
 dzelzi	iron	0	0	1	0
-ārstniecības	treatments	0	0	1	0
 ārstniecības	treatment	0	0	1	0
 anemometrs	plant	1	0	1	0
 anemometrs	anemometer	1	1	0	1
@@ -7211,8 +7019,7 @@ pakļāvās	by paklav	0	0	1	0
 kameras	camera	0	0	1	0
 http	http	0	0	1	0
 vidējās	secondary	0	0	1	0
-lietu	affairs	0	0	1	0
-lietu	lietu	0	0	1	0
+armijai	army	0	0	1	0
 daudz	much	0	0	1	1
 sāka	started	0	0	1	0
 sāka	says	0	0	1	0
@@ -7232,17 +7039,14 @@ paketes	packages	0	0	1	0
 klāt	klāl	0	0	1	0
 klāt	present	0	0	1	0
 klāt	kiato	0	0	1	0
-i	i	0	0	1	0
+kapsētā	cemetery	0	0	1	0
 sajūtu	i felt	0	0	1	0
 sajūtu	felt the	0	0	1	0
 sajūtu	sense	0	0	1	0
 svarīgākās	most important	0	0	1	0
-svarīgākās	the most important	0	0	1	0
-svarīgākās	important	0	0	1	0
 īpatnībām	ipatnibam	0	0	1	0
 īpatnībām	features	0	0	1	0
 rāda	a	0	0	1	0
-rāda	from	0	0	1	0
 rāda	shows	0	0	1	0
 klāj	up	0	0	1	0
 sajūta	feeling	0	0	1	1
@@ -7276,9 +7080,7 @@ aizstāvēja	defended	0	0	1	0
 sanktpēterburgas	st. petersburg	0	0	1	0
 albānija	albania	0	0	1	0
 piemēram	for example	0	0	1	0
-taisnleņķa	right- angled	0	0	1	0
 taisnleņķa	right angled	0	0	1	0
-taisnleņķa	orthogonal	0	0	1	0
 procentu	interest	0	0	1	0
 kultūrā	culture	0	0	1	0
 veiktas	made	0	0	1	0
@@ -7290,10 +7092,9 @@ library	library	0	0	1	0
 sugām	species	0	0	1	0
 homo	homo	0	0	1	0
 frekvences	frequencies	0	0	1	0
-frekvences	frequency	0	0	1	0
 klasē	class	0	0	1	0
-darbībā	action	0	0	1	0
-darbībā	in action	0	0	1	0
+aktīvs	active	0	0	1	1
+aktīvs	asset	0	0	1	1
 apzīmēja	designated	0	0	1	0
 labību	cereals	0	0	1	0
 pētījumus	petijumus	0	0	1	0
@@ -7308,11 +7109,11 @@ pienākumus	duties of its members	0	0	1	0
 vāveres	squirrel	0	0	1	0
 grēda	greda	0	0	1	0
 grēda	range	0	0	1	1
-novadi	districts	0	0	1	0
 novadi	counties	0	0	1	0
-grēdu	mountain chain	0	0	1	0
 grēdu	ridge	0	0	1	0
 garozā	crust	0	0	1	0
+paisuma	tidal	0	0	1	0
+paisuma	high tide	0	0	1	0
 mātītēm	females	0	0	1	0
 ungārijas	hungary	0	0	1	0
 ungārijas	hungarian	0	0	1	0
@@ -7323,7 +7124,7 @@ beigu	final	0	0	1	0
 beigu	beigu	0	0	1	0
 sadalīja	divided	0	0	1	0
 redzamas	visible	0	0	1	0
-nācijām	the nation	0	0	1	0
+dziesma	song	0	0	1	1
 dalītājs	category: agriculture	1	0	1	0
 dalītājs	divisor	1	1	0	1
 dalītājs	category: economic	1	0	1	0
@@ -7369,7 +7170,8 @@ karls	carl	0	0	1	0
 rīcība	action	0	0	1	1
 ho	ho	0	0	1	0
 ho	holmium	0	0	1	0
-berzes	friction	0	0	1	0
+mājdzīvnieku	pet	0	0	1	0
+mājdzīvnieku	pet animal	0	0	1	0
 vidē	environment	0	0	1	0
 vidē	see	0	0	1	0
 jaunajai	new	0	0	1	0
@@ -7389,7 +7191,6 @@ sekmīgi	sekmlgi	0	0	1	0
 daudzi	many	0	0	1	0
 daudzi	lot of	0	0	1	0
 pieci	five	0	0	1	1
-nauda	money	0	0	1	1
 dzīvās	live	0	0	1	0
 vairāk	more	0	0	1	1
 tiešas	judicial	0	0	1	0
@@ -7406,8 +7207,8 @@ safrāns	slovenia	1	0	1	0
 nolūkos	purposes	0	0	1	0
 puertoriko	puerto rico	0	0	1	0
 − °c	-  c	0	0	1	0
-pozīcijas	positions	0	0	1	0
 pozīcijas	position	0	0	1	0
+pozīcijas	positions	0	0	1	0
 garoza	crust	0	0	1	1
 sibīrijā	siberia	0	0	1	0
 dvēseli	soul	0	0	1	0
@@ -7420,7 +7221,6 @@ tiesā	court	0	0	1	0
 somijai	finland	0	0	1	0
 dēlam	son	0	0	1	0
 uzcelts	built	0	0	1	0
-ciema	villages	0	0	1	0
 ciema	village	0	0	1	0
 daudziem	many	0	0	1	0
 krustnešiem	crusaders	0	0	1	0
@@ -7442,7 +7242,6 @@ lielvalsti	superpower	0	0	1	0
 lielvalsti	extrapower	0	0	1	0
 pakļautībā	subordination	0	0	1	0
 pakļautībā	subordinated	0	0	1	0
-pakļautībā	under	0	0	1	0
 pēcnācēju	offspring	0	0	1	0
 grūtniecības	pregnancy	0	0	1	0
 orbīta	orbit	0	0	1	1
@@ -7451,7 +7250,7 @@ aug	growing up	0	0	1	0
 kultūrās	cultures	0	0	1	0
 kultūrās	culture	0	0	1	0
 uzvedības	behavior	0	0	1	0
-ministrija	ministry	0	0	1	1
+pireneju	pyrenees	0	0	1	0
 astoņas	eight	0	0	1	0
 orbītu	orbit	0	0	1	0
 fronte	front	0	0	1	1
@@ -7505,7 +7304,6 @@ tādiem	tadiem	0	0	1	0
 mākslinieks	artist	0	0	1	1
 profesionālā	professional	0	0	1	0
 profesionālā	profesionala	0	0	1	0
-radioaktīvo	of radioactive	0	0	1	0
 radioaktīvo	radioaktino	0	0	1	0
 acīmredzot	aclmredzot	0	0	1	0
 acīmredzot	obviously	0	0	1	0
@@ -7521,7 +7319,6 @@ plašākas	able to play	0	0	1	0
 čakstes	shrike	1	1	0	0
 čakstes	cakste	1	0	1	0
 līst	list	0	0	1	0
-līst	sneak	0	0	1	1
 kopīgi	jointly	0	0	1	1
 atstāja	left	0	0	1	0
 atstāja	atstaja	0	0	1	0
@@ -7543,7 +7340,6 @@ operētājsistēma	operational system	0	0	1	0
 mazuļu	baby	0	0	1	0
 beidza	closed	0	0	1	0
 kristiešu	christian	0	0	1	0
-kristiešu	fall	0	0	1	0
 iespējams	possible	0	0	1	1
 organizēt	organize	0	0	1	1
 apjomi	volumes	0	0	1	0
@@ -7563,20 +7359,18 @@ veikuši	made	0	0	1	0
 veikuši	have	0	0	1	0
 galos	ends	0	0	1	0
 kristālu	kristal	0	0	1	0
-kategorijahk	category hk	0	0	1	0
 kategorijahk	kategorijahk	0	0	1	0
 sezonas	seasonal	0	0	1	1
 sezonas	seasons	0	0	1	0
-bolderājā	bolderaja	0	0	1	0
 bolderājā	bolder	0	0	1	0
 apdzīvota	inhabited	0	0	1	0
 apdzīvota	populated	0	0	1	0
 apdzīvoto	inhabited	0	0	1	0
 apdzīvoto	settlements	0	0	1	0
 kopienas	community	0	0	1	0
-maksāja	paid	0	0	1	0
+saņēma	recieved	0	0	1	0
+saņēma	received the	0	0	1	0
 tekstā	text	0	0	1	0
-indriķa	indirka	0	0	1	0
 indriķa	henry	0	0	1	0
 nosūtīja	has sent	0	0	1	0
 nosūtīja	sent	0	0	1	0
@@ -7599,7 +7393,6 @@ sērskābes	sulfuric acid	0	0	1	0
 dobuma	cavity	0	0	1	0
 iezīmes	features	0	0	1	0
 nenotiek	no	0	0	1	0
-simtus	hundred	0	0	1	0
 simtus	hundreds of	0	0	1	0
 simtus	hundreds	0	0	1	0
 frontē	front	0	0	1	0
@@ -7621,7 +7414,6 @@ andrē	andre	0	0	1	0
 plūsma	flow	0	0	1	1
 militārie	military	0	0	1	0
 nokļūst	nokjust	0	0	1	0
-nokļūst	into the	0	0	1	0
 risinājums	the solution	0	0	1	0
 risinājums	solution	0	0	1	0
 šķeltkājvēži	or accumulation	1	0	1	0
@@ -7635,7 +7427,6 @@ risinājums	solution	0	0	1	0
 šķeltkājvēži	type of cancers	1	0	1	0
 cietību	hardness	0	0	1	0
 risinājumu	solution to	0	0	1	0
-trešajā	on the third	0	0	1	0
 trešajā	the third	0	0	1	0
 izpratni	understanding	0	0	1	0
 karolīnas	karolina: a name of hurricanes	0	0	1	0
@@ -7671,7 +7462,7 @@ meklējami	back	0	0	1	0
 meklējami	roots	0	0	1	0
 mārs	maar	1	1	0	0
 daugavas	daugava	0	0	1	0
-ieskaitot	including	0	0	1	1
+principi	principles	0	0	1	0
 vīķefreiberga	vikefreiberga	0	0	1	0
 vīķefreiberga	vike-freiberga	0	0	1	0
 konstantīns	constantine	0	0	1	0
@@ -7680,8 +7471,8 @@ vēlākie	later	0	0	1	0
 uzņemta	admitted	0	0	1	0
 fifa	fifa	0	0	1	0
 tērauds	steel	0	0	1	1
-temperatūru	temperature	0	0	1	0
 temperatūru	temperatures	0	0	1	0
+temperatūru	temperature	0	0	1	0
 hinduistu	hindu	0	0	1	0
 tēraudu	steel	0	0	1	0
 panthera	panthera	0	0	1	0
@@ -7700,8 +7491,8 @@ līdztekus	alongside	0	0	1	0
 līdztekus	along with	0	0	1	0
 atkarīgs	depends	0	0	1	0
 dzīvei	life	0	0	1	0
-apvienoto	combinado	0	0	1	0
 apvienoto	combined	0	0	1	0
+apvienoto	combinado	0	0	1	0
 slavenais	the famous	0	0	1	0
 apvienoti	combined	0	0	1	0
 personai	person	0	0	1	0
@@ -7800,7 +7591,6 @@ humānisms	humanism	0	0	1	1
 nozīmēja	meant	0	0	1	0
 nozīmēja	meaning	0	0	1	0
 vidējā	average	0	0	1	0
-vidējā	medium	0	0	1	0
 atradis	found	0	0	1	0
 daudzveidību	diversidad	0	0	1	0
 daudzveidību	diversity	0	0	1	0
@@ -7810,7 +7600,6 @@ stratēģiski	strategically	0	0	1	0
 cīņas	struggle	0	0	1	0
 sēdes	asiento	0	0	1	0
 sēdes	sittings	0	0	1	0
-sēdes	meeting	0	0	1	0
 daudzveidība	diversity	0	0	1	0
 ēd	ed	0	0	1	0
 ēd	eat	0	0	1	0
@@ -7848,12 +7637,10 @@ sevišķi	in particular in connection	0	0	1	0
 sevišķi	particularly	0	0	1	1
 dainu	dalnu	0	0	1	0
 dainu	folk	0	0	1	0
-plaušās	plausas	0	0	1	0
 plaušās	lungs	0	0	1	0
 indijas	indians	0	0	1	0
 indijas	indian	0	0	1	1
 vulkāns	volcano	0	0	1	1
-vulkāns	volcanoes	0	0	1	0
 vulkānu	volcanic	0	0	1	0
 sērijas	series	0	0	1	0
 sērijas	serial	0	0	1	1
@@ -7863,7 +7650,7 @@ mieru	peace	0	0	1	0
 vulkāna	volcanic	0	0	1	1
 vidējo	average	0	0	1	0
 vidējo	medium	0	0	1	0
-rīga	riga	0	0	1	0
+vidēji	average of	0	0	1	0
 vulkāni	volcanoes	0	0	1	0
 indijai	poison...	0	0	1	0
 indijai	india	0	0	1	0
@@ -7872,7 +7659,6 @@ plaušām	statiem	0	0	1	0
 plaušām	lungs	0	0	1	0
 galam	end	0	0	1	0
 medaļu	medal	0	0	1	0
-medaļu	mead	0	0	1	0
 sarkanās	sarkanas	0	0	1	0
 sarkanās	red	0	0	1	0
 izmantošanu	use of	0	0	1	0
@@ -7919,7 +7705,6 @@ krāsā	color	0	0	1	0
 pavadoņi	satellites	0	0	1	0
 pavadoņi	companion	0	0	1	0
 metāla	metal	0	0	1	0
-nozīmīgas	implied	0	0	1	0
 nozīmīgas	significant	0	0	1	0
 ātrums	rate	0	0	1	1
 ātrums	speed	0	0	1	1
@@ -7932,7 +7717,6 @@ jautājumos	jautajumoms	0	0	1	0
 plānošanas	planning	0	0	1	0
 pārveido	parviedo	0	0	1	0
 pārveido	converts	0	0	1	0
-pārveido	transforms	0	0	1	0
 ātruma	speed	0	0	1	0
 etniskā	ethical	0	0	1	0
 etniskā	ethnic	0	0	1	0
@@ -7958,8 +7742,8 @@ vilni	wave	0	0	1	0
 organisma	el organismo	0	0	1	0
 organisma	the body	0	0	1	0
 ārkārtas	emergency	0	0	1	0
-saturu	content	0	0	1	0
 saturu	saturu	0	0	1	0
+saturu	content	0	0	1	0
 roņu	ron	0	0	1	0
 roņu	seal	0	0	1	0
 saturs	content	0	0	1	1
@@ -7977,7 +7761,7 @@ atrodas	in	0	0	1	0
 administratīvā	administrative	0	0	1	0
 tīmekļa	website	0	0	1	0
 tīmekļa	web	0	0	1	0
-arheoloģiskie	archaeological	0	0	1	0
+koledžu	college	0	0	1	0
 saskaroties	the face	0	0	1	0
 ideoloģijas	ideology	0	0	1	0
 astoņi	eight	0	0	1	1
@@ -7996,10 +7780,9 @@ plašām	extensive	0	0	1	0
 plašām	plasam	0	0	1	0
 plašāk	plasak	0	0	1	0
 plašāk	lot	0	0	1	0
-indonēziju	indonesia	0	0	1	0
+skat	see	0	0	1	0
 kārta	karta	0	0	1	0
 kārta	does	0	0	1	0
-kārta	layer	0	0	1	1
 kārti	map	0	0	1	0
 kārti	card	0	0	1	0
 ligzdu	jack	0	0	1	0
@@ -8031,8 +7814,8 @@ lielākoties	the most	0	0	1	0
 žaunkājvēži	žaunkājvēži	1	0	1	0
 žaunkājvēži	branchiopoda	1	1	0	0
 žaunkājvēži	water flea	1	0	1	0
-osmaņi	ottoman	0	0	1	0
 osmaņi	osmani	0	0	1	0
+osmaņi	ottoman	0	0	1	0
 paketi	pacts	0	0	1	0
 paketi	package	0	0	1	0
 pakete	package	0	0	1	0
@@ -8040,7 +7823,6 @@ elektromagnētisko	electromagnetic	0	0	1	0
 sadalot	divided	0	0	1	0
 piekrastes	coastal	0	0	1	1
 izplatīšanās	dissemination of	0	0	1	0
-izplatīšanās	spread	0	0	1	1
 izplatīšanās	distribution	0	0	1	0
 apriņķis	county	0	0	1	0
 valdībā	liberty	0	0	1	0
@@ -8069,7 +7851,6 @@ nosaukuma	name	0	0	1	0
 administratīvi	administrative	0	0	1	0
 fabriku	factory	0	0	1	0
 administratīvo	administratio	0	0	1	0
-administratīvo	administrative	0	0	1	0
 nosaukumi	names	0	0	1	0
 dzīvojamo	residential	0	0	1	0
 dzīvojamo	living	0	0	1	0
@@ -8107,13 +7888,12 @@ it	especially	0	0	1	0
 it	in	0	0	1	0
 augiem	plants	0	0	1	0
 iv	iv	0	0	1	0
-ii	ii	0	0	1	0
 ii	ii: second or two	0	0	1	0
 ik	every	0	0	1	1
 im	im	0	0	1	0
 in	in	0	0	1	0
-labklājība	well-being	0	0	1	1
-labklājība	well being	0	0	1	0
+kreiso	kreis	0	0	1	0
+kreiso	left	0	0	1	0
 vāji	poor	0	0	1	0
 vāji	poorly	0	0	1	1
 uzceltas	built	0	0	1	0
@@ -8129,8 +7909,8 @@ tīrā	tlra	0	0	1	0
 tīrā	pure	0	0	1	0
 angliski	english	0	0	1	0
 futbolu	football	0	0	1	0
-mestrs	meslrs	0	0	1	0
 mestrs	master	0	0	1	0
+mestrs	meslrs	0	0	1	0
 tirdzniecību	trading	0	0	1	0
 tirdzniecību	trade	0	0	1	0
 pretī	against	0	0	1	1
@@ -8148,12 +7928,10 @@ tulkotāji	translators	0	0	1	0
 roma	rome	0	0	1	0
 ligzdā	ligzda	0	0	1	0
 ligzdā	nest	0	0	1	0
-nosakot	setting	0	0	1	0
-nosakot	determine	0	0	1	0
+slikta	poor	0	0	1	0
 savienojumus	connections	0	0	1	0
 sarunas	talks	0	0	1	1
 stāstīts	told	0	0	1	0
-facto	facto	0	0	1	0
 facto	fact	0	0	1	0
 just	feel	0	0	1	1
 just	to feel	0	0	1	0
@@ -8222,8 +8000,7 @@ statusu	status	0	0	1	0
 statuss	status	0	0	1	0
 gleznotājs	painter	0	0	1	1
 upēs	river	0	0	1	0
-upēs	rivers	0	0	1	0
-katrā	each	0	0	1	0
+konferences	conference	0	0	1	0
 stārķis	stork	0	0	1	0
 upēm	lakes	0	0	1	0
 upēm	rivers	0	0	1	0
@@ -8232,7 +8009,6 @@ statusa	status	0	0	1	0
 veda	led	0	0	1	0
 gleznotāji	painters	0	0	1	0
 dialekts	dialect	0	0	1	1
-izplešanās	expansion	0	0	1	1
 komisiju	commissions	0	0	1	0
 dieviem	the gods	0	0	1	0
 darināts	fashion	0	0	1	0
@@ -8334,7 +8110,6 @@ attīstīti	developed	0	0	1	0
 attīstīti	develop	0	0	1	0
 maču	matsu	0	0	1	0
 attīstīto	developed	0	0	1	0
-attīstīto	develop	0	0	1	0
 impēriju	empire	0	0	1	0
 diplomātiskās	diplomatic	0	0	1	0
 attīstīts	develop	0	0	1	0
@@ -8347,7 +8122,6 @@ deklarācijas	declarations	0	0	1	0
 atteikties	refuse	0	0	1	1
 augšu	upside	0	0	1	0
 augšu	up	0	0	1	0
-augšu	upward	0	0	1	0
 izceļas	stand out	0	0	1	0
 piekrišanu	agreement with	0	0	1	0
 vista	hen	0	0	1	1
@@ -8362,7 +8136,6 @@ veidošanas	building	0	0	1	0
 veidošanas	deep	0	0	1	0
 apmetušies	settled	0	0	1	0
 apmetušies	apmetusies	0	0	1	0
-rodas	derive	0	0	1	0
 rodas	from	0	0	1	0
 veidošanai	formation	0	0	1	0
 katru	each and every	0	0	1	0
@@ -8399,7 +8172,8 @@ merostomāti	merostomati	1	1	0	0
 merostomāti	eighteenth	1	0	1	0
 merostomāti	merostomi	1	1	0	0
 merostomāti	merostomati: a name	1	0	1	0
-paredzēti	for	0	0	1	0
+trijās	had been worked out	0	0	1	0
+trijās	three	0	0	1	0
 ārēji	they are like the flower	0	0	1	0
 ārēji	outdoor	0	0	1	0
 ārēji	ball or   umbrella.	0	0	1	0
@@ -8444,7 +8218,6 @@ galvu	head	0	0	1	0
 die	die	0	0	1	0
 izpildīt	execute	0	0	1	1
 paaugstinātā	raise	0	0	1	0
-paaugstinātā	paaugstinata	0	0	1	0
 paaugstinātā	elevated	0	0	1	0
 galva	head	0	0	1	1
 aizsākumi	dates	0	0	1	0
@@ -8467,10 +8240,9 @@ pastiprinājās	intensified	0	0	1	0
 pētnieks	researcher	0	0	1	0
 pētnieks	investigation	0	0	1	0
 pētnieks	investigator	0	0	1	1
-ārkārtīgi	extremely	0	0	1	1
+ievēlēja	elected	0	0	1	0
 islāmā	islam	0	0	1	0
 sirreālisms	surrealism	0	0	1	0
-riņķa	ring	0	0	1	0
 riņķa	circle	0	0	1	0
 vislielākā	the most	0	0	1	0
 vislielākā	the greatest	0	0	1	0
@@ -8488,17 +8260,12 @@ komunistiskā	communist	0	0	1	0
 nosaukta	named	0	0	1	0
 reliģiska	religious	0	0	1	0
 valūta	currency	0	0	1	1
-sportistu	sportistu	0	0	1	0
-sportistu	athletes	0	0	1	0
 reliģisku	religious	0	0	1	0
 nosaukts	named	0	0	1	0
 valūtu	currency	0	0	1	0
 bloks	block	0	0	1	1
-izstrādāja	developed a	0	0	1	0
-izstrādāja	by	0	0	1	0
+kodu	code	0	0	1	0
 alumīnija	aluminium	0	0	1	0
-alumīnija	aluminum	0	0	1	0
-piekrastē	coast	0	0	1	0
 iežus	rocks	0	0	1	0
 smiltis	sand	0	0	1	1
 tūristu	foreign residents and tourism workers.	0	0	1	0
@@ -8559,7 +8326,6 @@ organizācijās	organizations	0	0	1	0
 izveidojusies	developed	0	0	1	0
 izveidojusies	izveidojuies	0	0	1	0
 izveidojusies	built up	0	0	1	0
-marksa	marx	0	0	1	0
 marksa	marks	0	0	1	0
 indiju	india	0	0	1	0
 organizācijām	organization	0	0	1	0
@@ -8580,14 +8346,11 @@ noteica	was	0	0	1	0
 pazīstamākais	known	0	0	1	0
 izskatās	decisive	0	0	1	0
 izskatās	look	0	0	1	0
-izskatās	looks	0	0	1	0
 vērtēja	evaluated	0	0	1	0
 cīņa	struggle	0	0	1	1
 fantastika	fantastic	1	1	0	0
 asinsrites	circulatory	0	0	1	0
-asinsrites	circulation	0	0	1	0
 oslo	oslo	0	0	1	0
-oslo	osio	0	0	1	0
 muskuļi	muscles	0	0	1	0
 muskuļi	muscle	0	0	1	0
 aspektus	aspects of	0	0	1	0
@@ -8607,8 +8370,8 @@ maz	little	0	0	1	1
 laukiem	fields	0	0	1	0
 mac	mac	0	0	1	0
 zvaigznes	stars	0	0	1	0
-vislielāko	the most	0	0	1	0
 vislielāko	the greatest	0	0	1	0
+vislielāko	the most	0	0	1	0
 islāms	islam	0	0	1	0
 islāmu	islam	0	0	1	0
 man	me	0	0	1	1
@@ -8658,11 +8421,9 @@ lielbritānijas	uk	0	0	1	0
 mail	email	0	0	1	0
 baltkrievijas	belarus	0	0	1	0
 baltkrievijas	baltkreivijas	0	0	1	0
-jaunākie	newest	0	0	1	0
 jaunākie	younger	0	0	1	0
 jaunākie	last	0	0	1	0
 slāņus	layers	0	0	1	0
-slāņus	layer	0	0	1	0
 vietējo	local	0	0	1	0
 vietējo	of local	0	0	1	0
 zvēru	the beast	0	0	1	0
@@ -8670,12 +8431,10 @@ etiopijas	ethiopia	0	0	1	0
 nokrišņi	precipitation	0	0	1	1
 punktā	point	0	0	1	0
 punktā	in	0	0	1	0
-domāšana	thinking	0	0	1	1
 domāšana	of thinking	0	0	1	0
 tropu	tropical	0	0	1	0
 četrās	four	0	0	1	0
 grāmatām	books	0	0	1	0
-grāmatām	paper for	0	0	1	0
 domāšanu	thinking	0	0	1	0
 domāšanu	think	0	0	1	0
 vairākums	majority	0	0	1	1
@@ -8684,7 +8443,6 @@ kandidātiem	candidates	0	0	1	0
 ārējais	outside	0	0	1	1
 ārējais	external	0	0	1	0
 kāršu	cards	0	0	1	0
-kāršu	kidney	0	0	1	0
 tiks	will	0	0	1	0
 manifests	manifesto	0	0	1	1
 takts	tact	0	0	1	1
@@ -8711,11 +8469,9 @@ fenols	yours	1	0	1	0
 informāciju	information	0	0	1	0
 iespējamo	have a way	0	0	1	0
 iespējamo	possible	0	0	1	0
-iespējamo	eventual	0	0	1	0
 nodarbojas	deal	0	0	1	0
 pasaules	world	0	0	1	0
-kontinentālais	continental	0	0	1	0
-kontinentālais	continental ice	0	0	1	0
+dokumentus	documents	0	0	1	0
 iespējami	you can open	0	0	1	0
 tika	was	0	0	1	0
 informācija	information	0	0	1	1
@@ -8739,7 +8495,7 @@ ministri	ministers	0	0	1	0
 rakstības	writing	0	0	1	0
 savukārt	in turn	0	0	1	0
 savukārt	but	0	0	1	0
-principi	principles	0	0	1	0
+ieskaitot	including	0	0	1	1
 ministra	minister	0	0	1	0
 skaitļa	skaitla	0	0	1	0
 skaitļa	number of	0	0	1	0
@@ -8801,7 +8557,6 @@ gaidīja	waited	0	0	1	0
 mainījies	cambiado	0	0	1	0
 mainījies	changed	0	0	1	0
 putekļu	dust	0	0	1	0
-putekļu	vacuum	0	0	1	0
 atstāt	leave	0	0	1	1
 baidījās	afraid of	0	0	1	0
 baidījās	feared	0	0	1	0
@@ -8831,9 +8586,9 @@ politikai	policy	0	0	1	0
 politikai	polilikai	0	0	1	0
 izvietojums	placing	0	0	1	0
 izvietojums	location	0	0	1	1
-gūstā	pushed	0	0	1	0
 gūstā	gusta	0	0	1	0
-slikta	poor	0	0	1	0
+nosakot	setting	0	0	1	0
+nosakot	determine	0	0	1	0
 politiski	politiski	0	0	1	0
 politiski	political	0	0	1	0
 politisko	political	0	0	1	0
@@ -8855,6 +8610,7 @@ pamatojoties	on	0	0	1	0
 jaunatnes	youth	0	0	1	0
 beta	beta	0	0	1	1
 beta	beia	0	0	1	0
+slaveno	famous	0	0	1	0
 beigām	till	0	0	1	0
 normas	standards	0	0	1	0
 rada	a	0	0	1	0
@@ -8867,7 +8623,7 @@ kuršu	cure	0	0	1	0
 dalībvalstu	include	0	0	1	0
 dalībvalstu	of states as	0	0	1	0
 dalībvalstu	member state	0	0	1	0
-ģeoloģijas	geology	0	0	1	0
+dalībvalsts	member	0	0	1	0
 filozofijā	philosophy	0	0	1	0
 dažviet	in some places	0	0	1	0
 briselē	brussels	0	0	1	0
@@ -8918,7 +8674,6 @@ notikumiem	events	0	0	1	0
 fronti	front	0	0	1	0
 dziļākais	the deepest	0	0	1	0
 dziļākais	deepest	0	0	1	0
-iedarbība	effect	0	0	1	1
 iedarbība	exposure	0	0	1	0
 tuksneša	the desert	0	0	1	0
 skotijā	scotland	0	0	1	0
@@ -8937,7 +8692,6 @@ ziedu	floral	0	0	1	1
 dadaisma	dadaism	0	0	1	0
 label	label	0	0	1	0
 cd	cd	0	0	1	0
-emisijas	issue	0	0	1	0
 emisijas	emission	0	0	1	0
 emisijas	emissions	0	0	1	0
 gaga	eider	0	0	1	0
@@ -8964,11 +8718,9 @@ rēķina	expense	0	0	1	0
 rēķina	rekina	0	0	1	0
 nekāda	under no	0	0	1	0
 nekāda	never	0	0	1	0
-ceremonijas	ceremony	0	0	1	0
 lsdsp	lsdsp	0	0	1	0
 uzbrucējs	attacker	0	0	1	1
 ķīna	china	0	0	1	0
-ķīna	kina	0	0	1	0
 resurss	aviation	1	0	1	0
 resurss	ing	1	0	1	0
 resurss	resource	1	1	0	0
@@ -8988,7 +8740,6 @@ iespējām	opportunities	0	0	1	0
 ezeriem	lakes	0	0	1	0
 ķīnu	kinu	0	0	1	0
 ķīnu	china	0	0	1	0
-kategorijatriju	kategorijatriju	0	0	1	0
 nīla	nils	0	0	1	0
 nīla	nile	0	0	1	0
 atomus	atoms	0	0	1	0
@@ -9042,7 +8793,6 @@ iegūto	ieguto	0	0	1	0
 krusta	cross	0	0	1	0
 tiklīdz	as soon as	0	0	1	0
 izaugsmes	growth	0	0	1	0
-iegūtu	obtained	0	0	1	0
 iegūtu	get	0	0	1	0
 iegūtu	more	0	0	1	0
 iegūts	obtained	0	0	1	0
@@ -9055,7 +8805,6 @@ zemākais	have the lowest	0	0	1	0
 zemākais	the lowest	0	0	1	0
 slovēnija	slovenai	0	0	1	0
 slovēnija	slovenia	0	0	1	0
-galaktika	galaxy	0	0	1	1
 uzbrucēji	forwards	0	0	1	0
 nedod	not	0	0	1	0
 čaikovskis	tchaikovsky: a name	0	0	1	0
@@ -9074,7 +8823,6 @@ kubs	cube	1	1	1	1
 kubs	cubes	1	0	1	0
 mani	me	0	0	1	1
 mani	me...	0	0	1	0
-cīnās	struggle	0	0	1	0
 cīnās	fighting	0	0	1	0
 kuba	cube	0	0	1	0
 šā	this	0	0	1	0
@@ -9092,7 +8840,6 @@ slimība	circle	1	0	1	0
 slimība	round	1	0	1	0
 iedarbībā	influence	0	0	1	0
 iedarbībā	effect	0	0	1	0
-iedarbībā	exposure	0	0	1	0
 āfrikas	afrikas	0	0	1	0
 āfrikas	african	0	0	1	0
 karsējot	heating	0	0	1	0
@@ -9131,7 +8878,6 @@ mācībām	studies	0	0	1	0
 pili	castle	0	0	1	0
 pili	pille	0	0	1	0
 ziemeļjūru	ziemejjuru	0	0	1	0
-ziemeļjūru	north	0	0	1	0
 nācis	come	0	0	1	0
 izteiksme	expression	0	0	1	1
 nodrošinātu	by nodrosinat	0	0	1	0
@@ -9150,7 +8896,7 @@ bāze	base for	1	0	1	0
 bāze	bsae	1	0	1	0
 grib	wants to	0	0	1	0
 grib	want	0	0	1	0
-iegādāties	buy	0	0	1	0
+trešdaļa	three	0	0	1	0
 nodrošināta	provided	0	0	1	0
 nodrošināta	provided to	0	0	1	0
 baltkrievi	belarusians	0	0	1	0
@@ -9173,7 +8919,7 @@ daļa	part	0	0	1	1
 km²	kilometer square	0	0	1	0
 km²	km2	0	0	1	0
 km²	km2; square kilometre	0	0	1	0
-interpretāciju	interpretation	0	0	1	0
+ģimeni	family	0	0	1	0
 ģimene	neighborhood	0	0	1	0
 ģimene	family	0	0	1	1
 tuvums	closeness	0	0	1	1
@@ -9198,7 +8944,6 @@ pozitīvi	positively	0	0	1	1
 okupāciju	occupation	0	0	1	0
 īpašiem	specific thresholds	0	0	1	0
 īpašiem	important	0	0	1	0
-īpašiem	special	0	0	1	0
 pieciem	five	0	0	1	0
 optikas	optical	0	0	1	0
 vailds	wilde	0	0	1	0
@@ -9212,12 +8957,11 @@ attīstījās	developed	0	0	1	0
 londonu	london	0	0	1	0
 krētas	crete	0	0	1	0
 londona	london	0	0	1	0
-atnes	brings	0	0	1	0
 atnes	bring	0	0	1	0
+atnes	brings	0	0	1	0
 skatīt	see	0	0	1	0
 skatīt	skatit	0	0	1	0
 vērsties	turn	0	0	1	1
-vērsties	versties	0	0	1	0
 vienoties	agree	0	0	1	1
 liepājas	psychology	0	0	1	0
 liepājas	liepaja	0	0	1	0
@@ -9240,9 +8984,8 @@ daļā	divided	0	0	1	0
 struktūras	structures	0	0	1	0
 flotes	marine	0	0	1	1
 kārtis	cards	0	0	1	1
-armijai	army	0	0	1	0
 balts	white	0	0	1	1
-baltu	baltic	0	0	1	1
+paaudzes	generation	0	0	1	0
 balti	balti	0	0	1	0
 balti	white	0	0	1	0
 kategorijakrievijas	kategorijakrievijas	0	0	1	0
@@ -9279,7 +9022,6 @@ māti	hair	0	0	1	0
 māti	mother	0	0	1	0
 novērojamas	observed	0	0	1	0
 speciālā	speciality	0	0	1	0
-pireneju	pyrenees	0	0	1	0
 ķīmisko	chemical and	0	0	1	0
 kapacitāte	question	1	0	1	0
 kapacitāte	kapacitate	1	0	1	0
@@ -9287,7 +9029,6 @@ kapacitāte	capacity	1	1	1	1
 kapacitāte	selenium	1	0	1	0
 pilī	castle	0	0	1	0
 četrus	four	0	0	1	0
-nesaskaņu	not consistent	0	0	1	0
 nesaskaņu	disagreement	0	0	1	0
 reformām	reformation	0	0	1	0
 reformām	reforms	0	0	1	0
@@ -9326,15 +9067,14 @@ sakārtotas	grouping	0	0	1	0
 kaimiņu	neighboring	0	0	1	1
 mēs	we	0	0	1	1
 stikla	glass	0	0	1	0
-astes	caudal	0	0	1	1
 astes	tail	0	0	1	0
+astes	caudal	0	0	1	1
 studentu	students	0	0	1	0
 studentu	student	0	0	1	0
 izgatavošanai	production	0	0	1	0
 izgatavošanai	fabrication	0	0	1	0
 viņiem	them	0	0	1	1
 viņiem	themself	0	0	1	0
-teritorija	territory	0	0	1	1
 jāņem	be	0	0	1	0
 jāņem	take	0	0	1	0
 ieraksta	record	0	0	1	0
@@ -9388,7 +9128,7 @@ izpildvaru	executive	0	0	1	0
 alvu	tin	0	0	1	0
 pieaudzis	increased	0	0	1	0
 vispār	at all	0	0	1	0
-vispār	in general	0	0	1	1
+vispār	in general	0	0	1	0
 rodanīdi	thiocyanate	1	1	0	0
 stambulā	istanbul	0	0	1	0
 siltas	warm	0	0	1	0
@@ -9413,9 +9153,7 @@ konfederācijas	confederation	0	0	1	0
 iniciatīvas	initiatives	0	0	1	0
 iniciatīvas	initiative	0	0	1	0
 atšķīrās	differs	0	0	1	0
-turpināja	continued	0	0	1	0
-paaudzes	generation	0	0	1	0
-paaudzes	generations	0	0	1	0
+sudrabs	silver	0	0	1	1
 stratēģiju	strategy	0	0	1	0
 federācija	federation of	0	0	1	0
 federācija	federation	0	0	1	1
@@ -9440,7 +9178,6 @@ kuģiem	ships	0	0	1	0
 martins	admin	0	0	1	0
 martins	administrate	0	0	1	0
 grūtāk	harder	0	0	1	0
-grūtāk	difficult	0	0	1	0
 fotosintēzes	photosynthesis	0	0	1	0
 desmit	ten	0	0	1	1
 zālē	hall	0	0	1	0
@@ -9450,7 +9187,6 @@ līdz	till	0	0	1	1
 līdz	up	0	0	1	0
 franču	french	0	0	1	0
 franči	franz	0	0	1	0
-franči	the french	0	0	1	0
 franči	french	0	0	1	0
 kapacitātes	capacity	0	0	1	0
 kapacitātes	kapacitates	0	0	1	0
@@ -9499,29 +9235,24 @@ daļām	lots	0	0	1	0
 pateicoties	thanks	0	0	1	0
 iegūti	obtained	0	0	1	0
 optiskās	optical	0	0	1	0
-senči	ancestry	0	0	1	1
 senči	ancestors	0	0	1	0
+senči	ancestry	0	0	1	1
 līdzenumā	plain	0	0	1	0
-sēž	sits	0	0	1	0
 sēž	sez	0	0	1	0
-priekšrocības	manufacturing benefits	0	0	1	0
 priekšrocības	benefit	0	0	1	0
 priekšrocības	benefits	0	0	1	0
 spožums	brilliance	0	0	1	1
 spožums	brightness	0	0	1	0
-der	part of german surname. ridiger fon der golc	0	0	1	0
-der	der	0	0	1	0
 des	des	0	0	1	0
 sastāda	upto	0	0	1	0
 sastāda	make up	0	0	1	0
 sadarbībā	co-operation	0	0	1	0
 izveide	creation	0	0	1	0
 izveide	establishment	0	0	1	0
-del	del	0	0	1	0
 del	del: surname	0	0	1	0
+del	del	0	0	1	0
 den	den	0	0	1	0
 tādējādi	thus	0	0	1	0
-tādējādi	thereby	0	0	1	1
 decembra	december	0	0	1	0
 izveidi	the establishment	0	0	1	0
 izveidi	export...	0	0	1	0
@@ -9536,7 +9267,6 @@ izejvielu	raw materials	0	0	1	0
 lieluma	size	0	0	1	0
 palielinājās	rose	0	0	1	0
 samazinātu	minimize	0	0	1	0
-samazinātu	reduce	0	0	1	0
 lielumi	sizes	0	0	1	0
 tehniskās	technical	0	0	1	0
 pirmā	main	0	0	1	0
@@ -9546,15 +9276,12 @@ lielumu	size	0	0	1	0
 preču	good	0	0	1	0
 preču	goods	0	0	1	0
 viena	one	0	0	1	0
-aīds	aids	0	0	1	0
-aīds	hades	0	0	1	0
 vieni	servirá	0	0	1	0
 vieni	one	0	0	1	0
 vieno	united	0	0	1	0
 vieno	unite	0	0	1	0
 palīdzību	help of	0	0	1	0
 palīdzību	pahdzlbu	0	0	1	0
-palīdzību	help	0	0	1	0
 viens	one	0	0	1	1
 aīda	aida	0	0	1	0
 vienu	uno	0	0	1	0
@@ -9587,16 +9314,15 @@ uzskatus	views	0	0	1	0
 vienlīdzību	equal	0	0	1	0
 veidojās	formed	0	0	1	0
 vienlīdzība	equal opportunities	0	0	1	0
-vienlīdzība	equality	0	0	1	1
 serdes	cores	0	0	1	0
 smaku	odor	0	0	1	0
-lats	lat	0	0	1	0
 lats	lats	0	0	1	0
 sešas	six	0	0	1	0
 akmeņogles	by akmenogl	0	0	1	0
 akmeņogles	coal	0	0	1	1
 garīgās	mental	0	0	1	0
-garīgās	on mental	0	0	1	0
+lietu	affairs	0	0	1	0
+lietu	lietu	0	0	1	0
 tirgus	market	0	0	1	1
 arguments	argument	0	0	1	1
 žanri	genres	0	0	1	0
@@ -9654,7 +9380,6 @@ vārdos	words	0	0	1	0
 roku	hand	0	0	1	0
 jaudas	power	0	0	1	0
 produkcijas	production	0	0	1	0
-pilskalns	castle hill	0	0	1	0
 provincē	province	0	0	1	0
 laulību	marriage	0	0	1	0
 kategorijavācu	kategorijavacu	0	0	1	0
@@ -9680,12 +9405,10 @@ līmenis	level	1	1	1	1
 līmenis	itmenis	1	0	1	0
 līmenis	eleven	1	0	1	0
 līmenis	rate	1	0	1	0
-līmenis	level of	1	1	1	0
+līmenis	level of	1	1	0	0
 mapsvg|width=|float=	mapsvg | width = | flota =	0	0	1	0
-mapsvg|width=|float=	svg map/ =width/float=	0	0	1	0
 līmenim	level	0	0	1	0
 sevī	includes	0	0	1	0
-sevī	yourself	0	0	1	0
 vadoņi	leader	0	0	1	0
 vadoņi	leaders	0	0	1	0
 sasniegusi	reached	0	0	1	0
@@ -9698,7 +9421,7 @@ iznīcināšanas	extermination	0	0	1	0
 panākumi	success	0	0	1	0
 panākumi	the success	0	0	1	0
 kājām	legs	0	0	1	0
-kājām	on foot	0	0	1	1
+kājām	on foot	0	0	1	0
 idille	idyll	1	1	0	0
 itāļu	by italian	0	0	1	0
 itāļu	italian	0	0	1	0
@@ -9715,7 +9438,6 @@ prezidentūras	presidency	0	0	1	0
 tīklos	networks	0	0	1	0
 sesks	polecat	0	0	1	1
 pilnā	full	0	0	1	0
-pilnā	plin	0	0	1	0
 akas	wells	0	0	1	0
 john	john	0	0	1	0
 niķeļa	nickel	0	0	1	0
@@ -9776,7 +9498,7 @@ ko	what	0	0	1	1
 ko	which	0	0	1	0
 km	kilometres	0	0	1	0
 km	miles	0	0	1	0
-neliela	small	0	0	1	0
+kr	color	0	0	1	0
 nelieli	small	0	0	1	0
 tinuma	coil	0	0	1	0
 tinuma	tinuma	0	0	1	0
@@ -9792,7 +9514,6 @@ speciāla	speciality	0	0	1	0
 speciāla	special	0	0	1	0
 dzejoļa	poem	0	0	1	0
 dzejoļa	the poem	0	0	1	0
-pētī	study	0	0	1	0
 pētī	peti	0	0	1	0
 lauks	field	0	0	1	1
 lauku	rural	0	0	1	0
@@ -9805,7 +9526,6 @@ saistās	bound	0	0	1	0
 ādolfs	adolf	0	0	1	0
 rasties	arise	0	0	1	1
 elektrību	electricity	0	0	1	0
-kategorijabijušās	categories has had	0	0	1	0
 kuldīgā	by kuldig	0	0	1	0
 kuldīgā	kuldiga: a name	0	0	1	0
 ielām	streets	0	0	1	0
@@ -9862,12 +9582,12 @@ blīva	dense	0	0	1	0
 kategorijaasv	category of the u.s.	0	0	1	0
 reizi	time	0	0	1	0
 reliģiju	religion	0	0	1	0
-reliģiju	religious	0	0	1	0
 ikp	gdp	0	0	1	0
 ikp	ikp	0	0	1	0
 celšanās	lifting	0	0	1	0
 izvēlēties	choose	0	0	1	1
-kalpaka	kalpaka	0	0	1	0
+būve	building	0	0	1	0
+būve	builds	0	0	1	0
 neskaidra	uncertain	0	0	1	0
 reliģija	religion	0	0	1	1
 pamats	basis	0	0	1	1
@@ -9896,18 +9616,18 @@ oksīds	oxide	0	0	1	1
 reta	a rare	0	0	1	0
 dzīvē	life	0	0	1	0
 armiju	army	0	0	1	0
-veikt	carry out	0	0	1	1
+veikt	carry out	0	0	1	0
 veikt	take	0	0	1	1
 siltumā	thermal	0	0	1	0
 interesēm	interests	0	0	1	0
 interesēs	interests	0	0	1	0
-interesēs	interest	0	0	1	0
 dzīvojamās	dzivojamas	0	0	1	0
 oksīda	oxide	0	0	1	0
 jaunais	new	0	0	1	0
 slēdzenis	locks	0	0	1	0
-slēdzenis	siedzenis	0	0	1	0
 mazākas	lowest	0	0	1	0
+kontinentālais	continental	0	0	1	0
+kontinentālais	continental ice	0	0	1	0
 veidojušies	formed	0	0	1	0
 kurdu	kurdish	0	0	1	0
 reformas	reform	0	0	1	0
@@ -9959,6 +9679,7 @@ pieprasīja	has requested	0	0	1	0
 pieprasīja	demanded	0	0	1	0
 sapiens	sapiens	0	0	1	0
 pilnībā	fully	0	0	1	0
+baltu	baltic	0	0	1	1
 frīdrihs	friedrich	0	0	1	0
 ceļā	cala	0	0	1	0
 ceļā	road	0	0	1	0
@@ -9974,8 +9695,8 @@ eiropiešiem	europeans	0	0	1	0
 joslu	band	0	0	1	0
 pārstāv	represents	0	0	1	0
 y	y	0	0	1	0
-trešdaļa	three	0	0	1	0
-trešdaļa	third	0	0	1	1
+iegādāties	buy	0	0	1	0
+atklāja	discovered	0	0	1	0
 demokrātiskā	the democratic	0	0	1	0
 demokrātiskā	democratic	0	0	1	0
 homēra	homer	0	0	1	0
@@ -9986,7 +9707,6 @@ konferencē	conference	0	0	1	0
 kokos	coconut	0	0	1	0
 kokos	trees	0	0	1	0
 pareizticīgie	orthodox	0	0	1	0
-unesco	unesco	0	0	1	0
 rokā	in hand	0	0	1	0
 rokā	in the hand	0	0	1	0
 rokā	hand	0	0	1	0
@@ -9995,11 +9715,10 @@ kubas	cuban	0	0	1	0
 aizliedz	prohibits	0	0	1	0
 patstāvīgi	independently	0	0	1	0
 palikt	stay	0	0	1	1
-iekšpolitikā	internal	0	0	1	0
 iekšpolitikā	domestic policy	0	0	1	0
 organizētas	organized	0	0	1	0
-bij	had	0	0	1	0
 bij	bij	0	0	1	0
+bij	had	0	0	1	0
 iela	street	0	0	1	1
 iela	iela	0	0	1	0
 noteiktām	a certain	0	0	1	0
@@ -10009,8 +9728,6 @@ ielu	street	0	0	1	0
 ilgāk	longer that	0	0	1	0
 ilgāk	longer	0	0	1	0
 pārtraukt	stop	0	0	1	1
-skar	touches	0	0	1	0
-skar	concerns	0	0	1	0
 saglabājas	remains	0	0	1	0
 saglabājas	remained at	0	0	1	0
 disku	disc	0	0	1	0
@@ -10046,7 +9763,6 @@ trolejbusu	trolley	0	0	1	0
 lidmašīna	aircraft	0	0	1	1
 vācijas	german	0	0	1	0
 vācijas	germany	0	0	1	0
-ģimeni	family	0	0	1	0
 eiropai	europe	0	0	1	0
 lidmašīnu	aircraft	0	0	1	1
 lidmašīnu	airplanes	0	0	1	0
@@ -10058,9 +9774,8 @@ makroekonomika	talks	1	0	1	0
 makroekonomika	discussions	1	0	1	0
 makroekonomika	conversations	1	0	1	0
 vietas	site	0	0	1	0
-viceprezidents	vice president	0	0	1	0
+saviem	their	0	0	1	0
 nepastāv	there	0	0	1	0
-runāja	talked	0	0	1	0
 runāja	said	0	0	1	0
 ikdienā	weekday	0	0	1	0
 ilgāku	a longer	0	0	1	0
@@ -10069,7 +9784,6 @@ mehānismu	mechanism for	0	0	1	0
 pašnāvību	suicides	0	0	1	0
 britannica	britannica	0	0	1	0
 vietne	site	0	0	1	0
-pārvietoties	travel	0	0	1	1
 pārvietoties	journey	0	0	1	0
 pārvietoties	ascending	0	0	1	0
 gramatika	grammer	0	0	1	0
@@ -10082,7 +9796,6 @@ normālos	normal	0	0	1	0
 spilgti	bright	0	0	1	1
 flāmu	flemish	0	0	1	1
 tukšs	empty	0	0	1	1
-mēri	meri	0	0	1	0
 mēri	measures	0	0	1	0
 nevēlas	doesn't want to	0	0	1	0
 nevēlas	do not want to	0	0	1	0
@@ -10114,7 +9827,6 @@ līdzskaņi	consonant	0	0	1	0
 tirgotājiem	marketrers	0	0	1	0
 tirgotājiem	traded	0	0	1	0
 trūkums	lack	0	0	1	1
-trūkums	disadvantage of	0	0	1	0
 meklē	looking	0	0	1	0
 trūkumu	lack of	0	0	1	0
 kuldīgas	kuldigas	0	0	1	0
@@ -10132,7 +9844,6 @@ radījis	given rise to	0	0	1	0
 radījis	created	0	0	1	0
 līdzskaņu	consonant	0	0	1	0
 apgrozībā	about	0	0	1	0
-apgrozībā	traded	0	0	1	0
 apgrozībā	circulation	0	0	1	0
 sasniegts	achieved	0	0	1	0
 bruņu	armored	0	0	1	1
@@ -10162,7 +9873,6 @@ pielietot	apply	0	0	1	1
 tradīcijām	tradition	0	0	1	0
 ievēlē	elected	0	0	1	0
 ievēlē	selected	0	0	1	0
-ievēlē	elected by	0	0	1	0
 perē	incubated	0	0	1	0
 perē	pere	0	0	1	0
 koraļļu	coral	0	0	1	1
@@ -10172,12 +9882,12 @@ viļņiem	wave	0	0	1	0
 ogrei	ogres	0	0	1	0
 ogres	ogres	0	0	1	0
 kopējās	total	0	0	1	0
-kopējās	common	0	0	1	0
 veidojas	formed	0	0	1	0
 izteiktas	expressed	0	0	1	0
 rīkotas	held	0	0	1	0
 papildus	addition	0	0	1	0
-papildus	in addition	0	0	1	1
+papildus	in addition	0	0	1	0
+ministrija	ministry	0	0	1	1
 ieteica	recommended	0	0	1	0
 uzrakstījis	written	0	0	1	0
 karavīri	soldiers	0	0	1	0
@@ -10215,12 +9925,11 @@ izņemot	except	0	0	1	1
 toreiz	then	0	0	1	1
 protokola	protocol	0	0	1	0
 protokoli	protocols	0	0	1	0
-alūksnes	aluksnes	0	0	1	0
 alūksnes	aluksnes: a name	0	0	1	0
+alūksnes	aluksnes	0	0	1	0
 spirti	alcohols	0	0	1	0
 rituāliem	rituals	0	0	1	0
 sastāvdaļām	components	0	0	1	0
-sastāvdaļām	ingredients	0	0	1	0
 pietekas	tributary	0	0	1	1
 brīdi	moment	0	0	1	0
 brīdi	time	0	0	1	0
@@ -10234,20 +9943,18 @@ pieminekli	monument	0	0	1	0
 izpilda	execute	0	0	1	0
 izpilda	executed	0	0	1	0
 izskaidro	explain	0	0	1	0
-atēnās	only in atenas without trial is killed and about 1	0	0	1	0
+atēnās	rapid economic and social progess athens and other greek polis soon reached its upper limit	0	0	1	0
 atēnās	500 of its   nationals	0	0	1	0
 atēnās	but about 5000 democrats were deported.	0	0	1	0
-atēnās	which   lasted only eight months	0	0	1	0
-atēnās	rapid economic and social progess athens and other greek polis soon reached its upper limit	0	0	1	0
-atēnās	as a limited land area focuses panazam small number ipasjas who led the country from the   failure of one another. for example	0	0	1	0
-atēnās	atenas	0	0	1	0
 atēnās	the so-called trisdesmitviru tyranny of time	0	0	1	0
+atēnās	which   lasted only eight months	0	0	1	0
+atēnās	as a limited land area focuses panazam small number ipasjas who led the country from the   failure of one another. for example	0	0	1	0
+atēnās	only in atenas without trial is killed and about 1	0	0	1	0
 izpildi	performance	0	0	1	0
 izdalīt	secrete	0	0	1	1
 ķermenis	body	0	0	1	1
 fiziskās	physical	0	0	1	0
 šauri	narrow	0	0	1	0
-augstsprieguma	high	0	0	1	0
 nozīmēt	mean	0	0	1	1
 mainoties	changes	0	0	1	0
 šaurs	narrow	0	0	1	1
@@ -10263,7 +9970,7 @@ vidienē	interior	0	0	1	0
 lietojot	with	0	0	1	0
 arktikas	arctic	0	0	1	0
 ģerbonis	coat	0	0	1	0
-ģerbonis	coat of arms	0	0	1	1
+ģerbonis	coat of arms	0	0	1	0
 izdarīts	done	0	0	1	0
 kaspars	kevin	0	0	1	0
 šaurumu	strait	0	0	1	0
@@ -10271,11 +9978,10 @@ plānu	plan	0	0	1	0
 plāns	claramente	0	0	1	0
 plāns	plan	0	0	1	1
 šaurums	strait	0	0	1	0
-kājas	feet	0	0	1	0
+domātāji	thinkers	0	0	1	0
 berlīne	berlin	0	0	1	0
 likmes	rate	0	0	1	0
 negatīvi	negatively	0	0	1	0
-šauruma	saurma	0	0	1	0
 šauruma	channel	0	0	1	0
 patvērumu	asylum	0	0	1	0
 patvērumu	sanctuary	0	0	1	0
@@ -10340,21 +10046,18 @@ olimpiskajām	olympic	0	0	1	0
 spētu	able to	0	0	1	0
 šķidrumu	in fluid	0	0	1	0
 novembris	november	0	0	1	1
-novembris	movember	0	0	1	0
 sniedzas	extends	0	0	1	0
 zonās	areas	0	0	1	0
 zonās	area	0	0	1	0
 dievu	god	0	0	1	0
 plaukstas	plaukstas	0	0	1	0
-plaukstas	wrist	0	0	1	0
 utml	utml	0	0	1	0
 utml	etc.	0	0	1	0
 dievs	god	0	0	1	1
-cho	cho	0	0	1	0
+ekonomiskās	economic	0	0	1	0
 dievi	gods	0	0	1	0
 dievi	god	0	0	1	0
 uzdevumus	tasks	0	0	1	0
-uzdevumus	task	0	0	1	0
 iestājas	advocates	0	0	1	0
 dieva	god	0	0	1	0
 atšķirt	distinguish	0	0	1	1
@@ -10363,7 +10066,6 @@ sportisti	athletes	0	0	1	0
 pazīstamais	familiar	0	0	1	0
 pazīstamais	well known	0	0	1	0
 shēmas	schemes into line	0	0	1	0
-būtu	be	0	0	1	0
 būtu	would	0	0	1	0
 thumb|px|	thumblpxl	0	0	1	0
 thumb|px|	thumb [pixels]	0	0	1	0
@@ -10389,14 +10091,16 @@ rādītāja	index	0	0	1	0
 rādītāja	scores	0	0	1	0
 izskatā	review	0	0	1	0
 rādītāji	scores	0	0	1	0
-zināma	some	0	0	1	0
-zināma	reductive	0	0	1	0
+antīkā	antique	0	0	1	0
+antīkā	vintage	0	0	1	0
 rādītājs	creator	0	0	1	0
 rādītājs	raditajs	0	0	1	0
 rādītājs	facturer relatives	0	0	1	0
 jebkurā	any	0	0	1	0
 civilizācijas	civilzacijas	0	0	1	0
 civilizācijas	civilization	0	0	1	0
+mūziķis	musician	0	0	1	1
+mūziķis	music	0	0	1	0
 zināmo	known	0	0	1	0
 daudzums	quantity	0	0	1	1
 klasicisms	classicism	0	0	1	1
@@ -10413,8 +10117,7 @@ masveida	massive	0	0	1	0
 vardes	frogs	0	0	1	0
 apvienotie	combined	0	0	1	0
 frac	frac	0	0	1	0
-dēvē	call	0	0	1	0
-dēvē	deve	0	0	1	0
+acu	eye	0	0	1	0
 friča	fritz	0	0	1	0
 friča	frica	0	0	1	0
 sāgā	saga	0	0	1	0
@@ -10423,7 +10126,6 @@ bēgļu	refugees	0	0	1	0
 planētu	planet	0	0	1	0
 profils	profile	0	0	1	1
 planēta	planet	0	0	1	1
-planēta	planeta	0	0	1	0
 spēlēja	played	0	0	1	0
 lauris	lauris	0	0	1	0
 pūlēm	efforts	0	0	1	0
@@ -10438,7 +10140,6 @@ arhitekti	arhitekti	0	0	1	0
 arhitekti	architects	0	0	1	0
 koris	choir	0	0	1	1
 jebkurš	jebkurĕ	0	0	1	0
-jebkurš	any	0	0	1	1
 auglību	fertility	0	0	1	0
 ielas	streets	0	0	1	0
 ielas	street	0	0	1	0
@@ -10457,17 +10158,15 @@ basketbola	basketball	0	0	1	0
 le	le	0	0	1	0
 le	let	0	0	1	0
 mēreni	moderate	0	0	1	0
-la	la	0	0	1	1
+prāta	mind	0	0	1	0
 izdevumi	expenditure	0	0	1	1
-sia	ltd.	0	0	1	0
-sia	ltd	0	0	1	0
+pilskalns	castle hill	0	0	1	0
 marss	march	0	0	1	0
 marss	mars	0	0	1	1
 virspusē	surface	0	0	1	0
 basketbols	basketball	0	0	1	1
 lu	image	0	0	1	0
-lr	is	0	0	1	0
-lr	lr	0	0	1	0
+basketbolu	basketball	0	0	1	0
 izdevumu	expenditure	0	0	1	0
 izdevumu	izdevumu	0	0	1	0
 maksimālais	maximal	0	0	1	0
@@ -10481,7 +10180,8 @@ padarīt	make	0	0	1	1
 īpaša	ultra	0	0	1	0
 īpaša	special	0	0	1	0
 parafīna	paraffin	0	0	1	0
-ziemām	winters	0	0	1	0
+īpaši	ultra-	0	0	1	0
+īpaši	ultra	0	0	1	0
 taurupes	taurupes	0	0	1	0
 īpatnību	features	0	0	1	0
 īpašs	ipass	0	0	1	0
@@ -10494,8 +10194,6 @@ zeva	zeus	0	0	1	0
 uzņēmums	factory against	0	0	1	0
 uzņēmums	enterprise	0	0	1	1
 slēpošanas	ski	0	0	1	0
-uzņēmumu	businesses	0	0	1	0
-uzņēmumu	business	0	0	1	0
 uzņēmumu	enterprise	0	0	1	0
 kristīgās	christian	0	0	1	0
 kristīgās	christians	0	0	1	0
@@ -10515,7 +10213,6 @@ hercogiste	duchy	0	0	1	1
 kļuvusi	become	0	0	1	0
 kļuvusi	kluvusi	0	0	1	0
 ieviešanu	introduction	0	0	1	0
-ieviešanu	entry into the	0	0	1	0
 gaļas	galas	0	0	1	0
 gaļas	meat	0	0	1	0
 budisma	buddhism	0	0	1	0
@@ -10566,10 +10263,10 @@ visilgāk	the longest	0	0	1	0
 agrīnās	early	0	0	1	0
 mātītes	females	0	0	1	0
 lielāka	greater	0	0	1	0
-saglabātu	keep the	0	0	1	0
 saglabātu	save	0	0	1	0
-jēdziens	jedziens	0	0	1	0
-jēdziens	concept	0	0	1	1
+visaugstāk	uppermost	0	0	1	0
+visaugstāk	most	0	0	1	0
+visaugstāk	top	0	0	1	0
 lielāko	with the majority	0	0	1	0
 franki	franks	0	0	1	0
 lielāki	lielaki	0	0	1	0
@@ -10622,8 +10319,6 @@ bāzē	base	0	0	1	0
 bāzē	base for	0	0	1	0
 ipad	ipad	0	0	1	0
 draudēja	threatened	0	0	1	0
-prāta	mind	0	0	1	0
-prāta	intellectual	0	0	1	1
 kategorijaāzijas	kategorijaazijas	0	0	1	0
 kategorijaāzijas	category asian	0	0	1	0
 bīskapija	diocese	0	0	1	1
@@ -10632,11 +10327,9 @@ galējais	utmost	0	0	1	1
 bīskapijas	ward	0	0	1	0
 karaspēka	troops	0	0	1	0
 kodoli	kernels	0	0	1	0
-min	cited	0	0	1	0
 min	min	0	0	1	0
 parku	parks	0	0	1	0
-parks	parques	0	0	1	0
-parks	park	0	0	1	1
+kodola	nuclear	0	0	1	1
 laikus	time	0	0	1	0
 karaspēku	troops	0	0	1	0
 parki	park	0	0	1	0
@@ -10650,12 +10343,11 @@ nedēļu	week	0	0	1	0
 caurumu	hole	0	0	1	0
 veiktu	perform	0	0	1	0
 veiktu	carry out	0	0	1	0
-domātāji	thinkers	0	0	1	0
+veikts	made	0	0	1	0
 cēlies	arise	0	0	1	0
 cēlies	cĕlies	0	0	1	0
 veikti	made	0	0	1	0
 mastu	mast	0	0	1	0
-holandiešu	dutch	0	0	1	1
 tehniku	technologies	0	0	1	0
 tehniku	technique	0	0	1	0
 veikta	in	0	0	1	0
@@ -10766,7 +10458,7 @@ apvienošanos	mergers	0	0	1	0
 populārākie	popular	0	0	1	0
 populārākie	most popular	0	0	1	0
 ārzemju	foreign	0	0	1	1
-pašlaik	at present	0	0	1	1
+pašlaik	at present	0	0	1	0
 pašlaik		0	0	1	0
 pašlaik	present	0	0	1	0
 teātra	treated	0	0	1	0
@@ -10866,7 +10558,6 @@ teātrī	theater	0	0	1	0
 veidošanās	formation	0	0	1	0
 radās	cause of	0	0	1	0
 radās	rada	0	0	1	0
-niedra	niedra	0	0	1	0
 kopumu	set	0	0	1	0
 fāzē	phase	0	0	1	0
 siltāks	warmer	0	0	1	0
@@ -10885,7 +10576,6 @@ tīkls	network of	0	0	1	0
 arēnā	arena	0	0	1	0
 valstis	countries	0	0	1	0
 paraugiem	samples	0	0	1	0
-dievībām	god	0	0	1	0
 dievībām	deity	0	0	1	0
 valstij	country	0	0	1	0
 valstij	state	0	0	1	0
@@ -10912,11 +10602,9 @@ saglabājušies	preserved	0	0	1	0
 vienkāršu	simple	0	0	1	0
 vienkāršu	simply	0	0	1	0
 pārbaudīt	check the	0	0	1	0
-pārbaudīt	check	0	0	1	1
 ceremonija	ceremony	0	0	1	1
 labajā	right	0	0	1	0
 saturna	saturn	0	0	1	0
-zatlers	zatlers	0	0	1	0
 zatlers	valdis zatlers	0	0	1	0
 gaiši	bright	0	0	1	0
 gaiši	air	0	0	1	0
@@ -10955,7 +10643,7 @@ otram	other	0	0	1	0
 otram	others	0	0	1	0
 izplatījās	izpiatijas	0	0	1	0
 izplatījās	spread	0	0	1	0
-ticējumi	beliefs	0	0	1	0
+ceremonijas	ceremony	0	0	1	0
 bet	but	0	0	1	1
 pazīstamākajiem	well-known	0	0	1	0
 pazīstamākajiem	pazistamakajiem	0	0	1	0
@@ -10972,10 +10660,8 @@ grāmatā	paper	0	0	1	0
 grāmatā	book	0	0	1	0
 islandes	iceland	0	0	1	0
 irānas	iranian	0	0	1	1
-kritums	kriums	0	0	1	0
 kritums	drop	0	0	1	0
 formātā	format	0	0	1	0
-periodā	peroid	0	0	1	0
 periodā	period	0	0	1	0
 plašākā	more	0	0	1	0
 varonis	hero	0	0	1	1
@@ -11014,13 +10700,12 @@ izdevies	succeeded in	0	0	1	0
 izdevies	accomplished	0	0	1	0
 mazu	small	0	0	1	0
 apvalks	shell	0	0	1	1
-minerāla	mineral	0	0	1	0
+mazs	small	0	0	1	1
 kārtības	no circumstance	0	0	1	0
 mazo	small	0	0	1	0
 mazi	small	0	0	1	0
 bolderājas	bolderaja	0	0	1	0
-nīčes	name	0	0	1	0
-nīčes	nice	0	0	1	0
+plakankalnes	plateaus	0	0	1	0
 norādīja	pointed	0	0	1	0
 norādīja	said	0	0	1	0
 komandām	teams	0	0	1	0
@@ -11098,13 +10783,16 @@ palāta	chamber	0	0	1	1
 palāta	house	0	0	1	1
 abinieki	amphibia	0	0	1	1
 aprindās	community	0	0	1	0
+parks	parques	0	0	1	0
+parks	park	0	0	1	1
 mē	me	0	0	1	0
 mē	ad	0	0	1	0
 tomēr		0	0	1	0
 tomēr	however	0	0	1	1
 padara	makes	0	0	1	0
 iznīcināja	destroyed	0	0	1	0
-atklājumi	discoveries	0	0	1	0
+okeāniskā	oceanic	0	0	1	0
+okeāniskā	okeaniska	0	0	1	0
 mājvieta	accommodation	0	0	1	1
 pārvaldīt	manage	0	0	1	1
 pārdeva	sold	0	0	1	0
@@ -11129,10 +10817,10 @@ satiksme	traffic	0	0	1	1
 sesiju	session	0	0	1	0
 gadsimts	gadsimls	0	0	1	0
 gadsimts	century	0	0	1	1
-gnu	gnu	0	0	1	0
+aiz	after	0	0	1	1
+aiz	beyond	0	0	1	1
 precēm	commodities	0	0	1	0
 precēm	goods	0	0	1	0
-precēm	products	0	0	1	0
 atšķirībā	difference	0	0	1	0
 atšķirībā	in difference	0	0	1	0
 grieķijas	greece	0	0	1	0
@@ -11187,7 +10875,6 @@ pats	himself	0	0	1	1
 raksturu	nature	0	0	1	0
 raksturs	nature	0	0	1	1
 prata	was able	0	0	1	0
-prata	mind	0	0	1	0
 prata	meadows	0	0	1	0
 kļūstot	becoming a	0	0	1	0
 kļūstot	becoming	0	0	1	0
@@ -11205,6 +10892,7 @@ adresēm		0	0	1	0
 adresēm	addresses	0	0	1	0
 parlamentu	parliaments	0	0	1	0
 līdzība	similarity	0	0	1	1
+plato	plateau	0	0	1	1
 parlamenta	parliamentary	0	0	1	1
 izpildvara	executive	0	0	1	1
 vajadzības	needs of	0	0	1	0
@@ -11224,7 +10912,6 @@ gadsimtā	century	0	0	1	0
 atšķirību	difference	0	0	1	0
 atšķirību	atskiribu	0	0	1	0
 īsteno	implemented	0	0	1	0
-īsteno	enforces	0	0	1	0
 serbijas	serbia	0	0	1	0
 serbijas	serbijas	0	0	1	0
 koncentrēšanās	concentration	0	0	1	1
@@ -11239,13 +10926,10 @@ locekļus	loceklus	0	0	1	0
 pavadīja	spent	0	0	1	0
 maiņas	changing	0	0	1	0
 maiņas	changi	0	0	1	0
-maiņas	the left	0	0	1	0
 āzijas	asian	0	0	1	0
 me	me	0	0	1	0
-ma	ma	0	0	1	0
 ma	ma: short form of massachusetts	0	0	1	0
 gleznas	paintings	0	0	1	0
-mm	mm: milimetre	0	0	1	0
 ml	en	1	1	0	0
 ml	clash	1	0	1	0
 ml	ml	1	0	1	0
@@ -11258,7 +10942,6 @@ identificēt	identify	0	0	1	1
 kameru	camera	0	0	1	0
 mu	mu	0	0	1	0
 kinētiskā	kinetic	0	0	1	0
-kinētiskā	the kinetic	0	0	1	0
 kinētiskā	kenetic	0	0	1	0
 mp	mp	0	0	1	0
 sevis	self	0	0	1	1
@@ -11268,7 +10951,6 @@ iegūšanu	state acquisitions	0	0	1	0
 ēra	era	0	0	1	1
 stundām	hours	0	0	1	0
 stundām	hours per	0	0	1	0
-fjodors	fedor	0	0	1	0
 fjodors	fyodor	0	0	1	0
 upanišadas	upanishads	1	1	0	0
 upanišadas	likeness	1	0	1	0
@@ -11378,13 +11060,11 @@ argentīnas	argentine	0	0	1	1
 dievības	deities	0	0	1	0
 tehnoloģisko	technological	0	0	1	0
 piparmētru	mint	0	0	1	0
-nesaskaņas	disagreements	0	0	1	0
 nesaskaņas	strife	0	0	1	1
 vikipēdijā	wikipedia	0	0	1	0
 kokvilnas	cottony	0	0	1	1
 kokvilnas	cotton	0	0	1	1
 parakstīts	by parakstit	0	0	1	0
-parakstīts	signed	0	0	1	0
 vada	run	0	0	1	0
 krīze	crisis	0	0	1	1
 galvenajiem	main	0	0	1	0
@@ -11420,7 +11100,6 @@ soda	soda	0	0	1	1
 iedomāties	imagine	0	0	1	1
 šinī	this	0	0	1	0
 nepārsniedz	does not exceed	0	0	1	0
-nepārsniedz	than	0	0	1	0
 augšējā	top	0	0	1	0
 augšējā	by augsej	0	0	1	0
 augšējā	augĕĕja	0	0	1	0
@@ -11428,7 +11107,6 @@ sievieti	a women	0	0	1	0
 sievieti	a woman	0	0	1	0
 šūnām	moss	0	0	1	0
 iesaka	recommend	0	0	1	0
-nhl	nhl	0	0	1	0
 sieviete	woman	0	0	1	1
 vēlējās	wanted	0	0	1	0
 vērtē	valued	0	0	1	0
@@ -11523,7 +11201,6 @@ tēls	tels	0	0	1	0
 analīzi	analysis	0	0	1	0
 seko	followed by	0	0	1	0
 seko	followed	0	0	1	0
-prēmiju	permium	0	0	1	0
 prēmiju	prize	0	0	1	0
 vikipēdija	wikipedia	0	0	1	0
 analīze	analysis	0	0	1	1
@@ -11538,8 +11215,8 @@ rumāņu	romanian	0	0	1	0
 radīta	created	0	0	1	0
 radio	radio	0	0	1	1
 vidusjūra	the mediterranean sea	0	0	1	0
-vidusjūra	mediterranean	0	0	1	0
 vidusjūra	vidusjura	0	0	1	0
+vidusjūra	mediterranean	0	0	1	0
 pedagoģija	pedagpgija	1	0	1	0
 pedagoģija	lier	1	0	1	0
 pedagoģija	liars	1	0	1	0
@@ -11610,8 +11287,6 @@ ticams	unlikely	0	0	1	0
 sākotnējais	crusader action was   unsuccessful. kalpaka battalion was originally intended to take on the village along the   skrunda-saldus road. travel the original cause of the feed factor.	0	0	1	0
 sākotnējais	original	0	0	1	0
 sākotnējais	cross was the second war. jura original reason was the expansion of turkish mesopotamia and   ancient edessa (modern turkey saliurfa) city taking the 1144th year	0	0	1	0
-portugāļi	portuguese	0	0	1	0
-portugāļi	portugal	0	0	1	0
 āzija	asia	0	0	1	0
 brazīlija	brasilia	0	0	1	0
 citoplazmā	cytoplasm	0	0	1	0
@@ -11650,7 +11325,6 @@ kļūtu	become more	0	0	1	0
 nelielas	small	0	0	1	0
 etimoloģija	etymology	0	0	1	1
 etimoloģija	etimologija	0	0	1	0
-etimoloģija	etimolor ^ ija	0	0	1	0
 diktatoru	diktaloru	0	0	1	0
 diktatoru	dictator	0	0	1	0
 veidojot	building	0	0	1	0
@@ -11672,7 +11346,7 @@ produktus	products	0	0	1	0
 tēviņu	male	0	0	1	0
 orgānu	organ	0	0	1	0
 orgāns	organs	0	0	1	0
-patiesībā	in fact	0	0	1	1
+patiesībā	in fact	0	0	1	0
 patiesībā	truth	0	0	1	0
 ideāliem	ideals	0	0	1	0
 cerībā	hope for	0	0	1	0
@@ -11709,7 +11383,7 @@ pāvila	pivala	0	0	1	0
 bioloģijas	biology	0	0	1	0
 vispārējas	broad	0	0	1	0
 vispārējas	general	0	0	1	0
-pikču	picchu	0	0	1	0
+lielvārdē	lielvarde	0	0	1	0
 vidējais	average	0	0	1	1
 apguva	studied	0	0	1	0
 garas	long	0	0	1	0
@@ -11728,7 +11402,6 @@ glāzgova	glasgow	0	0	1	0
 daudzpartiju	multi-party	0	0	1	0
 daudzpartiju	multiparty	0	0	1	0
 āzijā	asia	0	0	1	0
-brazīlijā	brazil	0	0	1	0
 brazīlijā	brasilia	0	0	1	0
 saskaņā	according	0	0	1	0
 iztēle	imagination	0	0	1	1
@@ -11739,7 +11412,6 @@ nāve	death	0	0	1	1
 nāve	nave	0	0	1	0
 veselība	health	0	0	1	1
 reakcijās	reaction	0	0	1	0
-reakcijās	reactions	0	0	1	0
 barošanas	power	0	0	1	0
 stenlija	stanley	0	0	1	0
 ziemas	winter	0	0	1	1
@@ -11753,7 +11425,8 @@ dalība	participation	0	0	1	0
 dalība	daliba	0	0	1	0
 sastapās	encountered	0	0	1	0
 teicis	said	0	0	1	0
-thumb|	thumb	0	0	1	0
+portugāļi	portuguese	0	0	1	0
+portugāļi	portugal	0	0	1	0
 kušanas	melting	0	0	1	0
 rakstnieks	writer	0	0	1	1
 respektīvi	respectively	0	0	1	0
@@ -11791,8 +11464,6 @@ pieeja	approach	0	0	1	1
 lēmumus	the decisions	0	0	1	0
 lēmumus	decisions	0	0	1	0
 spēju	the ability to	0	0	1	0
-spēju	speju	0	0	1	0
-spēju	ability	0	0	1	0
 gandrīz	almost	0	0	1	1
 gandrīz	mitilogiju	0	0	1	0
 mīnojas	minoan	0	0	1	0
@@ -11813,7 +11484,8 @@ idejām	ideas	0	0	1	0
 miris	death	0	0	1	0
 miris	dead	0	0	1	1
 centri	centers	0	0	1	0
-gaita	course	0	0	1	1
+pārsniegt	exceed	0	0	1	1
+pārsniegt	exceed the	0	0	1	0
 izstāde	exhibition	0	0	1	1
 hso	hso	0	0	1	0
 savienība	union	0	0	1	1
@@ -11829,7 +11501,6 @@ apvienošanās	merger	0	0	1	0
 programmām	programmes be	0	0	1	0
 programmām	programs	0	0	1	0
 rīta	morning	0	0	1	0
-matemātika	wiki	0	0	1	0
 matemātika	mathematics	0	0	1	1
 rajonus	districts	0	0	1	0
 rajonus	areas	0	0	1	0
@@ -11870,7 +11541,8 @@ sacensības	race	0	0	1	0
 veidojusies	formed	0	0	1	0
 atzinību	appreciation	0	0	1	0
 atzinību	recognition	0	0	1	0
-palikusi	remained	0	0	1	0
+parametri	parameter	0	0	1	0
+parametri	parameters	0	0	1	0
 sastopama	found in	0	0	1	0
 norāda	indicates	0	0	1	0
 savienojas	interlock	0	0	1	0
@@ -11924,7 +11596,6 @@ nr	no	0	0	1	0
 uzvaras	victory	0	0	1	0
 nt	nt	0	0	1	0
 nu	now	0	0	1	1
-augstāko	augstako	0	0	1	0
 augstāko	high by	0	0	1	0
 augstāko	higher	0	0	1	0
 jūra	​​sea	1	1	0	0
@@ -11943,7 +11614,6 @@ sāļus	salts	0	0	1	0
 ģirts	girts	0	0	1	0
 ģirts	§ riet	0	0	1	0
 jūru	juru	0	0	1	0
-jūru	sea	0	0	1	0
 galda	table	0	0	1	0
 neatkarīgs	independent	0	0	1	1
 dalībvalstīm	the member state of	0	0	1	0
@@ -11969,14 +11639,12 @@ vadītājiem	of driver	0	0	1	0
 vadītājiem	managers	0	0	1	0
 skaidra	clear	0	0	1	0
 ražošana	production	0	0	1	1
-objektus	object	0	0	1	0
 objektus	objects	0	0	1	0
 skaidri	chip	0	0	1	0
 skaidri	clearly	0	0	1	1
 skaidro	explains	0	0	1	0
 atpūtas	recreation	0	0	1	0
 neatkarīgā	independent	0	0	1	0
-tālsarunu	telephone	0	0	1	0
 tālsarunu	calling	0	0	1	0
 piedzimšanas	birth	0	0	1	0
 sejas	facial	0	0	1	1
@@ -12001,9 +11669,8 @@ saikni	link	0	0	1	0
 tehnoloģijas	technology	0	0	1	0
 sākumam	to top	0	0	1	0
 sākumam	beginning	0	0	1	0
-datoros	computers	0	0	1	0
-datoros	dotoros	0	0	1	0
-dažādās	different	0	0	1	0
+panorāma	panorama	0	0	1	1
+panorāma	panorama: a name	0	0	1	0
 dažādās	court	0	0	1	0
 dažādās	dazadas	0	0	1	0
 stabilitātes	stability	0	0	1	0
@@ -12032,7 +11699,6 @@ liekot	putting	0	0	1	0
 svārstību	fluctuations	0	0	1	0
 svārstību	fluctuation	0	0	1	0
 radušās	found a	0	0	1	0
-radušās	incurred	0	0	1	0
 bijušās	has had	0	0	1	0
 ultravioleto	ultraviolet	0	0	1	0
 paleolīta	paleolithic	0	0	1	0
@@ -12049,14 +11715,13 @@ antīko	antique	0	0	1	0
 gāze	gas	0	0	1	1
 gāze	tools	0	0	1	0
 pašvaldības	municipalities	0	0	1	0
-pašvaldības	municipal	0	0	1	1
 gāza	overthrew the	0	0	1	0
 gāza	gaza	0	0	1	0
 izdarītu	do	0	0	1	0
 prasmes	skills	0	0	1	0
 port	port	0	0	1	0
 sakarība	connection	0	0	1	1
-gāzi	gazi	0	0	1	0
+gaita	course	0	0	1	1
 joslām	bands	0	0	1	0
 joslām	band	0	0	1	0
 daļēji	partly	0	0	1	1
@@ -12073,7 +11738,6 @@ tramvajs	street car	0	0	1	0
 tramvajs	streetcar	0	0	1	0
 varēs	will	0	0	1	0
 varēs	will be able to	0	0	1	0
-labāko	labako	0	0	1	0
 labāko	the best one	0	0	1	0
 kontrolēja	controlled	0	0	1	0
 gaitu	progress	0	0	1	0
@@ -12083,7 +11747,6 @@ matērijas	matter	0	0	1	0
 tranzistori	transistors	0	0	1	0
 definīcijas	definitions	0	0	1	0
 prasmi	skills	0	0	1	0
-labāku	better	0	0	1	0
 labāku	more	0	0	1	0
 bataljons	battle	0	0	1	0
 bataljons	battalion	0	0	1	1
@@ -12094,7 +11757,6 @@ apmaiņu	exchange of	0	0	1	0
 apmaiņu	apaminu	0	0	1	0
 apmaiņu	exchange	0	0	1	0
 pasākumiem	measures	0	0	1	0
-pasākumiem	pasakumiem	0	0	1	0
 kartēs	maps	0	0	1	0
 mācīties	learn	0	0	1	1
 apmaiņa	exchange	0	0	1	0
@@ -12116,7 +11778,7 @@ andu	andes	0	0	1	0
 andu	involucrado	0	0	1	0
 andu	andean	0	0	1	0
 pret	against	0	0	1	1
-daudzkārt	many times	0	0	1	1
+daudzkārt	many times	0	0	1	0
 sporta	sports	0	0	1	0
 grūtībām	included	0	0	1	0
 grūtībām	difficulties that	0	0	1	0
@@ -12156,7 +11818,6 @@ iezīmējās	marked	0	0	1	0
 stāvoklim	stavoklim	0	0	1	0
 stāvoklim	state	0	0	1	0
 uzvara	victory	0	0	1	1
-atdzimšana	revival	0	0	1	1
 apturēja	stopped	0	0	1	0
 izvērsās	launch the	0	0	1	0
 nelielos	small	0	0	1	0
@@ -12172,7 +11833,6 @@ tallijs	mark	1	0	1	0
 tallijs	competitiveness	1	0	1	0
 daugavā	daugava	0	0	1	0
 nodarbojās	dealing	0	0	1	0
-nodarbojās	engaged	0	0	1	0
 nodarbojās	enguaged	0	0	1	0
 zinātniskās	scientific	0	0	1	0
 zinātniskās	zinatniskas	0	0	1	0
@@ -12209,9 +11869,7 @@ kokneses	koknese	0	0	1	0
 objektiem	objects	0	0	1	0
 zīmējums	zimejumi	0	0	1	0
 apmaiņas	interchange	0	0	1	0
-apmaiņas	exchange	0	0	1	0
 komiteja	committee	0	0	1	1
-komiteja	committe	0	0	1	0
 dzīvojošie	living	0	0	1	0
 pasaulei	world	0	0	1	0
 pasaulei	the world	0	0	1	0
@@ -12229,7 +11887,6 @@ komēdijas	comedy	0	0	1	0
 programmas	program	0	0	1	0
 dzeltenās	yellow	0	0	1	0
 otrās	other	0	0	1	0
-osmaņu	ottoman	0	0	1	0
 osmaņu	osman	0	0	1	0
 priesteri	priests	0	0	1	0
 nosacījumu	provided	0	0	1	0
@@ -12244,6 +11901,7 @@ līdzīgas	similar	0	0	1	0
 māksliniekiem	maksliniekiem	0	0	1	0
 māksliniekiem	artists	0	0	1	0
 vēsturi	history	0	0	1	0
+nīče	nice	0	0	1	0
 ekosistēmas	ecosystem	0	0	1	0
 darvins	darwin	0	0	1	0
 uguns	fire	0	0	1	1
@@ -12252,7 +11910,7 @@ ievērojot	observing the	0	0	1	0
 ievērojot	subject to	0	0	1	0
 kļūdas	errors	0	0	1	0
 virkni	series of	0	0	1	0
-opera	opera	0	0	1	1
+milzu	giant	0	0	1	0
 nami	houses	0	0	1	0
 spēlē	game	0	0	1	0
 spēlē	plays	0	0	1	0
@@ -12329,7 +11987,7 @@ ziņojuma	report	0	0	1	0
 dienu	day	0	0	1	0
 namā	house	0	0	1	0
 namā	name	0	0	1	0
-nīče	nice	0	0	1	0
+izpratnes	understanding	0	0	1	0
 paceļas	pacalas	0	0	1	0
 paceļas	rises	0	0	1	0
 brāļa	bothers	0	0	1	0
@@ -12342,6 +12000,7 @@ georgs	georgs	0	0	1	0
 georgs	george	0	0	1	0
 brāļi	brothers	0	0	1	0
 brāļi	brother	0	0	1	0
+muzeji	museums	0	0	1	0
 spēli	game	0	0	1	0
 brāļu	the bral	0	0	1	0
 brāļu	brothers	0	0	1	0
@@ -12359,12 +12018,11 @@ jomā	in	0	0	1	0
 amats	position	0	0	1	1
 pasludināts	declared	0	0	1	0
 šīs	this	0	0	1	0
-šīs	sis	0	0	1	0
 vēsturē	in history	0	0	1	0
 vēsturē	history	0	0	1	0
 pasludināta	pasludinata	0	0	1	0
 pasludināta	declared	0	0	1	0
-konfliktu	conflict	0	0	1	0
+mērvienību	units	0	0	1	0
 šīm	sim	0	0	1	0
 white	white	0	0	1	0
 dažādi	dazadi	0	0	1	0
@@ -12433,7 +12091,7 @@ reakcija	reaction	0	0	1	1
 kažoks	fur	0	0	1	0
 ieguves	mining	0	0	1	0
 ieguves	liguves	0	0	1	0
-turklāt	in addition	0	0	1	1
+turklāt	in addition	0	0	1	0
 turklāt	furthermore	0	0	1	1
 malta	malta	0	0	1	0
 reakciju	reaction	0	0	1	0
@@ -12454,8 +12112,6 @@ būtņu	creature	0	0	1	0
 sabiedrībām	corporations	0	0	1	0
 apenīnu	apennine	0	0	1	0
 apenīnu	apennines	0	0	1	0
-parametri	parameter	0	0	1	0
-parametri	parameters	0	0	1	0
 skābekli	oxygen	0	0	1	0
 romieši	romans	0	0	1	0
 revolūcijas	revolution	0	0	1	0
@@ -12545,16 +12201,16 @@ dažas	in some	0	0	1	0
 reģistrētas	registered	0	0	1	0
 reģistrētas	registered with	0	0	1	0
 bultām	arrows	0	0	1	0
-paisuma	tidal	0	0	1	0
-paisuma	high tide	0	0	1	0
-amatnieku	craftsmen	0	0	1	0
+jāizvēlas	choose	0	0	1	0
+jāizvēlas	jaizvelas	0	0	1	0
 līči	bays	0	0	1	0
 līči	bay	0	0	1	0
 lietusgāzes	rainfall	0	0	1	0
 lietusgāzes	rainstorm	0	0	1	0
 kopprodukts	product	0	0	1	0
 atrada	found	0	0	1	0
-mekas	mecca	0	0	1	0
+failu	failu	0	0	1	0
+failu	file	0	0	1	0
 pakļāva	exposed	0	0	1	0
 pakļāva	pakjava	0	0	1	0
 robeža	margin	0	0	1	1
@@ -12578,7 +12234,6 @@ garšvielu	spice	0	0	1	0
 kombinācijas	combinations	0	0	1	0
 kombinācijas	combination	0	0	1	0
 pavēlēja	ordered the	0	0	1	0
-pavēlēja	ordered	0	0	1	0
 ilze	ilze	0	0	1	0
 alfrēds	alfred	0	0	1	0
 summa	amount	0	0	1	1
@@ -12625,7 +12280,6 @@ somijā	finland	0	0	1	0
 ietekmējās	susceptible	0	0	1	0
 tehniski	technical	0	0	1	0
 svarīgākajiem	very important	0	0	1	0
-svarīgākajiem	the most important	0	0	1	0
 svarīgākajiem	svarlgakajiem	0	0	1	0
 olimpiskās	by olympic	0	0	1	0
 veltīta	is devoted	0	0	1	0
@@ -12652,17 +12306,15 @@ sevi	yourself themselves ourselves itself himself myself oneself	0	0	1	0
 sevi	yourself	0	0	1	1
 ievērojami	significantly	0	0	1	0
 ievērojamu	of considerable	0	0	1	0
-ievērojams	hold considerable	0	0	1	0
-ievērojams	significant	0	0	1	1
+vārds	nickname	0	0	1	0
+vārds	power	0	0	1	0
 čūsku	direction of snake	0	0	1	0
 čūsku	cuska	0	0	1	0
 kategorijaangļu	english class	0	0	1	0
-kategorijaangļu	kategorijaanglu	0	0	1	0
 palielinoties	increasing	0	0	1	0
 romanovs	romanovs	0	0	1	0
 saglabā	preserves	0	0	1	0
 j	j.	0	0	1	0
-j	j	0	0	1	0
 j	j: an alphabet	0	0	1	0
 ēkām	ekam	0	0	1	0
 nīderlandieši	niderlandiesi	0	0	1	0
@@ -12679,7 +12331,8 @@ sacīkstes	race	0	0	1	1
 draudiem	threats	0	0	1	0
 gaismu	light	0	0	1	0
 principiem	principles	0	0	1	0
-html	html	0	0	1	0
+vārdi	names	0	0	1	0
+vārdi	words	0	0	1	0
 nodrošināšanai	ignore	0	0	1	0
 nodrošināšanai	to ensure	0	0	1	0
 pilnvaras	authority	0	0	1	1
@@ -12688,7 +12341,6 @@ ziņas	news	0	0	1	0
 atsevišķu	some	0	0	1	0
 atsevišķu	of selected	0	0	1	0
 persona	person	0	0	1	1
-izmēri	dimensions	0	0	1	0
 izmēri	sizes	0	0	1	0
 valters	valter	0	0	1	0
 valters	walter	0	0	1	0
@@ -12718,8 +12370,7 @@ sievietei	woman	0	0	1	0
 šķiras	divorces	0	0	1	0
 spēlētājiem	players	0	0	1	0
 emociju	emotions	0	0	1	0
-mūziķis	musician	0	0	1	1
-mūziķis	music	0	0	1	0
+krasi	sharp	0	0	1	1
 kanāliem	channels	0	0	1	0
 kanāliem	channel	0	0	1	0
 prasības	requirements	0	0	1	0
@@ -12758,7 +12409,6 @@ zilā	blue	0	0	1	0
 tik	so that	0	0	1	0
 tik	so	0	0	1	1
 rentgenstarus	x-rays	0	0	1	0
-rentgenstarus	x-ray	0	0	1	0
 traucējumi	disorders	0	0	1	0
 dārgakmeņus	gems	0	0	1	0
 dārgakmeņus	precious stones	0	0	1	0
@@ -12770,11 +12420,9 @@ johans	johan	0	0	1	0
 sausu	dry	0	0	1	0
 krājumā	stick	0	0	1	0
 krājumā	in collection	0	0	1	0
-krājumā	stock	0	0	1	0
 tradīcijas	tradition	0	0	1	0
 tradīcijas	transletion	0	0	1	0
 vienmēr	always	0	0	1	1
-revīzijas	audit	0	0	1	0
 revīzijas	revision	0	0	1	0
 apgabalā	county	0	0	1	0
 apgabalā	the bar at the	0	0	1	0
@@ -12835,7 +12483,6 @@ ieceļotāji	immigrants	0	0	1	0
 savienotajās	in the united	0	0	1	0
 vielām	substances	0	0	1	0
 ķēdes	chains	0	0	1	0
-vielās	substrances	0	0	1	0
 vielās	substances	0	0	1	0
 iekarotās	conquered	0	0	1	0
 ieceļotāju	immigrants	0	0	1	0
@@ -12855,7 +12502,6 @@ augstie	high	0	0	1	0
 vietnieks	alternate	0	0	1	1
 os	s	0	0	1	0
 os	os	0	0	1	0
-vadītājus	leaders	0	0	1	0
 vadītājus	counselors	0	0	1	0
 garo	long	0	0	1	0
 izvirdumi	eruption	0	0	1	0
@@ -12869,10 +12515,8 @@ instruments	instrument	0	0	1	1
 instruments	tool	0	0	1	1
 karaļa	king	0	0	1	0
 karaļa	royal	0	0	1	1
-apgabali	regions	0	0	1	0
-apgabali	areas	0	0	1	0
+holandiešu	dutch	0	0	1	1
 būtību	nature	0	0	1	0
-būtību	essence of	0	0	1	0
 urāna	uranium	0	0	1	0
 apgabalu	region	0	0	1	0
 apgabalu	area	0	0	1	0
@@ -12884,8 +12528,8 @@ zobiem	teeth	0	0	1	0
 būtība	essentially	0	0	1	0
 gars	espíritu	0	0	1	0
 gars	spirit	0	0	1	1
-viļņi	waves	0	0	1	0
 viļņi	wave	0	0	1	0
+viļņi	waves	0	0	1	0
 francijai	france	0	0	1	0
 vakarā	evening	0	0	1	0
 civilizācija	civilizations	0	0	1	0
@@ -12995,10 +12639,8 @@ ieži	rock	0	0	1	0
 all	all	0	0	1	0
 cietumā	prison	0	0	1	0
 nekavējoties	immediately	0	0	1	1
-barošanās	nutrition	0	0	1	0
 barošanās	feeding	0	0	1	0
 barošanās	power	0	0	1	0
-parakstīja	some of the	0	0	1	0
 parakstīja	signed the	0	0	1	0
 parakstīja	signed	0	0	1	0
 valdniekam	king	0	0	1	0
@@ -13008,7 +12650,6 @@ alu	beer	0	0	1	0
 iežu	rock	0	0	1	0
 sekojot	following	0	0	1	0
 rekordi	record	0	0	1	0
-rekordi	records	0	0	1	0
 vīram	husband	0	0	1	0
 mozus	moses	0	0	1	0
 autonomiju	autonomy	0	0	1	0
@@ -13040,7 +12681,8 @@ ievērojamākie	remarkable	0	0	1	0
 ievērojamākie	ieverojamakie	0	0	1	0
 kājnieku	small	0	0	1	0
 masīvs	array	0	0	1	1
-ekonomiskās	economic	0	0	1	0
+sportistu	sportistu	0	0	1	0
+sportistu	athletes	0	0	1	0
 līgā	league	0	0	1	0
 mazākā	less	0	0	1	0
 gultnes	bed	0	0	1	0
@@ -13085,23 +12727,22 @@ maiņstrāvu	current	0	0	1	0
 maiņstrāvu	ac	0	0	1	0
 raksturīgs	characteristic	0	0	1	1
 raksturīgs	charecteristic	0	0	1	0
-raksturīgs	inherent	0	0	1	0
 dievus	gods	0	0	1	0
 dievus	the gods	0	0	1	0
+mazais	small	0	0	1	0
 budžetu	budget	0	0	1	0
 klints	rock	0	0	1	1
 budžets	the budget	0	0	1	0
 sastāvs	composition	0	0	1	0
 sastāvs	composition of the	0	0	1	0
-sastāvu	using the rock	0	0	1	0
 sastāvu	composition	0	0	1	0
 pievienot	add	0	0	1	1
 savienotajām	the interconnected	0	0	1	0
 savienotajām	connected	0	0	1	0
 dievmātes	our lady	0	0	1	0
 dievmātes	our lady of	0	0	1	0
-vietnes	site	0	0	1	0
 vietnes	sites	0	0	1	0
+vietnes	site	0	0	1	0
 debesis	devesa	0	0	1	0
 debesis	sky	0	0	1	1
 debesis	skies	0	0	1	0
@@ -13111,7 +12752,6 @@ komplekss	complex	0	0	1	1
 kuņģa	stomach	0	0	1	0
 kuņģa	mr	0	0	1	0
 kompleksu	complex	0	0	1	0
-atšķirības	differencies	0	0	1	0
 atšķirības	difference	0	0	1	0
 atšķirības	differences	0	0	1	0
 specifiska	specific	0	0	1	0
@@ -13129,7 +12769,6 @@ muzikālo	musical	0	0	1	0
 fiziķis	physicist	0	0	1	1
 strādājis	worked in	0	0	1	0
 strādājis	worked	0	0	1	0
-mazāku	minimum	0	0	1	0
 mazāku	less	0	0	1	0
 pielūgsme	worship	0	0	1	0
 mazāks	less	0	0	1	1
@@ -13165,14 +12804,11 @@ tikko	just	0	0	1	1
 pretošanos	resistance	0	0	1	0
 pirms	before	0	0	1	1
 sadalīšana	distribution	0	0	1	1
-uzskatiem	views	0	0	1	0
 uzskatiem	view	0	0	1	0
 paņēmieni	methods	0	0	1	0
 tēju	almost	0	0	1	0
 tēju	teju	0	0	1	0
 tādēļ	therefore	0	0	1	1
-tādēļ	therefore a	0	0	1	0
-tādēļ	institution	0	0	1	0
 attiecīgā	appropriate	0	0	1	0
 attiecīgā	the	0	0	1	0
 protonu	proton	0	0	1	0
@@ -13192,7 +12828,6 @@ brīvzemnieka	brīvzemnieka	0	0	1	0
 glezniecībā	painting	0	0	1	0
 sabiedrotie	allies	0	0	1	0
 izveides	development	0	0	1	0
-izveides	ejection	0	0	1	0
 straujāk	faster	0	0	1	0
 mijiedarbības	communication	0	0	1	0
 mijiedarbības	interaction	0	0	1	0
@@ -13276,7 +12911,6 @@ sfalerīts	sitting	1	0	1	0
 oficiālu	official	0	0	1	0
 oficiālu	for official	0	0	1	0
 aptumsuma	eclipse	0	0	1	0
-atzīts	opinion acknowledges	0	0	1	0
 atzīts	recognized	0	0	1	0
 atrast	find	0	0	1	1
 ekonomiskais	economic	0	0	1	0
@@ -13287,15 +12921,14 @@ instances	instance	0	0	1	0
 lēsts	estimated at	0	0	1	0
 lēsts	estimated	0	0	1	0
 mainīt	to change	0	0	1	0
-mainīt	change	0	0	1	1
 treneris	tener	0	0	1	0
 treneris	coach	0	0	1	1
 suntažu	suntazi	0	0	1	0
 suntažu	suntazu	0	0	1	0
 jūdaisti	jewish	0	0	1	0
+ipa	ipa	0	0	1	0
 dzimtā	family	0	0	1	0
 konstitucionālā	the constitutional	0	0	1	0
-pierādījumu	evidence shall be	0	0	1	0
 pierādījumu	evidence	0	0	1	0
 aģentūra	agency	0	0	1	1
 lidosta	airport	0	0	1	1
@@ -13325,7 +12958,6 @@ rakstību	spelling	0	0	1	0
 ieradās	came to	0	0	1	0
 ieradās	arrived	0	0	1	0
 deju	dance	0	0	1	0
-strāva	current	0	0	1	1
 strāva	current limit	0	0	1	0
 štati	states	0	0	1	0
 štati	stats	0	0	1	0
@@ -13349,8 +12981,8 @@ strāvu	current	0	0	1	0
 štatu	stat	0	0	1	0
 štatu	state	0	0	1	0
 slavu	fame	0	0	1	0
-nosaukumus	name	0	0	1	0
-nosaukumus	names	0	0	1	0
+šādām	following	0	0	1	0
+šādām	sadam	0	0	1	0
 štats	stats	0	0	1	0
 veidu	types of	0	0	1	0
 gaisa	air	0	0	1	1
@@ -13371,7 +13003,6 @@ līgumus	treaties	0	0	1	0
 veltīja	devoted	0	0	1	0
 izrādes	performance	0	0	1	0
 izrādes	performancesengland	0	0	1	0
-izrādes	performances	0	0	1	0
 kongress	congress	0	0	1	1
 kongresa	congress	0	0	1	0
 spīti	despite	0	0	1	0
@@ -13385,7 +13016,6 @@ klubu	clubs	0	0	1	0
 gaiss	air	0	0	1	1
 metode	method	0	0	1	1
 klubi	clubs	0	0	1	0
-kapsētā	cemetery	0	0	1	0
 lietās	things	0	0	1	0
 lietās	cases	0	0	1	0
 bērniem	children	0	0	1	0
@@ -13435,13 +13065,14 @@ gadsimtu	century	0	0	1	0
 zināja	knew	0	0	1	0
 piens	pien	0	0	1	0
 piens	milk	0	0	1	1
+gāzi	gazi	0	0	1	0
 startēja	started	0	0	1	0
 pastiprina	reinforces the	0	0	1	0
 balstīts	from	0	0	1	0
 tuva	close	0	0	1	0
 lidostā	airport	0	0	1	0
 dialektos	dialects	0	0	1	0
-burts	letter	0	0	1	1
+atdzimšana	revival	0	0	1	1
 tuvo	passing	0	0	1	0
 republikāņu	republicans	0	0	1	0
 republikāņu	republican	0	0	1	0
@@ -13461,20 +13092,15 @@ ligzdas	nest	0	0	1	0
 sociālās	social	0	0	1	0
 ievadīja	given	0	0	1	0
 bārda	bard	0	0	1	0
-bārda	beard	0	0	1	1
 dziedātāji	singers	0	0	1	0
-grieķiem	greeks	0	0	1	0
 grieķiem	greek	0	0	1	0
+grieķiem	greeks	0	0	1	0
 plecu	shoulder	0	0	1	0
 iedzīvotājiem	anyone	0	0	1	0
 iedzīvotājiem	thus	0	0	1	0
 atomiem	atoms	0	0	1	0
-materiāla	materiala	0	0	1	0
-materiāla	material	0	0	1	0
-materiāla	materials	0	0	1	0
 apgalvo	claims	0	0	1	0
 hēgeļa	hegel	0	0	1	0
-fona	background	0	0	1	0
 fona	fona	0	0	1	0
 zemkopību	farming	0	0	1	0
 rāpuļiem	reptiles	0	0	1	0
@@ -13487,7 +13113,6 @@ trīspadsmit	thirteen	0	0	1	1
 trīspadsmit	trispadsmut	0	0	1	0
 piecas	five	0	0	1	0
 prinča	prince	0	0	1	0
-prinča	princely	0	0	1	1
 karību	caribbean	0	0	1	0
 iet	go	0	0	1	1
 zaļā	green	0	0	1	0
@@ -13495,7 +13120,6 @@ attīstības	development	0	0	1	0
 iekļauj	includible	0	0	1	0
 iekļauj	the	0	0	1	0
 iekļauj	include	0	0	1	0
-ņem	do not	0	0	1	0
 ņem	take	0	0	1	0
 ņem	don't	0	0	1	0
 hit	hit the	0	0	1	0
@@ -13560,7 +13184,8 @@ ari	also	0	0	1	0
 galvenās	galvenas	0	0	1	0
 galvenās	the main	0	0	1	0
 baro	fed	0	0	1	0
-pasaka	fairy tale	0	0	1	1
+ieguvis	acquired	0	0	1	0
+ieguvis	mining	0	0	1	0
 organismos	organisms	0	0	1	0
 afrodīte	aphrodite	0	0	1	0
 afrodīte	afrodite	0	0	1	0
@@ -13601,7 +13226,6 @@ romas	roman	0	0	1	0
 operas	opera	0	0	1	0
 virknes	series	0	0	1	0
 romai	rome	0	0	1	0
-kodekss	code	0	0	1	1
 kodekss	kodekss	0	0	1	0
 realizēt	realize	0	0	1	1
 mašīnu	sacks	0	0	1	0
@@ -13652,7 +13276,6 @@ pakļauts	paklauts	0	0	1	0
 pakļauto	subject to	0	0	1	0
 pakļauto	exposed	0	0	1	0
 pakļauti	exposed	0	0	1	0
-zaļo	green	0	0	1	0
 zaļo	zajo	0	0	1	0
 asins	blood	0	0	1	1
 pieraksta	write	0	0	1	0
@@ -13677,8 +13300,8 @@ ponijs	and has	1	0	1	0
 ponijs	what	1	0	1	0
 ponijs	ponijs	1	0	1	0
 ponijs	pony	1	1	0	1
-tūrisma	tourism	0	0	1	0
 tūrisma	turism	0	0	1	0
+tūrisma	tourism	0	0	1	0
 politiskos	political	0	0	1	0
 iekaroja	conquered	0	0	1	0
 iekaroja	conquistado	0	0	1	0
@@ -13693,7 +13316,6 @@ karsts	hot	0	0	1	1
 karsts	mild climate	0	0	1	0
 karsts	maximum 7-9 days in summer (1936	0	0	1	0
 pastāvošo	existing	0	0	1	0
-pārlūkprogrammu	browsers	0	0	1	0
 pārlūkprogrammu	browser	0	0	1	0
 polija	poland	0	0	1	0
 portugālē	portugal	0	0	1	0
@@ -13797,7 +13419,6 @@ jautājumus	argument	0	0	1	0
 jautājumus	questions	0	0	1	0
 dzīvesveids	lifestyle	1	1	1	0
 pagāja	have gone since	0	0	1	0
-jūrasbraucējs	navigator	0	0	1	0
 jūrasbraucējs	jorasbraucejs	0	0	1	0
 jūrasbraucējs	jurasbrauce you	0	0	1	0
 cēloni	cause	0	0	1	0
@@ -13818,7 +13439,6 @@ pilsētā	inside	0	0	1	0
 vairākumu	many of the	0	0	1	0
 vairākumu	session agenda	0	0	1	0
 pieprasījuma	demand	0	0	1	0
-pieprasījuma	request	0	0	1	0
 pieprasījuma	demands	0	0	1	0
 pareizi	correctly	0	0	1	1
 balsta	support	0	0	1	0
@@ -13858,7 +13478,6 @@ katoļi	catholic	0	0	1	0
 katoļi	catholics	0	0	1	0
 polārajos	polar	0	0	1	0
 pašu	passports	0	0	1	0
-pašu	their own	0	0	1	0
 pašu	passport	0	0	1	0
 nostāju	position clear	0	0	1	0
 nostāju	the position	0	0	1	0
@@ -13879,7 +13498,6 @@ maksimums	maximum	0	0	1	1
 cilvēka	human	0	0	1	1
 dzelzceļu	rail	0	0	1	0
 cilvēks	man	0	0	1	1
-pēcteči	posterity	0	0	1	1
 pēcteči	successor	0	0	1	0
 tiesnesis	judge	0	0	1	1
 apvienojot	combine	0	0	1	0
@@ -13889,7 +13507,6 @@ pārvērš	are converted into	0	0	1	0
 dolāru	dollars	0	0	1	0
 dolāru	dollar	0	0	1	0
 epasta	email	0	0	1	0
-vienādi	equally applicable	0	0	1	0
 vienādi	equal	0	0	1	0
 vienādi	same	0	0	1	0
 industriālā	industrial	0	0	1	0
@@ -13941,7 +13558,7 @@ aleksandra	alexander	0	0	1	0
 poļi	poly	0	0	1	0
 bibliotēkas	library	0	0	1	0
 bibliotēkas	liepaja	0	0	1	0
-kr	color	0	0	1	0
+neliela	small	0	0	1	0
 pat	even	0	0	1	1
 nozarē	industry	0	0	1	0
 nozarē	branch	0	0	1	0
@@ -13973,7 +13590,6 @@ vampīrs	vampire	1	1	0	1
 mantojumu	heritage	0	0	1	0
 mantojums	heritage	0	0	1	1
 izcelsmes	origin	0	0	1	0
-pasākumi	activities	0	0	1	0
 pasākumi	events	0	0	1	0
 rasu	race	0	0	1	0
 pilsēta	city	0	0	1	1
@@ -13987,7 +13603,6 @@ delta	delta	0	0	1	1
 māras	maras	0	0	1	0
 māras	mara	0	0	1	0
 pilsētu	city	0	0	1	0
-international	international	0	0	1	0
 attālumam	distance	0	0	1	0
 ieročiem	weapons	0	0	1	0
 divās	two	0	0	1	0
@@ -14014,23 +13629,23 @@ sibīrijas	siberian	0	0	1	1
 lauka	field	0	0	1	0
 izplatīti	distributed	0	0	1	0
 daudzveidīga	diverse	0	0	1	0
-izplatīta	spread	0	0	1	0
 izplatīta	distributed	0	0	1	0
 teorijām	theory	0	0	1	0
 teorijām	theories	0	0	1	0
 grieķi	greek	0	0	1	0
 grieķi	greeks	0	0	1	0
 ziemeļatlantijas	north atlantic	0	0	1	0
-ciltis	es ci	0	0	1	0
 ciltis	tribes	0	0	1	0
+ciltis	es ci	0	0	1	0
 izplatīts	widespread	0	0	1	1
 sezonu	season	0	0	1	0
 ietekmēja	influenced	0	0	1	0
 aizstāvēt	defend	0	0	1	1
 slovākija	slovakia	0	0	1	0
+statujas	statues	0	0	1	0
+statujas	statue	0	0	1	0
 vīni	they	0	0	1	0
 mošejas	mosque	0	0	1	0
-vispārējie	trinidad and tobago	0	0	1	0
 vispārējie	general	0	0	1	0
 svarīgākā	most significant	0	0	1	0
 svarīgākā	most important	0	0	1	0
@@ -14043,7 +13658,6 @@ sociālas	social	0	0	1	0
 čārlzs	charles	0	0	1	0
 dzemdē	uterus	0	0	1	0
 vecajā	the old	0	0	1	0
-iekārtas	equipment	0	0	1	0
 iekārtas	facilities	0	0	1	0
 iekārtas	equipm	0	0	1	0
 institūciju	institutions	0	0	1	0
@@ -14054,14 +13668,14 @@ spēcīgu	a strong	0	0	1	0
 spēcīgu	strong	0	0	1	0
 produktiem	products	0	0	1	0
 likumdošanas	legislative	0	0	1	1
-situāciju	situation	0	0	1	0
 situāciju	situation in	0	0	1	0
+situāciju	situation	0	0	1	0
 spēcīgs	strong	0	0	1	1
 spēcīgs	powerful	0	0	1	0
 pakāpeniski	gradually	0	0	1	1
 nepieciešamas	nepieciesamas	0	0	1	0
 nepieciešamas	needed	0	0	1	0
-spēcīgi	specigi	0	0	1	0
+kategorijabijušās	categories has had	0	0	1	0
 institūcija	body	0	0	1	0
 institūcija	institucija	0	0	1	0
 institūcija	institution	0	0	1	0
@@ -14086,7 +13700,6 @@ atbilstošu	appropriate	0	0	1	0
 fauna	fauna	0	0	1	1
 veiksmīga	successful	0	0	1	0
 veiksmīga	a successful	0	0	1	0
-krājumus	krajumus	0	0	1	0
 krājumus	stocks	0	0	1	0
 ukraina	ukraine	0	0	1	0
 ukraina	ukrainian	0	0	1	0
@@ -14101,7 +13714,6 @@ apple	apple	0	0	1	0
 px|	pixels	0	0	1	0
 px|	px|	0	0	1	0
 vīnē	vine	0	0	1	0
-vīnē	vienna	0	0	1	0
 redz	see	0	0	1	0
 zinātniski	scientifically	0	0	1	0
 zinātniski	scientific	0	0	1	0
@@ -14114,7 +13726,6 @@ dejas	dancing	0	0	1	0
 from	from	0	0	1	0
 karaliene	queen	0	0	1	1
 izcelsmi	the origin	0	0	1	0
-ēkas	building	0	0	1	0
 ēkas	buildings	0	0	1	0
 loģika	logika	0	0	1	0
 loģika	logic	0	0	1	1
@@ -14124,7 +13735,6 @@ pārvietošanās	movement	0	0	1	1
 tolteki	toltec	1	1	0	0
 okupēja	occupied	0	0	1	0
 garīgi	mentally	0	0	1	1
-garīgi	long	0	0	1	0
 garīgo	spiritual	0	0	1	0
 kukaiņu	insects	0	0	1	0
 kukaiņu	insect	0	0	1	0
@@ -14140,7 +13750,6 @@ ieviešanas	problems	0	0	1	0
 ieviešanas	imposition	0	0	1	0
 ieviešanas	ieviesanas	0	0	1	0
 saimnieciskā	economic	0	0	1	0
-saimnieciskā	ecomonic	0	0	1	0
 vitamīna	vitamin	0	0	1	0
 artikulācijas	articulation	0	0	1	0
 spēlēm	games	0	0	1	0
@@ -14189,8 +13798,8 @@ pilskalni	mounds	0	0	1	0
 pamazām	gradually	0	0	1	1
 bilances	balance	0	0	1	0
 poters	potter	0	0	1	0
-antīkā	antique	0	0	1	0
-antīkā	vintage	0	0	1	0
+sia	ltd.	0	0	1	0
+sia	ltd	0	0	1	0
 jātnieks	rider	0	0	1	1
 jūtas	feelings	0	0	1	1
 pilnvaru	office	0	0	1	0
@@ -14204,7 +13813,7 @@ sin	si	0	0	1	0
 sin	sin	0	0	1	0
 izteikt	express	0	0	1	1
 aktieris	actor	0	0	1	1
-dziesma	song	0	0	1	1
+nācijām	the nation	0	0	1	0
 apriņķa	county	0	0	1	0
 guntis	guntis	0	0	1	0
 nespēj	can't	0	0	1	0
@@ -14217,7 +13826,6 @@ sistēmā	system	0	0	1	0
 maksāšanas	paying	0	0	1	0
 maksāšanas	tolls	0	0	1	0
 valdošā	valdsa	0	0	1	0
-valdošā	the dominant	0	0	1	0
 light	light	0	0	1	0
 apprecējās	married	0	0	1	0
 pārkāpums	offense	0	0	1	0
@@ -14226,7 +13834,7 @@ spēļu	game	0	0	1	0
 spēles	game	0	0	1	0
 spēles	free online games	0	0	1	0
 spēles	games	0	0	1	0
-premjerministrs	prime minister	0	0	1	1
+premjerministrs	prime minister	0	0	1	0
 konkrētās	competitiveness...	0	0	1	0
 konkrētās	specific	0	0	1	0
 konkrētās	to a specific	0	0	1	0
@@ -14234,7 +13842,6 @@ premjerministru	prime minister	0	0	1	0
 iedala	divided into	0	0	1	0
 nozīmīgākais	the most important	0	0	1	0
 premjerministra	prime minister	0	0	1	0
-starptautiskajā	in international	0	0	1	0
 starptautiskajā	international	0	0	1	0
 apriņķo	county	0	0	1	0
 apriņķo	orbits	0	0	1	0
@@ -14256,7 +13863,6 @@ sēriju	series	0	0	1	0
 datora	pc	0	0	1	0
 datora	computer	0	0	1	0
 komunisti	communists	0	0	1	0
-komunisti	the communists	0	0	1	0
 uzturēja	maintained	0	0	1	0
 kolonistu	colonists	0	0	1	0
 kolonistu	settlers	0	0	1	0
@@ -14267,7 +13873,6 @@ līvu	liv	0	0	1	0
 ziediem	flowers	0	0	1	0
 galdiņa	table	0	0	1	0
 galdiņa	gadin said	0	0	1	0
-ārējās	at the outer	0	0	1	0
 ārējās	external	0	0	1	0
 militāri	military	0	0	1	0
 militāri	militari	0	0	1	0
@@ -14310,7 +13915,7 @@ konkrētā	given	0	0	1	0
 konkrētā	a particular	0	0	1	0
 attiecināts	extended	0	0	1	0
 ērces	tramp	1	0	1	0
-ērces	mites	1	1	1	0
+ērces	mites	1	1	0	0
 ērces	ticks	1	0	1	0
 ērces	acarina	1	1	0	0
 centrā	center	0	0	1	0
@@ -14335,14 +13940,12 @@ savstarpēji	mutually	0	0	1	1
 kaut	some	0	0	1	0
 savstarpēju	savstrapeju	0	0	1	0
 savstarpēju	savstarpeju	0	0	1	0
-york	york	0	0	1	0
 culture	culture	0	0	1	0
 policijas	police	0	0	1	0
 piederības	home	0	0	1	0
 piederības	piederipas	0	0	1	0
 g	g	0	0	1	0
 iztek	runs out	0	0	1	0
-īpatnējā	the specific	0	0	1	0
 īpatnējā	peculiar	0	0	1	0
 ltf	ltf	0	0	1	0
 kategorijaķīmiskie	kategorijakimiskie	0	0	1	0
@@ -14356,7 +13959,6 @@ izcilākajiem	greatest	0	0	1	0
 izcilākajiem	the most outstanding	0	0	1	0
 aptvēra	covered	0	0	1	0
 aptvēra	cover	0	0	1	0
-latviešiem	latvians	0	0	1	0
 austriešu	austrian	0	0	1	0
 lietotājs	user	0	0	1	1
 militārā	military	0	0	1	0
@@ -14372,11 +13974,9 @@ lietotāja	member	0	0	1	0
 lietotāja	user	0	0	1	0
 industrializācija	industrialization	0	0	1	1
 mazuļus	baby	0	0	1	0
-mazuļus	babies	0	0	1	0
 lietotāji	membership	0	0	1	0
 lietotāji	user	0	0	1	0
 trešā	third	0	0	1	0
-trešā	tresa	0	0	1	0
 iekšēji	internally by	0	0	1	0
 kārli	karl	0	0	1	0
 valda	there is	0	0	1	0
@@ -14392,7 +13992,6 @@ saglabājusies	preserved	0	0	1	0
 elementiem	elements	0	0	1	0
 vērā	account	0	0	1	0
 cikloni	cyclones	0	0	1	0
-būtiska	significant	0	0	1	0
 būtiska	butiska	0	0	1	0
 ģitāras	guitars	0	0	1	0
 pieaugot	increasing	0	0	1	0
@@ -14422,7 +14021,6 @@ klimatiskie	climatic	0	0	1	0
 piekļuves	access	0	0	1	0
 pērkona	thunder	0	0	1	0
 smadzeņu	cerebral	0	0	1	1
-smadzeņu	brain	0	0	1	0
 attīstoties	development	0	0	1	0
 attīstoties	been developing	0	0	1	0
 rietumeiropā	rietumemeiropa	0	0	1	0
@@ -14436,7 +14034,7 @@ karjeru	career	0	0	1	0
 hēliju	helium	0	0	1	0
 hēlijs	helium	0	0	1	1
 centru	center	0	0	1	0
-rietumi	west	0	0	1	1
+dienvidus	south	0	0	1	0
 apkārtne	around it	0	0	1	0
 cilšu	tribal	0	0	1	0
 vadītāja	vaditaja	0	0	1	0
@@ -14455,17 +14053,13 @@ vadītāju	vatitaju	0	0	1	0
 galerija	galerija	0	0	1	0
 galerija	gallery	0	0	1	1
 prezidijs	bureau of	0	0	1	0
-konkrēta	specific	0	0	1	0
 konkrēta	a particular	0	0	1	0
 zemgaļu	semigallian	0	0	1	0
 paleolīts	paleolithic	0	0	1	0
 ēnā	ena	0	0	1	0
 tirgo	trigo	0	0	1	0
 tirgo	markets	0	0	1	0
-mājdzīvnieku	pet	0	0	1	0
-mājdzīvnieku	pet animal	0	0	1	0
 muižas	palaces	0	0	1	0
-muižas	manor	0	0	1	0
 tirgu	market	0	0	1	0
 vienotība	unity	0	0	1	1
 bijusī	was	0	0	1	0
@@ -14473,13 +14067,10 @@ bijusī	former	0	0	1	0
 stiepjas	stretching	0	0	1	0
 esmu	i	0	0	1	0
 esmu	l	0	0	1	0
-dāma	dama	0	0	1	0
-dāma	lady	0	0	1	1
 laikaposmā	time frame	0	0	1	0
 laikaposmā	time period	0	0	1	0
 laikaposmā	time	0	0	1	0
 parādījās	appeared	0	0	1	0
-parādījās	appeared in	0	0	1	0
 apskalo	wash	0	0	1	0
 apskalo	washed	0	0	1	0
 savus	their	0	0	1	0
@@ -14521,8 +14112,8 @@ laukos	fields	0	0	1	0
 romānu	novel	0	0	1	0
 romānu	novels	0	0	1	0
 norvēģu	norwegian	0	0	1	1
-zemnieku	farmer	0	0	1	0
 zemnieku	farmers	0	0	1	0
+zemnieku	farmer	0	0	1	0
 ž	2	0	0	1	0
 ž	z	0	0	1	0
 idejas	ideas	0	0	1	0
@@ -14563,7 +14154,6 @@ pants	the	0	0	1	0
 vajadzībām	need	0	0	1	0
 vajadzībām	needs	0	0	1	0
 uzskatīts	considered	0	0	1	0
-centās	tried	0	0	1	0
 centās	struggled to	0	0	1	0
 maziem	small	0	0	1	0
 erozijas	erosion	0	0	1	0
@@ -14584,12 +14174,11 @@ uzskatīti	cinsidered in the	0	0	1	0
 kompānija	company	0	0	1	1
 kompānija	e company	0	0	1	0
 vienlaikus	at the same time	0	0	1	0
-būve	building	0	0	1	0
-būve	builds	0	0	1	0
 attīstās	evolving	0	0	1	0
 attīstās	attlstas	0	0	1	0
 attīstās	developing	0	0	1	0
 antonio	antonio	0	0	1	0
+pasaka	fairy tale	0	0	1	0
 vēstules	vestutes	0	0	1	0
 vēstules	letter to	0	0	1	0
 vēstules	letters	0	0	1	0
@@ -14608,8 +14197,8 @@ pieņemts	accepted	0	0	1	1
 pieņemts	passed	0	0	1	0
 provinces	province	0	0	1	0
 daugava	daugava	0	0	1	0
-ģerboņa	gerbinas	0	0	1	0
 ģerboņa	coat of arms	0	0	1	0
+ģerboņa	gerbinas	0	0	1	0
 hindu	hindu	0	0	1	0
 bbc	bbc	0	0	1	0
 bbc	bbc news channel	0	0	1	0
@@ -14618,7 +14207,6 @@ izveidojušās	formed	0	0	1	0
 izveidojušās	up	0	0	1	0
 daugavu	daugava	0	0	1	0
 pieņemta	partial	0	0	1	0
-pieņemta	adopted	0	0	1	0
 dzeltenā	yellow	0	0	1	0
 skatoties	watching	0	0	1	0
 gleznās	paintings	0	0	1	0
@@ -14632,7 +14220,6 @@ pārcēlās	parcelas	0	0	1	0
 pārcēlās	moved	0	0	1	0
 bagātību	bagattbu	0	0	1	0
 bagātību	bagatibu	0	0	1	0
-bagātību	wealth	0	0	1	0
 ēna	ena	1	0	1	0
 ēna	nabi	1	0	1	0
 ēna	prophet	1	0	1	0
@@ -14641,10 +14228,9 @@ bagātību	wealth	0	0	1	0
 ēna	shadow	1	1	0	1
 atzīmē	mark	0	0	1	0
 cauri	through	0	0	1	1
-bagātība	wealth	0	0	1	1
 bagātība	richness of	0	0	1	0
+bagātība	wealth	0	0	1	1
 esošais	the present	0	0	1	0
-~	~	0	0	1	0
 marijas	marsjas	0	0	1	0
 marijas	mary	0	0	1	0
 uzvarām	win	0	0	1	0
@@ -14673,8 +14259,6 @@ dzīvojis	lived in	0	0	1	0
 pieņem	passes	0	0	1	0
 attālinās	away	0	0	1	0
 attālinās	move further	0	0	1	0
-attālinās	moves away	0	0	1	0
-citur	other	0	0	1	0
 citur	elsewhere	0	0	1	0
 citus	other	0	0	1	0
 kvalitāti	quality	0	0	1	0
@@ -14701,8 +14285,9 @@ artemīda	artemida: mida art	0	0	1	0
 dzīvnieka	dzivnieka	0	0	1	0
 dzīvnieka	animal	0	0	1	1
 atrastas	found	0	0	1	0
-trijās	had been worked out	0	0	1	0
-trijās	three	0	0	1	0
+materiāla	materiala	0	0	1	0
+materiāla	material	0	0	1	0
+materiāla	materials	0	0	1	0
 materiāli	materials	0	0	1	0
 turieni	there	0	0	1	0
 tcp	tcp	0	0	1	0
@@ -14712,7 +14297,6 @@ kartē	map	0	0	1	0
 kartē	karte	0	0	1	0
 varam	can	0	0	1	0
 materiāls	materials	0	0	1	0
-materiāls	meterials	0	0	1	0
 materiālu	material	0	0	1	0
 vēsture	history	0	0	1	1
 nov	nov: shor form of november	0	0	1	0
@@ -14729,7 +14313,6 @@ acetamīds	aceīamīds	1	1	0	0
 acetamīds	imagination	1	0	1	0
 acetamīds	acetamide	1	1	0	0
 iezīme	feature of	0	0	1	0
-iezīme	feature	0	0	1	1
 ziemeļu	north	0	0	1	1
 ziemeļu	northern	0	0	1	1
 barības	feed	0	0	1	0
@@ -14739,7 +14322,6 @@ centrālās	the central	0	0	1	0
 centrālās	central	0	0	1	0
 papīra	paper	0	0	1	0
 pūķi	kites	0	0	1	0
-pūķi	dragons	0	0	1	0
 varianti	options	0	0	1	0
 likumiem	laws	0	0	1	0
 nedz	or	0	0	1	0
@@ -14748,8 +14330,6 @@ diakritiskās	diacritical	0	0	1	0
 diakritiskās	diacritic	0	0	1	0
 samazināties	desease	0	0	1	0
 samazināties	to decline	0	0	1	0
-ieguvis	acquired	0	0	1	0
-ieguvis	mining	0	0	1	0
 mehāniskās	mechanical	0	0	1	0
 reklāmu	ad	0	0	1	0
 reklāmu	advertising	0	0	1	0
@@ -14765,7 +14345,7 @@ minimāli	minimum	0	0	1	0
 pūniešu	punic	0	0	1	1
 ieņemšana	conception	0	0	1	0
 astronomija	astronomy	0	0	1	1
-milzu	giant	0	0	1	0
+opera	opera	0	0	1	1
 vairākuma	majority	0	0	1	0
 daba	nature	0	0	1	1
 jomu	area	0	0	1	0
@@ -14784,28 +14364,26 @@ virzienam	direction	0	0	1	0
 vidējie	average	0	0	1	0
 saziņas	communications	0	0	1	0
 saziņas	communication	0	0	1	0
-nodarbošanās	occupation	0	0	1	1
 nodarbošanās	the job	0	0	1	0
+nodarbošanās	occupation	0	0	1	1
 planētas	planet	0	0	1	0
 skaņas	sound	0	0	1	0
 līdzeklis	a means	0	0	1	0
-līdzeklis	means	0	0	1	1
 izglītībai	education	0	0	1	0
 izmantot	use	0	0	1	1
-vadīt	run an	0	0	1	0
 vadīt	drive	0	0	1	1
 moriss	morris	0	0	1	0
 pielieto	used	0	0	1	0
 futūrisma	futurism	0	0	1	0
 norādīts	indicated	0	0	1	0
 norādīts	specified	0	0	1	0
-uzcelta	built in	0	0	1	0
 uzcelta	built	0	0	1	0
+uzcelta	built in	0	0	1	0
 bijušais	former	0	0	1	0
 pasta	post	0	0	1	1
 tikai	only	0	0	1	1
-izpēti	research	0	0	1	0
 izpēti	izpeti	0	0	1	0
+izpēti	research	0	0	1	0
 veselībai	healthy	0	0	1	0
 veselībai	health	0	0	1	0
 skaitļiem	figures	0	0	1	0
@@ -14845,10 +14423,8 @@ val	val	0	0	1	0
 peļņa	profit	0	0	1	1
 peļņa	earn	0	0	1	0
 lieliem	large	0	0	1	0
-atklāja	discovered	0	0	1	0
-atklāja	found	0	0	1	0
+latviešiem	latvians	0	0	1	0
 mainīgs	variable	0	0	1	1
-sieviešu	female	0	0	1	1
 sieviešu	women	0	0	1	0
 reģionos	regions	0	0	1	0
 var	vra	0	0	1	0
@@ -14860,7 +14436,6 @@ rituālus	ritualus	0	0	1	0
 godmaņa	godmanis	0	0	1	0
 mežā	in forest	0	0	1	0
 mežā	forest	0	0	1	0
-dokumentus	documents	0	0	1	0
 klase	class	0	0	1	1
 hercogs	heercogs	0	0	1	0
 hercogs	duke	0	0	1	1
@@ -14872,13 +14447,11 @@ balsošanas	voting	0	0	1	0
 kārtu	potatoes	0	0	1	0
 mīti	myths	0	0	1	0
 mīti	myth	0	0	1	0
-mīti	miti	0	0	1	0
 hronikas	chronicles	0	0	1	0
 jaunlatviešu	young	0	0	1	0
 psiholoģijas	psychology	0	0	1	0
 saucas	is called	0	0	1	0
 saucas	called	0	0	1	0
-figūrām	figura	0	0	1	0
 figūrām	fingures	0	0	1	0
 pieminēta	mentioned	0	0	1	0
 sadala	divided	0	0	1	0
@@ -14893,7 +14466,7 @@ falanga	phalanx	1	1	0	1
 investīcijas	investment	0	0	1	0
 pieder	owned	0	0	1	0
 sāls	frost	0	0	1	0
-lielā	large	0	0	1	0
+atēnas	athens	0	0	1	0
 jāmin	jamin	0	0	1	0
 jāmin	include	0	0	1	0
 šķietami	seemingly	0	0	1	1
@@ -14930,7 +14503,6 @@ zemgales	zemgale	0	0	1	0
 laulības	marriage	0	0	1	1
 laulības	matrimonial marital conjugal connubial marriage wedding espousal	0	0	1	0
 asinsvadi	blood vessels	0	0	1	0
-ļaunumu	news	0	0	1	0
 ļaunumu	evil	0	0	1	0
 kategorijaāfrikas	category africa	0	0	1	0
 kategorijaāfrikas	kategorijaafrikas	0	0	1	0

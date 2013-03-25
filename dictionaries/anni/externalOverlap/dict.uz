@@ -66,7 +66,6 @@ ommalashganki	ommalashganki	0	0	1	0
 ommalashganki	to become common or widespread	0	0	1	0
 ommalashganki	amalashgnky	0	0	1	0
 наук	hayk	0	0	1	0
-наук	sodium	0	0	1	0
 под	noa	0	0	1	0
 qaramay	recklessly	0	0	1	0
 qaramay	qaramay	0	0	1	0
@@ -162,12 +161,10 @@ yasalib	yasalib	0	0	1	0
 yasalib	to make	0	0	1	0
 qumli	yesterday	0	0	1	0
 qumli	add to	0	0	1	0
-qumli	sand	0	0	1	0
 qumli	stupid	0	0	1	0
 qumli	she has	0	0	1	0
 qumli	night	0	0	1	0
 qumli	to such a degree	0	0	1	0
-qumli	sandy	0	0	1	1
 qumli	qumli	0	0	1	0
 daha	daha	0	0	1	0
 daha	district	0	0	1	1
@@ -377,8 +374,8 @@ hol	hol	0	0	1	0
 hol	shock	0	0	1	0
 tutib	tutib	0	0	1	0
 hot	hot	0	0	1	0
-huvaydo	forward	0	0	1	0
-huvaydo	huvaydo	0	0	1	0
+ortasida	ortasida	0	0	1	0
+ortasida	back	0	0	1	0
 asarini	asarini	0	0	1	0
 asarini	asaryny	0	0	1	0
 asarini	archelogy	0	0	1	0
@@ -389,7 +386,9 @@ hop	again	0	0	1	0
 hop	snout	0	0	1	0
 hop	hop	0	0	1	0
 hop	crossing	0	0	1	0
-place	place	0	0	1	0
+aytadi	artery	0	0	1	0
+aytadi	aytadi	0	0	1	0
+aytadi	to go astray	0	0	1	0
 hindistonga	to cover	0	0	1	0
 hindistonga	loan words from arabic	0	0	1	0
 hindistonga	to cut aslant	0	0	1	0
@@ -433,7 +432,6 @@ zarur	necessary	0	0	1	1
 zarur	zarur	0	0	1	0
 mahsulotlarini	product	0	0	1	0
 mahsulotlarini	mahsulotlarini	0	0	1	0
-городах	hassium	0	0	1	0
 saroy	place	0	0	1	0
 saroy	extremely	0	0	1	0
 saroy	saroy	0	0	1	0
@@ -489,7 +487,7 @@ taminlash	taminlash	0	0	1	0
 taminlash	providing	0	0	1	0
 taminlash	assurance	0	0	1	0
 yoʻsinlarini	yo'sinlarini	0	0	1	0
-wales	wales	0	0	1	0
+bunday	bunday	0	0	1	0
 boshqarishni	to	0	0	1	0
 boshqarishni	boshqarishni	0	0	1	0
 fin	fin	0	0	1	0
@@ -626,14 +624,8 @@ neft	seventeenth	0	0	1	0
 neft	pitfall	0	0	1	0
 hududiy	region	0	0	1	0
 hududiy	hududiy	0	0	1	0
-shimoldan	information	0	0	1	0
-shimoldan	wife	0	0	1	0
-shimoldan	cutting board	0	0	1	0
-shimoldan	shinde	0	0	1	0
-shimoldan	awl	0	0	1	0
 shimoldan	shimoldan	0	0	1	0
-shimoldan	to wipe	0	0	1	0
-shimoldan	writing	0	0	1	0
+shimoldan	shinde	0	0	1	0
 qismini	qismini	0	0	1	0
 rh	rh	0	0	1	0
 ri	ache	0	0	1	0
@@ -787,7 +779,6 @@ islandsgod	yslandsgvd	0	0	1	0
 islandsgod	irritate	0	0	1	0
 islandsgod	islandsgod	0	0	1	0
 владением	bneahenem	0	0	1	0
-gavjum	gavjum	0	0	1	0
 gavjum	populous	0	0	1	1
 gavjum	bustling	0	0	1	1
 gavjum	crowded	0	0	1	1
@@ -927,14 +918,16 @@ ovozi	voice	0	0	1	0
 ovozi	ovozi	0	0	1	0
 finlandiya	finland	0	0	1	0
 finlandiya	finnish	0	0	1	0
+saytda	saytda	0	0	1	0
 turkuminternet	turkuminternet	0	0	1	0
 turkuminternet	category: internet	0	0	1	0
 sohasini	sohasini	0	0	1	0
 osiyoga	osiyoga	0	0	1	0
 zahiralar	zahiralar	0	0	1	0
 никогда	hnkoraa	0	0	1	0
-valiylik	valiylik	0	0	1	0
-valiylik	prophet	0	0	1	0
+etilgach	turn your head left	0	0	1	0
+etilgach	etilgach	0	0	1	0
+etilgach	to wake up	0	0	1	0
 ядерной	raophon	0	0	1	0
 dvigatelli	engine	0	0	1	0
 dvigatelli	to strike fire	0	0	1	0
@@ -1095,7 +1088,6 @@ kashfiyotlari	accompany	0	0	1	0
 kashfiyotlari	discoveries	0	0	1	0
 kashfiyotlari	kashfiyotlari	0	0	1	0
 idoraning	office	0	0	1	0
-idoraning	idoraning	0	0	1	0
 hqudratullaev	hqudratullaev	0	0	1	0
 международный	meahaopoohbin	0	0	1	0
 bulunuyordu	blessing	0	0	1	0
@@ -1108,7 +1100,7 @@ abdurashidxon	abdvrashydksvn	0	0	1	0
 oʻrmonlar	forest	0	0	1	0
 oʻrmonlar	o'rmonlar	0	0	1	0
 hadis	hadis	0	0	1	0
-hadis	test of strength	0	0	1	1
+hadis	test of strength	0	0	1	0
 xorazmdir	xorazmdir	0	0	1	0
 aloqada	aloqada	0	0	1	0
 aloqada	alqadh	0	0	1	0
@@ -1118,6 +1110,7 @@ boʻlish	pillow	0	0	1	0
 boʻlish	bo'lish	0	0	1	0
 артисты	aptnctbi	0	0	1	0
 union	union	0	0	1	0
+uyaga	uyaga	0	0	1	0
 halqali	halqali	0	0	1	0
 twain	twain	0	0	1	0
 much	much	0	0	1	0
@@ -1235,19 +1228,16 @@ gʻafur	g'afur	0	0	1	0
 остаётся	octaetcr	0	0	1	0
 tarjimalari	tajimalari	0	0	1	0
 tarjimalari	tarjimalari	0	0	1	0
-tarjimalari	curriculam	0	0	1	0
 декабре	stomach	0	0	1	0
 декабре	aekaope	0	0	1	0
 декабре	their grand fathers	0	0	1	0
 декабре	suqirrel	0	0	1	0
 декабре	this cup is fragile	0	0	1	0
-memorial	memorial	0	0	1	1
 memorial	forty	0	0	1	0
 астроном	actpohom	0	0	1	0
 sistemalar	sistemalar	0	0	1	0
 things	things	0	0	1	0
-qo`shimcha	qi'shimcha	0	0	1	0
-qo`shimcha	qo'shimcha	0	0	1	0
+guvohlik	guvohlik	0	0	1	0
 split	split	0	0	1	0
 ishtiroki	ishtiroki	0	0	1	0
 ishtiroki	their participation	0	0	1	0
@@ -1361,7 +1351,6 @@ hay	the	0	0	1	0
 hay	there	0	0	1	0
 hay	letter	0	0	1	0
 hayoti	life	0	0	1	0
-hayoti	callout	0	0	1	0
 qoʻshilgan	inclusion	0	0	1	0
 qoʻshilgan	qvshylgan	0	0	1	0
 qoʻshilgan	qo'shilgan	0	0	1	0
@@ -1454,6 +1443,8 @@ ya`ni	wrestle	0	0	1	0
 ya`ni	how are you?	0	0	1	0
 ya`ni	to be stopped	0	0	1	0
 ya`ni	or	0	0	1	0
+chaqmoktoshlar	lightning	0	0	1	0
+chaqmoktoshlar	chaqmoktoshlar	0	0	1	0
 gyornzi	guinea	0	0	1	0
 gyornzi	gyornzi	0	0	1	0
 billboard	billboard	0	0	1	0
@@ -1551,7 +1542,6 @@ xoʻjaligi	xo'jaligi	0	0	1	0
 jumladan	such as	0	0	1	0
 jumladan	jumladan	0	0	1	0
 jumladan	pairing	0	0	1	0
-gʻulomov	gvlvmvv	0	0	1	0
 gʻulomov	g'ulomov	0	0	1	0
 tayland	thailand	0	0	1	0
 tayland	tayland	0	0	1	0
@@ -1566,8 +1556,7 @@ son	verb	0	0	1	0
 son	number	0	0	1	1
 son	son	0	0	1	0
 nechta	nechta	0	0	1	0
-nechta	nails	0	0	1	0
-nechta	how many?	0	0	1	1
+nechta	how many?	0	0	1	0
 bulgan	insane	0	0	1	0
 bulgan		0	0	1	0
 bulgan	bulgan	0	0	1	0
@@ -1663,7 +1652,6 @@ yunoncha	asterisk	0	0	1	0
 yunoncha	yunoncha	0	0	1	0
 meros	meros	0	0	1	0
 meros	inheritance	0	0	1	1
-qiymati	threshold	0	0	1	0
 qiymati	qiymati	0	0	1	0
 qiymati	value	0	0	1	0
 targib	targib	0	0	1	0
@@ -1672,7 +1660,6 @@ kareliya	karelian	0	0	1	0
 nomiga	nomiga	0	0	1	0
 yarimoroli	peninsula	0	0	1	0
 физика	philosophy	0	0	1	0
-marjon	coral	0	0	1	1
 marjon	majron	0	0	1	0
 marjon	margin	0	0	1	0
 elementlarni	identical	0	0	1	0
@@ -1851,7 +1838,6 @@ sharqning	sharqning	0	0	1	0
 hakimlar	hakimlar	0	0	1	0
 obyektiv	object	0	0	1	0
 obyektiv	activ	0	0	1	0
-obyektiv	entity	0	0	1	0
 yoshligi	yoshligi	0	0	1	0
 yoshligi	lay on your back	0	0	1	0
 yoshligi	wind up	0	0	1	0
@@ -2015,6 +2001,7 @@ hujumidan	attack	0	0	1	0
 imperiya	imperiya	0	0	1	0
 imperiya	empire	0	0	1	1
 saroylar	saroylar	0	0	1	0
+gambia	gambia	0	0	1	0
 uchrashuv	uchrashuv	0	0	1	0
 uchrashuv	meeting	0	0	1	0
 ishga	ishga	0	0	1	0
@@ -2025,7 +2012,6 @@ locke	locke	0	0	1	0
 kengashning	to confer	0	0	1	0
 kengashning	kengashning	0	0	1	0
 sacrament	sacrement	0	0	1	0
-sacrament	sakramnt	0	0	1	0
 eski	starlet	0	0	1	0
 eski	ancient	0	0	1	0
 eski	old	0	0	1	1
@@ -2084,7 +2070,14 @@ yoshdadir	tear(s)	0	0	1	0
 yoshdadir	to beat	0	0	1	0
 yoshdadir	street to street	0	0	1	0
 yoshdadir	now	0	0	1	0
-yozadi	yozadi	0	0	1	0
+ss	good bye	0	0	1	0
+ss	ss	0	0	1	0
+ss	sisters husband	0	0	1	0
+ss	of short coat	0	0	1	0
+ss	q	0	0	1	0
+ss	arrow	0	0	1	0
+ss	to extend	0	0	1	0
+ss	news	0	0	1	0
 sp	harvest	0	0	1	0
 sp	to mow	0	0	1	0
 sp	to knock down	0	0	1	0
@@ -2105,7 +2098,9 @@ sh	definitely	0	0	1	0
 so	so	0	0	1	0
 manga	manga	0	0	1	0
 se	se	0	0	1	0
-kadimda	kadimda	0	0	1	0
+istiqomat	residence	0	0	1	0
+istiqomat	hot	0	0	1	0
+istiqomat	habitation	0	0	1	0
 западной	eanaahon	0	0	1	0
 западной	eanonhon	0	0	1	0
 tomlik	roofing	0	0	1	0
@@ -2137,8 +2132,8 @@ nso	cow	0	0	1	0
 nso	crack	0	0	1	0
 boladigan	boladigan	0	0	1	0
 tort	tort	0	0	1	0
-ortasida	ortasida	0	0	1	0
-ortasida	back	0	0	1	0
+huvaydo	forward	0	0	1	0
+huvaydo	huvaydo	0	0	1	0
 орденом	opaehom	0	0	1	0
 qatnashgan	feel	0	0	1	0
 qatnashgan	to put	0	0	1	0
@@ -2295,10 +2290,11 @@ punk	punk	0	0	1	0
 tarixi	taxi	0	0	1	0
 tarixi	tarixi	0	0	1	0
 tarixi	historical	0	0	1	0
-irlandiya	irlandiya	0	0	1	0
+iyulida	iyulida	0	0	1	0
+iyulida	ink	0	0	1	0
 gordon	orientation	0	0	1	0
-gordon	gordon	0	0	1	1
 gordon	meat	0	0	1	0
+gordon	gordon	0	0	1	1
 период	nepnoa	0	0	1	0
 etishning	etishning	0	0	1	0
 gʻulom	g'ulom	0	0	1	0
@@ -2447,7 +2443,6 @@ yillik	grandson	0	0	1	0
 yillik	yilik	0	0	1	0
 yillik	lasso pole	0	0	1	0
 yillik	to spread	0	0	1	0
-yillik	the annual	0	0	1	0
 turkumkimyoviy	turkumkimyoviy	0	0	1	0
 turkumkimyoviy	group activity	0	0	1	0
 massa	massa	0	0	1	0
@@ -2458,7 +2453,7 @@ take	lion hearted	0	0	1	0
 take	gift	0	0	1	0
 take	take	0	0	1	0
 savdosotiq	savdosotiq	0	0	1	0
-xomashyo	raw material	0	0	1	1
+xomashyo	raw material	0	0	1	0
 xomashyo	xomashyo	0	0	1	0
 xomashyo	raw material.	0	0	1	0
 to`liq	full	0	0	1	0
@@ -2468,7 +2463,6 @@ uzunlik	automatically.	0	0	1	0
 uzunlik	length	0	0	1	1
 uzunlik	uzunlik	0	0	1	0
 разработал	paepaootan	0	0	1	0
-ko`rsatgan	ko'rasatgan	0	0	1	0
 ko`rsatgan	ko'rsatgan	0	0	1	0
 yilqichilarining	yilqichilarining	0	0	1	0
 yilqichilarining	horse-breeding	0	0	1	0
@@ -2570,7 +2564,6 @@ oʻrniga		0	0	1	0
 oʻrniga	distracted	0	0	1	0
 oʻrniga	left to right	0	0	1	0
 borligiga	existence	0	0	1	0
-borligiga	account	0	0	1	0
 borligiga	borligiga	0	0	1	0
 osma	osma	0	0	1	0
 ananaviy	ananaviy	0	0	1	0
@@ -2631,14 +2624,13 @@ shimol	flea	0	0	1	0
 suyukli	smooth	0	0	1	0
 suyukli	suyukli	0	0	1	0
 taalluqli	taalluqli	0	0	1	0
-taalluqli	related to	0	0	1	1
+taalluqli	related to	0	0	1	0
 qismiga	qismiga	0	0	1	0
 manzillarini	stopping-place	0	0	1	0
 manzillarini	manzillarini	0	0	1	0
 manzillarini	manzilarini	0	0	1	0
 afrikaning	afrikaning	0	0	1	0
 afrikaning	afryknyng	0	0	1	0
-afrikaning	africa accession	0	0	1	0
 haqqoniy	haqqoniy	0	0	1	0
 haqqoniy	energetic	0	0	1	0
 vohidov	vohidov	0	0	1	0
@@ -2775,7 +2767,7 @@ ittifoqi	miracle	0	0	1	0
 ittifoqi	your attention	0	0	1	0
 ittifoqi	salt	0	0	1	0
 ittifoqi	milk	0	0	1	0
-bunday	bunday	0	0	1	0
+wales	wales	0	0	1	0
 sentabr	september	0	0	1	0
 sentabr	to burn	0	0	1	0
 sentabr	to hang	0	0	1	0
@@ -2918,8 +2910,6 @@ aniqladi	english	0	0	1	0
 aniqladi	strike	0	0	1	0
 aniqladi	morning	0	0	1	0
 aniqladi	grating of the yurt	0	0	1	0
-taraqqiyotida	development	0	0	1	0
-taraqqiyotida	progress	0	0	1	0
 taraqqiyotida	taraqqiyotida	0	0	1	0
 taraqqiyotida	content control	0	0	1	0
 да	aa	0	0	1	0
@@ -3004,8 +2994,7 @@ uygʻonish	home	0	0	1	0
 uygʻonish	side	0	0	1	0
 xavfsiz	safe	0	0	1	1
 xavfsiz	xavfsiz	0	0	1	0
-моей	moen	0	0	1	0
-моей	transience;	0	0	1	0
+kimlar	kimlar	0	0	1	0
 lebanon	lebanon	0	0	1	0
 davrda	we	0	0	1	0
 davrda	to melt	0	0	1	0
@@ -3083,7 +3072,6 @@ imagedorussiadatjpg	amage dorussiadat jpg	0	0	1	0
 ratifikatsiya	ratification	0	0	1	1
 ratifikatsiya	ratifikatsiya	0	0	1	0
 qildi	qildi	0	0	1	0
-yanvar	january	0	0	1	0
 yanvar	yanvar	0	0	1	0
 manbalarning	source learning	0	0	1	0
 manbalarning	manbalarning	0	0	1	0
@@ -3203,7 +3191,7 @@ bergen	have a look	0	0	1	0
 bergen	female	0	0	1	0
 bergen	close	0	0	1	0
 bergen	bergen	0	0	1	0
-feodal	feudal lord	0	0	1	1
+feodal	feudal lord	0	0	1	0
 feodal	feodal	0	0	1	0
 presli	capital city	0	0	1	0
 presli	presil	0	0	1	0
@@ -3269,9 +3257,8 @@ johnny	do you have a family?	0	0	1	0
 johnny		0	0	1	0
 johnny	mother	0	0	1	0
 johnny	get to know	0	0	1	0
-shahrida	form view	0	0	1	0
-shahrida	shahrida	0	0	1	0
-shahrida	citadel	0	0	1	0
+am	with	0	0	1	0
+am	am	0	0	1	0
 al	are we well?	0	0	1	0
 al	poets	0	0	1	0
 al	many	0	0	1	0
@@ -3301,10 +3288,9 @@ boshiga	dust	0	0	1	0
 boshiga	seventy	0	0	1	0
 farengeyt	farengeyt	0	0	1	0
 hisob	stomach	0	0	1	0
-hisob	hisob	0	0	1	0
 hisob	bill	0	0	1	0
-hisob	are you well	0	0	1	0
 hisob	cause to be ashamed	0	0	1	0
+hisob	are you well	0	0	1	0
 hisob	belly	0	0	1	0
 hisob	new	0	0	1	0
 hisob	hemp	0	0	1	0
@@ -3340,7 +3326,6 @@ kulollar	potter	0	0	1	0
 kulollar	kulollar	0	0	1	0
 amudaryoning	ampersand	0	0	1	0
 amudaryoning	amvaryvnyng	0	0	1	0
-amudaryoning	amudaryoning	0	0	1	0
 yaqindir	yaqindir	0	0	1	0
 yaqindir	yaqyndyr	0	0	1	0
 konstitutsiya	case	0	0	1	0
@@ -3424,7 +3409,6 @@ degan	degan	0	0	1	0
 degan	called	0	0	1	1
 nuqtai	nuqtai	0	0	1	0
 nuqtai	point	0	0	1	0
-xavfsizlik	security	0	0	1	1
 xavfsizlik	safety	0	0	1	1
 tahdid	tahdid	0	0	1	0
 tabibiy	tabibiy	0	0	1	0
@@ -3443,7 +3427,7 @@ rizo	rizo	0	0	1	0
 saralash	saralash	0	0	1	0
 oʻtkir	sharp	0	0	1	0
 oʻtkir	o'tkir	0	0	1	0
-gitarachi	guitar player	0	0	1	1
+gitarachi	guitar player	0	0	1	0
 gitarachi	guitarist	0	0	1	0
 asrga	asrga	0	0	1	0
 lirik	lirik	0	0	1	0
@@ -3468,7 +3452,6 @@ large	larg·h	0	0	1	0
 larga	large	0	0	1	0
 larga	larga	0	0	1	0
 sana	sana	0	0	1	0
-sana	time	0	0	1	0
 small	small	0	0	1	0
 madrasalar	a traditional islamic school	0	0	1	0
 madrasalar	madrasalar	0	0	1	0
@@ -3494,7 +3477,8 @@ armiyasiga	armyforce	0	0	1	0
 armiyasiga	arkansas	0	0	1	0
 armiyasiga	armiyasiga	0	0	1	0
 past	past	0	0	1	0
-boblarga	boblarga	0	0	1	0
+kengashga	conference	0	0	1	0
+kengashga	kengashga	0	0	1	0
 qoshigi	qoshigi	0	0	1	0
 qoshigi	spoon	0	0	1	0
 qoshigi	black	0	0	1	0
@@ -3508,7 +3492,6 @@ diametri	flee	0	0	1	0
 diametri	to win	0	0	1	0
 taʼlimiy	education	0	0	1	0
 taʼlimiy	ta'limiy	0	0	1	0
-kuchlarni	tension	0	0	1	0
 kuchlarni	dimple	0	0	1	0
 наибольшую	hanoobwyo	0	0	1	0
 xor	xor gate. "either or" redirects here. for kierkegaard's philosophical work.	0	0	1	0
@@ -3611,9 +3594,8 @@ muqovasi	mosque	0	0	1	0
 muqovasi	muqovasi	0	0	1	0
 tushadigan	tushadigan	0	0	1	0
 tushadigan	demand	0	0	1	0
-resurslar	resurslar	0	0	1	0
-resurslar	resources	0	0	1	0
 resurslar	rsvrslar	0	0	1	0
+resurslar	resurslar	0	0	1	0
 qo`ygan	qo'ygan	0	0	1	0
 deyishadi	lamb	0	0	1	0
 deyishadi	to be satisfied	0	0	1	0
@@ -3670,7 +3652,6 @@ tarixga	calendar	0	0	1	0
 tarixga	tarixga	0	0	1	0
 tarixga	taxlogy	0	0	1	0
 bilgan	bilgan	0	0	1	0
-registon	registan	0	0	1	1
 registon	registon	0	0	1	0
 ildizlari	ildizlari	0	0	1	0
 yarmiga	yaman	0	0	1	0
@@ -3747,7 +3728,6 @@ qurilib	qurilibq	0	0	1	0
 qurilib	construction.	0	0	1	0
 davlatni	state	0	0	1	0
 davlatni	davlatni	0	0	1	0
-davlatni	loop	0	0	1	0
 imkoniyatlaridan	imkoniyatlaridan	0	0	1	0
 imkoniyatlaridan	ymknyyatlarydan	0	0	1	0
 yashagan	post	0	0	1	0
@@ -3784,7 +3764,6 @@ qaroriga	qaroriga	0	0	1	0
 imzolash	imzolash	0	0	1	0
 qayvonlar	qayvonlar	0	0	1	0
 oshira	oshira	0	0	1	0
-oshira	hanging indent	0	0	1	0
 oshira	back	0	0	1	0
 xilmaxil	khylmaksyl	0	0	1	0
 xilmaxil	xilmaxil	0	0	1	0
@@ -3792,7 +3771,7 @@ toplami	toplami	0	0	1	0
 kaʼb	ka'b	0	0	1	0
 kaʼb	shrine	0	0	1	0
 html	html	0	0	1	0
-van	lake van	0	0	1	1
+van	lake van	0	0	1	0
 van	van	0	0	1	0
 kilgan	kilgan	0	0	1	0
 kilgan	kylgan	0	0	1	0
@@ -3845,7 +3824,6 @@ found	found	0	0	1	0
 echki	echki	0	0	1	0
 echki	goat	0	0	1	1
 gvineyabisso	gvineya- bisso	0	0	1	0
-gvineyabisso	gvineyabisso	0	0	1	0
 gfr	gfr	0	0	1	0
 osaka	osaka	0	0	1	0
 bo`lsa	bo'lsa	0	0	1	0
@@ -3865,10 +3843,9 @@ yo`lida	yo'lida	0	0	1	0
 yo`lida	encountered	0	0	1	0
 prezidentga	prezidentga	0	0	1	0
 prezidentga	president	0	0	1	0
-prezidentga	presdient	0	0	1	0
 litva	lithuaninan	0	0	1	0
-litva	litva	0	0	1	0
 litva	mountain	0	0	1	0
+litva	litva	0	0	1	0
 ostiga	underlined	0	0	1	0
 ostiga	ostiga	0	0	1	0
 quvayt	quvayt	0	0	1	0
@@ -3897,6 +3874,9 @@ qarzini	qarzini	0	0	1	0
 qarzini	debt	0	0	1	0
 qarzini	pine	0	0	1	0
 himoyalovchi	himoyalovchi	0	0	1	0
+asos	body text	0	0	1	0
+asos	asos	0	0	1	0
+asos	persian)	0	0	1	0
 siriya	series	0	0	1	0
 siriya	pot	0	0	1	0
 siriya	elder brother	0	0	1	0
@@ -3969,11 +3949,9 @@ qaysiki	promise	0	0	1	0
 qaysiki	to baptize	0	0	1	0
 qaysiki	qaysiki	0	0	1	0
 qaysiki	serious	0	0	1	0
-oʻrnatiladi	left-righ	0	0	1	0
 oʻrnatiladi	period	0	0	1	0
 oʻrnatiladi	to place	0	0	1	0
 uzunligi	uzunligi	0	0	1	0
-uzunligi	length	0	0	1	0
 uzunligi	asosla-;	0	0	1	0
 корея	cooper	0	0	1	0
 корея	kopez	0	0	1	0
@@ -4063,7 +4041,7 @@ vayron	waitress	0	0	1	0
 tuzilishiga	outline symbol	0	0	1	0
 tuzilishiga	tuzilishiga	0	0	1	0
 eronga	eronga	0	0	1	0
-eronga	to iran	0	0	1	1
+eronga	to iran	0	0	1	0
 batafsil	detailed	0	0	1	1
 batafsil	batafsil	0	0	1	0
 bulunan	bulunan	0	0	1	0
@@ -4118,9 +4096,7 @@ muxlislariga	devotee	0	0	1	0
 muxlislariga	muxlislariga	0	0	1	0
 also	also	0	0	1	0
 dunyosi	dunyosi	0	0	1	0
-kurashda	kurashda	0	0	1	0
-kurashda	police officer	0	0	1	0
-kurashda	he came	0	0	1	0
+shaklini	shaklini	0	0	1	0
 выступление	bbictynnehne	0	0	1	0
 play	play	0	0	1	0
 qoʻshjonov	states	0	0	1	0
@@ -4298,7 +4274,6 @@ shaharlar	townsman	0	0	1	0
 qismida	question	0	0	1	0
 qismida	qismida	0	0	1	0
 koʻrdi	cord	0	0	1	0
-koʻrdi	kordi	0	0	1	0
 koʻrdi	ko'rdi	0	0	1	0
 kolumbiya	kolumbiya	0	0	1	0
 kolumbiya	columbia	0	0	1	0
@@ -4322,8 +4297,8 @@ turkumjanubiy	subtrahend.	0	0	1	0
 turkumjanubiy	category: january	0	0	1	0
 turkumjanubiy	turkumjanubiy	0	0	1	0
 hayvonlar	hayvonlar	0	0	1	0
-tumanlari	button	0	0	1	0
-tumanlari	tumanlari	0	0	1	0
+fuqarolar	framework	0	0	1	0
+fuqarolar	fuqarolar	0	0	1	0
 qoraqalpoq	mountains.	0	0	1	0
 qoraqalpoq	karakalpak	0	0	1	0
 qoraqalpoq	qaraqalpaq	0	0	1	0
@@ -4343,7 +4318,7 @@ birdan	enjoyment	0	0	1	0
 birdan	quince	0	0	1	0
 birdan	singly	0	0	1	0
 birdan	single	0	0	1	0
-birdan	at once	0	0	1	1
+birdan	at once	0	0	1	0
 birdan	birdan	0	0	1	0
 birdan	but all the same he has seen	0	0	1	0
 birdan	alone	0	0	1	0
@@ -4718,7 +4693,6 @@ qirgʻoq	qirg'oq	0	0	1	0
 qirgʻoq	shore	0	0	1	0
 qirgʻoq	decide	0	0	1	0
 ruhi	seven	0	0	1	0
-ruhi	mental	0	0	1	0
 ruhi	to bind bu throwing the rope	0	0	1	0
 ruhi	ruhi	0	0	1	0
 ruhi	plough	0	0	1	0
@@ -4743,7 +4717,7 @@ qaytadi	qaytadi	0	0	1	0
 hukumat	governmen	0	0	1	0
 hukumat	hukumat	0	0	1	0
 hukumat	government	0	0	1	1
-doir	related to	0	0	1	1
+doir	related to	0	0	1	0
 doir	major	0	0	1	0
 doir	doir	0	0	1	0
 sogʻinchi	sog'inchi	0	0	1	0
@@ -4764,7 +4738,6 @@ afg`oniston	afg'oniston	0	0	1	0
 toʻplam	to'plam	0	0	1	0
 zid	zid	0	0	1	0
 zid	blessed	0	0	1	0
-soch	sculptures	0	0	1	0
 soch	svch	0	0	1	0
 soch	soch	0	0	1	0
 davrdagi	davrdagi	0	0	1	0
@@ -4801,13 +4774,8 @@ g`arbiy	my place	0	0	1	0
 g`arbiy	to be	0	0	1	0
 g`arbiy	arm	0	0	1	0
 zikr	zikr	0	0	1	0
-narxi	to heap up	0	0	1	0
-narxi	fight	0	0	1	0
-narxi	eye lash	0	0	1	0
-narxi	naxal	0	0	1	0
-narxi	news	0	0	1	0
 narxi	narxi	0	0	1	0
-narxi	one-hundred	0	0	1	0
+narxi	naxal	0	0	1	0
 oʻzlari	economics	0	0	1	0
 oʻzlari	metals	0	0	1	0
 oʻzlari	o'zlari	0	0	1	0
@@ -4960,11 +4928,6 @@ majolisunnafois	majolisunnafois	0	0	1	0
 majolisunnafois	now	0	0	1	0
 majolisunnafois	wet through	0	0	1	0
 majolisunnafois	i live in the us	0	0	1	0
-pochta	thousands and thousands	0	0	1	0
-pochta	pochta	0	0	1	0
-pochta	hotness.	0	0	1	0
-pochta	to roll down	0	0	1	0
-pochta	to mix	0	0	1	0
 seni	seni	0	0	1	0
 seni	i love u	0	0	1	0
 seni	gopher	0	0	1	0
@@ -4983,7 +4946,6 @@ vohasining	bring	0	0	1	0
 vohasining	key	0	0	1	0
 vohasining	fry	0	0	1	0
 zuhra	venus	0	0	1	1
-zuhra	venus(planet)	0	0	1	0
 zuhra	zuhra	0	0	1	0
 страна	city	0	0	1	0
 страна	sun	0	0	1	0
@@ -5038,7 +5000,6 @@ mirshodi	mirshodi	0	0	1	0
 mirshodi	police	0	0	1	0
 davlatlarining	davlatlarining	0	0	1	0
 davlatlarining	rich	0	0	1	0
-davlatlarining	government	0	0	1	0
 haqiqat	haqiqat	0	0	1	0
 haqiqat	truth	0	0	1	1
 azolari	azvlary	0	0	1	0
@@ -5178,8 +5139,7 @@ ko`rsatib	beardless	0	0	1	0
 let	lat	0	0	1	0
 let	sheet	0	0	1	0
 let	let	0	0	1	0
-chaqmoktoshlar	chaqmoktoshlar	0	0	1	0
-chaqmoktoshlar	lightning	0	0	1	0
+ubuntu	ubuntu	0	0	1	0
 krist	krist	0	0	1	0
 krist	crystalline	0	0	1	0
 iqlimi	leave	0	0	1	0
@@ -5254,7 +5214,7 @@ sirt	breast	1	0	1	0
 sirt	listening	1	0	1	0
 sirt	coming	1	0	1	0
 sirt	morality	1	0	1	0
-sirt	outer side	1	1	0	1
+sirt	outer side	1	1	0	0
 sirt	taking	1	0	1	0
 sirt	scabbard	1	0	1	0
 sirt	a surface	1	0	1	0
@@ -5289,7 +5249,7 @@ ayblanib	walk	0	0	1	0
 sulaymon	to weaken	0	0	1	0
 sulaymon	sulaymon	0	0	1	0
 tuynuk	tuynuk	0	0	1	0
-tuynuk	opening in a wall or ceiling serving as a window or skylight	0	0	1	1
+tuynuk	opening in a wall or ceiling serving as a window or skylight	0	0	1	0
 о	a	0	0	1	0
 о	squishing	0	0	1	0
 о	o	0	0	1	0
@@ -5345,7 +5305,6 @@ atomlar	atomlar	0	0	1	0
 atomlar	atom	0	0	1	0
 atomlar	peck	0	0	1	0
 atomlar	wind	0	0	1	0
-kirmagan	applications to be excluded from sessions	0	0	1	0
 kirmagan	kirmagan	0	0	1	0
 kirmagan	tear off	0	0	1	0
 kirmagan	has apparently left	0	0	1	0
@@ -5358,7 +5317,6 @@ etti	angle	0	0	1	0
 etti	upcoming	0	0	1	0
 etti	good afternoon	0	0	1	0
 etti	submerge	0	0	1	0
-etti	was	0	0	1	0
 etti	cloud	0	0	1	0
 shimolig`arbda	shimolig'arbda	0	0	1	0
 zardusht	zardusht	0	0	1	0
@@ -5433,7 +5391,6 @@ turmushga	do you have a family	0	0	1	0
 turmushga	anniversary	0	0	1	0
 turmushga	net	0	0	1	0
 turmushga	sister's husband	0	0	1	0
-jinsi	how	0	0	1	0
 jinsi	jinsi	0	0	1	0
 jinsi	sexual	0	0	1	0
 иран	npah	0	0	1	0
@@ -5628,9 +5585,7 @@ bilish	bilish	0	0	1	0
 oxshash	oxshash	0	0	1	0
 eksportga	eksportga	0	0	1	0
 eksportga	export	0	0	1	0
-eksportga	ecuador	0	0	1	0
 yangiliklarni	news	0	0	1	0
-yangiliklarni	yangilikarni	0	0	1	0
 yangiliklarni	yangiliklarni	0	0	1	0
 mendan	mendan	0	0	1	0
 hayot	hyatt	1	0	1	0
@@ -5678,7 +5633,6 @@ etim	etymological	0	0	1	0
 massasi	mass	0	0	1	0
 massasi	massasi	0	0	1	0
 первую	nepbyho	0	0	1	0
-первую	gold	0	0	1	0
 muhammad	muhammad	0	0	1	0
 muhammad	muhammed	0	0	1	0
 sotsialistik		0	0	1	0
@@ -5755,6 +5709,14 @@ animatsion	to be stopped	0	0	1	0
 suqrot	suqrot	0	0	1	0
 suqrot	socrat	0	0	1	0
 suqrot	greedy	0	0	1	0
+tinch	spring	0	0	1	0
+tinch	all of this	0	0	1	0
+tinch	downwards	0	0	1	0
+tinch	add to	0	0	1	0
+tinch	so much	0	0	1	0
+tinch	election	0	0	1	0
+tinch	tinch	0	0	1	0
+tinch	bazm:	0	0	1	0
 ekvatorial	equatorial	0	0	1	1
 ekvatorial	ekvatorial	0	0	1	0
 tonight	tonight	0	0	1	0
@@ -5833,7 +5795,6 @@ donishmandlik	donishmandlik	0	0	1	0
 vikipediya	wikepediya	0	0	1	0
 vikipediya	wikipedia	0	0	1	0
 tayin	tayin	0	0	1	0
-oilaning	householding	0	0	1	0
 oilaning	oilaning	0	0	1	0
 xorazm	xorazm	0	0	1	0
 xorazm	khorezm	0	0	1	1
@@ -5893,7 +5854,7 @@ adolat	foothills	0	0	1	0
 adolat	adolat	0	0	1	1
 ==	==	0	0	1	0
 япония	nnohnr	0	0	1	0
-kamida	at least	0	0	1	1
+kamida	at least	0	0	1	0
 kamida	kamida	0	0	1	0
 bayroq	bayroq	0	0	1	0
 bayroq	flag	0	0	1	1
@@ -6241,7 +6202,6 @@ xamsaʼ	collection of five dostons	0	0	1	0
 turkummusiqiy	turkum:musiqiy	0	0	1	0
 turkummusiqiy	turkummusiqiy	0	0	1	0
 ё	e	0	0	1	0
-ё	or	0	0	1	0
 balx	balx	0	0	1	0
 ikea	ikea	0	0	1	0
 php	good evening	0	0	1	0
@@ -6356,8 +6316,6 @@ oqlar	oqlar	0	0	1	0
 oqlar	that place	0	0	1	0
 oqlar	optimism	0	0	1	0
 inkor	ant	0	0	1	0
-inkor	denial	0	0	1	1
-inkor	negation	0	0	1	1
 inkor	inkor	0	0	1	0
 ekologiya	ecology	0	0	1	1
 ekologiya	ekologiya	0	0	1	0
@@ -6384,8 +6342,7 @@ nihoyasiga	pieces.	0	0	1	0
 hamkorligi	hamkorligi	0	0	1	0
 mhz	mhz	0	0	1	0
 seochogu	seochogu	0	0	1	0
-yuborishi	to send	0	0	1	0
-yuborishi	sending	0	0	1	0
+demakdir	demakdir	0	0	1	0
 become	become	0	0	1	0
 axloq	axloq	0	0	1	0
 respublikasining	respublikasining	0	0	1	0
@@ -6422,14 +6379,7 @@ kiritiladi	kiritildai	0	0	1	0
 bloklar		0	0	1	0
 bloklar	bloklar	0	0	1	0
 bloklar	grass	0	0	1	0
-passion	blessing	0	0	1	0
-passion	add to	0	0	1	0
-passion	a split	0	0	1	0
 passion	passion	0	0	1	0
-passion	clown	0	0	1	0
-passion	back of head	0	0	1	0
-passion	artery	0	0	1	0
-passion	eighth	0	0	1	0
 tibbiy	medical	0	0	1	1
 tibbiy	tibbiy	0	0	1	0
 tayyorlaydi	tayyorlaydi	0	0	1	0
@@ -6520,9 +6470,8 @@ yurishlar	small finger	0	0	1	0
 guruhcha	guruhcha	0	0	1	0
 xorvatiya	xorvatiya	0	0	1	0
 xorvatiya	croatia	0	0	1	1
-kattagina	huge	0	0	1	0
-kattagina	cat gina	0	0	1	0
 kattagina	big	0	0	1	0
+kattagina	cat gina	0	0	1	0
 slovakia	slovakia	0	0	1	0
 slovakia	slvkya	0	0	1	0
 shvetsariya	shvetsariya	0	0	1	0
@@ -6552,21 +6501,11 @@ maʼmun	ma'mun	0	0	1	0
 beruvchi	beruvchi	0	0	1	0
 tushib	getting started	0	0	1	0
 tushib	tushib	0	0	1	0
-часть	deputy	0	0	1	0
-часть	before a holiday	0	0	1	0
-часть	back	0	0	1	0
-часть	free	0	0	1	0
-часть	cotton seeds	0	0	1	0
-часть	some times	0	0	1	0
-часть	to suffer	0	0	1	0
 часть	act	0	0	1	0
-часть	abandon	0	0	1	0
-часть	endowment	0	0	1	0
 chiqishni	rise	0	0	1	0
 chiqishni	chiqishni	0	0	1	0
 qal`a	qal'a	0	0	1	0
 adabiytanqidiy	adabiytanqidiy	0	0	1	0
-adabiytanqidiy	literary critique	0	0	1	0
 o`zbekiston	o'zbekiston	0	0	1	0
 ozida	ozida	0	0	1	0
 ozida	azerbaijan	0	0	1	0
@@ -6613,10 +6552,15 @@ yili	to cut into slices	0	0	1	0
 yili	yili	0	0	1	0
 yili	where is my room	0	0	1	0
 bolganligi	bolganligi	0	0	1	0
-ini	younger brother	0	0	1	0
-ini	¥	0	0	1	0
-ini	ini	0	0	1	0
-ini	brother	0	0	1	0
+вместе	sir	0	0	1	0
+вместе	beggar	0	0	1	0
+вместе	bmecte	0	0	1	0
+вместе	ram	0	0	1	0
+вместе	quite	0	0	1	0
+вместе	cheat	0	0	1	0
+вместе	breast	0	0	1	0
+вместе	twenty- first	0	0	1	0
+вместе	heel	0	0	1	0
 gozalligi	you can breath	0	0	1	0
 gozalligi	about	0	0	1	0
 gozalligi	earmark	0	0	1	0
@@ -6645,7 +6589,6 @@ seul	seul	0	0	1	0
 seul	seoul	0	0	1	0
 solihxoja	solihxoja	0	0	1	0
 yoqasidagi	yoqasidagi	0	0	1	0
-xulosalar	summary	0	0	1	0
 xulosalar	suck my cock	0	0	1	0
 xulosalar	stick	0	0	1	0
 xulosalar	xulosalar	0	0	1	0
@@ -6691,7 +6634,7 @@ yupqa	float	0	0	1	0
 yupqa	to be stopped	0	0	1	0
 yupqa	new	0	0	1	0
 ozgina	ozgina	0	0	1	0
-ozgina	a little	0	0	1	1
+ozgina	a little	0	0	1	0
 oripov	oripov	0	0	1	0
 bojxonasi	customs house	0	0	1	0
 bojxonasi	custom-house	0	0	1	0
@@ -6949,10 +6892,8 @@ dollarning	dollarning	0	0	1	0
 dollarning	amoral.	0	0	1	0
 dollarning	dollar	0	0	1	0
 qo`llanilgan	qo'llanilgan	0	0	1	0
-turkumquyosh	category: quyosh tizimi	0	0	1	0
-turkumquyosh	part  sun	0	0	1	0
-turkumquyosh	group	0	0	1	0
 turkumquyosh	turkumquyosh	0	0	1	0
+turkumquyosh	category: quyosh tizimi	0	0	1	0
 oʻlimidan	death	0	0	1	0
 oʻlimidan	o'limidan	0	0	1	0
 aaron	aaron	0	0	1	0
@@ -6965,7 +6906,6 @@ samarqanddagi	reed	0	0	1	0
 samarqanddagi	samarqand	0	0	1	0
 bolalik	to give a child to s.o. to raise	0	0	1	0
 bolalik	childhood	0	0	1	1
-bolalik	bolalik	0	0	1	0
 indiana	real	0	0	1	0
 indiana	great	0	0	1	0
 indiana	walk	0	0	1	0
@@ -7074,10 +7014,6 @@ hattoki	desire	0	0	1	0
 hattoki		0	0	1	0
 hattoki	tuynuk	0	0	1	0
 hattoki	hattoki	0	0	1	0
-masalalar	matter	0	0	1	0
-masalalar	problem	0	0	1	0
-masalalar	task	0	0	1	0
-masalalar	question	0	0	1	0
 masalalar	masalalar	0	0	1	0
 yarimi	playful	0	0	1	0
 yarimi	yarimi	0	0	1	0
@@ -7145,7 +7081,8 @@ teatri	theater	0	0	1	0
 teatri	theatre	0	0	1	0
 tennessi	tennessi	0	0	1	0
 pascal	pascal	0	0	1	0
-sony	sony	0	0	1	0
+ilmfan	ilmfan	0	0	1	0
+ilmfan	knowledge	0	0	1	0
 japan	japan	0	0	1	0
 yaqinidan	yaqinidan	0	0	1	0
 yaqinidan	closely	0	0	1	0
@@ -7153,7 +7090,6 @@ shubha	doubt	0	0	1	1
 shubha	shubha	0	0	1	0
 ruanda	ruanda	0	0	1	0
 amerikalik	american	0	0	1	1
-amerikalik	america	0	0	1	0
 forscha	forscha	0	0	1	0
 forscha	farsi	0	0	1	0
 forscha	frscha	0	0	1	0
@@ -7203,7 +7139,6 @@ o`n	dilnavoz.	0	0	1	0
 o`n	ten	0	0	1	0
 l	l	0	0	1	0
 shoiraning	shoirajning	0	0	1	0
-shoiraning	poetess	0	0	1	0
 shoiraning	shoiraning	0	0	1	0
 davri	timer interval	0	0	1	0
 davri	periodic	0	0	1	0
@@ -7234,7 +7169,6 @@ merosini	merosini	0	0	1	0
 merosini	mercury	0	0	1	0
 kirib	kirib	0	0	1	0
 kirib	about	0	0	1	0
-kirib	berishicha	0	0	1	0
 list	list	0	0	1	0
 kiruvchi	ammonia.	0	0	1	0
 kiruvchi	kiruvchi	0	0	1	0
@@ -7357,8 +7291,9 @@ another	another	0	0	1	0
 qabristonlar	qabristonlar	0	0	1	0
 tekisliklar	plain	0	0	1	0
 tekisliklar	tekisliklar	0	0	1	0
-louvre	log file	0	0	1	0
-louvre	louvre	0	0	1	0
+xorijiy	very green	0	0	1	0
+xorijiy	some one who eats	0	0	1	0
+xorijiy	xorijiy	0	0	1	0
 bigizlar	to come	0	0	1	0
 bigizlar	awl	0	0	1	0
 bigizlar	bigizlar	0	0	1	0
@@ -7478,8 +7413,8 @@ qurilma	apparatus	0	0	1	0
 qoraqalpoqlar	qoraqalpoqlar	0	0	1	0
 qoraqalpoqlar	qraqalpvqlar	0	0	1	0
 qizi	to heat up	0	0	1	0
-qizi	qizi	0	0	1	0
 qizi	homeless;	0	0	1	0
+qizi	qizi	0	0	1	0
 saudiya	saudiya	0	0	1	0
 sub	sub	0	0	1	0
 erikson	ericsion	0	0	1	0
@@ -7546,7 +7481,6 @@ ilmiymadaniy	ilmiymadaniy	0	0	1	0
 imlosidagi	imlosidagi	0	0	1	0
 oʻzaro	vzrv	0	0	1	0
 oʻzaro	o'zaro	0	0	1	0
-başladı	started	0	0	1	0
 başladı	basladi	0	0	1	0
 hujjatlar	building	0	0	1	0
 hujjatlar	hujjatlar	0	0	1	0
@@ -7588,8 +7522,8 @@ tubdan	low	0	0	1	0
 luiziana	luiziana	0	0	1	0
 rung	rung	0	0	1	0
 диск	anck	0	0	1	0
-freshwater	fresh water	0	0	1	0
-freshwater	freshwater	0	0	1	0
+bevosita	access	0	0	1	0
+bevosita	bevosita	0	0	1	0
 деньги	weaving shuttle	0	0	1	0
 деньги	water which has flowed	0	0	1	0
 деньги	to bead	0	0	1	0
@@ -7633,7 +7567,6 @@ away	away	0	0	1	0
 away	sow	0	0	1	0
 away	go	0	0	1	0
 away	until the village	0	0	1	0
-hujum	the e	0	0	1	0
 hujum	earth	0	0	1	0
 hujum	rights	0	0	1	0
 insonga	nations and people	0	0	1	0
@@ -7745,8 +7678,8 @@ kuruluş	kurulas	0	0	1	0
 kuruluş	right	0	0	1	0
 kuruluş	understand	0	0	1	0
 kuruluş	war	0	0	1	0
-turkumbmt	category: bmt	0	0	1	0
 turkumbmt	turkumbmt	0	0	1	0
+turkumbmt	category: bmt	0	0	1	0
 turkumbmt	point	0	0	1	0
 hosil	snuff	0	0	1	0
 hosil	use	0	0	1	0
@@ -7820,7 +7753,8 @@ ijro	needle	0	0	1	0
 havo	havo	0	0	1	0
 ketgan	ketgan	0	0	1	0
 netscape	netscape	0	0	1	0
-koʻrsatib	ko'rsatib	0	0	1	0
+jamoaning	enrollment	0	0	1	0
+jamoaning	jamoaning	0	0	1	0
 rishilar	rishilar	0	0	1	0
 beyliğinin	patronage	0	0	1	0
 beyliğinin	body	0	0	1	0
@@ -7860,17 +7794,7 @@ masalada	question	0	0	1	0
 arxangelsk	arxangelsk	0	0	1	0
 mamlakatlaridagi	mamlakatlaridagi	0	0	1	0
 mamlakatlaridagi	country	0	0	1	0
-kaliforniya	your grandfather	0	0	1	0
-kaliforniya	fang	0	0	1	0
-kaliforniya	root	0	0	1	0
-kaliforniya	custom	0	0	1	0
-kaliforniya	crush	0	0	1	0
-kaliforniya	where	0	0	1	0
 kaliforniya	california	0	0	1	0
-kaliforniya	time	0	0	1	0
-kaliforniya	to open	0	0	1	0
-kaliforniya	acid	0	0	1	0
-kaliforniya	open	0	0	1	0
 mojaroni	mojaroni	0	0	1	0
 mojaroni	major	0	0	1	0
 borasida	we	0	0	1	0
@@ -7903,9 +7827,6 @@ solaris	to know	0	0	1	0
 историю	nctopnno	0	0	1	0
 историю	nctopno	0	0	1	0
 boʻl	bo'l	0	0	1	0
-boʻl	water which has flowed	0	0	1	0
-boʻl	be finished	0	0	1	0
-boʻl	submarine	0	0	1	0
 yozilishi	their	0	0	1	0
 yozilishi	coping	0	0	1	0
 yozilishi	yozilishi	0	0	1	0
@@ -7977,7 +7898,6 @@ ishsizlik	idleness	0	0	1	0
 ishsizlik	ishsizlik	0	0	1	0
 konstitutsion	constitutional	0	0	1	1
 konstitutsion	constitution	0	0	1	0
-konstitutsion	konstitution	0	0	1	0
 haqda	haqda	0	0	1	0
 haqda	truth	0	0	1	0
 kalsiy	heart	0	0	1	0
@@ -8062,8 +7982,8 @@ nusxasi	nusxasi	0	0	1	0
 nusxasi	nvsksasy	0	0	1	0
 vohaning	hydrogen	0	0	1	0
 vohaning	vohaning	0	0	1	0
-tutishi	tutishi	0	0	1	0
-tutishi	group	0	0	1	0
+normalarini	normalarini	0	0	1	0
+normalarini	named set	0	0	1	0
 productions	productions	0	0	1	0
 skelter	skelter	0	0	1	0
 skelter	skltr	0	0	1	0
@@ -8104,6 +8024,9 @@ eʼtiborli	email	0	0	1	0
 tortish	pull	0	0	1	0
 tortish	tortish	0	0	1	0
 tortish	contest	0	0	1	1
+shahrida	form view	0	0	1	0
+shahrida	shahrida	0	0	1	0
+shahrida	citadel	0	0	1	0
 turdagi	plant	0	0	1	0
 turdagi	tea	0	0	1	0
 turdagi	stick to	0	0	1	0
@@ -8291,8 +8214,8 @@ bizi	bayesian	0	0	1	0
 bizi	us	0	0	1	0
 qonuni	qonuni	0	0	1	0
 qonuni	lawful	0	0	1	0
-viloyat	province	0	0	1	1
-viloyat	viloyat	0	0	1	0
+yevropaning	yevropaning	0	0	1	0
+yevropaning	european	0	0	1	0
 taronalar	taronalar	0	0	1	0
 taronalar	tarvnalar	0	0	1	0
 matlock	matlock	0	0	1	0
@@ -8301,7 +8224,6 @@ formulasi	formula	0	0	1	0
 formulasi	a formula	0	0	1	0
 formulasi	formulaes	0	0	1	0
 sanʻat	san'at	0	0	1	0
-sanʻat	sanat	0	0	1	0
 qirgizlar	eyelids	0	0	1	0
 qirgizlar	sword	0	0	1	0
 songs	songs	0	0	1	0
@@ -8335,15 +8257,7 @@ turlarini	types	0	0	1	0
 musulmonlarning	musulmonlarning	0	0	1	0
 rhythm	rhythm	0	0	1	0
 hume	hume	0	0	1	0
-brown	then	0	0	1	0
 brown	brown	0	0	1	0
-brown	hare	0	0	1	0
-brown	may i introduce myself	0	0	1	0
-brown	scrape	0	0	1	0
-brown	adhere	0	0	1	0
-brown	space between	0	0	1	0
-brown	side	0	0	1	0
-brown	there is not	0	0	1	0
 fanda	fanda	0	0	1	0
 hayit	hayit	0	0	1	0
 hayit	panel	0	0	1	0
@@ -8359,13 +8273,7 @@ rivojlanmoqda	progres	0	0	1	0
 rivojlanmoqda	develop	0	0	1	0
 rivojlanmoqda	rivojlanmoqda	0	0	1	0
 birgina	birgina	0	0	1	0
-uchinchi	shoot	0	0	1	0
-uchinchi	pass through	0	0	1	0
-uchinchi	third	0	0	1	0
-uchinchi	to throw	0	0	1	0
-uchinchi	are you short of breath?	0	0	1	0
 uchinchi	uchinchi	0	0	1	0
-uchinchi	to hope for	0	0	1	0
 izlanishlar	izlanishlar	0	0	1	0
 fon	run	0	0	1	0
 fon	to order	0	0	1	0
@@ -8411,7 +8319,7 @@ ishlash	ishlash	0	0	1	0
 ishlash	treatment	0	0	1	0
 oʻyinchisi	o'yinchisi	0	0	1	0
 ungacha	ungacha	0	0	1	0
-ungacha	until then	0	0	1	1
+ungacha	until then	0	0	1	0
 hamjamiyat	hamjamiyat	0	0	1	0
 koʻchoʻson	ko'cho'son	0	0	1	0
 армии	apmmm	0	0	1	0
@@ -8461,8 +8369,8 @@ alifbolar	alifbolar	0	0	1	0
 kuchsiz	kuchsiz	0	0	1	0
 kuchsiz	weak	0	0	1	1
 kuchsiz	powerless	0	0	1	1
-bozoriga	bozoriga	0	0	1	0
-bozoriga	botswana	0	0	1	0
+elektronni	electron	0	0	1	0
+elektronni	elektronni	0	0	1	0
 vuorinen	incoherent	0	0	1	0
 vuorinen	as if late	0	0	1	0
 vuorinen	black	0	0	1	0
@@ -8795,9 +8703,9 @@ bersa	money	0	0	1	0
 bersa	bersa	0	0	1	0
 bersa	another's	0	0	1	0
 тем	tem	0	0	1	0
+amalga	amalgam	0	0	1	0
 amalga	executing	0	0	1	0
 amalga	amalga	0	0	1	0
-amalga	amalgam	0	0	1	0
 etiborini	etiborini	0	0	1	0
 shartnomasining	shartnomashing	0	0	1	0
 shartnomasining	agreement	0	0	1	0
@@ -8810,8 +8718,8 @@ nom	name	0	0	1	1
 non	non	0	0	1	0
 non	flat - bread	0	0	1	0
 первое	nepboe	0	0	1	0
-buenos	result	0	0	1	0
-buenos	buenos	0	0	1	0
+oyi	oye	0	0	1	0
+oyi	oyi	0	0	1	0
 tashkilot	tashkilot	0	0	1	0
 tashkilot	tashkylvt	0	0	1	0
 xojaligi	xojaligi	0	0	1	0
@@ -8867,14 +8775,11 @@ fr	oven	0	0	1	0
 kayman	kayman	0	0	1	0
 kayman	key	0	0	1	0
 ey	of	0	0	1	0
-ey	ey	0	0	1	0
 ey	hey!	0	0	1	1
 nimalar	nickel	0	0	1	0
 nimalar	nimalar	0	0	1	0
 nimalar	interj; what	0	0	1	0
 et	et	0	0	1	0
-et	meat	0	0	1	1
-et	flesh	0	0	1	1
 kant	kant	0	0	1	0
 ev	ev	0	0	1	0
 ev	arslon.	0	0	1	0
@@ -8939,8 +8844,6 @@ barak	eyelash	0	0	1	0
 barak	anniversary	0	0	1	0
 barak	barak	0	0	1	1
 barak	courage	0	0	1	0
-barak	plenty	0	0	1	0
-barak	sufficiency	0	0	1	0
 barak	jealous	0	0	1	0
 barak	ditch	0	0	1	0
 barak	war	0	0	1	0
@@ -9070,8 +8973,8 @@ friend	we came	0	0	1	0
 friend	friend	0	0	1	0
 a	a	0	0	1	0
 a	sacrifice	0	0	1	0
-yanada	yet another	0	0	1	1
-yanada	and yet	0	0	1	1
+yanada	yet another	0	0	1	0
+yanada	and yet	0	0	1	0
 yanada	yanada	0	0	1	0
 olchash	vlchash	0	0	1	0
 olchash	olchash	0	0	1	0
@@ -9100,8 +9003,8 @@ tunisiya	tunisiya	0	0	1	0
 sosoniylar	sosoniylar	0	0	1	0
 sosoniylar	steam	0	0	1	0
 fikri	fikri	0	0	1	0
-fikri	play	0	0	1	0
 fikri	philippines	0	0	1	0
+fikri	play	0	0	1	0
 boltiq	boltiq	0	0	1	0
 boltiq	pillow	0	0	1	0
 uchdan	one language is enough	0	0	1	0
@@ -9145,7 +9048,8 @@ barcha	all	0	0	1	0
 darkhorse	darkhorse	0	0	1	0
 butunjaxon	intact	0	0	1	0
 butunjaxon	butun jaxon	0	0	1	0
-guvohlik	guvohlik	0	0	1	0
+qo`shimcha	qi'shimcha	0	0	1	0
+qo`shimcha	qo'shimcha	0	0	1	0
 qisqartma	skin tanned	0	0	1	0
 qisqartma	little	0	0	1	0
 qisqartma	type of flowering plant	0	0	1	0
@@ -9269,8 +9173,6 @@ uluslararası	after	0	0	1	0
 uluslararası	cover	0	0	1	0
 uluslararası	definitely	0	0	1	0
 uluslararası	to cut	0	0	1	0
-okkurgon	okkurgon	0	0	1	0
-okkurgon	okkkurgon	0	0	1	0
 amerikada	amerikada	0	0	1	0
 aytishicha	aytishicha	0	0	1	0
 aytishicha	label	0	0	1	0
@@ -9281,7 +9183,6 @@ tatarlar	people	0	0	1	0
 tatarlar	nations and peoples	0	0	1	0
 tatarlar	dusk	0	0	1	0
 tatarlar	without asking	0	0	1	0
-tatarlar	the tartars	0	0	1	0
 tatarlar	hoof	0	0	1	0
 tatarlar	face to face	0	0	1	0
 tatarlar	tatarlar	0	0	1	0
@@ -9329,7 +9230,6 @@ ifodasini	ifodasini	0	0	1	0
 ifodasini	sign	0	0	1	0
 saqlangan	saqlangan	0	0	1	0
 saqlangan	to take care of	0	0	1	0
-to`g`ri	to'g'ri	0	0	1	0
 to`g`ri	straight	0	0	1	0
 to`g`ri	togri	0	0	1	0
 oʻrgandi	to be satisfied	0	0	1	0
@@ -9375,14 +9275,7 @@ avliyo	wonder	0	0	1	0
 avliyo	be lazy	0	0	1	0
 avliyo	a pinch	0	0	1	0
 avliyo	if	0	0	1	0
-yönetim	week	0	0	1	0
-yönetim	your dream	0	0	1	0
-yönetim	shin	0	0	1	0
-yönetim	very many	0	0	1	0
-yönetim	grape wine	0	0	1	0
-yönetim	long	0	0	1	0
 yönetim	yonetim	0	0	1	0
-yönetim	the archer	0	0	1	0
 итальянские	ntanbrhckne	0	0	1	0
 livan	livan	0	0	1	0
 bulgaria	bulgarian	0	0	1	0
@@ -9416,6 +9309,8 @@ surishadi	indent	0	0	1	0
 surishadi	surishadi	0	0	1	0
 kirmaydi	street	0	0	1	0
 kirmaydi	kirmaydi	0	0	1	0
+ko`radi	decision	0	0	1	0
+ko`radi	ko'radi	0	0	1	0
 qoʻliga	qo'liga	0	0	1	0
 import	import	0	0	1	1
 tizimga	tizimga	0	0	1	0
@@ -9598,7 +9493,6 @@ bitim	bitim	0	0	1	0
 bitim	writing	0	0	1	0
 hindiston	hindiston	0	0	1	0
 elon	elon	0	0	1	0
-turkumyevropa	group	0	0	1	0
 turkumyevropa	turkumyevropa	0	0	1	0
 turkumyevropa	category: europe	0	0	1	0
 barabanchi	buy	0	0	1	0
@@ -9651,12 +9545,14 @@ pokistonning	pokistonning	0	0	1	0
 qo`yish	put	0	0	1	0
 qo`yish	to put	0	0	1	0
 qo`yish	qo'yish	0	0	1	0
-robotlar	robotlar	0	0	1	0
 robotlar	robot	0	0	1	0
+robotlar	robotlar	0	0	1	0
 elementlar	elementary	0	0	1	0
 elementlar	elememtary	0	0	1	0
 elementlar	elementlar	0	0	1	0
-shaklini	shaklini	0	0	1	0
+kurashda	kurashda	0	0	1	0
+kurashda	police officer	0	0	1	0
+kurashda	he came	0	0	1	0
 bo`lish	bo'lish	0	0	1	0
 qorbobo	snowman	1	1	0	0
 qorbobo		1	0	1	0
@@ -9713,17 +9609,15 @@ madhiyasi	a hymn	0	0	1	0
 boglanadi	boglanadi	0	0	1	0
 taxt	throne	0	0	1	1
 taxt	taxt	0	0	1	0
-avesto	avesto	0	0	1	0
 avesto	avstv	0	0	1	0
 avesto	mitten	0	0	1	0
 avesto	good bye	0	0	1	0
-avesto	wedge between trouser	0	0	1	0
-avesto	grey crow	0	0	1	0
 avesto	arm	0	0	1	0
+avesto	grey crow	0	0	1	0
+avesto	wedge between trouser	0	0	1	0
 avesto	biography	0	0	1	0
-fuqarolar	framework	0	0	1	0
-fuqarolar	fuqarolar	0	0	1	0
-kasalliklar	illness	0	0	1	0
+tumanlari	button	0	0	1	0
+tumanlari	tumanlari	0	0	1	0
 kasalliklar	kasalliklar	0	0	1	0
 kasalliklar	card	0	0	1	0
 yillarida	don't touch me there	0	0	1	0
@@ -9817,14 +9711,8 @@ yoniga	yoniga	0	0	1	0
 yoniga	the russian fedration	0	0	1	0
 yoniga	to plait	0	0	1	0
 xviii	xviii	0	0	1	0
-manfaatlari	weaving shuttle	0	0	1	0
-manfaatlari	to bring	0	0	1	0
-manfaatlari	mother	0	0	1	0
-manfaatlari	bad	0	0	1	0
-manfaatlari	have a nice day	0	0	1	0
-manfaatlari	flame	0	0	1	0
-manfaatlari	mandate	0	0	1	0
 manfaatlari	manfaatlari	0	0	1	0
+manfaatlari	mandate	0	0	1	0
 bolinib	bolinib	0	0	1	0
 bolinib	leather	0	0	1	0
 bolinib	apricot	0	0	1	0
@@ -9863,7 +9751,7 @@ avvalo	avvalo	0	0	1	0
 avvalo	suvga	0	0	1	0
 jamiyatning	jamiyatning	0	0	1	0
 jamiyatning	society	0	0	1	0
-bizans	bizans	0	0	1	0
+choʻqqisi	cho'qqisi	0	0	1	0
 chalingan	chlyngan	0	0	1	0
 chalingan	chalingan	0	0	1	0
 qazilmalar	qazilmalar	0	0	1	0
@@ -10007,8 +9895,6 @@ sharoitda	sharia	0	0	1	0
 испания	nxhahnr	0	0	1	0
 kengroq	kngrvq	0	0	1	0
 kengroq	kengroq	0	0	1	0
-muammolarga	muammolarga	0	0	1	0
-muammolarga	acrostic	0	0	1	0
 dunyoning	elk	0	0	1	0
 dunyoning	buttocks	0	0	1	0
 dunyoning	dunyoning	0	0	1	0
@@ -10136,7 +10022,7 @@ termaga	honor	0	0	1	0
 ishlariga	to work	0	0	1	0
 ishlariga	ishlariga	0	0	1	0
 zamin	zamin	0	0	1	0
-zamin	the earth	0	0	1	1
+zamin	the earth	0	0	1	0
 xalqlardan	xalqlardan	0	0	1	0
 folkland	folkland	0	0	1	0
 folkland	background	0	0	1	0
@@ -10163,7 +10049,7 @@ avestoda	avestoda	0	0	1	0
 rivoji	development	0	0	1	0
 rivoji	exclusion	0	0	1	0
 rivoji	rivoji	0	0	1	0
-kineskop	television tube	0	0	1	1
+kineskop	television tube	0	0	1	0
 kineskop	kineskop	0	0	1	0
 ahror	to create	0	0	1	0
 ahror	brown	0	0	1	0
@@ -10289,8 +10175,8 @@ amirlik	she has	0	0	1	0
 amirlik	amirlik	0	0	1	0
 tugʻilgan	tvg’lygan	0	0	1	0
 tugʻilgan	tug'ilgan	0	0	1	0
-osmanlılar	overallocation	0	0	1	0
 osmanlılar	osmanlilar	0	0	1	0
+osmanlılar	overallocation	0	0	1	0
 tugashi	tugashi	0	0	1	0
 tugashi	mount	0	0	1	0
 katetlari	katetlari	0	0	1	0
@@ -10370,8 +10256,9 @@ history	history	0	0	1	0
 xalqlar	xalqlar	0	0	1	0
 mufradot	mufradot	0	0	1	0
 mufradot	same	0	0	1	0
-asaka	asaka	0	0	1	0
-ulkan	high	0	0	1	1
+sarguzashtlari	adventure	0	0	1	0
+sarguzashtlari	srgzashtlary	0	0	1	0
+sarguzashtlari	sarguashtlari	0	0	1	0
 ulkan	great	0	0	1	0
 ulkan	boxthorn	0	0	1	0
 iqlim	mind	0	0	1	0
@@ -10491,7 +10378,6 @@ turkumterrorizm	catergory:  terrorism	0	0	1	0
 turkumterrorizm	turkumterrorizm	0	0	1	0
 turkumterrorizm	group	0	0	1	0
 hamkorlikni	hamkorlikni	0	0	1	0
-инженер	nhkehep	0	0	1	0
 инженер	nheehep	0	0	1	0
 yulduzlari	starry	0	0	1	0
 yulduzlari	homework	0	0	1	0
@@ -10555,7 +10441,7 @@ bless	to bend one's neck	0	0	1	0
 xususan	xususan	0	0	1	0
 xususan	particularly	0	0	1	1
 xususan	especially	0	0	1	1
-choʻqqisi	cho'qqisi	0	0	1	0
+bizans	bizans	0	0	1	0
 ediki	to demand water	0	0	1	0
 ediki	money	0	0	1	0
 ediki	hunt	0	0	1	0
@@ -10727,11 +10613,9 @@ gibraltar	groin	0	0	1	0
 gibraltar	gibraltar	0	0	1	1
 olimjon	scientist	0	0	1	0
 olimjon	olimjon	0	0	1	0
-orqali	command	0	0	1	0
 orqali	through	0	0	1	1
 orqali	orqali	0	0	1	0
 vaziri	vaziri	0	0	1	0
-vaziri	task	0	0	1	0
 norma	norma	0	0	1	0
 norma	norm	0	0	1	1
 norma	work.	0	0	1	0
@@ -10778,7 +10662,6 @@ saytini	pardon me	0	0	1	0
 saytini	a little	0	0	1	0
 siyosati	siligudi	0	0	1	0
 siyosati	siyosati	0	0	1	0
-siyosati	i yosati	0	0	1	0
 asoschisi	asoschisi	0	0	1	0
 asoschisi	founder	0	0	1	0
 navoiyga	navoiyga	0	0	1	0
@@ -10853,7 +10736,7 @@ agentlik	i like it	0	0	1	0
 agentlik	coal	0	0	1	0
 agentlik	flee	0	0	1	0
 agentlik	seventy	0	0	1	0
-kam	not much	0	0	1	1
+kam	not much	0	0	1	0
 kam	some	0	0	1	0
 kam	kam	0	0	1	0
 kar	kar	0	0	1	0
@@ -11053,9 +10936,8 @@ rozi	contented	0	0	1	1
 selsiy	selsiy	0	0	1	0
 hirotda	hirotda	0	0	1	0
 ildizlarini	ildizlarini	0	0	1	0
-muammolari	windows problem reporting	0	0	1	0
-muammolari	muammolari	0	0	1	0
 muammolari	foundation.	0	0	1	0
+muammolari	muammolari	0	0	1	0
 muvaffaqiyatli	to sleep	0	0	1	0
 muvaffaqiyatli	muvaffaqiyatli	0	0	1	0
 muvaffaqiyatli	very	0	0	1	0
@@ -11121,8 +11003,8 @@ galileo	lentil	0	0	1	0
 galileo	wing	0	0	1	0
 galileo	to scold	0	0	1	0
 galileo	wait	0	0	1	0
-badminton	badminton	0	0	1	0
-badminton	batmidon	0	0	1	0
+garbda	garbda	0	0	1	0
+garbda	third	0	0	1	0
 linux	seamstress;	0	0	1	0
 linux	linux	0	0	1	0
 linux	linx	0	0	1	0
@@ -11151,7 +11033,7 @@ dahmalarini	garden	0	0	1	0
 dahmalarini	dahmalarini	0	0	1	0
 jamoasiga	jamoasiga	0	0	1	0
 jamoasiga	lamoasiga	0	0	1	0
-tarzi	tarzi	0	0	1	0
+yugnakiy	yugnakiy	0	0	1	0
 getirdi	making	0	0	1	0
 getirdi	getiradi	0	0	1	0
 ¹	1	0	0	1	0
@@ -11174,7 +11056,6 @@ qilishga	search	0	0	1	0
 imap	imap	0	0	1	0
 menän	menan	0	0	1	0
 menän	manan	0	0	1	0
-menän	mena	0	0	1	0
 iyunda	future	0	0	1	0
 iyunda	iyunda	0	0	1	0
 iyunida	june	0	0	1	0
@@ -11323,8 +11204,6 @@ oʻgʻli	o'g'li	0	0	1	0
 rahim	rahim	0	0	1	0
 jadvali	jadvali	0	0	1	0
 jadvali	chart	0	0	1	0
-xamisha	always	0	0	1	0
-xamisha	xamisha	0	0	1	0
 hisobidan	account	0	0	1	0
 hisobidan	hisobidan	0	0	1	0
 avvalgi	former	0	0	1	1
@@ -11376,7 +11255,7 @@ yoli	yoli	0	0	1	0
 madaniyatiga	culture	0	0	1	0
 madaniyatiga	madaniyatiga	0	0	1	0
 tufayli	because	0	0	1	0
-tufayli	because of	0	0	1	1
+tufayli	because of	0	0	1	0
 yoshlikning	do	0	0	1	0
 yoshlikning	one	0	0	1	0
 yoshlikning	i wrote a book	0	0	1	0
@@ -11414,7 +11293,8 @@ avtomobil	automobile	0	0	1	0
 avtomobil	avtomobil	0	0	1	0
 avtomobil	tested	0	0	1	0
 aytganda	aytganda	0	0	1	0
-demakdir	demakdir	0	0	1	0
+yuborishi	to send	0	0	1	0
+yuborishi	sending	0	0	1	0
 arbobi	arbvby	0	0	1	0
 arbobi	arbobi	0	0	1	0
 step	recently	0	0	1	0
@@ -11430,8 +11310,6 @@ urushning	patent	0	0	1	0
 urushning	urushning	0	0	1	0
 urushning	war	0	0	1	0
 kuzatilgan	kuzatilgan	0	0	1	0
-oyi	oye	0	0	1	0
-oyi	oyi	0	0	1	0
 песня	nechr	0	0	1	0
 песнь	nechb	0	0	1	0
 hasan	hasan	0	0	1	0
@@ -11488,16 +11366,8 @@ anjeles	anjeles	0	0	1	0
 anjeles	angel	0	0	1	0
 qiladilar	search	0	0	1	0
 qiladilar	ailadilar	0	0	1	0
-munosabatlar	thin bread	0	0	1	0
-munosabatlar	bindweed	0	0	1	0
-munosabatlar	to catch fire	0	0	1	0
 munosabatlar	mount	0	0	1	0
-munosabatlar	fast	0	0	1	0
-munosabatlar	long working	0	0	1	0
-munosabatlar	blaze	0	0	1	0
-munosabatlar	she knows	0	0	1	0
 munosabatlar	munosabatlar	0	0	1	0
-munosabatlar	stand	0	0	1	0
 tutuvchi	tutuvchi	0	0	1	0
 tutuvchi	tvtvchy	0	0	1	0
 markazlashmagan	mrkzlashmgan	0	0	1	0
@@ -11659,7 +11529,6 @@ fargonaning	fargonaning	0	0	1	0
 ga	ga	0	0	1	0
 faqat	faqat	0	0	1	0
 faqat	only	0	0	1	1
-виктор	bucharest	0	0	1	0
 виктор	bnktop	0	0	1	0
 intervyusida	yntrvyvsyda	0	0	1	0
 intervyusida	of cloak	0	0	1	0
@@ -11676,7 +11545,7 @@ turkumgermaniya	turkumgermaniya	0	0	1	0
 ispaniya	ispaniya	0	0	1	0
 qolga	qolga	0	0	1	0
 qolga	rule	0	0	1	0
-kosovo	kosovo	0	0	1	0
+yaqin	near	0	0	1	1
 mosque	mosque	0	0	1	0
 oʻtish	passing	0	0	1	0
 oʻtish	o'tish	0	0	1	0
@@ -11792,7 +11661,6 @@ qurildi	hack	0	0	1	0
 qurildi	spindle	0	0	1	0
 qurildi	ruby	0	0	1	0
 qurildi	have a nice trip	0	0	1	0
-ozi	few	0	0	1	0
 ozi	ozi	0	0	1	0
 bruney	bruney	0	0	1	0
 bruney	exogenous	0	0	1	0
@@ -11807,7 +11675,6 @@ to`qnashuvlar	aeroport:	0	0	1	0
 to`qnashuvlar	calf	0	0	1	0
 gʻoyalar	trickster.	0	0	1	0
 gʻoyalar	g'oyalar	0	0	1	0
-milliard	billion	0	0	1	1
 milliard	milliard	0	0	1	0
 milliard	million	0	0	1	0
 janub	janub	0	0	1	0
@@ -11829,7 +11696,7 @@ avtonomiya	avtvnvmya	0	0	1	0
 portugaliyaning	pvrtvglyyanyng	0	0	1	0
 что	uto	0	0	1	0
 qancha	swaddle.	0	0	1	0
-qancha	how much	0	0	1	1
+qancha	how much	0	0	1	0
 qancha	confirm	0	0	1	0
 millatning	shirt	0	0	1	0
 millatning	a man who excavates	0	0	1	0
@@ -11837,7 +11704,6 @@ millatning	worm	0	0	1	0
 millatning	mltnyng	0	0	1	0
 millatning	bring	0	0	1	0
 millatning	second wife	0	0	1	0
-millatning	millatning	0	0	1	0
 объявила	oobrbnna	0	0	1	0
 maydoni	maydoni	0	0	1	0
 maydoni	tanning matter	0	0	1	0
@@ -11907,7 +11773,7 @@ kunda	gift	0	0	1	0
 kunda	wish	0	0	1	0
 kunda	horn	0	0	1	0
 kunda	kunda	0	0	1	0
-kunda	tree stump	0	0	1	1
+kunda	tree stump	0	0	1	0
 kunda	bend	0	0	1	0
 kunda	extent	0	0	1	0
 koordinatori	coordinate	0	0	1	0
@@ -11929,7 +11795,6 @@ nyujersi	to flow	0	0	1	0
 ketganidan	ketganidan	0	0	1	0
 ketganidan	cached page	0	0	1	0
 oʻzbeklar	o'zbeklar	0	0	1	0
-oʻzbeklar	vzbklar	0	0	1	0
 fizikaning	fizikaning	0	0	1	0
 yaxshilash	improving	0	0	1	1
 nazoratni	monitoring	0	0	1	0
@@ -11995,7 +11860,7 @@ afsonaviy	afsonavity	0	0	1	0
 afsonaviy	fantastic	0	0	1	1
 afsonaviy	afsonaviy	0	0	1	0
 море	mope	0	0	1	0
-talay	how many/much	0	0	1	1
+talay	how many/much	0	0	1	0
 talay	talay	0	0	1	0
 turkiylarning	knock	0	0	1	0
 turkiylarning	rubber	0	0	1	0
@@ -12074,9 +11939,12 @@ esenin	esenin	0	0	1	0
 koʻzga	ko'zga	0	0	1	0
 royxatdan	royxatdan	0	0	1	0
 tobeiynlarning	tobeiynlarning	0	0	1	0
-xayriya	a donation	0	0	1	0
-xayriya	xayriya	0	0	1	0
-xayriya	charity	0	0	1	0
+tili		0	0	1	0
+tili	sharp-tongued	0	0	1	0
+tili	tili	0	0	1	0
+tili	hebraic	0	0	1	0
+tili	tilim	0	0	1	0
+tili	sway	0	0	1	0
 almashuvchi	short-statured	0	0	1	0
 almashuvchi	almashuvchi	0	0	1	0
 almashuvchi	trap	0	0	1	0
@@ -12178,8 +12046,9 @@ koʻpburchak	polygon	0	0	1	0
 официально	oanunarnbhl	0	0	1	0
 oraliq	oraliq	0	0	1	0
 oraliq	spacing	0	0	1	0
-oraliq	distance or time between	0	0	1	1
-matchi	matchi	0	0	1	0
+oraliq	distance or time between	0	0	1	0
+sezgir	romantic feelings	0	0	1	0
+sezgir	sezgir	0	0	1	0
 avstraliya	basket	0	0	1	0
 avstraliya	australiya	0	0	1	0
 avstraliya	avstraliya	0	0	1	0
@@ -12281,8 +12150,8 @@ hudoyberdieva	a cloven hoof	0	0	1	0
 hudoyberdieva	deceived	0	0	1	0
 afol	afol	0	0	1	0
 afol	wane	0	0	1	0
-maorif	maorif	0	0	1	0
 maorif	litigiousness.	0	0	1	0
+maorif	maorif	0	0	1	0
 отношения	orthopadic	0	0	1	0
 sifatini	sifatini	0	0	1	0
 sifatini	syfatyny	0	0	1	0
@@ -12345,14 +12214,7 @@ yanvarda	january	0	0	1	0
 yanvarda	yanvarda	0	0	1	0
 beg	beg	0	0	1	0
 uzok	uzok	0	0	1	0
-ss	good bye	0	0	1	0
-ss	ss	0	0	1	0
-ss	sisters husband	0	0	1	0
-ss	of short coat	0	0	1	0
-ss	q	0	0	1	0
-ss	arrow	0	0	1	0
-ss	to extend	0	0	1	0
-ss	news	0	0	1	0
+yozadi	yozadi	0	0	1	0
 bey	sleeve	0	0	1	0
 bey	deputy prime minister	0	0	1	0
 bey	bay	0	0	1	0
@@ -12444,7 +12306,6 @@ tashkilotini	reverence	0	0	1	0
 tashkilotini	organization	0	0	1	0
 tashkilotini	spindle	0	0	1	0
 tashkilotini	pinchful	0	0	1	0
-birbiridan	from each other	0	0	1	0
 birbiridan	birbiridan	0	0	1	0
 birbiridan	each other	0	0	1	0
 rostovnadonu	rostovnadonu	0	0	1	0
@@ -12651,7 +12512,6 @@ orin	swan	0	0	1	0
 orin	orin	0	0	1	0
 hududining	hvdvdynyng	0	0	1	0
 hududining	hududining	0	0	1	0
-chegaradoshdir	margin	0	0	1	0
 chegaradoshdir	chegaradoshdir	0	0	1	0
 chegaradoshdir	under the guise of friendship	0	0	1	0
 chegaradoshdir	theatre	0	0	1	0
@@ -12663,7 +12523,6 @@ kelajakda	future	0	0	1	0
 so`g`d	svg’d	0	0	1	0
 so`g`d	so'g'd	0	0	1	0
 olaroq	olaroq	0	0	1	0
-yan	again	0	0	1	0
 yan	yan	0	0	1	0
 yan	to scold	0	0	1	0
 ум	billion	0	0	1	0
@@ -12671,7 +12530,6 @@ yan	to scold	0	0	1	0
 ум	use cunning	0	0	1	0
 ум	to bind	0	0	1	0
 ум	exactly right	0	0	1	0
-ум	can	0	0	1	0
 ум	trunk	0	0	1	0
 ум	endowment	0	0	1	0
 siyosatni	politics	0	0	1	0
@@ -12720,15 +12578,10 @@ xivada		0	0	1	0
 xivada	xivada	0	0	1	0
 xivada	fives	0	0	1	0
 sheʼriyatiga	she'riyatiga	0	0	1	0
-вместе	sir	0	0	1	0
-вместе	beggar	0	0	1	0
-вместе	bmecte	0	0	1	0
-вместе	ram	0	0	1	0
-вместе	quite	0	0	1	0
-вместе	cheat	0	0	1	0
-вместе	breast	0	0	1	0
-вместе	twenty- first	0	0	1	0
-вместе	heel	0	0	1	0
+ini	younger brother	0	0	1	0
+ini	¥	0	0	1	0
+ini	ini	0	0	1	0
+ini	brother	0	0	1	0
 fondi	color	0	0	1	0
 fondi	backgroud	0	0	1	0
 fondi	sparing	0	0	1	0
@@ -12782,10 +12635,10 @@ hisoblashadi	hisoblashadi	0	0	1	0
 kitobidan	kitobidan	0	0	1	0
 kitobidan	book	0	0	1	0
 rahnamosi	rahnamosi	0	0	1	0
-rahnamosi	above	0	0	1	0
+rahnamosi	guidebook	0	0	1	0
 rahnamosi	edge of cloth	0	0	1	0
 rahnamosi	she began writing	0	0	1	0
-rahnamosi	guidebook	0	0	1	0
+rahnamosi	above	0	0	1	0
 rahnamosi	basil	0	0	1	0
 rahnamosi	their dream	0	0	1	0
 ahvolni	status	0	0	1	0
@@ -12854,6 +12707,7 @@ bizde	we	0	0	1	0
 bizde	bizde	0	0	1	0
 qoʻl	qo'l	0	0	1	0
 qoʻl	arm	0	0	1	0
+tarbiyalangan	tarbyyalangan	0	0	1	0
 fath	fath	0	0	1	0
 oʻn	o'n	0	0	1	0
 oʻn	from	0	0	1	0
@@ -12895,8 +12749,8 @@ yillarga	to suffer	0	0	1	0
 sahobalar	sahobalar	0	0	1	0
 shaxboks	shaxboks	0	0	1	0
 etdi	etdi	0	0	1	0
-garbda	garbda	0	0	1	0
-garbda	third	0	0	1	0
+badminton	badminton	0	0	1	0
+badminton	batmidon	0	0	1	0
 haqida	everything	0	0	1	0
 haqida	haqida	0	0	1	0
 haqida	carnelian	0	0	1	0
@@ -12911,7 +12765,7 @@ etishga	spoon	0	0	1	0
 etishga	forty	0	0	1	0
 etishga	swallow. poplar	0	0	1	0
 etishga	earth worm	0	0	1	0
-munojot	inward supplication for god's favor	0	0	1	1
+munojot	inward supplication for god's favor	0	0	1	0
 munojot	hypo	0	0	1	0
 munojot	munich	0	0	1	0
 zoti	man's name	0	0	1	0
@@ -12999,8 +12853,8 @@ izzat	respect	0	0	1	1
 izzat	june	0	0	1	0
 izzat	izzat	0	0	1	1
 süre	sure	0	0	1	0
-anʼanalar	an'analar	0	0	1	0
 anʼanalar	ananalar	0	0	1	0
+anʼanalar	an'analar	0	0	1	0
 pistols	pistols	0	0	1	0
 paytlarda	paytlarda	0	0	1	0
 washington	washington	0	0	1	0
@@ -13081,7 +12935,6 @@ hosting	hosting	0	0	1	0
 usullardan	usullardan	0	0	1	0
 рсфср	pccp	0	0	1	0
 xolos	xolos	0	0	1	0
-xolos	links	0	0	1	0
 zot	zot	0	0	1	0
 zot	offspring	0	0	1	1
 zot	maple	0	0	1	0
@@ -13127,7 +12980,7 @@ chingizxon	chingizxon	0	0	1	0
 chiqildi	to tick	0	0	1	0
 chiqildi	chiqildi	0	0	1	0
 jihatdan	jihardan	0	0	1	0
-jihatdan	with respect to	0	0	1	1
+jihatdan	with respect to	0	0	1	0
 jihatdan	jihatdan	0	0	1	0
 qilinadigan	northern caucasus	0	0	1	0
 qilinadigan	to reach	0	0	1	0
@@ -13140,7 +12993,6 @@ qilinadigan	we come	0	0	1	0
 ongli	ongli	0	0	1	0
 ongli	conscious	0	0	1	1
 tojikiston	tajikistan	0	0	1	1
-tojikiston	tvjykystvn	0	0	1	0
 tarqalgan	repair	0	0	1	0
 tarqalgan	tarqalgan	0	0	1	0
 ishoqxon	ishoqxon	0	0	1	0
@@ -13222,19 +13074,12 @@ budda	budda	0	0	1	0
 arastu	king	0	0	1	0
 arastu	arastu	0	0	1	0
 o`tish	o'tish	0	0	1	0
-void	wind round	0	0	1	0
-void	cow	0	0	1	0
-void	dirt	0	0	1	0
 void	void	0	0	1	0
-void	please	0	0	1	0
-void	naked	0	0	1	0
-void	tent	0	0	1	0
 mexanika	breast	0	0	1	0
 mexanika	mexico	0	0	1	0
 xulosaga	xulosaga	0	0	1	0
 xulosaga	pole-ax	0	0	1	0
 xulosaga	to pull	0	0	1	0
-xulosaga	summary	0	0	1	0
 salbiy	page file	0	0	1	0
 salbiy	your grandfather	0	0	1	0
 salbiy	to kill dwelling place	0	0	1	0
@@ -13256,8 +13101,6 @@ natijalar	negate	0	0	1	0
 natijalar	to bring to an end	0	0	1	0
 natijalar	results	0	0	1	0
 birlashtirib	birlashtirib	0	0	1	0
-treneri	trainer	0	0	1	0
-treneri	coach	0	0	1	0
 treneri	treneri	0	0	1	0
 shakllangan	shakllangan	0	0	1	0
 shakllangan	shaklangan	0	0	1	0
@@ -13288,7 +13131,6 @@ muhtoj	muhtoj	0	0	1	0
 imagesamarkand	image: samarkand	0	0	1	0
 panama	panama	0	0	1	0
 международных	meayhapoahbix	0	0	1	0
-internetdagi	internet dagi	0	0	1	0
 internetdagi	internetdagi	0	0	1	0
 tadbirkorlik	their spoon	0	0	1	0
 tadbirkorlik	prudence	0	0	1	1
@@ -13515,16 +13357,7 @@ sorov	kidney	0	0	1	0
 nazardan	nazardan	0	0	1	0
 togri	dependent	0	0	1	0
 togri	togri	0	0	1	0
-iyulida	to hang on	0	0	1	0
-iyulida	to interrogate	0	0	1	0
-iyulida	few	0	0	1	0
-iyulida	iyulida	0	0	1	0
-iyulida	the essential  part	0	0	1	0
-iyulida	file	0	0	1	0
-iyulida	ink	0	0	1	0
-iyulida	grape vine	0	0	1	0
-iyulida	to crawl	0	0	1	0
-iyulida	one hundred	0	0	1	0
+irlandiya	irlandiya	0	0	1	0
 ishonchli	faith	0	0	1	0
 ishonchli	lasso pole	0	0	1	0
 ishonchli	voiceless female slave	0	0	1	0
@@ -13707,14 +13540,11 @@ yonaltirilgan	long running	0	0	1	0
 yonaltirilgan	to wipe	0	0	1	0
 yonaltirilgan	to cross a mountain	0	0	1	0
 yonaltirilgan	deceived	0	0	1	0
-kopchiligida	kopchiligida	0	0	1	0
-kopchiligida	kvpchylygyda	0	0	1	0
 yerlarni	to wait	0	0	1	0
 yerlarni	yerlarni	0	0	1	0
 yerlarni	one moment	0	0	1	0
 yerlarni	new	0	0	1	0
 yerlarni	wait	0	0	1	0
-kondensati	capacity	0	0	1	0
 kondensati	kondensati	0	0	1	0
 bonn	bonn	0	0	1	0
 bonn	confidential	0	0	1	0
@@ -13724,7 +13554,6 @@ komitet	komitet	0	0	1	0
 komitet	committee	0	0	1	1
 hududlardan	territory	0	0	1	0
 hududlardan	hududlardan	0	0	1	0
-hududlardan	within the boundaries	0	0	1	0
 milav	milav	0	0	1	0
 joiy	joiy	0	0	1	0
 joiy	place	0	0	1	0
@@ -13912,14 +13741,7 @@ chiqib	voice	0	0	1	0
 chiqib	today	0	0	1	0
 chiqib	will he come?	0	0	1	0
 solomon	solomon	0	0	1	0
-aloqador	shoulder	0	0	1	0
 aloqador	aloqador	0	0	1	0
-aloqador	the russian federation	0	0	1	0
-aloqador	to dig	0	0	1	0
-aloqador	to cut aslant	0	0	1	0
-aloqador	occasion	0	0	1	0
-aloqador	shoulderblade	0	0	1	0
-aloqador	tent	0	0	1	0
 принял	npnhrn	0	0	1	0
 mini	small	0	0	1	0
 mini	mini	0	0	1	0
@@ -13963,7 +13785,7 @@ torli	narrow	0	0	1	0
 torli	infirm	0	0	1	0
 qonunlar	qonunlar	0	0	1	0
 qonunlar	qnvnlar	0	0	1	0
-mashinasozlik	machinery construction	0	0	1	1
+mashinasozlik	machinery construction	0	0	1	0
 mashinasozlik	mechanical engineering	0	0	1	0
 hamjamiyati	charcter	0	0	1	0
 hamjamiyati	are we well?	0	0	1	0
@@ -14132,8 +13954,8 @@ revolyutsiyasi	revolutionary	0	0	1	0
 revolyutsiyasi	revolution	0	0	1	0
 elektr	electricity	0	0	1	1
 elektr	electric	0	0	1	1
-muhyi	present.	0	0	1	0
 muhyi	muhyi	0	0	1	0
+muhyi	present.	0	0	1	0
 bo`lganlar	lonely	0	0	1	0
 bo`lganlar	pock-marked	0	0	1	0
 bo`lganlar	hook	0	0	1	0
@@ -14141,7 +13963,6 @@ bo`lganlar	spoon	0	0	1	0
 bo`lganlar	aunt-mother's side	0	0	1	0
 bo`lganlar	to be	0	0	1	0
 bo`lganlar	bo'lganlar	0	0	1	0
-tekshirish	authentication	0	0	1	0
 tekshirish	verification	0	0	1	1
 bay	bay	0	0	1	0
 olimning	hello (phone)	0	0	1	0
@@ -14184,7 +14005,6 @@ yoshi	i tear gland	0	0	1	0
 yoshi	yoshi	0	0	1	0
 руслана	fruit	0	0	1	0
 руслана	her dream	0	0	1	0
-руслана	pycnaha	0	0	1	0
 ma`lum		0	0	1	0
 ma`lum	agronomist	0	0	1	0
 ma`lum	royal sign manual	0	0	1	0
@@ -14224,14 +14044,7 @@ kechirib	economy	0	0	1	0
 bosib	phone	0	0	1	0
 bosib	bosib	0	0	1	0
 soniyada	soniyada	0	0	1	0
-azam	plug	0	0	1	0
-azam	handle	0	0	1	0
-azam	to overflow	0	0	1	0
-azam	light	0	0	1	0
-azam	inner fat	0	0	1	0
 azam	azam	0	0	1	0
-azam	paternal cousin	0	0	1	0
-azam	good morning	0	0	1	0
 bosim	edit	0	0	1	0
 bosim	pressure	0	0	1	1
 bosim	bosim	0	0	1	0
@@ -14357,6 +14170,7 @@ sohilida	sohilida	0	0	1	0
 ix	ix	0	0	1	0
 iz	print	0	0	1	1
 iz	track	0	0	1	1
+eden	eden	0	0	1	0
 metropolitan	metropolitan	0	0	1	0
 mexico	mexico	0	0	1	0
 ip	fibre	0	0	1	0
@@ -14581,7 +14395,7 @@ okeani	okeani	0	0	1	0
 arabcha	arabcha	0	0	1	0
 arabcha	arabian	0	0	1	0
 arabcha	arabic (language)	0	0	1	0
-sharqda	in the east	0	0	1	1
+sharqda	in the east	0	0	1	0
 sharqda	sharqda	0	0	1	0
 sharqda	wine	0	0	1	0
 tоshkеnt	toshkent	0	0	1	0
@@ -14697,7 +14511,6 @@ saroymulkxonim	property	0	0	1	0
 saroymulkxonim	saroymulkxonim	0	0	1	0
 saroymulkxonim	mistress( of household )	0	0	1	0
 burilish	rotation	0	0	1	0
-burilish	burilish	0	0	1	0
 burilish	bvrylysh	0	0	1	0
 космический	kocmnyecknn	0	0	1	0
 shayboniy	shayboniy	0	0	1	0
@@ -14847,7 +14660,6 @@ gvatemalada	gvatemalada	0	0	1	0
 manosi	manosi	0	0	1	0
 generally	genarlly	0	0	1	0
 generally	generally	0	0	1	0
-payti	payti	0	0	1	0
 payti	cotton	0	0	1	0
 tasdiqlangan	burdock.	0	0	1	0
 tasdiqlangan	tasdiqlangan	0	0	1	0
@@ -15141,7 +14953,6 @@ kompaniya	campaign	0	0	1	0
 makedoniyalik	makedoniyalik	0	0	1	0
 makedoniyalik	product key	0	0	1	0
 xalqining	notification	0	0	1	0
-xalqining	xalquining	0	0	1	0
 xalqining	graduate	0	0	1	0
 tilshunos	tilshunos	0	0	1	0
 tilshunos	their grandfathers	0	0	1	0
@@ -15193,8 +15004,8 @@ tadqiqotchilar	tadqiqotchilar	0	0	1	0
 tadqiqotchilar	investigator	0	0	1	0
 yulduzlar	yulduzlar	0	0	1	0
 эритрея	epntper	0	0	1	0
-javoban	wick	0	0	1	0
 javoban	javoban	0	0	1	0
+javoban	wick	0	0	1	0
 balki	may	0	0	1	0
 balki	balki	0	0	1	0
 balki	specified	0	0	1	0
@@ -15203,13 +15014,7 @@ energiya	energiya	0	0	1	0
 bazan	sometimes	0	0	1	0
 bazan	bazan	0	0	1	0
 manoni	moan	0	0	1	0
-manoni	leather	0	0	1	0
 manoni	manoni	0	0	1	0
-manoni	watermelon	0	0	1	0
-manoni	swallow	0	0	1	0
-manoni	come	0	0	1	0
-manoni	saturday	0	0	1	0
-manoni	waitress	0	0	1	0
 maʼlum	known	0	0	1	0
 maʼlum	entry	0	0	1	0
 maʼlum	ma'lum	0	0	1	0
@@ -15262,13 +15067,8 @@ agnostitsizm	to call	1	0	1	0
 agnostitsizm	joining	1	0	1	0
 agnostitsizm	mountain top	1	0	1	0
 agnostitsizm	left	1	0	1	0
-mas`ul	obstruct	0	0	1	0
 mas`ul	mas'ul	0	0	1	0
-mas`ul	shirt	0	0	1	0
-mas`ul	no	0	0	1	0
-mas`ul	responsible	0	0	1	0
 mas`ul	massive	0	0	1	0
-mas`ul	not	0	0	1	0
 xusrav	meat	0	0	1	0
 xusrav	at the house	0	0	1	0
 xusrav	models	0	0	1	0
@@ -15278,8 +15078,8 @@ xusrav	night	0	0	1	0
 xusrav	moustache	0	0	1	0
 xusrav	nomadizing	0	0	1	0
 joriy	joriy	0	0	1	0
-turkum	leave	0	0	1	0
 turkum	category	0	0	1	0
+turkum	leave	0	0	1	0
 turkum	turkum	0	0	1	0
 qoʻlga	arm	0	0	1	0
 qoʻlga	qo'lga	0	0	1	0
@@ -15289,7 +15089,6 @@ downtown	downtown	0	0	1	0
 ogʻzaki	aging	0	0	1	0
 ogʻzaki	orgzaki	0	0	1	0
 ogʻzaki	vg’zaky	0	0	1	0
-ў	y	0	0	1	0
 olamni	to raise a ruck	0	0	1	0
 olamni	throw	0	0	1	0
 olamni	almni	0	0	1	0
@@ -15373,16 +15172,11 @@ bogʻlangan	bog'langan	0	0	1	0
 bogʻlangan	binding	0	0	1	0
 till	till	0	0	1	0
 muzokaralar	muzokaralar	0	0	1	0
-muzokaralar	discussion	0	0	1	0
-muzokaralar	debate	0	0	1	0
 taraqqiyotga	calendar	0	0	1	0
 taraqqiyotga	taraqqiyotga	0	0	1	0
-tili		0	0	1	0
-tili	sharp-tongued	0	0	1	0
-tili	tili	0	0	1	0
-tili	hebraic	0	0	1	0
-tili	tilim	0	0	1	0
-tili	sway	0	0	1	0
+xayriya	a donation	0	0	1	0
+xayriya	xayriya	0	0	1	0
+xayriya	charity	0	0	1	0
 fiziologik	fiziologik	0	0	1	0
 samarqandga	samarqandga	0	0	1	0
 samarqandga	smrqandga	0	0	1	0
@@ -15478,16 +15272,9 @@ imоm	imom	0	0	1	0
 iiii	iii	0	0	1	0
 sahnaga	sahnaga	0	0	1	0
 sahnaga	stage	0	0	1	0
-seshanba	to separate	0	0	1	0
-seshanba	full	0	0	1	0
-seshanba	theatre	0	0	1	0
-seshanba	dusk	0	0	1	0
-seshanba	freedom	0	0	1	0
-seshanba	in the middle	0	0	1	0
-seshanba	thill	0	0	1	0
-seshanba	flag	0	0	1	0
-seshanba	seshanba	0	0	1	0
-seshanba	sshnbh	0	0	1	0
+qo`shin	qo'shin	0	0	1	0
+qo`shin	qoshin	0	0	1	0
+qo`shin	troops	0	0	1	0
 group	group	0	0	1	0
 qarorgohi	shoulder	0	0	1	0
 qarorgohi	qarorgohi	0	0	1	0
@@ -15520,7 +15307,6 @@ texas	you	0	0	1	0
 texas	texas	0	0	1	0
 hojati	need	0	0	1	0
 hojati	hojati	0	0	1	0
-ifoda	ifoda	0	0	1	0
 ifoda	expression	0	0	1	1
 nurlanish	nurlanish	0	0	1	0
 nurlanish	glow	0	0	1	0
@@ -15534,7 +15320,6 @@ jamiyatlari	how much	0	0	1	0
 jamiyatlari	money	0	0	1	0
 jamiyatlari	pock-marked	0	0	1	0
 jamiyatlari	jamiyatlari	0	0	1	0
-jamiyatlari	society	0	0	1	0
 jamiyatlari	seventeenth	0	0	1	0
 chiroqchiga	chiroqchiga	0	0	1	0
 chiroqchiga	clans	0	0	1	0
@@ -15659,7 +15444,6 @@ abdulla	to rest	0	0	1	0
 abdulla	sieve	0	0	1	0
 abdulla	abdulla	0	0	1	0
 bangladesh	bangladesh	0	0	1	0
-karvon	carvone	0	0	1	0
 karvon	karvon	0	0	1	0
 гимнов	what	0	0	1	0
 гимнов	tnmhob	0	0	1	0
@@ -15912,7 +15696,6 @@ kirgan	krgan	0	0	1	0
 kirgan	loanwords from russian	0	0	1	0
 vazifasida	vazifasida	0	0	1	0
 vazifasida	duty	0	0	1	0
-vazifasida	task	0	0	1	0
 kantning	kantnyng	0	0	1	0
 kantning	kantning	0	0	1	0
 width	width	0	0	1	0
@@ -15989,11 +15772,10 @@ fakultetini	optional	0	0	1	0
 fakultetini	fakultetini	0	0	1	0
 deklaratsiya	deklaratsiya	0	0	1	0
 deklaratsiya	recitor	0	0	1	0
+sababli	saba	0	0	1	0
 sababli	carrot	0	0	1	0
 sababli	sababli	0	0	1	0
-sababli	saba	0	0	1	0
 yozma	yog	0	0	1	0
-yozma	yozma	0	0	1	0
 yozma	writing	0	0	1	0
 yovvoyi	wild	0	0	1	1
 yovvoyi	justice	0	0	1	0
@@ -16028,8 +15810,8 @@ noeditsection	noeditsection	0	0	1	0
 maʼlumotlariga	ma'lumotlariga	0	0	1	0
 maʼlumotlariga	education	0	0	1	0
 wiki	wiki	0	0	1	0
-nafasi	large	0	0	1	0
 nafasi	breath	0	0	1	0
+nafasi	large	0	0	1	0
 nafasi	nafasi	0	0	1	0
 oʻsimliklarga	plant	0	0	1	0
 oʻsimliklarga	o'simliklarga	0	0	1	0
@@ -16049,8 +15831,6 @@ boshlaydi	come	0	0	1	0
 boshlaydi	to freeze	0	0	1	0
 osiyoning	osiyoning	0	0	1	0
 osiyoning	asian	0	0	1	0
-faylasufi	philosopher	0	0	1	0
-faylasufi	philospher	0	0	1	0
 asri	enmity	0	0	1	0
 asri		0	0	1	0
 asri	centuries	0	0	1	0
@@ -16076,14 +15856,14 @@ kook	cook	0	0	1	0
 kook	kook	0	0	1	0
 tuz	tuz	0	0	1	0
 tuz	gerneral	0	0	1	0
-masalasi	masalasi	0	0	1	0
-masalasi	martensite	0	0	1	0
+tus	colour	0	0	1	0
+tus	tus	0	0	1	0
 oshanda	oshanda	0	0	1	0
 tur	sort	0	0	1	1
 tur	tur	0	0	1	0
 tur	kind	0	0	1	1
-tus	colour	0	0	1	0
-tus	tus	0	0	1	0
+masalasi	masalasi	0	0	1	0
+masalasi	martensite	0	0	1	0
 sahifasiga	exist	0	0	1	0
 sahifasiga	page setup	0	0	1	0
 sahifasiga	page	0	0	1	0
@@ -16121,8 +15901,9 @@ ulovlar	connet	0	0	1	0
 ulovlar	ulovlar	0	0	1	0
 xushluq	professional	0	0	1	0
 xushluq	xushluq	0	0	1	0
-tuman	tuman	0	0	1	0
-tuman	fog	0	0	1	1
+kelmasligi	kelmasligi	0	0	1	0
+kelmasligi	come	0	0	1	0
+kelmasligi	inbox	0	0	1	0
 lesoto	lesoto	0	0	1	0
 спид	cnna	0	0	1	0
 ibodat	bdt	0	0	1	0
@@ -16138,7 +15919,6 @@ rossiyaning	russian	0	0	1	0
 rossiyaning	rossiyaning	0	0	1	0
 mark	mark	0	0	1	0
 mart	mart	0	0	1	0
-mart	march	0	0	1	1
 marv	innocent;	0	0	1	0
 marv	marv	0	0	1	0
 tojikcha	tojikcha	0	0	1	0
@@ -16158,7 +15938,6 @@ ostsohasi	ostsohasi	0	0	1	0
 ostsohasi	arm	0	0	1	0
 kotibi	home	0	0	1	0
 kotibi	scribe	0	0	1	0
-kotibi	kotibi	0	0	1	0
 vazifalaridan	vazifalaridan	0	0	1	0
 shopping	shopping	0	0	1	0
 cobain	cobain	0	0	1	0
@@ -16170,7 +15949,7 @@ vafoti	vafoti	0	0	1	0
 vafoti	vfty	0	0	1	0
 kazaxstana	kazaxstana	0	0	1	0
 kazaxstana	cossack	0	0	1	0
-kelishuvini	kelishuvini	0	0	1	0
+namunalar	namunalar	0	0	1	0
 yuan	write	0	0	1	0
 yuan	yuan	0	0	1	0
 sound	sound	0	0	1	0
@@ -16264,7 +16043,6 @@ yumshoq	soft	0	0	1	1
 yumshoq	arm	0	0	1	0
 oid	old	0	0	1	0
 род	poa	0	0	1	0
-род	radon	0	0	1	0
 iqtisodiy	iqtisodiy	0	0	1	0
 iqtisodiy	economic	0	0	1	1
 iqtisodiy	with	0	0	1	0
@@ -16305,7 +16083,14 @@ qimmatli	qimmatli	0	0	1	0
 band	band	0	0	1	0
 mamlakatlardagi	country	0	0	1	0
 mamlakatlardagi	mamlakatlardagi	0	0	1	0
-sohadagi	sohadagi	0	0	1	0
+kengaydi	around.	0	0	1	0
+kengaydi	windmill	0	0	1	0
+kengaydi	what	0	0	1	0
+kengaydi	four	0	0	1	0
+kengaydi	kengaydi	0	0	1	0
+kengaydi	hair	0	0	1	0
+kengaydi	trivial	0	0	1	0
+kengaydi	rather sour	0	0	1	0
 toʻp	ball	0	0	1	0
 toʻp	to'p	0	0	1	0
 muvofiq	confirm(to)	0	0	1	0
@@ -16378,9 +16163,8 @@ uslubda	to kill	0	0	1	0
 uslubda	of short coat	0	0	1	0
 uslubda	sweat	0	0	1	0
 uslubda	i came	0	0	1	0
-asos	body text	0	0	1	0
-asos	asos	0	0	1	0
-asos	persian)	0	0	1	0
+muammolarga	muammolarga	0	0	1	0
+muammolarga	acrostic	0	0	1	0
 yaxlit	yaxlit	0	0	1	0
 yaxlit	whole	0	0	1	1
 yaxlit	anonymous	0	0	1	0
@@ -16408,8 +16192,8 @@ manzilgoxidan	public	0	0	1	0
 manzilgoxidan	location	0	0	1	0
 hewlettpackard	hewlett-packard	0	0	1	0
 borar	borar	0	0	1	0
-borar	boron	0	0	1	0
 borar	crashing	0	0	1	0
+borar	boron	0	0	1	0
 me`mor	me'mor	0	0	1	0
 davr	davr	0	0	1	0
 mos	mos	0	0	1	0
@@ -16498,7 +16282,6 @@ dala	submerge	0	0	1	0
 mintakasini	mintakasini	0	0	1	0
 lotte	lotte	0	0	1	0
 lotte	latin	0	0	1	0
-lotte	struggles	0	0	1	0
 donalari	donalari	0	0	1	0
 xoqonligi	adj. of xoqon	0	0	1	0
 xoqonligi	xoqonligi	0	0	1	0
@@ -16516,7 +16299,6 @@ yigʻish	yyg’ysh	0	0	1	0
 ellik	ellik	0	0	1	0
 ellik	group	0	0	1	0
 olimi	olimy	0	0	1	0
-olimi	olimi	0	0	1	0
 ч	u	0	0	1	0
 xakida	xakida	0	0	1	0
 vakillarining	where is my room?	0	0	1	0
@@ -16529,8 +16311,8 @@ vakillarining	red	0	0	1	0
 vakillarining	knife	0	0	1	0
 самый	web	0	0	1	0
 самый	cambin	0	0	1	0
-partiya	party	0	0	1	1
 partiya	partiya	0	0	1	0
+partiya	party	0	0	1	1
 britaniyaning	btitaniyaning	0	0	1	0
 britaniyaning	britaniyaning	0	0	1	0
 примерно	npnmepho	0	0	1	0
@@ -16576,7 +16358,7 @@ bosiladi	grating of the yurt	0	0	1	0
 qabul	qabul	0	0	1	0
 qabul	acceptance	0	0	1	1
 qabul	an accept	0	0	1	0
-masalan	for example	0	0	1	1
+masalan	for example	0	0	1	0
 masalan	masalan	0	0	1	0
 adabiy	literary	0	0	1	1
 adabiy	money	0	0	1	0
@@ -16628,13 +16410,17 @@ sozidan	arm	0	0	1	0
 ifodalaydi	ifodalaydi	0	0	1	0
 borgan	borgan	0	0	1	0
 hizmat	hizmat	0	0	1	0
-uyaga	uyaga	0	0	1	0
+pochta	thousands and thousands	0	0	1	0
+pochta	pochta	0	0	1	0
+pochta	hotness.	0	0	1	0
+pochta	to roll down	0	0	1	0
+pochta	to mix	0	0	1	0
 navand	navand	0	0	1	0
 tasarrufida	tasrfyda	0	0	1	0
 tasarrufida	tasarrufida	0	0	1	0
 boradi	boradi	0	0	1	0
-odamlarda	odamlarda	0	0	1	0
-odamlarda	people	0	0	1	0
+oylari	over months	0	0	1	0
+oylari	oylari	0	0	1	0
 qiyot	kyvt	0	0	1	0
 qiyot	qiyot	0	0	1	0
 tamoyillarini	tamoyillarini	0	0	1	0
@@ -16746,8 +16532,8 @@ qoshiq	qoshiq	0	0	1	0
 qoshiq	ant	0	0	1	0
 qoshiq	i don't understand	0	0	1	0
 qoshiq	spoon	0	0	1	1
-chiqadi	line	0	0	1	0
 chiqadi	make	0	0	1	0
+chiqadi	line	0	0	1	0
 chiqadi	chiqadi	0	0	1	0
 asarlaridan	honeybee	0	0	1	0
 asarlaridan	asalaridan	0	0	1	0
@@ -16787,7 +16573,8 @@ bo`z	cotton - fabric	0	0	1	0
 bo`z	bo'z	0	0	1	0
 bo`z	new soil	0	0	1	0
 important	important	0	0	1	0
-marshes	marshes	0	0	1	0
+safar	formed	0	0	1	0
+safar	safar	0	0	1	0
 otilgan	atylgan	0	0	1	0
 otilgan	otilgan	0	0	1	0
 palau	rice	0	0	1	0
@@ -16851,8 +16638,8 @@ sergey	serbia	0	0	1	0
 tukkiz	tukkiz	0	0	1	0
 shveytsariya	shveytsariya	0	0	1	0
 shveytsariya	swiss	0	0	1	0
-itoat	itoat	0	0	1	0
-itoat	italy	0	0	1	0
+insonning	insonning	0	0	1	0
+insonning	human	0	0	1	0
 paleolit	paleolit	0	0	1	0
 yozuvchilar	yozuvchilar	0	0	1	0
 yozuvchilar	yvzvchylar	0	0	1	0
@@ -16879,7 +16666,7 @@ qahraton	lizard	0	0	1	0
 qahraton	down	0	0	1	0
 qahraton	semi automatic machine	0	0	1	0
 qahraton	waitress	0	0	1	0
-qahraton	bitterly cold	0	0	1	1
+qahraton	bitterly cold	0	0	1	0
 qahraton	worthy	0	0	1	0
 qahraton	happiness	0	0	1	0
 nsounited	nsounited	0	0	1	0
@@ -16919,15 +16706,8 @@ donishmand	donishmand	0	0	1	0
 ge	ge	0	0	1	0
 moldova	owner of or possessing many cattle	0	0	1	0
 moldova	moldova	0	0	1	0
-gana	wins	0	0	1	0
-gana	gana	0	0	1	0
-saudi	theatre	0	0	1	0
-saudi	son-ill-law	0	0	1	0
-saudi	to measure	0	0	1	0
-saudi	caress	0	0	1	0
+стала	ctana	0	0	1	0
 saudi	saudi	0	0	1	0
-saudi	shake	0	0	1	0
-saudi	eighth	0	0	1	0
 toshkentga	toshkentga	0	0	1	0
 arxeologik	archaeological	0	0	1	1
 arxeologik	arxeology	0	0	1	0
@@ -16963,10 +16743,9 @@ tizimni	tyzymny	0	0	1	0
 oldidan	oldidan	0	0	1	0
 skeptik	skeptic	0	0	1	1
 skeptik	skeptical	0	0	1	1
-skeptik	skeptik	0	0	1	0
-mahsulotlari	drawn	0	0	1	0
-mahsulotlari	net	0	0	1	0
 mahsulotlari	mahsulotlari	0	0	1	0
+mahsulotlari	net	0	0	1	0
+mahsulotlari	drawn	0	0	1	0
 mahsulotlari	we came	0	0	1	0
 mahsulotlari	breast	0	0	1	0
 abc	abc	0	0	1	0
@@ -17003,7 +16782,7 @@ qoshiqchi	spoon	0	0	1	0
 albomdan	albomdan	0	0	1	0
 bogʻlab	bog'lab	0	0	1	0
 etdilar	etdilar	0	0	1	0
-qarorlarning	qarorlarning	0	0	1	0
+free	free	0	0	1	0
 yaimning	yaiming	0	0	1	0
 xodimlari	thirtieth	0	0	1	0
 xodimlari	noon	0	0	1	0
@@ -17121,15 +16900,10 @@ kelishga	night	0	0	1	0
 ustozi	ustozi	0	0	1	0
 ustozi	formation	0	0	1	0
 boshvazir	boshvazir	0	0	1	0
-korfazi	road	0	0	1	0
-korfazi	are you short of breath?	0	0	1	0
-korfazi	hollow	0	0	1	0
-korfazi	to lose strength	0	0	1	0
-korfazi	do you like it?	0	0	1	0
-korfazi	thirteen	0	0	1	0
-korfazi	mirror	0	0	1	0
-korfazi	to call	0	0	1	0
-korfazi	korfazi	0	0	1	0
+tanazzulga		0	0	1	0
+tanazzulga	paycheck	0	0	1	0
+tanazzulga	declain	0	0	1	0
+tanazzulga	tanazzulga	0	0	1	0
 qoshiqlar	qoshiqlar	0	0	1	0
 qoshiqlar	spoon	0	0	1	0
 collision	collision	0	0	1	0
@@ -17191,13 +16965,8 @@ maqolasini	maqolasini	0	0	1	0
 css	css	0	0	1	0
 askcom	askcom	0	0	1	0
 askcom	ask.com	0	0	1	0
-venger	shoot	0	0	1	0
-venger	to burn	0	0	1	0
-venger	pass through	0	0	1	0
-venger	venger	0	0	1	0
-venger	to throw	0	0	1	0
-venger	rotating	0	0	1	0
-venger	young of a wild animal	0	0	1	0
+bolgar	bolgar	0	0	1	0
+bolgar	bulgarian	0	0	1	0
 targʻib	targ'ib	0	0	1	0
 targʻib	information	0	0	1	0
 kodlari	kodlari	0	0	1	0
@@ -17263,12 +17032,6 @@ late	bosom	0	0	1	0
 автор	abtop	0	0	1	0
 muhammadning	muhammadning	0	0	1	0
 xristian	christian	0	0	1	1
-xristian	incessantly	0	0	1	0
-xristian	foaled mare	0	0	1	0
-xristian	to overflow	0	0	1	0
-xristian	become	0	0	1	0
-xristian	to be	0	0	1	0
-xristian	he came	0	0	1	0
 xristian	cristian	0	0	1	0
 zaruriya	zrvrya	0	0	1	0
 zaruriya	zaruriya	0	0	1	0
@@ -17292,7 +17055,6 @@ musiqa	music	0	0	1	1
 musiqa	musiqa	0	0	1	0
 ayni	exact	0	0	1	1
 ayni	ayni	0	0	1	0
-ayni	same	0	0	1	1
 hokimi	all	0	0	1	0
 hokimi	hokimi	0	0	1	0
 hokimi	power	0	0	1	0
@@ -17304,8 +17066,6 @@ hokimi	bandit	0	0	1	0
 hokimi	to win	0	0	1	0
 galereya	galary	0	0	1	0
 galereya	gallery	0	0	1	1
-kengashga	conference	0	0	1	0
-kengashga	kengashga	0	0	1	0
 tramvay	street car	0	0	1	0
 tramvay	tramvay	0	0	1	0
 oʻynaladi	o'ynaladi	0	0	1	0
@@ -17358,7 +17118,11 @@ mahkamasiga	mahkamasiga	0	0	1	0
 mahkamasiga	establishment	0	0	1	0
 qoralar	qoralar	0	0	1	0
 qiladi	qiladi	0	0	1	0
-ulmahjub	ulmahjub	0	0	1	0
+esperanto	entire	0	0	1	0
+esperanto	esperanto	0	0	1	0
+esperanto	to milk	0	0	1	0
+esperanto	whole	0	0	1	0
+esperanto	submerge	0	0	1	0
 standard	standard	0	0	1	0
 arzon	cheap	0	0	1	1
 arzon	for nothing	0	0	1	0
@@ -17531,14 +17295,7 @@ aksini	to the contrary	0	0	1	0
 aksini	aksini	0	0	1	0
 около	okono	0	0	1	0
 около	among	0	0	1	0
-kengaydi	around.	0	0	1	0
-kengaydi	windmill	0	0	1	0
-kengaydi	what	0	0	1	0
-kengaydi	four	0	0	1	0
-kengaydi	kengaydi	0	0	1	0
-kengaydi	hair	0	0	1	0
-kengaydi	trivial	0	0	1	0
-kengaydi	rather sour	0	0	1	0
+sohadagi	sohadagi	0	0	1	0
 narkotik	ofitseri	0	0	1	0
 narkotik	object	0	0	1	0
 narkotik	narkotik	0	0	1	0
@@ -17642,8 +17399,8 @@ yodgorliklarida	memory	0	0	1	0
 samuel	samuel	0	0	1	0
 ko	ko	0	0	1	0
 km	km	0	0	1	1
-ko`radi	decision	0	0	1	0
-ko`radi	ko'radi	0	0	1	0
+faylasufi	philosopher	0	0	1	0
+faylasufi	philospher	0	0	1	0
 pekin	pekin	0	0	1	0
 chester	chester	0	0	1	0
 ku	ku	0	0	1	0
@@ -17677,7 +17434,6 @@ alayhissalomning	alayysalvmnyng	0	0	1	0
 alayhissalomning	alayhissalomning	0	0	1	0
 этому	3tomy	0	0	1	0
 mustaqilligi	mustaqilligi	0	0	1	0
-mustaqilligi	musician	0	0	1	0
 ornini	vrnyny	0	0	1	0
 ornini	ornini	0	0	1	0
 angliyada	in england	0	0	1	0
@@ -17797,7 +17553,7 @@ oʻziga	yosh ol-/kel- to have one's eyes suddenly fill with tears	0	0	1	0
 voqealarning	event	0	0	1	0
 voqealarning	of stories	0	0	1	0
 voqealarning	voqealarning	0	0	1	0
-aksincha	to the contrary	0	0	1	1
+aksincha	to the contrary	0	0	1	0
 aksincha	spin box	0	0	1	0
 aksincha	then.	0	0	1	0
 sahip	preview	0	0	1	0
@@ -17899,8 +17655,7 @@ qazilmalarning	districts	0	0	1	0
 qazilmalarning	qazilmalarning	0	0	1	0
 sultan	sultan	0	0	1	0
 sohalarga	sohalarga	0	0	1	0
-paygambar	one who considers.	0	0	1	0
-paygambar	paygmbr	0	0	1	0
+türkiye	turkey	0	0	1	0
 tushuncha	tushuncha	0	0	1	0
 tushuncha	intelligenc	0	0	1	0
 tushuncha	idea	0	0	1	1
@@ -17990,7 +17745,6 @@ gap	gap	0	0	1	0
 olmoncha	kilowatt hour	0	0	1	0
 olmoncha	leather	0	0	1	0
 olmoncha	downwards	0	0	1	0
-olmoncha	olmancha	0	0	1	0
 olmoncha	olmoncha	0	0	1	0
 olmoncha	on top of	0	0	1	0
 olmoncha	frequently	0	0	1	0
@@ -18031,11 +17785,10 @@ ogoh	i	0	0	1	0
 ogoh	informed	0	0	1	1
 ogoh	ogoh	0	0	1	0
 bill	bill	0	0	1	0
-litiy	lithium	0	0	1	1
 litiy	bus	0	0	1	0
-litiy	litiy	0	0	1	0
 litiy	hot	0	0	1	0
 litiy	ditch	0	0	1	0
+litiy	litiy	0	0	1	0
 litiy	teacher	0	0	1	0
 vayoki	vayoki	0	0	1	0
 solib	solib	0	0	1	0
@@ -18059,7 +17812,6 @@ boʻlinishi	three	0	0	1	0
 boʻlinishi	edge	0	0	1	0
 boʻlinishi	of upper clothes	0	0	1	0
 boʻlinishi	hostile	0	0	1	0
-salvador	salvador	0	0	1	0
 portugal	portugal	0	0	1	0
 century		0	0	1	0
 century	century	0	0	1	0
@@ -18126,7 +17878,6 @@ keyp	kepy	0	0	1	0
 keyp	edge	0	0	1	0
 keyp	black	0	0	1	0
 keyp	t	0	0	1	0
-keyp	purchased	0	0	1	0
 keyp	to become old	0	0	1	0
 fitrat	fitrat	0	0	1	0
 fitrat	filter	0	0	1	0
@@ -18159,10 +17910,8 @@ tabiatga	courage	0	0	1	0
 tabiatga	tabiatga	0	0	1	0
 tabiatga	red	0	0	1	0
 qulaylik	qulaylik	0	0	1	0
-ubuntu	ubuntu	0	0	1	0
-umrining	to die	0	0	1	0
 umrining	from	0	0	1	0
-umrining	umrining	0	0	1	0
+umrining	to die	0	0	1	0
 mavzuga	mavzuga	0	0	1	0
 mavzuga	subject	0	0	1	0
 paygambarlar	prophet	0	0	1	0
@@ -18194,21 +17943,20 @@ shaxsiy	native land	0	0	1	0
 shaxsiy	will he come?	0	0	1	0
 anglatdi	anglatdi	0	0	1	0
 bin	bin	0	0	1	0
-bin	thousand	0	0	1	0
+boblarga	boblarga	0	0	1	0
 big	arrow and bullet	0	0	1	0
 big	big	0	0	1	0
 big	hunt	0	0	1	0
 big	friend and enemy	0	0	1	0
 big	physics	0	0	1	0
 big	chase	0	0	1	0
-inson	human being	0	0	1	1
+inson	human being	0	0	1	0
 inson	inson	0	0	1	0
 toshkentdagi	toshkentdagi	0	0	1	0
 toshkentdagi	string	0	0	1	0
 yunayted	yunayted	0	0	1	0
 yunayted	united	0	0	1	0
 biz	we: bizning	0	0	1	0
-biz	we	0	0	1	1
 biz	biz	0	0	1	0
 biz	bizni	0	0	1	0
 biz	bizga-us;	0	0	1	0
@@ -18271,7 +18019,6 @@ choy	tea	0	0	1	1
 stansiya	station	0	0	1	0
 stansiya	stansiya	0	0	1	0
 stansiya	testament.	0	0	1	0
-institutlar	institute	0	0	1	0
 institutlar	institutlar	0	0	1	0
 institutlar	institution	0	0	1	0
 ingliz	ingliz	0	0	1	0
@@ -18313,16 +18060,13 @@ banklar	banker	0	0	1	0
 turkmaniston	category	0	0	1	0
 turkmaniston	tvrkmanystvn	0	0	1	0
 turkmaniston	turkmaniston	0	0	1	0
-gambia	gambia	0	0	1	0
-am	am	0	0	1	0
-am	with	0	0	1	0
+моей	moen	0	0	1	0
+моей	transience;	0	0	1	0
 boshida	boshida	0	0	1	0
 britannica	britannica	0	0	1	0
 topishiga	riddle	0	0	1	0
 topishiga	topishiga	0	0	1	0
-istiqomat	residence	0	0	1	0
-istiqomat	hot	0	0	1	0
-istiqomat	habitation	0	0	1	0
+kadimda	kadimda	0	0	1	0
 jimmy	make way for	0	0	1	0
 jimmy	jimmy	0	0	1	0
 jimmy	their grandfather	0	0	1	0
@@ -18386,7 +18130,6 @@ greklar	grklar	0	0	1	0
 greklar	greklar	0	0	1	0
 hopes	hopes	0	0	1	0
 hopes	seriously	0	0	1	0
-koʻrsatiladi	be shown	0	0	1	0
 koʻrsatiladi	korsatildai	0	0	1	0
 koʻrsatiladi	beardless	0	0	1	0
 directed	directed	0	0	1	0
@@ -18523,8 +18266,8 @@ beshta	bshta	0	0	1	0
 so`ng	so'ng	0	0	1	0
 so`ng	end	0	0	1	0
 arxеologiya	arxeologiya	0	0	1	0
-arxеologiya	archaeology	0	0	1	0
 arxеologiya	arxeology	0	0	1	0
+arxеologiya	archaeology	0	0	1	0
 buxoroda	saqich a kind of chewing	0	0	1	0
 buxoroda	buxoroda	0	0	1	0
 fevralida	fevalida	0	0	1	0
@@ -18582,8 +18325,8 @@ bizden	bizden	0	0	1	0
 bizden	from (us)	0	0	1	0
 bizden	tomorrow	0	0	1	0
 hammasi	everything	0	0	1	0
-hammasi	epic	0	0	1	0
 hammasi	hammasi	0	0	1	0
+hammasi	epic	0	0	1	0
 protokoli	protokoli	0	0	1	0
 qaramasdan		0	0	1	0
 qaramasdan	bindweed	0	0	1	0
@@ -18642,9 +18385,7 @@ radio	radio	0	0	1	1
 rivoyat	rivoyat	0	0	1	0
 rivoyat	folktale	0	0	1	1
 qolamiz	qolamiz	0	0	1	0
-qoʻshilishi	annexation	0	0	1	0
 qoʻshilishi	qo'shilishi	0	0	1	0
-qoʻshilishi	inclusion	0	0	1	0
 maqbarasi	maqbarasi	0	0	1	0
 musiqachilar	musician	0	0	1	0
 musiqachilar	musiqachilar	0	0	1	0
@@ -18668,7 +18409,6 @@ borishi	to pinch	0	0	1	0
 borishi	to get ready	0	0	1	0
 borishi	she knows	0	0	1	0
 aylanadi	substract	0	0	1	0
-aylanadi	circle	0	0	1	0
 muallifidir	commerce	0	0	1	0
 muallifidir	belch	0	0	1	0
 muallifidir	cave	0	0	1	0
@@ -18713,7 +18453,6 @@ sino	have	0	0	1	0
 практически	npaktneckn	0	0	1	0
 me`morchilik	architecture	0	0	1	0
 me`morchilik	me'morchilik	0	0	1	0
-shahridagi	shahridagi	0	0	1	0
 shahridagi	citadel	0	0	1	0
 uzbekkoreacom	mountains.	0	0	1	0
 uzbekkoreacom	usbekkoreacom	0	0	1	0
@@ -18726,6 +18465,8 @@ turkummatematika	group	0	0	1	0
 named	named	0	0	1	0
 qisqa	qisqa	0	0	1	0
 qisqa	qysqh	0	0	1	0
+valiylik	valiylik	0	0	1	0
+valiylik	prophet	0	0	1	0
 private	private	0	0	1	0
 двигателя	abntatenr	0	0	1	0
 sharoit	conditions	0	0	1	1
@@ -18739,7 +18480,6 @@ ko`maklashish	ko'maklashish	0	0	1	0
 gateway	gateway	0	0	1	0
 subyekti	strontium	0	0	1	0
 subyekti	a subject	0	0	1	0
-subyekti	subject	0	0	1	0
 hitlerga	report type	0	0	1	0
 hitlerga	hitlerga	0	0	1	0
 oila	oila	0	0	1	0
@@ -18798,7 +18538,6 @@ mirzoni	have a nice trip	0	0	1	0
 qilar	qilar	0	0	1	0
 natijalariga	natijalariga	0	0	1	0
 teztez	quickly	0	0	1	0
-teztez	teztez	0	0	1	0
 teztez	quick quick	0	0	1	0
 konrad	konrad	0	0	1	0
 eksport	export	0	0	1	1
@@ -18923,9 +18662,8 @@ holiga	condition	0	0	1	0
 darajasida	darajasida	0	0	1	0
 menga	menga	0	0	1	0
 menga	mnga	0	0	1	0
-butun	terms of use	0	0	1	0
-butun	butun	0	0	1	0
 butun	integar	0	0	1	0
+butun	butun	0	0	1	0
 qoʻllab	qo'llab	0	0	1	0
 qolishga	heavy	0	0	1	0
 qolishga	circulation amount	0	0	1	0
@@ -18988,7 +18726,9 @@ dam	dam	0	0	1	0
 dam	to become mad	0	0	1	0
 dam	you	0	0	1	0
 dam	hawk	0	0	1	0
-ilerlemesini	ilerlemesini	0	0	1	0
+moskvadagi	tulip	0	0	1	0
+moskvadagi	moskvadagi	0	0	1	0
+moskvadagi	from this side	0	0	1	0
 sid	litigious.	0	0	1	0
 sid	sid	0	0	1	0
 nashriyot	nashriyot	0	0	1	0
@@ -19051,7 +18791,6 @@ tyan	wide open	0	0	1	0
 tyan	to grasp	0	0	1	0
 tyan	to such a degree	0	0	1	0
 oʻzlariga	o'zlariga	0	0	1	0
-otkazgan	parental control	0	0	1	0
 otkazgan	otkazgan	0	0	1	0
 tasvirlangan	portrayal	0	0	1	0
 tasvirlangan	tasvirlangan	0	0	1	0
@@ -19125,8 +18864,9 @@ biror	biror	0	0	1	0
 biror	some	0	0	1	1
 biroq	biroq	0	0	1	0
 biroq	except	0	0	1	1
-bevosita	access	0	0	1	0
-bevosita	bevosita	0	0	1	0
+freshwater	freshwater	0	0	1	0
+buenos	result	0	0	1	0
+buenos	buenos	0	0	1	0
 biroz	biroz	0	0	1	0
 ulug	ulug	0	0	1	0
 вошла	bowna	0	0	1	0
@@ -19260,24 +19000,16 @@ sariq	sariq	0	0	1	0
 yonuv	yonuv	0	0	1	0
 yonuv	flammable	0	0	1	0
 uganda	uganda	0	0	1	0
-kompaniyani	to feel	0	0	1	0
 kompaniyani	caretaker	0	0	1	0
-kompaniyani	buckle	0	0	1	0
-kompaniyani	ear ring	0	0	1	0
-kompaniyani	friend and enemy	0	0	1	0
-kompaniyani	my native language is english	0	0	1	0
-kompaniyani	more	0	0	1	0
 muhaddislar	muhaddislar	0	0	1	0
 kemasozlik	stubbornness	0	0	1	0
 kemasozlik	kemasozlik	0	0	1	0
-jamoaning	enrollment	0	0	1	0
-jamoaning	jamoaning	0	0	1	0
+koʻrsatib	ko'rsatib	0	0	1	0
 johitlar	johitlar	0	0	1	0
 mil	thousand	0	0	1	0
 mil	mil	0	0	1	0
 min	dupe	0	0	1	0
 min	to mount	0	0	1	0
-min	min	0	0	1	0
 islom	islom	0	0	1	0
 islom	islam	0	0	1	1
 otish	fire	0	0	1	0
@@ -19520,7 +19252,6 @@ buyruqlar	buryruqlar	0	0	1	0
 buyruqlar	i live in the city of new york	0	0	1	0
 motown	motown	0	0	1	0
 tarixnavis	historian	0	0	1	1
-tarixnavis	tanzaniya	0	0	1	0
 albomiga	albvmyga	0	0	1	0
 albomiga	albaniya	0	0	1	0
 oʻyinda	o'yinda	0	0	1	0
@@ -19547,7 +19278,7 @@ abdullohning	abdullohning	0	0	1	0
 kopchiligi	kopchiligi	0	0	1	0
 hokazo	hokazo	0	0	1	0
 hokazo	many more	0	0	1	0
-hokazo	and so on	0	0	1	1
+hokazo	and so on	0	0	1	0
 ikkitasi	two of	0	0	1	0
 ikkitasi	suspicious.	0	0	1	0
 ikkitasi	double click	0	0	1	0
@@ -19604,7 +19335,7 @@ vena	vein	0	0	1	1
 muhammadsharif	muhammadsharif	0	0	1	0
 faqatgina	faqatgina	0	0	1	0
 faqatgina	only	0	0	1	0
-koinot	the universe	0	0	1	1
+koinot	the universe	0	0	1	0
 koinot	koinot	0	0	1	0
 deniz	work	0	0	1	0
 deniz	deism	0	0	1	0
@@ -19747,7 +19478,6 @@ shayx	consume	0	0	1	0
 shayx	view	0	0	1	0
 soviet	soviet	0	0	1	0
 xotini	xotini	0	0	1	0
-стала	ctana	0	0	1	0
 vakil	our prestige	0	0	1	0
 vakil	flower	0	0	1	0
 vakil	vakil	0	0	1	1
@@ -19780,7 +19510,7 @@ yolini	yolini	0	0	1	0
 yolini	again	0	0	1	0
 oʻzmuning	o'zmuning	0	0	1	0
 oʻzmuning	ozmuning	0	0	1	0
-yugnakiy	yugnakiy	0	0	1	0
+tarzi	tarzi	0	0	1	0
 aruba	having quality	0	0	1	0
 aruba	million	0	0	1	0
 aruba	your nose	0	0	1	0
@@ -19792,7 +19522,6 @@ kishiga	kishiga	0	0	1	0
 kishiga	kyshyga	0	0	1	0
 yozuv	purslane.	0	0	1	0
 yozuv	script	0	0	1	1
-yozuv	writing	0	0	1	1
 somali	somalia	0	0	1	0
 somali	somali	0	0	1	0
 yashar	yashar	0	0	1	0
@@ -19878,7 +19607,6 @@ atmosfera	atmosphere	0	0	1	1
 частью	tether	0	0	1	0
 esa	your	0	0	1	0
 esa	esa	0	0	1	0
-esa	that	0	0	1	0
 boks	boxing	0	0	1	1
 boks	boks	0	0	1	0
 demografiyasi	demagraphy	0	0	1	0
@@ -19923,7 +19651,6 @@ jamg`arma	claw	0	0	1	0
 jamg`arma	one hundred	0	0	1	0
 aziz	natural	0	0	1	0
 aziz	tamarisk	0	0	1	0
-aziz	saint	0	0	1	0
 aziz	situation	0	0	1	0
 aziz	dear	0	0	1	1
 aziz	polish	0	0	1	0
@@ -19949,16 +19676,13 @@ hisoblanishadi	hisoblanishadi	0	0	1	0
 kapital	capital	0	0	1	1
 sezish	sezish	0	0	1	0
 sezish	tuesday	0	0	1	0
-holati	status	0	0	1	0
 holati	holati	0	0	1	0
 holati	condition	0	0	1	0
-safar	formed	0	0	1	0
-safar	safar	0	0	1	0
+marshes	marshes	0	0	1	0
 chexoslovakiya	chexoslovakiya	0	0	1	0
 chexoslovakiya	czechoslovakia	0	0	1	0
 mogullar	mogullar	0	0	1	0
 standartlari	pray	0	0	1	0
-standartlari	building	0	0	1	0
 standartlari	standard	0	0	1	0
 gazeta	gazeta	0	0	1	0
 been	been	0	0	1	0
@@ -19969,8 +19693,7 @@ zinda	torture	0	0	1	0
 zinda	dungen	0	0	1	0
 muddati	guest	0	0	1	0
 muddati	muddati	0	0	1	0
-sezgir	romantic feelings	0	0	1	0
-sezgir	sezgir	0	0	1	0
+matchi	matchi	0	0	1	0
 yillardagi	yillardagi	0	0	1	0
 yillardagi	yilardagi	0	0	1	0
 bajarish	bajarish	0	0	1	0
@@ -20003,7 +19726,6 @@ singlisi	synglysy	0	0	1	0
 singlisi	wireless	0	0	1	0
 singlisi	singlisi	0	0	1	0
 kelmoqdalar	kelmoqdalar	0	0	1	0
-kelmoqdalar	come arrive	0	0	1	0
 usuli	usuli	0	0	1	0
 usuli	main	0	0	1	0
 wish	wish	0	0	1	0
@@ -20065,7 +19787,6 @@ qilmadi	buckle	0	0	1	0
 qilmadi	float	0	0	1	0
 qilmadi	qilmadi	0	0	1	0
 qilmadi	temper	0	0	1	0
-haykali	not ykali	0	0	1	0
 haykali	physique	0	0	1	0
 urinadi	urinadi	0	0	1	0
 corporation	corporation	0	0	1	0
@@ -20119,7 +19840,6 @@ vazifa	vazifa	0	0	1	0
 o`ralgan	o'ralgan	0	0	1	0
 dynasty	dynasty	0	0	1	0
 erkak	erkak	0	0	1	0
-erkak	compare	0	0	1	0
 erkak	clark	0	0	1	0
 asrlarda	asrlarda	0	0	1	0
 hate	hate	0	0	1	0
@@ -20165,7 +19885,6 @@ qarzlar	debtor	0	0	1	0
 qarzlar	qarzlar	0	0	1	0
 п	n	0	0	1	0
 aydaho	aydaho	0	0	1	0
-omina	characterized by	0	0	1	0
 omina	omina	0	0	1	0
 ruslan	before a holiday	0	0	1	0
 ruslan	congratulations	0	0	1	0
@@ -20251,9 +19970,7 @@ shilla	fine	0	0	1	0
 filologiya	filology	0	0	1	0
 filologiya	philology	0	0	1	1
 наш	haw	0	0	1	0
-martta	in march	0	0	1	0
 martta	martta	0	0	1	0
-hukumatining	hukumatining	0	0	1	0
 hukumatining	government	0	0	1	0
 finlyandiya	to enjoy oneself	0	0	1	0
 finlyandiya	finlyandiya	0	0	1	0
@@ -20441,7 +20158,6 @@ tekin	tekin	0	0	1	0
 tekin	monadic	0	0	1	0
 tekin	free	0	0	1	1
 shvetsiya	shvetsiya	0	0	1	0
-shvetsiya	sweden	0	0	1	0
 shvetsiya	swedan	0	0	1	0
 vasiylik	vasiylik	0	0	1	0
 vasiylik	guardianship	0	0	1	1
@@ -20556,7 +20272,7 @@ harakatlarini	hraktlaryny	0	0	1	0
 harakatlarini	harakatlarini	0	0	1	0
 imf	imf	0	0	1	0
 mushtum	mushtum	0	0	1	1
-mushtum	name of a satirical magazine	0	0	1	1
+mushtum	name of a satirical magazine	0	0	1	0
 отечество	oteectbo	0	0	1	0
 burkina	burkina	0	0	1	0
 mongolia	mongolia	0	0	1	0
@@ -20564,7 +20280,7 @@ singapur	singapur	0	0	1	0
 loyihalar	to plan	0	0	1	0
 loyihalar	loyihalar	0	0	1	0
 blogger	blogger	0	0	1	0
-namunalar	namunalar	0	0	1	0
+kelishuvini	kelishuvini	0	0	1	0
 vaziyat	position	0	0	1	1
 vaziyat	vaziyat	0	0	1	0
 turkumastronomiya	turkum astronomiya	0	0	1	0
@@ -20653,8 +20369,8 @@ center|px|	cener	0	0	1	0
 qandaydir	uncertain.	0	0	1	0
 qandaydir	some	0	0	1	0
 qandaydir	somehow	0	0	1	0
-oylari	over months	0	0	1	0
-oylari	oylari	0	0	1	0
+odamlarda	odamlarda	0	0	1	0
+odamlarda	people	0	0	1	0
 yillarning	yillarning	0	0	1	0
 chempionati	chempionati	0	0	1	0
 grigoriy	gregory	0	0	1	0
@@ -20705,7 +20421,7 @@ ayol	goosey	0	0	1	0
 ayol	ayol	0	0	1	0
 bajarishga	bajarishga	0	0	1	0
 shtat	shtat	0	0	1	0
-free	free	0	0	1	0
+qarorlarning	qarorlarning	0	0	1	0
 jonim	jonim	0	0	1	0
 jonim	i will do my utmost	0	0	1	0
 jonim	sender	0	0	1	0
@@ -20804,11 +20520,7 @@ toʻliq	completely	0	0	1	0
 toʻliq	full	0	0	1	0
 toʻliq	to'liq	0	0	1	0
 toʻliq	to'lliq	0	0	1	0
-esperanto	entire	0	0	1	0
-esperanto	esperanto	0	0	1	0
-esperanto	to milk	0	0	1	0
-esperanto	whole	0	0	1	0
-esperanto	submerge	0	0	1	0
+ulmahjub	ulmahjub	0	0	1	0
 solishgan	covered	0	0	1	0
 solishgan	to battle	0	0	1	0
 solishgan	compare	0	0	1	0
@@ -20871,12 +20583,7 @@ qoshilib	it's definite that i will come	0	0	1	0
 vermont	vermont	0	0	1	0
 моя	mor	0	0	1	0
 western	western	0	0	1	0
-barchamizga	star	0	0	1	0
-barchamizga	your grandfather	0	0	1	0
-barchamizga	playful	0	0	1	0
-barchamizga	various	0	0	1	0
 barchamizga	barchamizga	0	0	1	0
-barchamizga	promise	0	0	1	0
 ohirida	no	0	0	1	0
 ohirida	to be afraid	0	0	1	0
 ohirida	young	0	0	1	0
@@ -20902,7 +20609,6 @@ led	led	0	0	1	0
 muddatli	muddatli	0	0	1	0
 mendeleyev	mendeleyev	0	0	1	0
 mendeleyev	mendelev	0	0	1	0
-rad	wheel	0	0	1	0
 rad	rad	0	0	1	0
 toʻrt	four	0	0	1	0
 toʻrt	to'rt	0	0	1	0
@@ -21022,7 +20728,6 @@ metal	metal	0	0	1	0
 российской	one	0	0	1	0
 мы	spinal marrow	0	0	1	0
 мы	to hire	0	0	1	0
-мы	mbi	0	0	1	0
 moʻgʻullar	mo'g'ullar	0	0	1	0
 moʻgʻullar	mogular	0	0	1	0
 moʻgʻullar	sound used to call various domesticated animals	0	0	1	0
@@ -21068,7 +20773,7 @@ istirohat	two hundred and fifty three	0	0	1	0
 istirohat	polish	0	0	1	0
 istirohat	day	0	0	1	0
 piyoda	son-in-law	0	0	1	0
-piyoda	on foot	0	0	1	1
+piyoda	on foot	0	0	1	0
 piyoda	bell	0	0	1	0
 piyoda	piyoda	0	0	1	0
 piyoda	attention	0	0	1	0
@@ -21125,7 +20830,6 @@ mojaro	incident	0	0	1	1
 mojaro	mojaro	0	0	1	0
 mojaro	event	0	0	1	1
 birmuncha	birmuncha	0	0	1	0
-birmuncha	burma	0	0	1	0
 sentyabr	sentyabr	0	0	1	0
 sentyabr	september.	0	0	1	0
 fuqaroligi	fuqaroligi	0	0	1	0
@@ -21147,7 +20851,6 @@ vakolathonalariga	round	0	0	1	0
 vakolathonalariga	to know	0	0	1	0
 kosmik	kosmik	0	0	1	0
 kosmik	cosmic	0	0	1	1
-kosmik	space	0	0	1	0
 ogahiy	ogahiy	0	0	1	0
 oʻrin	assistant	0	0	1	0
 oʻrin	o'rin	0	0	1	0
@@ -21158,8 +20861,6 @@ boshchiligidagi	boschiligidagi	0	0	1	0
 elvisni	alvysny	0	0	1	0
 elvisni	tree	0	0	1	0
 elvisni	elvisni	0	0	1	0
-xok	dust	0	0	1	1
-xok	ashes	0	0	1	1
 xok	xok	0	0	1	0
 masofadan	masfdan	0	0	1	0
 masofadan	masofadan	0	0	1	0
@@ -21168,9 +20869,6 @@ gvineyabisau	gvineyabisau	0	0	1	0
 koʻrsatmoqda	rack.	0	0	1	0
 koʻrsatmoqda	ko'rsatmoqda	0	0	1	0
 koʻrsatmoqda	to show	0	0	1	0
-etilgach	turn your head left	0	0	1	0
-etilgach	etilgach	0	0	1	0
-etilgach	to wake up	0	0	1	0
 suniy	suniy	0	0	1	0
 turishi	turishi	0	0	1	0
 turishi	regular	0	0	1	0
@@ -21208,7 +20906,7 @@ bayrogi	bayrogi	0	0	1	0
 bolishiga	bolish	0	0	1	0
 bolishiga	bolishiga	0	0	1	0
 qanday	autobiography.	0	0	1	0
-qanday	what kind?	0	0	1	1
+qanday	what kind?	0	0	1	0
 ввода	to say	0	0	1	0
 ввода	to spread	0	0	1	0
 ввода	sift	0	0	1	0
@@ -21234,7 +20932,7 @@ uchburchakning	uchburchakning	0	0	1	0
 dekabrida	dkabryda	0	0	1	0
 dekabrida	dekabrida	0	0	1	0
 alayhissalom	alayhissalom	0	0	1	0
-alayhissalom	upon him peace	0	0	1	1
+alayhissalom	upon him peace	0	0	1	0
 hozir	ready	0	0	1	1
 hozir	hozir	0	0	1	0
 mukaddam	mukaddam	0	0	1	0
@@ -21247,7 +20945,6 @@ mukaddas	mukaddas	0	0	1	0
 bosh	bosh	0	0	1	0
 deyl	dale	0	0	1	0
 deyl	wall	0	0	1	0
-deyl	deyl	0	0	1	0
 news	nvs	0	0	1	0
 news	kidney	0	0	1	0
 news	face	0	0	1	0
@@ -21313,16 +21010,8 @@ vazifalari	vazifalari	0	0	1	0
 vazifalari	16kg. weight	0	0	1	0
 vazifalari	poison	0	0	1	0
 vazifalari	i live in the us	0	0	1	0
-imagegeratnavoiyjpg	both	0	0	1	0
-imagegeratnavoiyjpg	span	0	0	1	0
-imagegeratnavoiyjpg	lay on your back	0	0	1	0
-imagegeratnavoiyjpg	to knead	0	0	1	0
-imagegeratnavoiyjpg	image: gerat navoiy. jpg	0	0	1	0
-imagegeratnavoiyjpg	paint	0	0	1	0
-imagegeratnavoiyjpg	plane	0	0	1	0
 imagegeratnavoiyjpg	image gerat navoiy jpg	0	0	1	0
-imagegeratnavoiyjpg	to divide	0	0	1	0
-imagegeratnavoiyjpg	to turn back	0	0	1	0
+imagegeratnavoiyjpg	image: gerat navoiy. jpg	0	0	1	0
 hukmdorlari	hukmdorlari	0	0	1	0
 hukmdorlari	sovereignty	0	0	1	0
 hukmdorlari	functions	0	0	1	0
@@ -21405,7 +21094,6 @@ ortga	backward	0	0	1	0
 ortga	well	0	0	1	0
 milliy	national	0	0	1	1
 milliy	milliy	0	0	1	0
-yo`nalishlari	yonalishlari	0	0	1	0
 yo`nalishlari	direction	0	0	1	0
 yo`nalishlari	yo'nalishlari	0	0	1	0
 keyinchalik	keyinchalik	0	0	1	0
@@ -21460,6 +21148,8 @@ alabama	alabama	0	0	1	0
 vatan	vatan	0	0	1	0
 vatan	homeland	0	0	1	1
 ozgartirish	ozgartirish	0	0	1	0
+gana	wins	0	0	1	0
+gana	gana	0	0	1	0
 taklifi	taklifi	0	0	1	0
 shoirlar	shoirlar	0	0	1	0
 loglar	logs	0	0	1	0
@@ -21485,8 +21175,8 @@ kela	future	0	0	1	0
 kela	kela	0	0	1	0
 kela	kaaba	0	0	1	0
 bhutan	bhutan	0	0	1	0
-gnulinux	gnulinix	0	0	1	0
 gnulinux	gnu/linux	0	0	1	0
+gnulinux	gnulinix	0	0	1	0
 gnulinux	gnulinux	0	0	1	0
 ele	n.	0	0	1	0
 ele	ele	0	0	1	0
@@ -21511,9 +21201,8 @@ ikkinchi	deep	0	0	1	0
 ikkinchi	ikkinchi	0	0	1	0
 ikkinchi	second	0	0	1	1
 ikkinchi	awl	0	0	1	0
-ikkinchi	number second	0	0	1	0
-ikkinchi	tracker	0	0	1	0
 ikkinchi	wolf	0	0	1	0
+ikkinchi	tracker	0	0	1	0
 boborahim	boborahim	0	0	1	0
 boborahim	bvbvrahym	0	0	1	0
 boborahim	paint drip	0	0	1	0
@@ -21551,7 +21240,7 @@ masalalarni	mountain top	0	0	1	0
 qaroridan	qaroridan	0	0	1	0
 амура	amypa	0	0	1	0
 qaytadan	again	0	0	1	1
-qaytadan	once more	0	0	1	1
+qaytadan	once more	0	0	1	0
 qaytadan	qaytadan	0	0	1	0
 fasldan	faldan	0	0	1	0
 fasldan	season	0	0	1	0
@@ -21685,8 +21374,8 @@ muhofaza	she has come	0	0	1	0
 muhofaza	tracker	0	0	1	0
 muhofaza	is he well?	0	0	1	0
 muhofaza	invisible	0	0	1	0
-normalarini	normalarini	0	0	1	0
-normalarini	named set	0	0	1	0
+tutishi	tutishi	0	0	1	0
+tutishi	group	0	0	1	0
 guruhni	guruhni	0	0	1	0
 guruhni	gvrvhny	0	0	1	0
 qirgiz	qirgiz	0	0	1	0
@@ -21760,7 +21449,6 @@ tim	tim	0	0	1	1
 tim	tilda	0	0	1	0
 tim	bold	0	0	1	0
 bora	unsur	0	0	1	0
-bora	field	0	0	1	1
 nt	note	0	0	1	0
 nt	nt	0	0	1	0
 imagebibikhanym	image ducks khanym	0	0	1	0
@@ -21777,9 +21465,7 @@ tavbanomasi	hot	0	0	1	0
 tavbanomasi	tavbanomasi	0	0	1	0
 eiffel	eiffel	0	0	1	0
 yozuviga	yozuviga	0	0	1	0
-yozuviga	writing	0	0	1	0
 toʻgʻrisida	to'g'risida	0	0	1	0
-toʻgʻrisida	togrisida	0	0	1	0
 ketadilar	ktadylar	0	0	1	0
 ketadilar	ketadilar	0	0	1	0
 kunlari	to envy	0	0	1	0
@@ -21791,12 +21477,12 @@ dasturlash	guide bar	0	0	1	0
 arslon	arslon	0	0	1	0
 arslon	~ning tirigi expression meaning that big shots are still big shots even after a fall from power.	0	0	1	0
 moʻjizasi	mo'izasi	0	0	1	0
-gerbi	gerbi	0	0	1	0
-gerbi	herb	0	0	1	0
+kelishilgan	galoshes	0	0	1	0
+kelishilgan	comely	0	0	1	0
+kelishilgan	klyshylgan	0	0	1	0
 yozadilar	yozadilar	0	0	1	0
 rok	rok	0	0	1	0
 rol	rol	0	0	1	0
-gretsiya	greece	0	0	1	1
 rob	lay an ambush	0	0	1	0
 rob	delight	0	0	1	0
 rob	what day?	0	0	1	0
@@ -21808,11 +21494,8 @@ hadislari	hadislari	0	0	1	0
 ma`lumot	news	0	0	1	0
 ma`lumot	education	0	0	1	0
 ma`lumot	education; information	0	0	1	0
-vaktda	obstruct	0	0	1	0
-vaktda	vaktda	0	0	1	0
-vaktda	ditty	0	0	1	0
-vaktda	hoar-frost	0	0	1	0
-vaktda	man's name	0	0	1	0
+roy	roy	0	0	1	0
+roy	obliging	0	0	1	0
 sheʼrlarini	she'rlarini	0	0	1	0
 атомной	atomhon	0	0	1	0
 jinoyat	pertaining	0	0	1	0
@@ -21919,7 +21602,6 @@ kutubxonasi	kutubxonasi	0	0	1	0
 sayt	site	0	0	1	0
 bakr	bakr	0	0	1	0
 yogin	yogin	0	0	1	0
-yogin	fat	0	0	1	0
 astronomiya	astronomy	0	0	1	1
 astronomiya	astronomiya	0	0	1	0
 fabrikasi	fabrikasi	0	0	1	0
@@ -22022,10 +21704,15 @@ toʻpi	table	0	0	1	0
 toʻpi	circle	0	0	1	0
 toʻpi	silk	0	0	1	0
 toʻpi	man	0	0	1	0
-tanazzulga		0	0	1	0
-tanazzulga	paycheck	0	0	1	0
-tanazzulga	declain	0	0	1	0
-tanazzulga	tanazzulga	0	0	1	0
+korfazi	road	0	0	1	0
+korfazi	are you short of breath?	0	0	1	0
+korfazi	hollow	0	0	1	0
+korfazi	to lose strength	0	0	1	0
+korfazi	do you like it?	0	0	1	0
+korfazi	thirteen	0	0	1	0
+korfazi	mirror	0	0	1	0
+korfazi	to call	0	0	1	0
+korfazi	korfazi	0	0	1	0
 shaxs	person	0	0	1	1
 shaxs	individual	0	0	1	0
 shaxs	shaxs	0	0	1	0
@@ -22051,9 +21738,9 @@ harorati	harorati	0	0	1	0
 ekanligini	ekanligini	0	0	1	0
 diqqatga	diqqatga	0	0	1	0
 erishdi		0	0	1	0
-erishdi	melting	0	0	1	0
-erishdi	safety	0	0	1	0
 erishdi	erishdi	0	0	1	0
+erishdi	safety	0	0	1	0
+erishdi	melting	0	0	1	0
 ilgʻor	ilg'or	0	0	1	0
 ilgʻor	operation	0	0	1	0
 trinidad	trinidad	0	0	1	0
@@ -22080,7 +21767,7 @@ anda	heilongjiang	0	0	1	0
 anda	norway	0	0	1	0
 anda	pangasinan	0	0	1	0
 unday	unday	0	0	1	0
-unday	like that	0	0	1	1
+unday	like that	0	0	1	0
 dalil	measuring	0	0	1	0
 dalil	our prestige	0	0	1	0
 dalil	to go away	0	0	1	0
@@ -22110,6 +21797,8 @@ boshlanib	to pinch	0	0	1	0
 boshlanib	home to home	0	0	1	0
 boshlanib	come	0	0	1	0
 boshlanib	nit	0	0	1	0
+saroyidagi	saroyidagi	0	0	1	0
+saroyidagi	palace	0	0	1	0
 sozlkarning	configure	0	0	1	0
 sozlkarning	sozlkarning	0	0	1	0
 husserlning	husserlning	0	0	1	0
@@ -22160,8 +21849,8 @@ yaratishga	yaratishga	0	0	1	0
 yuborish	sending	0	0	1	1
 yuborish	do	0	0	1	0
 kattaligi	habit	0	0	1	0
-kattaligi	maximum size	0	0	1	0
 kattaligi	dimension	0	0	1	0
+kattaligi	maximum size	0	0	1	0
 qo`yildi	qo'yildi	0	0	1	0
 yoldosh	yoldosh	0	0	1	0
 блог	anor	0	0	1	0
@@ -22189,7 +21878,8 @@ davriga	davriga	0	0	1	0
 премии	npemnn	0	0	1	0
 oʻzida	vzydh	0	0	1	0
 oʻzida	o'zida	0	0	1	0
-saytda	saytda	0	0	1	0
+kopchiligida	kopchiligida	0	0	1	0
+kopchiligida	kvpchylygyda	0	0	1	0
 дала	aana	0	0	1	0
 buхоrо	buxoro	0	0	1	0
 германия	repmahnr	0	0	1	0
@@ -22211,8 +21901,8 @@ ovqat	mirror	0	0	1	0
 beradi		0	0	1	0
 beradi	beradi	0	0	1	0
 beradi	cheated	0	0	1	0
-turkumyilda	turkumyilda	0	0	1	0
 turkumyilda	category: myilda	0	0	1	0
+turkumyilda	turkumyilda	0	0	1	0
 rivojlanishida	rivojlanishda	0	0	1	0
 rivojlanishida	rivojlanishida	0	0	1	0
 fenomen	fenomen	0	0	1	0
@@ -22347,9 +22037,7 @@ maqolalar	mosque	0	0	1	0
 maqolalar	newspaper articie	0	0	1	0
 maqolalar	mad	0	0	1	0
 sabab	sabad	0	0	1	0
-sabab	sabab	0	0	1	0
 sabab	cause	0	0	1	1
-ishlashgan	ishlashgan	0	0	1	0
 ishlashgan	to work	0	0	1	0
 ishlashgan	islashgan	0	0	1	0
 maʼdanlari	ma'danlari	0	0	1	0
@@ -22423,8 +22111,13 @@ tarmoqlari	to branch out	0	0	1	0
 tarmoqlari	birch tree	0	0	1	0
 tarmoqlari	branch	0	0	1	0
 tarmoqlari	happiness	0	0	1	0
-bolgar	bolgar	0	0	1	0
-bolgar	bulgarian	0	0	1	0
+venger	shoot	0	0	1	0
+venger	to burn	0	0	1	0
+venger	pass through	0	0	1	0
+venger	venger	0	0	1	0
+venger	to throw	0	0	1	0
+venger	rotating	0	0	1	0
+venger	young of a wild animal	0	0	1	0
 oʻralgan	oralgan	0	0	1	0
 oʻralgan	o'ralgan	0	0	1	0
 kelishiga	past	0	0	1	0
@@ -22501,9 +22194,7 @@ yuk	truck	0	0	1	0
 yuk	thistle	0	0	1	0
 yuk	mother	0	0	1	0
 yuk	one language is never enough	0	0	1	0
-aytadi	artery	0	0	1	0
-aytadi	aytadi	0	0	1	0
-aytadi	to go astray	0	0	1	0
+place	place	0	0	1	0
 majmuidir	majmuidir	0	0	1	0
 turi	type	0	0	1	0
 turi	turi	0	0	1	0
@@ -22561,7 +22252,6 @@ martinika	martinika	0	0	1	0
 lanka	lanka	0	0	1	0
 buddaviylik	buddha	0	0	1	0
 buddaviylik	buddaviylik	0	0	1	0
-hissasini	hissasini	0	0	1	0
 aniqlash	to become clear	0	0	1	0
 aniqlash	aniqlash	0	0	1	0
 masala	through the door	0	0	1	0
@@ -22619,7 +22309,8 @@ mavqei	pillow	0	0	1	0
 population	population	0	0	1	0
 diplomatik	diplomatic	0	0	1	1
 посадки	nocankn	0	0	1	0
-tarbiyalangan	tarbyyalangan	0	0	1	0
+xamisha	always	0	0	1	0
+xamisha	xamisha	0	0	1	0
 sovuq	sovuq	0	0	1	0
 был	abin	0	0	1	0
 aloxida	she can go	0	0	1	0
@@ -22648,10 +22339,9 @@ korxonalari	to press	0	0	1	0
 sheʼriyat	she'riyat	0	0	1	0
 qipchoq	search	0	0	1	0
 qipchoq	qipchoq	0	0	1	0
-ana	over there	0	0	1	1
+ana	over there	0	0	1	0
 ana	ana	0	0	1	0
 pro	pro	0	0	1	0
-pro	for	0	0	1	0
 xududi	lord	0	0	1	0
 xududi	xududi	0	0	1	0
 xududi	khvdvdy	0	0	1	0
@@ -22675,7 +22365,6 @@ boʻlsa	bo'lsa	0	0	1	0
 dastavval	firstly	0	0	1	0
 dastavval	river	0	0	1	0
 dastavval	dastavval	0	0	1	0
-лётчик	osmium	0	0	1	0
 лётчик	netynk	0	0	1	0
 malta	school	0	0	1	0
 malta	malta	0	0	1	0
@@ -22803,7 +22492,6 @@ siqib	cheese	0	0	1	0
 siqib	siqib	0	0	1	0
 hujjat	document	0	0	1	1
 ser	ser	0	0	1	0
-yagona	single click	0	0	1	0
 yagona	single	0	0	1	1
 yagona	sole	0	0	1	1
 qurolli	qurolli	0	0	1	0
@@ -22893,13 +22581,12 @@ review	review	0	0	1	0
 farmoyishi	farmoyishi	0	0	1	0
 shiva	shiva	0	0	1	0
 ibrat	to draw	0	0	1	0
-ibrat	ibrat	0	0	1	0
+ibrat	please speak more slowly	0	0	1	0
 ibrat	thing	0	0	1	0
 ibrat	cotton worker	0	0	1	0
 ibrat	ulcer	0	0	1	0
 ibrat	what is this?	0	0	1	0
 ibrat	lesson	0	0	1	0
-ibrat	please speak more slowly	0	0	1	0
 ibrat	very very high	0	0	1	0
 o`zbеk	o'zbek	0	0	1	0
 arafasida	arafasida	0	0	1	0
@@ -22930,7 +22617,6 @@ guitar	very well	0	0	1	0
 maʼlumotlarga	information	0	0	1	0
 maʼlumotlarga	education	0	0	1	0
 maʼlumotlarga	ma'lumotlarga	0	0	1	0
-maʼlumotlarga	contact information	0	0	1	0
 vänskä	vanska	0	0	1	0
 vänskä	banker	0	0	1	0
 cities	cities	0	0	1	0
@@ -22963,11 +22649,10 @@ faxriy	stop that	0	0	1	0
 faxriy	thirteenth	0	0	1	0
 pol	pol	0	0	1	0
 pol	involving	0	0	1	0
-pol	a unit of cropland	0	0	1	1
+pol	a unit of cropland	0	0	1	0
 hukmronlik	forward	0	0	1	0
 hukmronlik	dominion	0	0	1	1
 pok	completely	0	0	1	1
-pok	pok	0	0	1	0
 pok	clean	0	0	1	1
 iqtisodga	iqtisodga	0	0	1	0
 millatlar	millatlar	0	0	1	0
@@ -23042,8 +22727,6 @@ barabanlar	all	0	0	1	0
 barabanlar	barabanlar	0	0	1	0
 etadi	etadi	0	0	1	0
 rivojlanishga	rivojlanishga	0	0	1	0
-rivojlanishga	progressing	0	0	1	0
-rivojlanishga	developing	0	0	1	0
 sa`yharakatlar	sa'yharakatlar	0	0	1	0
 sa`yharakatlar	coll	0	0	1	0
 atashadi	sowing	0	0	1	0
@@ -23259,7 +22942,6 @@ chiqarishni	release/exhaust valve	0	0	1	0
 chiqarishni	lime-tree	0	0	1	0
 chiqarishni	he strives for knowledge	0	0	1	0
 chiqarishni	chiqarishni	0	0	1	0
-ettirdi	rolling	0	0	1	0
 ettirdi	ettirdi	0	0	1	0
 harakatlari	harakatlari	0	0	1	0
 mahkum	sound	0	0	1	0
@@ -23382,7 +23064,6 @@ qoʻshiqchilik	qvshyqchylyk	0	0	1	0
 qoʻshiqchilik	qo'shiqchilik	0	0	1	0
 qoʻshiqchilik	how sweet	0	0	1	0
 международной	meayhapoahon	0	0	1	0
-γ	and	0	0	1	0
 γ	the	0	0	1	0
 harf	harf	0	0	1	0
 harf	letter	0	0	1	1
@@ -23408,7 +23089,6 @@ mehmet	guest	0	0	1	0
 mehmet	mehmat	0	0	1	0
 bajarishi	to execute	0	0	1	0
 bajarishi	than	0	0	1	0
-bajarishi	specifies the actions that the owner is allowed to do	0	0	1	0
 jun	woolen	0	0	1	0
 jun	craw	0	0	1	0
 jun	economics	0	0	1	0
@@ -23436,7 +23116,7 @@ ziyoli	how are you?	0	0	1	0
 ziyoli	sober	0	0	1	0
 ziyoli	to jump	0	0	1	0
 mutolaa	mutolaa	0	0	1	0
-mutolaa	intense reading	0	0	1	1
+mutolaa	intense reading	0	0	1	0
 oʻyini	o'yini	0	0	1	0
 oʻyini	play	0	0	1	0
 tarqalishiga	tarqalyshyga	0	0	1	0
@@ -23515,12 +23195,10 @@ ota	ota	0	0	1	0
 tasdiqlaydi	tasdiqlaydi	0	0	1	0
 tasdiqlaydi	tasdiqladydi	0	0	1	0
 tasdiqlaydi	tasdyqlaydy	0	0	1	0
-vebsahifalarni	vebsahifalarni	0	0	1	0
 tarmoqlar	and	0	0	1	0
 tarmoqlar	to branch out	0	0	1	0
 tarmoqlar	tarmoqlar	0	0	1	0
-yevropaning	yevropaning	0	0	1	0
-yevropaning	european	0	0	1	0
+viloyat	viloyat	0	0	1	0
 savollarni	savollarni	0	0	1	0
 savollarni	question	0	0	1	0
 hikoya	hikoya	0	0	1	0
@@ -23597,17 +23275,9 @@ vazn	vazn	0	0	1	0
 vazn	weight	0	0	1	1
 janubida	janubida	0	0	1	0
 janubida	south	0	0	1	0
-erishgan	melting point	0	0	1	0
 erishgan	achieve	0	0	1	0
 erishgan	erishgan	0	0	1	0
-maktabiga	to hang on	0	0	1	0
-maktabiga	from this side	0	0	1	0
-maktabiga	to load	0	0	1	0
-maktabiga	flag	0	0	1	0
-maktabiga	will come	0	0	1	0
-maktabiga	they come	0	0	1	0
 maktabiga	maktabiga	0	0	1	0
-maktabiga	call the police	0	0	1	0
 asosini	person	0	0	1	0
 asosini	asosini	0	0	1	0
 asosini	master	0	0	1	0
@@ -23631,8 +23301,7 @@ yoʻldoshi	fellow - traveller	0	0	1	0
 yoʻldoshi	yo'ldoshi	0	0	1	0
 elektronika	electron	0	0	1	0
 elektronika	electronics	0	0	1	1
-ilmfan	ilmfan	0	0	1	0
-ilmfan	knowledge	0	0	1	0
+sony	sony	0	0	1	0
 olinadigan	olindadigan	0	0	1	0
 olinadigan	vlynadygan	0	0	1	0
 olinadigan	olinadigam	0	0	1	0
@@ -23642,8 +23311,11 @@ birliklari	birliklari	0	0	1	0
 and	and	0	0	1	0
 and	have	0	0	1	0
 olingan	olingan	0	0	1	0
-roy	roy	0	0	1	0
-roy	obliging	0	0	1	0
+vaktda	obstruct	0	0	1	0
+vaktda	vaktda	0	0	1	0
+vaktda	ditty	0	0	1	0
+vaktda	hoar-frost	0	0	1	0
+vaktda	man's name	0	0	1	0
 ma`muriy	ma'mriy	0	0	1	0
 ma`muriy	mamurity	0	0	1	0
 tillа	tilla	0	0	1	0
@@ -23658,15 +23330,13 @@ ta`minlashdan	provide for	0	0	1	0
 qishloqlarda	villager	0	0	1	0
 qishloqlarda	qishloqlarda	0	0	1	0
 tel	tel	0	0	1	0
-xorijiy	very green	0	0	1	0
-xorijiy	some one who eats	0	0	1	0
-xorijiy	xorijiy	0	0	1	0
+louvre	log file	0	0	1	0
+louvre	louvre	0	0	1	0
 tea	tea	0	0	1	0
 masihiylik	masihiylik	0	0	1	0
 tez	quick	0	0	1	1
 tez	tez	0	0	1	0
 iboratdir	iboratdir	0	0	1	0
-iboratdir	consisting	0	0	1	0
 ro`yxatlar	registrar	0	0	1	0
 ro`yxatlar	list	0	0	1	0
 ro`yxatlar	censustaker	0	0	1	0
@@ -23704,7 +23374,6 @@ suv	water	0	0	1	1
 suv	suv	0	0	1	0
 suv	underwater	0	0	1	1
 hadlar	hadlar	0	0	1	0
-sut	knew	0	0	1	0
 sut	sut	0	0	1	0
 dir	suck my cock	0	0	1	0
 dir	light yellow	0	0	1	0
@@ -23842,7 +23511,7 @@ tiklangan	prickly	0	0	1	0
 tiklangan	tiklangan	0	0	1	0
 known	known	0	0	1	0
 known	literature	0	0	1	0
-eden	eden	0	0	1	0
+salvador	salvador	0	0	1	0
 amalda	amalda	0	0	1	0
 o`rtasidagi	o'rtasidagi	0	0	1	0
 o`rtasidagi	o'rtsidagi	0	0	1	0
@@ -23893,7 +23562,6 @@ foydalanadilar	foydalanadilar	0	0	1	0
 mojarolarni	mojarolarni	0	0	1	0
 mojarolarni	incidential	0	0	1	0
 эту	ety	0	0	1	0
-populyar	popular	0	0	1	0
 populyar	pvpvlyar	0	0	1	0
 й	lazy	0	0	1	0
 й	pardon me	0	0	1	0
@@ -24022,7 +23690,6 @@ return	return	0	0	1	0
 seferi	seferi	0	0	1	0
 bosqinidan	bosqinidan	0	0	1	0
 bosqinidan	a siege	0	0	1	0
-правитель	platinum	0	0	1	0
 правитель	npabntenb	0	0	1	0
 tugatib	tugatib	0	0	1	0
 yarmida	yarmida	0	0	1	0
@@ -24120,9 +23787,7 @@ brauzer		0	0	1	0
 brauzer	brauzer	0	0	1	0
 maqolasi	article	0	0	1	0
 maqolasi	maqolasi	0	0	1	0
-sarguzashtlari	adventure	0	0	1	0
-sarguzashtlari	srgzashtlary	0	0	1	0
-sarguzashtlari	sarguashtlari	0	0	1	0
+asaka	asaka	0	0	1	0
 boradigan	boradigan	0	0	1	0
 boradigan	election	0	0	1	0
 boradigan	tovush	0	0	1	0
@@ -24151,9 +23816,16 @@ dini	dini	0	0	1	0
 toshdan	toshdan	0	0	1	0
 получили	nonyhgnnn	0	0	1	0
 получили	nonyuntn	0	0	1	0
-qo`shin	qo'shin	0	0	1	0
-qo`shin	qoshin	0	0	1	0
-qo`shin	troops	0	0	1	0
+seshanba	to separate	0	0	1	0
+seshanba	full	0	0	1	0
+seshanba	theatre	0	0	1	0
+seshanba	dusk	0	0	1	0
+seshanba	freedom	0	0	1	0
+seshanba	in the middle	0	0	1	0
+seshanba	thill	0	0	1	0
+seshanba	flag	0	0	1	0
+seshanba	seshanba	0	0	1	0
+seshanba	sshnbh	0	0	1	0
 sozlar		0	0	1	0
 sozlar	good	0	0	1	0
 sozlar	their cup	0	0	1	0
@@ -24364,10 +24036,9 @@ goyat	goyat	0	0	1	0
 izohlar	dispirited;	0	0	1	0
 izohlar	izohlar	0	0	1	0
 izohlar	exiting	0	0	1	0
-masofa	distance	0	0	1	1
-masofa	gutter	0	0	1	0
 masofa	masofa	0	0	1	0
-yaqin	near	0	0	1	1
+masofa	gutter	0	0	1	0
+kosovo	kosovo	0	0	1	0
 kosova	kosova	0	0	1	0
 kosova	poker	0	0	1	0
 kosova	chuang	0	0	1	0
@@ -24428,7 +24099,6 @@ hit	hilly	0	0	1	0
 koʻpchilikni	majority	0	0	1	0
 koʻpchilikni	ko'pchilikni	0	0	1	0
 hayvonlarni	hayvonlarni	0	0	1	0
-hayvonlarni	hyvnlarny	0	0	1	0
 b	b	0	0	1	1
 boʻlagi	cousin	0	0	1	0
 boʻlagi	alphabetical	0	0	1	0
@@ -24450,7 +24120,6 @@ falsafaning	falsafaning	0	0	1	0
 falsafaning	philosophy	0	0	1	0
 markazidir	manganese	0	0	1	0
 markazidir	markazidir	0	0	1	0
-jadal	datasheet	0	0	1	0
 jadal	allocation	0	0	1	0
 jadal	post	0	0	1	0
 o`rnida	example	0	0	1	0
@@ -24504,7 +24173,6 @@ ingl	ingl	0	0	1	0
 saryomiy	saryomiy	0	0	1	0
 nyuhempshir	nyuhemshir	0	0	1	0
 nyuhempshir	nyuhempshir	0	0	1	0
-nyuhempshir	nyu-hempshir	0	0	1	0
 targibot	targibot	0	0	1	0
 targibot	propaganda	0	0	1	0
 klux	old	0	0	1	0
@@ -24573,7 +24241,6 @@ ibratli	place	0	0	1	0
 одержал	oxysion	0	0	1	0
 qoʻshiq	song	0	0	1	0
 qoʻshiq	qo'shiq	0	0	1	0
-yo`nalishlarda	yo'nalishlarda	0	0	1	0
 manbalar	manbalar	0	0	1	0
 oziq	oziq	0	0	1	0
 oziq	provisions	0	0	1	1
@@ -24586,13 +24253,12 @@ qoʻshin	pair	0	0	1	0
 qoʻshin	waitress	0	0	1	0
 oʻrindagi	o'rindagi	0	0	1	0
 oʻrindagi	o'rindai	0	0	1	0
-imkoniyat	imkoniyat	0	0	1	0
 imkoniyat	possibility	0	0	1	1
 imkoniyat	imikoniyat	0	0	1	0
 ishini	ishini	0	0	1	0
 ishini	unsleeping;	0	0	1	0
-elektronni	electron	0	0	1	0
-elektronni	elektronni	0	0	1	0
+bozoriga	bozoriga	0	0	1	0
+bozoriga	botswana	0	0	1	0
 px	px	0	0	1	0
 due		0	0	1	0
 due	postage due	0	0	1	0
@@ -24774,7 +24440,6 @@ jamoatchilik	community	0	0	1	1
 jamoatchilik	untalented	0	0	1	0
 olmoniya	olmoniya	0	0	1	0
 fazogiri	fazogiri	0	0	1	0
-janri	genre	0	0	1	0
 janri	janri	0	0	1	0
 markazidan	markazidan	0	0	1	0
 markazidan	mrkzydan	0	0	1	0
@@ -24786,7 +24451,6 @@ mukofotiga	reward	0	0	1	0
 mukofotiga	mukofotiga	0	0	1	0
 frontiga	front	0	0	1	0
 frontiga	frontiga	0	0	1	0
-denilen	dnyln	0	0	1	0
 denilen	deism	0	0	1	0
 май	man	0	0	1	0
 tezlanishi	acceleration	0	0	1	0
@@ -24871,13 +24535,11 @@ anne	anne	0	0	1	0
 geliy	geliy	0	0	1	0
 geliy	helium	0	0	1	1
 yashovchi	yashovchi	0	0	1	0
-yashovchi	to live	0	0	1	0
 yashovchi	anonymous	0	0	1	0
 kxdr	kxdr	0	0	1	0
 toʻgʻridantoʻgʻri	will	0	0	1	0
 toʻgʻridantoʻgʻri	to'g'ridanto'g'ri	0	0	1	0
 toʻgʻridantoʻgʻri	togridantogri	0	0	1	0
-tayinlandi	tyinlandi	0	0	1	0
 tayinlandi	tayynlndy	0	0	1	0
 tayinlandi	tayinlandi	0	0	1	0
 manbalarga	source	0	0	1	0
@@ -24991,7 +24653,6 @@ kelayotgan	kelayotgan	0	0	1	0
 qibris	cyprus	0	0	1	0
 qibris	qibris	0	0	1	0
 kunga	knga	0	0	1	0
-kunga	mr	0	0	1	0
 habar	habar	0	0	1	0
 habar	idea	0	0	1	0
 z	z	0	0	1	0
@@ -24999,9 +24660,8 @@ qabilalar	break	0	0	1	0
 qabilalar	qabilalar	0	0	1	0
 tarki	tarki	0	0	1	0
 tarki	strucutue	0	0	1	0
-kelmasligi	kelmasligi	0	0	1	0
-kelmasligi	come	0	0	1	0
-kelmasligi	inbox	0	0	1	0
+tuman	tuman	0	0	1	0
+tuman	fog	0	0	1	1
 millat	millat	0	0	1	0
 millat	republic of uzbekistan	0	0	1	0
 millat	house	0	0	1	0
@@ -25093,9 +24753,7 @@ uchrashuvda	uchrashuvda	0	0	1	0
 uchrashuvda	though	0	0	1	0
 borland	borland	0	0	1	0
 asoschilari	qasoskor	0	0	1	0
-asoschilari	intiator	0	0	1	0
 asoschilari	asoschilari	0	0	1	0
-asoschilari	founder	0	0	1	0
 foydasiga	useless	0	0	1	0
 foydasiga	foydasiga	0	0	1	0
 tohariston	tohariston	0	0	1	0
@@ -25109,8 +24767,8 @@ solishga	solishga	0	0	1	0
 nasl	nasl	0	0	1	0
 nasl	family	0	0	1	1
 once	once	0	0	1	0
-insonning	insonning	0	0	1	0
-insonning	human	0	0	1	0
+itoat	itoat	0	0	1	0
+itoat	italy	0	0	1	0
 tokelau	tokelau	0	0	1	0
 edi	edi	0	0	1	0
 yotgan	light	0	0	1	0
@@ -25128,7 +24786,6 @@ dasturiy	software	0	0	1	0
 своего	cboero	0	0	1	0
 стали	however.	0	0	1	0
 стали	ctann	0	0	1	0
-стало	ctona	0	0	1	0
 стало	ctano	0	0	1	0
 vikipediyasining	wikipedia sining	0	0	1	0
 vikipediyasining	vwikipedia	0	0	1	0
@@ -25164,13 +24821,11 @@ qarashlarga	qarashlarga	0	0	1	0
 qarashlarga	to help	0	0	1	0
 eslatmalar	eslatmalar	0	0	1	0
 assambleyaning	assambleyaning	0	0	1	0
-assambleyaning	assembly	0	0	1	0
 hozirda	ready	0	0	1	0
 hozirda	hozirda	0	0	1	0
 hozirda	prepared	0	0	1	0
 kaledoniya	what?	0	0	1	0
 kaledoniya	stop	0	0	1	0
-kaledoniya	new caledonia	0	0	1	0
 kaledoniya	kaledoniya	0	0	1	0
 kaledoniya	birch bark	0	0	1	0
 kaledoniya	hawk	0	0	1	0
@@ -25205,8 +24860,7 @@ sohalardagi	sohalardagi	0	0	1	0
 билл	aann	0	0	1	0
 билл	distant	0	0	1	0
 билл	one who reclaims arid land	0	0	1	0
-dastlab	initially	0	0	1	1
-dastlab	at first	0	0	1	1
+dastlab	at first	0	0	1	0
 dastlab	wheat	0	0	1	0
 holatdagi	as if afraid	0	0	1	0
 holatdagi	there	0	0	1	0
@@ -25593,8 +25247,8 @@ tabariy	revered	0	0	1	0
 tabariy	nature	0	0	1	0
 saljuqiylar	saljqiylar	0	0	1	0
 saljuqiylar	salijuqiylar	0	0	1	0
-maqsadda	maqsadda	0	0	1	0
 maqsadda	address bar	0	0	1	0
+maqsadda	maqsadda	0	0	1	0
 shayxzoda	shayxzoda	0	0	1	0
 manfiy	manfiy	0	0	1	0
 manfiy	swings	0	0	1	0
@@ -25602,11 +25256,6 @@ manfiy	negative	0	0	1	1
 teizm	russian)	0	0	1	0
 teizm	teizm	0	0	1	0
 singari	singer	0	0	1	0
-singari	well-equipped	0	0	1	0
-singari	leader of a thousand	0	0	1	0
-singari	look here	0	0	1	0
-singari	hook	0	0	1	0
-singari	weaving shuttle	0	0	1	0
 singari	singari	0	0	1	0
 sohiboev	owner	0	0	1	0
 sohiboev	bless	0	0	1	0
@@ -25637,8 +25286,8 @@ ddin	one hundred	0	0	1	0
 ddin	elk	0	0	1	0
 ddin	ddin	0	0	1	0
 boshlashga	boshlashga	0	0	1	0
-sonining	sonining	0	0	1	0
 sonining	wrangle	0	0	1	0
+sonining	sonining	0	0	1	0
 muammosi	muammosi	0	0	1	0
 material	material	0	0	1	1
 termachi	popular	0	0	1	0
@@ -25873,9 +25522,6 @@ qismi	the extra part	0	0	1	0
 qismi	part	0	0	1	0
 qismi	hair of head	0	0	1	0
 qismi	a pinch	0	0	1	0
-moskvadagi	tulip	0	0	1	0
-moskvadagi	moskvadagi	0	0	1	0
-moskvadagi	from this side	0	0	1	0
 ratsionalizm	rationalism	0	0	1	1
 ratsionalizm	ratsionaliizm	0	0	1	0
 население	to make holes	0	0	1	0
@@ -25987,7 +25633,6 @@ hisoblaydi	pyramid	0	0	1	0
 hisoblaydi	to hide	0	0	1	0
 hisoblaydi	to swim	0	0	1	0
 hisoblaydi	her being tempered	0	0	1	0
-деятель	georgetown	0	0	1	0
 eritriya	eritrea	0	0	1	0
 eritriya	eritriya	0	0	1	0
 mustaqillik	musician	0	0	1	0
@@ -26006,17 +25651,9 @@ chiqadigan	chiqadigan	0	0	1	0
 chiqadigan	infinitely large	0	0	1	0
 населения	hacenehnr	0	0	1	0
 населения	karakul	0	0	1	0
-tinch	spring	0	0	1	0
-tinch	all of this	0	0	1	0
-tinch	downwards	0	0	1	0
-tinch	add to	0	0	1	0
-tinch	so much	0	0	1	0
-tinch	election	0	0	1	0
-tinch	tinch	0	0	1	0
-tinch	bazm:	0	0	1	0
-kelishilgan	galoshes	0	0	1	0
-kelishilgan	comely	0	0	1	0
-kelishilgan	klyshylgan	0	0	1	0
+uefa	uefa	0	0	1	0
+gerbi	gerbi	0	0	1	0
+gerbi	herb	0	0	1	0
 erisha	inopportune.	0	0	1	0
 erisha	erisha	0	0	1	0
 erisha	melting	0	0	1	0
@@ -26057,8 +25694,8 @@ ulugh	ulugh	0	0	1	0
 канада	kahaaa	0	0	1	0
 ulug`	great	0	0	1	0
 ulug`	ulag'	0	0	1	0
-saroyidagi	saroyidagi	0	0	1	0
-saroyidagi	palace	0	0	1	0
+okkurgon	okkurgon	0	0	1	0
+okkurgon	okkkurgon	0	0	1	0
 mavzu	mavzu	0	0	1	0
 награжден	harpa*aeh	0	0	1	0
 isbotlar	hit	0	0	1	0
@@ -26237,7 +25874,7 @@ yozildi	yozlidi	0	0	1	0
 yozildi	yozildi	0	0	1	0
 yozildi	be writtern	0	0	1	0
 moʻmin	mo'min	0	0	1	0
-nisbatan	compared to	0	0	1	1
+nisbatan	compared to	0	0	1	0
 nisbatan	percentage	0	0	1	0
 nisbatan	nisbatan	0	0	1	0
 tuzadi	tuzadi	0	0	1	0
@@ -26346,7 +25983,8 @@ jenni	jenni	0	0	1	0
 asosida	asosida	0	0	1	0
 asosida	main	0	0	1	0
 asosida	lightweight	0	0	1	0
-türkiye	turkey	0	0	1	0
+paygambar	one who considers.	0	0	1	0
+paygambar	paygmbr	0	0	1	0
 madrasa	madrasah	0	0	1	0
 madrasa	madrasa	0	0	1	1
 avv	good	0	0	1	0
@@ -26361,7 +25999,6 @@ imagemthood	imagehood	0	0	1	0
 kuchi	intensity	0	0	1	0
 kuchi	kuchi	0	0	1	0
 kuchi	gravitation	0	0	1	0
-avj	peak	0	0	1	1
 avj	avj	0	0	1	0
 oʻrtasida	among	0	0	1	0
 oʻrtasida	ortasida	0	0	1	0
@@ -26484,12 +26121,11 @@ aloqalari	aloqalari	0	0	1	0
 boʻldum	bo'ldum	0	0	1	0
 sanskrit	sanskrit	0	0	1	1
 sanskrit	kolxoz	0	0	1	0
-berish	name	0	0	1	0
-berish	online precessing	0	0	1	0
-berish	rock	0	0	1	0
-berish	wild mint	0	0	1	0
-berish	i am from	0	0	1	0
 berish	berish	0	0	1	0
+berish	wild mint	0	0	1	0
+berish	name	0	0	1	0
+berish	i am from	0	0	1	0
+berish	rock	0	0	1	0
 mavjudligiga	manager	0	0	1	0
 mavjudligiga	presence	0	0	1	0
 kechki	kechki	0	0	1	0
@@ -26629,7 +26265,6 @@ jadidayi	jadidayi	0	0	1	0
 toʻgʻri	to'g'ri	0	0	1	0
 toʻgʻri	tog	0	0	1	0
 yodgorliklar	yodgorliklar	0	0	1	0
-yodgorliklar	guide	0	0	1	0
 mahkamasini	tough	0	0	1	0
 mahkamasini	object	0	0	1	0
 mahkamasini	mahkamasini	0	0	1	0
@@ -26665,7 +26300,6 @@ futbolchilari	village	0	0	1	0
 sanktpeterburg	sanktpeterburg	0	0	1	0
 sanktpeterburg	sanction	0	0	1	0
 uyushmasida	uyushmasida	0	0	1	0
-kimlar	kimlar	0	0	1	0
 channing	channing	0	0	1	0
 own	own	0	0	1	0
 elvisning	elvisning	0	0	1	0
@@ -26742,7 +26376,6 @@ uylangan	cell spacing	0	0	1	0
 сына	cbiha	0	0	1	0
 zahiralariga	body	0	0	1	0
 zahiralariga	announcement	0	0	1	0
-zahiralariga	zahiralariga	0	0	1	0
 zahiralariga	united	0	0	1	0
 zahiralariga	hilt	0	0	1	0
 zahiralariga	back	0	0	1	0
@@ -26776,11 +26409,10 @@ kitobning	kytvbnyng	0	0	1	0
 iphone	having	0	0	1	0
 iphone	iphone	0	0	1	0
 yiliga	yiliga	0	0	1	0
-uefa	uefa	0	0	1	0
+yo`nalishlarda	yo'nalishlarda	0	0	1	0
 abbos	abbos	0	0	1	0
 февраль	aebpanb	0	0	1	0
 konvensiyasi	konvensiyasi	0	0	1	0
-konvensiyasi	sensitive help	0	0	1	0
 masalasini	issue	0	0	1	0
 masalasini	question	0	0	1	0
 masalasini	masalasini	0	0	1	0

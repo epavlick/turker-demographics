@@ -96,7 +96,9 @@ porterà	bring	0	0	1	0
 porterà	will bring	0	0	1	0
 ospiti	company	0	0	1	1
 ospiti	guests	0	0	1	0
-esposti	exposed	0	0	1	0
+elaborato	elaborate	0	0	1	1
+elaborato	work	0	0	1	0
+elaborato	script	0	0	1	1
 kids	kids	0	0	1	0
 militare	military	0	0	1	1
 militare	militar	0	0	1	0
@@ -107,7 +109,6 @@ militari	military	0	0	1	0
 k	eleventh letter of the italian alphabet	0	0	1	0
 dovuti	have to	0	0	1	0
 dovuti	due	0	0	1	0
-dovuti	due to	0	0	1	0
 esposte	exposed	0	0	1	0
 dovuto	due	0	0	1	1
 dovuto	have	0	0	1	0
@@ -190,7 +191,6 @@ suona	playing	0	0	1	0
 determinazione	determination	0	0	1	1
 danimarca	denmark	0	0	1	1
 trecento	three hundred	0	0	1	0
-trecento	fourteenth century	0	0	1	0
 pianificazione	pianificazione	0	0	1	0
 pianificazione	planning	0	0	1	1
 etichetta	label	0	0	1	1
@@ -214,12 +214,12 @@ diritto	right	0	0	1	1
 esito	outcome	0	0	1	1
 diritti	rights	0	0	1	0
 sedi	locations	0	0	1	0
-sedi	headquarters	0	0	1	0
 winx	winx	0	0	1	0
 appartenenti	belonging	0	0	1	0
 appartenenti	belongin	0	0	1	0
 appartenenti	members	0	0	1	0
 appartenente	belonging	0	0	1	0
+scrittrice	writer	0	0	1	0
 giovanili	youth	0	0	1	0
 wind	wind	0	0	1	0
 lunico	the only	0	0	1	0
@@ -263,7 +263,6 @@ cristoforo	george	0	0	1	0
 cristoforo	christoper	0	0	1	0
 enrico	enrico	0	0	1	0
 cacciatore	hunter	0	0	1	1
-tornano	return	0	0	1	0
 tornano	back	0	0	1	0
 dicendogli	saying	0	0	1	0
 dicendogli	telling him	0	0	1	0
@@ -299,7 +298,6 @@ urbani	urban	0	0	1	0
 urbani	urbans	0	0	1	0
 urbano	urban	0	0	1	1
 sembrano	seem	0	0	1	0
-sembrano	seem to	0	0	1	0
 crosta	crust	0	0	1	1
 urbana	urban	0	0	1	0
 lalchimia	alchemy	0	0	1	0
@@ -366,7 +364,6 @@ xiv	xiv	0	0	1	0
 xix	xix	0	0	1	0
 xix	19th	0	0	1	0
 ragione	reason	0	0	1	1
-ragione	region	0	0	1	0
 genesis	genesis	0	0	1	0
 collaterali	side	0	0	1	0
 quotidiana	daily	0	0	1	0
@@ -407,6 +404,7 @@ lisbona	lisbon	0	0	1	1
 spiaggia	beach	0	0	1	1
 niccolò	niccolo	0	0	1	0
 niccolò	nicole	0	0	1	0
+television	television	0	0	1	0
 vicinanza	proximity	0	0	1	1
 vicinanza	closeness	0	0	1	1
 vicinanze	closeness	0	0	1	0
@@ -420,7 +418,6 @@ lesame	lesame	0	0	1	0
 lesame	the exam	0	0	1	0
 fondo	fund	0	0	1	1
 fondo	background	0	0	1	1
-salvatore	name	0	0	1	0
 montenegro	montenegro	0	0	1	0
 erano	were	0	0	1	0
 victoria	victory	0	0	1	0
@@ -457,8 +454,8 @@ vicine	near	0	0	1	0
 teresa	teresa	0	0	1	0
 vicina	close	0	0	1	0
 vicina	near	0	0	1	0
-nellitalia	traversing	0	0	1	0
-nellitalia	in italy	0	0	1	0
+sentiva	felt	0	0	1	0
+sentiva	was feeling	0	0	1	0
 concentra	focuses	0	0	1	0
 ispirato	inspired	0	0	1	0
 ispirati	inspired	0	0	1	0
@@ -469,7 +466,7 @@ deluso	disappointed	0	0	1	1
 sosta	stop	0	0	1	1
 bush	bush	0	0	1	0
 meno	less	0	0	1	1
-dolore	pain	0	0	1	1
+rick	rick	0	0	1	0
 dolori	pains	0	0	1	1
 salva	save	0	0	1	0
 salva	salute	0	0	1	1
@@ -480,7 +477,7 @@ rinnovabili	renewable	0	0	1	0
 strumentale	instrumental	0	0	1	1
 firenze	florence	0	0	1	1
 carmen	carmen	0	0	1	0
-dautore	dautore	0	0	1	0
+new	nuovo	0	0	1	0
 terrore	terror	0	0	1	1
 intorno	about	0	0	1	1
 fanteria	infantry	0	0	1	1
@@ -505,13 +502,11 @@ quaranta	forty	0	0	1	1
 quaranta	fourty	0	0	1	0
 tubercolosi	tuberculosis	0	0	1	1
 labbandono	labbandono	0	0	1	0
-labbandono	abandonment	0	0	1	0
 labbandono	the abandomnment	0	0	1	0
 best	best	0	0	1	0
 stilista	stylist	0	0	1	1
 stampa	print	0	0	1	1
 altamente	highly	0	0	1	1
-oceania	oceania	0	0	1	1
 oceania	ocean	0	0	1	0
 stampe	prints	0	0	1	0
 manson	manson	0	0	1	0
@@ -523,7 +518,6 @@ stampo	mold	0	0	1	1
 xvi	xvi	0	0	1	0
 pirati	pirates	0	0	1	0
 dichiarazione	statement	0	0	1	1
-dichiarazione	declaration	0	0	1	1
 pirata	pirate	0	0	1	1
 dichiarazioni	statements	0	0	1	0
 side	side	0	0	1	0
@@ -565,7 +559,7 @@ dora	from now	0	0	1	0
 dora	dora	0	0	1	0
 suscitò	stir up	0	0	1	0
 suscitò	aroused	0	0	1	0
-seri	serious	0	0	1	0
+unottima	unottima	0	0	1	0
 significati	meanings	0	0	1	0
 categoriafilm	category: movies	0	0	1	0
 categoriafilm	category film	0	0	1	0
@@ -584,9 +578,7 @@ esempi	examples	0	0	1	0
 stadium	codes	0	0	1	0
 imparare	learn	0	0	1	1
 romanzo	novel	0	0	1	1
-elaborato	elaborate	0	0	1	1
-elaborato	work	0	0	1	0
-elaborato	script	0	0	1	1
+esposti	exposed	0	0	1	0
 life	life	0	0	1	0
 dannunzio	the announcement	0	0	1	0
 dannunzio	d'annunzio	0	0	1	0
@@ -596,7 +588,9 @@ strettamente	closely	0	0	1	1
 malavoglia	reluctantly	0	0	1	0
 malavoglia	malavoglia	0	0	1	0
 dave	dave	0	0	1	0
-costanzo	costanzo	0	0	1	0
+spia	spy	0	0	1	1
+spia	spies	0	0	1	0
+spia	light	0	0	1	1
 omosessuali	homosexuals	0	0	1	0
 dava	gave	0	0	1	0
 child	child	0	0	1	0
@@ -616,7 +610,6 @@ sanitaria	health	0	0	1	0
 commerci	commerce	0	0	1	0
 commerci	trades	0	0	1	0
 commerci	businesses	0	0	1	0
-castro	castrated	0	0	1	0
 castro	castro	0	0	1	0
 viii	8	0	0	1	0
 viii	eighth	0	0	1	0
@@ -642,6 +635,9 @@ provinciali	provincial	0	0	1	0
 lucraina	ukraine	0	0	1	0
 lucraina	the ukraine	0	0	1	0
 things	things	0	0	1	0
+seguì	follow	0	0	1	0
+seguì	sequi	0	0	1	0
+seguì	followed	0	0	1	0
 principale	main	0	0	1	1
 provinciale	provincial	0	0	1	1
 big	big	0	0	1	0
@@ -654,14 +650,11 @@ assistente	assistant	0	0	1	1
 slovenia	slovenia	0	0	1	0
 controverso	controversial contentious moot argumentative	0	0	1	0
 controverso	controversial	0	0	1	1
-ritengono	believe	0	0	1	0
+progressivamente	progressively	0	0	1	1
 coloniale	colonial	0	0	1	1
 resta	remains	0	0	1	0
-resta	remain	0	0	1	0
 resta	stays	0	0	1	0
 elezioni	elections	0	0	1	0
-nominata	elected	0	0	1	0
-nominata	appointed	0	0	1	0
 elezione	election	0	0	1	1
 rinnovato	renewed	0	0	1	1
 raffaele	raffaele	0	0	1	0
@@ -729,8 +722,7 @@ animata	animated	0	0	1	0
 creativo	creative	0	0	1	1
 creativa	creative	0	0	1	0
 fox	fox	0	0	1	0
-lartista	the artist	0	0	1	0
-lartista	artist	0	0	1	0
+serpente	snake	0	0	1	1
 indicare	indicate	0	0	1	1
 ciro	ciro	0	0	1	0
 filamenti	filaments	0	0	1	0
@@ -753,7 +745,8 @@ emilio	emilio	0	0	1	0
 emilia	emilia	0	0	1	0
 nixon	nixon	0	0	1	0
 umane	human	0	0	1	0
-ginevra	geneva	0	0	1	1
+corrispondenza	correspondense	0	0	1	0
+corrispondenza	correspondence	0	0	1	1
 umana	human	0	0	1	0
 marshall	marshall	0	0	1	0
 umano	human	0	0	1	1
@@ -778,7 +771,6 @@ call	call	0	0	1	0
 autobiografia	autobiography	0	0	1	1
 happy	happy	0	0	1	0
 spunto	cue	0	0	1	1
-spunto	idea	0	0	1	0
 spunti	cues	0	0	1	0
 spunti	ideas	0	0	1	0
 talenti	talents	0	0	1	0
@@ -802,7 +794,6 @@ peso	burden	0	0	1	1
 peso	weight	0	0	1	1
 provenienza	origin	0	0	1	1
 provenienza	origin provenance source	0	0	1	0
-fermo	catch	0	0	1	1
 fermo	firm	0	0	1	1
 fermo	hold	0	0	1	0
 scacchi	chess	0	0	1	1
@@ -822,7 +813,6 @@ moderni	modern	0	0	1	0
 moderni	moderns	0	0	1	0
 prefetto	perfect	0	0	1	0
 prefetto	prefect	0	0	1	1
-interpretato	interpreted	0	0	1	0
 moderno	modern	0	0	1	1
 scritta	written	0	0	1	0
 potuto	could	0	0	1	1
@@ -859,8 +849,8 @@ passare	pass	0	0	1	1
 passare	passage	0	0	1	0
 richiamo	call	0	0	1	1
 chiusa	closed	0	0	1	0
-palma	palma	0	0	1	0
 palma	palm	0	0	1	1
+palma	palma	0	0	1	0
 chiuse	closed	0	0	1	0
 miranda	miranda	0	0	1	0
 rolling	rolling	0	0	1	0
@@ -904,20 +894,19 @@ pubblicità	advertisement	0	0	1	1
 allaltra	the other	0	0	1	0
 raggi	rays	0	0	1	0
 raggi	ray	0	0	1	0
-per	for	0	0	1	1
+figlia	daughter	0	0	1	1
 rispettare	respect	0	0	1	1
 corpo	body	0	0	1	1
 corpo	corps	0	0	1	1
 corpi	bodies	0	0	1	0
 ward	ward	0	0	1	0
 viceversa	vice versa	0	0	1	1
-dono	gift	0	0	1	1
 archivio	archive	0	0	1	1
 templi	temples	0	0	1	0
 polare	polar	0	0	1	1
 trasferirsi	move to	0	0	1	0
-trasferirsi	to move	0	0	1	0
 trasferirsi	relocate	0	0	1	1
+trasferirsi	to move	0	0	1	0
 pugno	handful	0	0	1	1
 pugno	fist	0	0	1	1
 choice	choice	0	0	1	0
@@ -962,8 +951,7 @@ penale	penitentiary	0	0	1	0
 penale	criminal	0	0	1	1
 tullio	thulium	0	0	1	0
 tullio	tullio	0	0	1	0
-prevista	expected	0	0	1	0
-prevista	planned	0	0	1	0
+maschere	masks	0	0	1	0
 previste	scheduled	0	0	1	0
 previste	provided	0	0	1	0
 previste	expected	0	0	1	0
@@ -1011,7 +999,6 @@ colonne	columns	0	0	1	0
 colonne	soundtracks	0	0	1	0
 effetti	effects	0	0	1	0
 laffermazione	laffermazione	0	0	1	0
-laffermazione	the statement	0	0	1	0
 risultato	result	0	0	1	1
 basilicata	basilicata	0	0	1	0
 love	love	0	0	1	0
@@ -1043,8 +1030,7 @@ positivi	positives	0	0	1	0
 positivi	positive	0	0	1	0
 positive	positive	0	0	1	0
 positiva	positive	0	0	1	0
-colpiti	affected	0	0	1	0
-colpiti	hit	0	0	1	0
+by	by	0	0	1	0
 curioso	curious	0	0	1	1
 curioso	onlooker	0	0	1	0
 scopi	purposes	0	0	1	0
@@ -1137,7 +1123,8 @@ si	is	0	0	1	0
 si	one	0	0	1	1
 so	i	0	0	1	0
 so	i know	0	0	1	0
-chiamati	called	0	0	1	0
+sorgere	rise	0	0	1	1
+sorgere	raise	0	0	1	0
 sa	knows	0	0	1	0
 sa	know	0	0	1	0
 londra	london	0	0	1	1
@@ -1147,13 +1134,12 @@ frequenti	frequent	0	0	1	0
 allincirca	about	0	0	1	0
 allincirca	allincirca	0	0	1	0
 allincirca	approximately	0	0	1	0
-piedi	feet	0	0	1	1
+professore	professor	0	0	1	1
 corrisponde	corresponding to	0	0	1	0
 corrisponde	corresponds	0	0	1	0
 piede	foot	0	0	1	1
 cofanetto	casket	0	0	1	1
 cofanetto	coffin	0	0	1	0
-frequente	frequently	0	0	1	0
 frequente	frequent	0	0	1	1
 kong	kong	0	0	1	0
 squadre	teams	0	0	1	1
@@ -1174,9 +1160,7 @@ chiamata	call	0	0	1	1
 chiamata	called	0	0	1	0
 toro	bull	0	0	1	1
 salvarsi	save	0	0	1	0
-presunta	suspected	0	0	1	0
-presunta	alleged	0	0	1	0
-presunta	presumed	0	0	1	0
+tbag	tbag	0	0	1	0
 visitatori	visitors	0	0	1	0
 visitatori	visitant	0	0	1	0
 visitatori	visitor	0	0	1	0
@@ -1197,11 +1181,10 @@ romanticismo	romance	0	0	1	1
 romanticismo	romanticism	0	0	1	1
 romanticismo	romantic	0	0	1	0
 esame	examination	0	0	1	1
-caccia	hunt	0	0	1	1
-caccia	hunting	0	0	1	1
+esami	examinations	0	0	1	0
+esami	exams	0	0	1	0
 lucca	lucca	0	0	1	0
 convinta	convinced	0	0	1	0
-annuale	annual	0	0	1	1
 square	square	0	0	1	0
 prendendo	taking	0	0	1	0
 compie	make	0	0	1	0
@@ -1269,15 +1252,13 @@ basso	low	0	0	1	1
 punk	punk	0	0	1	1
 bassi	low	0	0	1	0
 gordon	gordon	0	0	1	0
-bulgaria	country in southeastern europe	0	0	1	0
-bulgaria	bulgaria	0	0	1	1
+collegate	connected	0	0	1	0
 seguirono	following	0	0	1	0
 seguirono	followed	0	0	1	0
 potter	potter	0	0	1	0
 esempio	example	0	0	1	1
 one	one	0	0	1	0
 voto	vote	0	0	1	1
-voto	voting	0	0	1	1
 voti	votes	0	0	1	0
 plotarea	plotarea	0	0	1	0
 capaci	capable	0	0	1	0
@@ -1325,7 +1306,6 @@ diabete	diabetes	0	0	1	1
 contare	count	0	0	1	1
 contare	counted	0	0	1	0
 sconvolto	shattered	0	0	1	1
-sconvolto	very emotional	0	0	1	0
 sconvolto	upset	0	0	1	1
 allen	allen	0	0	1	0
 turner	turner	0	0	1	0
@@ -1345,8 +1325,7 @@ noti	famous	0	0	1	0
 noti	known	0	0	1	0
 torinese	turinese	0	0	1	0
 torinese	turin	0	0	1	0
-concorrenti	competitors	0	0	1	0
-concorrenti	partecipants	0	0	1	0
+comprendeva	included	0	0	1	0
 compreso	included	0	0	1	1
 compreso	from	0	0	1	0
 detenuti	prisoners	0	0	1	0
@@ -1356,16 +1335,14 @@ parzialmente	partially	0	0	1	0
 comprese	including	0	0	1	0
 cristallo	crystal	0	0	1	1
 uranio	uranium	0	0	1	1
-archi	archs	0	0	1	0
-archi	arcs	0	0	1	0
-vennero	they came	0	0	1	0
+vasto	wide	0	0	1	1
+vasto	vast	0	0	1	1
 vennero	were	0	0	1	0
-boys	english word	0	0	1	0
 sala	hall	0	0	1	1
 sala	room	0	0	1	1
 vasta	wide	0	0	1	0
 phil	phil	0	0	1	0
-sale	salt	0	0	1	1
+drive	drive	0	0	1	1
 vaste	large	0	0	1	0
 piattaforma	platform	0	0	1	1
 ribellione	rebellion	0	0	1	1
@@ -1376,8 +1353,8 @@ citazioni	mentions	0	0	1	0
 beckham	beckham	0	0	1	0
 arrivati	comers	0	0	1	0
 arrivati	arrived	0	0	1	0
-vescovo	bischop	0	0	1	0
 vescovo	bishop	0	0	1	1
+vescovo	bischop	0	0	1	0
 citazione	quote	0	0	1	1
 macedonia	macedonia	0	0	1	0
 macedonia	fruit salad	0	0	1	0
@@ -1442,8 +1419,6 @@ primo	first	0	0	1	1
 primi	firsts	0	0	1	0
 primi	first	0	0	1	0
 roger	roger	0	0	1	0
-sperimentali	sperimental	0	0	1	0
-sperimentali	experimental	0	0	1	0
 where	where	0	0	1	0
 pubblica	public	0	0	1	0
 pubblica	publish	0	0	1	0
@@ -1508,7 +1483,6 @@ persiano	persian persian cat	0	0	1	0
 universitarie	university	0	0	1	0
 guitar	guitar	0	0	1	0
 guitar	chitarra	0	0	1	0
-ambienti	environment	0	0	1	0
 ambienti	environments	0	0	1	0
 forniscono	provide	0	0	1	0
 forniscono	give	0	0	1	0
@@ -1516,7 +1490,7 @@ s	s	0	0	1	0
 mani	hands	0	0	1	0
 portavoce	spokesman	0	0	1	1
 portavoce	spokesperson	0	0	1	1
-mano	hand	0	0	1	1
+traduzione	translation	0	0	1	1
 minima	minim half-note	0	0	1	0
 minima	minimum	0	0	1	0
 panico	panic	0	0	1	1
@@ -1597,10 +1571,10 @@ sicilia	sicily	0	0	1	0
 poliziotti	police	0	0	1	0
 poliziotto	policeman	0	0	1	1
 incontra	meets	0	0	1	0
-wilhelm	wilhelm	0	0	1	0
+continuando	continuing	0	0	1	0
+continuando	continued	0	0	1	0
 otto	eight	0	0	1	1
 pioggia	rain	0	0	1	1
-incontri	meets	0	0	1	0
 incontri	meetings	0	0	1	0
 sigle	abbreviations	0	0	1	0
 sigle	theme	0	0	1	0
@@ -1610,7 +1584,6 @@ sterminio	extermination	0	0	1	1
 sterminio	killing	0	0	1	1
 sigla	abbreviation	0	0	1	1
 sigla	opening theme	0	0	1	0
-sigla	signature	0	0	1	0
 linsieme	linsieme	0	0	1	0
 linsieme	the entire	0	0	1	0
 esperti	experts	0	0	1	0
@@ -1676,7 +1649,6 @@ inferiore	lower	0	0	1	1
 inferiore	inferior	0	0	1	1
 regio	royal	0	0	1	1
 pisano	pisa	0	0	1	0
-pisano	pisano	0	0	1	0
 world	world	0	0	1	0
 regia	direction	0	0	1	1
 riteneva	considered	0	0	1	0
@@ -1722,11 +1694,10 @@ vicenza	vicenza	0	0	1	0
 cittadina	town	0	0	1	0
 cittadina	little city	0	0	1	0
 cittadina	small town	0	0	1	0
-situati	located	0	0	1	0
 situati	placed	0	0	1	0
+situati	located	0	0	1	0
 dimensione	size	0	0	1	1
 nicole	nicole	0	0	1	0
-situato	can be found	0	0	1	0
 situato	situated	0	0	1	1
 situata	located	0	0	1	0
 situata	situated	0	0	1	0
@@ -1742,7 +1713,6 @@ riferirsi	refer	0	0	1	1
 riferirsi	referred	0	0	1	0
 profondamente	deeply	0	0	1	1
 interpretazioni	interpretations	0	0	1	0
-interpretazioni	interpretation	0	0	1	0
 dellantico	the ancient	0	0	1	0
 suddivise	divided	0	0	1	0
 conservatorio	conservatory	0	0	1	1
@@ -1830,7 +1800,6 @@ lepoca	the era	0	0	1	0
 lepoca	the epoch	0	0	1	0
 ad	to	0	0	1	0
 ai	to	0	0	1	0
-ai	to the	0	0	1	0
 indicava	indicated	0	0	1	0
 lesistenza	existence	0	0	1	0
 lesistenza	lesistenza	0	0	1	0
@@ -1851,13 +1820,12 @@ asiatici	asian	0	0	1	0
 asiatico	asian	0	0	1	1
 tornata	back	0	0	1	0
 tornata	returned	0	0	1	0
-tornato	return	0	0	1	0
-tornato	back	0	0	1	0
+manoscritti	manuscripts	0	0	1	0
 asiatica	asiatic	0	0	1	0
 asiatica	asian	0	0	1	0
-tornati	back	0	0	1	0
-tornati	tomati	0	0	1	0
 tornati	returned	0	0	1	0
+tornati	tomati	0	0	1	0
+tornati	back	0	0	1	0
 termidoro	termidoro	1	1	0	0
 termidoro	theridor	1	0	1	0
 termidoro	created	1	0	1	0
@@ -1880,11 +1848,9 @@ realizzati	made	0	0	1	0
 realizzati	realised	0	0	1	0
 guadagnato	earned	0	0	1	0
 nettuno	neptune	0	0	1	1
-possiedono	own	0	0	1	0
 possiedono	have	0	0	1	0
 spettro	spectrum	0	0	1	1
 acidi	acids	0	0	1	0
-concludere	end up	0	0	1	1
 concludere	finish	0	0	1	1
 concludere	end	0	0	1	0
 mass	mass	0	0	1	0
@@ -1893,8 +1859,7 @@ scudo	shield	0	0	1	1
 scudo	escutcheon	0	0	1	1
 acido	acid	0	0	1	1
 sin	since	0	0	1	0
-generico	generic	0	0	1	1
-generico	common	0	0	1	0
+original	original	0	0	1	0
 transito	transit	0	0	1	1
 influenza	influence	0	0	1	1
 senna		0	0	1	0
@@ -1905,9 +1870,9 @@ influenze	influence	0	0	1	0
 influenze	influences	0	0	1	0
 prestigioso	prestigious	0	0	1	1
 curato	looked after	0	0	1	0
+curato	edited	0	0	1	0
 curato	tidy	0	0	1	1
 curato	curate	0	0	1	1
-curato	edited	0	0	1	0
 asteroidi	asteroids	0	0	1	0
 esplodere	explode	0	0	1	1
 esplodere	burst	0	0	1	1
@@ -1925,8 +1890,8 @@ tr	t.r.	0	0	1	0
 gesto	gesture	0	0	1	1
 gesto	act	0	0	1	1
 to	to	0	0	1	0
-fugge	it escapes	0	0	1	0
-fugge	escapes	0	0	1	0
+bellissima	beautiful	0	0	1	0
+bellissima	beautifull	0	0	1	0
 th	version	0	0	1	0
 th	th	0	0	1	0
 nord	north	0	0	1	1
@@ -1944,7 +1909,6 @@ messico	mexico	0	0	1	1
 creando	creating	0	0	1	0
 larga	large	0	0	1	0
 larga	wide	0	0	1	0
-appare	seems	0	0	1	0
 appare	appears	0	0	1	0
 largo	large	0	0	1	1
 largo	broad	0	0	1	1
@@ -1955,7 +1919,8 @@ sapienza	wisdom	0	0	1	1
 maggio	may	0	0	1	1
 addetti	employees	0	0	1	0
 addetti	responsible	0	0	1	0
-gossip	gossip	0	0	1	0
+desordio	desordio	0	0	1	0
+desordio	debut	0	0	1	0
 cortile	court	0	0	1	1
 cortile	yard	0	0	1	1
 diametro	diameter	0	0	1	1
@@ -1986,8 +1951,8 @@ ruoli	roles	0	0	1	0
 linterno	the inland	0	0	1	0
 linterno	the interior	0	0	1	0
 superficie	surface	0	0	1	1
-legend	legend	0	0	1	0
-legend	leggenda	0	0	1	0
+fiorentina	florentine	0	0	1	0
+fiorentina	fiorentina	0	0	1	0
 derivare	derive	0	0	1	1
 derivare	to derive	0	0	1	0
 scelse	chose	0	0	1	0
@@ -2001,7 +1966,7 @@ alletà	at age of	0	0	1	0
 alletà	at the age	0	0	1	0
 perfetto	perfect	0	0	1	1
 perso	lost	0	0	1	0
-social	social	0	0	1	0
+schumacher	schumacher	0	0	1	0
 persa	lost	0	0	1	0
 perfetta	perfect	0	0	1	0
 perse	lost	0	0	1	0
@@ -2026,7 +1991,6 @@ corto	short	0	0	1	1
 corto	short of	0	0	1	0
 accade	happens	0	0	1	0
 corte	court	0	0	1	1
-nelledizione	in edition	0	0	1	0
 nelledizione	in the edition	0	0	1	0
 certamente	certainly	0	0	1	1
 largomento	content	0	0	1	0
@@ -2051,7 +2015,10 @@ anchesso	he also	0	0	1	0
 anchessa	anchessa	0	0	1	0
 anchessa	it too	0	0	1	0
 scolastico	school	0	0	1	1
-direzione	direction	0	0	1	1
+videoclip	music video	0	0	1	0
+videoclip	video	0	0	1	0
+videoclip	clip	0	0	1	0
+videoclip	video clips	0	0	1	0
 tradito	betrayed	0	0	1	0
 tradito	beyrayed	0	0	1	0
 formarono	formed	0	0	1	0
@@ -2077,10 +2044,9 @@ belga	belgian	0	0	1	1
 sociali	social	0	0	1	0
 beautiful	beautiful	0	0	1	0
 limitato	limited	0	0	1	1
-limitato	restricted	0	0	1	1
 salto	jump	0	0	1	1
 adesione	adhesion	0	0	1	1
-ponte	bridge	0	0	1	1
+limitati	limited	0	0	1	0
 rodriguez	rodriguez	0	0	1	0
 ponti	bridges	0	0	1	0
 ponti	bridge	0	0	1	0
@@ -2120,7 +2086,8 @@ variano	einsteinio	0	0	1	0
 variano	various	0	0	1	0
 variano	vary	0	0	1	0
 lattenzione	the attention	0	0	1	0
-proventi	proceeds	0	0	1	0
+narra	said	0	0	1	0
+narra	tells	0	0	1	0
 aggiunte	added	0	0	1	0
 aggiunta	addition	0	0	1	1
 aggiunto	added	0	0	1	0
@@ -2189,7 +2156,7 @@ lavvocato	the lawyer	0	0	1	0
 acquista	buy	0	0	1	0
 acquista	buys	0	0	1	0
 acquista	acquires	0	0	1	0
-magia	magic	0	0	1	1
+lombarda	lombard	0	0	1	0
 vanta	has	0	0	1	0
 vanta	boasts	0	0	1	0
 legali	legals	0	0	1	0
@@ -2301,7 +2268,6 @@ tedesche	german	0	0	1	0
 tedeschi	german	0	0	1	0
 regolari	regular	0	0	1	0
 comicità	comedy	0	0	1	0
-comicità	comicality	0	0	1	1
 mossa	move	0	0	1	1
 mosse	moved	0	0	1	0
 mosse	moves	0	0	1	0
@@ -2318,7 +2284,6 @@ flottazione	rheology	1	0	1	0
 flottazione	flattazione	1	0	1	0
 veronese	verona's inhabitants	0	0	1	0
 veronese	of verona	0	0	1	0
-passano	they spend	0	0	1	0
 passano	pass	0	0	1	0
 potendo	could	0	0	1	0
 potendo	are able	0	0	1	0
@@ -2407,7 +2372,6 @@ tumore	tumor	0	0	1	1
 set	set	0	0	1	1
 sex	sex	0	0	1	0
 sed	sed	0	0	1	0
-corrispondente	nonrespondent	0	0	1	0
 corrispondente	correspondent	0	0	1	1
 corrispondente	corresponding	0	0	1	1
 corrispondenti	corresponding	0	0	1	0
@@ -2459,8 +2423,9 @@ necessaria	necessary	0	0	1	0
 descritto	described	0	0	1	0
 natale	christmas	0	0	1	1
 legislatura	legislature	0	0	1	1
-patto	pact	0	0	1	1
-patto	agreement	0	0	1	1
+profumo	perfume scent smell odor sweetness	0	0	1	0
+profumo	parfum	0	0	1	0
+profumo	perfume	0	0	1	1
 consapevolezza	awareness	0	0	1	1
 natali	birthplace	0	0	1	0
 natali	christmas	0	0	1	0
@@ -2470,8 +2435,8 @@ patti	pacts	0	0	1	1
 patti	patti	0	0	1	0
 circostanza	circumstance	0	0	1	1
 circostanza	circumstances	0	0	1	0
-larea	the area	0	0	1	0
-larea	iarea	0	0	1	0
+colpi	turn of events	0	0	1	0
+colpi	shots	0	0	1	0
 pdl	the people of liberty	0	0	1	0
 pdl	an italian political party	0	0	1	0
 pdl	abbreviation for popolo della liberta`	0	0	1	0
@@ -2486,7 +2451,6 @@ colpa	guilt	0	0	1	1
 dellera	of age	0	0	1	0
 dellera	dellera	0	0	1	0
 patty	patty	0	0	1	0
-attentato	attempt	0	0	1	1
 celebra	held	0	0	1	0
 celebra	celebrates	0	0	1	0
 agente	agent	0	0	1	1
@@ -2542,7 +2506,6 @@ imperiale	imperial	0	0	1	1
 dovevano	had to	0	0	1	0
 dovevano	had	0	0	1	0
 dovevano	they must	0	0	1	0
-forza	strength	0	0	1	1
 forza	force	0	0	1	1
 perimetro	perimeter	0	0	1	1
 forze	strength	0	0	1	1
@@ -2582,7 +2545,6 @@ campione	sample	0	0	1	1
 campione	champion	0	0	1	1
 motore	engine	0	0	1	1
 attorno	about	0	0	1	1
-attorno	round	0	0	1	0
 chase	chase	0	0	1	0
 castelli	castles	0	0	1	0
 barney	barney	0	0	1	0
@@ -2677,7 +2639,6 @@ vinta	won	0	0	1	0
 vinta	defeated	0	0	1	0
 continue	keeps on	0	0	1	0
 continue	continuous	0	0	1	0
-continue	continue	0	0	1	0
 continua	continues	0	0	1	0
 continua	continuous	0	0	1	0
 ivan	ivan	0	0	1	0
@@ -2719,10 +2680,10 @@ santa	saint	0	0	1	0
 santo	saint	0	0	1	1
 carol	carol	0	0	1	0
 colpito	hit	0	0	1	0
-by	by	0	0	1	0
+colpiti	affected	0	0	1	0
+colpiti	hit	0	0	1	0
 santi	saints	0	0	1	1
 pietra	stone	0	0	1	1
-pietra	rock	0	0	1	0
 capitolo	chapter	0	0	1	1
 libera	free	0	0	1	0
 continuò	went on	0	0	1	0
@@ -2775,7 +2736,8 @@ soci	associate	0	0	1	0
 tipicamente	typically	0	0	1	0
 tipicamente	tipically	0	0	1	0
 concorrente	competitor	0	0	1	1
-comprendeva	included	0	0	1	0
+concorrenti	competitors	0	0	1	0
+concorrenti	partecipants	0	0	1	0
 lino	flax	0	0	1	1
 accadde	it happened	0	0	1	0
 accadde	happened	0	0	1	0
@@ -2809,16 +2771,14 @@ risiede	resides	0	0	1	0
 agisce	acts	0	0	1	0
 rettangolo	rectangle	0	0	1	1
 diverse	different	0	0	1	0
-inoltre	further	0	0	1	0
-inoltre	moreover	0	0	1	1
 inoltre	also	0	0	1	1
+inoltre	further	0	0	1	0
 svolto	perform	0	0	1	0
 svolto	done	0	0	1	0
 svolto	played	0	0	1	0
 partenza	start	0	0	1	1
 partenza	departure	0	0	1	1
 svolte	carried out	0	0	1	0
-magna	magna	0	0	1	0
 diversi	different	0	0	1	0
 vissuto	lived	0	0	1	1
 britanniche	british	0	0	1	0
@@ -2878,8 +2838,7 @@ conoscere	know	0	0	1	1
 conoscere	to know	0	0	1	0
 lobiettivo	the goal	0	0	1	0
 retrocesso	demoted	0	0	1	0
-desordio	desordio	0	0	1	0
-desordio	debut	0	0	1	0
+gossip	gossip	0	0	1	0
 bibliografia	bibliography	0	0	1	1
 collabora	collaborate	0	0	1	0
 collabora	works	0	0	1	0
@@ -2887,8 +2846,9 @@ esistente	existing existent living	0	0	1	0
 esistente	existing	0	0	1	1
 seno	gender	0	0	1	0
 seno	breast	0	0	1	1
-veneto	venetian	0	0	1	0
-veneto	veneto	0	0	1	0
+recitare	recite	0	0	1	1
+recitare	play	0	0	1	0
+recitare	act	0	0	1	1
 esistenti	living	0	0	1	0
 esistenti	existing	0	0	1	0
 metafisica	metaphysics	0	0	1	1
@@ -2901,15 +2861,14 @@ costruire	to construct	0	0	1	0
 costruire	build	0	0	1	1
 povertà	poverty	0	0	1	1
 spinse	pushed	0	0	1	0
-sentiva	felt	0	0	1	0
-sentiva	was feeling	0	0	1	0
+nellitalia	traversing	0	0	1	0
+nellitalia	in italy	0	0	1	0
 peggior	worst	0	0	1	0
 municipio	municipality	0	0	1	0
-municipio	town hall	0	0	1	1
 municipio	city hall	0	0	1	1
 laustria	laustria	0	0	1	0
 magic	magic	0	0	1	0
-lombarda	lombard	0	0	1	0
+magia	magic	0	0	1	1
 tra	between	0	0	1	1
 eva	eva	0	0	1	0
 eva	eve	0	0	1	0
@@ -3011,7 +2970,7 @@ zia	aunt	0	0	1	1
 circoscrizione	district	0	0	1	1
 zio	uncle	0	0	1	1
 zio	brother's of one parent	0	0	1	0
-rick	rick	0	0	1	0
+dolore	pain	0	0	1	1
 prezzo	fare	0	0	1	1
 prezzo	price	0	0	1	1
 prezzo	value	0	0	1	1
@@ -3094,7 +3053,6 @@ houston	houston	0	0	1	0
 larrivo	(the) arrival	0	0	1	0
 larrivo	larrivo	0	0	1	0
 larrivo	the arrive	0	0	1	0
-tentò	attempted	0	0	1	0
 tentò	i try	0	0	1	0
 tentò	tried	0	0	1	0
 società	company	0	0	1	1
@@ -3114,7 +3072,8 @@ giganti	giants	0	0	1	0
 giganti	giant	0	0	1	0
 diventò	become	0	0	1	0
 diventò	i become	0	0	1	0
-warren	warren	0	0	1	0
+sperimentali	sperimental	0	0	1	0
+sperimentali	experimental	0	0	1	0
 lunione	the union	0	0	1	0
 lunione	lucione	0	0	1	0
 concentrazione	concentration	0	0	1	1
@@ -3149,7 +3108,7 @@ cassazione	cassation	0	0	1	1
 improvvisamente	suddenly	0	0	1	1
 proseguire	continue	0	0	1	1
 proseguire	to continue	0	0	1	0
-society	society	0	0	1	0
+parete	wall	0	0	1	1
 velocemente	rapidly	0	0	1	0
 velocemente	quickly	0	0	1	1
 books	books	0	0	1	0
@@ -3213,7 +3172,7 @@ circoncisione	circumcision	0	0	1	1
 legislative	legislative	0	0	1	0
 legislative	legislation	0	0	1	0
 legislativa	legislative	0	0	1	0
-logica	logic	0	0	1	1
+start	start	0	0	1	0
 festival	festival	0	0	1	1
 legislativo	legislative	0	0	1	1
 larmata	the army	0	0	1	0
@@ -3248,8 +3207,8 @@ gentile	gentle	0	0	1	1
 gentile	kind	0	0	1	1
 roberts	roberts	0	0	1	0
 rispettivamente	respectively	0	0	1	1
-compresi	push	0	0	1	0
 compresi	included	0	0	1	0
+compresi	push	0	0	1	0
 compresi	including	0	0	1	0
 attaccante	striker	0	0	1	1
 falsa	false	0	0	1	0
@@ -3270,11 +3229,10 @@ screen	screen	0	0	1	0
 sinatra	sinatra	0	0	1	0
 latina	latin	0	0	1	0
 seggi	seats	0	0	1	0
-seggi	seat	0	0	1	0
 documenti	documents	0	0	1	0
 documenti	papers	0	0	1	1
-mille	one thousand	0	0	1	0
 mille	thousand	0	0	1	1
+mille	one thousand	0	0	1	0
 latino	latin	0	0	1	1
 latino	latin lateen	0	0	1	0
 latini	latin	0	0	1	0
@@ -3282,8 +3240,7 @@ documento	document	0	0	1	1
 pete	pete	0	0	1	0
 ritiene	believes	0	0	1	0
 ritiene	ritiene	0	0	1	0
-dette	said	0	0	1	0
-dette	called	0	0	1	0
+barcellona	barcelona	0	0	1	0
 scomparsa	disappearance	0	0	1	1
 mercanti	merchants	0	0	1	0
 conobbe	met	0	0	1	0
@@ -3294,8 +3251,6 @@ amoroso	amorous	0	0	1	1
 amoroso	loving	0	0	1	1
 viso	face	0	0	1	1
 croazia	croatia	0	0	1	1
-risalire	date back	0	0	1	1
-risalire	go back	0	0	1	1
 concorso	competition	0	0	1	1
 concorso	contest	0	0	1	1
 dinteresse	citys	0	0	1	0
@@ -3369,7 +3324,6 @@ benigni	benign	0	0	1	0
 benigni	benigni	0	0	1	0
 partigiana	partisan	0	0	1	0
 edition	edition	0	0	1	0
-alessandro	alexander	0	0	1	0
 confermato	confirmed	0	0	1	1
 sesso	gender	0	0	1	1
 sesso	sex	0	0	1	1
@@ -3391,7 +3345,7 @@ offerte	offers	0	0	1	0
 offerte	proposed	0	0	1	0
 linguistiche	linguistics	0	0	1	0
 linguistiche	language	0	0	1	0
-volte	times	0	0	1	1
+warren	warren	0	0	1	0
 cristiano	christian	0	0	1	1
 cristiani	christians	0	0	1	0
 legitto	egypt	0	0	1	0
@@ -3407,7 +3361,6 @@ etc	etc	0	0	1	0
 etc	etc.	0	0	1	0
 ramo	limb	0	0	1	1
 ramo	branch	0	0	1	1
-rami	branches	0	0	1	0
 rami	branch	0	0	1	0
 maghi	wizards	0	0	1	0
 rame	copper	0	0	1	1
@@ -3415,11 +3368,12 @@ marte	mars	0	0	1	1
 abitata	inhabited	0	0	1	0
 abitata	populated	0	0	1	0
 tornare	return	0	0	1	1
-ci	them	0	0	1	0
-ci	there	0	0	1	1
-ci	ourself	0	0	1	0
+indice	index	0	0	1	1
+indice	forefinger	0	0	1	1
 co	co	0	0	1	0
-indica	indicates	0	0	1	0
+cm	centimeter	0	0	1	0
+cm	cm	0	0	1	0
+cm	cm (centimeters)	0	0	1	0
 conclude	concludes	0	0	1	0
 conclude	conclude	0	0	1	0
 cc	cc	0	0	1	0
@@ -3431,8 +3385,6 @@ ce	there	0	0	1	0
 ce	us	0	0	1	1
 cd	compact disc	0	0	1	0
 spagna	spain	0	0	1	1
-politici	politicians	0	0	1	0
-politici	political	0	0	1	0
 stabile	steady	0	0	1	1
 stabile	stable	0	0	1	1
 sperma	sperm	0	0	1	1
@@ -3458,12 +3410,11 @@ identità	identity	0	0	1	1
 ognuno	everyone	0	0	1	1
 ognuno	each	0	0	1	1
 strisce	strips	0	0	1	0
-strisce	stripes	0	0	1	0
 mostrò	monster	0	0	1	0
 mostrò	showed	0	0	1	0
 ondata	wave	0	0	1	1
 letteratura	literature	0	0	1	1
-neri	blacks	0	0	1	0
+arabi	arabs	0	0	1	0
 riferendosi	referring	0	0	1	0
 greco	greek	0	0	1	1
 greco	greeke	0	0	1	0
@@ -3512,7 +3463,6 @@ tupac	tupac	0	0	1	0
 trinità	trinity	0	0	1	1
 antenati	athenians	0	0	1	0
 antenati	ancestors	0	0	1	0
-matthew	matthew	0	0	1	0
 intento	intent	0	0	1	1
 diversamente	otherwise	0	0	1	1
 mostra	shows	0	0	1	0
@@ -3531,7 +3481,6 @@ laeroporto	the airport	0	0	1	0
 ostilità	hostility	0	0	1	1
 ostilità	hostilities	0	0	1	0
 qf	qf	0	0	1	0
-lattrice	actress	0	0	1	0
 lattrice	lead actress	0	0	1	0
 cambiato	changed	0	0	1	0
 clitoride	clitoris	0	0	1	1
@@ -3546,8 +3495,8 @@ piatto	flat	0	0	1	1
 piatto	plate	0	0	1	1
 lospedale	hospital	0	0	1	0
 lospedale	lospedale	0	0	1	0
-abbondanti	abundant	0	0	1	0
-abbondanti	plenty	0	0	1	0
+momento	moment	0	0	1	1
+momento	time	0	0	1	1
 repubblicano	reppublicano	0	0	1	0
 repubblicano	republican	0	0	1	1
 attiva	active	0	0	1	0
@@ -3570,7 +3519,6 @@ derivata	derived	0	0	1	0
 mandato	warrant	0	0	1	1
 mandato	mandate	0	0	1	1
 categoriadeputati	category members	0	0	1	0
-categoriadeputati	category: congressmen	0	0	1	0
 categoriadeputati	category: deputy	0	0	1	0
 turistici	shakur	0	0	1	0
 turistici	touristics	0	0	1	0
@@ -3593,7 +3541,6 @@ garage	garage	0	0	1	1
 spiccano	highlight	0	0	1	0
 spiccano	stands out	0	0	1	0
 spiccano	stand out	0	0	1	0
-ispirò	ispire	0	0	1	0
 ispirò	inspired	0	0	1	0
 flotta	fleet	0	0	1	1
 emmy	statuette which is given annually as an award for notable achievements in television (in the usa); female first name	0	0	1	0
@@ -3637,7 +3584,6 @@ cronologico	chronological	0	0	1	1
 prettamente	purely	0	0	1	0
 continuano	continue	0	0	1	0
 superficiali	superficial	0	0	1	0
-superficiali	surface	0	0	1	0
 sottostante	below	0	0	1	1
 amiche	friends	0	0	1	0
 ispira	inspired	0	0	1	0
@@ -3668,7 +3614,6 @@ three	three	0	0	1	0
 bruxelles	bruxelles	0	0	1	0
 bruxelles	brussels	0	0	1	1
 lettere	letters	0	0	1	1
-baglioni	baglioni	0	0	1	0
 lettera	letter	0	0	1	1
 reinterpretazione	reinterpretation	0	0	1	0
 luno	one	0	0	1	0
@@ -3717,7 +3662,7 @@ apollo	apollo	0	0	1	1
 lloyd	lloyd	0	0	1	0
 continuerà	continue	0	0	1	0
 continuerà	continued	0	0	1	0
-parete	wall	0	0	1	1
+society	society	0	0	1	0
 adiacenti	near	0	0	1	0
 adiacenti	adjoining	0	0	1	0
 adiacenti	adjacent	0	0	1	0
@@ -3940,7 +3885,7 @@ produttivo	productive	0	0	1	1
 carriera	career	0	0	1	1
 carriera	carrier	0	0	1	0
 produttive	productive	0	0	1	0
-beach	beach	0	0	1	0
+produttiva	productive	0	0	1	0
 ulteriormente	further	0	0	1	1
 memorial	memorial	0	0	1	0
 stefano	stephen	0	0	1	0
@@ -3973,7 +3918,6 @@ compongono	up	0	0	1	0
 compongono	make up	0	0	1	0
 pascal	pascal	0	0	1	0
 allaltezza	allaltezza	0	0	1	0
-allaltezza	suitable	0	0	1	0
 relazione	report	0	0	1	1
 relazione	relation	0	0	1	1
 relazione	relationship	0	0	1	1
@@ -4033,7 +3977,6 @@ medicina	medicine	0	0	1	1
 medicina	medicin	0	0	1	0
 forti	strong	0	0	1	0
 forti	powerful	0	0	1	0
-delletà	of age	0	0	1	0
 delletà	delleta	0	0	1	0
 propone	proposes	0	0	1	0
 propone	it proposes	0	0	1	0
@@ -4080,7 +4023,7 @@ completare	complete	0	0	1	1
 vivere	living	0	0	1	0
 vivere	live	0	0	1	1
 another	another	0	0	1	0
-progressivamente	progressively	0	0	1	1
+ritengono	believe	0	0	1	0
 pratico	practical	0	0	1	1
 armati	armed	0	0	1	0
 inserite	insert	0	0	1	0
@@ -4271,8 +4214,8 @@ affidata	entrusted	0	0	1	0
 firmare	sign	0	0	1	1
 we	we	0	0	1	0
 comprendente	including	0	0	1	0
-licenza	licence	0	0	1	1
 licenza	license	0	0	1	1
+licenza	licence	0	0	1	1
 dà	give	0	0	1	0
 dà	by	0	0	1	0
 dà	by from to for with on since at through out	0	0	1	0
@@ -4316,8 +4259,7 @@ scalemajor	scale major	0	0	1	0
 scalemajor	scalemajor	0	0	1	0
 dipinti	paintings	0	0	1	0
 risorsa	resource	0	0	1	1
-dipinto	painted	0	0	1	0
-dipinto	painting	0	0	1	1
+risorse	resources	0	0	1	0
 spagnolo	spanish	0	0	1	1
 spagnoli	spanish	0	0	1	0
 noel	noel	0	0	1	0
@@ -4340,10 +4282,9 @@ doppiata	dubbed	0	0	1	0
 guidata	guided	0	0	1	0
 guidata	wizard	0	0	1	0
 guidata	led	0	0	1	0
-guidato	driver	0	0	1	0
 guidato	led	0	0	1	0
-cartesio	cartesio	0	0	1	0
-cartesio	descartes	0	0	1	0
+doppiato	dubbed	0	0	1	0
+doppiato	doubled	0	0	1	0
 ciclismo	cycling	0	0	1	1
 guidati	guided	0	0	1	0
 guidati	leaded	0	0	1	0
@@ -4493,7 +4434,8 @@ strade	roads	0	0	1	1
 giocato	played	0	0	1	0
 dorsay	orsay	0	0	1	0
 dorsay	d'orsay	0	0	1	0
-barcellona	barcelona	0	0	1	0
+dette	said	0	0	1	0
+dette	called	0	0	1	0
 dolce	fresh	0	0	1	1
 dolce	sweet	0	0	1	1
 dolci	sweet	0	0	1	0
@@ -4535,7 +4477,8 @@ rifiutò	refused	0	0	1	0
 accordi	agreements	0	0	1	0
 accordo	agreement	0	0	1	1
 guardie	guards	0	0	1	0
-conseguenza	consequence	0	0	1	1
+statali	state	0	0	1	0
+statali	statistics	0	0	1	0
 divertimento	fun	0	0	1	1
 finora	so far	0	0	1	1
 dellomonimo	dellomonimo	0	0	1	0
@@ -4544,7 +4487,7 @@ palco	box	0	0	1	1
 palco	stage	0	0	1	1
 ettore	hector	0	0	1	1
 sorteggio	draw	0	0	1	1
-aurelio	aurelio	0	0	1	0
+attentato	attempt	0	0	1	1
 war	war	0	0	1	0
 cantate	sing	0	0	1	0
 apparire	appeare	0	0	1	0
@@ -4575,7 +4518,7 @@ moore	moore	0	0	1	0
 colosseo	coliseum	0	0	1	1
 colosseo	colosseum	0	0	1	0
 colosseo	large stadium	0	0	1	0
-febbraio	february	0	0	1	1
+tesla	tesla	0	0	1	0
 milano	milan	0	0	1	0
 corrado	corrado	0	0	1	0
 rifiuta	refuses	0	0	1	0
@@ -4585,7 +4528,6 @@ esegue	run	0	0	1	0
 esegue	tourist	0	0	1	0
 mole	bulk	0	0	1	0
 mole	amount	0	0	1	0
-mole	size	0	0	1	1
 tesi	thesis	0	0	1	1
 ravenna	ravenna	0	0	1	0
 ravenna	raven	0	0	1	0
@@ -4608,7 +4550,6 @@ autonomia	autonomy	0	0	1	1
 rimaneva	stayed	0	0	1	0
 rimaneva	remained	0	0	1	0
 funerale	funeral	0	0	1	1
-mira	aim	0	0	1	1
 mira	target	0	0	1	1
 mira	seeks	0	0	1	0
 riconoscimento	recognition	0	0	1	1
@@ -4644,7 +4585,8 @@ così	so	0	0	1	1
 così	as well	0	0	1	0
 vacanza	holiday	0	0	1	1
 difensore	defender	0	0	1	1
-serpente	snake	0	0	1	1
+lartista	the artist	0	0	1	0
+lartista	artist	0	0	1	0
 padrino	godfather	0	0	1	1
 tribunale	sued	0	0	1	0
 tribunale	court	0	0	1	1
@@ -4727,7 +4669,6 @@ pausa	pause	0	0	1	1
 vittime	victims	0	0	1	0
 londinese	londoner	0	0	1	1
 lintroduzione	introduction	0	0	1	0
-lintroduzione	the introduction	0	0	1	0
 franklin	franklin	0	0	1	0
 massoneria	freemasonry	0	0	1	1
 massoneria	masonry	0	0	1	1
@@ -4827,8 +4768,8 @@ spielberg	spielberg	0	0	1	0
 spielberg	spilberg	0	0	1	0
 esperimenti	experiments	0	0	1	0
 esperimenti	experiment	0	0	1	0
-praticata	done	0	0	1	0
 praticata	practiced	0	0	1	0
+praticata	done	0	0	1	0
 costituzione	constitution	0	0	1	1
 produce	traduci da: inglese produces	0	0	1	0
 produce	produces	0	0	1	0
@@ -4851,8 +4792,7 @@ incisioni	recordings	0	0	1	0
 michel	michel	0	0	1	0
 parallelamente	parallel	0	0	1	0
 stile	style	0	0	1	1
-corrispondenza	correspondense	0	0	1	0
-corrispondenza	correspondence	0	0	1	1
+ginevra	geneva	0	0	1	1
 cold	cold	0	0	1	0
 cole	cole	0	0	1	0
 stili	styles	0	0	1	0
@@ -4861,7 +4801,6 @@ forma	form	0	0	1	1
 potenzialità	potential	0	0	1	0
 potenzialità	potentiality	0	0	1	1
 forme	forms	0	0	1	0
-trovavano	they found	0	0	1	0
 trovavano	were	0	0	1	0
 chiude	close	0	0	1	0
 chiude	closes	0	0	1	0
@@ -4885,7 +4824,6 @@ umani	human	0	0	1	0
 not	not	0	0	1	0
 now	now	0	0	1	0
 sperling	sperling	0	0	1	0
-difatti	indeed	0	0	1	0
 difatti	in fact	0	0	1	1
 concerto	concert	0	0	1	1
 realizza	realizes	0	0	1	0
@@ -4898,6 +4836,7 @@ ormoni	hormone	0	0	1	0
 ormoni	hormones	0	0	1	0
 raggiunsero	reached	0	0	1	0
 settimo	seventh	0	0	1	1
+suggerisce	suggests	0	0	1	0
 el	and	0	0	1	0
 el	el	0	0	1	0
 eo	o	0	0	1	0
@@ -4920,7 +4859,6 @@ album	album	0	0	1	1
 biografia	biography	0	0	1	1
 space	space	0	0	1	0
 età	age	0	0	1	1
-voluto	wanted	0	0	1	0
 voluto	would adjective intentional deliberate	0	0	1	0
 voluto	would	0	0	1	1
 pubblicamente	publicly	0	0	1	1
@@ -4990,8 +4928,6 @@ vocale	vocal	0	0	1	1
 lha	iha	0	0	1	0
 supercoppa	super cup	0	0	1	0
 travis	travis	0	0	1	0
-romabari	rome bari	0	0	1	0
-romabari	rome-bari	0	0	1	0
 vocali	voice	0	0	1	0
 vocali	vocals	0	0	1	0
 disperazione	desolation	0	0	1	1
@@ -5075,9 +5011,6 @@ aiuta	it helps	0	0	1	0
 ferrara	ferrara	0	0	1	0
 soggetta	sogetta	0	0	1	0
 soggetta	subject	0	0	1	0
-dellessere	dellessere	0	0	1	0
-dellessere	being	0	0	1	0
-dellessere	of be	0	0	1	0
 dellindividuo	of individual	0	0	1	0
 dellindividuo	individual	0	0	1	0
 avvenire	happen	0	0	1	1
@@ -5124,7 +5057,8 @@ tornerà	will be back	0	0	1	0
 tornerà	back	0	0	1	0
 tornerà	will return	0	0	1	0
 collegata	connected	0	0	1	0
-collegate	connected	0	0	1	0
+bulgaria	country in southeastern europe	0	0	1	0
+bulgaria	bulgaria	0	0	1	1
 comunale	communal	0	0	1	1
 comunale	municipal	0	0	1	1
 miseria	poverty	0	0	1	1
@@ -5163,7 +5097,7 @@ ricevette	received	0	0	1	0
 ricevette	receives	0	0	1	0
 ricevette	get	0	0	1	0
 passivo	passive	0	0	1	1
-suicidio	suicide	0	0	1	1
+eros	eros	0	0	1	1
 omonima	omanima	0	0	1	0
 omonima	homonymous	0	0	1	0
 placca	plaque	0	0	1	1
@@ -5178,7 +5112,8 @@ antiche	antique	0	0	1	0
 antiche	old	0	0	1	0
 misterioso	mysterious	0	0	1	1
 hendrix	hendrix	0	0	1	0
-traduzione	translation	0	0	1	1
+nellepisodio	in episode	0	0	1	0
+nellepisodio	nellepisodio	0	0	1	0
 traduzioni	translations	0	0	1	0
 lopinione	the view	0	0	1	0
 misteriosa	occult	0	0	1	0
@@ -5201,7 +5136,6 @@ propaganda	electioneering	0	0	1	1
 propaganda	propaganda electioneering	0	0	1	0
 propaganda	propaganda	0	0	1	1
 disposizioni	dispositions	0	0	1	0
-disposizioni	provisions	0	0	1	0
 ricorrente	recurrent	0	0	1	1
 ricorrente	ricurrent	0	0	1	0
 iv	iv	0	0	1	0
@@ -5270,13 +5204,11 @@ utili	useful	0	0	1	0
 utile	useful	0	0	1	1
 porzione	portion	0	0	1	1
 porzione	part	0	0	1	1
-narra	said	0	0	1	0
-narra	tells	0	0	1	0
+proventi	proceeds	0	0	1	0
 truppe	troops	0	0	1	1
 medio	average	0	0	1	1
 medio	medium	0	0	1	1
 media	media	0	0	1	1
-media	average	0	0	1	1
 carabinieri	carabinieri	0	0	1	0
 carabinieri	police	0	0	1	0
 medie	middle-sized	0	0	1	0
@@ -5304,7 +5236,6 @@ eccessi	excesses	0	0	1	0
 theater	theater	0	0	1	0
 assenza	absence	0	0	1	1
 assenza	lack	0	0	1	0
-notorietà	notoriety	0	0	1	1
 notorietà	fame	0	0	1	0
 coniugi	spouses	0	0	1	0
 radice	root stem origin root word radish	0	0	1	0
@@ -5313,12 +5244,10 @@ originariamente	originally	0	0	1	1
 originariamente	original	0	0	1	0
 radici	roots	0	0	1	0
 taxi	taxi	0	0	1	1
-dellottocento	from the 19th century	0	0	1	0
 dellottocento	dellottocento	0	0	1	0
 noah	noah	0	0	1	0
-unampia	a wide	0	0	1	0
-indice	index	0	0	1	1
-indice	forefinger	0	0	1	1
+ci	them	0	0	1	0
+ci	ourself	0	0	1	0
 soffrire	suffering	0	0	1	0
 soffrire	suffer	0	0	1	1
 sufficiente	sufficient	0	0	1	1
@@ -5327,9 +5256,7 @@ tobi	tobi	0	0	1	0
 riguardante	on	0	0	1	0
 riguardante	relating	0	0	1	0
 death	death	0	0	1	0
-cm	centimeter	0	0	1	0
-cm	cm (centimeters)	0	0	1	0
-cm	cm	0	0	1	0
+indica	indicates	0	0	1	0
 riguardanti	about	0	0	1	0
 riguardanti	concerning	0	0	1	0
 avvenimenti	events	0	0	1	0
@@ -5344,7 +5271,8 @@ figurano	include	0	0	1	0
 psi	psi	0	0	1	0
 amo	hook	0	0	1	1
 amo	love	0	0	1	0
-bryan	bryan	0	0	1	0
+percorso	path	0	0	1	0
+percorso	route	0	0	1	1
 ama	loves	0	0	1	0
 ama	but	0	0	1	0
 digital	digital	0	0	1	0
@@ -5365,9 +5293,6 @@ discorsi	speech	0	0	1	0
 dellitaliano	of the italian	0	0	1	0
 dellitaliano	of italian	0	0	1	0
 dellitaliano	italian's	0	0	1	0
-vedere	see	0	0	1	1
-vedere	to show	0	0	1	0
-vedere	show	0	0	1	0
 allultima	at last	0	0	1	0
 allultima	the last	0	0	1	0
 t	t	0	0	1	0
@@ -5404,9 +5329,8 @@ rapporto	rapporto	1	0	1	0
 repubblica	republic	0	0	1	1
 regina	queen	0	0	1	1
 willis	willis	0	0	1	0
-recitare	recite	0	0	1	1
-recitare	play	0	0	1	0
-recitare	act	0	0	1	1
+veneto	venetian	0	0	1	0
+veneto	veneto	0	0	1	0
 nellambito	in field	0	0	1	0
 passione	passion	0	0	1	1
 deficit	deficit	0	0	1	1
@@ -5421,7 +5345,6 @@ business	business	0	0	1	0
 francia	france	0	0	1	1
 crediti	credits	0	0	1	0
 credito	credit	0	0	1	1
-ricordati	remembered	0	0	1	0
 ricordati	reminded	0	0	1	0
 ricordati	remember	0	0	1	0
 classiche	classic	0	0	1	0
@@ -5443,7 +5366,6 @@ testimone	witness	0	0	1	1
 entrata	entry	0	0	1	1
 casuale	random	0	0	1	1
 casuale	casual	0	0	1	1
-wolf	wolf	0	0	1	0
 nellalbum	in album	0	0	1	0
 nellalbum	nellalbum	0	0	1	0
 raggio	radius	0	0	1	1
@@ -5491,7 +5413,7 @@ area	areaace	0	0	1	0
 area	area	0	0	1	1
 quartetto	quartetto	0	0	1	0
 quartetto	quartet	0	0	1	1
-start	start	0	0	1	0
+logica	logic	0	0	1	1
 giocatori	players	0	0	1	0
 dispone	has	0	0	1	0
 dispone	dispose	0	0	1	0
@@ -5534,7 +5456,7 @@ offerto	offered	0	0	1	0
 voleva	wanted	0	0	1	0
 dellindia	of india	0	0	1	0
 dellindia	dellinidia	0	0	1	0
-arabi	arabs	0	0	1	0
+neri	blacks	0	0	1	0
 cartone	cardboard	0	0	1	1
 cartone	cartoon	0	0	1	1
 nero	black	0	0	1	1
@@ -5684,7 +5606,6 @@ ricercatori	researchers	0	0	1	0
 successore	successor	0	0	1	1
 venne	veins	0	0	1	0
 venne	was	0	0	1	0
-venne	came	0	0	1	0
 base	base	0	0	1	1
 parentesi	parenthesis	0	0	1	1
 navigazione	navigation	0	0	1	1
@@ -5718,7 +5639,6 @@ redatto	edited	0	0	1	0
 redatto	written	0	0	1	0
 redatto	prepared	0	0	1	0
 rivoluzionari	revolutionaries	0	0	1	0
-rivoluzionari	revolutionists	0	0	1	0
 inedite	unpublished	0	0	1	0
 nine	nine	0	0	1	0
 hermione	hermione	0	0	1	0
@@ -5790,7 +5710,9 @@ disegnata	drawn	0	0	1	0
 disegnata	designed	0	0	1	0
 juan	john	0	0	1	0
 juan	iuan	0	0	1	0
-nellagosto	in august	0	0	1	0
+dellessere	dellessere	0	0	1	0
+dellessere	being	0	0	1	0
+dellessere	of be	0	0	1	0
 arnaldo	arnaldo	0	0	1	0
 eroi	heroes	0	0	1	0
 eroi	hero	0	0	1	0
@@ -5803,9 +5725,8 @@ torneo	tournament	0	0	1	1
 tornei	tournament	0	0	1	0
 tornei	tournaments	0	0	1	0
 hell	hell	0	0	1	0
-eros	eros	0	0	1	1
+suicidio	suicide	0	0	1	1
 persero	lost	0	0	1	0
-pubblicitari	publishers	0	0	1	0
 pubblicitari	commercials	0	0	1	0
 pubblicitari	advertising	0	0	1	0
 innamora	love	0	0	1	0
@@ -5820,9 +5741,9 @@ offrì	offer	0	0	1	0
 visione	vision	0	0	1	1
 visione	view	0	0	1	1
 lontani	far	0	0	1	0
-iniziali	initials	0	0	1	0
 iniziali	inital	0	0	1	0
 iniziali	opening	0	0	1	0
+iniziali	initials	0	0	1	0
 tocca	touch	0	0	1	0
 curtis	curtis	0	0	1	0
 convocato	convened	0	0	1	0
@@ -5830,8 +5751,7 @@ tocco	touch	0	0	1	1
 dirà	tell	0	0	1	0
 recò	went	0	0	1	0
 può	can	0	0	1	0
-percorso	path	0	0	1	0
-percorso	route	0	0	1	1
+bryan	bryan	0	0	1	0
 speciale	special	0	0	1	1
 nellisola	on	0	0	1	0
 nellisola	nellisola	0	0	1	0
@@ -5867,7 +5787,6 @@ introdusse	introduced	0	0	1	0
 douglas	douglas	0	0	1	0
 wolverine	wolverine	0	0	1	0
 nuvole	clouds	0	0	1	0
-offre	it offers	0	0	1	0
 offre	offers	0	0	1	0
 desiderio	desire	0	0	1	1
 desiderio	i wish	0	0	1	0
@@ -5882,7 +5801,6 @@ consentito	allowed	0	0	1	0
 permisero	allowed	0	0	1	0
 mostro	monster	0	0	1	1
 dire	say	0	0	1	1
-dire	to say	0	0	1	0
 basa	is based	0	0	1	0
 basa	based	0	0	1	0
 pur	even	0	0	1	0
@@ -5930,7 +5848,6 @@ tregua	truce	0	0	1	1
 norma	usually	0	0	1	0
 norma	norm	0	0	1	1
 norma	standard	0	0	1	1
-jamie	jamie	0	0	1	0
 norme	norms	0	0	1	0
 norme	standards	0	0	1	0
 semifinale	semifinal	0	0	1	1
@@ -5964,7 +5881,8 @@ sopravvissuto	survivor	0	0	1	1
 futuristi	futurists	0	0	1	0
 sopravvissuti	survivors	0	0	1	0
 linfonodi	lymph nodes	0	0	1	0
-futurista	futurist	0	0	1	1
+maledizione	curse	0	0	1	1
+maledizione	curse damn malediction ban cuss	0	0	1	0
 probabilità	odds	0	0	1	1
 probabilità	probability	0	0	1	1
 cavo	cable	0	0	1	1
@@ -5980,8 +5898,8 @@ spartani	spartan	0	0	1	0
 spartani	spartans	0	0	1	0
 quote	quotas	0	0	1	0
 quote	shares	0	0	1	0
-quota	fee	0	0	1	1
-quota	share	0	0	1	1
+prevista	expected	0	0	1	0
+prevista	planned	0	0	1	0
 freddie	freddie	0	0	1	0
 impegni	commitmets	0	0	1	0
 impegni	commitments	0	0	1	0
@@ -6103,8 +6021,8 @@ cratere	crater	0	0	1	1
 catalogna	catalogue	0	0	1	0
 catalogna	catalonia	0	0	1	0
 trionfo	triumph	0	0	1	1
-league	league	0	0	1	0
 league	lega	0	0	1	0
+league	league	0	0	1	0
 fianco	side	0	0	1	1
 istituzioni	institutions	0	0	1	0
 istituzione	institution	0	0	1	1
@@ -6139,7 +6057,6 @@ indipendente	independent	0	0	1	1
 loggia	loggia	0	0	1	1
 mezzanotte	midnight	0	0	1	1
 territori	territories	0	0	1	0
-linghilterra	the england	0	0	1	0
 linghilterra	linghilterra	0	0	1	0
 walter	walter	0	0	1	0
 idrografia	hydrography	0	0	1	1
@@ -6153,18 +6070,14 @@ geografico	geographical	0	0	1	1
 anthony	anthony	0	0	1	0
 katherine	katherine	0	0	1	0
 folklore	folklore	0	0	1	0
-orari	hours	0	0	1	0
 orari	times	0	0	1	0
 pagato	baroque	0	0	1	0
 pagato	paid	0	0	1	1
-look	look	0	0	1	0
 albanesi	albanian	0	0	1	0
 albanese	albanian	0	0	1	1
-wyatt	wyatt	0	0	1	0
 pace	peace	0	0	1	1
 ossia	that is	0	0	1	1
 dellapparato	dellapparato	0	0	1	0
-dellapparato	apparatus	0	0	1	0
 hegel	hegel	0	0	1	0
 guido	i drive	0	0	1	0
 guida	guide	0	0	1	1
@@ -6192,8 +6105,7 @@ scaglia	scale	0	0	1	1
 caratterizzati	characterized	0	0	1	0
 fallimento	failure	0	0	1	1
 vesuvio	vesuvius	0	0	1	0
-maledizione	curse	0	0	1	1
-maledizione	curse damn malediction ban cuss	0	0	1	0
+futurista	futurist	0	0	1	1
 turistico	tourism	0	0	1	0
 artistiche	artistics	0	0	1	0
 artistiche	artistic	0	0	1	0
@@ -6256,8 +6168,8 @@ unattività	unattivita	0	0	1	0
 unattività	an activity	0	0	1	0
 rufy	luffy	0	0	1	0
 game	game	0	0	1	0
-enorme	big	0	0	1	0
-enorme	enormous	0	0	1	1
+connessi	attached	0	0	1	0
+connessi	related	0	0	1	0
 amare	love	0	0	1	1
 evoluzioni	evolutions	0	0	1	0
 evoluzioni	developments	0	0	1	0
@@ -6295,9 +6207,8 @@ nella	in	0	0	1	0
 troiani	trojans	0	0	1	0
 troiani	troyans	0	0	1	0
 nelle	in	0	0	1	0
-seguì	follow	0	0	1	0
-seguì	sequi	0	0	1	0
-seguì	followed	0	0	1	0
+quota	fee	0	0	1	1
+quota	share	0	0	1	1
 aerosmith	aerosmith	0	0	1	0
 proporre	propose	0	0	1	1
 proporre	suggest	0	0	1	1
@@ -6312,7 +6223,6 @@ eretto	erected	0	0	1	1
 faith	faith	0	0	1	0
 classico	classic	0	0	1	1
 classica	classical	0	0	1	0
-classica	classic	0	0	1	0
 lacronimo	acronym	0	0	1	0
 lacronimo	the acronym	0	0	1	0
 lacronimo	lacronimo	0	0	1	0
@@ -6322,7 +6232,6 @@ abruzzese	from abruzzo	0	0	1	0
 abruzzese	abruzzo	0	0	1	0
 allora	then	0	0	1	1
 allora	in those days	0	0	1	1
-affrontato	faced	0	0	1	0
 affrontato	addressed	0	0	1	0
 ideale	ideal	0	0	1	1
 fossero	were	0	0	1	0
@@ -6352,8 +6261,8 @@ drammatica	drammatic	0	0	1	0
 governo	govern	0	0	1	0
 governo	government	0	0	1	1
 governi	governments	0	0	1	1
-tonalità	shades	0	0	1	0
 tonalità	tonality	0	0	1	1
+tonalità	shades	0	0	1	0
 paolo	paul	0	0	1	0
 reparto	department	0	0	1	1
 fenice	phoenix	0	0	1	1
@@ -6367,6 +6276,7 @@ discografica	record	0	0	1	0
 adulta	adult	0	0	1	0
 adulto	adult	0	0	1	1
 stagioni	seasons	0	0	1	0
+tuo	your	0	0	1	1
 adulti	adults	0	0	1	0
 comprende	includes	0	0	1	0
 aprono	open	0	0	1	0
@@ -6374,7 +6284,6 @@ tito	titus	0	0	1	0
 cronologia	chronology	0	0	1	1
 portati	brought	0	0	1	0
 rimanenti	remainder	0	0	1	1
-rimanenti	remaining	0	0	1	0
 portato	brought	0	0	1	1
 portato	led	0	0	1	0
 portata	scope	0	0	1	1
@@ -6405,8 +6314,8 @@ venduto	sold	0	0	1	0
 gp	gp	0	0	1	0
 assicurazioni	insurance	0	0	1	0
 evidente	apparent	0	0	1	1
-evidente	noticeable	0	0	1	1
 evidente	evident	0	0	1	1
+evidente	noticeable	0	0	1	1
 ge	g	0	0	1	0
 vuole	wants	0	0	1	0
 vuole	wants to	0	0	1	0
@@ -6425,7 +6334,6 @@ spesso	often	0	0	1	1
 suite	suite	0	0	1	1
 recuperare	recover	0	0	1	1
 recuperare	rescue	0	0	1	0
-scorre	flow	0	0	1	0
 scorre	flows	0	0	1	0
 residenza	residence	0	0	1	1
 escluso	exepted	0	0	1	0
@@ -6480,8 +6388,8 @@ collina	hill	0	0	1	1
 espresso	expressed	0	0	1	1
 lopportunità	lopportnita	0	0	1	0
 lopportunità	the chance	0	0	1	0
-colline	hills	0	0	1	0
-rotten	rotton	0	0	1	0
+malesia	malaysia	0	0	1	0
+malesia	malesia	0	0	1	0
 vega	vega	0	0	1	0
 collins	collins	0	0	1	0
 collins	family name	0	0	1	0
@@ -6491,12 +6399,10 @@ canali	channels	0	0	1	1
 polvere	powder	0	0	1	1
 radicale	radical	0	0	1	1
 felicità	joy	0	0	1	1
-felicità	it congratulates	0	0	1	0
 felicità	happiness	0	0	1	1
 radicali	radicals	0	0	1	0
 radicali	radiclas	0	0	1	0
 canale	channel	0	0	1	1
-eminem	eminem	0	0	1	0
 infortunio	injury	0	0	1	0
 infortunio	accident	0	0	1	1
 aggiungono	add	0	0	1	0
@@ -6540,8 +6446,7 @@ violenti	violent	0	0	1	0
 violenti	violents	0	0	1	0
 rappresentava	represented	0	0	1	0
 rappresentava	represents	0	0	1	0
-promozionale	promotional	0	0	1	0
-dichiara	declare	0	0	1	0
+esprimere	express	0	0	1	1
 dichiara	declares	0	0	1	0
 hudson	hudson	0	0	1	0
 alessandria	alessandria	0	0	1	0
@@ -6574,7 +6479,8 @@ dellamerica	of america	0	0	1	0
 apparentemente	apparently	0	0	1	1
 apparentemente	seemingly	0	0	1	1
 fabio	fabio	0	0	1	0
-inizio	beginning	0	0	1	1
+eventuali	possible	0	0	1	0
+eventuali	any	0	0	1	0
 classifiche	rankings	0	0	1	0
 cantanti	singers	0	0	1	0
 cantanti	sung	0	0	1	0
@@ -6688,7 +6594,6 @@ margine	border	0	0	1	1
 margine	margin	0	0	1	1
 lallenatore	lallenatore	0	0	1	0
 lallenatore	(the) coach	0	0	1	0
-special	especially	0	0	1	0
 special	special	0	0	1	0
 butch	butch	0	0	1	0
 commesso	clerk	0	0	1	1
@@ -6696,7 +6601,7 @@ sceglie	choose	0	0	1	0
 entertainment	entertainment	0	0	1	0
 banco	bank	0	0	1	1
 ricky	ricky	0	0	1	0
-may	may	0	0	1	0
+critics	critics	0	0	1	0
 arrivato	arrived	0	0	1	0
 specialmente	especially	0	0	1	1
 siena	siena	0	0	1	0
@@ -6731,7 +6636,6 @@ approvata	approved	0	0	1	0
 replicazione	replication	0	0	1	1
 bensì	but	0	0	1	0
 bensì	but rather	0	0	1	0
-austin	austin	0	0	1	0
 approvato	approved	0	0	1	1
 berlusconi	berlusconi	0	0	1	0
 combattuta	fighted	0	0	1	0
@@ -6739,7 +6643,7 @@ combattuta	fought	0	0	1	0
 christoph	christoph	0	0	1	0
 estremi	extreem	0	0	1	0
 estremi	extreme	0	0	1	0
-stefania	stefania	0	0	1	0
+vulva	vulva	0	0	1	1
 difetti	defects	0	0	1	0
 difetti	imperfections	0	0	1	0
 religiosa	religious	0	0	1	0
@@ -6771,7 +6675,6 @@ esecuzione	show	0	0	1	0
 liste	list	0	0	1	0
 liste	lists	0	0	1	0
 lista	list	0	0	1	1
-ichigo	a name	0	0	1	0
 ichigo	ichigo	0	0	1	0
 rss	rss	0	0	1	0
 lamborghini	lamborghini	0	0	1	0
@@ -6873,7 +6776,7 @@ allepoca	at that time	0	0	1	0
 catturati	catched	0	0	1	0
 catturati	captured	0	0	1	0
 catturato	captured	0	0	1	0
-professore	professor	0	0	1	1
+piedi	feet	0	0	1	1
 notturna	night	0	0	1	0
 varie	various	0	0	1	0
 notturno	nightly	0	0	1	0
@@ -6884,7 +6787,6 @@ tiri	shot	0	0	1	0
 tiri	shots	0	0	1	0
 varia	varies	0	0	1	0
 equivalente	equivalent	0	0	1	1
-dellesperienza	of experience	0	0	1	0
 ritirato	retired	0	0	1	1
 libri	books	0	0	1	0
 professori	teachers	0	0	1	0
@@ -6892,7 +6794,10 @@ mantenuto	maintained	0	0	1	0
 mantenuto	kept	0	0	1	0
 mantenuto	to maintain	0	0	1	0
 emerse	emerged	0	0	1	0
-sasso	stone	0	0	1	1
+podio	platform	0	0	1	1
+podio	podium	0	0	1	1
+podio	stand	0	0	1	1
+podio	rostrum	0	0	1	1
 climatologia	climatologist	1	0	1	0
 climatologia	climatología	1	0	1	0
 climatologia	climate	1	1	0	0
@@ -6912,7 +6817,6 @@ fascismo	fascism	0	0	1	1
 massiccia	massive	0	0	1	0
 gray	gray	0	0	1	0
 golfo	gulf	0	0	1	1
-massiccio	bulky	0	0	1	1
 massiccio	massive	0	0	1	1
 lazienda	company	0	0	1	0
 lazienda	the company	0	0	1	0
@@ -7059,7 +6963,6 @@ lanime	the souls	0	0	1	0
 lanime	anime	0	0	1	0
 diversità	diversity	0	0	1	1
 lanima	soul	0	0	1	0
-lanima	the soul	0	0	1	0
 dinastia	dynasty	0	0	1	1
 dinastia	dinasty	0	0	1	0
 i	the	0	0	1	1
@@ -7099,7 +7002,6 @@ parlando	talking	0	0	1	0
 nata	born	0	0	1	0
 nate	born	0	0	1	0
 definitiva	final	0	0	1	0
-boccaccio	boccaccio	0	0	1	0
 livio	livio	0	0	1	0
 livio	bluish	0	0	1	0
 fate	do	0	0	1	0
@@ -7151,20 +7053,20 @@ guerrieri	warrior	0	0	1	0
 organizzazione	organization	0	0	1	1
 fanno	do	0	0	1	0
 sicuramente	certainly	0	0	1	1
-sicuramente	of course	0	0	1	1
 wendy	wendy	0	0	1	0
 densità	density	0	0	1	1
 convinti	convinced	0	0	1	0
 evitare	avoid	0	0	1	1
 laccademia	academy	0	0	1	0
 laccademia	laccademia	0	0	1	0
-borghesia	bourgeoise	0	0	1	0
 borghesia	bourgeoisie	0	0	1	1
+borghesia	bourgeoise	0	0	1	0
 borghesia	middle class	0	0	1	1
 avvenne	occurred	0	0	1	0
 avvenne	happened	0	0	1	0
 cagliari	cagliari	0	0	1	0
-television	television	0	0	1	0
+caccia	hunt	0	0	1	1
+caccia	hunting	0	0	1	1
 paterna	paternal	0	0	1	0
 marito	husband	0	0	1	1
 sosteneva	claimed	0	0	1	0
@@ -7195,7 +7097,8 @@ delusione	delusion	0	0	1	0
 delusione	disappointment	0	0	1	1
 gruppo	group	0	0	1	1
 museum	museum	0	0	1	0
-gruppi	groups	0	0	1	0
+spaziale	spatial	0	0	1	1
+spaziale	space	0	0	1	1
 purgatorio	purgatory	0	0	1	1
 guardia	guard	0	0	1	1
 daniele	daniel	0	0	1	0
@@ -7216,7 +7119,6 @@ ha	there is	0	0	1	0
 ultimo	last	0	0	1	1
 veicolo	vehicle	0	0	1	1
 denominata	called	0	0	1	0
-riuniti	gathered	0	0	1	0
 riuniti	meeting	0	0	1	0
 lineare	linear	0	0	1	1
 denominato	called	0	0	1	0
@@ -7226,9 +7128,8 @@ comprensione	understanding	0	0	1	1
 dellinter	dellinter	0	0	1	0
 anteprima	preview	0	0	1	1
 tastiere	keyboards	0	0	1	0
-tastiere	keyboard	0	0	1	0
-cella	prison cell	0	0	1	0
 cella	cell	0	0	1	1
+cella	prison cell	0	0	1	0
 piece	piece	0	0	1	0
 celle	cell	0	0	1	0
 celle	cells	0	0	1	0
@@ -7250,7 +7151,6 @@ eric	eric	0	0	1	0
 dottoressa	dr.	0	0	1	0
 dottoressa	dr	0	0	1	0
 dottoressa	doctor	0	0	1	0
-mauro	mauro	0	0	1	0
 saputo	known	0	0	1	1
 diego	diego	0	0	1	0
 formaggio	cheese	0	0	1	1
@@ -7260,7 +7160,6 @@ strumenti	tools	0	0	1	0
 ceti	ranks	0	0	1	0
 ceti	classes	0	0	1	0
 rumore	noise	0	0	1	1
-ponendo	set by	0	0	1	0
 ponendo	placing	0	0	1	0
 composto	composed	0	0	1	1
 composto	consisting	0	0	1	0
@@ -7340,7 +7239,6 @@ chiusura	closing closure end lock shutdown fastening shutting clamp zip clam clo
 credono	believe	0	0	1	0
 cavalieri	knights	0	0	1	0
 restò	rest	0	0	1	0
-restò	stayed	0	0	1	0
 restò	remained	0	0	1	0
 carrie	carrie	0	0	1	0
 sconfitte	loss	0	0	1	0
@@ -7376,7 +7274,6 @@ posizioni	positions	0	0	1	0
 posizioni	poison	0	0	1	0
 circolo	club	0	0	1	1
 circolo	circle	0	0	1	1
-andré	andre	0	0	1	0
 andré	andré	0	0	1	0
 tipi	kind	0	0	1	0
 tipi	types	0	0	1	0
@@ -7398,7 +7295,7 @@ fuga	escape	0	0	1	1
 civiltà	civilization	0	0	1	1
 propri	their	0	0	1	0
 propri	one's own	0	0	1	0
-new	nuovo	0	0	1	0
+dautore	dautore	0	0	1	0
 nanni	nanni	0	0	1	0
 luomo	the man	0	0	1	0
 montuose	mountainous	0	0	1	0
@@ -7422,7 +7319,6 @@ adolescente	teenager	0	0	1	1
 sceneggiatore	screenwriter	0	0	1	1
 economici	economic	0	0	1	0
 resti	remains	0	0	1	1
-resti	remnants	0	0	1	0
 resto	remainder	0	0	1	1
 resto	rest	0	0	1	1
 parlano	speak	0	0	1	0
@@ -7502,7 +7398,6 @@ uniche	only	0	0	1	0
 uniche	unique	0	0	1	0
 carica	load	0	0	1	1
 carica	charge	0	0	1	1
-carica	upload	0	0	1	0
 definisce	defines	0	0	1	0
 carico	load	0	0	1	1
 carico	loaded	0	0	1	1
@@ -7518,7 +7413,9 @@ colonia	colony	0	0	1	1
 volturi	volturi	0	0	1	0
 colonie	colonies	0	0	1	0
 principe	prince	0	0	1	1
-tbag	tbag	0	0	1	0
+presunta	suspected	0	0	1	0
+presunta	alleged	0	0	1	0
+presunta	presumed	0	0	1	0
 autonomo	independent	0	0	1	0
 autonomo	autonomous	0	0	1	1
 quod	quod	0	0	1	0
@@ -7561,7 +7458,6 @@ limpianto	the plant	0	0	1	0
 determinata	determined	0	0	1	0
 determinato	determined	0	0	1	1
 determinato	fixed	0	0	1	0
-sospetti	suspects	0	0	1	0
 sospetti	suspicions	0	0	1	0
 sospetti	doubts	0	0	1	0
 murray	murray	0	0	1	0
@@ -7608,7 +7504,6 @@ sasuke	sasuke	0	0	1	0
 accettò	acceptable	0	0	1	0
 allinterno	inside	0	0	1	0
 luci	lights	0	0	1	0
-bond	bond	0	0	1	0
 nave	ship	0	0	1	1
 liga	liga	0	0	1	0
 navi	ships	0	0	1	1
@@ -7623,7 +7518,8 @@ kiev	kiev	0	0	1	0
 immagine	image	0	0	1	1
 essenziale	essential	0	0	1	1
 essenziale	essential basic main pivotal material elemental broad	0	0	1	0
-tales	tales	0	0	1	0
+generico	generic	0	0	1	1
+generico	common	0	0	1	0
 immagini	images	0	0	1	0
 colazione	breakfast	0	0	1	1
 rafforzare	strengthen	0	0	1	1
@@ -7639,7 +7535,6 @@ vettore	vector	0	0	1	1
 vettore	medium	0	0	1	0
 vettore	carrier	0	0	1	1
 effettuato	made	0	0	1	0
-sanremo	sanremo	0	0	1	0
 intanto	meantime	0	0	1	1
 intanto	at the same time	0	0	1	1
 intanto	meanwhile	0	0	1	1
@@ -7728,11 +7623,13 @@ fortemente	strongly	0	0	1	1
 fortemente	strongly heavily high	0	0	1	0
 fortemente	highly	0	0	1	0
 transizione	transition	0	0	1	1
-organizzate	organized	0	0	1	0
+tommaso	thomas	0	0	1	0
+tommaso	tommaso	0	0	1	0
 pinehearst	pinehearst	0	0	1	0
 terrestre	terrestrial	0	0	1	1
 altre	other	0	0	1	0
 altre	others	0	0	1	0
+memphis	memphis	0	0	1	0
 clapton	clapton	0	0	1	0
 terrestri	terrestrial	0	0	1	0
 terrestri	terrorists	0	0	1	0
@@ -7770,7 +7667,6 @@ liberty	liberty	0	0	1	0
 ritirarsi	retire	0	0	1	1
 iniziate	started	0	0	1	0
 iniziata	started	0	0	1	0
-iniziata	starting	0	0	1	0
 iniziata	initiated	0	0	1	0
 chiamò	call	0	0	1	0
 chiamò	called	0	0	1	0
@@ -7815,8 +7711,8 @@ affrontare	face	0	0	1	1
 juliet	juliet	0	0	1	0
 sorti	arosen	0	0	1	0
 sorti	born	0	0	1	0
-sorti	destinies	0	0	1	0
-duff	duff	0	0	1	0
+risalire	date back	0	0	1	1
+risalire	go back	0	0	1	1
 sorta	sort	0	0	1	1
 sorta	type	0	0	1	0
 sorte	fate	0	0	1	1
@@ -7825,7 +7721,6 @@ folla	crowd	0	0	1	1
 chiama	calls	0	0	1	0
 pensieri	thinks	0	0	1	0
 pensieri	thoughts	0	0	1	0
-dodicesima	twelth	0	0	1	0
 dodicesima	twelfth	0	0	1	0
 sapere	know	0	0	1	1
 divinità	deity	0	0	1	1
@@ -7866,7 +7761,6 @@ und	und	0	0	1	0
 ernst	ernst	0	0	1	0
 futuri	future	0	0	1	0
 uno	a	0	0	1	1
-uno	one	0	0	1	1
 enzo	enzo	0	0	1	0
 rappresentato	represented	0	0	1	0
 rappresentati	represented	0	0	1	0
@@ -7878,7 +7772,6 @@ possedere	have	0	0	1	1
 portano	took	0	0	1	0
 portano	lead	0	0	1	0
 grigio	gray	0	0	1	1
-grigio	frey	0	0	1	0
 influenti	influential	0	0	1	0
 influenti	influence	0	0	1	0
 dichiarato	declared	0	0	1	1
@@ -7900,7 +7793,7 @@ website	website	0	0	1	0
 opportunità	opportunity	0	0	1	1
 opportunità	opportunities	0	0	1	0
 restanti	remaining	0	0	1	0
-esordio	debut	0	0	1	1
+allopera	at work	0	0	1	0
 marijuana	marijuana	0	0	1	1
 pista	track	0	0	1	1
 piste	lane	0	0	1	0
@@ -7987,7 +7880,6 @@ materiali	materials	0	0	1	0
 youre	you're	0	0	1	0
 cattolicesimo	catholicism	0	0	1	1
 roma	rome	0	0	1	1
-roma	roma	0	0	1	0
 just	just	0	0	1	0
 emergenza	emergency	0	0	1	1
 cerchi	circles	0	0	1	0
@@ -8006,8 +7898,8 @@ trasmissione	transmission	0	0	1	1
 negozi	shops	0	0	1	0
 negozi	stores	0	0	1	0
 nonché	as well	0	0	1	0
-nota	known	0	0	1	0
-nota	note	0	0	1	1
+massa	mass	0	0	1	1
+massa	mass bulk earth body crowd mob lump multitude heap pack welter	0	0	1	0
 trasmissioni	broadcasts	0	0	1	0
 trasmissioni	transmissions	0	0	1	0
 gustav	gustav	0	0	1	0
@@ -8038,9 +7930,7 @@ anelli	rings	0	0	1	0
 intera	entire	0	0	1	0
 anello	ring	0	0	1	1
 nervoso	nervous	0	0	1	1
-esami	examinations	0	0	1	0
-esami	exams	0	0	1	0
-verona	verona	0	0	1	0
+zolfo	sulfur	0	0	1	1
 affinità	affinity	0	0	1	1
 vede	see	0	0	1	0
 vede	sees	0	0	1	0
@@ -8084,7 +7974,6 @@ tecnologie	technologies	0	0	1	0
 tecnologie	technology	0	0	1	0
 sergio	sergio	0	0	1	0
 nervi	nerves	0	0	1	1
-nervi	crisis	0	0	1	0
 down	down	0	0	1	0
 amsterdam	amsterdam	0	0	1	0
 andando	going	0	0	1	1
@@ -8114,14 +8003,13 @@ basato	based	0	0	1	0
 basato	based on	0	0	1	0
 ford	ford	0	0	1	0
 bere	drinking	0	0	1	1
-bere	to drink	0	0	1	0
 mantiene	maintains	0	0	1	0
 validi	valid	0	0	1	0
 clinico	clinical	0	0	1	1
 diventare	become	0	0	1	1
 diventare	become be get turn make grow go make oneself run	0	0	1	0
-vasto	wide	0	0	1	1
-vasto	vast	0	0	1	1
+archi	archs	0	0	1	0
+archi	arcs	0	0	1	0
 clinica	clinic	0	0	1	1
 contenuti	content	0	0	1	0
 inzaghi	inzaghi	0	0	1	0
@@ -8157,7 +8045,7 @@ dominante	dominant	0	0	1	1
 diagnosi	diagnoses	0	0	1	0
 diagnosi	diagnosed	0	0	1	0
 diagnosi	diagnosis	0	0	1	1
-drive	drive	0	0	1	1
+sale	salt	0	0	1	1
 subì	underwent	0	0	1	0
 subì	suffer	0	0	1	0
 esposizione	exposure	0	0	1	1
@@ -8179,11 +8067,12 @@ nellanno	in years	0	0	1	0
 nellanno	in the year	0	0	1	0
 nellanno	nellanno	0	0	1	0
 holly	holly	0	0	1	0
-rilasciato	released	0	0	1	0
-frodo	illegal	0	0	1	0
+manifestazione	show	0	0	1	1
+manifestazione	demonstration	0	0	1	1
+manifestazione	display	0	0	1	1
+manifestazione	manifestation	0	0	1	1
 frodo	poaching	0	0	1	0
 acque	water	0	0	1	0
-acque	waters	0	0	1	0
 russa	russian	0	0	1	0
 suonano	play	0	0	1	0
 villaggi	villages	0	0	1	0
@@ -8248,7 +8137,6 @@ contengono	contain	0	0	1	0
 riservata	reserved	0	0	1	0
 riservato	reserved	0	0	1	1
 inviò	sending	0	0	1	0
-inviò	sent	0	0	1	0
 trarre	draw	0	0	1	1
 trarre	take	0	0	1	0
 dio	god	0	0	1	1
@@ -8320,8 +8208,8 @@ enormi	dick	0	0	1	0
 muscoli	muscles	0	0	1	0
 esplicitamente	expressly	0	0	1	0
 esplicitamente	explicitly	0	0	1	0
-connessi	attached	0	0	1	0
-connessi	related	0	0	1	0
+enorme	big	0	0	1	0
+enorme	enormous	0	0	1	1
 muscolo	muscle	0	0	1	1
 verga	verga	0	0	1	0
 verga	rod	0	0	1	1
@@ -8339,7 +8227,6 @@ classici	classical	0	0	1	0
 antigeni	antigens	0	0	1	0
 venduti	sold	0	0	1	0
 rifiutare	refuse	0	0	1	1
-rifiutare	to refuse	0	0	1	0
 tifoso	fan	0	0	1	1
 dublino	dublin	0	0	1	0
 allenamento	training	0	0	1	1
@@ -8387,7 +8274,6 @@ nellottobre	in october	0	0	1	0
 parco	park	0	0	1	1
 get	get	0	0	1	0
 però	pear	0	0	1	0
-però	nonetheless	0	0	1	0
 pura	pure	0	0	1	0
 pure	also	0	0	1	1
 maestro	teacher	0	0	1	1
@@ -8398,7 +8284,7 @@ maestri	teachers	0	0	1	0
 mestre	mestre (city)	0	0	1	0
 mar	sea	0	0	1	0
 medievali	medieval	0	0	1	0
-critics	critics	0	0	1	0
+may	may	0	0	1	0
 max	max	0	0	1	0
 nellambiente	environment	0	0	1	0
 nellambiente	nellambiente	0	0	1	0
@@ -8441,9 +8327,9 @@ cute	skin	0	0	1	1
 americani	american	0	0	1	0
 americani	americans	0	0	1	0
 schwartz	schwartz	0	0	1	0
+tales	tales	0	0	1	0
 estera	foreign	0	0	1	0
 legami	ties	0	0	1	0
-legami	bounds	0	0	1	0
 pellicole	films	0	0	1	0
 mettono	put	0	0	1	0
 mettono	bring	0	0	1	0
@@ -8466,7 +8352,6 @@ cinematografici	motion-picture	0	0	1	0
 cinematografici	film	0	0	1	0
 lavorato	worked	0	0	1	1
 lavorato	lavorta	0	0	1	0
-cinematografica	movie	0	0	1	0
 cinematografica	film	0	0	1	0
 spettacolo	show	0	0	1	1
 linfanzia	linfanzia	0	0	1	0
@@ -8497,7 +8382,7 @@ attuale	present	0	0	1	1
 campanile	bell tower	0	0	1	1
 lunghi	long	0	0	1	0
 raggiungendo	reaching	0	0	1	0
-produttiva	productive	0	0	1	0
+beach	beach	0	0	1	0
 lunghe	lughe	0	0	1	0
 lunghe	long	0	0	1	0
 gravidanza	pregnancy	0	0	1	1
@@ -8540,7 +8425,6 @@ riunione	meeting	0	0	1	1
 jackson	jackson	0	0	1	0
 nascente	nascent	0	0	1	1
 pamela	pamela	0	0	1	0
-dellazione	of action	0	0	1	0
 dellazione	dellazione	0	0	1	0
 dellazione	of the action	0	0	1	0
 qualificata	qualified	0	0	1	0
@@ -8553,7 +8437,6 @@ romana	roman	0	0	1	0
 navale	marine	0	0	1	1
 navale	naval	0	0	1	1
 mercantile	merchant	0	0	1	1
-mercantile	mercantile	0	0	1	1
 fisici	physical	0	0	1	0
 romane	roman	0	0	1	0
 segugio	hound	0	0	1	1
@@ -8614,7 +8497,6 @@ raccontare	tell	0	0	1	1
 conservati	preserved	0	0	1	0
 aspirazioni	aspirations	0	0	1	0
 immortale	immortal	0	0	1	1
-conservate	saved	0	0	1	0
 conservate	preserved	0	0	1	0
 rosario	rosary	0	0	1	1
 rosario	rosebush	0	0	1	0
@@ -8624,8 +8506,7 @@ altro	more	0	0	1	1
 eyes	eyes	0	0	1	0
 organizzata	is organized	0	0	1	0
 organizzata	organized	0	0	1	0
-tommaso	thomas	0	0	1	0
-tommaso	tommaso	0	0	1	0
+organizzate	organized	0	0	1	0
 coefficiente	coefficient	0	0	1	1
 organizzati	organized	0	0	1	0
 organizzato	organized	0	0	1	1
@@ -8645,8 +8526,8 @@ atleti	athletes	0	0	1	0
 comunisti	communists	0	0	1	0
 tecnici	technical	0	0	1	0
 tecnici	technicals	0	0	1	0
-comunista	comunist	0	0	1	0
 comunista	communist	0	0	1	1
+comunista	comunist	0	0	1	0
 vienna	wien	0	0	1	0
 vienna	vienna	0	0	1	0
 piccole	small	0	0	1	0
@@ -8659,7 +8540,6 @@ bolognese	of bologna	0	0	1	0
 bolognese	bolognese	0	0	1	0
 piccoli	small	0	0	1	0
 dallalto	from above	0	0	1	0
-pubblicazione	release	0	0	1	1
 pubblicazione	publication	0	0	1	1
 pubblicazioni	pubblications	0	0	1	0
 pubblicazioni	publications	0	0	1	0
@@ -8673,6 +8553,7 @@ ferdinando	ferdinand	0	0	1	0
 dellambiente	dellambiente	0	0	1	0
 canton	swiss state	0	0	1	0
 canton	canton	0	0	1	0
+molise	molise	0	0	1	0
 bailey	bailey	0	0	1	0
 green	green	0	0	1	0
 channel	channel	0	0	1	0
@@ -8684,7 +8565,7 @@ assumere	assume	0	0	1	1
 assumere	take	0	0	1	1
 assumere	take assume take on hire recruit employ undertake engage gather sign on accede sign up	0	0	1	0
 theatre	theater	0	0	1	0
-molise	molise	0	0	1	0
+verona	verona	0	0	1	0
 singoli	singles	0	0	1	0
 singoli	single	0	0	1	0
 singoli	individual	0	0	1	0
@@ -8698,10 +8579,7 @@ lamico	the friend	0	0	1	0
 lamico	lamico	0	0	1	0
 correnti	current	0	0	1	0
 correnti	currents	0	0	1	0
-manifestazione	show	0	0	1	1
-manifestazione	demonstration	0	0	1	1
-manifestazione	display	0	0	1	1
-manifestazione	manifestation	0	0	1	1
+rilasciato	released	0	0	1	0
 consegnare	deliver	0	0	1	1
 manifestazioni	events	0	0	1	0
 dellurss	dellurss	0	0	1	0
@@ -8722,7 +8600,6 @@ eccessivamente	excessively	0	0	1	1
 eccessivamente	too much	0	0	1	0
 precisi	precise	0	0	1	0
 precisi	accurate	0	0	1	0
-borghese	burgess	0	0	1	1
 borghese	bourgeois	0	0	1	1
 infatti	in fact	0	0	1	1
 elevate	high	0	0	1	0
@@ -8804,7 +8681,6 @@ ricostruito	reconstructed	0	0	1	0
 ricostruito	rebuilt	0	0	1	0
 ideata	designed	0	0	1	0
 ideata	concepted	0	0	1	0
-giulia	giulia	0	0	1	0
 giulia	joe	0	0	1	0
 giulia	julia	0	0	1	0
 marmo	marble	0	0	1	1
@@ -8836,9 +8712,7 @@ nelleuropa	nelleuropa	0	0	1	0
 nelleuropa	in the europe	0	0	1	0
 jr	jr	0	0	1	0
 originaria	original	0	0	1	0
-nellepisodio	in episode	0	0	1	0
-nellepisodio	nellepisodio	0	0	1	0
-tuo	your	0	0	1	1
+magna	magna	0	0	1	0
 jd	jd	0	0	1	0
 magno	great	0	0	1	1
 magno	magna	0	0	1	0
@@ -8846,8 +8720,6 @@ originario	originating	0	0	1	0
 originario	original	0	0	1	1
 vento	wind	0	0	1	1
 dedicati	dedicated	0	0	1	0
-z	of	0	0	1	0
-z	z	0	0	1	0
 rugby	rugby	0	0	1	1
 dedicato	dedicated	0	0	1	0
 patrono	patron	0	0	1	1
@@ -8979,6 +8851,7 @@ storici	historical	0	0	1	0
 ammissione	admission	0	0	1	1
 ammissione	ammission	0	0	1	0
 traccia	track	0	0	1	1
+mano	hand	0	0	1	1
 giurisprudenza	jurisprudence	0	0	1	1
 gates	gates	0	0	1	0
 fumo	smoke or fumes	0	0	1	0
@@ -9006,8 +8879,7 @@ quelle	that	0	0	1	0
 bowie	(surname)	0	0	1	0
 quelli	those	0	0	1	1
 quello	that	0	0	1	1
-logaritmo	logirathm	0	0	1	0
-logaritmo	logarithm	0	0	1	1
+lenta	slow	0	0	1	0
 vasari	vasari	0	0	1	0
 vasari	potters	0	0	1	0
 germania	germany	0	0	1	1
@@ -9018,8 +8890,8 @@ costituiscono	form	0	0	1	0
 schwarzenegger	schwarzenegger	0	0	1	0
 medioevale	medieval	0	0	1	0
 ricerca	search	0	0	1	1
-parlate	discussions	0	0	1	0
 parlate	spoken	0	0	1	0
+parlate	discussions	0	0	1	0
 simmons	simmons	0	0	1	0
 simmons	simmions	0	0	1	0
 attrice	actress	0	0	1	1
@@ -9103,6 +8975,8 @@ road	road	0	0	1	1
 condanna	condemnation	0	0	1	1
 fertile	fertile	0	0	1	1
 auschwitz	auschwitz	0	0	1	0
+entra	come in	0	0	1	0
+entra	enters	0	0	1	0
 wilde	wild	0	0	1	0
 wilde	wilde	0	0	1	0
 einstein	einstein	0	0	1	0
@@ -9116,8 +8990,9 @@ sostituto	substitute	0	0	1	1
 visita	tour	0	0	1	0
 visita	visit	0	0	1	1
 visita	visiting	0	0	1	0
-austriaco	austrian	0	0	1	1
-austriaco	austrain	0	0	1	0
+dellanno	the year	0	0	1	0
+dellanno	of year	0	0	1	0
+dellanno	of the year	0	0	1	0
 decisivo	decisive	0	0	1	1
 decisivo	decision	0	0	1	0
 scendono	they go down	0	0	1	0
@@ -9187,8 +9062,6 @@ film	film	0	0	1	1
 misura	measure	0	0	1	1
 istanbul	istanbul	0	0	1	1
 prime	first	0	0	1	0
-momento	moment	0	0	1	1
-momento	time	0	0	1	1
 interpretazione	interpretation	0	0	1	1
 fredda	cold	0	0	1	0
 flusso	flow	0	0	1	1
@@ -9201,10 +9074,9 @@ avessero	had	0	0	1	0
 organizzare	organize	0	0	1	1
 organizzare	organuize	0	0	1	0
 brando	brando	0	0	1	0
-casalinga	housewife	0	0	1	1
 segnale	signal	0	0	1	1
-doppietta	double	0	0	1	0
 doppietta	twice	0	0	1	0
+doppietta	double	0	0	1	0
 studenti	students	0	0	1	0
 collettivo	collective	0	0	1	1
 collettiva	collective	0	0	1	0
@@ -9256,8 +9128,8 @@ esibirsi	perform	0	0	1	1
 innovazione	innovation	0	0	1	1
 innovazione	innovations	0	0	1	0
 vigore	vigour	0	0	1	1
-vigore	strength	0	0	1	1
 vigore	force	0	0	1	1
+volte	times	0	0	1	1
 consegnato	was presented	0	0	1	0
 consegnato	delivered	0	0	1	0
 consegnato	given	0	0	1	0
@@ -9305,7 +9177,6 @@ trasferito	moved	0	0	1	0
 trasferito	transferred	0	0	1	0
 conte	count	0	0	1	1
 misero	poor	0	0	1	1
-misero	put	0	0	1	0
 medico	doctor	0	0	1	1
 psicologico	psychological	0	0	1	1
 psicologico	psychologist	0	0	1	0
@@ -9352,9 +9223,8 @@ competizioni	competion	0	0	1	0
 town	town	0	0	1	0
 lenergia	the energy	0	0	1	0
 lenergia	energy	0	0	1	0
-marcata	pronounced	0	0	1	0
-marcata	marked	0	0	1	0
-marcata	amrked	0	0	1	0
+guarda	looks	0	0	1	0
+guarda	look	0	0	1	0
 nona	ninth	0	0	1	1
 nono	ninth	0	0	1	1
 nono	9th	0	0	1	0
@@ -9400,7 +9270,8 @@ causata	caused	0	0	1	0
 rilevanza	importance	0	0	1	0
 rilevanza	relevance	0	0	1	0
 viene	is	0	0	1	0
-sesta	sixth	0	0	1	0
+raggiungere	meet	0	0	1	0
+raggiungere	reach	0	0	1	1
 sesto	sixth	0	0	1	1
 trasporto	transportation	0	0	1	0
 trasporto	transport	0	0	1	1
@@ -9455,8 +9326,7 @@ eseguita	performed	0	0	1	0
 peste	death	0	0	1	0
 peste	plague	0	0	1	1
 pene	penis	0	0	1	1
-continuando	continuing	0	0	1	0
-continuando	continued	0	0	1	0
+wilhelm	wilhelm	0	0	1	0
 pena	penalty	0	0	1	1
 penn	penn	0	0	1	0
 lato	side	0	0	1	1
@@ -9538,7 +9408,6 @@ pasolini	pasolini	0	0	1	0
 equilibrio	balance	0	0	1	1
 ungaretti	ungaretti	0	0	1	0
 piloti	pilots	0	0	1	0
-temendo	afraid	0	0	1	0
 temendo	fearing	0	0	1	0
 pilota	pilot	0	0	1	1
 sitcom	sitcom	0	0	1	0
@@ -9561,14 +9430,12 @@ valentina	valentine	0	0	1	0
 secco	dry	0	0	1	1
 sintomo	symptom	0	0	1	1
 canadese	canadian	0	0	1	1
-cade	fall	0	0	1	0
 cade	falls	0	0	1	0
+cade	fall	0	0	1	0
 doni	gifts	0	0	1	0
 doni	offerings	0	0	1	0
 profitto	profit	0	0	1	1
-canadesi	canadians	0	0	1	0
-canadesi	canadiens	0	0	1	0
-canadesi	canadian	0	0	1	0
+dono	gift	0	0	1	1
 fire	fire	0	0	1	0
 cemento	cement	0	0	1	1
 completamente	completely	0	0	1	1
@@ -9603,7 +9470,6 @@ appoggio	support backing rest endorsement abutment footing advocacy backup prop 
 appoggio	support	0	0	1	1
 dossier	dossier	0	0	1	0
 rendimento	performance	0	0	1	1
-rendimento	preformance	0	0	1	0
 giudizio	judgement	0	0	1	1
 giudizio	judgment	0	0	1	1
 cercando	looking	0	0	1	0
@@ -9616,6 +9482,7 @@ zurigo	zurich	0	0	1	0
 telecomunicazioni	telecommunications	0	0	1	0
 mountain	mountain	0	0	1	0
 autunno	autumn	0	0	1	1
+zero	zero	0	0	1	1
 dancing	dancing	0	0	1	0
 citati	cited	0	0	1	0
 citati	quoted	0	0	1	0
@@ -9631,7 +9498,6 @@ province	provinces	0	0	1	1
 macchie	stains	0	0	1	0
 macchie	marks	0	0	1	0
 macchia	stain	0	0	1	1
-macchia	blemish	0	0	1	1
 macchia	scrub	0	0	1	1
 serena	serene	0	0	1	0
 serena	serena	0	0	1	0
@@ -9640,15 +9506,14 @@ essa	it	0	0	1	1
 most	most	0	0	1	0
 esse	they	0	0	1	1
 esse	that	0	0	1	0
-essi	them	0	0	1	1
-essi	they	0	0	1	1
+daphne	daphne	0	0	1	0
 esso	it	0	0	1	1
 esso	he	0	0	1	1
 aiuti	aid	0	0	1	0
 aiuti	help	0	0	1	0
 colonizzazione	coloizzazione	0	0	1	0
 colonizzazione	colonization	0	0	1	1
-ufficiali	official	0	0	1	0
+clemente	clemente	0	0	1	0
 settimanale	weekly	0	0	1	1
 km	km	0	0	1	0
 seguente	following	0	0	1	1
@@ -9657,7 +9522,6 @@ guardare	watch	0	0	1	1
 guardare	to watch	0	0	1	0
 seguenti	following	0	0	1	0
 giustizia	justice	0	0	1	1
-giustizia	justice prevail	0	0	1	0
 thomas	thomas	0	0	1	0
 luniversità	the university	0	0	1	0
 luniversità	university	0	0	1	0
@@ -9670,8 +9534,7 @@ fino	ultil	0	0	1	0
 fino	up to	0	0	1	1
 fino	until	0	0	1	0
 approssimativamente	approximately	0	0	1	1
-malesia	malaysia	0	0	1	0
-malesia	malesia	0	0	1	0
+colline	hills	0	0	1	0
 fine	fine	0	0	1	1
 fine	end	0	0	1	1
 suggerito	suggested	0	0	1	0
@@ -9682,7 +9545,6 @@ tempesta	storm tempest gale flurry bluster snorter	0	0	1	0
 tempesta	storm	0	0	1	1
 dapertura	of opening	0	0	1	0
 dapertura	opening	0	0	1	0
-singolare	unique	0	0	1	0
 singolare	singular	0	0	1	1
 escono	they exit	0	0	1	0
 escono	out	0	0	1	0
@@ -9703,7 +9565,7 @@ inaugurato	inaugurated	0	0	1	0
 trofeo	trophy	0	0	1	1
 trofei	trophy	0	0	1	0
 trofei	trophies	0	0	1	0
-letto	bed	0	0	1	1
+robespierre	robespierre	0	0	1	0
 dipende	depends	0	0	1	0
 dipende	depends depends depends depends depends depends depends depends	0	0	1	0
 autore	author	0	0	1	1
@@ -9802,7 +9664,6 @@ diverrà	became	0	0	1	0
 gas	gas	0	0	1	1
 fiscale	fiscal	0	0	1	1
 neppure	neither	0	0	1	1
-neppure	not even	0	0	1	1
 whitney	whitney	0	0	1	0
 seguire	follow	0	0	1	1
 destinate	set aside	0	0	1	0
@@ -9856,7 +9717,6 @@ italo	italic	0	0	1	0
 italo	italian	0	0	1	0
 dittatura	dictatorship	0	0	1	1
 basta	enough	0	0	1	0
-basta	just	0	0	1	0
 lislam	lislam	0	0	1	0
 lislam	the islam	0	0	1	0
 lislam	islam	0	0	1	0
@@ -9879,11 +9739,11 @@ sorella	sister	0	0	1	1
 registrata	rigester	0	0	1	0
 registrata	recorded	0	0	1	0
 registrata	check in	0	0	1	0
+ab	ab	0	0	1	0
 sorelle	sisters	0	0	1	0
 registrate	recorded	0	0	1	0
 recano	go	0	0	1	0
-entra	come in	0	0	1	0
-entra	enters	0	0	1	0
+baglioni	baglioni	0	0	1	0
 ampi	large	0	0	1	0
 ampi	wide	0	0	1	0
 gravitazionale	gravitational	0	0	1	0
@@ -9940,6 +9800,8 @@ nascondere	hide	0	0	1	1
 gaetano	gaetano	0	0	1	0
 dellagricoltura	dellagricoltura	0	0	1	0
 dellagricoltura	of agriculture	0	0	1	0
+austriaco	austrian	0	0	1	1
+austriaco	austrain	0	0	1	0
 pubblicare	publish	0	0	1	1
 organizza	organizes	0	0	1	0
 corruzione	bribery	0	0	1	1
@@ -9959,8 +9821,8 @@ ambientato	set in	0	0	1	0
 ambientato	ambientatoset	0	0	1	0
 difetto	defect  noun defect default fault flaw lack failure bug deficiency shortcoming blemish vice miss	0	0	1	0
 difetto	defect	0	0	1	1
-ambientati	based in	0	0	1	0
 ambientati	ambientati	0	0	1	0
+ambientati	based in	0	0	1	0
 statistiche	statistics	0	0	1	0
 ambientate	acclimatized	0	0	1	0
 ambientate	ambiented	0	0	1	0
@@ -9990,7 +9852,7 @@ nazista	nazi	0	0	1	1
 figlie	daughters	0	0	1	1
 aspetto	appearance	0	0	1	1
 aspetto	look	0	0	1	1
-figlia	daughter	0	0	1	1
+per	for	0	0	1	1
 lexie	lexie	0	0	1	0
 lexie	lexi	0	0	1	0
 energia	energy	0	0	1	1
@@ -10021,7 +9883,7 @@ esterni	east	0	0	1	0
 esterni	external	0	0	1	0
 britannici	british	0	0	1	0
 esterne	external	0	0	1	0
-esprimere	express	0	0	1	1
+promozionale	promotional	0	0	1	0
 esterna	express	0	0	1	0
 esterna	external	0	0	1	0
 britannica	british	0	0	1	0
@@ -10058,6 +9920,8 @@ lincidente	the incident	0	0	1	0
 modifiche	modifications	0	0	1	0
 modifiche	changes	0	0	1	0
 murphy	murphy	0	0	1	0
+abbondanti	abundant	0	0	1	0
+abbondanti	plenty	0	0	1	0
 invito	invitation	0	0	1	1
 serie	series	0	0	1	1
 seria	serious	0	0	1	0
@@ -10106,7 +9970,6 @@ avvocato	counselor	0	0	1	0
 assassinato	murdered	0	0	1	0
 assassinato	assassinated	0	0	1	0
 significativo	significant	0	0	1	1
-priori	from before	0	0	1	0
 priori	priori	0	0	1	0
 priori	before	0	0	1	0
 significativi	significant	0	0	1	0
@@ -10136,6 +9999,7 @@ proviene	comes	0	0	1	0
 trovando	finding	0	0	1	0
 trovando	founding	0	0	1	0
 trovando	don't find	0	0	1	0
+ufficiali	official	0	0	1	0
 passaggio	passage	0	0	1	1
 regionale	regional	0	0	1	1
 regionali	regional	0	0	1	0
@@ -10144,7 +10008,6 @@ brainiac	brainiac	0	0	1	0
 rubare	swipe.	0	0	1	0
 rubare	stolen	0	0	1	1
 rubare	pinch	0	0	1	1
-rubare	rob	0	0	1	1
 rubare	thieve	0	0	1	1
 rubare	snatch	0	0	1	1
 rubare	take	0	0	1	1
@@ -10210,7 +10073,6 @@ shock	shock	0	0	1	1
 campania	campania	0	0	1	0
 quindici	fifteen	0	0	1	1
 marsilio	marsilio	0	0	1	0
-lattore	the actor	0	0	1	0
 lattore	later	0	0	1	0
 spazio	space	0	0	1	1
 comunicare	communicate	0	0	1	1
@@ -10247,7 +10109,6 @@ esercitato	exercited	0	0	1	0
 esercitato	exercised	0	0	1	0
 luis	luis	0	0	1	0
 esercitata	exerted	0	0	1	0
-esercitata	practised	0	0	1	0
 esercitata	exercising	0	0	1	0
 punizione	punishment	0	0	1	1
 nevicate	snowfalls	0	0	1	0
@@ -10279,7 +10140,6 @@ producono	produce	0	0	1	0
 producono	they produce	0	0	1	0
 dellantica	(of) ancient	0	0	1	0
 dellantica	of ancient	0	0	1	0
-dellantica	dellantica	0	0	1	0
 conferenza	conference	0	0	1	1
 altitudine	altitude	0	0	1	1
 dellilluminismo	dellilluminismo	0	0	1	0
@@ -10349,7 +10209,6 @@ usciti	out	0	0	1	0
 terrier	terrier	0	0	1	1
 possibile	possible	0	0	1	1
 loperazione	the operation	0	0	1	0
-piacere	pleasure	0	0	1	0
 piacere	like	0	0	1	1
 professionisti	professionals	0	0	1	0
 omicidio	homicide	0	0	1	1
@@ -10374,8 +10233,8 @@ tronco	trunk	0	0	1	1
 riuscirono	could	0	0	1	0
 riuscirono	succeeded	0	0	1	0
 spinta	push	0	0	1	1
-spinta	thrust	0	0	1	1
 spinta	pushed	0	0	1	0
+spinta	thrust	0	0	1	1
 ruota	wheel	0	0	1	1
 ruota	steering wheel	0	0	1	0
 enea	enea	0	0	1	0
@@ -10476,14 +10335,11 @@ rinascita	rebirth	0	0	1	1
 faida	feud	0	0	1	1
 successione	succession	0	0	1	1
 guglielmo	william	0	0	1	0
-guglielmo	needle	0	0	1	0
 barriera	barrier hedge bar hurdle	0	0	1	0
 barriera	barrier	0	0	1	1
 bruto	brute	0	0	1	1
 bruto	brutus	0	0	1	0
 cerchia	circle	0	0	1	1
-cerchia	circle of walls	0	0	1	0
-richiede	it asks for	0	0	1	0
 richiede	requires	0	0	1	0
 richiede	asks	0	0	1	0
 lincarico	lincarico	0	0	1	0
@@ -10496,23 +10352,17 @@ adotta	adopts	0	0	1	0
 monumentali	monumentals	0	0	1	0
 monumentali	monumental	0	0	1	0
 strategia	strategy	0	0	1	1
-dellanno	the year	0	0	1	0
-dellanno	of year	0	0	1	0
-dellanno	of the year	0	0	1	0
 intraprendere	undertake	0	0	1	1
-plastica	plastic [surgery]	0	0	1	0
 plastica	plastic	0	0	1	1
 etnia	ethnic group	0	0	1	0
 etnia	ethnicity	0	0	1	0
 poco	little	0	0	1	1
-poco	soon	0	0	1	0
 etnie	ethnic groups	0	0	1	0
 etnie	ethnic	0	0	1	0
 conosceva	knew	0	0	1	0
-rivoluzionario	revolutionary	0	0	1	1
 monkey	monkey	0	0	1	0
-dallinizio	from start	0	0	1	0
 dallinizio	from the beginning	0	0	1	0
+dallinizio	from start	0	0	1	0
 bologna	bologna	0	0	1	0
 carnevale	carneval	0	0	1	0
 carnevale	carnival	0	0	1	1
@@ -10599,6 +10449,7 @@ perdono	forgiveness	0	0	1	1
 perdono	lose	0	0	1	0
 operazione	operation	0	0	1	1
 nicholson	nicholson	0	0	1	0
+generation	generation	0	0	1	0
 capite	serious	0	0	1	0
 capite	capita	0	0	1	0
 rotazione	rotation	0	0	1	1
@@ -10675,7 +10526,8 @@ grossi	large	0	0	1	0
 grossi	big	0	0	1	0
 grosso	large	0	0	1	1
 grosso	grand	0	0	1	0
-montagne	mountains	0	0	1	1
+distrutta	destroyed	0	0	1	0
+distrutta	it was destroyed	0	0	1	0
 loccupazione	loccupazione	0	0	1	0
 loccupazione	the occupation	0	0	1	0
 national	national	0	0	1	0
@@ -10710,7 +10562,6 @@ ralph	rodolfo	0	0	1	0
 ralph	ralph	0	0	1	0
 precedente	preceding	0	0	1	1
 precedente	previous	0	0	1	1
-canoni	rules	0	0	1	0
 canoni	canons	0	0	1	0
 bruno	brown	0	0	1	1
 bruno	bruno	0	0	1	0
@@ -10744,15 +10595,15 @@ affida	entrusts	0	0	1	0
 formazioni	formations	0	0	1	0
 formazione	training	0	0	1	1
 debole	weak	0	0	1	1
-colpi	turn of events	0	0	1	0
-colpi	shots	0	0	1	0
 davvero	really	0	0	1	1
 deboli	weak	0	0	1	0
 vene	veins	0	0	1	0
 vene	vein	0	0	1	0
 ricordare	remember	0	0	1	1
 ricordare	to remember	0	0	1	0
-ab	ab	0	0	1	0
+vedere	see	0	0	1	1
+vedere	to show	0	0	1	0
+vedere	show	0	0	1	0
 vena	vein	0	0	1	1
 arabo	arab	0	0	1	1
 arabo	arabic	0	0	1	1
@@ -10776,7 +10627,6 @@ documentazione	documentation	0	0	1	1
 documentazione	documents	0	0	1	1
 allo	at the	0	0	1	0
 allo	to	0	0	1	0
-siracusa	siracusa	0	0	1	0
 siracusa	syracuse	0	0	1	0
 crearono	created	0	0	1	0
 descrive	describes	0	0	1	0
@@ -10784,8 +10634,7 @@ cadde	fell	0	0	1	0
 restano	remain	0	0	1	0
 restano	stay	0	0	1	0
 dicembre	december	0	0	1	1
-consiglio	advice	0	0	1	1
-consiglio	council	0	0	1	1
+evoluzione	evolution	0	0	1	1
 dimostrare	demonstrate	0	0	1	1
 homer	homer	0	0	1	0
 augusto	august	0	0	1	1
@@ -10814,9 +10663,9 @@ orale	verbal	0	0	1	0
 compiuta	accomplished	0	0	1	0
 compiuta	complete	0	0	1	0
 partner	partner	0	0	1	1
+compiuti	committed	0	0	1	0
 compiuti	made	0	0	1	0
 compiuti	computed; added up	0	0	1	0
-compiuti	committed	0	0	1	0
 compiuto	accomplished	0	0	1	1
 compiuto	done	0	0	1	0
 cereali	cereals	0	0	1	0
@@ -10848,9 +10697,8 @@ definì	definied	0	0	1	0
 eugenio	eugenio	0	0	1	0
 dieta	diet	0	0	1	1
 giappone	japan	0	0	1	1
-finita	finished	0	0	1	0
-finita	after	0	0	1	0
 finita	over	0	0	1	0
+finita	after	0	0	1	0
 religioso	religious	0	0	1	1
 gestire	manage	0	0	1	1
 domanda	question	0	0	1	1
@@ -10896,7 +10744,8 @@ apprezzati	appreciated	0	0	1	0
 apprezzato	valued	0	0	1	1
 apprezzato	appreciated	0	0	1	0
 testa	head	0	0	1	1
-manoscritti	manuscripts	0	0	1	0
+tornato	return	0	0	1	0
+tornato	back	0	0	1	0
 doyle	doyle	0	0	1	0
 tematiche	issues	0	0	1	0
 testi	texts	0	0	1	0
@@ -10959,8 +10808,7 @@ inizia	begins	0	0	1	0
 inizia	starts	0	0	1	0
 justin	justin	0	0	1	0
 eventuale	possible	0	0	1	1
-eventuali	possible	0	0	1	0
-eventuali	any	0	0	1	0
+inizio	beginning	0	0	1	1
 visconti	visconti	0	0	1	0
 visconti	viscounts	0	0	1	0
 combatte	fights	0	0	1	0
@@ -10979,7 +10827,8 @@ sgarbi	slights	0	0	1	0
 più	more	0	0	1	1
 playoff	playoff	0	0	1	0
 cugino	cousin	0	0	1	1
-risorse	resources	0	0	1	0
+dipinto	painted	0	0	1	0
+dipinto	painting	0	0	1	1
 dellafrica	dellafrica	0	0	1	0
 dellafrica	of africa	0	0	1	0
 dellafrica	(of) africa	0	0	1	0
@@ -11018,7 +10867,6 @@ michelangelo	michelangelo	0	0	1	0
 brani	tracks	0	0	1	0
 brani	composition	0	0	1	0
 garzanti	garzanti	0	0	1	0
-litalia	litalia	0	0	1	0
 litalia	italy	0	0	1	0
 sequel	sequel	0	0	1	0
 ritirata	retreat	0	0	1	1
@@ -11027,7 +10875,7 @@ combattenti	fighters	0	0	1	0
 cantoni	cantons	0	0	1	0
 cesare	roman emperor	0	0	1	0
 cesare	caesar	0	0	1	1
-memphis	memphis	0	0	1	0
+casalinga	housewife	0	0	1	1
 davide	davide	0	0	1	0
 davide	david	0	0	1	0
 bud	bud	0	0	1	0
@@ -11092,7 +10940,6 @@ supporti	support	0	0	1	0
 supporti	paper	0	0	1	0
 sempre	always	0	0	1	1
 sempre	forever	0	0	1	1
-original	original	0	0	1	0
 obiettivi	objectives	0	0	1	0
 obiettivi	aims	0	0	1	0
 pezzi	pieces	0	0	1	0
@@ -11123,6 +10970,9 @@ categoriascrittori	category writers	0	0	1	0
 categoriascrittori	categoriascrittori	0	0	1	0
 ozzy	ozzy	0	0	1	0
 scultori	sculptors	0	0	1	0
+canadesi	canadians	0	0	1	0
+canadesi	canadiens	0	0	1	0
+canadesi	canadian	0	0	1	0
 paris	paris	0	0	1	0
 scultore	carver	0	0	1	0
 scultore	sculptor	0	0	1	1
@@ -11145,8 +10995,8 @@ school	school	0	0	1	1
 comincia	begins	0	0	1	0
 comincia	commens	0	0	1	0
 pavimento	floor	0	0	1	1
-doppiato	dubbed	0	0	1	0
-doppiato	doubled	0	0	1	0
+cartesio	cartesio	0	0	1	0
+cartesio	descartes	0	0	1	0
 vocazione	vocation	0	0	1	1
 parigi	paris	0	0	1	1
 curata	edited	0	0	1	0
@@ -11193,7 +11043,7 @@ ritenuta	considered	0	0	1	0
 studia	studies	0	0	1	0
 ucraina	ukraine	0	0	1	1
 ucraina	ucraine	0	0	1	0
-allopera	at work	0	0	1	0
+esordio	debut	0	0	1	1
 condizioni	conditions	0	0	1	0
 condizioni	condition	0	0	1	0
 condizioni	circumstances	0	0	1	1
@@ -11209,11 +11059,12 @@ napoletano	neopolitan	0	0	1	0
 napoletano	neapolitan	0	0	1	1
 cominciò	begin	0	0	1	0
 cominciò	i start	0	0	1	0
-generali	generals	0	0	1	0
 generali	general	0	0	1	0
 della	of	0	0	1	0
 parlamento	parliament	0	0	1	1
 volesse	would	0	0	1	0
+larea	the area	0	0	1	0
+larea	iarea	0	0	1	0
 julie	julie	0	0	1	0
 maurizio	maurizio	0	0	1	0
 riguardano	concern	0	0	1	0
@@ -11224,8 +11075,8 @@ labolizione	labolizione	0	0	1	0
 labolizione	(the) abolition	0	0	1	0
 timore	fear	0	0	1	1
 hospital	hospital	0	0	1	0
-bellissima	beautiful	0	0	1	0
-bellissima	beautifull	0	0	1	0
+fugge	it escapes	0	0	1	0
+fugge	escapes	0	0	1	0
 giallo	mystery	0	0	1	0
 giallo	yellow	0	0	1	1
 gialla	yellow	0	0	1	0
@@ -11301,7 +11152,6 @@ contribuito	contributed	0	0	1	0
 danni	breakage	0	0	1	1
 danni	damage	0	0	1	0
 danni	damages	0	0	1	1
-danno	they give	0	0	1	0
 danno	damage	0	0	1	1
 partecipò	take part	0	0	1	0
 partecipò	be present	0	0	1	0
@@ -11346,7 +11196,8 @@ dirigente	manager	0	0	1	1
 dellonu	of onu	0	0	1	0
 dellonu	dollonu	0	0	1	0
 dellonu	united nations	0	0	1	0
-lenta	slow	0	0	1	0
+logaritmo	logirathm	0	0	1	0
+logaritmo	logarithm	0	0	1	1
 ricordato	remembered	0	0	1	0
 ricordato	recalled	0	0	1	0
 alex	alex	0	0	1	0
@@ -11419,7 +11270,6 @@ days	days	0	0	1	0
 investito	invested	0	0	1	0
 solco	sulcus	0	0	1	0
 solco	ridge	0	0	1	0
-solco	i plow	0	0	1	0
 shakur	rehabilitation	0	0	1	0
 moltissimi	very many	0	0	1	0
 moltissimi	many	0	0	1	0
@@ -11468,7 +11318,8 @@ abbandonato	abandoned	0	0	1	1
 abbandonato	left	0	0	1	0
 nominati	appointed	0	0	1	0
 abbandonata	abandoned	0	0	1	0
-zero	zero	0	0	1	1
+nominata	elected	0	0	1	0
+nominata	appointed	0	0	1	0
 cambiò	changes	0	0	1	0
 cambiò	change	0	0	1	0
 roccia	rock	0	0	1	1
@@ -11536,8 +11387,8 @@ colori	colors	0	0	1	1
 alleati	allies	0	0	1	0
 provocato	caused	0	0	1	0
 queen	queen	0	0	1	0
-coloro	they	0	0	1	1
 coloro	those	0	0	1	0
+coloro	they	0	0	1	1
 alleato	allied	0	0	1	1
 alleato	ally	0	0	1	1
 alleato	confederate	0	0	1	1
@@ -11615,8 +11466,7 @@ alchimia	alchemy	0	0	1	1
 seppur	although	0	0	1	0
 seppur	though	0	0	1	0
 polmonare	pulmonary	0	0	1	1
-distrutta	destroyed	0	0	1	0
-distrutta	it was destroyed	0	0	1	0
+montagne	mountains	0	0	1	1
 lupo	wolf	0	0	1	1
 lupi	wolves	0	0	1	0
 montagna	mountain	0	0	1	1
@@ -11625,7 +11475,6 @@ rime	rhymes	0	0	1	0
 procuratore	attorney	0	0	1	1
 procuratore	procurer	0	0	1	1
 centrale	central	0	0	1	1
-discutere	discussing	0	0	1	0
 discutere	discuss	0	0	1	1
 discutere	debate	0	0	1	1
 news	news	0	0	1	0
@@ -11636,7 +11485,8 @@ ferroviarie	rail	0	0	1	0
 terreni	fields	0	0	1	0
 terreni	lands	0	0	1	0
 terreni	land	0	0	1	0
-evoluzione	evolution	0	0	1	1
+consiglio	advice	0	0	1	1
+consiglio	council	0	0	1	1
 ferroviaria	railway	0	0	1	0
 trasferita	transfer	0	0	1	0
 trasferita	transferred	0	0	1	0
@@ -11653,18 +11503,17 @@ strage	slaughter	0	0	1	1
 citate	cited	0	0	1	0
 listituzione	the institution	0	0	1	0
 karen	karen	0	0	1	0
-voglio	i want a	0	0	1	0
-voglio	i	0	0	1	0
-voglio	i want	0	0	1	0
+interpreta	interprets	0	0	1	0
+interpreta	plays	0	0	1	0
 distinguono	distinguish	0	0	1	0
-distinguono	distinguish themselves	0	0	1	0
 funebre	funerary	0	0	1	1
 funebre	funeral	0	0	1	1
 permettono	allow	0	0	1	0
+simpatia	sympathy	0	0	1	1
 connessione	connection	0	0	1	1
 universale	universal	0	0	1	1
-fiorentina	florentine	0	0	1	0
-fiorentina	fiorentina	0	0	1	0
+legend	legend	0	0	1	0
+legend	leggenda	0	0	1	0
 riprendere	re-possess	0	0	1	0
 riprendere	resume	0	0	1	1
 fumetti	comics	0	0	1	0
@@ -11707,7 +11556,6 @@ concetto	concept	0	0	1	1
 concetto	idea	0	0	1	1
 veronica	veronica	0	0	1	1
 pittori	painters	0	0	1	0
-pittori	painter	0	0	1	0
 pittore	painter	0	0	1	1
 affari	business	0	0	1	1
 jackie	jackie	0	0	1	0
@@ -11730,7 +11578,7 @@ responsabili	accountable	0	0	1	0
 responsabili	responsible	0	0	1	0
 responsabili	responsibles	0	0	1	0
 decennio	decade	0	0	1	1
-schumacher	schumacher	0	0	1	0
+social	social	0	0	1	0
 procedere	prosecute	0	0	1	0
 procedere	proceed	0	0	1	1
 responsabile	responsible	0	0	1	1
@@ -11743,14 +11591,12 @@ funzionamento	operation	0	0	1	1
 funzionamento	working	0	0	1	1
 performance	performance	0	0	1	1
 charlie	charlie	0	0	1	0
-usando	using	0	0	1	0
 ricorso	appeal	0	0	1	1
 greatest	greatest	0	0	1	0
 mother	mother	0	0	1	0
 jean	jean	0	0	1	0
 salvare	save	0	0	1	1
 spencer	spencer	0	0	1	0
-ottanta	eighties	0	0	1	0
 ottanta	eighty	0	0	1	1
 imporre	impose	0	0	1	1
 scoperti	discovered	0	0	1	0
@@ -11775,8 +11621,9 @@ interpreti	interpreters	0	0	1	0
 interpreti	performers	0	0	1	0
 interprete	interpreter	0	0	1	1
 esercitare	exercise	0	0	1	1
-interpreta	interprets	0	0	1	0
-interpreta	plays	0	0	1	0
+voglio	i want a	0	0	1	0
+voglio	i	0	0	1	0
+voglio	i want	0	0	1	0
 steno	steno	0	0	1	0
 supereroi	superheroes	0	0	1	0
 cucina	cooking	0	0	1	1
@@ -11868,7 +11715,6 @@ particolari	details	0	0	1	0
 particolare	particular	0	0	1	1
 massicce	massive	0	0	1	0
 candidato	candidate	0	0	1	1
-viva	viva	0	0	1	0
 viva	alive	0	0	1	0
 droghe	drugs	0	0	1	0
 vive	lives	0	0	1	0
@@ -11933,17 +11779,13 @@ assieme	with	0	0	1	0
 assieme	together	0	0	1	0
 terribile	terrible	0	0	1	1
 corbucci	corbucci	0	0	1	0
-benefici	beneficiary	0	0	1	0
 benefici	benefits	0	0	1	0
 nodo	node	0	0	1	1
 tappa	date	0	0	1	0
 tappa	stage	0	0	1	1
 incasso	built	0	0	1	0
 tappe	stages	0	0	1	0
-videoclip	music video	0	0	1	0
-videoclip	video	0	0	1	0
-videoclip	clip	0	0	1	0
-videoclip	video clips	0	0	1	0
+direzione	direction	0	0	1	1
 pagani	pagan	0	0	1	0
 dovette	had	0	0	1	0
 dovette	should	0	0	1	0
@@ -11973,7 +11815,6 @@ bizantina	byzantine	0	0	1	0
 bizantini	byzantine	0	0	1	0
 bizantino	byzantine	0	0	1	1
 ebrei	jews	0	0	1	0
-ebrei	jews or hebrew	0	0	1	0
 scarso	poor	0	0	1	1
 avvenuta	occurred	0	0	1	0
 presentarsi	report	0	0	1	1
@@ -11998,8 +11839,9 @@ taub	taub	0	0	1	0
 pompeo	pompeo	0	0	1	0
 contemporanea	contemporary	0	0	1	0
 contemporaneo	contemporary	0	0	1	1
-guarda	looks	0	0	1	0
-guarda	look	0	0	1	0
+marcata	pronounced	0	0	1	0
+marcata	marked	0	0	1	0
+marcata	amrked	0	0	1	0
 categoriavincitori	category winners	0	0	1	0
 categoriavincitori	categoriavincitori	0	0	1	0
 troverà	will found	0	0	1	0
@@ -12017,7 +11859,6 @@ gatto	cat	0	0	1	1
 strada	road	0	0	1	1
 posto	place	0	0	1	1
 devozione	devotion	0	0	1	1
-posti	place	0	0	1	0
 posti	places	0	0	1	0
 yale	yale	0	0	1	0
 poste	posed	0	0	1	0
@@ -12101,7 +11942,7 @@ napoletana	neapolitan	0	0	1	0
 ando	ando	0	0	1	0
 russell	russell	0	0	1	0
 anglosassone	anglo-saxon	0	0	1	1
-limitati	limited	0	0	1	0
+ponte	bridge	0	0	1	1
 cittadinanza	town	0	0	1	1
 cittadinanza	nationality	0	0	1	1
 cittadinanza	citizenship	0	0	1	1
@@ -12164,10 +12005,7 @@ troiano	trojan	0	0	1	0
 informa	informs	0	0	1	0
 informa	tells	0	0	1	0
 cloni	clones	0	0	1	0
-podio	platform	0	0	1	1
-podio	podium	0	0	1	1
-podio	stand	0	0	1	1
-podio	rostrum	0	0	1	1
+sasso	stone	0	0	1	1
 clone	clone	0	0	1	1
 assoluto	absolute	0	0	1	1
 rappresentanza	representation	0	0	1	1
@@ -12225,8 +12063,8 @@ trasformazione	transformation convertion	0	0	1	0
 trasformazione	transformation	0	0	1	1
 hanks	hanks	0	0	1	0
 evidenzia	highlights	0	0	1	0
-evidenzia	evidence	0	0	1	0
 evidenzia	points out	0	0	1	0
+evidenzia	evidence	0	0	1	0
 reazione	reaction	0	0	1	1
 reazioni	reactions	0	0	1	0
 venire	be	0	0	1	1
@@ -12270,8 +12108,7 @@ riuscita	success	0	0	1	1
 indicazioni	directions	0	0	1	0
 riusciti	successful	0	0	1	0
 riusciti	succeeded	0	0	1	0
-raggiungere	meet	0	0	1	0
-raggiungere	reach	0	0	1	1
+sesta	sixth	0	0	1	0
 riuscito	successful	0	0	1	1
 automaticamente	automatically	0	0	1	0
 tensioni	tensions	0	0	1	0
@@ -12326,8 +12163,6 @@ gestito	managed	0	0	1	0
 gestito	handled	0	0	1	0
 ian	lan	0	0	1	0
 ian	ian	0	0	1	0
-rigido	rigid	0	0	1	1
-rigido	harsh	0	0	1	1
 riserva	reserve	0	0	1	1
 possiede	has	0	0	1	0
 gestita	managed	0	0	1	0
@@ -12343,7 +12178,6 @@ daltronde	however	0	0	1	0
 insulina	insulin	0	0	1	1
 siciliano	sicilian	0	0	1	1
 siciliani	sicilian	0	0	1	0
-way	way	0	0	1	0
 siciliana	sicilian	0	0	1	0
 alan	alan	0	0	1	0
 cosiddetti	so-called	0	0	1	0
@@ -12369,10 +12203,10 @@ esigenze	needs	0	0	1	1
 magazzino	warehouse	0	0	1	1
 spalla	shoulder	0	0	1	1
 marines	marines	0	0	1	0
-distretto	district	0	0	1	1
+nota	note	0	0	1	1
 spalle	shoulder	0	0	1	0
 spalle	shoulders	0	0	1	0
-unottima	unottima	0	0	1	0
+seri	serious	0	0	1	0
 and	and	0	0	1	0
 invitati	asked	0	0	1	0
 invitato	invited	0	0	1	0
@@ -12382,8 +12216,6 @@ mostrare	show	0	0	1	1
 reno	rhine	0	0	1	0
 quartier	headquarters	0	0	1	0
 eccezioni	exceptions	0	0	1	0
-sottolinea	stresses	0	0	1	0
-sottolinea	underline	0	0	1	0
 seppe	knew	0	0	1	0
 eccezione	exception	0	0	1	1
 ricopre	covers	0	0	1	0
@@ -12440,8 +12272,7 @@ stato	was	0	0	1	0
 chiamato	called	0	0	1	0
 raccolto	collected	0	0	1	1
 raccolto	harvest	0	0	1	1
-sorgere	rise	0	0	1	1
-sorgere	raise	0	0	1	0
+chiamati	called	0	0	1	0
 raccolti	collected	0	0	1	0
 chiamate	call	0	0	1	0
 raccolte	collected	0	0	1	0
@@ -12461,7 +12292,6 @@ contatti	contacts	0	0	1	0
 lasciando	iasciando	0	0	1	0
 lasciando	leaving	0	0	1	0
 contatto	contact	0	0	1	1
-netto	clear	0	0	1	1
 netto	net	0	0	1	1
 netta	clear	0	0	1	0
 netta	net	0	0	1	0
@@ -12560,7 +12390,7 @@ confessione	confessions	0	0	1	0
 mezza	half	0	0	1	0
 lintenzione	intention	0	0	1	0
 lintenzione	including	0	0	1	0
-tesla	tesla	0	0	1	0
+febbraio	february	0	0	1	1
 decorazione	decoration	0	0	1	1
 nazione	nation	0	0	1	1
 individuare	identify	0	0	1	1
@@ -12577,16 +12407,14 @@ indizi	clues	0	0	1	0
 andrea	andy	0	0	1	0
 champions	champions	0	0	1	0
 champions	chiampions	0	0	1	0
-potrà	will can	0	0	1	0
 potrà	will be able	0	0	1	0
 segnalare	report	0	0	1	1
 case	homes	0	0	1	0
 case	company	0	0	1	0
 hughes	hughes	0	0	1	0
-educazione	education	0	0	1	1
 educazione	instruction	0	0	1	0
+educazione	education	0	0	1	1
 casa	house home household family place flat firm houseboat dormitory firmament establishment	0	0	1	0
-casa	house	0	0	1	1
 casa	home	0	0	1	1
 abbiano	have	0	0	1	0
 ville	villas	0	0	1	0
@@ -12616,9 +12444,7 @@ usare	use	0	0	1	1
 divenuto	became	0	0	1	0
 status	status	0	0	1	1
 persona	person	0	0	1	1
-ritiro	retire	0	0	1	0
 ritiro	take back	0	0	1	0
-ritiro	retreat	0	0	1	1
 persone	person	0	0	1	0
 persone	people	0	0	1	1
 fecero	did	0	0	1	0
@@ -12684,7 +12510,8 @@ rivolta	riot	0	0	1	1
 harrison	harrison	0	0	1	0
 rivolto	directed	0	0	1	0
 rivolto	addressed	0	0	1	0
-simpatia	sympathy	0	0	1	1
+rigido	rigid	0	0	1	1
+rigido	harsh	0	0	1	1
 aspettative	expectations	0	0	1	0
 rose	rose	0	0	1	0
 rose	roses	0	0	1	0
@@ -12804,7 +12631,6 @@ calciatori	soccer player	0	0	1	0
 gare	competitions	0	0	1	0
 gare	races	0	0	1	0
 stauffenberg	stauffenberg	0	0	1	0
-calciatore	football player	0	0	1	0
 calciatore	footballer	0	0	1	1
 calciatore	soccer player	0	0	1	1
 determina	determines	0	0	1	0
@@ -12832,7 +12658,6 @@ sposi	spouses	0	0	1	0
 mediche	medical	0	0	1	0
 notato	realized	0	0	1	0
 notato	noted	0	0	1	0
-maschere	masks	0	0	1	0
 sposa	bride	0	0	1	1
 sposa	married	0	0	1	0
 vulcano	volcano	0	0	1	1
@@ -12854,7 +12679,8 @@ utenti	users	0	0	1	0
 signore	sir	0	0	1	1
 interrotta	interrupted	0	0	1	0
 chaplin	chaplin	0	0	1	0
-taylor	taylor	0	0	1	0
+politici	politicians	0	0	1	0
+politici	political	0	0	1	0
 politico	political	0	0	1	1
 cinema	cinema	0	0	1	1
 felix	felix	0	0	1	0
@@ -12914,6 +12740,7 @@ sulle	on	0	0	1	0
 sulle	on the	0	0	1	0
 nuclei	nuclei	0	0	1	0
 nuclei	nucleuses	0	0	1	0
+aderenti	members	0	0	1	0
 assassins	assassins	0	0	1	0
 mente	lies	0	0	1	0
 mente	mind	0	0	1	1
@@ -12946,8 +12773,7 @@ disc	disc	0	0	1	0
 giotto	giotto	0	0	1	0
 sottolineato	underlined	0	0	1	0
 sottolineato	stressed	0	0	1	0
-rom	romani	0	0	1	0
-rom	rom	0	0	1	0
+distretto	district	0	0	1	1
 numerosi	many	0	0	1	0
 numerosi	several	0	0	1	0
 numerosi	numerous	0	0	1	0
@@ -13078,8 +12904,7 @@ definire	define	0	0	1	1
 tutte	all	0	0	1	0
 tutta	all	0	0	1	0
 tutta	tuttu	0	0	1	0
-statali	state	0	0	1	0
-statali	statistics	0	0	1	0
+conseguenza	consequence	0	0	1	1
 partite	matches	0	0	1	0
 partite	games	0	0	1	0
 raggiungono	reach	0	0	1	0
@@ -13166,7 +12991,8 @@ essere	to be	0	0	1	0
 festa	party	0	0	1	1
 festa	feast	0	0	1	1
 festa	celebration	0	0	1	0
-susan	susan	0	0	1	0
+romabari	rome bari	0	0	1	0
+romabari	rome-bari	0	0	1	0
 esseri	being	0	0	1	0
 esseri	existence	0	0	1	0
 esseri	beings	0	0	1	0
@@ -13186,7 +13012,8 @@ provocando	causing	0	0	1	0
 giapponesi	japanese	0	0	1	0
 giapponese	effort	0	0	1	0
 giapponese	japanese	0	0	1	1
-cross	cross	0	0	1	0
+indicano	indicate	0	0	1	0
+indicano	mean	0	0	1	0
 soldati	soldiers	0	0	1	0
 logan	logan	0	0	1	0
 passeggeri	passegers	0	0	1	0
@@ -13214,10 +13041,8 @@ retta	straight line	0	0	1	1
 retta	bill	0	0	1	0
 return	return	0	0	1	0
 divertente	fun	0	0	1	0
-divertente	funny	0	0	1	1
 divertente	entertaining	0	0	1	1
 postumo	posthumous	0	0	1	1
-affrontano	deal with	0	0	1	0
 affrontano	face	0	0	1	0
 derivante	resulting	0	0	1	0
 derivanti	arising	0	0	1	0
@@ -13237,7 +13062,7 @@ copertina	cover	0	0	1	1
 lesperienza	lesperienza	0	0	1	0
 lesperienza	experience	0	0	1	0
 rivoluzionaria	revolutionary	0	0	1	0
-generation	generation	0	0	1	0
+rivoluzionario	revolutionary	0	0	1	1
 socialismo	socialism	0	0	1	1
 riconosce	recognizes	0	0	1	0
 riconosce	recognized	0	0	1	0
@@ -13263,7 +13088,6 @@ soggiorno	residence	0	0	1	1
 soggiorno	stay	0	0	1	1
 cadavere	corpse	0	0	1	1
 paradise	paradise	0	0	1	0
-cadaveri	corpses	0	0	1	0
 cadaveri	dead bodies	0	0	1	0
 cadaveri	cadavers	0	0	1	0
 giungere	arrive	0	0	1	1
@@ -13368,7 +13192,6 @@ unisce	it joins	0	0	1	0
 foreman	foreman	0	0	1	0
 laterza	laterza	0	0	1	0
 copia	copy	0	0	1	1
-terza	third	0	0	1	1
 copie	copies	0	0	1	0
 principato	princedom	0	0	1	1
 principato	principate	0	0	1	0
@@ -13432,7 +13255,7 @@ vedi	see	0	0	1	0
 vedi	look	0	0	1	0
 progetti	plans	0	0	1	0
 progetti	projects	0	0	1	0
-vulva	vulva	0	0	1	1
+stefania	stefania	0	0	1	0
 art	article	0	0	1	0
 art	art	0	0	1	0
 bart	bart	0	0	1	0
@@ -13473,7 +13296,6 @@ lanciata	launched	0	0	1	0
 lanciata	sent	0	0	1	0
 fontana	fountain	0	0	1	1
 fontana	fountains	0	0	1	0
-lanciato	drawn	0	0	1	0
 lanciato	launched	0	0	1	1
 consecutivi	consecutive	0	0	1	0
 consecutivi	consecutives	0	0	1	0
@@ -13487,7 +13309,6 @@ esprimono	explained	0	0	1	0
 decesso	death	0	0	1	1
 soli	single	0	0	1	0
 soli	only	0	0	1	0
-soli	just	0	0	1	0
 sole	sun	0	0	1	1
 sola	only	0	0	1	0
 bronzo	bronze	0	0	1	1
@@ -13615,7 +13436,8 @@ terreno	land	0	0	1	1
 terreno	ground	0	0	1	1
 tratta	is	0	0	1	0
 tratto	stretch	0	0	1	1
-antonietta	antoinette	0	0	1	0
+sottolinea	stresses	0	0	1	0
+sottolinea	underline	0	0	1	0
 tratti	traits	0	0	1	0
 tratti	features	0	0	1	0
 edge	edge	0	0	1	0
@@ -13625,8 +13447,8 @@ recitazione	acting	0	0	1	1
 lordine	the order	0	0	1	0
 questione	question issue matter point case	0	0	1	0
 questione	question	0	0	1	1
-questioni	issues	0	0	1	0
 questioni	questions	0	0	1	0
+questioni	issues	0	0	1	0
 impiegati	employees	0	0	1	0
 impiegati	used	0	0	1	0
 ballerino	dancer	0	0	1	1
@@ -13649,7 +13471,6 @@ difficili	difficult	0	0	1	0
 messaggi	posts	0	0	1	0
 messaggi	messages	0	0	1	0
 tagliata	cut	0	0	1	0
-zolfo	sulfur	0	0	1	1
 scoprono	discover	0	0	1	0
 lelezione	the election	0	0	1	0
 globalizzazione	globalization	0	0	1	0
@@ -13729,11 +13550,11 @@ cedere	sell	0	0	1	1
 cedere	give up	0	0	1	0
 cedere	yield	0	0	1	1
 reciproca	mutual	0	0	1	0
-reciproca	reciprocal	0	0	1	0
 combustibile	fuel	0	0	1	1
 combustibile	combustible	0	0	1	1
 vincitore	winner	0	0	1	1
-daphne	daphne	0	0	1	0
+essi	them	0	0	1	1
+essi	they	0	0	1	1
 etimologia	etymology	0	0	1	1
 lenorme	the enormous	0	0	1	0
 lenorme	for ppe	0	0	1	0
@@ -13754,7 +13575,6 @@ dalí	dali'	0	0	1	0
 dalí	dali	0	0	1	0
 dalí	gave	0	0	1	0
 superare	overcome	0	0	1	1
-clemente	clemente	0	0	1	0
 artificiali	artificial	0	0	1	0
 criterio	policy	0	0	1	0
 criterio	criterion	0	0	1	1
@@ -13767,10 +13587,12 @@ colloquio	interview	0	0	1	1
 usato	used	0	0	1	1
 malato	ill	0	0	1	1
 malato	sick	0	0	1	1
-trapianto	transplant	0	0	1	1
+libretto	booklet	0	0	1	1
+libretto	book	0	0	1	1
+libretto	notepad	0	0	1	0
 contenere	contain	0	0	1	1
-massa	mass	0	0	1	1
-massa	mass bulk earth body crowd mob lump multitude heap pack welter	0	0	1	0
+z	of	0	0	1	0
+z	z	0	0	1	0
 sconfiggere	beat	0	0	1	0
 sconfiggere	defeat	0	0	1	1
 schiavitù	slavery	0	0	1	1
@@ -13810,6 +13632,7 @@ sostenuta	sustained	0	0	1	0
 sostenuta	supported	0	0	1	0
 costituiti	consisting of	0	0	1	0
 costituiti	constitutes	0	0	1	0
+costanzo	costanzo	0	0	1	0
 sostenuto	support	0	0	1	0
 sostenuto	supported	0	0	1	0
 benedetto	blessed	0	0	1	1
@@ -13875,13 +13698,13 @@ dallaltra	from other	0	0	1	0
 dallaltra	another	0	0	1	0
 ordinamento	organization	0	0	1	0
 ordinamento	order	0	0	1	1
-scrittrice	writer	0	0	1	0
+usando	using	0	0	1	0
 dallaltro	from other	0	0	1	0
 dallaltro	from the other	0	0	1	0
 scozzesi	scottish	0	0	1	0
 ripete	repeats	0	0	1	0
 ripete	repeat	0	0	1	0
-robespierre	robespierre	0	0	1	0
+letto	bed	0	0	1	1
 interpretando	interprentender	0	0	1	0
 interpretando	interpreting	0	0	1	0
 interpretando	playing	0	0	1	0
@@ -13977,13 +13800,12 @@ musiche	music	0	0	1	0
 proprietari	owners	0	0	1	0
 something	something	0	0	1	0
 tal	this	0	0	1	0
-serial	serial	0	0	1	1
 trasmettere	transmit	0	0	1	1
 trasmettere	broadcast	0	0	1	1
 sir	sir	0	0	1	1
 united	united	0	0	1	0
-annuncia	announce	0	0	1	0
 annuncia	announces	0	0	1	0
+annuncia	announce	0	0	1	0
 possibili	possible	0	0	1	0
 nellopera	work	0	0	1	0
 espressione	expression	0	0	1	1
@@ -14022,7 +13844,6 @@ chiave	important	0	0	1	0
 chiave	cardinal	0	0	1	0
 chiave	key	0	0	1	1
 tengono	care	0	0	1	0
-tengono	consider	0	0	1	0
 tengono	keep	0	0	1	0
 civico	civic	0	0	1	1
 scrubs	scrubs	0	0	1	0
@@ -14053,7 +13874,7 @@ dottor	dr.	0	0	1	0
 wolfgang	wolfgang	0	0	1	0
 sopravvivere	survive	0	0	1	1
 fissione	fission	0	0	1	1
-suggerisce	suggests	0	0	1	0
+annuale	annual	0	0	1	1
 trae	brings	0	0	1	0
 trae	gets	0	0	1	0
 trae	draws	0	0	1	0
@@ -14110,7 +13931,6 @@ farle	her	0	0	1	0
 violenze	violences	0	0	1	0
 violenze	violence	0	0	1	0
 farlo	do so	0	0	1	1
-farlo	to do	0	0	1	0
 compimento	completion	0	0	1	1
 allaiuto	the help	0	0	1	0
 allaiuto	allaiuto	0	0	1	0
@@ -14141,8 +13961,7 @@ servire	serve	0	0	1	1
 servire	to serve	0	0	1	0
 vini	wines	0	0	1	0
 uccisa	killed	0	0	1	0
-ricerche	research department	0	0	1	0
-ricerche	research	0	0	1	1
+interpretato	interpreted	0	0	1	0
 uccise	killed	0	0	1	0
 furono	were	0	0	1	0
 uccisi	killed	0	0	1	0
@@ -14152,8 +13971,7 @@ omnia	omnia	0	0	1	0
 mondiali	world	0	0	1	0
 mondiale	worldwide	0	0	1	1
 mondiale	world	0	0	1	1
-spaziale	spatial	0	0	1	1
-spaziale	space	0	0	1	1
+gruppi	groups	0	0	1	0
 deputato	deputy	0	0	1	1
 sposare	marry	0	0	1	1
 lurss	ussr	0	0	1	0
@@ -14191,15 +14009,14 @@ tommy	tommy	0	0	1	0
 giosuè	joshua	0	0	1	0
 giosuè	giosuè	0	0	1	0
 sindrome	syndrome	0	0	1	1
-cohen	a name	0	0	1	0
 cohen	cohen	0	0	1	0
 robot	robot	0	0	1	1
 giardino	garden	0	0	1	1
 alfonso	alfonso	0	0	1	0
 premiato	prize	0	0	1	1
+nobile	nobles	0	0	1	0
 nobile	nobile	0	0	1	0
 nobile	noble	0	0	1	1
-nobile	nobles	0	0	1	0
 dorsale	edge	0	0	1	0
 dorsale	dorsals	0	0	1	0
 dorsale	dorsal	0	0	1	1
@@ -14258,7 +14075,6 @@ scopre	discover	0	0	1	0
 rimozione	removal	0	0	1	1
 laccesso	access to	0	0	1	0
 laccesso	access	0	0	1	0
-laccesso	the access	0	0	1	0
 trasformata	transformed	0	0	1	0
 seppure	although	0	0	1	0
 piana	flat	0	0	1	1
@@ -14387,19 +14203,18 @@ accoglie	welcomes	0	0	1	0
 filippo	filippo	0	0	1	0
 liverpool	liverpool	0	0	1	0
 lecce	lecce	0	0	1	0
-lappellativo	nickname	0	0	1	0
 lappellativo	the title	0	0	1	0
 risalgono	back	0	0	1	0
 neutrale	neutral	0	0	1	1
+rom	romani	0	0	1	0
+rom	rom	0	0	1	0
 spinge	pushes	0	0	1	0
 will	will	0	0	1	0
-essersi	be	0	0	1	0
 essersi	to be	0	0	1	0
 essersi	have	0	0	1	0
 spicca	stands	0	0	1	0
-profumo	perfume scent smell odor sweetness	0	0	1	0
-profumo	parfum	0	0	1	0
-profumo	perfume	0	0	1	1
+patto	pact	0	0	1	1
+patto	agreement	0	0	1	1
 wild	wild	0	0	1	0
 spicco	leading	0	0	1	0
 spicco	prominent	0	0	1	0
@@ -14417,10 +14232,8 @@ follia	folly	0	0	1	1
 follia	madness	0	0	1	1
 uniti	united	0	0	1	0
 unito	united	0	0	1	1
-unita	united	0	0	1	0
 unita	combined	0	0	1	0
-indicano	indicate	0	0	1	0
-indicano	mean	0	0	1	0
+cross	cross	0	0	1	0
 unite	united	0	0	1	0
 unite	together	0	0	1	0
 modificare	modify	0	0	1	1
@@ -14451,7 +14264,7 @@ strumento	tool	0	0	1	1
 strumento	medium	0	0	1	1
 meridionali	southern	0	0	1	0
 meridionali	meridional	0	0	1	0
-english	english	0	0	1	0
+terza	third	0	0	1	1
 terzo	next after the second	0	0	1	0
 terzo	third	0	0	1	1
 meridionale	southern	0	0	1	1
@@ -14472,7 +14285,6 @@ dargento	silver	0	0	1	0
 dargento	of silver	0	0	1	0
 patria	homeland	0	0	1	1
 patria	homelnd	0	0	1	0
-patria	home country	0	0	1	0
 parità	parity	0	0	1	1
 parità	equality	0	0	1	1
 tendenze	trends	0	0	1	0
@@ -14506,10 +14318,8 @@ preso	taken	0	0	1	0
 composta	composed	0	0	1	0
 composta	compasta	0	0	1	0
 presa	taken	0	0	1	0
-presa	capture	0	0	1	1
 presa	outlet	0	0	1	1
 variante	variant	0	0	1	1
-variante	variation	0	0	1	0
 prese	taken	0	0	1	0
 dassisi	dassisi	0	0	1	0
 alluscita	at the going out	0	0	1	0
@@ -14531,9 +14341,7 @@ battaglie	battles	0	0	1	0
 lipotesi	the hypothesis	0	0	1	0
 socialisti	socialists	0	0	1	0
 lesecuzione	lesecuzione	0	0	1	0
-libretto	booklet	0	0	1	1
-libretto	book	0	0	1	1
-libretto	notepad	0	0	1	0
+trapianto	transplant	0	0	1	1
 raccontano	talk about	0	0	1	0
 raccontano	tell	0	0	1	0
 misteri	mysteries	0	0	1	0
@@ -14591,8 +14399,8 @@ van	van	0	0	1	0
 interpretata	interpreting	0	0	1	0
 interpretata	interpreted	0	0	1	0
 val	val	0	0	1	0
-aderenti	adhering	0	0	1	0
-aderenti	members	0	0	1	0
+ricerche	research department	0	0	1	0
+ricerche	research	0	0	1	1
 interpretati	acted	0	0	1	0
 interpretati	interpreted	0	0	1	0
 cairo	cairo	0	0	1	1
@@ -14680,9 +14488,6 @@ racconti	tales	0	0	1	0
 racconti	stories	0	0	1	0
 evidenziato	highlighted	0	0	1	0
 ottobre	october	0	0	1	1
-spia	spy	0	0	1	1
-spia	light	0	0	1	1
-spia	spies	0	0	1	0
 impone	imposes	0	0	1	0
 impone	end	0	0	1	0
 riferito	reported	0	0	1	1

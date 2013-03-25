@@ -1,4 +1,4 @@
-sayesinde	thanks to	0	0	1	1
+sayesinde	thanks to	0	0	1	0
 sayesinde	by courtesy of	0	0	1	0
 sayesinde	by	0	0	1	0
 yolları	ways	0	0	1	0
@@ -158,7 +158,7 @@ yapılmıştır	done	0	0	1	0
 müthiş	devastating	0	0	1	1
 müthiş	magnificent	0	0	1	0
 edebiyat	literature	0	0	1	1
-hamam	turkish bath	0	0	1	1
+hamam	turkish bath	0	0	1	0
 hamam	hammam	0	0	1	1
 hamam	bath	0	0	1	1
 prusya	prussia	0	0	1	1
@@ -268,7 +268,7 @@ derginin	magazine	0	0	1	0
 çevrilidir	is surrounded by	0	0	1	0
 çevrilidir	inclosed	0	0	1	0
 çevrilidir	surrounding	0	0	1	0
-sanki	as if	0	0	1	1
+sanki	as if	0	0	1	0
 şarkısını	song	0	0	1	0
 kullanmıştır	kullamistir	0	0	1	0
 kullanmıştır	voted	0	0	1	0
@@ -435,7 +435,7 @@ evler	houses	0	0	1	0
 mason	mason	0	0	1	1
 sosyalizmi	socialism	0	0	1	0
 adeta	almost	0	0	1	1
-adeta	in fact	0	0	1	1
+adeta	in fact	0	0	1	0
 büyüdü	grew up	0	0	1	0
 büyüdü	grew	0	0	1	0
 büyüdü	grow	0	0	1	0
@@ -561,7 +561,7 @@ yirmi	twenty	0	0	1	1
 mektebine	school	0	0	1	0
 musiki	music	0	0	1	1
 musiki	musical	0	0	1	0
-yüzeyde	on the surface	0	0	1	1
+yüzeyde	on the surface	0	0	1	0
 yüzeyde	surface	0	0	1	0
 bakanı	minister	0	0	1	0
 kesimleri	regions	0	0	1	0
@@ -1038,7 +1038,7 @@ kök	root	0	0	1	1
 kök	coke	0	0	1	0
 kök	sky	0	0	1	0
 kök	stem	0	0	1	1
-karbondioksit	carbon dioxide	0	0	1	1
+karbondioksit	carbon dioxide	0	0	1	0
 karbondioksit	carbondioxide	0	0	1	0
 batıdan	west	0	0	1	0
 batıdan	from west	0	0	1	0
@@ -1086,7 +1086,7 @@ ormanı	foresst	0	0	1	0
 aslı	asli	0	0	1	0
 aslı	original	0	0	1	0
 aslı	fundamental of	0	0	1	0
-bize	to us	0	0	1	1
+bize	to us	0	0	1	0
 bize	for us	0	0	1	0
 bize	us	0	0	1	1
 bizi	see us	0	0	1	0
@@ -1285,7 +1285,7 @@ temsilcisi	representative	0	0	1	0
 modeli	model	0	0	1	0
 rolling	rolling	0	0	1	0
 cephe	front	0	0	1	1
-cephe	front line	0	0	1	1
+cephe	front line	0	0	1	0
 kuramına	theory	0	0	1	0
 deliğin	slot	0	0	1	0
 deliğin	vent	0	0	1	0
@@ -1329,7 +1329,7 @@ kesimlerinde	sections	0	0	1	0
 kökenlidir	origin	0	0	1	0
 oluştu	formed	0	0	1	0
 oluştu	was formed	0	0	1	0
-almanyadan	from germany	0	0	1	1
+almanyadan	from germany	0	0	1	0
 tablosu	table (as in periodic table)	0	0	1	0
 tablosu	table	0	0	1	0
 yeri	place	0	0	1	0
@@ -1341,7 +1341,7 @@ ayrılma	seperation	0	0	1	0
 ayrılma	leaving	0	0	1	0
 çaplı	large	0	0	1	0
 çaplı	diameter	0	0	1	0
-çaplı	wide bored	0	0	1	1
+çaplı	wide bored	0	0	1	0
 tartışma	discussion	0	0	1	1
 un	of	0	0	1	0
 un	grain	0	0	1	0
@@ -1487,7 +1487,7 @@ boyları	family	0	0	1	0
 efendi	sir	0	0	1	1
 efendi	efendi	0	0	1	0
 efendi	mr	0	0	1	0
-benden	from me	0	0	1	1
+benden	from me	0	0	1	0
 portekiz	portugal	0	0	1	1
 ticaret	commerce	0	0	1	1
 ticaret	trade	0	0	1	1
@@ -1725,7 +1725,7 @@ annesinin	his mother	0	0	1	0
 annesinin	his mother's	0	0	1	0
 insanlara	to the humans	0	0	1	0
 insanlara	people	0	0	1	0
-ankaradaki	in ankara	0	0	1	1
+ankaradaki	in ankara	0	0	1	0
 hareketine	movement	0	0	1	0
 sağ	right	0	0	1	1
 sağ	alive	0	0	1	1
@@ -1745,7 +1745,7 @@ alman	german	0	0	1	1
 doğduğu	born	0	0	1	0
 doğduğu	borned	0	0	1	0
 doğduğu	birth place	0	0	1	0
-ona	to him	0	0	1	1
+ona	to him	0	0	1	0
 ona	him	0	0	1	1
 ona	her	0	0	1	1
 saç	hair	0	0	1	1
@@ -1802,7 +1802,7 @@ birbirinden	from each other	0	0	1	0
 birbirinden	each	0	0	1	0
 aruz	prosody	0	0	1	1
 duyurdu	announced	0	0	1	0
-yüzlerce	hundreds of	0	0	1	1
+yüzlerce	hundreds of	0	0	1	0
 yüzlerce	hundreds	0	0	1	0
 tarafta	on	0	0	1	0
 tarafta	side	0	0	1	0
@@ -1824,8 +1824,8 @@ saf	innocent	0	0	1	1
 saz	instrument	0	0	1	1
 say	say	0	0	1	0
 kızılay	kizilay	0	0	1	0
-kızılay	red crescent	0	0	1	1
-kızılay	the red crescent	0	0	1	1
+kızılay	red crescent	0	0	1	0
+kızılay	the red crescent	0	0	1	0
 bazilika	basilica	0	0	1	1
 hukuk	law	0	0	1	1
 özelliklerini	characteristics	0	0	1	0
@@ -1975,7 +1975,7 @@ vermiştir	gave	0	0	1	0
 vermiştir	he has	0	0	1	0
 haftada	week	0	0	1	0
 haftada	in the week	0	0	1	0
-haftada	per week	0	0	1	1
+haftada	per week	0	0	1	0
 geleneğinin	tradition	0	0	1	0
 tercüme	translation	0	0	1	1
 tercüme	translate the	0	0	1	0
@@ -2136,7 +2136,7 @@ atıldı	ceremony for the	0	0	1	0
 atıldı	imprison	0	0	1	0
 alanlarını	areas	0	0	1	0
 alanlarını	area	0	0	1	0
-trabzonda	in trabzon	0	0	1	1
+trabzonda	in trabzon	0	0	1	0
 wilhelm	wilhelm	0	0	1	0
 wilhelm	wilhelm ( name )	0	0	1	0
 otto	otto	0	0	1	0
@@ -2167,7 +2167,7 @@ kayıtlara	records	0	0	1	0
 kayıtlara	in the records	0	0	1	0
 kayıtlara	registration	0	0	1	0
 tıpkı	similar to	0	0	1	0
-tıpkı	just as	0	0	1	1
+tıpkı	just as	0	0	1	0
 tıpkı	the same	0	0	1	0
 kürtçe	kurdish	0	0	1	1
 cezayir	algerier	0	0	1	0
@@ -2184,7 +2184,7 @@ ilgili	about	0	0	1	1
 ömer	male name	0	0	1	0
 genin	gene's	0	0	1	0
 genin	gene	0	0	1	0
-izmirde	in izmir	0	0	1	1
+izmirde	in izmir	0	0	1	0
 izmirde	izmir	0	0	1	0
 madeni	metalic	0	0	1	0
 madeni	metallic	0	0	1	1
@@ -2346,7 +2346,7 @@ havadan	aerial	0	0	1	0
 havadan	from air	0	0	1	0
 ulaşmıştır	reached	0	0	1	0
 fizik	physics	0	0	1	1
-bırakmak	to leave	0	0	1	1
+bırakmak	to leave	0	0	1	0
 bırakmak	left	0	0	1	0
 olmayıp	not	0	0	1	0
 olmayıp	olmayip	0	0	1	0
@@ -2357,15 +2357,15 @@ her	all	0	0	1	1
 videoları	video	0	0	1	0
 videoları	videos	0	0	1	0
 bozuk	gone	0	0	1	1
-bozuk	out of action	0	0	1	1
-bozuk	in bad order	0	0	1	1
+bozuk	out of action	0	0	1	0
+bozuk	in bad order	0	0	1	0
 bozuk	disordered	0	0	1	1
 bozuk	foul	0	0	1	1
 bozuk	distorted	0	0	1	1
 bozuk	damaged	0	0	1	1
 bozuk	haywire	0	0	1	1
 bozuk	dished	0	0	1	1
-bozuk	broken down	0	0	1	1
+bozuk	broken down	0	0	1	0
 bozuk	faulty	0	0	1	1
 bozuk	embroiled	0	0	1	1
 bozuk	imperfect	0	0	1	1
@@ -2373,7 +2373,7 @@ bozuk	broken	0	0	1	1
 bozuk	wrong	0	0	1	1
 bozuk	dead	0	0	1	1
 bozuk	bum	0	0	1	1
-bozuk	on the fritz	0	0	1	1
+bozuk	on the fritz	0	0	1	0
 bozuk	disappointed	0	0	1	1
 bozuk	irregular	0	0	1	1
 bozuk	flyblown	0	0	1	1
@@ -2738,7 +2738,7 @@ hayatın	life's	0	0	1	0
 hayatın	live	0	0	1	0
 hayatın	life	0	0	1	0
 uğruna	sake	0	0	1	0
-uğruna	for the sake of	0	0	1	1
+uğruna	for the sake of	0	0	1	0
 morgan	morgan	0	0	1	0
 morgan	a surname	0	0	1	0
 mali	financial	0	0	1	1
@@ -2958,7 +2958,7 @@ satürnün	saturn's	0	0	1	0
 diyordu	was saying	0	0	1	0
 diyordu	said	0	0	1	0
 diyordu	was saying that	0	0	1	0
-karadeniz	black sea	0	0	1	1
+karadeniz	black sea	0	0	1	0
 karadeniz	blacksea	0	0	1	0
 sonra	then	0	0	1	1
 sonra	after	0	0	1	1
@@ -2984,7 +2984,7 @@ değerlendirme	evaluation	0	0	1	1
 programın	program	0	0	1	0
 programın	programme	0	0	1	0
 âşık	love	0	0	1	0
-âşık	in love	0	0	1	1
+âşık	in love	0	0	1	0
 âşık	loved	0	0	1	0
 murad	murad	0	0	1	0
 jet	jet	0	0	1	1
@@ -3006,7 +3006,7 @@ partisinin	party	0	0	1	0
 prens	prince	0	0	1	1
 samanî	samani	0	0	1	0
 bölgeye	region	0	0	1	0
-bölgeye	to the region	0	0	1	1
+bölgeye	to the region	0	0	1	0
 birincil	primary	0	0	1	1
 bölgeyi	the area	0	0	1	0
 bölgeyi	region	0	0	1	0
@@ -3179,7 +3179,7 @@ kuvayi	national	0	0	1	0
 bugünkü	today	0	0	1	0
 bugünkü	today's	0	0	1	1
 ileride	then	0	0	1	0
-ileride	in the future	0	0	1	1
+ileride	in the future	0	0	1	0
 uygulanır	applied	0	0	1	0
 uygulanır	is	0	0	1	0
 uygulanır	is applied	0	0	1	0
@@ -3434,7 +3434,7 @@ olumlu	positive	0	0	1	1
 gösterilebilir	shown	0	0	1	0
 gösterilebilir	can be shown	0	0	1	0
 antalyada	antalya	0	0	1	0
-antalyada	in antalya	0	0	1	1
+antalyada	in antalya	0	0	1	0
 kalmaya	to remain	0	0	1	0
 kalmaya	staying	0	0	1	0
 kalmaya	stay	0	0	1	0
@@ -3470,7 +3470,7 @@ emniyet	security	0	0	1	1
 emniyet	safety	0	0	1	1
 teknikleri	technique	0	0	1	0
 teknikleri	techniques	0	0	1	0
-böylece	in this way	0	0	1	1
+böylece	in this way	0	0	1	0
 böylece	by this way	0	0	1	0
 edilebilir	be	0	0	1	0
 edilebilir	can be	0	0	1	0
@@ -3624,7 +3624,7 @@ santa	saint	0	0	1	0
 tevrat	the torah	0	0	1	0
 tevrat	torah	0	0	1	1
 tevrat	the old testament	0	0	1	0
-tevrat	old testament	0	0	1	1
+tevrat	old testament	0	0	1	0
 şam	damascus	0	0	1	1
 şam	sam	0	0	1	0
 seferine	> >	0	0	1	0
@@ -3701,7 +3701,7 @@ piyade	infantry	0	0	1	1
 budizmde	budism	0	0	1	0
 budizmde	in budism	0	0	1	0
 budizmde	buddhism	0	0	1	0
-milletvekili	member of parliament	0	0	1	1
+milletvekili	member of parliament	0	0	1	0
 milletvekili	parliamentarian	0	0	1	1
 milletvekili	deputy	0	0	1	1
 özgün	ozgun	0	0	1	0
@@ -3727,7 +3727,7 @@ bizim	our	0	0	1	1
 up	up	0	0	1	0
 us	us	0	0	1	0
 edinen	overseas	0	0	1	0
-seçimle	by election	0	0	1	1
+seçimle	by election	0	0	1	0
 seçimle	election	0	0	1	0
 döndüğünde	when returned	0	0	1	0
 döndüğünde	when he got back	0	0	1	0
@@ -3756,7 +3756,7 @@ berlinde	in berlin	0	0	1	0
 suikast	plot	0	0	1	1
 suikast	conspiracy	0	0	1	1
 suikast	complot	0	0	1	0
-suikast	foul play	0	0	1	1
+suikast	foul play	0	0	1	0
 suikast	assassination	0	0	1	1
 tunus	tunisia	0	0	1	0
 şarap	wine	0	0	1	1
@@ -3846,7 +3846,7 @@ yerinde	on location	0	0	1	0
 yerinde	in place	0	0	1	0
 yerinde	on site	0	0	1	0
 eve	house	0	0	1	1
-eve	to home	0	0	1	1
+eve	to home	0	0	1	0
 savaşına	savasina	0	0	1	0
 savaşına	war	0	0	1	0
 savaşına	fight	0	0	1	0
@@ -3863,7 +3863,7 @@ gizemli	mysterious	0	0	1	1
 gizemli	mystic	0	0	1	1
 öğrenci	student	0	0	1	1
 başbakanlık	premiership	0	0	1	1
-başbakanlık	prime ministry	0	0	1	1
+başbakanlık	prime ministry	0	0	1	0
 başbakanlık	presidential	0	0	1	0
 yönde	direction	0	0	1	0
 isviçrenin	switzerland	0	0	1	0
@@ -3875,7 +3875,7 @@ sağlamak	maintain	0	0	1	1
 korur	preserve	0	0	1	0
 korur	protects the	0	0	1	0
 korur	protects	0	0	1	0
-önde	in front	0	0	1	1
+önde	in front	0	0	1	0
 önde	leading	0	0	1	0
 taşlar	stones	0	0	1	0
 yugoslavya	jugoslavia	0	0	1	1
@@ -4149,7 +4149,7 @@ abdal	abdal	0	0	1	0
 arkaya	back to back	0	0	1	0
 arkaya	back	0	0	1	1
 izlemek	watch	0	0	1	1
-izlemek	to watch	0	0	1	1
+izlemek	to watch	0	0	1	0
 endüstri	industry	0	0	1	1
 tamamen	completely	0	0	1	1
 yazma	writing	0	0	1	1
@@ -4272,7 +4272,7 @@ napoli	naples	0	0	1	1
 napoli	napoli	0	0	1	0
 david	david	0	0	1	0
 başbakan	president	0	0	1	0
-başbakan	prime minister	0	0	1	1
+başbakan	prime minister	0	0	1	0
 gitmiş	went	0	0	1	0
 gitmiş	went to	0	0	1	0
 kelimelerinin	words	0	0	1	0
@@ -4341,7 +4341,7 @@ noktada	point	0	0	1	0
 varolan	existing	0	0	1	1
 ülkede		0	0	1	0
 ülkede	country	0	0	1	0
-ülkede	in the country	0	0	1	1
+ülkede	in the country	0	0	1	0
 ülkede	other countries	0	0	1	0
 iddiası	claim	0	0	1	0
 mezhepleri	religious sect	0	0	1	0
@@ -4406,7 +4406,7 @@ terim	saying	0	0	1	0
 terim	term	0	0	1	1
 gurbetçi	expatriate	0	0	1	1
 gurbetçi	expat	0	0	1	0
-gurbetçi	guest worker	0	0	1	1
+gurbetçi	guest worker	0	0	1	0
 yaban	boar	0	0	1	0
 yaban	savage	0	0	1	1
 yaban	wild	0	0	1	0
@@ -4659,7 +4659,7 @@ kurarak	by establishing	0	0	1	0
 ve	and	0	0	1	1
 arazi	land	0	0	1	1
 vi	vi	0	0	1	0
-adada	on the island	0	0	1	1
+adada	on the island	0	0	1	0
 adada	in the island	0	0	1	0
 site	site	0	0	1	0
 etkinliği	effectiveness	0	0	1	0
@@ -4832,7 +4832,7 @@ kirte	kirte	0	0	1	0
 örnekler	examples	0	0	1	0
 çalışmak	to	0	0	1	0
 çalışmak	work	0	0	1	1
-çalışmak	to work	0	0	1	1
+çalışmak	to work	0	0	1	0
 türevleri	assortments	0	0	1	0
 türevleri	derivatives	0	0	1	0
 türevleri	derivations	0	0	1	0
@@ -5173,7 +5173,7 @@ geliştirme	development	0	0	1	1
 geliştirme	building	0	0	1	0
 zorla	forcibly	0	0	1	1
 zorla	forced	0	0	1	0
-zorla	by force	0	0	1	1
+zorla	by force	0	0	1	0
 çayan	cayan	0	0	1	0
 çayan	a surname	0	0	1	0
 saray	sultanate	0	0	1	0
@@ -5363,7 +5363,7 @@ bang	bang	0	0	1	0
 uzaklıkta	to away	0	0	1	0
 uzaklıkta	distance	0	0	1	0
 uzaklıkta	distant	0	0	1	0
-bana	to me	0	0	1	1
+bana	to me	0	0	1	0
 bana	up to me	0	0	1	0
 bana	personally	0	0	1	0
 gösterdi	appeared	0	0	1	0
@@ -5374,7 +5374,7 @@ muhtemelen	probably	0	0	1	1
 gelmesi	to arrive	0	0	1	0
 gelmesi	comes with	0	0	1	0
 gelmesi	coming	0	0	1	0
-belirlemek	to determine	0	0	1	1
+belirlemek	to determine	0	0	1	0
 belirlemek	spot	0	0	1	0
 belirlemek	determine	0	0	1	1
 l	i	0	0	1	0
@@ -5396,8 +5396,8 @@ gerçekleştirilen	performed	0	0	1	0
 carlos	carlos	0	0	1	0
 zonguldak	zonguldak	0	0	1	0
 böyle	thusly	0	0	1	0
-böyle	in this way	0	0	1	1
-böyle	like this	0	0	1	1
+böyle	in this way	0	0	1	0
+böyle	like this	0	0	1	0
 komünist	communist	0	0	1	1
 odasında	in his room	0	0	1	0
 odasında	room	0	0	1	0
@@ -5428,7 +5428,7 @@ padişahın	padishah	0	0	1	0
 padişahın	sultan's	0	0	1	0
 teorisine	theory	0	0	1	0
 olmak	be	0	0	1	1
-olmak	to be	0	0	1	1
+olmak	to be	0	0	1	0
 olmak	includ	0	0	1	0
 olmak	first	0	0	1	0
 kapsamında	scope	0	0	1	0
@@ -5436,7 +5436,7 @@ kapsamında	within	0	0	1	1
 kapsamında	extent	0	0	1	0
 böylelikle	so	0	0	1	0
 böylelikle	thus	0	0	1	1
-böylelikle	in this way	0	0	1	1
+böylelikle	in this way	0	0	1	0
 istanbulun	istanbul's	0	0	1	0
 istanbulun	istanbul	0	0	1	0
 anal	anal	0	0	1	1
@@ -5552,7 +5552,7 @@ ismet	ismet	0	0	1	0
 selimin	selimin	0	0	1	0
 selimin	selim's	0	0	1	0
 niçin	why	0	0	1	1
-bizzat	in person	0	0	1	1
+bizzat	in person	0	0	1	0
 bizzat	himself	0	0	1	1
 bizzat	personally	0	0	1	1
 kazanan	winner	0	0	1	1
@@ -5742,7 +5742,7 @@ katılım	participation	0	0	1	1
 köprü	bridge	0	0	1	1
 adanada	in cairo	0	0	1	0
 adanada	adana	0	0	1	0
-adanada	in adana	0	0	1	1
+adanada	in adana	0	0	1	0
 çağının	term	0	0	1	0
 çağının	age	0	0	1	0
 derya	derya	0	0	1	0
@@ -5840,9 +5840,9 @@ serveti	fortune	0	0	1	0
 serveti	a magazine name	0	0	1	0
 kurtarmak	saving	0	0	1	0
 kurtarmak	rescue	0	0	1	1
-kurtarmak	to save	0	0	1	1
+kurtarmak	to save	0	0	1	0
 ait	proprieter	0	0	1	0
-ait	belonging to	0	0	1	1
+ait	belonging to	0	0	1	0
 çizgi	line	0	0	1	1
 müzesi	museum	0	0	1	0
 müzesi	museum of	0	0	1	0
@@ -6188,7 +6188,7 @@ hintli	hindu	0	0	1	1
 hintli	indian	0	0	1	1
 birbirlerinden	from each other	0	0	1	0
 birbirlerinden	each others	0	0	1	0
-oradan	from there	0	0	1	1
+oradan	from there	0	0	1	0
 oradan	thence	0	0	1	1
 emin	be sure	0	0	1	0
 emin	a male name	0	0	1	0
@@ -6217,7 +6217,7 @@ tesla	tesla	0	0	1	0
 şanlıurfa	sanliurfa	0	0	1	0
 şanlıurfa	Şanlıurfa is a city name	0	0	1	0
 bağımlı	dependent	0	0	1	1
-almanyada	in germany	0	0	1	1
+almanyada	in germany	0	0	1	0
 almanyada	at germany	0	0	1	0
 ün	flour	0	0	1	0
 ün	fame	0	0	1	1
@@ -6438,7 +6438,7 @@ ortamı	environment	0	0	1	0
 ortamı	in the environment	0	0	1	0
 hindistan	india	0	0	1	1
 içişleri	domestic	0	0	1	0
-içişleri	internal affairs	0	0	1	1
+içişleri	internal affairs	0	0	1	0
 yönetiminde	under administration of	0	0	1	0
 yönetiminde	administration	0	0	1	0
 bitki	plant	0	0	1	1
@@ -6504,7 +6504,7 @@ alanı	sphere	0	0	1	0
 alanı	area	0	0	1	0
 günlüğü	diary	0	0	1	0
 günlüğü	dairy	0	0	1	0
-dolayısıyla	by implication	0	0	1	1
+dolayısıyla	by implication	0	0	1	0
 dolayısıyla	therefore	0	0	1	0
 dolayısıyla	thereby	0	0	1	0
 koruyan	protecting	0	0	1	0
@@ -6615,7 +6615,7 @@ yasanın	law	0	0	1	0
 üyelik	membership	0	0	1	1
 üyelik	member since	0	0	1	0
 göndererek	sending	0	0	1	0
-sadrazam	grand vizier	0	0	1	1
+sadrazam	grand vizier	0	0	1	0
 olaylardan	incident	0	0	1	0
 olaylardan	events	0	0	1	0
 denmektedir	is called	0	0	1	0
@@ -6652,8 +6652,8 @@ tuncay	tuncay	0	0	1	0
 şeyin	thing	0	0	1	0
 şeyin	herseyin=everything	0	0	1	0
 mülkiye	civil	0	0	1	0
-mülkiye	civil service	0	0	1	1
-mülkiye	the civil service	0	0	1	1
+mülkiye	civil service	0	0	1	0
+mülkiye	the civil service	0	0	1	0
 james	james	0	0	1	0
 planlı	planed	0	0	1	0
 planlı	planned	0	0	1	0
@@ -6675,7 +6675,7 @@ kere	times	0	0	1	1
 el	occupied	0	0	1	0
 el	hand	0	0	1	1
 en	most	0	0	1	1
-birbiri	each other	0	0	1	1
+birbiri	each other	0	0	1	0
 ataları	ancestors	0	0	1	0
 ek	addition	0	0	1	1
 ek	additional	0	0	1	1
@@ -6763,7 +6763,7 @@ yarış	race	0	0	1	1
 evren	universe	0	0	1	1
 biyolojinin	biology's	0	0	1	0
 biyolojinin	biology	0	0	1	0
-arada	in between	0	0	1	1
+arada	in between	0	0	1	0
 arada	between	0	0	1	1
 ilişkisi	relation	0	0	1	0
 görevinden	duty	0	0	1	0
@@ -6807,7 +6807,7 @@ geçerek	by passing	0	0	1	0
 geçerek	through	0	0	1	0
 geçerek	goes through	0	0	1	0
 geliştirmek	develop	0	0	1	1
-geliştirmek	to develop	0	0	1	1
+geliştirmek	to develop	0	0	1	0
 geliştirmek	developing	0	0	1	0
 uzaya	to space	0	0	1	0
 uzaya	space	0	0	1	0
@@ -6858,7 +6858,7 @@ sağlamaya	provide	0	0	1	0
 sağlamaya	providing	0	0	1	0
 sağlamaya	to provide	0	0	1	0
 zamanda	times	0	0	1	0
-zamanda	at the time	0	0	1	1
+zamanda	at the time	0	0	1	0
 zamanda	time	0	0	1	0
 eş	synonym	0	0	1	0
 eş	same	0	0	1	0
@@ -6963,7 +6963,7 @@ yönetim	direction	0	0	1	1
 yönetim	management	0	0	1	1
 yönetim	administration	0	0	1	1
 nilüfer	nilufer	0	0	1	0
-nilüfer	water lily	0	0	1	1
+nilüfer	water lily	0	0	1	0
 nilüfer	nymphaea	0	0	1	0
 imanın	faith	0	0	1	0
 imanın	belief	0	0	1	0
@@ -7057,7 +7057,7 @@ yazık	shame	0	0	1	1
 yazık	unfortunately	0	0	1	0
 yazın	to the number	0	0	1	0
 yazın	summer	0	0	1	0
-yazın	in the summer	0	0	1	1
+yazın	in the summer	0	0	1	0
 sahasında	field	0	0	1	0
 sahasında	in their field	0	0	1	0
 anarşistler	anarchists	0	0	1	0
@@ -7190,7 +7190,7 @@ ablası	elder sister	0	0	1	0
 çağına	age	0	0	1	0
 çağına	period	0	0	1	0
 kimse	nobody	0	0	1	1
-kimse	no one	0	0	1	1
+kimse	no one	0	0	1	0
 speed	hız	0	0	1	0
 speed	speed	0	0	1	0
 albümü	album	0	0	1	0
@@ -7561,7 +7561,7 @@ vazgeçti	for	0	0	1	0
 izlerini	prints	0	0	1	0
 izlerini	traces	0	0	1	0
 izlerini	trace	0	0	1	0
-öbür	the other	0	0	1	1
+öbür	the other	0	0	1	0
 öbür	other	0	0	1	1
 nöbet	yaz gelir	0	0	1	0
 nöbet	all events	0	0	1	0
@@ -7628,7 +7628,7 @@ edremit	edremit	0	0	1	0
 bölgelerinde	regions	0	0	1	0
 tehdit	threat	0	0	1	1
 isveçte	sweden	0	0	1	0
-isveçte	in sweden	0	0	1	1
+isveçte	in sweden	0	0	1	0
 bulut	cloud	0	0	1	1
 işgali	invasion	0	0	1	0
 işgali	occupation	0	0	1	0
@@ -7763,9 +7763,9 @@ fa	de	0	0	1	0
 dengesi	balance	0	0	1	0
 fiilen	defacto	0	0	1	1
 fiilen	personally	0	0	1	0
-sırasıyla	in order of	0	0	1	1
+sırasıyla	in order of	0	0	1	0
 sırasıyla	in sequence	0	0	1	0
-sırasıyla	in order	0	0	1	1
+sırasıyla	in order	0	0	1	0
 fe	fe	0	0	1	0
 konumuna	status	0	0	1	0
 konumuna	position	0	0	1	0
@@ -8038,7 +8038,7 @@ doğrusal	lineer	0	0	1	0
 doğrusal	linear	0	0	1	1
 haftasında	week	0	0	1	0
 kaç	how many (though in this context together with 'bir' it means 'a few')	0	0	1	0
-kaç	how many	0	0	1	1
+kaç	how many	0	0	1	0
 amerikalılar	american	0	0	1	0
 amerikalılar	americans	0	0	1	0
 uzaydan	from space	0	0	1	0
@@ -8066,7 +8066,7 @@ orhan	a male name	0	0	1	0
 fransayı	to france	0	0	1	0
 fransayı	france	0	0	1	0
 üzerinde	on	0	0	1	1
-üzerinde	on top of	0	0	1	1
+üzerinde	on top of	0	0	1	0
 üzerinde	above	0	0	1	1
 galip	winner	0	0	1	1
 kars	kars	0	0	1	0
@@ -8168,9 +8168,9 @@ kazanmıştır	won	0	0	1	0
 çeyiz	dower	1	0	1	1
 çeyiz	wallnut	1	0	1	0
 çeyiz	trousseau	1	0	1	1
-çeyiz	marriage portion	1	0	1	1
+çeyiz	marriage portion	1	0	1	0
 çeyiz	dowery	1	0	1	0
-çeyiz	bottom drawer	1	0	1	1
+çeyiz	bottom drawer	1	0	1	0
 çeyiz	christian	1	0	1	0
 çeyiz	marriage outfit	1	1	0	0
 kalem	pencil	0	0	1	1
@@ -8179,7 +8179,7 @@ kalem	writing	0	0	1	0
 görülmesi	seen	0	0	1	0
 görülmesi	accept	0	0	1	0
 görülmesi	visiting	0	0	1	0
-üzeri	upper surface	0	0	1	1
+üzeri	upper surface	0	0	1	0
 üzeri	on	0	0	1	0
 üzeri	longer	0	0	1	0
 randy	a name	0	0	1	0
@@ -8423,7 +8423,7 @@ dışarıya	outside	0	0	1	1
 dışarıya	out	0	0	1	1
 şube	branch	0	0	1	1
 bombardıman	bombardment	0	0	1	1
-bombardıman	salvo bombing	0	0	1	1
+bombardıman	salvo bombing	0	0	1	0
 grand	grand	0	0	1	0
 babür	a name	0	0	1	0
 babür	babur	0	0	1	0
@@ -8490,28 +8490,28 @@ göstermek	exhibit	0	0	1	1
 göstermek	represent	0	0	1	1
 göstermek	show	0	0	1	1
 göstermek	evidence	0	0	1	1
-göstermek	hold up	0	0	1	1
+göstermek	hold up	0	0	1	0
 göstermek	depict	0	0	1	1
 göstermek	prove	0	0	1	1
 göstermek	point	0	0	1	1
 göstermek	indicate	0	0	1	1
-göstermek	set out	0	0	1	1
+göstermek	set out	0	0	1	0
 göstermek	exercise	0	0	1	1
 göstermek	designate	0	0	1	1
 göstermek	disclose	0	0	1	1
-göstermek	point out	0	0	1	1
+göstermek	point out	0	0	1	0
 göstermek	expose	0	0	1	1
 göstermek	betoken	0	0	1	1
 göstermek	introduce	0	0	1	1
 göstermek	produce	0	0	1	1
-göstermek	put forth	0	0	1	1
+göstermek	put forth	0	0	1	0
 göstermek	teach	0	0	1	1
 göstermek	denote	0	0	1	1
-göstermek	to show	0	0	1	1
+göstermek	to show	0	0	1	0
 göstermek	look	0	0	1	1
 göstermek	manifest	0	0	1	1
 göstermek	initiate	0	0	1	1
-göstermek	point to	0	0	1	1
+göstermek	point to	0	0	1	0
 göstermek	demonstrate	0	0	1	1
 göstermek	display	0	0	1	1
 başa	to head	0	0	1	0
@@ -8564,7 +8564,7 @@ etkileyen	effects	0	0	1	0
 etkileyen	effect	0	0	1	0
 bayrağı	flag	0	0	1	0
 tümü	all	0	0	1	0
-tümü	all of	0	0	1	1
+tümü	all of	0	0	1	0
 küçükçekmece	it's a place in istanbul	0	0	1	0
 küçükçekmece	kucukcekmece	0	0	1	0
 ülkelerinden	of countries	0	0	1	0
@@ -8733,7 +8733,7 @@ farklılıklar	difference	0	0	1	0
 liberalizm	liberalism	0	0	1	1
 filistin	palestine	0	0	1	1
 yıldızı	star	0	0	1	0
-askerlik	military service	0	0	1	1
+askerlik	military service	0	0	1	0
 anlamıyla	meaning	0	0	1	0
 anlamıyla	sense of the	0	0	1	0
 kategori	category	0	0	1	1
@@ -8763,7 +8763,7 @@ iplikli	lace	0	0	1	0
 iplikli	fibered	0	0	1	0
 e	e	0	0	1	0
 e	until	0	0	1	0
-doğrusu	in fact	0	0	1	1
+doğrusu	in fact	0	0	1	0
 doğrusu	worth it	0	0	1	0
 kurucuları	founders	0	0	1	0
 kurucuları	founder	0	0	1	0
@@ -8793,10 +8793,10 @@ sahiptirler	have	0	0	1	0
 dilini	language	0	0	1	0
 aleyhine	the disadvantage of	0	0	1	0
 aleyhine	against	0	0	1	0
-içki	alcoholic beverage	0	0	1	1
+içki	alcoholic beverage	0	0	1	0
 içki	beverages	0	0	1	0
 içki	drink	0	0	1	1
-içki	alcoholic drink	0	0	1	1
+içki	alcoholic drink	0	0	1	0
 yunanistanın	of greece	0	0	1	0
 yunanistanın	greece	0	0	1	0
 doğumlular	born	0	0	1	0
@@ -8835,7 +8835,7 @@ boyutlu	dimensional	0	0	1	1
 facebook	facebook	0	0	1	0
 buradan	from here to	0	0	1	0
 buradan	by this	0	0	1	0
-buradan	from here	0	0	1	1
+buradan	from here	0	0	1	0
 buradan	from hree	0	0	1	0
 stadyumu	stadium	0	0	1	0
 anafartalar	suvla	0	0	1	1
@@ -9004,9 +9004,9 @@ hayati	crucial	0	0	1	0
 hayati	a male name	0	0	1	0
 ailesinin	his family's	0	0	1	0
 ailesinin	family	0	0	1	0
-veliaht	crown prince	0	0	1	1
+veliaht	crown prince	0	0	1	0
 veliaht	veliant	0	0	1	0
-veliaht	heir to the throne	0	0	1	1
+veliaht	heir to the throne	0	0	1	0
 ilişkiyi	relation	0	0	1	0
 ilişkiyi	relationship	0	0	1	0
 nedenleri	reasons	0	0	1	0
@@ -9193,7 +9193,7 @@ havacılık	aeronautics	0	0	1	1
 havacılık	aero	0	0	1	1
 havacılık	flying	0	0	1	1
 havacılık	airmanship	0	0	1	1
-havacılık	aerial navigation	0	0	1	1
+havacılık	aerial navigation	0	0	1	0
 havacılık	aviation	0	0	1	1
 havacılık	aeros	0	0	1	1
 entertainment	entertainment	0	0	1	0
@@ -9283,7 +9283,7 @@ dahil	including	0	0	1	1
 ekonomiye	to economy	0	0	1	0
 ekonomiye	economy	0	0	1	0
 doğumlu	born	0	0	1	0
-doğumlu	born in	0	0	1	1
+doğumlu	born in	0	0	1	0
 doğumlu	birth	0	0	1	0
 mal	property	0	0	1	1
 mal	merchandise	0	0	1	1
@@ -9345,7 +9345,7 @@ topluluğuna	flora	0	0	1	0
 topluluğuna	community	0	0	1	0
 haydar	haydar	0	0	1	0
 haydar	it's a name	0	0	1	0
-tabi	subject to	0	0	1	1
+tabi	subject to	0	0	1	0
 tabi	depend	0	0	1	0
 şarkıcıları	singers	0	0	1	0
 evlendi	married	0	0	1	0
@@ -9428,7 +9428,7 @@ oldukları	is	0	0	1	0
 oldukları	to be	0	0	1	0
 ottoman	ottoman	0	0	1	0
 istanbulda	istanbulda	0	0	1	0
-istanbulda	in istanbul	0	0	1	1
+istanbulda	in istanbul	0	0	1	0
 yerinden	dislocating	0	0	1	0
 yerinden	over	0	0	1	0
 ilkel	primitive	0	0	1	1
@@ -9446,7 +9446,7 @@ akımlar	trend	0	0	1	0
 akımlar	currents	0	0	1	0
 akımlar	movements	0	0	1	0
 darbe	coup	0	0	1	1
-darbe	coup d'etat	0	0	1	1
+darbe	coup d'etat	0	0	1	0
 hükümetin	the government	0	0	1	0
 hükümetin	government's	0	0	1	0
 yüz	hundred	0	0	1	1
@@ -9497,7 +9497,7 @@ olsalar	accept	0	0	1	0
 olsalar	if	0	0	1	0
 ustası	master	0	0	1	0
 sürtünme	friction	0	0	1	1
-kullanmak	to use	0	0	1	1
+kullanmak	to use	0	0	1	0
 kullanmak	use	0	0	1	1
 zamandan	from that age	0	0	1	0
 zamandan	time	0	0	1	0
@@ -9633,7 +9633,7 @@ bakıma	a way	0	0	1	0
 bakıma	maintenance	0	0	1	0
 ekim	october	0	0	1	1
 ekim	sowing	0	0	1	1
-zamanla	in time	0	0	1	1
+zamanla	in time	0	0	1	0
 zamanla	by time	0	0	1	0
 edilebilecek	being done	0	0	1	0
 edilebilecek	may fail to	0	0	1	0
@@ -9670,7 +9670,7 @@ griffon	griffon	0	0	1	0
 sanayileşme	industrialization	0	0	1	1
 başarısız	failed	0	0	1	0
 başarısız	unsuccessful	0	0	1	1
-yarbay	lieutenant colonel	0	0	1	1
+yarbay	lieutenant colonel	0	0	1	0
 bankası	bank	0	0	1	0
 belirtmiştir	state	0	0	1	0
 belirtmiştir	to emphasize	0	0	1	0
@@ -9701,10 +9701,10 @@ dharma	dharma	0	0	1	0
 silahlar	weapons	0	0	1	0
 silahlar	guns	0	0	1	0
 anlatmak	tell	0	0	1	1
-anlatmak	to tell	0	0	1	1
+anlatmak	to tell	0	0	1	0
 kazanır	wins	0	0	1	0
 kazanır	win	0	0	1	0
-birbirini	each other	0	0	1	1
+birbirini	each other	0	0	1	0
 ertuğrul	ertugrul	0	0	1	0
 onda	in tenth	0	0	1	0
 onda	tenth	0	0	1	1
@@ -9731,7 +9731,7 @@ vakıf	foundation	0	0	1	1
 vakıf	waqf	0	0	1	0
 vakıf	private	0	0	1	0
 gerçekleşti	happened	0	0	1	0
-futbolcu	football player	0	0	1	1
+futbolcu	football player	0	0	1	0
 futbolcu	footballer (british english) or football player (american english)	0	0	1	0
 ışınım	radiation	0	0	1	1
 milattan	christ	0	0	1	0
@@ -9745,7 +9745,7 @@ gravür	woodcut	1	0	1	1
 gravür	storage	1	0	1	0
 gravür	woodprint	1	0	1	1
 gravür	gravur	1	0	1	0
-gravür	wood block	1	0	1	1
+gravür	wood block	1	0	1	0
 gravür	gravure	1	0	1	1
 gravür	engraved	1	1	0	0
 gravür	etchings	1	0	1	0
@@ -9946,7 +9946,7 @@ kalıtımsal	inherited	0	0	1	0
 etkilerini	effects	0	0	1	0
 etkilerini	of effects	0	0	1	0
 yıllardır	several years	0	0	1	0
-yıllardır	for years	0	0	1	1
+yıllardır	for years	0	0	1	0
 yıllardır	years	0	0	1	0
 fotoğraf	photo	0	0	1	1
 fotoğraf	photography	0	0	1	1
@@ -10084,9 +10084,9 @@ ankaranın	ankara's	0	0	1	0
 çoklu	multiple	0	0	1	1
 yanısıra	apart from	0	0	1	0
 yanısıra	also	0	0	1	1
-yanısıra	as well as	0	0	1	1
+yanısıra	as well as	0	0	1	0
 gittikçe	increasingly	0	0	1	1
-gittikçe	more and more	0	0	1	1
+gittikçe	more and more	0	0	1	0
 gittikçe	pass	0	0	1	0
 çekim	shoot	0	0	1	1
 çekim	shooting	0	0	1	1
@@ -10169,7 +10169,7 @@ bulunarak	found	0	0	1	0
 bulunarak	was	0	0	1	0
 bulunarak	find	0	0	1	0
 gözlü	eye	0	0	1	0
-aslında	in fact	0	0	1	1
+aslında	in fact	0	0	1	0
 aslında	actually	0	0	1	1
 hastalığının	his sickness	0	0	1	0
 hastalığının	illness	0	0	1	0
@@ -10178,7 +10178,7 @@ tarihindeki	history	0	0	1	0
 sayısında	number	0	0	1	0
 kuşkusuz	without suspicion	0	0	1	0
 kuşkusuz	a	0	0	1	0
-kuşkusuz	without doubt	0	0	1	1
+kuşkusuz	without doubt	0	0	1	0
 sırpların	serbs	0	0	1	0
 kürdistan	kurdistan	0	0	1	0
 sayıda	count of	0	0	1	0
@@ -10271,7 +10271,7 @@ alanında	area	0	0	1	0
 ülkesine	to their country	0	0	1	0
 ülkesine	countries	0	0	1	0
 havada	on air	0	0	1	0
-havada	in the air	0	0	1	1
+havada	in the air	0	0	1	0
 imkânı	chance	0	0	1	0
 imkânı	opportunity	0	0	1	0
 noktasında	at	0	0	1	0
@@ -10307,8 +10307,8 @@ ambivalenz	human	1	0	1	0
 ambivalenz	ambivalent	1	1	0	0
 alabilir	may	0	0	1	0
 alabilir	can take	0	0	1	0
-gelecekte	in future	0	0	1	1
-gelecekte	in the future	0	0	1	1
+gelecekte	in future	0	0	1	0
+gelecekte	in the future	0	0	1	0
 hastaların	patient's	0	0	1	0
 hastaların	patients	0	0	1	0
 destekli	supported	0	0	1	1
@@ -10321,7 +10321,7 @@ hareketlerine	on the movements of	0	0	1	0
 hareketlerine	behavior	0	0	1	0
 hareketlerine	movement	0	0	1	0
 şehirlerinden	cities	0	0	1	0
-çeken	subject to	0	0	1	1
+çeken	subject to	0	0	1	0
 çeken	"çeken" must be used with "sıla hasreti";  sıla hasreti çeken = homesick person	0	0	1	0
 çeken	want	0	0	1	0
 sürülmüştür	has been	0	0	1	0
@@ -10389,7 +10389,7 @@ tedin	ted	0	0	1	0
 evliliğini	marriage	0	0	1	0
 spears	spears	0	0	1	0
 onlarla	them	0	0	1	0
-onlarla	with them	0	0	1	1
+onlarla	with them	0	0	1	0
 periyodu	period (time)	0	0	1	0
 periyodu	period	0	0	1	0
 messinin	messi	0	0	1	0
@@ -10469,7 +10469,7 @@ ilanı	ad	0	0	1	0
 ilanı	publication	0	0	1	0
 iso	iso	0	0	1	0
 anısına	memorial	0	0	1	0
-anısına	in memory of	0	0	1	1
+anısına	in memory of	0	0	1	0
 anısına	on memory	0	0	1	0
 isa	isa	0	0	1	0
 isa	christ	0	0	1	0
@@ -10563,7 +10563,7 @@ suları	water	0	0	1	0
 suları	waters	0	0	1	0
 felsefi	philosophical	0	0	1	1
 avrupada	europe	0	0	1	0
-avrupada	in europe	0	0	1	1
+avrupada	in europe	0	0	1	0
 avrupada	european	0	0	1	0
 kullanılarak	use	0	0	1	0
 kullanılarak	used	0	0	1	0
@@ -10578,8 +10578,8 @@ göreceli	controversial	0	0	1	0
 kullanılıyordu	was using	0	0	1	0
 kullanılıyordu	used	0	0	1	0
 özgü	particular	0	0	1	1
-özgü	unique to	0	0	1	1
-özgü	peculiar to	0	0	1	1
+özgü	unique to	0	0	1	0
+özgü	peculiar to	0	0	1	0
 ögdülmişin	ogdulmis's	0	0	1	0
 ögdülmişin	ogdulmis	0	0	1	0
 blue	blue	0	0	1	0
@@ -10648,7 +10648,7 @@ bulunması	finding	0	0	1	0
 bulunması	existed	0	0	1	0
 bulunması	present	0	0	1	0
 arpa	barley	0	0	1	1
-tabii	of course	0	0	1	1
+tabii	of course	0	0	1	0
 tabii	natural	0	0	1	1
 istenen	the desired	0	0	1	0
 istenen	wanted	0	0	1	0
@@ -10673,7 +10673,7 @@ yaygınlık	prevalence	0	0	1	1
 christopher	christopher	0	0	1	0
 christopher	cristopher	0	0	1	0
 araştırmak	search	0	0	1	1
-araştırmak	to investigate	0	0	1	1
+araştırmak	to investigate	0	0	1	0
 araştırmak	investigate	0	0	1	1
 edici	annoyance	0	0	1	0
 edici	make	0	0	1	0
@@ -10691,8 +10691,8 @@ bay	mr.	0	0	1	1
 bay	mr	0	0	1	1
 bad	bad	0	0	1	0
 sanayii	industry	0	0	1	0
-kışın	in the winter	0	0	1	1
-kışın	in winter	0	0	1	1
+kışın	in the winter	0	0	1	0
+kışın	in winter	0	0	1	0
 etmektedir	is	0	0	1	0
 istasyonu	station	0	0	1	0
 vampir	vampire	0	0	1	1
@@ -10829,7 +10829,7 @@ unvânı	title	0	0	1	0
 yürütme	executive	0	0	1	1
 yürütme	execution	0	0	1	1
 japonyaya	japan	0	0	1	0
-japonyaya	to japan	0	0	1	1
+japonyaya	to japan	0	0	1	0
 sayılabilecek	considered	0	0	1	0
 sayılabilecek	conditioning is	0	0	1	0
 servis	service	0	0	1	1
@@ -10966,7 +10966,7 @@ doğuş	firm name	0	0	1	0
 doğuş	university name	0	0	1	0
 statüsünde	status	0	0	1	0
 statüsünde	statue	0	0	1	0
-artık	no longer	0	0	1	1
+artık	no longer	0	0	1	0
 artık	anymore	0	0	1	1
 vanessa	vanessa	0	0	1	0
 vanessa	a female name	0	0	1	0
@@ -11008,7 +11008,7 @@ dean	dean	0	0	1	0
 çiftliği	farm	0	0	1	0
 wwe	wwe	0	0	1	0
 öldürmek	kill	0	0	1	1
-öldürmek	to kill	0	0	1	1
+öldürmek	to kill	0	0	1	0
 pelikan	pelican	1	1	0	1
 pelikan	subjected	1	0	1	0
 pelikan	exposed	1	0	1	0
@@ -11062,7 +11062,7 @@ hüküm	judge	0	0	1	0
 hüküm	verdict	0	0	1	1
 hüküm	rule	0	0	1	1
 londrada	london	0	0	1	0
-londrada	in london	0	0	1	1
+londrada	in london	0	0	1	0
 terimleri	terms	0	0	1	0
 kurumu	agency	0	0	1	0
 kurumu	institution	0	0	1	0
@@ -11101,7 +11101,7 @@ alanlarında	fields	0	0	1	0
 atmosfer	atmosphere	0	0	1	1
 hükümeti	government	0	0	1	0
 azaltmak	reduce	0	0	1	1
-azaltmak	to decrease	0	0	1	1
+azaltmak	to decrease	0	0	1	0
 azaltmak	lessen	0	0	1	1
 azeri	azerbaijani	0	0	1	1
 batman	batman	0	0	1	0
@@ -11109,7 +11109,7 @@ mutasyon	mutation	0	0	1	1
 allaha	in god	0	0	1	0
 allaha	İslamic name of god	0	0	1	0
 allaha	allah	0	0	1	0
-allaha	to god	0	0	1	1
+allaha	to god	0	0	1	0
 hükümete	to the government	0	0	1	0
 hükümete	government	0	0	1	0
 çalışıyordu	was working	0	0	1	0
@@ -11232,8 +11232,8 @@ akım	believe	1	0	1	0
 akım	movement	1	0	1	1
 münih	munich	0	0	1	1
 makaleler	articles	0	0	1	0
-ondan	from it	0	0	1	1
-ondan	from him	0	0	1	1
+ondan	from it	0	0	1	0
+ondan	from him	0	0	1	0
 desteğiyle	with support	0	0	1	0
 desteğiyle	support	0	0	1	0
 parçacıklar	particles	0	0	1	0
@@ -11594,10 +11594,10 @@ mecnun	mecnun	0	0	1	0
 konuma	status	0	0	1	0
 konuma	location	0	0	1	0
 birbirine	to each other	0	0	1	0
-birbirine	one another	0	0	1	1
-birbirine	each other	0	0	1	1
+birbirine	one another	0	0	1	0
+birbirine	each other	0	0	1	0
 nihayet	eventually	0	0	1	1
-nihayet	at last	0	0	1	1
+nihayet	at last	0	0	1	0
 nihayet	at the end	0	0	1	0
 kemerini	archway	0	0	1	0
 kemerini	humpback	0	0	1	0
@@ -11675,7 +11675,7 @@ severus	severus	0	0	1	0
 zehra	common turkish female name meaning : shiny like the moon	0	0	1	0
 zehra	zehra	0	0	1	0
 önünde	considering	0	0	1	0
-önünde	in front of	0	0	1	1
+önünde	in front of	0	0	1	0
 önünde	considere	0	0	1	0
 önünde	sight	0	0	1	0
 kimliği	identity	0	0	1	0
@@ -11687,7 +11687,7 @@ ilişkiler	relations	0	0	1	0
 bahseder	mentions	0	0	1	0
 bahseder	mention	0	0	1	0
 almanyaya	germany	0	0	1	0
-almanyaya	to germany	0	0	1	1
+almanyaya	to germany	0	0	1	0
 alaaddin	alaaddin	0	0	1	0
 alaaddin	aladdin	0	0	1	0
 yaşamakta	living	0	0	1	0
@@ -11887,7 +11887,7 @@ gel	come	0	0	1	0
 artı	arti deger=value added	0	0	1	0
 artı	plus	0	0	1	1
 fenol	medicine	1	0	1	0
-fenol	phenylic acid	1	1	0	1
+fenol	phenylic acid	1	1	0	0
 fenol	develop	1	0	1	0
 fenol	phenol	1	1	0	1
 eylem	action	0	0	1	1
@@ -11956,7 +11956,7 @@ bulunmak	to contribute	0	0	1	0
 bulunmak	contribute	0	0	1	0
 bulunmak	have	0	0	1	1
 z	z	0	0	1	0
-yolda	on the road	0	0	1	1
+yolda	on the road	0	0	1	0
 yolda	way	0	0	1	0
 tüccar	merchant	0	0	1	1
 tüccar	dealer	0	0	1	1
@@ -12013,7 +12013,7 @@ gelmesini	come	0	0	1	0
 özgeçmiş	cirriculum vitae	1	0	1	0
 özgeçmiş	resume.wiz|resume wizard|resume	1	1	0	0
 özgeçmiş	cv	1	1	0	1
-özgeçmiş	curriculum vitae	1	0	1	1
+özgeçmiş	curriculum vitae	1	0	1	0
 mary	mary	0	0	1	1
 sentezi	synthesis	0	0	1	0
 enerjisi	energy	0	0	1	0
@@ -12097,7 +12097,7 @@ siyonist	zionist	0	0	1	0
 ağızları	dialects	0	0	1	0
 ağızları	retail sale	0	0	1	0
 ağızları	dialect	0	0	1	0
-bağdatta	in baghdad	0	0	1	1
+bağdatta	in baghdad	0	0	1	0
 bağdatta	baghdad	0	0	1	0
 demokrasiye	democracy	0	0	1	0
 iktidara	power	0	0	1	0
@@ -12162,7 +12162,7 @@ boğazı	the bosphorus	0	0	1	0
 merkürün	mercury	0	0	1	0
 merkürün	mercury's	0	0	1	0
 olmuş	happend accordingly	0	0	1	0
-olmuş	has been	0	0	1	1
+olmuş	has been	0	0	1	0
 ateizm	atheism	0	0	1	1
 etkiledi	effected	0	0	1	0
 etkiledi	affected	0	0	1	0
@@ -12238,7 +12238,7 @@ amacı	the purpose	0	0	1	0
 amacı	purpose	0	0	1	0
 elindeki	on hand	0	0	1	0
 elindeki	the hands	0	0	1	0
-haliç	golden horn	0	0	1	1
+haliç	golden horn	0	0	1	0
 engelleme	prevention	0	0	1	1
 casus	spy	0	0	1	1
 casus	agent	0	0	1	1
@@ -12504,7 +12504,7 @@ eserinde	work	0	0	1	0
 eserinde	in his/her work	0	0	1	0
 nedeniyle	by reason of	0	0	1	0
 nedeniyle	because of that reason	0	0	1	0
-nedeniyle	due to	0	0	1	1
+nedeniyle	due to	0	0	1	0
 sorunları	problems	0	0	1	0
 sorunları	issues	0	0	1	0
 çekmiştir	attracted	0	0	1	0
@@ -12704,7 +12704,7 @@ sözcüğünün	the word	0	0	1	0
 ayrıldıktan	left	0	0	1	0
 ayrıldıktan	seperated	0	0	1	0
 ayrıldıktan	separate	0	0	1	0
-başrol	leading role	0	0	1	1
+başrol	leading role	0	0	1	0
 toplantıda	in the meeting	0	0	1	0
 toplantıda	meeting	0	0	1	0
 kızları	girls	0	0	1	0
@@ -12724,7 +12724,7 @@ oğludur	son of	0	0	1	0
 oğludur	is son of	0	0	1	0
 oğludur	son	0	0	1	0
 kanunun	law	0	0	1	0
-türkü	folk song	0	0	1	1
+türkü	folk song	0	0	1	0
 istiklal	independence	0	0	1	1
 istiklal	istiklal	0	0	1	0
 düzenledi	organised	0	0	1	0
@@ -12732,7 +12732,7 @@ düzenledi	attacked	0	0	1	0
 saltanatın	sultanate	0	0	1	0
 yoksa	absent	0	0	1	0
 yoksa	or	0	0	1	1
-yoksa	or else	0	0	1	1
+yoksa	or else	0	0	1	0
 çıkarılması	to be taken out	0	0	1	0
 çıkarılması	deletion of	0	0	1	0
 çıkarılması	left out	0	0	1	0
@@ -12836,7 +12836,7 @@ görevli	officer	0	0	1	1
 öğrenir	learns	0	0	1	0
 öğrenir	the moment he learns	0	0	1	0
 ibrani	hebrew	0	0	1	0
-mesela	for example	0	0	1	1
+mesela	for example	0	0	1	0
 harf	letter	0	0	1	1
 suriyeye	syria	0	0	1	0
 suriyeye	syria syria	0	0	1	0
@@ -12862,14 +12862,14 @@ ilaçlar	pharmaceuticals	0	0	1	0
 şöyle	that	0	0	1	0
 antlaşmasının	treaty	0	0	1	0
 basıncı	pressure	0	0	1	0
-öğrenmek	to learn	0	0	1	1
+öğrenmek	to learn	0	0	1	0
 öğrenmek	learn	0	0	1	1
 sodyum	sodium	0	0	1	1
 düşünülüyordu	thought	0	0	1	0
 düşünülüyordu	was thought	0	0	1	0
 toz	dust	0	0	1	1
 istifa	resigned	0	0	1	0
-istifa	to resign	0	0	1	1
+istifa	to resign	0	0	1	0
 istifa	resign	0	0	1	0
 geçmesiyle	go down or get through	0	0	1	0
 geçmesiyle	take	0	0	1	0
@@ -12911,7 +12911,7 @@ osmaniye	osmaniye	0	0	1	0
 durumuna	to condition	0	0	1	0
 durumuna	condition	0	0	1	0
 yüzölçümü	elevation	0	0	1	0
-yüzölçümü	surface area	0	0	1	1
+yüzölçümü	surface area	0	0	1	0
 yüzölçümü	area	0	0	1	1
 fenerbahçeli	fan of fenerbahce	0	0	1	0
 fenerbahçeli	fenerbahce	0	0	1	0
@@ -13118,7 +13118,7 @@ alıp	got	0	0	1	0
 alıp	receive and	0	0	1	0
 çoğu	most of the	0	0	1	0
 çoğu	mostly	0	0	1	1
-çoğu	most of	0	0	1	1
+çoğu	most of	0	0	1	0
 şairi	poet	0	0	1	0
 şimdi	now	0	0	1	1
 üçüncü	third	0	0	1	1
@@ -13171,7 +13171,7 @@ taarruzu	offensive	0	0	1	0
 anılır	remembered	0	0	1	0
 anılır	known	0	0	1	0
 anılır	to make mention of	0	0	1	0
-gerekirse	if necessary	0	0	1	1
+gerekirse	if necessary	0	0	1	0
 gerekirse	should the occasion rise	0	0	1	0
 gerekirse	if needed	0	0	1	0
 ülke	country	0	0	1	1
@@ -13203,7 +13203,7 @@ yardımı	backup	0	0	1	0
 yardımı	help	0	0	1	0
 yardımı	booster	0	0	1	0
 yıllarca	over years	0	0	1	0
-yıllarca	for years	0	0	1	1
+yıllarca	for years	0	0	1	0
 karşı	resist	0	0	1	0
 karşı	oppose	0	0	1	1
 karşı	against	0	0	1	1
@@ -13220,7 +13220,7 @@ kütüphane	library	0	0	1	1
 çınar	plane-tree plane-tree	1	0	1	0
 çınar	sycamore	1	0	1	1
 çınar	plane	1	0	1	1
-çınar	plane tree	1	1	0	1
+çınar	plane tree	1	1	0	0
 çınar	cinar	1	0	1	0
 çınar	cypress tree	1	1	0	0
 istanbuldan	from istanbul	0	0	1	0
@@ -13323,7 +13323,7 @@ kazılar	excavation	0	0	1	0
 kazılar	dig	0	0	1	0
 kazılar	digs	0	0	1	0
 defalarca	repeatedly	0	0	1	1
-defalarca	over and over again	0	0	1	1
+defalarca	over and over again	0	0	1	0
 defalarca	times	0	0	1	0
 çoğunu	most	0	0	1	0
 çoğunu	lot of	0	0	1	0
@@ -13335,7 +13335,7 @@ doğunun	east	0	0	1	0
 doğunun	east's	0	0	1	0
 sosyal	social	0	0	1	1
 ankaraya	ankara	0	0	1	0
-ankaraya	to ankara	0	0	1	1
+ankaraya	to ankara	0	0	1	0
 kondrom	chondromas	1	0	1	0
 kondrom	k	1	0	1	0
 kondrom	condrom	1	0	1	0
@@ -13361,7 +13361,7 @@ karşıt	in opposition to	0	0	1	0
 karşıt	opposite	0	0	1	1
 mezunları	graduates	0	0	1	0
 harbiye	military	0	0	1	0
-harbiye	military academy	0	0	1	1
+harbiye	military academy	0	0	1	0
 harbiye	harbiye	0	0	1	0
 mayalarda	mayalar	0	0	1	0
 mayalarda	maya	0	0	1	0
@@ -13395,7 +13395,7 @@ dışarıdan	from outside	0	0	1	0
 radyoaktif	radioactive	0	0	1	1
 atomik	atomic	0	0	1	1
 mavi	blue	0	0	1	1
-genelde	in general	0	0	1	1
+genelde	in general	0	0	1	0
 genelde	normally	0	0	1	1
 genelde	general	0	0	1	0
 öldüğü	died	0	0	1	0
@@ -13541,7 +13541,7 @@ tifo	typhus	1	1	0	0
 tifo	tifus	1	1	0	0
 tifo	enteric fever	1	1	0	0
 tifo	operating	1	0	1	0
-tifo	typhoid fever	1	1	0	1
+tifo	typhoid fever	1	1	0	0
 dinlenme	restore	0	0	1	0
 dinlenme	recess	0	0	1	1
 dinlenme	rest	0	0	1	1
@@ -13825,7 +13825,7 @@ kafkasya	caucasia	0	0	1	0
 riayet	regard	0	0	1	0
 riayet	observance	0	0	1	1
 riayet	obey	0	0	1	0
-oluşturmak	to form	0	0	1	1
+oluşturmak	to form	0	0	1	0
 oluşturmak	form	0	0	1	1
 oluşturmak	establishing	0	0	1	0
 murat	murat	0	0	1	0
@@ -13858,7 +13858,7 @@ seçimler	elections	0	0	1	1
 seçimler	choices	0	0	1	0
 ötürü	sitting	0	0	1	0
 ötürü	it sits	0	0	1	0
-ötürü	because of	0	0	1	1
+ötürü	because of	0	0	1	0
 devriminden	revolution	0	0	1	0
 devriminden	reform	0	0	1	0
 sini	url	0	0	1	0
@@ -13973,7 +13973,7 @@ seçimleri	elections	0	0	1	0
 öğrencilere	students	0	0	1	0
 öğrencilere	to students	0	0	1	0
 sırlar	secrets	0	0	1	0
-bölgede	in the region	0	0	1	1
+bölgede	in the region	0	0	1	0
 bölgede	in region	0	0	1	0
 bölgede	area	0	0	1	0
 işletme	corporation	0	0	1	0
@@ -14006,7 +14006,7 @@ mantar	mushroom	0	0	1	1
 profili	profile	0	0	1	0
 suriyedeki	syria	0	0	1	0
 suriyedeki	in syria	0	0	1	0
-hakkında	in the matter of	0	0	1	1
+hakkında	in the matter of	0	0	1	0
 hakkında	about	0	0	1	1
 iskandinav	scandinavian	0	0	1	0
 polimeraz	polymerase	0	0	1	0
@@ -14218,7 +14218,7 @@ parkı	park	0	0	1	0
 yarışları	races	0	0	1	0
 bataklık	swamp	0	0	1	1
 bataklık	marsh	0	0	1	1
-şehzade	sultan's son	0	0	1	1
+şehzade	sultan's son	0	0	1	0
 şehzade	prince	0	0	1	1
 başarmıştır	succeed	0	0	1	0
 başarmıştır	succeeded	0	0	1	0
@@ -14230,7 +14230,7 @@ south	south	0	0	1	0
 avustralyada	in australia	0	0	1	0
 avustralyada	avustralyada	0	0	1	0
 meşhur	famous	0	0	1	1
-meşhur	well known	0	0	1	1
+meşhur	well known	0	0	1	0
 ederken	vizited	0	0	1	0
 ederken	acceped	0	0	1	0
 ederken	followed	0	0	1	0
@@ -14428,7 +14428,7 @@ koruyucu	sponsor	0	0	1	0
 yatakları	sources	0	0	1	0
 yatakları	bed	0	0	1	0
 yatakları	stratum	0	0	1	0
-hayli	plenty of	0	0	1	1
+hayli	plenty of	0	0	1	0
 hayli	much	0	0	1	1
 hayli	considerable	0	0	1	1
 hayli	pretty	0	0	1	1
@@ -14544,7 +14544,7 @@ aldehitler	aldehyde	1	1	0	0
 aldehitler	slaves	1	0	1	0
 aldehitler	aldehitler	1	0	1	0
 hayvancılık	livestock farming	0	0	1	0
-hayvancılık	animal husbandry	0	0	1	1
+hayvancılık	animal husbandry	0	0	1	0
 hayvancılık	livestock breeding	0	0	1	0
 düzenlendi	conducted	0	0	1	0
 düzenlendi	arranged	0	0	1	0
@@ -15011,7 +15011,7 @@ yayınladı	published	0	0	1	0
 stadı	stadium	0	0	1	0
 stadı	stadi	0	0	1	0
 okulunda	school	0	0	1	0
-moskovada	in moscow	0	0	1	1
+moskovada	in moscow	0	0	1	0
 moskovada	moscow	0	0	1	0
 değerli	valuable	0	0	1	1
 risk	risc	0	0	1	0
@@ -15076,7 +15076,7 @@ sonda	probe	0	0	1	1
 sonda	seeker	0	0	1	1
 atmak	cast	0	0	1	1
 atmak	throw	0	0	1	1
-atmak	to throw	0	0	1	1
+atmak	to throw	0	0	1	0
 olacaktır	will happen	0	0	1	0
 tartışmalıdır	eristic	0	0	1	0
 tartışmalıdır	controversial	0	0	1	0
@@ -15341,7 +15341,7 @@ gruba	group	0	0	1	0
 gezegenler	planets	0	0	1	0
 gezegenler	the planets	0	0	1	0
 hakimiyetine	domination	0	0	1	0
-aynı	the same	0	0	1	1
+aynı	the same	0	0	1	0
 aynı	same	0	0	1	1
 yapıyordu	was making	0	0	1	0
 yapıyordu	was doing	0	0	1	0
@@ -15440,7 +15440,7 @@ doğrultusunda	oriented	0	0	1	0
 doğrultusunda	in line with	0	0	1	0
 gezegen	planet	0	0	1	1
 güzellik	beauty	0	0	1	1
-birkaç	a few	0	0	1	1
+birkaç	a few	0	0	1	0
 birkaç	some	0	0	1	1
 hitlerin	hitler's	0	0	1	0
 görülmektedir	seen	0	0	1	0
@@ -15457,7 +15457,7 @@ gösteri	kategoiolmus	0	0	1	0
 gösteri	parade	0	0	1	1
 gösteri	show	0	0	1	1
 ressam	painter	0	0	1	1
-örneğin	for example	0	0	1	1
+örneğin	for example	0	0	1	0
 sofya	sofia	0	0	1	0
 hece	syllable	0	0	1	1
 hece	syllables	0	0	1	0
@@ -15478,9 +15478,9 @@ yaptığı	gave	0	0	1	0
 yaptığı	in extraction	0	0	1	0
 yaptığı	for gesture	0	0	1	0
 olmasıyla	as happening	0	0	1	0
-hammadde	raw materials	0	0	1	1
+hammadde	raw materials	0	0	1	0
 hammadde	natural resource	0	0	1	0
-hammadde	raw material	0	0	1	1
+hammadde	raw material	0	0	1	0
 kazım	kazim	0	0	1	0
 mesafe	distance	0	0	1	1
 saldırılar	attacks	0	0	1	0
@@ -15532,7 +15532,7 @@ ideoloji	ideology	0	0	1	1
 oranı	rate	0	0	1	0
 oranı	ratio	0	0	1	0
 anlamak	understand	0	0	1	1
-anlamak	to understand	0	0	1	1
+anlamak	to understand	0	0	1	0
 taarruza	attack	0	0	1	0
 taarruza	offensive	0	0	1	0
 alır	is	0	0	1	0
@@ -15628,7 +15628,7 @@ belirten	that	0	0	1	0
 metan	methane	0	0	1	1
 musical	musical	0	0	1	0
 ihtimali	possibility	0	0	1	0
-ihtimali	possibility of	0	0	1	1
+ihtimali	possibility of	0	0	1	0
 yana	until this time	0	0	1	0
 yana	since	0	0	1	0
 yana	yana	0	0	1	0
@@ -15764,10 +15764,10 @@ news	haber	0	0	1	0
 sedef	pearl	1	1	0	1
 sedef	given	1	0	1	0
 sedef	nacre	1	1	0	1
-sedef	mother of pearl	1	1	0	1
+sedef	mother of pearl	1	1	0	0
 bitkiler	plants	0	0	1	0
 tuzla	saline	0	0	1	1
-tuzla	salt marsh	0	0	1	1
+tuzla	salt marsh	0	0	1	0
 tuzla	tuzla	0	0	1	0
 tuzla	saltworks	0	0	1	1
 tuzla	saltpan	0	0	1	1
@@ -15885,7 +15885,7 @@ muş	a city in eastern of turkey	0	0	1	0
 fazlasıyla	exceedingly	0	0	1	1
 fazlasıyla	extremely	0	0	1	1
 fazlasıyla	greatly	0	0	1	0
-gitgide	more and more	0	0	1	1
+gitgide	more and more	0	0	1	0
 gitgide	gradually	0	0	1	1
 çekilmesi	intolerable	0	0	1	0
 çekilmesi	retreat	0	0	1	0
@@ -16020,7 +16020,7 @@ enformasyon	information	0	0	1	1
 kırgız	kyrgyz	0	0	1	0
 kırgız	kirghiz	0	0	1	0
 ankarada	ankara	0	0	1	0
-ankarada	in ankara	0	0	1	1
+ankarada	in ankara	0	0	1	0
 ankarada	Çankaya adventure	0	0	1	0
 merkür	mercury	0	0	1	1
 merkür	merkur	0	0	1	0
@@ -16173,7 +16173,7 @@ puan	score	0	0	1	1
 puan	point	0	0	1	1
 mevlânâ	mawlana	0	0	1	0
 mevlânâ	mevlana	0	0	1	0
-akdeniz	mediterranean sea	0	0	1	1
+akdeniz	mediterranean sea	0	0	1	0
 akdeniz	mediterranean	0	0	1	1
 albümdeki	album	0	0	1	0
 albümdeki	in the album	0	0	1	0
@@ -16281,8 +16281,8 @@ işlenmiş	refined	0	0	1	1
 işlenmiş	worked	0	0	1	1
 işlenmiş	wrought	0	0	1	1
 işlenmiş	milled	0	0	1	0
-sonunda	in the end	0	0	1	1
-sonunda	at last	0	0	1	1
+sonunda	in the end	0	0	1	0
+sonunda	at last	0	0	1	0
 sonunda	eventually	0	0	1	1
 çarlık	czarist	0	0	1	0
 çarlık	the tsarist	0	0	1	0
@@ -16374,7 +16374,7 @@ hayatının	his life	0	0	1	0
 tersane	dock	0	0	1	1
 tersane	shipyard	0	0	1	1
 tersane	yard	0	0	1	1
-tersane	navy yard	0	0	1	1
+tersane	navy yard	0	0	1	0
 tersane	dockyard	0	0	1	1
 valide	mother	0	0	1	1
 bahriye	navy	0	0	1	1
@@ -16394,7 +16394,7 @@ kamp	camp	0	0	1	1
 kavramını	concept	0	0	1	0
 kavramını	the concept	0	0	1	0
 kamu	public	0	0	1	1
-kamu	the public	0	0	1	1
+kamu	the public	0	0	1	0
 üretilir	produced	0	0	1	0
 üretilir	uretilir	0	0	1	0
 üretilir	be manufactured	0	0	1	0
@@ -16444,12 +16444,12 @@ nem	moisture	0	0	1	1
 nem	humidity	0	0	1	1
 istila	invasion	0	0	1	1
 istila	incursion	0	0	1	1
-istila	spreading over	0	0	1	1
+istila	spreading over	0	0	1	0
 istila	infestation	0	0	1	1
 istila	irruption	0	0	1	1
 şarkıcı	singer	0	0	1	1
 oynamak	play	0	0	1	1
-oynamak	to play	0	0	1	1
+oynamak	to play	0	0	1	0
 anda	moment	0	0	1	0
 anda	at the moment	0	0	1	0
 yeterli	enough	0	0	1	1
@@ -16580,7 +16580,7 @@ kalori	calori	1	0	1	0
 kalori	calory	1	1	0	1
 kalori	calorie	1	1	0	1
 kalori	market	1	0	1	0
-dışişleri	foreign affairs	0	0	1	1
+dışişleri	foreign affairs	0	0	1	0
 dışişleri	foreign relations	0	0	1	0
 avustralyanın	australia	0	0	1	0
 avustralyanın	australia's	0	0	1	0
@@ -16637,7 +16637,7 @@ yürürlüğe	implementation	0	0	1	0
 yürürlüğe	legislation	0	0	1	0
 yüzünden	as a result	0	0	1	0
 yüzünden	through	0	0	1	1
-yüzünden	because of	0	0	1	1
+yüzünden	because of	0	0	1	0
 güvenilir	trustworthy	0	0	1	1
 güvenilir	confidential	0	0	1	1
 bölündü	separated	0	0	1	0
@@ -16652,8 +16652,8 @@ izleme	follow	0	0	1	1
 izleme	observation	0	0	1	0
 büyük	big	0	0	1	1
 farklı	different	0	0	1	1
-kene	wood tick	1	0	1	1
-kene	hawk moth	1	0	1	1
+kene	wood tick	1	0	1	0
+kene	hawk moth	1	0	1	0
 kene	mite	1	0	1	1
 kene	acarid	1	0	1	1
 kene	social	1	0	1	0
@@ -16794,7 +16794,7 @@ bursanın	bursa's	0	0	1	0
 bursanın	a city in turkey	0	0	1	0
 bursanın	bursa	0	0	1	0
 sera	greenhouse	0	0	1	1
-sera	forcing frame	0	0	1	1
+sera	forcing frame	0	0	1	0
 modeller	models	0	0	1	0
 aydınlık	bright	0	0	1	1
 sınıf	class	0	0	1	1
@@ -16883,7 +16883,7 @@ azerbaycan	azerbaijan	0	0	1	0
 nadir	infrequent	0	0	1	1
 nadir	unusual	0	0	1	1
 nadir	rare	0	0	1	1
-nadir	few and far between	0	0	1	1
+nadir	few and far between	0	0	1	0
 nadir	exceptional	0	0	1	1
 nadir	uncommon	0	0	1	1
 nadir	scarce	0	0	1	1
@@ -16920,7 +16920,7 @@ hafifçe	slowly	0	0	1	0
 çarpma	crash	0	0	1	0
 masal	tale	0	0	1	1
 masal	story	0	0	1	1
-masal	fairy tale	0	0	1	1
+masal	fairy tale	0	0	1	0
 ayrımı	seperation	0	0	1	0
 ayrımı	separation	0	0	1	0
 ayrımı	grading	0	0	1	0
@@ -16952,7 +16952,7 @@ yazıları	writings	0	0	1	0
 yazıları	articles	0	0	1	0
 yerlerinde	parts of the	0	0	1	0
 yerlerinde	sides of	0	0	1	0
-zamanında	on time	0	0	1	1
+zamanında	on time	0	0	1	0
 zamanında	in the times	0	0	1	0
 zamanında	time of	0	0	1	0
 arttığı	increase	0	0	1	0
@@ -16999,7 +16999,7 @@ lehine	in favour of	0	0	1	0
 lehine	in favor of	0	0	1	0
 askerleri	soldiers	0	0	1	0
 ulaşmak	reach	0	0	1	1
-ulaşmak	to reach	0	0	1	1
+ulaşmak	to reach	0	0	1	0
 ulaşmak	achieve	0	0	1	1
 koruma	protected	0	0	1	0
 koruma	protection	0	0	1	1
@@ -17010,8 +17010,8 @@ vuruşu	hit	0	0	1	0
 vuruşu	kick	0	0	1	0
 felsefesinin	philosophy	0	0	1	0
 yoksun	deprived (of)	0	0	1	0
-yoksun	devoid of	0	0	1	1
-yoksun	deprived of	0	0	1	1
+yoksun	devoid of	0	0	1	0
+yoksun	deprived of	0	0	1	0
 yoksul	poor	0	0	1	1
 libya	libya	0	0	1	1
 cafer	cafer	0	0	1	0
@@ -17035,7 +17035,7 @@ turkey	turkey	0	0	1	1
 davut	david	0	0	1	0
 savunmak	defend	0	0	1	1
 savunmak	argue	0	0	1	1
-savunmak	to defend	0	0	1	1
+savunmak	to defend	0	0	1	0
 savunmak	guard	0	0	1	0
 vatandaşlar	citizens	0	0	1	0
 hücrelerde	cells	0	0	1	0
@@ -17128,8 +17128,8 @@ tuttuğu	supporting	0	0	1	0
 tuttuğu	supported	0	0	1	0
 devlet	country	0	0	1	0
 devlet	state	0	0	1	1
-kurtulmak	get rid of	0	0	1	1
-kurtulmak	break away	0	0	1	1
+kurtulmak	get rid of	0	0	1	0
+kurtulmak	break away	0	0	1	0
 kurtulmak	get out	0	0	1	0
 başarısından	performance	0	0	1	0
 başarısından	the successes of the	0	0	1	0
@@ -17204,9 +17204,9 @@ boğazların	neck	0	0	1	0
 arttıkça	increase	0	0	1	0
 arttıkça	to increase	0	0	1	0
 kupasını	cup	0	0	1	0
-sana	to you	0	0	1	1
+sana	to you	0	0	1	0
 sana	you	0	0	1	1
-sonuçta	as a result	0	0	1	1
+sonuçta	as a result	0	0	1	0
 são	sao	0	0	1	0
 madrid	madrid	0	0	1	1
 etmez	not	0	0	1	0
@@ -17531,7 +17531,7 @@ kanın	canine	0	0	1	0
 kanın	of blood	0	0	1	0
 logosu	logo	0	0	1	0
 balkanlarda	balkans	0	0	1	0
-balkanlarda	in the balkans	0	0	1	1
+balkanlarda	in the balkans	0	0	1	0
 balkanlarda	in balkans	0	0	1	0
 güne	gune	0	0	1	0
 güne	today	0	0	1	0
@@ -17560,7 +17560,7 @@ birincisi	first	0	0	1	0
 fan	fan	0	0	1	1
 sonu	ended	0	0	1	0
 sonu	end	0	0	1	1
-ispanyaya	to spain	0	0	1	1
+ispanyaya	to spain	0	0	1	0
 döndükten	turned back	0	0	1	0
 döndükten	spawn	0	0	1	0
 döndükten	return	0	0	1	0
@@ -17594,7 +17594,7 @@ lisa	lisa	0	0	1	0
 lisa	a female name	0	0	1	0
 değerler	values	0	0	1	0
 lise	lycee	0	0	1	0
-lise	high school	0	0	1	1
+lise	high school	0	0	1	0
 tek	only	0	0	1	1
 tek	single	0	0	1	1
 tek	one	0	0	1	1
@@ -17719,15 +17719,15 @@ göstererek	by showing	0	0	1	0
 göstererek	showing	0	0	1	0
 demokrasinin	democracy	0	0	1	0
 biraz	some	0	0	1	1
-biraz	a little	0	0	1	1
+biraz	a little	0	0	1	0
 hakkındaki	about	0	0	1	0
 aykırı	against	0	0	1	1
 floyd	floyd	0	0	1	0
 aşağı	downward	0	0	1	0
 aşağı	lower	0	0	1	1
 aşağı	south	0	0	1	0
-dolayı	because of	0	0	1	1
-dolayı	due to	0	0	1	1
+dolayı	because of	0	0	1	0
+dolayı	due to	0	0	1	0
 bazlı	based	0	0	1	0
 bazlı	sub	0	0	1	0
 pozitif	positive	0	0	1	1
@@ -17800,9 +17800,9 @@ cambridge	cambridge	0	0	1	0
 çalışır	tries	0	0	1	0
 çalışır	works	0	0	1	0
 ziya	ziya	0	0	1	0
-nazaran	in comparison	0	0	1	1
+nazaran	in comparison	0	0	1	0
 nazaran	in comparison with the	0	0	1	0
-nazaran	compared to	0	0	1	1
+nazaran	compared to	0	0	1	0
 şehirde	city	0	0	1	0
 ürettiği	produced	0	0	1	0
 ürettiği	produce	0	0	1	0
@@ -17950,7 +17950,7 @@ töreni	ceremony	0	0	1	0
 töreni	funeral	0	0	1	0
 istiklâl	independence	0	0	1	0
 gövde	body	0	0	1	1
-hariciye	foreign affairs	0	0	1	1
+hariciye	foreign affairs	0	0	1	0
 sessiz	silent	0	0	1	1
 sessiz	silence	0	0	1	0
 teklisi	single (music industry)	0	0	1	0
@@ -18170,7 +18170,7 @@ anlatmıştır	understood	0	0	1	0
 anlatmıştır	explained	0	0	1	0
 anlatmıştır	described the	0	0	1	0
 hatta	even	0	0	1	1
-hatta	in fact	0	0	1	1
+hatta	in fact	0	0	1	0
 shepherd	shepherd	0	0	1	0
 his	feeling	0	0	1	1
 his	sense	0	0	1	1
@@ -18205,9 +18205,9 @@ tarıma	tarimag	0	0	1	0
 sanat	art	0	0	1	1
 kimin	whose	0	0	1	1
 kimin	who	0	0	1	0
-birçok	lots of	0	0	1	1
+birçok	lots of	0	0	1	0
 birçok	many	0	0	1	1
-birçok	lot of	0	0	1	1
+birçok	lot of	0	0	1	0
 sanal	artificial	0	0	1	0
 sanal	virtual	0	0	1	1
 burjuva	bourgeuise	0	0	1	0
@@ -18255,7 +18255,7 @@ hücum	attact	0	0	1	0
 solo	solo	0	0	1	1
 uzakta	distance	0	0	1	1
 uzakta	away	0	0	1	1
-uzakta	far away	0	0	1	1
+uzakta	far away	0	0	1	0
 latin	latin	0	0	1	1
 mühendislik	engineering	0	0	1	1
 görüşü	thought	0	0	1	0
@@ -18294,7 +18294,7 @@ listeleri	lists	0	0	1	0
 kitabın	book	0	0	1	0
 kitabın	of book	0	0	1	0
 camii	mosque	0	0	1	0
-göre	according to	0	0	1	1
+göre	according to	0	0	1	0
 kendilerine	themselves	0	0	1	1
 kendilerine	to themselves	0	0	1	0
 farsça	persian	0	0	1	1
@@ -18326,7 +18326,7 @@ dur	is	0	0	1	0
 pi	pi	0	0	1	1
 ortaklaşa	shared	0	0	1	1
 ortaklaşa	collective	0	0	1	1
-ortaklaşa	in collaboration with	0	0	1	1
+ortaklaşa	in collaboration with	0	0	1	0
 kesesi	bag	0	0	1	0
 kesesi	bladder	0	0	1	0
 pm	picometer	1	0	1	0
@@ -18420,7 +18420,7 @@ arı	ari	0	0	1	0
 yaşamaya	live	0	0	1	0
 yaşamaya	living in	0	0	1	0
 yerine	instead	0	0	1	1
-yerine	instead of	0	0	1	1
+yerine	instead of	0	0	1	0
 yerini	replaced	0	0	1	0
 yerini	to take place	0	0	1	0
 yerini	location	0	0	1	0
@@ -18529,7 +18529,7 @@ yenerek	won	0	0	1	0
 yenerek	by winning	0	0	1	0
 şarkıda	in the song	0	0	1	0
 şarkıda	song	0	0	1	0
-ispanyada	in spain	0	0	1	1
+ispanyada	in spain	0	0	1	0
 söylediği	sang	0	0	1	0
 söylediği	said	0	0	1	0
 tatlıses	tatlises	0	0	1	0
@@ -18650,7 +18650,7 @@ kemal	male name	0	0	1	0
 kemal	kemal	0	0	1	0
 alçak	lower	0	0	1	0
 alçak	low	0	0	1	1
-yeryüzünde	in the world	0	0	1	1
+yeryüzünde	in the world	0	0	1	0
 yeryüzünde	surface	0	0	1	0
 hagia	hagia	0	0	1	0
 piri	university name	0	0	1	0
@@ -18840,7 +18840,7 @@ ufuk	horizon	0	0	1	1
 şeyden	from a thing	0	0	1	0
 çizgiler	lines	0	0	1	0
 getirmek	brought	0	0	1	1
-getirmek	to bring	0	0	1	1
+getirmek	to bring	0	0	1	0
 ressamlar	painters	0	0	1	0
 ressamlar	painter	0	0	1	0
 sarayda	in the palace	0	0	1	0
@@ -19104,7 +19104,7 @@ silahı	gun	0	0	1	0
 cemiyetine	union	0	0	1	0
 cemiyetine	community in the	0	0	1	0
 farz	assume	0	0	1	0
-ortada	in the middle	0	0	1	1
+ortada	in the middle	0	0	1	0
 geçmişteki	in the past	0	0	1	0
 jolie	jolie	0	0	1	0
 jolie	a surname	0	0	1	0
@@ -19394,7 +19394,7 @@ yerde	where	0	0	1	0
 yerde	place	0	0	1	0
 haberdar	informed	0	0	1	1
 haberdar	informed about	0	0	1	0
-vermek	to give	0	0	1	1
+vermek	to give	0	0	1	0
 vermek	give	0	0	1	1
 proteinlerin	proteins	0	0	1	0
 yurtiçi	domestic	0	0	1	1
@@ -19527,7 +19527,7 @@ halkına	people	0	0	1	0
 çekilmeye	shooting	0	0	1	0
 çekilmeye	shot	0	0	1	0
 çekilmeye	retreat	0	0	1	0
-almanyadaki	in germany	0	0	1	1
+almanyadaki	in germany	0	0	1	0
 almanyadaki	ger-	0	0	1	0
 hindistanın	india's	0	0	1	0
 hindistanın	india	0	0	1	0
@@ -19564,7 +19564,7 @@ zeki	intelligent	0	0	1	1
 zeki	smart	0	0	1	1
 bronz	bronze	0	0	1	1
 görülmemiş	not seen	0	0	1	0
-görülmemiş	never seen before	0	0	1	1
+görülmemiş	never seen before	0	0	1	0
 görülmemiş	haven't seen	0	0	1	0
 eğlence	entertainment	0	0	1	1
 romanyanın	romania's	0	0	1	0
@@ -19673,7 +19673,7 @@ ince	subtle	0	0	1	1
 ince	thin	0	0	1	1
 bilinen	known	0	0	1	1
 söylemek	say	0	0	1	1
-söylemek	to tell	0	0	1	1
+söylemek	to tell	0	0	1	0
 almanya	germany	0	0	1	1
 niteliği	attribute	0	0	1	0
 niteliği	character	0	0	1	0
@@ -19802,7 +19802,7 @@ resimler	pictures	0	0	1	0
 resimler	paintings	0	0	1	0
 kullanıldı	used	0	0	1	0
 donanma	navy	0	0	1	1
-ilkokul	primary school	0	0	1	1
+ilkokul	primary school	0	0	1	0
 tıbbi	medical	0	0	1	1
 melez	hybrid	0	0	1	1
 melez	half-blood	0	0	1	0
@@ -19813,7 +19813,7 @@ demokrat	democratic	0	0	1	1
 demokrat	democrat	0	0	1	1
 demokrat	democrats	0	0	1	0
 karakol	police center	0	0	1	0
-karakol	police station	0	0	1	1
+karakol	police station	0	0	1	0
 empire	empire	0	0	1	0
 melek	an album title	0	0	1	0
 melek	a female name	0	0	1	0
@@ -19864,7 +19864,7 @@ birbirlerine	each other	0	0	1	0
 birbirlerine	each	0	0	1	0
 başlanmıştır	started	0	0	1	0
 durdurmak	preventing	0	0	1	0
-durdurmak	to stop	0	0	1	1
+durdurmak	to stop	0	0	1	0
 birbirlerini	each other	0	0	1	0
 günümüzdeki	nowadays	0	0	1	0
 günümüzdeki	present	0	0	1	0
@@ -19901,7 +19901,7 @@ yansıtan	live	0	0	1	0
 yansıtan	reflecting	0	0	1	1
 öz	kernel	0	0	1	1
 öz	distillate	0	0	1	1
-öz	essential oil	0	0	1	1
+öz	essential oil	0	0	1	0
 öz	distillation	0	0	1	1
 öz	entity	0	0	1	1
 öz	goodness	0	0	1	1
@@ -19914,7 +19914,7 @@ yansıtan	reflecting	0	0	1	1
 öz	extraction	0	0	1	1
 öz	pure	0	0	1	0
 öz	essence	0	0	1	1
-öz	pith and marrow	0	0	1	1
+öz	pith and marrow	0	0	1	0
 öz	medulla	0	0	1	1
 öz	core	0	0	1	1
 öz	gist	0	0	1	1
@@ -19948,8 +19948,8 @@ süreçler	process	0	0	1	0
 süreçler	period	0	0	1	0
 komünizmin	communism	0	0	1	0
 var	available	0	0	1	1
-var	there are	0	0	1	1
-var	there is	0	0	1	1
+var	there are	0	0	1	0
+var	there is	0	0	1	0
 var	existing	0	0	1	0
 düşüktür	lower	0	0	1	0
 düşüktür	low	0	0	1	0
@@ -19996,7 +19996,7 @@ topluluğun	mass	0	0	1	0
 topluluğun	community	0	0	1	0
 delikler	holes	0	0	1	0
 kuyruk	tail	0	0	1	1
-başına	per person	0	0	1	1
+başına	per person	0	0	1	0
 başına	per capita	0	0	1	0
 sendromu	syndrome	0	0	1	0
 belçika	belgium	0	0	1	1

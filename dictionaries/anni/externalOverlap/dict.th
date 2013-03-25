@@ -9,9 +9,6 @@
 บริวเวอรี่	brewery	0	0	1	0
 รัชกาลสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว	king chula chomklao's reign	0	0	1	0
 ป่าดิบแล้ง	dry evergreen forest	0	0	1	0
-ทูล	thun	0	0	1	0
-ทูล	or (as a name) tun	0	0	1	0
-ทูล	(royal term) to inform	0	0	1	0
 สุปรีย์	supri - a name	0	0	1	0
 ในภาษาอิตาลี่	in italian	0	0	1	0
 วิทยาลัยเทคนิคธนบุรี	king mongkut's university of technology thonburi	0	0	1	0
@@ -26,7 +23,6 @@
 ธรณินทราธิราช	having to do with the king	0	0	1	0
 ในหนังสือ	in the book	0	0	1	0
 ในหนังสือ	in book	0	0	1	0
-ปจ	two letters acronym	0	0	1	0
 ทิพย์	thip	0	0	1	0
 สนิม	processos	1	0	1	0
 สนิม	processors	1	0	1	0
@@ -36,7 +32,6 @@
 นักร้อง	singer	0	0	1	0
 จะเข้	jakhe	0	0	1	0
 การสำเร็จความใคร่ด้วยตนเอง	masturbation	0	0	1	0
-เขมนิจ	khemanit	0	0	1	0
 เขมนิจ	kemnij - a thai actress as known as pancake	0	0	1	0
 เขื่อนลำปาว	lum pao dam	0	0	1	0
 อ้างว่า	claim	0	0	1	0
@@ -78,7 +73,6 @@
 ศูนย์การบินทหารบก	royal thai army aviation	0	0	1	0
 ศูนย์การบินทหารบก	marine forces	0	0	1	0
 จันทบุรี	juntaburi state	0	0	1	0
-ประวัติศาสตร์ไทย	history of thailand	0	0	1	0
 ประวัติศาสตร์ไทย	thai history	0	0	1	0
 อร	orn (thai name)	0	0	1	0
 อร	on	0	0	1	0
@@ -99,16 +93,14 @@
 เทศบาลเมืองสกลนคร	municipality of sakonnakon	0	0	1	0
 โทมัส	thomas	0	0	1	0
 โทมัส	thomus	0	0	1	0
-ปากีสถาน	country of pakistan	0	0	1	0
 อู	u (a vowel)	0	0	1	0
 อู	au - a thai vowel	0	0	1	0
-อุ	ou	0	0	1	0
 บุคคล	person	1	1	0	0
 บุคคล	the next	1	0	1	0
 บุคคล	next	1	0	1	0
 เชื่อมต่อกับรถไฟฟ้ามหานคร	connect with skytrain	0	0	1	0
 รับบทโดย	played by	0	0	1	0
-มากกว่า	more than	0	0	1	0
+กอลมเบต์	glombet - a catholic priest	0	0	1	0
 กิ๊ก	gig	0	0	1	0
 อคิลลีส	achilles	1	1	0	0
 อคิลลีส	achilleus	1	0	1	0
@@ -145,11 +137,8 @@
 เทศบาลนครขอนแก่น	khon khan public works	0	0	1	0
 เทศบาลนครขอนแก่น	thesaban nakhon khon kaen	0	0	1	0
 นับตั้งแต่เริ่มก่อตั้งจนถึงปัจจุบัน	from the foundation up to the present	0	0	1	0
-เชาวราษฎร์	chowarat - the surname of a famous actress	0	0	1	0
+น้ำค้าง	namkhang	0	0	1	0
 คุณากร	government	0	0	1	0
-คุณากร	khunakon	0	0	1	0
-ผล	result	0	0	1	1
-ราศีธนู	sagittarius	0	0	1	0
 ภาษาอีสาน	eastern thai language	0	0	1	0
 ข้าหลวงกำกับราชการเมืองขุขันธ์คนที่	government worker for ku khan city	0	0	1	0
 สะเดา	a type of plant	1	0	1	0
@@ -162,7 +151,6 @@
 ประธาน	president	0	0	1	0
 ประธาน	chairman	0	0	1	0
 และสหรัฐอเมริกา	in america	0	0	1	0
-และสหรัฐอเมริกา	and the united states of america	0	0	1	0
 ฮิมาวาริ	himawari - a japanese surname	0	0	1	0
 ซัลเฟต	sulphate	0	0	1	0
 วีระ	veera	0	0	1	0
@@ -236,8 +224,7 @@
 อิเควทอเรียลกินี	equitorial	0	0	1	0
 รองเท้า	shoes	0	0	1	1
 ช	channel	0	0	1	0
-ได้เป็น	is	0	0	1	0
-ได้เป็น	possible	0	0	1	0
+สเตราส์	strauss.	0	0	1	0
 มู	mu	0	0	1	0
 มู	moo	0	0	1	0
 นอกเหนือจากนี้	moreover	0	0	1	0
@@ -257,7 +244,6 @@
 คณะสาธารณสุขศาสตร์	faculty of public health	0	0	1	0
 คณะสาธารณสุขศาสตร์	department of public health science	0	0	1	0
 อัลเดบารัน	arudebaran	0	0	1	0
-ทิม	tim	0	0	1	0
 อนุสรา	anusara	0	0	1	0
 แม่น้ำ	river	0	0	1	0
 นันทเสน	nanthasen	0	0	1	0
@@ -285,14 +271,14 @@
 มกราคม	january	0	0	1	1
 โครงการเรียนภาษาอังกฤษแบบเข้ม	intensive english program	0	0	1	0
 ขอเช็ดน้ำตา	wipe the tears	0	0	1	0
-วันอาสาฬหบูชา	asalha puja	0	0	1	0
+ที่สำคัญ	important	0	0	1	0
 อุทยานแห่งชาติดอยอินทนนท์	national park doi inthanon in northern thailand	0	0	1	0
 พลังงานลม	wind power	0	0	1	0
 พลังงานลม	wind technology or wind engineering	0	0	1	0
 จริยธรรม	ethics	0	0	1	0
 ตำบลนางแล	nang lae province	0	0	1	0
 เธคุนุ	dhekunu	0	0	1	0
-วันพฤหัสบดี	thursday	0	0	1	0
+ของสุนทรภู่	belong to soon thong pu (a thai legend)	0	0	1	0
 ตัวอย่างเช่น	for example	0	0	1	0
 ชมพู	pink	0	0	1	0
 ชมพู	rose apple	0	0	1	0
@@ -317,7 +303,6 @@
 เรือใบ	line	1	0	1	0
 เรือใบ	genus	1	0	1	0
 เรือใบ	family	1	0	1	0
-ภาพยนตร์การ์ตูนไทย	thai cartoon	0	0	1	0
 ศรีราชา	sriracha	0	0	1	0
 ในปีเดียวกัน	in the same year	0	0	1	0
 ดาราคู่แรกของไทย	first movie stars in thailand	0	0	1	0
@@ -346,7 +331,6 @@
 ชาร์ล	charles	0	0	1	0
 พระพรหมคุณาภรณ์	pra prhom kunaporn - a person in thailand	0	0	1	0
 พระพรหมคุณาภรณ์	phra bhramagunabhorn	0	0	1	0
-ข้อวิพากษ์วิจารณ์	critique reports	0	0	1	0
 คะแนน	point	0	0	1	1
 โรงเรียนนายเรืออากาศ	royal thai air force academy	0	0	1	0
 อำนาจอธิปไตย	sovereignty	0	0	1	0
@@ -356,12 +340,10 @@
 เวโรนา	verona	1	1	0	0
 อพิมาย	phimai district	0	0	1	0
 การยึดครองมะละกาของโปรตุเกสในปี	portugal took over malaga	0	0	1	0
-วิวัชรวงศ์	wiwatcharawong (a name)	0	0	1	0
 วิวัชรวงศ์	viratchwong	0	0	1	0
 หลีกภัย	the former foreign ministor	0	0	1	0
 หลีกภัย	mr. cheun leakpai	0	0	1	0
 เป็นพาหะ	transmitted	0	0	1	0
-เป็นพาหะ	is a carrier	0	0	1	0
 กระบี่กระบอง	krabi krabong (swordplay)	0	0	1	0
 กระบี่กระบอง	krabi krabong	0	0	1	0
 หรือที่รู้จักกันในชื่อ	also known as	0	0	1	0
@@ -374,7 +356,9 @@
 ชูมันน์	schumann	0	0	1	0
 อรัญประเทศ	arranyapratet - a location in thailand	0	0	1	0
 รายชื่อคำในภาษาไทยที่มักเขียนผิด	common misspelled thai words	0	0	1	0
-ฝ	a letter with ph sound	0	0	1	0
+นิยาม	symbols	0	0	1	0
+นิยาม	definition	0	0	1	0
+นิยาม	define	0	0	1	0
 เถรวาท	buddha's teaching	0	0	1	0
 เถรวาท	theravada	0	0	1	0
 รุ้ง	rainbow	0	0	1	0
@@ -400,17 +384,13 @@
 เหรียญรัตนาภรณ์	a special thai medallion	0	0	1	0
 อาร์ม	arms	0	0	1	0
 ยูริ	yuri -  a japanese name	0	0	1	0
-ยูกิโอ	yu-gi-oh	0	0	1	0
 ยูกิโอ	yu-gi-oh!	0	0	1	0
-สิงหรัตน์	singharat (a name)	0	0	1	0
 ภูกระดึง	phu kradueng	0	0	1	0
-ภูกระดึง	pu kra dung - a location in northern thailand	0	0	1	0
 พระโคตมพุทธเจ้า	pra kotomputtachao - another name of buddha	0	0	1	0
 มอหาดใหญ่	had yai city in southern thailand	0	0	1	0
 มอหาดใหญ่	prince of songkla university	0	0	1	0
-บอส	boss	0	0	1	0
-โขน	khon	0	0	1	0
 โขน	kind of thai drama	0	0	1	0
+โขน	khon	0	0	1	0
 โขน	kohn dance	0	0	1	0
 เป็นพระราชโอรสพระองค์เดียวในพระบาทสมเด็จพระปรมินทรมหาภูมิพลอดุลยเดช	is the only son of	0	0	1	0
 เป็นพระราชโอรสพระองค์เดียวในพระบาทสมเด็จพระปรมินทรมหาภูมิพลอดุลยเดช	the thai crown prince	0	0	1	0
@@ -430,7 +410,6 @@
 นักบินอวกาศ	astronaut	1	1	0	0
 นักบินอวกาศ	clergy	1	0	1	0
 นักบินอวกาศ	pilot	1	1	0	0
-อะบุราเมะ	aburame	0	0	1	0
 อะบุราเมะ	aburame - a japanese character	0	0	1	0
 หมวดหมู่พระราชปทินัดดาในรัชกาลที่	the king's army	0	0	1	0
 ภาคคนแสดง	human version	0	0	1	0
@@ -442,7 +421,6 @@
 ระดับกระโดดสูง	high jump  height	0	0	1	0
 ระดับกระโดดสูง	high jump	0	0	1	0
 ระดับกระโดดสูง	jumping power	0	0	1	0
-ชิงร้อยล้าน	ching roi lan	0	0	1	0
 ชิงร้อยล้าน	one hundred million baht contest	0	0	1	0
 อาร์เมเนีย	armenia	0	0	1	0
 ยุทธนาวี	naval battle	0	0	1	0
@@ -453,14 +431,11 @@
 เด็กและเยาวชน	children and youth	0	0	1	0
 ความเข้าใจ	understanding	0	0	1	0
 เลขที่	number	0	0	1	0
-จำกัด	limited	0	0	1	0
 และเรียกว่า	and call	0	0	1	0
 แม็คโคร	macro	0	0	1	0
-คิง	king	0	0	1	0
 อำเภอนครชัยศรี	nakhon chai si district	0	0	1	0
 อำเภอนครชัยศรี	nakornchaisri district	0	0	1	0
 แต่งตั้ง	giving a new title to	0	0	1	0
-สมาน	incorporate	0	0	1	0
 สมาน	sman	0	0	1	0
 เขตคลองเตย	khlong toei	0	0	1	0
 เพลงประกอบภาพยนตร์	soundtrack	0	0	1	0
@@ -475,7 +450,7 @@
 นายกรัฐมนตรีไทย	thai prime minister	0	0	1	0
 สมเด็จพระศรีนครินทราบรมราชชนนี	queen sirikit	0	0	1	0
 สมเด็จพระศรีนครินทราบรมราชชนนี	srinagarindra	0	0	1	0
-ฟุตซอล	futsal	0	0	1	0
+โรงเรียนไตรมิตรวิทยาลัย	trimittavitayalai school	0	0	1	0
 ทำบุญตักบาตรฯ	put food offerings into a buddhist monk's bowl	0	0	1	0
 ทำบุญตักบาตรฯ	giving food to the monks	0	0	1	0
 สุลต่าน	sultan	0	0	1	0
@@ -506,7 +481,6 @@
 ในทางดาราศาสตร์	astrology	0	0	1	0
 มัธยมศึกษา	junior high school	0	0	1	0
 อาคารเฉลิมพระเกียรติ	chalermphrakiat building	0	0	1	0
-ชุติมา	chutima	0	0	1	0
 ไทยทีวีสีช่อง	thai tv	0	0	1	0
 ฟิลิป	philip	0	0	1	0
 คณะประมง	fishery division of the college of farming and agriculture	0	0	1	0
@@ -524,13 +498,13 @@
 ไดดาโนซีน	didanosine	1	1	0	0
 ไดดาโนซีน	take	1	0	1	0
 ไดดาโนซีน	didanosine - medication	1	1	0	0
-เป็นประธาน	principal of	0	0	1	0
-เป็นประธาน	preside	0	0	1	0
+ทหารอากาศ	air force man	0	0	1	0
 งดส่งเข้าประกวด	enroll in the contest	0	0	1	0
 หนังใหญ่	nang yai	0	0	1	1
 หนังใหญ่	great movie	0	0	1	0
 หนังใหญ่	traditional thai play	0	0	1	0
-ดีเวลลอปเม้นท์	development	0	0	1	0
+ไทยานนท์	thaiyanon	0	0	1	0
+ไทยานนท์	taiyanon - a thai surname	0	0	1	0
 จากเว็บไซต์กระทรวงต่างประเทศ	from the foreign government affairs website	0	0	1	0
 จากเว็บไซต์กระทรวงต่างประเทศ	from ministry of foreign affairs website	0	0	1	0
 วาเลนไทน์	valentine	1	1	0	0
@@ -539,7 +513,6 @@
 วาเลนไทน์	valentine's	1	1	0	0
 ดัชนีการพัฒนามนุษย์	human development index	0	0	1	0
 ออกอากาศครั้งที่	airing	0	0	1	0
-เป็นพ่อของ	is the father of	0	0	1	0
 เป็นพ่อของ	belong to father of ...	0	0	1	0
 เป็นพ่อของ	belong to the father	0	0	1	0
 ไทย	thai	0	0	1	1
@@ -553,7 +526,6 @@
 เริ่มก่อสร้าง	began constuction	0	0	1	0
 เริ่มก่อสร้าง	beginning of construction	0	0	1	0
 ภาพยนตร์ไทย	thai movie	0	0	1	0
-ภาพยนตร์ไทย	thai films	0	0	1	0
 เครื่องราชอิสริยาภรณ์อันเป็นสิริยิ่งรามกีรติ	king's accessories	0	0	1	0
 เพลงบอก	the song said that	0	0	1	0
 เวิร์คพอยท์	workpoint company	0	0	1	0
@@ -578,7 +550,6 @@
 มีอยู่	present	0	0	1	0
 มีอยู่	possess	0	0	1	1
 คอนเวนชัน	convention	0	0	1	0
-บันทึกการสร้างโลก	genesis diary	0	0	1	0
 ลาคริม่า	la pattaya.	0	0	1	0
 พีอีเอ	pea	0	0	1	0
 หมวดหมู่วันสำคัญทางศาสนาที่นับโดยปฏิทินจันทรคติ	group of religious holidays	0	0	1	0
@@ -589,14 +560,11 @@
 ชลิต	chalit	0	0	1	0
 พาเมล่า	pamela	0	0	1	0
 สองสาย	double-stranded	0	0	1	0
-วันอังคาร	tuesday	0	0	1	1
+ระยะเวลาการดำรงตำแหน่ง	the term in the office	0	0	1	0
 ปี่	pipe	0	0	1	0
-วันที่ออกอากาศชื่อตอนแขกรับเชิญ	when the invitation comes out	0	0	1	0
 วันที่ออกอากาศชื่อตอนแขกรับเชิญ	the broadcast was a guest appearance.	0	0	1	0
 เมื่อปีพศ	in buddhist era	0	0	1	0
 สงครามอวกาศ	space war	0	0	1	0
-นิรันดร์กุล	nirankun	0	0	1	0
-หลอดอาหาร	esophagus	0	0	1	0
 นางงามจักรวาล	ms. universe	0	0	1	0
 นางงามจักรวาล	miss universe	0	0	1	0
 นักวิชาการ	i was in for.	0	0	1	0
@@ -619,8 +587,6 @@
 เส้นโค้ง	put	1	0	1	0
 มหาชน	public company	0	0	1	0
 มหาชน	public	0	0	1	0
-โกวิท	kowit	0	0	1	0
-โกวิท	kowit (a name)	0	0	1	0
 พระนามต้นราชสกุล	the first person in the dynasty	0	0	1	0
 นาที	lecture	1	0	1	0
 นาที	minute	1	1	0	0
@@ -632,11 +598,11 @@
 ค่าใช้จ่าย	expense	1	1	1	0
 ค่าใช้จ่าย	expenses	1	1	1	1
 แสงเทียน	saengthian	0	0	1	0
-เขตมีนบุรี	min buri district	0	0	1	0
+เพชรา	petchara - name of a famous actress	0	0	1	0
 รวมทั้ง	include	0	0	1	0
 หมวดหมู่บอยแบนด์	a group of boys band	0	0	1	0
 หมวดหมู่บอยแบนด์	category:boy bands	0	0	1	0
-หลักสูตรนานาชาติ	international course	0	0	1	0
+ไปรษณีย์อุทุมพรพิสัย	utumporn pisai post office	0	0	1	0
 สาขาย่อย	offices	0	0	1	0
 หมวดหมู่เครื่องเทศ	herbs	0	0	1	0
 มูลนิธิชัยพัฒนา	chaipattana foundation	0	0	1	0
@@ -659,10 +625,8 @@
 พศ	buddhist era	0	0	1	0
 พศ	b.e.	0	0	1	0
 พศ	year in thai calendar	0	0	1	0
-จังหวัดเชียงใหม่	chiang mai province	0	0	1	0
 ฌอง	jean - french name	0	0	1	0
 ใช้ชื่อว่า	named	0	0	1	0
-ประธานสภารัฐสภา	speaker of parliament	0	0	1	0
 พอ	col.	0	0	1	0
 หี	vagina (impolite word)	0	0	1	0
 ทรัพยากรน้ำ	water resources	0	0	1	0
@@ -691,7 +655,8 @@
 รศ	ratanakosin era	0	0	1	0
 มิเตอร์	apple	0	0	1	0
 มิเตอร์	meter	0	0	1	1
-อินฮิบิเตอร์	inhibitors	0	0	1	0
+ประมาณคศ	christ year	0	0	1	0
+ประมาณคศ	about a.d.	0	0	1	0
 สถาปนิก	architect	0	0	1	0
 ไรโบโซม	ribosome	1	1	0	0
 ไรโบโซม	changes	1	0	1	0
@@ -723,13 +688,16 @@
 ตำบลโพนครก	tambon poncrok	0	0	1	0
 เอียวศรีวงศ์	ewsriwong	0	0	1	0
 มมหิดล	mahidol university	0	0	1	0
-อย่างไรก็ตาม	however	0	0	1	0
+สัตว์มีกระดูกสันหลัง	vertebrate animals	1	0	1	0
+สัตว์มีกระดูกสันหลัง	vertebrate	1	1	0	0
+สัตว์มีกระดูกสันหลัง	relations	1	0	1	0
+สัตว์มีกระดูกสันหลัง	vertrabrate	1	0	1	0
+สัตว์มีกระดูกสันหลัง	sea	1	0	1	0
+สัตว์มีกระดูกสันหลัง	act	1	0	1	0
 เหลือสมาชิก	members left	0	0	1	0
 เหลือสมาชิก	current members	0	0	1	0
 ประสาท	castle	0	0	1	0
 ยัง	young	0	0	1	0
-เดธโน้ต	death note - a mysterious japanese cartoon	0	0	1	0
-วงศ์เทวัญ	wongthewan	0	0	1	0
 ฮิโซกะ	hisoka	0	0	1	0
 สุนทรเวช	surname "sundaravej"	0	0	1	0
 สุนทรเวช	soontavet - surname of a former government official	0	0	1	0
@@ -812,7 +780,6 @@
 ความงาม	beauty	0	0	1	1
 ประวัติศาสตร์	history	0	0	1	1
 โทริคาบูโตะ	tori kabuto	0	0	1	0
-โทริคาบูโตะ	torikabuto - a japanese word	0	0	1	0
 พี่สาวของ	the sister of ____________	0	0	1	0
 พี่สาวของ	sister of	0	0	1	0
 โซนี่	sony company	0	0	1	0
@@ -822,7 +789,6 @@
 ตรางู	snake brand	0	0	1	0
 ระหว่างละติจูดที่	the upside of sean jude by the tin.	0	0	1	0
 แคมเปญ	campagne	0	0	1	0
-แคมเปญ	campaign	0	0	1	0
 ทองใหญ่	tong yai - a name	0	0	1	0
 ทองใหญ่	thongyai	0	0	1	0
 ทโกมลบุตร	komolbut - a surname	0	0	1	0
@@ -848,7 +814,6 @@
 ดรนิพนธ์	dr. nipon	0	0	1	0
 มีล่า	mila	0	0	1	0
 π	pi	0	0	1	0
-การปกครองแบ่งออกเป็น	administration	0	0	1	0
 อาเธอร์	arthur	0	0	1	0
 อาเธอร์	arthur - a male's name	0	0	1	0
 นักเต้นนำ	dancers	0	0	1	0
@@ -860,15 +825,12 @@
 นักมวย	boxer	0	0	1	0
 ผู้พิทักษ์แห่งพิรุณ	rain defender	0	0	1	0
 ไม้	mai	0	0	1	0
-ไม้	wood	0	0	1	1
-ไม้	timber	0	0	1	0
 เวิร์ม	worm	0	0	1	0
 รฟม	public transit	0	0	1	0
 รฟม	mrta	0	0	1	0
 สวิตเซอร์แลนด์	switzerland	0	0	1	0
 แชมป์	champ	1	1	0	0
 ความสว่าง	illumination	0	0	1	0
-เปียโน	piano	0	0	1	0
 รองประธานรัฐสภาคนที่หนึ่ง	an assistant head of a thai governmental committee	0	0	1	0
 จังหวัดสมุทรสงคราม	samut songkhram province	0	0	1	0
 มิตรชัย	mitchai	0	0	1	0
@@ -876,16 +838,17 @@
 ฝ้าย	side; faction	0	0	1	0
 เทคโนโลยี	november	1	0	1	0
 เทคโนโลยี	technology	1	1	1	1
-จามจุรี	jamjuri flower	0	0	1	0
 หมวดหมู่ศิลปินสังกัดจีเอ็มเอ็ม	mgm artists	0	0	1	0
 เป็นเมืองหลวง	capital	0	0	1	0
-ไซโทสเกเลตอน	cytoskeleton	0	0	1	0
+อลังการ	a-lung-garn	0	0	1	0
+อลังการ	alungan - the name of a movie theater in thailand	0	0	1	0
+อลังการ	thai theatre in pattaya	0	0	1	0
+อลังการ	alangkarn	0	0	1	0
 แม่น้ำปิง	ping rover	0	0	1	0
 กุ้ง	shrimp	0	0	1	0
 เครื่องตี	musical intrument	0	0	1	0
 เคยสู้กับโกคุเทระ	fought with gokutera	0	0	1	0
 เคยสู้กับโกคุเทระ	fought gokudera	0	0	1	0
-เคยสู้กับโกคุเทระ	fought with gokudera	0	0	1	0
 อาณาจักรตามพรลิงก์	the link with the mainland gak.	0	0	1	0
 บุญนาค	boon nak - a famous surname	0	0	1	0
 ชุมแพ	choompa - location in thailand	0	0	1	0
@@ -917,8 +880,7 @@
 ผู้ชาย	male	0	0	1	1
 ผู้ชาย	man	0	0	1	0
 อุตตมะโยธิน	uttamayothin	0	0	1	0
-จังหวัดเพชรบูรณ์	petchabun province	0	0	1	0
-จังหวัดเพชรบูรณ์	phetchabun province	0	0	1	0
+เชาวราษฎร์	chowarat - the surname of a famous actress	0	0	1	0
 เบธเลเฮม	bethleham	1	0	1	0
 เบธเลเฮม	bethlehem	1	1	0	0
 เบธเลเฮม	situated	1	0	1	0
@@ -930,7 +892,7 @@
 ติอามัต	grow	1	0	1	0
 เพลโต	plato	0	0	1	0
 ไดคลอกซาซิลลิน	dicloxacillin	1	1	0	0
-ใต้	south	0	0	1	1
+เว็บไซต์ซีไอเอ	cia website	0	0	1	0
 ยุคอาณาจักรเหนือใต้	north-south dynasty	0	0	1	0
 นายปรีชา	mr.preecha	0	0	1	0
 เพื่อเป็นการเผยแผ่พระพุทธศาสนาและประชาสัมพันธ์กิจกรรมทางพระพุทธศาสนาต่าง	passing knowledge about buddhism	0	0	1	0
@@ -944,8 +906,7 @@
 ปริมาณการผลิต	capacity	0	0	1	0
 พลาสมา	plasma	0	0	1	0
 นายชลอ	chalo	0	0	1	0
-เงี้ยว	ngiao	0	0	1	0
-เงี้ยว	shan tribe in northern part of thailand	0	0	1	0
+เอ็กโปรพลาซ่า	expo plaza in thailand	0	0	1	0
 อาซึกะ	asuka	0	0	1	0
 พระยาพิชัยดาบหัก	phaya pichai dap hak	0	0	1	0
 ไชยยงค์	chai yong - a surname	0	0	1	0
@@ -969,8 +930,6 @@
 พยัญชนะสะกดควบกล้ำ	the diphthong consonant	0	0	1	0
 คูคาคุ	kukaku (japanese last name)	0	0	1	0
 คูคาคุ	kukaku - a japanese name	0	0	1	0
-ประมาณคศ	christ year	0	0	1	0
-ประมาณคศ	about a.d.	0	0	1	0
 แหวน	ring	0	0	1	0
 เพลงพระราชนิพนธ์	the king's song	0	0	1	0
 ซาซางาวะ	sasangngawa - a japanese name	0	0	1	0
@@ -1008,7 +967,6 @@
 โสน	sahon - a type of plant in genus sesbania	1	0	1	0
 โสน	leave	1	0	1	0
 โสน	sesbania	1	1	0	0
-ขั้นที่	level	0	0	1	0
 ชื่อเดิม	old name	0	0	1	0
 เกิดนิมิตร	caused a vision/realization	0	0	1	0
 จุง	jung	0	0	1	0
@@ -1019,7 +977,6 @@
 นิวคลีโอไทด์	neucleotide	1	0	1	0
 สยามบรมราชกุมารี	the eldest princess	0	0	1	0
 สยามบรมราชกุมารี	the current king's eldest daughter	0	0	1	0
-กบ	frog	0	0	1	0
 ขบวนรถสินค้า	cargo	1	1	0	0
 ขบวนรถสินค้า	freight train	1	1	0	0
 ขบวนรถสินค้า	base	1	0	1	0
@@ -1033,14 +990,13 @@
 มาเรีย	maria	0	0	1	0
 โทบรามัยซิน	tobramycin	1	1	0	0
 หลังสงคราม	after the war	0	0	1	0
-ฟังเพลง	listen to music	0	0	1	0
 จนกระทั่ง	until	0	0	1	1
 ส้มโอ	pomelo	1	1	1	1
 ส้มโอ	grapefruit	1	1	0	0
 ส้มโอ	chronicles	1	0	1	0
 ส้มโอ	annals	1	0	1	0
 มาลากุล	malakul	0	0	1	0
-อาจหมายถึง	may also mean	0	0	1	0
+กำกับโดยอภิชาติพงศ์	produced by apichartpong - a famous thai movie producer	0	0	1	0
 นิวยอร์ก	new york	0	0	1	0
 มหาวิทยาลัยอ๊อกซฟอร์ด	university of oxford	0	0	1	0
 พรอุดมศักดิ์	pornudomsak (last name)	0	0	1	0
@@ -1054,7 +1010,6 @@
 ยูโรเพียม	nikolaevich	1	0	1	0
 ยูโรเพียม	europium	1	1	0	0
 อวอร์ดส	award	0	0	1	0
-เมื่อเดือนกันยายน	in september	0	0	1	0
 ดำเนินสะดวก	damnoen saduak	0	0	1	0
 ดำเนินสะดวก	run smoothly	0	0	1	0
 เครื่องขัตติยราชอิสริยาภรณ์อันมีเกียรติคุณรุ่งเรืองยิ่งมหาจักรีบรมราชวงศ์	something used in a thai ceremony - too obscure	0	0	1	0
@@ -1064,11 +1019,12 @@
 ไดอาน่า	diana	0	0	1	0
 ที่หมายถึง	explanation	0	0	1	0
 ดูได้ที่	please see	0	0	1	0
-บลูเบอร์รี่	blueberry	0	0	1	0
+หัวหิน	hua hin	0	0	1	0
+หัวหิน	hua hin - a beach resort in thailand	0	0	1	0
 กอนซาเลซ	gonzález	0	0	1	0
 กอนซาเลซ	gonzales - a name	0	0	1	0
 เวิลด์	world	0	0	1	0
-โคลอมเบีย	colombia	0	0	1	0
+ประเด็นที่	point number	0	0	1	0
 ในปลายปี	at teh end of the year	0	0	1	0
 การบริหารจัดการ	management	0	0	1	0
 เสรี	http://mturk.jhu.edu/static/images/th/word/0006153300.png	0	0	1	0
@@ -1087,21 +1043,18 @@
 ไปรษณีย์อำนาจเจริญ	amnat charoen post office	0	0	1	0
 ความเข้มของการส่องสว่าง	luminous intensity	0	0	1	0
 ภู่สว่าง	poosawang - a surname	0	0	1	0
-เดือนอ้าย	first lunar month	0	0	1	0
 การค้นพบ	discover	0	0	1	0
 การค้นพบ	discovery	0	0	1	0
 เจสเปอร์	jasper	0	0	1	0
 รัสเซล	russell	0	0	1	0
-ดูที่	see	0	0	1	0
+มายน์ส	mine	0	0	1	0
 แคลิฟอร์เนียม	californium	1	1	0	0
 ละอองลอย	aerosol	1	1	0	0
 ไปบรรจบแม่น้ำเจ้าพระยา	runs to chao phraya river	0	0	1	0
 ไปบรรจบแม่น้ำเจ้าพระยา	ending at chao prya river	0	0	1	0
 ไปบรรจบแม่น้ำเจ้าพระยา	flow to chauphraya river	0	0	1	0
-ข้อมูลปี	information from the year ________	0	0	1	0
 หรือชื่อทางการคือ	official name is	0	0	1	0
 กระนวน	granuan - location in knon kan province	0	0	1	0
-กระนวน	kranuan	0	0	1	0
 ให้เสียงพากย์	dubbed	0	0	1	0
 ให้เสียงพากย์	http://mturk.jhu.edu/static/images/th/word/0006128880.png	0	0	1	0
 ให้เสียงพากย์	voice over	0	0	1	0
@@ -1123,8 +1076,6 @@
 ขนสัตว์	same	1	0	1	0
 ขนสัตว์	animal hair	1	0	1	0
 นักแสดงพิธีกร	presenter of the show	0	0	1	0
-นักแสดงพิธีกร	host	0	0	1	0
-นักแสดงพิธีกร	actor	0	0	1	0
 นักแสดงพิธีกร	actor/acrress-master of ceremonies	0	0	1	0
 เนื่องจากประเทศเหล่านั้นอยู่ในตำแหน่งบนโลกที่ต่างไปจากประเทศไทย	because those countries are in the group of...	0	0	1	0
 สารต้านอนุมูลอิสระ	free radical	1	0	1	0
@@ -1162,9 +1113,8 @@
 มัธยมศึกษาปีที่	secondary school year	0	0	1	0
 เริ่มการผลิตนำเข้า	importing	0	0	1	0
 กองคลัง	division of finance	0	0	1	0
-หนึ่งในฟราเซี่ยนในสังกัดของกริมจอว์	http://mturk.jhu.edu/static/images/th/word/0006129060.png	0	0	1	0
-หงสกุล	hongsakul (a famous surname in thailand)	0	0	1	0
-หงสกุล	as in harin hongsakul	0	0	1	0
+ห่วงใย	worried	0	0	1	0
+ห่วงใย	care	0	0	1	0
 สาขาศิลปะสถาปัตยกรรม	art and architecture branch	0	0	1	0
 สาขาศิลปะสถาปัตยกรรม	architectural art	0	0	1	0
 มัธยฐาน	stores	1	0	1	0
@@ -1181,7 +1131,6 @@
 วิทยาลัยครูสวนสุนันทา	soun sunanta teachers college	0	0	1	0
 วิทยาลัยครูสวนสุนันทา	swunsunanta teaching college	0	0	1	0
 อิงลิช	english	0	0	1	0
-ในช่วงสงครามโลกครั้งที่สอง	during world war ii	0	0	1	0
 บริพัตร	paribatra	0	0	1	0
 บริพัตร	boripat	0	0	1	0
 บริพัตร	baripat - a famous surname	0	0	1	0
@@ -1193,10 +1142,6 @@
 อุบล	ubol - a place in thailand	0	0	1	0
 ปรากฏตัวในตอน	showing their presence	0	0	1	0
 เป็นเจ้าเมืองปกครอง	governor	0	0	1	0
-กล้วยไม้ดาว	defense	1	0	1	0
-กล้วยไม้ดาว	type of orchid that have slim petal like star	1	1	0	0
-กล้วยไม้ดาว	defence	1	0	1	0
-กล้วยไม้ดาว	epidendrum	1	1	0	0
 วิทยาลัยพยาบาลบรมราชชนนี	nursing university of barom raj chonnani	0	0	1	0
 ปาสกาล	pascal - computer language or name	1	1	0	0
 ปาสกาล	pascal	1	1	1	0
@@ -1232,15 +1177,12 @@
 อำเภอรัตนบุรี	north beach district band	0	0	1	0
 อำเภอรัตนบุรี	amphoe rattanaburi	0	0	1	0
 ปีคศ	christain era	0	0	1	0
-ปีคศ	year a.d.	0	0	1	0
 มีอากาศมรสุมเขตร้อนเป็นแบบร้อนชื้นแถบมรสุม	high pressure storm	0	0	1	0
-มีอากาศมรสุมเขตร้อนเป็นแบบร้อนชื้นแถบมรสุม	has a tropical monsoon climate of the humid type	0	0	1	0
 ซีเซียม	cesium	1	1	0	0
 ซีเซียม	mail	1	0	1	0
 ซีเซียม	caesium	1	1	0	0
 จัดเมื่อวันที่	็held on the date of ...	0	0	1	0
 จัดเมื่อวันที่	set on the date of _________	0	0	1	0
-จัดเมื่อวันที่	held on the date	0	0	1	0
 ปากน้ำ	samutpragan province in thailand	0	0	1	0
 ปากน้ำ	pak nam	0	0	1	0
 ซีสต์	non life-threatening skin cell deform.	1	0	1	0
@@ -1284,6 +1226,7 @@
 เมืองพิษณุโลก	phitsanulok	0	0	1	0
 ยุคที่	age	0	0	1	0
 ยุคที่	era	0	0	1	0
+วังสระปทุม	srapathum palace	0	0	1	0
 แฟมิลีที่ไปพักผ่อนที่เกาะมาเฟีย	family that went to mafia island for vacation	0	0	1	0
 น้ำมัน	oil	0	0	1	0
 น้ำมัน	petroleum	0	0	1	0
@@ -1301,7 +1244,6 @@
 กลุ่มดาวเตาหลอม	fornax constellation	1	0	1	0
 กลุ่มดาวเตาหลอม	influence	1	0	1	0
 ริเอะ	rie tanaga - a japanese singer	0	0	1	0
-โบราณสถาน	the ancient place	0	0	1	0
 แจ	live purely and clean both in body and mind - from chinese belief	0	0	1	0
 ชีวสถิติ	biostatistics	1	1	0	0
 ปัจจุบัน	at present	0	0	1	1
@@ -1310,15 +1252,13 @@
 บิ๊กซี	big c	0	0	1	0
 ฮิราโกะ	hirako (japanese name)	0	0	1	0
 ฮิราโกะ	hirako	0	0	1	0
-อัลเฟรด	alfred	0	0	1	0
-อัลเฟรด	frederick's of.	0	0	1	0
+ท้องสนามหลวง	sanamloung - a landmark in thailand	0	0	1	0
 อาจารย์	teacher	0	0	1	0
 อาร์กอน	argon	1	1	0	0
 อาร์กอน	so	1	0	1	0
 หาง	tail	0	0	1	0
 สายสีม่วง	purple line (rapid transit)	0	0	1	0
 สายสีม่วง	purple line	0	0	1	0
-วิทยาเขตกาญจนบุรี	kanchanaburi college	0	0	1	0
 ภาษาเยอรมัน	german language	0	0	1	0
 ควีนซี่	quincy	0	0	1	0
 อุทยานแห่งชาติภูเรือ	national park pu reau	0	0	1	0
@@ -1328,12 +1268,10 @@
 กิจผลิต	kitpalit (last name)	0	0	1	0
 กิจผลิต	production	0	0	1	0
 กิจผลิต	kitpalit	0	0	1	0
-ไว้ว่า	as	0	0	1	0
 อุทยานแห่งชาติภูสอยดาว	phu soi dao national park	0	0	1	0
 อุทยานแห่งชาติภูสอยดาว	phu soy down national park	0	0	1	0
 อุทยานแห่งชาติภูสอยดาว	soi dao mountain preserve	0	0	1	0
 สมภพ	sompob	0	0	1	0
-ดวงอาทิตย์	sun	0	0	1	0
 ไนท์	sege	0	0	1	0
 ไนท์	night	0	0	1	0
 ไวเซิร์ด	vizard	0	0	1	0
@@ -1358,7 +1296,6 @@
 วอลล์	wall	0	0	1	0
 อาการหวาดระแวง	paranoid	0	0	1	0
 อาการหวาดระแวง	paranoid syndrome	0	0	1	0
-อาการหวาดระแวง	paranoia	0	0	1	0
 กิมป์	holidays	1	0	1	0
 กิมป์	gimp - gnu image manipulation program	1	0	1	0
 กิมป์	gimp	1	1	0	0
@@ -1390,13 +1327,11 @@
 เกาะลูซอน	luzon	1	1	0	0
 ราชสภาจะจัดการประชุมในสัปดาห์ที่พระมหากษัตริย์	conference	0	0	1	0
 ไทโรซีน	thyrosine	0	0	1	0
-อาทิ	for example	0	0	1	0
 อาทิ	such as	0	0	1	1
 บลูคอสมอส	blue cosmos	0	0	1	0
 เจ้าโลก	world conqueror	0	0	1	0
 เจ้าโลก	king of the world	0	0	1	0
 ผู้ว่าการธนาคารแห่งประเทศไทย	governor of the bank of thailand	0	0	1	0
-ในรัชสมัยพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว	in the reign of thailand's 4th king	0	0	1	0
 ในรัชสมัยพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว	in the reign of king chulalongkorn	0	0	1	0
 เรือนไทย	thai house	0	0	1	0
 ชวนชื่น	choun cheen - a surname	0	0	1	0
@@ -1405,13 +1340,11 @@
 ที่เป็นที่ชื่นชอบมากที่สุด	the most favorite	0	0	1	0
 และเมื่อวันที่	when date	0	0	1	0
 จังหวัดมหาสารคาม	maha sarakham province	0	0	1	0
-มหาวิทยาลัยวงษ์ชวลิตกุล	vongchavalitkul university	0	0	1	0
 การ์ด	these	1	0	1	0
 การ์ด	guard	1	0	1	0
 การ์ด	those	1	0	1	0
 การ์ด	card	1	1	0	0
 เรียล	rial	1	1	0	0
-สยามดารา	siam stars	0	0	1	0
 พอยท์	point	0	0	1	0
 จากภาษากรีก	greek language	0	0	1	0
 ชุดแพนเค้ก	pancake	0	0	1	0
@@ -1427,7 +1360,6 @@
 มหาวิทยาลัยศรีนครินทรวิโรฒ	srinakarinvirot university	0	0	1	0
 คณะครุศาสตร์อุตสาหกรรม	faculty of industrial education	0	0	1	0
 คณะครุศาสตร์อุตสาหกรรม	faculty of technical education	0	0	1	0
-ป่าชายเลน	mangrove forest	0	0	1	0
 สาขาวิชาวิศวกรรมอิเล็กทรอนิกส์	major electronic engineering	0	0	1	0
 พริกหยวก	a type of thai pepper	0	0	1	0
 สมุทวณิช	samudavanija	0	0	1	0
@@ -1438,7 +1370,6 @@
 อำเภอตะพานหิน	tapanhin district	0	0	1	0
 จ๊กมก	jokmok - a surname of a comedian	0	0	1	0
 อำเภอท่าตูม	ta toom district	0	0	1	0
-อุทยานแห่งชาติธารโบกขรณี	tarabokorani national preserve area	0	0	1	0
 การบริหารการพัฒนา	development	0	0	1	0
 การบริหารการพัฒนา	management and development	0	0	1	0
 ความหมาย	meaning	0	0	1	1
@@ -1457,7 +1388,6 @@
 คอลลิงวูด	collingwood	0	0	1	0
 สุรพล	suraphol	0	0	1	0
 ฟังพระธรรมเทศนา	listen to the gospel	0	0	1	0
-ฟังพระธรรมเทศนา	listen to preaching	0	0	1	0
 รายชื่อ	list of the names	0	0	1	0
 รายชื่อ	list	0	0	1	0
 หมวดหมู่พระราชนัดดาในรัชกาลที่	catagory: royal heirs during the "blank" reign	0	0	1	0
@@ -1466,7 +1396,8 @@
 วิศวกรรมไฟฟ้า	electical engineering	0	0	1	0
 ครูพิเศษจอมป่วน	special teacher who is tormenting creature	0	0	1	0
 ครูพิเศษจอมป่วน	kru pisat jom poun  - name of a story	0	0	1	0
-วังสระปทุม	srapathum palace	0	0	1	0
+ได้เป็น	is	0	0	1	0
+ได้เป็น	possible	0	0	1	0
 รายได้อื่น	other wages	0	0	1	0
 รายได้อื่น	other revenues	0	0	1	0
 รายได้อื่น	incomes	0	0	1	0
@@ -1482,7 +1413,6 @@
 กุดจับ	good jub - a place	0	0	1	0
 ณัฐวุฒิ	nattawut	0	0	1	0
 ลักษณะทางกายภาพ	physical characteristics	0	0	1	0
-จึงใช้ธาตุหมอกและเมฆาได้	using magic with cloud and spells	0	0	1	0
 อำเภอสิชล	sichon district	0	0	1	0
 กลุ่มดาวเข็มทิศ	avoid	1	0	1	0
 กลุ่มดาวเข็มทิศ	pyxis constellation	1	1	0	0
@@ -1501,13 +1431,11 @@
 ประมาณ	about	0	0	1	1
 ประมาณ	estimated to be	0	0	1	0
 ธนาคารกรุงศรีอยุธยา	bank of ayudhya	0	0	1	0
-พัชรี	pacharee - a female's name	0	0	1	0
 ได้รับฉายาว่า	recived the alias	0	0	1	0
 ได้รับฉายาว่า	was given a nickname of ...	0	0	1	0
 ได้รับฉายาว่า	receive a reputation for _______	0	0	1	0
 ปักกิ่ง	beijing	0	0	1	0
 หมวดหมู่ทหารอากาศชาวไทย	category:royal thai air force personnel	0	0	1	0
-หมวดหมู่ทหารอากาศชาวไทย	catagory: thai military airmen	0	0	1	0
 หมวดหมู่ทหารอากาศชาวไทย	category: thai air force	0	0	1	0
 ฝ่าเท้า	sole of foot	0	0	1	0
 ในชิงร้อยชิงล้าน	game show to compete for 1 million baht	0	0	1	0
@@ -1517,7 +1445,7 @@
 เซโรนอส	zeronos	0	0	1	0
 มหาวิทยาลัยเกษตรศาสตร์	kasetsart university	0	0	1	0
 พยาธิวิทยา	pathology	0	0	1	0
-กีฬาทางน้ำ	water sports	0	0	1	0
+เป็นประธาน	principal of	0	0	1	0
 ดังนั้น	for that reason	0	0	1	0
 รถประจำทางสาย	bus number	0	0	1	0
 หมวดหมู่สัตว์เลื้อยคลาน	reptilians	0	0	1	0
@@ -1536,12 +1464,10 @@
 อำเภอพระพรหม	pra phrom province	0	0	1	0
 โมบิลสูทกันดั้ม	mobile suit gundam	0	0	1	0
 ขวัญใจช่างภาพ	miss photogenic	0	0	1	0
-อิเล็กตรอน	http://mturk.jhu.edu/static/images/th/word/0006130200.png	0	0	1	0
 รูทีเนียม	ruthenium	1	1	0	0
 รูทีเนียม	radio	1	0	1	0
 เมจิ	maji - a nickname	0	0	1	0
 อุภัยราศี	ambivert zodiac	0	0	1	0
-พรรคชาติไทย	thai nation party	0	0	1	0
 พรรคชาติไทย	chart thai political party	0	0	1	0
 หลักสูตรที่เปิดสอน	curriculum	0	0	1	0
 ฮอลแลนด์	holland	0	0	1	0
@@ -1558,13 +1484,12 @@
 มาครอส	macross	0	0	1	0
 เจี๊ยบ	jeab (thai name)	0	0	1	0
 เจี๊ยบ	jeab	0	0	1	0
-ซ่อมแซม	repair	0	0	1	0
 ซ่อมแซม	taggy dressing	0	0	1	0
 วีดีโอ	video	0	0	1	0
 มาตรา	article	0	0	1	0
 มาตรา	law	0	0	1	0
 เมื่อวันเสาร์ที่	on last saturday	0	0	1	0
-ในระหว่างวันที่	during the dates	0	0	1	0
+แต่งโดย	composed by	0	0	1	0
 วอก	wok	0	0	1	0
 กระบวนการสร้าง	creation process	1	0	1	0
 กระบวนการสร้าง	anabolism	1	1	0	0
@@ -1585,13 +1510,11 @@
 วิทยาเขตสุรินทร์	surin campus	0	0	1	0
 สถานีวิทยุโทรทัศน์ไทยทีวีสีช่อง	thai television station number _____	0	0	1	0
 สตูดิโอ	studio	0	0	1	0
-พุทธคยา	bodh gaya	0	0	1	0
 วันหยุดราชการ	national holiday	0	0	1	0
 โครงการ	project	0	0	1	0
 นครสวรรค์	nakhon sawan	0	0	1	0
-ในรัฐบาล	in the government	0	0	1	0
-มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา	rajapak bahn somdej jao praya college	0	0	1	0
 มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา	bansomdejchaopraya rajabhat university	0	0	1	0
+มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา	rajapak bahn somdej jao praya college	0	0	1	0
 สัตว์เลี้ยงลูกด้วยน้ำนม	mammal	0	0	1	0
 หมวดหมู่กลุ่มดนตรีสัญชาติเกาหลี	korean musical group	0	0	1	0
 ซิงเกิ้ล	single	0	0	1	0
@@ -1618,7 +1541,6 @@
 คนที่	person number __________________________	0	0	1	0
 ในสมัยพุทธกาล	in buddha era	0	0	1	0
 ในสมัยพุทธกาล	buddha era	0	0	1	0
-ในสมัยพุทธกาล	in the time of buddhist revival	0	0	1	0
 ในกาลต่อมา	later	0	0	1	0
 วงศ์วิริยะ	vongsiriya - a surname	0	0	1	0
 วิจัย	study	0	0	1	0
@@ -1641,7 +1563,6 @@
 เชื้อชาติ	helping the country	0	0	1	0
 วังจันทร์	wang-chan	0	0	1	0
 ภาพยนตร์ไทยเรื่องแรกถ่ายทำในเมืองไทย	real thai film to take the stage in the field to thailand.	0	0	1	0
-ฮอยเกนส์	huygens	0	0	1	0
 คริสตี	conversation	1	0	1	0
 คริสตี	discussion	1	0	1	0
 คริสตี	speech	1	0	1	0
@@ -1670,7 +1591,6 @@
 ด้วยเหตุนี้	therefore	0	0	1	0
 คิเคียว	kikyo	0	0	1	0
 โรงเรียนบดินทรเดชา	bodindecha school	0	0	1	0
-โรงเรียนบดินทรเดชา	bodindecha high school	0	0	1	0
 ด้านหลัง	backside	0	0	1	0
 ด้านหลัง	behind	0	0	1	0
 ด้านหลัง	background	0	0	1	0
@@ -1736,7 +1656,7 @@
 จิกะไบต์	muslim	1	0	1	0
 จิกะไบต์	gigabyte	1	1	0	0
 ลำดับพระมหากษัตริย์ไทย	the order of the kings of thailand	0	0	1	0
-ที่สำคัญ	important	0	0	1	0
+โซล	seoul	0	0	1	0
 ขนมปังขิง	gingerbread	1	1	0	0
 ขนมปังขิง	grammy	1	0	1	0
 ขนมปังขิง	gingersnap	1	1	0	0
@@ -1745,11 +1665,12 @@
 การปฏิรูประบบจัดเก็บภาษีเงินได้	taxation reform	0	0	1	0
 นัยนา	naiyana	0	0	1	0
 อำเภอยางชุมน้อย	choom noi province	0	0	1	0
-ธปท	bot	0	0	1	0
+โคเบะ	kobe	1	1	0	0
+โคเบะ	wine	1	0	1	0
 ไปรษณีย์เดชอุดม	det udom post office	0	0	1	0
 ไปรษณีย์เดชอุดม	dech-udom post office	0	0	1	0
 ไปรษณีย์เดชอุดม	mail office dech udom	0	0	1	0
-นิวเคลียร์	nuclear	1	1	1	0
+นิวเคลียร์	nuclear	1	1	0	0
 โรงเรียนเทศบาล	public schools	0	0	1	0
 รางวัลนาฏราช	naktarath prize	0	0	1	0
 มหาบัณฑิต	graduates from college	0	0	1	0
@@ -1782,7 +1703,7 @@
 สำนวนเก่า	old document	0	0	1	0
 สำนวนเก่า	old idiom	0	0	1	0
 บรูไน	brunei	0	0	1	0
-ของสุนทรภู่	belong to soon thong pu (a thai legend)	0	0	1	0
+จังหวัดเชียงใหม่	chiang mai province	0	0	1	0
 สีดำ	black color	0	0	1	0
 มาลัยพร	malaiphon	0	0	1	0
 สันติ	peace	0	0	1	1
@@ -1792,7 +1713,7 @@
 รางน้ำ	gutter	0	0	1	0
 โคล้ด	claude	0	0	1	0
 กีฬาแหลมทอง	seap games	0	0	1	0
-ในปีที่	in year	0	0	1	0
+ข้อมูลปี	information from the year ________	0	0	1	0
 ในกลุ่ม	in group	0	0	1	0
 ในกลุ่ม	in the group of	0	0	1	0
 น้อยมาก	noimak	0	0	1	0
@@ -1818,14 +1739,14 @@
 ระบบโครงกระดูก	skeleton	1	1	0	0
 บุณยเกตุ	boonyaket	0	0	1	0
 จังหวัดพระนครศรีอยุธยา	nakon sri ahyutthaya province	0	0	1	0
-เสียง	sound	0	0	1	1
-โอกาส	opportunities	0	0	1	0
+โดย	by	0	0	1	1
 ฮุก	hook	0	0	1	0
 ก่อนหน้านั้น	before	0	0	1	0
 แพทย์	physician	0	0	1	1
 เริ่มออกอากาศ	on air	0	0	1	0
-ที่นี้	here	0	0	1	0
-ที่นี้	this place	0	0	1	0
+วิธีการหาความสัมพันธ์	formula for the correlation coefficient	0	0	1	0
+วิธีการหาความสัมพันธ์	method to find relationship	0	0	1	0
+วิธีการหาความสัมพันธ์	correlation	0	0	1	0
 บางกอกน้อย	area near sirisat medical school	0	0	1	0
 บางกอกน้อย	bangkok noi	0	0	1	0
 บางกอกน้อย	little bangkok	0	0	1	0
@@ -1842,7 +1763,7 @@
 แกลง	klang (name of district)	0	0	1	0
 แกลง	klang - in rayong state	0	0	1	0
 ในปีพุทธศักราช	in b.e.	0	0	1	0
-โอบามา	obama	0	0	1	0
+มิฮอว์ค	mihawk - surname of a character in a japanese movie	0	0	1	0
 ปืนไร้แรงสะท้อนถอยหลัง	recoilless rifle	0	0	1	0
 ไปรษณีย์ฉะเชิงเทรา	cha cheng sao postal zone	0	0	1	0
 ไปรษณีย์ฉะเชิงเทรา	chachoengsao post office	0	0	1	0
@@ -1857,7 +1778,6 @@
 วิบูลย์	wibul - a male's name	0	0	1	0
 คิงส์	kings	0	0	1	0
 ขาย	sell	0	0	1	0
-วัฒนชัย	wattanachai - a surname	0	0	1	0
 โชว์	show	0	0	1	0
 ข้อมูลปรากฏการณ์โลกร้อน	global climate change	0	0	1	0
 เลโอนาร์โด	leonardo	0	0	1	0
@@ -1872,7 +1792,6 @@
 ลำดับ	order	1	1	0	0
 บิว	bew	0	0	1	0
 จักรพันธุ์	chakrabhand	0	0	1	0
-จักรพันธุ์	jakapan - a male's name	0	0	1	0
 อำเภอศรีณรงค์	si narong district	0	0	1	0
 อำเภอศรีณรงค์	sri-narong district	0	0	1	0
 หมวดหมู่ฟุตบอลในประเทศไทย	category; football in thailand	0	0	1	0
@@ -1880,7 +1799,6 @@
 สินสมุทร	sihnsmut	0	0	1	0
 เวล	vail	0	0	1	0
 เวล	wales	0	0	1	0
-ตรุษจีน	chinese festival	0	0	1	0
 ตรุษจีน	chinese new year	0	0	1	0
 กรับพวง	krap phuang	0	0	1	0
 กรับพวง	grap poung	0	0	1	0
@@ -1924,7 +1842,6 @@
 ปทานุกรม	dictionary	1	1	0	0
 แขวงจำปาสัก	champasak province	0	0	1	0
 แขวงจำปาสัก	champasak area	0	0	1	0
-เทศบาล	municipality	0	0	1	1
 โสณกุล	sonakul	0	0	1	0
 โสณกุล	sanolsakul - a surname	0	0	1	0
 มณฑลหูหนาน	what	1	0	1	0
@@ -1935,7 +1852,9 @@
 เล่ม	book number	0	0	1	0
 เล่ม	book	0	0	1	0
 เล่ม	edition	0	0	1	0
-พลฯ	private	0	0	1	0
+คณะรัฐมนตรีคณะที่	the cabinet of a government number	0	0	1	0
+คณะรัฐมนตรีคณะที่	council of ministers	0	0	1	0
+คณะรัฐมนตรีคณะที่	the thai government number _____	0	0	1	0
 โปรแกรมคอมพิวเตอร์	computer programming	0	0	1	0
 โปรแกรมคอมพิวเตอร์	computer program	0	0	1	0
 ในเครือ	in the area of	0	0	1	0
@@ -1959,8 +1878,7 @@
 ทางน้ำ	by water	0	0	1	0
 เธอกับฉัน	you and i	0	0	1	0
 อำเภอบางเสาธง	bang sao thong district	0	0	1	0
-โซล	seoul	0	0	1	0
-แต่งโดย	composed by	0	0	1	0
+ในระหว่างวันที่	during the dates	0	0	1	0
 เอี่ยมยิ่ง	awesome	0	0	1	0
 เอี่ยมยิ่ง	super	0	0	1	0
 มีอุทยานแห่งชาติสำคัญหลายแห่ง	has many important national parks	0	0	1	0
@@ -1983,24 +1901,20 @@
 ตูน	toon	0	0	1	0
 ฟาง	fhang	0	0	1	0
 ฟาง	fang	0	0	1	0
-พระพุทธศาสนา	buddhism	0	0	1	0
 หมวดหมู่บุคคลจากสถาบันบัณฑิตพัฒนศิลป์	group of staff from art schools	0	0	1	0
 บ้านฝันดอตคอม	bahnfun.com	0	0	1	0
 โฆษะ	kosa	0	0	1	0
 กรมข่าวทหารอากาศ	communication department of the thai air force	0	0	1	0
-ทาร์ดิกราดา	tardigrada	1	1	0	0
-ทาร์ดิกราดา	tadirada phylum	1	0	1	0
-ทาร์ดิกราดา	author	1	0	1	0
-ทาร์ดิกราดา	tardigrade	1	1	0	0
+พระพุทธศาสนา	buddhism	0	0	1	0
 เวิร์คพอยท์สตูดิโอ	workpoint studio	0	0	1	0
-สาธารณรัฐออสเตรีย	republic of austria	0	0	1	0
+ศรีประจวบ	siprachuap	0	0	1	0
+ศรีประจวบ	sri rates.	0	0	1	0
 มีด	knife	0	0	1	1
 แอฟริกา	africa	0	0	1	0
 บางแสน	bang saen	0	0	1	0
 มีน	min - a nick name	0	0	1	0
 มีน	min	0	0	1	0
 พระนาม	name of the king	0	0	1	0
-แยกจากคลองบางกอกใหญ่ฝั่งซ้าย	forked from khlong bangkok yai	0	0	1	0
 จากสารานุกรมบริทานิกา	from printed information	0	0	1	0
 กองบินปีกหมุนที่	flight corp number __________	0	0	1	0
 ดัตช์	dutch	0	0	1	0
@@ -2024,7 +1938,6 @@
 ร็อดฟอร์ม	rock form	0	0	1	0
 มีนายกรัฐมนตรี	have a prime minister	0	0	1	0
 มีนายกรัฐมนตรี	prime minister	0	0	1	0
-สุจริตกุล	sucharitkul	0	0	1	0
 เนะ	ney	0	0	1	0
 ประกอบไปด้วย	included	0	0	1	0
 ประกอบไปด้วย	in addition	0	0	1	0
@@ -2086,14 +1999,11 @@
 เซฟ	save	0	0	1	0
 สถานะ	status	0	0	1	0
 ศาลชั้นต้น	curcuit court	0	0	1	0
-ยอด	great	0	0	1	0
-ยอด	super	0	0	1	0
+ลิเก	like	0	0	1	0
 ส่วนส่งกำลังบำรุง	the logistics	0	0	1	0
-ส่วนส่งกำลังบำรุง	supply center	0	0	1	0
 ไผ่แดง	red bamboo	0	0	1	0
 พจนานุกรมออนไลน์	online dictionary	0	0	1	0
 กรุงเทพเชียงใหม่กรุงเทพ	bangkok changmai bangkok	0	0	1	0
-กรุงเทพเชียงใหม่กรุงเทพ	http://mturk.jhu.edu/static/images/th/word/0006107590.png	0	0	1	0
 อุณหเคมี	thermochemistry.	1	0	1	0
 อุณหเคมี	took	1	0	1	0
 อุณหเคมี	using energy and heat in chemical study	1	0	1	0
@@ -2102,7 +2012,7 @@
 อุณหเคมี	themochemistry	1	0	1	0
 ในช่วงหลัง	later	0	0	1	0
 คณะเกษตร	faculty of agriculture	0	0	1	0
-และในปี	and in the year	0	0	1	0
+ถึงกระนั้น	until	0	0	1	0
 ไพศาล	phaisan	0	0	1	0
 หรือ	or	0	0	1	1
 พุทธนิกายเถรวาท	a sect of buddhist religion	0	0	1	0
@@ -2121,24 +2031,20 @@
 เว้นวรรค	space	0	0	1	0
 พิมพ์เล็ก	small photo frame 1.4 cm x 2.1 cm x 0.5 cm thick	0	0	1	0
 ปากแม่น้ำสิงคโปร์	singapore river delta	0	0	1	0
-ต่อกันด้วยพันธะ	linked by bond	0	0	1	0
-ต่อกันด้วยพันธะ	connected by the chemical bond	0	0	1	0
 แขน	arm	0	0	1	1
 ประจวบคีรีขันธ์	prajoubkirikan state	0	0	1	0
 ประจวบคีรีขันธ์	prachuap khiri khan province	0	0	1	0
 แองเจิ้ล	angel	0	0	1	0
-รัฐสีมาคุณากรปิยชาติ	ratthasimakhunakonpiyachat	0	0	1	0
+หมวดหมู่บุคคลจากโรงเรียนนายร้อยพระจุลจอมเกล้า	catagory: people from prchomklhaw academy	0	0	1	0
 เครื่องราชอิสริยาภรณ์อันเป็นที่เชิดชูยิ่งช้างเผือก	order of the white elephant	0	0	1	0
 พระนคร	phra nakhon	0	0	1	0
 สาขาวิชาวิทยาการคอมพิวเตอร์	school of computer science	0	0	1	0
 เวทีทอง	golden podium	0	0	1	0
 อาทิตย์	sunday	0	0	1	0
-จังหวัดคยองกี	the state of kyong gee	0	0	1	0
 อรุณี	arunee	0	0	1	0
 มอร์ริส	morris	0	0	1	0
 รวดเร็ว	rapid	0	0	1	0
-ท่านอ้วน	than uan	0	0	1	0
-ท่านอ้วน	master auan	0	0	1	0
+บอส	boss	0	0	1	0
 รักษาศีล	keep the precepts	0	0	1	0
 รักษาศีล	observe the precepts	0	0	1	0
 มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ	techonology university at rajamongkolsuwannapoom	0	0	1	0
@@ -2163,7 +2069,8 @@
 กังหันชัยพัฒนา	chai pattana wind mill	0	0	1	0
 กังหันชัยพัฒนา	chaipattana's windmill	0	0	1	0
 ข้าวโพด	corn	0	0	1	1
-ไปรษณีย์ยานนาวา	yan nawa post office	0	0	1	0
+อภินันท์	ahpinun - a male's name	0	0	1	0
+อภินันท์	apinan	0	0	1	0
 มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา	ratchamongkhon lanna technology university	0	0	1	0
 กบฏ	readiness	1	0	1	0
 กบฏ	rebellion	1	1	0	0
@@ -2173,22 +2080,23 @@
 ฟู	fuu	0	0	1	0
 อรรถกถา	atthakatha	0	0	1	0
 คำศัพท์	word	0	0	1	0
-โนเบล	nobel	1	1	0	0
+ชาตะ	born	0	0	1	0
 และสัตว์	animal	0	0	1	0
 และสัตว์	and animal	0	0	1	0
 ประกาศิต	command	0	0	1	0
 สำราญ	happily	0	0	1	0
-และที่สำคัญคือ	and important thing is...	0	0	1	0
+ภูมิรัตน์	bhumirat (last name)	0	0	1	0
+ภูมิรัตน์	poomirath	0	0	1	0
+ภูมิรัตน์	the mountain not the night	0	0	1	0
 ดอร์	door	0	0	1	0
 นิเทศศาสตรบัณฑิต	communication major graduates	0	0	1	0
 นิเทศศาสตรบัณฑิต	college graduate	0	0	1	0
-พรรคการเมืองใหม่	kan mai meung political party	0	0	1	0
 เว็บไซต์ของเกมส์	gaming website	0	0	1	0
 เว็บไซต์ของเกมส์	game website	0	0	1	0
 เวอร์โก้	virgo	0	0	1	0
 ภิรมย์	philom	0	0	1	0
 บุญนะโชติ	bunachot - a surname	0	0	1	0
-เพลย์สเตชัน	playstation	0	0	1	0
+การบินไทย	thai airways	0	0	1	0
 โครงการนานาชาติ	international program	0	0	1	0
 ยาขับปัสสาวะ	diuretic pills	1	1	0	0
 ยาขับปัสสาวะ	kgb	1	0	1	0
@@ -2200,7 +2108,6 @@
 สหพันธ์สาธารณรัฐเยอรมนี	germany	0	0	1	0
 ศูนย์การศึกษาแม่ฮ่องสอน	maehongsorn learning center	0	0	1	0
 พาร์ค	park	0	0	1	0
-ธุรกิจการบิน	airline business	0	0	1	0
 พุฒตาล	puttan	0	0	1	0
 พู่กัน	pugun	0	0	1	0
 พู่กัน	brush	0	0	1	0
@@ -2228,9 +2135,6 @@
 เครื่องสาย	string instrument	0	0	1	0
 สุ่น	sun	0	0	1	0
 ปีจอโทศก	year of the dog	0	0	1	0
-นิยาม	symbols	0	0	1	0
-นิยาม	definition	0	0	1	0
-นิยาม	define	0	0	1	0
 ขนาดหน้าตัก	length between both knees of buddha statue in posture of meditation	0	0	1	0
 ขนาดหน้าตัก	lap size	0	0	1	0
 แทซิทัส	tacitus	1	1	0	0
@@ -2243,7 +2147,6 @@
 คณะสหเวชศาสตร์	อังกฤษ   faculty of allied health science	0	0	1	0
 อิน	in	0	0	1	0
 เทควันโด้	tai kwon do	0	0	1	0
-เทควันโด้	taekwondo	0	0	1	0
 ชาร์ลส	charles	0	0	1	0
 นากา	naga	0	0	1	0
 มิลจิ	mulji	0	0	1	0
@@ -2253,8 +2156,7 @@
 เวสต์	west	0	0	1	0
 เวสต์	west - surname	0	0	1	0
 วันที่เข้าฉาย	release date	0	0	1	0
-ท้องสนามหลวง	sanamloung - a landmark in thailand	0	0	1	0
-การพัฒนา	development	0	0	1	0
+วัฒนชัย	wattanachai - a surname	0	0	1	0
 นายชาญชัย	chanchai	0	0	1	0
 ตระกูล	family	0	0	1	1
 ภูมิภาค	region	0	0	1	0
@@ -2262,7 +2164,6 @@
 ยีน	gene	0	0	1	0
 คือประมาณ	close to	0	0	1	0
 คือประมาณ	estimated to be	0	0	1	0
-เครื่องเป่า	wind (musical) instrument)	0	0	1	0
 โรงพยาบาลอานันทมหิดล	ananthamahidol hospital	0	0	1	0
 คาบูโตะ	kabuto	0	0	1	0
 สิงหาคม	august	0	0	1	1
@@ -2277,11 +2178,9 @@
 สปริงฟิลด์	springfield	0	0	1	0
 อิม	im	0	0	1	0
 แหวนมาเล่ริง	ring (faux jewelry)	0	0	1	0
-โซน	zone	0	0	1	0
 สราวุธ	sarawut	0	0	1	0
 จันทร	moon	0	0	1	0
 จันทร	chantorn	0	0	1	0
-บูมเมอแรง	boomerang	0	0	1	0
 และ	and	0	0	1	0
 ต่าง	different	0	0	1	0
 ต่าง	various	0	0	1	1
@@ -2291,13 +2190,13 @@
 สถาบันเทคโนโลยีราชมงคล	technology department of raj monkol	0	0	1	0
 สถาบันเทคโนโลยีราชมงคล	ratchamongkol institute of technology	0	0	1	0
 ความส่องสว่าง	luminance	0	0	1	0
-ศรีนวล	sinuan	0	0	1	0
-โยฮันน์	johann	0	0	1	0
+รหัส	code	0	0	1	0
+โนรา	nora	0	0	1	0
 ประหยัด	cheap	0	0	1	0
 ประหยัด	thrifty	0	0	1	0
 ณภัทร	napat	0	0	1	0
 เหตุการณ์	situation	0	0	1	0
-ประเด็นที่	point number	0	0	1	0
+บทสวดสรภัญญะที่ขึ้นต้นด้วยธรรมมะคือ	a buddhist prayer	0	0	1	0
 แทนเจนต์	tangent	0	0	1	0
 ไม้กวาด	broom	1	1	0	0
 ไม้กวาด	special	1	0	1	0
@@ -2318,8 +2217,6 @@
 การบริหารราชการแผ่นดิน	administration	0	0	1	0
 หมวดหมู่ชาวไทยที่นับถือศาสนาพุทธ	category:thai buddhists	0	0	1	0
 ดีเวลลอปเมนท์	development	0	0	1	0
-ก่อนที่จะตกเป็นของฝรั่งเศสในเวลาต่อมา	belonging to france	0	0	1	0
-ก่อนที่จะตกเป็นของฝรั่งเศสในเวลาต่อมา	under the control of france	0	0	1	0
 เป็นเครื่องหมายแสดงว่า	indicates that	0	0	1	0
 กลุ่มที่	group	0	0	1	0
 เครื่องบิน	airplane	0	0	1	0
@@ -2333,8 +2230,7 @@
 ในปี	in the year	0	0	1	0
 คำสร้อย	kumsoi - a country singer	0	0	1	0
 เอ็น	n	0	0	1	0
-หน่วยทหารในค่าย	units in camp	0	0	1	0
-หน่วยทหารในค่าย	soldiers in the group	0	0	1	0
+กีฏวิทยา	entomology	0	0	1	0
 ศีลธรรม	mined.	0	0	1	0
 อำเภอแม่แตง	mae taeng district	0	0	1	0
 โฮลดิ้ง	holdings	0	0	1	0
@@ -2403,12 +2299,10 @@
 แหล่งท่องเที่ยว	tourist attraction	0	0	1	0
 นิฮง	a japanese reading language	0	0	1	0
 นิฮง	nippon or nikon	0	0	1	0
-นิฮง	nihon	0	0	1	0
 บลู	blue	0	0	1	0
 เสนอชื่อเข้าชิงและรับรางวัล	nominate and win	0	0	1	0
 เขตบางขุนเทียน	khet bang khun thian	0	0	1	0
-อภินันท์	ahpinun - a male's name	0	0	1	0
-อภินันท์	apinan	0	0	1	0
+พรรคการเมืองใหม่	kan mai meung political party	0	0	1	0
 ข้าวสาลี	wheat	0	0	1	0
 ดุสิต	dusit	0	0	1	0
 ดุสิต	dusit - a male's name	0	0	1	0
@@ -2437,10 +2331,6 @@
 เม่น	temporary	1	0	1	0
 เม่น	erinaceidae	1	1	0	0
 มาร์แชล	marshall	0	0	1	0
-อลังการ	a-lung-garn	0	0	1	0
-อลังการ	alungan - the name of a movie theater in thailand	0	0	1	0
-อลังการ	thai theatre in pattaya	0	0	1	0
-อลังการ	alangkarn	0	0	1	0
 อนันดา	ananda	0	0	1	0
 แพร่	the state of praa	0	0	1	0
 แพร่	spread	0	0	1	0
@@ -2484,14 +2374,12 @@
 ศรชัย	sornchai - a male's name	0	0	1	0
 ยุวธิดา	yuwatidah	0	0	1	0
 ยุวธิดา	yuvathida - the second wife of the crown prince of thailand	0	0	1	0
-ยุวธิดา	yuvadhida	0	0	1	0
 อำเภอบ้านลาด	bahn lad district	0	0	1	0
 อำเภอบ้านลาด	ban lat district	0	0	1	0
 หมวดหมู่โรค	group of disease	0	0	1	0
 ปริญญา	degree	0	0	1	0
 ละครวิทยุ	soap opera broadcasted on the radio	0	0	1	0
 ละครวิทยุ	radio play	0	0	1	0
-ให้พลเอกเปรม	general prem - a former military figure	0	0	1	0
 ผ้าไหม	silk cloth	0	0	1	0
 วงแหวน	ring form	0	0	1	0
 วงแหวน	circle form	0	0	1	0
@@ -2512,10 +2400,6 @@
 บ้านเขว้า	ban khwao	0	0	1	0
 บ้านเขว้า	bahn kaywah	0	0	1	0
 บ้านเขว้า	an area in thailand	0	0	1	0
-ศศิธร	sasitorn - a females name	0	0	1	0
-ศศิธร	sasithon	0	0	1	0
-ของร่างกาย	of the body	0	0	1	0
-ของร่างกาย	for the body	0	0	1	0
 เนกิมะ	nekima	0	0	1	0
 ปลาย	at the end	0	0	1	0
 ปลาย	int the end	0	0	1	0
@@ -2530,8 +2414,8 @@
 กะโหลกศีรษะ	moscow	1	0	1	0
 กะโหลกศีรษะ	moscovite	1	0	1	0
 กะโหลกศีรษะ	skull	1	1	0	0
-ธรรมศักดิ์	tamasak - surname of an elected prime minister	0	0	1	0
-ธรรมศักดิ์	dharmasakti	0	0	1	0
+สงครามเกาหลี	korean war	0	0	1	0
+สงครามเกาหลี	korea war	0	0	1	0
 เดคลิเนชัน	top	1	0	1	0
 เดคลิเนชัน	declination	1	1	0	0
 เดคลิเนชัน	highest	1	0	1	0
@@ -2545,7 +2429,6 @@
 บอยซ์	boyce	0	0	1	0
 ปูต้ม	crab boil	0	0	1	0
 ปูต้ม	boiled crab	0	0	1	0
-ฤดูกาล	season	0	0	1	0
 แบทเทิลบรอลเลอร์	battle brawlers	0	0	1	0
 เพ็ชรทาย	petchtai	0	0	1	0
 เพ็ชรทาย	phetthai	0	0	1	0
@@ -2558,7 +2441,6 @@
 ชำนิ	chumni - a location in thailand	0	0	1	0
 จึงเปิดโอกาสให้	open up opportunities	0	0	1	0
 โคกสำโรง	koksamrong	0	0	1	0
-โคกสำโรง	khok samrong	0	0	1	0
 โคกสำโรง	koksamlong	0	0	1	0
 ทิวานนท์	tiwanon	0	0	1	0
 ทิวานนท์	thiwanon	0	0	1	0
@@ -2569,7 +2451,7 @@
 ซบที่อกฉัน	i bowed to the chest.	0	0	1	0
 ซบที่อกฉัน	cry in my arms	0	0	1	0
 ถึงเดือนกรกฎาคม	starting july	0	0	1	0
-เปล่งพานิช	plengpanich	0	0	1	0
+ที่เกิดขึ้น	appear	0	0	1	0
 ระบบรัฐสภา	rajya sabha system of governing	0	0	1	0
 งานเขียน	composition work	0	0	1	0
 งานเขียน	writing	0	0	1	0
@@ -2580,6 +2462,8 @@
 เบจิต้า	vegeta	0	0	1	0
 รถไฟฟ้าชานเมืองสายสีแดงอ่อน	rapid transit light red line	0	0	1	0
 รถไฟฟ้าชานเมืองสายสีแดงอ่อน	light red line suburb railcar	0	0	1	0
+ท่านอ้วน	than uan	0	0	1	0
+ท่านอ้วน	master auan	0	0	1	0
 จูเซปเป	giuseppe	0	0	1	0
 อำเภอดอยสะเก็ด	doi saket district	0	0	1	0
 ยุคศตวรรษที่	century	0	0	1	0
@@ -2594,6 +2478,7 @@
 วาเรีย	bavaria	0	0	1	0
 วาเรีย	varia	0	0	1	0
 มีพรมแดนทางทิศใต้จรดกับอ่าวไทย	having boundaries adjacent to the gulf of thailand	0	0	1	0
+ธปท	bot	0	0	1	0
 เพลงปิดเรื่อง	ending song	0	0	1	0
 เพลงปิดเรื่อง	pid reung song	0	0	1	0
 และออกซิเจน	and oxygen	0	0	1	0
@@ -2620,11 +2505,6 @@
 บันเทิง	entertainment	0	0	1	0
 หลักสี่	luk sri - a location in bangkok	0	0	1	0
 เรือเร็วโจมตี	fast attack craft	0	0	1	0
-กำลังดำเนินการ	being executed	0	0	1	0
-กำลังดำเนินการ	being carried out	0	0	1	0
-กำลังดำเนินการ	etc.	0	0	1	0
-กำลังดำเนินการ	being conducted	0	0	1	0
-กำลังดำเนินการ	in the process of being carried out	0	0	1	0
 ได้ร่วมกันในภารกิจในด้านต่าง	participated in activities	0	0	1	0
 ได้ร่วมกันในภารกิจในด้านต่าง	join together at function	0	0	1	0
 ได้ร่วมกันในภารกิจในด้านต่าง	cooperate	0	0	1	0
@@ -2679,18 +2559,15 @@
 เป็นบัวในสกุล	is a lotus in the family	0	0	1	0
 หนังสือลามก	pornographic magazines	0	0	1	0
 กรมอุตุนิยมวิทยา	meteorological department	0	0	1	0
-กรมอุตุนิยมวิทยา	the meteorology department	0	0	1	0
 ป่าเบญจพรรณ	mixed forest	0	0	1	0
 กุ้งต้ม	boiled shrimp	0	0	1	0
 ฟีฟ่าคลับเวิลด์คัพ	fifa world cup	0	0	1	0
-ฟีฟ่าคลับเวิลด์คัพ	fifa club world cup	0	0	1	0
 อรทัย	orathai - surname of a thai country singer	0	0	1	0
 อเมริกาเหนือ	north america	0	0	1	0
 กลองมโหระทึก	big drum	0	0	1	0
 สภานิติบัญญัติแห่งชาติ	national diet	0	0	1	0
 สกุล	sakun	0	0	1	0
 เสชนะ	sechana	0	0	1	0
-นักกีฬา	athlete	0	0	1	0
 นาทาล	exactly: "natal;"  proper name: natarle	0	0	1	0
 นาทาล	natarle	0	0	1	0
 สาขานิเทศศาสตร์	faculty of communication arts	0	0	1	0
@@ -2701,7 +2578,6 @@
 รัฐประหาร	order from the government to seize control	0	0	1	0
 รัฐประหาร	coup d'état	0	0	1	0
 เยอรมัน	german	0	0	1	0
-หนองฮี	nong hi - a location in thailand	0	0	1	0
 พัฒน์ชัย	famous singer	0	0	1	0
 พัฒน์ชัย	pattachai - a male's name	0	0	1	0
 พัฒน์ชัย	patchai	0	0	1	0
@@ -2717,7 +2593,6 @@
 จระเข้และแอลลิเกเตอร์	crocodile and alligator	0	0	1	0
 จะได้	results in	0	0	1	0
 จะได้	possess	0	0	1	0
-เกษตรกรรม	farming	0	0	1	0
 ซุปเปอร์เซ็นเตอร์	super center	0	0	1	0
 มิลฟีโอเล่	millefiore	0	0	1	0
 มือ	presence	1	0	1	0
@@ -2727,7 +2602,6 @@
 อำเภอเมืองอุตรดิตถ์	mueang uttaradit district	0	0	1	0
 อำเภอเมืองอุตรดิตถ์	donkey	0	0	1	0
 นิตยสารชีวจิต	cheewajit magazine (name of the magazine)	0	0	1	0
-นิตยสารชีวจิต	real life drama	0	0	1	0
 ของสิ่งมีชีวิต	living things	0	0	1	0
 ไกลกังวล	klai kangwon	0	0	1	0
 แอนดรอยด์	android	0	0	1	0
@@ -2753,7 +2627,7 @@
 วิศวกร	belongs	1	0	1	0
 วิศวกร	belonges	1	0	1	0
 วิศวกร	engineer	1	1	0	0
-หมวดหมู่บุคคลจากโรงเรียนนายร้อยพระจุลจอมเกล้า	catagory: people from prchomklhaw academy	0	0	1	0
+รัฐสีมาคุณากรปิยชาติ	ratthasimakhunakonpiyachat	0	0	1	0
 เพลงประจำจังหวัด	province anthem	0	0	1	0
 อำเภอบางบัวทอง	bang bua thong district	0	0	1	0
 คณะที่	the current administration	0	0	1	0
@@ -2761,10 +2635,10 @@
 เมทริกซ์	intelligence	1	0	1	0
 เมทริกซ์	matrix	1	1	0	0
 แฟชั่น	fashion	0	0	1	0
+แอมเวย์	amway	0	0	1	0
 เมืองนครราชสีมา	nakornrachasrima city	0	0	1	0
 นโยบายทางการทูตของจีน	china;s foreign policies	0	0	1	0
 อำเภอคูเมือง	khu mueang district	0	0	1	0
-วันพุธ	wednesday	0	0	1	1
 พระยศขณะนั้น	the current title	0	0	1	0
 ด็อก	dog	0	0	1	0
 สะดวก	convenient	0	0	1	0
@@ -2779,7 +2653,6 @@
 คอนสตรัคชั่น	construction	0	0	1	0
 คอนสตรัคชั่น	the length in the evening.	0	0	1	0
 ปลาในสกุลนี้เรียกว่า	the fish in this family is called _________	0	0	1	0
-ปลาในสกุลนี้เรียกว่า	fishes in this genus are called	0	0	1	0
 โมร็อกโก	morocco	0	0	1	0
 จุดจอมฟ้า	adults	1	0	1	0
 จุดจอมฟ้า	zenith	1	1	0	0
@@ -2799,16 +2672,15 @@
 เพลง	music	1	1	0	0
 เพลง	song	1	1	0	0
 วัดพระลอย	wat phra loi	0	0	1	0
-แคมใหญ่	labia	0	0	1	0
 ไชยกิตติ	chaikitti	0	0	1	0
 วิโนทัย	winothai	0	0	1	0
 วิโนทัย	winothai - a surname	0	0	1	0
 คุณ	you	0	0	1	1
-ผลกระทบ	impact	0	0	1	0
+ข้าวหลาม	bamboo rice	0	0	1	0
 พาวเวอร์บาย	power buy	0	0	1	0
 ท่องอาณาจักรโฮ่งเหมียว	traveling the kingdom of woof-meow	0	0	1	0
 ท่องอาณาจักรโฮ่งเหมียว	hong meow province in a movie	0	0	1	0
-ออกอากาศ	on the air	0	0	1	0
+มีโคลซีน	meclizine	1	1	0	0
 อาร์มาดิลโล	agency	1	0	1	0
 อาร์มาดิลโล	armadillo	1	1	0	0
 พีท	pete	0	0	1	0
@@ -2820,8 +2692,8 @@
 โพรทิสต์	myth	1	0	1	0
 โพรทิสต์	protist	1	1	0	0
 ไซโปรเฮปตาดีน	cyproheptadine	1	1	0	0
-บี้	flatten	0	0	1	0
-นี่คือ	this is	0	0	1	0
+เปียโน	piano	0	0	1	0
+นักกีฬา	athlete	0	0	1	0
 เพียงพอ	enough	0	0	1	0
 เพชรเกษม	petchakasem area in bangkok	0	0	1	0
 ไม่มีแขน	armless	0	0	1	0
@@ -2858,10 +2730,10 @@
 วันเสาร์	saturday	0	0	1	1
 อำเภอครบุรี	amphur kornburi	0	0	1	0
 อำเภอครบุรี	kornburi district	0	0	1	0
-วิลเลียม	williams	0	0	1	0
+ดวงอาทิตย์	sun	0	0	1	0
 มีทิวเขาล้อมรอบทางเหนือ	surrounded by the mountains in the north	0	0	1	0
 วิลลี่	willy	0	0	1	0
-โรงเรียนไตรมิตรวิทยาลัย	trimittavitayalai school	0	0	1	0
+ฟุตซอล	futsal	0	0	1	0
 การท่าเรือ	port authority	0	0	1	0
 ทุกครั้ง	every time	0	0	1	0
 ทุกครั้ง	everytime	0	0	1	0
@@ -2922,8 +2794,8 @@
 หมวดหมู่นายกรัฐมนตรีไทย	category:prime ministers of thailand	0	0	1	0
 หมวดหมู่นายกรัฐมนตรีไทย	thai prime ministers	0	0	1	0
 ตำบลสังขะ	thambol sangka	0	0	1	0
-วัดโพธิ์	wat po - a thai temple	0	0	1	0
-อนาลโย	analayo	0	0	1	0
+เครือข่าย	network	0	0	1	0
+วิลเลียม	williams	0	0	1	0
 เนื่องจาก	because	0	0	1	0
 การค้า	marketing	0	0	1	0
 ในภายหลัง	background	0	0	1	0
@@ -2939,9 +2811,7 @@
 มอสส์	worked	1	0	1	0
 มอสส์	busy	1	0	1	0
 มอสส์	moss	1	1	0	0
-เฮาส์	house	0	0	1	0
 อลิซ	alice	0	0	1	0
-บทสวดบาลีที่ขึ้นต้นด้วยอรหัง	pali mantra started with "arhat"	0	0	1	0
 ตะกร้อ	takraw	0	0	1	0
 ตะกร้อ	rattan ball	0	0	1	0
 ภาษาเฉพาะอาชีพ	went into	1	0	1	0
@@ -2950,7 +2820,7 @@
 ภาษาเฉพาะอาชีพ	shop talk	1	0	1	0
 บราซิเลีย	brazilia	0	0	1	0
 บราซิเลีย	brazilian	0	0	1	0
-และรถไฟ	and railways	0	0	1	0
+มิลตัน	milton	0	0	1	0
 ฐานข้อมูล	database	0	0	1	0
 หมู่ที่	moo.	0	0	1	0
 โบแดง	bodin	0	0	1	0
@@ -2961,7 +2831,9 @@
 บรรพชีวินวิทยา	paleontology	0	0	1	0
 หลอก	fake	0	0	1	0
 หลอก	fooling someone	0	0	1	0
-วิเศษ	wiset	0	0	1	0
+ศรีสำโรง	sri som roang area in thailand	0	0	1	0
+ศรีสำโรง	si samrong	0	0	1	0
+ศรีสำโรง	srisamrong	0	0	1	0
 เซกิ	seki	0	0	1	0
 เซกิ	segi	0	0	1	0
 ไฮยาซินธ์	hyacinth	1	1	0	0
@@ -2974,15 +2846,15 @@
 โบตั๋นกลีบสุดท้าย	botun kleep suttai - a novel	0	0	1	0
 คุณปลื้ม	kunpleam	0	0	1	0
 คุณปลื้ม	koon pleum - former prime minister of thailand	0	0	1	0
-แหล่งโบราณคดีบ้านเชียง	ban chiang archaeological site	0	0	1	0
+คัชชินสกี	kaczyński	0	0	1	0
+คัชชินสกี	kazinski	0	0	1	0
 ผู้ว่าราชการจังหวัด	the governor of the city	0	0	1	0
 พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว	phrabat somdet phra poramintharamaha - 7th king of thailand	0	0	1	0
 พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว	phra bat somdet phra pok klao chao yu hua (king rama vii)	0	0	1	0
-เมืองปทุมธานี	mueang pathum thani	0	0	1	0
+ในเดือนมีนาคม	in april	0	0	1	0
 ตลาดโลตัส	lotus market	0	0	1	0
 สำนักเทคโนโลยีการเกษตร	office of thai agriculture	0	0	1	0
 มาสคาร่า	mascara	1	1	0	0
-มิลตัน	milton	0	0	1	0
 แก้งคร้อ	kraw gang	0	0	1	0
 อนุสรณ์สถาน	monument	0	0	1	0
 ชนิด	kind	0	0	1	1
@@ -2990,7 +2862,6 @@
 ทองหยอด	eggdrop sweet	0	0	1	0
 สิทธิ	toma	1	0	1	0
 สิทธิ	rights	1	1	0	0
-สิทธิ	siddhi	1	0	1	0
 เนื้อที่	area	0	0	1	0
 กบฏทหารนอกราชการ	coup de lat	0	0	1	0
 นักร้องเสียงหลัก	lead singer	0	0	1	0
@@ -3056,13 +2927,14 @@
 การปกครองท้องถิ่น	how to take care of the city.	0	0	1	0
 การปกครองท้องถิ่น	local administration	0	0	1	0
 อินุยาฉะ	inuyacha - a japanese cartoon	0	0	1	0
-ฮันกึล	hangeul	0	0	1	0
+ปุณณกันต์	bhunnagun	0	0	1	0
+ปุณณกันต์	punkanon - a surname	0	0	1	0
+ปุณณกันต์	punnagun (last name)	0	0	1	0
 ไมโครซอฟท์	microsoft	0	0	1	0
 มาเลเซียตะวันตก	west malaysia	0	0	1	0
 ดังเช่น	such as	0	0	1	0
 ในเอเชียตะวันออกเฉียงใต้	in southeast asia.	0	0	1	0
 อสามชุก	suphan buri province	0	0	1	0
-อสามชุก	samshook province	0	0	1	0
 อสามชุก	sam chuk district	0	0	1	0
 กรมขุนเพ็ชรบูรณ์อินทราชัย	department of....	0	0	1	0
 ภาควิชาวิศวกรรมไฟฟ้า	engineering department	0	0	1	0
@@ -3071,17 +2943,17 @@
 กขขข	4 of thai letters	0	0	1	0
 เทียนทอง	tientong - a male's name	0	0	1	0
 เจ้าฟ้ามหิดลอดุลยเดช	prince mahidol adulyadej	0	0	1	0
-ไวรัสตับอักเสบ	hepatitis	0	0	1	0
-ยศ	rank	0	0	1	1
+อุทยานแห่งชาติภูแลนคา	phu laenkha national park	0	0	1	0
+อุทยานแห่งชาติภูแลนคา	lanka national park	0	0	1	0
+พิชิต	phichit	0	0	1	0
+พิชิต	pichit	0	0	1	0
 ตาระวา	tarawa	1	1	0	0
-ดาราศาสตร์รังสีเอ็กซ์	xray astronomy	0	0	1	0
 ดาราศาสตร์รังสีเอ็กซ์	x-ray astronomy	0	0	1	0
 ตา	ta (a person's name)	0	0	1	0
 จเพชรบูรณ์	province pechaboon	0	0	1	0
 รูดอล์ฟ	rudolf	0	0	1	0
 มหาวชิรมงกุฎ	the biggest crown of the king	0	0	1	0
 ภาษาญี่ปุ่น	japanese language	0	0	1	0
-นักบินของออร์บ	orb pilot	0	0	1	0
 นักบินของออร์บ	the pilot of orb	0	0	1	0
 ปวันรัตน์	pavunnarat - a surname	0	0	1	0
 ยู	u	0	0	1	0
@@ -3103,13 +2975,11 @@
 พิบูลมังสาหาร	pi bul mung sa har (province name)	0	0	1	0
 พิบูลมังสาหาร	piboonmungsakharn	0	0	1	0
 ซึ่งมี	with	0	0	1	0
-อัลบั้ม	album	0	0	1	0
 ฮิวงะ	hewnga - a japanese name from a story	0	0	1	0
 หนึ่ง	one	0	0	1	0
 ปัน	pun	0	0	1	0
 ปัน	pan	0	0	1	0
 เสือจากัวร์	jaquar	0	0	1	0
-เสือจากัวร์	jaguar	0	0	1	0
 โฟลเอ็ม	women	1	0	1	0
 โฟลเอ็ม	phloem	1	1	0	0
 อำเภออมก๋อย	thailand	0	0	1	0
@@ -3142,11 +3012,9 @@
 ฟัน	used	1	0	1	0
 ฟัน	tooth	1	1	0	1
 ลา	goodbye	0	0	1	0
-รหัส	code	0	0	1	0
 เขื่อนแม่งัดสมบูรณ์ชล	mae ngad somboon chol dam	0	0	1	0
 เขื่อนแม่งัดสมบูรณ์ชล	mae ngud som bul chol dam in chiangmai	0	0	1	0
 หวาย	bamboo	0	0	1	0
-พยายามชี้ให้สาธารณชนและนานาชาติ	encourage to promote the people and international policies	0	0	1	0
 พยายามชี้ให้สาธารณชนและนานาชาติ	trying to point out to public and internationals	0	0	1	0
 มีสูตรการคำนวณหาจำนวนฟัน	dental formula	0	0	1	0
 ลักษณะ	characteristic	0	0	1	0
@@ -3177,7 +3045,8 @@
 ทองขาว	thongcow	0	0	1	0
 พระปรางค์สามยอด	prapang samyod	0	0	1	0
 พระปรางค์สามยอด	phra prang sam yot	0	0	1	0
-อันประกอบด้วย	consists of	0	0	1	0
+ค่ำแล้ว	getting dark	0	0	1	0
+ค่ำแล้ว	at dusk	0	0	1	0
 ริน	rin	0	0	1	0
 หมู่เกาะแบลีแอริก	balearic island in spain	0	0	1	0
 ราชวงศ์พระร่วง	pra roung dynasty	0	0	1	0
@@ -3201,17 +3070,13 @@
 ไฟนอลแฟนตาซี	final fantasy	0	0	1	0
 อำเภอปากพนัง	pak phanang district	0	0	1	0
 พลเรือเอก	admiral	0	0	1	0
-ไทยานนท์	thaiyanon	0	0	1	0
-ไทยานนท์	taiyanon - a thai surname	0	0	1	0
+โบราณสถาน	the ancient place	0	0	1	0
 แบ่งออกได้เป็น	divided into	0	0	1	0
-เขตดุสิต	khet dusit	0	0	1	0
-ทิฆัมพรธีรวงศ์	timkamporntiravong (thai last name)	0	0	1	0
 ทิฆัมพรธีรวงศ์	timakponteerawong - a surname	0	0	1	0
-โอ	o	0	0	1	0
 สาขาวิชาเศรษฐศาสตร์	finance department	0	0	1	0
 สีน้ำตาล	brown	0	0	1	0
 สีน้ำตาล	brown color	0	0	1	0
-พรรคภูมิใจไทย	bhumjaithai party	0	0	1	0
+โรงแรม	hotel	0	0	1	0
 สัญลักษณ์ประจำมหาวิทยาลัย	logo of the university	0	0	1	0
 สัญลักษณ์ประจำมหาวิทยาลัย	university emblem	0	0	1	0
 เมืองหลวงของอาณาจักรเขมร	capital of cambudia	0	0	1	0
@@ -3233,16 +3098,14 @@
 มีนวิทยา	ichthyology -  study of fish	1	0	1	0
 มีนวิทยา	learn	1	0	1	0
 เป๊ปซี่	pepsi	0	0	1	0
+ฯพณฯ	two thai alphabets.  abbreviation that means many things	0	0	1	0
 อำเภอห้างฉัตร	hang chat province	0	0	1	0
-อำเภอห้างฉัตร	hang chat district	0	0	1	0
 สะตอ	sator	0	0	1	0
-สะตอ	bitter bean	0	0	1	0
 ชื่อนามสกุล	name-lastname	0	0	1	0
 โรงเรียนวัฒโนทัยพายัพ	vattanotaipayup school	0	0	1	0
 องค์ประกันหงสา	prakunhongsa - a famous person from the ancient time	0	0	1	0
 เหรียญ	coin	0	0	1	0
 แจ๊ส	jazz	0	0	1	0
-พงศ์เรืองรอง	surname "pong reuang-rong"	0	0	1	0
 พงศ์เรืองรอง	pongruangrong	0	0	1	0
 พื้นที่ของรูปสามเหลี่ยม	the area of a triagle	0	0	1	0
 จังหวัดเพชรบุรี	phetchaburi province	0	0	1	0
@@ -3255,7 +3118,6 @@
 นำกลับมาสร้างใหม่อีกครั้ง	remake (of an old movie)	0	0	1	0
 นำกลับมาสร้างใหม่อีกครั้ง	remake	0	0	1	0
 ทรงถือหุ้นจำนวน	stock ownership	0	0	1	0
-ทรงถือหุ้นจำนวน	holding stocks	0	0	1	0
 วงศ์แคหางค่าง	plants in kae-hang-kang family	1	0	1	0
 วงศ์แคหางค่าง	bignoniaceae	1	1	0	0
 วงศ์แคหางค่าง	mission	1	0	1	0
@@ -3263,14 +3125,12 @@
 กลุ่มแสงอุษา	light at dawn	0	0	1	0
 จังหวัดเลย	loei (name of thai province)	0	0	1	0
 ภาพยนตร์ชุดนี้	this series	0	0	1	0
-ภาพยนตร์ชุดนี้	this feature film	0	0	1	0
-พระพุทธบาท	phra phutthabat	0	0	1	0
 ผลสำรวจ	survey results	0	0	1	0
 ปีเตอร์	peter	0	0	1	0
 คุ้มค่า	worth the money spent on	0	0	1	0
 มาจากภาษาละติน	from latin root	0	0	1	0
 มาจากภาษาละติน	from latin	0	0	1	0
-เทศบาลเมืองชัยภูมิ	mueang chaiyaphum	0	0	1	0
+พงศ์ศิลป์พิพัฒน์	pongsinpipat	0	0	1	0
 ธรณีสัณฐานวิทยา	geomorphology	1	1	0	0
 ธรณีสัณฐานวิทยา	moscow	1	0	1	0
 ธรณีสัณฐานวิทยา	geomorphology.	1	1	0	0
@@ -3285,7 +3145,6 @@
 เป็ด	duck	0	0	1	0
 ตรานี้	this seal	0	0	1	0
 จียอน	๋jiyeon (korean name)	0	0	1	0
-๒๕๓๔	2534	0	0	1	0
 เนื้อเรื่องย่อ	summary	0	0	1	0
 ขขขขขขขขขข	repeated letter from thai alphabet	0	0	1	0
 พวกสัตว์ลำตัวกลม	animals with no backbones	1	1	0	0
@@ -3320,18 +3179,15 @@
 วชิรบรรจง	sighted in the tender.	0	0	1	0
 ชิงร้อย	ching roi	0	0	1	0
 ชิงร้อย	ching roi - a game to compete for 1 million baht	0	0	1	0
-ทอง	gold	0	0	1	1
-ทอง	thong	0	0	1	0
+จาก	from	0	0	1	0
 คิงส์คัพ	king's cup	0	0	1	0
 โฟโตสเฟียร์	photosphere	0	0	1	0
-คปค	3 thai letters	0	0	1	0
 พิออจชา	piodcha	0	0	1	0
 การประมง	fishery	0	0	1	0
 การประมง	fishery industry	0	0	1	0
 อวัยวะสืบพันธุ์สตรีด้านนอก	genital characters of the women on the outside	0	0	1	0
 อวัยวะสืบพันธุ์สตรีด้านนอก	femal reproductive system	0	0	1	0
 อะลูมิเนียม	aluminum	0	0	1	0
-อาณาจักรอยุธยาเริ่มเสื่อมอำนาจลงราวพุทธศตวรรษที่	ayutthaya kingdom had started to downfall around 24 b.e.	0	0	1	0
 หมวดหมู่บริษัทที่ก่อตั้งในปี	category:companies established in	0	0	1	0
 พรนารายณ์	phonnarai	0	0	1	0
 พรนารายณ์	pon narai - a surname of a ter	0	0	1	0
@@ -3359,7 +3215,6 @@
 จังหวัดนครสวรรค์	nakorn sawan province in thailand	0	0	1	0
 ในช่วงสงครามเย็น	during the cold war	0	0	1	0
 อำเภอปราสาท	amphor-prasart	0	0	1	0
-อำเภอปราสาท	prasat district	0	0	1	0
 วัดหนองเพียร	wat nong pien - a temple in thailand	0	0	1	0
 คม	sharp	0	0	1	0
 นครหลวงเวียงจันทน์	vientiane	0	0	1	0
@@ -3382,7 +3237,7 @@
 วิศวกรรมเครื่องกล	engineering	0	0	1	0
 จูเนียร์	junior	0	0	1	0
 นั่นเอง	that is	0	0	1	0
-ประติมากรรม	production of a play	0	0	1	0
+การเพิ่มสิทธิประโยชน์แก่นักลงทุนต่างประเทศ	increase benefits for foreign investors	0	0	1	0
 ธนบุรี	thonburi province	0	0	1	0
 ธนบุรี	thonburi	0	0	1	0
 ไข้สูง	high fever	0	0	1	0
@@ -3397,9 +3252,7 @@
 เป็นอดีตหัวหน้าหน่วยที่	is the former leader of the unit	0	0	1	0
 เป็นอดีตหัวหน้าหน่วยที่	was the former captain	0	0	1	0
 ก๊าซธรรมชาติ	natural gas	0	0	1	0
-ภูมิรัตน์	bhumirat (last name)	0	0	1	0
-ภูมิรัตน์	poomirath	0	0	1	0
-ภูมิรัตน์	the mountain not the night	0	0	1	0
+ในขณะที่	while	0	0	1	0
 เท่ง	teng (first name)	0	0	1	0
 เท่ง	teng - a male's name	0	0	1	0
 เท่ง	theng	0	0	1	0
@@ -3484,9 +3337,7 @@
 แป้ง	flour	0	0	1	1
 แป้ง	pang	0	0	1	0
 แป้ง	powder	0	0	1	0
-สุขสวัสดิ์	suksawas	0	0	1	0
-สุขสวัสดิ์	suksawat	0	0	1	0
-สุขสวัสดิ์	happy	0	0	1	0
+ทีฆนิกาย	tee ka ni kai bible	0	0	1	0
 กานซู	kanshu	0	0	1	0
 กานซู	honshu in china	0	0	1	0
 เรียวเฮ	reohay - a japanese character	0	0	1	0
@@ -3497,8 +3348,6 @@
 ประตู	door	0	0	1	0
 ความสัมพันธ์ระหว่างจีนกับอเมริกา	relationship with china and the usa	0	0	1	0
 นา	na	0	0	1	0
-อำเภอทับคล้อ	amphoe tap khlo	0	0	1	0
-อำเภอทับคล้อ	tab kloe state	0	0	1	0
 เดนโอเบลท์	den-o belt	0	0	1	0
 เดนโอเบลท์	denobel brand	0	0	1	0
 กำแพงเมืองจีน	the great wall of china	0	0	1	0
@@ -3514,11 +3363,8 @@
 ออกเป็น	into	0	0	1	0
 บนบก	on land	0	0	1	0
 ภารกิจ	business	0	0	1	0
-ศรีสำโรง	sri som roang area in thailand	0	0	1	0
-ศรีสำโรง	si samrong	0	0	1	0
-ศรีสำโรง	srisamrong	0	0	1	0
-รัฐอิลลินอยส์	state of illinois	0	0	1	0
-รัฐอิลลินอยส์	illinois	0	0	1	0
+วิเศษ	wiset	0	0	1	0
+จังหวัดแพร่	prae state	0	0	1	0
 มหาวิทยาลัยเทคโนโลยีราชมงคลตะวันออก	the eastern university of teachnology	0	0	1	0
 หมวดหมู่สิ้นสุดในคริสต์ศตวรรษที่	category: ended in xth century	0	0	1	0
 หมวดหมู่สิ้นสุดในคริสต์ศตวรรษที่	centuries	0	0	1	0
@@ -3539,9 +3385,10 @@
 อุทยานแห่งชาติหาดนพรัตน์ธาราหมู่เกาะพีพี	hat nopparatthara-mu ko phi phi national park	0	0	1	0
 อุทยานแห่งชาติหาดนพรัตน์ธาราหมู่เกาะพีพี	krabi	0	0	1	0
 อุทยานแห่งชาติหาดนพรัตน์ธาราหมู่เกาะพีพี	natural park naparatara beach - phiphi islands	0	0	1	0
-โปรเจกต์	project	0	0	1	0
-ข้อมูลทั่วไป	general information	0	0	1	0
-ข้อมูลทั่วไป	detail	0	0	1	0
+วิลเลี่ยม	william	0	0	1	0
+วิลเลี่ยม	william.	0	0	1	0
+วิลเลี่ยม	williams	0	0	1	0
+กันเอง	casual	0	0	1	0
 ล่ำซำ	lamsam	0	0	1	0
 ล่ำซำ	lumsom - famous surname in thailand in the business of bts electric railway	0	0	1	0
 ล่ำซำ	lumsum	0	0	1	0
@@ -3551,7 +3398,7 @@
 คณะบัญชี	accounting department (major)	0	0	1	0
 โรงพยาบาลกรุงเทพ	krung thep hospital	0	0	1	0
 แบรนด์แอมบาสเดอร์	brand ambassador	0	0	1	0
-เนื้อที่ประมาณ	approximate area	0	0	1	0
+แคมใหญ่	labia	0	0	1	0
 เฉลิม	chalerm - a male's name	0	0	1	0
 ผู้ฝึกสอน	trainer	0	0	1	0
 ผู้ฝึกสอน	instructor	0	0	1	0
@@ -3563,7 +3410,6 @@
 จากการพิสูจน์อายุโดยคาร์บอน	from the forensic carbon dating	0	0	1	0
 ประเทศสเปน	spain	0	0	1	0
 โครงการก่อสร้าง	project	0	0	1	0
-โครงการก่อสร้าง	construction project	0	0	1	0
 จนกระทั่งเมื่อปี	until the year	0	0	1	0
 มีชื่อเล่นว่า	nick name	0	0	1	0
 แมนเชสเตอร์	manchester	0	0	1	0
@@ -3583,8 +3429,8 @@
 ไพฑูรย์	phaithun	0	0	1	0
 สามัญ	common	0	0	1	0
 รายการวันสำคัญทางพุทธศาสนา	important days in buddhism	0	0	1	0
-ในเดือนมีนาคม	in april	0	0	1	0
-คางาริ	kagari	0	0	1	0
+สีฟ้า	blue	0	0	1	0
+สีฟ้า	blue color	0	0	1	0
 ซึ่งเรียกว่า	called	0	0	1	0
 พระยาสุนทรสงคราม	phraya sonthornsongkram (thai name)	0	0	1	0
 พระยาสุนทรสงคราม	prayasamutsongkram	0	0	1	0
@@ -3593,10 +3439,8 @@
 บังไค	bankai	0	0	1	0
 เดิมที	at first	0	0	1	0
 นีโอ	neo	0	0	1	0
-กระทรวงศึกษาธิการ	ministry of education	0	0	1	1
 กุหลาบ	kularb (first name)	0	0	1	0
 เศรษฐบุตร	settabut - the family that started bus system in thailand	0	0	1	0
-เศรษฐบุตร	sreshthaputa	0	0	1	0
 โคแทนเจนต์	cotangent	0	0	1	0
 เครื่องราชอิสริยาภรณ์	the king's accessories for ceremonies	0	0	1	0
 เครื่องราชอิสริยาภรณ์	order of merit	0	0	1	0
@@ -3619,7 +3463,6 @@
 วงเวียน	compass	0	0	1	0
 อินฟราเรด	infared	0	0	1	0
 อินฟราเรด	infra-red	0	0	1	0
-คณะพยาบาลศาสตร์	nursing department	0	0	1	0
 นที	natee - a male's name	0	0	1	0
 ผู้พิทักษ์แห่งอรุณ	guardian of the dawn.	0	0	1	0
 ๒๕๒๓	1980	0	0	1	0
@@ -3644,8 +3487,6 @@
 เม็ดขนุน	metkhanun	0	0	1	0
 แคม	cam	0	0	1	0
 เรือนนาค	nak castle	0	0	1	0
-เรือนนาค	rueannak	0	0	1	0
-ยามาโมโตะ	yamamoto	0	0	1	0
 ตี๋ใหญ่	ti yai	0	0	1	0
 ตะวันออกเฉียงเหนือ	east	0	0	1	0
 การละเล่นพื้นบ้าน	local game	0	0	1	0
@@ -3653,9 +3494,6 @@
 เจ้าฟ้ามหาวชิรุณหิศ	crown prince maha vajirunhis	0	0	1	0
 เจ้าฟ้ามหาวชิรุณหิศ	a name of a thai king	0	0	1	0
 ระบบสืบพันธุ์	reproductive system	0	0	1	0
-ยางธรรมชาติ	latex	1	1	0	0
-ยางธรรมชาติ	natural rubber	1	0	1	0
-ยางธรรมชาติ	social	1	0	1	0
 จันทร์ภักดี	juntapukdee - surname of a famous actor	0	0	1	0
 หมวดหมู่นักการเมืองไทย	politician	0	0	1	0
 หมวดหมู่นักการเมืองไทย	thai politicians	0	0	1	0
@@ -3681,7 +3519,7 @@
 ปี่กลาง	a thai woodwind instrument	0	0	1	0
 มหาวิทยาลัยทักษิณ	thaksin university	0	0	1	0
 สปาร์ค	spark	0	0	1	0
-แคนดี้	candy	0	0	1	0
+กบ	frog	0	0	1	0
 จัน	chan	0	0	1	0
 จัน	moon	0	0	1	0
 นิยม	name of a thai country music singer	0	0	1	0
@@ -3690,7 +3528,8 @@
 เทศวิศาล	tasavisakal - a surname	0	0	1	0
 เทศวิศาล	thetwisan	0	0	1	0
 รังสีเอกซ์	xray	0	0	1	0
-แยกจากคลองบางกอกใหญ่ฝั่งขวา	split from the bankok yai canal to the right	0	0	1	0
+ที่นี้	here	0	0	1	0
+ที่นี้	this place	0	0	1	0
 ธกรุงไทย	krung thai bank	0	0	1	0
 ธกรุงไทย	krungthai bank	0	0	1	0
 อำเภอเมืองนนทบุรี	nontaburi district	0	0	1	0
@@ -3708,8 +3547,7 @@
 สถิติศาสตร์	statistic	0	0	1	0
 สุดท้ายตายด้วยฝีมือ	eventually dies at the hand of	0	0	1	0
 สุดท้ายตายด้วยฝีมือ	killed by	0	0	1	0
-คอมพิวเตอร์ยุคที่	second generation etc)	0	0	1	0
-คอมพิวเตอร์ยุคที่	_-generation computer (as in frist generation	0	0	1	0
+บลูเบอร์รี่	blueberry	0	0	1	0
 แม่น้ำโขง	mekong	1	1	0	0
 แม่น้ำโขง	tango	1	0	1	0
 แม่น้ำโขง	mekong river	1	0	1	0
@@ -3728,7 +3566,6 @@
 ทางทิศตะวันออกติดกับเวียดนาม	east of vietnam	0	0	1	0
 วิฑูรย์	witoon	0	0	1	0
 อุทยานแห่งชาติภูพาน	phu phan national park	0	0	1	0
-เพชรา	petchara - name of a famous actress	0	0	1	0
 สาธารณรัฐโดมินิกัน	republic dominican	0	0	1	0
 สาธารณรัฐโดมินิกัน	dominican republic	0	0	1	0
 สามพราน	sam phran	0	0	1	0
@@ -3761,7 +3598,6 @@
 จมูก	career	1	0	1	0
 จมูก	nose	1	1	0	0
 จมูก	careers	1	0	1	0
-กอลมเบต์	glombet - a catholic priest	0	0	1	0
 กรุงธนบุรี	thonburi city	0	0	1	0
 สิทธิมนุษยชน	human rights	0	0	1	0
 บารัก	barack	0	0	1	0
@@ -3776,17 +3612,16 @@
 ศูนย์คอมพิวเตอร์	computer center	0	0	1	0
 ชัยยุทธ	chaiyuth (first name)	0	0	1	0
 ชัยยุทธ	chaiyut - a male's name	0	0	1	0
-มิฮอว์ค	mihawk - surname of a character in a japanese movie	0	0	1	0
 ตัวยักษ์	giant	0	0	1	0
 ทานากะ	tanage - a japanese name	0	0	1	0
 สูง	high	0	0	1	1
 สูง	height	0	0	1	0
 ดำรงค์	dumrong - a male's name	0	0	1	0
 โรงเรียนราชินีบน	rachinibon school in thailand	0	0	1	0
-สุริยัน	suriyan - a male actor	0	0	1	0
 เชาวน์	chow - a name	0	0	1	0
 ตลาด	market	0	0	1	1
-มัทนะพาธา	matthanaphatha	0	0	1	0
+ศศิธร	sasitorn - a females name	0	0	1	0
+ศศิธร	sasithon	0	0	1	0
 มสงขลานครินทร์	prince of songkla university	0	0	1	0
 เปลื้อง	nude	0	0	1	0
 ศรีเมือง	srimoung - surname of former leader of palungtum political party	0	0	1	0
@@ -3800,25 +3635,20 @@
 เข่า	knee	0	0	1	1
 ปัจจุบันประเทศไทยมีภาพยนตร์ที่มุ่งสู่ตลาดโลก	currently thailand has international movies	0	0	1	0
 อาเจียน	vomit	0	0	1	0
-อาเจียน	vomiting	0	0	1	0
 ช่องเชิงเทิน	machicolation	1	1	0	0
 ธิติกานต์	thitikan	0	0	1	0
-มโนราห์	thai dance art	0	0	1	0
 กระทรวงกลาโหม	defense ministry	0	0	1	0
 กระทรวงกลาโหม	thai parliament	0	0	1	0
 รายพระนามพระมหากษัตริย์ไทย	list of thai monarchs	0	0	1	0
 อัญมณี	gem	0	0	1	0
 มีขนาดใหญ่	big	0	0	1	0
 มีขนาดใหญ่	it is large; large is available; it is available in large	0	0	1	0
-คงเจริญ	khongcharoen	0	0	1	0
 คงเจริญ	kongjarern - a thai surname	0	0	1	0
 ครุฑ	garuda	0	0	1	1
-ครุฑ	kroot - a mystical animal in thai legend	0	0	1	0
 ครุฑ	a hybrid mythical creature of man and bird.	0	0	1	0
 พิมประภา	phimprapha	0	0	1	0
 อำเภอเกาะคา	state	0	0	1	0
 อำเภอเกาะคา	amphoe ko kha	0	0	1	0
-การบินไทย	thai airways	0	0	1	0
 อวัยวะสืบพันธุ์หญิง	female reproductive system	0	0	1	0
 อวัยวะสืบพันธุ์หญิง	female sex organ	0	0	1	0
 อำเภอท่าวุ้ง	ta wung district	0	0	1	0
@@ -3828,7 +3658,6 @@
 ถนน	street	0	0	1	0
 ถนน	road	0	0	1	0
 การคมนาคม	transportation department	0	0	1	0
-ลาออก	resign	0	0	1	0
 ช่อง	channel	0	0	1	1
 อำเภอบ้านหมี่	ban mi district	0	0	1	0
 อำเภอบ้านหมี่	bahn mi district	0	0	1	0
@@ -3837,8 +3666,8 @@
 กรอง	krong	0	0	1	0
 องค์การนิสิต	student organization	0	0	1	0
 ออนไลน์	online	0	0	1	0
-สู่	indicate	0	0	1	0
 สู่	to	0	0	1	0
+สู่	indicate	0	0	1	0
 ในปีนี้	in this year	0	0	1	0
 อสมท	acronym for thai communication companies	0	0	1	0
 เนโกะ	neko	0	0	1	0
@@ -3862,10 +3691,9 @@
 รัฐธรรมนูญแห่งราชอาณาจักรไทย	constitution of the kingdom of thailand	0	0	1	0
 รัฐธรรมนูญแห่งราชอาณาจักรไทย	constitution of thailand	0	0	1	0
 สาขาวิชานิติศาสตร์	law department	0	0	1	0
-อำเภอเชียงคาน	chiang khan district	0	0	1	0
 อำเภอเชียงคาน	chiang khan province	0	0	1	0
 วทบ	bachelor of science	0	0	1	0
-สมชาย	somchai - a male's name	0	0	1	0
+ในเหตุการณ์	in the event	0	0	1	0
 รักษาสิ่งแวดล้อม	protect the environment	0	0	1	0
 แลมบ์ดา	created	1	0	1	0
 แลมบ์ดา	lampda	1	0	1	0
@@ -3873,8 +3701,6 @@
 ตามข้อมูลของกรมการปกครองเมื่อปี	data from administration division in the year of	0	0	1	0
 ไก่	chicken	0	0	1	0
 คุณหญิงโม	suranaree	0	0	1	0
-คุณหญิงโม	http://mturk.jhu.edu/static/images/th/word/0006188100.png	0	0	1	0
-สายสีน้ำเงิน	blue line	0	0	1	0
 ประเทศทำการค้าขายกับต่างประเทศมากยิ่งขึ้น	country that trades with other countries	0	0	1	0
 วงดนตรี	band	0	0	1	0
 ต	a letter from thai alphabet with th sound	0	0	1	0
@@ -3886,7 +3712,6 @@
 ภาควิชาเทคโนโลยีอาหาร	faculty of food technology	0	0	1	0
 บิล	bill	0	0	1	0
 ที่โดดเด่นคือ	notable	0	0	1	0
-ผจญภัยเกาะมหาสมบัติ	nobita's south sea adventure	0	0	1	0
 ฟิสิกส์ดาราศาสตร์	astrophysics	1	1	0	0
 ฟิสิกส์ดาราศาสตร์	capability	1	0	1	0
 ฟิสิกส์ดาราศาสตร์	ability	1	0	1	0
@@ -3900,14 +3725,12 @@
 ทำหน้าที่	function	0	0	1	0
 ทำหน้าที่	task	0	0	1	0
 ทำหน้าที่	functionally	0	0	1	0
-ชไนเดอร์	schneider	0	0	1	0
 หมวดหมู่สมุนไพร	herbal	0	0	1	0
 หมวดหมู่สมุนไพร	herbs	0	0	1	0
 กระเพาะอาหาร	this	1	0	1	0
 กระเพาะอาหาร	stomach	1	1	1	0
 กระเพาะอาหาร	that	1	0	1	0
 กระทรวงการต่างประเทศ	ministry of foreign affairs	0	0	1	0
-ไข้หวัดใหญ่สเปน	spanish flu	0	0	1	0
 ฟรีด้อม	freedom	0	0	1	0
 ประกอบด้วย	composed of	0	0	1	0
 มัจฉานุ	majjanu - the son of the giant in a thai legend.  majanu is half monkey and half fish.	0	0	1	0
@@ -3934,10 +3757,6 @@
 หน่วยคำเติม	affix	1	1	0	0
 หน่วยคำเติม	gives	1	0	1	0
 เมทะนี	metanee - the surname of a famous actor	0	0	1	0
-เมทะนี	metanee	0	0	1	0
-วิธีการหาความสัมพันธ์	formula for the correlation coefficient	0	0	1	0
-วิธีการหาความสัมพันธ์	method to find relationship	0	0	1	0
-วิธีการหาความสัมพันธ์	correlation	0	0	1	0
 นิกาย	sect	0	0	1	0
 จังหวัดยโสธร	yasothorn province (name of thai province)	0	0	1	0
 แกลเลอรี	gallery	1	1	0	0
@@ -3980,9 +3799,9 @@
 มินต์	mint	1	1	0	0
 ลพบุรี	lopburi	0	0	1	0
 มดลูก	uterus	0	0	1	0
-เครือข่าย	network	0	0	1	0
+อุทยานแห่งชาติธารโบกขรณี	tarabokorani national preserve area	0	0	1	0
 พลังงานคลื่น	wave power	0	0	1	0
-ร้องโดย	sung by	0	0	1	0
+องคชาต	penis	0	0	1	0
 อำเภอด่านขุนทด	dan koontod district	0	0	1	0
 อำเภอด่านขุนทด	dan khun thot distric	0	0	1	0
 กระดูกสะบัก	scapula	1	1	0	0
@@ -3993,11 +3812,12 @@
 ยกเว้น	except	0	0	1	0
 ยกเว้น	excluding	0	0	1	0
 สาขาวิชาศิลปอุตสาหกรรม	arts department	0	0	1	0
-หมวดหมู่ละครโทรทัศน์ไทย	thai drama category	0	0	1	0
 ผลรวม	summation	1	1	0	0
-สมเด็จพระอนุชาธิราช	som dej pra ah nu cha thi raj - a famous royalty in thailand a long time ago	0	0	1	0
+ดี	d.	0	0	1	0
+ดี	good	0	0	1	0
 ใช้เวลา	it takes time	0	0	1	0
-โซเดียม	sodium	0	0	1	0
+อำเภอทับคล้อ	amphoe tap khlo	0	0	1	0
+อำเภอทับคล้อ	tab kloe state	0	0	1	0
 ชิคิกามิ	shikigami	0	0	1	0
 ชิคิกามิ	sikikami	0	0	1	0
 ซึ่งคำว่า	that the word	0	0	1	0
@@ -4035,7 +3855,6 @@
 แสนรัก	sanrak	0	0	1	0
 สนามฟุตบอล	football field	0	0	1	0
 ชื่อเมือง	city's name	0	0	1	0
-มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ	rajamangala university of technology krungthep	0	0	1	0
 สวัสดิ์	sawat - a male's name	0	0	1	0
 สวัสดิ์	sawat	0	0	1	0
 เสนีวงศ์	seniwong	0	0	1	0
@@ -4090,18 +3909,15 @@
 ท่านอ่อง	tan ong - a member of the royal family	0	0	1	0
 อุทยานประวัติศาสตร์พิมาย	phimai historical park	0	0	1	0
 อุทยานประวัติศาสตร์พิมาย	pravat sat pimai preserve area	0	0	1	0
-อุทยานแห่งชาติภูแลนคา	phu laenkha national park	0	0	1	0
-อุทยานแห่งชาติภูแลนคา	lanka national park	0	0	1	0
+ไวรัสตับอักเสบ	hepatitis	0	0	1	0
 เกิดขึ้นเมื่อวันที่	birthdate	0	0	1	0
 พระที่นั่งบรมพิมาน	the king's seat	0	0	1	0
 สาขาสมุย	smui branch	0	0	1	0
 ฮอท	hot	0	0	1	0
-พิชิต	phichit	0	0	1	0
-พิชิต	pichit	0	0	1	0
+ยศ	rank	0	0	1	1
 รุ่งเพชร	roongpetch - a female's name	0	0	1	0
 ชั้นสูงสุด	highest	0	0	1	0
 ชั้นสูงสุด	special class	0	0	1	0
-สำรวจ	investigate	0	0	1	0
 วิสา	wisa	0	0	1	0
 โรมัน	roman	1	1	1	0
 โรมัน	(in) roman	1	0	1	0
@@ -4109,7 +3925,7 @@
 มาเฟีย	mafia	1	1	0	0
 มาเฟีย	end	1	0	1	0
 ๓	3	0	0	1	0
-ฯพณฯ	two thai alphabets.  abbreviation that means many things	0	0	1	0
+จุลานนท์	grapes chulanont.	0	0	1	0
 เหรียญกษาปณ์	coin	0	0	1	0
 จิตวิทยา	psychology	0	0	1	1
 อำเภอน้ำเกลี้ยง	amphur namleang	0	0	1	0
@@ -4145,12 +3961,10 @@
 ดาวคาโนปุส	supreme	1	0	1	0
 ดาวคาโนปุส	highest	1	0	1	0
 ดาวคาโนปุส	canopus	1	1	0	0
-เกิดจากเชื้อไวรัส	occur from the viral agent	0	0	1	0
 เกิดจากเชื้อไวรัส	caused by the virus.	0	0	1	0
 เกิดจากเชื้อไวรัส	caused by virus	0	0	1	0
 นายปรีดี	pridi - a male's name	0	0	1	0
 นายปรีดี	mr.phridee	0	0	1	0
-นายปรีดี	pridi	0	0	1	0
 ระดับมัธยมศึกษา	middle school level	0	0	1	0
 มหาวิทยาลัยมหาสารคาม	mahasarakham university	0	0	1	0
 รังสิตคลอง	rangsit canal	0	0	1	0
@@ -4164,7 +3978,6 @@
 ซออู้	a woodwind thai instrument	0	0	1	0
 ซออู้	fiddle	0	0	1	0
 เงินในบัญชีธนาคาร	balance	0	0	1	0
-เงินในบัญชีธนาคาร	bank account balance	0	0	1	0
 ฟิสิกส์อนุภาค	physic particle	0	0	1	0
 ฟิสิกส์อนุภาค	particle physics	0	0	1	0
 ดาวอาร์คตุรุส	arcturus	1	1	0	0
@@ -4178,12 +3991,9 @@
 บาคคัส	bacchus	1	1	0	0
 ดา	da - a thai nickname	0	0	1	0
 ดา	ta	0	0	1	0
-ปืนพกกึ่งอัตโนมัติ	semi-automatic pistol	0	0	1	0
 ทอมัส	thomas	0	0	1	0
 ของมหาวิทยาลัย	of university	0	0	1	0
 ของมหาวิทยาลัย	owned by the university	0	0	1	0
-สมัยสุโขทัย	sukothai era	0	0	1	0
-สมัยสุโขทัย	sukhothai era	0	0	1	0
 เพทาย	establishment	1	0	1	0
 เพทาย	institutions	1	0	1	0
 เพทาย	zircon	1	1	0	0
@@ -4191,7 +4001,7 @@
 นกกระจอก	sparrow	1	1	0	0
 สำนักวิทยบริการ	office of academic services	0	0	1	0
 สำนักวิทยบริการ	management office	0	0	1	0
-ดม	smell	0	0	1	0
+หมวดหมู่ละครโทรทัศน์ไทย	thai drama category	0	0	1	0
 ทนายความ	attorney	0	0	1	0
 ทนายความ	lawyer	0	0	1	0
 เทพีเธมิส	themis	1	1	0	0
@@ -4237,18 +4047,9 @@
 ดง	location	0	0	1	0
 ดง	area	0	0	1	0
 ร้องร่วมกับ	featuring	0	0	1	0
-ขบวนการอ๊บอ๊บป่วนโลก	original name is keroro gunso	0	0	1	0
 ขบวนการอ๊บอ๊บป่วนโลก	sergeant keroro	0	0	1	0
 ทุ่งใหญ่	tungyai	0	0	1	0
-ประเภทของ	type of	0	0	1	0
-ประเภทของ	type of object	0	0	1	0
 โหมด	mode	0	0	1	0
-สัตว์มีกระดูกสันหลัง	vertebrate animals	1	0	1	0
-สัตว์มีกระดูกสันหลัง	vertebrate	1	1	0	0
-สัตว์มีกระดูกสันหลัง	relations	1	0	1	0
-สัตว์มีกระดูกสันหลัง	vertrabrate	1	0	1	0
-สัตว์มีกระดูกสันหลัง	sea	1	0	1	0
-สัตว์มีกระดูกสันหลัง	act	1	0	1	0
 ซีรีเบลลัม	cerebellum	0	0	1	0
 วิทยาลัยนวัตกรรมและการจัดการ	the college specialized in arts	0	0	1	0
 วิทยาลัยนวัตกรรมและการจัดการ	college of information management	0	0	1	0
@@ -4258,7 +4059,7 @@
 การไหว้	the act of wai	0	0	1	0
 การไหว้	salute	0	0	1	0
 การาจ	garage	1	1	0	0
-โรคประจำตัว	personal illness	0	0	1	0
+หมวดหมู่อดีตอาณานิคมของสเปน	category:former spanish colonies	0	0	1	0
 งู	snake	0	0	1	0
 รัฐวิสาหกิจไทย	thai state enterprise	0	0	1	0
 เบาหวาน	diabetes	0	0	1	0
@@ -4276,8 +4077,9 @@
 ฮอร์โมน	hormone	0	0	1	0
 ร้านอาหาร	restaurants	0	0	1	0
 ดีน	religion (islamic term)	0	0	1	0
-โคเบะ	kobe	1	1	0	0
-โคเบะ	wine	1	0	1	0
+ยางธรรมชาติ	latex	1	1	0	0
+ยางธรรมชาติ	natural rubber	1	0	1	0
+ยางธรรมชาติ	social	1	0	1	0
 หมวดหมู่บุคคลจากมหาวิทยาลัยอ๊อกซฟอร์ด	england	0	0	1	0
 หมวดหมู่บุคคลจากมหาวิทยาลัยอ๊อกซฟอร์ด	the staff of oxford university	0	0	1	0
 ดูแล	take care	0	0	1	0
@@ -4291,9 +4093,7 @@
 วัฒนธรรม	culture	0	0	1	0
 ชาลส์	charles	0	0	1	0
 สกอ	office of higher education commission	0	0	1	0
-สกอ	http://mturk.jhu.edu/static/images/th/word/0006139920.png	0	0	1	0
 ซีซี	cc	1	1	0	0
-พลอย	ploy	0	0	1	0
 สกว	trf	0	0	1	0
 กวี	poet	0	0	1	0
 กองการเจ้าหน้าที่	division of personnel	0	0	1	0
@@ -4325,13 +4125,10 @@
 เบื้องหลัง	background	0	0	1	0
 อิเหนาคำฉันท์	http://mturk.jhu.edu/static/images/th/word/0006115780.png	0	0	1	0
 อีกด้วย	also	0	0	1	0
-สำนักงานคณะกรรมการวัฒนธรรมแห่งชาติ	office of arts and culture preservation of thailand	0	0	1	0
+เอนจิเนียริ่ง	engineering	0	0	1	0
 อายุ	age	0	0	1	0
 เท็นเท็น	tin-tin	0	0	1	0
-สกุลเพชรหึง	grammatophyllum	1	1	0	0
-สกุลเพชรหึง	world championship	1	0	1	0
-สกุลเพชรหึง	grammatophyllum - a group of orchids	1	1	0	0
-สกุลเพชรหึง	wc (world cup)	1	0	1	0
+ซาคุโร่	zakuro - a japanese character	0	0	1	0
 อำเภอเมืองพิษณุโลก	ampore maung pisanulok	0	0	1	0
 อำเภอเมืองพิษณุโลก	pisanulok province in northern thailand	0	0	1	0
 ปรีดา	prida - a male's name	0	0	1	0
@@ -4341,7 +4138,6 @@
 ทรงพระกรุณาโปรดเกล้าโปรดกระหม่อมให้	gift (word for the king)	0	0	1	0
 แม่น้ำทะเลสาบสำคัญ	important rivers and lakes	0	0	1	0
 แม่น้ำทะเลสาบสำคัญ	important river and lake.	0	0	1	0
-แม่น้ำทะเลสาบสำคัญ	important lake	0	0	1	0
 ประเทศมาเลเซีย	malaysia	0	0	1	1
 โอภาส	oh pas - a thai name	0	0	1	0
 โอภาส	ophat	0	0	1	0
@@ -4349,7 +4145,7 @@
 เดอะฮาเดส	the hades	0	0	1	0
 จินน์	ginn	0	0	1	0
 ๑๕	15	0	0	1	0
-๑๔	14	0	0	1	0
+กรุงศรีอยุธยา	sri ayuttaya city - former capital of thailand	0	0	1	0
 แถบ	column	0	0	1	0
 แถบ	flat fish	0	0	1	0
 ๑๖	16	0	0	1	0
@@ -4370,16 +4166,12 @@
 โคโทเน่ที่	kotone	0	0	1	0
 สุจาริณี	sujarinee	0	0	1	0
 เธอจะอยู่กับฉันตลอดไป	you will be with me forever	0	0	1	0
-หน่วยพันธุกรรม	gene	1	1	1	0
-หน่วยพันธุกรรม	plan	1	0	1	0
 นัดกับนัด	nut kab nut - a thai sitcom	0	0	1	0
 ยิ้มสู้	smile fight	0	0	1	0
 คลองสาน	klongsan	0	0	1	0
 ตำบลบ้านกง	tambon bankong (name of the district)	0	0	1	0
-จังหวัด	province	0	0	1	0
 ระดับการกระโดดสูง	high jump	0	0	1	0
 ระดับการกระโดดสูง	jumping height	0	0	1	0
-ภาพพิมพ์	lithography	0	0	1	0
 ภาพพิมพ์	printed photograph	0	0	1	0
 เจ็บ	pain	0	0	1	0
 ณรงค์	narong - a male's name	0	0	1	0
@@ -4409,8 +4201,6 @@
 ขึ้นกับปฏิทินจันทรคติ	depends on lunar calendar	0	0	1	0
 ขึ้นกับปฏิทินจันทรคติ	based on the lunar calendar	0	0	1	0
 ภาษากะเหรี่ยง	kareang language	0	0	1	0
-ภาษากะเหรี่ยง	karen language (a hilltribe language)	0	0	1	0
-การคลัง	public finance	0	0	1	0
 การคลัง	financial district	0	0	1	0
 สุขุมวิท	sukhumvit	0	0	1	0
 สุขุมวิท	sukhumvit - an area in thailand	0	0	1	0
@@ -4418,7 +4208,6 @@
 ลูกสาว	gorbachev	1	0	1	0
 ลูกสาว	daughter	1	1	0	0
 การดำเนินการ	การดำเนินการ	0	0	1	0
-การดำเนินการ	progression	0	0	1	0
 และอเมริกาเหนือ	and north america	0	0	1	0
 อำเภอปากช่อง	pak chong district	0	0	1	0
 ที่อยู่อาศัย	residence	0	0	1	0
@@ -4429,7 +4218,8 @@
 การเล่น	play	0	0	1	0
 ปราสาทเขาพระวิหาร	kao pravihan ancient ruins	0	0	1	0
 ปราสาทเขาพระวิหาร	temple of preah vihear	0	0	1	0
-มีโคลซีน	meclizine	1	1	0	0
+อัลเฟรด	alfred	0	0	1	0
+อัลเฟรด	frederick's of.	0	0	1	0
 ซึ่งมีทั้งหมด	in total of	0	0	1	0
 คลื่นสึนามิ	tsunami wave	0	0	1	0
 เจ้าจอม	king's concubine	0	0	1	0
@@ -4438,8 +4228,8 @@
 ดารากร	composed of hydrogen and helium	0	0	1	0
 ดารากร	darakon	0	0	1	0
 ดอว์ขิ่นจี	dorkingi	0	0	1	0
-ฟ้า	blue	0	0	1	0
-ฟ้า	blue color	0	0	1	0
+บางส่วน	some	0	0	1	0
+บางส่วน	some part	0	0	1	0
 แพน	pan	1	1	0	0
 ปืนใหญ่	cannon	0	0	1	1
 ป็อป	pop	0	0	1	0
@@ -4447,7 +4237,7 @@
 ในอดีตทุ่งกุลาร้องไห้ในฤดูแล้ง	thung kula rong hai in dry season in the past	0	0	1	0
 คันธวงศ์	kunntavong - a surname	0	0	1	0
 ព្រះរាជាណាចក្រកម្ពុជា	cambodia	0	0	1	0
-อยู่วิทยา	yoovidhya	0	0	1	0
+เฮาส์	house	0	0	1	0
 แขวงหลวงพระบาง	luang pra bang province	0	0	1	0
 แขวงหลวงพระบาง	luang prabang.	0	0	1	0
 โบอิง	boeing company	0	0	1	0
@@ -4469,8 +4259,6 @@
 พระอุโบสถ	chapel	0	0	1	0
 การวิจัย	researching	0	0	1	0
 การวิจัย	research	0	0	1	0
-นายดำรง	mr dumrong - a male's name	0	0	1	0
-น้ำค้าง	namkhang	0	0	1	0
 อื่นๆ	did you mean: อึนๆ e. other.	0	0	1	0
 นิติพงษ์	forensic me.	0	0	1	0
 ประเทศฝรั่งเศส	france	0	0	1	0
@@ -4480,8 +4268,6 @@
 กำกับการแสดงโดย	produced by (movie)	0	0	1	0
 เมืองเคมบริดจ์	cambridge	0	0	1	0
 เมืองเคมบริดจ์	city of cambridge	0	0	1	0
-หลาย	vastly	0	0	1	0
-หลาย	many	0	0	1	0
 จริยศาสตร์	ethics	0	0	1	0
 ม้าม	convicts	1	0	1	0
 ม้าม	prisoners	1	0	1	0
@@ -4547,7 +4333,7 @@
 พยัญชนะ	consonant	0	0	1	0
 พยัญชนะ	letter	0	0	1	0
 อดีตรองหัวหน้าหน่วยที่	former lieutenant	0	0	1	0
-ส้ม	orange	0	0	1	0
+วัดสุทัศนเทพวรารามราชวรมหาวิหาร	wat sutatthepvararamrajavorimahavihan - a temple in thailand	0	0	1	0
 หน่วยที่	order of 1	0	0	1	0
 หน่วยที่	3...	0	0	1	0
 หน่วยที่	2	0	0	1	0
@@ -4558,10 +4344,9 @@
 สถานีคาราวาน	caravanserai	1	1	0	0
 สถานีคาราวาน	station to meet for a caravan	1	0	1	0
 จากเรื่อง	from the story of ...	0	0	1	0
-พงศ์ศิลป์พิพัฒน์	pongsinpipat	0	0	1	0
-พงศ์ศิลป์พิพัฒน์	http://mturk.jhu.edu/static/images/th/word/0006136140.png	0	0	1	0
 ทิฟฟานี่	tiffany - female's name	0	0	1	0
-แต่ไม่สำเร็จ	no success	0	0	1	0
+ก่อนที่จะตกเป็นของฝรั่งเศสในเวลาต่อมา	belonging to france	0	0	1	0
+ก่อนที่จะตกเป็นของฝรั่งเศสในเวลาต่อมา	under the control of france	0	0	1	0
 ฟลายเวท	flyweight	1	1	0	0
 คำมั่นสัญญา	agreement	0	0	1	0
 การจัดการคุณภาพ	quality control	0	0	1	0
@@ -4577,7 +4362,10 @@
 เม	may	0	0	1	0
 คิชิเนีย	kishinia	0	0	1	0
 คิชิเนีย	kishinia - weapon from a japanese story	0	0	1	0
-กรุงศรีอยุธยา	sri ayuttaya city - former capital of thailand	0	0	1	0
+ทาร์ดิกราดา	tardigrada	1	1	0	0
+ทาร์ดิกราดา	tadirada phylum	1	0	1	0
+ทาร์ดิกราดา	author	1	0	1	0
+ทาร์ดิกราดา	tardigrade	1	1	0	0
 เมื่อเดือนมีนาคม	in march	0	0	1	0
 ที่ประชาชนชอบมากที่สุด	the most votes	0	0	1	0
 ที่ประชาชนชอบมากที่สุด	people's most favorite	0	0	1	0
@@ -4595,20 +4383,13 @@
 ทางรถไฟ	by train	0	0	1	0
 แดเนียล	daniel	0	0	1	0
 กลองยาว	tom-tom	0	0	1	0
-ศรีประจวบ	siprachuap	0	0	1	0
-ศรีประจวบ	sri rates.	0	0	1	0
 ภาษาอังกฤษ	english language	0	0	1	0
 ภาษาอังกฤษ	english	0	0	1	0
 อิหร่าน	iran	0	0	1	0
 สิงหไตรภพ	sing tri pop - a thai drama	0	0	1	0
-สิงหไตรภพ	singha traiphop	0	0	1	0
 ตระกูลปาร์ค	park family (korean last name)	0	0	1	0
-สำนักงานใหญ่	main office	0	0	1	0
-สำนักงานใหญ่	etc.	0	0	1	0
-สำนักงานใหญ่	headquarters	0	0	1	0
 ดินเซนฮอฟเฟอร์	dientzenhofer - as in christoph or leonhard or johannes	0	0	1	0
 ของสมเด็จฮุน	houssaine of cambodia	0	0	1	0
-จังหวัดกาญจนบุรี	kanchanaburi province	0	0	1	0
 จังหวัดกาญจนบุรี	kanchanaburi	0	0	1	0
 นก	bird	0	0	1	0
 ฟาน	van - as in the surname	0	0	1	0
@@ -4617,17 +4398,13 @@
 ยาปฏิชีวนะ	antibiotic	1	1	0	0
 ยาปฏิชีวนะ	defence	1	0	1	0
 ยาปฏิชีวนะ	protection	1	0	1	0
-พุทธศตวรรษที่	buddhist era	0	0	1	0
 ซูจี	fuji	0	0	1	0
 ภาพยนตร์ลามก	porn movie	0	0	1	0
 รถยนต์อเนกประสงค์	automobile	0	0	1	0
 พระราชวังเดิม	phra racha wang derm	0	0	1	0
 นวนิยาย	story	0	0	1	0
 นวนิยาย	novel	0	0	1	1
-บางส่วน	some	0	0	1	0
-บางส่วน	some part	0	0	1	0
 สมาชิกฤดูกาลที่	member of the parliament	0	0	1	0
-สำหรับในปี	for the year	0	0	1	0
 สำหรับในปี	this year	0	0	1	0
 ราชวงศ์ถัง	tang dynasty	0	0	1	0
 สตรีวิทยา	satriwithaya	0	0	1	0
@@ -4656,15 +4433,14 @@
 เอจิเซ็น	echizen	0	0	1	0
 สมเด็จพระบรมโอรสาธิราช	his highness	0	0	1	0
 สมเด็จพระบรมโอรสาธิราช	royal crowned prince	0	0	1	0
-ข้อมูลโดย	details	0	0	1	0
 ข้อมูลโดย	data from ...	0	0	1	0
 ยิ่งยง	yingyong - a first name	0	0	1	0
 สถาบันวิจัยจุฬาภรณ์	julapon academy	0	0	1	0
 ธนพร	thanaporn	0	0	1	0
 ธนพร	tonaporn - a male's name	0	0	1	0
-โดย	by	0	0	1	1
-เมืองโคราช	korat city	0	0	1	0
+แมว	cat	0	0	1	1
 เมืองโคราช	muang korat	0	0	1	0
+เมืองโคราช	korat city	0	0	1	0
 เมืองโคราช	khorat city	0	0	1	0
 หมวด	category	0	0	1	1
 หมวด	district	0	0	1	0
@@ -4672,7 +4448,7 @@
 ส่งเสริม	encourage	0	0	1	0
 ส่งเสริม	promote	0	0	1	0
 ส่งเสริม	support	0	0	1	0
-กะเหรี่ยง	karen	0	0	1	0
+บทสวดบาลีที่ขึ้นต้นด้วยอรหัง	pali mantra started with "arhat"	0	0	1	0
 เขตรักษาพันธุ์สัตว์ป่า	national wildlife preserve	0	0	1	0
 มิลลิกรัม	mg.	0	0	1	0
 ในพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลก	under the reign of one of the thailand's past king	0	0	1	0
@@ -4725,9 +4501,6 @@
 สัดส่วน	the animal.	0	0	1	0
 เปิดสอนระดับปริญญาตรี	offer bachelor degree curriculum	0	0	1	0
 เปิดสอนระดับปริญญาตรี	offering bachelor degrees	0	0	1	0
-ปุณณกันต์	bhunnagun	0	0	1	0
-ปุณณกันต์	punkanon - a surname	0	0	1	0
-ปุณณกันต์	punnagun (last name)	0	0	1	0
 ชัยบัญชา	http://mturk.jhu.edu/static/images/th/word/0006166380.png	0	0	1	0
 ชัยบัญชา	chaibuncha	0	0	1	0
 ชัยบัญชา	chaibancha	0	0	1	0
@@ -4744,7 +4517,6 @@
 สุรพันธ์	surapan - a male's name	0	0	1	0
 ทองแดง	copper	0	0	1	0
 ยุคสามก๊ก	three kingdoms - the legend	0	0	1	0
-ธนาคารไทยพาณิชย์	siam commercial bank	0	0	1	0
 บางครั้ง	sometimes	0	0	1	0
 แทน	instead	0	0	1	0
 แทน	replace	0	0	1	0
@@ -4752,7 +4524,7 @@
 เอเชียแปซิฟิก	asia-pacific	0	0	1	0
 สารภี	saraphi	0	0	1	0
 วัย	age	0	0	1	1
-ที่เกิดขึ้น	appear	0	0	1	0
+เปล่งพานิช	plengpanich	0	0	1	0
 เขตจอมทอง	jomthong area	0	0	1	0
 จังหวัดชุมพร	chumphon province	0	0	1	0
 จังหวัดชุมพร	choompon state	0	0	1	0
@@ -4774,7 +4546,6 @@
 จะต้องหาตัวแทนลงจากเวที	find a teammate to leave the stage	0	0	1	0
 หอก	spear	0	0	1	0
 จังหวัดนครปฐม	nakhon pathom province	0	0	1	0
-จังหวัดนครปฐม	nakorn pratom state	0	0	1	0
 ซาลาดิน	saladin	0	0	1	0
 อำเภอศรีเมืองใหม่	sri meung mai district	0	0	1	0
 พระวรชายาฯ	royal wife	0	0	1	0
@@ -4788,15 +4559,11 @@
 สิ้นพระชนม์ในรัชกาลที่	died in	0	0	1	0
 สิ้นพระชนม์ในรัชกาลที่	the kind #___ deceased	0	0	1	0
 หม่อมราชวงศ์ปรีดิยาธร	mom rajawongse pridiyathorn devakula	0	0	1	0
-ค่ำแล้ว	getting dark	0	0	1	0
-ค่ำแล้ว	at dusk	0	0	1	0
 ได้เคลื่อนไหวตรวจสอบการทำงานของรัฐบาลกัมพูชาอย่างแข็งขัน	underground investigation	0	0	1	0
 อุทยานแห่งชาติเขาหลวง	khao luang national park	0	0	1	0
-อุทยานแห่งชาติเขาหลวง	national park at kao loung	0	0	1	0
 รูปร่าง	body	0	0	1	0
 รูปร่าง	figure	0	0	1	1
 อักษรย่อ	abbreviation	0	0	1	0
-สเตราส์	strauss.	0	0	1	0
 พระสัมมาสัมพุทธเจ้า	buddha	0	0	1	0
 นักดนตรี	musician	0	0	1	0
 หอย	clams	0	0	1	0
@@ -4805,8 +4572,7 @@
 สมเด็จพระบรมราชาที่	the king number _____	0	0	1	0
 นามิ	nami	0	0	1	0
 นามิ	nami - a japanese singer	0	0	1	0
-คัชชินสกี	kaczyński	0	0	1	0
-คัชชินสกี	kazinski	0	0	1	0
+มหาวิทยาลัยธรรมศาสตร์	thammasat university	0	0	1	0
 แอนโทนี	anthony	0	0	1	0
 เหล่าสุนทร	soontorn group	0	0	1	0
 เหล่าสุนทร	laosunthon	0	0	1	0
@@ -4816,7 +4582,6 @@
 โว้ก	vogue	1	1	0	0
 รายการโทรทัศน์	tv channel varieties	0	0	1	0
 ชนิดของเมฆ	types of clound	0	0	1	0
-พระยาราม	prayaram - the governor of sukothai city (the ancient city of thailand)	0	0	1	0
 พระยาราม	phraya ram	0	0	1	0
 โนบิตะและอัศวินแดนวิหค	nobita and the winged braves	0	0	1	0
 กระบะทราย	sandbox	1	1	0	0
@@ -4847,24 +4612,20 @@
 สายสนั่น	siasanan	0	0	1	0
 มหาวิทยาลัยราชภัฏสวนสุนันทา	suan sunandha rajabhat university	0	0	1	0
 หนังสือ	book	0	0	1	0
-ทองผาภูมิ	thong pha phum	0	0	1	0
+ภักดี	pakdi	0	0	1	0
+ภักดี	phakdee	0	0	1	0
+ภักดี	pakdee - a male's name	0	0	1	0
 ธกสิกรไทย	kasikornbank	0	0	1	0
 อำเภอกระสัง	krasang district	0	0	1	0
 ๒๗	27	0	0	1	0
-๒๑	21	0	0	1	0
 ๒๒	22	0	0	1	0
 นเรศ	naret - a male's name	0	0	1	0
 ๒๘	28	0	0	1	0
 พระยาชัยสุนทร	praya chaisoontorn - first mayor of thailand	0	0	1	0
-พระยาชัยสุนทร	phraya chaisunthon	0	0	1	0
 จี	g	0	0	1	0
 สุนทรภู่	soontornpoo - a character from a legend	0	0	1	0
-ผู้ผลิต	producer	0	0	1	0
 ฬาพานิช	fapanit - surname of an actor	0	0	1	0
 ขนมไทย	thai dessert	0	0	1	1
-ซึ่งได้แก่	such as	0	0	1	0
-ซึ่งได้แก่	which are	0	0	1	0
-ซึ่งได้แก่	which is	0	0	1	0
 ซีเจ	cj	0	0	1	0
 ขรรค์ชัย	kanchai - a male's name	0	0	1	0
 ขรรค์ชัย	khanchai	0	0	1	0
@@ -4882,7 +4643,6 @@
 ฮักบี้	hugby - an album that received many awards	0	0	1	0
 ผ้าอนามัยโซฟี	sofi sanitary napkin	0	0	1	0
 ผ้าอนามัยโซฟี	sofe feminine napkins	0	0	1	0
-นกแอร์	airline	0	0	1	0
 อะนิเมะ	anime	0	0	1	0
 สเตอรอล	real	1	0	1	0
 สเตอรอล	steroid anabolic	1	1	0	0
@@ -4906,9 +4666,7 @@
 สำนักราชเลขาธิการ	operation department of the king's palace	0	0	1	0
 อานโตนิโอ	antonio	0	0	1	0
 เรด	red	0	0	1	0
-หมวดหมู่อดีตอาณานิคมของสเปน	category:former spanish colonies	0	0	1	0
 วารินชำราบ	warinchamrap	0	0	1	0
-วารินชำราบ	warinchumrab market	0	0	1	0
 คลิก	click	0	0	1	0
 ฟรานซิส	fransis	0	0	1	0
 อำเภอแม่ทะ	mahta district	0	0	1	0
@@ -4923,7 +4681,6 @@
 คลิป	clip	1	1	0	0
 กาโต้	cato.	0	0	1	0
 สาขาประจวบคีรีขันธ์	prachuap khiri khan branch	0	0	1	0
-กฎของโคไซน์	law of cosines	0	0	1	0
 โคฟี	kofe annan	0	0	1	0
 การบริหารการศึกษา	educational administration	0	0	1	0
 วิศว	engineering	0	0	1	0
@@ -4945,7 +4702,6 @@
 สัทศาสตร์	phonetics	1	1	0	0
 สัทศาสตร์	however	1	0	1	0
 ๒๕๐๓	2503	0	0	1	0
-สัมผัสนอก	outside touch	0	0	1	0
 เซโรไลเนอร์	seroliner	0	0	1	0
 นันทนาการ	recreation	1	1	0	0
 นันทนาการ	online	1	0	1	0
@@ -4955,8 +4711,6 @@
 ปริญญาดุษฎีบัณฑิตกิตติมศักดิ์	postdoctoral degree	0	0	1	0
 ดาราหญิงไทยยอดนิยม	famous actress	0	0	1	0
 ดาราหญิงไทยยอดนิยม	popular thai actress	0	0	1	0
-หัวหิน	hua hin	0	0	1	0
-หัวหิน	hua hin - a beach resort in thailand	0	0	1	0
 สภาพอากาศ	weather conditions	0	0	1	0
 เพราะว่า	because	0	0	1	1
 ออโตทรอพ	titanic	1	0	1	0
@@ -4964,7 +4718,6 @@
 ในทางกลับกัน	opposite	0	0	1	0
 รถโดยสารประจำทางสาย	bus	0	0	1	0
 โกเฟอร์	gopher	1	1	0	0
-อำเภอสันทราย	san sai district	0	0	1	0
 กรมขุนอิศเรศรังสรรค์	the convention of angels	0	0	1	0
 ในคศ	in a.d.	0	0	1	0
 ดาบ	sward	1	0	1	0
@@ -4976,7 +4729,6 @@
 ดิวิชั่น	division	0	0	1	0
 ลูน่า	luna	0	0	1	0
 ลูน่า	lunar	0	0	1	0
-ทนงศักดิ์	thanongsak	0	0	1	0
 คลับ	club	0	0	1	0
 คลับ	bearings	0	0	1	0
 ต่อจาก	resulting from	0	0	1	0
@@ -4991,7 +4743,6 @@
 แผลไหม้	burn	1	1	0	0
 แผลไหม้	burn wound	1	0	1	0
 แผลไหม้	took	1	0	1	0
-ริวซากิ	riusaki - from japanese story	0	0	1	0
 ริวซากิ	ryuzaki	0	0	1	0
 สุมณทิพย์	sumonthip	0	0	1	0
 สุมณทิพย์	sumontip	0	0	1	0
@@ -5004,7 +4755,6 @@
 อดีตรองนายกรัฐมนตรี	former vice president	0	0	1	0
 เจ้าของจุกนม	the owner of the baby's bottle	0	0	1	0
 ภาวะเศรษฐกิจของกัมพูชาหลังจากมีการเปลี่ยนแปลงการปกครองจากระบอบสังคมนิยมเป็นระบอบประชาธิปไตย	cambodia economy after political change	0	0	1	0
-ศาลหลักเมือง	the old court house	0	0	1	0
 ศาลหลักเมือง	city pillar shrine	0	0	1	0
 เจ้าฟ้ามหิดลอดุลเดช	a member of thai royalties	0	0	1	0
 เจ้าฟ้ามหิดลอดุลเดช	royal mahidon adun la det	0	0	1	0
@@ -5025,6 +4775,7 @@
 ฟังไจ	monster	0	0	1	0
 ฟังไจ	fungi	0	0	1	0
 ชีพด็อก	chief dog	0	0	1	0
+โคลอมเบีย	colombia	0	0	1	0
 ซึ่งแท้จริงแล้ว	real name	0	0	1	0
 สาขานครสวรรค์	nakhon sawan branch	0	0	1	0
 มีจำนวน	have the amount of	0	0	1	0
@@ -5034,9 +4785,6 @@
 อาณาจักรธนบุรี	thonburi empire	0	0	1	0
 สมชัย	somchai	0	0	1	0
 สมชัย	somchai - a male's name	0	0	1	0
-ภักดี	pakdi	0	0	1	0
-ภักดี	phakdee	0	0	1	0
-ภักดี	pakdee - a male's name	0	0	1	0
 โรงเรียนปรินส์รอยแยลส์วิทยาลัย	the prince royal's college	0	0	1	0
 โรงเรียนปรินส์รอยแยลส์วิทยาลัย	prince royal school	0	0	1	0
 มนเรศวร	naresuan university	0	0	1	0
@@ -5064,7 +4812,8 @@
 กระทรวงเศรษฐการ	ministry of economic affairs.	0	0	1	0
 กระทรวงเศรษฐการ	ministry of commerce	0	0	1	0
 คำสรรพนาม	pronoun	0	0	1	0
-กีฏวิทยา	entomology	0	0	1	0
+หน่วยทหารในค่าย	units in camp	0	0	1	0
+หน่วยทหารในค่าย	soldiers in the group	0	0	1	0
 โอวีเอ	ova	0	0	1	0
 ผู้เล่น	player	0	0	1	0
 กระดูกฝ่ามือ	metacapus	1	0	1	0
@@ -5081,7 +4830,6 @@
 ซัลฟาไดอะซีน	sulfadiazine	1	1	0	0
 คาบ	frequency	0	0	1	0
 คาบ	period	0	0	1	0
-ระยะเวลาการดำรงตำแหน่ง	the term in the office	0	0	1	0
 เกียวโตะ	kyoto	0	0	1	0
 ระบบไหลเวียนโลหิต	circulatory system	0	0	1	0
 ฤๅ	rue	0	0	1	0
@@ -5090,7 +4838,6 @@
 ปัญจาบ	panjab	0	0	1	0
 พรบ	act	0	0	1	0
 กาพย์ฉบัง	poem	0	0	1	0
-กาพย์ฉบัง	http://mturk.jhu.edu/static/images/th/word/0006142890.png	0	0	1	0
 แคลคูลัสเชิงปริพันธ์	integral calculas	0	0	1	0
 อุทยานแห่งชาติภูเวียง	phu wiang national park	0	0	1	0
 นครราชสีมา	nakhon ratchasima	0	0	1	0
@@ -5122,9 +4869,9 @@
 แบ่งได้เป็น	divided into.	0	0	1	0
 แบ่งได้เป็น	divided into	0	0	1	0
 อำเภอพัฒนานิคม	amphur pattananikhom	0	0	1	0
-ลิเทียม	lithium	0	0	1	0
+เนื้อที่ประมาณ	approximate area	0	0	1	0
 กทม	agency	0	0	1	0
-แอมเวย์	amway	0	0	1	0
+ประติมากรรม	production of a play	0	0	1	0
 ตราด	trad state	0	0	1	0
 ดีเอ็นเอ	control	1	0	1	0
 ดีเอ็นเอ	dna	1	1	0	0
@@ -5155,7 +4902,6 @@
 วิญญาณ	soul	0	0	1	1
 คราประยูร	karaprayoon - a thai surname	0	0	1	0
 เขียนว่า	wrote	0	0	1	0
-โรงแรม	hotel	0	0	1	0
 พระบาทสมเด็จพระเจ้าอยู่หัวเสด็จฯ	the current king	0	0	1	0
 พอตเตอร์กับเจ้าชายเลือดผสม	(harry) potter and the half-blood prince	0	0	1	0
 พอตเตอร์กับเจ้าชายเลือดผสม	potter and the half-blood prince	0	0	1	0
@@ -5175,7 +4921,6 @@
 โชแปง	chopin	0	0	1	0
 พระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลก	king rama 1 of chakri monarchy (bangkok)	0	0	1	0
 ทไย	thayai	0	0	1	0
-ที่ถ้ำกบาลสเปียนทางภาคตะวันตกเฉียงเหนือของกัมพูชา	at the kaban sapian cave in the northwestern region of	0	0	1	0
 จังหวัดตราด	trat province	0	0	1	0
 อธิบายว่า	explain	0	0	1	0
 อธิบายว่า	explained	0	0	1	0
@@ -5230,7 +4975,6 @@
 ปลาบู่ทอง	golden goby	0	0	1	0
 อักษร	alphabets	0	0	1	0
 อักษร	letters	0	0	1	0
-ข้าวหลาม	bamboo rice	0	0	1	0
 เฮอร์เชล	herschel	0	0	1	0
 เซนทอร์	centaur	0	0	1	0
 ในยุคกลาง	in the middle ages	0	0	1	0
@@ -5240,7 +4984,8 @@
 พระธรรมปิฎก	phra thampidok	0	0	1	0
 รามอินทรา	ram inthra	0	0	1	0
 รามอินทรา	ram intra - a place in bangkok	0	0	1	0
-จังหวัดแพร่	prae state	0	0	1	0
+รัฐอิลลินอยส์	state of illinois	0	0	1	0
+รัฐอิลลินอยส์	illinois	0	0	1	0
 จดหมายอากาศ	air letter	1	0	1	0
 จดหมายอากาศ	aerogram	1	1	0	0
 จดหมายอากาศ	airletter	1	0	1	0
@@ -5251,7 +4996,8 @@
 จดหมายอากาศ	airmail	1	1	1	0
 ธนาคารทิสโก้	tisco bank	0	0	1	0
 ลัคนา	ascendant	1	1	0	0
-กันเอง	casual	0	0	1	0
+ข้อมูลทั่วไป	general information	0	0	1	0
+ข้อมูลทั่วไป	detail	0	0	1	0
 วังหลัง	wanglang	0	0	1	0
 วังหลัง	wang lang	0	0	1	0
 วังหลัง	an area in thailand near mahidol medical school	0	0	1	0
@@ -5259,8 +5005,7 @@
 วิชาการคอม	vcharkarn.com	0	0	1	0
 นายสมชัย	mr. somchai	0	0	1	0
 นายสมชัย	mr. somchai - a male's name	0	0	1	0
-หมู่เกาะโซโลมอน	solomon islands	0	0	1	0
-ถึงกระนั้น	until	0	0	1	0
+กระทรวงศึกษาธิการ	ministry of education	0	0	1	1
 พริกไทย	thai pepper	0	0	1	0
 เลือดออกตามไรฟัน	bleeding of the gum	0	0	1	0
 เลือดออกตามไรฟัน	scurvy	0	0	1	0
@@ -5283,7 +5028,6 @@
 ปม	knot	0	0	1	0
 รัชกาลที่	rama	0	0	1	0
 ปภ	the order of the direkgunabhorn	0	0	1	0
-ปภ	2 letters	0	0	1	0
 ถมิตรภาพ	mittraphap road	0	0	1	0
 ขนอม	kanom - location in thailand	0	0	1	0
 เอริค	eric	0	0	1	0
@@ -5322,7 +5066,6 @@
 กองทัพเรือไทย	the royal thai navy	0	0	1	0
 กองทัพเรือไทย	royal thai navy	0	0	1	0
 นานา	nana	0	0	1	0
-นานา	etcetera	0	0	1	0
 ต่อมาในวันที่	then the next date	0	0	1	0
 ต่อมาในวันที่	later on date	0	0	1	0
 ชนะ	winning	0	0	1	0
@@ -5336,17 +5079,16 @@
 กระทรวงอุตสาหกรรม	ministry of manufacturing industry	0	0	1	0
 ข้อมูลอื่นๆ	other information	0	0	1	0
 ข้อมูลอื่นๆ	other details	0	0	1	0
-ไกรลาศ	krailard	0	0	1	0
+๒๕๓๔	2534	0	0	1	0
 ดันแฮม	the mother of barrack obama	0	0	1	0
 ดันแฮม	danham	0	0	1	0
 ดันแฮม	dunham	0	0	1	0
-๒๕๓๕	2535	0	0	1	0
+จังหวัดเพชรบูรณ์	petchabun province	0	0	1	0
 หมวดหมู่บุคคลจากมหาวิทยาลัยสุโขทัยธรรมาธิราช	group: person from sukhothai thammathirach university	0	0	1	0
 ไลบร้า	libra	0	0	1	0
 หลังเหตุการณ์	after the event	0	0	1	0
 หลังเหตุการณ์	after the incident	0	0	1	0
 ภัณฑิลา	paktila - first name of a female actress	0	0	1	0
-ตาย	die	0	0	1	0
 ตาย	death	0	0	1	0
 แขก	indian	0	0	1	0
 วีระยุทธ	werayut - a male's name	0	0	1	0
@@ -5376,28 +5118,25 @@
 จักจั่น	a type of grass hopper	0	0	1	0
 พระคาถาชินบัญชร	chinbanchon	0	0	1	0
 พระคาถาชินบัญชร	chinnabanchon chant	0	0	1	0
-เทนนิส	tennis	0	0	1	0
 ตำนานแฝงคำสอน	parable	1	1	0	0
-องคชาต	penis	0	0	1	0
 เคน	ken	0	0	1	0
 สินค้าอุปโภคบริโภค	supplies	0	0	1	0
 สินค้าอุปโภคบริโภค	consumer goods	0	0	1	0
 ราชวงศ์อู่ทอง	utong empire in ancient thailand	0	0	1	0
-ละครโทรทัศน์	television drama	0	0	1	0
+หน่วยพันธุกรรม	gene	1	1	1	0
+หน่วยพันธุกรรม	plan	1	0	1	0
 แอล	letter 'l'	0	0	1	0
 โซนยอชิแด	senyosede - a japanese name	0	0	1	0
 รณภพ	ronapop	0	0	1	0
-รณภพ	ronapob- a thai singer	0	0	1	0
 สมเด็จพระมหิตลาธิเบศร	somdet phra mahitra thibet	0	0	1	0
-สมเด็จพระมหิตลาธิเบศร	one of the key figure in the royal family	0	0	1	0
 สมเด็จพระมหิตลาธิเบศร	prince mahidol	0	0	1	0
+สมเด็จพระมหิตลาธิเบศร	one of the key figure in the royal family	0	0	1	0
 ดวงพร	dwongpol	0	0	1	0
 ดวงพร	duang pon - a surname	0	0	1	0
-โกร	guro	0	0	1	0
+ใต้	south	0	0	1	1
 จังหวัดหนองบัวลำภู	nong bua lamphu province	0	0	1	0
 ชีวนิชพันธ์	chiwanitphan	0	0	1	0
 ชีวนิชพันธ์	chevanitpun - a surname	0	0	1	0
-ซาคุโร่	zakuro - a japanese character	0	0	1	0
 เขตเลือกตั้งที่	election area number	0	0	1	0
 ระเบียง	gagarin	1	0	1	0
 ระเบียง	verandah	1	0	1	0
@@ -5412,8 +5151,7 @@
 ขนม	dessert.	1	1	0	0
 ขนม	muslim (adj)	1	0	1	0
 ขนม	confectionery	1	1	0	0
-แม่นาคพระโขนง	mae nak phra khanong	0	0	1	0
-วิศวกรรมสิ่งแวดล้อม	environmental engineering	0	0	1	0
+หนองฮี	nong hi - a location in thailand	0	0	1	0
 หนังสือการ์ตูน	comic book	0	0	1	0
 ศตวรรษที่	century.	0	0	1	0
 ฟุตบอลอาเซียนเยาวชน	asian youth soccer	0	0	1	0
@@ -5426,15 +5164,10 @@
 เดือดทะลุจุดศูนย์	zero point breakthrough	0	0	1	0
 อสูงเนิน	the source	0	0	1	0
 นอกจาก	apart from	0	0	1	0
-นอกจาก	other than	0	0	1	0
-นอกจาก	to exclude	0	0	1	0
 เอกชน	private	0	0	1	0
-เอกชน	private holdings	0	0	1	0
 อยู่	is	0	0	1	0
 อยู่	is/am/are	0	0	1	0
-อยู่	at	0	0	1	0
 ราชมังคลากีฬาสถาน	rajamangala national stadium	0	0	1	0
-โคนัน	conan	0	0	1	0
 เทศบาลนครนครศรีธรรมราช	nakorn sri thamarat city public works	0	0	1	0
 เอเชีย	asia	0	0	1	0
 ฟิวชัน	coal	1	0	1	0
@@ -5469,7 +5202,8 @@
 วงศ์ปลาเนื้ออ่อน	angles	1	0	1	0
 วงศ์ปลาเนื้ออ่อน	corner	1	0	1	0
 โรจูโร่	rojuro - a japanese character	0	0	1	0
-เอ็กโปรพลาซ่า	expo plaza in thailand	0	0	1	0
+เงี้ยว	ngiao	0	0	1	0
+เงี้ยว	shan tribe in northern part of thailand	0	0	1	0
 กวิน	gwen - a name	0	0	1	0
 กวิน	kawin	0	0	1	0
 ในช่วงสงครามโลกครั้งที่	in time of world war	0	0	1	0
@@ -5517,6 +5251,7 @@
 คลาวิคอร์ด	clavichord	0	0	1	0
 ภิญโญ	pinyo - a female's name	0	0	1	0
 เชียงยืน	chiang yuen	0	0	1	0
+โยฮันน์	johann	0	0	1	0
 ศัพท์	vocabulary	0	0	1	0
 อาณัตพล	arnattapon	0	0	1	0
 อาณัตพล	anatphon	0	0	1	0
@@ -5529,24 +5264,20 @@
 ผลงานหนังสือ	publication	0	0	1	0
 ยุคใหม่	new age	0	0	1	0
 ยุคใหม่	new era	0	0	1	0
-ยุคใหม่	modern time	0	0	1	0
 มีภูเขาล้อมรอบอยู่	surrounded by mountains	0	0	1	0
 อำเภอพิปูน	phipun district	0	0	1	0
 อำเภอพิปูน	pipon district.	0	0	1	0
 ซุง	sung	0	0	1	0
 เป็นขนมของชาวไทยมุสลิม	is a thai-muslim dessert	0	0	1	0
 เป็นขนมของชาวไทยมุสลิม	is a thai-muslim candy	0	0	1	0
-ซุน	son	0	0	1	0
 ทะเลทราย	dessert	0	0	1	0
 เมฆออร์ต	ash cloud in the space	0	0	1	0
 บอลด์วิน	baldwin	0	0	1	0
 เบนจามิน	benjamin	0	0	1	0
 อำเภอเขวาสินรินทร์	ampore khavasinrin	0	0	1	0
-อำเภอเขวาสินรินทร์	khwao sinarin district	0	0	1	0
 อำเภอเขวาสินรินทร์	kawasirin district	0	0	1	0
 คาบัคโรเน่	kyabarrone	0	0	1	0
 โอสถานุเคราะห์	social service	0	0	1	0
-ฮังการี	hungary	0	0	1	0
 มหาวิทยาลัยนเรศวร	naresuan university	0	0	1	0
 มหาวิทยาลัยนเรศวร	nareseun university	0	0	1	0
 ก่อตั้งโดย	make by	0	0	1	0
@@ -5564,7 +5295,6 @@
 อากาเป	agape	0	0	1	0
 ปาร์ค	park	0	0	1	0
 ชากะ	shaka	0	0	1	0
-ชากะ	chaga - from japanese cartoon	0	0	1	0
 หมวดหมู่รัฐคอมมิวนิสต์	communist countries	0	0	1	0
 รูสเวลต์	roosevelt	1	1	0	0
 ระหว่างสงครามโลกครั้งที่	during wold war	0	0	1	0
@@ -5577,8 +5307,8 @@
 เกษมศรี	kasemsri surname	0	0	1	0
 ไพรบึง	phrai bueng	0	0	1	0
 ธรรมเมกขสถูป	dhamek stupa	0	0	1	0
-หมวดหมู่การ์ตูนญี่ปุ่นแนวโชเน็น	the cartoons of japan	0	0	1	0
 หมวดหมู่การ์ตูนญี่ปุ่นแนวโชเน็น	sonen style cartoon category	0	0	1	0
+หมวดหมู่การ์ตูนญี่ปุ่นแนวโชเน็น	the cartoons of japan	0	0	1	0
 คามิว	built	1	0	1	0
 คามิว	camus	1	1	0	0
 คามิว	camus cartoon	1	1	0	0
@@ -5589,6 +5319,7 @@
 ทนาย	lawyer	0	0	1	0
 ๔๘	48	0	0	1	0
 ก้าน	thorn	0	0	1	0
+ดรสาโรช	dr. sarot	0	0	1	0
 คณะศิลปกรรมศาสตร์	faculty of fine and applied arts	0	0	1	0
 คณะศิลปกรรมศาสตร์	faculty of fine arts	0	0	1	0
 เขตบางแค	bang khae district	0	0	1	0
@@ -5612,8 +5343,6 @@
 พลเอกสนธิ	general sonthi	0	0	1	0
 มันติคอร์	manticore	1	1	0	0
 ชมพู่	syzygium	0	0	1	0
-ทหารอากาศ	air force man	0	0	1	0
-อารยา	araya	0	0	1	0
 อุปนิสัย	manners	0	0	1	0
 เขตห้วยขวาง	huaykwang	0	0	1	0
 เว็บเบราว์เซอร์	web browser	0	0	1	0
@@ -5623,7 +5352,8 @@
 รูปสี่เหลี่ยมด้านขนาน	boris	1	0	1	0
 รูปสี่เหลี่ยมด้านขนาน	a paralellogram	1	0	1	0
 รูปสี่เหลี่ยมด้านขนาน	parallelogram	1	1	0	0
-โรม	rome	0	0	1	0
+ฟ้า	blue	0	0	1	0
+ฟ้า	blue color	0	0	1	0
 น้ำดื่ม	beverages	0	0	1	0
 โพนพิสัย	phonphisai	0	0	1	0
 โพนพิสัย	ponpisai area	0	0	1	0
@@ -5648,14 +5378,13 @@
 แอร์ไลน์	airlines	0	0	1	0
 สปรินเตอร์	sprinter	1	1	0	0
 สมัยรัชกาลที่	in the reign of	0	0	1	0
-ดี	d.	0	0	1	0
-ดี	good	0	0	1	0
-จาก	from	0	0	1	0
+อริยสัจ	teaching of buddha	0	0	1	0
+ทอง	gold	0	0	1	1
+ทอง	thong	0	0	1	0
 มาร์ตินีก	martinique	0	0	1	0
 ในภาษาอังกฤษ	in english	0	0	1	0
 การศึกษา	education	0	0	1	1
 การศึกษา	study of	0	0	1	0
-มหาวิทยาลัยศิลปากร	silapakorn university	0	0	1	0
 มหาวิทยาลัยศิลปากร	silpakorn university	0	0	1	0
 มหาวิทยาลัยศิลปากร	sinlapakon   university	0	0	1	0
 จสตูล	stoul state	0	0	1	0
@@ -5669,7 +5398,6 @@
 เกิด	born	0	0	1	0
 อักษรเกาหลี	korea alphabet	0	0	1	0
 อักษรเกาหลี	korean alphabets	0	0	1	0
-มหาวิทยาลัยธรรมศาสตร์	thammasat university	0	0	1	0
 อำนาจ	amnat	0	0	1	0
 มหาวิทยาลัยมหิดล	mahidol university	0	0	1	0
 หลักจริยธรรม	ethic	0	0	1	0
@@ -5719,7 +5447,6 @@
 ปริศนา	puzzle	1	1	0	0
 ปริศนา	ability	1	0	1	0
 ปริศนา	consumption	1	0	1	0
-สถาบันศูนย์และหน่วยงานในมหาวิทยาลัย	current faculties/college/school/institutes	0	0	1	0
 สถาบันศูนย์และหน่วยงานในมหาวิทยาลัย	department of education of the university	0	0	1	0
 สถาบันศูนย์และหน่วยงานในมหาวิทยาลัย	offices in the university	0	0	1	0
 สมาคมประชาชาติแห่งเอเชียตะวันออกเฉียงใต้	association of south east asian nations (asean)	0	0	1	0
@@ -5744,16 +5471,16 @@
 ไอโอ	criteria	1	0	1	0
 ส่วนหัว	top part	0	0	1	0
 ส่วนหัว	head	0	0	1	0
-สิ่ง	things	0	0	1	0
 สิ่ง	thing	0	0	1	0
-ซม	cm.	0	0	1	0
+สิ่ง	things	0	0	1	0
 อำเภอเมืองลพบุรี	lopburi province	0	0	1	0
 อำเภอเมืองลพบุรี	mueang lopburi district	0	0	1	0
 ฐานทัพ	armforce	0	0	1	0
-เฉพาะด้านตะวันออกเฉียงใต้เท่านั้นที่เป็นที่ราบลุ่มแม่น้ำโขง	only south-east area that is in mekhong plateau	0	0	1	0
+รวมระยะทางทั้งสิ้น	total distance	0	0	1	0
 สุรวุฒิ	surawut	0	0	1	0
 แมกนีเซียม	magnesium	0	0	1	0
-แกมเบีย	cambia	0	0	1	0
+นพจินดา	noppajinda - a surname	0	0	1	0
+นพจินดา	nopchinda (thai last name)	0	0	1	0
 ธง	flag	0	0	1	0
 ธง	thong	0	0	1	0
 แฮช	hash	1	1	0	0
@@ -5774,7 +5501,6 @@
 การตอบรับ	reception	0	0	1	0
 การตอบรับ	accept	0	0	1	0
 สถาบันเทคโนโลยีนานาชาติสิรินธร	sirindhorn international institute of technology	0	0	1	0
-สถาบันเทคโนโลยีนานาชาติสิรินธร	techonology department sirinthone location	0	0	1	0
 กอด	kord	0	0	1	0
 กอด	hug	0	0	1	0
 กอด	kod	0	0	1	0
@@ -5807,9 +5533,7 @@
 ขวัญ	morale	0	0	1	0
 ขวัญ	kwan	0	0	1	0
 หมวดหมู่บุคคลจากมหาวิทยาลัยธรรมศาสตร์	group of staff from thammasat university	0	0	1	0
-จังหวัดสิงห์บุรี	sing buri province	0	0	1	0
-สาขานครราชสีมา	nakhon ratchasima branch	0	0	1	0
-สมัยที่	term	0	0	1	0
+ผลกระทบ	impact	0	0	1	0
 สมัยที่	in the era of...	0	0	1	0
 อำเภอพระประแดง	pra-pradaeng district	0	0	1	0
 อำเภอพระประแดง	prapadeang district in samutpakarn state	0	0	1	0
@@ -5831,7 +5555,6 @@
 ปล่อย	release	0	0	1	0
 ปล่อย	open up	0	0	1	0
 ปล่อย	let go	0	0	1	0
-ระหว่างปี	between the year	0	0	1	0
 สอยดาว	soidao	0	0	1	0
 สอยดาว	the game of picking paper stars from a tree and exchange for prizes	0	0	1	0
 ฟีนิลคีโตนูเรีย	phenylketonuria	1	1	0	0
@@ -5865,7 +5588,6 @@
 จอมเทียน	jomtien.	0	0	1	0
 จอมเทียน	jomtien	0	0	1	0
 เอเธนส์	athens	0	0	1	0
-ยุคก่อนประวัติศาสตร์	prehistory	0	0	1	0
 ยุคก่อนประวัติศาสตร์	time before history was made	0	0	1	0
 นิคมพัฒนา	nikhom phatthana	0	0	1	0
 นิคมพัฒนา	nikom pattana district in rayong province	0	0	1	0
@@ -5890,7 +5612,6 @@
 อีกครั้ง	one more time	0	0	1	0
 ตะละภัฏ	talaput - a surname	0	0	1	0
 ได้ทูลเกล้าฯ	report to the king	0	0	1	0
-ในต่างประเทศ	in foreign countries	0	0	1	0
 ในต่างประเทศ	foreign countries	0	0	1	0
 ไชยา	chaiya	0	0	1	0
 อุตรดิตถ์	uttaradit	0	0	1	0
@@ -5913,7 +5634,6 @@
 วงศ์พัวพันธ์	vongpuapan (thai last name)	0	0	1	0
 รัฐมนตรีว่าการกระทรวงคมนาคม	transportation secretary of thailand	0	0	1	0
 รัฐมนตรีว่าการกระทรวงคมนาคม	ministry of transport	0	0	1	0
-ซันไชน์	sunshine	0	0	1	0
 รัตนาธิเบศร์	ratana thibet	0	0	1	0
 เจ้าฟ้ากรมพระยานริศรานุวัดติวงศ์	refer to a title of a royal family member - jao fa krom pra ya rissanuwattiwong	0	0	1	0
 ส่วนสูง	height	0	0	1	0
@@ -5937,11 +5657,8 @@
 วิทยาการระบาด	epidemiology	0	0	1	0
 โทรจัน	trojan	1	1	0	0
 ถนนคนเดิน	kon dern road	0	0	1	0
-ส่วนใหญ่	mostly	0	0	1	0
-กำกับโดยอภิชาติพงศ์	produced by apichartpong - a famous thai movie producer	0	0	1	0
 เจียะแจ	nine emperor gods festival	0	0	1	0
 มต้น	primary level of secondary school	0	0	1	0
-มต้น	middle school	0	0	1	0
 พระพันวัสสาอัยยิกาเจ้า	pra paunvatsaeyyigajao - name of a monk	0	0	1	0
 ๒๕๕๐	2550	0	0	1	0
 อัมพร	umpon - a female's name	0	0	1	0
@@ -5998,7 +5715,6 @@
 สหรัฐอเมริกา	america	0	0	1	0
 สหรัฐอเมริกา	united states of america	0	0	1	0
 สหรัฐอเมริกา	usa	0	0	1	0
-วิทยาลัยวิชาการศึกษา	college of education	0	0	1	0
 องคต	angada	0	0	1	0
 สายที่	that line	0	0	1	0
 ยอดเขาสูงที่สุดของกัมพูชาคือ	the highest mountain in cambodia	0	0	1	0
@@ -6008,9 +5724,6 @@
 อำเภอสามพราน	rose district.	0	0	1	0
 เกมบุค	game book	0	0	1	0
 เกมบุค	gamebook	0	0	1	0
-คณะรัฐมนตรีคณะที่	the cabinet of a government number	0	0	1	0
-คณะรัฐมนตรีคณะที่	council of ministers	0	0	1	0
-คณะรัฐมนตรีคณะที่	the thai government number _____	0	0	1	0
 เฟนิรามีน	pheniramine	1	1	0	0
 พรรคเพื่อแผ่นดิน	to the land.	0	0	1	0
 พรรคเพื่อแผ่นดิน	puea pandin party	0	0	1	0
@@ -6018,7 +5731,6 @@
 เอเชียใต้	south asia	0	0	1	0
 กรี	karee	0	0	1	0
 กรี	gree (a man's name)	0	0	1	0
-อริยสัจ	teaching of buddha	0	0	1	0
 ไข้รากสาดใหญ่	game	1	0	1	0
 ไข้รากสาดใหญ่	typhus	1	1	0	0
 ไข้รากสาดใหญ่	play	1	0	1	0
@@ -6029,7 +5741,7 @@
 นายทวี	mr. tavee	0	0	1	0
 ภาษาบาลี	balese language	0	0	1	0
 ในโอกาสครบรอบ	anniversary	0	0	1	0
-กัมพูชาเป็นอาณานิคมของฝรั่งเศสมาตั้งแต่พศ	cambodia was a france colony from year	0	0	1	0
+เทนนิส	tennis	0	0	1	0
 อากาศอำนวย	akat amnuai	0	0	1	0
 มยุรา	mayura - a female's name	0	0	1	0
 ๒๕๔๘	2548	0	0	1	0
@@ -6067,7 +5779,6 @@
 สวนสมเด็จพระศรีนครินทร์	srinagarindra park	0	0	1	0
 มิโร	miro - name	0	0	1	0
 มิโร	miro	0	0	1	0
-ประการที่	point	0	0	1	0
 ประเทศลาว	laos	0	0	1	0
 ประเทศลาว	laos country	0	0	1	0
 ประเทศลาว	country of laos	0	0	1	0
@@ -6091,7 +5802,6 @@
 พบหลักฐานของมนุษย์ซึ่งมีอายุเก่าแก่ที่สุดถึงห้าแสนปี	found evidence of the oldest human	0	0	1	0
 อำเภอเมืองเพชรบุรี	pechaburi province	0	0	1	0
 สิ่งมีชีวิต	living things	0	0	1	0
-โลโซ	lasso	0	0	1	0
 โบฮีเมีย	bohemia	1	1	0	0
 โบฮีเมีย	refered	1	0	1	0
 โบฮีเมีย	attributed	1	0	1	0
@@ -6113,7 +5823,6 @@
 ตัวพระ	main character	0	0	1	0
 ตัวพระ	lead	0	0	1	0
 เครื่องดีด	thai string musical instruments	0	0	1	0
-ฮิโรชิ	hiroshi	0	0	1	0
 ฮิโรชิ	hirochi - a japanese cartoon artist	0	0	1	0
 โรงพยาบาลอุตรดิตถ์	uttaradit hospital	0	0	1	0
 นิลภิรมย์	nipinpirom - a surname	0	0	1	0
@@ -6161,7 +5870,7 @@
 ฉายเมื่อ	to be shown (on tv or big screens) on__________	0	0	1	0
 แท็กซี่	taxi	0	0	1	1
 ยอง	roe	0	0	1	0
-จังหวัดพังงา	phang nga province	0	0	1	0
+สุจริตกุล	sucharitkul	0	0	1	0
 ทางทิศตะวันออก	east	0	0	1	0
 วงเงิน	budget	0	0	1	0
 เสนาเมือง	senamuang	0	0	1	0
@@ -6171,10 +5880,11 @@
 กิโลไบต์	kilobyte	1	1	0	0
 กิโลไบต์	payment	1	0	1	0
 กิโลไบต์	pay	1	0	1	0
-ลิเก	like	0	0	1	0
+ยอด	great	0	0	1	0
+ยอด	super	0	0	1	0
 กัมปูเชีย	kampuchea	0	0	1	0
-ชาตะ	born	0	0	1	0
-ไปรษณีย์อุทุมพรพิสัย	utumporn pisai post office	0	0	1	0
+ต่อกันด้วยพันธะ	linked by bond	0	0	1	0
+ต่อกันด้วยพันธะ	connected by the chemical bond	0	0	1	0
 สุราษฎร์ธานี	surat thani	0	0	1	0
 ในช่วงแรก	at first	0	0	1	0
 ในช่วงแรก	in the first part	0	0	1	0
@@ -6187,7 +5897,7 @@
 ชาติ	nation	0	0	1	1
 สายรัชกาลที่	family tree of king rama ...	0	0	1	0
 สายรัชกาลที่	rama	0	0	1	0
-ในขณะที่	while	0	0	1	0
+โนเบล	nobel	1	1	0	0
 บอย	boy	0	0	1	0
 ไหลจากลาวเข้าสู่ภาคเหนือของกัมพูชาแล้วไหลผ่านเข้าเขตเวียดนาม	flows from laos into northern cambodia	0	0	1	0
 ไม้หนีบผ้า	gurds	1	0	1	0
@@ -6210,13 +5920,9 @@
 วนิดา	wanida - the name of a drama	0	0	1	0
 ยาง	rubber	0	0	1	1
 ยาง	tire	0	0	1	1
-อาเนีย	a - nia	0	0	1	0
-อาเนีย	anya	0	0	1	0
-มายน์ส	mine	0	0	1	0
+ดูที่	see	0	0	1	0
 มาซากิ	masaki	0	0	1	0
 มาซากิ	machagi - a  japanese surname	0	0	1	0
-สีฟ้า	blue	0	0	1	0
-สีฟ้า	blue color	0	0	1	0
 เหรียญทอง	gold medal	0	0	1	0
 เหรียญทอง	rianthong	0	0	1	0
 ไปรษณีย์โพนพิสัย	post office	0	0	1	0
@@ -6228,7 +5934,6 @@
 ระบบ	system	0	0	1	0
 สนามไฟฟ้า	electric field	0	0	1	0
 สนามไฟฟ้า	power station	0	0	1	0
-ฮอว์ค	hawk	0	0	1	0
 ฮอว์ค	hawke	0	0	1	0
 ยุคปัจจุบัน	present age	0	0	1	0
 ยุคปัจจุบัน	modern time	0	0	1	0
@@ -6256,8 +5961,6 @@
 พระยาวิเศษภักดี	praya wiset pakdi -a  name of a head of state in the ancient time	0	0	1	0
 บีฟเค้ก	beefcake	1	1	0	0
 อินเด็กซ์	index	0	0	1	0
-จอมพลสฤษดิ์	field marshal sarit	0	0	1	0
-สถานที่ท่องเที่ยวทางธรรมชาติ	natural attraction	0	0	1	0
 สถานที่ท่องเที่ยวทางธรรมชาติ	natural tourist attraction	0	0	1	0
 สถานที่ท่องเที่ยวทางธรรมชาติ	natrual tourist attraction	0	0	1	0
 ระดับอาชีวศึกษา	collage	0	0	1	0
@@ -6278,7 +5981,6 @@
 พารา	para	1	1	0	0
 และหลังจากสงครามภายใน	after inside war	0	0	1	0
 และหลังจากสงครามภายใน	after the war within	0	0	1	0
-วัดสุทัศนเทพวรารามราชวรมหาวิหาร	wat sutatthepvararamrajavorimahavihan - a temple in thailand	0	0	1	0
 ละคร	drama	0	0	1	0
 ละคร	play	0	0	1	1
 ละคร	theatre	0	0	1	0
@@ -6286,13 +5988,11 @@
 ศุภณัฐ	suppanun - male's first name	0	0	1	0
 มิตรเพชรา	mit pechara - two of famous actors in the old time	0	0	1	0
 ปักธงชัย	pakthongchai	0	0	1	0
-ปักธงชัย	pukthongchai - group of thai people from korat who speak with different thai accent.	0	0	1	0
 คู่ค้าสำคัญ	important sell partner	0	0	1	0
 วาลีน	valine - a type of protein	0	0	1	0
 วาลีน	valine amino acid	0	0	1	0
 แบ่งออกเป็น	divided into...	0	0	1	0
 ปราจีนบุรี	prachin-buri	0	0	1	0
-ปราจีนบุรี	prachinburi	0	0	1	0
 ดราก้อน	dragon	0	0	1	0
 คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี	the staff of ramatippadee hospital	0	0	1	0
 คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี	faculty of medicine ramathibodi hospital	0	0	1	0
@@ -6328,16 +6028,15 @@
 ซึ่ง	because	0	0	1	0
 รังสี	radiation	0	0	1	0
 พิคเจอร์	pictures.	0	0	1	0
-ซึม	absorb	0	0	1	0
+ของร่างกาย	of the body	0	0	1	0
+ของร่างกาย	for the body	0	0	1	0
 อนันตยะ	anantaya	0	0	1	0
 ปรัชญาตะวันตก	western philosophy	0	0	1	0
 ประเทศแคนาดา	canada	0	0	1	0
 โรงเรียนการบิน	aviation school	0	0	1	0
 โรงเรียนการบิน	flight school	0	0	1	0
 ธงชาติ	national flag	0	0	1	0
-ในปีเดียวกันนั้น	in that year	0	0	1	0
 ศิษย์เก่าคณะเศรษฐศาสตร์	economics alumni	0	0	1	0
-ศิษย์เก่าคณะเศรษฐศาสตร์	alumni from economics department	0	0	1	0
 โดยใช้ชื่อว่า	using name	0	0	1	0
 โดยใช้ชื่อว่า	man	0	0	1	0
 อาดัม	poor	1	0	1	0
@@ -6396,7 +6095,7 @@
 ธกส	bank for agriculture and agriculture	0	0	1	0
 แกะ	sheep	0	0	1	0
 อำเภอนาบอน	nabon district	0	0	1	0
-การเพิ่มสิทธิประโยชน์แก่นักลงทุนต่างประเทศ	increase benefits for foreign investors	0	0	1	0
+มโนราห์	thai dance art	0	0	1	0
 ศาสนา	religion	0	0	1	1
 ชีวมวล	alternative (natural) power	0	0	1	0
 ความต่างศักย์	potential difference	1	0	1	0
@@ -6425,7 +6124,6 @@
 มีนบุรี	minburi province	0	0	1	0
 พระบรมวงศานุวงศ์	members of the royal family	0	0	1	0
 ปาริชาต	erythrina	0	0	1	0
-ปาริชาต	tiger’s claw	0	0	1	0
 ปาริชาต	indian coral tree	0	0	1	0
 พลตรีหญิง	a female officer	0	0	1	0
 เยาวราช	yaowaraj	0	0	1	0
@@ -6480,7 +6178,6 @@
 สี	operators	1	0	1	0
 สี	provider	1	0	1	0
 ประโยค	sentence	0	0	1	1
-ยุคอะซึกะ	asuka period	0	0	1	0
 อิโนะ	ino	0	0	1	0
 สกุลหยาดน้ำค้าง	d. erythrorhiza - a type of plant	1	1	0	0
 สกุลหยาดน้ำค้าง	d. etrythrorhiza - a type of plant	1	1	0	0
@@ -6490,9 +6187,9 @@
 พระชนม์	the father of the king	0	0	1	0
 นายสวัสดิ์	mr. valle stale.	0	0	1	0
 นายสวัสดิ์	sawat	0	0	1	0
-ผ้าขาวม้า	a special thai cloth that men used to tie around their waists	0	0	1	0
 กริม	grim	0	0	1	0
-ไวรัส	virus	0	0	1	0
+ธรรมศักดิ์	tamasak - surname of an elected prime minister	0	0	1	0
+ธรรมศักดิ์	dharmasakti	0	0	1	0
 ว้าวุ่น	restless	0	0	1	0
 ว้าวุ่น	confused	0	0	1	0
 ว้าวุ่น	wawun	0	0	1	0
@@ -6500,7 +6197,6 @@
 ทรัพย์วิจิตร	sapwichit	0	0	1	0
 เป็นปลาตู้สวยงาม	is an ornamental fish	0	0	1	0
 สลักใจ	salakchai	0	0	1	0
-สลักใจ	salakjai - the surname of a famous singer	0	0	1	0
 และปัจจุบัน	now	0	0	1	0
 และปัจจุบัน	presently	0	0	1	0
 ความโน้มถ่วง	founded	1	0	1	0
@@ -6519,51 +6215,47 @@
 มปท	acronyms	0	0	1	0
 นักวิทยาศาสตร์	scientist	0	0	1	0
 ประเทศภูฏาน	bhutan	0	0	1	0
-นพจินดา	noppajinda - a surname	0	0	1	0
-นพจินดา	nopchinda (thai last name)	0	0	1	0
+แกมเบีย	cambia	0	0	1	0
 เหล็ก	iron	0	0	1	1
-โนรา	nora	0	0	1	0
+บูมเมอแรง	boomerang	0	0	1	0
 ยุคกลาง	middle age	0	0	1	0
 ยุคกลาง	middle ages	0	0	1	0
 แคมป์เบลล์	campbell	0	0	1	0
-จุลานนท์	grapes chulanont.	0	0	1	0
+โลโซ	lasso	0	0	1	0
 ให้แก่ประชาชน	for the people	0	0	1	0
 เปอร์โตริโก้	puerto rico	0	0	1	0
 เดย์	day	0	0	1	0
 ไขสันหลัง	spinal cord	0	0	1	0
 แก๊สธรรมชาติ	natural gas	0	0	1	0
 สารานุกรมไทย	saranukromthai	0	0	1	0
-เข้ารอบ	made it to the next round	0	0	1	0
-เข้ารอบ	selected from the initial round	0	0	1	0
-ห่วงใย	worried	0	0	1	0
-ห่วงใย	care	0	0	1	0
-คูกิมิยะ	kugimiya - a model	0	0	1	0
+สมัยสุโขทัย	sukothai era	0	0	1	0
+สมัยสุโขทัย	sukhothai era	0	0	1	0
 คูกิมิยะ	kugimiya (last name)	0	0	1	0
 อำเภอแม่แจ่ม	mae jam province	0	0	1	0
-มิวสิกวีดีโอ	music video	0	0	1	0
+ส่วนใหญ่	mostly	0	0	1	0
 ให้ใช้หลัก	large size	0	0	1	0
 จสุราษฎร์ธานี	surat thani province	0	0	1	0
 จสุราษฎร์ธานี	surattani province	0	0	1	0
 สถาบันพระบรมราชชนก	red cross department	0	0	1	0
 สถาบันสมทบ	affiliated institute	0	0	1	0
-สถาบันสมทบ	join institute	0	0	1	0
 หม่อมเจ้าวัชรวีร์	mom chao vatcharee - a member of the royal family	0	0	1	0
 ลูกอัณฑะ	testis	0	0	1	0
 ลูกอัณฑะ	testicle	0	0	1	0
 ลูกอัณฑะ	testes	0	0	1	0
 โรจนะ	rojana.	0	0	1	0
-เอนจิเนียริ่ง	engineering	0	0	1	0
-ประเภทรายการแข่งขันชิงรางวัลดีเด่น	award show for	0	0	1	0
+สำนักงานคณะกรรมการวัฒนธรรมแห่งชาติ	office of arts and culture preservation of thailand	0	0	1	0
+สกุลเพชรหึง	grammatophyllum	1	1	0	0
+สกุลเพชรหึง	world championship	1	0	1	0
+สกุลเพชรหึง	grammatophyllum - a group of orchids	1	1	0	0
+สกุลเพชรหึง	wc (world cup)	1	0	1	0
 ชั้นยศ	millitary rank	0	0	1	0
 กำมะถัน	sulfur	1	1	1	0
 กำมะถัน	sulphur	1	0	1	0
 กำมะถัน	composition	1	0	1	0
 กำมะถัน	structure	1	0	1	0
 ขสมก	an acronym consists of four thai letters	0	0	1	0
-ศุกลวัฒน์	sukolawat (a person's name)	0	0	1	0
 ประเทศและดินแดน	natoin and territory	0	0	1	0
 ประเทศและดินแดน	country and border	0	0	1	0
-ผลงานเพลง	song production	0	0	1	0
 วงศ์ถั่ว	fabaceae	1	1	0	0
 วงศ์ถั่ว	everywhere	1	0	1	0
 วงศ์ถั่ว	universally	1	0	1	0
@@ -6584,7 +6276,6 @@
 เป็นเวลา	utilized time	0	0	1	0
 เป็นเวลา	time	0	0	1	0
 โดราเอมอนฉบับภาพยนตร์	doraemon movie	0	0	1	0
-โดราเอมอนฉบับภาพยนตร์	doraemon movie edition	0	0	1	0
 ซิโนไทย	sino-thai	0	0	1	0
 ขึ้นเป็น	to	0	0	1	0
 พืชกรรมสวน	horticulture	1	1	0	0
@@ -6598,7 +6289,6 @@
 ศิลปะเครื่องปั้นดินเผา	pottery art	0	0	1	0
 แพะ	goat	0	0	1	0
 บ้านปราสาท	castle house	0	0	1	0
-บ้านปราสาท	ban prasat	0	0	1	0
 ราบเป็นหน้ากลอง	flattened like a drum (meaning to be defeated)	0	0	1	0
 แบงค์	bank	0	0	1	0
 มอสก้า	moska	0	0	1	0
@@ -6618,17 +6308,19 @@
 ตระกูลเซนจู	chen ju dynasty	0	0	1	0
 ตระกูลเซนจู	senju clan	0	0	1	0
 วาไรตี้	variety	0	0	1	0
-นายแพทย์	male doctor	0	0	1	0
+สัมผัสนอก	outside touch	0	0	1	0
 เจ้าฟ้ากรมพระยานริศรานุวัติวงศ์	prince narisara nuvativongse	0	0	1	0
 สรรพสินค้า	department store	0	0	1	0
 ของเหลว	liquid	0	0	1	0
-ซีโร่	zero	0	0	1	0
+กล้วยไม้ดาว	defense	1	0	1	0
+กล้วยไม้ดาว	type of orchid that have slim petal like star	1	1	0	0
+กล้วยไม้ดาว	defence	1	0	1	0
+กล้วยไม้ดาว	epidendrum	1	1	0	0
 และกลายเป็นอู่ข้าวอู่น้ำที่มีชื่อเสียงของไทย	and becoming the futile land	0	0	1	0
 รัฐบุรุษ	statesman	1	1	0	0
 รัฐบุรุษ	having	1	0	1	0
 รัฐบุรุษ	have	1	0	1	0
 โยชิโนะ	yoshino	0	0	1	0
-โยชิโนะ	yochino - a japanese surname	0	0	1	0
 จรัญญา	jarunya - a surname	0	0	1	0
 เทศบาลเมืองบุรีรัมย์	bureerum public works	0	0	1	0
 ตาราง	table	0	0	1	0
@@ -6660,11 +6352,9 @@
 เนรมิต	casting a spell	0	0	1	0
 อำเภอพระสมุทรเจดีย์	samutjadee district	0	0	1	0
 ฟุตบอล	football	0	0	1	1
-พายุ	storm	0	0	1	0
 พัทยาเหนือ	north pattaya	0	0	1	0
 พัทยาเหนือ	north-pattaya	0	0	1	0
 ทุก	every	0	0	1	1
-ปทุมธานี	pathum thani	0	0	1	0
 วอลท์	walt	0	0	1	0
 ลักษณะภูมิอากาศ	the type of climate	0	0	1	0
 ลักษณะภูมิอากาศ	climate	0	0	1	0
@@ -6676,9 +6366,10 @@
 หุตะสิงห์	singapore clocking.	0	0	1	0
 หุตะสิงห์	hutasingha	0	0	1	0
 หุตะสิงห์	ustadi tung kong	0	0	1	0
-บทสวดสรภัญญะที่ขึ้นต้นด้วยธรรมมะคือ	a buddhist prayer	0	0	1	0
 โฆษิตพิพัฒน์	the surname kopitpipat	0	0	1	0
-ทีฆนิกาย	tee ka ni kai bible	0	0	1	0
+สุขสวัสดิ์	suksawas	0	0	1	0
+สุขสวัสดิ์	suksawat	0	0	1	0
+สุขสวัสดิ์	happy	0	0	1	0
 เป็นวิญญาณเทียมเพศชาย	the spirit who is a male	0	0	1	0
 จำเริญ	jamroen	0	0	1	0
 แฟรี่เทล	fairy tale	0	0	1	0
@@ -6686,7 +6377,7 @@
 และตำแหน่ง	and position	0	0	1	0
 สายรุ้ง	rainbow	0	0	1	0
 เขียนโดย	written by	0	0	1	0
-ภูมิประเทศและภูมิอากาศ	geography and climate	0	0	1	0
+ปจ	two letters acronym	0	0	1	0
 นิรมิต	niramit	0	0	1	0
 ในภาษาไทย	in the thai language	0	0	1	0
 ในภาษาไทย	in english.	0	0	1	0
@@ -6701,7 +6392,6 @@
 นักร้องเพลงไทยสากลชาย	modern thai music male singer	0	0	1	0
 ปู	crab	0	0	1	1
 กองพันทหารช่างที่	troop unit number ___________`	0	0	1	0
-หมวดหมู่วัฒนธรรมไทย	category:thai culture	0	0	1	0
 แสงสิงแก้ว	sangsingkaew	0	0	1	0
 วัดพระฝางสวางคบุรีมุนีนาถ	prhafangsawangkaburimuninat temple	0	0	1	0
 วัดพระฝางสวางคบุรีมุนีนาถ	wat phra fang sawangkhaburi muni arts	0	0	1	0
@@ -6711,9 +6401,8 @@
 พิสุทธิ์	pisut - a male's name	0	0	1	0
 พิสุทธิ์	pisuth (first name)	0	0	1	0
 พิสุทธิ์	pisut	0	0	1	0
-สงครามเกาหลี	korean war	0	0	1	0
-สงครามเกาหลี	korea war	0	0	1	0
 สุรชาติ	surachart - a male's name	0	0	1	0
+อยู่วิทยา	yoovidhya	0	0	1	0
 สระแก้ว	sa kaeo	0	0	1	0
 ๒๕๓๖	2536 be (1993 ad)	0	0	1	0
 ๒๕๓๖	2536	0	0	1	0
@@ -6731,12 +6420,10 @@
 คาราคุระ	http://mturk.jhu.edu/static/images/th/word/0006193770.png	0	0	1	0
 คาราคุระ	karakura	0	0	1	0
 มาจยาร์	magyar	1	1	0	0
-ในเหตุการณ์	in the event	0	0	1	0
 กฎ	law	0	0	1	1
 กฎ	rule	0	0	1	1
 ในระยะหลัง	at the end	0	0	1	0
 ในระยะหลัง	recently	0	0	1	0
-ชัยชนะ	chaichana	0	0	1	0
 ทีวีอินไซด์	tv inside	0	0	1	0
 ทีวีอินไซด์	inside television	0	0	1	0
 เวลาประมาณ	approximate time	0	0	1	0
@@ -6764,17 +6451,16 @@
 วงศ์ปลาหลังเขียว	clupeidae - a type of fish	1	1	0	0
 วงศ์ปลาหลังเขียว	(ordinal number suffix) th	1	0	1	0
 วงศ์ปลาหลังเขียว	clupeidae	1	1	0	0
-ดรสาโรช	dr. sarot	0	0	1	0
+จังหวัดสิงห์บุรี	sing buri province	0	0	1	0
 จริยา	jariya	0	0	1	0
 จริยา	manners	0	0	1	0
-กานต์	kan	0	0	1	0
-แจ็ค	jack	0	0	1	0
+อย่างไรก็ตาม	however	0	0	1	0
 เปรม	pream	0	0	1	0
 เปรม	prem	0	0	1	0
 เปรม	phrem	0	0	1	0
 ปากดี	be talkative	0	0	1	0
 ปากดี	smart mouth	0	0	1	0
-คอนเสิร์ตประสานเสียงสามสถาบัน	chulalongkorn kasetsart thammasat choral concert	0	0	1	0
+อารยา	araya	0	0	1	0
 พระราชวังดุสิต	dusit palace	0	0	1	0
 หรือที่เรียกกันว่า	or what it is called ...	0	0	1	0
 เอเอฟซี	afc	0	0	1	0
@@ -6807,8 +6493,6 @@
 เอเชียเหนือ	north asia	0	0	1	0
 เจ้าเมือง	mayor	0	0	1	0
 จีนตัวย่อ	simplified chinese characters	0	0	1	0
-กรมควบคุมโรค	department of disease control	0	0	1	0
-คือเพลง	is the song	0	0	1	0
 มอส	mos	0	0	1	0
 แห่งสหประชาชาติ	of united nations	0	0	1	0
 ทรัพยากร	resource	1	1	0	0
@@ -6824,7 +6508,6 @@
 เขตวังทองหลาง	wang thonglang district	0	0	1	0
 พลอากาศเอกหญิง	air chief marshal	0	0	1	0
 ประดิษฐาน	placed	0	0	1	0
-โรงเรียนนายเรือ	royal thai naval academy	0	0	1	0
 วัฒนวิทูกูร	watthanawithukun	0	0	1	0
 วัฒนวิทูกูร	wattanavitukul - a thai surname	0	0	1	0
 วันนี้ที่รอคอย	the day that one has been waiting for	0	0	1	0
@@ -6854,7 +6537,6 @@
 โกลด์	gold	0	0	1	0
 ข้าวเกรียบปากหม้อ	a thai snack	0	0	1	0
 ไหซอง	haisong	0	0	1	0
-รวมระยะทางทั้งสิ้น	total distance	0	0	1	0
 วิทยาเขตนครศรีธรรมราช	nakhon si thammarat campus	0	0	1	0
 รถไฟฟ้ามหานคร	metropolitan rapid transit	0	0	1	0
 ได้สู้กับ	competing against	0	0	1	0
@@ -6874,8 +6556,8 @@
 โอเอกซ์	base	1	0	1	0
 โอเอกซ์	xo game or tic-tac-toe	1	0	1	0
 โอเอกซ์	o-x	1	0	1	0
-เอ็นเทอร์เทนเมนท์	entertainemnt	0	0	1	0
 เอ็นเทอร์เทนเมนท์	entertainment	0	0	1	0
+เอ็นเทอร์เทนเมนท์	entertainemnt	0	0	1	0
 รุจิพรรณ	pan - a name	0	0	1	0
 รุจิพรรณ	ruchiphan	0	0	1	0
 ชื่อดัง	famous	0	0	1	0
@@ -6908,13 +6590,13 @@
 สัตว์มีแกนสันหลัง	mother	1	0	1	0
 สัตว์มีแกนสันหลัง	chordata	1	1	0	0
 สัตว์มีแกนสันหลัง	cordata	1	0	1	0
-สงครามเย็น	cold war	0	0	1	0
-แมว	cat	0	0	1	1
+พุทธศตวรรษที่	buddhist era	0	0	1	0
 ด้านการต่างประเทศ	foreign affairs	0	0	1	0
 วิมเบิลดัน	five	1	0	1	0
 วิมเบิลดัน	winbledon	1	0	1	0
 วิมเบิลดัน	wimbleton	1	0	1	0
 วิมเบิลดัน	wimbledon	1	1	0	0
+ร้องโดย	sung by	0	0	1	0
 จตุรงค์	jaturong - a surname of a comedian	0	0	1	0
 โนบิตะ	nobita	0	0	1	0
 ซึ่งประกอบด้วย	consists of	0	0	1	0
@@ -6934,8 +6616,7 @@
 นางแบบ	model	0	0	1	0
 วันละ	per day	0	0	1	0
 รัชมังคลาภิเษก	rachamangkalapisak	0	0	1	0
-เว็บไซต์ซีไอเอ	cia website	0	0	1	0
-น้องครีม	nong kreme - a nickname of someone in thai entertainment	0	0	1	0
+ธงชัย	thongchai	0	0	1	0
 สวนดุสิตโพล	suan dusit poll	0	0	1	0
 ศิลปะศรีวิชัย	arts from sri vi chai province	0	0	1	0
 เอสโตเนีย	astonia - a country	0	0	1	0
@@ -6953,7 +6634,6 @@
 เพพซิน	pepsin	1	1	0	0
 มูลสาร	munsan	0	0	1	0
 ช็อกโกแลต	chocolate	0	0	1	0
-อุทยานแห่งชาติน้ำตกสี่ขีด	namtoksekeed national park	0	0	1	0
 ทรงห้าหน้า	polyhedron	1	1	0	0
 ทรงห้าหน้า	pentahedron	1	1	0	0
 ทรงห้าหน้า	hit	1	0	1	0
@@ -6965,10 +6645,8 @@
 วิทยาลัยการบริหารรัฐกิจ	management college	0	0	1	0
 วิทยาลัยการบริหารรัฐกิจ	(graduate school of public administration	0	0	1	0
 เรวดี	rawadee	0	0	1	0
-เรวดี	http://mturk.jhu.edu/static/images/th/word/0006199770.png	0	0	1	0
 บางซื่อ	bang see - a location in thailand	0	0	1	0
 มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี	rajamangala university of technology thanyaburi	0	0	1	0
-สุดารัตน์	sudarat	0	0	1	0
 วรรณกรรม	literature	0	0	1	0
 วรรณกรรม	a project that the king did	0	0	1	0
 ไฟ	fire	0	0	1	1
@@ -6978,15 +6656,11 @@
 ไท	tai	0	0	1	0
 ไต	kidney	0	0	1	0
 ในสมัยก่อน	in the past	0	0	1	0
-วิลเลี่ยม	william	0	0	1	0
-วิลเลี่ยม	william.	0	0	1	0
-วิลเลี่ยม	williams	0	0	1	0
 เกาหลีใต้	south korea	0	0	1	0
 ภายใต้ความช่วยเหลือจากกองทุนการเงินระหว่างประเทศ	sponsored by	0	0	1	0
 ภายใต้ความช่วยเหลือจากกองทุนการเงินระหว่างประเทศ	with the financial help	0	0	1	0
 เบลเฟกอล	belphegor- a demon in a legend	0	0	1	0
 เบลเฟกอล	belphegor	0	0	1	0
-ดิจิตอล	digital	0	0	1	0
 สพ	oc	0	0	1	0
 โรงเรียนศึกษานารี	suksanari school	0	0	1	0
 สธ	two letters from thai alphabets	0	0	1	0
@@ -7002,13 +6676,11 @@
 สถาบันบัณฑิตพัฒนบริหารศาสตร์	as known as nida	0	0	1	0
 สยามพารากอน	siam paragon	0	0	1	0
 รุ่ง	dawn	0	0	1	1
-รุ่ง	rung	0	0	1	0
 รุ่ง	rung (thai first name)	0	0	1	0
 วันเกิด	birthday	0	0	1	1
-ธงชัย	thongchai	0	0	1	0
+อุทยานแห่งชาติน้ำตกสี่ขีด	namtoksekeed national park	0	0	1	0
 สวิง	swing	0	0	1	0
 เป็นสีประจำ	official color	0	0	1	0
-ผิวขาว	white	0	0	1	0
 ผิวขาว	light skin	0	0	1	0
 สถาบันอุดมศึกษา	higher education institute	0	0	1	0
 เจ็ดเทพโจรสลัด	seven warlords of the sea	0	0	1	0

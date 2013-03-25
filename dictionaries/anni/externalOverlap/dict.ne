@@ -75,7 +75,6 @@
 सेनानायक	commandant	0	0	1	0
 सेनानायक	senanayak	0	0	1	0
 सेनानायक	army chief	0	0	1	0
-एनेस्थेटिक	anesthetic	0	0	1	0
 एनेस्थेटिक	anaesthetic	0	0	1	0
 एनेस्थेटिक	anasthetic	0	0	1	0
 खड्ग	khand	0	0	1	0
@@ -122,7 +121,6 @@
 वर्णित	varnit	0	0	1	0
 छत्तीसगढ	chattisgadh	0	0	1	0
 छत्तीसगढ	chatisgarh	0	0	1	0
-छत्तीसगढ	some place	0	0	1	0
 सघाउनु	help	0	0	1	0
 लम्जुङ्ग	to see	0	0	1	0
 लम्जुङ्ग	lamjung	0	0	1	0
@@ -139,9 +137,8 @@
 दस्ताबेजहरु	dastabejharu	0	0	1	0
 दस्ताबेजहरु	documents	0	0	1	0
 दस्ताबेजहरु	databases	0	0	1	0
-बिस्तारै	slowly	0	0	1	0
 बिस्तारै	bit by bit	0	0	1	0
-बिस्तारै	bistharai	0	0	1	0
+बिस्तारै	slowly	0	0	1	0
 श्रेणीसंस्कृत	category sanskrit	0	0	1	0
 श्रेणीसंस्कृत	section: sanskrit	0	0	1	0
 श्रेणीसंस्कृत	shrenisamskruth	0	0	1	0
@@ -153,8 +150,11 @@
 घुमन्ते	traveler	0	0	1	0
 घुमन्ते	nomads	0	0	1	0
 घुमन्ते	gypsy	0	0	1	0
-ओशिनिया	oshiniya	0	0	1	0
-ओशिनिया	oceania	0	0	1	0
+बनाउन	making	0	0	1	0
+बनाउन	make	0	0	1	0
+बनाउन	to make	0	0	1	0
+जनजीवन	simple	0	0	1	0
+जनजीवन	daily life	0	0	1	0
 महान	great	0	0	1	0
 महान	mahaan	0	0	1	0
 संस्कृतको	of sanskrit	0	0	1	0
@@ -171,7 +171,6 @@
 काठमाण्डौको	in kathmandu	0	0	1	0
 काठमाण्डौको	kathmandu's	0	0	1	0
 काठमाण्डौको	to kathmadoo	0	0	1	0
-शताब्दीको	of century	0	0	1	0
 शताब्दीको	century	0	0	1	0
 बराल	baraal (surname)	0	0	1	0
 बराल	baraal	0	0	1	0
@@ -215,8 +214,8 @@
 मच्छर	mosquito	0	0	1	0
 पति	pati	0	0	1	0
 पति	husband	0	0	1	0
-पता	pata	0	0	1	0
 पता	known	0	0	1	0
+पता	pata	0	0	1	0
 पता	know	0	0	1	0
 कोन	cone	0	0	1	0
 निश्चित	certain	0	0	1	0
@@ -302,7 +301,6 @@
 ब्यापार	vyapaar	0	0	1	0
 ब्यापार	business	0	0	1	0
 ओबामा	obama	0	0	1	0
-डडेल्धुरा	dadeldhura	0	0	1	0
 डडेल्धुरा	2nd month of the nepali year	0	0	1	0
 विधिवत	official	0	0	1	0
 विधिवत	formal	0	0	1	0
@@ -320,8 +318,8 @@
 उदाहरणका	of example	0	0	1	0
 उदाहरणका	example	0	0	1	0
 दर्शकहरूको	visitors	0	0	1	0
-दर्शकहरूको	darshakharuko	0	0	1	0
 दर्शकहरूको	public	0	0	1	0
+दर्शकहरूको	darshakharuko	0	0	1	0
 रातपोखरी	ratpokhari	0	0	1	0
 श्रम	labour	0	0	1	0
 श्रम	labor	0	0	1	0
@@ -349,7 +347,6 @@
 कार्यकर्ता	karyakartha	0	0	1	0
 सडकको	of road	0	0	1	0
 सडकको	sadakko	0	0	1	0
-चीनिया	find out	0	0	1	0
 चीनिया	chinese	0	0	1	0
 गाबोन	gabon	0	0	1	0
 गाबोन	gabon - country	0	0	1	0
@@ -386,7 +383,6 @@
 कदमको	decision	0	0	1	0
 कदमको	steps	0	0	1	0
 कदमको	kadamko	0	0	1	0
-वीपी	b.p	0	0	1	0
 वीपी	bp	0	0	1	0
 वीपी	bp (abbreviated name of a person)	0	0	1	0
 दलहरुको	party	0	0	1	0
@@ -404,14 +400,12 @@
 उत्तरदक्षिण	uttardakshin	0	0	1	0
 उत्तरदक्षिण	north south	0	0	1	0
 १६६६७४	166674	0	0	1	0
-भूमिकामा	bhoomikama	0	0	1	0
 भूमिकामा	role	0	0	1	0
 मिल्छ	touches	0	0	1	0
 मिल्छ	mingle	0	0	1	0
 मिल्छ	milcha	0	0	1	0
 सेनाले	by army	0	0	1	0
 सेनाले	army	0	0	1	0
-मेला	festival	0	0	1	0
 मेला	easily pleased	0	0	1	0
 मेला	fair	0	0	1	0
 रुपैया	rupees	0	0	1	0
@@ -422,17 +416,17 @@
 मुद्रण	mudran	0	0	1	0
 मुद्रा	mudra	0	0	1	0
 मुद्रा	currency	0	0	1	0
-थिएन	thiyen	0	0	1	0
-थिएन	thien	0	0	1	0
 थिएन	was not	0	0	1	0
+थिएन	thien	0	0	1	0
+थिएन	thiyen	0	0	1	0
 विभाग	department	0	0	1	0
 जनगणना	vote counting	0	0	1	0
 जनगणना	census	0	0	1	0
 जनगणना	janganana	0	0	1	0
 तेह्रथुम	tehrathum	0	0	1	0
 वि	aakar post	0	0	1	0
-वि	to wrestle	0	0	1	0
 वि	bikram sambat	0	0	1	0
+वि	to wrestle	0	0	1	0
 मिल्स	mills	0	0	1	0
 वस	bus	0	0	1	0
 वस	vas	0	0	1	0
@@ -449,8 +443,8 @@
 संगठनात्मक	sangatnatmak	0	0	1	0
 संगठनात्मक	organised	0	0	1	0
 संगठनात्मक	organisational	0	0	1	0
-पदार्थहरु	substances	0	0	1	0
 पदार्थहरु	padarthharu	0	0	1	0
+पदार्थहरु	substances	0	0	1	0
 वध	murder	0	0	1	0
 वध	slaughter	0	0	1	0
 जातीय	racial	0	0	1	0
@@ -485,12 +479,10 @@
 स्वामित्वमा	rule	0	0	1	0
 लिँदा	while taking	0	0	1	0
 लिँदा	taking	0	0	1	0
-लिँदा	lucky	0	0	1	0
 सुनाखरी	dendrobium nobile	0	0	1	0
 सुनाखरी	state flower	0	0	1	0
 स्वयम्भूको	swoyambhu	0	0	1	0
 स्वयम्भूको	of swambhu (god)	0	0	1	0
-स्वयम्भूको	of swayambhu	0	0	1	0
 रोगिहरुमा	patients	0	0	1	0
 रोगिहरुमा	rogiharuma	0	0	1	0
 रोगिहरुमा	patient	0	0	1	0
@@ -507,7 +499,6 @@
 वित्तीय	financial	0	0	1	0
 महिला	thirty seven	0	0	1	0
 महिला	mahila	0	0	1	0
-महिला	female	0	0	1	0
 समन्वय	adjustment	0	0	1	0
 समन्वय	coordination	0	0	1	0
 अनेकौँ	aneyko	0	0	1	0
@@ -521,7 +512,6 @@
 पठाएका	send	0	0	1	0
 साइटमध्ये	site	0	0	1	0
 साइटमध्ये	among the website's	0	0	1	0
-पानीले	water	0	0	1	0
 पानीले	basement	0	0	1	0
 विश्वभरी	over the world	0	0	1	0
 विश्वभरी	all over world	0	0	1	0
@@ -534,7 +524,6 @@
 महाकाव्य	epic	0	0	1	0
 महाकाव्य	mahakavya	0	0	1	0
 कर्नेल	colonel	0	0	1	0
-कर्नेल	kernel	0	0	1	0
 पाल्पाको	of pulpa (place)	0	0	1	0
 पाल्पाको	palpa	0	0	1	0
 पाल्पाको	palpa's	0	0	1	0
@@ -600,9 +589,9 @@
 पालना	follow	0	0	1	0
 पालना	cradle	0	0	1	0
 पालना	paalana	0	0	1	0
-उदयपुर	udaypur	0	0	1	0
-उदयपुर	udayapur	0	0	1	0
 उदयपुर	udyapur	0	0	1	0
+उदयपुर	udayapur	0	0	1	0
+उदयपुर	udaypur	0	0	1	0
 मोरक्को	muokko	0	0	1	0
 मोरक्को	morocco	0	0	1	0
 आत्मकथा	autobiography	0	0	1	0
@@ -678,7 +667,6 @@
 लैजान	lejaan	0	0	1	0
 लैजान	to take	0	0	1	0
 उपलब्धि	achievement	0	0	1	0
-उपलब्धि	gain	0	0	1	0
 उपलब्धि	uplabdi	0	0	1	0
 सिँह	singh (surname)	0	0	1	0
 सिँह	singh	0	0	1	0
@@ -692,20 +680,17 @@
 पुष	push	0	0	1	0
 पुष	month	0	0	1	0
 पुष	a month of nepali calender (15th december to 14th january)	0	0	1	0
-जनता	people	0	0	1	0
 जनता	citizen	0	0	1	0
 पुल	bridge	0	0	1	0
 पुल	pull	0	0	1	0
 लडाइ	battle	0	0	1	0
 लडाइ	speed	0	0	1	0
-लडाइ	war	0	0	1	0
 टोली	group	0	0	1	0
 टोली	team	0	0	1	0
 पौड्यालको	poudyal	0	0	1	0
 पौड्यालको	poudyal's	0	0	1	0
 पौड्यालको	of paudel	0	0	1	0
 दर्जनौ	dorzen's	0	0	1	0
-दर्जनौ	dharjnau	0	0	1	0
 दर्जनौ	dharjanou	0	0	1	0
 लडाई	war	0	0	1	0
 लडाई	fight	0	0	1	0
@@ -748,7 +733,6 @@
 धमाधम	dhamadham	0	0	1	0
 १९२५मा	in 1925	0	0	1	0
 १९२५मा	1925	0	0	1	0
-लिपिहरुको	scripts	0	0	1	0
 लिपिहरुको	of scripts	0	0	1	0
 लिपिहरुको	script	0	0	1	0
 न्यून	minimum	0	0	1	0
@@ -759,7 +743,6 @@
 चौध	four	0	0	1	0
 चौध	choudh	0	0	1	0
 जयन्ती	jayanti (special days like birthday of famous person)	0	0	1	0
-जयन्ती	jayanti	0	0	1	0
 जयन्ती	birthday	0	0	1	0
 निवास	house	0	0	1	0
 निवास	residence	0	0	1	0
@@ -767,7 +750,6 @@
 फाउण्डेसन	foundation	0	0	1	0
 ओथेलो	othelo	0	0	1	0
 ओथेलो	othello	0	0	1	0
-ओथेलो	athelo	0	0	1	0
 टोगो	togo	0	0	1	0
 टोगो	jackal	0	0	1	0
 चौर	field	0	0	1	0
@@ -792,7 +774,6 @@
 थाईल्याण्ड	thailand	0	0	1	0
 थाईल्याण्ड	sweat	0	0	1	0
 सुरूवात	begining	0	0	1	0
-सुरूवात	begin	0	0	1	0
 सुरूवात	what is your name?	0	0	1	0
 खड्गद्वारा	khanddwara	0	0	1	0
 खड्गद्वारा	by khadga	0	0	1	0
@@ -850,10 +831,8 @@
 तिनजुरे	tinjurey	0	0	1	0
 वनजंगलले	jungle	0	0	1	0
 चेला	cousin	0	0	1	0
-चेला	follower	0	0	1	0
 नियन्त्रित	control	0	0	1	0
 नियन्त्रित	controlled	0	0	1	0
-ल्हासा	lhasa	0	0	1	0
 ल्हासा	he slept the whole night	0	0	1	0
 ल्हासा	boldness	0	0	1	0
 बैशाख	a month of nepali calender (april15 to may 14)	0	0	1	0
@@ -862,20 +841,17 @@
 बैशाख	nepali first month	0	0	1	0
 दक्षिणपन्थी	rightist	0	0	1	0
 दक्षिणपन्थी	southist	0	0	1	0
-दक्षिणपन्थी	dakshinapanthi	0	0	1	0
 ग्रहहरूको	planet	0	0	1	0
 ग्रहहरूको	solar system	0	0	1	0
 ग्रहहरूको	of the planets	0	0	1	0
 गुन्जमान	humming	0	0	1	0
 गुन्जमान	soundful	0	0	1	0
-गुन्जमान	gunjaman	0	0	1	0
 अभिनेताको	actor	0	0	1	0
 अभिनेताको	actor's	0	0	1	0
 संकटकालको	emergency	0	0	1	0
 संकटकालको	sankatkaalko	0	0	1	0
 चिले	chile	0	0	1	0
 पृष्ठलाई	page	0	0	1	0
-पृष्ठलाई	to page	0	0	1	0
 अन्तरगत	included	0	0	1	0
 अन्तरगत	substitute	0	0	1	0
 अन्तरगत	under	0	0	1	0
@@ -936,7 +912,6 @@
 वीर	bir	0	0	1	0
 वीर	veer - name	0	0	1	0
 मा	in	0	0	1	0
-मि	mee	0	0	1	0
 मि	me	0	0	1	0
 मि	mi	0	0	1	0
 नैतिक	morale	0	0	1	0
@@ -945,7 +920,6 @@
 मल	waste	0	0	1	0
 कुराहरु	things	0	0	1	0
 कुराहरु	does	0	0	1	0
-कुराहरु	kuraharu	0	0	1	0
 बेल्जियमको	of belgium	0	0	1	0
 बेल्जियमको	belgiumko	0	0	1	0
 मै	i	0	0	1	0
@@ -965,12 +939,10 @@
 सुरु	start	0	0	1	0
 सुरु	suru	0	0	1	0
 अघिल्लो	previous	0	0	1	0
-अघिल्लो	agillo	0	0	1	0
 अघिल्लो	first	0	0	1	0
 युगोस्लाभिया	yogosabhiya	0	0	1	0
 युगोस्लाभिया	yugoslavia	0	0	1	0
 सोसेर	absorbed	0	0	1	0
-सोसेर	sock	0	0	1	0
 ९२	ninety two	0	0	1	0
 ९२	92	0	0	1	0
 घाँसे	ready	0	0	1	0
@@ -1006,7 +978,6 @@
 प्रक्रियामा	process	0	0	1	0
 प्रक्रियामा	in process	0	0	1	0
 महाँ	great	0	0	1	0
-महाँ	my	0	0	1	0
 महाँ	mega	0	0	1	0
 इन्डियन	indian	0	0	1	0
 खेलाडी	player	0	0	1	0
@@ -1019,7 +990,6 @@
 इन्डिया	india	0	0	1	0
 अनलाईन	on line	0	0	1	0
 अनलाईन	online	0	0	1	0
-लम्जुडको	of lamjung	0	0	1	0
 लम्जुडको	lamjung	0	0	1	0
 आएकोछ	has come	0	0	1	0
 आएकोछ	come	0	0	1	0
@@ -1027,12 +997,10 @@
 ठकुरी	thakuri (a nepali caste)	0	0	1	0
 राणाको	rana's	0	0	1	0
 राणाको	rana - surname	0	0	1	0
-राणाको	rana	0	0	1	0
 रोमानिया	romania	0	0	1	0
 क्षेत्रिय	kshethriya	0	0	1	0
 क्षेत्रिय	regional	0	0	1	0
 मनोविज्ञानका	psychology	0	0	1	0
-सरकारमा	goverment	0	0	1	0
 सरकारमा	government	0	0	1	0
 सरकारमा	in government	0	0	1	0
 पढी	read	0	0	1	0
@@ -1057,7 +1025,6 @@
 अर्थमा	meaning	0	0	1	0
 अर्थमा	nation	0	0	1	0
 वेदहरुको	vedas	0	0	1	0
-वेदहरुको	books	0	0	1	0
 वेदहरुको	of vedas (holy books of hindus)	0	0	1	0
 चिह्न	symbol	0	0	1	0
 चिह्न	sign	0	0	1	0
@@ -1079,7 +1046,6 @@
 जैविक	smart	0	0	1	0
 भया	happen	0	0	1	0
 भया	the act of coming and going	0	0	1	0
-जनआन्दोलनले	people's revolution	0	0	1	0
 जनआन्दोलनले	janandolanle	0	0	1	0
 जनआन्दोलनले	unhealthy morbid	0	0	1	0
 अंगमा	chapter	0	0	1	0
@@ -1090,8 +1056,6 @@
 एप्रील	april	0	0	1	0
 एप्रील	utc	0	0	1	0
 गुडविल	goodwill	0	0	1	0
-विज्ञापनका	its prompt in the field of culture and custom	0	0	1	0
-विज्ञापनका	advertisement	0	0	1	0
 पदार्थ	material	0	0	1	0
 पदार्थ	products	0	0	1	0
 पदार्थ	substance	0	0	1	0
@@ -1148,7 +1112,6 @@
 १९९८मा	pattern	0	0	1	0
 १९९८मा	in 1998	0	0	1	0
 विचारले	thought	0	0	1	0
-विचारले	by thought	0	0	1	0
 विचारले	belief	0	0	1	0
 १९००मा	in 1900	0	0	1	0
 विषयों	subjects	0	0	1	0
@@ -1164,9 +1127,9 @@
 एउटा	one	0	0	1	0
 भलो	prosperity	0	0	1	0
 भलो	bhalo	0	0	1	0
+हुँदछन्	were	0	0	1	0
 हुँदछन्	are	0	0	1	0
 हुँदछन्	are to be	0	0	1	0
-हुँदछन्	were	0	0	1	0
 गुरिल्ला	gurilla	0	0	1	0
 गुरिल्ला	guerilla	0	0	1	0
 सत्कार	hospitality	0	0	1	0
@@ -1244,7 +1207,6 @@
 अंग्रेजले	foreigners	0	0	1	0
 प्रदुषित	polluted	0	0	1	0
 घुइँचो	gucho	0	0	1	0
-घुइँचो	crowd	0	0	1	0
 आगमन	arrival	0	0	1	0
 पूर्वदेखि	comment	0	0	1	0
 पूर्वदेखि	east	0	0	1	0
@@ -1260,8 +1222,6 @@
 नाटकहरूको	drama	0	0	1	0
 नाटकहरूको	drama writer	0	0	1	0
 नाटकहरूको	naatakharuko	0	0	1	0
-पाउँछ	pouch	0	0	1	0
-पाउँछ	get	0	0	1	0
 नवरात्रिका	nawratri	0	0	1	0
 नवरात्रिका	indonesien	0	0	1	0
 नवरात्रिका	nawa ratri	0	0	1	0
@@ -1276,7 +1236,6 @@
 जलेश्वर	mirror	0	0	1	0
 स्वस्थ	healthy	0	0	1	0
 उत्तम	perfect	0	0	1	0
-उत्तम	better	0	0	1	0
 उत्तम	best	0	0	1	0
 सेवामा	connections	0	0	1	0
 सेवामा	service	0	0	1	0
@@ -1316,9 +1275,8 @@
 क्षेत्रका	of region	0	0	1	0
 क्षेत्रका	kshetraka	0	0	1	0
 क्षेत्रका	area	0	0	1	0
-सल्ला	salla (species of a tree)	0	0	1	0
-सल्ला	salla	0	0	1	0
-सल्ला	pine	0	0	1	0
+युवान	yuan	0	0	1	0
+युवान	yuan (family)	0	0	1	0
 हालसम्ममा	newly	0	0	1	0
 हालसम्ममा	appearance	0	0	1	0
 प्रवाह	flow	0	0	1	0
@@ -1411,14 +1369,12 @@
 गोल	round	0	0	1	0
 गोल	in such darkness	0	0	1	0
 कुइभीर	kuibhir	0	0	1	0
-कुइभीर	kuibir	0	0	1	0
 कुइभीर	kuiver	0	0	1	0
 विकीमा	wiki	0	0	1	0
 विकीमा	blessing	0	0	1	0
 विकीमा	wikki	0	0	1	0
 उपाधी	job	0	0	1	0
 रोल्पा	rolpa	0	0	1	0
-विकीपिडियाको	of wikipedia	0	0	1	0
 विकीपिडियाको	wikipedia	0	0	1	0
 घनिष्ठ	close	0	0	1	0
 घनिष्ठ	seventy-two	0	0	1	0
@@ -1439,11 +1395,9 @@
 सेनेटर	senator	0	0	1	0
 लाखौं	lakhs of	0	0	1	0
 लाखौं	hundred thousand	0	0	1	0
-लाखौं	hundreds of thousands	0	0	1	0
 शाहले	by shah	0	0	1	0
 शाहले	shah	0	0	1	0
 अधिक्तम	maximum	0	0	1	0
-अधिक्तम	adhiktham	0	0	1	0
 राति	raati	0	0	1	0
 राति	night	0	0	1	0
 नेपालीले	nepal	0	0	1	0
@@ -1454,7 +1408,6 @@
 दांडी	dandi	0	0	1	0
 हिन्दुहरू	hindu	0	0	1	0
 हिन्दुहरू	hindus	0	0	1	0
-पूजा	pooja	0	0	1	0
 पूजा	worship	0	0	1	0
 पूजा	workship	0	0	1	0
 हिन्दुहरु	hindus	0	0	1	0
@@ -1465,8 +1418,8 @@
 परन्तु	but	0	0	1	0
 डेस्कटप	desktop	0	0	1	0
 गंभीर	serious	0	0	1	0
-जितारी	jitari (name of a person)	0	0	1	0
 जितारी	jitari	0	0	1	0
+जितारी	jitari (name of a person)	0	0	1	0
 शिक्षक	teacher	0	0	1	0
 बँगालको	of bengal (state in india)	0	0	1	0
 बँगालको	bangaalko	0	0	1	0
@@ -1485,10 +1438,8 @@
 पूजक	priest	0	0	1	0
 पूजक	one who prays	0	0	1	0
 राजवंशलाई	to royal family	0	0	1	0
-राजवंशलाई	to king family	0	0	1	0
 राजवंशलाई	royal clan	0	0	1	0
 प्रबल	high	0	0	1	0
-प्रबल	most	0	0	1	0
 प्रबल	mahatma gandhi peace prize	0	0	1	0
 दशमीको	dashami	0	0	1	0
 दशमीको	vijayadasami	0	0	1	0
@@ -1508,7 +1459,6 @@
 खगोलविद्हरुले	kagholvidharule	0	0	1	0
 औषधिका	medicine	0	0	1	0
 औषधिका	of medicine	0	0	1	0
-औषधिका	aushadhika	0	0	1	0
 पोर्चुगल	portugal	0	0	1	0
 दिया	give	0	0	1	0
 दिया	gave	0	0	1	0
@@ -1518,7 +1468,6 @@
 बसन्त	spring	0	0	1	0
 बसन्त	rainy	0	0	1	0
 पीडित	suffered	0	0	1	0
-पीडित	affected	0	0	1	0
 पीडित	afflicted	0	0	1	0
 मेन्छ्यायाम	menchyayam	0	0	1	0
 मेन्छ्यायाम	mancheyayam	0	0	1	0
@@ -1528,7 +1477,6 @@
 १५९	159	0	0	1	0
 १५९	149	0	0	1	0
 १५८	158	0	0	1	0
-१५८	148	0	0	1	0
 १५१	151	0	0	1	0
 १५१	number	0	0	1	0
 दुरी	distance	0	0	1	0
@@ -1549,10 +1497,9 @@
 संविधानमा	in constitution	0	0	1	0
 कालीन	period	0	0	1	0
 कालीन	time	0	0	1	0
-दियो	gave	0	0	1	0
 दियो	give	0	0	1	0
+दियो	gave	0	0	1	0
 देहान्त	death	0	0	1	0
-देहान्त	end	0	0	1	0
 देहान्त	dehanth	0	0	1	0
 बेलायतको	england	0	0	1	0
 बेलायतको	of united kingdom	0	0	1	0
@@ -1593,7 +1540,6 @@
 ब्राम्हण	brahmin	0	0	1	0
 ब्राम्हण	braahman	0	0	1	0
 पंजाबमा	punjab	0	0	1	0
-पंजाबमा	in panjab	0	0	1	0
 पंजाबमा	panjab	0	0	1	0
 १५२	152	0	0	1	0
 नालाहरु	nalaharu	0	0	1	0
@@ -1607,7 +1553,6 @@
 बंकिम	bankim (part name of indian poet)	0	0	1	0
 छिमेकीदेशहरू	chemakideshhru	0	0	1	0
 छिमेकीदेशहरू	neighbours	0	0	1	0
-छिमेकीदेशहरू	chimekideshhar	0	0	1	0
 सिक्न	learn	0	0	1	0
 भंग	dissolve	0	0	1	0
 भंग	dismissed	0	0	1	0
@@ -1648,8 +1593,8 @@
 मोटर	lazy	0	0	1	0
 मोटर	motor	0	0	1	0
 ईसं	yisam	0	0	1	0
-ईसं	e.sa. (short form for ad)	0	0	1	0
 ईसं	after domain	0	0	1	0
+ईसं	e.sa. (short form for ad)	0	0	1	0
 सहयोगमा	with support	0	0	1	0
 सहयोगमा	help	0	0	1	0
 सहयोगमा	cooperation	0	0	1	0
@@ -1694,7 +1639,6 @@
 कला	art	0	0	1	0
 कला	technics	0	0	1	0
 कला	creature	0	0	1	0
-स्कूलमा	schoolma	0	0	1	0
 स्कूलमा	in school	0	0	1	0
 स्कूलमा	school	0	0	1	0
 दरले	at the rate of	0	0	1	0
@@ -1733,7 +1677,6 @@
 १००००	10000	0	0	1	0
 ब्रह्मचारिणी	brahmacharini	0	0	1	0
 ब्रह्मचारिणी	bramhacharini	0	0	1	0
-चिनीयाँ	cheeniya	0	0	1	0
 चिनीयाँ	cinia	0	0	1	0
 चिनीयाँ	chinese	0	0	1	0
 ऋषिलाई	rushilayi	0	0	1	0
@@ -1747,7 +1690,6 @@
 सभा	convention	0	0	1	0
 उच्च	high	0	0	1	0
 उच्च	highest	0	0	1	0
-उच्च	height	0	0	1	0
 घरको	house	0	0	1	0
 घरको	of house	0	0	1	0
 समाहित	samahith	0	0	1	0
@@ -1860,7 +1802,6 @@
 बृहत	very big	0	0	1	0
 बृहत	mega	0	0	1	0
 प्रहरीका	sentinel	0	0	1	0
-प्रहरीका	of police	0	0	1	0
 दार्जीलिङ	darjeeling	0	0	1	0
 मार्फत	marfat	0	0	1	0
 मार्फत	through	0	0	1	0
@@ -1922,7 +1863,6 @@
 छाल	waves	0	0	1	0
 मिलायो	meet	0	0	1	0
 मिलायो	added	0	0	1	0
-मिलायो	managed	0	0	1	0
 कल्याण	to cause to do	0	0	1	0
 कल्याण	welfare	0	0	1	0
 रवीन्द्रनाथ	rabindranath	0	0	1	0
@@ -1971,11 +1911,8 @@
 एक्लै	self	0	0	1	0
 एक्लै	its	0	0	1	0
 कोलकाता	kolkata	0	0	1	0
-कोलकाता	kolkota	0	0	1	0
 कोलकाता	kolkata - city name	0	0	1	0
-गतिविधि	moving some place	0	0	1	0
 गतिविधि	activity	0	0	1	0
-महा	huge	0	0	1	0
 महा	mega	0	0	1	0
 महल	mahal	0	0	1	0
 महल	palace	0	0	1	0
@@ -2038,10 +1975,8 @@
 अपन	upon	0	0	1	0
 प्रायद्वीपमा	peninsula	0	0	1	0
 प्रायद्वीपमा	in the peninsula	0	0	1	0
-प्रायद्वीपमा	praydeepama	0	0	1	0
 गाँसिएको	joint	0	0	1	0
 गाँसिएको	joined	0	0	1	0
-विष्णुमती	bishnumati	0	0	1	0
 विष्णुमती	strainer	0	0	1	0
 विष्णुमती	vishnumati - river name	0	0	1	0
 खुसी	happy	0	0	1	0
@@ -2093,7 +2028,6 @@
 श्रेणीपश्चिम	series west	0	0	1	0
 श्रेणीपश्चिम	class:western	0	0	1	0
 नवदुर्गाका	nawa durga	0	0	1	0
-नवदुर्गाका	of nawadurga	0	0	1	0
 नवदुर्गाका	nawdurga	0	0	1	0
 अधिराज्यका	kingdom	0	0	1	0
 अधिराज्यका	adhirajyaka	0	0	1	0
@@ -2109,15 +2043,12 @@
 महिनाको	of month	0	0	1	0
 महिनाको	of months	0	0	1	0
 अधिराज्यको	kingdom	0	0	1	0
-अधिराज्यको	kingdom's	0	0	1	0
 अधिराज्यको	adhirajyako	0	0	1	0
-भए	even if	0	0	1	0
 भए	bhaye	0	0	1	0
 भए	villager	0	0	1	0
 भए	became	0	0	1	0
-भए	done	0	0	1	0
 भए	was	0	0	1	0
-परियोजनाले	project	0	0	1	0
+भए	even if	0	0	1	0
 परियोजनाले	pariyojanaale	0	0	1	0
 परियोजनाले	pariyojnale	0	0	1	0
 भई	may	0	0	1	0
@@ -2158,7 +2089,6 @@
 बागलुङ	baglung	0	0	1	0
 प्रकाशको	same language	0	0	1	0
 प्रकाशको	of light	0	0	1	0
-बोकेको	bhokeko	0	0	1	0
 बोकेको	carrying	0	0	1	0
 बोकेको	bokeko	0	0	1	0
 १९४९	1949	0	0	1	0
@@ -2170,7 +2100,6 @@
 मेहनती	labourious	0	0	1	0
 सकिने	skine	0	0	1	0
 सकिने	possible	0	0	1	0
-सकिने	complete	0	0	1	0
 प्रत्येक	every	0	0	1	0
 प्रत्येक	prathyek	0	0	1	0
 प्रत्येक	each	0	0	1	0
@@ -2181,7 +2110,6 @@
 वास्तु	vastu	0	0	1	0
 त्यसै	tysai	0	0	1	0
 त्यसै	for that	0	0	1	0
-त्यसै	similarly	0	0	1	0
 त्यसो	like that	0	0	1	0
 त्यसो	that	0	0	1	0
 अवशेष	remains	0	0	1	0
@@ -2217,7 +2145,6 @@
 ब्रिटिस	british	0	0	1	0
 राजनेता	hindu nationalist	0	0	1	0
 राजनेता	political leader	0	0	1	0
-राजनेता	minister	0	0	1	0
 आवाज	sound	0	0	1	0
 आवाज	voice	0	0	1	0
 पुरोहित	how many years will you stay?	0	0	1	0
@@ -2230,8 +2157,9 @@
 र्सार्वजनिक	pole	0	0	1	0
 र्सार्वजनिक	publicise	0	0	1	0
 र्सार्वजनिक	public	0	0	1	0
-दिनुपर्छ	have to give	0	0	1	0
-दिनुपर्छ	give	0	0	1	0
+प्रेरित	inspired	0	0	1	0
+प्रेरित	motivate	0	0	1	0
+प्रेरित	influence	0	0	1	0
 बस्दछन्	bschadn	0	0	1	0
 बस्दछन्	live	0	0	1	0
 चाल	trick	0	0	1	0
@@ -2253,7 +2181,6 @@
 पूर्णता	completion	0	0	1	0
 पूर्णता	perfection	0	0	1	0
 अफ्रिकालाई	ready	0	0	1	0
-अफ्रिकालाई	to africa	0	0	1	0
 अफ्रिकालाई	full to the brim	0	0	1	0
 चाप	pressure	0	0	1	0
 चाप	chap	0	0	1	0
@@ -2303,7 +2230,6 @@
 पक्षको	fraction	0	0	1	0
 पक्षको	aspect	0	0	1	0
 निर्माण	construction	0	0	1	0
-निर्माण	build	0	0	1	0
 राना	rana (a caste in nepal)	0	0	1	0
 राना	rana	0	0	1	0
 औध्योगिक	industrial	0	0	1	0
@@ -2312,7 +2238,6 @@
 मनोविकार	mental-disorder	0	0	1	0
 नेतृत्वको	of leadership	0	0	1	0
 नेतृत्वको	steepness	0	0	1	0
-नेतृत्वको	lead	0	0	1	0
 योपरिस्थितिमा	eight	0	0	1	0
 योपरिस्थितिमा	this condition	0	0	1	0
 योपरिस्थितिमा	in this situation	0	0	1	0
@@ -2351,20 +2276,18 @@
 बन	jungle	0	0	1	0
 क्यानेडाली	cast	0	0	1	0
 क्यानेडाली	candeli	0	0	1	0
-क्यानेडाली	canada lee	0	0	1	0
 बल	force	0	0	1	0
 बर	bara	0	0	1	0
 बर	wishes	0	0	1	0
 बर	bar sign	0	0	1	0
-टिप्पणी	comment	0	0	1	0
 टिप्पणी	remarks	0	0	1	0
+टिप्पणी	comment	0	0	1	0
 टिप्पणी	red tape	0	0	1	0
 बा	ba	0	0	1	0
 बा	ba - shrot name of kasturba	0	0	1	0
 बि	b	0	0	1	0
 बस	bus	0	0	1	0
 बस	sit	0	0	1	0
-कालिन्चोक	kalinchoka	0	0	1	0
 कालिन्चोक	kalinchoke name	0	0	1	0
 कालिन्चोक	kalinchowk	0	0	1	0
 बी	b	0	0	1	0
@@ -2375,8 +2298,6 @@
 जलविद्युत	jlvidhut	0	0	1	0
 जलविद्युत	hydroelectricity	0	0	1	0
 वार्ता	talk	0	0	1	0
-किम्बदन्ती	tale	0	0	1	0
-किम्बदन्ती	legend	0	0	1	0
 खानदान	khandaan	0	0	1	0
 खानदान	pedigree	0	0	1	0
 खानदान	family	0	0	1	0
@@ -2441,7 +2362,6 @@
 समानताहरू	similarities	0	0	1	0
 समानताहरू	similarity	0	0	1	0
 उपलब्ध	available	0	0	1	0
-उपलब्ध	upalabdh	0	0	1	0
 पायो	got	0	0	1	0
 बाटैमा	batema	0	0	1	0
 बाटैमा	bhataima	0	0	1	0
@@ -2453,7 +2373,6 @@
 स्क्रीप्टको	script	0	0	1	0
 स्क्रीप्टको	script's	0	0	1	0
 स्क्रीप्टको	scriptko	0	0	1	0
-युगदेखि	since era	0	0	1	0
 युगदेखि	from ages	0	0	1	0
 वा	thumb	0	0	1	0
 वा	or	0	0	1	0
@@ -2482,7 +2401,6 @@
 दुर्गम	durgam	0	0	1	0
 दुर्गम	kitten	0	0	1	0
 निम्नतम	minimum	0	0	1	0
-निम्नतम	nimnatham	0	0	1	0
 निम्नतम	least	0	0	1	0
 चढेर	climb	0	0	1	0
 चढेर	after climbing	0	0	1	0
@@ -2493,9 +2411,9 @@
 राष्ट्रको	nation's	0	0	1	0
 कुकुर	dog	0	0	1	0
 कुकुर	cooker	0	0	1	0
-सुन्न	deserted	0	0	1	0
-सुन्न	hear	0	0	1	0
-सुन्न	sunan	0	0	1	0
+मार्गमा	path	0	0	1	0
+मार्गमा	road	0	0	1	0
+मार्गमा	way	0	0	1	0
 भूटान	bhutan - a country	0	0	1	0
 भूटान	bhutan	0	0	1	0
 कालिकामाई	kalikamai	0	0	1	0
@@ -2560,7 +2478,6 @@
 जुम्ली	jumli	0	0	1	0
 जुम्ली	what can i do?	0	0	1	0
 शिक्षाको	education	0	0	1	0
-शिक्षाको	of education	0	0	1	0
 बिसाउ	bisau	0	0	1	0
 सेवाहरू	services	0	0	1	0
 मध्यस्थकर्ताको	mediator	0	0	1	0
@@ -2575,7 +2492,6 @@
 जरिवाना	fine	0	0	1	0
 तमोर	tamore	0	0	1	0
 तमोर	tamor (valley)	0	0	1	0
-तमोर	tamor	0	0	1	0
 जुम्ला	jumla	0	0	1	0
 जुम्ला	jumla -name	0	0	1	0
 जिल्लाले	districts	0	0	1	0
@@ -2624,7 +2540,6 @@
 अनीश्वरवाद	atheism	0	0	1	0
 अनीश्वरवाद	anishwarvaad	0	0	1	0
 छलफलमा	discussion	0	0	1	0
-छलफलमा	in discussion	0	0	1	0
 जातजाती	meltwater river	0	0	1	0
 जातजाती	races	0	0	1	0
 जातजाती	caste	0	0	1	0
@@ -2639,20 +2554,17 @@
 सालमा	guardianship	0	0	1	0
 सालमा	year	0	0	1	0
 अध्यक्षतामा	president ship	0	0	1	0
-अध्यक्षतामा	in president	0	0	1	0
 अध्यक्षतामा	chairmanship	0	0	1	0
 भर्डे	brde	0	0	1	0
 भर्डे	verde	0	0	1	0
-भर्डे	verde (of cape verde)	0	0	1	0
 निकाल्ने	producing	0	0	1	0
 निकाल्ने	pull out	0	0	1	0
 निकाल्ने	nikalne	0	0	1	0
-जातजाति	races	0	0	1	0
 जातजाति	among kings	0	0	1	0
 जातजाति	caste	0	0	1	0
 द्वेषको	hatred	0	0	1	0
-द्वेषको	revenge	0	0	1	0
 द्वेषको	draeshiko	0	0	1	0
+द्वेषको	revenge	0	0	1	0
 ध्वन्यात्मक	phonetic	0	0	1	0
 ध्वन्यात्मक	sound	0	0	1	0
 ध्वन्यात्मक	sounding	0	0	1	0
@@ -2683,7 +2595,6 @@
 भिराला	sloppy	0	0	1	0
 भन्दा	than	0	0	1	0
 खुला	open	0	0	1	0
-उपज	cause	0	0	1	0
 उपज	produce	0	0	1	0
 उपज	zonal assembly	0	0	1	0
 बावजूद	in stead of	0	0	1	0
@@ -2734,8 +2645,6 @@
 मौजूद	present	0	0	1	0
 मौजूद	presence	0	0	1	0
 कलेजयो	website	0	0	1	0
-कलेजयो	college yo	0	0	1	0
-कलेजयो	college	0	0	1	0
 ३५००	3500	0	0	1	0
 ३५००	three thousand and five hundred	0	0	1	0
 ३५००	a form	0	0	1	0
@@ -2751,7 +2660,6 @@
 आक्रमण	attack	0	0	1	0
 आक्रमण	disagreement	0	0	1	0
 शताब्दीमा	century	0	0	1	0
-शताब्दीमा	in century	0	0	1	0
 तिनको	their	0	0	1	0
 तिनको	his	0	0	1	0
 तिनको	theenko	0	0	1	0
@@ -2781,7 +2689,6 @@
 श्रेणीसञ्चार	class:communication	0	0	1	0
 श्रेणीसञ्चार	shrenisanchar	0	0	1	0
 श्रेणीसञ्चार	series communication	0	0	1	0
-मासु	fish	0	0	1	0
 मासु	meat	0	0	1	0
 विकाशशील	developing [country]	0	0	1	0
 विकाशशील	developing	0	0	1	0
@@ -2843,7 +2750,6 @@
 दलाइ	dalai	0	0	1	0
 दलाइ	dalayi	0	0	1	0
 दलाइ	dhalai	0	0	1	0
-प्राणीका	organism	0	0	1	0
 प्राणीका	species	0	0	1	0
 प्राणीका	pranika	0	0	1	0
 इपि	short	0	0	1	0
@@ -2879,7 +2785,6 @@
 अवकाश	holiday	0	0	1	0
 संबंधित	realtions	0	0	1	0
 संबंधित	related	0	0	1	0
-इतालवी	italabi	0	0	1	0
 इतालवी	italian	0	0	1	0
 स्फीति	situation	0	0	1	0
 स्फीति	inflation	0	0	1	0
@@ -2888,7 +2793,6 @@
 दिएका	give	0	0	1	0
 ल्याएर	brought	0	0	1	0
 ल्याएर	bring	0	0	1	0
-ल्याएर	bringing	0	0	1	0
 वातावरण	environment	0	0	1	0
 वातावरण	atmosphere	0	0	1	0
 वातावरण	narrow	0	0	1	0
@@ -2899,7 +2803,6 @@
 बर्माको	of myanmar	0	0	1	0
 धौलागिरी	dhaulagiri (mountain in nepal)	0	0	1	0
 धौलागिरी	dhaulgiri	0	0	1	0
-धौलागिरी	dhaulagiri	0	0	1	0
 दिएको	given	0	0	1	0
 दिएको	give	0	0	1	0
 संगीतमा	music	0	0	1	0
@@ -2993,7 +2896,6 @@
 समायोजित	samayojit	0	0	1	0
 बाजा	musical instrument	0	0	1	0
 बाजा	musical instruments	0	0	1	0
-बाजा	music instrument	0	0	1	0
 निजामती	civil	0	0	1	0
 निजामती	civil (service)	0	0	1	0
 निजामती	nijamathi	0	0	1	0
@@ -3001,7 +2903,6 @@
 काभ्रेपलाञ्चोक	kabhreplachok	0	0	1	0
 काभ्रेपलाञ्चोक	kavreplachowk	0	0	1	0
 त्यसका	of that	0	0	1	0
-त्यसका	those	0	0	1	0
 त्यसका	styska	0	0	1	0
 धिमाल	dhimal (a caste)	0	0	1	0
 धिमाल	dhimal	0	0	1	0
@@ -3041,7 +2942,6 @@
 विकिपीडिया१०	wikipedia 10	0	0	1	0
 विकिपीडिया१०	wikipedia10	0	0	1	0
 यस	this	0	0	1	0
-यस	yes	0	0	1	0
 नृत्य	nruthya	0	0	1	0
 नृत्य	dance	0	0	1	0
 नृत्य	soil erosion	0	0	1	0
@@ -3055,7 +2955,6 @@
 सुकै	any	0	0	1	0
 सुकै	whatever	0	0	1	0
 अनेक	many	0	0	1	0
-अनेक	various	0	0	1	0
 संप्रभु	sovereignity	0	0	1	0
 संप्रभु	sovereignty	0	0	1	0
 संप्रभु	controlled	0	0	1	0
@@ -3087,13 +2986,11 @@
 आन्दोलन	agitation	0	0	1	0
 दाङमा	dang	0	0	1	0
 दाङमा	in dang	0	0	1	0
-दाङमा	dhaima	0	0	1	0
 बाइबल	bible	0	0	1	0
 बाइबल	bibal	0	0	1	0
 भन्दछन्	say	0	0	1	0
 भन्दछन्	known as	0	0	1	0
 जागिर	salary	0	0	1	0
-जागिर	jaagir	0	0	1	0
 ग्रिक	greek	0	0	1	0
 संहिता	norms	0	0	1	0
 संहिता	samhitha	0	0	1	0
@@ -3113,7 +3010,6 @@
 त्यति	lime	0	0	1	0
 माओवादीको	a long time ago	0	0	1	0
 माओवादीको	mavobadiko	0	0	1	0
-माओवादीको	mavovadhiko	0	0	1	0
 उपर्युक्त	proper	0	0	1	0
 उपर्युक्त	fore	0	0	1	0
 उपर्युक्त	above	0	0	1	0
@@ -3123,14 +3019,12 @@
 सहरमा	in city	0	0	1	0
 सम्झौताको	agreement's	0	0	1	0
 सम्झौताको	compromise	0	0	1	0
-सम्झौताको	lord edward irwin	0	0	1	0
 चिकित्सक	chikitsak	0	0	1	0
 चिकित्सक	doctor	0	0	1	0
 चौथो	chavtho	0	0	1	0
 चौथो	fourth	0	0	1	0
 समूहको	samoohko	0	0	1	0
 समूहको	group	0	0	1	0
-समूहको	of group	0	0	1	0
 म्‍होज	muhoj	0	0	1	0
 म्‍होज	mahoj	0	0	1	0
 म्‍होज	mhahajog	0	0	1	0
@@ -3162,7 +3056,6 @@
 तथ्यहरु	truths	0	0	1	0
 सामाग्रीहरु	items	0	0	1	0
 सामाग्रीहरु	materials	0	0	1	0
-सामाग्रीहरु	things	0	0	1	0
 सामाग्रीहरू	commodities	0	0	1	0
 सामाग्रीहरू	item	0	0	1	0
 सामाग्रीहरू	samagrihar	0	0	1	0
@@ -3197,7 +3090,6 @@
 सही	right	0	0	1	0
 सही	correct	0	0	1	0
 अर्काको	other's	0	0	1	0
-अर्काको	others	0	0	1	0
 न्युनतम	minimum	0	0	1	0
 न्युनतम	nyuntam	0	0	1	0
 प्राकृतिक	natural	0	0	1	0
@@ -3246,22 +3138,21 @@
 आरिटार	aritar (a place in nepal)	0	0	1	0
 तथापि	never	0	0	1	0
 तथापि	although	0	0	1	0
-तथापि	though	0	0	1	0
 ब्राजिलको	brazil	0	0	1	0
 ब्राजिलको	brazilko	0	0	1	0
 ब्राजिलको	brazil's	0	0	1	0
 कदर	kadar	0	0	1	0
 कदर	respect	0	0	1	0
 कदर	childhood	0	0	1	0
-गीता	gita	0	0	1	0
+श्रेणीभारतीय	series indian	0	0	1	0
+श्रेणीभारतीय	nation	0	0	1	0
 खतिवडा	khatibda	0	0	1	0
 खतिवडा	khatiwada	0	0	1	0
 स्वीकार	accept	0	0	1	0
 मंगोलिया	mangolia	0	0	1	0
 मंगोलिया	mongolia	0	0	1	0
-प्राणीहरू	people	0	0	1	0
 प्राणीहरू	animal	0	0	1	0
-प्राणीहरू	creatures	0	0	1	0
+प्राणीहरू	people	0	0	1	0
 वैकल्पिक	alternative	0	0	1	0
 चरित्र	character	0	0	1	0
 मंगोलियन	mongolian	0	0	1	0
@@ -3270,7 +3161,6 @@
 करोडको	10 million	0	0	1	0
 करोडको	karodko	0	0	1	0
 करोडको	of crore	0	0	1	0
-शुरुवात	shuruvaath	0	0	1	0
 शुरुवात	start	0	0	1	0
 शुरुवात	shuruvath	0	0	1	0
 व्यवसायिक	professional	0	0	1	0
@@ -3366,7 +3256,6 @@
 तालिम	education	0	0	1	0
 बासिन्दा	inhabitants	0	0	1	0
 बासिन्दा	dweller	0	0	1	0
-लमही	lamahi	0	0	1	0
 लमही	lamhi	0	0	1	0
 सत्ताको	ruling party	0	0	1	0
 सत्ताको	of power	0	0	1	0
@@ -3377,10 +3266,7 @@
 पत्र	letter	0	0	1	0
 गलत	wrong	0	0	1	0
 गलत	galat	0	0	1	0
-भियतनाम	country	0	0	1	0
-भियतनाम	vietnam	0	0	1	0
 निर्माणका	building	0	0	1	0
-निर्माणका	for constitution	0	0	1	0
 निर्माणका	formation	0	0	1	0
 हिल	hill	0	0	1	0
 हिल	prayer	0	0	1	0
@@ -3452,20 +3338,15 @@
 सिन्धी	sindhi	0	0	1	0
 सिन्धी	fifteen	0	0	1	0
 मजदुर	labours	0	0	1	0
-मजदुर	worker	0	0	1	0
 मुखबाट	(out of your mouth )	0	0	1	0
 मुखबाट	from mouth	0	0	1	0
 मुखबाट	mouth	0	0	1	0
 सांखर	saankhar (a village in nepal)	0	0	1	0
 वियोगान्त	trageic	0	0	1	0
 वियोगान्त	drama	0	0	1	0
-वियोगान्त	tragic	0	0	1	0
 ह्याङ्क्सको	hanksko	0	0	1	0
 ह्याङ्क्सको	external links	0	0	1	0
 ह्याङ्क्सको	hangs	0	0	1	0
-विकासलाई	development	0	0	1	0
-विकासलाई	for	0	0	1	0
-विकासलाई	to develop	0	0	1	0
 आक्रमणमा	on invasion	0	0	1	0
 आक्रमणमा	war	0	0	1	0
 आक्रमणमा	in attack	0	0	1	0
@@ -3506,7 +3387,6 @@
 सनातन	ancient	0	0	1	0
 सनातन	eternal	0	0	1	0
 लियेर	taking	0	0	1	0
-लियेर	carrying	0	0	1	0
 लियेर	take	0	0	1	0
 नारायणगोपाल	narayangopal	0	0	1	0
 कावेली	kabeli	0	0	1	0
@@ -3527,7 +3407,6 @@
 जङ्गली	head	0	0	1	0
 जङ्गली	not pet (forest living)	0	0	1	0
 जङ्गली	jungle animals	0	0	1	0
-प्रमाणित	verified	0	0	1	0
 प्रमाणित	proved	0	0	1	0
 प्रमाणित	prove	0	0	1	0
 सटहीदर	exchange rate	0	0	1	0
@@ -3539,7 +3418,6 @@
 नसक्नु	unable	0	0	1	0
 नसक्नु	nasaknu	0	0	1	0
 भवानीकै	bhavanikai	0	0	1	0
-भवानीकै	bhawani	0	0	1	0
 भवानीकै	of bhawani	0	0	1	0
 उचाईमा	hieght	0	0	1	0
 उचाईमा	village development committee	0	0	1	0
@@ -3568,8 +3446,6 @@
 रमाईलो	fun	0	0	1	0
 रमाईलो	entertaining	0	0	1	0
 रमाईलो	include	0	0	1	0
-भन्ने	said	0	0	1	0
-भन्नु	say	0	0	1	0
 भन्नु	tell	0	0	1	0
 बर्ष	homo sapiens sapiens	0	0	1	0
 बर्ष	year	0	0	1	0
@@ -3676,19 +3552,17 @@
 ल्याउन	bring	0	0	1	0
 ल्याउन	to bring	0	0	1	0
 तमुहरु	tamuharu	0	0	1	0
-तमुहरु	tamu	0	0	1	0
 तमुहरु	co-ordination	0	0	1	0
 स्वस्थानी	swasthani	0	0	1	0
 स्वस्थानी	swasthanee	0	0	1	0
 नेपालीमा	in nepali	0	0	1	0
 नेपालीमा	nepalima	0	0	1	0
 नेपालीमा	nepali	0	0	1	0
-गान्धीका	of gandhi	0	0	1	0
-गान्धीका	gandhi	0	0	1	0
 गान्धीका	gandhika	0	0	1	0
+गान्धीका	gandhi	0	0	1	0
+गान्धीका	of gandhi	0	0	1	0
 राम्रो	beautiful	0	0	1	0
 राम्रो	rastro	0	0	1	0
-राम्रो	existing	0	0	1	0
 ब्याख्या	when molecular motion stops	0	0	1	0
 ब्याख्या	explain	0	0	1	0
 ब्याख्या	paragraph	0	0	1	0
@@ -3738,7 +3612,6 @@
 सबैतिर	everywhere	0	0	1	0
 प्रायः	usually	0	0	1	0
 प्रायः	often	0	0	1	0
-अत्यावश्यक	much require	0	0	1	0
 अत्यावश्यक	extremely important	0	0	1	0
 लेखनाथको	of lekhanath	0	0	1	0
 लेखनाथको	lekhanath	0	0	1	0
@@ -3804,14 +3677,12 @@
 मिटरसम्म	upto meter	0	0	1	0
 मिटरसम्म	meter	0	0	1	0
 वस्त्र	cloth	0	0	1	0
-वस्त्र	dress	0	0	1	0
 वस्त्र	cloths	0	0	1	0
 मलाई	me	0	0	1	0
 मलाई	cream	0	0	1	0
 मलाई	malayi	0	0	1	0
 भिमगिठे	bhimgithe	0	0	1	0
 भिमगिठे	bhimginthe name	0	0	1	0
-सुनिश्चित	well decided	0	0	1	0
 सुनिश्चित	sure	0	0	1	0
 सुनिश्चित	holinshed	0	0	1	0
 इन्द्रले	indra	0	0	1	0
@@ -3820,14 +3691,13 @@
 दिइएकोछ	has been given	0	0	1	0
 आधार	base	0	0	1	0
 आधार	basis	0	0	1	0
-साथ	with	0	0	1	0
-साथ	together	0	0	1	0
+सम्पदाहरु	authorised	0	0	1	0
+सम्पदाहरु	property	0	0	1	0
 तनहु	tanahu	0	0	1	0
 तनहु	tanahun	0	0	1	0
 परिषदबाट	by council	0	0	1	0
 परिषदबाट	council	0	0	1	0
 १७००	1700	0	0	1	0
-कास्कीकोट	kaskikot	0	0	1	0
 कास्कीकोट	kaskikot -name	0	0	1	0
 कास्कीकोट	caskikoat	0	0	1	0
 मिटर	metre	0	0	1	0
@@ -3872,7 +3742,6 @@
 गणको	of type	0	0	1	0
 त्यहाँ	their	0	0	1	0
 त्यहाँ	there	0	0	1	0
-आदान	contribution	0	0	1	0
 आदान	aadaan	0	0	1	0
 आदान	give	0	0	1	0
 तत्र	there	0	0	1	0
@@ -3941,7 +3810,6 @@
 ब्राह्मणका	prostitute	0	0	1	0
 थालिएको	started	0	0	1	0
 थालिएको	thaliyeko	0	0	1	0
-थालिएको	done away	0	0	1	0
 तुलसीपुर	tulasipur	0	0	1	0
 तुलसीपुर	tulsipur	0	0	1	0
 तुलसीपुर	tulsipur (a place in nepal)	0	0	1	0
@@ -4076,11 +3944,9 @@
 सभ्यता	civilization	0	0	1	0
 सभ्यता	civilisation	0	0	1	0
 सभ्यता	behavior	0	0	1	0
-विश्वकप	worldcup	0	0	1	0
 विश्वकप	world cup	0	0	1	0
 विजया	bijaya	0	0	1	0
 विजया	vijaya -part of festival name	0	0	1	0
-महासागरमा	in ocean	0	0	1	0
 महासागरमा	ocean	0	0	1	0
 मान्छेहरु	eclectic	0	0	1	0
 मान्छेहरु	people	0	0	1	0
@@ -4092,11 +3958,9 @@
 पोखरीको	planet.	0	0	1	0
 पोखरीको	of pond	0	0	1	0
 सन्धीखर्क	sandhkharka	0	0	1	0
-सन्धीखर्क	sandikarkha (a place in nepal)	0	0	1	0
 सभापतित्वमा	chairman	0	0	1	0
 सभापतित्वमा	in presidentship	0	0	1	0
 विजयी	winner	0	0	1	0
-विजयी	won	0	0	1	0
 टिष्टा	teesta	0	0	1	0
 टिष्टा	sight	0	0	1	0
 गोर्खाली	gorkhali	0	0	1	0
@@ -4129,7 +3993,6 @@
 ह्याम्लेट	hamlet	0	0	1	0
 थुँगा	personality	0	0	1	0
 थुँगा	thunga	0	0	1	0
-शैलीले	by style	0	0	1	0
 शैलीले	style	0	0	1	0
 नगरका	nagarka	0	0	1	0
 नगरका	near by	0	0	1	0
@@ -4178,14 +4041,15 @@
 दसैंलाई	dashain	0	0	1	0
 कालिम्पोङ	kalingpong	0	0	1	0
 कालिम्पोङ	weapon	0	0	1	0
-कालिम्पोङ	place	0	0	1	0
+सेवालाई	services	0	0	1	0
+सेवालाई	to the services	0	0	1	0
+सेवालाई	service	0	0	1	0
 सम्झौतामा	agreement	0	0	1	0
 गरिएको	gariyeko	0	0	1	0
 गरिएको	done	0	0	1	0
 कीर्तिपुर	keerthipur	0	0	1	0
 कीर्तिपुर	kritipur	0	0	1	0
 कीर्तिपुर	kirtipur	0	0	1	0
-अधिकार	right	0	0	1	0
 अधिकार	authority	0	0	1	0
 अधिकार	adhikaar	0	0	1	0
 गरेपछि	after did	0	0	1	0
@@ -4219,7 +4083,6 @@
 भर्ती	indian opinion	0	0	1	0
 नगरको	city	0	0	1	0
 नगरको	of town	0	0	1	0
-नगरको	nagarko	0	0	1	0
 वाल्मीकी	valmiki (ancient saint)	0	0	1	0
 वाल्मीकी	vaalmeeki	0	0	1	0
 वाल्मीकी	sage valmiki	0	0	1	0
@@ -4244,7 +4107,6 @@
 लग्यो	indulge	0	0	1	0
 स्मारक	memorial	0	0	1	0
 स्मारक	smarak	0	0	1	0
-स्मारक	monument	0	0	1	0
 पहेंलो	yellow	0	0	1	0
 पहेंलो	first	0	0	1	0
 कोर्सिकान	korsikaan	0	0	1	0
@@ -4289,7 +4151,6 @@
 सक्दैन	can not	0	0	1	0
 ध्वनिहरुमा	dwaniharuma	0	0	1	0
 ध्वनिहरुमा	sounds	0	0	1	0
-ध्वनिहरुमा	in sounds	0	0	1	0
 आपसमा	each other	0	0	1	0
 आपसमा	around	0	0	1	0
 आपसमा	aapsama	0	0	1	0
@@ -4304,7 +4165,6 @@
 कठोर	hard	0	0	1	0
 कठोर	harsh	0	0	1	0
 खाडी	gulf	0	0	1	0
-स्वर्ण	golden	0	0	1	0
 स्वर्ण	swarna	0	0	1	0
 स्वर्ण	gold	0	0	1	0
 चिन्हरु	chinharu	0	0	1	0
@@ -4327,8 +4187,8 @@
 जीन	zen's	0	0	1	0
 जीन	gene	0	0	1	0
 सँधै	always	0	0	1	0
-बिहे	marriage	0	0	1	0
 बिहे	marraige	0	0	1	0
+बिहे	marriage	0	0	1	0
 थरबाट	surname	0	0	1	0
 थरबाट	tharbaat	0	0	1	0
 थरबाट	from clan	0	0	1	0
@@ -4342,7 +4202,6 @@
 नभए	nabhay	0	0	1	0
 नभई	nabhai	0	0	1	0
 नभई	head of state	0	0	1	0
-मीटर	metre	0	0	1	0
 मीटर	meter	0	0	1	0
 उचाईको	height	0	0	1	0
 उचाईको	hieght	0	0	1	0
@@ -4365,7 +4224,6 @@
 भारतका	of india	0	0	1	0
 मंगलबारे	mangalbara	0	0	1	0
 मंगलबारे	tuesday	0	0	1	0
-मंगलबारे	mangalbare	0	0	1	0
 अख्‍तियार	position	0	0	1	0
 अख्‍तियार	authority	0	0	1	0
 प्राचिन	ancient	0	0	1	0
@@ -4376,7 +4234,6 @@
 बसी	sat	0	0	1	0
 बसी	situated	0	0	1	0
 बसी	sit	0	0	1	0
-तिब्बतीबर्मेली	thibeti barmeli	0	0	1	0
 तिब्बतीबर्मेली	tibeto-burmelese	0	0	1	0
 तिब्बतीबर्मेली	tibbati barmeli is a dialect	0	0	1	0
 कल्कि	kalki (god)	0	0	1	0
@@ -4389,7 +4246,6 @@
 छोरी	girl	0	0	1	0
 महाकाली	younger sister's husband	0	0	1	0
 महाकाली	mahakali (river)	0	0	1	0
-महाकाली	mahakali	0	0	1	0
 स्वतन्त्रताको	freedom	0	0	1	0
 स्वतन्त्रताको	of freedom	0	0	1	0
 नारायणगढको	narayangarh	0	0	1	0
@@ -4402,16 +4258,15 @@
 बहुमुखि	multiple	0	0	1	0
 बहुमुखि	versatile	0	0	1	0
 मिटरसम्मको	zonal assembly	0	0	1	0
-मिटरसम्मको	upto meters	0	0	1	0
 मिटरसम्मको	meter	0	0	1	0
 वनवास	banawas	0	0	1	0
 वनवास	exile	0	0	1	0
 वनवास	live in forest	0	0	1	0
 छुट्याइयो	separated	0	0	1	0
 छुट्याइयो	relief	0	0	1	0
-सेवालाई	services	0	0	1	0
-सेवालाई	to the services	0	0	1	0
-सेवालाई	service	0	0	1	0
+विकासलाई	development	0	0	1	0
+विकासलाई	for	0	0	1	0
+विकासलाई	to develop	0	0	1	0
 भ्रमणमा	bhramanma	0	0	1	0
 भ्रमणमा	in visit	0	0	1	0
 भ्रमणमा	to the visit	0	0	1	0
@@ -4429,7 +4284,6 @@
 च्छोरोल्पा	tsho-rolpa	0	0	1	0
 जातिगत	racial	0	0	1	0
 जातिगत	jatigat	0	0	1	0
-जातिगत	caste related	0	0	1	0
 अति	over	0	0	1	0
 अति	much	0	0	1	0
 अति	extreme	0	0	1	0
@@ -4442,8 +4296,8 @@
 गर्दैन	disagree	0	0	1	0
 गर्दैन	do not do	0	0	1	0
 संगीतका	music's	0	0	1	0
-संगीतका	sangeetka	0	0	1	0
 संगीतका	music	0	0	1	0
+संगीतका	sangeetka	0	0	1	0
 भनिन्थो	happen	0	0	1	0
 भनिन्थो	said	0	0	1	0
 भनिन्थो	was known as	0	0	1	0
@@ -4460,7 +4314,6 @@
 फ्रेन्च	french	0	0	1	0
 शहरमा	in city	0	0	1	0
 शहरमा	city	0	0	1	0
-गराउँछ	do	0	0	1	0
 गराउँछ	made	0	0	1	0
 गराउँछ	cause	0	0	1	0
 औलो	fever	0	0	1	0
@@ -4485,16 +4338,13 @@
 बिचको	middle	0	0	1	0
 बिचको	between	0	0	1	0
 पणेना	panena	0	0	1	0
-लेखिएको	ntional song of india "jana gana mana" was written by phil. rabindranath thakur. and national song "vande mataram" was written by bankim chandra chatarjee. ramayana is a sanskrit epic written by poet valmiki. 24000 of its verses is that part of hinduism	0	0	1	0
-लेखिएको	written	0	0	1	0
-लेखिएको	which is known as the phrase of king rama. it was translated in nepali for the first time by bhanubhakta. a small part of event of ayodhya from bhanubhakta's ramayana is as follows.	0	0	1	0
 लेखिएको	lekiyeko	0	0	1	0
+लेखिएको	written	0	0	1	0
 स्वामी	swamy	0	0	1	0
 स्वामी	swami - part of a name	0	0	1	0
 आयरल्याण्ड	ireland	0	0	1	0
-महाभारतमा	mahabhartma	0	0	1	0
-महाभारतमा	mahabharat	0	0	1	0
-महाभारतमा	mahabharata	0	0	1	0
+पिण्डेश्वर	pindeshwar	0	0	1	0
+पिण्डेश्वर	pindekshwar	0	0	1	0
 नून	salt	0	0	1	0
 शिवालय	shiv temple	0	0	1	0
 शिवालय	pagoda	0	0	1	0
@@ -4543,7 +4393,6 @@
 बढ्छ	rise	0	0	1	0
 प्रति	every	0	0	1	0
 प्रति	per	0	0	1	0
-प्रति	with respect to	0	0	1	0
 तालतलैया	lakes and ponds	0	0	1	0
 तालतलैया	lakes	0	0	1	0
 तालतलैया	lake	0	0	1	0
@@ -4558,9 +4407,7 @@
 बर्षदेखि	from year	0	0	1	0
 बर्षदेखि	till years	0	0	1	0
 यूरोपियन	european	0	0	1	0
-किसिमका	kisimaka	0	0	1	0
 किसिमका	types	0	0	1	0
-किसिमका	of type	0	0	1	0
 लिन्कहरु	link	0	0	1	0
 लिन्कहरु	links	0	0	1	0
 दिन	din	0	0	1	0
@@ -4606,10 +4453,8 @@
 फर्केर	farker	0	0	1	0
 खोटाङ	recognizes	0	0	1	0
 खोटाङ	khotgh	0	0	1	0
-खोटाङ	place	0	0	1	0
 चल्ने	start	0	0	1	0
 चल्ने	running	0	0	1	0
-चल्ने	moving	0	0	1	0
 एलिजाबेथ	alizabeth	0	0	1	0
 एलिजाबेथ	elizabeth	0	0	1	0
 सिंहलिला	singhlila - name	0	0	1	0
@@ -4659,7 +4504,6 @@
 लागन	take	0	0	1	0
 लागन	former	0	0	1	0
 बढावा	comment	0	0	1	0
-बढावा	promote	0	0	1	0
 बढावा	don't sit in the dark	0	0	1	0
 लुभ्र	laura	0	0	1	0
 लुभ्र	lubhra	0	0	1	0
@@ -4677,11 +4521,9 @@
 एशियाई	very strong	0	0	1	0
 एशियाई	ashiyayi	0	0	1	0
 एशियाई	asia	0	0	1	0
-मिटरसम्मका	mitarsammka	0	0	1	0
 मिटरसम्मका	up to meter	0	0	1	0
 मिटरसम्मका	till 4000 meter	0	0	1	0
 लागु	applied	0	0	1	0
-लागु	apply	0	0	1	0
 लागी	rancorous	0	0	1	0
 लागी	peasant	0	0	1	0
 लागू	applied	0	0	1	0
@@ -4693,7 +4535,6 @@
 कलकत्तामा	calcutta	0	0	1	0
 कलकत्तामा	kolkata -city name	0	0	1	0
 कलकत्तामा	calcuttama	0	0	1	0
-हत्या	hatya	0	0	1	0
 हत्या	murder	0	0	1	0
 राजारजौटाहरुको	kings	0	0	1	0
 राजारजौटाहरुको	of kings	0	0	1	0
@@ -4710,7 +4551,6 @@
 जहां	where	0	0	1	0
 जारी	carry on	0	0	1	0
 जारी	running	0	0	1	0
-जारी	continue	0	0	1	0
 स्तरीय	quality	0	0	1	0
 स्तरीय	level	0	0	1	0
 तपाईंको	yours	0	0	1	0
@@ -4733,11 +4573,9 @@
 विकीसमाचारखुला	wikinews	0	0	1	0
 विकीसमाचारखुला	wikinews open	0	0	1	0
 विकीसमाचारखुला	open news	0	0	1	0
-नारा	theme	0	0	1	0
 नारा	nara	0	0	1	0
 निकाला	exile	0	0	1	0
 निकाला	expelled	0	0	1	0
-हावा	hava	0	0	1	0
 हावा	air	0	0	1	0
 व्यक्तिलाई	to the person	0	0	1	0
 व्यक्तिलाई	of person	0	0	1	0
@@ -4766,7 +4604,6 @@
 राजमार्गमा	highway	0	0	1	0
 पोखरीमा	in pond	0	0	1	0
 तिनै	tine	0	0	1	0
-तिनै	them	0	0	1	0
 तिनै	those	0	0	1	0
 सहजै	sahajai	0	0	1	0
 सहजै	easily	0	0	1	0
@@ -4788,7 +4625,6 @@
 भारी	huge	0	0	1	0
 भारी	big	0	0	1	0
 निकाले	nikale	0	0	1	0
-निकाले	found	0	0	1	0
 निकाले	remove out	0	0	1	0
 भन्छ	become	0	0	1	0
 भन्छ	say	0	0	1	0
@@ -4835,14 +4671,12 @@
 चैनपुर	chainpur (a place in nepal)	0	0	1	0
 अलास्का	alaska	0	0	1	0
 २००५०६मा	during 2005/06	0	0	1	0
-२००५०६मा	in 2005-06	0	0	1	0
 २००५०६मा	in 200506	0	0	1	0
 कमिटीको	comitee	0	0	1	0
 कमिटीको	committee	0	0	1	0
 हावापानीका	environment condition	0	0	1	0
 हावापानीका	of climate	0	0	1	0
 हावापानीका	of whether	0	0	1	0
-योग्यता	eligibility	0	0	1	0
 योग्यता	ability	0	0	1	0
 जित	win	0	0	1	0
 जित	jith	0	0	1	0
@@ -4941,12 +4775,10 @@
 गतिमा	motion	0	0	1	0
 गतिमा	situation	0	0	1	0
 गतिमा	speed	0	0	1	0
-फुटबलका	footbal ka	0	0	1	0
 फुटबलका	footballs	0	0	1	0
 फुटबलका	football	0	0	1	0
 ह्याट	hat	0	0	1	0
 ह्याट	the other side	0	0	1	0
-समधि	samadhi	0	0	1	0
 समधि	father-in-law	0	0	1	0
 समधि	grave	0	0	1	0
 राख्‍नु	to crush	0	0	1	0
@@ -4960,7 +4792,6 @@
 वार्ड	ward	0	0	1	0
 संघको	sanghako	0	0	1	0
 संघको	union's	0	0	1	0
-संघको	council	0	0	1	0
 मार्क्सलाई	marks -name	0	0	1	0
 मार्क्सलाई	markslayi	0	0	1	0
 मार्क्सलाई	marx	0	0	1	0
@@ -5053,7 +4884,6 @@
 छरिएका	distributed	0	0	1	0
 छरिएका	hill	0	0	1	0
 चारैजना	all four	0	0	1	0
-चारैजना	all four persons	0	0	1	0
 चारैजना	destruction	0	0	1	0
 धेय	aim	0	0	1	0
 धेय	dey	0	0	1	0
@@ -5070,15 +4900,13 @@
 बिशेषको	specific	0	0	1	0
 बिशेषको	individual	0	0	1	0
 बिशेषको	bisheshko	0	0	1	0
-मनपर्ने	adorable	0	0	1	0
-मनपर्ने	manparne	0	0	1	0
 पेट	stomach	0	0	1	0
 रहको	rhco	0	0	1	0
 रहको	remain	0	0	1	0
 रहको	rahkho	0	0	1	0
 वर्णमालाको	alphabets	0	0	1	0
-वर्णमालाको	varnmalakho	0	0	1	0
 वर्णमालाको	of alphabets	0	0	1	0
+वर्णमालाको	varnmalakho	0	0	1	0
 शङ्ख	conch	0	0	1	0
 शङ्ख	shell	0	0	1	0
 देवताहरूले	gods	0	0	1	0
@@ -5101,9 +4929,9 @@
 उमेरदेखि	age	0	0	1	0
 उमेरदेखि	umerdekhi	0	0	1	0
 उमेरदेखि	since age	0	0	1	0
-श्रेणीअक्टुबर	october	0	0	1	0
-श्रेणीअक्टुबर	shrenioctober	0	0	1	0
-श्रेणीअक्टुबर	class:october	0	0	1	0
+वर्णाक्षरपको	alphabet	0	0	1	0
+वर्णाक्षरपको	p alphabet	0	0	1	0
+वर्णाक्षरपको	of alphabet pa	0	0	1	0
 राखियो	kept	0	0	1	0
 राखियो	keep	0	0	1	0
 जंगल	jungle	0	0	1	0
@@ -5148,7 +4976,6 @@
 हरियाणा	hariyana	0	0	1	0
 पूर्वाधार	earlier based	0	0	1	0
 पूर्वाधार	infrastructure	0	0	1	0
-आदीको	etcetra	0	0	1	0
 आदीको	et cetera	0	0	1	0
 आदीको	of etcetera	0	0	1	0
 ब्राह्मी	brahmi	0	0	1	0
@@ -5158,10 +4985,8 @@
 चित्रनिर्माण	figure making	0	0	1	0
 चित्रनिर्माण	chitranirman	0	0	1	0
 चित्रनिर्माण	roadmap	0	0	1	0
-ऐन	policy	0	0	1	0
 ऐन	rule	0	0	1	0
 ऐन	yen	0	0	1	0
-ज्ञानेन्द्र	king gayanandra	0	0	1	0
 ज्ञानेन्द्र	gyanendra	0	0	1	0
 ओझेलमा	out of sight	0	0	1	0
 ओझेलमा	shadow	0	0	1	0
@@ -5179,7 +5004,6 @@
 ईश्वरको	ishwarko	0	0	1	0
 संस्थापक	founder	0	0	1	0
 संस्थापक	establishing	0	0	1	0
-दिनको	of day	0	0	1	0
 दिनको	for the whole day	0	0	1	0
 दिनको	morning	0	0	1	0
 श्रीनगर	income.	0	0	1	0
@@ -5237,7 +5061,6 @@
 कारवाही	punishment	0	0	1	0
 वामपन्थी	leftist	0	0	1	0
 वामपन्थी	communist	0	0	1	0
-सहायक	assistant	0	0	1	0
 सहायक	influencer	0	0	1	0
 वीउ	which way did you come?	0	0	1	0
 वीउ	seed	0	0	1	0
@@ -5267,9 +5090,6 @@
 अझै	camp	0	0	1	0
 अझै	more	0	0	1	0
 आईएसबीएन	isbn	0	0	1	0
-छिन्ताङ्ग	place name	0	0	1	0
-कस्तो	said	0	0	1	0
-कस्तो	which	0	0	1	0
 बिहिवार	thursday	0	0	1	0
 गिरीजा	girija	0	0	1	0
 तपाईंँका	cupel	0	0	1	0
@@ -5281,9 +5101,7 @@
 रूचिका	of interest	0	0	1	0
 प्रभावित	affected	0	0	1	0
 कोश	book	0	0	1	0
-कोश	saving	0	0	1	0
 आल्प्स	alpes	0	0	1	0
-आल्प्स	alphas	0	0	1	0
 केयर	care	0	0	1	0
 मान्छेले	personal	0	0	1	0
 मान्छेले	person	0	0	1	0
@@ -5291,17 +5109,14 @@
 प्रयोगले	by experiment	0	0	1	0
 प्रयोगले	use	0	0	1	0
 प्रयोगले	by use	0	0	1	0
-आयको	of income	0	0	1	0
-आयको	income	0	0	1	0
 आयको	commission	0	0	1	0
+आयको	income	0	0	1	0
 नेतृत्वमा	leadership	0	0	1	0
-नेतृत्वमा	in leadership	0	0	1	0
 पक्षलाई	to aspect	0	0	1	0
 पक्षलाई	sect	0	0	1	0
 पक्षलाई	for	0	0	1	0
 गणतन्त्रमा	republican	0	0	1	0
 गणतन्त्रमा	republic	0	0	1	0
-गणतन्त्रमा	democracy	0	0	1	0
 खासगरी	particularly	0	0	1	0
 खासगरी	mainly	0	0	1	0
 खासगरी	specially	0	0	1	0
@@ -5310,7 +5125,6 @@
 विकीपिडियामा	in wikipedia	0	0	1	0
 विकीपिडियामा	wikipedia	0	0	1	0
 श्रेणीनेपालीभाषा	class:nepali language	0	0	1	0
-श्रेणीनेपालीभाषा	level : nepali language	0	0	1	0
 श्रेणीनेपालीभाषा	series nepali language	0	0	1	0
 स्विमिङ	swimin	0	0	1	0
 स्विमिङ	swimming	0	0	1	0
@@ -5318,7 +5132,6 @@
 चैं	chai	0	0	1	0
 चैं	che	0	0	1	0
 याममा	season	0	0	1	0
-याममा	village	0	0	1	0
 गरे	did	0	0	1	0
 गरे	do	0	0	1	0
 गरे	done	0	0	1	0
@@ -5357,9 +5170,8 @@
 साझेदारी	sajedari	0	0	1	0
 साझेदारी	partnership	0	0	1	0
 हवस्	ok	0	0	1	0
-अङ्ग्रेजको	of the british	0	0	1	0
-अङ्ग्रेजको	british	0	0	1	0
 अङ्ग्रेजको	of english	0	0	1	0
+अङ्ग्रेजको	british	0	0	1	0
 चीनको	china's	0	0	1	0
 चीनको	china	0	0	1	0
 चीनको	of china	0	0	1	0
@@ -5372,7 +5184,6 @@
 तहाँ	taha	0	0	1	0
 तहाँ	there	0	0	1	0
 लिखित	written	0	0	1	0
-लिखित	likith	0	0	1	0
 लिखित	writen	0	0	1	0
 मावोवादी	maoist	0	0	1	0
 मावोवादी	communist	0	0	1	0
@@ -5380,10 +5191,8 @@
 सेरा	sera	0	0	1	0
 कार्यकारी	executive	0	0	1	0
 कार्यकारी	cinnamon	0	0	1	0
-वर्षको	varshako	0	0	1	0
 वर्षको	varshko	0	0	1	0
 वर्षको	years	0	0	1	0
-ध्यानाकर्षण	attraction	0	0	1	0
 ध्यानाकर्षण	attention	0	0	1	0
 ध्यानाकर्षण	attract	0	0	1	0
 अवधी	reading and writing	0	0	1	0
@@ -5392,13 +5201,11 @@
 गरि	like	0	0	1	0
 गरि	gari	0	0	1	0
 प्रिय	dear	0	0	1	0
-प्रिय	loved	0	0	1	0
 प्रिय	priya	0	0	1	0
 विश्वविद्यालयहरू	universities	0	0	1	0
 विश्वविद्यालयहरू	university	0	0	1	0
-थुमहरु	pillar	0	0	1	0
-थुमहरु	offices	0	0	1	0
 थुमहरु	second-order administrative divisions	0	0	1	0
+थुमहरु	offices	0	0	1	0
 गृहस्थीसँग	house	0	0	1	0
 गृहस्थीसँग	gruhastisag	0	0	1	0
 गृहस्थीसँग	with household	0	0	1	0
@@ -5490,7 +5297,6 @@
 जापानको	of japan	0	0	1	0
 इलाका	area/small region	0	0	1	0
 इलाका	teritory	0	0	1	0
-चौधै	fourteen	0	0	1	0
 त्यहींबाट	tyahibaat	0	0	1	0
 त्यहींबाट	from there	0	0	1	0
 विहिवार	vihivar	0	0	1	0
@@ -5544,7 +5350,6 @@
 हामीले	we	0	0	1	0
 हामीले	hamile	0	0	1	0
 हुनुपर्छ	should be	0	0	1	0
-हुनुपर्छ	must have	0	0	1	0
 १९१८मा	1918	0	0	1	0
 १९१८मा	in 1918	0	0	1	0
 १९१८मा	1918 ma	0	0	1	0
@@ -5560,7 +5365,6 @@
 सरेर	to walk speedily	0	0	1	0
 सरेर	sarer	0	0	1	0
 स्याङ्जा	syangja	0	0	1	0
-स्याङ्जा	syanza	0	0	1	0
 बाध्य	insist	0	0	1	0
 बाध्य	desperate	0	0	1	0
 बाध्य	bound	0	0	1	0
@@ -5587,7 +5391,6 @@
 सातौं	seventh	0	0	1	0
 सातौँ	seven	0	0	1	0
 सातौँ	seventh	0	0	1	0
-विश्लेषण	description	0	0	1	0
 विश्लेषण	analysis	0	0	1	0
 १८५५	1855	0	0	1	0
 समर्थन	support	0	0	1	0
@@ -5606,7 +5409,6 @@
 रामनवमी	ramnawami	0	0	1	0
 गर्दा	e.g: for someone	0	0	1	0
 गर्दा	for	0	0	1	0
-नुहाइधुवाइ	to wash and to bathe	0	0	1	0
 नुहाइधुवाइ	court	0	0	1	0
 नुहाइधुवाइ	bath	0	0	1	0
 बेसी	besy (part name of bhakunde besy	0	0	1	0
@@ -5635,7 +5437,6 @@
 निर्माता	maker	0	0	1	0
 निर्माता	creator	0	0	1	0
 नवमी	navami	0	0	1	0
-नवमी	navami (nineth day of nepali month)	0	0	1	0
 समर्थक	samartak	0	0	1	0
 समर्थक	supporters	0	0	1	0
 समर्थक	supporter	0	0	1	0
@@ -5666,7 +5467,6 @@
 बहुभाषी	multi language	0	0	1	0
 कम्पनीले	by company	0	0	1	0
 कम्पनीले	company	0	0	1	0
-थियो|	did	0	0	1	0
 गर्दै	doing	0	0	1	0
 चीन	asia country	0	0	1	0
 चीन	china	0	0	1	0
@@ -5675,7 +5475,6 @@
 शुरुआती	beginning	0	0	1	0
 घटस्थापना	ghatstapana	0	0	1	0
 घटस्थापना	gatasthapana	0	0	1	0
-घटस्थापना	ghatasthapana	0	0	1	0
 कम्पनीका	company's	0	0	1	0
 कम्पनीका	companyka	0	0	1	0
 कम्पनीका	company	0	0	1	0
@@ -5701,7 +5500,6 @@
 सदरमुकाम	capital	0	0	1	0
 गरिरहेका	doing	0	0	1	0
 भैसकेको	past	0	0	1	0
-भैसकेको	happened	0	0	1	0
 योजनाको	project	0	0	1	0
 योजनाको	plan	0	0	1	0
 सदरमुकामबाट	to eat	0	0	1	0
@@ -5741,9 +5539,7 @@
 इतिहासमा	in history	0	0	1	0
 इतिहासमा	history	0	0	1	0
 कम्पनीको	company	0	0	1	0
-सम्मिलित	included	0	0	1	0
 सम्मिलित	involved	0	0	1	0
-शास्त्री	specialist	0	0	1	0
 शास्त्री	linguist	0	0	1	0
 शास्त्री	expert	0	0	1	0
 प्रजातिहरू	species	0	0	1	0
@@ -5773,7 +5569,6 @@
 अन्य	other	0	0	1	0
 अन्य	anya	0	0	1	0
 पर्व	festival	0	0	1	0
-पर्व	festivel	0	0	1	0
 अन्त	end	0	0	1	0
 कतिपय	many	0	0	1	0
 कतिपय	few	0	0	1	0
@@ -5832,12 +5627,9 @@
 गोदावरी	godavari	0	0	1	0
 शिवलाई	shiv	0	0	1	0
 शिवलाई	shiva	0	0	1	0
-शिवलाई	to shiva	0	0	1	0
 सभामा	untouchable	0	0	1	0
 सभामा	thumb	0	0	1	0
-सभामा	convention	0	0	1	0
 गल्ती	mistake	0	0	1	0
-लिएपछि	leapachi	0	0	1	0
 लिएपछि	after taking	0	0	1	0
 लिएपछि	to side	0	0	1	0
 हुन्छ|	is	0	0	1	0
@@ -5869,8 +5661,6 @@
 माँङी	embrace	0	0	1	0
 माँङी	manghi	0	0	1	0
 माँङी	manghi (part name of a festival)	0	0	1	0
-जान्छ	will go	0	0	1	0
-जान्छ	is known	0	0	1	0
 जिल्लाहरु	districts	0	0	1	0
 जिल्लाहरु	jillaharu	0	0	1	0
 जिल्लाहरू	undemocratic	0	0	1	0
@@ -5884,9 +5674,8 @@
 पश्चिममा	pashrimama	0	0	1	0
 पश्चिममा	ordinary	0	0	1	0
 पश्चिममा	in west	0	0	1	0
-भट्टराईका	bhattrai	0	0	1	0
-भट्टराईका	bhattarai	0	0	1	0
 भट्टराईका	to caress	0	0	1	0
+भट्टराईका	bhattarai	0	0	1	0
 मर्फिन	sorry	0	0	1	0
 मर्फिन	morphine	0	0	1	0
 मर्फिन	marphin	0	0	1	0
@@ -5905,7 +5694,6 @@
 घोराही	situated	0	0	1	0
 घोराही	ghorahi town	0	0	1	0
 उत्तरतर्फ	uttardarf	0	0	1	0
-उत्तरतर्फ	eastward	0	0	1	0
 उत्तरतर्फ	north	0	0	1	0
 शेक्सपियरले	by shakespeare	0	0	1	0
 शेक्सपियरले	shakespeare	0	0	1	0
@@ -5937,7 +5725,6 @@
 वास्तुशास्त्र	vastu shastra	0	0	1	0
 क्षेत्रमा	regions	0	0	1	0
 क्षेत्रमा	kshtrama	0	0	1	0
-तटीय	thateey	0	0	1	0
 तटीय	coastal	0	0	1	0
 मूलाधारका	of mainstream	0	0	1	0
 मूलाधारका	basis	0	0	1	0
@@ -5958,7 +5745,6 @@
 व्याप्टिजम	baptism	0	0	1	0
 ओम	om	0	0	1	0
 ओम	flour boiled in water	0	0	1	0
-ब्रिटेन	britian	0	0	1	0
 ब्रिटेन	britain	0	0	1	0
 भनिन्थ्यो	said	0	0	1	0
 कन्या	to call	0	0	1	0
@@ -5969,18 +5755,13 @@
 देउलाङ्गेश्वर	deolangeswar (village)	0	0	1	0
 लिनक्स	pronunciation	0	0	1	0
 लिनक्स	sin	0	0	1	0
-लिनक्स	linux	0	0	1	0
 तापक्रम	temperature	0	0	1	0
 गर्छन	do	0	0	1	0
-गर्छन	life	0	0	1	0
-श्रेणीबिशाल	series giant	0	0	1	0
 श्रेणीबिशाल	division	0	0	1	0
 स्वाजिल्याण्ड	switzerland	0	0	1	0
 स्वाजिल्याण्ड	swaziland	0	0	1	0
-विकीपिडीयाको	wikipediako	0	0	1	0
 विकीपिडीयाको	wikipedia	0	0	1	0
 दुइटा	duetha	0	0	1	0
-दुइटा	two	0	0	1	0
 व्यवस्थालाई	to system	0	0	1	0
 व्यवस्थालाई	vyavasthalayi	0	0	1	0
 व्यवस्थालाई	system	0	0	1	0
@@ -6039,7 +5820,6 @@
 राष्ट्रमंडलको	rastramandalko	0	0	1	0
 ग्राम	gram	0	0	1	0
 ६७००००	670000	0	0	1	0
-भुक्तान	compensate	0	0	1	0
 भुक्तान	payment	0	0	1	0
 भुक्तान	floor seat	0	0	1	0
 अवलोकन	view	0	0	1	0
@@ -6068,7 +5848,6 @@
 राणालाई	rana	0	0	1	0
 केल्भिन	kelvin	0	0	1	0
 केल्भिन	kilven	0	0	1	0
-नेपालगंज	nepalgunj	0	0	1	0
 नेपालगंज	nepalganj	0	0	1	0
 समयदेखि	from time	0	0	1	0
 समयदेखि	since (long) time	0	0	1	0
@@ -6107,7 +5886,6 @@
 शिलोंग	shillong	0	0	1	0
 शिलोंग	to learn	0	0	1	0
 ज	jaha	0	0	1	0
-ज	ja (devanagari alphabet)	0	0	1	0
 ज	ja	0	0	1	0
 छरितो	given	0	0	1	0
 छरितो	minute	0	0	1	0
@@ -6156,7 +5934,6 @@
 लुम्विनी	lumbini	0	0	1	0
 लुम्विनी	lumbini (a place in nepal)	0	0	1	0
 घरघरमा	it's enough	0	0	1	0
-घरघरमा	house	0	0	1	0
 निरन्तरता	continuity	0	0	1	0
 निरन्तरता	regularity	0	0	1	0
 निरन्तरता	nirantarta	0	0	1	0
@@ -6164,7 +5941,6 @@
 क्रियाकलापलाई	activities	0	0	1	0
 क्रियाकलापलाई	kriyakalapalayi	0	0	1	0
 क्रियाकलापलाई	to activity	0	0	1	0
-अगाडि	front	0	0	1	0
 अगाडि	incoming	0	0	1	0
 अगाडि	before	0	0	1	0
 उज्यालो	light	0	0	1	0
@@ -6227,7 +6003,6 @@
 वन्यजन्तु	wild life	0	0	1	0
 वन्यजन्तु	wild animals	0	0	1	0
 जीवहरुको	living	0	0	1	0
-जीवहरुको	animals	0	0	1	0
 जीवहरुको	creatures'	0	0	1	0
 जहाबाट	from aeroplane	0	0	1	0
 जहाबाट	from where	0	0	1	0
@@ -6253,7 +6028,6 @@
 रूसमा	roosma  or russiama	0	0	1	0
 रूसमा	in russia	0	0	1	0
 तिनीहरु	thinihar	0	0	1	0
-तिनीहरु	thiniharu	0	0	1	0
 तिनीहरु	they	0	0	1	0
 पाउँदैन	do not get	0	0	1	0
 पाउँदैन	don't get	0	0	1	0
@@ -6301,11 +6075,10 @@
 धोका	cheap	0	0	1	0
 धोका	double cross	0	0	1	0
 धोका	betrayal	0	0	1	0
-हिन्दीमा	in hindi	0	0	1	0
 हिन्दीमा	hindi	0	0	1	0
-चिकीत्साशास्त्रको	chikitsashastrako	0	0	1	0
-चिकीत्साशास्त्रको	chikitsashanshrkho	0	0	1	0
 चिकीत्साशास्त्रको	fasting	0	0	1	0
+चिकीत्साशास्त्रको	chikitsashanshrkho	0	0	1	0
+चिकीत्साशास्त्रको	chikitsashastrako	0	0	1	0
 तत्वहरू	elements	0	0	1	0
 प्रशिक्षक	prashikshak	0	0	1	0
 प्रशिक्षक	instructor	0	0	1	0
@@ -6334,14 +6107,13 @@
 जातक	jaathak	0	0	1	0
 विशेषतः	characteristic	0	0	1	0
 विशेषतः	mainly	0	0	1	0
-विशेषतः	specially	0	0	1	0
 आआफ्ना	thier	0	0	1	0
 आआफ्ना	god	0	0	1	0
 जाता	go	0	0	1	0
 जाता	jata - word that used with a verb	0	0	1	0
-जाति	caste	0	0	1	0
-जाति	races	0	0	1	0
 जाति	nation	0	0	1	0
+जाति	races	0	0	1	0
+जाति	caste	0	0	1	0
 ग्रीक	greek	0	0	1	0
 सकिँदैन	done	0	0	1	0
 सकिँदैन	can not	0	0	1	0
@@ -6349,7 +6121,6 @@
 उठेको	rise	0	0	1	0
 उठेको	extended	0	0	1	0
 भगवती	bhagwati	0	0	1	0
-भगवती	bhagabati	0	0	1	0
 बिष्ट	bista	0	0	1	0
 बिष्ट	bishta (nepali surname)	0	0	1	0
 उ	north	0	0	1	0
@@ -6361,8 +6132,8 @@
 ४मा	4th	0	0	1	0
 ४मा	in 4th	0	0	1	0
 ४मा	in 4	0	0	1	0
-पन्ध्रौं	15th	0	0	1	0
 पन्ध्रौं	fifteenth	0	0	1	0
+पन्ध्रौं	15th	0	0	1	0
 दसमी	dashami	0	0	1	0
 दसमी	dasami	0	0	1	0
 दसमी	dashami (tenth day of nepali month)	0	0	1	0
@@ -6381,7 +6152,6 @@
 किनार	shore	0	0	1	0
 किनार	beach	0	0	1	0
 किनार	bank	0	0	1	0
-नौला	new	0	0	1	0
 नौला	naola	0	0	1	0
 राजारानी	king queen	0	0	1	0
 राजारानी	rajarani	0	0	1	0
@@ -6391,7 +6161,6 @@
 व्यंजन	vowel	0	0	1	0
 बनारसमा	in benaras	0	0	1	0
 बनारसमा	in varanasi	0	0	1	0
-बनारसमा	in banaras	0	0	1	0
 जस्ताको	jasthako	0	0	1	0
 जस्ताको	just	0	0	1	0
 खाँदा	eat	0	0	1	0
@@ -6409,7 +6178,6 @@
 अस्तित्वमा	in existence	0	0	1	0
 अस्तित्वमा	asthithvama	0	0	1	0
 आन्दोलनरत	protesting	0	0	1	0
-आन्दोलनरत	movement	0	0	1	0
 सूचना	information	0	0	1	0
 सूचना	suchna	0	0	1	0
 भगवति	bhagwati (temple)	0	0	1	0
@@ -6467,7 +6235,6 @@
 अलगअलग	different	0	0	1	0
 महाराज	maharaj	0	0	1	0
 महाराज	wind	0	0	1	0
-महाराज	king	0	0	1	0
 बैज्ञानिक	scientist	0	0	1	0
 बैज्ञानिक	institution	0	0	1	0
 दाँत	teeth	0	0	1	0
@@ -6483,7 +6250,6 @@
 गणराज्य	garajya	0	0	1	0
 गुजराती	gujarati	0	0	1	0
 गुजराती	gujrati (language)	0	0	1	0
-तटमा	at the shore	0	0	1	0
 तटमा	coast	0	0	1	0
 लक्जेम्बर्ग	motivated	0	0	1	0
 लक्जेम्बर्ग	luxemburg	0	0	1	0
@@ -6527,7 +6293,6 @@
 हनुमान	hanuman	0	0	1	0
 हुंदै	hundai	0	0	1	0
 हुंदै	happend	0	0	1	0
-ससाना	need	0	0	1	0
 ससाना	ssana	0	0	1	0
 त्यहाँबाट	from there	0	0	1	0
 दिनहरुमा	in days	0	0	1	0
@@ -6545,13 +6310,9 @@
 हुंदा	available	0	0	1	0
 हुंदा	having	0	0	1	0
 किलोमिटर	kilometre	0	0	1	0
-किलोमिटर	kilometer	0	0	1	0
-डाँडा	mountain	0	0	1	0
 डाँडा	dhanda	0	0	1	0
 डाँडा	hill	0	0	1	0
-दिउसो	noon	0	0	1	0
 दिउसो	day	0	0	1	0
-अघिदेखि	seen in majority	0	0	1	0
 अघिदेखि	adidekhi	0	0	1	0
 अघिदेखि	from previous times	0	0	1	0
 क्रमबद्ध	serially	0	0	1	0
@@ -6572,7 +6333,6 @@
 मुनामदन	munamadan	0	0	1	0
 फोहर	fohar	0	0	1	0
 फोहर	wastes	0	0	1	0
-ठाँउ	location	0	0	1	0
 ठाँउ	places	0	0	1	0
 क्याथोलिक	catholic	0	0	1	0
 प्रश्नको	question's	0	0	1	0
@@ -6616,7 +6376,6 @@
 हकमा	in favour of	0	0	1	0
 हकमा	in case	0	0	1	0
 तुर्माखाँद	turrmakhand (place)	0	0	1	0
-तुर्माखाँद	turmakhand	0	0	1	0
 तुर्माखाँद	turmkhand	0	0	1	0
 सहरी	urban	0	0	1	0
 सहरी	city	0	0	1	0
@@ -6634,22 +6393,18 @@
 विस्तृत	detailled	0	0	1	0
 विस्तृत	prime minister	0	0	1	0
 वस्तु	item	0	0	1	0
-वस्तु	mater	0	0	1	0
 वस्तु	living	0	0	1	0
-वस्ती	settlement	0	0	1	0
 वस्ती	habitat	0	0	1	0
 वस्ती	village	0	0	1	0
 नर्वेजियन	norwegian	0	0	1	0
-नर्वेजियन	country name	0	0	1	0
 अधिकारमा	repeat	0	0	1	0
 अधिकारमा	right	0	0	1	0
-अधिकारमा	within rights	0	0	1	0
 पर्दछ	pardcha	0	0	1	0
 पर्दछ	is	0	0	1	0
 पर्दछ	happens to be	0	0	1	0
 गुराँसमध्ये	among gurans	0	0	1	0
-गुराँसमध्ये	guransmdhye	0	0	1	0
 गुराँसमध्ये	perfection	0	0	1	0
+गुराँसमध्ये	guransmdhye	0	0	1	0
 सोशिऑलोजी	sociology	0	0	1	0
 दोलखा	dolkha	0	0	1	0
 दोलखा	waling	0	0	1	0
@@ -6664,7 +6419,6 @@
 राज्यहरूमा	in counties	0	0	1	0
 मन्त्रीको	minister's	0	0	1	0
 मन्त्रीको	minister	0	0	1	0
-मन्त्रीको	magecian	0	0	1	0
 ईरान	iran	0	0	1	0
 ईरान	giving and taking of thing	0	0	1	0
 युथ	youth	0	0	1	0
@@ -6749,11 +6503,9 @@
 गडी	whole	1	0	1	0
 गडी	ghadi	1	0	1	0
 युग	age	0	0	1	0
-युग	era	0	0	1	0
 युग	period	0	0	1	0
 प्रयोगकर्ता	prayogkarta	0	0	1	0
 प्रयोगकर्ता	users	0	0	1	0
-गान्सु	ghansu	0	0	1	0
 गान्सु	gansu	0	0	1	0
 नराम्रो	bad	0	0	1	0
 विजयको	of victory	0	0	1	0
@@ -6847,7 +6599,6 @@
 ह्लासा	hlasa	0	0	1	0
 ह्लासा	lhasa	0	0	1	0
 जितेपछि	wining	0	0	1	0
-जितेपछि	jithepachi	0	0	1	0
 जितेपछि	indigenous	0	0	1	0
 छोडो	leave	0	0	1	0
 मिलाइनुपर्ने	added	0	0	1	0
@@ -6885,14 +6636,12 @@
 आफै	own	0	0	1	0
 आफै	aafai	0	0	1	0
 चटर्जीद्वारा	chatjidwara	0	0	1	0
-चटर्जीद्वारा	chatarjee	0	0	1	0
 चटर्जीद्वारा	seed	0	0	1	0
 संस्थानहरू	institute	0	0	1	0
 संस्थानहरू	organisation	0	0	1	0
 संस्थानहरू	institutions	0	0	1	0
 फर्की	farki	0	0	1	0
 फर्की	return	0	0	1	0
-आफु	me/myself	0	0	1	0
 आफु	own	0	0	1	0
 आफु	ourself	0	0	1	0
 आफू	himself	0	0	1	0
@@ -6905,13 +6654,11 @@
 फर्के	returned	0	0	1	0
 मान्दै	assumed	0	0	1	0
 मान्दै	feeling	0	0	1	0
-मान्दै	accept	0	0	1	0
 ठूलो	big	0	0	1	0
 ठूलो	number	0	0	1	0
 ठूलो	tulo	0	0	1	0
-पर्यटकको	paryatakko	0	0	1	0
-पर्यटकको	tourist	0	0	1	0
 पर्यटकको	tourist's	0	0	1	0
+पर्यटकको	tourist	0	0	1	0
 केही	miss	0	0	1	0
 केही	some	0	0	1	0
 उल्टो	cutting knife	0	0	1	0
@@ -6944,7 +6691,6 @@
 आँकडा	data	0	0	1	0
 आँकडा	numbers	0	0	1	0
 आँकडा	value	0	0	1	0
-यहाँका	of here	0	0	1	0
 यहाँका	here	0	0	1	0
 नाई	naai	0	0	1	0
 नाई	no	0	0	1	0
@@ -6953,7 +6699,6 @@
 महाअधिवेशन	mahaadhiveshan	0	0	1	0
 सुनसरी	powers of imagination	0	0	1	0
 सुनसरी	sunsari	0	0	1	0
-तिर्थ	bysicle	0	0	1	0
 तिर्थ	religious	0	0	1	0
 तिर्थ	holy place	0	0	1	0
 टेलीफोन	telephone	0	0	1	0
@@ -6972,13 +6717,11 @@
 अन्तरिक्ष	antharikhsah	0	0	1	0
 अन्तरिक्ष	space	0	0	1	0
 छोडि	except	0	0	1	0
-छोडि	instead of	0	0	1	0
 नसकेको	cannot	0	0	1	0
 नसकेको	unable	0	0	1	0
 नाप	measure	0	0	1	0
 सम्भार	sambhar	0	0	1	0
 सम्भार	maintain	0	0	1	0
-सम्भार	care	0	0	1	0
 नाम	sunday	0	0	1	0
 नाम	name	0	0	1	0
 रेखा	line	0	0	1	0
@@ -7005,7 +6748,6 @@
 स्थानहरुमा	in locations	0	0	1	0
 स्थानहरुमा	place	0	0	1	0
 स्थानहरुमा	places	0	0	1	0
-हुनसक्छ	aproved	0	0	1	0
 हुनसक्छ	is possible	0	0	1	0
 हुनसक्छ	can be	0	0	1	0
 अक्षरको	aksharko	0	0	1	0
@@ -7016,7 +6758,6 @@
 आउँछ	comes	0	0	1	0
 समथरको	able	0	0	1	0
 समथरको	supporter	0	0	1	0
-समथरको	of plain	0	0	1	0
 घट्न	ghatan	0	0	1	0
 घट्न	decrease	0	0	1	0
 घट्न	occurred	0	0	1	0
@@ -7032,19 +6773,17 @@
 नारायणी	narayani	0	0	1	0
 नारायणी	narayani (a place in nepal)	0	0	1	0
 नारायणी	narayani -distt name	0	0	1	0
-श्रेणीसौर्यमण्डल	shade	0	0	1	0
 श्रेणीसौर्यमण्डल	class:solar system	0	0	1	0
+श्रेणीसौर्यमण्डल	shade	0	0	1	0
 प्रणालीको	kinds	0	0	1	0
 प्रणालीको	of system	0	0	1	0
 मातृकाप्रसाद	matrikaprasad	0	0	1	0
 मातृकाप्रसाद	matrika prasad - person name	0	0	1	0
 ब्यबस्था	situation	0	0	1	0
-ब्यबस्था	enough	0	0	1	0
 ब्यबस्था	system	0	0	1	0
 ५१	a measure of length	0	0	1	0
 ५१	51	0	0	1	0
 ५०	mother's brother	0	0	1	0
-५०	50	0	0	1	0
 फांट	plains	0	0	1	0
 फांट	font	0	0	1	0
 फांट	plain	0	0	1	0
@@ -7055,9 +6794,8 @@
 ५३	53	0	0	1	0
 ५२	confiscation	0	0	1	0
 ५२	52	0	0	1	0
-क्रान्तिमा	in stuggle	0	0	1	0
-क्रान्तिमा	revolution	0	0	1	0
-क्रान्तिमा	in revolution	0	0	1	0
+५९	connections	0	0	1	0
+५९	59	0	0	1	0
 गणेश	colleague	1	0	1	0
 गणेश	self-respect	1	0	1	0
 गणेश	ganesha	1	1	0	0
@@ -7115,10 +6853,8 @@
 पत्राचारमा	patracharma	0	0	1	0
 त्यागी	leave	0	0	1	0
 त्यागी	solitaire	0	0	1	0
-त्यागी	ascetic	0	0	1	0
 पहिलेदेखि	seen erlier	0	0	1	0
 पहिलेदेखि	from begining	0	0	1	0
-पहिलेदेखि	from early	0	0	1	0
 यिनीहरुका	their	0	0	1	0
 यिनीहरुका	of these	0	0	1	0
 स्वतन्त्र	independent	0	0	1	0
@@ -7136,7 +6872,6 @@
 वायुसेवा	vayuseva	0	0	1	0
 वायुसेवा	air service	0	0	1	0
 वायुसेवा	airways	0	0	1	0
-उपकार	bless	0	0	1	0
 उपकार	upakar	0	0	1	0
 उपकार	upkar - book publisher name	0	0	1	0
 घटेर	decrease	0	0	1	0
@@ -7155,13 +6890,10 @@
 ओखल	okhal	0	0	1	0
 ओखल	pestle	0	0	1	0
 योजना	project	0	0	1	0
-योजना	yojana	0	0	1	0
-योजना	scheme	0	0	1	0
 ब्यक्तिलाई	person	0	0	1	0
 ब्यक्तिलाई	for a moment	0	0	1	0
 मंजुरी	acceptance	0	0	1	0
 गर्छन्	do	0	0	1	0
-गर्छन्	i will do it	0	0	1	0
 गर्छन्	garchan	0	0	1	0
 करता	do	0	0	1	0
 जलवायु	climate	0	0	1	0
@@ -7175,7 +6907,6 @@
 चीनले	chinle	0	0	1	0
 श्रेणीहिन्दू	hindu	0	0	1	0
 श्रेणीहिन्दू	section: hindu	0	0	1	0
-श्रेणीहिन्दू	class:hindu	0	0	1	0
 हाङ्गले	hang	0	0	1	0
 हाङ्गले	scholar	0	0	1	0
 हाङ्गले	hangle	0	0	1	0
@@ -7245,8 +6976,8 @@
 राज्यमा	state	0	0	1	0
 राज्यमा	in state	0	0	1	0
 यसले	this	0	0	1	0
-केन्द्रीत	concentrated	0	0	1	0
 केन्द्रीत	centered	0	0	1	0
+केन्द्रीत	concentrated	0	0	1	0
 केन्द्रीत	central	0	0	1	0
 हुन्छन	is	0	0	1	0
 हुन्छन	are	0	0	1	0
@@ -7291,11 +7022,9 @@
 विज्ञापन	vigyapan	0	0	1	0
 विज्ञापन	advertisement	0	0	1	0
 गइरहेका	current affair	0	0	1	0
-गइरहेका	going	0	0	1	0
 गइरहेका	to be confused	0	0	1	0
 वजारमा	market	0	0	1	0
 वजारमा	vazarma	0	0	1	0
-मानवको	huminity	0	0	1	0
 मानवको	human's	0	0	1	0
 ८३०	830	0	0	1	0
 सुनेर	golden	0	0	1	0
@@ -7310,9 +7039,9 @@
 नामाकरण	named as	0	0	1	0
 नामाकरण	named	0	0	1	0
 नामाकरण	naming	0	0	1	0
-मोहनदास	mohandas (name)	0	0	1	0
-मोहनदास	mohandas- name	0	0	1	0
 मोहनदास	mohan das	0	0	1	0
+मोहनदास	mohandas- name	0	0	1	0
+मोहनदास	mohandas (name)	0	0	1	0
 पर्सा	parsa	0	0	1	0
 शिलालेख	epigraph	0	0	1	0
 शिलालेख	to graze	0	0	1	0
@@ -7364,14 +7093,11 @@
 टापुमा	island	0	0	1	0
 टापुमा	in island	0	0	1	0
 दुःख	sorrow	0	0	1	0
-दुःख	tragedy	0	0	1	0
 दुःख	sad	0	0	1	0
 बाँधिएका	joined	0	0	1	0
 बाँधिएका	tied	0	0	1	0
-प्रायजसो	usually	0	0	1	0
 प्रायजसो	in most cases	0	0	1	0
 प्रायजसो	generally	0	0	1	0
-पृष्ठ२००७को	of page 2007	0	0	1	0
 भैरवस्थान	bhairavsthan	0	0	1	0
 श्रेणीनगरपालिकाहरू	section: municipalities	0	0	1	0
 श्रेणीनगरपालिकाहरू	shreninagarpalikahar	0	0	1	0
@@ -7384,8 +7110,6 @@
 तारापुञ्ज	stars	0	0	1	0
 पाण्डुले	pandu	0	0	1	0
 पाण्डुले	pandule	0	0	1	0
-मृत्यू	death	0	0	1	0
-मृत्यू	dead	0	0	1	0
 अग्रणी	leading	0	0	1	0
 अञ्चलका	states	0	0	1	0
 अञ्चलका	achalka	0	0	1	0
@@ -7416,7 +7140,6 @@
 गौरी	gauri	0	0	1	0
 गरिसकेपछि	garice	0	0	1	0
 गरिसकेपछि	tundra	0	0	1	0
-गरिसकेपछि	after getting	0	0	1	0
 १८१४	1814	0	0	1	0
 १८१४	1914	0	0	1	0
 सबैलाई	all	0	0	1	0
@@ -7428,10 +7151,7 @@
 सीप	oyster	0	0	1	0
 दुग्ध	dairy	0	0	1	0
 दुग्ध	milk	0	0	1	0
-दुग्ध	dhugd	0	0	1	0
 निजी	personal	0	0	1	0
-निजी	private	0	0	1	0
-निजी	language	0	0	1	0
 सरकारका	sarkarka	0	0	1	0
 सरकारका	of government	0	0	1	0
 सरकारका	government	0	0	1	0
@@ -7442,7 +7162,6 @@
 शर्करा	sharkara	0	0	1	0
 शर्करा	low	0	0	1	0
 शर्करा	sugar	0	0	1	0
-रूसी	russian	0	0	1	0
 रूसी	culture	0	0	1	0
 प्रिन्टिङ	print	0	0	1	0
 प्रिन्टिङ	printing	0	0	1	0
@@ -7475,7 +7194,6 @@
 सरकारको	government	0	0	1	0
 चुरोट	cigarette	0	0	1	0
 संशोधन	rectification	0	0	1	0
-संशोधन	ammendment	0	0	1	0
 संशोधन	bug	0	0	1	0
 दीपावली	deepawali	0	0	1	0
 दीपावली	dipawali	0	0	1	0
@@ -7487,7 +7205,6 @@
 क्रियाकलाप	functions	0	0	1	0
 क्रियाकलाप	activity	0	0	1	0
 बन्दछ	bandacha	0	0	1	0
-बन्दछ	close	0	0	1	0
 बन्दछ	make	0	0	1	0
 बाजुरा	bajura	0	0	1	0
 बाजुरा	landland	0	0	1	0
@@ -7503,7 +7220,6 @@
 विभाजनको	husband and wife	0	0	1	0
 विभाजनको	of division	0	0	1	0
 काँग्रेस	congress	0	0	1	0
-पर्दैन	not needed	0	0	1	0
 पर्दैन	no need	0	0	1	0
 पर्दैन	learned	0	0	1	0
 हरिपुर	haripur	0	0	1	0
@@ -7544,7 +7260,6 @@
 कांगड़ा	kangra	0	0	1	0
 कांगड़ा	kangada	0	0	1	0
 १९३०मा	in 1930	0	0	1	0
-बीचमा	in middle	0	0	1	0
 बीचमा	in between	0	0	1	0
 बीचमा	between	0	0	1	0
 कलपुर्जाहरू	parts	0	0	1	0
@@ -7554,7 +7269,6 @@
 राष्ट्रहरुलाई	rashtraharlai	0	0	1	0
 राष्ट्रहरुलाई	nation	0	0	1	0
 अमरभुमी	undying ground	0	0	1	0
-अमरभुमी	some place	0	0	1	0
 प्रतिकार	prathikar	0	0	1	0
 प्रतिकार	retaliation	0	0	1	0
 आदिवासी	inhabitants	0	0	1	0
@@ -7569,7 +7283,6 @@
 किङ	kid	0	0	1	0
 एडिनब्रा	edinburgh	0	0	1	0
 एडिनब्रा	adenburgh	0	0	1	0
-तेर्हौ	13th	0	0	1	0
 तेर्हौ	thirteenth	0	0	1	0
 तेर्हौ	tehrai	0	0	1	0
 देहायका	mentioned	0	0	1	0
@@ -7581,7 +7294,9 @@
 मन्दिर	mandir	0	0	1	0
 संघटन	organization	0	0	1	0
 संघटन	organisation	0	0	1	0
-युरोपियन	european	0	0	1	0
+किन	to comedown	0	0	1	0
+किन	why	0	0	1	0
+किन	aleph	0	0	1	0
 वरिष्ठ	varisht	0	0	1	0
 वरिष्ठ	senior	0	0	1	0
 वरिष्ठ	verb	0	0	1	0
@@ -7624,8 +7339,7 @@
 शुक्रग्रह	laughter	1	0	1	0
 शुक्रग्रह	plane venus	1	0	1	0
 शुक्रग्रह	mother fucker	1	0	1	0
-हदसम्म	to limit	0	0	1	0
-हदसम्म	upto extent	0	0	1	0
+विश्वविद्यालय	university	0	0	1	0
 चाहिन्छ	need	0	0	1	0
 चाहिन्छ	require	0	0	1	0
 चाहिन्छ	chahinch	0	0	1	0
@@ -7654,7 +7368,6 @@
 व्यक्तिहरूको	peoples	0	0	1	0
 लुंखुको	high	0	0	1	0
 लुंखुको	of lunkhu (a place in nepal)	0	0	1	0
-व्यक्तिहरू	in persons	0	0	1	0
 व्यक्तिहरू	ninety-two	0	0	1	0
 व्यक्तिहरू	people	0	0	1	0
 अरबी	arabi	0	0	1	0
@@ -7691,7 +7404,6 @@
 आधिभौतिक	semi material	0	0	1	0
 आधिभौतिक	semi-physical	0	0	1	0
 ब्रतकथामा	bratkatama	0	0	1	0
-ब्रतकथामा	fast story	0	0	1	0
 गाई	cow	0	0	1	0
 दिमाग	brain	0	0	1	0
 दिमाग	mind	0	0	1	0
@@ -7708,12 +7420,11 @@
 अभिषेक	finish	0	0	1	0
 अभिषेक	abhishek (religous act of pouring water/milk on idol)	0	0	1	0
 अभिषेक	unemployment	0	0	1	0
-सन	a.d	0	0	1	0
-सन	san	0	0	1	0
-सन	era	0	0	1	0
+चल्यो	remain continue	0	0	1	0
+चल्यो	start	0	0	1	0
+चल्यो	chalyo	0	0	1	0
 नेपाली	nepali	0	0	1	0
 २४१	241	0	0	1	0
-२४०	250	0	0	1	0
 २४०	240	0	0	1	0
 ती	thi	0	0	1	0
 ती	which	0	0	1	0
@@ -7724,7 +7435,6 @@
 कावेरी	zonal administration	0	0	1	0
 कावेरी	kaberi	0	0	1	0
 पोषण	nutrition	0	0	1	0
-पोषण	poshan	0	0	1	0
 प्रमाणीकरण	proved	0	0	1	0
 प्रमाणीकरण	verification	0	0	1	0
 प्रमाणीकरण	meat	0	0	1	0
@@ -7750,10 +7460,8 @@
 पुरस्कार	prize	0	0	1	0
 नत्रभने	otherwise	0	0	1	0
 नत्रभने	else	0	0	1	0
-सपरिवार	whole family	0	0	1	0
 सपरिवार	with family	0	0	1	0
 सेक्टर	sector	0	0	1	0
-उपयोगको	of use	0	0	1	0
 उपयोगको	use	0	0	1	0
 गणतान्त्रिक	federal	0	0	1	0
 गणतान्त्रिक	gantantrik	0	0	1	0
@@ -7807,7 +7515,6 @@
 उम्मेदवारको	candidate's	0	0	1	0
 मान्यता	importance	0	0	1	0
 मान्यता	authorisation	0	0	1	0
-मान्यता	recognise	0	0	1	0
 ट्युनिसिया	tunisia	0	0	1	0
 प्रमुखको	chief	0	0	1	0
 प्रमुखको	of chief	0	0	1	0
@@ -7816,9 +7523,8 @@
 स्थल	land	0	0	1	0
 स्थल	place	0	0	1	0
 बीस	twenty	0	0	1	0
-सा	passing	0	0	1	0
 सा	sa	0	0	1	0
-सा	saa	0	0	1	0
+सा	passing	0	0	1	0
 एफएम	fm	0	0	1	0
 बीर	suction	0	0	1	0
 बीर	bir	0	0	1	0
@@ -7852,13 +7558,11 @@
 लुम्वीनी	lumbini	0	0	1	0
 लुम्वीनी	lumbini (a place in nepal)	0	0	1	0
 लुम्वीनी	lumvini	0	0	1	0
-२००४	2004	0	0	1	0
-तार	wire	0	0	1	0
-तार	thaar	0	0	1	0
-तार	cable	0	0	1	0
-शिव	shiva	0	0	1	0
+गहुँ	wheat	0	0	1	0
+लैजाने	take away	0	0	1	0
+लैजाने	take	0	0	1	0
 शिव	shiv (hindu god)	0	0	1	0
-शिव	shiv	0	0	1	0
+शिव	shiva	0	0	1	0
 २००५	two thousand and five	0	0	1	0
 २००५	2005	0	0	1	0
 शिर	shira	0	0	1	0
@@ -7901,7 +7605,6 @@
 घनपोखरा	dhanapokhara	0	0	1	0
 घनपोखरा	ghanpokhara	0	0	1	0
 हिमालयन	himalayan	0	0	1	0
-दृष्टिकोण	point of view	0	0	1	0
 दृष्टिकोण	perscpective	0	0	1	0
 दृष्टिकोण	view	0	0	1	0
 ता	ta	0	0	1	0
@@ -7921,7 +7624,6 @@
 पुनर्स्थापित	reinstalled	0	0	1	0
 गर्दछन	nepal is highly photogenic	0	0	1	0
 गर्दछन	do	0	0	1	0
-प्रविधि	technology	0	0	1	0
 तराई	translator	0	0	1	0
 तराई	tharai	0	0	1	0
 तराई	tarayi	0	0	1	0
@@ -8039,8 +7741,8 @@
 लडेका	ladeka	0	0	1	0
 लडेका	fight	0	0	1	0
 अन्नपूर्ण	annapurna	0	0	1	0
-अन्नपूर्ण	to get thin	0	0	1	0
 अन्नपूर्ण	annpurn	0	0	1	0
+अन्नपूर्ण	to get thin	0	0	1	0
 दी	gave	0	0	1	0
 डिसेम्बर	december	0	0	1	0
 दे	de	0	0	1	0
@@ -8101,7 +7803,6 @@
 किंवदन्ती	tale	0	0	1	0
 कोरिया	korea	0	0	1	0
 शीतकालमा	autumn	0	0	1	0
-शीतकालमा	in winter	0	0	1	0
 शीतकालमा	winter	0	0	1	0
 क्रमस	respectively	0	0	1	0
 क्रमस	slowly	0	0	1	0
@@ -8116,7 +7817,6 @@
 इतिहासले	history	0	0	1	0
 विचमा	question	0	0	1	0
 विचमा	between	0	0	1	0
-ब्लाङ्क	bladak	0	0	1	0
 ब्लाङ्क	blanc of mont blanc	0	0	1	0
 ब्लाङ्क	blank	0	0	1	0
 वैतडी	vetadi	0	0	1	0
@@ -8132,7 +7832,6 @@
 मार्क्सको	of marx	0	0	1	0
 मार्क्सको	marks	0	0	1	0
 कम्तीमा	at least	0	0	1	0
-कम्तीमा	kamthima	0	0	1	0
 कम्तीमा	working	0	0	1	0
 अर्चना	worship	0	0	1	0
 अर्चना	to be hungry	0	0	1	0
@@ -8142,18 +7841,16 @@
 किंवदन्ति	tale	0	0	1	0
 किंवदन्ति	story	0	0	1	0
 किंवदन्ति	mythology	0	0	1	0
-भारतलाई	india	0	0	1	0
 भारतलाई	to india	0	0	1	0
 बबरमहल	babarmahal	0	0	1	0
 पेजहरू	pages	0	0	1	0
-रोयलको	royal	0	0	1	0
+लगत्तै	soon after	0	0	1	0
 भूमिलाई	land	0	0	1	0
 पिरामिड	pyramid	0	0	1	0
 बंगलादेश	bangladesh	0	0	1	0
 कातालान	katalan	0	0	1	0
 कातालान	alliteration	0	0	1	0
 कातालान	country name	0	0	1	0
-नियंत्रित	control	0	0	1	0
 नियंत्रित	restricted	0	0	1	0
 नियंत्रित	controlled	0	0	1	0
 किनवेच	commerce	0	0	1	0
@@ -8193,9 +7890,8 @@
 हीमोग्लोबिन	hemoglobin	0	0	1	0
 हीमोग्लोबिन	haemoglobin	0	0	1	0
 ट	t	0	0	1	0
-ट	ta	0	0	1	0
-इलेक्ट्रोनिक	computer / email	0	0	1	0
 इलेक्ट्रोनिक	electronic	0	0	1	0
+इलेक्ट्रोनिक	computer / email	0	0	1	0
 महापुरुष	sachem	0	0	1	0
 महापुरुष	great person	0	0	1	0
 महापुरुष	superhero	0	0	1	0
@@ -8228,9 +7924,7 @@
 मिलाई	maintain	0	0	1	0
 मिलाई	including	0	0	1	0
 मिलाई	combining	0	0	1	0
-सगरमाथा	mt. everest	0	0	1	0
 सगरमाथा	sagarmatha	0	0	1	0
-जग्गा	land	0	0	1	0
 जग्गा	get up	0	0	1	0
 जग्गा	mongoose	0	0	1	0
 राशीमा	rashima	0	0	1	0
@@ -8243,10 +7937,8 @@
 अन्तराष्ट्रिय	international	0	0	1	0
 अन्तराष्ट्रिय	interantional	0	0	1	0
 शिखर	moutain	0	0	1	0
-शिखर	summit	0	0	1	0
 शिखर	peak	0	0	1	0
 हिउँले	by snow	0	0	1	0
-हिउँले	snow	0	0	1	0
 हिउँले	hivunle	0	0	1	0
 जनआन्दोलन	mass agitation	0	0	1	0
 जनआन्दोलन	public agitation	0	0	1	0
@@ -8361,7 +8053,6 @@
 ख्याती	fame	0	0	1	0
 कपडालाई	to the clothes	0	0	1	0
 कपडालाई	kapdalayi	0	0	1	0
-कपडालाई	clothes	0	0	1	0
 उचाँईसंग	uchanyisang	0	0	1	0
 उचाँईसंग	with height	0	0	1	0
 उचाँईसंग	height	0	0	1	0
@@ -8388,9 +8079,7 @@
 डिभिजन	division	0	0	1	0
 आइजोल	aizawl (a place in india)	0	0	1	0
 आइजोल	izol	0	0	1	0
-आइजोल	mizoram	0	0	1	0
 चंद्र	chandra	0	0	1	0
-चंद्र	moon	0	0	1	0
 हात्ती	elephant	0	0	1	0
 गाविस	gramin vikas samiti	0	0	1	0
 गाविस	village development comittee	0	0	1	0
@@ -8438,16 +8127,13 @@
 तस्विरहरू	tasvirhuru.	0	0	1	0
 तस्विरहरू	map	0	0	1	0
 नियन्त्रण	control	0	0	1	0
-नियन्त्रण	niyanthran	0	0	1	0
 उत्तिकै	a kind of millet	0	0	1	0
 उत्तिकै	same	0	0	1	0
 फोन	phone	0	0	1	0
 फोन	telephone	0	0	1	0
-थाले	started	0	0	1	0
 थाले	might	0	0	1	0
 थाले	under	0	0	1	0
 गइन्	gone	0	0	1	0
-गइन्	gain	0	0	1	0
 गइन्	didn't went	0	0	1	0
 औषधालय	avushadhalay	0	0	1	0
 औषधालय	hospital	0	0	1	0
@@ -8529,19 +8215,15 @@
 नेदरल्याण्ड	netherland	0	0	1	0
 नेदरल्याण्ड	nedherlands	0	0	1	0
 य	ya	0	0	1	0
-प्राधिकरणबाट	from authority	0	0	1	0
 प्राधिकरणबाट	from corporation	0	0	1	0
 प्राधिकरणबाट	authority	0	0	1	0
-मूलाधारबाट	from streamline	0	0	1	0
 मूलाधारबाट	mainstream	0	0	1	0
 मूलाधारबाट	from main stream	0	0	1	0
 पदार्थलाई	to the substance	0	0	1	0
 पदार्थलाई	matter	0	0	1	0
 पदार्थलाई	components	0	0	1	0
-रेलमार्ग	country	0	0	1	0
 रेलमार्ग	railway	0	0	1	0
 सभापतिमा	of president	0	0	1	0
-सभापतिमा	chairman	0	0	1	0
 मनोनयन	nomination	0	0	1	0
 मनोनयन	manonayan	0	0	1	0
 पाताले	underground	0	0	1	0
@@ -8560,7 +8242,6 @@
 कलेजको	college	0	0	1	0
 प्रकाशित	published	0	0	1	0
 टर्कमेनिस्तान	turkeministan	0	0	1	0
-टर्कमेनिस्तान	turkomenistan	0	0	1	0
 टर्कमेनिस्तान	palace	0	0	1	0
 निम्नलिखित	following	0	0	1	0
 निम्नलिखित	as following	0	0	1	0
@@ -8595,9 +8276,7 @@
 लेभीले	by levi	0	0	1	0
 लेभीले	levi	0	0	1	0
 लेभीले	lebhile	0	0	1	0
-नौ	now	0	0	1	0
 नौ	nine	0	0	1	0
-किया	did	0	0	1	0
 किया	done	0	0	1	0
 किया	left	0	0	1	0
 बैवाहिक	martial	0	0	1	0
@@ -8623,7 +8302,6 @@
 बन्धनमा	in relation	0	0	1	0
 बन्धनमा	knot	0	0	1	0
 बन्धनमा	bond	0	0	1	0
-रामले	by ram	0	0	1	0
 रामले	ram	0	0	1	0
 घुम्ने	revolving	0	0	1	0
 घुम्ने	rotation	0	0	1	0
@@ -8677,12 +8355,10 @@
 लिब्या	libiya	0	0	1	0
 लिब्या	libya	0	0	1	0
 लाई	to	0	0	1	0
-लाई	is	0	0	1	0
 लाई	layi	0	0	1	0
 लिङ्कहरु	lindakahru	0	0	1	0
 लिङ्कहरु	links	0	0	1	0
 यिनै	these	0	0	1	0
-यिनै	from these	0	0	1	0
 यिनै	wicked	0	0	1	0
 लिङ्कहरू	links are	0	0	1	0
 त्यसपछिका	of after those	0	0	1	0
@@ -8756,7 +8432,6 @@
 इमेलको	of email	0	0	1	0
 इमेलको	email	0	0	1	0
 जनआन्दोलनको	janandolanko	0	0	1	0
-जनआन्दोलनको	rally	0	0	1	0
 जनआन्दोलनको	people's revolution	0	0	1	0
 मेचीनगर	mechinagar	0	0	1	0
 मेचीनगर	mechinagar (place in nepal)	0	0	1	0
@@ -8798,7 +8473,6 @@
 नरहेको	absence	0	0	1	0
 नरहेको	unremained	0	0	1	0
 गराए	made	0	0	1	0
-गराए	done	0	0	1	0
 गराए	caused to	0	0	1	0
 लात्भिया	latvia	0	0	1	0
 गाउँका	of village	0	0	1	0
@@ -8843,7 +8517,6 @@
 २०४८को	of 2048	0	0	1	0
 २०४८को	2048	0	0	1	0
 छुट्याउँछ	height from sea level	0	0	1	0
-छुट्याउँछ	differentiate	0	0	1	0
 छुट्याउँछ	separate	0	0	1	0
 प्रश्रय	shelter	0	0	1	0
 प्रश्रय	executive	0	0	1	0
@@ -8862,7 +8535,6 @@
 बेंसी	bensi	0	0	1	0
 देखिदैन	not seen	0	0	1	0
 देखिदैन	cannot be seen	0	0	1	0
-देखिदैन	watch	0	0	1	0
 मुल	main	0	0	1	0
 मुल	original	0	0	1	0
 जसलाई	jaslai	0	0	1	0
@@ -8905,7 +8577,6 @@
 पेजमा	page	0	0	1	0
 पेजमा	in page	0	0	1	0
 गुणात्मक	calculation	0	0	1	0
-गुणात्मक	qualitative	0	0	1	0
 नेपालकानून	nepal's law	0	0	1	0
 नेपालकानून	nepalkanoon	0	0	1	0
 नेपालकानून	nepal laws	0	0	1	0
@@ -8916,14 +8587,12 @@
 गढीमा	at (shan) fort	0	0	1	0
 गढीमा	gadeema	0	0	1	0
 ज्ञानेन्द्रको	gyanendra's	0	0	1	0
-ज्ञानेन्द्रको	gyanedrako	0	0	1	0
 ज्ञानेन्द्रको	of gyanendra (name of a person)	0	0	1	0
 स्काइ	sky	0	0	1	0
 ल्याउने	bring in	0	0	1	0
 ल्याउने	bringing	0	0	1	0
 ल्याउने	bringer	0	0	1	0
 तलतिर	downward	0	0	1	0
-तलतिर	thalthir	0	0	1	0
 तलतिर	lakebottom	0	0	1	0
 प्लास्टिक	contribution	0	0	1	0
 प्लास्टिक	plastice	0	0	1	0
@@ -8947,7 +8616,6 @@
 सार्वभौम	river	0	0	1	0
 शुल्‍क	charges	0	0	1	0
 शुल्‍क	he is eating an apple	0	0	1	0
-शुल्‍क	charge	0	0	1	0
 अक्षरात्मक	sylebic	0	0	1	0
 अक्षरात्मक	syllabic	0	0	1	0
 नेतृत्व	nethruthvah	0	0	1	0
@@ -8972,11 +8640,10 @@
 जिसमा	jisma	0	0	1	0
 जिसमा	backbiter	0	0	1	0
 जिसमा	in which	0	0	1	0
-विवाह	vivah	0	0	1	0
 विवाह	marriage	0	0	1	0
 महालक्ष्मी	mahalakshmi	0	0	1	0
-महालक्ष्मी	mahalxmi	0	0	1	0
 महालक्ष्मी	mahalaxmi	0	0	1	0
+महालक्ष्मी	mahalxmi	0	0	1	0
 बिना	without	0	0	1	0
 बिना	bina	0	0	1	0
 बिना	to save	0	0	1	0
@@ -9013,7 +8680,6 @@
 राई	rai (a nepali caste)	0	0	1	0
 राई	rai	0	0	1	0
 मनिपुरी	manipuri	0	0	1	0
-दरबारको	of court	0	0	1	0
 दरबारको	the court	0	0	1	0
 दरबारको	darbar	0	0	1	0
 जिमेज	the english language	0	0	1	0
@@ -9032,15 +8698,11 @@
 बनाएर	created	0	0	1	0
 बनाएर	banaaur	0	0	1	0
 विशेषतयाः	importance	0	0	1	0
-विशेषतयाः	country	0	0	1	0
 विशेषतयाः	specially	0	0	1	0
 ठूलोमा	big	0	0	1	0
-ठूलोमा	in large	0	0	1	0
 ठूलोमा	bigger	0	0	1	0
 इन्टरनेट	internet	0	0	1	0
-सम्मका	till	0	0	1	0
 सम्मका	similar	0	0	1	0
-सांस्कृति	culture	0	0	1	0
 सांस्कृति	cultural	0	0	1	0
 सांस्कृति	sanskruti	0	0	1	0
 शेक्सपियर	shakespeare	0	0	1	0
@@ -9053,7 +8715,6 @@
 राम	ram	0	0	1	0
 राम	indoeuropean	0	0	1	0
 हवेली	building	0	0	1	0
-हवेली	haveli	0	0	1	0
 हवेली	palace	0	0	1	0
 रात	district officer	0	0	1	0
 रात	night	0	0	1	0
@@ -9061,7 +8722,6 @@
 चढाएको	self-respect	0	0	1	0
 चढाएको	given	0	0	1	0
 एकमात्र	only one	0	0	1	0
-एकमात्र	ball	0	0	1	0
 तेह्रौं	thehow	0	0	1	0
 तेह्रौं	tehav	0	0	1	0
 तेह्रौं	thirteenth	0	0	1	0
@@ -9094,7 +8754,6 @@
 गरिदिएको	completed	0	0	1	0
 गरिदिएको	garidhiyeko	0	0	1	0
 तर्फका	side	0	0	1	0
-तर्फका	of side	0	0	1	0
 सम्मको	till	0	0	1	0
 सम्मको	equal	0	0	1	0
 सम्मको	uptil	0	0	1	0
@@ -9115,14 +8774,13 @@
 चन्द्रमाको	moon	0	0	1	0
 भागबाट	from places	0	0	1	0
 भागबाट	from parts	0	0	1	0
-जांच	examine	0	0	1	0
 जांच	check	0	0	1	0
 जांच	check up	0	0	1	0
+शुक्लमा	shuklama	0	0	1	0
 बुढाकोट	budhakot	0	0	1	0
 बुढाकोट	budacoat	0	0	1	0
 बुढाकोट	budakot	0	0	1	0
 टापु	island	0	0	1	0
-टापु	topu	0	0	1	0
 जोडिएको	brahmin	0	0	1	0
 जोडिएको	connect	0	0	1	0
 जोडिएको	joined	0	0	1	0
@@ -9131,14 +8789,11 @@
 भविष्यवाणी	prediction	0	0	1	0
 भविष्यवाणी	forecast	0	0	1	0
 श्रेणीको	range	0	0	1	0
-श्रेणीको	of rank	0	0	1	0
 श्रेणीको	standard	0	0	1	0
-ईसापूर्व	before christ	0	0	1	0
 ईसापूर्व	a.d.	0	0	1	0
 ईसापूर्व	before century	0	0	1	0
 आरु	adu - name of a fruit	0	0	1	0
 आरु	pear	0	0	1	0
-आरु	prunus	0	0	1	0
 अन्तमा	at end	0	0	1	0
 अन्तमा	at the end	0	0	1	0
 अन्तमा	in last	0	0	1	0
@@ -9165,7 +8820,6 @@
 त्यसबेला	tyasbela	0	0	1	0
 त्यसबेला	that time	0	0	1	0
 प्रविधिमा	in technology	0	0	1	0
-प्रविधिमा	technology	0	0	1	0
 प्रविधिमा	pravidhima	0	0	1	0
 चारकोसे	four miles	0	0	1	0
 चारकोसे	charkose (jungle)	0	0	1	0
@@ -9191,7 +8845,6 @@
 कुटी	hut	0	0	1	0
 कुटी	beat	0	0	1	0
 ध्यान	attention	0	0	1	0
-ध्यान	mind	0	0	1	0
 ध्यान	care	0	0	1	0
 छेउको	side	0	0	1	0
 छेउको	a mad man	0	0	1	0
@@ -9204,10 +8857,8 @@
 पेरिस	paris	0	0	1	0
 भेगकै	regions	0	0	1	0
 भेगकै	bhegkai	0	0	1	0
-भेगकै	with	0	0	1	0
 भेगको	region's	0	0	1	0
 भेगको	region	0	0	1	0
-भेगको	side	0	0	1	0
 म्यासेडोनिया	myasedonia	0	0	1	0
 म्यासेडोनिया	macedonia	0	0	1	0
 नाप्न	qualitative	0	0	1	0
@@ -9301,7 +8952,6 @@
 अर्ध	meaning	0	0	1	0
 अर्ध	half	0	0	1	0
 अर्ब	billion	0	0	1	0
-अर्ब	arab	0	0	1	0
 अर्ब	meaningless	0	0	1	0
 दशरथ	dasthrath	0	0	1	0
 दशरथ	dasharath	0	0	1	0
@@ -9313,9 +8963,8 @@
 लोचन	lochan -name	0	0	1	0
 मेन	main	0	0	1	0
 मेन	men	0	0	1	0
-श्रेणीखगोलशास्त्र	series astronomy	0	0	1	0
-श्रेणीखगोलशास्त्र	class: astrology	0	0	1	0
 श्रेणीखगोलशास्त्र	shreni kagola shasthr	0	0	1	0
+श्रेणीखगोलशास्त्र	class: astrology	0	0	1	0
 मेल	mail	0	0	1	0
 मेल	in this connection	0	0	1	0
 मेल	well	0	0	1	0
@@ -9329,7 +8978,6 @@
 ब्रिटिसहरूलाई	british ruler	0	0	1	0
 ब्रिटिसहरूलाई	britishers	0	0	1	0
 कुरा	things	0	0	1	0
-कुरा	talk	0	0	1	0
 में	may	0	0	1	0
 में	in	0	0	1	0
 साधनबाट	form tools	0	0	1	0
@@ -9379,8 +9027,8 @@
 रेडियोलोजी	to chew	1	0	1	0
 रेडियोलोजी	to meet	1	0	1	0
 रेडियोलोजी	rediology	1	0	1	0
-जातिहरू	castes	0	0	1	0
 जातिहरू	races	0	0	1	0
+जातिहरू	castes	0	0	1	0
 जातिहरू	jatiharu	0	0	1	0
 दिल्लीको	dhilli ko	0	0	1	0
 दिल्लीको	delhi's	0	0	1	0
@@ -9415,13 +9063,11 @@
 दृष्टिकोणले	perspective	0	0	1	0
 दृष्टिकोणले	point of view	0	0	1	0
 चमेरे	chamere	0	0	1	0
-चमेरे	bat	0	0	1	0
 प्यूठान	pyuthan	0	0	1	0
 प्यूठान	puthan	0	0	1	0
 प्यूठान	rock	0	0	1	0
 ५१२	512	0	0	1	0
 देखाउन	cable provider	0	0	1	0
-देखाउन	sight	0	0	1	0
 देखाउन	show	0	0	1	0
 दण्ड	punish	0	0	1	0
 दण्ड	punishment	0	0	1	0
@@ -9439,27 +9085,25 @@
 क्यामेरून	cameroon	0	0	1	0
 नजानामि	najanami	0	0	1	0
 नजानामि	najanami (sanskrit word)	0	0	1	0
-देशहरुको	countries'	0	0	1	0
-देशहरुको	deshharuko	0	0	1	0
 देशहरुको	countries	0	0	1	0
+देशहरुको	deshharuko	0	0	1	0
+देशहरुको	countries'	0	0	1	0
 सम्वन्धी	about	0	0	1	0
 सम्वन्धी	related to	0	0	1	0
 सम्वन्धी	related	0	0	1	0
 हिस्ट्री	history	0	0	1	0
 १५०	150	0	0	1	0
-आर्य	aarya	0	0	1	0
-आर्य	aryans	0	0	1	0
-आर्य	arya	0	0	1	0
+प्रकार	kind	0	0	1	0
+प्रकार	prakar	0	0	1	0
+प्रकार	types	0	0	1	0
 पटकको	of times	0	0	1	0
 पटकको	slam	0	0	1	0
 पटकको	time	0	0	1	0
 उल्लिखित	mentioned	0	0	1	0
-उल्लिखित	listed	0	0	1	0
 उल्लिखित	ullikith	0	0	1	0
 आकर्षित	attracted	0	0	1	0
 आकर्षित	aakarshit	0	0	1	0
 मृतात्मलाई	mruthathmalai	0	0	1	0
-मृतात्मलाई	muthathmlaye	0	0	1	0
 मृतात्मलाई	dead soul	0	0	1	0
 पुष्टि	proved	0	0	1	0
 पुष्टि	pushti	0	0	1	0
@@ -9468,13 +9112,11 @@
 बंगला	bengal	0	0	1	0
 देहाय	dehay (basis of date fixation of dashain festival)	0	0	1	0
 देहाय	to stifle	0	0	1	0
-धम्पुस	dhampush (a place in nepal)	0	0	1	0
-धम्पुस	dhampyus	0	0	1	0
 धम्पुस	dhampus	0	0	1	0
+धम्पुस	dhampyus	0	0	1	0
+धम्पुस	dhampush (a place in nepal)	0	0	1	0
 खेसर	khesar	0	0	1	0
 खेसर	khesar -name	0	0	1	0
-अरब	arab	0	0	1	0
-अरब	billion	0	0	1	0
 लगाउन	apply	0	0	1	0
 लगाउन	putting	0	0	1	0
 कलाकार	flat on one's back	0	0	1	0
@@ -9483,7 +9125,6 @@
 वाहुल्यता	availability	0	0	1	0
 संपूर्ण	all	0	0	1	0
 संपूर्ण	whole	0	0	1	0
-बेलायती	english	0	0	1	0
 बेलायती	british	0	0	1	0
 बेलायती	foreign	0	0	1	0
 संचालन	sanchalan	0	0	1	0
@@ -9515,19 +9156,14 @@
 उखानटुक्का	ukhan tukka ( short folk stories based on proverbs)	0	0	1	0
 ग्रहको	planets	0	0	1	0
 ग्रहको	of planet	0	0	1	0
-गर्ने	doing	0	0	1	0
-गर्ने	do	0	0	1	0
-गर्ने	to do	0	0	1	0
 कुरालाई	kuralaai	0	0	1	0
 कुरालाई	thing	0	0	1	0
 कुरालाई	oder	0	0	1	0
-निधो	decision	0	0	1	0
 निधो	decide	0	0	1	0
 ज्यान	life	0	0	1	0
 ज्यान	jyaan	0	0	1	0
 बस्दा	staying	0	0	1	0
 बस्दा	sit	0	0	1	0
-बस्दा	sat	0	0	1	0
 भएतापनि	even if	0	0	1	0
 ८०३०	to shine	0	0	1	0
 ८०३०	8030	0	0	1	0
@@ -9555,7 +9191,6 @@
 विकासकहरु	sinfulness	0	0	1	0
 गुम्वज	gumvaj	0	0	1	0
 गुम्वज	gumba	0	0	1	0
-गुम्वज	dome	0	0	1	0
 टेलिभिजन	television	0	0	1	0
 उब्जनी	cultivation	0	0	1	0
 उब्जनी	ubjani	0	0	1	0
@@ -9631,8 +9266,8 @@
 निकास	exit	0	0	1	0
 निकास	solution	0	0	1	0
 झार	bush	0	0	1	0
-झार	weed	0	0	1	0
 झार	weeds	0	0	1	0
+झार	weed	0	0	1	0
 निकाय	agency	0	0	1	0
 निकाय	system	0	0	1	0
 निकाय	authority	0	0	1	0
@@ -9643,12 +9278,11 @@
 उदेश्य	central intelligence bureau	0	0	1	0
 उदेश्य	aim	0	0	1	0
 लीग	league	0	0	1	0
-लागेका	started	0	0	1	0
 लागेका	involve	0	0	1	0
+लागेका	started	0	0	1	0
 लागेका	indulge	0	0	1	0
 तीव्र	footpath	0	0	1	0
 तीव्र	theevrah	0	0	1	0
-तरिकाले	by way	0	0	1	0
 तरिकाले	way	0	0	1	0
 तरिकाले	side of river	0	0	1	0
 भएका	happen	0	0	1	0
@@ -9659,7 +9293,6 @@
 पाकिस्तानको	of pakistan	0	0	1	0
 ८२	82	0	0	1	0
 ८२	92	0	0	1	0
-८३	83	0	0	1	0
 ८४	84	0	0	1	0
 ८५	aat panch	0	0	1	0
 ८५	84	0	0	1	0
@@ -9697,7 +9330,6 @@
 समितिको	of committee	0	0	1	0
 समितिको	formless	0	0	1	0
 यमुना	yamuna	0	0	1	0
-शहिदहरू	martyrs	0	0	1	0
 शहिदहरू	large yellow pumpkin	0	0	1	0
 शहिदहरू	sacrificed himself	0	0	1	0
 चिकित्साको	medicine	0	0	1	0
@@ -9716,7 +9348,6 @@
 भएको	having	0	0	1	0
 भएको	have	0	0	1	0
 ठमेलमा	tamelma	0	0	1	0
-ठमेलमा	thamel	0	0	1	0
 ठमेलमा	in thamel	0	0	1	0
 लागेको	laagoko	0	0	1	0
 लागेको	take	0	0	1	0
@@ -9730,7 +9361,6 @@
 भारदारहरू	a high official	0	0	1	0
 मार्शल	marshall	0	0	1	0
 मार्शल	marshal	0	0	1	0
-पहाडले	mountains	0	0	1	0
 पहाडले	hill's	0	0	1	0
 पहाडले	by hills	0	0	1	0
 अस्थायी	temporary	0	0	1	0
@@ -9812,22 +9442,17 @@ $	(american dollar) $	0	0	1	0
 लालमोहर	lalamohar	0	0	1	0
 लालमोहर	lalmohar	0	0	1	0
 नागार्जुन	nagarjun	0	0	1	0
-नागार्जुन	nagarjuna	0	0	1	0
-पारिश्रमिक	salary	0	0	1	0
 पारिश्रमिक	hard work	0	0	1	0
 पारिश्रमिक	remuneration	0	0	1	0
 प्रयोजनको	use	0	0	1	0
 प्रयोजनको	purpose	0	0	1	0
 प्रयोजनको	prayojanko	0	0	1	0
-राष्ट्रपतिको	rashtrapathiko	0	0	1	0
-राष्ट्रपतिको	of president	0	0	1	0
-दोहोरो	bidirectional	0	0	1	0
+मृत्यू	death	0	0	1	0
+मृत्यू	dead	0	0	1	0
 दोहोरो	complicated	0	0	1	0
 दोहोरो	two-ways	0	0	1	0
 दशक	decade	0	0	1	0
-देशहरूको	of countries	0	0	1	0
-देशहरूको	deshharuko	0	0	1	0
-देशहरूको	countries	0	0	1	0
+प्रभावले	influence	0	0	1	0
 २०४८	2058	0	0	1	0
 २०४८	2048	0	0	1	0
 २०४८	conclusion	0	0	1	0
@@ -9836,12 +9461,10 @@ $	(american dollar) $	0	0	1	0
 राशी	horoscope	0	0	1	0
 मुसलमान	muslim	0	0	1	0
 सङ्घर्ष	struggle	0	0	1	0
-गाउँमा	in the village	0	0	1	0
 गाउँमा	gavuma	0	0	1	0
 गाउँमा	village	0	0	1	0
 घटनाले	by (this) incident	0	0	1	0
 घटनाले	incident	0	0	1	0
-घटनाले	by event	0	0	1	0
 सिदार्थ	clever	0	0	1	0
 सिदार्थ	siddhartha	0	0	1	0
 सिदार्थ	siddharth (name of a person)	0	0	1	0
@@ -9869,14 +9492,11 @@ $	(american dollar) $	0	0	1	0
 आत्रेय	atraya	0	0	1	0
 निःशुल्क	free	0	0	1	0
 निःशुल्क	nishulk	0	0	1	0
-हरियाणाको	of hariayana	0	0	1	0
 हरियाणाको	hariyanakho	0	0	1	0
 हरियाणाको	hariyana	0	0	1	0
 आइरहेको	being	0	0	1	0
-आइरहेको	coming	0	0	1	0
 सेप्टेम्बर	september	0	0	1	0
 ८४६३	8463	0	0	1	0
-काग्रेसको	of congress	0	0	1	0
 काग्रेसको	congress	0	0	1	0
 मठको	monastery	0	0	1	0
 मठको	temple	0	0	1	0
@@ -9898,7 +9518,6 @@ $	(american dollar) $	0	0	1	0
 सौर्यमण्डलको	of solar syustem	0	0	1	0
 सत्याग्रह	civil resistance	0	0	1	0
 सत्याग्रह	satyagraha (passive resistance)	0	0	1	0
-सत्याग्रह	satyagraha	0	0	1	0
 कृषि	agriculture	0	0	1	0
 १२७	thumb	0	0	1	0
 १२७	127	0	0	1	0
@@ -9924,7 +9543,6 @@ $	(american dollar) $	0	0	1	0
 पूर्ण	full	0	0	1	0
 पूर्ण	complete	0	0	1	0
 विकिपीडियाले	wikipedia	0	0	1	0
-विकिपीडियाले	by wikipedia	0	0	1	0
 पूर्वको	early	0	0	1	0
 पूर्वको	east	0	0	1	0
 पूर्वको	to collect	0	0	1	0
@@ -9943,7 +9561,6 @@ $	(american dollar) $	0	0	1	0
 यहूदिहरूको	jews	0	0	1	0
 लक्ष्मण्	claim	0	0	1	0
 लक्ष्मण्	lakshman	0	0	1	0
-लक्ष्मण्	laxman	0	0	1	0
 विगत	past	0	0	1	0
 अर्थतन्त्रको	globalization process	0	0	1	0
 अर्थतन्त्रको	finance	0	0	1	0
@@ -9953,7 +9570,6 @@ $	(american dollar) $	0	0	1	0
 जान्दथे	jaandthe	0	0	1	0
 घोषणापत्र	manifesto	0	0	1	0
 घोषणापत्र	thumb	0	0	1	0
-घोषणापत्र	declaration	0	0	1	0
 संसदको	parliament	0	0	1	0
 संसदको	of parliament	0	0	1	0
 बात्	thing	0	0	1	0
@@ -10009,7 +9625,6 @@ $	(american dollar) $	0	0	1	0
 एनेस्थेसियोलोजिस्ट	anesthesiologist	0	0	1	0
 एनेस्थेसियोलोजिस्ट	anasthesiologist	0	0	1	0
 पाएर	got	0	0	1	0
-पाएर	get	0	0	1	0
 पाएर	large hammer	0	0	1	0
 शल्य	surgical	0	0	1	0
 शल्य	shalya - name	0	0	1	0
@@ -10034,7 +9649,6 @@ $	(american dollar) $	0	0	1	0
 दोलखाका	dolkaana	0	0	1	0
 आधिकारीक	official	0	0	1	0
 आधिकारीक	authorized	0	0	1	0
-परिषद	confederation	0	0	1	0
 परिषद	council	0	0	1	0
 सब्	all	0	0	1	0
 सब्	total	0	0	1	0
@@ -10044,12 +9658,13 @@ $	(american dollar) $	0	0	1	0
 सबै	all	0	0	1	0
 २०१०का	2010	0	0	1	0
 २०१०का	of 2010	0	0	1	0
-सरकार	gorvernment	0	0	1	0
 सरकार	sarkar	0	0	1	0
 सरकार	government	0	0	1	0
 आशा	hope	0	0	1	0
 क्या	what	0	0	1	0
 क्या	kya	0	0	1	0
+राष्ट्रपतिको	rashtrapathiko	0	0	1	0
+राष्ट्रपतिको	of president	0	0	1	0
 असोज	ashoj	0	0	1	0
 असोज	asoj (a month in nepali calender)	0	0	1	0
 चन्द्रसूर्याङ्कित	moon and sun printed	0	0	1	0
@@ -10074,7 +9689,6 @@ $	(american dollar) $	0	0	1	0
 छन्|यी	untouchable	0	0	1	0
 छन्|यी	is	0	0	1	0
 छन्|यी	chanuyi	0	0	1	0
-विन्ध्यवासिनी	bindhyawasini	0	0	1	0
 विन्ध्यवासिनी	vindhyavasini	0	0	1	0
 विन्ध्यवासिनी	vindyavasini - name of a temle	0	0	1	0
 फोनफ्याक्सइमेलइन्टरनेट	phone fax email	0	0	1	0
@@ -10083,7 +9697,6 @@ $	(american dollar) $	0	0	1	0
 त्रिशुली	trishuli (river)	0	0	1	0
 त्रिशुली	trishuli	0	0	1	0
 सहरको	cities	0	0	1	0
-सहरको	of city	0	0	1	0
 बौधायन	boudhyan	0	0	1	0
 बौधायन	bavdhayan	0	0	1	0
 बौधायन	budhayn	0	0	1	0
@@ -10099,8 +9712,8 @@ $	(american dollar) $	0	0	1	0
 जिल्लामध्ये	among these districts	0	0	1	0
 जिल्लामध्ये	of districts	0	0	1	0
 पाउन	an armful	0	0	1	0
-पाउन	get	0	0	1	0
 पाउन	to get	0	0	1	0
+पाउन	get	0	0	1	0
 माध्यम	medium	0	0	1	0
 परिसरमा	in the premises	0	0	1	0
 परिसरमा	parisarma	0	0	1	0
@@ -10186,7 +9799,6 @@ $	(american dollar) $	0	0	1	0
 आधारमा	basis	0	0	1	0
 मन्त्रालयहरू	mantralayharu	0	0	1	0
 मन्त्रालयहरू	ministries	0	0	1	0
-जानकारीमा	in the knowledge of	0	0	1	0
 जानकारीमा	jaankarima	0	0	1	0
 जानकारीमा	inform	0	0	1	0
 शाही	shaahi	0	0	1	0
@@ -10221,7 +9833,6 @@ $	(american dollar) $	0	0	1	0
 उद्देश्यका	udyeshyaka	0	0	1	0
 उद्देश्यका	aim	0	0	1	0
 उद्देश्यका	of aim	0	0	1	0
-नरभूपाल	narbhupala	0	0	1	0
 नरभूपाल	narabhupal	0	0	1	0
 नरभूपाल	nar bhupal (nepali king of old times)	0	0	1	0
 बनाएको	make	0	0	1	0
@@ -10306,7 +9917,6 @@ $	(american dollar) $	0	0	1	0
 पूरा	full	0	0	1	0
 पूरा	whole	0	0	1	0
 पूरा	complete	0	0	1	0
-पूरै	fully	0	0	1	0
 पूरै	in whole	0	0	1	0
 पूरै	purai	0	0	1	0
 तागत	health	0	0	1	0
@@ -10317,7 +9927,6 @@ $	(american dollar) $	0	0	1	0
 उपनिषद्ले	updirele	0	0	1	0
 उपनिषद्ले	upnishada	0	0	1	0
 आबेरडिन	aberdeen	0	0	1	0
-गौराती	gaurati	0	0	1	0
 गौराती	influence	0	0	1	0
 गौराती	gaurati (a place in nepal)	0	0	1	0
 घटित	ghatith	0	0	1	0
@@ -10343,11 +9952,9 @@ $	(american dollar) $	0	0	1	0
 बुधबार	wednesday	0	0	1	0
 सार्वभौमिकता	sovereignty	0	0	1	0
 सार्वभौमिकता	overall control	0	0	1	0
-सार्वभौमिकता	soverginity	0	0	1	0
 एयर	harvest	0	0	1	0
 एयर	air	0	0	1	0
 नकारात्मक	negative	0	0	1	0
-पुर्‍याई	available	0	0	1	0
 पुर्‍याई	make available	0	0	1	0
 पुर्‍याई	deliver	0	0	1	0
 विमानस्थलबाट	from airport	0	0	1	0
@@ -10382,7 +9989,6 @@ $	(american dollar) $	0	0	1	0
 देखे	saw	0	0	1	0
 ईटाली	italy	0	0	1	0
 पेलेको	pele	0	0	1	0
-पेलेको	pele's	0	0	1	0
 कम्युनिटीजुन	community june	0	0	1	0
 कम्युनिटीजुन	community	0	0	1	0
 शहरसँग	town	0	0	1	0
@@ -10390,7 +9996,6 @@ $	(american dollar) $	0	0	1	0
 शहरसँग	along-with  the city	0	0	1	0
 वस्तुको	things	0	0	1	0
 वस्तुको	of substance	0	0	1	0
-वस्तुको	of matter	0	0	1	0
 प्रसङ्ग	swamp	0	0	1	0
 प्रसङ्ग	incident	0	0	1	0
 पेय	pay	0	0	1	0
@@ -10399,14 +10004,12 @@ $	(american dollar) $	0	0	1	0
 बत्ती	light	0	0	1	0
 माला	garlends	0	0	1	0
 माला	garland	0	0	1	0
-माला	mala	0	0	1	0
 पिनयिन	dialect	0	0	1	0
 पिनयिन	pinen	0	0	1	0
 हुन्छन्छौं्	is	0	0	1	0
 हुन्छन्छौं्	at some places	0	0	1	0
 पठारले	plateau	0	0	1	0
 पठारले	pathar	0	0	1	0
-पठारले	by plateau	0	0	1	0
 ग्राह्यस्त	planet set	0	0	1	0
 ग्राह्यस्त	domestic	0	0	1	0
 ग्राह्यस्त	complete	0	0	1	0
@@ -10418,6 +10021,9 @@ $	(american dollar) $	0	0	1	0
 माली	mali (country)	0	0	1	0
 माली	gardener	0	0	1	0
 माली	mali	0	0	1	0
+सृजना	create	0	0	1	0
+सृजना	srujna	0	0	1	0
+सृजना	creation	0	0	1	0
 न्युक्यासल	nyukyasal	0	0	1	0
 न्युक्यासल	volunteer	0	0	1	0
 न्युक्यासल	newcastle	0	0	1	0
@@ -10441,7 +10047,6 @@ $	(american dollar) $	0	0	1	0
 बडहर	badhar	0	0	1	0
 बडहर	sad	0	0	1	0
 चासो	desire	0	0	1	0
-चासो	doubt	0	0	1	0
 चासो	interest	0	0	1	0
 जिल्लासँग	with district	0	0	1	0
 जिल्लासँग	district	0	0	1	0
@@ -10523,10 +10128,8 @@ $	(american dollar) $	0	0	1	0
 शाहलाई	shaahlayi	0	0	1	0
 शाहलाई	to shah	0	0	1	0
 संघर्षमा	struggle	0	0	1	0
-संघर्षमा	in struggle	0	0	1	0
 भौगोलिक	geographical	0	0	1	0
 भौगोलिक	bhavgolic	0	0	1	0
-स्पष्ट	given	0	0	1	0
 स्पष्ट	clear	0	0	1	0
 रचनाहरुको	suggestions'	0	0	1	0
 रचनाहरुको	composition	0	0	1	0
@@ -10617,9 +10220,9 @@ $	(american dollar) $	0	0	1	0
 विज्ञान	science	1	1	1	0
 विज्ञान	chemistry and biology	1	0	1	0
 विज्ञान	mineral product	1	0	1	0
+बीचको	bheechko	0	0	1	0
 बीचको	mirror	0	0	1	0
 बीचको	between	0	0	1	0
-बीचको	bheechko	0	0	1	0
 संगीतकार	singer	0	0	1	0
 संगीतकार	musician	0	0	1	0
 भेरी	bheri	0	0	1	0
@@ -10648,7 +10251,6 @@ $	(american dollar) $	0	0	1	0
 लेख्ने	write	0	0	1	0
 लेख्ने	writing	0	0	1	0
 पशुपति	pashupati	0	0	1	0
-लेख्नु	write	0	0	1	0
 लेख्नु	prince	0	0	1	0
 लेख्नु	in sum	0	0	1	0
 वर्षका	years	0	0	1	0
@@ -10667,7 +10269,6 @@ $	(american dollar) $	0	0	1	0
 वर्षदेखि	yearwise	0	0	1	0
 वर्षदेखि	varshdheki	0	0	1	0
 आठौं	ring	0	0	1	0
-आठौं	eighth	0	0	1	0
 आठौं	aatav	0	0	1	0
 भर्ना	admission	0	0	1	0
 भर्ना	entrance	0	0	1	0
@@ -10715,9 +10316,8 @@ $	(american dollar) $	0	0	1	0
 माछापुच्छ्रे	machhapuchhe  -name	0	0	1	0
 माछापुच्छ्रे	machapuchre (nepali name of a mountain)	0	0	1	0
 माछापुच्छ्रे	machapunche	0	0	1	0
-गुरुङ्ग	gurung (a caste in nepal)	0	0	1	0
 गुरुङ्ग	gurudang	0	0	1	0
-गुरुङ्ग	gurung	0	0	1	0
+गुरुङ्ग	gurung (a caste in nepal)	0	0	1	0
 कनिङह्याम	cunningham	0	0	1	0
 कनिङह्याम	ward cunnigham	0	0	1	0
 सट्टामा	instead	0	0	1	0
@@ -10782,7 +10382,6 @@ $	(american dollar) $	0	0	1	0
 कार्यपत्र	work paper	0	0	1	0
 भरणपोषणमा	bharanposhanma	0	0	1	0
 भरणपोषणमा	in maintenance	0	0	1	0
-भरणपोषणमा	tame	0	0	1	0
 के	the	0	0	1	0
 के	what	0	0	1	0
 की	of	0	0	1	0
@@ -10806,7 +10405,6 @@ $	(american dollar) $	0	0	1	0
 आश्रम	residence	0	0	1	0
 आश्रम	home	0	0	1	0
 कम	less	0	0	1	0
-कम	low	0	0	1	0
 कम	pleasantly	0	0	1	0
 कप	cup	0	0	1	0
 ब्रुनाई	brunei	0	0	1	0
@@ -10836,7 +10434,6 @@ $	(american dollar) $	0	0	1	0
 शैलुङ्गेश्वर	shailungeshwor	0	0	1	0
 शैलुङ्गेश्वर	thirty-five.	0	0	1	0
 शब्दावली	dictionary	0	0	1	0
-शब्दावली	terminology	0	0	1	0
 शब्दावली	vocabulary	0	0	1	0
 जवाहर	jawahar	0	0	1	0
 भइरह्यो	bhairaho	0	0	1	0
@@ -10893,7 +10490,6 @@ $	(american dollar) $	0	0	1	0
 हुनुभयो	was	0	0	1	0
 पर्यटनको	soft	0	0	1	0
 पर्यटनको	of tourism	0	0	1	0
-समितिले	of the committee	0	0	1	0
 समितिले	samitile	0	0	1	0
 समितिले	comittee	0	0	1	0
 भनाई	saying	0	0	1	0
@@ -10902,7 +10498,6 @@ $	(american dollar) $	0	0	1	0
 भनाइ	saying	0	0	1	0
 भनाइ	banayi	0	0	1	0
 शोभाभगवती	making more beautiful	0	0	1	0
-शोभाभगवती	shovabhagawati	0	0	1	0
 शोभाभगवती	shobabhagabati	0	0	1	0
 निधन	die	0	0	1	0
 निधन	death	0	0	1	0
@@ -10927,11 +10522,9 @@ $	(american dollar) $	0	0	1	0
 वर्षछि	varshachi	0	0	1	0
 वर्षछि	after years	0	0	1	0
 निमोनिया	pneumonia	0	0	1	0
-कैलाली	place	0	0	1	0
 कैलाली	kalali	0	0	1	0
 कैलाली	husband	0	0	1	0
 समस्यामा	problem	0	0	1	0
-समस्यामा	in trouble	0	0	1	0
 समस्यामा	in problem	0	0	1	0
 कहिल्यै	always	0	0	1	0
 कहिल्यै	any day	0	0	1	0
@@ -10985,7 +10578,6 @@ $	(american dollar) $	0	0	1	0
 विकिपीडियनहरू	wikipedian	0	0	1	0
 विकिपीडियनहरू	wikipedia	0	0	1	0
 विकिपीडियनहरू	wikipedians	0	0	1	0
-सिंहको	of shingh	0	0	1	0
 सिंहको	of singh (surname)	0	0	1	0
 सिंहको	singh	0	0	1	0
 हुनुहुँदैन	hunuhundain	0	0	1	0
@@ -11013,9 +10605,7 @@ $	(american dollar) $	0	0	1	0
 भैंसी	bhaisi	0	0	1	0
 उदय	a kind of millet	0	0	1	0
 उदय	rise	0	0	1	0
-उदय	sun rise	0	0	1	0
 तालमा	talma	0	0	1	0
-तालमा	lake	0	0	1	0
 डि	d	0	0	1	0
 डा	doctor	0	0	1	0
 डा	dr.	0	0	1	0
@@ -11027,7 +10617,6 @@ $	(american dollar) $	0	0	1	0
 रोगको	disease	0	0	1	0
 रोगको	of disease	0	0	1	0
 विजयपुर	bijaypur (a place in nepal)	0	0	1	0
-विजयपुर	place	0	0	1	0
 विजयपुर	vijaypur	0	0	1	0
 लिएर	carrying	0	0	1	0
 लिएर	from	0	0	1	0
@@ -11043,8 +10632,8 @@ $	(american dollar) $	0	0	1	0
 कुमाल	potter	0	0	1	0
 कुमाल	kumal	0	0	1	0
 कुमार	kumar	0	0	1	0
-ताजिकिस्तान	tajikistan	0	0	1	0
 ताजिकिस्तान	salt	0	0	1	0
+ताजिकिस्तान	tajikistan	0	0	1	0
 रोमको	of rome	0	0	1	0
 रोमको	romeko	0	0	1	0
 डच	dutch	0	0	1	0
@@ -11065,16 +10654,13 @@ $	(american dollar) $	0	0	1	0
 रहीरहेको	kind	0	0	1	0
 रहीरहेको	existing	0	0	1	0
 खरायो	kryo	0	0	1	0
-खरायो	rabbit	0	0	1	0
 खरायो	peach	0	0	1	0
-सामाग्री	samagri	0	0	1	0
-सामाग्री	good's	0	0	1	0
 सामाग्री	item	0	0	1	0
+सामाग्री	good's	0	0	1	0
 नेताको	of leader	0	0	1	0
 नेताको	politician	0	0	1	0
 निरिक्षण	investigate	0	0	1	0
 निरिक्षण	inspection	0	0	1	0
-निरिक्षण	observation	0	0	1	0
 मुक्तेश्वर	mukteswar (a place in nepal)	0	0	1	0
 मुक्तेश्वर	mukteshwar	0	0	1	0
 माटोले	soil	0	0	1	0
@@ -11092,7 +10678,6 @@ $	(american dollar) $	0	0	1	0
 झिकाई	invite	0	0	1	0
 झिकाई	jikaai	0	0	1	0
 गठबन्धन	alliance	0	0	1	0
-गठबन्धन	coaliation	0	0	1	0
 गठबन्धन	coalition	0	0	1	0
 ठाउँमा	in the place	0	0	1	0
 ठाउँमा	in place	0	0	1	0
@@ -11120,7 +10705,6 @@ $	(american dollar) $	0	0	1	0
 राखेका	letter of the alphabet	0	0	1	0
 रोकिदिन्छन्	stopped	0	0	1	0
 रोकिदिन्छन्	stop	0	0	1	0
-रोकिदिन्छन्	prevents from doing	0	0	1	0
 भागहरु	regions	0	0	1	0
 भागहरु	parts	0	0	1	0
 विश्वयुद्ध	ready	0	0	1	0
@@ -11136,7 +10720,6 @@ $	(american dollar) $	0	0	1	0
 उद्‌घृत	stating	0	0	1	0
 उद्‌घृत	udgrut	0	0	1	0
 क्ष्ज्न्	grandfather	0	0	1	0
-सिम्बलको	of symbol	0	0	1	0
 सिम्बलको	symbols	0	0	1	0
 सिम्बलको	symbolic	0	0	1	0
 भूतपूर्व	past	0	0	1	0
@@ -11198,7 +10781,6 @@ $	(american dollar) $	0	0	1	0
 लगाएका	have (discovered)	0	0	1	0
 लगाएका	worn	0	0	1	0
 ताका	during	0	0	1	0
-ताका	around	0	0	1	0
 सामाग्रीको	items	0	0	1	0
 सामाग्रीको	material	0	0	1	0
 सामाग्रीको	samagriko	0	0	1	0
@@ -11209,12 +10791,10 @@ $	(american dollar) $	0	0	1	0
 चन्द्रशेखर	lord shiva	0	0	1	0
 चन्द्रशेखर	name	0	0	1	0
 आर्मेनिया	armenia	0	0	1	0
-आर्मेनिया	armaniya	0	0	1	0
 सिक्किम	sikkim	0	0	1	0
 अरू	more	0	0	1	0
 अरू	aru	0	0	1	0
 अरू	thirty-one	0	0	1	0
-भइन	be	0	0	1	0
 भइन	sister	0	0	1	0
 दूरीमा	at the distance	0	0	1	0
 दूरीमा	distance	0	0	1	0
@@ -11225,7 +10805,6 @@ $	(american dollar) $	0	0	1	0
 दशहरा	dussahara (hindu festival)	0	0	1	0
 दशहरा	dashahara	0	0	1	0
 दशहरा	dasahra - a festival	0	0	1	0
-जसमध्ये	out of these	0	0	1	0
 जसमध्ये	among which	0	0	1	0
 जसमध्ये	among that	0	0	1	0
 २००	200	0	0	1	0
@@ -11256,26 +10835,21 @@ $	(american dollar) $	0	0	1	0
 चढिने	climbed	0	0	1	0
 चढिने	climb	0	0	1	0
 व्यापारिक	professional	0	0	1	0
-व्यापारिक	commercial	0	0	1	0
 व्यापारिक	business	0	0	1	0
 थरहरु	rarharu	0	0	1	0
 थरहरु	thars (surnames)	0	0	1	0
-थरहरु	surnames	0	0	1	0
 कुरामा	in matter	0	0	1	0
 कुरामा	kurama	0	0	1	0
-कुरामा	fact	0	0	1	0
 थरहरू	tarharu	0	0	1	0
 थरहरू	surnames	0	0	1	0
 थरहरू	tharharu	0	0	1	0
 प्रहरीलगायत	justice	0	0	1	0
 प्रहरीलगायत	guarding	0	0	1	0
 प्रहरीलगायत	police	0	0	1	0
-सवै	all	0	0	1	0
 सवै	everyone	0	0	1	0
 सवै	every	0	0	1	0
 पोख्रेलले	pokhrel	0	0	1	0
 पोख्रेलले	wall	0	0	1	0
-कार्यक्षेत्र	working area	0	0	1	0
 कार्यक्षेत्र	work area	0	0	1	0
 राजिनामा	amicable settlement	0	0	1	0
 राजिनामा	resignation	0	0	1	0
@@ -11286,7 +10860,6 @@ $	(american dollar) $	0	0	1	0
 शताब्दी	century	0	0	1	0
 बरुण	fish	0	0	1	0
 बरुण	neptune	0	0	1	0
-बरुण	pluto	0	0	1	0
 मानिन्छन्	accepted	0	0	1	0
 मानिन्छन्	suppose	0	0	1	0
 खगोलशास्त्र	astronomy	0	0	1	0
@@ -11324,8 +10897,8 @@ $	(american dollar) $	0	0	1	0
 इन्टरनेसनलसंग	internationalsang	0	0	1	0
 इन्टरनेसनलसंग	international	0	0	1	0
 इन्टरनेसनलसंग	with international	0	0	1	0
-गम्भीर	serious	0	0	1	0
-गम्भीर	gambhir	0	0	1	0
+मनपर्ने	adorable	0	0	1	0
+मनपर्ने	manparne	0	0	1	0
 वार्षिक	annual	0	0	1	0
 वार्षिक	varshik	0	0	1	0
 शिरमा	inhead	0	0	1	0
@@ -11340,7 +10913,6 @@ $	(american dollar) $	0	0	1	0
 विज्ञानले	science	0	0	1	0
 विज्ञानले	of science	0	0	1	0
 विज्ञानले	vigyanle	0	0	1	0
-शब्दमा	in word	0	0	1	0
 शब्दमा	words	0	0	1	0
 निकुन्ज	bower	0	0	1	0
 फलामको	watery	0	0	1	0
@@ -11374,7 +10946,6 @@ $	(american dollar) $	0	0	1	0
 वैशाख	journey by water	0	0	1	0
 वैशाख	vaisakh	0	0	1	0
 अशोकद्वारा	by ashok (ancient indian king)	0	0	1	0
-अशोकद्वारा	by ashok	0	0	1	0
 अशोकद्वारा	ashokdwara	0	0	1	0
 दया	mercy	0	0	1	0
 दया	kind	0	0	1	0
@@ -11392,7 +10963,6 @@ $	(american dollar) $	0	0	1	0
 थालेका	start	0	0	1	0
 पहीलो	pahilo	0	0	1	0
 पहीलो	first	0	0	1	0
-गङ्गाका	gatagaaka	0	0	1	0
 गङ्गाका	in ganges	0	0	1	0
 लिबिया	stairs	0	0	1	0
 लिबिया	libiya	0	0	1	0
@@ -11422,14 +10992,12 @@ $	(american dollar) $	0	0	1	0
 साधनाको	devotness	0	0	1	0
 साधनाको	of worship	0	0	1	0
 साधनाको	spiritual practice	0	0	1	0
-किलोमीटर	kilometre	0	0	1	0
 किलोमीटर	kilometer	0	0	1	0
 किलोमीटर	river	0	0	1	0
 सजीव	simple	0	0	1	0
 सजीव	living	0	0	1	0
 बहाल	maintain	0	0	1	0
 बहाल	establish	0	0	1	0
-०७	07	0	0	1	0
 प्रभावमा	in influence	0	0	1	0
 प्रभावमा	in effect of	0	0	1	0
 प्रभावमा	influence	0	0	1	0
@@ -11457,7 +11025,6 @@ $	(american dollar) $	0	0	1	0
 विकीहरूको	fro wikipedia	0	0	1	0
 आफ्नी	bland	0	0	1	0
 आफ्नी	own	0	0	1	0
-परेका	which have been	0	0	1	0
 परेका	seen	0	0	1	0
 परेका	has been	0	0	1	0
 भगवतीको	bahgwati	0	0	1	0
@@ -11497,9 +11064,8 @@ $	(american dollar) $	0	0	1	0
 यौन	yaun	0	0	1	0
 यौन	adult	0	0	1	0
 यौन	sex	0	0	1	0
-मुलुकमा	in country	0	0	1	0
-मुलुकमा	in the country	0	0	1	0
 मुलुकमा	country	0	0	1	0
+मुलुकमा	in the country	0	0	1	0
 बिशाल	interview	0	0	1	0
 बिशाल	bhishal	0	0	1	0
 बिशाल	vast	0	0	1	0
@@ -11532,7 +11098,6 @@ $	(american dollar) $	0	0	1	0
 अरेबिया	imputation	0	0	1	0
 आएका	come	0	0	1	0
 आएका	aayka	0	0	1	0
-आएका	comer	0	0	1	0
 सफलतापूर्वक	successful	0	0	1	0
 सफलतापूर्वक	successfully	0	0	1	0
 सफलतापूर्वक	sucessfully	0	0	1	0
@@ -11541,7 +11106,6 @@ $	(american dollar) $	0	0	1	0
 मनाउने	celebrate	0	0	1	0
 एकीकरणमा	unification	0	0	1	0
 एकीकरणमा	integration	0	0	1	0
-सार्वभौमसत्ताको	of independence	0	0	1	0
 सार्वभौमसत्ताको	soverginity	0	0	1	0
 अधिकारहरु	right	0	0	1	0
 अधिकारहरु	rights	0	0	1	0
@@ -11559,7 +11123,6 @@ $	(american dollar) $	0	0	1	0
 क्ल्हेब्री	klahebri	0	0	1	0
 क्ल्हेब्री	clahabri	0	0	1	0
 अष्ट्रिया	austria	0	0	1	0
-अष्ट्रिया	yes	0	0	1	0
 जोगी	anchoret	0	0	1	0
 जोगी	sage	0	0	1	0
 जोगी	hermit	0	0	1	0
@@ -11586,16 +11149,13 @@ $	(american dollar) $	0	0	1	0
 महत्वको	importance	0	0	1	0
 महत्वको	of importance	0	0	1	0
 महत्वको	mahtvakho	0	0	1	0
-हिमालयका	himalaya	0	0	1	0
 हिमालयका	mountain	0	0	1	0
 हिमालयका	second eldest of brothers	0	0	1	0
 आ	be	0	0	1	0
 सवभन्दा	most	0	0	1	0
 सवभन्दा	to be withered	0	0	1	0
-सवभन्दा	of all	0	0	1	0
 ब्यक्ति	person	0	0	1	0
 जित्न	win	0	0	1	0
-जित्न	won	0	0	1	0
 ग्रहहरुको	gruhaharuko	0	0	1	0
 ग्रहहरुको	of planets	0	0	1	0
 ग्रहहरुको	planets	0	0	1	0
@@ -11606,9 +11166,9 @@ $	(american dollar) $	0	0	1	0
 पारे	fell	0	0	1	0
 कुलेखानी	kulekhani	0	0	1	0
 कुलेखानी	kulekhani (a village in nepal)	0	0	1	0
-बनाउन	making	0	0	1	0
-बनाउन	make	0	0	1	0
-बनाउन	to make	0	0	1	0
+गर्ने	doing	0	0	1	0
+गर्ने	do	0	0	1	0
+गर्ने	to do	0	0	1	0
 सन्यासी	retiree	0	0	1	0
 सन्यासी	sanyasi	0	0	1	0
 गर्नु	do	0	0	1	0
@@ -11624,12 +11184,10 @@ $	(american dollar) $	0	0	1	0
 श्रेणीहिन्दीबाट	the first bus in the morning	0	0	1	0
 श्रेणीहिन्दीबाट	series by hindi	0	0	1	0
 शिखरहरु	mountains	0	0	1	0
-शिखरहरु	peaks	0	0	1	0
 शिखरहरु	mountain peak	0	0	1	0
 विमानस्थल	airport	0	0	1	0
-आवधिक	periodical	0	0	1	0
-आवधिक	iron	0	0	1	0
 आवधिक	update	0	0	1	0
+आवधिक	iron	0	0	1	0
 राखेर	ddl interception	0	0	1	0
 रेडियो	radio	0	0	1	0
 आदिले	begining	0	0	1	0
@@ -11650,19 +11208,17 @@ $	(american dollar) $	0	0	1	0
 ४८	47	0	0	1	0
 ४८	48	0	0	1	0
 निकालेर	brought out	0	0	1	0
-निकालेर	rally out	0	0	1	0
 निकालेर	took out	0	0	1	0
+निकालेर	rally out	0	0	1	0
 हिमालयको	himalaya	0	0	1	0
 हिमालयको	fire sacrifice	0	0	1	0
 हिमालयको	of himalaya	0	0	1	0
 अवसरहरू	oppurtunity	0	0	1	0
-अवसरहरू	opportunities	0	0	1	0
 अवसरहरू	avsarharu	0	0	1	0
 महत्वका	importance	0	0	1	0
 महत्वका	of importance	0	0	1	0
 समाजवाद	socialism	0	0	1	0
 समाजवाद	hunger	0	0	1	0
-रहस्यमय	mysterious	0	0	1	0
 रहस्यमय	suspense	0	0	1	0
 रहस्यमय	pea	0	0	1	0
 १०मा	10th	0	0	1	0
@@ -11713,7 +11269,6 @@ $	(american dollar) $	0	0	1	0
 शक्तिकी	shakthikee	0	0	1	0
 शक्तिकी	of power	0	0	1	0
 शक्तिकी	lack of peace	0	0	1	0
-तिवारी	tiwary	0	0	1	0
 तिवारी	tiwari	0	0	1	0
 औषत	average	0	0	1	0
 सजिएर	decorated	0	0	1	0
@@ -11721,7 +11276,6 @@ $	(american dollar) $	0	0	1	0
 सजिएर	decorate	0	0	1	0
 पुनर्एकिकरण	reunification	0	0	1	0
 पुनर्एकिकरण	re-unification	0	0	1	0
-खेलकूद	khelkudh	0	0	1	0
 खेलकूद	sport	0	0	1	0
 खेलकूद	sports	0	0	1	0
 योजनाबद्ध	projectwise	0	0	1	0
@@ -11733,15 +11287,14 @@ $	(american dollar) $	0	0	1	0
 जनयुद्ध	people's war	0	0	1	0
 फर्किन्	returned	0	0	1	0
 २००५को	of 2005	0	0	1	0
-२००५को	2005	0	0	1	0
 श्रेणीप्रमुख	division head	0	0	1	0
-श्रेणीप्रमुख	section: main	0	0	1	0
 श्रेणीप्रमुख	class: chief	0	0	1	0
+श्रेणीप्रमुख	section: main	0	0	1	0
 ९९	99	0	0	1	0
 ९८	98	0	0	1	0
 ९८	ninty eight	0	0	1	0
-९७	bed	0	0	1	0
 ९७	97	0	0	1	0
+९७	bed	0	0	1	0
 ९६	96	0	0	1	0
 ९५	15	0	0	1	0
 ९५	95	0	0	1	0
@@ -11776,7 +11329,6 @@ $	(american dollar) $	0	0	1	0
 चिनिन्थ्यो	known	0	0	1	0
 चिनिन्थ्यो	recognize	0	0	1	0
 चिनिन्थ्यो	to be known	0	0	1	0
-भएकोमा	had	0	0	1	0
 भएकोमा	having	0	0	1	0
 २०६८	2068	0	0	1	0
 २०६७	2067	0	0	1	0
@@ -11789,7 +11341,6 @@ $	(american dollar) $	0	0	1	0
 बालकृष्ण	balkrishna (name of a person)	0	0	1	0
 बालकृष्ण	bal krishna	0	0	1	0
 बालकृष्ण	childhood	0	0	1	0
-सहयोगी	supporting	0	0	1	0
 सहयोगी	guide	0	0	1	0
 सहयोगी	helper	0	0	1	0
 हाइटमा	at height	0	0	1	0
@@ -11810,9 +11361,8 @@ $	(american dollar) $	0	0	1	0
 दिलाउन	dhilaun	0	0	1	0
 र	and	0	0	1	0
 र	ra	0	0	1	0
-अवधिभर	till duration	0	0	1	0
-अवधिभर	interception	0	0	1	0
 अवधिभर	in the period	0	0	1	0
+अवधिभर	interception	0	0	1	0
 नामबाट	from name	0	0	1	0
 नामबाट	naambaat	0	0	1	0
 नामबाट	in the name	0	0	1	0
@@ -11824,7 +11374,6 @@ $	(american dollar) $	0	0	1	0
 शुल्क	fee	0	0	1	0
 १९५८	later in the day	0	0	1	0
 १९५८	1948	0	0	1	0
-१९५८	1958	0	0	1	0
 १९५७	1957	0	0	1	0
 १९५६	to entangle	0	0	1	0
 १९५६	1956	0	0	1	0
@@ -11838,7 +11387,6 @@ $	(american dollar) $	0	0	1	0
 प्रचुर	enough	0	0	1	0
 प्रचुर	unstinting	0	0	1	0
 प्रचुर	plenty	0	0	1	0
-त्यही	ready	0	0	1	0
 त्यही	same	0	0	1	0
 त्यही	that	0	0	1	0
 क्षेत्रअन्तर्गत	kshetraantargath	0	0	1	0
@@ -11858,7 +11406,6 @@ $	(american dollar) $	0	0	1	0
 खर्चको	expenditure	0	0	1	0
 जीवनको	jeevanko	0	0	1	0
 जीवनको	life's	0	0	1	0
-जीवनको	of life	0	0	1	0
 लण्डनको	london	0	0	1	0
 लण्डनको	of london	0	0	1	0
 मलयालम	malayalam	0	0	1	0
@@ -11885,11 +11432,12 @@ $	(american dollar) $	0	0	1	0
 दुवै	both	0	0	1	0
 दुवै	two	0	0	1	0
 दुवै	twice	0	0	1	0
-७	7	0	0	1	0
+अपभ्रंस	mistranslation	0	0	1	0
+अपभ्रंस	corrupted	0	0	1	0
+अपभ्रंस	upbhrans	0	0	1	0
 १९२४मा	in 1924	0	0	1	0
-वयस्क	vayaska	0	0	1	0
-वयस्क	adult	0	0	1	0
 वयस्क	vayask	0	0	1	0
+वयस्क	vayaska	0	0	1	0
 बहादुर	bahadur	0	0	1	0
 बहादुर	brave	0	0	1	0
 चित्रात्मक	chithrathmak	0	0	1	0
@@ -11913,7 +11461,6 @@ $	(american dollar) $	0	0	1	0
 सोही	sofi	0	0	1	0
 सोही	same	0	0	1	0
 मामलहरुमा	ocassions	0	0	1	0
-मामलहरुमा	in cases	0	0	1	0
 मामलहरुमा	mamalharuma	0	0	1	0
 मनाईने	manayine	0	0	1	0
 मनाईने	celebrated	0	0	1	0
@@ -11931,14 +11478,12 @@ $	(american dollar) $	0	0	1	0
 मुनाल	munal	0	0	1	0
 विवादमा	website	0	0	1	0
 विवादमा	in controversy	0	0	1	0
-विवादमा	controversy	0	0	1	0
 मुना	muna (character of a famous poem)	0	0	1	0
 मुना	muna	0	0	1	0
 मुना	muna -name	0	0	1	0
 समन्वित	coordinate	0	0	1	0
 समन्वित	integrated	0	0	1	0
 प्रवाहको	of flow	0	0	1	0
-प्रवाहको	of effect	0	0	1	0
 प्रवाहको	flow	0	0	1	0
 कुषाण	kushan	0	0	1	0
 कुषाण	remote	0	0	1	0
@@ -11957,7 +11502,6 @@ $	(american dollar) $	0	0	1	0
 तिष्टा	a famous nepali poet	0	0	1	0
 तिष्टा	tishtha - river name	0	0	1	0
 पार्वती	decided	0	0	1	0
-पार्वती	parvati	0	0	1	0
 पार्वती	parwati	0	0	1	0
 एकआपसमा	with each other	0	0	1	0
 एकआपसमा	one-another	0	0	1	0
@@ -11985,7 +11529,6 @@ $	(american dollar) $	0	0	1	0
 आउने	come	0	0	1	0
 आउने	coming	0	0	1	0
 पाल्ने	tame	0	0	1	0
-पाल्ने	husbandry	0	0	1	0
 पाल्ने	domesticate	0	0	1	0
 प्राडा	pain	0	0	1	0
 आउनु	come	0	0	1	0
@@ -12022,7 +11565,6 @@ $	(american dollar) $	0	0	1	0
 महत्व	importance	0	0	1	0
 मकवानपुर	makvanpur	0	0	1	0
 मकवानपुर	makwanpur (a place in nepal)	0	0	1	0
-मकवानपुर	makawanpur	0	0	1	0
 लिएका	take	0	0	1	0
 जलकन्यादेवी	jalkny goddess	0	0	1	0
 जलकन्यादेवी	jalkanya devi (goddess)	0	0	1	0
@@ -12035,7 +11577,6 @@ $	(american dollar) $	0	0	1	0
 उदार	generous	0	0	1	0
 उदार	liberal	0	0	1	0
 उदार	kind hearted	0	0	1	0
-राख्ने	rakne	0	0	1	0
 राख्ने	keep	0	0	1	0
 साङपाङ	sangpang	0	0	1	0
 साङपाङ	sangpang -cast	0	0	1	0
@@ -12045,8 +11586,8 @@ $	(american dollar) $	0	0	1	0
 उपाध्याय	upadhayaya (a nepali surname)	0	0	1	0
 उपाध्याय	upadhaya	0	0	1	0
 श्रेणीपर्यटन	category tourism	0	0	1	0
-श्रेणीपर्यटन	series tourism	0	0	1	0
 श्रेणीपर्यटन	sheripraytan	0	0	1	0
+श्रेणीपर्यटन	series tourism	0	0	1	0
 प्रारम्भ	start	0	0	1	0
 पशुबाघ	animal tiger	0	0	1	0
 पशुबाघ	tiger animal	0	0	1	0
@@ -12072,9 +11613,7 @@ $	(american dollar) $	0	0	1	0
 अहम्	self	0	0	1	0
 अहम्	ego	0	0	1	0
 बोलिन्छयस्तै	spotted	0	0	1	0
-बोलिन्छयस्तै	speaking like this	0	0	1	0
 बोलिन्छयस्तै	bholinchayasthai	0	0	1	0
-अनुपातबाट	with ratio	0	0	1	0
 अनुपातबाट	from ratio	0	0	1	0
 सतहबाट	from level	0	0	1	0
 सतहबाट	surface	0	0	1	0
@@ -12113,7 +11652,6 @@ $	(american dollar) $	0	0	1	0
 मादी	madhi	0	0	1	0
 मादी	madi	0	0	1	0
 विद्वान्	intelligent	0	0	1	0
-विद्वान्	wise	0	0	1	0
 विद्वान्	scholar	0	0	1	0
 सारा	all	0	0	1	0
 जॉर्ज	gorge	0	0	1	0
@@ -12161,7 +11699,6 @@ $	(american dollar) $	0	0	1	0
 विभेद	diffrent	0	0	1	0
 विभेद	differentiate	0	0	1	0
 विभेद	controvercy	0	0	1	0
-स्थितिमा	in the situation	0	0	1	0
 स्थितिमा	in position	0	0	1	0
 स्थितिमा	condition	0	0	1	0
 ८३१०	8310	0	0	1	0
@@ -12175,7 +11712,6 @@ $	(american dollar) $	0	0	1	0
 जाँदा	went	0	0	1	0
 जाँदा	much	0	0	1	0
 श्रेणीगायक	sherigayak	0	0	1	0
-श्रेणीगायक	class:singer	0	0	1	0
 श्रेणीगायक	category singer	0	0	1	0
 सूर्‍योदय	sun rise	0	0	1	0
 सूर्‍योदय	sunrise	0	0	1	0
@@ -12255,7 +11791,6 @@ $	(american dollar) $	0	0	1	0
 लक्षण	symptom	0	0	1	0
 लक्षण	sign	0	0	1	0
 गरिदै	being	0	0	1	0
-गरिदै	doing	0	0	1	0
 गरिदै	are being	0	0	1	0
 बस्छन्	stay	0	0	1	0
 बस्छन्	kitchen	0	0	1	0
@@ -12285,7 +11820,6 @@ $	(american dollar) $	0	0	1	0
 १०००	1000	0	0	1	0
 अमलाचौर	amlachaur (name of a place)	0	0	1	0
 अमलाचौर	amalachaur	0	0	1	0
-हिमालदेखि	from the mountain's	0	0	1	0
 हिमालदेखि	from himalaya	0	0	1	0
 हिमालदेखि	large bamboo	0	0	1	0
 ८२२	822	0	0	1	0
@@ -12310,7 +11844,6 @@ $	(american dollar) $	0	0	1	0
 प्रयुक्त	use	0	0	1	0
 प्रयुक्त	prohibition	0	0	1	0
 सदरमुकाममा	sadarmukam	0	0	1	0
-सदरमुकाममा	in headquater	0	0	1	0
 सदरमुकाममा	capital	0	0	1	0
 निर्देशन	direction	0	0	1	0
 निर्देशन	direct	0	0	1	0
@@ -12320,11 +11853,9 @@ $	(american dollar) $	0	0	1	0
 स्थापनाको	establish	0	0	1	0
 नामहरु	names	0	0	1	0
 नामहरु	naamharu	0	0	1	0
-पाई	got	0	0	1	0
 पाई	get	0	0	1	0
 पाए	got	0	0	1	0
 पाए	get	0	0	1	0
-बिस्तार	slowly	0	0	1	0
 बिस्तार	expand	0	0	1	0
 बिस्तार	expansion	0	0	1	0
 संबद्ध	related	0	0	1	0
@@ -12370,7 +11901,6 @@ $	(american dollar) $	0	0	1	0
 सूत्र	source	0	0	1	0
 सूत्र	hilly region	0	0	1	0
 सूत्र	formulae	0	0	1	0
-निशाना	nishana	0	0	1	0
 निशाना	mark	0	0	1	0
 घोडा	ghoda	0	0	1	0
 घोडा	founded	0	0	1	0
@@ -12400,7 +11930,6 @@ $	(american dollar) $	0	0	1	0
 दृश्यावलोकन	dhrushyavalokhan	0	0	1	0
 दृश्यावलोकन	view	0	0	1	0
 फाउण्डेसनका	foundation	0	0	1	0
-फाउण्डेसनका	foundation ka	0	0	1	0
 आए	aye	0	0	1	0
 आए	came	0	0	1	0
 आर	r	0	0	1	0
@@ -12430,7 +11959,6 @@ $	(american dollar) $	0	0	1	0
 जेल	jail	0	0	1	0
 जेल	bar	0	0	1	0
 प्राचीन	universe	0	0	1	0
-प्राचीन	ancient	0	0	1	0
 प्राचीन	old	0	0	1	0
 गौतम	gautam (name of aperson)	0	0	1	0
 गौतम	gautam	0	0	1	0
@@ -12461,8 +11989,8 @@ $	(american dollar) $	0	0	1	0
 पालन	keep	0	0	1	0
 बिउ	seed	0	0	1	0
 उपकरणहरू	equipment	0	0	1	0
-उपकरणहरू	instruments	0	0	1	0
 उपकरणहरू	equipments	0	0	1	0
+उपकरणहरू	instruments	0	0	1	0
 उपकरणहरु	eclectic	0	0	1	0
 उपकरणहरु	equipment	0	0	1	0
 उपकरणहरु	machineries	0	0	1	0
@@ -12475,8 +12003,6 @@ $	(american dollar) $	0	0	1	0
 बजारबाट	market	0	0	1	0
 भदौ	defective	0	0	1	0
 भदौ	badow	0	0	1	0
-भदौ	month	0	0	1	0
-उदायो	rose	0	0	1	0
 उदायो	rise	0	0	1	0
 अनुयायीहरू	flat on one's back	0	0	1	0
 अनुयायीहरू	followers	0	0	1	0
@@ -12509,7 +12035,6 @@ $	(american dollar) $	0	0	1	0
 राजाहरु	kings	0	0	1	0
 राजाहरु	rajaharu	0	0	1	0
 फागुनमा	in falgun	0	0	1	0
-फागुनमा	phagunama	0	0	1	0
 फागुनमा	falguna (nepali calender month)	0	0	1	0
 चर्चामा	talks	0	0	1	0
 चर्चामा	discussion	0	0	1	0
@@ -12543,13 +12068,11 @@ $	(american dollar) $	0	0	1	0
 महानिरीक्षक	inspector general of police	0	0	1	0
 प्रतिष्ठा	respect	0	0	1	0
 प्रतिष्ठा	pratishta	0	0	1	0
-प्रतिष्ठा	fame	0	0	1	0
 पत्रकार	journalist	0	0	1	0
 सिद्धदेवी	siddhadevi	0	0	1	0
 सिद्धदेवी	war	0	0	1	0
 सिद्धदेवी	sidhadevi	0	0	1	0
 सम्भावनाको	oppurtunity	0	0	1	0
-सम्भावनाको	expect	0	0	1	0
 सम्भावनाको	possibility of	0	0	1	0
 करिव	about/nearly	0	0	1	0
 करिव	about	0	0	1	0
@@ -12622,13 +12145,11 @@ $	(american dollar) $	0	0	1	0
 तयार	revolution	0	0	1	0
 बन्यो	went	0	0	1	0
 बन्यो	made	0	0	1	0
-बन्यो	came into being	0	0	1	0
 १९३१	famous	0	0	1	0
 १९३१	1939	0	0	1	0
 १९३१	1931	0	0	1	0
 १९३५	1735	0	0	1	0
 १९३५	1935	0	0	1	0
-गएका	gayeka	0	0	1	0
 गएका	go	0	0	1	0
 गएका	going towards	0	0	1	0
 १९३७	1937	0	0	1	0
@@ -12659,8 +12180,6 @@ $	(american dollar) $	0	0	1	0
 बेलारुस	belgium	0	0	1	0
 बेलारुस	belarus	0	0	1	0
 बेलारुस	thumb	0	0	1	0
-प्रमाणको	of proof	0	0	1	0
-प्रमाणको	pramanko	0	0	1	0
 प्रमाणको	proof	0	0	1	0
 थर	cast	0	0	1	0
 थर	surname	0	0	1	0
@@ -12668,8 +12187,9 @@ $	(american dollar) $	0	0	1	0
 नदीमा	in river	0	0	1	0
 नदीमा	river	0	0	1	0
 जान्छु	go	0	0	1	0
-प्रभावले	influence	0	0	1	0
-प्रभावले	by effect	0	0	1	0
+देशहरूको	of countries	0	0	1	0
+देशहरूको	deshharuko	0	0	1	0
+देशहरूको	countries	0	0	1	0
 स्थायी	permanent	0	0	1	0
 बसेर	baser	0	0	1	0
 बसेर	remain	0	0	1	0
@@ -12679,13 +12199,10 @@ $	(american dollar) $	0	0	1	0
 अभावमा	scarcity	0	0	1	0
 शाह	shah	0	0	1	0
 नदीदेखि	from river	0	0	1	0
-नदीदेखि	nadidekhi	0	0	1	0
 धवलागिरी	dhoulagiri	0	0	1	0
 धवलागिरी	jute	0	0	1	0
 शासनसंगै	with reign	0	0	1	0
-शासनसंगै	with regime	0	0	1	0
 शासनसंगै	with governance	0	0	1	0
-सेल्सियससम्म	celcius	0	0	1	0
 सेल्सियससम्म	celsiussamm	0	0	1	0
 मोबाईल	mobile	0	0	1	0
 श्रेणीशाहवंश	class: shah	0	0	1	0
@@ -12703,7 +12220,6 @@ $	(american dollar) $	0	0	1	0
 विद्यार्थीहरू	vidyarthiharu	0	0	1	0
 रुपया	rupees	0	0	1	0
 रुपया	rupee	0	0	1	0
-गरिने	do	0	0	1	0
 गरिने	to lift	0	0	1	0
 गरिने	to do	0	0	1	0
 ज्ञानकोश	knowledge base	0	0	1	0
@@ -12761,14 +12277,11 @@ $	(american dollar) $	0	0	1	0
 मोगुप	mogup (part name of a community leader)	0	0	1	0
 टार	valley	0	0	1	0
 टार	tar	0	0	1	0
-सिलगढी	city	0	0	1	0
-सिलगढी	siliguri (city in india)	0	0	1	0
 अवस्थामा	in state	0	0	1	0
 अवस्थामा	now	0	0	1	0
 अवस्थामा	in this condition	0	0	1	0
 मुलूकको	of country	0	0	1	0
 मुलूकको	command	0	0	1	0
-सन्तुलित	balanced	0	0	1	0
 सन्तुलित	santulit	0	0	1	0
 सन्तुलित	santhulitha	0	0	1	0
 मन्दिरहरु	mandirharu	0	0	1	0
@@ -12788,7 +12301,6 @@ $	(american dollar) $	0	0	1	0
 कान्छा	kaancha	0	0	1	0
 पाल्पा	palpa (district in nepal)	0	0	1	0
 पाल्पा	palpa	0	0	1	0
-आफूभन्दा	aapubhandha	0	0	1	0
 आफूभन्दा	myself	0	0	1	0
 आफूभन्दा	offubanda	0	0	1	0
 कुराको	things	0	0	1	0
@@ -12801,7 +12313,6 @@ $	(american dollar) $	0	0	1	0
 सिधान्त	principle	0	0	1	0
 सिधान्त	theory	0	0	1	0
 स्वदेशी	national	0	0	1	0
-स्वदेशी	swadeshi	0	0	1	0
 स्वदेशी	indigenous	0	0	1	0
 जलश्रोतको	to quarrel	0	0	1	0
 जलश्रोतको	of water resources	0	0	1	0
@@ -12833,9 +12344,6 @@ $	(american dollar) $	0	0	1	0
 बुढी	old women	0	0	1	0
 बुढी	old	0	0	1	0
 बुढी	carry me; slowly	0	0	1	0
-पुष्प	puspa	0	0	1	0
-पुष्प	pushpa	0	0	1	0
-पुष्प	flower	0	0	1	0
 बुढो	olds	0	0	1	0
 बुढो	old	0	0	1	0
 वेदांग	vedang	0	0	1	0
@@ -12843,7 +12351,7 @@ $	(american dollar) $	0	0	1	0
 युकेश	yukesh (name of a person)	0	0	1	0
 युकेश	yukesh	0	0	1	0
 युकेश	eukesh	0	0	1	0
-विश्वविद्यालय	university	0	0	1	0
+हदसम्म	upto extent	0	0	1	0
 श्लेसविगहोल्सटीन	schleswig-holstein	0	0	1	0
 श्लेसविगहोल्सटीन	shleshwig holestein	0	0	1	0
 श्लेसविगहोल्सटीन	saleshvigholstin	0	0	1	0
@@ -12876,7 +12384,6 @@ $	(american dollar) $	0	0	1	0
 अहीले	now	0	0	1	0
 विशिष्ट	specific	0	0	1	0
 विशिष्ट	special	0	0	1	0
-गुणहरू	properties	0	0	1	0
 गुणहरू	qualities	0	0	1	0
 गुणहरू	gunharu	0	0	1	0
 ताप्लेजुङ्	tablajung	0	0	1	0
@@ -12886,17 +12393,16 @@ $	(american dollar) $	0	0	1	0
 गुणहरु	granddaughter	0	0	1	0
 गुणहरु	qualities	0	0	1	0
 बिशेष	to cause to taste	0	0	1	0
-बिशेष	particularly	0	0	1	0
 बिशेष	special	0	0	1	0
-अवस्थाको	transportation	0	0	1	0
-अवस्थाको	of the condition	0	0	1	0
-अवस्थाको	condition	0	0	1	0
+तार	wire	0	0	1	0
+तार	thaar	0	0	1	0
+तार	cable	0	0	1	0
 ताल	lake	0	0	1	0
 तथ	and	0	0	1	0
 तथ	tath	0	0	1	0
 श्रेणीइलाम	category : ilam - place name	0	0	1	0
-श्रेणीइलाम	series ilam (place in nepal)	0	0	1	0
 श्रेणीइलाम	class:ilam	0	0	1	0
+श्रेणीइलाम	series ilam (place in nepal)	0	0	1	0
 ति	that	0	0	1	0
 ति	those	0	0	1	0
 ति	ti	0	0	1	0
@@ -12915,7 +12421,6 @@ $	(american dollar) $	0	0	1	0
 कालदेखि	kaldeki	0	0	1	0
 कालदेखि	some other time	0	0	1	0
 कम्प्युटरको	computer	0	0	1	0
-पाण्डे	pandey (surname)	0	0	1	0
 पाण्डे	pandey	0	0	1	0
 मालिका	malika	0	0	1	0
 मालिका	maalika	0	0	1	0
@@ -12948,7 +12453,6 @@ $	(american dollar) $	0	0	1	0
 न्यायको	presented	0	0	1	0
 ८०५८०४४६५१	8058044651	0	0	1	0
 आँखाको	eye's	0	0	1	0
-आँखाको	eyes	0	0	1	0
 आँखाको	eye	0	0	1	0
 उपन्यास	upanyas	0	0	1	0
 उपन्यास	novel	0	0	1	0
@@ -13039,7 +12543,6 @@ $	(american dollar) $	0	0	1	0
 वरण	waran	0	0	1	0
 वरण	varan (part name of nepali president)	0	0	1	0
 वरण	baran	0	0	1	0
-पनौती	panauti (a place in nepal)	0	0	1	0
 पनौती	panauti	0	0	1	0
 सपना	dream	0	0	1	0
 सपना	sapna	0	0	1	0
@@ -13075,7 +12578,6 @@ $	(american dollar) $	0	0	1	0
 १५००	1400	0	0	1	0
 पदको	position	0	0	1	0
 पदको	post	0	0	1	0
-तत्कालै	immediately	0	0	1	0
 तत्कालै	immediate	0	0	1	0
 तत्कालै	quickly	0	0	1	0
 महाराष्ट्रमा	maharastra	0	0	1	0
@@ -13127,7 +12629,6 @@ $	(american dollar) $	0	0	1	0
 आयोग	aayog	0	0	1	0
 आयोग	comission	0	0	1	0
 इकाईहरुलाई	units	0	0	1	0
-इकाईहरुलाई	to units	0	0	1	0
 इकाईहरुलाई	to the units	0	0	1	0
 दैवि	relating to god	0	0	1	0
 दैवि	daivi	0	0	1	0
@@ -13140,7 +12641,6 @@ $	(american dollar) $	0	0	1	0
 केन्द्रिय	central	0	0	1	0
 पार्न	make	0	0	1	0
 पार्न	to make	0	0	1	0
-पार्न	porn	0	0	1	0
 भुगोल	geography	0	0	1	0
 केन्द्रित	centralised	0	0	1	0
 केन्द्रित	kendrit	0	0	1	0
@@ -13201,7 +12701,6 @@ $	(american dollar) $	0	0	1	0
 इलाकामा	wards	0	0	1	0
 इलाकामा	area	0	0	1	0
 वाणिज्य	commerce	0	0	1	0
-वाणिज्य	finance	0	0	1	0
 वाणिज्य	trade	0	0	1	0
 नयाँबजार	nayabazar	0	0	1	0
 नयाँबजार	new market	0	0	1	0
@@ -13284,9 +12783,9 @@ $	(american dollar) $	0	0	1	0
 उष्ण	temperate	0	0	1	0
 उष्ण	length of nepal is 241 sq kms.	0	0	1	0
 उष्ण	hot	0	0	1	0
-वर्णाक्षरपको	alphabet	0	0	1	0
-वर्णाक्षरपको	p alphabet	0	0	1	0
-वर्णाक्षरपको	of alphabet pa	0	0	1	0
+बनाइन्छ	create	0	0	1	0
+बनाइन्छ	made	0	0	1	0
+बनाइन्छ	make	0	0	1	0
 अक्षरहरू	text	0	0	1	0
 अक्षरहरू	letters	0	0	1	0
 स्भिन	stibna	0	0	1	0
@@ -13306,7 +12805,6 @@ $	(american dollar) $	0	0	1	0
 देबि	goddess	0	0	1	0
 देबि	devi	0	0	1	0
 मातृभाषामा	matrubhashama	0	0	1	0
-मातृभाषामा	mother language	0	0	1	0
 मातृभाषामा	in mother-tongue	0	0	1	0
 विघटित	destroy	0	0	1	0
 विघटित	dissolved	0	0	1	0
@@ -13381,7 +12879,6 @@ $	(american dollar) $	0	0	1	0
 सम्प्रदाय	community	0	0	1	0
 सम्प्रदाय	communinty	0	0	1	0
 सल्तनतको	of dynasty	0	0	1	0
-सल्तनतको	of the sultanate	0	0	1	0
 सल्तनतको	to swing	0	0	1	0
 अनौपचारिक	unofficial	0	0	1	0
 अनौपचारिक	informal	0	0	1	0
@@ -13391,10 +12888,8 @@ $	(american dollar) $	0	0	1	0
 आलोचना	criticize	0	0	1	0
 रोगहरु	decease	0	0	1	0
 रोगहरु	diseases	0	0	1	0
-हिमालय	himalaya	0	0	1	0
 हिमालय	himalays	0	0	1	0
 हिमालय	himalaya - mountain name	0	0	1	0
-मन्दिरमा	mandirama	0	0	1	0
 मन्दिरमा	mandhirma	0	0	1	0
 मन्दिरमा	temple	0	0	1	0
 सिङ्	singh (name of a wood)	0	0	1	0
@@ -13492,7 +12987,6 @@ $	(american dollar) $	0	0	1	0
 जाँच	test	0	0	1	0
 जाँच	twelve	0	0	1	0
 जाँच	jaanch	0	0	1	0
-हुँदैन	will not happen	0	0	1	0
 हुँदैन	hudain	0	0	1	0
 आर्थिक	economic	0	0	1	0
 आर्थिक	financial	0	0	1	0
@@ -13539,7 +13033,7 @@ $	(american dollar) $	0	0	1	0
 स्रङचङ	sang chang (tibetian king)	0	0	1	0
 जन्मदिन	birthday	0	0	1	0
 जेम्स	james	0	0	1	0
-थिया	was	0	0	1	0
+द्वितीय	second	0	0	1	0
 वडाहरुमा	large	0	0	1	0
 वडाहरुमा	village development comittee	0	0	1	0
 वडाहरुमा	badahruma	0	0	1	0
@@ -13563,7 +13057,6 @@ $	(american dollar) $	0	0	1	0
 मेडिकल	medical	0	0	1	0
 ६१८	618	0	0	1	0
 नोट	note	0	0	1	0
-गहुँ	wheat	0	0	1	0
 चौबीसे	chaubise (24)	0	0	1	0
 चौबीसे	twentyfourth	0	0	1	0
 गर्दागर्दै	while doing	0	0	1	0
@@ -13596,9 +13089,7 @@ $	(american dollar) $	0	0	1	0
 पाएको	get	0	0	1	0
 पाएको	getting	0	0	1	0
 सिफारिसमा	sifarisma	0	0	1	0
-सिफारिसमा	recommentdation	0	0	1	0
 सिफारिसमा	reference	0	0	1	0
-रहेछ	is	0	0	1	0
 बढुवामा	promotion	0	0	1	0
 बढुवामा	badhuwa (place)	0	0	1	0
 बढुवामा	baduvama	0	0	1	0
@@ -13611,16 +13102,11 @@ $	(american dollar) $	0	0	1	0
 आँखाहरु	goat	0	0	1	0
 आँखाहरु	from eye	0	0	1	0
 सडकमा	road	0	0	1	0
-कोणमा	at angle	0	0	1	0
 कोणमा	angle	0	0	1	0
-प्रभावी	doing work	0	0	1	0
 प्रभावी	प्रभावी	0	0	1	0
-प्रभावी	effective	0	0	1	0
-संघर्षको	of struggle	0	0	1	0
 संघर्षको	to make	0	0	1	0
 संघर्षको	struggle	0	0	1	0
 सन्त	sant	0	0	1	0
-सन्त	santa	0	0	1	0
 सन्त	saint	0	0	1	0
 असुरमाथि	over evil	0	0	1	0
 असुरमाथि	at the demon	0	0	1	0
@@ -13634,7 +13120,6 @@ $	(american dollar) $	0	0	1	0
 लाली	red	0	0	1	0
 वाहक	aerial	0	0	1	0
 मुटुको	pot	0	0	1	0
-मुटुको	of heart	0	0	1	0
 मुटुको	byheart	0	0	1	0
 वाहन	vehicles	0	0	1	0
 वाहन	vehicle	0	0	1	0
@@ -13643,7 +13128,6 @@ $	(american dollar) $	0	0	1	0
 पाचमी	panchami	0	0	1	0
 गौर	gaur ( a place in nepal)	0	0	1	0
 गौर	gaur	0	0	1	0
-भोटबर्मेली	bot-burmeli	0	0	1	0
 १९७७	1977	0	0	1	0
 १९७६	1976	0	0	1	0
 १९७९	1979	0	0	1	0
@@ -13673,9 +13157,7 @@ $	(american dollar) $	0	0	1	0
 रह्यो	remain	0	0	1	0
 रह्यो	was	0	0	1	0
 रह्यो	was remain	0	0	1	0
-अपभ्रंस	mistranslation	0	0	1	0
-अपभ्रंस	corrupted	0	0	1	0
-अपभ्रंस	upbhrans	0	0	1	0
+७	7	0	0	1	0
 विकराल	horrible	0	0	1	0
 विकराल	wolf	0	0	1	0
 विकराल	existing	0	0	1	0
@@ -13715,7 +13197,6 @@ $	(american dollar) $	0	0	1	0
 संगठनों	organisation	0	0	1	0
 संगठनों	organisations	0	0	1	0
 संगठनों	rape	0	0	1	0
-बस्ती	population	0	0	1	0
 बस्तु	thing	0	0	1	0
 बस्तु	substance	0	0	1	0
 वीरेन्द्रनगर	birendranagar	0	0	1	0
@@ -13726,7 +13207,6 @@ $	(american dollar) $	0	0	1	0
 शक	dought	0	0	1	0
 शक	sak -name	0	0	1	0
 शक	suspect	0	0	1	0
-भयेको	bhayeko	0	0	1	0
 भयेको	having	0	0	1	0
 भयेको	existing	0	0	1	0
 आवश्यक	poland	0	0	1	0
@@ -13754,7 +13234,6 @@ $	(american dollar) $	0	0	1	0
 सहयोग	help	0	0	1	0
 एकधाम	one place	0	0	1	0
 एकधाम	one holy place	0	0	1	0
-हरिया	hariya	0	0	1	0
 हरिया	green	0	0	1	0
 बिदेशी	international	0	0	1	0
 बिदेशी	foreign	0	0	1	0
@@ -13777,7 +13256,6 @@ $	(american dollar) $	0	0	1	0
 ७१३४	7134	0	0	1	0
 ७१३४	seven thousand one hundred and thirty four	0	0	1	0
 आइतवार	sunday	0	0	1	0
-समूहलाई	to the group	0	0	1	0
 समूहलाई	group	0	0	1	0
 समूहलाई	plasmodium	0	0	1	0
 अफगानिस्थानको	clear	0	0	1	0
@@ -13786,7 +13264,6 @@ $	(american dollar) $	0	0	1	0
 जैदी	jaidi	0	0	1	0
 गराउन	cause to do	0	0	1	0
 गराउन	tell somebody to conduct (enquiry)	0	0	1	0
-गराउन	make	0	0	1	0
 क्षीं	gnim	0	0	1	0
 क्षीं	shri	0	0	1	0
 शास्त्रमा	invention	0	0	1	0
@@ -13822,7 +13299,6 @@ $	(american dollar) $	0	0	1	0
 नेपालभाषामा	in newari language	0	0	1	0
 नेपालभाषामा	nepal language	0	0	1	0
 नेपालभाषामा	in nepal bhasa	0	0	1	0
-नजोडिएतापनि	though not hoined	0	0	1	0
 नजोडिएतापनि	though not adjacent	0	0	1	0
 चलचित्रहरू	movie	0	0	1	0
 चलचित्रहरू	flim or movie	0	0	1	0
@@ -13834,7 +13310,6 @@ $	(american dollar) $	0	0	1	0
 पूँजी	punji	0	0	1	0
 पूँजी	capital	0	0	1	0
 मलेरियाको	maleria	0	0	1	0
-मलेरियाको	malariyako	0	0	1	0
 मलेरियाको	malaria	0	0	1	0
 विभाजित	division	0	0	1	0
 विभाजित	vibhajit	0	0	1	0
@@ -13843,9 +13318,9 @@ $	(american dollar) $	0	0	1	0
 नाउँ	nine	0	0	1	0
 नाउँ	barber	0	0	1	0
 नाउँ	name	0	0	1	0
-साधनाले	holy interest	0	0	1	0
-साधनाले	sadhnale	0	0	1	0
 साधनाले	to practice	0	0	1	0
+साधनाले	sadhnale	0	0	1	0
+साधनाले	holy interest	0	0	1	0
 देउवा	deuba (surname)	0	0	1	0
 देउवा	deuwa	0	0	1	0
 देउवा	deuba	0	0	1	0
@@ -13876,7 +13351,6 @@ $	(american dollar) $	0	0	1	0
 जरा	little	0	0	1	0
 जरा	roots	0	0	1	0
 ढुकुर	date	0	0	1	0
-ढुकुर	dhukur (wild doves)	0	0	1	0
 ढुकुर	dhukur	0	0	1	0
 साधारणत	orthodoxly	0	0	1	0
 साधारणत	simple	0	0	1	0
@@ -13897,7 +13371,6 @@ $	(american dollar) $	0	0	1	0
 नाताले	being a	0	0	1	0
 नाताले	relation	0	0	1	0
 एमालेको	to cause to weep	0	0	1	0
-एमालेको	of uml	0	0	1	0
 एमालेको	amelaco	0	0	1	0
 भइसकेका	completed	0	0	1	0
 भइसकेका	been	0	0	1	0
@@ -13924,22 +13397,19 @@ $	(american dollar) $	0	0	1	0
 सम्बन्धि	related	0	0	1	0
 संसारकै	of this world	0	0	1	0
 संसारकै	world's	0	0	1	0
-संसारकै	roof of the world	0	0	1	0
 ईश्वरवादी	theist	0	0	1	0
 ईश्वरवादी	god fearing	0	0	1	0
 संसारको	of world	0	0	1	0
 संसारको	of the world	0	0	1	0
 देशले	country	0	0	1	0
 देशले	how much did he pay you?	0	0	1	0
-शेष	remains	0	0	1	0
 शेष	death	0	0	1	0
 शेष	shesh	0	0	1	0
 तीनवटा	original	0	0	1	0
-तीनवटा	three numbers	0	0	1	0
 सि	this	0	0	1	0
-तस्तै	likewise	0	0	1	0
-तस्तै	thasthai	0	0	1	0
 तस्तै	like that	0	0	1	0
+तस्तै	thasthai	0	0	1	0
+तस्तै	likewise	0	0	1	0
 श्रेणीनेपालमा	class:nepal	0	0	1	0
 श्रेणीनेपालमा	section: in nepal	0	0	1	0
 देशान्तरः	latitude	0	0	1	0
@@ -13962,12 +13432,13 @@ $	(american dollar) $	0	0	1	0
 सिन्धुपाल्चोक	sindupalchowk	0	0	1	0
 सिन्धुपाल्चोक	sindhupalchowk	0	0	1	0
 म्यानचेस्टर	manchester	0	0	1	0
+जातीको	tribe	0	0	1	0
+जातीको	rivalry	0	0	1	0
+जातीको	of caste	0	0	1	0
 थलोको	place	0	0	1	0
 थलोको	thalokho	0	0	1	0
-थलोको	of site	0	0	1	0
 शुरु	start	0	0	1	0
 शुरु	begin	0	0	1	0
-महिनामा	in month	0	0	1	0
 महिनामा	month	0	0	1	0
 सेनानी	merchant	0	0	1	0
 सेनानी	fighter	0	0	1	0
@@ -13991,7 +13462,6 @@ $	(american dollar) $	0	0	1	0
 लिंकहरू	links	0	0	1	0
 वृद्धिका	increase	0	0	1	0
 वृद्धिका	for growth	0	0	1	0
-वृद्धिका	develop	0	0	1	0
 प्रजातिका	of species	0	0	1	0
 प्रजातिका	class	0	0	1	0
 प्रजातिका	species	0	0	1	0
@@ -14009,7 +13479,6 @@ $	(american dollar) $	0	0	1	0
 व्यवस्थापिकिय	vyavasthapikiy	0	0	1	0
 व्यवस्थापिकिय	managerial	0	0	1	0
 गोरखापत्र	gorkhapatra	0	0	1	0
-गोरखापत्र	gorakhapatra	0	0	1	0
 गोरखापत्र	bludgeon	0	0	1	0
 नारायणगढ	name of place	0	0	1	0
 नारायणगढ	narayangarh	0	0	1	0
@@ -14031,7 +13500,6 @@ $	(american dollar) $	0	0	1	0
 जङ्गवहादुर	jangbahadur	0	0	1	0
 योग्यताको	yogyatako	0	0	1	0
 योग्यताको	of qualification	0	0	1	0
-योग्यताको	qualification	0	0	1	0
 सामरिक	military	0	0	1	0
 सामरिक	strategic	0	0	1	0
 सामरिक	samarik	0	0	1	0
@@ -14073,12 +13541,10 @@ $	(american dollar) $	0	0	1	0
 स्पर्श	touch	0	0	1	0
 स्पर्श	anxiety	0	0	1	0
 नमोबौद्ध	nmobudhd	0	0	1	0
-नमोबौद्ध	namobudhdha	0	0	1	0
 नमोबौद्ध	namobuddha	0	0	1	0
 उतिर्ण	uthheern	0	0	1	0
 उतिर्ण	pass	0	0	1	0
 देखिएमा	seen	0	0	1	0
-देखिएमा	looking at	0	0	1	0
 परमाणुको	atomic	0	0	1	0
 परमाणुको	atom	0	0	1	0
 आफैं	self rule	0	0	1	0
@@ -14090,12 +13556,10 @@ $	(american dollar) $	0	0	1	0
 लोकतन्त्रसमर्थित	lokathantra samarthith	0	0	1	0
 प्रक्रियाको	process	0	0	1	0
 प्रक्रियाको	work	0	0	1	0
-प्रक्रियाको	of system	0	0	1	0
 संगै	samgai	0	0	1	0
 संगै	associateship	0	0	1	0
 संगै	together	0	0	1	0
 त्यसभन्दा	from there on	0	0	1	0
-त्यसभन्दा	than that	0	0	1	0
 त्यसभन्दा	tysbnda	0	0	1	0
 मालिक	owner	0	0	1	0
 मालिक	master	0	0	1	0
@@ -14155,7 +13619,6 @@ $	(american dollar) $	0	0	1	0
 मैदानों	field	0	0	1	0
 कृत्रिम	artificial	0	0	1	0
 कृत्रिम	krutrim	0	0	1	0
-सहभागीहरूसँग	sahabhagiharsangh	0	0	1	0
 सहभागीहरूसँग	with participants	0	0	1	0
 युद्धको	a small waterpot	0	0	1	0
 युद्धको	war	0	0	1	0
@@ -14167,7 +13630,6 @@ $	(american dollar) $	0	0	1	0
 हिउँदको	winter's	0	0	1	0
 हिउँदको	of winter	0	0	1	0
 हिउँदको	winter	0	0	1	0
-कोषको	of fund	0	0	1	0
 कोषको	of treasury	0	0	1	0
 कोषको	treasury	0	0	1	0
 मान	prestige	0	0	1	0
@@ -14186,7 +13648,6 @@ $	(american dollar) $	0	0	1	0
 बाहुल्य	castrated he-goat	0	0	1	0
 प्रधानमन्त्रीहरू	prime minister's	0	0	1	0
 प्रधानमन्त्रीहरू	prime ministers	0	0	1	0
-प्रधानमन्त्रीहरू	pradhanamanthrihar	0	0	1	0
 संरक्षण	protection	0	0	1	0
 शल्यक्रिया	surgery	0	0	1	0
 शल्यक्रिया	shalyakriya	0	0	1	0
@@ -14205,7 +13666,6 @@ $	(american dollar) $	0	0	1	0
 चीनलाई	china	0	0	1	0
 चीनलाई	to china	0	0	1	0
 सक्छन्	able	0	0	1	0
-सक्छन्	can do	0	0	1	0
 देशबाट	from country	0	0	1	0
 देशबाट	exiled	0	0	1	0
 गभर्नर	governer	0	0	1	0
@@ -14223,12 +13683,10 @@ $	(american dollar) $	0	0	1	0
 माता	mather	0	0	1	0
 माता	although	0	0	1	0
 माता	mother	0	0	1	0
-अपरेन्ड	operand	0	0	1	0
 अपरेन्ड	desertion	0	0	1	0
 देवताहरुको	gods	0	0	1	0
 देवताहरुको	of gods	0	0	1	0
 देवताहरुको	devtaharuko	0	0	1	0
-राजवंश	royal clan	0	0	1	0
 राजवंश	dynasty	0	0	1	0
 शक्तिमा	in power	0	0	1	0
 शक्तिमा	as for example	0	0	1	0
@@ -14346,7 +13804,6 @@ $	(american dollar) $	0	0	1	0
 आइतबार	rememberance	0	0	1	0
 बिरिङ	birign	0	0	1	0
 बिरिङ	biring	0	0	1	0
-जुम्लाको	of jumla	0	0	1	0
 जुम्लाको	verb	0	0	1	0
 जुम्लाको	jumla	0	0	1	0
 इजाजत	ijaajath	0	0	1	0
@@ -14387,7 +13844,6 @@ $	(american dollar) $	0	0	1	0
 पहिले	before	0	0	1	0
 गर्नुहोस्	do	0	0	1	0
 गर्नुहोस्	please do	0	0	1	0
-गर्नुहोस्	garnuhose	0	0	1	0
 पालुवा	new shoot	0	0	1	0
 पालुवा	twigs	0	0	1	0
 पहिलो	pahelo	0	0	1	0
@@ -14426,7 +13882,6 @@ $	(american dollar) $	0	0	1	0
 संस्कृतिमा	rites	0	0	1	0
 पहिला	first	0	0	1	0
 कोदो	kodo	0	0	1	0
-कोदो	millet	0	0	1	0
 यहाका	here	0	0	1	0
 गम्पो	gampo (part name of a ancient chinese king)	0	0	1	0
 गम्पो	gampo	0	0	1	0
@@ -14451,18 +13906,18 @@ $	(american dollar) $	0	0	1	0
 क्यम्पस	shivering	0	0	1	0
 क्यम्पस	campus	0	0	1	0
 ३६६	366	0	0	1	0
+त्यो	thyo	0	0	1	0
+त्यो	that	0	0	1	0
 विकासक्षेत्र	development area	0	0	1	0
 विकासक्षेत्र	area	0	0	1	0
 विमान	airoplane	0	0	1	0
 विमान	aeroplane	0	0	1	0
 निर्मित	made of	0	0	1	0
 निर्मित	made	0	0	1	0
-निर्मित	built	0	0	1	0
 भागका	regions	0	0	1	0
 भागका	bhagka	0	0	1	0
 भागका	of side	0	0	1	0
 किताबको	book	0	0	1	0
-किताबको	of book	0	0	1	0
 निर्माणमा	build	0	0	1	0
 निर्माणमा	archaeology	0	0	1	0
 डाटा	data	0	0	1	0
@@ -14479,8 +13934,8 @@ $	(american dollar) $	0	0	1	0
 यदि	if	0	0	1	0
 ऋषि	sage	0	0	1	0
 शुक्रराज	shukraraj  - name	0	0	1	0
-शुक्रराज	sukraraj	0	0	1	0
 शुक्रराज	shukra raj	0	0	1	0
+२००४	2004	0	0	1	0
 शासकहरु	ruler	0	0	1	0
 शासकहरु	rulers	0	0	1	0
 गोपाल	gopal	0	0	1	0
@@ -14495,7 +13950,6 @@ $	(american dollar) $	0	0	1	0
 राजमार्ग	rajmarg	0	0	1	0
 राजमार्ग	highway	0	0	1	0
 अवधिको	period	0	0	1	0
-अवधिको	of period	0	0	1	0
 भएर	nepali wekipedia promotion campagn	0	0	1	0
 भएर	in the	0	0	1	0
 भएर	baer	0	0	1	0
@@ -14543,8 +13997,8 @@ $	(american dollar) $	0	0	1	0
 महेन्द्रनगर	mahendranagar (a place in nepal)	0	0	1	0
 दसौं	tenth	0	0	1	0
 दसौं	ten days	0	0	1	0
-यन्त्रको	decentralization	0	0	1	0
 यन्त्रको	yanthrako	0	0	1	0
+यन्त्रको	decentralization	0	0	1	0
 यन्त्रको	of machine	0	0	1	0
 उपयोगी	beneficial	0	0	1	0
 उपयोगी	useful	0	0	1	0
@@ -14577,7 +14031,6 @@ $	(american dollar) $	0	0	1	0
 त्यसमा	that	0	0	1	0
 भएमा	bhayema	0	0	1	0
 भएमा	happen	0	0	1	0
-भएमा	happened	0	0	1	0
 यकृतमा	liver	0	0	1	0
 यकृतमा	truth	0	0	1	0
 यकृतमा	in liver	0	0	1	0
@@ -14630,7 +14083,6 @@ $	(american dollar) $	0	0	1	0
 जातिहरुको	national's	0	0	1	0
 जातिहरुको	races	0	0	1	0
 उचाइमा	chicago	0	0	1	0
-उचाइमा	in altitude	0	0	1	0
 उचाइमा	height	0	0	1	0
 खेल्न	play	0	0	1	0
 खेल्न	to play	0	0	1	0
@@ -14668,12 +14120,10 @@ $	(american dollar) $	0	0	1	0
 खान	khan	0	0	1	0
 याक्थुंग	yakthungh	0	0	1	0
 याक्थुंग	yakthung	0	0	1	0
-राजदूत	ambassador	0	0	1	0
 राजदूत	dio chrysostom	0	0	1	0
 न्यानो	warm	0	0	1	0
 विकीपिडीया	wikipedia	0	0	1	0
 विकीपिडीया	vikipedia	0	0	1	0
-बताएको	is said to be	0	0	1	0
 बताएको	batayeko	0	0	1	0
 बताएको	told	0	0	1	0
 खाँ	khan	0	0	1	0
@@ -14681,7 +14131,6 @@ $	(american dollar) $	0	0	1	0
 व्यापारीक	business	0	0	1	0
 यातायातको	transportation	0	0	1	0
 यातायातको	transport	0	0	1	0
-खाई	ate	0	0	1	0
 खाई	eat	0	0	1	0
 भक्ति	bhakti	0	0	1	0
 भक्ति	devotion	0	0	1	0
@@ -14700,7 +14149,6 @@ $	(american dollar) $	0	0	1	0
 काजी	storm	0	0	1	0
 समता	equation	0	0	1	0
 समता	forty-three	0	0	1	0
-समता	similarity	0	0	1	0
 बुवा	buwa (french name)	0	0	1	0
 बुवा	father	0	0	1	0
 बुवा	bhuva	0	0	1	0
@@ -14739,16 +14187,12 @@ $	(american dollar) $	0	0	1	0
 स्वीडिश	tortoise	0	0	1	0
 समाचारसमाचार	samacharsamachar	0	0	1	0
 समाचारसमाचार	news	0	0	1	0
-रेश	race	0	0	1	0
 ट्रेड	strike	0	0	1	0
 ट्रेड	trade	0	0	1	0
-रहयो	remain	0	0	1	0
 रहयो	situated	0	0	1	0
 रहयो	stay	0	0	1	0
-रेल	train	0	0	1	0
 रेल	rail	0	0	1	0
 रेल	judiciary	0	0	1	0
-युरोपमा	in europe	0	0	1	0
 ट्रेन	train	0	0	1	0
 ट्रेन	railway / train	0	0	1	0
 तिब्बतसङ्ग	tibbat	0	0	1	0
@@ -14772,7 +14216,6 @@ $	(american dollar) $	0	0	1	0
 भैरहेको	running	0	0	1	0
 भैरहेको	which were happening	0	0	1	0
 पुरा	full	0	0	1	0
-पुरा	whole	0	0	1	0
 पुरा	complete	0	0	1	0
 निवासी	resident	0	0	1	0
 निवासी	living	0	0	1	0
@@ -14932,7 +14375,6 @@ $	(american dollar) $	0	0	1	0
 चितवनमा	at chitwan (name of a place)	0	0	1	0
 कालिगण्डकी	kaligandaki	0	0	1	0
 प्रतिनिधित्व	pratinidhitva	0	0	1	0
-प्रतिनिधित्व	representation	0	0	1	0
 प्रतिनिधित्व	represent	0	0	1	0
 यद्यपि	to drink	0	0	1	0
 यद्यपि	though	0	0	1	0
@@ -14974,8 +14416,8 @@ $	(american dollar) $	0	0	1	0
 टाइन	tain	0	0	1	0
 टाइन	tyne	0	0	1	0
 टाइन	newcastle upon tyne	0	0	1	0
-तथ्य	fact	0	0	1	0
 तथ्य	truth	0	0	1	0
+तथ्य	fact	0	0	1	0
 मध्यकालीन	mid-era	0	0	1	0
 मध्यकालीन	middle age	0	0	1	0
 मध्यकालीन	mediaeval	0	0	1	0
@@ -14997,7 +14439,6 @@ $	(american dollar) $	0	0	1	0
 तिब्बतसंग	with tibet	0	0	1	0
 छुटकारा	release	0	0	1	0
 छुटकारा	to get rid of	0	0	1	0
-छुटकारा	relief	0	0	1	0
 दस्तावेज	official papers	0	0	1	0
 दस्तावेज	manifesto	0	0	1	0
 दस्तावेज	literature	0	0	1	0
@@ -15027,7 +14468,6 @@ $	(american dollar) $	0	0	1	0
 मानिसलाई	person	0	0	1	0
 मानिसलाई	manislayi	0	0	1	0
 शमशेरको	shamsher's	0	0	1	0
-शमशेरको	of shamsher	0	0	1	0
 शमशेरको	shamsher	0	0	1	0
 उब्जाउ	growth	0	0	1	0
 उब्जाउ	productive	0	0	1	0
@@ -15039,7 +14479,6 @@ $	(american dollar) $	0	0	1	0
 स्थापित	establish	0	0	1	0
 आन्ध्र	andhra	0	0	1	0
 धेरैजसो	most	0	0	1	0
-धेरैजसो	most of the	0	0	1	0
 धेरैजसो	amlost all	0	0	1	0
 टेलीभीजन	television	0	0	1	0
 पेजहरूको	page	0	0	1	0
@@ -15055,7 +14494,6 @@ $	(american dollar) $	0	0	1	0
 आजको	today	0	0	1	0
 चिउरी	chewri	0	0	1	0
 चिउरी	chiuri (a place in nepal)	0	0	1	0
-चिउरी	chiuree	0	0	1	0
 समाचारको	news	0	0	1	0
 श्रेणीग्रह	category planet	0	0	1	0
 श्रेणीग्रह	srigrh	0	0	1	0
@@ -15099,7 +14537,6 @@ $	(american dollar) $	0	0	1	0
 दोभान	confluence	0	0	1	0
 दोभान	dovhan	0	0	1	0
 दोभान	false	0	0	1	0
-इस	this	0	0	1	0
 इस	is	0	0	1	0
 इस	salty	0	0	1	0
 जापानले	japan	0	0	1	0
@@ -15126,14 +14563,12 @@ $	(american dollar) $	0	0	1	0
 भावना	emotion	0	0	1	0
 भावना	perspective	0	0	1	0
 भावना	feelings	0	0	1	0
-सम्बन्ध	sambandh	0	0	1	0
 सम्बन्ध	relation	0	0	1	0
 गाविसनपा	v.d.c.	0	0	1	0
 गाविसनपा	short form for village development committee/ municipality	0	0	1	0
 गाविसनपा	gaavisanpa	0	0	1	0
 बाहिर	outside	0	0	1	0
 बाहिर	bahir	0	0	1	0
-बाहिर	out	0	0	1	0
 शास्त्रको	shashtras	0	0	1	0
 शास्त्रको	scripture	0	0	1	0
 शास्त्रको	science's	0	0	1	0
@@ -15146,7 +14581,6 @@ $	(american dollar) $	0	0	1	0
 रोकथाम	stop	0	0	1	0
 रोकथाम	prevention	0	0	1	0
 गिरिजाप्रसाद	girija prasad	0	0	1	0
-गिरिजाप्रसाद	girijaprasad (name of a person)	0	0	1	0
 चनौटे	chnaote	0	0	1	0
 चनौटे	chanaute	0	0	1	0
 करीब	karib	0	0	1	0
@@ -15165,9 +14599,7 @@ $	(american dollar) $	0	0	1	0
 पृष्ठ	page	0	0	1	0
 खामति	khamti	0	0	1	0
 खामति	khamati	0	0	1	0
-खामति	khamti (a place in nepal)	0	0	1	0
 जहाँ	there	0	0	1	0
-जहाँ	where	0	0	1	0
 ठुला	big	0	0	1	0
 संघिय	federal	0	0	1	0
 संघिय	republic	0	0	1	0
@@ -15181,12 +14613,9 @@ $	(american dollar) $	0	0	1	0
 स्नातकोतर	post graduate	0	0	1	0
 जनयुद्धको	people's war	0	0	1	0
 जनयुद्धको	janyudhko	0	0	1	0
-जनयुद्धको	war of people	0	0	1	0
 कार्यक्रममा	karyakramma	0	0	1	0
 कार्यक्रममा	karyakramama	0	0	1	0
 कार्यक्रममा	programme	0	0	1	0
-लगत्तै	looks like	0	0	1	0
-लगत्तै	soon after	0	0	1	0
 पसल	shop	0	0	1	0
 पसल	pasal	0	0	1	0
 महोत्तरी	mahothari	0	0	1	0
@@ -15206,7 +14635,6 @@ $	(american dollar) $	0	0	1	0
 रक्षाको	king	0	0	1	0
 रक्षाको	protect	0	0	1	0
 रक्षाको	rakshako	0	0	1	0
-सक्रियतामा	initiation of	0	0	1	0
 सक्रियतामा	active	0	0	1	0
 सक्रियतामा	in activeness	0	0	1	0
 कांग्रेसका	of congress	0	0	1	0
@@ -15219,8 +14647,8 @@ $	(american dollar) $	0	0	1	0
 बोलिन्छन्	is spoken	0	0	1	0
 बोलिन्छन्	speak	0	0	1	0
 हार	loss	0	0	1	0
-हार	defeat	0	0	1	0
 हार	lose	0	0	1	0
+हार	defeat	0	0	1	0
 हाल	now	0	0	1	0
 हाल	recent	0	0	1	0
 हाल	circumstance	0	0	1	0
@@ -15286,7 +14714,6 @@ $	(american dollar) $	0	0	1	0
 यसै	that	0	0	1	0
 यसो	this	0	0	1	0
 यसो	yaso	0	0	1	0
-यसो	like this	0	0	1	0
 खसहरू	village in kathmandu	0	0	1	0
 खसहरू	khashs	0	0	1	0
 खसहरू	many	0	0	1	0
@@ -15309,8 +14736,6 @@ $	(american dollar) $	0	0	1	0
 दुरीमा	commerce	0	0	1	0
 गुल्मी	gloomy	0	0	1	0
 गुल्मी	gulmi	0	0	1	0
-देव	dev (surname)	0	0	1	0
-देव	dev - surname	0	0	1	0
 देश	country	0	0	1	0
 फेब्रुअरी	february	0	0	1	0
 फेब्रुअरी	februrary	0	0	1	0
@@ -15320,7 +14745,6 @@ $	(american dollar) $	0	0	1	0
 प्रशासकिय	administrative	0	0	1	0
 प्रशासकिय	twelfth	0	0	1	0
 आधुनिकता	modernity	0	0	1	0
-आधुनिकता	modern	0	0	1	0
 आधुनिकता	modenisation	0	0	1	0
 दैलेख	dailekh (a place in nepal)	0	0	1	0
 दैलेख	dailekh	0	0	1	0
@@ -15353,21 +14777,17 @@ $	(american dollar) $	0	0	1	0
 कविताको	of poem	0	0	1	0
 फैलावट	spread	0	0	1	0
 फैलावट	area	0	0	1	0
-पिण्डेश्वर	pindeshwar	0	0	1	0
-पिण्डेश्वर	pindekshwar	0	0	1	0
 नाममात्रमा	naammatrama	0	0	1	0
 नाममात्रमा	only in name	0	0	1	0
 नाममात्रमा	nominal	0	0	1	0
 स्यार	syaar	0	0	1	0
 स्यार	shyar	0	0	1	0
 स्यार	syar	0	0	1	0
-पूजाको	of worship	0	0	1	0
 पूजाको	worship	0	0	1	0
 पूजाको	pooja's ( of worship day)	0	0	1	0
 परिवारका	relative	0	0	1	0
 परिवारका	of family	0	0	1	0
 परिवारका	families	0	0	1	0
-एकसय	eksai	0	0	1	0
 एकसय	one hundred	0	0	1	0
 अधिराज्यमा	kingdom	0	0	1	0
 अधिराज्यमा	adirajyama	0	0	1	0
@@ -15387,7 +14807,6 @@ $	(american dollar) $	0	0	1	0
 संचार	communication	0	0	1	0
 संचार	issue	0	0	1	0
 संचार	sanchar	0	0	1	0
-मन्त्रालयहरुको	ministries	0	0	1	0
 मन्त्रालयहरुको	of ministries	0	0	1	0
 मन्त्रालयहरुको	ministry	0	0	1	0
 उत्तराखण्ड	uttarakhand	0	0	1	0
@@ -15424,7 +14843,6 @@ $	(american dollar) $	0	0	1	0
 ४२८५००००००	four arab twenty eight lakh and four thousand	0	0	1	0
 मान्न	follow	0	0	1	0
 मान्न	maanan	0	0	1	0
-मान्न	keep	0	0	1	0
 म्‍लो	mulo	0	0	1	0
 ४१	41	0	0	1	0
 तमिलनाडु	tamilnaadu	0	0	1	0
@@ -15458,18 +14876,15 @@ $	(american dollar) $	0	0	1	0
 गरेनन्	garenan	0	0	1	0
 गरेनन्	did not do	0	0	1	0
 गरेनन्	dont do	0	0	1	0
-बोली	wording	0	0	1	0
 बोली	speech	0	0	1	0
 बोली	bench	0	0	1	0
 दिगो	long term	0	0	1	0
 दिगो	deego	0	0	1	0
 चक्र	chakra	0	0	1	0
-चक्र	system	0	0	1	0
 चक्र	cycle	0	0	1	0
 हरू	first number of the magazine	0	0	1	0
 हरू	haru	0	0	1	0
 हरू	are	0	0	1	0
-उपेक्षित	ignored	0	0	1	0
 उपेक्षित	neglected	0	0	1	0
 ब्‍लगिग	elders	0	0	1	0
 ब्‍लगिग	blogging	0	0	1	0
@@ -15478,8 +14893,8 @@ $	(american dollar) $	0	0	1	0
 परिवर्तन	transformation	0	0	1	0
 परिवर्तन	change	0	0	1	0
 क्षेत्रफल	area	0	0	1	0
-जनजीवन	simple	0	0	1	0
-जनजीवन	daily life	0	0	1	0
+ओशिनिया	oshiniya	0	0	1	0
+ओशिनिया	oceania	0	0	1	0
 ३६	36	0	0	1	0
 बहुमूल्य	valuable	0	0	1	0
 परिषदको	of council	0	0	1	0
@@ -15502,19 +14917,15 @@ $	(american dollar) $	0	0	1	0
 गूगोल	cobra	0	0	1	0
 गूगोल	googol	0	0	1	0
 गूगोल	googol / website	0	0	1	0
-पञ्चकन्या	panchakanya	0	0	1	0
-पञ्चकन्या	panch kanya - name	0	0	1	0
-पञ्चकन्या	panchkanya	0	0	1	0
+जाम्बिया	zambia	0	0	1	0
 गान्धीलाई	of mahatma gandhi	0	0	1	0
 गान्धीलाई	gandhi	0	0	1	0
 गान्धीलाई	gandhilayi	0	0	1	0
-व्यवस्थामा	arrangement	0	0	1	0
 व्यवस्थामा	system	0	0	1	0
 व्यवस्थामा	in management	0	0	1	0
 ओक्थितान	occitan language	0	0	1	0
 ईटानगर	etanagar	0	0	1	0
 ईटानगर	itanagar	0	0	1	0
-तिहाई	part	0	0	1	0
 तिहाई	one third	0	0	1	0
 युगान्डा	uganda	0	0	1	0
 वेबमा	web	0	0	1	0
@@ -15595,7 +15006,6 @@ $	(american dollar) $	0	0	1	0
 वि०	b.	0	0	1	0
 वि०	vim	0	0	1	0
 भने	is also	0	0	1	0
-भने	said	0	0	1	0
 भने	than	0	0	1	0
 उड्डयन	wall	0	0	1	0
 उड्डयन	aviation	0	0	1	0
@@ -15608,12 +15018,10 @@ $	(american dollar) $	0	0	1	0
 स्यान्गरले	by syangar	0	0	1	0
 समिति	committee	0	0	1	0
 समिति	collection	0	0	1	0
-चलेका	chaleka	0	0	1	0
-चलेका	running	0	0	1	0
-चलेका	run	0	0	1	0
+गाउँघर	villagehouse	0	0	1	0
+गाउँघर	villages	0	0	1	0
 कार्यक्रमहरूको	of programmes	0	0	1	0
 कार्यक्रमहरूको	workshop	0	0	1	0
-कार्यक्रमहरूको	meeting	0	0	1	0
 थरका	tarka	0	0	1	0
 थरका	surnames	0	0	1	0
 पूर्वी	east	0	0	1	0
@@ -15621,7 +15029,6 @@ $	(american dollar) $	0	0	1	0
 उद्योगको	of industry	0	0	1	0
 उद्योगको	factory	0	0	1	0
 दुर्गा	durga	0	0	1	0
-दुर्गा	durga (hindu goddess)	0	0	1	0
 सीताराम्	sitaram	0	0	1	0
 निरीक्षक	inspector	0	0	1	0
 निरीक्षक	examiner	0	0	1	0
@@ -15632,9 +15039,8 @@ $	(american dollar) $	0	0	1	0
 मतबाट	vote	0	0	1	0
 मतबाट	by views	0	0	1	0
 मतबाट	matbaat	0	0	1	0
-मजदूर	laborer	0	0	1	0
 मजदूर	labours	0	0	1	0
-मजदूर	worker	0	0	1	0
+मजदूर	laborer	0	0	1	0
 भञ्ज्याङ	bhanjyan	0	0	1	0
 भञ्ज्याङ	bhangjyang	0	0	1	0
 १९९०को	1990	0	0	1	0
@@ -15642,8 +15048,9 @@ $	(american dollar) $	0	0	1	0
 अन्तत	antat	0	0	1	0
 अन्तत	at last	0	0	1	0
 अन्तत	industry	0	0	1	0
-युवान	yuan	0	0	1	0
-युवान	yuan (family)	0	0	1	0
+सल्ला	salla (species of a tree)	0	0	1	0
+सल्ला	salla	0	0	1	0
+सल्ला	pine	0	0	1	0
 तानसेन	tansen	0	0	1	0
 पूर्वीय	eastern	0	0	1	0
 अन्तर	difference	0	0	1	0
@@ -15677,7 +15084,6 @@ $	(american dollar) $	0	0	1	0
 सर्दा	sardha	0	0	1	0
 भाषालाई	bhashalayi	0	0	1	0
 भाषालाई	interest	0	0	1	0
-भाषालाई	language	0	0	1	0
 रामजानकी	ram janaki	0	0	1	0
 रामजानकी	ramjanki	0	0	1	0
 रामजानकी	ramajanki name	0	0	1	0
@@ -15701,7 +15107,6 @@ $	(american dollar) $	0	0	1	0
 अञ्चलमा	aanchalma	0	0	1	0
 अञ्चलमा	achalma	0	0	1	0
 फिजी	fiji	0	0	1	0
-सिक्किमलाई	sikkimlaye	0	0	1	0
 सिक्किमलाई	sikkim	0	0	1	0
 सिक्किमलाई	sikkimalai	0	0	1	0
 १९५७मा	in 1957	0	0	1	0
@@ -15734,7 +15139,6 @@ $	(american dollar) $	0	0	1	0
 भीष्म	bhisma (mythological character)	0	0	1	0
 स्वीकृति	agreed	0	0	1	0
 स्वीकृति	acceptance	0	0	1	0
-स्वीकृति	approved	0	0	1	0
 गान्धीले	gandhile	0	0	1	0
 गान्धीले	gandhi	0	0	1	0
 बढी	increase	0	0	1	0
@@ -15779,13 +15183,12 @@ $	(american dollar) $	0	0	1	0
 वीरगञ्जमा	in birganja	0	0	1	0
 वीरगञ्जमा	in birgunj	0	0	1	0
 वीरगञ्जमा	birganj	0	0	1	0
-संकेत	samketh	0	0	1	0
 संकेत	signal	0	0	1	0
+संकेत	samketh	0	0	1	0
 संकेत	sign	0	0	1	0
 भइरहने	become	0	0	1	0
-प्रेरित	inspired	0	0	1	0
-प्रेरित	motivate	0	0	1	0
-प्रेरित	influence	0	0	1	0
+दिनुपर्छ	have to give	0	0	1	0
+दिनुपर्छ	give	0	0	1	0
 तिरबाट	from side	0	0	1	0
 तिरबाट	from ...side	0	0	1	0
 नमिल्ने	not matching	0	0	1	0
@@ -15834,15 +15237,13 @@ $	(american dollar) $	0	0	1	0
 खलंगा	khalanga (place)	0	0	1	0
 खलंगा	khalanga	0	0	1	0
 खलंगा	khlangaa	0	0	1	0
+रोयलको	royal	0	0	1	0
 माहौल	street / area	0	0	1	0
 माहौल	environment	0	0	1	0
 नाम्दु	namdu	0	0	1	0
 नाम्दु	namdu (river)	0	0	1	0
 डायग्नोस्टिक	diagnostics	0	0	1	0
 डायग्नोस्टिक	diagnostic	0	0	1	0
-मार्गमा	path	0	0	1	0
-मार्गमा	road	0	0	1	0
-मार्गमा	way	0	0	1	0
 नालापानी	canal water	0	0	1	0
 नालापानी	drainwater	0	0	1	0
 नालापानी	to hide	0	0	1	0
@@ -15909,7 +15310,6 @@ $	(american dollar) $	0	0	1	0
 प्रथम	first	0	0	1	0
 सेल्सियसदेखि	from celsius	0	0	1	0
 सेल्सियसदेखि	celcius	0	0	1	0
-सेल्सियसदेखि	some village	0	0	1	0
 विरूद्ध	distinct	0	0	1	0
 विरूद्ध	against	0	0	1	0
 श्रेय	credit	0	0	1	0
@@ -15941,7 +15341,6 @@ $	(american dollar) $	0	0	1	0
 दास	chief	0	0	1	0
 दास	daas	0	0	1	0
 दास	das	0	0	1	0
-उद्देश्यहरू	aim	0	0	1	0
 उद्देश्यहरू	udyeshyahru	0	0	1	0
 उद्देश्यहरू	purpose	0	0	1	0
 लामाचौर	lamachour	0	0	1	0
@@ -15954,9 +15353,9 @@ $	(american dollar) $	0	0	1	0
 दिनः	jackal	0	0	1	0
 दिनः	day	0	0	1	0
 दिनः	hardship	0	0	1	0
-सरकारी	governmental	0	0	1	0
-सरकारी	official	0	0	1	0
-सरकारी	government	0	0	1	0
+कृष्णप्रसाद	krishnaprasad (name of a person)	0	0	1	0
+कृष्णप्रसाद	krishna prasad	0	0	1	0
+कृष्णप्रसाद	lord krishanas offering	0	0	1	0
 समसामयिक	concurrent	0	0	1	0
 समसामयिक	contemporary	0	0	1	0
 समसामयिक	samasaamyik	0	0	1	0
@@ -15968,7 +15367,6 @@ $	(american dollar) $	0	0	1	0
 तरीकाहरू	methods	0	0	1	0
 तरीकाहरू	techniques	0	0	1	0
 मूलघाट	moolghat	0	0	1	0
-मूलघाट	moolgaat	0	0	1	0
 मूलघाट	mulghat (a place in nepal)	0	0	1	0
 दाङ	dang	0	0	1	0
 दाङ	swim	0	0	1	0
@@ -15976,7 +15374,6 @@ $	(american dollar) $	0	0	1	0
 अनुगमन	follow  -up	0	0	1	0
 अनुगमन	investigation	0	0	1	0
 ८८५	885	0	0	1	0
-चिटागांग	chitaganga	0	0	1	0
 चिटागांग	chittagong	0	0	1	0
 चिटागांग	chitagaang	0	0	1	0
 संसदले	parliament	0	0	1	0
@@ -16006,7 +15403,6 @@ $	(american dollar) $	0	0	1	0
 अन्‍तर्गत	under	0	0	1	0
 एकीकरणपछि	ekikaranpachi	0	0	1	0
 एकीकरणपछि	after unification	0	0	1	0
-एकीकरणपछि	after unifying	0	0	1	0
 समुहमा	in group	0	0	1	0
 समुहमा	samuhma	0	0	1	0
 समुहमा	group	0	0	1	0
@@ -16014,7 +15410,9 @@ $	(american dollar) $	0	0	1	0
 मातरम्‌	national song of india	0	0	1	0
 मातरम्‌	mother	0	0	1	0
 मातरम्‌	mother is great	0	0	1	0
-८३९९	8399	0	0	1	0
+महाभारतमा	mahabhartma	0	0	1	0
+महाभारतमा	mahabharat	0	0	1	0
+महाभारतमा	mahabharata	0	0	1	0
 बसेका	living	0	0	1	0
 बसेका	settle	0	0	1	0
 बसेका	residing	0	0	1	0
@@ -16032,9 +15430,9 @@ $	(american dollar) $	0	0	1	0
 सक्ने	name of the author kautilya	0	0	1	0
 सक्ने	able	0	0	1	0
 सक्ने	sakne	0	0	1	0
-प्रान्तको	of state	0	0	1	0
-प्रान्तको	state	0	0	1	0
 प्रान्तको	prantko	0	0	1	0
+प्रान्तको	state	0	0	1	0
+प्रान्तको	of state	0	0	1	0
 सक्नु	able	0	0	1	0
 सक्नु	can	0	0	1	0
 एसियासँग	with asia	0	0	1	0
@@ -16088,7 +15486,6 @@ $	(american dollar) $	0	0	1	0
 समावेश	inclusion	0	0	1	0
 समावेश	include	0	0	1	0
 समावेश	associate	0	0	1	0
-क्याम्पसमा	in campus	0	0	1	0
 क्याम्पसमा	complex	0	0	1	0
 क्याम्पसमा	at campus	0	0	1	0
 रहेकोले	being	0	0	1	0
@@ -16157,7 +15554,6 @@ $	(american dollar) $	0	0	1	0
 अफ्रिकाको	of africa	0	0	1	0
 अफ्रिकाको	africa	0	0	1	0
 सानोमा	sanoma	0	0	1	0
-सानोमा	in small	0	0	1	0
 सानोमा	telecommunication	0	0	1	0
 कोमोरोस	comorus	0	0	1	0
 हुँदा	hunda	0	0	1	0
@@ -16168,14 +15564,12 @@ $	(american dollar) $	0	0	1	0
 गुप्त	gupt	0	0	1	0
 गुप्त	did you have your food?	0	0	1	0
 गुप्त	thumb	0	0	1	0
-ऋषिका	saint	0	0	1	0
 ऋषिका	of sage	0	0	1	0
 ऋषिका	trashika	0	0	1	0
 सतह	surface	0	0	1	0
 इस्लामिक	islamic	0	0	1	0
 मगर	magar (caste)	0	0	1	0
 मगर	magar	0	0	1	0
-पश्चिमक्षेत्रमा	in west area	0	0	1	0
 पश्चिमक्षेत्रमा	pole	0	0	1	0
 पश्चिमक्षेत्रमा	western	0	0	1	0
 परापूर्व	ancient time	0	0	1	0
@@ -16200,7 +15594,6 @@ $	(american dollar) $	0	0	1	0
 समयसम्म	till period	0	0	1	0
 वनस्पति	vegetable	0	0	1	0
 वनस्पति	genuine	0	0	1	0
-वनस्पति	plant kingdom	0	0	1	0
 लिनुपर्ने	linuparne	0	0	1	0
 लिनुपर्ने	take	0	0	1	0
 देशभित्र	different country	0	0	1	0
@@ -16222,7 +15615,6 @@ $	(american dollar) $	0	0	1	0
 उत्तरपूर्वमा	in north east	0	0	1	0
 एशियाली	asiali	0	0	1	0
 एशियाली	asian	0	0	1	0
-एशियाली	asiatic	0	0	1	0
 क्षेत्र	area	0	0	1	0
 क्षेत्र	village	0	0	1	0
 निर्भर	depend	0	0	1	0
@@ -16233,9 +15625,8 @@ $	(american dollar) $	0	0	1	0
 क्षेत्रशरु	regions	0	0	1	0
 क्षेत्रशरु	constituency	0	0	1	0
 क्षेत्रशरु	area	0	0	1	0
-प्राइममिनिस्टर	prime minister	0	0	1	0
-प्राइममिनिस्टर	tooth paste	0	0	1	0
 प्राइममिनिस्टर	primeminister	0	0	1	0
+प्राइममिनिस्टर	tooth paste	0	0	1	0
 भट्टराई	bhattrai	0	0	1	0
 भट्टराई	spacious	0	0	1	0
 भट्टराई	bhattarai	0	0	1	0
@@ -16245,7 +15636,6 @@ $	(american dollar) $	0	0	1	0
 शाखाहरू	branch	0	0	1	0
 अवस्थिती	environment	0	0	1	0
 अवस्थिती	situated	0	0	1	0
-अवस्थिती	location	0	0	1	0
 घटना	incident	0	0	1	0
 घटना	incidents	0	0	1	0
 घटनाका	of incident	0	0	1	0
@@ -16281,7 +15671,6 @@ $	(american dollar) $	0	0	1	0
 फगत्	criticism	0	0	1	0
 फगत्	only	0	0	1	0
 दुर्गालाई	durga	0	0	1	0
-दुर्गालाई	dhurgalai	0	0	1	0
 दुर्गालाई	idol of durga goddess	0	0	1	0
 हतियार	weapons	0	0	1	0
 हतियार	weapon	0	0	1	0
@@ -16315,7 +15704,6 @@ $	(american dollar) $	0	0	1	0
 गाविसका	gaaviska	0	0	1	0
 यस्को	it's	0	0	1	0
 यस्को	its	0	0	1	0
-यस्को	yasko	0	0	1	0
 बोलिन्छ	spoken	0	0	1	0
 बोलिन्छ	to be the procedure complete	0	0	1	0
 बोलिन्छ	speak	0	0	1	0
@@ -16349,9 +15737,8 @@ $	(american dollar) $	0	0	1	0
 श्रमिक	little	0	0	1	0
 श्रमिक	labour	0	0	1	0
 श्रमिक	worker	0	0	1	0
-उद्योगले	by industry	0	0	1	0
 उद्योगले	industry	0	0	1	0
-उद्योगले	udhyoghle	0	0	1	0
+उद्योगले	by industry	0	0	1	0
 चोट	wound	0	0	1	0
 चोट	injury	0	0	1	0
 चोट	pain	0	0	1	0
@@ -16384,7 +15771,6 @@ $	(american dollar) $	0	0	1	0
 नेवार	newar (a nepali caste)	0	0	1	0
 नेवार	newar	0	0	1	0
 वेदको	vedic	0	0	1	0
-वेदको	god	0	0	1	0
 वेदको	veda	0	0	1	0
 हैम्बर्ग	hemberg	0	0	1	0
 हैम्बर्ग	hamburg	0	0	1	0
@@ -16393,7 +15779,6 @@ $	(american dollar) $	0	0	1	0
 देहरादून	dehradoon - place name	0	0	1	0
 महालेखा	accounts	0	0	1	0
 महालेखा	finance	0	0	1	0
-गरिन्छ	do	0	0	1	0
 गरिन्छ	done	0	0	1	0
 गरिन्छ	garinch	0	0	1	0
 गरिन्छ	will be done	0	0	1	0
@@ -16456,12 +15841,10 @@ $	(american dollar) $	0	0	1	0
 ब्रह्मा	brahma	0	0	1	0
 यातायातबाट	transportation	0	0	1	0
 रूपन्देही	so viel	0	0	1	0
-रूपन्देही	rupandehi	0	0	1	0
 अणु	to escape	0	0	1	0
 अणु	atom	0	0	1	0
 बस्दथे	live	0	0	1	0
 बस्दथे	who lived in	0	0	1	0
-श्रेणीपाहडी	shrenipaandi	0	0	1	0
 श्रेणीपाहडी	class:hilly	0	0	1	0
 ठाउँहरू	places	0	0	1	0
 ठाउँहरु	taumharu	0	0	1	0
@@ -16491,8 +15874,6 @@ $	(american dollar) $	0	0	1	0
 राज्यहरू	personally	0	0	1	0
 जर्नल	journal	0	0	1	0
 जर्नल	to sprout	0	0	1	0
-अगुवा	leading	0	0	1	0
-अगुवा	aguva	0	0	1	0
 अगुवा	frontier	0	0	1	0
 निकालिएको	fired	0	0	1	0
 निकालिएको	take	0	0	1	0
@@ -16502,11 +15883,9 @@ $	(american dollar) $	0	0	1	0
 तसै	like that	0	0	1	0
 तसै	then	0	0	1	0
 अद्वितीय	unique	0	0	1	0
-अद्वितीय	incomparable	0	0	1	0
 अद्वितीय	unprecedented	0	0	1	0
 क्षेत्राधिकारहरु	regional power	0	0	1	0
 क्षेत्राधिकारहरु	regional rights	0	0	1	0
-क्षेत्राधिकारहरु	working areas	0	0	1	0
 रत्ननगर	ratnanagar (a place in nepal)	0	0	1	0
 रत्ननगर	ratnanagar	0	0	1	0
 युरेशिया	eurasia	0	0	1	0
@@ -16528,15 +15907,12 @@ $	(american dollar) $	0	0	1	0
 सम्राट	king	0	0	1	0
 सम्राट	emperor	0	0	1	0
 बच्चाहरुमा	resembling	0	0	1	0
-बच्चाहरुमा	in children	0	0	1	0
 बच्चाहरुमा	childrens	0	0	1	0
 मतभेद	disagreement	0	0	1	0
 मतभेद	mathbhedh	0	0	1	0
 मतभेद	mathbedh	0	0	1	0
 सदन	sadan	0	0	1	0
 सदन	house of parliament	0	0	1	0
-तिलौराकोट	tilaurakot (place in old nepal)	0	0	1	0
-तिलौराकोट	place	0	0	1	0
 जीवहरू	living things	0	0	1	0
 जीवहरू	lives	0	0	1	0
 जीवहरू	organisms	0	0	1	0
@@ -16549,8 +15925,8 @@ $	(american dollar) $	0	0	1	0
 तुलनात्मक	mother	0	0	1	0
 कटुञ्जे	katunge (a place in nepal)	0	0	1	0
 कटुञ्जे	katunje	0	0	1	0
-सदा	always	0	0	1	0
 सदा	sada	0	0	1	0
+सदा	always	0	0	1	0
 पहाडि	mountainous	0	0	1	0
 पहाडि	hilly	0	0	1	0
 ६९०	a quarter	0	0	1	0
@@ -16566,9 +15942,9 @@ $	(american dollar) $	0	0	1	0
 ६९८	698	0	0	1	0
 मकर	makar	0	0	1	0
 मकर	targus	0	0	1	0
-धर्मलाई	religion	0	0	1	0
 धर्मलाई	dharmlai	0	0	1	0
 धर्मलाई	rising	0	0	1	0
+धर्मलाई	religion	0	0	1	0
 युनिकोड	unicode	0	0	1	0
 थियौं	were	0	0	1	0
 थियौं	thiyai	0	0	1	0
@@ -16582,7 +15958,6 @@ $	(american dollar) $	0	0	1	0
 क़ानून	law	0	0	1	0
 नवमीकै	nineth	0	0	1	0
 नवमीकै	nawami	0	0	1	0
-नवमीकै	on nawami	0	0	1	0
 भविश्यमा	future	0	0	1	0
 भविश्यमा	in future	0	0	1	0
 मुहान	source	0	0	1	0
@@ -16618,12 +15993,11 @@ $	(american dollar) $	0	0	1	0
 प्रीन्सिप्	princip	0	0	1	0
 प्रीन्सिप्	principal	0	0	1	0
 जैमिनेश्वर	a sad face	0	0	1	0
-जैमिनेश्वर	jaimineswor	0	0	1	0
 कथामा	story	0	0	1	0
 कथामा	holinshed	0	0	1	0
-चल्यो	remain continue	0	0	1	0
-चल्यो	start	0	0	1	0
-चल्यो	chalyo	0	0	1	0
+सन	a.d	0	0	1	0
+सन	era	0	0	1	0
+सन	san	0	0	1	0
 अध्ययनबाट	adhyayanbaat	0	0	1	0
 अध्ययनबाट	study	0	0	1	0
 अध्ययनबाट	from study	0	0	1	0
@@ -16691,7 +16065,6 @@ $	(american dollar) $	0	0	1	0
 कसले	kasle	0	0	1	0
 कसले	who	0	0	1	0
 कसले	the old day	0	0	1	0
-दिशा	disha	0	0	1	0
 दिशा	direction	0	0	1	0
 ə	e	0	0	1	0
 अरुण	arun	0	0	1	0
@@ -16715,90 +16088,7 @@ $	(american dollar) $	0	0	1	0
 रिफर्मेसनको	reformationco	0	0	1	0
 रिफर्मेसनको	reformation	0	0	1	0
 रिफर्मेसनको	centre	0	0	1	0
-इमिरेट्स	east timor	0	0	1	0
-इमिरेट्स	pakistan	0	0	1	0
-इमिरेट्स	finland	0	0	1	0
-इमिरेट्स	england	0	0	1	0
-इमिरेट्स	mexico	0	0	1	0
-इमिरेट्स	clothings	0	0	1	0
-इमिरेट्स	germany(7.1%). whereas exports to india(47.5%)	0	0	1	0
-इमिरेट्स	india	0	0	1	0
-इमिरेट्स	north korea	0	0	1	0
-इमिरेट्स	malaysia	0	0	1	0
-इमिरेट्स	austria	0	0	1	0
-इमिरेट्स	china(10.7%)	0	0	1	0
-इमिरेट्स	republic indonesia	0	0	1	0
-इमिरेट्स	mongolia	0	0	1	0
-इमिरेट्स	which has made it the 83rd most economy. per-capita income is 1402 dollars and is in 163rd position. nepal's import is mainly: carpet	0	0	1	0
-इमिरेट्स	hungary	0	0	1	0
-इमिरेट्स	paraguay	0	0	1	0
-इमिरेट्स	usa(17.4%)	0	0	1	0
-इमिरेट्स	belarus	0	0	1	0
-इमिरेट्स	uae(11.2%)	0	0	1	0
-इमिरेट्स	uae	0	0	1	0
-इमिरेट्स	turkey	0	0	1	0
-इमिरेट्स	saudi arabia	0	0	1	0
-इमिरेट्स	america	0	0	1	0
-इमिरेट्स	saudi arabia(4.9%) and singapor(4%). countries that has visited 75 districts of nepal are afhganistan	0	0	1	0
-इमिरेट्स	bangladesh	0	0	1	0
-इमिरेट्स	bhutan	0	0	1	0
-इमिरेट्स	phillipines	0	0	1	0
-इमिरेट्स	srilanka	0	0	1	0
-इमिरेट्स	kirgisthan	0	0	1	0
-इमिरेट्स	nepal	0	0	1	0
-इमिरेट्स	cambodia	0	0	1	0
-इमिरेट्स	france	0	0	1	0
-इमिरेट्स	which is 2 billion dollars. nepal imports mainly from india(53.7%)	0	0	1	0
-इमिरेट्स	laos	0	0	1	0
-इमिरेट्स	south korea	0	0	1	0
-इमिरेट्स	norway	0	0	1	0
-इमिरेट्स	luxemburg	0	0	1	0
-इमिरेट्स	bahrain	0	0	1	0
-इमिरेट्स	brazil	0	0	1	0
-इमिरेट्स	israel	0	0	1	0
-इमिरेट्स	australia	0	0	1	0
-इमिरेट्स	iran	0	0	1	0
-इमिरेट्स	yaman	0	0	1	0
-इमिरेट्स	cuba	0	0	1	0
-इमिरेट्स	azarbaijan	0	0	1	0
-इमिरेट्स	georgia	0	0	1	0
-इमिरेट्स	qatar	0	0	1	0
-इमिरेट्स	cyprus	0	0	1	0
-इमिरेट्स	ubzekistan	0	0	1	0
-इमिरेट्स	maldives	0	0	1	0
-इमिरेट्स	jordan	0	0	1	0
-इमिरेट्स	jute and rice which contains 822 million dollars. whereas export is: gold	0	0	1	0
-इमिरेट्स	armenia	0	0	1	0
-इमिरेट्स	belgium	0	0	1	0
-इमिरेट्स	thailand	0	0	1	0
-इमिरेट्स	lebnan	0	0	1	0
-इमिरेट्स	iraq	0	0	1	0
-इमिरेट्स	japan	0	0	1	0
-इमिरेट्स	turkmenistan	0	0	1	0
-इमिरेट्स	petroleum and fertilizers	0	0	1	0
-इमिरेट्स	netherlands	0	0	1	0
-इमिरेट्स	china	0	0	1	0
-इमिरेट्स	leather products	0	0	1	0
-इमिरेट्स	kuwait	0	0	1	0
-इमिरेट्स	denmark	0	0	1	0
-इमिरेट्स	brunei	0	0	1	0
-इमिरेट्स	indonesia	0	0	1	0
-इमिरेट्स	tazikistan	0	0	1	0
-इमिरेट्स	the gdp for nepal in 2009 was thought to be more than 39 billion dollars	0	0	1	0
-इमिरेट्स	kazekistan.	0	0	1	0
-इमिरेट्स	singapor	0	0	1	0
-इमिरेट्स	sweden	0	0	1	0
-इमिरेट्स	vietnam	0	0	1	0
 इमिरेट्स	emirates	0	0	1	0
-इमिरेट्स	machinery	0	0	1	0
-इमिरेट्स	oman	0	0	1	0
-इमिरेट्स	switzerland	0	0	1	0
-इमिरेट्स	syria	0	0	1	0
-इमिरेट्स	kazekasthan	0	0	1	0
-इमिरेट्स	russia	0	0	1	0
-इमिरेट्स	burma	0	0	1	0
-इमिरेट्स	republic yaman. and the countries nepal has visites are india	0	0	1	0
-मनाउन	to celebrate	0	0	1	0
 मनाउन	celebrate	0	0	1	0
 मनाउन	manaun	0	0	1	0
 राणा	rana	0	0	1	0
@@ -16810,7 +16100,6 @@ $	(american dollar) $	0	0	1	0
 आकृति	shape	0	0	1	0
 आकृति	tolerance	0	0	1	0
 सर्वप्रथम	square mile	0	0	1	0
-सर्वप्रथम	first of all	0	0	1	0
 सर्वप्रथम	see you	0	0	1	0
 समुन्नत	develoved	0	0	1	0
 समुन्नत	rich	0	0	1	0
@@ -16826,11 +16115,9 @@ $	(american dollar) $	0	0	1	0
 निर्वासनमा	nirvasanma	0	0	1	0
 अर्थात्	and that is to say that	0	0	1	0
 अर्थात्	means	0	0	1	0
-पुर्‍याउने	available	0	0	1	0
 पुर्‍याउने	delivering	0	0	1	0
-अथवा	government	0	0	1	0
-अथवा	or	0	0	1	0
-अथवा	instead of	0	0	1	0
+सानमिगल	eagle	0	0	1	0
+सानमिगल	sanmiguel	0	0	1	0
 जनाअन्दोलन२	public movement	0	0	1	0
 जनाअन्दोलन२	people's revolution 2	0	0	1	0
 जोडदछ	join	0	0	1	0
@@ -16846,7 +16133,6 @@ $	(american dollar) $	0	0	1	0
 कान्तिपुर	kantipur	0	0	1	0
 बन्न	become	0	0	1	0
 बन्न	bann	0	0	1	0
-बन्न	forest	0	0	1	0
 स	sa	0	0	1	0
 गौरीशंकर	gaurishankar	0	0	1	0
 गौरीशंकर	gaurishankar (mountain)	0	0	1	0
@@ -16865,8 +16151,9 @@ $	(american dollar) $	0	0	1	0
 भाषाहरूमा	language	0	0	1	0
 तनहूँ	tanhun	0	0	1	0
 तनहूँ	that	0	0	1	0
-शुक्लमा	shuklama	0	0	1	0
-शुक्लमा	full moon side	0	0	1	0
+पुष्प	puspa	0	0	1	0
+पुष्प	pushpa	0	0	1	0
+पुष्प	flower	0	0	1	0
 रॉबर्ट	robert	0	0	1	0
 चढाई	invasion	0	0	1	0
 चढाई	attack	0	0	1	0
@@ -16901,7 +16188,6 @@ $	(american dollar) $	0	0	1	0
 काममा	multiparty	0	0	1	0
 व्यावहारिक	behavioural	0	0	1	0
 व्यावहारिक	general knowledge	0	0	1	0
-व्यावहारिक	late romances	0	0	1	0
 संस्थाहरूसँग	institution's	0	0	1	0
 संस्थाहरूसँग	organistion	0	0	1	0
 संस्थाहरूसँग	with institutes	0	0	1	0
@@ -16914,9 +16200,7 @@ $	(american dollar) $	0	0	1	0
 गान्धीवादी	gandhivadi	0	0	1	0
 गान्धीवादी	gandhivaadi	0	0	1	0
 चन्द्रघण्टा	chandraghanta	0	0	1	0
-चन्द्रघण्टा	satern	0	0	1	0
 राजनैतिक	political	0	0	1	0
-विविधतापूर्ण	diversified	0	0	1	0
 विविधतापूर्ण	diverse	0	0	1	0
 विविधतापूर्ण	full with diverisity	0	0	1	0
 व्याख्या	explanation	0	0	1	0
@@ -16934,7 +16218,6 @@ $	(american dollar) $	0	0	1	0
 उपप्रमुख	deputy chief	0	0	1	0
 वैज्ञानिकहरुले	scientist say	0	0	1	0
 वैज्ञानिकहरुले	scientist	0	0	1	0
-वैज्ञानिकहरुले	scientists	0	0	1	0
 वर्तमानमा	honesty	0	0	1	0
 वर्तमानमा	contemporary	0	0	1	0
 वर्तमानमा	presently	0	0	1	0
@@ -16942,10 +16225,8 @@ $	(american dollar) $	0	0	1	0
 महादेशहरू	mahadeshharu	0	0	1	0
 लाग्यो	taken	0	0	1	0
 लाग्यो	lagyo	0	0	1	0
-लाग्यो	was	0	0	1	0
 मातृभूमि	motherland	0	0	1	0
 मातृभूमि	matherland	0	0	1	0
-व्यंजनहरु	self	0	0	1	0
 व्यंजनहरु	vowels	0	0	1	0
 रोयल	royal	0	0	1	0
 छालामा	to arrive	0	0	1	0
@@ -16995,7 +16276,6 @@ $	(american dollar) $	0	0	1	0
 बिपन्नता	deprieve	0	0	1	0
 भौतिकी	physics	0	0	1	0
 भौतिकी	physical	0	0	1	0
-ब्रिन	brine	0	0	1	0
 ब्रिन	brin	0	0	1	0
 जसो	electricity	0	0	1	0
 जसो	just	0	0	1	0
@@ -17012,7 +16292,6 @@ $	(american dollar) $	0	0	1	0
 समकालीन	contemporary	0	0	1	0
 राख्न	west	0	0	1	0
 राख्न	rakhna	0	0	1	0
-राख्न	keep	0	0	1	0
 तिर्थस्थल	religious place	0	0	1	0
 तिर्थस्थल	holy place	0	0	1	0
 तिर्थस्थल	teerthsthal	0	0	1	0
@@ -17042,14 +16321,12 @@ $	(american dollar) $	0	0	1	0
 गणतन्त्र	gantantra	0	0	1	0
 निवेदन	rains	0	0	1	0
 निवेदन	aplication	0	0	1	0
-निवेदन	petition	0	0	1	0
 श्रेणीजीवनी	section: biography	0	0	1	0
 श्रेणीजीवनी	class: life	0	0	1	0
 मनाइन्छ	blindness	0	0	1	0
 मनाइन्छ	celebrated	0	0	1	0
 विक्रम	bikram	0	0	1	0
 विक्रम	prostrate	0	0	1	0
-विक्रम	vikram era	0	0	1	0
 हुदैछ	is happening	0	0	1	0
 हुदैछ	is	0	0	1	0
 आवाहनं	call	0	0	1	0
@@ -17061,7 +16338,6 @@ $	(american dollar) $	0	0	1	0
 हुदैन	tomato	0	0	1	0
 हुदैन	hudain	0	0	1	0
 लेगुवा	leguwa (small river)	0	0	1	0
-लेगुवा	leguwa	0	0	1	0
 लेगुवा	legua	0	0	1	0
 गोरखा	gorkha	0	0	1	0
 गोरखा	gorakha	0	0	1	0
@@ -17081,7 +16357,6 @@ $	(american dollar) $	0	0	1	0
 संस्था	sanstha	0	0	1	0
 संस्था	organisation	0	0	1	0
 संस्था	establishment	0	0	1	0
-सुधार	sudhar	0	0	1	0
 सुधार	emprove	0	0	1	0
 सुधार	improve	0	0	1	0
 प्रावि	pravi	0	0	1	0
@@ -17092,7 +16367,6 @@ $	(american dollar) $	0	0	1	0
 शामिल	shamil	0	0	1	0
 शामिल	include	0	0	1	0
 शामिल	put in	0	0	1	0
-ब्लेअर	blair	0	0	1	0
 ब्लेअर	blare	0	0	1	0
 बोलिने	spoken	0	0	1	0
 बोलिने	necessity	0	0	1	0
@@ -17102,7 +16376,6 @@ $	(american dollar) $	0	0	1	0
 टूरिज्मका	of tourism	0	0	1	0
 अघिसम्म	adhisamm	0	0	1	0
 अघिसम्म	before	0	0	1	0
-रामेछापमा	in ramechhap (a place in nepal)	0	0	1	0
 रामेछापमा	ramechapma	0	0	1	0
 रामेछापमा	ramechhap	0	0	1	0
 सबैले	all	0	0	1	0
@@ -17113,7 +16386,6 @@ $	(american dollar) $	0	0	1	0
 हुनसक्दछन्	may be	0	0	1	0
 हुनसक्दछन्	can	0	0	1	0
 हुनसक्दछन्	occurred	0	0	1	0
-भूटानको	of bhutan	0	0	1	0
 भूटानको	of  bhutan	0	0	1	0
 भूटानको	bhutan's	0	0	1	0
 फेदाङमा	phedang	0	0	1	0
@@ -17142,7 +16414,6 @@ $	(american dollar) $	0	0	1	0
 नर्सिङ	nrsid	0	0	1	0
 नर्सिङ	nursing	0	0	1	0
 नर्सिङ	narsid	0	0	1	0
-हिमालले	by hiamalaya	0	0	1	0
 हिमालले	mountain	0	0	1	0
 हिमालले	by himalaya	0	0	1	0
 टेक्सटाइल	textile	0	0	1	0
@@ -17150,7 +16421,6 @@ $	(american dollar) $	0	0	1	0
 भैरव	bhairab (part of a person's name)	0	0	1	0
 भैरव	bhairav	0	0	1	0
 झाक्री	tableau	0	0	1	0
-झाक्री	jhankri	0	0	1	0
 हजारौ	thousands	0	0	1	0
 हजारौ	in childhood	0	0	1	0
 गाविसहरुबाट	from ga vi sa (short form of gaon vikash samittee meaning village development committee)	0	0	1	0
@@ -17193,9 +16463,8 @@ $	(american dollar) $	0	0	1	0
 हौ	barbarian	0	0	1	0
 परमाणु	article	0	0	1	0
 परमाणु	atom	0	0	1	0
-संक्षेपको	summary	0	0	1	0
 संक्षेपको	brief	0	0	1	0
-संक्षेपको	of summary	0	0	1	0
+संक्षेपको	summary	0	0	1	0
 खोजि	search	0	0	1	0
 खोजि	khoji	0	0	1	0
 एंड	and	0	0	1	0
@@ -17233,10 +16502,7 @@ $	(american dollar) $	0	0	1	0
 पुर्खाले	by ancestors	0	0	1	0
 पुर्खाले	purkhole	0	0	1	0
 यसैगरी	likewise	0	0	1	0
-यसैगरी	in this way	0	0	1	0
-यसैगरी	yasaigari	0	0	1	0
 हक	adhering	0	0	1	0
-हक	where	0	0	1	0
 हक	rights	0	0	1	0
 रहिआएको	remain	0	0	1	0
 रहिआएको	rahiayiko	0	0	1	0
@@ -17280,7 +16546,6 @@ $	(american dollar) $	0	0	1	0
 कोष्टकमा	in bracket	0	0	1	0
 उन्नति	development	0	0	1	0
 उन्नति	progress	0	0	1	0
-उन्नति	ascent	0	0	1	0
 अर्का	other	0	0	1	0
 अर्का	arka	0	0	1	0
 अर्का	another	0	0	1	0
@@ -17303,7 +16568,6 @@ $	(american dollar) $	0	0	1	0
 पाइंदैन	cannot get	0	0	1	0
 विजयादशमीको	vijaya dashami	0	0	1	0
 विजयादशमीको	of bijayadashami (nepali festival)	0	0	1	0
-विजयादशमीको	vijayaadhashamiko	0	0	1	0
 रक्तको	of blood	0	0	1	0
 रक्तको	rakhtako	0	0	1	0
 रक्तको	in blood	0	0	1	0
@@ -17330,7 +16594,6 @@ $	(american dollar) $	0	0	1	0
 टेली	tele	0	0	1	0
 इन्साइक्लोपीडिया	encyclopedia	0	0	1	0
 सहितको	with	0	0	1	0
-सहितको	sahithkho	0	0	1	0
 सहितको	including	0	0	1	0
 आर्यहरुको	of aryans    (a cast)	0	0	1	0
 आर्यहरुको	aryans	0	0	1	0
@@ -17341,7 +16604,6 @@ $	(american dollar) $	0	0	1	0
 नैतिको	naitiko	0	0	1	0
 नैतिको	of policy	0	0	1	0
 वर्षौं	years	0	0	1	0
-वर्षौं	year	0	0	1	0
 शरीर	body	0	0	1	0
 शरीर	shareer	0	0	1	0
 शान्ति	peace	0	0	1	0
@@ -17349,7 +16611,6 @@ $	(american dollar) $	0	0	1	0
 विश्वका	of world	0	0	1	0
 विश्वका	world's	0	0	1	0
 पहिचान	identify	0	0	1	0
-पहिचान	identity	0	0	1	0
 सक्रियता	activeness	0	0	1	0
 सक्रियता	activity	0	0	1	0
 बिन्ति	to increase	0	0	1	0
@@ -17365,7 +16626,6 @@ $	(american dollar) $	0	0	1	0
 आश्चर्यकै	fingerprint	0	0	1	0
 आश्चर्यकै	wonder	0	0	1	0
 जोर	stress	0	0	1	0
-जोर	pairs	0	0	1	0
 जोर	petrarch	0	0	1	0
 प्रस्ताव	demonstrative pronoun	0	0	1	0
 प्रस्ताव	proposal	0	0	1	0
@@ -17405,7 +16665,6 @@ $	(american dollar) $	0	0	1	0
 सांस्कृतिक	cultural	0	0	1	0
 गती	speed	0	0	1	0
 बिन्ती	request	0	0	1	0
-सकेपछि	completing	0	0	1	0
 सकेपछि	to meet	0	0	1	0
 गते	day	0	0	1	0
 गते	dated	0	0	1	0
@@ -17421,7 +16680,6 @@ $	(american dollar) $	0	0	1	0
 कानूनले	by law	0	0	1	0
 कानूनले	law	0	0	1	0
 सेतो	white	0	0	1	0
-सेतो	setho	0	0	1	0
 यसपछि	after this	0	0	1	0
 यसपछि	dark skinned human being	0	0	1	0
 यसपछि	period	0	0	1	0
@@ -17478,16 +16736,13 @@ $	(american dollar) $	0	0	1	0
 उत्तरार्धमा	on last time	0	0	1	0
 मच्चाएका	machayeka	0	0	1	0
 मच्चाएका	run	0	0	1	0
-मच्चाएका	initiated	0	0	1	0
 प्रस्तावित	proposed	0	0	1	0
 प्रस्तावित	no	0	0	1	0
-तलब	salary	0	0	1	0
 तलब	ocean	0	0	1	0
 नियुक्ति	appointer	0	0	1	0
 नियुक्ति	exists	0	0	1	0
 अदोनिस	adonis	0	0	1	0
 अदोनिस	adonis - name	0	0	1	0
-अध्ययनमा	study	0	0	1	0
 अध्ययनमा	education	0	0	1	0
 अध्ययनमा	personality	0	0	1	0
 क्यानाडा	canada	0	0	1	0
@@ -17501,7 +16756,6 @@ $	(american dollar) $	0	0	1	0
 रातको	night	0	0	1	0
 कार्यकाल	work period	0	0	1	0
 कार्यकाल	office	0	0	1	0
-कार्यकाल	work term	0	0	1	0
 भूभाग	teritory	0	0	1	0
 भूभाग	land	0	0	1	0
 लेखाजोखा	nutrition	0	0	1	0
@@ -17521,7 +16775,6 @@ $	(american dollar) $	0	0	1	0
 दसैंको	dasaiko	0	0	1	0
 दसैंको	i don't know	0	0	1	0
 दसैंको	dashain	0	0	1	0
-संविधान	constitution	0	0	1	0
 भदौरे	bhadaure	0	0	1	0
 भदौरे	bhadaore	0	0	1	0
 सहमत	sahmat	0	0	1	0
@@ -17595,7 +16848,6 @@ $	(american dollar) $	0	0	1	0
 देवीलाई	to goddess	0	0	1	0
 रामघाट	ram gath	0	0	1	0
 रामघाट	ramghat	0	0	1	0
-व्यक्तिको	of person	0	0	1	0
 व्यक्तिको	individual	0	0	1	0
 व्यक्तिको	people	0	0	1	0
 उसका	his	0	0	1	0
@@ -17610,7 +16862,6 @@ $	(american dollar) $	0	0	1	0
 सत्ता	ruling	0	0	1	0
 सत्ता	power	0	0	1	0
 जा	ja	0	0	1	0
-जा	can be	0	0	1	0
 नब्बेऔं	90th	0	0	1	0
 बास्केटबल	basketball	0	0	1	0
 जस	that	0	0	1	0
@@ -17664,10 +16915,8 @@ $	(american dollar) $	0	0	1	0
 हृदयशास्त्र	to be	1	0	1	0
 हृदयशास्त्र	to play football	1	0	1	0
 जलसंतृप्त	having full of eater	0	0	1	0
-जलसंतृप्त	water saturated	0	0	1	0
 बजेट	budget	0	0	1	0
 जय	jaya	0	0	1	0
-जय	victory	0	0	1	0
 जय	glory	0	0	1	0
 जब	now	0	0	1	0
 जब	when	0	0	1	0
@@ -17696,7 +16945,6 @@ $	(american dollar) $	0	0	1	0
 तीर्थस्थलहरू	religious places	0	0	1	0
 पाइला	foot	0	0	1	0
 पाइला	payila	0	0	1	0
-उनीहरुका	of them	0	0	1	0
 उनीहरुका	those people	0	0	1	0
 दर्जन	dozen	0	0	1	0
 धार्मिक	dharmik	0	0	1	0
@@ -17741,12 +16989,8 @@ $	(american dollar) $	0	0	1	0
 गुफाहरु	tunnel	0	0	1	0
 गुफाहरु	gufaharu	0	0	1	0
 गुफाहरु	caves	0	0	1	0
-उपक्षेत्र	subregion	0	0	1	0
 उपक्षेत्र	sub	0	0	1	0
 उपक्षेत्र	upkshetra	0	0	1	0
-गाउँघर	villagehouse	0	0	1	0
-गाउँघर	ghaumghar	0	0	1	0
-गाउँघर	villages	0	0	1	0
 उनीहरुकै	theirs	0	0	1	0
 उनीहरुकै	unhi hre ke	0	0	1	0
 उनीहरुकै	their	0	0	1	0
@@ -17759,7 +17003,6 @@ $	(american dollar) $	0	0	1	0
 उनीहरुको	they	0	0	1	0
 विभिन्न	different	0	0	1	0
 विभिन्न	various	0	0	1	0
-महादेवको	mahadevako	0	0	1	0
 महादेवको	lord shiva's	0	0	1	0
 महादेवको	mahadev	0	0	1	0
 सुमधुर	cordial	0	0	1	0
@@ -17771,7 +17014,6 @@ $	(american dollar) $	0	0	1	0
 छ|	cha	0	0	1	0
 छ|	is	0	0	1	0
 सम्बन्धमा	in relation	0	0	1	0
-सम्बन्धमा	about	0	0	1	0
 सम्बन्धमा	relation	0	0	1	0
 वर्ष	year	0	0	1	0
 वर्ष	years	0	0	1	0
@@ -17784,7 +17026,6 @@ $	(american dollar) $	0	0	1	0
 उपत्यकामा	valley	0	0	1	0
 उपत्यकामा	in valley	0	0	1	0
 क्यानाडाको	canada	0	0	1	0
-क्यानाडाको	of canada	0	0	1	0
 फ्रान्स	european country	0	0	1	0
 फ्रान्स	france	0	0	1	0
 रहन्छ	do	0	0	1	0
@@ -17798,8 +17039,6 @@ $	(american dollar) $	0	0	1	0
 जानकारीको	for information	0	0	1	0
 जानकारीको	invention	0	0	1	0
 जानकारीको	of knowledge	0	0	1	0
-पठार	plains	0	0	1	0
-पठार	pataar	0	0	1	0
 पठार	pathar	0	0	1	0
 सामरी	saamari (a village in nepal)	0	0	1	0
 सामरी	samari	0	0	1	0
@@ -17836,10 +17075,8 @@ $	(american dollar) $	0	0	1	0
 यिनका	life is simple and easy in nepal	0	0	1	0
 धान	rice	0	0	1	0
 धान	paddy	0	0	1	0
-धाम	dham (sacred place)	0	0	1	0
 धाम	condition	0	0	1	0
 धाम	dham	0	0	1	0
-अनुसन्धानकर्ता	researcher	0	0	1	0
 अनुसन्धानकर्ता	investigators	0	0	1	0
 अनुसन्धानकर्ता	investigator	0	0	1	0
 १९७४मा	in 1974	0	0	1	0
@@ -17886,18 +17123,15 @@ $	(american dollar) $	0	0	1	0
 एकाइ	unit	0	0	1	0
 आइसहक्की	ice hockey	0	0	1	0
 लिया	take	0	0	1	0
-छाता	umbrella	0	0	1	0
-छाता	roof	0	0	1	0
-देवल	wall	0	0	1	0
+विनाश	planet	0	0	1	0
+विनाश	destroy	0	0	1	0
+विनाश	destruction	0	0	1	0
 देवल	shikhar	0	0	1	0
 देवल	temple	0	0	1	0
 घाँटीमा	to support	0	0	1	0
 घाँटीमा	in throat	0	0	1	0
 सरे	shifted	0	0	1	0
-सरे	street	0	0	1	0
-द्वितीय	second	0	0	1	0
 तिथी	date	0	0	1	0
-तिथी	thithi	0	0	1	0
 हमला	attack	0	0	1	0
 मात्रै	mathrai	0	0	1	0
 मात्रै	only	0	0	1	0
@@ -17943,7 +17177,6 @@ $	(american dollar) $	0	0	1	0
 लियो	took	0	0	1	0
 लियो	non-honorific	0	0	1	0
 परिणत	parinat	0	0	1	0
-परिणत	transform	0	0	1	0
 परिणत	parinath	0	0	1	0
 विसर्जन	disposal	0	0	1	0
 विसर्जन	visarjan	0	0	1	0
@@ -17966,14 +17199,12 @@ $	(american dollar) $	0	0	1	0
 व्यापक	extensive	0	0	1	0
 व्यापक	abundant	0	0	1	0
 व्यापक	vyapak	0	0	1	0
-नामले	by name	0	0	1	0
 नामले	name	0	0	1	0
 क्षेत्रले	those close to oneself	0	0	1	0
 क्षेत्रले	by the region	0	0	1	0
 क्षेत्रले	result	0	0	1	0
 हंगेरियाई	hungarian	0	0	1	0
 होइन	aren't	0	0	1	0
-होइन	isn't	0	0	1	0
 होइन	no	0	0	1	0
 भारती	people of india	0	0	1	0
 भारती	bharati	0	0	1	0
@@ -18036,7 +17267,6 @@ $	(american dollar) $	0	0	1	0
 २२	22	0	0	1	0
 २३	twenty three	0	0	1	0
 २३	23	0	0	1	0
-२८	twenty eight	0	0	1	0
 २८	27	0	0	1	0
 २८	28	0	0	1	0
 २९	29	0	0	1	0
@@ -18087,14 +17317,14 @@ $	(american dollar) $	0	0	1	0
 जोडने	join	0	0	1	0
 ३८	38	0	0	1	0
 ३८	thirty eight	0	0	1	0
-जाम्बिया	zambia	0	0	1	0
+पञ्चकन्या	panch kanya - name	0	0	1	0
+पञ्चकन्या	panchkanya	0	0	1	0
 घरधुरी	household	0	0	1	0
 घरधुरी	to cause to play	0	0	1	0
 ३१	thiryt one	0	0	1	0
 ३१	31	0	0	1	0
 ३०	30	0	0	1	0
 ३०	democratical	0	0	1	0
-तिनले	by them	0	0	1	0
 तिनले	chicago	0	0	1	0
 देउवाले	deuwale	0	0	1	0
 देउवाले	deuba	0	0	1	0
@@ -18142,7 +17372,6 @@ $	(american dollar) $	0	0	1	0
 अधिराजकुमार	crown prince	0	0	1	0
 अधिराजकुमार	royal son of king	0	0	1	0
 अधिराजकुमार	often	0	0	1	0
-निवारण	clear	0	0	1	0
 निवारण	relief	0	0	1	0
 उपायहरू	upayharu	0	0	1	0
 उपायहरू	ideas	0	0	1	0
@@ -18157,13 +17386,11 @@ $	(american dollar) $	0	0	1	0
 हरण	abduct	0	0	1	0
 हरण	kidnap	0	0	1	0
 हरण	haran	0	0	1	0
-यशु	jesus	0	0	1	0
 यशु	yashu	0	0	1	0
-यशु	christ	0	0	1	0
+यशु	jesus	0	0	1	0
 १९९७मा	in 1997	0	0	1	0
 १९९७मा	during 1997	0	0	1	0
 परजीवीको	firefly	0	0	1	0
-परजीवीको	work place	0	0	1	0
 परजीवीको	foreign bodies	0	0	1	0
 सहभागिताको	involvment	0	0	1	0
 सहभागिताको	participation	0	0	1	0
@@ -18190,7 +17417,6 @@ $	(american dollar) $	0	0	1	0
 शहिद	martyr	0	0	1	0
 शहिद	one who sacrifice himself	0	0	1	0
 प्रधानमन्त्री	primeminister	0	0	1	0
-प्रधानमन्त्री	prime minister	0	0	1	0
 वाला	to	0	0	1	0
 महिषासुर	devil	0	0	1	0
 महिषासुर	fancy	0	0	1	0
@@ -18204,7 +17430,6 @@ $	(american dollar) $	0	0	1	0
 वेदिङ्ग	vedinga	0	0	1	0
 वेदिङ्ग	beding	0	0	1	0
 बरफपिण्ड	iceberg	0	0	1	0
-बरफपिण्ड	icemass	0	0	1	0
 सरोवर	sarovar (pond) of man sarovar	0	0	1	0
 सरोवर	sarobar	0	0	1	0
 सरोवर	sarovar	0	0	1	0
@@ -18212,7 +17437,6 @@ $	(american dollar) $	0	0	1	0
 हिन्दूहरुको	hinduharuko	0	0	1	0
 हिन्दूहरुको	hindus'	0	0	1	0
 हिन्दूहरुको	of hindus	0	0	1	0
-यस्ता	this type	0	0	1	0
 यस्ता	like this	0	0	1	0
 रामपुर	rampur	0	0	1	0
 अमेरिकन	american	0	0	1	0
@@ -18236,8 +17460,8 @@ $	(american dollar) $	0	0	1	0
 ठाउं	place	0	0	1	0
 ठाउं	location	0	0	1	0
 तुलनामा	tulnama	0	0	1	0
-तुलनामा	in comparison to	0	0	1	0
 तुलनामा	comparision	0	0	1	0
+तुलनामा	in comparison to	0	0	1	0
 प्रचलित	famous	0	0	1	0
 प्रचलित	in practice	0	0	1	0
 प्रचलित	prevail	0	0	1	0
@@ -18262,7 +17486,6 @@ $	(american dollar) $	0	0	1	0
 सधैं	sadai	0	0	1	0
 सधैं	thin	0	0	1	0
 सूर्यास्तको	sunset	0	0	1	0
-सूर्यास्तको	sun-set	0	0	1	0
 सूर्यास्तको	of unset	0	0	1	0
 कमीलाई	deficiency	0	0	1	0
 कमीलाई	lack	0	0	1	0
@@ -18290,15 +17513,14 @@ $	(american dollar) $	0	0	1	0
 मन्दिरसक्रान्ति	temple sankrant	0	0	1	0
 सर्वेक्षण	survey	0	0	1	0
 लामो	long	0	0	1	0
-गरिंदा	did	0	0	1	0
 गरिंदा	done	0	0	1	0
 गरिंदा	garinda	0	0	1	0
 धर्मावलम्बीहरुका	religeous	0	0	1	0
 धर्मावलम्बीहरुका	religion followers	0	0	1	0
 धर्मावलम्बीहरुका	religiosity	0	0	1	0
-सानमिगल	eagle	0	0	1	0
-सानमिगल	sanmeaguel	0	0	1	0
-सानमिगल	sanmiguel	0	0	1	0
+अथवा	government	0	0	1	0
+अथवा	or	0	0	1	0
+अथवा	instead of	0	0	1	0
 अवश्य	sure	0	0	1	0
 अवश्य	essential	0	0	1	0
 अवश्य	compulsory	0	0	1	0
@@ -18306,7 +17528,6 @@ $	(american dollar) $	0	0	1	0
 सौर्यमण्डलमा	solarsystem	0	0	1	0
 सौर्यमण्डलमा	in solar system	0	0	1	0
 मित्रदेशहरू	friend country	0	0	1	0
-मित्रदेशहरू	friend countries	0	0	1	0
 मित्रदेशहरू	mitradeshharu	0	0	1	0
 ग्रिस	greece	0	0	1	0
 अपुग	unreached	0	0	1	0
@@ -18337,7 +17558,6 @@ $	(american dollar) $	0	0	1	0
 बिक्री	sell	0	0	1	0
 बिक्री	bikree	0	0	1	0
 बिक्री	sale	0	0	1	0
-हैन	is	0	0	1	0
 हैन	isn't	0	0	1	0
 हैन	no	0	0	1	0
 तालहरू	noddle	0	0	1	0
@@ -18365,7 +17585,6 @@ $	(american dollar) $	0	0	1	0
 देउमाई	deumai	0	0	1	0
 अङ्ग्रेज	steepness	0	0	1	0
 अङ्ग्रेज	english	0	0	1	0
-आदिबासी	adibaasi	0	0	1	0
 आदिबासी	aboriginal	0	0	1	0
 नीजि	personal	0	0	1	0
 नीजि	private	0	0	1	0
@@ -18390,7 +17609,6 @@ $	(american dollar) $	0	0	1	0
 विकासोन्मुख	growth oriented	0	0	1	0
 विकासोन्मुख	developing	0	0	1	0
 कार्यरत	employed	0	0	1	0
-कार्यरत	working	0	0	1	0
 पण्डित	pandit	0	0	1	0
 पण्डित	pundit	0	0	1	0
 नदीहरूमा	river	0	0	1	0
@@ -18427,6 +17645,9 @@ $	(american dollar) $	0	0	1	0
 शब्दहरू	shabdharu	0	0	1	0
 एडिसन	edison	0	0	1	0
 एडिसन	adison	0	0	1	0
+सुन्न	deserted	0	0	1	0
+सुन्न	hear	0	0	1	0
+सुन्न	sunan	0	0	1	0
 हप्ताको	week	0	0	1	0
 हप्ताको	of week	0	0	1	0
 १८४९	1849	0	0	1	0
@@ -18437,7 +17658,6 @@ $	(american dollar) $	0	0	1	0
 सबट्रपिकल	subtropical	0	0	1	0
 सबट्रपिकल	sub-tropical	0	0	1	0
 हवाको	of wind	0	0	1	0
-हवाको	of air	0	0	1	0
 हवाको	air	0	0	1	0
 वंशलाई	vnshlai	0	0	1	0
 वंशलाई	dynasty	0	0	1	0
@@ -18445,11 +17665,10 @@ $	(american dollar) $	0	0	1	0
 गोरखालाई	gorkha's were	0	0	1	0
 गोरखालाई	former	0	0	1	0
 राष्ट्र	nation	0	0	1	0
-सम्पदा	sampada	0	0	1	0
 सम्पदा	resources	0	0	1	0
+सम्पदा	sampada	0	0	1	0
 सम्पदा	heritage	0	0	1	0
 मानेका	assume	0	0	1	0
-मानेका	considered	0	0	1	0
 मानेका	accepted	0	0	1	0
 आयोगको	aayogko	0	0	1	0
 आयोगको	comission	0	0	1	0
@@ -18490,7 +17709,6 @@ $	(american dollar) $	0	0	1	0
 लेखलाई	leklai	0	0	1	0
 लेखलाई	article	0	0	1	0
 लेखलाई	free from debt	0	0	1	0
-उदाएको	rise	0	0	1	0
 उदाएको	risen	0	0	1	0
 विकीपुस्तक	wikibook	0	0	1	0
 विकीपुस्तक	wikibooks	0	0	1	0
@@ -18499,9 +17717,7 @@ $	(american dollar) $	0	0	1	0
 चलचित्रका	cinema	0	0	1	0
 ल्याटिन	latin	0	0	1	0
 धर्मका	religion	0	0	1	0
-विनाश	planet	0	0	1	0
-विनाश	destroy	0	0	1	0
-विनाश	destruction	0	0	1	0
+छाता	roof	0	0	1	0
 काबेली	what told	0	0	1	0
 काबेली	kabeli	0	0	1	0
 यिनको	his or her	0	0	1	0
@@ -18518,7 +17734,6 @@ $	(american dollar) $	0	0	1	0
 बिदा	to leave	0	0	1	0
 बिदा	holiday	0	0	1	0
 नवकोट	navakot	0	0	1	0
-नवकोट	navkot	0	0	1	0
 कृतिका	writings	0	0	1	0
 कृतिका	composing	0	0	1	0
 कृतिका	of composition	0	0	1	0
@@ -18529,13 +17744,11 @@ $	(american dollar) $	0	0	1	0
 मनसूनको	of monsoon	0	0	1	0
 बाहेक	except	0	0	1	0
 बाहेक	excluding	0	0	1	0
-अकारयुक्त	with shape	0	0	1	0
 अकारयुक्त	shaped	0	0	1	0
 जुटाइ	collect	0	0	1	0
 प्रबिधी	management	0	0	1	0
 प्रबिधी	technology	0	0	1	0
 भन्छन्	say	0	0	1	0
-भन्छन्	bhanchan	0	0	1	0
 भन्छन्	known as	0	0	1	0
 तपाईं	heat	0	0	1	0
 तपाईं	you	0	0	1	0
@@ -18550,7 +17763,6 @@ $	(american dollar) $	0	0	1	0
 यथाशक्ति	as for example	0	0	1	0
 कपाल	hair	0	0	1	0
 वाल्यकाल	childhood	0	0	1	0
-विमानस्थलको	of airport	0	0	1	0
 विमानस्थलको	airport	0	0	1	0
 विमानस्थलको	responsibility	0	0	1	0
 कंग्रेस	congress	0	0	1	0
@@ -18572,7 +17784,6 @@ $	(american dollar) $	0	0	1	0
 कुश्मीशेरा	khushmishera	0	0	1	0
 फरवरी	february	0	0	1	0
 चित्तल	leopard	0	0	1	0
-आएर	arriving	0	0	1	0
 आएर	river	0	0	1	0
 बेतिनी	betini	0	0	1	0
 सरेको	shifted	0	0	1	0
@@ -18590,7 +17801,6 @@ $	(american dollar) $	0	0	1	0
 मध्य	madya	0	0	1	0
 विनिमय	vinimay	0	0	1	0
 विनिमय	exchange	0	0	1	0
-मुक्ति	release	0	0	1	0
 मुक्ति	discharge	0	0	1	0
 मुक्ति	freedom	0	0	1	0
 ठाँउमा	places	0	0	1	0
@@ -18660,7 +17870,6 @@ $	(american dollar) $	0	0	1	0
 रण	rana	0	0	1	0
 व	and	0	0	1	0
 व	va	0	0	1	0
-मानिन्छ	thought	0	0	1	0
 मानिन्छ	maniche	0	0	1	0
 रथ	chariot	0	0	1	0
 रथ	cart	0	0	1	0
@@ -18690,7 +17899,6 @@ $	(american dollar) $	0	0	1	0
 रु	ru	0	0	1	0
 रु	rupee	0	0	1	0
 रे	re	0	0	1	0
-रचनामा	writing new things	0	0	1	0
 रचनामा	cooperative society	0	0	1	0
 रचनामा	composition	0	0	1	0
 भैरहवाको	bhairavako	0	0	1	0
@@ -18747,9 +17955,8 @@ $	(american dollar) $	0	0	1	0
 पूर्वाञ्चलको	purawakari	0	0	1	0
 सिद्धान्त	theory	0	0	1	0
 सिद्धान्त	principle	0	0	1	0
-छुट्टै	city of fine arts	0	0	1	0
 छुट्टै	change	0	0	1	0
-छुट्टै	separate	0	0	1	0
+छुट्टै	city of fine arts	0	0	1	0
 जिवनको	life	0	0	1	0
 जिवनको	of life	0	0	1	0
 रविन	ravin	0	0	1	0
@@ -18757,13 +17964,11 @@ $	(american dollar) $	0	0	1	0
 रविन	rabin	0	0	1	0
 नामावली	namelist	0	0	1	0
 नामावली	name list	0	0	1	0
-नामावली	namavali	0	0	1	0
 भन्नाले	authorised	0	0	1	0
 भन्नाले	saying	0	0	1	0
 आयुर्वेदिक	ayurvedic (hindu way of medicine)	0	0	1	0
 आयुर्वेदिक	ayurvedic	0	0	1	0
 संख्या	samkya	0	0	1	0
-संख्या	number	0	0	1	0
 संख्या	quantity	0	0	1	0
 राजाको	king	0	0	1	0
 काखमा	in lap	0	0	1	0
@@ -18774,7 +17979,6 @@ $	(american dollar) $	0	0	1	0
 मानिएको	maaniyko	0	0	1	0
 आँखा	eye	0	0	1	0
 उपत्यकाभित्र	upuptkaty	0	0	1	0
-उपत्यकाभित्र	inside	0	0	1	0
 उपत्यकाभित्र	inside valley	0	0	1	0
 टावर	tower	0	0	1	0
 सोह्र	sixteen	0	0	1	0
@@ -18782,9 +17986,8 @@ $	(american dollar) $	0	0	1	0
 साधन	device	0	0	1	0
 साधन	tools	0	0	1	0
 साधन	resources	0	0	1	0
-जनताहरू	permission	0	0	1	0
 जनताहरू	citizens	0	0	1	0
-जनताहरू	peoples	0	0	1	0
+जनताहरू	permission	0	0	1	0
 भूभागले	land	0	0	1	0
 भूभागले	terrain	0	0	1	0
 भूभागले	bhoobaghle	0	0	1	0
@@ -18813,7 +18016,6 @@ $	(american dollar) $	0	0	1	0
 फर्किए	nepali wikipedia promotion campagn	0	0	1	0
 फर्किए	foreigner	0	0	1	0
 फर्किए	return	0	0	1	0
-गणेशबहादुर	ganesh bahadur	0	0	1	0
 गणेशबहादुर	ganeshbahadur	0	0	1	0
 गणेशबहादुर	ganesh bahadur  - name	0	0	1	0
 खाली	clear	0	0	1	0
@@ -18892,7 +18094,6 @@ $	(american dollar) $	0	0	1	0
 लेखिन्छन्	written	0	0	1	0
 लेखिन्छन्	writing	0	0	1	0
 श्रेणीनारायणीको	category narayani	0	0	1	0
-श्रेणीनारायणीको	class:narayani	0	0	1	0
 श्रेणीनारायणीको	sherinarayan	0	0	1	0
 कई	many	0	0	1	0
 कई	some	0	0	1	0
@@ -18929,7 +18130,6 @@ $	(american dollar) $	0	0	1	0
 समुदायका	community	0	0	1	0
 मंच	arena	0	0	1	0
 मंच	forum	0	0	1	0
-मंच	stage	0	0	1	0
 अपनाइएको	accepted	0	0	1	0
 अपनाइएको	adopted	0	0	1	0
 कम्प्युटरहरु	computer	0	0	1	0
@@ -18954,13 +18154,11 @@ $	(american dollar) $	0	0	1	0
 देखा	opinion	0	0	1	0
 देखा	dekha	0	0	1	0
 देखा	seen	0	0	1	0
-गरबा	garba (a folk dance of india)	0	0	1	0
-गरबा	garba	0	0	1	0
 गरबा	indifferent	0	0	1	0
+गरबा	garba	0	0	1	0
 साहित्यका	literature	0	0	1	0
 वरिपरि	around	0	0	1	0
 रुपैयाँको	rupees	0	0	1	0
-रुपैयाँको	of rupee	0	0	1	0
 रुपैयाँको	of rupees	0	0	1	0
 २०१८	2018	0	0	1	0
 गरियो|	gariyo	0	0	1	0
@@ -18980,16 +18178,15 @@ $	(american dollar) $	0	0	1	0
 खान्छन्	eat	0	0	1	0
 तिब्बतीहरू	tibetans	0	0	1	0
 तिब्बतीहरू	tibetians	0	0	1	0
-रोग	rogue	0	0	1	0
-रोग	disease	0	0	1	0
+मेजर	major	0	0	1	0
 नपाईने	not get	0	0	1	0
 नपाईने	dont get	0	0	1	0
 नपाईने	napayine	0	0	1	0
 वंश	clan	0	0	1	0
 वंश	touring	0	0	1	0
 वंश	dynasty	0	0	1	0
-रोज	daily	0	0	1	0
-रोज	time	0	0	1	0
+थिएनन्	where did you sleep?	0	0	1	0
+थिएनन्	was not	0	0	1	0
 कमलामाई	kamalamai - name	0	0	1	0
 कमलामाई	kamalamai	0	0	1	0
 आक्रमणको	attack	0	0	1	0
@@ -19029,7 +18226,6 @@ $	(american dollar) $	0	0	1	0
 पाख्रिबास	pakhribas	0	0	1	0
 पाख्रिबास	pakhribas  (a place in nepal)	0	0	1	0
 कुँवर	kunwar	0	0	1	0
-कुँवर	prince	0	0	1	0
 कुँवर	kunvar	0	0	1	0
 रोम	rome	0	0	1	0
 गराएको	made to do	0	0	1	0
@@ -19057,8 +18253,8 @@ $	(american dollar) $	0	0	1	0
 कृतिहरु	krutiharu	0	0	1	0
 कृतिहरु	books	0	0	1	0
 कृतिहरु	third	0	0	1	0
-स्वर्गीय	late	0	0	1	0
 स्वर्गीय	heavenly	0	0	1	0
+स्वर्गीय	late	0	0	1	0
 शर्मा	sharma	0	0	1	0
 खाना	food	0	0	1	0
 प्रलय	pralay	0	0	1	0
@@ -19079,7 +18275,6 @@ $	(american dollar) $	0	0	1	0
 जिग्मे	jigme	0	0	1	0
 जिग्मे	where is it?	0	0	1	0
 जनताले	public	0	0	1	0
-जनताले	janthale	0	0	1	0
 जनताले	citizen	0	0	1	0
 इच्छा	criticism	0	0	1	0
 इच्छा	wish	0	0	1	0
@@ -19115,8 +18310,8 @@ $	(american dollar) $	0	0	1	0
 प्रतिस्पर्धाको	pratispardhako	0	0	1	0
 प्रतिस्पर्धाको	competition	0	0	1	0
 पर्नेछ	have to	0	0	1	0
-संसारमा	world	0	0	1	0
 संसारमा	in world	0	0	1	0
+संसारमा	world	0	0	1	0
 हिन्द	indian	0	0	1	0
 हिन्द	hindi	0	0	1	0
 उन	wool	0	0	1	0
@@ -19143,14 +18338,12 @@ $	(american dollar) $	0	0	1	0
 पर्वतीय	hilly	0	0	1	0
 धारणा	dharna	0	0	1	0
 धारणा	idea	0	0	1	0
-धारणा	view	0	0	1	0
 बनाईन्छ	made	0	0	1	0
 मुक्त	divorce	0	0	1	0
 मुक्त	mukth	0	0	1	0
 मुक्त	get free	0	0	1	0
 जलजला	jaljala	0	0	1	0
 जलजला	a place	0	0	1	0
-१२३४	1234	0	0	1	0
 सेना	sena	0	0	1	0
 सेना	army	0	0	1	0
 विभागमा	in department	0	0	1	0
@@ -19219,7 +18412,6 @@ $	(american dollar) $	0	0	1	0
 बेलायतमा	bhelayathama	0	0	1	0
 हेरेका	search	0	0	1	0
 हेरेका	looking at	0	0	1	0
-हेरेका	hayreka	0	0	1	0
 भेडियारीमा	in bhediari	0	0	1	0
 भेडियारीमा	in crowd	0	0	1	0
 कुण्ड	lake	0	0	1	0
@@ -19239,7 +18431,6 @@ $	(american dollar) $	0	0	1	0
 रक्तबीज	raktabij (name of a mythological devil)	0	0	1	0
 हिमालमा	himalaya	0	0	1	0
 हिमालमा	ridge	0	0	1	0
-हिमालमा	in himalaya	0	0	1	0
 नसकिए	for	0	0	1	0
 नसकिए	incomplete	0	0	1	0
 नसकिए	unable to	0	0	1	0
@@ -19255,7 +18446,6 @@ $	(american dollar) $	0	0	1	0
 प्रवर्द्धन	pravardhan	0	0	1	0
 व्यख्या	vyakhya	0	0	1	0
 व्यख्या	science of music	0	0	1	0
-व्यख्या	vyasya	0	0	1	0
 नर्वे	norway	0	0	1	0
 ओमान	oman	0	0	1	0
 ओमान	the world	0	0	1	0
@@ -19290,7 +18480,6 @@ $	(american dollar) $	0	0	1	0
 कार्तिक	surprise	0	0	1	0
 भूखण्ड	plot	0	0	1	0
 भूखण्ड	land	0	0	1	0
-भूखण्ड	bhookand	0	0	1	0
 ईतिहासले	a gurung dance	0	0	1	0
 ईतिहासले	of history	0	0	1	0
 ईतिहासले	history	0	0	1	0
@@ -19301,10 +18490,8 @@ $	(american dollar) $	0	0	1	0
 आवद्ध	aavadh	0	0	1	0
 आवद्ध	join	0	0	1	0
 औंसी	dark moon	0	0	1	0
-औंसी	the last day of the dark fortnight	0	0	1	0
 औंसी	darkmoon	0	0	1	0
 गणितिय	mathematical	0	0	1	0
-गणितिय	ganithiya	0	0	1	0
 गणितिय	math	0	0	1	0
 गृष्म	summer	0	0	1	0
 गृष्म	summer season	0	0	1	0
@@ -19340,7 +18527,6 @@ $	(american dollar) $	0	0	1	0
 विद्वानहरुले	vidwanharule	0	0	1	0
 विद्वानहरुले	intelligent	0	0	1	0
 विद्वानहरुले	vidvaanharule	0	0	1	0
-वढी	increased	0	0	1	0
 वढी	more	0	0	1	0
 समुद्रपारका	overseas	0	0	1	0
 समुद्रपारका	across sea	0	0	1	0
@@ -19372,7 +18558,6 @@ $	(american dollar) $	0	0	1	0
 श्रेणीवातावरण	class:environment	0	0	1	0
 श्रेणीवातावरण	shrenivatavaran	0	0	1	0
 श्रेणीवातावरण	sin	0	0	1	0
-भएकोले	being	0	0	1	0
 भएकोले	is	0	0	1	0
 सत्तामा	in throne	0	0	1	0
 सत्तामा	ruling	0	0	1	0
@@ -19391,7 +18576,6 @@ $	(american dollar) $	0	0	1	0
 १९४८मा	anarchist	0	0	1	0
 १९४८मा	in 1948	0	0	1	0
 भूबनोट	bhubnot	0	0	1	0
-भूबनोट	topography	0	0	1	0
 भूबनोट	geographical build	0	0	1	0
 लोकतन्त्र	democracy	0	0	1	0
 सफलता	successfully	0	0	1	0
@@ -19401,10 +18585,9 @@ $	(american dollar) $	0	0	1	0
 मान्दछन्	follow	0	0	1	0
 मान्दछन्	is supposed	0	0	1	0
 प्रान्तीय	state	0	0	1	0
-प्रान्तीय	of state	0	0	1	0
 सङ्खुवासभा	sankhuvas - name	0	0	1	0
-सङ्खुवासभा	carry me; slowly	0	0	1	0
 सङ्खुवासभा	sankhuwasabha	0	0	1	0
+सङ्खुवासभा	carry me; slowly	0	0	1	0
 १८०६	1806	0	0	1	0
 १८०६	internee	0	0	1	0
 लम्जुंग	lamjung	0	0	1	0
@@ -19413,7 +18596,6 @@ $	(american dollar) $	0	0	1	0
 आरोहण	accession	0	0	1	0
 आरोहण	aarohan	0	0	1	0
 इम्फाल	imphal	0	0	1	0
-इम्फाल	impaal	0	0	1	0
 परमानन्द	faith	0	0	1	0
 परमानन्द	parmanand	0	0	1	0
 परमानन्द	parmananda	0	0	1	0
@@ -19435,7 +18617,6 @@ $	(american dollar) $	0	0	1	0
 शरणमा	shelter	0	0	1	0
 शरणमा	sick	0	0	1	0
 संस्करणमा	edition	0	0	1	0
-संस्करणमा	event	0	0	1	0
 महासागरहरूको	oceans	0	0	1	0
 महासागरहरूको	of oceans	0	0	1	0
 महासागरहरूको	ocean	0	0	1	0
@@ -19487,7 +18668,6 @@ $	(american dollar) $	0	0	1	0
 लगाइन्छ	made	0	0	1	0
 लगाइन्छ	lagayinch	0	0	1	0
 सुरक्षित	surakshit	0	0	1	0
-सुरक्षित	surakshith	0	0	1	0
 सुरक्षित	my country is canada	0	0	1	0
 पर्यावरण	environment	0	0	1	0
 पर्यावरण	surounding	0	0	1	0
@@ -19502,7 +18682,6 @@ $	(american dollar) $	0	0	1	0
 प्रत्यक्षवाद	for	0	0	1	0
 प्रत्यक्षवाद	how many did you take?	0	0	1	0
 विद्यार्थी	student	0	0	1	0
-प्रकृति	prakruthi	0	0	1	0
 प्रकृति	nature	0	0	1	0
 धिताल	dhital	0	0	1	0
 धिताल	tax	0	0	1	0
@@ -19510,11 +18689,10 @@ $	(american dollar) $	0	0	1	0
 वौद्ध	buddhist	0	0	1	0
 जीनोममा	life	0	0	1	0
 जीनोममा	in genome	0	0	1	0
-रसायन	chemical	0	0	1	0
 रसायन	rasayan	0	0	1	0
 रसायन	chemicals	0	0	1	0
-नगरपालिका	municipality	0	0	1	0
 नगरपालिका	town planner	0	0	1	0
+नगरपालिका	municipality	0	0	1	0
 एवम	and	0	0	1	0
 आदिशक्ति	great strength	0	0	1	0
 आदिशक्ति	super power	0	0	1	0
@@ -19559,9 +18737,6 @@ $	(american dollar) $	0	0	1	0
 नदिको	river	0	0	1	0
 नदिको	of river	0	0	1	0
 जेष्ठ	elder	0	0	1	0
-बनाइन्छ	create	0	0	1	0
-बनाइन्छ	made	0	0	1	0
-बनाइन्छ	make	0	0	1	0
 मन्त्रालयको	of ministry	0	0	1	0
 मन्त्रालयको	ministery	0	0	1	0
 मन्त्रालयको	ministry	0	0	1	0
@@ -19583,15 +18758,14 @@ $	(american dollar) $	0	0	1	0
 पुरै	fully	0	0	1	0
 पुरै	all	0	0	1	0
 पुरै	purai	0	0	1	0
-वसोवास	vasovaas	0	0	1	0
-वसोवास	settlement	0	0	1	0
 वसोवास	inhabit	0	0	1	0
+वसोवास	settlement	0	0	1	0
+वसोवास	vasovaas	0	0	1	0
 लगानीको	of investment	0	0	1	0
 लगानीको	investment	0	0	1	0
 लेखेर	write	0	0	1	0
 लेखेर	against	0	0	1	0
 चट्टानहरूको	of rocks	0	0	1	0
-चट्टानहरूको	chattanuharko	0	0	1	0
 चट्टानहरूको	rocks	0	0	1	0
 मया	maya	0	0	1	0
 कोहलपुर	noddle	0	0	1	0
@@ -19609,7 +18783,6 @@ $	(american dollar) $	0	0	1	0
 घटनाहरुलाई	incidents	0	0	1	0
 घटनाहरुलाई	to the incidents	0	0	1	0
 आकर्षक	the merchant of venice	0	0	1	0
-आकर्षक	impressive	0	0	1	0
 आकर्षक	attractive	0	0	1	0
 सीधा	simple	0	0	1	0
 सीधा	seedha	0	0	1	0
@@ -19618,7 +18791,6 @@ $	(american dollar) $	0	0	1	0
 क्षेत्रको	of area	0	0	1	0
 हल्लो	hello	0	0	1	0
 बग्दछ	right	0	0	1	0
-बग्दछ	flow	0	0	1	0
 फष्टाएको	extend	0	0	1	0
 फष्टाएको	to develop	0	0	1	0
 फष्टाएको	flourishing	0	0	1	0
@@ -19641,12 +18813,12 @@ $	(american dollar) $	0	0	1	0
 थाल्यो	thaliye	0	0	1	0
 थाल्यो	happened	0	0	1	0
 धुन	sound	0	0	1	0
-धुन	music	0	0	1	0
 धुन	tune	0	0	1	0
 स्थगित	cancelled	0	0	1	0
 स्थगित	cancel	0	0	1	0
 स्थगित	sthagith	0	0	1	0
-सुन	ad	0	0	1	0
+पाउँछ	pouch	0	0	1	0
+पाउँछ	get	0	0	1	0
 सीधै	straight	0	0	1	0
 सीधै	directly	0	0	1	0
 मङ्गल	mangal	0	0	1	0
@@ -19655,7 +18827,6 @@ $	(american dollar) $	0	0	1	0
 कटुस	chestnut	0	0	1	0
 कटुस	katus	0	0	1	0
 कटुस	katus (a tree)	0	0	1	0
-छैन	not available	0	0	1	0
 छैन	no	0	0	1	0
 उत्रे	came-on	0	0	1	0
 उत्रे	stood	0	0	1	0
@@ -19711,7 +18882,6 @@ $	(american dollar) $	0	0	1	0
 ४०००	4000	0	0	1	0
 उत्तरमा	uthharama	0	0	1	0
 उत्तरमा	north	0	0	1	0
-उत्तरमा	in north	0	0	1	0
 जङ्गबहादुरले	jangbahadur	0	0	1	0
 जङ्गबहादुरले	jangabhadurle	0	0	1	0
 जङ्गबहादुरले	by jung bahadur	0	0	1	0
@@ -19720,13 +18890,11 @@ $	(american dollar) $	0	0	1	0
 लेख्न	lekhna	0	0	1	0
 सक्छ	could be	0	0	1	0
 सक्छ	able	0	0	1	0
-सक्छ	can	0	0	1	0
 दुरूपयोग	misuse	0	0	1	0
 दुरूपयोग	abuse	0	0	1	0
 विभूतिहरू	helper	0	0	1	0
 विभूतिहरू	greatness	0	0	1	0
 बडाल	badal	0	0	1	0
-बडाल	badaal (surname)	0	0	1	0
 बडाल	badaal	0	0	1	0
 मान्दछ	assume	0	0	1	0
 मान्दछ	accept	0	0	1	0
@@ -19749,12 +18917,10 @@ $	(american dollar) $	0	0	1	0
 किर्तिपुर	kirtipur	0	0	1	0
 किर्तिपुर	kirtipur (a place in nepal)	0	0	1	0
 प्रतिमाहरू	idols	0	0	1	0
-प्रतिमाहरू	statues	0	0	1	0
 प्रतिमाहरू	pratimaharu	0	0	1	0
 विकासशील	developing	0	0	1	0
 पुराना	purana	0	0	1	0
 पुराना	old	0	0	1	0
-अफ्रिकी	africa	0	0	1	0
 अफ्रिकी	african	0	0	1	0
 कीटपतंङ्ग	butterfly	0	0	1	0
 कीटपतंङ्ग	consultation	0	0	1	0
@@ -19767,23 +18933,19 @@ $	(american dollar) $	0	0	1	0
 समचारको	of news	0	0	1	0
 दमन	suppression	0	0	1	0
 दमन	daman	0	0	1	0
-दमन	supression	0	0	1	0
 मानिएकोछ	is known to be	0	0	1	0
-मानिएकोछ	asumed	0	0	1	0
 मानिएकोछ	maniyekoch	0	0	1	0
 पाखाहरु	land	0	0	1	0
 श्रेणीजर्मन	class:german	0	0	1	0
 श्रेणीजर्मन	shrenigerman	0	0	1	0
 पृष्ठभुमि	background	0	0	1	0
 स्वर्गको	heaven	0	0	1	0
-स्वर्गको	heven's	0	0	1	0
 स्वर्गको	to heaven	0	0	1	0
-सुझावका	sujavka	0	0	1	0
+स्वर्गको	heven's	0	0	1	0
 सुझावका	of suggestion	0	0	1	0
 सुझावका	suggestion	0	0	1	0
 भिरकोट	bhirkot	0	0	1	0
 भिरकोट	bhirkot - area name	0	0	1	0
-सचेत	active	0	0	1	0
 सचेत	aware	0	0	1	0
 व्यवस्थापन	thank you	0	0	1	0
 व्यवस्थापन	management	0	0	1	0
@@ -19810,7 +18972,6 @@ $	(american dollar) $	0	0	1	0
 मेची	development	0	0	1	0
 मेची	mechi	0	0	1	0
 चाँगेमा	in change	0	0	1	0
-चाँगेमा	change	0	0	1	0
 चाँगेमा	fourteenth	0	0	1	0
 गुयना	guiana	0	0	1	0
 गुयना	guyana	0	0	1	0
@@ -19838,7 +18999,6 @@ $	(american dollar) $	0	0	1	0
 पदबाट	foot way	0	0	1	0
 पदबाट	from post	0	0	1	0
 स्वयम्भूनाथ	swysnbunath	0	0	1	0
-स्वयम्भूनाथ	shwayambhunath	0	0	1	0
 स्वयम्भूनाथ	swambhunath (a temple)	0	0	1	0
 पत्रे	layer (paved)	0	0	1	0
 पत्रे	top	0	0	1	0
@@ -19878,11 +19038,9 @@ $	(american dollar) $	0	0	1	0
 अनीश्वरवादी	unbielevers	0	0	1	0
 बिभाजनमा	in division	0	0	1	0
 बिभाजनमा	currently a district of nepal	0	0	1	0
-बिभाजनमा	division	0	0	1	0
 वैज्ञानिक	scientist	0	0	1	0
 वैज्ञानिक	scientific	0	0	1	0
 आयोजना	sixty-four	0	0	1	0
-आयोजना	project	0	0	1	0
 आयोजना	sri lanka	0	0	1	0
 दार्जिलिङ	darjeeling	0	0	1	0
 दार्जिलिङ	darjaling	0	0	1	0
@@ -19900,7 +19058,9 @@ $	(american dollar) $	0	0	1	0
 वातावरणको	environment	0	0	1	0
 वातावरणको	vatavaranko	0	0	1	0
 वातावरणको	of environment	0	0	1	0
-क्याँ	kyan	0	0	1	0
+अवस्थाको	transportation	0	0	1	0
+अवस्थाको	of the condition	0	0	1	0
+अवस्थाको	condition	0	0	1	0
 लोकल	local	0	0	1	0
 प्रतिरोध	to use	0	0	1	0
 प्रतिरोध	immunity	0	0	1	0
@@ -19908,12 +19068,11 @@ $	(american dollar) $	0	0	1	0
 खरानी	ash	0	0	1	0
 खरानी	sangam at allahabad	0	0	1	0
 खरानी	bone	0	0	1	0
-सङ्गठन	union	0	0	1	0
 सङ्गठन	organisation	0	0	1	0
 सङ्गठन	sangatan	0	0	1	0
 औद्योगिक	industrial	0	0	1	0
-हाक्पारे	hackpare	0	0	1	0
 हाक्पारे	hakpare	0	0	1	0
+हाक्पारे	hackpare	0	0	1	0
 हाक्पारे	haakpare	0	0	1	0
 सार्क	saarc	0	0	1	0
 ः	:	0	0	1	0
@@ -19922,7 +19081,6 @@ $	(american dollar) $	0	0	1	0
 नागदह	nagdah (name of a pond)	0	0	1	0
 मध्यपुर	madhyapur	0	0	1	0
 मिति	date	0	0	1	0
-मिति	mithi	0	0	1	0
 मिति	certificate	0	0	1	0
 कणको	of atom	0	0	1	0
 कणको	particle	0	0	1	0
@@ -19933,7 +19091,6 @@ $	(american dollar) $	0	0	1	0
 सैन्य	sainya	0	0	1	0
 सैन्य	army	0	0	1	0
 प्रसादको	prasadko	0	0	1	0
-प्रसादको	of blessed food	0	0	1	0
 प्रसादको	food with deity's blessing	0	0	1	0
 पुर्याउँथे	available	0	0	1	0
 पुर्याउँथे	reach	0	0	1	0
@@ -19947,7 +19104,6 @@ $	(american dollar) $	0	0	1	0
 औजार	tool	0	0	1	0
 औजार	tools	0	0	1	0
 प्रजातन्त्रका	democraacy	0	0	1	0
-प्रजातन्त्रका	doing people work	0	0	1	0
 प्रजातन्त्रका	imputation	0	0	1	0
 पृष्ठमा	page	0	0	1	0
 पृष्ठमा	in page	0	0	1	0
@@ -19997,6 +19153,9 @@ $	(american dollar) $	0	0	1	0
 उत्पत्तिको	uthpathiko	0	0	1	0
 उत्पत्तिको	evolution	0	0	1	0
 उत्पत्तिको	utpatiko	0	0	1	0
+श्रेणीअक्टुबर	october	0	0	1	0
+श्रेणीअक्टुबर	shrenioctober	0	0	1	0
+श्रेणीअक्टुबर	class:october	0	0	1	0
 रवि	sun	0	0	1	0
 रवि	ravi	0	0	1	0
 च	ch -alphabet	0	0	1	0
@@ -20024,8 +19183,6 @@ $	(american dollar) $	0	0	1	0
 प्रमाणपत्रले	to think	0	0	1	0
 क्ल्हेब्रीको	klahebri	0	0	1	0
 क्ल्हेब्रीको	kluhebriko	0	0	1	0
-क्ल्हेब्रीको	some thing	0	0	1	0
-उपकरणहरुको	with the assistance of	0	0	1	0
 उपकरणहरुको	instrument	0	0	1	0
 उपकरणहरुको	implement	0	0	1	0
 साओ	sao (of sao paolo)	0	0	1	0
@@ -20045,8 +19202,8 @@ $	(american dollar) $	0	0	1	0
 साज	pines	0	0	1	0
 साज	saaj	0	0	1	0
 साज	soil erosion	0	0	1	0
-सम्पदाहरु	authorised	0	0	1	0
-सम्पदाहरु	property	0	0	1	0
+साथ	with	0	0	1	0
+साथ	together	0	0	1	0
 सात	seven	0	0	1	0
 मैथिलीलाई	maithili	0	0	1	0
 मैथिलीलाई	to serve food	0	0	1	0
@@ -20061,7 +19218,6 @@ $	(american dollar) $	0	0	1	0
 सागरबाट	sea	0	0	1	0
 सार	summary	0	0	1	0
 साल	year	0	0	1	0
-भट्टराईलाई	to bhattarai	0	0	1	0
 भट्टराईलाई	bhattrai - surname	0	0	1	0
 भट्टराईलाई	bhattrailai	0	0	1	0
 श्रेणीविकिपीडिया	divison wikipedia	0	0	1	0
@@ -20084,33 +19240,29 @@ $	(american dollar) $	0	0	1	0
 अहिंसात्मक	nonviolence	0	0	1	0
 अन्न	crops	0	0	1	0
 अन्न	zonal commissioner	0	0	1	0
-अन्न	eeating items	0	0	1	0
 सांघुरो	narrow	0	0	1	0
 बढेको	badeko	0	0	1	0
 बढेको	rise	0	0	1	0
 बढेको	develop	0	0	1	0
-श्रीरामले	by shreeram	0	0	1	0
 श्रीरामले	shree ram	0	0	1	0
 लिइन्छ	different	0	0	1	0
-लिइन्छ	is taken	0	0	1	0
 लिइन्छ	linch	0	0	1	0
+लिइन्छ	is taken	0	0	1	0
 छैटौं	sixth	0	0	1	0
 छैटौं	cheeto	0	0	1	0
 छैटौं	smart	0	0	1	0
 राज्यनीति	politics	0	0	1	0
-राज्यनीति	country's policy	0	0	1	0
 रायपुर	rayapur	0	0	1	0
 रायपुर	raipur	0	0	1	0
 बहने	flowing	0	0	1	0
-सिद्धांत	siddanth	0	0	1	0
 सिद्धांत	theory	0	0	1	0
 सिद्धांत	principle	0	0	1	0
 स्कूल	school	0	0	1	0
 कोकाहा	this much	0	0	1	0
 कोकाहा	kokaha - place name	0	0	1	0
-भएपनि	though	0	0	1	0
-भएपनि	inspite of	0	0	1	0
 भएपनि	happened	0	0	1	0
+भएपनि	inspite of	0	0	1	0
+भएपनि	though	0	0	1	0
 १८२७	1827	0	0	1	0
 विशाल	large	0	0	1	0
 विशाल	giant	0	0	1	0
@@ -20142,13 +19294,11 @@ $	(american dollar) $	0	0	1	0
 जिते	win	0	0	1	0
 सम्पति	property	0	0	1	0
 सम्पति	wealth	0	0	1	0
-पेलेलाई	pele	0	0	1	0
 पेलेलाई	pele was	0	0	1	0
 विपरीत	vipareet	0	0	1	0
 विपरीत	opposite	0	0	1	0
 कर्मचारीलाई	employee	0	0	1	0
 कर्मचारीलाई	to employee	0	0	1	0
-कर्मचारीलाई	karmcharilaye	0	0	1	0
 मिक्सिङ्	mixing	0	0	1	0
 मिक्सिङ्	every	0	0	1	0
 मिक्सिङ्	mixid	0	0	1	0
@@ -20215,13 +19365,11 @@ $	(american dollar) $	0	0	1	0
 भागहरुमा	part	0	0	1	0
 भागहरुमा	bhagharuma	0	0	1	0
 हप्ता	week	0	0	1	0
-अनुभवहरूको	anubhavharko	0	0	1	0
 अनुभवहरूको	expirence	0	0	1	0
 अनुभवहरूको	of experiences	0	0	1	0
 अण्डा	egg	0	0	1	0
 टोलीका	tolika	0	0	1	0
 टोलीका	of group	0	0	1	0
-टोलीका	comittee	0	0	1	0
 किलोमिटरको	kilometerko	0	0	1	0
 किलोमिटरको	kilometer	0	0	1	0
 किलोमिटरको	of kilometre	0	0	1	0
@@ -20234,7 +19382,6 @@ $	(american dollar) $	0	0	1	0
 दोष	guilt	0	0	1	0
 कान्तिराजपथ	kantirajpath	0	0	1	0
 कान्तिराजपथ	kanthirajapatha	0	0	1	0
-कान्तिराजपथ	kanti highway	0	0	1	0
 चुलाचुली	chulachuli	0	0	1	0
 चुलाचुली	alliteration	0	0	1	0
 पशुपंक्षी	creatures	0	0	1	0
@@ -20248,13 +19395,11 @@ $	(american dollar) $	0	0	1	0
 लगाउने	put-on	0	0	1	0
 सिञ्जालाई	sinja was	0	0	1	0
 सिञ्जालाई	sinja	0	0	1	0
-सिञ्जालाई	to sinja	0	0	1	0
 निकोबार	nicobar	0	0	1	0
-निकोबार	nicobar island	0	0	1	0
 निकोबार	nocobar	0	0	1	0
+निकोबार	nicobar island	0	0	1	0
 नभएको	new	0	0	1	0
 नभएको	to establish	0	0	1	0
-नभएको	don't have	0	0	1	0
 ध्वनि	trunks	1	0	1	0
 ध्वनि	municipality	1	0	1	0
 ध्वनि	a water-snake	1	0	1	0
@@ -20282,8 +19427,9 @@ $	(american dollar) $	0	0	1	0
 ध्वनि	dhwani	1	0	1	0
 ध्वनि	voice	1	1	0	0
 ध्वनि	mean	1	0	1	0
-५९	connections	0	0	1	0
-५९	59	0	0	1	0
+क्रान्तिमा	in stuggle	0	0	1	0
+क्रान्तिमा	revolution	0	0	1	0
+क्रान्तिमा	in revolution	0	0	1	0
 पहिलेका	pahileka	0	0	1	0
 पहिलेका	earlier	0	0	1	0
 पहिलेका	old	0	0	1	0
@@ -20319,7 +19465,6 @@ $	(american dollar) $	0	0	1	0
 बर्गिकरण	division	0	0	1	0
 बर्गिकरण	limit	0	0	1	0
 बर्गिकरण	progressive	0	0	1	0
-विवेक	thought	0	0	1	0
 विवेक	wisdom	0	0	1	0
 जडीबुटी	jadibuti	0	0	1	0
 जडीबुटी	medicinal  herbs	0	0	1	0
@@ -20330,7 +19475,6 @@ $	(american dollar) $	0	0	1	0
 एशियाको	asian	0	0	1	0
 सकेनन्	could not	0	0	1	0
 सकेनन्	sakenan	0	0	1	0
-बालक	baby	0	0	1	0
 बालक	boy	0	0	1	0
 बालक	to introduce	0	0	1	0
 झापा	jhapa	0	0	1	0
@@ -20343,7 +19487,6 @@ $	(american dollar) $	0	0	1	0
 घाम	sunshine	0	0	1	0
 घाम	daughter's husband	0	0	1	0
 घाम	dham	0	0	1	0
-मुख्य	main	0	0	1	0
 मुख्य	mukhya	0	0	1	0
 मुख्य	mukya	0	0	1	0
 ११०	110	0	0	1	0
@@ -20365,7 +19508,6 @@ $	(american dollar) $	0	0	1	0
 विषयहरु	subjects	0	0	1	0
 विषयहरु	vishayharu	0	0	1	0
 विषयहरु	subject	0	0	1	0
-विषयहरू	vishayahar	0	0	1	0
 विषयहरू	subjet wise	0	0	1	0
 विषयहरू	subjects	0	0	1	0
 रामायण	ramayan (indian epic)	0	0	1	0
@@ -20427,9 +19569,6 @@ $	(american dollar) $	0	0	1	0
 थिइन	a kind of drum	0	0	1	0
 फलस्वरुप	as a result	0	0	1	0
 फलस्वरुप	result	0	0	1	0
-लैजाने	take away	0	0	1	0
-लैजाने	take	0	0	1	0
-रहेका	raheka	0	0	1	0
 रहेका	remain	0	0	1	0
 रहेका	rheka	0	0	1	0
 मानेभञ्ज्याङ	maanebhajyadh	0	0	1	0
@@ -20441,6 +19580,7 @@ $	(american dollar) $	0	0	1	0
 उपयुक्तताको	useful	0	0	1	0
 उपयुक्तताको	suitability	0	0	1	0
 क्षेत्रीय	regional	0	0	1	0
+अब	now	0	0	1	0
 डे	day	0	0	1	0
 तराईको	valley	0	0	1	0
 तराईको	low land	0	0	1	0
@@ -20488,7 +19628,6 @@ $	(american dollar) $	0	0	1	0
 तिब्बतको	tibbatko or tibetko	0	0	1	0
 तिब्बतको	tibet	0	0	1	0
 अर्न्तर्गत	internal	0	0	1	0
-अर्न्तर्गत	anthargath	0	0	1	0
 अर्न्तर्गत	under	0	0	1	0
 छठको	of chhath	0	0	1	0
 छठको	chaad	0	0	1	0
@@ -20506,7 +19645,6 @@ $	(american dollar) $	0	0	1	0
 सतहको	level	0	0	1	0
 युवा	youth	0	0	1	0
 पोल्याण्ड	poland	0	0	1	0
-आरक्ष	aaraksh	0	0	1	0
 आरक्ष	aargna	0	0	1	0
 आरक्ष	conservation area	0	0	1	0
 अमर	immortal	0	0	1	0
@@ -20552,7 +19690,6 @@ $	(american dollar) $	0	0	1	0
 नगरपालीका	municipality	0	0	1	0
 ब्राजिल	brazil	0	0	1	0
 श्रीमती	mrs.	0	0	1	0
-श्रीमती	wife	0	0	1	0
 चार्ल्स	charles	0	0	1	0
 चार्ल्स	heroic	0	0	1	0
 दरबारमा	palace	0	0	1	0
@@ -20564,7 +19701,6 @@ $	(american dollar) $	0	0	1	0
 २०७३००००००	coast	0	0	1	0
 स्वरूपमा	image	0	0	1	0
 स्वरूपमा	in this image	0	0	1	0
-स्वरूपमा	in image	0	0	1	0
 अर्थव्यवस्था	economic status	0	0	1	0
 अर्थव्यवस्था	collective	0	0	1	0
 अर्थव्यवस्था	economy	0	0	1	0
@@ -20574,7 +19710,6 @@ $	(american dollar) $	0	0	1	0
 ऐश्वर्य	happiness	0	0	1	0
 सुबिधाहरु	facilities	0	0	1	0
 सुबिधाहरु	facility	0	0	1	0
-तीर्थस्थल	pilgrimage	0	0	1	0
 तीर्थस्थल	theerthasthal	0	0	1	0
 तीर्थस्थल	holy place	0	0	1	0
 यहां	sixty-three	0	0	1	0
@@ -20592,12 +19727,10 @@ $	(american dollar) $	0	0	1	0
 गल्छी	gorge	0	0	1	0
 गल्छी	galchi	0	0	1	0
 गल्छी	galchhi	0	0	1	0
-वचनको	baby	0	0	1	0
 वचनको	pea	0	0	1	0
 वचनको	vachanko	0	0	1	0
 ज्ञानको	gyankho	0	0	1	0
 ज्ञानको	knowledge	0	0	1	0
-ज्ञानको	of knowledge	0	0	1	0
 जबरा	jabra	0	0	1	0
 जबरा	junga bahadur rana	0	0	1	0
 जबरा	j.b.r (short form of name)	0	0	1	0
@@ -20641,14 +19774,12 @@ $	(american dollar) $	0	0	1	0
 गुण	guna	0	0	1	0
 श्रेणीस्पष्टता	srenispastatha	0	0	1	0
 श्रेणीस्पष्टता	shrenispashtata	0	0	1	0
-श्रेणीस्पष्टता	class:clarity	0	0	1	0
 १९०४मा	1905	0	0	1	0
 १९०४मा	in 1904	0	0	1	0
 गुह	home	0	0	1	0
 गुह	guh (mythological character)	0	0	1	0
 देवकोटा	devkota	0	0	1	0
 संविधानसभाको	constituent assembly	0	0	1	0
-संविधानसभाको	of constitutional assembly	0	0	1	0
 विपरित	enormous	0	0	1	0
 विपरित	opposite	0	0	1	0
 सुरुमा	at the beginning	0	0	1	0
@@ -20676,8 +19807,8 @@ $	(american dollar) $	0	0	1	0
 देवताको	lord	0	0	1	0
 देवताको	of god	0	0	1	0
 देवताको	as god	0	0	1	0
-पातलो	yellow raspberry	0	0	1	0
 पातलो	brass	0	0	1	0
+पातलो	yellow raspberry	0	0	1	0
 आदिमा	in etcetera	0	0	1	0
 आदिमा	aadima	0	0	1	0
 आदिमा	etc	0	0	1	0
@@ -20692,9 +19823,9 @@ $	(american dollar) $	0	0	1	0
 पोर्चुगली	portugese	0	0	1	0
 उनका	his	0	0	1	0
 उनका	unka	0	0	1	0
-मेजर	major	0	0	1	0
+रोग	rogue	0	0	1	0
+रोग	disease	0	0	1	0
 वर्णात्मक	alphabetic	0	0	1	0
-वर्णात्मक	no	0	0	1	0
 थाप्लेको	thalpe	0	0	1	0
 थाप्लेको	thaple's	0	0	1	0
 दीपेन्द्रले	dipendrale	0	0	1	0
@@ -20736,8 +19867,8 @@ $	(american dollar) $	0	0	1	0
 जाडो	winter	0	0	1	0
 लेखिन्छ	written	0	0	1	0
 लेखिन्छ	lekhinch	0	0	1	0
-थिएनन्	where did you sleep?	0	0	1	0
-थिएनन्	was not	0	0	1	0
+रोज	daily	0	0	1	0
+रोज	time	0	0	1	0
 सिहदरवार	singhadurbar	0	0	1	0
 पुरूष	male	0	0	1	0
 पुरूष	man	0	0	1	0
@@ -20746,10 +19877,8 @@ $	(american dollar) $	0	0	1	0
 प्रहार	attacked	0	0	1	0
 उनकी	his	0	0	1	0
 उनकी	their's	0	0	1	0
-उनकी	her	0	0	1	0
 विविध	different	0	0	1	0
-श्रेणीभारतीय	series indian	0	0	1	0
-श्रेणीभारतीय	nation	0	0	1	0
+गीता	gita	0	0	1	0
 सम्पन्न	property	0	0	1	0
 सम्पन्न	complete	0	0	1	0
 सम्पन्न	prosperous	0	0	1	0
@@ -20767,7 +19896,6 @@ $	(american dollar) $	0	0	1	0
 जनवादी	people's	0	0	1	0
 अक्टोवर	october	0	0	1	0
 अक्टोवर	finger	0	0	1	0
-हरूमा	at (h.q)s	0	0	1	0
 हरूमा	etc.	0	0	1	0
 हरूमा	people	0	0	1	0
 विगतमा	in past	0	0	1	0
@@ -20785,7 +19913,6 @@ $	(american dollar) $	0	0	1	0
 नेपालीहरु	nepalihru	0	0	1	0
 नेपालीहरु	nepalese	0	0	1	0
 शासकिय	official	0	0	1	0
-शासकिय	administrative	0	0	1	0
 शासकिय	ruling	0	0	1	0
 अवसरमा	in this occasion	0	0	1	0
 अवसरमा	in opportunity	0	0	1	0
@@ -20806,8 +19933,6 @@ $	(american dollar) $	0	0	1	0
 आर्थर	aurthor	0	0	1	0
 आर्थर	arthur	0	0	1	0
 स्वीडेन	sweden	0	0	1	0
-स्वीडेन	sweeden	0	0	1	0
-योगदान	contribution	0	0	1	0
 योगदान	contributions	0	0	1	0
 भक्तपुरको	bhaktpur ko	0	0	1	0
 भक्तपुरको	expensive	0	0	1	0
@@ -20877,7 +20002,6 @@ $	(american dollar) $	0	0	1	0
 संपदामा	heritage	0	0	1	0
 समुद्री	oceanic	0	0	1	0
 समुद्री	thumb	0	0	1	0
-समुद्री	sea	0	0	1	0
 युद्दको	of war	0	0	1	0
 युद्दको	war	0	0	1	0
 युद्दको	yudhko	0	0	1	0
@@ -20909,21 +20033,18 @@ $	(american dollar) $	0	0	1	0
 न्यातपोल	nyatpol	0	0	1	0
 न्यातपोल	nyatapola	0	0	1	0
 लेखक	writer	0	0	1	0
-लेखक	lekhak	0	0	1	0
 पुरुषहरु	males	0	0	1	0
 पुरुषहरु	male	0	0	1	0
 पुरुषहरु	man	0	0	1	0
 नृविज्ञान	anthropology	0	0	1	0
 संस्कार	culture	0	0	1	0
 संस्कार	rite	0	0	1	0
-संस्कार	tradition	0	0	1	0
 पक्राउ	caught	0	0	1	0
 पक्राउ	pakravu	0	0	1	0
 पक्राउ	captured	0	0	1	0
 इटहरी	itahari	0	0	1	0
 मान्छेहरुले	persons	0	0	1	0
 मान्छेहरुले	by the people	0	0	1	0
-जोगबुढा	jogbudha	0	0	1	0
 जोगबुढा	jogabudha	0	0	1	0
 जोगबुढा	jogbuddha	0	0	1	0
 देखिएका	observed	0	0	1	0
@@ -20968,7 +20089,6 @@ $	(american dollar) $	0	0	1	0
 सरस्वतीस्थान	saraswati sthan (holy place)	0	0	1	0
 व्यक्तिले	person	0	0	1	0
 व्यक्तिले	vyaktile	0	0	1	0
-स्थलको	in the place	0	0	1	0
 स्थलको	inland letter	0	0	1	0
 स्थलको	location	0	0	1	0
 हरिचौर	harichaur	0	0	1	0
@@ -20979,7 +20099,6 @@ $	(american dollar) $	0	0	1	0
 चर्चा	praise	0	0	1	0
 सिद्धिदात्री	sidhidatri	0	0	1	0
 सिद्धिदात्री	siddhidatri (goddess)	0	0	1	0
-सिद्धिदात्री	sidhdidatri	0	0	1	0
 समाजमा	samajma	0	0	1	0
 समाजमा	in society	0	0	1	0
 समाजमा	society	0	0	1	0
@@ -20988,7 +20107,6 @@ $	(american dollar) $	0	0	1	0
 बगेर	flowed	0	0	1	0
 बगेर	flowing	0	0	1	0
 प्रश्न	question	0	0	1	0
-प्रश्न	prashn	0	0	1	0
 केन्या	kenya	0	0	1	0
 हुनत	but	0	0	1	0
 हुनत	hunat	0	0	1	0
@@ -21017,11 +20135,9 @@ $	(american dollar) $	0	0	1	0
 किम्बदन्ति	ancient tales	0	0	1	0
 छुट्टिएका	separated	0	0	1	0
 छुट्टिएका	chuttiyeka	0	0	1	0
-हुने	will be	0	0	1	0
 हुने	was	0	0	1	0
-सृजना	create	0	0	1	0
-सृजना	srujna	0	0	1	0
-सृजना	creation	0	0	1	0
+किम्बदन्ती	tale	0	0	1	0
+किम्बदन्ती	legend	0	0	1	0
 संरक्षणको	for protection	0	0	1	0
 संरक्षणको	for conservation	0	0	1	0
 संरक्षणको	floor	0	0	1	0
@@ -21038,16 +20154,14 @@ $	(american dollar) $	0	0	1	0
 गायनमा	singing	0	0	1	0
 गायनमा	symbolic	0	0	1	0
 मनमा	mind	0	0	1	0
-मनमा	in the mind	0	0	1	0
 थाहा	thaha	0	0	1	0
 थाहा	happening	0	0	1	0
 थाहा	know	0	0	1	0
 एकिकरणकाल	unification period	0	0	1	0
 एकिकरणकाल	unification era	0	0	1	0
 एकिकरणकाल	time of union	0	0	1	0
-प्रकार	kind	0	0	1	0
-प्रकार	prakar	0	0	1	0
-प्रकार	types	0	0	1	0
+आर्य	arya	0	0	1	0
+आर्य	aryans	0	0	1	0
 तल्लो	lower	0	0	1	0
 प्रकाश	prakash	0	0	1	0
 प्रकाश	light	0	0	1	0
@@ -21057,15 +20171,13 @@ $	(american dollar) $	0	0	1	0
 श्रेणीकोशीको	class:koshi	0	0	1	0
 बाह्य	twelve	0	0	1	0
 बाह्य	external	0	0	1	0
-बाह्य	bahya	0	0	1	0
 यजुर्वेद	yadurveda	0	0	1	0
-यजुर्वेद	yajurbed	0	0	1	0
 यजुर्वेद	yajurveda -name of a book	0	0	1	0
 भनिने	said	0	0	1	0
 भनिने	called	0	0	1	0
-सिनुवारी	sinuwari	0	0	1	0
 सिनुवारी	sinuwari (name of a place)	0	0	1	0
 सिनुवारी	sinuvaari	0	0	1	0
+सिनुवारी	sinuwari	0	0	1	0
 राष्‍ट्रिय	national	0	0	1	0
 राष्‍ट्रिय	natinality	0	0	1	0
 परिणामस्वरूप	as a result	0	0	1	0
@@ -21110,7 +20222,6 @@ $	(american dollar) $	0	0	1	0
 अरूको	others	0	0	1	0
 दार्जीलिङ्ग	darjeeling	0	0	1	0
 दार्जीलिङ्ग	darjiling	0	0	1	0
-हरियाणामा	in hariyana	0	0	1	0
 हरियाणामा	at haryana (an indian state)	0	0	1	0
 हरियाणामा	hariyana	0	0	1	0
 शाब्दिक	verba	0	0	1	0
@@ -21124,14 +20235,12 @@ $	(american dollar) $	0	0	1	0
 सम्म	upto	0	0	1	0
 सम्म	samm	0	0	1	0
 ज्ञात	known	0	0	1	0
-ज्ञात	gyath	0	0	1	0
 विहु	bihu (name of a place)	0	0	1	0
 विहु	bihu	0	0	1	0
 श्रेणीभारतको	class: india	0	0	1	0
 श्रेणीभारतको	to fly	0	0	1	0
 २००३मा	in 2003	0	0	1	0
 २००३मा	two thousand	0	0	1	0
-सल्लाहकार	sallahakar	0	0	1	0
 सल्लाहकार	consulting	0	0	1	0
 सल्लाहकार	advisor	0	0	1	0
 वनको	forest	0	0	1	0
@@ -21145,7 +20254,6 @@ $	(american dollar) $	0	0	1	0
 नाबालक	very young kid	0	0	1	0
 नाबालक	child	0	0	1	0
 भूमिसुधार	land reform	0	0	1	0
-भूमिसुधार	land development	0	0	1	0
 भूमिसुधार	land reforms	0	0	1	0
 सिरिजङ्गा	sirijgy	0	0	1	0
 सिरिजङ्गा	sirjhinga	0	0	1	0
@@ -21158,7 +20266,6 @@ $	(american dollar) $	0	0	1	0
 आपुनो	thier	0	0	1	0
 आपुनो	apuno	0	0	1	0
 पिण्डको	first person	0	0	1	0
-पिण्डको	of mass	0	0	1	0
 पिण्डको	bodies	0	0	1	0
 जर्जिया	georgia	0	0	1	0
 पीडा	pain	0	0	1	0
@@ -21166,7 +20273,6 @@ $	(american dollar) $	0	0	1	0
 दलका	team	0	0	1	0
 दलका	of party	0	0	1	0
 दलका	conclusion	0	0	1	0
-पुग्छ	reach	0	0	1	0
 पुग्छ	will reach	0	0	1	0
 विश्वविद्यालयविकीभर्सिटी	wiki university	0	0	1	0
 विश्वविद्यालयविकीभर्सिटी	university wikiversity	0	0	1	0
@@ -21184,7 +20290,6 @@ $	(american dollar) $	0	0	1	0
 इन्द्रेश्वर	indreshwar	0	0	1	0
 इन्द्रेश्वर	lord indra	0	0	1	0
 ग्रेट	great	0	0	1	0
-जन्मिएका	born	0	0	1	0
 जन्मिएका	birth	0	0	1	0
 जन्मिएका	experience	0	0	1	0
 १३१	131	0	0	1	0
@@ -21194,8 +20299,8 @@ $	(american dollar) $	0	0	1	0
 १३९	139	0	0	1	0
 १३५	135	0	0	1	0
 १३२	132	0	0	1	0
-ककेसस	cacasus	0	0	1	0
 ककेसस	caucasus mountain	0	0	1	0
+ककेसस	cacasus	0	0	1	0
 ककेसस	to talk	0	0	1	0
 २०२४	2024	0	0	1	0
 चाँगुनारायण	changunarayan	0	0	1	0
@@ -21205,15 +20310,14 @@ $	(american dollar) $	0	0	1	0
 ढंगले	in a way	0	0	1	0
 ढंगले	flag	0	0	1	0
 ढंगले	by their way	0	0	1	0
-अमात्य	snake	0	0	1	0
 अमात्य	amatya	0	0	1	0
+अमात्य	snake	0	0	1	0
 पच्युले	by pachyu (name)	0	0	1	0
 १४०२	1402	0	0	1	0
 पेश	at	0	0	1	0
 पेश	present	0	0	1	0
 पेश	face	0	0	1	0
 वस्त्रको	vasrako	0	0	1	0
-वस्त्रको	vasthrako	0	0	1	0
 वस्त्रको	clothes	0	0	1	0
 दिलाउने	dilaune	0	0	1	0
 दिलाउने	give	0	0	1	0
@@ -21237,7 +20341,6 @@ $	(american dollar) $	0	0	1	0
 निवासस्थान	exceedingly	0	0	1	0
 निवासस्थान	dwelling place	0	0	1	0
 २०५८	2058	0	0	1	0
-२०५८	2048	0	0	1	0
 घर	home	0	0	1	0
 घर	ghar	0	0	1	0
 घर	house	0	0	1	0
@@ -21248,7 +20351,6 @@ $	(american dollar) $	0	0	1	0
 २०५२	2052	0	0	1	0
 २०५२	2042	0	0	1	0
 विकिपीडियामा	wikipedia	0	0	1	0
-विकिपीडियामा	in wikipedia	0	0	1	0
 विकिपीडियामा	volunteer	0	0	1	0
 डाक्टर	climate	0	0	1	0
 डाक्टर	doctor	0	0	1	0
@@ -21262,7 +20364,6 @@ $	(american dollar) $	0	0	1	0
 भर्जिन	virgin	0	0	1	0
 आफूले	by us	0	0	1	0
 आफूले	aafule	0	0	1	0
-आफूले	own	0	0	1	0
 स्थानमा	place	0	0	1	0
 स्थानमा	places	0	0	1	0
 स्थानमा	at the place	0	0	1	0
@@ -21272,7 +20373,6 @@ $	(american dollar) $	0	0	1	0
 नपर्ने	not indulging	0	0	1	0
 द्वीपमा	island	0	0	1	0
 द्वीपमा	in island	0	0	1	0
-द्वीपमा	in the island	0	0	1	0
 संभाव्यता	expectancy	0	0	1	0
 संभाव्यता	sambhayata	0	0	1	0
 संभाव्यता	possibility	0	0	1	0
@@ -21283,14 +20383,12 @@ $	(american dollar) $	0	0	1	0
 प्रसन्न	prasann	0	0	1	0
 प्रसन्न	impress	0	0	1	0
 प्रसन्न	happy	0	0	1	0
-संक्रमणको	of infection	0	0	1	0
 संक्रमणको	viruses	0	0	1	0
 संक्रमणको	infection	0	0	1	0
 २०२८	2028	0	0	1	0
 २०२८	dho soonya dho aat	0	0	1	0
 सम्वन्धित	sambhandit	0	0	1	0
 सम्वन्धित	related	0	0	1	0
-प्रमण्डल	delegation	0	0	1	0
 प्रमण्डल	prime ministerial comittee	0	0	1	0
 प्रमण्डल	pramandal	0	0	1	0
 रिउ	riu	0	0	1	0
@@ -21312,18 +20410,17 @@ $	(american dollar) $	0	0	1	0
 गरीएको	happen	0	0	1	0
 गरीएको	done	0	0	1	0
 गरीएको	to run	0	0	1	0
-गरएिको	was done	0	0	1	0
-गरएिको	done	0	0	1	0
 गरएिको	garyekiyo	0	0	1	0
+गरएिको	done	0	0	1	0
+गरएिको	was done	0	0	1	0
 सन्दर्भमा	with reference to	0	0	1	0
 सन्दर्भमा	scenario	0	0	1	0
 सन्दर्भमा	my name is....	0	0	1	0
-संसदमा	sansdama	0	0	1	0
 संसदमा	parliament	0	0	1	0
 संसदमा	in parliament	0	0	1	0
 नाइकेहरूको	nayikeharuko	0	0	1	0
-नाइकेहरूको	of nike's (community)	0	0	1	0
 नाइकेहरूको	leaders	0	0	1	0
+नाइकेहरूको	of nike's (community)	0	0	1	0
 ठिमुरे	timure	0	0	1	0
 ठिमुरे	thimure	0	0	1	0
 ठिमुरे	similar	0	0	1	0
@@ -21383,7 +20480,6 @@ $	(american dollar) $	0	0	1	0
 आसपासको	around	0	0	1	0
 आसपासको	nearby	0	0	1	0
 सहायताले	party	0	0	1	0
-सहायताले	sahayathale	0	0	1	0
 सहायताले	sahayatale	0	0	1	0
 चित्र	picture	0	0	1	0
 चित्र	chitra	0	0	1	0
@@ -21400,13 +20496,11 @@ $	(american dollar) $	0	0	1	0
 व्यवस्थापनमा	management	0	0	1	0
 व्यवस्थापनमा	in management	0	0	1	0
 परिसर	parisar	0	0	1	0
-परिसर	complex	0	0	1	0
 परिसर	compound	0	0	1	0
 यीनै	these	0	0	1	0
 यीनै	yeene	0	0	1	0
 यीनै	yeenai	0	0	1	0
 ठमेल	thamel (a place in nepal)	0	0	1	0
-ठमेल	thamel	0	0	1	0
 गन्दै	count	0	0	1	0
 गन्दै	dirty	0	0	1	0
 परस्पर	late	0	0	1	0
@@ -21444,9 +20538,8 @@ $	(american dollar) $	0	0	1	0
 १९८५	1985	0	0	1	0
 १९८५	2985	0	0	1	0
 नैं	is	0	0	1	0
-नैं	nine	0	0	1	0
-ओ	yellow	0	0	1	0
 ओ	o	0	0	1	0
+ओ	yellow	0	0	1	0
 प्रज्ञा	academic	0	0	1	0
 प्रज्ञा	pragya	0	0	1	0
 प्रज्ञा	academy	0	0	1	0
@@ -21495,15 +20588,13 @@ $	(american dollar) $	0	0	1	0
 धारणाको	hypothesis	0	0	1	0
 पालमा	nepal	0	0	1	0
 पालमा	at the time of	0	0	1	0
-हजुरको	your's	0	0	1	0
 हजुरको	hazurko (part name of a fm channel) meaning yours	0	0	1	0
 हजुरको	your	0	0	1	0
 तर्फबाट	oppressor	0	0	1	0
-तर्फबाट	from side	0	0	1	0
 तर्फबाट	right side	0	0	1	0
 चढ्ने	ride	0	0	1	0
-चढ्ने	clim	0	0	1	0
 चढ्ने	rise	0	0	1	0
+चढ्ने	clim	0	0	1	0
 टू	to	0	0	1	0
 टु	to	0	0	1	0
 अर्मला	armala	0	0	1	0
@@ -21547,14 +20638,10 @@ $	(american dollar) $	0	0	1	0
 आरुघाट	arughat	0	0	1	0
 सके	able	0	0	1	0
 सके	can	0	0	1	0
-सके	possible	0	0	1	0
 निर्देशक	director	0	0	1	0
-निर्देशक	nirdeshak	0	0	1	0
 घाँस	grass	0	0	1	0
-स्थापनाः	establishment	0	0	1	0
-स्थापनाः	establish	0	0	1	0
 स्थापनाः	established	0	0	1	0
-पनि	also	0	0	1	0
+स्थापनाः	establish	0	0	1	0
 पनि	pani	0	0	1	0
 पनि	too	0	0	1	0
 श्रेणीदेश	division of country	0	0	1	0
@@ -21562,7 +20649,6 @@ $	(american dollar) $	0	0	1	0
 सुरक्षाको	for security	0	0	1	0
 सुरक्षाको	for safety	0	0	1	0
 तात्कालीन	claim	0	0	1	0
-तात्कालीन	the then	0	0	1	0
 तात्कालीन	then	0	0	1	0
 यूराल	ural	0	0	1	0
 यूराल	yuraal	0	0	1	0
@@ -21603,12 +20689,10 @@ $	(american dollar) $	0	0	1	0
 ज्योर्जिया	gergia	0	0	1	0
 ज्योर्जिया	georgia	0	0	1	0
 पर्दछन्|	is in	0	0	1	0
-पर्दछन्|	pardachan	0	0	1	0
 पर्दछन्|	includes in	0	0	1	0
 जानकारी	information	0	0	1	0
 चंडीगढ	chandigarh	0	0	1	0
 चंडीगढ	chandigarh (city in india)	0	0	1	0
-चंडीगढ	chandigadh	0	0	1	0
 सुन्धारामा	sundhara	0	0	1	0
 सुन्धारामा	sundharama	0	0	1	0
 सुन्धारामा	improve	0	0	1	0
@@ -21647,7 +20731,6 @@ $	(american dollar) $	0	0	1	0
 प्रधानमन्त्रीको	pradhanmantriko	0	0	1	0
 अनिश्चितता	uncertaintity	0	0	1	0
 अनिश्चितता	uncertainty	0	0	1	0
-अनिश्चितता	uncertain	0	0	1	0
 टेम्ज	thames	0	0	1	0
 विरुद्धमा	against	0	0	1	0
 विरुद्धमा	virudhma	0	0	1	0
@@ -21687,7 +20770,6 @@ $	(american dollar) $	0	0	1	0
 तीर्थनारायण	teerthnarayan	0	0	1	0
 नवम	ninth	0	0	1	0
 दिइन्	give	0	0	1	0
-दिइन्	thien	0	0	1	0
 दिइन्	gave	0	0	1	0
 रङ्गीन	colorful	0	0	1	0
 कार्यपालिका	halifax	0	0	1	0
@@ -21704,14 +20786,12 @@ $	(american dollar) $	0	0	1	0
 अबु	egypt	0	0	1	0
 अबु	abu	0	0	1	0
 उनिमा	politics	0	0	1	0
-उनिमा	ttheirs	0	0	1	0
 उनिमा	her	0	0	1	0
 बरफ	ice	0	0	1	0
 हवाई	aerial	0	0	1	0
 हवाई	hawaii	0	0	1	0
 हवाई	air	0	0	1	0
 मिटरको	metre	0	0	1	0
-मिटरको	meter's	0	0	1	0
 सोधिने	asking	0	0	1	0
 सोधिने	asked	0	0	1	0
 गर्यो	did	0	0	1	0
@@ -21739,7 +20819,6 @@ $	(american dollar) $	0	0	1	0
 नवौ	running away with a man	0	0	1	0
 नवौ	ninth	0	0	1	0
 नवौ	navav	0	0	1	0
-राउत	raut	0	0	1	0
 राउत	raut (surname)	0	0	1	0
 राउत	ravut	0	0	1	0
 केरा	banana	0	0	1	0
@@ -21756,7 +20835,6 @@ $	(american dollar) $	0	0	1	0
 विकासको	development	0	0	1	0
 विकासको	growth	0	0	1	0
 शीत	cold	0	0	1	0
-शीत	fog	0	0	1	0
 शीत	dew	0	0	1	0
 उनले	unule	0	0	1	0
 उनले	he	0	0	1	0
@@ -21829,11 +20907,10 @@ $	(american dollar) $	0	0	1	0
 बाख्रा	goat	0	0	1	0
 आरोप	accusation	0	0	1	0
 आरोप	allegation	0	0	1	0
-महासचिव	president	0	0	1	0
 महासचिव	secretary general	0	0	1	0
 महासचिव	general secretary	0	0	1	0
-त्यो	thyo	0	0	1	0
-त्यो	that	0	0	1	0
+गम्भीर	serious	0	0	1	0
+गम्भीर	gambhir	0	0	1	0
 परेवा	pigeons	0	0	1	0
 परेवा	hello	0	0	1	0
 तिब्‍बती	tibetan	0	0	1	0
@@ -21850,7 +20927,6 @@ $	(american dollar) $	0	0	1	0
 टेलिकमले	telecom	0	0	1	0
 टेलिकमले	telecom's	0	0	1	0
 भरत	bharat	0	0	1	0
-भरत	india	0	0	1	0
 एक्वादोर	equador	0	0	1	0
 एक्वादोर	aquador	0	0	1	0
 एक्वादोर	ecuador	0	0	1	0
@@ -21894,7 +20970,6 @@ $	(american dollar) $	0	0	1	0
 सिलवासा	silawasa	0	0	1	0
 सिलवासा	silvasa	0	0	1	0
 सिलवासा	palace	0	0	1	0
-अपितु	but	0	0	1	0
 अभिव्यक्ति	expression	0	0	1	0
 अभिव्यक्ति	statement	0	0	1	0
 उपवास	fasting	0	0	1	0
@@ -21904,8 +20979,8 @@ $	(american dollar) $	0	0	1	0
 सजिलो	simple	0	0	1	0
 सजिलो	easy	0	0	1	0
 बाहुन	bahun	0	0	1	0
-ध्वजे	flag	0	0	1	0
 ध्वजे	dhwaje (hill)	0	0	1	0
+ध्वजे	flag	0	0	1	0
 ध्वजे	dwaje	0	0	1	0
 कुमारी	virgin	0	0	1	0
 कुमारी	kumari	0	0	1	0
@@ -21918,12 +20993,11 @@ $	(american dollar) $	0	0	1	0
 स्तरमा	level	0	0	1	0
 मूलका	origin	0	0	1	0
 मूलका	moolka	0	0	1	0
-बगाएर	where is the bathroom?	0	0	1	0
-बगाएर	swept	0	0	1	0
 बगाएर	bhagaair	0	0	1	0
+बगाएर	swept	0	0	1	0
+बगाएर	where is the bathroom?	0	0	1	0
 जलजले	jaljale	0	0	1	0
 ग्रन्थमा	texts	0	0	1	0
-ग्रन्थमा	some books	0	0	1	0
 ग्रन्थमा	body guard	0	0	1	0
 रिडी	aluminium	0	0	1	0
 बिहार	bihar	0	0	1	0
@@ -21942,7 +21016,6 @@ $	(american dollar) $	0	0	1	0
 हात	hand	0	0	1	0
 घटनाहरु	incident	0	0	1	0
 घटनाहरु	incidents	0	0	1	0
-घटनाहरु	events	0	0	1	0
 प्राविधिक	technical	0	0	1	0
 प्राविधिक	mediaeval	0	0	1	0
 सदैव	always	0	0	1	0
@@ -21971,7 +21044,6 @@ $	(american dollar) $	0	0	1	0
 कुण्डलीमा	kundali	0	0	1	0
 नैसर्गिक	natural	0	0	1	0
 नैसर्गिक	father	0	0	1	0
-नैसर्गिक	born-	0	0	1	0
 कयौं	many	0	0	1	0
 कयौं	why	0	0	1	0
 महानगर	cities	0	0	1	0
@@ -21993,20 +21065,18 @@ $	(american dollar) $	0	0	1	0
 ४४	please bring me a cup of tea	0	0	1	0
 ४५	number in nepali	0	0	1	0
 ४५	45	0	0	1	0
-४०	forty	0	0	1	0
 ४०	40	0	0	1	0
 बराह	twelve	0	0	1	0
 बराह	baraha	0	0	1	0
 बराह	barah (one of the avatars of god vishnu)	0	0	1	0
 नक्षत्रलाई	constellation	0	0	1	0
-नक्षत्रलाई	to constellation	0	0	1	0
 नक्षत्रलाई	tobacco	0	0	1	0
+नक्षत्रलाई	to constellation	0	0	1	0
 द्रोण	drone	0	0	1	0
 द्रोण	drona	0	0	1	0
 मंसिर	mangsir	0	0	1	0
 मंसिर	beggar	0	0	1	0
 मूल	prime	0	0	1	0
-मूल	main	0	0	1	0
 मूल	mool	0	0	1	0
 अखिल	all	0	0	1	0
 देशव्यापी	ubiquitous	0	0	1	0
@@ -22027,7 +21097,6 @@ $	(american dollar) $	0	0	1	0
 देख्या	seen	0	0	1	0
 वरपर	work	0	0	1	0
 कसैको	whose	0	0	1	0
-कसैको	anyone's	0	0	1	0
 फिफा	fifa	0	0	1	0
 नवलपरासी	navalparasi (a place in nepal)	0	0	1	0
 नवलपरासी	nawalparasi	0	0	1	0
@@ -22039,10 +21108,8 @@ $	(american dollar) $	0	0	1	0
 नोभेम्वर	november	0	0	1	0
 लोकतान्त्रिक	democratic	0	0	1	0
 लोकतान्त्रिक	take off clothes	0	0	1	0
-मझेरी	majeri	0	0	1	0
 मझेरी	majheri	0	0	1	0
 मझेरी	mine	0	0	1	0
-राखिएको	placed	0	0	1	0
 राखिएको	exactly	0	0	1	0
 राखिएको	kept	0	0	1	0
 बोलिभिया	brazil	0	0	1	0
@@ -22070,7 +21137,6 @@ $	(american dollar) $	0	0	1	0
 हानी	loss	0	0	1	0
 हानी	through	0	0	1	0
 हानी	he	0	0	1	0
-मकवानपुरगढी	makwanpuragati	0	0	1	0
 मकवानपुरगढी	makwanpur(name of a place) fort	0	0	1	0
 उहाँ	is he	0	0	1	0
 उहाँ	there	0	0	1	0
@@ -22089,9 +21155,9 @@ $	(american dollar) $	0	0	1	0
 दक्षीणमा	south	0	0	1	0
 बर्लिन	berlin	0	0	1	0
 स्पेस	space	0	0	1	0
-कृष्णप्रसाद	krishnaprasad (name of a person)	0	0	1	0
-कृष्णप्रसाद	krishna prasad	0	0	1	0
-कृष्णप्रसाद	lord krishanas offering	0	0	1	0
+सरकारी	governmental	0	0	1	0
+सरकारी	official	0	0	1	0
+सरकारी	government	0	0	1	0
 गर्नुहोस	garnuhos	0	0	1	0
 गर्नुहोस	keep it	0	0	1	0
 उड्डयन्	aviation	0	0	1	0
@@ -22125,7 +21191,6 @@ $	(american dollar) $	0	0	1	0
 ऋ	a'	0	0	1	0
 दृष्टिगत	looking	0	0	1	0
 दृष्टिगत	visualize	0	0	1	0
-९मा	in 9	0	0	1	0
 ९मा	9th	0	0	1	0
 चलाउन	offence	0	0	1	0
 चलाउन	run	0	0	1	0
@@ -22150,8 +21215,8 @@ $	(american dollar) $	0	0	1	0
 लप्सी	lapsi (food product)	0	0	1	0
 लप्सी	lapsi	0	0	1	0
 गर्दथे	do	0	0	1	0
-गर्दथे	gardhthe	0	0	1	0
 गर्दथे	used to	0	0	1	0
+गर्दथे	gardhthe	0	0	1	0
 समाजशास्त्रको	sociology	0	0	1	0
 समाजशास्त्रको	to sociology	0	0	1	0
 समाजशास्त्रको	of sociology	0	0	1	0
@@ -22185,7 +21250,6 @@ $	(american dollar) $	0	0	1	0
 बढाए	increased	0	0	1	0
 उर्जा	energy	0	0	1	0
 उर्जा	urja	0	0	1	0
-चौंथो	4th	0	0	1	0
 चौंथो	fourth	0	0	1	0
 चौंथो	goodbye	0	0	1	0
 ठाउँको	place	0	0	1	0
@@ -22203,7 +21267,6 @@ $	(american dollar) $	0	0	1	0
 सम्बद्ध	new moon	0	0	1	0
 सम्बद्ध	related	0	0	1	0
 १२०	120	0	0	1	0
-हरिजन	harijans	0	0	1	0
 हरिजन	harijan	0	0	1	0
 अवस्था	position	0	0	1	0
 अवस्था	situation	0	0	1	0
@@ -22214,7 +21277,6 @@ $	(american dollar) $	0	0	1	0
 हिमालहरू	suddenly	0	0	1	0
 हिमालहरू	mountains	0	0	1	0
 हिमालहरु	himalaya	0	0	1	0
-हिमालहरु	himalayas	0	0	1	0
 हिमालहरु	overturning	0	0	1	0
 वरिपरिको	nativity	0	0	1	0
 वरिपरिको	around	0	0	1	0
@@ -22312,10 +21374,8 @@ $	(american dollar) $	0	0	1	0
 सस्वर	with vowels	0	0	1	0
 अवसर	avsar	0	0	1	0
 अवसर	occasion	0	0	1	0
-अवसर	oppurtunity	0	0	1	0
 यक्ष	yaksha	0	0	1	0
 यक्ष	yaksha (name of a person)	0	0	1	0
-लडे	fight	0	0	1	0
 लडे	fought	0	0	1	0
 लडे	quarrel	0	0	1	0
 भ्रमण	visit	0	0	1	0
@@ -22349,7 +21409,6 @@ $	(american dollar) $	0	0	1	0
 पछि	after	0	0	1	0
 पछि	short	0	0	1	0
 भीड	public / market place	0	0	1	0
-भीड	croud	0	0	1	0
 भीड	crowd	0	0	1	0
 भीम	bhim	0	0	1	0
 भीम	bhim - name	0	0	1	0
@@ -22372,7 +21431,6 @@ $	(american dollar) $	0	0	1	0
 मिश्रण	mix	0	0	1	0
 मिश्रण	mixture	0	0	1	0
 स्मृति	remembrance	0	0	1	0
-स्मृति	smruthi	0	0	1	0
 स्मृति	memory	0	0	1	0
 भनिएको	told as	0	0	1	0
 भनिएको	said	0	0	1	0
@@ -22381,9 +21439,7 @@ $	(american dollar) $	0	0	1	0
 मुर्ती	though	0	0	1	0
 प्रवेशद्वार	entry	0	0	1	0
 प्रवेशद्वार	entrance	0	0	1	0
-प्रवेशद्वार	entry gate	0	0	1	0
 नजर	sight	0	0	1	0
-नजर	nazar	0	0	1	0
 लिवाङ	livarh	0	0	1	0
 लिवाङ	liwang	0	0	1	0
 भीमसेन	bhimsen	0	0	1	0
@@ -22457,8 +21513,8 @@ $	(american dollar) $	0	0	1	0
 बिरामी	sick	0	0	1	0
 नदेख्ने	not sighted	0	0	1	0
 नदेख्ने	blind	0	0	1	0
-दक्षिणपश्चिममा	in southwest	0	0	1	0
 दक्षिणपश्चिममा	in south-west	0	0	1	0
+दक्षिणपश्चिममा	in southwest	0	0	1	0
 रूप	form	0	0	1	0
 रूप	year	0	0	1	0
 शिक्षित	educated	0	0	1	0
@@ -22493,7 +21549,6 @@ $	(american dollar) $	0	0	1	0
 खुम्बु	khumbhu ( glacier)	0	0	1	0
 राख्नुहोला	keep	0	0	1	0
 विष्णुको	vishnu -a lord	0	0	1	0
-विष्णुको	of bishnu	0	0	1	0
 विष्णुको	vishnu	0	0	1	0
 अन्तर्राष्ट्रीय	coordinated uiversal time	0	0	1	0
 अन्तर्राष्ट्रीय	international	0	0	1	0
@@ -22514,8 +21569,8 @@ $	(american dollar) $	0	0	1	0
 मानेर	assume	0	0	1	0
 मानेर	accepting	0	0	1	0
 मानेर	the lord	0	0	1	0
-प्रेमेजुङ	premejud	0	0	1	0
 प्रेमेजुङ	premjunge	0	0	1	0
+प्रेमेजुङ	premejud	0	0	1	0
 प्रेमेजुङ	premejung (a place in nepal)	0	0	1	0
 समस्याहरु	to fix a date	0	0	1	0
 समस्याहरु	problem	0	0	1	0
@@ -22524,7 +21579,6 @@ $	(american dollar) $	0	0	1	0
 सुन्दरता	beauty	0	0	1	0
 देवीनगर	devinagar	0	0	1	0
 अश्विनी	ashwini	0	0	1	0
-अश्विनी	aswini	0	0	1	0
 अश्विनी	ashwini (name of a person)	0	0	1	0
 हाँस्य	witty	0	0	1	0
 हाँस्य	humorous	0	0	1	0
@@ -22532,16 +21586,14 @@ $	(american dollar) $	0	0	1	0
 आमा	mother	0	0	1	0
 आमा	exchange	0	0	1	0
 चौधरी	choudhary	0	0	1	0
-चौधरी	chaudhari	0	0	1	0
 चौधरी	chaudhary	0	0	1	0
+चौधरी	chaudhari	0	0	1	0
 हुनेछ	will be	0	0	1	0
-हुनेछ	hunech	0	0	1	0
 टुकुचे	tujuche	0	0	1	0
 टुकुचे	tukuche	0	0	1	0
 गुना	bhote	0	0	1	0
 गुना	times	0	0	1	0
 सँगसँगै	together	0	0	1	0
-सँगसँगै	along with	0	0	1	0
 दोलखालाई	of dolkha (a place in nepal)	0	0	1	0
 दोलखालाई	dholkhaliyi	0	0	1	0
 दोलखालाई	dolakha	0	0	1	0
@@ -22554,7 +21606,6 @@ $	(american dollar) $	0	0	1	0
 मन्दिरको	temple	0	0	1	0
 मन्दिरमस्जीद्	mention	0	0	1	0
 मन्दिरमस्जीद्	temple mosque	0	0	1	0
-कमजोर	kamjore	0	0	1	0
 कमजोर	weak	0	0	1	0
 कमजोर	kamjor	0	0	1	0
 विषयवस्तु	subject matter	0	0	1	0
@@ -22569,11 +21620,9 @@ $	(american dollar) $	0	0	1	0
 तीमध्ये	theemdhye	0	0	1	0
 मिनेट	minute	0	0	1	0
 तम्घास	tmgas	0	0	1	0
-तम्घास	thamgas	0	0	1	0
 तम्घास	tamghas	0	0	1	0
 संग्रहालय	museum	0	0	1	0
 संग्रहालय	mueseum	0	0	1	0
-नेदरल्याण्ड्स	nedarlands	0	0	1	0
 नेदरल्याण्ड्स	netherlands	0	0	1	0
 अम्दो	amdo	0	0	1	0
 अम्दो	under	0	0	1	0
@@ -22617,16 +21666,13 @@ $	(american dollar) $	0	0	1	0
 मानदेवको	mandev	0	0	1	0
 इतिहास	stove	0	0	1	0
 इतिहास	history	0	0	1	0
-दमक	dhamak	0	0	1	0
 दमक	damak	0	0	1	0
 ह्युमर	humaar	0	0	1	0
-ह्युमर	minister	0	0	1	0
 ह्युमर	humour	0	0	1	0
 भात	sure knowledge	0	0	1	0
 भात	brass	0	0	1	0
 भात	rice	0	0	1	0
 जनकपुरको	janakpur	0	0	1	0
-जनकपुरको	janakpurkho	0	0	1	0
 श्रेष्ठका	shrestka	0	0	1	0
 श्रेष्ठका	shrestha	0	0	1	0
 १९	19	0	0	1	0
@@ -22637,7 +21683,6 @@ $	(american dollar) $	0	0	1	0
 भार	load	0	0	1	0
 भार	responsibility	0	0	1	0
 भार	bhar	0	0	1	0
-गरिसकेका	done	0	0	1	0
 अत्यान्त	very much	0	0	1	0
 अत्यान्त	passend	0	0	1	0
 अत्यान्त	extreme	0	0	1	0
@@ -22650,13 +21695,10 @@ $	(american dollar) $	0	0	1	0
 बुढाथोकी	budhathoki	0	0	1	0
 बुढाथोकी	to spend	0	0	1	0
 भाइ	brother	0	0	1	0
-जातीको	tribe	0	0	1	0
-जातीको	rivalry	0	0	1	0
-जातीको	of caste	0	0	1	0
+युरोपमा	in europe	0	0	1	0
 ह	movement	0	0	1	0
 १२	12	0	0	1	0
 उनीहरुलाई	their	0	0	1	0
-उनीहरुलाई	to them	0	0	1	0
 शाहवंशीय	shah dynasty	0	0	1	0
 शाहवंशीय	shah dynesty	0	0	1	0
 शाहवंशीय	of shah family	0	0	1	0
@@ -22678,7 +21720,6 @@ $	(american dollar) $	0	0	1	0
 धन्यवाद	thank	0	0	1	0
 थालियो	started	0	0	1	0
 थालियो	plate	0	0	1	0
-अचेल	nowadays	0	0	1	0
 अचेल	to stand up	0	0	1	0
 अचेल	achel	0	0	1	0
 संस्कृतबाट	from sanskrit	0	0	1	0
@@ -22726,7 +21767,6 @@ $	(american dollar) $	0	0	1	0
 खालका	of type	0	0	1	0
 खालका	skin	0	0	1	0
 कंगो	day	0	0	1	0
-कंगो	cango	0	0	1	0
 ताहिं	to you	0	0	1	0
 ताहिं	that	0	0	1	0
 अङ्रेजी	english	0	0	1	0
@@ -22756,7 +21796,6 @@ $	(american dollar) $	0	0	1	0
 किमी	kilometer	0	0	1	0
 किमी	km. (kilometer)	0	0	1	0
 श्रेणीक्रिश्चियन	gradechristian	0	0	1	0
-श्रेणीक्रिश्चियन	division: christian	0	0	1	0
 थकतुम्बाहरु	thak tumbas (community leaders)	0	0	1	0
 थकतुम्बाहरु	thakatumbaharu	0	0	1	0
 थकतुम्बाहरु	thaktumbha	0	0	1	0
@@ -22799,7 +21838,6 @@ $	(american dollar) $	0	0	1	0
 युनेस्कोले	unescole	0	0	1	0
 व्यवहार	behaviour	0	0	1	0
 व्यवहार	behavior	0	0	1	0
-व्यवहार	vyavahaar	0	0	1	0
 जुठापौवा	juthapauwa	0	0	1	0
 जुठापौवा	jutapavba	0	0	1	0
 जुठापौवा	jhuthapuwa	0	0	1	0
@@ -22809,7 +21847,6 @@ $	(american dollar) $	0	0	1	0
 सुब्बा	subba	0	0	1	0
 सुब्बा	subba (a surname of nepali people)	0	0	1	0
 फूलकमल	flower lotus	0	0	1	0
-फूलकमल	flower is lotus	0	0	1	0
 नाटकीय	dramatic	0	0	1	0
 नाटकीय	natakiya	0	0	1	0
 वर्णमाला	alphabet	0	0	1	0
@@ -22823,6 +21860,9 @@ $	(american dollar) $	0	0	1	0
 सदरमुकामहरूमा	sadarmukam -name	0	0	1	0
 सदरमुकामहरूमा	headquarters	0	0	1	0
 सदरमुकामहरूमा	capital	0	0	1	0
+चलेका	chaleka	0	0	1	0
+चलेका	running	0	0	1	0
+चलेका	run	0	0	1	0
 संस्कृतिलाई	sanskritlaai	0	0	1	0
 संस्कृतिलाई	rituals	0	0	1	0
 संस्कृतिलाई	to the culture	0	0	1	0
@@ -22852,7 +21892,6 @@ $	(american dollar) $	0	0	1	0
 चराहरू	birds	0	0	1	0
 सृष्टिलाई	universe	0	0	1	0
 सृष्टिलाई	creation	0	0	1	0
-सृष्टिलाई	to universe	0	0	1	0
 मध्यमा	among	0	0	1	0
 मध्यमा	clean	0	0	1	0
 मध्यमा	between	0	0	1	0
@@ -22863,7 +21902,6 @@ $	(american dollar) $	0	0	1	0
 दिछन	pay	0	0	1	0
 दिछन	get done	0	0	1	0
 दिछन	thumb	0	0	1	0
-यसका	yaska	0	0	1	0
 यसका	for this	0	0	1	0
 यसका	thats	0	0	1	0
 भूभागमा	in the terrain	0	0	1	0
@@ -22886,7 +21924,6 @@ $	(american dollar) $	0	0	1	0
 सरकारद्वारा	by government	0	0	1	0
 सरकारद्वारा	by the government	0	0	1	0
 सरकारद्वारा	government	0	0	1	0
-श्रृङ्खलाको	of range	0	0	1	0
 श्रृङ्खलाको	series	0	0	1	0
 श्रृङ्खलाको	of series	0	0	1	0
 आदी	etc	0	0	1	0
@@ -22896,7 +21933,6 @@ $	(american dollar) $	0	0	1	0
 ७५१६	7516	0	0	1	0
 ७५१६	7526	0	0	1	0
 हुनगएको	become	0	0	1	0
-शुम्भनिशुम्भ	sumbha nisumbha (names of demon )	0	0	1	0
 शुम्भनिशुम्भ	shumbhanishumbha	0	0	1	0
 २८२४	2824	0	0	1	0
 विकिपीडियालाई	in wikipedia	0	0	1	0
@@ -22913,14 +21949,12 @@ $	(american dollar) $	0	0	1	0
 सिलसिलामा	in the purpose of	0	0	1	0
 सिलसिलामा	for	0	0	1	0
 ग्वार	gowar	0	0	1	0
-खोल्ने	kolne	0	0	1	0
 खोल्ने	open	0	0	1	0
 निवासमा	house	0	0	1	0
 निवासमा	at home	0	0	1	0
 निवासमा	in residence	0	0	1	0
 उपरीक्षक	upareekshak	0	0	1	0
 उपरीक्षक	superintendent	0	0	1	0
-निरङ्कुश	nirankrush	0	0	1	0
 निरङ्कुश	nirdus	0	0	1	0
 निरङ्कुश	autocratic	0	0	1	0
 श्रेष्ठले	by shrestha	0	0	1	0
@@ -22935,9 +21969,7 @@ $	(american dollar) $	0	0	1	0
 दांजोमा	comparision	0	0	1	0
 दांजोमा	in comparision to	0	0	1	0
 दांजोमा	danjoma	0	0	1	0
-किन	to comedown	0	0	1	0
-किन	why	0	0	1	0
-किन	aleph	0	0	1	0
+युरोपियन	european	0	0	1	0
 दर्पण	mirror	0	0	1	0
 निक्षेप	balance	0	0	1	0
 निक्षेप	deposit	0	0	1	0
@@ -22953,10 +21985,8 @@ $	(american dollar) $	0	0	1	0
 उन्नतिको	unnatiko	0	0	1	0
 बाहिरका	out of	0	0	1	0
 बाहिरका	of outer	0	0	1	0
-बाहिरका	outsider	0	0	1	0
 परम्परा	traditional	0	0	1	0
 परम्परा	rituals	0	0	1	0
-परम्परा	tradition	0	0	1	0
 देशलाई	country	0	0	1	0
 देशलाई	outcaste	0	0	1	0
 देशलाई	country was	0	0	1	0
@@ -22964,7 +21994,6 @@ $	(american dollar) $	0	0	1	0
 नभएर	not being	0	0	1	0
 नभएर	was not	0	0	1	0
 रोमानी	roman	0	0	1	0
-रोमानी	romaani	0	0	1	0
 ठाकुरद्वारा	by thakur	0	0	1	0
 ठाकुरद्वारा	takurdwara	0	0	1	0
 ठाकुरद्वारा	thakur	0	0	1	0
@@ -22983,14 +22012,12 @@ $	(american dollar) $	0	0	1	0
 सीमामा	at border	0	0	1	0
 सीमामा	in boundary	0	0	1	0
 सीमामा	sense	0	0	1	0
-मृगशिरा	deer head	0	0	1	0
+अपितु	but	0	0	1	0
 वर्षाको	rainfall	0	0	1	0
 वर्षाको	rain	0	0	1	0
-शब्दले	graphy	0	0	1	0
 शब्दले	word	0	0	1	0
 शब्दले	by word	0	0	1	0
 डाँडो	dando - name	0	0	1	0
-डाँडो	hill	0	0	1	0
 डाँडो	dando	0	0	1	0
 अँ	ang (devanagari alphabet)	0	0	1	0
 अँ	am	0	0	1	0
@@ -22998,7 +22025,6 @@ $	(american dollar) $	0	0	1	0
 चिनियाँ	chinese	0	0	1	0
 विचलन	disturbed	0	0	1	0
 विचलन	distract	0	0	1	0
-विचलन	moving some where	0	0	1	0
 अं	err	0	0	1	0
 दसैंका	all ten	0	0	1	0
 काँग्रेसको	of congress	0	0	1	0
@@ -23008,7 +22034,6 @@ $	(american dollar) $	0	0	1	0
 भुटान	bhutan	0	0	1	0
 पारिवारिक	family	0	0	1	0
 पारिवारिक	familial	0	0	1	0
-काण्डमा	case	0	0	1	0
 काण्डमा	kandma	0	0	1	0
 काण्डमा	in case	0	0	1	0
 हाङ्ग	hang	0	0	1	0
@@ -23067,18 +22092,18 @@ $	(american dollar) $	0	0	1	0
 कचल	kachal	0	0	1	0
 कतार	katar	0	0	1	0
 कतार	prayer room	0	0	1	0
-कतार	qatar	0	0	1	0
 नेताहरुले	by leaders	0	0	1	0
 नेताहरुले	leader	0	0	1	0
 नेताहरुले	leaders	0	0	1	0
-थिए	thiy	0	0	1	0
-थिए	was	0	0	1	0
 थिए	thia	0	0	1	0
+थिए	was	0	0	1	0
 थिए	were	0	0	1	0
 माओवादीहरु	maoist	0	0	1	0
 माओवादीहरु	maoists	0	0	1	0
 विषे	towards	0	0	1	0
-अब	now	0	0	1	0
+महाचीनबाट	great china	0	0	1	0
+महाचीनबाट	from great china	0	0	1	0
+महाचीनबाट	mahachinbat	0	0	1	0
 चौलागाई	chulagai	0	0	1	0
 चौलागाई	chaulagai	0	0	1	0
 चौलागाई	chaulagain (nepali surname)	0	0	1	0
@@ -23105,11 +22130,9 @@ $	(american dollar) $	0	0	1	0
 प्रवेस	enter	0	0	1	0
 निकुञ्ज	nikunja	0	0	1	0
 निकुञ्ज	nickunje	0	0	1	0
-निकुञ्ज	conservation area	0	0	1	0
 १४७१८१	147181	0	0	1	0
 टोलमा	tolma	0	0	1	0
 टोलमा	in community	0	0	1	0
-टोलमा	village	0	0	1	0
 पुगेका	reached	0	0	1	0
 पुगेका	pugeka	0	0	1	0
 पुगेका	reach	0	0	1	0
@@ -23124,7 +22147,6 @@ $	(american dollar) $	0	0	1	0
 हजारौं	thousands	0	0	1	0
 हजारौँ	hazaron	0	0	1	0
 हजारौँ	an open field	0	0	1	0
-हजारौँ	hazarou	0	0	1	0
 ए	a	0	0	1	0
 ए	ye	0	0	1	0
 गई	went	0	0	1	0
@@ -23147,7 +22169,6 @@ $	(american dollar) $	0	0	1	0
 भएनन्	bheynan	0	0	1	0
 भएनन्	did not happen	0	0	1	0
 भएनन्	not have	0	0	1	0
-पूर्णिमाको	of full moon night	0	0	1	0
 पूर्णिमाको	full moon	0	0	1	0
 गत	last	0	0	1	0
 गण	clan	0	0	1	0
@@ -23158,7 +22179,6 @@ $	(american dollar) $	0	0	1	0
 गढ	small fort	0	0	1	0
 किमि	km (short form of kilometre)	0	0	1	0
 किमि	kick	0	0	1	0
-किमि	kilometers	0	0	1	0
 बेग्लै	different	0	0	1	0
 बेग्लै	another	0	0	1	0
 भुटानमा	in bhutan	0	0	1	0
@@ -23191,9 +22211,8 @@ $	(american dollar) $	0	0	1	0
 दैनिक	daily	0	0	1	0
 प्लास्मोडियम	plasmodium	0	0	1	0
 शव्द	word	0	0	1	0
-महाचीनबाट	great china	0	0	1	0
-महाचीनबाट	from great china	0	0	1	0
-महाचीनबाट	mahachinbat	0	0	1	0
+विज्ञापनका	its prompt in the field of culture and custom	0	0	1	0
+विज्ञापनका	advertisement	0	0	1	0
 अफ	of	0	0	1	0
 अफ	up	0	0	1	0
 अप	up	0	0	1	0
@@ -23204,7 +22223,6 @@ $	(american dollar) $	0	0	1	0
 संयुक्त	combined	0	0	1	0
 शिवलिङ्ग	shiva linga	0	0	1	0
 शिवलिङ्ग	shivlinga	0	0	1	0
-शिवलिङ्ग	shivling (hindu idol of lord shiva)	0	0	1	0
 अभिनेता	abhinetha	0	0	1	0
 अभिनेता	actor	0	0	1	0
 रसायनिक	chemical	0	0	1	0
@@ -23212,11 +22230,9 @@ $	(american dollar) $	0	0	1	0
 भागमा	part	0	0	1	0
 गढी	fort	0	0	1	0
 पुगेको	reached	0	0	1	0
-पुगेको	reach	0	0	1	0
 कृषियोग्य	agriable	0	0	1	0
 कृषियोग्य	cultivable	0	0	1	0
 ढुंगामा	on rock	0	0	1	0
 ढुंगामा	stone	0	0	1	0
 नेपालीहरुले	for nepalese	0	0	1	0
-नेपालीहरुले	by nepalese	0	0	1	0
 नेपालीहरुले	nepali	0	0	1	0

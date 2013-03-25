@@ -21,7 +21,6 @@
 人力車	rickshaw	1	1	0	0
 人力車	type	1	0	1	0
 人力車	jinricksha	1	1	0	0
-岡田麿里	field	0	0	1	0
 鄭　融	rong zheng	0	0	1	0
 鄭　融	stephanie cheng	0	0	1	0
 傑少之星	star of the election of hk outstanding teenagers	0	0	1	0
@@ -37,7 +36,6 @@
 阿里斯托芬	of traffic	1	0	1	0
 阿里斯托芬	traffic	1	0	1	0
 阿里斯托芬	aristophanes	1	1	0	0
-宗教信仰	religious beliefs	0	0	1	0
 毫克分升或以上	(milligram/deciliter) or more	0	0	1	0
 隔天水之七島傳出了令人震驚的消息該城鎮的市長艾斯巴古遭到不明人士襲擊而身受重傷由於艾斯巴古清醒後一口咬定被襲擊的當天看到羅賓跟犯人走在一起因此讓草帽海賊團成了水之七都島民和船匠追殺的對象佛朗基也因為自己的家被魯夫破壞小弟被打傷一事想找草帽海賊團算帳羅賓則在事發後的第二天出現在要找她的香吉士和喬巴面前發出了要退出草帽海賊團的宣言魯夫等人為了從羅賓口中問出想退出海賊團的原因決定當晚上潛入艾斯巴古宅邸	...decided to sneak into ...	0	0	1	0
 不可自由編輯中華百科全書台灣大百科等	unable to edit freely: chinese encyclopedia	0	0	1	0
@@ -68,13 +66,11 @@
 代班主持	substitute host	0	0	1	0
 轟鬼	todoroki	0	0	1	0
 四川省體育館	sichuan stadium	0	0	1	0
-四川省體育館	sichuan gymnasium	0	0	1	0
 四川省體育館	sichuan gymnasuin	0	0	1	0
 蔥熊瑪利亞	negikuma maria (appears to be a female character in the japanese manga "one piece")	0	0	1	0
 此外根據紀事北京自月日至月日投案自首的人數達人數目遠高於通緝名單的人亦收繳了支槍支發子彈月日陳希同發表關於制止動亂和平息反革命暴亂的情況報告指出受毀軍車有多輛裝甲車多輛警車多輛公共汽車多輛其他機動車多輛官方影片甚至可以看到被燒毀的車輛排滿街道	even can see that burned vehicles are lined up on the street.	0	0	1	0
 合計	total	0	0	1	0
 歲	years of age	0	0	1	0
-歲	years old	0	0	1	0
 集英社	shueisha inc.	0	0	1	0
 集英社	shueisha	0	0	1	0
 福氣又安康	luckiness and health	0	0	1	0
@@ -93,7 +89,6 @@
 至親筆記	intimate note	0	0	1	0
 至親筆記	fighter club	0	0	1	0
 至親筆記	best friend's note	0	0	1	0
-第二十四回	the twenty-fourth chapter	0	0	1	0
 第二十四回	chapter twenty-four	0	0	1	0
 第二十四回	episode 24	0	0	1	0
 月日永明金融呈獻	month day presented by sunlife financial	0	0	1	0
@@ -101,7 +96,6 @@
 藍白紅	blue	0	0	1	0
 藍白紅	white	0	0	1	0
 藍白紅	red	0	0	1	0
-星期二	tuesday	0	0	1	1
 行政区划	administrative division	0	0	1	0
 行政区划	administrative divisions	0	0	1	0
 根據香港電台神州五十年	based rthk's china 50 years	0	0	1	0
@@ -213,8 +207,8 @@
 音樂生涯	musical career	0	0	1	0
 年度最佳音樂錄影帶	best annual music tv	0	0	1	0
 年度最佳音樂錄影帶	musical video of the year	0	0	1	0
-简历	summary	0	0	1	0
 简历	resume	0	0	1	1
+简历	summary	0	0	1	0
 遇上愛	meeting love	0	0	1	0
 遇上愛	encounter love	0	0	1	0
 第話第話	chapter	0	0	1	0
@@ -228,9 +222,7 @@
 截止月日上海有人向公安自首人被捕並聲稱破獲三個反革命集團和二起台灣國民黨特務案上海高自聯骨幹分子香港居民姚勇戰又名張才在虹橋機場出境時被捕黑龍江吉林遼寧拘捕人陝西山西內蒙四川湖南湖北安徽江蘇等地亦人其中貴州更宣稱抓獲流竄犯罪人摧毀團夥個這些拘捕人士與六四並無必然關係但因碰上嚴打嚴審的時期量刑也被增加相對來說在大清算中廣東海南以及廣西處理較為寬鬆对干部知识分子和大学生处理相对轻美國维权网更指出各地法庭则依据共产党的政策从重从快判决了一批社会上的动乱暴乱分子一些人遭到处决並在月日起陸續以新聞方式告之直至年仍有至少十三名北京市民在押	at least thirteen beijing citizens are still in custody	0	0	1	0
 截止月日上海有人向公安自首人被捕並聲稱破獲三個反革命集團和二起台灣國民黨特務案上海高自聯骨幹分子香港居民姚勇戰又名張才在虹橋機場出境時被捕黑龍江吉林遼寧拘捕人陝西山西內蒙四川湖南湖北安徽江蘇等地亦人其中貴州更宣稱抓獲流竄犯罪人摧毀團夥個這些拘捕人士與六四並無必然關係但因碰上嚴打嚴審的時期量刑也被增加相對來說在大清算中廣東海南以及廣西處理較為寬鬆对干部知识分子和大学生处理相对轻美國维权网更指出各地法庭则依据共产党的政策从重从快判决了一批社会上的动乱暴乱分子一些人遭到处决並在月日起陸續以新聞方式告之直至年仍有至少十三名北京市民在押	till year ~	0	0	1	0
 光宗	emperor guangzong	0	0	1	0
-東海海都大閘蟹	hairy crab in the east coast	0	0	1	0
-東海海都大閘蟹	eastern ocean restaurant huge lobster	0	0	1	0
-東海海都大閘蟹	eastern sea city crab	0	0	1	0
+|發售日=	issue date	0	0	1	0
 舞台剧	drama	0	0	1	0
 舞台剧	musical drama	0	0	1	0
 舞台剧	theatre	0	0	1	0
@@ -261,14 +253,9 @@
 淡水漁人碼頭	tamsui fisherman's wharf	0	0	1	0
 淡水漁人碼頭	fresh water fisherman's wharf	0	0	1	0
 年月日花樣少年少女電視原聲帶	year mouth date flower look young male young girl electronic vision original sound tape	0	0	1	0
-年月日花樣少年少女電視原聲帶	year month day flower-like girl tv soundtrack	0	0	1	0
 出處	source	0	0	1	0
 出處	from	0	0	1	0
-月日出生公分公斤	month	0	0	1	0
-月日出生公分公斤	birthday	0	0	1	0
-月日出生公分公斤	date born centimeter kilogram	0	0	1	0
-月日出生公分公斤	weight	0	0	1	0
-月日出生公分公斤	height	0	0	1	0
+前原	japanese sir name	0	0	1	0
 著名战役	famous battle	0	0	1	0
 七月	july	0	0	1	1
 林仙科	winteraceae	1	1	0	0
@@ -278,7 +265,6 @@
 收錄於	recorded in	0	0	1	0
 收錄於	included in...	0	0	1	0
 雍和宫中国汉族地区规模最大的藏传佛教寺庙也是目前全北京市人气最旺的佛教寺庙每年农历正月初一北京地铁雍和宫站都不停车甩站而过以对付来此地祈福的超高的人流	to deal with the super high flow of people who come to pray for good fortune	0	0	1	0
-雍和宫中国汉族地区规模最大的藏传佛教寺庙也是目前全北京市人气最旺的佛教寺庙每年农历正月初一北京地铁雍和宫站都不停车甩站而过以对付来此地祈福的超高的人流	in order to deal with the overwhelming crowd who came here to pray for blessings	0	0	1	0
 靈薄獄	spiritual hell	1	0	1	0
 靈薄獄	saudi	1	0	1	0
 靈薄獄	limbo	1	1	0	0
@@ -308,7 +294,7 @@
 日凌晨二時學生領袖宣佈有萬人參加絕食活動在當天記者會上王丹說昨晚我們作出了一項非常重要的決定即停止我們的絕食活動但是李鵬和楊尚昆說這次民主示威活動是動亂所以有二十萬人將繼續進行絕食一位北大語言教職員說他之所以參加絕食是因為學生是對的我們的政府錯了	our government is wrong	0	0	1	0
 痛哭	crying histerically	0	0	1	0
 痛哭	wail	0	0	1	0
-吳宇森	john woo yu-sen	0	0	1	0
+重要城镇	important city-town	0	0	1	0
 認知率佔評分人數	cognition and utilization ratio in graded people	0	0	1	0
 阿諾河	river arno	1	0	1	0
 阿諾河	material	1	0	1	0
@@ -325,10 +311,7 @@
 月日新城勁爆頒獎禮	hongkong music awards	0	0	1	0
 李麗蕊	lilei li	0	0	1	0
 假如你還在這裡	if you are still here	0	0	1	0
-假如你還在這裡	if you were sill here	0	0	1	0
 欧洲	europe	0	0	1	1
-话剧希特勒的肚子年	an act on hitler's stomach	0	0	1	0
-六四亦引發大規模的移民潮在六四後數年平均每年近萬人移民海外一些像佛得角等小國也在雜誌上刊登廣告宣傳該國護照可供申請甚至香港市民前往中國旅遊的意願也大減有專辦中國遊的旅遊公司更因此倒閉同時也使日韓旅遊生意於下半年有所增加	increase the trade volume	0	0	1	0
 六四亦引發大規模的移民潮在六四後數年平均每年近萬人移民海外一些像佛得角等小國也在雜誌上刊登廣告宣傳該國護照可供申請甚至香港市民前往中國旅遊的意願也大減有專辦中國遊的旅遊公司更因此倒閉同時也使日韓旅遊生意於下半年有所增加	tourism to japan and korea is increased in the latter half of the year	0	0	1	0
 蘇格拉底教學法	socratic method	0	0	1	0
 幸太郎	kotaro	0	0	1	0
@@ -370,9 +353,7 @@
 第頻道	channel number	0	0	1	0
 第頻道	channel number ?	0	0	1	0
 第頻道	the channel of	0	0	1	0
-詞曲張燕清主唱羅時豐龍千玉	singers: luo shifeng	0	0	1	0
-詞曲張燕清主唱羅時豐龍千玉	long qianyu	0	0	1	0
-詞曲張燕清主唱羅時豐龍千玉	lyrics and music: zhang yanqing	0	0	1	0
+第一次	first	0	0	1	1
 榜中榜	list in the list	0	0	1	0
 動畫版	animated version	0	0	1	0
 新装版	new package	0	0	1	0
@@ -388,7 +369,6 @@
 首播於東風衛視	premier at azio tv	0	0	1	0
 港島區總區道路安全大使交通局	hong kong island regional road safety ambassador transport authority	0	0	1	0
 港島區總區道路安全大使交通局	road safety prolocutor of hong kong island district department of transportation	0	0	1	0
-港島區總區道路安全大使交通局	hong kong island district road safety ambassador department of transportation	0	0	1	0
 第位	number position	0	0	1	0
 第三十四屆十大中文金曲頒獎典禮	the 34th top ten chinese songs award presentation ceremony	0	0	1	0
 英皇群星	eeg artistes	0	0	1	0
@@ -410,8 +390,6 @@
 佛教學術界	buddhism academia	0	0	1	0
 拉纲尔斯	ravels	1	1	0	0
 失憶	memory loss	0	0	1	0
-區郡	? district ? area	0	0	1	0
-手機刑事	keitai deka	0	0	1	0
 第集～第集	~th episode	0	0	1	0
 楊丞琳	rainie yang	0	0	1	0
 年～年	year~year	0	0	1	0
@@ -423,7 +401,6 @@
 台中	taichung	0	0	1	1
 最終幻想	final fantasy	0	0	1	0
 鄭秀文世界巡迴演唱會新加坡站	sammi cheng's world tour - singapore	0	0	1	0
-有關成員個人名義之演出請參見個別項目	please refer to some programs for people's personal performances.	0	0	1	0
 有關成員個人名義之演出請參見個別項目	please refer to the individual item	0	0	1	0
 有關成員個人名義之演出請參見個別項目	regarding members' performances on their own behalf	0	0	1	0
 電視劇無線電視	tv show (tvb)	0	0	1	0
@@ -474,6 +451,8 @@
 新人獎	new human	0	0	1	0
 新人獎	award for new performer	0	0	1	0
 新人獎	new artist award	0	0	1	0
+北京流行音樂典禮	beijing pop music ceremony	0	0	1	0
+北京流行音樂典禮	beijing popular music ceremony	0	0	1	0
 香港站	hong kong station	0	0	1	0
 玉蝴蝶	jade butterfly	0	0	1	0
 雪碧我的選擇中國原創音樂流行榜年總選典禮	the ceremony of the annual selection of my choice chinese original music chart	0	0	1	0
@@ -544,9 +523,6 @@
 海俊文	junwen hai	0	0	1	0
 黎姿	zi li	0	0	1	0
 黎姿	gigi lai	0	0	1	0
-本城狂死郎經營的男公關俱樂部	host club run by honjou kyoushirou	0	0	1	0
-本城狂死郎經營的男公關俱樂部	gentlemen's club operated by bencheng kuangsilang	0	0	1	0
-本城狂死郎經營的男公關俱樂部	male public relations club run by local	0	0	1	0
 那一天	the day	0	0	1	0
 那一天	that day	0	0	1	0
 范後感	feelings after fan	0	0	1	0
@@ -574,7 +550,6 @@
 故事圍繞著伙伴間的友誼和夢幻般的歷險開展當中除了少年漫畫中令人振奮的熱血場景和感動人心的畫面外作品的世界觀和人物設定亦深刻帶出各種現實的社會問題包括因種族階級宗教領土歧視等產生的衝突和矛盾	etc. caused conflicts and contradictions	0	0	1	0
 故事圍繞著伙伴間的友誼和夢幻般的歷險開展當中除了少年漫畫中令人振奮的熱血場景和感動人心的畫面外作品的世界觀和人物設定亦深刻帶出各種現實的社會問題包括因種族階級宗教領土歧視等產生的衝突和矛盾	territory	0	0	1	0
 故事圍繞著伙伴間的友誼和夢幻般的歷險開展當中除了少年漫畫中令人振奮的熱血場景和感動人心的畫面外作品的世界觀和人物設定亦深刻帶出各種現實的社會問題包括因種族階級宗教領土歧視等產生的衝突和矛盾	etc.	0	0	1	0
-外孫	grandson	0	0	1	0
 作品變遷	work evolution	0	0	1	0
 我的最愛	my favourite	0	0	1	0
 剧情	plot	0	0	1	0
@@ -593,7 +568,6 @@
 追殺比爾美國動作電影女主角鄔瑪舒曼殺入日本黑幫的黃黑運動服造型就是參考李小龍的遺作死亡遊戲不過女主角手中的武器是使用武士刀與李小龍的雙結棍截然不同	using samurai sward and bruce lee's nun-chucks are not the same	0	0	1	0
 第話年月日年月日	the xxx episode （date）	0	0	1	0
 黑執事	illegal job perfoming	0	0	1	0
-黑執事	black butler	0	0	1	0
 藍藻酵素	blue algae ferment	0	0	1	0
 约人	about people	0	0	1	0
 錄音室專輯	studio album	0	0	1	0
@@ -647,7 +621,6 @@
 如果下半生	if the rest of my life	0	0	1	0
 的傅里叶变换	's fourier transform	0	0	1	0
 公尺	meter	0	0	1	1
-胡琳	hu lin	0	0	1	0
 就在現場	in the scene	0	0	1	0
 就在現場	is there	0	0	1	0
 就在現場	at the scene	0	0	1	0
@@ -680,7 +653,6 @@
 錢嘉樂	jiale qian	0	0	1	0
 群交	group sex	0	0	1	0
 政府是我們的政府	the government is our government	0	0	1	0
-短劇我愛嘿虎四	short film "i love hei hu shi"	0	0	1	0
 提名第屆台灣金馬獎	golden horse award	0	0	1	0
 提名第屆台灣金馬獎	nominated: the thirty-seventh golden horse awards	0	0	1	0
 提名第屆台灣金馬獎	nominated for the 39th taiwanese golden horse film awards	0	0	1	0
@@ -688,7 +660,6 @@
 硒	borders	1	0	1	0
 硒	selenium	1	1	0	1
 硒	se(selenium)	1	1	0	0
-作曲制作	composition production	0	0	1	0
 作曲制作	composing producing	0	0	1	0
 蘇州	suzhou	0	0	1	0
 蘇州	su zhou	0	0	1	0
@@ -749,8 +720,7 @@
 廣州電台金曲金榜	guangzhou radio hit list	0	0	1	0
 陳嘉露記者	reporter chen jialu	0	0	1	0
 紅燈區	red-light district	0	0	1	0
-何家勁	ho ga ging	0	0	1	0
-何家勁	kenny ho	0	0	1	0
+刑警	criminal police	0	0	1	0
 我不認輸	i will not give up!	0	0	1	0
 略歷	resume	0	0	1	0
 北欧	north europe	0	0	1	0
@@ -758,12 +728,11 @@
 趙永洪	zhao yonghung	0	0	1	0
 趙永洪	persons name	0	0	1	0
 麥家琪	teresa mak	0	0	1	0
-猿飛佐助子安武人	sarutobi sasuke: takehito koyasu (voice actor)	0	0	1	0
+大	big	0	0	1	1
 而失業率的部分根據行政院主計處於年月的統計數據顯示已經達到了創下了年來的新高	data shows it already reached a new high this year	0	0	1	0
 上海的音乐早期以传统民族音乐的江南丝竹为主上海开埠后西洋音乐传入管弦乐队音乐会纷纷在上海建立举办年上海管乐协会成立管乐队后改为上海公共租界工部局官方乐队即今上海交响乐团的前身年旅日回国的上海留学生沈心工应南洋公学聘请开设乐歌课成为中国第一位教授新式唱歌的音乐教师此后李叔同高寿田等也开设进行新式歌曲的创作	gao shoutian et al. also started to write new style songs	0	0	1	0
 浪花上的人	man on wave	0	0	1	0
 女	female	0	0	1	1
-绘画	draw	0	0	1	0
 鬍鬚地衣	efforts	1	0	1	0
 鬍鬚地衣	usnea	1	1	0	0
 鬍鬚地衣	cuticle of facial hair	1	0	1	0
@@ -778,7 +747,7 @@
 小行星	little planet	0	0	1	0
 第張精選輯	-th best selections	0	0	1	0
 第張精選輯	the...omnibus	0	0	1	0
-在位时间	reign	0	0	1	0
+第二個家	second home	0	0	1	0
 曾梓明	zhen xing ming (name of a person)	0	0	1	0
 曾梓明	zeng ziming	0	0	1	0
 苗栗縣獅潭鄉	shitan township	0	0	1	0
@@ -809,8 +778,8 @@
 大花草科	rafflesiaceae	1	1	0	0
 大花草科	economy	1	0	1	0
 三立台灣台	taiwan	0	0	1	0
-三立台灣台	san li television channel (taiwan)	0	0	1	0
 三立台灣台	set tv taiwan	0	0	1	0
+三立台灣台	san li television channel (taiwan)	0	0	1	0
 諸葛亮有兩位姊姊一位嫁給龐山民一位嫁給襄陽望族蒯氏	the prosperous family in xiangyang	0	0	1	0
 諸葛亮有兩位姊姊一位嫁給龐山民一位嫁給襄陽望族蒯氏	the other to jing's	0	0	1	0
 諸葛亮有兩位姊姊一位嫁給龐山民一位嫁給襄陽望族蒯氏	one married to shanmin pang	0	0	1	0
@@ -834,7 +803,6 @@
 十川誠志	masashi sogo	0	0	1	0
 十川誠志	shichuanganzhi	0	0	1	0
 東森	ettv	0	0	1	0
-第四十九回	the forty-ninth chapter	0	0	1	0
 第四十九回	the 49th chapter	0	0	1	0
 東邪西毒	eastern heretic western venom	0	0	1	0
 東邪西毒	ashes of time	0	0	1	0
@@ -852,10 +820,8 @@
 類型	kind	0	0	1	0
 類型	type	0	0	1	0
 年代中期到今日	mid year to present	0	0	1	0
-年代中期到今日	middle of the century to today	0	0	1	0
 心電心	ecg heart	0	0	1	0
 心電心	dianxin xin	0	0	1	0
-最后你也走了	at the end you are also gone	0	0	1	0
 小敏	siu-man	0	0	1	0
 逸事	anecdote	0	0	1	0
 第七十五回	chapter seventy-five	0	0	1	0
@@ -877,15 +843,14 @@
 喪婆	sad rag	0	0	1	0
 喪婆	mourning woman	0	0	1	0
 模型玩具	model toy	0	0	1	0
-模型玩具	toy figurine	0	0	1	0
 朽木白哉林修司	kuchiki byakuya shuji hayashi	0	0	1	0
 朽木白哉林修司	kuchiki byakuya: xiusi lin	0	0	1	0
 中華台北	chinese taipei	0	0	1	0
 畫集	album	0	0	1	0
 畫集	pictorial archive	0	0	1	0
 坎為水	missing water	0	0	1	0
-前田軍	first army	0	0	1	0
 前田軍	maeda's army	0	0	1	0
+前田軍	first army	0	0	1	0
 秘密	secret	0	0	1	1
 新城點正娛樂勁爆電視大獎十大勁爆電視演員	top 10 tv actors in new city tv entertainment award	0	0	1	0
 同和居饭庄	tongheju restaurant	0	0	1	0
@@ -902,7 +867,6 @@
 龍之步運動鞋中國平面廣告	billboard)	0	0	1	0
 龍之步運動鞋中國平面廣告	(brand) sports shoe (china	0	0	1	0
 宇智波鼬	uchiha itachi	0	0	1	0
-宇智波鼬	itachi uchiha	0	0	1	0
 沉默是金	silence is gold	0	0	1	0
 年月日年月日再版	republishing on __ day___month__year	0	0	1	0
 年月日年月日再版	reprint	0	0	1	0
@@ -912,7 +876,6 @@
 木樨地抗爭	muxidi demonstration	0	0	1	0
 初登場角色	first appearing role	0	0	1	0
 初登場角色	debut character	0	0	1	0
-初登場角色	the role of debut	0	0	1	0
 膀胱	bladder	0	0	1	0
 一起走过的日子	days we spent together	0	0	1	0
 事件定性	the characteristic of this issue	0	0	1	0
@@ -1033,16 +996,13 @@
 周秀娜	chrissie chau	0	0	1	0
 周秀娜	xiuna zhou	0	0	1	0
 我是我自己的新郎台灣散文郭強生	i am my own bridegroom taiwan essay qiangsheng guo	0	0	1	0
-郭昱晴	yiqing guo	0	0	1	0
-郭昱晴	yuqing guo	0	0	1	0
-郭昱晴	jean guo	0	0	1	0
+和平	peace	0	0	1	1
 牛舌草属	cow tongue grass category	1	0	1	0
 牛舌草属	anchusa	1	1	0	0
 牛舌草属	recent	1	0	1	0
 北京	beijing	0	0	1	1
 後援會限定	fan's supporting association limit	0	0	1	0
 海淀区香山	mountain xiang in haidian district	0	0	1	0
-背景	background	0	0	1	1
 年度金曲	annual great hit	0	0	1	0
 拾年	ten year （ or decade）	0	0	1	0
 酰化反应	pictures	1	0	1	0
@@ -1102,7 +1062,6 @@
 朝鮮半島	korean peninsula	0	0	1	0
 总计	total	0	0	1	1
 总计	total stats	0	0	1	0
-歌曲收錄於雨瞳專輯	song is included in the "yu tong" (rain iris) album	0	0	1	0
 新加坡金曲獎	gold song award of singapore	0	0	1	0
 身世	personal stories	0	0	1	0
 身世	birth	0	0	1	0
@@ -1130,8 +1089,8 @@
 歐洲國家新聞自由指數	european countries' of freedom of press index	0	0	1	0
 用途	usage	0	0	1	0
 用途	application	0	0	1	1
+質	category	0	0	1	0
 金藝音樂組合	golden arts music group	0	0	1	0
-金藝音樂組合	golden entertainment music band	0	0	1	0
 蕭凱欣	yan siu	0	0	1	0
 蕭凱欣	siu hoi yan	0	0	1	0
 外部鏈結	external connection	0	0	1	0
@@ -1169,7 +1128,6 @@
 無綫電視兒歌金曲頒獎典禮	tvb children's song awards	0	0	1	0
 演唱會名稱	concert name	0	0	1	0
 第七屆全球華語歌曲排行榜	the seven annual top chinese music award	0	0	1	0
-經房屋署安排下部份火警及爆炸場面於年月底在清拆前的黃竹坑邨之屋邨範圍內拍攝另有一部份在香港仔海傍對出馬路第集劇中時間為年土瓜灣近啟德隧道一工廠大廈及荃灣大窩口工廠大廈第集取景	building and tsuen wan tai wo hau factory building episode framing	0	0	1	0
 香港是當時境外地區中對六四事件投入最深的地方大批市民捐款給學生媒體天天報道相比內地各省市的政治訴求六四在香港更像一場民族醒覺運動這是香港開埠以來的政治活動中不少人深信改革開放最終帶來自由民主實現百年現代化之夢	finally bring democracy and freedom and made the 100 year dream of modernization come true	0	0	1	0
 香港是當時境外地區中對六四事件投入最深的地方大批市民捐款給學生媒體天天報道相比內地各省市的政治訴求六四在香港更像一場民族醒覺運動這是香港開埠以來的政治活動中不少人深信改革開放最終帶來自由民主實現百年現代化之夢	achieving the century-old dream of modernization	0	0	1	0
 香港是當時境外地區中對六四事件投入最深的地方大批市民捐款給學生媒體天天報道相比內地各省市的政治訴求六四在香港更像一場民族醒覺運動這是香港開埠以來的政治活動中不少人深信改革開放最終帶來自由民主實現百年現代化之夢	ultimately bringing freedom and democracy	0	0	1	0
@@ -1194,12 +1152,10 @@
 擔任大使	served as ambassador	0	0	1	0
 片尾曲	ending song	0	0	1	0
 片尾曲	ending theme/song	0	0	1	0
-金山岭长城	golden hill range great wall	0	0	1	0
 金山岭长城	gold mountain mountain long city	0	0	1	0
 外部参考	external references	0	0	1	0
 環球小姐	miss universe	0	0	1	0
 環球小姐	miss globe	0	0	1	0
-無綫電視十大勁歌金曲頒獎典禮	the 10th ceremony of the jade solid gold best 10 awards	0	0	1	0
 安卡拉土耳其年月日	ankara turkey year month day	0	0	1	0
 第四季	fourth season	0	0	1	0
 第四季	season 4	0	0	1	0
@@ -1217,12 +1173,10 @@
 史密斯	smith	1	1	0	1
 这里的	the one here	0	0	1	0
 这里的	here	0	0	1	0
-配偶	spouse	0	0	1	1
 引用	quote	0	0	1	1
 就是這麼愛你	love you like this	0	0	1	0
 就是這麼愛你	this is how much i love you	0	0	1	0
 烏龜	turtle	0	0	1	0
-版權歸屬問題	issue of ownership of copyrights	0	0	1	0
 版權歸屬問題	copyright disputes	0	0	1	0
 版權歸屬問題	copyright	0	0	1	0
 天堂之吻	kiss of heaven	0	0	1	0
@@ -1236,7 +1190,6 @@
 年月日　紅線	year	0	0	1	0
 年月日　紅線	day   red thread	0	0	1	0
 年月日　紅線	month	0	0	1	0
-缺點	drawback	0	0	1	0
 缺點	shortcoming	0	0	1	0
 不同於其他成功的社群網站批踢踢秉持自由與非商業化承諾批踢踢在使用者人數漸增的情況下逐漸成為台灣最大的網路討論空間眾多不同種類的話題都能在批踢踢上激盪出討論的熱潮甚至影響到真實的生活層面於是批踢踢成為台灣新聞記者矚目與取材的焦點除此也曾因制度或言論等引起風波與爭議	also because of the system or of speech have triggered disputes and controversies	0	0	1	0
 不同於其他成功的社群網站批踢踢秉持自由與非商業化承諾批踢踢在使用者人數漸增的情況下逐漸成為台灣最大的網路討論空間眾多不同種類的話題都能在批踢踢上激盪出討論的熱潮甚至影響到真實的生活層面於是批踢踢成為台灣新聞記者矚目與取材的焦點除此也曾因制度或言論等引起風波與爭議	causes contraversies because of regulations and speech	0	0	1	0
@@ -1264,7 +1217,6 @@
 第二名	second	0	0	1	1
 第二名	rank 2	0	0	1	0
 萬能工具	omnipotence tool	0	0	1	0
-熊黛林	lynn hung	0	0	1	0
 第十二屆華語榜中榜	the twelfth chinese channel v	0	0	1	0
 參考文献	reference	0	0	1	0
 同謀	conspiracy	0	0	1	0
@@ -1293,7 +1245,6 @@
 陳百強	danny chan	0	0	1	0
 陕西省	shaanxi district	0	0	1	0
 陕西省	xiaxi province	0	0	1	0
-台視	taipei tv	0	0	1	0
 台視	taiwan television	0	0	1	0
 有說法	there is a saying	0	0	1	0
 有說法	assertion	0	0	1	0
@@ -1329,14 +1280,12 @@
 派尤特族	paiute people	1	1	0	0
 魯振順	lu zhenshun	0	0	1	0
 陳小春	jordan chan	0	0	1	0
-會川昇	shô aikawa	0	0	1	0
 別人情歌	other's love song	0	0	1	0
 電視連續劇	tv series	0	0	1	0
 電視連續劇	television drama series	0	0	1	0
 捨不得你	could not bear to you	0	0	1	0
 捨不得你	unwilling to lose you	0	0	1	0
 捨不得你	can't let you go	0	0	1	0
-羅大佑	luo dayou	0	0	1	0
 遊戲	game	0	0	1	0
 屍體	body	1	1	0	0
 屍體	only used on dead body	1	1	0	0
@@ -1355,7 +1304,6 @@
 撤退與留守	retreat and guard	0	0	1	0
 撤退與留守	abandon or defend	0	0	1	0
 撤退與留守	retreat and staying	0	0	1	0
-演	act	0	0	1	1
 年北約炸毀中國駐貝爾格萊德大使館後北京出現自六四後最大的示威政府沿路派出警察維持秩序並未有攔阻示威人流年北京反日示威上政府亦依這一方針處理中國官方稱這些遊行為愛國主義外界質疑這是中国政府在將矛頭轉以民族主義表達	chinese government is turning spearhead into democracy	0	0	1	0
 紐西蘭	new zealand	0	0	1	0
 吻我吧	kiss me	0	0	1	0
@@ -1441,7 +1389,6 @@
 叮叮車	trolley	0	0	1	0
 叮叮車	ding ding vehicles	0	0	1	0
 德文	german	0	0	1	1
-月日生身高	month date birth height	0	0	1	0
 月日生身高	month day birth height	0	0	1	0
 月日生身高	month. height	0	0	1	0
 月日生身高	born on day	0	0	1	0
@@ -1458,12 +1405,8 @@
 阿勒芒德	a'le munday	1	0	1	0
 榮譽	honor	0	0	1	0
 榮譽	glory	0	0	1	0
-年份影片名稱角色備註同片演員	roles	0	0	1	0
-年份影片名稱角色備註同片演員	movie name	0	0	1	0
-年份影片名稱角色備註同片演員	notes	0	0	1	0
-年份影片名稱角色備註同片演員	year movie title name characters attention actors	0	0	1	0
-年份影片名稱角色備註同片演員	actors	0	0	1	0
-年份影片名稱角色備註同片演員	year	0	0	1	0
+出	exit	0	0	1	0
+出	out	0	0	1	0
 代表上榜中	means on list	0	0	1	0
 第二十二屆十大中文金曲頒獎音樂會	the 22nd annual top ten chinese golden song award	0	0	1	0
 第二十二屆十大中文金曲頒獎音樂會	the 22nd top ten chinese song awards	0	0	1	0
@@ -1473,7 +1416,7 @@
 許志安	zhian xu	0	0	1	0
 無極	the promise	0	0	1	0
 無極	no limit	0	0	1	0
-作品	work	0	0	1	1
+相關網站	related websites	0	0	1	0
 第三十一回	chapter thirty-one	0	0	1	0
 大方	generous	0	0	1	1
 救生圈	life ring	0	0	1	0
@@ -1507,7 +1450,9 @@
 第四十八回	round 48	0	0	1	0
 第四十八回	the forty-eighth chapter	0	0	1	0
 武宗	emperor wuzong	0	0	1	0
-前年前年前年前年前年前年前年前年前年前年	before the year	0	0	1	0
+第七十回	chapter seventy	0	0	1	0
+第七十回	episode 70	0	0	1	0
+第七十回	round seventy	0	0	1	0
 強心臟	big heart	0	0	1	0
 強心臟	tsks	0	0	1	0
 零之使魔外傳	the magic rumor of zero	0	0	1	0
@@ -1560,7 +1505,11 @@
 谷歌雅虎等海外网站的中国版受到中国政府的压力不得不屏蔽一切有关六四及其他政治敏感的网页年月日成都晚报的一个年轻女职員因未了解六四事件的相关历史当有人要刊登向坚强的遇难者母亲致敬的广告并且告诉她是一个矿难她就批准刊登了结果导致一名副总编辑二名编辑和成都晚报广告部四名职工全部被解雇年的香港維園六四燭光晚會被央视网体育频道的一个新闻描述為香港市民悼念汶川大地震死難同胞年月日新京报刊登了一张六四事件照片遭下令在市面全面回收	2008	0	0	1	0
 谷歌雅虎等海外网站的中国版受到中国政府的压力不得不屏蔽一切有关六四及其他政治敏感的网页年月日成都晚报的一个年轻女职員因未了解六四事件的相关历史当有人要刊登向坚强的遇难者母亲致敬的广告并且告诉她是一个矿难她就批准刊登了结果导致一名副总编辑二名编辑和成都晚报广告部四名职工全部被解雇年的香港維園六四燭光晚會被央视网体育频道的一个新闻描述為香港市民悼念汶川大地震死難同胞年月日新京报刊登了一张六四事件照片遭下令在市面全面回收	and was ordered to be retracted	0	0	1	0
 谷歌雅虎等海外网站的中国版受到中国政府的压力不得不屏蔽一切有关六四及其他政治敏感的网页年月日成都晚报的一个年轻女职員因未了解六四事件的相关历史当有人要刊登向坚强的遇难者母亲致敬的广告并且告诉她是一个矿难她就批准刊登了结果导致一名副总编辑二名编辑和成都晚报广告部四名职工全部被解雇年的香港維園六四燭光晚會被央视网体育频道的一个新闻描述為香港市民悼念汶川大地震死難同胞年月日新京报刊登了一张六四事件照片遭下令在市面全面回收	the beijing news published a june 4th incident photo	0	0	1	0
-飛輪海想入飛飛世界巡迴演唱會	concert tour	0	0	1	0
+月日出生公分公斤	month	0	0	1	0
+月日出生公分公斤	birthday	0	0	1	0
+月日出生公分公斤	date born centimeter kilogram	0	0	1	0
+月日出生公分公斤	weight	0	0	1	0
+月日出生公分公斤	height	0	0	1	0
 櫛蠶	peripatus	1	1	0	0
 山東	shandong	0	0	1	0
 側耳屬	pleurotus	1	1	0	0
@@ -1570,8 +1519,6 @@
 頭飾龍類	marginocephalia	1	1	0	0
 年月日第站	year/month/day/stop	0	0	1	0
 日年月日	year month day	0	0	1	0
-日年月日	month and day	0	0	1	0
-日年月日	year	0	0	1	0
 太陽之金幣	gold coin of the sun (a chapter in "spice and wolf ")	0	0	1	0
 太陽之金幣	sun's gold coin	0	0	1	0
 太陽之金幣	gold coin of the sun	0	0	1	0
@@ -1587,7 +1534,6 @@
 假面	mask	0	0	1	0
 亞洲區	asian zone	0	0	1	0
 亞洲區	asian area	0	0	1	0
-亞洲區	asia	0	0	1	0
 葉德嫻	dexian ye	0	0	1	0
 葉德嫻	deanie ip	0	0	1	0
 文字	character	0	0	1	1
@@ -1612,7 +1558,7 @@
 電燈膽	light bulbs	0	0	1	0
 天涯	skyline	0	0	1	0
 天涯	edge of the world	0	0	1	0
-第三女	the third daughter	0	0	1	0
+暖	warm	0	0	1	1
 碧妮	brittany	0	0	1	0
 碧妮	britney	0	0	1	0
 南海諸島歸高雄市管轄領有東沙群島平方公里南沙群島的太平島平方公里及中洲礁平方公尺島嶼以環礁為主	and ban than reef square meters. islands are mainly atolls	0	0	1	0
@@ -1626,7 +1572,6 @@
 参考来源	reference	0	0	1	0
 張慧儀	hui-i chang	0	0	1	0
 漫畫目標	cartoon target	0	0	1	0
-漫畫目標	cartoon objective	0	0	1	0
 漫畫目標	comic table of content	0	0	1	0
 文学	literature	0	0	1	1
 鐵路	railroad	0	0	1	0
@@ -1652,11 +1597,9 @@
 長崎縣長崎國際電視台年月日年月日星期五	nagasaki international tv station year month date friday	0	0	1	0
 经济	economy	0	0	1	1
 年度華語歌曲	the chinese song of the year	0	0	1	0
-年度華語歌曲	chinese song of the year	0	0	1	0
 涼宮春日的消失	disappear of haruhi suzumiya	0	0	1	0
-主演	main cast	0	0	1	0
-月日北大学生自治联合会成员王丹召开民主沙龙号召继续罢课声援准备到中国记者协会请愿抗议世界经济导报事件的记	memorandum of petition committee against world economy review	0	0	1	0
 月日北大学生自治联合会成员王丹召开民主沙龙号召继续罢课声援准备到中国记者协会请愿抗议世界经济导报事件的记	the report of petition to protest the world economic herald	0	0	1	0
+月日北大学生自治联合会成员王丹召开民主沙龙号召继续罢课声援准备到中国记者协会请愿抗议世界经济导报事件的记	memorandum of petition committee against world economy review	0	0	1	0
 米德兰	midlands	1	0	1	0
 米德兰	declared	1	0	1	0
 米德兰	midland	1	1	0	0
@@ -1664,7 +1607,6 @@
 單行本第卷	offprint volume	0	0	1	0
 單行本第卷	number [blank] volume	0	0	1	0
 單行本第卷	single edition	0	0	1	0
-优点	the advantageous	0	0	1	0
 优点	advantages	0	0	1	0
 优点	virtue	0	0	1	0
 愛與夢飛行	flying love and dreams	0	0	1	0
@@ -1680,7 +1622,6 @@
 年民国成立由于保守势力与革命党互相争夺中央及地方权力全国局势较为混乱与此同时由于上海租界政治特殊因而能保持一种特殊的稳定与和平甚而租界在经济人口等各方面都进一步加快了其发展的速度加之一战开始后世界局势的变化由年开始至年可谓上海租界高度繁荣的一个阶段而上海华界则不可避免的多次受到全国政局的影响年月日陈其美与革命党人发动起义上海光复	shanghai was recaptured	0	0	1	0
 年民国成立由于保守势力与革命党互相争夺中央及地方权力全国局势较为混乱与此同时由于上海租界政治特殊因而能保持一种特殊的稳定与和平甚而租界在经济人口等各方面都进一步加快了其发展的速度加之一战开始后世界局势的变化由年开始至年可谓上海租界高度繁荣的一个阶段而上海华界则不可避免的多次受到全国政局的影响年月日陈其美与革命党人发动起义上海光复	1911.	0	0	1	0
 主角愛我	the leading role loves me.	0	0	1	0
-主角愛我	protagonist loves me	0	0	1	0
 主角愛我	the leading character loves me	0	0	1	0
 影片	movie	0	0	1	1
 楊思琦	shirley yeung	0	0	1	0
@@ -1735,14 +1676,13 @@
 專輯封面	cover the a magazine	0	0	1	0
 專輯封面	the cover of a special edition	0	0	1	0
 專輯封面	exclusive front page	0	0	1	0
-性交行為在某些國家政府民族社會風土認定上多半有年齡的限制必須成年才能性交並以此制定法律如果與法律上未成年的人性交將被開罰或處以刑責	if have sex with juveniles in law	0	0	1	0
-性交行為在某些國家政府民族社會風土認定上多半有年齡的限制必須成年才能性交並以此制定法律如果與法律上未成年的人性交將被開罰或處以刑責	having coitus with minors will be charged or punished	0	0	1	0
-性交行為在某些國家政府民族社會風土認定上多半有年齡的限制必須成年才能性交並以此制定法律如果與法律上未成年的人性交將被開罰或處以刑責	will be fined and sentenced	0	0	1	0
+岡村天斎	tensai okamura	0	0	1	0
 劉亮佐	liu	0	0	1	0
 劉亮佐	liangzuo	0	0	1	0
 劉亮佐	liangzuo liu	0	0	1	0
 少年愛	love of my youth	0	0	1	0
 少年愛	hebephilia	0	0	1	0
+機構	organization	0	0	1	0
 歐洲越橘	europe more bridge	1	0	1	0
 歐洲越橘	law	1	0	1	0
 歐洲越橘	european orenge	1	0	1	0
@@ -1774,7 +1714,6 @@
 年在国务院批准的北京市城市总体规划中北京被定位为国家首都世界城市文化名城宜居城市	capital	0	0	1	0
 第七十一回	chapter seventy-one	0	0	1	0
 出生地點	place of birth	0	0	1	0
-出生地點	the place of birth	0	0	1	0
 意大利	italy	0	0	1	1
 香港電台十大中文金曲頒獎禮全年最高銷量歌手大獎女歌手	rthk chinese top ten gold songs awards presentation << annual best selling award : female>>	0	0	1	0
 主持人	host	0	0	1	0
@@ -1782,7 +1721,6 @@
 英國影藝學院	british academy of film and television arts	0	0	1	0
 英國影藝學院	the british academy of film and television arts	0	0	1	0
 永远寂寞	be lonely forever	0	0	1	0
-永远寂寞	lonely forever	0	0	1	0
 超級星光大道	million star	0	0	1	0
 超級星光大道	one million star	0	0	1	0
 超級星光大道	one million stars (is a show name)	0	0	1	0
@@ -1835,7 +1773,6 @@
 岫云观房山区琉璃河中学院中	xiuyun guan fangshan district glass river high school campus	0	0	1	0
 岫云观房山区琉璃河中学院中	youyun temple fangshan district liuli river middle school	0	0	1	0
 況天佑	tianyou kuang	0	0	1	0
-況天佑	kuan tian you	0	0	1	0
 港	port	0	0	1	0
 年月日華視天才衝衝衝	year	0	0	1	0
 年月日華視天才衝衝衝	hua shi	0	0	1	0
@@ -1850,7 +1787,6 @@
 細盲蛇科	states	1	0	1	0
 細盲蛇科	blind snake	1	0	1	0
 細盲蛇科	leptotyphlopidae	1	1	0	0
-結束空島的冒險後草帽一行人在海上遇到一艘既沒有帆也沒有旗幟的海賊船還因為少了指揮一切的船長和航海士讓船員變的沒有組織性整艘船並在草帽一行人面前遭到海猴子引起的巨浪吞噬	the whole ship and the straw hat group are facing a big wave caused by the sea monkeys	0	0	1	0
 澳門威尼斯人金光綜藝館	macao venetian cotaiarena	0	0	1	0
 澳門威尼斯人金光綜藝館	macao venetian arena	0	0	1	0
 澳門威尼斯人金光綜藝館	macau venetian theatre	0	0	1	0
@@ -1860,9 +1796,8 @@
 第十三屆全球華語音樂榜中榜	top winner of the 13th global chinese music	0	0	1	0
 第十三屆全球華語音樂榜中榜	the ranking of the thirteenth global chinese misic	0	0	1	0
 第屆葛萊美獎	the ...th grammy award	0	0	1	0
-第屆葛萊美獎	52nd/53rd annual grammy awards	0	0	1	0
 学生召开記者會反駁學生颠覆中共的言论并再度要求与李鹏对话並要求公安部长和新华社社长道歉学生最后決定舉行四二七大游行	the students finally decided to hold 4.27 protest march	0	0	1	0
-重要城镇	important city-town	0	0	1	0
+吳宇森	john woo yu-sen	0	0	1	0
 港台最受歡迎女歌手	hong kong taiwan most popular female singer	0	0	1	0
 但侯德建強調他當時在廣場上卻沒看見廣場上屠殺情況他說如果我們真的需要用謊言去打擊說謊的敵人也許你的謊言會先被揭穿那麼之後的話你再也沒有力氣去打擊你的敵人了然而天安門母親的確認名單中有名学生分別在广场中心的国旗杆和毛澤東纪念堂附近被射殺	[students] were killed at the flag pole and mao ze dong  memorial	0	0	1	0
 分類	classification	0	0	1	0
@@ -1875,7 +1810,6 @@
 色合	two words are 角色"role" and 合作演员"co-star" )	0	0	1	0
 色合	(actually it's the end of one and the beginning of another word caught together	0	0	1	0
 色合	combination of colour	0	0	1	0
-號	no.	0	0	1	0
 阿輝	a'hui	0	0	1	0
 年月日上映	showtime	0	0	1	0
 年月日上映	year/month/date released	0	0	1	0
@@ -1923,7 +1857,6 @@
 年正值六四事件过后不久人们刚从资产阶级自由化思潮的影响和冲击中解脱出来	escaped the influence and impact of the liberal trend	0	0	1	0
 年正值六四事件过后不久人们刚从资产阶级自由化思潮的影响和冲击中解脱出来	people were just free from the impacts of bourgeois freedom thoughts	0	0	1	0
 各國國內生產總值列表	list of gross domestic product by country	0	0	1	0
-各國國內生產總值列表	countries' gdp list	0	0	1	0
 時段逄星期一至五晚上時分至時分	time: monday to friday hour minutes pm	0	0	1	0
 但是公安部給中南海的報告卻有不同的說法台階上的三名學生代表始終舉著紙卷警戒線內的人民大會堂工作人員曾試圖將他們扶起後治喪辦的兩位工作人員從大會堂走出與他們談話十三時三十分左右三名學生代表舉著紙卷下了大會堂台階回到學生隊伍中	too much	0	0	1	0
 苏伊士	surish	0	0	1	0
@@ -1948,14 +1881,12 @@
 中華民國使用民國紀年與西曆國號紀年以西元年月日為中華民國元年月日稱為元旦因此西元紀年數減去即為中華民國紀年數	a.d. year minus is republic of china year	0	0	1	0
 日久生情	grow the feeling with the passing of time	0	0	1	0
 埼玉電視台	qiyu television station	0	0	1	0
-兄弟姊妹	brothers and sisters	0	0	1	0
 冬眠	hibernation	0	0	1	1
 鮨科	siniperca	1	0	1	0
 鮨科	adolat lg	1	0	1	0
 鮨科	adolf	1	0	1	0
 鮨科	netting	1	0	1	0
 鮨科	serranidae	1	1	0	0
-最佳女主角如果愛	best actress (if love)	0	0	1	0
 体育界	sports community	0	0	1	0
 各方死傷報告來源	casualty reports sources	0	0	1	0
 各方死傷報告來源	sources for injury and death report for all parties	0	0	1	0
@@ -1985,7 +1916,6 @@
 小蠻	little bully	0	0	1	0
 轉移酶	transferase	1	1	0	0
 轉移酶	they	1	0	1	0
-诗	poem	0	0	1	1
 陶格夫匹尔斯	daugavpils	1	1	0	0
 陶格夫匹尔斯	diagnosis	1	0	1	0
 陶格夫匹尔斯	diagnostics	1	0	1	0
@@ -2004,7 +1934,6 @@
 特里尔	te li er (name)	1	0	1	0
 特里尔	worked	1	0	1	0
 半熟宣言	half mature declaration	0	0	1	0
-半熟宣言	not yet a woman	0	0	1	0
 半熟宣言	half-mature declaration	0	0	1	0
 世界觀設定	set world view	0	0	1	0
 世界觀設定	word view setting	0	0	1	0
@@ -2025,9 +1954,8 @@
 年月日此劇於在將軍澳電視廣播城一廠外灰位舉行試造型記者會	a press conference will be held outside tseung kwan o tv city for this episode at 12:30.	0	0	1	0
 秋刀魚科	saury	1	1	0	0
 領袖家書年至年件分冊	fascicle	0	0	1	0
-領袖家書年至年件分冊	leader's letter for home to year piece divide booklet	0	0	1	0
-領袖家書年至年件分冊	the leader wrote: year to year	0	0	1	0
 領袖家書年至年件分冊	items	0	0	1	0
+領袖家書年至年件分冊	the leader wrote: year to year	0	0	1	0
 魚蛋歌	fish balls song	0	0	1	0
 魚蛋歌	fish egg song	0	0	1	0
 魚蛋歌	fish ball song	0	0	1	0
@@ -2060,7 +1988,8 @@
 年月日第二屆第一代	year month day	0	0	1	0
 年月日第二屆第一代	first generation	0	0	1	0
 年月日第二屆第一代	the second session	0	0	1	0
-年度大金曲愛到	yearly top songs love arrives	0	0	1	0
+太祖	taizu	0	0	1	0
+太祖	grand ancestors	0	0	1	0
 內地	mainland china	0	0	1	0
 內地	mainland	0	0	1	0
 輯	album	0	0	1	0
@@ -2083,7 +2012,6 @@
 語句	sentence	0	0	1	0
 广西	guang xi	0	0	1	0
 广西	guangxi	0	0	1	0
-較新版本	a newer version	0	0	1	0
 較新版本	newest edition	0	0	1	0
 較新版本	relative newer edition	0	0	1	0
 已割除包皮者可能需要潤滑劑或口水再對龜頭進行摩擦	need lubricant or saliva to rub the glans again	0	0	1	0
@@ -2141,10 +2069,9 @@
 壁球	cliff ball/ name of a person?	0	0	1	0
 年年萬千星輝頒獎典禮	ten thousands thousands star shine award ceremony	0	0	1	0
 另一方面背負著殺害藍染隊長罪名的日番谷冬獅郎認為三番隊隊長	a person who committed crime claims that the team leader of san-fan team	0	0	1	0
-無線電視勁歌金曲第一季季選入選歌曲	tvb "medley season one selection" selected song	0	0	1	0
-無線電視勁歌金曲第一季季選入選歌曲	tvb <the first quarterly selection of hot music >	0	0	1	0
-無線電視勁歌金曲第一季季選入選歌曲	tvb best songs season one	0	0	1	0
-無線電視勁歌金曲第一季季選入選歌曲	nominated songs	0	0	1	0
+蒙牛酸酸乳	mengniu's sour milk	0	0	1	0
+蒙牛酸酸乳	mongolian cow yogurt	0	0	1	0
+蒙牛酸酸乳	mengniu yogurt	0	0	1	0
 仇雲峰	qiu yunfeng	0	0	1	0
 仇雲峰	tommy wan fung shou	0	0	1	0
 威廉	william	0	0	1	1
@@ -2159,7 +2086,6 @@
 創世紀	music century	0	0	1	0
 創世紀	genesis	0	0	1	0
 歌閃閃☆亮亮	song: shining and bright	0	0	1	0
-第一次	first	0	0	1	1
 榊野學園年組乙女的朋友欺負言葉小組的人	a girl's friend	0	0	1	0
 榊野學園年組乙女的朋友欺負言葉小組的人	teases a person from yanye's group	0	0	1	0
 アンサンブル立花拓也末吉司弥安田裕熊倉功栗原功平	hiroshi yasuda	0	0	1	0
@@ -2176,8 +2102,8 @@
 潰敗	defeated	0	0	1	0
 第一季必殺技	season one: unique skill	0	0	1	0
 聯播	simultaneous broadcast	0	0	1	0
-聯播	broadcast over a radio (or tv) network	0	0	1	0
 聯播	network	0	0	1	0
+聯播	broadcast over a radio (or tv) network	0	0	1	0
 鼠尾鱈科	tail gadoid	1	0	1	0
 鼠尾鱈科	macrouridae	1	1	0	0
 鼠尾鱈科	rattail	1	1	0	0
@@ -2220,9 +2146,8 @@
 守得雲開見明月演員	keep	0	0	1	0
 守得雲開見明月演員	the actors from “rainbow after the strom”	0	0	1	0
 |政治制度三	political system three	0	0	1	0
-謝祖武	william hsieh	0	0	1	0
-謝祖武	hsieh tsu wu	0	0	1	0
 謝祖武	willian xie	0	0	1	0
+謝祖武	hsieh tsu wu	0	0	1	0
 評論	critics	0	0	1	0
 玩法	playing instructions	0	0	1	0
 玩法	gameplay	0	0	1	0
@@ -2232,7 +2157,6 @@
 香港反應	reaction from hong kong	0	0	1	0
 薊屬	cirsium	1	1	0	0
 朋友的愛	love of friend	0	0	1	0
-朋友的愛	friend's love	0	0	1	0
 手望守望版隨你	watch over	0	0	1	0
 手望守望版隨你	up to you	0	0	1	0
 手望守望版隨你	watch over version	0	0	1	0
@@ -2264,14 +2188,12 @@
 |水域率百分比	percent of territory that is water	0	0	1	0
 丙醛	propionaldehyde	1	1	0	0
 機車	motor cycle	0	0	1	0
-武神降臨篇	the chapter of warrior god	0	0	1	0
 武神降臨篇	musha gundam series	0	0	1	0
 房山区	fangshan district	0	0	1	0
 房山区	fang shan district	0	0	1	0
 地球相關	relate to the earth	0	0	1	0
 地球相關	related to earth	0	0	1	0
 瑰寶	reasure	0	0	1	0
-瑰寶	treasure	0	0	1	0
 道教文化	culture of taoism	0	0	1	0
 內孫女	granddaughter	0	0	1	0
 內孫女	blood related granddaughter	0	0	1	0
@@ -2301,7 +2223,6 @@
 隨身組合音響	pocket music center	0	0	1	0
 全校选拔	selection in the campus	0	0	1	0
 全校选拔	school-wide selection	0	0	1	0
-群　星	various artists	0	0	1	0
 群　星	the movie's star	0	0	1	0
 群　星	all star	0	0	1	0
 年度四台聯頒音樂大獎	annual four channels excellence award	0	0	1	0
@@ -2314,8 +2235,8 @@
 大報復	the great vendetta	0	0	1	0
 大報復	big revenge	0	0	1	0
 十二月	december	0	0	1	1
-梁靜茹	jasmine leung	0	0	1	0
 梁靜茹	liang jingru	0	0	1	0
+年勁歌金曲優秀選第三回	best songs third	0	0	1	0
 再見	bye	0	0	1	0
 再見	good bye	0	0	1	0
 劉家	liu's	0	0	1	0
@@ -2325,7 +2246,6 @@
 朝河蘭月日ワンズファクトリー	face river date	0	0	1	0
 交通	traffic	0	0	1	1
 生物	biology	0	0	1	0
-相關事件	related incident	0	0	1	0
 相關事件	related incidences	0	0	1	0
 樂迷網路投票獎	music fans net voting prize	0	0	1	0
 同年月	same year and month	0	0	1	0
@@ -2387,7 +2307,7 @@
 年上海市劳动和社会保障局局长祝均一违法挪用亿社会保障基金由此引发社保案并使时任上海市委书记中央政治局委员的陈良宇被解职并被追究司法责任成为自四人帮以后最为重大的上海政坛地震之一后来陈良宇已获得保外就医	later chen liangyu was granted compassionate release	0	0	1	0
 年上海市劳动和社会保障局局长祝均一违法挪用亿社会保障基金由此引发社保案并使时任上海市委书记中央政治局委员的陈良宇被解职并被追究司法责任成为自四人帮以后最为重大的上海政坛地震之一后来陈良宇已获得保外就医	one of the earthquakes	0	0	1	0
 聲演角色	special acting character	0	0	1	0
-年月日雙面飛輪海想入飛飛限定盤華研國際音樂	two-sided fahrenheit fantasy limited disk	0	0	1	0
+在位时间	reign	0	0	1	0
 單曲	single	0	0	1	0
 影子的愛情故事	the story of shadow lover	0	0	1	0
 影子的愛情故事	the shadaows love story	0	0	1	0
@@ -2412,8 +2332,6 @@
 中國大陸南京	nanjing china	0	0	1	0
 中國大陸南京	china mainland nanking	0	0	1	0
 優異獎	merit award	0	0	1	0
-優異獎	special prize	0	0	1	0
-時正清場時間到廣場上全部關燈戒嚴部隊發出廣播內容說我們呼籲全體市民和全體同學不要再燒垃圾不要再燒垃圾不要再加強廣場的混亂	please don't burn rubbish and exacerbate the chaos of square	0	0	1	0
 時正清場時間到廣場上全部關燈戒嚴部隊發出廣播內容說我們呼籲全體市民和全體同學不要再燒垃圾不要再燒垃圾不要再加強廣場的混亂	don't burn the trash. don't increase the disturbance in the square.	0	0	1	0
 西西里島	sicily	0	0	1	0
 老子道德經老子義疏文子鶡冠子列子莊子南華論抱樸子內篇孫子夷夏論玄子廣成子	sun zi scroll	0	0	1	0
@@ -2425,7 +2343,6 @@
 受精	fertilisation	1	1	0	0
 受精	fertilization	1	1	0	1
 手機	cell phone	0	0	1	0
-手機	mobile phone	0	0	1	0
 該話劇情主題簡介	synopsis of the drama	0	0	1	0
 該話劇情主題簡介	this opera main plot brief	0	0	1	0
 年人間喜劇	comédie humaine	0	0	1	0
@@ -2439,9 +2356,6 @@
 相关著作	relevant literature	0	0	1	0
 第一樂章音樂會	first movement concert	0	0	1	0
 第一樂章音樂會	the first music party	0	0	1	0
-相思成灾	lovesickness disaster	0	0	1	0
-相思成灾	misfortune of love sickness	0	0	1	0
-相思成灾	love and other disasters	0	0	1	0
 缠绵	lingering	0	0	1	1
 聽話	obedient	0	0	1	0
 但是在	but when	0	0	1	0
@@ -2493,7 +2407,6 @@
 锿	einsteinium	1	1	0	0
 緯來日本台黑執事	japan doing bad things	0	0	1	0
 勝出白隊	winner: white team	0	0	1	0
-勝出白隊	win out white team	0	0	1	0
 大衛王	king david	0	0	1	0
 大衛王	david	0	0	1	0
 |現任上議院立法首腦名字	name of current legislative head	0	0	1	0
@@ -2501,10 +2414,8 @@
 彭家麗	angela pang	0	0	1	0
 彭家麗	peng jiali	0	0	1	0
 第十三回	13th	0	0	1	0
-第十三回	the thirtheenth	0	0	1	0
 第十三回	the thirteenth chapter	0	0	1	0
 愛心相連大行動榮譽大使香港紅十字會	the red-cross ”pass-it-on" campaign honorary ambassador	0	0	1	0
-年後骸	later still	0	0	1	0
 年後骸	years after	0	0	1	0
 體育	sports	0	0	1	0
 第三任中﨑敦	third term nakazaki atsushi	0	0	1	0
@@ -2514,7 +2425,6 @@
 赤羊	urial	1	1	0	0
 中文碟	chinese dish	0	0	1	0
 演出人員	cast	0	0	1	0
-演出人員	casting	0	0	1	0
 合有没有终点谁能知道在这尘世的无间道	whether there's an ending who knows in this world's timeless tunnel	0	0	1	0
 星期日	sunday	0	0	1	1
 年台北台北最	taipei	0	0	1	0
@@ -2546,7 +2456,6 @@
 原因	reason	0	0	1	1
 直到你不找我	until you can't find me	0	0	1	0
 直到你不找我	till you stop looking for me	0	0	1	0
-打倒海賊強薩克	one piece	0	0	1	0
 打倒海賊強薩克	defeat the pirate ganzak	0	0	1	0
 插件	plug-in	0	0	1	0
 中文標題	chinese label	0	0	1	0
@@ -2576,30 +2485,26 @@
 妃英理大塚寧寧	kisaki eri	0	0	1	0
 催眠	hypnosis	0	0	1	0
 鄺柏廉	guang bailian	0	0	1	0
-空集	empty set	0	0	1	0
 空集	void	0	0	1	0
-阿笠博士為了讓身體變小成為柯南的新一能夠更順利完成偵探任務而發明的道具	this created tool is to accomplish a spy's mission	0	0	1	0
+空集	empty set	0	0	1	0
 阿笠博士為了讓身體變小成為柯南的新一能夠更順利完成偵探任務而發明的道具	doctor in order to make the body small，invented by conan to more successful detective task properties	0	0	1	0
 阿笠博士為了讓身體變小成為柯南的新一能夠更順利完成偵探任務而發明的道具	the prop that help to accomplish detective work	0	0	1	0
-路嘉欣	jozie lu	0	0	1	0
 威士忌山峰	whiskey peak	0	0	1	0
 威士忌山峰	whiskey peaks	0	0	1	0
 朽木露琪亞	kuchiki rukia	0	0	1	0
+葡萄牙	portugal	0	0	1	1
 康	kang	0	0	1	0
 康	health	0	0	1	0
 禹	yu	0	0	1	1
-相关条目	related entries	0	0	1	0
 相关条目	related items	0	0	1	0
-番外篇	side story	0	0	1	0
 番外篇	extra episode	0	0	1	0
+番外篇	side story	0	0	1	0
 波蜜果菜汁吃我一拳篇	bomi fruit and vegetable juice give you a punch episode	0	0	1	0
 流星雨	meteor shower	0	0	1	0
 國防部長	secretary of defense	0	0	1	0
 國防部長	the defense minister	0	0	1	0
-主題曲插曲	theme song	0	0	1	0
-主題曲插曲	theme song interlude	0	0	1	0
-主題曲插曲	theme song and episode	0	0	1	0
-主題曲插曲	soundtrack	0	0	1	0
+中山體育場	zhongshan gym	0	0	1	0
+中山體育場	zhongshan stadium	0	0	1	0
 小型氧氣筒	small oxygen tank	0	0	1	0
 潘瑋柏	wilber pan	0	0	1	0
 眨眼	wink	1	1	0	1
@@ -2620,16 +2525,17 @@
 台北台大綜合體育館	taipei taiwan university sports center	0	0	1	0
 国庆节月日法定假日三天通常再调休邻近双休日总共七天一般在~按当年月日所处星期位置稍做调整	on adjust slightly based on the position of year month day week day	0	0	1	0
 中央军事委员会	the central military commission	0	0	1	0
-蒙牛酸酸乳	mengniu's sour milk	0	0	1	0
-蒙牛酸酸乳	mongolian cow yogurt	0	0	1	0
-蒙牛酸酸乳	mengniu yogurt	0	0	1	0
+無線電視勁歌金曲第一季季選入選歌曲	tvb "medley season one selection" selected song	0	0	1	0
+無線電視勁歌金曲第一季季選入選歌曲	tvb <the first quarterly selection of hot music >	0	0	1	0
+無線電視勁歌金曲第一季季選入選歌曲	tvb best songs season one	0	0	1	0
+無線電視勁歌金曲第一季季選入選歌曲	nominated songs	0	0	1	0
 奈美的天氣報告	nami's weather report	0	0	1	0
 英安岩	dacite	1	1	0	0
 陳念君	nianjun chan	0	0	1	0
 電視劇亞洲電視	tv serial (asian television)	0	0	1	0
 電視劇亞洲電視	tv series asia television	0	0	1	0
 電視劇亞洲電視	tv series (atv)	0	0	1	0
-悉尼	sydney	0	0	1	1
+壹電視	first television	0	0	1	0
 咸美頓	popular	1	0	1	0
 咸美頓	hamilton	1	1	0	0
 活動體	trophozoite	1	1	0	0
@@ -2659,10 +2565,7 @@
 |國家首都名稱	name of national capital	0	0	1	0
 |國家首都名稱	name of capital	0	0	1	0
 |國家首都名稱	capital name	0	0	1	0
-端午节五月初五又称端阳节	may the fifth	0	0	1	0
 端午节五月初五又称端阳节	dragon boat festival may 5th also called double fifth festiva	0	0	1	0
-端午节五月初五又称端阳节	duanwu festival	0	0	1	0
-端午节五月初五又称端阳节	is also known as duanyang festival	0	0	1	0
 柴九	chai kau	0	0	1	0
 柴九	chai jiu	0	0	1	0
 紗布	gauze	1	1	0	0
@@ -2683,7 +2586,7 @@
 朱雀	vermilion bird	0	0	1	0
 多利姆母親	candolim's mom	0	0	1	0
 多利姆母親	dorey's mother	0	0	1	0
-雲雀	lark	0	0	1	0
+陳冠希現於美國居住曾擬於年月到香港為淫照事件出庭作證但其後改口表示不回港作供	change statement and not intend to come back to hongkong to give another statement	0	0	1	0
 第五十三回	the fifty third chapter	0	0	1	0
 第三十九回	episode 39	0	0	1	0
 表示仍在榜上	indicates that it is still on the board	0	0	1	0
@@ -2696,7 +2599,6 @@
 三多食客有一次她和幾個師奶聚集三多說要斬幾味大事慶祝范小妮往東莞捉姦卻被打傷的事又大數小妮平日的不是不過善姨卻為范小妮說好話又指一切都是誤會被站在鋪外的小妮聽見小妮感謝善姨的幫忙兩人關係亦從此轉好	and their relationship is improved	0	0	1	0
 三多食客有一次她和幾個師奶聚集三多說要斬幾味大事慶祝范小妮往東莞捉姦卻被打傷的事又大數小妮平日的不是不過善姨卻為范小妮說好話又指一切都是誤會被站在鋪外的小妮聽見小妮感謝善姨的幫忙兩人關係亦從此轉好	siu ni is thankful to auntie sun's help	0	0	1	0
 三多食客有一次她和幾個師奶聚集三多說要斬幾味大事慶祝范小妮往東莞捉姦卻被打傷的事又大數小妮平日的不是不過善姨卻為范小妮說好話又指一切都是誤會被站在鋪外的小妮聽見小妮感謝善姨的幫忙兩人關係亦從此轉好	their relationship has also become closer after that.	0	0	1	0
-鎖文	lock man	0	0	1	0
 除群众性体育活动中国竞技体育水平也得到迅速提高并取得了显著成绩年在第届奥运会上射击运动员许海峰获得男子自选手枪比赛冠军是中国第一次获得奥运金牌年在北京主办的第届奥运会中中国代表团金牌榜位列榜首年和年分别由北京广州主办了亚运会而自年亚洲运动会以来中国选手在历次亚运会上都连续获得金牌总数第一	china has been getting first	0	0	1	0
 孤星泪	les misérables	0	0	1	0
 孤星泪	les miserables	0	0	1	0
@@ -2782,14 +2684,12 @@
 周采詩	zhou caishi (name)	0	0	1	0
 周采詩	tracy chou	0	0	1	0
 香港新城劲爆颁奖礼	best music of hong kong this year	0	0	1	0
-香港新城劲爆颁奖礼	metro radio hits music awards presentation	0	0	1	0
 香港新城劲爆颁奖礼	hong kong metro radio hits awards presentation	0	0	1	0
 色雷斯	greek	1	0	1	0
 色雷斯	thrace	1	1	0	0
 第七屆華語音樂傳媒大賞	seventh chinese musical show	0	0	1	0
 唐	tang	0	0	1	1
 監製	producer	0	0	1	0
-監製	executive producer	0	0	1	0
 拉闊變奏廳	music room	0	0	1	0
 不假不真	neither real nor fake	0	0	1	0
 象鼻	elephant trunk	0	0	1	0
@@ -2813,7 +2713,6 @@
 年度叱咤樂壇流行榜	the most popular music of year	0	0	1	0
 年度叱咤樂壇流行榜	2009 chik chak pop song chart	0	0	1	0
 自我介紹	self-introduction	0	0	1	0
-自我介紹	self introduction	0	0	1	0
 東映	toei	0	0	1	0
 霍建邦	amigo chui	0	0	1	0
 節假日	holidays	0	0	1	0
@@ -2832,21 +2731,16 @@
 以純便服香港中國	use plain clothes hongkong china	0	0	1	0
 越南	vietnam	0	0	1	1
 越南	vienam	0	0	1	0
-朱永棠	yongtang zhu	0	0	1	0
-朱永棠	zhu yongtang	0	0	1	0
+你不是好情人	you are not a good lover	0	0	1	0
+你不是好情人	you are not a good valentine	0	0	1	0
 專輯為了愛	album for love	0	0	1	0
 專輯為了愛	all for love (album)	0	0	1	0
 日賣電視台	japanese sells a tv station	0	0	1	0
 日賣電視台	japanese television channel	0	0	1	0
 日賣電視台	rimai television station	0	0	1	0
-君のためにできること	what can i do for you	0	0	1	0
 東亞萬歲	east asia long live	0	0	1	0
 東亞萬歲	long live east asia	0	0	1	0
 第弹街机	round arcade game	0	0	1	0
-中位數	central position number	1	0	1	0
-中位數	middle integer	1	1	0	0
-中位數	median	1	1	0	0
-中位數	diagnosis	1	0	1	0
 死亡人數	death toll	0	0	1	0
 全	all	0	0	1	1
 全	total	0	0	1	0
@@ -2865,14 +2759,12 @@
 外部連接	external connection	0	0	1	0
 傅劍虹	jianhong fu	0	0	1	0
 傅劍虹	kim fu	0	0	1	0
-許紹雄	hui siu-hung	0	0	1	0
 許紹雄	shaoxiong xu	0	0	1	0
 年份名稱	year name	0	0	1	0
 年份名稱	name of year	0	0	1	0
-曲目總數共首	the total number of song in a program	0	0	1	0
-曲目總數共首	total tracks	0	0	1	0
+蘇慧恩	su hui en (name of a person)	0	0	1	0
+蘇慧恩	su huien	0	0	1	0
 但愿未流泪	rather hope no tears were dropped	0	0	1	0
-官方網站	official website	0	0	1	0
 藝妓回憶錄	memoirs of a geisha	0	0	1	0
 抗藥性	drug resistance	0	0	1	0
 抗藥性	resistance to medication	0	0	1	0
@@ -2880,17 +2772,14 @@
 概要	summary	0	0	1	0
 繁殖	breed	0	0	1	0
 繁殖	proliferation	0	0	1	0
-繁殖	reproduction	0	0	1	0
-暖	warm	0	0	1	1
 |下一節目=無敵珊寶妹	next up: woody sambo	0	0	1	0
-情深海更深	love is deep	0	0	1	0
-情深海更深	but the ocean is deeper	0	0	1	0
 第冊限定版	the 7th limited edition	0	0	1	0
 第冊限定版	volume limited edition	0	0	1	0
 未代理	unrepresented	0	0	1	0
-機構	organization	0	0	1	0
+方大同專頁	khalil fong's page	0	0	1	0
+方大同專頁	khalil fong 's page	0	0	1	0
+方大同專頁	khalil fong website	0	0	1	0
 艾莉森與莉莉亞	li li asia	0	0	1	0
-壹電視	first television	0	0	1	0
 動畫原創	original animation	0	0	1	0
 奧斯卡金像獎	oscar	0	0	1	0
 相關詞彙	related terms	0	0	1	0
@@ -2905,7 +2794,6 @@
 第三區	third district	0	0	1	0
 第三區	the third district	0	0	1	0
 霧	mist	0	0	1	0
-霧	fog	0	0	1	0
 個人評價	personal evaluation	0	0	1	0
 功夫熊貓猴王配音	kung fu panda monkey king voice-over	0	0	1	0
 功夫熊貓猴王配音	kungfu panda dub	0	0	1	0
@@ -2955,7 +2843,6 @@
 趙樹海	mr. zhou xu hai	0	0	1	0
 桌球	billiard	0	0	1	0
 月日人被指放火搶劫被判死刑	month date people were sentenced to death for committing arson and robbery	0	0	1	0
-月日人被指放火搶劫被判死刑	month day people were accused of arson and robbery sentenced to death	0	0	1	0
 中國持不同政見者名單	chine holds a list of people who has different political views	0	0	1	0
 中國持不同政見者名單	china political dissidents list	0	0	1	0
 另外男性同性的性交因為沒有陰道所以部份人士選擇以肛門道作為性交的接受處而與異性進行性交的男性會因為某些目的行為與有陰道構造的女方進行肛門的性行為簡稱肛交	improved web searching	0	0	1	0
@@ -2998,7 +2885,6 @@
 安息香	benzoin	1	1	0	0
 角色名稱	character names	0	0	1	0
 角色名稱	character name	0	0	1	0
-勁歌金曲優秀選第二回	best golden songs excellence second round	0	0	1	0
 勁歌金曲優秀選第二回	golden oldies talent show the second time	0	0	1	0
 民主运动反腐败反官倒的运动被镇压共产党为了延续自己的统治不得不做出改正六四後中共中央政治局宣布对七项原则其中包括根除腐败以及党内裙带关系隨後年实行不同条例以限制官员们范围广泛的特权新年宴会降格为茶话会旅行受到限制不许在风景胜地召开会议其後有關建議於月生效禁止公车私用购买昂贵的进口轿车削减年终奖金和发放物品等尽管这些措施有一定成效但有看法认为这类措施因为是共产党自己设定自己监督所以根本就没有办法做到公正在中小城市政府部门公车私用购买昂贵进口轿车的现象仍然严重腐败现象依然大量存在多名中國貪官逍遙法外近年来也有很多贪官污吏在任职期间利用权力之便将自己的家属移民到美加澳等国取得国籍随后将自己的贪污赃款以家属合法收入或以海外投资等方式转移国外这些官员一旦觉得自己的贪污行为就将败露就会以投亲名义有的官员甚至在任职时就取得了海外居住权逃亡海外逍遥法外相关内容請參見中华人民共和国贪污案件	related content to see the corruption cases of the people's republic of china	0	0	1	0
 +音樂先鋒榜年度頒獎典禮	music pioneer list yearly award ceremony	0	0	1	0
@@ -3038,6 +2924,7 @@
 德國高速公路	germany expressway	1	1	0	0
 終章	the final chapter	0	0	1	0
 終章	last chapter	0	0	1	0
+反對者	oppsition	0	0	1	0
 法國	france	0	0	1	0
 中央電視台	central television	0	0	1	0
 陈独秀	duxiu chen	0	0	1	0
@@ -3054,14 +2941,12 @@
 公益廣告及活動	public service advertising and activities	0	0	1	0
 收視平均	average viewership	0	0	1	0
 菲利浦聲優江川央生	voice actor: hisao egawa	0	0	1	0
-菲利浦聲優江川央生	phillip voice actor egawa hisao	0	0	1	0
 黑松沙士	"i feel good"	0	0	1	0
 黑松沙士	musashi	0	0	1	0
 舞林大道	dance path	0	0	1	0
 守護蛋精靈第輯年月日年月日	shugo chara episode 1 year month day - year month day	0	0	1	0
 中華民國乳業協會台灣	republic of china dairy association taiwan	0	0	1	0
 由高卉芸申請再向杜奕瑾申請支付其費用	apply to du yijin again to pay for the expenses	0	0	1	0
-由高卉芸申請再向杜奕瑾申請支付其費用	gao huiyun applied it and asked du yijin to pay for the fees.	0	0	1	0
 有效性	logical	1	0	1	0
 有效性	avilibility	1	0	1	0
 有效性	bank	1	0	1	0
@@ -3124,7 +3009,8 @@
 相关文艺作品	related literary work	0	0	1	0
 反共抗俄基本论	anti-russian	0	0	1	0
 反共抗俄基本论	basic theory of anti-communism	0	0	1	0
-關智斌	kenny kwan	0	0	1	0
+事情結束後他們又遇上了海軍本部最高戰力上將青雉庫山而他的目的就是要殲滅曾經從他手中逃走的羅賓為了保護羅賓一行人和這個可怕的強敵戰鬥敗得一塌糊塗最後卻被放過一馬遭到青雉冷冷果實能力攻擊導致全身被冰凍的羅賓和魯夫則在團員們的合力搶救下撿回一命	on the hand was saved because of the whole team's hard work	0	0	1	0
+事情結束後他們又遇上了海軍本部最高戰力上將青雉庫山而他的目的就是要殲滅曾經從他手中逃走的羅賓為了保護羅賓一行人和這個可怕的強敵戰鬥敗得一塌糊塗最後卻被放過一馬遭到青雉冷冷果實能力攻擊導致全身被冰凍的羅賓和魯夫則在團員們的合力搶救下撿回一命	luffy	0	0	1	0
 广东	guangdong	0	0	1	0
 直腸	rectum	0	0	1	0
 方宥心	youxin fang	0	0	1	0
@@ -3135,13 +3021,10 @@
 絕食乃不得已而為之也不得不為之	hunger strike is unavoidable and necessary	0	0	1	0
 絕食乃不得已而為之也不得不為之	it is forced to hunger strike	0	0	1	0
 目前主要獨立機構如下	the most independent organization at the mean time	0	0	1	0
-目前主要獨立機構如下	the major independent agencies are as follows	0	0	1	0
-目前主要獨立機構如下	currently	0	0	1	0
 目前主要獨立機構如下	present main independent departments below	0	0	1	0
 茈靜蘭綠川光	si seiran: midorikawa hikaru	0	0	1	0
 南音	naamyam	0	0	1	0
 南音	the sound of south	0	0	1	0
-成　龍	jackie chan	0	0	1	0
 愛在	love at	0	0	1	0
 愛在	love in	0	0	1	0
 愛在	love for	0	0	1	0
@@ -3156,7 +3039,6 @@
 國際象棋	andrew	1	0	1	0
 國際象棋	international chess	1	1	0	0
 廣播節目	radio program	0	0	1	0
-廣播節目	broadcasting program	0	0	1	0
 年月日大學生了沒	year month day are you a college student	0	0	1	0
 第八屆華語音樂傳媒大獎	the eighth media award for chinese music	0	0	1	0
 三學生下跪	three student kneeling down	0	0	1	0
@@ -3165,8 +3047,8 @@
 斯洛伐克	traveling embassy	0	0	1	0
 斯洛伐克	slovakia	0	0	1	1
 無綫電視官方網頁	tvb official website	0	0	1	0
-前原	japanese sir name	0	0	1	0
-前原	primary	0	0	1	0
+房内记	on sexual life	0	0	1	0
+房内记	memory inside a room	0	0	1	0
 島嶼	archipelago	1	0	1	0
 島嶼	island	1	1	0	0
 島嶼	fortress	1	0	1	0
@@ -3179,15 +3061,12 @@
 巢	examination	1	0	1	0
 巢	tests	1	0	1	0
 陪著你走	go with you	0	0	1	0
-西元	gregorian calendar	0	0	1	0
-西元	anno domini	0	0	1	0
 被你愛過我很快樂	"happy to have been loved by you"	0	0	1	0
 被你愛過我很快樂	i feel happy when you onces loved me	0	0	1	0
 香山公园北门外	ourside the north gate of xiangshan park	0	0	1	0
 東	east	0	0	1	0
 作詞齊藤惠作曲伊橋成哉編曲山崎淳主唱星名歌唄水樹奈奈	composition: masumi yamazaki singer: amu hinamori nana mizuki	0	0	1	0
 |官方譯名=	official tranlated name	0	0	1	0
-傳媒推薦大獎	media commendation award	0	0	1	0
 傳媒推薦大獎	media recommendation prize	0	0	1	0
 妥協	compromise	0	0	1	0
 缓步动物门	water bear	1	0	1	0
@@ -3243,7 +3122,6 @@
 鈕承澤	niu chengze	0	0	1	0
 估人	the estimated population	0	0	1	0
 愛我就跟我走	go with me if you love me	0	0	1	0
-合唱	chorus	0	0	1	1
 雲雀恭彌近藤隆	hibari kyoya	0	0	1	0
 雲雀恭彌近藤隆	takashi kondō	0	0	1	0
 年代世界正處於冷戰的最後階段年蘇共中央總書記戈爾巴喬夫上台推行在社會主義陣營內產生廣泛影響雖然中华人民共和国官方嚴防資產階級自由化的西方民主思潮但社會已浮現不安情緒	western democratic thoughts，but growing unease appeared in society	0	0	1	0
@@ -3272,13 +3150,10 @@
 参見	references	0	0	1	0
 我愛黑澀棒棒堂	i love black lolipop	0	0	1	0
 我愛黑澀棒棒堂	i love black lollipop	0	0	1	0
-嘉義縣阿里山鄉氣象站	chiayi county alishan rural township meteorological station	0	0	1	0
 嘉義縣阿里山鄉氣象站	chiayi county	0	0	1	0
 嘉義縣阿里山鄉氣象站	alishan weather station	0	0	1	0
 嘉義縣阿里山鄉氣象站	jiayi county ali mountain meteorological station	0	0	1	0
 麥嘉倫	mak ka lun	0	0	1	0
-中山體育場	zhongshan gym	0	0	1	0
-中山體育場	zhongshan stadium	0	0	1	0
 本集評審藍奕邦趙增熹陳潔靈郭偉亮鄧建明	lan yibang	0	0	1	0
 本集評審藍奕邦趙增熹陳潔靈郭偉亮鄧建明	zhao zengxi chen jieling guo weiliang deng jianming	0	0	1	0
 電台節目	radio program	0	0	1	0
@@ -3288,7 +3163,6 @@
 民視	formosa tv	0	0	1	0
 羅文	roman tam / tam pak-sin	0	0	1	0
 話數	the round	0	0	1	0
-話數	episode	0	0	1	0
 類型=烹飪遊戲	type = cooking games	0	0	1	0
 国务院中央人民政府	state council of  central people's government	0	0	1	0
 大激想	strong emotion	0	0	1	0
@@ -3297,14 +3171,11 @@
 我讓你走了	i let you go	0	0	1	0
 随之而来的就是国际化的维基百科年月个非英语维基百科版本计划开始包括了阿拉伯语中文	wiki version project started. including arabic	0	0	1	0
 随之而来的就是国际化的维基百科年月个非英语维基百科版本计划开始包括了阿拉伯语中文	chinese	0	0	1	0
+我愛你	i love you	0	0	1	0
 真生命	real life	0	0	1	0
 真生命	true life	0	0	1	0
-大連	dalian	0	0	1	0
 第一個位元組由開始接著的位元組由開始	unit starts	0	0	1	0
 第一個位元組由開始接著的位元組由開始	the following unit starts	0	0	1	0
-第七十回	chapter seventy	0	0	1	0
-第七十回	episode 70	0	0	1	0
-第七十回	round seventy	0	0	1	0
 巴吉爾	bagir	0	0	1	0
 巴吉爾	bargiel	0	0	1	0
 陈珮骐陈安安彭安安廖安安罗安安详见方家	luo an'an	0	0	1	0
@@ -3315,7 +3186,6 @@
 剿匪成敗與國家存亡	bandits extinction and survival of a country	0	0	1	0
 航空	via air	0	0	1	0
 航空	airline	0	0	1	0
-航空	aviation aviation	0	0	1	0
 日本	japan	0	0	1	1
 中华人民共和国被禁影视作品列表	a list of movies/shows prohibited by the people's republic of china	0	0	1	0
 中华人民共和国被禁影视作品列表	list of banned films and tv programs in the people's republic of china	0	0	1	0
@@ -3330,8 +3200,8 @@
 好不容易	scarcely	0	0	1	0
 好不容易	not easy	0	0	1	0
 愛因斯坦環	einstein circle	0	0	1	0
-同日北京高校临时学联成立并向全国各高校倡議无限期罢课申明事件焦點已由悼念變成争取自由民主時事社的中國也出現擺脫官方新聞的跡象的報導稱中國的報界也終於出現試圖擺脫官方報導的跡象先驅者是北京的科技日報當天北京科技日报突破新闻封锁在头版報道学生游行活动	beijing science and technology daily reported student procession in front-page by breaking news embargo.	0	0	1	0
 同日北京高校临时学联成立并向全国各高校倡議无限期罢课申明事件焦點已由悼念變成争取自由民主時事社的中國也出現擺脫官方新聞的跡象的報導稱中國的報界也終於出現試圖擺脫官方報導的跡象先驅者是北京的科技日報當天北京科技日报突破新闻封锁在头版報道学生游行活动	procession	0	0	1	0
+同日北京高校临时学联成立并向全国各高校倡議无限期罢课申明事件焦點已由悼念變成争取自由民主時事社的中國也出現擺脫官方新聞的跡象的報導稱中國的報界也終於出現試圖擺脫官方報導的跡象先驅者是北京的科技日報當天北京科技日报突破新闻封锁在头版報道学生游行活动	beijing science and technology daily reported student procession in front-page by breaking news embargo.	0	0	1	0
 同日北京高校临时学联成立并向全国各高校倡議无限期罢课申明事件焦點已由悼念變成争取自由民主時事社的中國也出現擺脫官方新聞的跡象的報導稱中國的報界也終於出現試圖擺脫官方報導的跡象先驅者是北京的科技日報當天北京科技日报突破新闻封锁在头版報道学生游行活动	broke the news block reported students movements on the front page	0	0	1	0
 道明寺樁	doumyouji tsubaki	0	0	1	0
 控制字符	control character	0	0	1	0
@@ -3364,11 +3234,10 @@
 回到你身边	back to your side	0	0	1	0
 四人遊	four-person tour	0	0	1	0
 四人遊	four person vacation	0	0	1	0
-墨西哥	mexico	0	0	1	1
+假面骑士	kamen rider faiz	0	0	1	0
 次航班	flight	0	0	1	0
 毛泽东思想	the philosophy of mao zedong	0	0	1	0
 毛泽东思想	mao zedong thought	0	0	1	0
-為何成功	why successful	0	0	1	0
 朝阳堂新建朝阳区酒仙桥路东风南路年月献堂可容纳人	jiuxianqiao road	0	0	1	0
 朝阳堂新建朝阳区酒仙桥路东风南路年月献堂可容纳人	month	0	0	1	0
 朝阳堂新建朝阳区酒仙桥路东风南路年月献堂可容纳人	year	0	0	1	0
@@ -3377,11 +3246,9 @@
 朝阳堂新建朝阳区酒仙桥路东风南路年月献堂可容纳人	south dongfeng road	0	0	1	0
 另見	also see	0	0	1	0
 影視作品	films and television performance	0	0	1	0
-影視作品	films and tv programs	0	0	1	0
 天文	astronomy	0	0	1	1
 |國家代碼	country code	0	0	1	0
 犯規	violation	0	0	1	0
-犯規	broke the rule	0	0	1	0
 犯規	breank the rules	0	0	1	0
 全年最高銷量歌手大獎	top sales singer award	0	0	1	0
 全年最高銷量歌手大獎	annual best seller singer award	0	0	1	0
@@ -3399,7 +3266,6 @@
 雉科	general	1	0	1	0
 小黑與我	blackie and me	0	0	1	0
 趣闻	amusing anecdote	0	0	1	0
-許雲雲	xu yunyun	0	0	1	0
 年勁歌金曲優秀選第一回	the golden pop song elite election round 1	0	0	1	0
 年勁歌金曲優秀選第一回	yearly hot songs excellence selection first round	0	0	1	0
 黑崎一護	kurosaki ichigo	0	0	1	0
@@ -3433,20 +3299,19 @@
 威悉河	wei xihe (name)	1	0	1	0
 威悉河	river weser	1	0	1	0
 威悉河	economy	1	0	1	0
-第十季	season ten	0	0	1	0
 第十季	season 10	0	0	1	0
 參與革命	take part in riot	0	0	1	0
 時段	time interval	0	0	1	0
 時段	period of time	0	0	1	0
 年月日任国务院总理出席任总理后的首次中外记者招待会同年月兼任国家经济体制改革委员会主任月兼任国务院三峡工程建设委员会主任	also the director of the three gorges dam project construction commission of the state council	0	0	1	0
+堅決擁護黨中央決策	absolute support for communist policy	0	0	1	0
 年中华人民共和国设上海为直辖市同时上海也是中国经济总量最大的城市总辖区面积达平方公里年江苏省的上海嘉定宝山松江金山川沙南汇奉贤青浦崇明个县划归上海市上海市辖区范围扩大到平方公里文化大革命时期上海政治活动极为活跃成为四人帮主要的活动基地之一年被国务院公布为国家历史文化名城年代中国大陆改革开放后上海作为中国大陆经济中心的地位一度受到南方等新兴经济特区尤其以深圳珠海为代表的挑战在年春的政治运动中上海各界人民和学生也积极参加了反腐败等运动上海出版的世界经济导报因为发表激进文章而被时任上海市委書記的江澤民下令关闭在该次政治运动中由于时任市长的朱镕基处置得当并未对上海的国际形象造成较大的影响随后江泽民朱镕基曾庆红和黄菊等进入中国政治的权力中心形成了当今中国政坛具有广泛影响力的上海帮	shanghai gang is the most influential in china's politics.	0	0	1	0
 爆笑管家工作日誌年月日	"the program" is on a date (dd-mm-yy)	0	0	1	0
 冰雨	ice rain	0	0	1	0
-性取向	sexual preference	0	0	1	0
 性取向	sexual orientation	0	0	1	0
-民視八大綜合台	formosa tv eight largest general channel	0	0	1	0
-民視八大綜合台	formosa tv top eight integrated channel	0	0	1	0
-民視八大綜合台	people's eighth great meeting	0	0	1	0
+大紅蓮	the great padma	0	0	1	0
+大紅蓮	great red lotus	0	0	1	0
+大紅蓮	red lotus	0	0	1	0
 馮克雷卡古布魯克	kaku	0	0	1	0
 馮克雷卡古布魯克	mr. 2 bon kurei	0	0	1	0
 馮克雷卡古布魯克	brook	0	0	1	0
@@ -3488,7 +3353,8 @@
 林曉峰合唱	the chorus with linxiaofeng	0	0	1	0
 林曉峰合唱	jerry lamb chorus	0	0	1	0
 总统	president	0	0	1	1
-|發售日=	issue date	0	0	1	0
+東海海都大閘蟹	eastern ocean restaurant huge lobster	0	0	1	0
+東海海都大閘蟹	eastern sea city crab	0	0	1	0
 民視八大	formosa tv top eight	0	0	1	0
 循環線	circular route	0	0	1	0
 性交的生物學意義	biological meaning for sex	0	0	1	0
@@ -3507,8 +3373,7 @@
 吳兆銘	wu zhaoming	0	0	1	0
 貴族之子歲年前因為父母放棄其撫養權而被薩波的父親收為養子性格傲慢相當瞧不起在垃圾山生活過的薩波薩波也從他口中得知哥亞王國想燒毀非確定物終點站之事	get to know that goa kingdom going to burn terminus of the uncertain objects	0	0	1	0
 貴族之子歲年前因為父母放棄其撫養權而被薩波的父親收為養子性格傲慢相當瞧不起在垃圾山生活過的薩波薩波也從他口中得知哥亞王國想燒毀非確定物終點站之事	the fact that gaya kingdom wants to burn down the uncertainty terminal	0	0	1	0
-劉剛原北京大學物理系研究生北高聯發起人之一	he was originally a graduate student in peking university	0	0	1	0
-劉剛原北京大學物理系研究生北高聯發起人之一	and an initiator of the federal of universities in beijing.	0	0	1	0
+恥骨	pubic bone	0	0	1	0
 哪怕	no matter	0	0	1	0
 哪怕	even though	0	0	1	0
 哪怕	even if	0	0	1	1
@@ -3603,7 +3468,6 @@
 那個人現在	that person is now...	0	0	1	0
 反应	respond	0	0	1	0
 反应	reaction	0	0	1	1
-張	piece	0	0	1	0
 元宵节	lantern festival	0	0	1	0
 元宵节	festival of lanterns	0	0	1	0
 元宵节	the lantern festival	0	0	1	0
@@ -3622,12 +3486,13 @@
 第五屆百事音樂風雲榜頒獎禮	the fifth pepsi musical award ceremony	0	0	1	0
 內容	content	0	0	1	0
 さゆみれい	japanese word	0	0	1	0
-首播日期	premiere date	0	0	1	0
 首播日期	debut date	0	0	1	0
 首播日期	first broadcast date	0	0	1	0
 广济寺西四大街	xisi crossroad	0	0	1	0
 广济寺西四大街	guangji temple	0	0	1	0
-和平	peace	0	0	1	1
+郭昱晴	yiqing guo	0	0	1	0
+郭昱晴	yuqing guo	0	0	1	0
+郭昱晴	jean guo	0	0	1	0
 參考書目	reference books	0	0	1	0
 李鵬六四日記	li peng diaries: the crytical moment	0	0	1	0
 永远记得你	forever remembering you	0	0	1	0
@@ -3638,8 +3503,8 @@
 崛起	rise up	0	0	1	0
 联邦行政部门	federal administration department	0	0	1	0
 联邦行政部门	federal administrative department	0	0	1	0
-蘇慧恩	su hui en (name of a person)	0	0	1	0
-蘇慧恩	su huien	0	0	1	0
+曲目總數共首	the total number of song in a program	0	0	1	0
+曲目總數共首	total tracks	0	0	1	0
 第三十三回	number	0	0	1	0
 第三十三回	chapter 33	0	0	1	0
 你是春風我是雨	and i am the rain	0	0	1	0
@@ -3681,7 +3546,7 @@
 香港電台國際流行音樂大獎	rthk  international pop poll	0	0	1	0
 碧洋琪	bianchi	0	0	1	0
 碧洋琪	yangqi bi	0	0	1	0
-小八的海底散步	the undersea walk of little eight	0	0	1	0
+演	act	0	0	1	1
 第六章	chapter 6	0	0	1	0
 第六章	chapter six	0	0	1	0
 轶闻	anecdotes	0	0	1	0
@@ -3711,7 +3576,6 @@
 搖籃曲	lullaby	0	0	1	0
 新春習字	new spring learning writing	0	0	1	0
 新春習字	chinese new year copybook	0	0	1	0
-新春習字	chinese new year calligraphy	0	0	1	0
 爭議	contoversies	0	0	1	0
 爭議	dispute	0	0	1	0
 電視台=	tv station	0	0	1	0
@@ -3725,7 +3589,6 @@
 天蝎座	other	1	0	1	0
 大玉	jade	0	0	1	0
 大玉	great jade	0	0	1	0
-大玉	large jade	0	0	1	0
 纽约美国年月日	new york	0	0	1	0
 纽约美国年月日	america	0	0	1	0
 纽约美国年月日	year	0	0	1	0
@@ -3738,9 +3601,6 @@
 |節目名稱=惡作劇吻	programme title=it started with a kiss	0	0	1	0
 |節目名稱=惡作劇吻	show name=it started with a kiss	0	0	1	0
 |節目名稱=惡作劇吻	program name: it started with a kiss	0	0	1	0
-月日北京市急救中心公佈自學生絕食請願以來的天中截至月日北京市各大醫院共救治學生人次留院觀察人次无一人死亡	treated students	0	0	1	0
-月日北京市急救中心公佈自學生絕食請願以來的天中截至月日北京市各大醫院共救治學生人次留院觀察人次无一人死亡	kept for observation	0	0	1	0
-月日北京市急救中心公佈自學生絕食請願以來的天中截至月日北京市各大醫院共救治學生人次留院觀察人次无一人死亡	no one died	0	0	1	0
 關連項目	related projects	0	0	1	0
 關連項目	related items	0	0	1	0
 杜憲中央電視台新聞聯播節目主播	the news presenter in cctv	0	0	1	0
@@ -3753,7 +3613,6 @@
 林子祥	lin zhi xiang	0	0	1	0
 假面騎士響鬼	masked rider hibiki	0	0	1	0
 學生領袖	student leader	0	0	1	0
-專輯資訊	information of a album	0	0	1	0
 澳洲	australia	0	0	1	1
 蕭徽勇	gordon siu	0	0	1	0
 君が待っているから	japanese word	0	0	1	0
@@ -3821,6 +3680,7 @@
 |職業	occupation	0	0	1	0
 台灣台北	taiwan taipei	0	0	1	0
 台灣台北	taipei tapei	0	0	1	0
+華視八大綜合台	gtv variety show	0	0	1	0
 播映日期	broadcast date	0	0	1	0
 播映日期	release date	0	0	1	0
 未來篇	future episode	0	0	1	0
@@ -3852,18 +3712,10 @@
 綜藝大哥大	variety big brother	0	0	1	0
 唯一色彩	the exclusive color	0	0	1	0
 唯一色彩	only colour	0	0	1	0
-俄语	german	0	0	1	0
-俄语	chosean	0	0	1	0
-俄语	spanish	0	0	1	0
-俄语	japanese	0	0	1	0
-俄语	french	0	0	1	0
-俄语	english	0	0	1	0
-俄语	russian	0	0	1	1
-俄语	arabic	0	0	1	0
-俄语	russians words.democratic federation-chinese	0	0	1	0
+林依晨	lin yi chen	0	0	1	0
+林依晨	ariel lin	0	0	1	0
 南	south	0	0	1	1
 我愛黑澀會節目列表	program list of i love hei se hui	0	0	1	0
-我愛黑澀會節目列表	programme list of blackie's teenage club	0	0	1	0
 新領導集體	new leader group	0	0	1	0
 陰天假期	cloudy holiday	0	0	1	0
 佛朗基本週我真爛	franky	0	0	1	0
@@ -3880,7 +3732,6 @@
 趙國東	guodong zhao	0	0	1	0
 趙國東	zhao guodong	0	0	1	0
 分享愛	share love	0	0	1	0
-分享愛	share the love	0	0	1	0
 王城白色騎士隊	royal white knight team	0	0	1	0
 愛無知	love ignorance	0	0	1	0
 愛無知	meaningless love	0	0	1	0
@@ -3911,14 +3762,12 @@
 趕	catch up	0	0	1	0
 趕	hurry	0	0	1	0
 趕	chase	0	0	1	0
-石磐龍	rock entangled dragon	0	0	1	0
 石磐龍	stone twist dragon	0	0	1	0
 專業推介叱吒十大	professional promotion top ten	0	0	1	0
 專業推介叱吒十大	professional recommendation of .......	0	0	1	0
 專業推介叱吒十大	special recommended ultimate song top ten	0	0	1	0
 無常	caducity	0	0	1	0
 無常	nonconstant	0	0	1	0
-美洲	americas	0	0	1	0
 年月日衛視中文台歡樂幸運星	year month date star chinese channel happy lucky star	0	0	1	0
 年月日衛視中文台歡樂幸運星	year month day tv chinese channel happy lucky star	0	0	1	0
 尋歡洞	pleasure hole	0	0	1	0
@@ -3943,10 +3792,8 @@
 堀北真希年度	name is in japanese)	0	0	1	0
 都會區	urban district	0	0	1	0
 都會區	du hui district	0	0	1	0
-都會區	metropolitan area	0	0	1	0
 保加利亞	bulgaria	0	0	1	0
 海昌隱形眼鏡	sea flourishing hide shape eye glass	0	0	1	0
-海昌隱形眼鏡	sea prosperity contact lens	0	0	1	0
 王妃	princess	0	0	1	0
 最佳原創歌曲獎	best song winner	0	0	1	0
 原作	original author	0	0	1	0
@@ -4008,7 +3855,6 @@
 渴望	desire	0	0	1	1
 閩語	catonese	0	0	1	0
 閩語	min language	0	0	1	0
-閩語	fujianese	0	0	1	0
 端午节	dragon boat festival	0	0	1	0
 端午节	the dragon boat festival	0	0	1	1
 歌曲獎	song award	0	0	1	0
@@ -4016,7 +3862,7 @@
 巴其香克斯	shanks	0	0	1	0
 鄧紫棋	deng gem	0	0	1	0
 伊吹風子	iraq catches a chill	0	0	1	0
-紐約影評人協會	new york society of film critics	0	0	1	0
+大連	dalian	0	0	1	0
 趙舜	shun zhao	0	0	1	0
 必胜客	pizza hut	0	0	1	0
 地函	mantle(geography)	0	0	1	0
@@ -4037,9 +3883,8 @@
 一个人睡	sleeping alone	0	0	1	0
 一个人睡	one person sleep	0	0	1	0
 一个人睡	sleep alone	0	0	1	0
-找個人	search people	0	0	1	0
-找個人	find a person	0	0	1	0
-找個人	finding someone	0	0	1	0
+民視八大綜合台	formosa tv top eight integrated channel	0	0	1	0
+民視八大綜合台	people's eighth great meeting	0	0	1	0
 播出日期	broadcast date	0	0	1	0
 民族掃墓節月日清明節	tomb sweeping festival: apr 5 qingming fesitival	0	0	1	0
 民族掃墓節月日清明節	tomb-sweeping day， ching ming festival	0	0	1	0
@@ -4056,7 +3901,6 @@
 個人名義	on one's own behalf	0	0	1	0
 第一場	first round	0	0	1	0
 秒版	second version	0	0	1	0
-第屆	the session	0	0	1	0
 第屆	th	0	0	1	0
 真空路守	yakurosu	0	0	1	0
 出道作	the first album	0	0	1	0
@@ -4064,14 +3908,12 @@
 出道作	debut album / debut song	0	0	1	0
 咖啡因	caffeine	0	0	1	0
 藍楸瑛森川智之	ran shuuei:morikawa toshiyuki	0	0	1	0
-田村直己	tamura naomi	0	0	1	0
 副詞	v. putin	1	0	1	0
 副詞	putin in	1	0	1	0
 副詞	subtitle	1	0	1	0
 副詞	adverb	1	1	0	0
 副詞	verb	1	0	1	0
 年香港電影金像獎	year hong kong film goldman awards	0	0	1	0
-年香港電影金像獎	(year) hong kong film awards	0	0	1	0
 妻子	wife	0	0	1	1
 穿幫	expose the false	0	0	1	0
 相信音樂滾石唱片發行	belief music rock records published	0	0	1	0
@@ -4099,6 +3941,8 @@
 孕婦懷孕最初的三個月以內須醫師評估	pregnant women has to be assessed by physician	0	0	1	0
 孕婦懷孕最初的三個月以內須醫師評估	pregnant women within the first three month of pregnancy	0	0	1	0
 正面評價	positive assessment	0	0	1	0
+年月日苏联和越南签订苏越友好合作条约支持越南在印度支那半岛的扩张同年月日越南人民军向柬埔寨发动进攻	on december 25th of the same year	0	0	1	0
+年月日苏联和越南签订苏越友好合作条约支持越南在印度支那半岛的扩张同年月日越南人民军向柬埔寨发动进攻	vietnam people's army started the attack to cambodia	0	0	1	0
 波蘭	poland	0	0	1	0
 大人國	giant's nation	0	0	1	0
 大人國	land of the giants	0	0	1	0
@@ -4112,14 +3956,10 @@
 蝦夷蔥	allium	1	0	1	0
 蝦夷蔥	founded	1	0	1	0
 蝦夷蔥	chive	1	0	1	0
-張家	zhang's family	0	0	1	0
 張家	zhang family	0	0	1	0
+張家	zhang's family	0	0	1	0
 品牌洗髮精系列產品	brand name shampoo series product	0	0	1	0
 藝人	actor	0	0	1	0
-於第二部中登場的角色珍獸島的新住民身體卡在酒桶內的女子	a woman who stuck her body in a cask	0	0	1	0
-於第二部中登場的角色珍獸島的新住民身體卡在酒桶內的女子	newcomers in zhenshou island	0	0	1	0
-年中共領袖毛澤東逝世後四人幫在懷仁堂事變中被捕事後中共中央第一副主席華國鋒接任中共中央主席持續十年的文化大革命結束年的中國共產黨十一屆三中全會正式宣佈改革開放方針以求擺脫混亂愚昧貧窮會議上時任中共中央副主席鄧小平被確認為實際的最高領導人同時許多在文革被打倒的領導人復出年政府擴大了企業的自主權召回私營企業中的公方代表引入市場經濟中許多觀念發展社會主義市場經濟原有計劃經濟理論被棄守國內思想走向多元	mainland ideology turn towards multicultural	0	0	1	0
-年中共領袖毛澤東逝世後四人幫在懷仁堂事變中被捕事後中共中央第一副主席華國鋒接任中共中央主席持續十年的文化大革命結束年的中國共產黨十一屆三中全會正式宣佈改革開放方針以求擺脫混亂愚昧貧窮會議上時任中共中央副主席鄧小平被確認為實際的最高領導人同時許多在文革被打倒的領導人復出年政府擴大了企業的自主權召回私營企業中的公方代表引入市場經濟中許多觀念發展社會主義市場經濟原有計劃經濟理論被棄守國內思想走向多元	planned economy theories were abandoned	0	0	1	0
 台灣觀光局日韓地區形象代言人	taiwan tourism bureau japan-korea regional image ambassador	0	0	1	0
 五四精神	may fourth movement	0	0	1	0
 第五屆全球華語歌曲排行榜	5th global chinese song chart topper	0	0	1	0
@@ -4148,7 +3988,6 @@
 定义良好	definition good	1	1	0	0
 定义良好	well-defined	1	1	0	0
 定义良好	perm	1	0	1	0
-白隊	white team	0	0	1	0
 妮亞	antonia	0	0	1	0
 妮亞	nia	0	0	1	0
 妮亞	nicole	0	0	1	0
@@ -4208,7 +4047,6 @@
 許樂	le xu	0	0	1	0
 当地名	local name	0	0	1	0
 第八十三回	chapter eighty-three	0	0	1	0
-第八十三回	round eighty-three	0	0	1	0
 你知道我在等你們分手嗎	do you know i am waiting for you to break up	0	0	1	0
 你知道我在等你們分手嗎	do you know i'm wating to broke up with you	0	0	1	0
 你知道我在等你們分手嗎	do you know that i am waiting for you guys to separate ?	0	0	1	0
@@ -4224,8 +4062,6 @@
 東森綜合台	dongsen compositive channel	0	0	1	0
 先祖	ancestor	0	0	1	0
 羅生門	lover's puzzle	0	0	1	0
-六四亦令改變了大專團體香港專上學生聯會學聯的政治取態由親北京立場變成拒共並主導香港的學運方向親北京阵营在商人資助下成立學協意圖改變學運的方向但至今仍未能超越學聯的角色	direction	0	0	1	0
-六四亦令改變了大專團體香港專上學生聯會學聯的政治取態由親北京立場變成拒共並主導香港的學運方向親北京阵营在商人資助下成立學協意圖改變學運的方向但至今仍未能超越學聯的角色	but until today it still doesn't go beyond the role of student union	0	0	1	0
 長門有希	nagato yuki	0	0	1	0
 新加坡金曲獎十大金曲	singapore super star awards top 10 songs	0	0	1	0
 新加坡金曲獎十大金曲	singapore top ten gold songs awards	0	0	1	0
@@ -4242,7 +4078,6 @@
 澳門東大	macao east university	0	0	1	0
 伊甸社會福利基金會|伊甸	eden social welfare foundation/eden	0	0	1	0
 鄭櫻綸	england cheng	0	0	1	0
-假面騎士龍騎	kamen rider dragon knight	0	0	1	0
 假面騎士龍騎	dragon knight	0	0	1	0
 武漢	wuhan	0	0	1	0
 武漢	wu hang (name of a chinese city)	0	0	1	0
@@ -4318,10 +4153,9 @@
 張善為	zhang shanwei	0	0	1	0
 面積	area	0	0	1	0
 國光幫幫忙	help entertainment show	0	0	1	0
-質	category	0	0	1	0
+宗教信仰	religious beliefs	0	0	1	0
 職業角色扮演	professional role play	0	0	1	0
 職業角色扮演	occupation(role play)	0	0	1	0
-無忌	wild	0	0	1	0
 無忌	fearless	0	0	1	0
 第三十回	the thirtieth round	0	0	1	0
 第三十回	30th time	0	0	1	0
@@ -4391,20 +4225,10 @@
 詞綴	affix	1	1	0	0
 詞綴	vacabulary	1	0	1	0
 詞綴	goal	1	0	1	0
-年月加入中国共产党	year month joined the communist party of china	0	0	1	0
-提供盜版連結自由時報年月日	offering piracy link (liberty times y/m/d)	0	0	1	0
 第個選手	nth...athlete	0	0	1	0
 第個選手	number [blank] contestant	0	0	1	0
-蜡梅属	chimonanthus praecox	1	1	0	0
-蜡梅属	chimonanthus	1	1	0	0
-蜡梅属	plum flower family	1	0	1	0
-蜡梅属	plum genus	1	0	1	0
-蜡梅属	black	1	0	1	0
-蜡梅属	ferrous	1	0	1	0
-蜡梅属	calycanthus or sweetshrub	1	0	1	0
 俄文	russian	0	0	1	1
 中國之命運	china's fortune	0	0	1	0
-影音珍藏盤	audio-visual collection plate	0	0	1	0
 年度十大中文金曲	annual top ten golden chinese songs	0	0	1	0
 年度十大中文金曲	the year's top 10 chinese songs	0	0	1	0
 年度十大中文金曲	annual top 10 chinese song	0	0	1	0
@@ -4456,9 +4280,9 @@
 日喀则地区	rizake area	0	0	1	0
 日喀则地区	shigatse prefecture	0	0	1	0
 日喀则地区	rikaze district	0	0	1	0
-北京市政务门户网站	beijing city securities website	0	0	1	0
-北京市政务门户网站	official website of beijing government	0	0	1	0
 北京市政务门户网站	beijing city business official website	0	0	1	0
+北京市政务门户网站	official website of beijing government	0	0	1	0
+北京市政务门户网站	beijing city securities website	0	0	1	0
 北京高校學生自治聯合會簡稱北高聯該組織成員所用或高自聯高校学生自治联合会中国政府所用	college student council	0	0	1	0
 北京高校學生自治聯合會簡稱北高聯該組織成員所用或高自聯高校学生自治联合会中国政府所用	high school	0	0	1	0
 北京高校學生自治聯合會簡稱北高聯該組織成員所用或高自聯高校学生自治联合会中国政府所用	china government use	0	0	1	0
@@ -4472,8 +4296,8 @@
 懒猴科	ossetia	1	0	1	0
 懒猴科	slow loris	1	1	0	0
 經濟發展	economic development	0	0	1	0
-月日早晨工自联的广播称诙会执委沈银汉被捕了另一名叫白宗雄的执委也被北京铁路公安分局抓走了	committee member has been arrested by beijing railway police station	0	0	1	0
-陳曉東	daniel chan	0	0	1	0
+電影演出	film performance	0	0	1	0
+電影演出	movie performance	0	0	1	0
 為何我會喜歡上妳	how did i come to like you?	0	0	1	0
 為何我會喜歡上妳	why did i fall in love with you	0	0	1	0
 兒歌金曲頒獎典禮	the award ceremony of golden nursery rhyme	0	0	1	0
@@ -4488,7 +4312,6 @@
 中國電視台	china television company.	0	0	1	0
 中國電視台	ltd.	0	0	1	0
 中國電視台	chinese tv station	0	0	1	0
-相關網站	related websites	0	0	1	0
 平行四边形	william	1	0	1	0
 平行四边形	rhomboid	1	1	0	0
 平行四边形	wilhelm	1	0	1	0
@@ -4497,15 +4320,18 @@
 薄一波时任中共中央顾问委员会副主任中共元老之一曾严厉批评胡耀邦促使其辞去党总书记六四时表明要果断采取措施	said that decisive action needed to be taken.	0	0	1	0
 薄一波时任中共中央顾问委员会副主任中共元老之一曾严厉批评胡耀邦促使其辞去党总书记六四时表明要果断采取措施	during the june fourth incident	0	0	1	0
 雛森桃齊藤来未子	arriving to the end	0	0	1	0
-恥骨	pubic bone	0	0	1	0
 精工手錶	seikosha	0	0	1	0
 精工手錶	handcrafted watch	0	0	1	0
 精工手錶	delicate watch	0	0	1	0
 動畫製作人	animation producer	0	0	1	0
 我歌故我在	i sing	0	0	1	0
 我歌故我在	therefore i am	0	0	1	0
-出	exit	0	0	1	0
-出	out	0	0	1	0
+年份影片名稱角色備註同片演員	roles	0	0	1	0
+年份影片名稱角色備註同片演員	movie name	0	0	1	0
+年份影片名稱角色備註同片演員	notes	0	0	1	0
+年份影片名稱角色備註同片演員	year movie title name characters attention actors	0	0	1	0
+年份影片名稱角色備註同片演員	actors	0	0	1	0
+年份影片名稱角色備註同片演員	year	0	0	1	0
 待查	checking required	0	0	1	0
 待查	yet to be investigated	0	0	1	0
 大都會區域	metropolitan region	0	0	1	0
@@ -4544,10 +4370,8 @@
 年月日郭富城演唱會場新加坡	singapore guo fucheng tour date	0	0	1	0
 電視廣告	tv ads	0	0	1	0
 票价	fare	0	0	1	0
-無名小站	wretch	0	0	1	0
 第四十二回	the 42th	0	0	1	0
 第四十二回	episode 42	0	0	1	0
-第四十二回	the forty-second chapter	0	0	1	0
 列威亞坦	levi a than (character of japanese comics)	0	0	1	0
 軍政府大元帥行營參謀長年月	military government general	0	0	1	0
 軍政府大元帥行營參謀長年月	battalion advisor	0	0	1	0
@@ -4566,17 +4390,18 @@
 黎明	dawn	0	0	1	1
 梁漢文	edmond leong	0	0	1	0
 東方三月精	eastern and little nature deity	0	0	1	0
+主題曲插曲	theme song	0	0	1	0
+主題曲插曲	theme song interlude	0	0	1	0
+主題曲插曲	theme song and episode	0	0	1	0
+主題曲插曲	soundtrack	0	0	1	0
 凤凰视频红色高棉	phoenix video: khmer rouge	0	0	1	0
 專輯簽唱會	album signing concert	0	0	1	0
 專輯簽唱會	the album's autograph session	0	0	1	0
 李鹏打电话要求赵紫阳取消人大常委会议程赵紫阳明确回答人大委员长会议已做了决定将听取整顿公司和听取学潮的汇报不好改了李鹏和邓小平就认定年月日人大常委会第八次会议将是夺党中央常委权力的日期因而同意万里出国访问并在月日宣布人大会议延期并有观点认为这使得邓小平决定在月日之前解决学生问题	decided to solve student problems	0	0	1	0
 第二階段	second stage	0	0	1	0
 第二階段	the second period	0	0	1	0
-腹	fossils	1	0	1	0
-腹	stomach	1	1	0	1
-腹	abdomen	1	1	0	1
-腹	resources	1	0	1	0
-腹	belly	1	1	0	1
+何家勁	ho ga ging	0	0	1	0
+何家勁	kenny ho	0	0	1	0
 胸	chest	1	1	0	1
 胸	breast	1	1	0	0
 胸	thorax	1	1	0	1
@@ -4586,7 +4411,6 @@
 電視及平面廣告	television and printed advertisements	0	0	1	0
 衛宮	to defend the palace	0	0	1	0
 衛宮	official	0	0	1	0
-衛宮	the palace's officer	0	0	1	0
 日期站次	date and schedule	0	0	1	0
 日期站次	date and train number	0	0	1	0
 清明节	qingming festival	0	0	1	1
@@ -4633,7 +4457,13 @@
 香港紅十字會	the hongkong red cross	0	0	1	0
 香港紅十字會	hong kong red cross society	0	0	1	0
 香港紅十字會	hong kong red cross	0	0	1	0
-堅決擁護黨中央決策	absolute support for communist policy	0	0	1	0
+蜡梅属	chimonanthus praecox	1	1	0	0
+蜡梅属	chimonanthus	1	1	0	0
+蜡梅属	plum flower family	1	0	1	0
+蜡梅属	plum genus	1	0	1	0
+蜡梅属	black	1	0	1	0
+蜡梅属	ferrous	1	0	1	0
+蜡梅属	calycanthus or sweetshrub	1	0	1	0
 地貌学	geomorphology	1	1	0	0
 地貌学	remained	1	0	1	0
 上海虹口足球場	shanghai hongkou football stadium	0	0	1	0
@@ -4646,14 +4476,12 @@
 第十六季	season 16	0	0	1	0
 第十六季	season six	0	0	1	0
 藍正龍	lan zheng-long	0	0	1	0
-參見集	see volume	0	0	1	0
 參見集	see also episode	0	0	1	0
 參見集	refer to episode x.	0	0	1	0
 負面評價	negative commentary	0	0	1	0
 熊本縣	kumamoto prefecture	0	0	1	0
 合作	work together	0	0	1	1
 合作	coperation	0	0	1	0
-鐵幕誘惑	the man with an iron face	0	0	1	0
 鐵幕誘惑	temptation of the iron curtain	0	0	1	0
 管理層	administration and supervision authorities	0	0	1	0
 管理層	management level	0	0	1	0
@@ -4661,13 +4489,11 @@
 年月日隆裕太后在这里公布了末代皇帝爱新觉罗溥仪的退位诏书标志着中国数千年君主专制的终结	marked the termination of china's thousands of years‘ autocratic monarchy	0	0	1	0
 無綫節目	wireless program	0	0	1	0
 無綫節目	wireless programs	0	0	1	0
-第屆十大中文金曲頒獎音樂會	the 10th chinese gold melody awards ceremony	0	0	1	0
 第屆十大中文金曲頒獎音樂會	ten best chinese gold songs award ceremony and concert	0	0	1	0
 異域	foreign area	0	0	1	0
 精武門年	chin woo athletic association year	0	0	1	0
 發售日	release date	0	0	1	0
 動物	continuous	0	0	1	0
-動物	animals	0	0	1	0
 動物	aminal	0	0	1	0
 十大中文金曲頒獎音樂會	top ten chinese golden music award ceremony	0	0	1	0
 金鱼藻科	ceratophyllaceae	1	1	0	0
@@ -4682,10 +4508,8 @@
 叠氮化合物	chemical gas	1	0	1	0
 注解	comment	0	0	1	1
 注解	annotation	0	0	1	0
-祭灶节十二月二十四日祀灶中国北方的时间是廿三台湾地区称作送神日俗称过小年亦称小年小年下小年节除台湾地区台湾地区的小年是除夕的前一天民眾在此刻打掃家中神桌請家中眾神與灶神回天述職	clean the spirit altar at home	0	0	1	0
-祭灶节十二月二十四日祀灶中国北方的时间是廿三台湾地区称作送神日俗称过小年亦称小年小年下小年节除台湾地区台湾地区的小年是除夕的前一天民眾在此刻打掃家中神桌請家中眾神與灶神回天述職	cleaning the household prayer table	0	0	1	0
 祭灶节十二月二十四日祀灶中国北方的时间是廿三台湾地区称作送神日俗称过小年亦称小年小年下小年节除台湾地区台湾地区的小年是除夕的前一天民眾在此刻打掃家中神桌請家中眾神與灶神回天述職	and offer all the gods at home and the kitchen god to return to heaven and give a job report to the	0	0	1	0
-祭灶节十二月二十四日祀灶中国北方的时间是廿三台湾地区称作送神日俗称过小年亦称小年小年下小年节除台湾地区台湾地区的小年是除夕的前一天民眾在此刻打掃家中神桌請家中眾神與灶神回天述職	pray that the household gods and vesta will return to the heavens and debrief	0	0	1	0
+祭灶节十二月二十四日祀灶中国北方的时间是廿三台湾地区称作送神日俗称过小年亦称小年小年下小年节除台湾地区台湾地区的小年是除夕的前一天民眾在此刻打掃家中神桌請家中眾神與灶神回天述職	clean the spirit altar at home	0	0	1	0
 搜尋	search	0	0	1	0
 搜尋	search and find	0	0	1	0
 富山縣	toyama prefecture	0	0	1	0
@@ -4728,11 +4552,13 @@
 演員角色關係	actor character relationship	0	0	1	0
 黃梓瑋	ziwei huang	0	0	1	0
 創作	creation	0	0	1	0
-下元节十月十五	latern festival october 15th	0	0	1	0
-刑警	criminal police	0	0	1	0
+守護者	gardian	1	0	1	0
+守護者	region	1	0	1	0
+守護者	guardian	1	0	1	0
+守護者	watchman	1	1	0	0
 潘越雲齊豫唱	pan yueyun to raise and sing loudly	0	0	1	0
 年上海英商墨海书馆引进中国第一台印刷机而墨海书馆也成为最早的现代化出版社年商务印书馆在上海成立后与中国图书公司文明书局和集成图书公司等出版社组成大型出版机构其业务量顶峰时期占上海图书业的三分之二棋盘街一带更是成为全国图书业的中心	especially qipan street become national book industry centre	0	0	1	0
-性別	gender	0	0	1	0
+無名小站	wretch	0	0	1	0
 雙六高潮	double six climax	0	0	1	0
 第二屆中國唱片金碟獎	the second chinese golden disc award	0	0	1	0
 蔣緯國著歷史見證人的實錄蔣中正先生傳台北青年日報社年	"record of the witness of the history: chiang kaishk's biography" taipei: youth daily	0	0	1	0
@@ -4764,7 +4590,7 @@
 明古魯省	ancient lushen	0	0	1	0
 明古魯省	bengkulu	0	0	1	0
 是雨還是眼淚	rain or tears	0	0	1	0
-布拉格	prague	0	0	1	1
+白隊	white team	0	0	1	0
 孫耀威	sun yangwei	0	0	1	0
 孫耀威	yaowei sun	0	0	1	0
 第届台湾金曲奖	the [nineteenth] taiwan golden song award	0	0	1	0
@@ -4776,7 +4602,6 @@
 其他獎項	other awards	0	0	1	0
 特別出品	special production	0	0	1	0
 中关村	zhongguancun	0	0	1	0
-|現任司法首腦名字	the name of current head of the judiciary	0	0	1	0
 不等號	not equivalence	0	0	1	0
 不等號	sign of inequality	0	0	1	0
 不等號	unequal sign	0	0	1	0
@@ -4812,7 +4637,6 @@
 方力申	alex fong	0	0	1	0
 年度香港最佳音樂選	annual hong kong best music slections	0	0	1	0
 年度香港最佳音樂選	best music of hong kong this year	0	0	1	0
-年度香港最佳音樂選	best music awards hk of the year	0	0	1	0
 故意杀人罪	intentional homicide	0	0	1	0
 巴勒莫	palermo	0	0	1	0
 集數中文標題日文標題腳本分鏡演出作畫監督	storyboard	0	0	1	0
@@ -4834,7 +4658,6 @@
 星光遊樂園	mr nic remix	0	0	1	0
 星光遊樂園	starlight theme park	0	0	1	0
 星光遊樂園	starlight amusement park	0	0	1	0
-本木健介ディアベルキス店長香音的結婚對象	marriage partner	0	0	1	0
 香港小姐總決賽	hong kong girl finals	0	0	1	0
 樂壇民意指數頒獎禮	musical award	0	0	1	0
 樂壇民意指數頒獎禮	sina music award presentation about the public opinion polls	0	0	1	0
@@ -4849,7 +4672,6 @@
 戀愛令人心痛	in love makes people have heartache	0	0	1	0
 的政治課程中國近現代史綱要一書中對於此次事件也有較為簡略的敘述	there are briefing mentioning of this incident in the book	0	0	1	0
 電台名稱	radio station name	0	0	1	0
-電台名稱	the name of radio station	0	0	1	0
 電台名稱	name of radio station	0	0	1	0
 在連串清算中中共第三代領導集體亦正式確立月日江泽民李鹏乔石姚依林宋平李瑞环杨尚昆万里在邓小平家中开会邓小平宣布建立以江泽民为核心的中共第三代领导人	the third generation of leadership of people republic party with jiang zemin at the core	0	0	1	0
 周華健	chow hua jian	0	0	1	0
@@ -4883,6 +4705,7 @@
 冬日專輯	winter album	0	0	1	0
 冬日專輯	winter smtown	0	0	1	0
 時分	hour minute	0	0	1	0
+安徽	anhui	0	0	1	1
 樂派對演唱會	in chinese literally:  happy party) concert	0	0	1	0
 樂派對演唱會	“le party" (a play on french	0	0	1	0
 胡佛設立的近代中國檔案及特藏史料內容包括國民黨檔案蔣中正蔣經國日記中華婦女聯合會檔案等陳誠把他在江西剿共攻破中共紅都瑞金所擄獲的原始文件贈予胡佛二戰接收中國東北的要員張嘉璈把他的文件也給了胡佛宋子文的文件和兩蔣日記如今亦歸胡佛前行政院長郝柏村前行政院長唐飛和前監察院長王作榮等國民黨大老也將個人文件和檔案交給他們收藏	kmt (kuomintang) bosses   gave their personal files and  archives to them for collection	0	0	1	0
@@ -4895,7 +4718,6 @@
 動畫版官方網站	official website	0	0	1	0
 動畫版官方網站	animated/flash version	0	0	1	0
 王　雯	wang wen	0	0	1	0
-王　雯	wendy wang	0	0	1	0
 活動內容	activity content	0	0	1	0
 馬引圭	yingui ma	0	0	1	0
 廣播劇	radio opera	0	0	1	0
@@ -4911,6 +4733,7 @@
 飛段	hidan	0	0	1	0
 第一部生存之海	part one: the sea of survival	0	0	1	0
 第一部生存之海	first survival way	0	0	1	0
+年月日雙面飛輪海想入飛飛限定盤華研國際音樂	two-sided fahrenheit fantasy limited disk	0	0	1	0
 使用招式	use moves	0	0	1	0
 使用招式	technique/skill	0	0	1	0
 京城老字号	old brands and stores in beijing	0	0	1	0
@@ -4920,7 +4743,6 @@
 教育程度	educational level	0	0	1	0
 教育程度	educational status	0	0	1	0
 教育程度	educational background	0	0	1	0
-坂本太郎	sakamoto taro	0	0	1	0
 球蛋白	globulin	1	1	0	1
 球蛋白	assembly	1	0	1	0
 球蛋白	meeting	1	0	1	0
@@ -4942,13 +4764,10 @@
 首爾地區	seoul	0	0	1	0
 甘心	willingly	0	0	1	1
 甘心	willing	0	0	1	0
-朝日新聞朝日新聞社	north korean news north korean news agency	0	0	1	0
 朝日新聞朝日新聞社	morning news morning sun news centre	0	0	1	0
-朝日新聞朝日新聞社	asahi shimbun company	0	0	1	0
-朝日新聞朝日新聞社	asahi shimbun	0	0	1	0
+朝日新聞朝日新聞社	north korean news north korean news agency	0	0	1	0
 上海體育場	shanghai plaything field	0	0	1	0
 上海體育場	shanghai stadium	0	0	1	0
-政治演变	political reform	0	0	1	0
 |播放結束=	broadcast ends	0	0	1	0
 雜錄	miscellaneous	0	0	1	0
 月日北京高校學生已复课但北京大学和北京师范大学学生仍有一半學生罷課有些学生认为中央对学生运动的定性不改变就不应该复课当晚北大和北师大学生自治联合会宣布次日将继续罢课	student council announced that the strike would continue on the next day	0	0	1	0
@@ -4971,8 +4790,7 @@
 膜翅目	membrane wing eye	1	0	1	0
 年月號	year month number	0	0	1	0
 橘子鎮	literally "orange town"	0	0	1	0
-中天娛樂台	ctitv	0	0	1	0
-中天娛樂台	cti entertainment	0	0	1	0
+失憶諒解備忘錄	memorandum	0	0	1	0
 四清运动	socialist education movement	0	0	1	0
 四清运动	"four clean-ups” movement	0	0	1	0
 四清运动	four cleanups movement	0	0	1	0
@@ -4981,7 +4799,9 @@
 第作電視動畫官網	th works. tv animation official website	0	0	1	0
 年實行經濟改革以來中國大陸經濟發展迅速每日生活費用不足美元購買力平價的人口貧困率已由年代末的約降低為年代後期至今的不足年以平均购买力计算中國的國民生產總值仅次于美国居全球第二位	second highest in the world	0	0	1	0
 年實行經濟改革以來中國大陸經濟發展迅速每日生活費用不足美元購買力平價的人口貧困率已由年代末的約降低為年代後期至今的不足年以平均购买力计算中國的國民生產總值仅次于美国居全球第二位	gdp is just after usa	0	0	1	0
-岡村天斎	tensai okamura	0	0	1	0
+性交行為在某些國家政府民族社會風土認定上多半有年齡的限制必須成年才能性交並以此制定法律如果與法律上未成年的人性交將被開罰或處以刑責	if have sex with juveniles in law	0	0	1	0
+性交行為在某些國家政府民族社會風土認定上多半有年齡的限制必須成年才能性交並以此制定法律如果與法律上未成年的人性交將被開罰或處以刑責	having coitus with minors will be charged or punished	0	0	1	0
+性交行為在某些國家政府民族社會風土認定上多半有年齡的限制必須成年才能性交並以此制定法律如果與法律上未成年的人性交將被開罰或處以刑責	will be fined and sentenced	0	0	1	0
 衛視中文台	chinese satellite broadcast station	0	0	1	0
 衛視中文台	star tv	0	0	1	0
 真知棒	truth candy bar	0	0	1	0
@@ -4998,7 +4818,6 @@
 妮歌	nicole	0	0	1	0
 極愛自己	love myself very much	0	0	1	0
 等	wait	0	0	1	0
-或其他	or other	0	0	1	0
 或其他	or others	0	0	1	0
 成立其硬體由美國華府律師張慧玲贊助	hardware established with the assistance of american government lawyer zhang huiling	0	0	1	0
 保齡球	bowling	0	0	1	0
@@ -5018,13 +4837,11 @@
 汪東城	jiro wang	0	0	1	0
 专辑	album	0	0	1	0
 专辑	the album	0	0	1	0
-直轄市	municipalities	0	0	1	0
 直轄市	direct administrative city	0	0	1	0
+直轄市	municipalities	0	0	1	0
 發誓	swear	0	0	1	0
-發誓	promise	0	0	1	0
 恭碩良	shuoliang gong	0	0	1	0
 恭碩良	joventino couto remotigue	0	0	1	0
-出櫃停看聽同志子女必讀寶典臺灣作者台灣同志諮詢熱線協會女書文化吳氏總經銷	the wu's total distribution	0	0	1	0
 年开埠以前上海的城市建筑主要以民居为主另有少规模的政府衙署风格总体为江南民居风格上海开埠以后随着欧美文化大举进入和租界建立上海开始出现各种不同风格的建筑因而被誉为万国建筑博览会是为中国之最其中尤以外滩地区的金融建筑最为著名年以后城市大体量建筑减少而新的居民住宅区开始涌现年代起上海开始大规模新的城市建设涌现出一系列新的现代建筑而浦东陆家嘴地区成为现代建筑的代表区域同时伴随旧区改造等工程浦西市中心的现代建筑到处可见上海成为现代建筑争相展示的舞台	shanghai becomes the stage of modern architecture competition.	0	0	1	0
 為你鍾情	i love you	0	0	1	0
 為你鍾情	fall in love with you	0	0	1	0
@@ -5040,7 +4857,6 @@
 月日	month day	0	0	1	0
 李國祥	li guo xiang	0	0	1	0
 中孝介	chinese kosuke	0	0	1	0
-舔阴	cunnilingus	0	0	1	0
 別了同仁保重死者和生者一樣的忠誠	take care. may the dead be as loyal as the living	0	0	1	0
 別了同仁保重死者和生者一樣的忠誠	comrade	0	0	1	0
 別了同仁保重死者和生者一樣的忠誠	takecare! loyal no matter dead or alive	0	0	1	0
@@ -5058,9 +4874,8 @@
 著作	work	0	0	1	0
 著作	copyright	0	0	1	0
 三好一郎	three good first guy	0	0	1	0
-劇名	show name	0	0	1	0
+學歷	educational background	0	0	1	0
 |音樂類型	music type	0	0	1	0
-|音樂類型	music genre	0	0	1	0
 江西	jiang xi	0	0	1	0
 江西	jiang xi (a place in china)	0	0	1	0
 黃泰安	huang tai an	0	0	1	0
@@ -5071,6 +4886,7 @@
 杜詩梅	du shimei	0	0	1	0
 王心凌	wang xin ling	0	0	1	0
 王心凌	cyndi wang	0	0	1	0
+前年前年前年前年前年前年前年前年前年前年	before the year	0	0	1	0
 年人大會議討論長江三峽工程雖然方案得到李鵬及多名老幹部支持但名人大會議成員投票時贊成票僅得共票有投反對票人投廢票數人甚至棄權這一情況自中华人民共和国年立國後所僅見同樣地人民過去選舉地方幹部時大多依從中央指定的候選人但有几個地方卻自行選出更受民眾歡迎的代表少数农村开始实行由村民选举领导人的方法年月日辽宁省沈阳市人民代表大会否决了沈阳市中级人民法院的年工作报告是中华人民共和国历史上第一次然而年後政府的管制仍然严格並沒有出現根本性的改變	regulation was still strict. no fundamental change appeared.	0	0	1	0
 年人大會議討論長江三峽工程雖然方案得到李鵬及多名老幹部支持但名人大會議成員投票時贊成票僅得共票有投反對票人投廢票數人甚至棄權這一情況自中华人民共和国年立國後所僅見同樣地人民過去選舉地方幹部時大多依從中央指定的候選人但有几個地方卻自行選出更受民眾歡迎的代表少数农村开始实行由村民选举领导人的方法年月日辽宁省沈阳市人民代表大会否决了沈阳市中级人民法院的年工作报告是中华人民共和国历史上第一次然而年後政府的管制仍然严格並沒有出現根本性的改變	it is not exist basic change	0	0	1	0
 年人大會議討論長江三峽工程雖然方案得到李鵬及多名老幹部支持但名人大會議成員投票時贊成票僅得共票有投反對票人投廢票數人甚至棄權這一情況自中华人民共和国年立國後所僅見同樣地人民過去選舉地方幹部時大多依從中央指定的候選人但有几個地方卻自行選出更受民眾歡迎的代表少数农村开始实行由村民选举领导人的方法年月日辽宁省沈阳市人民代表大会否决了沈阳市中级人民法院的年工作报告是中华人民共和国历史上第一次然而年後政府的管制仍然严格並沒有出現根本性的改變	controls still strictly	0	0	1	0
@@ -5108,7 +4924,6 @@
 你在不在	are you in?	0	0	1	0
 杜明媚	du mingmei	0	0	1	0
 杜明媚	dominique	0	0	1	0
-新城勁爆兒歌頒獎禮	metro radio kids hit awards presentation	0	0	1	0
 新城勁爆兒歌頒獎禮	new city hot children's song award ceremony	0	0	1	0
 新城勁爆兒歌頒獎禮	metro radio children music awards presentation	0	0	1	0
 雷火豊	i ching hexagram 55: ䷶ “abounding”	0	0	1	0
@@ -5129,7 +4944,6 @@
 载体	component	1	1	0	0
 载体	vector	1	0	1	0
 书	books	0	0	1	0
-书	book	0	0	1	1
 情歌精选	selected love songs	0	0	1	0
 情歌精选	love song compilation	0	0	1	0
 统治时间	ruling time	0	0	1	0
@@ -5173,7 +4987,6 @@
 第四十七回	the four hundred and seventeenth time	0	0	1	0
 林美秀	lin mei-xiu	0	0	1	0
 电视	television	0	0	1	1
-电视	televisyen	0	0	1	0
 唐泳妮	tong wing ni	0	0	1	0
 唐泳妮	yongni tang	0	0	1	0
 倫敦	london	0	0	1	0
@@ -5188,7 +5001,6 @@
 鬚鯛科	but	1	0	1	0
 鬚鯛科	mullidae	1	1	0	0
 虽然许多西方国家已经废除了死刑不过目前美国联邦针对一些特定犯罪保留死刑以及有个州还保留着该制度自年美国最高法院恢复实施死刑以来之前暂停了四年到目前已有多名罪犯接受了死刑年美国实施死刑的数量居全球第六位列中国伊朗巴基斯坦伊拉克和苏丹之后年新泽西州成为年以来第一个废除死刑的州此后新墨西哥州于年以及伊利诺伊州于年也相继废除了死刑	... and the state of illinois also ablate death penalty in 2011.	0	0	1	0
-虽然许多西方国家已经废除了死刑不过目前美国联邦针对一些特定犯罪保留死刑以及有个州还保留着该制度自年美国最高法院恢复实施死刑以来之前暂停了四年到目前已有多名罪犯接受了死刑年美国实施死刑的数量居全球第六位列中国伊朗巴基斯坦伊拉克和苏丹之后年新泽西州成为年以来第一个废除死刑的州此后新墨西哥州于年以及伊利诺伊州于年也相继废除了死刑	and illinois at year also one after another abandoned the capital punishment	0	0	1	0
 是印尼最高的官方大樓	is indonesia's highest official(government?) building	0	0	1	0
 當時成員總數	total current members	0	0	1	0
 二期	the second stage of	0	0	1	0
@@ -5210,8 +5022,7 @@
 總條目數萬條目數前名語言版本的總條目數萬共佔總條目數的	000	0	0	1	0
 批踢踢主機在台大第八男生宿舍杜奕瑾寢室時期由杜奕瑾向當時該宿舍網管黃黎明申請的網域名稱	huang liming	0	0	1	0
 批踢踢主機在台大第八男生宿舍杜奕瑾寢室時期由杜奕瑾向當時該宿舍網管黃黎明申請的網域名稱	du yijin applied for the name of the website to the manager of the dorm	0	0	1	0
-事情結束後他們又遇上了海軍本部最高戰力上將青雉庫山而他的目的就是要殲滅曾經從他手中逃走的羅賓為了保護羅賓一行人和這個可怕的強敵戰鬥敗得一塌糊塗最後卻被放過一馬遭到青雉冷冷果實能力攻擊導致全身被冰凍的羅賓和魯夫則在團員們的合力搶救下撿回一命	on the hand was saved because of the whole team's hard work	0	0	1	0
-事情結束後他們又遇上了海軍本部最高戰力上將青雉庫山而他的目的就是要殲滅曾經從他手中逃走的羅賓為了保護羅賓一行人和這個可怕的強敵戰鬥敗得一塌糊塗最後卻被放過一馬遭到青雉冷冷果實能力攻擊導致全身被冰凍的羅賓和魯夫則在團員們的合力搶救下撿回一命	luffy	0	0	1	0
+關智斌	kenny kwan	0	0	1	0
 尖端出版社	sharp point publishing group	0	0	1	0
 仰望	look up	0	0	1	0
 气候学	meteology	1	0	1	0
@@ -5226,8 +5037,6 @@
 近代	modern	0	0	1	0
 一般来说男性自慰的频率比女性高青年男性还可能发生梦遗以后会随着体内荷尔蒙的减少及正常的性生活而逐渐降低	reduction of hormone and reduce normal sex life little by little	0	0	1	0
 一般来说男性自慰的频率比女性高青年男性还可能发生梦遗以后会随着体内荷尔蒙的减少及正常的性生活而逐渐降低	gradually decrese with the reduction of hormons and regular sex life	0	0	1	0
-義經皆本剛香川照之小倉史也幼年	i believe this is japanese	0	0	1	0
-義經皆本剛香川照之小倉史也幼年	not chinese	0	0	1	0
 義經皆本剛香川照之小倉史也幼年	this is not chinese	0	0	1	0
 合作演員	co-actor	0	0	1	0
 皇后	queen	0	0	1	0
@@ -5238,8 +5047,6 @@
 麵包超人	anpanman	0	0	1	0
 麵包超人	bread superman	0	0	1	0
 第四屆全球華語歌曲排行榜	4th global chinese music ranking board	0	0	1	0
-第四屆全球華語歌曲排行榜	fourth global chinese music list	0	0	1	0
-假面骑士	kamen rider faiz	0	0	1	0
 按鈕型揚聲器	button-type loudspeaker	0	0	1	0
 跨世纪丛书学潮现象周英肖培陈喜庆陈伊萍	generation from books	0	0	1	0
 跨世纪丛书学潮现象周英肖培陈喜庆陈伊萍	...	0	0	1	0
@@ -5250,7 +5057,6 @@
 張裔公賞不遺遠罰不阿近爵不可以無功取刑不可以貴勢免此賢愚之所以僉忘其身者也	this is why the wise and the common people are devoting their lives	0	0	1	0
 張裔公賞不遺遠罰不阿近爵不可以無功取刑不可以貴勢免此賢愚之所以僉忘其身者也	the rich and powerful cannot be pardoned	0	0	1	0
 |出版社=	press	0	0	1	0
-|出版社=	publisher	0	0	1	0
 伊斯兰教	islam	0	0	1	1
 伊斯兰教	islamism	0	0	1	0
 農業	agriculture	0	0	1	0
@@ -5270,7 +5076,6 @@
 生肖	chinese zodiac	0	0	1	0
 劇場版銀魂新訳紅桜篇	theatre edition- silver rose	0	0	1	0
 第四十三回	chapter fourty-three	0	0	1	0
-真棒啊小櫻	fantastic!xiaoyin	0	0	1	0
 真棒啊小櫻	so good sakura	0	0	1	0
 真棒啊小櫻	very impressive little ying	0	0	1	0
 火影忍者最強忍者大結集	fire shadow ninja top ninja grand episode	0	0	1	0
@@ -5360,17 +5165,20 @@
 年明治八年	meiji 8th year	0	0	1	0
 年明治八年	8th year of meiji era	0	0	1	0
 封鎖我一生	obstruct my entire life	0	0	1	0
+找個人	search people	0	0	1	0
+找個人	find a person	0	0	1	0
+找個人	finding someone	0	0	1	0
 舞所遁形	nowhere to hide dance	0	0	1	0
 第話插入歌	to insert song ...nth	0	0	1	0
-維基百科的時序線元維基上关于维基百科历史的介绍	the introduction of wikipedia history	0	0	1	0
 維基百科的時序線元維基上关于维基百科历史的介绍	wikipedia's time series- original wiki about the introduction of wikipedia	0	0	1	0
 山西	shanxi	0	0	1	1
+猿飛佐助子安武人	sarutobi sasuke: takehito koyasu (voice actor)	0	0	1	0
 山本一夫	yamanouchi kazuo	0	0	1	0
 山本一夫	kazuo yamamoto	0	0	1	0
 詹姆斯敦	jamestown	1	1	0	0
 阿牛後調往九龍城消防局	ah-niu was transferred to kowloon city fire station	0	0	1	0
-華視八大綜合台	gtv variety show	0	0	1	0
-交友关系	friend relationship	0	0	1	0
+鄧健泓	jianhong deng	0	0	1	0
+鄧健泓	zheng jianhong	0	0	1	0
 交友关系	friends relationship	0	0	1	0
 林家	lin's	0	0	1	0
 林家	the lam family	0	0	1	0
@@ -5402,15 +5210,13 @@
 音樂作品得獎記錄請參照	please refer to	0	0	1	0
 音樂作品得獎記錄請參照	for the reward records of the musical product	0	0	1	0
 大細路	an adult behaves like a child.	0	0	1	0
-變身時需順序按下代表各騎士的圖案順序為	you must press the symbol of the knight in order	0	0	1	0
-變身時需順序按下代表各騎士的圖案順序為	the order is:	0	0	1	0
-變身時需順序按下代表各騎士的圖案順序為	while transforming	0	0	1	0
 化裝舞會	party	0	0	1	0
 不是娃娃	not a baby	0	0	1	0
 不是娃娃	not a doll	0	0	1	0
 到了年月失業率更是首度破高達	month) unemployment rate exceeded	0	0	1	0
 到了年月失業率更是首度破高達	till (year	0	0	1	0
-我愛你	i love you	0	0	1	0
+如果聽到這首歌	if listen to this song	0	0	1	0
+如果聽到這首歌	if hearing this song	0	0	1	0
 西部	west	0	0	1	0
 西部	westernside	0	0	1	0
 西部	western	0	0	1	0
@@ -5442,7 +5248,6 @@
 位置範圍	position range	0	0	1	0
 凌晨時據共青團北京市委天大事記所記天安門廣場尚有學生市民數萬人	there are thousands of students and residents in tiananmen square	0	0	1	0
 第三屆全球華語歌曲排行榜	third global chinese song list	0	0	1	0
-第三屆全球華語歌曲排行榜	the 7th global chinese music  hits chart	0	0	1	0
 第三屆全球華語歌曲排行榜	third global chinese music hit list	0	0	1	0
 鬼兵隊之名名字是參照高杉晉作在長州藩率領的奇兵隊	the name of the ghost team is referred to takasugi shinsuke's kiheitai when in choshu domain	0	0	1	0
 澎恰恰	chia chia pon	0	0	1	0
@@ -5489,14 +5294,13 @@
 審核機制	audit mechanism	0	0	1	0
 幽遊白書	yu yu hakusho	0	0	1	0
 幽遊白書	yuyu_hakusho	0	0	1	0
-房内记	on sexual life	0	0	1	0
-房内记	memory inside a room	0	0	1	0
+區郡	? district ? area	0	0	1	0
 配音作品	dubbing works	0	0	1	0
 配音作品	works of dubing	0	0	1	0
 喬石时任中共中央政治局常委兼中央纪律检查委员会书记中央政法委员会书记在事件中表现中立没有明确表态	with regard to this issue	0	0	1	0
 喬石时任中共中央政治局常委兼中央纪律检查委员会书记中央政法委员会书记在事件中表现中立没有明确表态	and doesn't state his opinion explicitly	0	0	1	0
 喬石时任中共中央政治局常委兼中央纪律检查委员会书记中央政法委员会书记在事件中表现中立没有明确表态	he becomes neutral	0	0	1	0
-晚晚乖	night obedience	0	0	1	0
+馬永貞	ma wing jing	0	0	1	0
 地点	venue	0	0	1	0
 地点	location	0	0	1	1
 地点	site	0	0	1	1
@@ -5509,7 +5313,6 @@
 在中国的五行学说中黄色是土的象征	in the chinese theory of five phases	0	0	1	0
 在中国的五行学说中黄色是土的象征	the yellow color is the symbol of earth	0	0	1	0
 大唐雙龍傳	twin of brothers	0	0	1	0
-大唐雙龍傳	the tales of two heros in tang dynasty	0	0	1	0
 大唐雙龍傳	tang dynasty double dragon legend	0	0	1	0
 东正教	don tseng jiao	0	0	1	0
 东正教	eastern orthodox church	0	0	1	0
@@ -5521,7 +5324,6 @@
 亞當	combined	1	0	1	0
 胡啟立时任中共中央政治局常委兼中共中央书记处书记后因支持赵紫阳被免去所有职务仅保留中共中央委员职务	suspend from all the job position but only maintain position in cpc central commitee	0	0	1	0
 食品安全	food security	0	0	1	0
-食品安全	food safety	0	0	1	0
 廣播	broadcast	0	0	1	0
 萬千星輝頒獎典禮	the awards ceremony of all stars	0	0	1	0
 倚天屠龍記	the heaven sword and dragon saber	0	0	1	0
@@ -5538,7 +5340,6 @@
 螺旋丸	spiral ball	0	0	1	0
 年香港新編中史會考課程正式將六四事件加進近代史中但篇幅僅由字至字不等用語如群眾的行為超越了政府的容忍限度及中共中央認為這是有人從中挑動並以政治風波及學潮形容事件都較為接近中央定性的用語其中三本教科書以清場形容中央處理六四的方式文達的教科書則僅以一句形容事件最後政府軍隊干預方告平息而四本教科書均未提及平民死傷情況	however the four textbooks did not mention of casualty of the civilians.	0	0	1	0
 地獄天堂	earth prison sky lobby	0	0	1	0
-地獄天堂	hell heaven	0	0	1	0
 川口真五	shingo kawaguch	0	0	1	0
 年大陸	year(mainland china)	0	0	1	0
 年大陸	year mainland	0	0	1	0
@@ -5635,6 +5436,7 @@
 翠鸟	plot	1	0	1	0
 翠鸟	subject	1	0	1	0
 後窗知己	rear window friend	0	0	1	0
+雲雀	lark	0	0	1	0
 學校	school	0	0	1	0
 萨宾	sabine	1	1	0	0
 萨宾	big	1	0	1	0
@@ -5656,8 +5458,8 @@
 李樂詩	joyce lee	0	0	1	0
 李樂詩	leshi li	0	0	1	0
 森美小儀山寨王	sammy kitty group	0	0	1	0
-第一區	zone one	0	0	1	0
 第一區	first district	0	0	1	0
+第一區	zone one	0	0	1	0
 超級偶像	super idol	0	0	1	0
 三月	march	0	0	1	1
 衰落	decline	1	1	0	0
@@ -5695,8 +5497,7 @@
 土耳其	turkey	0	0	1	1
 第回年月日京都市勸業館	chapter year month day kyoto miyakomesse	0	0	1	0
 第回年月日京都市勸業館	round year month day kyoto city	0	0	1	0
-太祖	taizu	0	0	1	0
-太祖	grand ancestors	0	0	1	0
+年度大金曲愛到	yearly top songs love arrives	0	0	1	0
 眼紅紅	eyes red	0	0	1	0
 文档授权协议	the contract of granting documents	0	0	1	0
 文档授权协议	document licensing agreement	0	0	1	0
@@ -5777,7 +5578,6 @@
 阿綱	ah wang	0	0	1	0
 阿綱	a wang	0	0	1	0
 低	low	0	0	1	1
-學歷	educational background	0	0	1	0
 小鬼	little devil	0	0	1	1
 公園	park	0	0	1	0
 與在此時草帽一行人商討騙人布事後欲歸隊的問題由於騙人布當初的意氣用事讓魯夫差點下不了台因此在索隆的提案下大夥都同意要等騙人布誠心道歉後才讓他重新加入否則將把他扔在水之七島及後佛朗基幫草帽一行人造好了新船千陽號而他本人亦以船匠身份也正式加入同時羅賓亦打開了幼年的心結成為草帽一行人真正的夥伴在騙人布誠心道歉後重新回到草帽海賊團全員再度整裝出發	returning to the straw hat pirates	0	0	1	0
@@ -5791,7 +5591,6 @@
 已完結	already ended	0	0	1	0
 |其他出版社=	the other's press	0	0	1	0
 喬傑立巨星愛在星光演唱會	j stars - love under stars concert	0	0	1	0
-喬傑立巨星愛在星光演唱會	superstar gao jieli's concert-love lies in stars	0	0	1	0
 真裸	mappa	0	0	1	0
 ∗角色台譯大力丸	character taiwan translation: da li wan	0	0	1	0
 ∗角色台譯大力丸	character translating strong pill	0	0	1	0
@@ -5804,7 +5603,6 @@
 去世時間	death time	0	0	1	0
 作者	author	0	0	1	1
 第六十回	the sixteenth meeting	0	0	1	0
-第六十回	the sixtieth chapter	0	0	1	0
 第六十回	chapter sixty	0	0	1	0
 為真	to be true;  to be correct	0	0	1	0
 多重影分身術	tajyu kagebunsin no jyutu	0	0	1	0
@@ -5815,10 +5613,10 @@
 年月日飛輪海	fahrenheit's album year month day	0	0	1	0
 由于认为成名的时机到了访美学者刘晓波提前返国是六四事件的主要煽动者	liu xiaobo's early return to china	0	0	1	0
 由于认为成名的时机到了访美学者刘晓波提前返国是六四事件的主要煽动者	was the main instigator of the june 4th incident	0	0	1	0
-以色列	israel	0	0	1	1
+如	such as	0	0	1	1
+如	for example	0	0	1	0
 著者	author	0	0	1	1
 填詞作品	lyric work	0	0	1	0
-本分類亦包含世界政府成員國的皇室與平民的介紹	the introduction of imperial family and common people from the countries of  global governments group	0	0	1	0
 其二	number 2	0	0	1	0
 第名	first name	0	0	1	0
 印尼娛樂圈與鄰近國馬來西亞相比算是較為發達的許多馬來西亞歌手都到印尼發展印尼娛樂圈較為開放歌手可以以艷麗的裝扮在舞台上演出但在其他的穆斯林國家來講歌手及演員是不能這樣的因此許多馬來西亞人無法在自己的國家發展而到印尼發展其餘的馬來西亞華人則到香港台灣等地發展	malaysian chinese seek development in places like hong kong or taiwan	0	0	1	0
@@ -5835,7 +5633,6 @@
 高雄縣	kaohsiung city	0	0	1	0
 高雄縣	kaohsiung county	0	0	1	0
 廣東	guangdong	0	0	1	0
-馬永貞	ma wing jing	0	0	1	0
 笹川了平	sasagawa ryouhei	0	0	1	0
 火柴天堂	match heaven	0	0	1	0
 火柴天堂	matchstick heaven	0	0	1	0
@@ -5845,9 +5642,8 @@
 端午节农历五月初五法定假日一天通常再调休邻近双休日总共三天	one day usually compensatory leave of the adjacent weekend	0	0	1	0
 被淘汰者備註	the person who was eliminated / remark	0	0	1	0
 被淘汰者備註	one who fails/ remarks	0	0	1	0
-年根据当时北洋政府教育部公布的壬子学制学堂陆续更名为学校到年上海共有初等学校共所中等学校所高等学校所各类学校人数总计达万多人淞沪会战爆发后大部分高校随国民政府迁到内陆年内迁学校返沪同时上海开始实行国民教育制度	shanghai started the national education system.	0	0	1	0
-年根据当时北洋政府教育部公布的壬子学制学堂陆续更名为学校到年上海共有初等学校共所中等学校所高等学校所各类学校人数总计达万多人淞沪会战爆发后大部分高校随国民政府迁到内陆年内迁学校返沪同时上海开始实行国民教育制度	returned to shanghai. in the meantime	0	0	1	0
 胡達泉	hu daquan	0	0	1	0
+劇名	show name	0	0	1	0
 新华网	xinhua net	0	0	1	0
 新不了情	mon chéri	0	0	1	0
 新不了情	love without end	0	0	1	0
@@ -5860,14 +5656,11 @@
 委員會針治療所作的負面宣告剝奪了受美國憲法所保障的精神科醫生執業自由	the practicing freedom for psychiatrists guaranteed by the constitution of the united states	0	0	1	0
 寓言	allogory	0	0	1	0
 寓言	prophecy	0	0	1	0
-寓言	fable	0	0	1	1
 傷心的話留到明天再說	leave the sad words till tomorrow	0	0	1	0
 咖啡店	coffeeshop	0	0	1	0
 咖啡店	coffee shop	0	0	1	0
 第集　~　第集第套制服	the episode the episode set of custome	0	0	1	0
-張醫生	doctor cheung	0	0	1	0
 張醫生	doctor zhang	0	0	1	0
-陳冠希現於美國居住曾擬於年月到香港為淫照事件出庭作證但其後改口表示不回港作供	change statement and not intend to come back to hongkong to give another statement	0	0	1	0
 國父紀念館	dr. sun memorial hall	0	0	1	0
 國父紀念館	sun yat-sen memorial hall	0	0	1	0
 性伴侶	sex partner	0	0	1	0
@@ -5889,7 +5682,6 @@
 延遲日	delay day	0	0	1	0
 年月日電影	year/month/date movie	0	0	1	0
 郭世倫	darryl guo	0	0	1	0
-百分百大對抗	withstand 100%	0	0	1	0
 百分百大對抗	100% confrontation	0	0	1	0
 百分百大對抗	one hundred percent opposition	0	0	1	0
 娛樂滿天愛情劇年	entertainment full of love drama year	0	0	1	0
@@ -5914,7 +5706,6 @@
 屏東縣三地門鄉	sandimen village okres pching-tung	0	0	1	0
 屏東縣三地門鄉	tuen mun heung	0	0	1	0
 屏東縣三地門鄉	three demen township	0	0	1	0
-陳	chan	0	0	1	0
 年月日滚石唱片	year/month/day rock record	0	0	1	0
 年月日滚石唱片	year month day rock records	0	0	1	0
 年月日滚石唱片	date(yy.mm.dd)rolling stone phonograph record	0	0	1	0
@@ -5928,8 +5719,6 @@
 台灣僑委會海外杰出艺人奖	outstanding artist award of overseas taiwanese affairs commission	0	0	1	0
 覆雨翻雲	lethal weapons of love and passion	0	0	1	0
 覆雨翻雲	shifty	0	0	1	0
-電影演出	film performance	0	0	1	0
-電影演出	movie performance	0	0	1	0
 第五十五回	chapter fifty five	0	0	1	0
 沒有愛怎麼活永相愛年	love for ever	0	0	1	0
 沒有愛怎麼活永相愛年	how could we live without love	0	0	1	0
@@ -5996,7 +5785,7 @@
 評審	judge	0	0	1	0
 評審	review	0	0	1	0
 特步運動鞋中國	xtep sport shoes china	0	0	1	0
-安徽	anhui	0	0	1	1
+最后你也走了	at the end you are also gone	0	0	1	0
 |企畫=	copmany plan	0	0	1	0
 |企畫=	director	0	0	1	0
 其實我想	but i want to	0	0	1	0
@@ -6023,7 +5812,6 @@
 布魯克一宿一短褲的報恩	one pair of underwear gratitude	0	0	1	0
 如果沒有你	if without you	0	0	1	0
 如果沒有你	without you	0	0	1	0
-雙失情人節	lose both valentine's day	0	0	1	0
 明星逃服兵役各有奇招	pop stars have their unique ways to scape military draft	0	0	1	0
 明星逃服兵役各有奇招	celebrities avoiding compulsory military training	0	0	1	0
 明星逃服兵役各有奇招	to avoid participating military service	0	0	1	0
@@ -6033,7 +5821,6 @@
 同樣畢業自師大附中	also graduated from high school affiliated to the normal university	0	0	1	0
 流星花園	meteor garden	0	0	1	0
 守護甜心圖鑑	shugo chara! illustrations	0	0	1	0
-林雪	lin xue (personal name) or wood snow (no real meaning)	0	0	1	0
 朱孝天	ken chu	0	0	1	0
 外部鏈接	external link	0	0	1	0
 外部鏈接	outer connection	0	0	1	0
@@ -6044,15 +5831,15 @@
 主题曲	hide instructions  informed consent form	0	0	1	0
 動畫第二季於年月日開始播出採用與原本製作時的畫面比例也就是的寬螢幕格式播出	ratio of the screen	0	0	1	0
 動畫第二季於年月日開始播出採用與原本製作時的畫面比例也就是的寬螢幕格式播出	aired with wide screen format	0	0	1	0
-年勁歌金曲優秀選第三回	best songs third	0	0	1	0
+话剧希特勒的肚子年	an act on hitler's stomach	0	0	1	0
 死神	bleach	0	0	1	0
 我	i	0	0	1	1
-心頭好	good heart	0	0	1	0
 娛樂亞洲	entertainment asia	0	0	1	0
 娛樂亞洲	asia entertainment	0	0	1	0
-大	big	0	0	1	1
+作品	work	0	0	1	1
+相思成灾	misfortune of love sickness	0	0	1	0
+相思成灾	love and other disasters	0	0	1	0
 黃寶欣	baoxin huang	0	0	1	0
-最佳改編劇本獎	best adapted screenplay	0	0	1	0
 最佳改編劇本獎	best adapted screenplay award	0	0	1	0
 港人治港澳人治澳特區有自己的基本法司法獨立行政長官经过选举后由中央人民政府任命	passed through and was approved by the central committee of the people's government	0	0	1	0
 可以写为	can be written as	0	0	1	0
@@ -6071,7 +5858,6 @@
 最佳動作設計獎林迪安	dion lam	0	0	1	0
 最佳動作設計獎林迪安	dian lin	0	0	1	0
 最佳動作設計獎林迪安	best action designer	0	0	1	0
-第二個家	second home	0	0	1	0
 三多食客有一次立生事業有成被媒體大幅報導那食客到三多購買外賣時亦不忘稱讚立生能幹令在場的阿好非常高興	made ahao there very happy	0	0	1	0
 三多食客有一次立生事業有成被媒體大幅報導那食客到三多購買外賣時亦不忘稱讚立生能幹令在場的阿好非常高興	at the scene ah ho is happy about it	0	0	1	0
 三多食客有一次立生事業有成被媒體大幅報導那食客到三多購買外賣時亦不忘稱讚立生能幹令在場的阿好非常高興	that customer praised lishen for working hard when ordered take out at san duo	0	0	1	0
@@ -6101,7 +5887,6 @@
 世界末日	doomsday	0	0	1	0
 身后	behind	0	0	1	0
 月日日	date	0	0	1	0
-月日日	day	0	0	1	0
 月日日	month	0	0	1	0
 苗栗縣泰安鄉	taian	0	0	1	0
 苗栗縣泰安鄉	miaoli county tai-an township	0	0	1	0
@@ -6153,19 +5938,14 @@
 芙蓉篇女僕軍團強襲電腦中樞系統的戰爭電腦中樞第百四十百四十六訓第巻第話全話	the war of system	0	0	1	0
 芙蓉篇女僕軍團強襲電腦中樞系統的戰爭電腦中樞第百四十百四十六訓第巻第話全話	the one handred and fortieth chapter ( volumn 17) topic 69-71( three topics in total)	0	0	1	0
 芙蓉篇女僕軍團強襲電腦中樞系統的戰爭電腦中樞第百四十百四十六訓第巻第話全話	computer middle cabinet	0	0	1	0
+六四鎮壓後中共領導層沉默一星期全國謠言滿天飛有說爆發內戰領導人身亡全國仍有示威	the leader was dead	0	0	1	0
 六四鎮壓後中共領導層沉默一星期全國謠言滿天飛有說爆發內戰領導人身亡全國仍有示威	some says an internal war broke out	0	0	1	0
 六四鎮壓後中共領導層沉默一星期全國謠言滿天飛有說爆發內戰領導人身亡全國仍有示威	and whole country had demonstrations	0	0	1	0
-六四鎮壓後中共領導層沉默一星期全國謠言滿天飛有說爆發內戰領導人身亡全國仍有示威	the country leaders are killed	0	0	1	0
-六四鎮壓後中共領導層沉默一星期全國謠言滿天飛有說爆發內戰領導人身亡全國仍有示威	and the country is still  protesting	0	0	1	0
-六四鎮壓後中共領導層沉默一星期全國謠言滿天飛有說爆發內戰領導人身亡全國仍有示威	the leader was dead	0	0	1	0
-六四鎮壓後中共領導層沉默一星期全國謠言滿天飛有說爆發內戰領導人身亡全國仍有示威	some say there is a civil war outbreak	0	0	1	0
 然而地方政府單位對此反應迥異上海市委书记江泽民召开万人基层党员干部大会要求认真学习四二六社論制止动乱北京也召开万人基层党员干部大会北京市委书记李锡铭批评学生搞文革	li ximing	0	0	1	0
 然而地方政府單位對此反應迥異上海市委书记江泽民召开万人基层党员干部大会要求认真学习四二六社論制止动乱北京也召开万人基层党员干部大会北京市委书记李锡铭批评学生搞文革	beijing secretary lee xi ming critised on the students' language revolution	0	0	1	0
 然而地方政府單位對此反應迥異上海市委书记江泽民召开万人基层党员干部大会要求认真学习四二六社論制止动乱北京也召开万人基层党员干部大会北京市委书记李锡铭批评学生搞文革	criticized the students to conduct cultural revolution	0	0	1	0
 然而地方政府單位對此反應迥異上海市委书记江泽民召开万人基层党员干部大会要求认真学习四二六社論制止动乱北京也召开万人基层党员干部大会北京市委书记李锡铭批评学生搞文革	bejing writer lee chang comments on student work	0	0	1	0
 然而地方政府單位對此反應迥異上海市委书记江泽民召开万人基层党员干部大会要求认真学习四二六社論制止动乱北京也召开万人基层党员干部大会北京市委书记李锡铭批评学生搞文革	beijing secretary municipal committee of the cpc	0	0	1	0
-鄧健泓	jianhong deng	0	0	1	0
-鄧健泓	zheng jianhong	0	0	1	0
 暮蟬悲鳴之時　第一話	when the cicada sings the sad song of dusk. chapter one	0	0	1	0
 自治州	autonomous prefecture	0	0	1	1
 傅里叶	trials	1	0	1	0
@@ -6192,6 +5972,8 @@
 電視獎項	awards of television	0	0	1	0
 拼什麼	spell out what	0	0	1	0
 金智娟	delphine chin	0	0	1	0
+中天娛樂台	ctitv	0	0	1	0
+中天娛樂台	cti entertainment	0	0	1	0
 漫畫版	comic section	0	0	1	0
 漫畫版	comic version	0	0	1	0
 二十八宿	twenty eight houses	0	0	1	0
@@ -6217,7 +5999,6 @@
 總決賽結果	finals results	0	0	1	0
 后续	continue	0	0	1	0
 礦泉水	mineral water	0	0	1	0
-商	commerce	0	0	1	1
 商	business	0	0	1	0
 誰會記得我	who would remember me	0	0	1	0
 誰會記得我	who will remember me	0	0	1	0
@@ -6251,7 +6032,6 @@
 休閒	rest idle	1	0	1	0
 快譯通英語辭典	instant-dict english dictionary	0	0	1	0
 張衛健	zhang weijian	0	0	1	0
-張衛健	dicky cheung	0	0	1	0
 小紅	xiao hong	0	0	1	0
 小紅	little red	0	0	1	0
 中国政府	chinese government	0	0	1	1
@@ -6261,10 +6041,6 @@
 輸卵管	fallopian tube	0	0	1	0
 革命文獻年至年歷史事件記錄報告與函電冊	reports and mails volume	0	0	1	0
 革命文獻年至年歷史事件記錄報告與函電冊	publications year to year historical events records	0	0	1	0
-守護者	gardian	1	0	1	0
-守護者	region	1	0	1	0
-守護者	guardian	1	0	1	0
-守護者	watchman	1	1	0	0
 露絲霍金女兒	lucy watkins daughter	0	0	1	0
 第十七回	round 17	0	0	1	0
 第十七回	chapter seventeen	0	0	1	0
@@ -6278,8 +6054,7 @@
 換換愛	changing love	0	0	1	0
 換換愛	change of love	0	0	1	0
 電視節目主持	television caster	0	0	1	0
-北京流行音樂典禮	beijing pop music ceremony	0	0	1	0
-北京流行音樂典禮	beijing popular music ceremony	0	0	1	0
+下元节十月十五	latern festival october 15th	0	0	1	0
 |播放檔次=星期六	broadcasting slot=saturday	0	0	1	0
 所有領域	all fields	0	0	1	0
 医学	medicine	0	0	1	1
@@ -6330,7 +6105,6 @@
 場次	session	0	0	1	0
 場次	round	0	0	1	0
 外界評價	external evaluation	0	0	1	0
-外界評價	outside evaluation	0	0	1	0
 大獎	prize	0	0	1	0
 台灣區最受歡迎歌手獎	the award of most popular singer in taiwan	0	0	1	0
 台北	taipei	0	0	1	1
@@ -6358,10 +6132,13 @@
 其他帶有貶損意義的單詞還有玻璃等在某些地區的方言中還把男同性戀者稱做飄飄在广东福建地区也有以结拜兄弟转化而来含有同性恋意味的契兄弟称呼由于契弟被污名化结拜兄弟中年长者称呼年幼者为契细佬	among blood brothers	0	0	1	0
 容嘉	specially invited	0	0	1	0
 容嘉	candice liu	0	0	1	0
-你不是好情人	you are not a good lover	0	0	1	0
-你不是好情人	you are not a good valentine	0	0	1	0
+朱永棠	yongtang zhu	0	0	1	0
+朱永棠	zhu yongtang	0	0	1	0
 太陽系探索時間線	timeline of solar system exploration	0	0	1	0
-故事中的現世主要圍繞空座町空座町為現在的重靈地	mainly focusing on karakura-street. karakura-street is now the land of spirits.	0	0	1	0
+中位數	central position number	1	0	1	0
+中位數	middle integer	1	1	0	0
+中位數	median	1	1	0	0
+中位數	diagnosis	1	0	1	0
 初登場第位日間最高順位第位週間最高順位第位初動張累積銷售量張	best result is 3rd in the week	0	0	1	0
 初登場第位日間最高順位第位週間最高順位第位初動張累積銷售量張	50646 in the beginning	0	0	1	0
 初登場第位日間最高順位第位週間最高順位第位初動張累積銷售量張	and 72062 in total	0	0	1	0
@@ -6370,7 +6147,6 @@
 东汉光武改制时置幽州刺史部于蓟县永元八年复为广阳郡驻所	it was restored to guang yang governor's mansion in yong yuan eighth year	0	0	1	0
 |時區名稱	time zone name	0	0	1	0
 朝鮮語	korean	0	0	1	0
-朝鮮語	korean language	0	0	1	0
 第二代	the second generation	0	0	1	0
 第二代	second generation	0	0	1	0
 透視	perspective	0	0	1	0
@@ -6381,7 +6157,6 @@
 岁	[  ] years old	0	0	1	0
 康乃馨舞動天使衛生棉	carnations waving angel sanitary napkin	0	0	1	0
 大阪府	osaka prefecture	0	0	1	0
-星綻黑放大睛艷日拋隱形眼鏡	one-day eye-enlarging contact con	0	0	1	0
 深海大監獄篇漫畫話動畫	impel down series comic episode anime	0	0	1	0
 動畫原創角色	original character in the animation	0	0	1	0
 舞原賢三	kenzo maihara	0	0	1	0
@@ -6438,13 +6213,11 @@
 依奈化妝品內地	elne beauty (mainland china)	0	0	1	0
 依奈化妝品內地	elne cosmetic (mainland china)	0	0	1	0
 年後貝爾	after years bell	0	0	1	0
-年後貝爾	years later belphegor	0	0	1	0
 蘇慧倫	huilun su	0	0	1	0
 蘇慧倫	tarcy su	0	0	1	0
 年月公開	year mouth publish	0	0	1	0
 危險的念頭	thought of danger	0	0	1	0
 危險的念頭	dangerous thought	0	0	1	0
-危險的念頭	dangerous idea	0	0	1	0
 一般戒指	general ring	0	0	1	0
 一般戒指	regular ring	0	0	1	0
 诸葛亮父亲诸葛珪去世	father of zhuge liang	0	0	1	0
@@ -6463,13 +6236,11 @@
 妹妹	younger sister	0	0	1	1
 地铁	train	0	0	1	0
 中国数字时代	china digital age	0	0	1	0
-金牌冰人	matchmaker	0	0	1	0
 金牌冰人	better halves	0	0	1	0
 炮兵团	an artillery regiment	0	0	1	0
 炮兵团	artillery regiment	0	0	1	0
 出演平野綾茅原實里後藤邑子	performance aya hirano minori chihara yūko gotō	0	0	1	0
 我們的主題曲	our theme song	0	0	1	0
-广州	guangzhou	0	0	1	1
 三里屯	sanlitun	0	0	1	0
 忍住	tolerate	0	0	1	0
 忍住	refrain	0	0	1	0
@@ -6538,10 +6309,15 @@
 有誰共鳴	who resonance	0	0	1	0
 友谊历久一样浓	friendship strengthens with time	0	0	1	0
 個人作品	personal works	0	0	1	0
-個人作品	individual works	0	0	1	0
-林依晨	lin yi chen	0	0	1	0
-林依晨	yichen lin	0	0	1	0
-林依晨	ariel lin	0	0	1	0
+俄语	german	0	0	1	0
+俄语	chosean	0	0	1	0
+俄语	spanish	0	0	1	0
+俄语	japanese	0	0	1	0
+俄语	french	0	0	1	0
+俄语	english	0	0	1	0
+俄语	russian	0	0	1	1
+俄语	arabic	0	0	1	0
+俄语	russians words.democratic federation-chinese	0	0	1	0
 傷心	hurted heart	0	0	1	0
 傷心	heartbroken	0	0	1	0
 傷心	sad	0	0	1	0
@@ -6570,9 +6346,6 @@
 人物	character	0	0	1	1
 人物	human	0	0	1	0
 黑白	black and white	0	0	1	1
-方大同專頁	khalil fong's page	0	0	1	0
-方大同專頁	khalil fong 's page	0	0	1	0
-方大同專頁	khalil fong website	0	0	1	0
 第十五回	chapter five	0	0	1	0
 第十五回	round fifteen	0	0	1	0
 第十五回	episode 15	0	0	1	0
@@ -6580,31 +6353,34 @@
 實現	accomplish	0	0	1	0
 實現	achieve	0	0	1	0
 各話標題一覽	overview of phrases	0	0	1	0
-反對者	oppsition	0	0	1	0
+腹	fossils	1	0	1	0
+腹	stomach	1	1	0	1
+腹	abdomen	1	1	0	1
+腹	resources	1	0	1	0
+腹	belly	1	1	0	1
 同月粵漢鐵路通車不久桂軍事當局李宗仁接受中央新任命桂局大定	li zong ren	0	0	1	0
 同月粵漢鐵路通車不久桂軍事當局李宗仁接受中央新任命桂局大定	zong ren accepts decision of central committee	0	0	1	0
 音樂先鋒榜年度總選	total election of the year musical pioneer	0	0	1	0
 音樂先鋒榜年度總選	annual music pioneer final selection	0	0	1	0
-方位	directions	0	0	1	0
-方位	position	0	0	1	0
+灭亡	came to an end	0	0	1	0
+灭亡	catastrophe	0	0	1	0
 剧场版昭和	theatrical version: showa	0	0	1	0
 剧场版昭和	theater story showa	0	0	1	0
-剧场版昭和	movie showa	0	0	1	0
 最佳進步獎香港電台	the best progress award [radio television hong kong]	0	0	1	0
 最佳進步獎香港電台	most improved award rthk	0	0	1	0
 最佳進步獎香港電台	award for most improved radio station in hong kong	0	0	1	0
 名为	named	0	0	1	0
 石棺	restore	1	0	1	0
 石棺	sarcophagus	1	1	0	0
-年月日苏联和越南签订苏越友好合作条约支持越南在印度支那半岛的扩张同年月日越南人民军向柬埔寨发动进攻	on december 25th of the same year	0	0	1	0
-年月日苏联和越南签订苏越友好合作条约支持越南在印度支那半岛的扩张同年月日越南人民军向柬埔寨发动进攻	vietnam people's army started the attack to cambodia	0	0	1	0
+本城狂死郎經營的男公關俱樂部	host club run by honjou kyoushirou	0	0	1	0
+本城狂死郎經營的男公關俱樂部	gentlemen's club operated by bencheng kuangsilang	0	0	1	0
+本城狂死郎經營的男公關俱樂部	male public relations club run by local	0	0	1	0
 名字的由來是貴婦犬	the name comes from the poodle.	0	0	1	0
 年月日年月日星期一至五目標	the target from monday to friday	0	0	1	0
 年月日年月日星期一至五目標	from (yy.mm.dd) to (yy.mm.dd)	0	0	1	0
-如果聽到這首歌	if listen to this song	0	0	1	0
-如果聽到這首歌	if hearing this song	0	0	1	0
+西元	gregorian calendar	0	0	1	0
+西元	anno domini	0	0	1	0
 第卷年月日第話	the volume year month day the chapter	0	0	1	0
-電影原聲大碟	movie original sound track	0	0	1	0
 齊豫唱	by qi yu	0	0	1	0
 中國互聯網維護日	china internet maintenance day	0	0	1	0
 中國互聯網維護日	chinese internet maintaining day	0	0	1	0
@@ -6637,7 +6413,6 @@
 水文	hydrology	0	0	1	1
 查無此人	no such person	0	0	1	0
 查無此人	unknown person	0	0	1	0
-大學生了沒	university	0	0	1	0
 大學生了沒	college student or not	0	0	1	0
 大學生了沒	college talk	0	0	1	0
 超導量子干涉儀	picture	1	0	1	0
@@ -6662,7 +6437,6 @@
 張鈞甯郭富城	fucheng guo	0	0	1	0
 張鈞甯郭富城	junmi zhang fucheng guo	0	0	1	0
 張鈞甯郭富城	junning zhang	0	0	1	0
-失憶諒解備忘錄	memorandum	0	0	1	0
 緊急導覽新聞	emergency view news	0	0	1	0
 緊急導覽新聞	breaking news	0	0	1	0
 林憶蓮	sandy lam	0	0	1	0
@@ -6676,7 +6450,6 @@
 字符	character	0	0	1	1
 音樂創作	music creation	0	0	1	0
 孫中山在改组国民党的同時实行聯俄容共聘請蘇俄軍事及政治顧問力排眾議允许共产党员以个人身份加入中國國民黨	power exclude public discuss allow together produce party as individual human body status add into middle country country people party	0	0	1	0
-孫中山在改组国民党的同時实行聯俄容共聘請蘇俄軍事及政治顧問力排眾議允许共产党员以个人身份加入中國國民黨	communist as individual joined chinese nationalist party	0	0	1	0
 南十字龙	south ten dragon	1	0	1	0
 南十字龙	staurikosaurus	1	1	0	0
 南十字龙	axis	1	0	1	0
@@ -6697,12 +6470,10 @@
 本集評審黃國倫李　泉陳潔靈鍾鎮濤倫永亮	li quan	0	0	1	0
 本集評審黃國倫李　泉陳潔靈鍾鎮濤倫永亮	zhentao zhong	0	0	1	0
 本集評審黃國倫李　泉陳潔靈鍾鎮濤倫永亮	chen jieling	0	0	1	0
-打得火熱	closer than ever	0	0	1	0
 黎耀祥	wayne lai	0	0	1	0
 衛　詩	shi	0	0	1	0
 衛　詩	wei	0	0	1	0
 衛　詩	jill	0	0	1	0
-新歌	new songs	0	0	1	0
 新歌	new song	0	0	1	0
 得獎經歷	honors	0	0	1	0
 請開窗	please open the windows	0	0	1	0
@@ -6713,7 +6484,6 @@
 溶液	soluton	1	0	1	0
 溶液	liquid	1	0	1	0
 溶液	solution	1	1	0	1
-色備	role note	0	0	1	0
 於	linked	0	0	1	0
 美国的广播有两种制式分别是调频和调幅美国最常见的两类电台分别是谈话台和音乐台其中音乐台所占比重很大分类也十分细致	the music channel has a great part	0	0	1	0
 美国的广播有两种制式分别是调频和调幅美国最常见的两类电台分别是谈话台和音乐台其中音乐台所占比重很大分类也十分细致	music channel accounts for a great proportion and has detailed categories	0	0	1	0
@@ -6749,13 +6519,9 @@
 研究狀況	condition of research	0	0	1	0
 研究狀況	research status	0	0	1	0
 研究狀況	study condition	0	0	1	0
-朝鮮實行中央統一集中的教育管理體制國家負責投資和管理各級各類教育部門中央教育行政部門為教育省下設政治思想教育局師範教育局普通教育指導局專科學校指導局大學指導局廠辦大學指導局金日成綜合大學指導局計畫局招生局行政組織局財政後勤局教育方法局科學研究指導局對外教育局體育局和經理處	and management office	0	0	1	0
-朝鮮實行中央統一集中的教育管理體制國家負責投資和管理各級各類教育部門中央教育行政部門為教育省下設政治思想教育局師範教育局普通教育指導局專科學校指導局大學指導局廠辦大學指導局金日成綜合大學指導局計畫局招生局行政組織局財政後勤局教育方法局科學研究指導局對外教育局體育局和經理處	research guiding bureau	0	0	1	0
-朝鮮實行中央統一集中的教育管理體制國家負責投資和管理各級各類教育部門中央教育行政部門為教育省下設政治思想教育局師範教育局普通教育指導局專科學校指導局大學指導局廠辦大學指導局金日成綜合大學指導局計畫局招生局行政組織局財政後勤局教育方法局科學研究指導局對外教育局體育局和經理處	sport administration and managing department	0	0	1	0
 朝鮮實行中央統一集中的教育管理體制國家負責投資和管理各級各類教育部門中央教育行政部門為教育省下設政治思想教育局師範教育局普通教育指導局專科學校指導局大學指導局廠辦大學指導局金日成綜合大學指導局計畫局招生局行政組織局財政後勤局教育方法局科學研究指導局對外教育局體育局和經理處	foreign education bureau	0	0	1	0
-朝鮮實行中央統一集中的教育管理體制國家負責投資和管理各級各類教育部門中央教育行政部門為教育省下設政治思想教育局師範教育局普通教育指導局專科學校指導局大學指導局廠辦大學指導局金日成綜合大學指導局計畫局招生局行政組織局財政後勤局教育方法局科學研究指導局對外教育局體育局和經理處	bureau of external education	0	0	1	0
-朝鮮實行中央統一集中的教育管理體制國家負責投資和管理各級各類教育部門中央教育行政部門為教育省下設政治思想教育局師範教育局普通教育指導局專科學校指導局大學指導局廠辦大學指導局金日成綜合大學指導局計畫局招生局行政組織局財政後勤局教育方法局科學研究指導局對外教育局體育局和經理處	bureau of sports	0	0	1	0
-朝鮮實行中央統一集中的教育管理體制國家負責投資和管理各級各類教育部門中央教育行政部門為教育省下設政治思想教育局師範教育局普通教育指導局專科學校指導局大學指導局廠辦大學指導局金日成綜合大學指導局計畫局招生局行政組織局財政後勤局教育方法局科學研究指導局對外教育局體育局和經理處	bureau of guiding research	0	0	1	0
+朝鮮實行中央統一集中的教育管理體制國家負責投資和管理各級各類教育部門中央教育行政部門為教育省下設政治思想教育局師範教育局普通教育指導局專科學校指導局大學指導局廠辦大學指導局金日成綜合大學指導局計畫局招生局行政組織局財政後勤局教育方法局科學研究指導局對外教育局體育局和經理處	sport administration and managing department	0	0	1	0
+朝鮮實行中央統一集中的教育管理體制國家負責投資和管理各級各類教育部門中央教育行政部門為教育省下設政治思想教育局師範教育局普通教育指導局專科學校指導局大學指導局廠辦大學指導局金日成綜合大學指導局計畫局招生局行政組織局財政後勤局教育方法局科學研究指導局對外教育局體育局和經理處	research guiding bureau	0	0	1	0
 莫斯科	moscow	0	0	1	1
 遊園驚夢	peony pavilion	0	0	1	0
 村民	villager	0	0	1	1
@@ -6766,8 +6532,6 @@
 野草	weed	1	1	0	0
 通道轉乘	tunnel transfer	0	0	1	0
 通道轉乘	interchange channel	0	0	1	0
-通道轉乘	channel	0	0	1	0
-通道轉乘	exchange	0	0	1	0
 謝爾茲鎮	town of schultz	0	0	1	0
 福爾摩沙文教基金會董事長	formosa foundation chairman of the board	0	0	1	0
 報導	report	0	0	1	0
@@ -6785,8 +6549,8 @@
 醉心龍虎榜	charming winners list	0	0	1	0
 馬貫東	ma guandong	0	0	1	0
 馬貫東	mark ma	0	0	1	0
-路徑圖	route map	0	0	1	0
 路徑圖	road map	0	0	1	0
+路徑圖	route map	0	0	1	0
 路徑圖	path diagram	0	0	1	0
 熊焱原北京大學法律系研究生	yan xiong was ever a graduate student of the law school in peking university.	0	0	1	0
 |中央銀行	central bank	0	0	1	0
@@ -6849,21 +6613,17 @@
 史卡魯	skull	0	0	1	0
 最佳男主角獎	best actor award	0	0	1	0
 天王星	uranus	0	0	1	1
-真的怕了	really scare	0	0	1	0
-如	such as	0	0	1	1
-如	for example	0	0	1	0
+大都會	metropolitan	0	0	1	0
+以色列	israel	0	0	1	1
 劉玉翠	lau yuk chui	0	0	1	0
 環球唱片	universal music group	0	0	1	0
 音樂	music	0	0	1	0
-對蛋之蛋白質或疫苗內的其他成分過敏者	who are allergic to	0	0	1	0
-葡萄牙	portugal	0	0	1	1
+結束空島的冒險後草帽一行人在海上遇到一艘既沒有帆也沒有旗幟的海賊船還因為少了指揮一切的船長和航海士讓船員變的沒有組織性整艘船並在草帽一行人面前遭到海猴子引起的巨浪吞噬	the whole ship and the straw hat group are facing a big wave caused by the sea monkeys	0	0	1	0
 最高	the highest	0	0	1	0
 最高	highest	0	0	1	1
-有位網友	netizen	0	0	1	0
 有位網友	have an interent friend	0	0	1	0
 有位網友	an internet friend	0	0	1	0
 東正教	east upright religion	0	0	1	0
-東正教	eastern orthodox church	0	0	1	0
 代言視康日拋隱形眼鏡系列	represent focus daily disposable contacts series	0	0	1	0
 佐藤寬子	zuo teng kuan zi	0	0	1	0
 鄭健樂蕭振邦震波後調往斧山消防局再調往大赤沙消防局曾误会卓柏宇与高惠盈有私情	fire department. misunderstood that zhuo baiyu had an affair with gao huiying	0	0	1	0
@@ -6878,9 +6638,9 @@
 地	land/area	0	0	1	0
 地	session	0	0	1	0
 地	venue	0	0	1	0
-薩波之父	sabat's father	0	0	1	0
-薩波之父	saab's father	0	0	1	0
 薩波之父	long bo's father	0	0	1	0
+薩波之父	saab's father	0	0	1	0
+薩波之父	sabat's father	0	0	1	0
 麥當勞慈善基金世界兒童日愛心大使	"mcdonald charities" love ambassador of world children's day	0	0	1	0
 |圖片尺寸	image size	0	0	1	0
 |圖片尺寸	picture size	0	0	1	0
@@ -6891,7 +6651,6 @@
 鰭龍超目	sauropterygia	1	1	0	0
 鰭龍超目	improvements	1	0	1	0
 鰭龍超目	improvement	1	0	1	0
-深愛	deeply in love	0	0	1	0
 深愛	deep love	0	0	1	0
 天人あまんと武力侵犯地球而爆發持續二十年的戰爭坂田銀時桂小太郎坂本辰馬高杉晉助都曾參與過	sakamoto tatsuma	0	0	1	0
 天人あまんと武力侵犯地球而爆發持續二十年的戰爭坂田銀時桂小太郎坂本辰馬高杉晉助都曾參與過	and takasugi shinsaku all had attended	0	0	1	0
@@ -6903,7 +6662,6 @@
 票數	count of votes	0	0	1	0
 票數	ballot	0	0	1	0
 票數	ticket counts	0	0	1	0
-美軍雖於世紀到今天經歷過一戰二戰韓戰越戰科索沃戰争阿富汗战争和伊拉克戰争等大小戰争多次參與聯合國維和行動如在海灣戰争中將入侵科威特的伊拉克軍隊趕出科威特但美軍因為這些戰争維和行動陣亡的士兵人數加起來的總和不足萬人而美國本土除外幾乎没幾個美國平民在年以來因戰争原因死亡可見美軍對内的保護和對外的軍事實力	visible to see the u.s. military's internal protection and its external military strength	0	0	1	0
 美軍雖於世紀到今天經歷過一戰二戰韓戰越戰科索沃戰争阿富汗战争和伊拉克戰争等大小戰争多次參與聯合國維和行動如在海灣戰争中將入侵科威特的伊拉克軍隊趕出科威特但美軍因為這些戰争維和行動陣亡的士兵人數加起來的總和不足萬人而美國本土除外幾乎没幾個美國平民在年以來因戰争原因死亡可見美軍對内的保護和對外的軍事實力	it indicates the us army's domestic protection and external military strength	0	0	1	0
 港台最受欢迎组合奖	hong kong and taiwan's most popular combination awards	0	0	1	0
 註記	notes	0	0	1	0
@@ -6948,7 +6706,6 @@
 地图	map	0	0	1	1
 易	easy	0	0	1	1
 你是我一生中最大的骄傲	you are my biggest pride in my life	0	0	1	0
-你是我一生中最大的骄傲	you are the biggest pride of my life	0	0	1	0
 第二十七屆十大中文金曲頒獎典禮	the twenty-seventh awarding ceremony of 10 topest chinese songs	0	0	1	0
 馬利歐	mario	0	0	1	0
 第集嘉賓	number episode guests	0	0	1	0
@@ -6957,7 +6714,6 @@
 國土安全部	national security bureau	0	0	1	0
 任達華	simon yam	0	0	1	0
 電影版	movie version	0	0	1	0
-電影版	theater edition	0	0	1	0
 電影版	the film version	0	0	1	0
 母親	mother	0	0	1	0
 雪碧榜	sprite list	0	0	1	0
@@ -6977,8 +6733,8 @@
 茜草科	rubiaceae	1	1	0	0
 鍾欣桐	gillian chung	0	0	1	0
 鍾欣桐	xintong zhong	0	0	1	0
-灭亡	came to an end	0	0	1	0
-灭亡	catastrophe	0	0	1	0
+方位	directions	0	0	1	0
+方位	position	0	0	1	0
 摩登新人類	modern new human	0	0	1	0
 陳煒恆著	author chen weiheng	0	0	1	0
 台灣站場台北小巨蛋台北	taipei arena / taipei super dome	0	0	1	0
@@ -6987,7 +6743,6 @@
 年愛因斯坦曾經探訪住在美國加州的查理卓别林	united states	0	0	1	0
 年愛因斯坦曾經探訪住在美國加州的查理卓别林	visited charlie chaplin who lived in california	0	0	1	0
 香港電台十大中文金曲頒獎禮	hong kong radio top ten chinese golden songs award ceremony	0	0	1	0
-香港電台十大中文金曲頒獎禮	rthk top ten chinese gold songs awards presentation show	0	0	1	0
 罷課潮爆發	skipping school is fast becoming a trend	0	0	1	0
 寫真書	photobook	0	0	1	0
 公元四五世纪时的晋朝松江即吴淞江俗称苏州河和滨海一带的居民多以捕鱼为生他们创造了一种竹编的捕鱼工具叫扈又因为当时江流入海处称渎因此松江下游一带被称为扈渎以后又改扈为滬	hu	0	0	1	0
@@ -7022,7 +6777,7 @@
 张惠妹意识专辑	chang hui-mei ideology album	0	0	1	0
 美麗革命	beauty revolution	0	0	1	0
 美麗革命	beautiful revolution	0	0	1	0
-大都會	metropolitan	0	0	1	0
+真的怕了	really scare	0	0	1	0
 嶺南明珠體育館	lingnan mingzhu stadium	0	0	1	0
 淘汰	elimination	0	0	1	0
 淘汰	die out	0	0	1	1
@@ -7039,9 +6794,6 @@
 日文	japanese	0	0	1	1
 劇場版動畫	theatrical animation	0	0	1	0
 铁路	railroad	0	0	1	1
-大紅蓮	the great padma	0	0	1	0
-大紅蓮	great red lotus	0	0	1	0
-大紅蓮	red lotus	0	0	1	0
 季军	third place	0	0	1	1
 紅	red	0	0	1	0
 年月日下卷	year month date second part	0	0	1	0
