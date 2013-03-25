@@ -42,7 +42,7 @@
 
 \begin{abstract}
 We present a large scale study of the languages spoken by bilingual workers on Mechanical Turk (MTurk).  
-We establish a  methodology for determining the language skills of anonymous crowd workers that is more robust than simple surveying.  We validate workers' self-reported language skill claims by measuring their ability to correctly translate words, and by geolocating workers to see if they reside in countries where the languages are likely to be spoken. Rather than posting a one-off survey, we posted paid tasks consisting of 1,000 assignments to translate a total of 10,000 words in each of 119 languages.  Our study ran for several weeks, and was highly visible on the MTurk crowdsourcing platform, increasing the chances that bilinguals workers would complete it.  Our study was useful both to create bilingual dictionaries and to act as census of the bilingual speakers on MTurk.  We use this data to recommend languages with the largest speaker populations as good candidates for other researchers who want to  develop crowdsourced, multilingual technologies.
+We establish a  methodology for determining the language skills of anonymous crowd workers that is more robust than simple surveying.  We validate workers' self-reported language skill claims by measuring their ability to correctly translate words, and by geolocating workers to see if they reside in countries where the languages are likely to be spoken. Rather than posting a one-off survey, we posted paid tasks consisting of 1,000 assignments to translate a total of 10,000 words in each of 119 languages.  Our study ran for several weeks, and was highly visible on the MTurk crowdsourcing platform, increasing the chances that bilingual workers would complete it.  Our study was useful both to create bilingual dictionaries and to act as census of the bilingual speakers on MTurk.  We use this data to recommend languages with the largest speaker populations as good candidates for other researchers who want to  develop crowdsourced, multilingual technologies.
 
 \end{abstract}
 
@@ -361,12 +361,6 @@ Figure \ref{ass-scatter} shows the volume of HITs completed and the number of wo
 The primary challenge of using crowdsourced language data is the widely variable quality of the collected annotations. While it is possible to strengthen the signal by collecting redundant labels, this strategy becomes difficult in practice for more complex data annotation. In the case of translation, low quality translations may have a high level of agreement (for example, when many workers use google translate) while high quality, even professional translations, can be expected to vary significantly.
  
 In order to address the quality of the translations we received on the dictionary task, we constructed a pipeline in which the output of the translation HIT was reviewed by humans in a second evaluation HIT, described above.  We quantified the quality of each translation assignment based on the output of the evaluation HIT as follows: \\
-\textbf{Version 1: In English, so people know what we did:}
-\begin{align}	
-	Quality = \frac{\# \text{correct controls}}{\# \text{controls}}
-\end{align}	
-where a control is correct if it matches or is judged to be synonymous with the gold standard translation during the second pass HIT. \\
-\textbf{Version 2 : Mathified, to give the impression of rigor and intellect:}
 \begin{align}	
 	Quality(assign_i) = \frac{1}{k}\sum\limits_{j=1}^{k_i}\mathbf{1}(t_{ij} \in Syns(a_j))
 \end{align}	
@@ -374,9 +368,8 @@ where $k_i$ is the number of controls in the assignment $i$, $t_j$ is the Turker
 
 Most assignments had two known words embedded, so most assignments had scores of either 0, 0.5, or 1. 
 
-Since by-assignment quality scores are noisy and sensitive to small numbers of highly active Turkers, we report quality scores as the average per-turker quality, where a Turker's quality is just the average quality of all the assignments that the Turker completed.
+Since by-assignment quality scores are noisy and sensitive to small numbers of highly active Turkers, we report quality scores as the average per-turker quality, where a Turker's quality is just the average quality of all the assignments that the Turker completed:
 
-\textbf{Or in otherwords, because $\sum$ in latex is so lovely:}
 \begin{align}	
 	Quality(turker_i) = \frac{\sum_{a_j \in Assigns(i)}Quality(a_j)}{\mid Assigns(i) \mid}
 \end{align}	

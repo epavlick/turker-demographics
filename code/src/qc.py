@@ -329,6 +329,36 @@ def quality_by_turker(fname, path):
 		out.write('%s\t%.04f\n'%(t, all_turkers[t]['num']/all_turkers[t]['denom'],))
 	out.close()
 
+def turker_qual_map():
+        qual_data = {}
+        for line in open('%s/byturker.voc.quality.new'%OUTPUT_DIR).readlines()[1:]:
+                assign, qual = line.split()
+                if(assign not in qual_data):
+                        qual_data[assign] = float(qual)
+        return qual_data
+
+#get the average quality per turker and write to a file
+def quality_by_lang(fname, path):
+	out = open(fname, 'w')
+        all_langs= dict()
+        tmap = turker_map()
+        quals = turker_qual_map()
+	for nlang in ['nolang', 'onelang', 'multlang']:
+	        for turker in csv.DictReader('%s/byturker.voc.%s'%(OUTPUT_DIR,nlang,)):
+			worker = tmap[assign]
+                	q = quals[assign]
+  			if(assign == '' or assign not in tmap):
+                	        continue
+			if q == 'N/A':
+				continue
+			if not(worker in all_turkers):
+                	        all_turkers[worker] = {'num':0, 'denom':0}
+                	all_turkers[worker]['num'] += float(q)
+                	all_turkers[worker]['denom'] += 1
+	for t in all_turkers:
+		out.write('%s\t%.04f\n'%(t, all_turkers[t]['num']/all_turkers[t]['denom'],))
+	out.close()
+
 #get the average quality per turker and write to a file
 def googmatch_by_turker(fname, path):
 	out = open(fname, 'w')

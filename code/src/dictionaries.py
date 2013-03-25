@@ -11,9 +11,9 @@ import itertools
 from scipy import stats
 import compile_data_from_raw as dat
 
-RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11/'
-DICT_PATH = '/home/steven/Documents/Ellie/Research/demographics/code.clean/translations.out'
-CLPAIRS = '/home/steven/Documents/Ellie/Research/demographics/data/cl-pairs.csv'
+RAW_DIR = '../..'
+DICT_PATH = './translations.out'
+CLPAIRS = './cl-pairs.csv'
 OUTPUT_DIR = 'output'
 DICT_DIR = 'dictionaries'
 
@@ -549,8 +549,6 @@ if __name__ == '__main__':
         parser.add_argument('--metastats', action='store_true', default=False, help='Overall in/out of region stats')
         
 	args = parser.parse_args()
-
-	print args
 
 	#check if raw translation files have alread been processed. if not, process them	
 	if not(os.path.exists(DICT_PATH)):

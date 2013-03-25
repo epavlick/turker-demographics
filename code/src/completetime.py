@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import compile_data_from_raw as dat
 
 OUTPUT_DIR = 'output'
-RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11/'
+RAW_DIR = '../../'
 
 def get_language_dicts(path, filter_list=None):
 	all_dicts = dict()
