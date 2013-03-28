@@ -247,7 +247,7 @@ We counted all translations that exactly matched the gold standard translation a
 Turkers were shown a pair of English words, one of which was a Turker's translation of the foreign word used for quality control, and the other of which was the gold-standard translation of the foreign word. Evaluators were asked whether the two words had the same meaning, and chose between three answers: `Yes', `No', or `Related but not synonymous.'  Examples of meaning equivalent pairs include: $<${\it petroglyphs, rock paintings}$>$, $<${\it demo, show}$>$ and  $<${\it loam, loam: soil rich in decaying matter}$>$.  Non-meaning equivalents included: $<${\it assorted, minutes}$>$, and $<${\it major,} URL of image$>$.  Related items were things like $<${\it sky, clouds}$>$. Misspellings like $<${\it lactation, lactiation} $>$ were judged to have same meaning, and were marked as misspelled.   3 separate Turkers judged each pair, allowing majority votes for difficult cases. 
 
 
-We checked Turkers who were working on this task by embedding pairs word which were either known to be synonyms (drawn from WordNet) or  unrelated (randomly chosen from a corpus). 
+We checked Turkers who were working on this task by embedding pairs of words which were either known to be synonyms (drawn from WordNet) or  unrelated (randomly chosen from a corpus). 
 %We drew known synonyms from WordNet, and non-synonyms by pairing random words from a corpus of English (including them after they were determined to be unrelated according to WordNet).
 Automating approval/rejections for the second-pass evaluation allowed the whole pipeline to be run automatically.  Caching judgments meant that we ultimately needed only 
 20,955 synonym tasks to judge all of the submitted translations (a total of 55,880 unique non-matching word pairs).  These were completed by an additional 1,006 workers.  Each of these assignments included 10 word pairs and paid \$0.10.
@@ -345,7 +345,7 @@ Other questions:
 
 
 
-Figure \ref{ass-scatter} shows the volume of HITs completed and the number of workers participating for each language. While the bulk (22\%) of bilingual Turkers report English as their native language (see figure \ref{lang-pie}), Mechanical Turk's capacity to support the Indian languages is apparent. Hindi, Tamil, and Malayalam are especially well represented in terms of number of active translators, and Urdu, Telugu, and Macedonian are particularly productive in terms of number of assignments completed. %As shown in figure \ref{langgeo-bar}, 11 of the top 25 languages, in terms of number of assignments submitted, were Indian languages, and the assignments for 15 of the top 25 were completed mostly or entirely by Turkers located in India. 
+Figure \ref{ass-scatter} shows the volume of HITs completed and the number of workers participating for each language. \textbf{While the bulk (22\%) of bilingual Turkers report English as their native language (see figure \ref{lang-pie}), Mechanical Turk's capacity to support the Indian languages is apparent. Hindi, Tamil, and Malayalam are especially well represented in terms of number of active translators, and Urdu, Telugu, and Macedonian are particularly productive in terms of number of assignments completed.} %As shown in figure \ref{langgeo-bar}, 11 of the top 25 languages, in terms of number of assignments submitted, were Indian languages, and the assignments for 15 of the top 25 were completed mostly or entirely by Turkers located in India. 
 
 %%%%%%%%%%%%%%% LOCATION BAR %%%%%%%%%%%
 %\begin{figure*}[h]
@@ -358,28 +358,30 @@ Figure \ref{ass-scatter} shows the volume of HITs completed and the number of wo
 
 
 \section{Measuring Data Quality}
-The primary challenge of using crowdsourced language data is the widely variable quality of the collected annotations. While it is possible to strengthen the signal by collecting redundant labels, this strategy becomes difficult in practice for more complex data annotation. In the case of translation, low quality translations may have a high level of agreement (for example, when many workers use google translate) while high quality, even professional translations, can be expected to vary significantly.
- 
-In order to address the quality of the translations we received on the dictionary task, we constructed a pipeline in which the output of the translation HIT was reviewed by humans in a second evaluation HIT, described above.  We quantified the quality of each translation assignment based on the output of the evaluation HIT as follows: \\
+%The primary challenge of using crowdsourced language data is the widely variable quality of the collected annotations. While it is possible to strengthen the signal by collecting redundant labels, this strategy becomes difficult in practice for more complex data annotation. In the case of translation, low quality translations may have a high level of agreement (for example, when many workers use google translate) while high quality, even professional translations, can be expected to vary significantly.
+
+%In order to perform a rigorous study of translation quality, we quantify the translation quality of each Turker using our designed an internal method for quality control.  In order to address the quality of the translations we received on the dictionary task, we constructed a pipeline in which the output of the translation HIT was reviewed by humans in a second evaluation HIT, described above.  
+We quantified the quality of each translation assignment based on the output of the evaluation HIT as follows: \\
+
 \begin{align}	
-	Quality(assign_i) = \frac{1}{k}\sum\limits_{j=1}^{k_i}\mathbf{1}(t_{ij} \in Syns(a_j))
+	\text{Quality}(a_i) = \frac{1}{k}\sum\limits_{j=1}^{k_i}\mathbf{1}(tr_{ij} \in \texttt{syns[$g_j$]})
 \end{align}	
-where $k_i$ is the number of controls in the assignment $i$, $t_j$ is the Turker's provided translation of control word $j$ in assignment $i$, $a_j$ is the gold standard translation of control word $j$, $Syns(a_j)$ is the set of words judged to be synonymous with $a_j$ during the second pass HIT, and $\mathbf{1}(x)$ is 1 when $x$ is true. 
+where $a_i$ is the $i^{th}$ assignment, $k_i$ is the number of controls in $a_i$, $tr_j$ is the Turker's provided translation of control word $j$ in assignment $i$, $g_j$ is the gold standard translation of control word $j$, \texttt{syns[$g_j$]} is the set of words judged to be synonymous with $g_j$ during the second pass HIT, and $\mathbf{1}(x)$ is 1 when $x$ is true. 
 
 Most assignments had two known words embedded, so most assignments had scores of either 0, 0.5, or 1. 
 
 Since by-assignment quality scores are noisy and sensitive to small numbers of highly active Turkers, we report quality scores as the average per-turker quality, where a Turker's quality is just the average quality of all the assignments that the Turker completed:
 
 \begin{align}	
-	Quality(turker_i) = \frac{\sum_{a_j \in Assigns(i)}Quality(a_j)}{\mid Assigns(i) \mid}
+	\text{Quality}(t_i) = \frac{\sum_{a_j \in \texttt{assigns[$i$]}\text{Quality}(a_j)}}{\mid \texttt{assigns[$i$]} \mid}
 \end{align}	
-where $Assigns(i)$ is the assignments completed by turker $i$, and $Quality(a)$ is as above.
+where $t_i$ is the $i^{th}$ turker, \texttt{assigns[$i$]} is the assignments completed by turker $i$, and Quality($a$) is as above.
 	
 Quality for a language is then given by
 \begin{align}	
-	Quality(lang_i) = \frac{\sum_{t_j \in Turkers(i)}Quality(t_j)}{\mid Turkers(i) \mid}
+	\text{Quality}(l_i) = \frac{\sum_{t_j \in \texttt{turkers[$i$]}\text{Quality}(t_j)}}{\mid \texttt{turkers[$i$]} \mid}
 \end{align}	
-where $Turkers(i)$ is the set of turkers who completed assignments for language $i$, and $Quality(t)$ is as above.
+where $l_i$ is the ith language, \texttt{turkers[$i$]} is the set of turkers who completed assignments for language $i$, and Quality($t$) is as above.
 
 
 
