@@ -6,7 +6,8 @@ LANG_PATH = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-
 
 if __name__ == '__main__':
 	lmap = figures.reverse_lang_map(LANG_PATH)
-	all_classes = { '>500k':[], '100k-500k':[], '50k-100k':[], '20k-50k':[], '<20k':[]}
+#	all_classes = { '>500k':[], '100k-500k':[], '50k-100k':[], '10k-50k':[], '<10k':[]}
+	all_classes = { '>500k':[], '100k-500k':[], '10k-100k':[], '<10k':[]}
 	our_langs = set([l.strip() for l in open('alllangs').readlines()])
 	for line in csv.DictReader(open('wikicounts'), delimiter='\t'):
 		lang = line['Wiki']
@@ -16,13 +17,13 @@ if __name__ == '__main__':
 				all_classes['>500k'].append(lang)
 			elif num > 100000:		
 				all_classes['100k-500k'].append(lang)
-			elif num > 50000:		
-				all_classes['50k-100k'].append(lang)
-			elif num > 17050:		
+#			elif num > 50000:		
+#				all_classes['50k-100k'].append(lang)
+			elif num > 10000:		
 				print '%s_%d'%(lang,num)
-				all_classes['20k-50k'].append(lang)
+				all_classes['10k-100k'].append(lang)
 			else:		
-				all_classes['<20k'].append(lang)
+				all_classes['<10k'].append(lang)
 	for c in all_classes:
 		print c
 		for l in sorted(all_classes[c]):

@@ -5,7 +5,7 @@ import json
 import string
 import codecs
 
-RAW_DIR = '../../'
+RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11'
 OUTPUT_DIR = 'output'
 
 def hits_language():

@@ -16,9 +16,11 @@ lfile2 = 'dictionaries/all.turkerqual'
 langs1 = [l.split('\t')[0] for l in open(lfile1).readlines()]
 langs2 = [l.split('\t')[0] for l in open(lfile2).readlines()]
 
-extlangs = list(set(langs1).intersection(set(langs2)))
-for l in extlangs: print '%s '%l,
-print
+extlangs = ['az','bg','bn','bs','cy','es','fa','hi','id','lv','ms','ne','pl','ro','ru','sk','so','sq','sr','ta','tr','uk','ur','uz']
+
+#extlangs = list(set(langs1).intersection(set(langs2)))
+#for l in extlangs: print '%s '%l,
+#print
 
 file1 = sys.argv[1]
 file2 = sys.argv[2]
@@ -88,8 +90,6 @@ for lang in turkers_by_lang:
 #	print 'Total Turkers: %d'%len(s1)
 
 	if len(s1) > 0 and len(s2) > 0:
-		
-		all1 += s1; all2 += s2;
 
 #		print '\tTheir average:', sum(s1)/len(s1)
 #		print '\tOur average:', sum(s2)/len(s2)
@@ -98,11 +98,14 @@ for lang in turkers_by_lang:
 #		print '\tSpearman:', scipy.stats.spearmanr(s1,s2)
 #		print '\tKendall Tau:', scipy.stats.kendalltau(scipy.stats.stats.rankdata(s1),scipy.stats.stats.rankdata(s2))
 		if lang in extlangs: 
+			all1 += s1; all2 += s2;
+
 			pavged.append(scipy.stats.pearsonr(s1,s2))
 			savged.append(scipy.stats.spearmanr(s1,s2))
 			kavged.append(scipy.stats.kendalltau(scipy.stats.stats.rankdata(s1),scipy.stats.stats.rankdata(s2)))
 #	print
 	#print zip(ids,s1,s2)
+print len(all1), len(all2)
 print 'Their average:', sum(all1)/len(all1)
 print 'Our average:', sum(all2)/len(all2)
 

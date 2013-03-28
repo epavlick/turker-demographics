@@ -7,6 +7,9 @@ if len(sys.argv) < 3:
 	print 'USAGE ./correlation.py FILE1 FILE2'
 	exit(0)
 
+extlangs = ['az','bg','bn','bs','cy','es','fa','hi','id','lv','ms','ne','pl','ro','ru','sk','so','sq','sr','ta','tr','uk','ur','uz']
+
+
 file1 = sys.argv[1]
 file2 = sys.argv[2]
 
@@ -22,7 +25,7 @@ scores2 = {l.split('\t')[0] : float(l.split('\t')[1]) for l in open(file2).readl
 
 s1 = list(); s2 = list()
 
-for l in langs:
+for l in extlangs:
 	s1.append(scores1[l])
 	s2.append(scores2[l])
 

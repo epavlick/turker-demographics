@@ -11,7 +11,7 @@ import itertools
 from scipy import stats
 import compile_data_from_raw as dat
 
-RAW_DIR = '../..'
+RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11'
 DICT_PATH = './translations.out'
 CLPAIRS = './cl-pairs.csv'
 OUTPUT_DIR = 'output'

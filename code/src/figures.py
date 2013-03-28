@@ -357,15 +357,18 @@ def goog_match_qual(cut=50):
 	        	n, (smin, smax), sm, sv, ss, sk = stats.describe(goog)
         		moe = math.sqrt(sv)/math.sqrt(n) * 2.576
 			goog_by_lang[l] = (sm, (sm - moe, sm + moe), n, moe)
-        n, (smin, smax), sm, sv, ss, sk = stats.describe(avg_qual)
-        moe = math.sqrt(sv)/math.sqrt(n) * 2.576
-	qual_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
-        n, (smin, smax), sm, sv, ss, sk = stats.describe(avg_match)
-        moe = math.sqrt(sv)/math.sqrt(n) * 2.576
-	match_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
-        n, (smin, smax), sm, sv, ss, sk = stats.describe(avg_goog)
-        moe = math.sqrt(sv)/math.sqrt(n) * 2.576
-	goog_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
+        #n, (smin, smax), sm, sv, ss, sk = stats.describe(avg_qual)
+        #moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+	#qual_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
+        #n, (smin, smax), sm, sv, ss, sk = stats.describe(avg_match)
+        #moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+	#match_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
+        #n, (smin, smax), sm, sv, ss, sk = stats.describe(avg_goog)
+        #moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+	#goog_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
+	#print 'qual', qual_by_lang['avg'] 
+	#print 'match', match_by_lang['avg'] 
+	#print 'goog', goog_by_lang['avg'] 
 	goog_graphs(sorted([(k,qual_by_lang[k],match_by_lang[k], goog_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut)
 
 #returns a dict of {attr1: {attr2: list of assignments}}
@@ -420,7 +423,7 @@ def exact_match_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
 
 #stacked bar graph of proportion of exact matches and proportion of synonymn matches
 #side by side with proportion of google translate matches
-def goog_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):	
+def goog_graphs(all_ci_dict, title='Graph', graph_avg=False, cutoff=3000):	
 	width = .8
 	ci_dict = [c for c in all_ci_dict if (c[1][2] >= cutoff and not(c[3] == None))]
 	yax = [c[1][0] for c in ci_dict]
@@ -439,21 +442,24 @@ def goog_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
 #		else:
 #			yax3.append(c[3][0])
 #			err3.append(c[3][3])
+	print float(sum(yax)) / len(yax)
         xax = range(len(ci_dict))
         names = [c[0] for c in ci_dict]
         plt.bar(xax, yax, width/2, ecolor='black',color='#60AFFE')
         plt.bar(xax, yax2, width/2, ecolor='black',color='b')
         plt.bar([x+width/2 for x in xax], yax3, width/2, ecolor='black',color='g')
-#	if(graph_avg):
-#		bidx = names.index('avg')
-#		plt.bar(xax[bidx], yax[bidx], 1, color='y') 
-#		plt.bar(xax[bidx], yax2[bidx], 1, color='r') 
-#		plt.bar(xax[bidx], yax3[bidx], 1, color='m') 
-        plt.xticks([x + 0.5 for x in xax], [n for n in names], rotation='vertical')
-        plt.ylabel('')
+	if(graph_avg):
+		bidx = names.index('avg')
+		plt.bar(xax[bidx], yax[bidx], width/2, color='r') 
+		plt.bar(xax[bidx], yax2[bidx], width/2, color='w') 
+		plt.bar(xax[bidx], yax3[bidx], width/2, color='w') 
+        plt.xticks([x + 0.5 for x in xax], [n for n in names], rotation='vertical', fontsize=16)
+        plt.yticks(fontsize=16, rotation=90)
+        plt.ylabel('', fontsize=16)
 	plt.ylim([0,max(yax)+.1])
 	plt.xlim([0,len(ci_dict)])
-	plt.savefig('figures/google-match-bar.pdf')
+	plt.show()
+	#plt.savefig('figures/google-match-bar.pdf')
 
 #bar graph with error bars
 def conf_int_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):	
@@ -766,8 +772,9 @@ def quality_scatter(title='Title'):
 	plt.yticks(fontsize='16')
 	arrows = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0')
 	for label, x, y in zip(labels, labelx, labely):
-        	plt.annotate(label,xy =(x,y),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=12)
-	plt.savefig('quality-scatter.pdf')
+        	plt.annotate(label,xy =(x,y),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
+	plt.show()
+#	plt.savefig('quality-scatter.pdf')
 
 #scatter plot of # assignments against # turkers
 def assign_and_turker_plot(tuples):
@@ -794,7 +801,8 @@ def assign_and_turker_plot(tuples):
 	arrows = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0')
         for label, x, y in zip(labels, labelx, labely):
                 plt.annotate(label,xy=(x,y),xytext=(-10,10),textcoords='offset points',ha='right',va='bottom',arrowprops=arrows,fontsize=20)
-	plt.savefig('figures/assign-turk-scatter.pdf')
+	plt.show()
+#	plt.savefig('figures/assign-turk-scatter.pdf')
 
 #get dictionary of {hitlang : # assignments} which includes only accepted assignments for which the turker only reported one language
 def one_lang_assigns():
@@ -923,6 +931,7 @@ def pie_chart_table(tups):
 #print out country counts in format to be pasted into html file for geomap
 def print_data_for_map():
         COUNTRIES = 'ref/countrycodemap'
+	tot = 0
         countries = dict()
         for line in open(COUNTRIES).readlines():
                 name, code = line.split()
@@ -945,6 +954,8 @@ def print_data_for_map():
                 full[lang] += c
         for ctry, count in full.iteritems():
                 print "['%s',%d],"%(countries[ctry],count,)
+		tot += count
+	print tot
 
 def anova():
 	dist = list()

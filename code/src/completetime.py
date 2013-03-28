@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import compile_data_from_raw as dat
 
 OUTPUT_DIR = 'output'
-RAW_DIR = '../../'
+RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11'
 
 def get_language_dicts(path, filter_list=None):
 	all_dicts = dict()
@@ -115,7 +115,7 @@ def time_series(data, num=40):
 		names.append(lang)
 		x += [t.total_seconds() for t in data[lang]]
 		y += [5+(i*5)]*len(data[lang])
-	plt.scatter(x,y,marker='|')
+	plt.scatter(x,y,marker='|', alpha=0.1)
 	plt.xlim([0,max(x)+5])
 	plt.ylim([0,max(y)+5])
         plt.yticks(sorted(list(set(y))), tuple(names))
@@ -165,7 +165,7 @@ if __name__ == '__main__':
         if(do == 'bar'):
 		time_bar(format_for_graph(get_language_dicts('%s/byassign.voc.accepted'%OUTPUT_DIR)))
         if(do == 'series'):
-		#time_series(format_for_time_series(format_for_graph(time_map())))
-		fancy_time_series(format_for_time_series(format_for_graph(time_map())), num=40)
+		time_series(format_for_time_series(format_for_graph(time_map())))
+		#fancy_time_series(format_for_time_series(format_for_graph(time_map())), num=40)
 
 
