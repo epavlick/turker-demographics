@@ -21,7 +21,7 @@ def turker_map(hittype='voc'):
         return tmap
 
 #map of assignment ID to quality score of that assignment, or N/A 
-def qual_map(path):
+def qual_map(path, totals=False):
         qual_data = {}
         #for line in csv.DictReader(open('%s/byassign.voc.quality.exactmatch'%OUTPUT_DIR), delimiter='\t'):
         #for line in csv.DictReader(open('%s/byassign.googmatch'%OUTPUT_DIR), delimiter='\t'):
@@ -32,7 +32,8 @@ def qual_map(path):
                         if qual == 'N/A':
                                 qual_data[assign] = qual
                         else:
-                                qual_data[assign] = float(qual)
+                        	if totals:  qual_data[assign] = (float(qual), line['tot'])
+                        	else:  qual_data[assign] = float(qual)
         return qual_data
 
 #map of word id to word
@@ -313,25 +314,30 @@ def quality_by_turker(fname, path):
 	out = open(fname, 'w')
         all_turkers = dict()
         tmap = turker_map()
-        quals = qual_map(path)
+        quals = qual_map(path) #, totals=True)
         for assign in tmap:
   		if(assign == '' or assign not in tmap or assign not in quals):
                         continue
 		worker = tmap[assign]
-                q = quals[assign]
+                qq = quals[assign]
+                #q = qq[0] #quals[assign][0]
+                q = qq
 		if q == 'N/A':
 			continue
 		if not(worker in all_turkers):
-                        all_turkers[worker] = {'num':0, 'denom':0}
+                        all_turkers[worker] = {'num':0, 'denom':0, 'atot':0}
                 all_turkers[worker]['num'] += float(q)
                 all_turkers[worker]['denom'] += 1
+                #all_turkers[worker]['atot'] += int(qq[1])
 	for t in all_turkers:
+		print t
 		out.write('%s\t%.04f\n'%(t, all_turkers[t]['num']/all_turkers[t]['denom'],))
+		#out.write('%s\t%.04f\t%d\n'%(t, all_turkers[t]['num']/all_turkers[t]['denom'],all_turkers[t]['atot'],))
 	out.close()
 
 def turker_qual_map():
         qual_data = {}
-        for line in open('%s/byturker.voc.quality.new'%OUTPUT_DIR).readlines()[1:]:
+        for line in open('%s/byturker.voc.quality'%OUTPUT_DIR).readlines()[1:]:
                 assign, qual = line.split()
                 if(assign not in qual_data):
                         qual_data[assign] = float(qual)
@@ -382,9 +388,10 @@ def googmatch_by_turker(fname, path):
 
 if __name__ == '__main__':
 	if sys.argv[1] == 'assignments': 
-		write_avg_quals(get_quality_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.voc.quality.new'%OUTPUT_DIR)
+		write_avg_quals(get_quality_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.voc.quality'%OUTPUT_DIR)
 	if sys.argv[1] == 'turker':
-		quality_by_turker('%s/byturker.voc.quality.external'%OUTPUT_DIR, '%s/byassign.voc.quality.external'%OUTPUT_DIR)
+#		quality_by_turker('%s/byturker.voc.quality.external'%OUTPUT_DIR, '%s/byassign.voc.quality.external'%OUTPUT_DIR)
+		quality_by_turker('%s/byturker.voc.quality'%OUTPUT_DIR, '%s/byassign.voc.quality'%OUTPUT_DIR)
 	if sys.argv[1] == 'goog':
 		write_avg_quals(get_goog_match_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.googmatch'%OUTPUT_DIR)
 		googmatch_by_turker('%s/byturker.googmatch'%OUTPUT_DIR,'%s/byassign.googmatch'%OUTPUT_DIR)

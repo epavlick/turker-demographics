@@ -725,7 +725,8 @@ def native_compare_line_graph(native, nonnative):
 
 #scatter plot of quality against # assignments, bubbles sized by # turkers
 def quality_scatter(title='Title'):
-	points_to_label = ['VN', 'RO', 'NG', 'AM', 'DZ','RU', 'UK', 'ET', 'PK', 'IN','US','MY','MK','ES', 'ID', '100 turkers']
+	#points_to_label = ['VN', 'RO', 'NG', 'AM', 'DZ','RU', 'UK', 'ET', 'PK', 'IN','US','MY','MK','ES', 'ID', '100 turkers']
+	points_to_label = ['RO', 'NG', 'AM', 'DZ','RU', 'UK', 'PK', 'IN','US','MY','MK','ES', 'ID', '100 turkers']
 	attr = 'country'
 	cmap = reverse_cntry_map('ref/countrynames')
 	cmap['100 turkers'] = '100 turkers'
@@ -759,13 +760,13 @@ def quality_scatter(title='Title'):
 	plt.xscale('log')
 	plt.xlim([.1,1000000])
 	plt.ylim([0,1])
-	plt.xlabel('Number of assignments', fontsize='16')
-	plt.ylabel('Average quality', fontsize='16')
+	plt.xlabel('Number of assignments', fontsize='14')
+	plt.ylabel('Average quality', fontsize='14')
 	plt.xticks(fontsize='16')
 	plt.yticks(fontsize='16')
 	arrows = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0')
 	for label, x, y in zip(labels, labelx, labely):
-        	plt.annotate(label,xy =(x,y),xytext=(20,-20),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=16)
+        	plt.annotate(label,xy =(x,y),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=12)
 	plt.savefig('quality-scatter.pdf')
 
 #scatter plot of # assignments against # turkers
