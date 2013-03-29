@@ -1,11091 +1,11091 @@
-normanaidd	norman	0	0	1	0
-enwebiad	nomination	0	0	1	1
-bawd|px|delwedd	thumb|px|image	0	0	1	0
-bawd|px|delwedd	thumb | px | image	0	0	1	0
-yellow	melyn	0	0	1	0
-yellow	yellow	0	0	1	0
-four	four	0	0	1	0
-rhyfelgyrch	rhyfelgyrch	0	0	1	0
-fawr	large	0	0	1	0
-cherrig	stones	0	0	1	0
-rheolau	rules	0	0	1	0
-casnewydd	newport	0	0	1	0
-radiws	radius	0	0	1	0
-partneriaeth	partnership	0	0	1	0
-erthyglau	articles	0	0	1	0
-agorodd	opened	0	0	1	0
-hunain	own	0	0	1	0
-achoswyd	caused	0	0	1	0
-dynodi	designation	0	0	1	0
-gostyngodd	decreased	0	0	1	0
-fodern	modern	0	0	1	0
-twneli	tunnels	0	0	1	0
-polypeptid	polypeptide	0	0	1	0
-werin	folk	0	0	1	0
-troseddol	criminal	0	0	1	0
-nofio	swimming	0	0	1	0
-fforio	exploration	0	0	1	0
-elgar	elgar	0	0	1	0
-fisoedd	months	0	0	1	0
-breizh	breizh	0	0	1	0
-caryl	caryl	0	0	1	0
-henffordd	hereford	0	0	1	1
-ymhlith	among	0	0	1	0
-thrace	thrace	0	0	1	0
-miller	miller	0	0	1	0
-serennodd	starred	0	0	1	0
-frederick	frederick	0	0	1	0
-ffos	ditch	0	0	1	1
-firaol	viral	0	0	1	0
-ngherddoriaeth	music	0	0	1	0
-carfan	cohort	0	0	1	0
-ffoi	flee	0	0	1	1
-ysbrydion	ghosts	0	0	1	0
-ymerodraethau	empires	0	0	1	0
-gyfoeth	wealth	0	0	1	0
-cyprus	cyprus	0	0	1	0
-macrinus	macrinus	0	0	1	0
-mwynhau	enjoy	0	0	1	1
-dduwdod	divinity	0	0	1	0
-hunaniaeth	identity	0	0	1	1
-newydd	new	0	0	1	1
-ongl	angle	0	0	1	1
-ateb	answer	0	0	1	1
-here	here	0	0	1	0
-fun	fun	0	0	1	0
-offerynnau	instruments	0	0	1	0
-nawr	now	0	0	1	1
-naws	tone	0	0	1	0
-naws	naws	0	0	1	0
-cipiodd	captured	0	0	1	0
-adennill	recovery	0	0	1	0
-iarll	earl	0	0	1	1
-sefyll	stand	0	0	1	1
-k	k	0	0	1	0
-eastenders	eastenders	0	0	1	0
-robin	robin	0	0	1	0
-anghyfreithlon	illegal	0	0	1	1
-gwreiddiau	roots	0	0	1	0
-bronfraith	thrush	0	0	1	1
-golden	golden	0	0	1	0
-gyfaill	friend	0	0	1	0
-carl	carl	0	0	1	0
-categorigeiriau	categorigeiriau	0	0	1	0
-weithwyr	employees	0	0	1	0
-unig	only	0	0	1	1
-gyfarfod	meeting	0	0	1	0
-hamas	hamas	0	0	1	0
-laeth	milk	0	0	1	0
-laeth	neath	0	0	1	0
-miliynau	millions	0	0	1	0
-dryw	wren	0	0	1	1
-ffeithlyfr	ffeithlyfr	0	0	1	0
-ddiwedd	end	0	0	1	0
-graddfa	scale	0	0	1	1
-wraidd	heart	0	0	1	0
-dna	dna	0	0	1	0
-ymddiswyddodd	resigned	0	0	1	0
-aur	gold	0	0	1	1
-music	music	0	0	1	0
-telegraph	telegraph	0	0	1	0
-amhosibl	impossible	0	0	1	1
-diroedd	lands	0	0	1	0
-pileri	pillars	0	0	1	0
-cadoediad	ceasefire	0	0	1	0
-cadoediad	cease fire	0	0	1	0
-ganwyd	born	0	0	1	0
-hurt	ridiculous	0	0	1	0
-rhufeinig	roman	0	0	1	1
-hoddinott	hoddinott	0	0	1	0
-holl	all	0	0	1	1
-nôl	back	0	0	1	0
-llychlynwyr	vikings	0	0	1	0
-lord	lord	0	0	1	0
-ganwyr	singers	0	0	1	0
-ymchwilio	investigate	0	0	1	0
-nôd	goal	0	0	1	0
-mamaliaid	mammals	0	0	1	0
-dyngarol	humanitarian	0	0	1	0
-cymrun	cymrun	0	0	1	0
-leddfu	ease	0	0	1	0
-enedigol	born	0	0	1	0
-cymrur	cymrur	0	0	1	0
-driniaeth	treatment	0	0	1	0
-goleudy	january	1	0	1	0
-goleudy	lighthouse	1	1	0	1
-albatrosiaid	albatrosses	0	0	1	0
-want	want	0	0	1	0
-bwysigrwydd	importance	0	0	1	0
-haarlem	haarlem	0	0	1	0
-gyfreithiol	legal	0	0	1	0
-ffylwm	phylum	0	0	1	0
-hon	this	0	0	1	1
-safbwynt	prespective	0	0	1	0
-safbwynt	perspective	0	0	1	0
-caffein	caffeine	0	0	1	0
-ewch	visit	0	0	1	0
-how	sut	0	0	1	0
-hot	hot	0	0	1	0
-offerynau	instruments	0	0	1	0
-baltaidd	baltaidd	0	0	1	0
-hop	hop	0	0	1	0
-deuatomig	diatomic	0	0	1	0
-weriniaeth	republic	0	0	1	0
-wheatear	wheatear	0	0	1	0
-wheatear	wheather	0	0	1	0
-beauty	beauty	0	0	1	0
-gwersi	lessons	0	0	1	0
-diagram	diagram	0	0	1	0
-henebion	monuments	0	0	1	0
-moesol	moral	0	0	1	1
-gwmniau	companies	0	0	1	0
-llyfr	book	0	0	1	1
-llyfr	llufr	0	0	1	0
-px|bawd|castell	px|thumb|castle	0	0	1	0
-px|bawd|castell	pxlbawdlcastell	0	0	1	0
-px|bawd|castell	px | thumb | castle	0	0	1	0
-gronfeydd	funds	0	0	1	0
-types	types	0	0	1	0
-codiad	rise	0	0	1	1
-galwyd	called	0	0	1	0
-helsinki	helsinki	0	0	1	0
-ho+	ho +	0	0	1	0
-pŵer	power	0	0	1	0
-categoricyfryngau	media category	0	0	1	0
-categoricyfryngau	categoricfryngau	0	0	1	0
-categoricyfryngau	category media	0	0	1	0
-wind	wind	0	0	1	0
-cernyw	cornwall	0	0	1	1
-sylfaenydd	founder	0	0	1	1
-ariannol	financial	0	0	1	1
-baratoi	prepare	0	0	1	0
-ddynoliaeth	humanity	0	0	1	0
-bwyta	eating	0	0	1	0
-fis	month	0	0	1	0
-iwerddon	ireland	0	0	1	1
-fit	fit	0	0	1	0
-diddymwyd	abolished	0	0	1	0
-pilipinas	philippines	0	0	1	0
-gwythïen	vein	0	0	1	0
-wales	wales	0	0	1	0
-gronynnau	particles	0	0	1	0
-lawysgrif	manuscript	0	0	1	0
-ffurfiodd	formed	0	0	1	0
-datgelodd	revealed	0	0	1	0
-fil	thousand	0	0	1	0
-gaethiwed	captivity	0	0	1	0
-ddiweddar	recently	0	0	1	0
-ymarferwyr	practitioners	0	0	1	0
-lolfa	lounge	0	0	1	0
-morgannwg	glamorgan	0	0	1	1
-slate	slate	0	0	1	0
-octavianus	octavianus	0	0	1	0
-gyfartal	equal	0	0	1	0
-enrico	enrico	0	0	1	0
-liwcemia	leukemia	0	0	1	0
-brwselprifddinas	brwselprifddinas	0	0	1	0
-helpur	help the	0	0	1	0
-helpur	help  the	0	0	1	0
-chyfeiriad	address	0	0	1	0
-llên	curtain	0	0	1	0
-llên	literature	0	0	1	0
-ddiweddarach	later	0	0	1	0
-categoriffiseg	categoriffiseg	0	0	1	0
-categoriffiseg	category:physics	0	0	1	0
-leucoptera	leucoptera	0	0	1	0
-felan	blues	0	0	1	0
-gwmnïau	companies	0	0	1	0
-lillian	lillian	0	0	1	0
-gylchredol	circulatory	0	0	1	0
-ysgrifennur	ysgrifennur	0	0	1	0
-unhrc	unhrc	0	0	1	0
-cadwedig	preserved	0	0	1	0
-gwych	great	0	0	1	0
-tewdwr	tewdwr	0	0	1	0
-fflatiau	flats	0	0	1	0
-angola	angola	0	0	1	0
-trosedd	crime	0	0	1	1
-organeb	organism	0	0	1	0
-portreadir	portrayed	0	0	1	0
-allah	allah	0	0	1	0
-allan	out	0	0	1	1
-gynhwysfawr	comprehensive	0	0	1	0
-camwy	chubut	0	0	1	0
-truman	truman	0	0	1	0
-damwain	accident	0	0	1	1
-germaniwm	germanium	1	1	0	0
-germaniwm	augston	1	0	1	0
-meddygon	doctors	0	0	1	0
-meddygol	medical	0	0	1	1
-eidalaidd	italian	0	0	1	0
-ynydiadau	ynydiadau	0	0	1	0
-dadleuol	controversial	0	0	1	1
-sgil	from	0	0	1	0
-rb	r&b	0	0	1	0
-rb	rb	0	0	1	0
-ymgorfforwyd	incorporated	0	0	1	0
-rh	w	0	0	1	0
-drysau	doors	0	0	1	0
-gwersylloedd	camps	0	0	1	0
-foundation	foundation	0	0	1	0
-gristionogol	christian	0	0	1	0
-canolog	central	0	0	1	1
-given	given	0	0	1	0
-buffay	buffay	0	0	1	0
-gothig	gothic	0	0	1	0
-cadarnhau	confirmed	0	0	1	0
-ffonau	phones	0	0	1	0
-llanfihangel	llanfihangel	0	0	1	0
-district	district	0	0	1	0
-ato	it	0	0	1	0
-moment	moment	0	0	1	1
-ati	etc.	0	0	1	0
-silicon	silicon	0	0	1	0
-ddilynol	subsequent	0	0	1	0
-ddelio	deal	0	0	1	0
-ffrwythlon	fertile	0	0	1	1
-dawns	dance	0	0	1	1
-thracia	thrace	0	0	1	0
-gwaith	work	0	0	1	1
-aggregate	aggregrate	0	0	1	0
-lyfrau	books	0	0	1	0
-diffeithwch	wilderness	0	0	1	1
-niger	niger	0	0	1	0
-wasg	press	0	0	1	0
-ffederasiwn	federation	0	0	1	0
-gellid	could	0	0	1	0
-gwirionedd	actually	0	0	1	0
-panthera	slater	0	0	1	0
-panthera	panthera	0	0	1	0
-service	gwasanaeth	0	0	1	0
-dynnu	remove	0	0	1	0
-cyfunrywioldeb	homosexuality	0	0	1	0
-xii	xii	0	0	1	0
-argymhellion	recommendations	0	0	1	0
-tango	tango	0	0	1	0
-disodlwyd	replaced	0	0	1	0
-listed	listed	0	0	1	0
-categorigweriniaethau	categorigweriniaethau	0	0	1	0
-gellir	can	0	0	1	0
-trosi	conversion	0	0	1	0
-ardaloedd	areas	0	0	1	0
-gilbert	gilbert	0	0	1	0
-glyn	glen	0	0	1	1
-glyn	glyn	0	0	1	0
-genesis	genesis	0	0	1	0
-gymunedau	communities	0	0	1	0
-disgynodd	fell	0	0	1	0
-llewod	lions	0	0	1	0
-llwyfandir	plateau	0	0	1	0
-sulawesi	sulawesi	0	0	1	0
-ahmed	ahmed	0	0	1	0
-bwysig	pound	0	0	1	0
-bwysig	important	0	0	1	0
-tree	tree	0	0	1	0
-tref	town	0	0	1	1
-project	project	0	0	1	0
-honedig	alleged	0	0	1	1
-hadrian	hadrian	0	0	1	0
-periw	peru	0	0	1	0
-trer	brer	0	0	1	0
-streptopelia	streptopelia	0	0	1	0
-dringwyr	dringwry	0	0	1	0
-dringwyr	climbers	0	0	1	0
-sofraniaeth	sovereignty	0	0	1	0
-wybodaeth	information	0	0	1	0
-boston	boston	0	0	1	0
-ymraniad	split	0	0	1	0
-cymdeithasol	social	0	0	1	1
-zetajones	zetajones	0	0	1	0
-aethant	ceased	0	0	1	0
-aethant	they	0	0	1	0
-addasu	adapt	0	0	1	1
-mhencampwriaeth	championship	0	0	1	0
-gerddorfa	orchestra	0	0	1	0
-ddysgur	teach the	0	0	1	0
-hymen	hymen	0	0	1	0
-responsible	responsible	0	0	1	0
-responsible	cyfrifol	0	0	1	0
-cynrychiolwyr	representatives	0	0	1	0
-plygain	plygain	0	0	1	0
-huganod	gannets	0	0	1	0
-mabwysiadu	adoption	0	0	1	0
-fwdhaeth	buddhism	0	0	1	0
-nyddiau	days	0	0	1	0
-beichiogrwydd	pregnancy	0	0	1	0
-bodorgan	bodorgan	0	0	1	0
-anffyddwyr	atheists	0	0	1	0
-wells	wells	0	0	1	0
-ffrwydro	explode	0	0	1	1
-gorchfygur	gorchfygur	0	0	1	0
-wiwer	squirrel	0	0	1	0
-heintiadau	infections	0	0	1	0
-pleser	pleasure	0	0	1	1
-wella	improve	0	0	1	0
-catharus	catharus	0	0	1	0
-sarhaus	offensive	0	0	1	0
-singer	singer	0	0	1	0
-siaradwyr	speakers	0	0	1	0
-mihangel	michal	0	0	1	0
-mihangel	michael	0	0	1	1
-professor	professor	0	0	1	0
-europaeus	europaeus	0	0	1	0
-siaradwyd	spoken	0	0	1	0
-ffwrdd	off	0	0	1	0
-thunder	thunder	0	0	1	0
-gododdin	gododdin	0	0	1	0
-gyfandirol	continental	0	0	1	0
-scream	scream	0	0	1	0
-llywydd	president	0	0	1	1
-carneddau	cairns	0	0	1	0
-prin	rare	0	0	1	1
-prysur	busy	0	0	1	1
-ynghanol	the middle	0	0	1	0
-bonnie	bonnie	0	0	1	0
-prif	main	0	0	1	0
-culdir	isthmus	0	0	1	0
-ddadlau	argue	0	0	1	0
-gwenithfaen	date	1	0	1	0
-gwenithfaen	granite	1	1	1	1
-gwenithfaen	dates	1	0	1	0
-categoritirffurfiau	categoritirffurfiau	0	0	1	0
-ddwyreinol	east	0	0	1	0
-cynnes	warm	0	0	1	1
-aelodaeth	membership	0	0	1	1
-isblisgyn	sub-shell	0	0	1	0
-isblisgyn	isblisgyn	0	0	1	0
-gallai	could	0	0	1	0
-rico	rico	0	0	1	0
-bush	bush	0	0	1	0
-crëwyd	was created	0	0	1	0
-crëwyd	created	0	0	1	0
-ffrithiant	friction	0	0	1	0
-thema	theme	0	0	1	1
-elusen	charity	0	0	1	0
-rice	rice	0	0	1	0
-capel	chapel	0	0	1	1
-rica	rica	0	0	1	0
-agorwyd	opened	0	0	1	0
-plata	plata	0	0	1	0
-ceid	there was	0	0	1	0
-fforest	forest	0	0	1	1
-ceir	there	0	0	1	0
-arthuraidd	arthurian	0	0	1	0
-new	new	0	0	1	0
-caribi	caribbean	0	0	1	0
-croesir	crossed	0	0	1	0
-cytunodd	agreed	0	0	1	0
-gallia	gallia	0	0	1	0
-raddol	gradually	0	0	1	0
-seremonïol	ceremonial	0	0	1	0
-rhyddhawyd	released	0	0	1	0
-gaer	fort	0	0	1	0
-chariad	love	0	0	1	0
-drigai	resident	0	0	1	0
-ddiogel	safe	0	0	1	0
-blew	hair	0	0	1	0
-rhanbarthol	regional	0	0	1	0
-fair	fair	0	0	1	0
-cnewyllyn	kernel	0	0	1	1
-gaeleg	gaelic	0	0	1	1
-amddiffynwr	defender	0	0	1	0
-amddiffynwr	microscope	0	0	1	0
-news	news	0	0	1	0
-eangdiroedd	land masses	0	0	1	0
-best	best	0	0	1	0
-oceania	oceania	0	0	1	0
-ddilynwyr	followers	0	0	1	0
-wikipedia	wilipedia	0	0	1	0
-wikipedia	wikipedia	0	0	1	0
-copyleft	copyleft	0	0	1	0
-patrymau	patterns	0	0	1	0
-argraff	impression	0	0	1	1
-dyfnder	depth	0	0	1	1
-acropolis	acropolis	0	0	1	0
-glasgow	glasgow	0	0	1	0
-preserve	preserve	0	0	1	0
-never	never	0	0	1	0
-nature	nature	0	0	1	0
-chodi	raising	0	0	1	0
-ddisgrifior	describes	0	0	1	0
-clwyf	wound	0	0	1	1
-clwyd	gate	0	0	1	1
-gwyn	white	0	0	1	1
-gwyn	theft	0	0	1	0
-carbon	carbon	0	0	1	0
-caribî	caribbean	0	0	1	0
-normandi	normandy	0	0	1	0
-owain	owain	0	0	1	0
-country	country	0	0	1	0
-unedau	units	0	0	1	0
-edgar	edgar	0	0	1	0
-dorf	crowd	0	0	1	0
-ysgrifennydd	secretary	0	0	1	1
-cyfagos	neighboring	0	0	1	1
-penderfynu	decide	0	0	1	0
-goedwig	forest	0	0	1	0
-arwyneb	surface	0	0	1	1
-siaradodd	spoke	0	0	1	0
-nghymru	wales	0	0	1	0
-penderfyna	decides	0	0	1	0
-ffin	boundary	0	0	1	1
-basque	basque	0	0	1	0
-blonde	blonde	0	0	1	0
-enwebwyd	nominated	0	0	1	0
-difa	destruction	0	0	1	0
-lân	up	0	0	1	0
-lân	clean	0	0	1	0
-peldroed	football	0	0	1	1
-union	exactly	0	0	1	0
-fri	distinguished	0	0	1	0
-fro	area	0	0	1	0
-aristotlys	aristotle	0	0	1	0
-cofnodir	recorded	0	0	1	0
-argraffiadau	impressions	0	0	1	0
-bawd|map	bawdmap	0	0	1	0
-bawd|map	thumb | map	0	0	1	0
-bawd|map	thumb	0	0	1	0
-life	life	0	0	1	0
-regum	begum	0	0	1	0
-eastern	eastern	0	0	1	0
-kwazulu	kwazulu	0	0	1	0
-irving	irving	0	0	1	0
-dave	dave	0	0	1	0
-amodau	conditions	0	0	1	0
-amgueddfa	museum	0	0	1	1
-chile	chile	0	0	1	0
-awst	august	0	0	1	1
-chill	chill	0	0	1	0
-nghaerfyrddin	nghaerfyrddin	0	0	1	0
-nghaerfyrddin	carmarthen	0	0	1	0
-mywyd	life	0	0	1	0
-castro	castro	0	0	1	0
-viii	viii	0	0	1	0
-oman	oman	0	0	1	0
-siapaneg	japanese	0	0	1	0
-unor	onur	0	0	1	0
-ddadl	debate	0	0	1	0
-gwareiddiad	civilization	0	0	1	1
-folcanig	volcanic	0	0	1	0
-llundain	london	0	0	1	1
-nofel	novel	0	0	1	1
-chwys	perspiration	1	1	0	1
-chwys	all	1	0	1	0
-chwys	sara	1	0	1	0
-chwys	sweat	1	1	0	1
-chwys	guide	1	0	1	0
-unol	line	0	0	1	0
-unol	accordance	0	0	1	0
-preswylio	resident	0	0	1	0
-preswylio	residence	0	0	1	0
-prifysgol	university	0	0	1	1
-fwyta	eat	0	0	1	0
-dechnoleg	technology	0	0	1	0
-lansiwyd	launched	0	0	1	0
-heddiwn	today	0	0	1	0
-heddiwn	heddiwn	0	0	1	0
-dringodd	climbed	0	0	1	0
-ymosodiadau	attacks	0	0	1	0
-dewiniaeth	witchcraft	0	0	1	1
-big	beak	0	0	1	0
-european	european	0	0	1	0
-voyager	voyager	0	0	1	0
-seicoleg	psychology	0	0	1	1
-allodd	unable to	0	0	1	0
-galon	heart	0	0	1	0
-categoriymlusgiaid	categoriymlusgiaid	0	0	1	0
-gofnodi	record	0	0	1	0
-sadwrn	saturday	0	0	1	0
-josef	allegation	0	0	1	0
-gydran	component	0	0	1	0
-slovenia	slovenia	0	0	1	0
-rhoddir	is	0	0	1	0
-lucas	lucas	0	0	1	0
-lucas	lucasq	0	0	1	0
-gyhoeddodd	published	0	0	1	0
-cyfeirir	referred	0	0	1	0
-ansawdd	quality	0	0	1	1
-academic	academic	0	0	1	0
-datblygiadau	developments	0	0	1	0
-cychod	boats	0	0	1	0
-cyfeiria	refers	0	0	1	0
-arwyddocâd	significance	0	0	1	0
-dechreuodd	began	0	0	1	0
-mantell	mantle	0	0	1	1
-distribute	distribute	0	0	1	0
-moonwalk	moonwalk	0	0	1	0
-djibouti	djibouti	0	0	1	0
-malta	malta	0	0	1	0
-cyfartalog	average	0	0	1	0
-nifer	number	0	0	1	0
-previous	previous	0	0	1	0
-alun	alun	0	0	1	0
-percoladur	percoladur	0	0	1	0
-gaiff	will	0	0	1	0
-rhagfyr	december	0	0	1	1
-electromagnetedd	electromagnetism	0	0	1	0
-mewnwladol	domestic	0	0	1	0
-gallinago	gallinago	0	0	1	0
-haf	summer	0	0	1	1
-macdonald	macdonald	0	0	1	0
-ffynnon	spring	0	0	1	1
-restrir	listed	0	0	1	0
-gyfreithiau	laws	0	0	1	0
-wikimedia	wikimedia	0	0	1	0
-east	east	0	0	1	0
-east	translate from: english east	0	0	1	0
-lwch	dust	0	0	1	0
-drafferth	trouble	0	0	1	0
-sudetenland	sudetenland	0	0	1	0
-osman	osman	0	0	1	0
-rhagweld	predict	0	0	1	0
-rhagweld	forecasting	0	0	1	0
-trafferthion	difficulties	0	0	1	0
-weddol	fairly	0	0	1	0
-penmon	penmon	0	0	1	0
-telor	warbler	0	0	1	0
-blackheaded	blackheaded	0	0	1	0
-bobby	bobby	0	0	1	0
-resymau	reasons	0	0	1	0
-cochrane	cochrane	0	0	1	0
-harbwr	harbor	0	0	1	1
-hwnt	beyond	0	0	1	1
-ddibynnol	dependent	0	0	1	0
-gadw	keep	0	0	1	0
-yerevan	yerevan	0	0	1	0
-siwgr	side	1	0	1	0
-siwgr	sugar	1	1	1	1
-luniau	pictures	0	0	1	0
-old	old	0	0	1	0
-newyddiadurwyr	journalists	0	0	1	0
-people	people	0	0	1	0
-categorigenedigaethau	categorigenedigaethau	0	0	1	0
-categorigenedigaethau	category:births	0	0	1	0
-dedications	dedication	0	0	1	0
-dedications	dedications	0	0	1	0
-triniaeth	treatment	0	0	1	1
-ariannin	argentina	0	0	1	0
-loeren	satellite	0	0	1	0
-traddodiad	tradition	0	0	1	1
-billboard	billboard	0	0	1	0
-amddiffynfeydd	defenses	0	0	1	0
-cynigiodd	offered	0	0	1	0
-cynigiodd	proposed	0	0	1	0
-jespersen	jespersen	0	0	1	0
-for	for	0	0	1	0
-fforestydd	forests	0	0	1	0
-draenog	pronounced	1	0	1	0
-draenog	sang	1	0	1	0
-draenog	hedgehog	1	0	1	1
-draenog	erinaceidae	1	1	0	0
-draenog	hedhehog	1	0	1	0
-draenog	preach	1	0	1	0
-rheolwyr	managers	0	0	1	0
-fod	that	0	0	1	0
-fom	bomb	0	0	1	0
-fon	it	0	0	1	0
-hanfod	essentially	0	0	1	0
-europaea	europaea	0	0	1	0
-bwysaur	bwysaur	0	0	1	0
-bwysaur	weight	0	0	1	0
-ymhen	within	0	0	1	1
-byzantium	byzantium	0	0	1	0
-ddilynodd	followed	0	0	1	0
-mathemateg	mathematics	0	0	1	1
-strwythurau	strwthurau	0	0	1	0
-strwythurau	structures	0	0	1	0
-lliwiau	lliwiau	0	0	1	0
-lliwiau	colors	0	0	1	0
-lliwiau	buoys	0	0	1	0
-cynan	cynan	0	0	1	0
-yoko	yoko	0	0	1	0
-fentrigl	ventricle	0	0	1	0
-categoripobl	categoripobl	0	0	1	0
-gwrthwynebu	object	0	0	1	0
-orgraff	orthography	0	0	1	1
-o	of	0	0	1	0
-amddiffynnol	protective	0	0	1	0
-diddordeb	interest	0	0	1	1
-adeg	time	0	0	1	1
-branwen	branwen	0	0	1	0
-eich	your	0	0	1	1
-cyfeiriadur	directory	0	0	1	0
-wral	ural	0	0	1	0
-caspia	caspian	0	0	1	0
-marshall	marshall	0	0	1	0
-cyfrif	account	0	0	1	1
-sol	sol	0	0	1	0
-gweithgaredd	activity	0	0	1	1
-frig	top	0	0	1	0
-metabolig	metabolic	0	0	1	0
-sou	sou	0	0	1	0
-oson	ozone	0	0	1	0
-mangor	bangor	0	0	1	0
-cychwynodd	started	0	0	1	0
-osod	osad	0	0	1	0
-osod	set	0	0	1	0
-tyfun	comprehensive	0	0	1	0
-presenoldeb	presenoldrb	0	0	1	0
-presenoldeb	presence	0	0	1	1
-rhywbryd	sometime	0	0	1	1
-gyfraith	law	0	0	1	0
-maes	field	0	0	1	1
-categoriactorion	categoriactorion	0	0	1	0
-joseph	joseph	0	0	1	0
-tsiecoslofacia	czechoslovakia	0	0	1	0
-obaith	hope	0	0	1	0
-obaith	obiath	0	0	1	0
-jane	jane	0	0	1	0
-parryjones	parryjones	0	0	1	0
-hallt	salty	0	0	1	1
-waith	work	0	0	1	0
-offer	equipment	0	0	1	0
-darlledwyd	broadcast	0	0	1	0
-glasurol	classical	0	0	1	0
-verde	verde	0	0	1	0
-ymchwil	research	0	0	1	1
-ddaeargryn	earthquake	0	0	1	0
-gynigiwyd	proposed	0	0	1	0
-swdan	sudan	0	0	1	0
-filwr	soldier	0	0	1	0
-crëyr	heron	0	0	1	0
-trenau	trains	0	0	1	0
-ddod	come	0	0	1	0
-gerllawr	close	0	0	1	0
-gerllawr	gerllawr	0	0	1	0
-bywgraffiad	biography	0	0	1	1
-bywgraffiad	bywgraffid	0	0	1	0
-llosgnwy	firedamp	0	0	1	0
-hinsawdd	climate	0	0	1	1
-cylchoedd	cycles	0	0	1	0
-melan	melan	0	0	1	0
-fân	here	0	0	1	0
-recordiad	recording	0	0	1	0
-awdurdod	authority	0	0	1	1
-materion	issues	0	0	1	0
-ceisiadau	applications	0	0	1	0
-actor	actor	0	0	1	1
-daeareg	geology	0	0	1	1
-curiad	beat	0	0	1	1
-recordiau	records	0	0	1	0
-recordiau	record	0	0	1	0
-republic	republic	0	0	1	0
-jenkins	katherine	0	0	1	0
-rspb	rspb	0	0	1	0
-roll	roll	0	0	1	0
-llosgi	burning	0	0	1	0
-gwbl	all	0	0	1	0
-quinnell	quinnell	0	0	1	0
-afalau	apples	0	0	1	0
-tlawd	poor	0	0	1	1
-normaniaid	norman	0	0	1	0
-fflandrys	flanders	0	0	1	1
-palma	palma	0	0	1	0
-dywedwyd	were	0	0	1	0
-allfudo	emigration	0	0	1	0
-rolling	rolling	0	0	1	0
-categoritermau	categoritermau	0	0	1	0
-isgyfandir	subcontinent	0	0	1	0
-canllawiau	guidelines	0	0	1	0
-morfil	whale	0	0	1	1
-greigiau	rocks	0	0	1	0
-bioleg	biology	0	0	1	1
-categorianatomeg	categoriantomeg	0	0	1	0
-categorianatomeg	categorianatomeg	0	0	1	0
-time	amser	0	0	1	0
-iâr	chicken	0	0	1	0
-nghanada	canada	0	0	1	0
-gylchgrawn	magazine	0	0	1	0
-detholiad	selection	0	0	1	1
-ballet	ballet	0	0	1	0
-rhostio	roasted	0	0	1	0
-cyfalafol	capital	0	0	1	0
-anghydffurfiol	conformist	0	0	1	0
-jarman	jarman	0	0	1	0
-brân	bran	0	0	1	0
-dienyddiwyd	executed	0	0	1	0
-rhag	from	0	0	1	1
-goffi	coffee	0	0	1	0
-agoriad	opening	0	0	1	1
-fenywaidd	female	0	0	1	0
-rhan	part	0	0	1	1
-rhai	some	0	0	1	1
-goffa	memorial	0	0	1	0
-afiechyd	disease	0	0	1	1
-cymylau	clouds	0	0	1	0
-choice	dewis	0	0	1	0
-bodedern	bodedern	0	0	1	0
-catalonia	catalonia	0	0	1	0
-groth	uterus	0	0	1	0
-categoricyfrifiaduro	categoricyfrifiaduro	0	0	1	0
-llythyren	letter	0	0	1	1
-gwladwriaethau	states	0	0	1	0
-teal	teal	0	0	1	0
-gafwyd	obtained	0	0	1	0
-ffiniau	boundaries	0	0	1	0
-chroicocephalus	chroicocephalus	0	0	1	0
-droin	fatal	0	0	1	0
-dwfn	deep	0	0	1	1
-telford	telford	0	0	1	0
-llwybr	path	0	0	1	1
-erotig	erotic	0	0	1	0
-ardal	area	0	0	1	0
-llangristiolus	llangristiolus	0	0	1	0
-defodol	ritual	0	0	1	0
-gadoediad	ceasefire	0	0	1	0
-chwarelwr	quarryman	0	0	1	1
-annalen	annalen	0	0	1	0
-dywedir	said	0	0	1	0
-chwithdde	chwithdde	0	0	1	0
-ydd	rd	0	0	1	0
-gwefusau	lips	0	0	1	0
-awtistiaeth	name of a planet	1	0	1	0
-awtistiaeth	urenus	1	0	1	0
-awtistiaeth	autism	1	1	0	0
-awtistiaeth	uranus	1	0	1	0
-darllediadau	darllediaudau	0	0	1	0
-darllediadau	coverage	0	0	1	0
-galilea	galilee	0	0	1	0
-ydy	is	0	0	1	0
-jure	jure	0	0	1	0
-ydw	i	0	0	1	0
-ydw	ywd	0	0	1	0
-llanelli	llanelli	0	0	1	0
-jura	jura	0	0	1	0
-unedig	unified	0	0	1	0
-neville	neville	0	0	1	0
-enydaidd	instantaneous	0	0	1	0
-bu	was	0	0	1	0
-cassius	cassius	0	0	1	0
-commonly	commonly	0	0	1	0
-dynol	human	0	0	1	1
-ebost	email	0	0	1	0
-mesurir	measured	0	0	1	0
-sawl	several	0	0	1	0
-niwcliotid	nucleotide	0	0	1	0
-categorihylifau	categorihylifau	0	0	1	0
-diwydiant	industry	0	0	1	1
-deorllewin	south west	0	0	1	0
-degawdau	degawadu	0	0	1	0
-degawdau	decades	0	0	1	0
-degawdau	decade	0	0	1	0
-ipa	ipa	0	0	1	0
-love	love	0	0	1	0
-griffiths	griffiths	0	0	1	0
-barcud	kite	0	0	1	1
-brongoch	brongoch	0	0	1	0
-brongoch	red-breasted mergansers	0	0	1	0
-esgobaeth	diocese	0	0	1	1
-swyddi	jobs	0	0	1	0
-canis	canis	0	0	1	0
-iddewiaeth	judaism	0	0	1	0
-dosbarthu	distribution	0	0	1	0
-ailsefydlodd	reestablished	0	0	1	0
-trosiad	conversion	0	0	1	0
-aythya	aythya	0	0	1	0
-bedwar	four	0	0	1	0
-angry	angry	0	0	1	0
-cadfan	cadfan	0	0	1	0
-hethol	elected	0	0	1	0
-scops	scops	0	0	1	0
-ddrama	drama	0	0	1	0
-categorihanes	categorihanes	0	0	1	0
-categorihanes	history category	0	0	1	0
-oed	age	0	0	1	1
-tirfeddiannwr	landowner	0	0	1	0
-ddaearyddol	geographical	0	0	1	0
-clitoris	clitoris	0	0	1	0
-termau	terms	0	0	1	0
-skua	skua	0	0	1	0
-uwchben	above	0	0	1	0
-datgan	states	0	0	1	0
-petrel	petrel	0	0	1	0
-machlud	sunset	0	0	1	0
-diwygiadau	reforms	0	0	1	0
-sé	se	0	0	1	0
-ddiwrnod	day	0	0	1	0
-sí	sí   (sí / si si	0	0	1	0
-sí	e)	0	0	1	0
-sí	sure	0	0	1	0
-gambia	gambia	0	0	1	0
-following	isod	0	0	1	0
-locustella	locustella	0	0	1	0
-problemau	problems	0	0	1	0
-academaidd	academic	0	0	1	0
-ymddangosodd	appeared	0	0	1	0
-wŷr	s	0	0	1	0
-cytgan	chorus	0	0	1	1
-cwrw	beer	0	0	1	1
-cwrs	course	0	0	1	1
-noswaith	evening	0	0	1	0
-eisioes	already	0	0	1	0
-chymdeithasau	associations	0	0	1	0
-pedwerydd	fourth	0	0	1	1
-charadrius	charadrius	0	0	1	0
-drama	drama	0	0	1	0
-ymadroddion	phrases	0	0	1	0
-deuocsid	dioxide	0	0	1	0
-ddefnyddior	use	0	0	1	0
-ddefnyddior	use the	0	0	1	0
-llinos	finch	0	0	1	0
-aderyn	many	1	0	1	0
-aderyn	all	1	0	1	0
-aderyn	whole	1	0	1	0
-aderyn	bird	1	1	1	1
-ddylunio	design	0	0	1	0
-lladdwyd	killed	0	0	1	0
-jazz	jazz	0	0	1	0
-atal	prevention	0	0	1	0
-arfog	forces	0	0	1	0
-such	such	0	0	1	0
-arfon	arfon	0	0	1	0
-data	data	0	0	1	0
-frenhinol	royal	0	0	1	0
-ss	ss	0	0	1	0
-abertawe	swansea	0	0	1	1
-st	st	0	0	1	0
-si	sure	0	0	1	0
-sh	sh	0	0	1	0
-so	so	0	0	1	0
-sn	noise	0	0	1	0
-sl	sl	0	0	1	0
-sc	sc	0	0	1	0
-sa	sa	0	0	1	0
-aserbaijan	azerbaijan	0	0	1	0
-thomson	thomson	0	0	1	0
-boeriaid	boers	0	0	1	0
-artistiaid	artists	0	0	1	0
-ayyb	etc.	0	0	1	0
-cyntefig	primitive	0	0	1	1
-cynrychiolir	represented	0	0	1	0
-bwnc	topic	0	0	1	0
-galwr	caller	0	0	1	0
-diffyg	lack of	0	0	1	0
-chanran	percentage	0	0	1	0
-anrhydedd	honor	0	0	1	1
-meistr	master	0	0	1	1
-condemnio	condemned	0	0	1	0
-gŵydd	goose	0	0	1	0
-nation	nation	0	0	1	0
-ennyn	command	0	0	1	0
-llaeth	milk	0	0	1	1
-fileniwm	millennium	0	0	1	0
-griffith	griffith	0	0	1	0
-gïach	healthy	0	0	1	0
-miliwnyddion	millionaires	0	0	1	0
-lithosffer	lithosphere	1	1	0	0
-lithosffer	small	1	0	1	0
-lithosffer	fitar	1	0	1	0
-lithosffer	eid	1	0	1	0
-ceirios	cherry	0	0	1	0
-rhyfedd	strange	0	0	1	1
-ngogleddorllewin	north west	0	0	1	0
-chollodd	lost	0	0	1	0
-px|baner	p	0	0	1	0
-px|baner	pxlbaner	0	0	1	0
-px|baner	px|banner	0	0	1	0
-honduras	honduras	0	0	1	0
-difrodi	damage	0	0	1	0
-aneirin	aneirin	0	0	1	0
-traciau	tracks	0	0	1	0
-beetle	beetle	0	0	1	0
-ganddi	has	0	0	1	0
-rhannodd	shared	0	0	1	0
-ganddo	he	0	0	1	0
-chymdeithas	society	0	0	1	0
-gyfreithlon	lawful	0	0	1	0
-alwn	we call	0	0	1	0
-gweddi	prayer	0	0	1	1
-senegal	senegal	0	0	1	0
-alluogi	enable	0	0	1	0
-ânt	ant	0	0	1	0
-ânt	they go	0	0	1	0
-ffrancwyr	french	0	0	1	0
-trosglwyddwyd	transferred	0	0	1	0
-internet	internet	0	0	1	0
-ble	where	0	0	1	1
-bapur	paper	0	0	1	0
-ffisegydd	physicist	0	0	1	0
-aneglur	unclear	0	0	1	1
-macedon	macedon	0	0	1	0
-cwantwm	quantum	0	0	1	0
-cylchdro	rotation	0	0	1	0
-byth	never	0	0	1	0
-mecaneiddio	mechanization	0	0	1	0
-fandaliaid	vandals	0	0	1	0
-brasil	brazil	0	0	1	0
-pwmp	pump	0	0	1	0
-plinius	pliny	0	0	1	0
-siawns	chance	0	0	1	1
-enfys	rainbow	0	0	1	1
-amrywiadau	variations	0	0	1	0
-gafr	goat	0	0	1	1
-categoridefnyddiau	categoridefynyddiau	0	0	1	0
-oni	unless	0	0	1	1
-frwd	actively	0	0	1	0
-claddwyd	buried	0	0	1	0
-categoritywysogaethau	categotitywysogaethau	0	0	1	0
-spoken	spoken	0	0	1	0
-potter	potter	0	0	1	0
-ond	but	0	0	1	1
-mytholeg	tribals	1	0	1	0
-mytholeg	tribes	1	0	1	0
-mytholeg	tribal	1	0	1	0
-mytholeg	mythology	1	1	1	0
-opec	opec	0	0	1	0
-hybu	promote	0	0	1	0
-cywir	right	0	0	1	0
-berfol	verb	0	0	1	0
-cloddfeydd	mine	0	0	1	0
-siwan	siwan	0	0	1	0
-awyren	plane	0	0	1	0
-city	city	0	0	1	0
-urien	urien	0	0	1	0
-gyfyngu	limit	0	0	1	0
-troellwr	dj	0	0	1	0
-iach	healthy	0	0	1	1
-brwydrau	battles	0	0	1	0
-siberia	siberia	0	0	1	0
-williams	williams	0	0	1	0
-ddeddwyrain	south east	0	0	1	0
-ddeddwyrain	south-east	0	0	1	0
-ddemocrataidd	democratic	0	0	1	0
-cisalpina	cisalpina	0	0	1	0
-sawdi	saudi	0	0	1	0
-conswl	consul	0	0	1	0
-cervus	cervus	0	0	1	0
-wythnos	week	0	0	1	1
-cenedlaethol	national	0	0	1	1
-ddarganfyddiadau	discoveries	0	0	1	0
-ddarganfyddiadau	findings	0	0	1	0
-romaunsch	romaunsch	0	0	1	0
-gwelodd	saw	0	0	1	0
-future	future	0	0	1	0
-fynachlog	monastery	0	0	1	0
-sophia	sophia	0	0	1	0
-fisigothiaid	visigoths	0	0	1	0
-san	san	0	0	1	0
-sam	sam	0	0	1	0
-corhedydd	pipit	0	0	1	0
-alley	alley	0	0	1	0
-arwynebedd	think	1	0	1	0
-arwynebedd	area	1	1	1	1
-say	say	0	0	1	0
-trosglwyddiant	conveyance	0	0	1	0
-cusan	kiss	0	0	1	1
-wilsons	wilsons	0	0	1	0
-allen	allen	0	0	1	0
-allen	could	0	0	1	0
-turner	turner	0	0	1	0
-cherdded	walking	0	0	1	0
-dinasoedd	cities	0	0	1	0
-golau	light	0	0	1	1
-waethaf	worst	0	0	1	0
-gwobrau	awards	0	0	1	0
-jefferson	jefferson	0	0	1	0
-take	cymryd	0	0	1	0
-take	take	0	0	1	0
-categorirhestrau	category: lists	0	0	1	0
-golan	golan	0	0	1	0
-rydych	you	0	0	1	0
-saethau	arrows	0	0	1	0
-cynhyrchir	produced	0	0	1	0
-amlwg	obvious	0	0	1	1
-rwsiaidd	russian	0	0	1	0
-fywyd	life	0	0	1	0
-printed	printed	0	0	1	0
-ddinasyddion	citizens	0	0	1	0
-ddinasyddion	citizen	0	0	1	0
-jebel	jebel	0	0	1	0
-românia	romania	0	0	1	0
-lawn	full	0	0	1	0
-phil	phil	0	0	1	0
-occidental	occidental	0	0	1	0
-ddigidol	digital	0	0	1	0
-chiang	chiang	0	0	1	0
-dogfen	document	0	0	1	1
-lawr	down	0	0	1	0
-caledi	hardship	0	0	1	1
-ddal	hold	0	0	1	0
-wynn	wynn	0	0	1	0
-fàs	shallow	0	0	1	0
-fàs	mass	0	0	1	0
-unoliaethwyr	unionists	0	0	1	0
-redpoll	redpoll	0	0	1	0
-dadeni	renaissance	0	0	1	1
-chyfandir	continents	0	0	1	0
-offeryn	tool	0	0	1	1
-digidol	digital	0	0	1	0
-sylw	attention	0	0	1	1
-ddaw	comes	0	0	1	0
-ddau	two	0	0	1	0
-esiampl	example	0	0	1	1
-lefant	cry	0	0	1	0
-wedii	wedii	0	0	1	0
-khoisan	khoisan	0	0	1	0
-franz	franz	0	0	1	0
-going	going	0	0	1	0
-actio	acting	0	0	1	0
-actio	minerals	0	0	1	0
-brïeg	briec	0	0	1	0
-neifion	neptune	0	0	1	1
-wedir	gwydir	0	0	1	0
-offeiriades	priestess	0	0	1	0
-cymdeithas	society	0	0	1	1
-actif	active	0	0	1	0
-reolir	controlled	0	0	1	0
-wediu	slightly blurred	0	0	1	0
-cadwraeth	conservation	0	0	1	0
-dirwedd	landscape	0	0	1	0
-beatles	beatles	0	0	1	0
-weithredu	action	0	0	1	0
-mandarin	mandarin	0	0	1	0
-monde	monde	0	0	1	0
-peiriannau	machinery	0	0	1	0
-andwyol	adverse	0	0	1	0
-shorttoed	shorttoed	0	0	1	0
-dinistrio	destroyed	0	0	1	0
-dinistrio	dinistrio	0	0	1	0
-artist	artist	0	0	1	1
-roger	roger	0	0	1	0
-gwyddau	geese	0	0	1	0
-synhwyrydd	sensor	0	0	1	0
-cyffredin	common	0	0	1	1
-gorwedd	lying	0	0	1	0
-reoli	management	0	0	1	0
-anwybyddu	ignore	0	0	1	1
-dyddiaur	the days	0	0	1	0
-dyddiaur	days	0	0	1	0
-sylwodd	noticed	0	0	1	0
-rhywfaint	some	0	0	1	0
-penglog	mujahideen	1	0	1	0
-penglog	mujahids	1	0	1	0
-penglog	fighters	1	0	1	0
-penglog	skull	1	1	1	0
-ailddechreuodd	resumed	0	0	1	0
-mecca	mecca	0	0	1	0
-swyddog	officer	0	0	1	1
-cyfnod	period	0	0	1	1
-gynhwysai	included	0	0	1	0
-enwedig	particularly	0	0	1	0
-bosphorus	bosphorus	0	0	1	0
-un	one	0	0	1	1
-gymreig	welsh	0	0	1	0
-dosbarthur	issuing	0	0	1	0
-darlunio	drawing	0	0	1	0
-chyfnod	period	0	0	1	0
-bodoli	exist	0	0	1	1
-gwefan	website	0	0	1	0
-fynd	go	0	0	1	0
-lledred	latitude	0	0	1	1
-fyny	up	0	0	1	0
-clogwyni	cliffs	0	0	1	0
-cambriaidd	cambrian	0	0	1	0
-ffilmio	filming	0	0	1	0
-mendeleev	mendeleev	0	0	1	0
-coligny	coligny	0	0	1	0
-saethwyr	seathwyr	0	0	1	0
-saethwyr	shooters	0	0	1	0
-hibernica	hibernica	0	0	1	0
-organau	organs	0	0	1	0
-democrataidd	democratic	0	0	1	0
-saethwyd	shot	0	0	1	0
-rheolwr	manager	0	0	1	0
-mang	lang	0	0	1	0
-gwaddodion	sediment	0	0	1	0
-mann	mann	0	0	1	0
-cynnar	early	0	0	1	1
-cyflwyniad	presentation	0	0	1	1
-ffynhonnell	source	0	0	1	1
-seiliau	grounds	0	0	1	0
-analeiddio	canalisation	0	0	1	0
-rholyddion	rollers	0	0	1	0
-glân	bank	0	0	1	0
-ocwltiwr	ocwltiwr	0	0	1	0
-hanesyddol	historical	0	0	1	1
-twristiaeth	tourism	0	0	1	0
-cynnal	maintenance	0	0	1	0
-ganiatau	allow	0	0	1	0
-penodi	appointment	0	0	1	0
-bennaeth	head	0	0	1	0
-west	west	0	0	1	0
-hutton	hutton	0	0	1	0
-ffrindiau	friends	0	0	1	0
-gyfun	combined	0	0	1	0
-tirffurf	landform	0	0	1	0
-tomen	tip	0	0	1	0
-mekong	mekong	0	0	1	0
-rustica	rustica	0	0	1	0
-rustica	rustisa	0	0	1	0
-iŵl	julius	0	0	1	0
-chwiorydd	sisters	0	0	1	0
-berseg	berseg	0	0	1	0
-godro	milking	1	1	0	0
-stormydd	storms	0	0	1	0
-stormydd	stromydd	0	0	1	0
-orsafoedd	stations	0	0	1	0
-isabella	isabella	0	0	1	0
-fin	about	0	0	1	0
-fachgen	boy	0	0	1	0
-rhythmau	rhythms	0	0	1	0
-cnydau	crops	0	0	1	0
-gwm	gum	0	0	1	0
-ewropead	europeans	0	0	1	0
-wrthryfeloedd	uprisings	0	0	1	0
-pobl	people	0	0	1	1
-traethau	treathau	0	0	1	0
-traethau	beaches	0	0	1	0
-ive	ive	0	0	1	0
-ive	i've	0	0	1	0
-canlyniad	outcome	0	0	1	0
-beddargraff	beddaragraff	1	0	1	0
-beddargraff	best	1	0	1	0
-beddargraff	epitaph	1	1	0	1
-lladd	killed	0	0	1	0
-blas	taste	0	0	1	1
-blat	plate	0	0	1	0
-bros	bros	0	0	1	0
-ddarganfyddodd	discovered	0	0	1	0
-menywod	of women	0	0	1	0
-menywod	women	0	0	1	0
-adnewyddu	renewal	0	0	1	0
-microbau	microbes	0	0	1	0
-digon	enough	0	0	1	1
-meddyginiaeth	medication	0	0	1	0
-wilhelm	wilhelm	0	0	1	0
-otto	otto	0	0	1	0
-fformiwla	formula	0	0	1	0
-reolwyr	managers	0	0	1	0
-byddai	would	0	0	1	0
-ardea	ardea	0	0	1	0
-rêp	rapeseed	1	1	0	0
-ymerodraeth	empire	0	0	1	1
-gwr	husband	0	0	1	0
-lhdt	lgbt	0	0	1	0
-adnodd	resource	0	0	1	0
-nawfed	ninth	0	0	1	1
-pafiliwn	pavilion	0	0	1	1
-six	six	0	0	1	0
-granada	granada	0	0	1	0
-penseiri	architects	0	0	1	0
-halogenoalcan	haloalkane	1	1	0	0
-halogenoalcan	halogenalkane	1	0	1	0
-halogenoalcan	police	1	0	1	0
-halogenoalcan	halogenoalkanes	1	1	0	0
-halogenoalcan	halogens	1	0	1	0
-halogenoalcan	halogenoalcan	1	0	1	0
-halogenoalcan	soldier	1	0	1	0
-halogenoalcan	halogennoalcan	1	0	1	0
-halogenoalcan	halogenoalkane	1	0	1	0
-genir	born	0	0	1	0
-machen	machen	0	0	1	0
-ehangaf	widest	0	0	1	0
-thiriogaeth	territory	0	0	1	0
-grefyddol	religious	0	0	1	0
-gdp	gdp	0	0	1	0
-edwards	edwards	0	0	1	0
-gorffen	finish	0	0	1	1
-chwaer	sister	0	0	1	1
-poblogrwydd	popularity	0	0	1	1
-pwysicaf	most important	0	0	1	0
-slofeneg	slovenian	0	0	1	0
-modfedd	inches	0	0	1	0
-daeargryn	earthquake	0	0	1	1
-daeargryn	earthquake  earthquake  earthquake	0	0	1	0
-trosol	lever	1	1	0	1
-trosol	say	1	0	1	0
-trosol	said	1	0	1	0
-trosol	saying	1	0	1	0
-cyflwynydd	presenter	0	0	1	0
-fenni	abergavenny	0	0	1	0
-wahaniaethu	discrimination	0	0	1	0
-ddefnyddiau	materials	0	0	1	0
-henwau	names	0	0	1	0
-penfro	pembroke	0	0	1	1
-machynlleth	machynlleth	0	0	1	0
-clorin	chlorine	0	0	1	0
-geltiaid	celts	0	0	1	0
-ddefnyddiai	used by	0	0	1	0
-chyrraedd	reach	0	0	1	0
-wyddeleg	gaelic	0	0	1	0
-cynhaliodd	held	0	0	1	0
-gyfyngedig	limited	0	0	1	0
-gyfyngedig	qyfyngedig	0	0	1	0
-traffig	traffic	0	0	1	0
-neues	neues	0	0	1	0
-daro	hit	0	0	1	0
-darn	piece	0	0	1	1
-tywysogaeth	principality	0	0	1	1
-offerynnol	instrumental	0	0	1	1
-offerynnol	instrument	0	0	1	0
-gwael	poor	0	0	1	1
-coeden	tree	0	0	1	1
-niwed	damage	0	0	1	1
-ddawnsio	dance	0	0	1	0
-categorirhaglenni	category: programs	0	0	1	0
-categorirhaglenni	categorirhaglenni	0	0	1	0
-categorirhaglenni	categorihaglenni	0	0	1	0
-clan	clan	0	0	1	0
-deurywioldeb	bisexuality	0	0	1	0
-manaw	shearwater	0	0	1	0
-tsunami	tsunami	0	0	1	0
-grud	cradle	0	0	1	0
-grud	craddle	0	0	1	0
-grug	memmels	1	0	1	0
-grug	heather	1	1	0	1
-grug	mammals	1	0	1	0
-grug	erica	1	1	0	0
-amgylchynir	surrounded	0	0	1	0
-yeats	yeats	0	0	1	0
-caniatau	allows	0	0	1	0
-brith	flycatcher	0	0	1	0
-sylwr	sylwr	0	0	1	0
-barwn	barwn	0	0	1	0
-barwn	baron	0	0	1	1
-magma	magma	0	0	1	0
-sylwi	notice	0	0	1	1
-grus	trus	0	0	1	0
-tywodfaen	family name	1	0	1	0
-tywodfaen	sandstone	1	1	1	1
-tywodfaen	baghdad	1	0	1	0
-strindberg	strindberg	0	0	1	0
-gwladfeydd	settlements	0	0	1	0
-arlein	online	0	0	1	0
-tobago	togago	0	0	1	0
-tobago	tobago	0	0	1	0
-etholir	elected	0	0	1	0
-enwaur	enwaur	0	0	1	0
-codau	codes	0	0	1	0
-dda	well	0	0	1	0
-ystwyll	epiphany	0	0	1	1
-gorsaf	station	0	0	1	1
-dde	right	0	0	1	0
-ymaith	off	0	0	1	0
-vivian	vivian	0	0	1	0
-rheniwm	rhenium	1	1	0	0
-rheniwm	venue	1	0	1	0
-rheniwm	culture	1	0	1	0
-rheniwm	civilization	1	0	1	0
-rheniwm	tradition	1	0	1	0
-rheniwm	rheniwm	1	1	0	0
-euryn	euryn	0	0	1	0
-senedd	parliament	0	0	1	1
-jacksons	jacksons	0	0	1	0
-anaml	rarely	0	0	1	1
-bronnaun	bronnaun	0	0	1	0
-notoc	notoc	0	0	1	0
-gyffro	excitement	0	0	1	0
-stone	stone	0	0	1	0
-rhewlifoedd	glaciers	0	0	1	0
-hopkins	hopkins	0	0	1	0
-phriodweddau	properties	0	0	1	0
-industry	industry	0	0	1	0
-industry	industy	0	0	1	0
-cynrychiolaeth	representation	0	0	1	1
-side	side	0	0	1	0
-brofi	test	0	0	1	0
-etholaeth	constituency	0	0	1	1
-acw	there	0	0	1	1
-dinesig	choice	0	0	1	0
-dinesig	civic	0	0	1	1
-act	act	0	0	1	1
-bond	bond	0	0	1	0
-other	other	0	0	1	0
-fanwl	detail	0	0	1	0
-dannie	dannie	0	0	1	0
-goch	red	0	0	1	0
-siaradwr	speaker	0	0	1	1
-mewnfudwyr	immigrants	0	0	1	0
-mewnfudwyr	mewufudwyr	0	0	1	0
-seneddol	parliamentary	0	0	1	1
-leblanc	leblanc	0	0	1	0
-milltir	miles	0	0	1	0
-vaughan	vaughan	0	0	1	0
-het	hat	0	0	1	1
-her	challenge	0	0	1	1
-fywiog	active	0	0	1	0
-philadelphia	philadelphia	0	0	1	0
-ieir	chickens	0	0	1	0
-heb	without	0	0	1	1
-lleihau	reduce	0	0	1	0
-hel	gathering	0	0	1	0
-ngwleidyddiaeth	politics	0	0	1	0
-ngwleidyddiaeth	hgwleidyddiaeth	0	0	1	0
-hen	old	0	0	1	1
-allai	could	0	0	1	0
-ysgarthu	ysgarthu	1	0	1	0
-ysgarthu	commercialize	1	0	1	0
-ysgarthu	propagandism	1	0	1	0
-ysgarthu	excreted	1	0	1	0
-ysgarthu	excretion	1	1	0	0
-ysgarthu	spread	1	0	1	0
-resbiradu	respiration	0	0	1	0
-llain	plot	0	0	1	0
-asgell	wing	0	0	1	1
-mhatagonia	patagonia	0	0	1	0
-corvus	corvus	0	0	1	0
-treisgar	violent	0	0	1	0
-anadlu	breathing	0	0	1	0
-mwynfeydd	mines	0	0	1	0
-tensiynau	tensions	0	0	1	0
-with	with	0	0	1	0
-doeau	roofs	0	0	1	0
-rush	rush	0	0	1	0
-rhyddid	freedom	0	0	1	1
-categoriau	categories	0	0	1	0
-dyfed	dyfed	0	0	1	0
-acronym	acronym	0	0	1	0
-geir	cars	0	0	1	0
-dirty	dirty	0	0	1	0
-tynnu	draw	0	0	1	1
-hydroniwm	hydroniwm	0	0	1	0
-hydroniwm	hydronium	0	0	1	0
-gone	gone	0	0	1	0
-ac	and	0	0	1	0
-ab	and	0	0	1	0
-ab	and b	0	0	1	0
-deferens	deferens	0	0	1	0
-ad	ad	0	0	1	0
-johnny	johnny	0	0	1	0
-af	st	0	0	1	0
-ai	or	0	0	1	1
-am	for	0	0	1	0
-al	al	0	0	1	0
-an	an	0	0	1	0
-aq	aq	0	0	1	0
-aq	and q	0	0	1	0
-ap	ap	0	0	1	0
-as	mp	0	0	1	0
-ar	on	0	0	1	1
-au	s	0	0	1	0
-at	to	0	0	1	1
-at	at	0	0	1	1
-cread	creation	0	0	1	1
-trefaldwyn	montgomery	0	0	1	1
-lledaenu	spread	0	0	1	1
-dywysogaeth	principality	0	0	1	0
-aromatig	aromatic	0	0	1	0
-hydred	longitude	0	0	1	1
-chanolbarth	central	0	0	1	0
-categoricyfraith	categoricyfraith	0	0	1	0
-categoriarlywyddion	categoriarlywyddion	0	0	1	0
-milvius	milvius	0	0	1	0
-sanctaidd	holy	0	0	1	1
-gwahanol	different	0	0	1	1
-aerodynameg	jillani	1	0	1	0
-aerodynameg	aerodynamics	1	1	0	0
-tŵr	tower	0	0	1	0
-yrfa	career	0	0	1	0
-alban	scotland	0	0	1	0
-bronnau	breasts	0	0	1	0
-categorirhyngrwyd	categorirhyngrwyd	0	0	1	0
-terry	terry	0	0	1	0
-tŵf	growth	0	0	1	0
-llenorion	writers	0	0	1	0
-dadleuodd	argued	0	0	1	0
-adar	birds	0	0	1	0
-oprah	oprah	0	0	1	0
-cardell	mardell	0	0	1	0
-feirdd	poets	0	0	1	0
-nelson	nelson	0	0	1	0
-original	original	0	0	1	0
-sacsoniaid	saxon	0	0	1	0
-goleg	college	0	0	1	0
-gysyniadau	concepts	0	0	1	0
-cysylltu	link	0	0	1	0
-degau	tens	0	0	1	0
-della	della	0	0	1	0
-ffyrdd	ways	0	0	1	0
-deheubarth	southern	0	0	1	0
-nentydd	streams	0	0	1	0
-tt	tt	0	0	1	0
-tt	pp.	0	0	1	0
-tu	out	0	0	1	0
-tair	three	0	0	1	0
-to	to	0	0	1	0
-th	th	0	0	1	0
-ti	you	0	0	1	1
-te	tea	0	0	1	1
-ghana	ghana	0	0	1	0
-khmer	khmer	0	0	1	0
-cerrynt	currents	0	0	1	0
-px|ewin	px | cloves	0	0	1	0
-cerdd	music	0	0	1	1
-palesteinaidd	palestinian	0	0	1	0
-datblygu	development	0	0	1	0
-hudol	magical	0	0	1	0
-bwynt	point	0	0	1	0
-sant	saint	0	0	1	1
-gyfnod	period	0	0	1	0
-drigolion	residents	0	0	1	0
-ypres	ypres	0	0	1	0
-large	large	0	0	1	0
-sand	sand	0	0	1	0
-harry	harry	0	0	1	0
-ysgubol	great	0	0	1	0
-flynedd	years	0	0	1	0
-gwobr	award	0	0	1	0
-pyllau	ponds	0	0	1	0
-adeiladwyd	built	0	0	1	0
-ffrwythlondeb	fertility	0	0	1	1
-samoa	samoa	0	0	1	0
-pwyl	poland	0	0	1	1
-dulyn	dublin	0	0	1	1
-dinesydd	citizen	0	0	1	1
-tú	out	0	0	1	0
-mhrifysgol	university	0	0	1	0
-section	section	0	0	1	0
-celts	celts	0	0	1	0
-lein	online	0	0	1	0
-awdures	author	0	0	1	0
-ymgyrchu	campaign	0	0	1	0
-full	full	0	0	1	0
-genhedloedd	nations	0	0	1	0
-esgidiau	shoes	0	0	1	0
-gregory	gregory	0	0	1	0
-gweriniaethwyr	republicans	0	0	1	0
-rhannun	split into	0	0	1	0
-anfetel	non-metal	1	1	0	0
-anfetel	non metal	1	1	0	0
-anfetel	nonmetal	1	1	0	0
-anfetel	non- metal	1	0	1	0
-anfetel	category: islamic	1	0	1	0
-rhannur	sharing	0	0	1	0
-llydewig	breton	0	0	1	0
-priod	spouse	0	0	1	1
-biliwn	billion	0	0	1	0
-alecsandraidd	alexandrian	0	0	1	0
-nantlle	nantlle	0	0	1	0
-nantlle	nantle	0	0	1	0
-vii	vii	0	0	1	0
-cân	can	0	0	1	0
-cwmpas	scope	0	0	1	0
-hefyd	also	0	0	1	1
-oddiwrth	from	0	0	1	0
-hyfryd	lovely	0	0	1	0
-tŷ	house	0	0	1	0
-rhes	row	0	0	1	1
-rhew	ice	0	0	1	1
-ynysig	isolated	0	0	1	0
-gernyw	cornwall	0	0	1	0
-sassoon	sassoon	0	0	1	0
-manaweg	manx	0	0	1	0
-chyda	with	0	0	1	1
-rhed	runs	0	0	1	0
-more	more	0	0	1	0
-mewnol	internal	0	0	1	1
-gwestai	hotels	0	0	1	0
-asgwrn	bone	0	0	1	1
-fynyddoedd	mountains	0	0	1	0
-rhifau	numbers	0	0	1	0
-cyfundrefnau	systems	0	0	1	0
-grefyddau	religions	0	0	1	0
-grefyddau	faith	0	0	1	0
-company	company	0	0	1	0
-lenorion	writers	0	0	1	0
-hyfforddiant	training	0	0	1	1
-chadwyd	retained	0	0	1	0
-enciliodd	deserted	0	0	1	0
-cryfder	strength	0	0	1	1
-fychan	small	0	0	1	0
-bolisi	policy	0	0	1	0
-malu	grinding	0	0	1	0
-patriarch	patriarch	0	0	1	1
-llenyddol	literary	0	0	1	1
-galatiaid	galatians	0	0	1	0
-fynwy	monmouth	0	0	1	0
-leoli	located	0	0	1	0
-nulyn	dublin	0	0	1	0
-morgan	morgan	0	0	1	0
-mali	mali	0	0	1	0
-abrahamig	abrahamic	0	0	1	0
-gwynfryn	gwynfryn	0	0	1	0
-rygbir	rygbir	0	0	1	0
-ryfel	war	0	0	1	0
-stated	stated	0	0	1	0
-staten	staten	0	0	1	0
-tiwbiau	tubes	0	0	1	0
-droed	foot	0	0	1	0
-states	states	0	0	1	0
-lesotho	lesotho	0	0	1	0
-diwyllianol	cultural	0	0	1	0
-bethania	bethania	0	0	1	0
-eurben	goldcrest	0	0	1	0
-bwrw	cast	0	0	1	1
-cyfansoddwr	composer	0	0	1	1
-eifionydd	eifionydd	0	0	1	0
-hugh	hugh	0	0	1	0
-gynyddu	increase	0	0	1	0
-wledig	rural	0	0	1	0
-gweddill	the rest	0	0	1	0
-plant	children	0	0	1	0
-theodosius	theodosius	0	0	1	0
-ofal	care	0	0	1	0
-nishitokyo	rishi-tokyo	0	0	1	0
-nishitokyo	nishitokyo	0	0	1	0
-categoriawdurdodau	categoriawdurdodau	0	0	1	0
-gorfodir	forced	0	0	1	0
-não	no	0	0	1	0
-stiwdio	studio	0	0	1	0
-mendel	mendel	0	0	1	0
-ransh	ranch	0	0	1	0
-lanka	lanka	0	0	1	0
-seremonïau	ceremonies	0	0	1	0
-prosiect	project	0	0	1	1
-cystadleuwyr	competitors	0	0	1	0
-jiang	jiang	0	0	1	0
-gysylltiad	connection	0	0	1	0
-sôn	mention	0	0	1	0
-gweithrediad	operation	0	0	1	1
-broadcasting	broadcasting	0	0	1	0
-ymweld	visit	0	0	1	1
-media	media	0	0	1	0
-etifedd	heir	0	0	1	1
-ferch	daughter	0	0	1	0
-dywysog	prince	0	0	1	0
-tolstoy	tolstoy	0	0	1	0
-bris	price	0	0	1	0
-niwtronau	neutrons	0	0	1	0
-enwyd	named	0	0	1	0
-siberian	siberian	0	0	1	0
-olynu	successor	0	0	1	0
-scots	scots	0	0	1	0
-scott	scott	0	0	1	0
-reilffordd	railway	0	0	1	0
-reilffordd	railroad	0	0	1	0
-broadway	broadway	0	0	1	0
-neddwyrain	south-east	0	0	1	0
-brig	top	0	0	1	1
-its	-its	0	0	1	0
-theithio	travel	0	0	1	0
-brid	breed	0	0	1	1
-brid	bird	0	0	1	0
-groegiaid	greeks	0	0	1	0
-anelid	annelid	1	1	0	0
-anelid	nicker	1	0	1	0
-anelid	being aimed	1	0	1	0
-anelid	complete	1	0	1	0
-gerald	gerald	0	0	1	0
-xiaoping	xiaoping	0	0	1	0
-fangor	bangor	0	0	1	0
-fangor	wattle	0	0	1	0
-allu	can	0	0	1	0
-allt	hill	0	0	1	1
-alshifa	alshifa	0	0	1	0
-isaac	isaac	0	0	1	0
-ddraig	dragon	0	0	1	0
-fynyr	gynyr	0	0	1	0
-peiriannydd	engineer	0	0	1	1
-ysgolhaig	scholar	0	0	1	1
-cambriae	cambriae	0	0	1	0
-categorimarwolaethau	categorimarwolaethau	0	0	1	0
-myfyrwyr	students	0	0	1	0
-magic	magic	0	0	1	0
-dwysedd	catch	1	0	1	0
-dwysedd	density	1	1	1	0
-cambrian	cambrian	0	0	1	0
-addewid	promise	0	0	1	1
-gwfennau	gwfennau	0	0	1	0
-genom	genome	0	0	1	0
-genoa	genoa	0	0	1	0
-chyfiawnder	justice	0	0	1	0
-symudwyd	moved	0	0	1	0
-england	england	0	0	1	0
-gwrtheyrn	gwrtheyrn	0	0	1	0
-osaka	osaka	0	0	1	0
-ddisgyn	fall	0	0	1	0
-eto	again	0	0	1	1
-cannoedd	hundreds	0	0	1	0
-blues	blues	0	0	1	0
-wrtho	him	0	0	1	0
-wrthi	her	0	0	1	0
-really	really	0	0	1	0
-cynhaliwyd	a	0	0	1	0
-adeiledd	structure	0	0	1	0
-ysgrifenwyd	written	0	0	1	0
-sebon	soap	0	0	1	1
-meirw	dead	0	0	1	0
-ecwilibriwm	equilibrium	0	0	1	0
-ffrwd	stream	0	0	1	1
-llynges	navy	0	0	1	1
-arolwg	survey	0	0	1	1
-twyni	dunes	0	0	1	0
-darganfod	draganfod	0	0	1	0
-sgiwen	skewen	0	0	1	0
-ddiflannu	disappear	0	0	1	0
-ffafriol	favorable	0	0	1	1
-chyfathrach	affinity	0	0	1	0
-daearegwyr	geogolists	0	0	1	0
-daearegwyr	geologists	0	0	1	0
-pwysau	weight	0	0	1	1
-gelwid	called	0	0	1	0
-hymarferiadau	exercises	0	0	1	0
-defnyddiwr	user	0	0	1	1
-llethrau	slopes	0	0	1	0
-gyfrol	volume	0	0	1	0
-gelwir	called	0	0	1	0
-gelwir	you call	0	0	1	0
-rhyngrwyd	internet	0	0	1	0
-w	w	0	0	1	0
-testament	testament	0	0	1	1
-major	major	0	0	1	0
-grwn	round	0	0	1	0
-number	number	0	0	1	0
-pleidiau	parties	0	0	1	0
-grwp	group	0	0	1	0
-croesbig	crossbill	0	0	1	0
-hafau	summers	0	0	1	0
-guest	guest	0	0	1	0
-llwyddiannus	successful	0	0	1	1
-amaethwyr	farmers	0	0	1	0
-saint	saints	0	0	1	0
-ynghŷd	and	0	0	1	0
-ynghŷd	together	0	0	1	0
-cŵn	dogs	0	0	1	0
-esbonio	explain	0	0	1	1
-englyn	englyn	0	0	1	0
-nododd	noted	0	0	1	0
-régions	regions	0	0	1	0
-zeppelin	zeppelin	0	0	1	0
-chânt	hundred	0	0	1	0
-oresgyn	overcome	0	0	1	0
-gwrthrychau	objects	0	0	1	0
-grace	grace	0	0	1	0
-obama	obama	0	0	1	0
-siopau	shops	0	0	1	0
-sansgrit	sanskrit	0	0	1	0
-siân	sian	0	0	1	0
-siân	siân	0	0	1	0
-mlynyddoedd	years	0	0	1	0
-ffurfiwyd	formed	0	0	1	0
-mynyddig	mountainous	0	0	1	1
-garnedd	cairn	0	0	1	0
-geirfa	vocabulary	0	0	1	1
-wrachod	witches	0	0	1	0
-rhaglen	program	0	0	1	1
-wrthwynebiad	wthwynebiad	0	0	1	0
-wrthwynebiad	objection land	0	0	1	0
-caewyd	closed	0	0	1	0
-diriogaethau	territories	0	0	1	0
-paleontoleg	palaeontology	0	0	1	0
-antarctica	antarctica	0	0	1	0
-ffoaduriaid	refugees	0	0	1	0
-luzon	luzon	0	0	1	0
-canlynol	following	0	0	1	1
-ymestynnodd	extended	0	0	1	0
-dodiad	made	1	0	1	0
-dodiad	make	1	0	1	0
-dodiad	affix	1	1	0	0
-dodiad	tradition	1	0	1	0
-dodiad	and tradition	1	0	1	0
-dodiad	tradition of	1	0	1	0
-dodiad	andtradition	1	0	1	0
-weithior	weithior	0	0	1	0
-nicaea	nicaea	0	0	1	0
-also	also	0	0	1	0
-gwerthodd	sold	0	0	1	0
-estynedig	extended	0	0	1	0
-orfodi	enforce	0	0	1	0
-ddwyreiniol	eastern	0	0	1	0
-ffermydd	farms	0	0	1	0
-gwactod	vacuum	0	0	1	0
-plas	mansion	0	0	1	1
-edison	edison	0	0	1	0
-arferiad	practice	0	0	1	1
-arferiad	custom	0	0	1	1
-plat	plate	0	0	1	0
-gymdeithaswyr	socialisers	0	0	1	0
-dosbarthiad	distribution	0	0	1	1
-dysgeidiaeth	teachings	0	0	1	0
-ryfeloedd	wars	0	0	1	0
-rwystro	prevent	0	0	1	0
-coblyn	leprechaun	0	0	1	0
-henson	henson	0	0	1	0
-trefedigaeth	colony	0	0	1	1
-â	a	0	0	1	0
-â	and	0	0	1	0
-dedfrydwyd	sentenced	0	0	1	0
-cover	cover	0	0	1	0
-gwerni	alder	0	0	1	0
-artistig	artistic	0	0	1	1
-aiguille	aiguille	0	0	1	0
-awdurdodau	authorities	0	0	1	0
-anton	anton	0	0	1	0
-seismoleg	seismoleg	0	0	1	0
-seismoleg	seismology	0	0	1	0
-gabe	gabe	0	0	1	0
-microsoft	microsoft	0	0	1	0
-grefft	craft	0	0	1	0
-cymar	mate	0	0	1	0
-goresgyn	overcome	0	0	1	0
-archoffeiriades	archoffeiriades	0	0	1	0
-roddodd	who	0	0	1	0
-goll	missing	0	0	1	0
-follett	follett	0	0	1	0
-ieithyddiaeth	linguistics	0	0	1	1
-twll	hole	1	1	1	1
-daearyddwyr	geographers	0	0	1	0
-nain	grandmother	0	0	1	1
-symffoni	symphony	0	0	1	0
-carpathia	carpathia	0	0	1	0
-diwylliant	culture	0	0	1	1
-porwr	browser	0	0	1	0
-bernstein	bernstein	0	0	1	0
-buddugoliaeth	victory	0	0	1	1
-buddugoliaeth	triumph	0	0	1	0
-novial	novial	0	0	1	0
-pavarotti	pavarotti	0	0	1	0
-ystadegau	statistics	0	0	1	1
-wnaed	made	0	0	1	0
-ddaear	ground	0	0	1	0
-gwallt	hair	0	0	1	1
-gwallt	walt	0	0	1	0
-pontydd	bridges	0	0	1	0
-pontydd	ponty	0	0	1	0
-sunni	sunni	0	0	1	0
-gwahanir	separated	0	0	1	0
-diogelwch	safety	0	0	1	1
-tudful	tydfil	0	0	1	0
-grønland	grondland	0	0	1	0
-grønland	gronland	0	0	1	0
-cry	cry	0	0	1	0
-croatia	croatia	0	0	1	0
-gweithio	work	0	0	1	1
-ymfudodd	emigrated	0	0	1	0
-river	river	0	0	1	0
-symptomau	symptoms	0	0	1	0
-set	set	0	0	1	1
-jade	jade	0	0	1	0
-enaid	soul	0	0	1	1
-isgoch	infra red	0	0	1	0
-isgoch	infrared	0	0	1	0
-saxicola	saxicola	0	0	1	0
-ddefodau	rituals	0	0	1	0
-sea	sea	0	0	1	0
-cyfrol	volume	0	0	1	1
-nations	nations	0	0	1	0
-ddeddfwriaeth	legislation	0	0	1	0
-analog	analogue	0	0	1	0
-darparwyd	provided	0	0	1	0
-penbedw	birkenhead	0	0	1	0
-ymgartrefu	settle	0	0	1	0
-guinea	guinea	0	0	1	0
-guinea	guiena	0	0	1	0
-maswr	fly-half	0	0	1	0
-bysantaidd	byzantine	0	0	1	0
-llythyr	letter	0	0	1	1
-colwyn	colwyn	0	0	1	0
-cerddorol	musical	0	0	1	1
-canolwr	referee	0	0	1	0
-wasgar	scattered	0	0	1	0
-fwynhau	enjoy	0	0	1	0
-available	gael	0	0	1	0
-daethant	they came	0	0	1	0
-europa	europa	0	0	1	0
-pumed	fifth	0	0	1	1
-llydandroed	llydandroed	0	0	1	0
-siglen	swamp	0	0	1	1
-canran	percentage	0	0	1	0
-adnabyddus	known	0	0	1	0
-last	last	0	0	1	0
-tybiedig	perceived	0	0	1	0
-dyffrynoedd	valleys	0	0	1	0
-毛澤東	?	0	0	1	0
-teuluoedd	families	0	0	1	0
-cyngherddau	concerts	0	0	1	0
-cynhanes	prehistory	0	0	1	0
-pdf	pdf	0	0	1	0
-bysantiaid	bysantiaid	0	0	1	0
-whole	whole	0	0	1	0
-beli	balls	0	0	1	0
-amdano	about	0	0	1	0
-argae	dam	0	0	1	1
-dysprosiwm	dysprosium	1	1	0	0
-dysprosiwm	first	1	0	1	0
-dysprosiwm	dysprosiwm	1	1	0	0
-belg	belgium	0	0	1	0
-llun	photo	0	0	1	0
-defnyddior	uses the	0	0	1	0
-llus	sihor	1	0	1	0
-llus	blueberries	1	1	0	0
-llus	blue berries	1	1	0	0
-llus	ahsani	1	0	1	0
-llus	bilberry	1	1	0	0
-fethan	methane	0	0	1	0
-defnyddion	used the	0	0	1	0
-hollol	completely	0	0	1	0
-church	church	0	0	1	0
-mwynol	gaseous	0	0	1	0
-mwynol	mineral	0	0	1	0
-datganiad	statement	0	0	1	0
-rhoddodd	he	0	0	1	0
-rhoddodd	gave	0	0	1	0
-cymhariaeth	comparison	0	0	1	1
-seithfed	seventh	0	0	1	1
-tafodieithol	dialect	0	0	1	0
-sizwe	sizwe	0	0	1	0
-dyfyniadau	quotes	0	0	1	0
-nrk	nrk	0	0	1	0
-ddefod	ritual	0	0	1	0
-iddi	it	0	0	1	0
-genws	genus	0	0	1	0
-fire	fire	0	0	1	0
-gytuno	agree	0	0	1	0
-wheeler	wheeler	0	0	1	0
-bapurau	papers	0	0	1	0
-microorganebau	microorganebau	0	0	1	0
-microorganebau	micro- organisms	0	0	1	0
-ganlyn	follows	0	0	1	0
-fritz	fritz	0	0	1	0
-gyferbyniol	contrasting	0	0	1	0
-benthyciadau	loans	0	0	1	0
-funk	funk	0	0	1	0
-ysblander	splendor	0	0	1	1
-athrylith	genius	0	0	1	1
-zenobia	zenobia	0	0	1	0
-effeithiolrwydd	effectiveness	0	0	1	0
-prinder	shortage	0	0	1	0
-portreadau	portraits	0	0	1	0
-formats	formats	0	0	1	0
-ymosodol	aggressive	0	0	1	1
-mlwydd	years	0	0	1	0
-cwbl	all	0	0	1	1
-sabha	sabha	0	0	1	0
-ladd	killing	0	0	1	0
-prifddinasoedd	capitalcities	0	0	1	0
-prifddinasoedd	capital cities	0	0	1	0
-gwilliam	gwilliam	0	0	1	0
-von	von	0	0	1	0
-owen	owen	0	0	1	0
-diweddaraf	update	0	0	1	0
-agweddau	aspects	0	0	1	0
-egnir	born	0	0	1	0
-egnir	egnir	0	0	1	0
-pholisïau	policies	0	0	1	0
-hwyaden	duck	0	0	1	0
-aml	often	0	0	1	1
-siciaeth	sikhism	0	0	1	0
-gallodd	was able	0	0	1	0
-bethesda	bethesda	0	0	1	0
-isranbarth	sub-region	0	0	1	0
-ddiffiniadau	definitions	0	0	1	0
-caeedig	closed	0	0	1	0
-caer	fort	0	0	1	0
-cyfarthrebu	communication	0	0	1	0
-wahanol	different	0	0	1	0
-wahanol	translate from: indonesian different	0	0	1	0
-tsieineaidd	tsieineaidd	0	0	1	0
-categorisafleoedd	categorisafleoedd	0	0	1	0
-mharis	paris	0	0	1	0
-cael	have	0	0	1	1
-fuddugol	winning	0	0	1	0
-penybont	bridgend	0	0	1	0
-actorion	actors	0	0	1	0
-suddo	sinking	0	0	1	0
-dysgwyr	learners	0	0	1	0
-cadwynau	chains	0	0	1	0
-thair	three	0	0	1	0
-elen	elen	0	0	1	0
-pynciau	subjects	0	0	1	0
-person	person	0	0	1	1
-mulfran	cormorant	0	0	1	1
-canrifoedd	centuries	0	0	1	0
-kelly	kelly	0	0	1	0
-thaid	grandfather	0	0	1	0
-banerir	banerir	0	0	1	0
-leone	leone	0	0	1	0
-olynwyr	successors	0	0	1	0
-salve	salve	0	0	1	0
-chymreig	chymreig	0	0	1	0
-benderfynol	determined	0	0	1	0
-targedau	targets	0	0	1	0
-olynwyd	succeeded	0	0	1	0
-boed	whether	0	0	1	0
-boed	loeb	0	0	1	0
-talfan	talfan	0	0	1	0
-rhywioldeb	sexuality	0	0	1	0
-nheyrnasiad	reign	0	0	1	0
-anafu	injured	0	0	1	0
-awstralaidd	australian	0	0	1	0
-andorra	andorra	0	0	1	0
-mandad	mandate	0	0	1	0
-berfformiadau	performances	0	0	1	0
-location	location	0	0	1	0
-cherddi	poems	0	0	1	0
-alltudiaeth	exile	0	0	1	1
-input	input	0	0	1	0
-huey	huey	0	0	1	0
-mathemategydd	mathematician	0	0	1	0
-australia	australia	0	0	1	0
-ddeuddeg	twelve	0	0	1	0
-format	format	0	0	1	0
-cordog		1	0	1	0
-cordog	sketches	1	0	1	0
-cordog	sketch	1	0	1	0
-cordog	cordog	1	0	1	0
-cordog	chordate	1	1	0	0
-cordog	cordogion	1	0	1	0
-wasgedd	pressure	0	0	1	0
-wives	wives	0	0	1	0
-symuda	moves	0	0	1	0
-symuda	translate from: swedish moves	0	0	1	0
-lanio	landing	0	0	1	0
-bó	as	0	0	1	0
-gwenllian	gwenllian	0	0	1	0
-falcon	falcon	0	0	1	0
-nicholls	nichollas	0	0	1	0
-nicholls	nicholls	0	0	1	0
-dteach	cartref	0	0	1	0
-dteach	dteach	0	0	1	0
-chekhov	chekhov	0	0	1	0
-d	d	0	0	1	0
-arddangosir	displayed	0	0	1	0
-gaiman	gaimen	0	0	1	0
-gaiman	gaiman	0	0	1	0
-alexandra	alexandra	0	0	1	0
-lenin	lenin	0	0	1	0
-dilledyn	garment	0	0	1	1
-boced	pocket	0	0	1	0
-spring	spring	0	0	1	0
-roedd	was	0	0	1	0
-dinorwig	dinorwig	0	0	1	0
-pererindod	pilgrimage	0	0	1	1
-methodd	failed	0	0	1	0
-sampl	sample	0	0	1	0
-dechrau	start	0	0	1	0
-weithred	action	0	0	1	0
-ghazni	ghazni	0	0	1	0
-teyrnged	tribute	0	0	1	0
-seiliwyd	based	0	0	1	0
-moleciwl	molecule	0	0	1	0
-cellbilen	cell membrane	0	0	1	0
-buckland	buckland	0	0	1	0
-eang	wide	0	0	1	1
-département	departement	0	0	1	0
-département	department	0	0	1	0
-tène	gene	0	0	1	0
-tène	tène	0	0	1	0
-gyngres	congress	0	0	1	0
-be	what	0	0	1	0
-rhain	these	0	0	1	1
-wledydd	countries	0	0	1	0
-ba	what	0	0	1	0
-bb	bb	0	0	1	0
-rhaid	have	0	0	1	0
-bo	as	0	0	1	0
-bi	bi	0	0	1	0
-gwneir	is	0	0	1	0
-chanol	center	0	0	1	0
-bt	bt	0	0	1	0
-arferai	used	0	0	1	0
-ffynnu	thrive	0	0	1	1
-santa	santa	0	0	1	0
-carol	carol	0	0	1	1
-victoria	victoria	0	0	1	0
-by	by	0	0	1	0
-tommy	tommy	0	0	1	0
-cyfeilio	accompanied	0	0	1	0
-agosach	closer	0	0	1	0
-anything	anything	0	0	1	0
-arwynebeddkm²	km area	0	0	1	0
-arwynebeddkm²	area (kilometers) sqaure	0	0	1	0
-ffisegol	physical	0	0	1	0
-melbourne	melbourne	0	0	1	0
-parciau	parks	0	0	1	0
-siasbar	jasper	0	0	1	0
-clinton	clinton	0	0	1	0
-cytundeb	agreement	0	0	1	1
-treulio	spend	0	0	1	1
-into	into	0	0	1	0
-adnod	verse	0	0	1	1
-aflwyddiannus	unsuccessful	0	0	1	1
-ymerodraethol	imperial	0	0	1	0
-ymosododd	attacked	0	0	1	0
-egwyddor	principle	0	0	1	1
-ysbyty	hospital	0	0	1	1
-ffranciaid	franks	0	0	1	0
-marie	marie	0	0	1	0
-ddifrifol	serious	0	0	1	0
-spam	spam	0	0	1	0
-ddylid	be	0	0	1	0
-ddylid	should	0	0	1	0
-categoribioleg	categoribioleg	0	0	1	0
-categoribioleg	biology category	0	0	1	0
-conwy	conwy	0	0	1	0
-profion	tests	0	0	1	0
-profion	mains	0	0	1	0
-ptolemi	ptolemy	0	0	1	0
-danddaearol	underground	0	0	1	0
-fewnfudwyr	immigrants	0	0	1	0
-somme	somme	0	0	1	0
-naturol	a natural	0	0	1	0
-wrethra	urethra	0	0	1	0
-ffosffad	phosphate	0	0	1	0
-batagonia	patagonia	0	0	1	0
-llengoedd	legions	0	0	1	0
-atom	us	0	0	1	0
-atom	atom	0	0	1	1
-gylchdro	rotation	0	0	1	0
-fudiad	organization	0	0	1	0
-heinrich	heinrich	0	0	1	0
-ministerio	ministerio	0	0	1	0
-cib	hull	0	0	1	0
-cia	cia	0	0	1	0
-cig	meat	0	0	1	1
-erich	erich	0	0	1	0
-podiceps	podiceps	0	0	1	0
-pwerus	powerful	0	0	1	1
-up	up	0	0	1	0
-us	us	0	0	1	0
-ur	ur	0	0	1	0
-morocco	morocco	0	0	1	0
-dwyieithog	bilingual	0	0	1	1
-uk	uk	0	0	1	0
-peryglus	dangerous	0	0	1	1
-ue	ue	0	0	1	0
-marseille	marseille	0	0	1	0
-uc	to t	0	0	1	0
-bawd|chwith|y	thumb | left | the	0	0	1	0
-ddisodli	replaced	0	0	1	0
-olynol	consecutive	0	0	1	1
-m	m	0	0	1	0
-chan	by	0	0	1	0
-chao	chao	0	0	1	0
-ehangwyd	expanded	0	0	1	0
-llyn	lake	0	0	1	1
-dywedodd	said	0	0	1	0
-tystiolaeth	evidence	0	0	1	1
-enwogion	celebrities	0	0	1	0
-simneiau	chimneys	0	0	1	0
-esblygu	evolve	0	0	1	0
-orlawn	overcrowded	0	0	1	0
-ofynnodd	asked	0	0	1	0
-dirwasgiad	recession	0	0	1	0
-lucia	lucia	0	0	1	0
-gwellodd	improved	0	0	1	0
-lang	lang	0	0	1	0
-slofenia	slovenia	0	0	1	0
-land	land	0	0	1	0
-frest	chest	0	0	1	0
-gwnaed	was	0	0	1	0
-parcio	parking	0	0	1	0
-cwta	just	0	0	1	0
-hadau	seeds	0	0	1	0
-diplomyddol	diplomatic	0	0	1	0
-cymhlyg	complex	0	0	1	0
-gwagolyn	vacuole	0	0	1	0
-copaon	peaks	0	0	1	0
-copaon	peak	0	0	1	0
-neilltuo	assigned	0	0	1	0
-duwiesau	goddesses	0	0	1	0
-amddiffyn	protection	0	0	1	0
-maastricht	maastricht	0	0	1	0
-caeredin	edinburgh	0	0	1	1
-sancsiynau	sanctions	0	0	1	0
-gynharaf	the earliest	0	0	1	0
-gynharaf	gynharaf	0	0	1	0
-parhad	continued	0	0	1	0
-ddigwyddiadau	events	0	0	1	0
-gwahaniaethau	differences	0	0	1	0
-furiau	walls	0	0	1	0
-young	ifanc	0	0	1	0
-young	young	0	0	1	0
-parhau	continue	0	0	1	0
-rygbi	rugby	1	1	1	0
-scarlets	scarlets	0	0	1	0
-garden	car	0	0	1	0
-garden	card	0	0	1	0
-teresa	teresa	0	0	1	0
-categorieg	categorieg	0	0	1	0
-arferion	practices	0	0	1	0
-dyfeisio	devise	0	0	1	1
-trosiannol	transitional	0	0	1	0
-cysylltiedig	cysylllltiedig	0	0	1	0
-cysylltiedig	related	0	0	1	0
-cefnogir	supported	0	0	1	0
-tri	three	0	0	1	1
-drwg	bad	0	0	1	1
-tro	time	0	0	1	1
-taith	trip	0	0	1	0
-tra	while	0	0	1	1
-eva	eva	0	0	1	0
-f	f	0	0	1	0
-eve	eve	0	0	1	0
-drwm	heavy	1	0	1	0
-drwm		1	0	1	0
-drwm	drum	1	1	0	0
-drwm	peshkash	1	0	1	0
-drwm	offer	1	0	1	0
-drwm	round	1	1	0	0
-ieithyddion	linguists	0	0	1	0
-drws	door	0	0	1	1
-this	this	0	0	1	0
-ddarlledu	broadcasting	0	0	1	0
-categorigweithredwyr	categorigweithredwyr	0	0	1	0
-drwy	by	0	0	1	0
-leonardo	leonardo	0	0	1	0
-mahler	mahler	0	0	1	0
-caergybi	holyhead	0	0	1	1
-dirwyn	winding	0	0	1	0
-ulster	ulster	0	0	1	0
-cocteau	cocteau	0	0	1	0
-natur	nature	0	0	1	1
-rhesymau	reasons	0	0	1	0
-anhrefn	disorder	0	0	1	1
-video	video	0	0	1	0
-gwaelodol	underlying	0	0	1	0
-trwchus	thick	0	0	1	1
-orwedd	lie	0	0	1	0
-victor	victor	0	0	1	0
-gorllewin	west	0	0	1	1
-areola	areola	0	0	1	0
-ostrogothiaid	ostrogothiaid	0	0	1	0
-funud	minute	0	0	1	0
-indian	indian	0	0	1	0
-gwareiddiadau	civilizations	0	0	1	0
-iddor	riddor	0	0	1	0
-euog	guilty	0	0	1	1
-rhagflaenydd	predecessor	0	0	1	1
-llenwir	filled	0	0	1	0
-led	width	0	0	1	0
-lee	lee	0	0	1	0
-arweinydd	leader	0	0	1	1
-cyfaint	volume	0	0	1	0
-leo	leo	0	0	1	0
-gysegredig	sacred	0	0	1	0
-les	welfare	0	0	1	0
-phleidlais	vote	0	0	1	0
-lev	lev	0	0	1	0
-ennill	win	0	0	1	1
-gweinidogion	ministers	0	0	1	0
-goleuni	light	0	0	1	1
-great	great	0	0	1	0
-ddefnyddir	used	0	0	1	0
-pentraeth	pentraeth	0	0	1	0
-arddangos	display	0	0	1	0
-mehmed	mehmed	0	0	1	0
-proffwyd	prophet	0	0	1	1
-unigrwydd	loneliness	0	0	1	1
-mawr	large	0	0	1	1
-herodotus	herodotus	0	0	1	0
-halbwm	album	0	0	1	0
-thats	thats	0	0	1	0
-phocaena	phocaena	0	0	1	0
-firefox	firefox	0	0	1	0
-rhuddlan	rhuddlan	0	0	1	0
-strabo	strabo	0	0	1	0
-gregor	gregor	0	0	1	0
-dadleoledig	displaced	0	0	1	0
-tanddaearol	underground	0	0	1	1
-safle	site	0	0	1	0
-next	next	0	0	1	0
-mynci	mynci	0	0	1	0
-llangefni	llangefni	0	0	1	0
-pawb	everyone	0	0	1	1
-gyflym	quickly	0	0	1	0
-hugain	twenty	0	0	1	0
-pepsin	pepsin	0	0	1	0
-gwyddelod	irish	0	0	1	0
-bryderon	concerns	0	0	1	0
-hoywon	gays	0	0	1	0
-high	high	0	0	1	0
-hynafiaethwyr	antiquarians	0	0	1	0
-parotiaid	parrots	0	0	1	0
-thir	land	0	0	1	0
-challenge	challenge	0	0	1	0
-torchog	coiled	0	0	1	1
-phob	all	0	0	1	0
-gomiwnyddion	communists	0	0	1	0
-mabon	mabon	0	0	1	0
-tryfan	tryfan	0	0	1	0
-coffin	coffin	0	0	1	0
-bartneriaeth	partnership	0	0	1	0
-cymorth	support	0	0	1	0
-frodorol	native	0	0	1	0
-pawl	pawl	0	0	1	0
-hidlydd	filter	0	0	1	0
-geiriau	words	0	0	1	0
-loch	loch	0	0	1	0
-cyhoeddus	public	0	0	1	1
-gwybedog	pied	0	0	1	0
-llwy	spoon	0	0	1	1
-glwb	club	0	0	1	0
-dethlir	celebrated	0	0	1	0
-ddeunawfed	eighteenth	0	0	1	0
-reynolds	reynolds	0	0	1	0
-gyda	with	0	0	1	1
-ffinio	bounded	0	0	1	0
-ffinio	ffnio	0	0	1	0
-comedi	comedy	0	0	1	1
-gwenith	wheat	0	0	1	1
-gallwch	can	0	0	1	0
-dwrci	turkey	0	0	1	0
-iorddonen	jordan	0	0	1	1
-gwyddonydd	gwyddondd	0	0	1	0
-gwyddonydd	scientist	0	0	1	1
-marmota	marmota	0	0	1	0
-haws	easier	0	0	1	1
-gorffennol	past	0	0	1	1
-pasteur	pasteur	0	0	1	0
-lleferydd	speech	0	0	1	1
-gyferbyniad	contrast	0	0	1	0
-gyfeirio	reference	0	0	1	0
-hawl	right	0	0	1	1
-almaen	germany	0	0	1	0
-ddeall	understand	0	0	1	0
-cylchred	cycle	0	0	1	0
-bywydau	lives	0	0	1	0
-cricieth	criccieth	0	0	1	0
-cynhyrchu	production	0	0	1	0
-issn	issn	0	0	1	0
-robot	robot	0	0	1	0
-català	batala	0	0	1	0
-català	català	0	0	1	0
-feddianwyd	was occupied	0	0	1	0
-deunydd	material	0	0	1	1
-allor	altar	0	0	1	1
-mlaenau	the upper	0	0	1	0
-mlaenau	upper	0	0	1	0
-siocled	chocolate	0	0	1	0
-dorrir	cut	0	0	1	0
-houston	houston	0	0	1	0
-cyfan	all	0	0	1	1
-ragor	more	0	0	1	0
-luosog	multiple	0	0	1	0
-terfyn	limit	0	0	1	0
-chwedlonol	legendary	0	0	1	0
-brahma	brahma	0	0	1	0
-warren	warren	0	0	1	0
-tyrciaid	turks	0	0	1	0
-gwastadedd	plain	0	0	1	1
-puerto	puerto	0	0	1	0
-indotsieina	indotsieina	0	0	1	0
-hyd	up	0	0	1	0
-nghernyw	cornwall	0	0	1	0
-rhedeg	run	0	0	1	1
-wastad	always	0	0	1	0
-aelodwladwriaethau	member states	0	0	1	0
-einglsacsoniaid	einglsacsoniaid	0	0	1	0
-fyth	even	0	0	1	0
-chwilen	beetle	0	0	1	1
-transparent	transparent	0	0	1	0
-liberia	liberia	0	0	1	0
-themâu	themes	0	0	1	0
-ffilmiau	films	0	0	1	0
-ymosodwyd	attacked	0	0	1	0
-persia	persia	0	0	1	0
-leihau	reduce	0	0	1	0
-daeth	was	0	0	1	0
-dafydd	gavin	0	0	1	0
-metr	meters	0	0	1	0
-iddewon	jewish	0	0	1	0
-iddewon	iddwwon	0	0	1	0
-bump	five	0	0	1	0
-siop	shop	0	0	1	1
-lloeren	satellite	0	0	1	0
-gysylltir	associated	0	0	1	0
-fedyddio	baptized	0	0	1	0
-palaiologos	palaiologos	0	0	1	0
-sioe	show	0	0	1	1
-shannon	shannon	0	0	1	0
-honni	claims	0	0	1	0
-galerius	galerius	0	0	1	0
-honno	that	0	0	1	1
-fwyaf	most	0	0	1	0
-gwanhau	diluted	0	0	1	0
-liwiau	colors	0	0	1	0
-wyntyll	fan	0	0	1	0
-oceanodroma	oceanodroma	0	0	1	0
-burke	burke	0	0	1	0
-unochrog	unilateral	0	0	1	0
-rectwm	rectum	0	0	1	0
-thrush	thrush	0	0	1	0
-treth	tax	0	0	1	1
-dysgodd	learned	0	0	1	0
-seneddwyr	parliamentarians	0	0	1	0
-berson	person	0	0	1	0
-brosiect	milking	0	0	1	0
-brosiect	project	0	0	1	0
-rannau	parts	0	0	1	0
-culhwch	culhwch	0	0	1	0
-log	log	0	0	1	0
-breiniol	liberal	0	0	1	0
-cymdeithaseg	sociology	0	0	1	0
-cystadlu	competing	0	0	1	0
-could	could	0	0	1	0
-ivor	ivor	0	0	1	0
-david	david	0	0	1	0
-wrthwynebu	object	0	0	1	0
-drymau	drymau	0	0	1	0
-denodd	attracted	0	0	1	0
-keltoi	keltoi	0	0	1	0
-davis	davis	0	0	1	0
-sgîl	from	0	0	1	0
-hussein	hussein	0	0	1	0
-threfedigaethau	colonies	0	0	1	0
-diriogaethaur	diriogaethaur	0	0	1	0
-concrwyd	conquered	0	0	1	0
-concrwyd	conqured	0	0	1	0
-physik	physik	0	0	1	0
-physik	physic	0	0	1	0
-lledaenodd	spread	0	0	1	0
-gerbydau	vehicles	0	0	1	0
-wastadedd	plain	0	0	1	0
-iddewalmaeneg	iddewalmaeneg	0	0	1	0
-ddiogelu	protect	0	0	1	0
-lenwi	complete	0	0	1	0
-eidal	italy	0	0	1	0
-annibynol	independent	0	0	1	0
-meddiannodd	possessed	0	0	1	0
-system	system	0	0	1	0
-clo	lock	0	0	1	1
-osododd	set	0	0	1	0
-feicio	cycling	0	0	1	0
-arlunwyr	artists	0	0	1	0
-alldafliad	ejuction	0	0	1	0
-alldafliad	ejection	0	0	1	0
-dymhereddau	temperatures	0	0	1	0
-cyfoethocaf	the richest	0	0	1	0
-undduwiaeth	monotheism	0	0	1	0
-leoedd	places	0	0	1	0
-rhyddiaith	prose	1	1	1	1
-rhyddiaith	tinus	1	0	1	0
-rhyddiaith	tennis	1	0	1	0
-rhyddiaith	tenis	1	0	1	0
-unedol	unitary	0	0	1	1
-bondio	bonding	0	0	1	0
-diddanwyr	entertainers	0	0	1	0
-unigolion	individuals	0	0	1	0
-categoricymru	categoricymru	0	0	1	0
-roberts	roberts	0	0	1	0
-efallai	may	0	0	1	0
-coluddyn	intestine	0	0	1	0
-blodau	flowers	0	0	1	0
-lleol	local	0	0	1	1
-morrisjones	morrisjones	0	0	1	0
-arfordir	vanera	1	0	1	0
-arfordir	venera	1	0	1	0
-arfordir	coast	1	1	1	1
-ngwanwyn	spring	0	0	1	0
-sgïo	tagging	0	0	1	0
-sgïo	skiing	0	0	1	0
-llyfrgelloedd	libraries	0	0	1	0
-ngwlad	country	0	0	1	0
-brycheiniog	brecon	0	0	1	0
-awen	muse	0	0	1	1
-documents	documents	0	0	1	0
-allweddell	keyboard	0	0	1	0
-ddyddiol	daily	0	0	1	0
-gangen	branch	0	0	1	0
-finalé	finale	0	0	1	0
-gymhleth	complex	0	0	1	0
-eithin	gorse	0	0	1	0
-chiba	chiba	0	0	1	0
-méxico	mexico	0	0	1	0
-linda	linda	0	0	1	0
-subject	subject	0	0	1	0
-eryr	eagle	0	0	1	1
-erys	remains	0	0	1	0
-erys	remain	0	0	1	0
-bwriad	view	0	0	1	0
-wynebur	face up	0	0	1	0
-fideo	video	0	0	1	1
-ildiodd	surrendered	0	0	1	0
-fidel	fidel	0	0	1	0
-bioamrywiaeth	biodiversity	0	0	1	0
-holocost	holocaust	0	0	1	0
-ddiffyg	lack of	0	0	1	0
-medal	medal	0	0	1	0
-gwaddod	sediment	0	0	1	1
-gynulleidfa	audience	0	0	1	0
-bren	timber	0	0	1	0
-fach	small	0	0	1	0
-rhanbarth	region	1	1	1	0
-rhanbarth	slowly	1	0	1	0
-rhanbarth	gradually	1	0	1	0
-rhanbarth	reigon	1	0	1	0
-categoricerddoriaeth	categoricerddoriaeth	0	0	1	0
-gwisgo	wear	0	0	1	1
-ddiddorol	interesting	0	0	1	0
-colledion	losses	0	0	1	0
-diflannu	disappear	0	0	1	1
-wneud	do	0	0	1	0
-manchester	manchester	0	0	1	0
-lloyd	lloyd	0	0	1	0
-ymgeiswyr	candidates	0	0	1	0
-danwydd	fuel	0	0	1	0
-principal	principal	0	0	1	0
-jay	jay	0	0	1	0
-should	should	0	0	1	0
-kernewek	kernewek	0	0	1	0
-jam	jam	0	0	1	1
-oesoffagws	esophagus	0	0	1	0
-gynhelir	maintained	0	0	1	0
-jac	jack	0	0	1	0
-hope	hope	0	0	1	0
-gwastraff	waste	0	0	1	1
-means	means	0	0	1	0
-ailgydiodd	resumed	0	0	1	0
-ira	ira	0	0	1	0
-denmarc	denmark	0	0	1	0
-siâp	shape	0	0	1	0
-aer	air	0	0	1	1
-reis	rice	0	0	1	1
-mynnodd	insisted	0	0	1	0
-bledren	bladder	0	0	1	0
-gwleidydd	politician	0	0	1	1
-gysylltu	contact	0	0	1	0
-gbp	gbp	0	0	1	0
-apwyntiwyd	appointed	0	0	1	0
-apwyntiwyd	appoined	0	0	1	0
-prichard	prichard	0	0	1	0
-fewn	within	0	0	1	0
-lôn	lane	0	0	1	0
-ddanfon	send	0	0	1	0
-trodd	turned	0	0	1	0
-clawr	cover	0	0	1	1
-rhannu	share	0	0	1	1
-ddethol	selection	0	0	1	0
-alessandro	alessandro	0	0	1	0
-bwysicaf	most	0	0	1	0
-lyon	lyon	0	0	1	0
-cefnogwyr	supporters	0	0	1	0
-cymeriad	character	0	0	1	1
-broblem	problem	0	0	1	0
-hysgrifennu	written	0	0	1	0
-trowyd	turned	0	0	1	0
-sicrwydd	security	0	0	1	0
-gyfathrebu	communication	0	0	1	0
-ifanc	young	0	0	1	1
-hajj	hajj	0	0	1	0
-americanaidd	american	0	0	1	1
-americanaidd	amereicanaidd	0	0	1	0
-newidiadau	changes	0	0	1	0
-ifans	ifans	0	0	1	0
-gwenlyn	gwenlyn	0	0	1	0
-ddarn	piece	0	0	1	0
-fygythiad	threat	0	0	1	0
-adloniant	entertainment	0	0	1	1
-anhebyg	unlikely	0	0	1	0
-proffesiynol	professional	0	0	1	1
-rama	rama	0	0	1	0
-ailgipio	retaken	0	0	1	0
-chaplin	chaplin	0	0	1	0
-ci	dog	0	0	1	1
-ch	d	0	0	1	0
-ieithydd	linguist	0	0	1	1
-ucr	ucr	0	0	1	0
-cm	cm	0	0	1	0
-drosglwyddo	transfer	0	0	1	0
-cc	cc	0	0	1	0
-ffigwr	figure	0	0	1	0
-malcolm	malcolm	0	0	1	0
-cf	cf	0	0	1	0
-gydfynd	match	0	0	1	0
-cd	cd	0	0	1	0
-mabinogion	mabinogion	0	0	1	0
-dywed	says	0	0	1	0
-saesneg	english	0	0	1	1
-bandiau	bands	0	0	1	0
-cu	cu	0	0	1	0
-gipio	capture	0	0	1	0
-dysg	learning	0	0	1	1
-pedol	u	0	0	1	0
-rhoda	rhoda	0	0	1	0
-genetig	genetic	0	0	1	0
-honiadau	allegations	0	0	1	0
->	>	0	0	1	0
-fferm	farm	0	0	1	0
-nghwm	valley	0	0	1	0
-fferi	ferry	0	0	1	0
-gwella	improve	0	0	1	1
-chwyldroadol	revolutionary	0	0	1	1
-llosgwyd	burned	0	0	1	0
-oherwydd	because	0	0	1	1
-commodus	commodus	0	0	1	0
-hiliaeth	racism	0	0	1	0
-cyfrifiaduron	computers	0	0	1	0
-brwydr	battle	0	0	1	1
-gitâr	guitar	0	0	1	0
-esblygiad	evalution	1	0	1	0
-esblygiad	him / her	1	0	1	0
-esblygiad	evolution	1	1	1	0
-esblygiad	that	1	0	1	0
-gordderch	illegitimate	0	0	1	0
-gyrchfan	destination	0	0	1	0
-gwrtaith	fertilizer	0	0	1	0
-vi	vi	0	0	1	0
-fflworin	fluorine	0	0	1	0
-goroni	crowned	0	0	1	0
-macedonia	macedonia	0	0	1	0
-categorigwyliau	holiday category	0	0	1	0
-almaenaidd	german	0	0	1	1
-juan	juan	0	0	1	0
-eithafol	extreme	0	0	1	1
-gyflwr	condition	0	0	1	0
-gludo	transport	0	0	1	0
-matthew	matthew	0	0	1	0
-rhosynnau	roses	0	0	1	0
-rhosynnau	rosed	0	0	1	0
-gymuned	community	0	0	1	0
-gloddio	mining	0	0	1	0
-ystadegaeth	statistics	0	0	1	0
-ystadegaeth	ststistics	0	0	1	0
-ball	default	0	0	1	0
-columbia	columbia	0	0	1	0
-raymond	raymond	0	0	1	0
-bali	bali	0	0	1	0
-trên	train	0	0	1	0
-cyflwynodd	presented	0	0	1	0
-bale	ballet	0	0	1	1
-upon	upon	0	0	1	0
-bala	bala	0	0	1	0
-iago	james	0	0	1	1
-hynafiaethau	antiquities	0	0	1	0
-pompeius	pompeius	0	0	1	0
-gymeriadau	characters	0	0	1	0
-php	php	0	0	1	0
-ofc	ofc	0	0	1	0
-lupus	lupus	0	0	1	0
-off	off	0	0	1	0
-mhortiwgal	portugal	0	0	1	0
-briod	married	0	0	1	0
-gyfraniadau	contribution	0	0	1	0
-gyfraniadau	contributions	0	0	1	0
-indonesia	indonesia	0	0	1	0
-ofn	fear	0	0	1	1
-dinas	city	0	0	1	1
-phan	when	0	0	1	0
-polyn	pole	0	0	1	1
-olion	remains	0	0	1	0
-audio	audio	0	0	1	0
-eithrio	than	0	0	1	0
-lliw	color	1	1	1	1
-lliw	fas	1	0	1	0
-lliw	colour	1	1	0	0
-lliw	fez	1	0	1	0
-tlws	trophy	0	0	1	0
-crehyrod	herons	0	0	1	0
-daearol	terrestrial	0	0	1	1
-reolai	controlled	0	0	1	0
-syth	immediately	0	0	1	0
-llif	flow	0	0	1	0
-reolau	rules	0	0	1	0
-geller	teller	0	0	1	0
-gefndir	background	0	0	1	0
-echdoriadau	eruption	0	0	1	0
-echdoriadau	eruptions	0	0	1	0
-foddi	drowning	0	0	1	0
-methan	methane	0	0	1	0
-paul	paul	0	0	1	0
-mwslemiaid	muslims	0	0	1	0
-ngwaith	work	0	0	1	0
-trafod	discuss	0	0	1	1
-wen	white	0	0	1	0
-deyrnasiad	reign	0	0	1	0
-deyrnasiad	deyrnasaid	0	0	1	0
-gyfoethog	rich	0	0	1	0
-perfformiad	performance	0	0	1	1
-perfformiad	of performance	0	0	1	0
-blaenwr	striker	0	0	1	0
-alwminiwm	aluminum	0	0	1	0
-fantais	advantage	0	0	1	0
-pied	pied	0	0	1	0
-dyddio	dates	0	0	1	0
-crud	cradle	0	0	1	1
-cruz	cruz	0	0	1	0
-zimbabwe	zimbabwe	0	0	1	0
-five	five	0	0	1	0
-pier	pier	0	0	1	0
-categorigwefannau	category: websites	0	0	1	0
-categorigwefannau	categorigwefannau	0	0	1	0
-crist	christ	0	0	1	1
-gwyddys	known	0	0	1	0
-amazonas	amazonas	0	0	1	0
-gwenwyn	poisoning	0	0	1	0
-ddeddf	law	0	0	1	0
-daflu	throw	0	0	1	0
-tehuelches	tehuelches	0	0	1	0
-concwest	conquest	0	0	1	1
-godwyd	raised	0	0	1	0
-ledled	throughout	0	0	1	0
-cogau	cuckoos	0	0	1	0
-peiriant	machine	0	0	1	1
-pwllheli	pwllheli	0	0	1	0
-mozambique	mozambique	0	0	1	0
-wcráin	ukraine	0	0	1	0
-cowper	cooper	0	0	1	0
-gothiaid	goths	0	0	1	0
-ddiwygiad	amendment	0	0	1	0
-derfynol	final	0	0	1	0
-does	there	0	0	1	0
-saesnegcymraeg	english-welsh	0	0	1	0
-saesnegcymraeg	saesnegcymraeg	0	0	1	0
-hylifol	liquid	0	0	1	0
-chytunodd	agreed	0	0	1	0
-diwinyddiaeth	theology	0	0	1	1
-llafar	oral	0	0	1	0
-brifysgolion	universities	0	0	1	0
-tansania	tanzania	0	0	1	0
-oedran	age	0	0	1	1
-gwartheg	cattle	0	0	1	1
-categorirhyw	categorirhyw	0	0	1	0
-talur	paying	0	0	1	0
-counties	counties	0	0	1	0
-iwan	iwan	0	0	1	0
-angeles	angeles	0	0	1	0
-amddifad	orphan	0	0	1	1
-theatrau	theaters	0	0	1	0
-ysbryd	spirit	0	0	1	1
-lleuad	moon	0	0	1	1
-athroniaeth	philosophy	0	0	1	1
-athroniaeth	athroniaeath	0	0	1	0
-difrod	damage	0	0	1	1
-software	software	0	0	1	0
-kemal	kemal	0	0	1	0
-nwylor	nwylor	0	0	1	0
-mers	mers	0	0	1	0
-catherine	catherine	0	0	1	0
-commitment	drs	0	0	1	0
-commitment	commitment	0	0	1	0
-heddluoedd	forces	0	0	1	0
-teyrnasu	reign	0	0	1	1
-included	included	0	0	1	0
-luna	luna	0	0	1	0
-ficedula	ficedula	0	0	1	0
-rhyfelwr	warrior	0	0	1	1
-gogleddddwyrain	gogleddddwyrain	0	0	1	0
-gogleddddwyrain	north east	0	0	1	0
-ddylanwad	influence	0	0	1	0
-osodwyd	set	0	0	1	0
-diffiniwyd	defined	0	0	1	0
-datblygodd	developed	0	0	1	0
-sêr	stars	0	0	1	0
-official	official	0	0	1	0
-gwenyn	bees	0	0	1	0
-ymyriad	intervention	0	0	1	0
-sêl	seal	0	0	1	0
-distribution	distribution	0	0	1	0
-addoliad	worship	0	0	1	1
-irish	irish	0	0	1	0
-corea	korea	0	0	1	0
-gofalu	care	0	0	1	1
-canwr	singer	0	0	1	1
-lynnoedd	lakes	0	0	1	0
-ffosilau	fossils	0	0	1	0
-barcelona	barcelona	0	0	1	0
-aristotle	aristotle	0	0	1	0
-cordiau	cards	0	0	1	0
-cordiau	chords	0	0	1	0
-anaerobig	anaerobic	0	0	1	0
-ryngwladol	international	0	0	1	0
-chawsant	were	0	0	1	0
-leiaf	at least	0	0	1	0
-inc	ink	0	0	1	1
-gymraeg	welsh	0	0	1	0
-nerfau	nerves	0	0	1	0
-fforwm	forum	0	0	1	0
-brandenburg	brandenburg	0	0	1	0
-nghefn	back	0	0	1	0
-oakeley	oakekly	0	0	1	0
-oakeley	oakeley	0	0	1	0
-culfor	strait	0	0	1	1
-genau	mouth	0	0	1	1
-francisco	francisco	0	0	1	0
-macedoneg	macedonian	0	0	1	0
-chwarel	quarry	0	0	1	1
-dibyniaeth	dependence	0	0	1	0
-garamantes	garamantes	0	0	1	0
-garamantes	garmantes	0	0	1	0
-wragedd	women	0	0	1	0
-hanmer	hanmer	0	0	1	0
-ranbarth	region	0	0	1	0
-morvan	morvan	0	0	1	0
-torrir	cut	0	0	1	0
-hebraeg	hebrew	0	0	1	1
-mozart	mozart	0	0	1	0
-dymor	term	0	0	1	0
-kanji	kanji	0	0	1	0
-eos	nightingale	0	0	1	1
-mudiad	organization	0	0	1	0
-torrin	breaking	0	0	1	0
-biolegol	biological	0	0	1	0
-all	can	0	0	1	0
-magnetig	magnetic	0	0	1	0
-categorichwaraeon	categorichwaraeon	0	0	1	0
-ffiwdal	feudal	0	0	1	0
-cerdded	walking	0	0	1	0
-ffotograffiaeth	photography	0	0	1	0
-gwirfoddol	voluntary	0	0	1	1
-talybont	talybont	0	0	1	0
-creta	crete	0	0	1	0
-celfyddydol	arts	0	0	1	0
-paentio	painting	0	0	1	0
-heddiw	today	0	0	1	1
-cyfiawn	complete	0	0	1	0
-cyfiawn	just	0	0	1	1
-wraig	wife	0	0	1	0
-edward	edward	0	0	1	0
-gynrychioli	represent	0	0	1	0
-arfer	practice	0	0	1	1
-ddyled	debt	0	0	1	0
-mecaneg	mechanics	0	0	1	0
-coedwig	forest	0	0	1	1
-gwyddonol	scientific	0	0	1	1
-cynharaf	earliest	0	0	1	0
-eira	snow	0	0	1	1
-pennill	verse	0	0	1	1
-arllwys	pour	0	0	1	0
-penny	penny	0	0	1	0
-manic	manic	0	0	1	0
-hydrosffer	hydrosphere	0	0	1	0
-lefel	level	0	0	1	1
-dyfrllyd	aqueous	0	0	1	0
-affrican	african	0	0	1	0
-gyfres	series	0	0	1	0
-gyfres	sreies	0	0	1	0
-seilio	based	0	0	1	0
-seilio	silo	0	0	1	0
-faes	area	0	0	1	0
-crake	crake	0	0	1	0
-cmc	gdp	0	0	1	0
-fwyar	berries	0	0	1	0
-dioddef	suffering	0	0	1	1
-wedyn	then	0	0	1	1
-sylfaenol	basic	0	0	1	0
-seilir	based	0	0	1	0
-cantref	hundred	0	0	1	1
-jamaica	jamaica	0	0	1	0
-amcan	objective	0	0	1	0
-deutsch	deutsch	0	0	1	0
-ifan	ifan	0	0	1	0
-eraill	other	0	0	1	0
-horn	horn	0	0	1	0
-nodwedd	feature	0	0	1	1
-eurovision	eurovision	0	0	1	0
-codir	charged	0	0	1	0
-lafar	oral	0	0	1	0
-galan	galan	0	0	1	0
-anghyffredin	unusual	0	0	1	0
-ehangodd	expanded	0	0	1	0
-+	+	0	0	1	0
-llipa	floppy	0	0	1	0
-dugiaeth	radically	1	0	1	0
-dugiaeth	sudden	1	0	1	0
-dugiaeth	duchy	1	1	0	0
-dugiaeth	stark	1	0	1	0
-dugiaeth	ducthy	1	1	0	0
-above	above	0	0	1	0
-frank	frank	0	0	1	0
-lywodraethu	governance	0	0	1	0
-mauricius	mauricius	0	0	1	0
-pistyll	spring	0	0	1	0
-bangkok	bangkok	0	0	1	0
-adroddiad	report	0	0	1	1
-ganolbwynt	focus	0	0	1	0
-noswyl	eve	0	0	1	0
-sidan	silk	0	0	1	1
-swyddogaethau	functions	0	0	1	0
-diweddarach	later	0	0	1	0
-glo	coal	0	0	1	1
-iechyd	health	0	0	1	1
-argraffwyd	printed	0	0	1	0
-gynllun	scheme through	0	0	1	0
-gynllun	a	0	0	1	0
-sacsoffon	saxophone	0	0	1	0
-ddaearegol	geological	0	0	1	0
-ddiwylliannau	cultures	0	0	1	0
-honshu	honshu	0	0	1	0
-etholiadau	elections	0	0	1	0
-bro	bro	0	0	1	0
-ffurf	form	0	0	1	1
-cholli	loss	0	0	1	0
-gynt	earlier	0	0	1	0
-bri	prestige	0	0	1	0
-yfed	drinking	0	0	1	0
-spongiosum	spongiosum	0	0	1	0
-categoricerbydau	categoricerbydau	0	0	1	0
-categoricerbydau	category vehicles	0	0	1	0
-cana	ring	0	0	1	0
-bydenwog	world famous	0	0	1	0
-didrais	didrais	0	0	1	0
-is	lower	0	0	1	1
-is	is	0	0	1	0
-ganeuon	songs	0	0	1	0
-giovanni	giovanni	0	0	1	0
-categoriyr	categoriyr	0	0	1	0
-supergroup	supergroup	0	0	1	0
-gwrthiant	resistance	0	0	1	0
-adrianople	adrianople	0	0	1	0
-mathew	matthew	0	0	1	0
-word	word	0	0	1	0
-word	worg	0	0	1	0
-ers	since	0	0	1	1
-chyflawni	delivery	0	0	1	0
-work	gwaith	0	0	1	0
-mwyaf	more	0	0	1	0
-rhyddhaodd	released	0	0	1	0
-era	for several	0	0	1	0
-ddisgen	disc	0	0	1	0
-moelona	moelona	0	0	1	0
-ugain	twenty	0	0	1	1
-cymharu	compare	0	0	1	1
-factbook	factbook	0	0	1	0
-brwydro	fighting	0	0	1	0
-bennett	bennett	0	0	1	0
-india	india	0	0	1	0
-derbyniodd	received	0	0	1	0
-tafodiaith	dialect	0	0	1	1
-gemegol	chemical	0	0	1	0
-cyfandir	continent	0	0	1	1
-proffil	profile	0	0	1	0
-cystadlaethau	competitions	0	0	1	0
-ffocysu	focus	0	0	1	0
-fasged	basket	0	0	1	0
-frythoneg	brythonic	0	0	1	0
-gamblo	gambling	0	0	1	0
-datblygwyd	developed	0	0	1	0
-drwsio	repair	0	0	1	0
-morol	marine	0	0	1	0
-fap	map	0	0	1	0
-fagina	vagina	0	0	1	0
-lao	lao	0	0	1	0
-cystennin	constantine	0	0	1	1
-ymhell	well	0	0	1	0
-gyngor	advice	0	0	1	0
-cydymerawdwr	cydymerawdwr	0	0	1	0
-hunangynhaliol	self-sufficient	0	0	1	0
-mwslim	muslim	0	0	1	0
-law	hand	0	0	1	0
-arch	ark	0	0	1	1
-arch	arch	0	0	1	0
-ddinesig	start	0	0	1	0
-ddinesig	civic	0	0	1	0
-las	blue	0	0	1	0
-berber	berber	0	0	1	0
-gwmni	company	0	0	1	0
-longtailed	longtailed	0	0	1	0
-effeithlonrwydd	efficiency	0	0	1	0
-colomennod	pigeons	0	0	1	0
-colomennod	pigeon	0	0	1	0
-cadfridogion	generals	0	0	1	0
-green	green	0	0	1	0
-allweddellau	keyboards	0	0	1	0
-fan	here	0	0	1	0
-lindsay	lindsay	0	0	1	0
-sefydliadaur	sefydliadaur	0	0	1	0
-taflegrau	missiles	0	0	1	0
-glowyr	miners	0	0	1	0
-pwyntiau	points	0	0	1	0
-bygwth	threatening	0	0	1	0
-rhyngweithiad	interaction	0	0	1	0
-japan	japan	0	0	1	0
-syniad	idea	0	0	1	1
-tymherus	temperate	0	0	1	1
-gamau	action	0	0	1	0
-dargludo	conduction	0	0	1	0
-ffesant	pheasant	0	0	1	1
-christie	christie	0	0	1	0
-theo	theo	0	0	1	0
-then	wedyn	0	0	1	0
-coffee	coffee	0	0	1	0
-brosesau	processes	0	0	1	0
-break	break	0	0	1	0
-gweddillion	residues	0	0	1	0
-ffiniaur	boundaries	0	0	1	0
-ffiniaur	ffiniaur	0	0	1	0
-tsieina	china	0	0	1	0
-banc	bank	0	0	1	1
-byddin	army	0	0	1	1
-diddorol	interesting	0	0	1	1
-germania	germania	0	0	1	0
-germanig	germanig	0	0	1	0
-doler	dollar	0	0	1	1
-l	to	0	0	1	0
-l	l	0	0	1	0
-dolen	link	0	0	1	1
-mrna	mrna	0	0	1	0
-ormod	too	0	0	1	0
-carlos	carlos	0	0	1	0
-tafodieitheg	dialectology	1	1	0	0
-eirian	eirian	0	0	1	0
-llawer	many	0	0	1	0
-heuldror	heuldror	0	0	1	0
-sgerbwd	skeleton	1	1	1	0
-sgerbwd	pick up	1	0	1	0
-sgerbwd	select	1	0	1	0
-sgerbwd	choose	1	0	1	0
-moçambique	mocambique	0	0	1	0
-moçambique	mosambique	0	0	1	0
-moçambique	moçambique	0	0	1	0
-angau	death	0	0	1	1
-chyrchoedd	raids	0	0	1	0
-gynhesach	warmer	0	0	1	0
-difyrrwch	amusement	0	0	1	1
-tetanws	there after there	1	0	1	0
-tetanws	tetanus	1	1	0	0
-tetanws	after	1	0	1	0
-tetanws	one	1	0	1	0
-tetanws	tatanus	1	0	1	0
-tetanws	tetans	1	0	1	0
-bolisïau	policies	0	0	1	0
-genedl	nation	0	0	1	0
-palas	palace	0	0	1	1
-palau	palau	0	0	1	0
-dîm	no	0	0	1	0
-allheulol	allheulol	0	0	1	0
-anad	above	0	0	1	0
-daniel	daniel	0	0	1	0
-werdd	green	0	0	1	0
-ildio	surrender	0	0	1	0
-+x	+ refers to adddition and xrefers to times	0	0	1	0
-judith	judith	0	0	1	0
-hysbysebu	advertising	0	0	1	0
-paratoi	preparation	0	0	1	0
-ganlyniad	result	0	0	1	0
-eplesiad	fermentation	0	0	1	1
-trwy	by	0	0	1	1
-rhufain	rome	0	0	1	1
-unigol	individual	0	0	1	1
-amadeus	amadeus	0	0	1	0
-fysantaidd	fysantaidd	0	0	1	0
-fysantaidd	byzantine	0	0	1	0
-crwn	round	0	0	1	1
-taliesin	taliesin	0	0	1	0
-crwm	curved	0	0	1	1
-crwm	round	0	0	1	0
-strwythr	the structure	0	0	1	0
-strwythr	structure	0	0	1	0
-trwm	heavy	0	0	1	1
-isalmaeneg	isalmaeneg	0	0	1	0
-athronydd	philosopher	0	0	1	1
-rhyngddynt	between them	0	0	1	0
-cyswllt	contact	0	0	1	0
-baltig	baltic	0	0	1	0
-rhyfeloedd	wars	0	0	1	0
-trac	track	0	0	1	0
-categorillenyddiaeth	categorillenyddiaeth	0	0	1	0
-categorillenyddiaeth	category of literature	0	0	1	0
-dafodiaith	dialect	0	0	1	0
-gyfuno	combined	0	0	1	0
-feithrin	building	0	0	1	0
-cenedl	nation	0	0	1	1
-another	another	0	0	1	0
-comin	common	0	0	1	0
-electronig	electronic	0	0	1	0
-gwres	heat	0	0	1	1
-antarctig	antarctic	0	0	1	0
-chynhaliwyd	held	0	0	1	0
-timothy	timothy	0	0	1	0
-frenhinoedd	kings	0	0	1	0
-traffordd	motorway	1	1	0	0
-traffordd	trafford	1	1	0	0
-traffordd	grains	1	0	1	0
-traffordd	highway	1	1	0	0
-traffordd	atom	1	0	1	0
-lwyddiant	success	0	0	1	0
-deunyddiau	materials	0	0	1	0
-milwr	soldier	0	0	1	1
-john	john	0	0	1	0
-thalaith	province	0	0	1	0
-derbyniwyd	received	0	0	1	0
-albert	albert	0	0	1	0
-hylif	liquid	1	1	1	1
-hylif	liquad	1	0	1	0
-hylif	bay	1	0	1	0
-hylif	shore	1	0	1	0
-hylif	coastal	1	0	1	0
-hylif	iquid	1	1	0	0
-ddewiniaeth	witchcraft	0	0	1	0
-peidiodd	ceased	0	0	1	0
-rheini	those	0	0	1	1
-ethnogrefyddol	ethnogrefyddol	0	0	1	0
-esgyrn	bone	0	0	1	0
-soned	sonnet	0	0	1	1
-newidiwyd	changed	0	0	1	0
-bebb	bebb	0	0	1	0
-crynswth	gross	0	0	1	0
-merch	town	1	0	1	0
-merch	girl	1	1	0	1
-merch	daughter	1	1	1	1
-merci	merci	0	0	1	0
-yngenir	pronounced	0	0	1	0
-bancio	banking	0	0	1	0
-hysbys	known	0	0	1	1
-amsugno	absorption	0	0	1	0
-amsugno	amsungo	0	0	1	0
-cyflawni	cyfawni	0	0	1	0
-cyflawni	cyflwni	0	0	1	0
-leuad	moon	0	0	1	0
-baner	flag	0	0	1	1
-welodd	saw	0	0	1	0
-münchen	munich	0	0	1	0
-chymunedau	communities	0	0	1	0
-effeithio	affect	0	0	1	1
-phrifysgol	university	0	0	1	0
-tōkyō	tokyo	0	0	1	0
-nghastell	castle	0	0	1	0
-briflythyren	upper case	0	0	1	0
-morwyr	seafarers	0	0	1	0
-blŵs	blues	0	0	1	0
-arweinwyr	leaders	0	0	1	0
-ddetholiad	selection	0	0	1	0
-anatomi	anatomy	0	0	1	0
-feirionnydd	merioneth	0	0	1	0
-ceton	ketone	1	1	0	0
-ceton	muslims	1	0	1	0
-endif	endive	1	1	0	0
-anatomy	anatomy	0	0	1	0
-acknowledgements	acknowledgements	0	0	1	0
-gefeilldref	twin	0	0	1	0
-dilynodd	followed	0	0	1	0
-canrannau	percentages	0	0	1	0
-wladgarol	patriotic	0	0	1	0
-gasglu	collection	0	0	1	0
-sichuan	sichuan	0	0	1	0
-mawrth	march	0	0	1	1
-corswennol	corswennol	0	0	1	0
-uda	u.s.	0	0	1	0
-uda	uda	0	0	1	0
-acwstig	acoustic	0	0	1	0
-gyfrifiadur	computer	0	0	1	0
-cweryl	quarrel	0	0	1	1
-stephens	stephens	0	0	1	0
-lewis	lewis	0	0	1	0
-rywbeth	something	0	0	1	0
-cystadleuol	competitive	0	0	1	1
-fleming	fleming	0	0	1	0
-nodedig	notable	0	0	1	0
-madeira	madeira	0	0	1	0
-ffermio	farming	0	0	1	0
-iaşi	iasi	0	0	1	0
-eider	eider	0	0	1	0
-odan	under	0	0	1	0
-gaius	gaius	0	0	1	0
-caergrawnt	cambridge	0	0	1	1
-gwyllt	wild	0	0	1	1
-maent	they	0	0	1	0
-sut	how	0	0	1	1
-ddethlir	celebrated	0	0	1	0
-arferol	normal	0	0	1	0
-do	yes	0	0	1	1
-dm	dm	0	0	1	0
-di	free	0	0	1	0
-dd	f	0	0	1	0
-de	south	0	0	1	1
-dc	dc	0	0	1	0
-dc	d.c.	0	0	1	0
-da	good	0	0	1	1
-watson	watson	0	0	1	0
-rhagor	more	0	0	1	0
-alecsander	alexander	0	0	1	0
-dy	your	0	0	1	1
-stalingrad	stalingrad	0	0	1	0
-du	black	0	0	1	1
-dr	water	0	0	1	0
-gyffuriau	drugs	0	0	1	0
-blwch	box	0	0	1	1
-wynne	wynne	0	0	1	0
-athronwyr	philosophers	0	0	1	0
-mwyngloddio	mining	0	0	1	0
-fynegi	express	0	0	1	0
-asturias	asturias	0	0	1	0
-niwtral	neutral	0	0	1	0
-haearn	iron	0	0	1	1
-teithiau	tours	0	0	1	0
-gartref	home	0	0	1	1
-fomio	bombing	0	0	1	0
-ffotosynthesis	photosynthesis	0	0	1	0
-buddsoddi	investment	0	0	1	0
-mustafa	mustafa	0	0	1	0
-sillwyddor	syllabary	1	1	0	0
-uniad	merger	0	0	1	0
-suful	civil	0	0	1	0
-profiad	experience	0	0	1	1
-gymorth	wild	0	0	1	0
-gymorth	help	0	0	1	0
-bunting	bunting	0	0	1	0
-draws	across	0	0	1	0
-chychod	boats	0	0	1	0
-shakti	shakti	0	0	1	0
-baban	baby	0	0	1	0
-symudiadaur	movements	0	0	1	0
-chysylltu	link	0	0	1	0
-sgwâr	square	0	0	1	0
-moleciwlau	molecules	0	0	1	0
-bwthyn	cottage	0	0	1	1
-rhosgadfan	rhosgadfan	0	0	1	0
-we	web	0	0	1	0
-terms	* ds	0	0	1	0
-gorchuddir	covered	0	0	1	0
-treuliad	digestion	0	0	1	1
-treuliad	treuliad	0	0	1	0
-familiaris	familiaris	0	0	1	0
-gyrfa	career	0	0	1	1
-cwmpasu	cover	0	0	1	0
-cymysg	mixed	0	0	1	1
-wj	wj	0	0	1	0
-clwb	club	0	0	1	1
-gyrff	bodies	0	0	1	0
-ww	ww	0	0	1	0
-anoddaf	the hardest	0	0	1	0
-sefydlu	establish	0	0	1	1
-gorchuddio	covered	0	0	1	0
-caledonia	caledonia	0	0	1	0
-bras	print	0	0	1	0
-marwnad	elegy	0	0	1	1
-blaenorol	previous	0	0	1	1
-thŷ	house	0	0	1	0
-cox	cox	0	0	1	0
-ill	both	0	0	1	0
-fagu	gain	0	0	1	0
-aberthu	sacrifice	0	0	1	1
-cyfoes	contemporary	0	0	1	1
-cod	code	0	0	1	0
-cog	cog	0	0	1	0
-brad	betrayal	0	0	1	1
-branning	branning	0	0	1	0
-foel	bare	0	0	1	0
-con	con	0	0	1	0
-tone	tone	0	0	1	0
-ceiliog	cock	0	0	1	1
-adeiladur	building of	0	0	1	0
-pheiriannau	machinery	0	0	1	0
-ganymede	ganymede	0	0	1	0
-diwrnod	days	0	0	1	0
-gyfeiriadau	references	0	0	1	0
-dyfeisiwyd	invented	0	0	1	0
-tony	tony	0	0	1	0
-apocryffaidd	apocryphal	0	0	1	0
-ifor	ifor	0	0	1	0
-gristionogaeth	christianity	0	0	1	0
-gweinyddol	administrative	0	0	1	1
-cyrs	reed	0	0	1	0
-deyrnas	kingdom	0	0	1	0
-ecwador	ecuador	0	0	1	0
-ddoleri	dollars	0	0	1	0
-caffè	cafe	0	0	1	0
-caffè	caffe	0	0	1	0
-caffè	café	0	0	1	0
-mastiau	masts	0	0	1	0
-ysgolheigion	scholars	0	0	1	0
-fflat	flat	0	0	1	1
-pratincole	prantincole	0	0	1	0
-pratincole	pratincole	0	0	1	0
-selim	selim	0	0	1	0
-twmffat	funnel	0	0	1	0
-rhennir	divided	0	0	1	0
-dŷ	house	0	0	1	0
-dŷ	yours	0	0	1	0
-dŷ	your	0	0	1	0
-lenyddiaeth	literature	0	0	1	0
-giacomo	giacomo	0	0	1	0
-teithiodd	traveled	0	0	1	0
-cartilagaidd	cartilaginous	0	0	1	0
-sampson	sampson	0	0	1	0
-gnu	fleece	0	0	1	0
-hyrwyddor	promotion	0	0	1	0
-hyrwyddor	promote	0	0	1	0
-warbler	warbler	0	0	1	0
-air	word	0	0	1	0
-swltan	mosques	1	0	1	0
-swltan	sharifs	1	0	1	0
-swltan	sultan	1	1	1	0
-ain	th	0	0	1	0
-applies	applies	0	0	1	0
-porthmyn	drovers	0	0	1	0
-voice	voice	0	0	1	0
-plover	plover	0	0	1	0
-uganda	uganda	0	0	1	0
-nodweddiadol	typical	0	0	1	0
-rufain	rome	0	0	1	0
-atriwm	atrium	0	0	1	0
-cong	cong	0	0	1	0
-sycharth	sycharth	0	0	1	0
-llwyni	shrubs	0	0	1	0
-stint	stint	0	0	1	0
-menna	menna	0	0	1	0
-jerry	jerry	0	0	1	0
-llywodraethu	governance	0	0	1	0
-pasio	passing	0	0	1	0
-sydyn	sudden	0	0	1	1
-caffi	cafe	0	0	1	0
-gymharu	compared	0	0	1	0
-cyrch	raid	0	0	1	0
-nin	nin	0	0	1	0
-ffanffer	fanfare	1	1	0	0
-gwyach	grebe	0	0	1	0
-nid	not	0	0	1	1
-bedwaredd	fourth	0	0	1	0
-llanberis	llanberis	0	0	1	0
-patagonia	patagonia	0	0	1	0
-hans	hans	0	0	1	0
-miliwn	million	0	0	1	1
-creigiau	rocks	0	0	1	0
-creigiau	rock	0	0	1	0
-hanu	originally	0	0	1	0
-mil	thousand	0	0	1	1
-thu	interior	0	0	1	0
-lwybr	route	0	0	1	0
-apus	apus	0	0	1	0
-ffigurau	figures	0	0	1	0
-the	the	0	0	1	0
-gyfnodau	periods	0	0	1	0
-musical	musical	0	0	1	0
-cyffelyb	similar	0	0	1	1
-trydedd	trudedd	0	0	1	0
-trydedd	third	0	0	1	0
-basiwyd	passed	0	0	1	0
-indigo	indigo	0	0	1	0
-olygydd	editor	0	0	1	0
-ofalus	carefully	0	0	1	0
-jabaliya	jabaliya	0	0	1	0
-gallair	might the	0	0	1	0
-godi	raise	0	0	1	0
-goptaidd	coptic	0	0	1	0
-goptaidd	goptaidd	0	0	1	0
-gynderfynol	finals	0	0	1	0
-mohamed	mohamed	0	0	1	0
-swahili	swahili	0	0	1	0
-kanagawa	kanagawa	0	0	1	0
-spaen	spain	0	0	1	0
-blociau	blocks	0	0	1	0
-plasma	plasma	0	0	1	0
-feirws	virus	0	0	1	0
-siegfried	siegfried	0	0	1	0
-cantorion	singers	0	0	1	0
-groeg	greek	0	0	1	1
-rhodri	rhodri	0	0	1	0
-groen	skin	0	0	1	0
-araf	slow	0	0	1	1
-groes	contrary	0	0	1	0
-cape	cape	0	0	1	0
-aran	aran	0	0	1	0
-latfieg	latvian	0	0	1	0
-latfieg	latvain	0	0	1	0
-cyfarwyddo	directed	0	0	1	0
-awgrymu	suggest	0	0	1	1
-ddefnydd	use	0	0	1	0
-llefydd	bikers	0	0	1	0
-llefydd	llefyed	0	0	1	0
-llefydd	places	0	0	1	0
-mathafarn	mathafarn	0	0	1	0
-gandhi	gandhi	0	0	1	0
-night	night	0	0	1	0
-aimee	aimee	0	0	1	0
-technoleg	recurring	1	0	1	0
-technoleg	technology	1	1	1	1
-arafu	slow down	0	0	1	0
-etifeddiaeth	etifddiaeth	0	0	1	0
-etifeddiaeth	inheritance	0	0	1	1
-dwys	intensive	0	0	1	0
-dwyn	theft	0	0	1	0
-taffi	toffee	0	0	1	0
-bore	morning	0	0	1	1
-atyniad	attraction	0	0	1	1
-carchar	prison	0	0	1	1
-gwyddeleg	irish	0	0	1	1
-tlodi	poverty	0	0	1	1
-purple	purple	0	0	1	0
-arlywyddion	presidents	0	0	1	0
-romanos	romanos	0	0	1	0
-protestiadau	protests	0	0	1	0
-josé	jose	0	0	1	0
-mulfrain	cormorants	0	0	1	0
-dysgur	teach the	0	0	1	0
-columbus	columbus	0	0	1	0
-bwydo	feed	0	0	1	0
-peel	peel	0	0	1	0
-nsopherekgong	nsopherekgong	0	0	1	0
-cerddwyr	pedestrian	0	0	1	0
-phen	head	0	0	1	0
-ddelwedd	image	0	0	1	0
-aegeaidd	aegeaidd	0	0	1	0
-pla	plague	0	0	1	1
-post	post	0	0	1	1
-bymtheg	fifteen	0	0	1	0
-cwympo	fall	0	0	1	1
-urddau	orders	0	0	1	0
-sebastian	sebastian	0	0	1	0
-coran	coran	0	0	1	0
-ryddhawyd	released	0	0	1	0
-tiroedd	tiroedd	0	0	1	0
-tiroedd	lands	0	0	1	0
-gwyliau	holiday	0	0	1	0
-corryn	chee	1	0	1	0
-corryn	spider	1	1	0	1
-pays	pays	0	0	1	0
-xyz	xyz	0	0	1	0
-pellter	distance	0	0	1	1
-gostwng	reduced	0	0	1	0
-garddio	gardening	0	0	1	1
-garddio	graduation	0	0	1	0
-daliodd	continued	0	0	1	0
-wan	weak	0	0	1	0
-erchyll	horrible	0	0	1	1
-rhisiart	richard	0	0	1	1
-fframwaith	framework	0	0	1	1
-fflamadwy	flammable	0	0	1	0
-dewi	shut up	0	0	1	0
-wastadeddau	plains	0	0	1	0
-nodau	goals	0	0	1	0
-tarddiad	origin	0	0	1	0
-tarddiad	rating	0	0	1	0
-way	aet	0	0	1	0
-aberpennar	mountain ash	0	0	1	0
-was	was	0	0	1	0
-war	war	0	0	1	0
-pendefig	prince	0	0	1	1
-canadensis	canadensis	0	0	1	0
-oll	all	0	0	1	1
-ddulliau	methods	0	0	1	0
-hindenburg	hindenburg	0	0	1	0
-fyddin	army	0	0	1	0
-allforid	exported	0	0	1	0
-cryn	some	0	0	1	0
-dead	dead	0	0	1	0
-categoricanrifoedd	centuries category	0	0	1	0
-categoricanrifoedd	categoricanrifoedd	0	0	1	0
-cynorthwyo	help	0	0	1	1
-tiriogaethau	territories	0	0	1	0
-tiriogaethau	element	0	0	1	0
-elyrch	elyrch	0	0	1	0
-elyrch	swans	0	0	1	0
-penodwyd	appointed	0	0	1	0
-invincible	invincible	0	0	1	0
-ddwywaith	twice	0	0	1	0
-orchymyn	order	0	0	1	0
-maximus	maximus	0	0	1	0
-maximus	maximum	0	0	1	0
-aneu	aneu	0	0	1	0
-cynulliad	assembly	0	0	1	0
-filwrol	military	0	0	1	0
-ynysu	isolation	0	0	1	0
-treuliodd	spent	0	0	1	0
-milano	milano	0	0	1	0
-tebygolrwydd	likelihood	0	0	1	1
-lerpwl	liverpool	0	0	1	1
-xiii	xiii	0	0	1	0
-ffenomenau	phenomena	0	0	1	0
-ffenomenau	ffenonmenau	0	0	1	0
-gylch	about	0	0	1	0
-cefnforol	oceanic	0	0	1	0
-galendr	calendar	0	0	1	0
-siarad	talk	0	0	1	1
-gethin	gethin	0	0	1	0
-barodd	lasted	0	0	1	0
-lluosog	multiple	0	0	1	0
-heintiau	infections	0	0	1	0
-crested	crested	0	0	1	0
-crested	wearing a protector(helmet)	0	0	1	0
-henwi	named	0	0	1	0
-heintiad	infection	0	0	1	0
-ymreolaeth	autonomy	0	0	1	1
-ganiatâd	ganilatad	0	0	1	0
-ganiatâd	permission	0	0	1	0
-brothers	brothers	0	0	1	0
-irma	irma	0	0	1	0
-glaw	rain	0	0	1	1
-dechreuwyd	started	0	0	1	0
-muriau	walls	0	0	1	0
-defnyddiodd	used	0	0	1	0
-omega	omega	0	0	1	0
-llysenw	nickname	0	0	1	1
-eithriadau	exceptions	0	0	1	0
-bedd	grave	0	0	1	1
-wythïen	vein	0	0	1	0
-preifat	private	0	0	1	1
-together	together	0	0	1	0
-meteoroleg	meteorology	0	0	1	0
-meteoroleg	meteoroleg	0	0	1	0
-collared	collared	0	0	1	0
-gofyn	asked	0	0	1	0
-lencyndod	adolescence	0	0	1	0
-brysur	busy	0	0	1	0
-sidanes	sidanes	0	0	1	0
-songs	songs	0	0	1	0
-tigris	tigris	0	0	1	0
-threuliodd	spent	0	0	1	0
-dibynnu	depend	0	0	1	1
-dance	dance	0	0	1	0
-fox	fox	0	0	1	0
-mynychodd	attended	0	0	1	0
-arysgrifau	inscriptions	0	0	1	0
-iddewig	jewish	0	0	1	0
-arloeswyr	innovators	0	0	1	0
-anghywir	wrong	0	0	1	1
-anghywir	worng	0	0	1	0
-shivaeth	shivaeth	0	0	1	0
-melanocorypha	melanocorypha	0	0	1	0
-rydym	we	0	0	1	0
-rhythm	rhythm	0	0	1	0
-text	text	0	0	1	0
-cyfyng	limited	0	0	1	0
-ymladd	fighting	0	0	1	1
-hume	hume	0	0	1	0
-brown	brown	0	0	1	1
-orchuddio	covered	0	0	1	0
-hannah	hannah	0	0	1	0
-cyflawn	complete	0	0	1	1
-rownd	round	0	0	1	0
-vegas	vegas	0	0	1	0
-penrhyn	peninsula	0	0	1	0
-gyfuniad	combination	0	0	1	0
-gwener	friday	0	0	1	0
-gwŷr	wax	0	0	1	0
-geirfar	geirfar	0	0	1	0
-rhyddion	free	0	0	1	0
-categoridifyrweithiau	category: difyrweithiau	0	0	1	0
-categoridifyrweithiau	categoridifyrweithiau	0	0	1	0
-categoridifyrweithiau	category difyrweithiau	0	0	1	0
-gul	narrow	0	0	1	0
-p	p	0	0	1	0
-eifion	eifion	0	0	1	0
-teyrnasoedd	kingdoms	0	0	1	0
-helyg	willow	0	0	1	0
-cyngor	advice	0	0	1	1
-mân	a	0	0	1	0
-mân	minor	0	0	1	0
-rywiol	sexual	0	0	1	0
-corniog	horned	0	0	1	1
-anialwch	desert	0	0	1	1
-arferir	exercised	0	0	1	0
-llwyddwyd	successfully	0	0	1	0
-arferid	used to	0	0	1	0
-arferid	used	0	0	1	0
-creawdwr	creator	0	0	1	1
-burn	burn	0	0	1	0
-ffaith	fact	0	0	1	1
-plentyndod	childhood	0	0	1	1
-ffyddlon	faithful	0	0	1	1
-carcharorion	carcharoaion	0	0	1	0
-carcharorion	prisoners	0	0	1	0
-pantheistiol	pantheistiol	0	0	1	0
-gawr	giant	0	0	1	0
-bosworth	bosworth	0	0	1	0
-manawydan	manawydan	0	0	1	0
-apelio	appeal	0	0	1	1
-gorsafoedd	stations	0	0	1	0
-coedwigoedd	forests	0	0	1	0
-fotaneg	botany	0	0	1	0
-pryd	time	0	0	1	1
-pryf	insect	0	0	1	1
-fiolan	fiolan	0	0	1	0
-fiolan	viola n	0	0	1	0
-churchill	churchill	0	0	1	0
-saunders	saunders	0	0	1	0
-ysbrydol	spiritual	0	0	1	1
-gyfunrywiol	homosexual	0	0	1	0
-ddylai	should	0	0	1	0
-italiano	italiano	0	0	1	0
-wyddelig	wyddelig	0	0	1	0
-ymarferol	practical	0	0	1	0
-jan	jan	0	0	1	0
-gwair	hay	0	0	1	1
-blwyf	parish	0	0	1	0
-gosod	set	0	0	1	1
-arfau	weapons	0	0	1	0
-edmunds	edmunds	0	0	1	0
-dwythwch	dwythwch	0	0	1	0
-fuddugoliaeth	victory	0	0	1	0
-affricanwyr	africans	0	0	1	0
-live	live	0	0	1	0
-vicksburg	vicksburg	0	0	1	0
-ymwelwyr	visitors	0	0	1	0
-arabaidd	arab	0	0	1	0
-rheidol	rheidol	0	0	1	0
-gwain	sheath	0	0	1	1
-gwain	shealth	0	0	1	0
-tywydd	weather	0	0	1	1
-club	clubs	0	0	1	0
-oeddynt	they	0	0	1	0
-oren	orange	0	0	1	1
-ffeil	files	0	0	1	0
-prifddinas	capital	0	0	1	1
-gwynn	gwynn	0	0	1	0
-clawdd	bank	0	0	1	0
-sylvia	sylvia	0	0	1	0
-cyfyngedig	limited	0	0	1	0
-teithwyr	passengers	0	0	1	0
-llofruddiwyd	murdered	0	0	1	0
-ibn	ibn	0	0	1	0
-orffen	finish	0	0	1	0
-car	car	0	0	1	1
-dmitri	dmitri	0	0	1	0
-bychan	small	0	0	1	1
-cau	close	0	0	1	1
-cat	cat	0	0	1	0
-amgylcheddol	environmental	0	0	1	0
-cai	he could	0	0	1	0
-brostad	prostate	0	0	1	0
-cam	step	0	0	1	1
-categoriasiantaethau	categoriasiantaethau	0	0	1	0
-cae	field	0	0	1	1
-rhieni	parents	0	0	1	1
-tawel	quiet	0	0	1	1
-saith	seven	0	0	1	1
-gales	gales	0	0	1	0
-gristnogol	christian	0	0	1	0
-grwpiau	groups	0	0	1	0
-chin	wath	0	0	1	0
-reed	reed	0	0	1	0
-dymhorol	seasonal	0	0	1	0
-galeg	gaulish	0	0	1	0
-galed	hard	0	0	1	0
-trefol	urban	0	0	1	1
-llawlyfr	handbook	0	0	1	0
-niwbwrch	newborough	0	0	1	0
-werthodd	sold	0	0	1	0
-chroesi	cross	0	0	1	0
-economi	economic	0	0	1	0
-economi	economy	0	0	1	0
-gwanwyn	spring	0	0	1	1
-trawyd	struck	0	0	1	0
-afonydd	rivers	0	0	1	0
-cadair	chair	0	0	1	1
-ymuno	join	0	0	1	1
-disgynyddion	descendants	0	0	1	0
-bawb	all	0	0	1	0
-atmosffêr	atmosphere	0	0	1	0
-cwlt	cult	0	0	1	0
-roddwyd	given	0	0	1	0
-fasnachu	trading	0	0	1	0
-fawrth	of tuesday	0	0	1	0
-arwr	hero	0	0	1	1
-bwdiaeth	buddhism	0	0	1	0
-nhrwyn	nose	0	0	1	0
-gymryd	take	0	0	1	0
-brussel	brussel	0	0	1	0
-chwaraeodd	played	0	0	1	0
-ynnir	is drawn	0	0	1	0
-chymdeithasol	social	0	0	1	0
-credodd	believed	0	0	1	0
-ddinbych	denbighshire	0	0	1	0
-cerddir	derived	0	0	1	0
-taleithiau	provinces	0	0	1	0
-nixon	nixon	0	0	1	0
-lafa	lava	0	0	1	0
-dynar	early	0	0	1	0
-farwolaethau	deaths	0	0	1	0
-indeed	indeed	0	0	1	0
-darfod	spent	0	0	1	0
-richards	richards	0	0	1	0
-harddwch	beauty	0	0	1	1
-nitrogen	nitrogen	0	0	1	0
-coli	coli	0	0	1	0
-cold	cold	0	0	1	0
-frawd	brother	0	0	1	0
-cola	cola	0	0	1	0
-rheolaeth	management	0	0	1	1
-awgrymwyd	suggested	0	0	1	0
-anfodlon	dissatisfied	0	0	1	0
-ôl	after	0	0	1	0
-gynghrair	alliance	0	0	1	0
-ganwr	singer	0	0	1	0
-camau	action	0	0	1	0
-segontium	segontium	0	0	1	0
-niwmonia	pneumonia	1	1	1	1
-niwmonia	heat	1	0	1	0
-niwmonia	pheumonia	1	0	1	0
-herwfilwrol	guerrilla	0	0	1	0
-trafodaethau	discussions	0	0	1	0
-moelfre	moelfre	0	0	1	0
-nod	goal	0	0	1	0
-gwneuthurwyr	manufacturers	0	0	1	0
-not	not	0	0	1	0
-now	now	0	0	1	0
-hall	hall	0	0	1	0
-mathau	fostering	0	0	1	0
-mathau	types	0	0	1	0
-nos	night	0	0	1	1
-uchod	above	0	0	1	1
-gryf	strongly	0	0	1	0
-dros	for	0	0	1	0
-james	james	0	0	1	0
-grym	power	0	0	1	1
-gryn	some	0	0	1	0
-droi	turn	0	0	1	0
-maeth	nutrition	0	0	1	0
-ddata	data	0	0	1	0
-chymorth	support	0	0	1	0
-llunio	produced	0	0	1	0
-llywodraethau	governments	0	0	1	0
-el	el	0	0	1	0
-eo	he	0	0	1	0
-en	en	0	0	1	0
-ei	its	0	0	1	0
-ee	eg	0	0	1	0
-ed	ed	0	0	1	0
-ed	th	0	0	1	0
-eg	th	0	0	1	0
-ef	he	0	0	1	0
-ec	ec	0	0	1	0
-eb	eb	0	0	1	0
-goose	goose	0	0	1	0
-ez	ez	0	0	1	0
-eu	their	0	0	1	0
-croenddu	black	0	0	1	0
-comiwnyddion	communists	0	0	1	0
-tuedd	trend	0	0	1	0
-es	i	0	0	1	0
-es	l	0	0	1	0
-ffurfior	made up of	0	0	1	0
-space	space	0	0	1	0
-gleision	blue	0	0	1	0
-gleision	blues	0	0	1	0
-ryddiaith	prose	0	0	1	0
-showa	showa	0	0	1	0
-nghanolbarth	mid	0	0	1	0
-cyfeiriodd	referred	0	0	1	0
-categoritywydd	category:weather	0	0	1	0
-categoritywydd	weather category	0	0	1	0
-categoritywydd	categoritywydd	0	0	1	0
-amlygrwydd	prominence	0	0	1	1
-gogleddol	northern	0	0	1	1
-ehedydd	skylark	0	0	1	0
-hiraf	longest	0	0	1	0
-awstriahwngari	austria hungary	0	0	1	0
-awstriahwngari	awstriahwngari	0	0	1	0
-carr	carr	0	0	1	0
-suleiman	suleiman	0	0	1	0
-barddoniaeth	six	1	0	1	0
-barddoniaeth	poetry	1	1	1	1
-barau	pairs	0	0	1	0
-caru	love	0	0	1	1
-nwyddau	goods	0	0	1	0
-carn	hoof	1	1	0	1
-carn	hilt	1	0	1	1
-marino	marino	0	0	1	0
-ohio	ohio	0	0	1	0
-marina	marina	0	0	1	0
-cludiant	transport	0	0	1	0
-mellt	lightning	0	0	1	0
-gorfod	have	0	0	1	0
-castell	castle	0	0	1	1
-british	british	0	0	1	0
-domen	tip	0	0	1	0
-barhaus	ongoing	0	0	1	0
-ymfudo	migration	0	0	1	0
-ymddeol	retirement	0	0	1	0
-cymeriadau	characters	0	0	1	0
-wedi	has	0	0	1	0
-romania	romania	0	0	1	0
-xi	xi	0	0	1	0
-tenis	tennis	0	0	1	1
-ff	i	0	0	1	0
-stevens	stevens	0	0	1	0
-pusilla	pusilla	0	0	1	0
-seán	sean	0	0	1	0
-directly	directly	0	0	1	0
-groesi	crossing	0	0	1	0
-ring	ring	0	0	1	0
-ddaearyddwyr	geographers	0	0	1	0
-amhoblogaidd	unpopular	0	0	1	1
-dreigiau	dragons	0	0	1	0
-groeshoelio	crucified	0	0	1	0
-llŷn	lake	0	0	1	0
-llŷn	contagious	0	0	1	0
-cefn	back	0	0	1	1
-gatholigion	catholics	0	0	1	0
-fm	fm	0	0	1	0
-amlaf	usually	0	0	1	0
-sheen	sheen	0	0	1	0
-gernyweg	cornish	0	0	1	0
-cusanu	kiss	0	0	1	1
-that	that	0	0	1	0
-gladdu	buried	0	0	1	0
-dysgwn	we learn	0	0	1	0
-stryd	street	0	0	1	1
-thad	father	0	0	1	0
-thai	thai	0	0	1	0
-golygydd	editor	0	0	1	1
-than	under	0	0	1	0
-tywi	tywi	0	0	1	0
-westeion	guests	0	0	1	0
-television	television	0	0	1	0
-categoriasidau	category: acids	0	0	1	0
-tyfiant	growth	0	0	1	1
-ydych	you	0	0	1	0
-dymar	this is simply	0	0	1	0
-chadw	retention	0	0	1	0
-llosg	exhaust	0	0	1	0
-gymeryd	take	0	0	1	0
-documentation	documentation	0	0	1	0
-angen	need	0	0	1	1
-saitama	saitama	0	0	1	0
-angel	angel	0	0	1	1
-craig	rock	0	0	1	1
-delio	deal	0	0	1	1
-dderbyniodd	received	0	0	1	0
-poblog	populated	0	0	1	0
-ceisio	try	0	0	1	1
-dylair	should the	0	0	1	0
-windsor	windsor	0	0	1	0
-ddwyrain	east	0	0	1	0
-swistir	switzerland	0	0	1	0
-mesur	measure	0	0	1	1
-gwrs	course	0	0	1	0
-categoridiwydiannau	category: industries	0	0	1	0
-categoridiwydiannau	categoridiwydiannau	0	0	1	0
-gwrw	beer	0	0	1	0
-gyfartaledd	average	0	0	1	0
-leiafrifol	minority	0	0	1	0
-rhatach	cheaper	0	0	1	0
-tryfesur	diameter	0	0	1	1
-palazzo	palazzo	0	0	1	0
-rhannau	parts	0	0	1	0
-credinwyr	believers	0	0	1	0
-santiago	santiago	0	0	1	0
-karakoram	karakoram	0	0	1	0
-categorianifeiliaid	category: animals	0	0	1	0
-price	price	0	0	1	0
-lledaeniad	spread	0	0	1	0
-borthladdoedd	ports	0	0	1	0
-lanius	lanius	0	0	1	0
-llewyrchus	prosperous	0	0	1	1
-america	america	0	0	1	0
-rheswm	reason	0	0	1	1
-destiny	destiny	0	0	1	0
-bennill	verse	0	0	1	0
-bennill	winning	0	0	1	0
-mrs	mrs	0	0	1	0
-abraham	abraham	0	0	1	0
-decaffeineiddio	decaffeineiddio	0	0	1	0
-categoriafiechydon	categoriafiechydon	0	0	1	0
-hytrach	rather	0	0	1	1
-ymerawdwr	emperor	0	0	1	1
-canfod	found	0	0	1	0
-fenai	straight	0	0	1	0
-fenai	strait	0	0	1	0
-portread	portrait	0	0	1	0
-portread	potrait	0	0	1	0
-dolwyddelan	dolwyddelan	0	0	1	0
-tasmania	tasmania	0	0	1	0
-gnau	nuts	0	0	1	0
-gnau	singing	0	0	1	0
-adolf	adolf	0	0	1	0
-title	title	0	0	1	0
-injan	engine	0	0	1	0
-only	only	0	0	1	0
-martes	martes	0	0	1	0
-sierra	sierra	0	0	1	0
-gwladychu	colonization	0	0	1	0
-fort	fort	0	0	1	0
-flaen	front	0	0	1	0
-rhwydweithio	networking	0	0	1	0
-mwnt	motte	0	0	1	0
-mwnt	mwnt	0	0	1	0
-samuel	samuel	0	0	1	0
-eglur	clear	0	0	1	1
-disgybl	disciple	1	1	0	1
-ddatblygiadau	developments	0	0	1	0
-truly	truly	0	0	1	0
-baghdad	baghdad	0	0	1	0
-baghdad	transformation	0	0	1	0
-bedyddwyr	baptist	0	0	1	0
-dyngedfennol	critical	0	0	1	0
-wranws	uranus	0	0	1	0
-defnyddiau	materials	0	0	1	0
-helyntion	adventures	0	0	1	0
-llwythau	tribes	0	0	1	0
-llon	cheerful	0	0	1	0
-sylwedd	substance	0	0	1	1
-hela	hunting	0	0	1	0
-ansicrwydd	uncertainty	0	0	1	1
-ddienyddio	executed	0	0	1	0
-sychach	drier	0	0	1	0
-technolegol	technological	0	0	1	1
-iwgoslafia	yugoslavia	0	0	1	0
-anrhywiol	asexual	0	0	1	1
-bengoch	pochard	0	0	1	0
-ceiriosen	cherry	1	1	0	1
-ceiriosen	uses	1	0	1	0
-ceiriosen	fox	1	0	1	0
-ceiriosen	dani	1	0	1	0
-llefelys	llefelys	0	0	1	0
-hoes	life	0	0	1	0
-orchfygwyd	defeated	0	0	1	0
-llywodraethwr	governor	0	0	1	1
-herschel	herschel	0	0	1	0
-bobloedd	peoples	0	0	1	0
-gadwyn	chain	0	0	1	0
-ynglyn	about	0	0	1	0
-ddinasoedd	cities	0	0	1	0
-dolennau	links	0	0	1	0
-sgrôl	scroll	0	0	1	0
-geifr	goats	0	0	1	0
-ladin	latin	0	0	1	0
-dartford	dartford	0	0	1	0
-offeiriaid	priest	0	0	1	0
-offeiriaid	priests	0	0	1	0
-hŷn	older	0	0	1	0
-notice	notice	0	0	1	0
-cefnogi	support	0	0	1	1
-gardd	garden	0	0	1	1
-brwsel	brussels	0	0	1	0
-seremoniau	ceremonies	0	0	1	0
-lethraur	lethraur	0	0	1	0
-shearwater	shearwater	0	0	1	0
-gwe	web	0	0	1	1
-adeiladau	buildings	0	0	1	0
-amrywiad	variation	0	0	1	1
-rhydd	free	0	0	1	1
-abergwaun	fishguard	0	0	1	1
-abergwaun	sequence	0	0	1	0
-vun	vun	0	0	1	0
-sisili	sicily	0	0	1	0
-sisili	sisilli	0	0	1	0
-electroneg	electronics	0	0	1	0
-phalaropus	phalaropus	0	0	1	0
-mont	mont	0	0	1	0
-mons	cons	0	0	1	0
-mons	mons	0	0	1	0
-sinema	cinema	0	0	1	0
-gasgliad	collection	0	0	1	0
-olrhain	tracking	0	0	1	0
-màs	out	0	0	1	0
-basilica	basilica	0	0	1	0
-teuluol	family	0	0	1	0
-iolo	iolo	0	0	1	0
-amino	amino	0	0	1	0
-oliver	oliver	0	0	1	0
-glans	glans	0	0	1	0
-wien	wien	0	0	1	0
-weithredol	active	0	0	1	0
-ffindir	finland	0	0	1	0
-dictator	dictator	0	0	1	0
-datgelu	disclosure	0	0	1	0
-megis	such as	0	0	1	0
-elvis	elvis	0	0	1	0
-adnoddau	resources	0	0	1	1
-fwyfwy	increasingly	0	0	1	0
-gorau	best	0	0	1	1
-categoridaeareg	categoridaeareg	0	0	1	0
-categoridaeareg	categoridaeared	0	0	1	0
-cysylltur	cysylltur	0	0	1	0
-cysylltur	link	0	0	1	0
-cysgu	sleep	0	0	1	1
-cenhadon	missionaries	0	0	1	0
-hodgson	hodgson	0	0	1	0
-disgyblaethau	disciplines	0	0	1	0
-these	these	0	0	1	0
-these	ese	0	0	1	0
-cymerodd	took	0	0	1	0
-gomedi	comedy	0	0	1	0
-casgliadau	conclusions	0	0	1	0
-talaith	province	0	0	1	1
-dreulio	spend	0	0	1	0
-canolfan	center	0	0	1	1
-canolfan	centre	0	0	1	0
-ein	our	0	0	1	1
-aberteifi	cardigan	0	0	1	1
-economeg	economics	0	0	1	1
-gyferbyn	opposite	0	0	1	1
-latifa	latifa	0	0	1	0
-metrig	metric	0	0	1	0
-cyfnewid	exchange	0	0	1	1
-henw	name	0	0	1	0
-kenya	kenya	0	0	1	0
-dynolryw	mankind	0	0	1	1
-milwrol	military	0	0	1	1
-deillio	derived	0	0	1	0
-pensaernïol	architectural	0	0	1	0
-sŵn	noise	0	0	1	0
-ddringor	climbing	0	0	1	0
-document	document	0	0	1	0
-nodiant	notation	0	0	1	1
-llygaid	eyes	0	0	1	0
-arctic	arctic	0	0	1	0
-babilon	babylon	0	0	1	1
-arctig	arctic	0	0	1	0
-beirdd	poets	0	0	1	0
-chwaraewr	player	0	0	1	1
-blynyddol	annual	0	0	1	1
-gwaethygodd	worsened	0	0	1	0
-categoriplanhigion	categoriplanhigion	0	0	1	0
-mlynedd	years	0	0	1	0
-priodas	marriage	0	0	1	1
-ddysgodd	learned	0	0	1	0
-brych	placenta	0	0	1	0
-wessex	wessex	0	0	1	0
-ffoton	photon	1	1	0	0
-ymostwng	submit	0	0	1	1
-dathliadau	celebrations	0	0	1	0
-naoned	naoned	0	0	1	0
-llyfrgell	library	0	0	1	1
-ccc	plc	0	0	1	0
-trwynol	nasal	0	0	1	1
-phwyslais	emphasis	0	0	1	0
-amlwch	amlwch	0	0	1	0
-gymaint	so	0	0	1	0
-tudur	tudor	0	0	1	1
-cambodia	cambodia	0	0	1	0
-co	co	0	0	1	0
-baikal	baikal	0	0	1	0
-brofion	tests	0	0	1	0
-ataliodd	prevented	0	0	1	0
-arlywyddiaeth	arlywyddiaeth	0	0	1	0
-arlywyddiaeth	presidency	0	0	1	1
-ddeddfau	laws	0	0	1	0
-brawddegau	sentences	0	0	1	0
-americanwyr	americans	0	0	1	0
-brosesu	processing	0	0	1	0
-goeden	tree	0	0	1	0
-egwyddorion	principles	0	0	1	0
-hollt	split	0	0	1	1
-real	real	0	0	1	0
-cyffiniau	vicinity	0	0	1	0
-frown	brown	0	0	1	0
-marcus	marcus	0	0	1	0
-read	read	0	0	1	0
-seryddol	astronomical	0	0	1	1
-ên	en	0	0	1	0
-makes	makes	0	0	1	0
-sagrada	sagrada	0	0	1	0
-newidiodd	changed	0	0	1	0
-gynhyrchion	products	0	0	1	0
-lady	lady	0	0	1	0
-neuadd	hall	0	0	1	1
-genedlaethol	national	0	0	1	0
-syrffio	surf	0	0	1	0
-lleiafrif	minority	0	0	1	1
-cerddor	musician	0	0	1	1
-newid	change	0	0	1	1
-t	p	0	0	1	0
-t	t	0	0	1	0
-ymunodd	joined	0	0	1	0
-giuseppe	giuseppe	0	0	1	0
-malus	malus	0	0	1	0
-fuodd	stood	0	0	1	0
-yng	in	0	0	1	0
-synge	synge	0	0	1	0
-bydd	will	0	0	1	0
-achosion	cases	0	0	1	0
-dydyr	dydyr	0	0	1	0
-eddie	eddie	0	0	1	0
-ganiatáu	allow	0	0	1	0
-kaiser	kaiser	0	0	1	0
-ethol	elect	0	0	1	1
-garreg	stone	0	0	1	0
-foltedd	voltage	1	1	1	0
-foltedd	in the light of	1	0	1	0
-foltedd	by	1	0	1	0
-foltedd	according	1	0	1	0
-bwyntiau	points	0	0	1	0
-shanklin	shanklin	0	0	1	0
-dechraur	the beginning	0	0	1	0
-ganur	but sing out	0	0	1	0
-cynnydd	progress	0	0	1	1
-adfer	recovery	0	0	1	0
-valletta	valletta	0	0	1	0
-seine	seine	0	0	1	0
-cyfeiriwyd	reference	0	0	1	0
-thros	over	0	0	1	0
-francis	francis	0	0	1	0
-lloerennau	satellites	0	0	1	0
-cymalwst	gout	1	1	0	0
-cymalwst	self	1	0	1	0
-cymalwst	self dominance	1	0	1	0
-central	central	0	0	1	0
-unesco	unesco	0	0	1	0
-sri	sri	0	0	1	0
-henaint	age	0	0	1	0
-henaint	old age	0	0	1	0
-wolf	wolf	0	0	1	0
-ofnadwy	terrible	0	0	1	1
-brezhoneg	brezhoneg	0	0	1	0
-poly	poly	0	0	1	0
-ralphie	ralphie	0	0	1	0
-your	your	0	0	1	0
-chymharu	compare	0	0	1	0
-adweithiau	reactions	0	0	1	0
-albwm	album	0	0	1	1
-cath	cat	0	0	1	1
-cyfweliad	interview	0	0	1	0
-nghalon	heart	0	0	1	0
-bychain	small	0	0	1	0
-los	los	0	0	1	0
-lot	a lot	0	0	1	0
-amhosib	impossible	0	0	1	0
-cynhadledd	conference	0	0	1	1
-mercia	mercia	0	0	1	0
-henlein	henlein	0	0	1	0
-iwterws	iwterws	0	0	1	0
-priodi	married	0	0	1	0
-pecyn	package	0	0	1	1
-gwelwch	see	0	0	1	0
-wallgof	crazy	0	0	1	0
-glefyd	disease	0	0	1	0
-glefyd	chamberlain	0	0	1	0
-cyhoeddodd	published	0	0	1	0
-glanio	landing	0	0	1	0
-cyfyngiadau	restrictions	0	0	1	0
-default	default	0	0	1	0
-ffeiliau	files	0	0	1	0
-miguel	miguel	0	0	1	0
-daniaid	danes	0	0	1	0
-ffasiwn	fashion	0	0	1	1
-loegr	of england	0	0	1	0
-cornchwiglen	lapwing	0	0	1	1
-gwaethaf	worst	0	0	1	1
-categorimetelau	categorimetelau	0	0	1	0
-categorimetelau	categories metals	0	0	1	0
-categorimetelau	category metals	0	0	1	0
-diwylliannol	cultural	0	0	1	0
-raglenni	programs	0	0	1	0
-cyflymder	speed	0	0	1	1
-mrwsel	brussels	0	0	1	0
-chwysu	sweating	0	0	1	0
-rybuddio	warn	0	0	1	0
-colli	loss	0	0	1	0
-brydeinig	brydeing	0	0	1	0
-brydeinig	british	0	0	1	0
-chyrff	bodies	0	0	1	0
-you	you	0	0	1	0
-perfformiodd	performed	0	0	1	0
-gruiformes	gruiformes	0	0	1	0
-enillasant	won	0	0	1	0
-adnabyddir	known	0	0	1	0
-anial	desert	0	0	1	1
-ragweld	predict	0	0	1	0
-patxi	patxi	0	0	1	0
-coginio	cooking	0	0	1	0
-ewropiwm	europe	1	0	1	0
-ewropiwm	count	1	0	1	0
-ewropiwm	europium	1	1	0	0
-ewropiwm	ewropiwm	1	0	1	0
-ewropiwm	calculations	1	0	1	0
-ewropiwm	data	1	0	1	0
-nederlands	nederlands	0	0	1	0
-massachusetts	massachusetts	0	0	1	0
-hunanlywodraeth	huanlywodraeth	0	0	1	0
-hunanlywodraeth	self-government	0	0	1	0
-ramsay	raamsay	0	0	1	0
-ramsay	ramsay	0	0	1	0
-arwyddair	motto	0	0	1	1
-aedui	aedui	0	0	1	0
-croes	cross	0	0	1	1
-croew	croew	0	0	1	0
-ddosbarthu	distribution	0	0	1	0
-bresennol	present	0	0	1	0
-croen	skin	0	0	1	1
-gerddorol	musical	0	0	1	0
-arestio	arrest	0	0	1	1
-monte	monte	0	0	1	0
-ddaeargrynfeydd	earthquakes	0	0	1	0
-tingoch	redstart	0	0	1	0
-caniatáu	allows	0	0	1	0
-blanche	blanche	0	0	1	0
-kestrel	kestrel	0	0	1	0
-nofelydd	novelist	0	0	1	1
-fwriadol	deliberately	0	0	1	0
-douglas	douglas	0	0	1	0
-greadigol	creative	0	0	1	0
-darlledur	darlledur	0	0	1	0
-gwyddonwyr	scientists	0	0	1	0
-threfn	order	0	0	1	0
-threfi	towns	0	0	1	0
-byddinoedd	armies	0	0	1	0
-addaswyd	modified	0	0	1	0
-región	region	0	0	1	0
-arbenigo	specialized	0	0	1	0
-very	very	0	0	1	0
-lundain	london	0	0	1	0
-fasgeg	fasgeg	0	0	1	0
-parry	parry	0	0	1	0
-cyngerdd	concert	0	0	1	1
-ieuanc	young	0	0	1	1
-cymeryd	take	0	0	1	0
-eglwys	shrine	0	0	1	0
-eglwys	church	0	0	1	1
-anas	anas	0	0	1	0
-louis	louis	0	0	1	0
-efor	befor	0	0	1	0
-efor	with	0	0	1	0
-nodwyddau	needles	0	0	1	0
-chwith	left	0	0	1	1
-rhyngweithiol	interactive	0	0	1	0
-ynghylch	about	0	0	1	1
-golfanod	sparrows	0	0	1	0
-cwpan	cup	0	0	1	1
-heniaith	old language	0	0	1	0
-fryniau	hills	0	0	1	0
-effeithiau	effects	0	0	1	0
-orgasm	orgasm	0	0	1	0
-ffrind	friend	0	0	1	1
-theach	teach	0	0	1	0
-lwtetiwm	do	1	0	1	0
-lwtetiwm	lwteiwm	1	0	1	0
-lwtetiwm	iwtetiwm	1	0	1	0
-lwtetiwm	lutetium	1	1	0	0
-lwtetiwm	can do	1	0	1	0
-lwtetiwm	lwtetiwm	1	0	1	0
-galwadau	calls	0	0	1	0
-cerbyd	vehicle	0	0	1	0
-crybwyll	mentioned	0	0	1	0
-slofacia	slovakia	0	0	1	0
-cerflun	sculpture	0	0	1	0
-nghefnfor	ocean	0	0	1	0
-uchel	high	0	0	1	1
-nant	stream	0	0	1	0
-penderfyniad	decision	0	0	1	0
-iran	iran	0	0	1	0
-irac	iraq	0	0	1	0
-zedong	zedong	0	0	1	0
-modify	modify	0	0	1	0
-ffurfir	formed	0	0	1	0
-doyle	doyle	0	0	1	0
-ffurfio	form	0	0	1	1
-tasgau	tasks	0	0	1	0
-tachwedd	november	0	0	1	1
-disgyblaeth	discipline	0	0	1	1
-iraq	iraq	0	0	1	0
-chadwodd	retained	0	0	1	0
-chadwodd	chadwood	0	0	1	0
-aberhonddu	brecon	0	0	1	0
-llan	glebe	0	0	1	0
-llan	lan	0	0	1	0
-átha	thought	0	0	1	0
-átha	latha	0	0	1	0
-pibydd	piper	0	0	1	1
-categoriarian	category:funding	0	0	1	0
-categoriarian	categoriarian	0	0	1	0
-llai	less	0	0	1	1
-disclaimers	disclaimers	0	0	1	0
-categorimamaliaid	categorimamaliaid	0	0	1	0
-categorimamaliaid	categories:mammals	0	0	1	0
-llaw	digestion	1	0	1	0
-llaw	digestive	1	0	1	0
-llaw	hand	1	1	1	1
-ddisgyblaeth	discipline	0	0	1	0
-gwleidyddiaeth	politics	0	0	1	1
-diflannun	diflannun	0	0	1	0
-gwalch	hawk	0	0	1	1
-dyfrhau	irrigation	0	0	1	0
-thatcher	thatcher	0	0	1	0
-burum	yeast	0	0	1	1
-cangen	branch	0	0	1	1
-adroddwyd	reported	0	0	1	0
-pryder	addurno'r	0	0	1	0
-pryder	concern	0	0	1	0
-khan	khan	0	0	1	0
-rhad	runs	0	0	1	0
-rhad	cheap	0	0	1	1
-greodd	created	0	0	1	0
-contains	contains	0	0	1	0
-strauss	strauss	0	0	1	0
-algae	algae	0	0	1	0
-deuoliaeth	duality	0	0	1	1
-cydffactorau	cydffactorau	0	0	1	0
-weriniaethol	republican	0	0	1	0
-uchafbwynt	peak	0	0	1	0
-ffrwythau	fruit	0	0	1	0
-indiaidd	indians	0	0	1	0
-indiaidd	indian	0	0	1	0
-tsiec	czech	0	0	1	0
-diod	drink	0	0	1	1
-ehangiad	expansion	0	0	1	0
-gwledig	rural	0	0	1	1
-eryri	snowdonia	0	0	1	1
-gweinidog	little	1	0	1	0
-gweinidog	just	1	0	1	0
-gweinidog	dog	1	1	0	0
-gweinidog	zaraa	1	0	1	0
-gweinidog	minister	1	1	1	1
-gweinidog	ministerial	1	0	1	0
-gweinidog	gwetinidog	1	0	1	0
-hanner	half	0	0	1	1
-amryw	various	0	0	1	1
-numenius	numenius	0	0	1	0
-pendil	pendulum	0	0	1	1
-himalaya	himalaya	0	0	1	0
-symudiad	movement	0	0	1	1
-sâl	ill	0	0	1	0
-gaerdydd	cardiff	0	0	1	0
-cyfog	tower	1	0	1	0
-cyfog	k	1	0	1	0
-cyfog	nausea	1	1	0	0
-cristnogion	christians	0	0	1	0
-kudrow	kudrow	0	0	1	0
-stêm	steam	0	0	1	0
-anfon	send	0	0	1	1
-clogwyn	cliff	0	0	1	1
-ffestiniog	ffestiniog	0	0	1	0
-gyfatebol	equivalent	0	0	1	0
-moroco	morocco	0	0	1	0
-brenin	king	0	0	1	1
-yemen	yemen	0	0	1	0
-mo	m	0	0	1	0
-nino	nino	0	0	1	0
-history	history	0	0	1	0
-départements	départements	0	0	1	0
-départements	départments	0	0	1	0
-alba	alba	0	0	1	0
-categorisiroedd	categorisiroedd	0	0	1	0
-hindŵaidd	hindu	0	0	1	0
-marged	margaret	0	0	1	1
-gwleidyddol	political	0	0	1	1
-bwrpas	purpose	0	0	1	0
-dawnsio	dance	0	0	1	1
-andronikos	andronikos	0	0	1	0
-isrywogaethau	subspecies	0	0	1	0
-chyhoeddodd	published	0	0	1	0
-mamwlad	homeland	0	0	1	0
-clarke	clarke	0	0	1	0
-categorisystem	categorisystem	0	0	1	0
-cyfieithu	translation	0	0	1	0
-categoricemeg	categoricemeg	0	0	1	0
-serbeg	serbian	0	0	1	0
-achub	save	0	0	1	1
-cymhleth	complex	0	0	1	1
-pleidleisio	vote	0	0	1	1
-fu	was	0	0	1	0
-fy	i	0	0	1	0
-fc	dc	0	0	1	0
-chulfor	strait	0	0	1	0
-fe	i	0	0	1	0
-gweriniaethau	republics	0	0	1	0
-fi	i	0	0	1	1
-fi	l	0	0	1	0
-ffurfiol	formal	0	0	1	1
-fl	fl	0	0	1	0
-gast	cast	0	0	1	0
-fo	a	0	0	1	0
-a	and	0	0	1	1
-pâr	pair	0	0	1	0
-dyddiad	date	0	0	1	1
-effeithiwyd	affected	0	0	1	0
-cysylltir	associated	0	0	1	0
-cyfraith	law	0	0	1	1
-pâl	pal	0	0	1	0
-dyddiau	days	0	0	1	0
-brifysgol	university	0	0	1	0
-dosberthir	distributed	0	0	1	0
-help	help	0	0	1	1
-urdd	order	0	0	1	1
-sownd	stranded	0	0	1	0
-fioleg	biology	0	0	1	0
-bynciau	subjects	0	0	1	0
-heliwm	fail	1	0	1	0
-heliwm		1	0	1	0
-heliwm	helium	1	1	1	0
-heliwm	fossil	1	0	1	0
-diodorus	diodorus	0	0	1	0
-helo	hello	0	0	1	0
-ffa	beans	0	0	1	0
-hendrix	hendrix	0	0	1	0
-chwaith	either	0	0	1	0
-ddatblygwyd	developed	0	0	1	0
-gwaharddiad	ban	0	0	1	0
-heron	heron	0	0	1	0
-helmand	helmand	0	0	1	0
-rhedwyr	runners	0	0	1	0
-japaneg	apanese	0	0	1	0
-weriniaethwyr	republicans	0	0	1	0
-yi	yi	0	0	1	0
-sacrwm	disasters	1	0	1	0
-sacrwm	scrwm	1	1	0	0
-sacrwm	hardship or disaster	1	0	1	0
-sacrwm	sacrum	1	1	0	0
-ym	in	0	0	1	0
-yn	in	0	0	1	1
-ya	ya	0	0	1	0
-lawnsiwyd	launched	0	0	1	0
-bydeang	global	0	0	1	0
-neuquén	neuquen	0	0	1	0
-hyrwyddo	promote	0	0	1	1
-ymledodd	spread	0	0	1	0
-presennol	current	0	0	1	0
-presennol	persennol	0	0	1	0
-yr	the	0	0	1	0
-yu	yu	0	0	1	0
-yw	is	0	0	1	0
-hebron	hebron	0	0	1	0
-drafnidiaeth	transport	0	0	1	0
-weinyddol	administrative	0	0	1	0
-pensaernïaeth	architecture	0	0	1	0
-uwch	higher	0	0	1	1
-enwol	nominal	0	0	1	0
-gosodir	set	0	0	1	0
-addysgol	educational	0	0	1	1
-enwog	famous	0	0	1	1
-metamorffig	metamorphic	0	0	1	0
-neil	neil	0	0	1	0
-sŵoleg	zoology	0	0	1	0
-astudiaethau	studies	0	0	1	0
-daleithiau	provinces	0	0	1	0
-pablo	pablo	0	0	1	0
-haley	haley	0	0	1	0
-semitaidd	semitic	0	0	1	0
-semitaidd	semitaidd	0	0	1	0
-disgrifiadau	descriptions	0	0	1	0
-gynharach	earlier	0	0	1	0
-halen	salt	0	0	1	1
-bleidleisiau	votes	0	0	1	0
-dweud	said	0	0	1	0
-boddi	drowning	0	0	1	0
-miss	miss	0	0	1	0
-robert	robert	0	0	1	0
-since	since a	0	0	1	0
-since	since	0	0	1	0
-wleidyddiaeth	politics	0	0	1	0
-publish	publish	0	0	1	0
-berthnasol	relevant	0	0	1	0
-pum	five	0	0	1	0
-rhondda	rhondda	0	0	1	0
-maint	size	0	0	1	1
-euraidd	golden	0	0	1	0
-ddamcaniaeth	theory	0	0	1	0
-berfformiad	performance	0	0	1	0
-dagrau	tears	0	0	1	0
-dirk	dirk	0	0	1	0
-dirk	land	0	0	1	0
-encyclopædia	encyclopedia	0	0	1	0
-pur	pure	0	0	1	1
-leolir	located	0	0	1	0
-<i>	<i>	0	0	1	0
-adferwyd	recovered	0	0	1	0
-ddamwain	accident	0	0	1	0
-oroesi	survival	0	0	1	0
-american	american	0	0	1	0
-lliwedd	lliwedd	0	0	1	0
-syria	syria	0	0	1	0
-echel	axis	0	0	1	1
-gwerin	folk	0	0	1	0
-cenia	kenya	0	0	1	0
-glannau	banks	0	0	1	0
-hertsegofina	herzegovina	0	0	1	0
-teisen	cake	1	1	0	1
-teisen	unique	1	0	1	0
-teisen	nadir	1	0	1	0
-symbolaidd	symbolic	0	0	1	0
-darllenwch	read	0	0	1	0
-bathwyd	coined	0	0	1	0
-gyfansoddiadol	constitutional	0	0	1	0
-ymgarthion	disbalance	1	0	1	0
-ymgarthion	feces	1	1	0	0
-ymgarthion	faeces	1	1	0	0
-ymgarthion	istvan	1	0	1	0
-categorigwyddorau	categorigwyddorau	0	0	1	0
-dulliau	methods	0	0	1	0
-niwedd	end	0	0	1	0
-methu	failure	0	0	1	0
-vanellus	vanellus	0	0	1	0
-pêldroediwr	footballer	0	0	1	0
-station	station	0	0	1	0
-gibraltar	gibraltar	0	0	1	0
-popeth	everything	0	0	1	1
-marchnata	marketing	0	0	1	0
-darfu	disruption	0	0	1	0
-bersaidd	persian	0	0	1	0
-agored	open	0	0	1	1
-bowen	bowen	0	0	1	0
-basau	bases	0	0	1	0
-jamie	jamie	0	0	1	0
-paganiaeth	paganism	0	0	1	1
-argloddiau	embankments	0	0	1	0
-categoriundduwiaeth	categoriundduwiaeth	0	0	1	0
-jordan	jordan	0	0	1	0
-parthiaid	parthians	0	0	1	0
-authors	authors	0	0	1	0
-olwyn	wheel	0	0	1	1
-translation	translation	0	0	1	0
-nigeria	nigeria	0	0	1	0
-greu	a	0	0	1	0
-palesteina	palestine	0	0	1	0
-palesteina	palesteina	0	0	1	0
-posibl	possible	0	0	1	1
-grey	gray	0	0	1	0
-grey	grey	0	0	1	0
-bridd	soil	0	0	1	0
-gref	strong	0	0	1	0
-tunis	tunis	0	0	1	0
-berwi	boiling	0	0	1	0
-vlaamse	vlaamse	0	0	1	0
-charlotte	charlotte	0	0	1	0
-macau	macau	0	0	1	0
-dylanwadol	influential	0	0	1	1
-chwefror	february	0	0	1	1
-esgyn	ascending	0	0	1	0
-ddatblygu	development	0	0	1	0
-tylwyth	family	0	0	1	1
-diwinyddol	theological	0	0	1	1
-null	null	0	0	1	0
-karl	karl	0	0	1	0
-ychwanegir	added	0	0	1	0
-fesul	by	0	0	1	1
-eisteddfod	eisteddfod	0	0	1	1
-fesur	measure	0	0	1	0
-liw	color	0	0	1	0
-gerllaw	nearby	0	0	1	0
-llenor	writer	0	0	1	0
-ewros	euros	0	0	1	0
-rhy	too	0	0	1	0
-cyffredinol	general	0	0	1	1
-byrddau	boards	0	0	1	0
-setophaga	setophaga	0	0	1	0
-aires	aires	0	0	1	0
-aires	aries	0	0	1	0
-rhiannon	rhiannon	0	0	1	0
-watt	watt	0	0	1	0
-watt	watts	0	0	1	0
-tonga	tonga	0	0	1	0
-deallusol	intellectual	0	0	1	0
-chlorus	chlorus	0	0	1	0
-dynes	woman	0	0	1	1
-eryrod	eagles	0	0	1	0
-snowdon	snowdon	0	0	1	0
-dilynwyr	fans	0	0	1	0
-romanus	romanus	0	0	1	0
-ymerodres	empress	0	0	1	1
-prydain	british	0	0	1	0
-certi	carts	0	0	1	0
-komnenos	komnenos	0	0	1	0
-categoriplanedau	categoriplanedau	0	0	1	0
-categoriplanedau	category of planets	0	0	1	0
-dilynwyd	followed	0	0	1	0
-anifail	animal	0	0	1	1
-calidris	calidris	0	0	1	0
-copyright	copyright	0	0	1	0
-enillion	of earnings	0	0	1	0
-enillion	earnings	0	0	1	0
-phrifddinas	capital	0	0	1	0
-yma	here	0	0	1	1
-ddŵr	water	0	0	1	0
-randy	apartment	0	0	1	0
-unwaith	once	0	0	1	1
-fydeang	global	0	0	1	0
-cebl	cable	0	0	1	0
-darwin	darwin	0	0	1	0
-zambia	zambia	0	0	1	0
-anatomeg	anatomy	0	0	1	1
-ngorllewin	west	0	0	1	0
-tirwedd	landscape	0	0	1	0
-asiantaeth	agency	0	0	1	0
-mewnfudiad	immigration	0	0	1	0
-during	during	0	0	1	0
-lywodraeth	government	0	0	1	0
-raddfa	scale	0	0	1	0
-legibly	legibly	0	0	1	0
-ffatrïoedd	factories	0	0	1	0
-ieuenctid	youth	0	0	1	1
-uchder	height	0	0	1	1
-rywogaethau	species	0	0	1	0
-llid	inflammation	0	0	1	1
-chyfoethog	chyfeothog	0	0	1	0
-chyfoethog	rich	0	0	1	0
-gelf	art	0	0	1	0
-x	x	0	0	1	0
-forster	forster	0	0	1	0
-gell	cell	0	0	1	0
-dant	period	1	0	1	0
-dant	tooth	1	1	1	1
-dant	visit	1	0	1	0
-dant	era	1	0	1	0
-dant	commander	1	0	1	0
-schwimmer	schwimmer	0	0	1	0
-mhalesteina	palestine	0	0	1	0
-maurice	maurice	0	0	1	0
-afon	river	0	0	1	1
-fileindonesia	fileindonesia	0	0	1	0
-cylchgrawn	magazine	0	0	1	1
-phrif	main	0	0	1	0
-gariad	love	0	0	1	0
-porzana	porzana	0	0	1	0
-filiynau	millions	0	0	1	0
-bwrdeistref	borough	0	0	1	1
-redbreasted	redbreasted	0	0	1	0
-enwau	names	0	0	1	0
-teledu	tv	0	0	1	0
-sefydlog	stable	0	0	1	1
-vlaams	vlaams	0	0	1	0
-conditions	conditions	0	0	1	0
-eidaleg	italian	0	0	1	0
-nodweddir	characterized	0	0	1	0
-isod	below	0	0	1	1
-web	web	0	0	1	0
-mytholegol	mythological	0	0	1	0
-cyfeiriadau	references	0	0	1	0
-cyfeiriadau	reference	0	0	1	0
-encilio	back off	0	0	1	0
-encilio	retreat	0	0	1	1
-eisiau	want	0	0	1	0
-delerau	terms	0	0	1	0
-casglodd	collected	0	0	1	0
-nghywair	key of	0	0	1	0
-bopeth	everything	0	0	1	0
-anthus	anthus	0	0	1	0
-disgwyl	expected	0	0	1	0
-ysbrydolodd	inspired	0	0	1	0
-plât	plate	0	0	1	0
-peidiwch	do not	0	0	1	0
-gwynion	complaints	0	0	1	0
-gwynion	complaints of	0	0	1	0
-gwaedlyd	bloody	0	0	1	1
-tynged	fate	0	0	1	1
-muhammad	muhammad	0	0	1	0
-rhinoplasti	rhinoplasty	0	0	1	0
-sgìl	from	0	0	1	0
-sofietaidd	soviet	0	0	1	0
-llywodraeth	government	0	0	1	1
-morffoleg	morphology	0	0	1	0
-galileo	galileo	0	0	1	0
-linux	linux	0	0	1	0
-stamp	stamp	0	0	1	1
-adferiad	recovery	0	0	1	1
-walter	walter	0	0	1	0
-sanders	sanders	0	0	1	0
-twrci	turkey	0	0	1	1
-llongau	shipping	0	0	1	0
-anthony	anthony	0	0	1	0
-lives	lives	0	0	1	0
-biocemeg	biochemistry	0	0	1	0
-gyhydedd	equator	0	0	1	0
-mwynau	minerals	0	0	1	0
-môr	feel	1	0	1	0
-môr	as	1	0	1	0
-môr	place	1	0	1	0
-môr	look	1	0	1	0
-môr	sea	1	1	0	0
-trochydd	of red	0	0	1	0
-luciano	luciano	0	0	1	0
-luis	luis	0	0	1	0
-mitchell	mitchell	0	0	1	0
-guide	guide	0	0	1	0
-eplesu	fermentation	0	0	1	0
-huws	huws	0	0	1	0
-wyddfa	snowdon	0	0	1	0
-rhyngwladol	international	0	0	1	1
-unfed	sixteenth	0	0	1	0
-byddent	they	0	0	1	0
-pacistan	pakistan	0	0	1	0
-daneg	danish	0	0	1	0
-shaw	shaw	0	0	1	0
-ychwanegu	add	0	0	1	1
-grant	grant	0	0	1	0
-grand	grand	0	0	1	0
-modification	modification	0	0	1	0
-shan	shan	0	0	1	0
-used	used	0	0	1	0
-dime	dime	0	0	1	0
-tuvalu	tuvalu	0	0	1	0
-blair	blair	0	0	1	0
-elwir	called	0	0	1	0
-farddoniaeth	farddomiaeth	0	0	1	0
-farddoniaeth	poetry	0	0	1	0
-ymdeimlad	sense	0	0	1	1
-cofnodion	records	0	0	1	0
-elwid	known	0	0	1	0
-ddechrau	start	0	0	1	0
-blaid	party	0	0	1	0
-cytunwyd	agreed	0	0	1	0
-phedwar	four	0	0	1	0
-saeson	england	0	0	1	0
-lancastriaid	lancastrian	0	0	1	0
-ddogfennau	documents	0	0	1	0
-llethol	overwhelming	0	0	1	0
-annibyniaeth	scheme	1	0	1	0
-annibyniaeth	thumb	1	0	1	0
-annibyniaeth	independence	1	1	1	1
-electronau	electrons	0	0	1	0
-chyflwyno	present	0	0	1	0
-troedfedd	feet	0	0	1	0
-cernyweg	cornish	0	0	1	1
-thwrci	turkey	0	0	1	0
-ddisg	disk	0	0	1	0
-tirfeddianwyr	lndowners	0	0	1	0
-tirfeddianwyr	landowners	0	0	1	0
-bwlch	gap	0	0	1	1
-mynyddoedd	mountains	0	0	1	0
-cyfeirio	reference	0	0	1	0
-cryfhau	strengthen	0	0	1	1
-pryce	pryce	0	0	1	0
-catalaneg	catalan	0	0	1	0
-sefydliad	organization	0	0	1	0
-sefydliad	establishment	0	0	1	1
-$	$	0	0	1	0
-buteo	buteo	0	0	1	0
-buteo	bute	0	0	1	0
-barack	barack	0	0	1	0
-nesaf	next	0	0	1	1
-amlycaf	dominant	0	0	1	0
-desc	desc	0	0	1	0
-marco	macro	0	0	1	0
-marco	marco	0	0	1	0
-steil	style	0	0	1	0
-gamp	sport	0	0	1	0
-cyffwrdd	touch	0	0	1	1
-goleddu	slopes	0	0	1	0
-gwyrthiau	miracles	0	0	1	0
-kyrgyzstan	kyrgyzstan	0	0	1	0
-llong	ship	0	0	1	1
-valens	valens	0	0	1	0
-gaernarfon	caernarfon	0	0	1	0
-ataliad	suspension	0	0	1	0
-botaneg	involve	1	0	1	0
-botaneg	botany	1	1	1	0
-botaneg	doing	1	0	1	0
-botaneg	it	1	0	1	0
-mirror	mirror	0	0	1	0
-scoter	scoter	0	0	1	0
-ddwyn	other than their	0	0	1	0
-ddwyn	stolen	0	0	1	0
-trydan	electricity	0	0	1	1
-mynd	go	0	0	1	0
-wrach	witch	0	0	1	0
-economir	economir	0	0	1	0
-economir	economy	0	0	1	0
-caspian	caspian	0	0	1	0
-caspian	caspain	0	0	1	0
-illinois	illinois	0	0	1	0
-lithwaniaid	lithuanians	0	0	1	0
-some	some	0	0	1	0
-pierre	pierre	0	0	1	0
-berchen	ownership of	0	0	1	0
-berchen	own	0	0	1	0
-iaith	language	0	0	1	1
-lleolir	located	0	0	1	0
-wyddgrug	mold	0	0	1	0
-gaeaf	winter	0	0	1	1
-syndrom	syndrome	0	0	1	0
-arwain	lead	0	0	1	1
-tudalennau	pages	0	0	1	0
-albwmau	albums	0	0	1	0
-strydoedd	streets	0	0	1	0
-anhwylder	disorder	0	0	1	0
-marcsiaeth	marxism	0	0	1	0
-gwydr	glass	0	0	1	1
-atebodd	answered	0	0	1	0
-run	same	0	0	1	0
-soweto	soweto	0	0	1	0
-gwthior	gwthior	0	0	1	0
-diwydiannau	industries	0	0	1	0
-nhalaith	province	0	0	1	0
-gyfradd	rate	0	0	1	0
-faith	long	0	0	1	0
-papur	paper	0	0	1	1
-pryderi	concerned	0	0	1	0
-enwir	named	0	0	1	0
-gysylltiadau	links	0	0	1	0
-papua	papua	0	0	1	0
-crybwyllwyd	mentioned	0	0	1	0
-australopithecus	australopithecus	0	0	1	0
-idf	idf	0	0	1	0
-cobach	smallco-	0	0	1	0
-cobach	cobach	0	0	1	0
-asiaidd	asian	0	0	1	0
-actifedd	activity	0	0	1	0
-ganrif	century	0	0	1	0
-arfbais	arms	0	0	1	0
-ayb	etc.	0	0	1	0
-glanmor	glanmor	0	0	1	0
-alison	alison	0	0	1	0
-diwan	diwan	0	0	1	0
-bangladesh	bangladesh	0	0	1	0
-gwrthwynebwyr	opponents	0	0	1	0
-wyliau	holiday	0	0	1	0
-gwrthwynebwyd	opposed	0	0	1	0
-heritage	heritage	0	0	1	0
-ffliw	flu	0	0	1	0
-sinai	sinai	0	0	1	0
-gydag	with	0	0	1	0
-rees	rees	0	0	1	0
-pws	puss	0	0	1	0
-eglwysig	church	0	0	1	1
-hydoddiant	solution	0	0	1	0
-pwy	who	0	0	1	1
-larry	larry	0	0	1	0
-gydar	with the	0	0	1	0
-dull	a	0	0	1	0
-dull	dull	0	0	1	0
-darddiad	origin	0	0	1	0
-darddiad	orgin	0	0	1	0
-utc	utc	0	0	1	0
-fetropolitanaidd	metropolitan	0	0	1	0
-traeth	beach	0	0	1	1
-celfyddydau	arts	0	0	1	0
-phlentyn	child	0	0	1	0
-slafeg	salvic	0	0	1	0
-slafeg	slavic	0	0	1	0
-rowland	rowland	0	0	1	0
-willem	willem	0	0	1	0
-trwyn	of	1	0	1	0
-trwyn	from	1	0	1	0
-trwyn	nose	1	1	1	1
-estrogen	estrogen	0	0	1	0
-ecoranbarth	ecoranbarth	0	0	1	0
-genedigaeth	birth	0	0	1	1
-wrthsefyll	withstand	0	0	1	0
-promenad	promenade	0	0	1	0
-trwyr	trwyr	0	0	1	0
-nac	or	0	0	1	0
-nag	than	0	0	1	0
-nad	not	0	0	1	0
-tiwtonaidd	tiwtonaidd	0	0	1	0
-tito	tito	0	0	1	0
-nai	nephew	0	0	1	1
-nar	than the	0	0	1	0
-titw	tits	0	0	1	0
-einglsacsonaidd	einglsacsonnaidd	0	0	1	0
-einglsacsonaidd	einglsacsonaidd	0	0	1	0
-ymeradwr	ymeradwr	0	0	1	0
-allweddol	key	0	0	1	0
-manhattan	manhattan	0	0	1	0
-vireo	vireo	0	0	1	0
-mhob	all	0	0	1	0
-draw	up	0	0	1	0
-ffyrnig	fierce	0	0	1	1
-gomiwnyddol	communist	0	0	1	0
-fersiwn	version	0	0	1	1
-llosgfynyddoedd	volcanoes	0	0	1	0
-frances	frances	0	0	1	0
-william	william	0	0	1	0
-bawd|y	bawdly	0	0	1	0
-bawd|y	thumb|the	0	0	1	0
-evan	evan	0	0	1	0
-drymiau	drums	0	0	1	0
-masnach	trade	0	0	1	1
-nodweddion	features	0	0	1	0
-lloegr	england	0	0	1	1
-e	e	0	0	1	0
-cynyddodd	increased	0	0	1	0
-dvd	dvd	0	0	1	0
-ddathlu	celebrate	0	0	1	0
-orbit	orbit	0	0	1	0
-portiwgal	portugal	0	0	1	0
-ddysgu	dso	0	0	1	0
-ddysgu	learn	0	0	1	0
-daleithiaur	province	0	0	1	0
-daleithiaur	daleithiaur	0	0	1	0
-llefarydd	spokesman	1	1	1	0
-llefarydd	hafs	1	0	1	0
-llefarydd	speaker	1	1	0	1
-llefarydd	llefaydd	1	0	1	0
-conffederasiwn	confederation	0	0	1	0
-gw	w	0	0	1	0
-gv	gv	0	0	1	0
-deulu	family	0	0	1	0
-athletau	athletics	1	1	0	0
-arallfyd	otherworld	0	0	1	0
-llinynnau	strings	0	0	1	0
-atalydd	inhibitor	0	0	1	0
-ge	ge	0	0	1	0
-gd	gd	0	0	1	0
-flogiau	blogs	0	0	1	0
-ga	ga	0	0	1	0
-erbyn	by	0	0	1	1
-go	real	0	0	1	0
-geneteg	genetics	0	0	1	0
-anathraidd	impermeable	0	0	1	0
-kate	kate	0	0	1	0
-gh	gh	0	0	1	0
-compact	compact	0	0	1	0
-carbocsylig	carboxylic	0	0	1	0
-porthladd	port	0	0	1	1
-galluogi	enable	0	0	1	1
-dŵf	growth	0	0	1	0
-barod	ready	0	0	1	0
-barod	debt	0	0	1	0
-weithgar	active	0	0	1	0
-nippon	nippon	0	0	1	0
-nippon	nipon	0	0	1	0
-ddinas	city	0	0	1	0
-ychwanegol	additional	0	0	1	1
-atomfa	nuclear	0	0	1	0
-atomfa	nuclear power station	0	0	1	0
-ôlfywyd	olfywyd	0	0	1	0
-ôlfywyd	ôlfywyd	0	0	1	0
-cyrn	horns	0	0	1	0
-buchedd	life	0	0	1	1
-benrhyn	peninsula	0	0	1	0
-kitts	kitts	0	0	1	0
-rawson	rawson	0	0	1	0
-facebook	facebook	0	0	1	0
-ansefydlogrwydd	instability	0	0	1	0
-degfed	tenth	0	0	1	0
-sianel	channel	0	0	1	1
-mauritania	mauritania	0	0	1	0
-chyngheiriaid	chyngheiriaid	0	0	1	0
-olaf	last	0	0	1	1
-sych	dry	0	0	1	1
-cotwm	cotton	0	0	1	1
-fynyddig	mountainous	0	0	1	0
-thymheredd	temperature	0	0	1	0
-michael	michael	0	0	1	0
-rattigan	rattigan	0	0	1	0
-lleiaf	minimum	0	0	1	0
-gwasgedd	pressure	0	0	1	0
-kimoon	kimoon	0	0	1	0
-olau	light	0	0	1	0
-lleian	nun	0	0	1	1
-rhegennod	rails	0	0	1	0
-barbara	barbara	0	0	1	0
-yntau	he	0	0	1	0
-gelfyddyd	art	0	0	1	0
-carter	carter	0	0	1	0
-ddynodi	designate	0	0	1	0
-cnau	nuts	0	0	1	0
-atgenhedlu	reproductive	0	0	1	0
-gyrhaeddodd	reached	0	0	1	0
-gyrhaeddodd	gyhaeddodd	0	0	1	0
-chafodd	was	0	0	1	0
-blith	from	0	0	1	0
-teyrnas	kingdom	0	0	1	1
-padrig	patrick	0	0	1	1
-padrig	patrig	0	0	1	0
-opaque	opaque	0	0	1	0
-celt	celt	0	0	1	0
-wylio	watch	0	0	1	0
-llwyddiant	success	0	0	1	0
-ogleddorllewin	north west	0	0	1	0
-espresso	espresso	0	0	1	0
-amgylchynu	surrounded	0	0	1	0
-cell	cell	0	0	1	1
-wylit	wylit	0	0	1	0
-ych	ox	0	0	1	1
-mwsogl	moss	1	1	0	1
-mwsogl	history	1	0	1	0
-asgellwr	winger	0	0	1	1
-collins	collins	0	0	1	0
-celf	motown	0	0	1	0
-celf	art	0	0	1	1
-nicholas	nicholas	0	0	1	0
-bucephala	bucephala	0	0	1	0
-phoebe	phoebe	0	0	1	0
-brunei	brunei	0	0	1	0
-categorigwyddoniaeth	science category	0	0	1	0
-categorigwyddoniaeth	categorigwyddoniaeth	0	0	1	0
-categorigwyddoniaeth	goths	0	0	1	0
-llanrwst	llanrwst	0	0	1	0
-drosodd	over	0	0	1	0
-arwyddodd	signed	0	0	1	0
-fampir	vampire	1	1	0	1
-roced	rocket	0	0	1	1
-gofod	space	0	0	1	1
-northern	northern	0	0	1	0
-chanu	singing	0	0	1	0
-vaduz	vaduz	0	0	1	0
-enbyd	pressing	0	0	1	0
-ddull	a	0	0	1	0
-geni	birth	0	0	1	0
-rhywun	a	0	0	1	0
-llosgir	burning	0	0	1	0
-win	win	0	0	1	0
-win	wine	0	0	1	0
-wil	wil	0	0	1	0
-clara	clara	0	0	1	0
-crazy	crazy	0	0	1	0
-paganaidd	pagan	0	0	1	1
-cyfreithiol	legal	0	0	1	1
-recordio	recording	0	0	1	0
-wir	indeed	0	0	1	0
-cymysgu	mixing	0	0	1	0
-ymgyrchwyr	campaigners	0	0	1	0
-harpsicord	harpsichord	0	0	1	0
-trimurti	trimurti	0	0	1	0
-thirwedd	landscape	0	0	1	0
-français	francais	0	0	1	0
-cras	arid	0	0	1	1
-hudson	hudson	0	0	1	0
-ffordd	way	0	0	1	1
-orbitol	orbital	0	0	1	0
-nodir	identified	0	0	1	0
-clefyd	world	1	0	1	0
-clefyd	said	1	0	1	0
-clefyd	disease	1	1	0	1
-clefyd	talk	1	0	1	0
-clefyd	speak	1	0	1	0
-camera	camera	0	0	1	0
-gitar	guitar	0	0	1	0
-leoliad	location	0	0	1	0
-jonathan	jonathan	0	0	1	0
-crai	crude	0	0	1	0
-bendigeidfran	bendigeidfran	0	0	1	0
-rheilffyrdd	rail	0	0	1	0
-rheilffyrdd	rheillffyrdd	0	0	1	0
-fatican	vatican	0	0	1	0
-trajan	trajan	0	0	1	0
-isaf	lower	0	0	1	0
-parva	parva	0	0	1	0
-parva	brava	0	0	1	0
-e-bost	brown	1	0	1	0
-e-bost	gray	1	0	1	0
-e-bost	celebrated	1	0	1	0
-e-bost	grey	1	0	1	0
-e-bost	e-mail	1	1	0	0
-e-bost	e mail	1	1	0	0
-e-bost	mail	1	1	0	0
-e-bost	e- mail	1	1	0	0
-rywun	someone	0	0	1	0
-graffit	graphite	0	0	1	0
-cynhwysir	included	0	0	1	0
-ugss	ussr	0	0	1	0
-ugss	ugss	0	0	1	0
-pedwar	four	0	0	1	1
-polynesia	polynesia	0	0	1	0
-lawer	many	0	0	1	0
-ysbeidiol	intermittent	0	0	1	0
-control	control	0	0	1	0
-beijing	beijing	0	0	1	0
-cefndir	background	0	0	1	1
-flaenllaw	leading	0	0	1	0
-gwynegon	artiritis	1	0	1	0
-gwynegon		1	0	1	0
-gwynegon	is	1	0	1	0
-gwynegon	arthritis	1	1	0	0
-gwynegon	skeleton	1	0	1	0
-diwylliannau	cultures	0	0	1	0
-ffilm	film	0	0	1	1
-demograffeg	demographics	0	0	1	0
-demograffeg	demograffed	0	0	1	0
-prwsia	cleopatra	0	0	1	0
-prwsia	prussia	0	0	1	1
-destunau	texts	0	0	1	0
-egret	egret	0	0	1	0
-llafur	labor	0	0	1	1
-defnyddir	used	0	0	1	0
-talwrn	cockpit	0	0	1	0
-thrigolion	residents	0	0	1	0
-poetry	poetry	0	0	1	0
-georg	georg	0	0	1	0
-undebol	union	0	0	1	1
-gwellan	improve our	0	0	1	0
-ferdinand	ferdinand	0	0	1	0
-uchaf	top	0	0	1	0
-uchaf	highest	0	0	1	1
-italaidd	italic	0	0	1	0
-berberiaid	berberiaid	0	0	1	0
-mileniwm	millennium	0	0	1	0
-dywysogion	princes	0	0	1	0
-farn	view	0	0	1	0
-fari	mari	0	0	1	0
-ebwy	vale	0	0	1	0
-ronald	ronald	0	0	1	0
-sardinia	sardinia	0	0	1	0
-farw	died	0	0	1	0
-elyn	enemy	0	0	1	0
-foment	moment	0	0	1	0
-foment	forment	0	0	1	0
-lles	welfare	0	0	1	0
-ller	where	0	0	1	0
-uwchradd	secondary	0	0	1	0
-trelew	trelew	0	0	1	0
-llew	lion	0	0	1	1
-llew	where	0	0	1	0
-lleu	lleu	0	0	1	0
-nepaleg	nepali	0	0	1	0
-mynyw	menevia	0	0	1	0
-modrwy	ring	0	0	1	1
-gwadodd	denied	0	0	1	0
-encyclopedia	encyclopedia	0	0	1	0
-lled	width	0	0	1	1
-ugeinfed	twentieth	0	0	1	1
-gainc	branch	0	0	1	0
-disgrifir	described	0	0	1	0
-bawd|lleoliad	thumb | location	0	0	1	0
-bawd|lleoliad	thumb placement	0	0	1	0
-daearyddol	geographical	0	0	1	1
-breninesau	queens	0	0	1	0
-disgrifio	describe	0	0	1	1
-hydoddi	dissolved	0	0	1	0
-adrodd	report	0	0	1	0
-adrodd	reporting	0	0	1	0
-norwyeg	norwegian	0	0	1	1
-lithuania	lithuania	0	0	1	0
-lithuania	lituania	0	0	1	0
-refferendwm	referendum	0	0	1	0
-guadeloupehidalgo	guadeloupehidalgo	0	0	1	0
-guadeloupehidalgo	guadelope-hidalgo	0	0	1	0
-alexander	alexander	0	0	1	0
-ddefnyddiol	useful	0	0	1	0
-ychwaith	either	0	0	1	1
-helar	helar	0	0	1	0
-nokia	nokia	0	0	1	0
-gwyneth	gwyneth	0	0	1	0
-ddidduw	ddidduw	0	0	1	0
-ddidduw	god-free	0	0	1	0
-rhufeinwyr	romans	0	0	1	0
-nadroedd	snakes	0	0	1	0
-eluned	eluned	0	0	1	0
-zamenhof	zamenhof	0	0	1	0
-côr	choir	0	0	1	0
-côr	cor	0	0	1	0
-gorchfygodd	defeated	0	0	1	0
-university	university	0	0	1	0
-nghaergystennin	constantinople	0	0	1	0
-mosaïque	mosaique	0	0	1	0
-côd	code	0	0	1	0
-côd	cod	0	0	1	0
-modd	can	0	0	1	0
-ffermwyr	farmers	0	0	1	0
-côn	con	0	0	1	0
-ymarfer	practice	0	0	1	1
-hwnnw	that	0	0	1	0
-joyce	joyce	0	0	1	0
-serbia	serbia	0	0	1	0
-→	-?	0	0	1	0
-gerila	guerrilla	0	0	1	0
-gerila	gerila	0	0	1	0
-morton	morton	0	0	1	0
-camlas	canal	1	1	1	1
-camlas	second	1	0	1	0
-camlas	palmas	1	0	1	0
-camlas	secondary	1	0	1	0
-special	special	0	0	1	0
-bobol	people	0	0	1	0
-minutus	minutus	0	0	1	0
-minutus	mint	0	0	1	0
-wica	wicca	0	0	1	0
-heraclius	heraclius	0	0	1	0
-anifeiliaid	animals	0	0	1	0
-goron	crown	0	0	1	0
-cenhinen	leek	0	0	1	1
-ganfod	out	0	0	1	0
-niederdeutsch	niederdeutsch	0	0	1	0
-celtica	celtica	0	0	1	0
-llyfrgellyddiaeth	librarianship	0	0	1	0
-eithr	but	0	0	1	1
-kiribati	kiribati	0	0	1	0
-amaethyddiaeth	agriculture	0	0	1	1
-aeth	he	0	0	1	0
-shrew	shrew	0	0	1	0
-annerbyniol	unacceptable	0	0	1	1
-rhestru	listing	0	0	1	0
-canmol	praise	0	0	1	1
-times	times	0	0	1	0
-rhestri	lists	0	0	1	0
-humphrey	humphrey	0	0	1	0
-cynnyrch	product	0	0	1	1
-datblygiedig	advanced	0	0	1	0
-designed	designed	0	0	1	0
-ddyddiad	date	0	0	1	0
-evans	evans	0	0	1	0
-burkina	burkina	0	0	1	0
-ibsen	lbsen	0	0	1	0
-ibsen	ibsen	0	0	1	0
-tlotaf	poorest	0	0	1	0
-chymraeg	chymraeg	0	0	1	0
-congo	congo	0	0	1	0
-ffrwyth	fruit	0	0	1	1
-categoritywysogion	categoritywysogion	0	0	1	0
-dove	dove	0	0	1	0
-they	byddant	0	0	1	0
-they	they	0	0	1	0
-sumatra	sumatra	0	0	1	0
-belize	belize	0	0	1	0
-felly	so	0	0	1	1
-ymarferiadau	exercises	0	0	1	0
-adegau	times	0	0	1	0
-islwyn	islwyn	0	0	1	0
-cyhuddiadau	charges	0	0	1	0
-deithiau	trips	0	0	1	0
-rowlands	rowlands	0	0	1	0
-teifi	teifi	0	0	1	0
-sy	which	0	0	1	0
-dyfodol	future	0	0	1	1
-feini	criteria	0	0	1	0
-masjid	masjid	0	0	1	0
-cyf	ref	0	0	1	0
-fytholeg	mythology	0	0	1	0
-dangosir	shown	0	0	1	0
-benllech	benllech	0	0	1	0
-cyn	before	0	0	1	1
-diwydiannol	industrial	0	0	1	1
-llynnoedd	lakes	0	0	1	0
-ben	top	0	0	1	0
-cyfarwydd	familiar	0	0	1	1
-bel	ball	0	0	1	0
-mêl	honey	0	0	1	0
-bee	bee	0	0	1	0
-ysbytai	hospitals	0	0	1	0
-ogledd	north	0	0	1	0
-fforiwr	explorer	0	0	1	1
-papwa	papua	0	0	1	0
-papwa	papwa	0	0	1	0
-digwyddodd	occurred	0	0	1	0
-osgoi	avoid	0	0	1	1
-chylchdro	rotation	0	0	1	0
-mynnu	requires	0	0	1	0
-gweinyddiaeth	administration	0	0	1	1
-gweinyddiaeth	dministration	0	0	1	0
-julian	julian	0	0	1	0
-stallman	stallman	0	0	1	0
-maswedd	maswedd	0	0	1	0
-bryniau	hills	0	0	1	0
-cynhyrchiol	productive	0	0	1	1
-cynhyrchion	products	0	0	1	0
-tabl	baby	0	0	1	0
-tabl	table	0	0	1	1
-nghilmeri	cilmeri	0	0	1	0
-llinell	line	0	0	1	1
-dylanwad	influence	0	0	1	1
-cwrdd	meet	0	0	1	1
-geisiadau	applications	0	0	1	0
-geisiadau	application	0	0	1	0
-cofrestru	registration	0	0	1	0
-weladwy	visible	0	0	1	0
-categoricymdeithas	category association	0	0	1	0
-categoricymdeithas	categoricymdeithas	0	0	1	0
-roedden	were	0	0	1	0
-ffrainc	france	0	0	1	1
-ymlynwyr	adherents	0	0	1	0
-siarl	charles	0	0	1	1
-awr	now	0	0	1	0
-mimosa	mimosa	0	0	1	0
-ansoddair	adjective	0	0	1	1
-siart	chart	0	0	1	0
-losgfynyddoedd	valcanoes	0	0	1	0
-losgfynyddoedd	volcanoes	0	0	1	0
-dubh	dubh	0	0	1	0
-ymddiswyddo	resign	0	0	1	1
-lleoli	located	0	0	1	0
-url	url	0	0	1	0
-gadarnhau	confirm	0	0	1	0
-px|bawd|logo	px / thumb / logo	0	0	1	0
-px|bawd|logo	px | thumb | logo	0	0	1	0
-px|bawd|logo	pxbawdlogo	0	0	1	0
-cymunedau	communities	0	0	1	0
-ddiweddu	end	0	0	1	0
-bordeaux	bordeaux	0	0	1	0
-phapurau	papers	0	0	1	0
-chyrhaeddodd	reached	0	0	1	0
-rhybuddio	warning	0	0	1	0
-platon	plato	0	0	1	0
-ynddi	it	0	0	1	0
-ynddo	it	0	0	1	0
-honnon	honnon	0	0	1	0
-nikephoros	nikephoros	0	0	1	0
-gwrachod	witches	0	0	1	0
-ottoman	ottoman	0	0	1	0
-canolbwyntio	focus	0	0	1	0
-arbed	save	0	0	1	1
-creigiog	rocky	0	0	1	1
-arfordirol	coastal	0	0	1	0
-lapwing	lapwing	0	0	1	0
-ethan	ethane	0	0	1	0
-gorymdeithiodd	marched	0	0	1	0
-carbonifferaidd	carboniferous	0	0	1	0
-kong	kong	0	0	1	0
-bywiog	active	0	0	1	1
-anfiolegol	anfiolegol	0	0	1	0
-gray	gray	0	0	1	0
-golff	golf	0	0	1	0
-cyflenwadau	supplies	0	0	1	0
-maximinus	maximinus	0	0	1	0
-˚c	c	0	0	1	0
-wiced	wickets	0	0	1	0
-she	she	0	0	1	0
-gran	gran	0	0	1	0
-spotted	spotted	0	0	1	0
-pwysig	important	0	0	1	1
-albania	albania	0	0	1	0
-deyrnasoedd	kingdoms	0	0	1	0
-fertibra	walk	1	0	1	0
-fertibra	fertibra	1	0	1	0
-fertibra	up	1	0	1	0
-fertibra	vertebra	1	1	0	0
-traddodiadol	traditional	0	0	1	1
-cristionogaeth	categorigwyddoniaeth	0	0	1	0
-cristionogaeth	christianity	0	0	1	0
-copland	copland	0	0	1	0
-ysgrif	article	0	0	1	1
-llinynnol	string	0	0	1	0
-cyfandiroedd	continents	0	0	1	0
-baris	paris	0	0	1	0
-aros	stay	0	0	1	1
-diwedd	end	0	0	1	1
-cynradd	primary	0	0	1	0
-copïau	copies	0	0	1	0
-simbabwe	zimbabwe	0	0	1	0
-pentref	village	0	0	1	1
-state	state	0	0	1	0
-luc	luke	0	0	1	1
-gwybodeg	informatics	0	0	1	0
-nwylo	hands	0	0	1	0
-ken	ken	0	0	1	0
-kel	kel	0	0	1	0
-swynion	spells	0	0	1	0
-magu	breeding	0	0	1	0
-gwelwyd	seen	0	0	1	0
-mwyn	to	0	0	1	0
-wicaidd	wiccan	0	0	1	0
-chwarelwyr	quarrymen	0	0	1	0
-group	group	0	0	1	0
-problem	problem	0	0	1	1
-ddealltwriaeth	understanding	0	0	1	0
-cinetig	kinetic	0	0	1	1
-mair	mair	0	0	1	0
-mair	that	0	0	1	0
-condemniodd	condemned	0	0	1	0
-roir	given	0	0	1	0
-ciconia	stork	0	0	1	1
-angharad	angharad	0	0	1	0
-ewropa	europa	0	0	1	0
-seremoni	ceremony	0	0	1	1
-categoritrychinebau	categoritrychinebau	0	0	1	0
-gita	gita	0	0	1	0
-amdanynt	about	0	0	1	0
-frân	bran	0	0	1	0
-cariad	love	0	0	1	1
-johann	johann	0	0	1	0
-echreiddiad	eccentricity	0	0	1	0
-berswadio	persuade	0	0	1	0
-poen	pain	0	0	1	1
-llithro	sliding	0	0	1	0
-addition	addition	0	0	1	0
-ymyl	edge	0	0	1	1
-orffennaf	uly	0	0	1	0
-otomaniaid	ottomans	0	0	1	0
-rhywbeth	something	0	0	1	1
-drên	train	0	0	1	0
-beirniadol	critical	0	0	1	1
-ddefaid	sheep	0	0	1	0
-vinci	vinci	0	0	1	0
-ffrwydriadau	explosions	0	0	1	0
-dominyddir	dominated	0	0	1	0
-arlunydd	artist	0	0	1	1
-aelodaur	by members of	0	0	1	0
-soniodd	mentioned	0	0	1	0
-pwrpas	purpose	0	0	1	1
-ddilyn	follow	0	0	1	0
-neges	message	0	0	1	1
-ddibynnu	depending	0	0	1	0
-fasnachol	commercial	0	0	1	0
-gwybod	know	0	0	1	1
-galwn	we call	0	0	1	0
-anrhegion	gifts	0	0	1	0
-loxia	loxia	0	0	1	0
-gwyddoniaethau	sciences	0	0	1	0
-gwyddoniaethau	gywddoniaethau	0	0	1	0
-trydannol	electrical	0	0	1	0
-dân	fire	0	0	1	0
-dân	under	0	0	1	0
-deml	temple	0	0	1	0
-blaenau	before	0	0	1	0
-mewnforio	import	0	0	1	1
-hrolf	hrolf	0	0	1	0
-ailgreu	reconstruction	0	0	1	0
-euskara	euskara	0	0	1	0
-piws	purple	0	0	1	0
-parth	zone	0	0	1	0
-crefft	craft	0	0	1	0
-tripoli	tripoli	0	0	1	0
-dickens	dickens	0	0	1	0
-tirlun	landscape	0	0	1	0
-cedor	pubic	0	0	1	0
-eclectig	eclectic	0	0	1	0
-eclectig	ecletic	0	0	1	0
-malaya	malaya	0	0	1	0
-lannau	banks	0	0	1	0
-http	http	0	0	1	0
-justice	justice	0	0	1	0
-wynion	white	0	0	1	0
-categoricyfathrebu	categoricyfathrebu	0	0	1	0
-categoricyfathrebu	category: communication	0	0	1	0
-gaeilge	gaeilge	0	0	1	0
-justinianus	justinian	0	0	1	0
-cyfathrebu	communication	0	0	1	0
-gwyddoniaeth	science	0	0	1	1
-lynges	fleet	0	0	1	0
-gystadlaethau	competitions	0	0	1	0
-weld	see	0	0	1	0
-cwtiadwennol	cwtiadwennol	0	0	1	0
-records	records	0	0	1	0
-i	i	0	0	1	0
-gâl	gal	0	0	1	0
-well	better	0	0	1	0
-taflu	throw	0	0	1	1
-ruthun	ruthin	0	0	1	0
-ffafrio	favored	0	0	1	0
-wely	bed	0	0	1	0
-prydeinig	british	0	0	1	1
-grawnfwyd	cereal	0	0	1	0
-wladwriaeth	state	0	0	1	0
-dail	leaves	0	0	1	0
-ddechraur	the beginning	0	0	1	0
-bondiau	bonds	0	0	1	0
-aiff	go	0	0	1	0
-sofia	sofia	0	0	1	0
-cynffonhir	cynffonhir	0	0	1	0
-cynffonhir	long tailed	0	0	1	0
-cynffonhir	long tail	0	0	1	0
-fenis	venice	0	0	1	0
-hylifau	liquids	0	0	1	0
-rednecked	rednecked	0	0	1	0
-ffiji	fiji	0	0	1	0
-rhannwyd	divided	0	0	1	0
-rhannwyd	split	0	0	1	0
-lauren	lauren	0	0	1	0
-dair	three	0	0	1	0
-cyhoedd	public	0	0	1	1
-dyddewi	st davids	0	0	1	0
-tarddu	origin	0	0	1	0
-briodweddau	properties	0	0	1	0
-nato	nato	0	0	1	0
-gerbron	before	0	0	1	1
-strigiformes	strigiformes	0	0	1	0
-versailles	versailles	0	0	1	0
-lethrau	slopes	0	0	1	0
-fath	such	0	0	1	0
-larvivora	larvivora	0	0	1	0
-historia	historia	0	0	1	0
-rhyfel	war	0	0	1	1
-rhyfel	rhufel	0	0	1	0
-calandra	calandra	0	0	1	0
-gyflawn	complete	0	0	1	0
-elwa	benefit	0	0	1	1
-lawgoch	lawgoch	0	0	1	0
-lincoln	lincoln	0	0	1	0
-llydaweg	breton	0	0	1	1
-llydaweg	llydaweb	0	0	1	0
-lost	lost	0	0	1	0
-stevenson	stevenson	0	0	1	0
-addoli	worship	0	0	1	1
-clefydau	diseases	0	0	1	0
-clefydau	disease	0	0	1	0
-caethion	captives	0	0	1	0
-martin	martin	0	0	1	0
-anthemau	anthems	0	0	1	0
-cyflenwol	complementary	0	0	1	0
-siambr	chamber	0	0	1	1
-page	page	0	0	1	0
-bawd|px|yr	thumb px yr	0	0	1	0
-bawd|px|yr	the thumb px	0	0	1	0
-gillian	gillian	0	0	1	0
-anhysbys	unknown	0	0	1	1
-twitter	twitter	0	0	1	0
-gwahardd	excluded	0	0	1	0
-homo	homo	0	0	1	0
-deyrngarwch	deymgarwch	0	0	1	0
-deyrngarwch	loyalty	0	0	1	0
-ieitheg	philology	1	1	0	1
-home	home	0	0	1	0
-peter	peter	0	0	1	0
-arfordiroedd	coasts	0	0	1	0
-ystod	during	0	0	1	0
-ystod	yestod	0	0	1	0
-blaen	so	0	0	1	0
-snowdonia	snowdonia	0	0	1	0
-frontcover	frontcover	0	0	1	0
-nihon	nihon	0	0	1	0
-gyngherddau	concerts	0	0	1	0
-dealltwriaeth	understanding	0	0	1	1
-tchad	chad	0	0	1	0
-ryddfrydol	liberal	0	0	1	0
-cyddestun	context	0	0	1	0
-ardderchog	excellent	0	0	1	1
-rhaniadau	partitions	0	0	1	0
-swm	amount	0	0	1	1
-ambell	some	0	0	1	0
-chanolfan	center	0	0	1	0
-weithrediad	operation	0	0	1	0
-freedom	freedom	0	0	1	0
-mwslimiaid	muslims	0	0	1	0
-rhwng	between	0	0	1	1
-cyfanswm	total	0	0	1	1
-durrës	durres	0	0	1	0
-cocos	cockles	0	0	1	0
-anrhydeddus	honorable	0	0	1	1
-washington	washington	0	0	1	0
-terence	terence	0	0	1	0
-nerfol	nervous	0	0	1	0
-h+	h+	0	0	1	0
-h+	l +	0	0	1	0
-gyfrifoldeb	responsibility	0	0	1	0
-fiolegwyr	biologists	0	0	1	0
-plentyn	child	0	0	1	1
-wrthdaro	conflict	0	0	1	0
-categoricelfyddydau	categoricelfyddydau	0	0	1	0
-johannes	johannes	0	0	1	0
-mississippi	mississippi	0	0	1	0
-deddf	law	0	0	1	1
-museum	museum	0	0	1	0
-ffurfiau	forms	0	0	1	0
-themar	themar	0	0	1	0
-sielo	cello	0	0	1	0
-rhydwen	rhydwen	0	0	1	0
-notices	notices	0	0	1	0
-newyddddyfodiaid	newyddddyfodiaid	0	0	1	0
-williamson	williamson	0	0	1	0
-north	north	0	0	1	0
-gais	application	0	0	1	0
-cronfeydd	funds	0	0	1	0
-hu	hu	0	0	1	0
-hi	she	0	0	1	1
-valerian	valerian	0	0	1	0
-ho	hydrogen & oxygen	0	0	1	0
-ho	ho	0	0	1	0
-dysgu	learning	0	0	1	0
-ha	ha	0	0	1	0
-ph	ph	0	0	1	0
-ph	u	0	0	1	0
-he	he	0	0	1	0
-archaeolegol	archaeological	0	0	1	0
-pi	pi	0	0	1	0
-chandler	chandler	0	0	1	0
-protosemitig	protosemitig	0	0	1	0
-grefydd	religion	0	0	1	0
-misoedd	months	0	0	1	0
-rheoli	management	0	0	1	0
-rheoli	managment	0	0	1	0
-chafwyd	was	0	0	1	0
-universal	universal	0	0	1	0
-siaradir	spoken	0	0	1	0
-ewffrates	euphrates	0	0	1	0
-twist	twist	0	0	1	0
-actifadu	activation	0	0	1	0
-swydd	post	0	0	1	0
-drafod	discuss	0	0	1	0
-eric	eric	0	0	1	0
-atyn	approached	0	0	1	0
-gyrru	driving	0	0	1	0
-gynhyrchwyd	produced	0	0	1	0
-ddiweddaraf	latest	0	0	1	0
-cydweithio	collaboration	0	0	1	0
-barti	party	0	0	1	0
-nawdd	sponsorship	0	0	1	0
-finch	finch	0	0	1	0
-soniwyd	mentioned	0	0	1	0
-aberconwy	aberconwy	0	0	1	0
-meddal	soft	0	0	1	1
-canada	canada	0	0	1	0
-ynghlwm	attached	0	0	1	0
-star	star	0	0	1	0
-proffwydi	prophets	0	0	1	0
-stad	estate	0	0	1	0
-hivaids	hivaids	0	0	1	0
-hivaids	hiv/aids	0	0	1	0
-dyli	dyli	0	0	1	0
-fwrdd	board	0	0	1	0
-ddafydd	david	0	0	1	0
-há	ha	0	0	1	0
-friends	friends	0	0	1	0
-caeodd	closed	0	0	1	0
-amharu	disruption	0	0	1	0
-togo	togo	0	0	1	0
-almaenwyr	germany	0	0	1	0
-anffurfiol	informal	0	0	1	1
-beiciau	bikes	0	0	1	0
-teyrnasodd	reigned	0	0	1	0
-katherine	katherine	0	0	1	0
-mecanwaith	mechanism	0	0	1	0
-gwladfa	settlement	0	0	1	1
-caerfyrddin	carmarthen	0	0	1	1
-casgliad	collection	0	0	1	1
-uzbekistan	uzbekistan	0	0	1	0
-protest	protest	0	0	1	0
-ensym	enzyme	1	1	0	0
-ensym	an enzyme	1	0	1	0
-tajikistan	tajikistan	0	0	1	0
-dduwies	goddess	0	0	1	0
-whose	whose	0	0	1	0
-anfonodd	sent	0	0	1	0
-panamá	panama	0	0	1	0
-swan	swan	0	0	1	0
-gelloedd	cells	0	0	1	0
-ogystal	well	0	0	1	0
-cydweithredu	cooperation	0	0	1	0
-seryddwr	astronomer	0	0	1	1
-seryddwr	seruddwr	0	0	1	0
-aux	aux	0	0	1	0
-winfrey	winfrey	0	0	1	0
-wrecsam	wrexham	0	0	1	1
-cysawd	system	0	0	1	1
-gweddw	widow	0	0	1	1
-elisabeth	elizabeth	0	0	1	0
-gyfandir	continents	0	0	1	0
-gyfandir	continent	0	0	1	0
-noson	night	0	0	1	1
-dwyreiniol	eastern	0	0	1	1
-operetta	operetta	0	0	1	0
-gyfochrog	parallel	0	0	1	0
-waldo	waldo	0	0	1	0
-ioan	ioan	0	0	1	0
-hcl	hcl	0	0	1	0
-deinosoriaid	dinosaurs	0	0	1	0
-falch	pleased	0	0	1	0
-anglicanaidd	anglican	0	0	1	1
-falco	falco	0	0	1	0
-doukas	doukas	0	0	1	0
-hynny	so	0	0	1	0
-amrywiaeth	range	0	0	1	0
-gerdded	walk	0	0	1	0
-strwythur	structure	0	0	1	0
-canrifau	centuries	0	0	1	0
-benodol	specifically	0	0	1	0
-brenhiniaeth	monarchy	0	0	1	0
-cesar	caesar	0	0	1	1
-cesar	cesar	0	0	1	0
-chrefydd	religion	0	0	1	0
-dynodir	identified	0	0	1	0
-beirniaid	judges	0	0	1	0
-panama	panama	0	0	1	0
-asid	acid	0	0	1	1
-neb	one	0	0	1	0
-asia	asia	0	0	1	0
-gadael	leave	0	0	1	0
-quran	quran	0	0	1	0
-ynganiad	pronunciation	0	0	1	0
-morwrol	maritime	0	0	1	0
-enillodd	won	0	0	1	0
-neu	or	0	0	1	1
-ner	ner	0	0	1	0
-nes	until	0	0	1	1
-cyfredol	current	0	0	1	0
-cyfredol	recently	0	0	1	0
-sefydlodd	established	0	0	1	0
-mamau	mothers	0	0	1	0
-dafad	sheep	0	0	1	1
-henrik	henrik	0	0	1	0
-feddwl	think	0	0	1	0
-atalyddion	inhibitors	0	0	1	0
-wrdw	wrdw	0	0	1	0
-geffyl	horse	0	0	1	0
-dwylo	hands	0	0	1	0
-mey	wi	0	0	1	0
-mamal	mammal	0	0	1	0
-dref	town	0	0	1	0
-credid	thought	0	0	1	0
-luther	luther	0	0	1	0
-restr	list	0	0	1	0
-undeb	union	0	0	1	1
-ecosystemau	ecosystems	0	0	1	0
-dri	three	0	0	1	0
-chwm	valley	0	0	1	0
-rhosneigr	rhosneigr	0	0	1	0
-credir	thought	0	0	1	0
-pêldroed	football	0	0	1	0
-suitable	suitable	0	0	1	0
-dre	town	0	0	1	0
-chwe	six	0	0	1	1
-serch	though	0	0	1	0
-telid	paid	0	0	1	0
-gychwyn	start	0	0	1	0
-myanmar	myanmar	0	0	1	0
-semenaidd	semenaidd	0	0	1	0
-esiamplau	examples	0	0	1	0
-reagan	reagan	0	0	1	0
-brisiau	prices	0	0	1	0
-hwylio	sailing	0	0	1	0
-categoriofferynnau	categoriofferynnau	0	0	1	0
-term	term	0	0	1	1
-mudiadau	organizations	0	0	1	0
-maen	they	0	0	1	0
-busnesau	businesses	0	0	1	0
-cwrdeg	kurdish	0	0	1	0
-maer	mayor	0	0	1	1
-ehangach	wider	0	0	1	0
-suriname	suriname	0	0	1	0
-ymestyn	extend	0	0	1	1
-stumog	comprehensive	1	0	1	0
-stumog	stamach	1	0	1	0
-stumog	stomach	1	1	1	0
-metalau	metals	0	0	1	0
-tell	tell	0	0	1	0
-gyrraedd	get	0	0	1	0
-daear	groundwater	0	0	1	0
-kalimantan	kalimantan	0	0	1	0
-oscar	oscar	0	0	1	0
-ffowc	fawkes	0	0	1	0
-wars	wars	0	0	1	0
-rhonabwy	rhonabwy	0	0	1	0
-berlin	berlin	0	0	1	0
-siculus	siculus	0	0	1	0
-piwbis	piwbis	0	0	1	0
-hedd	peace	0	0	1	1
-rhamantus	romantic	0	0	1	1
-gyffredin	common	0	0	1	0
-harddegau	teens	0	0	1	0
-harddegau	harddegau	0	0	1	0
-nwyrain	east	0	0	1	0
-olew	oil	0	0	1	1
-rights	rights	0	0	1	0
-llandysul	llandysul	0	0	1	0
-wyau	eggs	0	0	1	0
-natsïaid	nizer	0	0	1	0
-natsïaid	nazi	0	0	1	0
-natsïaid	nazis	0	0	1	0
-cenhedloedd	nations	0	0	1	0
-ddiwylliannol	cultural	0	0	1	0
-talfyriad	abbreviation	0	0	1	1
-yswiriant	insurance	0	0	1	1
-iawn	very	0	0	1	1
-cywydd	poem	0	0	1	0
-give	give themselves	0	0	1	0
-anthropolegwyr	anthropologists	0	0	1	0
-ddeheuol	southern	0	0	1	0
-neun	eun	0	0	1	0
-neun	or	0	0	1	0
-cyfreithiau	laws	0	0	1	0
-effeithlon	efficient	0	0	1	0
-chwalu	breakdown	0	0	1	0
-angeleslos	angeleslos	0	0	1	0
-bonaparte	bonaparte	0	0	1	0
-noethlymuniaeth	noethlymuniaeth	0	0	1	0
-bechgyn	boys	0	0	1	0
-kabul	kabul	0	0	1	0
-punt	pound	0	0	1	1
-pherfformio	performed	0	0	1	0
-affrig	africa	0	0	1	0
-braidd	somewhat	0	0	1	1
-manuals	manuals	0	0	1	0
-ffynonellau	sources	0	0	1	0
-ymweliad	visit	0	0	1	1
-amcanion	objectives	0	0	1	0
-duwies	goddess	0	0	1	1
-wydr	glass	0	0	1	0
-atebol	accountable	0	0	1	1
-think	think	0	0	1	0
-bahasa	bahasa	0	0	1	0
-estyniad	extension	0	0	1	1
-ymwneud	about	0	0	1	0
-hilladdiad	hilladdiad	0	0	1	0
-dylanwadau	influences	0	0	1	0
-fifa	fifa	0	0	1	0
-ffurfiant	formation	0	0	1	0
-helens	helens	0	0	1	0
-brenhinol	royal	0	0	1	1
-categoriprifddinasoedd	categoriprifddinasoedd	0	0	1	0
-dargludiad	conduction	1	0	1	0
-dargludiad		1	0	1	0
-dargludiad	issues	1	0	1	0
-dargludiad	conductor	1	1	0	0
-murray	murray	0	0	1	0
-helena	helena	0	0	1	0
-cadarnhawyd	confirmed	0	0	1	0
-gyflafan	massacre	0	0	1	0
-heblaw	other than	0	0	1	0
-before	before	0	0	1	0
-bregus	fergus	0	0	1	0
-bregus	vulnerable	0	0	1	0
-gyngerdd	concert	0	0	1	0
-gente	dente	0	0	1	0
-creu	a	0	0	1	0
-adwaith	reaction	0	0	1	1
-damascus	damascus	0	0	1	0
-ddysgwyr	learners	0	0	1	0
-cred	belief	0	0	1	1
-marwolaeth	death	0	0	1	1
-belarus	belarus	0	0	1	0
-godidog	magnificent	0	0	1	0
-codedig	coded	0	0	1	0
-wlad	country	0	0	1	0
-one	one	0	0	1	0
-thyfiant	growth	0	0	1	0
-isel	low	0	0	1	1
-arnofio	float	0	0	1	0
-safon	standard	0	0	1	1
-rannur	sharing	0	0	1	0
-bont	bridge	0	0	1	0
-degawd	decade	0	0	1	0
-bantw	bantu	0	0	1	0
-wreiddiol	originally	0	0	1	0
-bantu	bantu	0	0	1	0
-lwyr	total	0	0	1	0
-dawr	the gc	0	0	1	0
-milan	milan	0	0	1	0
-fedd	grave	0	0	1	0
-awstralia	australia	0	0	1	1
-blaenasgellwr	flanker	0	0	1	0
-aids	aids	0	0	1	0
-dawn	talent	0	0	1	1
-saturninus	saturninus	0	0	1	0
-langue	langue	0	0	1	0
-ceilliau	testicular	0	0	1	0
-tales	tales	0	0	1	0
-siomedig	disappointing	0	0	1	1
-damcaniaeth	theory	0	0	1	1
-nerth	strength	0	0	1	1
-ysgrifennir	written	0	0	1	0
-venezuela	venezulela	0	0	1	0
-venezuela	venezuela	0	0	1	0
-angelus	angelus	0	0	1	0
-tuduriaid	tudor	0	0	1	0
-eisteddfodau	eisteddfodau	0	0	1	0
-abaty	abbey	0	0	1	1
-amstel	amstel	0	0	1	0
-trwyddedau	licenses	0	0	1	0
-fwythblu	fwythblu	0	0	1	0
-gwraidd	root	0	0	1	0
-lythyr	letter	0	0	1	0
-cytuno	agree	0	0	1	1
-arweiniai	leading	0	0	1	0
-aneddiadau	settlements	0	0	1	0
-arweiniad	guidance	0	0	1	1
-ist	ist	0	0	1	0
-iso	iso	0	0	1	0
-athronyddol	philosophical	0	0	1	1
-diwygiad	amendment	1	0	1	0
-diwygiad		1	0	1	0
-diwygiad	skeleton	1	0	1	0
-diwygiad	reformation	1	1	0	1
-diwygiad	amendmen	1	0	1	0
-diwygiad	manazil	1	0	1	0
-diwygiad	stages	1	0	1	0
-diwygiad	destinations	1	0	1	0
-tîm	team	0	0	1	0
-isa	isa	0	0	1	0
-hannibal	hannibal	0	0	1	0
-stewart	stewart	0	0	1	0
-pipit	pipit	0	0	1	0
-cerddorion	musicians	0	0	1	0
-olygu	mean	0	0	1	0
-merganser	merganser	0	0	1	0
-gradd	degree	0	0	1	1
-massif	massif	0	0	1	0
-ffair	fair	0	0	1	1
-eithriad	exception	0	0	1	1
-hook	hook	0	0	1	0
-fetelau	metals	0	0	1	0
-mabinogi	mabinogi	0	0	1	0
-gwnaeth	did	0	0	1	0
-gwreiddyn	root	0	0	1	1
-sgript	script	0	0	1	0
-broch	torch	0	0	1	0
-broch	broach	0	0	1	0
-erioed	ever	0	0	1	1
-affricanaidd	african	0	0	1	0
-chwilio	search	0	0	1	1
-raglen	program	0	0	1	0
-hollywood	hollywood	0	0	1	0
-hollywood	holywood	0	0	1	0
-cyfleu	communicate	0	0	1	0
-croenwyn	white	0	0	1	0
-hystyried	considered	0	0	1	0
-gyd	all	0	0	1	0
-mhentref	mhentref	0	0	1	0
-mhentref	village	0	0	1	0
-haelodau	members	0	0	1	0
-gölü	olu	0	0	1	0
-nyffryn	valley	0	0	1	0
-godwit	godwit	0	0	1	0
-attlee	attlee	0	0	1	0
-rennir	shared	0	0	1	0
-rennir	sahred	0	0	1	0
-feddalwedd	software	0	0	1	0
-cyfieithiadau	translations	0	0	1	0
-solomon	solomon	0	0	1	0
-jôc	joke	0	0	1	0
-amldduwiol	polytheistic	0	0	1	0
-doedd	was	0	0	1	0
-doedd	had	0	0	1	0
-tarddle	source	0	0	1	1
-caled	hard	0	0	1	1
-modern	modern	0	0	1	0
-geisiodd	tried	0	0	1	0
-gryfach	stronger	0	0	1	0
-etholwyr	constituents	0	0	1	0
-cofiant	politics	1	0	1	0
-cofiant	biography	1	1	1	1
-cofiant	cofiant	1	0	1	0
-pantheon	pantheon	0	0	1	0
-cymalau	clauses	0	0	1	0
-rhynglywodraethol	intergovernmental	0	0	1	0
-wyddonwyr	scientists	0	0	1	0
-etholwyd	elected	0	0	1	0
-gwefannau	websites	0	0	1	0
-gynorthwyo	help	0	0	1	0
-pysgota	fishing	0	0	1	0
-px|dde|ewin	pxlddelewin	0	0	1	0
-px|dde|ewin	px | right | cloves	0	0	1	0
-px|dde|ewin	px! right! cloves	0	0	1	0
-bengal	bengal	0	0	1	0
-gwasanaethau	services	0	0	1	0
-rolihlahla	rolihlahla	0	0	1	0
-chwaraer	playing	0	0	1	0
-coffi	coffee	0	0	1	1
-moscow	moscow	0	0	1	0
-pêl	ball	0	0	1	0
-pêl	like	0	0	1	0
-emyr	emyr	0	0	1	0
-ddyfrhau	irrigation	0	0	1	0
-clapton	clapton	0	0	1	0
-patrwm	pattern	0	0	1	1
-adfeilion	ruins	0	0	1	0
-carwyn	carwyn	0	0	1	0
-gylchrediad	circulation	0	0	1	0
-ensymau	enzymes	0	0	1	0
-maria	maria	0	0	1	0
-cysylltiadau	links	0	0	1	0
-ailfwyaf	ailfwyaf	0	0	1	0
-don	wave	0	0	1	0
-dom	dom	0	0	1	0
-fannod	article	0	0	1	0
-doc	doc	0	0	1	0
-doc	dock	0	0	1	0
-geisio	try	0	0	1	0
-dof	i	0	0	1	0
-dod	coming	0	0	1	0
-beirniadwyd	criticized	0	0	1	0
-diffiniad	definition	0	0	1	1
-dos	dose	0	0	1	0
-px|bawd|y	px | thumb | the	0	0	1	0
-dot	dot	0	0	1	1
-ngwynedd	gwynedd	0	0	1	0
-craidd	core	0	0	1	0
-gwahaniaeth	difference	0	0	1	1
-draed	feet	0	0	1	0
-draed	dread	0	0	1	0
-ohono	of me	0	0	1	0
-ohono	it	0	0	1	0
-ohoni	it	0	0	1	0
-nhermau	terms	0	0	1	0
-trawsnewid	transformation	0	0	1	0
-ddiweddarch	later	0	0	1	0
-orsedd	throne	0	0	1	0
-chamberlain	chamberlain	0	0	1	0
-amlach	more	0	0	1	0
-monica	monica	0	0	1	0
-benthyg	loan	0	0	1	1
-adeiladwaith	construction	0	0	1	0
-gopaon	peaks	0	0	1	0
-christopher	christopher	0	0	1	0
-borthladd	port	0	0	1	0
-lluoedd	troopsarmellog	0	0	1	0
-lluoedd	forces	0	0	1	0
-stoc	stock	0	0	1	0
-bat	bat	0	0	1	1
-briodas	marriage	0	0	1	0
-bar	bat\r	0	0	1	0
-bar	bar	0	0	1	1
-bas	shallow	0	0	1	1
-bay	bay	0	0	1	0
-bad	boat	0	0	1	1
-bae	bay	0	0	1	1
-amgylchedd	environment	0	0	1	1
-ban	corners	0	0	1	0
-pobol	people	0	0	1	0
-anterth	peak	0	0	1	0
-lithwania	lithuania	0	0	1	0
-bai	it	0	0	1	0
-reference	reference	0	0	1	0
-diddymiad	dissolution	0	0	1	0
-diddymiad	dissolutions	0	0	1	0
-ddrysau	doors	0	0	1	0
-cataleiddio	cateleiddio	0	0	1	0
-cataleiddio	catalyze	0	0	1	0
-gyfansoddwyd	composed	0	0	1	0
-swyddogion	officers	0	0	1	0
-symud	move	0	0	1	1
-ffosiliau	fossils	0	0	1	0
-ffosiliau	foils	0	0	1	0
-taiwan	taiwan	0	0	1	0
-hydrocarbon	hydrocarbon	0	0	1	0
-juliet	juliet	0	0	1	0
-pete	pete	0	0	1	0
-saif	stands	0	0	1	0
-sillaf	syllable	1	1	0	0
-sillaf	located	1	0	1	0
-sillaf	sited	1	0	1	0
-sillaf	situated	1	0	1	0
-cyhoeddiad	publication	0	0	1	1
-sain	audio	0	0	1	0
-sail	basis	0	0	1	1
-peth	some	0	0	1	1
-mesurau	measures	0	0	1	0
-ymgyrchydd	campaigner	0	0	1	0
-amwythig	shrewsbury	0	0	1	1
-sais	sais	0	0	1	0
-gorgyffwrdd	overlap	0	0	1	0
-cyhuddiad	charge	0	0	1	1
-disel	diesel	0	0	1	0
-belgae	belgae	0	0	1	0
-dramodydd	playwright	1	1	1	0
-vernon	vernon	0	0	1	0
-tripled	triplet	0	0	1	0
-bosib	possible	0	0	1	0
-credu	believe	0	0	1	1
-ehangdir	landmass	0	0	1	0
-pallass	pallass	0	0	1	0
-against	against	0	0	1	0
-phoblogrwydd	popularity	0	0	1	0
-hynod	highly	0	0	1	0
-und	und	0	0	1	0
-une	pune	0	0	1	0
-hanesydd	historian	0	0	1	1
-uno	merger	0	0	1	0
-ethel	ethel	0	0	1	0
-diocletian	diocletian	0	0	1	0
-gasgliadau	conclusions	0	0	1	0
-trin	treated	0	0	1	0
-wladwriaethau	states	0	0	1	0
-beirniadodd	criticized	0	0	1	0
-teip	type	0	0	1	1
-gweu	knitting	1	1	0	0
-iâ	ice	0	0	1	0
-weithio	work	0	0	1	0
-vientiane	vientiane	0	0	1	0
-calon	heart	0	0	1	1
-thref	town	0	0	1	0
-cyrus	cyrus	0	0	1	0
-twrciaid	turks	0	0	1	0
-fuan	soon	0	0	1	0
-chelf	art	0	0	1	0
-basio	pass	0	0	1	0
-ymryson	strife	0	0	1	1
-wobr	award	0	0	1	0
-gwerthiant	sales	0	0	1	0
-rocedi	rockets	0	0	1	0
-cdrom	cdrom	0	0	1	0
-plancton	plankton	0	0	1	0
-encyclopaedia	encyclopaedia	0	0	1	0
-ebrill	april	0	0	1	1
-tirffurfiau	landforms	0	0	1	0
-gobeithio	hope	0	0	1	1
-tanc	tank	0	0	1	0
-awyrgylch	atmosphere	0	0	1	1
-gerddoriaeth	music	0	0	1	0
-gwyrdd	green	0	0	1	1
-pencampwriaeth	championship	0	0	1	0
-tant	chord	0	0	1	1
-hunan	self	0	0	1	1
-categoridiwylliant	categoridiwylliant	0	0	1	0
-theatr	theater	0	0	1	0
-ir	to the	0	0	1	0
-it	it	0	0	1	0
-iw	iw	0	0	1	0
-iv	iv	0	0	1	0
-ii	ii	0	0	1	0
-albaneg	albanian	0	0	1	0
-cant	percent	0	0	1	0
-canu	singing	0	0	1	0
-canu	singingd	0	0	1	0
-im	im	0	0	1	0
-il	nd	0	0	1	0
-io	i	0	0	1	0
-in	in	0	0	1	0
-ia	ice	0	0	1	1
-march	march	0	0	1	0
-cyfraddau	rates	0	0	1	0
-ie	yes	0	0	1	0
-ie	ie	0	0	1	0
-if	f	0	0	1	0
-rythm	rhythm	0	0	1	0
-weithredoedd	actions	0	0	1	0
-bello	bello	0	0	1	0
-lludd	lludd	0	0	1	0
-lludd	glue	0	0	1	0
-make	make	0	0	1	0
-dangoswyd	shown	0	0	1	0
-nawddsant	patron saint	0	0	1	0
-amcangyfrifir	estimated	0	0	1	0
-lludw	ash	0	0	1	0
-pwnig	punic	0	0	1	0
-pwnig	slopes	0	0	1	0
-pwnig	pwing	0	0	1	0
-dudalen	page	0	0	1	0
-entitled	entitled	0	0	1	0
-hydrocarbonau	hydrocarbons	0	0	1	0
-hydrocarbonau	hdrocarbons	0	0	1	0
-ddirgel	secret	0	0	1	0
-grammar	grammar	0	0	1	0
-uwchdestun	hypertext	0	0	1	0
-balearig	balearig	0	0	1	0
-gwynfor	gwynfor	0	0	1	0
-pwyso	weighing	0	0	1	0
-isdrofannol	subtropical	0	0	1	0
-chweched	sixth	0	0	1	1
-hwyaf	longest	0	0	1	0
-endid	entity	0	0	1	0
-darganfu	found	0	0	1	0
-roma	roma	0	0	1	0
-yours	yours	0	0	1	0
-tangnefedd	peace	0	0	1	1
-nîl	nil	0	0	1	0
-nîl	nile	0	0	1	0
-protocol	protocol	0	0	1	0
-just	just	0	0	1	0
-edrych	look	0	0	1	1
-feddiant	possession	0	0	1	0
-elfennau	elements	0	0	1	0
-human	human	0	0	1	0
-wyddys	unknown	0	0	1	0
-agos	close	0	0	1	0
-agor	open	0	0	1	1
-catalytig	catalytig	0	0	1	0
-catalytig	catalytic	0	0	1	0
-khorasan	khorasan	0	0	1	0
-ymerawdr	emperor	0	0	1	0
-gwrthdystiadau	demonstrations	0	0	1	0
-crochenwaith	pottery	0	0	1	0
-royal	royal	0	0	1	0
-friedrich	friedrich	0	0	1	0
-dolur	sore	0	0	1	1
-save	save	0	0	1	0
-garcharorion	prisoners	0	0	1	0
-gustav	gustav	0	0	1	0
-nightjar	nightjar	0	0	1	0
-coron	crown	0	0	1	1
-cryfhaur	strengthen	0	0	1	0
-cryfhaur	srengthen the	0	0	1	0
-bŵer	power	0	0	1	0
-hardal	area	0	0	1	0
-natal	natal	0	0	1	0
-rheolaidd	regular	0	0	1	1
-aberffraw	aberffraw	0	0	1	0
-offa	dyke	0	0	1	0
-gwlff	gulf	0	0	1	0
-flwyddyn	year	0	0	1	0
-ymostyngiad	submission	0	0	1	1
-cymharol	relative	0	0	1	0
-cymharol	cymharo	0	0	1	0
-mebyon	mebyon	0	0	1	0
-canhwyllau	candles	0	0	1	0
-cipio	capture	0	0	1	0
-dean	dean	0	0	1	0
-ffalopaidd	recanalisation	0	0	1	0
-chwarrennau	glands	0	0	1	0
-gysylltiedig	associated	0	0	1	0
-tanwyddau	fuels	0	0	1	0
-gorchuddior	coverings	0	0	1	0
-phriodi	married	0	0	1	0
-réard	beard	0	0	1	0
-wiciadur	wiktionary	0	0	1	0
-rhwystr	barrier	0	0	1	1
-idwal	idwal	0	0	1	0
-gwylan	qwylan	0	0	1	0
-gwylan	seagull	0	0	1	0
-anatolia	anatolia	0	0	1	0
-posibilrwydd	possibility	0	0	1	1
-arbennig	special	0	0	1	1
-normal	normal	0	0	1	0
-ddatganiad	statement	0	0	1	0
-categorigwledydd	categorigwledydd	0	0	1	0
-nhrefn	order	0	0	1	0
-shakespeare	shakespeare	0	0	1	0
-veda	veda	0	0	1	0
-chwarter	quarter	0	0	1	1
-gwybyddol	cognitive	0	0	1	0
-darlledu	broadcasting	0	0	1	0
-ailsefydlu	rehabilitation	0	0	1	0
-anws	dedication	1	0	1	0
-anws	anus	1	1	1	0
-anws	basin	1	0	1	0
-anws	trough	1	0	1	0
-belarws	belarus	0	0	1	0
-ddadleuol	controversial	0	0	1	0
-caergystennin	constantinople	0	0	1	1
-chreu	create	0	0	1	0
-uniongred	orthodox	0	0	1	0
-super	super	0	0	1	0
-zur	zur	0	0	1	0
-bugail	shepherd	0	0	1	1
-comiwnyddol	communist	0	0	1	1
-modelau	models	0	0	1	0
-olddodiad	suffix	0	0	1	1
-atgenhedlun	reproduce	0	0	1	0
-atgenhedlun	atgenhedlun	0	0	1	0
-ewrasia	eurasia	0	0	1	0
-cilgwyn	cilgwyn	0	0	1	0
-dyblu	doubled	0	0	1	0
-orsaf	station	0	0	1	0
-anturiaethau	adventures	0	0	1	0
-sergio	sergio	0	0	1	0
-romulus	romulus	0	0	1	0
-reykjavík	reykjavik	0	0	1	0
-down	down	0	0	1	0
-amsterdam	amsterdam	0	0	1	0
-preifatrwydd	privacy	0	0	1	0
-senglau	singles	0	0	1	0
-pwysigrwydd	importance	0	0	1	1
-beth	what	0	0	1	1
-iː	to:	0	0	1	0
-iː	to	0	0	1	0
-nsoamerika	nsoamerika	0	0	1	0
-cytunir	agreed	0	0	1	0
-archwilio	audit	0	0	1	1
-boblogaeth	population	0	0	1	0
-tramor	foreign	0	0	1	1
-bolivia	bolivia	0	0	1	0
-perygl	risk	0	0	1	1
-awdur	author	0	0	1	1
-dyfnaint	devon	0	0	1	1
-fore	morning	0	0	1	0
-ford	table	0	0	1	0
-colofnau	columns	0	0	1	0
-cyflymaf	fastest	0	0	1	0
-beri	cause	0	0	1	0
-marchnad	market	0	0	1	1
-glawdd	bank	0	0	1	0
-colera	cholera	0	0	1	0
-positif	positive	0	0	1	0
-gwrthapartheid	gwrthapartheid	0	0	1	0
-ddyffryn	valley	0	0	1	0
-trwydded	license	0	0	1	1
-ofyn	ask	0	0	1	0
-priodolwyd	attributed	0	0	1	0
-ymbelydredd	radiation	0	0	1	0
-zeno	zeno	0	0	1	0
-shia	shia	0	0	1	0
-graff	graph	0	0	1	0
-covers	covers	0	0	1	0
-uchelwyr	uchenlwyr	0	0	1	0
-uchelwyr	nobility	0	0	1	0
-barhau	continue	0	0	1	0
-eithrior	exception	0	0	1	0
-bogart	bogart	0	0	1	0
-ceredigion	ceredigion	0	0	1	0
-bryngwran	bryngwarn	0	0	1	0
-bryngwran	bryngwran	0	0	1	0
-gwerthfawr	valuable	0	0	1	1
-llawysgrif	manuscript	0	0	1	1
-sieffre	geoffrey	0	0	1	0
-cylchgronau	magazines	0	0	1	0
-digital	digital	0	0	1	0
-holly	holly	0	0	1	0
-gwraig	wife	0	0	1	1
-lladin	latin	0	0	1	1
-asiantaethau	agencies	0	0	1	0
-qatar	mr lilley:	0	0	1	0
-qatar	qatar	0	0	1	0
-terfysgol	terrorist	0	0	1	0
-dangosodd	showed	0	0	1	0
-sosialaidd	socialist	0	0	1	1
-benyw	female	0	0	1	1
-dioddefodd	suffered	0	0	1	0
-jones	jones	0	0	1	0
-×km	km	0	0	1	0
-blaidd	wolf	0	0	1	1
-daily	daily	0	0	1	0
-achlysur	event	0	0	1	0
-trwchach	trwchach	0	0	1	0
-gwerth	value	0	0	1	1
-gwrandewch	listen	0	0	1	0
-merched	women	0	0	1	0
-safler	safler	0	0	1	0
-lechi	slate	0	0	1	0
-hydrograffeg	hudrograffeg	1	0	1	0
-hydrograffeg	hydrography	1	1	0	0
-hydrograffeg	career	1	0	1	0
-hydrograffeg	hydrgraffeg	1	0	1	0
-hydrograffeg	hydrograffed	1	1	0	0
-hydrograffeg	type	1	0	1	0
-perthyn	belong	0	0	1	1
-cynhaliwr	carer	0	0	1	0
-mercher	wednesday	0	0	1	0
-defnyddiwyd	used	0	0	1	0
-defnyddiwyd	welshmen	0	0	1	0
-gael	available	0	0	1	0
-yunis	yunis	0	0	1	0
-cornel	corner	0	0	1	1
-achos	case	0	0	1	0
-unrhywbeth	anything	0	0	1	1
-taleban	taleban	0	0	1	0
-natsiaid	nastiaid	0	0	1	0
-natsiaid	nazis	0	0	1	0
-bentref	village	0	0	1	0
-llewellyn	llewellyn	0	0	1	0
-ryddhau	release	0	0	1	0
-filoedd	thousands	0	0	1	0
-dyddiol	daily	0	0	1	1
-dyddion	yddion	0	0	1	0
-ogof	logo	1	0	1	0
-ogof	universe	1	0	1	0
-ogof	creation	1	0	1	0
-ogof	cave	1	1	1	1
-ogof	of	1	0	1	0
-gastell	castle	0	0	1	0
-neidiodd	jumped	0	0	1	0
-masnachol	commercial	0	0	1	1
-dim	no	0	0	1	1
-ymdrech	effort	0	0	1	1
-neilltuol	particular	0	0	1	1
-cyhydnos	cyhydons	0	0	1	0
-cyhydnos	equinox	0	0	1	0
-apartheid	apartheid	0	0	1	0
-henri	henry	0	0	1	0
-dic	tick	0	0	1	0
-breuddwyd	dream	0	0	1	1
-graddau	graddau	0	0	1	0
-graddau	extent	0	0	1	0
-dir	land	0	0	1	0
-villa	villa	0	0	1	0
-iwraniwm	uranium	0	0	1	0
-ymledu	spread	0	0	1	1
-bidgood	bidgood	0	0	1	0
-afghanistan	afghanistan	0	0	1	0
-gwarchodfa	reserve	0	0	1	0
-masood	masood	0	0	1	0
-feiciau	bikes	0	0	1	0
-categoricyfandiroedd	categoricyfandiroedd	0	0	1	0
-majora	majora	0	0	1	0
-lennon	lennon	0	0	1	0
-lennon	menon	0	0	1	0
-somalia	somalia	0	0	1	0
-adda	adam	0	0	1	1
-adda	adda	0	0	1	0
-addo	promise	0	0	1	1
-international	international	0	0	1	0
-poblogaeth	population	0	0	1	1
-twrceg	turkish	0	0	1	0
-wain	sheath	0	0	1	0
-tibet	tibet	0	0	1	0
-gyhoeddir	published	0	0	1	0
-mr	mr	0	0	1	0
-cawsant	they	0	0	1	0
-chilton	chilton	0	0	1	0
-aurelius	aurelius	0	0	1	0
-enwad	denomination	0	0	1	1
-boy	boy	0	0	1	0
-potensial	potential	0	0	1	0
-china	china	0	0	1	0
-cuckoo	cuckoo	0	0	1	0
-amrywio	vary	0	0	1	1
-bop	pop	0	0	1	0
-amrywia	vary	0	0	1	0
-bor	bor	0	0	1	0
-bos	boss	0	0	1	0
-môn	mon	0	0	1	0
-harlech	harlech	0	0	1	0
-meistrir	meistrir	0	0	1	0
-bob	all	0	0	1	0
-bod	that	0	0	1	0
-gwleidyddion	politicians	0	0	1	0
-welwch	see	0	0	1	0
-modur	motor	0	0	1	1
-llifo	flow	0	0	1	1
-priodweddau	properties	0	0	1	0
-cymhwysiad	application	0	0	1	1
-thro	turn	0	0	1	0
-franco	franco	0	0	1	0
-thri	three	0	0	1	0
-perk	perk	0	0	1	0
-peri	cause	0	0	1	1
-france	france	0	0	1	0
-selyf	solomon	0	0	1	1
-cyfrwng	medium	0	0	1	1
-crysau	shirts	0	0	1	0
-crysau	doors	0	0	1	0
-aries	aries	0	0	1	0
-olympiad	olympiad	0	0	1	0
-hedfan	flight	0	0	1	0
-crefydd	religion	0	0	1	1
-vous	vous	0	0	1	0
-caledwedd	hardware	0	0	1	0
-amlder	frequency	0	0	1	0
-dyfod	coming	0	0	1	0
-imperialaeth	falling	1	0	1	0
-imperialaeth	imperialism	1	1	0	0
-imperialaeth	fell	1	0	1	0
-fly	fly	0	0	1	0
-ymennydd	ymennydde	1	0	1	0
-ymennydd	brain	1	1	1	1
-ymennydd	opposition	1	0	1	0
-ymennydd	against	1	0	1	0
-tokyo	tokyo	0	0	1	0
-gwahaniaethu	discrimination	0	0	1	0
-llwynog	fox	0	0	1	1
-soul	soul	0	0	1	0
-seiliedig	based	0	0	1	0
-wediw	wediw	0	0	1	0
-gladstone	gladstone	0	0	1	0
-thermol	thermal	0	0	1	0
-hiroshima	hiroshima	0	0	1	0
-ferched	women	0	0	1	0
-llawr	floor	0	0	1	1
-endocrin	endocrine	0	0	1	0
-kenneth	kenneth	0	0	1	0
-pensaer	architect	0	0	1	1
-basileios	basileios	0	0	1	0
-winston	winston	0	0	1	0
-lowry	lowry	0	0	1	0
-dihangfa	escape	0	0	1	1
-menter	enterprise	0	0	1	0
-topograffig	topographic	0	0	1	0
-norwywyr	norwywyr	0	0	1	0
-llawn	full	0	0	1	1
-throir	turned	0	0	1	0
-purt	purt	0	0	1	0
-pinc	pink	0	0	1	1
-daeargrynfeydd	earthquakes	0	0	1	0
-llwch	dust	0	0	1	1
-parch	respect	0	0	1	1
-wrthryfel	rebellion	0	0	1	0
-fertebrat	revelation	1	0	1	0
-fertebrat	vertebrates	1	0	1	0
-fertebrat	vertebrate	1	1	0	0
-fertebrat	landed	1	0	1	0
-fertebrat	fertebrat	1	0	1	0
-fertebrat	came	1	0	1	0
-nevis	nevis	0	0	1	0
-wnaeth	did	0	0	1	0
-map	map	0	0	1	1
-mas	out	0	0	1	0
-gron	round	0	0	1	0
-uchelgeisiol	ambitious	0	0	1	1
-wicca	wicca	0	0	1	0
-may	may	0	0	1	0
-max	max	0	0	1	0
-fed	th	0	0	1	0
-grog	suspension	0	0	1	0
-grog	drawer	0	0	1	0
-technegau	techniques	0	0	1	0
-mac	mac	0	0	1	0
-mab	son	0	0	1	0
-mae	a	0	0	1	0
-mad	released	0	0	1	0
-mad	mad	0	0	1	0
-mai	that	0	0	1	0
-ffurflen	form	0	0	1	1
-mam	mother	0	0	1	1
-mao	mao	0	0	1	0
-man	a	0	0	1	0
-man	man	0	0	1	0
-talu	pay	0	0	1	1
-categoricwmnïau	categoricwmnìau	0	0	1	0
-categoricwmnïau	category companies	0	0	1	0
-johnson	johnson	0	0	1	0
-frwydrau	battles	0	0	1	0
-ganran	percentage	0	0	1	0
-q	q	0	0	1	0
-ffôn	stick	0	0	1	0
-bwdhaidd	buddhist	0	0	1	0
-orllewin	west	0	0	1	0
-argraffiad	edition	0	0	1	1
-algâu	algae	0	0	1	0
-gee	gee	0	0	1	0
-persiaid	persians	0	0	1	0
-galicia	galicia	0	0	1	0
-galicia	gallicia	0	0	1	0
-basg	basque	0	0	1	0
-irene	irene	0	0	1	0
-differu		1	0	1	0
-differu	eagle	1	0	1	0
-differu	stomach	1	0	1	0
-differu	ifferentiation	1	1	0	0
-differu	differentiation	1	0	1	0
-differu	derivative	1	1	0	0
-recordiodd	recorded	0	0	1	0
-police	police	0	0	1	0
-police	police (in welsh  "heddlu")	0	0	1	0
-meddyliol	mental	0	0	1	1
-moesoldeb	morality	0	0	1	1
-weinidogion	ministers	0	0	1	0
-amcangyfrifol	estimated	0	0	1	0
-amcangyfrifon	estimates	0	0	1	0
-queens	queens	0	0	1	0
-categoricalendr	calender category	0	0	1	0
-categoricalendr	categoricalendr	0	0	1	0
-main	main	0	0	1	0
-galwodd	callled	0	0	1	0
-galwodd	called	0	0	1	0
-texas	texas	0	0	1	0
-stadiwm	stadium	0	0	1	0
-gymru	wales	0	0	1	0
-beic	bike	0	0	1	1
-tardda	which rises	0	0	1	0
-flynyddol	annually	0	0	1	0
-wyntoedd	winds	0	0	1	0
-wrando	listen	0	0	1	0
-beit	byte	0	0	1	0
-arwydd	sign	0	0	1	1
-chynrychioli	represented	0	0	1	0
-gwastadeddau	plains	0	0	1	0
-llefrith	milk	0	0	1	1
-goroesi	survival	0	0	1	0
-mawrion	large	0	0	1	0
-rock	rock	0	0	1	0
-melanesia	melanesia	0	0	1	0
-dibynnun	dibynnun	0	0	1	0
-swbstrad	substrate	0	0	1	0
-tacitus	tacitus	0	0	1	0
-carior	carior	0	0	1	0
-lan	up	0	0	1	0
-ysgafn	light	0	0	1	1
-adref	home	0	0	1	1
-golaur	golaur	0	0	1	0
-meinwe	tissue	0	0	1	0
-morwenoliaid	tern	0	0	1	0
-ymsefydlodd	settled	0	0	1	0
-rannu	share	0	0	1	0
-lai	less	0	0	1	0
-olwen	olwen	0	0	1	0
-living	living	0	0	1	0
-guangdong	guangdong	0	0	1	0
-jackson	jackson	0	0	1	0
-cyfiawnder	justice	0	0	1	1
-pluvialis	pluvialis	0	0	1	0
-estheteg	aesthetics	0	0	1	1
-penmynydd	penmynydd	0	0	1	0
-igneaidd	igneous	0	0	1	0
-oeri	cooling	0	0	1	0
-oeri	link	0	0	1	0
-defnyddwyr	users	0	0	1	0
-phatrymau	patterns	0	0	1	0
-gallois	gallois	0	0	1	0
-gallois	cymraeg	0	0	1	0
-phum	five	0	0	1	0
-ddosbarthiadau	classes	0	0	1	0
-romana	romana	0	0	1	0
-px|bawd|baner	px|thumb|flag	0	0	1	0
-geiriaduron	dictionaries	0	0	1	0
-dylunio	design	0	0	1	0
-duwiau	gods	0	0	1	0
-madryn	madryn	0	0	1	0
-california	california	0	0	1	0
-hawlfraint	copyright	0	0	1	0
-severus	severus	0	0	1	0
-anarferol	unusual	0	0	1	1
-keith	keith	0	0	1	0
-golledion	losses	0	0	1	0
-grist	christ	0	0	1	0
-wasanaeth	service	0	0	1	0
-language	language	0	0	1	0
-thing	thing	0	0	1	0
-parvati	parvati	0	0	1	0
-gofynwch	ask	0	0	1	0
-categoridinasoedd	categoridinasoedd	0	0	1	0
-dirywiad	decline	0	0	1	0
-first	first	0	0	1	0
-lwyd	lywd	0	0	1	0
-lwyd	gray	0	0	1	0
-seychelles	seychelles	0	0	1	0
-americana	americana	0	0	1	0
-dduwiau	gods	0	0	1	0
-rachel	rachel	0	0	1	0
-crib	ridge	0	0	1	1
-peirianneg	engineering	0	0	1	1
-arrhenius	arrhenius	0	0	1	0
-gosododd	set	0	0	1	0
-long	ship	0	0	1	0
-long	hir	0	0	1	0
-ddegfed	tenth	0	0	1	0
-ystyried	consider	0	0	1	1
-criw	crew	0	0	1	1
-fiji	fiji	0	0	1	0
-río	rio	0	0	1	0
-lyfr	book	0	0	1	0
-symudol	mobile	0	0	1	1
-symudodd	moved	0	0	1	0
-little	little	0	0	1	0
-little	littlt	0	0	1	0
-arddodiadau	arddodiadau	0	0	1	0
-phlanhigion	plants	0	0	1	0
-trydanol	electrical	0	0	1	1
-ddynion	men	0	0	1	0
-chefnfor	ocean	0	0	1	0
-nhref	town	0	0	1	0
-disgwyliad	expectation	0	0	1	1
-gelynion	enemies	0	0	1	0
-joel	joel	0	0	1	0
-alfred	alfred	0	0	1	0
-minaret	minaret	0	0	1	0
-teyrnasiad	reign	0	0	1	1
-teyrnasiad	teyrnasaid	0	0	1	0
-haddysg	education	0	0	1	0
-bobl	people	0	0	1	0
-cromosomau	chromosomes	0	0	1	0
-bobi	bake	0	0	1	0
-bobi	boby	0	0	1	0
-neverland	neverland	0	0	1	0
-ymrannu	divide	0	0	1	1
-collodd	lost	0	0	1	0
-harwain	led	0	0	1	0
-arglwydd	lord	0	0	1	1
-lluniau	pictures	0	0	1	0
-istanbwl	istanbul	0	0	1	0
-cwmwl	much	1	0	1	0
-cwmwl	cloud	1	1	1	1
-cwmwl	more	1	0	1	0
-dramâu	plays	0	0	1	0
-gerddi	gardens	0	0	1	0
-barwniaid	barons	0	0	1	0
-hiliol	race	0	0	1	0
-ymerodrol	imperial	0	0	1	1
-ymerodron	ymerodron	0	0	1	0
-were	we're	0	0	1	0
-were	were	0	0	1	0
-cadwyn	chain	0	0	1	1
-ymddengys	it seems	0	0	1	0
-aragon	aragon	0	0	1	0
-albymau	albums	0	0	1	0
-sahel	sahel	0	0	1	0
-dwysder	intensity	0	0	1	0
-charadriiformes	charadriiformes	0	0	1	0
-gristnogaeth	christianity	0	0	1	0
-briodi	marry	0	0	1	0
-grŵp	group	1	1	1	0
-werthu	sale	0	0	1	0
-albedo	albedo	0	0	1	0
-kevin	kevin	0	0	1	0
-warsaw	warsaw	0	0	1	0
-speakers	speakers	0	0	1	0
-hooded	hooded	0	0	1	0
-castor	castor	0	0	1	0
-mehefin	june	0	0	1	1
-llysoedd	courts	0	0	1	0
-cyfartaledd	average	0	0	1	1
-cyfartaledd	avarage	0	0	1	0
-felyn	yellow	0	0	1	0
-arctigalpaidd	arctigalpaidd	0	0	1	0
-diver	diver	0	0	1	0
-archesgob	archbishop	1	1	1	1
-archesgob	archesgop	1	0	1	0
-archesgob	scholar	1	0	1	0
-archesgob	allama	1	0	1	0
-archesgob	scholor	1	0	1	0
-frodyr	brothers	0	0	1	0
-modrwyau	rings	0	0	1	0
-davies	davies	0	0	1	0
-channel	channel	0	0	1	0
-debygol	likely	0	0	1	0
-cl	cl	0	0	1	0
-chwedl	legend	0	0	1	0
-caerdydd	cardiff	0	0	1	1
-rhegen	rail	0	0	1	0
-ymwelodd	visited	0	0	1	0
-triphlyg	triple	0	0	1	0
-morwennol	terns	0	0	1	0
-blaengroen	foreskin	0	0	1	0
-gydai	with his	0	0	1	0
-thwristiaeth	tourism	0	0	1	0
-lhuyd	lhuyd	0	0	1	0
-chipio	capture	0	0	1	0
-sutton	sutton	0	0	1	0
-ffeniciaid	ffeniciaid	0	0	1	0
-corris	corris	0	0	1	0
-cyllidol	financial	0	0	1	0
-geredigion	ceredigion	0	0	1	0
-gymerodd	took	0	0	1	0
-gydau	with their	0	0	1	0
-benddu	headed	0	0	1	0
-gwrthwyneb	in contrast	0	0	1	0
-arwyddlun	emblem	0	0	1	1
-lledrith	magic	0	0	1	1
-gorchfygu	overcome	0	0	1	1
-ymosod	attack	0	0	1	1
-curlew	curlew	0	0	1	0
-cynhyrchur	cynhyrchur	0	0	1	0
-cynhyrchur	production	0	0	1	0
-gyffredinol	general	0	0	1	0
-presenol	present	0	0	1	0
-archeolegol	archaeological	0	0	1	0
-archeolegol	archaeology	0	0	1	0
-meddianwyd	invaded	0	0	1	0
-mamiaith	mother tongue	0	0	1	0
-español	espanol	0	0	1	0
-cyflym	fast	0	0	1	1
-black	black	0	0	1	0
-ymadael	exit	0	0	1	0
-ger	near	0	0	1	1
-rhydychen	oxford	0	0	1	1
-bittern	bittern	0	0	1	0
-carcharwyd	imprisoned	0	0	1	0
-siaredid	spoken	0	0	1	0
-loerennau	satellites	0	0	1	0
-geg	mouth	0	0	1	0
-cilmeri	cilmeri	0	0	1	0
-cilmeri	cilmery	0	0	1	0
-cwsg	sleep	0	0	1	1
-siaredir	spoken	0	0	1	0
-cynnwys	includes	0	0	1	0
-secondary	secondary	0	0	1	0
-achau	genealogy	0	0	1	0
-golwg	view	0	0	1	0
-rwmania	romania	0	0	1	0
-kaishek	kaishek	0	0	1	0
-kaishek	kai-shek	0	0	1	0
-miley	miley	0	0	1	0
-ymddwyn	behave	0	0	1	1
-ysgwydd	shoulder	0	0	1	1
-siopa	shopping	0	0	1	0
-ddweud	said	0	0	1	0
-menai	menai	0	0	1	0
-hiwmor	humor	0	0	1	0
-pwyliaid	poles	0	0	1	0
-sean	sean	0	0	1	0
-sean	are	0	0	1	0
-stigma	stigma	0	0	1	0
-ysgyfaint	lung	0	0	1	0
-calan	new year	0	0	1	0
-poeni	concerned	0	0	1	0
-wonder	wonder	0	0	1	0
-radd	degree	0	0	1	0
-milfeddyg	veterinary	1	1	0	0
-milfeddyg	veterinarian	1	1	0	0
-milfeddyg	vetenam	1	0	1	0
-milfeddyg	vererinarian	1	0	1	0
-milfeddyg	vietnam	1	0	1	0
-dywyll	dark	0	0	1	0
-label	label	0	0	1	1
-pump	five	0	0	1	1
-guyane	guiana	0	0	1	0
-confoederatio	confoederatio	0	0	1	0
-reading	reading	0	0	1	0
-categoriteledu	category: tv	0	0	1	0
-categoriteledu	categoriteledu	0	0	1	0
-august	august	0	0	1	0
-jr	jr	0	0	1	0
-trefedigaethol	colonial	0	0	1	0
-trefedigaethol	colonical	0	0	1	0
-farwolaeth	death	0	0	1	0
-tun	tin	0	0	1	0
-tua	about	0	0	1	1
-tud	p	0	0	1	0
-ja	ja	0	0	1	0
-tawe	abertawe	0	0	1	0
-rugby	rugby	0	0	1	0
-fformat	format	0	0	1	1
-tribbiani	tribbiani	0	0	1	0
-math	type	0	0	1	1
-jo	jo	0	0	1	0
-siachmat	siachmat	0	0	1	0
-pedryn	petrel	0	0	1	0
-milland	milland	0	0	1	0
-darganfur	darganfur	0	0	1	0
-darganfur	found	0	0	1	0
-gystadleuaeth	competition	0	0	1	0
-jj	jj	0	0	1	0
-gyfarwydd	familiar	0	0	1	0
-hynafol	ancient	0	0	1	1
-delweddau	images	0	0	1	0
-siarter	charter	0	0	1	0
-je	je	0	0	1	0
-profi	testing	0	0	1	0
-comoros	comoros	0	0	1	0
-plisgyn	shell	0	0	1	1
-barry	barry	0	0	1	0
-trydyddol	tertiary	0	0	1	0
-mari	mari	0	0	1	0
-mark	matk	0	0	1	0
-mark	mark	0	0	1	0
-marw	dead	0	0	1	1
-mars	mars	0	0	1	0
-arth	bear	0	0	1	1
-dyfu	grow	0	0	1	0
-mary	mary	0	0	1	0
-offeren	mass	0	0	1	1
-batagones	patagones	0	0	1	0
-ffrengig	french	0	0	1	1
-categoricewri	categoricewri	0	0	1	0
-categoricantorion	categoricantorion	0	0	1	0
-categoricantorion	category singers	0	0	1	0
-cúig	uig	0	0	1	0
-pidyn	penis	0	0	1	0
-frwydr	battle	0	0	1	0
-hemisffer	hemisphere	0	0	1	0
-those	those	0	0	1	0
-serennu	star	0	0	1	0
-sound	sound	0	0	1	0
-gwibdaith	trip	0	0	1	0
-canolfannau	centers	0	0	1	0
-sataniaeth	satanism	0	0	1	0
-efengylau	gospels	0	0	1	0
-meddiannu	possession	0	0	1	0
-novello	novello	0	0	1	0
-llechi	slate	0	0	1	0
-coco	cocoa	0	0	1	0
-caracalla	caracalla	0	0	1	0
-anfodlonrwydd	dissatisfaction	0	0	1	0
-rhuthun	ruthin	0	0	1	1
-coch	red	0	0	1	1
-ulysses	ulysses	0	0	1	0
-côte	note	0	0	1	0
-côte	cote	0	0	1	0
-sahara	sahara	0	0	1	0
-sahara	saharan	0	0	1	0
-diamedr	diameter	0	0	1	0
-cemeg	chemistry	0	0	1	1
-ofari	ovary	0	0	1	0
-breton	breton	0	0	1	0
-cadwodd	retained	0	0	1	0
-pas	pass	0	0	1	0
-caethweision	slaves	0	0	1	0
-doctor	doctor	0	0	1	1
-edwin	edwin	0	0	1	0
-duedd	trend	0	0	1	0
-same	same	0	0	1	0
-dringo	climbing	0	0	1	0
-cyfieithwyd	translated	0	0	1	0
-pab	pope	0	0	1	1
-pac	pac	0	0	1	0
-pedwaredd	fourth	0	0	1	0
-strategol	strategic	0	0	1	0
-geidwadol	conservative	0	0	1	0
-pam	why	0	0	1	1
-pan	when	0	0	1	1
-príncipe	principe	0	0	1	0
-ydynt	they	0	0	1	0
-isotopau	isotopes	0	0	1	0
-nghaerdydd	cardiff	0	0	1	0
-ymsefydlwyr	settlers	0	0	1	0
-band	band	0	0	1	1
-gwladfar	gwladfar	0	0	1	0
-haint	infection	0	0	1	0
-draig	dragon	0	0	1	1
-wellington	wellington	0	0	1	0
-ymfudwyr	migrants	0	0	1	0
-bosnahercegovina	bosnahercegovina	0	0	1	0
-bomiau	bombs	0	0	1	0
-boblogrwydd	popularity	0	0	1	0
-niwclear	nuclear	1	1	1	0
-drais	violence	0	0	1	0
-×	x	0	0	1	0
-among	among	0	0	1	0
-swlffwrig	swlffwrig	0	0	1	0
-cyd	joint	0	0	1	1
-gymanwlad	commonwealth	0	0	1	0
-lythyren	letter	0	0	1	0
-gwag	empty	0	0	1	1
-barbados	barbados	0	0	1	0
-cynydd	increase	0	0	1	0
-nick	nick	0	0	1	0
-ganolbarth	mid	0	0	1	0
-preachers	preachers	0	0	1	0
-treftadaeth	the heritage	0	0	1	0
-treftadaeth	heritage	0	0	1	0
-waed	blood	0	0	1	0
-naw	nine	0	0	1	1
-chyn	before	0	0	1	0
-diogelu	protection	0	0	1	0
-mor	as	0	0	1	0
-cynlluniwyd	designed	0	0	1	0
-seren	rays	1	0	1	0
-seren	star	1	1	1	1
-categoricrefydd	categoricrefydd	0	0	1	0
-wasanaethau	services	0	0	1	0
-helen	helen	0	0	1	0
-grid	grid	0	0	1	0
-mob	mob	0	0	1	0
-valdkundad	valdkundad	0	0	1	0
-breision	breision	0	0	1	0
-breision	capitals	0	0	1	0
-deuluoedd	families	0	0	1	0
-adams	adams	0	0	1	0
-either	either	0	0	1	0
-anrheithio	decimate	0	0	1	0
-newyddiadurwr	journalist	0	0	1	1
-hapus	happy	0	0	1	1
-daearegol	geological	0	0	1	1
-rafah	rafah	0	0	1	0
-witchcraft	witchcraft	0	0	1	0
-titan	titan	0	0	1	0
-digwyddiadau	events	0	0	1	0
-dağı	magi	0	0	1	0
-dağı	trap	0	0	1	0
-ynan	cynan	0	0	1	0
-goideleg	giodelic	0	0	1	0
-cherddoriaeth	music	0	0	1	0
-ellis	ellis	0	0	1	0
-dras	descent	0	0	1	0
-sudan	sudan	0	0	1	0
-derwyddon	druids	0	0	1	0
-calchfaen	translating	1	0	1	0
-calchfaen	limestone	1	1	0	1
-calchfaen	costly	1	0	1	0
-calchfaen	expensive	1	0	1	0
-calchfaen	calchfaen	1	0	1	0
-gwrthsefyll	resistant	0	0	1	0
-etholiad	election	0	0	1	1
-drosedd	offense	0	0	1	0
-chysylltiadau	links	0	0	1	0
-kyoto	kyoto	0	0	1	0
-cenedlaetholdeb	nationalism	0	0	1	1
-syml	simple	0	0	1	1
-aled	aled	0	0	1	0
-gwladfaoedd	gwladfaoedd	0	0	1	0
-unwyd	merged	0	0	1	0
-pwysleisio	emphasizes	0	0	1	0
-otho	otho	0	0	1	0
-cylchol	circular	0	0	1	0
-island	island	0	0	1	0
-tryweryn	tryweryn	0	0	1	0
-deheuol	southern	0	0	1	1
-ddigon	enough	0	0	1	0
-bwlgariaid	bulgarians	0	0	1	0
-dafadennog	warty	0	0	1	1
-joplin	joplin	0	0	1	0
-marn	farm	0	0	1	0
-marn	view	0	0	1	0
-road	road	0	0	1	0
-cynghorwyr	councilors	0	0	1	0
-bedwyr	bedwyr	0	0	1	0
-categorirhanbarthau	categorirhanbarthau	0	0	1	0
-glyndŵr	glyndwr	0	0	1	0
-glyndŵr	gravity	0	0	1	0
-herbert	herbert	0	0	1	0
-klerk	klerk	0	0	1	0
-weithiaun	weithianu	0	0	1	0
-weithiaun	weithiaun	0	0	1	0
-einstein	einstein	0	0	1	0
-nhwn	this	0	0	1	0
-phwy	who	0	0	1	0
-cyrchoedd	raids	0	0	1	0
-gwladwriaeth	state	0	0	1	1
-ynganu	pronunciation	0	0	1	0
-canodd	sang	0	0	1	0
-ddynodir	designated	0	0	1	0
-fater	issue	0	0	1	0
-portreadu	portrayed	0	0	1	0
-tiriogaeth	territory	1	1	1	1
-wythwr	number eight(8)	0	0	1	0
-wythwr	number eight	0	0	1	0
-gors	marsh	0	0	1	0
-watkin	watkin	0	0	1	0
-phlant	children	0	0	1	0
-ymgais	attempt	0	0	1	1
-merfyn	merfyn	0	0	1	0
-iwganda	uganda	0	0	1	0
-barri	barry	0	0	1	0
-nghanol	center	0	0	1	0
-gynhyrchir	produced	0	0	1	0
-rhinwedd	virtue	0	0	1	1
-adler	adler	0	0	1	0
-goronwy	goronwy	0	0	1	0
-ynydu	ynydu	0	0	1	0
-disgwylid	expected	0	0	1	0
-welir	seen	0	0	1	0
-esgus	excuse	0	0	1	1
-manuel	manuel	0	0	1	0
-disgwylir	expected	0	0	1	0
-prifardd	poet	0	0	1	0
-callestr	chert	1	1	0	0
-callestr	internal	1	0	1	0
-callestr	flint	1	0	1	1
-callestr	inner	1	0	1	0
-callestr	before	1	0	1	0
-cenhedlu	contraception	0	0	1	0
-required	required	0	0	1	0
-ymgyrch	campaign	0	0	1	1
-wicifryngau	wikimedia	0	0	1	0
-deer	deer	0	0	1	0
-llydaw	brittany	0	0	1	1
-general	general	0	0	1	0
-ymylon	edges	0	0	1	0
-arddu	arddu	0	0	1	0
-llydan	wide	0	0	1	1
-gorllewinol	western	0	0	1	1
-eliot	eliot	0	0	1	0
-sandpiper	sandpiper	0	0	1	0
-sandpiper	sandipiper	0	0	1	0
-again	again	0	0	1	0
-genres	genres	0	0	1	0
-ffrancod	french	0	0	1	0
-maredudd	meredith	0	0	1	0
-istanbul	istanbul	0	0	1	0
-iorwerth	iorwerth	0	0	1	0
-ganolfan	center	0	0	1	0
-eiriau	words	0	0	1	0
-field	field	0	0	1	0
-darganfuwyd	found	0	0	1	0
-vanuatu	vanuatu	0	0	1	0
-personol	personal	0	0	1	1
-deledu	tv	0	0	1	0
-pentrefi	villages	0	0	1	0
-brando	brando	0	0	1	0
-annwyd	cold	0	0	1	1
-wrthrych	object	0	0	1	0
-chris	chris	0	0	1	0
-dwywaith	twice	0	0	1	1
-annwyl	dear	0	0	1	1
-havana	havana	0	0	1	0
-orau	best	0	0	1	0
-ildior	surrender	0	0	1	0
-ildior	ildior	0	0	1	0
-disgyn	fall	0	0	1	1
-requires	requires	0	0	1	0
-gêm	game	0	0	1	0
-u	u	0	0	1	0
-god	god	0	0	1	0
-god	code	0	0	1	0
-siroedd	counties	0	0	1	0
-mongoliaid	mongolian	0	0	1	0
-sergei	sergei	0	0	1	0
-mynegodd	expressed	0	0	1	0
-pheasant	pheasant	0	0	1	0
-corwen	corwen	0	0	1	0
-€	Є	0	0	1	0
-bwrdd	board	0	0	1	1
-meddu	have	0	0	1	0
-children	childrens	0	0	1	0
-emily	emily	0	0	1	0
-englynion	stanzas	0	0	1	0
-pennaf	main	0	0	1	0
-gant	hundred	0	0	1	0
-pennau	heads	0	0	1	0
-rwanda	rwanda	0	0	1	0
-pennar	pennar	0	0	1	0
-nythu	nest	0	0	1	1
-mandela	mandela	0	0	1	0
-cylch	cycle	0	0	1	0
-rhith	virtual	0	0	1	0
-chreigiau	rocks	0	0	1	0
-traed	feet	0	0	1	0
-billie	billie	0	0	1	0
-fali	valley	0	0	1	0
-fall	belial	0	0	1	0
-px|gwyddoniaeth	px science	0	0	1	0
-ymadawiad	departure	0	0	1	1
-swyddogaeth	function	0	0	1	0
-celebrity	celebrity	0	0	1	0
-hyn	this	0	0	1	0
-dún	tin	0	0	1	0
-bangor	bangor	0	0	1	0
-saudi	saudi	0	0	1	0
-blaenllaw	leading	0	0	1	0
-canoloesol	medieval	0	0	1	0
-delyn	harp	0	0	1	0
-ddwyieithog	bilingual	0	0	1	0
-onychoprion	onychoprion	0	0	1	0
-constantius	constantius	0	0	1	0
-titles	titles	0	0	1	0
-nivalis	nivalis	0	0	1	0
-cryfach	stronger	0	0	1	0
-dywysoges	princess	0	0	1	0
-almaeneg	german	0	0	1	0
-croth	womb	0	0	1	1
-ives	ives	0	0	1	0
-iddyn	they	0	0	1	0
-destament	testament	0	0	1	0
-lleiafrifoedd	minority	0	0	1	0
-gatalaneg	catalan	0	0	1	0
-ddigonol	adequate	0	0	1	0
-public	cyhoedd	0	0	1	0
-dorchog	coiled	0	0	1	0
-brønsted	bronsted	0	0	1	0
-categorigrwpiau	categorigrwpiau	0	0	1	0
-categorigrwpiau	category groups	0	0	1	0
-darogan	predict	0	0	1	1
-compilation	compilation	0	0	1	0
-compilation	comilation	0	0	1	0
-meintiau	sizes	0	0	1	0
-lenyddol	literary	0	0	1	0
-caethwasiaeth	slavery	0	0	1	1
-bened	benedict	0	0	1	0
-platinwm	platinum	0	0	1	0
-platinwm	platinwn	0	0	1	0
-baron	baron	0	0	1	0
-publisher	publisher	0	0	1	0
-gadawodd	gadawood	0	0	1	0
-gadawodd	left	0	0	1	0
-nghaernarfon	caernarfon	0	0	1	0
-caradoc	caradoc	0	0	1	0
-lledr	leather	0	0	1	1
-heffeithio	affected	0	0	1	0
-ddafad	sheep	0	0	1	0
-agatha	agatha	0	0	1	0
-fwy	more	0	0	1	0
-published	published	0	0	1	0
-atgofion	memories	0	0	1	0
-effeithiol	effective	0	0	1	1
-fron	breast	0	0	1	0
-botwm	button	0	0	1	1
-africa	africa	0	0	1	0
-rhyngweithio	interaction	0	0	1	0
-ddringwyr	climbers	0	0	1	0
-capeli	chapels	0	0	1	0
-categoridiodydd	categoridiodydd	0	0	1	0
-twf	growth	0	0	1	0
-ysgrifen	writing	0	0	1	1
-lydaweg	breton	0	0	1	0
-resbiradaeth	respiration	0	0	1	0
-two	two	0	0	1	0
-dathlu	celebrate	0	0	1	1
-twm	tom	0	0	1	1
-isdeulu	isdeulu	0	0	1	0
-isdeulu	lower family	0	0	1	0
-isdeulu	sub- family	0	0	1	0
-gadarn	sound	0	0	1	0
-torri	cut	0	0	1	1
-blodyn	flower	0	0	1	1
-gamlas	canal	0	0	1	0
-mozilla	mozilla	0	0	1	0
-leonard	leonard	0	0	1	0
-priodoleddau	attributes	0	0	1	0
-canol	middle	0	0	1	1
-suite	suite	0	0	1	0
-gwelliant	improvement	0	0	1	1
-dŵr	water	0	0	1	0
-haddoli	worship	0	0	1	0
-town	town	0	0	1	0
-none	none	0	0	1	0
-include	the include	0	0	1	0
-marmara	marmara	0	0	1	0
-der	der	0	0	1	0
-des	des	0	0	1	0
-tuag	approach	0	0	1	0
-roosevelt	roosevelt	0	0	1	0
-noeth	naked	0	0	1	1
-del	del	0	0	1	0
-categorillenorion	categorillenorion	0	0	1	0
-den	den	0	0	1	0
-tuar	the promised	0	0	1	0
-tibetiaid	tibetans	0	0	1	0
-deg	ten	0	0	1	1
-newidiad	amendment	0	0	1	0
-unben	dictator	0	0	1	0
-chaniateir	allowed	0	0	1	0
-maesdrefi	suburbs	0	0	1	0
-alltudio	deportation	0	0	1	0
-gravell	gravell	0	0	1	0
-protein	protein	0	0	1	0
-arnynt	they	0	0	1	0
-wyrdd	green	0	0	1	0
-byrion	short	0	0	1	0
-rym	force	0	0	1	0
-heriau	challenges	0	0	1	0
-dydy	it is	0	0	1	0
-emiradau	emirates	0	0	1	0
-dydd	day	0	0	1	1
-dydd	dydb	0	0	1	0
-oeraf	coldest	0	0	1	0
-oeraf	the coldest	0	0	1	0
-ryw	some	0	0	1	0
-dydi	does	0	0	1	0
-ensemble	ensemble	0	0	1	0
-syrthio	fall	0	0	1	1
-phoblogaeth	population	0	0	1	0
-melys	sweet	0	0	1	1
-teils	tile	0	0	1	0
-wyth	eight	0	0	1	1
-tywysog	prince	0	0	1	1
-âi	or	0	0	1	0
-dogfennau	documents	0	0	1	0
-wael	poor	0	0	1	0
-cyfundrefn	system	0	0	1	1
-glogwyn	cliff	0	0	1	0
-cyfansoddiad	composition	0	0	1	1
-glicio	click	0	0	1	0
-melyn	yellow	0	0	1	1
-seiont	seiont	0	0	1	0
-wiciaid	wiccans	0	0	1	0
-cyngheiriaid	cyngheiriaid	0	0	1	0
-âu	s	0	0	1	0
-âu	s or and	0	0	1	0
-gristion	christian	0	0	1	0
-troin	fatal	0	0	1	0
-years	years	0	0	1	0
-dechreuadau	beginnings	0	0	1	0
-amrywiaethau	variations	0	0	1	0
-romáwns	romance	0	0	1	0
-ddywedodd	said	0	0	1	0
-cyffuriau	drugs	0	0	1	0
-hypertext	hypertext	0	0	1	0
-hypertext	hypertex	0	0	1	0
-azerbaijan	azerbaijan	0	0	1	0
-through	through	0	0	1	0
-mudiant	motion	0	0	1	0
-arian	money	0	0	1	1
-ieithoedd	languages	0	0	1	0
-newyn	hunger	0	0	1	1
-diweddodd	ended	0	0	1	0
-andaman	andaman	0	0	1	0
-cofio	remember	0	0	1	1
-ddrwg	shall bear	0	0	1	0
-ddrwg	bad	0	0	1	0
-datganodd	declared	0	0	1	0
-fanylion	details	0	0	1	0
-ciwb	cube	0	0	1	1
-zygotic	zygotic	0	0	1	0
-hadeiladu	built	0	0	1	0
-achosi	cause	0	0	1	1
-frenhiniaeth	monarchy	0	0	1	0
-oxford	oxford	0	0	1	0
-association	association	0	0	1	0
-mystery	mystery	0	0	1	0
-rhyl	rhyl	0	0	1	0
-porth	portal	0	0	1	0
-ludwig	ludwig	0	0	1	0
-busnes	business	0	0	1	1
-troellwyr	dj	0	0	1	0
-basgeg	basque	0	0	1	0
-eleanor	eleanor	0	0	1	0
-namibia	namibia	0	0	1	0
-rhoir	given	0	0	1	0
-mynychu	attend	0	0	1	1
-honiad	allegation	0	0	1	1
-rhyw	some	0	0	1	1
-rhys	yhs	0	0	1	0
-rhys	rhys	0	0	1	0
-pwyllgor	committee	0	0	1	1
-categorinofelwyr	categorinofelwyr	0	0	1	0
-house	house	0	0	1	0
-hare	hare	0	0	1	0
-hard	hard	0	0	1	0
-economaidd	economic	0	0	1	1
-llanelwy	st asaph	0	0	1	0
-ryan	ryan	0	0	1	0
-vespasian	vespasian	0	0	1	0
-ganed	born	0	0	1	0
-deall	undersatand	0	0	1	0
-deall	understand	0	0	1	1
-ystlum	bat	0	0	1	1
-esperanto	esperanto	0	0	1	0
-efrog	york	0	0	1	1
-perry	perry	0	0	1	0
-quincy	quincy	0	0	1	0
-cario	carrying	0	0	1	0
-singapore	singapore	0	0	1	0
-rhoddwyd	was	0	0	1	0
-divoire	ivoire	0	0	1	0
-cyfieithiad	translation	0	0	1	1
-trosglwydydd	trosglwydydd	0	0	1	0
-criafolen	rowan	1	0	1	0
-criafolen	crifolen	1	0	1	0
-criafolen	sorbus	1	1	0	0
-criafolen	french	1	0	1	0
-datblygol	developing	0	0	1	0
-rhamant	romance	0	0	1	1
-gŵyl	festival	0	0	1	0
-amrywiol	various	0	0	1	0
-amrywion	varieties	0	0	1	1
-lawrence	lawrence	0	0	1	0
-dafis	dafis	0	0	1	0
-lechweddau	slopes	0	0	1	0
-ddiddordeb	interest	0	0	1	0
-mikhail	mikhail	0	0	1	0
-cryfaf	strongest	0	0	1	0
-nghanolfan	center	0	0	1	0
-antioch	antioch	0	0	1	0
-trosglwyddo	transfer	0	0	1	1
-bethan	bethan	0	0	1	0
-gŵyr	wax	0	0	1	0
-gelyn	enemy	0	0	1	1
-gwennol	shuttle	0	0	1	1
-ffactor	factor	0	0	1	1
-hithau	she	0	0	1	0
-golli	loss	0	0	1	0
-cynhesaf	warmest	0	0	1	0
-credai	thought	0	0	1	0
-gardner	gardner	0	0	1	0
-cynhyrchiad	production	0	0	1	0
-dirywiodd	declined	0	0	1	0
-ysgrifennwyd	written	0	0	1	0
-ruficollis	ruficollis	0	0	1	0
-dont	do not	0	0	1	0
-diflanedig	extinct	0	0	1	0
-ailadeiladwyd	reconstructed	0	0	1	0
-cyfieithad	translation	0	0	1	0
-dylid	be	0	0	1	0
-sbaen	spain	0	0	1	1
-creadigol	creative	0	0	1	1
-bicini	bikini	0	0	1	0
-donn	donn	0	0	1	0
-teyrngarwch	loyalty	0	0	1	0
-teyrngarwch	terngarwch	0	0	1	0
-least	least	0	0	1	0
-hafana	havana	0	0	1	0
-llwybrau	routes	0	0	1	0
-llwybrau	glasses	0	0	1	0
-mosambic	mozambique	0	0	1	0
-wahân	apart	0	0	1	0
-wahân	separate	0	0	1	0
-parc	park	0	0	1	1
-para	last	0	0	1	0
-costa	costa	0	0	1	0
-cyfrolau	volumes	0	0	1	0
-park	park	0	0	1	0
-ddur	steel	0	0	1	0
-gaerfyrddin	carmarthenshire	0	0	1	0
-part	part	0	0	1	0
-materol	material	0	0	1	1
-believe	believe	0	0	1	0
-moeseg	ethics	0	0	1	1
-chwarren	gland	0	0	1	1
-b	b	0	0	1	0
-limosa	limosa	0	0	1	0
-allobroges	allobroges	0	0	1	0
-mynach	monk	0	0	1	1
-ddylanwadol	influential	0	0	1	0
-markup	markup	0	0	1	0
-emlyn	emlyn	0	0	1	0
-bedair	four	0	0	1	0
-ager	steam	0	0	1	1
-safleoedd	sites	0	0	1	0
-adran	section	0	0	1	1
-tactegau	tactics	0	0	1	0
-mountain	mountain	0	0	1	0
-gario	carry	0	0	1	0
-israelaidd	israeli	0	0	1	0
-cloddir	extracted	0	0	1	0
-gorbachev	gorbachev	0	0	1	0
-daearyddiaeth	geography	0	0	1	1
-drwydded	licence	0	0	1	0
-drwydded	license	0	0	1	0
-caesar	caesar	0	0	1	0
-briodolir	attributes	0	0	1	0
-briodolir	attributable	0	0	1	0
-province	province	0	0	1	0
-mosg	mosque	0	0	1	0
-effaith	impact	0	0	1	0
-gopr	copper	0	0	1	0
-pêldroedwr	football player	0	0	1	0
-pêldroedwr	peldroedwr	0	0	1	0
-cydweithredol	collaborative	0	0	1	0
-gwrthydd	resistor	0	0	1	0
-motacilla	motacilla	0	0	1	0
-llandudno	llandudno	0	0	1	0
-mwynwyr	miners	0	0	1	0
-fedi	harvested	0	0	1	0
-ystyria	considers	0	0	1	0
-aderyndrycin	manx	0	0	1	0
-aderyndrycin	aderyndrycin	0	0	1	0
-aderyndrycin	storm-bird	0	0	1	0
-ngwledydd	countries	0	0	1	0
-gopa	summit	0	0	1	0
-ceffyl	horse	0	0	1	1
-ka	k	0	0	1	0
-kg	kg	0	0	1	0
-meini	criteria	0	0	1	0
-nadolig	christmas	0	0	1	1
-feddiannu	occupied	0	0	1	0
-cymhlethdod	complexity	0	0	1	1
-km	km	0	0	1	0
-bhagavad	bhagavad	0	0	1	0
-liechtenstein	liechtenstein	0	0	1	0
-kw	kw	0	0	1	0
-pennant	pennant	0	0	1	0
-lywelyn	llywelyn	0	0	1	0
-sector	sector	0	0	1	0
-datblygedig	advanced	0	0	1	0
-thomas	thomas	0	0	1	0
-milwyr	soldiers	0	0	1	0
-milwyr	akiruno	0	0	1	0
-sparrow	sparrow	0	0	1	0
-cliath	cliath	0	0	1	0
-cerrig	stone	0	0	1	0
-perchen	owner	0	0	1	1
-pratchett	pratchett	0	0	1	0
-hwyluso	facilitate	0	0	1	1
-germanaidd	germanic	0	0	1	0
-daduno	dissociates	0	0	1	0
-ceidwadol	conservation	0	0	1	0
-ceidwadol	conservative	0	0	1	1
-prego	brego	0	0	1	0
-permission	permission	0	0	1	0
-celyn	holly	0	0	1	0
-cofnod	record	0	0	1	0
-meic	mike	0	0	1	0
-cymanwlad	commonwealth	0	0	1	1
-graffeg	graphics	0	0	1	0
-blaenwyr	forwards	0	0	1	0
-perthynol	related	0	0	1	0
-llwyddianus	successful	0	0	1	0
-ngwaelod	bottom	0	0	1	0
-ŵy	egg	1	1	0	0
-elfennol	elementary	0	0	1	1
-garfan	cohort	0	0	1	0
-chwedloniaeth	mythology	0	0	1	1
-hwnnwn	logs	0	0	1	0
-rowndiau	rounds	0	0	1	0
-common	common	0	0	1	0
-witches	witches	0	0	1	0
-coegylfinir	whimbrel	0	0	1	0
-lion	grammes	0	0	1	0
-collasant	shed	0	0	1	0
-lisbon	lisbon	0	0	1	0
-cânt	percent	0	0	1	0
-tringa	tringa	0	0	1	0
-pennod	chapter	0	0	1	1
-perfformiadau	performances	0	0	1	0
-darparu	provide	0	0	1	1
-glynne	glynne	0	0	1	0
-mecanyddol	mechanical	0	0	1	0
-ysgafnach	lighter	0	0	1	0
-ysgafnach	light...	0	0	1	0
-gwan	weak	0	0	1	1
-stewarthannah	stewart hannah	0	0	1	0
-stewarthannah	stewar thannah	0	0	1	0
-ynysfor	archipelago	0	0	1	1
-brythoneg	brythonic	0	0	1	1
-sbwriel	litter	0	0	1	0
-brynu	buy	0	0	1	0
-ddigwyddodd	happened	0	0	1	0
-broughton	broughton	0	0	1	0
-afal	apple	0	0	1	1
-dôn	wave	0	0	1	0
-triawd	trio	0	0	1	1
-mathias	mathias	0	0	1	0
-bencadlys	headquarters	0	0	1	0
-cyferbyniaeth	contrast	0	0	1	0
-cyfatebol	equivalent	0	0	1	0
-sefydlwyd	established	0	0	1	0
-cymhedrol	moderate	0	0	1	0
-heddwch	peace	0	0	1	1
-simple	simple	0	0	1	0
-storio	storage	0	0	1	0
-cadarn	sound	0	0	1	0
-cadarn	madam	0	0	1	0
-dances	dances	0	0	1	0
-tennessee	tennessee	0	0	1	0
-meddylfryd	thinking	0	0	1	0
-braşov	brasov	0	0	1	0
-gysgu	sleep	0	0	1	0
-slater	slater	0	0	1	0
-ceg	mouth	0	0	1	1
-px|de|gwledydd	px | de | countries	0	0	1	0
-px|de|gwledydd	px south countries	0	0	1	0
-cefnfor	ocean	0	0	1	1
-rasio	racing	0	0	1	0
-gwyddbwyll	sixth	1	0	1	0
-gwyddbwyll	chess	1	1	1	1
-sgôr	score	0	0	1	0
-aeddfed	mature	0	0	1	1
-bywyd	life	1	1	1	1
-bywyd	aslam	1	0	1	0
-ireland	irland	0	0	1	0
-ireland	ireland	0	0	1	0
-laos	laos	0	0	1	0
-peppers	peppers	0	0	1	0
-naturiol	natural	0	0	1	1
-lafur	labor	0	0	1	0
-blynedd	years	0	0	1	1
-anelwyd	aimed	0	0	1	0
-gay	gay	0	0	1	0
-gau	closed	0	0	1	0
-gas	nasty	0	0	1	0
-hydroclorig	hydrochloric	0	0	1	0
-gynnwys	including	0	0	1	0
-gan	by	0	0	1	1
-gam	step	0	0	1	0
-gal	gal	0	0	1	0
-gae	field	0	0	1	0
-gad	game	0	0	1	0
-lleihawyd	reduced	0	0	1	0
-fur	wall	0	0	1	0
-metro	metro	0	0	1	0
-atatürk	ataturk	0	0	1	0
-gynnar	early	0	0	1	0
-gynnar	gynnar	0	0	1	0
-solid	solid	0	0	1	0
-bill	bill	0	0	1	0
-rhwydwaith	network	0	0	1	1
-rwmaneg	romanian	0	0	1	0
-gynnal	maintain	0	0	1	0
-torrwyd	cut	0	0	1	0
-cleopatra	cleopatra	0	0	1	0
-employment	employment	0	0	1	0
-dueddol	tend to	0	0	1	0
-salvador	salvador	0	0	1	0
-sbaenaidd	spanish	0	0	1	0
-hawlio	claim	0	0	1	1
-hawlio	welshmen	0	0	1	0
-hawlio	to claim	0	0	1	0
-chwiliedyddion	probes	0	0	1	0
-wladfa	colony	0	0	1	0
-roegaidd	grecian	0	0	1	0
-anodd	difficult	0	0	1	1
-ffederal	federal	0	0	1	1
-llanw	tide	0	0	1	1
-ddiwydiant	industry	0	0	1	0
-meddiant	possession	0	0	1	1
-meddianu	occupied	0	0	1	0
-passeriformes	passeriformes	0	0	1	0
-gerallt	gerald	0	0	1	0
-categorillywodraeth	categorillywodraeth	0	0	1	0
-categorillywodraeth	category: government	0	0	1	0
-galapagos	galapagos	0	0	1	0
-butcher	butcher	0	0	1	0
-botswana	botswana	0	0	1	0
-copying	copying	0	0	1	0
-loxodonta	loxodonta	0	0	1	0
-ffosfforws	phosphorus	0	0	1	0
-ruth	ruth	0	0	1	0
-sapiens	sapiens	0	0	1	0
-guba	guba	0	0	1	0
-golygfeydd	gloygfeydd	0	0	1	0
-golygfeydd	views	0	0	1	0
-syn	who	0	0	1	0
-syr	sir	0	0	1	1
-signalau	signals	0	0	1	0
-ddosbarth	class	0	0	1	0
-ddatblygodd	developed	0	0	1	0
-ddatblygodd	matured	0	0	1	0
-gyfleus	convenient	0	0	1	0
-gorchuddiwyd	covered	0	0	1	0
-doreen	doreen	0	0	1	0
-gwaed	blood	0	0	1	1
-grib	grip	0	0	1	0
-grib	ridge	0	0	1	0
-criced	cricket	0	0	1	1
-gogledd	north	0	0	1	0
-animeiddiedig	animated	0	0	1	0
-rywogaeth	species	0	0	1	0
-y	the	0	0	1	0
-gwningen	rabbit	0	0	1	0
-categorimisoedd	categorimisoedd	0	0	1	0
-hastings	hastings	0	0	1	0
-ymddiswyddiad	resignation	0	0	1	0
-celtaidd	celtic	0	0	1	0
-atomig	atomic	0	0	1	1
-world	world	0	0	1	0
-meddwl	think	0	0	1	1
-matterhorn	matterhorn	0	0	1	0
-wib	sprint	0	0	1	0
-sparta	sparta	0	0	1	0
-biwmares	beaumaris	0	0	1	0
-teigrod	tigers	0	0	1	0
-cul	narrow	0	0	1	1
-parchedig	reverend	0	0	1	1
-drafodaethau	discussions	0	0	1	0
-ddyn	man	0	0	1	0
-goelcerth	bonfire	0	0	1	0
-araith	speech	0	0	1	1
-petroliwm	petroleum	0	0	1	0
-fraith	spotted	0	0	1	0
-ambrose	ambrose	0	0	1	0
-caergaint	canterbury	0	0	1	1
-sedd	seat	0	0	1	1
-eisoes	already	0	0	1	1
-feinwe	tissue	0	0	1	0
-cerbydau	vehicles	0	0	1	0
-ymerodr	ymerodr	0	0	1	0
-hindwiaid	hindus	0	0	1	0
-ddrud	expensive	0	0	1	0
-google	google	0	0	1	0
-addolir	worshiped	0	0	1	0
-dawes	dawes	0	0	1	0
-duck	duck	0	0	1	0
-back	back	0	0	1	0
-bach	small	0	0	1	1
-penderfynodd	decided	0	0	1	0
-dawel	quiet	0	0	1	0
-trafnidiaeth	transport	0	0	1	0
-destun	subject	0	0	1	0
-nicaragua	nicaragua	0	0	1	0
-gwpan	cup	0	0	1	0
-gydol	all	0	0	1	0
-scala	scala	0	0	1	0
-bwys	major	0	0	1	0
-bwys	power	0	0	1	0
-pell	remote	0	0	1	1
-pen	head	0	0	1	1
-epil	epil	0	0	1	0
-epil	offspring	0	0	1	1
-lark	lark	0	0	1	0
-amgylchiadau	circumstances	0	0	1	0
-bwyd	food	1	1	1	1
-bwyd	food``	1	0	1	0
-bwyd	wtd	1	0	1	0
-bwyd	bywd	1	0	1	0
-bwyd	change	1	0	1	0
-km²	km2	0	0	1	0
-oes	no	0	0	1	0
-oer	cold	0	0	1	1
-use	not use	0	0	1	0
-use	use	0	0	1	0
-ngweriniaeth	republic	0	0	1	0
-feibion	sons	0	0	1	0
-oen	lamb	0	0	1	1
-drydydd	third	0	0	1	0
-gymysg	mixed	0	0	1	0
-libanus	lebanon	0	0	1	1
-goody	goody	0	0	1	0
-bysiau	bus	0	0	1	0
-atmosfferig	atmospheric	0	0	1	0
-britannica	britannica	0	0	1	0
-epaod	apes	0	0	1	0
-ciwba	cuba	0	0	1	0
-bwlgaria	bulgaria	0	0	1	1
-pilen	membrane	0	0	1	1
-llawysgrifau	manuscripts	0	0	1	0
-jimmy	jimmy	0	0	1	0
-gwneud	do	0	0	1	1
-grammy	grammy	0	0	1	0
-nso	nso	0	0	1	0
-gancr	cancer	0	0	1	0
-llinach	lineage	0	0	1	1
-diwali	diwali	0	0	1	0
-categorihamdden	categorihamdden	0	0	1	0
-anfetelau	non-metals	0	0	1	0
-bachgen	boy	0	0	1	1
-steven	steven	0	0	1	0
-anghydfod	dispute	0	0	1	0
-rhywogaeth	species	0	0	1	1
-neorllewin	south west	0	0	1	0
-pris	price	0	0	1	1
-mccartney	mccartney	0	0	1	0
-handbook	handbook	0	0	1	0
-dimensiwn	dimension	0	0	1	1
-bymthegfed	fifteenth	0	0	1	0
-tacsonomeg	taxonomy	0	0	1	0
-robusta	robusta	0	0	1	0
-categoriamser	categoriamser	0	0	1	0
-puffinus	puffinus	0	0	1	0
-ymadrodd	phrase	0	0	1	0
-utcutc	utcutc	0	0	1	0
-byrne	byrne	0	0	1	0
-cathod	cats	0	0	1	0
-clive	clive	0	0	1	0
-córdoba	cordaba	0	0	1	0
-córdoba	cordoba	0	0	1	0
-sillafu	spelling	0	0	1	0
-planed	planet	0	0	1	1
-ymgynghorol	advisory	0	0	1	0
-eithaf	quite	0	0	1	1
-subprefecture	subprefecture	0	0	1	0
-adain	wing	0	0	1	1
-aruthrol	tremendous	0	0	1	0
-newyddion	news	0	0	1	0
-tipyn	some	0	0	1	0
-rhwydweithiau	networks	0	0	1	0
-portiwgaleg	portuguese	0	0	1	0
-gefnogaeth	support	0	0	1	0
-lys	court	0	0	1	0
-herzegovina	herzegovina	0	0	1	0
-leon	leon	0	0	1	0
-fynedfa	entrance	0	0	1	0
-single	single	0	0	1	0
-deunaw	eighteen	0	0	1	1
-gweledigaeth	vision	0	0	1	1
-phylloscopus	phylloscopus	0	0	1	0
-lyn	lake	0	0	1	0
-racial	racial	0	0	1	0
-allmusic	allmusic	0	0	1	0
-trawsfynydd	trawsfynydd	0	0	1	0
-israeliaid	israelis	0	0	1	0
-paill	pollen	0	0	1	1
-streic	strike	0	0	1	0
-streic	steric	0	0	1	0
-ellen	ellen	0	0	1	0
-adlonni	entertain	0	0	1	1
-anser	anser	0	0	1	0
-allyrru	emission	0	0	1	0
-phrydain	britain	0	0	1	0
-isffylwm	sub-phylum	0	0	1	0
-isffylwm	isffylwm	0	0	1	0
-roeg	greece	0	0	1	0
-iseldiroedd	lowlands	0	0	1	0
-ymdrechion	efforts	0	0	1	0
-sbaeneg	spanish	0	0	1	0
-ledred	latitude	0	0	1	0
-rhyngddi	between	0	0	1	0
-fisher	fisher	0	0	1	0
-song	song	0	0	1	0
-ellir	can	0	0	1	0
-maldives	maldives	0	0	1	0
-ofni	fear	0	0	1	1
-drychinebus	disastrous	0	0	1	0
-cawcasws	caucasus	0	0	1	0
-argrafflenni	broadsheet	0	0	1	0
-hydref	autumn	0	0	1	1
-socrates	socrates	0	0	1	0
-cadarnhaodd	confirmed	0	0	1	0
-wicaid	wicaid	0	0	1	0
-cyflwyno	submitted	0	0	1	0
-walonia	wallonia	0	0	1	0
-gorffennodd	finished	0	0	1	0
-medrus	skilled	0	0	1	0
-ddu	right	0	0	1	0
-ddu	black	0	0	1	0
-eistedd	sit	0	0	1	1
-phensaernïaeth	architecture	0	0	1	0
-gwrthodwyd	rejected	0	0	1	0
-ewropeaid	europeans	0	0	1	0
-penddu	blackcaps	0	0	1	0
-penddu	blackcap	0	0	1	0
-helpu	help	0	0	1	1
-cerddoriaeth	music	0	0	1	1
-blaned	planet	0	0	1	0
-atlas	atlas	0	0	1	1
-atlas	tlas	0	0	1	0
-aflonyddwch	disturbance	0	0	1	1
-cornelia	cornelia	0	0	1	0
-anwedd	tort	0	0	1	0
-anwedd	vapor	0	0	1	1
-herwydd	therefore	0	0	1	0
-phobl	people	0	0	1	0
-ankara	ankara	0	0	1	0
-us$	us $	0	0	1	0
-amhendant	inconclusive	0	0	1	0
-unffurf	unffurt	0	0	1	0
-unffurf	uniform	0	0	1	1
-clement	clement	0	0	1	0
-hierarchaeth	hierarchy	0	0	1	0
-cydnabod	recognize	0	0	1	0
-lwythau	tribes	0	0	1	0
-atmosffer	atmosphere	0	0	1	0
-difrifol	serious	0	0	1	1
-gyfoes	contemporary	0	0	1	0
-perdix	perdix	0	0	1	0
-tynnodd	drew	0	0	1	0
-ysgolion	schools	0	0	1	0
-twrcaidd	turkish	0	0	1	0
-warszawa	warszawa	0	0	1	0
-caiff	a	0	0	1	0
-caiff	caiff	0	0	1	0
-wahaniaeth	difference	0	0	1	0
-joey	joey	0	0	1	0
-gweithiau	works	0	0	1	0
-welwyd	seen	0	0	1	0
-murat	murat	0	0	1	0
-tectoneg	tectonics	0	0	1	0
-libia	libya	0	0	1	0
-carlo	carlo	0	0	1	0
-cyfeillgarwch	friendship	0	0	1	1
-crefyddau	religions	0	0	1	0
-aelodau	members	0	0	1	0
-chicago	chicago	0	0	1	0
-anthem	anthem	0	0	1	1
-cordillera	cordillera	0	0	1	0
-cyhyrau	muscle	0	0	1	0
-gwlad	country	0	0	1	1
-penododd	appointed	0	0	1	0
-sinn	sinn	0	0	1	0
-boda	boda	0	0	1	0
-boda	hen	0	0	1	0
-mewn	in	0	0	1	1
-safbwyntiau	views	0	0	1	0
-sinc	zinc	0	0	1	0
-darlledwr	broadcaster	0	0	1	0
-benywod	females	0	0	1	0
-ddylanwadau	influences	0	0	1	0
-afael	address	0	0	1	0
-inkatha	inkatha	0	0	1	0
-alaska	alaska	0	0	1	0
-ceri	ceri	0	0	1	0
-llychlynaidd	norse	0	0	1	0
-telesgop	telescope	0	0	1	0
-ocsigen	oxygen	0	0	1	0
-ngogledd	north	0	0	1	0
-tudalen	page	0	0	1	1
-swnion	noise...	0	0	1	0
-swnion	sound the same?	0	0	1	0
-wefan	website	0	0	1	0
-llanbadarn	llanbadarn	0	0	1	0
-kenny	kenny	0	0	1	0
-gweithredol	operational	0	0	1	0
-rieni	parents	0	0	1	0
-carduelis	carduelis	0	0	1	0
-berwbwynt	boiling point	0	0	1	0
-triliwn	trillion	0	0	1	0
-asidig	acidic	0	0	1	1
-chi	you	0	0	1	1
-ninas	city	0	0	1	0
-nobel	nobel	0	0	1	0
-symbolau	symbols	0	0	1	0
-butler	butler	0	0	1	0
-cyfrifiadureg	computing	0	0	1	0
-atynt	them	0	0	1	0
-arweiniol	lead	0	0	1	0
-llwyddodd	succeeded	0	0	1	0
-phryd	when	0	0	1	0
-bodolaeth	existence	0	0	1	1
-atyniadau	attractions	0	0	1	0
-dinistriwyd	destroyed	0	0	1	0
-frawddeg	sentence	0	0	1	0
-basalt	basalt	0	0	1	0
-trais	violence	0	0	1	1
-teulu	family	0	0	1	1
-iii	iii	0	0	1	0
-had	seed	0	0	1	1
-awstralasia	australasia	0	0	1	0
-nhadau	fathers	0	0	1	0
-gwylio	watch	0	0	1	1
-gabriel	gabriel	0	0	1	0
-theorïau	's theory	0	0	1	0
-theorïau	theories	0	0	1	0
-gwasanaethu	serve	0	0	1	1
-vulpes	vulpes	0	0	1	0
-mesopotamia	mesopotamia	0	0	1	0
-brenhines	queen	0	0	1	1
-didnt	did not	0	0	1	0
-tsieinëeg	tsieinè̀eg	0	0	1	0
-tsieinëeg	tsienieeg	0	0	1	0
-brenhinllin	dynasty	0	0	1	0
-ddisgynyddion	descendants	0	0	1	0
-trofannol	tropical	0	0	1	1
-fictorianaidd	victorian	0	0	1	0
-iwgoslafaidd	yugoslav	0	0	1	0
-tebygol	likely	0	0	1	1
-golygu	means	0	0	1	0
-trefnodd	organized	0	0	1	0
-bennaf	mainly	0	0	1	0
-bawd|chwith|px|arfbais	thumb / left / px / arms	0	0	1	0
-bawd|chwith|px|arfbais	thumb | left | px | coat of arms	0	0	1	0
-lamp	lamp	0	0	1	1
-rhufeiniad	romans	0	0	1	0
-unigryw	unique	0	0	1	0
-afu	liver	1	1	1	1
-afu	accept	1	0	1	0
-afu	agree	1	0	1	0
-ddychwelyd	return	0	0	1	0
-frad	betrayal	0	0	1	0
-diweithdra	unemployment	0	0	1	0
-beicio	cycling	0	0	1	0
-waters	waters	0	0	1	0
-llwyr	completely	0	0	1	0
-allanol	external	0	0	1	1
-dychwelodd	returned	0	0	1	0
-asennau	ribs	0	0	1	0
-fras	roughly	0	0	1	0
-lawnsio	launch	0	0	1	0
-aifft	egypt	0	0	1	0
-llwyd	gray	0	0	1	0
-llwyd	iirwyr	0	0	1	0
-dominica	dominica	0	0	1	0
-aniston	aniston	0	0	1	0
-awdl	ode	0	0	1	1
-heddlu	police	0	0	1	1
-ysgarodd	divorced	0	0	1	0
-efydd	bronze	0	0	1	1
-flaenorol	previous	0	0	1	0
-lleihaur	reduce the	0	0	1	0
-amazon	amazon	0	0	1	0
-cyflymu	acceleration	0	0	1	0
-drych	mirror	0	0	1	1
-unido	unido	0	0	1	0
-draddodiadau	traditions	0	0	1	0
-ymddoleniad	zomrah:ebrahimi	1	0	1	0
-ymddoleniad	category:ibrahim	1	0	1	0
-ymddoleniad	meander	1	1	0	0
-ymddoleniad	category: ibrahem	1	0	1	0
-ymddoleniad	ymddoleniad	1	0	1	0
-llwythi	loads	0	0	1	0
-cyrff	bodies	0	0	1	0
-lingua	lingua	0	0	1	0
-llygad	eye	0	0	1	1
-twristiaid	tourists	0	0	1	0
-metel	metal	0	0	1	1
-theulu	family	0	0	1	0
-glasoed	adolescent	0	0	1	0
-ddegawd	decade	0	0	1	0
-llall	other	0	0	1	1
-thiriogaethau	territories	0	0	1	0
-cwestiynau	questions	0	0	1	0
-sionc	brisk	0	0	1	1
-le	space	0	0	1	0
-gwell	better	0	0	1	0
-la	la	0	0	1	0
-lo	coal	0	0	1	0
-ll	p	0	0	1	0
-gweld	see	0	0	1	1
-transvaal	transvaal	0	0	1	0
-ysgrifau	writings	0	0	1	0
-lu	host	0	0	1	0
-marsh	marsh	0	0	1	0
-gwahaniad	separation	0	0	1	0
-dad	father	0	0	1	0
-golfan	sparrow	0	0	1	0
-greater	greater	0	0	1	0
-beidio	not	0	0	1	0
-beidio	eido	0	0	1	0
-dal	still	0	0	1	0
-dan	under	0	0	1	0
-dai	housing	0	0	1	0
-teledur	television	0	0	1	0
-dau	two	0	0	1	0
-daw	comes	0	0	1	0
-sonata	sonata	0	0	1	0
-das	rick	0	0	1	1
-das	das	0	0	1	0
-archaeoleg	archeology	0	0	1	0
-day	day	0	0	1	0
-iwerydd	atlantic	0	0	1	1
-categorielfennau	categorielfennau	0	0	1	0
-categorielfennau	category elements	0	0	1	0
-categoricyrff	category: bodies	0	0	1	0
-categoricyrff	categoricyrff	0	0	1	0
-mewnlifiad	influx	0	0	1	0
-warner	warner	0	0	1	0
-moelydd	bethan	0	0	1	0
-moelydd	tors	0	0	1	0
-phoenicurus	phoenicurus	0	0	1	0
-mewnwr	scrum half	0	0	1	0
-ddiweddarun	ddiweddarun	0	0	1	0
-ceunant	gorge	0	0	1	1
-fertigol	vertical	0	0	1	0
-swcwbws	succubus	1	1	0	0
-marius	marius and	0	0	1	0
-marius	marius	0	0	1	0
-ibric	ibric	0	0	1	0
-matt	matt	0	0	1	0
-res	row	0	0	1	0
-defend	defend	0	0	1	0
-dewin	wizard	0	0	1	1
-facto	facto	0	0	1	0
-dewis	choice	0	0	1	1
-cwympodd	fell	0	0	1	0
-cwm	valley	0	0	1	1
-grebe	grebe	0	0	1	0
-ynghyd	and	0	0	1	0
-red	red	0	0	1	0
-tylluanod	owls	0	0	1	0
-gefeilldrefi	twin	0	0	1	0
-harold	harold	0	0	1	0
-bws	bus	0	0	1	1
-coed	trees	0	0	1	0
-bwy	who	0	0	1	0
-ysbrydoli	inspire	0	0	1	1
-drycin	manx	0	0	1	0
-bwa	bow	0	0	1	1
-cyflwynor	cyflwynor	0	0	1	0
-ddefnyddwyr	users	0	0	1	0
-annibynwyr	independents	0	0	1	0
-cyhoeddir	published	0	0	1	0
-cwmniau	companies	0	0	1	0
-chiefs	chiefs	0	0	1	0
-gorfodi	enforcement	0	0	1	0
-lleihad	reduction	0	0	1	0
-troes	turned	0	0	1	0
-trefnwyd	organized	0	0	1	0
-dilyniant	sequence	0	0	1	0
-indiaid	indian	0	0	1	0
-iseldirwyr	dutch	0	0	1	0
-wyddoniaeth	science	0	0	1	0
-troed	foot	0	0	1	1
-mrwydr	battle	0	0	1	0
-weithgaredd	activity	0	0	1	0
-cyfradd	rate	0	0	1	1
-drefnu	arrange	0	0	1	0
-bachwr	hooker	0	0	1	1
-mhedair	four	0	0	1	0
-elusennol	charitable	0	0	1	1
-rhowch	please	0	0	1	0
-ansoddeiriau	adjectives	0	0	1	0
-has	has	0	0	1	0
-ionawr	january	0	0	1	1
-ancient	ancient	0	0	1	0
-mewnfudo	immigration	0	0	1	0
-hilary	hilary	0	0	1	0
-vishnu	vishnu	0	0	1	0
-yman	words frequently applied	0	0	1	0
-wlster	ulster	0	0	1	0
-mabwysiadwyd	adopted	0	0	1	0
-gwrthrych	object	0	0	1	1
-clybiau	clubs	0	0	1	0
-ragfyr	december	0	0	1	0
-ronynnau	particles	0	0	1	0
-plwton	pluto	0	0	1	0
-bomio	bombing	0	0	1	0
-llwyth	load	0	0	1	1
-gymharol	relatively	0	0	1	0
-enghreifftiau	examples	0	0	1	0
-negro	negro	0	0	1	0
-nus	nus	0	0	1	0
-gorchfygwyd	defeated	0	0	1	0
-efengyl	gospel	0	0	1	1
-udd	benefit	0	0	1	0
-weithgareddau	activities	0	0	1	0
-pericles	pericles	0	0	1	0
-categoriieithoedd	categoriieithoedd	0	0	1	0
-anghyfarwydd	unfamiliar	0	0	1	1
-britanniae	britanniae	0	0	1	0
-rhesi	rows	0	0	1	0
-arlunio	drawing	0	0	1	0
-wicitestun	wikisource	0	0	1	0
-blentyn	child	0	0	1	0
-sweden	sweden	0	0	1	0
-swedeg	swedish	0	0	1	0
-economïau	economies	0	0	1	0
-diemwnt	diamond	1	1	0	0
-diemwnt	mazari	1	0	1	0
-diemwnt	diamond-	1	0	1	0
-diemwnt	shrine	1	0	1	0
-diemwnt	iamond	1	0	1	0
-diemwnt	tomb	1	0	1	0
-sanscrit	sanskrit	0	0	1	0
-aristoteles	aristotle	0	0	1	0
-hendygwyn	whitland	0	0	1	0
-rivonia	livonia	0	0	1	0
-seineg	suavity	1	0	1	0
-seineg		1	0	1	0
-seineg	phonetics	1	1	0	1
-seineg	soviet	1	0	1	0
-rywbryd	sometime	0	0	1	0
-niferus	numerous	0	0	1	0
-have	have	0	0	1	0
-ibiza	ibiza	0	0	1	0
-hyddgen	hyddgen	0	0	1	0
-manylion	details	0	0	1	1
-cyfnodol	periodic	0	0	1	1
-swyddogol	official	0	0	1	1
-min	min	0	0	1	0
-arweiniodd	led	0	0	1	0
-filiwn	million	0	0	1	0
-dyffryn	valley	0	0	1	1
-answyddogol	unofficial	0	0	1	0
-answyddogol	answyddogoi	0	0	1	0
-mis	months	0	0	1	0
-mit	mit	0	0	1	0
-gallwn	we can	0	0	1	0
-ymddiriedolaeth	trust	0	0	1	1
-waugh	waugh	0	0	1	0
-randstad	randstad	0	0	1	0
-organebau	organisms	0	0	1	0
-skopje	skopje	0	0	1	0
-ymladdodd	fought	0	0	1	0
-dorsal	dorsal	0	0	1	0
-ansicr	uncertain	0	0	1	1
-llais	voice	0	0	1	1
-ewyllys	will	0	0	1	1
-unyes	unyes	0	0	1	0
-nicholson	nicholson	0	0	1	0
-llen	curtain	0	0	1	1
-tseina	china	0	0	1	0
-categoriarlunwyr	categoriarlunwyr	0	0	1	0
-eitemau	items	0	0	1	0
-sulgwyn	whitsun	0	0	1	0
-brifddinas	capital	0	0	1	0
-darnau	pieces	0	0	1	0
-fodolaeth	existence	0	0	1	0
-charles	charles	0	0	1	0
-remus	remus	0	0	1	0
-diodydd	drinks	0	0	1	0
-bysedd	fingers	0	0	1	0
-hafan	home	0	0	1	0
-hafal	equal	0	0	1	1
-cyfraniad	contribution	0	0	1	1
-mathemategol	mathematical	0	0	1	1
-staff	staff	0	0	1	0
-cyntaf	first	0	0	1	1
-uruguay	uruguay	0	0	1	0
-saethodd	shot	0	0	1	0
-meddygaeth	medicine	0	0	1	0
-ngweddill	the rest	0	0	1	0
-bernard	bernard	0	0	1	0
-eritrea	eritrea	0	0	1	0
-affrica	africa	0	0	1	0
-wynebu	face	0	0	1	1
-leiafrifoedd	minorities	0	0	1	0
-beat	beat	0	0	1	0
-tyfodd	grew	0	0	1	0
-gemau	games	0	0	1	0
-gymunedol	community	0	0	1	0
-cwfen	cwfen	0	0	1	0
-kazakhstan	kazakhstan	0	0	1	0
-ffantasi	fantasy	0	0	1	0
-organ	organ	0	0	1	1
-hamgylch	around	0	0	1	0
-dreiglad	mutation	0	0	1	0
-berthynas	berhynas	0	0	1	0
-berthynas	relationship	0	0	1	0
-national	national	0	0	1	0
-chelloedd	cells	0	0	1	0
-symudiadau	movements	0	0	1	0
-gwili	gwili	0	0	1	0
-iseldireg	dutch	0	0	1	0
-brewys	brewis	0	0	1	0
-archoffeiriad	high priest	0	0	1	0
-llŷr	llyr	0	0	1	0
-gollwng	drop	0	0	1	1
-lwcsembwrg	luxembourg	0	0	1	0
-penderfyniadau	decisions	0	0	1	0
-motown	motown	0	0	1	0
-ralph	ralph	0	0	1	0
-wo	wo	0	0	1	0
-bedydd	baptism	0	0	1	1
-invariant	invariant	0	0	1	0
-animalia	animalia	0	0	1	0
-cymro	welshman	0	0	1	1
-tymor	term	0	0	1	1
-cymry	cymry	0	0	1	0
-armenia	armenia	0	0	1	0
-siarlymaen	charlemagne	0	0	1	0
-cymru	wales	0	0	1	1
-lagopus	lagopus	0	0	1	0
-hamdden	leisure	0	0	1	1
-gyfrwng	medium	0	0	1	0
-islamaidd	islamic	0	0	1	0
-berwyn	berwyn	0	0	1	0
-swallow	swallow	0	0	1	0
-llym	strict	0	0	1	0
-deddfau	laws	0	0	1	0
-adrannau	sections	0	0	1	0
-fryn	hill	0	0	1	0
-byr	short	0	0	1	1
-firysau	viruses	0	0	1	0
-credwyd	was thought	0	0	1	0
-px|de|bawd|bras	px south thumb print	0	0	1	0
-na	than	0	0	1	0
-ddisgynnydd	descendant	0	0	1	0
-tectonig	tectonic	0	0	1	0
-tywod	sand	0	0	1	1
-rymoedd	forces	0	0	1	0
-gwasgaredig	scattered	0	0	1	1
-watkins	watkins	0	0	1	0
-ddiwethaf	last	0	0	1	0
-cipiwyd	captured	0	0	1	0
-ag	with	0	0	1	0
-canllaw	guide	0	0	1	0
-copies	copies	0	0	1	0
-gefnfor	ocean	0	0	1	0
-gaza	gaza	0	0	1	0
-dyfeisiwr	inventor	0	0	1	0
-llyfraur	books	0	0	1	0
-llyfraur	llyfraur	0	0	1	0
-anthropoleg	anthropology	0	0	1	1
-hunanleddfu	hunanleddfu	0	0	1	0
-hunanleddfu	self-relieving	0	0	1	0
-sifil	civil	0	0	1	0
-ninbych	denbigh	0	0	1	0
-ninbych	ninbych	0	0	1	0
-suharto	suharto	0	0	1	0
-gruffydd	gruffydd	0	0	1	0
-fwyd	food	0	0	1	0
-thraddodiad	tradition	0	0	1	0
-dadlau	argue	0	0	1	1
-pellaf	far	0	0	1	0
-pellaf	pellaf	0	0	1	0
-byd	world	0	0	1	1
-napoleon	napoleon	0	0	1	0
-filwyr	soldiers	0	0	1	0
-plaid	party	0	0	1	1
-astudio	study	0	0	1	1
-república	republica	0	0	1	0
-república	república	0	0	1	0
-darllen	read	0	0	1	1
-ɪ	to	0	0	1	0
-ɪ	l	0	0	1	0
-agan	agan	0	0	1	0
-stalin	stalin	0	0	1	0
-pheriw	peru	0	0	1	0
-astudir	studied	0	0	1	0
-adeiladodd	built	0	0	1	0
-crwbanod	turtles	0	0	1	0
-gogleddorllewin	north-west	0	0	1	0
-benfro	pembrokeshire	0	0	1	0
-genedigaethau	births	0	0	1	0
-gyrch	raid	0	0	1	0
-iseldiraidd	dutch	0	0	1	0
-fideos	videos	0	0	1	0
-bawd|px|logo	axs px logo	0	0	1	0
-bawd|px|logo	thumb | px | logo	0	0	1	0
-arabia	arabia	0	0	1	0
-gymar	mate	0	0	1	0
-yrru	driving	0	0	1	0
-ewropeaidd	european	0	0	1	1
-ochor	side	0	0	1	0
-wicipedwyr	wikipedians	0	0	1	0
-rhanbarthau	regions	0	0	1	0
-mahatma	mahatma	0	0	1	0
-powell	powell	0	0	1	0
-chymerwyd	taken	0	0	1	0
-llanddona	llanddona	0	0	1	0
-ydoedd	was	0	0	1	0
-neolithig	neolithic	0	0	1	0
-cof	memory	0	0	1	1
-cyfnewidfa	interchange	0	0	1	0
-omeara	omeara	0	0	1	0
-tâl	tall	0	0	1	0
-tâl	charge	0	0	1	0
-tân	fire	0	0	1	0
-tân	to	0	0	1	0
-lakshmi	lakshmi	0	0	1	0
-groesgad	crusade	0	0	1	0
-morris	morris	0	0	1	0
-wyt	do	0	0	1	0
-lysgenhadon	ambassadors	0	0	1	0
-goruwchnaturiol	supernatural	0	0	1	1
-prynu	buy	0	0	1	1
-mhencampwriaethau	championships	0	0	1	0
-cudyll	merlin	0	0	1	0
-cafodd	was	0	0	1	0
-gwylog	guillemot	0	0	1	0
-ewrop	europe	0	0	1	1
-wyn	white	0	0	1	0
-abad	abbot	0	0	1	1
-bêldroedwyr	footballers	0	0	1	0
-tywyll	dark	0	0	1	1
-gwisg	uniform	0	0	1	0
-systemau	systems	0	0	1	0
-gwladweinydd	statesman	0	0	1	1
-gwregys	belt	0	0	1	1
-llangollen	patriotic	0	0	1	0
-gwddf	neck	0	0	1	1
-gwnewch	do	0	0	1	0
-gororau	border	0	0	1	0
-broblemau	problems	0	0	1	0
-deinosor	category economics	1	0	1	0
-deinosor	dinosaur	1	1	0	0
-deinosor	deinosor	1	0	1	0
-deinosor	category: economics	1	0	1	0
-add	add	0	0	1	0
-gwynedd	gwynedd	0	0	1	0
-iddynt	they	0	0	1	0
-esblygol	evolutionary	0	0	1	0
-ravel	ravel	0	0	1	0
-gwarchod	protection	0	0	1	0
-meibion	sons	0	0	1	0
-planedau	planets	0	0	1	0
-fyd	world	0	0	1	0
-lleng	legion	0	0	1	1
-gewynnau	ligaments	0	0	1	0
-traean	a third	0	0	1	0
-traean	third	0	0	1	0
-gysyniad	concept	0	0	1	0
-teimlad	feeling	0	0	1	1
-heterorywioldeb	category:numbers	1	0	1	0
-heterorywioldeb	heterosexuality	1	1	0	0
-heterorywioldeb	hetro sexuality	1	1	0	0
-heterorywioldeb	hetrosexuality	1	0	1	0
-haenau	layers	0	0	1	0
-fyw	live	0	0	1	0
-arwyddo	sign	0	0	1	1
-prosesau	processes	0	0	1	0
-teimlai	enjoy	0	0	1	0
-teimlai	felt	0	0	1	0
-pharhaodd	continued	0	0	1	0
-manteisgar	opportunistic	0	0	1	0
-gwerthoedd	values	0	0	1	0
-like	like	0	0	1	0
-gyrrodd	drove	0	0	1	0
-gynnes	warm	0	0	1	0
-teloriaid	warblers	0	0	1	0
-arglwyddiaeth	lordship	0	0	1	1
-ddiwydiannau	industries	0	0	1	0
-tomé	tome	0	0	1	0
-ütsang	utsang	0	0	1	0
-ütsang	Ü-tsang	0	0	1	0
-draeth	beach	0	0	1	0
-gynnen	contention	0	0	1	0
-awgrymodd	suggested	0	0	1	0
-works	works	0	0	1	0
-cestyll	castles	0	0	1	0
-duwdod	deity	0	0	1	1
-haneswyr	historians	0	0	1	0
-hwch	sow	0	0	1	0
-gregoraidd	gregorian	0	0	1	0
-hail	second	0	0	1	0
-datguddiad	exposure	0	0	1	0
-geraint	geraint	0	0	1	0
-newidwyd	changed	0	0	1	0
-titwod	tits	0	0	1	0
-est	ext	0	0	1	0
-gwent	gwent	0	0	1	0
-gwent	chepstow	0	0	1	0
-turkmenistan	turkmenistan	0	0	1	0
-billy	billy	0	0	1	0
-cenedlaetholwyr	nationalists	0	0	1	0
-hitler	hitler	0	0	1	0
-alexius	alexius	0	0	1	0
-buanedd	speed	0	0	1	0
-sberm	sperm	0	0	1	0
-miriam	miriam	0	0	1	0
-breichiau	arms	0	0	1	0
-porbandar	probandar	0	0	1	0
-porbandar	porbandar	0	0	1	0
-gyfansoddi	compose	0	0	1	0
-brosiectau	projects	0	0	1	0
-about	about	0	0	1	0
-stephenson	stephenson	0	0	1	0
-blanhigion	plants	0	0	1	0
-andes	andes	0	0	1	0
-drydanol	electrical	0	0	1	0
-dannedd	teeth	0	0	1	0
-comisiwn	commission	0	0	1	0
-angenrheidiol	necessary	0	0	1	1
-rhyfeddod	wonder	0	0	1	1
-alpau	alps	0	0	1	0
-gipior	gipior	0	0	1	0
-rhyfeddol	amazing	0	0	1	0
-esblygodd	evolved	0	0	1	0
-criwiau	crews	0	0	1	0
-mathonwy	mathonwy	0	0	1	0
-madrid	madrid	0	0	1	0
-canlyn	following	0	0	1	0
-torrodd	broke	0	0	1	0
-gredu	believe	0	0	1	0
-sirol	county	0	0	1	0
-mecsico	mexico	0	0	1	0
-fuddugoliaethau	victories	0	0	1	0
-bererindod	pilgrimage	0	0	1	0
-ychydig	some	0	0	1	0
-hatal	suspended	0	0	1	0
-dalglish	dalglish	0	0	1	0
-michelangelo	michelangelo	0	0	1	0
-noel	noel	0	0	1	0
-bur	pure	0	0	1	0
-bus	bus	0	0	1	0
-gyfaddawd	compromise	0	0	1	0
-but	but	0	0	1	0
-orllewinol	western	0	0	1	0
-glir	clear	0	0	1	0
-teithio	travel	0	0	1	1
-gorchymyn	order	0	0	1	1
-bun	bin	0	0	1	0
-frenin	king	0	0	1	0
-bum	five	0	0	1	0
-cymysgedd	mix	0	0	1	0
-embargo	embargo	0	0	1	1
-princes	princes	0	0	1	0
-wisg	uniform	0	0	1	0
-dangerous	dangerous	0	0	1	0
-j	j	0	0	1	0
-cyflawnwyd	archieved	0	0	1	0
-cyflawnwyd	achieved	0	0	1	0
-blodeuodd	flowered	0	0	1	0
-defod	ritual	0	0	1	0
-farrar	farrar	0	0	1	0
-tyfu	growing	0	0	1	0
-ddefnyddiwyd	used	0	0	1	0
-albaniaid	albanians	0	0	1	0
-ffisegwyr	physicists	0	0	1	0
-canoldir	mediterranean	0	0	1	0
-cpd	c.p.d.	0	0	1	0
-marmot	marmot	0	0	1	0
-circus	circus	0	0	1	0
-pig	beak	0	0	1	1
-throsglwyddo	transfer	0	0	1	0
-saer	one who works with wood or carpenter	0	0	1	0
-saer	carpenter	0	0	1	1
-paraguay	paraguay	0	0	1	0
-tafodieithoedd	dialects	0	0	1	0
-tafodieithoedd	painting	0	0	1	0
-talmud	talmud	0	0	1	0
-corporation	corporation	0	0	1	0
-ymdoddiad	fusion	0	0	1	0
-mortimer	mortimer	0	0	1	0
-bellach	now	0	0	1	1
-ordoficaidd	ordovician	0	0	1	0
-ymwybodol	aware	0	0	1	1
-disgrifior	describes	0	0	1	0
-disgrifior	describe	0	0	1	0
-out	out	0	0	1	0
-fanaweg	manx	0	0	1	0
-fanaweg	fanaweg	0	0	1	0
-adam	adam	0	0	1	0
-pelecaniformes	pelecaniformes	0	0	1	0
-plith	among	0	0	1	0
-bwlgareg	bwlgrareg	0	0	1	0
-bwlgareg	bulgarian	0	0	1	0
-gyfrannu	contribute	0	0	1	0
-achosir	caused	0	0	1	0
-chaneuon	songs	0	0	1	0
-bencampwriaeth	championship	0	0	1	0
-prifysgolion	universities	0	0	1	0
-ymladdwyd	fought	0	0	1	0
-gwlyb	wet	0	0	1	1
-cristnogol	christian	0	0	1	1
-athrawes	teacher	0	0	1	0
-cartref	home	0	0	1	1
-ffyniant	prosperity	0	0	1	1
-vitellius	vitellius	0	0	1	0
-nwy	gas	0	0	1	1
-derm	term	0	0	1	0
-glyndyfrdwy	glyndyfrdwy	0	0	1	0
-lywodraethol	governance	0	0	1	0
-gyhydeddol	equatorial	0	0	1	0
-gyhydeddol	gyhededdol	0	0	1	0
-ystâd	estate	0	0	1	0
-pellach	further	0	0	1	0
-ecoleg	ecology	0	0	1	1
-paris	paris	0	0	1	0
-mwy	more	0	0	1	1
-seisnig	seisnig	0	0	1	0
-seland	zealand	0	0	1	0
-under	under	0	0	1	0
-pridd	soil	1	1	1	1
-pridd	in vivo fertilization	1	0	1	0
-pridd	fertilization	1	0	1	0
-adael	leave	0	0	1	0
-neui	thou shalt come	0	0	1	0
-fathwyd	coined	0	0	1	0
-cynhenid	native	0	0	1	0
-arwyddwyd	signed	0	0	1	0
-wici	wiki	0	0	1	0
-arwyddocaol	significant	0	0	1	1
-every	every	0	0	1	0
-every	pob gymraeg	0	0	1	0
-jack	jack	0	0	1	0
-cyson	consistent	0	0	1	1
-ffîn	boundary	0	0	1	0
-neur	or the	0	0	1	0
-school	school	0	0	1	0
-cewch	you	0	0	1	0
-chyfrif	account	0	0	1	0
-mabwysiadur	adoption	0	0	1	0
-credant	they believe	0	0	1	0
-treigladau	mutations	0	0	1	0
-cheltaidd	celtic	0	0	1	0
-symyd	move	0	0	1	0
-harrier	harrier	0	0	1	0
-cynrychioli	represents	0	0	1	0
-batri	battery	0	0	1	1
-amlygu	highlights	0	0	1	0
-cilogram	kilogram	0	0	1	0
-astudiodd	studied	0	0	1	0
-croesgadwyr	crusaders	0	0	1	0
-arwel	arwel	0	0	1	0
-street	street	0	0	1	0
-ynys	island	1	1	1	1
-ynys	islamd	1	0	1	0
-ynys	costly	1	0	1	0
-ynys	ordinated	1	0	1	0
-ynys	expensive	1	0	1	0
-hafod	hafod	0	0	1	0
-aelod	member	0	0	1	1
-blue	blue	0	0	1	0
-lesser	lesser	0	0	1	0
-argraffu	printing	0	0	1	0
-amaeth	agriculture	0	0	1	1
-ail	second	0	0	1	1
-rwsieg	russian	0	0	1	0
-wynedd	wynedd	0	0	1	0
-corfforol	physical	0	0	1	0
-lunio	shape	0	0	1	0
-cyfoethog	rich	0	0	1	1
-bawd|px	thumb | px	0	0	1	0
-bawd|px	thumb / px	0	0	1	0
-nubia	nubia	0	0	1	0
-disney	disney	0	0	1	0
-courteney	courteney	0	0	1	0
-ddyfeisio	devise	0	0	1	0
-chymerodd	took	0	0	1	0
-asio	asio	1	0	1	0
-asio	fused	1	0	1	0
-asio	opposite	1	0	1	0
-asio	throwing	1	0	1	0
-asio	blend	1	0	1	0
-asio	welding	1	1	0	0
-mitocondria	mitochondria	0	0	1	0
-isrywogaeth	subspecies	0	0	1	0
-bwrdeisdref	borough	0	0	1	0
-annhebyg	unlikely	0	0	1	0
-olwg	appearance	0	0	1	0
-ganol	center	0	0	1	0
-athraidd	permeable	0	0	1	1
-gwin	wine	0	0	1	1
-stevie	stevie	0	0	1	0
-trigolion	residents	0	0	1	0
-gwib	instant	0	0	1	0
-domesticus	domesticus	0	0	1	0
-domesticus	domestic	0	0	1	0
-gweithiodd	worked	0	0	1	0
-pantheistiaeth	pantheism	1	1	0	0
-gwir	true	0	0	1	1
-seinegol	phonetic	0	0	1	0
-ffrwydrodd	exploded	0	0	1	0
-gwybedogion	pied	0	0	1	0
-saethu	shooting	0	0	1	0
-powys	powys	0	0	1	0
-julie	julie	0	0	1	0
-safoni	standardization	0	0	1	0
-julia	julia	0	0	1	0
-cynhanesyddol	prehistoric	0	0	1	0
-hawdd	easy	0	0	1	1
-cassini	cassini	0	0	1	0
-pnawn	afternoon	0	0	1	0
-ewythr	uncle	0	0	1	1
-barhaodd	continued	0	0	1	0
-would	would	0	0	1	0
-categoriynysoedd	categoriynysoedd	0	0	1	0
-categoriynysoedd	categories:island	0	0	1	0
-gwyddoniaduron	encyclopaedias	0	0	1	0
-gweill	pipeline	0	0	1	0
-cyfateb	equivalent	0	0	1	0
-phont	bridge	0	0	1	0
-polisïau	policies	0	0	1	0
-wyddbwyll	chess	0	0	1	0
-gwrdd	meet	0	0	1	0
-niwclews	nucleus	0	0	1	0
-olympaidd	olympics	0	0	1	0
-cynhwysedd	capacity	0	0	1	0
-cais	try	1	1	0	1
-cais	application	1	0	1	1
-hanterth	peak	0	0	1	0
-shetty	shetty	0	0	1	0
-must	must	0	0	1	0
-me	me	0	0	1	0
-md	md	0	0	1	0
-border|px|dinas	border | px | city	0	0	1	0
-border|px|dinas	border! px! city	0	0	1	0
-ymlusgiaid	reptiles	0	0	1	0
-dodd	dodd	0	0	1	0
-mm	mm	0	0	1	0
-brodorion	natives	0	0	1	0
-gwreiddiaur	gwreiddiaur	0	0	1	0
-gwreiddiaur	roots	0	0	1	0
-mi	i	0	0	1	1
-mk	mk	0	0	1	0
-mw	mw	0	0	1	0
-ms	ms	0	0	1	0
-henry	henry	0	0	1	0
-grenada	grenada	0	0	1	0
-swyddfa	office	0	0	1	1
-my	my	0	0	1	0
-amser	time	0	0	1	1
-gyflwyno	submitted	0	0	1	0
-adwaenir	known	0	0	1	0
-gymysgedd	mixture	0	0	1	0
-ffonoleg	phonology	0	0	1	0
-florida	florida	0	0	1	0
-cyfrifiadur	computer	0	0	1	1
-valiente	valiente	0	0	1	0
-henoed	elderly	0	0	1	0
-tresglen	dresglen	0	0	1	0
-tresglen	tresglen	0	0	1	0
-gyfunrywioldeb	homosexuality	0	0	1	0
-end	end  (in welsh  "diwedd"	0	0	1	0
-bawd|dde|px|y	thumb / right / px / the	0	0	1	0
-bawd|dde|px|y	thumb|right|px|the	0	0	1	0
-eni	born	0	0	1	0
-calendr	calendar	0	0	1	1
-tystion	witnesses	0	0	1	0
-enw	name	0	0	1	1
-gate	gate	0	0	1	0
-pedair	four	0	0	1	0
-hiliau	races	0	0	1	0
-elizabeth	elizabeth	0	0	1	0
-boeth	hot	0	0	1	0
-bretagne	bretagne	0	0	1	0
-pelfis	pelvis	1	1	0	0
-pelfis	western	1	0	1	0
-pelfis	economy	1	0	1	0
-ltd	ltd	0	0	1	0
-amgylchynur	amgylchynur	0	0	1	0
-anafiadau	injuries	0	0	1	0
-fudiadau	organizations	0	0	1	0
-dileu	delete	0	0	1	1
-salsa	salsa	0	0	1	0
-copar	summit	0	0	1	0
-nagasaki	nagasaki	0	0	1	0
-rwyn	i'm	0	0	1	0
-austin	austin	0	0	1	0
-cyfreithiwr	lawyer	0	0	1	1
-corhwyaden	teal	0	0	1	0
-lledodd	spread	0	0	1	0
-fwydo	feed	0	0	1	0
-amis	amis	0	0	1	0
-cyhydedd	equator	0	0	1	1
-celteg	celtic	0	0	1	0
-gwymp	collapse	0	0	1	0
-gywir	correct	0	0	1	0
-over	over	0	0	1	0
-cludir	transported	0	0	1	0
-london	london	0	0	1	0
-garcharor	prisoner	0	0	1	0
-vita	vita	0	0	1	0
-olygfa	view	0	0	1	0
-blwyddyn	year	0	0	1	1
-borneo	borneo	0	0	1	0
-christoph	christoph	0	0	1	0
-amgylch	around	0	0	1	0
-mongolia	mongolia	0	0	1	0
-cludo	transport	0	0	1	0
-babanod	babies	0	0	1	0
-chwerw	bitter	0	0	1	1
-eugene	eugene	0	0	1	0
-hamgylchynu	surrounded	0	0	1	0
-dem	dem	0	0	1	0
-fwslim	muslim	0	0	1	0
-trydydd	third	0	0	1	1
-natsïaidd	nazi	0	0	1	0
-benywaidd	female	0	0	1	0
-gwahanu	separated	0	0	1	0
-dangos	show	0	0	1	0
-falens	valence	0	0	1	0
-unigolyn	individual	0	0	1	0
-feistr	master	0	0	1	0
-blentyndod	childhood	0	0	1	0
-ddyddiau	days	0	0	1	0
-alex	alex	0	0	1	0
-bosnia	bosnia	0	0	1	0
-harri	henry	0	0	1	1
-harri	harri	0	0	1	0
-chuck	chuck	0	0	1	0
-detroit	detroit	0	0	1	0
-rhufeiniaid	romans	0	0	1	0
-delwedd	image	0	0	1	0
-victory	victory	0	0	1	0
-negeseuon	messages	0	0	1	0
-each	rattray	0	0	1	0
-each	each	0	0	1	0
-eiddo	property	0	0	1	1
-tywysogion	princes	0	0	1	0
-heintio	infected	0	0	1	0
-berfformion	performed	0	0	1	0
-hirohito	hirohoto	0	0	1	0
-hirohito	hirohito	0	0	1	0
-lladdedigion	slain	0	0	1	0
-electromagnetig	electromagnetic	0	0	1	0
-cyflwr	condition	0	0	1	1
-alcoholiaeth	screens	1	0	1	0
-alcoholiaeth	curtain	1	0	1	0
-alcoholiaeth	screen	1	0	1	0
-alcoholiaeth	alcoholism	1	1	0	0
-alcoholiaeth	alc...	1	0	1	0
-diana	diana	0	0	1	0
-gwrthdaro	conflict	0	0	1	0
-dianc	escape	0	0	1	1
-gadair	chair	0	0	1	0
-bonan	conan	0	0	1	0
-ranbarthau	regions	0	0	1	0
-salwch	illness	0	0	1	1
-raid	have	0	0	1	0
-gwybodaeth	information	0	0	1	0
-hangen	required	0	0	1	0
-gol	ed	0	0	1	0
-lais	voice	0	0	1	0
-kuwait	kuwait	0	0	1	0
-siapau	shapes	0	0	1	0
-siapan	japan	0	0	1	0
-saddam	saddam	0	0	1	0
-lain	plot	0	0	1	0
-coropleth	choropleth	0	0	1	0
-negesydd	courier	0	0	1	0
-categoricyfrifiadureg	categoricyfrifiadureg	0	0	1	0
-ŵyr	s	0	0	1	0
-chyffuriau	drugs	0	0	1	0
-dinasyddion	citizens	0	0	1	0
-creur	creur	0	0	1	0
-creur	created	0	0	1	0
-free	free	0	0	1	0
-bleddyn	bleddyn	0	0	1	0
-bygythiad	threat	0	0	1	0
-hand	hand	0	0	1	0
-ŵyl	festival	0	0	1	0
-trafododd	discussed	0	0	1	0
-days	days	0	0	1	0
-ddydd	on	0	0	1	0
-athro	teacher	0	0	1	1
-key	key	0	0	1	0
-nhw	they	0	0	1	1
-pasg	easter	0	0	1	1
-bersonol	personal	0	0	1	0
-beirniadu	judging	0	0	1	0
-grymoedd	forces	0	0	1	0
-carreg	stone	0	0	1	1
-ddawr	comes to visit	0	0	1	0
-tueddu	tend	0	0	1	1
-top	top	0	0	1	0
-ton	wave	0	0	1	1
-too	too	0	0	1	0
-tom	tom	0	0	1	0
-corpus	corpus	0	0	1	0
-gwrthod	rejected	0	0	1	0
-diweddu	ending	0	0	1	0
-seciwlar	secular	0	0	1	0
-effeithiodd	affected	0	0	1	0
-gymdogaeth	neighborhood	0	0	1	0
-lleoliad	location	0	0	1	1
-pumlumon	plynlimon	0	0	1	0
-glyndwr	glyndwr	0	0	1	0
-cyfryw	such	0	0	1	1
-cesiwm	aging	1	0	1	0
-cesiwm	caesium	1	1	0	0
-cesiwm	not good	1	0	1	0
-cesiwm	wayworn	1	0	1	0
-frwydro	fight	0	0	1	0
-quarrying	quarrying	0	0	1	0
-quarrying	guarrying	0	0	1	0
-galba	alba	0	0	1	0
-western	western	0	0	1	0
-etifeddodd	inherited	0	0	1	0
-dylai	should	0	0	1	0
-prisiau	prices	0	0	1	0
-cloddio	mining	0	0	1	0
-estyn	extension	0	0	1	0
-sesiwn	session	0	0	1	1
-cyhoeddwyd	published	0	0	1	0
-llwyfan	platform	0	0	1	1
-trosglwyddir	transferred	0	0	1	0
-caeau	fields	0	0	1	0
-gyfystyr	equivalent	0	0	1	0
-gabon	gabon	0	0	1	0
-cyhuddo	charged	0	0	1	0
-canlyniadau	results	0	0	1	0
-gwelir	there	0	0	1	0
-ran	in	0	0	1	0
-meddalwedd	software	0	0	1	0
-rai	some	0	0	1	0
-bardd	poet	0	0	1	1
-ras	race	0	0	1	1
-beckett	beckett	0	0	1	0
-lleoliadau	locations	0	0	1	0
-ray	ray	0	0	1	0
-mwmbwls	mumbles	0	0	1	0
-snow	snow	0	0	1	0
-drin	treatment	0	0	1	0
-aurelian	aurelian	0	0	1	0
-blodeuwedd	blodeuwedd	0	0	1	0
-gwrthryfel	rebellion	0	0	1	1
-teitl	title	0	0	1	1
-rwydwaith	network	0	0	1	0
-ewro	euro	0	0	1	0
-archwiliwyd	examined	0	0	1	0
-sneddon	sneddon	0	0	1	0
-monaco	monaco	0	0	1	0
-meirch	horses	0	0	1	0
-oedolion	adults	0	0	1	0
-dermau	terms	0	0	1	0
-gwrthryfelwyr	rebels	0	0	1	0
-annibynnol	independent	0	0	1	1
-cyflwynwyr	presenters	0	0	1	0
-isafrif	minimum number	0	0	1	0
-richard	richard	0	0	1	0
-cyhuddwyd	accused	0	0	1	0
-tanzania	tanzania	0	0	1	0
-metal	metal	0	0	1	0
-metal	metals	0	0	1	0
-farwol	fatal	0	0	1	0
-hadnabod	identified	0	0	1	0
-erthygl	article	0	0	1	1
-curie	curie	0	0	1	0
-cyflwynwyd	presented	0	0	1	0
-cambig	avocet	0	0	1	0
-pasha	pasha	0	0	1	0
-ymateb	ymateb	0	0	1	0
-ymateb	response	0	0	1	0
-dyna	that	0	0	1	0
-llachar	bright	0	0	1	1
-queen	queen	0	0	1	0
-radio	radio	0	0	1	1
-lofruddio	murder	0	0	1	0
-fraich	arm	0	0	1	0
-de|ewin	de | cloves	0	0	1	0
-pkm	pkm	0	0	1	0
-categorianthropoleg	categorianthropoleg	0	0	1	0
-wybod	but	0	0	1	0
-wybod	out	0	0	1	0
-disgrifiad	description	0	0	1	1
-claude	claude	0	0	1	0
-dechreuasant	they began	0	0	1	0
-rhywogaethau	species	0	0	1	0
-wyddonol	scientific	0	0	1	0
-rss	china	0	0	1	0
-rss	rss	0	0	1	0
-newton	newton	0	0	1	0
-mharc	park	0	0	1	0
-tryloyw	transparent	0	0	1	1
-groglith	good	0	0	1	0
-guatemala	guatemala	0	0	1	0
-haiti	haiti	0	0	1	0
-gaergystennin	constantinople	0	0	1	0
-gonfensiynol	conventional	0	0	1	0
-gareth	gareth	0	0	1	0
-camgymeriad	mistake	0	0	1	1
-fyddair	fyddair	0	0	1	0
-ymddygiad	behavior	0	0	1	1
-gyflawnir	achieved	0	0	1	0
-fyddain	it would	0	0	1	0
-llywodraethol	governing	0	0	1	1
-cwtiad	plover	0	0	1	0
-ymchwiliad	an investigation	0	0	1	0
-mrasil	brazil	0	0	1	0
-hendre	hendre	0	0	1	0
-rheol	rule	0	0	1	1
-px|bawd|lleoliad	px | thumb | location	0	0	1	0
-px|bawd|lleoliad	pixel|thumb|location	0	0	1	0
-gydnabod	recognition	0	0	1	0
-cyfamod	covenant	0	0	1	1
-thrwy	by	0	0	1	0
-drwyr	drwyr	0	0	1	0
-llaith	moist	0	0	1	1
-dirywio	decline	0	0	1	0
-gelteg	celtic	0	0	1	0
-bomis	bomis	0	0	1	0
-thannau	fires	0	0	1	0
-chydnabod	recognized	0	0	1	0
-abergwyngregyn	abergwyngregyn	0	0	1	0
-feneswela	venezuela	0	0	1	0
-clasurol	classical	0	0	1	1
-mur	wall	0	0	1	1
-cwmnïau	companies	0	0	1	0
-categoripethau	categoripethau	0	0	1	0
-fiolegol	biological	0	0	1	0
-nghysawd	our solar	0	0	1	0
-cychwyn	start	0	0	1	1
-wrth	in	0	0	1	0
-dehonglir	interpreted	0	0	1	0
-bost	mail	0	0	1	0
-farchnad	market	0	0	1	0
-however	however	0	0	1	0
-credyd	credit	0	0	1	0
-sengl	single	0	0	1	1
-protonau	protons	0	0	1	0
-bosibl	possible	0	0	1	0
-califfornia	califfornia	0	0	1	0
-califfornia	california	0	0	1	0
-hawliwyd	claimed	0	0	1	0
-ell	ell	0	0	1	0
-londinium	londiniun	0	0	1	0
-londinium	londinium	0	0	1	0
-meredith	meredith	0	0	1	0
-llyfryddiaeth	bibliography	1	1	1	1
-llyfryddiaeth	revelation	1	0	1	0
-llyfryddiaeth	heterosexuality	1	0	1	0
-llyfryddiaeth	god's order	1	0	1	0
-llyfryddiaeth	bibiliography	1	0	1	0
-llyfryddiaeth	message	1	0	1	0
-dyfais	device	0	0	1	1
-brawddeg	sentence	0	0	1	1
-gefnddu	black-backed	0	0	1	0
-manwl	detailed	0	0	1	0
-digwydd	place	0	0	1	0
-addysg	education	0	0	1	1
-can	can	0	0	1	0
-sullivan	sullivan	0	0	1	0
-ansefydlog	unstable	0	0	1	1
-brenhinoedd	kings	0	0	1	0
-chefnogaeth	support	0	0	1	0
-unarddeg	eleven	0	0	1	0
-digwyddiad	event	0	0	1	1
-cymedrol	moderate	0	0	1	1
-been	been	0	0	1	0
-gruffudd	gruffudd	0	0	1	0
-ddynes	woman	0	0	1	0
-cyfathrach	intercourse	0	0	1	1
-gardneraidd	gardnerian	0	0	1	0
-samplau	samples	0	0	1	0
-diffinir	defined	0	0	1	0
-arbenigwyr	experts	0	0	1	0
-dringor	climbing	0	0	1	0
-wagtail	wagtail	0	0	1	0
-gwaharddwyd	banned	0	0	1	0
-pwyleg	polish	0	0	1	0
-diffinio	defines the	0	0	1	0
-diffinio	define	0	0	1	1
-frenhines	queen	0	0	1	0
-snipe	snipe	0	0	1	0
-drefniadaeth	organization	0	0	1	0
-drefniadaeth	organisation	0	0	1	0
-effeithior	affect the	0	0	1	0
-cysyniad	concept	0	0	1	0
-geiriadur	dictionary	0	0	1	1
-cymoedd	valleys	0	0	1	0
-ystyriwyd	considered	0	0	1	0
-n	n	0	0	1	0
-hunangofiant	autobiography	0	0	1	0
-hawliau	rights	0	0	1	0
-poblogaidd	popular	0	0	1	1
-llechfaen	slate	0	0	1	0
-ewin	nail	0	0	1	1
-categoriamgylchedd	categoriamgylchedd	0	0	1	0
-crynodiad	concentration	0	0	1	0
-nefyn	nefyn	0	0	1	0
-rhediad	run	0	0	1	0
-faner	flag	0	0	1	0
-ddatblygiad	development	0	0	1	0
-eiliad	seconds	0	0	1	0
-pharc	park	0	0	1	0
-categorimytholeg	categorimytholeg	0	0	1	0
-gadeiriol	cathedral	0	0	1	0
-damweiniau	accidents	0	0	1	0
-beiriant	machine	0	0	1	0
-artiffisial	artificial	0	0	1	0
-tiwmor	tumor	0	0	1	0
-esgob	boshop	0	0	1	0
-esgob	bishop	0	0	1	1
-welsh	welsh	0	0	1	0
-visayas	visayas	0	0	1	0
-categoridaearyddiaeth	catagoridaearyddiaeth	0	0	1	0
-categoridaearyddiaeth	categories:geography	0	0	1	0
-categoridaearyddiaeth	categoridaearyddiaeth	0	0	1	0
-ymasiad	fusion	0	0	1	0
-dadl	debate	0	0	1	1
-dylan	dylan	0	0	1	0
-gweithredoedd	actions	0	0	1	0
-charlie	charlie	0	0	1	0
-ocean	ocean	0	0	1	0
-endorsements	endorsements	0	0	1	0
-bwdhaeth	buddhism	0	0	1	0
-jean	jean	0	0	1	0
-cadfridog	general	0	0	1	1
-crefyddol	religious	0	0	1	1
-torah	torah	0	0	1	0
-gorff	body	0	0	1	0
-gwylior	watching	0	0	1	0
-menevia	menevia	0	0	1	0
-wythnosol	weekly	0	0	1	1
-greenwich	greenwich	0	0	1	0
-bhutan	bhutan	0	0	1	0
-chwyddo	swelling	0	0	1	0
-rhyngweithiadau	interactions	0	0	1	0
-ela	ela	0	0	1	0
-etholiadol	electoral	0	0	1	0
-rwdlan	rwdlan	0	0	1	0
-elw	profit	1	1	1	1
-elw	norway	1	0	1	0
-elw	elw	1	0	1	0
-eironig	ironic	0	0	1	0
-which	which	0	0	1	0
-which	sy'n	0	0	1	0
-px|bawd|map	px | thumb | map	0	0	1	0
-donaw	danube	0	0	1	0
-ysgrifennu	write	0	0	1	1
-kapilavastu	kapilavastu	0	0	1	0
-burns	burns	0	0	1	0
-warchae	siege	0	0	1	0
-cramen	crust	0	0	1	1
-ywr	is the	0	0	1	0
-grawn	grain	0	0	1	0
-mynegi	express	0	0	1	1
-akiruno	soldiers	0	0	1	0
-akiruno	akiruno	0	0	1	0
-bynnag	however	0	0	1	0
-hynnyn	ms poulter	0	0	1	0
-amod	condition	0	0	1	1
-adria	adria	0	0	1	0
-wyddom	unknown	0	0	1	0
-ymlaen	on	0	0	1	1
-cofiadwy	memorable	0	0	1	1
-asidau	acids	0	0	1	0
-ywn	other than their	0	0	1	0
-enwadau	denominations	0	0	1	0
-hund	hund	0	0	1	0
-gorsedd	throne	0	0	1	1
-gorsedd	crime	0	0	1	0
-gyflyrau	conditions	0	0	1	0
-indoewropeaidd	indoewropeaidd	0	0	1	0
-codi	up	0	0	1	0
-terminoleg	terminology	0	0	1	0
-fathau	types	0	0	1	0
-tebot	teapot	0	0	1	1
-malaysia	malaysia	0	0	1	0
-donald	donald	0	0	1	0
-debyg	similar	0	0	1	0
-ddisgrifiodd	described	0	0	1	0
-twristaidd	tourist	0	0	1	0
-syniadau	ideas	0	0	1	0
-ich	to your	0	0	1	0
-cooper	cooper	0	0	1	0
-awgryma	suggests	0	0	1	0
-fyfyrwyr	students	0	0	1	0
-fyfyrwyr	latest news	0	0	1	0
-godir	charged	0	0	1	0
-groegaidd	greek	0	0	1	0
-sefydliadau	organizations	0	0	1	0
-sefydliadau	establishments	0	0	1	0
-amddiffynfa	defense	0	0	1	0
-fodd	way	0	0	1	0
-seicolegol	psychological	0	0	1	1
-brawd	feet	0	0	1	0
-brawd	brother	0	0	1	1
-brawf	test	0	0	1	0
-cwellyn	ranger	0	0	1	0
-corn	horn	0	0	1	1
-serbian	serbian	0	0	1	0
-cors	for	1	0	1	0
-cors	traitor	1	0	1	0
-cors	rebel	1	0	1	0
-cors	cors	1	0	1	0
-cors	marsh	1	1	1	0
-cors	moderate	1	0	1	0
-cors	bog	1	1	0	1
-unrwa	unrwa	0	0	1	0
-chynrychiolwyr	representatives	0	0	1	0
-ddyfais	device	0	0	1	0
-thermodynameg	themodynameg	1	1	0	0
-thermodynameg	thermodynamics	1	1	0	0
-thermodynameg	racing	1	0	1	0
-thermodynameg	aerodynamics	1	0	1	0
-meddiannau	possessions	0	0	1	0
-hiphop	hiphop	0	0	1	0
-olynydd	successor	0	0	1	1
-telyn	harp	0	0	1	1
-montana	montana	0	0	1	0
-ensure	ensure	0	0	1	0
-balcanau	balkans	0	0	1	0
-gorfforol	physical	0	0	1	0
-cyfansawdd	compound	0	0	1	1
-arall	other	0	0	1	0
-categoriymddygiad	categoriymddygiad	0	0	1	0
-chymuned	community	0	0	1	0
-ppp	ppp	0	0	1	0
-dysgir	taught	0	0	1	0
-gyson	consistent	0	0	1	0
-croeso	welcome	0	0	1	1
-palesteiniaid	palestinians	0	0	1	0
-croesi	crossing	0	0	1	0
-cywair	tone	0	0	1	0
-cyfansoddodd	composed	0	0	1	0
-gig	meat	0	0	1	0
-virgin	virgin	0	0	1	0
-arabiaid	arabs	0	0	1	0
-arabiaid	arbian	0	0	1	0
-synthesis	synthesis	0	0	1	0
-draddodiadol	traditional	0	0	1	0
-head	head	0	0	1	0
-medium	medium	0	0	1	0
-prynhawn	afternoon	0	0	1	1
-hirach	longer	0	0	1	0
-heal	heal	0	0	1	0
-categoridiwydiant	industry category	0	0	1	0
-hidl	hidi	0	0	1	0
-solar	solar	0	0	1	0
-mwyalchen	blackbird	0	0	1	0
-bwriedir	proposed	0	0	1	0
-nodiadau	notes	0	0	1	0
-jennifer	jennifer	0	0	1	0
-categoritanwyddau	categoritanwyddau	0	0	1	0
-categoritanwyddau	fuels category	0	0	1	0
-versions	versions	0	0	1	0
-sylweddol	significant	0	0	1	0
-arabeg	arabic	0	0	1	0
-chadwraethau	observances	0	0	1	0
-helvetii	helvetii	0	0	1	0
-moelwyn	moelwyn	0	0	1	0
-smotiau	spots	0	0	1	0
-blogio	blogging	0	0	1	0
-usher	usher	0	0	1	0
-gwerddon	oasis	0	0	1	0
-fusnesau	businesses	0	0	1	0
-môrhwyaden	teal	0	0	1	0
-gronyn	particle	1	1	0	0
-arhosodd	remained	0	0	1	0
-estonia	estonia	0	0	1	0
-sylweddau	substances	0	0	1	0
-labia	labia	0	0	1	0
-everest	everest	0	0	1	0
-gweithwyr	workers	0	0	1	0
-geometreg	geometry	0	0	1	0
-bwerau	powers	0	0	1	0
-ni	not	0	0	1	0
-mhriodweddaur	mhriodweddaur	0	0	1	0
-px|bawd|de|y	px | thumb | de | the	0	0	1	0
-px|bawd|de|y	pxbawdldly	0	0	1	0
-no	no	0	0	1	0
-tit	inside back cover	0	0	1	0
-tymheredd	temperature	0	0	1	1
-when	when	0	0	1	0
-ne	south	0	0	1	0
-tir	land	1	1	1	1
-ng	k	0	0	1	0
-gynnyrch	products	0	0	1	0
-tin	tin	0	0	1	0
-ogam	zag	0	0	1	0
-incwm	income	0	0	1	1
-ŷd	orn	0	0	1	0
-ŷd	corn	0	0	1	0
-gwaelod	bottom	0	0	1	1
-ebyst	emails	0	0	1	0
-nodi	note	0	0	1	1
-tawdd	molten	0	0	1	1
-cambria	cambria	0	0	1	0
-khoikhoi	khoikhoi	0	0	1	0
-serth	steep	0	0	1	1
-manceinion	manchester	0	0	1	1
-cyhyr	muscle	0	0	1	1
-sefyllfa	situation	0	0	1	1
-lleiafrifol	minority	0	0	1	1
-trosglwyddor	transfer	0	0	1	0
-trosglwyddor	trosglwyddor	0	0	1	0
-gotama	gotama	0	0	1	0
-safonau	standards	0	0	1	0
-trofannau	tropics	0	0	1	0
-wyddor	alphabet	0	0	1	0
-bodloni	meet	0	0	1	0
-roi	give	0	0	1	0
-dechreuad	start	0	0	1	0
-canrif	century	0	0	1	1
-israelaiddpalesteinaidd	palestinian israeli	0	0	1	0
-israelaiddpalesteinaidd	israelaiddpalesteinaidd	0	0	1	0
-ron	ron	0	0	1	0
-cyfuniad	combination	0	0	1	1
-rob	rob	0	0	1	0
-roc	rock	0	0	1	0
-llw	oath	0	0	1	1
-llu	host	0	0	1	1
-dibyn	edge	0	0	1	0
-marion	marion	0	0	1	0
-llc	llc	0	0	1	0
-ros	ros	0	0	1	0
-ros	heath	0	0	1	0
-lle	where	0	0	1	0
-gopar	summit	0	0	1	0
-balesteiniaid	palestinians	0	0	1	0
-balesteiniaid	palestinian	0	0	1	0
-passage	passage	0	0	1	0
-gyfansoddodd	composed	0	0	1	0
-cynllun	plan	0	0	1	1
-tegla	tegla	0	0	1	0
-slafaidd	slavishly	0	0	1	0
-slafaidd	salfaidd	0	0	1	0
-ibrahim	ibrahim	0	0	1	0
-ffiseg	physics	0	0	1	1
-symbyliad	stimulation	0	0	1	0
-cook	cook	0	0	1	0
-li	li	0	0	1	0
-glyder	glyder	0	0	1	0
-arddull	style	0	0	1	1
-ysgerbwd	skeleton	0	0	1	1
-bumed	parents	0	0	1	0
-bumed	fifth	0	0	1	0
-cynlluniau	plans	0	0	1	0
-hawaii	hawaii	0	0	1	0
-bandemig	pandemic	0	0	1	0
-merlyn	merlyn	1	0	1	0
-merlyn	pony	1	1	1	1
-merlyn	agra	1	0	1	0
-ymysg	among	0	0	1	1
-science	science	0	0	1	0
-gollyngwyd	dropped	0	0	1	0
-doeth	wise	0	0	1	1
-pori	grazing	0	0	1	0
-pori	browsing	0	0	1	0
-gyfathrach	intercourse	0	0	1	0
-draddodiad	tradition	0	0	1	0
-pedr	peter	0	0	1	1
-chyfeirir	reference	0	0	1	0
-bakr	bakr	0	0	1	0
-droseddol	criminal	0	0	1	0
-colin	colin	0	0	1	0
-colin	holine	0	0	1	0
-cyfranc	cyfranc	0	0	1	0
-peidio	not	0	0	1	0
-chwiliedydd	probe	0	0	1	0
-port	port	0	0	1	0
-proteinau	proteins	0	0	1	0
-dociau	docks	0	0	1	0
-oeddent	they	0	0	1	0
-goed	trees	0	0	1	0
-metelig	metallic	0	0	1	0
-simeon	simeon	0	0	1	0
-cristionogion	christians	0	0	1	0
-ffugenw	pseudonym	0	0	1	1
-chofadeiladau	monuments	0	0	1	0
-collwyd	lost	0	0	1	0
-goes	leg	0	0	1	0
-cyngres	congress	0	0	1	1
-tiberius	tiberius	0	0	1	0
-fetel	metal	0	0	1	0
-ddigwydd	occur	0	0	1	0
-nen	sky	0	0	1	0
-ganlynol	following	0	0	1	0
-water	water	0	0	1	0
-witch	witch	0	0	1	0
-weddill	the rest	0	0	1	0
-weddill	rest	0	0	1	0
-galaţi	dalati	0	0	1	0
-fodrwyau	rings	0	0	1	0
-fardd	poet	0	0	1	0
-mauritius	mauritius	0	0	1	0
-ffitio	fittio	0	0	1	0
-ffitio	fit	0	0	1	0
-cyfystyr	synonymous	0	0	1	1
-gogwyddion	trends	0	0	1	0
-rafael	rafael	0	0	1	0
-addrefnu	reorganize	0	0	1	0
-goruchaf	supreme	0	0	1	0
-ynysoedd	islands	0	0	1	0
-balkan	balkan	0	0	1	0
-laddwyd	killed	0	0	1	0
-datblygun	datblygun	0	0	1	0
-enghraifft	example	0	0	1	1
-erotica	erotica	0	0	1	0
-trinidad	trinidad	0	0	1	0
-sefydlogrwydd	stability	0	0	1	1
-arbrofion	experiments	0	0	1	0
-pren	wood	0	0	1	1
-adenydd	wings	0	0	1	0
-russell	russell	0	0	1	0
-gyddfgoch	badgers	0	0	1	0
-kemmyn	kemmyn	0	0	1	0
-andy	andy	0	0	1	0
-lydaw	brittany	0	0	1	0
-pres	brass	0	0	1	1
-eifftaidd	egyptian	0	0	1	1
-cerddorfa	orchestra	0	0	1	1
-ngâl	gal	0	0	1	0
-dafodieithoedd	dialects	0	0	1	0
-lwyddodd	did	0	0	1	0
-lwyddodd	succeeded in	0	0	1	0
-statws	status	0	0	1	0
-cychwyna	cychwyna	0	0	1	0
-gyfer	for	0	0	1	0
-opsiwn	option	0	0	1	0
-pwyll	prudence	0	0	1	0
-chyfres	series	0	0	1	0
-autónoma	autonoma	0	0	1	0
-biden	biden	0	0	1	0
-deiniol	deiniol	0	0	1	0
-deyrnged	tribute	0	0	1	0
-poblogaethau	populations	0	0	1	0
-ddangos	show	0	0	1	0
-egluro	explain	0	0	1	1
-beddgelert	beddgelert	0	0	1	0
-fwynau	minerals	0	0	1	0
-°c	c	0	0	1	0
-gwreiddiol	original	0	0	1	1
-gwreiddiol	qwreiddiol	0	0	1	0
-benthyciad	loan	0	0	1	0
-ogleddol	northern	0	0	1	0
-rhewogydd	frosts	0	0	1	0
-angerddol	passionate	0	0	1	1
-nefoedd	heaven	0	0	1	0
-bessie	bessie	0	0	1	0
-hydrogen	hydrogen	0	0	1	0
-breuddwydion	dreams	0	0	1	0
-ifori	ivory	0	0	1	1
-barfog	bearded	0	0	1	1
-byllau	pools	0	0	1	0
-beale	beale	0	0	1	0
-alwad	call	0	0	1	0
-cardinal	cardinal	0	0	1	0
-llechwedd	slope	0	0	1	1
-ddeunaw	eighteen	0	0	1	0
-alcoholaidd	alcoholic	0	0	1	0
-wythfed	eighth	0	0	1	1
-nerthol	powerful	0	0	1	1
-grugiar	grouse	0	0	1	1
-meddiannwyd	meddiannwyd	0	0	1	0
-meddiannwyd	occupied	0	0	1	0
-gamdrin	abuse	0	0	1	0
-cedwir	kept	0	0	1	0
-gwrthwynebiad	opposition	0	0	1	0
-emrys	emrys	0	0	1	0
-enfawr	huge	0	0	1	1
-golygur	editing	0	0	1	0
-bethau	things	0	0	1	0
-fwlch	gap	0	0	1	0
-combin	combin	0	0	1	0
-pethau	things	0	0	1	0
-tierra	tierra	0	0	1	0
-dominyddur	dominyddur	0	0	1	0
-ddewis	choose	0	0	1	0
-ystyr	meaning	0	0	1	1
-aber	estuary	0	0	1	1
-rhybuddiodd	warned	0	0	1	0
-gyffroir	stirred	0	0	1	0
-wallace	wallace	0	0	1	0
-byddwch	you	0	0	1	0
-ferf	verb	0	0	1	0
-llysiau	vegetables	0	0	1	0
-suez	suez	0	0	1	0
-sylweddolodd	realized	0	0	1	0
-redstart	redstart	0	0	1	0
-sgwrs	conversation	0	0	1	1
-dyfodiad	advent	0	0	1	1
-ddileu	remove	0	0	1	0
-melanitta	melanitta	0	0	1	0
-ffrae	row	0	0	1	0
-beili	bailey	0	0	1	0
-lonely	lonely	0	0	1	0
-baneri	banners	0	0	1	0
-dinbych	denbigh	0	0	1	0
-isdeitlau	subtitles	0	0	1	0
-ysgrifennodd	wrote	0	0	1	0
-dacia	dacia	0	0	1	0
-cyfrifiad	calculation	0	0	1	0
-cyfrifiad	census	0	0	1	1
-garbon	carbon	0	0	1	0
-colomen	colomen	0	0	1	0
-colomen	pigeon	0	0	1	1
-cainc	ply	0	0	1	0
-lliwgar	colourful	0	0	1	0
-lliwgar	colorful	0	0	1	0
-jazeera	jazeera	0	0	1	0
-sylfaen	base	0	0	1	1
-bath	bath	0	0	1	1
-cymaint	so	0	0	1	0
-tern	tern	0	0	1	0
-scrofa	scrofa	0	0	1	0
-name	name	0	0	1	0
-opera	opera	0	0	1	0
-opera	a theatrical presentation	0	0	1	0
-gwaun	moor	0	0	1	1
-academy	academy	0	0	1	0
-craigglais	craigglais	0	0	1	0
-roeddent	they	0	0	1	0
-cydnabyddir	recognized	0	0	1	0
-categorigwrthdaro	categorigwrthdaro	0	0	1	0
-categorigwrthdaro	categorigwthdaro	0	0	1	0
-barbuda	barbuda	0	0	1	0
-llenwi	complete	0	0	1	0
-hallstatt	hallstatt	0	0	1	0
-ogwr	ogmore	0	0	1	0
-dengys	shows	0	0	1	0
-benito	benito	0	0	1	0
-absenoldeb	absence	0	0	1	1
-peirianeg	engineering	0	0	1	0
-haul	sun	0	0	1	1
-die	die	0	0	1	0
-cyfoeth	wealth	0	0	1	1
-orynys	peninsula	0	0	1	0
-gwehillion	gwehillion	0	0	1	0
-alcalïaidd	alkaline	0	0	1	0
-ymrithiad	ymrithiad	0	0	1	0
-sylweddoli	realize	0	0	1	1
-mhrydain	britain	0	0	1	0
-eagle	eagle	0	0	1	0
-gweledol	visual	0	0	1	0
-foleciwlau	molecules	0	0	1	0
-aberystwyth	aberystwyth	0	0	1	0
-goresgyniad	invasion	0	0	1	1
-goresgyniad	goresgynaid	0	0	1	0
-theori	theory	0	0	1	0
-gapten	captain	0	0	1	0
-dilyn	following	0	0	1	0
-addas	suitable	0	0	1	1
-bwyllgor	committee	0	0	1	0
-pandemig	pandemic	0	0	1	0
-perthnasol	relevant	0	0	1	0
-wag	empty	0	0	1	0
-butterflies	butterflies	0	0	1	0
-betws	at large	0	0	1	0
-ychen	ox	0	0	1	0
-rhannol	partly	0	0	1	0
-imperialaidd	imperialist	0	0	1	0
-gymysgu	mixing	0	0	1	0
-gostyngiad	reduction	0	0	1	1
-tarddodd	origin	0	0	1	0
-categoriffisegwyr	physicists category	0	0	1	0
-categoriffisegwyr	categoriffisegwyr	0	0	1	0
-porthladdoedd	ports	0	0	1	0
-ynghynt	earlier	0	0	1	0
-stribed	strip	0	0	1	0
-rhydderch	rhydderch	0	0	1	0
-fandiau	bands	0	0	1	0
-cynhelir	held	0	0	1	0
-vitiligo	vitiligo	0	0	1	0
-astudiaeth	study	0	0	1	1
-fymryn	just	0	0	1	0
-bydysawd	universe	0	0	1	1
-george	george	0	0	1	0
-engineer	engineeer	0	0	1	0
-engineer	engineer	0	0	1	0
-ffactorau	factors	0	0	1	0
-llinyn	string	0	0	1	1
-ian	ian	0	0	1	0
-blynyddoedd	years	0	0	1	0
-rwsiaid	russians	0	0	1	0
-gollyngodd	dropped	0	0	1	0
-iad	ent	0	0	1	0
-lwyddiannus	successful	0	0	1	0
-cartrefi	homes	0	0	1	0
-bahamas	bahamas	0	0	1	0
-israniadau	subdivisions	0	0	1	0
-iau	s	0	0	1	0
-white	white	0	0	1	0
-diolch	thanks	0	0	1	1
-eurynnod	eurynnod	0	0	1	0
-drywod	wrens	0	0	1	0
-derbyn	received	0	0	1	0
-hud	crifolen	1	0	1	0
-hud	construction	1	0	1	0
-hud	magic	1	1	1	1
-hud	hub	1	0	1	0
-más	out	0	0	1	0
-copa	summit	0	0	1	1
-genefa	geneva	0	0	1	0
-ymhobman	everywhere	0	0	1	1
-perthynas	relationship	0	0	1	1
-hun	own	0	0	1	0
-copi	copy	0	0	1	1
-montenegro	montenegro	0	0	1	0
-alan	alan	0	0	1	0
-copr	copper	0	0	1	1
-released	released	0	0	1	0
-huw	huw	0	0	1	0
-hur	hire	0	0	1	1
-alaw	tune	0	0	1	1
-ystyron	meanings	0	0	1	0
-copy	copy	0	0	1	0
-population	population	0	0	1	0
-plwm	lead	0	0	1	1
-pennaeth	head	0	0	1	0
-fylfa	vulva	0	0	1	0
-posib	possible	0	0	1	0
-meirion	meirion	0	0	1	0
-gŵr	husband	0	0	1	0
-r	the	0	0	1	0
-drydedd	third	0	0	1	0
-ddinistrio	destroyed	0	0	1	0
-mariner	mariner	0	0	1	0
-and	and	0	0	1	0
-llorweddol	horizontal	0	0	1	0
-ana	ana	0	0	1	0
-anc	econciliation	0	0	1	0
-ann	ann	0	0	1	0
-buwch	cow	0	0	1	1
-ant	ant	0	0	1	0
-mater	issue	0	0	1	0
-any	any	0	0	1	0
-marathon	marathon	0	0	1	0
-llyncu	swallowing	0	0	1	0
-kush	kush	0	0	1	0
-adlewyrchu	reflect	0	0	1	1
-mindanao	mindanao	0	0	1	0
-gustave	gustave	0	0	1	0
-phillips	phillips	0	0	1	0
-ideal	s ideal	0	0	1	0
-ffyngau	fungi	0	0	1	0
-beiriannau	machines	0	0	1	0
-gynnig	offer	0	0	1	0
-benin	benin	0	0	1	0
-ganrifoedd	centuries	0	0	1	0
-eliffant	elephant	0	0	1	1
-lleisiol	vocal	0	0	1	1
-hincks	hincks	0	0	1	0
-sterna	sterna	0	0	1	0
-ddiffinio	define	0	0	1	0
-ddirywiad	decline	0	0	1	0
-considered	considered	0	0	1	0
-jakarta	jakarta	0	0	1	0
-later	sample image	0	0	1	0
-clywed	substrate	0	0	1	0
-clywed	hear	0	0	1	1
-galés	gales	0	0	1	0
-vulgaris	vulgaris	0	0	1	0
-tyddewi	davids	0	0	1	0
-hwngariaid	hungarians	0	0	1	0
-troi	turn	0	0	1	1
-trol	cart	0	0	1	1
-hwyr	late	0	0	1	1
-ddianc	escape	0	0	1	0
-chenedl	nation	0	0	1	0
-percy	percy	0	0	1	0
-hwyl	fun	0	0	1	0
-tros	over	0	0	1	1
-platiau	plates	0	0	1	0
-cryf	strong	0	0	1	1
-pryfed	insects	0	0	1	0
-afiach	unhealthy	0	0	1	1
-dosbarth	class	1	1	1	1
-alexios	alexios	0	0	1	0
-gull	gull	0	0	1	0
-wood	wood  (in welsh  "pren")	0	0	1	0
-cuddio	hide	0	0	1	1
-unrhyw	no	0	0	1	0
-llechweddau	slopes	0	0	1	0
-arglwyddes	lady	0	0	1	1
-hoyw	gay	0	0	1	1
-awduron	authors	0	0	1	0
-dyw	does	0	0	1	0
-trawiadol	striking	0	0	1	1
-categorigwleidyddiaeth	categorigwleidyddiaeth	0	0	1	0
-nobl	noble	0	0	1	0
-breifat	private	0	0	1	0
-dyn	man	0	0	1	1
-ali	ali	0	0	1	0
-ddawns	dance	0	0	1	0
-seiriol	puffin	0	0	1	0
-arwyddion	signs	0	0	1	0
-caneuon	songs	0	0	1	0
-storïau	stories	0	0	1	0
-priodweddaur	priodweddaur	0	0	1	0
-gwladol	national	0	0	1	0
-ddymchwel	demolition	0	0	1	0
-ffynhonnau	wells	0	0	1	0
-llygredd	pollution	0	0	1	0
-almaenig	measles	0	0	1	0
-médica	medica	0	0	1	0
-canmlwyddiant	centenary	0	0	1	1
-trefnu	organizing	0	0	1	0
-trefnu	arranged	0	0	1	0
-brin	rare	0	0	1	0
-ynghau	closed	0	0	1	0
-rms	rms	0	0	1	0
-beethoven	beethoven	0	0	1	0
-publishers	publisher	0	0	1	0
-publishers	publishers	0	0	1	0
-mtv	mtv	0	0	1	0
-gweler	see	0	0	1	0
-college	college	0	0	1	0
-theledu	tv	0	0	1	0
-stanley	stanley	0	0	1	0
-cyflogi	employed	0	0	1	0
-hirdymor	long-term	0	0	1	0
-gwylwyr	viewers	0	0	1	0
-shiva	shiva	0	0	1	0
-shiva	social	0	0	1	0
-categoribrenhinoedd	categoribrenhinoedd	0	0	1	0
-brif	main	0	0	1	0
-woolf	woolf	0	0	1	0
-nauru	nauru	0	0	1	0
-ffliwr	ffliwr	0	0	1	0
-gwynant	gwynant	0	0	1	0
-cynhyrchodd	produced	0	0	1	0
-ffliwt	flute	0	0	1	0
-tanio	firing	0	0	1	0
-guitar	guitar	0	0	1	0
-como	como	0	0	1	0
-cyrraedd	reach	0	0	1	1
-come	come	0	0	1	0
-uniongyrchol	direct	0	0	1	0
-gynhyrchu	production	0	0	1	0
-glaslyn	glaslyn	0	0	1	0
-libya	libya	0	0	1	0
-cynulleidfaoedd	audiences	0	0	1	0
-adnabod	identification	0	0	1	0
-region	region	0	0	1	0
-orfodir	imposed	0	0	1	0
-sicilia	sicily	0	0	1	0
-berry	berry	0	0	1	0
-hunangysegru	hunangysegru	0	0	1	0
-railway	railway	0	0	1	0
-amaethyddol	agricultural	0	0	1	1
-droseddau	offenses	0	0	1	0
-pakistan	pakistan	0	0	1	0
-brecht	brecht	0	0	1	0
-cemegol	chemical	0	0	1	1
-lwybrau	routes	0	0	1	0
-pot	pot	0	0	1	1
-thyfodd	grew	0	0	1	0
-colony	colony	0	0	1	0
-pop	pop	0	0	1	0
-deuddeg	twelve	0	0	1	1
-dduon	black	0	0	1	0
-masnachwyr	traders	0	0	1	0
-pob	all	0	0	1	1
-ychwanegodd	added	0	0	1	0
-chael	have	0	0	1	0
-ddechreuwyd	started	0	0	1	0
-ddioddef	suffer	0	0	1	0
-howard	howard	0	0	1	0
-gofnodion	records	0	0	1	0
-chwaraewyd	chawaraewyd	0	0	1	0
-chwaraewyd	played	0	0	1	0
-rheilffordd	railway	0	0	1	1
-categoriadloniant	entertainment category	0	0	1	0
-categoriadloniant	categoriadloniant	0	0	1	0
-hamddiffyn	protected	0	0	1	0
-faterion	issues	0	0	1	0
-chwaraewyr	players	0	0	1	0
-edmund	edmund	0	0	1	0
-penderfynwyd	decided	0	0	1	0
-seintiau	saints	0	0	1	0
-oenanthe	oenanthe	0	0	1	0
-andrew	andrew	0	0	1	0
-marwolaethau	deaths	0	0	1	0
-tiger	tiger	0	0	1	0
-eglwysi	churches	0	0	1	0
-eglwysi	edlwysi	0	0	1	0
-golchi	wash	0	0	1	1
-andrea	andrea	0	0	1	0
-tamil	tamil	0	0	1	0
-thrwyr	thrwyr	0	0	1	0
-thrwyr	wax	0	0	1	0
-nghyfnod	nghyfond	0	0	1	0
-nghyfnod	stage	0	0	1	0
-hughes	hughes	0	0	1	0
-casa	casa	0	0	1	0
-cylchfa	zone	0	0	1	0
-mount	mount	0	0	1	0
-testun	text	0	0	1	1
-arnold	arnold	0	0	1	0
-cast	cast	0	0	1	1
-dymuniad	desire	0	0	1	1
-penodol	specific	0	0	1	1
-groegwyr	greeks	0	0	1	0
-athrawon	teachers	0	0	1	0
-bêl	ball	0	0	1	0
-enillwyr	winners	0	0	1	0
-rhestr	list	0	0	1	1
-good	good	0	0	1	0
-enillwyd	earned	0	0	1	0
-oddeutu	approximately	0	0	1	0
-ciconiiformes	ciconiiformes	0	0	1	0
-bahrain	bahrain	0	0	1	0
-cyfeiriar	cyfeiriar	0	0	1	0
-cyfeiriar	refer	0	0	1	0
-magyar	magyar	0	0	1	0
-ethiopia	ethiopia	0	0	1	0
-html	html	0	0	1	0
-symiau	amounts	0	0	1	0
-cynyddu	increase	0	0	1	1
-cynyddu	increasing	0	0	1	0
-cyfeiriad	address	0	0	1	1
-ffync	funk	0	0	1	0
-leonid	leonid	0	0	1	0
-faginaidd	faginaidd	0	0	1	0
-nest	nest	0	0	1	0
-tweed	tweed	0	0	1	0
-gryno	summary	0	0	1	0
-mynydd	mountain	0	0	1	1
-torfol	mass	0	0	1	0
-moddion	medicine	0	0	1	1
-pennsylvania	pennsylvania	0	0	1	0
-pobloedd	peoples	0	0	1	0
-gwerthu	sale	0	0	1	0
-ffurfdroad	inflection	0	0	1	0
-uíbh	uibh	0	0	1	0
-without	without	0	0	1	0
-jersey	jersey	0	0	1	0
-cynllunio	planning	0	0	1	0
-arsylwadau	observations	0	0	1	0
-cymuned	community	0	0	1	1
-model	model	0	0	1	0
-ayutthaya	ayutthaya	0	0	1	0
-gynnydd	progress	0	0	1	0
-esboniodd	explained	0	0	1	0
-gavia	gavia	0	0	1	0
-janet	janet	0	0	1	0
-cofnododd	recorded	0	0	1	0
-gavin	gavin	0	0	1	0
-hyfforddwr	coach	0	0	1	0
-feichiog	pregnant	0	0	1	0
-allforion	exports	0	0	1	1
-elfen	mathematics	1	0	1	0
-elfen	element	1	1	1	1
-harrison	harrison	0	0	1	0
-polisi	policy	0	0	1	1
-cerfiedig	carved	0	0	1	0
-baldwin	baldwin	0	0	1	0
-zubizarreta	zubizarreta	0	0	1	0
-rheolir	management	0	0	1	0
-pwll	pool	0	0	1	1
-gymdeithasol	social	0	0	1	0
-bryn	hill	0	0	1	1
-redthroated	redthroated	0	0	1	0
-tim	team	0	0	1	0
-px|bawd|rhan	px thumb part	0	0	1	0
-px|bawd|rhan	px / thumb / part	0	0	1	0
-cyflenwad	supply	0	0	1	1
-bryd	time	0	0	1	0
-blog	blog	0	0	1	0
-wall	wall	0	0	1	0
-wall	error	0	0	1	0
-bloc	block	0	0	1	0
-cafwyd	was	0	0	1	0
-ross	ross	0	0	1	0
-llinellau	lines	0	0	1	0
-delhi	delhi	0	0	1	0
-virginia	virginia	0	0	1	0
-oesoedd	ages	0	0	1	0
-cyfansoddi	composition	0	0	1	0
-cyfarfu	met	0	0	1	0
-natblygiad	development	0	0	1	0
-ymgiprys	maneuvering	0	0	1	0
-iduna	iduna	0	0	1	0
-kennedy	kennedy	0	0	1	0
-llythrennol	literally	0	0	1	0
-patrick	patrick	0	0	1	0
-drafodaeth	discussion	0	0	1	0
-nhwrci	turkey	0	0	1	0
-alw	call	0	0	1	0
-rhyd	ford	0	0	1	1
-gwasanaethydd	server	0	0	1	0
-gwsg	sleep	0	0	1	0
-thoracs	thorax	0	0	1	0
-deddfwriaeth	legislation	0	0	1	1
-são	são	0	0	1	0
-são	sao	0	0	1	0
-carfil	auk	0	0	1	0
-alltudiwyd	exiled	0	0	1	0
-pacific	pacific	0	0	1	0
-japanese	japanese	0	0	1	0
-gyflawni	achieve	0	0	1	0
-etholedig	elected	0	0	1	0
-adweithia	adweithia	0	0	1	0
-adweithio	reaction	0	0	1	0
-diffiniadau	definitions	0	0	1	0
-ysgolheictod	scholarship	0	0	1	1
-rwseg	russian	0	0	1	0
-ffrangeg	french	0	0	1	0
-provided	provided	0	0	1	0
-tynnur	tynnur	0	0	1	0
-luoedd	forces	0	0	1	0
-rôl	role	0	0	1	0
-llwyddo	successful	0	0	1	0
-dudley	dudley	0	0	1	0
-legal	legal	0	0	1	0
-ychwanegiadau	additions	0	0	1	0
-gomer	gomer	0	0	1	0
-gantores	singer	0	0	1	0
-cofnodi	record	0	0	1	1
-cyfrannu	contribute	0	0	1	1
-ddefnyddid	used	0	0	1	0
-gyfandiroedd	continents	0	0	1	0
-ddefnyddio	use	0	0	1	0
-mandelan	mendelan	0	0	1	0
-mandelan	mandelan	0	0	1	0
-hormon	hormone	0	0	1	0
-ngorffennaf	july	0	0	1	0
-naill	one	0	0	1	0
-dylanwadun	dylanwadun	0	0	1	0
-afrikaans	afrikaans	0	0	1	0
-afrikaans	africans	0	0	1	0
-on	on	0	0	1	0
-ol	after	0	0	1	0
-oi	of i	0	0	1	0
-oi	computing	0	0	1	0
-oh	oh	0	0	1	0
-of	of	0	0	1	0
-of	land	0	0	1	0
-oc	oc	0	0	1	0
-cudd	hidden	0	0	1	1
-cudd	hidde	0	0	1	0
-gyfrifol	responsible	0	0	1	0
-dyled	debt	0	0	1	1
-dyled	your	0	0	1	0
-goncwest	conquest	0	0	1	0
-brwynog	rushy	0	0	1	1
-emosiynol	emotional	0	0	1	1
-awyr	air	0	0	1	1
-ou	ou	0	0	1	0
-os	os	0	0	1	0
-os	if	0	0	1	1
-or	or	0	0	1	0
-pencampwyr	champions	0	0	1	0
-garn	garn	0	0	1	0
-garn	stage	0	0	1	0
-cambridge	cambridge	0	0	1	0
-synhwyrol	sensible	0	0	1	1
-gyrrwyd	powered	0	0	1	0
-denau	thin	0	0	1	0
-mwyafrif	majority	0	0	1	1
-wahan	apart	0	0	1	0
-emberiza	emberiza	0	0	1	0
-augustus	augustus	0	0	1	0
-hebreaid	hebrews	0	0	1	0
-gary	gary	0	0	1	0
-burton	burton	0	0	1	0
-garw	rough	0	0	1	1
-garw	up	0	0	1	0
-garu	love	0	0	1	0
-corsica	corsican	0	0	1	0
-corsica	corsica	0	0	1	0
-cynffon	tail	0	0	1	1
-agwedd	attitude	0	0	1	1
-there	bere	0	0	1	0
-ymwybyddiaeth	awareness	0	0	1	0
-wladychwyd	colonized	0	0	1	0
-brydain	britain	0	0	1	0
-nitrig	nitric	0	0	1	0
-rhaniad	partition	0	0	1	0
-budd	benefit	0	0	1	1
-drefn	procedure	0	0	1	0
-drefi	towns	0	0	1	0
-angheuol	fatal	0	0	1	1
-brodorol	native	0	0	1	1
-cabinet	cabinet	0	0	1	0
-haniaethol	abstract	0	0	1	1
-gallico	gallico	0	0	1	0
-chwant	lust	0	0	1	1
-wneir	made	0	0	1	0
-seddau	down	0	0	1	0
-seddau	seats	0	0	1	0
-sgiliau	skills	0	0	1	0
-rwystror	prevented	0	0	1	0
-rowling	rowling	0	0	1	0
-cronfa	fund	0	0	1	1
-cychwynnodd	started	0	0	1	0
-syniadaeth	thinking	0	0	1	0
-baganaidd	pagan	0	0	1	0
-addysgu	teaching	0	0	1	0
-ucheldiroedd	highlands	0	0	1	0
-categorisefydliadau	category: institutions	0	0	1	0
-categorisefydliadau	categorisefydliadau	0	0	1	0
-felis	felis	0	0	1	0
-categorifed	categorifed	0	0	1	0
-taylor	taylor	0	0	1	0
-acen	accent	0	0	1	1
-sensitif	sensitive	0	0	1	0
-ifainc	young	0	0	1	0
-categorimeddalwedd	categorimeddalwedd	0	0	1	0
-cyfrifiadurol	computer	0	0	1	0
-britain	britian	0	0	1	0
-britain	britain	0	0	1	0
-digymraeg	digymraeg	0	0	1	0
-ystafell	room	0	0	1	1
-bertolt	bertolt	0	0	1	0
-hafren	severn	0	0	1	1
-bedr	bedr	0	0	1	0
-agosaf	nearest	0	0	1	0
-glaniodd	landed	0	0	1	0
-divali	divali	0	0	1	0
-modron	modron	0	0	1	0
-hwn	this	0	0	1	0
-bacsiog	bacsiog	0	0	1	0
-sefyllfan	sefyllfan	0	0	1	0
-achosodd	caused	0	0	1	0
-ymddygiadau	behaviors	0	0	1	0
-symbol	symbol	0	0	1	0
-terfyniad	termination	0	0	1	1
-hunanladdiad	suicide	0	0	1	1
-pysgod	fish	0	0	1	0
-kingsley	kingsley	0	0	1	0
-hwy	they	0	0	1	0
-sulla	sulla	0	0	1	0
-sefyllfar	sefyllfar	0	0	1	0
-rhagenwau	pronouns	0	0	1	0
-oriel	gallery	0	0	1	1
-llechir	slate	0	0	1	0
-llechir	llechir	0	0	1	0
-ryfelwyr	warriors	0	0	1	0
-oddi	from	0	0	1	1
-lwyfan	platform	0	0	1	0
-llechin	llechin	0	0	1	0
-claddu	burial	0	0	1	0
-negyddol	negative	0	0	1	1
-rhyddfrydol	liberal	0	0	1	1
-ymsefydlu	induction	0	0	1	0
-duon	black	0	0	1	0
-cwch	boat	0	0	1	1
-hamburg	hamburg	0	0	1	0
-fuego	fuego	0	0	1	0
-larus	larus	0	0	1	0
-cymedrig	mean	0	0	1	0
-categoribywyd	catagories:life	0	0	1	0
-categoribywyd	categoribywyd	0	0	1	0
-cyfansoddwyr	composers	0	0	1	0
-gymhwysol	applied	0	0	1	0
-disg	disk	0	0	1	0
-tanciau	tanks	0	0	1	0
-galluogir	enabled	0	0	1	0
-gwilym	gwilym	0	0	1	0
-cyhoeddi	published	0	0	1	0
-gludor	gludor	0	0	1	0
-tynnwyd	was removed	0	0	1	0
-credoau	beliefs	0	0	1	0
-aaron	aaron	0	0	1	0
-present	present	0	0	1	1
-awyddus	keen	0	0	1	0
-croyw	fresh	0	0	1	1
-categorigwleidyddion	categorigwleidyddion	0	0	1	0
-esther	esther	0	0	1	0
-egyptian	egyptian	0	0	1	0
-fas	shallow	0	0	1	0
-himantopus	himantopus	0	0	1	0
-fai	fault	0	0	1	0
-verwoerd	verwoerd	0	0	1	0
-fam	mother	0	0	1	0
-fab	son	0	0	1	0
-sony	sony	0	0	1	0
-fae	bay	0	0	1	0
-deithio	travel	0	0	1	0
-ymhob	all	0	0	1	0
-roy	roy	0	0	1	0
-list	list	0	0	1	0
-gefn	back	0	0	1	0
-é	é	0	0	1	0
-é	e	0	0	1	0
-pregethu	preaching	0	0	1	0
-bedwerydd	fourth	0	0	1	0
-lisa	lisa	0	0	1	0
-perswadiwyd	persuaded	0	0	1	0
-boblogaidd	popular	0	0	1	0
-ardudwy	ardudwy	0	0	1	0
-bwysau	pressure	0	0	1	0
-fietnam	vietnam	0	0	1	0
-galluog	able	0	0	1	1
-louvre	louvre	0	0	1	0
-adawyd	left	0	0	1	0
-dynion	men	0	0	1	0
-robyn	robyn	0	0	1	0
-teg	fair	0	0	1	1
-île	ile	0	0	1	0
-regulus	regulus	0	0	1	0
-nbc	nbc	0	0	1	0
-fandaliaeth	vandalism	0	0	1	1
-gwefr	charge	0	0	1	0
-ïonau	ions	0	0	1	0
-ïonau	lane	0	0	1	0
-haag	haag	0	0	1	0
-what	what	0	0	1	0
-magnolia	magnolia	0	0	1	0
-sul	sunday	0	0	1	1
-arweinyddiaeth	leadership	0	0	1	1
-version	version	0	0	1	0
-sus	sus	0	0	1	0
-sur	sour	0	0	1	1
-sur	ar	0	0	1	0
-diddymu	dissolved	0	0	1	0
-maluku	maluku	0	0	1	0
-llygoden	mouse	0	0	1	1
-christian	christian	0	0	1	0
-gaffein	caffeine	0	0	1	0
-cynharach	earlier	0	0	1	0
-crowley	crowley	0	0	1	0
-bidyn	penis	0	0	1	0
-leeds	leeds	0	0	1	0
-enwodd	named	0	0	1	0
-croesgadau	crusades	0	0	1	0
-jeriwsalem	jerusalem	0	0	1	0
-dymuno	like	0	0	1	0
-comunidad	comunidad	0	0	1	0
-longau	ships	0	0	1	0
-dibynnol	dependent	0	0	1	1
-gwlân	wool	0	0	1	0
-heibio	past	0	0	1	1
-procellariiformes	procellariiformes	0	0	1	0
-ynni	energy	0	0	1	1
-ceisiodd	sought	0	0	1	0
-texts	texts	0	0	1	0
-tarddiant	outbreak	0	0	1	0
-tarddiant	tarrdiant	0	0	1	0
-clifford	clifford	0	0	1	0
-cynhyrchwyd	produced	0	0	1	0
-fôr	for	0	0	1	0
-ddatrys	fix	0	0	1	0
-ddatrys	solve	0	0	1	0
-hwyrach	later	0	0	1	0
-faint	size	0	0	1	0
-ailymgnawdoli	reincarnated	0	0	1	0
-clymu	tie	0	0	1	1
-llenyddiaeth	literature	0	0	1	1
-cyfarfod	meeting	0	0	1	1
-dduw	god	0	0	1	0
-cynghreiriaid	allies	0	0	1	0
-minor	minur	0	0	1	0
-fôn	fon	0	0	1	0
-israel	israel	0	0	1	0
-rydw	i	0	0	1	0
-glas	blue	0	0	1	1
-gadwr	keep the	0	0	1	0
-ymosodiad	attack	0	0	1	1
-roddir	given	0	0	1	0
-pwyslais	pwysalis	0	0	1	0
-pwyslais	emphasis	0	0	1	1
-gleifion	patients	0	0	1	0
-glan	bank	0	0	1	1
-cantores	singer	0	0	1	0
-known	known	0	0	1	0
-rydd	free	0	0	1	0
-glyderau	glyderau	0	0	1	0
-jim	jim	0	0	1	0
-armeniaid	armenians	0	0	1	0
-eden	eden	0	0	1	0
-gefnogir	supported	0	0	1	0
-lluosogaeth	pluralism	1	1	0	0
-wahardd	ban	0	0	1	0
-wahardd	banned	0	0	1	0
-wicipedia	wikipedia	0	0	1	0
-v	v	0	0	1	0
-benderfyniad	decision	0	0	1	0
-cymreig	welsh	0	0	1	1
-diriogaeth	territory	0	0	1	0
-pont	bridge	0	0	1	1
-anglesey	anglesey	0	0	1	0
-weimar	weimar	0	0	1	0
-llywelyn	llywelyn	0	0	1	0
-court	court	0	0	1	0
-bentrefi	villages	0	0	1	0
-corff	body	0	0	1	1
-johannesburg	johannesburg	0	0	1	0
-llythrennedd	literacy	0	0	1	0
-buenos	buenos	0	0	1	0
-gymeriad	character	0	0	1	0
-anghytuno	disagree	0	0	1	1
-maith	long	0	0	1	1
-syrthiodd	fell	0	0	1	0
-gogleddddwyreiniol	gogleddddwyreiniol	0	0	1	0
-gogleddddwyreiniol	gogledddwyreiniol	0	0	1	0
-perl	pearl	0	0	1	1
-catalog	catalog	0	0	1	0
-hastudio	study	0	0	1	0
-enillwr	winner	0	0	1	1
-hindŵaeth	hinduism	0	0	1	0
-ardd	garden	0	0	1	0
-susan	susan	0	0	1	0
-marlon	marlon	0	0	1	0
-daethpwyd	was	0	0	1	0
-ensymatig	enzymatic	0	0	1	0
-px|bawd|llun	pxlbawdlllun	0	0	1	0
-caur	gold	0	0	1	0
-comiwnyddiaeth	communism	0	0	1	1
-arizona	arizona	0	0	1	0
-taro	hit	0	0	1	1
-gyntaf	first	0	0	1	0
-cystadleuaeth	competition	0	0	1	1
-lahiya	fahiya	0	0	1	0
-bowys	sawmill	0	0	1	0
-dewiswyd	selected	0	0	1	0
-ehangur	expansion of	0	0	1	0
-cymraeg	welsh	0	0	1	0
-goruchel	supreme	0	0	1	1
-islam	islam	0	0	1	0
-style	style	0	0	1	0
-parhaol	permanent	0	0	1	0
-edmwnd	edmund	0	0	1	0
-edmwnd	edmwnd	0	0	1	0
-fairbanks	fairbanks	0	0	1	0
-cadw	keep	0	0	1	1
-fomiau	bombs	0	0	1	0
-defnydd	use	0	0	1	1
-mustela	mustela	0	0	1	0
-stephen	stephen	0	0	1	0
-roeddynt	they	0	0	1	0
-argentina	argentina	0	0	1	0
-wareiddiad	civilization	0	0	1	0
-ddeurywiol	bisexual	0	0	1	0
-oroesodd	survived	0	0	1	0
-sylwer	note	0	0	1	0
-bawd|px|baner	thumb! px! flag	0	0	1	0
-aconcagua	aconcagua	0	0	1	0
-lawysgrifau	manuscripts	0	0	1	0
-bollywood	bollywood	0	0	1	0
-ymgyrchoedd	campaigns	0	0	1	0
-gyfan	all	0	0	1	0
-lanberis	llanberis	0	0	1	0
-dona	dona	0	0	1	0
-yno	there	0	0	1	1
-blaenoriaeth	priority	0	0	1	0
-gollwyd	lost	0	0	1	0
-chynnwys	content	0	0	1	0
-fertebratau	kush	0	0	1	0
-fertebratau	vertebrates	0	0	1	0
-erlid	chase	0	0	1	0
-elusennau	charities	0	0	1	0
-yna	there	0	0	1	1
-nghaliffornia	california	0	0	1	0
-bwer	power	0	0	1	0
-gwerinwyr	peasants	0	0	1	0
-sillafiad	spelling	0	0	1	1
-celtiaid	celts	0	0	1	0
-swyddfeydd	offices	0	0	1	0
-uniaith	only	0	0	1	0
-brother	brother	0	0	1	0
-moroedd	seas	0	0	1	0
-cymerwyd	taken	0	0	1	0
-linach	dynasty	0	0	1	0
-cefnwr	full-back	0	0	1	0
-pwynt	point	0	0	1	1
-brythoniaid	britons	0	0	1	0
-ddaearyddiaeth	geography	0	0	1	0
-edwino	decline	0	0	1	0
-alcohol	alcohol	0	0	1	1
-fyddinoedd	armies	0	0	1	0
-gaethweision	slave	0	0	1	0
-nepal	nepal	0	0	1	0
-ddynol	human	0	0	1	0
-umkhonto	umkhonto	0	0	1	0
-cancr	cancer	0	0	1	1
-hill	hill	0	0	1	0
-pwnc	topic	0	0	1	0
-asetig	acetic	0	0	1	0
-get	get	0	0	1	0
-benjamin	benjamin	0	0	1	0
-benjamin	climbers	0	0	1	0
-hepburn	hepburn	0	0	1	0
-dirgryniadau	vibrations	0	0	1	0
-caniatâd	permission	0	0	1	0
-parhaodd	continued	0	0	1	0
-pethaun	pethaun	0	0	1	0
-ffermwr	farmer	0	0	1	0
-hydrin	manageable	0	0	1	0
-gatholig	catholic	0	0	1	0
-oedolyn	adult	0	0	1	1
-tsunamis	tsunamis	0	0	1	0
-gohirio	delayed	0	0	1	0
-gohirio	gelayed	0	0	1	0
-cerddi	poems	0	0	1	0
-deddwyrain	south-east	0	0	1	0
-codwyd	raised	0	0	1	0
-sifiliaid	civilians	0	0	1	0
-gestyll	castles	0	0	1	0
-rhosyn	rose	0	0	1	1
-ffidil	violin	0	0	1	0
-pencerdd	pencerdd	0	0	1	0
-cyfryngau	media	0	0	1	0
-blant	children	0	0	1	0
-frech	rash	0	0	1	0
-coleg	college	0	0	1	1
-coleg	collegue	0	0	1	0
-diflannodd	disappeared	0	0	1	0
-gormod	too	0	0	1	0
-ymyrraeth	intervention	0	0	1	0
-dywediadau	sayings	0	0	1	0
-crossbill	nose	0	0	1	0
-crossbill	crossbill	0	0	1	0
-colombia	colombia	0	0	1	0
-flycatcher	flycatcher	0	0	1	0
-bwriadu	plan	0	0	1	0
-categorimoeseg	category: ethics	0	0	1	0
-categorimoeseg	category ethics	0	0	1	0
-categorimoeseg	categorimoeseg	0	0	1	0
-idris	idris	0	0	1	0
-blanc	blanc	0	0	1	0
-story	story	0	0	1	0
-gyfundrefn	system	0	0	1	0
-orchfygu	overcome	0	0	1	0
-cyfle	opportunity	0	0	1	1
-beibl	bible	0	0	1	1
-stori	story	0	0	1	1
-ddifrodi	damage	0	0	1	0
-storm	storm	0	0	1	1
-gpt	gpt	0	0	1	0
-verdun	verdun	0	0	1	0
-ecuador	ecuador	0	0	1	0
-broses	process	0	0	1	0
-llanfaethlu	llanfaethlu	0	0	1	0
-mynediad	access	0	0	1	1
-llewelyn	llewelyn	0	0	1	0
-fflorens	florence	0	0	1	0
-plygiant	playgiant	1	0	1	0
-plygiant		1	0	1	0
-plygiant	25	1	0	1	0
-plygiant	twenty five	1	0	1	0
-plygiant	refraction	1	1	0	0
-alesia	alesia	0	0	1	0
-king	king	0	0	1	0
-king	brenin	0	0	1	0
-kind	kind	0	0	1	0
-goesgoch	legged	0	0	1	0
-gorfforaeth	corporation	0	0	1	0
-jpickup	jpickup	0	0	1	0
-cyfalaf	capital	0	0	1	1
-dinistr	destruction	0	0	1	1
-gân	by	0	0	1	0
-lloches	seekers	0	0	1	0
-gramadeg	grammar	0	0	1	1
-gyfrinachol	confidential	0	0	1	0
-shrike	shrike	0	0	1	0
-categoriunedau	categoriunedau	0	0	1	0
-galw	demand	0	0	1	0
-treialon	trials	0	0	1	0
-wahaniaethau	differences	0	0	1	0
-etifeddol	hereditary	0	0	1	1
-chipiodd	captured	0	0	1	0
-nghaer	fort	0	0	1	0
-gall	can	0	0	1	0
-fflemeg	flemish	0	0	1	1
-caerwyn	caerwyn	0	0	1	0
-routledge	routledge	0	0	1	0
-wilson	wilson	0	0	1	0
-gwmpas	around	0	0	1	0
-tylluan	owl	0	0	1	1
-bacteria	bacteria	0	0	1	0
-argyfwng	emergency	0	0	1	0
-efo	with	0	0	1	1
-branta	granta	0	0	1	0
-darganfyddiad	discovery	0	0	1	1
-rol	role	0	0	1	0
-etifeddu	inherit	0	0	1	1
-added	added	0	0	1	0
-anwes	pet	0	0	1	0
-crewyd	created	0	0	1	0
-hoff	favorite	0	0	1	1
-helaeth	extensive	0	0	1	1
-amau	suspect	0	0	1	1
-stiwdios	studios	0	0	1	0
-gorffennaf	july	0	0	1	1
-berwbwyntiau	boiling points	0	0	1	0
-lanthanidau	lanthanidau	0	0	1	0
-amonia	amonia	0	0	1	0
-amonia	ammonia	0	0	1	0
-nothing	nothing	0	0	1	0
-lechfaen	slate	0	0	1	0
-dewisodd	chose	0	0	1	0
-sibh	sibh	0	0	1	0
-sianeli	channels	0	0	1	0
-amldduwiaeth	polytheism	0	0	1	1
-madog	madog	0	0	1	0
-windows	windows	0	0	1	0
-chwarae	play	0	0	1	1
-oedd	was	0	0	1	0
-oedd	were	0	0	1	0
-lwyth	load	0	0	1	0
-tebygrwydd	similarity	0	0	1	0
-stones	stones	0	0	1	0
-vinnie	vinnie	0	0	1	0
-mexico	mexico	0	0	1	0
-ddisgrifir	described	0	0	1	0
-kosovo	kosovo	0	0	1	0
-juliana	juliana	0	0	1	0
-dolbadarn	dolbadarn	0	0	1	0
-ddisgrifio	describe	0	0	1	0
-cwpled	couplet	0	0	1	1
-caethwas	slave	0	0	1	1
-categoricredoau	categoricredoau	0	0	1	0
-tinwen	harrier	0	0	1	0
-traul	expense	0	0	1	1
-aethpwyd	were	0	0	1	0
-henfyd	ancient	0	0	1	0
-moses	moses	0	0	1	0
-anawsterau	difficulties	0	0	1	0
-hip	hip	0	0	1	0
-hir	long	0	0	1	1
-his	his	0	0	1	0
-hiv	hiv	0	0	1	0
-enwocaf	most famous	0	0	1	0
-fordaith	cruise	0	0	1	0
-byddain	it would	0	0	1	0
-defnyddid	used	0	0	1	0
-byddair	would	0	0	1	0
-defaid	sheep	0	0	1	0
-cefnogaeth	support	0	0	1	1
-yamuna	yamuna	0	0	1	0
-defnyddio	use	0	0	1	1
-hil	race	0	0	1	1
-him	him	0	0	1	0
-hin	it	0	0	1	0
-hin	hin	0	0	1	0
-moldofa	moldova	0	0	1	0
-dosbarthwyd	distributed	0	0	1	0
-budapest	budapest	0	0	1	0
-tywys	guide	0	0	1	1
-cofalent	covalent	0	0	1	0
-ottomaniaid	ottomaniaid	0	0	1	0
-nickelodeon	nickelodeon	0	0	1	0
-nickelodeon	nickeldeon	0	0	1	0
-gyhoeddi	published	0	0	1	0
-ynddynt	in	0	0	1	0
-tywyn	warren	0	0	1	0
-vincent	vincent	0	0	1	0
-diffwys	diffwys	0	0	1	0
-art	art	0	0	1	0
-bara	bread	0	0	1	1
-barc	barque	1	1	0	0
-arc	arc	0	0	1	1
-are	are	0	0	1	0
-gristnogion	gristnogin	0	0	1	0
-gristnogion	christians	0	0	1	0
-barn	views	0	0	1	0
-swisdir	switzerland	0	0	1	0
-lleithder	moisture	0	0	1	1
-baines	baines	0	0	1	0
-hwngari	hungary	0	0	1	0
-armellog	uncle	1	0	1	0
-armellog	paternal uncle	1	0	1	0
-armellog	armadillo	1	1	0	0
-armellog	armellog	1	0	1	0
-benderfynu	determine	0	0	1	0
-adeilad	building	0	0	1	1
-korea	korea	0	0	1	0
-macsen	maximus	0	0	1	0
-dorlan	bank	0	0	1	0
-york	york	0	0	1	0
-ddiwydiannol	industrial	0	0	1	0
-teyrn	monarch	0	0	1	1
-gwylanod	seagulls	0	0	1	0
-indus	indus	0	0	1	0
-llanbedr	llanbedr	0	0	1	0
-fechan	small	0	0	1	0
-c	c	0	0	1	0
-ffenestr	window	0	0	1	1
-lladdodd	killed	0	0	1	0
-democratiaeth	democracy	0	0	1	1
-license	license	0	0	1	0
-darganfyddiadau	findings	0	0	1	0
-roman	roman	0	0	1	0
-cyfres	series	0	0	1	1
-borth	portal	0	0	1	0
-sweet	sweet	0	0	1	0
-gwyddom	we know	0	0	1	0
-chynhyrchiad	production	0	0	1	0
-gwyddor	science	0	0	1	1
-micronesia	micronesia	0	0	1	0
-stercorarius	stercorarius	0	0	1	0
-fynnu	require	0	0	1	0
-afiechydon	diseases	0	0	1	0
-java	java	0	0	1	0
-swn	noise	0	0	1	0
-bertrand	bertrand	0	0	1	0
-dua	approximately	0	0	1	0
-px	px	0	0	1	0
-buzzard	buzzard	0	0	1	0
-dug	duke	0	0	1	1
-plygu	folding	0	0	1	0
-pc	pc	0	0	1	0
-deich	your	0	0	1	0
-pa	what	0	0	1	0
-pe	if	0	0	1	1
-cwymp	collapse	0	0	1	0
-dur	steel	0	0	1	1
-cyfran	proportion	0	0	1	0
-po	more	0	0	1	0
-duw	god	0	0	1	1
-cyhydeddol	equatorial	0	0	1	0
-chastell	castle	0	0	1	0
-algeria	algeria	0	0	1	0
-dreisgar	violent	0	0	1	0
-barhaol	permanent	0	0	1	0
-categoritrefi	categoritrefi	0	0	1	0
-ffosil	fossil	0	0	1	0
-cyfaddefodd	admitted	0	0	1	0
-priododd	married	0	0	1	0
-priododd	m	0	0	1	0
-dolenni	links	0	0	1	0
-cynefinoedd	habitats	0	0	1	0
-nofelau	novels	0	0	1	0
-celfyddyd	art	0	0	1	1
-georgia	georgia	0	0	1	0
-chwymp	collapse	0	0	1	0
-caniateir	allowed	0	0	1	0
-mpla	plague	0	0	1	0
-theres	theres	0	0	1	0
-waun	health	0	0	1	0
-waun	heath	0	0	1	0
-prydeinwyr	britons	0	0	1	0
-prydeinwyr	prydeinwyr	0	0	1	0
-rix	rix	0	0	1	0
-gwyddoniadur	encylopedia	0	0	1	0
-rio	rio	0	0	1	0
-miloedd	thousands	0	0	1	0
-rif	number	0	0	1	0
-coesau	legs	0	0	1	0
-disgyrchiant	gravitation	1	1	0	1
-disgyrchiant	disgychiant	1	0	1	0
-disgyrchiant	gravity	1	1	1	0
-disgyrchiant	dusgyrchiant	1	0	1	0
-disgyrchiant	admits	1	0	1	0
-disgyrchiant	believe	1	0	1	0
-disgyrchiant	agree	1	0	1	0
-eames	eames	0	0	1	0
-cododd	rose	0	0	1	0
-px|de|bawd|telor	px | de | thumb | warblers	0	0	1	0
-px|de|bawd|telor	pxldelbawdltelor	0	0	1	0
-ddwy	two	0	0	1	0
-viola	viola	0	0	1	0
-peoples	peoples	0	0	1	0
-gwragedd	women	0	0	1	0
-franklin	franklin	0	0	1	0
-rhein	rhine	0	0	1	0
-ddiod	drink	0	0	1	0
-atomau	atoms	0	0	1	0
-eithriadol	exceptional	0	0	1	1
-eithriadol	eithriodol	0	0	1	0
-ieuan	ieuan	0	0	1	0
-gefnogol	supportive	0	0	1	0
-catref	home	0	0	1	0
-cynghrair	alliance	0	0	1	1
-driphlyg	triple	0	0	1	0
-know	know	0	0	1	0
-ddatgan	state	0	0	1	0
-raddau	extent	0	0	1	0
-gomiwnyddiaeth	communism	0	0	1	0
-ddechreuodd	started	0	0	1	0
-prince	prince	0	0	1	0
-gweithred	action	0	0	1	1
-gyrion	edge	0	0	1	0
-dosbarthiadau	classes	0	0	1	0
-ma	ma	0	0	1	0
-gwyddorau	sciences	0	0	1	0
-chubut	chubut	0	0	1	0
-dyfeisydd	achieve	0	0	1	0
-dyfeisydd	inventor	0	0	1	0
-meicrosgôp	sketch / profile	1	0	1	0
-meicrosgôp	microscope	1	1	0	0
-meicrosgôp	bibliography	1	0	1	0
-meicrosgôp	sketch	1	0	1	0
-ddyfnach	deeper	0	0	1	0
-ceffylau	horses	0	0	1	0
-cristionogol	christian	0	0	1	0
-catalan	catalan	0	0	1	0
-paganiaid	pagans	0	0	1	0
-rhif	no	0	0	1	0
-gwryw	male	0	0	1	1
-modifications	modifications	0	0	1	0
-cawl	soup	0	0	1	1
-cawn	we	0	0	1	0
-avatars	avatars	0	0	1	0
-fydd	will	0	0	1	0
-arthur	arthur	0	0	1	0
-tirgaeedig	landlocked	0	0	1	0
-datganiadau	statements	0	0	1	0
-caws	cheese	0	0	1	1
-cawr	giant	0	0	1	1
-meddyg	doctor	0	0	1	1
-moscfa	moscow	0	0	1	0
-triongl	triangle	1	1	1	1
-triongl	treacle	1	0	1	0
-triongl	medical	1	0	1	0
-triongl	daughter	1	0	1	0
-triongl	physics	1	0	1	0
-triongl	traingle	1	1	0	0
-astudior	astudior	0	0	1	0
-troseddau	crime	0	0	1	0
-drindod	trinity	0	0	1	0
-ffaryncs	pharynx	0	0	1	0
-medi	september	0	0	1	1
-cinerea	cinerea	0	0	1	0
-prop	prop	0	0	1	0
-medr	meters	0	0	1	0
-lesbiaidd	lesbian	0	0	1	0
-tafod	tongue	0	0	1	1
-pantycelyn	pantycelyn	0	0	1	0
-anne	anne	0	0	1	0
-meinweoedd	tissues	0	0	1	0
-ddefnyddiodd	used	0	0	1	0
-weir	weir	0	0	1	0
-maghreb	maghreb	0	0	1	0
-nuevo	nuevo	0	0	1	0
-dderbyn	receive	0	0	1	0
-pasiwyd	passed	0	0	1	0
-ddillad	clothing	0	0	1	0
-gwrogaeth	homage	0	0	1	1
-ysgol	school	0	0	1	1
-gyhoeddwyd	published	0	0	1	0
-fersiynau	versions	0	0	1	0
-dro	time	0	0	1	0
-braich	arm	0	0	1	1
-most	most	0	0	1	0
-ddiwylliant	culture	0	0	1	0
-hanfodol	essential	0	0	1	1
-tonnau	waves	0	0	1	0
-redeg	run	0	0	1	0
-paralel	parallel	0	0	1	0
-wanna	wanna	0	0	1	0
-chwaraeon	sports	0	0	1	0
-gymry	welshmen	0	0	1	0
-linell	line	0	0	1	0
-helvetica	helvetica	0	0	1	0
-ydyr	ydyr	0	0	1	0
-ydyr	is	0	0	1	0
-johns	johns	0	0	1	0
-ydyw	it	0	0	1	0
-gymro	welsh speaker	0	0	1	0
-ymosodiadaur	attacks	0	0	1	0
-ymosodiadaur	ymosodiadaur	0	0	1	0
-ydym	we	0	0	1	0
-ydyn	are	0	0	1	0
-gyhoeddus	public	0	0	1	0
-amlgellog	multicellular	0	0	1	0
-cyrhaeddodd	reached	0	0	1	0
-madagascar	madagascar	0	0	1	0
-dringwr	climber	0	0	1	1
-gwledydd	countries	0	0	1	0
-warchod	protect	0	0	1	0
-xpx	xpx	0	0	1	0
-faso	faso	0	0	1	0
-hinsoddol	climatic	0	0	1	1
-chwyldro	revolution	0	0	1	0
-sections	sections	0	0	1	0
-dywodfaen	sandstone	0	0	1	0
-mountains	mountains	0	0	1	0
-dalaith	province	0	0	1	0
-ystwyth	agile	0	0	1	0
-gefnogwyd	supported	0	0	1	0
-delta	delta	0	0	1	0
-gefnogwyr	supporters	0	0	1	0
-crane	crane	0	0	1	0
-cytundebau	agreements	0	0	1	0
-nuremberg	nuremberg	0	0	1	0
-hagia	hagia	0	0	1	0
-verrocchio	verrocchio	0	0	1	0
-dychwelyd	return	0	0	1	1
-braster	fat	0	0	1	1
-etholaethau	constituencies	0	0	1	0
-today	today	0	0	1	0
-guyana	guyana	0	0	1	0
-z	z	0	0	1	0
-called	hard	0	0	1	0
-called	called	0	0	1	0
-bawd|px|y	the thumb px	0	0	1	0
-bawd|px|y	thumb! px! the	0	0	1	0
-porthmadog	porthmadog	0	0	1	0
-ymddangos	emerge	0	0	1	0
-ymddangos	appear	0	0	1	0
-hunanlywodraethol	autonomous	0	0	1	0
-gerdd	poem	0	0	1	0
-firws	virus	1	1	1	0
-firws	leaders	1	0	1	0
-firws	rich	1	0	1	0
-firws	rich person	1	0	1	0
-sebastan	sebastan	0	0	1	0
-ffosydd	trenches	0	0	1	0
-chwareli	quarries	0	0	1	0
-chwareli	qurries	0	0	1	0
-actores	actress	0	0	1	1
-rhyfela	warfare	0	0	1	0
-graham	graham	0	0	1	0
-deulur	deulur	0	0	1	0
-anorganig	inorganic	0	0	1	0
-peach	peach	0	0	1	0
-aipac	aipac	0	0	1	0
-hanes	history	0	0	1	1
-rhywiol	sexual	0	0	1	1
-qomolangma	qomolanga	0	0	1	0
-qomolangma	qomolangma	0	0	1	0
-gwynt	wind	0	0	1	1
-moca	coca	0	0	1	0
-diogel	safe	0	0	1	1
-moch	pigs	0	0	1	0
-nice	nice	0	0	1	0
-fedru	can	0	0	1	0
-gwenallt	gwenallt	0	0	1	0
-dall	blind	0	0	1	1
-gosodwyd	set	0	0	1	0
-athen	athens	0	0	1	1
-porthaethwy	menai bridge	0	0	1	0
-dalu	pay	0	0	1	0
-wylwyr	viewers	0	0	1	0
-gytundebau	agreements	0	0	1	0
-ddarganfuwyd	found	0	0	1	0
-gwfen	gwfen	0	0	1	0
-ffydd	faith	0	0	1	1
-cryno	summary	0	0	1	0
-dewisir	selected	0	0	1	0
-mannau	places	0	0	1	0
-gwasg	press	0	0	1	1
-teth	nipple	0	0	1	0
-nasa	nasa	0	0	1	0
-thames	thames	0	0	1	0
-nash	nash	0	0	1	0
-ddenu	attract	0	0	1	0
-buffalo	buffalo	0	0	1	0
-castellnedd	neath	0	0	1	0
-aeleg	gaelic	0	0	1	0
-uned	unit	0	0	1	1
-edd	ity	0	0	1	0
-ganu	singing	0	0	1	0
-reolaeth	control	0	0	1	0
-pysgodyn	fish	0	0	1	1
-rhuban	ribbon	0	0	1	0
-gynradd	primary	0	0	1	0
-gewch	you	0	0	1	0
-steve	steve	0	0	1	0
-jimi	jimi	0	0	1	0
-amddiffyniad	defense	0	0	1	1
-dymheredd	temperature	0	0	1	0
-protestwyr	protesters	0	0	1	0
-norwy	norway	0	0	1	0
-simon	simon	0	0	1	0
-mamwledydd	homelands	0	0	1	0
-cygnus	cygnus	0	0	1	0
-eukaryota	eukaryota	0	0	1	0
-kazakstan	kazakhstan	0	0	1	0
-languages	languages	0	0	1	0
-anghytundeb	disagreement	0	0	1	1
-arlywydd	prices	1	0	1	0
-arlywydd	president	1	1	1	1
-arlywydd	price	1	0	1	0
-ddosbarthiad	ddsobarthaid	0	0	1	0
-ddosbarthiad	distribution	0	0	1	0
-gyfran	all	0	0	1	0
-gyfran	proportion	0	0	1	0
-hinsoddaur	hinsoddaur	0	0	1	0
-stormpetrel	stormpetrel	0	0	1	0
-stormpetrel	stormpetral	0	0	1	0
-gini	guinea	0	0	1	0
-foleciwlaidd	molecular	0	0	1	0
-ging	ging	0	0	1	0
-coraciiformes	coraciiformes	0	0	1	0
-llwyddiannau	successes	0	0	1	0
-âr	on	0	0	1	0
-seryddiaeth	astronomy	0	0	1	1
-prokofiev	prokofiev	0	0	1	0
-duffy	duffy	0	0	1	0
-cymryd	take	0	0	1	1
-caeth	strict	0	0	1	0
-parrywilliams	parry williams	0	0	1	0
-parrywilliams	parry-williams	0	0	1	0
-boicotio	boycott	0	0	1	0
-beryglus	dangerous	0	0	1	0
-glawr	cover	0	0	1	0
-byfflo	buffalo	0	0	1	0
-rwsia	russia russian anthem	0	0	1	0
-julius	jjulius	0	0	1	0
-cap	cap	0	0	1	1
-fodoli	exist	0	0	1	0
-wersi	lessons	0	0	1	0
-ymatebodd	responded	0	0	1	0
-ciconiaid	ciconiaid	0	0	1	0
-categorigwybodaeth	category: information	0	0	1	0
-categorigwybodaeth	categorigwybodaeth	0	0	1	0
-datblygiad	development	0	0	1	1
-ochr	side	0	0	1	1
-meysydd	areas	0	0	1	0
-esgyrnog	bony	0	0	1	0
-acid	acid	0	0	1	0
-llifogydd	flood	0	0	1	0
-ganolfannau	centers	0	0	1	0
-theodore	theodore	0	0	1	0
-goddrych	subject	0	0	1	1
-carthago	carthage	0	0	1	0
-ganolog	central	0	0	1	0
-disgrifiodd	described	0	0	1	0
-ymhellach	further	0	0	1	1
-ystyrir	considered	0	0	1	0
-mwslemaidd	muslim	0	0	1	0
-straen	stress	0	0	1	0
-gred	belief	0	0	1	0
-adfywiad	regeneration	0	0	1	0
-biodaearyddiaeth	biogeography	1	1	0	0
-biodaearyddiaeth	biodaearyffiaeth	1	0	1	0
-biodaearyddiaeth	poverty	1	0	1	0
-biodaearyddiaeth	poorness	1	0	1	0
-biodaearyddiaeth	pauper	1	0	1	0
-gydymerawdwr	co-emperor	0	0	1	0
-gydymerawdwr	gydymerawdwr	0	0	1	0
-geirdarddiad	etymology	0	0	1	0
-iesu	jesus	0	0	1	1
-rhybudd	notice	0	0	1	1
-pencadlysoedd	headquarters	0	0	1	0
-llanddwyn	llanddwyn	0	0	1	0
-nghwpan	cup	0	0	1	0
-tannau	strings	0	0	1	0
-fellyn	razor	0	0	1	0
-fflint	flint	0	0	1	1
-fflint	fflint	0	0	1	0
-thembu	thembu	0	0	1	0
-fiola	viola	0	0	1	0
-oriau	hours	0	0	1	0
-oriau	hours of	0	0	1	0
-fodau	beings	0	0	1	0
-gwenoliaid	swallows	0	0	1	0
-chynnal	maintenance	0	0	1	0
-hofrenyddion	helicopters	0	0	1	0
-bruxelles	bruxelles	0	0	1	0
-gyfansoddiad	composition	0	0	1	0
-chyhoeddwyd	published	0	0	1	0
-apple	apple	0	0	1	0
-px|	px |	0	0	1	0
-masnachu	trading	0	0	1	0
-newyddiaduraeth	journalism	0	0	1	0
-hardd	beautiful	0	0	1	1
-timor	timor	0	0	1	0
-ohonynt	them	0	0	1	0
-ffrigad	frigates	0	0	1	0
-dadansoddi	analysis	0	0	1	0
-genhedlaeth	generation	0	0	1	0
-peintio	painting	0	0	1	0
-from	from	0	0	1	0
-gilydd	time	0	0	1	0
-fel	as	0	0	1	0
-cill	bill	0	0	1	0
-fei	light	0	0	1	0
-creol	creol	0	0	1	0
-phosibl	possible	0	0	1	0
-feu	feu	0	0	1	0
-fer	short	0	0	1	0
-gynrychiolir	represented	0	0	1	0
-gynrychiolir	gynrychiolior	0	0	1	0
-gormodiaith		1	0	1	0
-gormodiaith	portuguese	1	0	1	0
-gormodiaith	portagal	1	0	1	0
-gormodiaith	exaggeration	1	0	1	1
-gormodiaith	hyperbole	1	1	0	1
-ffagan	fagans	0	0	1	0
-ffrynt	front	0	0	1	0
-fasnach	trade	0	0	1	0
-columba	columba	0	0	1	0
-gymdeithas	society	0	0	1	0
-shostakovich	shostakovich	0	0	1	0
-tiriogaethaur	tiriogaethaur	0	0	1	0
-lannaur	banks	0	0	1	0
-lannaur	lannaur	0	0	1	0
-lannaur	sharing	0	0	1	0
-gwrando	listen	0	0	1	1
-dorri	cut	0	0	1	0
-copog	tufted	0	0	1	0
-medru	can	0	0	1	0
-difyrweithiau	difyrweithiau	0	0	1	0
-gwared	remove	0	0	1	0
-grisons	cycling	0	0	1	0
-grisons	prisons	0	0	1	0
-hua	hua	0	0	1	0
-datrys	resolution	0	0	1	0
-annog	encourage	0	0	1	0
-cysgodion	shadows	0	0	1	0
-taw	vat	0	0	1	0
-bleidiau	parties	0	0	1	0
-cynhesu	warming	0	0	1	0
-tad	father	0	0	1	1
-taf	taff	0	0	1	0
-raniadau	partitions	0	0	1	0
-drofannol	tropical	0	0	1	0
-hysbysebion	ads	0	0	1	0
-tai	housing	0	0	1	0
-golofn	column	0	0	1	0
-dwr	water	0	0	1	0
-sir	county	0	0	1	1
-sir	sir	0	0	1	0
-united	united	0	0	1	0
-gallu	can	0	0	1	0
-waelod	bottom	0	0	1	0
-dwy	two	0	0	1	0
-strwythuriaethol	strwythuriaethol	0	0	1	0
-belffast	belfast	0	0	1	0
-brian	brian	0	0	1	0
-dwf	growth	0	0	1	0
-dwi	i	0	0	1	0
-sin	sine	0	0	1	0
-sin	sin	0	0	1	0
-sil	sill	0	0	1	0
-sil	sil	0	0	1	0
-ehangu	expansion	0	0	1	0
-dramor	abroad	0	0	1	0
-seiniau	sounds	0	0	1	0
-llychlyn	scandinavia	0	0	1	0
-papurau	papers	0	0	1	0
-ethnig	ethnic	0	0	1	0
-dwristiaid	tourists	0	0	1	0
-hannibyniaeth	independence	0	0	1	0
-neopaganism	neopanism	0	0	1	0
-neopaganism	neopagnism	0	0	1	0
-neopaganism	neo-paganism	0	0	1	0
-ranbarthol	regional	0	0	1	0
-bodau	beings	0	0	1	0
-phriodas	marriage	0	0	1	0
-injans	engines	0	0	1	0
-chwmpas	scope	0	0	1	0
-mudo	migration	0	0	1	0
-gyfnewid	exchange	0	0	1	0
-rhwystro	prevent	0	0	1	1
-amerig	america	0	0	1	0
-losgi	burning	0	0	1	0
-wawr	dawn	0	0	1	0
-ystorfa	repository	0	0	1	0
-arcadius	arcadius	0	0	1	0
-cyfansoddyn	compound	0	0	1	0
-achlysurol	casual	0	0	1	0
-looks	books	0	0	1	0
-elis	elis	0	0	1	0
-byw	live	0	0	1	1
-wobrau	awards	0	0	1	0
-sydd	which	0	0	1	0
-antonius	antonius	0	0	1	0
-llyw	helm	0	0	1	1
-tyler	tyler	0	0	1	0
-llys	court	0	0	1	1
-llyr	llyr	0	0	1	0
-orange	orange	0	0	1	0
-ddim	not	0	0	1	0
-camlesi	canals	0	0	1	0
-ganddynt	they	0	0	1	0
-ngogleddddwyrain	ngogleddddwyrain	0	0	1	0
-ngogleddddwyrain	north-east	0	0	1	0
-wolfgang	wolfgang	0	0	1	0
-material	material	0	0	1	0
-flew	hair	0	0	1	0
-flew	flew	0	0	1	0
-hynaf	oldest	0	0	1	1
-alltud	exile	0	0	1	1
-dderbyniol	acceptable	0	0	1	0
-haen	layer	0	0	1	1
-steffan	steffan	0	0	1	0
-proses	process	0	0	1	0
-cynulleidfa	audience	0	0	1	1
-belled	far	0	0	1	0
-ddogfen	document	0	0	1	0
-vepamerikan	vepamerikan	0	0	1	0
-vepamerikan	vepimerikan	0	0	1	0
-enwr	name will	0	0	1	0
-tran	tran	0	0	1	0
-enwi	name	0	0	1	1
-hebog	falcon	0	0	1	1
-trar	rar	0	0	1	0
-dyfodd	grew	0	0	1	0
-cylchrediad	sensitive	0	0	1	0
-cylchrediad	circulation	0	0	1	1
-gallent	they	0	0	1	0
-gambriaidd	cambrian	0	0	1	0
-gwerddonau	gwerddonau	0	0	1	0
-hong	hong	0	0	1	0
-penypass	penypass	0	0	1	0
-chwarennau	glands	0	0	1	0
-danciau	tanks	0	0	1	0
-our	our	0	0	1	0
-gwrywaidd	male	0	0	1	0
-buasai	would	0	0	1	0
-semen	semen	0	0	1	0
-tabloid	tabloid	0	0	1	0
-metelau	metals	0	0	1	0
-ystyrid	considered	0	0	1	0
-ystyrid	consideration	0	0	1	0
-capten	captain	0	0	1	1
-laddodd	killed	0	0	1	0
-categori	category	0	0	1	0
-ddysgir	taught	0	0	1	0
-gyfangwbl	entirely	0	0	1	0
-weinidog	minister	0	0	1	0
-veneris	veneris	0	0	1	0
-ddathlur	celebrate the	0	0	1	0
-drydan	electricity	0	0	1	0
-chymru	wales	0	0	1	0
-commentarii	commentarii	0	0	1	0
-dictionary	ize	0	0	1	0
-dictionary	dictionary	0	0	1	0
-alcenau	alkenes	0	0	1	0
-neuchâtel	neuchatel	0	0	1	0
-neuchâtel	neuchâtel	0	0	1	0
-merthyr	martyr	1	1	1	1
-fienna	vienna	0	0	1	0
-dych	do	0	0	1	0
-gafael	access	0	0	1	0
-bering	bering	0	0	1	0
-pendant	pendent	0	0	1	0
-pendant	definite	0	0	1	1
-imiwnedd	immunity	0	0	1	0
-philip	philip	0	0	1	0
-cylchdroi	rotation	0	0	1	0
-rhod	wheel	0	0	1	1
-organig	organic	0	0	1	0
-fwslemiaid	muslims	0	0	1	0
-llythyron	letters	0	0	1	0
-nwyon	gas	0	0	1	0
-g	g	0	0	1	0
-amedr	ammeter	1	1	0	0
-kernow	kernow	0	0	1	0
-digonedd	abundance	0	0	1	1
-dylanwadu	influence	0	0	1	1
-dywydd	weather	0	0	1	0
-cain	fine	0	0	1	1
-cerddorwyr	musicians	0	0	1	0
-isbn	isbn	0	0	1	0
-cwmni	company	0	0	1	1
-aelwyd	household	0	0	1	0
-fehefin	june	0	0	1	0
-alcanau	alkanes	0	0	1	0
-cyfnodau	periods	0	0	1	0
-niferoedd	numbers	0	0	1	0
-cigydd	butcher	0	0	1	1
-galles	galles	0	0	1	0
-siap	shape	0	0	1	0
-their	their	0	0	1	0
-hynafiaid	ancestors	0	0	1	0
-cwningod	rabbits	0	0	1	0
-sian	sian	0	0	1	0
-cynnig	offer	0	0	1	1
-unfath	identical	0	0	1	0
-rhaglennu	programming	0	0	1	0
-mantais	advantage	0	0	1	1
-asgwrncefn	asgwrncefn	0	0	1	0
-rhaglenni	programs	0	0	1	0
-academi	academy	0	0	1	1
-gweilch	ospreys	0	0	1	0
-cyfyngu	constrain	0	0	1	0
-cyfyngu	limit	0	0	1	1
-defodau	rituals	0	0	1	0
-holland	holland	0	0	1	0
-sef	a	0	0	1	0
-trefn	order	0	0	1	1
-trefi	towns	0	0	1	0
-hirgrwn	oval	0	0	1	0
-lucius	lucius	0	0	1	0
-lucius	lucious	0	0	1	0
-anffodus	unfortunately	0	0	1	0
-gwyddelig	irish	0	0	1	1
-gwyddelig	gwyddeling	0	0	1	0
-leslie	leslie	0	0	1	0
-dwyrain	east	0	0	1	0
-alwyd	called	0	0	1	0
-shilpa	shilpa	0	0	1	0
-pwerau	powers	0	0	1	0
-canolbwynt	focus	0	0	1	0
-teleffon	telephone	0	0	1	0
-hy	ie	0	0	1	0
-bellter	distance	0	0	1	0
-chwaraeir	played	0	0	1	0
-gorkys	gorkys	0	0	1	0
-malwr	crusher	0	0	1	0
-catholig	catholic	0	0	1	1
-rywle	somewhere	0	0	1	0
-categoritechnoleg	catagory: technology	0	0	1	0
-categoritechnoleg	technology category	0	0	1	0
-bron	almost	0	0	1	1
-gysawd	system	0	0	1	0
-chwech	six	0	0	1	1
-gair	word	0	0	1	1
-gytundeb	agreement	0	0	1	0
-=	=	0	0	1	0
-bibracte	bibracte	0	0	1	0
-petrol	petrol	0	0	1	0
-who	sy'n	0	0	1	0
-planhigion	plants	0	0	1	0
-mynachlog	monastery	0	0	1	1
-gwrthododd	he refused	0	0	1	0
-gwasanaeth	service	0	0	1	1
-llythrennau	letters	0	0	1	0
-sbectrwm	spectrum	0	0	1	0
-ddarparu	provide	0	0	1	0
-gynhenid	inherent	0	0	1	0
-fiet	vietnam	0	0	1	0
-denu	attract	0	0	1	1
-traddodiadau	traditions	0	0	1	0
-michel	michel	0	0	1	0
-movie	movie	0	0	1	0
-hn	older	0	0	1	0
-deng	ten	0	0	1	1
-son	mention	0	0	1	0
-feysydd	areas	0	0	1	0
-adroddiadau	reports	0	0	1	0
-siôn	sion	0	0	1	0
-please	please	0	0	1	0
-darlun	picture	0	0	1	1
-sylwadau	comments	0	0	1	0
-hiaith	language	0	0	1	0
-dorothy	dorothy	0	0	1	0
-siôr	george	0	0	1	0
-gefnogi	support	0	0	1	0
-protestaniaeth	protestantism	0	0	1	0
-noethlymunwyr	nudists	0	0	1	0
-categoricristnogaeth	categoricristnogaeth	0	0	1	0
-categoricristnogaeth	category christianity	0	0	1	0
-sylffwr	sulfur	0	0	1	0
-burundi	burundi	0	0	1	0
-lleolwyd	located	0	0	1	0
-rufeinig	roman	0	0	1	0
-diorseddwyd	deposed	0	0	1	0
-piano	piano	0	0	1	1
-moel	bare	0	0	1	1
-cuba	cuba	0	0	1	0
-berfformio	perform	0	0	1	0
-rhengoedd	ranks	0	0	1	0
-adeiladu	construction	0	0	1	0
-presley	presley	0	0	1	0
-gobaith	hope	0	0	1	1
-fyddyn	army	0	0	1	0
-geltaidd	celtic	0	0	1	0
-ymdrin	deal	0	0	1	0
-fywydau	lives	0	0	1	0
-titus	titus	0	0	1	0
-amcangyfrif	estimate	0	0	1	0
-rhoi	give	0	0	1	1
-gogwydd	bias	0	0	1	1
-mona	mona	0	0	1	0
-wenwynig	toxic	0	0	1	0
-europe	europe	0	0	1	0
-requirement	requirement	0	0	1	0
-ddysgeidiaeth	teachings	0	0	1	0
-wyneb	al-nehr	1	0	1	0
-wyneb	wyneb	1	0	1	0
-wyneb	surface	1	1	1	1
-wyneb	face	1	1	0	1
-tubal	tubal	0	0	1	0
-fnla	nla	0	0	1	0
-kurrentschrift	kurrentschrift	0	0	1	0
-kurrentschrift	kurentschrift	0	0	1	0
-pherthynas	relationship	0	0	1	0
-gronfa	fund	0	0	1	0
-león	leon	0	0	1	0
-guildhall	guildhall	0	0	1	0
-arferiadau	uses	0	0	1	0
-tanwydd	fuel	0	0	1	1
-pensaerniaeth	architecture	0	0	1	1
-drefedigaeth	colony	0	0	1	0
-brotonau	protons	0	0	1	0
-dwyfol	divine	0	0	1	1
-pegwn	pole	0	0	1	1
-ymddangosiad	wyddangosiad	0	0	1	0
-ymddangosiad	appearance	0	0	1	0
-straeon	stories	0	0	1	0
-efaill	twin	0	0	1	0
-efaill	pony	0	0	1	0
-mapiau	maps	0	0	1	0
-cyfansoddion	compounds	0	0	1	0
-cysyniadau	conceptualisation	0	0	1	0
-cysyniadau	concepts	0	0	1	0
-dystiolaeth	evidence	0	0	1	0
-joe	joe	0	0	1	0
-arlywyddol	presidential	0	0	1	0
-swift	swift	0	0	1	0
-arni	it	0	0	1	0
-jon	jon	0	0	1	0
-dineilltuol	dineilltuol	0	0	1	0
-dillad	clothing	0	0	1	1
-sgoteg	scots	0	0	1	0
-gwladgarol	patriotic	0	0	1	1
-flynyddoedd	years	0	0	1	0
-antonio	antonio	0	0	1	0
-bronx	bronx	0	0	1	0
-gyfeiriad	address	0	0	1	0
-sieloau	sieloau	0	0	1	0
-sicrhau	ensure	0	0	1	0
-graig	rock	0	0	1	0
-fecsico	mexico	0	0	1	0
-cunningham	cunningham	0	0	1	0
-tebyg	similar	0	0	1	1
-belisarius	belisarius	0	0	1	0
-tunisia	tunisia	0	0	1	0
-ynglŷn	about	0	0	1	0
-cynhaeaf	harvest	0	0	1	1
-walk	walk	0	0	1	0
-walt	walt	0	0	1	0
-dyma	this	0	0	1	0
-teigr	tiger	0	0	1	1
-lymff	lymph	0	0	1	0
-lleihaodd	reduced	0	0	1	0
-hindu	hindu	0	0	1	0
-protestannaidd	protestant	0	0	1	1
-bbc	bbc	0	0	1	0
-grazie	grazie	0	0	1	0
-hindi	hindi	0	0	1	0
-engraifft	example	0	0	1	0
-ebill	auger	0	0	1	1
-croatiaid	croatians	0	0	1	0
-isopleth	isopleth	0	0	1	0
-héireann	heireann	0	0	1	0
-héireann	hèireann	0	0	1	0
-mike	mike	0	0	1	0
-liverpool	maintained	0	0	1	0
-liverpool	liverpool	0	0	1	0
-weithiau	sometimes	0	0	1	1
-hms	insert	0	0	1	0
-hms	inset	0	0	1	0
-jades	jades	0	0	1	0
-ryddid	freedom	0	0	1	0
-gymwys	apply	0	0	1	0
-conrad	conrad	0	0	1	0
-cyfanrwydd	integrity	0	0	1	0
-gorfodwyd	forced	0	0	1	0
-casglu	collection	0	0	1	0
-ffuglen	fiction	0	0	1	0
-bawd|logo	thumb | logo	0	0	1	0
-bawd|logo	thumb logo	0	0	1	0
-antigua	antigua	0	0	1	0
-gyfansoddion	compounds	0	0	1	0
-~	~	0	0	1	0
-non	non	0	0	1	0
-gwarchae	siege	0	0	1	1
-ynydiad	ynydiad	0	0	1	0
-ydywr	ydywr	0	0	1	0
-planhigyn	plant	0	0	1	1
-thua	about	0	0	1	0
-berfau	verbs	0	0	1	0
-pwmpior	pwmpior	0	0	1	0
-ysgrifenedig	written	0	0	1	1
-unita	unita	0	0	1	0
-cyhoeddiadau	publications	0	0	1	0
-amheuaeth	doubt	0	0	1	1
-heddychlon	peaceful	0	0	1	1
-heddychlon	paeceful	0	0	1	0
-daith	tour	0	0	1	0
-gets	gets	0	0	1	0
-diego	diego	0	0	1	0
-allforio	export	0	0	1	1
-addurno	decorating	0	0	1	0
-romeo	romeo	0	0	1	0
-llyfrau	books	0	0	1	0
-whale	whale	0	0	1	0
-canolbarth	mid	0	0	1	0
-mochyn	pig	1	1	1	1
-celtic	celtic	0	0	1	0
-braf	nice	0	0	1	0
-thraddodiadau	traditions	0	0	1	0
-feiol	feiol	0	0	1	0
-gramadegau	grammars	0	0	1	0
-utrecht	utrecht	0	0	1	0
-english	english	0	0	1	0
-grenadines	grenadines	0	0	1	0
-grenadines	grenadians	0	0	1	0
-acrocephalus	acrocephalus	0	0	1	0
-rocket	rocket	0	0	1	0
-camel	camel	0	0	1	1
-anferth	massive	0	0	1	0
-sefydlogi	stabilize	0	0	1	0
-amdani	it	0	0	1	0
-cynyddol	increasing	0	0	1	1
-wres	heat	0	0	1	0
-categorihindŵaeth	category hinduism	0	0	1	0
-categorihindŵaeth	categorihindwaeth	0	0	1	0
-categoriwicipedia	category:wikipedia	0	0	1	0
-categoriwicipedia	categoriwicipedia	0	0	1	0
-ddarganfod	found	0	0	1	0
-galiaid	gauls	0	0	1	0
-phentrefi	villages	0	0	1	0
-bell	distance	0	0	1	0
-smith	smith	0	0	1	0
-turdus	turdus	0	0	1	0
-gystadlu	compete	0	0	1	0
-gystadlu	complete	0	0	1	0
-reswm	reason	0	0	1	0
-gwyachod	grebes	0	0	1	0
-guto	guy	0	0	1	0
-ffigyrau	figures	0	0	1	0
-rhyngddisgyblaethol	interdisciplinary	0	0	1	0
-ühtenzoittud	uhtenzoittud	0	0	1	0
-leol	local	0	0	1	0
-cewri	giants	0	0	1	0
-safonol	standard	0	0	1	1
-jonesparry	jonesparry	0	0	1	0
-ychwanegwyd	added	0	0	1	0
-adlewyrchur	adlewyrchur	0	0	1	0
-cyfandirol	continental	0	0	1	1
-press	press	0	0	1	0
-bontydd	bridges	0	0	1	0
-chwedlau	legends	0	0	1	0
-awstria	austria	0	0	1	1
-defnyddiol	useful	0	0	1	1
-politicaidd	political	0	0	1	0
-iberia	iberia	0	0	1	0
-georges	georges	0	0	1	0
-abse	abse	0	0	1	0
-carnedd	cairn	0	0	1	1
-fenthyg	loan	0	0	1	0
-paleolithig	palaeolithic	0	0	1	0
-cristatus	cristatus	0	0	1	0
-celloedd	cells	0	0	1	0
-ddeg	ten	0	0	1	0
-arnhem	arnhem	0	0	1	0
-teimladau	feelings	0	0	1	0
-gweriniaeth	republic	0	0	1	1
-because	lesley	0	0	1	0
-sefydlwyr	founders	0	0	1	0
-meles	meles	0	0	1	0
-cyfarfur	cyfarfur	0	0	1	0
-perfformio	performing	0	0	1	0
-thactegau	tactics	0	0	1	0
-perfformir	performed	0	0	1	0
-empire	empire	0	0	1	0
-turtur	turtle dove	0	0	1	0
-turtur	turtur	0	0	1	0
-björk	björk	0	0	1	0
-casachstan	kazakhstan	0	0	1	0
-protestio	protest	0	0	1	0
-moleciwlaidd	molecular	0	0	1	0
-dipyn	deal	0	0	1	0
-chaiff	is	0	0	1	0
-ymreolaethol	autonomous	0	0	1	0
-morgrugyn	ant	0	0	1	1
-hormonau	hormones	0	0	1	0
-brønstedlowry	brønstedlowry	0	0	1	0
-brønstedlowry	bronstedlowry	0	0	1	0
-gweithredu	action	0	0	1	0
-thebyg	probably	0	0	1	0
-categoriy	categoriy	0	0	1	0
-catrin	catrin	0	0	1	0
-werth	value	0	0	1	0
-gwthio	push	0	0	1	1
-strategaeth	strategy	0	0	1	0
-poeth	hot	0	0	1	1
-ddringo	climb	0	0	1	0
-pencadlys	headquarters	0	0	1	1
-cheir	there	0	0	1	0
-gorynys	peninsula	0	0	1	1
-lefydd	places	0	0	1	0
-fear	fear	0	0	1	0
-fwriad	intent	0	0	1	0
-phwynt	points	0	0	1	0
-gyflymach	faster	0	0	1	0
-throi	turn	0	0	1	0
-lleoedd	places	0	0	1	0
-golygfa	view	0	0	1	1
-warranty	warranty	0	0	1	0
-owl	owl	0	0	1	0
-safleodd	sites	0	0	1	0
-cysylltiad	connection	0	0	1	1
-egni	energy	0	0	1	1
-gynllunio	planning	0	0	1	0
-newydddinas	newydddinas	0	0	1	0
-newydddinas	newcity	0	0	1	0
-van	van	0	0	1	0
-cristnogaeth	christianity	0	0	1	1
-dwythell	duct	0	0	1	0
-fynydd	mountain	0	0	1	0
-ohonyn	them	0	0	1	0
-gafodd	was	0	0	1	0
-gafodd	gaffod	0	0	1	0
-vas	vas	0	0	1	0
-gorrach	dwarf	0	0	1	0
-shane	shane	0	0	1	0
-serbiaid	serbs	0	0	1	0
-testunau	texts	0	0	1	0
-bawd|px|map	thumb | px | map	0	0	1	0
-bawd|px|map	map thumb	0	0	1	0
-diwethaf	last	0	0	1	1
-llosgfynydd	volcano	0	0	1	1
-bradley	bradley	0	0	1	0
-made	made	0	0	1	0
-record	record	0	0	1	1
-below	canlynol	0	0	1	0
-ddaeth	came	0	0	1	0
-lefelau	levels	0	0	1	0
-teml	temple	0	0	1	1
-arno	it	0	0	1	0
-iddo	it	0	0	1	0
-enedigaeth	birth	0	0	1	0
-pyreneau	pyrenees	0	0	1	0
-ailagorodd	reopened	0	0	1	0
-dyfnaf	deepest	0	0	1	0
-year	month	0	0	1	0
-nodyn	note	0	0	1	1
-hydrocsid	hydroxide	0	0	1	0
-gofio	given the	0	0	1	0
-rhyddhau	release	0	0	1	1
-anghenion	needs	0	0	1	0
-myd	world	0	0	1	0
-squirrel	squirrel	0	0	1	0
-parhaus	continuous	0	0	1	0
-sicr	certainly	0	0	1	0
-dwbl	double	0	0	1	1
-arabica	arabica	0	0	1	0
-book	book	0	0	1	0
-parhaun	parhaun	0	0	1	0
-er	for	0	0	1	1
-aberaeron	aberaeron	0	0	1	0
-cadwr	keep the	0	0	1	0
-gweithgareddau	activities	0	0	1	0
-grewyd	created	0	0	1	0
-ieithyddol	linguistic	0	0	1	1
-wleidyddol	political	0	0	1	0
-categoribeirdd	category: poets	0	0	1	0
-categoribeirdd	published	0	0	1	0
-wicilyfrau	wicilyfrau	0	0	1	0
-margaret	margaret	0	0	1	0
-gwlt	cult	0	0	1	0
-gwlt	twit	0	0	1	0
-fyddai	would	0	0	1	0
-tan	to	0	0	1	1
-cliff	cliff	0	0	1	0
-colofn	column	0	0	1	1
-cadeirydd	chair	0	0	1	0
-bolifia	bolivia	0	0	1	0
-tomos	tomos	0	0	1	0
-categorieconomeg	categorieconomeg	0	0	1	0
-wyllt	wild	0	0	1	0
-melayu	melayu	0	0	1	0
+normanaidd	norman	0	0	1	0	0
+enwebiad	nomination	0	0	1	1	1
+bawd|px|delwedd	thumb|px|image	0	0	1	0	0
+bawd|px|delwedd	thumb | px | image	0	0	1	0	0
+yellow	melyn	0	0	1	0	0
+yellow	yellow	0	0	1	0	0
+four	four	0	0	1	0	0
+rhyfelgyrch	rhyfelgyrch	0	0	1	0	1
+fawr	large	0	0	1	0	0
+cherrig	stones	0	0	1	0	0
+rheolau	rules	0	0	1	0	0
+casnewydd	newport	0	0	1	0	1
+radiws	radius	0	0	1	0	0
+partneriaeth	partnership	0	0	1	0	0
+erthyglau	articles	0	0	1	0	0
+agorodd	opened	0	0	1	0	0
+hunain	own	0	0	1	0	0
+achoswyd	caused	0	0	1	0	0
+dynodi	designation	0	0	1	0	1
+gostyngodd	decreased	0	0	1	0	0
+fodern	modern	0	0	1	0	0
+twneli	tunnels	0	0	1	0	0
+polypeptid	polypeptide	0	0	1	0	0
+werin	folk	0	0	1	0	0
+troseddol	criminal	0	0	1	0	0
+nofio	swimming	0	0	1	0	1
+fforio	exploration	0	0	1	0	1
+elgar	elgar	0	0	1	0	0
+fisoedd	months	0	0	1	0	0
+breizh	breizh	0	0	1	0	0
+caryl	caryl	0	0	1	0	0
+henffordd	hereford	0	0	1	1	1
+ymhlith	among	0	0	1	0	1
+thrace	thrace	0	0	1	0	0
+miller	miller	0	0	1	0	0
+serennodd	starred	0	0	1	0	0
+frederick	frederick	0	0	1	0	0
+ffos	ditch	0	0	1	1	1
+firaol	viral	0	0	1	0	0
+ngherddoriaeth	music	0	0	1	0	0
+carfan	cohort	0	0	1	0	1
+ffoi	flee	0	0	1	1	1
+ysbrydion	ghosts	0	0	1	0	0
+ymerodraethau	empires	0	0	1	0	0
+gyfoeth	wealth	0	0	1	0	0
+cyprus	cyprus	0	0	1	0	0
+macrinus	macrinus	0	0	1	0	0
+mwynhau	enjoy	0	0	1	1	1
+dduwdod	divinity	0	0	1	0	0
+hunaniaeth	identity	0	0	1	1	1
+newydd	new	0	0	1	1	1
+ongl	angle	0	0	1	1	1
+ateb	answer	0	0	1	1	1
+here	here	0	0	1	0	0
+fun	fun	0	0	1	0	0
+offerynnau	instruments	0	0	1	0	0
+nawr	now	0	0	1	1	1
+naws	tone	0	0	1	0	1
+naws	naws	0	0	1	0	1
+cipiodd	captured	0	0	1	0	0
+adennill	recovery	0	0	1	0	0
+iarll	earl	0	0	1	1	1
+sefyll	stand	0	0	1	1	1
+k	k	0	0	1	0	0
+eastenders	eastenders	0	0	1	0	0
+robin	robin	0	0	1	0	1
+anghyfreithlon	illegal	0	0	1	1	1
+gwreiddiau	roots	0	0	1	0	1
+bronfraith	thrush	0	0	1	1	1
+golden	golden	0	0	1	0	0
+gyfaill	friend	0	0	1	0	0
+carl	carl	0	0	1	0	0
+categorigeiriau	categorigeiriau	0	0	1	0	0
+weithwyr	employees	0	0	1	0	0
+unig	only	0	0	1	1	1
+gyfarfod	meeting	0	0	1	0	0
+hamas	hamas	0	0	1	0	0
+laeth	milk	0	0	1	0	0
+laeth	neath	0	0	1	0	0
+miliynau	millions	0	0	1	0	0
+dryw	wren	0	0	1	1	1
+ffeithlyfr	ffeithlyfr	0	0	1	0	0
+ddiwedd	end	0	0	1	0	0
+graddfa	scale	0	0	1	1	1
+wraidd	heart	0	0	1	0	0
+dna	dna	0	0	1	0	0
+ymddiswyddodd	resigned	0	0	1	0	0
+aur	gold	0	0	1	1	1
+music	music	0	0	1	0	0
+telegraph	telegraph	0	0	1	0	0
+amhosibl	impossible	0	0	1	1	1
+diroedd	lands	0	0	1	0	0
+pileri	pillars	0	0	1	0	0
+cadoediad	ceasefire	0	0	1	0	1
+cadoediad	cease fire	0	0	1	0	1
+ganwyd	born	0	0	1	0	0
+hurt	ridiculous	0	0	1	0	1
+rhufeinig	roman	0	0	1	1	1
+hoddinott	hoddinott	0	0	1	0	0
+holl	all	0	0	1	1	1
+nôl	back	0	0	1	0	0
+llychlynwyr	vikings	0	0	1	0	0
+lord	lord	0	0	1	0	0
+ganwyr	singers	0	0	1	0	0
+ymchwilio	investigate	0	0	1	0	0
+nôd	goal	0	0	1	0	0
+mamaliaid	mammals	0	0	1	0	0
+dyngarol	humanitarian	0	0	1	0	0
+cymrun	cymrun	0	0	1	0	0
+leddfu	ease	0	0	1	0	0
+enedigol	born	0	0	1	0	0
+cymrur	cymrur	0	0	1	0	0
+driniaeth	treatment	0	0	1	0	0
+goleudy	january	1	0	1	0	1
+goleudy	lighthouse	1	1	0	1	1
+albatrosiaid	albatrosses	0	0	1	0	0
+want	want	0	0	1	0	0
+bwysigrwydd	importance	0	0	1	0	0
+haarlem	haarlem	0	0	1	0	0
+gyfreithiol	legal	0	0	1	0	0
+ffylwm	phylum	0	0	1	0	0
+hon	this	0	0	1	1	1
+safbwynt	prespective	0	0	1	0	1
+safbwynt	perspective	0	0	1	0	1
+caffein	caffeine	0	0	1	0	0
+ewch	visit	0	0	1	0	0
+how	sut	0	0	1	0	0
+hot	hot	0	0	1	0	0
+offerynau	instruments	0	0	1	0	0
+baltaidd	baltaidd	0	0	1	0	0
+hop	hop	0	0	1	0	0
+deuatomig	diatomic	0	0	1	0	0
+weriniaeth	republic	0	0	1	0	0
+wheatear	wheatear	0	0	1	0	0
+wheatear	wheather	0	0	1	0	0
+beauty	beauty	0	0	1	0	0
+gwersi	lessons	0	0	1	0	0
+diagram	diagram	0	0	1	0	0
+henebion	monuments	0	0	1	0	0
+moesol	moral	0	0	1	1	1
+gwmniau	companies	0	0	1	0	0
+llyfr	book	0	0	1	1	1
+llyfr	llufr	0	0	1	0	1
+px|bawd|castell	px|thumb|castle	0	0	1	0	0
+px|bawd|castell	pxlbawdlcastell	0	0	1	0	0
+px|bawd|castell	px | thumb | castle	0	0	1	0	0
+gronfeydd	funds	0	0	1	0	0
+types	types	0	0	1	0	0
+codiad	rise	0	0	1	1	1
+galwyd	called	0	0	1	0	0
+helsinki	helsinki	0	0	1	0	0
+ho+	ho +	0	0	1	0	0
+pŵer	power	0	0	1	0	0
+categoricyfryngau	media category	0	0	1	0	0
+categoricyfryngau	categoricfryngau	0	0	1	0	0
+categoricyfryngau	category media	0	0	1	0	0
+wind	wind	0	0	1	0	0
+cernyw	cornwall	0	0	1	1	1
+sylfaenydd	founder	0	0	1	1	1
+ariannol	financial	0	0	1	1	1
+baratoi	prepare	0	0	1	0	0
+ddynoliaeth	humanity	0	0	1	0	0
+bwyta	eating	0	0	1	0	1
+fis	month	0	0	1	0	0
+iwerddon	ireland	0	0	1	1	1
+fit	fit	0	0	1	0	0
+diddymwyd	abolished	0	0	1	0	0
+pilipinas	philippines	0	0	1	0	0
+gwythïen	vein	0	0	1	0	0
+wales	wales	0	0	1	0	0
+gronynnau	particles	0	0	1	0	0
+lawysgrif	manuscript	0	0	1	0	0
+ffurfiodd	formed	0	0	1	0	0
+datgelodd	revealed	0	0	1	0	0
+fil	thousand	0	0	1	0	0
+gaethiwed	captivity	0	0	1	0	0
+ddiweddar	recently	0	0	1	0	0
+ymarferwyr	practitioners	0	0	1	0	0
+lolfa	lounge	0	0	1	0	0
+morgannwg	glamorgan	0	0	1	1	1
+slate	slate	0	0	1	0	0
+octavianus	octavianus	0	0	1	0	0
+gyfartal	equal	0	0	1	0	0
+enrico	enrico	0	0	1	0	0
+liwcemia	leukemia	0	0	1	0	0
+brwselprifddinas	brwselprifddinas	0	0	1	0	0
+helpur	help the	0	0	1	0	0
+helpur	help  the	0	0	1	0	0
+chyfeiriad	address	0	0	1	0	0
+llên	curtain	0	0	1	0	0
+llên	literature	0	0	1	0	0
+ddiweddarach	later	0	0	1	0	0
+categoriffiseg	categoriffiseg	0	0	1	0	0
+categoriffiseg	category:physics	0	0	1	0	0
+leucoptera	leucoptera	0	0	1	0	0
+felan	blues	0	0	1	0	0
+gwmnïau	companies	0	0	1	0	0
+lillian	lillian	0	0	1	0	0
+gylchredol	circulatory	0	0	1	0	0
+ysgrifennur	ysgrifennur	0	0	1	0	0
+unhrc	unhrc	0	0	1	0	0
+cadwedig	preserved	0	0	1	0	1
+gwych	great	0	0	1	0	1
+tewdwr	tewdwr	0	0	1	0	0
+fflatiau	flats	0	0	1	0	0
+angola	angola	0	0	1	0	0
+trosedd	crime	0	0	1	1	1
+organeb	organism	0	0	1	0	0
+portreadir	portrayed	0	0	1	0	0
+allah	allah	0	0	1	0	0
+allan	out	0	0	1	1	1
+gynhwysfawr	comprehensive	0	0	1	0	0
+camwy	chubut	0	0	1	0	0
+truman	truman	0	0	1	0	0
+damwain	accident	0	0	1	1	1
+germaniwm	germanium	1	1	0	0	0
+germaniwm	augston	1	0	1	0	0
+meddygon	doctors	0	0	1	0	0
+meddygol	medical	0	0	1	1	1
+eidalaidd	italian	0	0	1	0	0
+ynydiadau	ynydiadau	0	0	1	0	0
+dadleuol	controversial	0	0	1	1	1
+sgil	from	0	0	1	0	0
+rb	r&b	0	0	1	0	0
+rb	rb	0	0	1	0	0
+ymgorfforwyd	incorporated	0	0	1	0	0
+rh	w	0	0	1	0	0
+drysau	doors	0	0	1	0	1
+gwersylloedd	camps	0	0	1	0	0
+foundation	foundation	0	0	1	0	0
+gristionogol	christian	0	0	1	0	0
+canolog	central	0	0	1	1	1
+given	given	0	0	1	0	0
+buffay	buffay	0	0	1	0	0
+gothig	gothic	0	0	1	0	0
+cadarnhau	confirmed	0	0	1	0	1
+ffonau	phones	0	0	1	0	0
+llanfihangel	llanfihangel	0	0	1	0	0
+district	district	0	0	1	0	0
+ato	it	0	0	1	0	0
+moment	moment	0	0	1	1	1
+ati	etc.	0	0	1	0	0
+silicon	silicon	0	0	1	0	0
+ddilynol	subsequent	0	0	1	0	0
+ddelio	deal	0	0	1	0	0
+ffrwythlon	fertile	0	0	1	1	1
+dawns	dance	0	0	1	1	1
+thracia	thrace	0	0	1	0	0
+gwaith	work	0	0	1	1	1
+aggregate	aggregrate	0	0	1	0	0
+lyfrau	books	0	0	1	0	0
+diffeithwch	wilderness	0	0	1	1	1
+niger	niger	0	0	1	0	0
+wasg	press	0	0	1	0	0
+ffederasiwn	federation	0	0	1	0	0
+gellid	could	0	0	1	0	0
+gwirionedd	actually	0	0	1	0	1
+panthera	slater	0	0	1	0	0
+panthera	panthera	0	0	1	0	0
+service	gwasanaeth	0	0	1	0	0
+dynnu	remove	0	0	1	0	0
+cyfunrywioldeb	homosexuality	0	0	1	0	0
+xii	xii	0	0	1	0	0
+argymhellion	recommendations	0	0	1	0	0
+tango	tango	0	0	1	0	0
+disodlwyd	replaced	0	0	1	0	0
+listed	listed	0	0	1	0	0
+categorigweriniaethau	categorigweriniaethau	0	0	1	0	0
+gellir	can	0	0	1	0	0
+trosi	conversion	0	0	1	0	1
+ardaloedd	areas	0	0	1	0	0
+gilbert	gilbert	0	0	1	0	0
+glyn	glen	0	0	1	1	1
+glyn	glyn	0	0	1	0	1
+genesis	genesis	0	0	1	0	0
+gymunedau	communities	0	0	1	0	0
+disgynodd	fell	0	0	1	0	0
+llewod	lions	0	0	1	0	0
+llwyfandir	plateau	0	0	1	0	0
+sulawesi	sulawesi	0	0	1	0	0
+ahmed	ahmed	0	0	1	0	0
+bwysig	pound	0	0	1	0	0
+bwysig	important	0	0	1	0	0
+tree	tree	0	0	1	0	0
+tref	town	0	0	1	1	1
+project	project	0	0	1	0	0
+honedig	alleged	0	0	1	1	1
+hadrian	hadrian	0	0	1	0	0
+periw	peru	0	0	1	0	0
+trer	brer	0	0	1	0	0
+streptopelia	streptopelia	0	0	1	0	0
+dringwyr	dringwry	0	0	1	0	0
+dringwyr	climbers	0	0	1	0	0
+sofraniaeth	sovereignty	0	0	1	0	0
+wybodaeth	information	0	0	1	0	0
+boston	boston	0	0	1	0	0
+ymraniad	split	0	0	1	0	1
+cymdeithasol	social	0	0	1	1	1
+zetajones	zetajones	0	0	1	0	0
+aethant	ceased	0	0	1	0	0
+aethant	they	0	0	1	0	0
+addasu	adapt	0	0	1	1	1
+mhencampwriaeth	championship	0	0	1	0	0
+gerddorfa	orchestra	0	0	1	0	0
+ddysgur	teach the	0	0	1	0	0
+hymen	hymen	0	0	1	0	0
+responsible	responsible	0	0	1	0	0
+responsible	cyfrifol	0	0	1	0	0
+cynrychiolwyr	representatives	0	0	1	0	0
+plygain	plygain	0	0	1	0	1
+huganod	gannets	0	0	1	0	0
+mabwysiadu	adoption	0	0	1	0	1
+fwdhaeth	buddhism	0	0	1	0	0
+nyddiau	days	0	0	1	0	0
+beichiogrwydd	pregnancy	0	0	1	0	0
+bodorgan	bodorgan	0	0	1	0	0
+anffyddwyr	atheists	0	0	1	0	0
+wells	wells	0	0	1	0	0
+ffrwydro	explode	0	0	1	1	1
+gorchfygur	gorchfygur	0	0	1	0	0
+wiwer	squirrel	0	0	1	0	0
+heintiadau	infections	0	0	1	0	0
+pleser	pleasure	0	0	1	1	1
+wella	improve	0	0	1	0	0
+catharus	catharus	0	0	1	0	0
+sarhaus	offensive	0	0	1	0	0
+singer	singer	0	0	1	0	0
+siaradwyr	speakers	0	0	1	0	0
+mihangel	michal	0	0	1	0	1
+mihangel	michael	0	0	1	1	1
+professor	professor	0	0	1	0	0
+europaeus	europaeus	0	0	1	0	0
+siaradwyd	spoken	0	0	1	0	0
+ffwrdd	off	0	0	1	0	1
+thunder	thunder	0	0	1	0	0
+gododdin	gododdin	0	0	1	0	0
+gyfandirol	continental	0	0	1	0	0
+scream	scream	0	0	1	0	0
+llywydd	president	0	0	1	1	1
+carneddau	cairns	0	0	1	0	0
+prin	rare	0	0	1	1	1
+prysur	busy	0	0	1	1	1
+ynghanol	the middle	0	0	1	0	1
+bonnie	bonnie	0	0	1	0	0
+prif	main	0	0	1	0	1
+culdir	isthmus	0	0	1	0	0
+ddadlau	argue	0	0	1	0	0
+gwenithfaen	date	1	0	1	0	1
+gwenithfaen	granite	1	1	1	1	1
+gwenithfaen	dates	1	0	1	0	1
+categoritirffurfiau	categoritirffurfiau	0	0	1	0	0
+ddwyreinol	east	0	0	1	0	0
+cynnes	warm	0	0	1	1	1
+aelodaeth	membership	0	0	1	1	1
+isblisgyn	sub-shell	0	0	1	0	0
+isblisgyn	isblisgyn	0	0	1	0	0
+gallai	could	0	0	1	0	0
+rico	rico	0	0	1	0	0
+bush	bush	0	0	1	0	0
+crëwyd	was created	0	0	1	0	0
+crëwyd	created	0	0	1	0	0
+ffrithiant	friction	0	0	1	0	0
+thema	theme	0	0	1	1	1
+elusen	charity	0	0	1	0	1
+rice	rice	0	0	1	0	0
+capel	chapel	0	0	1	1	1
+rica	rica	0	0	1	0	0
+agorwyd	opened	0	0	1	0	0
+plata	plata	0	0	1	0	0
+ceid	there was	0	0	1	0	0
+fforest	forest	0	0	1	1	1
+ceir	there	0	0	1	0	1
+arthuraidd	arthurian	0	0	1	0	0
+new	new	0	0	1	0	0
+caribi	caribbean	0	0	1	0	0
+croesir	crossed	0	0	1	0	0
+cytunodd	agreed	0	0	1	0	0
+gallia	gallia	0	0	1	0	0
+raddol	gradually	0	0	1	0	0
+seremonïol	ceremonial	0	0	1	0	0
+rhyddhawyd	released	0	0	1	0	0
+gaer	fort	0	0	1	0	0
+chariad	love	0	0	1	0	0
+drigai	resident	0	0	1	0	0
+ddiogel	safe	0	0	1	0	0
+blew	hair	0	0	1	0	1
+rhanbarthol	regional	0	0	1	0	0
+fair	fair	0	0	1	0	0
+cnewyllyn	kernel	0	0	1	1	1
+gaeleg	gaelic	0	0	1	1	1
+amddiffynwr	defender	0	0	1	0	0
+amddiffynwr	microscope	0	0	1	0	0
+news	news	0	0	1	0	0
+eangdiroedd	land masses	0	0	1	0	0
+best	best	0	0	1	0	0
+oceania	oceania	0	0	1	0	0
+ddilynwyr	followers	0	0	1	0	0
+wikipedia	wilipedia	0	0	1	0	0
+wikipedia	wikipedia	0	0	1	0	0
+copyleft	copyleft	0	0	1	0	0
+patrymau	patterns	0	0	1	0	0
+argraff	impression	0	0	1	1	1
+dyfnder	depth	0	0	1	1	1
+acropolis	acropolis	0	0	1	0	0
+glasgow	glasgow	0	0	1	0	0
+preserve	preserve	0	0	1	0	0
+never	never	0	0	1	0	0
+nature	nature	0	0	1	0	0
+chodi	raising	0	0	1	0	0
+ddisgrifior	describes	0	0	1	0	0
+clwyf	wound	0	0	1	1	1
+clwyd	gate	0	0	1	1	1
+gwyn	white	0	0	1	1	1
+gwyn	theft	0	0	1	0	1
+carbon	carbon	0	0	1	0	0
+caribî	caribbean	0	0	1	0	0
+normandi	normandy	0	0	1	0	0
+owain	owain	0	0	1	0	1
+country	country	0	0	1	0	0
+unedau	units	0	0	1	0	0
+edgar	edgar	0	0	1	0	0
+dorf	crowd	0	0	1	0	0
+ysgrifennydd	secretary	0	0	1	1	1
+cyfagos	neighboring	0	0	1	1	1
+penderfynu	decide	0	0	1	0	1
+goedwig	forest	0	0	1	0	0
+arwyneb	surface	0	0	1	1	1
+siaradodd	spoke	0	0	1	0	0
+nghymru	wales	0	0	1	0	0
+penderfyna	decides	0	0	1	0	0
+ffin	boundary	0	0	1	1	1
+basque	basque	0	0	1	0	0
+blonde	blonde	0	0	1	0	0
+enwebwyd	nominated	0	0	1	0	0
+difa	destruction	0	0	1	0	1
+lân	up	0	0	1	0	0
+lân	clean	0	0	1	0	0
+peldroed	football	0	0	1	1	1
+union	exactly	0	0	1	0	1
+fri	distinguished	0	0	1	0	0
+fro	area	0	0	1	0	0
+aristotlys	aristotle	0	0	1	0	0
+cofnodir	recorded	0	0	1	0	0
+argraffiadau	impressions	0	0	1	0	0
+bawd|map	bawdmap	0	0	1	0	0
+bawd|map	thumb | map	0	0	1	0	0
+bawd|map	thumb	0	0	1	0	0
+life	life	0	0	1	0	0
+regum	begum	0	0	1	0	0
+eastern	eastern	0	0	1	0	0
+kwazulu	kwazulu	0	0	1	0	0
+irving	irving	0	0	1	0	0
+dave	dave	0	0	1	0	0
+amodau	conditions	0	0	1	0	0
+amgueddfa	museum	0	0	1	1	1
+chile	chile	0	0	1	0	0
+awst	august	0	0	1	1	1
+chill	chill	0	0	1	0	0
+nghaerfyrddin	nghaerfyrddin	0	0	1	0	0
+nghaerfyrddin	carmarthen	0	0	1	0	0
+mywyd	life	0	0	1	0	0
+castro	castro	0	0	1	0	0
+viii	viii	0	0	1	0	0
+oman	oman	0	0	1	0	0
+siapaneg	japanese	0	0	1	0	0
+unor	onur	0	0	1	0	0
+ddadl	debate	0	0	1	0	0
+gwareiddiad	civilization	0	0	1	1	1
+folcanig	volcanic	0	0	1	0	0
+llundain	london	0	0	1	1	1
+nofel	novel	0	0	1	1	1
+chwys	perspiration	1	1	0	1	1
+chwys	all	1	0	1	0	1
+chwys	sara	1	0	1	0	1
+chwys	sweat	1	1	0	1	1
+chwys	guide	1	0	1	0	1
+unol	line	0	0	1	0	1
+unol	accordance	0	0	1	0	1
+preswylio	resident	0	0	1	0	1
+preswylio	residence	0	0	1	0	1
+prifysgol	university	0	0	1	1	1
+fwyta	eat	0	0	1	0	0
+dechnoleg	technology	0	0	1	0	0
+lansiwyd	launched	0	0	1	0	0
+heddiwn	today	0	0	1	0	0
+heddiwn	heddiwn	0	0	1	0	0
+dringodd	climbed	0	0	1	0	0
+ymosodiadau	attacks	0	0	1	0	0
+dewiniaeth	witchcraft	0	0	1	1	1
+big	beak	0	0	1	0	0
+european	european	0	0	1	0	0
+voyager	voyager	0	0	1	0	0
+seicoleg	psychology	0	0	1	1	1
+allodd	unable to	0	0	1	0	0
+galon	heart	0	0	1	0	0
+categoriymlusgiaid	categoriymlusgiaid	0	0	1	0	0
+gofnodi	record	0	0	1	0	0
+sadwrn	saturday	0	0	1	0	1
+josef	allegation	0	0	1	0	0
+gydran	component	0	0	1	0	0
+slovenia	slovenia	0	0	1	0	0
+rhoddir	is	0	0	1	0	0
+lucas	lucas	0	0	1	0	0
+lucas	lucasq	0	0	1	0	0
+gyhoeddodd	published	0	0	1	0	0
+cyfeirir	referred	0	0	1	0	0
+ansawdd	quality	0	0	1	1	1
+academic	academic	0	0	1	0	0
+datblygiadau	developments	0	0	1	0	0
+cychod	boats	0	0	1	0	1
+cyfeiria	refers	0	0	1	0	0
+arwyddocâd	significance	0	0	1	0	0
+dechreuodd	began	0	0	1	0	0
+mantell	mantle	0	0	1	1	1
+distribute	distribute	0	0	1	0	0
+moonwalk	moonwalk	0	0	1	0	0
+djibouti	djibouti	0	0	1	0	0
+malta	malta	0	0	1	0	0
+cyfartalog	average	0	0	1	0	0
+nifer	number	0	0	1	0	0
+previous	previous	0	0	1	0	0
+alun	alun	0	0	1	0	0
+percoladur	percoladur	0	0	1	0	0
+gaiff	will	0	0	1	0	0
+rhagfyr	december	0	0	1	1	1
+electromagnetedd	electromagnetism	0	0	1	0	0
+mewnwladol	domestic	0	0	1	0	0
+gallinago	gallinago	0	0	1	0	0
+haf	summer	0	0	1	1	1
+macdonald	macdonald	0	0	1	0	0
+ffynnon	spring	0	0	1	1	1
+restrir	listed	0	0	1	0	0
+gyfreithiau	laws	0	0	1	0	0
+wikimedia	wikimedia	0	0	1	0	0
+east	east	0	0	1	0	0
+east	translate from: english east	0	0	1	0	0
+lwch	dust	0	0	1	0	0
+drafferth	trouble	0	0	1	0	0
+sudetenland	sudetenland	0	0	1	0	0
+osman	osman	0	0	1	0	0
+rhagweld	predict	0	0	1	0	1
+rhagweld	forecasting	0	0	1	0	1
+trafferthion	difficulties	0	0	1	0	0
+weddol	fairly	0	0	1	0	0
+penmon	penmon	0	0	1	0	0
+telor	warbler	0	0	1	0	0
+blackheaded	blackheaded	0	0	1	0	0
+bobby	bobby	0	0	1	0	0
+resymau	reasons	0	0	1	0	0
+cochrane	cochrane	0	0	1	0	0
+harbwr	harbor	0	0	1	1	1
+hwnt	beyond	0	0	1	1	1
+ddibynnol	dependent	0	0	1	0	0
+gadw	keep	0	0	1	0	0
+yerevan	yerevan	0	0	1	0	0
+siwgr	side	1	0	1	0	1
+siwgr	sugar	1	1	1	1	1
+luniau	pictures	0	0	1	0	0
+old	old	0	0	1	0	0
+newyddiadurwyr	journalists	0	0	1	0	0
+people	people	0	0	1	0	0
+categorigenedigaethau	categorigenedigaethau	0	0	1	0	0
+categorigenedigaethau	category:births	0	0	1	0	0
+dedications	dedication	0	0	1	0	0
+dedications	dedications	0	0	1	0	0
+triniaeth	treatment	0	0	1	1	1
+ariannin	argentina	0	0	1	0	0
+loeren	satellite	0	0	1	0	0
+traddodiad	tradition	0	0	1	1	1
+billboard	billboard	0	0	1	0	0
+amddiffynfeydd	defenses	0	0	1	0	0
+cynigiodd	offered	0	0	1	0	0
+cynigiodd	proposed	0	0	1	0	0
+jespersen	jespersen	0	0	1	0	0
+for	for	0	0	1	0	0
+fforestydd	forests	0	0	1	0	0
+draenog	pronounced	1	0	1	0	1
+draenog	sang	1	0	1	0	1
+draenog	hedgehog	1	0	1	1	1
+draenog	erinaceidae	1	1	0	0	1
+draenog	hedhehog	1	0	1	0	1
+draenog	preach	1	0	1	0	1
+rheolwyr	managers	0	0	1	0	0
+fod	that	0	0	1	0	0
+fom	bomb	0	0	1	0	0
+fon	it	0	0	1	0	0
+hanfod	essentially	0	0	1	0	1
+europaea	europaea	0	0	1	0	0
+bwysaur	bwysaur	0	0	1	0	0
+bwysaur	weight	0	0	1	0	0
+ymhen	within	0	0	1	1	1
+byzantium	byzantium	0	0	1	0	0
+ddilynodd	followed	0	0	1	0	0
+mathemateg	mathematics	0	0	1	1	1
+strwythurau	strwthurau	0	0	1	0	0
+strwythurau	structures	0	0	1	0	0
+lliwiau	lliwiau	0	0	1	0	0
+lliwiau	colors	0	0	1	0	0
+lliwiau	buoys	0	0	1	0	0
+cynan	cynan	0	0	1	0	0
+yoko	yoko	0	0	1	0	0
+fentrigl	ventricle	0	0	1	0	0
+categoripobl	categoripobl	0	0	1	0	0
+gwrthwynebu	object	0	0	1	0	1
+orgraff	orthography	0	0	1	1	1
+o	of	0	0	1	0	1
+amddiffynnol	protective	0	0	1	0	0
+diddordeb	interest	0	0	1	1	1
+adeg	time	0	0	1	1	1
+branwen	branwen	0	0	1	0	0
+eich	your	0	0	1	1	1
+cyfeiriadur	directory	0	0	1	0	0
+wral	ural	0	0	1	0	0
+caspia	caspian	0	0	1	0	0
+marshall	marshall	0	0	1	0	0
+cyfrif	account	0	0	1	1	1
+sol	sol	0	0	1	0	1
+gweithgaredd	activity	0	0	1	1	1
+frig	top	0	0	1	0	0
+metabolig	metabolic	0	0	1	0	0
+sou	sou	0	0	1	0	0
+oson	ozone	0	0	1	0	0
+mangor	bangor	0	0	1	0	0
+cychwynodd	started	0	0	1	0	0
+osod	osad	0	0	1	0	0
+osod	set	0	0	1	0	0
+tyfun	comprehensive	0	0	1	0	0
+presenoldeb	presenoldrb	0	0	1	0	1
+presenoldeb	presence	0	0	1	1	1
+rhywbryd	sometime	0	0	1	1	1
+gyfraith	law	0	0	1	0	0
+maes	field	0	0	1	1	1
+categoriactorion	categoriactorion	0	0	1	0	0
+joseph	joseph	0	0	1	0	0
+tsiecoslofacia	czechoslovakia	0	0	1	0	0
+obaith	hope	0	0	1	0	0
+obaith	obiath	0	0	1	0	0
+jane	jane	0	0	1	0	0
+parryjones	parryjones	0	0	1	0	0
+hallt	salty	0	0	1	1	1
+waith	work	0	0	1	0	0
+offer	equipment	0	0	1	0	0
+darlledwyd	broadcast	0	0	1	0	0
+glasurol	classical	0	0	1	0	0
+verde	verde	0	0	1	0	0
+ymchwil	research	0	0	1	1	1
+ddaeargryn	earthquake	0	0	1	0	0
+gynigiwyd	proposed	0	0	1	0	0
+swdan	sudan	0	0	1	0	0
+filwr	soldier	0	0	1	0	0
+crëyr	heron	0	0	1	0	0
+trenau	trains	0	0	1	0	0
+ddod	come	0	0	1	0	0
+gerllawr	close	0	0	1	0	0
+gerllawr	gerllawr	0	0	1	0	0
+bywgraffiad	biography	0	0	1	1	1
+bywgraffiad	bywgraffid	0	0	1	0	1
+llosgnwy	firedamp	0	0	1	0	0
+hinsawdd	climate	0	0	1	1	1
+cylchoedd	cycles	0	0	1	0	0
+melan	melan	0	0	1	0	1
+fân	here	0	0	1	0	0
+recordiad	recording	0	0	1	0	0
+awdurdod	authority	0	0	1	1	1
+materion	issues	0	0	1	0	0
+ceisiadau	applications	0	0	1	0	0
+actor	actor	0	0	1	1	1
+daeareg	geology	0	0	1	1	1
+curiad	beat	0	0	1	1	1
+recordiau	records	0	0	1	0	0
+recordiau	record	0	0	1	0	0
+republic	republic	0	0	1	0	0
+jenkins	katherine	0	0	1	0	0
+rspb	rspb	0	0	1	0	0
+roll	roll	0	0	1	0	0
+llosgi	burning	0	0	1	0	1
+gwbl	all	0	0	1	0	0
+quinnell	quinnell	0	0	1	0	0
+afalau	apples	0	0	1	0	0
+tlawd	poor	0	0	1	1	1
+normaniaid	norman	0	0	1	0	0
+fflandrys	flanders	0	0	1	1	1
+palma	palma	0	0	1	0	0
+dywedwyd	were	0	0	1	0	0
+allfudo	emigration	0	0	1	0	0
+rolling	rolling	0	0	1	0	0
+categoritermau	categoritermau	0	0	1	0	0
+isgyfandir	subcontinent	0	0	1	0	0
+canllawiau	guidelines	0	0	1	0	0
+morfil	whale	0	0	1	1	1
+greigiau	rocks	0	0	1	0	0
+bioleg	biology	0	0	1	1	1
+categorianatomeg	categoriantomeg	0	0	1	0	0
+categorianatomeg	categorianatomeg	0	0	1	0	0
+time	amser	0	0	1	0	0
+iâr	chicken	0	0	1	0	0
+nghanada	canada	0	0	1	0	0
+gylchgrawn	magazine	0	0	1	0	0
+detholiad	selection	0	0	1	1	1
+ballet	ballet	0	0	1	0	0
+rhostio	roasted	0	0	1	0	1
+cyfalafol	capital	0	0	1	0	0
+anghydffurfiol	conformist	0	0	1	0	1
+jarman	jarman	0	0	1	0	0
+brân	bran	0	0	1	0	0
+dienyddiwyd	executed	0	0	1	0	0
+rhag	from	0	0	1	1	1
+goffi	coffee	0	0	1	0	0
+agoriad	opening	0	0	1	1	1
+fenywaidd	female	0	0	1	0	0
+rhan	part	0	0	1	1	1
+rhai	some	0	0	1	1	1
+goffa	memorial	0	0	1	0	0
+afiechyd	disease	0	0	1	1	1
+cymylau	clouds	0	0	1	0	1
+choice	dewis	0	0	1	0	0
+bodedern	bodedern	0	0	1	0	0
+catalonia	catalonia	0	0	1	0	0
+groth	uterus	0	0	1	0	0
+categoricyfrifiaduro	categoricyfrifiaduro	0	0	1	0	0
+llythyren	letter	0	0	1	1	1
+gwladwriaethau	states	0	0	1	0	0
+teal	teal	0	0	1	0	0
+gafwyd	obtained	0	0	1	0	0
+ffiniau	boundaries	0	0	1	0	0
+chroicocephalus	chroicocephalus	0	0	1	0	0
+droin	fatal	0	0	1	0	0
+dwfn	deep	0	0	1	1	1
+telford	telford	0	0	1	0	0
+llwybr	path	0	0	1	1	1
+erotig	erotic	0	0	1	0	0
+ardal	area	0	0	1	0	1
+llangristiolus	llangristiolus	0	0	1	0	0
+defodol	ritual	0	0	1	0	1
+gadoediad	ceasefire	0	0	1	0	0
+chwarelwr	quarryman	0	0	1	1	1
+annalen	annalen	0	0	1	0	0
+dywedir	said	0	0	1	0	0
+chwithdde	chwithdde	0	0	1	0	0
+ydd	rd	0	0	1	0	0
+gwefusau	lips	0	0	1	0	0
+awtistiaeth	name of a planet	1	0	1	0	0
+awtistiaeth	urenus	1	0	1	0	0
+awtistiaeth	autism	1	1	0	0	0
+awtistiaeth	uranus	1	0	1	0	0
+darllediadau	darllediaudau	0	0	1	0	0
+darllediadau	coverage	0	0	1	0	0
+galilea	galilee	0	0	1	0	0
+ydy	is	0	0	1	0	0
+jure	jure	0	0	1	0	0
+ydw	i	0	0	1	0	0
+ydw	ywd	0	0	1	0	0
+llanelli	llanelli	0	0	1	0	0
+jura	jura	0	0	1	0	0
+unedig	unified	0	0	1	0	1
+neville	neville	0	0	1	0	0
+enydaidd	instantaneous	0	0	1	0	0
+bu	was	0	0	1	0	0
+cassius	cassius	0	0	1	0	0
+commonly	commonly	0	0	1	0	0
+dynol	human	0	0	1	1	1
+ebost	email	0	0	1	0	0
+mesurir	measured	0	0	1	0	0
+sawl	several	0	0	1	0	1
+niwcliotid	nucleotide	0	0	1	0	0
+categorihylifau	categorihylifau	0	0	1	0	0
+diwydiant	industry	0	0	1	1	1
+deorllewin	south west	0	0	1	0	0
+degawdau	degawadu	0	0	1	0	0
+degawdau	decades	0	0	1	0	0
+degawdau	decade	0	0	1	0	0
+ipa	ipa	0	0	1	0	0
+love	love	0	0	1	0	0
+griffiths	griffiths	0	0	1	0	0
+barcud	kite	0	0	1	1	1
+brongoch	brongoch	0	0	1	0	0
+brongoch	red-breasted mergansers	0	0	1	0	0
+esgobaeth	diocese	0	0	1	1	1
+swyddi	jobs	0	0	1	0	0
+canis	canis	0	0	1	0	0
+iddewiaeth	judaism	0	0	1	0	0
+dosbarthu	distribution	0	0	1	0	1
+ailsefydlodd	reestablished	0	0	1	0	0
+trosiad	conversion	0	0	1	0	1
+aythya	aythya	0	0	1	0	0
+bedwar	four	0	0	1	0	0
+angry	angry	0	0	1	0	0
+cadfan	cadfan	0	0	1	0	0
+hethol	elected	0	0	1	0	0
+scops	scops	0	0	1	0	0
+ddrama	drama	0	0	1	0	0
+categorihanes	categorihanes	0	0	1	0	0
+categorihanes	history category	0	0	1	0	0
+oed	age	0	0	1	1	1
+tirfeddiannwr	landowner	0	0	1	0	0
+ddaearyddol	geographical	0	0	1	0	0
+clitoris	clitoris	0	0	1	0	0
+termau	terms	0	0	1	0	0
+skua	skua	0	0	1	0	0
+uwchben	above	0	0	1	0	0
+datgan	states	0	0	1	0	1
+petrel	petrel	0	0	1	0	0
+machlud	sunset	0	0	1	0	1
+diwygiadau	reforms	0	0	1	0	0
+sé	se	0	0	1	0	0
+ddiwrnod	day	0	0	1	0	0
+sí	sí   (sí / si si	0	0	1	0	0
+sí	e)	0	0	1	0	0
+sí	sure	0	0	1	0	0
+gambia	gambia	0	0	1	0	0
+following	isod	0	0	1	0	0
+locustella	locustella	0	0	1	0	0
+problemau	problems	0	0	1	0	0
+academaidd	academic	0	0	1	0	0
+ymddangosodd	appeared	0	0	1	0	0
+wŷr	s	0	0	1	0	0
+cytgan	chorus	0	0	1	1	1
+cwrw	beer	0	0	1	1	1
+cwrs	course	0	0	1	1	1
+noswaith	evening	0	0	1	0	0
+eisioes	already	0	0	1	0	0
+chymdeithasau	associations	0	0	1	0	0
+pedwerydd	fourth	0	0	1	1	1
+charadrius	charadrius	0	0	1	0	0
+drama	drama	0	0	1	0	0
+ymadroddion	phrases	0	0	1	0	0
+deuocsid	dioxide	0	0	1	0	0
+ddefnyddior	use	0	0	1	0	0
+ddefnyddior	use the	0	0	1	0	0
+llinos	finch	0	0	1	0	1
+aderyn	many	1	0	1	0	1
+aderyn	all	1	0	1	0	1
+aderyn	whole	1	0	1	0	1
+aderyn	bird	1	1	1	1	1
+ddylunio	design	0	0	1	0	0
+lladdwyd	killed	0	0	1	0	0
+jazz	jazz	0	0	1	0	0
+atal	prevention	0	0	1	0	1
+arfog	forces	0	0	1	0	1
+such	such	0	0	1	0	0
+arfon	arfon	0	0	1	0	0
+data	data	0	0	1	0	0
+frenhinol	royal	0	0	1	0	0
+ss	ss	0	0	1	0	0
+abertawe	swansea	0	0	1	1	1
+st	st	0	0	1	0	0
+si	sure	0	0	1	0	1
+sh	sh	0	0	1	0	0
+so	so	0	0	1	0	0
+sn	noise	0	0	1	0	0
+sl	sl	0	0	1	0	0
+sc	sc	0	0	1	0	0
+sa	sa	0	0	1	0	0
+aserbaijan	azerbaijan	0	0	1	0	0
+thomson	thomson	0	0	1	0	0
+boeriaid	boers	0	0	1	0	0
+artistiaid	artists	0	0	1	0	0
+ayyb	etc.	0	0	1	0	0
+cyntefig	primitive	0	0	1	1	1
+cynrychiolir	represented	0	0	1	0	0
+bwnc	topic	0	0	1	0	0
+galwr	caller	0	0	1	0	0
+diffyg	lack of	0	0	1	0	1
+chanran	percentage	0	0	1	0	0
+anrhydedd	honor	0	0	1	1	1
+meistr	master	0	0	1	1	1
+condemnio	condemned	0	0	1	0	1
+gŵydd	goose	0	0	1	0	0
+nation	nation	0	0	1	0	0
+ennyn	command	0	0	1	0	1
+llaeth	milk	0	0	1	1	1
+fileniwm	millennium	0	0	1	0	0
+griffith	griffith	0	0	1	0	0
+gïach	healthy	0	0	1	0	0
+miliwnyddion	millionaires	0	0	1	0	0
+lithosffer	lithosphere	1	1	0	0	0
+lithosffer	small	1	0	1	0	0
+lithosffer	fitar	1	0	1	0	0
+lithosffer	eid	1	0	1	0	0
+ceirios	cherry	0	0	1	0	0
+rhyfedd	strange	0	0	1	1	1
+ngogleddorllewin	north west	0	0	1	0	0
+chollodd	lost	0	0	1	0	0
+px|baner	p	0	0	1	0	0
+px|baner	pxlbaner	0	0	1	0	0
+px|baner	px|banner	0	0	1	0	0
+honduras	honduras	0	0	1	0	0
+difrodi	damage	0	0	1	0	1
+aneirin	aneirin	0	0	1	0	0
+traciau	tracks	0	0	1	0	0
+beetle	beetle	0	0	1	0	0
+ganddi	has	0	0	1	0	0
+rhannodd	shared	0	0	1	0	0
+ganddo	he	0	0	1	0	0
+chymdeithas	society	0	0	1	0	0
+gyfreithlon	lawful	0	0	1	0	0
+alwn	we call	0	0	1	0	0
+gweddi	prayer	0	0	1	1	1
+senegal	senegal	0	0	1	0	0
+alluogi	enable	0	0	1	0	0
+ânt	ant	0	0	1	0	0
+ânt	they go	0	0	1	0	0
+ffrancwyr	french	0	0	1	0	0
+trosglwyddwyd	transferred	0	0	1	0	0
+internet	internet	0	0	1	0	0
+ble	where	0	0	1	1	1
+bapur	paper	0	0	1	0	0
+ffisegydd	physicist	0	0	1	0	0
+aneglur	unclear	0	0	1	1	1
+macedon	macedon	0	0	1	0	0
+cwantwm	quantum	0	0	1	0	0
+cylchdro	rotation	0	0	1	0	1
+byth	never	0	0	1	0	1
+mecaneiddio	mechanization	0	0	1	0	0
+fandaliaid	vandals	0	0	1	0	0
+brasil	brazil	0	0	1	0	0
+pwmp	pump	0	0	1	0	0
+plinius	pliny	0	0	1	0	0
+siawns	chance	0	0	1	1	1
+enfys	rainbow	0	0	1	1	1
+amrywiadau	variations	0	0	1	0	0
+gafr	goat	0	0	1	1	1
+categoridefnyddiau	categoridefynyddiau	0	0	1	0	0
+oni	unless	0	0	1	1	1
+frwd	actively	0	0	1	0	0
+claddwyd	buried	0	0	1	0	0
+categoritywysogaethau	categotitywysogaethau	0	0	1	0	0
+spoken	spoken	0	0	1	0	0
+potter	potter	0	0	1	0	0
+ond	but	0	0	1	1	1
+mytholeg	tribals	1	0	1	0	0
+mytholeg	tribes	1	0	1	0	0
+mytholeg	tribal	1	0	1	0	0
+mytholeg	mythology	1	1	1	0	0
+opec	opec	0	0	1	0	0
+hybu	promote	0	0	1	0	1
+cywir	right	0	0	1	0	1
+berfol	verb	0	0	1	0	0
+cloddfeydd	mine	0	0	1	0	0
+siwan	siwan	0	0	1	0	0
+awyren	plane	0	0	1	0	1
+city	city	0	0	1	0	0
+urien	urien	0	0	1	0	0
+gyfyngu	limit	0	0	1	0	0
+troellwr	dj	0	0	1	0	0
+iach	healthy	0	0	1	1	1
+brwydrau	battles	0	0	1	0	0
+siberia	siberia	0	0	1	0	0
+williams	williams	0	0	1	0	0
+ddeddwyrain	south east	0	0	1	0	0
+ddeddwyrain	south-east	0	0	1	0	0
+ddemocrataidd	democratic	0	0	1	0	0
+cisalpina	cisalpina	0	0	1	0	0
+sawdi	saudi	0	0	1	0	0
+conswl	consul	0	0	1	0	0
+cervus	cervus	0	0	1	0	0
+wythnos	week	0	0	1	1	1
+cenedlaethol	national	0	0	1	1	1
+ddarganfyddiadau	discoveries	0	0	1	0	0
+ddarganfyddiadau	findings	0	0	1	0	0
+romaunsch	romaunsch	0	0	1	0	0
+gwelodd	saw	0	0	1	0	0
+future	future	0	0	1	0	0
+fynachlog	monastery	0	0	1	0	0
+sophia	sophia	0	0	1	0	0
+fisigothiaid	visigoths	0	0	1	0	0
+san	san	0	0	1	0	0
+sam	sam	0	0	1	0	0
+corhedydd	pipit	0	0	1	0	0
+alley	alley	0	0	1	0	0
+arwynebedd	think	1	0	1	0	1
+arwynebedd	area	1	1	1	1	1
+say	say	0	0	1	0	0
+trosglwyddiant	conveyance	0	0	1	0	0
+cusan	kiss	0	0	1	1	1
+wilsons	wilsons	0	0	1	0	0
+allen	allen	0	0	1	0	0
+allen	could	0	0	1	0	0
+turner	turner	0	0	1	0	0
+cherdded	walking	0	0	1	0	0
+dinasoedd	cities	0	0	1	0	0
+golau	light	0	0	1	1	1
+waethaf	worst	0	0	1	0	0
+gwobrau	awards	0	0	1	0	0
+jefferson	jefferson	0	0	1	0	0
+take	cymryd	0	0	1	0	0
+take	take	0	0	1	0	0
+categorirhestrau	category: lists	0	0	1	0	0
+golan	golan	0	0	1	0	0
+rydych	you	0	0	1	0	0
+saethau	arrows	0	0	1	0	0
+cynhyrchir	produced	0	0	1	0	0
+amlwg	obvious	0	0	1	1	1
+rwsiaidd	russian	0	0	1	0	0
+fywyd	life	0	0	1	0	0
+printed	printed	0	0	1	0	0
+ddinasyddion	citizens	0	0	1	0	0
+ddinasyddion	citizen	0	0	1	0	0
+jebel	jebel	0	0	1	0	0
+românia	romania	0	0	1	0	0
+lawn	full	0	0	1	0	0
+phil	phil	0	0	1	0	0
+occidental	occidental	0	0	1	0	0
+ddigidol	digital	0	0	1	0	0
+chiang	chiang	0	0	1	0	0
+dogfen	document	0	0	1	1	1
+lawr	down	0	0	1	0	0
+caledi	hardship	0	0	1	1	1
+ddal	hold	0	0	1	0	0
+wynn	wynn	0	0	1	0	0
+fàs	shallow	0	0	1	0	0
+fàs	mass	0	0	1	0	0
+unoliaethwyr	unionists	0	0	1	0	0
+redpoll	redpoll	0	0	1	0	0
+dadeni	renaissance	0	0	1	1	1
+chyfandir	continents	0	0	1	0	0
+offeryn	tool	0	0	1	1	1
+digidol	digital	0	0	1	0	0
+sylw	attention	0	0	1	1	1
+ddaw	comes	0	0	1	0	0
+ddau	two	0	0	1	0	0
+esiampl	example	0	0	1	1	1
+lefant	cry	0	0	1	0	0
+wedii	wedii	0	0	1	0	0
+khoisan	khoisan	0	0	1	0	0
+franz	franz	0	0	1	0	0
+going	going	0	0	1	0	0
+actio	acting	0	0	1	0	1
+actio	minerals	0	0	1	0	1
+brïeg	briec	0	0	1	0	0
+neifion	neptune	0	0	1	1	1
+wedir	gwydir	0	0	1	0	0
+offeiriades	priestess	0	0	1	0	0
+cymdeithas	society	0	0	1	1	1
+actif	active	0	0	1	0	0
+reolir	controlled	0	0	1	0	0
+wediu	slightly blurred	0	0	1	0	0
+cadwraeth	conservation	0	0	1	0	1
+dirwedd	landscape	0	0	1	0	0
+beatles	beatles	0	0	1	0	0
+weithredu	action	0	0	1	0	0
+mandarin	mandarin	0	0	1	0	0
+monde	monde	0	0	1	0	0
+peiriannau	machinery	0	0	1	0	1
+andwyol	adverse	0	0	1	0	1
+shorttoed	shorttoed	0	0	1	0	0
+dinistrio	destroyed	0	0	1	0	1
+dinistrio	dinistrio	0	0	1	0	1
+artist	artist	0	0	1	1	1
+roger	roger	0	0	1	0	0
+gwyddau	geese	0	0	1	0	0
+synhwyrydd	sensor	0	0	1	0	0
+cyffredin	common	0	0	1	1	1
+gorwedd	lying	0	0	1	0	1
+reoli	management	0	0	1	0	0
+anwybyddu	ignore	0	0	1	1	1
+dyddiaur	the days	0	0	1	0	0
+dyddiaur	days	0	0	1	0	0
+sylwodd	noticed	0	0	1	0	0
+rhywfaint	some	0	0	1	0	0
+penglog	mujahideen	1	0	1	0	0
+penglog	mujahids	1	0	1	0	0
+penglog	fighters	1	0	1	0	0
+penglog	skull	1	1	1	0	0
+ailddechreuodd	resumed	0	0	1	0	0
+mecca	mecca	0	0	1	0	0
+swyddog	officer	0	0	1	1	1
+cyfnod	period	0	0	1	1	1
+gynhwysai	included	0	0	1	0	0
+enwedig	particularly	0	0	1	0	1
+bosphorus	bosphorus	0	0	1	0	0
+un	one	0	0	1	1	1
+gymreig	welsh	0	0	1	0	0
+dosbarthur	issuing	0	0	1	0	0
+darlunio	drawing	0	0	1	0	1
+chyfnod	period	0	0	1	0	0
+bodoli	exist	0	0	1	1	1
+gwefan	website	0	0	1	0	0
+fynd	go	0	0	1	0	0
+lledred	latitude	0	0	1	1	1
+fyny	up	0	0	1	0	1
+clogwyni	cliffs	0	0	1	0	0
+cambriaidd	cambrian	0	0	1	0	0
+ffilmio	filming	0	0	1	0	0
+mendeleev	mendeleev	0	0	1	0	0
+coligny	coligny	0	0	1	0	0
+saethwyr	seathwyr	0	0	1	0	0
+saethwyr	shooters	0	0	1	0	0
+hibernica	hibernica	0	0	1	0	0
+organau	organs	0	0	1	0	0
+democrataidd	democratic	0	0	1	0	0
+saethwyd	shot	0	0	1	0	0
+rheolwr	manager	0	0	1	0	1
+mang	lang	0	0	1	0	0
+gwaddodion	sediment	0	0	1	0	0
+mann	mann	0	0	1	0	0
+cynnar	early	0	0	1	1	1
+cyflwyniad	presentation	0	0	1	1	1
+ffynhonnell	source	0	0	1	1	1
+seiliau	grounds	0	0	1	0	1
+analeiddio	canalisation	0	0	1	0	0
+rholyddion	rollers	0	0	1	0	0
+glân	bank	0	0	1	0	0
+ocwltiwr	ocwltiwr	0	0	1	0	0
+hanesyddol	historical	0	0	1	1	1
+twristiaeth	tourism	0	0	1	0	0
+cynnal	maintenance	0	0	1	0	1
+ganiatau	allow	0	0	1	0	0
+penodi	appointment	0	0	1	0	1
+bennaeth	head	0	0	1	0	0
+west	west	0	0	1	0	0
+hutton	hutton	0	0	1	0	0
+ffrindiau	friends	0	0	1	0	0
+gyfun	combined	0	0	1	0	0
+tirffurf	landform	0	0	1	0	0
+tomen	tip	0	0	1	0	1
+mekong	mekong	0	0	1	0	0
+rustica	rustica	0	0	1	0	0
+rustica	rustisa	0	0	1	0	0
+iŵl	julius	0	0	1	0	0
+chwiorydd	sisters	0	0	1	0	1
+berseg	berseg	0	0	1	0	0
+godro	milking	1	1	0	0	1
+stormydd	storms	0	0	1	0	0
+stormydd	stromydd	0	0	1	0	0
+orsafoedd	stations	0	0	1	0	0
+isabella	isabella	0	0	1	0	0
+fin	about	0	0	1	0	0
+fachgen	boy	0	0	1	0	0
+rhythmau	rhythms	0	0	1	0	0
+cnydau	crops	0	0	1	0	1
+gwm	gum	0	0	1	0	0
+ewropead	europeans	0	0	1	0	0
+wrthryfeloedd	uprisings	0	0	1	0	0
+pobl	people	0	0	1	1	1
+traethau	treathau	0	0	1	0	0
+traethau	beaches	0	0	1	0	0
+ive	ive	0	0	1	0	0
+ive	i've	0	0	1	0	0
+canlyniad	outcome	0	0	1	0	1
+beddargraff	beddaragraff	1	0	1	0	1
+beddargraff	best	1	0	1	0	1
+beddargraff	epitaph	1	1	0	1	1
+lladd	killed	0	0	1	0	1
+blas	taste	0	0	1	1	1
+blat	plate	0	0	1	0	0
+bros	bros	0	0	1	0	0
+ddarganfyddodd	discovered	0	0	1	0	0
+menywod	of women	0	0	1	0	0
+menywod	women	0	0	1	0	0
+adnewyddu	renewal	0	0	1	0	1
+microbau	microbes	0	0	1	0	0
+digon	enough	0	0	1	1	1
+meddyginiaeth	medication	0	0	1	0	1
+wilhelm	wilhelm	0	0	1	0	0
+otto	otto	0	0	1	0	0
+fformiwla	formula	0	0	1	0	0
+reolwyr	managers	0	0	1	0	0
+byddai	would	0	0	1	0	0
+ardea	ardea	0	0	1	0	0
+rêp	rapeseed	1	1	0	0	0
+ymerodraeth	empire	0	0	1	1	1
+gwr	husband	0	0	1	0	0
+lhdt	lgbt	0	0	1	0	0
+adnodd	resource	0	0	1	0	0
+nawfed	ninth	0	0	1	1	1
+pafiliwn	pavilion	0	0	1	1	1
+six	six	0	0	1	0	0
+granada	granada	0	0	1	0	0
+penseiri	architects	0	0	1	0	1
+halogenoalcan	haloalkane	1	1	0	0	0
+halogenoalcan	halogenalkane	1	0	1	0	0
+halogenoalcan	police	1	0	1	0	0
+halogenoalcan	halogenoalkanes	1	1	0	0	0
+halogenoalcan	halogens	1	0	1	0	0
+halogenoalcan	halogenoalcan	1	0	1	0	0
+halogenoalcan	soldier	1	0	1	0	0
+halogenoalcan	halogennoalcan	1	0	1	0	0
+halogenoalcan	halogenoalkane	1	0	1	0	0
+genir	born	0	0	1	0	0
+machen	machen	0	0	1	0	0
+ehangaf	widest	0	0	1	0	0
+thiriogaeth	territory	0	0	1	0	0
+grefyddol	religious	0	0	1	0	0
+gdp	gdp	0	0	1	0	0
+edwards	edwards	0	0	1	0	0
+gorffen	finish	0	0	1	1	1
+chwaer	sister	0	0	1	1	1
+poblogrwydd	popularity	0	0	1	1	1
+pwysicaf	most important	0	0	1	0	0
+slofeneg	slovenian	0	0	1	0	0
+modfedd	inches	0	0	1	0	1
+daeargryn	earthquake	0	0	1	1	1
+daeargryn	earthquake  earthquake  earthquake	0	0	1	0	1
+trosol	lever	1	1	0	1	1
+trosol	say	1	0	1	0	1
+trosol	said	1	0	1	0	1
+trosol	saying	1	0	1	0	1
+cyflwynydd	presenter	0	0	1	0	0
+fenni	abergavenny	0	0	1	0	0
+wahaniaethu	discrimination	0	0	1	0	0
+ddefnyddiau	materials	0	0	1	0	0
+henwau	names	0	0	1	0	0
+penfro	pembroke	0	0	1	1	1
+machynlleth	machynlleth	0	0	1	0	0
+clorin	chlorine	0	0	1	0	0
+geltiaid	celts	0	0	1	0	0
+ddefnyddiai	used by	0	0	1	0	0
+chyrraedd	reach	0	0	1	0	0
+wyddeleg	gaelic	0	0	1	0	0
+cynhaliodd	held	0	0	1	0	0
+gyfyngedig	limited	0	0	1	0	0
+gyfyngedig	qyfyngedig	0	0	1	0	0
+traffig	traffic	0	0	1	0	0
+neues	neues	0	0	1	0	0
+daro	hit	0	0	1	0	0
+darn	piece	0	0	1	1	1
+tywysogaeth	principality	0	0	1	1	1
+offerynnol	instrumental	0	0	1	1	1
+offerynnol	instrument	0	0	1	0	1
+gwael	poor	0	0	1	1	1
+coeden	tree	0	0	1	1	1
+niwed	damage	0	0	1	1	1
+ddawnsio	dance	0	0	1	0	0
+categorirhaglenni	category: programs	0	0	1	0	0
+categorirhaglenni	categorirhaglenni	0	0	1	0	0
+categorirhaglenni	categorihaglenni	0	0	1	0	0
+clan	clan	0	0	1	0	0
+deurywioldeb	bisexuality	0	0	1	0	0
+manaw	shearwater	0	0	1	0	1
+tsunami	tsunami	0	0	1	0	0
+grud	cradle	0	0	1	0	1
+grud	craddle	0	0	1	0	1
+grug	memmels	1	0	1	0	1
+grug	heather	1	1	0	1	1
+grug	mammals	1	0	1	0	1
+grug	erica	1	1	0	0	1
+amgylchynir	surrounded	0	0	1	0	0
+yeats	yeats	0	0	1	0	0
+caniatau	allows	0	0	1	0	0
+brith	flycatcher	0	0	1	0	1
+sylwr	sylwr	0	0	1	0	0
+barwn	barwn	0	0	1	0	1
+barwn	baron	0	0	1	1	1
+magma	magma	0	0	1	0	0
+sylwi	notice	0	0	1	1	1
+grus	trus	0	0	1	0	0
+tywodfaen	family name	1	0	1	0	1
+tywodfaen	sandstone	1	1	1	1	1
+tywodfaen	baghdad	1	0	1	0	1
+strindberg	strindberg	0	0	1	0	0
+gwladfeydd	settlements	0	0	1	0	0
+arlein	online	0	0	1	0	0
+tobago	togago	0	0	1	0	0
+tobago	tobago	0	0	1	0	0
+etholir	elected	0	0	1	0	0
+enwaur	enwaur	0	0	1	0	0
+codau	codes	0	0	1	0	0
+dda	well	0	0	1	0	0
+ystwyll	epiphany	0	0	1	1	1
+gorsaf	station	0	0	1	1	1
+dde	right	0	0	1	0	0
+ymaith	off	0	0	1	0	1
+vivian	vivian	0	0	1	0	0
+rheniwm	rhenium	1	1	0	0	0
+rheniwm	venue	1	0	1	0	0
+rheniwm	culture	1	0	1	0	0
+rheniwm	civilization	1	0	1	0	0
+rheniwm	tradition	1	0	1	0	0
+rheniwm	rheniwm	1	1	0	0	0
+euryn	euryn	0	0	1	0	0
+senedd	parliament	0	0	1	1	1
+jacksons	jacksons	0	0	1	0	0
+anaml	rarely	0	0	1	1	1
+bronnaun	bronnaun	0	0	1	0	0
+notoc	notoc	0	0	1	0	0
+gyffro	excitement	0	0	1	0	0
+stone	stone	0	0	1	0	0
+rhewlifoedd	glaciers	0	0	1	0	0
+hopkins	hopkins	0	0	1	0	0
+phriodweddau	properties	0	0	1	0	0
+industry	industry	0	0	1	0	0
+industry	industy	0	0	1	0	0
+cynrychiolaeth	representation	0	0	1	1	1
+side	side	0	0	1	0	0
+brofi	test	0	0	1	0	0
+etholaeth	constituency	0	0	1	1	1
+acw	there	0	0	1	1	1
+dinesig	choice	0	0	1	0	1
+dinesig	civic	0	0	1	1	1
+act	act	0	0	1	1	1
+bond	bond	0	0	1	0	0
+other	other	0	0	1	0	0
+fanwl	detail	0	0	1	0	0
+dannie	dannie	0	0	1	0	0
+goch	red	0	0	1	0	0
+siaradwr	speaker	0	0	1	1	1
+mewnfudwyr	immigrants	0	0	1	0	0
+mewnfudwyr	mewufudwyr	0	0	1	0	0
+seneddol	parliamentary	0	0	1	1	1
+leblanc	leblanc	0	0	1	0	0
+milltir	miles	0	0	1	0	1
+vaughan	vaughan	0	0	1	0	0
+het	hat	0	0	1	1	1
+her	challenge	0	0	1	1	1
+fywiog	active	0	0	1	0	0
+philadelphia	philadelphia	0	0	1	0	0
+ieir	chickens	0	0	1	0	1
+heb	without	0	0	1	1	1
+lleihau	reduce	0	0	1	0	1
+hel	gathering	0	0	1	0	1
+ngwleidyddiaeth	politics	0	0	1	0	0
+ngwleidyddiaeth	hgwleidyddiaeth	0	0	1	0	0
+hen	old	0	0	1	1	1
+allai	could	0	0	1	0	0
+ysgarthu	ysgarthu	1	0	1	0	0
+ysgarthu	commercialize	1	0	1	0	0
+ysgarthu	propagandism	1	0	1	0	0
+ysgarthu	excreted	1	0	1	0	0
+ysgarthu	excretion	1	1	0	0	0
+ysgarthu	spread	1	0	1	0	0
+resbiradu	respiration	0	0	1	0	0
+llain	plot	0	0	1	0	1
+asgell	wing	0	0	1	1	1
+mhatagonia	patagonia	0	0	1	0	0
+corvus	corvus	0	0	1	0	0
+treisgar	violent	0	0	1	0	0
+anadlu	breathing	0	0	1	0	1
+mwynfeydd	mines	0	0	1	0	0
+tensiynau	tensions	0	0	1	0	0
+with	with	0	0	1	0	0
+doeau	roofs	0	0	1	0	0
+rush	rush	0	0	1	0	0
+rhyddid	freedom	0	0	1	1	1
+categoriau	categories	0	0	1	0	0
+dyfed	dyfed	0	0	1	0	1
+acronym	acronym	0	0	1	0	0
+geir	cars	0	0	1	0	0
+dirty	dirty	0	0	1	0	0
+tynnu	draw	0	0	1	1	1
+hydroniwm	hydroniwm	0	0	1	0	0
+hydroniwm	hydronium	0	0	1	0	0
+gone	gone	0	0	1	0	0
+ac	and	0	0	1	0	0
+ab	and	0	0	1	0	1
+ab	and b	0	0	1	0	1
+deferens	deferens	0	0	1	0	0
+ad	ad	0	0	1	0	1
+johnny	johnny	0	0	1	0	0
+af	st	0	0	1	0	1
+ai	or	0	0	1	1	1
+am	for	0	0	1	0	1
+al	al	0	0	1	0	0
+an	an	0	0	1	0	1
+aq	aq	0	0	1	0	0
+aq	and q	0	0	1	0	0
+ap	ap	0	0	1	0	0
+as	mp	0	0	1	0	1
+ar	on	0	0	1	1	1
+au	s	0	0	1	0	1
+at	to	0	0	1	1	1
+at	at	0	0	1	1	1
+cread	creation	0	0	1	1	1
+trefaldwyn	montgomery	0	0	1	1	1
+lledaenu	spread	0	0	1	1	1
+dywysogaeth	principality	0	0	1	0	0
+aromatig	aromatic	0	0	1	0	0
+hydred	longitude	0	0	1	1	1
+chanolbarth	central	0	0	1	0	0
+categoricyfraith	categoricyfraith	0	0	1	0	0
+categoriarlywyddion	categoriarlywyddion	0	0	1	0	0
+milvius	milvius	0	0	1	0	0
+sanctaidd	holy	0	0	1	1	1
+gwahanol	different	0	0	1	1	1
+aerodynameg	jillani	1	0	1	0	0
+aerodynameg	aerodynamics	1	1	0	0	0
+tŵr	tower	0	0	1	0	0
+yrfa	career	0	0	1	0	0
+alban	scotland	0	0	1	0	1
+bronnau	breasts	0	0	1	0	0
+categorirhyngrwyd	categorirhyngrwyd	0	0	1	0	0
+terry	terry	0	0	1	0	0
+tŵf	growth	0	0	1	0	0
+llenorion	writers	0	0	1	0	0
+dadleuodd	argued	0	0	1	0	0
+adar	birds	0	0	1	0	0
+oprah	oprah	0	0	1	0	0
+cardell	mardell	0	0	1	0	0
+feirdd	poets	0	0	1	0	0
+nelson	nelson	0	0	1	0	0
+original	original	0	0	1	0	0
+sacsoniaid	saxon	0	0	1	0	0
+goleg	college	0	0	1	0	0
+gysyniadau	concepts	0	0	1	0	0
+cysylltu	link	0	0	1	0	1
+degau	tens	0	0	1	0	0
+della	della	0	0	1	0	0
+ffyrdd	ways	0	0	1	0	1
+deheubarth	southern	0	0	1	0	1
+nentydd	streams	0	0	1	0	1
+tt	tt	0	0	1	0	0
+tt	pp.	0	0	1	0	0
+tu	out	0	0	1	0	1
+tair	three	0	0	1	0	1
+to	to	0	0	1	0	1
+th	th	0	0	1	0	0
+ti	you	0	0	1	1	1
+te	tea	0	0	1	1	1
+ghana	ghana	0	0	1	0	0
+khmer	khmer	0	0	1	0	0
+cerrynt	currents	0	0	1	0	1
+px|ewin	px | cloves	0	0	1	0	0
+cerdd	music	0	0	1	1	1
+palesteinaidd	palestinian	0	0	1	0	0
+datblygu	development	0	0	1	0	1
+hudol	magical	0	0	1	0	1
+bwynt	point	0	0	1	0	0
+sant	saint	0	0	1	1	1
+gyfnod	period	0	0	1	0	0
+drigolion	residents	0	0	1	0	0
+ypres	ypres	0	0	1	0	0
+large	large	0	0	1	0	0
+sand	sand	0	0	1	0	0
+harry	harry	0	0	1	0	0
+ysgubol	great	0	0	1	0	1
+flynedd	years	0	0	1	0	0
+gwobr	award	0	0	1	0	1
+pyllau	ponds	0	0	1	0	1
+adeiladwyd	built	0	0	1	0	0
+ffrwythlondeb	fertility	0	0	1	1	1
+samoa	samoa	0	0	1	0	0
+pwyl	poland	0	0	1	1	1
+dulyn	dublin	0	0	1	1	1
+dinesydd	citizen	0	0	1	1	1
+tú	out	0	0	1	0	0
+mhrifysgol	university	0	0	1	0	0
+section	section	0	0	1	0	0
+celts	celts	0	0	1	0	0
+lein	online	0	0	1	0	0
+awdures	author	0	0	1	0	1
+ymgyrchu	campaign	0	0	1	0	0
+full	full	0	0	1	0	0
+genhedloedd	nations	0	0	1	0	0
+esgidiau	shoes	0	0	1	0	0
+gregory	gregory	0	0	1	0	0
+gweriniaethwyr	republicans	0	0	1	0	0
+rhannun	split into	0	0	1	0	0
+anfetel	non-metal	1	1	0	0	0
+anfetel	non metal	1	1	0	0	0
+anfetel	nonmetal	1	1	0	0	0
+anfetel	non- metal	1	0	1	0	0
+anfetel	category: islamic	1	0	1	0	0
+rhannur	sharing	0	0	1	0	0
+llydewig	breton	0	0	1	0	0
+priod	spouse	0	0	1	1	1
+biliwn	billion	0	0	1	0	0
+alecsandraidd	alexandrian	0	0	1	0	0
+nantlle	nantlle	0	0	1	0	0
+nantlle	nantle	0	0	1	0	0
+vii	vii	0	0	1	0	0
+cân	can	0	0	1	0	0
+cwmpas	scope	0	0	1	0	1
+hefyd	also	0	0	1	1	1
+oddiwrth	from	0	0	1	0	1
+hyfryd	lovely	0	0	1	0	1
+tŷ	house	0	0	1	0	0
+rhes	row	0	0	1	1	1
+rhew	ice	0	0	1	1	1
+ynysig	isolated	0	0	1	0	0
+gernyw	cornwall	0	0	1	0	0
+sassoon	sassoon	0	0	1	0	0
+manaweg	manx	0	0	1	0	0
+chyda	with	0	0	1	1	1
+rhed	runs	0	0	1	0	0
+more	more	0	0	1	0	0
+mewnol	internal	0	0	1	1	1
+gwestai	hotels	0	0	1	0	1
+asgwrn	bone	0	0	1	1	1
+fynyddoedd	mountains	0	0	1	0	0
+rhifau	numbers	0	0	1	0	0
+cyfundrefnau	systems	0	0	1	0	0
+grefyddau	religions	0	0	1	0	0
+grefyddau	faith	0	0	1	0	0
+company	company	0	0	1	0	0
+lenorion	writers	0	0	1	0	0
+hyfforddiant	training	0	0	1	1	1
+chadwyd	retained	0	0	1	0	0
+enciliodd	deserted	0	0	1	0	0
+cryfder	strength	0	0	1	1	1
+fychan	small	0	0	1	0	1
+bolisi	policy	0	0	1	0	0
+malu	grinding	0	0	1	0	1
+patriarch	patriarch	0	0	1	1	1
+llenyddol	literary	0	0	1	1	1
+galatiaid	galatians	0	0	1	0	0
+fynwy	monmouth	0	0	1	0	0
+leoli	located	0	0	1	0	0
+nulyn	dublin	0	0	1	0	0
+morgan	morgan	0	0	1	0	0
+mali	mali	0	0	1	0	1
+abrahamig	abrahamic	0	0	1	0	0
+gwynfryn	gwynfryn	0	0	1	0	0
+rygbir	rygbir	0	0	1	0	0
+ryfel	war	0	0	1	0	0
+stated	stated	0	0	1	0	0
+staten	staten	0	0	1	0	0
+tiwbiau	tubes	0	0	1	0	0
+droed	foot	0	0	1	0	0
+states	states	0	0	1	0	0
+lesotho	lesotho	0	0	1	0	0
+diwyllianol	cultural	0	0	1	0	0
+bethania	bethania	0	0	1	0	0
+eurben	goldcrest	0	0	1	0	0
+bwrw	cast	0	0	1	1	1
+cyfansoddwr	composer	0	0	1	1	1
+eifionydd	eifionydd	0	0	1	0	0
+hugh	hugh	0	0	1	0	0
+gynyddu	increase	0	0	1	0	0
+wledig	rural	0	0	1	0	0
+gweddill	the rest	0	0	1	0	1
+plant	children	0	0	1	0	1
+theodosius	theodosius	0	0	1	0	0
+ofal	care	0	0	1	0	0
+nishitokyo	rishi-tokyo	0	0	1	0	0
+nishitokyo	nishitokyo	0	0	1	0	0
+categoriawdurdodau	categoriawdurdodau	0	0	1	0	0
+gorfodir	forced	0	0	1	0	0
+não	no	0	0	1	0	0
+stiwdio	studio	0	0	1	0	0
+mendel	mendel	0	0	1	0	0
+ransh	ranch	0	0	1	0	0
+lanka	lanka	0	0	1	0	0
+seremonïau	ceremonies	0	0	1	0	0
+prosiect	project	0	0	1	1	1
+cystadleuwyr	competitors	0	0	1	0	0
+jiang	jiang	0	0	1	0	0
+gysylltiad	connection	0	0	1	0	0
+sôn	mention	0	0	1	0	0
+gweithrediad	operation	0	0	1	1	1
+broadcasting	broadcasting	0	0	1	0	0
+ymweld	visit	0	0	1	1	1
+media	media	0	0	1	0	0
+etifedd	heir	0	0	1	1	1
+ferch	daughter	0	0	1	0	0
+dywysog	prince	0	0	1	0	0
+tolstoy	tolstoy	0	0	1	0	0
+bris	price	0	0	1	0	0
+niwtronau	neutrons	0	0	1	0	0
+enwyd	named	0	0	1	0	0
+siberian	siberian	0	0	1	0	0
+olynu	successor	0	0	1	0	1
+scots	scots	0	0	1	0	0
+scott	scott	0	0	1	0	0
+reilffordd	railway	0	0	1	0	0
+reilffordd	railroad	0	0	1	0	0
+broadway	broadway	0	0	1	0	0
+neddwyrain	south-east	0	0	1	0	0
+brig	top	0	0	1	1	1
+its	-its	0	0	1	0	0
+theithio	travel	0	0	1	0	0
+brid	breed	0	0	1	1	1
+brid	bird	0	0	1	0	1
+groegiaid	greeks	0	0	1	0	0
+anelid	annelid	1	1	0	0	0
+anelid	nicker	1	0	1	0	0
+anelid	being aimed	1	0	1	0	0
+anelid	complete	1	0	1	0	0
+gerald	gerald	0	0	1	0	0
+xiaoping	xiaoping	0	0	1	0	0
+fangor	bangor	0	0	1	0	0
+fangor	wattle	0	0	1	0	0
+allu	can	0	0	1	0	0
+allt	hill	0	0	1	1	1
+alshifa	alshifa	0	0	1	0	0
+isaac	isaac	0	0	1	0	0
+ddraig	dragon	0	0	1	0	0
+fynyr	gynyr	0	0	1	0	0
+peiriannydd	engineer	0	0	1	1	1
+ysgolhaig	scholar	0	0	1	1	1
+cambriae	cambriae	0	0	1	0	0
+categorimarwolaethau	categorimarwolaethau	0	0	1	0	0
+myfyrwyr	students	0	0	1	0	0
+magic	magic	0	0	1	0	0
+dwysedd	catch	1	0	1	0	0
+dwysedd	density	1	1	1	0	0
+cambrian	cambrian	0	0	1	0	0
+addewid	promise	0	0	1	1	1
+gwfennau	gwfennau	0	0	1	0	0
+genom	genome	0	0	1	0	0
+genoa	genoa	0	0	1	0	0
+chyfiawnder	justice	0	0	1	0	0
+symudwyd	moved	0	0	1	0	0
+england	england	0	0	1	0	0
+gwrtheyrn	gwrtheyrn	0	0	1	0	1
+osaka	osaka	0	0	1	0	0
+ddisgyn	fall	0	0	1	0	0
+eto	again	0	0	1	1	1
+cannoedd	hundreds	0	0	1	0	0
+blues	blues	0	0	1	0	0
+wrtho	him	0	0	1	0	0
+wrthi	her	0	0	1	0	0
+really	really	0	0	1	0	0
+cynhaliwyd	a	0	0	1	0	0
+adeiledd	structure	0	0	1	0	0
+ysgrifenwyd	written	0	0	1	0	0
+sebon	soap	0	0	1	1	1
+meirw	dead	0	0	1	0	1
+ecwilibriwm	equilibrium	0	0	1	0	0
+ffrwd	stream	0	0	1	1	1
+llynges	navy	0	0	1	1	1
+arolwg	survey	0	0	1	1	1
+twyni	dunes	0	0	1	0	0
+darganfod	draganfod	0	0	1	0	1
+sgiwen	skewen	0	0	1	0	0
+ddiflannu	disappear	0	0	1	0	0
+ffafriol	favorable	0	0	1	1	1
+chyfathrach	affinity	0	0	1	0	0
+daearegwyr	geogolists	0	0	1	0	0
+daearegwyr	geologists	0	0	1	0	0
+pwysau	weight	0	0	1	1	1
+gelwid	called	0	0	1	0	0
+hymarferiadau	exercises	0	0	1	0	0
+defnyddiwr	user	0	0	1	1	1
+llethrau	slopes	0	0	1	0	0
+gyfrol	volume	0	0	1	0	0
+gelwir	called	0	0	1	0	0
+gelwir	you call	0	0	1	0	0
+rhyngrwyd	internet	0	0	1	0	0
+w	w	0	0	1	0	0
+testament	testament	0	0	1	1	1
+major	major	0	0	1	0	0
+grwn	round	0	0	1	0	1
+number	number	0	0	1	0	0
+pleidiau	parties	0	0	1	0	1
+grwp	group	0	0	1	0	0
+croesbig	crossbill	0	0	1	0	0
+hafau	summers	0	0	1	0	0
+guest	guest	0	0	1	0	0
+llwyddiannus	successful	0	0	1	1	1
+amaethwyr	farmers	0	0	1	0	0
+saint	saints	0	0	1	0	1
+ynghŷd	and	0	0	1	0	0
+ynghŷd	together	0	0	1	0	0
+cŵn	dogs	0	0	1	0	0
+esbonio	explain	0	0	1	1	1
+englyn	englyn	0	0	1	0	1
+nododd	noted	0	0	1	0	0
+régions	regions	0	0	1	0	0
+zeppelin	zeppelin	0	0	1	0	0
+chânt	hundred	0	0	1	0	0
+oresgyn	overcome	0	0	1	0	0
+gwrthrychau	objects	0	0	1	0	0
+grace	grace	0	0	1	0	0
+obama	obama	0	0	1	0	0
+siopau	shops	0	0	1	0	0
+sansgrit	sanskrit	0	0	1	0	0
+siân	sian	0	0	1	0	0
+siân	siân	0	0	1	0	0
+mlynyddoedd	years	0	0	1	0	0
+ffurfiwyd	formed	0	0	1	0	0
+mynyddig	mountainous	0	0	1	1	1
+garnedd	cairn	0	0	1	0	0
+geirfa	vocabulary	0	0	1	1	1
+wrachod	witches	0	0	1	0	0
+rhaglen	program	0	0	1	1	1
+wrthwynebiad	wthwynebiad	0	0	1	0	0
+wrthwynebiad	objection land	0	0	1	0	0
+caewyd	closed	0	0	1	0	0
+diriogaethau	territories	0	0	1	0	0
+paleontoleg	palaeontology	0	0	1	0	0
+antarctica	antarctica	0	0	1	0	0
+ffoaduriaid	refugees	0	0	1	0	0
+luzon	luzon	0	0	1	0	0
+canlynol	following	0	0	1	1	1
+ymestynnodd	extended	0	0	1	0	0
+dodiad	made	1	0	1	0	0
+dodiad	make	1	0	1	0	0
+dodiad	affix	1	1	0	0	0
+dodiad	tradition	1	0	1	0	0
+dodiad	and tradition	1	0	1	0	0
+dodiad	tradition of	1	0	1	0	0
+dodiad	andtradition	1	0	1	0	0
+weithior	weithior	0	0	1	0	0
+nicaea	nicaea	0	0	1	0	0
+also	also	0	0	1	0	0
+gwerthodd	sold	0	0	1	0	0
+estynedig	extended	0	0	1	0	0
+orfodi	enforce	0	0	1	0	0
+ddwyreiniol	eastern	0	0	1	0	0
+ffermydd	farms	0	0	1	0	0
+gwactod	vacuum	0	0	1	0	0
+plas	mansion	0	0	1	1	1
+edison	edison	0	0	1	0	0
+arferiad	practice	0	0	1	1	1
+arferiad	custom	0	0	1	1	1
+plat	plate	0	0	1	0	0
+gymdeithaswyr	socialisers	0	0	1	0	0
+dosbarthiad	distribution	0	0	1	1	1
+dysgeidiaeth	teachings	0	0	1	0	1
+ryfeloedd	wars	0	0	1	0	0
+rwystro	prevent	0	0	1	0	0
+coblyn	leprechaun	0	0	1	0	1
+henson	henson	0	0	1	0	0
+trefedigaeth	colony	0	0	1	1	1
+â	a	0	0	1	0	0
+â	and	0	0	1	0	0
+dedfrydwyd	sentenced	0	0	1	0	0
+cover	cover	0	0	1	0	0
+gwerni	alder	0	0	1	0	0
+artistig	artistic	0	0	1	1	1
+aiguille	aiguille	0	0	1	0	0
+awdurdodau	authorities	0	0	1	0	0
+anton	anton	0	0	1	0	0
+seismoleg	seismoleg	0	0	1	0	0
+seismoleg	seismology	0	0	1	0	0
+gabe	gabe	0	0	1	0	0
+microsoft	microsoft	0	0	1	0	0
+grefft	craft	0	0	1	0	0
+cymar	mate	0	0	1	0	1
+goresgyn	overcome	0	0	1	0	1
+archoffeiriades	archoffeiriades	0	0	1	0	0
+roddodd	who	0	0	1	0	0
+goll	missing	0	0	1	0	0
+follett	follett	0	0	1	0	0
+ieithyddiaeth	linguistics	0	0	1	1	1
+twll	hole	1	1	1	1	1
+daearyddwyr	geographers	0	0	1	0	0
+nain	grandmother	0	0	1	1	1
+symffoni	symphony	0	0	1	0	0
+carpathia	carpathia	0	0	1	0	0
+diwylliant	culture	0	0	1	1	1
+porwr	browser	0	0	1	0	0
+bernstein	bernstein	0	0	1	0	0
+buddugoliaeth	victory	0	0	1	1	1
+buddugoliaeth	triumph	0	0	1	0	1
+novial	novial	0	0	1	0	0
+pavarotti	pavarotti	0	0	1	0	0
+ystadegau	statistics	0	0	1	1	1
+wnaed	made	0	0	1	0	0
+ddaear	ground	0	0	1	0	0
+gwallt	hair	0	0	1	1	1
+gwallt	walt	0	0	1	0	1
+pontydd	bridges	0	0	1	0	0
+pontydd	ponty	0	0	1	0	0
+sunni	sunni	0	0	1	0	0
+gwahanir	separated	0	0	1	0	0
+diogelwch	safety	0	0	1	1	1
+tudful	tydfil	0	0	1	0	0
+grønland	grondland	0	0	1	0	0
+grønland	gronland	0	0	1	0	0
+cry	cry	0	0	1	0	0
+croatia	croatia	0	0	1	0	0
+gweithio	work	0	0	1	1	1
+ymfudodd	emigrated	0	0	1	0	0
+river	river	0	0	1	0	0
+symptomau	symptoms	0	0	1	0	0
+set	set	0	0	1	1	1
+jade	jade	0	0	1	0	0
+enaid	soul	0	0	1	1	1
+isgoch	infra red	0	0	1	0	0
+isgoch	infrared	0	0	1	0	0
+saxicola	saxicola	0	0	1	0	0
+ddefodau	rituals	0	0	1	0	0
+sea	sea	0	0	1	0	0
+cyfrol	volume	0	0	1	1	1
+nations	nations	0	0	1	0	0
+ddeddfwriaeth	legislation	0	0	1	0	0
+analog	analogue	0	0	1	0	0
+darparwyd	provided	0	0	1	0	0
+penbedw	birkenhead	0	0	1	0	0
+ymgartrefu	settle	0	0	1	0	0
+guinea	guinea	0	0	1	0	0
+guinea	guiena	0	0	1	0	0
+maswr	fly-half	0	0	1	0	0
+bysantaidd	byzantine	0	0	1	0	0
+llythyr	letter	0	0	1	1	1
+colwyn	colwyn	0	0	1	0	1
+cerddorol	musical	0	0	1	1	1
+canolwr	referee	0	0	1	0	1
+wasgar	scattered	0	0	1	0	0
+fwynhau	enjoy	0	0	1	0	0
+available	gael	0	0	1	0	0
+daethant	they came	0	0	1	0	0
+europa	europa	0	0	1	0	0
+pumed	fifth	0	0	1	1	1
+llydandroed	llydandroed	0	0	1	0	0
+siglen	swamp	0	0	1	1	1
+canran	percentage	0	0	1	0	0
+adnabyddus	known	0	0	1	0	1
+last	last	0	0	1	0	0
+tybiedig	perceived	0	0	1	0	1
+dyffrynoedd	valleys	0	0	1	0	0
+毛澤東	?	0	0	1	0	0
+teuluoedd	families	0	0	1	0	0
+cyngherddau	concerts	0	0	1	0	1
+cynhanes	prehistory	0	0	1	0	0
+pdf	pdf	0	0	1	0	0
+bysantiaid	bysantiaid	0	0	1	0	0
+whole	whole	0	0	1	0	0
+beli	balls	0	0	1	0	0
+amdano	about	0	0	1	0	0
+argae	dam	0	0	1	1	1
+dysprosiwm	dysprosium	1	1	0	0	0
+dysprosiwm	first	1	0	1	0	0
+dysprosiwm	dysprosiwm	1	1	0	0	0
+belg	belgium	0	0	1	0	0
+llun	photo	0	0	1	0	1
+defnyddior	uses the	0	0	1	0	0
+llus	sihor	1	0	1	0	0
+llus	blueberries	1	1	0	0	0
+llus	blue berries	1	1	0	0	0
+llus	ahsani	1	0	1	0	0
+llus	bilberry	1	1	0	0	0
+fethan	methane	0	0	1	0	0
+defnyddion	used the	0	0	1	0	0
+hollol	completely	0	0	1	0	1
+church	church	0	0	1	0	0
+mwynol	gaseous	0	0	1	0	0
+mwynol	mineral	0	0	1	0	0
+datganiad	statement	0	0	1	0	1
+rhoddodd	he	0	0	1	0	0
+rhoddodd	gave	0	0	1	0	0
+cymhariaeth	comparison	0	0	1	1	1
+seithfed	seventh	0	0	1	1	1
+tafodieithol	dialect	0	0	1	0	0
+sizwe	sizwe	0	0	1	0	0
+dyfyniadau	quotes	0	0	1	0	0
+nrk	nrk	0	0	1	0	0
+ddefod	ritual	0	0	1	0	0
+iddi	it	0	0	1	0	0
+genws	genus	0	0	1	0	0
+fire	fire	0	0	1	0	0
+gytuno	agree	0	0	1	0	0
+wheeler	wheeler	0	0	1	0	0
+bapurau	papers	0	0	1	0	0
+microorganebau	microorganebau	0	0	1	0	0
+microorganebau	micro- organisms	0	0	1	0	0
+ganlyn	follows	0	0	1	0	0
+fritz	fritz	0	0	1	0	0
+gyferbyniol	contrasting	0	0	1	0	0
+benthyciadau	loans	0	0	1	0	0
+funk	funk	0	0	1	0	0
+ysblander	splendor	0	0	1	1	1
+athrylith	genius	0	0	1	1	1
+zenobia	zenobia	0	0	1	0	0
+effeithiolrwydd	effectiveness	0	0	1	0	1
+prinder	shortage	0	0	1	0	1
+portreadau	portraits	0	0	1	0	0
+formats	formats	0	0	1	0	0
+ymosodol	aggressive	0	0	1	1	1
+mlwydd	years	0	0	1	0	0
+cwbl	all	0	0	1	1	1
+sabha	sabha	0	0	1	0	0
+ladd	killing	0	0	1	0	0
+prifddinasoedd	capitalcities	0	0	1	0	0
+prifddinasoedd	capital cities	0	0	1	0	0
+gwilliam	gwilliam	0	0	1	0	0
+von	von	0	0	1	0	0
+owen	owen	0	0	1	0	0
+diweddaraf	update	0	0	1	0	0
+agweddau	aspects	0	0	1	0	0
+egnir	born	0	0	1	0	0
+egnir	egnir	0	0	1	0	0
+pholisïau	policies	0	0	1	0	0
+hwyaden	duck	0	0	1	0	0
+aml	often	0	0	1	1	1
+siciaeth	sikhism	0	0	1	0	0
+gallodd	was able	0	0	1	0	0
+bethesda	bethesda	0	0	1	0	0
+isranbarth	sub-region	0	0	1	0	0
+ddiffiniadau	definitions	0	0	1	0	0
+caeedig	closed	0	0	1	0	0
+caer	fort	0	0	1	0	1
+cyfarthrebu	communication	0	0	1	0	0
+wahanol	different	0	0	1	0	0
+wahanol	translate from: indonesian different	0	0	1	0	0
+tsieineaidd	tsieineaidd	0	0	1	0	0
+categorisafleoedd	categorisafleoedd	0	0	1	0	0
+mharis	paris	0	0	1	0	0
+cael	have	0	0	1	1	1
+fuddugol	winning	0	0	1	0	0
+penybont	bridgend	0	0	1	0	0
+actorion	actors	0	0	1	0	0
+suddo	sinking	0	0	1	0	1
+dysgwyr	learners	0	0	1	0	0
+cadwynau	chains	0	0	1	0	0
+thair	three	0	0	1	0	0
+elen	elen	0	0	1	0	1
+pynciau	subjects	0	0	1	0	1
+person	person	0	0	1	1	1
+mulfran	cormorant	0	0	1	1	1
+canrifoedd	centuries	0	0	1	0	0
+kelly	kelly	0	0	1	0	0
+thaid	grandfather	0	0	1	0	0
+banerir	banerir	0	0	1	0	0
+leone	leone	0	0	1	0	0
+olynwyr	successors	0	0	1	0	0
+salve	salve	0	0	1	0	0
+chymreig	chymreig	0	0	1	0	0
+benderfynol	determined	0	0	1	0	0
+targedau	targets	0	0	1	0	0
+olynwyd	succeeded	0	0	1	0	0
+boed	whether	0	0	1	0	0
+boed	loeb	0	0	1	0	0
+talfan	talfan	0	0	1	0	0
+rhywioldeb	sexuality	0	0	1	0	0
+nheyrnasiad	reign	0	0	1	0	0
+anafu	injured	0	0	1	0	1
+awstralaidd	australian	0	0	1	0	0
+andorra	andorra	0	0	1	0	0
+mandad	mandate	0	0	1	0	0
+berfformiadau	performances	0	0	1	0	0
+location	location	0	0	1	0	0
+cherddi	poems	0	0	1	0	0
+alltudiaeth	exile	0	0	1	1	1
+input	input	0	0	1	0	0
+huey	huey	0	0	1	0	0
+mathemategydd	mathematician	0	0	1	0	0
+australia	australia	0	0	1	0	0
+ddeuddeg	twelve	0	0	1	0	0
+format	format	0	0	1	0	0
+cordog		1	0	1	0	0
+cordog	sketches	1	0	1	0	0
+cordog	sketch	1	0	1	0	0
+cordog	cordog	1	0	1	0	0
+cordog	chordate	1	1	0	0	0
+cordog	cordogion	1	0	1	0	0
+wasgedd	pressure	0	0	1	0	0
+wives	wives	0	0	1	0	0
+symuda	moves	0	0	1	0	0
+symuda	translate from: swedish moves	0	0	1	0	0
+lanio	landing	0	0	1	0	0
+bó	as	0	0	1	0	0
+gwenllian	gwenllian	0	0	1	0	0
+falcon	falcon	0	0	1	0	0
+nicholls	nichollas	0	0	1	0	0
+nicholls	nicholls	0	0	1	0	0
+dteach	cartref	0	0	1	0	0
+dteach	dteach	0	0	1	0	0
+chekhov	chekhov	0	0	1	0	0
+d	d	0	0	1	0	0
+arddangosir	displayed	0	0	1	0	0
+gaiman	gaimen	0	0	1	0	0
+gaiman	gaiman	0	0	1	0	0
+alexandra	alexandra	0	0	1	0	0
+lenin	lenin	0	0	1	0	0
+dilledyn	garment	0	0	1	1	1
+boced	pocket	0	0	1	0	0
+spring	spring	0	0	1	0	0
+roedd	was	0	0	1	0	0
+dinorwig	dinorwig	0	0	1	0	0
+pererindod	pilgrimage	0	0	1	1	1
+methodd	failed	0	0	1	0	0
+sampl	sample	0	0	1	0	0
+dechrau	start	0	0	1	0	1
+weithred	action	0	0	1	0	0
+ghazni	ghazni	0	0	1	0	0
+teyrnged	tribute	0	0	1	0	0
+seiliwyd	based	0	0	1	0	0
+moleciwl	molecule	0	0	1	0	0
+cellbilen	cell membrane	0	0	1	0	0
+buckland	buckland	0	0	1	0	0
+eang	wide	0	0	1	1	1
+département	departement	0	0	1	0	0
+département	department	0	0	1	0	0
+tène	gene	0	0	1	0	0
+tène	tène	0	0	1	0	0
+gyngres	congress	0	0	1	0	0
+be	what	0	0	1	0	0
+rhain	these	0	0	1	1	1
+wledydd	countries	0	0	1	0	0
+ba	what	0	0	1	0	0
+bb	bb	0	0	1	0	0
+rhaid	have	0	0	1	0	1
+bo	as	0	0	1	0	0
+bi	bi	0	0	1	0	0
+gwneir	is	0	0	1	0	0
+chanol	center	0	0	1	0	0
+bt	bt	0	0	1	0	0
+arferai	used	0	0	1	0	0
+ffynnu	thrive	0	0	1	1	1
+santa	santa	0	0	1	0	0
+carol	carol	0	0	1	1	1
+victoria	victoria	0	0	1	0	0
+by	by	0	0	1	0	0
+tommy	tommy	0	0	1	0	0
+cyfeilio	accompanied	0	0	1	0	1
+agosach	closer	0	0	1	0	0
+anything	anything	0	0	1	0	0
+arwynebeddkm²	km area	0	0	1	0	0
+arwynebeddkm²	area (kilometers) sqaure	0	0	1	0	0
+ffisegol	physical	0	0	1	0	0
+melbourne	melbourne	0	0	1	0	0
+parciau	parks	0	0	1	0	0
+siasbar	jasper	0	0	1	0	0
+clinton	clinton	0	0	1	0	0
+cytundeb	agreement	0	0	1	1	1
+treulio	spend	0	0	1	1	1
+into	into	0	0	1	0	0
+adnod	verse	0	0	1	1	1
+aflwyddiannus	unsuccessful	0	0	1	1	1
+ymerodraethol	imperial	0	0	1	0	0
+ymosododd	attacked	0	0	1	0	0
+egwyddor	principle	0	0	1	1	1
+ysbyty	hospital	0	0	1	1	1
+ffranciaid	franks	0	0	1	0	0
+marie	marie	0	0	1	0	0
+ddifrifol	serious	0	0	1	0	0
+spam	spam	0	0	1	0	0
+ddylid	be	0	0	1	0	0
+ddylid	should	0	0	1	0	0
+categoribioleg	categoribioleg	0	0	1	0	0
+categoribioleg	biology category	0	0	1	0	0
+conwy	conwy	0	0	1	0	1
+profion	tests	0	0	1	0	1
+profion	mains	0	0	1	0	1
+ptolemi	ptolemy	0	0	1	0	0
+danddaearol	underground	0	0	1	0	0
+fewnfudwyr	immigrants	0	0	1	0	0
+somme	somme	0	0	1	0	0
+naturol	a natural	0	0	1	0	0
+wrethra	urethra	0	0	1	0	0
+ffosffad	phosphate	0	0	1	0	0
+batagonia	patagonia	0	0	1	0	0
+llengoedd	legions	0	0	1	0	0
+atom	us	0	0	1	0	1
+atom	atom	0	0	1	1	1
+gylchdro	rotation	0	0	1	0	0
+fudiad	organization	0	0	1	0	0
+heinrich	heinrich	0	0	1	0	0
+ministerio	ministerio	0	0	1	0	0
+cib	hull	0	0	1	0	1
+cia	cia	0	0	1	0	0
+cig	meat	0	0	1	1	1
+erich	erich	0	0	1	0	0
+podiceps	podiceps	0	0	1	0	0
+pwerus	powerful	0	0	1	1	1
+up	up	0	0	1	0	0
+us	us	0	0	1	0	1
+ur	ur	0	0	1	0	0
+morocco	morocco	0	0	1	0	0
+dwyieithog	bilingual	0	0	1	1	1
+uk	uk	0	0	1	0	0
+peryglus	dangerous	0	0	1	1	1
+ue	ue	0	0	1	0	0
+marseille	marseille	0	0	1	0	0
+uc	to t	0	0	1	0	0
+bawd|chwith|y	thumb | left | the	0	0	1	0	0
+ddisodli	replaced	0	0	1	0	0
+olynol	consecutive	0	0	1	1	1
+m	m	0	0	1	0	0
+chan	by	0	0	1	0	0
+chao	chao	0	0	1	0	0
+ehangwyd	expanded	0	0	1	0	0
+llyn	lake	0	0	1	1	1
+dywedodd	said	0	0	1	0	0
+tystiolaeth	evidence	0	0	1	1	1
+enwogion	celebrities	0	0	1	0	0
+simneiau	chimneys	0	0	1	0	0
+esblygu	evolve	0	0	1	0	0
+orlawn	overcrowded	0	0	1	0	0
+ofynnodd	asked	0	0	1	0	0
+dirwasgiad	recession	0	0	1	0	1
+lucia	lucia	0	0	1	0	0
+gwellodd	improved	0	0	1	0	0
+lang	lang	0	0	1	0	0
+slofenia	slovenia	0	0	1	0	0
+land	land	0	0	1	0	0
+frest	chest	0	0	1	0	0
+gwnaed	was	0	0	1	0	0
+parcio	parking	0	0	1	0	0
+cwta	just	0	0	1	0	1
+hadau	seeds	0	0	1	0	0
+diplomyddol	diplomatic	0	0	1	0	0
+cymhlyg	complex	0	0	1	0	0
+gwagolyn	vacuole	0	0	1	0	0
+copaon	peaks	0	0	1	0	0
+copaon	peak	0	0	1	0	0
+neilltuo	assigned	0	0	1	0	1
+duwiesau	goddesses	0	0	1	0	0
+amddiffyn	protection	0	0	1	0	1
+maastricht	maastricht	0	0	1	0	0
+caeredin	edinburgh	0	0	1	1	1
+sancsiynau	sanctions	0	0	1	0	0
+gynharaf	the earliest	0	0	1	0	0
+gynharaf	gynharaf	0	0	1	0	0
+parhad	continued	0	0	1	0	0
+ddigwyddiadau	events	0	0	1	0	0
+gwahaniaethau	differences	0	0	1	0	0
+furiau	walls	0	0	1	0	0
+young	ifanc	0	0	1	0	0
+young	young	0	0	1	0	0
+parhau	continue	0	0	1	0	0
+rygbi	rugby	1	1	1	0	1
+scarlets	scarlets	0	0	1	0	0
+garden	car	0	0	1	0	0
+garden	card	0	0	1	0	0
+teresa	teresa	0	0	1	0	0
+categorieg	categorieg	0	0	1	0	0
+arferion	practices	0	0	1	0	0
+dyfeisio	devise	0	0	1	1	1
+trosiannol	transitional	0	0	1	0	0
+cysylltiedig	cysylllltiedig	0	0	1	0	1
+cysylltiedig	related	0	0	1	0	1
+cefnogir	supported	0	0	1	0	0
+tri	three	0	0	1	1	1
+drwg	bad	0	0	1	1	1
+tro	time	0	0	1	1	1
+taith	trip	0	0	1	0	1
+tra	while	0	0	1	1	1
+eva	eva	0	0	1	0	0
+f	f	0	0	1	0	0
+eve	eve	0	0	1	0	0
+drwm	heavy	1	0	1	0	0
+drwm		1	0	1	0	0
+drwm	drum	1	1	0	0	0
+drwm	peshkash	1	0	1	0	0
+drwm	offer	1	0	1	0	0
+drwm	round	1	1	0	0	0
+ieithyddion	linguists	0	0	1	0	0
+drws	door	0	0	1	1	1
+this	this	0	0	1	0	0
+ddarlledu	broadcasting	0	0	1	0	0
+categorigweithredwyr	categorigweithredwyr	0	0	1	0	0
+drwy	by	0	0	1	0	1
+leonardo	leonardo	0	0	1	0	0
+mahler	mahler	0	0	1	0	0
+caergybi	holyhead	0	0	1	1	1
+dirwyn	winding	0	0	1	0	1
+ulster	ulster	0	0	1	0	0
+cocteau	cocteau	0	0	1	0	0
+natur	nature	0	0	1	1	1
+rhesymau	reasons	0	0	1	0	0
+anhrefn	disorder	0	0	1	1	1
+video	video	0	0	1	0	0
+gwaelodol	underlying	0	0	1	0	0
+trwchus	thick	0	0	1	1	1
+orwedd	lie	0	0	1	0	0
+victor	victor	0	0	1	0	0
+gorllewin	west	0	0	1	1	1
+areola	areola	0	0	1	0	0
+ostrogothiaid	ostrogothiaid	0	0	1	0	0
+funud	minute	0	0	1	0	0
+indian	indian	0	0	1	0	0
+gwareiddiadau	civilizations	0	0	1	0	0
+iddor	riddor	0	0	1	0	0
+euog	guilty	0	0	1	1	1
+rhagflaenydd	predecessor	0	0	1	1	1
+llenwir	filled	0	0	1	0	0
+led	width	0	0	1	0	0
+lee	lee	0	0	1	0	0
+arweinydd	leader	0	0	1	1	1
+cyfaint	volume	0	0	1	0	0
+leo	leo	0	0	1	0	0
+gysegredig	sacred	0	0	1	0	0
+les	welfare	0	0	1	0	0
+phleidlais	vote	0	0	1	0	0
+lev	lev	0	0	1	0	0
+ennill	win	0	0	1	1	1
+gweinidogion	ministers	0	0	1	0	0
+goleuni	light	0	0	1	1	1
+great	great	0	0	1	0	0
+ddefnyddir	used	0	0	1	0	0
+pentraeth	pentraeth	0	0	1	0	0
+arddangos	display	0	0	1	0	0
+mehmed	mehmed	0	0	1	0	0
+proffwyd	prophet	0	0	1	1	1
+unigrwydd	loneliness	0	0	1	1	1
+mawr	large	0	0	1	1	1
+herodotus	herodotus	0	0	1	0	0
+halbwm	album	0	0	1	0	0
+thats	thats	0	0	1	0	0
+phocaena	phocaena	0	0	1	0	0
+firefox	firefox	0	0	1	0	0
+rhuddlan	rhuddlan	0	0	1	0	0
+strabo	strabo	0	0	1	0	0
+gregor	gregor	0	0	1	0	0
+dadleoledig	displaced	0	0	1	0	0
+tanddaearol	underground	0	0	1	1	1
+safle	site	0	0	1	0	1
+next	next	0	0	1	0	0
+mynci	mynci	0	0	1	0	1
+llangefni	llangefni	0	0	1	0	0
+pawb	everyone	0	0	1	1	1
+gyflym	quickly	0	0	1	0	0
+hugain	twenty	0	0	1	0	0
+pepsin	pepsin	0	0	1	0	0
+gwyddelod	irish	0	0	1	0	0
+bryderon	concerns	0	0	1	0	0
+hoywon	gays	0	0	1	0	0
+high	high	0	0	1	0	0
+hynafiaethwyr	antiquarians	0	0	1	0	0
+parotiaid	parrots	0	0	1	0	0
+thir	land	0	0	1	0	0
+challenge	challenge	0	0	1	0	0
+torchog	coiled	0	0	1	1	1
+phob	all	0	0	1	0	0
+gomiwnyddion	communists	0	0	1	0	0
+mabon	mabon	0	0	1	0	0
+tryfan	tryfan	0	0	1	0	0
+coffin	coffin	0	0	1	0	0
+bartneriaeth	partnership	0	0	1	0	0
+cymorth	support	0	0	1	0	1
+frodorol	native	0	0	1	0	0
+pawl	pawl	0	0	1	0	1
+hidlydd	filter	0	0	1	0	0
+geiriau	words	0	0	1	0	1
+loch	loch	0	0	1	0	0
+cyhoeddus	public	0	0	1	1	1
+gwybedog	pied	0	0	1	0	0
+llwy	spoon	0	0	1	1	1
+glwb	club	0	0	1	0	0
+dethlir	celebrated	0	0	1	0	0
+ddeunawfed	eighteenth	0	0	1	0	0
+reynolds	reynolds	0	0	1	0	0
+gyda	with	0	0	1	1	1
+ffinio	bounded	0	0	1	0	1
+ffinio	ffnio	0	0	1	0	1
+comedi	comedy	0	0	1	1	1
+gwenith	wheat	0	0	1	1	1
+gallwch	can	0	0	1	0	0
+dwrci	turkey	0	0	1	0	0
+iorddonen	jordan	0	0	1	1	1
+gwyddonydd	gwyddondd	0	0	1	0	1
+gwyddonydd	scientist	0	0	1	1	1
+marmota	marmota	0	0	1	0	0
+haws	easier	0	0	1	1	1
+gorffennol	past	0	0	1	1	1
+pasteur	pasteur	0	0	1	0	0
+lleferydd	speech	0	0	1	1	1
+gyferbyniad	contrast	0	0	1	0	0
+gyfeirio	reference	0	0	1	0	0
+hawl	right	0	0	1	1	1
+almaen	germany	0	0	1	0	0
+ddeall	understand	0	0	1	0	0
+cylchred	cycle	0	0	1	0	0
+bywydau	lives	0	0	1	0	0
+cricieth	criccieth	0	0	1	0	0
+cynhyrchu	production	0	0	1	0	1
+issn	issn	0	0	1	0	0
+robot	robot	0	0	1	0	0
+català	batala	0	0	1	0	0
+català	català	0	0	1	0	0
+feddianwyd	was occupied	0	0	1	0	0
+deunydd	material	0	0	1	1	1
+allor	altar	0	0	1	1	1
+mlaenau	the upper	0	0	1	0	0
+mlaenau	upper	0	0	1	0	0
+siocled	chocolate	0	0	1	0	0
+dorrir	cut	0	0	1	0	0
+houston	houston	0	0	1	0	0
+cyfan	all	0	0	1	1	1
+ragor	more	0	0	1	0	0
+luosog	multiple	0	0	1	0	0
+terfyn	limit	0	0	1	0	1
+chwedlonol	legendary	0	0	1	0	1
+brahma	brahma	0	0	1	0	0
+warren	warren	0	0	1	0	0
+tyrciaid	turks	0	0	1	0	1
+gwastadedd	plain	0	0	1	1	1
+puerto	puerto	0	0	1	0	0
+indotsieina	indotsieina	0	0	1	0	0
+hyd	up	0	0	1	0	1
+nghernyw	cornwall	0	0	1	0	0
+rhedeg	run	0	0	1	1	1
+wastad	always	0	0	1	0	0
+aelodwladwriaethau	member states	0	0	1	0	0
+einglsacsoniaid	einglsacsoniaid	0	0	1	0	0
+fyth	even	0	0	1	0	0
+chwilen	beetle	0	0	1	1	1
+transparent	transparent	0	0	1	0	0
+liberia	liberia	0	0	1	0	0
+themâu	themes	0	0	1	0	0
+ffilmiau	films	0	0	1	0	0
+ymosodwyd	attacked	0	0	1	0	0
+persia	persia	0	0	1	0	0
+leihau	reduce	0	0	1	0	0
+daeth	was	0	0	1	0	0
+dafydd	gavin	0	0	1	0	1
+metr	meters	0	0	1	0	1
+iddewon	jewish	0	0	1	0	0
+iddewon	iddwwon	0	0	1	0	0
+bump	five	0	0	1	0	0
+siop	shop	0	0	1	1	1
+lloeren	satellite	0	0	1	0	0
+gysylltir	associated	0	0	1	0	0
+fedyddio	baptized	0	0	1	0	0
+palaiologos	palaiologos	0	0	1	0	0
+sioe	show	0	0	1	1	1
+shannon	shannon	0	0	1	0	0
+honni	claims	0	0	1	0	1
+galerius	galerius	0	0	1	0	0
+honno	that	0	0	1	1	1
+fwyaf	most	0	0	1	0	0
+gwanhau	diluted	0	0	1	0	1
+liwiau	colors	0	0	1	0	0
+wyntyll	fan	0	0	1	0	0
+oceanodroma	oceanodroma	0	0	1	0	0
+burke	burke	0	0	1	0	0
+unochrog	unilateral	0	0	1	0	0
+rectwm	rectum	0	0	1	0	0
+thrush	thrush	0	0	1	0	0
+treth	tax	0	0	1	1	1
+dysgodd	learned	0	0	1	0	0
+seneddwyr	parliamentarians	0	0	1	0	0
+berson	person	0	0	1	0	0
+brosiect	milking	0	0	1	0	0
+brosiect	project	0	0	1	0	0
+rannau	parts	0	0	1	0	0
+culhwch	culhwch	0	0	1	0	0
+log	log	0	0	1	0	0
+breiniol	liberal	0	0	1	0	1
+cymdeithaseg	sociology	0	0	1	0	0
+cystadlu	competing	0	0	1	0	1
+could	could	0	0	1	0	0
+ivor	ivor	0	0	1	0	0
+david	david	0	0	1	0	0
+wrthwynebu	object	0	0	1	0	0
+drymau	drymau	0	0	1	0	0
+denodd	attracted	0	0	1	0	0
+keltoi	keltoi	0	0	1	0	0
+davis	davis	0	0	1	0	0
+sgîl	from	0	0	1	0	0
+hussein	hussein	0	0	1	0	0
+threfedigaethau	colonies	0	0	1	0	0
+diriogaethaur	diriogaethaur	0	0	1	0	0
+concrwyd	conquered	0	0	1	0	0
+concrwyd	conqured	0	0	1	0	0
+physik	physik	0	0	1	0	0
+physik	physic	0	0	1	0	0
+lledaenodd	spread	0	0	1	0	0
+gerbydau	vehicles	0	0	1	0	0
+wastadedd	plain	0	0	1	0	0
+iddewalmaeneg	iddewalmaeneg	0	0	1	0	0
+ddiogelu	protect	0	0	1	0	0
+lenwi	complete	0	0	1	0	0
+eidal	italy	0	0	1	0	0
+annibynol	independent	0	0	1	0	0
+meddiannodd	possessed	0	0	1	0	0
+system	system	0	0	1	0	0
+clo	lock	0	0	1	1	1
+osododd	set	0	0	1	0	0
+feicio	cycling	0	0	1	0	0
+arlunwyr	artists	0	0	1	0	0
+alldafliad	ejuction	0	0	1	0	0
+alldafliad	ejection	0	0	1	0	0
+dymhereddau	temperatures	0	0	1	0	0
+cyfoethocaf	the richest	0	0	1	0	0
+undduwiaeth	monotheism	0	0	1	0	0
+leoedd	places	0	0	1	0	0
+rhyddiaith	prose	1	1	1	1	1
+rhyddiaith	tinus	1	0	1	0	1
+rhyddiaith	tennis	1	0	1	0	1
+rhyddiaith	tenis	1	0	1	0	1
+unedol	unitary	0	0	1	1	1
+bondio	bonding	0	0	1	0	0
+diddanwyr	entertainers	0	0	1	0	0
+unigolion	individuals	0	0	1	0	0
+categoricymru	categoricymru	0	0	1	0	0
+roberts	roberts	0	0	1	0	0
+efallai	may	0	0	1	0	1
+coluddyn	intestine	0	0	1	0	1
+blodau	flowers	0	0	1	0	1
+lleol	local	0	0	1	1	1
+morrisjones	morrisjones	0	0	1	0	0
+arfordir	vanera	1	0	1	0	1
+arfordir	venera	1	0	1	0	1
+arfordir	coast	1	1	1	1	1
+ngwanwyn	spring	0	0	1	0	0
+sgïo	tagging	0	0	1	0	0
+sgïo	skiing	0	0	1	0	0
+llyfrgelloedd	libraries	0	0	1	0	0
+ngwlad	country	0	0	1	0	0
+brycheiniog	brecon	0	0	1	0	1
+awen	muse	0	0	1	1	1
+documents	documents	0	0	1	0	0
+allweddell	keyboard	0	0	1	0	0
+ddyddiol	daily	0	0	1	0	0
+gangen	branch	0	0	1	0	0
+finalé	finale	0	0	1	0	0
+gymhleth	complex	0	0	1	0	0
+eithin	gorse	0	0	1	0	0
+chiba	chiba	0	0	1	0	0
+méxico	mexico	0	0	1	0	0
+linda	linda	0	0	1	0	0
+subject	subject	0	0	1	0	0
+eryr	eagle	0	0	1	1	1
+erys	remains	0	0	1	0	0
+erys	remain	0	0	1	0	0
+bwriad	view	0	0	1	0	1
+wynebur	face up	0	0	1	0	0
+fideo	video	0	0	1	1	1
+ildiodd	surrendered	0	0	1	0	0
+fidel	fidel	0	0	1	0	0
+bioamrywiaeth	biodiversity	0	0	1	0	0
+holocost	holocaust	0	0	1	0	0
+ddiffyg	lack of	0	0	1	0	0
+medal	medal	0	0	1	0	0
+gwaddod	sediment	0	0	1	1	1
+gynulleidfa	audience	0	0	1	0	0
+bren	timber	0	0	1	0	0
+fach	small	0	0	1	0	0
+rhanbarth	region	1	1	1	0	1
+rhanbarth	slowly	1	0	1	0	1
+rhanbarth	gradually	1	0	1	0	1
+rhanbarth	reigon	1	0	1	0	1
+categoricerddoriaeth	categoricerddoriaeth	0	0	1	0	0
+gwisgo	wear	0	0	1	1	1
+ddiddorol	interesting	0	0	1	0	0
+colledion	losses	0	0	1	0	0
+diflannu	disappear	0	0	1	1	1
+wneud	do	0	0	1	0	0
+manchester	manchester	0	0	1	0	0
+lloyd	lloyd	0	0	1	0	0
+ymgeiswyr	candidates	0	0	1	0	0
+danwydd	fuel	0	0	1	0	0
+principal	principal	0	0	1	0	0
+jay	jay	0	0	1	0	0
+should	should	0	0	1	0	0
+kernewek	kernewek	0	0	1	0	0
+jam	jam	0	0	1	1	1
+oesoffagws	esophagus	0	0	1	0	0
+gynhelir	maintained	0	0	1	0	0
+jac	jack	0	0	1	0	0
+hope	hope	0	0	1	0	0
+gwastraff	waste	0	0	1	1	1
+means	means	0	0	1	0	0
+ailgydiodd	resumed	0	0	1	0	0
+ira	ira	0	0	1	0	0
+denmarc	denmark	0	0	1	0	0
+siâp	shape	0	0	1	0	0
+aer	air	0	0	1	1	1
+reis	rice	0	0	1	1	1
+mynnodd	insisted	0	0	1	0	0
+bledren	bladder	0	0	1	0	0
+gwleidydd	politician	0	0	1	1	1
+gysylltu	contact	0	0	1	0	0
+gbp	gbp	0	0	1	0	0
+apwyntiwyd	appointed	0	0	1	0	0
+apwyntiwyd	appoined	0	0	1	0	0
+prichard	prichard	0	0	1	0	0
+fewn	within	0	0	1	0	0
+lôn	lane	0	0	1	0	0
+ddanfon	send	0	0	1	0	0
+trodd	turned	0	0	1	0	0
+clawr	cover	0	0	1	1	1
+rhannu	share	0	0	1	1	1
+ddethol	selection	0	0	1	0	0
+alessandro	alessandro	0	0	1	0	0
+bwysicaf	most	0	0	1	0	0
+lyon	lyon	0	0	1	0	0
+cefnogwyr	supporters	0	0	1	0	0
+cymeriad	character	0	0	1	1	1
+broblem	problem	0	0	1	0	0
+hysgrifennu	written	0	0	1	0	0
+trowyd	turned	0	0	1	0	0
+sicrwydd	security	0	0	1	0	1
+gyfathrebu	communication	0	0	1	0	0
+ifanc	young	0	0	1	1	1
+hajj	hajj	0	0	1	0	0
+americanaidd	american	0	0	1	1	1
+americanaidd	amereicanaidd	0	0	1	0	1
+newidiadau	changes	0	0	1	0	0
+ifans	ifans	0	0	1	0	0
+gwenlyn	gwenlyn	0	0	1	0	0
+ddarn	piece	0	0	1	0	0
+fygythiad	threat	0	0	1	0	0
+adloniant	entertainment	0	0	1	1	1
+anhebyg	unlikely	0	0	1	0	0
+proffesiynol	professional	0	0	1	1	1
+rama	rama	0	0	1	0	0
+ailgipio	retaken	0	0	1	0	0
+chaplin	chaplin	0	0	1	0	0
+ci	dog	0	0	1	1	1
+ch	d	0	0	1	0	0
+ieithydd	linguist	0	0	1	1	1
+ucr	ucr	0	0	1	0	0
+cm	cm	0	0	1	0	0
+drosglwyddo	transfer	0	0	1	0	0
+cc	cc	0	0	1	0	0
+ffigwr	figure	0	0	1	0	0
+malcolm	malcolm	0	0	1	0	0
+cf	cf	0	0	1	0	0
+gydfynd	match	0	0	1	0	0
+cd	cd	0	0	1	0	0
+mabinogion	mabinogion	0	0	1	0	0
+dywed	says	0	0	1	0	0
+saesneg	english	0	0	1	1	1
+bandiau	bands	0	0	1	0	0
+cu	cu	0	0	1	0	1
+gipio	capture	0	0	1	0	0
+dysg	learning	0	0	1	1	1
+pedol	u	0	0	1	0	1
+rhoda	rhoda	0	0	1	0	0
+genetig	genetic	0	0	1	0	0
+honiadau	allegations	0	0	1	0	0
+>	>	0	0	1	0	0
+fferm	farm	0	0	1	0	1
+nghwm	valley	0	0	1	0	0
+fferi	ferry	0	0	1	0	0
+gwella	improve	0	0	1	1	1
+chwyldroadol	revolutionary	0	0	1	1	1
+llosgwyd	burned	0	0	1	0	0
+oherwydd	because	0	0	1	1	1
+commodus	commodus	0	0	1	0	0
+hiliaeth	racism	0	0	1	0	0
+cyfrifiaduron	computers	0	0	1	0	0
+brwydr	battle	0	0	1	1	1
+gitâr	guitar	0	0	1	0	0
+esblygiad	evalution	1	0	1	0	0
+esblygiad	him / her	1	0	1	0	0
+esblygiad	evolution	1	1	1	0	0
+esblygiad	that	1	0	1	0	0
+gordderch	illegitimate	0	0	1	0	1
+gyrchfan	destination	0	0	1	0	0
+gwrtaith	fertilizer	0	0	1	0	1
+vi	vi	0	0	1	0	0
+fflworin	fluorine	0	0	1	0	0
+goroni	crowned	0	0	1	0	0
+macedonia	macedonia	0	0	1	0	0
+categorigwyliau	holiday category	0	0	1	0	0
+almaenaidd	german	0	0	1	1	1
+juan	juan	0	0	1	0	0
+eithafol	extreme	0	0	1	1	1
+gyflwr	condition	0	0	1	0	0
+gludo	transport	0	0	1	0	0
+matthew	matthew	0	0	1	0	0
+rhosynnau	roses	0	0	1	0	0
+rhosynnau	rosed	0	0	1	0	0
+gymuned	community	0	0	1	0	0
+gloddio	mining	0	0	1	0	0
+ystadegaeth	statistics	0	0	1	0	0
+ystadegaeth	ststistics	0	0	1	0	0
+ball	default	0	0	1	0	0
+columbia	columbia	0	0	1	0	0
+raymond	raymond	0	0	1	0	0
+bali	bali	0	0	1	0	0
+trên	train	0	0	1	0	0
+cyflwynodd	presented	0	0	1	0	0
+bale	ballet	0	0	1	1	1
+upon	upon	0	0	1	0	0
+bala	bala	0	0	1	0	1
+iago	james	0	0	1	1	1
+hynafiaethau	antiquities	0	0	1	0	0
+pompeius	pompeius	0	0	1	0	0
+gymeriadau	characters	0	0	1	0	0
+php	php	0	0	1	0	0
+ofc	ofc	0	0	1	0	0
+lupus	lupus	0	0	1	0	0
+off	off	0	0	1	0	0
+mhortiwgal	portugal	0	0	1	0	0
+briod	married	0	0	1	0	0
+gyfraniadau	contribution	0	0	1	0	0
+gyfraniadau	contributions	0	0	1	0	0
+indonesia	indonesia	0	0	1	0	0
+ofn	fear	0	0	1	1	1
+dinas	city	0	0	1	1	1
+phan	when	0	0	1	0	0
+polyn	pole	0	0	1	1	1
+olion	remains	0	0	1	0	0
+audio	audio	0	0	1	0	0
+eithrio	than	0	0	1	0	1
+lliw	color	1	1	1	1	1
+lliw	fas	1	0	1	0	1
+lliw	colour	1	1	0	0	1
+lliw	fez	1	0	1	0	1
+tlws	trophy	0	0	1	0	1
+crehyrod	herons	0	0	1	0	1
+daearol	terrestrial	0	0	1	1	1
+reolai	controlled	0	0	1	0	0
+syth	immediately	0	0	1	0	1
+llif	flow	0	0	1	0	1
+reolau	rules	0	0	1	0	0
+geller	teller	0	0	1	0	0
+gefndir	background	0	0	1	0	0
+echdoriadau	eruption	0	0	1	0	0
+echdoriadau	eruptions	0	0	1	0	0
+foddi	drowning	0	0	1	0	0
+methan	methane	0	0	1	0	0
+paul	paul	0	0	1	0	0
+mwslemiaid	muslims	0	0	1	0	0
+ngwaith	work	0	0	1	0	0
+trafod	discuss	0	0	1	1	1
+wen	white	0	0	1	0	0
+deyrnasiad	reign	0	0	1	0	0
+deyrnasiad	deyrnasaid	0	0	1	0	0
+gyfoethog	rich	0	0	1	0	0
+perfformiad	performance	0	0	1	1	1
+perfformiad	of performance	0	0	1	0	1
+blaenwr	striker	0	0	1	0	1
+alwminiwm	aluminum	0	0	1	0	0
+fantais	advantage	0	0	1	0	0
+pied	pied	0	0	1	0	0
+dyddio	dates	0	0	1	0	1
+crud	cradle	0	0	1	1	1
+cruz	cruz	0	0	1	0	0
+zimbabwe	zimbabwe	0	0	1	0	0
+five	five	0	0	1	0	0
+pier	pier	0	0	1	0	0
+categorigwefannau	category: websites	0	0	1	0	0
+categorigwefannau	categorigwefannau	0	0	1	0	0
+crist	christ	0	0	1	1	1
+gwyddys	known	0	0	1	0	0
+amazonas	amazonas	0	0	1	0	0
+gwenwyn	poisoning	0	0	1	0	1
+ddeddf	law	0	0	1	0	0
+daflu	throw	0	0	1	0	0
+tehuelches	tehuelches	0	0	1	0	0
+concwest	conquest	0	0	1	1	1
+godwyd	raised	0	0	1	0	0
+ledled	throughout	0	0	1	0	0
+cogau	cuckoos	0	0	1	0	0
+peiriant	machine	0	0	1	1	1
+pwllheli	pwllheli	0	0	1	0	0
+mozambique	mozambique	0	0	1	0	0
+wcráin	ukraine	0	0	1	0	0
+cowper	cooper	0	0	1	0	0
+gothiaid	goths	0	0	1	0	0
+ddiwygiad	amendment	0	0	1	0	0
+derfynol	final	0	0	1	0	0
+does	there	0	0	1	0	0
+saesnegcymraeg	english-welsh	0	0	1	0	0
+saesnegcymraeg	saesnegcymraeg	0	0	1	0	0
+hylifol	liquid	0	0	1	0	0
+chytunodd	agreed	0	0	1	0	0
+diwinyddiaeth	theology	0	0	1	1	1
+llafar	oral	0	0	1	0	1
+brifysgolion	universities	0	0	1	0	0
+tansania	tanzania	0	0	1	0	0
+oedran	age	0	0	1	1	1
+gwartheg	cattle	0	0	1	1	1
+categorirhyw	categorirhyw	0	0	1	0	0
+talur	paying	0	0	1	0	0
+counties	counties	0	0	1	0	0
+iwan	iwan	0	0	1	0	1
+angeles	angeles	0	0	1	0	0
+amddifad	orphan	0	0	1	1	1
+theatrau	theaters	0	0	1	0	0
+ysbryd	spirit	0	0	1	1	1
+lleuad	moon	0	0	1	1	1
+athroniaeth	philosophy	0	0	1	1	1
+athroniaeth	athroniaeath	0	0	1	0	1
+difrod	damage	0	0	1	1	1
+software	software	0	0	1	0	0
+kemal	kemal	0	0	1	0	0
+nwylor	nwylor	0	0	1	0	0
+mers	mers	0	0	1	0	0
+catherine	catherine	0	0	1	0	0
+commitment	drs	0	0	1	0	0
+commitment	commitment	0	0	1	0	0
+heddluoedd	forces	0	0	1	0	0
+teyrnasu	reign	0	0	1	1	1
+included	included	0	0	1	0	0
+luna	luna	0	0	1	0	0
+ficedula	ficedula	0	0	1	0	0
+rhyfelwr	warrior	0	0	1	1	1
+gogleddddwyrain	gogleddddwyrain	0	0	1	0	0
+gogleddddwyrain	north east	0	0	1	0	0
+ddylanwad	influence	0	0	1	0	0
+osodwyd	set	0	0	1	0	0
+diffiniwyd	defined	0	0	1	0	0
+datblygodd	developed	0	0	1	0	0
+sêr	stars	0	0	1	0	0
+official	official	0	0	1	0	0
+gwenyn	bees	0	0	1	0	1
+ymyriad	intervention	0	0	1	0	0
+sêl	seal	0	0	1	0	0
+distribution	distribution	0	0	1	0	0
+addoliad	worship	0	0	1	1	1
+irish	irish	0	0	1	0	0
+corea	korea	0	0	1	0	0
+gofalu	care	0	0	1	1	1
+canwr	singer	0	0	1	1	1
+lynnoedd	lakes	0	0	1	0	0
+ffosilau	fossils	0	0	1	0	0
+barcelona	barcelona	0	0	1	0	0
+aristotle	aristotle	0	0	1	0	0
+cordiau	cards	0	0	1	0	0
+cordiau	chords	0	0	1	0	0
+anaerobig	anaerobic	0	0	1	0	0
+ryngwladol	international	0	0	1	0	0
+chawsant	were	0	0	1	0	0
+leiaf	at least	0	0	1	0	0
+inc	ink	0	0	1	1	1
+gymraeg	welsh	0	0	1	0	0
+nerfau	nerves	0	0	1	0	0
+fforwm	forum	0	0	1	0	0
+brandenburg	brandenburg	0	0	1	0	0
+nghefn	back	0	0	1	0	0
+oakeley	oakekly	0	0	1	0	0
+oakeley	oakeley	0	0	1	0	0
+culfor	strait	0	0	1	1	1
+genau	mouth	0	0	1	1	1
+francisco	francisco	0	0	1	0	0
+macedoneg	macedonian	0	0	1	0	0
+chwarel	quarry	0	0	1	1	1
+dibyniaeth	dependence	0	0	1	0	0
+garamantes	garamantes	0	0	1	0	0
+garamantes	garmantes	0	0	1	0	0
+wragedd	women	0	0	1	0	0
+hanmer	hanmer	0	0	1	0	0
+ranbarth	region	0	0	1	0	0
+morvan	morvan	0	0	1	0	0
+torrir	cut	0	0	1	0	0
+hebraeg	hebrew	0	0	1	1	1
+mozart	mozart	0	0	1	0	0
+dymor	term	0	0	1	0	0
+kanji	kanji	0	0	1	0	0
+eos	nightingale	0	0	1	1	1
+mudiad	organization	0	0	1	0	1
+torrin	breaking	0	0	1	0	0
+biolegol	biological	0	0	1	0	0
+all	can	0	0	1	0	0
+magnetig	magnetic	0	0	1	0	0
+categorichwaraeon	categorichwaraeon	0	0	1	0	0
+ffiwdal	feudal	0	0	1	0	0
+cerdded	walking	0	0	1	0	1
+ffotograffiaeth	photography	0	0	1	0	0
+gwirfoddol	voluntary	0	0	1	1	1
+talybont	talybont	0	0	1	0	0
+creta	crete	0	0	1	0	0
+celfyddydol	arts	0	0	1	0	1
+paentio	painting	0	0	1	0	0
+heddiw	today	0	0	1	1	1
+cyfiawn	complete	0	0	1	0	1
+cyfiawn	just	0	0	1	1	1
+wraig	wife	0	0	1	0	0
+edward	edward	0	0	1	0	0
+gynrychioli	represent	0	0	1	0	0
+arfer	practice	0	0	1	1	1
+ddyled	debt	0	0	1	0	0
+mecaneg	mechanics	0	0	1	0	0
+coedwig	forest	0	0	1	1	1
+gwyddonol	scientific	0	0	1	1	1
+cynharaf	earliest	0	0	1	0	0
+eira	snow	0	0	1	1	1
+pennill	verse	0	0	1	1	1
+arllwys	pour	0	0	1	0	1
+penny	penny	0	0	1	0	0
+manic	manic	0	0	1	0	0
+hydrosffer	hydrosphere	0	0	1	0	0
+lefel	level	0	0	1	1	1
+dyfrllyd	aqueous	0	0	1	0	1
+affrican	african	0	0	1	0	0
+gyfres	series	0	0	1	0	0
+gyfres	sreies	0	0	1	0	0
+seilio	based	0	0	1	0	1
+seilio	silo	0	0	1	0	1
+faes	area	0	0	1	0	0
+crake	crake	0	0	1	0	0
+cmc	gdp	0	0	1	0	0
+fwyar	berries	0	0	1	0	0
+dioddef	suffering	0	0	1	1	1
+wedyn	then	0	0	1	1	1
+sylfaenol	basic	0	0	1	0	1
+seilir	based	0	0	1	0	0
+cantref	hundred	0	0	1	1	1
+jamaica	jamaica	0	0	1	0	0
+amcan	objective	0	0	1	0	1
+deutsch	deutsch	0	0	1	0	0
+ifan	ifan	0	0	1	0	0
+eraill	other	0	0	1	0	1
+horn	horn	0	0	1	0	0
+nodwedd	feature	0	0	1	1	1
+eurovision	eurovision	0	0	1	0	0
+codir	charged	0	0	1	0	0
+lafar	oral	0	0	1	0	0
+galan	galan	0	0	1	0	0
+anghyffredin	unusual	0	0	1	0	1
+ehangodd	expanded	0	0	1	0	0
++	+	0	0	1	0	0
+llipa	floppy	0	0	1	0	1
+dugiaeth	radically	1	0	1	0	1
+dugiaeth	sudden	1	0	1	0	1
+dugiaeth	duchy	1	1	0	0	1
+dugiaeth	stark	1	0	1	0	1
+dugiaeth	ducthy	1	1	0	0	1
+above	above	0	0	1	0	0
+frank	frank	0	0	1	0	0
+lywodraethu	governance	0	0	1	0	0
+mauricius	mauricius	0	0	1	0	0
+pistyll	spring	0	0	1	0	1
+bangkok	bangkok	0	0	1	0	0
+adroddiad	report	0	0	1	1	1
+ganolbwynt	focus	0	0	1	0	0
+noswyl	eve	0	0	1	0	1
+sidan	silk	0	0	1	1	1
+swyddogaethau	functions	0	0	1	0	0
+diweddarach	later	0	0	1	0	0
+glo	coal	0	0	1	1	1
+iechyd	health	0	0	1	1	1
+argraffwyd	printed	0	0	1	0	0
+gynllun	scheme through	0	0	1	0	0
+gynllun	a	0	0	1	0	0
+sacsoffon	saxophone	0	0	1	0	0
+ddaearegol	geological	0	0	1	0	0
+ddiwylliannau	cultures	0	0	1	0	0
+honshu	honshu	0	0	1	0	0
+etholiadau	elections	0	0	1	0	0
+bro	bro	0	0	1	0	1
+ffurf	form	0	0	1	1	1
+cholli	loss	0	0	1	0	0
+gynt	earlier	0	0	1	0	1
+bri	prestige	0	0	1	0	1
+yfed	drinking	0	0	1	0	1
+spongiosum	spongiosum	0	0	1	0	0
+categoricerbydau	categoricerbydau	0	0	1	0	0
+categoricerbydau	category vehicles	0	0	1	0	0
+cana	ring	0	0	1	0	0
+bydenwog	world famous	0	0	1	0	0
+didrais	didrais	0	0	1	0	0
+is	lower	0	0	1	1	1
+is	is	0	0	1	0	1
+ganeuon	songs	0	0	1	0	0
+giovanni	giovanni	0	0	1	0	0
+categoriyr	categoriyr	0	0	1	0	0
+supergroup	supergroup	0	0	1	0	0
+gwrthiant	resistance	0	0	1	0	0
+adrianople	adrianople	0	0	1	0	0
+mathew	matthew	0	0	1	0	0
+word	word	0	0	1	0	0
+word	worg	0	0	1	0	0
+ers	since	0	0	1	1	1
+chyflawni	delivery	0	0	1	0	0
+work	gwaith	0	0	1	0	0
+mwyaf	more	0	0	1	0	1
+rhyddhaodd	released	0	0	1	0	0
+era	for several	0	0	1	0	0
+ddisgen	disc	0	0	1	0	0
+moelona	moelona	0	0	1	0	0
+ugain	twenty	0	0	1	1	1
+cymharu	compare	0	0	1	1	1
+factbook	factbook	0	0	1	0	0
+brwydro	fighting	0	0	1	0	1
+bennett	bennett	0	0	1	0	0
+india	india	0	0	1	0	0
+derbyniodd	received	0	0	1	0	0
+tafodiaith	dialect	0	0	1	1	1
+gemegol	chemical	0	0	1	0	0
+cyfandir	continent	0	0	1	1	1
+proffil	profile	0	0	1	0	0
+cystadlaethau	competitions	0	0	1	0	0
+ffocysu	focus	0	0	1	0	0
+fasged	basket	0	0	1	0	0
+frythoneg	brythonic	0	0	1	0	0
+gamblo	gambling	0	0	1	0	0
+datblygwyd	developed	0	0	1	0	0
+drwsio	repair	0	0	1	0	0
+morol	marine	0	0	1	0	0
+fap	map	0	0	1	0	0
+fagina	vagina	0	0	1	0	0
+lao	lao	0	0	1	0	0
+cystennin	constantine	0	0	1	1	1
+ymhell	well	0	0	1	0	1
+gyngor	advice	0	0	1	0	0
+cydymerawdwr	cydymerawdwr	0	0	1	0	0
+hunangynhaliol	self-sufficient	0	0	1	0	0
+mwslim	muslim	0	0	1	0	0
+law	hand	0	0	1	0	0
+arch	ark	0	0	1	1	1
+arch	arch	0	0	1	0	1
+ddinesig	start	0	0	1	0	0
+ddinesig	civic	0	0	1	0	0
+las	blue	0	0	1	0	0
+berber	berber	0	0	1	0	0
+gwmni	company	0	0	1	0	0
+longtailed	longtailed	0	0	1	0	0
+effeithlonrwydd	efficiency	0	0	1	0	0
+colomennod	pigeons	0	0	1	0	0
+colomennod	pigeon	0	0	1	0	0
+cadfridogion	generals	0	0	1	0	0
+green	green	0	0	1	0	0
+allweddellau	keyboards	0	0	1	0	0
+fan	here	0	0	1	0	0
+lindsay	lindsay	0	0	1	0	0
+sefydliadaur	sefydliadaur	0	0	1	0	0
+taflegrau	missiles	0	0	1	0	0
+glowyr	miners	0	0	1	0	0
+pwyntiau	points	0	0	1	0	0
+bygwth	threatening	0	0	1	0	1
+rhyngweithiad	interaction	0	0	1	0	0
+japan	japan	0	0	1	0	0
+syniad	idea	0	0	1	1	1
+tymherus	temperate	0	0	1	1	1
+gamau	action	0	0	1	0	0
+dargludo	conduction	0	0	1	0	0
+ffesant	pheasant	0	0	1	1	1
+christie	christie	0	0	1	0	0
+theo	theo	0	0	1	0	0
+then	wedyn	0	0	1	0	0
+coffee	coffee	0	0	1	0	0
+brosesau	processes	0	0	1	0	0
+break	break	0	0	1	0	0
+gweddillion	residues	0	0	1	0	0
+ffiniaur	boundaries	0	0	1	0	0
+ffiniaur	ffiniaur	0	0	1	0	0
+tsieina	china	0	0	1	0	0
+banc	bank	0	0	1	1	1
+byddin	army	0	0	1	1	1
+diddorol	interesting	0	0	1	1	1
+germania	germania	0	0	1	0	0
+germanig	germanig	0	0	1	0	0
+doler	dollar	0	0	1	1	1
+l	to	0	0	1	0	0
+l	l	0	0	1	0	0
+dolen	link	0	0	1	1	1
+mrna	mrna	0	0	1	0	0
+ormod	too	0	0	1	0	0
+carlos	carlos	0	0	1	0	0
+tafodieitheg	dialectology	1	1	0	0	0
+eirian	eirian	0	0	1	0	1
+llawer	many	0	0	1	0	0
+heuldror	heuldror	0	0	1	0	0
+sgerbwd	skeleton	1	1	1	0	0
+sgerbwd	pick up	1	0	1	0	0
+sgerbwd	select	1	0	1	0	0
+sgerbwd	choose	1	0	1	0	0
+moçambique	mocambique	0	0	1	0	0
+moçambique	mosambique	0	0	1	0	0
+moçambique	moçambique	0	0	1	0	0
+angau	death	0	0	1	1	1
+chyrchoedd	raids	0	0	1	0	0
+gynhesach	warmer	0	0	1	0	0
+difyrrwch	amusement	0	0	1	1	1
+tetanws	there after there	1	0	1	0	0
+tetanws	tetanus	1	1	0	0	0
+tetanws	after	1	0	1	0	0
+tetanws	one	1	0	1	0	0
+tetanws	tatanus	1	0	1	0	0
+tetanws	tetans	1	0	1	0	0
+bolisïau	policies	0	0	1	0	0
+genedl	nation	0	0	1	0	0
+palas	palace	0	0	1	1	1
+palau	palau	0	0	1	0	0
+dîm	no	0	0	1	0	0
+allheulol	allheulol	0	0	1	0	0
+anad	above	0	0	1	0	1
+daniel	daniel	0	0	1	0	0
+werdd	green	0	0	1	0	0
+ildio	surrender	0	0	1	0	1
++x	+ refers to adddition and xrefers to times	0	0	1	0	0
+judith	judith	0	0	1	0	0
+hysbysebu	advertising	0	0	1	0	1
+paratoi	preparation	0	0	1	0	1
+ganlyniad	result	0	0	1	0	0
+eplesiad	fermentation	0	0	1	1	1
+trwy	by	0	0	1	1	1
+rhufain	rome	0	0	1	1	1
+unigol	individual	0	0	1	1	1
+amadeus	amadeus	0	0	1	0	0
+fysantaidd	fysantaidd	0	0	1	0	0
+fysantaidd	byzantine	0	0	1	0	0
+crwn	round	0	0	1	1	1
+taliesin	taliesin	0	0	1	0	0
+crwm	curved	0	0	1	1	1
+crwm	round	0	0	1	0	1
+strwythr	the structure	0	0	1	0	0
+strwythr	structure	0	0	1	0	0
+trwm	heavy	0	0	1	1	1
+isalmaeneg	isalmaeneg	0	0	1	0	0
+athronydd	philosopher	0	0	1	1	1
+rhyngddynt	between them	0	0	1	0	0
+cyswllt	contact	0	0	1	0	1
+baltig	baltic	0	0	1	0	0
+rhyfeloedd	wars	0	0	1	0	0
+trac	track	0	0	1	0	0
+categorillenyddiaeth	categorillenyddiaeth	0	0	1	0	0
+categorillenyddiaeth	category of literature	0	0	1	0	0
+dafodiaith	dialect	0	0	1	0	0
+gyfuno	combined	0	0	1	0	0
+feithrin	building	0	0	1	0	0
+cenedl	nation	0	0	1	1	1
+another	another	0	0	1	0	0
+comin	common	0	0	1	0	0
+electronig	electronic	0	0	1	0	0
+gwres	heat	0	0	1	1	1
+antarctig	antarctic	0	0	1	0	0
+chynhaliwyd	held	0	0	1	0	0
+timothy	timothy	0	0	1	0	0
+frenhinoedd	kings	0	0	1	0	0
+traffordd	motorway	1	1	0	0	0
+traffordd	trafford	1	1	0	0	0
+traffordd	grains	1	0	1	0	0
+traffordd	highway	1	1	0	0	0
+traffordd	atom	1	0	1	0	0
+lwyddiant	success	0	0	1	0	0
+deunyddiau	materials	0	0	1	0	0
+milwr	soldier	0	0	1	1	1
+john	john	0	0	1	0	0
+thalaith	province	0	0	1	0	0
+derbyniwyd	received	0	0	1	0	0
+albert	albert	0	0	1	0	0
+hylif	liquid	1	1	1	1	1
+hylif	liquad	1	0	1	0	1
+hylif	bay	1	0	1	0	1
+hylif	shore	1	0	1	0	1
+hylif	coastal	1	0	1	0	1
+hylif	iquid	1	1	0	0	1
+ddewiniaeth	witchcraft	0	0	1	0	0
+peidiodd	ceased	0	0	1	0	0
+rheini	those	0	0	1	1	1
+ethnogrefyddol	ethnogrefyddol	0	0	1	0	0
+esgyrn	bone	0	0	1	0	1
+soned	sonnet	0	0	1	1	1
+newidiwyd	changed	0	0	1	0	0
+bebb	bebb	0	0	1	0	0
+crynswth	gross	0	0	1	0	1
+merch	town	1	0	1	0	1
+merch	girl	1	1	0	1	1
+merch	daughter	1	1	1	1	1
+merci	merci	0	0	1	0	0
+yngenir	pronounced	0	0	1	0	0
+bancio	banking	0	0	1	0	1
+hysbys	known	0	0	1	1	1
+amsugno	absorption	0	0	1	0	1
+amsugno	amsungo	0	0	1	0	1
+cyflawni	cyfawni	0	0	1	0	1
+cyflawni	cyflwni	0	0	1	0	1
+leuad	moon	0	0	1	0	0
+baner	flag	0	0	1	1	1
+welodd	saw	0	0	1	0	0
+münchen	munich	0	0	1	0	0
+chymunedau	communities	0	0	1	0	0
+effeithio	affect	0	0	1	1	1
+phrifysgol	university	0	0	1	0	0
+tōkyō	tokyo	0	0	1	0	0
+nghastell	castle	0	0	1	0	0
+briflythyren	upper case	0	0	1	0	0
+morwyr	seafarers	0	0	1	0	0
+blŵs	blues	0	0	1	0	0
+arweinwyr	leaders	0	0	1	0	0
+ddetholiad	selection	0	0	1	0	0
+anatomi	anatomy	0	0	1	0	0
+feirionnydd	merioneth	0	0	1	0	0
+ceton	ketone	1	1	0	0	0
+ceton	muslims	1	0	1	0	0
+endif	endive	1	1	0	0	0
+anatomy	anatomy	0	0	1	0	0
+acknowledgements	acknowledgements	0	0	1	0	0
+gefeilldref	twin	0	0	1	0	0
+dilynodd	followed	0	0	1	0	0
+canrannau	percentages	0	0	1	0	0
+wladgarol	patriotic	0	0	1	0	0
+gasglu	collection	0	0	1	0	0
+sichuan	sichuan	0	0	1	0	0
+mawrth	march	0	0	1	1	1
+corswennol	corswennol	0	0	1	0	0
+uda	u.s.	0	0	1	0	0
+uda	uda	0	0	1	0	0
+acwstig	acoustic	0	0	1	0	0
+gyfrifiadur	computer	0	0	1	0	0
+cweryl	quarrel	0	0	1	1	1
+stephens	stephens	0	0	1	0	0
+lewis	lewis	0	0	1	0	0
+rywbeth	something	0	0	1	0	0
+cystadleuol	competitive	0	0	1	1	1
+fleming	fleming	0	0	1	0	0
+nodedig	notable	0	0	1	0	1
+madeira	madeira	0	0	1	0	0
+ffermio	farming	0	0	1	0	1
+iaşi	iasi	0	0	1	0	0
+eider	eider	0	0	1	0	0
+odan	under	0	0	1	0	0
+gaius	gaius	0	0	1	0	0
+caergrawnt	cambridge	0	0	1	1	1
+gwyllt	wild	0	0	1	1	1
+maent	they	0	0	1	0	0
+sut	how	0	0	1	1	1
+ddethlir	celebrated	0	0	1	0	0
+arferol	normal	0	0	1	0	1
+do	yes	0	0	1	1	1
+dm	dm	0	0	1	0	0
+di	free	0	0	1	0	1
+dd	f	0	0	1	0	0
+de	south	0	0	1	1	1
+dc	dc	0	0	1	0	0
+dc	d.c.	0	0	1	0	0
+da	good	0	0	1	1	1
+watson	watson	0	0	1	0	0
+rhagor	more	0	0	1	0	0
+alecsander	alexander	0	0	1	0	0
+dy	your	0	0	1	1	1
+stalingrad	stalingrad	0	0	1	0	0
+du	black	0	0	1	1	1
+dr	water	0	0	1	0	0
+gyffuriau	drugs	0	0	1	0	0
+blwch	box	0	0	1	1	1
+wynne	wynne	0	0	1	0	0
+athronwyr	philosophers	0	0	1	0	0
+mwyngloddio	mining	0	0	1	0	0
+fynegi	express	0	0	1	0	0
+asturias	asturias	0	0	1	0	0
+niwtral	neutral	0	0	1	0	0
+haearn	iron	0	0	1	1	1
+teithiau	tours	0	0	1	0	1
+gartref	home	0	0	1	1	1
+fomio	bombing	0	0	1	0	0
+ffotosynthesis	photosynthesis	0	0	1	0	0
+buddsoddi	investment	0	0	1	0	1
+mustafa	mustafa	0	0	1	0	0
+sillwyddor	syllabary	1	1	0	0	0
+uniad	merger	0	0	1	0	0
+suful	civil	0	0	1	0	0
+profiad	experience	0	0	1	1	1
+gymorth	wild	0	0	1	0	0
+gymorth	help	0	0	1	0	0
+bunting	bunting	0	0	1	0	0
+draws	across	0	0	1	0	0
+chychod	boats	0	0	1	0	0
+shakti	shakti	0	0	1	0	0
+baban	baby	0	0	1	0	0
+symudiadaur	movements	0	0	1	0	0
+chysylltu	link	0	0	1	0	0
+sgwâr	square	0	0	1	0	0
+moleciwlau	molecules	0	0	1	0	0
+bwthyn	cottage	0	0	1	1	1
+rhosgadfan	rhosgadfan	0	0	1	0	0
+we	web	0	0	1	0	0
+terms	* ds	0	0	1	0	0
+gorchuddir	covered	0	0	1	0	0
+treuliad	digestion	0	0	1	1	1
+treuliad	treuliad	0	0	1	0	1
+familiaris	familiaris	0	0	1	0	0
+gyrfa	career	0	0	1	1	1
+cwmpasu	cover	0	0	1	0	1
+cymysg	mixed	0	0	1	1	1
+wj	wj	0	0	1	0	0
+clwb	club	0	0	1	1	1
+gyrff	bodies	0	0	1	0	0
+ww	ww	0	0	1	0	0
+anoddaf	the hardest	0	0	1	0	0
+sefydlu	establish	0	0	1	1	1
+gorchuddio	covered	0	0	1	0	1
+caledonia	caledonia	0	0	1	0	0
+bras	print	0	0	1	0	1
+marwnad	elegy	0	0	1	1	1
+blaenorol	previous	0	0	1	1	1
+thŷ	house	0	0	1	0	0
+cox	cox	0	0	1	0	0
+ill	both	0	0	1	0	1
+fagu	gain	0	0	1	0	0
+aberthu	sacrifice	0	0	1	1	1
+cyfoes	contemporary	0	0	1	1	1
+cod	code	0	0	1	0	1
+cog	cog	0	0	1	0	1
+brad	betrayal	0	0	1	1	1
+branning	branning	0	0	1	0	0
+foel	bare	0	0	1	0	0
+con	con	0	0	1	0	0
+tone	tone	0	0	1	0	0
+ceiliog	cock	0	0	1	1	1
+adeiladur	building of	0	0	1	0	0
+pheiriannau	machinery	0	0	1	0	0
+ganymede	ganymede	0	0	1	0	0
+diwrnod	days	0	0	1	0	1
+gyfeiriadau	references	0	0	1	0	0
+dyfeisiwyd	invented	0	0	1	0	0
+tony	tony	0	0	1	0	0
+apocryffaidd	apocryphal	0	0	1	0	1
+ifor	ifor	0	0	1	0	0
+gristionogaeth	christianity	0	0	1	0	0
+gweinyddol	administrative	0	0	1	1	1
+cyrs	reed	0	0	1	0	1
+deyrnas	kingdom	0	0	1	0	0
+ecwador	ecuador	0	0	1	0	0
+ddoleri	dollars	0	0	1	0	0
+caffè	cafe	0	0	1	0	0
+caffè	caffe	0	0	1	0	0
+caffè	café	0	0	1	0	0
+mastiau	masts	0	0	1	0	0
+ysgolheigion	scholars	0	0	1	0	1
+fflat	flat	0	0	1	1	1
+pratincole	prantincole	0	0	1	0	0
+pratincole	pratincole	0	0	1	0	0
+selim	selim	0	0	1	0	0
+twmffat	funnel	0	0	1	0	0
+rhennir	divided	0	0	1	0	0
+dŷ	house	0	0	1	0	0
+dŷ	yours	0	0	1	0	0
+dŷ	your	0	0	1	0	0
+lenyddiaeth	literature	0	0	1	0	0
+giacomo	giacomo	0	0	1	0	0
+teithiodd	traveled	0	0	1	0	0
+cartilagaidd	cartilaginous	0	0	1	0	0
+sampson	sampson	0	0	1	0	0
+gnu	fleece	0	0	1	0	0
+hyrwyddor	promotion	0	0	1	0	0
+hyrwyddor	promote	0	0	1	0	0
+warbler	warbler	0	0	1	0	0
+air	word	0	0	1	0	0
+swltan	mosques	1	0	1	0	0
+swltan	sharifs	1	0	1	0	0
+swltan	sultan	1	1	1	0	0
+ain	th	0	0	1	0	0
+applies	applies	0	0	1	0	0
+porthmyn	drovers	0	0	1	0	0
+voice	voice	0	0	1	0	0
+plover	plover	0	0	1	0	0
+uganda	uganda	0	0	1	0	0
+nodweddiadol	typical	0	0	1	0	1
+rufain	rome	0	0	1	0	0
+atriwm	atrium	0	0	1	0	0
+cong	cong	0	0	1	0	0
+sycharth	sycharth	0	0	1	0	0
+llwyni	shrubs	0	0	1	0	0
+stint	stint	0	0	1	0	0
+menna	menna	0	0	1	0	0
+jerry	jerry	0	0	1	0	0
+llywodraethu	governance	0	0	1	0	1
+pasio	passing	0	0	1	0	1
+sydyn	sudden	0	0	1	1	1
+caffi	cafe	0	0	1	0	0
+gymharu	compared	0	0	1	0	0
+cyrch	raid	0	0	1	0	1
+nin	nin	0	0	1	0	0
+ffanffer	fanfare	1	1	0	0	0
+gwyach	grebe	0	0	1	0	0
+nid	not	0	0	1	1	1
+bedwaredd	fourth	0	0	1	0	0
+llanberis	llanberis	0	0	1	0	0
+patagonia	patagonia	0	0	1	0	0
+hans	hans	0	0	1	0	0
+miliwn	million	0	0	1	1	1
+creigiau	rocks	0	0	1	0	1
+creigiau	rock	0	0	1	0	1
+hanu	originally	0	0	1	0	1
+mil	thousand	0	0	1	1	1
+thu	interior	0	0	1	0	0
+lwybr	route	0	0	1	0	0
+apus	apus	0	0	1	0	0
+ffigurau	figures	0	0	1	0	0
+the	the	0	0	1	0	0
+gyfnodau	periods	0	0	1	0	0
+musical	musical	0	0	1	0	0
+cyffelyb	similar	0	0	1	1	1
+trydedd	trudedd	0	0	1	0	0
+trydedd	third	0	0	1	0	0
+basiwyd	passed	0	0	1	0	0
+indigo	indigo	0	0	1	0	0
+olygydd	editor	0	0	1	0	0
+ofalus	carefully	0	0	1	0	0
+jabaliya	jabaliya	0	0	1	0	0
+gallair	might the	0	0	1	0	0
+godi	raise	0	0	1	0	0
+goptaidd	coptic	0	0	1	0	0
+goptaidd	goptaidd	0	0	1	0	0
+gynderfynol	finals	0	0	1	0	0
+mohamed	mohamed	0	0	1	0	0
+swahili	swahili	0	0	1	0	0
+kanagawa	kanagawa	0	0	1	0	0
+spaen	spain	0	0	1	0	0
+blociau	blocks	0	0	1	0	0
+plasma	plasma	0	0	1	0	0
+feirws	virus	0	0	1	0	0
+siegfried	siegfried	0	0	1	0	0
+cantorion	singers	0	0	1	0	0
+groeg	greek	0	0	1	1	1
+rhodri	rhodri	0	0	1	0	0
+groen	skin	0	0	1	0	0
+araf	slow	0	0	1	1	1
+groes	contrary	0	0	1	0	0
+cape	cape	0	0	1	0	0
+aran	aran	0	0	1	0	0
+latfieg	latvian	0	0	1	0	0
+latfieg	latvain	0	0	1	0	0
+cyfarwyddo	directed	0	0	1	0	1
+awgrymu	suggest	0	0	1	1	1
+ddefnydd	use	0	0	1	0	0
+llefydd	bikers	0	0	1	0	0
+llefydd	llefyed	0	0	1	0	0
+llefydd	places	0	0	1	0	0
+mathafarn	mathafarn	0	0	1	0	0
+gandhi	gandhi	0	0	1	0	0
+night	night	0	0	1	0	0
+aimee	aimee	0	0	1	0	0
+technoleg	recurring	1	0	1	0	1
+technoleg	technology	1	1	1	1	1
+arafu	slow down	0	0	1	0	1
+etifeddiaeth	etifddiaeth	0	0	1	0	1
+etifeddiaeth	inheritance	0	0	1	1	1
+dwys	intensive	0	0	1	0	1
+dwyn	theft	0	0	1	0	1
+taffi	toffee	0	0	1	0	0
+bore	morning	0	0	1	1	1
+atyniad	attraction	0	0	1	1	1
+carchar	prison	0	0	1	1	1
+gwyddeleg	irish	0	0	1	1	1
+tlodi	poverty	0	0	1	1	1
+purple	purple	0	0	1	0	0
+arlywyddion	presidents	0	0	1	0	0
+romanos	romanos	0	0	1	0	0
+protestiadau	protests	0	0	1	0	0
+josé	jose	0	0	1	0	0
+mulfrain	cormorants	0	0	1	0	0
+dysgur	teach the	0	0	1	0	0
+columbus	columbus	0	0	1	0	0
+bwydo	feed	0	0	1	0	1
+peel	peel	0	0	1	0	0
+nsopherekgong	nsopherekgong	0	0	1	0	0
+cerddwyr	pedestrian	0	0	1	0	0
+phen	head	0	0	1	0	0
+ddelwedd	image	0	0	1	0	0
+aegeaidd	aegeaidd	0	0	1	0	0
+pla	plague	0	0	1	1	1
+post	post	0	0	1	1	1
+bymtheg	fifteen	0	0	1	0	0
+cwympo	fall	0	0	1	1	1
+urddau	orders	0	0	1	0	0
+sebastian	sebastian	0	0	1	0	0
+coran	coran	0	0	1	0	0
+ryddhawyd	released	0	0	1	0	0
+tiroedd	tiroedd	0	0	1	0	0
+tiroedd	lands	0	0	1	0	0
+gwyliau	holiday	0	0	1	0	0
+corryn	chee	1	0	1	0	1
+corryn	spider	1	1	0	1	1
+pays	pays	0	0	1	0	0
+xyz	xyz	0	0	1	0	0
+pellter	distance	0	0	1	1	1
+gostwng	reduced	0	0	1	0	1
+garddio	gardening	0	0	1	1	1
+garddio	graduation	0	0	1	0	1
+daliodd	continued	0	0	1	0	0
+wan	weak	0	0	1	0	0
+erchyll	horrible	0	0	1	1	1
+rhisiart	richard	0	0	1	1	1
+fframwaith	framework	0	0	1	1	1
+fflamadwy	flammable	0	0	1	0	0
+dewi	shut up	0	0	1	0	0
+wastadeddau	plains	0	0	1	0	0
+nodau	goals	0	0	1	0	0
+tarddiad	origin	0	0	1	0	1
+tarddiad	rating	0	0	1	0	1
+way	aet	0	0	1	0	0
+aberpennar	mountain ash	0	0	1	0	0
+was	was	0	0	1	0	0
+war	war	0	0	1	0	0
+pendefig	prince	0	0	1	1	1
+canadensis	canadensis	0	0	1	0	0
+oll	all	0	0	1	1	1
+ddulliau	methods	0	0	1	0	0
+hindenburg	hindenburg	0	0	1	0	0
+fyddin	army	0	0	1	0	0
+allforid	exported	0	0	1	0	0
+cryn	some	0	0	1	0	1
+dead	dead	0	0	1	0	0
+categoricanrifoedd	centuries category	0	0	1	0	0
+categoricanrifoedd	categoricanrifoedd	0	0	1	0	0
+cynorthwyo	help	0	0	1	1	1
+tiriogaethau	territories	0	0	1	0	0
+tiriogaethau	element	0	0	1	0	0
+elyrch	elyrch	0	0	1	0	0
+elyrch	swans	0	0	1	0	0
+penodwyd	appointed	0	0	1	0	0
+invincible	invincible	0	0	1	0	0
+ddwywaith	twice	0	0	1	0	0
+orchymyn	order	0	0	1	0	0
+maximus	maximus	0	0	1	0	0
+maximus	maximum	0	0	1	0	0
+aneu	aneu	0	0	1	0	0
+cynulliad	assembly	0	0	1	0	1
+filwrol	military	0	0	1	0	0
+ynysu	isolation	0	0	1	0	0
+treuliodd	spent	0	0	1	0	0
+milano	milano	0	0	1	0	0
+tebygolrwydd	likelihood	0	0	1	1	1
+lerpwl	liverpool	0	0	1	1	1
+xiii	xiii	0	0	1	0	0
+ffenomenau	phenomena	0	0	1	0	0
+ffenomenau	ffenonmenau	0	0	1	0	0
+gylch	about	0	0	1	0	0
+cefnforol	oceanic	0	0	1	0	0
+galendr	calendar	0	0	1	0	0
+siarad	talk	0	0	1	1	1
+gethin	gethin	0	0	1	0	0
+barodd	lasted	0	0	1	0	0
+lluosog	multiple	0	0	1	0	1
+heintiau	infections	0	0	1	0	1
+crested	crested	0	0	1	0	0
+crested	wearing a protector(helmet)	0	0	1	0	0
+henwi	named	0	0	1	0	0
+heintiad	infection	0	0	1	0	0
+ymreolaeth	autonomy	0	0	1	1	1
+ganiatâd	ganilatad	0	0	1	0	0
+ganiatâd	permission	0	0	1	0	0
+brothers	brothers	0	0	1	0	0
+irma	irma	0	0	1	0	0
+glaw	rain	0	0	1	1	1
+dechreuwyd	started	0	0	1	0	0
+muriau	walls	0	0	1	0	0
+defnyddiodd	used	0	0	1	0	0
+omega	omega	0	0	1	0	0
+llysenw	nickname	0	0	1	1	1
+eithriadau	exceptions	0	0	1	0	0
+bedd	grave	0	0	1	1	1
+wythïen	vein	0	0	1	0	0
+preifat	private	0	0	1	1	1
+together	together	0	0	1	0	0
+meteoroleg	meteorology	0	0	1	0	0
+meteoroleg	meteoroleg	0	0	1	0	0
+collared	collared	0	0	1	0	0
+gofyn	asked	0	0	1	0	1
+lencyndod	adolescence	0	0	1	0	0
+brysur	busy	0	0	1	0	0
+sidanes	sidanes	0	0	1	0	0
+songs	songs	0	0	1	0	0
+tigris	tigris	0	0	1	0	0
+threuliodd	spent	0	0	1	0	0
+dibynnu	depend	0	0	1	1	1
+dance	dance	0	0	1	0	0
+fox	fox	0	0	1	0	0
+mynychodd	attended	0	0	1	0	0
+arysgrifau	inscriptions	0	0	1	0	0
+iddewig	jewish	0	0	1	0	0
+arloeswyr	innovators	0	0	1	0	0
+anghywir	wrong	0	0	1	1	1
+anghywir	worng	0	0	1	0	1
+shivaeth	shivaeth	0	0	1	0	0
+melanocorypha	melanocorypha	0	0	1	0	0
+rydym	we	0	0	1	0	0
+rhythm	rhythm	0	0	1	0	0
+text	text	0	0	1	0	0
+cyfyng	limited	0	0	1	0	1
+ymladd	fighting	0	0	1	1	1
+hume	hume	0	0	1	0	0
+brown	brown	0	0	1	1	1
+orchuddio	covered	0	0	1	0	0
+hannah	hannah	0	0	1	0	0
+cyflawn	complete	0	0	1	1	1
+rownd	round	0	0	1	0	0
+vegas	vegas	0	0	1	0	0
+penrhyn	peninsula	0	0	1	0	1
+gyfuniad	combination	0	0	1	0	0
+gwener	friday	0	0	1	0	1
+gwŷr	wax	0	0	1	0	0
+geirfar	geirfar	0	0	1	0	0
+rhyddion	free	0	0	1	0	0
+categoridifyrweithiau	category: difyrweithiau	0	0	1	0	0
+categoridifyrweithiau	categoridifyrweithiau	0	0	1	0	0
+categoridifyrweithiau	category difyrweithiau	0	0	1	0	0
+gul	narrow	0	0	1	0	0
+p	p	0	0	1	0	0
+eifion	eifion	0	0	1	0	0
+teyrnasoedd	kingdoms	0	0	1	0	0
+helyg	willow	0	0	1	0	0
+cyngor	advice	0	0	1	1	1
+mân	a	0	0	1	0	0
+mân	minor	0	0	1	0	0
+rywiol	sexual	0	0	1	0	0
+corniog	horned	0	0	1	1	1
+anialwch	desert	0	0	1	1	1
+arferir	exercised	0	0	1	0	0
+llwyddwyd	successfully	0	0	1	0	0
+arferid	used to	0	0	1	0	0
+arferid	used	0	0	1	0	0
+creawdwr	creator	0	0	1	1	1
+burn	burn	0	0	1	0	0
+ffaith	fact	0	0	1	1	1
+plentyndod	childhood	0	0	1	1	1
+ffyddlon	faithful	0	0	1	1	1
+carcharorion	carcharoaion	0	0	1	0	0
+carcharorion	prisoners	0	0	1	0	0
+pantheistiol	pantheistiol	0	0	1	0	0
+gawr	giant	0	0	1	0	0
+bosworth	bosworth	0	0	1	0	0
+manawydan	manawydan	0	0	1	0	0
+apelio	appeal	0	0	1	1	1
+gorsafoedd	stations	0	0	1	0	0
+coedwigoedd	forests	0	0	1	0	0
+fotaneg	botany	0	0	1	0	0
+pryd	time	0	0	1	1	1
+pryf	insect	0	0	1	1	1
+fiolan	fiolan	0	0	1	0	0
+fiolan	viola n	0	0	1	0	0
+churchill	churchill	0	0	1	0	0
+saunders	saunders	0	0	1	0	0
+ysbrydol	spiritual	0	0	1	1	1
+gyfunrywiol	homosexual	0	0	1	0	0
+ddylai	should	0	0	1	0	0
+italiano	italiano	0	0	1	0	0
+wyddelig	wyddelig	0	0	1	0	0
+ymarferol	practical	0	0	1	0	0
+jan	jan	0	0	1	0	0
+gwair	hay	0	0	1	1	1
+blwyf	parish	0	0	1	0	0
+gosod	set	0	0	1	1	1
+arfau	weapons	0	0	1	0	0
+edmunds	edmunds	0	0	1	0	0
+dwythwch	dwythwch	0	0	1	0	0
+fuddugoliaeth	victory	0	0	1	0	0
+affricanwyr	africans	0	0	1	0	0
+live	live	0	0	1	0	0
+vicksburg	vicksburg	0	0	1	0	0
+ymwelwyr	visitors	0	0	1	0	0
+arabaidd	arab	0	0	1	0	0
+rheidol	rheidol	0	0	1	0	0
+gwain	sheath	0	0	1	1	1
+gwain	shealth	0	0	1	0	1
+tywydd	weather	0	0	1	1	1
+club	clubs	0	0	1	0	0
+oeddynt	they	0	0	1	0	0
+oren	orange	0	0	1	1	1
+ffeil	files	0	0	1	0	1
+prifddinas	capital	0	0	1	1	1
+gwynn	gwynn	0	0	1	0	0
+clawdd	bank	0	0	1	0	1
+sylvia	sylvia	0	0	1	0	0
+cyfyngedig	limited	0	0	1	0	0
+teithwyr	passengers	0	0	1	0	0
+llofruddiwyd	murdered	0	0	1	0	0
+ibn	ibn	0	0	1	0	0
+orffen	finish	0	0	1	0	0
+car	car	0	0	1	1	1
+dmitri	dmitri	0	0	1	0	0
+bychan	small	0	0	1	1	1
+cau	close	0	0	1	1	1
+cat	cat	0	0	1	0	1
+amgylcheddol	environmental	0	0	1	0	0
+cai	he could	0	0	1	0	0
+brostad	prostate	0	0	1	0	0
+cam	step	0	0	1	1	1
+categoriasiantaethau	categoriasiantaethau	0	0	1	0	0
+cae	field	0	0	1	1	1
+rhieni	parents	0	0	1	1	1
+tawel	quiet	0	0	1	1	1
+saith	seven	0	0	1	1	1
+gales	gales	0	0	1	0	0
+gristnogol	christian	0	0	1	0	0
+grwpiau	groups	0	0	1	0	0
+chin	wath	0	0	1	0	0
+reed	reed	0	0	1	0	0
+dymhorol	seasonal	0	0	1	0	0
+galeg	gaulish	0	0	1	0	0
+galed	hard	0	0	1	0	0
+trefol	urban	0	0	1	1	1
+llawlyfr	handbook	0	0	1	0	0
+niwbwrch	newborough	0	0	1	0	0
+werthodd	sold	0	0	1	0	0
+chroesi	cross	0	0	1	0	0
+economi	economic	0	0	1	0	0
+economi	economy	0	0	1	0	0
+gwanwyn	spring	0	0	1	1	1
+trawyd	struck	0	0	1	0	0
+afonydd	rivers	0	0	1	0	0
+cadair	chair	0	0	1	1	1
+ymuno	join	0	0	1	1	1
+disgynyddion	descendants	0	0	1	0	0
+bawb	all	0	0	1	0	0
+atmosffêr	atmosphere	0	0	1	0	0
+cwlt	cult	0	0	1	0	0
+roddwyd	given	0	0	1	0	0
+fasnachu	trading	0	0	1	0	0
+fawrth	of tuesday	0	0	1	0	0
+arwr	hero	0	0	1	1	1
+bwdiaeth	buddhism	0	0	1	0	0
+nhrwyn	nose	0	0	1	0	0
+gymryd	take	0	0	1	0	0
+brussel	brussel	0	0	1	0	0
+chwaraeodd	played	0	0	1	0	0
+ynnir	is drawn	0	0	1	0	0
+chymdeithasol	social	0	0	1	0	0
+credodd	believed	0	0	1	0	0
+ddinbych	denbighshire	0	0	1	0	0
+cerddir	derived	0	0	1	0	0
+taleithiau	provinces	0	0	1	0	1
+nixon	nixon	0	0	1	0	0
+lafa	lava	0	0	1	0	0
+dynar	early	0	0	1	0	0
+farwolaethau	deaths	0	0	1	0	0
+indeed	indeed	0	0	1	0	0
+darfod	spent	0	0	1	0	1
+richards	richards	0	0	1	0	0
+harddwch	beauty	0	0	1	1	1
+nitrogen	nitrogen	0	0	1	0	0
+coli	coli	0	0	1	0	0
+cold	cold	0	0	1	0	0
+frawd	brother	0	0	1	0	0
+cola	cola	0	0	1	0	0
+rheolaeth	management	0	0	1	1	1
+awgrymwyd	suggested	0	0	1	0	0
+anfodlon	dissatisfied	0	0	1	0	1
+ôl	after	0	0	1	0	0
+gynghrair	alliance	0	0	1	0	0
+ganwr	singer	0	0	1	0	0
+camau	action	0	0	1	0	0
+segontium	segontium	0	0	1	0	0
+niwmonia	pneumonia	1	1	1	1	1
+niwmonia	heat	1	0	1	0	1
+niwmonia	pheumonia	1	0	1	0	1
+herwfilwrol	guerrilla	0	0	1	0	0
+trafodaethau	discussions	0	0	1	0	0
+moelfre	moelfre	0	0	1	0	0
+nod	goal	0	0	1	0	1
+gwneuthurwyr	manufacturers	0	0	1	0	0
+not	not	0	0	1	0	0
+now	now	0	0	1	0	0
+hall	hall	0	0	1	0	0
+mathau	fostering	0	0	1	0	0
+mathau	types	0	0	1	0	0
+nos	night	0	0	1	1	1
+uchod	above	0	0	1	1	1
+gryf	strongly	0	0	1	0	0
+dros	for	0	0	1	0	1
+james	james	0	0	1	0	0
+grym	power	0	0	1	1	1
+gryn	some	0	0	1	0	0
+droi	turn	0	0	1	0	0
+maeth	nutrition	0	0	1	0	1
+ddata	data	0	0	1	0	0
+chymorth	support	0	0	1	0	0
+llunio	produced	0	0	1	0	1
+llywodraethau	governments	0	0	1	0	0
+el	el	0	0	1	0	0
+eo	he	0	0	1	0	0
+en	en	0	0	1	0	0
+ei	its	0	0	1	0	1
+ee	eg	0	0	1	0	0
+ed	ed	0	0	1	0	0
+ed	th	0	0	1	0	0
+eg	th	0	0	1	0	0
+ef	he	0	0	1	0	1
+ec	ec	0	0	1	0	0
+eb	eb	0	0	1	0	1
+goose	goose	0	0	1	0	0
+ez	ez	0	0	1	0	0
+eu	their	0	0	1	0	0
+croenddu	black	0	0	1	0	0
+comiwnyddion	communists	0	0	1	0	0
+tuedd	trend	0	0	1	0	1
+es	i	0	0	1	0	0
+es	l	0	0	1	0	0
+ffurfior	made up of	0	0	1	0	0
+space	space	0	0	1	0	0
+gleision	blue	0	0	1	0	1
+gleision	blues	0	0	1	0	1
+ryddiaith	prose	0	0	1	0	0
+showa	showa	0	0	1	0	0
+nghanolbarth	mid	0	0	1	0	0
+cyfeiriodd	referred	0	0	1	0	0
+categoritywydd	category:weather	0	0	1	0	0
+categoritywydd	weather category	0	0	1	0	0
+categoritywydd	categoritywydd	0	0	1	0	0
+amlygrwydd	prominence	0	0	1	1	1
+gogleddol	northern	0	0	1	1	1
+ehedydd	skylark	0	0	1	0	1
+hiraf	longest	0	0	1	0	0
+awstriahwngari	austria hungary	0	0	1	0	0
+awstriahwngari	awstriahwngari	0	0	1	0	0
+carr	carr	0	0	1	0	0
+suleiman	suleiman	0	0	1	0	0
+barddoniaeth	six	1	0	1	0	1
+barddoniaeth	poetry	1	1	1	1	1
+barau	pairs	0	0	1	0	0
+caru	love	0	0	1	1	1
+nwyddau	goods	0	0	1	0	0
+carn	hoof	1	1	0	1	1
+carn	hilt	1	0	1	1	1
+marino	marino	0	0	1	0	0
+ohio	ohio	0	0	1	0	0
+marina	marina	0	0	1	0	0
+cludiant	transport	0	0	1	0	0
+mellt	lightning	0	0	1	0	0
+gorfod	have	0	0	1	0	1
+castell	castle	0	0	1	1	1
+british	british	0	0	1	0	0
+domen	tip	0	0	1	0	0
+barhaus	ongoing	0	0	1	0	0
+ymfudo	migration	0	0	1	0	1
+ymddeol	retirement	0	0	1	0	1
+cymeriadau	characters	0	0	1	0	0
+wedi	has	0	0	1	0	1
+romania	romania	0	0	1	0	0
+xi	xi	0	0	1	0	0
+tenis	tennis	0	0	1	1	1
+ff	i	0	0	1	0	0
+stevens	stevens	0	0	1	0	0
+pusilla	pusilla	0	0	1	0	0
+seán	sean	0	0	1	0	0
+directly	directly	0	0	1	0	0
+groesi	crossing	0	0	1	0	0
+ring	ring	0	0	1	0	0
+ddaearyddwyr	geographers	0	0	1	0	0
+amhoblogaidd	unpopular	0	0	1	1	1
+dreigiau	dragons	0	0	1	0	1
+groeshoelio	crucified	0	0	1	0	0
+llŷn	lake	0	0	1	0	0
+llŷn	contagious	0	0	1	0	0
+cefn	back	0	0	1	1	1
+gatholigion	catholics	0	0	1	0	0
+fm	fm	0	0	1	0	0
+amlaf	usually	0	0	1	0	0
+sheen	sheen	0	0	1	0	0
+gernyweg	cornish	0	0	1	0	0
+cusanu	kiss	0	0	1	1	1
+that	that	0	0	1	0	0
+gladdu	buried	0	0	1	0	0
+dysgwn	we learn	0	0	1	0	0
+stryd	street	0	0	1	1	1
+thad	father	0	0	1	0	0
+thai	thai	0	0	1	0	0
+golygydd	editor	0	0	1	1	1
+than	under	0	0	1	0	0
+tywi	tywi	0	0	1	0	1
+westeion	guests	0	0	1	0	0
+television	television	0	0	1	0	0
+categoriasidau	category: acids	0	0	1	0	0
+tyfiant	growth	0	0	1	1	1
+ydych	you	0	0	1	0	0
+dymar	this is simply	0	0	1	0	0
+chadw	retention	0	0	1	0	0
+llosg	exhaust	0	0	1	0	1
+gymeryd	take	0	0	1	0	0
+documentation	documentation	0	0	1	0	0
+angen	need	0	0	1	1	1
+saitama	saitama	0	0	1	0	0
+angel	angel	0	0	1	1	1
+craig	rock	0	0	1	1	1
+delio	deal	0	0	1	1	1
+dderbyniodd	received	0	0	1	0	0
+poblog	populated	0	0	1	0	1
+ceisio	try	0	0	1	1	1
+dylair	should the	0	0	1	0	0
+windsor	windsor	0	0	1	0	0
+ddwyrain	east	0	0	1	0	0
+swistir	switzerland	0	0	1	0	0
+mesur	measure	0	0	1	1	1
+gwrs	course	0	0	1	0	0
+categoridiwydiannau	category: industries	0	0	1	0	0
+categoridiwydiannau	categoridiwydiannau	0	0	1	0	0
+gwrw	beer	0	0	1	0	0
+gyfartaledd	average	0	0	1	0	0
+leiafrifol	minority	0	0	1	0	0
+rhatach	cheaper	0	0	1	0	0
+tryfesur	diameter	0	0	1	1	1
+palazzo	palazzo	0	0	1	0	0
+rhannau	parts	0	0	1	0	0
+credinwyr	believers	0	0	1	0	0
+santiago	santiago	0	0	1	0	0
+karakoram	karakoram	0	0	1	0	0
+categorianifeiliaid	category: animals	0	0	1	0	0
+price	price	0	0	1	0	0
+lledaeniad	spread	0	0	1	0	0
+borthladdoedd	ports	0	0	1	0	0
+lanius	lanius	0	0	1	0	0
+llewyrchus	prosperous	0	0	1	1	1
+america	america	0	0	1	0	0
+rheswm	reason	0	0	1	1	1
+destiny	destiny	0	0	1	0	0
+bennill	verse	0	0	1	0	0
+bennill	winning	0	0	1	0	0
+mrs	mrs	0	0	1	0	0
+abraham	abraham	0	0	1	0	0
+decaffeineiddio	decaffeineiddio	0	0	1	0	0
+categoriafiechydon	categoriafiechydon	0	0	1	0	0
+hytrach	rather	0	0	1	1	1
+ymerawdwr	emperor	0	0	1	1	1
+canfod	found	0	0	1	0	1
+fenai	straight	0	0	1	0	0
+fenai	strait	0	0	1	0	0
+portread	portrait	0	0	1	0	1
+portread	potrait	0	0	1	0	1
+dolwyddelan	dolwyddelan	0	0	1	0	0
+tasmania	tasmania	0	0	1	0	0
+gnau	nuts	0	0	1	0	0
+gnau	singing	0	0	1	0	0
+adolf	adolf	0	0	1	0	0
+title	title	0	0	1	0	0
+injan	engine	0	0	1	0	0
+only	only	0	0	1	0	0
+martes	martes	0	0	1	0	0
+sierra	sierra	0	0	1	0	0
+gwladychu	colonization	0	0	1	0	1
+fort	fort	0	0	1	0	0
+flaen	front	0	0	1	0	0
+rhwydweithio	networking	0	0	1	0	0
+mwnt	motte	0	0	1	0	0
+mwnt	mwnt	0	0	1	0	0
+samuel	samuel	0	0	1	0	0
+eglur	clear	0	0	1	1	1
+disgybl	disciple	1	1	0	1	1
+ddatblygiadau	developments	0	0	1	0	0
+truly	truly	0	0	1	0	0
+baghdad	baghdad	0	0	1	0	0
+baghdad	transformation	0	0	1	0	0
+bedyddwyr	baptist	0	0	1	0	0
+dyngedfennol	critical	0	0	1	0	0
+wranws	uranus	0	0	1	0	0
+defnyddiau	materials	0	0	1	0	0
+helyntion	adventures	0	0	1	0	0
+llwythau	tribes	0	0	1	0	0
+llon	cheerful	0	0	1	0	1
+sylwedd	substance	0	0	1	1	1
+hela	hunting	0	0	1	0	1
+ansicrwydd	uncertainty	0	0	1	1	1
+ddienyddio	executed	0	0	1	0	0
+sychach	drier	0	0	1	0	0
+technolegol	technological	0	0	1	1	1
+iwgoslafia	yugoslavia	0	0	1	0	0
+anrhywiol	asexual	0	0	1	1	1
+bengoch	pochard	0	0	1	0	0
+ceiriosen	cherry	1	1	0	1	1
+ceiriosen	uses	1	0	1	0	1
+ceiriosen	fox	1	0	1	0	1
+ceiriosen	dani	1	0	1	0	1
+llefelys	llefelys	0	0	1	0	0
+hoes	life	0	0	1	0	0
+orchfygwyd	defeated	0	0	1	0	0
+llywodraethwr	governor	0	0	1	1	1
+herschel	herschel	0	0	1	0	0
+bobloedd	peoples	0	0	1	0	0
+gadwyn	chain	0	0	1	0	0
+ynglyn	about	0	0	1	0	0
+ddinasoedd	cities	0	0	1	0	0
+dolennau	links	0	0	1	0	0
+sgrôl	scroll	0	0	1	0	0
+geifr	goats	0	0	1	0	1
+ladin	latin	0	0	1	0	0
+dartford	dartford	0	0	1	0	0
+offeiriaid	priest	0	0	1	0	0
+offeiriaid	priests	0	0	1	0	0
+hŷn	older	0	0	1	0	0
+notice	notice	0	0	1	0	0
+cefnogi	support	0	0	1	1	1
+gardd	garden	0	0	1	1	1
+brwsel	brussels	0	0	1	0	0
+seremoniau	ceremonies	0	0	1	0	0
+lethraur	lethraur	0	0	1	0	0
+shearwater	shearwater	0	0	1	0	0
+gwe	web	0	0	1	1	1
+adeiladau	buildings	0	0	1	0	0
+amrywiad	variation	0	0	1	1	1
+rhydd	free	0	0	1	1	1
+abergwaun	fishguard	0	0	1	1	1
+abergwaun	sequence	0	0	1	0	1
+vun	vun	0	0	1	0	0
+sisili	sicily	0	0	1	0	0
+sisili	sisilli	0	0	1	0	0
+electroneg	electronics	0	0	1	0	0
+phalaropus	phalaropus	0	0	1	0	0
+mont	mont	0	0	1	0	0
+mons	cons	0	0	1	0	0
+mons	mons	0	0	1	0	0
+sinema	cinema	0	0	1	0	0
+gasgliad	collection	0	0	1	0	0
+olrhain	tracking	0	0	1	0	1
+màs	out	0	0	1	0	0
+basilica	basilica	0	0	1	0	0
+teuluol	family	0	0	1	0	0
+iolo	iolo	0	0	1	0	0
+amino	amino	0	0	1	0	0
+oliver	oliver	0	0	1	0	0
+glans	glans	0	0	1	0	0
+wien	wien	0	0	1	0	0
+weithredol	active	0	0	1	0	0
+ffindir	finland	0	0	1	0	0
+dictator	dictator	0	0	1	0	0
+datgelu	disclosure	0	0	1	0	0
+megis	such as	0	0	1	0	1
+elvis	elvis	0	0	1	0	0
+adnoddau	resources	0	0	1	1	1
+fwyfwy	increasingly	0	0	1	0	0
+gorau	best	0	0	1	1	1
+categoridaeareg	categoridaeareg	0	0	1	0	0
+categoridaeareg	categoridaeared	0	0	1	0	0
+cysylltur	cysylltur	0	0	1	0	0
+cysylltur	link	0	0	1	0	0
+cysgu	sleep	0	0	1	1	1
+cenhadon	missionaries	0	0	1	0	1
+hodgson	hodgson	0	0	1	0	0
+disgyblaethau	disciplines	0	0	1	0	0
+these	these	0	0	1	0	0
+these	ese	0	0	1	0	0
+cymerodd	took	0	0	1	0	0
+gomedi	comedy	0	0	1	0	0
+casgliadau	conclusions	0	0	1	0	0
+talaith	province	0	0	1	1	1
+dreulio	spend	0	0	1	0	0
+canolfan	center	0	0	1	1	1
+canolfan	centre	0	0	1	0	1
+ein	our	0	0	1	1	1
+aberteifi	cardigan	0	0	1	1	1
+economeg	economics	0	0	1	1	1
+gyferbyn	opposite	0	0	1	1	1
+latifa	latifa	0	0	1	0	0
+metrig	metric	0	0	1	0	0
+cyfnewid	exchange	0	0	1	1	1
+henw	name	0	0	1	0	0
+kenya	kenya	0	0	1	0	0
+dynolryw	mankind	0	0	1	1	1
+milwrol	military	0	0	1	1	1
+deillio	derived	0	0	1	0	1
+pensaernïol	architectural	0	0	1	0	0
+sŵn	noise	0	0	1	0	0
+ddringor	climbing	0	0	1	0	0
+document	document	0	0	1	0	0
+nodiant	notation	0	0	1	1	1
+llygaid	eyes	0	0	1	0	1
+arctic	arctic	0	0	1	0	0
+babilon	babylon	0	0	1	1	1
+arctig	arctic	0	0	1	0	0
+beirdd	poets	0	0	1	0	1
+chwaraewr	player	0	0	1	1	1
+blynyddol	annual	0	0	1	1	1
+gwaethygodd	worsened	0	0	1	0	0
+categoriplanhigion	categoriplanhigion	0	0	1	0	0
+mlynedd	years	0	0	1	0	0
+priodas	marriage	0	0	1	1	1
+ddysgodd	learned	0	0	1	0	0
+brych	placenta	0	0	1	0	1
+wessex	wessex	0	0	1	0	0
+ffoton	photon	1	1	0	0	0
+ymostwng	submit	0	0	1	1	1
+dathliadau	celebrations	0	0	1	0	0
+naoned	naoned	0	0	1	0	0
+llyfrgell	library	0	0	1	1	1
+ccc	plc	0	0	1	0	0
+trwynol	nasal	0	0	1	1	1
+phwyslais	emphasis	0	0	1	0	0
+amlwch	amlwch	0	0	1	0	0
+gymaint	so	0	0	1	0	0
+tudur	tudor	0	0	1	1	1
+cambodia	cambodia	0	0	1	0	0
+co	co	0	0	1	0	0
+baikal	baikal	0	0	1	0	0
+brofion	tests	0	0	1	0	0
+ataliodd	prevented	0	0	1	0	0
+arlywyddiaeth	arlywyddiaeth	0	0	1	0	1
+arlywyddiaeth	presidency	0	0	1	1	1
+ddeddfau	laws	0	0	1	0	0
+brawddegau	sentences	0	0	1	0	0
+americanwyr	americans	0	0	1	0	0
+brosesu	processing	0	0	1	0	0
+goeden	tree	0	0	1	0	0
+egwyddorion	principles	0	0	1	0	0
+hollt	split	0	0	1	1	1
+real	real	0	0	1	0	0
+cyffiniau	vicinity	0	0	1	0	0
+frown	brown	0	0	1	0	0
+marcus	marcus	0	0	1	0	0
+read	read	0	0	1	0	0
+seryddol	astronomical	0	0	1	1	1
+ên	en	0	0	1	0	0
+makes	makes	0	0	1	0	0
+sagrada	sagrada	0	0	1	0	0
+newidiodd	changed	0	0	1	0	0
+gynhyrchion	products	0	0	1	0	0
+lady	lady	0	0	1	0	0
+neuadd	hall	0	0	1	1	1
+genedlaethol	national	0	0	1	0	0
+syrffio	surf	0	0	1	0	0
+lleiafrif	minority	0	0	1	1	1
+cerddor	musician	0	0	1	1	1
+newid	change	0	0	1	1	1
+t	p	0	0	1	0	0
+t	t	0	0	1	0	0
+ymunodd	joined	0	0	1	0	0
+giuseppe	giuseppe	0	0	1	0	0
+malus	malus	0	0	1	0	0
+fuodd	stood	0	0	1	0	0
+yng	in	0	0	1	0	1
+synge	synge	0	0	1	0	0
+bydd	will	0	0	1	0	0
+achosion	cases	0	0	1	0	0
+dydyr	dydyr	0	0	1	0	0
+eddie	eddie	0	0	1	0	0
+ganiatáu	allow	0	0	1	0	0
+kaiser	kaiser	0	0	1	0	0
+ethol	elect	0	0	1	1	1
+garreg	stone	0	0	1	0	0
+foltedd	voltage	1	1	1	0	0
+foltedd	in the light of	1	0	1	0	0
+foltedd	by	1	0	1	0	0
+foltedd	according	1	0	1	0	0
+bwyntiau	points	0	0	1	0	0
+shanklin	shanklin	0	0	1	0	0
+dechraur	the beginning	0	0	1	0	0
+ganur	but sing out	0	0	1	0	0
+cynnydd	progress	0	0	1	1	1
+adfer	recovery	0	0	1	0	1
+valletta	valletta	0	0	1	0	0
+seine	seine	0	0	1	0	0
+cyfeiriwyd	reference	0	0	1	0	0
+thros	over	0	0	1	0	0
+francis	francis	0	0	1	0	0
+lloerennau	satellites	0	0	1	0	0
+cymalwst	gout	1	1	0	0	1
+cymalwst	self	1	0	1	0	1
+cymalwst	self dominance	1	0	1	0	1
+central	central	0	0	1	0	0
+unesco	unesco	0	0	1	0	0
+sri	sri	0	0	1	0	0
+henaint	age	0	0	1	0	1
+henaint	old age	0	0	1	0	1
+wolf	wolf	0	0	1	0	0
+ofnadwy	terrible	0	0	1	1	1
+brezhoneg	brezhoneg	0	0	1	0	0
+poly	poly	0	0	1	0	0
+ralphie	ralphie	0	0	1	0	0
+your	your	0	0	1	0	0
+chymharu	compare	0	0	1	0	0
+adweithiau	reactions	0	0	1	0	1
+albwm	album	0	0	1	1	1
+cath	cat	0	0	1	1	1
+cyfweliad	interview	0	0	1	0	0
+nghalon	heart	0	0	1	0	0
+bychain	small	0	0	1	0	0
+los	los	0	0	1	0	0
+lot	a lot	0	0	1	0	1
+amhosib	impossible	0	0	1	0	0
+cynhadledd	conference	0	0	1	1	1
+mercia	mercia	0	0	1	0	0
+henlein	henlein	0	0	1	0	0
+iwterws	iwterws	0	0	1	0	0
+priodi	married	0	0	1	0	1
+pecyn	package	0	0	1	1	1
+gwelwch	see	0	0	1	0	0
+wallgof	crazy	0	0	1	0	0
+glefyd	disease	0	0	1	0	0
+glefyd	chamberlain	0	0	1	0	0
+cyhoeddodd	published	0	0	1	0	0
+glanio	landing	0	0	1	0	1
+cyfyngiadau	restrictions	0	0	1	0	0
+default	default	0	0	1	0	0
+ffeiliau	files	0	0	1	0	0
+miguel	miguel	0	0	1	0	0
+daniaid	danes	0	0	1	0	0
+ffasiwn	fashion	0	0	1	1	1
+loegr	of england	0	0	1	0	0
+cornchwiglen	lapwing	0	0	1	1	1
+gwaethaf	worst	0	0	1	1	1
+categorimetelau	categorimetelau	0	0	1	0	0
+categorimetelau	categories metals	0	0	1	0	0
+categorimetelau	category metals	0	0	1	0	0
+diwylliannol	cultural	0	0	1	0	0
+raglenni	programs	0	0	1	0	0
+cyflymder	speed	0	0	1	1	1
+mrwsel	brussels	0	0	1	0	0
+chwysu	sweating	0	0	1	0	1
+rybuddio	warn	0	0	1	0	0
+colli	loss	0	0	1	0	1
+brydeinig	brydeing	0	0	1	0	0
+brydeinig	british	0	0	1	0	0
+chyrff	bodies	0	0	1	0	0
+you	you	0	0	1	0	0
+perfformiodd	performed	0	0	1	0	0
+gruiformes	gruiformes	0	0	1	0	0
+enillasant	won	0	0	1	0	0
+adnabyddir	known	0	0	1	0	0
+anial	desert	0	0	1	1	1
+ragweld	predict	0	0	1	0	0
+patxi	patxi	0	0	1	0	0
+coginio	cooking	0	0	1	0	1
+ewropiwm	europe	1	0	1	0	0
+ewropiwm	count	1	0	1	0	0
+ewropiwm	europium	1	1	0	0	0
+ewropiwm	ewropiwm	1	0	1	0	0
+ewropiwm	calculations	1	0	1	0	0
+ewropiwm	data	1	0	1	0	0
+nederlands	nederlands	0	0	1	0	0
+massachusetts	massachusetts	0	0	1	0	0
+hunanlywodraeth	huanlywodraeth	0	0	1	0	0
+hunanlywodraeth	self-government	0	0	1	0	0
+ramsay	raamsay	0	0	1	0	0
+ramsay	ramsay	0	0	1	0	0
+arwyddair	motto	0	0	1	1	1
+aedui	aedui	0	0	1	0	0
+croes	cross	0	0	1	1	1
+croew	croew	0	0	1	0	1
+ddosbarthu	distribution	0	0	1	0	0
+bresennol	present	0	0	1	0	0
+croen	skin	0	0	1	1	1
+gerddorol	musical	0	0	1	0	0
+arestio	arrest	0	0	1	1	1
+monte	monte	0	0	1	0	0
+ddaeargrynfeydd	earthquakes	0	0	1	0	0
+tingoch	redstart	0	0	1	0	0
+caniatáu	allows	0	0	1	0	0
+blanche	blanche	0	0	1	0	0
+kestrel	kestrel	0	0	1	0	0
+nofelydd	novelist	0	0	1	1	1
+fwriadol	deliberately	0	0	1	0	0
+douglas	douglas	0	0	1	0	0
+greadigol	creative	0	0	1	0	0
+darlledur	darlledur	0	0	1	0	0
+gwyddonwyr	scientists	0	0	1	0	0
+threfn	order	0	0	1	0	0
+threfi	towns	0	0	1	0	0
+byddinoedd	armies	0	0	1	0	0
+addaswyd	modified	0	0	1	0	0
+región	region	0	0	1	0	0
+arbenigo	specialized	0	0	1	0	1
+very	very	0	0	1	0	0
+lundain	london	0	0	1	0	0
+fasgeg	fasgeg	0	0	1	0	0
+parry	parry	0	0	1	0	0
+cyngerdd	concert	0	0	1	1	1
+ieuanc	young	0	0	1	1	1
+cymeryd	take	0	0	1	0	1
+eglwys	shrine	0	0	1	0	1
+eglwys	church	0	0	1	1	1
+anas	anas	0	0	1	0	0
+louis	louis	0	0	1	0	0
+efor	befor	0	0	1	0	0
+efor	with	0	0	1	0	0
+nodwyddau	needles	0	0	1	0	0
+chwith	left	0	0	1	1	1
+rhyngweithiol	interactive	0	0	1	0	0
+ynghylch	about	0	0	1	1	1
+golfanod	sparrows	0	0	1	0	0
+cwpan	cup	0	0	1	1	1
+heniaith	old language	0	0	1	0	0
+fryniau	hills	0	0	1	0	0
+effeithiau	effects	0	0	1	0	0
+orgasm	orgasm	0	0	1	0	0
+ffrind	friend	0	0	1	1	1
+theach	teach	0	0	1	0	0
+lwtetiwm	do	1	0	1	0	0
+lwtetiwm	lwteiwm	1	0	1	0	0
+lwtetiwm	iwtetiwm	1	0	1	0	0
+lwtetiwm	lutetium	1	1	0	0	0
+lwtetiwm	can do	1	0	1	0	0
+lwtetiwm	lwtetiwm	1	0	1	0	0
+galwadau	calls	0	0	1	0	0
+cerbyd	vehicle	0	0	1	0	1
+crybwyll	mentioned	0	0	1	0	1
+slofacia	slovakia	0	0	1	0	0
+cerflun	sculpture	0	0	1	0	1
+nghefnfor	ocean	0	0	1	0	0
+uchel	high	0	0	1	1	1
+nant	stream	0	0	1	0	1
+penderfyniad	decision	0	0	1	0	1
+iran	iran	0	0	1	0	0
+irac	iraq	0	0	1	0	0
+zedong	zedong	0	0	1	0	0
+modify	modify	0	0	1	0	0
+ffurfir	formed	0	0	1	0	0
+doyle	doyle	0	0	1	0	0
+ffurfio	form	0	0	1	1	1
+tasgau	tasks	0	0	1	0	0
+tachwedd	november	0	0	1	1	1
+disgyblaeth	discipline	0	0	1	1	1
+iraq	iraq	0	0	1	0	0
+chadwodd	retained	0	0	1	0	0
+chadwodd	chadwood	0	0	1	0	0
+aberhonddu	brecon	0	0	1	0	0
+llan	glebe	0	0	1	0	1
+llan	lan	0	0	1	0	1
+átha	thought	0	0	1	0	0
+átha	latha	0	0	1	0	0
+pibydd	piper	0	0	1	1	1
+categoriarian	category:funding	0	0	1	0	0
+categoriarian	categoriarian	0	0	1	0	0
+llai	less	0	0	1	1	1
+disclaimers	disclaimers	0	0	1	0	0
+categorimamaliaid	categorimamaliaid	0	0	1	0	0
+categorimamaliaid	categories:mammals	0	0	1	0	0
+llaw	digestion	1	0	1	0	1
+llaw	digestive	1	0	1	0	1
+llaw	hand	1	1	1	1	1
+ddisgyblaeth	discipline	0	0	1	0	0
+gwleidyddiaeth	politics	0	0	1	1	1
+diflannun	diflannun	0	0	1	0	0
+gwalch	hawk	0	0	1	1	1
+dyfrhau	irrigation	0	0	1	0	0
+thatcher	thatcher	0	0	1	0	0
+burum	yeast	0	0	1	1	1
+cangen	branch	0	0	1	1	1
+adroddwyd	reported	0	0	1	0	0
+pryder	addurno'r	0	0	1	0	1
+pryder	concern	0	0	1	0	1
+khan	khan	0	0	1	0	0
+rhad	runs	0	0	1	0	1
+rhad	cheap	0	0	1	1	1
+greodd	created	0	0	1	0	0
+contains	contains	0	0	1	0	0
+strauss	strauss	0	0	1	0	0
+algae	algae	0	0	1	0	0
+deuoliaeth	duality	0	0	1	1	1
+cydffactorau	cydffactorau	0	0	1	0	0
+weriniaethol	republican	0	0	1	0	0
+uchafbwynt	peak	0	0	1	0	1
+ffrwythau	fruit	0	0	1	0	0
+indiaidd	indians	0	0	1	0	0
+indiaidd	indian	0	0	1	0	0
+tsiec	czech	0	0	1	0	0
+diod	drink	0	0	1	1	1
+ehangiad	expansion	0	0	1	0	0
+gwledig	rural	0	0	1	1	1
+eryri	snowdonia	0	0	1	1	1
+gweinidog	little	1	0	1	0	1
+gweinidog	just	1	0	1	0	1
+gweinidog	dog	1	1	0	0	1
+gweinidog	zaraa	1	0	1	0	1
+gweinidog	minister	1	1	1	1	1
+gweinidog	ministerial	1	0	1	0	1
+gweinidog	gwetinidog	1	0	1	0	1
+hanner	half	0	0	1	1	1
+amryw	various	0	0	1	1	1
+numenius	numenius	0	0	1	0	0
+pendil	pendulum	0	0	1	1	1
+himalaya	himalaya	0	0	1	0	0
+symudiad	movement	0	0	1	1	1
+sâl	ill	0	0	1	0	0
+gaerdydd	cardiff	0	0	1	0	0
+cyfog	tower	1	0	1	0	1
+cyfog	k	1	0	1	0	1
+cyfog	nausea	1	1	0	0	1
+cristnogion	christians	0	0	1	0	0
+kudrow	kudrow	0	0	1	0	0
+stêm	steam	0	0	1	0	0
+anfon	send	0	0	1	1	1
+clogwyn	cliff	0	0	1	1	1
+ffestiniog	ffestiniog	0	0	1	0	0
+gyfatebol	equivalent	0	0	1	0	0
+moroco	morocco	0	0	1	0	0
+brenin	king	0	0	1	1	1
+yemen	yemen	0	0	1	0	0
+mo	m	0	0	1	0	1
+nino	nino	0	0	1	0	0
+history	history	0	0	1	0	0
+départements	départements	0	0	1	0	0
+départements	départments	0	0	1	0	0
+alba	alba	0	0	1	0	0
+categorisiroedd	categorisiroedd	0	0	1	0	0
+hindŵaidd	hindu	0	0	1	0	0
+marged	margaret	0	0	1	1	1
+gwleidyddol	political	0	0	1	1	1
+bwrpas	purpose	0	0	1	0	0
+dawnsio	dance	0	0	1	1	1
+andronikos	andronikos	0	0	1	0	0
+isrywogaethau	subspecies	0	0	1	0	0
+chyhoeddodd	published	0	0	1	0	0
+mamwlad	homeland	0	0	1	0	0
+clarke	clarke	0	0	1	0	0
+categorisystem	categorisystem	0	0	1	0	0
+cyfieithu	translation	0	0	1	0	1
+categoricemeg	categoricemeg	0	0	1	0	0
+serbeg	serbian	0	0	1	0	0
+achub	save	0	0	1	1	1
+cymhleth	complex	0	0	1	1	1
+pleidleisio	vote	0	0	1	1	1
+fu	was	0	0	1	0	0
+fy	i	0	0	1	0	1
+fc	dc	0	0	1	0	0
+chulfor	strait	0	0	1	0	0
+fe	i	0	0	1	0	1
+gweriniaethau	republics	0	0	1	0	0
+fi	i	0	0	1	1	1
+fi	l	0	0	1	0	1
+ffurfiol	formal	0	0	1	1	1
+fl	fl	0	0	1	0	0
+gast	cast	0	0	1	0	1
+fo	a	0	0	1	0	1
+a	and	0	0	1	1	1
+pâr	pair	0	0	1	0	0
+dyddiad	date	0	0	1	1	1
+effeithiwyd	affected	0	0	1	0	0
+cysylltir	associated	0	0	1	0	0
+cyfraith	law	0	0	1	1	1
+pâl	pal	0	0	1	0	0
+dyddiau	days	0	0	1	0	0
+brifysgol	university	0	0	1	0	0
+dosberthir	distributed	0	0	1	0	0
+help	help	0	0	1	1	1
+urdd	order	0	0	1	1	1
+sownd	stranded	0	0	1	0	0
+fioleg	biology	0	0	1	0	0
+bynciau	subjects	0	0	1	0	0
+heliwm	fail	1	0	1	0	0
+heliwm		1	0	1	0	0
+heliwm	helium	1	1	1	0	0
+heliwm	fossil	1	0	1	0	0
+diodorus	diodorus	0	0	1	0	0
+helo	hello	0	0	1	0	0
+ffa	beans	0	0	1	0	0
+hendrix	hendrix	0	0	1	0	0
+chwaith	either	0	0	1	0	1
+ddatblygwyd	developed	0	0	1	0	0
+gwaharddiad	ban	0	0	1	0	1
+heron	heron	0	0	1	0	0
+helmand	helmand	0	0	1	0	0
+rhedwyr	runners	0	0	1	0	0
+japaneg	apanese	0	0	1	0	0
+weriniaethwyr	republicans	0	0	1	0	0
+yi	yi	0	0	1	0	0
+sacrwm	disasters	1	0	1	0	0
+sacrwm	scrwm	1	1	0	0	0
+sacrwm	hardship or disaster	1	0	1	0	0
+sacrwm	sacrum	1	1	0	0	0
+ym	in	0	0	1	0	1
+yn	in	0	0	1	1	1
+ya	ya	0	0	1	0	0
+lawnsiwyd	launched	0	0	1	0	0
+bydeang	global	0	0	1	0	0
+neuquén	neuquen	0	0	1	0	0
+hyrwyddo	promote	0	0	1	1	1
+ymledodd	spread	0	0	1	0	0
+presennol	current	0	0	1	0	1
+presennol	persennol	0	0	1	0	1
+yr	the	0	0	1	0	0
+yu	yu	0	0	1	0	0
+yw	is	0	0	1	0	0
+hebron	hebron	0	0	1	0	0
+drafnidiaeth	transport	0	0	1	0	0
+weinyddol	administrative	0	0	1	0	0
+pensaernïaeth	architecture	0	0	1	0	0
+uwch	higher	0	0	1	1	1
+enwol	nominal	0	0	1	0	0
+gosodir	set	0	0	1	0	0
+addysgol	educational	0	0	1	1	1
+enwog	famous	0	0	1	1	1
+metamorffig	metamorphic	0	0	1	0	0
+neil	neil	0	0	1	0	0
+sŵoleg	zoology	0	0	1	0	0
+astudiaethau	studies	0	0	1	0	0
+daleithiau	provinces	0	0	1	0	0
+pablo	pablo	0	0	1	0	0
+haley	haley	0	0	1	0	0
+semitaidd	semitic	0	0	1	0	0
+semitaidd	semitaidd	0	0	1	0	0
+disgrifiadau	descriptions	0	0	1	0	0
+gynharach	earlier	0	0	1	0	0
+halen	salt	0	0	1	1	1
+bleidleisiau	votes	0	0	1	0	0
+dweud	said	0	0	1	0	1
+boddi	drowning	0	0	1	0	1
+miss	miss	0	0	1	0	0
+robert	robert	0	0	1	0	0
+since	since a	0	0	1	0	0
+since	since	0	0	1	0	0
+wleidyddiaeth	politics	0	0	1	0	0
+publish	publish	0	0	1	0	0
+berthnasol	relevant	0	0	1	0	0
+pum	five	0	0	1	0	1
+rhondda	rhondda	0	0	1	0	0
+maint	size	0	0	1	1	1
+euraidd	golden	0	0	1	0	0
+ddamcaniaeth	theory	0	0	1	0	0
+berfformiad	performance	0	0	1	0	0
+dagrau	tears	0	0	1	0	1
+dirk	dirk	0	0	1	0	0
+dirk	land	0	0	1	0	0
+encyclopædia	encyclopedia	0	0	1	0	0
+pur	pure	0	0	1	1	1
+leolir	located	0	0	1	0	0
+<i>	<i>	0	0	1	0	0
+adferwyd	recovered	0	0	1	0	0
+ddamwain	accident	0	0	1	0	0
+oroesi	survival	0	0	1	0	0
+american	american	0	0	1	0	0
+lliwedd	lliwedd	0	0	1	0	0
+syria	syria	0	0	1	0	0
+echel	axis	0	0	1	1	1
+gwerin	folk	0	0	1	0	1
+cenia	kenya	0	0	1	0	0
+glannau	banks	0	0	1	0	0
+hertsegofina	herzegovina	0	0	1	0	0
+teisen	cake	1	1	0	1	1
+teisen	unique	1	0	1	0	1
+teisen	nadir	1	0	1	0	1
+symbolaidd	symbolic	0	0	1	0	0
+darllenwch	read	0	0	1	0	0
+bathwyd	coined	0	0	1	0	0
+gyfansoddiadol	constitutional	0	0	1	0	0
+ymgarthion	disbalance	1	0	1	0	0
+ymgarthion	feces	1	1	0	0	0
+ymgarthion	faeces	1	1	0	0	0
+ymgarthion	istvan	1	0	1	0	0
+categorigwyddorau	categorigwyddorau	0	0	1	0	0
+dulliau	methods	0	0	1	0	0
+niwedd	end	0	0	1	0	0
+methu	failure	0	0	1	0	1
+vanellus	vanellus	0	0	1	0	0
+pêldroediwr	footballer	0	0	1	0	0
+station	station	0	0	1	0	0
+gibraltar	gibraltar	0	0	1	0	0
+popeth	everything	0	0	1	1	1
+marchnata	marketing	0	0	1	0	1
+darfu	disruption	0	0	1	0	0
+bersaidd	persian	0	0	1	0	0
+agored	open	0	0	1	1	1
+bowen	bowen	0	0	1	0	0
+basau	bases	0	0	1	0	0
+jamie	jamie	0	0	1	0	0
+paganiaeth	paganism	0	0	1	1	1
+argloddiau	embankments	0	0	1	0	0
+categoriundduwiaeth	categoriundduwiaeth	0	0	1	0	0
+jordan	jordan	0	0	1	0	0
+parthiaid	parthians	0	0	1	0	0
+authors	authors	0	0	1	0	0
+olwyn	wheel	0	0	1	1	1
+translation	translation	0	0	1	0	0
+nigeria	nigeria	0	0	1	0	0
+greu	a	0	0	1	0	0
+palesteina	palestine	0	0	1	0	0
+palesteina	palesteina	0	0	1	0	0
+posibl	possible	0	0	1	1	1
+grey	gray	0	0	1	0	0
+grey	grey	0	0	1	0	0
+bridd	soil	0	0	1	0	0
+gref	strong	0	0	1	0	0
+tunis	tunis	0	0	1	0	0
+berwi	boiling	0	0	1	0	1
+vlaamse	vlaamse	0	0	1	0	0
+charlotte	charlotte	0	0	1	0	0
+macau	macau	0	0	1	0	0
+dylanwadol	influential	0	0	1	1	1
+chwefror	february	0	0	1	1	1
+esgyn	ascending	0	0	1	0	1
+ddatblygu	development	0	0	1	0	0
+tylwyth	family	0	0	1	1	1
+diwinyddol	theological	0	0	1	1	1
+null	null	0	0	1	0	0
+karl	karl	0	0	1	0	0
+ychwanegir	added	0	0	1	0	0
+fesul	by	0	0	1	1	1
+eisteddfod	eisteddfod	0	0	1	1	1
+fesur	measure	0	0	1	0	0
+liw	color	0	0	1	0	0
+gerllaw	nearby	0	0	1	0	1
+llenor	writer	0	0	1	0	1
+ewros	euros	0	0	1	0	0
+rhy	too	0	0	1	0	0
+cyffredinol	general	0	0	1	1	1
+byrddau	boards	0	0	1	0	1
+setophaga	setophaga	0	0	1	0	0
+aires	aires	0	0	1	0	0
+aires	aries	0	0	1	0	0
+rhiannon	rhiannon	0	0	1	0	0
+watt	watt	0	0	1	0	0
+watt	watts	0	0	1	0	0
+tonga	tonga	0	0	1	0	0
+deallusol	intellectual	0	0	1	0	0
+chlorus	chlorus	0	0	1	0	0
+dynes	woman	0	0	1	1	1
+eryrod	eagles	0	0	1	0	0
+snowdon	snowdon	0	0	1	0	0
+dilynwyr	fans	0	0	1	0	0
+romanus	romanus	0	0	1	0	0
+ymerodres	empress	0	0	1	1	1
+prydain	british	0	0	1	0	1
+certi	carts	0	0	1	0	0
+komnenos	komnenos	0	0	1	0	0
+categoriplanedau	categoriplanedau	0	0	1	0	0
+categoriplanedau	category of planets	0	0	1	0	0
+dilynwyd	followed	0	0	1	0	0
+anifail	animal	0	0	1	1	1
+calidris	calidris	0	0	1	0	0
+copyright	copyright	0	0	1	0	0
+enillion	of earnings	0	0	1	0	1
+enillion	earnings	0	0	1	0	1
+phrifddinas	capital	0	0	1	0	0
+yma	here	0	0	1	1	1
+ddŵr	water	0	0	1	0	0
+randy	apartment	0	0	1	0	0
+unwaith	once	0	0	1	1	1
+fydeang	global	0	0	1	0	0
+cebl	cable	0	0	1	0	0
+darwin	darwin	0	0	1	0	0
+zambia	zambia	0	0	1	0	0
+anatomeg	anatomy	0	0	1	1	1
+ngorllewin	west	0	0	1	0	0
+tirwedd	landscape	0	0	1	0	0
+asiantaeth	agency	0	0	1	0	0
+mewnfudiad	immigration	0	0	1	0	0
+during	during	0	0	1	0	0
+lywodraeth	government	0	0	1	0	0
+raddfa	scale	0	0	1	0	0
+legibly	legibly	0	0	1	0	0
+ffatrïoedd	factories	0	0	1	0	0
+ieuenctid	youth	0	0	1	1	1
+uchder	height	0	0	1	1	1
+rywogaethau	species	0	0	1	0	0
+llid	inflammation	0	0	1	1	1
+chyfoethog	chyfeothog	0	0	1	0	0
+chyfoethog	rich	0	0	1	0	0
+gelf	art	0	0	1	0	0
+x	x	0	0	1	0	0
+forster	forster	0	0	1	0	0
+gell	cell	0	0	1	0	0
+dant	period	1	0	1	0	1
+dant	tooth	1	1	1	1	1
+dant	visit	1	0	1	0	1
+dant	era	1	0	1	0	1
+dant	commander	1	0	1	0	1
+schwimmer	schwimmer	0	0	1	0	0
+mhalesteina	palestine	0	0	1	0	0
+maurice	maurice	0	0	1	0	0
+afon	river	0	0	1	1	1
+fileindonesia	fileindonesia	0	0	1	0	0
+cylchgrawn	magazine	0	0	1	1	1
+phrif	main	0	0	1	0	0
+gariad	love	0	0	1	0	0
+porzana	porzana	0	0	1	0	0
+filiynau	millions	0	0	1	0	0
+bwrdeistref	borough	0	0	1	1	1
+redbreasted	redbreasted	0	0	1	0	0
+enwau	names	0	0	1	0	0
+teledu	tv	0	0	1	0	1
+sefydlog	stable	0	0	1	1	1
+vlaams	vlaams	0	0	1	0	0
+conditions	conditions	0	0	1	0	0
+eidaleg	italian	0	0	1	0	0
+nodweddir	characterized	0	0	1	0	0
+isod	below	0	0	1	1	1
+web	web	0	0	1	0	0
+mytholegol	mythological	0	0	1	0	0
+cyfeiriadau	references	0	0	1	0	0
+cyfeiriadau	reference	0	0	1	0	0
+encilio	back off	0	0	1	0	1
+encilio	retreat	0	0	1	1	1
+eisiau	want	0	0	1	0	0
+delerau	terms	0	0	1	0	0
+casglodd	collected	0	0	1	0	0
+nghywair	key of	0	0	1	0	0
+bopeth	everything	0	0	1	0	0
+anthus	anthus	0	0	1	0	0
+disgwyl	expected	0	0	1	0	1
+ysbrydolodd	inspired	0	0	1	0	0
+plât	plate	0	0	1	0	0
+peidiwch	do not	0	0	1	0	0
+gwynion	complaints	0	0	1	0	0
+gwynion	complaints of	0	0	1	0	0
+gwaedlyd	bloody	0	0	1	1	1
+tynged	fate	0	0	1	1	1
+muhammad	muhammad	0	0	1	0	0
+rhinoplasti	rhinoplasty	0	0	1	0	0
+sgìl	from	0	0	1	0	0
+sofietaidd	soviet	0	0	1	0	0
+llywodraeth	government	0	0	1	1	1
+morffoleg	morphology	0	0	1	0	0
+galileo	galileo	0	0	1	0	0
+linux	linux	0	0	1	0	0
+stamp	stamp	0	0	1	1	1
+adferiad	recovery	0	0	1	1	1
+walter	walter	0	0	1	0	0
+sanders	sanders	0	0	1	0	0
+twrci	turkey	0	0	1	1	1
+llongau	shipping	0	0	1	0	0
+anthony	anthony	0	0	1	0	0
+lives	lives	0	0	1	0	0
+biocemeg	biochemistry	0	0	1	0	0
+gyhydedd	equator	0	0	1	0	0
+mwynau	minerals	0	0	1	0	0
+môr	feel	1	0	1	0	0
+môr	as	1	0	1	0	0
+môr	place	1	0	1	0	0
+môr	look	1	0	1	0	0
+môr	sea	1	1	0	0	0
+trochydd	of red	0	0	1	0	0
+luciano	luciano	0	0	1	0	0
+luis	luis	0	0	1	0	0
+mitchell	mitchell	0	0	1	0	0
+guide	guide	0	0	1	0	0
+eplesu	fermentation	0	0	1	0	1
+huws	huws	0	0	1	0	0
+wyddfa	snowdon	0	0	1	0	0
+rhyngwladol	international	0	0	1	1	1
+unfed	sixteenth	0	0	1	0	0
+byddent	they	0	0	1	0	0
+pacistan	pakistan	0	0	1	0	0
+daneg	danish	0	0	1	0	0
+shaw	shaw	0	0	1	0	0
+ychwanegu	add	0	0	1	1	1
+grant	grant	0	0	1	0	0
+grand	grand	0	0	1	0	0
+modification	modification	0	0	1	0	0
+shan	shan	0	0	1	0	0
+used	used	0	0	1	0	0
+dime	dime	0	0	1	0	0
+tuvalu	tuvalu	0	0	1	0	0
+blair	blair	0	0	1	0	0
+elwir	called	0	0	1	0	0
+farddoniaeth	farddomiaeth	0	0	1	0	0
+farddoniaeth	poetry	0	0	1	0	0
+ymdeimlad	sense	0	0	1	1	1
+cofnodion	records	0	0	1	0	0
+elwid	known	0	0	1	0	0
+ddechrau	start	0	0	1	0	0
+blaid	party	0	0	1	0	0
+cytunwyd	agreed	0	0	1	0	0
+phedwar	four	0	0	1	0	0
+saeson	england	0	0	1	0	1
+lancastriaid	lancastrian	0	0	1	0	0
+ddogfennau	documents	0	0	1	0	0
+llethol	overwhelming	0	0	1	0	1
+annibyniaeth	scheme	1	0	1	0	1
+annibyniaeth	thumb	1	0	1	0	1
+annibyniaeth	independence	1	1	1	1	1
+electronau	electrons	0	0	1	0	0
+chyflwyno	present	0	0	1	0	0
+troedfedd	feet	0	0	1	0	1
+cernyweg	cornish	0	0	1	1	1
+thwrci	turkey	0	0	1	0	0
+ddisg	disk	0	0	1	0	0
+tirfeddianwyr	lndowners	0	0	1	0	0
+tirfeddianwyr	landowners	0	0	1	0	0
+bwlch	gap	0	0	1	1	1
+mynyddoedd	mountains	0	0	1	0	0
+cyfeirio	reference	0	0	1	0	1
+cryfhau	strengthen	0	0	1	1	1
+pryce	pryce	0	0	1	0	0
+catalaneg	catalan	0	0	1	0	0
+sefydliad	organization	0	0	1	0	1
+sefydliad	establishment	0	0	1	1	1
+$	$	0	0	1	0	0
+buteo	buteo	0	0	1	0	0
+buteo	bute	0	0	1	0	0
+barack	barack	0	0	1	0	0
+nesaf	next	0	0	1	1	1
+amlycaf	dominant	0	0	1	0	0
+desc	desc	0	0	1	0	0
+marco	macro	0	0	1	0	0
+marco	marco	0	0	1	0	0
+steil	style	0	0	1	0	0
+gamp	sport	0	0	1	0	0
+cyffwrdd	touch	0	0	1	1	1
+goleddu	slopes	0	0	1	0	0
+gwyrthiau	miracles	0	0	1	0	0
+kyrgyzstan	kyrgyzstan	0	0	1	0	0
+llong	ship	0	0	1	1	1
+valens	valens	0	0	1	0	0
+gaernarfon	caernarfon	0	0	1	0	0
+ataliad	suspension	0	0	1	0	1
+botaneg	involve	1	0	1	0	0
+botaneg	botany	1	1	1	0	0
+botaneg	doing	1	0	1	0	0
+botaneg	it	1	0	1	0	0
+mirror	mirror	0	0	1	0	0
+scoter	scoter	0	0	1	0	0
+ddwyn	other than their	0	0	1	0	0
+ddwyn	stolen	0	0	1	0	0
+trydan	electricity	0	0	1	1	1
+mynd	go	0	0	1	0	0
+wrach	witch	0	0	1	0	0
+economir	economir	0	0	1	0	0
+economir	economy	0	0	1	0	0
+caspian	caspian	0	0	1	0	0
+caspian	caspain	0	0	1	0	0
+illinois	illinois	0	0	1	0	0
+lithwaniaid	lithuanians	0	0	1	0	0
+some	some	0	0	1	0	0
+pierre	pierre	0	0	1	0	0
+berchen	ownership of	0	0	1	0	0
+berchen	own	0	0	1	0	0
+iaith	language	0	0	1	1	1
+lleolir	located	0	0	1	0	0
+wyddgrug	mold	0	0	1	0	0
+gaeaf	winter	0	0	1	1	1
+syndrom	syndrome	0	0	1	0	0
+arwain	lead	0	0	1	1	1
+tudalennau	pages	0	0	1	0	0
+albwmau	albums	0	0	1	0	0
+strydoedd	streets	0	0	1	0	0
+anhwylder	disorder	0	0	1	0	0
+marcsiaeth	marxism	0	0	1	0	0
+gwydr	glass	0	0	1	1	1
+atebodd	answered	0	0	1	0	0
+run	same	0	0	1	0	0
+soweto	soweto	0	0	1	0	0
+gwthior	gwthior	0	0	1	0	0
+diwydiannau	industries	0	0	1	0	0
+nhalaith	province	0	0	1	0	0
+gyfradd	rate	0	0	1	0	0
+faith	long	0	0	1	0	0
+papur	paper	0	0	1	1	1
+pryderi	concerned	0	0	1	0	0
+enwir	named	0	0	1	0	0
+gysylltiadau	links	0	0	1	0	0
+papua	papua	0	0	1	0	0
+crybwyllwyd	mentioned	0	0	1	0	0
+australopithecus	australopithecus	0	0	1	0	0
+idf	idf	0	0	1	0	0
+cobach	smallco-	0	0	1	0	0
+cobach	cobach	0	0	1	0	0
+asiaidd	asian	0	0	1	0	0
+actifedd	activity	0	0	1	0	0
+ganrif	century	0	0	1	0	0
+arfbais	arms	0	0	1	0	0
+ayb	etc.	0	0	1	0	0
+glanmor	glanmor	0	0	1	0	0
+alison	alison	0	0	1	0	0
+diwan	diwan	0	0	1	0	0
+bangladesh	bangladesh	0	0	1	0	0
+gwrthwynebwyr	opponents	0	0	1	0	0
+wyliau	holiday	0	0	1	0	0
+gwrthwynebwyd	opposed	0	0	1	0	0
+heritage	heritage	0	0	1	0	0
+ffliw	flu	0	0	1	0	0
+sinai	sinai	0	0	1	0	0
+gydag	with	0	0	1	0	0
+rees	rees	0	0	1	0	0
+pws	puss	0	0	1	0	0
+eglwysig	church	0	0	1	1	1
+hydoddiant	solution	0	0	1	0	0
+pwy	who	0	0	1	1	1
+larry	larry	0	0	1	0	0
+gydar	with the	0	0	1	0	0
+dull	a	0	0	1	0	1
+dull	dull	0	0	1	0	1
+darddiad	origin	0	0	1	0	0
+darddiad	orgin	0	0	1	0	0
+utc	utc	0	0	1	0	0
+fetropolitanaidd	metropolitan	0	0	1	0	0
+traeth	beach	0	0	1	1	1
+celfyddydau	arts	0	0	1	0	0
+phlentyn	child	0	0	1	0	0
+slafeg	salvic	0	0	1	0	0
+slafeg	slavic	0	0	1	0	0
+rowland	rowland	0	0	1	0	0
+willem	willem	0	0	1	0	0
+trwyn	of	1	0	1	0	1
+trwyn	from	1	0	1	0	1
+trwyn	nose	1	1	1	1	1
+estrogen	estrogen	0	0	1	0	0
+ecoranbarth	ecoranbarth	0	0	1	0	0
+genedigaeth	birth	0	0	1	1	1
+wrthsefyll	withstand	0	0	1	0	0
+promenad	promenade	0	0	1	0	0
+trwyr	trwyr	0	0	1	0	0
+nac	or	0	0	1	0	0
+nag	than	0	0	1	0	1
+nad	not	0	0	1	0	1
+tiwtonaidd	tiwtonaidd	0	0	1	0	0
+tito	tito	0	0	1	0	0
+nai	nephew	0	0	1	1	1
+nar	than the	0	0	1	0	0
+titw	tits	0	0	1	0	1
+einglsacsonaidd	einglsacsonnaidd	0	0	1	0	0
+einglsacsonaidd	einglsacsonaidd	0	0	1	0	0
+ymeradwr	ymeradwr	0	0	1	0	0
+allweddol	key	0	0	1	0	0
+manhattan	manhattan	0	0	1	0	0
+vireo	vireo	0	0	1	0	0
+mhob	all	0	0	1	0	0
+draw	up	0	0	1	0	1
+ffyrnig	fierce	0	0	1	1	1
+gomiwnyddol	communist	0	0	1	0	0
+fersiwn	version	0	0	1	1	1
+llosgfynyddoedd	volcanoes	0	0	1	0	0
+frances	frances	0	0	1	0	0
+william	william	0	0	1	0	0
+bawd|y	bawdly	0	0	1	0	0
+bawd|y	thumb|the	0	0	1	0	0
+evan	evan	0	0	1	0	0
+drymiau	drums	0	0	1	0	1
+masnach	trade	0	0	1	1	1
+nodweddion	features	0	0	1	0	0
+lloegr	england	0	0	1	1	1
+e	e	0	0	1	0	0
+cynyddodd	increased	0	0	1	0	0
+dvd	dvd	0	0	1	0	0
+ddathlu	celebrate	0	0	1	0	0
+orbit	orbit	0	0	1	0	0
+portiwgal	portugal	0	0	1	0	0
+ddysgu	dso	0	0	1	0	0
+ddysgu	learn	0	0	1	0	0
+daleithiaur	province	0	0	1	0	0
+daleithiaur	daleithiaur	0	0	1	0	0
+llefarydd	spokesman	1	1	1	0	1
+llefarydd	hafs	1	0	1	0	1
+llefarydd	speaker	1	1	0	1	1
+llefarydd	llefaydd	1	0	1	0	1
+conffederasiwn	confederation	0	0	1	0	0
+gw	w	0	0	1	0	0
+gv	gv	0	0	1	0	0
+deulu	family	0	0	1	0	0
+athletau	athletics	1	1	0	0	0
+arallfyd	otherworld	0	0	1	0	0
+llinynnau	strings	0	0	1	0	0
+atalydd	inhibitor	0	0	1	0	0
+ge	ge	0	0	1	0	0
+gd	gd	0	0	1	0	0
+flogiau	blogs	0	0	1	0	0
+ga	ga	0	0	1	0	0
+erbyn	by	0	0	1	1	1
+go	real	0	0	1	0	1
+geneteg	genetics	0	0	1	0	0
+anathraidd	impermeable	0	0	1	0	0
+kate	kate	0	0	1	0	0
+gh	gh	0	0	1	0	0
+compact	compact	0	0	1	0	0
+carbocsylig	carboxylic	0	0	1	0	0
+porthladd	port	0	0	1	1	1
+galluogi	enable	0	0	1	1	1
+dŵf	growth	0	0	1	0	0
+barod	ready	0	0	1	0	0
+barod	debt	0	0	1	0	0
+weithgar	active	0	0	1	0	0
+nippon	nippon	0	0	1	0	0
+nippon	nipon	0	0	1	0	0
+ddinas	city	0	0	1	0	0
+ychwanegol	additional	0	0	1	1	1
+atomfa	nuclear	0	0	1	0	1
+atomfa	nuclear power station	0	0	1	0	1
+ôlfywyd	olfywyd	0	0	1	0	0
+ôlfywyd	ôlfywyd	0	0	1	0	0
+cyrn	horns	0	0	1	0	1
+buchedd	life	0	0	1	1	1
+benrhyn	peninsula	0	0	1	0	0
+kitts	kitts	0	0	1	0	0
+rawson	rawson	0	0	1	0	0
+facebook	facebook	0	0	1	0	0
+ansefydlogrwydd	instability	0	0	1	0	0
+degfed	tenth	0	0	1	0	0
+sianel	channel	0	0	1	1	1
+mauritania	mauritania	0	0	1	0	0
+chyngheiriaid	chyngheiriaid	0	0	1	0	0
+olaf	last	0	0	1	1	1
+sych	dry	0	0	1	1	1
+cotwm	cotton	0	0	1	1	1
+fynyddig	mountainous	0	0	1	0	0
+thymheredd	temperature	0	0	1	0	0
+michael	michael	0	0	1	0	0
+rattigan	rattigan	0	0	1	0	0
+lleiaf	minimum	0	0	1	0	1
+gwasgedd	pressure	0	0	1	0	0
+kimoon	kimoon	0	0	1	0	0
+olau	light	0	0	1	0	0
+lleian	nun	0	0	1	1	1
+rhegennod	rails	0	0	1	0	0
+barbara	barbara	0	0	1	0	0
+yntau	he	0	0	1	0	1
+gelfyddyd	art	0	0	1	0	0
+carter	carter	0	0	1	0	0
+ddynodi	designate	0	0	1	0	0
+cnau	nuts	0	0	1	0	1
+atgenhedlu	reproductive	0	0	1	0	1
+gyrhaeddodd	reached	0	0	1	0	0
+gyrhaeddodd	gyhaeddodd	0	0	1	0	0
+chafodd	was	0	0	1	0	0
+blith	from	0	0	1	0	1
+teyrnas	kingdom	0	0	1	1	1
+padrig	patrick	0	0	1	1	1
+padrig	patrig	0	0	1	0	1
+opaque	opaque	0	0	1	0	0
+celt	celt	0	0	1	0	0
+wylio	watch	0	0	1	0	0
+llwyddiant	success	0	0	1	0	0
+ogleddorllewin	north west	0	0	1	0	0
+espresso	espresso	0	0	1	0	0
+amgylchynu	surrounded	0	0	1	0	1
+cell	cell	0	0	1	1	1
+wylit	wylit	0	0	1	0	0
+ych	ox	0	0	1	1	1
+mwsogl	moss	1	1	0	1	1
+mwsogl	history	1	0	1	0	1
+asgellwr	winger	0	0	1	1	1
+collins	collins	0	0	1	0	1
+celf	motown	0	0	1	0	1
+celf	art	0	0	1	1	1
+nicholas	nicholas	0	0	1	0	0
+bucephala	bucephala	0	0	1	0	0
+phoebe	phoebe	0	0	1	0	0
+brunei	brunei	0	0	1	0	0
+categorigwyddoniaeth	science category	0	0	1	0	0
+categorigwyddoniaeth	categorigwyddoniaeth	0	0	1	0	0
+categorigwyddoniaeth	goths	0	0	1	0	0
+llanrwst	llanrwst	0	0	1	0	0
+drosodd	over	0	0	1	0	0
+arwyddodd	signed	0	0	1	0	0
+fampir	vampire	1	1	0	1	1
+roced	rocket	0	0	1	1	1
+gofod	space	0	0	1	1	1
+northern	northern	0	0	1	0	0
+chanu	singing	0	0	1	0	0
+vaduz	vaduz	0	0	1	0	0
+enbyd	pressing	0	0	1	0	1
+ddull	a	0	0	1	0	0
+geni	birth	0	0	1	0	1
+rhywun	a	0	0	1	0	1
+llosgir	burning	0	0	1	0	0
+win	win	0	0	1	0	0
+win	wine	0	0	1	0	0
+wil	wil	0	0	1	0	0
+clara	clara	0	0	1	0	0
+crazy	crazy	0	0	1	0	0
+paganaidd	pagan	0	0	1	1	1
+cyfreithiol	legal	0	0	1	1	1
+recordio	recording	0	0	1	0	1
+wir	indeed	0	0	1	0	0
+cymysgu	mixing	0	0	1	0	1
+ymgyrchwyr	campaigners	0	0	1	0	0
+harpsicord	harpsichord	0	0	1	0	0
+trimurti	trimurti	0	0	1	0	0
+thirwedd	landscape	0	0	1	0	0
+français	francais	0	0	1	0	0
+cras	arid	0	0	1	1	1
+hudson	hudson	0	0	1	0	0
+ffordd	way	0	0	1	1	1
+orbitol	orbital	0	0	1	0	0
+nodir	identified	0	0	1	0	0
+clefyd	world	1	0	1	0	1
+clefyd	said	1	0	1	0	1
+clefyd	disease	1	1	0	1	1
+clefyd	talk	1	0	1	0	1
+clefyd	speak	1	0	1	0	1
+camera	camera	0	0	1	0	0
+gitar	guitar	0	0	1	0	0
+leoliad	location	0	0	1	0	0
+jonathan	jonathan	0	0	1	0	0
+crai	crude	0	0	1	0	1
+bendigeidfran	bendigeidfran	0	0	1	0	0
+rheilffyrdd	rail	0	0	1	0	0
+rheilffyrdd	rheillffyrdd	0	0	1	0	0
+fatican	vatican	0	0	1	0	0
+trajan	trajan	0	0	1	0	0
+isaf	lower	0	0	1	0	0
+parva	parva	0	0	1	0	0
+parva	brava	0	0	1	0	0
+e-bost	brown	1	0	1	0	0
+e-bost	gray	1	0	1	0	0
+e-bost	celebrated	1	0	1	0	0
+e-bost	grey	1	0	1	0	0
+e-bost	e-mail	1	1	0	0	0
+e-bost	e mail	1	1	0	0	0
+e-bost	mail	1	1	0	0	0
+e-bost	e- mail	1	1	0	0	0
+rywun	someone	0	0	1	0	0
+graffit	graphite	0	0	1	0	0
+cynhwysir	included	0	0	1	0	0
+ugss	ussr	0	0	1	0	0
+ugss	ugss	0	0	1	0	0
+pedwar	four	0	0	1	1	1
+polynesia	polynesia	0	0	1	0	0
+lawer	many	0	0	1	0	0
+ysbeidiol	intermittent	0	0	1	0	0
+control	control	0	0	1	0	0
+beijing	beijing	0	0	1	0	0
+cefndir	background	0	0	1	1	1
+flaenllaw	leading	0	0	1	0	0
+gwynegon	artiritis	1	0	1	0	1
+gwynegon		1	0	1	0	1
+gwynegon	is	1	0	1	0	1
+gwynegon	arthritis	1	1	0	0	1
+gwynegon	skeleton	1	0	1	0	1
+diwylliannau	cultures	0	0	1	0	0
+ffilm	film	0	0	1	1	1
+demograffeg	demographics	0	0	1	0	0
+demograffeg	demograffed	0	0	1	0	0
+prwsia	cleopatra	0	0	1	0	1
+prwsia	prussia	0	0	1	1	1
+destunau	texts	0	0	1	0	0
+egret	egret	0	0	1	0	0
+llafur	labor	0	0	1	1	1
+defnyddir	used	0	0	1	0	0
+talwrn	cockpit	0	0	1	0	0
+thrigolion	residents	0	0	1	0	0
+poetry	poetry	0	0	1	0	0
+georg	georg	0	0	1	0	0
+undebol	union	0	0	1	1	1
+gwellan	improve our	0	0	1	0	0
+ferdinand	ferdinand	0	0	1	0	0
+uchaf	top	0	0	1	0	1
+uchaf	highest	0	0	1	1	1
+italaidd	italic	0	0	1	0	0
+berberiaid	berberiaid	0	0	1	0	0
+mileniwm	millennium	0	0	1	0	0
+dywysogion	princes	0	0	1	0	0
+farn	view	0	0	1	0	0
+fari	mari	0	0	1	0	0
+ebwy	vale	0	0	1	0	0
+ronald	ronald	0	0	1	0	0
+sardinia	sardinia	0	0	1	0	0
+farw	died	0	0	1	0	0
+elyn	enemy	0	0	1	0	0
+foment	moment	0	0	1	0	0
+foment	forment	0	0	1	0	0
+lles	welfare	0	0	1	0	1
+ller	where	0	0	1	0	0
+uwchradd	secondary	0	0	1	0	1
+trelew	trelew	0	0	1	0	0
+llew	lion	0	0	1	1	1
+llew	where	0	0	1	0	1
+lleu	lleu	0	0	1	0	0
+nepaleg	nepali	0	0	1	0	0
+mynyw	menevia	0	0	1	0	1
+modrwy	ring	0	0	1	1	1
+gwadodd	denied	0	0	1	0	0
+encyclopedia	encyclopedia	0	0	1	0	0
+lled	width	0	0	1	1	1
+ugeinfed	twentieth	0	0	1	1	1
+gainc	branch	0	0	1	0	0
+disgrifir	described	0	0	1	0	0
+bawd|lleoliad	thumb | location	0	0	1	0	0
+bawd|lleoliad	thumb placement	0	0	1	0	0
+daearyddol	geographical	0	0	1	1	1
+breninesau	queens	0	0	1	0	1
+disgrifio	describe	0	0	1	1	1
+hydoddi	dissolved	0	0	1	0	0
+adrodd	report	0	0	1	0	1
+adrodd	reporting	0	0	1	0	1
+norwyeg	norwegian	0	0	1	1	1
+lithuania	lithuania	0	0	1	0	0
+lithuania	lituania	0	0	1	0	0
+refferendwm	referendum	0	0	1	0	0
+guadeloupehidalgo	guadeloupehidalgo	0	0	1	0	0
+guadeloupehidalgo	guadelope-hidalgo	0	0	1	0	0
+alexander	alexander	0	0	1	0	0
+ddefnyddiol	useful	0	0	1	0	0
+ychwaith	either	0	0	1	1	1
+helar	helar	0	0	1	0	0
+nokia	nokia	0	0	1	0	0
+gwyneth	gwyneth	0	0	1	0	0
+ddidduw	ddidduw	0	0	1	0	0
+ddidduw	god-free	0	0	1	0	0
+rhufeinwyr	romans	0	0	1	0	0
+nadroedd	snakes	0	0	1	0	0
+eluned	eluned	0	0	1	0	0
+zamenhof	zamenhof	0	0	1	0	0
+côr	choir	0	0	1	0	0
+côr	cor	0	0	1	0	0
+gorchfygodd	defeated	0	0	1	0	0
+university	university	0	0	1	0	0
+nghaergystennin	constantinople	0	0	1	0	0
+mosaïque	mosaique	0	0	1	0	0
+côd	code	0	0	1	0	0
+côd	cod	0	0	1	0	0
+modd	can	0	0	1	0	1
+ffermwyr	farmers	0	0	1	0	0
+côn	con	0	0	1	0	0
+ymarfer	practice	0	0	1	1	1
+hwnnw	that	0	0	1	0	0
+joyce	joyce	0	0	1	0	0
+serbia	serbia	0	0	1	0	0
+→	-?	0	0	1	0	0
+gerila	guerrilla	0	0	1	0	0
+gerila	gerila	0	0	1	0	0
+morton	morton	0	0	1	0	0
+camlas	canal	1	1	1	1	1
+camlas	second	1	0	1	0	1
+camlas	palmas	1	0	1	0	1
+camlas	secondary	1	0	1	0	1
+special	special	0	0	1	0	0
+bobol	people	0	0	1	0	0
+minutus	minutus	0	0	1	0	0
+minutus	mint	0	0	1	0	0
+wica	wicca	0	0	1	0	0
+heraclius	heraclius	0	0	1	0	0
+anifeiliaid	animals	0	0	1	0	0
+goron	crown	0	0	1	0	0
+cenhinen	leek	0	0	1	1	1
+ganfod	out	0	0	1	0	0
+niederdeutsch	niederdeutsch	0	0	1	0	0
+celtica	celtica	0	0	1	0	0
+llyfrgellyddiaeth	librarianship	0	0	1	0	0
+eithr	but	0	0	1	1	1
+kiribati	kiribati	0	0	1	0	0
+amaethyddiaeth	agriculture	0	0	1	1	1
+aeth	he	0	0	1	0	1
+shrew	shrew	0	0	1	0	0
+annerbyniol	unacceptable	0	0	1	1	1
+rhestru	listing	0	0	1	0	1
+canmol	praise	0	0	1	1	1
+times	times	0	0	1	0	0
+rhestri	lists	0	0	1	0	0
+humphrey	humphrey	0	0	1	0	0
+cynnyrch	product	0	0	1	1	1
+datblygiedig	advanced	0	0	1	0	0
+designed	designed	0	0	1	0	0
+ddyddiad	date	0	0	1	0	0
+evans	evans	0	0	1	0	0
+burkina	burkina	0	0	1	0	0
+ibsen	lbsen	0	0	1	0	0
+ibsen	ibsen	0	0	1	0	0
+tlotaf	poorest	0	0	1	0	0
+chymraeg	chymraeg	0	0	1	0	0
+congo	congo	0	0	1	0	0
+ffrwyth	fruit	0	0	1	1	1
+categoritywysogion	categoritywysogion	0	0	1	0	0
+dove	dove	0	0	1	0	0
+they	byddant	0	0	1	0	0
+they	they	0	0	1	0	0
+sumatra	sumatra	0	0	1	0	0
+belize	belize	0	0	1	0	0
+felly	so	0	0	1	1	1
+ymarferiadau	exercises	0	0	1	0	0
+adegau	times	0	0	1	0	0
+islwyn	islwyn	0	0	1	0	0
+cyhuddiadau	charges	0	0	1	0	0
+deithiau	trips	0	0	1	0	0
+rowlands	rowlands	0	0	1	0	0
+teifi	teifi	0	0	1	0	0
+sy	which	0	0	1	0	0
+dyfodol	future	0	0	1	1	1
+feini	criteria	0	0	1	0	0
+masjid	masjid	0	0	1	0	0
+cyf	ref	0	0	1	0	0
+fytholeg	mythology	0	0	1	0	0
+dangosir	shown	0	0	1	0	0
+benllech	benllech	0	0	1	0	0
+cyn	before	0	0	1	1	1
+diwydiannol	industrial	0	0	1	1	1
+llynnoedd	lakes	0	0	1	0	0
+ben	top	0	0	1	0	1
+cyfarwydd	familiar	0	0	1	1	1
+bel	ball	0	0	1	0	0
+mêl	honey	0	0	1	0	0
+bee	bee	0	0	1	0	0
+ysbytai	hospitals	0	0	1	0	0
+ogledd	north	0	0	1	0	0
+fforiwr	explorer	0	0	1	1	1
+papwa	papua	0	0	1	0	0
+papwa	papwa	0	0	1	0	0
+digwyddodd	occurred	0	0	1	0	0
+osgoi	avoid	0	0	1	1	1
+chylchdro	rotation	0	0	1	0	0
+mynnu	requires	0	0	1	0	1
+gweinyddiaeth	administration	0	0	1	1	1
+gweinyddiaeth	dministration	0	0	1	0	1
+julian	julian	0	0	1	0	0
+stallman	stallman	0	0	1	0	0
+maswedd	maswedd	0	0	1	0	1
+bryniau	hills	0	0	1	0	0
+cynhyrchiol	productive	0	0	1	1	1
+cynhyrchion	products	0	0	1	0	1
+tabl	baby	0	0	1	0	1
+tabl	table	0	0	1	1	1
+nghilmeri	cilmeri	0	0	1	0	0
+llinell	line	0	0	1	1	1
+dylanwad	influence	0	0	1	1	1
+cwrdd	meet	0	0	1	1	1
+geisiadau	applications	0	0	1	0	0
+geisiadau	application	0	0	1	0	0
+cofrestru	registration	0	0	1	0	1
+weladwy	visible	0	0	1	0	0
+categoricymdeithas	category association	0	0	1	0	0
+categoricymdeithas	categoricymdeithas	0	0	1	0	0
+roedden	were	0	0	1	0	0
+ffrainc	france	0	0	1	1	1
+ymlynwyr	adherents	0	0	1	0	0
+siarl	charles	0	0	1	1	1
+awr	now	0	0	1	0	1
+mimosa	mimosa	0	0	1	0	0
+ansoddair	adjective	0	0	1	1	1
+siart	chart	0	0	1	0	0
+losgfynyddoedd	valcanoes	0	0	1	0	0
+losgfynyddoedd	volcanoes	0	0	1	0	0
+dubh	dubh	0	0	1	0	0
+ymddiswyddo	resign	0	0	1	1	1
+lleoli	located	0	0	1	0	1
+url	url	0	0	1	0	0
+gadarnhau	confirm	0	0	1	0	0
+px|bawd|logo	px / thumb / logo	0	0	1	0	0
+px|bawd|logo	px | thumb | logo	0	0	1	0	0
+px|bawd|logo	pxbawdlogo	0	0	1	0	0
+cymunedau	communities	0	0	1	0	0
+ddiweddu	end	0	0	1	0	0
+bordeaux	bordeaux	0	0	1	0	0
+phapurau	papers	0	0	1	0	0
+chyrhaeddodd	reached	0	0	1	0	0
+rhybuddio	warning	0	0	1	0	1
+platon	plato	0	0	1	0	0
+ynddi	it	0	0	1	0	0
+ynddo	it	0	0	1	0	0
+honnon	honnon	0	0	1	0	0
+nikephoros	nikephoros	0	0	1	0	0
+gwrachod	witches	0	0	1	0	0
+ottoman	ottoman	0	0	1	0	0
+canolbwyntio	focus	0	0	1	0	1
+arbed	save	0	0	1	1	1
+creigiog	rocky	0	0	1	1	1
+arfordirol	coastal	0	0	1	0	0
+lapwing	lapwing	0	0	1	0	0
+ethan	ethane	0	0	1	0	0
+gorymdeithiodd	marched	0	0	1	0	0
+carbonifferaidd	carboniferous	0	0	1	0	0
+kong	kong	0	0	1	0	0
+bywiog	active	0	0	1	1	1
+anfiolegol	anfiolegol	0	0	1	0	0
+gray	gray	0	0	1	0	0
+golff	golf	0	0	1	0	0
+cyflenwadau	supplies	0	0	1	0	0
+maximinus	maximinus	0	0	1	0	0
+˚c	c	0	0	1	0	0
+wiced	wickets	0	0	1	0	0
+she	she	0	0	1	0	0
+gran	gran	0	0	1	0	1
+spotted	spotted	0	0	1	0	0
+pwysig	important	0	0	1	1	1
+albania	albania	0	0	1	0	0
+deyrnasoedd	kingdoms	0	0	1	0	0
+fertibra	walk	1	0	1	0	0
+fertibra	fertibra	1	0	1	0	0
+fertibra	up	1	0	1	0	0
+fertibra	vertebra	1	1	0	0	0
+traddodiadol	traditional	0	0	1	1	1
+cristionogaeth	categorigwyddoniaeth	0	0	1	0	0
+cristionogaeth	christianity	0	0	1	0	0
+copland	copland	0	0	1	0	0
+ysgrif	article	0	0	1	1	1
+llinynnol	string	0	0	1	0	0
+cyfandiroedd	continents	0	0	1	0	0
+baris	paris	0	0	1	0	0
+aros	stay	0	0	1	1	1
+diwedd	end	0	0	1	1	1
+cynradd	primary	0	0	1	0	0
+copïau	copies	0	0	1	0	0
+simbabwe	zimbabwe	0	0	1	0	0
+pentref	village	0	0	1	1	1
+state	state	0	0	1	0	0
+luc	luke	0	0	1	1	1
+gwybodeg	informatics	0	0	1	0	1
+nwylo	hands	0	0	1	0	0
+ken	ken	0	0	1	0	0
+kel	kel	0	0	1	0	0
+swynion	spells	0	0	1	0	0
+magu	breeding	0	0	1	0	1
+gwelwyd	seen	0	0	1	0	0
+mwyn	to	0	0	1	0	1
+wicaidd	wiccan	0	0	1	0	0
+chwarelwyr	quarrymen	0	0	1	0	0
+group	group	0	0	1	0	0
+problem	problem	0	0	1	1	1
+ddealltwriaeth	understanding	0	0	1	0	0
+cinetig	kinetic	0	0	1	1	1
+mair	mair	0	0	1	0	1
+mair	that	0	0	1	0	1
+condemniodd	condemned	0	0	1	0	0
+roir	given	0	0	1	0	0
+ciconia	stork	0	0	1	1	1
+angharad	angharad	0	0	1	0	0
+ewropa	europa	0	0	1	0	0
+seremoni	ceremony	0	0	1	1	1
+categoritrychinebau	categoritrychinebau	0	0	1	0	0
+gita	gita	0	0	1	0	0
+amdanynt	about	0	0	1	0	0
+frân	bran	0	0	1	0	0
+cariad	love	0	0	1	1	1
+johann	johann	0	0	1	0	0
+echreiddiad	eccentricity	0	0	1	0	0
+berswadio	persuade	0	0	1	0	0
+poen	pain	0	0	1	1	1
+llithro	sliding	0	0	1	0	1
+addition	addition	0	0	1	0	0
+ymyl	edge	0	0	1	1	1
+orffennaf	uly	0	0	1	0	0
+otomaniaid	ottomans	0	0	1	0	0
+rhywbeth	something	0	0	1	1	1
+drên	train	0	0	1	0	0
+beirniadol	critical	0	0	1	1	1
+ddefaid	sheep	0	0	1	0	0
+vinci	vinci	0	0	1	0	0
+ffrwydriadau	explosions	0	0	1	0	0
+dominyddir	dominated	0	0	1	0	0
+arlunydd	artist	0	0	1	1	1
+aelodaur	by members of	0	0	1	0	0
+soniodd	mentioned	0	0	1	0	0
+pwrpas	purpose	0	0	1	1	1
+ddilyn	follow	0	0	1	0	0
+neges	message	0	0	1	1	1
+ddibynnu	depending	0	0	1	0	0
+fasnachol	commercial	0	0	1	0	0
+gwybod	know	0	0	1	1	1
+galwn	we call	0	0	1	0	0
+anrhegion	gifts	0	0	1	0	0
+loxia	loxia	0	0	1	0	0
+gwyddoniaethau	sciences	0	0	1	0	0
+gwyddoniaethau	gywddoniaethau	0	0	1	0	0
+trydannol	electrical	0	0	1	0	0
+dân	fire	0	0	1	0	0
+dân	under	0	0	1	0	0
+deml	temple	0	0	1	0	0
+blaenau	before	0	0	1	0	0
+mewnforio	import	0	0	1	1	1
+hrolf	hrolf	0	0	1	0	0
+ailgreu	reconstruction	0	0	1	0	0
+euskara	euskara	0	0	1	0	0
+piws	purple	0	0	1	0	0
+parth	zone	0	0	1	0	1
+crefft	craft	0	0	1	0	1
+tripoli	tripoli	0	0	1	0	0
+dickens	dickens	0	0	1	0	0
+tirlun	landscape	0	0	1	0	0
+cedor	pubic	0	0	1	0	0
+eclectig	eclectic	0	0	1	0	0
+eclectig	ecletic	0	0	1	0	0
+malaya	malaya	0	0	1	0	0
+lannau	banks	0	0	1	0	0
+http	http	0	0	1	0	0
+justice	justice	0	0	1	0	0
+wynion	white	0	0	1	0	0
+categoricyfathrebu	categoricyfathrebu	0	0	1	0	0
+categoricyfathrebu	category: communication	0	0	1	0	0
+gaeilge	gaeilge	0	0	1	0	0
+justinianus	justinian	0	0	1	0	0
+cyfathrebu	communication	0	0	1	0	0
+gwyddoniaeth	science	0	0	1	1	1
+lynges	fleet	0	0	1	0	0
+gystadlaethau	competitions	0	0	1	0	0
+weld	see	0	0	1	0	0
+cwtiadwennol	cwtiadwennol	0	0	1	0	0
+records	records	0	0	1	0	0
+i	i	0	0	1	0	1
+gâl	gal	0	0	1	0	0
+well	better	0	0	1	0	0
+taflu	throw	0	0	1	1	1
+ruthun	ruthin	0	0	1	0	0
+ffafrio	favored	0	0	1	0	1
+wely	bed	0	0	1	0	0
+prydeinig	british	0	0	1	1	1
+grawnfwyd	cereal	0	0	1	0	0
+wladwriaeth	state	0	0	1	0	0
+dail	leaves	0	0	1	0	1
+ddechraur	the beginning	0	0	1	0	0
+bondiau	bonds	0	0	1	0	0
+aiff	go	0	0	1	0	0
+sofia	sofia	0	0	1	0	0
+cynffonhir	cynffonhir	0	0	1	0	0
+cynffonhir	long tailed	0	0	1	0	0
+cynffonhir	long tail	0	0	1	0	0
+fenis	venice	0	0	1	0	0
+hylifau	liquids	0	0	1	0	0
+rednecked	rednecked	0	0	1	0	0
+ffiji	fiji	0	0	1	0	0
+rhannwyd	divided	0	0	1	0	0
+rhannwyd	split	0	0	1	0	0
+lauren	lauren	0	0	1	0	0
+dair	three	0	0	1	0	0
+cyhoedd	public	0	0	1	1	1
+dyddewi	st davids	0	0	1	0	0
+tarddu	origin	0	0	1	0	1
+briodweddau	properties	0	0	1	0	0
+nato	nato	0	0	1	0	0
+gerbron	before	0	0	1	1	1
+strigiformes	strigiformes	0	0	1	0	0
+versailles	versailles	0	0	1	0	0
+lethrau	slopes	0	0	1	0	0
+fath	such	0	0	1	0	0
+larvivora	larvivora	0	0	1	0	0
+historia	historia	0	0	1	0	0
+rhyfel	war	0	0	1	1	1
+rhyfel	rhufel	0	0	1	0	1
+calandra	calandra	0	0	1	0	0
+gyflawn	complete	0	0	1	0	0
+elwa	benefit	0	0	1	1	1
+lawgoch	lawgoch	0	0	1	0	0
+lincoln	lincoln	0	0	1	0	0
+llydaweg	breton	0	0	1	1	1
+llydaweg	llydaweb	0	0	1	0	1
+lost	lost	0	0	1	0	0
+stevenson	stevenson	0	0	1	0	0
+addoli	worship	0	0	1	1	1
+clefydau	diseases	0	0	1	0	0
+clefydau	disease	0	0	1	0	0
+caethion	captives	0	0	1	0	0
+martin	martin	0	0	1	0	0
+anthemau	anthems	0	0	1	0	0
+cyflenwol	complementary	0	0	1	0	0
+siambr	chamber	0	0	1	1	1
+page	page	0	0	1	0	0
+bawd|px|yr	thumb px yr	0	0	1	0	0
+bawd|px|yr	the thumb px	0	0	1	0	0
+gillian	gillian	0	0	1	0	0
+anhysbys	unknown	0	0	1	1	1
+twitter	twitter	0	0	1	0	0
+gwahardd	excluded	0	0	1	0	1
+homo	homo	0	0	1	0	0
+deyrngarwch	deymgarwch	0	0	1	0	0
+deyrngarwch	loyalty	0	0	1	0	0
+ieitheg	philology	1	1	0	1	1
+home	home	0	0	1	0	0
+peter	peter	0	0	1	0	0
+arfordiroedd	coasts	0	0	1	0	0
+ystod	during	0	0	1	0	1
+ystod	yestod	0	0	1	0	1
+blaen	so	0	0	1	0	1
+snowdonia	snowdonia	0	0	1	0	0
+frontcover	frontcover	0	0	1	0	0
+nihon	nihon	0	0	1	0	0
+gyngherddau	concerts	0	0	1	0	0
+dealltwriaeth	understanding	0	0	1	1	1
+tchad	chad	0	0	1	0	0
+ryddfrydol	liberal	0	0	1	0	0
+cyddestun	context	0	0	1	0	0
+ardderchog	excellent	0	0	1	1	1
+rhaniadau	partitions	0	0	1	0	0
+swm	amount	0	0	1	1	1
+ambell	some	0	0	1	0	1
+chanolfan	center	0	0	1	0	0
+weithrediad	operation	0	0	1	0	0
+freedom	freedom	0	0	1	0	0
+mwslimiaid	muslims	0	0	1	0	0
+rhwng	between	0	0	1	1	1
+cyfanswm	total	0	0	1	1	1
+durrës	durres	0	0	1	0	0
+cocos	cockles	0	0	1	0	1
+anrhydeddus	honorable	0	0	1	1	1
+washington	washington	0	0	1	0	0
+terence	terence	0	0	1	0	0
+nerfol	nervous	0	0	1	0	0
+h+	h+	0	0	1	0	0
+h+	l +	0	0	1	0	0
+gyfrifoldeb	responsibility	0	0	1	0	0
+fiolegwyr	biologists	0	0	1	0	0
+plentyn	child	0	0	1	1	1
+wrthdaro	conflict	0	0	1	0	0
+categoricelfyddydau	categoricelfyddydau	0	0	1	0	0
+johannes	johannes	0	0	1	0	0
+mississippi	mississippi	0	0	1	0	0
+deddf	law	0	0	1	1	1
+museum	museum	0	0	1	0	0
+ffurfiau	forms	0	0	1	0	0
+themar	themar	0	0	1	0	0
+sielo	cello	0	0	1	0	0
+rhydwen	rhydwen	0	0	1	0	0
+notices	notices	0	0	1	0	0
+newyddddyfodiaid	newyddddyfodiaid	0	0	1	0	0
+williamson	williamson	0	0	1	0	0
+north	north	0	0	1	0	1
+gais	application	0	0	1	0	0
+cronfeydd	funds	0	0	1	0	0
+hu	hu	0	0	1	0	1
+hi	she	0	0	1	1	1
+valerian	valerian	0	0	1	0	0
+ho	hydrogen & oxygen	0	0	1	0	0
+ho	ho	0	0	1	0	0
+dysgu	learning	0	0	1	0	1
+ha	ha	0	0	1	0	0
+ph	ph	0	0	1	0	0
+ph	u	0	0	1	0	0
+he	he	0	0	1	0	0
+archaeolegol	archaeological	0	0	1	0	0
+pi	pi	0	0	1	0	1
+chandler	chandler	0	0	1	0	0
+protosemitig	protosemitig	0	0	1	0	0
+grefydd	religion	0	0	1	0	0
+misoedd	months	0	0	1	0	0
+rheoli	management	0	0	1	0	1
+rheoli	managment	0	0	1	0	1
+chafwyd	was	0	0	1	0	0
+universal	universal	0	0	1	0	0
+siaradir	spoken	0	0	1	0	0
+ewffrates	euphrates	0	0	1	0	0
+twist	twist	0	0	1	0	0
+actifadu	activation	0	0	1	0	0
+swydd	post	0	0	1	0	1
+drafod	discuss	0	0	1	0	0
+eric	eric	0	0	1	0	0
+atyn	approached	0	0	1	0	0
+gyrru	driving	0	0	1	0	1
+gynhyrchwyd	produced	0	0	1	0	0
+ddiweddaraf	latest	0	0	1	0	0
+cydweithio	collaboration	0	0	1	0	0
+barti	party	0	0	1	0	0
+nawdd	sponsorship	0	0	1	0	1
+finch	finch	0	0	1	0	0
+soniwyd	mentioned	0	0	1	0	0
+aberconwy	aberconwy	0	0	1	0	0
+meddal	soft	0	0	1	1	1
+canada	canada	0	0	1	0	0
+ynghlwm	attached	0	0	1	0	0
+star	star	0	0	1	0	0
+proffwydi	prophets	0	0	1	0	0
+stad	estate	0	0	1	0	0
+hivaids	hivaids	0	0	1	0	0
+hivaids	hiv/aids	0	0	1	0	0
+dyli	dyli	0	0	1	0	1
+fwrdd	board	0	0	1	0	0
+ddafydd	david	0	0	1	0	0
+há	ha	0	0	1	0	0
+friends	friends	0	0	1	0	0
+caeodd	closed	0	0	1	0	0
+amharu	disruption	0	0	1	0	1
+togo	togo	0	0	1	0	0
+almaenwyr	germany	0	0	1	0	0
+anffurfiol	informal	0	0	1	1	1
+beiciau	bikes	0	0	1	0	0
+teyrnasodd	reigned	0	0	1	0	0
+katherine	katherine	0	0	1	0	0
+mecanwaith	mechanism	0	0	1	0	0
+gwladfa	settlement	0	0	1	1	1
+caerfyrddin	carmarthen	0	0	1	1	1
+casgliad	collection	0	0	1	1	1
+uzbekistan	uzbekistan	0	0	1	0	0
+protest	protest	0	0	1	0	0
+ensym	enzyme	1	1	0	0	0
+ensym	an enzyme	1	0	1	0	0
+tajikistan	tajikistan	0	0	1	0	0
+dduwies	goddess	0	0	1	0	0
+whose	whose	0	0	1	0	0
+anfonodd	sent	0	0	1	0	0
+panamá	panama	0	0	1	0	0
+swan	swan	0	0	1	0	0
+gelloedd	cells	0	0	1	0	0
+ogystal	well	0	0	1	0	1
+cydweithredu	cooperation	0	0	1	0	1
+seryddwr	astronomer	0	0	1	1	1
+seryddwr	seruddwr	0	0	1	0	1
+aux	aux	0	0	1	0	0
+winfrey	winfrey	0	0	1	0	0
+wrecsam	wrexham	0	0	1	1	1
+cysawd	system	0	0	1	1	1
+gweddw	widow	0	0	1	1	1
+elisabeth	elizabeth	0	0	1	0	0
+gyfandir	continents	0	0	1	0	0
+gyfandir	continent	0	0	1	0	0
+noson	night	0	0	1	1	1
+dwyreiniol	eastern	0	0	1	1	1
+operetta	operetta	0	0	1	0	0
+gyfochrog	parallel	0	0	1	0	0
+waldo	waldo	0	0	1	0	0
+ioan	ioan	0	0	1	0	1
+hcl	hcl	0	0	1	0	0
+deinosoriaid	dinosaurs	0	0	1	0	0
+falch	pleased	0	0	1	0	0
+anglicanaidd	anglican	0	0	1	1	1
+falco	falco	0	0	1	0	0
+doukas	doukas	0	0	1	0	0
+hynny	so	0	0	1	0	1
+amrywiaeth	range	0	0	1	0	1
+gerdded	walk	0	0	1	0	0
+strwythur	structure	0	0	1	0	0
+canrifau	centuries	0	0	1	0	0
+benodol	specifically	0	0	1	0	0
+brenhiniaeth	monarchy	0	0	1	0	1
+cesar	caesar	0	0	1	1	1
+cesar	cesar	0	0	1	0	1
+chrefydd	religion	0	0	1	0	0
+dynodir	identified	0	0	1	0	0
+beirniaid	judges	0	0	1	0	0
+panama	panama	0	0	1	0	0
+asid	acid	0	0	1	1	1
+neb	one	0	0	1	0	1
+asia	asia	0	0	1	0	0
+gadael	leave	0	0	1	0	0
+quran	quran	0	0	1	0	0
+ynganiad	pronunciation	0	0	1	0	0
+morwrol	maritime	0	0	1	0	0
+enillodd	won	0	0	1	0	0
+neu	or	0	0	1	1	1
+ner	ner	0	0	1	0	0
+nes	until	0	0	1	1	1
+cyfredol	current	0	0	1	0	0
+cyfredol	recently	0	0	1	0	0
+sefydlodd	established	0	0	1	0	0
+mamau	mothers	0	0	1	0	0
+dafad	sheep	0	0	1	1	1
+henrik	henrik	0	0	1	0	0
+feddwl	think	0	0	1	0	0
+atalyddion	inhibitors	0	0	1	0	0
+wrdw	wrdw	0	0	1	0	0
+geffyl	horse	0	0	1	0	0
+dwylo	hands	0	0	1	0	1
+mey	wi	0	0	1	0	0
+mamal	mammal	0	0	1	0	0
+dref	town	0	0	1	0	0
+credid	thought	0	0	1	0	0
+luther	luther	0	0	1	0	0
+restr	list	0	0	1	0	0
+undeb	union	0	0	1	1	1
+ecosystemau	ecosystems	0	0	1	0	0
+dri	three	0	0	1	0	0
+chwm	valley	0	0	1	0	0
+rhosneigr	rhosneigr	0	0	1	0	0
+credir	thought	0	0	1	0	0
+pêldroed	football	0	0	1	0	0
+suitable	suitable	0	0	1	0	0
+dre	town	0	0	1	0	0
+chwe	six	0	0	1	1	1
+serch	though	0	0	1	0	1
+telid	paid	0	0	1	0	0
+gychwyn	start	0	0	1	0	0
+myanmar	myanmar	0	0	1	0	0
+semenaidd	semenaidd	0	0	1	0	0
+esiamplau	examples	0	0	1	0	0
+reagan	reagan	0	0	1	0	0
+brisiau	prices	0	0	1	0	0
+hwylio	sailing	0	0	1	0	1
+categoriofferynnau	categoriofferynnau	0	0	1	0	0
+term	term	0	0	1	1	1
+mudiadau	organizations	0	0	1	0	0
+maen	they	0	0	1	0	1
+busnesau	businesses	0	0	1	0	0
+cwrdeg	kurdish	0	0	1	0	0
+maer	mayor	0	0	1	1	1
+ehangach	wider	0	0	1	0	0
+suriname	suriname	0	0	1	0	0
+ymestyn	extend	0	0	1	1	1
+stumog	comprehensive	1	0	1	0	0
+stumog	stamach	1	0	1	0	0
+stumog	stomach	1	1	1	0	0
+metalau	metals	0	0	1	0	0
+tell	tell	0	0	1	0	0
+gyrraedd	get	0	0	1	0	0
+daear	groundwater	0	0	1	0	1
+kalimantan	kalimantan	0	0	1	0	0
+oscar	oscar	0	0	1	0	0
+ffowc	fawkes	0	0	1	0	1
+wars	wars	0	0	1	0	0
+rhonabwy	rhonabwy	0	0	1	0	0
+berlin	berlin	0	0	1	0	0
+siculus	siculus	0	0	1	0	0
+piwbis	piwbis	0	0	1	0	0
+hedd	peace	0	0	1	1	1
+rhamantus	romantic	0	0	1	1	1
+gyffredin	common	0	0	1	0	0
+harddegau	teens	0	0	1	0	0
+harddegau	harddegau	0	0	1	0	0
+nwyrain	east	0	0	1	0	0
+olew	oil	0	0	1	1	1
+rights	rights	0	0	1	0	0
+llandysul	llandysul	0	0	1	0	0
+wyau	eggs	0	0	1	0	0
+natsïaid	nizer	0	0	1	0	0
+natsïaid	nazi	0	0	1	0	0
+natsïaid	nazis	0	0	1	0	0
+cenhedloedd	nations	0	0	1	0	1
+ddiwylliannol	cultural	0	0	1	0	0
+talfyriad	abbreviation	0	0	1	1	1
+yswiriant	insurance	0	0	1	1	1
+iawn	very	0	0	1	1	1
+cywydd	poem	0	0	1	0	1
+give	give themselves	0	0	1	0	0
+anthropolegwyr	anthropologists	0	0	1	0	0
+ddeheuol	southern	0	0	1	0	0
+neun	eun	0	0	1	0	0
+neun	or	0	0	1	0	0
+cyfreithiau	laws	0	0	1	0	1
+effeithlon	efficient	0	0	1	0	0
+chwalu	breakdown	0	0	1	0	1
+angeleslos	angeleslos	0	0	1	0	0
+bonaparte	bonaparte	0	0	1	0	0
+noethlymuniaeth	noethlymuniaeth	0	0	1	0	0
+bechgyn	boys	0	0	1	0	1
+kabul	kabul	0	0	1	0	0
+punt	pound	0	0	1	1	1
+pherfformio	performed	0	0	1	0	0
+affrig	africa	0	0	1	0	0
+braidd	somewhat	0	0	1	1	1
+manuals	manuals	0	0	1	0	0
+ffynonellau	sources	0	0	1	0	1
+ymweliad	visit	0	0	1	1	1
+amcanion	objectives	0	0	1	0	0
+duwies	goddess	0	0	1	1	1
+wydr	glass	0	0	1	0	0
+atebol	accountable	0	0	1	1	1
+think	think	0	0	1	0	0
+bahasa	bahasa	0	0	1	0	0
+estyniad	extension	0	0	1	1	1
+ymwneud	about	0	0	1	0	1
+hilladdiad	hilladdiad	0	0	1	0	0
+dylanwadau	influences	0	0	1	0	0
+fifa	fifa	0	0	1	0	0
+ffurfiant	formation	0	0	1	0	1
+helens	helens	0	0	1	0	0
+brenhinol	royal	0	0	1	1	1
+categoriprifddinasoedd	categoriprifddinasoedd	0	0	1	0	0
+dargludiad	conduction	1	0	1	0	0
+dargludiad		1	0	1	0	0
+dargludiad	issues	1	0	1	0	0
+dargludiad	conductor	1	1	0	0	0
+murray	murray	0	0	1	0	0
+helena	helena	0	0	1	0	0
+cadarnhawyd	confirmed	0	0	1	0	0
+gyflafan	massacre	0	0	1	0	0
+heblaw	other than	0	0	1	0	1
+before	before	0	0	1	0	0
+bregus	fergus	0	0	1	0	1
+bregus	vulnerable	0	0	1	0	1
+gyngerdd	concert	0	0	1	0	0
+gente	dente	0	0	1	0	0
+creu	a	0	0	1	0	1
+adwaith	reaction	0	0	1	1	1
+damascus	damascus	0	0	1	0	0
+ddysgwyr	learners	0	0	1	0	0
+cred	belief	0	0	1	1	1
+marwolaeth	death	0	0	1	1	1
+belarus	belarus	0	0	1	0	0
+godidog	magnificent	0	0	1	0	1
+codedig	coded	0	0	1	0	0
+wlad	country	0	0	1	0	0
+one	one	0	0	1	0	0
+thyfiant	growth	0	0	1	0	0
+isel	low	0	0	1	1	1
+arnofio	float	0	0	1	0	0
+safon	standard	0	0	1	1	1
+rannur	sharing	0	0	1	0	0
+bont	bridge	0	0	1	0	1
+degawd	decade	0	0	1	0	0
+bantw	bantu	0	0	1	0	0
+wreiddiol	originally	0	0	1	0	0
+bantu	bantu	0	0	1	0	0
+lwyr	total	0	0	1	0	0
+dawr	the gc	0	0	1	0	0
+milan	milan	0	0	1	0	0
+fedd	grave	0	0	1	0	0
+awstralia	australia	0	0	1	1	1
+blaenasgellwr	flanker	0	0	1	0	0
+aids	aids	0	0	1	0	0
+dawn	talent	0	0	1	1	1
+saturninus	saturninus	0	0	1	0	0
+langue	langue	0	0	1	0	0
+ceilliau	testicular	0	0	1	0	1
+tales	tales	0	0	1	0	0
+siomedig	disappointing	0	0	1	1	1
+damcaniaeth	theory	0	0	1	1	1
+nerth	strength	0	0	1	1	1
+ysgrifennir	written	0	0	1	0	0
+venezuela	venezulela	0	0	1	0	0
+venezuela	venezuela	0	0	1	0	0
+angelus	angelus	0	0	1	0	0
+tuduriaid	tudor	0	0	1	0	0
+eisteddfodau	eisteddfodau	0	0	1	0	0
+abaty	abbey	0	0	1	1	1
+amstel	amstel	0	0	1	0	0
+trwyddedau	licenses	0	0	1	0	0
+fwythblu	fwythblu	0	0	1	0	0
+gwraidd	root	0	0	1	0	1
+lythyr	letter	0	0	1	0	0
+cytuno	agree	0	0	1	1	1
+arweiniai	leading	0	0	1	0	0
+aneddiadau	settlements	0	0	1	0	0
+arweiniad	guidance	0	0	1	1	1
+ist	ist	0	0	1	0	0
+iso	iso	0	0	1	0	0
+athronyddol	philosophical	0	0	1	1	1
+diwygiad	amendment	1	0	1	0	1
+diwygiad		1	0	1	0	1
+diwygiad	skeleton	1	0	1	0	1
+diwygiad	reformation	1	1	0	1	1
+diwygiad	amendmen	1	0	1	0	1
+diwygiad	manazil	1	0	1	0	1
+diwygiad	stages	1	0	1	0	1
+diwygiad	destinations	1	0	1	0	1
+tîm	team	0	0	1	0	0
+isa	isa	0	0	1	0	0
+hannibal	hannibal	0	0	1	0	0
+stewart	stewart	0	0	1	0	0
+pipit	pipit	0	0	1	0	0
+cerddorion	musicians	0	0	1	0	0
+olygu	mean	0	0	1	0	0
+merganser	merganser	0	0	1	0	0
+gradd	degree	0	0	1	1	1
+massif	massif	0	0	1	0	0
+ffair	fair	0	0	1	1	1
+eithriad	exception	0	0	1	1	1
+hook	hook	0	0	1	0	0
+fetelau	metals	0	0	1	0	0
+mabinogi	mabinogi	0	0	1	0	1
+gwnaeth	did	0	0	1	0	0
+gwreiddyn	root	0	0	1	1	1
+sgript	script	0	0	1	0	0
+broch	torch	0	0	1	0	1
+broch	broach	0	0	1	0	1
+erioed	ever	0	0	1	1	1
+affricanaidd	african	0	0	1	0	0
+chwilio	search	0	0	1	1	1
+raglen	program	0	0	1	0	0
+hollywood	hollywood	0	0	1	0	0
+hollywood	holywood	0	0	1	0	0
+cyfleu	communicate	0	0	1	0	1
+croenwyn	white	0	0	1	0	0
+hystyried	considered	0	0	1	0	0
+gyd	all	0	0	1	0	0
+mhentref	mhentref	0	0	1	0	0
+mhentref	village	0	0	1	0	0
+haelodau	members	0	0	1	0	0
+gölü	olu	0	0	1	0	0
+nyffryn	valley	0	0	1	0	0
+godwit	godwit	0	0	1	0	0
+attlee	attlee	0	0	1	0	0
+rennir	shared	0	0	1	0	0
+rennir	sahred	0	0	1	0	0
+feddalwedd	software	0	0	1	0	0
+cyfieithiadau	translations	0	0	1	0	0
+solomon	solomon	0	0	1	0	0
+jôc	joke	0	0	1	0	0
+amldduwiol	polytheistic	0	0	1	0	0
+doedd	was	0	0	1	0	0
+doedd	had	0	0	1	0	0
+tarddle	source	0	0	1	1	1
+caled	hard	0	0	1	1	1
+modern	modern	0	0	1	0	0
+geisiodd	tried	0	0	1	0	0
+gryfach	stronger	0	0	1	0	0
+etholwyr	constituents	0	0	1	0	0
+cofiant	politics	1	0	1	0	1
+cofiant	biography	1	1	1	1	1
+cofiant	cofiant	1	0	1	0	1
+pantheon	pantheon	0	0	1	0	0
+cymalau	clauses	0	0	1	0	0
+rhynglywodraethol	intergovernmental	0	0	1	0	0
+wyddonwyr	scientists	0	0	1	0	0
+etholwyd	elected	0	0	1	0	0
+gwefannau	websites	0	0	1	0	0
+gynorthwyo	help	0	0	1	0	0
+pysgota	fishing	0	0	1	0	1
+px|dde|ewin	pxlddelewin	0	0	1	0	0
+px|dde|ewin	px | right | cloves	0	0	1	0	0
+px|dde|ewin	px! right! cloves	0	0	1	0	0
+bengal	bengal	0	0	1	0	0
+gwasanaethau	services	0	0	1	0	0
+rolihlahla	rolihlahla	0	0	1	0	0
+chwaraer	playing	0	0	1	0	0
+coffi	coffee	0	0	1	1	1
+moscow	moscow	0	0	1	0	0
+pêl	ball	0	0	1	0	0
+pêl	like	0	0	1	0	0
+emyr	emyr	0	0	1	0	0
+ddyfrhau	irrigation	0	0	1	0	0
+clapton	clapton	0	0	1	0	0
+patrwm	pattern	0	0	1	1	1
+adfeilion	ruins	0	0	1	0	1
+carwyn	carwyn	0	0	1	0	0
+gylchrediad	circulation	0	0	1	0	0
+ensymau	enzymes	0	0	1	0	0
+maria	maria	0	0	1	0	0
+cysylltiadau	links	0	0	1	0	0
+ailfwyaf	ailfwyaf	0	0	1	0	0
+don	wave	0	0	1	0	0
+dom	dom	0	0	1	0	0
+fannod	article	0	0	1	0	0
+doc	doc	0	0	1	0	0
+doc	dock	0	0	1	0	0
+geisio	try	0	0	1	0	0
+dof	i	0	0	1	0	1
+dod	coming	0	0	1	0	1
+beirniadwyd	criticized	0	0	1	0	0
+diffiniad	definition	0	0	1	1	1
+dos	dose	0	0	1	0	0
+px|bawd|y	px | thumb | the	0	0	1	0	0
+dot	dot	0	0	1	1	1
+ngwynedd	gwynedd	0	0	1	0	0
+craidd	core	0	0	1	0	1
+gwahaniaeth	difference	0	0	1	1	1
+draed	feet	0	0	1	0	0
+draed	dread	0	0	1	0	0
+ohono	of me	0	0	1	0	0
+ohono	it	0	0	1	0	0
+ohoni	it	0	0	1	0	0
+nhermau	terms	0	0	1	0	0
+trawsnewid	transformation	0	0	1	0	0
+ddiweddarch	later	0	0	1	0	0
+orsedd	throne	0	0	1	0	0
+chamberlain	chamberlain	0	0	1	0	0
+amlach	more	0	0	1	0	0
+monica	monica	0	0	1	0	0
+benthyg	loan	0	0	1	1	1
+adeiladwaith	construction	0	0	1	0	0
+gopaon	peaks	0	0	1	0	0
+christopher	christopher	0	0	1	0	0
+borthladd	port	0	0	1	0	0
+lluoedd	troopsarmellog	0	0	1	0	0
+lluoedd	forces	0	0	1	0	0
+stoc	stock	0	0	1	0	0
+bat	bat	0	0	1	1	1
+briodas	marriage	0	0	1	0	0
+bar	bat\r	0	0	1	0	1
+bar	bar	0	0	1	1	1
+bas	shallow	0	0	1	1	1
+bay	bay	0	0	1	0	0
+bad	boat	0	0	1	1	1
+bae	bay	0	0	1	1	1
+amgylchedd	environment	0	0	1	1	1
+ban	corners	0	0	1	0	1
+pobol	people	0	0	1	0	0
+anterth	peak	0	0	1	0	1
+lithwania	lithuania	0	0	1	0	0
+bai	it	0	0	1	0	1
+reference	reference	0	0	1	0	0
+diddymiad	dissolution	0	0	1	0	1
+diddymiad	dissolutions	0	0	1	0	1
+ddrysau	doors	0	0	1	0	0
+cataleiddio	cateleiddio	0	0	1	0	0
+cataleiddio	catalyze	0	0	1	0	0
+gyfansoddwyd	composed	0	0	1	0	0
+swyddogion	officers	0	0	1	0	0
+symud	move	0	0	1	1	1
+ffosiliau	fossils	0	0	1	0	0
+ffosiliau	foils	0	0	1	0	0
+taiwan	taiwan	0	0	1	0	0
+hydrocarbon	hydrocarbon	0	0	1	0	0
+juliet	juliet	0	0	1	0	0
+pete	pete	0	0	1	0	0
+saif	stands	0	0	1	0	0
+sillaf	syllable	1	1	0	0	0
+sillaf	located	1	0	1	0	0
+sillaf	sited	1	0	1	0	0
+sillaf	situated	1	0	1	0	0
+cyhoeddiad	publication	0	0	1	1	1
+sain	audio	0	0	1	0	1
+sail	basis	0	0	1	1	1
+peth	some	0	0	1	1	1
+mesurau	measures	0	0	1	0	0
+ymgyrchydd	campaigner	0	0	1	0	0
+amwythig	shrewsbury	0	0	1	1	1
+sais	sais	0	0	1	0	1
+gorgyffwrdd	overlap	0	0	1	0	0
+cyhuddiad	charge	0	0	1	1	1
+disel	diesel	0	0	1	0	0
+belgae	belgae	0	0	1	0	0
+dramodydd	playwright	1	1	1	0	0
+vernon	vernon	0	0	1	0	0
+tripled	triplet	0	0	1	0	0
+bosib	possible	0	0	1	0	0
+credu	believe	0	0	1	1	1
+ehangdir	landmass	0	0	1	0	0
+pallass	pallass	0	0	1	0	0
+against	against	0	0	1	0	0
+phoblogrwydd	popularity	0	0	1	0	0
+hynod	highly	0	0	1	0	1
+und	und	0	0	1	0	0
+une	pune	0	0	1	0	0
+hanesydd	historian	0	0	1	1	1
+uno	merger	0	0	1	0	1
+ethel	ethel	0	0	1	0	0
+diocletian	diocletian	0	0	1	0	0
+gasgliadau	conclusions	0	0	1	0	0
+trin	treated	0	0	1	0	1
+wladwriaethau	states	0	0	1	0	0
+beirniadodd	criticized	0	0	1	0	0
+teip	type	0	0	1	1	1
+gweu	knitting	1	1	0	0	1
+iâ	ice	0	0	1	0	0
+weithio	work	0	0	1	0	0
+vientiane	vientiane	0	0	1	0	0
+calon	heart	0	0	1	1	1
+thref	town	0	0	1	0	0
+cyrus	cyrus	0	0	1	0	0
+twrciaid	turks	0	0	1	0	0
+fuan	soon	0	0	1	0	0
+chelf	art	0	0	1	0	0
+basio	pass	0	0	1	0	0
+ymryson	strife	0	0	1	1	1
+wobr	award	0	0	1	0	0
+gwerthiant	sales	0	0	1	0	0
+rocedi	rockets	0	0	1	0	0
+cdrom	cdrom	0	0	1	0	0
+plancton	plankton	0	0	1	0	0
+encyclopaedia	encyclopaedia	0	0	1	0	0
+ebrill	april	0	0	1	1	1
+tirffurfiau	landforms	0	0	1	0	0
+gobeithio	hope	0	0	1	1	1
+tanc	tank	0	0	1	0	0
+awyrgylch	atmosphere	0	0	1	1	1
+gerddoriaeth	music	0	0	1	0	0
+gwyrdd	green	0	0	1	1	1
+pencampwriaeth	championship	0	0	1	0	0
+tant	chord	0	0	1	1	1
+hunan	self	0	0	1	1	1
+categoridiwylliant	categoridiwylliant	0	0	1	0	0
+theatr	theater	0	0	1	0	0
+ir	to the	0	0	1	0	1
+it	it	0	0	1	0	0
+iw	iw	0	0	1	0	0
+iv	iv	0	0	1	0	0
+ii	ii	0	0	1	0	0
+albaneg	albanian	0	0	1	0	0
+cant	percent	0	0	1	0	1
+canu	singing	0	0	1	0	1
+canu	singingd	0	0	1	0	1
+im	im	0	0	1	0	0
+il	nd	0	0	1	0	0
+io	i	0	0	1	0	0
+in	in	0	0	1	0	0
+ia	ice	0	0	1	1	1
+march	march	0	0	1	0	1
+cyfraddau	rates	0	0	1	0	0
+ie	yes	0	0	1	0	0
+ie	ie	0	0	1	0	0
+if	f	0	0	1	0	0
+rythm	rhythm	0	0	1	0	0
+weithredoedd	actions	0	0	1	0	0
+bello	bello	0	0	1	0	0
+lludd	lludd	0	0	1	0	0
+lludd	glue	0	0	1	0	0
+make	make	0	0	1	0	0
+dangoswyd	shown	0	0	1	0	0
+nawddsant	patron saint	0	0	1	0	0
+amcangyfrifir	estimated	0	0	1	0	0
+lludw	ash	0	0	1	0	0
+pwnig	punic	0	0	1	0	0
+pwnig	slopes	0	0	1	0	0
+pwnig	pwing	0	0	1	0	0
+dudalen	page	0	0	1	0	0
+entitled	entitled	0	0	1	0	0
+hydrocarbonau	hydrocarbons	0	0	1	0	0
+hydrocarbonau	hdrocarbons	0	0	1	0	0
+ddirgel	secret	0	0	1	0	0
+grammar	grammar	0	0	1	0	0
+uwchdestun	hypertext	0	0	1	0	0
+balearig	balearig	0	0	1	0	0
+gwynfor	gwynfor	0	0	1	0	0
+pwyso	weighing	0	0	1	0	1
+isdrofannol	subtropical	0	0	1	0	0
+chweched	sixth	0	0	1	1	1
+hwyaf	longest	0	0	1	0	0
+endid	entity	0	0	1	0	0
+darganfu	found	0	0	1	0	0
+roma	roma	0	0	1	0	0
+yours	yours	0	0	1	0	0
+tangnefedd	peace	0	0	1	1	1
+nîl	nil	0	0	1	0	0
+nîl	nile	0	0	1	0	0
+protocol	protocol	0	0	1	0	0
+just	just	0	0	1	0	0
+edrych	look	0	0	1	1	1
+feddiant	possession	0	0	1	0	0
+elfennau	elements	0	0	1	0	0
+human	human	0	0	1	0	0
+wyddys	unknown	0	0	1	0	0
+agos	close	0	0	1	0	1
+agor	open	0	0	1	1	1
+catalytig	catalytig	0	0	1	0	0
+catalytig	catalytic	0	0	1	0	0
+khorasan	khorasan	0	0	1	0	0
+ymerawdr	emperor	0	0	1	0	0
+gwrthdystiadau	demonstrations	0	0	1	0	0
+crochenwaith	pottery	0	0	1	0	0
+royal	royal	0	0	1	0	0
+friedrich	friedrich	0	0	1	0	0
+dolur	sore	0	0	1	1	1
+save	save	0	0	1	0	0
+garcharorion	prisoners	0	0	1	0	0
+gustav	gustav	0	0	1	0	0
+nightjar	nightjar	0	0	1	0	0
+coron	crown	0	0	1	1	1
+cryfhaur	strengthen	0	0	1	0	0
+cryfhaur	srengthen the	0	0	1	0	0
+bŵer	power	0	0	1	0	0
+hardal	area	0	0	1	0	0
+natal	natal	0	0	1	0	0
+rheolaidd	regular	0	0	1	1	1
+aberffraw	aberffraw	0	0	1	0	0
+offa	dyke	0	0	1	0	0
+gwlff	gulf	0	0	1	0	0
+flwyddyn	year	0	0	1	0	0
+ymostyngiad	submission	0	0	1	1	1
+cymharol	relative	0	0	1	0	1
+cymharol	cymharo	0	0	1	0	1
+mebyon	mebyon	0	0	1	0	0
+canhwyllau	candles	0	0	1	0	1
+cipio	capture	0	0	1	0	1
+dean	dean	0	0	1	0	0
+ffalopaidd	recanalisation	0	0	1	0	0
+chwarrennau	glands	0	0	1	0	0
+gysylltiedig	associated	0	0	1	0	0
+tanwyddau	fuels	0	0	1	0	0
+gorchuddior	coverings	0	0	1	0	0
+phriodi	married	0	0	1	0	0
+réard	beard	0	0	1	0	0
+wiciadur	wiktionary	0	0	1	0	0
+rhwystr	barrier	0	0	1	1	1
+idwal	idwal	0	0	1	0	0
+gwylan	qwylan	0	0	1	0	1
+gwylan	seagull	0	0	1	0	1
+anatolia	anatolia	0	0	1	0	0
+posibilrwydd	possibility	0	0	1	1	1
+arbennig	special	0	0	1	1	1
+normal	normal	0	0	1	0	0
+ddatganiad	statement	0	0	1	0	0
+categorigwledydd	categorigwledydd	0	0	1	0	0
+nhrefn	order	0	0	1	0	0
+shakespeare	shakespeare	0	0	1	0	0
+veda	veda	0	0	1	0	0
+chwarter	quarter	0	0	1	1	1
+gwybyddol	cognitive	0	0	1	0	0
+darlledu	broadcasting	0	0	1	0	0
+ailsefydlu	rehabilitation	0	0	1	0	0
+anws	dedication	1	0	1	0	0
+anws	anus	1	1	1	0	0
+anws	basin	1	0	1	0	0
+anws	trough	1	0	1	0	0
+belarws	belarus	0	0	1	0	0
+ddadleuol	controversial	0	0	1	0	0
+caergystennin	constantinople	0	0	1	1	1
+chreu	create	0	0	1	0	0
+uniongred	orthodox	0	0	1	0	0
+super	super	0	0	1	0	0
+zur	zur	0	0	1	0	0
+bugail	shepherd	0	0	1	1	1
+comiwnyddol	communist	0	0	1	1	1
+modelau	models	0	0	1	0	0
+olddodiad	suffix	0	0	1	1	1
+atgenhedlun	reproduce	0	0	1	0	0
+atgenhedlun	atgenhedlun	0	0	1	0	0
+ewrasia	eurasia	0	0	1	0	0
+cilgwyn	cilgwyn	0	0	1	0	0
+dyblu	doubled	0	0	1	0	1
+orsaf	station	0	0	1	0	0
+anturiaethau	adventures	0	0	1	0	0
+sergio	sergio	0	0	1	0	0
+romulus	romulus	0	0	1	0	0
+reykjavík	reykjavik	0	0	1	0	0
+down	down	0	0	1	0	0
+amsterdam	amsterdam	0	0	1	0	0
+preifatrwydd	privacy	0	0	1	0	0
+senglau	singles	0	0	1	0	0
+pwysigrwydd	importance	0	0	1	1	1
+beth	what	0	0	1	1	1
+iː	to:	0	0	1	0	0
+iː	to	0	0	1	0	0
+nsoamerika	nsoamerika	0	0	1	0	0
+cytunir	agreed	0	0	1	0	0
+archwilio	audit	0	0	1	1	1
+boblogaeth	population	0	0	1	0	0
+tramor	foreign	0	0	1	1	1
+bolivia	bolivia	0	0	1	0	0
+perygl	risk	0	0	1	1	1
+awdur	author	0	0	1	1	1
+dyfnaint	devon	0	0	1	1	1
+fore	morning	0	0	1	0	0
+ford	table	0	0	1	0	0
+colofnau	columns	0	0	1	0	0
+cyflymaf	fastest	0	0	1	0	0
+beri	cause	0	0	1	0	0
+marchnad	market	0	0	1	1	1
+glawdd	bank	0	0	1	0	0
+colera	cholera	0	0	1	0	0
+positif	positive	0	0	1	0	0
+gwrthapartheid	gwrthapartheid	0	0	1	0	0
+ddyffryn	valley	0	0	1	0	0
+trwydded	license	0	0	1	1	1
+ofyn	ask	0	0	1	0	0
+priodolwyd	attributed	0	0	1	0	0
+ymbelydredd	radiation	0	0	1	0	0
+zeno	zeno	0	0	1	0	0
+shia	shia	0	0	1	0	0
+graff	graph	0	0	1	0	0
+covers	covers	0	0	1	0	0
+uchelwyr	uchenlwyr	0	0	1	0	0
+uchelwyr	nobility	0	0	1	0	0
+barhau	continue	0	0	1	0	0
+eithrior	exception	0	0	1	0	0
+bogart	bogart	0	0	1	0	0
+ceredigion	ceredigion	0	0	1	0	0
+bryngwran	bryngwarn	0	0	1	0	0
+bryngwran	bryngwran	0	0	1	0	0
+gwerthfawr	valuable	0	0	1	1	1
+llawysgrif	manuscript	0	0	1	1	1
+sieffre	geoffrey	0	0	1	0	0
+cylchgronau	magazines	0	0	1	0	0
+digital	digital	0	0	1	0	0
+holly	holly	0	0	1	0	0
+gwraig	wife	0	0	1	1	1
+lladin	latin	0	0	1	1	1
+asiantaethau	agencies	0	0	1	0	0
+qatar	mr lilley:	0	0	1	0	0
+qatar	qatar	0	0	1	0	0
+terfysgol	terrorist	0	0	1	0	0
+dangosodd	showed	0	0	1	0	0
+sosialaidd	socialist	0	0	1	1	1
+benyw	female	0	0	1	1	1
+dioddefodd	suffered	0	0	1	0	0
+jones	jones	0	0	1	0	0
+×km	km	0	0	1	0	0
+blaidd	wolf	0	0	1	1	1
+daily	daily	0	0	1	0	0
+achlysur	event	0	0	1	0	1
+trwchach	trwchach	0	0	1	0	0
+gwerth	value	0	0	1	1	1
+gwrandewch	listen	0	0	1	0	0
+merched	women	0	0	1	0	0
+safler	safler	0	0	1	0	0
+lechi	slate	0	0	1	0	0
+hydrograffeg	hudrograffeg	1	0	1	0	0
+hydrograffeg	hydrography	1	1	0	0	0
+hydrograffeg	career	1	0	1	0	0
+hydrograffeg	hydrgraffeg	1	0	1	0	0
+hydrograffeg	hydrograffed	1	1	0	0	0
+hydrograffeg	type	1	0	1	0	0
+perthyn	belong	0	0	1	1	1
+cynhaliwr	carer	0	0	1	0	1
+mercher	wednesday	0	0	1	0	1
+defnyddiwyd	used	0	0	1	0	0
+defnyddiwyd	welshmen	0	0	1	0	0
+gael	available	0	0	1	0	0
+yunis	yunis	0	0	1	0	0
+cornel	corner	0	0	1	1	1
+achos	case	0	0	1	0	1
+unrhywbeth	anything	0	0	1	1	1
+taleban	taleban	0	0	1	0	0
+natsiaid	nastiaid	0	0	1	0	0
+natsiaid	nazis	0	0	1	0	0
+bentref	village	0	0	1	0	0
+llewellyn	llewellyn	0	0	1	0	0
+ryddhau	release	0	0	1	0	0
+filoedd	thousands	0	0	1	0	0
+dyddiol	daily	0	0	1	1	1
+dyddion	yddion	0	0	1	0	0
+ogof	logo	1	0	1	0	1
+ogof	universe	1	0	1	0	1
+ogof	creation	1	0	1	0	1
+ogof	cave	1	1	1	1	1
+ogof	of	1	0	1	0	1
+gastell	castle	0	0	1	0	0
+neidiodd	jumped	0	0	1	0	0
+masnachol	commercial	0	0	1	1	1
+dim	no	0	0	1	1	1
+ymdrech	effort	0	0	1	1	1
+neilltuol	particular	0	0	1	1	1
+cyhydnos	cyhydons	0	0	1	0	0
+cyhydnos	equinox	0	0	1	0	0
+apartheid	apartheid	0	0	1	0	0
+henri	henry	0	0	1	0	0
+dic	tick	0	0	1	0	0
+breuddwyd	dream	0	0	1	1	1
+graddau	graddau	0	0	1	0	0
+graddau	extent	0	0	1	0	0
+dir	land	0	0	1	0	1
+villa	villa	0	0	1	0	0
+iwraniwm	uranium	0	0	1	0	0
+ymledu	spread	0	0	1	1	1
+bidgood	bidgood	0	0	1	0	0
+afghanistan	afghanistan	0	0	1	0	0
+gwarchodfa	reserve	0	0	1	0	0
+masood	masood	0	0	1	0	0
+feiciau	bikes	0	0	1	0	0
+categoricyfandiroedd	categoricyfandiroedd	0	0	1	0	0
+majora	majora	0	0	1	0	0
+lennon	lennon	0	0	1	0	0
+lennon	menon	0	0	1	0	0
+somalia	somalia	0	0	1	0	0
+adda	adam	0	0	1	1	1
+adda	adda	0	0	1	0	1
+addo	promise	0	0	1	1	1
+international	international	0	0	1	0	0
+poblogaeth	population	0	0	1	1	1
+twrceg	turkish	0	0	1	0	0
+wain	sheath	0	0	1	0	0
+tibet	tibet	0	0	1	0	0
+gyhoeddir	published	0	0	1	0	0
+mr	mr	0	0	1	0	0
+cawsant	they	0	0	1	0	0
+chilton	chilton	0	0	1	0	0
+aurelius	aurelius	0	0	1	0	0
+enwad	denomination	0	0	1	1	1
+boy	boy	0	0	1	0	0
+potensial	potential	0	0	1	0	0
+china	china	0	0	1	0	0
+cuckoo	cuckoo	0	0	1	0	0
+amrywio	vary	0	0	1	1	1
+bop	pop	0	0	1	0	0
+amrywia	vary	0	0	1	0	0
+bor	bor	0	0	1	0	0
+bos	boss	0	0	1	0	1
+môn	mon	0	0	1	0	0
+harlech	harlech	0	0	1	0	0
+meistrir	meistrir	0	0	1	0	0
+bob	all	0	0	1	0	0
+bod	that	0	0	1	0	1
+gwleidyddion	politicians	0	0	1	0	0
+welwch	see	0	0	1	0	0
+modur	motor	0	0	1	1	1
+llifo	flow	0	0	1	1	1
+priodweddau	properties	0	0	1	0	0
+cymhwysiad	application	0	0	1	1	1
+thro	turn	0	0	1	0	0
+franco	franco	0	0	1	0	0
+thri	three	0	0	1	0	0
+perk	perk	0	0	1	0	0
+peri	cause	0	0	1	1	1
+france	france	0	0	1	0	0
+selyf	solomon	0	0	1	1	1
+cyfrwng	medium	0	0	1	1	1
+crysau	shirts	0	0	1	0	0
+crysau	doors	0	0	1	0	0
+aries	aries	0	0	1	0	0
+olympiad	olympiad	0	0	1	0	0
+hedfan	flight	0	0	1	0	1
+crefydd	religion	0	0	1	1	1
+vous	vous	0	0	1	0	0
+caledwedd	hardware	0	0	1	0	0
+amlder	frequency	0	0	1	0	1
+dyfod	coming	0	0	1	0	1
+imperialaeth	falling	1	0	1	0	0
+imperialaeth	imperialism	1	1	0	0	0
+imperialaeth	fell	1	0	1	0	0
+fly	fly	0	0	1	0	0
+ymennydd	ymennydde	1	0	1	0	1
+ymennydd	brain	1	1	1	1	1
+ymennydd	opposition	1	0	1	0	1
+ymennydd	against	1	0	1	0	1
+tokyo	tokyo	0	0	1	0	0
+gwahaniaethu	discrimination	0	0	1	0	1
+llwynog	fox	0	0	1	1	1
+soul	soul	0	0	1	0	0
+seiliedig	based	0	0	1	0	0
+wediw	wediw	0	0	1	0	0
+gladstone	gladstone	0	0	1	0	0
+thermol	thermal	0	0	1	0	0
+hiroshima	hiroshima	0	0	1	0	0
+ferched	women	0	0	1	0	0
+llawr	floor	0	0	1	1	1
+endocrin	endocrine	0	0	1	0	0
+kenneth	kenneth	0	0	1	0	0
+pensaer	architect	0	0	1	1	1
+basileios	basileios	0	0	1	0	0
+winston	winston	0	0	1	0	0
+lowry	lowry	0	0	1	0	0
+dihangfa	escape	0	0	1	1	1
+menter	enterprise	0	0	1	0	0
+topograffig	topographic	0	0	1	0	0
+norwywyr	norwywyr	0	0	1	0	0
+llawn	full	0	0	1	1	1
+throir	turned	0	0	1	0	0
+purt	purt	0	0	1	0	0
+pinc	pink	0	0	1	1	1
+daeargrynfeydd	earthquakes	0	0	1	0	0
+llwch	dust	0	0	1	1	1
+parch	respect	0	0	1	1	1
+wrthryfel	rebellion	0	0	1	0	0
+fertebrat	revelation	1	0	1	0	0
+fertebrat	vertebrates	1	0	1	0	0
+fertebrat	vertebrate	1	1	0	0	0
+fertebrat	landed	1	0	1	0	0
+fertebrat	fertebrat	1	0	1	0	0
+fertebrat	came	1	0	1	0	0
+nevis	nevis	0	0	1	0	0
+wnaeth	did	0	0	1	0	0
+map	map	0	0	1	1	1
+mas	out	0	0	1	0	0
+gron	round	0	0	1	0	0
+uchelgeisiol	ambitious	0	0	1	1	1
+wicca	wicca	0	0	1	0	0
+may	may	0	0	1	0	0
+max	max	0	0	1	0	0
+fed	th	0	0	1	0	0
+grog	suspension	0	0	1	0	0
+grog	drawer	0	0	1	0	0
+technegau	techniques	0	0	1	0	0
+mac	mac	0	0	1	0	0
+mab	son	0	0	1	0	1
+mae	a	0	0	1	0	0
+mad	released	0	0	1	0	1
+mad	mad	0	0	1	0	1
+mai	that	0	0	1	0	1
+ffurflen	form	0	0	1	1	1
+mam	mother	0	0	1	1	1
+mao	mao	0	0	1	0	0
+man	a	0	0	1	0	1
+man	man	0	0	1	0	1
+talu	pay	0	0	1	1	1
+categoricwmnïau	categoricwmnìau	0	0	1	0	0
+categoricwmnïau	category companies	0	0	1	0	0
+johnson	johnson	0	0	1	0	0
+frwydrau	battles	0	0	1	0	0
+ganran	percentage	0	0	1	0	0
+q	q	0	0	1	0	0
+ffôn	stick	0	0	1	0	0
+bwdhaidd	buddhist	0	0	1	0	0
+orllewin	west	0	0	1	0	0
+argraffiad	edition	0	0	1	1	1
+algâu	algae	0	0	1	0	0
+gee	gee	0	0	1	0	0
+persiaid	persians	0	0	1	0	0
+galicia	galicia	0	0	1	0	0
+galicia	gallicia	0	0	1	0	0
+basg	basque	0	0	1	0	0
+irene	irene	0	0	1	0	0
+differu		1	0	1	0	0
+differu	eagle	1	0	1	0	0
+differu	stomach	1	0	1	0	0
+differu	ifferentiation	1	1	0	0	0
+differu	differentiation	1	0	1	0	0
+differu	derivative	1	1	0	0	0
+recordiodd	recorded	0	0	1	0	0
+police	police	0	0	1	0	0
+police	police (in welsh  "heddlu")	0	0	1	0	0
+meddyliol	mental	0	0	1	1	1
+moesoldeb	morality	0	0	1	1	1
+weinidogion	ministers	0	0	1	0	0
+amcangyfrifol	estimated	0	0	1	0	0
+amcangyfrifon	estimates	0	0	1	0	0
+queens	queens	0	0	1	0	0
+categoricalendr	calender category	0	0	1	0	0
+categoricalendr	categoricalendr	0	0	1	0	0
+main	main	0	0	1	0	1
+galwodd	callled	0	0	1	0	0
+galwodd	called	0	0	1	0	0
+texas	texas	0	0	1	0	0
+stadiwm	stadium	0	0	1	0	0
+gymru	wales	0	0	1	0	0
+beic	bike	0	0	1	1	1
+tardda	which rises	0	0	1	0	0
+flynyddol	annually	0	0	1	0	0
+wyntoedd	winds	0	0	1	0	0
+wrando	listen	0	0	1	0	0
+beit	byte	0	0	1	0	0
+arwydd	sign	0	0	1	1	1
+chynrychioli	represented	0	0	1	0	0
+gwastadeddau	plains	0	0	1	0	0
+llefrith	milk	0	0	1	1	1
+goroesi	survival	0	0	1	0	1
+mawrion	large	0	0	1	0	0
+rock	rock	0	0	1	0	0
+melanesia	melanesia	0	0	1	0	0
+dibynnun	dibynnun	0	0	1	0	0
+swbstrad	substrate	0	0	1	0	0
+tacitus	tacitus	0	0	1	0	0
+carior	carior	0	0	1	0	0
+lan	up	0	0	1	0	0
+ysgafn	light	0	0	1	1	1
+adref	home	0	0	1	1	1
+golaur	golaur	0	0	1	0	0
+meinwe	tissue	0	0	1	0	0
+morwenoliaid	tern	0	0	1	0	0
+ymsefydlodd	settled	0	0	1	0	0
+rannu	share	0	0	1	0	0
+lai	less	0	0	1	0	0
+olwen	olwen	0	0	1	0	0
+living	living	0	0	1	0	0
+guangdong	guangdong	0	0	1	0	0
+jackson	jackson	0	0	1	0	0
+cyfiawnder	justice	0	0	1	1	1
+pluvialis	pluvialis	0	0	1	0	0
+estheteg	aesthetics	0	0	1	1	1
+penmynydd	penmynydd	0	0	1	0	0
+igneaidd	igneous	0	0	1	0	0
+oeri	cooling	0	0	1	0	1
+oeri	link	0	0	1	0	1
+defnyddwyr	users	0	0	1	0	0
+phatrymau	patterns	0	0	1	0	0
+gallois	gallois	0	0	1	0	0
+gallois	cymraeg	0	0	1	0	0
+phum	five	0	0	1	0	0
+ddosbarthiadau	classes	0	0	1	0	0
+romana	romana	0	0	1	0	0
+px|bawd|baner	px|thumb|flag	0	0	1	0	0
+geiriaduron	dictionaries	0	0	1	0	0
+dylunio	design	0	0	1	0	0
+duwiau	gods	0	0	1	0	0
+madryn	madryn	0	0	1	0	0
+california	california	0	0	1	0	0
+hawlfraint	copyright	0	0	1	0	0
+severus	severus	0	0	1	0	0
+anarferol	unusual	0	0	1	1	1
+keith	keith	0	0	1	0	0
+golledion	losses	0	0	1	0	0
+grist	christ	0	0	1	0	0
+wasanaeth	service	0	0	1	0	0
+language	language	0	0	1	0	0
+thing	thing	0	0	1	0	0
+parvati	parvati	0	0	1	0	0
+gofynwch	ask	0	0	1	0	0
+categoridinasoedd	categoridinasoedd	0	0	1	0	0
+dirywiad	decline	0	0	1	0	1
+first	first	0	0	1	0	0
+lwyd	lywd	0	0	1	0	0
+lwyd	gray	0	0	1	0	0
+seychelles	seychelles	0	0	1	0	0
+americana	americana	0	0	1	0	0
+dduwiau	gods	0	0	1	0	0
+rachel	rachel	0	0	1	0	0
+crib	ridge	0	0	1	1	1
+peirianneg	engineering	0	0	1	1	1
+arrhenius	arrhenius	0	0	1	0	0
+gosododd	set	0	0	1	0	0
+long	ship	0	0	1	0	0
+long	hir	0	0	1	0	0
+ddegfed	tenth	0	0	1	0	0
+ystyried	consider	0	0	1	1	1
+criw	crew	0	0	1	1	1
+fiji	fiji	0	0	1	0	0
+río	rio	0	0	1	0	0
+lyfr	book	0	0	1	0	0
+symudol	mobile	0	0	1	1	1
+symudodd	moved	0	0	1	0	0
+little	little	0	0	1	0	0
+little	littlt	0	0	1	0	0
+arddodiadau	arddodiadau	0	0	1	0	0
+phlanhigion	plants	0	0	1	0	0
+trydanol	electrical	0	0	1	1	1
+ddynion	men	0	0	1	0	0
+chefnfor	ocean	0	0	1	0	0
+nhref	town	0	0	1	0	0
+disgwyliad	expectation	0	0	1	1	1
+gelynion	enemies	0	0	1	0	0
+joel	joel	0	0	1	0	0
+alfred	alfred	0	0	1	0	0
+minaret	minaret	0	0	1	0	0
+teyrnasiad	reign	0	0	1	1	1
+teyrnasiad	teyrnasaid	0	0	1	0	1
+haddysg	education	0	0	1	0	0
+bobl	people	0	0	1	0	0
+cromosomau	chromosomes	0	0	1	0	0
+bobi	bake	0	0	1	0	0
+bobi	boby	0	0	1	0	0
+neverland	neverland	0	0	1	0	0
+ymrannu	divide	0	0	1	1	1
+collodd	lost	0	0	1	0	0
+harwain	led	0	0	1	0	0
+arglwydd	lord	0	0	1	1	1
+lluniau	pictures	0	0	1	0	0
+istanbwl	istanbul	0	0	1	0	0
+cwmwl	much	1	0	1	0	1
+cwmwl	cloud	1	1	1	1	1
+cwmwl	more	1	0	1	0	1
+dramâu	plays	0	0	1	0	0
+gerddi	gardens	0	0	1	0	1
+barwniaid	barons	0	0	1	0	0
+hiliol	race	0	0	1	0	0
+ymerodrol	imperial	0	0	1	1	1
+ymerodron	ymerodron	0	0	1	0	0
+were	we're	0	0	1	0	0
+were	were	0	0	1	0	0
+cadwyn	chain	0	0	1	1	1
+ymddengys	it seems	0	0	1	0	0
+aragon	aragon	0	0	1	0	0
+albymau	albums	0	0	1	0	0
+sahel	sahel	0	0	1	0	0
+dwysder	intensity	0	0	1	0	0
+charadriiformes	charadriiformes	0	0	1	0	0
+gristnogaeth	christianity	0	0	1	0	0
+briodi	marry	0	0	1	0	0
+grŵp	group	1	1	1	0	0
+werthu	sale	0	0	1	0	0
+albedo	albedo	0	0	1	0	0
+kevin	kevin	0	0	1	0	0
+warsaw	warsaw	0	0	1	0	0
+speakers	speakers	0	0	1	0	0
+hooded	hooded	0	0	1	0	0
+castor	castor	0	0	1	0	0
+mehefin	june	0	0	1	1	1
+llysoedd	courts	0	0	1	0	0
+cyfartaledd	average	0	0	1	1	1
+cyfartaledd	avarage	0	0	1	0	1
+felyn	yellow	0	0	1	0	0
+arctigalpaidd	arctigalpaidd	0	0	1	0	0
+diver	diver	0	0	1	0	0
+archesgob	archbishop	1	1	1	1	1
+archesgob	archesgop	1	0	1	0	1
+archesgob	scholar	1	0	1	0	1
+archesgob	allama	1	0	1	0	1
+archesgob	scholor	1	0	1	0	1
+frodyr	brothers	0	0	1	0	0
+modrwyau	rings	0	0	1	0	0
+davies	davies	0	0	1	0	0
+channel	channel	0	0	1	0	0
+debygol	likely	0	0	1	0	0
+cl	cl	0	0	1	0	0
+chwedl	legend	0	0	1	0	1
+caerdydd	cardiff	0	0	1	1	1
+rhegen	rail	0	0	1	0	0
+ymwelodd	visited	0	0	1	0	0
+triphlyg	triple	0	0	1	0	0
+morwennol	terns	0	0	1	0	0
+blaengroen	foreskin	0	0	1	0	0
+gydai	with his	0	0	1	0	0
+thwristiaeth	tourism	0	0	1	0	0
+lhuyd	lhuyd	0	0	1	0	0
+chipio	capture	0	0	1	0	0
+sutton	sutton	0	0	1	0	0
+ffeniciaid	ffeniciaid	0	0	1	0	0
+corris	corris	0	0	1	0	0
+cyllidol	financial	0	0	1	0	0
+geredigion	ceredigion	0	0	1	0	0
+gymerodd	took	0	0	1	0	0
+gydau	with their	0	0	1	0	0
+benddu	headed	0	0	1	0	0
+gwrthwyneb	in contrast	0	0	1	0	1
+arwyddlun	emblem	0	0	1	1	1
+lledrith	magic	0	0	1	1	1
+gorchfygu	overcome	0	0	1	1	1
+ymosod	attack	0	0	1	1	1
+curlew	curlew	0	0	1	0	0
+cynhyrchur	cynhyrchur	0	0	1	0	0
+cynhyrchur	production	0	0	1	0	0
+gyffredinol	general	0	0	1	0	0
+presenol	present	0	0	1	0	0
+archeolegol	archaeological	0	0	1	0	0
+archeolegol	archaeology	0	0	1	0	0
+meddianwyd	invaded	0	0	1	0	0
+mamiaith	mother tongue	0	0	1	0	0
+español	espanol	0	0	1	0	0
+cyflym	fast	0	0	1	1	1
+black	black	0	0	1	0	0
+ymadael	exit	0	0	1	0	1
+ger	near	0	0	1	1	1
+rhydychen	oxford	0	0	1	1	1
+bittern	bittern	0	0	1	0	0
+carcharwyd	imprisoned	0	0	1	0	0
+siaredid	spoken	0	0	1	0	0
+loerennau	satellites	0	0	1	0	0
+geg	mouth	0	0	1	0	0
+cilmeri	cilmeri	0	0	1	0	0
+cilmeri	cilmery	0	0	1	0	0
+cwsg	sleep	0	0	1	1	1
+siaredir	spoken	0	0	1	0	0
+cynnwys	includes	0	0	1	0	1
+secondary	secondary	0	0	1	0	0
+achau	genealogy	0	0	1	0	0
+golwg	view	0	0	1	0	1
+rwmania	romania	0	0	1	0	0
+kaishek	kaishek	0	0	1	0	0
+kaishek	kai-shek	0	0	1	0	0
+miley	miley	0	0	1	0	0
+ymddwyn	behave	0	0	1	1	1
+ysgwydd	shoulder	0	0	1	1	1
+siopa	shopping	0	0	1	0	1
+ddweud	said	0	0	1	0	0
+menai	menai	0	0	1	0	0
+hiwmor	humor	0	0	1	0	0
+pwyliaid	poles	0	0	1	0	0
+sean	sean	0	0	1	0	0
+sean	are	0	0	1	0	0
+stigma	stigma	0	0	1	0	0
+ysgyfaint	lung	0	0	1	0	1
+calan	new year	0	0	1	0	1
+poeni	concerned	0	0	1	0	1
+wonder	wonder	0	0	1	0	0
+radd	degree	0	0	1	0	0
+milfeddyg	veterinary	1	1	0	0	1
+milfeddyg	veterinarian	1	1	0	0	1
+milfeddyg	vetenam	1	0	1	0	1
+milfeddyg	vererinarian	1	0	1	0	1
+milfeddyg	vietnam	1	0	1	0	1
+dywyll	dark	0	0	1	0	0
+label	label	0	0	1	1	1
+pump	five	0	0	1	1	1
+guyane	guiana	0	0	1	0	0
+confoederatio	confoederatio	0	0	1	0	0
+reading	reading	0	0	1	0	0
+categoriteledu	category: tv	0	0	1	0	0
+categoriteledu	categoriteledu	0	0	1	0	0
+august	august	0	0	1	0	0
+jr	jr	0	0	1	0	0
+trefedigaethol	colonial	0	0	1	0	0
+trefedigaethol	colonical	0	0	1	0	0
+farwolaeth	death	0	0	1	0	0
+tun	tin	0	0	1	0	0
+tua	about	0	0	1	1	1
+tud	p	0	0	1	0	0
+ja	ja	0	0	1	0	0
+tawe	abertawe	0	0	1	0	0
+rugby	rugby	0	0	1	0	0
+fformat	format	0	0	1	1	1
+tribbiani	tribbiani	0	0	1	0	0
+math	type	0	0	1	1	1
+jo	jo	0	0	1	0	0
+siachmat	siachmat	0	0	1	0	0
+pedryn	petrel	0	0	1	0	0
+milland	milland	0	0	1	0	0
+darganfur	darganfur	0	0	1	0	0
+darganfur	found	0	0	1	0	0
+gystadleuaeth	competition	0	0	1	0	0
+jj	jj	0	0	1	0	0
+gyfarwydd	familiar	0	0	1	0	0
+hynafol	ancient	0	0	1	1	1
+delweddau	images	0	0	1	0	0
+siarter	charter	0	0	1	0	0
+je	je	0	0	1	0	0
+profi	testing	0	0	1	0	1
+comoros	comoros	0	0	1	0	0
+plisgyn	shell	0	0	1	1	1
+barry	barry	0	0	1	0	0
+trydyddol	tertiary	0	0	1	0	0
+mari	mari	0	0	1	0	1
+mark	matk	0	0	1	0	0
+mark	mark	0	0	1	0	0
+marw	dead	0	0	1	1	1
+mars	mars	0	0	1	0	0
+arth	bear	0	0	1	1	1
+dyfu	grow	0	0	1	0	0
+mary	mary	0	0	1	0	0
+offeren	mass	0	0	1	1	1
+batagones	patagones	0	0	1	0	0
+ffrengig	french	0	0	1	1	1
+categoricewri	categoricewri	0	0	1	0	0
+categoricantorion	categoricantorion	0	0	1	0	0
+categoricantorion	category singers	0	0	1	0	0
+cúig	uig	0	0	1	0	0
+pidyn	penis	0	0	1	0	0
+frwydr	battle	0	0	1	0	0
+hemisffer	hemisphere	0	0	1	0	0
+those	those	0	0	1	0	0
+serennu	star	0	0	1	0	1
+sound	sound	0	0	1	0	0
+gwibdaith	trip	0	0	1	0	1
+canolfannau	centers	0	0	1	0	0
+sataniaeth	satanism	0	0	1	0	0
+efengylau	gospels	0	0	1	0	0
+meddiannu	possession	0	0	1	0	1
+novello	novello	0	0	1	0	0
+llechi	slate	0	0	1	0	0
+coco	cocoa	0	0	1	0	0
+caracalla	caracalla	0	0	1	0	0
+anfodlonrwydd	dissatisfaction	0	0	1	0	1
+rhuthun	ruthin	0	0	1	1	1
+coch	red	0	0	1	1	1
+ulysses	ulysses	0	0	1	0	0
+côte	note	0	0	1	0	0
+côte	cote	0	0	1	0	0
+sahara	sahara	0	0	1	0	0
+sahara	saharan	0	0	1	0	0
+diamedr	diameter	0	0	1	0	0
+cemeg	chemistry	0	0	1	1	1
+ofari	ovary	0	0	1	0	0
+breton	breton	0	0	1	0	0
+cadwodd	retained	0	0	1	0	0
+pas	pass	0	0	1	0	1
+caethweision	slaves	0	0	1	0	1
+doctor	doctor	0	0	1	1	1
+edwin	edwin	0	0	1	0	0
+duedd	trend	0	0	1	0	0
+same	same	0	0	1	0	0
+dringo	climbing	0	0	1	0	1
+cyfieithwyd	translated	0	0	1	0	0
+pab	pope	0	0	1	1	1
+pac	pac	0	0	1	0	1
+pedwaredd	fourth	0	0	1	0	0
+strategol	strategic	0	0	1	0	0
+geidwadol	conservative	0	0	1	0	0
+pam	why	0	0	1	1	1
+pan	when	0	0	1	1	1
+príncipe	principe	0	0	1	0	0
+ydynt	they	0	0	1	0	0
+isotopau	isotopes	0	0	1	0	0
+nghaerdydd	cardiff	0	0	1	0	0
+ymsefydlwyr	settlers	0	0	1	0	0
+band	band	0	0	1	1	1
+gwladfar	gwladfar	0	0	1	0	0
+haint	infection	0	0	1	0	1
+draig	dragon	0	0	1	1	1
+wellington	wellington	0	0	1	0	0
+ymfudwyr	migrants	0	0	1	0	0
+bosnahercegovina	bosnahercegovina	0	0	1	0	0
+bomiau	bombs	0	0	1	0	0
+boblogrwydd	popularity	0	0	1	0	0
+niwclear	nuclear	1	1	1	0	0
+drais	violence	0	0	1	0	0
+×	x	0	0	1	0	0
+among	among	0	0	1	0	0
+swlffwrig	swlffwrig	0	0	1	0	0
+cyd	joint	0	0	1	1	1
+gymanwlad	commonwealth	0	0	1	0	0
+lythyren	letter	0	0	1	0	0
+gwag	empty	0	0	1	1	1
+barbados	barbados	0	0	1	0	0
+cynydd	increase	0	0	1	0	0
+nick	nick	0	0	1	0	0
+ganolbarth	mid	0	0	1	0	0
+preachers	preachers	0	0	1	0	0
+treftadaeth	the heritage	0	0	1	0	1
+treftadaeth	heritage	0	0	1	0	1
+waed	blood	0	0	1	0	0
+naw	nine	0	0	1	1	1
+chyn	before	0	0	1	0	0
+diogelu	protection	0	0	1	0	1
+mor	as	0	0	1	0	1
+cynlluniwyd	designed	0	0	1	0	0
+seren	rays	1	0	1	0	1
+seren	star	1	1	1	1	1
+categoricrefydd	categoricrefydd	0	0	1	0	0
+wasanaethau	services	0	0	1	0	0
+helen	helen	0	0	1	0	0
+grid	grid	0	0	1	0	0
+mob	mob	0	0	1	0	0
+valdkundad	valdkundad	0	0	1	0	0
+breision	breision	0	0	1	0	0
+breision	capitals	0	0	1	0	0
+deuluoedd	families	0	0	1	0	0
+adams	adams	0	0	1	0	0
+either	either	0	0	1	0	0
+anrheithio	decimate	0	0	1	0	1
+newyddiadurwr	journalist	0	0	1	1	1
+hapus	happy	0	0	1	1	1
+daearegol	geological	0	0	1	1	1
+rafah	rafah	0	0	1	0	0
+witchcraft	witchcraft	0	0	1	0	0
+titan	titan	0	0	1	0	0
+digwyddiadau	events	0	0	1	0	0
+dağı	magi	0	0	1	0	0
+dağı	trap	0	0	1	0	0
+ynan	cynan	0	0	1	0	0
+goideleg	giodelic	0	0	1	0	0
+cherddoriaeth	music	0	0	1	0	0
+ellis	ellis	0	0	1	0	0
+dras	descent	0	0	1	0	0
+sudan	sudan	0	0	1	0	0
+derwyddon	druids	0	0	1	0	0
+calchfaen	translating	1	0	1	0	1
+calchfaen	limestone	1	1	0	1	1
+calchfaen	costly	1	0	1	0	1
+calchfaen	expensive	1	0	1	0	1
+calchfaen	calchfaen	1	0	1	0	1
+gwrthsefyll	resistant	0	0	1	0	1
+etholiad	election	0	0	1	1	1
+drosedd	offense	0	0	1	0	0
+chysylltiadau	links	0	0	1	0	0
+kyoto	kyoto	0	0	1	0	0
+cenedlaetholdeb	nationalism	0	0	1	1	1
+syml	simple	0	0	1	1	1
+aled	aled	0	0	1	0	0
+gwladfaoedd	gwladfaoedd	0	0	1	0	0
+unwyd	merged	0	0	1	0	0
+pwysleisio	emphasizes	0	0	1	0	1
+otho	otho	0	0	1	0	0
+cylchol	circular	0	0	1	0	0
+island	island	0	0	1	0	0
+tryweryn	tryweryn	0	0	1	0	0
+deheuol	southern	0	0	1	1	1
+ddigon	enough	0	0	1	0	0
+bwlgariaid	bulgarians	0	0	1	0	0
+dafadennog	warty	0	0	1	1	1
+joplin	joplin	0	0	1	0	0
+marn	farm	0	0	1	0	0
+marn	view	0	0	1	0	0
+road	road	0	0	1	0	0
+cynghorwyr	councilors	0	0	1	0	0
+bedwyr	bedwyr	0	0	1	0	0
+categorirhanbarthau	categorirhanbarthau	0	0	1	0	0
+glyndŵr	glyndwr	0	0	1	0	0
+glyndŵr	gravity	0	0	1	0	0
+herbert	herbert	0	0	1	0	0
+klerk	klerk	0	0	1	0	0
+weithiaun	weithianu	0	0	1	0	0
+weithiaun	weithiaun	0	0	1	0	0
+einstein	einstein	0	0	1	0	0
+nhwn	this	0	0	1	0	0
+phwy	who	0	0	1	0	0
+cyrchoedd	raids	0	0	1	0	0
+gwladwriaeth	state	0	0	1	1	1
+ynganu	pronunciation	0	0	1	0	0
+canodd	sang	0	0	1	0	0
+ddynodir	designated	0	0	1	0	0
+fater	issue	0	0	1	0	0
+portreadu	portrayed	0	0	1	0	1
+tiriogaeth	territory	1	1	1	1	1
+wythwr	number eight(8)	0	0	1	0	0
+wythwr	number eight	0	0	1	0	0
+gors	marsh	0	0	1	0	0
+watkin	watkin	0	0	1	0	0
+phlant	children	0	0	1	0	0
+ymgais	attempt	0	0	1	1	1
+merfyn	merfyn	0	0	1	0	0
+iwganda	uganda	0	0	1	0	0
+barri	barry	0	0	1	0	0
+nghanol	center	0	0	1	0	0
+gynhyrchir	produced	0	0	1	0	0
+rhinwedd	virtue	0	0	1	1	1
+adler	adler	0	0	1	0	0
+goronwy	goronwy	0	0	1	0	0
+ynydu	ynydu	0	0	1	0	0
+disgwylid	expected	0	0	1	0	0
+welir	seen	0	0	1	0	0
+esgus	excuse	0	0	1	1	1
+manuel	manuel	0	0	1	0	0
+disgwylir	expected	0	0	1	0	0
+prifardd	poet	0	0	1	0	1
+callestr	chert	1	1	0	0	1
+callestr	internal	1	0	1	0	1
+callestr	flint	1	0	1	1	1
+callestr	inner	1	0	1	0	1
+callestr	before	1	0	1	0	1
+cenhedlu	contraception	0	0	1	0	1
+required	required	0	0	1	0	0
+ymgyrch	campaign	0	0	1	1	1
+wicifryngau	wikimedia	0	0	1	0	0
+deer	deer	0	0	1	0	0
+llydaw	brittany	0	0	1	1	1
+general	general	0	0	1	0	0
+ymylon	edges	0	0	1	0	0
+arddu	arddu	0	0	1	0	1
+llydan	wide	0	0	1	1	1
+gorllewinol	western	0	0	1	1	1
+eliot	eliot	0	0	1	0	0
+sandpiper	sandpiper	0	0	1	0	0
+sandpiper	sandipiper	0	0	1	0	0
+again	again	0	0	1	0	0
+genres	genres	0	0	1	0	0
+ffrancod	french	0	0	1	0	0
+maredudd	meredith	0	0	1	0	0
+istanbul	istanbul	0	0	1	0	0
+iorwerth	iorwerth	0	0	1	0	1
+ganolfan	center	0	0	1	0	0
+eiriau	words	0	0	1	0	0
+field	field	0	0	1	0	0
+darganfuwyd	found	0	0	1	0	0
+vanuatu	vanuatu	0	0	1	0	0
+personol	personal	0	0	1	1	1
+deledu	tv	0	0	1	0	0
+pentrefi	villages	0	0	1	0	0
+brando	brando	0	0	1	0	0
+annwyd	cold	0	0	1	1	1
+wrthrych	object	0	0	1	0	0
+chris	chris	0	0	1	0	0
+dwywaith	twice	0	0	1	1	1
+annwyl	dear	0	0	1	1	1
+havana	havana	0	0	1	0	0
+orau	best	0	0	1	0	0
+ildior	surrender	0	0	1	0	0
+ildior	ildior	0	0	1	0	0
+disgyn	fall	0	0	1	1	1
+requires	requires	0	0	1	0	0
+gêm	game	0	0	1	0	0
+u	u	0	0	1	0	0
+god	god	0	0	1	0	0
+god	code	0	0	1	0	0
+siroedd	counties	0	0	1	0	0
+mongoliaid	mongolian	0	0	1	0	0
+sergei	sergei	0	0	1	0	0
+mynegodd	expressed	0	0	1	0	0
+pheasant	pheasant	0	0	1	0	0
+corwen	corwen	0	0	1	0	0
+€	Є	0	0	1	0	0
+bwrdd	board	0	0	1	1	1
+meddu	have	0	0	1	0	1
+children	childrens	0	0	1	0	0
+emily	emily	0	0	1	0	0
+englynion	stanzas	0	0	1	0	0
+pennaf	main	0	0	1	0	1
+gant	hundred	0	0	1	0	0
+pennau	heads	0	0	1	0	0
+rwanda	rwanda	0	0	1	0	0
+pennar	pennar	0	0	1	0	0
+nythu	nest	0	0	1	1	1
+mandela	mandela	0	0	1	0	0
+cylch	cycle	0	0	1	0	1
+rhith	virtual	0	0	1	0	1
+chreigiau	rocks	0	0	1	0	0
+traed	feet	0	0	1	0	1
+billie	billie	0	0	1	0	0
+fali	valley	0	0	1	0	0
+fall	belial	0	0	1	0	0
+px|gwyddoniaeth	px science	0	0	1	0	0
+ymadawiad	departure	0	0	1	1	1
+swyddogaeth	function	0	0	1	0	1
+celebrity	celebrity	0	0	1	0	0
+hyn	this	0	0	1	0	0
+dún	tin	0	0	1	0	0
+bangor	bangor	0	0	1	0	0
+saudi	saudi	0	0	1	0	0
+blaenllaw	leading	0	0	1	0	1
+canoloesol	medieval	0	0	1	0	0
+delyn	harp	0	0	1	0	0
+ddwyieithog	bilingual	0	0	1	0	0
+onychoprion	onychoprion	0	0	1	0	0
+constantius	constantius	0	0	1	0	0
+titles	titles	0	0	1	0	0
+nivalis	nivalis	0	0	1	0	0
+cryfach	stronger	0	0	1	0	0
+dywysoges	princess	0	0	1	0	0
+almaeneg	german	0	0	1	0	1
+croth	womb	0	0	1	1	1
+ives	ives	0	0	1	0	0
+iddyn	they	0	0	1	0	0
+destament	testament	0	0	1	0	0
+lleiafrifoedd	minority	0	0	1	0	0
+gatalaneg	catalan	0	0	1	0	0
+ddigonol	adequate	0	0	1	0	0
+public	cyhoedd	0	0	1	0	0
+dorchog	coiled	0	0	1	0	0
+brønsted	bronsted	0	0	1	0	0
+categorigrwpiau	categorigrwpiau	0	0	1	0	0
+categorigrwpiau	category groups	0	0	1	0	0
+darogan	predict	0	0	1	1	1
+compilation	compilation	0	0	1	0	0
+compilation	comilation	0	0	1	0	0
+meintiau	sizes	0	0	1	0	0
+lenyddol	literary	0	0	1	0	0
+caethwasiaeth	slavery	0	0	1	1	1
+bened	benedict	0	0	1	0	0
+platinwm	platinum	0	0	1	0	0
+platinwm	platinwn	0	0	1	0	0
+baron	baron	0	0	1	0	0
+publisher	publisher	0	0	1	0	0
+gadawodd	gadawood	0	0	1	0	0
+gadawodd	left	0	0	1	0	0
+nghaernarfon	caernarfon	0	0	1	0	0
+caradoc	caradoc	0	0	1	0	0
+lledr	leather	0	0	1	1	1
+heffeithio	affected	0	0	1	0	0
+ddafad	sheep	0	0	1	0	0
+agatha	agatha	0	0	1	0	0
+fwy	more	0	0	1	0	0
+published	published	0	0	1	0	0
+atgofion	memories	0	0	1	0	0
+effeithiol	effective	0	0	1	1	1
+fron	breast	0	0	1	0	0
+botwm	button	0	0	1	1	1
+africa	africa	0	0	1	0	0
+rhyngweithio	interaction	0	0	1	0	0
+ddringwyr	climbers	0	0	1	0	0
+capeli	chapels	0	0	1	0	0
+categoridiodydd	categoridiodydd	0	0	1	0	0
+twf	growth	0	0	1	0	0
+ysgrifen	writing	0	0	1	1	1
+lydaweg	breton	0	0	1	0	0
+resbiradaeth	respiration	0	0	1	0	0
+two	two	0	0	1	0	0
+dathlu	celebrate	0	0	1	1	1
+twm	tom	0	0	1	1	1
+isdeulu	isdeulu	0	0	1	0	0
+isdeulu	lower family	0	0	1	0	0
+isdeulu	sub- family	0	0	1	0	0
+gadarn	sound	0	0	1	0	0
+torri	cut	0	0	1	1	1
+blodyn	flower	0	0	1	1	1
+gamlas	canal	0	0	1	0	0
+mozilla	mozilla	0	0	1	0	0
+leonard	leonard	0	0	1	0	0
+priodoleddau	attributes	0	0	1	0	0
+canol	middle	0	0	1	1	1
+suite	suite	0	0	1	0	0
+gwelliant	improvement	0	0	1	1	1
+dŵr	water	0	0	1	0	0
+haddoli	worship	0	0	1	0	0
+town	town	0	0	1	0	0
+none	none	0	0	1	0	0
+include	the include	0	0	1	0	0
+marmara	marmara	0	0	1	0	0
+der	der	0	0	1	0	0
+des	des	0	0	1	0	0
+tuag	approach	0	0	1	0	0
+roosevelt	roosevelt	0	0	1	0	0
+noeth	naked	0	0	1	1	1
+del	del	0	0	1	0	1
+categorillenorion	categorillenorion	0	0	1	0	0
+den	den	0	0	1	0	0
+tuar	the promised	0	0	1	0	0
+tibetiaid	tibetans	0	0	1	0	0
+deg	ten	0	0	1	1	1
+newidiad	amendment	0	0	1	0	0
+unben	dictator	0	0	1	0	1
+chaniateir	allowed	0	0	1	0	0
+maesdrefi	suburbs	0	0	1	0	0
+alltudio	deportation	0	0	1	0	1
+gravell	gravell	0	0	1	0	0
+protein	protein	0	0	1	0	0
+arnynt	they	0	0	1	0	0
+wyrdd	green	0	0	1	0	0
+byrion	short	0	0	1	0	0
+rym	force	0	0	1	0	0
+heriau	challenges	0	0	1	0	0
+dydy	it is	0	0	1	0	0
+emiradau	emirates	0	0	1	0	0
+dydd	day	0	0	1	1	1
+dydd	dydb	0	0	1	0	1
+oeraf	coldest	0	0	1	0	0
+oeraf	the coldest	0	0	1	0	0
+ryw	some	0	0	1	0	0
+dydi	does	0	0	1	0	0
+ensemble	ensemble	0	0	1	0	0
+syrthio	fall	0	0	1	1	1
+phoblogaeth	population	0	0	1	0	0
+melys	sweet	0	0	1	1	1
+teils	tile	0	0	1	0	0
+wyth	eight	0	0	1	1	1
+tywysog	prince	0	0	1	1	1
+âi	or	0	0	1	0	0
+dogfennau	documents	0	0	1	0	0
+wael	poor	0	0	1	0	0
+cyfundrefn	system	0	0	1	1	1
+glogwyn	cliff	0	0	1	0	0
+cyfansoddiad	composition	0	0	1	1	1
+glicio	click	0	0	1	0	0
+melyn	yellow	0	0	1	1	1
+seiont	seiont	0	0	1	0	0
+wiciaid	wiccans	0	0	1	0	0
+cyngheiriaid	cyngheiriaid	0	0	1	0	0
+âu	s	0	0	1	0	0
+âu	s or and	0	0	1	0	0
+gristion	christian	0	0	1	0	0
+troin	fatal	0	0	1	0	0
+years	years	0	0	1	0	0
+dechreuadau	beginnings	0	0	1	0	0
+amrywiaethau	variations	0	0	1	0	0
+romáwns	romance	0	0	1	0	0
+ddywedodd	said	0	0	1	0	0
+cyffuriau	drugs	0	0	1	0	0
+hypertext	hypertext	0	0	1	0	0
+hypertext	hypertex	0	0	1	0	0
+azerbaijan	azerbaijan	0	0	1	0	0
+through	through	0	0	1	0	0
+mudiant	motion	0	0	1	0	0
+arian	money	0	0	1	1	1
+ieithoedd	languages	0	0	1	0	1
+newyn	hunger	0	0	1	1	1
+diweddodd	ended	0	0	1	0	0
+andaman	andaman	0	0	1	0	0
+cofio	remember	0	0	1	1	1
+ddrwg	shall bear	0	0	1	0	0
+ddrwg	bad	0	0	1	0	0
+datganodd	declared	0	0	1	0	0
+fanylion	details	0	0	1	0	0
+ciwb	cube	0	0	1	1	1
+zygotic	zygotic	0	0	1	0	0
+hadeiladu	built	0	0	1	0	0
+achosi	cause	0	0	1	1	1
+frenhiniaeth	monarchy	0	0	1	0	0
+oxford	oxford	0	0	1	0	0
+association	association	0	0	1	0	0
+mystery	mystery	0	0	1	0	0
+rhyl	rhyl	0	0	1	0	0
+porth	portal	0	0	1	0	1
+ludwig	ludwig	0	0	1	0	0
+busnes	business	0	0	1	1	1
+troellwyr	dj	0	0	1	0	0
+basgeg	basque	0	0	1	0	0
+eleanor	eleanor	0	0	1	0	0
+namibia	namibia	0	0	1	0	0
+rhoir	given	0	0	1	0	0
+mynychu	attend	0	0	1	1	1
+honiad	allegation	0	0	1	1	1
+rhyw	some	0	0	1	1	1
+rhys	yhs	0	0	1	0	1
+rhys	rhys	0	0	1	0	1
+pwyllgor	committee	0	0	1	1	1
+categorinofelwyr	categorinofelwyr	0	0	1	0	0
+house	house	0	0	1	0	0
+hare	hare	0	0	1	0	0
+hard	hard	0	0	1	0	0
+economaidd	economic	0	0	1	1	1
+llanelwy	st asaph	0	0	1	0	1
+ryan	ryan	0	0	1	0	0
+vespasian	vespasian	0	0	1	0	0
+ganed	born	0	0	1	0	0
+deall	undersatand	0	0	1	0	1
+deall	understand	0	0	1	1	1
+ystlum	bat	0	0	1	1	1
+esperanto	esperanto	0	0	1	0	0
+efrog	york	0	0	1	1	1
+perry	perry	0	0	1	0	0
+quincy	quincy	0	0	1	0	0
+cario	carrying	0	0	1	0	1
+singapore	singapore	0	0	1	0	0
+rhoddwyd	was	0	0	1	0	0
+divoire	ivoire	0	0	1	0	0
+cyfieithiad	translation	0	0	1	1	1
+trosglwydydd	trosglwydydd	0	0	1	0	0
+criafolen	rowan	1	0	1	0	1
+criafolen	crifolen	1	0	1	0	1
+criafolen	sorbus	1	1	0	0	1
+criafolen	french	1	0	1	0	1
+datblygol	developing	0	0	1	0	0
+rhamant	romance	0	0	1	1	1
+gŵyl	festival	0	0	1	0	0
+amrywiol	various	0	0	1	0	1
+amrywion	varieties	0	0	1	1	1
+lawrence	lawrence	0	0	1	0	0
+dafis	dafis	0	0	1	0	0
+lechweddau	slopes	0	0	1	0	0
+ddiddordeb	interest	0	0	1	0	0
+mikhail	mikhail	0	0	1	0	0
+cryfaf	strongest	0	0	1	0	0
+nghanolfan	center	0	0	1	0	0
+antioch	antioch	0	0	1	0	0
+trosglwyddo	transfer	0	0	1	1	1
+bethan	bethan	0	0	1	0	0
+gŵyr	wax	0	0	1	0	0
+gelyn	enemy	0	0	1	1	1
+gwennol	shuttle	0	0	1	1	1
+ffactor	factor	0	0	1	1	1
+hithau	she	0	0	1	0	1
+golli	loss	0	0	1	0	0
+cynhesaf	warmest	0	0	1	0	0
+credai	thought	0	0	1	0	0
+gardner	gardner	0	0	1	0	0
+cynhyrchiad	production	0	0	1	0	0
+dirywiodd	declined	0	0	1	0	0
+ysgrifennwyd	written	0	0	1	0	0
+ruficollis	ruficollis	0	0	1	0	0
+dont	do not	0	0	1	0	0
+diflanedig	extinct	0	0	1	0	1
+ailadeiladwyd	reconstructed	0	0	1	0	0
+cyfieithad	translation	0	0	1	0	0
+dylid	be	0	0	1	0	0
+sbaen	spain	0	0	1	1	1
+creadigol	creative	0	0	1	1	1
+bicini	bikini	0	0	1	0	0
+donn	donn	0	0	1	0	0
+teyrngarwch	loyalty	0	0	1	0	0
+teyrngarwch	terngarwch	0	0	1	0	0
+least	least	0	0	1	0	0
+hafana	havana	0	0	1	0	0
+llwybrau	routes	0	0	1	0	0
+llwybrau	glasses	0	0	1	0	0
+mosambic	mozambique	0	0	1	0	0
+wahân	apart	0	0	1	0	0
+wahân	separate	0	0	1	0	0
+parc	park	0	0	1	1	1
+para	last	0	0	1	0	1
+costa	costa	0	0	1	0	0
+cyfrolau	volumes	0	0	1	0	0
+park	park	0	0	1	0	0
+ddur	steel	0	0	1	0	0
+gaerfyrddin	carmarthenshire	0	0	1	0	0
+part	part	0	0	1	0	0
+materol	material	0	0	1	1	1
+believe	believe	0	0	1	0	0
+moeseg	ethics	0	0	1	1	1
+chwarren	gland	0	0	1	1	1
+b	b	0	0	1	0	0
+limosa	limosa	0	0	1	0	0
+allobroges	allobroges	0	0	1	0	0
+mynach	monk	0	0	1	1	1
+ddylanwadol	influential	0	0	1	0	0
+markup	markup	0	0	1	0	0
+emlyn	emlyn	0	0	1	0	0
+bedair	four	0	0	1	0	0
+ager	steam	0	0	1	1	1
+safleoedd	sites	0	0	1	0	0
+adran	section	0	0	1	1	1
+tactegau	tactics	0	0	1	0	0
+mountain	mountain	0	0	1	0	0
+gario	carry	0	0	1	0	0
+israelaidd	israeli	0	0	1	0	0
+cloddir	extracted	0	0	1	0	0
+gorbachev	gorbachev	0	0	1	0	0
+daearyddiaeth	geography	0	0	1	1	1
+drwydded	licence	0	0	1	0	0
+drwydded	license	0	0	1	0	0
+caesar	caesar	0	0	1	0	0
+briodolir	attributes	0	0	1	0	0
+briodolir	attributable	0	0	1	0	0
+province	province	0	0	1	0	0
+mosg	mosque	0	0	1	0	0
+effaith	impact	0	0	1	0	1
+gopr	copper	0	0	1	0	0
+pêldroedwr	football player	0	0	1	0	0
+pêldroedwr	peldroedwr	0	0	1	0	0
+cydweithredol	collaborative	0	0	1	0	0
+gwrthydd	resistor	0	0	1	0	0
+motacilla	motacilla	0	0	1	0	0
+llandudno	llandudno	0	0	1	0	0
+mwynwyr	miners	0	0	1	0	0
+fedi	harvested	0	0	1	0	0
+ystyria	considers	0	0	1	0	0
+aderyndrycin	manx	0	0	1	0	0
+aderyndrycin	aderyndrycin	0	0	1	0	0
+aderyndrycin	storm-bird	0	0	1	0	0
+ngwledydd	countries	0	0	1	0	0
+gopa	summit	0	0	1	0	0
+ceffyl	horse	0	0	1	1	1
+ka	k	0	0	1	0	0
+kg	kg	0	0	1	0	0
+meini	criteria	0	0	1	0	1
+nadolig	christmas	0	0	1	1	1
+feddiannu	occupied	0	0	1	0	0
+cymhlethdod	complexity	0	0	1	1	1
+km	km	0	0	1	0	0
+bhagavad	bhagavad	0	0	1	0	0
+liechtenstein	liechtenstein	0	0	1	0	0
+kw	kw	0	0	1	0	0
+pennant	pennant	0	0	1	0	0
+lywelyn	llywelyn	0	0	1	0	0
+sector	sector	0	0	1	0	0
+datblygedig	advanced	0	0	1	0	0
+thomas	thomas	0	0	1	0	0
+milwyr	soldiers	0	0	1	0	0
+milwyr	akiruno	0	0	1	0	0
+sparrow	sparrow	0	0	1	0	0
+cliath	cliath	0	0	1	0	0
+cerrig	stone	0	0	1	0	1
+perchen	owner	0	0	1	1	1
+pratchett	pratchett	0	0	1	0	0
+hwyluso	facilitate	0	0	1	1	1
+germanaidd	germanic	0	0	1	0	0
+daduno	dissociates	0	0	1	0	0
+ceidwadol	conservation	0	0	1	0	1
+ceidwadol	conservative	0	0	1	1	1
+prego	brego	0	0	1	0	0
+permission	permission	0	0	1	0	0
+celyn	holly	0	0	1	0	0
+cofnod	record	0	0	1	0	1
+meic	mike	0	0	1	0	0
+cymanwlad	commonwealth	0	0	1	1	1
+graffeg	graphics	0	0	1	0	0
+blaenwyr	forwards	0	0	1	0	0
+perthynol	related	0	0	1	0	1
+llwyddianus	successful	0	0	1	0	0
+ngwaelod	bottom	0	0	1	0	0
+ŵy	egg	1	1	0	0	0
+elfennol	elementary	0	0	1	1	1
+garfan	cohort	0	0	1	0	0
+chwedloniaeth	mythology	0	0	1	1	1
+hwnnwn	logs	0	0	1	0	0
+rowndiau	rounds	0	0	1	0	0
+common	common	0	0	1	0	0
+witches	witches	0	0	1	0	0
+coegylfinir	whimbrel	0	0	1	0	0
+lion	grammes	0	0	1	0	0
+collasant	shed	0	0	1	0	0
+lisbon	lisbon	0	0	1	0	0
+cânt	percent	0	0	1	0	0
+tringa	tringa	0	0	1	0	0
+pennod	chapter	0	0	1	1	1
+perfformiadau	performances	0	0	1	0	0
+darparu	provide	0	0	1	1	1
+glynne	glynne	0	0	1	0	0
+mecanyddol	mechanical	0	0	1	0	0
+ysgafnach	lighter	0	0	1	0	0
+ysgafnach	light...	0	0	1	0	0
+gwan	weak	0	0	1	1	1
+stewarthannah	stewart hannah	0	0	1	0	0
+stewarthannah	stewar thannah	0	0	1	0	0
+ynysfor	archipelago	0	0	1	1	1
+brythoneg	brythonic	0	0	1	1	1
+sbwriel	litter	0	0	1	0	0
+brynu	buy	0	0	1	0	0
+ddigwyddodd	happened	0	0	1	0	0
+broughton	broughton	0	0	1	0	0
+afal	apple	0	0	1	1	1
+dôn	wave	0	0	1	0	0
+triawd	trio	0	0	1	1	1
+mathias	mathias	0	0	1	0	0
+bencadlys	headquarters	0	0	1	0	0
+cyferbyniaeth	contrast	0	0	1	0	0
+cyfatebol	equivalent	0	0	1	0	1
+sefydlwyd	established	0	0	1	0	0
+cymhedrol	moderate	0	0	1	0	0
+heddwch	peace	0	0	1	1	1
+simple	simple	0	0	1	0	0
+storio	storage	0	0	1	0	0
+cadarn	sound	0	0	1	0	1
+cadarn	madam	0	0	1	0	1
+dances	dances	0	0	1	0	0
+tennessee	tennessee	0	0	1	0	0
+meddylfryd	thinking	0	0	1	0	1
+braşov	brasov	0	0	1	0	0
+gysgu	sleep	0	0	1	0	0
+slater	slater	0	0	1	0	0
+ceg	mouth	0	0	1	1	1
+px|de|gwledydd	px | de | countries	0	0	1	0	0
+px|de|gwledydd	px south countries	0	0	1	0	0
+cefnfor	ocean	0	0	1	1	1
+rasio	racing	0	0	1	0	0
+gwyddbwyll	sixth	1	0	1	0	1
+gwyddbwyll	chess	1	1	1	1	1
+sgôr	score	0	0	1	0	0
+aeddfed	mature	0	0	1	1	1
+bywyd	life	1	1	1	1	1
+bywyd	aslam	1	0	1	0	1
+ireland	irland	0	0	1	0	0
+ireland	ireland	0	0	1	0	0
+laos	laos	0	0	1	0	0
+peppers	peppers	0	0	1	0	0
+naturiol	natural	0	0	1	1	1
+lafur	labor	0	0	1	0	0
+blynedd	years	0	0	1	1	1
+anelwyd	aimed	0	0	1	0	0
+gay	gay	0	0	1	0	0
+gau	closed	0	0	1	0	1
+gas	nasty	0	0	1	0	0
+hydroclorig	hydrochloric	0	0	1	0	0
+gynnwys	including	0	0	1	0	0
+gan	by	0	0	1	1	1
+gam	step	0	0	1	0	0
+gal	gal	0	0	1	0	0
+gae	field	0	0	1	0	0
+gad	game	0	0	1	0	0
+lleihawyd	reduced	0	0	1	0	0
+fur	wall	0	0	1	0	0
+metro	metro	0	0	1	0	0
+atatürk	ataturk	0	0	1	0	0
+gynnar	early	0	0	1	0	0
+gynnar	gynnar	0	0	1	0	0
+solid	solid	0	0	1	0	0
+bill	bill	0	0	1	0	0
+rhwydwaith	network	0	0	1	1	1
+rwmaneg	romanian	0	0	1	0	0
+gynnal	maintain	0	0	1	0	0
+torrwyd	cut	0	0	1	0	0
+cleopatra	cleopatra	0	0	1	0	0
+employment	employment	0	0	1	0	0
+dueddol	tend to	0	0	1	0	0
+salvador	salvador	0	0	1	0	0
+sbaenaidd	spanish	0	0	1	0	0
+hawlio	claim	0	0	1	1	1
+hawlio	welshmen	0	0	1	0	1
+hawlio	to claim	0	0	1	0	1
+chwiliedyddion	probes	0	0	1	0	0
+wladfa	colony	0	0	1	0	0
+roegaidd	grecian	0	0	1	0	0
+anodd	difficult	0	0	1	1	1
+ffederal	federal	0	0	1	1	1
+llanw	tide	0	0	1	1	1
+ddiwydiant	industry	0	0	1	0	0
+meddiant	possession	0	0	1	1	1
+meddianu	occupied	0	0	1	0	0
+passeriformes	passeriformes	0	0	1	0	0
+gerallt	gerald	0	0	1	0	0
+categorillywodraeth	categorillywodraeth	0	0	1	0	0
+categorillywodraeth	category: government	0	0	1	0	0
+galapagos	galapagos	0	0	1	0	0
+butcher	butcher	0	0	1	0	0
+botswana	botswana	0	0	1	0	0
+copying	copying	0	0	1	0	0
+loxodonta	loxodonta	0	0	1	0	0
+ffosfforws	phosphorus	0	0	1	0	0
+ruth	ruth	0	0	1	0	0
+sapiens	sapiens	0	0	1	0	0
+guba	guba	0	0	1	0	0
+golygfeydd	gloygfeydd	0	0	1	0	0
+golygfeydd	views	0	0	1	0	0
+syn	who	0	0	1	0	1
+syr	sir	0	0	1	1	1
+signalau	signals	0	0	1	0	0
+ddosbarth	class	0	0	1	0	0
+ddatblygodd	developed	0	0	1	0	0
+ddatblygodd	matured	0	0	1	0	0
+gyfleus	convenient	0	0	1	0	0
+gorchuddiwyd	covered	0	0	1	0	0
+doreen	doreen	0	0	1	0	0
+gwaed	blood	0	0	1	1	1
+grib	grip	0	0	1	0	0
+grib	ridge	0	0	1	0	0
+criced	cricket	0	0	1	1	1
+gogledd	north	0	0	1	0	1
+animeiddiedig	animated	0	0	1	0	0
+rywogaeth	species	0	0	1	0	0
+y	the	0	0	1	0	0
+gwningen	rabbit	0	0	1	0	0
+categorimisoedd	categorimisoedd	0	0	1	0	0
+hastings	hastings	0	0	1	0	0
+ymddiswyddiad	resignation	0	0	1	0	0
+celtaidd	celtic	0	0	1	0	0
+atomig	atomic	0	0	1	1	1
+world	world	0	0	1	0	0
+meddwl	think	0	0	1	1	1
+matterhorn	matterhorn	0	0	1	0	0
+wib	sprint	0	0	1	0	0
+sparta	sparta	0	0	1	0	0
+biwmares	beaumaris	0	0	1	0	0
+teigrod	tigers	0	0	1	0	0
+cul	narrow	0	0	1	1	1
+parchedig	reverend	0	0	1	1	1
+drafodaethau	discussions	0	0	1	0	0
+ddyn	man	0	0	1	0	0
+goelcerth	bonfire	0	0	1	0	0
+araith	speech	0	0	1	1	1
+petroliwm	petroleum	0	0	1	0	0
+fraith	spotted	0	0	1	0	0
+ambrose	ambrose	0	0	1	0	0
+caergaint	canterbury	0	0	1	1	1
+sedd	seat	0	0	1	1	1
+eisoes	already	0	0	1	1	1
+feinwe	tissue	0	0	1	0	0
+cerbydau	vehicles	0	0	1	0	0
+ymerodr	ymerodr	0	0	1	0	0
+hindwiaid	hindus	0	0	1	0	0
+ddrud	expensive	0	0	1	0	0
+google	google	0	0	1	0	0
+addolir	worshiped	0	0	1	0	0
+dawes	dawes	0	0	1	0	0
+duck	duck	0	0	1	0	0
+back	back	0	0	1	0	0
+bach	small	0	0	1	1	1
+penderfynodd	decided	0	0	1	0	0
+dawel	quiet	0	0	1	0	0
+trafnidiaeth	transport	0	0	1	0	1
+destun	subject	0	0	1	0	0
+nicaragua	nicaragua	0	0	1	0	0
+gwpan	cup	0	0	1	0	0
+gydol	all	0	0	1	0	0
+scala	scala	0	0	1	0	0
+bwys	major	0	0	1	0	0
+bwys	power	0	0	1	0	0
+pell	remote	0	0	1	1	1
+pen	head	0	0	1	1	1
+epil	epil	0	0	1	0	1
+epil	offspring	0	0	1	1	1
+lark	lark	0	0	1	0	0
+amgylchiadau	circumstances	0	0	1	0	0
+bwyd	food	1	1	1	1	1
+bwyd	food``	1	0	1	0	1
+bwyd	wtd	1	0	1	0	1
+bwyd	bywd	1	0	1	0	1
+bwyd	change	1	0	1	0	1
+km²	km2	0	0	1	0	0
+oes	no	0	0	1	0	1
+oer	cold	0	0	1	1	1
+use	not use	0	0	1	0	0
+use	use	0	0	1	0	0
+ngweriniaeth	republic	0	0	1	0	0
+feibion	sons	0	0	1	0	0
+oen	lamb	0	0	1	1	1
+drydydd	third	0	0	1	0	0
+gymysg	mixed	0	0	1	0	0
+libanus	lebanon	0	0	1	1	1
+goody	goody	0	0	1	0	0
+bysiau	bus	0	0	1	0	0
+atmosfferig	atmospheric	0	0	1	0	0
+britannica	britannica	0	0	1	0	0
+epaod	apes	0	0	1	0	0
+ciwba	cuba	0	0	1	0	0
+bwlgaria	bulgaria	0	0	1	1	1
+pilen	membrane	0	0	1	1	1
+llawysgrifau	manuscripts	0	0	1	0	0
+jimmy	jimmy	0	0	1	0	0
+gwneud	do	0	0	1	1	1
+grammy	grammy	0	0	1	0	0
+nso	nso	0	0	1	0	0
+gancr	cancer	0	0	1	0	0
+llinach	lineage	0	0	1	1	1
+diwali	diwali	0	0	1	0	0
+categorihamdden	categorihamdden	0	0	1	0	0
+anfetelau	non-metals	0	0	1	0	0
+bachgen	boy	0	0	1	1	1
+steven	steven	0	0	1	0	0
+anghydfod	dispute	0	0	1	0	1
+rhywogaeth	species	0	0	1	1	1
+neorllewin	south west	0	0	1	0	0
+pris	price	0	0	1	1	1
+mccartney	mccartney	0	0	1	0	0
+handbook	handbook	0	0	1	0	0
+dimensiwn	dimension	0	0	1	1	1
+bymthegfed	fifteenth	0	0	1	0	0
+tacsonomeg	taxonomy	0	0	1	0	0
+robusta	robusta	0	0	1	0	0
+categoriamser	categoriamser	0	0	1	0	0
+puffinus	puffinus	0	0	1	0	0
+ymadrodd	phrase	0	0	1	0	1
+utcutc	utcutc	0	0	1	0	0
+byrne	byrne	0	0	1	0	0
+cathod	cats	0	0	1	0	1
+clive	clive	0	0	1	0	0
+córdoba	cordaba	0	0	1	0	0
+córdoba	cordoba	0	0	1	0	0
+sillafu	spelling	0	0	1	0	1
+planed	planet	0	0	1	1	1
+ymgynghorol	advisory	0	0	1	0	0
+eithaf	quite	0	0	1	1	1
+subprefecture	subprefecture	0	0	1	0	0
+adain	wing	0	0	1	1	1
+aruthrol	tremendous	0	0	1	0	1
+newyddion	news	0	0	1	0	0
+tipyn	some	0	0	1	0	1
+rhwydweithiau	networks	0	0	1	0	0
+portiwgaleg	portuguese	0	0	1	0	0
+gefnogaeth	support	0	0	1	0	0
+lys	court	0	0	1	0	0
+herzegovina	herzegovina	0	0	1	0	0
+leon	leon	0	0	1	0	0
+fynedfa	entrance	0	0	1	0	0
+single	single	0	0	1	0	0
+deunaw	eighteen	0	0	1	1	1
+gweledigaeth	vision	0	0	1	1	1
+phylloscopus	phylloscopus	0	0	1	0	0
+lyn	lake	0	0	1	0	0
+racial	racial	0	0	1	0	0
+allmusic	allmusic	0	0	1	0	0
+trawsfynydd	trawsfynydd	0	0	1	0	0
+israeliaid	israelis	0	0	1	0	0
+paill	pollen	0	0	1	1	1
+streic	strike	0	0	1	0	0
+streic	steric	0	0	1	0	0
+ellen	ellen	0	0	1	0	0
+adlonni	entertain	0	0	1	1	1
+anser	anser	0	0	1	0	0
+allyrru	emission	0	0	1	0	0
+phrydain	britain	0	0	1	0	0
+isffylwm	sub-phylum	0	0	1	0	0
+isffylwm	isffylwm	0	0	1	0	0
+roeg	greece	0	0	1	0	0
+iseldiroedd	lowlands	0	0	1	0	0
+ymdrechion	efforts	0	0	1	0	0
+sbaeneg	spanish	0	0	1	0	0
+ledred	latitude	0	0	1	0	0
+rhyngddi	between	0	0	1	0	0
+fisher	fisher	0	0	1	0	0
+song	song	0	0	1	0	0
+ellir	can	0	0	1	0	0
+maldives	maldives	0	0	1	0	0
+ofni	fear	0	0	1	1	1
+drychinebus	disastrous	0	0	1	0	0
+cawcasws	caucasus	0	0	1	0	0
+argrafflenni	broadsheet	0	0	1	0	0
+hydref	autumn	0	0	1	1	1
+socrates	socrates	0	0	1	0	0
+cadarnhaodd	confirmed	0	0	1	0	0
+wicaid	wicaid	0	0	1	0	0
+cyflwyno	submitted	0	0	1	0	1
+walonia	wallonia	0	0	1	0	0
+gorffennodd	finished	0	0	1	0	0
+medrus	skilled	0	0	1	0	1
+ddu	right	0	0	1	0	0
+ddu	black	0	0	1	0	0
+eistedd	sit	0	0	1	1	1
+phensaernïaeth	architecture	0	0	1	0	0
+gwrthodwyd	rejected	0	0	1	0	0
+ewropeaid	europeans	0	0	1	0	0
+penddu	blackcaps	0	0	1	0	0
+penddu	blackcap	0	0	1	0	0
+helpu	help	0	0	1	1	1
+cerddoriaeth	music	0	0	1	1	1
+blaned	planet	0	0	1	0	0
+atlas	atlas	0	0	1	1	1
+atlas	tlas	0	0	1	0	1
+aflonyddwch	disturbance	0	0	1	1	1
+cornelia	cornelia	0	0	1	0	0
+anwedd	tort	0	0	1	0	1
+anwedd	vapor	0	0	1	1	1
+herwydd	therefore	0	0	1	0	1
+phobl	people	0	0	1	0	0
+ankara	ankara	0	0	1	0	0
+us$	us $	0	0	1	0	0
+amhendant	inconclusive	0	0	1	0	1
+unffurf	unffurt	0	0	1	0	1
+unffurf	uniform	0	0	1	1	1
+clement	clement	0	0	1	0	0
+hierarchaeth	hierarchy	0	0	1	0	0
+cydnabod	recognize	0	0	1	0	1
+lwythau	tribes	0	0	1	0	0
+atmosffer	atmosphere	0	0	1	0	0
+difrifol	serious	0	0	1	1	1
+gyfoes	contemporary	0	0	1	0	0
+perdix	perdix	0	0	1	0	0
+tynnodd	drew	0	0	1	0	0
+ysgolion	schools	0	0	1	0	0
+twrcaidd	turkish	0	0	1	0	0
+warszawa	warszawa	0	0	1	0	0
+caiff	a	0	0	1	0	0
+caiff	caiff	0	0	1	0	0
+wahaniaeth	difference	0	0	1	0	0
+joey	joey	0	0	1	0	0
+gweithiau	works	0	0	1	0	1
+welwyd	seen	0	0	1	0	0
+murat	murat	0	0	1	0	0
+tectoneg	tectonics	0	0	1	0	0
+libia	libya	0	0	1	0	0
+carlo	carlo	0	0	1	0	0
+cyfeillgarwch	friendship	0	0	1	1	1
+crefyddau	religions	0	0	1	0	0
+aelodau	members	0	0	1	0	0
+chicago	chicago	0	0	1	0	0
+anthem	anthem	0	0	1	1	1
+cordillera	cordillera	0	0	1	0	0
+cyhyrau	muscle	0	0	1	0	0
+gwlad	country	0	0	1	1	1
+penododd	appointed	0	0	1	0	0
+sinn	sinn	0	0	1	0	0
+boda	boda	0	0	1	0	1
+boda	hen	0	0	1	0	1
+mewn	in	0	0	1	1	1
+safbwyntiau	views	0	0	1	0	0
+sinc	zinc	0	0	1	0	1
+darlledwr	broadcaster	0	0	1	0	0
+benywod	females	0	0	1	0	0
+ddylanwadau	influences	0	0	1	0	0
+afael	address	0	0	1	0	0
+inkatha	inkatha	0	0	1	0	0
+alaska	alaska	0	0	1	0	0
+ceri	ceri	0	0	1	0	0
+llychlynaidd	norse	0	0	1	0	0
+telesgop	telescope	0	0	1	0	0
+ocsigen	oxygen	0	0	1	0	0
+ngogledd	north	0	0	1	0	0
+tudalen	page	0	0	1	1	1
+swnion	noise...	0	0	1	0	0
+swnion	sound the same?	0	0	1	0	0
+wefan	website	0	0	1	0	0
+llanbadarn	llanbadarn	0	0	1	0	0
+kenny	kenny	0	0	1	0	0
+gweithredol	operational	0	0	1	0	1
+rieni	parents	0	0	1	0	0
+carduelis	carduelis	0	0	1	0	0
+berwbwynt	boiling point	0	0	1	0	0
+triliwn	trillion	0	0	1	0	0
+asidig	acidic	0	0	1	1	1
+chi	you	0	0	1	1	1
+ninas	city	0	0	1	0	0
+nobel	nobel	0	0	1	0	0
+symbolau	symbols	0	0	1	0	0
+butler	butler	0	0	1	0	0
+cyfrifiadureg	computing	0	0	1	0	1
+atynt	them	0	0	1	0	0
+arweiniol	lead	0	0	1	0	1
+llwyddodd	succeeded	0	0	1	0	0
+phryd	when	0	0	1	0	0
+bodolaeth	existence	0	0	1	1	1
+atyniadau	attractions	0	0	1	0	0
+dinistriwyd	destroyed	0	0	1	0	0
+frawddeg	sentence	0	0	1	0	0
+basalt	basalt	0	0	1	0	0
+trais	violence	0	0	1	1	1
+teulu	family	0	0	1	1	1
+iii	iii	0	0	1	0	0
+had	seed	0	0	1	1	1
+awstralasia	australasia	0	0	1	0	0
+nhadau	fathers	0	0	1	0	0
+gwylio	watch	0	0	1	1	1
+gabriel	gabriel	0	0	1	0	0
+theorïau	's theory	0	0	1	0	0
+theorïau	theories	0	0	1	0	0
+gwasanaethu	serve	0	0	1	1	1
+vulpes	vulpes	0	0	1	0	0
+mesopotamia	mesopotamia	0	0	1	0	0
+brenhines	queen	0	0	1	1	1
+didnt	did not	0	0	1	0	0
+tsieinëeg	tsieinè̀eg	0	0	1	0	0
+tsieinëeg	tsienieeg	0	0	1	0	0
+brenhinllin	dynasty	0	0	1	0	0
+ddisgynyddion	descendants	0	0	1	0	0
+trofannol	tropical	0	0	1	1	1
+fictorianaidd	victorian	0	0	1	0	0
+iwgoslafaidd	yugoslav	0	0	1	0	0
+tebygol	likely	0	0	1	1	1
+golygu	means	0	0	1	0	1
+trefnodd	organized	0	0	1	0	0
+bennaf	mainly	0	0	1	0	0
+bawd|chwith|px|arfbais	thumb / left / px / arms	0	0	1	0	0
+bawd|chwith|px|arfbais	thumb | left | px | coat of arms	0	0	1	0	0
+lamp	lamp	0	0	1	1	1
+rhufeiniad	romans	0	0	1	0	1
+unigryw	unique	0	0	1	0	1
+afu	liver	1	1	1	1	1
+afu	accept	1	0	1	0	1
+afu	agree	1	0	1	0	1
+ddychwelyd	return	0	0	1	0	0
+frad	betrayal	0	0	1	0	0
+diweithdra	unemployment	0	0	1	0	0
+beicio	cycling	0	0	1	0	0
+waters	waters	0	0	1	0	0
+llwyr	completely	0	0	1	0	1
+allanol	external	0	0	1	1	1
+dychwelodd	returned	0	0	1	0	0
+asennau	ribs	0	0	1	0	0
+fras	roughly	0	0	1	0	0
+lawnsio	launch	0	0	1	0	0
+aifft	egypt	0	0	1	0	0
+llwyd	gray	0	0	1	0	1
+llwyd	iirwyr	0	0	1	0	1
+dominica	dominica	0	0	1	0	0
+aniston	aniston	0	0	1	0	0
+awdl	ode	0	0	1	1	1
+heddlu	police	0	0	1	1	1
+ysgarodd	divorced	0	0	1	0	0
+efydd	bronze	0	0	1	1	1
+flaenorol	previous	0	0	1	0	0
+lleihaur	reduce the	0	0	1	0	0
+amazon	amazon	0	0	1	0	0
+cyflymu	acceleration	0	0	1	0	1
+drych	mirror	0	0	1	1	1
+unido	unido	0	0	1	0	0
+draddodiadau	traditions	0	0	1	0	0
+ymddoleniad	zomrah:ebrahimi	1	0	1	0	0
+ymddoleniad	category:ibrahim	1	0	1	0	0
+ymddoleniad	meander	1	1	0	0	0
+ymddoleniad	category: ibrahem	1	0	1	0	0
+ymddoleniad	ymddoleniad	1	0	1	0	0
+llwythi	loads	0	0	1	0	0
+cyrff	bodies	0	0	1	0	1
+lingua	lingua	0	0	1	0	0
+llygad	eye	0	0	1	1	1
+twristiaid	tourists	0	0	1	0	0
+metel	metal	0	0	1	1	1
+theulu	family	0	0	1	0	0
+glasoed	adolescent	0	0	1	0	0
+ddegawd	decade	0	0	1	0	0
+llall	other	0	0	1	1	1
+thiriogaethau	territories	0	0	1	0	0
+cwestiynau	questions	0	0	1	0	0
+sionc	brisk	0	0	1	1	1
+le	space	0	0	1	0	0
+gwell	better	0	0	1	0	0
+la	la	0	0	1	0	0
+lo	coal	0	0	1	0	0
+ll	p	0	0	1	0	0
+gweld	see	0	0	1	1	1
+transvaal	transvaal	0	0	1	0	0
+ysgrifau	writings	0	0	1	0	0
+lu	host	0	0	1	0	0
+marsh	marsh	0	0	1	0	0
+gwahaniad	separation	0	0	1	0	0
+dad	father	0	0	1	0	1
+golfan	sparrow	0	0	1	0	0
+greater	greater	0	0	1	0	0
+beidio	not	0	0	1	0	0
+beidio	eido	0	0	1	0	0
+dal	still	0	0	1	0	1
+dan	under	0	0	1	0	1
+dai	housing	0	0	1	0	0
+teledur	television	0	0	1	0	0
+dau	two	0	0	1	0	1
+daw	comes	0	0	1	0	1
+sonata	sonata	0	0	1	0	0
+das	rick	0	0	1	1	1
+das	das	0	0	1	0	1
+archaeoleg	archeology	0	0	1	0	1
+day	day	0	0	1	0	0
+iwerydd	atlantic	0	0	1	1	1
+categorielfennau	categorielfennau	0	0	1	0	0
+categorielfennau	category elements	0	0	1	0	0
+categoricyrff	category: bodies	0	0	1	0	0
+categoricyrff	categoricyrff	0	0	1	0	0
+mewnlifiad	influx	0	0	1	0	0
+warner	warner	0	0	1	0	0
+moelydd	bethan	0	0	1	0	0
+moelydd	tors	0	0	1	0	0
+phoenicurus	phoenicurus	0	0	1	0	0
+mewnwr	scrum half	0	0	1	0	0
+ddiweddarun	ddiweddarun	0	0	1	0	0
+ceunant	gorge	0	0	1	1	1
+fertigol	vertical	0	0	1	0	0
+swcwbws	succubus	1	1	0	0	0
+marius	marius and	0	0	1	0	0
+marius	marius	0	0	1	0	0
+ibric	ibric	0	0	1	0	0
+matt	matt	0	0	1	0	0
+res	row	0	0	1	0	0
+defend	defend	0	0	1	0	0
+dewin	wizard	0	0	1	1	1
+facto	facto	0	0	1	0	0
+dewis	choice	0	0	1	1	1
+cwympodd	fell	0	0	1	0	0
+cwm	valley	0	0	1	1	1
+grebe	grebe	0	0	1	0	0
+ynghyd	and	0	0	1	0	1
+red	red	0	0	1	0	0
+tylluanod	owls	0	0	1	0	0
+gefeilldrefi	twin	0	0	1	0	0
+harold	harold	0	0	1	0	0
+bws	bus	0	0	1	1	1
+coed	trees	0	0	1	0	0
+bwy	who	0	0	1	0	0
+ysbrydoli	inspire	0	0	1	1	1
+drycin	manx	0	0	1	0	1
+bwa	bow	0	0	1	1	1
+cyflwynor	cyflwynor	0	0	1	0	0
+ddefnyddwyr	users	0	0	1	0	0
+annibynwyr	independents	0	0	1	0	0
+cyhoeddir	published	0	0	1	0	0
+cwmniau	companies	0	0	1	0	0
+chiefs	chiefs	0	0	1	0	0
+gorfodi	enforcement	0	0	1	0	1
+lleihad	reduction	0	0	1	0	1
+troes	turned	0	0	1	0	0
+trefnwyd	organized	0	0	1	0	0
+dilyniant	sequence	0	0	1	0	0
+indiaid	indian	0	0	1	0	0
+iseldirwyr	dutch	0	0	1	0	0
+wyddoniaeth	science	0	0	1	0	0
+troed	foot	0	0	1	1	1
+mrwydr	battle	0	0	1	0	0
+weithgaredd	activity	0	0	1	0	0
+cyfradd	rate	0	0	1	1	1
+drefnu	arrange	0	0	1	0	0
+bachwr	hooker	0	0	1	1	1
+mhedair	four	0	0	1	0	0
+elusennol	charitable	0	0	1	1	1
+rhowch	please	0	0	1	0	0
+ansoddeiriau	adjectives	0	0	1	0	0
+has	has	0	0	1	0	0
+ionawr	january	0	0	1	1	1
+ancient	ancient	0	0	1	0	0
+mewnfudo	immigration	0	0	1	0	0
+hilary	hilary	0	0	1	0	0
+vishnu	vishnu	0	0	1	0	0
+yman	words frequently applied	0	0	1	0	0
+wlster	ulster	0	0	1	0	0
+mabwysiadwyd	adopted	0	0	1	0	0
+gwrthrych	object	0	0	1	1	1
+clybiau	clubs	0	0	1	0	1
+ragfyr	december	0	0	1	0	0
+ronynnau	particles	0	0	1	0	0
+plwton	pluto	0	0	1	0	0
+bomio	bombing	0	0	1	0	0
+llwyth	load	0	0	1	1	1
+gymharol	relatively	0	0	1	0	0
+enghreifftiau	examples	0	0	1	0	0
+negro	negro	0	0	1	0	0
+nus	nus	0	0	1	0	0
+gorchfygwyd	defeated	0	0	1	0	0
+efengyl	gospel	0	0	1	1	1
+udd	benefit	0	0	1	0	1
+weithgareddau	activities	0	0	1	0	0
+pericles	pericles	0	0	1	0	0
+categoriieithoedd	categoriieithoedd	0	0	1	0	0
+anghyfarwydd	unfamiliar	0	0	1	1	1
+britanniae	britanniae	0	0	1	0	0
+rhesi	rows	0	0	1	0	0
+arlunio	drawing	0	0	1	0	1
+wicitestun	wikisource	0	0	1	0	0
+blentyn	child	0	0	1	0	0
+sweden	sweden	0	0	1	0	0
+swedeg	swedish	0	0	1	0	0
+economïau	economies	0	0	1	0	0
+diemwnt	diamond	1	1	0	0	1
+diemwnt	mazari	1	0	1	0	1
+diemwnt	diamond-	1	0	1	0	1
+diemwnt	shrine	1	0	1	0	1
+diemwnt	iamond	1	0	1	0	1
+diemwnt	tomb	1	0	1	0	1
+sanscrit	sanskrit	0	0	1	0	0
+aristoteles	aristotle	0	0	1	0	0
+hendygwyn	whitland	0	0	1	0	0
+rivonia	livonia	0	0	1	0	0
+seineg	suavity	1	0	1	0	1
+seineg		1	0	1	0	1
+seineg	phonetics	1	1	0	1	1
+seineg	soviet	1	0	1	0	1
+rywbryd	sometime	0	0	1	0	0
+niferus	numerous	0	0	1	0	0
+have	have	0	0	1	0	0
+ibiza	ibiza	0	0	1	0	0
+hyddgen	hyddgen	0	0	1	0	0
+manylion	details	0	0	1	1	1
+cyfnodol	periodic	0	0	1	1	1
+swyddogol	official	0	0	1	1	1
+min	min	0	0	1	0	1
+arweiniodd	led	0	0	1	0	0
+filiwn	million	0	0	1	0	0
+dyffryn	valley	0	0	1	1	1
+answyddogol	unofficial	0	0	1	0	0
+answyddogol	answyddogoi	0	0	1	0	0
+mis	months	0	0	1	0	1
+mit	mit	0	0	1	0	0
+gallwn	we can	0	0	1	0	0
+ymddiriedolaeth	trust	0	0	1	1	1
+waugh	waugh	0	0	1	0	0
+randstad	randstad	0	0	1	0	0
+organebau	organisms	0	0	1	0	0
+skopje	skopje	0	0	1	0	0
+ymladdodd	fought	0	0	1	0	0
+dorsal	dorsal	0	0	1	0	0
+ansicr	uncertain	0	0	1	1	1
+llais	voice	0	0	1	1	1
+ewyllys	will	0	0	1	1	1
+unyes	unyes	0	0	1	0	0
+nicholson	nicholson	0	0	1	0	0
+llen	curtain	0	0	1	1	1
+tseina	china	0	0	1	0	0
+categoriarlunwyr	categoriarlunwyr	0	0	1	0	0
+eitemau	items	0	0	1	0	0
+sulgwyn	whitsun	0	0	1	0	1
+brifddinas	capital	0	0	1	0	0
+darnau	pieces	0	0	1	0	0
+fodolaeth	existence	0	0	1	0	0
+charles	charles	0	0	1	0	0
+remus	remus	0	0	1	0	0
+diodydd	drinks	0	0	1	0	0
+bysedd	fingers	0	0	1	0	0
+hafan	home	0	0	1	0	1
+hafal	equal	0	0	1	1	1
+cyfraniad	contribution	0	0	1	1	1
+mathemategol	mathematical	0	0	1	1	1
+staff	staff	0	0	1	0	0
+cyntaf	first	0	0	1	1	1
+uruguay	uruguay	0	0	1	0	0
+saethodd	shot	0	0	1	0	0
+meddygaeth	medicine	0	0	1	0	0
+ngweddill	the rest	0	0	1	0	0
+bernard	bernard	0	0	1	0	0
+eritrea	eritrea	0	0	1	0	0
+affrica	africa	0	0	1	0	0
+wynebu	face	0	0	1	1	1
+leiafrifoedd	minorities	0	0	1	0	0
+beat	beat	0	0	1	0	0
+tyfodd	grew	0	0	1	0	0
+gemau	games	0	0	1	0	0
+gymunedol	community	0	0	1	0	0
+cwfen	cwfen	0	0	1	0	0
+kazakhstan	kazakhstan	0	0	1	0	0
+ffantasi	fantasy	0	0	1	0	0
+organ	organ	0	0	1	1	1
+hamgylch	around	0	0	1	0	0
+dreiglad	mutation	0	0	1	0	0
+berthynas	berhynas	0	0	1	0	0
+berthynas	relationship	0	0	1	0	0
+national	national	0	0	1	0	0
+chelloedd	cells	0	0	1	0	0
+symudiadau	movements	0	0	1	0	0
+gwili	gwili	0	0	1	0	0
+iseldireg	dutch	0	0	1	0	0
+brewys	brewis	0	0	1	0	0
+archoffeiriad	high priest	0	0	1	0	1
+llŷr	llyr	0	0	1	0	0
+gollwng	drop	0	0	1	1	1
+lwcsembwrg	luxembourg	0	0	1	0	0
+penderfyniadau	decisions	0	0	1	0	0
+motown	motown	0	0	1	0	0
+ralph	ralph	0	0	1	0	0
+wo	wo	0	0	1	0	0
+bedydd	baptism	0	0	1	1	1
+invariant	invariant	0	0	1	0	0
+animalia	animalia	0	0	1	0	0
+cymro	welshman	0	0	1	1	1
+tymor	term	0	0	1	1	1
+cymry	cymry	0	0	1	0	1
+armenia	armenia	0	0	1	0	0
+siarlymaen	charlemagne	0	0	1	0	0
+cymru	wales	0	0	1	1	1
+lagopus	lagopus	0	0	1	0	0
+hamdden	leisure	0	0	1	1	1
+gyfrwng	medium	0	0	1	0	0
+islamaidd	islamic	0	0	1	0	0
+berwyn	berwyn	0	0	1	0	0
+swallow	swallow	0	0	1	0	0
+llym	strict	0	0	1	0	1
+deddfau	laws	0	0	1	0	0
+adrannau	sections	0	0	1	0	0
+fryn	hill	0	0	1	0	0
+byr	short	0	0	1	1	1
+firysau	viruses	0	0	1	0	0
+credwyd	was thought	0	0	1	0	0
+px|de|bawd|bras	px south thumb print	0	0	1	0	0
+na	than	0	0	1	0	1
+ddisgynnydd	descendant	0	0	1	0	0
+tectonig	tectonic	0	0	1	0	0
+tywod	sand	0	0	1	1	1
+rymoedd	forces	0	0	1	0	0
+gwasgaredig	scattered	0	0	1	1	1
+watkins	watkins	0	0	1	0	0
+ddiwethaf	last	0	0	1	0	0
+cipiwyd	captured	0	0	1	0	0
+ag	with	0	0	1	0	0
+canllaw	guide	0	0	1	0	1
+copies	copies	0	0	1	0	0
+gefnfor	ocean	0	0	1	0	0
+gaza	gaza	0	0	1	0	0
+dyfeisiwr	inventor	0	0	1	0	0
+llyfraur	books	0	0	1	0	0
+llyfraur	llyfraur	0	0	1	0	0
+anthropoleg	anthropology	0	0	1	1	1
+hunanleddfu	hunanleddfu	0	0	1	0	0
+hunanleddfu	self-relieving	0	0	1	0	0
+sifil	civil	0	0	1	0	0
+ninbych	denbigh	0	0	1	0	0
+ninbych	ninbych	0	0	1	0	0
+suharto	suharto	0	0	1	0	0
+gruffydd	gruffydd	0	0	1	0	0
+fwyd	food	0	0	1	0	0
+thraddodiad	tradition	0	0	1	0	0
+dadlau	argue	0	0	1	1	1
+pellaf	far	0	0	1	0	0
+pellaf	pellaf	0	0	1	0	0
+byd	world	0	0	1	1	1
+napoleon	napoleon	0	0	1	0	0
+filwyr	soldiers	0	0	1	0	0
+plaid	party	0	0	1	1	1
+astudio	study	0	0	1	1	1
+república	republica	0	0	1	0	0
+república	república	0	0	1	0	0
+darllen	read	0	0	1	1	1
+ɪ	to	0	0	1	0	0
+ɪ	l	0	0	1	0	0
+agan	agan	0	0	1	0	0
+stalin	stalin	0	0	1	0	0
+pheriw	peru	0	0	1	0	0
+astudir	studied	0	0	1	0	0
+adeiladodd	built	0	0	1	0	0
+crwbanod	turtles	0	0	1	0	0
+gogleddorllewin	north-west	0	0	1	0	0
+benfro	pembrokeshire	0	0	1	0	0
+genedigaethau	births	0	0	1	0	0
+gyrch	raid	0	0	1	0	0
+iseldiraidd	dutch	0	0	1	0	0
+fideos	videos	0	0	1	0	0
+bawd|px|logo	axs px logo	0	0	1	0	0
+bawd|px|logo	thumb | px | logo	0	0	1	0	0
+arabia	arabia	0	0	1	0	0
+gymar	mate	0	0	1	0	0
+yrru	driving	0	0	1	0	0
+ewropeaidd	european	0	0	1	1	1
+ochor	side	0	0	1	0	0
+wicipedwyr	wikipedians	0	0	1	0	0
+rhanbarthau	regions	0	0	1	0	0
+mahatma	mahatma	0	0	1	0	0
+powell	powell	0	0	1	0	0
+chymerwyd	taken	0	0	1	0	0
+llanddona	llanddona	0	0	1	0	0
+ydoedd	was	0	0	1	0	0
+neolithig	neolithic	0	0	1	0	0
+cof	memory	0	0	1	1	1
+cyfnewidfa	interchange	0	0	1	0	1
+omeara	omeara	0	0	1	0	0
+tâl	tall	0	0	1	0	0
+tâl	charge	0	0	1	0	0
+tân	fire	0	0	1	0	0
+tân	to	0	0	1	0	0
+lakshmi	lakshmi	0	0	1	0	0
+groesgad	crusade	0	0	1	0	0
+morris	morris	0	0	1	0	0
+wyt	do	0	0	1	0	0
+lysgenhadon	ambassadors	0	0	1	0	0
+goruwchnaturiol	supernatural	0	0	1	1	1
+prynu	buy	0	0	1	1	1
+mhencampwriaethau	championships	0	0	1	0	0
+cudyll	merlin	0	0	1	0	1
+cafodd	was	0	0	1	0	0
+gwylog	guillemot	0	0	1	0	0
+ewrop	europe	0	0	1	1	1
+wyn	white	0	0	1	0	0
+abad	abbot	0	0	1	1	1
+bêldroedwyr	footballers	0	0	1	0	0
+tywyll	dark	0	0	1	1	1
+gwisg	uniform	0	0	1	0	1
+systemau	systems	0	0	1	0	0
+gwladweinydd	statesman	0	0	1	1	1
+gwregys	belt	0	0	1	1	1
+llangollen	patriotic	0	0	1	0	0
+gwddf	neck	0	0	1	1	1
+gwnewch	do	0	0	1	0	0
+gororau	border	0	0	1	0	0
+broblemau	problems	0	0	1	0	0
+deinosor	category economics	1	0	1	0	0
+deinosor	dinosaur	1	1	0	0	0
+deinosor	deinosor	1	0	1	0	0
+deinosor	category: economics	1	0	1	0	0
+add	add	0	0	1	0	0
+gwynedd	gwynedd	0	0	1	0	0
+iddynt	they	0	0	1	0	0
+esblygol	evolutionary	0	0	1	0	0
+ravel	ravel	0	0	1	0	0
+gwarchod	protection	0	0	1	0	1
+meibion	sons	0	0	1	0	1
+planedau	planets	0	0	1	0	0
+fyd	world	0	0	1	0	0
+lleng	legion	0	0	1	1	1
+gewynnau	ligaments	0	0	1	0	0
+traean	a third	0	0	1	0	1
+traean	third	0	0	1	0	1
+gysyniad	concept	0	0	1	0	0
+teimlad	feeling	0	0	1	1	1
+heterorywioldeb	category:numbers	1	0	1	0	0
+heterorywioldeb	heterosexuality	1	1	0	0	0
+heterorywioldeb	hetro sexuality	1	1	0	0	0
+heterorywioldeb	hetrosexuality	1	0	1	0	0
+haenau	layers	0	0	1	0	0
+fyw	live	0	0	1	0	0
+arwyddo	sign	0	0	1	1	1
+prosesau	processes	0	0	1	0	0
+teimlai	enjoy	0	0	1	0	0
+teimlai	felt	0	0	1	0	0
+pharhaodd	continued	0	0	1	0	0
+manteisgar	opportunistic	0	0	1	0	0
+gwerthoedd	values	0	0	1	0	0
+like	like	0	0	1	0	0
+gyrrodd	drove	0	0	1	0	0
+gynnes	warm	0	0	1	0	0
+teloriaid	warblers	0	0	1	0	0
+arglwyddiaeth	lordship	0	0	1	1	1
+ddiwydiannau	industries	0	0	1	0	0
+tomé	tome	0	0	1	0	0
+ütsang	utsang	0	0	1	0	0
+ütsang	Ü-tsang	0	0	1	0	0
+draeth	beach	0	0	1	0	0
+gynnen	contention	0	0	1	0	0
+awgrymodd	suggested	0	0	1	0	0
+works	works	0	0	1	0	0
+cestyll	castles	0	0	1	0	1
+duwdod	deity	0	0	1	1	1
+haneswyr	historians	0	0	1	0	0
+hwch	sow	0	0	1	0	0
+gregoraidd	gregorian	0	0	1	0	0
+hail	second	0	0	1	0	0
+datguddiad	exposure	0	0	1	0	1
+geraint	geraint	0	0	1	0	1
+newidwyd	changed	0	0	1	0	0
+titwod	tits	0	0	1	0	0
+est	ext	0	0	1	0	0
+gwent	gwent	0	0	1	0	0
+gwent	chepstow	0	0	1	0	0
+turkmenistan	turkmenistan	0	0	1	0	0
+billy	billy	0	0	1	0	0
+cenedlaetholwyr	nationalists	0	0	1	0	0
+hitler	hitler	0	0	1	0	0
+alexius	alexius	0	0	1	0	0
+buanedd	speed	0	0	1	0	0
+sberm	sperm	0	0	1	0	0
+miriam	miriam	0	0	1	0	0
+breichiau	arms	0	0	1	0	1
+porbandar	probandar	0	0	1	0	0
+porbandar	porbandar	0	0	1	0	0
+gyfansoddi	compose	0	0	1	0	0
+brosiectau	projects	0	0	1	0	0
+about	about	0	0	1	0	0
+stephenson	stephenson	0	0	1	0	0
+blanhigion	plants	0	0	1	0	0
+andes	andes	0	0	1	0	0
+drydanol	electrical	0	0	1	0	0
+dannedd	teeth	0	0	1	0	1
+comisiwn	commission	0	0	1	0	0
+angenrheidiol	necessary	0	0	1	1	1
+rhyfeddod	wonder	0	0	1	1	1
+alpau	alps	0	0	1	0	0
+gipior	gipior	0	0	1	0	0
+rhyfeddol	amazing	0	0	1	0	1
+esblygodd	evolved	0	0	1	0	0
+criwiau	crews	0	0	1	0	0
+mathonwy	mathonwy	0	0	1	0	0
+madrid	madrid	0	0	1	0	0
+canlyn	following	0	0	1	0	1
+torrodd	broke	0	0	1	0	0
+gredu	believe	0	0	1	0	0
+sirol	county	0	0	1	0	0
+mecsico	mexico	0	0	1	0	0
+fuddugoliaethau	victories	0	0	1	0	0
+bererindod	pilgrimage	0	0	1	0	0
+ychydig	some	0	0	1	0	0
+hatal	suspended	0	0	1	0	0
+dalglish	dalglish	0	0	1	0	0
+michelangelo	michelangelo	0	0	1	0	0
+noel	noel	0	0	1	0	0
+bur	pure	0	0	1	0	0
+bus	bus	0	0	1	0	0
+gyfaddawd	compromise	0	0	1	0	0
+but	but	0	0	1	0	0
+orllewinol	western	0	0	1	0	0
+glir	clear	0	0	1	0	0
+teithio	travel	0	0	1	1	1
+gorchymyn	order	0	0	1	1	1
+bun	bin	0	0	1	0	1
+frenin	king	0	0	1	0	0
+bum	five	0	0	1	0	0
+cymysgedd	mix	0	0	1	0	1
+embargo	embargo	0	0	1	1	1
+princes	princes	0	0	1	0	0
+wisg	uniform	0	0	1	0	0
+dangerous	dangerous	0	0	1	0	0
+j	j	0	0	1	0	0
+cyflawnwyd	archieved	0	0	1	0	0
+cyflawnwyd	achieved	0	0	1	0	0
+blodeuodd	flowered	0	0	1	0	0
+defod	ritual	0	0	1	0	1
+farrar	farrar	0	0	1	0	0
+tyfu	growing	0	0	1	0	1
+ddefnyddiwyd	used	0	0	1	0	0
+albaniaid	albanians	0	0	1	0	0
+ffisegwyr	physicists	0	0	1	0	0
+canoldir	mediterranean	0	0	1	0	1
+cpd	c.p.d.	0	0	1	0	0
+marmot	marmot	0	0	1	0	0
+circus	circus	0	0	1	0	0
+pig	beak	0	0	1	1	1
+throsglwyddo	transfer	0	0	1	0	0
+saer	one who works with wood or carpenter	0	0	1	0	1
+saer	carpenter	0	0	1	1	1
+paraguay	paraguay	0	0	1	0	0
+tafodieithoedd	dialects	0	0	1	0	0
+tafodieithoedd	painting	0	0	1	0	0
+talmud	talmud	0	0	1	0	0
+corporation	corporation	0	0	1	0	0
+ymdoddiad	fusion	0	0	1	0	0
+mortimer	mortimer	0	0	1	0	0
+bellach	now	0	0	1	1	1
+ordoficaidd	ordovician	0	0	1	0	0
+ymwybodol	aware	0	0	1	1	1
+disgrifior	describes	0	0	1	0	0
+disgrifior	describe	0	0	1	0	0
+out	out	0	0	1	0	0
+fanaweg	manx	0	0	1	0	0
+fanaweg	fanaweg	0	0	1	0	0
+adam	adam	0	0	1	0	0
+pelecaniformes	pelecaniformes	0	0	1	0	0
+plith	among	0	0	1	0	1
+bwlgareg	bwlgrareg	0	0	1	0	0
+bwlgareg	bulgarian	0	0	1	0	0
+gyfrannu	contribute	0	0	1	0	0
+achosir	caused	0	0	1	0	0
+chaneuon	songs	0	0	1	0	0
+bencampwriaeth	championship	0	0	1	0	0
+prifysgolion	universities	0	0	1	0	0
+ymladdwyd	fought	0	0	1	0	0
+gwlyb	wet	0	0	1	1	1
+cristnogol	christian	0	0	1	1	1
+athrawes	teacher	0	0	1	0	1
+cartref	home	0	0	1	1	1
+ffyniant	prosperity	0	0	1	1	1
+vitellius	vitellius	0	0	1	0	0
+nwy	gas	0	0	1	1	1
+derm	term	0	0	1	0	0
+glyndyfrdwy	glyndyfrdwy	0	0	1	0	0
+lywodraethol	governance	0	0	1	0	0
+gyhydeddol	equatorial	0	0	1	0	0
+gyhydeddol	gyhededdol	0	0	1	0	0
+ystâd	estate	0	0	1	0	0
+pellach	further	0	0	1	0	0
+ecoleg	ecology	0	0	1	1	1
+paris	paris	0	0	1	0	0
+mwy	more	0	0	1	1	1
+seisnig	seisnig	0	0	1	0	1
+seland	zealand	0	0	1	0	0
+under	under	0	0	1	0	0
+pridd	soil	1	1	1	1	1
+pridd	in vivo fertilization	1	0	1	0	1
+pridd	fertilization	1	0	1	0	1
+adael	leave	0	0	1	0	0
+neui	thou shalt come	0	0	1	0	0
+fathwyd	coined	0	0	1	0	0
+cynhenid	native	0	0	1	0	1
+arwyddwyd	signed	0	0	1	0	0
+wici	wiki	0	0	1	0	0
+arwyddocaol	significant	0	0	1	1	1
+every	every	0	0	1	0	0
+every	pob gymraeg	0	0	1	0	0
+jack	jack	0	0	1	0	0
+cyson	consistent	0	0	1	1	1
+ffîn	boundary	0	0	1	0	0
+neur	or the	0	0	1	0	0
+school	school	0	0	1	0	0
+cewch	you	0	0	1	0	0
+chyfrif	account	0	0	1	0	0
+mabwysiadur	adoption	0	0	1	0	0
+credant	they believe	0	0	1	0	0
+treigladau	mutations	0	0	1	0	0
+cheltaidd	celtic	0	0	1	0	0
+symyd	move	0	0	1	0	0
+harrier	harrier	0	0	1	0	0
+cynrychioli	represents	0	0	1	0	1
+batri	battery	0	0	1	1	1
+amlygu	highlights	0	0	1	0	1
+cilogram	kilogram	0	0	1	0	0
+astudiodd	studied	0	0	1	0	0
+croesgadwyr	crusaders	0	0	1	0	0
+arwel	arwel	0	0	1	0	0
+street	street	0	0	1	0	0
+ynys	island	1	1	1	1	1
+ynys	islamd	1	0	1	0	1
+ynys	costly	1	0	1	0	1
+ynys	ordinated	1	0	1	0	1
+ynys	expensive	1	0	1	0	1
+hafod	hafod	0	0	1	0	1
+aelod	member	0	0	1	1	1
+blue	blue	0	0	1	0	0
+lesser	lesser	0	0	1	0	0
+argraffu	printing	0	0	1	0	1
+amaeth	agriculture	0	0	1	1	1
+ail	second	0	0	1	1	1
+rwsieg	russian	0	0	1	0	0
+wynedd	wynedd	0	0	1	0	0
+corfforol	physical	0	0	1	0	1
+lunio	shape	0	0	1	0	0
+cyfoethog	rich	0	0	1	1	1
+bawd|px	thumb | px	0	0	1	0	0
+bawd|px	thumb / px	0	0	1	0	0
+nubia	nubia	0	0	1	0	0
+disney	disney	0	0	1	0	0
+courteney	courteney	0	0	1	0	0
+ddyfeisio	devise	0	0	1	0	0
+chymerodd	took	0	0	1	0	0
+asio	asio	1	0	1	0	1
+asio	fused	1	0	1	0	1
+asio	opposite	1	0	1	0	1
+asio	throwing	1	0	1	0	1
+asio	blend	1	0	1	0	1
+asio	welding	1	1	0	0	1
+mitocondria	mitochondria	0	0	1	0	0
+isrywogaeth	subspecies	0	0	1	0	0
+bwrdeisdref	borough	0	0	1	0	0
+annhebyg	unlikely	0	0	1	0	1
+olwg	appearance	0	0	1	0	0
+ganol	center	0	0	1	0	0
+athraidd	permeable	0	0	1	1	1
+gwin	wine	0	0	1	1	1
+stevie	stevie	0	0	1	0	0
+trigolion	residents	0	0	1	0	1
+gwib	instant	0	0	1	0	1
+domesticus	domesticus	0	0	1	0	0
+domesticus	domestic	0	0	1	0	0
+gweithiodd	worked	0	0	1	0	0
+pantheistiaeth	pantheism	1	1	0	0	0
+gwir	true	0	0	1	1	1
+seinegol	phonetic	0	0	1	0	0
+ffrwydrodd	exploded	0	0	1	0	0
+gwybedogion	pied	0	0	1	0	0
+saethu	shooting	0	0	1	0	1
+powys	powys	0	0	1	0	0
+julie	julie	0	0	1	0	0
+safoni	standardization	0	0	1	0	0
+julia	julia	0	0	1	0	0
+cynhanesyddol	prehistoric	0	0	1	0	0
+hawdd	easy	0	0	1	1	1
+cassini	cassini	0	0	1	0	0
+pnawn	afternoon	0	0	1	0	1
+ewythr	uncle	0	0	1	1	1
+barhaodd	continued	0	0	1	0	0
+would	would	0	0	1	0	0
+categoriynysoedd	categoriynysoedd	0	0	1	0	0
+categoriynysoedd	categories:island	0	0	1	0	0
+gwyddoniaduron	encyclopaedias	0	0	1	0	0
+gweill	pipeline	0	0	1	0	1
+cyfateb	equivalent	0	0	1	0	1
+phont	bridge	0	0	1	0	0
+polisïau	policies	0	0	1	0	0
+wyddbwyll	chess	0	0	1	0	0
+gwrdd	meet	0	0	1	0	0
+niwclews	nucleus	0	0	1	0	0
+olympaidd	olympics	0	0	1	0	0
+cynhwysedd	capacity	0	0	1	0	0
+cais	try	1	1	0	1	1
+cais	application	1	0	1	1	1
+hanterth	peak	0	0	1	0	0
+shetty	shetty	0	0	1	0	0
+must	must	0	0	1	0	0
+me	me	0	0	1	0	0
+md	md	0	0	1	0	0
+border|px|dinas	border | px | city	0	0	1	0	0
+border|px|dinas	border! px! city	0	0	1	0	0
+ymlusgiaid	reptiles	0	0	1	0	0
+dodd	dodd	0	0	1	0	0
+mm	mm	0	0	1	0	0
+brodorion	natives	0	0	1	0	0
+gwreiddiaur	gwreiddiaur	0	0	1	0	0
+gwreiddiaur	roots	0	0	1	0	0
+mi	i	0	0	1	1	1
+mk	mk	0	0	1	0	0
+mw	mw	0	0	1	0	0
+ms	ms	0	0	1	0	0
+henry	henry	0	0	1	0	0
+grenada	grenada	0	0	1	0	0
+swyddfa	office	0	0	1	1	1
+my	my	0	0	1	0	0
+amser	time	0	0	1	1	1
+gyflwyno	submitted	0	0	1	0	0
+adwaenir	known	0	0	1	0	0
+gymysgedd	mixture	0	0	1	0	0
+ffonoleg	phonology	0	0	1	0	0
+florida	florida	0	0	1	0	0
+cyfrifiadur	computer	0	0	1	1	1
+valiente	valiente	0	0	1	0	0
+henoed	elderly	0	0	1	0	0
+tresglen	dresglen	0	0	1	0	1
+tresglen	tresglen	0	0	1	0	1
+gyfunrywioldeb	homosexuality	0	0	1	0	0
+end	end  (in welsh  "diwedd"	0	0	1	0	0
+bawd|dde|px|y	thumb / right / px / the	0	0	1	0	0
+bawd|dde|px|y	thumb|right|px|the	0	0	1	0	0
+eni	born	0	0	1	0	0
+calendr	calendar	0	0	1	1	1
+tystion	witnesses	0	0	1	0	0
+enw	name	0	0	1	1	1
+gate	gate	0	0	1	0	0
+pedair	four	0	0	1	0	1
+hiliau	races	0	0	1	0	0
+elizabeth	elizabeth	0	0	1	0	0
+boeth	hot	0	0	1	0	0
+bretagne	bretagne	0	0	1	0	0
+pelfis	pelvis	1	1	0	0	0
+pelfis	western	1	0	1	0	0
+pelfis	economy	1	0	1	0	0
+ltd	ltd	0	0	1	0	0
+amgylchynur	amgylchynur	0	0	1	0	0
+anafiadau	injuries	0	0	1	0	0
+fudiadau	organizations	0	0	1	0	0
+dileu	delete	0	0	1	1	1
+salsa	salsa	0	0	1	0	0
+copar	summit	0	0	1	0	0
+nagasaki	nagasaki	0	0	1	0	0
+rwyn	i'm	0	0	1	0	0
+austin	austin	0	0	1	0	0
+cyfreithiwr	lawyer	0	0	1	1	1
+corhwyaden	teal	0	0	1	0	0
+lledodd	spread	0	0	1	0	0
+fwydo	feed	0	0	1	0	0
+amis	amis	0	0	1	0	0
+cyhydedd	equator	0	0	1	1	1
+celteg	celtic	0	0	1	0	0
+gwymp	collapse	0	0	1	0	1
+gywir	correct	0	0	1	0	0
+over	over	0	0	1	0	0
+cludir	transported	0	0	1	0	0
+london	london	0	0	1	0	0
+garcharor	prisoner	0	0	1	0	0
+vita	vita	0	0	1	0	0
+olygfa	view	0	0	1	0	0
+blwyddyn	year	0	0	1	1	1
+borneo	borneo	0	0	1	0	0
+christoph	christoph	0	0	1	0	0
+amgylch	around	0	0	1	0	1
+mongolia	mongolia	0	0	1	0	0
+cludo	transport	0	0	1	0	1
+babanod	babies	0	0	1	0	0
+chwerw	bitter	0	0	1	1	1
+eugene	eugene	0	0	1	0	0
+hamgylchynu	surrounded	0	0	1	0	0
+dem	dem	0	0	1	0	0
+fwslim	muslim	0	0	1	0	0
+trydydd	third	0	0	1	1	1
+natsïaidd	nazi	0	0	1	0	0
+benywaidd	female	0	0	1	0	1
+gwahanu	separated	0	0	1	0	1
+dangos	show	0	0	1	0	0
+falens	valence	0	0	1	0	0
+unigolyn	individual	0	0	1	0	0
+feistr	master	0	0	1	0	0
+blentyndod	childhood	0	0	1	0	0
+ddyddiau	days	0	0	1	0	0
+alex	alex	0	0	1	0	0
+bosnia	bosnia	0	0	1	0	0
+harri	henry	0	0	1	1	1
+harri	harri	0	0	1	0	1
+chuck	chuck	0	0	1	0	0
+detroit	detroit	0	0	1	0	0
+rhufeiniaid	romans	0	0	1	0	0
+delwedd	image	0	0	1	0	0
+victory	victory	0	0	1	0	0
+negeseuon	messages	0	0	1	0	0
+each	rattray	0	0	1	0	0
+each	each	0	0	1	0	0
+eiddo	property	0	0	1	1	1
+tywysogion	princes	0	0	1	0	0
+heintio	infected	0	0	1	0	1
+berfformion	performed	0	0	1	0	0
+hirohito	hirohoto	0	0	1	0	0
+hirohito	hirohito	0	0	1	0	0
+lladdedigion	slain	0	0	1	0	0
+electromagnetig	electromagnetic	0	0	1	0	0
+cyflwr	condition	0	0	1	1	1
+alcoholiaeth	screens	1	0	1	0	0
+alcoholiaeth	curtain	1	0	1	0	0
+alcoholiaeth	screen	1	0	1	0	0
+alcoholiaeth	alcoholism	1	1	0	0	0
+alcoholiaeth	alc...	1	0	1	0	0
+diana	diana	0	0	1	0	0
+gwrthdaro	conflict	0	0	1	0	1
+dianc	escape	0	0	1	1	1
+gadair	chair	0	0	1	0	0
+bonan	conan	0	0	1	0	0
+ranbarthau	regions	0	0	1	0	0
+salwch	illness	0	0	1	1	1
+raid	have	0	0	1	0	0
+gwybodaeth	information	0	0	1	0	1
+hangen	required	0	0	1	0	0
+gol	ed	0	0	1	0	0
+lais	voice	0	0	1	0	0
+kuwait	kuwait	0	0	1	0	0
+siapau	shapes	0	0	1	0	0
+siapan	japan	0	0	1	0	0
+saddam	saddam	0	0	1	0	0
+lain	plot	0	0	1	0	0
+coropleth	choropleth	0	0	1	0	0
+negesydd	courier	0	0	1	0	0
+categoricyfrifiadureg	categoricyfrifiadureg	0	0	1	0	0
+ŵyr	s	0	0	1	0	0
+chyffuriau	drugs	0	0	1	0	0
+dinasyddion	citizens	0	0	1	0	1
+creur	creur	0	0	1	0	0
+creur	created	0	0	1	0	0
+free	free	0	0	1	0	0
+bleddyn	bleddyn	0	0	1	0	0
+bygythiad	threat	0	0	1	0	0
+hand	hand	0	0	1	0	0
+ŵyl	festival	0	0	1	0	0
+trafododd	discussed	0	0	1	0	0
+days	days	0	0	1	0	0
+ddydd	on	0	0	1	0	0
+athro	teacher	0	0	1	1	1
+key	key	0	0	1	0	0
+nhw	they	0	0	1	1	1
+pasg	easter	0	0	1	1	1
+bersonol	personal	0	0	1	0	0
+beirniadu	judging	0	0	1	0	1
+grymoedd	forces	0	0	1	0	0
+carreg	stone	0	0	1	1	1
+ddawr	comes to visit	0	0	1	0	0
+tueddu	tend	0	0	1	1	1
+top	top	0	0	1	0	0
+ton	wave	0	0	1	1	1
+too	too	0	0	1	0	0
+tom	tom	0	0	1	0	1
+corpus	corpus	0	0	1	0	0
+gwrthod	rejected	0	0	1	0	1
+diweddu	ending	0	0	1	0	1
+seciwlar	secular	0	0	1	0	0
+effeithiodd	affected	0	0	1	0	0
+gymdogaeth	neighborhood	0	0	1	0	0
+lleoliad	location	0	0	1	1	1
+pumlumon	plynlimon	0	0	1	0	0
+glyndwr	glyndwr	0	0	1	0	0
+cyfryw	such	0	0	1	1	1
+cesiwm	aging	1	0	1	0	0
+cesiwm	caesium	1	1	0	0	0
+cesiwm	not good	1	0	1	0	0
+cesiwm	wayworn	1	0	1	0	0
+frwydro	fight	0	0	1	0	0
+quarrying	quarrying	0	0	1	0	0
+quarrying	guarrying	0	0	1	0	0
+galba	alba	0	0	1	0	0
+western	western	0	0	1	0	0
+etifeddodd	inherited	0	0	1	0	0
+dylai	should	0	0	1	0	0
+prisiau	prices	0	0	1	0	0
+cloddio	mining	0	0	1	0	1
+estyn	extension	0	0	1	0	1
+sesiwn	session	0	0	1	1	1
+cyhoeddwyd	published	0	0	1	0	0
+llwyfan	platform	0	0	1	1	1
+trosglwyddir	transferred	0	0	1	0	0
+caeau	fields	0	0	1	0	0
+gyfystyr	equivalent	0	0	1	0	0
+gabon	gabon	0	0	1	0	0
+cyhuddo	charged	0	0	1	0	1
+canlyniadau	results	0	0	1	0	0
+gwelir	there	0	0	1	0	0
+ran	in	0	0	1	0	0
+meddalwedd	software	0	0	1	0	0
+rai	some	0	0	1	0	0
+bardd	poet	0	0	1	1	1
+ras	race	0	0	1	1	1
+beckett	beckett	0	0	1	0	0
+lleoliadau	locations	0	0	1	0	0
+ray	ray	0	0	1	0	0
+mwmbwls	mumbles	0	0	1	0	0
+snow	snow	0	0	1	0	0
+drin	treatment	0	0	1	0	0
+aurelian	aurelian	0	0	1	0	0
+blodeuwedd	blodeuwedd	0	0	1	0	0
+gwrthryfel	rebellion	0	0	1	1	1
+teitl	title	0	0	1	1	1
+rwydwaith	network	0	0	1	0	0
+ewro	euro	0	0	1	0	0
+archwiliwyd	examined	0	0	1	0	0
+sneddon	sneddon	0	0	1	0	0
+monaco	monaco	0	0	1	0	0
+meirch	horses	0	0	1	0	1
+oedolion	adults	0	0	1	0	0
+dermau	terms	0	0	1	0	0
+gwrthryfelwyr	rebels	0	0	1	0	0
+annibynnol	independent	0	0	1	1	1
+cyflwynwyr	presenters	0	0	1	0	0
+isafrif	minimum number	0	0	1	0	0
+richard	richard	0	0	1	0	0
+cyhuddwyd	accused	0	0	1	0	0
+tanzania	tanzania	0	0	1	0	0
+metal	metal	0	0	1	0	0
+metal	metals	0	0	1	0	0
+farwol	fatal	0	0	1	0	0
+hadnabod	identified	0	0	1	0	0
+erthygl	article	0	0	1	1	1
+curie	curie	0	0	1	0	0
+cyflwynwyd	presented	0	0	1	0	0
+cambig	avocet	0	0	1	0	0
+pasha	pasha	0	0	1	0	0
+ymateb	ymateb	0	0	1	0	1
+ymateb	response	0	0	1	0	1
+dyna	that	0	0	1	0	1
+llachar	bright	0	0	1	1	1
+queen	queen	0	0	1	0	0
+radio	radio	0	0	1	1	1
+lofruddio	murder	0	0	1	0	0
+fraich	arm	0	0	1	0	0
+de|ewin	de | cloves	0	0	1	0	0
+pkm	pkm	0	0	1	0	0
+categorianthropoleg	categorianthropoleg	0	0	1	0	0
+wybod	but	0	0	1	0	0
+wybod	out	0	0	1	0	0
+disgrifiad	description	0	0	1	1	1
+claude	claude	0	0	1	0	0
+dechreuasant	they began	0	0	1	0	0
+rhywogaethau	species	0	0	1	0	0
+wyddonol	scientific	0	0	1	0	0
+rss	china	0	0	1	0	0
+rss	rss	0	0	1	0	0
+newton	newton	0	0	1	0	0
+mharc	park	0	0	1	0	0
+tryloyw	transparent	0	0	1	1	1
+groglith	good	0	0	1	0	0
+guatemala	guatemala	0	0	1	0	0
+haiti	haiti	0	0	1	0	0
+gaergystennin	constantinople	0	0	1	0	0
+gonfensiynol	conventional	0	0	1	0	0
+gareth	gareth	0	0	1	0	0
+camgymeriad	mistake	0	0	1	1	1
+fyddair	fyddair	0	0	1	0	0
+ymddygiad	behavior	0	0	1	1	1
+gyflawnir	achieved	0	0	1	0	0
+fyddain	it would	0	0	1	0	0
+llywodraethol	governing	0	0	1	1	1
+cwtiad	plover	0	0	1	0	0
+ymchwiliad	an investigation	0	0	1	0	1
+mrasil	brazil	0	0	1	0	0
+hendre	hendre	0	0	1	0	0
+rheol	rule	0	0	1	1	1
+px|bawd|lleoliad	px | thumb | location	0	0	1	0	0
+px|bawd|lleoliad	pixel|thumb|location	0	0	1	0	0
+gydnabod	recognition	0	0	1	0	0
+cyfamod	covenant	0	0	1	1	1
+thrwy	by	0	0	1	0	0
+drwyr	drwyr	0	0	1	0	0
+llaith	moist	0	0	1	1	1
+dirywio	decline	0	0	1	0	1
+gelteg	celtic	0	0	1	0	0
+bomis	bomis	0	0	1	0	0
+thannau	fires	0	0	1	0	0
+chydnabod	recognized	0	0	1	0	0
+abergwyngregyn	abergwyngregyn	0	0	1	0	0
+feneswela	venezuela	0	0	1	0	0
+clasurol	classical	0	0	1	1	1
+mur	wall	0	0	1	1	1
+cwmnïau	companies	0	0	1	0	0
+categoripethau	categoripethau	0	0	1	0	0
+fiolegol	biological	0	0	1	0	0
+nghysawd	our solar	0	0	1	0	0
+cychwyn	start	0	0	1	1	1
+wrth	in	0	0	1	0	1
+dehonglir	interpreted	0	0	1	0	0
+bost	mail	0	0	1	0	1
+farchnad	market	0	0	1	0	0
+however	however	0	0	1	0	0
+credyd	credit	0	0	1	0	0
+sengl	single	0	0	1	1	1
+protonau	protons	0	0	1	0	0
+bosibl	possible	0	0	1	0	0
+califfornia	califfornia	0	0	1	0	0
+califfornia	california	0	0	1	0	0
+hawliwyd	claimed	0	0	1	0	0
+ell	ell	0	0	1	0	0
+londinium	londiniun	0	0	1	0	0
+londinium	londinium	0	0	1	0	0
+meredith	meredith	0	0	1	0	0
+llyfryddiaeth	bibliography	1	1	1	1	1
+llyfryddiaeth	revelation	1	0	1	0	1
+llyfryddiaeth	heterosexuality	1	0	1	0	1
+llyfryddiaeth	god's order	1	0	1	0	1
+llyfryddiaeth	bibiliography	1	0	1	0	1
+llyfryddiaeth	message	1	0	1	0	1
+dyfais	device	0	0	1	1	1
+brawddeg	sentence	0	0	1	1	1
+gefnddu	black-backed	0	0	1	0	0
+manwl	detailed	0	0	1	0	1
+digwydd	place	0	0	1	0	1
+addysg	education	0	0	1	1	1
+can	can	0	0	1	0	1
+sullivan	sullivan	0	0	1	0	0
+ansefydlog	unstable	0	0	1	1	1
+brenhinoedd	kings	0	0	1	0	1
+chefnogaeth	support	0	0	1	0	0
+unarddeg	eleven	0	0	1	0	0
+digwyddiad	event	0	0	1	1	1
+cymedrol	moderate	0	0	1	1	1
+been	been	0	0	1	0	0
+gruffudd	gruffudd	0	0	1	0	1
+ddynes	woman	0	0	1	0	0
+cyfathrach	intercourse	0	0	1	1	1
+gardneraidd	gardnerian	0	0	1	0	0
+samplau	samples	0	0	1	0	0
+diffinir	defined	0	0	1	0	0
+arbenigwyr	experts	0	0	1	0	0
+dringor	climbing	0	0	1	0	0
+wagtail	wagtail	0	0	1	0	0
+gwaharddwyd	banned	0	0	1	0	0
+pwyleg	polish	0	0	1	0	0
+diffinio	defines the	0	0	1	0	1
+diffinio	define	0	0	1	1	1
+frenhines	queen	0	0	1	0	0
+snipe	snipe	0	0	1	0	0
+drefniadaeth	organization	0	0	1	0	0
+drefniadaeth	organisation	0	0	1	0	0
+effeithior	affect the	0	0	1	0	0
+cysyniad	concept	0	0	1	0	0
+geiriadur	dictionary	0	0	1	1	1
+cymoedd	valleys	0	0	1	0	1
+ystyriwyd	considered	0	0	1	0	0
+n	n	0	0	1	0	0
+hunangofiant	autobiography	0	0	1	0	0
+hawliau	rights	0	0	1	0	0
+poblogaidd	popular	0	0	1	1	1
+llechfaen	slate	0	0	1	0	0
+ewin	nail	0	0	1	1	1
+categoriamgylchedd	categoriamgylchedd	0	0	1	0	0
+crynodiad	concentration	0	0	1	0	0
+nefyn	nefyn	0	0	1	0	0
+rhediad	run	0	0	1	0	1
+faner	flag	0	0	1	0	0
+ddatblygiad	development	0	0	1	0	0
+eiliad	seconds	0	0	1	0	1
+pharc	park	0	0	1	0	0
+categorimytholeg	categorimytholeg	0	0	1	0	0
+gadeiriol	cathedral	0	0	1	0	0
+damweiniau	accidents	0	0	1	0	0
+beiriant	machine	0	0	1	0	0
+artiffisial	artificial	0	0	1	0	0
+tiwmor	tumor	0	0	1	0	0
+esgob	boshop	0	0	1	0	1
+esgob	bishop	0	0	1	1	1
+welsh	welsh	0	0	1	0	0
+visayas	visayas	0	0	1	0	0
+categoridaearyddiaeth	catagoridaearyddiaeth	0	0	1	0	0
+categoridaearyddiaeth	categories:geography	0	0	1	0	0
+categoridaearyddiaeth	categoridaearyddiaeth	0	0	1	0	0
+ymasiad	fusion	0	0	1	0	0
+dadl	debate	0	0	1	1	1
+dylan	dylan	0	0	1	0	0
+gweithredoedd	actions	0	0	1	0	0
+charlie	charlie	0	0	1	0	0
+ocean	ocean	0	0	1	0	0
+endorsements	endorsements	0	0	1	0	0
+bwdhaeth	buddhism	0	0	1	0	0
+jean	jean	0	0	1	0	0
+cadfridog	general	0	0	1	1	1
+crefyddol	religious	0	0	1	1	1
+torah	torah	0	0	1	0	0
+gorff	body	0	0	1	0	0
+gwylior	watching	0	0	1	0	0
+menevia	menevia	0	0	1	0	0
+wythnosol	weekly	0	0	1	1	1
+greenwich	greenwich	0	0	1	0	0
+bhutan	bhutan	0	0	1	0	0
+chwyddo	swelling	0	0	1	0	1
+rhyngweithiadau	interactions	0	0	1	0	0
+ela	ela	0	0	1	0	0
+etholiadol	electoral	0	0	1	0	0
+rwdlan	rwdlan	0	0	1	0	1
+elw	profit	1	1	1	1	1
+elw	norway	1	0	1	0	1
+elw	elw	1	0	1	0	1
+eironig	ironic	0	0	1	0	0
+which	which	0	0	1	0	0
+which	sy'n	0	0	1	0	0
+px|bawd|map	px | thumb | map	0	0	1	0	0
+donaw	danube	0	0	1	0	0
+ysgrifennu	write	0	0	1	1	1
+kapilavastu	kapilavastu	0	0	1	0	0
+burns	burns	0	0	1	0	0
+warchae	siege	0	0	1	0	0
+cramen	crust	0	0	1	1	1
+ywr	is the	0	0	1	0	0
+grawn	grain	0	0	1	0	1
+mynegi	express	0	0	1	1	1
+akiruno	soldiers	0	0	1	0	0
+akiruno	akiruno	0	0	1	0	0
+bynnag	however	0	0	1	0	0
+hynnyn	ms poulter	0	0	1	0	0
+amod	condition	0	0	1	1	1
+adria	adria	0	0	1	0	0
+wyddom	unknown	0	0	1	0	0
+ymlaen	on	0	0	1	1	1
+cofiadwy	memorable	0	0	1	1	1
+asidau	acids	0	0	1	0	0
+ywn	other than their	0	0	1	0	0
+enwadau	denominations	0	0	1	0	0
+hund	hund	0	0	1	0	0
+gorsedd	throne	0	0	1	1	1
+gorsedd	crime	0	0	1	0	1
+gyflyrau	conditions	0	0	1	0	0
+indoewropeaidd	indoewropeaidd	0	0	1	0	0
+codi	up	0	0	1	0	1
+terminoleg	terminology	0	0	1	0	0
+fathau	types	0	0	1	0	0
+tebot	teapot	0	0	1	1	1
+malaysia	malaysia	0	0	1	0	0
+donald	donald	0	0	1	0	0
+debyg	similar	0	0	1	0	0
+ddisgrifiodd	described	0	0	1	0	0
+twristaidd	tourist	0	0	1	0	0
+syniadau	ideas	0	0	1	0	0
+ich	to your	0	0	1	0	0
+cooper	cooper	0	0	1	0	0
+awgryma	suggests	0	0	1	0	0
+fyfyrwyr	students	0	0	1	0	0
+fyfyrwyr	latest news	0	0	1	0	0
+godir	charged	0	0	1	0	0
+groegaidd	greek	0	0	1	0	1
+sefydliadau	organizations	0	0	1	0	0
+sefydliadau	establishments	0	0	1	0	0
+amddiffynfa	defense	0	0	1	0	1
+fodd	way	0	0	1	0	0
+seicolegol	psychological	0	0	1	1	1
+brawd	feet	0	0	1	0	1
+brawd	brother	0	0	1	1	1
+brawf	test	0	0	1	0	0
+cwellyn	ranger	0	0	1	0	0
+corn	horn	0	0	1	1	1
+serbian	serbian	0	0	1	0	0
+cors	for	1	0	1	0	1
+cors	traitor	1	0	1	0	1
+cors	rebel	1	0	1	0	1
+cors	cors	1	0	1	0	1
+cors	marsh	1	1	1	0	1
+cors	moderate	1	0	1	0	1
+cors	bog	1	1	0	1	1
+unrwa	unrwa	0	0	1	0	0
+chynrychiolwyr	representatives	0	0	1	0	0
+ddyfais	device	0	0	1	0	0
+thermodynameg	themodynameg	1	1	0	0	0
+thermodynameg	thermodynamics	1	1	0	0	0
+thermodynameg	racing	1	0	1	0	0
+thermodynameg	aerodynamics	1	0	1	0	0
+meddiannau	possessions	0	0	1	0	1
+hiphop	hiphop	0	0	1	0	0
+olynydd	successor	0	0	1	1	1
+telyn	harp	0	0	1	1	1
+montana	montana	0	0	1	0	0
+ensure	ensure	0	0	1	0	0
+balcanau	balkans	0	0	1	0	0
+gorfforol	physical	0	0	1	0	0
+cyfansawdd	compound	0	0	1	1	1
+arall	other	0	0	1	0	0
+categoriymddygiad	categoriymddygiad	0	0	1	0	0
+chymuned	community	0	0	1	0	0
+ppp	ppp	0	0	1	0	0
+dysgir	taught	0	0	1	0	0
+gyson	consistent	0	0	1	0	0
+croeso	welcome	0	0	1	1	1
+palesteiniaid	palestinians	0	0	1	0	0
+croesi	crossing	0	0	1	0	1
+cywair	tone	0	0	1	0	1
+cyfansoddodd	composed	0	0	1	0	0
+gig	meat	0	0	1	0	0
+virgin	virgin	0	0	1	0	0
+arabiaid	arabs	0	0	1	0	0
+arabiaid	arbian	0	0	1	0	0
+synthesis	synthesis	0	0	1	0	0
+draddodiadol	traditional	0	0	1	0	0
+head	head	0	0	1	0	1
+medium	medium	0	0	1	0	0
+prynhawn	afternoon	0	0	1	1	1
+hirach	longer	0	0	1	0	0
+heal	heal	0	0	1	0	0
+categoridiwydiant	industry category	0	0	1	0	0
+hidl	hidi	0	0	1	0	1
+solar	solar	0	0	1	0	0
+mwyalchen	blackbird	0	0	1	0	0
+bwriedir	proposed	0	0	1	0	0
+nodiadau	notes	0	0	1	0	0
+jennifer	jennifer	0	0	1	0	0
+categoritanwyddau	categoritanwyddau	0	0	1	0	0
+categoritanwyddau	fuels category	0	0	1	0	0
+versions	versions	0	0	1	0	0
+sylweddol	significant	0	0	1	0	1
+arabeg	arabic	0	0	1	0	0
+chadwraethau	observances	0	0	1	0	0
+helvetii	helvetii	0	0	1	0	0
+moelwyn	moelwyn	0	0	1	0	0
+smotiau	spots	0	0	1	0	0
+blogio	blogging	0	0	1	0	0
+usher	usher	0	0	1	0	0
+gwerddon	oasis	0	0	1	0	0
+fusnesau	businesses	0	0	1	0	0
+môrhwyaden	teal	0	0	1	0	0
+gronyn	particle	1	1	0	0	1
+arhosodd	remained	0	0	1	0	0
+estonia	estonia	0	0	1	0	0
+sylweddau	substances	0	0	1	0	0
+labia	labia	0	0	1	0	0
+everest	everest	0	0	1	0	0
+gweithwyr	workers	0	0	1	0	0
+geometreg	geometry	0	0	1	0	0
+bwerau	powers	0	0	1	0	0
+ni	not	0	0	1	0	1
+mhriodweddaur	mhriodweddaur	0	0	1	0	0
+px|bawd|de|y	px | thumb | de | the	0	0	1	0	0
+px|bawd|de|y	pxbawdldly	0	0	1	0	0
+no	no	0	0	1	0	0
+tit	inside back cover	0	0	1	0	0
+tymheredd	temperature	0	0	1	1	1
+when	when	0	0	1	0	0
+ne	south	0	0	1	0	0
+tir	land	1	1	1	1	1
+ng	k	0	0	1	0	0
+gynnyrch	products	0	0	1	0	0
+tin	tin	0	0	1	0	1
+ogam	zag	0	0	1	0	0
+incwm	income	0	0	1	1	1
+ŷd	orn	0	0	1	0	0
+ŷd	corn	0	0	1	0	0
+gwaelod	bottom	0	0	1	1	1
+ebyst	emails	0	0	1	0	0
+nodi	note	0	0	1	1	1
+tawdd	molten	0	0	1	1	1
+cambria	cambria	0	0	1	0	0
+khoikhoi	khoikhoi	0	0	1	0	0
+serth	steep	0	0	1	1	1
+manceinion	manchester	0	0	1	1	1
+cyhyr	muscle	0	0	1	1	1
+sefyllfa	situation	0	0	1	1	1
+lleiafrifol	minority	0	0	1	1	1
+trosglwyddor	transfer	0	0	1	0	0
+trosglwyddor	trosglwyddor	0	0	1	0	0
+gotama	gotama	0	0	1	0	0
+safonau	standards	0	0	1	0	0
+trofannau	tropics	0	0	1	0	0
+wyddor	alphabet	0	0	1	0	0
+bodloni	meet	0	0	1	0	1
+roi	give	0	0	1	0	0
+dechreuad	start	0	0	1	0	1
+canrif	century	0	0	1	1	1
+israelaiddpalesteinaidd	palestinian israeli	0	0	1	0	0
+israelaiddpalesteinaidd	israelaiddpalesteinaidd	0	0	1	0	0
+ron	ron	0	0	1	0	0
+cyfuniad	combination	0	0	1	1	1
+rob	rob	0	0	1	0	0
+roc	rock	0	0	1	0	0
+llw	oath	0	0	1	1	1
+llu	host	0	0	1	1	1
+dibyn	edge	0	0	1	0	1
+marion	marion	0	0	1	0	0
+llc	llc	0	0	1	0	0
+ros	ros	0	0	1	0	0
+ros	heath	0	0	1	0	0
+lle	where	0	0	1	0	1
+gopar	summit	0	0	1	0	0
+balesteiniaid	palestinians	0	0	1	0	0
+balesteiniaid	palestinian	0	0	1	0	0
+passage	passage	0	0	1	0	0
+gyfansoddodd	composed	0	0	1	0	0
+cynllun	plan	0	0	1	1	1
+tegla	tegla	0	0	1	0	0
+slafaidd	slavishly	0	0	1	0	0
+slafaidd	salfaidd	0	0	1	0	0
+ibrahim	ibrahim	0	0	1	0	0
+ffiseg	physics	0	0	1	1	1
+symbyliad	stimulation	0	0	1	0	1
+cook	cook	0	0	1	0	0
+li	li	0	0	1	0	0
+glyder	glyder	0	0	1	0	0
+arddull	style	0	0	1	1	1
+ysgerbwd	skeleton	0	0	1	1	1
+bumed	parents	0	0	1	0	0
+bumed	fifth	0	0	1	0	0
+cynlluniau	plans	0	0	1	0	0
+hawaii	hawaii	0	0	1	0	0
+bandemig	pandemic	0	0	1	0	0
+merlyn	merlyn	1	0	1	0	1
+merlyn	pony	1	1	1	1	1
+merlyn	agra	1	0	1	0	1
+ymysg	among	0	0	1	1	1
+science	science	0	0	1	0	0
+gollyngwyd	dropped	0	0	1	0	0
+doeth	wise	0	0	1	1	1
+pori	grazing	0	0	1	0	1
+pori	browsing	0	0	1	0	1
+gyfathrach	intercourse	0	0	1	0	0
+draddodiad	tradition	0	0	1	0	0
+pedr	peter	0	0	1	1	1
+chyfeirir	reference	0	0	1	0	0
+bakr	bakr	0	0	1	0	0
+droseddol	criminal	0	0	1	0	0
+colin	colin	0	0	1	0	0
+colin	holine	0	0	1	0	0
+cyfranc	cyfranc	0	0	1	0	1
+peidio	not	0	0	1	0	1
+chwiliedydd	probe	0	0	1	0	0
+port	port	0	0	1	0	0
+proteinau	proteins	0	0	1	0	0
+dociau	docks	0	0	1	0	0
+oeddent	they	0	0	1	0	0
+goed	trees	0	0	1	0	0
+metelig	metallic	0	0	1	0	0
+simeon	simeon	0	0	1	0	0
+cristionogion	christians	0	0	1	0	0
+ffugenw	pseudonym	0	0	1	1	1
+chofadeiladau	monuments	0	0	1	0	0
+collwyd	lost	0	0	1	0	0
+goes	leg	0	0	1	0	0
+cyngres	congress	0	0	1	1	1
+tiberius	tiberius	0	0	1	0	0
+fetel	metal	0	0	1	0	0
+ddigwydd	occur	0	0	1	0	0
+nen	sky	0	0	1	0	1
+ganlynol	following	0	0	1	0	0
+water	water	0	0	1	0	0
+witch	witch	0	0	1	0	0
+weddill	the rest	0	0	1	0	0
+weddill	rest	0	0	1	0	0
+galaţi	dalati	0	0	1	0	0
+fodrwyau	rings	0	0	1	0	0
+fardd	poet	0	0	1	0	0
+mauritius	mauritius	0	0	1	0	0
+ffitio	fittio	0	0	1	0	0
+ffitio	fit	0	0	1	0	0
+cyfystyr	synonymous	0	0	1	1	1
+gogwyddion	trends	0	0	1	0	0
+rafael	rafael	0	0	1	0	0
+addrefnu	reorganize	0	0	1	0	0
+goruchaf	supreme	0	0	1	0	1
+ynysoedd	islands	0	0	1	0	0
+balkan	balkan	0	0	1	0	0
+laddwyd	killed	0	0	1	0	0
+datblygun	datblygun	0	0	1	0	0
+enghraifft	example	0	0	1	1	1
+erotica	erotica	0	0	1	0	0
+trinidad	trinidad	0	0	1	0	0
+sefydlogrwydd	stability	0	0	1	1	1
+arbrofion	experiments	0	0	1	0	1
+pren	wood	0	0	1	1	1
+adenydd	wings	0	0	1	0	0
+russell	russell	0	0	1	0	0
+gyddfgoch	badgers	0	0	1	0	0
+kemmyn	kemmyn	0	0	1	0	0
+andy	andy	0	0	1	0	0
+lydaw	brittany	0	0	1	0	0
+pres	brass	0	0	1	1	1
+eifftaidd	egyptian	0	0	1	1	1
+cerddorfa	orchestra	0	0	1	1	1
+ngâl	gal	0	0	1	0	0
+dafodieithoedd	dialects	0	0	1	0	0
+lwyddodd	did	0	0	1	0	0
+lwyddodd	succeeded in	0	0	1	0	0
+statws	status	0	0	1	0	0
+cychwyna	cychwyna	0	0	1	0	0
+gyfer	for	0	0	1	0	0
+opsiwn	option	0	0	1	0	0
+pwyll	prudence	0	0	1	0	1
+chyfres	series	0	0	1	0	0
+autónoma	autonoma	0	0	1	0	0
+biden	biden	0	0	1	0	0
+deiniol	deiniol	0	0	1	0	0
+deyrnged	tribute	0	0	1	0	0
+poblogaethau	populations	0	0	1	0	0
+ddangos	show	0	0	1	0	0
+egluro	explain	0	0	1	1	1
+beddgelert	beddgelert	0	0	1	0	0
+fwynau	minerals	0	0	1	0	0
+°c	c	0	0	1	0	0
+gwreiddiol	original	0	0	1	1	1
+gwreiddiol	qwreiddiol	0	0	1	0	1
+benthyciad	loan	0	0	1	0	0
+ogleddol	northern	0	0	1	0	0
+rhewogydd	frosts	0	0	1	0	0
+angerddol	passionate	0	0	1	1	1
+nefoedd	heaven	0	0	1	0	0
+bessie	bessie	0	0	1	0	0
+hydrogen	hydrogen	0	0	1	0	0
+breuddwydion	dreams	0	0	1	0	0
+ifori	ivory	0	0	1	1	1
+barfog	bearded	0	0	1	1	1
+byllau	pools	0	0	1	0	0
+beale	beale	0	0	1	0	0
+alwad	call	0	0	1	0	0
+cardinal	cardinal	0	0	1	0	0
+llechwedd	slope	0	0	1	1	1
+ddeunaw	eighteen	0	0	1	0	0
+alcoholaidd	alcoholic	0	0	1	0	0
+wythfed	eighth	0	0	1	1	1
+nerthol	powerful	0	0	1	1	1
+grugiar	grouse	0	0	1	1	1
+meddiannwyd	meddiannwyd	0	0	1	0	0
+meddiannwyd	occupied	0	0	1	0	0
+gamdrin	abuse	0	0	1	0	0
+cedwir	kept	0	0	1	0	0
+gwrthwynebiad	opposition	0	0	1	0	1
+emrys	emrys	0	0	1	0	1
+enfawr	huge	0	0	1	1	1
+golygur	editing	0	0	1	0	0
+bethau	things	0	0	1	0	0
+fwlch	gap	0	0	1	0	0
+combin	combin	0	0	1	0	0
+pethau	things	0	0	1	0	0
+tierra	tierra	0	0	1	0	0
+dominyddur	dominyddur	0	0	1	0	0
+ddewis	choose	0	0	1	0	0
+ystyr	meaning	0	0	1	1	1
+aber	estuary	0	0	1	1	1
+rhybuddiodd	warned	0	0	1	0	0
+gyffroir	stirred	0	0	1	0	0
+wallace	wallace	0	0	1	0	0
+byddwch	you	0	0	1	0	0
+ferf	verb	0	0	1	0	0
+llysiau	vegetables	0	0	1	0	1
+suez	suez	0	0	1	0	0
+sylweddolodd	realized	0	0	1	0	0
+redstart	redstart	0	0	1	0	0
+sgwrs	conversation	0	0	1	1	1
+dyfodiad	advent	0	0	1	1	1
+ddileu	remove	0	0	1	0	0
+melanitta	melanitta	0	0	1	0	0
+ffrae	row	0	0	1	0	1
+beili	bailey	0	0	1	0	1
+lonely	lonely	0	0	1	0	0
+baneri	banners	0	0	1	0	0
+dinbych	denbigh	0	0	1	0	1
+isdeitlau	subtitles	0	0	1	0	0
+ysgrifennodd	wrote	0	0	1	0	0
+dacia	dacia	0	0	1	0	0
+cyfrifiad	calculation	0	0	1	0	1
+cyfrifiad	census	0	0	1	1	1
+garbon	carbon	0	0	1	0	0
+colomen	colomen	0	0	1	0	1
+colomen	pigeon	0	0	1	1	1
+cainc	ply	0	0	1	0	1
+lliwgar	colourful	0	0	1	0	0
+lliwgar	colorful	0	0	1	0	0
+jazeera	jazeera	0	0	1	0	0
+sylfaen	base	0	0	1	1	1
+bath	bath	0	0	1	1	1
+cymaint	so	0	0	1	0	1
+tern	tern	0	0	1	0	0
+scrofa	scrofa	0	0	1	0	0
+name	name	0	0	1	0	0
+opera	opera	0	0	1	0	0
+opera	a theatrical presentation	0	0	1	0	0
+gwaun	moor	0	0	1	1	1
+academy	academy	0	0	1	0	0
+craigglais	craigglais	0	0	1	0	0
+roeddent	they	0	0	1	0	0
+cydnabyddir	recognized	0	0	1	0	0
+categorigwrthdaro	categorigwrthdaro	0	0	1	0	0
+categorigwrthdaro	categorigwthdaro	0	0	1	0	0
+barbuda	barbuda	0	0	1	0	0
+llenwi	complete	0	0	1	0	1
+hallstatt	hallstatt	0	0	1	0	0
+ogwr	ogmore	0	0	1	0	0
+dengys	shows	0	0	1	0	0
+benito	benito	0	0	1	0	0
+absenoldeb	absence	0	0	1	1	1
+peirianeg	engineering	0	0	1	0	0
+haul	sun	0	0	1	1	1
+die	die	0	0	1	0	0
+cyfoeth	wealth	0	0	1	1	1
+orynys	peninsula	0	0	1	0	0
+gwehillion	gwehillion	0	0	1	0	0
+alcalïaidd	alkaline	0	0	1	0	0
+ymrithiad	ymrithiad	0	0	1	0	0
+sylweddoli	realize	0	0	1	1	1
+mhrydain	britain	0	0	1	0	0
+eagle	eagle	0	0	1	0	0
+gweledol	visual	0	0	1	0	0
+foleciwlau	molecules	0	0	1	0	0
+aberystwyth	aberystwyth	0	0	1	0	0
+goresgyniad	invasion	0	0	1	1	1
+goresgyniad	goresgynaid	0	0	1	0	1
+theori	theory	0	0	1	0	0
+gapten	captain	0	0	1	0	0
+dilyn	following	0	0	1	0	1
+addas	suitable	0	0	1	1	1
+bwyllgor	committee	0	0	1	0	0
+pandemig	pandemic	0	0	1	0	0
+perthnasol	relevant	0	0	1	0	0
+wag	empty	0	0	1	0	0
+butterflies	butterflies	0	0	1	0	0
+betws	at large	0	0	1	0	1
+ychen	ox	0	0	1	0	0
+rhannol	partly	0	0	1	0	0
+imperialaidd	imperialist	0	0	1	0	0
+gymysgu	mixing	0	0	1	0	0
+gostyngiad	reduction	0	0	1	1	1
+tarddodd	origin	0	0	1	0	0
+categoriffisegwyr	physicists category	0	0	1	0	0
+categoriffisegwyr	categoriffisegwyr	0	0	1	0	0
+porthladdoedd	ports	0	0	1	0	0
+ynghynt	earlier	0	0	1	0	0
+stribed	strip	0	0	1	0	0
+rhydderch	rhydderch	0	0	1	0	0
+fandiau	bands	0	0	1	0	0
+cynhelir	held	0	0	1	0	0
+vitiligo	vitiligo	0	0	1	0	0
+astudiaeth	study	0	0	1	1	1
+fymryn	just	0	0	1	0	0
+bydysawd	universe	0	0	1	1	1
+george	george	0	0	1	0	0
+engineer	engineeer	0	0	1	0	0
+engineer	engineer	0	0	1	0	0
+ffactorau	factors	0	0	1	0	0
+llinyn	string	0	0	1	1	1
+ian	ian	0	0	1	0	0
+blynyddoedd	years	0	0	1	0	1
+rwsiaid	russians	0	0	1	0	0
+gollyngodd	dropped	0	0	1	0	0
+iad	ent	0	0	1	0	1
+lwyddiannus	successful	0	0	1	0	0
+cartrefi	homes	0	0	1	0	0
+bahamas	bahamas	0	0	1	0	0
+israniadau	subdivisions	0	0	1	0	0
+iau	s	0	0	1	0	1
+white	white	0	0	1	0	0
+diolch	thanks	0	0	1	1	1
+eurynnod	eurynnod	0	0	1	0	0
+drywod	wrens	0	0	1	0	0
+derbyn	received	0	0	1	0	1
+hud	crifolen	1	0	1	0	1
+hud	construction	1	0	1	0	1
+hud	magic	1	1	1	1	1
+hud	hub	1	0	1	0	1
+más	out	0	0	1	0	0
+copa	summit	0	0	1	1	1
+genefa	geneva	0	0	1	0	0
+ymhobman	everywhere	0	0	1	1	1
+perthynas	relationship	0	0	1	1	1
+hun	own	0	0	1	0	1
+copi	copy	0	0	1	1	1
+montenegro	montenegro	0	0	1	0	0
+alan	alan	0	0	1	0	0
+copr	copper	0	0	1	1	1
+released	released	0	0	1	0	0
+huw	huw	0	0	1	0	1
+hur	hire	0	0	1	1	1
+alaw	tune	0	0	1	1	1
+ystyron	meanings	0	0	1	0	0
+copy	copy	0	0	1	0	0
+population	population	0	0	1	0	0
+plwm	lead	0	0	1	1	1
+pennaeth	head	0	0	1	0	1
+fylfa	vulva	0	0	1	0	0
+posib	possible	0	0	1	0	0
+meirion	meirion	0	0	1	0	0
+gŵr	husband	0	0	1	0	0
+r	the	0	0	1	0	0
+drydedd	third	0	0	1	0	0
+ddinistrio	destroyed	0	0	1	0	0
+mariner	mariner	0	0	1	0	0
+and	and	0	0	1	0	0
+llorweddol	horizontal	0	0	1	0	0
+ana	ana	0	0	1	0	0
+anc	econciliation	0	0	1	0	0
+ann	ann	0	0	1	0	0
+buwch	cow	0	0	1	1	1
+ant	ant	0	0	1	0	0
+mater	issue	0	0	1	0	1
+any	any	0	0	1	0	0
+marathon	marathon	0	0	1	0	0
+llyncu	swallowing	0	0	1	0	1
+kush	kush	0	0	1	0	0
+adlewyrchu	reflect	0	0	1	1	1
+mindanao	mindanao	0	0	1	0	0
+gustave	gustave	0	0	1	0	0
+phillips	phillips	0	0	1	0	0
+ideal	s ideal	0	0	1	0	0
+ffyngau	fungi	0	0	1	0	1
+beiriannau	machines	0	0	1	0	0
+gynnig	offer	0	0	1	0	0
+benin	benin	0	0	1	0	0
+ganrifoedd	centuries	0	0	1	0	0
+eliffant	elephant	0	0	1	1	1
+lleisiol	vocal	0	0	1	1	1
+hincks	hincks	0	0	1	0	0
+sterna	sterna	0	0	1	0	0
+ddiffinio	define	0	0	1	0	0
+ddirywiad	decline	0	0	1	0	0
+considered	considered	0	0	1	0	0
+jakarta	jakarta	0	0	1	0	0
+later	sample image	0	0	1	0	0
+clywed	substrate	0	0	1	0	1
+clywed	hear	0	0	1	1	1
+galés	gales	0	0	1	0	0
+vulgaris	vulgaris	0	0	1	0	0
+tyddewi	davids	0	0	1	0	1
+hwngariaid	hungarians	0	0	1	0	0
+troi	turn	0	0	1	1	1
+trol	cart	0	0	1	1	1
+hwyr	late	0	0	1	1	1
+ddianc	escape	0	0	1	0	0
+chenedl	nation	0	0	1	0	0
+percy	percy	0	0	1	0	0
+hwyl	fun	0	0	1	0	1
+tros	over	0	0	1	1	1
+platiau	plates	0	0	1	0	0
+cryf	strong	0	0	1	1	1
+pryfed	insects	0	0	1	0	0
+afiach	unhealthy	0	0	1	1	1
+dosbarth	class	1	1	1	1	1
+alexios	alexios	0	0	1	0	0
+gull	gull	0	0	1	0	0
+wood	wood  (in welsh  "pren")	0	0	1	0	0
+cuddio	hide	0	0	1	1	1
+unrhyw	no	0	0	1	0	1
+llechweddau	slopes	0	0	1	0	0
+arglwyddes	lady	0	0	1	1	1
+hoyw	gay	0	0	1	1	1
+awduron	authors	0	0	1	0	0
+dyw	does	0	0	1	0	0
+trawiadol	striking	0	0	1	1	1
+categorigwleidyddiaeth	categorigwleidyddiaeth	0	0	1	0	0
+nobl	noble	0	0	1	0	1
+breifat	private	0	0	1	0	0
+dyn	man	0	0	1	1	1
+ali	ali	0	0	1	0	0
+ddawns	dance	0	0	1	0	0
+seiriol	puffin	0	0	1	0	0
+arwyddion	signs	0	0	1	0	0
+caneuon	songs	0	0	1	0	0
+storïau	stories	0	0	1	0	0
+priodweddaur	priodweddaur	0	0	1	0	0
+gwladol	national	0	0	1	0	1
+ddymchwel	demolition	0	0	1	0	0
+ffynhonnau	wells	0	0	1	0	1
+llygredd	pollution	0	0	1	0	1
+almaenig	measles	0	0	1	0	1
+médica	medica	0	0	1	0	0
+canmlwyddiant	centenary	0	0	1	1	1
+trefnu	organizing	0	0	1	0	1
+trefnu	arranged	0	0	1	0	1
+brin	rare	0	0	1	0	0
+ynghau	closed	0	0	1	0	0
+rms	rms	0	0	1	0	0
+beethoven	beethoven	0	0	1	0	0
+publishers	publisher	0	0	1	0	0
+publishers	publishers	0	0	1	0	0
+mtv	mtv	0	0	1	0	0
+gweler	see	0	0	1	0	0
+college	college	0	0	1	0	0
+theledu	tv	0	0	1	0	0
+stanley	stanley	0	0	1	0	0
+cyflogi	employed	0	0	1	0	1
+hirdymor	long-term	0	0	1	0	0
+gwylwyr	viewers	0	0	1	0	0
+shiva	shiva	0	0	1	0	0
+shiva	social	0	0	1	0	0
+categoribrenhinoedd	categoribrenhinoedd	0	0	1	0	0
+brif	main	0	0	1	0	0
+woolf	woolf	0	0	1	0	0
+nauru	nauru	0	0	1	0	0
+ffliwr	ffliwr	0	0	1	0	0
+gwynant	gwynant	0	0	1	0	0
+cynhyrchodd	produced	0	0	1	0	0
+ffliwt	flute	0	0	1	0	0
+tanio	firing	0	0	1	0	1
+guitar	guitar	0	0	1	0	0
+como	como	0	0	1	0	0
+cyrraedd	reach	0	0	1	1	1
+come	come	0	0	1	0	0
+uniongyrchol	direct	0	0	1	0	0
+gynhyrchu	production	0	0	1	0	0
+glaslyn	glaslyn	0	0	1	0	0
+libya	libya	0	0	1	0	0
+cynulleidfaoedd	audiences	0	0	1	0	0
+adnabod	identification	0	0	1	0	1
+region	region	0	0	1	0	0
+orfodir	imposed	0	0	1	0	0
+sicilia	sicily	0	0	1	0	0
+berry	berry	0	0	1	0	0
+hunangysegru	hunangysegru	0	0	1	0	0
+railway	railway	0	0	1	0	0
+amaethyddol	agricultural	0	0	1	1	1
+droseddau	offenses	0	0	1	0	0
+pakistan	pakistan	0	0	1	0	0
+brecht	brecht	0	0	1	0	0
+cemegol	chemical	0	0	1	1	1
+lwybrau	routes	0	0	1	0	0
+pot	pot	0	0	1	1	1
+thyfodd	grew	0	0	1	0	0
+colony	colony	0	0	1	0	0
+pop	pop	0	0	1	0	0
+deuddeg	twelve	0	0	1	1	1
+dduon	black	0	0	1	0	0
+masnachwyr	traders	0	0	1	0	0
+pob	all	0	0	1	1	1
+ychwanegodd	added	0	0	1	0	0
+chael	have	0	0	1	0	0
+ddechreuwyd	started	0	0	1	0	0
+ddioddef	suffer	0	0	1	0	0
+howard	howard	0	0	1	0	0
+gofnodion	records	0	0	1	0	0
+chwaraewyd	chawaraewyd	0	0	1	0	0
+chwaraewyd	played	0	0	1	0	0
+rheilffordd	railway	0	0	1	1	1
+categoriadloniant	entertainment category	0	0	1	0	0
+categoriadloniant	categoriadloniant	0	0	1	0	0
+hamddiffyn	protected	0	0	1	0	0
+faterion	issues	0	0	1	0	0
+chwaraewyr	players	0	0	1	0	0
+edmund	edmund	0	0	1	0	0
+penderfynwyd	decided	0	0	1	0	0
+seintiau	saints	0	0	1	0	1
+oenanthe	oenanthe	0	0	1	0	0
+andrew	andrew	0	0	1	0	0
+marwolaethau	deaths	0	0	1	0	0
+tiger	tiger	0	0	1	0	0
+eglwysi	churches	0	0	1	0	0
+eglwysi	edlwysi	0	0	1	0	0
+golchi	wash	0	0	1	1	1
+andrea	andrea	0	0	1	0	0
+tamil	tamil	0	0	1	0	0
+thrwyr	thrwyr	0	0	1	0	0
+thrwyr	wax	0	0	1	0	0
+nghyfnod	nghyfond	0	0	1	0	0
+nghyfnod	stage	0	0	1	0	0
+hughes	hughes	0	0	1	0	0
+casa	casa	0	0	1	0	0
+cylchfa	zone	0	0	1	0	0
+mount	mount	0	0	1	0	0
+testun	text	0	0	1	1	1
+arnold	arnold	0	0	1	0	0
+cast	cast	0	0	1	1	1
+dymuniad	desire	0	0	1	1	1
+penodol	specific	0	0	1	1	1
+groegwyr	greeks	0	0	1	0	0
+athrawon	teachers	0	0	1	0	1
+bêl	ball	0	0	1	0	0
+enillwyr	winners	0	0	1	0	0
+rhestr	list	0	0	1	1	1
+good	good	0	0	1	0	0
+enillwyd	earned	0	0	1	0	0
+oddeutu	approximately	0	0	1	0	1
+ciconiiformes	ciconiiformes	0	0	1	0	0
+bahrain	bahrain	0	0	1	0	0
+cyfeiriar	cyfeiriar	0	0	1	0	0
+cyfeiriar	refer	0	0	1	0	0
+magyar	magyar	0	0	1	0	0
+ethiopia	ethiopia	0	0	1	0	0
+html	html	0	0	1	0	0
+symiau	amounts	0	0	1	0	1
+cynyddu	increase	0	0	1	1	1
+cynyddu	increasing	0	0	1	0	1
+cyfeiriad	address	0	0	1	1	1
+ffync	funk	0	0	1	0	0
+leonid	leonid	0	0	1	0	0
+faginaidd	faginaidd	0	0	1	0	0
+nest	nest	0	0	1	0	0
+tweed	tweed	0	0	1	0	0
+gryno	summary	0	0	1	0	0
+mynydd	mountain	0	0	1	1	1
+torfol	mass	0	0	1	0	0
+moddion	medicine	0	0	1	1	1
+pennsylvania	pennsylvania	0	0	1	0	0
+pobloedd	peoples	0	0	1	0	0
+gwerthu	sale	0	0	1	0	1
+ffurfdroad	inflection	0	0	1	0	0
+uíbh	uibh	0	0	1	0	0
+without	without	0	0	1	0	0
+jersey	jersey	0	0	1	0	0
+cynllunio	planning	0	0	1	0	1
+arsylwadau	observations	0	0	1	0	0
+cymuned	community	0	0	1	1	1
+model	model	0	0	1	0	0
+ayutthaya	ayutthaya	0	0	1	0	0
+gynnydd	progress	0	0	1	0	0
+esboniodd	explained	0	0	1	0	0
+gavia	gavia	0	0	1	0	0
+janet	janet	0	0	1	0	0
+cofnododd	recorded	0	0	1	0	0
+gavin	gavin	0	0	1	0	0
+hyfforddwr	coach	0	0	1	0	1
+feichiog	pregnant	0	0	1	0	0
+allforion	exports	0	0	1	1	1
+elfen	mathematics	1	0	1	0	1
+elfen	element	1	1	1	1	1
+harrison	harrison	0	0	1	0	0
+polisi	policy	0	0	1	1	1
+cerfiedig	carved	0	0	1	0	0
+baldwin	baldwin	0	0	1	0	0
+zubizarreta	zubizarreta	0	0	1	0	0
+rheolir	management	0	0	1	0	0
+pwll	pool	0	0	1	1	1
+gymdeithasol	social	0	0	1	0	0
+bryn	hill	0	0	1	1	1
+redthroated	redthroated	0	0	1	0	0
+tim	team	0	0	1	0	0
+px|bawd|rhan	px thumb part	0	0	1	0	0
+px|bawd|rhan	px / thumb / part	0	0	1	0	0
+cyflenwad	supply	0	0	1	1	1
+bryd	time	0	0	1	0	1
+blog	blog	0	0	1	0	0
+wall	wall	0	0	1	0	0
+wall	error	0	0	1	0	0
+bloc	block	0	0	1	0	0
+cafwyd	was	0	0	1	0	0
+ross	ross	0	0	1	0	0
+llinellau	lines	0	0	1	0	0
+delhi	delhi	0	0	1	0	0
+virginia	virginia	0	0	1	0	0
+oesoedd	ages	0	0	1	0	0
+cyfansoddi	composition	0	0	1	0	1
+cyfarfu	met	0	0	1	0	0
+natblygiad	development	0	0	1	0	0
+ymgiprys	maneuvering	0	0	1	0	1
+iduna	iduna	0	0	1	0	0
+kennedy	kennedy	0	0	1	0	0
+llythrennol	literally	0	0	1	0	1
+patrick	patrick	0	0	1	0	0
+drafodaeth	discussion	0	0	1	0	0
+nhwrci	turkey	0	0	1	0	0
+alw	call	0	0	1	0	0
+rhyd	ford	0	0	1	1	1
+gwasanaethydd	server	0	0	1	0	1
+gwsg	sleep	0	0	1	0	0
+thoracs	thorax	0	0	1	0	0
+deddfwriaeth	legislation	0	0	1	1	1
+são	são	0	0	1	0	0
+são	sao	0	0	1	0	0
+carfil	auk	0	0	1	0	0
+alltudiwyd	exiled	0	0	1	0	0
+pacific	pacific	0	0	1	0	0
+japanese	japanese	0	0	1	0	0
+gyflawni	achieve	0	0	1	0	0
+etholedig	elected	0	0	1	0	1
+adweithia	adweithia	0	0	1	0	0
+adweithio	reaction	0	0	1	0	0
+diffiniadau	definitions	0	0	1	0	0
+ysgolheictod	scholarship	0	0	1	1	1
+rwseg	russian	0	0	1	0	0
+ffrangeg	french	0	0	1	0	1
+provided	provided	0	0	1	0	0
+tynnur	tynnur	0	0	1	0	0
+luoedd	forces	0	0	1	0	0
+rôl	role	0	0	1	0	0
+llwyddo	successful	0	0	1	0	1
+dudley	dudley	0	0	1	0	0
+legal	legal	0	0	1	0	0
+ychwanegiadau	additions	0	0	1	0	0
+gomer	gomer	0	0	1	0	0
+gantores	singer	0	0	1	0	0
+cofnodi	record	0	0	1	1	1
+cyfrannu	contribute	0	0	1	1	1
+ddefnyddid	used	0	0	1	0	0
+gyfandiroedd	continents	0	0	1	0	0
+ddefnyddio	use	0	0	1	0	0
+mandelan	mendelan	0	0	1	0	0
+mandelan	mandelan	0	0	1	0	0
+hormon	hormone	0	0	1	0	0
+ngorffennaf	july	0	0	1	0	0
+naill	one	0	0	1	0	1
+dylanwadun	dylanwadun	0	0	1	0	0
+afrikaans	afrikaans	0	0	1	0	0
+afrikaans	africans	0	0	1	0	0
+on	on	0	0	1	0	0
+ol	after	0	0	1	0	1
+oi	of i	0	0	1	0	0
+oi	computing	0	0	1	0	0
+oh	oh	0	0	1	0	0
+of	of	0	0	1	0	0
+of	land	0	0	1	0	0
+oc	oc	0	0	1	0	0
+cudd	hidden	0	0	1	1	1
+cudd	hidde	0	0	1	0	1
+gyfrifol	responsible	0	0	1	0	0
+dyled	debt	0	0	1	1	1
+dyled	your	0	0	1	0	1
+goncwest	conquest	0	0	1	0	0
+brwynog	rushy	0	0	1	1	1
+emosiynol	emotional	0	0	1	1	1
+awyr	air	0	0	1	1	1
+ou	ou	0	0	1	0	0
+os	os	0	0	1	0	1
+os	if	0	0	1	1	1
+or	or	0	0	1	0	0
+pencampwyr	champions	0	0	1	0	0
+garn	garn	0	0	1	0	0
+garn	stage	0	0	1	0	0
+cambridge	cambridge	0	0	1	0	0
+synhwyrol	sensible	0	0	1	1	1
+gyrrwyd	powered	0	0	1	0	0
+denau	thin	0	0	1	0	0
+mwyafrif	majority	0	0	1	1	1
+wahan	apart	0	0	1	0	0
+emberiza	emberiza	0	0	1	0	0
+augustus	augustus	0	0	1	0	0
+hebreaid	hebrews	0	0	1	0	0
+gary	gary	0	0	1	0	0
+burton	burton	0	0	1	0	0
+garw	rough	0	0	1	1	1
+garw	up	0	0	1	0	1
+garu	love	0	0	1	0	0
+corsica	corsican	0	0	1	0	0
+corsica	corsica	0	0	1	0	0
+cynffon	tail	0	0	1	1	1
+agwedd	attitude	0	0	1	1	1
+there	bere	0	0	1	0	0
+ymwybyddiaeth	awareness	0	0	1	0	1
+wladychwyd	colonized	0	0	1	0	0
+brydain	britain	0	0	1	0	0
+nitrig	nitric	0	0	1	0	0
+rhaniad	partition	0	0	1	0	1
+budd	benefit	0	0	1	1	1
+drefn	procedure	0	0	1	0	0
+drefi	towns	0	0	1	0	0
+angheuol	fatal	0	0	1	1	1
+brodorol	native	0	0	1	1	1
+cabinet	cabinet	0	0	1	0	0
+haniaethol	abstract	0	0	1	1	1
+gallico	gallico	0	0	1	0	0
+chwant	lust	0	0	1	1	1
+wneir	made	0	0	1	0	0
+seddau	down	0	0	1	0	0
+seddau	seats	0	0	1	0	0
+sgiliau	skills	0	0	1	0	0
+rwystror	prevented	0	0	1	0	0
+rowling	rowling	0	0	1	0	0
+cronfa	fund	0	0	1	1	1
+cychwynnodd	started	0	0	1	0	0
+syniadaeth	thinking	0	0	1	0	0
+baganaidd	pagan	0	0	1	0	0
+addysgu	teaching	0	0	1	0	1
+ucheldiroedd	highlands	0	0	1	0	0
+categorisefydliadau	category: institutions	0	0	1	0	0
+categorisefydliadau	categorisefydliadau	0	0	1	0	0
+felis	felis	0	0	1	0	0
+categorifed	categorifed	0	0	1	0	0
+taylor	taylor	0	0	1	0	0
+acen	accent	0	0	1	1	1
+sensitif	sensitive	0	0	1	0	0
+ifainc	young	0	0	1	0	0
+categorimeddalwedd	categorimeddalwedd	0	0	1	0	0
+cyfrifiadurol	computer	0	0	1	0	1
+britain	britian	0	0	1	0	0
+britain	britain	0	0	1	0	0
+digymraeg	digymraeg	0	0	1	0	0
+ystafell	room	0	0	1	1	1
+bertolt	bertolt	0	0	1	0	0
+hafren	severn	0	0	1	1	1
+bedr	bedr	0	0	1	0	0
+agosaf	nearest	0	0	1	0	0
+glaniodd	landed	0	0	1	0	0
+divali	divali	0	0	1	0	0
+modron	modron	0	0	1	0	0
+hwn	this	0	0	1	0	0
+bacsiog	bacsiog	0	0	1	0	0
+sefyllfan	sefyllfan	0	0	1	0	0
+achosodd	caused	0	0	1	0	0
+ymddygiadau	behaviors	0	0	1	0	0
+symbol	symbol	0	0	1	0	0
+terfyniad	termination	0	0	1	1	1
+hunanladdiad	suicide	0	0	1	1	1
+pysgod	fish	0	0	1	0	0
+kingsley	kingsley	0	0	1	0	0
+hwy	they	0	0	1	0	1
+sulla	sulla	0	0	1	0	0
+sefyllfar	sefyllfar	0	0	1	0	0
+rhagenwau	pronouns	0	0	1	0	0
+oriel	gallery	0	0	1	1	1
+llechir	slate	0	0	1	0	0
+llechir	llechir	0	0	1	0	0
+ryfelwyr	warriors	0	0	1	0	0
+oddi	from	0	0	1	1	1
+lwyfan	platform	0	0	1	0	0
+llechin	llechin	0	0	1	0	0
+claddu	burial	0	0	1	0	1
+negyddol	negative	0	0	1	1	1
+rhyddfrydol	liberal	0	0	1	1	1
+ymsefydlu	induction	0	0	1	0	1
+duon	black	0	0	1	0	0
+cwch	boat	0	0	1	1	1
+hamburg	hamburg	0	0	1	0	0
+fuego	fuego	0	0	1	0	0
+larus	larus	0	0	1	0	0
+cymedrig	mean	0	0	1	0	0
+categoribywyd	catagories:life	0	0	1	0	0
+categoribywyd	categoribywyd	0	0	1	0	0
+cyfansoddwyr	composers	0	0	1	0	0
+gymhwysol	applied	0	0	1	0	0
+disg	disk	0	0	1	0	0
+tanciau	tanks	0	0	1	0	0
+galluogir	enabled	0	0	1	0	0
+gwilym	gwilym	0	0	1	0	1
+cyhoeddi	published	0	0	1	0	1
+gludor	gludor	0	0	1	0	0
+tynnwyd	was removed	0	0	1	0	0
+credoau	beliefs	0	0	1	0	0
+aaron	aaron	0	0	1	0	0
+present	present	0	0	1	1	1
+awyddus	keen	0	0	1	0	1
+croyw	fresh	0	0	1	1	1
+categorigwleidyddion	categorigwleidyddion	0	0	1	0	0
+esther	esther	0	0	1	0	0
+egyptian	egyptian	0	0	1	0	0
+fas	shallow	0	0	1	0	0
+himantopus	himantopus	0	0	1	0	0
+fai	fault	0	0	1	0	0
+verwoerd	verwoerd	0	0	1	0	0
+fam	mother	0	0	1	0	0
+fab	son	0	0	1	0	0
+sony	sony	0	0	1	0	0
+fae	bay	0	0	1	0	0
+deithio	travel	0	0	1	0	0
+ymhob	all	0	0	1	0	1
+roy	roy	0	0	1	0	0
+list	list	0	0	1	0	0
+gefn	back	0	0	1	0	0
+é	é	0	0	1	0	0
+é	e	0	0	1	0	0
+pregethu	preaching	0	0	1	0	1
+bedwerydd	fourth	0	0	1	0	0
+lisa	lisa	0	0	1	0	0
+perswadiwyd	persuaded	0	0	1	0	0
+boblogaidd	popular	0	0	1	0	0
+ardudwy	ardudwy	0	0	1	0	0
+bwysau	pressure	0	0	1	0	0
+fietnam	vietnam	0	0	1	0	0
+galluog	able	0	0	1	1	1
+louvre	louvre	0	0	1	0	0
+adawyd	left	0	0	1	0	0
+dynion	men	0	0	1	0	0
+robyn	robyn	0	0	1	0	0
+teg	fair	0	0	1	1	1
+île	ile	0	0	1	0	0
+regulus	regulus	0	0	1	0	0
+nbc	nbc	0	0	1	0	0
+fandaliaeth	vandalism	0	0	1	1	1
+gwefr	charge	0	0	1	0	1
+ïonau	ions	0	0	1	0	0
+ïonau	lane	0	0	1	0	0
+haag	haag	0	0	1	0	0
+what	what	0	0	1	0	0
+magnolia	magnolia	0	0	1	0	0
+sul	sunday	0	0	1	1	1
+arweinyddiaeth	leadership	0	0	1	1	1
+version	version	0	0	1	0	0
+sus	sus	0	0	1	0	0
+sur	sour	0	0	1	1	1
+sur	ar	0	0	1	0	1
+diddymu	dissolved	0	0	1	0	1
+maluku	maluku	0	0	1	0	0
+llygoden	mouse	0	0	1	1	1
+christian	christian	0	0	1	0	0
+gaffein	caffeine	0	0	1	0	0
+cynharach	earlier	0	0	1	0	0
+crowley	crowley	0	0	1	0	0
+bidyn	penis	0	0	1	0	0
+leeds	leeds	0	0	1	0	0
+enwodd	named	0	0	1	0	0
+croesgadau	crusades	0	0	1	0	0
+jeriwsalem	jerusalem	0	0	1	0	0
+dymuno	like	0	0	1	0	1
+comunidad	comunidad	0	0	1	0	0
+longau	ships	0	0	1	0	0
+dibynnol	dependent	0	0	1	1	1
+gwlân	wool	0	0	1	0	0
+heibio	past	0	0	1	1	1
+procellariiformes	procellariiformes	0	0	1	0	0
+ynni	energy	0	0	1	1	1
+ceisiodd	sought	0	0	1	0	0
+texts	texts	0	0	1	0	0
+tarddiant	outbreak	0	0	1	0	0
+tarddiant	tarrdiant	0	0	1	0	0
+clifford	clifford	0	0	1	0	0
+cynhyrchwyd	produced	0	0	1	0	0
+fôr	for	0	0	1	0	0
+ddatrys	fix	0	0	1	0	0
+ddatrys	solve	0	0	1	0	0
+hwyrach	later	0	0	1	0	1
+faint	size	0	0	1	0	1
+ailymgnawdoli	reincarnated	0	0	1	0	0
+clymu	tie	0	0	1	1	1
+llenyddiaeth	literature	0	0	1	1	1
+cyfarfod	meeting	0	0	1	1	1
+dduw	god	0	0	1	0	0
+cynghreiriaid	allies	0	0	1	0	0
+minor	minur	0	0	1	0	0
+fôn	fon	0	0	1	0	0
+israel	israel	0	0	1	0	0
+rydw	i	0	0	1	0	0
+glas	blue	0	0	1	1	1
+gadwr	keep the	0	0	1	0	0
+ymosodiad	attack	0	0	1	1	1
+roddir	given	0	0	1	0	0
+pwyslais	pwysalis	0	0	1	0	1
+pwyslais	emphasis	0	0	1	1	1
+gleifion	patients	0	0	1	0	0
+glan	bank	0	0	1	1	1
+cantores	singer	0	0	1	0	1
+known	known	0	0	1	0	0
+rydd	free	0	0	1	0	0
+glyderau	glyderau	0	0	1	0	0
+jim	jim	0	0	1	0	0
+armeniaid	armenians	0	0	1	0	0
+eden	eden	0	0	1	0	0
+gefnogir	supported	0	0	1	0	0
+lluosogaeth	pluralism	1	1	0	0	0
+wahardd	ban	0	0	1	0	0
+wahardd	banned	0	0	1	0	0
+wicipedia	wikipedia	0	0	1	0	0
+v	v	0	0	1	0	0
+benderfyniad	decision	0	0	1	0	0
+cymreig	welsh	0	0	1	1	1
+diriogaeth	territory	0	0	1	0	0
+pont	bridge	0	0	1	1	1
+anglesey	anglesey	0	0	1	0	0
+weimar	weimar	0	0	1	0	0
+llywelyn	llywelyn	0	0	1	0	0
+court	court	0	0	1	0	0
+bentrefi	villages	0	0	1	0	0
+corff	body	0	0	1	1	1
+johannesburg	johannesburg	0	0	1	0	0
+llythrennedd	literacy	0	0	1	0	0
+buenos	buenos	0	0	1	0	0
+gymeriad	character	0	0	1	0	0
+anghytuno	disagree	0	0	1	1	1
+maith	long	0	0	1	1	1
+syrthiodd	fell	0	0	1	0	0
+gogleddddwyreiniol	gogleddddwyreiniol	0	0	1	0	0
+gogleddddwyreiniol	gogledddwyreiniol	0	0	1	0	0
+perl	pearl	0	0	1	1	1
+catalog	catalog	0	0	1	0	0
+hastudio	study	0	0	1	0	0
+enillwr	winner	0	0	1	1	1
+hindŵaeth	hinduism	0	0	1	0	0
+ardd	garden	0	0	1	0	0
+susan	susan	0	0	1	0	0
+marlon	marlon	0	0	1	0	0
+daethpwyd	was	0	0	1	0	0
+ensymatig	enzymatic	0	0	1	0	0
+px|bawd|llun	pxlbawdlllun	0	0	1	0	0
+caur	gold	0	0	1	0	0
+comiwnyddiaeth	communism	0	0	1	1	1
+arizona	arizona	0	0	1	0	0
+taro	hit	0	0	1	1	1
+gyntaf	first	0	0	1	0	0
+cystadleuaeth	competition	0	0	1	1	1
+lahiya	fahiya	0	0	1	0	0
+bowys	sawmill	0	0	1	0	0
+dewiswyd	selected	0	0	1	0	0
+ehangur	expansion of	0	0	1	0	0
+cymraeg	welsh	0	0	1	0	1
+goruchel	supreme	0	0	1	1	1
+islam	islam	0	0	1	0	0
+style	style	0	0	1	0	0
+parhaol	permanent	0	0	1	0	0
+edmwnd	edmund	0	0	1	0	0
+edmwnd	edmwnd	0	0	1	0	0
+fairbanks	fairbanks	0	0	1	0	0
+cadw	keep	0	0	1	1	1
+fomiau	bombs	0	0	1	0	0
+defnydd	use	0	0	1	1	1
+mustela	mustela	0	0	1	0	0
+stephen	stephen	0	0	1	0	0
+roeddynt	they	0	0	1	0	0
+argentina	argentina	0	0	1	0	0
+wareiddiad	civilization	0	0	1	0	0
+ddeurywiol	bisexual	0	0	1	0	0
+oroesodd	survived	0	0	1	0	0
+sylwer	note	0	0	1	0	0
+bawd|px|baner	thumb! px! flag	0	0	1	0	0
+aconcagua	aconcagua	0	0	1	0	0
+lawysgrifau	manuscripts	0	0	1	0	0
+bollywood	bollywood	0	0	1	0	0
+ymgyrchoedd	campaigns	0	0	1	0	0
+gyfan	all	0	0	1	0	0
+lanberis	llanberis	0	0	1	0	0
+dona	dona	0	0	1	0	0
+yno	there	0	0	1	1	1
+blaenoriaeth	priority	0	0	1	0	1
+gollwyd	lost	0	0	1	0	0
+chynnwys	content	0	0	1	0	0
+fertebratau	kush	0	0	1	0	0
+fertebratau	vertebrates	0	0	1	0	0
+erlid	chase	0	0	1	0	1
+elusennau	charities	0	0	1	0	0
+yna	there	0	0	1	1	1
+nghaliffornia	california	0	0	1	0	0
+bwer	power	0	0	1	0	0
+gwerinwyr	peasants	0	0	1	0	0
+sillafiad	spelling	0	0	1	1	1
+celtiaid	celts	0	0	1	0	0
+swyddfeydd	offices	0	0	1	0	0
+uniaith	only	0	0	1	0	1
+brother	brother	0	0	1	0	0
+moroedd	seas	0	0	1	0	0
+cymerwyd	taken	0	0	1	0	0
+linach	dynasty	0	0	1	0	0
+cefnwr	full-back	0	0	1	0	0
+pwynt	point	0	0	1	1	1
+brythoniaid	britons	0	0	1	0	0
+ddaearyddiaeth	geography	0	0	1	0	0
+edwino	decline	0	0	1	0	0
+alcohol	alcohol	0	0	1	1	1
+fyddinoedd	armies	0	0	1	0	0
+gaethweision	slave	0	0	1	0	0
+nepal	nepal	0	0	1	0	0
+ddynol	human	0	0	1	0	0
+umkhonto	umkhonto	0	0	1	0	0
+cancr	cancer	0	0	1	1	1
+hill	hill	0	0	1	0	0
+pwnc	topic	0	0	1	0	1
+asetig	acetic	0	0	1	0	0
+get	get	0	0	1	0	0
+benjamin	benjamin	0	0	1	0	0
+benjamin	climbers	0	0	1	0	0
+hepburn	hepburn	0	0	1	0	0
+dirgryniadau	vibrations	0	0	1	0	0
+caniatâd	permission	0	0	1	0	0
+parhaodd	continued	0	0	1	0	0
+pethaun	pethaun	0	0	1	0	0
+ffermwr	farmer	0	0	1	0	1
+hydrin	manageable	0	0	1	0	1
+gatholig	catholic	0	0	1	0	0
+oedolyn	adult	0	0	1	1	1
+tsunamis	tsunamis	0	0	1	0	0
+gohirio	delayed	0	0	1	0	1
+gohirio	gelayed	0	0	1	0	1
+cerddi	poems	0	0	1	0	0
+deddwyrain	south-east	0	0	1	0	0
+codwyd	raised	0	0	1	0	0
+sifiliaid	civilians	0	0	1	0	0
+gestyll	castles	0	0	1	0	0
+rhosyn	rose	0	0	1	1	1
+ffidil	violin	0	0	1	0	0
+pencerdd	pencerdd	0	0	1	0	1
+cyfryngau	media	0	0	1	0	1
+blant	children	0	0	1	0	0
+frech	rash	0	0	1	0	0
+coleg	college	0	0	1	1	1
+coleg	collegue	0	0	1	0	1
+diflannodd	disappeared	0	0	1	0	0
+gormod	too	0	0	1	0	0
+ymyrraeth	intervention	0	0	1	0	1
+dywediadau	sayings	0	0	1	0	0
+crossbill	nose	0	0	1	0	0
+crossbill	crossbill	0	0	1	0	0
+colombia	colombia	0	0	1	0	0
+flycatcher	flycatcher	0	0	1	0	0
+bwriadu	plan	0	0	1	0	1
+categorimoeseg	category: ethics	0	0	1	0	0
+categorimoeseg	category ethics	0	0	1	0	0
+categorimoeseg	categorimoeseg	0	0	1	0	0
+idris	idris	0	0	1	0	0
+blanc	blanc	0	0	1	0	0
+story	story	0	0	1	0	0
+gyfundrefn	system	0	0	1	0	0
+orchfygu	overcome	0	0	1	0	0
+cyfle	opportunity	0	0	1	1	1
+beibl	bible	0	0	1	1	1
+stori	story	0	0	1	1	1
+ddifrodi	damage	0	0	1	0	0
+storm	storm	0	0	1	1	1
+gpt	gpt	0	0	1	0	0
+verdun	verdun	0	0	1	0	0
+ecuador	ecuador	0	0	1	0	0
+broses	process	0	0	1	0	0
+llanfaethlu	llanfaethlu	0	0	1	0	0
+mynediad	access	0	0	1	1	1
+llewelyn	llewelyn	0	0	1	0	0
+fflorens	florence	0	0	1	0	0
+plygiant	playgiant	1	0	1	0	0
+plygiant		1	0	1	0	0
+plygiant	25	1	0	1	0	0
+plygiant	twenty five	1	0	1	0	0
+plygiant	refraction	1	1	0	0	0
+alesia	alesia	0	0	1	0	0
+king	king	0	0	1	0	0
+king	brenin	0	0	1	0	0
+kind	kind	0	0	1	0	0
+goesgoch	legged	0	0	1	0	0
+gorfforaeth	corporation	0	0	1	0	0
+jpickup	jpickup	0	0	1	0	0
+cyfalaf	capital	0	0	1	1	1
+dinistr	destruction	0	0	1	1	1
+gân	by	0	0	1	0	0
+lloches	seekers	0	0	1	0	1
+gramadeg	grammar	0	0	1	1	1
+gyfrinachol	confidential	0	0	1	0	0
+shrike	shrike	0	0	1	0	0
+categoriunedau	categoriunedau	0	0	1	0	0
+galw	demand	0	0	1	0	1
+treialon	trials	0	0	1	0	0
+wahaniaethau	differences	0	0	1	0	0
+etifeddol	hereditary	0	0	1	1	1
+chipiodd	captured	0	0	1	0	0
+nghaer	fort	0	0	1	0	0
+gall	can	0	0	1	0	0
+fflemeg	flemish	0	0	1	1	1
+caerwyn	caerwyn	0	0	1	0	0
+routledge	routledge	0	0	1	0	0
+wilson	wilson	0	0	1	0	0
+gwmpas	around	0	0	1	0	0
+tylluan	owl	0	0	1	1	1
+bacteria	bacteria	0	0	1	0	1
+argyfwng	emergency	0	0	1	0	1
+efo	with	0	0	1	1	1
+branta	granta	0	0	1	0	0
+darganfyddiad	discovery	0	0	1	1	1
+rol	role	0	0	1	0	0
+etifeddu	inherit	0	0	1	1	1
+added	added	0	0	1	0	0
+anwes	pet	0	0	1	0	1
+crewyd	created	0	0	1	0	0
+hoff	favorite	0	0	1	1	1
+helaeth	extensive	0	0	1	1	1
+amau	suspect	0	0	1	1	1
+stiwdios	studios	0	0	1	0	0
+gorffennaf	july	0	0	1	1	1
+berwbwyntiau	boiling points	0	0	1	0	0
+lanthanidau	lanthanidau	0	0	1	0	0
+amonia	amonia	0	0	1	0	0
+amonia	ammonia	0	0	1	0	0
+nothing	nothing	0	0	1	0	0
+lechfaen	slate	0	0	1	0	0
+dewisodd	chose	0	0	1	0	0
+sibh	sibh	0	0	1	0	0
+sianeli	channels	0	0	1	0	0
+amldduwiaeth	polytheism	0	0	1	1	1
+madog	madog	0	0	1	0	0
+windows	windows	0	0	1	0	0
+chwarae	play	0	0	1	1	1
+oedd	was	0	0	1	0	0
+oedd	were	0	0	1	0	0
+lwyth	load	0	0	1	0	0
+tebygrwydd	similarity	0	0	1	0	1
+stones	stones	0	0	1	0	0
+vinnie	vinnie	0	0	1	0	0
+mexico	mexico	0	0	1	0	0
+ddisgrifir	described	0	0	1	0	0
+kosovo	kosovo	0	0	1	0	0
+juliana	juliana	0	0	1	0	0
+dolbadarn	dolbadarn	0	0	1	0	0
+ddisgrifio	describe	0	0	1	0	0
+cwpled	couplet	0	0	1	1	1
+caethwas	slave	0	0	1	1	1
+categoricredoau	categoricredoau	0	0	1	0	0
+tinwen	harrier	0	0	1	0	0
+traul	expense	0	0	1	1	1
+aethpwyd	were	0	0	1	0	0
+henfyd	ancient	0	0	1	0	0
+moses	moses	0	0	1	0	0
+anawsterau	difficulties	0	0	1	0	1
+hip	hip	0	0	1	0	0
+hir	long	0	0	1	1	1
+his	his	0	0	1	0	0
+hiv	hiv	0	0	1	0	0
+enwocaf	most famous	0	0	1	0	0
+fordaith	cruise	0	0	1	0	0
+byddain	it would	0	0	1	0	0
+defnyddid	used	0	0	1	0	0
+byddair	would	0	0	1	0	0
+defaid	sheep	0	0	1	0	1
+cefnogaeth	support	0	0	1	1	1
+yamuna	yamuna	0	0	1	0	0
+defnyddio	use	0	0	1	1	1
+hil	race	0	0	1	1	1
+him	him	0	0	1	0	0
+hin	it	0	0	1	0	1
+hin	hin	0	0	1	0	1
+moldofa	moldova	0	0	1	0	0
+dosbarthwyd	distributed	0	0	1	0	0
+budapest	budapest	0	0	1	0	0
+tywys	guide	0	0	1	1	1
+cofalent	covalent	0	0	1	0	0
+ottomaniaid	ottomaniaid	0	0	1	0	0
+nickelodeon	nickelodeon	0	0	1	0	0
+nickelodeon	nickeldeon	0	0	1	0	0
+gyhoeddi	published	0	0	1	0	0
+ynddynt	in	0	0	1	0	0
+tywyn	warren	0	0	1	0	1
+vincent	vincent	0	0	1	0	0
+diffwys	diffwys	0	0	1	0	1
+art	art	0	0	1	0	0
+bara	bread	0	0	1	1	1
+barc	barque	1	1	0	0	1
+arc	arc	0	0	1	1	1
+are	are	0	0	1	0	0
+gristnogion	gristnogin	0	0	1	0	0
+gristnogion	christians	0	0	1	0	0
+barn	views	0	0	1	0	1
+swisdir	switzerland	0	0	1	0	0
+lleithder	moisture	0	0	1	1	1
+baines	baines	0	0	1	0	0
+hwngari	hungary	0	0	1	0	0
+armellog	uncle	1	0	1	0	0
+armellog	paternal uncle	1	0	1	0	0
+armellog	armadillo	1	1	0	0	0
+armellog	armellog	1	0	1	0	0
+benderfynu	determine	0	0	1	0	0
+adeilad	building	0	0	1	1	1
+korea	korea	0	0	1	0	0
+macsen	maximus	0	0	1	0	0
+dorlan	bank	0	0	1	0	0
+york	york	0	0	1	0	0
+ddiwydiannol	industrial	0	0	1	0	0
+teyrn	monarch	0	0	1	1	1
+gwylanod	seagulls	0	0	1	0	0
+indus	indus	0	0	1	0	0
+llanbedr	llanbedr	0	0	1	0	1
+fechan	small	0	0	1	0	0
+c	c	0	0	1	0	0
+ffenestr	window	0	0	1	1	1
+lladdodd	killed	0	0	1	0	0
+democratiaeth	democracy	0	0	1	1	1
+license	license	0	0	1	0	0
+darganfyddiadau	findings	0	0	1	0	0
+roman	roman	0	0	1	0	0
+cyfres	series	0	0	1	1	1
+borth	portal	0	0	1	0	0
+sweet	sweet	0	0	1	0	0
+gwyddom	we know	0	0	1	0	0
+chynhyrchiad	production	0	0	1	0	0
+gwyddor	science	0	0	1	1	1
+micronesia	micronesia	0	0	1	0	0
+stercorarius	stercorarius	0	0	1	0	0
+fynnu	require	0	0	1	0	0
+afiechydon	diseases	0	0	1	0	0
+java	java	0	0	1	0	0
+swn	noise	0	0	1	0	0
+bertrand	bertrand	0	0	1	0	0
+dua	approximately	0	0	1	0	0
+px	px	0	0	1	0	0
+buzzard	buzzard	0	0	1	0	0
+dug	duke	0	0	1	1	1
+plygu	folding	0	0	1	0	1
+pc	pc	0	0	1	0	0
+deich	your	0	0	1	0	0
+pa	what	0	0	1	0	0
+pe	if	0	0	1	1	1
+cwymp	collapse	0	0	1	0	1
+dur	steel	0	0	1	1	1
+cyfran	proportion	0	0	1	0	1
+po	more	0	0	1	0	1
+duw	god	0	0	1	1	1
+cyhydeddol	equatorial	0	0	1	0	0
+chastell	castle	0	0	1	0	0
+algeria	algeria	0	0	1	0	0
+dreisgar	violent	0	0	1	0	0
+barhaol	permanent	0	0	1	0	0
+categoritrefi	categoritrefi	0	0	1	0	0
+ffosil	fossil	0	0	1	0	0
+cyfaddefodd	admitted	0	0	1	0	0
+priododd	married	0	0	1	0	0
+priododd	m	0	0	1	0	0
+dolenni	links	0	0	1	0	0
+cynefinoedd	habitats	0	0	1	0	0
+nofelau	novels	0	0	1	0	0
+celfyddyd	art	0	0	1	1	1
+georgia	georgia	0	0	1	0	0
+chwymp	collapse	0	0	1	0	0
+caniateir	allowed	0	0	1	0	0
+mpla	plague	0	0	1	0	0
+theres	theres	0	0	1	0	0
+waun	health	0	0	1	0	0
+waun	heath	0	0	1	0	0
+prydeinwyr	britons	0	0	1	0	0
+prydeinwyr	prydeinwyr	0	0	1	0	0
+rix	rix	0	0	1	0	0
+gwyddoniadur	encylopedia	0	0	1	0	1
+rio	rio	0	0	1	0	0
+miloedd	thousands	0	0	1	0	0
+rif	number	0	0	1	0	0
+coesau	legs	0	0	1	0	0
+disgyrchiant	gravitation	1	1	0	1	1
+disgyrchiant	disgychiant	1	0	1	0	1
+disgyrchiant	gravity	1	1	1	0	1
+disgyrchiant	dusgyrchiant	1	0	1	0	1
+disgyrchiant	admits	1	0	1	0	1
+disgyrchiant	believe	1	0	1	0	1
+disgyrchiant	agree	1	0	1	0	1
+eames	eames	0	0	1	0	0
+cododd	rose	0	0	1	0	0
+px|de|bawd|telor	px | de | thumb | warblers	0	0	1	0	0
+px|de|bawd|telor	pxldelbawdltelor	0	0	1	0	0
+ddwy	two	0	0	1	0	0
+viola	viola	0	0	1	0	0
+peoples	peoples	0	0	1	0	0
+gwragedd	women	0	0	1	0	1
+franklin	franklin	0	0	1	0	0
+rhein	rhine	0	0	1	0	0
+ddiod	drink	0	0	1	0	0
+atomau	atoms	0	0	1	0	0
+eithriadol	exceptional	0	0	1	1	1
+eithriadol	eithriodol	0	0	1	0	1
+ieuan	ieuan	0	0	1	0	1
+gefnogol	supportive	0	0	1	0	0
+catref	home	0	0	1	0	0
+cynghrair	alliance	0	0	1	1	1
+driphlyg	triple	0	0	1	0	0
+know	know	0	0	1	0	0
+ddatgan	state	0	0	1	0	0
+raddau	extent	0	0	1	0	0
+gomiwnyddiaeth	communism	0	0	1	0	0
+ddechreuodd	started	0	0	1	0	0
+prince	prince	0	0	1	0	0
+gweithred	action	0	0	1	1	1
+gyrion	edge	0	0	1	0	0
+dosbarthiadau	classes	0	0	1	0	0
+ma	ma	0	0	1	0	0
+gwyddorau	sciences	0	0	1	0	0
+chubut	chubut	0	0	1	0	0
+dyfeisydd	achieve	0	0	1	0	0
+dyfeisydd	inventor	0	0	1	0	0
+meicrosgôp	sketch / profile	1	0	1	0	0
+meicrosgôp	microscope	1	1	0	0	0
+meicrosgôp	bibliography	1	0	1	0	0
+meicrosgôp	sketch	1	0	1	0	0
+ddyfnach	deeper	0	0	1	0	0
+ceffylau	horses	0	0	1	0	0
+cristionogol	christian	0	0	1	0	0
+catalan	catalan	0	0	1	0	0
+paganiaid	pagans	0	0	1	0	0
+rhif	no	0	0	1	0	1
+gwryw	male	0	0	1	1	1
+modifications	modifications	0	0	1	0	0
+cawl	soup	0	0	1	1	1
+cawn	we	0	0	1	0	0
+avatars	avatars	0	0	1	0	0
+fydd	will	0	0	1	0	0
+arthur	arthur	0	0	1	0	0
+tirgaeedig	landlocked	0	0	1	0	0
+datganiadau	statements	0	0	1	0	0
+caws	cheese	0	0	1	1	1
+cawr	giant	0	0	1	1	1
+meddyg	doctor	0	0	1	1	1
+moscfa	moscow	0	0	1	0	0
+triongl	triangle	1	1	1	1	1
+triongl	treacle	1	0	1	0	1
+triongl	medical	1	0	1	0	1
+triongl	daughter	1	0	1	0	1
+triongl	physics	1	0	1	0	1
+triongl	traingle	1	1	0	0	1
+astudior	astudior	0	0	1	0	0
+troseddau	crime	0	0	1	0	0
+drindod	trinity	0	0	1	0	0
+ffaryncs	pharynx	0	0	1	0	0
+medi	september	0	0	1	1	1
+cinerea	cinerea	0	0	1	0	0
+prop	prop	0	0	1	0	0
+medr	meters	0	0	1	0	1
+lesbiaidd	lesbian	0	0	1	0	0
+tafod	tongue	0	0	1	1	1
+pantycelyn	pantycelyn	0	0	1	0	0
+anne	anne	0	0	1	0	0
+meinweoedd	tissues	0	0	1	0	0
+ddefnyddiodd	used	0	0	1	0	0
+weir	weir	0	0	1	0	0
+maghreb	maghreb	0	0	1	0	0
+nuevo	nuevo	0	0	1	0	0
+dderbyn	receive	0	0	1	0	0
+pasiwyd	passed	0	0	1	0	0
+ddillad	clothing	0	0	1	0	0
+gwrogaeth	homage	0	0	1	1	1
+ysgol	school	0	0	1	1	1
+gyhoeddwyd	published	0	0	1	0	0
+fersiynau	versions	0	0	1	0	0
+dro	time	0	0	1	0	0
+braich	arm	0	0	1	1	1
+most	most	0	0	1	0	0
+ddiwylliant	culture	0	0	1	0	0
+hanfodol	essential	0	0	1	1	1
+tonnau	waves	0	0	1	0	0
+redeg	run	0	0	1	0	0
+paralel	parallel	0	0	1	0	0
+wanna	wanna	0	0	1	0	0
+chwaraeon	sports	0	0	1	0	0
+gymry	welshmen	0	0	1	0	0
+linell	line	0	0	1	0	0
+helvetica	helvetica	0	0	1	0	0
+ydyr	ydyr	0	0	1	0	0
+ydyr	is	0	0	1	0	0
+johns	johns	0	0	1	0	0
+ydyw	it	0	0	1	0	0
+gymro	welsh speaker	0	0	1	0	0
+ymosodiadaur	attacks	0	0	1	0	0
+ymosodiadaur	ymosodiadaur	0	0	1	0	0
+ydym	we	0	0	1	0	0
+ydyn	are	0	0	1	0	0
+gyhoeddus	public	0	0	1	0	0
+amlgellog	multicellular	0	0	1	0	0
+cyrhaeddodd	reached	0	0	1	0	0
+madagascar	madagascar	0	0	1	0	0
+dringwr	climber	0	0	1	1	1
+gwledydd	countries	0	0	1	0	1
+warchod	protect	0	0	1	0	0
+xpx	xpx	0	0	1	0	0
+faso	faso	0	0	1	0	0
+hinsoddol	climatic	0	0	1	1	1
+chwyldro	revolution	0	0	1	0	1
+sections	sections	0	0	1	0	0
+dywodfaen	sandstone	0	0	1	0	0
+mountains	mountains	0	0	1	0	0
+dalaith	province	0	0	1	0	0
+ystwyth	agile	0	0	1	0	1
+gefnogwyd	supported	0	0	1	0	0
+delta	delta	0	0	1	0	0
+gefnogwyr	supporters	0	0	1	0	0
+crane	crane	0	0	1	0	0
+cytundebau	agreements	0	0	1	0	0
+nuremberg	nuremberg	0	0	1	0	0
+hagia	hagia	0	0	1	0	0
+verrocchio	verrocchio	0	0	1	0	0
+dychwelyd	return	0	0	1	1	1
+braster	fat	0	0	1	1	1
+etholaethau	constituencies	0	0	1	0	0
+today	today	0	0	1	0	0
+guyana	guyana	0	0	1	0	0
+z	z	0	0	1	0	0
+called	hard	0	0	1	0	0
+called	called	0	0	1	0	0
+bawd|px|y	the thumb px	0	0	1	0	0
+bawd|px|y	thumb! px! the	0	0	1	0	0
+porthmadog	porthmadog	0	0	1	0	1
+ymddangos	emerge	0	0	1	0	0
+ymddangos	appear	0	0	1	0	0
+hunanlywodraethol	autonomous	0	0	1	0	0
+gerdd	poem	0	0	1	0	0
+firws	virus	1	1	1	0	0
+firws	leaders	1	0	1	0	0
+firws	rich	1	0	1	0	0
+firws	rich person	1	0	1	0	0
+sebastan	sebastan	0	0	1	0	0
+ffosydd	trenches	0	0	1	0	0
+chwareli	quarries	0	0	1	0	0
+chwareli	qurries	0	0	1	0	0
+actores	actress	0	0	1	1	1
+rhyfela	warfare	0	0	1	0	1
+graham	graham	0	0	1	0	0
+deulur	deulur	0	0	1	0	0
+anorganig	inorganic	0	0	1	0	0
+peach	peach	0	0	1	0	0
+aipac	aipac	0	0	1	0	0
+hanes	history	0	0	1	1	1
+rhywiol	sexual	0	0	1	1	1
+qomolangma	qomolanga	0	0	1	0	0
+qomolangma	qomolangma	0	0	1	0	0
+gwynt	wind	0	0	1	1	1
+moca	coca	0	0	1	0	0
+diogel	safe	0	0	1	1	1
+moch	pigs	0	0	1	0	0
+nice	nice	0	0	1	0	0
+fedru	can	0	0	1	0	0
+gwenallt	gwenallt	0	0	1	0	0
+dall	blind	0	0	1	1	1
+gosodwyd	set	0	0	1	0	0
+athen	athens	0	0	1	1	1
+porthaethwy	menai bridge	0	0	1	0	1
+dalu	pay	0	0	1	0	0
+wylwyr	viewers	0	0	1	0	0
+gytundebau	agreements	0	0	1	0	0
+ddarganfuwyd	found	0	0	1	0	0
+gwfen	gwfen	0	0	1	0	0
+ffydd	faith	0	0	1	1	1
+cryno	summary	0	0	1	0	1
+dewisir	selected	0	0	1	0	0
+mannau	places	0	0	1	0	0
+gwasg	press	0	0	1	1	1
+teth	nipple	0	0	1	0	1
+nasa	nasa	0	0	1	0	0
+thames	thames	0	0	1	0	0
+nash	nash	0	0	1	0	0
+ddenu	attract	0	0	1	0	0
+buffalo	buffalo	0	0	1	0	0
+castellnedd	neath	0	0	1	0	0
+aeleg	gaelic	0	0	1	0	0
+uned	unit	0	0	1	1	1
+edd	ity	0	0	1	0	0
+ganu	singing	0	0	1	0	0
+reolaeth	control	0	0	1	0	0
+pysgodyn	fish	0	0	1	1	1
+rhuban	ribbon	0	0	1	0	0
+gynradd	primary	0	0	1	0	0
+gewch	you	0	0	1	0	0
+steve	steve	0	0	1	0	0
+jimi	jimi	0	0	1	0	0
+amddiffyniad	defense	0	0	1	1	1
+dymheredd	temperature	0	0	1	0	0
+protestwyr	protesters	0	0	1	0	0
+norwy	norway	0	0	1	0	0
+simon	simon	0	0	1	0	0
+mamwledydd	homelands	0	0	1	0	0
+cygnus	cygnus	0	0	1	0	0
+eukaryota	eukaryota	0	0	1	0	0
+kazakstan	kazakhstan	0	0	1	0	0
+languages	languages	0	0	1	0	0
+anghytundeb	disagreement	0	0	1	1	1
+arlywydd	prices	1	0	1	0	1
+arlywydd	president	1	1	1	1	1
+arlywydd	price	1	0	1	0	1
+ddosbarthiad	ddsobarthaid	0	0	1	0	0
+ddosbarthiad	distribution	0	0	1	0	0
+gyfran	all	0	0	1	0	0
+gyfran	proportion	0	0	1	0	0
+hinsoddaur	hinsoddaur	0	0	1	0	0
+stormpetrel	stormpetrel	0	0	1	0	0
+stormpetrel	stormpetral	0	0	1	0	0
+gini	guinea	0	0	1	0	0
+foleciwlaidd	molecular	0	0	1	0	0
+ging	ging	0	0	1	0	0
+coraciiformes	coraciiformes	0	0	1	0	0
+llwyddiannau	successes	0	0	1	0	0
+âr	on	0	0	1	0	0
+seryddiaeth	astronomy	0	0	1	1	1
+prokofiev	prokofiev	0	0	1	0	0
+duffy	duffy	0	0	1	0	0
+cymryd	take	0	0	1	1	1
+caeth	strict	0	0	1	0	1
+parrywilliams	parry williams	0	0	1	0	0
+parrywilliams	parry-williams	0	0	1	0	0
+boicotio	boycott	0	0	1	0	0
+beryglus	dangerous	0	0	1	0	0
+glawr	cover	0	0	1	0	0
+byfflo	buffalo	0	0	1	0	0
+rwsia	russia russian anthem	0	0	1	0	1
+julius	jjulius	0	0	1	0	0
+cap	cap	0	0	1	1	1
+fodoli	exist	0	0	1	0	0
+wersi	lessons	0	0	1	0	0
+ymatebodd	responded	0	0	1	0	0
+ciconiaid	ciconiaid	0	0	1	0	0
+categorigwybodaeth	category: information	0	0	1	0	0
+categorigwybodaeth	categorigwybodaeth	0	0	1	0	0
+datblygiad	development	0	0	1	1	1
+ochr	side	0	0	1	1	1
+meysydd	areas	0	0	1	0	1
+esgyrnog	bony	0	0	1	0	0
+acid	acid	0	0	1	0	0
+llifogydd	flood	0	0	1	0	0
+ganolfannau	centers	0	0	1	0	0
+theodore	theodore	0	0	1	0	0
+goddrych	subject	0	0	1	1	1
+carthago	carthage	0	0	1	0	0
+ganolog	central	0	0	1	0	0
+disgrifiodd	described	0	0	1	0	0
+ymhellach	further	0	0	1	1	1
+ystyrir	considered	0	0	1	0	0
+mwslemaidd	muslim	0	0	1	0	0
+straen	stress	0	0	1	0	0
+gred	belief	0	0	1	0	0
+adfywiad	regeneration	0	0	1	0	1
+biodaearyddiaeth	biogeography	1	1	0	0	0
+biodaearyddiaeth	biodaearyffiaeth	1	0	1	0	0
+biodaearyddiaeth	poverty	1	0	1	0	0
+biodaearyddiaeth	poorness	1	0	1	0	0
+biodaearyddiaeth	pauper	1	0	1	0	0
+gydymerawdwr	co-emperor	0	0	1	0	0
+gydymerawdwr	gydymerawdwr	0	0	1	0	0
+geirdarddiad	etymology	0	0	1	0	0
+iesu	jesus	0	0	1	1	1
+rhybudd	notice	0	0	1	1	1
+pencadlysoedd	headquarters	0	0	1	0	0
+llanddwyn	llanddwyn	0	0	1	0	0
+nghwpan	cup	0	0	1	0	0
+tannau	strings	0	0	1	0	0
+fellyn	razor	0	0	1	0	0
+fflint	flint	0	0	1	1	1
+fflint	fflint	0	0	1	0	1
+thembu	thembu	0	0	1	0	0
+fiola	viola	0	0	1	0	0
+oriau	hours	0	0	1	0	1
+oriau	hours of	0	0	1	0	1
+fodau	beings	0	0	1	0	0
+gwenoliaid	swallows	0	0	1	0	0
+chynnal	maintenance	0	0	1	0	0
+hofrenyddion	helicopters	0	0	1	0	0
+bruxelles	bruxelles	0	0	1	0	0
+gyfansoddiad	composition	0	0	1	0	0
+chyhoeddwyd	published	0	0	1	0	0
+apple	apple	0	0	1	0	0
+px|	px |	0	0	1	0	0
+masnachu	trading	0	0	1	0	1
+newyddiaduraeth	journalism	0	0	1	0	0
+hardd	beautiful	0	0	1	1	1
+timor	timor	0	0	1	0	0
+ohonynt	them	0	0	1	0	0
+ffrigad	frigates	0	0	1	0	0
+dadansoddi	analysis	0	0	1	0	1
+genhedlaeth	generation	0	0	1	0	0
+peintio	painting	0	0	1	0	1
+from	from	0	0	1	0	0
+gilydd	time	0	0	1	0	1
+fel	as	0	0	1	0	0
+cill	bill	0	0	1	0	0
+fei	light	0	0	1	0	0
+creol	creol	0	0	1	0	0
+phosibl	possible	0	0	1	0	0
+feu	feu	0	0	1	0	0
+fer	short	0	0	1	0	0
+gynrychiolir	represented	0	0	1	0	0
+gynrychiolir	gynrychiolior	0	0	1	0	0
+gormodiaith		1	0	1	0	1
+gormodiaith	portuguese	1	0	1	0	1
+gormodiaith	portagal	1	0	1	0	1
+gormodiaith	exaggeration	1	0	1	1	1
+gormodiaith	hyperbole	1	1	0	1	1
+ffagan	fagans	0	0	1	0	0
+ffrynt	front	0	0	1	0	0
+fasnach	trade	0	0	1	0	0
+columba	columba	0	0	1	0	0
+gymdeithas	society	0	0	1	0	0
+shostakovich	shostakovich	0	0	1	0	0
+tiriogaethaur	tiriogaethaur	0	0	1	0	0
+lannaur	banks	0	0	1	0	0
+lannaur	lannaur	0	0	1	0	0
+lannaur	sharing	0	0	1	0	0
+gwrando	listen	0	0	1	1	1
+dorri	cut	0	0	1	0	0
+copog	tufted	0	0	1	0	0
+medru	can	0	0	1	0	1
+difyrweithiau	difyrweithiau	0	0	1	0	0
+gwared	remove	0	0	1	0	1
+grisons	cycling	0	0	1	0	0
+grisons	prisons	0	0	1	0	0
+hua	hua	0	0	1	0	0
+datrys	resolution	0	0	1	0	1
+annog	encourage	0	0	1	0	1
+cysgodion	shadows	0	0	1	0	0
+taw	vat	0	0	1	0	1
+bleidiau	parties	0	0	1	0	0
+cynhesu	warming	0	0	1	0	1
+tad	father	0	0	1	1	1
+taf	taff	0	0	1	0	0
+raniadau	partitions	0	0	1	0	0
+drofannol	tropical	0	0	1	0	0
+hysbysebion	ads	0	0	1	0	0
+tai	housing	0	0	1	0	1
+golofn	column	0	0	1	0	0
+dwr	water	0	0	1	0	0
+sir	county	0	0	1	1	1
+sir	sir	0	0	1	0	1
+united	united	0	0	1	0	0
+gallu	can	0	0	1	0	1
+waelod	bottom	0	0	1	0	0
+dwy	two	0	0	1	0	0
+strwythuriaethol	strwythuriaethol	0	0	1	0	0
+belffast	belfast	0	0	1	0	0
+brian	brian	0	0	1	0	0
+dwf	growth	0	0	1	0	0
+dwi	i	0	0	1	0	0
+sin	sine	0	0	1	0	0
+sin	sin	0	0	1	0	0
+sil	sill	0	0	1	0	1
+sil	sil	0	0	1	0	1
+ehangu	expansion	0	0	1	0	1
+dramor	abroad	0	0	1	0	0
+seiniau	sounds	0	0	1	0	1
+llychlyn	scandinavia	0	0	1	0	0
+papurau	papers	0	0	1	0	0
+ethnig	ethnic	0	0	1	0	1
+dwristiaid	tourists	0	0	1	0	0
+hannibyniaeth	independence	0	0	1	0	0
+neopaganism	neopanism	0	0	1	0	0
+neopaganism	neopagnism	0	0	1	0	0
+neopaganism	neo-paganism	0	0	1	0	0
+ranbarthol	regional	0	0	1	0	0
+bodau	beings	0	0	1	0	0
+phriodas	marriage	0	0	1	0	0
+injans	engines	0	0	1	0	0
+chwmpas	scope	0	0	1	0	0
+mudo	migration	0	0	1	0	1
+gyfnewid	exchange	0	0	1	0	0
+rhwystro	prevent	0	0	1	1	1
+amerig	america	0	0	1	0	0
+losgi	burning	0	0	1	0	0
+wawr	dawn	0	0	1	0	0
+ystorfa	repository	0	0	1	0	1
+arcadius	arcadius	0	0	1	0	0
+cyfansoddyn	compound	0	0	1	0	0
+achlysurol	casual	0	0	1	0	1
+looks	books	0	0	1	0	0
+elis	elis	0	0	1	0	0
+byw	live	0	0	1	1	1
+wobrau	awards	0	0	1	0	0
+sydd	which	0	0	1	0	0
+antonius	antonius	0	0	1	0	0
+llyw	helm	0	0	1	1	1
+tyler	tyler	0	0	1	0	0
+llys	court	0	0	1	1	1
+llyr	llyr	0	0	1	0	0
+orange	orange	0	0	1	0	0
+ddim	not	0	0	1	0	0
+camlesi	canals	0	0	1	0	1
+ganddynt	they	0	0	1	0	0
+ngogleddddwyrain	ngogleddddwyrain	0	0	1	0	0
+ngogleddddwyrain	north-east	0	0	1	0	0
+wolfgang	wolfgang	0	0	1	0	0
+material	material	0	0	1	0	0
+flew	hair	0	0	1	0	0
+flew	flew	0	0	1	0	0
+hynaf	oldest	0	0	1	1	1
+alltud	exile	0	0	1	1	1
+dderbyniol	acceptable	0	0	1	0	0
+haen	layer	0	0	1	1	1
+steffan	steffan	0	0	1	0	1
+proses	process	0	0	1	0	0
+cynulleidfa	audience	0	0	1	1	1
+belled	far	0	0	1	0	0
+ddogfen	document	0	0	1	0	0
+vepamerikan	vepamerikan	0	0	1	0	0
+vepamerikan	vepimerikan	0	0	1	0	0
+enwr	name will	0	0	1	0	0
+tran	tran	0	0	1	0	1
+enwi	name	0	0	1	1	1
+hebog	falcon	0	0	1	1	1
+trar	rar	0	0	1	0	0
+dyfodd	grew	0	0	1	0	0
+cylchrediad	sensitive	0	0	1	0	1
+cylchrediad	circulation	0	0	1	1	1
+gallent	they	0	0	1	0	0
+gambriaidd	cambrian	0	0	1	0	0
+gwerddonau	gwerddonau	0	0	1	0	0
+hong	hong	0	0	1	0	0
+penypass	penypass	0	0	1	0	0
+chwarennau	glands	0	0	1	0	1
+danciau	tanks	0	0	1	0	0
+our	our	0	0	1	0	0
+gwrywaidd	male	0	0	1	0	1
+buasai	would	0	0	1	0	0
+semen	semen	0	0	1	0	0
+tabloid	tabloid	0	0	1	0	0
+metelau	metals	0	0	1	0	0
+ystyrid	considered	0	0	1	0	0
+ystyrid	consideration	0	0	1	0	0
+capten	captain	0	0	1	1	1
+laddodd	killed	0	0	1	0	0
+categori	category	0	0	1	0	0
+ddysgir	taught	0	0	1	0	0
+gyfangwbl	entirely	0	0	1	0	0
+weinidog	minister	0	0	1	0	0
+veneris	veneris	0	0	1	0	0
+ddathlur	celebrate the	0	0	1	0	0
+drydan	electricity	0	0	1	0	0
+chymru	wales	0	0	1	0	0
+commentarii	commentarii	0	0	1	0	0
+dictionary	ize	0	0	1	0	0
+dictionary	dictionary	0	0	1	0	0
+alcenau	alkenes	0	0	1	0	0
+neuchâtel	neuchatel	0	0	1	0	0
+neuchâtel	neuchâtel	0	0	1	0	0
+merthyr	martyr	1	1	1	1	1
+fienna	vienna	0	0	1	0	0
+dych	do	0	0	1	0	0
+gafael	access	0	0	1	0	1
+bering	bering	0	0	1	0	0
+pendant	pendent	0	0	1	0	1
+pendant	definite	0	0	1	1	1
+imiwnedd	immunity	0	0	1	0	0
+philip	philip	0	0	1	0	0
+cylchdroi	rotation	0	0	1	0	1
+rhod	wheel	0	0	1	1	1
+organig	organic	0	0	1	0	0
+fwslemiaid	muslims	0	0	1	0	0
+llythyron	letters	0	0	1	0	0
+nwyon	gas	0	0	1	0	0
+g	g	0	0	1	0	0
+amedr	ammeter	1	1	0	0	0
+kernow	kernow	0	0	1	0	0
+digonedd	abundance	0	0	1	1	1
+dylanwadu	influence	0	0	1	1	1
+dywydd	weather	0	0	1	0	0
+cain	fine	0	0	1	1	1
+cerddorwyr	musicians	0	0	1	0	0
+isbn	isbn	0	0	1	0	0
+cwmni	company	0	0	1	1	1
+aelwyd	household	0	0	1	0	1
+fehefin	june	0	0	1	0	0
+alcanau	alkanes	0	0	1	0	0
+cyfnodau	periods	0	0	1	0	0
+niferoedd	numbers	0	0	1	0	0
+cigydd	butcher	0	0	1	1	1
+galles	galles	0	0	1	0	0
+siap	shape	0	0	1	0	0
+their	their	0	0	1	0	0
+hynafiaid	ancestors	0	0	1	0	0
+cwningod	rabbits	0	0	1	0	0
+sian	sian	0	0	1	0	0
+cynnig	offer	0	0	1	1	1
+unfath	identical	0	0	1	0	0
+rhaglennu	programming	0	0	1	0	0
+mantais	advantage	0	0	1	1	1
+asgwrncefn	asgwrncefn	0	0	1	0	0
+rhaglenni	programs	0	0	1	0	0
+academi	academy	0	0	1	1	1
+gweilch	ospreys	0	0	1	0	1
+cyfyngu	constrain	0	0	1	0	1
+cyfyngu	limit	0	0	1	1	1
+defodau	rituals	0	0	1	0	0
+holland	holland	0	0	1	0	0
+sef	a	0	0	1	0	1
+trefn	order	0	0	1	1	1
+trefi	towns	0	0	1	0	0
+hirgrwn	oval	0	0	1	0	0
+lucius	lucius	0	0	1	0	0
+lucius	lucious	0	0	1	0	0
+anffodus	unfortunately	0	0	1	0	1
+gwyddelig	irish	0	0	1	1	1
+gwyddelig	gwyddeling	0	0	1	0	1
+leslie	leslie	0	0	1	0	0
+dwyrain	east	0	0	1	0	0
+alwyd	called	0	0	1	0	0
+shilpa	shilpa	0	0	1	0	0
+pwerau	powers	0	0	1	0	0
+canolbwynt	focus	0	0	1	0	1
+teleffon	telephone	0	0	1	0	0
+hy	ie	0	0	1	0	1
+bellter	distance	0	0	1	0	0
+chwaraeir	played	0	0	1	0	0
+gorkys	gorkys	0	0	1	0	0
+malwr	crusher	0	0	1	0	1
+catholig	catholic	0	0	1	1	1
+rywle	somewhere	0	0	1	0	0
+categoritechnoleg	catagory: technology	0	0	1	0	0
+categoritechnoleg	technology category	0	0	1	0	0
+bron	almost	0	0	1	1	1
+gysawd	system	0	0	1	0	0
+chwech	six	0	0	1	1	1
+gair	word	0	0	1	1	1
+gytundeb	agreement	0	0	1	0	0
+=	=	0	0	1	0	0
+bibracte	bibracte	0	0	1	0	0
+petrol	petrol	0	0	1	0	0
+who	sy'n	0	0	1	0	0
+planhigion	plants	0	0	1	0	0
+mynachlog	monastery	0	0	1	1	1
+gwrthododd	he refused	0	0	1	0	0
+gwasanaeth	service	0	0	1	1	1
+llythrennau	letters	0	0	1	0	0
+sbectrwm	spectrum	0	0	1	0	0
+ddarparu	provide	0	0	1	0	0
+gynhenid	inherent	0	0	1	0	0
+fiet	vietnam	0	0	1	0	0
+denu	attract	0	0	1	1	1
+traddodiadau	traditions	0	0	1	0	0
+michel	michel	0	0	1	0	0
+movie	movie	0	0	1	0	0
+hn	older	0	0	1	0	0
+deng	ten	0	0	1	1	1
+son	mention	0	0	1	0	0
+feysydd	areas	0	0	1	0	0
+adroddiadau	reports	0	0	1	0	0
+siôn	sion	0	0	1	0	0
+please	please	0	0	1	0	0
+darlun	picture	0	0	1	1	1
+sylwadau	comments	0	0	1	0	0
+hiaith	language	0	0	1	0	0
+dorothy	dorothy	0	0	1	0	0
+siôr	george	0	0	1	0	0
+gefnogi	support	0	0	1	0	0
+protestaniaeth	protestantism	0	0	1	0	0
+noethlymunwyr	nudists	0	0	1	0	0
+categoricristnogaeth	categoricristnogaeth	0	0	1	0	0
+categoricristnogaeth	category christianity	0	0	1	0	0
+sylffwr	sulfur	0	0	1	0	0
+burundi	burundi	0	0	1	0	0
+lleolwyd	located	0	0	1	0	0
+rufeinig	roman	0	0	1	0	0
+diorseddwyd	deposed	0	0	1	0	0
+piano	piano	0	0	1	1	1
+moel	bare	0	0	1	1	1
+cuba	cuba	0	0	1	0	0
+berfformio	perform	0	0	1	0	0
+rhengoedd	ranks	0	0	1	0	0
+adeiladu	construction	0	0	1	0	1
+presley	presley	0	0	1	0	0
+gobaith	hope	0	0	1	1	1
+fyddyn	army	0	0	1	0	0
+geltaidd	celtic	0	0	1	0	0
+ymdrin	deal	0	0	1	0	1
+fywydau	lives	0	0	1	0	0
+titus	titus	0	0	1	0	0
+amcangyfrif	estimate	0	0	1	0	0
+rhoi	give	0	0	1	1	1
+gogwydd	bias	0	0	1	1	1
+mona	mona	0	0	1	0	0
+wenwynig	toxic	0	0	1	0	0
+europe	europe	0	0	1	0	0
+requirement	requirement	0	0	1	0	0
+ddysgeidiaeth	teachings	0	0	1	0	0
+wyneb	al-nehr	1	0	1	0	1
+wyneb	wyneb	1	0	1	0	1
+wyneb	surface	1	1	1	1	1
+wyneb	face	1	1	0	1	1
+tubal	tubal	0	0	1	0	0
+fnla	nla	0	0	1	0	0
+kurrentschrift	kurrentschrift	0	0	1	0	0
+kurrentschrift	kurentschrift	0	0	1	0	0
+pherthynas	relationship	0	0	1	0	0
+gronfa	fund	0	0	1	0	0
+león	leon	0	0	1	0	0
+guildhall	guildhall	0	0	1	0	0
+arferiadau	uses	0	0	1	0	0
+tanwydd	fuel	0	0	1	1	1
+pensaerniaeth	architecture	0	0	1	1	1
+drefedigaeth	colony	0	0	1	0	0
+brotonau	protons	0	0	1	0	0
+dwyfol	divine	0	0	1	1	1
+pegwn	pole	0	0	1	1	1
+ymddangosiad	wyddangosiad	0	0	1	0	0
+ymddangosiad	appearance	0	0	1	0	0
+straeon	stories	0	0	1	0	1
+efaill	twin	0	0	1	0	0
+efaill	pony	0	0	1	0	0
+mapiau	maps	0	0	1	0	0
+cyfansoddion	compounds	0	0	1	0	1
+cysyniadau	conceptualisation	0	0	1	0	0
+cysyniadau	concepts	0	0	1	0	0
+dystiolaeth	evidence	0	0	1	0	0
+joe	joe	0	0	1	0	0
+arlywyddol	presidential	0	0	1	0	0
+swift	swift	0	0	1	0	0
+arni	it	0	0	1	0	0
+jon	jon	0	0	1	0	0
+dineilltuol	dineilltuol	0	0	1	0	0
+dillad	clothing	0	0	1	1	1
+sgoteg	scots	0	0	1	0	0
+gwladgarol	patriotic	0	0	1	1	1
+flynyddoedd	years	0	0	1	0	0
+antonio	antonio	0	0	1	0	0
+bronx	bronx	0	0	1	0	0
+gyfeiriad	address	0	0	1	0	0
+sieloau	sieloau	0	0	1	0	0
+sicrhau	ensure	0	0	1	0	1
+graig	rock	0	0	1	0	0
+fecsico	mexico	0	0	1	0	0
+cunningham	cunningham	0	0	1	0	0
+tebyg	similar	0	0	1	1	1
+belisarius	belisarius	0	0	1	0	0
+tunisia	tunisia	0	0	1	0	0
+ynglŷn	about	0	0	1	0	0
+cynhaeaf	harvest	0	0	1	1	1
+walk	walk	0	0	1	0	0
+walt	walt	0	0	1	0	0
+dyma	this	0	0	1	0	1
+teigr	tiger	0	0	1	1	1
+lymff	lymph	0	0	1	0	0
+lleihaodd	reduced	0	0	1	0	0
+hindu	hindu	0	0	1	0	0
+protestannaidd	protestant	0	0	1	1	1
+bbc	bbc	0	0	1	0	0
+grazie	grazie	0	0	1	0	0
+hindi	hindi	0	0	1	0	0
+engraifft	example	0	0	1	0	0
+ebill	auger	0	0	1	1	1
+croatiaid	croatians	0	0	1	0	0
+isopleth	isopleth	0	0	1	0	0
+héireann	heireann	0	0	1	0	0
+héireann	hèireann	0	0	1	0	0
+mike	mike	0	0	1	0	0
+liverpool	maintained	0	0	1	0	0
+liverpool	liverpool	0	0	1	0	0
+weithiau	sometimes	0	0	1	1	1
+hms	insert	0	0	1	0	0
+hms	inset	0	0	1	0	0
+jades	jades	0	0	1	0	0
+ryddid	freedom	0	0	1	0	0
+gymwys	apply	0	0	1	0	0
+conrad	conrad	0	0	1	0	0
+cyfanrwydd	integrity	0	0	1	0	1
+gorfodwyd	forced	0	0	1	0	0
+casglu	collection	0	0	1	0	1
+ffuglen	fiction	0	0	1	0	0
+bawd|logo	thumb | logo	0	0	1	0	0
+bawd|logo	thumb logo	0	0	1	0	0
+antigua	antigua	0	0	1	0	0
+gyfansoddion	compounds	0	0	1	0	0
+~	~	0	0	1	0	0
+non	non	0	0	1	0	1
+gwarchae	siege	0	0	1	1	1
+ynydiad	ynydiad	0	0	1	0	0
+ydywr	ydywr	0	0	1	0	0
+planhigyn	plant	0	0	1	1	1
+thua	about	0	0	1	0	0
+berfau	verbs	0	0	1	0	0
+pwmpior	pwmpior	0	0	1	0	0
+ysgrifenedig	written	0	0	1	1	1
+unita	unita	0	0	1	0	0
+cyhoeddiadau	publications	0	0	1	0	0
+amheuaeth	doubt	0	0	1	1	1
+heddychlon	peaceful	0	0	1	1	1
+heddychlon	paeceful	0	0	1	0	1
+daith	tour	0	0	1	0	0
+gets	gets	0	0	1	0	0
+diego	diego	0	0	1	0	0
+allforio	export	0	0	1	1	1
+addurno	decorating	0	0	1	0	1
+romeo	romeo	0	0	1	0	0
+llyfrau	books	0	0	1	0	0
+whale	whale	0	0	1	0	0
+canolbarth	mid	0	0	1	0	1
+mochyn	pig	1	1	1	1	1
+celtic	celtic	0	0	1	0	0
+braf	nice	0	0	1	0	0
+thraddodiadau	traditions	0	0	1	0	0
+feiol	feiol	0	0	1	0	0
+gramadegau	grammars	0	0	1	0	0
+utrecht	utrecht	0	0	1	0	0
+english	english	0	0	1	0	0
+grenadines	grenadines	0	0	1	0	0
+grenadines	grenadians	0	0	1	0	0
+acrocephalus	acrocephalus	0	0	1	0	0
+rocket	rocket	0	0	1	0	0
+camel	camel	0	0	1	1	1
+anferth	massive	0	0	1	0	1
+sefydlogi	stabilize	0	0	1	0	0
+amdani	it	0	0	1	0	0
+cynyddol	increasing	0	0	1	1	1
+wres	heat	0	0	1	0	0
+categorihindŵaeth	category hinduism	0	0	1	0	0
+categorihindŵaeth	categorihindwaeth	0	0	1	0	0
+categoriwicipedia	category:wikipedia	0	0	1	0	0
+categoriwicipedia	categoriwicipedia	0	0	1	0	0
+ddarganfod	found	0	0	1	0	0
+galiaid	gauls	0	0	1	0	0
+phentrefi	villages	0	0	1	0	0
+bell	distance	0	0	1	0	0
+smith	smith	0	0	1	0	0
+turdus	turdus	0	0	1	0	0
+gystadlu	compete	0	0	1	0	0
+gystadlu	complete	0	0	1	0	0
+reswm	reason	0	0	1	0	0
+gwyachod	grebes	0	0	1	0	0
+guto	guy	0	0	1	0	0
+ffigyrau	figures	0	0	1	0	0
+rhyngddisgyblaethol	interdisciplinary	0	0	1	0	0
+ühtenzoittud	uhtenzoittud	0	0	1	0	0
+leol	local	0	0	1	0	0
+cewri	giants	0	0	1	0	1
+safonol	standard	0	0	1	1	1
+jonesparry	jonesparry	0	0	1	0	0
+ychwanegwyd	added	0	0	1	0	0
+adlewyrchur	adlewyrchur	0	0	1	0	0
+cyfandirol	continental	0	0	1	1	1
+press	press	0	0	1	0	0
+bontydd	bridges	0	0	1	0	0
+chwedlau	legends	0	0	1	0	0
+awstria	austria	0	0	1	1	1
+defnyddiol	useful	0	0	1	1	1
+politicaidd	political	0	0	1	0	0
+iberia	iberia	0	0	1	0	0
+georges	georges	0	0	1	0	0
+abse	abse	0	0	1	0	0
+carnedd	cairn	0	0	1	1	1
+fenthyg	loan	0	0	1	0	0
+paleolithig	palaeolithic	0	0	1	0	0
+cristatus	cristatus	0	0	1	0	0
+celloedd	cells	0	0	1	0	0
+ddeg	ten	0	0	1	0	0
+arnhem	arnhem	0	0	1	0	0
+teimladau	feelings	0	0	1	0	0
+gweriniaeth	republic	0	0	1	1	1
+because	lesley	0	0	1	0	0
+sefydlwyr	founders	0	0	1	0	0
+meles	meles	0	0	1	0	0
+cyfarfur	cyfarfur	0	0	1	0	0
+perfformio	performing	0	0	1	0	0
+thactegau	tactics	0	0	1	0	0
+perfformir	performed	0	0	1	0	0
+empire	empire	0	0	1	0	0
+turtur	turtle dove	0	0	1	0	1
+turtur	turtur	0	0	1	0	1
+björk	björk	0	0	1	0	0
+casachstan	kazakhstan	0	0	1	0	0
+protestio	protest	0	0	1	0	0
+moleciwlaidd	molecular	0	0	1	0	0
+dipyn	deal	0	0	1	0	0
+chaiff	is	0	0	1	0	0
+ymreolaethol	autonomous	0	0	1	0	0
+morgrugyn	ant	0	0	1	1	1
+hormonau	hormones	0	0	1	0	0
+brønstedlowry	brønstedlowry	0	0	1	0	0
+brønstedlowry	bronstedlowry	0	0	1	0	0
+gweithredu	action	0	0	1	0	1
+thebyg	probably	0	0	1	0	0
+categoriy	categoriy	0	0	1	0	0
+catrin	catrin	0	0	1	0	1
+werth	value	0	0	1	0	0
+gwthio	push	0	0	1	1	1
+strategaeth	strategy	0	0	1	0	0
+poeth	hot	0	0	1	1	1
+ddringo	climb	0	0	1	0	0
+pencadlys	headquarters	0	0	1	1	1
+cheir	there	0	0	1	0	0
+gorynys	peninsula	0	0	1	1	1
+lefydd	places	0	0	1	0	0
+fear	fear	0	0	1	0	0
+fwriad	intent	0	0	1	0	0
+phwynt	points	0	0	1	0	0
+gyflymach	faster	0	0	1	0	0
+throi	turn	0	0	1	0	0
+lleoedd	places	0	0	1	0	0
+golygfa	view	0	0	1	1	1
+warranty	warranty	0	0	1	0	0
+owl	owl	0	0	1	0	0
+safleodd	sites	0	0	1	0	0
+cysylltiad	connection	0	0	1	1	1
+egni	energy	0	0	1	1	1
+gynllunio	planning	0	0	1	0	0
+newydddinas	newydddinas	0	0	1	0	0
+newydddinas	newcity	0	0	1	0	0
+van	van	0	0	1	0	0
+cristnogaeth	christianity	0	0	1	1	1
+dwythell	duct	0	0	1	0	0
+fynydd	mountain	0	0	1	0	0
+ohonyn	them	0	0	1	0	0
+gafodd	was	0	0	1	0	0
+gafodd	gaffod	0	0	1	0	0
+vas	vas	0	0	1	0	0
+gorrach	dwarf	0	0	1	0	0
+shane	shane	0	0	1	0	0
+serbiaid	serbs	0	0	1	0	0
+testunau	texts	0	0	1	0	0
+bawd|px|map	thumb | px | map	0	0	1	0	0
+bawd|px|map	map thumb	0	0	1	0	0
+diwethaf	last	0	0	1	1	1
+llosgfynydd	volcano	0	0	1	1	1
+bradley	bradley	0	0	1	0	0
+made	made	0	0	1	0	0
+record	record	0	0	1	1	1
+below	canlynol	0	0	1	0	0
+ddaeth	came	0	0	1	0	0
+lefelau	levels	0	0	1	0	0
+teml	temple	0	0	1	1	1
+arno	it	0	0	1	0	0
+iddo	it	0	0	1	0	0
+enedigaeth	birth	0	0	1	0	0
+pyreneau	pyrenees	0	0	1	0	0
+ailagorodd	reopened	0	0	1	0	0
+dyfnaf	deepest	0	0	1	0	0
+year	month	0	0	1	0	0
+nodyn	note	0	0	1	1	1
+hydrocsid	hydroxide	0	0	1	0	0
+gofio	given the	0	0	1	0	0
+rhyddhau	release	0	0	1	1	1
+anghenion	needs	0	0	1	0	1
+myd	world	0	0	1	0	0
+squirrel	squirrel	0	0	1	0	0
+parhaus	continuous	0	0	1	0	0
+sicr	certainly	0	0	1	0	1
+dwbl	double	0	0	1	1	1
+arabica	arabica	0	0	1	0	0
+book	book	0	0	1	0	0
+parhaun	parhaun	0	0	1	0	0
+er	for	0	0	1	1	1
+aberaeron	aberaeron	0	0	1	0	0
+cadwr	keep the	0	0	1	0	1
+gweithgareddau	activities	0	0	1	0	0
+grewyd	created	0	0	1	0	0
+ieithyddol	linguistic	0	0	1	1	1
+wleidyddol	political	0	0	1	0	0
+categoribeirdd	category: poets	0	0	1	0	0
+categoribeirdd	published	0	0	1	0	0
+wicilyfrau	wicilyfrau	0	0	1	0	0
+margaret	margaret	0	0	1	0	0
+gwlt	cult	0	0	1	0	0
+gwlt	twit	0	0	1	0	0
+fyddai	would	0	0	1	0	0
+tan	to	0	0	1	1	1
+cliff	cliff	0	0	1	0	0
+colofn	column	0	0	1	1	1
+cadeirydd	chair	0	0	1	0	1
+bolifia	bolivia	0	0	1	0	0
+tomos	tomos	0	0	1	0	1
+categorieconomeg	categorieconomeg	0	0	1	0	0
+wyllt	wild	0	0	1	0	0
+melayu	melayu	0	0	1	0	0

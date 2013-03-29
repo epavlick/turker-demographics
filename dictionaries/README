@@ -2,7 +2,7 @@ Dictionaries:
 
 A. Translations checked using external dictionaries (David Y's old set of OCR'd dictionaries):
 dictionaries/anni/externalOverlap
-Final column indiates whether translation pair has been observed in external dictionaries or not. See dictionaries/anni/externalOverlap/README for more details
+Second to final column indiates whether translation pair has been observed in external dictionaries or not and final column indicates if src word appears with any translations in external dictionaries or not. See dictionaries/anni/externalOverlap/README for more details
 
 B. Translation pairs scored using monolingual signals, and a classifier trained on 'control' translation pairs:
 dictionaries/anni/monoScored
