@@ -390,8 +390,8 @@ if __name__ == '__main__':
 	if sys.argv[1] == 'assignments': 
 		write_avg_quals(get_quality_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.voc.quality'%OUTPUT_DIR)
 	if sys.argv[1] == 'turker':
-#		quality_by_turker('%s/byturker.voc.quality.external'%OUTPUT_DIR, '%s/byassign.voc.quality.external'%OUTPUT_DIR)
-		quality_by_turker('%s/byturker.voc.quality'%OUTPUT_DIR, '%s/byassign.voc.quality'%OUTPUT_DIR)
+		quality_by_turker('%s/byturker.voc.quality.external.ext'%OUTPUT_DIR, '%s/byassign.voc.quality.external.ext'%OUTPUT_DIR)
+#		quality_by_turker('%s/byturker.voc.quality'%OUTPUT_DIR, '%s/byassign.voc.quality'%OUTPUT_DIR)
 	if sys.argv[1] == 'goog':
 		write_avg_quals(get_goog_match_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.googmatch'%OUTPUT_DIR)
 		googmatch_by_turker('%s/byturker.googmatch'%OUTPUT_DIR,'%s/byassign.googmatch'%OUTPUT_DIR)

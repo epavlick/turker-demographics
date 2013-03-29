@@ -170,6 +170,32 @@ def conf_int_by_attr_turker(attr):
 	print "n/a", ret['N/A'][2]
 	return ret
 
+#return a dict of {attr: quality estimate}
+#e.g. if attr is 'country', returns something like {IN: quality estimate of IN, RU: quality estimate of RU...}
+#quality estimates are average qualities over turkers 
+def conf_int_by_attr_region(attr, filterlist=[]):
+        tmap = dictionaries.turker_map()
+        ret = dict()
+        data = read_table_file('%s/byassign.voc.accepted'%OUTPUT_DIR)
+        scores = all_avg_scores('%s/byturker.voc.quality%s'%(OUTPUT_DIR,QC,))
+        langs = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, attr)
+        tot = 0
+        avg = list()
+        for l in langs:
+                alist = select_by(data, attr, l).keys()
+		alist = list(set(alist).intersection(set(filterlist)))
+                num_assign = len(alist)
+                tot += num_assign
+                tlist = list(set([tmap[a] for a in alist]))
+		num_turker = len(tlist)
+                avg += tlist
+                ci = avg_score(tlist, scores)
+		if ci is not None: ret[l] = (ci[0], ci[1], num_assign, num_turker, ci[3])
+        ci = avg_score(avg, scores)
+        ret['avg'] = ci
+        print "tot", tot
+        return ret
+
 #compile quality estimates by hit language, and graph the results
 #quality estimates are averages over assignments, cut is minimum number of assignments needed for a hitlang
 #to be included in the graph
@@ -729,6 +755,159 @@ def native_compare_line_graph(native, nonnative):
 	plt.title('Number of native vs. nonnative turkers by # of years speaking English')
 	plt.show()
 
+def dictionary_stats_turker():
+#tr      NL:3    GR:1    CA:1    TR:39   MK:12   GE:1    AU:1    US:20   RO:5    BA:1
+	DICT_DIR = 'dictionaries'
+        dict_files=['%s/nonclpair.turkerlist'%DICT_DIR, '%s/clpair.turkerlist'%DICT_DIR]
+        data = dict()
+        for line in open(dict_files[0]).readlines():
+                c = line.split()
+		for cc in c[1:]:
+			ctry, cnt = cc.split(':')
+			if ctry not in data: data[ctry] = [0, 0]
+			data[ctry][0] += int(cnt)
+        for line in open(dict_files[1]).readlines():
+                c = line.split()
+		for cc in c[1:]:
+			ctry, cnt = cc.split(':')
+			if ctry not in data: data[ctry] = [0, 0]
+			data[ctry][1] += int(cnt)
+        ret = dict()
+        for d in data:
+                ret[d] = (data[d][0], data[d][1])
+        return ret
+
+def region_scatter(title='Title'):
+	points_to_label = ['RO','RU','PK','IN','US','MY','MK','ES','DE','FR','CA','100 turkers']
+	cmap = reverse_cntry_map('ref/countrynames')
+	cmap['100 turkers'] = '100 turkers'
+	attr= 'country'
+	infilter = [l.strip() for l in open('output/byassign.voc.validclpair').readlines()]
+	outfilter = [l.strip() for l in open('output/byassign.voc.invalidclpair').readlines()]
+	ciin = conf_int_by_attr_region(attr, filterlist=[l.strip() for l in open('output/byassign.voc.validclpair').readlines()])
+	ciout = conf_int_by_attr_region(attr, filterlist=[l.strip() for l in open('output/byassign.voc.invalidclpair').readlines()])
+	ciboth = conf_int_by_attr_region(attr, filterlist=infilter+outfilter)
+	for c in ciboth:
+		b = ciboth[c]
+		if c in ciin: i = ciin[c]
+		else: i = (0,0,0,0)
+		if c in ciout: o = ciout[c]
+		else: o = (0,0,0,0)
+		print '%s\t%.03f (%d)\t%.03f (%d)\t%.03f (%d)\n'%(c,b[0],b[3],i[0],i[3],o[0],o[3],)
+	turker_counts = dictionary_stats_turker()
+	namesin = list(); xin = list(); yin = list(); areain=list();
+	namesout = list(); xout = list(); yout = list();areaout=list();
+	namesboth = list(); xboth = list(); yboth = list();areaboth=list();
+	for c in ciin:
+		if(c in turker_counts and not(ciin[c] == None) and (len(ciin[c]) > 3)):
+			namesin.append(c)
+			yin.append(ciin[c][0])
+			xin.append(ciin[c][2])
+			areain.append(ciin[c][3])
+	for c in ciout:
+		if(c in turker_counts and not(ciout[c] == None) and (len(ciout[c]) > 3)):
+			namesout.append(c)
+			yout.append(ciout[c][0])
+			xout.append(ciout[c][2])
+			areaout.append(ciout[c][3])
+	for c in ciboth:
+		if(c in turker_counts and not(ciboth[c] == None) and (len(ciboth[c]) > 3)):
+			namesboth.append(c)
+			yboth.append(ciboth[c][0])
+			xboth.append(ciboth[c][2])
+			areaboth.append(ciboth[c][3])
+#	namesin.append('100 turkers')
+#	yin.append(0.9)
+#	xin.append(50000)
+#	areain.append(100)
+#	turker_counts['100 turkers'] = 100
+        labelsin = list(); labelxin = list(); labelyin = list();
+        labelsout = list(); labelxout = list(); labelyout = list();
+        labelsboth = list(); labelxboth = list(); labelyboth = list();
+	for nm in points_to_label:
+		try:
+			idx = namesin.index(nm)
+        	        labelsin.append(cmap[nm])
+                	labelxin.append(xin[idx])
+                	labelyin.append(yin[idx])
+			idx = namesout.index(nm)
+        	        labelsout.append(cmap[nm])
+                	labelxout.append(xout[idx])
+                	labelyout.append(yout[idx])
+			idx = namesboth.index(nm)
+        	        labelsboth.append(cmap[nm])
+                	labelxboth.append(xboth[idx])
+                	labelyboth.append(yboth[idx])
+		except ValueError: continue
+	#overall
+	plt.scatter(xboth, yboth, s=areaboth)
+	plt.scatter([50000], [0.9], s=[100], color='k')
+	plt.xscale('log')
+	plt.xlim([0,1000000])
+	plt.ylim([0,1])
+	plt.xlabel('Number of assignments', fontsize='14')
+	plt.ylabel('Average quality', fontsize='14')
+	plt.xticks(fontsize='16')
+	plt.yticks(fontsize='16')
+	arrows = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0')
+	for label, x, y in zip(labelsboth, labelxboth, labelyboth):
+        	plt.annotate(label,xy =(x,y),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
+        plt.annotate('100 turkers',xy =(50000,0.9),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
+	plt.show()
+        plt.clf()
+	return
+	#just in region
+	plt.scatter(xin, yin, s=areain)
+	plt.scatter([50000], [0.9], s=[100], color='k')
+	print zip(namesin, xin, yin)
+	plt.xscale('log')
+	plt.xlim([0,100000])
+	plt.ylim([0,1])
+	plt.xlabel('Number of assignments', fontsize='14')
+	plt.ylabel('Average quality', fontsize='14')
+	plt.xticks(fontsize='16')
+	plt.yticks(fontsize='16')
+	arrows = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0')
+	for label, x, y in zip(labelsin, labelxin, labelyin):
+        	plt.annotate(label,xy =(x,y),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
+        plt.annotate('100 turkers',xy =(50000,0.9),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
+	plt.show()
+        plt.clf()
+	#just out of region
+	plt.scatter(xout, yout, s=areaout)
+	plt.scatter([50000], [0.9], s=[100], color='k')
+	print zip(namesout, xout, yout)
+	plt.xscale('log')
+	plt.xlim([0,100000])
+	plt.ylim([0,1])
+	plt.xlabel('Number of assignments', fontsize='14')
+	plt.ylabel('Average quality', fontsize='14')
+	plt.xticks(fontsize='16')
+	plt.yticks(fontsize='16')
+	arrows = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0')
+	for label, x, y in zip(labelsout, labelxout, labelyout):
+        	plt.annotate(label,xy =(x,y),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
+        plt.annotate('100 turkers',xy =(50000,0.9),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
+	plt.show()
+        plt.clf()
+	#both
+	plt.scatter(xin, yin, s=areain)
+	plt.scatter(xout, yout, s=areaout, color='r')
+	plt.scatter([50000], [0.9], s=[100], color='k')
+	plt.xscale('log')
+	plt.xlim([0,100000])
+	plt.ylim([0,1])
+	plt.xlabel('Number of assignments', fontsize='14')
+	plt.ylabel('Average quality', fontsize='14')
+	plt.xticks(fontsize='16')
+	plt.yticks(fontsize='16')
+	arrows = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0')
+	for label, x, y in zip(labelsin + labelsout, labelxin + labelxout, labelyin + labelyout):
+        	plt.annotate(label,xy =(x,y),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
+        plt.annotate('100 turkers',xy =(50000,0.9),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
+	plt.show()
+
+
 #scatter plot of quality against # assignments, bubbles sized by # turkers
 def quality_scatter(title='Title'):
 	#points_to_label = ['VN', 'RO', 'NG', 'AM', 'DZ','RU', 'UK', 'ET', 'PK', 'IN','US','MY','MK','ES', 'ID', '100 turkers']
@@ -1028,6 +1207,8 @@ if __name__ == '__main__':
 	        print_data_for_map()
 	if(plot == 'anova'):
 		anova()
+	if(plot == 'region'):
+		region_scatter()
 
 
 

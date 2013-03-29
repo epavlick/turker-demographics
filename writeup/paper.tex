@@ -177,9 +177,9 @@ Automating approval/rejections for the second-pass evaluation allowed the whole 
 
 \section{Measuring Data Quality}
 
-We quantified the quality of each translation assignment based on the output of the quality assurance HIT as follows:
+We quantified the quality of each translation assignment based on the output of the quality assurance HIT by taking proportion of correct controls. A control was considered correct if it exactly matched the gold standard translation, or if it was judged to be synonymous with the correct translation. I.e.:
 \begin{align}	
-	\text{Quality}(a_i) = \frac{1}{k}\sum\limits_{j=1}^{k_i}\mathbf{1}(tr_{ij} \in \texttt{syns[$g_j$]})
+	\text{Quality}(a_i) = \frac{1}{k_i}\sum\limits_{j=1}^{k_i}\mathbf{1}(tr_{ij} \in \texttt{syns[$g_j$]})
 \end{align}	
 where $a_i$ is the $i^{th}$ assignment, $k_i$ is the number of controls in $a_i$, $tr_j$ is the Turker's provided translation of control word $j$ in assignment $i$, $g_j$ is the gold standard translation of control word $j$, \texttt{syns[$g_j$]} is the set of words judged to be synonymous with $g_j$ during the second pass HIT, and $\mathbf{1}(x)$ is 1 when $x$ is true. 
 
@@ -231,17 +231,17 @@ We performed an analysis of our data to address the following questions, among o
 \paragraph{Speed of completion}
 
 Figure \ref{completion-time} gives the completion times for 40 languages.  
-Urdu and Russian were the first languages to be launched, followed by the others 2 days later. The 10 languages to finish in the shortest amount of time were: Tamil, Malayalam, Telugu, Hindi, Macedonian, Spanish, Serbian, Romanian, Gujarati, and Marathi. 7 of the 10 fastest languages are from India, which is unsurprising given the geographic distribution of workers.  Some languages follow the pattern of having a smattering of assignments completed early, with the rate picking up later. 
+Workers for Urdu and Russian HITs responded almost immediately; workers in the other languages began slightly later. The 10 languages to finish in the shortest amount of time were: Tamil, Malayalam, Telugu, Hindi, Macedonian, Spanish, Serbian, Romanian, Gujarati, and Marathi. 7 of the 10 fastest languages are from India, which is unsurprising given the geographic distribution of workers.  Some languages follow the pattern of having a smattering of assignments completed early, with the rate picking up later. 
 
-\paragraph{Validation of controls} As an extrinsic measure of translation quality, we measure the proportion of $<${\it word, translation}$>$ pairs received from Mechanical Turk which appear in external dictionaries. Turkers' performance on our control tasks is well correlated with this measure of quality. Results are show below in table \ref{corr-table}. 
+\paragraph{Validation of controls} As an extrinsic measure of translation quality, we measure the proportion of $<${\it word, translation}$>$ pairs received from Mechanical Turk which appear in external dictionaries. Turkers' performance on our control tasks is well correlated with this measure of quality. Results are show below in table \ref{corr-table}. We were able to validate the dictionaries we received from MTurk in the 27 languages for which we had external dictionaries: az, bg, bn, bs, cy, es, fa, hi, id, lv, ms, ne, pl, ro, ru, sk, so, sq, sr, ta, tr, uk, ur, uz. Across all 27 languages, 23\% of the source words from the Mechanical Turk dictionaries appeared in the external dictionaries, and could be validated. This was an average of 22\% per language.
 
 \begin{table}[h]
 \centering
 \begin{tabular}{lc}\hline\hline\\
 &$\rho$\\
-Language quality&0.58\\
-Turker quality (languages pooled)&0.37\\
-Avg. Turker quality (languages separate)&0.21\\
+Language quality&0.41\\
+Turker quality (languages pooled)&0.43\\
+Avg. Turker quality (languages separate)&0.26\\
 \hline\hline
 \end{tabular}
 \caption{Pearson correlation of quality measured by accuracy on control translations vs. quality measured by overlap with external dictionaries. Language is the correlation of quality estimates for each language (across 27 languages), Turker quality is the correlation of quality estimates for each Turker (2,472 turkers). Avg. Turker quality is computed by taking the correlation of Turker quality estimates separately for each of the 27 languages, and then taking the average of the correlations. The figure reflects data from 27 languages for which we had available external dictionaries: az, bg, bn, bs, cy, es, fa, hi, id, lv, ms, ne, pl, ro, ru, sk, so, sq, sr, ta, tr, uk, ur, uz.}

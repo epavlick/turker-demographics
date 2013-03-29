@@ -28,8 +28,8 @@ for dict_file in os.listdir(EXTERN_OVERLAP):
 	d, lang = dict_file.split('.')
 	if lang not in pair_scores: pair_scores[lang] = dict()
 	for line in open('%s/%s'%(EXTERN_OVERLAP,dict_file,)).readlines():
-		src, tran, is_control, known_correct, observed, is_match = line.strip().split('\t')
-		pair_scores[lang][(reg(src),reg(tran))] = int(is_match)
+		src, tran, is_control, known_correct, observed, is_match, in_ext = line.strip().split('\t')
+		if int(in_ext) == 1:pair_scores[lang][(reg(src),reg(tran))] = int(is_match)
 
 assign_pairs = dict()
 
