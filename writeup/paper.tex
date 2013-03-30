@@ -62,7 +62,7 @@ How often do workers misrepresent their language abilities to obtain financial r
 %%%%%%%%%%%%%%% MAP OF WORKER LOCATIONS %%%%%%%%%%%
 \begin{figure*}[h]
 \centering
-\includegraphics[width=\linewidth]{final-figures/Turkermap}
+%\includegraphics[width=\linewidth]{final-figures/Turkermap}
 \caption{The number of workers per country.  This map was generated based on geolocating the IP address of  5,277 workers in our study.  The size of the circles represents the number of workers from each country.  The two largest are India (2,017 workers) and the United States (904).  To calibrate the sizes: the Philippines has 147 workers, Egypt has 25, Russia has 10, and Sri Lanka has 4.}
 \label{map}
 \end{figure*}
@@ -157,7 +157,7 @@ Afrikaans (af) Amharic (am) Asturian (ast) Azerbaijani (az) Belarusian (be) Beng
 %%%%%%%%%%%%%%% HITLANG QUALITY BAR %%%%%%%%%%%
 \begin{figure*}[h]
 \begin{center}
-\includegraphics[width=0.8\linewidth]{final-figures/Google-match-bar}
+%\includegraphics[width=0.8\linewidth]{final-figures/Google-match-bar}
 \caption{Translation quality for languages with at least 50 active Turkers.  The dark blue bars indicate the proportion of translations which exactly matched gold standard translations, and light blue indicate translations which were judged to be correct synonyms.  Overall average quality was 0.46 (0.53 among languages with at least 50 Turkers).}
 \label{hitlangqual} 
 \end{center}
@@ -241,7 +241,6 @@ We performed an analysis of our data to address the following questions:
 Figure \ref{completion-time} gives the completion times for 40 languages.  
 Workers for Urdu and Russian HITs responded almost immediately; workers in the other languages began slightly later. The 10 languages to finish in the shortest amount of time were: Tamil, Malayalam, Telugu, Hindi, Macedonian, Spanish, Serbian, Romanian, Gujarati, and Marathi. 7 of the 10 fastest languages are from India, which is unsurprising given the geographic distribution of workers.  Some languages follow the pattern of having a smattering of assignments completed early, with the rate picking up later. 
 
-<<<<<<< HEAD
 \paragraph{Validation of controls} As an extrinsic measure of translation quality, we measure the proportion of $<${\it word, translation}$>$ pairs received from Mechanical Turk which appear in external dictionaries. Turkers' performance on our control tasks is well correlated with this measure of quality. Results are show below in table \ref{corr-table}. We were able to validate the dictionaries we received from MTurk in the 27 languages for which we had external dictionaries: az, bg, bn, bs, cy, es, fa, hi, id, lv, ms, ne, pl, ro, ru, sk, so, sq, sr, ta, tr, uk, ur, uz. Across all 27 languages, 23\% of the source words from the Mechanical Turk dictionaries appeared in the external dictionaries, and could be validated. This was an average of 22\% per language.
 
 \begin{table}[h]
@@ -261,13 +260,8 @@ Avg. Turker quality (languages separate)&0.26\\
 Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we rendered the words and sentences as images to reduce the ability of workers to cheat by copying-and-pasting into online MT systems.  This strategy does not prevent workers from typing the words into an MT system, if they understand the language's script. We measured the percent of translations received that exactly matched the translation returned from google translate. Results are show in figure \ref{google-match-bar}. Assignments averaged around 43\% overlap with google translate. Higher overlap with google translate corresponds slightly to higher quality scores (Pearson $\rho$ = 0.22), suggesting that some of the control translations used may have been already indexed by Google. Languages with exotic scripts (such as Arabic (ar), Chinese (zh), and Telugu (te)) have especially low overlap with Google. 
 
 %%%%%%%%%%%%%%% TURKER QUAL SUMMARY TABLE %%%%%%%%%%%
-\begin{figure*}[h]
-=======
-
-%%%%%%%%%%%%%%% Turker QUAL SUMMARY TABLE %%%%%%%%%%%
-\begin{table*}[h]
->>>>>>> 81a8da54c546f6a3c6f965f1934e41d70ed91b62
 \footnotesize
+\begin{figure*}
 \begin{tabular}{lllll}
 \multicolumn{4}{c}{Number of turkers per language}\\
 \hline\hline
@@ -297,8 +291,8 @@ Sindhi&\textbf{0.15} (93)&0.02 (8)&India (55) Pakistan (37) US (1) &Macedonia (4
 \hline\hline
 \end{tabular}
 \normalsize
-\caption{Translation quality when partitioning the translations into two groups, one contains translations submitted by Turkers whose location is within regions that plausibly speak the foreign language, and the other contains translations from Turkers outside those regions.  }\label{region-summary}
-\end{table*}
+\caption{Translation quality when partitioning the translations into two groups, one contains translations submitted by Turkers whose location is within regions that plausibly speak the foreign language, and the other contains translations from Turkers outside those regions.} \label{region-summary}
+\end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
