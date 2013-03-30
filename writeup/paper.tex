@@ -187,7 +187,8 @@ Automating approval/rejections for the second-pass evaluation allowed the whole 
 20,955 synonym tasks to judge all of the submitted translations (a total of 55,880 unique non-matching word pairs).  These were completed by an additional 1,006 workers.  Each of these assignments included 10 word pairs and paid \$0.10.
 
 
-\section{Measuring Data Quality}
+
+\section{Measuring Translation Quality}
 
 We calculate the quality of translations on the level of individual assignments, individual workers, and languages.  We define an assignment's quality as the proportion of controls that are correct in a given assignment, where correct means exactly correct or judged to be synonymous.
 \begin{align}	
@@ -209,10 +210,11 @@ Quality for a language is then given by
 where $l_i$ is the ith language, \texttt{turkers[$i$]} is the set of turkers who completed assignments for language $i$, and Quality($t$) is as above.
 
 
-Figure \ref{hitlangqual} shows the translation quality for for languages with contributions from at least 50 workers. The 
-%Measured in this way, the average quality score across all HITs in all languages is just under 0.46. When restricted to languages with at least 50 Turkers, the average quality is 0.53. 
+Figure \ref{hitlangqual} shows the translation quality for for languages with contributions from at least 50 workers.  
 
-\section{Data Analysis}
+
+
+\section{Additional Data Analysis}
 
 We performed an analysis of our data to address the following questions, among others:
 \begin{itemize}
@@ -222,16 +224,15 @@ We performed an analysis of our data to address the following questions, among o
 \end{itemize}
 
 
+\paragraph{Speed of completion}
+
 %%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
 \begin{figure}[h]
-\centering
 \includegraphics[height=\linewidth,angle=270]{final-figures/completetime}
 \caption{Days to complete the translation HITs for 40 of the languages. Tick marks represent the completion of individual assignments. }
 \label{completion-time}
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\paragraph{Speed of completion}
 
 Figure \ref{completion-time} gives the completion times for 40 languages.  
 Urdu and Russian were the first languages to be launched, followed by the others 2 days later. The 10 languages to finish in the shortest amount of time were: Tamil, Malayalam, Telugu, Hindi, Macedonian, Spanish, Serbian, Romanian, Gujarati, and Marathi. 7 of the 10 fastest languages are from India, which is unsurprising given the geographic distribution of workers.  Some languages follow the pattern of having a smattering of assignments completed early, with the rate picking up later. 
