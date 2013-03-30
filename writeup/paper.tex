@@ -326,8 +326,8 @@ Given the number of Indian workers on Mechanical Turk, it is unsurprising that t
 
 Given then prevalence of out of region workers, we investigated what proportion of the translations submitted by workers were simply replicating translations from a machine translation system.  Although we followed best practices to deter copying-and-pasting into online MT systems  by  rendering words and sentences as images \cite{zaidan-callisonburch:2011:ACL-HLT2011a}, this strategy does not prevent workers from typing the words into an MT system, if they are able to type in the language's script. 
 
-We used Google Translate to translate all 10,000 words for each of the 64 foreign language that Google Translate covers. We measured the percent of translations received that exactly matched the translation returned from Google translate. Results are show in Figure \ref{Google-match-bar}. 
-Assignments averaged around 43\% overlap with Google translate.  Languages with non-Latin scripts (such as the Arabic script, Chinese characters or the Telugu alphaabet) have lower overlap with Google, suggesting that it is easier for Turkers to cheat for languages written in the Latin alphabet. 
+We used Google Translate to translate all 10,000 words for each of the 50 foreign language that Google Translate covers. We measured the percent of translations received that exactly matched the translation returned from Google translate. Results are show in Figure \ref{googlematch}. 
+Assignments averaged around 42\% overlap with Google translate.  Languages with non-Latin scripts (such as the Arabic script, Chinese characters or the Telugu alphaabet) have lower overlap with Google, suggesting that it is easier for Turkers to cheat for languages written in the Latin alphabet. 
 
 % Google supports:
 %Afrikaans
@@ -401,7 +401,7 @@ Higher overlap with Google translate corresponds slightly to higher quality scor
 
 As an extrinsic measure of translation quality, we measure the proportion of $<${\it word, translation}$>$ pairs received from Mechanical Turk which appear in external dictionaries. Turkers' performance on our control tasks is well correlated with this measure of quality.    We had external bilingual dictionaries for 27 of the 119 languages examined in this study.\footnote{The bilingual dictionaries were between en and az, bg, bn, bs, cy, es, fa, hi, id, lv, ms, ne, pl, ro, ru, sk, so, sq, sr, ta, tr, uk, ur, and uz. }  We used each of these bilingual dictionaries to computer language-level quality scores, using the dictionary's translation as a gold standard translation for any of the 10,000 foreign words in our study.  In some cases, the overlap of words was low, since dictionaries list root forms of words and we translated inflected forms.  
 
-We ranked the 27 languages based on their translation quality scores according to the external dictionaries, and its calculated correlation when compared to the ranking produced by our gold standard control.  The Pearson correlation was $\rho=0.58$.  We computed a correlation coefficient of $\rho=0.37$ for ranking of the translation quality of individual Turkers using the two sources of reference translations.    
+We ranked the 27 languages based on their translation quality scores according to the external dictionaries, and its calculated correlation when compared to the ranking produced by our gold standard control.  The Pearson correlation was $\rho=0.53$.  We computed a correlation coefficient of $\rho=0.37$ for ranking of the translation quality of individual Turkers using the two sources of reference translations.    
 
 Given the strong positive correlation, we are satisfied that the trends reported in this paper hold when using either our gold standard translations or external bilingual dictionaries. 
 
