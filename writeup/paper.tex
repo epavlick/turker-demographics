@@ -153,6 +153,17 @@ Afrikaans (af) Amharic (am) Asturian (ast) Azerbaijani (az) Belarusian (be) Beng
 \caption{A list of the languages that were used in our study, grouped by the number of Wikipedia articles in the language.  Each language's code is given in parentheses.  These language codes are used in other figures throughout this paper.}\label{wikipedia-buckets}
 \end{table}%
 
+
+%%%%%%%%%%%%%%% HITLANG QUALITY BAR %%%%%%%%%%%
+\begin{figure*}[h]
+\includegraphics[width=\linewidth]{final-figures/google-match-bar}
+\caption{Translation quality for languages with at least 50 active turkers.  The dark blue bars indicate the proportion of translations which exactly matched gold standard translations, and light blue indicate translations which were judged to be correct synonyms.  Overall average quality was 0.46 (0.53 among languages with at least 50 Turkers).}
+\label{hitlangqual}
+\end{figure*}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
 \paragraph{Translation HIT}
 
 For the translation task, we asked Turkers to translate individual words.  We showed each word in the context of three sentences that were drawn from Wikipedia.  
@@ -175,39 +186,31 @@ We checked Turkers who were working on this task by embedding pairs of words whi
 Automating approval/rejections for the second-pass evaluation allowed the whole pipeline to be run automatically.  Caching judgments meant that we ultimately needed only 
 20,955 synonym tasks to judge all of the submitted translations (a total of 55,880 unique non-matching word pairs).  These were completed by an additional 1,006 workers.  Each of these assignments included 10 word pairs and paid \$0.10.
 
+
 \section{Measuring Data Quality}
 
-We quantified the quality of each translation assignment based on the output of the quality assurance HIT by taking proportion of correct controls. A control was considered correct if it exactly matched the gold standard translation, or if it was judged to be synonymous with the correct translation. I.e.:
+We calculate the quality of translations on the level of individual assignments, individual workers, and languages.  We define an assignment's quality as the proportion of controls that are correct in a given assignment, where correct means exactly correct or judged to be synonymous.
 \begin{align}	
-	\text{Quality}(a_i) = \frac{1}{k_i}\sum\limits_{j=1}^{k_i}\mathbf{1}(tr_{ij} \in \texttt{syns[$g_j$]})
+	\text{Quality}(a_i) = \frac{1}{k}\sum\limits_{j=1}^{k_i}\mathbf{\delta}(tr_{ij} \in \texttt{syns[$g_j$]})
 \end{align}	
-where $a_i$ is the $i^{th}$ assignment, $k_i$ is the number of controls in $a_i$, $tr_j$ is the Turker's provided translation of control word $j$ in assignment $i$, $g_j$ is the gold standard translation of control word $j$, \texttt{syns[$g_j$]} is the set of words judged to be synonymous with $g_j$ during the second pass HIT, and $\mathbf{1}(x)$ is 1 when $x$ is true. 
-
+where $a_i$ is the $i^{th}$ assignment, $k_i$ is the number of controls in $a_i$, $tr_j$ is the Turker's provided translation of control word $j$ in assignment $i$, $g_j$ is the gold standard translation of control word $j$, \texttt{syns[$g_j$]} is the set of words judged to be synonymous with $g_j$ and includes $g_j$, and $\mathbf{\delta}(x)$ is Kronecker's delta and takes value 1 when $x$ is true. 
 Most assignments had two known words embedded, so most assignments had scores of either 0, 0.5, or 1. 
 
-Since by-assignment quality scores are noisy and sensitive to small numbers of highly active Turkers, we report quality scores as the average per-turker quality, where a Turker's quality is just the average quality of all the assignments that the Turker completed:
+Since judging overall quality for a language with assignment quality scores is biased towards to small numbers of highly active Turkers, we instead report language quality scores as the average per-turker quality, where a Turker's quality is  the average quality of all the assignments that she completed:
 \begin{align}	
 	\text{Quality}(t_i) = \frac{\sum_{a_j \in \texttt{assigns[$i$]}\text{Quality}(a_j)}}{\mid \texttt{assigns[$i$]} \mid}
 \end{align}	
 where $t_i$ is the $i^{th}$ turker, \texttt{assigns[$i$]} is the assignments completed by turker $i$, and Quality($a$) is as above.
-	
+%
 Quality for a language is then given by
 \begin{align}	
 	\text{Quality}(l_i) = \frac{\sum_{t_j \in \texttt{turkers[$i$]}\text{Quality}(t_j)}}{\mid \texttt{turkers[$i$]} \mid}
 \end{align}	
 where $l_i$ is the ith language, \texttt{turkers[$i$]} is the set of turkers who completed assignments for language $i$, and Quality($t$) is as above.
 
-Measured in this way, the average quality score across all HITs in all languages is just under 0.46. When restricted to languages with at least 50 Turkers, the average quality is 0.53. 
 
-%%%%%%%%%%%%%%% HITLANG QUALITY BAR %%%%%%%%%%%
-\begin{figure}[h]
-\centering
-\includegraphics[height=\linewidth,angle=270]{final-figures/google-match-bar}
-\caption{Translation quality of by source language. Blue bars show quality estimates by language and green bars show proportion of translations which matched Google Translate. Total quality is calculated as the average number of control words which were correct translations of the source word, where ”correct” means that the provided translation was judged to be synonymous with the known translation by workers in a second-
-pass HIT. Dark blue bars indicate the proportion of translations which exactly matched known translations, and light blue indicate translations which were judged to be correct synonyms. Quality estimates are only show for languages with at least 50 active turkers. Overall average quality was 0.46 (0.53 among languages with at least 50 Turkers).}
-\label{hitlangqual}
-\end{figure}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Figure \ref{hitlangqual} shows the translation quality for for languages with contributions from at least 50 workers. The 
+%Measured in this way, the average quality score across all HITs in all languages is just under 0.46. When restricted to languages with at least 50 Turkers, the average quality is 0.53. 
 
 \section{Data Analysis}
 
