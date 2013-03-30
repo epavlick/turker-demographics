@@ -53,7 +53,8 @@ def dictionary_stats_turker():
         return ret 
 
 def dictionary_stats_turkerqual():
-        dict_files=['%s/nonclpair.turkerqual'%DICT_DIR, '%s/clpair.turkerqual'%DICT_DIR]
+#        dict_files=['%s/nonclpair.turkerqual'%DICT_DIR, '%s/clpair.turkerqual'%DICT_DIR]
+        dict_files=['%s/nonclpair.assignqual'%DICT_DIR, '%s/clpair.assignqual'%DICT_DIR]
         data = dict()
         for line in open(dict_files[0]).readlines():
                 lang, count = line.split()

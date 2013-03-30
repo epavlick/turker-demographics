@@ -71,6 +71,8 @@ def format_for_graph(data):
 		lang = data[l]	
 		complete = lang[1] - lang[0]
 		start = lang[0] - mindate
+#		if lang == 'ru' or lang == 'ur': ret.append((l,complete, start+(86400*2), start+complete))
+#		else: ret.append((l,complete, start, start+complete))
 		ret.append((l,complete, start, start+complete))
 	return sorted(ret, key=operator.itemgetter(3)) 
 
@@ -98,7 +100,10 @@ def format_for_time_series(data):
 		lang = langids[hitlangs[hitmap[aid]]]
 		if lang not in all_times:
 			all_times[lang] = list()
-		all_times[lang].append(total)
+		if lang == 'ru' or lang == 'ur': 
+			all_times[lang].append(total+datetime.timedelta(days=2))
+		else:
+			all_times[lang].append(total)
 	try:
 		all_times.pop('en')
 	except KeyError:
@@ -116,12 +121,13 @@ def time_series(data, num=40):
 		x += [t.total_seconds() for t in data[lang]]
 		y += [5+(i*5)]*len(data[lang])
 	plt.scatter(x,y,marker='|', alpha=0.1)
-	plt.xlim([0,max(x)+5])
+	plt.xlim([min(x),max(x)+5])
 	plt.ylim([0,max(y)+5])
         plt.yticks(sorted(list(set(y))), tuple(names))
 	xmax = int(math.ceil(max(x)))
+	xmin = int(math.ceil(min(x)))
 	max_days = int(math.ceil(max(x)/SEC_PER_DAY))
-        plt.xticks(range(0,xmax,5*SEC_PER_DAY), range(0,max_days,5))
+        plt.xticks(range(xmin,xmax,5*SEC_PER_DAY), range(0,max_days,5))
         plt.xlabel('Time in days')
 	plt.show()
 

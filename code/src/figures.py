@@ -560,7 +560,7 @@ def goog_graphs(all_ci_dict, title='Graph', graph_avg=False, cutoff=3000, sort=N
 	        names = [c for c in sort]
         plt.bar(xax, yax, width/2, ecolor='black',color='#60AFFE')
         plt.bar(xax, yax2, width/2, ecolor='black',color='b')
-        plt.bar([x+width/2 for x in xax], yax3, width/2, ecolor='black',color='g')
+    #    plt.bar([x+width/2 for x in xax], yax3, width/2, ecolor='black',color='g')
 	if(graph_avg):
 		bidx = names.index('avg')
 		plt.bar(xax[bidx], yax[bidx], width/2, color='r') 
@@ -1016,7 +1016,7 @@ def quality_scatter(title='Title'):
 	cmap['100 turkers'] = '100 turkers'
 	cia = conf_int_by_attr(attr)
 	ci = conf_int_by_attr_turker(attr)
-	print_table(ci, cia)
+	#print_table(ci, cia)
 	turker_counts = count_turkers(attr)
 	names = list()
 	x = list()
@@ -1026,13 +1026,13 @@ def quality_scatter(title='Title'):
 	for c in ci:
 		if(c in turker_counts and not(ci[c] == None) and not(cia[c] == None) and (len(ci[c]) > 3)):
 			names.append(c)
-			y.append(ci[c][0])
-			ya.append(cia[c][0])
+			#y.append(ci[c][0])
+			y.append(cia[c][0])
 			e.append(ci[c][3])
 			x.append(ci[c][2])
-			xa.append(ci[c][2])
 	names.append('100 turkers')
 	y.append(0.9)
+	ya.append(0.9)
 	x.append(50000)
 	turker_counts['100 turkers'] = 100
         labels = list()
@@ -1045,8 +1045,8 @@ def quality_scatter(title='Title'):
                 labely.append(y[idx])
 	area = [turker_counts[n] for i,n in enumerate(names)]
 	print len(x), len(y), len(ya)
+#	plt.scatter(x, y, s=area)
 	plt.scatter(x, y, s=area)
-	plt.scatter(xa, ya, s=area, color='r')
 	plt.xscale('log')
 	plt.xlim([.1,1000000])
 	plt.ylim([0,1])
@@ -1295,8 +1295,8 @@ if __name__ == '__main__':
 	if(plot == 'exact_match'):
 		exact_match_qual()
 	if(plot == 'goog'):
-		keyorder = goog_match_qual()
-		goog_match_qual_assign(sort=keyorder)
+		#keyorder = goog_match_qual()
+		goog_match_qual_assign()
 	if(plot == 'quality_scatter'):
 		quality_scatter()
 	if(plot == 'native_compare_bar'):
