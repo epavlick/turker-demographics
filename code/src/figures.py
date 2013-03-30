@@ -125,26 +125,44 @@ def avg_score(assign_list, scores):
 		return None
 	n, (smin, smax), sm, sv, ss, sk = stats.describe(dist)
 	moe = math.sqrt(sv)/math.sqrt(n) * 2.576
-	return (sm, (sm - moe, sm + moe), n, moe)
+	return (sm, (sm - moe, sm + moe), n, moe, sv)
 
 #return a dict of {attr: quality estimate}
 #e.g. if attr is 'country', returns something like {IN: quality estimate of IN, RU: quality estimate of RU...}
 #quality estimates are average qualities over assignments
 def conf_int_by_attr(attr):
-	ret = dict()
-	data = read_table_file('%s/byassign.voc.accepted'%OUTPUT_DIR)
-	scores = all_avg_scores('%s/byassign.voc.quality%s'%(OUTPUT_DIR,QC,))
-	langs = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, attr)
-	avg = list()
-	for l in langs:
-		alist = select_by(data, attr, l).keys()
-		avg += alist
-		ci = avg_score(alist, scores)
-		ret[l] = ci
-	ci = avg_score(avg, scores)
-	ret['avg'] = ci
+#	ret = dict()
+#	data = read_table_file('%s/byassign.voc.accepted'%OUTPUT_DIR)
+#	scores = all_avg_scores('%s/byassign.voc.quality%s'%(OUTPUT_DIR,QC,))
+#	langs = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, attr)
+#	avg = list()
+#	for l in langs:
+#		alist = select_by(data, attr, l).keys()
+#		avg += alist
+#		ci = avg_score(alist, scores)
+#		ret[l] = ci
+#	ci = avg_score(avg, scores)
+#	ret['avg'] = ci
+#	return ret
+        ret = dict()
+        data = read_table_file('%s/byassign.voc.accepted'%OUTPUT_DIR)
+        scores = all_avg_scores('%s/byassign.voc.quality%s'%(OUTPUT_DIR,QC,), turkers=False)
+        langs = all_keys('%s/byassign.voc.accepted'%OUTPUT_DIR, attr)
+        tot = 0
+        avg = list()
+        for l in langs:
+                alist = select_by(data, attr, l).keys()
+                num_assign = len(alist)
+                tot += num_assign
+                avg += alist
+                ci = avg_score(alist, scores)
+                ret[l] = (ci[0], ci[1], num_assign, ci[3], ci[4])
+        ci = avg_score(avg, scores)
+        ret['avg'] = ci
+        print "tot", tot
+#        print "n/a", ret['N/A'][2]
 	return ret
-
+                                    
 #return a dict of {attr: quality estimate}
 #e.g. if attr is 'country', returns something like {IN: quality estimate of IN, RU: quality estimate of RU...}
 #quality estimates are average qualities over turkers 
@@ -163,11 +181,11 @@ def conf_int_by_attr_turker(attr):
 		tlist = list(set([tmap[a] for a in alist]))
 		avg += tlist
 		ci = avg_score(tlist, scores)
-		ret[l] = (ci[0], ci[1], num_assign, ci[3])
+		ret[l] = (ci[0], ci[1], num_assign, ci[3], ci[4])
 	ci = avg_score(avg, scores)
 	ret['avg'] = ci
 	print "tot", tot
-	print "n/a", ret['N/A'][2]
+#	print "n/a", ret['N/A'][2]
 	return ret
 
 #return a dict of {attr: quality estimate}
@@ -316,6 +334,73 @@ def exact_match_qual(cut=50):
 	match_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
 	exact_match_graphs(sorted([(k,qual_by_lang[k],match_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut)
 
+def goog_match_qual_assign(cut=50, sort=None):
+	assigns_by_lang = dict()
+	qual_by_assign = dict()
+	match_by_assign = dict()
+	goog_by_assign = dict()
+	qual_by_lang = dict()
+	match_by_lang = dict()
+	goog_by_lang = dict()
+	avg_qual = list()
+	avg_match = list()
+	avg_goog = list()
+	for line in csv.DictReader(open('%s/byassign.voc.accepted'%OUTPUT_DIR), delimiter='\t'):
+		lang = line['hitlang']
+		if lang not in assigns_by_lang:
+			assigns_by_lang[lang] = set()
+		assigns_by_lang[lang].add(line['id'])
+	for line in csv.DictReader(open('%s/byassign.voc.quality%s'%(OUTPUT_DIR,QC,)), delimiter='\t'):
+		aid = line['id']
+		q = line['avg']
+		qual_by_assign[aid] = q
+	for line in csv.DictReader(open('%s/byassign.voc.quality.exactmatch'%OUTPUT_DIR), delimiter='\t'):
+		aid = line['id']
+		q = line['avg']
+		match_by_assign[aid] = q
+	for line in csv.DictReader(open('%s/byassign.googmatch'%OUTPUT_DIR), delimiter='\t'):
+		aid = line['id']
+		q = line['avg']
+		goog_by_assign[aid] = q
+	for l in assigns_by_lang.keys():
+		qual = list()
+		match = list()
+		goog = list()
+		for a in assigns_by_lang[l]:
+			if a not in qual_by_assign or a not in match_by_assign:
+				continue
+			q = qual_by_assign[a]
+			m = match_by_assign[a]
+			if a in goog_by_assign:
+				g = goog_by_assign[a]
+			else:
+				g = None
+			if not(q == 'N/A') and not(m=='N/A') and not(g=='N/A'):
+				qual.append(float(q))
+				match.append(float(m))
+				avg_qual.append(float(q))
+				avg_match.append(float(m))
+				if g:
+					goog.append(float(g))
+					avg_goog.append(float(g))
+				else:
+					goog.append(None)
+		if len(qual) > 0 and len(match) > 0:
+	        	n, (smin, smax), sm, sv, ss, sk = stats.describe(qual)
+        		moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+			qual_by_lang[l] = (sm, (sm - moe, sm + moe), n, moe)
+        		n, (smin, smax), sm, sv, ss, sk = stats.describe(match)
+    	    		moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+			match_by_lang[l] = (sm, (sm - moe, sm + moe), n, moe)
+			if None in goog:
+				goog_by_lang[l] = None
+			else:
+	        		n, (smin, smax), sm, sv, ss, sk = stats.describe(goog)
+        			moe = math.sqrt(sv)/math.sqrt(n) * 2.576
+				goog_by_lang[l] = (sm, (sm - moe, sm + moe), n, moe)
+	goog_graphs(sorted([(k,qual_by_lang[k],match_by_lang[k], goog_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut, sort=sort)
+
+
 #compile exact match ratios, google translate ratios,  and quality estimates by hit language, and graph the results
 #quality estimates are averages over turkers, cut is minimum number of turkers needed for a hitlang
 #to be included in the graph
@@ -395,7 +480,7 @@ def goog_match_qual(cut=50):
 	#print 'qual', qual_by_lang['avg'] 
 	#print 'match', match_by_lang['avg'] 
 	#print 'goog', goog_by_lang['avg'] 
-	goog_graphs(sorted([(k,qual_by_lang[k],match_by_lang[k], goog_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut)
+	return goog_graphs(sorted([(k,qual_by_lang[k],match_by_lang[k], goog_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut)
 
 #returns a dict of {attr1: {attr2: list of assignments}}
 #e.g. if attr1 = 'country' and attr2 = 'language', returns a dict of scores keyed by assignment_id and a dictionary of form 
@@ -449,28 +534,30 @@ def exact_match_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
 
 #stacked bar graph of proportion of exact matches and proportion of synonymn matches
 #side by side with proportion of google translate matches
-def goog_graphs(all_ci_dict, title='Graph', graph_avg=False, cutoff=3000):	
+def goog_graphs(all_ci_dict, title='Graph', graph_avg=False, cutoff=3000, sort=None):	
 	width = .8
 	ci_dict = [c for c in all_ci_dict if (c[1][2] >= cutoff and not(c[3] == None))]
-	yax = [c[1][0] for c in ci_dict]
-	yax2 = [c[2][0] for c in ci_dict]
-	yax3 = [c[3][0] for c in ci_dict]
-	err = [c[1][3] for c in ci_dict]
-	err2 = [c[2][3] for c in ci_dict]
-	err3 = [c[3][3] for c in ci_dict]
-#	yax3 = list()
-#	err3 = list()
-#	for c in ci_dict:
-#		if c[3] == None:
-#			print c
-#			yax3.append(0)
-#			err3.append(0)
-#		else:
-#			yax3.append(c[3][0])
-#			err3.append(c[3][3])
-	print float(sum(yax)) / len(yax)
-        xax = range(len(ci_dict))
-        names = [c[0] for c in ci_dict]
+	if sort is None:
+		yax = [c[1][0] for c in ci_dict]
+		yax2 = [c[2][0] for c in ci_dict]
+		yax3 = [c[3][0] for c in ci_dict]
+		err = [c[1][3] for c in ci_dict]
+		err2 = [c[2][3] for c in ci_dict]
+		err3 = [c[3][3] for c in ci_dict]
+		print float(sum(yax)) / len(yax)
+	        xax = range(len(ci_dict))
+	        names = [c[0] for c in ci_dict]
+	else:
+		todict = {c[0]: c for c in ci_dict}
+		yax = [todict[c][1][0] for c in sort]
+		yax2 = [todict[c][2][0] for c in sort]
+		yax3 = [todict[c][3][0] for c in sort]
+		err = [todict[c][1][3] for c in sort]
+		err2 = [todict[c][2][3] for c in sort]
+		err3 = [todict[c][3][3] for c in sort]
+		print float(sum(yax)) / len(yax)
+	        xax = range(len(sort))
+	        names = [c for c in sort]
         plt.bar(xax, yax, width/2, ecolor='black',color='#60AFFE')
         plt.bar(xax, yax2, width/2, ecolor='black',color='b')
         plt.bar([x+width/2 for x in xax], yax3, width/2, ecolor='black',color='g')
@@ -485,6 +572,7 @@ def goog_graphs(all_ci_dict, title='Graph', graph_avg=False, cutoff=3000):
 	plt.ylim([0,max(yax)+.1])
 	plt.xlim([0,len(ci_dict)])
 	plt.show()
+	return names
 	#plt.savefig('figures/google-match-bar.pdf')
 
 #bar graph with error bars
@@ -907,6 +995,17 @@ def region_scatter(title='Title'):
         plt.annotate('100 turkers',xy =(50000,0.9),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
 	plt.show()
 
+def print_table():
+	cmap = reverse_cntry_map('ref/countrynames')
+#        cmap = reverse_lang_map('%s/languages'%RAW_DIR)
+	attr = 'country'
+	cia = conf_int_by_attr(attr)
+	ci = conf_int_by_attr_turker(attr)
+	print '\tby turker\tby assign'
+	for c in ci:
+		if c == 'avg' or c == 'N/A': continue
+		print '%s\t%.02f (%.02f)\t%.02f (%.02f)\t%d'%(cmap[c], ci[c][0], math.sqrt(ci[c][4]), cia[c][0], math.sqrt(cia[c][4]),cia[c][2])
+	print 'Avg.\t%.02f (%.02f)\t%.02f (%.02f)\t%d'%(ci['avg'][0], math.sqrt(ci['avg'][4]), cia['avg'][0], math.sqrt(cia['avg'][4]), cia['avg'][2])
 
 #scatter plot of quality against # assignments, bubbles sized by # turkers
 def quality_scatter(title='Title'):
@@ -915,19 +1014,23 @@ def quality_scatter(title='Title'):
 	attr = 'country'
 	cmap = reverse_cntry_map('ref/countrynames')
 	cmap['100 turkers'] = '100 turkers'
-#	ci = conf_int_by_attr(attr)
+	cia = conf_int_by_attr(attr)
 	ci = conf_int_by_attr_turker(attr)
+	print_table(ci, cia)
 	turker_counts = count_turkers(attr)
 	names = list()
 	x = list()
 	y = list()
+	ya = list()
 	e = list()
 	for c in ci:
-		if(c in turker_counts and not(ci[c] == None) and (len(ci[c]) > 3)):
+		if(c in turker_counts and not(ci[c] == None) and not(cia[c] == None) and (len(ci[c]) > 3)):
 			names.append(c)
 			y.append(ci[c][0])
+			ya.append(cia[c][0])
 			e.append(ci[c][3])
 			x.append(ci[c][2])
+			xa.append(ci[c][2])
 	names.append('100 turkers')
 	y.append(0.9)
 	x.append(50000)
@@ -941,7 +1044,9 @@ def quality_scatter(title='Title'):
                 labelx.append(x[idx])
                 labely.append(y[idx])
 	area = [turker_counts[n] for i,n in enumerate(names)]
+	print len(x), len(y), len(ya)
 	plt.scatter(x, y, s=area)
+	plt.scatter(xa, ya, s=area, color='r')
 	plt.xscale('log')
 	plt.xlim([.1,1000000])
 	plt.ylim([0,1])
@@ -1190,7 +1295,8 @@ if __name__ == '__main__':
 	if(plot == 'exact_match'):
 		exact_match_qual()
 	if(plot == 'goog'):
-		goog_match_qual()
+		keyorder = goog_match_qual()
+		goog_match_qual_assign(sort=keyorder)
 	if(plot == 'quality_scatter'):
 		quality_scatter()
 	if(plot == 'native_compare_bar'):
@@ -1209,6 +1315,8 @@ if __name__ == '__main__':
 		anova()
 	if(plot == 'region'):
 		region_scatter()
+	if(plot == 'ta_table'):
+		print_table()
 
 
 
