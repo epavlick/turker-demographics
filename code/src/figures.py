@@ -334,7 +334,7 @@ def exact_match_qual(cut=50):
 	match_by_lang['avg'] = (sm, (sm - moe, sm + moe), n, moe)
 	exact_match_graphs(sorted([(k,qual_by_lang[k],match_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut)
 
-def goog_match_qual_assign(cut=50, sort=None):
+def goog_match_qual_assign(cut=0, sort=None):
 	assigns_by_lang = dict()
 	qual_by_assign = dict()
 	match_by_assign = dict()
@@ -362,7 +362,7 @@ def goog_match_qual_assign(cut=50, sort=None):
 		aid = line['id']
 		q = line['avg']
 		goog_by_assign[aid] = q
-	for l in assigns_by_lang.keys():
+	for l in ['el', 'eo', 'zh', 'af', 'vi', 'is', 'it', 'kn', 'cs', 'cy', 'ar', 'eu', 'gl', 'id', 'es', 'ru', 'az', 'nl', 'pt', 'tr', 'lv', 'lt', 'th', 'gu', 'ro', 'ca', 'pl', 'ta', 'fr', 'bg', 'ms', 'hr', 'de', 'da', 'fa', 'fi', 'hy', 'hu', 'ja', 'he', 'te', 'sr', 'sq', 'ko', 'sv', 'ur', 'sk', 'uk', 'sl', 'sw']: #assigns_by_lang.keys():
 		qual = list()
 		match = list()
 		goog = list()
@@ -398,13 +398,15 @@ def goog_match_qual_assign(cut=50, sort=None):
 	        		n, (smin, smax), sm, sv, ss, sk = stats.describe(goog)
         			moe = math.sqrt(sv)/math.sqrt(n) * 2.576
 				goog_by_lang[l] = (sm, (sm - moe, sm + moe), n, moe)
-	goog_graphs(sorted([(k,qual_by_lang[k],match_by_lang[k], goog_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(1), reverse=True), cutoff=cut, sort=sort)
+	print goog_by_lang
+	print len(goog_by_lang)
+	goog_graphs(sorted([(k,qual_by_lang[k],match_by_lang[k], goog_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(3), reverse=True), cutoff=cut, sort=sort)
 
 
 #compile exact match ratios, google translate ratios,  and quality estimates by hit language, and graph the results
 #quality estimates are averages over turkers, cut is minimum number of turkers needed for a hitlang
 #to be included in the graph
-def goog_match_qual(cut=50):
+def goog_match_qual(cut=0):
         tmap = dictionaries.turker_map()
 	assigns_by_lang = dict()
 	qual_by_assign = dict()
@@ -502,7 +504,7 @@ def two_way_split(attr1, attr2):
 
 #take the output of two_way_quality and put in form {attr : messy_tuple_of_quality_metrics} and transform into list of tuples
 #of (attr, quality) sorted by n (number of assignments or number of turkers)
-def clean_ints(data, cutoff=50, sorting=None):
+def clean_ints(data, cutoff=0, sorting=None):
 	ret = list()
 	for c in data:
 		if(not(data[c] == None)):
@@ -545,6 +547,7 @@ def goog_graphs(all_ci_dict, title='Graph', graph_avg=False, cutoff=3000, sort=N
 		err2 = [c[2][3] for c in ci_dict]
 		err3 = [c[3][3] for c in ci_dict]
 		print float(sum(yax)) / len(yax)
+		print float(sum(yax3)) / len(yax3)
 	        xax = range(len(ci_dict))
 	        names = [c[0] for c in ci_dict]
 	else:
@@ -558,9 +561,9 @@ def goog_graphs(all_ci_dict, title='Graph', graph_avg=False, cutoff=3000, sort=N
 		print float(sum(yax)) / len(yax)
 	        xax = range(len(sort))
 	        names = [c for c in sort]
-        plt.bar(xax, yax, width/2, ecolor='black',color='#60AFFE')
-        plt.bar(xax, yax2, width/2, ecolor='black',color='b')
-    #    plt.bar([x+width/2 for x in xax], yax3, width/2, ecolor='black',color='g')
+#        plt.bar(xax, yax, width/2, ecolor='black',color='#60AFFE')
+#        plt.bar(xax, yax2, width/2, ecolor='black',color='b')
+        plt.bar([x+(width/2) for x in xax], yax3, width, ecolor='black',color='g')
 	if(graph_avg):
 		bidx = names.index('avg')
 		plt.bar(xax[bidx], yax[bidx], width/2, color='r') 
@@ -647,7 +650,7 @@ def compare_native_speakers():
 		graph_data_clean[k] = new
 	return sort_data(graph_data_clean)
 
-def native_compare_bar_graph(quals, cutoff=50):
+def native_compare_bar_graph(quals, cutoff=0):
 	ret = list()
 	all_yes = list()
 	all_no = list()
@@ -1296,7 +1299,7 @@ if __name__ == '__main__':
 		exact_match_qual()
 	if(plot == 'goog'):
 		#keyorder = goog_match_qual()
-		goog_match_qual_assign()
+		goog_match_qual_assign(cut=0)
 	if(plot == 'quality_scatter'):
 		quality_scatter()
 	if(plot == 'native_compare_bar'):
