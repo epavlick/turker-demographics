@@ -208,17 +208,24 @@ We calculate the quality of translations on the level of individual assignments,
 where $a_i$ is the $i^{th}$ assignment, $k_i$ is the number of controls in $a_i$, $tr_j$ is the Turker's provided translation of control word $j$ in assignment $i$, $g_j$ is the gold standard translation of control word $j$, \texttt{syns[$g_j$]} is the set of words judged to be synonymous with $g_j$ and includes $g_j$, and $\mathbf{\delta}(x)$ is Kronecker's delta and takes value 1 when $x$ is true. 
 Most assignments had two known words embedded, so most assignments had scores of either 0, 0.5, or 1. 
 
-Since judging overall quality for a language with assignment quality scores is biased towards to small numbers of highly active Turkers, we instead report language quality scores as the average per-Turker quality, where a Turker's quality is  the average quality of all the assignments that she completed:
-\begin{align}	
-	\text{Quality}(t_i) = \frac{\sum_{a_j \in \texttt{assigns[$i$]}\text{Quality}(a_j)}}{\mid \texttt{assigns[$i$]} \mid}
-\end{align}	
-where $t_i$ is the $i^{th}$ Turker, \texttt{assigns[$i$]} is the assignments completed by Turker $i$, and Quality($a$) is as above.
+%Since judging overall quality for a language with assignment quality scores is biased towards to small numbers of highly active Turkers, we instead report language quality scores as the average per-Turker quality, where a Turker's quality is  the average quality of all the assignments that she completed:
+%\begin{align}	
+%	\text{Quality}(t_i) = \frac{\sum_{a_j \in \texttt{assigns[$i$]}\text{Quality}(a_j)}}{\mid \texttt{assigns[$i$]} \mid}
+%\end{align}	
+%where $t_i$ is the $i^{th}$ Turker, \texttt{assigns[$i$]} is the assignments completed by Turker $i$, and Quality($a$) is as above.
 %
+
 Quality for a language is then given by
 \begin{align}	
-	\text{Quality}(l_i) = \frac{\sum_{t_j \in \texttt{Turkers[$i$]}\text{Quality}(t_j)}}{\mid \texttt{Turkers[$i$]} \mid}
+	\text{Quality}(l_i) = \frac{\sum_{a_j \in \texttt{assigns[$i$]}\text{Quality}(a_j)}}{\mid \texttt{assigns[$i$]} \mid}
 \end{align}	
-where $l_i$ is the ith language, \texttt{Turkers[$i$]} is the set of Turkers who completed assignments for language $i$, and Quality($t$) is as above.
+where $l_i$ is the ith language, \texttt{assigns[$i$]} is the set of completed assignments for language $i$, and Quality($a$) is as above.
+
+%Quality for a language is then given by
+%\begin{align}	
+%	\text{Quality}(l_i) = \frac{\sum_{t_j \in \texttt{Turkers[$i$]}\text{Quality}(t_j)}}{\mid \texttt{Turkers[$i$]} \mid}
+%\end{align}	
+%where $l_i$ is the ith language, \texttt{Turkers[$i$]} is the set of Turkers who completed assignments for language $i$, and Quality($t$) is as above.
 
 
 Figure \ref{hitlangqual} shows the translation quality for for languages with contributions from at least 50 workers.  
@@ -326,8 +333,10 @@ Given the number of Indian workers on Mechanical Turk, it is unsurprising that t
 
 Given then prevalence of out of region workers, we investigated what proportion of the translations submitted by workers were simply replicating translations from a machine translation system.  Although we followed best practices to deter copying-and-pasting into online MT systems  by  rendering words and sentences as images \cite{zaidan-callisonburch:2011:ACL-HLT2011a}, this strategy does not prevent workers from typing the words into an MT system, if they are able to type in the language's script. 
 
-We used Google Translate to translate all 10,000 words for each of the 50 foreign language that Google Translate covers. We measured the percent of translations received that exactly matched the translation returned from Google translate. Results are show in Figure \ref{googlematch}. 
+We used Google Translate to translate all 10,000 words for 50 foreign languages that Google Translate covers. We measured the percent of translations received that exactly matched the translation returned from Google translate. Results are show in Figure \ref{googlematch}. 
 Assignments averaged around 42\% overlap with Google translate.  Languages with non-Latin scripts (such as the Arabic script, Chinese characters or the Telugu alphaabet) have lower overlap with Google, suggesting that it is easier for Turkers to cheat for languages written in the Latin alphabet. 
+
+%We translated: af ar az bg ca cs cy da de el eo es eu fa fi fr gl gu he hr hu hy id is it ja kn ko lt lv ms nl pl pt ro ru sk sl sq sr sv sw ta te th tr uk ur vi zh
 
 % Google supports:
 %Afrikaans

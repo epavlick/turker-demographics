@@ -362,12 +362,14 @@ def goog_match_qual_assign(cut=0, sort=None):
 		aid = line['id']
 		q = line['avg']
 		goog_by_assign[aid] = q
-	for l in ['el', 'eo', 'zh', 'af', 'vi', 'is', 'it', 'kn', 'cs', 'cy', 'ar', 'eu', 'gl', 'id', 'es', 'ru', 'az', 'nl', 'pt', 'tr', 'lv', 'lt', 'th', 'gu', 'ro', 'ca', 'pl', 'ta', 'fr', 'bg', 'ms', 'hr', 'de', 'da', 'fa', 'fi', 'hy', 'hu', 'ja', 'he', 'te', 'sr', 'sq', 'ko', 'sv', 'ur', 'sk', 'uk', 'sl', 'sw']: #assigns_by_lang.keys():
+
+	for l in ['af', 'sq', 'ar', 'be', 'bg', 'ca', 'zh', 'zh', 'hr', 'cs', 'da', 'nl', 'eo', 'fi', 'fr', 'gl', 'de', 'el', 'he', 'hi', 'hu', 'is', 'id', 'ga', 'it', 'ja', 'ko', 'lv', 'lt', 'mk', 'ms', 'fa', 'pl', 'pt', 'ro', 'ru', 'sr', 'sk', 'sl', 'es', 'sw', 'sv', 'th', 'tr', 'uk', 'vi', 'cy', 'hy', 'az', 'eu', 'ka', 'gu', 'kn', 'ta', 'te', 'ur']: #assigns_by_lang.keys():
 		qual = list()
 		match = list()
 		goog = list()
 		for a in assigns_by_lang[l]:
 			if a not in qual_by_assign or a not in match_by_assign:
+				print l
 				continue
 			q = qual_by_assign[a]
 			m = match_by_assign[a]
@@ -385,6 +387,7 @@ def goog_match_qual_assign(cut=0, sort=None):
 					avg_goog.append(float(g))
 				else:
 					goog.append(None)
+			else: print 'N/As %s'%l
 		if len(qual) > 0 and len(match) > 0:
 	        	n, (smin, smax), sm, sv, ss, sk = stats.describe(qual)
         		moe = math.sqrt(sv)/math.sqrt(n) * 2.576
@@ -398,7 +401,8 @@ def goog_match_qual_assign(cut=0, sort=None):
 	        		n, (smin, smax), sm, sv, ss, sk = stats.describe(goog)
         			moe = math.sqrt(sv)/math.sqrt(n) * 2.576
 				goog_by_lang[l] = (sm, (sm - moe, sm + moe), n, moe)
-	print goog_by_lang
+		else: print '0 lang %s'%l
+	print goog_by_lang.keys()
 	print len(goog_by_lang)
 	goog_graphs(sorted([(k,qual_by_lang[k],match_by_lang[k], goog_by_lang[k]) for k in qual_by_lang], key=operator.itemgetter(3), reverse=True), cutoff=cut, sort=sort)
 
@@ -538,6 +542,7 @@ def exact_match_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
 #side by side with proportion of google translate matches
 def goog_graphs(all_ci_dict, title='Graph', graph_avg=False, cutoff=3000, sort=None):	
 	width = .8
+	print len(all_ci_dict)
 	ci_dict = [c for c in all_ci_dict if (c[1][2] >= cutoff and not(c[3] == None))]
 	if sort is None:
 		yax = [c[1][0] for c in ci_dict]
