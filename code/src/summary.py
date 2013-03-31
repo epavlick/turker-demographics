@@ -111,9 +111,9 @@ def summary_table_condensed():
 		if (xnumin < numin) or (xnumout < numout):
 			print countries[p[0]], xnumin, numin, xnumout, numout
 		if(match < nomatch):
-			print '%s&%.02f (%d) &\\textbf{%.02f} (%d)&%s&%s\\\\'%(langmap[lang],match,numin,nomatch,numout,cstring,nstring,)
+			print '%s&%.02f (%d) &\\textbf{%.02f} (%d)&%s&%s\\\\'%(langmap[lang],match,xnumin,nomatch,xnumout,cstring,nstring,)
 		elif(nomatch < match):
-			print '%s&\\textbf{%.02f} (%d)&%.02f (%d)&%s&%s\\\\'%(langmap[lang],match,numin,nomatch,numout,cstring,nstring,)
+			print '%s&\\textbf{%.02f} (%d)&%.02f (%d)&%s&%s\\\\'%(langmap[lang],match,xnumin,nomatch,xnumout,cstring,nstring,)
 	
 	print '\\hline\\hline'
 	print '\\end{tabular}'

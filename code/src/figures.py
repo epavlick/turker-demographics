@@ -939,7 +939,7 @@ def region_scatter(title='Title'):
 	plt.scatter(xboth, yboth, s=areaboth)
 	plt.scatter([50000], [0.9], s=[100], color='k')
 	plt.xscale('log')
-	plt.xlim([0,1000000])
+	plt.xlim([1,1000000])
 	plt.ylim([0,1])
 	plt.xlabel('Number of assignments', fontsize='14')
 	plt.ylabel('Average quality', fontsize='14')
@@ -951,13 +951,12 @@ def region_scatter(title='Title'):
         plt.annotate('100 turkers',xy =(50000,0.9),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
 	plt.show()
         plt.clf()
-	return
 	#just in region
 	plt.scatter(xin, yin, s=areain)
-	plt.scatter([50000], [0.9], s=[100], color='k')
+#	plt.scatter([50000], [0.9], s=[100], color='k')
 	print zip(namesin, xin, yin)
 	plt.xscale('log')
-	plt.xlim([0,100000])
+	plt.xlim([0,1000000])
 	plt.ylim([0,1])
 	plt.xlabel('Number of assignments', fontsize='14')
 	plt.ylabel('Average quality', fontsize='14')
@@ -966,15 +965,15 @@ def region_scatter(title='Title'):
 	arrows = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0')
 	for label, x, y in zip(labelsin, labelxin, labelyin):
         	plt.annotate(label,xy =(x,y),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
-        plt.annotate('100 turkers',xy =(50000,0.9),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
+    #    plt.annotate('100 turkers',xy =(50000,0.9),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
 	plt.show()
         plt.clf()
 	#just out of region
 	plt.scatter(xout, yout, s=areaout)
-	plt.scatter([50000], [0.9], s=[100], color='k')
+#	plt.scatter([50000], [0.9], s=[100], color='k')
 	print zip(namesout, xout, yout)
 	plt.xscale('log')
-	plt.xlim([0,100000])
+	plt.xlim([0,1000000])
 	plt.ylim([0,1])
 	plt.xlabel('Number of assignments', fontsize='14')
 	plt.ylabel('Average quality', fontsize='14')
@@ -983,7 +982,7 @@ def region_scatter(title='Title'):
 	arrows = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0')
 	for label, x, y in zip(labelsout, labelxout, labelyout):
         	plt.annotate(label,xy =(x,y),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
-        plt.annotate('100 turkers',xy =(50000,0.9),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
+ #       plt.annotate('100 turkers',xy =(50000,0.9),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
 	plt.show()
         plt.clf()
 	#both
