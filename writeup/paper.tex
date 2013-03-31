@@ -181,7 +181,7 @@ A set of gold standard translations were automatically harvested from Wikipedia 
 
 \paragraph{Manual evaluation of non-identical translations}
 We counted all translations that exactly matched the gold standard translation as correct.  For non-exact matches we created a second-pass quality assurance HIT.  
-Turkers were shown a pair of English words, one of which was a Turker's translation of the foreign word used for quality control, and the other of which was the gold-standard translation of the foreign word. Evaluators were asked whether the two words had the same meaning, and chose between three answers: `Yes', `No', or `Related but not synonymous.'  Examples of meaning equivalent pairs include: $<${\it petroglyphs, rock paintings}$>$, $<${\it demo, show}$>$ and  $<${\it loam, loam: soil rich in decaying matter}$>$.  Non-meaning equivalents included: $<${\it assorted, minutes}$>$, and $<${\it major,} URL of image$>$.  Related items were things like $<${\it sky, clouds}$>$. Misspellings like $<${\it lactation, lactiation} $>$ were judged to have same meaning, and were marked as misspelled.   3 separate Turkers judged each pair, allowing majority votes for difficult cases. 
+Turkers were shown a pair of English words, one of which was a Turker's translation of the foreign word used for quality control, and the other of which was the gold-standard translation of the foreign word. Evaluators were asked whether the two words had the same meaning, and chose between three answers: `Yes', `No', or `Related but not synonymous.'  Examples of meaning equivalent pairs include: $<${\it petroglyphs, rock paintings}$>$, $<${\it demo, show}$>$ and  $<${\it loam, loam: soil rich in decaying matter}$>$.  Non-meaning equivalents included: $<${\it assorted, minutes}$>$, and $<${\it major,} URL of image$>$.  Related items were things like $<${\it sky, clouds}$>$. Misspellings like $<${\it lactation, lactiation} $>$ were judged to have same meaning, and were marked as misspelled.   Three separate Turkers judged each pair, allowing majority votes for difficult cases. 
 
 
 We checked Turkers who were working on this task by embedding pairs of words which were either known to be synonyms (drawn from WordNet) or  unrelated (randomly chosen from a corpus). 
@@ -194,9 +194,9 @@ Automating approval/rejections for the second-pass evaluation allowed the whole 
 
 We calculate the quality of translations on the level of individual assignments and aggregated over languages and countries.  We define an assignment's quality as the proportion of controls that are correct in a given assignment, where correct means exactly correct or judged to be synonymous or related.
 \begin{align}	
-	\text{Quality}(a_i) = \frac{1}{k}\sum\limits_{j=1}^{k_i}\mathbf{\delta}(tr_{ij} \in \texttt{syns[$g_j$]})
+	\text{Quality}(a_i) = \frac{1}{k_i}\sum\limits_{j=1}^{k_i}\mathbf{\delta}(tr_{ij} \in \texttt{syns[$g_j$]})
 \end{align}	
-where $a_i$ is the $i^{th}$ assignment, $k_i$ is the number of controls in $a_i$, $tr_j$ is the Turker's provided translation of control word $j$ in assignment $i$, $g_j$ is the gold standard translation of control word $j$, \texttt{syns[$g_j$]} is the set of words judged to be synonymous with $g_j$ and includes $g_j$, and $\mathbf{\delta}(x)$ is Kronecker's delta and takes value 1 when $x$ is true. 
+where $a_i$ is the $i^{th}$ assignment, $k_i$ is the number of controls in $a_i$, $tr_{ij}$ is the Turker's provided translation of control word $j$ in assignment $i$, $g_j$ is the gold standard translation of control word $j$, \texttt{syns[$g_j$]} is the set of words judged to be synonymous with $g_j$ and includes $g_j$, and $\mathbf{\delta}(x)$ is Kronecker's delta and takes value 1 when $x$ is true. 
 Most assignments had two known words embedded, so most assignments had scores of either 0, 0.5, or 1. 
 
 %Since judging overall quality for a language with assignment quality scores is biased towards to small numbers of highly active Turkers, we instead report language quality scores as the average per-Turker quality, where a Turker's quality is  the average quality of all the assignments that she completed:
@@ -239,7 +239,7 @@ We performed an analysis of our data to address the following questions:
 
 
 Figure \ref{completion-time} gives the completion times for 40 languages.  
-The 10 languages to finish in the shortest amount of time were: Tamil, Malayalam, Telugu, Hindi, Macedonian, Spanish, Serbian, Romanian, Gujarati, and Marathi. 7 of the 10 fastest languages are from India, which is unsurprising given the geographic distribution of workers.  Some languages follow the pattern of having a smattering of assignments completed early, with the rate picking up later. 
+The 10 languages to finish in the shortest amount of time were: Tamil, Malayalam, Telugu, Hindi, Macedonian, Spanish, Serbian, Romanian, Gujarati, and Marathi. Seven of the ten fastest languages are from India, which is unsurprising given the geographic distribution of workers.  Some languages follow the pattern of having a smattering of assignments completed early, with the rate picking up later. 
 
 %%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
 \begin{figure}[h]
@@ -259,17 +259,17 @@ The 10 languages to finish in the shortest amount of time were: Tamil, Malayalam
 &\multicolumn{2}{c}{Avg. Turker quality (\# Ts)}&Primary locations&Primary locations\\
 &In region&Out of region&of Turkers in region&of Turkers out of region\\
 \hline\hline
-Hindi&\textbf{0.35} (299)&0.34 (7)&India (285) UAE (5) UK (5) &Saudiarabia (2) Russia (1) Oman (1) \\
+Hindi&\textbf{0.35} (299)&0.34 (7)&India (285) UAE (5) UK (5) &Saudi Arabia (2) Russia (1) Oman (1) \\
 Tamil&\textbf{0.37} (278)&0.00 (2)&India (271) US (3) Canada (2) &Tunisia (1) Egypt (1) \\
-Malayalam&0.48 (235) &\textbf{0.58} (2)&India (224) UAE (6) US (3) &Saudiarabia (1) Maldives (1) \\
-Spanish&\textbf{0.72} (205)&0.61 (23)&US (131) Mexico (18) Spain (14) &India (19) Macedonia (2) Newzealand (1) \\
+Malayalam&0.48 (235) &\textbf{0.58} (2)&India (224) UAE (6) US (3) &Saudi Arabia (1) Maldives (1) \\
+Spanish&\textbf{0.72} (205)&0.61 (23)&US (131) Mexico (18) Spain (14) &India (19) Macedonia (2) New Zealand (1) \\
 French&0.65 (183) &\textbf{0.86} (13)&India (68) US (48) France (25) &Greece (3) Japan (2) Netherlands (1) \\
 German&\textbf{0.83} (99)&0.65 (58)&Germany (51) US (29) Austria (9) &India (47) Greece (2) UK (2) \\
 Italian&\textbf{0.78} (98)&0.71 (51)&Italy (44) US (32) Romania (9) &India (38) Macedonia (2) Ireland (2) \\
-Chinese&\textbf{0.24} (121)&0.16 (19)&US (79) Singapore (15) China (14) &Hongkong (6) Australia (3) Germany (2) \\
+Chinese&\textbf{0.24} (121)&0.16 (19)&US (79) Singapore (15) China (14) &Hong Kong (6) Australia (3) Germany (2) \\
 Malay&0.76 (15) &\textbf{0.83} (110)&Malaysia (8) Singapore (4) US (2) &India (106) Brunei (2) Australia (1) \\
 Irish&\textbf{0.68} (58)&0.64 (59)&US (41) Ireland (13) UK (4) &India (45) Macedonia (5) Romania (5) \\
-Czech&\textbf{0.71} (52)&0.63 (64)&US (19) Czechrepublic (15) Serbia (5) &Macedonia (30) India (15) UK (5) \\
+Czech&\textbf{0.71} (52)&0.63 (64)&US (19) Czech Republic (15) Serbia (5) &Macedonia (30) India (15) UK (5) \\
 Turkish&0.72 (83) &\textbf{0.73} (32)&Turkey (39) US (20) Macedonia (12) &India (23) Pakistan (5) Taiwan (1) \\
 Amharic&\textbf{0.18} (17)&0.02 (98)&US (14) Ethiopia (3) &India (69) Georgia (9) Macedonia (5) \\
 Swedish&\textbf{0.66} (58)&0.61 (56)&US (28) Sweden (23) Finland (3) &India (26) Macedonia (10) Croatia (3) \\
@@ -277,7 +277,7 @@ Portuguese&\textbf{0.77} (107)&0.74 (4)&Brazil (46) Portugal (32) US (15) &Pakis
 Arabic&0.22 (62) &\textbf{0.26} (48)&Egypt (19) Jordan (17) Morocco (9) &US (20) India (11) Algeria (4) \\
 Kannada&\textbf{0.24} (106)&0.00 (1)&India (106) US (1) &France (1) Germany (1) \\
 Russian&\textbf{0.09} (72)&0.06 (33)&US (38) Russia (8) Moldova (7) &India (17) Macedonia (4) UK (4) \\
-Afrikaans&\textbf{0.74} (4)&0.73 (98)&Southafrica (4) &India (93) Netherlands (2) UAE (1) \\
+Afrikaans&\textbf{0.74} (4)&0.73 (98)&South Africa (4) &India (93) Netherlands (2) UAE (1) \\
 Sindhi&\textbf{0.15} (93)&0.02 (8)&India (55) Pakistan (37) US (1) &Macedonia (4) Georgia (2) Netherlands (1) \\
 \hline\hline
 \end{tabular}
@@ -337,15 +337,15 @@ Given the number of Indian workers on Mechanical Turk, it is unsurprising that t
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Figure \ref{quality-scatter} shows the number of assignments competed per country and per-country quality estimates.
+Figure \ref{quality-scatter} shows the number of assignments completed per country and per-country quality estimates for 4 scenerios: (a) overall, (b) for assignments completed in region, (c) for assignments completed out of region, and (d) for out of region assignments which contained low overlap with GoogleTranslate. 
 
 \paragraph{Use of machine translation}
 
 
 Given then prevalence of out of region workers, we investigated what proportion of the translations submitted by workers were simply replicating translations from a machine translation system.  Although we followed best practices to deter copying-and-pasting into online MT systems  by  rendering words and sentences as images \cite{zaidan-callisonburch:2011:ACL-HLT2011a}, this strategy does not prevent workers from typing the words into an MT system, if they are able to type in the language's script. 
 
-We used Google Translate to translate all 10,000 words for 50 foreign languages that Google Translate covers. We measured the percent of translations received that exactly matched the translation returned from Google translate. Results are show in Figure \ref{googlematch}. 
-Assignments averaged around 42\% overlap with Google translate.  Languages with non-Latin scripts (such as the Arabic script, Chinese characters or the Telugu alphabet) have lower overlap with Google,  suggesting that it is easier for Turkers to cheat for languages written in the Latin alphabet. 
+We used GoogleTranslate to translate all 10,000 words for 50 foreign languages that GoogleTranslate covers. We measured the percent of translations received that exactly matched the translation returned from GoogleTranslate. Results are show in Figure \ref{googlematch}. 
+Assignments averaged around 42\% overlap with GoogleTranslate.  Languages with non-Latin scripts (such as the Arabic script, Chinese characters or the Telugu alphabet) have lower overlap with Google,  suggesting that it is easier for Turkers to cheat for languages written in the Latin alphabet. 
 % suggesting that it is easier for Turkers to use MT for Latin alphabet languages. 
 
 
@@ -420,11 +420,11 @@ Assignments averaged around 42\% overlap with Google translate.  Languages with 
 %Urdu
 
 \paragraph{Validation of controls} 
-Higher overlap with Google translate corresponds slightly to higher quality scores (Pearson $\rho$ = 0.22), suggesting that some control translations have already been indexed by Google. We therefore investigated the validity of our use of Wikipedia inter-language links as gold standard translations.
+Higher overlap with GoogleTranslate corresponds slightly to higher quality scores (Pearson $\rho$ = 0.22), suggesting that some control translations have already been indexed by Google. We therefore investigated the validity of our use of Wikipedia inter-language links as gold standard translations.
 
-As an extrinsic measure of translation quality, we measure the proportion of $<${\it word, translation}$>$ pairs received from Mechanical Turk which appear in external dictionaries.  We had external bilingual dictionaries for 27 of the 119 languages examined in this study.\footnote{The bilingual dictionaries were between English and az, bg, bn, bs, cy, es, fa, hi, id, lv, ms, ne, pl, ro, ru, sk, so, sq, sr, ta, tr, uk, ur, and uz. }  We used each of these bilingual dictionaries to computer language-level quality scores, using the dictionary's translation as a gold standard translation for any of the 10,000 foreign words in our study.  In some cases, the overlap of words was low, since dictionaries list root forms of words and we translated inflected forms.  
+As an extrinsic measure of translation quality, we measure the proportion of $<${\it word, translation}$>$ pairs received from Mechanical Turk which appear in external dictionaries.  We had external bilingual dictionaries for 24 of the 119 languages examined in this study.\footnote{The bilingual dictionaries were between English and az, bg, bn, bs, cy, es, fa, hi, id, lv, ms, ne, pl, ro, ru, sk, so, sq, sr, ta, tr, uk, ur, and uz. }  We used each of these bilingual dictionaries to compute language-level quality scores, using the dictionary's translation as a gold standard translation for any of the 10,000 foreign words in our study.  In some cases, the overlap of words was low, since dictionaries list root forms of words and we translated inflected forms.  
 
-We ranked the 27 languages based on their translation quality scores according to the external dictionaries, and calculated correlation when compared to the ranking produced by our gold standard control.  The Pearson correlation was $\rho=0.53$.  We computed a correlation coefficient of $\rho=0.37$ for ranking of the translation quality of individual Turkers using the two sources of reference translations.    
+We ranked the 24 languages based on their translation quality scores according to the external dictionaries, and calculated correlation when compared to the ranking produced by our gold standard control.  The Pearson correlation was $\rho=0.53$.  We computed a correlation coefficient of $\rho=0.37$ for ranking of the translation quality of individual Turkers using the two sources of reference translations.    
 
 Given the strong positive correlation, we are satisfied that the trends reported in this paper hold when using either our gold standard translations or external bilingual dictionaries. 
 
