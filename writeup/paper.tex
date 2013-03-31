@@ -164,16 +164,6 @@ Afrikaans (af) Amharic (am) Asturian (ast) Azerbaijani (az) Belarusian (be) Beng
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%% HITLANG QUALITY BAR %%%%%%%%%%%
-\begin{figure*}[h]
-\begin{center}
-\includegraphics[width=0.8\linewidth]{final-figures/google-match}
-\caption{Average proportion of Turker translations matching GoogleTranslate, per assignment. Overall average overlap was 0.42}
-\label{googlematch} 
-\end{center}
-\end{figure*}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 
 
 \paragraph{Translation HIT}
@@ -246,6 +236,10 @@ We performed an analysis of our data to address the following questions:
 
 \paragraph{Speed of completion}
 
+
+Figure \ref{completion-time} gives the completion times for 40 languages.  
+Workers for Urdu and Russian HITs responded almost immediately; workers in the other languages began slightly later. The 10 languages to finish in the shortest amount of time were: Tamil, Malayalam, Telugu, Hindi, Macedonian, Spanish, Serbian, Romanian, Gujarati, and Marathi. 7 of the 10 fastest languages are from India, which is unsurprising given the geographic distribution of workers.  Some languages follow the pattern of having a smattering of assignments completed early, with the rate picking up later. 
+
 %%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
 \begin{figure}[h]
 \includegraphics[height=\linewidth,angle=270]{final-figures/completetime}
@@ -254,11 +248,9 @@ We performed an analysis of our data to address the following questions:
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Figure \ref{completion-time} gives the completion times for 40 languages.  
-Workers for Urdu and Russian HITs responded almost immediately; workers in the other languages began slightly later. The 10 languages to finish in the shortest amount of time were: Tamil, Malayalam, Telugu, Hindi, Macedonian, Spanish, Serbian, Romanian, Gujarati, and Marathi. 7 of the 10 fastest languages are from India, which is unsurprising given the geographic distribution of workers.  Some languages follow the pattern of having a smattering of assignments completed early, with the rate picking up later. 
 
 %%%%%%%%%%%%%%% TURKER QUAL SUMMARY TABLE %%%%%%%%%%%
-\begin{figure*}
+\begin{table*}
 \footnotesize
 \begin{tabular}{lllll}
 \hline\hline
@@ -289,9 +281,8 @@ Sindhi&\textbf{0.15} (93)&0.02 (8)&India (55) Pakistan (37) US (1) &Macedonia (4
 \end{tabular}
 \normalsize
 \caption{Translation quality when partitioning the translations into two groups, one contains translations submitted by Turkers whose location is within regions that plausibly speak the foreign language, and the other contains translations from Turkers outside those regions.} \label{region-summary}
-\end{figure*}
+\end{table*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 
 \paragraph{Language skills and location}
 
@@ -318,6 +309,20 @@ Given the number of Indian workers on Mechanical Turk, it is unsurprising that t
 %
 %Figure \ref{ass-scatter} shows the volume of HITs completed and the number of workers participating for each language. While the bulk (19\%) of bilingual Turkers report English as their native language (see Figure \ref{lang-pie}), Mechanical Turk's capacity to support the Indian languages is apparent. Hindi, Tamil, and Malayalam are especially well represented in terms of number of active translators. 
 
+
+
+%%%%%%%%%%%%%%% HITLANG QUALITY BAR %%%%%%%%%%%
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=1\linewidth]{final-figures/google-match}
+\caption{Average proportion of Turker translations matching GoogleTranslate, per assignment. Overall average overlap was 0.42}
+\label{googlematch} 
+\end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
 %%%%%%%%%%%%%%% QUALITY / NUM ASSIGN SCATTER %%%%%%%%%%%
 \begin{figure*}[h]
 \begin{center}
@@ -330,6 +335,7 @@ Given the number of Indian workers on Mechanical Turk, it is unsurprising that t
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \paragraph{Use of machine translation}
+
 
 Given then prevalence of out of region workers, we investigated what proportion of the translations submitted by workers were simply replicating translations from a machine translation system.  Although we followed best practices to deter copying-and-pasting into online MT systems  by  rendering words and sentences as images \cite{zaidan-callisonburch:2011:ACL-HLT2011a}, this strategy does not prevent workers from typing the words into an MT system, if they are able to type in the language's script. 
 
