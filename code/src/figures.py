@@ -852,7 +852,6 @@ def native_compare_line_graph(native, nonnative):
 	plt.show()
 
 def dictionary_stats_turker():
-#tr      NL:3    GR:1    CA:1    TR:39   MK:12   GE:1    AU:1    US:20   RO:5    BA:1
 	DICT_DIR = 'dictionaries'
         dict_files=['%s/nonclpair.turkerlist'%DICT_DIR, '%s/clpair.turkerlist'%DICT_DIR]
         data = dict()
@@ -872,6 +871,60 @@ def dictionary_stats_turker():
         for d in data:
                 ret[d] = (data[d][0], data[d][1])
         return ret
+
+def get_goog_filter(c=1.0):
+	assigns = list()
+	for line in csv.DictReader(open('%s/byassign.googmatch'%OUTPUT_DIR), delimiter='\t'):
+		aid = line['id']
+		q = line['avg']
+		if not q == 'N/A':
+			if float(q) < c:
+				assigns.append(aid)	
+	print assigns
+	return assigns
+
+
+def region_scatter_googfilter(title='Title'):
+	points_to_label = ['RO','RU','PK','IN','US','MY','MK','ES','DE','FR','CA','100 turkers']
+	cmap = reverse_cntry_map('ref/countrynames')
+	cmap['100 turkers'] = '100 turkers'
+	attr= 'country'
+	infilter = [l.strip() for l in open('output/byassign.voc.validclpair').readlines()]
+	outfilter = [l.strip() for l in open('output/byassign.voc.invalidclpair').readlines()]
+	googfilter = get_goog_filter(c=0.5)
+	ciout = conf_int_by_attr_region(attr, filterlist=list(set(outfilter).intersection(set(googfilter))))
+	turker_counts = dictionary_stats_turker()
+	namesout = list(); xout = list(); yout = list();areaout=list();
+	for c in ciout:
+		if(c in turker_counts and not(ciout[c] == None) and (len(ciout[c]) > 3)):
+			namesout.append(c)
+			yout.append(ciout[c][0])
+			xout.append(ciout[c][2])
+			areaout.append(ciout[c][3])
+        labelsout = list(); labelxout = list(); labelyout = list();
+	for nm in points_to_label:
+		try:
+			idx = namesout.index(nm)
+        	        labelsout.append(cmap[nm])
+                	labelxout.append(xout[idx])
+                	labelyout.append(yout[idx])
+		except ValueError: continue
+	#just out of region
+	plt.scatter(xout, yout, s=areaout)
+#	plt.scatter([50000], [0.9], s=[100], color='k')
+	print zip(namesout, xout, yout)
+	plt.xscale('log')
+	plt.xlim([0,1000000])
+	plt.ylim([0,1])
+	plt.xlabel('Number of assignments', fontsize='14')
+	plt.ylabel('Average quality', fontsize='14')
+	plt.xticks(fontsize='16')
+	plt.yticks(fontsize='16')
+	arrows = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0')
+	for label, x, y in zip(labelsout, labelxout, labelyout):
+        	plt.annotate(label,xy =(x,y),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
+ #       plt.annotate('100 turkers',xy =(50000,0.9),xytext=(20,10),textcoords='offset points',ha ='left',va='bottom',arrowprops=arrows, fontsize=14)
+	plt.show()
 
 def region_scatter(title='Title'):
 	points_to_label = ['RO','RU','PK','IN','US','MY','MK','ES','DE','FR','CA','100 turkers']
@@ -1321,7 +1374,8 @@ if __name__ == '__main__':
 	if(plot == 'anova'):
 		anova()
 	if(plot == 'region'):
-		region_scatter()
+		#region_scatter()
+		region_scatter_googfilter()
 	if(plot == 'ta_table'):
 		print_table()
 
