@@ -1034,7 +1034,7 @@ def quality_scatter(title='Title'):
 	for c in ci:
 		if(c in turker_counts and not(ci[c] == None) and not(cia[c] == None) and (len(ci[c]) > 3)):
 			names.append(c)
-			#y.append(ci[c][0])
+			ya.append(ci[c][0])
 			y.append(cia[c][0])
 			e.append(ci[c][3])
 			x.append(ci[c][2])
@@ -1056,7 +1056,7 @@ def quality_scatter(title='Title'):
 #	plt.scatter(x, y, s=area)
 	plt.scatter(x, y, s=area)
 	plt.xscale('log')
-	plt.xlim([.1,1000000])
+	plt.xlim([1,1000000])
 	plt.ylim([0,1])
 	plt.xlabel('Number of assignments', fontsize='14')
 	plt.ylabel('Average quality', fontsize='14')

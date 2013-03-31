@@ -91,8 +91,10 @@ def summary_table_condensed():
 		lang = d[0]
                 nomatch, match= tquals[lang]
 		total = int(d[3])
-		numin = int(d[2])
-		numout = int(d[1])
+		xnumin = int(d[2])
+		xnumout = int(d[1])
+		numin = 0
+		numout = 0
 		cstring = ''
 		nstring = ''
 		try:
@@ -102,8 +104,12 @@ def summary_table_condensed():
 			continue
 		for p in all_countries[:3]:
 			cstring += '%s (%d) '%(countries[p[0]],p[1],)
+			numin += p[1]
 		for p in all_noncountries[:3]:
 			nstring += '%s (%d) '%(countries[p[0]],p[1],)
+			numout += p[1]
+		if (xnumin < numin) or (xnumout < numout):
+			print countries[p[0]], xnumin, numin, xnumout, numout
 		if(match < nomatch):
 			print '%s&%.02f (%d) &\\textbf{%.02f} (%d)&%s&%s\\\\'%(langmap[lang],match,numin,nomatch,numout,cstring,nstring,)
 		elif(nomatch < match):
