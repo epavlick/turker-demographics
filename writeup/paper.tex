@@ -50,9 +50,9 @@ Because crowdsourcing platforms like Amazon Mechanical Turk (MTurk) give researc
 With an increasing number of active crowd workers located outside of the United States, there is even the potential to reach fluent speakers of lower resource languages.
 In this paper, we investigate the feasibility of hiring language informants on MTurk by conducting the first large-scale demographic study of the languages spoken by workers on the platform. 
 
-There are several complicating factors when trying to take a census of workers on MTurk.  The workers' identities are anonymized, and Amazon provides no information about their countries of origin or their language abilities.  Posting a simple survey to have workers self-report this information may be inadequate, since (a) many worker may never see the survey, (b) many opt not to do one-off surveys since potential payment is low, and (c) validating the answers of respondents is not straightforward. 
+There are several complicating factors when trying to take a census of workers on MTurk.  The workers' identities are anonymized, and Amazon provides no information about their countries of origin or their language abilities.  Posting a simple survey to have workers self-report this information may be inadequate, since (a) many workers may never see the survey, (b) many opt not to do one-off surveys since potential payment is low, and (c) validating the answers of respondents is not straightforward. 
 
-Our study establishes a methodology for determining the language demographics of anonymous crowd workers that is more robust than simple surveying. We ask workers what languages they speak and what country they live in, and validate their claims by measuring their ability to correctly translate words and by geolocating them.  To increase the visibility and the desirability of our tasks, we post 1,000 assignments in each of 119 languages.  These tasks each consist of translating 10 foreign words into English.  Two of the 10 words have known translations, allowing us to validate the the workers' translations are accurate.  We construct bilingual dictionaries with up to 10,000 entries, with the majority of entries being new. 
+Our study establishes a methodology for determining the language demographics of anonymous crowd workers that is more robust than simple surveying. We ask workers what languages they speak and what country they live in, and validate their claims by measuring their ability to correctly translate words and by recording their geolocation.  To increase the visibility and the desirability of our tasks, we post 1,000 assignments in each of 119 languages.  These tasks each consist of translating 10 foreign words into English.  Two of the 10 words have known translations, allowing us to validate that the workers' translations are accurate.  We construct bilingual dictionaries with up to 10,000 entries, with the majority of entries being new. 
 
 Surveying thousands of workers allows us to analyze current speaker populations for more than 100 languages.  The data also allows us to answer questions like: 
 How quickly is work completed in a given language? 
@@ -201,7 +201,7 @@ Automating approval/rejections for the second-pass evaluation allowed the whole 
 
 \section{Measuring Translation Quality}
 
-We calculate the quality of translations on the level of individual assignments, individual workers, and languages.  We define an assignment's quality as the proportion of controls that are correct in a given assignment, where correct means exactly correct or judged to be synonymous.
+We calculate the quality of translations on the level of individual assignments and aggregated over languages and countries.  We define an assignment's quality as the proportion of controls that are correct in a given assignment, where correct means exactly correct or judged to be synonymous.
 \begin{align}	
 	\text{Quality}(a_i) = \frac{1}{k}\sum\limits_{j=1}^{k_i}\mathbf{\delta}(tr_{ij} \in \texttt{syns[$g_j$]})
 \end{align}	
@@ -219,7 +219,7 @@ Quality for a language is then given by
 \begin{align}	
 	\text{Quality}(l_i) = \frac{\sum_{a_j \in \texttt{assigns[$i$]}\text{Quality}(a_j)}}{\mid \texttt{assigns[$i$]} \mid}
 \end{align}	
-where $l_i$ is the ith language, \texttt{assigns[$i$]} is the set of completed assignments for language $i$, and Quality($a$) is as above.
+where $l_i$ is the ith language, \texttt{assigns[$i$]} is the set of completed assignments for language $i$, and Quality($a$) is as above. Quality for a country is computed the same way.
 
 %Quality for a language is then given by
 %\begin{align}	
@@ -272,10 +272,10 @@ Spanish&\textbf{0.72} (205)&0.61 (23)&US (131) Mexico (18) Spain (14) &India (19
 French&0.65 (183) &\textbf{0.86} (13)&India (68) US (48) France (25) &Greece (3) Japan (2) Netherlands (1) \\
 German&\textbf{0.83} (99)&0.65 (58)&Germany (51) US (29) Austria (9) &India (47) Greece (2) UK (2) \\
 Italian&\textbf{0.78} (98)&0.71 (51)&Italy (44) US (32) Romania (9) &India (38) Macedonia (2) Ireland (2) \\
-Chinese&\textbf{0.24} (121)&0.16 (19)&US (79) Singapore (15) China (14) &Hongkong (6) Australia (3) Germany (2) \\
+Chinese&\textbf{0.24} (121)&0.16 (19)&US (79) Singapore (15) China (14) &Hong Kong (6) Australia (3) Germany (2) \\
 Malay&0.76 (15) &\textbf{0.83} (110)&Malaysia (8) Singapore (4) US (2) &India (106) Brunei (2) Australia (1) \\
 Irish&\textbf{0.68} (58)&0.64 (59)&US (41) Ireland (13) UK (4) &India (45) Macedonia (5) Romania (5) \\
-Czech&\textbf{0.71} (52)&0.63 (64)&US (19) Czechr Rpublic (15) Serbia (5) &Macedonia (30) India (15) UK (5) \\
+Czech&\textbf{0.71} (52)&0.63 (64)&US (19) Czech Republic (15) Serbia (5) &Macedonia (30) India (15) UK (5) \\
 Turkish&0.72 (83) &\textbf{0.73} (32)&Turkey (39) US (20) Macedonia (12) &India (23) Pakistan (5) Taiwan (1) \\
 Amharic&\textbf{0.18} (17)&0.02 (98)&US (14) Ethiopia (3) &India (69) Georgia (9) Macedonia (5) \\
 Swedish&\textbf{0.66} (58)&0.61 (56)&US (28) Sweden (23) Finland (3) &India (26) Macedonia (10) Croatia (3) \\
@@ -283,7 +283,7 @@ Portuguese&\textbf{0.77} (107)&0.74 (4)&Brazil (46) Portugal (32) US (15) &Pakis
 Arabic&0.22 (62) &\textbf{0.26} (48)&Egypt (19) Jordan (17) Morocco (9) &US (20) India (11) Algeria (4) \\
 Kannada&\textbf{0.24} (106)&0.00 (1)&India (106) US (1) &France (1) Germany (1) \\
 Russian&\textbf{0.09} (72)&0.06 (33)&US (38) Russia (8) Moldova (7) &India (17) Macedonia (4) UK (4) \\
-Afrikaans&\textbf{0.74} (4)&0.73 (98)&Southafrica (4) &India (93) Netherlands (2) UAE (1) \\
+Afrikaans&\textbf{0.74} (4)&0.73 (98)&South Africa (4) &India (93) Netherlands (2) UAE (1) \\
 Sindhi&\textbf{0.15} (93)&0.02 (8)&India (55) Pakistan (37) US (1) &Macedonia (4) Georgia (2) Netherlands (1) \\
 \hline\hline
 \end{tabular}
@@ -295,7 +295,7 @@ Sindhi&\textbf{0.15} (93)&0.02 (8)&India (55) Pakistan (37) US (1) &Macedonia (4
 
 \paragraph{Language skills and location}
 
-We measured the average quality of workers who were in countries that plausibly speak a language, versus workers from countries that did not have large speaker populations of that language.  We used the Ethnologue \cite{ethnologue} to compile the list of countries where each language is spoken.  Table \ref{region-summary} compares the average translation quality of Turkers within the region of each language, and compares it to the quality of Turkers outside that region. 
+We measured the average quality of workers who were in countries that plausibly speak a language, versus workers from countries that did not have large speaker populations of that language.  We used the Ethnologue \cite{ethnologue} to compile the list of countries where each language is spoken.  Table \ref{region-summary} compares the average translation quality of assignments completed within the region of each language, and compares it to the quality of assignments completed outside that region. 
 
 Our workers reported speaking 97 languages natively. US workers alone reported 59 native languages. Overall, 4,465 workers were located in a region likely to speak the language from which they were translating, and 3,170 workers were located in countries considered out of region (meaning almost half of our 5,277 Turkers completed HITs in multiple languages). 
 
