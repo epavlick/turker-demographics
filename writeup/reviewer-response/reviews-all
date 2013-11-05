@@ -1,0 +1,479 @@
+Reviewer B:
+
+APPROPRIATENESS: Does the paper fit in TACL? (Please answer this question in
+light of the desire to broaden the scope of the research areas represented
+in the ACL community.):
+        5. Certainly.
+
+CLARITY: For the reasonably well-prepared reader, is it clear what was done
+and why? Is the paper well-written and well-structured?:
+        4. Understandable by most readers.
+
+ORIGINALITY/INNOVATIVENESS: Does this paper break new ground intopic,
+methodology, or content? How exciting and innovative is the research?:
+        2. Pedestrian: Obvious, or a minor extension to existing work.
+
+SOUNDNESS/CORRECTNESS: Is the methodology used to produce the resource or
+carry out the evaluation sound and well-chosen?:
+        3. Fairly reasonable work. The approach is not bad, but I am not entirely
+ready to accept the resource or evaluation methodology (based on the
+material in the paper).
+
+MEANINGFUL COMPARISON: Does the author make clear where the presented system
+sits with respect to existing literature? Are the references adequate?:
+        5. Precise and complete comparison with related work. Benefits and
+limitations are fully described and supported.
+
+SUBSTANCE: Does this paper have enough substance (in terms of the amount of
+work), or would it benefit from more ideas or analysis?:
+        2. Work in progress. There are enough good ideas, but perhaps not enough
+results yet.
+
+IMPACT OF IDEAS OR RESULTS: How significant is the work described? If the
+ideas are novel, will they also be useful or inspirational? Does the paper
+bring any new insights?:
+        3. Interesting but not too influential. The work will be cited, but mainly
+for comparison or as a source of minor contributions.
+
+IMPACT OF ACCOMPANYING SOFTWARE: If software was submitted along with the
+paper, what is the expected impact of the software package?:
+        3. Potentially useful: Someone might find the new software useful for their
+work.
+
+IMPACT OF ACCOMPANYING DATASET: If a dataset was submitted along with the
+paper, what is its expected impact? Will it be valuable to others in the
+form in which they are released?:
+        4. Useful: I would recommend the new datasets to other researchers or
+developers for their ongoing work.
+
+RECOMMENDATION: Should the paper be accepted or rejected? In deciding on
+your ultimate recommendation, please think over all your scores above. If a
+paper has some weaknesses, but you really got a lot out of it, feel free to
+reccommend it. If a paper is solid but you could live without it, let us
+know that you're ambivalent.:
+        2. Leaning against: I'd rather not see appear it in TACL.
+
+Detailed Comments for the Authors:
+        The authors present an approach for measuring language demographics of the
+users of mechanical turk. This builds on prior work by combining approaches
+to  (a) measure demographic information about Turk workers, and (b) produce
+bilingual resources: dictionaries, in this case.
+
+I like the direction that the authors take, but I wish it went a bit
+further. Prior work has attempted to measure demographic information of
+turk. Other work has gathered translations. It puts the two together, and
+manages to cover a broader, more comprehensive set of languages, but the
+technical contribution is not particularly large. Bilingual dictionaries are
+potentially interesting resources, but have much less utility than full
+sentence translations.
+
+I also worry about how well these experiments truly represent the
+demographics of MTurk. The authors ran an experiment over 3.5 months, but I
+wonder how the demographics change over time. Are there seasonal effects in
+the workforce? Has it changed over the past year? And more importantly, will
+it change substantially in the future? I'm somewhat skeptical that these
+demographics will remain constant, especially as Amazon rolls out changes to
+the service. Although I realize this would be potentially expensive and
+difficult to run, it would be much more interesting to run longitudinal
+studies of these demographic information.
+
+Do you have a notion of how accurate the geolocation is? IP addresses can be
+hidden behind VPN, or may not accurately represent a location.
+
+Equation (2) has a typo: Quality(a_j) should not be in the subscript.
+
+Under "Use of machine translation":
+"Given then prevalence" -> "Given the prevalence"
+
+REVIEWER CONFIDENCE:
+        4. Quite sure. I tried to check the important points carefully. It's
+unlikely, though conceivable, that I missed something that should affect my
+ratings.
+
+------------------------------------------------------
+
+------------------------------------------------------
+Reviewer E:
+
+APPROPRIATENESS: Does the paper fit in TACL? (Please answer this question in
+light of the desire to broaden the scope of the research areas represented
+in the ACL community.):
+        4. Probably.
+
+CLARITY: For the reasonably well-prepared reader, is it clear what was done
+and why? Is the paper well-written and well-structured?:
+        5. Very clear.
+
+ORIGINALITY/INNOVATIVENESS: Does this paper break new ground intopic,
+methodology, or content? How exciting and innovative is the research?:
+        3. Respectable: A nice research contribution that represents a notable
+extension of prior resources or evaluations.
+
+SOUNDNESS/CORRECTNESS: Is the methodology used to produce the resource or
+carry out the evaluation sound and well-chosen?:
+        2. Troublesome. There are some ideas worth salvaging here, but the work
+should really have been done differently.
+
+MEANINGFUL COMPARISON: Does the author make clear where the presented system
+sits with respect to existing literature? Are the references adequate?:
+        4. Mostly solid bibliography and comparison, but there are a few additional
+references that should be included. Discussion of benefits and limitations
+is acceptable but not enlightening.
+
+SUBSTANCE: Does this paper have enough substance (in terms of the amount of
+work), or would it benefit from more ideas or analysis?:
+        2. Work in progress. There are enough good ideas, but perhaps not enough
+results yet.
+
+IMPACT OF IDEAS OR RESULTS: How significant is the work described? If the
+ideas are novel, will they also be useful or inspirational? Does the paper
+bring any new insights?:
+        3. Interesting but not too influential. The work will be cited, but mainly
+for comparison or as a source of minor contributions.
+
+IMPACT OF ACCOMPANYING SOFTWARE: If software was submitted along with the
+paper, what is the expected impact of the software package?:
+        1. No usable software released.
+
+IMPACT OF ACCOMPANYING DATASET: If a dataset was submitted along with the
+paper, what is its expected impact? Will it be valuable to others in the
+form in which they are released?:
+        1. No usable datasets submitted.
+
+RECOMMENDATION: Should the paper be accepted or rejected? In deciding on
+your ultimate recommendation, please think over all your scores above. If a
+paper has some weaknesses, but you really got a lot out of it, feel free to
+reccommend it. If a paper is solid but you could live without it, let us
+know that you're ambivalent.:
+        2. Leaning against: I'd rather not see appear it in TACL.
+
+Detailed Comments for the Authors:
+        This paper presents an investigation of the demographics of workers who
+perform English word translation tasks on Amazon Mechanical Turk (MTurk) for
+a large set of languages. The main purpose of this study is to assess the
+reliability of the workers' claims of their language skills by comparing
+their own evaluation of their language proficiency and the automatic
+evaluation of their performance in the translation task.
+
+The coverage of the study is quite impressive: 10,000 word translation
+assignments in 119 languages are posted on MTurk, most of them picked up and
+completed by workers within three months. I am not aware of a comparable
+study of this scale, and considering the wide-spread usage of MTurk for data
+collection and annotation in the CL community, the current research could be
+highly relevant. What makes me hesitate in recommending this paper for
+publication in TACL is the specification of the task, which makes it
+difficult to make robust conclusions.
+
+The translation task is constructed as follows: for each language, the top
+10,000 most frequent words from the 1,000 most viewed Wikipedia articles in
+that language are selected for translation and grouped into batches of 10.
+The performance of the workers in each task is evaluated on two control
+words in each batch for which a gold-standard English equivalent is
+available. The problem with this design is that workers can easily find
+these highly frequent words in a dictionary or translation system. The
+authors test this possibility by comparing the workers' translations with
+that of Google Translate, and show that there is 42% overlap between these
+two sets of answers. But this cannot be taken as evidence that almost half
+of the workers cheated, since it is quite possible that a fluent speaker of
+a language provides the same translation as Google Translate for a given
+word. In other words, the performance results are inconclusive.
+
+This problem could have been avoided if the assignments were more suitable
+for measuring real language proficiency. For example, unlike single-word
+translations which can be solely conducted using a language resource,
+phrase- or sentence-level translations are a more realistic indication of
+the translator's knowledge of language. The challenge here would be to
+devise the control set, i.e., to come up with gold standard translations of
+such multi-word units. Constructing the synonymous set for each unit can be
+done automatically in the same way as it is done for single words in the
+current study (that is, by using monolingual MTurk assignments for judging
+the similarity of units).
+
+That said, some of the patterns found in the current study are interesting,
+for example the comparison of workers who claim to speak a language based on
+their primary location and whether or not it is within a region where the
+selected language is spoken (Afrikaans was an interesting example, with 4
+workers from South Africa and 93 from India). However, even this pattern
+must be looked at cautiously since the IP address from which a worker
+connects is not a certain indication of the actual geographical location
+they live in.
+
+In short, I think a study of this kind can potentially be very interesting,
+but the analyses offered in this paper are not particularly informative due
+to the simplicity of the task.
+
+REVIEWER CONFIDENCE:
+        4. Quite sure. I tried to check the important points carefully. It's
+unlikely, though conceivable, that I missed something that should affect my
+ratings.
+
+------------------------------------------------------
+
+------------------------------------------------------
+Reviewer F:
+
+APPROPRIATENESS: Does the paper fit in TACL? (Please answer this question in
+light of the desire to broaden the scope of the research areas represented
+in the ACL community.):
+        5. Certainly.
+
+CLARITY: For the reasonably well-prepared reader, is it clear what was done
+and why? Is the paper well-written and well-structured?:
+        5. Very clear.
+
+ORIGINALITY/INNOVATIVENESS: Does this paper break new ground intopic,
+methodology, or content? How exciting and innovative is the research?:
+        3. Respectable: A nice research contribution that represents a notable
+extension of prior resources or evaluations.
+
+SOUNDNESS/CORRECTNESS: Is the methodology used to produce the resource or
+carry out the evaluation sound and well-chosen?:
+        4. Generally solid work, although there are some aspects of the methodology
+or evaluation I am not sure about.
+
+MEANINGFUL COMPARISON: Does the author make clear where the presented system
+sits with respect to existing literature? Are the references adequate?:
+        4. Mostly solid bibliography and comparison, but there are a few additional
+references that should be included. Discussion of benefits and limitations
+is acceptable but not enlightening.
+
+SUBSTANCE: Does this paper have enough substance (in terms of the amount of
+work), or would it benefit from more ideas or analysis?:
+        4. Represents an appropriate amount of work for a publication in this
+journal. (most submissions)
+
+IMPACT OF IDEAS OR RESULTS: How significant is the work described? If the
+ideas are novel, will they also be useful or inspirational? Does the paper
+bring any new insights?:
+        4. Some of the ideas or results will substantially help other people's
+ongoing research.
+
+IMPACT OF ACCOMPANYING SOFTWARE: If software was submitted along with the
+paper, what is the expected impact of the software package?:
+        1. No usable software released.
+
+IMPACT OF ACCOMPANYING DATASET: If a dataset was submitted along with the
+paper, what is its expected impact? Will it be valuable to others in the
+form in which they are released?:
+        4. Useful: I would recommend the new datasets to other researchers or
+developers for their ongoing work.
+
+RECOMMENDATION: Should the paper be accepted or rejected? In deciding on
+your ultimate recommendation, please think over all your scores above. If a
+paper has some weaknesses, but you really got a lot out of it, feel free to
+reccommend it. If a paper is solid but you could live without it, let us
+know that you're ambivalent.:
+        4. Worthy: A good paper that is worthy of being published in TACL.
+
+Detailed Comments for the Authors:
+        The goal of this paper is to quantitatively describe the language
+demographics of the Turker population. Given how popular MTurk has become
+for NLP experiments, such a description can prove to be useful to
+researchers designing these experiments. What's also interesting is that
+instead of using surveys as in previous work, the authors attempt to elicit
+these demographics in a task-based manner, i.e., by asking Turkers to
+translate words from a Turker's, purportedly, native language into English.
+They validated each Turker's work by evaluating their performance on two
+embedded control words for which the authors have the correct translations.
+In case a Turker provided a synonym for one of the correct translations, the
+authors ran a second MTurk task asking native English speakers if this was
+the case.
+
+The authors' study was comprehensive and covered a very large number of
+languages. The raw data resulting from the study as well as the bilingual
+dictionaries are useful resources that could be helpful to other NLP
+researchers interested in MTurk.
+
+However, I do have several questions/concerns about the study:
+
+1. The authors show that almost 42% of the translations could have come from
+Turkers simply typing the words into Google Translate. The authors try to
+validate their choice of mining the control translations from Wikipedia
+inter-linked titles by showing that if they had instead mined the
+translations from bilingual dictionaries, things would still be about the
+same. However, this doesn't really address the concern of cheating on MTurk.
+How does one really know whether a Turker is actually good at translating
+from one language into another or whether he is just using an MT service?
+For example, I was surprised to see that the first out-of-region location
+for obtaining good Afrikaans-English translations was India. Although this
+is possible, I find it very hard to believe. It is much more likely that the
+93 Turkers from India (!) who did the task used Google Translate and the
+control translations in Wikipedia were generated using Google Translate as
+well. I think most Turkers are motivated simply by the money and try to
+employ any means possible to complete as many HITs as possible in a day -
+especially since in places like India, micro-payments in cents and dollars
+can translate into a decent income.
+
+Would it be possible to detect whether a Turker was using an external
+service: using factors like time spent on a HIT (cumulative and on
+individual words), patterns in keystroke logs, tab/window focus etc? Have
+the authors thought about this? I know it isn't possible to detect perfectly
+but would this perhaps yield a more believable set of numbers? Right now, I
+am somewhat loath to believe the translation quality numbers.
+
+2. Did the authors take into account time of day, when the HIT was posted
+etc. to get a sense of whether one time of day is more optimal than others
+for each language? Does it matter at all?
+
+3. Although the data presented in the paper is interesting to look at, the
+recommendations made by the authors are already pretty well-known in the
+community - restrict HITs geographically and use embedded control questions
+rather than surveys.
+
+I was a little disappointed that the paper does not provide more specific
+recommendations for low-resource languages or even some novel methods of
+trying to detect Turker cheating. However, I understand that the goal of the
+paper is to present statistics about, and a task-based evaluation of,
+Turkers' self-reported language skills. It does achieve both of those goals
+to a large extent and while their numbers are certainly more believable than
+those obtained from a survey, I remain unconvinced that they are not
+affected by rampant cheating.
+
+In conclusion, I think this is an interesting paper and although it has its
+weaknesses, I think it will be very useful in spurring further research and
+discussion into the use of MTurk for developing multilingual NLP
+technologies.
+
+REVIEWER CONFIDENCE:
+        3. Pretty sure, but there's a chance I missed something. Although I have a
+good feel for this area in general, I did not carefully check the paper's
+details, e.g., the math, experimental design, or novelty.
+
+------------------------------------------------------
+
+------------------------------------------------------
+Reviewer G:
+
+APPROPRIATENESS: Does the paper fit in TACL? (Please answer this question in
+light of the desire to broaden the scope of the research areas represented
+in the ACL community.):
+        4. Probably.
+
+CLARITY: For the reasonably well-prepared reader, is it clear what was done
+and why? Is the paper well-written and well-structured?:
+        4. Understandable by most readers.
+
+ORIGINALITY/INNOVATIVENESS: Does this paper break new ground intopic,
+methodology, or content? How exciting and innovative is the research?:
+        2. Pedestrian: Obvious, or a minor extension to existing work.
+
+SOUNDNESS/CORRECTNESS: Is the methodology used to produce the resource or
+carry out the evaluation sound and well-chosen?:
+        2. Troublesome. There are some ideas worth salvaging here, but the work
+should really have been done differently.
+
+MEANINGFUL COMPARISON: Does the author make clear where the presented system
+sits with respect to existing literature? Are the references adequate?:
+        3. Bibliography and comparison are somewhat helpful, but it could be hard
+for a reader to determine exactly how this work relates to previous work or
+what its benefits and limitations are.
+
+SUBSTANCE: Does this paper have enough substance (in terms of the amount of
+work), or would it benefit from more ideas or analysis?:
+        2. Work in progress. There are enough good ideas, but perhaps not enough
+results yet.
+
+IMPACT OF IDEAS OR RESULTS: How significant is the work described? If the
+ideas are novel, will they also be useful or inspirational? Does the paper
+bring any new insights?:
+        2. Marginally interesting. May or may not be cited.
+
+IMPACT OF ACCOMPANYING SOFTWARE: If software was submitted along with the
+paper, what is the expected impact of the software package?:
+        1. No usable software released.
+
+IMPACT OF ACCOMPANYING DATASET: If a dataset was submitted along with the
+paper, what is its expected impact? Will it be valuable to others in the
+form in which they are released?:
+        1. No usable datasets submitted.
+
+RECOMMENDATION: Should the paper be accepted or rejected? In deciding on
+your ultimate recommendation, please think over all your scores above. If a
+paper has some weaknesses, but you really got a lot out of it, feel free to
+reccommend it. If a paper is solid but you could live without it, let us
+know that you're ambivalent.:
+        2. Leaning against: I'd rather not see appear it in TACL.
+
+Detailed Comments for the Authors:
+        This paper addresses two important questions for researchers trying to
+develop cross-linguistic corpora. First, how can they build robust systems
+for crowdsourcing corpus development? Second, which languages have enough
+coverage on Mechanical Turk for corpus development?
+
+In order to develop a system that elicits high-quality information from
+crowdsourced workers, several problems need to be addressed. First, how can
+the quality of a worker's answers be accurately assessed? Second, how can
+workers be incentivized to provide honest and high-quality responses? Third,
+how can diverse answers be aggregated to provide solutions to the desired
+tasks (e.g. how can many workers' translations of a sentence be combined
+into a single translation)? The paper mainly addresses the first problem, by
+proposing to use the titles of Wikipedia articles as a gold standard for
+evaluation of a word translation task. This proposal has several important
+limitations:
+
+-An obvious problem with using word translation accuracy as a measure of
+language expertise is that the task can be solved using GoogleTranslate or
+other machine translation technologies. While the paper discusses this
+problem, it does not satisfactorily solve it. Indeed, the paper provides
+evidence that cheating on the task was widespread among workers. Figure 2
+shows that many of the languages with lowest accuracies have non-Latin
+scripts; a plausible interpretation of this is that higher accuracy on
+languages with Latin scripts is attributable to the use of machine
+translation. This is further supported by the completion of the task by many
+out-of-region workers, who in most cases are almost certainly not native
+speakers of the language. Though cheating appears to be widespread, the
+authors do not propose any ways to detect or eliminate it, other than to
+restrict IP addresses by region. However, this idea is not novel to this
+paper, and has been well-known among requesters on Mechanical Turk for at
+least several years.
+
+-Though the proposed gold-standard evaluation is very straightforward, it
+would nonetheless have been interesting if the authors had demonstrated that
+the task could be used to improve translation performance. For example, the
+authors could have demonstrated that by restricting to workers with high
+accuracy on the task, they were able to improve performance on a held-out
+data set. The authors did not show anything along these lines, however.
+
+-In addition to showing that the evaluation task was able to improve
+translation accuracy, it would have been desirable to show that it provided
+an advantage over existing translation technologies. An obvious baseline
+technology would be GoogleTranslate, and it is not clear from the paper
+whether their system would have performed better than GoogleTranslate.
+Indeed, the authors provide evidence that GoogleTranslate would have
+performed better: there was a positive correlation between overlap with
+GoogleTranslate and translation accuracy.
+
+-The proposed evaluation method could have nonetheless been valuable if it
+could be generalized to more complex tasks, such as evaluation of
+whole-sentence translations. However, it relies on the use of one-word
+Wikipedia titles as a parallel corpus, and it is not clear how this idea
+could be used to construct parallel corpora for other tasks (since, e.g.,
+sentences in corresponding Wikipedia articles will not generally be direct
+translations of each other).
+
+In addition to proposing a method for evaluating translation accuracies, the
+authors also evaluate the language expertise of Mechanical Turk workers on a
+range of languages. Data on this expertise would be valuable for researchers
+seeking to use Mechanical Turk to construct corpora in particular languages.
+Again, however, this evaluation was limited in several respects:
+
+-The evidence of widespread cheating on the task, and the apparent
+effectiveness of machine translation at solving the task, means that it is
+hard to evaluate which responses were generated by native speakers.
+
+-It appears from the paper that there was no limit on the number of tasks
+that an individual worker could submit. It is therefore possible that a
+small number of workers could have driven response accuracies for some
+languages. The authors could have accounted for this in a straightforward
+way by regressing out the contributions of individual workers, e.g. by using
+random effects models.
+
+The paper does provide evidence that in the absence of robust controls,
+there is a large amount of cheating on Mechanical Turk. However, this would
+not be a new finding among requesters on Mechanical Turk. Given the
+limitations of the paper, I would not recommend it for publication in TACL.
+
+REVIEWER CONFIDENCE:
+        3. Pretty sure, but there's a chance I missed something. Although I have a
+good feel for this area in general, I did not carefully check the paper's
+details, e.g., the math, experimental design, or novelty.

@@ -8,7 +8,9 @@ import dictionaries
 import compile_data_from_raw as dat
 
 RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11'
-OUTPUT_DIR = 'output'
+OUTPUT_DIR = 'new-output'
+
+import pickle
 
 goog_langs = ['el', 'eo', 'zh', 'af', 'vi', 'is', 'it', 'kn', 'cs', 'cy', 'ar', 'eu', 'et', 'gl', 'id', 'es', 'ru', 'az', 'nl', 'pt', 'tr', 'lv', 'lt', 'th', 'gu', 'ro', 'ca', 'pl', 'ta', 'fr', 'bg', 'ms', 'hr', 'de', 'da', 'fa', 'fi', 'hy', 'hu', 'ja', 'he', 'te', 'sr', 'sq', 'ko', 'sv', 'ur', 'sk', 'uk', 'sl', 'sw']
 
@@ -74,7 +76,7 @@ def get_syn_lists():
 
 def get_goog_translations():
 	trans = dict()
-	for line in open('goog_trans').readlines():
+	for line in open('output/goog_trans').readlines():
 		wid, word, tran, lang = line.strip().split('\t')
 		trans[wid.strip()] = tran.strip()		
 	return trans
@@ -257,12 +259,14 @@ def get_good_and_bad_translations(path):
 	for lang in controls:
 		pos[lang]=[(orig,string.join(controls[lang][orig]['pos'],',')) for orig in controls[lang] if len(controls[lang][orig]['pos'])>0]
 		neg[lang]=[(orig,string.join(controls[lang][orig]['neg'],',')) for orig in controls[lang] if len(controls[lang][orig]['neg'])>0]
-	write_control_dicts(pos, file_prefix='poscontrols/dictionary')
-	write_control_dicts(neg, file_prefix='negcontrols/dictionary')
+	write_control_dicts(pos, file_prefix='new-output/poscontrols/dictionary')
+	write_control_dicts(neg, file_prefix='new-output/negcontrols/dictionary')
 
 #returns a dictionary of {assignment : # of controls attempted, # of controls correct, average performance on controls}
 def get_goog_match_by_assign(path):
         matches = get_goog_translations()
+	pickle.dump(matches, open('googmatch-old.pkl', 'w'))
+	exit(0)
         words = word_map()
         data = {}
 	numlangmap, langmap = dat.lang_map()
@@ -390,14 +394,14 @@ if __name__ == '__main__':
 	if sys.argv[1] == 'assignments': 
 		write_avg_quals(get_quality_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.voc.quality'%OUTPUT_DIR)
 	if sys.argv[1] == 'turker':
-		quality_by_turker('%s/byturker.voc.quality.external.ext'%OUTPUT_DIR, '%s/byassign.voc.quality.external.ext'%OUTPUT_DIR)
-#		quality_by_turker('%s/byturker.voc.quality'%OUTPUT_DIR, '%s/byassign.voc.quality'%OUTPUT_DIR)
+#		quality_by_turker('%s/byturker.voc.quality.external.ext'%OUTPUT_DIR, '%s/byassign.voc.quality.external.ext'%OUTPUT_DIR)
+		quality_by_turker('%s/byturker.voc.quality'%OUTPUT_DIR, '%s/byassign.voc.quality'%OUTPUT_DIR)
 	if sys.argv[1] == 'goog':
 		write_avg_quals(get_goog_match_by_assign('%s/voc_hits_results'%RAW_DIR), '%s/byassign.googmatch'%OUTPUT_DIR)
 		googmatch_by_turker('%s/byturker.googmatch'%OUTPUT_DIR,'%s/byassign.googmatch'%OUTPUT_DIR)
 	if sys.argv[1] == 'controls':
-#		write_all_syns()
-		get_good_and_bad_translations('%s/voc_hits_results'%RAW_DIR)
+		write_all_syns()
+#		get_good_and_bad_translations('%s/voc_hits_results'%RAW_DIR)
 
 
 

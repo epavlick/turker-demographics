@@ -12,7 +12,7 @@ from scipy import stats
 import compile_data_from_raw as dat
 
 RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11'
-DICT_PATH = './translations.out'
+DICT_PATH = './translations.all.control.tagged.out'
 CLPAIRS = './cl-pairs.csv'
 OUTPUT_DIR = 'output'
 DICT_DIR = '../../dictionaries/ellie/clpair' #'dictionaries'
@@ -75,10 +75,8 @@ def yrs_list(cutoff):
 
 def word_map(path):
 	words = dict()
-	print 'reading vocab'
         for i,line in enumerate(codecs.open(path, encoding='utf-8').readlines()[1:]):
-		if(i % 10000 == 0):
-			print i
+	#	if(i % 10000 == 0): print i
 		comps = line.split(',')
 		if(len(comps) > 1):
 			wid = comps[0]
@@ -121,10 +119,10 @@ def resolve_word_ids(data):
 		retdict[a] = list()
 		for wid,trans in data[a]:
 			just_wid, iscontrol = justid(wid)	
-			if iscontrol == '0':
-				if just_wid in words:
-					word = words[just_wid]
-					retdict[a].append((word,trans))
+#			if iscontrol == '0':
+			if just_wid in words:
+				word = words[just_wid]
+				retdict[a].append((just_wid,word,trans,iscontrol))
 	return retdict
 			
 
@@ -204,12 +202,15 @@ def write_translations(data, fname):
 	print 'writing dict file'
 	outfile = codecs.open(fname, encoding='utf-8', mode='w', errors='ignore')
 	for i,aid in enumerate(data):
-		if(i%100 == 0):
+		if(i%1000 == 0):
 			print i
 		outfile.write('%s\t'%aid)
-		for word,tran in data[aid]:
+		for wid,word,tran,cntrl in data[aid]:
 			try:
-				outfile.write('%s:%s\t'%(word,re.sub('\n',' ',tran)))
+				tran = tran.replace('\n',' ')
+				tran = tran.replace(':','-')
+				tran = tran.replace('\t',' ')
+				outfile.write('%s:%s:%s:%s\t'%(wid,word,tran,cntrl))
 			except UnicodeDecodeError:
 				print 'unicode error, ignoring'
 				outfile.write('<decode-err>\t')
@@ -589,7 +590,7 @@ if __name__ == '__main__':
 	#check if raw translation files have alread been processed. if not, process them	
 	if not(os.path.exists(DICT_PATH)):
 		print '%s does not exist. Reloading translation data from raw. This will take forever and ever.'%DICT_PATH
-		assign_list = id_list('%s/byassign.voc.accepted'%OUTPUT_DIR)
+		assign_list = id_list('%s/byassign.voc'%OUTPUT_DIR)
 		write_translations(resolve_word_ids(get_translations_by_assign('%s/assignments'%RAW_DIR, alist=assign_list)), DICT_PATH)
 	
 	#extract data by cl pairs

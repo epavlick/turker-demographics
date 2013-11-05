@@ -536,7 +536,7 @@ def exact_match_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
         plt.ylabel('')
 	plt.ylim([0,max(yax)+.1])
 	plt.xlim([0,len(ci_dict)])
-	plt.savefig('figures/exact-match-bar.pdf')
+	plt.show() #savefig('figures/exact-match-bar.pdf')
 
 #stacked bar graph of proportion of exact matches and proportion of synonymn matches
 #side by side with proportion of google translate matches
@@ -598,7 +598,7 @@ def conf_int_graphs(all_ci_dict, title='Graph', graph_avg=True, cutoff=3000):
         plt.ylabel('')
 	plt.ylim([0,max(yax)+.1])
 	plt.xlim([0,len(ci_dict)])
-	plt.savefig('figures/hitlang-bar.pdf')
+	plt.show() #savefig('figures/hitlang-bar.pdf')
 
 #mapping of assign_id to hit_id
 def hit_map():
@@ -1229,7 +1229,7 @@ def natlang_pie(tuples):
         proptease.set_size('medium')
         plt.setp(autotexts, fontproperties=proptease)
         plt.setp(texts, fontproperties=proptease)
-	plt.savefig('figures/natlang-pie.pdf')
+	plt.show() #savefig('figures/natlang-pie.pdf')
 
 #return statistics on turkers' native languages as a list of (language, count) tuples
 def natlang_table():

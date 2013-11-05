@@ -1,0 +1,93 @@
+
+HIGH PRIORITY
+
+************************************************
+* prevent use of Google Translate              *
+* would require new experiments                *
+* possibly just relaunch subset of languages   *
+************************************************
+
+Mirella : All reviewers had issues with the amount of cheating taking place among Turkers. It would be useful to quantify/detect this and remove such participants from your results. 
+
+E: This problem could have been avoided if the assignments were more suitable for measuring real language proficiency...phrase- or sentence-level translations are a more realistic indication of the translator's knowledge of language. 
+
+F: Would it be possible to detect whether a Turker was using an external service: using factors like time spent on a HIT (cumulative and on individual words), patterns in keystroke logs, tab/window focus etc? 
+
+G: Though cheating appears to be widespread, the authors do not propose any ways to detect or eliminate it, other than to restrict IP addresses by region.
+
+*************************************************
+* show results are not due to a few big players *
+* only requires new analysis                    *
+*************************************************
+
+Mirella : Provide additional analysis showing that translation accuracy is not due to a few individuals who happened to do most of your tasks (e.g., using random effects models)
+
+G: It is possible that a small number of workers could have driven response accuracies for some languages. The authors could have accounted for this in a straightforward way by regressing out the contributions of individual workers, e.g. by using random effects models.
+
+
+***********************************************
+* extrinsic validation mturk data             *
+* 'new' experiments, maybe using Matt's data? *
+***********************************************
+
+Mirella : It would be interesting to show that the proposed approach brings an advantage over current SMT technology, i.e., improves lexical translations for an existing SMT system.
+
+G: Though the proposed gold-standard evaluation is very straightforward, it would nonetheless have been interesting if the authors had demonstrated that the task could be used to improve translation performance. 
+
+G: In addition...it would have been desirable to show that it provided an advantage over existing translation technologies. An obvious baseline technology would be GoogleTranslate
+
+***********************************************
+* extend beyond single word translations      *
+* 'new' experiments, maybe using Matt's data? *
+***********************************************
+Mirella : It would also be interesting to assess whether your results carry over to multiple words and/or sentences. The impact of cheating would be less severe in this case.
+
+B: Bilingual dictionaries are potentially interesting resources, but have much less utility than full sentence translations.
+
+E: phrase- or sentence-level translations are a more realistic indication of the translator's knowledge of language. The challenge here would be to devise the control set, i.e., to come up with gold standard translations of such multi-word units. Constructing the synonymous set for each unit can be done automatically in the same way as it is done for single words in the current study (that is, by using monolingual MTurk assignments for judging the similarity of units).
+
+G: The proposed evaluation method could have nonetheless been valuable if it could be generalized to more complex tasks, such as evaluation of whole-sentence translations. 
+  
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+LOW PRIORITY
+
+******************************
+* time for posting HITs      *
+* just requires new analysis *
+******************************
+
+F: Did the authors take into account time of day, when the HIT was posted etc. to get a sense of whether one time of day is more optimal than others for each language? Does it matter at all?
+
+*********
+* typos *
+*********
+
+B:  Equation (2) has a typo: Quality(a_j) should not be in the subscript.
+
+B:  Under "Use of machine translation": "Given then prevalence" -> "Given the prevalence"
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+RESPOND TO REVEIWER, BUT NO REAL ACTION
+
+*******************
+* length of study *
+*******************
+
+B: The authors ran an experiment over 3.5 months, but I wonder how the demographics change over time. Are there seasonal effects in the workforce? Has it changed over the past year? And more importantly, will it change substantially in the future? I'm somewhat skeptical that these demographics will remain constant, especially as Amazon rolls out changes to the service.
+
+***************************
+* accuracy of geolocation *
+***************************
+
+B: Do you have a notion of how accurate the geolocation is? IP addresses can be hidden behind VPN, or may not accurately represent a location.
+
+E: However, even this pattern (of worker location correlating with translation quality) must be looked at cautiously since the IP address from which a worker connects is not a certain indication of the actual geographical location they live in.
+
+***********
+* novelty *
+***********
+
+F: Although the data presented in the paper is interesting to look at, the recommendations made by the authors are already pretty well-known in the community - restrict HITs geographically and use embedded control questions rather than surveys.
+

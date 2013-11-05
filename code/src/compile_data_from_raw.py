@@ -6,9 +6,10 @@ import string
 import codecs
 
 RAW_DIR = '/home/steven/Documents/Ellie/Research/demographics/data/dictionary-data-dump-2012-11-13_15:11'
-OUTPUT_DIR = 'output'
+OUTPUT_DIR = 'new-output'
 
 def hits_language():
+	nm, lm = lang_map()
 	hit_path = '%s/hits'%RAW_DIR
 	language_path = '%s/languages'%RAW_DIR
         lang_data = {}
@@ -29,11 +30,11 @@ def lang_map():
         num_data = {}
         for line in csv.DictReader(open('%s/languages'%RAW_DIR)):
                 lang = line['name'].lower()
-                id = line['id']
+                lid = line['id']
                 if(lang not in lang_data):
                         lang_data[lang] = line['prefix']
-                if(id not in num_data):
-                        num_data[id] = line['prefix']
+                if(lid not in num_data):
+                        num_data[lid] = line['prefix']
         return num_data, lang_data
 
 def country_map():
@@ -72,8 +73,8 @@ def assign_workers(path, langs, idlist=None):
         numlangmap, langmap = lang_map()
         data = {}
         for line in csv.DictReader(open(path)):
-		if line['mturk_status'] == 'Rejected':
-			continue
+#		if line['mturk_status'] == 'Rejected':
+#			continue
                 worker = line['worker_id']
                 assign = line['id']
 		if( (not(idlist==None)) and (assign not in idlist) ):
@@ -88,12 +89,12 @@ def assign_langs(path, langs, idlist=None, skip_rejected=False):
         numlangmap, langmap = lang_map()
         survey_data = {}
         for line in csv.DictReader(open(path)):
-		if skip_rejected and line['mturk_status'] == 'Rejected':
-			continue
+#		if skip_rejected and line['mturk_status'] == 'Rejected':
+#			continue
                 worker = line['worker_id']
                 assign = line['id']
-		if( (not(idlist==None)) and (assign not in idlist) ):
-			continue
+#		if( (not(idlist==None)) and (assign not in idlist) ):
+#			continue
                 hit = line['hit_id']
                 data = json.loads(line['result'])
                 survey_keys = ['country','survey','lang', 'hitlang', 'yrseng', 'yrssrc']
@@ -149,7 +150,7 @@ def write_data(data, name, headers):
                	f.write(s+'\n')
         f.close()
 
-def write_turker_data(data, name, headers):
+def write_turker_data(data, name, headers, l2s=True):
 	f = codecs.open(name,'w','utf-8')
 	s = 'id\t'
 	for t in headers:
@@ -158,7 +159,8 @@ def write_turker_data(data, name, headers):
 	for d in data:
 		s = '%s\t'%d
 		for dd in data[d]:
-			s += '%s\t'%list2str(dd)
+			if l2s : s += '%s\t'%list2str(dd)
+			else : s += '%s\t'%list(data[d][dd])[0]
 		f.write(s+'\n')
 	f.close()
 
@@ -213,9 +215,11 @@ def turker_langs(assignpath, workerpath, langs):
 			survey_data[worker]['lang'].add(assignmap[assign]['lang'])
 			survey_data[worker]['yrseng'].add(assignmap[assign]['yrseng'])
 			survey_data[worker]['yrssrc'].add(assignmap[assign]['yrssrc'])
+	print '4782' in survey_data
         return survey_data
 
 def lang_dups(data):
+	print '4782' in data
 	none = dict()
 	one = dict()
 	more = dict()
@@ -234,6 +238,7 @@ def lang_dups(data):
 			one[t] = [langs,ctry,svy_ctry,hitlang,eng,src]				
 		if(len(langs) > 1):
 			more[t] = [langs,ctry,svy_ctry,hitlang,eng,src]				
+	print '4782' in none or  '4782' in one or  '4782' in more
 	return [none, one, more]
 
 if __name__ == '__main__':
@@ -258,7 +263,7 @@ if __name__ == '__main__':
 		## compile assignment worker lists, full and by HIT type ##	
 		sassigns = assign_workers('%s/assignments'%RAW_DIR, langs, idlist=ss)
 		vassigns = assign_workers('%s/assignments'%RAW_DIR, langs, idlist=vs)
-		assigns = assign_workers('%s/assignments'%RAW_DIR, langs, idlist=set(list(ss)+list(vs)))
+		assigns = assign_workers('%s/assignments'%RAW_DIR, langs) #, idlist=set(list(ss)+list(vs)))
 	        write_data(sassigns,'%s/byassign.workerids.syn'%OUTPUT_DIR,['worker'])
 	        write_data(vassigns,'%s/byassign.workerids.voc'%OUTPUT_DIR,['worker'])
 	        write_data(assigns,'%s/byassign.workerids'%OUTPUT_DIR,['worker'])
@@ -267,12 +272,12 @@ if __name__ == '__main__':
 		print "compiling syn workers"
 		# compile turker information for syn assignments
 		data = turker_langs('%s/byassign.syn'%OUTPUT_DIR, '%s/byassign.workerids.syn'%OUTPUT_DIR, langs)
-		write_turker_data(data,'%s/byturker.syn'%OUTPUT_DIR,['langs','country','survey','hitlang', 'yrseng', 'yrssrc'])	
+		write_turker_data(data,'%s/byturker.syn'%OUTPUT_DIR,['langs','country','survey','hitlang', 'yrseng', 'yrssrc'], l2s=False)	
 		
 		print "compiling voc workers"
 		# compile turker information for voc assignments, dependent on number of reported langs
-		data = turker_langs('%s/byassign.voc'%OUTPUT_DIR, '%s/byassign.workerids.voc'%OUTPUT_DIR, langs)
-		n, o, m = lang_dups(data)
-		write_turker_data(n,'%s/byturker.voc.nolang'%OUTPUT_DIR,['langs','country','survey','hitlang', 'yrseng', 'yrssrc'])	
-		write_turker_data(o,'%s/byturker.voc.onelang'%OUTPUT_DIR,['langs','country','survey','hitlang', 'yrseng', 'yrssrc'])	
-		write_turker_data(m,'%s/byturker.voc.multlang'%OUTPUT_DIR,['langs','country','survey','hitlang', 'yrseng', 'yrssrc'])	
+		#data = turker_langs('%s/byassign.voc'%OUTPUT_DIR, '%s/byassign.workerids.voc'%OUTPUT_DIR, langs)
+		#n, o, m = lang_dups(data)
+		#write_turker_data(n,'%s/byturker.voc.nolang'%OUTPUT_DIR,['langs','country','survey','hitlang', 'yrseng', 'yrssrc'])	
+		#write_turker_data(o,'%s/byturker.voc.onelang'%OUTPUT_DIR,['langs','country','survey','hitlang', 'yrseng', 'yrssrc'])	
+		#write_turker_data(m,'%s/byturker.voc.multlang'%OUTPUT_DIR,['langs','country','survey','hitlang', 'yrseng', 'yrssrc'])	

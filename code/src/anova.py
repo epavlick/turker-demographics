@@ -20,7 +20,7 @@ tmap = dictionaries.turker_map()
 
 def scores():
         scores = dict()
-        for line in open('%s/byturker.voc.quality.new'%DATA_DIR).readlines():
+        for line in open('%s/byturker.voc.quality'%DATA_DIR).readlines():
                 l = line.split('\t')
 		try:
 	                scores[l[0]] = float(l[1].strip())
