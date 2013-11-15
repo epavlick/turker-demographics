@@ -17,7 +17,7 @@
 \usepackage{float}
 \usepackage{subfloat}
 \usepackage{subcaption}
-\DeclareMathOperator*{\argmax}{arg\,max}
+
 \setlength\titlebox{5cm}    % Expanding the titlebox
 
 \newcommand{\affliationPenn}{\ensuremath{{}^\text{1}}}
@@ -78,12 +78,12 @@ We have rerun the quality analysis in the paper, omitting workers with \textgrea
 \begin{figure}
 \centering
 \begin{subfigure}[b]{1\linewidth}
-\includegraphics[width=\textwidth]{figures/fig2with.png}
+\includegraphics[width=\textwidth]{figures/fig2all_errorbars.png}
 \caption{All turkers.}                
 \label{dist}
 \end{subfigure}
 \begin{subfigure}[b]{1\linewidth}
-\includegraphics[width=\textwidth]{figures/fig2without.png}
+\includegraphics[width=\textwidth]{figures/fig2filter_errorbars.png}
 \caption{Turkers with \textless 60\% overlap with Google Translate.}
 \label{cdf}
 \end{subfigure}
@@ -99,6 +99,13 @@ It is possible that a small number of workers could have driven response accurac
 \end{quote}
 We ran a random effects model and found blah blah blah blah blah blah blah. 
 
+\begin{figure}
+\includegraphics[width=1\linewidth]{figures/turker_hit_contributions.png}
+\caption{Contributions of individual turkers to the overall number of HITs in each language. The dark blue bar represents the proportion of total HITs which were completed by the 10 highest-contributing turkers. The next darkest bar represents the next 10 highest-contributing turkers, and likewise for the thrid and forth darkest. The final bar represents the remaining turkers which were not one of the top 40 contributors.}
+\label{numhits}
+\end{figure}
+
+
 \section{Extrinsic evalutation of mturk data for SMT}
 
 All the reviewers expressed desire for further evidence of the usefulness of the Turker-provided translations for statistical machine translation, and the possibility of extending the demonstrated methods to multiple word translations. The editor requests :
@@ -107,7 +114,45 @@ All the reviewers expressed desire for further evidence of the usefulness of the
 It would be interesting to show that the proposed approach brings an advantage over current SMT technology, i.e., improves lexical translations for an existing SMT system....It would also be interesting to assess whether your results carry over to multiple words and/or sentences. 
 \end{quote}
 
-Previous work by Matt Post in the 2010 WMT has demonstrated not only that turkers are able to provide high quality translations of complete sentences, but also that these translations, when added into an SMT pipeline, measurably improve translation quality. \textbf{MORE HERE.}
+Previous work by Matt Post in the 2010 WMT has demonstrated not only that turkers are able to provide high quality translations of complete sentences, but also that these translations, when added into an SMT pipeline, measurably improve translation quality. 
+
+\begin{table}[t]
+\centering
+\begin{tabular}{l|rr}
+  language  & SAMT &  Google \\
+  \hline\hline
+  Bengali    & 13.53  &  20.01 \\
+  Hindi      & 17.29  & 25.21 \\  
+  Malayalam    & 14.28  & - \\      
+  Tamil      &  9.85  &  13.51 \\  
+  Telugu     & 12.61  & 16.03  \\  
+  Urdu        & 20.99  & 23.09 \\   
+\end{tabular}
+\caption{BLEU scores translating into English (four references).  BLEU
+scores are the mean of three MERT runs.}
+\label{table:bleu}
+\end{table}
+
+\begin{figure*}[t]
+  \centering
+  \includegraphics[width=\textwidth]{figures/tamil.png}
+  \begin{tabular}{l}
+    \hline
+    In March 15,2007 Wiki got a place in Oxford English dictionary. \\
+    On March 15, 2007 wiki was included in the Oxford English
+    dictionary. (5) \\
+    ON MARCH 15, 2007, WIKI FOUND A PLACE IN THE OXFORD ENGLISH
+    DICTIONARY \\
+    March 15, 2007 oxford english index of wiki's place. \\ \\
+
+  \end{tabular}
+  \caption{An example of the variance in translation quality for the
+    human translations of a Tamil sentence; the formatting of the
+    translations has been preserved exactly.  The parenthesized number
+    indicates the number of votes received in the voting task
+    (\S\ref{section:votes}).}
+  \label{figure:variance}
+\end{figure*}
 
 \section{Affect of time of day when HIT was posted}
 
@@ -135,9 +180,5 @@ While we agree that the questions posed are very interesting, we feel that answe
 \section{Accuracy of Geolocation}
 
 We understand that geolocation is not perfect, which is why we propose the use of location data as just one of several criteria by which to identify likely qualified translators. The trends that we observe in our analysis, where we show that turkers geolocated within a region likely to speak the source language being translated tend to perform better on our controls, coincide with what we would expect to see if geolcation were accurate. This seems to support the assumption that, on average, the geolocation is performing sufficiently well.
-
-\section{Novelty}
-
-Its novel. Trust us.
 
 \end{document}
