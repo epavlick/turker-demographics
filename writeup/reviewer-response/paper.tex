@@ -11,7 +11,8 @@
 \usepackage{amsmath}
 \usepackage{url}
 \usepackage{graphicx}
-\usepackage{caption}
+%\usepackage{caption}
+\usepackage[font=small]{caption}
 \usepackage{multirow}
 \usepackage{dblfloatfix}
 \usepackage{float}
@@ -19,6 +20,8 @@
 \usepackage{subcaption}
 
 \setlength\titlebox{5cm}    % Expanding the titlebox
+\setlength{\abovecaptionskip}{1pt plus 1pt minus 1pt} % Chosen fairly arbitrarily
+\setlength{\belowcaptionskip}{1pt plus 1pt minus 1pt} % Chosen fairly arbitrarily
 
 \newcommand{\affliationPenn}{\ensuremath{{}^\text{1}}}
 \newcommand{\affliationJHU}{\ensuremath{{}^\text{2}}}
@@ -38,73 +41,112 @@
 \begin{document}
 \maketitle
 
-\begin{figure}
-\centering
-\begin{subfigure}[b]{1\linewidth}
-\includegraphics[width=\textwidth]{figures/turker-googmatch-distribution.png}
-\caption{Individual turker overlap with google translate. We believe the inflection point at ~60\% overlap with Google suggests a reasonable cutoff by which to filter workers. Workers with \textgreater 60\% overlap can be reasonably considered to be cheating and can be removed.}                
-\label{dist}
-\end{subfigure}
-\begin{subfigure}[b]{1\linewidth}
-\includegraphics[width=\textwidth]{figures/google-cdf-googlangs.png}
-\caption{Cumulative distribution of overlap with Google translate for workers and translations. We see that eliminating all workers with \textgreater 60\% overlap with google translate still preserves \textgreater 80\% of workers and \textgreater 70\% of translations.}
-\label{cdf}
-\end{subfigure}
-\caption{}\label{cheaters}
-\end{figure}
+%\begin{figure}
+%\centering
+%\begin{subfigure}[b]{1\linewidth}
+%\includegraphics[width=\textwidth]{figures/turker-googmatch-distribution.png}
+%\caption{Individual turker overlap with Google Translate. We remove the 500 workers with the highest overlap (shaded region on the left) from our analysis, as it is reasonable to assume these workers are cheating by submitting translations from Google. We believe the workers with no overlap (shaded region on the right) are also likely to be cheating, e.g. by submitting random text, and we target these workers through our embedded quality controls.}                
+%\label{dist}
+%\end{subfigure}
+%\begin{subfigure}[b]{1\linewidth}
+%\includegraphics[width=\textwidth]{figures/google-cdf-googlangs.png}
+%\caption{Cumulative distribution of overlap with Google translate for workers and translations. We see that eliminating all workers with \textgreater 70\% overlap with google translate still preserves 90\% of translations and \textgreater 90\% of workers.}
+%\label{cdf}
+%\end{subfigure}
+%\caption{}\label{cheaters}
+%\end{figure}
 
 \section{Use of Google Translate}
+
+
 
 The primary concern across reviewers was the high amount of overlap between workers' translations and translations available through online resources, i.e. Google Translate. The editor summarized : 
 \begin{quote}
 All reviewers had issues with the amount of cheating taking place among Turkers. It would be useful to quantify/detect this and remove such participants from your results.
 \end{quote}
 
+\begin{figure}[ht]
+\includegraphics[width=\linewidth]{figures/turker-googmatch-distribution.png}
+\caption{Individual turker overlap with Google Translate. We remove the 500 workers with the highest overlap (shaded region on left) from our analysis. Workers with no overlap (on right) are also likely to be cheating, e.g. by submitting random text. We target these workers through our embedded controls.}                
+\label{dist}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=\linewidth]{figures/google-cdf-googlangs.png}
+\caption{Cumulative distribution of overlap with Google translate for workers and translations. Eliminating all workers with \textgreater 70\% overlap with google translate still preserves 90\% of translations and \textgreater 90\% of workers.}
+\label{cdf}
+\end{figure}
+
 We took at closer look at the amount of overlap with Google translate in our collected translations in order to address this issue. We found that while overall overlap is high, it is not consistantly high across all turkers. Figure \ref{dist} shows that while a small number of turkers have a very high amount of overlap with Google (near 80\%) the majority overlap less than half of the time. 
 
-As Reviewer E noted : 
+%As Reviewer E noted : 
 
-\begin{quote}
-..it is quite possible that a fluent speaker of a language provides the same translation as Google Translate for a given word.  In other words, the performance results are inconclusive.
-\end{quote}
+%\begin{quote}
+%..it is quite possible that a fluent speaker of a language provides the same translation as Google Translate for a given word.  In other words, the performance results are inconclusive.
+%\end{quote}
 
-We see a clear inflection near the 60\% overlap point, suggesting that this cutoff may work well to eliminate turkers who are likely using Google Translate to cheat without punishing those who are producing honest translations that happen to overlap with Googe Translate.
 
-Figure \ref{cdf} shows that removing workers with suspiciously high overlap with Google retains the majority of workers and translations, and will not greatly decrease the size of the study. 
 
-We have rerun the quality analysis in the paper, omitting workers with \textgreater 60\% overlap with Google Translate. The quality scores and rankings do not change substantially. For reference, figure 2 from the paper is reproduced in figure \ref{qual}, both with and without the high-overlap Turkers included. 
+It seems likely that those with very high overlap are cheating, but it is also reasonable to assume that honest turkers will overlap with Google with some regularity. We therefore divide the workers into three groups : those with very high overlap with Google (likely cheating by using Google to translate words), those with reasonable overlap, and those with no overlap (likely cheating by other means, e.g. submitting random text). Our controls are designed to identify workers that fall into the third group (those who are spamming or providing useless translations), but they will not effectively flag workers who are cheating with Google Translate. 
 
+
+
+We chose to remove the 500 turkers with the highest overlap with Google. This equates to removing all workers with greater than 70\% overlap. Figure \ref{cdf} shows that removing workers at or above the 70\% threshold retains 90\% of the collected translations and over 90\% of the workers.
 
 \begin{figure}
 \centering
 \begin{subfigure}[b]{1\linewidth}
-\includegraphics[width=\textwidth]{figures/fig2all_errorbars.png}
+\includegraphics[width=\textwidth]{figures/quality-all.png}
 \caption{All turkers.}                
-\label{dist}
+\label{quality-all}
 \end{subfigure}
 \begin{subfigure}[b]{1\linewidth}
-\includegraphics[width=\textwidth]{figures/fig2filter_errorbars.png}
-\caption{Turkers with \textless 60\% overlap with Google Translate.}
-\label{cdf}
+\includegraphics[width=\textwidth]{figures/quality-filtered.png}
+\caption{Turkers with \textless 70\% overlap with Google Translate.}
+\label{quality-filtered}
 \end{subfigure}
 \caption{Qualities for languages with \textgreater 50 turkers. Dark blue shows quality measured by perfect match on the control translation. Light blue indicates quality measured by included synonymous translations.}\label{qual}
 \end{figure}
+
+We have rerun the quality analysis in the paper, omitting workers with \textgreater 70\% overlap with Google Translate. The quality scores and rankings do not change substantially. For reference, figure \ref{qual} shows the quality scores for languages when computed over all Turkers as in the original draft of the paper (figure \ref{quality-all}) and computed over only Turkers with less than 70\% overlap with Google (figure \ref{quality-filtered}). In our new draft of the paper, we have omitted Tukers with more than 70\% overlap from all of our quality computations.
+
+
+%\begin{figure}
+%\includegraphics[width=\linewidth]{figures/quality-all.png}
+%\caption{All turkers.}                
+%\label{quality-all}
+%\end{figure}
+%\begin{figure}
+%\includegraphics[width=\linewidth]{figures/quality-filtered.png}
+%\caption{Turkers with \textless 70\% overlap with Google Translate.}
+%\label{quality-filtered}
+%\caption{Qualities for languages with \textgreater 50 turkers. Dark blue shows quality measured by perfect match on the control translation. Light blue indicates quality measured by included synonymous translations.}\label{qual}
+%\end{figure}
 
 
 \section{Robustness of results to removing few big players}
 
 The editor and reviewer G highlighted the possibility that the quality results are due to a few large players, and may not be robust if the experiment were rerun with a different group of workers : 
 \begin{quote}
-It is possible that a small number of workers could have driven response accuracies for some languages. The authors could have accounted for this in a straightforward way by regressing out the contributions of individual workers, e.g. by using random effects models.
+Provide additional analysis showing that translation accuracy is not due to a few individuals who happened to do most of your tasks.
 \end{quote}
-We ran a random effects model and found blah blah blah blah blah blah blah. 
+
+We agree that this is a valid concern since many languages followed the pattern of having a small number of very active Turkers complete the majority of assignments. We account of this by reporting qualities of each language as an average over Turker qualities, rather than over assignment qualities. By this method, each Turker contributes equally to the language's average quality, regardless of the number of HITs that that Turker submitted. Section 4 of the paper has been updated to reflect this change. Figure \ref{qual_dots} shows the quality scores for languages computed over assignments and over Turkers, and the change in each when the 10 most active Turkers in each language are removed. We can see that the per-Turker quality measure is robust to the exclusion of these highly-contributing Turkers. 
+
+For completeness, we have also updated our reported quality scores in the paper to include confidence intervals and p-values, where appropriate. We hope this helps to reduce concern about the robustness of these measures.
+
+%\begin{figure}
+%\includegraphics[height=1\linewidth, angle=270]{figures/turker-hit-contributions.png}
+%\caption{Contributions of individual turkers to the overall number of HITs in each language. The dark blue bar represents the proportion of total HITs which were completed by the 10 highest-contributing turkers. The next darkest bar represents the next 10 highest-contributing turkers, and likewise for the thrid and forth darkest. The final bar represents the remaining turkers which were not one of the top 40 contributors.}
+%\label{num./hits}
+%\end{figure}
 
 \begin{figure}
-\includegraphics[width=1\linewidth]{figures/turker_hit_contributions.png}
-\caption{Contributions of individual turkers to the overall number of HITs in each language. The dark blue bar represents the proportion of total HITs which were completed by the 10 highest-contributing turkers. The next darkest bar represents the next 10 highest-contributing turkers, and likewise for the thrid and forth darkest. The final bar represents the remaining turkers which were not one of the top 40 contributors.}
-\label{numhits}
+\includegraphics[height=1\linewidth, angle=270]{figures/quality_compare.png}
+\caption{Quality scores of languages computed as averages over assignments (red) and over turkers (blue). Light blue and light red dots reflect the quality scores that result when the 10 turkers with who contributed the highest number of HITs are removed. We see that while the quality calculated over assignments responds noticeably to the exclusion of these highly active turkers, the quality calculated over turkers is quite robust to the change.}
+\label{qual_dots}
 \end{figure}
-
 
 \section{Extrinsic evalutation of mturk data for SMT}
 
@@ -114,45 +156,25 @@ All the reviewers expressed desire for further evidence of the usefulness of the
 It would be interesting to show that the proposed approach brings an advantage over current SMT technology, i.e., improves lexical translations for an existing SMT system....It would also be interesting to assess whether your results carry over to multiple words and/or sentences. 
 \end{quote}
 
-Previous work by Matt Post in the 2010 WMT has demonstrated not only that turkers are able to provide high quality translations of complete sentences, but also that these translations, when added into an SMT pipeline, measurably improve translation quality. 
+To address these concerns, we incorporate previous work from a workshop publication from our colleague. The workshop publication will be cited appropriately in the final version of the paper, but we omit the citation now so as not to de-anonymize the submission. 
+
+In this work, we collect full-sentence translations for six Indian languages which are well-represented on MTurk but for which there are currently no professionally-translated corpora available. We use the collected sentences to train and evaluate an SMT system, and show that the systems achieve decent performance. Furthermore, we add the collected single-word dictionaries to the training of these systems, and show that this produces measurable improvement in performance. Table \ref{dictionary_bleu} highlights these results. Please see sections 3 and 5 for a complete discussion of the data and experiments. 
 
 \begin{table}[t]
 \centering
-\begin{tabular}{l|rr}
-  language  & SAMT &  Google \\
+\begin{tabular}{l|ccc}
+  language  & sentences &  dictionaries & Google \\
   \hline\hline
-  Bengali    & 13.53  &  20.01 \\
-  Hindi      & 17.29  & 25.21 \\  
-  Malayalam    & 14.28  & - \\      
-  Tamil      &  9.85  &  13.51 \\  
-  Telugu     & 12.61  & 16.03  \\  
-  Urdu        & 20.99  & 23.09 \\   
+  Bengali    &  12.03 & 17.29 & 20.01 \\
+  Hindi      & 16.19 & 18.10 & 25.21\\  
+  Malayalam    &  6.65 & 9.72 & - \\      
+  Tamil      & 8.08 & 9.66 & 13.51\\  
+  Telugu     & 11.94 & 13.70 & 16.03\\  
+  Urdu        & 19.22 & 21.98 & 23.09\\   
 \end{tabular}
-\caption{BLEU scores translating into English (four references).  BLEU
-scores are the mean of three MERT runs.}
-\label{table:bleu}
+\caption{BLEU scores for translating into English using full sentence translations alone, and with the addition of single-word dictionaries. Scores are calculated using four reference translations and represent the mean of three MERT runs.}
+\label{dictionary_bleu}
 \end{table}
-
-\begin{figure*}[t]
-  \centering
-  \includegraphics[width=\textwidth]{figures/tamil.png}
-  \begin{tabular}{l}
-    \hline
-    In March 15,2007 Wiki got a place in Oxford English dictionary. \\
-    On March 15, 2007 wiki was included in the Oxford English
-    dictionary. (5) \\
-    ON MARCH 15, 2007, WIKI FOUND A PLACE IN THE OXFORD ENGLISH
-    DICTIONARY \\
-    March 15, 2007 oxford english index of wiki's place. \\ \\
-
-  \end{tabular}
-  \caption{An example of the variance in translation quality for the
-    human translations of a Tamil sentence; the formatting of the
-    translations has been preserved exactly.  The parenthesized number
-    indicates the number of votes received in the voting task
-    (\S\ref{section:votes}).}
-  \label{figure:variance}
-\end{figure*}
 
 \section{Affect of time of day when HIT was posted}
 
@@ -161,12 +183,14 @@ Reviewer F raised an interesting question about the affect of time of day on Tur
 \begin{quote}
 Did the authors take into account time of day, when the HIT was posted etc. to get a sense of whether one time of day is more optimal than others for each language? Does it matter at all?
 \end{quote}
-Figure \ref{time} shows the activity over a 24 hour day for 23 languages with greater than 100 turkers each. The plot shows that activity does vary across time zones, and suggests that choosing the release time intelligently based on the HIT language is likely to affect how quickly it is completed.
-\begin{figure*}
-\includegraphics[width=1\linewidth]{figures/times.png}
+Figure \ref{time} shows the activity over a 24 hour day for 23 languages with greater than 100 turkers each. The plot shows that activity does vary across time zones, and suggests that choosing the release time intelligently based on the HIT language is likely to affect how quickly it is completed. We include this analysis here for the interest of the reviewer. We do not include it in the paper, however, as we do not feel it meaningfully changes the analysis presented there. 
+
+\begin{figure}
+\centering
+\includegraphics[height=.8\linewidth, angle=270]{figures/times.png}
 \caption{Number of HITs completed during each hour of the day for languages with \textgreater 100 turkers.}
 \label{time}
-\end{figure*}
+\end{figure}
 
 \section{Changes in results if study continued over time}
 
@@ -179,6 +203,6 @@ While we agree that the questions posed are very interesting, we feel that answe
 
 \section{Accuracy of Geolocation}
 
-We understand that geolocation is not perfect, which is why we propose the use of location data as just one of several criteria by which to identify likely qualified translators. The trends that we observe in our analysis, where we show that turkers geolocated within a region likely to speak the source language being translated tend to perform better on our controls, coincide with what we would expect to see if geolcation were accurate. This seems to support the assumption that, on average, the geolocation is performing sufficiently well.
+We understand that geolocation is not perfect, which is why we propose the use of location data as just one of several criteria by which to identify likely qualified translators. The trends that we observe in our analysis, where we show that turkers geolocated within a region likely to speak the source language being translated tend to perform better on our controls, coincide with what we would expect to see if geolcation were accurate. Additionally, of the turkers who responded to our survey questions, 95\% of their self-reported locations agreed with our geolocations. These facts reassure us that, on average, the geolocation is performing sufficiently well.
 
 \end{document}

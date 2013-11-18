@@ -8,7 +8,8 @@ import matplotlib.pyplot as plt
 data = []
 
 for line in csv.DictReader(open('results/data/quality.turkers.txt'), delimiter='\t') : 
-	if line['approved'] == 'True': data.append((line['lang'], line['worker'], int(line['num_hits'])))
+#	if line['status'] == 'True': data.append((line['lang'], line['worker'], int(line['num_hits'])))
+	data.append((line['lang'], line['worker'], int(line['num_hits'])))
 
 
 langs = [d[0] for d in sorted(data, key = operator.itemgetter(2), reverse=True)]
@@ -49,9 +50,11 @@ for i in range(bins) :
 		last = [last[i] + p for i,p in enumerate(pcnt)]
 
 plt.ylim(0,1)
+plt.xlim(0,len(all_data))
 plt.ylabel('Proportion of HITs contributed', rotation=90)
 plt.yticks(rotation=90)
 plt.xticks(np.arange(len(all_data))+w/2., ['%s %d'%(e[0],lang_counts[e[0]]) for e in all_data], rotation=90, size='small') 
+print [e[0] for e in sorted([(e[0],lang_counts[e[0]]) for e in all_data], key=operator.itemgetter(1),reverse=True)]
 #plt.legend(tuple(key), ('10 turkers with the most HITs', 'Next 10 turkers', 'Next 10 turkers', 'Next 10 turkers', 'Remaining turkers'), loc='lower right')
 plt.show()
 

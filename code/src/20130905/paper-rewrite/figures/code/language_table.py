@@ -44,17 +44,25 @@ lmap = {l.strip().split()[1] : l.strip().split()[0] for l in open('ref/lang2name
 
 lang_counts = {}
 tot = 0
+no = 0
+two = 0
+mult = 0
 
 for line in csv.DictReader(open('data/turkers.tsv'), delimiter='\t') :
 	langs = [c for c in line['langs'].split(':') if not c.strip() == '']
-	if len(langs) > 1 : print langs; continue;
+	if len(langs) == 2 : print langs; two+=1; continue;
+	if len(langs) > 2 : print langs; mult+=1; continue;
+	if len(langs) == 0 : print langs; no+=1; continue;
 	for lang in langs : 
 		try : lang = lmap[lang]
-		except : continue
+		except : print lang; continue
 		if lang not in lang_counts : lang_counts[lang] = 0
 		if line['id'] in pass1_turkers : lang_counts[lang] += 1; tot += 1;
 
-#print tot
+print 'Total', tot, tot - (mult+no+two)
+print 'No lang', no
+print 'two lang', two
+print 'mult lang', mult
 #for l in sorted(lang_counts.keys()) : 
 #	print "%s,%d"%(l,lang_counts[l])
 print_table(lang_counts)
