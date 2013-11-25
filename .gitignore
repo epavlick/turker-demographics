@@ -38,3 +38,7 @@ writeup/paper.synctex.gz(busy)
 writeup/summary.aux
 
 data/raw/*
+
+*.log
+
+writeup/fullturkers.synctex.gz
