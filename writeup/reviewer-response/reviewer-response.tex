@@ -56,9 +56,7 @@
 %\caption{}\label{cheaters}
 %\end{figure}
 
-\section{Use of Google Translate}
-
-
+\section{Use of Google Translate : Editor and all reviewers}
 
 The primary concern across reviewers was the high amount of overlap between workers' translations and translations available through online resources, i.e. Google Translate. The editor summarized : 
 \begin{quote}
@@ -125,7 +123,7 @@ We have rerun the quality analysis in the paper, omitting workers with \textgrea
 %\end{figure}
 
 
-\section{Robustness of results to removing few big players}
+\section{Robustness of results to removing few big players: Editor and all reviewers}
 
 The editor and reviewer G highlighted the possibility that the quality results are due to a few large players, and may not be robust if the experiment were rerun with a different group of workers : 
 \begin{quote}
@@ -148,7 +146,7 @@ For completeness, we have also updated our reported quality scores in the paper 
 \label{qual_dots}
 \end{figure}
 
-\section{Extrinsic evalutation of mturk data for SMT}
+\section{Extrinsic evalutation of mturk data for SMT: Editor and all reviewers}
 
 All the reviewers expressed desire for further evidence of the usefulness of the Turker-provided translations for statistical machine translation, and the possibility of extending the demonstrated methods to multiple word translations. The editor requests :
 
@@ -176,9 +174,9 @@ In this work, we collect full-sentence translations for six Indian languages whi
 \label{dictionary_bleu}
 \end{table}
 
-\section{Affect of time of day when HIT was posted}
+\section{Affect of time of day when HIT was posted: Reviewer F}
 
-Reviewer F raised an interesting question about the affect of time of day on Turker activity : 
+You raised an interesting question about the affect of time of day on Turker activity : 
 
 \begin{quote}
 Did the authors take into account time of day, when the HIT was posted etc. to get a sense of whether one time of day is more optimal than others for each language? Does it matter at all?
@@ -192,16 +190,20 @@ Figure \ref{time} shows the activity over a 24 hour day for 23 languages with gr
 \label{time}
 \end{figure}
 
-\section{Changes in results if study continued over time}
+\section{Changes in results if study continued over time: Reviewer B}
 
-Reviewer B asked : 
+You asked : 
 \begin{quote}
 The authors ran an experiment over 3.5 months, but I wonder how the demographics change over time. Are there seasonal effects in the workforce? Has it changed over the past year? And more importantly, will it change substantially in the future? I'm somewhat skeptical that these demographics will remain constant, especially as Amazon rolls out changes to the service.
 \end{quote}
 
-While we agree that the questions posed are very interesting, we feel that answering these questions is the subject of another study. Our study is aimed at capturing the current demographics of Mechanical Turk, and proposing a way to empiracally validate self-reported demographic information about language skills. It is true that the current demongraphic makeup of MTurk workers is likely to shift, but the time and expense of tracking these changes over time puts the reviewer's questions outside the scope of this project.
+While we agree that the questions posed are very interesting, we feel that answering these questions is the subject of another study. It is true that the current demongraphic makeup of MTurk workers is likely to shift, but we cannot currently take on the expense of conducting a long term study (the study presented here cost ~40K). We have updated the text of the paper to emphasize this limitation in our results by adding the following sentences to our Overview: 
+\begin{quote}
+While the demographics reported are likely to shift overtime, as Amazon expands its methods of payments and reaches new countries, the data presented provides a 
+valuable snapshot of the current state of MTurk, and the methods used can be applied generally in future research.
+\end{quote}
 
-\section{Accuracy of Geolocation}
+\section{Accuracy of Geolocation: Reviewers B and E}
 
 We understand that geolocation is not perfect, which is why we propose the use of location data as just one of several criteria by which to identify likely qualified translators. The trends that we observe in our analysis, where we show that turkers geolocated within a region likely to speak the source language being translated tend to perform better on our controls, coincide with what we would expect to see if geolcation were accurate. Additionally, of the turkers who responded to our survey questions, 95\% of their self-reported locations agreed with our geolocations. These facts reassure us that, on average, the geolocation is performing sufficiently well.
 

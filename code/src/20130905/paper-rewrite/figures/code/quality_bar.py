@@ -20,7 +20,7 @@ for row in csv.DictReader(open('results/data/quality.turkers.txt'), delimiter = 
 graph_data = [] 
 t = 0 
 for lang in sorted(data.keys()) : 
-	if lang not in goog_langs : continue
+#	if lang not in goog_langs : continue
 	x1 = [d[0] for d in data[lang]]
 	x2 = [d[1] for d in data[lang]]
 	n1, (smin1, smax1), m1, v1, ss1, sk1 = stats.describe(x1)
@@ -33,6 +33,8 @@ for lang in sorted(data.keys()) :
 
 print "total turkers,", t
 
+print '\n'.join([d[3] for d in graph_data])
+exit(0)
 graph_data = sorted(graph_data, key=operator.itemgetter(1), reverse=True) 
 
 w = .5

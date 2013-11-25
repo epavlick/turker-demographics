@@ -13,9 +13,11 @@
 \usepackage{graphicx}
 \usepackage{caption}
 \usepackage{multirow}
+\usepackage{colortbl}
 \usepackage{dblfloatfix}
 \usepackage{float}
 \usepackage{subfloat}
+\usepackage{booktabs}
 \usepackage{subcaption}
 
 \DeclareMathOperator*{\argmax}{arg\,max}
@@ -61,6 +63,8 @@ How quickly is work completed in a given language?
 Are crowdsourced translations reliably good? 
 How often do workers misrepresent their language abilities to obtain financial rewards? 
 
+While the demographics reported are likely to shift overtime, as Amazon expands its methods of payments and reaches new countries, the data presented provides a valuable snapshot of the current state of MTurk, and the methods used can be applied generally in future research.
+
 %%%%%%%%%%%%%%% MAP OF WORKER LOCATIONS %%%%%%%%%%%
 \begin{figure*}[h]
 \centering
@@ -85,7 +89,10 @@ A number of other studies have informally investigated Turkers' language abiliti
 
 Several researchers have investigated using MTurk to build bilingual parallel corpora for machine translation, a task which stands to benefit low cost, high volume  translation on demand \cite{Germann2001}.  \newcite{ambati_act} conducted a pilot study by posting 25 sentences to MTurk for Spanish, Chinese, Hindi, Telugu, Urdu, and Haitian Creole.  In a study of 2000 Urdu sentences, 
 \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} presented methods for achieving professional-level translation quality from Turkers by soliciting multiple English translations of each foreign sentence. 
-\newcite{Zbib-etal:2012:NAACL} used crowdsourcing to construct a 1.5 million word parallel corpus of dialect Arabic and English, training a statistical machine translation system that produced higher quality translations of dialect Arabic than a system a trained on 100 times more Modern Standard Arabic-English parallel data. \textbf{?? \newcite{post-callisonburch-osborne:2012:WMT} used MTurk to build parallel corpora between English and six Indian languages, ranging from .5M to 1.5M words, and use them to demonstrate the efficacy of syntactic machine translation on verb-final languages. ??}
+\newcite{Zbib-etal:2012:NAACL} used crowdsourcing to construct a 1.5 million word parallel corpus of dialect Arabic and English, training a statistical machine translation system that produced higher quality translations of dialect Arabic than a system a trained on 100 times more Modern Standard Arabic-English parallel data. 
+
+%\textbf{?? \newcite{post-callisonburch-osborne:2012:WMT} used MTurk to build parallel corpora between English and six Indian languages, ranging from .5M to 1.5M words, and use them to demonstrate the efficacy of syntactic machine translation on verb-final languages. ??}
+
 Several researchers have examined cost optimization using active learning techniques to select the most useful sentences or fragments to translate \cite{ambati_naacl,bloodgood-callisonburch:2010:ACL,AmbatiThesis}.
 
 To contrast our research with previous work, the main contributions of this paper are: (1) a robust methodology for assessing the bilingual  skills of anonymous workers, (2) the largest-scale census to date of language skills of workers on MTurk, and (3) a detailed analysis of the data gathered in our study.
@@ -166,6 +173,16 @@ We gave special instruction for translating names of people and places, giving e
 The task paid \$0.15 for the translation of 10 words.  
 Each set of 10 words was independently translated by three separate workers.  5,281 workers completed 256,604 translations assignments, totaling more than 3 million words, over a period of three and a half months.
 
+
+%%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
+\begin{figure}[h]
+\includegraphics[height=\linewidth,angle=270]{../final-figures/completetime}
+%\includegraphics[width=\linewidth]{../final-figures/completetime}
+\caption{Days to complete the translation HITs for 40 of the languages. Tick marks represent the completion of individual assignments. }
+\label{completion-time}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \paragraph{Gold standard translations} 
 A set of gold standard translations were automatically harvested from Wikipedia  for every language to use as embedded controls. We used Wikipedia's inter-language links to pair titles of English articles with their corresponding foreign article's title.  To get a more translatable set of pairs, we excluded any pairs where: (1) the English word was not present in the WordNet ontology  \cite{miller1995wordnet}, (2) either article title was longer than a single word, (3) the English wikipedia page was a subcategory of person or place, or (4) the English and the foreign titles were identical or a substring of the other.
 
@@ -206,10 +223,21 @@ Since there is no gold-standard data available for our chosen languages, and it 
 
 Figure~\ref{figure:variance} contains some hand-picked examples of the sorts of translations we obtained. While the lack of a gold-standard data set prevented us from evaluating the collected translations in terms of BLEU scores, as in \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we evaluate the quality of the data by using it to train an SMT system. We present results in section \ref{sec:data-analysis}.
 
+%%%%%%%%%%%%%%% HITLANG QUALITY BAR %%%%%%%%%%%
+\begin{figure*}[h]
+\begin{center}
+\includegraphics[width=\linewidth]{../version1-figures/quality_bar.png}
+\caption{Translation quality for languages with at least 50 Turkers.  The dark blue bars indicate the proportion of translations which exactly matched gold standard translations, and light blue indicate translations which were judged to be correct synonyms. Error bars show the 95\% confidence intervals for each language.}
+\label{hitlangqual} 
+\end{center}
+\end{figure*}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 
 \section{Measuring Translation Quality}
 
-We calculate the quality of translations on the level of individual assignments and aggregated over workers and languages.  We define an assignment's quality as the proportion of controls that are correct in a given assignment, where correct means exactly correct or judged to be synonymous.
+For single word translations, we calculate the quality of translations on the level of individual assignments and aggregated over workers and languages.  We define an assignment's quality as the proportion of controls that are correct in a given assignment, where correct means exactly correct or judged to be synonymous.
 \begin{align}	
 	\text{Quality}(a_i) = \frac{1}{k_i}\sum\limits_{j=1}^{k_i}\mathbf{\delta}(tr_{ij} \in \texttt{syns[$g_j$]})
 \end{align}	
@@ -227,38 +255,8 @@ Quality for a language is then given by
 \begin{align}	
 	\text{Quality}(l_i) = \frac{\sum_{t_j \in \texttt{turkers[$i$]}\text{Quality}(t_j)}}{\mid \texttt{turkers[$i$]} \mid}
 \end{align}	
-When a turker completed assignments in more than one language, their quality was computed separately for each language.
+When a turker completed assignments in more than one language, their quality was computed separately for each language. Figure \ref{hitlangqual} shows the translation quality for languages with contributions from at least 50 workers.  
 
-
-Figure \ref{hitlangqual} shows the translation quality for languages with contributions from at least 50 workers.  
-
-
-%%%%%%%%%%%%%%% HITLANG QUALITY BAR %%%%%%%%%%%
-\begin{figure*}[h]
-\begin{center}
-\includegraphics[width=\linewidth]{../version1-figures/quality_bar.png}
-\caption{Translation quality for languages with at least 50 Turkers.  The dark blue bars indicate the proportion of translations which exactly matched gold standard translations, and light blue indicate translations which were judged to be correct synonyms. Error bars show the 95\% confidence intervals for each language.}
-\label{hitlangqual} 
-\end{center}
-\end{figure*}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\begin{figure}
-\centering
-\begin{subfigure}[b]{\linewidth}
-%\includegraphics[width=\textwidth]{../version1-figures/turker-googmatch-distribution.png}
-\includegraphics[width=\linewidth]{../version1-figures/turker-googmatch-distribution.png}
-\caption{Individual turker overlap with Google Translate. We remove the 500 workers with the highest overlap (shaded region on the left) from our analysis, as it is reasonable to assume these workers are cheating by submitting translations from Google. We believe the workers with no overlap (shaded region on the right) are also likely to be cheating, e.g. by submitting random text, and we target these workers through our embedded quality controls.}                
-\label{dist}
-\end{subfigure}
-\begin{subfigure}[b]{\linewidth}
-%\includegraphics[width=\textwidth]{../version1-figures/google-cdf-googlangs.png}
-\includegraphics[width=\linewidth]{../version1-figures/google-cdf-googlangs.png}
-\caption{Cumulative distribution of overlap with Google translate for workers and translations. We see that eliminating all workers with \textgreater 70\% overlap with google translate still preserves 90\% of translations and \textgreater 90\% of workers.}
-\label{cdf}
-\end{subfigure}
-\caption{}\label{cheaters}
-\end{figure}
 
 \paragraph{Use of machine translation}
 
@@ -279,13 +277,29 @@ We quantified each turker's overlap with the Google translations so that we coul
 %\end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-We found that while overall overlap is high (the average turker's overlap was 41\%), it is not consistently high across all turkers. Figure \ref{dist} shows that while a small number of turkers have a very high amount of overlap with Google (near 80\%) the majority overlap less than half of the time. It seems likely that those with very high overlap are cheating, but it is also reasonable to assume that honest turkers will overlap with Google with some regularity. We therefore divide the workers into three groups : those with very high overlap with Google (likely cheating by using Google to translate words), those with reasonable overlap, and those with no overlap (likely cheating by other means, e.g. submitting random text). 
+We found that while overall overlap is high (the average turker's overlap was 41\%), it is not consistently high across all turkers. Figure \ref{dist} shows that while a small number of turkers have a very high amount of overlap with Google (near 80\%) the majority overlap less than half of the time. It seems likely that those with very high overlap are cheating, but it is also reasonable to assume that honest turkers will overlap with Google with some regularity. We divide the workers into three groups: those with very high overlap with Google (likely cheating by using Google to translate words), those with reasonable overlap, and those with no overlap (likely cheating by other means, e.g. submitting random text). 
  
 Our controls are designed to identify workers that fall into the third group (those who are spamming or providing useless translations), but they will not effectively flag workers who are cheating with Google Translate. We therefore remove the 500 turkers with the highest overlap with Google. This equates to removing all workers with greater than 70\% overlap. Figure \ref{cdf} shows that removing workers at or above the 70\% threshold retains 90\% of the collected translations and over 90\% of the workers.
 
 Quality scores reported throughout the paper reflect only translations from turkers whose overlap with Google falls below this 70\% threshold.
 
 
+\begin{figure}[h!]
+\centering
+\begin{subfigure}[b]{\linewidth}
+%\includegraphics[width=\textwidth]{../version1-figures/turker-googmatch-distribution.png}
+\includegraphics[width=\linewidth]{../version1-figures/turker-googmatch-distribution.png}
+\caption{Individual turker overlap with Google Translate. We remove the 500 workers with the highest overlap (shaded region on the left) from our analysis, as it is reasonable to assume these workers are cheating by submitting translations from Google. We believe the workers with no overlap (shaded region on the right) are also likely to be cheating, e.g. by submitting random text, and we target these workers through our embedded quality controls.}                
+\label{dist}
+\end{subfigure}
+\begin{subfigure}[b]{\linewidth}
+%\includegraphics[width=\textwidth]{../version1-figures/google-cdf-googlangs.png}
+\includegraphics[width=\linewidth]{../version1-figures/google-cdf-googlangs.png}
+\caption{Cumulative distribution of overlap with Google translate for workers and translations. We see that eliminating all workers with \textgreater 70\% overlap with google translate still preserves 90\% of translations and \textgreater 90\% of workers.}
+\label{cdf}
+\end{subfigure}
+\caption{}\label{cheaters}
+\end{figure}
 
 \section{Data Analysis} \label{sec:data-analysis}
 
@@ -303,15 +317,6 @@ We performed an analysis of our data to address the following questions:
 
 Figure \ref{completion-time} gives the completion times for 40 languages.  
 The 10 languages to finish in the shortest amount of time were: Tamil, Malayalam, Telugu, Hindi, Macedonian, Spanish, Serbian, Romanian, Gujarati, and Marathi. Seven of the ten fastest languages are from India, which is unsurprising given the geographic distribution of workers.  Some languages follow the pattern of having a smattering of assignments completed early, with the rate picking up later. 
-
-%%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
-\begin{figure*}[h]
-%\includegraphics[height=\linewidth,angle=270]{../final-figures/completetime}
-\includegraphics[width=\linewidth]{../final-figures/completetime}
-\caption{Days to complete the translation HITs for 40 of the languages. Tick marks represent the completion of individual assignments. }
-\label{completion-time}
-\end{figure*}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 %%%%%%%%%%%%%%% TURKER QUAL SUMMARY TABLE %%%%%%%%%%%
@@ -356,42 +361,13 @@ Breton & 0.167 (3) & \textbf{0.178} (89) & Unitedstates (3)  & India (83) Macedo
 
 We measured the average quality of workers who were in countries that plausibly speak a language, versus workers from countries that did not have large speaker populations of that language.  We used the Ethnologue \cite{ethnologue} to compile the list of countries where each language is spoken.  Table \ref{region-summary} compares the average translation quality of assignments completed within the region of each language, and compares it to the quality of assignments completed outside that region. 
 
-Our workers reported speaking 95 languages natively. US workers alone reported 61 native languages. Overall, XXXX workers were located in a region likely to speak the language from which they were translating, and XXXX workers were located in countries considered out of region (meaning almost half of our 5,281 Turkers completed HITs in multiple languages). 
+Our workers reported speaking 95 languages natively. US workers alone reported 61 native languages. Overall, 4,297 workers were located in a region likely to speak the language from which they were translating, and 2,778 workers were located in countries considered out of region (meaning that about a third of our 5,281 Turkers completed HITs in multiple languages). 
 
 Table \ref{region-summary} shows the differences in translation quality when computed using in-region versus out-of-region Turkers, for the languages with the greatest number of workers.  Within region workers typically produced higher quality translations. 
-Given the number of Indian workers on Mechanical Turk, it is unsurprising that they represent majority of out-of-region workers.  \textbf{For the languages that had more than 80 out of region workers (Malay, Amharic, Afrikaans, Icelandic, and Breton), Indian workers represented 90\% of the out of region workers for all of them aside from Amharic}.
+Given the number of Indian workers on Mechanical Turk, it is unsurprising that they represent majority of out-of-region workers.  For the languages that had more than 75 out of region workers (Malay, Amharic, Icelandic, Sicilian, Wolof, and Breton), Indian workers represented at least 70\% of the out of region workers in each language. 
 
-
-%When averaged across all languages, there is no significant quality difference between Turkers in region and out of region (0.504 and 0.496, respectively). However, within each language, the effect of location on quality varies greatly (Table \ref{region-summary}). 
-
-% CCB - commented out this figure and paragraph.  I'm not sure that this figure adds any new information
-%
-%%%%%%%%%%%%%%%% ASSIGNMENT SCATTER %%%%%%%%%%%
-%\begin{figure*}[h]
-%\centering
-%\includegraphics[width=6in]{final-figures/assign-turk-scatter}
-%\caption{Number of assignments and number of Turkers for each language. Each dot represents a language. Figure includes only data from Turkers who reported only one native language consistantly across assignments, representing approx. 3900 Turkers across 139,000 assignments.}
-%\label{ass-scatter}
-%\end{figure*}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-%Figure \ref{ass-scatter} shows the volume of HITs completed and the number of workers participating for each language. While the bulk (19\%) of bilingual Turkers report English as their native language (see Figure \ref{lang-pie}), Mechanical Turk's capacity to support the Indian languages is apparent. Hindi, Tamil, and Malayalam are especially well represented in terms of number of active translators. 
-
-
-%%%%%%%%%%%%%%% QUALITY / NUM ASSIGN SCATTER %%%%%%%%%%%
-%\begin{figure}
-%\begin{center}
-%\includegraphics[width=0.78\linewidth]{../final-figures/quality-scatter_joined-1column}
-%\end{center}
-
-%\caption{Estimated quality of translations by country. Each circle is a country, sized proportional to the number of active Turkers from that country. }
-%\label{quality-scatter}
-%\end{figure}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%Figure \ref{quality-scatter} shows the number of assignments completed per country and per-country quality estimates for 4 scenerios: (a) overall, (b) for assignments completed in region, (c) for assignments completed out of region, and (d) for out of region assignments which contained low overlap with GoogleTranslate. 
 \paragraph{Validation of controls} 
-Higher overlap with Google Translate corresponds slightly to higher quality scores (Pearson $\rho$ = 0.XXX), suggesting that some control translations have already been indexed by Google. We therefore investigated the validity of our use of Wikipedia inter-language links as gold standard translations.
+Higher overlap with Google Translate corresponds slightly to higher quality scores (Pearson $\rho$ = 0.27), suggesting that some control translations have already been indexed by Google. We therefore investigated the validity of our use of Wikipedia inter-language links as gold standard translations.
 
 As an extrinsic measure of translation quality, we measure the proportion of $<${\it word, translation}$>$ pairs received from Mechanical Turk which appear in external dictionaries.  We had external bilingual dictionaries for 24 of the 100 languages examined in this study.\footnote{The bilingual dictionaries were between English and az, bg, bn, bs, cy, es, fa, hi, id, lv, ms, ne, pl, ro, ru, sk, so, sq, sr, ta, tr, uk, ur, and uz. }  We used each of these bilingual dictionaries to compute language-level quality scores, using the dictionary's translation as a gold standard translation for any of the 10,000 foreign words in our study.  In some cases, the overlap of words was low, since dictionaries list root forms of words and we translated inflected forms.  
 
@@ -400,7 +376,7 @@ We ranked the 24 languages based on their translation quality scores according t
 Given the strong positive correlation, we are satisfied that the trends reported in this paper hold when using either our gold standard translations or external bilingual dictionaries. 
 
 \paragraph{Quality improvements for SMT systems}
-Using the full sentence translations we gathered for the six Indian languages, we were able to train a statistical machine translation system. Table \ref{table:data-size} gives the size of the data set for each of these languages. Table \ref{dictionary_bleu} shows that the sentences alone produce decent translation performance, with BLEU scores as high as 19.22 for Urdu. We also see that adding the single-word dictionaries to the training set produces consistent performance gains, ranging from 1 to 5 BLEU points. Unfortunately, we do not have professionally translated data against which to compare the resulting performances. We do, however, report the BLEU scores achieved by Google Translate, where available. Given that the sizes of the data sets used to train Google's system are likely much greater than ours, we find these results encouraging as an indication of the potential of Turkers to provide high quality translations.
+Using the full sentence translations we gathered for the six Indian languages, we were able to train a statistical machine translation system. Table \ref{table:data-size} gives the size of the data set for each of these languages. Table \ref{dictionary_bleu} shows that the sentences alone produce decent translation performance, with BLEU scores as high as 19.22 for Urdu. We also see that adding the single-word dictionaries to the training set produces consistent performance gains, ranging from 1 to 5 BLEU points. Unfortunately, we do not have professionally translated data against which to compare the resulting performances, but we find the outcomes encouraging as an indication of the potential of Turkers to provide high quality translations.
 
 \begin{table}[t]
   \centering
@@ -422,42 +398,44 @@ Using the full sentence translations we gathered for the six Indian languages, w
 \begin{table}[t]
 \centering
 \begin{tabular}{l|ccc}
-  language  & sentences &  dictionaries & Google \\
+  language  & sentences &  dictionaries\\
   \hline\hline
-  Bengali    &  12.03 & 17.29 & 20.01 \\
-  Hindi      & 16.19 & 18.10 & 25.21\\  
-  Malayalam    &  6.65 & 9.72 & - \\      
-  Tamil      & 8.08 & 9.66 & 13.51\\  
-  Telugu     & 11.94 & 13.70 & 16.03\\  
-  Urdu        & 19.22 & 21.98 & 23.09\\   
+  Bengali    &  12.03 & 17.29 \\
+  Hindi      & 16.19 & 18.10\\  
+  Malayalam    &  6.65 & 9.72\\      
+  Tamil      & 8.08 & 9.66\\  
+  Telugu     & 11.94 & 13.70\\  
+  Urdu        & 19.22 & 21.98\\   
 \end{tabular}
 \caption{BLEU scores for translating into English using full sentence translations alone, and with the addition of single-word dictionaries. Scores are calculated using four reference translations and represent the mean of three MERT runs.}
 \label{dictionary_bleu}
 \end{table}
 
-%\begin{table}[t]
-%\centering
-%\begin{tabular}{l|rr}
- % language  & SAMT &  Google \\
-  %\hline\hline
- % Bengali    & 13.53  &  20.01 \\
- % Hindi      & 17.29  & 25.21 \\  
- % Malayalam    & 14.28  & - \\      
- % Tamil      &  9.85  &  13.51 \\  
- % Telugu     & 12.61  & 16.03  \\  
- % Urdu        & 20.99  & 23.09 \\   
-%\end{tabular}
-%\caption{BLEU scores translating into English (four references).  BLEU scores are the mean of three MERT runs.}
-%\label{table:bleu}
-%\end{table}
-
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{table}[t]
+\centering
+\scriptsize
+\begin{tabular}{|p{.1\linewidth}|p{.1\linewidth}|p{.1\linewidth}|p{0.5\linewidth}|}
+\hline
+workers & quality & speed & \\\hline
+many &high&fast&\cellcolor[rgb]{0.5, 0.8, 0.5} bs de es fr gu hr it kn mk ml ms nl pt ro sh sr te tl\\\cline{3-4}
+&&slow&af bg cy da fi ga gl he ht hu id ja lv no pa sk sv tr\\\cline{2-4}
+&low &fast&hi mr ta ur\\\cline{3-4}
+&&slow&am ar az bcl be bn bo bpy br ca ceb cs el eo is jv ka ko lb lt ne new nn pl ps ru scn sd so su sw uz vi wo zh\\\cline{1-4}
+few &high  &fast&--\\\cline{3-4}
+&&slow&an pms sl sq uk\\\cline{2-4}
+&low  &fast&--\\\cline{3-4}
+&&slow&\cellcolor[rgb]{0.8, 0.5, 0.5}ast diq eu fa fy hy ilo io kk ku mg nap nds pam qu th tt wa war yo\\\hline
+\end{tabular}
+\caption{The green box shows the languages which we have found most supported by MTurk in terms of worker population, worker ability, and speed of completion. Languages have ``many'' workers if we recorded more than 50 active turkers. Languages are ``high'' quality if they average greater than 70\% accuracy on our controls. Languages are ``fast'' if all of our translations (approx. 10,000 words each) were completed in within two weeks.}
+\label{recommendations}
+\end{table}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Discussion}
-Mechanical Turk gives researchers access to a diverse set of bilingual workers, making it a promising resource for researchers and developers of multilingual systems. 
-Although unfiltered data can contain large amounts of noise, 
-a variety of techniques can be incorporated into crowdsourcing pipelines to ensure high quality data.  Based on our study, we suggest restricting workers to countries that plausibly speak the foreign language of interest, and embedding gold standard controls where possible, rather than relying solely on self-reported language skills.
+Mechanical Turk gives researchers access to a diverse set of bilingual workers, making it a promising resource for researchers and developers of multilingual systems. Based on our study, we can confidently recommend 18 languages as good candidates for future research: Bosnian, German, Spanish, French, Gujarati, Croatian, Italian, Kannada, Macedonian, Malayalam, Malay, Dutch, Portuguese, Romanian, Serbo-Croatian, Serbian, Telugu, and Tagalog. These languages have large Turker populations who complete tasks quickly and accurately. Table \ref{recommendations} summarizes the strengths and weaknesses of all 100 languages covered in our study. 
+
+Unfiltered data can contain large amounts of noise, a variety of techniques can be incorporated into crowdsourcing pipelines to ensure high quality data.  As a best practice, we suggest restricting workers to countries that plausibly speak the foreign language of interest, and embedding gold standard controls where possible, rather than relying solely on self-reported language skills.
 
 Although our study targeted bilingual workers on Mechanical Turk, and neglected monolingual workers, we believe our results reliably represent the current speaker populations, since the vast majority of the work available on the crowdsourced platform is currently English-only.  We therefore assume the number of non-English speakers is small.  In the future, it may be desirable to recruit monolingual foreign workers.  In such cases, we recommend other tests to validate their language abilities in place of our translation test.  These could include performing narrative cloze, or listening to audio files containing speech in different language and identifying their language. 
 
