@@ -42,3 +42,13 @@ data/raw/*
 *.log
 
 writeup/fullturkers.synctex.gz
+
+*.aux
+
+*.bbl
+
+*.blg
+
+writeup/reviewer-response/reviewer-response.synctex.gz
+
+writeup/version1/paper.synctex.gz
