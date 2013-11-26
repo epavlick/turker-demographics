@@ -44,7 +44,7 @@
 
 \begin{abstract}
 We present a large scale study of the languages spoken by bilingual workers on Mechanical Turk (MTurk).  
-We establish a  methodology for determining the language skills of anonymous crowd workers that is more robust than simple surveying.  We validate workers' self-reported language skill claims by measuring their ability to correctly translate words, and by geolocating workers to see if they reside in countries where the languages are likely to be spoken. Rather than posting a one-off survey, we posted paid tasks consisting of 1,000 assignments to translate a total of 10,000 words in each of 100 languages.  Our study ran for several weeks, and was highly visible on the MTurk crowdsourcing platform, increasing the chances that bilingual workers would complete it.  Our study was useful both to create bilingual dictionaries and to act as census of the bilingual speakers on MTurk.  We use this data to recommend languages with the largest speaker populations as good candidates for other researchers who want to  develop crowdsourced, multilingual technologies.
+We establish a  methodology for determining the language skills of anonymous crowd workers that is more robust than simple surveying.  We validate workers' self-reported language skill claims by measuring their ability to correctly translate words, and by geolocating workers to see if they reside in countries where the languages are likely to be spoken. Rather than posting a one-off survey, we posted paid tasks consisting of 1,000 assignments to translate a total of 10,000 words in each of 100 languages.  Our study ran for several months, and was highly visible on the MTurk crowdsourcing platform, increasing the chances that bilingual workers would complete it.  Our study was useful both to create bilingual dictionaries and to act as census of the bilingual speakers on MTurk.  We use this data to recommend languages with the largest speaker populations as good candidates for other researchers who want to  develop crowdsourced, multilingual technologies.
 
 \end{abstract}
 
@@ -68,7 +68,7 @@ While the demographics reported are likely to shift overtime, as Amazon expands 
 %%%%%%%%%%%%%%% MAP OF WORKER LOCATIONS %%%%%%%%%%%
 \begin{figure*}[h]
 \centering
-\includegraphics[width=\linewidth]{../version1-figures/map.png}
+\includegraphics[width=\linewidth]{figures/map.png}
 \caption{The number of workers per country.  This map was generated based on geolocating the IP address of  4,983 workers in our study.  Omitted are 60 workers who were located in more than one country during the study, and 238 workers who could not be geolocated. The size of the circles represents the number of workers from each country.  The two largest are India (1,998 workers) and the United States (866).  To calibrate the sizes: the Philippines has 142 workers, Egypt has 25, Russia has 10, and Sri Lanka has 4.}
 \label{map}
 \end{figure*}
@@ -176,8 +176,8 @@ Each set of 10 words was independently translated by three separate workers.  5,
 
 %%%%%%%%%%%%%%% COMPLETION TIME CHART %%%%%%%%%%%
 \begin{figure}[h]
-\includegraphics[height=\linewidth,angle=270]{../final-figures/completetime}
-%\includegraphics[width=\linewidth]{../final-figures/completetime}
+\includegraphics[height=\linewidth,angle=270]{figures/completetime}
+%\includegraphics[width=\linewidth]{figures/completetime}
 \caption{Days to complete the translation HITs for 40 of the languages. Tick marks represent the completion of individual assignments. }
 \label{completion-time}
 \end{figure}
@@ -197,7 +197,7 @@ Automating approval/rejections for the second-pass evaluation allowed the whole 
 
 \begin{figure*}[t]
   \centering
-  \includegraphics[width=\textwidth]{../version1-figures/tamil.png}
+  \includegraphics[width=\textwidth]{figures/tamil.png}
   \begin{tabular}{l}
     \hline
     In March 15,2007 Wiki got a place in Oxford English dictionary. \\
@@ -226,7 +226,7 @@ Figure~\ref{figure:variance} contains some hand-picked examples of the sorts of 
 %%%%%%%%%%%%%%% HITLANG QUALITY BAR %%%%%%%%%%%
 \begin{figure*}[h]
 \begin{center}
-\includegraphics[width=\linewidth]{../version1-figures/quality_bar.png}
+\includegraphics[width=\linewidth]{figures/quality_bar.png}
 \caption{Translation quality for languages with at least 50 Turkers.  The dark blue bars indicate the proportion of translations which exactly matched gold standard translations, and light blue indicate translations which were judged to be correct synonyms. Error bars show the 95\% confidence intervals for each language.}
 \label{hitlangqual} 
 \end{center}
@@ -255,7 +255,7 @@ Quality for a language is then given by
 \begin{align}	
 	\text{Quality}(l_i) = \frac{\sum_{t_j \in \texttt{turkers[$i$]}\text{Quality}(t_j)}}{\mid \texttt{turkers[$i$]} \mid}
 \end{align}	
-When a turker completed assignments in more than one language, their quality was computed separately for each language. Figure \ref{hitlangqual} shows the translation quality for languages with contributions from at least 50 workers.  
+When a Turker completed assignments in more than one language, their quality was computed separately for each language. Figure \ref{hitlangqual} shows the translation quality for languages with contributions from at least 50 workers.  
 
 
 \paragraph{Use of machine translation}
@@ -263,38 +263,38 @@ When a turker completed assignments in more than one language, their quality was
 
 One obvious way for dishonest workers to shortcut is to use available online translation tools. Although we followed best practices to deter copying-and-pasting into online MT systems  by  rendering words and sentences as images \cite{zaidan-callisonburch:2011:ACL-HLT2011a}, this strategy does not prevent workers from typing the words into an MT system if they are able to type in the language's script. 
 
-We quantified each turker's overlap with the Google translations so that we could identify and remove workers that appeared to be misusing Google Translate. We used Google to translate all 10,000 words for the 51 foreign languages that Google Translate covered at the time of the study. We measured the percent of workers' translations that exactly matched the translation returned from Google. 
+We quantified each Turker's overlap with the Google translations so that we could identify and remove workers that appeared to be misusing Google Translate. We used Google to translate all 10,000 words for the 51 foreign languages that Google Translate covered at the time of the study. We measured the percent of workers' translations that exactly matched the translation returned from Google. 
 
 %Results are show in Figure \ref{googlematch}. Assignments averaged around 42\% overlap with GoogleTranslate.  Languages with non-Latin scripts (such as the Arabic script, Chinese characters or the Telugu alphabet) have lower overlap with Google,  suggesting that it is easier for Turkers to cheat for languages written in the Latin alphabet. 
 
 %%%%%%%%%%%%%%% GOOGLE OVERLAP BAR %%%%%%%%%%%
 %\begin{figure}[h]
 %\begin{center}
-%\includegraphics[width=1\linewidth]{../version1-figures/google_bar.png}
+%\includegraphics[width=1\linewidth]{figures/google_bar.png}
 %\caption{Average proportion of Turker translations matching GoogleTranslate, per assignment. Overall average overlap was 0.37.}
 %\label{googlematch} 
 %\end{center}
 %\end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-We found that while overall overlap is high (the average turker's overlap was 41\%), it is not consistently high across all turkers. Figure \ref{dist} shows that while a small number of turkers have a very high amount of overlap with Google (near 80\%) the majority overlap less than half of the time. It seems likely that those with very high overlap are cheating, but it is also reasonable to assume that honest turkers will overlap with Google with some regularity. We divide the workers into three groups: those with very high overlap with Google (likely cheating by using Google to translate words), those with reasonable overlap, and those with no overlap (likely cheating by other means, e.g. submitting random text). 
+We found that while overall overlap is high (the average Turker's overlap was 41\%), it is not consistently high across all Turkers. Figure \ref{dist} shows that while a small number of Turkers have a very high amount of overlap with Google (near 80\%) the majority overlap less than half of the time. It seems likely that those with very high overlap are cheating, but it is also reasonable to assume that honest Turkers will overlap with Google with some regularity. We divide the workers into three groups: those with very high overlap with Google (likely cheating by using Google to translate words), those with reasonable overlap, and those with no overlap (likely cheating by other means, e.g. submitting random text). 
  
-Our controls are designed to identify workers that fall into the third group (those who are spamming or providing useless translations), but they will not effectively flag workers who are cheating with Google Translate. We therefore remove the 500 turkers with the highest overlap with Google. This equates to removing all workers with greater than 70\% overlap. Figure \ref{cdf} shows that removing workers at or above the 70\% threshold retains 90\% of the collected translations and over 90\% of the workers.
+Our controls are designed to identify workers that fall into the third group (those who are spamming or providing useless translations), but they will not effectively flag workers who are cheating with Google Translate. We therefore remove the 500 Turkers with the highest overlap with Google. This equates to removing all workers with greater than 70\% overlap. Figure \ref{cdf} shows that removing workers at or above the 70\% threshold retains 90\% of the collected translations and over 90\% of the workers.
 
-Quality scores reported throughout the paper reflect only translations from turkers whose overlap with Google falls below this 70\% threshold.
+Quality scores reported throughout the paper reflect only translations from Turkers whose overlap with Google falls below this 70\% threshold.
 
 
 \begin{figure}[h!]
 \centering
 \begin{subfigure}[b]{\linewidth}
-%\includegraphics[width=\textwidth]{../version1-figures/turker-googmatch-distribution.png}
-\includegraphics[width=\linewidth]{../version1-figures/turker-googmatch-distribution.png}
-\caption{Individual turker overlap with Google Translate. We remove the 500 workers with the highest overlap (shaded region on the left) from our analysis, as it is reasonable to assume these workers are cheating by submitting translations from Google. We believe the workers with no overlap (shaded region on the right) are also likely to be cheating, e.g. by submitting random text, and we target these workers through our embedded quality controls.}                
+%\includegraphics[width=\textwidth]{figures/turker-googmatch-distribution.png}
+\includegraphics[width=\linewidth]{figures/turker-googmatch-distribution.png}
+\caption{Individual Turker overlap with Google Translate. We remove the 500 workers with the highest overlap (shaded region on the left) from our analysis, as it is reasonable to assume these workers are cheating by submitting translations from Google. We believe the workers with no overlap (shaded region on the right) are also likely to be cheating, e.g. by submitting random text, and we target these workers through our embedded quality controls.}                
 \label{dist}
 \end{subfigure}
 \begin{subfigure}[b]{\linewidth}
-%\includegraphics[width=\textwidth]{../version1-figures/google-cdf-googlangs.png}
-\includegraphics[width=\linewidth]{../version1-figures/google-cdf-googlangs.png}
+%\includegraphics[width=\textwidth]{figures/google-cdf-googlangs.png}
+\includegraphics[width=\linewidth]{figures/google-cdf-googlangs.png}
 \caption{Cumulative distribution of overlap with Google translate for workers and translations. We see that eliminating all workers with \textgreater 70\% overlap with google translate still preserves 90\% of translations and \textgreater 90\% of workers.}
 \label{cdf}
 \end{subfigure}
@@ -427,7 +427,7 @@ few &high  &fast&--\\\cline{3-4}
 &low  &fast&--\\\cline{3-4}
 &&slow&\cellcolor[rgb]{0.8, 0.5, 0.5}ast diq eu fa fy hy ilo io kk ku mg nap nds pam qu th tt wa war yo\\\hline
 \end{tabular}
-\caption{The green box shows the languages which we have found most supported by MTurk in terms of worker population, worker ability, and speed of completion. Languages have ``many'' workers if we recorded more than 50 active turkers. Languages are ``high'' quality if they average greater than 70\% accuracy on our controls. Languages are ``fast'' if all of our translations (approx. 10,000 words each) were completed in within two weeks.}
+\caption{The green box shows the languages which we have found most supported by MTurk in terms of worker population, worker ability, and speed of completion. Languages have ``many'' workers if we recorded more than 50 active Turkers. Languages are ``high'' quality if they average greater than 70\% accuracy on our controls. Languages are ``fast'' if all of our translations (approx. 10,000 words each) were completed in within two weeks.}
 \label{recommendations}
 \end{table}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
