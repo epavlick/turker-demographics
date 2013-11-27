@@ -102,7 +102,6 @@ To contrast our research with previous work, the main contributions of this pape
 \footnotesize
 \begin{tabular}{lrlrlr}\hline\hline
 %Language&\# Turkers\\
-\hline
 English & 689 & Tamil & 253 & Malayalam & 219 \\
 Hindi & 149 & Spanish & 131 & Telugu & 87 \\
 Chinese & 86 & Romanian & 85 & Portuguese & 82 \\
@@ -197,7 +196,7 @@ Automating approval/rejections for the second-pass evaluation allowed the whole 
 
 \begin{figure*}[t]
   \centering
-  \includegraphics[width=\textwidth]{figures/tamil.png}
+  \includegraphics[width=\textwidth]{figures/tamil.pdf}
   \begin{tabular}{l}
     \hline
     In March 15,2007 Wiki got a place in Oxford English dictionary. \\
@@ -226,7 +225,7 @@ Figure~\ref{figure:variance} contains some hand-picked examples of the sorts of 
 %%%%%%%%%%%%%%% HITLANG QUALITY BAR %%%%%%%%%%%
 \begin{figure*}[h]
 \begin{center}
-\includegraphics[width=\linewidth]{figures/quality_bar.png}
+\includegraphics[width=\linewidth]{figures/quality_bar.pdf}
 \caption{Translation quality for languages with at least 50 Turkers.  The dark blue bars indicate the proportion of translations which exactly matched gold standard translations, and light blue indicate translations which were judged to be correct synonyms. Error bars show the 95\% confidence intervals for each language.}
 \label{hitlangqual} 
 \end{center}
@@ -288,13 +287,13 @@ Quality scores reported throughout the paper reflect only translations from Turk
 \centering
 \begin{subfigure}[b]{\linewidth}
 %\includegraphics[width=\textwidth]{figures/turker-googmatch-distribution.png}
-\includegraphics[width=\linewidth]{figures/turker-googmatch-distribution.png}
+\includegraphics[width=\linewidth]{figures/turker-googmatch-distribution.pdf}
 \caption{Individual Turker overlap with Google Translate. We remove the 500 workers with the highest overlap (shaded region on the left) from our analysis, as it is reasonable to assume these workers are cheating by submitting translations from Google. We believe the workers with no overlap (shaded region on the right) are also likely to be cheating, e.g. by submitting random text, and we target these workers through our embedded quality controls.}                
 \label{dist}
 \end{subfigure}
 \begin{subfigure}[b]{\linewidth}
 %\includegraphics[width=\textwidth]{figures/google-cdf-googlangs.png}
-\includegraphics[width=\linewidth]{figures/google-cdf-googlangs.png}
+\includegraphics[width=\linewidth]{figures/google-cdf-googlangs.pdf}
 \caption{Cumulative distribution of overlap with Google translate for workers and translations. We see that eliminating all workers with \textgreater 70\% overlap with google translate still preserves 90\% of translations and \textgreater 90\% of workers.}
 \label{cdf}
 \end{subfigure}
@@ -328,27 +327,26 @@ The 10 languages to finish in the shortest amount of time were: Tamil, Malayalam
 &\multicolumn{2}{c}{Avg. Turker quality (\# Ts)}&Primary locations&Primary locations\\
 &In region&Out of region&of Turkers in region&of Turkers out of region\\
 \hline\hline
-Hindi & 0.635 (296) & \textbf{0.695} (7) & India (284) Uae (5) Uk (3)  & Saudiarabia (2) Russia (1) Oman (1) \\
-Tamil & \textbf{0.653} (273) * & 0.250 (2) & India (266) Unitedstates (3) Canada (2)  & Tunisia (1) Egypt (1)  \\
-Malayalam & 0.764 (234) & \textbf{0.827} (2) & India (223) Uae (6) Unitedstates (3)  & Saudiarabia (1) Maldives (1) \\
-Spanish & 0.814 (191) & \textbf{0.837} (18) & Unitedstates (122) Mexico (16) Spain (14)  & India (15) Newzealand (1) Brazil (1) \\
-French & 0.750 (170) & \textbf{0.816} (11) & India (62) Unitedstates (45) France (23)  & Greece (2) Netherlands (1) Japan (1) \\
-Chinese & \textbf{0.601} (116) & 0.552 (21) & Unitedstates (75) Singapore (13) China (9)  & Hongkong (6) Australia (3) Germany (2)  \\
-German & \textbf{0.825} (91) & 0.768 (41) & Germany (48) Unitedstates (25) Austria (7)  & India (34) Netherlands (1) Greece (1)  \\
-Italian & \textbf{0.863} (90) & 0.796 (42) & Italy (42) Unitedstates (29) Romania (7)  & India (33) Ireland (2) Spain (2)  \\
-Amharic & \textbf{0.136} (16) * & 0.009 (99) & Unitedstates (14) Ethiopia (2)  & India (70) Georgia (9) Macedonia (5)  \\
+Hindi & 0.635 (296) & \textbf{0.695} (7) & India (284) UAE (5) UK (3)  & Saudi Arabia (2) Russia (1) Oman (1) \\
+Tamil & \textbf{0.653} (273) * & 0.250 (2) & India (266) US (3) Canada (2)  & Tunisia (1) Egypt (1)  \\
+Malayalam & 0.764 (234) & \textbf{0.827} (2) & India (223) UAE (6) US (3)  & Saudi Arabia (1) Maldives (1) \\
+Spanish & 0.814 (191) & \textbf{0.837} (18) & US (122) Mexico (16) Spain (14)  & India (15) Newzealand (1) Brazil (1) \\
+French & 0.750 (170) & \textbf{0.816} (11) & India (62) US (45) France (23)  & Greece (2) Netherlands (1) Japan (1) \\
+Chinese & \textbf{0.601} (116) & 0.552 (21) & US (75) Singapore (13) China (9)  & Hongkong (6) Australia (3) Germany (2)  \\
+German & \textbf{0.825} (91) & 0.768 (41) & Germany (48) US (25) Austria (7)  & India (34) Netherlands (1) Greece (1)  \\
+Italian & \textbf{0.863} (90) & 0.796 (42) & Italy (42) US (29) Romania (7)  & India (33) Ireland (2) Spain (2)  \\
+Amharic & \textbf{0.136} (16) * & 0.009 (99) & US (14) Ethiopia (2)  & India (70) Georgia (9) Macedonia (5)  \\
 Kannada & 0.704 (105) & NA (0) & India (105)  & \\
-Arabic & \textbf{0.741} (60) * & 0.604 (45) & Egypt (19) Jordan (16) Morocco (9)  & Unitedstates (19) India (11) Canada (3)  \\
-Sindhi & \textbf{0.190} (96) & 0.062 (9) & India (58) Pakistan (37) Unitedstates (1)  & Macedonia (4) Georgia (2) Indonesia (2)  \\
-Portuguese & 0.869 (101) & \textbf{0.963} (3) & Brazil (44) Portugal (31) Unitedstates (15)  & Romania (1) Japan (1) Israel (1) \\
-Turkish & 0.759 (76) & \textbf{0.804} (27) & Turkey (38) Unitedstates (18) Macedonia (8)  & India (19) Pakistan (4) Taiwan (1) \\
-Telugu & \textbf{0.799} (102) & 0.500 (1) & India (98) Unitedstates (3) Uae (1)  & Saudiarabia (1)  \\
-Irish & \textbf{0.742} (54) & 0.709 (47) & Unitedstates (39) Ireland (13) Uk (2)  & India (36) Romania (5) Macedonia (2)  \\
-Swedish & \textbf{0.734} (54) & 0.711 (45) & Unitedstates (25) Sweden (22) Finland (3)  & India (23) Macedonia (6) Croatia (2)  \\
-Czech & \textbf{0.706} (45) & 0.612 (50) & Unitedstates (17) Czechrepublic (14) Serbia (5)  & Macedonia (22) India (10) Uk (5)  \\
-Russian & \textbf{0.146} (67) & 0.119 (27) & Unitedstates (36) Moldova (7) Russia (6)  & India (14) Macedonia (4) Uk (3)  \\
-Breton & 0.167 (3) & \textbf{0.178} (89) & Unitedstates (3)  & India (83) Macedonia (2) China (1) \\
-
+Arabic & \textbf{0.741} (60) * & 0.604 (45) & Egypt (19) Jordan (16) Morocco (9)  & US (19) India (11) Canada (3)  \\
+Sindhi & \textbf{0.190} (96) & 0.062 (9) & India (58) Pakistan (37) US (1)  & Macedonia (4) Georgia (2) Indonesia (2)  \\
+Portuguese & 0.869 (101) & \textbf{0.963} (3) & Brazil (44) Portugal (31) US (15)  & Romania (1) Japan (1) Israel (1) \\
+Turkish & 0.759 (76) & \textbf{0.804} (27) & Turkey (38) US (18) Macedonia (8)  & India (19) Pakistan (4) Taiwan (1) \\
+Telugu & \textbf{0.799} (102) & 0.500 (1) & India (98) US (3) UAE (1)  & Saudi Arabia (1)  \\
+Irish & \textbf{0.742} (54) & 0.709 (47) & US (39) Ireland (13) UK (2)  & India (36) Romania (5) Macedonia (2)  \\
+Swedish & \textbf{0.734} (54) & 0.711 (45) & US (25) Sweden (22) Finland (3)  & India (23) Macedonia (6) Croatia (2)  \\
+Czech & \textbf{0.706} (45) & 0.612 (50) & US (17) Czech Republic (14) Serbia (5)  & Macedonia (22) India (10) UK (5)  \\
+Russian & \textbf{0.146} (67) & 0.119 (27) & US (36) Moldova (7) Russia (6)  & India (14) Macedonia (4) UK (3)  \\
+Breton & 0.167 (3) & \textbf{0.178} (89) & US (3)  & India (83) Macedonia (2) China (1) \\
 \hline\hline
 \end{tabular}
 \normalsize
@@ -418,22 +416,23 @@ Using the full sentence translations we gathered for the six Indian languages, w
 \begin{tabular}{|p{.1\linewidth}|p{.1\linewidth}|p{.1\linewidth}|p{0.5\linewidth}|}
 \hline
 workers & quality & speed & \\\hline
-many &high&fast&\cellcolor[rgb]{0.5, 0.8, 0.5} bs de es fr gu hr it kn mk ml ms nl pt ro sh sr te tl\\\cline{3-4}
-&&slow&af bg cy da fi ga gl he ht hu id ja lv no pa sk sv tr\\\cline{2-4}
-&low &fast&hi mr ta ur\\\cline{3-4}
-&&slow&am ar az bcl be bn bo bpy br ca ceb cs el eo is jv ka ko lb lt ne new nn pl ps ru scn sd so su sw uz vi wo zh\\\cline{1-4}
-few &high  &fast&--\\\cline{3-4}
-&&slow&an pms sl sq uk\\\cline{2-4}
+many &high&fast&\cellcolor[rgb]{0.5, 0.8, 0.5} de es fr gu it kn ml nl pt ro sr te tl \\\cline{3-4}
+&&slow& ar ga he pa sv tr\\\cline{2-4}
+&low &fast& hi mr ta ur \\\cline{3-4}
+&&slow&bn bo bpy ceb ne new pl ru sd zh\\\cline{1-4}
+few &high  &fast& bs hr mk ms sh\\\cline{3-4}
+&&slow&af an ast bcl be bg cs da el eu fi fy gl ht hu id ilo is ja jv kk ko lt mg nds no pam scn sk sl sq th uk uz war yo\\\cline{2-4}
 &low  &fast&--\\\cline{3-4}
-&&slow&\cellcolor[rgb]{0.8, 0.5, 0.5}ast diq eu fa fy hy ilo io kk ku mg nap nds pam qu th tt wa war yo\\\hline
+&&slow&\cellcolor[rgb]{0.8, 0.5, 0.5}am az br ca cy hy ka lb lv nap nn pms ps so su sw tt vi wa \\\hline
+none&low&slow&\cellcolor[rgb]{0.8, 0.5, 0.5}diq eo fa io ku qu wo \\\hline
 \end{tabular}
-\caption{The green box shows the languages which we have found most supported by MTurk in terms of worker population, worker ability, and speed of completion. Languages have ``many'' workers if we recorded more than 50 active Turkers. Languages are ``high'' quality if they average greater than 70\% accuracy on our controls. Languages are ``fast'' if all of our translations (approx. 10,000 words each) were completed in within two weeks.}
+\caption{The green box shows the languages which we have found most supported by MTurk in terms of worker population, worker ability, and speed of completion. Languages have ``many'' workers if we recorded more than 50 active in-region Turkers. Languages are ``high'' quality if they average greater than 70\% accuracy on our controls. Languages are ``fast'' if all of our translations (approx. 10,000 words each) were completed within two weeks.}
 \label{recommendations}
 \end{table}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Discussion}
-Mechanical Turk gives researchers access to a diverse set of bilingual workers, making it a promising resource for researchers and developers of multilingual systems. Based on our study, we can confidently recommend 18 languages as good candidates for future research: Bosnian, German, Spanish, French, Gujarati, Croatian, Italian, Kannada, Macedonian, Malayalam, Malay, Dutch, Portuguese, Romanian, Serbo-Croatian, Serbian, Telugu, and Tagalog. These languages have large Turker populations who complete tasks quickly and accurately. Table \ref{recommendations} summarizes the strengths and weaknesses of all 100 languages covered in our study. 
+Mechanical Turk gives researchers access to a diverse set of bilingual workers, making it a promising resource for researchers and developers of multilingual systems. Based on our study, we can confidently recommend 13 languages as good candidates for future research: German, Spanish, French, Gujarati, Italian, Kannada, Malayalam, Dutch, Portuguese, Romanian, Serbian, Telugu, and Tagalog. These languages have large Turker populations who complete tasks quickly and accurately. Table \ref{recommendations} summarizes the strengths and weaknesses of all 100 languages covered in our study. 
 
 Unfiltered data can contain large amounts of noise, a variety of techniques can be incorporated into crowdsourcing pipelines to ensure high quality data.  As a best practice, we suggest restricting workers to countries that plausibly speak the foreign language of interest, and embedding gold standard controls where possible, rather than relying solely on self-reported language skills.
 

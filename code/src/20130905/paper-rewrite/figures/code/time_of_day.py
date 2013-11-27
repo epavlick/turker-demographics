@@ -60,8 +60,10 @@ def graph(langtimes):
 	plt.xlabel('Time of day')
 	plt.xlim(-1,24)
 	plt.ylim(0,langnum+1)
-	plt.show()
-	
+	#plt.show()
+	plt.savefig("times.pdf")
+
+write_all_times()
 times = time_map()
 
 langtimes = {}

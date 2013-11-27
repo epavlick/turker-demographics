@@ -64,14 +64,14 @@ All reviewers had issues with the amount of cheating taking place among Turkers.
 \end{quote}
 
 \begin{figure}[ht]
-\includegraphics[width=\linewidth]{figures/turker-googmatch-distribution.png}
+\includegraphics[width=\linewidth]{figures/turker-googmatch-distribution.pdf}
 \caption{Individual turker overlap with Google Translate. We remove the 500 workers with the highest overlap (shaded region on left) from our analysis. Workers with no overlap (on right) are also likely to be cheating, e.g. by submitting random text. We target these workers through our embedded controls.}                
 \label{dist}
 \end{figure}
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=\linewidth]{figures/google-cdf-googlangs.png}
+\includegraphics[width=\linewidth]{figures/google-cdf-googlangs.pdf}
 \caption{Cumulative distribution of overlap with Google translate for workers and translations. Eliminating all workers with \textgreater 70\% overlap with google translate still preserves 90\% of translations and \textgreater 90\% of workers.}
 \label{cdf}
 \end{figure}
@@ -95,12 +95,12 @@ We chose to remove the 500 turkers with the highest overlap with Google. This eq
 \begin{figure}
 \centering
 \begin{subfigure}[b]{1\linewidth}
-\includegraphics[width=\textwidth]{figures/quality-all.png}
+\includegraphics[width=\textwidth]{figures/quality-all.pdf}
 \caption{All turkers.}                
 \label{quality-all}
 \end{subfigure}
 \begin{subfigure}[b]{1\linewidth}
-\includegraphics[width=\textwidth]{figures/quality-filtered.png}
+\includegraphics[width=\textwidth]{figures/quality-filtered.pdf}
 \caption{Turkers with \textless 70\% overlap with Google Translate.}
 \label{quality-filtered}
 \end{subfigure}
@@ -141,7 +141,7 @@ For completeness, we have also updated our reported quality scores in the paper 
 %\end{figure}
 
 \begin{figure}
-\includegraphics[height=1\linewidth, angle=270]{figures/quality_compare.png}
+\includegraphics[width=1\linewidth]{figures/quality_compare.pdf}
 \caption{Quality scores of languages computed as averages over assignments (red) and over turkers (blue). Light blue and light red dots reflect the quality scores that result when the 10 turkers with who contributed the highest number of HITs are removed. We see that while the quality calculated over assignments responds noticeably to the exclusion of these highly active turkers, the quality calculated over turkers is quite robust to the change.}
 \label{qual_dots}
 \end{figure}
@@ -156,19 +156,19 @@ It would be interesting to show that the proposed approach brings an advantage o
 
 To address these concerns, we incorporate previous work from a workshop publication from our colleague. The workshop publication will be cited appropriately in the final version of the paper, but we omit the citation now so as not to de-anonymize the submission. 
 
-In this work, we collect full-sentence translations for six Indian languages which are well-represented on MTurk but for which there are currently no professionally-translated corpora available. We use the collected sentences to train and evaluate an SMT system, and show that the systems achieve decent performance. Furthermore, we add the collected single-word dictionaries to the training of these systems, and show that this produces measurable improvement in performance. Table \ref{dictionary_bleu} highlights these results. Please see sections 3 and 5 for a complete discussion of the data and experiments. 
+In this work, we collect full-sentence translations for six Indian languages which are well-represented on MTurk but for which there are currently no professionally-translated corpora available. We use the collected sentences to train and evaluate an SMT system, and show that the systems achieve decent performance. Furthermore, we add the collected single-word dictionaries to the training of these systems, and show that this produces measurable improvement in performance. Table \ref{dictionary_bleu} highlights these results. Please see sections 3 and 5 of the revised paper for a complete discussion of the data and experiments. 
 
 \begin{table}[t]
 \centering
-\begin{tabular}{l|ccc}
-  language  & sentences &  dictionaries & Google \\
+\begin{tabular}{l|cc}
+  language  & sentences &  dictionaries \\
   \hline\hline
-  Bengali    &  12.03 & 17.29 & 20.01 \\
-  Hindi      & 16.19 & 18.10 & 25.21\\  
-  Malayalam    &  6.65 & 9.72 & - \\      
-  Tamil      & 8.08 & 9.66 & 13.51\\  
-  Telugu     & 11.94 & 13.70 & 16.03\\  
-  Urdu        & 19.22 & 21.98 & 23.09\\   
+  Bengali    &  12.03 & 17.29\\
+  Hindi      & 16.19 & 18.10\\  
+  Malayalam    &  6.65 & 9.72\\      
+  Tamil      & 8.08 & 9.66 \\  
+  Telugu     & 11.94 & 13.70\\  
+  Urdu        & 19.22 & 21.98\\   
 \end{tabular}
 \caption{BLEU scores for translating into English using full sentence translations alone, and with the addition of single-word dictionaries. Scores are calculated using four reference translations and represent the mean of three MERT runs.}
 \label{dictionary_bleu}
