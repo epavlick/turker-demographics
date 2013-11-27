@@ -63,19 +63,20 @@ How quickly is work completed in a given language?
 Are crowdsourced translations reliably good? 
 How often do workers misrepresent their language abilities to obtain financial rewards? 
 
-While the demographics reported are likely to shift overtime, as Amazon expands its methods of payments and reaches new countries, the data presented provides a valuable snapshot of the current state of MTurk, and the methods used can be applied generally in future research.
 
 %%%%%%%%%%%%%%% MAP OF WORKER LOCATIONS %%%%%%%%%%%
 \begin{figure*}[h]
 \centering
-\includegraphics[width=\linewidth]{figures/map.png}
+\includegraphics[width=\linewidth]{figures/map.pdf}
 \caption{The number of workers per country.  This map was generated based on geolocating the IP address of  4,983 workers in our study.  Omitted are 60 workers who were located in more than one country during the study, and 238 workers who could not be geolocated. The size of the circles represents the number of workers from each country.  The two largest are India (1,998 workers) and the United States (866).  To calibrate the sizes: the Philippines has 142 workers, Egypt has 25, Russia has 10, and Sri Lanka has 4.}
 \label{map}
 \end{figure*}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
 \section{Background and Related Work}
 Amazon's Mechanical Turk (MTurk) is an online marketplace for work that gives employers and researchers access to a large, low-cost, workforce. MTurk allows employers to provide micro-payments in return for workers completing micro-tasks.  The basic units of work on MTurk are called `Human Intelligence Tasks' (HITs).  MTurk was designed to accommodate tasks that are difficult for computers, but simple for people. This facilitates research into human computation, where people can be treated as a function call \cite{vonAhnThesis,Little2009,quinn-bederson:2011}.  It has application to research areas like human-computer interaction \cite{bigham-et-al:2010,bernstein-et-al:2010}, computer vision  \cite{sorkin-forsyth:2008,deng-et-al:2010,rashtchian:10}, speech processing \cite{marge:10,lane-EtAl:2010:MTURK,Parent-Eskenazi:2011,Eskenazi:2013:crowdsourcing-speech-book},  and natural language processing \cite{Snow2008,callisonburch-dredze:2010:MTURK,laws-scheible-schutze:2011:EMNLP}. 
+
 
 \nocite{novotney-callisonburch:2010:NAACLHLT}
 
@@ -96,6 +97,10 @@ Several researchers have investigated using MTurk to build bilingual parallel co
 Several researchers have examined cost optimization using active learning techniques to select the most useful sentences or fragments to translate \cite{ambati_naacl,bloodgood-callisonburch:2010:ACL,AmbatiThesis}.
 
 To contrast our research with previous work, the main contributions of this paper are: (1) a robust methodology for assessing the bilingual  skills of anonymous workers, (2) the largest-scale census to date of language skills of workers on MTurk, and (3) a detailed analysis of the data gathered in our study.
+
+\section{Experimental Design}
+The central task in this study was to investigate Mechanical Turk's bilingual population.  We accomplished this through self-reported surveys combined with a HIT to translate individual words for 100 languages.  We evaluate the accuracy of the workers' translations against known translations.  In cases where these were not exact matches, we used a second pass monolingual HIT, which asked English speakers to evaluate if a worker-provided translation was a synonym of the known translation.
+
 
 %%%%%%%%%%%%%%% NAT LANG PIE TABLE %%%%%%%%%%%
 \begin{table}
@@ -121,9 +126,6 @@ Lithuanian & 21 & Punjabi & 21 & Others & $\leq$ 20 \\
 We omit 1,801 Turkers who did not report their native language, 243 who reported 2 native languages, and 83 with $\geq$3 native languages.}\label{lang-pie}
 \end{table}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Experimental Design}
-The central task in this study was to investigate Mechanical Turk's bilingual population.  We accomplished this through self-reported surveys combined with a HIT to translate individual words for 100 languages.  We evaluate the accuracy of the workers' translations against known translations.  In cases where these were not exact matches, we used a second pass monolingual HIT, which asked English speakers to evaluate if a worker-provided translation was a synonym of the known translation.
 
 \paragraph{Demographic questionnaire}
 
@@ -269,7 +271,7 @@ We quantified each Turker's overlap with the Google translations so that we coul
 %%%%%%%%%%%%%%% GOOGLE OVERLAP BAR %%%%%%%%%%%
 %\begin{figure}[h]
 %\begin{center}
-%\includegraphics[width=1\linewidth]{figures/google_bar.png}
+%\includegraphics[width=1\linewidth]{figures/google_bar.pdf}
 %\caption{Average proportion of Turker translations matching GoogleTranslate, per assignment. Overall average overlap was 0.37.}
 %\label{googlematch} 
 %\end{center}
@@ -286,13 +288,13 @@ Quality scores reported throughout the paper reflect only translations from Turk
 \begin{figure}[h!]
 \centering
 \begin{subfigure}[b]{\linewidth}
-%\includegraphics[width=\textwidth]{figures/turker-googmatch-distribution.png}
+%\includegraphics[width=\textwidth]{figures/turker-googmatch-distribution.pdf}
 \includegraphics[width=\linewidth]{figures/turker-googmatch-distribution.pdf}
 \caption{Individual Turker overlap with Google Translate. We remove the 500 workers with the highest overlap (shaded region on the left) from our analysis, as it is reasonable to assume these workers are cheating by submitting translations from Google. We believe the workers with no overlap (shaded region on the right) are also likely to be cheating, e.g. by submitting random text, and we target these workers through our embedded quality controls.}                
 \label{dist}
 \end{subfigure}
 \begin{subfigure}[b]{\linewidth}
-%\includegraphics[width=\textwidth]{figures/google-cdf-googlangs.png}
+%\includegraphics[width=\textwidth]{figures/google-cdf-googlangs.pdf}
 \includegraphics[width=\linewidth]{figures/google-cdf-googlangs.pdf}
 \caption{Cumulative distribution of overlap with Google translate for workers and translations. We see that eliminating all workers with \textgreater 70\% overlap with google translate still preserves 90\% of translations and \textgreater 90\% of workers.}
 \label{cdf}
@@ -433,6 +435,9 @@ none&low&slow&\cellcolor[rgb]{0.8, 0.5, 0.5}diq eo fa io ku qu wo \\\hline
 
 \section{Discussion}
 Mechanical Turk gives researchers access to a diverse set of bilingual workers, making it a promising resource for researchers and developers of multilingual systems. Based on our study, we can confidently recommend 13 languages as good candidates for future research: German, Spanish, French, Gujarati, Italian, Kannada, Malayalam, Dutch, Portuguese, Romanian, Serbian, Telugu, and Tagalog. These languages have large Turker populations who complete tasks quickly and accurately. Table \ref{recommendations} summarizes the strengths and weaknesses of all 100 languages covered in our study. 
+
+
+While the demographics reported are likely to shift overtime, as Amazon expands its methods of payments and reaches new countries, the data presented provides a valuable snapshot of the current state of MTurk, and the methods used can be applied generally in future research.
 
 Unfiltered data can contain large amounts of noise, a variety of techniques can be incorporated into crowdsourcing pipelines to ensure high quality data.  As a best practice, we suggest restricting workers to countries that plausibly speak the foreign language of interest, and embedding gold standard controls where possible, rather than relying solely on self-reported language skills.
 
