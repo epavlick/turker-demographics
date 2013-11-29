@@ -220,7 +220,7 @@ pakistan also did 6 nuclear test in retribution on 28 may, 1998 \\ \\
 %%%%%%%%%%%%%%% HITLANG QUALITY BAR %%%%%%%%%%%
 \begin{figure*}[h]
 \begin{center}
-\includegraphics[width=.7\linewidth]{figures/quality_bar.pdf}
+\includegraphics[width=.9\linewidth]{figures/quality_bar.pdf}
 \caption{Translation quality for languages with at least 50 Turkers. The dark blue bars indicate the proportion of translations which exactly matched gold standard translations, and light blue indicate translations which were judged to be correct synonyms. Error bars show the 95\% confidence intervals for each language.}
 \label{hitlangqual} 
 \end{center}
@@ -368,6 +368,7 @@ Table \ref{region-summary} shows the differences in translation quality when com
 Given the number of Indian workers on Mechanical Turk, it is unsurprising that they represent majority of out-of-region workers.  For the languages that had more than 75 out of region workers (Malay, Amharic, Icelandic, Sicilian, Wolof, and Breton), Indian workers represented at least 70\% of the out of region workers in each language. 
 
 
+
 \paragraph{Speed of translation}
 
 
@@ -424,23 +425,38 @@ Figure \ref{figure:volume-of-data-by-language} gives the throughput of the full-
 \end{table}
 
 
+
+
+
 \paragraph{Training SMT systems}
 We trained statistical translation models from the parallel corpora that we created for the six Indian languages using the Joshua machine translation system \cite{post-EtAl:2013:WMT}. Table \ref{dictionary_bleu} shows the translation performance when trained on the bitexts alone, and when incorporating the bilingual dictionaries created in our earlier HIT. Adding the dictionaries to the training set produces consistent performance gains, ranging from 1 to 5 BLEU points.  This represents a substantial improvement, but there is overlap between the source materials for both sets, since both the dictionaries and the bitext source sentences were drawn from Wikipedia.
 
 %Unfortunately, we do not have professionally translated data against which to compare the resulting performances, but we find the outcomes encouraging as an indication of the potential of Turkers to provide high quality translations.
 
+%\paragraph{Validation of controls} 
+%Higher overlap with Google Translate corresponds slightly to higher quality scores (Pearson $\rho$ = 0.27), suggesting that some control translations have already been indexed by Google. We therefore investigated the validity of our use of Wikipedia inter-language links as gold standard translations.
+%
+%As an extrinsic measure of translation quality, we measure the proportion of $<${\it word, translation}$>$ pairs received from Mechanical Turk which appear in external dictionaries.  We had external bilingual dictionaries for 24 of the 100 languages examined in this study.\footnote{The bilingual dictionaries were between English and az, bg, bn, bs, cy, es, fa, hi, id, lv, ms, ne, pl, ro, ru, sk, so, sq, sr, ta, tr, uk, ur, and uz. }  We used each of these bilingual dictionaries to compute language-level quality scores, using the dictionary's translation as a gold standard translation for any of the 10,000 foreign words in our study.  In some cases, the overlap of words was low, since dictionaries list root forms of words and we translated inflected forms.  
+%
+%We ranked the 24 languages based on their translation quality scores according to the external dictionaries, and calculated correlation when compared to the ranking produced by our gold standard control.  The Pearson correlation was $\rho=0.53$.  We computed a correlation coefficient of $\rho=0.37$ for ranking of the translation quality of individual Turkers using the two sources of reference translations.    
+%
+%Given the strong positive correlation, we are satisfied that the trends reported in this paper hold when using either our gold standard translations or external bilingual dictionaries. 
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{table}[t]
+\begin{table}
 \centering
-\scriptsize
+\small
+\footnotesize
 \begin{tabular}{|p{.1\linewidth}|p{.1\linewidth}|p{.1\linewidth}|p{0.5\linewidth}|}
 \hline
-workers & quality & speed & \\\hline
+\footnotesize workers & \footnotesize  quality & \footnotesize speed & \\\hline
 %many &high&fast&\cellcolor[rgb]{0.5, 0.8, 0.5} de es fr gu it kn ml nl pt ro sr te tl \\\cline{3-4}
 %&&slow& ar ga he pa sv tr\\\cline{2-4}
 %& low or medium &fast& hi mr ta ur \\\cline{3-4}
 %&&slow&bn bo bpy ceb ne new pl ru sd zh\\\cline{1-4}
-many &high&fast&\cellcolor[rgb]{0.5, 0.8, 0.5}   Dutch, French, German, Gujarati, Italian, Kannada, Malayalam, Portuguese, Romanian, Serbian, Spanish, Tagalog, Telugu \\\cline{3-4}
+many &high&fast&\cellcolor[rgb]{0.5, 0.8, 0.5}    Dutch, French, German, Gujarati, Italian, Kannada, Malayalam, Portuguese, Romanian, Serbian, Spanish, Tagalog, Telugu \\\cline{3-4}
 &&slow& Arabic,  Hebrew, Irish, Punjabi, Swedish, Turkish\\\cline{2-4}
 & low or  &fast& Hindi, Marathi, Tamil, Urdu \\\cline{3-4}
 &medium&slow&Bengali,  Bishnupriya Manipuri, Cebuano,  Chinese, Nepali, Newar, Polish, Russian, Sindhi, Tibetan\\\cline{1-4}
@@ -450,7 +466,8 @@ few &high  &fast& Bosnia, Croatian  Macedonian  Malay  Serbo-Croatian\\\cline{3-
 &medium&slow&\cellcolor[rgb]{0.8, 0.5, 0.5}Amharic,  Armenian, Azerbaijani, Breton, Catalan, Georgian, Latvian, Luxembourgish, Neapolitian, Norwegian (Nynorsk), Pashto, Piedmontese, Somali, Sudanese, Swahili, Tatar, Vietnamese, Walloon, Welsh \\\hline
 none&low or medium&slow&\cellcolor[rgb]{0.8, 0.5, 0.5}  Esperanto, Ido, Kurdish, Persian, Quechua, Wolof, Zazaki\\\hline
 \end{tabular}
-\caption{The green box shows the languages which we have found most supported by MTurk in terms of worker population, worker ability, and speed of completion. Languages have ``many'' workers if we recorded more than 50 active in-region Turkers. Languages are ``high'' quality if they average greater than 70\% accuracy on our controls. Languages are ``fast'' if all of our translations (approx. 10,000 words each) were completed within two weeks.}
+\normalsize
+\caption{The green box shows the best languages to target on MTurk. These languages have many workers who generate high quality results quickly. We defined {\it many} workers as 50 or more active in-region workers, {\it high} quality as $\geq$70\% accuracy on the gold standard controls, and {\it fast} if all of the 10,000 words were completed within two weeks.}
 \label{recommendations}
 \end{table}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -477,7 +494,7 @@ Although our study targeted bilingual workers on Mechanical Turk, and neglected 
 
 \section{Data release}
 
-With the publication of this paper, we are releasing all data and code used in this study.  Our data release includes the raw data, along with bilingual dictionaries that are filtered to be high quality. It will include 256,604 translation assignments from 5,281 Turkers and 20,952 synonym assignments from 1,005 Turkers, along with meta information like geolocation and time submitted, plus external dictionaries used for validation. The dictionaries will contain 1.5M total translated words in 100 languages, along with code to filter the dictionaries based on different criteria.  The data also includes parallel corpora for six Indian languages, ranging in size between 700,000 to 1.5 million words 
+With the publication of this paper, we are releasing all data and code used in this study.  Our data release includes the raw data, along with bilingual dictionaries that are filtered to be high quality. It will include 256,604 translation assignments from 5,281 Turkers and 20,952 synonym assignments from 1,005 Turkers, along with meta information like geolocation and time submitted, plus external dictionaries used for validation. The dictionaries will contain 1.5M total translated words in 100 languages, along with code to filter the dictionaries based on different criteria.  The data also includes parallel corpora for six Indian languages, ranging in size between 700,000 to 1.5 million words.
 
  
 
