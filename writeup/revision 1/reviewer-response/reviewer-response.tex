@@ -175,7 +175,7 @@ For completeness, we have also updated our reported quality scores in the paper 
 All the reviewers expressed desire for further evidence of the usefulness of the Turker-provided translations for statistical machine translation, and the possibility of extending the demonstrated methods to multiple word translations. 
 To address these suggestions, we have added a new set of experiments to the paper.  In the new experiments, we collect full-sentence translations for six Indian languages which are well-represented on MTurk but for which there are currently no professionally-translated corpora available. We use the collected sentences to train and evaluate an SMT system, and show that the systems achieve decent performance. Furthermore, we add the collected single-word dictionaries to the training of these systems, and show that this produces measurable improvement in performance. Table \ref{dictionary_bleu} highlights these results. Please see sections 3 and 5 of the revised paper for a complete discussion of the data and experiments. 
 
-{\bf NB: We previously published experiments using this Indian language data, but the work has only appeared in an ACL workshop paper and not in a main conference paper nor a journal article.  We hope that it is therefore allowable for inclusion here.}.   The workshop publication will be cited appropriately in the final version of the paper, but we omit the citation now so as not to de-anonymize the submission. 
+{\bf NB: We previously published experiments using this Indian language data, but the work has only appeared in an ACL workshop paper and not in a main conference paper nor a journal article.  We hope that it is therefore allowable for inclusion here.}.   The workshop publication will be cited appropriately in the final version of the paper, but we omit the citation now so as not to de-anonymize the submission.   The analysis of the effect of the dictionaries on the SMT performance is new.
 
 
 \begin{figure}
@@ -234,7 +234,13 @@ The demographics reported in this study are likely to shift over time. Amazon ma
 Reviewers B and E were concerned about the accuracy of geolocation. 
 We understand that geolocation is not perfect, which is why we propose the use of location data as just one of several criteria by which to identify likely qualified translators. The trends that we observe in our analysis, where we show that turkers geolocated within a region likely to speak the source language being translated tend to perform better on our controls, coincide with what we would expect to see if geolcation were accurate. Additionally, of the turkers who responded to our survey questions, 95\% of their self-reported locations agreed with our geolocations. These facts reassure us that, on average, the geolocation is performing sufficiently well.
 
-\section{Other improvements: Conclusions}
+\section{Other suggestions: specific recommendations}
+
+Reviewer F said:
+\begin{quote}
+I was a little disappointed that the paper does not provide more specific
+recommendations for low-resource languages.
+\end{quote}
 
 We have strengthened the conclusions to be more clear.  We have included a table that shows what languages are currently good for researchers to target based on the size of the speaker populations, the quality of the translations, and how fast the translations were completed.  Table \ref{recommendations} now appears in the Discussion section of the revised submission. 
 
