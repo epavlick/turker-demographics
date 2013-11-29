@@ -27,10 +27,12 @@ def print_table(lang_counts) :
 		params = (lmap[l].capitalize(),inavg,incnt,outavg,outcnt,topinstr,topoutstr)
 		try : 
 			if inavg > outavg : 
-				if sig : print '%s & \\textbf{%.03f} (%d) * & %.03f (%d) & %s & %s \\\\'%params
+				if sig == '5' : print '%s & \\textbf{%.03f} (%d) ** & %.03f (%d) & %s & %s \\\\'%params
+				elif sig == '10' : print '%s & \\textbf{%.03f} (%d) * & %.03f (%d) & %s & %s \\\\'%params
 				else : print '%s & \\textbf{%.03f} (%d) & %.03f (%d) & %s & %s \\\\'%params
 			else: 
-				if sig : print '%s & %.03f (%d) & \\textbf{%.03f} (%d) * & %s & %s\\\\'%params
+				if sig == '5' : print '%s & %.03f (%d) & \\textbf{%.03f} (%d) ** & %s & %s\\\\'%params
+				elif sig == '10' : print '%s & %.03f (%d) & \\textbf{%.03f} (%d) * & %s & %s\\\\'%params
 				else : print '%s & %.03f (%d) & \\textbf{%.03f} (%d) & %s & %s\\\\'%params
 		except : 
 			try : print '%s & %s (%d) & %.03f (%d) & %s & %s\\\\'%params
@@ -96,7 +98,9 @@ for l in region_data :
 	is_significant = False
 	try : 
 		t,p = ttest_ind(region_data[l]['in'], region_data[l]['out'])
-		is_significant = (p < 0.05)	
+		if p < 0.05 : is_significant = '5'
+		elif p < 0.10 : is_significant = '10'
+		else : is_significant = 'X'
 	except ZeroDivisionError: pass
 
 	lang_counts.append((l, inavg, incnt, outavg, outcnt, loc_data[l], incnt+outcnt, is_significant))
