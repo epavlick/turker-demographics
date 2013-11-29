@@ -4,6 +4,10 @@ writeup/paper.bbl
 writeup/paper.blg
 writeup/paper.aux
 writeup/paper.pdf
+writeup/revision 1/paper.pdf
+writeup/revision 1/figures/*.pdf
+writeup/revision 1/reviewer-response/paper.pdf
+writeup/revision 1/reviewer-response/figures/*.pdf
 data/.DS_Store
 data/country-language-pairings/.DS_Store
 
