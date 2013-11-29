@@ -21,7 +21,7 @@ graph_data = []
 t = 0 
 name_order = ['pt', 'it', 'ms', 'sr', 'ro', 'es', 'de', 'af', 'te', 'sk', 'hr', 'sq', 'fi', 'tr', 'nl', 'id', 'he', 'gu', 'fr', 'da', 'sl', 'bg', 'ja', 'cy', 'gl', 'lv', 'sv', 'kn', 'az', 'hu', 'sw', 'lt', 'ko', 'eu', 'pl', 'ca', 'eo', 'ar', 'cs', 'ta', 'el', 'zh', 'vi', 'is', 'ur', 'ru']
 for lang in sorted(data.keys()) : 
-	if lang not in goog_langs : continue
+#	if lang not in goog_langs : continue
 	x1 = [d[0] for d in data[lang]]
 	x2 = [d[1] for d in data[lang]]
 	n1, (smin1, smax1), m1, v1, ss1, sk1 = stats.describe(x1)
@@ -37,10 +37,10 @@ print "total turkers,", t
 def sort_order(s) : return name_order.index(s)
 
 print '\n'.join([d[3] for d in graph_data])
-#graph_data = sorted(graph_data, key=operator.itemgetter(1), reverse=True) 
-graph_data = sorted(graph_data, key=operator.itemgetter(4)) 
+graph_data = sorted(graph_data, key=operator.itemgetter(1), reverse=True) 
+#graph_data = sorted(graph_data, key=operator.itemgetter(4)) 
 
-w = 1 
+w = .5
 
 p1 = plt.bar(np.arange(len(graph_data)), [d[1] for d in graph_data], width=w, color='#6699FF', yerr=[d[2] for d in graph_data], ecolor='black')
 p1 = plt.bar(np.arange(len(graph_data)), [d[0] for d in graph_data], width=w, color='#0000FF')
