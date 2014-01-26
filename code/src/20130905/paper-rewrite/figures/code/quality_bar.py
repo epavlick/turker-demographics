@@ -53,5 +53,6 @@ plt.xlim(0,len(graph_data))
 #print [d[3] for d in graph_data]
 
 plt.xticks(np.arange(len(graph_data)) + w / 2.,[d[3] for d in graph_data], size='x-small', rotation=90)
-#plt.show()
-plt.savefig('quality_bar_filtered.pdf')
+plt.show()
+#plt.set_aspect('equal')
+#plt.savefig('quality_bar_filtered.pdf')

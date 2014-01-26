@@ -27,17 +27,17 @@ def print_table(lang_counts) :
 		params = (lmap[l].capitalize(),inavg,incnt,outavg,outcnt,topinstr,topoutstr)
 		try : 
 			if inavg > outavg : 
-				if sig == '5' : print '%s & \\textbf{%.03f} (%d) ** & %.03f (%d) & %s & %s \\\\'%params
-				elif sig == '10' : print '%s & \\textbf{%.03f} (%d) * & %.03f (%d) & %s & %s \\\\'%params
-				else : print '%s & \\textbf{%.03f} (%d) & %.03f (%d) & %s & %s \\\\'%params
+				if sig == '5' : print '%s & \\textbf{%.02f} (%d) ** & %.02f (%d) & %s & %s \\\\'%params
+				elif sig == '10' : print '%s & \\textbf{%.02f} (%d) * & %.02f (%d) & %s & %s \\\\'%params
+				else : print '%s & \\textbf{%.02f} (%d) & %.02f (%d) & %s & %s \\\\'%params
 			else: 
-				if sig == '5' : print '%s & %.03f (%d) & \\textbf{%.03f} (%d) ** & %s & %s\\\\'%params
-				elif sig == '10' : print '%s & %.03f (%d) & \\textbf{%.03f} (%d) * & %s & %s\\\\'%params
-				else : print '%s & %.03f (%d) & \\textbf{%.03f} (%d) & %s & %s\\\\'%params
+				if sig == '5' : print '%s & %.02f (%d) & \\textbf{%.02f} (%d) ** & %s & %s\\\\'%params
+				elif sig == '10' : print '%s & %.02f (%d) & \\textbf{%.02f} (%d) * & %s & %s\\\\'%params
+				else : print '%s & %.02f (%d) & \\textbf{%.02f} (%d) & %s & %s\\\\'%params
 		except : 
-			try : print '%s & %s (%d) & %.03f (%d) & %s & %s\\\\'%params
+			try : print '%s & %s (%d) & %.02f (%d) & %s & %s\\\\'%params
 			except : 
-				try : print '%s & %.03f (%d) & %s (%d) & %s & %s\\\\'%params
+				try : print '%s & %.02f (%d) & %s (%d) & %s & %s\\\\'%params
 				except : print 'BAHHHHHHHHH!'
 	
 #gu	BD,ZM,OM,TZ,KE,CA,ZA,US,MU,other,UK,IN,PK,SG

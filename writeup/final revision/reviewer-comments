@@ -1,0 +1,307 @@
+Reviewer A:
+
+APPROPRIATENESS: Does the paper fit in TACL? (Please answer this question in
+light of the desire to broaden the scope of the research areas represented
+in the ACL community.): 
+	5. Certainly.
+
+CLARITY: For the reasonably well-prepared reader, is it clear what was done
+and why? Is the paper well-written and well-structured?: 
+	4. Understandable by most readers.
+
+ORIGINALITY/INNOVATIVENESS: Does this paper break new ground intopic,
+methodology, or content? How exciting and innovative is the research?: 
+	3. Respectable: A nice research contribution that represents a notable
+extension of prior resources or evaluations.
+
+SOUNDNESS/CORRECTNESS: Is the methodology used to produce the resource or
+carry out the evaluation sound and well-chosen?: 
+	2. Troublesome. There are some ideas worth salvaging here, but the work
+should really have been done differently.
+
+MEANINGFUL COMPARISON: Does the author make clear where the presented system
+sits with respect to existing literature? Are the references adequate?: 
+	4. Mostly solid bibliography and comparison, but there are a few additional
+references that should be included. Discussion of benefits and limitations
+is acceptable but not enlightening.
+
+SUBSTANCE: Does this paper have enough substance (in terms of the amount of
+work), or would it benefit from more ideas or analysis?: 
+	4. Represents an appropriate amount of work for a publication in this
+journal. (most submissions)
+
+IMPACT OF IDEAS OR RESULTS: How significant is the work described? If the
+ideas are novel, will they also be useful or inspirational? Does the paper
+bring any new insights?: 
+	4. Some of the ideas or results will substantially help other people's
+ongoing research.
+
+IMPACT OF ACCOMPANYING SOFTWARE: If software was submitted along with the
+paper, what is the expected impact of the software package?: 
+	1. No usable software released.
+
+IMPACT OF ACCOMPANYING DATASET: If a dataset was submitted along with the
+paper, what is its expected impact? Will it be valuable to others in the
+form in which they are released?: 
+	1. No usable datasets submitted.
+
+RECOMMENDATION: Should the paper be accepted or rejected? In deciding on
+your ultimate recommendation, please think over all your scores above. If a
+paper has some weaknesses, but you really got a lot out of it, feel free to
+reccommend it. If a paper is solid but you could live without it, let us
+know that you're ambivalent.: 
+	3. Ambivalent: OK but does not seem up to the standards of TACL.
+
+Detailed Comments for the Authors: 
+	This revision has improved the quality of the paper. The authors have
+resolved two of the concerns that I had about the original submission, and
+partially addressed the third:
+
+-In the initial submission, it was not clear whether the reported accuracies
+were being driven by a small number of very active workers. The authors have
+convincingly shown that this is not the case.
+
+-The initial submission did not demonstrate that the workers' responses
+could be successfully integrated into machine translation systems. The
+revised submission provides two sources of evidence that this can be
+successfully done. First, the authors show that they can train a somewhat
+accurate SMT system by collecting whole sentence translations on Mechanical
+Turk. Second, the authors show that this system benefits from the word
+translations that they separately collected. This is encouraging evidence
+that translations collected on Mechanical Turk using the authors'
+methodology can be used to improve SMT.
+
+-The initial submission left open the possibility that much of the workers'
+success on the translation task was due to cheating. The revised submission
+contains a partial response to this concern. The authors first demonstrate
+(in Figure 5 in the new submission) that almost all of the workers gave
+answers that overlapped to a fairly limited extent with the translations
+provided by Google Translate. The authors also show (in Figure 3 in the
+response to reviewers) that removing workers whose responses had a high
+overlap with Google Translate did not have a significant effect on response
+accuracies. This is convincing evidence that workers' success on the task
+was not driven by Google Translate.
+
+Nonetheless, the data presented in Table 3 still suggest that cheating was
+common on the task; that cheating frequently provided answers as accurate as
+the genuine responses collected on the task; and that removing workers with
+high overlap on Google Translate was not sufficient to eliminate most of the
+cheating. The strongest illustration of this concern comes from the Irish
+data reported in this table: almost half of the Irish responses were
+collected out of region (mostly from India), and these responses were almost
+as accurate as those collected in Ireland and the United States. Given that
+there are only 2 million Irish speakers -- and an order of magnitude fewer
+native speakers -- and that almost all of these speakers live in Ireland or
+the United States, it is almost certain that the out-of-region responses
+were due to cheating. While most of the other cases are not quite as
+impossible as the Irish case -- German is a more international language, for
+example, and it is possible that some of the German responses originating
+out of region came from actual German speakers -- it still appears likely
+that most of the out of region responses were not given by genuine speakers
+of the language. (I have tried to calibrate my intuitions by using Wikipedia
+and Ethnologue, as the researchers did, to look at the geographic
+distribution of the different languages' speakers.) It is therefore
+concerning that the out of region responses were usually competitive with
+the in-region responses in their accuracies. This strongly suggests that
+these workers were using machine translation (services other than Google
+Translate) or online dictionaries in order to solve the task, and that the
+task was too simple to distinguish answers provided by these sources from
+those provided by fluent speakers.
+
+The revised paper provides informative data about one if its main questions:
+which languages have enough coverage on Mechanical Turk for corpus
+development? Though cheating on the task is still a concern, it seems likely
+that much of the cheating can be eliminated by restricting to in-region
+responses. As a result, the information that is summarized in Table 3 and
+Table 6 seems likely to be fairly accurate, at least after restricting to
+in-region responses. This data should be published, as it is highly
+non-trivial to collect, and will be very useful to other researchers who
+want to use Mechanical Turk for corpus development.
+
+However, the authors have not adequately answered their second question:
+what methodology should be used to assess the language expertise of
+crowdsourcing workers? The data presented in the paper still suggest that
+there is widespread cheating on the task, and that the task itself is not
+sensitive enough to distinguish genuine responses from fraudulent responses.
+Other than restricting to in-region responses, the paper does not provide a
+solution to this problem. Despite the value of its survey of linguistic
+expertise, I am not sure that the paper is ready for publication in TACL. 
+
+To make the paper publishable, I would recommend that the authors either a)
+significantly restrict the scope of the paper, and focus on its survey of
+linguistic expertise and its encouraging findings on the use of crowdsourced
+translations for SMT; or b) improve the methodology for evaluating
+linguistic expertise. To be publishable given a), it would be preferable for
+the authors to present additional validations of the accuracy of their
+survey, in order to make this survey a more definitive resource for other
+researchers. These validations could be convincing even if performed only on
+a subset of the surveyed languages.
+
+REVIEWER CONFIDENCE: 
+	4. Quite sure. I tried to check the important points carefully. It's
+unlikely, though conceivable, that I missed something that should affect my
+ratings.
+
+------------------------------------------------------
+
+------------------------------------------------------
+Reviewer B:
+
+APPROPRIATENESS: Does the paper fit in TACL? (Please answer this question in
+light of the desire to broaden the scope of the research areas represented
+in the ACL community.): 
+	5. Certainly.
+
+CLARITY: For the reasonably well-prepared reader, is it clear what was done
+and why? Is the paper well-written and well-structured?: 
+	5. Very clear.
+
+ORIGINALITY/INNOVATIVENESS: Does this paper break new ground intopic,
+methodology, or content? How exciting and innovative is the research?: 
+	3. Respectable: A nice research contribution that represents a notable
+extension of prior resources or evaluations.
+
+SOUNDNESS/CORRECTNESS: Is the methodology used to produce the resource or
+carry out the evaluation sound and well-chosen?: 
+	5. The methodology is very apt, and any claims are convincingly supported.
+
+MEANINGFUL COMPARISON: Does the author make clear where the presented system
+sits with respect to existing literature? Are the references adequate?: 
+	4. Mostly solid bibliography and comparison, but there are a few additional
+references that should be included. Discussion of benefits and limitations
+is acceptable but not enlightening.
+
+SUBSTANCE: Does this paper have enough substance (in terms of the amount of
+work), or would it benefit from more ideas or analysis?: 
+	4. Represents an appropriate amount of work for a publication in this
+journal. (most submissions)
+
+IMPACT OF IDEAS OR RESULTS: How significant is the work described? If the
+ideas are novel, will they also be useful or inspirational? Does the paper
+bring any new insights?: 
+	3. Interesting but not too influential. The work will be cited, but mainly
+for comparison or as a source of minor contributions.
+
+IMPACT OF ACCOMPANYING SOFTWARE: If software was submitted along with the
+paper, what is the expected impact of the software package?: 
+	1. No usable software released.
+
+IMPACT OF ACCOMPANYING DATASET: If a dataset was submitted along with the
+paper, what is its expected impact? Will it be valuable to others in the
+form in which they are released?: 
+	4. Useful: I would recommend the new datasets to other researchers or
+developers for their ongoing work.
+
+RECOMMENDATION: Should the paper be accepted or rejected? In deciding on
+your ultimate recommendation, please think over all your scores above. If a
+paper has some weaknesses, but you really got a lot out of it, feel free to
+reccommend it. If a paper is solid but you could live without it, let us
+know that you're ambivalent.: 
+	4. Worthy: A good paper that is worthy of being published in TACL.
+
+Detailed Comments for the Authors: 
+	I would like to thank the authors for addressing all my comments and
+concerns. I believe that the paper has greatly improved and the added
+experiments and revised evaluation measures and filters have strengthened
+the contributions of this paper. I recommend this manuscript for publication
+in TACL. 
+
+A number of typos:
+- page 4: "... with the largest number of articles, (Table 2)" -> remove the
+comma
+
+- page 8: "The fastest language was Malayalam, for we collected..." -> "...
+for which we collected..."
+
+- page 9: "Amazon may change its expand its payments to new currencies." ->
+"Amazon may expand its payments..."
+
+- page 9: "... and (3) and excluding ..." -> "... and (3) excluding ..."
+
+
+On Mon, Dec 16, 2013 at 11:16 PM, afra alishahi <A.Alishahi@uvt.nl> wrote:
+
+REVIEWER CONFIDENCE: 
+	4. Quite sure. I tried to check the important points carefully. It's
+unlikely, though conceivable, that I missed something that should affect my
+ratings.
+
+------------------------------------------------------
+
+------------------------------------------------------
+Reviewer C:
+
+APPROPRIATENESS: Does the paper fit in TACL? (Please answer this question in
+light of the desire to broaden the scope of the research areas represented
+in the ACL community.): 
+	5. Certainly.
+
+CLARITY: For the reasonably well-prepared reader, is it clear what was done
+and why? Is the paper well-written and well-structured?: 
+	5. Very clear.
+
+ORIGINALITY/INNOVATIVENESS: Does this paper break new ground intopic,
+methodology, or content? How exciting and innovative is the research?: 
+	3. Respectable: A nice research contribution that represents a notable
+extension of prior resources or evaluations.
+
+SOUNDNESS/CORRECTNESS: Is the methodology used to produce the resource or
+carry out the evaluation sound and well-chosen?: 
+	4. Generally solid work, although there are some aspects of the methodology
+or evaluation I am not sure about.
+
+MEANINGFUL COMPARISON: Does the author make clear where the presented system
+sits with respect to existing literature? Are the references adequate?: 
+	5. Precise and complete comparison with related work. Benefits and
+limitations are fully described and supported.
+
+SUBSTANCE: Does this paper have enough substance (in terms of the amount of
+work), or would it benefit from more ideas or analysis?: 
+	4. Represents an appropriate amount of work for a publication in this
+journal. (most submissions)
+
+IMPACT OF IDEAS OR RESULTS: How significant is the work described? If the
+ideas are novel, will they also be useful or inspirational? Does the paper
+bring any new insights?: 
+	4. Some of the ideas or results will substantially help other people's
+ongoing research.
+
+IMPACT OF ACCOMPANYING SOFTWARE: If software was submitted along with the
+paper, what is the expected impact of the software package?: 
+	1. No usable software released.
+
+IMPACT OF ACCOMPANYING DATASET: If a dataset was submitted along with the
+paper, what is its expected impact? Will it be valuable to others in the
+form in which they are released?: 
+	4. Useful: I would recommend the new datasets to other researchers or
+developers for their ongoing work.
+
+RECOMMENDATION: Should the paper be accepted or rejected? In deciding on
+your ultimate recommendation, please think over all your scores above. If a
+paper has some weaknesses, but you really got a lot out of it, feel free to
+reccommend it. If a paper is solid but you could live without it, let us
+know that you're ambivalent.: 
+	5. Strong: I'd like to see it accepted; it will be one of the better papers
+in TACL.
+
+Detailed Comments for the Authors: 
+	Kudos to the authors on their detailed response.
+
+I think their improved methodology for removing cheating is substantially
+better. I still worry about cheating, but this will always be an issue, and
+I think their current approach seems rather reasonable. It does make the
+assumption that workers are either primarily cheaters or primarily
+non-cheaters; turkers who cheat only half the time may still slip through.
+That said, any fix is likely to be gamed by cheaters, and this one looks
+reasonable.
+
+SMT evaluation is also interesting; good to see the dictionaries helped. I
+would want to know what the test sets were, however -- I'm assuming they're
+held out sentences from the training set, but I couldn't find that anywhere
+in the text.
+
+REVIEWER CONFIDENCE: 
+	4. Quite sure. I tried to check the important points carefully. It's
+unlikely, though conceivable, that I missed something that should affect my
+ratings.
+
